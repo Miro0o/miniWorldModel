@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Fuzzing](../../../../../../Academics%20🎓/🗒️%20Academic%20Projects%20Workspace/LLM%20&%20Fuzzing/LLM%20&%20Fuzzing.md) 🎓
+↗ [LLM & Fuzzing](../../../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Fuzzing/LLM%20&%20Fuzzing.md) 🎓
 
 ### Learning Resources
 🚧 https://github.com/secfigo/Awesome-Fuzzing

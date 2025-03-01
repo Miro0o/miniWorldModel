@@ -84,8 +84,8 @@ Conventional computer cases are fully enclosed, with small holes (mostly in the 
 
 
 ### Embedded Computers
-↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
-↗ [Embedded Computer Systems](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
+↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+↗ [Embedded Computer Systems](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 
 
 ### Mainframe Computers & Data Center

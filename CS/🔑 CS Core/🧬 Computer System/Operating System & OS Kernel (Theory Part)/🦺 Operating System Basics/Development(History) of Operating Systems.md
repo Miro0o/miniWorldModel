@@ -90,7 +90,7 @@ load being distributed among all of them.
 
 
 ### Real-time Operating Systems
-↗ [RTOS (Real-Time Operating System)](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/🐎%20RTOS%20(Real-Time%20Operating%20System)/RTOS%20(Real-Time%20Operating%20System).md)
+↗ [RTOS (Real-Time Operating System)](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/🐎%20RTOS%20(Real-Time%20Operating%20System)/RTOS%20(Real-Time%20Operating%20System).md)
 
 
 ### Distributed Operating Systems

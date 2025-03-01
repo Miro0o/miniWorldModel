@@ -1,14 +1,10 @@
-# Embedded Programming
+# Embedded Programming & Software Development
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

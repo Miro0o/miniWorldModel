@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Embedded & Internet of Things](../../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+↗ [Embedded Development, Internet of Things & Robot](../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
 
 ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)

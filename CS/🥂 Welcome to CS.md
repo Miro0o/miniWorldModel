@@ -74,7 +74,7 @@ CS Core
 Computer Sub-fields
 - ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
 - ↗ [Data Science](Data%20Science/Data%20Science.md)
-- ↗ [Embedded & Internet of Things](Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+- ↗ [Embedded Development, Internet of Things & Robot](Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
 - ↗ [Human-Centered Computing](Human-Centered%20Computing/Human-Centered%20Computing.md)
 - ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)

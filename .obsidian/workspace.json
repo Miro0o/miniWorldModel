@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Academics 🎓/Academics.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Academics"
+              "title": "Software Analysis Basics Methodologies"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "file": "CS/Academics 🎓/Academics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Analysis Basics Methodologies"
+              "title": "Academics"
+            }
+          },
+          {
+            "id": "d8e73230b931a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro-Knowledge/Health/work out plan & notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "work out plan & notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559
+    "width": 583.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -177,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "file": "Micro-Knowledge/Health/work out plan & notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software Analysis Basics Methodologies"
+              "title": "Backlinks for work out plan & notes"
             }
           },
           {
@@ -196,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "file": "Micro-Knowledge/Health/work out plan & notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Software Analysis Basics Methodologies"
+              "title": "Outgoing links from work out plan & notes"
             }
           },
           {
@@ -225,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "file": "Micro-Knowledge/Health/work out plan & notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software Analysis Basics Methodologies"
+              "title": "Outline of work out plan & notes"
             }
           },
           {
@@ -263,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,11 +305,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "d8e73230b931a8ce",
   "lastOpenFiles": [
+    "Assets/Pics/Screenshot 2025-03-01 at 18.23.33.png",
+    "Assets/Pics/Screenshot 2025-03-01 at 18.23.13.png",
+    "Assets/Pics/Screenshot 2025-03-01 at 18.22.49.png",
+    "Assets/Pics/Pasted image 20250301163907.png",
+    "Assets/Pics/Pasted image 20250301161808.png",
+    "Assets/Pics/Pasted image 20250301160954.png",
+    "Assets/Pics/Pasted image 20250301154703.png",
+    "Micro-Knowledge/Health/work out plan & notes.md",
+    "Assets/Pics/Screenshot 2025-03-01 at 15.34.41.png",
+    "Assets/Pics/Screenshot 2025-03-01 at 15.33.23.png",
+    "Assets/Pics/Screenshot 2025-03-01 at 15.22.51.png",
+    "Assets/Pics/Screenshot 2025-03-01 at 15.22.55.png",
+    "Untitled.loom",
+    "CS/Academics 🎓/Academics.md",
+    "Micro-Knowledge/Health/How to keep a heathy life the right way.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/TV Shows/Rick and Morty",
+    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Family Guy",
+    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Bojack Horseman",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded SDK & CMD/Robot Operating System (ROS).md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded SDK & CMD/Embedded SDK & CMD.md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded Programming & Software Development.md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Development, Internet of Things & Robot.md",
     "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis & Binary Engineering.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Disclosure（漏洞挖掘）/Vulnerability Disclosure（漏洞挖掘）.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis Automation",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies",
@@ -300,35 +350,10 @@
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution/Symbolic Execution.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/🙇‍♂️ Formal Methods & FV/Formal Verification (FV).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Logics & Verification & Provers.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Z3 Theorem Prover.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Verification & Analysis Programming Languages/Verification & Analysis Programming Languages.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Functional Programming languages",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver/Satisfiability (SAT) Solver.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Formal Semantics and Programming Language.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
-    "CS/Academics 🎓/Academics.md",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "Universe, Knowledge, and Intelligence.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
     "Macro-Knowledge/Law",
-    "Assets/Pics/Screenshot 2025-02-27 at 15.43.37.png",
     "Macro-Knowledge/Economics & Finance/Finance & Financial Management/Assets Management",
-    "Assets/Standards/P020250116506795831658.pdf",
-    "Assets/P020250116506795831658.pdf",
-    "Assets/Standards",
-    "Macro-Knowledge/Economics & Finance/Finance & Financial Management",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.51.53.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.51.36.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.51.21.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.50.39.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.50.51.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 22.48.19.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 22.12.53.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.51.04.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 21.24.26.png",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
-↗ [Embedded Computer Systems](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
-- ↗ [Embedded Hardwares & Chips](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
+↗ [Embedded Computer Systems](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
+- ↗ [Embedded Hardwares & Chips](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 
 
 ### Learning Resources

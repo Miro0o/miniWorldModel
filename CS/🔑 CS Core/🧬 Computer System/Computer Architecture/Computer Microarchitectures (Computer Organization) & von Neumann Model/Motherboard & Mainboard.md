@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Computer Motherboards](../../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Motherboards/Computer%20Motherboards.md)
 
-↗ [Single-Board Computer (SBC)](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+↗ [Single-Board Computer (SBC)](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 ↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
 
 
