@@ -65,6 +65,45 @@ invent with python
 🇨🇳 https://github.com/apachecn/invent-with-python-zh
 InventWithPython 中文系列教程
 
+https://runestone.academy/ns/books/published/thinkcspy/index.html
+How to Think Like a Computer Scientist: Interactive Edition
+- [1. General Introduction](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/toctree.html)
+    - [1.1. The Way of the Program](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/intro-TheWayoftheProgram.html)
+    - [1.2. Algorithms](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Algorithms.html)
+    - [1.3. The Python Programming Language](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ThePythonProgrammingLanguage.html)
+    - [1.4. Executing Python in this Book](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/SpecialWaystoExecutePythoninthisBook.html)
+    - [1.5. More About Programs](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/MoreAboutPrograms.html)
+    - [1.6. What is Debugging?](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/WhatisDebugging.html)
+    - [1.7. Syntax errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Syntaxerrors.html)
+    - [1.8. Runtime Errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/RuntimeErrors.html)
+    - [1.9. Semantic Errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/SemanticErrors.html)
+    - [1.10. Experimental Debugging](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ExperimentalDebugging.html)
+    - [1.11. Formal and Natural Languages](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html)
+    - [1.12. A Typical First Program](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ATypicalFirstProgram.html)
+    - [1.13. Comments](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Comments.html)
+    - [1.14. Glossary](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Glossary.html)
+    - [1.15. Exercises](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Exercises.html)
+- [2. Simple Python Data](https://runestone.academy/ns/books/published/thinkcspy/SimplePythonData/toctree.html)
+- [3. Debugging Interlude 1](https://runestone.academy/ns/books/published/thinkcspy/Debugging/toctree.html)
+- [4. Python Turtle Graphics](https://runestone.academy/ns/books/published/thinkcspy/PythonTurtle/toctree.html)
+- [5. Python Modules](https://runestone.academy/ns/books/published/thinkcspy/PythonModules/toctree.html)
+- [6. Functions](https://runestone.academy/ns/books/published/thinkcspy/Functions/toctree.html)
+- [7. Selection](https://runestone.academy/ns/books/published/thinkcspy/Selection/toctree.html)
+- [8. More About Iteration](https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/toctree.html)
+- [9. Strings](https://runestone.academy/ns/books/published/thinkcspy/Strings/toctree.html)
+- [10. Lists](https://runestone.academy/ns/books/published/thinkcspy/Lists/toctree.html)
+- [11. Files](https://runestone.academy/ns/books/published/thinkcspy/Files/toctree.html)
+- [12. Dictionaries](https://runestone.academy/ns/books/published/thinkcspy/Dictionaries/toctree.html)
+- [13. Exceptions](https://runestone.academy/ns/books/published/thinkcspy/Exceptions/toctree.html)
+- [14. Web Applications](https://runestone.academy/ns/books/published/thinkcspy/WebApps/toctree.html)
+- [15. GUI and Event Driven Programming](https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/toctree.html)
+- [16. Recursion](https://runestone.academy/ns/books/published/thinkcspy/IntroRecursion/toctree.html)
+- [17. Classes and Objects - the Basics](https://runestone.academy/ns/books/published/thinkcspy/ClassesBasics/toctree.html)
+- [18. Classes and Objects - Digging a Little Deeper](https://runestone.academy/ns/books/published/thinkcspy/ClassesDiggingDeeper/toctree.html)
+- [19. Inheritance](https://runestone.academy/ns/books/published/thinkcspy/Inheritance/toctree.html)
+- [20. Unit Testing](https://runestone.academy/ns/books/published/thinkcspy/UnitTesting/toctree.html)
+- - [21. Hidden Items](https://runestone.academy/ns/books/published/thinkcspy/_hidden/toctree.html)
+
 
 ### Learn in Action
 [kaggle](https://www.kaggle.com) dataset, code, course, and more ... 👍

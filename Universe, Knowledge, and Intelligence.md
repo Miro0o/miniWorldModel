@@ -24,6 +24,8 @@ https://www.dk.com/uk/book/9781465494351-1000-inventions-and-discoveries/
 
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
 
+[Program, Computer, and Automation](CS/🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+
 
 
 ## 👼🏻 Human Intelligence & Human Society

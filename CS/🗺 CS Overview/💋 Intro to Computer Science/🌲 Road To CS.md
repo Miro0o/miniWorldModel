@@ -100,6 +100,332 @@ https://github.com/jobbole
 
 
 
+## CS & IT in Difference Aspects
+There are multiple aspects & paths to learn or to get to know what is this enormous discipline about. Many countries and societies likes to approach to this domain from following three dimensions: Industry, School, and Academia, or so called "产、学、研".
+
+
+### Industry (产)
+↗ [Electronics & Information Technologies Business Fields Research](🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+
+
+### School (学)
+Usually this is reflected from universities' program names and course names. Hence, they are the CS most familiar to students from related majors.
+
+This note is organized following this aspects as well.
+
+CS Core
+- ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+- ↗ [Computer Languages & Programming Methodology](🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Program Compilation & Execution](🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+- ↗ [Computer Storage & Database Systems](🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+- ↗ [Computer Networking and Communication](🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+- ↗ [Computer System](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+	- ↗ [Computer Architecture](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+	- ↗ [Operating System & OS Kernel (Theory Part)](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+- ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
+
+CS Sub-fields
+- ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
+- ↗ [Data Science](Data%20Science/Data%20Science.md)
+- ↗ [Embedded Development, Internet of Things & Robot](Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+- ↗ [Human-Centered Computing](Human-Centered%20Computing/Human-Centered%20Computing.md)
+- ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+- ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
+- ↗ [Web 3.0 & Cryptocurrency](Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
+- etc.
+
+CS Inter-disciplines
+- ↗ [Math & Theoretical Computer Science (TCS)](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+	- ↗ [Analytical Mathematics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Analytical%20Mathematics/Analytical%20Mathematics.md)
+	- ↗ [Information Theory](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+	- ↗ [Operation Research](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
+	- ↗ [Possibilities & Statistics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+	- ↗ [Mathematical Logics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+	- etc.
+- ↗ [Computing Methodologies](🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+	- ↗ [Artificial Intelligence](🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+	- ↗ [High Performance Computing](🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+	- ↗ [Quantum Computing](🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+	- etc.
+
+
+### Academia (研)
+↗ [Intro to Computer Science](🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Academics](Academics%20🎓/Academics.md)
+
+https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+ACM CCS 2012
+- **Hardware**
+	- Printed circuit boards
+	- Communication hardware, interfaces and storage
+	- Integrated circuits
+	- Very large scale integration design
+	- Power and energy
+	- Electronic design automation
+	- Hardware validation
+	- Hardware test
+	- Robustness
+	- Emerging technologies
+- **Software and its Engineering** ✅
+	- <a>Software organization and properties</a>
+		- Contextual software domains
+			- E-commerce infrastructure
+			- Software infrastructure
+			- Operating systems
+			- Virtual worlds software
+		- Software system structures
+			- Embedded software
+			- Software architectures
+			- Software system models
+			- Ultra-large-scale systems
+			- Distributed systems organizing principles
+			- Real-time systems software
+			- Abstraction, modeling and modularity
+		- Software functional properties
+			- Correctness
+			- Formal methods
+		- Extra-functional properties
+			- Interoperability
+			- Software performance
+			- Software reliability
+			- Software fault tolerance
+			- Software safety
+			- Software usability
+	- <a>Software notations and tools</a>
+		- General programming languages
+			- Language types
+			- Language features
+		- Formal language definitions
+			- Syntax
+			- Semantics
+		- Compilers
+			- Interpreters
+			- Incremental compilers
+			- Retargetable compilers
+			- Just-in-time compilers
+			- Dynamic compilers
+			- Translator writing systems and compiler generators
+			- Source code generation
+			- Runtime environments
+			- Preprocessors
+			- Parsers
+		- Context specific languages
+			- Markup languages
+			- Scripting languages
+			- Domain specific languages
+			- Specialized application languages
+			- API languages
+			- Graphical user interface languages
+			- Window managers
+			- Command and control languages
+			- Macro languages
+			- Programming by example
+			- State based definitions
+			- Visual languages
+			- Interface definition languages
+		- System description languages
+			- Design languages
+			- Unified Modeling Language (UML)
+			- Architecture description languages
+			- System modeling languages
+			- Orchestration languages
+			- Integration frameworks
+			- Specification languages
+		- Development frameworks and environments
+			- Object oriented frameworks
+			- Software as a service orchestration system
+			- Integrated and visual development environments
+			- Application specific development environments
+		- Software configuration management and version control systems
+		- Software libraries and repositories
+		- Software maintenance tools
+	- <a>Software creation and management</a>
+		- Designing software
+			- Requirements analysis
+			- Software design engineering
+			- Software design tradeoffs
+			- Software implementation planning
+		- Software development process management
+			- Software development methods
+			- Risk management
+		- Software development techniques
+			- Software prototyping
+			- Object oriented development
+			- Flowcharts
+			- Reusability
+			- Error handling and recovery
+			- Automatic programming
+		- Software verification and validation
+			- Software prototyping
+			- Operational analysis
+			- Software defect analysis
+			- Fault tree analysis
+			- Process validation
+			- Formal software verification
+			- Empirical software validation
+		- Software post-development issues
+			- Software reverse engineering
+			- Documentation
+			- Backup procedures
+			- Software evolution
+			- Software version control
+			- Maintaining software
+			- System administration
+		- Collaboration in software development
+			- Open source model
+			- Programming teams
+		- Search-based software engineering
+- **Computer Systems Organization**
+	- Architectures
+	- Embedded and cyber-physical systems
+	- Real-time systems
+	- Dependable and fault-tolerant systems and networks
+- **Networks**
+	- Network architectures
+	- Network protocols
+	- Network components
+	- Network algorithms
+	- Network performance evaluation
+	- Network properties
+	- Network services
+	- Network types
+- **Theory of Computation**
+	- Models of computation
+	- Formal languages and automata theory
+	- Computational complexity and cryptography
+	- Logic
+	- Design and analysis of algorithms
+	- Randomness, geometry and discrete structures
+	- Theory and algorithms for application domains
+	- Semantics and reasoning
+- **Mathematics of Computing**
+	- Discrete mathematics
+	- Probability and statistics
+	- Mathematical software
+	- Information theory
+	- Mathematical analysis
+	- Continuous mathematics
+- **Computing Methodologies**
+	- Symbolic and algebraic manipulation
+	- Parallel computing methodologies
+	- Artificial intelligence
+	- Machine learning
+	- Modeling and simulation
+	- Computer graphics
+	- Distributed computing methodologies
+	- Concurrent computing methodologies
+- **Information Systems**
+	- Data management systems
+	- Information storage systems
+	- Information systems applications
+	- World Wide Web
+	- Information retrieval
+- **Security and privacy** ✅
+	- <a>Cryptography</a>
+		- Key management
+		- Public key (asymmetric) techniques
+			- Digital signatures
+			- Public key encryption
+		- Symmetric cryptography and hash functions
+			- Block and stream ciphers
+			- Hash functions and message authentication codes
+		- Cryptanalysis and other attacks
+		- Information-theoretic techniques
+		- Mathematical foundations of cryptography
+	- <a>Formal methods and theory of security</a>
+		- Trust frameworks
+		- Security requirements
+		- Formal security models
+		- Logic and verification
+	- <a>Security services</a>
+		- Authentication
+			- Biometrics
+			- Graphical / visual passwords
+			- Multi-factor authentication
+		- Access control
+		- Pseudonymity, anonymity and untraceability
+		- Privacy-preserving protocols
+		- Digital rights management
+		- Authorization
+	- <a>Intrusion/anomaly detection and malware mitigation</a>
+		- Malware and its mitigation
+		- Intrusion detection systems
+			- Artificial immune systems
+		- Social engineering attacks
+			- Spoofing attacks
+			- Phishing
+	- <a>Security in hardware</a>
+		- Tamper-proof and tamper-resistant designs
+		- Embedded systems security
+		- Hardware security implementation
+			- Hardware-based security protocols
+		- Hardware attacks and countermeasures
+			- Malicious design modifications
+			- Side-channel analysis and countermeasures
+		- Hardware reverse engineering
+	- <a>Systems security</a>
+		- Operating systems security
+			- Mobile platform security
+			- Trusted computing
+			- Virtualization and security
+		- Browser security
+		- Distributed systems security
+		- Information flow control
+		- Denial-of-service attacks
+		- Firewalls
+		- Vulnerability management
+			- Penetration testing
+			- Vulnerability scanners
+		- File system security
+	- <a>Network security</a>
+		- Security protocols
+		- Web protocol security
+		- Mobile and wireless security
+		- Denial-of-service attacks
+		- Firewalls
+	- <a>Database and storage security</a>
+		- Data anonymization and sanitization
+		- Management and querying of encrypted data
+		- Information accountability and usage control
+		- Database activity monitoring
+	- <a>Software and application security</a>
+		- Software security engineering
+		- Web application security
+		- Social network security and privacy
+		- Domain-specific security and privacy architectures
+		- Software reverse engineering
+	- <a>Human and societal aspects of security and privacy</a>
+		- Economics of security and privacy
+		- Social aspects of security and privacy
+		- Privacy protections
+		- Usability in security and privacy
+- **Human-Centered Computing**
+	- Human computer interaction (HCI)
+	- Interaction design
+	- Collaborative and social computing
+	- Ubiquitous and mobile computing
+	- Visualization
+	- Accessibility
+- **Applied Computing**
+    - Electronic commerce
+    - Enterprise computing
+    - Physical sciences and engineering
+    - Life and medical sciences
+    - Law, social and behavioral sciences
+    - Computer forensics
+    - Arts and humanities
+    - Computers in other domains
+    - Operations research
+    - Education
+    - Document management and text processing
+- **Social and Professional Topics**
+	- Professional topics
+	- Computing / technology policy
+	- User characteristics
+
+
+
 ## 🚀 A Serious CS Roadmap
 > ↗ [Intro to Computer Science /Questions Leading my CS Study](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#Questions%20Leading%20my%20CS%20Study)
 
@@ -142,10 +468,14 @@ Software Engineering
 2. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+		1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	5. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
-	4. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-	5. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+	4. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+	5. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+	6. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
@@ -374,6 +704,46 @@ very useful site about various topics in CS!
 ---
 🤔 👨‍💻 https://www.hackingnote.com
 A place to dump some learning notes.
+
+---
+https://runestone.academy/ns/books/published/thinkcspy/index.html
+How to Think Like a Computer Scientist: Interactive Edition
+- [1. General Introduction](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/toctree.html)
+    - [1.1. The Way of the Program](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/intro-TheWayoftheProgram.html)
+    - [1.2. Algorithms](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Algorithms.html)
+    - [1.3. The Python Programming Language](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ThePythonProgrammingLanguage.html)
+    - [1.4. Executing Python in this Book](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/SpecialWaystoExecutePythoninthisBook.html)
+    - [1.5. More About Programs](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/MoreAboutPrograms.html)
+    - [1.6. What is Debugging?](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/WhatisDebugging.html)
+    - [1.7. Syntax errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Syntaxerrors.html)
+    - [1.8. Runtime Errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/RuntimeErrors.html)
+    - [1.9. Semantic Errors](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/SemanticErrors.html)
+    - [1.10. Experimental Debugging](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ExperimentalDebugging.html)
+    - [1.11. Formal and Natural Languages](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html)
+    - [1.12. A Typical First Program](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/ATypicalFirstProgram.html)
+    - [1.13. Comments](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Comments.html)
+    - [1.14. Glossary](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Glossary.html)
+    - [1.15. Exercises](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/Exercises.html)
+- [2. Simple Python Data](https://runestone.academy/ns/books/published/thinkcspy/SimplePythonData/toctree.html)
+- [3. Debugging Interlude 1](https://runestone.academy/ns/books/published/thinkcspy/Debugging/toctree.html)
+- [4. Python Turtle Graphics](https://runestone.academy/ns/books/published/thinkcspy/PythonTurtle/toctree.html)
+- [5. Python Modules](https://runestone.academy/ns/books/published/thinkcspy/PythonModules/toctree.html)
+- [6. Functions](https://runestone.academy/ns/books/published/thinkcspy/Functions/toctree.html)
+- [7. Selection](https://runestone.academy/ns/books/published/thinkcspy/Selection/toctree.html)
+- [8. More About Iteration](https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/toctree.html)
+- [9. Strings](https://runestone.academy/ns/books/published/thinkcspy/Strings/toctree.html)
+- [10. Lists](https://runestone.academy/ns/books/published/thinkcspy/Lists/toctree.html)
+- [11. Files](https://runestone.academy/ns/books/published/thinkcspy/Files/toctree.html)
+- [12. Dictionaries](https://runestone.academy/ns/books/published/thinkcspy/Dictionaries/toctree.html)
+- [13. Exceptions](https://runestone.academy/ns/books/published/thinkcspy/Exceptions/toctree.html)
+- [14. Web Applications](https://runestone.academy/ns/books/published/thinkcspy/WebApps/toctree.html)
+- [15. GUI and Event Driven Programming](https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/toctree.html)
+- [16. Recursion](https://runestone.academy/ns/books/published/thinkcspy/IntroRecursion/toctree.html)
+- [17. Classes and Objects - the Basics](https://runestone.academy/ns/books/published/thinkcspy/ClassesBasics/toctree.html)
+- [18. Classes and Objects - Digging a Little Deeper](https://runestone.academy/ns/books/published/thinkcspy/ClassesDiggingDeeper/toctree.html)
+- [19. Inheritance](https://runestone.academy/ns/books/published/thinkcspy/Inheritance/toctree.html)
+- [20. Unit Testing](https://runestone.academy/ns/books/published/thinkcspy/UnitTesting/toctree.html)
+- [21. Hidden Items](https://runestone.academy/ns/books/published/thinkcspy/_hidden/toctree.html)
 
 
 ### Specific Technical Knowledge

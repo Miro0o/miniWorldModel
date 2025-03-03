@@ -100,6 +100,8 @@ Segmentation has the ability to support sharing and protection, both of which ar
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.33.46%20PM.png)
 
+
+
 ## Protection & Sharing
 Segmentation lends itself to the implementation of protection and sharing policies. Because each segment table entry includes a length as well as a base address, a pro- gram cannot inadvertently access a main memory location beyond the limits of a segment. To achieve sharing, it is possible for a segment to be referenced in the segment tables of more than one process. The same mechanisms are, of course, available in a paging system. However, in this case, the page structure of programs and data is not visible to the programmer, making the specification of protection and sharing requirements more awkward. Figure 8.13 illustrates the types of protection relation- ships that can be enforced in such a system.
 

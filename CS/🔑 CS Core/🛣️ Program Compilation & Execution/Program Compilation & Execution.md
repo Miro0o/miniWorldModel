@@ -74,8 +74,8 @@ However, there are some important reasons why programmers need to understand how
 ![](../../../Assets/Pics/Screenshot%202024-02-15%20at%207.49.06PM.png)
 <small>程序软件从诞生到运行</small>
 
-![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
-<small>A examplary illustration of the compilation, linking, loading & execution process</small>
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Application Execution and Computer Data Flow</small>
 
 
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats

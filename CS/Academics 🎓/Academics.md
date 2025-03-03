@@ -108,9 +108,9 @@ Academic ranks in the United States | wikipedia
 ### Others
 https://pressbooks.pub/academicskills/
 学术能力养成指南 Academic Skills Guide for Dummies
+![](../../Assets/Pics/Screenshot%202025-03-03%20at%2017.17.59.png)
 
 https://github.com/WengLean/hands-on-research-tutorial
-
 
 https://www.zhihu.com/column/c_196483113
 计算机论文精选 | 知乎

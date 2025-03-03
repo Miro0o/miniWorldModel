@@ -35,13 +35,8 @@
 <small>Computer System & Computer Science Overview</small>
 ↗ [Computer Architecture](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
-<small>Instruction Processing Level</small>
-↗ [Instruction Levels](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Instruction%20Levels.md)
-
-![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
-<small>A examplary illustration of the compilation, linking, loading & execution process</small>
-↗ [Program Execution & Compilation System /🤔 Working Process of Compilation Systems](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md#🤔%20Working%20Process%20of%20Compilation%20Systems)
+![application_execution_and_computer_data_flow.excalidraw | 800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Application Execution and Computer Data Flow</small>
 
 
 
