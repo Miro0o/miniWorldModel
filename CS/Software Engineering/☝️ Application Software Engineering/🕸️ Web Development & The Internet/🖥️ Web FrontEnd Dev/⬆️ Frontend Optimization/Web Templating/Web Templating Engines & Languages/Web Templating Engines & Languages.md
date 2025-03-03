@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Methodology and Languages](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-- ↗ [PHP](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/PHP/PHP.md)
-- ↗ [sed](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
-- ↗ [awk](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
+↗ [Computer Languages & Programming Methodology](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [PHP](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/PHP/PHP.md)
+- ↗ [sed](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
+- ↗ [awk](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
 
 
 

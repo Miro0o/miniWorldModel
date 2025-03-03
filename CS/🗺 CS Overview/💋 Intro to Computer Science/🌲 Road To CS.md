@@ -141,9 +141,9 @@ Software Engineering
 	2. ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
-	2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	5. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	5. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	4. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	5. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
@@ -153,16 +153,16 @@ Software Engineering
 
 1. Theoretical Computer Science & Algorithms
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
 2. Computer System
-	1. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	1. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	2. etc.
 3. Software Engineering
 	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-	2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	4. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	5. etc.
 4. Large Scale Software System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
@@ -172,11 +172,11 @@ Software Engineering
 5. Data Scientist /AI
 	1. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
 6. IoT /Hardware /Computer Engineering
 	1. ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
-	2. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	2. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	3. etc.
 7. Web3 /Metaverse /Cryptocurrency
 	1. ↗ [Web 3.0](../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
@@ -205,7 +205,7 @@ Software Engineering
 
 
 ## 🎉 More Res
-> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 
 
@@ -478,7 +478,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
 > ↗ [Academic Research Group & Tutors Profiles](../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ---

@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Computer System](../🧬%20Computer%20System/Computer%20System.md)
-↗ [Computer System Hardware Development](../🧬%20Computer%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20System%20Hardware%20Development.md)
-↗ [Computer Architecture](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
-- ↗ [Microprocessors Unit (MPU)](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
-↗ [Microchips, Chips, Computer Chips & IC (in General)](../🧬%20Computer%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
+↗ [Computer System](../👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+↗ [Computer System Hardware Development](../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20System%20Hardware%20Development.md)
+↗ [Computer Architecture](../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+- ↗ [Microprocessors Unit (MPU)](../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
+↗ [Microchips, Chips, Computer Chips & IC (in General)](../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
 
-↗ [Computer Taxonomy & Computer (Hardware) Components](../🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+↗ [Computer Taxonomy & Computer (Hardware) Components](../👷🏾‍♂️%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 
 ↗ [Embedded Computer Systems](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 - ↗ [Embedded Hardwares & Chips](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)

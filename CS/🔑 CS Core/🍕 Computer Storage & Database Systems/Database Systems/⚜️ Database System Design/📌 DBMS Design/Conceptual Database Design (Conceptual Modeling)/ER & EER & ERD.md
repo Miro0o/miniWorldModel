@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [SE /Design & Modeling & Docs /UML](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/UML%20(Unified%20Modeling%20Language).md)
+↗ [SE /Design & Modeling & Docs /UML](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/UML%20(Unified%20Modeling%20Language).md)
 
-↗ [SE /Design & Modeling & Docs /ERD](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/ERD%20(Entity-Relationship%20Diagram).md)
+↗ [SE /Design & Modeling & Docs /ERD](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/ERD%20(Entity-Relationship%20Diagram).md)
 
 
 

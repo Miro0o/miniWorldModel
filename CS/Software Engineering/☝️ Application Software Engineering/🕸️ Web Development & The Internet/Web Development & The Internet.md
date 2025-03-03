@@ -22,7 +22,7 @@
 ↗ [Web Security](../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Web 3.0](../../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 
-↗ [Web Browsers](../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
+↗ [Web Browsers](../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
 ↗ [Web Browsers Development](../Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
 
 

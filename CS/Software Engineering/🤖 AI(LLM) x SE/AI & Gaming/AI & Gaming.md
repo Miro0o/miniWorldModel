@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Games](../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games.md)
+↗ [Games](../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games.md)
 
 
 

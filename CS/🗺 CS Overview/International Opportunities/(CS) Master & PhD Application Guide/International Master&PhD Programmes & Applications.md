@@ -10,7 +10,7 @@
 ↗ [Academics](../../../Academics%20🎓/Academics.md)
 ↗ [Academic Research Group & Tutors Profiles](../../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
-↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
+↗ [Natural Science Information](../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
 ↗ [给各位天命人的劝退信](../../Study,%20University,%20and%20Education/给各位天命人的劝退信.md)
 

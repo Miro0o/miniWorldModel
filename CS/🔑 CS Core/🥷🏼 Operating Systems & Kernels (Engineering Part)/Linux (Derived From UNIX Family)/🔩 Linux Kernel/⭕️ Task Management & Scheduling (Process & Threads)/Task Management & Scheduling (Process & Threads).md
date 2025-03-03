@@ -61,7 +61,7 @@ A summary of the resources a process has can be obtain from the `/proc/<pid>` 
 
 ### Linux Threads
  > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/processes.html
- > ↗ [Threads & Coroutine](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Threads%20&%20Coroutine/Threads%20&%20Coroutine.md)
+ > ↗ [Threads & Coroutine](../../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Threads%20&%20Coroutine/Threads%20&%20Coroutine.md)
 
 A thread is the basic unit that the kernel process scheduler uses to allow applications to run the CPU. A thread has the following characteristics:
 - Each thread has its own stack and together with the register values it determines the thread execution state

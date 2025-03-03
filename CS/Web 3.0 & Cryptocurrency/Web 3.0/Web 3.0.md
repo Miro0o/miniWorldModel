@@ -12,7 +12,7 @@
 
 
 ### Web3 Dev
-↗ [Web3 Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
+↗ [Web3 Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
 
 
 

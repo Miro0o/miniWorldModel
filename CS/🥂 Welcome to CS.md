@@ -46,14 +46,14 @@ Usually this is reflected from universities' program names and course names. Hen
 This note is organized following this aspects as well.
 
 CS Core
-- ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-- ↗ [Programming Methodology and Languages](🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-- ↗ [Program Execution & Compilation System](🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+- ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+- ↗ [Computer Languages & Programming Methodology](🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Program Compilation & Execution](🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 - ↗ [Computer Storage & Database Systems](🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Computer Networking and Communication](🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-- ↗ [Computer System](🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-	- ↗ [Computer Architecture](🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
-	- ↗ [Operating System & OS Kernel (Theory Part)](🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+- ↗ [Computer System](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+	- ↗ [Computer Architecture](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+	- ↗ [Operating System & OS Kernel (Theory Part)](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 - ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 

@@ -12,7 +12,7 @@ Cobbler快速入门
 
 
 ### Related Topics
-↗ [PXE (Preboot Execution Environment)](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/Second-Stage%20Boot%20Loader%20&%20Boot%20Manager/🛰️%20Network%20Booting/PXE%20(Preboot%20Execution%20Environment)/PXE%20(Preboot%20Execution%20Environment).md)
+↗ [PXE (Preboot Execution Environment)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/Second-Stage%20Boot%20Loader%20&%20Boot%20Manager/🛰️%20Network%20Booting/PXE%20(Preboot%20Execution%20Environment)/PXE%20(Preboot%20Execution%20Environment).md)
 
 
 

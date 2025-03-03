@@ -27,7 +27,7 @@
 **TL;DR**
 1. if SD card is greater than 64GB, than it needs to be formatted as FAT32 so that Pi can mount its file system to SD Card.
 	1. Raspberry Pi Imager --> choose a OS --> erase
-2. Choose a desirable OS and use a micro SD card flasher (↗ [Raspberry PI Imager](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Boot%20Image%20Flasher%20&%20Formatters/Raspberry%20PI%20Imager.md) or ↗ [balena](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Boot%20Image%20Flasher%20&%20Formatters/balena.md)) to load it to SD card.
+2. Choose a desirable OS and use a micro SD card flasher (↗ [Raspberry PI Imager](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Boot%20Image%20Flasher%20&%20Formatters/Raspberry%20PI%20Imager.md) or ↗ [balena](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Boot%20Image%20Flasher%20&%20Formatters/balena.md)) to load it to SD card.
 3. Before insert SD card to Pi, enable SSH service and wpa services via following:
 	1. go to root dir of SD card, 
 	2. `touch SSH`

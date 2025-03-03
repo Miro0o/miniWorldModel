@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Compilation & Program Loading Tools](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-↗ [Compilation Phase](../../../../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Compilation & Program Loading Tools](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+↗ [Compilation Phase](../../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
 ↗ [ELF and ABI Standards](../../../../../Linux%20Referenced%20Specifications/ELF%20and%20ABI%20Standards.md)
 

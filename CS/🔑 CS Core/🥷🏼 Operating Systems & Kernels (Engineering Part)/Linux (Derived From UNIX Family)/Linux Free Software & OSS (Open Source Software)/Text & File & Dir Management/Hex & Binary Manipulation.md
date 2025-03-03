@@ -23,7 +23,7 @@
 
 
 ### vim
-↗ [Vim Advance Usages /Hex View](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Usages/Vim%20Advance%20Usages.md#Hex%20View)
+↗ [Vim Advance Usages /Hex View](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/Vim%20Usages/Vim%20Advance%20Usages.md#Hex%20View)
 
 
 

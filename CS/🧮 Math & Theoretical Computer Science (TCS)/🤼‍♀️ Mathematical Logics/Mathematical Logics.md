@@ -8,7 +8,7 @@
 ### Related Topics
 Natural Language Logics
 
-↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Languages%20for%20Specific%20Scientific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ↗ [Logics & Verification & Provers](../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Logics%20&%20Verification%20&%20Provers.md)
 - ↗ [Satisfiability (SAT) Solver](../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Satisfiability%20(SAT)%20Solver/Satisfiability%20(SAT)%20Solver.md)
 - ↗ [Satisfiability Modulo Theory (SMT) Solvers](../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers.md)

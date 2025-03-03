@@ -8,7 +8,7 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
+↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
 
 
 ### Courses

@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Remote Administration(Access) Tools (RAT)](../../../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
-- ↗ [VNC (Virtual Network Computing)](../../../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
-- ↗ [X11VNC](../../../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/X11VNC.md)
+↗ [Remote Administration(Access) Tools (RAT)](../../../../../../Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
+- ↗ [VNC (Virtual Network Computing)](../../../../../../Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
+- ↗ [X11VNC](../../../../../../Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/X11VNC.md)
 
 ↗ [UNIX Family](../../../../../UNIX%20Family/UNIX%20Family.md)
 
@@ -19,7 +19,7 @@ X Project is NOT Netsarang's X serial products:
 ↗ [Xshell](../../../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Windows%20Console%20&%20ConPTY%20Based/Xshell.md)
 ↗ [xterm & xterm based](../../../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/xterm%20&%20xterm%20based/xterm%20&%20xterm%20based.md)
 
-↗ [VNC (Virtual Network Computing)](../../../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
+↗ [VNC (Virtual Network Computing)](../../../../../../Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
 
 
 ### Documentations & Learning Resources

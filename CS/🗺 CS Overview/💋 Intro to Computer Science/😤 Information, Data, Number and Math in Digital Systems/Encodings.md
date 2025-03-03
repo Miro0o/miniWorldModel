@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
-↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
+↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 
 ↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
 

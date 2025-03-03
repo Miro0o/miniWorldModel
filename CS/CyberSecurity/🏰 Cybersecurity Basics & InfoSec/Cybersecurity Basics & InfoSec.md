@@ -39,7 +39,7 @@ To standardize this discipline, academics and professionals collaborate to offer
 ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 <small>Computer Security & Risk Management</small>
 
-↗ [Computer Architecture /Computer Organization & Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md#Computer%20Organization%20&%20Architecture)
+↗ [Computer Architecture /Computer Organization & Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md#Computer%20Organization%20&%20Architecture)
 
 
 ### Difference Between InfoSec & CyberSec?

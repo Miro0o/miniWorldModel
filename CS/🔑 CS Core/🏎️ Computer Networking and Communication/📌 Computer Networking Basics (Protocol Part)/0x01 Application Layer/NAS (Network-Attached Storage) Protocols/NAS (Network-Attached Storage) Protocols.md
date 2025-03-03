@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [File Systems Implementations](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
+↗ [File Systems Implementations](../../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 ↗ [Distributed File System (Network File Systems)](../../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
 
 ↗ [Storage Area Network (SAN)](../../0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)

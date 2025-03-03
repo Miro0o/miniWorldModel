@@ -18,7 +18,7 @@
 ↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Commands%20CheatCheet%20&%20Online%20Search.md)
 - ↗ [MacOS cmd Cheatsheet](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/MacOS%20cmd%20Cheatsheet.md)
 - ↗ [Shell Commands Prompts & Correction](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Shell%20Commands%20Prompts%20&%20Correction.md)
-↗ [👍 Vim](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 🔍 https://ss64.com
 Command Line Reference

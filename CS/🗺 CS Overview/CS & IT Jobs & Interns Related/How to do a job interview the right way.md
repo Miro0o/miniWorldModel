@@ -6,7 +6,7 @@
 
 ## Res
 ### Dev Interview
-↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 [帅地玩编程](https://www.iamshuaidi.com)
 > 1. [C++面试题阅读指南（必看）](https://www.iamshuaidi.com/2309.html)

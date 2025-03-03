@@ -10,7 +10,7 @@
 ↗ [Awesome CLI Integration](../📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 ↗ [Awesome Text Processing & Data Manipulation](../📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
 
-↗ [Files Management](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Files%20Management/Files%20Management.md)
+↗ [Files Management](../../../../Generic%20Software%20Tools%20&%20Projects/Files%20Management/Files%20Management.md)
 
 
 

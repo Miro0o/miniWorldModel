@@ -8,7 +8,7 @@
 🏠 https://linasm.sourceforge.net/index.php
 📂 https://linasm.sourceforge.net/docs/index.php
 
-↗ [C-like Runtimes](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
+↗ [C-like Runtimes](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 
 
 

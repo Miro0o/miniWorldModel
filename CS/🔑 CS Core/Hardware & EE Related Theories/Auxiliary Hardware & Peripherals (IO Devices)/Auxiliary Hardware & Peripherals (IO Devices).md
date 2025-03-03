@@ -8,16 +8,16 @@
 ### Related Topics
 ↗ [Embedded Development, Internet of Things & Robot](../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
 
-↗ [Computer Taxonomy & Computer (Hardware) Components](../../🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
-↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+↗ [Computer Taxonomy & Computer (Hardware) Components](../../👷🏾‍♂️%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+↗ [Computer Architecture](../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer System Implementations](../🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
 
-↗ [Computer IO System](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Computer IO System](../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
 
-↗ [Computer Interfaces & Hardware Drivers](../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Computer Interfaces & Hardware Drivers](../../👷🏾‍♂️%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
-↗ [GPU (Graphics Processing Unit)](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+↗ [GPU (Graphics Processing Unit)](../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
 
 
 

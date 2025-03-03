@@ -5,16 +5,16 @@
 ## Res
 ### Related Topics
 ↗ [Program, Computer, and Automation](../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
-↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
-↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-↗ [Python](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python.md)
-↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Golang/Golang.md)
-↗ [Java](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python.md)
+↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Golang/Golang.md)
+↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 🔥 ↗ [Appendix](Appendix.md)
 ↗ [Galleries & Awesome SE](🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
-↗ [Cracked Software](../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/Cracked%20Software.md)
+↗ [Cracked Software](../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Cracked%20Software.md)
 
 ↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Browser Extensions & Automation](../../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Browser%20Extensions%20&%20Automation.md)
+↗ [Browser Extensions & Automation](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Browser%20Extensions%20&%20Automation.md)
 
 
 ### Others

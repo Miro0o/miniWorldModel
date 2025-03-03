@@ -7,9 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [🤯 Awesome List](../🤯%20Awesome%20List.md)
-↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-- ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
-- ↗ [Computer Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+- ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
@@ -349,10 +349,10 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 
 1️⃣ Theoretical Computer Science (TCS) & Math 
 - ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-- ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+- ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 2️⃣ Computer System & Engineering
-- ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+- ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 - ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 - ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
@@ -391,24 +391,24 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 		2. ↗ [Computational Complexity Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 4. What is a computer and how is it designed & constructed? (hardware, software, protocols)
-	1. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	1. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	2. What composes a computer? /How computer is designed in terms of hardware?
 		1. ↗ [Classical Electromagnetism](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
 		3. ↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 			1. ↗ [Digital (Logic) Electronics Foundations](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)]
 			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 	3. What happened during computer booting? /How does computer start?
-		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 	4. What happened after computer booting? /How does OS work?
-		1. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+		1. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		2. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. What is a program and how does it work? (application program /OS program)
 		1. ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
 		2. Why and how do we program? /How are programming languages designed
-			2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-			3. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+			3. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 		3. What happened when a program is running? /How is software programmed, compiled, and run?
-			1. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+			1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 			2. 怎么构造一个最小的 Hello, World？ --- jyy
 			3. Where is the first instruction of a C program?
 			4. Where is the first instruction of a Python program?
@@ -420,7 +420,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 5. What can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		2. ↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
 		3. ↗ [Discrete Mathematics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Discrete%20Mathematics.md)
 		4. etc.

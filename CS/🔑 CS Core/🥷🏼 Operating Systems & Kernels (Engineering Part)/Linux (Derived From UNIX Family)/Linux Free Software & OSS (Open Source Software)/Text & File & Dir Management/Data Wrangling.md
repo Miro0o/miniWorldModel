@@ -6,11 +6,11 @@
 
 ## Text Editors /Env
 ### 👉 Vim
-↗ [👍 Vim](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 ### 👉 Emacs
-↗ [GNU emacs](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/GNU%20emacs.md)
+↗ [GNU emacs](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Text%20Editors/GNU%20emacs.md)
 
 
 ### 👉 R
@@ -19,7 +19,7 @@
 
 ## Data /Text Processing
 ### 👉 `ed` --> `sed`
-> ↗ [sed](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
+> ↗ [sed](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
 
 `sed` --  “stream editor” that builds on top of the old `ed` editor.
 
@@ -30,7 +30,7 @@
 
 
 ### 👉 `awk`
-> ↗ [awk](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
+> ↗ [awk](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
 
 To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml), 
 

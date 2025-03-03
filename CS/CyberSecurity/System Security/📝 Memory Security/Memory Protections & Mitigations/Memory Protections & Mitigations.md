@@ -9,8 +9,8 @@
 ↗ [Win Memory Protection Mechanism](../../Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
 ↗ [Linux Memory Protection Mechanism](../../Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
 
-↗ [Programming Methodology and Languages](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-↗ [Compilation & Program Loading Tools](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Compilation & Program Loading Tools](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 ↗ [Operating System Security](../../Operating%20System%20Security/Operating%20System%20Security.md)
 
 
@@ -66,7 +66,7 @@ Yet another way to defend your code is to use tools to analyze and patch insecur
 - You can also probe your own system for vulnerabilities, by subjecting your code to **thorough software tests**. Though it is pretty difficult to know whether you have tested your code “enough” to deem it safe, there are several code-coverage tools that can help you out.
 	- Bug-finding tools
 		- Excellent resource, as long as there aren’t too many false alarms
-		- ↗ [Valgrind](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
+		- ↗ [Valgrind](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
 		- ↗ [Fuzzing (Fuzz Testing)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md), or testing with random inputs, testing corner cases
 	- Code review
 		- Have someone look over your code for memory safety errors. Can be very effective… but also expensive

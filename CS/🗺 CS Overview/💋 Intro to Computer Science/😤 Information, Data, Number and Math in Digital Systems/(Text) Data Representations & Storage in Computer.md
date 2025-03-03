@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md) for more possible info.
-And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md).
+Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md) for more possible info.
+And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md).
 
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [Address Space & Memory Layout](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Memory Access & Addressing](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Address Space & Memory Layout](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Memory Access & Addressing](../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 
@@ -46,11 +46,11 @@ Bit, Byte, Nibble, and Word
 
 
 ## Data Storage
-> Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
+> Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
 
 ### Data Storage From Programmer's Perspective /Application Process Perspective: Address Space
-↗ [Address Space & Memory Layout](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Address Space & Memory Layout](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
 
 ### Data Storage in Memory: Byte Order/Endianness
@@ -76,7 +76,7 @@ Even though stack-based machines have good code density and a simple model for t
 **cons**
 a stack cannot be accessed randomly, which makes it difficult to generate efficient code. In addition, the stack becomes a bottleneck during execution.
 
-> ↗ [Instruction Formats](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md) - reverse polish notation
+> ↗ [Instruction Formats](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md) - reverse polish notation
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.31.50%20PM.png)
 #### 2️⃣ Accumulator Architecture
@@ -86,8 +86,8 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 #### 3️⃣ GPR (General Purpose Register) Architecture
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
-> ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md)
-> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+> ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md)
+> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 
@@ -115,9 +115,9 @@ Load-store architectures require data to be moved into registers before any oper
 ↗ [Encodings](Encodings.md)
 ↗ [Computer Network /Error Control](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
-↗ [Data Structures](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+↗ [Data Structures](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
 
-↗ [File Types & File Formats](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
+↗ [File Types & File Formats](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
 
 ↗ [Cryptology & Secure Communication](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)]
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)

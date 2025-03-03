@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Formal Methods & Formal Verification (FV).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming Methodology and Languages"
+              "title": "Formal Methods & Formal Verification (FV)"
             }
           },
           {
@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Academics"
             }
-          },
-          {
-            "id": "d8e73230b931a8ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Micro-Knowledge/Health/work out plan & notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "work out plan & notes"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559,
-    "collapsed": true
+    "width": 583.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -202,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro-Knowledge/Health/work out plan & notes.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Formal Methods & Formal Verification (FV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for work out plan & notes"
+              "title": "Backlinks for Formal Methods & Formal Verification (FV)"
             }
           },
           {
@@ -221,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro-Knowledge/Health/work out plan & notes.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Formal Methods & Formal Verification (FV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from work out plan & notes"
+              "title": "Outgoing links from Formal Methods & Formal Verification (FV)"
             }
           },
           {
@@ -250,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro-Knowledge/Health/work out plan & notes.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Formal Methods & Formal Verification (FV).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of work out plan & notes"
+              "title": "Outline of Formal Methods & Formal Verification (FV)"
             }
           },
           {
@@ -288,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,8 +281,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8e73230b931a8ce",
+  "active": "7d4c32469510ba1d",
   "lastOpenFiles": [
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Constraint Solving.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Symbolic Execution/Symbolic Execution.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Formal Methods & Formal Verification (FV).md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Computer Languages & Programming Methodology.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🐢 Programming Language Theory (PLT)/Programming Language Theory (PLT).md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🐢 Programming Language Theory (PLT)/Formal Semantics and Programming Language.md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
+    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/HTML (HyperText Markup Language).md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/XML (Extensible Markup Language).md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/💅🏻 CSS & HTML UI Frameworks/CSS & HTML UI Frameworks.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Compiled Languages/🐝 JavaScript-Based Languages/JavaScript-Based Languages.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML & CSS Themes/Color & Layout Design.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JavaScript (Browser End)/Graphics & Design/Fonts.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JavaScript (Browser End)/Graphics & Design/Graphics.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JavaScript (Browser End)/Graphics & Design/Icons.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML & CSS Themes/Web Blog Themes.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/HTML & CSS Themes/Web3 Themes.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/JS Obfuscation.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JavaScript Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/IDE (Integrated Development Environment)/Xcode.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Compiled + Interpreted Languages/Dot.Net-Based Languages",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🐢 Programming Language Theory (PLT)",
     "Assets/Pics/Screenshot 2025-03-01 at 18.23.33.png",
     "Assets/Pics/Screenshot 2025-03-01 at 18.23.13.png",
     "Assets/Pics/Screenshot 2025-03-01 at 18.22.49.png",
@@ -314,45 +318,17 @@
     "Assets/Pics/Pasted image 20250301161808.png",
     "Assets/Pics/Pasted image 20250301160954.png",
     "Assets/Pics/Pasted image 20250301154703.png",
-    "Micro-Knowledge/Health/work out plan & notes.md",
     "Assets/Pics/Screenshot 2025-03-01 at 15.34.41.png",
     "Assets/Pics/Screenshot 2025-03-01 at 15.33.23.png",
     "Assets/Pics/Screenshot 2025-03-01 at 15.22.51.png",
-    "Assets/Pics/Screenshot 2025-03-01 at 15.22.55.png",
     "Untitled.loom",
-    "CS/Academics 🎓/Academics.md",
-    "Micro-Knowledge/Health/How to keep a heathy life the right way.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
     "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/TV Shows/Rick and Morty",
     "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Family Guy",
     "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Bojack Horseman",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded SDK & CMD/Robot Operating System (ROS).md",
-    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded SDK & CMD/Embedded SDK & CMD.md",
-    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Embedded Programming & Software Development.md",
-    "CS/Embedded Development, Internet of Things & Robot/Embedded Development, Internet of Things & Robot.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis & Binary Engineering.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Disclosure（漏洞挖掘）/Vulnerability Disclosure（漏洞挖掘）.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis Automation",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Discovery（漏洞检测）/Vulnerability Discovery（漏洞检测）.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/Configuration Automation/Configuration Automation.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/FAQ.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Constraint Solving.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Malicious Code Detection & Vulnerability Discovery/Malicious Code Detection & Vulnerability Discovery.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Anti-Virus & AV Evasion Techniques (OPSEC Safe)/Anti-Virus & AV Evasion Techniques (OPSEC Safe).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/AntiVirus (AV)/AntiVirus (AV).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Formal Methods & FV.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution/Symbolic Execution.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/🙇‍♂️ Formal Methods & FV/Formal Verification (FV).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Functional Programming languages",
-    "Macro-Knowledge/Law",
-    "Macro-Knowledge/Economics & Finance/Finance & Financial Management/Assets Management",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & Formal Verification (FV)/Symbolic Execution",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/Functional Programming Languages",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",

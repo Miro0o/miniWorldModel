@@ -10,16 +10,16 @@
 
 ### Related Topics
 ↗ [SUS (Single UNIX Specification)](../../UNIX%20Family/SUS%20(Single%20UNIX%20Specification).md)
-↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [POSIX (Portable Operating System Interface)](../../../👷🏾‍♂️%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
-↗ [Windows API](../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/Windows%20API.md)
+↗ [Windows API](../../../👷🏾‍♂️%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/Windows%20API.md)
 
 
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Linux_Standard_Base
 
-The **Linux Standard Base (LSB)** was a joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the ↗ [FHS (Filesystem Hierarchy Standard)](FHS%20(Filesystem%20Hierarchy%20Standard).md). LSB was based on the ↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md) specification, the ↗ [SUS (Single UNIX Specification)](../../UNIX%20Family/SUS%20(Single%20UNIX%20Specification).md), and several other open standards, but extended them in certain areas.
+The **Linux Standard Base (LSB)** was a joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the ↗ [FHS (Filesystem Hierarchy Standard)](FHS%20(Filesystem%20Hierarchy%20Standard).md). LSB was based on the ↗ [POSIX (Portable Operating System Interface)](../../../👷🏾‍♂️%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md) specification, the ↗ [SUS (Single UNIX Specification)](../../UNIX%20Family/SUS%20(Single%20UNIX%20Specification).md), and several other open standards, but extended them in certain areas.
 
 According to LSB:
 

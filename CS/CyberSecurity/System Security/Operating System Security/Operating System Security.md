@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System & OS Kernel (Theory Part)](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [Operating Systems & Kernels (Engineering Part)](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-↗ [Program Execution & Compilation System](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+↗ [Program Compilation & Execution](../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 
 ↗ [Virtualization Security](../../Application%20Security/Virtualization%20Security/Virtualization%20Security.md)
 - ↗ [Android Security](../../Application%20Security/Virtualization%20Security/Android%20Security/Android%20Security.md)

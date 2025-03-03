@@ -8,8 +8,8 @@
 
 
 ## Intro
-> ↗ [File & File System](../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
-> ↗ [File Systems Implementations](../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
+> ↗ [File & File System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+> ↗ [File Systems Implementations](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 
 [Distributed file systems](https://en.wikipedia.org/wiki/Distributed_file_system "Distributed file system") are also called network file systems. Many implementations have been made, they are location dependent and they have [access control lists](https://en.wikipedia.org/wiki/Access_control_lists "Access control lists") (ACLs), unless otherwise stated below.
 

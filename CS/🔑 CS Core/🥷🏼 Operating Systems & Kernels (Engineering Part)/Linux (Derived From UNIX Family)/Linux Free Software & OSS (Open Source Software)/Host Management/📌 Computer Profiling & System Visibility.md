@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
-↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
+↗ [End Host Management & Hardware Profiling](../../../../Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ↗ [Software Analysis & Binary Engineering](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 
@@ -81,7 +81,7 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 
 ## 🎯 System Runtime Specifics
-> ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
+> ↗ [End Host Management & Hardware Profiling](../../../../Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop` | `btop`
 ↗ [Process Management Basics /Process Activity Management](../🪆%20Process%20Management/Process%20Management%20Basics.md#Process%20Activity%20Management)
@@ -117,8 +117,8 @@ Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 #### 👉 `trace` | `ktrace`
 #### 👉 `lstrace` | `ftrace`
 #### 👉 `gdb` | `valgrind` | etc.
-↗ [gdb (GNU DeBugger)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
-↗ [Valgrind](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md)
+↗ [gdb (GNU DeBugger)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
+↗ [Valgrind](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md)
 #### 👉 SystemTap | Perf | Kernel Debuggers
 
 

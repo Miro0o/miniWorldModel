@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [STIX (Structured Threat Information Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/STIX%20(Structured%20Threat%20Information%20Expression).md)
+↗ [STIX (Structured Threat Information Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/STIX%20(Structured%20Threat%20Information%20Expression).md)
 ↗ [TAXII (Trusted Automated Exchange of Intelligence Information)](TAXII%20(Trusted%20Automated%20Exchange%20of%20Intelligence%20Information).md)
 
 ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
@@ -20,7 +20,7 @@
 ↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/📌%20Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
 ↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 ↗ [OSINT (Open Source Intelligence)](📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
 
 

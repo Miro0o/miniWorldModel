@@ -19,8 +19,8 @@
 ↗ [Cloud Computing & Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [OpenStack](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack.md)
 
-↗ [Programming Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
-↗ [Compilation & Program Loading Tools](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+↗ [Programming Tools Chain](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+↗ [Compilation & Program Loading Tools](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 
 ### Communities
@@ -113,9 +113,9 @@ Also, don't forget ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overvie
 
 Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) !
 
-There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Software Tools & Projects](../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md) as well!
+There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Software Tools & Projects](../../../Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md) as well!
 
-Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 Software Engineering related tools are found at ↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 

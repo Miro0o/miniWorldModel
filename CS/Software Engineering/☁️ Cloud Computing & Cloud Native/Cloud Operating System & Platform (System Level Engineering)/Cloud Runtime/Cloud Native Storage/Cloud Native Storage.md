@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [Distributed Storaging](../../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Storaging/Distributed%20Storaging.md)
-↗ [File Systems Implementations](../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
+↗ [File Systems Implementations](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 
 ↗ [Cloud Database](../../../Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 

@@ -25,17 +25,17 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ### Related Topics
 ↗ [Linux Security](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Security.md)
-↗ [Operating System Kernel (Kernel Mode)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [Operating System & OS Kernel (Theory Part)](../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System Kernel (Kernel Mode)](../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [Linux System Libraries & Runtime Environments](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/Linux%20System%20Libraries%20&%20Runtime%20Environments.md)
 - ↗ [GNU C Library (glibc)](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-↗ [Operating System Components & Runtime Libraries](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [Operating System Components & Runtime Libraries](../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [OS Level Programming with C & CPP](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 ↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
-↗ [Firmware and Computer (OS) Booting](../../../🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Firmware and Computer (OS) Booting](../../../👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 
 ↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
 
@@ -384,7 +384,7 @@ Briefly, the principal kernel components are the following:
 
 ## 🚂 Rust in the Kernel
 > 🔗 https://www.kernel.org/doc/html/next/rust/index.html
-> ↗ [Rust](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Rust/Rust.md)
+> ↗ [Rust](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Rust/Rust.md)
 
 To start using Rust in the kernel, please read the [Quick Start](https://www.kernel.org/doc/html/next/rust/quick-start.html)guide.
 

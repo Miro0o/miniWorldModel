@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Project Cooperation & Team Messaging](../../../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/Project%20Cooperation%20&%20Team%20Messaging/Project%20Cooperation%20&%20Team%20Messaging.md)
+↗ [Project Cooperation & Team Messaging](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Project%20Cooperation%20&%20Team%20Messaging/Project%20Cooperation%20&%20Team%20Messaging.md)
 
 
 

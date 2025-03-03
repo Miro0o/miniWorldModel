@@ -16,7 +16,7 @@
 ↗ [Cloud, Edge & Fog Computing](../Information%20Systems%20&%20System%20Architecture%20Design/Cloud,%20Edge%20&%20Fog%20Computing/Cloud,%20Edge%20&%20Fog%20Computing.md)
 
 ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [Neural Networks](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
+- ↗ [Neural Networks](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
 
 ↗️ [UCB Data100: Principles and Techniques of Data Science](../🏠 Assets/UC Berkeley/Data100: Principles and Techniques of Data Science/Data100: Principles and Techniques of Data Science.md)
 
