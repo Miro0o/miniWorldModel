@@ -1,4 +1,4 @@
-# Program Execution & Compilation System
+# Program Compilation & Execution
 
 [TOC]
 
@@ -71,8 +71,8 @@ However, there are some important reasons why programmers need to understand how
 
 
 ## 🤔 Working Process of Programming Compilation and Execution
-![](../../../Assets/Pics/Screenshot%202024-02-15%20at%207.49.06PM.png)
-<small>程序软件从诞生到运行</small>
+![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
+<small>src: CSAPP</small>
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Application Execution and Computer Data Flow</small>

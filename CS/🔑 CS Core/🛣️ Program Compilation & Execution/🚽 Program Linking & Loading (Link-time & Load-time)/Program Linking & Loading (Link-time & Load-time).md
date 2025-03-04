@@ -23,3 +23,8 @@
 
 
 ## Ref
+[Context: Programming Language Implementation | Florida State University, COP4610: Operating Systems & Concurrent Programming]: https://www.cs.fsu.edu/~baker/opsys/notes/linking.html
+
+![](../../../../Assets/Pics/Pasted%20image%2020250304121327.png)
+
+![](../../../../Assets/Pics/Pasted%20image%2020250304121246.png)

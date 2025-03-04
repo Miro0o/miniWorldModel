@@ -46,6 +46,9 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 ## Intro
+![application_execution_and_computer_data_flow.excalidraw|800](../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+
+
 ### Program = Automata
 ↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
