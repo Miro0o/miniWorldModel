@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "file": "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Analysis Basics Methodologies"
+              "title": "LLM & Fuzzing"
             }
           },
           {
-            "id": "7d4c32469510ba1d",
+            "id": "26b8d1e81c5cb2a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Academics 🎓/Academics.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Academics"
+              "title": "Fuzzing (Fuzz Testing)"
             }
           },
           {
-            "id": "40fdfd12307b9543",
+            "id": "e40ec535ef0b4ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🚽 Program Linking & Loading (Link-time & Load-time)/Program Linking & Loading (Link-time & Load-time).md",
+                "file": "CS/Academics 🎓/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,59 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Program Linking & Loading (Link-time & Load-time)"
-            }
-          },
-          {
-            "id": "0c0e4c851856ca4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS Overview/Program, Computer, and Automation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Program, Computer, and Automation"
-            }
-          },
-          {
-            "id": "6473b02eadc0cf6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Compilation & Execution/Program Compilation & Execution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Program Compilation & Execution"
+              "title": "(CS) Academics Roadmap & Tool Chain"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559,
+    "width": 644.5027122497559,
     "collapsed": true
   },
   "right": {
@@ -226,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Program, Computer, and Automation"
+              "title": "Outgoing links from Fuzzing (Fuzz Testing)"
             }
           },
           {
@@ -255,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/Program, Computer, and Automation.md",
-                "followCursor": false,
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Program, Computer, and Automation"
+              "title": "Outline of Fuzzing (Fuzz Testing)"
             }
           },
           {
@@ -310,44 +262,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c0e4c851856ca4d",
+  "active": "26b8d1e81c5cb2a1",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/Program Compilation & Execution.md",
+    "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+    "CS/Academics 🎓/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
+    "Assets/Pics/Screenshot 2025-03-05 at 21.11.11.png",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JavaScript (Browser End)/JS Gadgets/MathJax.md",
+    "CS/🔑 CS Core/Generic Software Tools & Projects/Knowledge Management/Notes Organization/Obsidian.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "Assets/Illustrations/Drawing 2025-03-05 19.51.20.excalidraw.md",
+    "Assets/Pics/Screenshot 2025-03-05 at 19.30.41.png",
+    "Assets/Pics/Screenshot 2025-03-05 at 19.15.01.png",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/angr.md",
     "CS/🗺 CS Overview/Program, Computer, and Automation.md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🚽 Program Linking & Loading (Link-time & Load-time)/Program Linking & Loading (Link-time & Load-time).md",
+    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout.md",
+    "Assets/Pics/Screenshot 2025-03-05 at 15.55.03.png",
+    "Assets/Pics/Screenshot 2025-03-05 at 15.52.12.png",
     "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
-    "Assets/Illustrations/Computer System/application_execution_and_computer_data_flow.excalidraw.md",
+    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🚮 Program Language Translation & Compilation Theory (Compile-time)/Compilation Phase/Compilation Phase.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Static Code Analysis Tools (SCAT).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Dynamics Code Analysis Tools (DCAT).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Program Profiling & Dynamic Instrumentation/Program Profiling & Dynamic Instrumentation.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Debuggers & Disassemblers & Decompilers/Valgrind.md",
+    "CS/Academics 🎓/Academics.md",
+    "CS/Academics 🎓/FAQ.md",
+    "CS/Academics 🎓/Appendix/信息安全相关学术会议列表.md",
+    "CS/Academics 🎓/Appendix/Appendix-2.md",
+    "CS/Academics 🎓/Appendix/Academics Source List.md",
+    "CS/Academics 🎓/🎓 (CS) Academics Roadmap & Tool Chain/How to write a good paper.md",
+    "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Supply Chain Security.md",
     "Assets/Pics/Pasted image 20250304121246_0.png",
     "Assets/Pics/Pasted image 20250304121327.png",
     "Assets/Pics/Pasted image 20250304121246.png",
-    "CS/Academics 🎓/Academics.md",
     "Assets/Pics/Pasted image 20250304120243_0.png",
     "Assets/Pics/Pasted image 20250304120243.png",
-    "Assets/Pics/Screenshot 2024-02-15 at 7.49.06PM.png",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🚮 Program Language Translation & Compilation Theory (Compile-time)/Compilation Phase/Compilation Phase.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space & Memory Layout.md",
-    "Assets/Pics/Screenshot 2023-10-13 at 9.08.32PM_0.png",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Segmentation Combined with Virtual Paging.md",
-    "Assets/Pics/Screenshot 2023-06-19 at 7.22.05 PM_0.png",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Segmentation.md",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
-    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
-    "CS/🥂 Welcome to CS.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
-    "CS/🧠 Computing Methodologies/Computing Methodologies.md",
-    "Universe, Knowledge, and Intelligence.md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
-    "Assets/Pics/Screenshot 2023-03-21 at 9.12.25 PM.png",
-    "Assets/Pics/Screenshot 2023-05-22 at 9.50.58 PM.png",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
     "Assets/Illustrations/~$Instruction Level.pptx",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Primary Storage (Main Memory) Technologies & RAM.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
     "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Compiled + Interpreted Languages/Dot.Net-Based Languages",
     "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🐢 Programming Language Theory (PLT)",
     "Untitled.loom",

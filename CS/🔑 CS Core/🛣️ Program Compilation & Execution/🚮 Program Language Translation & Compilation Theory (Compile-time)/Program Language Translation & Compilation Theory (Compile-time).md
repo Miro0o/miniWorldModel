@@ -42,10 +42,17 @@
 > 🔗 https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
 
 系统环境指的什么？GNU的构建工具链中使用CPU指令集架构、厂商、系统内核的三元组合来指示系统环境，很多构建工具的名称都带上了这个系统环境前缀，比如`x86_64-pc-cygwin-gcc`、`x86_64-unknown-cygwin-pkg-config`等。
-#### Native
-> **原生（native）编译构建**，即编译构建命令所运行（host）的系统环境和编译构建输出目标（target）的系统环境一致； 
-#### Cross
-> **交叉（cross）编译构建**，上述target和host不一致，即在A系统环境构建出在B系统上运行的目标，这在嵌入式开发中尤为多见。
+
+1. **Native Compiler**
+	1. 原生（native）编译构建，即编译构建命令所运行（host）的系统环境和编译构建输出目标（target）的系统环境一致； 
+	2. Generates machine code for the same platform it runs on.
+2. **Cross Compiler**
+	1. 交叉（cross）编译构建，上述target和host不一致，即在A系统环境构建出在B系统上运行的目标，这在嵌入式开发中尤为多见。
+	2. Produces machine code for a different platform than the one it runs on.
+3. **Just-In-Time (JIT) Compiler**
+	1. Compiles code at runtime to improve execution speed.
+4. **Interpreter-Based Compiler (Transpiler)**: 
+	2. Converts code from one high-level language to another.
 
 
 
@@ -75,14 +82,9 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 ### 4️⃣/5️⃣ Linking
 ↗ [Linking Phase](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase%20&%20Linking%20Library%20Files/Linking%20Phase.md)
-
 #### Static Linking
-
-
 #### Dynamic Linking
 ##### Loadtime Dynamic Linking
-
-
 ##### Runtime Dynamic Linking
 
 
@@ -99,6 +101,9 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 ## Ref
+[Compiler | wikipedia]: https://en.wikipedia.org/wiki/Compiler
+
+
 虽然编译原理很重要，但是我一直不理解，为什么需要学这门课?
 - 现在的 AI 架构都有用上编译技术进行中间优化，例如 Tensorflow、TVM，这些东西的本质就是一个内嵌的领域专用程序语言（EDSL）。 还有一个编程范式叫增量计算 （incremental computation），是反应式编程、数据流编程的一种，当节点上有任何数据更新/发送信号，数据相依的路径也会更新，游戏脚本设计、金融系统会用到。 还有树的优化，用元编程把树的走访消融在一块，可以减少快取丢失，浏览器的网页渲染会用得上。光追也有用元编程优化的技术。 所以编译原理学到的东西，不一定真的是要去搞编程语言设计还是编译器开发才用得上，做一些架构设计的时候它的精神本质就是一种编译器
 - 还有编译器工具链的build系统可以对应到很多的设计应用，可以看知乎这篇 [https://zhuanlan.zhihu.com/p/375651053](https://zhuanlan.zhihu.com/p/375651053)

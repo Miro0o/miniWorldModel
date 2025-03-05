@@ -22,7 +22,7 @@ That's the same reason you see this sort of thing among the other early-adopter 
 [Why do people in academia tend to write their email address with "(dot)", "(at)", instead of ".", "@"? | Stackoverflow]: https://academia.stackexchange.com/q/55612
 
 
-## Differences Between Symposium, Conference, and Workshop?
+## 👉 Differences Between Symposium, Conference, and Workshop?
 #academia #conference #workshop #symposium
 
 > 🤖 Contents below are AI-generated

@@ -6,16 +6,17 @@
 
 ## Res
 🏠 https://obsidian.md/
-📂 https://help.obsidian.md/Home
+📂 https://docs.obsidian.md/Home
+🫂 https://forum.obsidian.md/
 
-
-### Officials
 🎙️ [Obsidian 中文官方论坛](https://forum-zh.obsidian.md)
 🎙️ [Obsidian forum](https://forum.obsidian.md/)
 
 [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
+[Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)
 
-[Obsidian Hub](https://publish.obsidian.md/hub/00+-+Contribute+to+the+Obsidian+Hub/🗂%EF%B8%8F+00+-+Contribute+to+the+Obsidian+Hub)
+
+### Related Topics
 
 
 ### Open Sources
@@ -37,6 +38,64 @@
  [Obsidian插件汉化](https://gitee.com/hejie13250/obsidian-plugin-localization "Obsidian插件汉化")：作者整理了一些插件进行了汉化。
 
 
+🤔 https://publish.obsidian.md/mrd-brain/Start+Here
+This site represents a **working** collection of my^[Hi, I'm [Matt DeVerna](https://www.matthewdeverna.com/)] thoughts/notes on anything that I come across. **This means that you're likely to find typos, unfinished notes, and generally messy stuff**.^[Please remember the [importance of stupidity in scientific work](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Academic+Resources/Paper_Schwartz_2008_ImportanceOfStupidity)] Typically, I use it with respect to my research.
+
+I do, however, try to keep things organized. If you'd like to better understand how that works, checkout the [KB Organization](https://publish.obsidian.md/mrd-brain/Knowledge+Base/KB+Workflow/KB+Organization) note.
+- [Academic Resources](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Academic+Resources/00+-+Academic+Resources)
+- [Artificial Intelligence](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Artificial+Intelligence/00+-+Artificial+Intelligence)
+- [Attention Dynamics](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Attention+Dynamics/00+-+Attention+Dynamics)
+- [Belief Networks](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Belief+Networks/00+-+Belief+Network+Map)
+- [Books](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Books/00+-+Books)
+- [Complex networks and systems](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/00+-+Complex+networks+and+systems)
+    - [Collective Motion](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Collective+Motion/00+-+Collective+Motion+Map)
+    - [Cultural Dynamics](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Cultural+Dynamics/00+-+Cultural+Dynamics+Map)
+    - [Ecological Complexity](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Ecological+Complexity/00+-+Ecological+Complexity+Map)
+    - [Influence Maximization and Minimization](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Influence+Maximization+and+Minimization/00+-+Influence+Maximization+and+Minimization)
+    - [Science of science](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Science+of+Science/00+-+Science+of+science)
+    - [Social Influence](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Complex+Network+and+Systems/Social+Influence/00+-+Social+Influence+Map)
+- [Causal Inference](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Causal+Inference/00+-+Causal+Inference)
+- [Data Collection](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Data+Collection+Methods/00+-+Data+Collection)
+- [Data Sources](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Data+Sources/00+-+Data+Sources+Map)
+- [Data tools/software](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Data+Tools/00+-+Data+Tools+Map)
+- [Dementia](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Dementia/00+-+Dementia+Map)
+- [Disinformation](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Disinformation/00+-+Disinformation)
+- [Elite Misinformation](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Elite+Misinformation/00+-+Elite+Misinformation)
+- [Ethics & AI](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Ethics+%26+AI/00+-+Ethics+%26+AI+Map)
+- [Fitness & Exercise](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Fitness+%26+Exercise/00+-+Fitness+%26+Exercise)
+- [Graph Embeddings](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Graph+Embeddings/00+-+Graph+Embeddings)
+- [Hiking](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Hiking/00+-+Hiking)
+- [Health](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Health/00+-+Health)
+- [Identity](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Identity/00+-+Identity+Map)
+- [Interventions](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Interventions/00+-+Interventions+Map)
+- [KB Workflow](https://publish.obsidian.md/mrd-brain/Knowledge+Base/KB+Workflow/00+-+KB+Workflow+Map)
+- [Knowledge Management](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Knowledge+Management/00+-+Knowledge+Management+Map)
+- [Locations](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Locations/00+-+Locations+Map)
+- [Machine Learning](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Machine+Learning/00+-+Machine+Learning+Map)
+- [Matt's Publications](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Matt's+Publications/00+-+Matt's+Publications)
+- [Methods](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Methods/00+-+Methods)
+- [Metrics](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Metrics/00+-+Metrics+Map)
+- [Misinformation](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Misinformation/00+-+Misinformation)
+    - [Misinfo. and Disease Spread](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Misinformation/Misinfo.+and+Disease+Spread/00+-+Misinformation+and+Disease+Spread)
+    - [Misinformation Interventions](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Misinformation/Misinfo.+Interventions/00+-+Misinformation+Interventions)
+    - [Misinfo. Research Methods](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Misinformation/Misinfo.+Research+Methods/00+-+Misinformation+Research+Methods)
+- [Models & Modeling](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Models/00+-+Modeling+Map)
+- [Natural Language Processing](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Natural+Language+Processing/00+-+Natural+Language+Processing+Map)
+- [Neuroscience](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Neuroscience/00+-+Neuroscience+Map)
+- [Opinion pieces](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Opinion+Pieces/00+-+Opinion+Pieces)
+- [People](https://publish.obsidian.md/mrd-brain/Knowledge+Base/People/00+-+People+Map)
+- [Platform information](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Platform+Information/00+-+Platform+information)
+- [Polarization](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Polarization/00+-+Polarization+Map)
+- [Political Science](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Political+Science/00+-+Political+Science+Map)
+- [Programming](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Programming/00+-+Programming+Map)
+- [Psychology](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Psychology/00+-+Psychology)
+- [Random](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Random/00+-+Random)
+- [Recipes](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Recipes/00+-+Recipes)
+- [Social Media Dynamics](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Social+Media+Dynamics/00+-+Social+Media+Dynamics+Map)
+- [Statistics](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Statistics/00+-+Statistics)
+- [Visualization](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Visualization/00+-+Visualization+Map)
+- [Writing](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Writing/00+-+Writing+Map)
+- [Web Design](https://publish.obsidian.md/mrd-brain/Knowledge+Base/Web+Design/00+-+Web+Design)
 
 ## 🔩 Tweaking
 Obsidian CSS

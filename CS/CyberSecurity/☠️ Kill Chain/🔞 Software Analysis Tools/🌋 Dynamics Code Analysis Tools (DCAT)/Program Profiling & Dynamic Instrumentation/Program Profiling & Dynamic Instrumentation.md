@@ -1,4 +1,4 @@
-# Program Profiling Tools
+# Program Profiling & Dynamic Instrumentation
 
 [TOC]
 

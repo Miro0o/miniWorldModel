@@ -12,7 +12,7 @@
 
 ↗ [Android Malware Analysis](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Language%20Specific%20Code%20Analysis/Android%20Malware%20Analysis/Android%20Malware%20Analysis.md)
 
-↗ [JEB Pro](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/JEB%20Pro/JEB%20Pro.md)
+↗ [JEB Pro](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/JEB%20Pro/JEB%20Pro.md)
 ↗ [Smali Code](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Smali%20Code/Smali%20Code.md)
 
 

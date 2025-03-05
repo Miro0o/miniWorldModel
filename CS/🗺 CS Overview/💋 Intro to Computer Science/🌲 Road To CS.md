@@ -156,7 +156,7 @@ CS Inter-disciplines
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 ACM CCS 2012
-- **Hardware**
+1. **Hardware**
 	- Printed circuit boards
 	- Communication hardware, interfaces and storage
 	- Integrated circuits
@@ -167,7 +167,7 @@ ACM CCS 2012
 	- Hardware test
 	- Robustness
 	- Emerging technologies
-- **Software and its Engineering** ✅
+2. **Software and its Engineering** ✅
 	- <a>Software organization and properties</a>
 		- Contextual software domains
 			- E-commerce infrastructure
@@ -276,12 +276,12 @@ ACM CCS 2012
 			- Open source model
 			- Programming teams
 		- Search-based software engineering
-- **Computer Systems Organization**
+3. **Computer Systems Organization**
 	- Architectures
 	- Embedded and cyber-physical systems
 	- Real-time systems
 	- Dependable and fault-tolerant systems and networks
-- **Networks**
+4. **Networks**
 	- Network architectures
 	- Network protocols
 	- Network components
@@ -290,7 +290,7 @@ ACM CCS 2012
 	- Network properties
 	- Network services
 	- Network types
-- **Theory of Computation**
+5. **Theory of Computation**
 	- Models of computation
 	- Formal languages and automata theory
 	- Computational complexity and cryptography
@@ -299,14 +299,14 @@ ACM CCS 2012
 	- Randomness, geometry and discrete structures
 	- Theory and algorithms for application domains
 	- Semantics and reasoning
-- **Mathematics of Computing**
+6. **Mathematics of Computing**
 	- Discrete mathematics
 	- Probability and statistics
 	- Mathematical software
 	- Information theory
 	- Mathematical analysis
 	- Continuous mathematics
-- **Computing Methodologies**
+7. **Computing Methodologies**
 	- Symbolic and algebraic manipulation
 	- Parallel computing methodologies
 	- Artificial intelligence
@@ -315,13 +315,13 @@ ACM CCS 2012
 	- Computer graphics
 	- Distributed computing methodologies
 	- Concurrent computing methodologies
-- **Information Systems**
+8. **Information Systems**
 	- Data management systems
 	- Information storage systems
 	- Information systems applications
 	- World Wide Web
 	- Information retrieval
-- **Security and privacy** ✅
+9. **Security and privacy** ✅
 	- <a>Cryptography</a>
 		- Key management
 		- Public key (asymmetric) techniques
@@ -400,14 +400,14 @@ ACM CCS 2012
 		- Social aspects of security and privacy
 		- Privacy protections
 		- Usability in security and privacy
-- **Human-Centered Computing**
+10. **Human-Centered Computing**
 	- Human computer interaction (HCI)
 	- Interaction design
 	- Collaborative and social computing
 	- Ubiquitous and mobile computing
 	- Visualization
 	- Accessibility
-- **Applied Computing**
+11. **Applied Computing**
     - Electronic commerce
     - Enterprise computing
     - Physical sciences and engineering
@@ -419,7 +419,7 @@ ACM CCS 2012
     - Operations research
     - Education
     - Document management and text processing
-- **Social and Professional Topics**
+12. **Social and Professional Topics**
 	- Professional topics
 	- Computing / technology policy
 	- User characteristics
@@ -462,10 +462,10 @@ Software Engineering
 
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
-1. Quick CS Intro
+13. Quick CS Intro
 	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 	2. ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
-2. CS Core /Foundation
+14. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
@@ -481,43 +481,43 @@ Software Engineering
 ### 2️⃣ CS Specific Fields / CS Applications
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
-1. Theoretical Computer Science & Algorithms
+15. Theoretical Computer Science & Algorithms
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
-2. Computer System
+16. Computer System
 	1. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	2. etc.
-3. Software Engineering
+17. Software Engineering
 	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	5. etc.
-4. Large Scale Software System Architecture /Cloud
+18. Large Scale Software System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 	4. etc.
-5. Data Scientist /AI
+19. Data Scientist /AI
 	1. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
-6. IoT /Hardware /Computer Engineering
+20. IoT /Hardware /Computer Engineering
 	1. ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
 	2. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
 	3. etc.
-7. Web3 /Metaverse /Cryptocurrency
+21. Web3 /Metaverse /Cryptocurrency
 	1. ↗ [Web 3.0](../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 	2. etc.
-8. Human-Computer Interaction
+22. Human-Computer Interaction
 	1. ↗ [Human-Computer Interaction](../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
-9. Computer Security
+23. Computer Security
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 	3. etc.
-10. etc..
+24. etc..
 
 
 ### 3️⃣ Embark your life with CS!

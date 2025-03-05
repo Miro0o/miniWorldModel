@@ -1,4 +1,4 @@
-# Static Binary Analysis & SCA Tools
+# Static Code Analysis Tools (SCAT)
 
 [TOC]
 

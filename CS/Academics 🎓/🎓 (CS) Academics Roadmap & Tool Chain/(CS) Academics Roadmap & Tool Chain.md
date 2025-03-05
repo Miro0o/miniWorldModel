@@ -8,7 +8,11 @@
 ### Related Topics
 
 
-### Others
+### Academic Useful Tools
+https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate
+四川大学学位论文LaTeX模版
+
+### Academic Learning Resources 
 📂 https://sustech.libguides.com/?group_id=20215 | 南方科技大学 - 专题导航
 👍 开放获取资源专题: 各类型开放获取资源的平台 https://sustech.libguides.com/c.php?g=936835&p=6776043
 - [EndNote专题](https://sustech.libguides.com/c.php?g=929626) 
@@ -30,6 +34,12 @@ Author: [hzwer](https://github.com/hzwer), [DingXiaoH](https://github.com/Ding
 知乎 [1](https://zhuanlan.zhihu.com/p/593195527)-[2](https://zhuanlan.zhihu.com/p/639732057)-[3](https://zhuanlan.zhihu.com/p/627032371)｜[跃问中翻](https://yuewen.cn/share/145749938443137024?utm_source=share&utm_content=web_linkcopy&version=2) | [豆包总结](https://www.doubao.com/thread/w750d882cf0af6419) | [公众号](https://mp.weixin.qq.com/s/MjeBZDV6xapuA_L6ODpVcA)
 
 **Abstract.** _Crafting a research manuscript can pose significant challenges for novices, particularly when time is scarce before the deadline and the authors lack experience in academic submissions. An ill-prepared manuscript can be a source of distress for both collaborators and readers, frequently leading to rejection or necessitating substantial revisions. In this article, we'll share some tips for beginners who want to write AI conference papers. Our goal is for this article to be a guide for beginners, making it easier to share academic achievements._
+
+https://pressbooks.pub/academicskills/
+学术能力养成指南 Academic Skills Guide for Dummies
+![](../../../Assets/Pics/Screenshot%202025-03-03%20at%2017.17.59.png)
+
+https://github.com/WengLean/hands-on-research-tutorial
 
 
 
@@ -54,6 +64,9 @@ academic methedology
 ### Paper Search Tools /Database (with free download)
 🔍 https://scholar.google.com (谷歌学术)
 🔗 https://gg.xueshu5.com (国内镜像)
+
+https://dblp.org/
+computer science bibliography
 
 🔍 https://arxiv.org
 > **arXiv** is a free distribution service and an open-access archive for 2,166,249 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.

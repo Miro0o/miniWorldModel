@@ -15,6 +15,10 @@ body{
 	--accent-s: 80%;
 	--accent-l: 68%;
 	
+	--bgcolor-h:204;
+	--bgcolor-s:45%;
+	--bgcolor-l:97%;
+	
 	--titlebar-background:var(--background-secondary);
 	--titlebar-background-focused:var(--background-secondary);
 	
@@ -32,8 +36,9 @@ body{
 	--icon-m:20px;
 	--icon-l:20px;	
 	--divider-width:4px;
-	--callout-padding:17px 17px;
-	--callout-content-padding:0 12px 0 27px;
+	--callout-padding:0px;
+	--callout-title-padding:11px;
+	--callout-content-padding:0 11px 0 27px;
 	
 	--embed-padding:13px 23px;
 	--list-indent:37px;
@@ -81,18 +86,18 @@ body.toggle-tab-height{
 .theme-light,
 .is-mobile.theme-light,
 .is-tablet.theme-light{
-	--color-base-00:hsla(204, 45%, 97%, 1);
-	--color-base-10:hsla(210, 37%, 93%, 1);
+	--color-base-00:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 0%), 1);
+	--color-base-10:hsla(calc(var(--bgcolor-h) + 6), calc(var(--bgcolor-s) - 6%), calc(var(--bgcolor-l) - 4%), 1);
 	
-	--color-base-05:hsla(207, 17%, 90%, 1);
-	--color-base-20:hsla(210, 45%, 95%, 1);
+	--color-base-05:hsla(calc(var(--bgcolor-h) + 3), calc(var(--bgcolor-s) - 28%), calc(var(--bgcolor-l) - 7%), 1);
+	--color-base-20:hsla(calc(var(--bgcolor-h) + 9), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 2%), 1);
 	
-	--color-base-00-trans:hsla(204, 45%, 97%, 0.5); /*for transparency background*/
-	--color-base-20-trans:hsla(210, 45%, 95%, 0.5);
-	--color-base-00-0:hsla(180, 33%, 99%, 1); /* very white */
-	--color-base-20-0:hsla(207, 10%, 90%, 0.1); /* hovered version for above */
+	--color-base-00-trans:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 0%), 0.5); /*for transparency background*/
+	--color-base-20-trans:hsla(calc(var(--bgcolor-h) + 6), calc(var(--bgcolor-s) - 8%), calc(var(--bgcolor-l) - 2%), 0.5);
+	--color-base-00-0:hsla(calc(var(--bgcolor-h) - 27), calc(var(--bgcolor-s) - 12%), calc(var(--bgcolor-l) + 2%), 1); /* very white */
+	--color-base-20-0:hsla(calc(var(--bgcolor-h) + 3), calc(var(--bgcolor-s) - 27%), calc(var(--bgcolor-l) - 7%), 0.1); /* hovered version for above */
+	--color-base-00-0-trans:hsla(calc(var(--bgcolor-h) - 20), calc(var(--bgcolor-s) - 12%), calc(var(--bgcolor-l) + 2%), 0.5);
 	--color-base-shadow:hsla(212, 17%, 80%, 0.2); /* shadow */
-	--color-base-00-0-trans:hsla(180, 33%, 99%, 0.5);
 	--color-base-shadow-hover:hsla(212, 17%, 80%, 0.3); /* shadow hover*/
 	--color-base-hover:var(--color-base-shadow-hover); /* hover*/
 	
@@ -113,18 +118,21 @@ body.toggle-tab-height{
 .theme-dark,
 .is-mobile.theme-dark,
 .is-tablet.theme-dark{
-	--color-base-00:hsla(215, 17%, 19%, 1);
-	--color-base-10:hsla(214, 24%, 15%, 1);
+	--bgcolor-h:215;
+	--bgcolor-s:17%;
+	--bgcolor-l:19%;
 	
-	--color-base-05:hsla(207, 17%, 10%, 0.5);
-	--color-base-20:hsla(214, 24%, 15%, 1);
+	--color-base-00:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 0%), 1);
+	--color-base-10:hsla(calc(var(--bgcolor-h) - 1), calc(var(--bgcolor-s) + 7%), calc(var(--bgcolor-l) - 4%), 1);
 	
+	--color-base-05:hsla(calc(var(--bgcolor-h) - 8), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 9%), 0.5);
+	--color-base-20:hsla(calc(var(--bgcolor-h) - 1), calc(var(--bgcolor-s) + 7%), calc(var(--bgcolor-l) - 4%), 1);
 	
-	--color-base-00-trans:hsla(215, 17%, 19%, 0.5); /*for transparency background*/
-	--color-base-20-trans:hsla(214, 24%, 15%, 0.5);
-	--color-base-00-0:hsla(212, 17%, 22%, 0.9); /* very white */
-	--color-base-20-0:hsla(207, 10%, 10%, 0.1); /* hovered version for above */
-	--color-base-00-0-trans:hsla(212, 17%, 22%, 0.5);
+	--color-base-00-trans:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) - 0%), 0.5); /*for transparency background*/
+	--color-base-20-trans:hsla(calc(var(--bgcolor-h) - 1), calc(var(--bgcolor-s) + 7%), calc(var(--bgcolor-l) - 4%), 0.5);
+	--color-base-00-0:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) + 3%), 0.9); /* very white */
+	--color-base-20-0:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 7%), calc(var(--bgcolor-l) - 9%), 0.1); /* hovered version for above */
+	--color-base-00-0-trans:hsla(calc(var(--bgcolor-h) - 0), calc(var(--bgcolor-s) - 0%), calc(var(--bgcolor-l) + 3%), 0.5);
 	--color-base-shadow:hsla(207, 10%, 10%, 0.1); /* shadow */
 	--color-base-shadow-hover:hsla(212, 17%, 0%, 0.3); /* shadow hover*/
 	--color-base-hover:var(--color-base-05); /* hover*/
@@ -282,7 +290,7 @@ body.is-frameless:not(.is-hidden-frameless).is-fullscreen{
 body:not(.is-mobile):is(:not(.css-settings-manager),.toggle-scrollbar) ::-webkit-scrollbar-thumb{
 	visibility:hidden;
 }
-body ::-webkit-scrollbar-thumb:hover{
+body ::-webkit-scrollbar-thumb:hover:hover{
 	visibility:initial;
 }
 
@@ -307,9 +315,12 @@ body:not(.is-mobile):is(:not(.css-settings-manager),.toggle-scrollbar-overlay) .
 .workspace,
 .workspace-tabs .workspace-leaf,
 .workspace-ribbon,
+.workspace-split,
+.workspace-split .view-content,
 .workspace-split.mod-root,
-.workspace-tab-header-container,
-.workspace-split.mod-root .view-content{ /* remove background as parent will be the one to have it instead */
+body.is-hidden-frameless:not(.is-fullscreen):is(.is-focused,) .titlebar-button-container:is(.mod-right,.mod-left),
+.workspace-tab-header-container{ /* remove background as parent will be the one to have it instead */
+	background-color:initial;
 	background:none;
 }
 
@@ -403,6 +414,14 @@ body:is(:not(.css-settings-manager),.toggle-sidebar-fixed-left) .mod-left-split 
 body:is(:not(.css-settings-manager),.toggle-sidebar-fixed-right) .mod-right-split .workspace-leaf-content{
 	max-width:var(--sidebar-size-right);
 }
+body:is(.toggle-sidebar-fixed-left-auto) .mod-left-split .workspace-leaf-content{
+	min-width:var(--sidebar-size-left);
+	max-width:fit-content;
+}
+body:is(.toggle-sidebar-fixed-right-auto) .mod-right-split .workspace-leaf-content{
+	min-width:var(--sidebar-size-right);
+	max-width:fit-content;
+}
 
 
 body:is(:not(.css-settings-manager),.toggle-sidebar-right-top) .workspace-split.mod-horizontal.mod-right-split .workspace-tabs.mod-top.mod-top-right-space .workspace-tab-container,
@@ -428,6 +447,25 @@ body:is(:not(.css-settings-manager),.toggle-vault-title) .nav-folder-title[data-
 	margin-bottom:23px;
 }
 
+
+/* Vault hidden by default, and show up when hovered at the very bottom part of the sidebar */
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-profile{
+	margin-bottom:-40px!important;
+	opacity:0;
+	transition:margin 0.2s, opacity 0.1s;
+	padding:5px;
+	width: calc(100% + 23px)!important;
+}
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-profile:hover{
+	margin-bottom:0!important;
+	opacity:1;
+}
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-drawer-vault-switcher{
+	padding:0;
+}
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-drawer-vault-switcher-icon{
+	padding:7px 3px 7px 7px;
+}
 
 
 
@@ -807,7 +845,7 @@ body.is-translucent .modal{
 	100% { transform:scale(100%); opacity:1; }
 }
 
-body:is(:not(.css-settings-manager), .toggle-note-animation) .workspace-split.mod-vertical.mod-root .workspace-tabs:not(.mod-stacked)  .view-content{
+body:is(:not(.css-settings-manager), .toggle-note-animation) .workspace-split.mod-vertical.mod-root .workspace-tabs:not(.mod-stacked) .workspace-leaf-content:not([data-type="pdf"]) .view-content{
 	animation:0.2s slide-up forwards;
 }
 @keyframes slide-up{
@@ -909,6 +947,11 @@ body:not(.native-scrollbars) .modal-close-button{
 	height:var(--ribbon-width);
 	width:var(--ribbon-width);
 }
+/* fix the above design since v16/17 */
+.clickable-icon:before{
+	height:41px;
+	width:41px;
+}
 
 
 /* extend setting clickable area to the bottom */
@@ -928,6 +971,7 @@ body:not(.native-scrollbars) .modal-close-button{
 	padding-left:5px;
 }
 .workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .workspace-tab-header:last-child,
+.workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .sidebar-toggle-button.mod-left,
 .workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .sidebar-toggle-button.mod-right{
 	padding-right:5px;
 }
@@ -952,6 +996,11 @@ body:not(.native-scrollbars) .modal-close-button{
 --------------------------- --------------------------- 
 --------------------------- --------------------------- 
 */
+/* Append some spaces so that when on-focused, the border does not get cut */
+.nav-files-container{
+	padding-top:2px;
+}
+
 
 :is(.nav-folder, .nav-file) :is(.nav-folder-title, .nav-file-title),
 .vertical-tab-nav-item,
@@ -988,21 +1037,21 @@ button{
 	font-size:0.95em;
 	font-weight:500;
 }
-body:is(:not(.css-settings-manager),.toggle-explorer-collapse) .nav-folder-title .nav-folder-collapse-indicator.collapse-icon{
+body:is(:not(.css-settings-manager),.toggle-explorer-collapse) .nav-folder-title .collapse-icon{
 	display:none;
 }
-body:not(.is-grabbing) .nav-folder-title:hover{
+body:not(.is-grabbing) .tree-item-self.is-clickable.nav-folder-title:hover{
 	color:var(--color-accent-2);
 	font-weight:500;
 }
 /* Additional padding inside folder, also remove border-left as indentation-guide */
-.nav-folder.mod-root .nav-folder > .nav-folder-children{
+.nav-folder > .nav-folder-children{
 	padding-block:7px;
 	padding-left:13px;
 	margin-left:20px;
 }
-body:is(:not(.css-settings-manager),.toggle-explorer-indent) .nav-folder.mod-root .nav-folder > .nav-folder-children{
-	border-left:none;
+body:is(:not(.css-settings-manager),.toggle-explorer-indent) .nav-folder > .nav-folder-children{
+	border-inline-start:none;
 	padding-left:33px;
 	margin-left:0;
 }
@@ -1136,9 +1185,9 @@ input[type=checkbox]:checked:after{
 .markdown-rendered.show-indentation-guide li.task-list-item > :is(ul,ol)::before{
 	left:-10px;
 }
-/* Collapse indicator position adjustment */
-.markdown-source-view.mod-cm6 .HyperMD-task-line .cm-fold-indicator .collapse-indicator{
-	padding-right:15px;
+/* Collapse indicator position adjustment on lists & tasks */
+.markdown-source-view.mod-cm6.is-live-preview .cm-line.HyperMD-list-line.HyperMD-task-line .cm-fold-indicator .collapse-indicator{
+	padding-inline-end:5px;
 }
 .markdown-rendered .task-list-item .list-collapse-indicator{
 	margin-top:5px;
@@ -1148,7 +1197,7 @@ input[type=checkbox]:checked:after{
 
 
 /* Markdown Listings */
-ul,ol{
+ul, ol{
 	padding:7px 0 13px;
 }
 
@@ -1166,14 +1215,7 @@ ul,ol{
 	padding-top:11px!important;
 }
 
-/* Adjust line position to fit below bullet point (preview) */
-.markdown-rendered.show-indentation-guide li > :is(ul, ol):before{ 
-	left:-12px;
-}
-/* Collapse indicator position adjustment */
-.markdown-source-view.mod-cm6 .cm-line:not(.cm-active):not(.HyperMD-header):not(.HyperMD-task-line) .cm-fold-indicator .collapse-indicator{
-	padding-right:23px;
-}
+
 ol > li::marker,
 ul > li::marker,
 .cm-s-obsidian .cm-formatting-list{
@@ -1185,7 +1227,7 @@ ul > li::marker,
 	padding-inline:0;
 }
 .markdown-preview-sizer>div>:is(ul, ol){
-	padding-inline:33px 7px;
+	padding-inline:7px;
 }
 
 /* reduce padding of ul/ol inside callout/blockquote */
@@ -1194,6 +1236,11 @@ ul > li::marker,
 }
 blockquote>:is(ul,ol){
 	padding-block:7px;
+}
+
+/* force break word for links */
+.markdown-preview-sizer>div ul li a:not(.tag), div.callout ul li a:not(.tag){
+	word-break:break-all;
 }
 
 
@@ -1275,29 +1322,47 @@ ul > li.task-list-item.is-checked *,
 
 
 /* Markdown Callout */
-.callout:not(.is-collapsed){
-	padding-bottom:11px;
+
+.callout{
+	border:1px solid rgba(var(--callout-color), 0.3);
+    background-color: rgba(var(--callout-color), 0.07);
 }
 .callout-title{
 	gap:var(--size-4-3);
+    align-items:center;
+    background-color:rgba(var(--callout-color), 0.07);
+	border-bottom:1px solid transparent;
+	transition:border 0.3s;
 }
-.callout-content{
-	position:relative;
-}
-.callout-content:before{
-	content:"";
-	position:absolute;
-	left:8px;
-	top:7px;
-	width:3px;
-	height:calc(100% - 14px);
-	background:rgba(var(--callout-color),0.3);
-	border-radius:var(--button-radius);
+.callout-icon,
+.callout-fold{
+	margin:0;
+	align-self:center;
 }
 
+/* only apply border if callout is not collapsed */
+.callout:not(.is-collapsed)>.callout-title:has(+.callout-content){
+	border-bottom:1px solid rgba(var(--callout-color), 0.3);
+}
+
+.markdown-source-view.mod-cm6 .callout .callout{
+	margin:1em 0;
+}
 
 
 
+
+
+
+
+
+/* canvas text blurry fix */
+.is-focused .canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+	transform: unset;
+}
+.canvas-node-content.markdown-embed{
+	border-radius:0;
+}
 
 
 
@@ -1326,6 +1391,29 @@ ul > li.task-list-item.is-checked *,
 	border-radius:var(--button-radius);
 	transition:background 0.1s;
 }
+.mado-heading .markdown-preview-section>div.mod-header>*{
+	padding:23px 23px 0;
+	border:none;
+}
+.mado-heading .markdown-preview-section>div:not(.is-collapsed)>h1{
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+	border-bottom:none;
+}
+.mado-heading .markdown-preview-section>div:not(.is-collapsed)>h1:before{
+    border-radius:4px 0 0 0;
+}
+.mado-heading .markdown-preview-section>div:has(+div>*:not(h1))>*:not(h1){
+	border-radius:0;
+	border-bottom:none;
+}
+.mado-heading .markdown-preview-section>div:has(+div>h1)>*:not(h1),
+.mado-heading .markdown-preview-section>div:has(+div.mod-footer)>*:not(h1){
+	border-radius:0;
+	border-bottom-left-radius:var(--button-radius);
+	border-bottom-right-radius:var(--button-radius);
+	border-bottom:var(--border);
+}
 .mado-heading :is(h1,h2,h3,h4,h5,h6){
 	background:var(--background-fourth);
 }
@@ -1339,6 +1427,13 @@ ul > li.task-list-item.is-checked *,
 	--h4-size: 1.25em;
 	--h5-size: 1.12em;
 	--h6-size: 1.12em;
+}
+
+.mado-heading .markdown-preview-section>div:has(+div>p)>p{
+	padding-bottom:0;
+}
+.mado-heading .markdown-preview-section>div:has(>p)+div>p{
+	border-top:none;
 }
 
 
@@ -1421,22 +1516,21 @@ ul > li.task-list-item.is-checked *,
 .mado-heading .markdown-preview-section>div>hr{
 	display:none;
 }
+.mado-heading .markdown-preview-section>div>pre{
+	padding-block:23px;
+}
 .mado-heading .markdown-preview-section>div>blockquote{
 	padding-block:23px;
 }
-.mado-heading .markdown-preview-section>div>blockquote:before,
-.mado-heading .markdown-preview-section>div>.callout .callout-content:before{
-	background:none;
-}
-.mado-heading .markdown-preview-section>div>.callout:not(.is-collapsed){
-	padding-bottom:7px;
+.mado-heading .markdown-preview-section>div>.callout{
+	padding:var(--callout-padding);
+	border:1px solid rgba(var(--callout-color), 0.3);
 }
 .mado-heading .markdown-preview-section>div>.callout .callout-title{
-	margin-inline:-37px;
+	padding:17px 23px;
 }
 .mado-heading .markdown-preview-section>div>.callout .callout-content{
-	margin-inline:-37px;
-	padding-inline:33px;
+	padding:3px 53px;
 }
 .mado-heading .markdown-preview-section>div>blockquote>:is(ul,ol){
 	padding:0;
@@ -1640,6 +1734,7 @@ ul > li.task-list-item.is-checked *,
 
 div.callout[data-callout="mado-list2table"]{
 	background:none;
+	border:none;
 }
 div.callout[data-callout="mado-list2table"] .callout-title,
 div.callout[data-callout="mado-list2table"] .callout-content:before,
@@ -1917,26 +2012,30 @@ body:is(:not(.css-settings-manager),.toggle-explorer-collapse) .workspace-tabs .
 	display:none;
 }
 
-.mado-timeline .markdown-preview-sizer>div>h1{
-	font-size:2rem;
-	margin-block:133px 11px;
+.mado-timeline .markdown-preview-sizer>div>h1{\
+	margin-block:100px 11px;
+	color:var(--color-accent);
+	font-size:36px;
 }
 .mado-timeline .markdown-preview-sizer>div>h2{
 	font-size:1.7rem;
-	margin-block:33px -13px;
 	position:relative;
 	padding-top:13px;
+	margin-block:33px var(--p-spacing);
+}
+.mado-timeline .markdown-preview-sizer>div:has(>h2)+div>*:not(h2){
+	margin-top:-13px;
 }
 .mado-timeline .markdown-preview-sizer>div>h2:before{
 	content:"";
 	width:2px;
-	height:45px;
 	border-radius:100%;
 	background:var(--text-faint);
-	opacity:0.7;
 	position:absolute;
-	top:-38px;
-	left:47%;
+    height: 40px;
+    top: -35px;
+    left: 50%;
+	opacity:0.5;
 }
 .mado-timeline .markdown-preview-sizer>div.is-collapsed>h2{
 	margin-bottom:13px;
@@ -1958,6 +2057,7 @@ div.callout[data-callout*="mado-panel"]{
 	background-color:initial;
 	mix-blend-mode:normal;
 	padding:0;
+	border:none;
 }
 div.callout[data-callout*="mado-panel"] .callout-content{
 	padding:0;
@@ -1971,6 +2071,10 @@ div.callout[data-callout*="mado-panel"] .callout-content:before{
 }
 
 
+[class*="mado-panel"] .markdown-preview-sizer>div ul.has-list-bullet:before,
+div.callout[data-callout*="mado-panel"] ul.has-list-bullet:before{
+	display:none;
+}
 
 [class*="mado-panel"] .markdown-preview-sizer>div ul,
 div.callout[data-callout*="mado-panel"] ul{
@@ -1999,16 +2103,20 @@ div.callout[data-callout*="mado-panel"] ul li{
 	width:auto;
 	/* min-width:calc(100% / 4 - 10px); */
 	flex:auto;
-	height:70px;
+	min-height:70px;
 	overflow:hidden;
 }
 
 [class*="mado-panel"] .markdown-preview-sizer>div ul li .list-bullet{
 	display:none;
 }
+/* Hover-Child-Only doesn't actually look too comfortable, disabling it for the time being */
+/* [class*="mado-panel"] .markdown-preview-sizer>div ul li:hover:not(:has(li:hover)), */
+/* div.callout[data-callout*="mado-panel"] ul li:hover:not(:has(li:hover)){ */
 [class*="mado-panel"] .markdown-preview-sizer>div ul li:hover,
 div.callout[data-callout*="mado-panel"] ul li:hover{
 	background:var(--background-fifth);
+	/* background:var(--background-primary); */
 	transform:translateY(-3px);
 	box-shadow:var(--panel-shadow-hover);
 }
@@ -2067,10 +2175,21 @@ div.callout[data-callout*="mado-panel-list"] ul{
 div.callout[data-callout*="mado-panel-list"] ul li{
 	display:inline-block;
 	padding-block:8px;
-	height:unset;
+	min-height:unset;
 	text-align:left;
 	width:100%;
 	overflow:visible;
+	margin-inline-start:0;
+}
+/* fix some panel-link margin issue */
+[class*="mado-panel-list"] .markdown-preview-sizer>div ul li:has(>p){
+	display: inline-block;
+	vertical-align: super;
+	height: calc(100% + 16px);
+	width: calc(100% + 23px);
+	padding-block: 8px;
+	margin-block: -8px;
+	text-align: left;
 }
 [class*="mado-panel-list"][class*="mado-panel-link"] .markdown-preview-sizer>div ul li a:not(.tag),
 div.callout[data-callout*="mado-panel-list"][data-callout*="-link"] ul li a:not(.tag){
@@ -2083,54 +2202,69 @@ div.callout[data-callout*="mado-panel-list"][data-callout*="-link"] ul li a:not(
 }
 
 [class*="mado-panel-list"] .markdown-preview-sizer>div li.task-list-item,
-div.callout[data-callout*="mado-panel-list"] li.task-list-item{
+div.callout[data-callout*="mado-panel-list"] ul li.task-list-item{
 	padding-inline:43px 23px;
 }
 [class*="mado-panel-list"] .markdown-preview-sizer>div li.task-list-item>input,
-div.callout[data-callout*="mado-panel-list"] li.task-list-item>input{
+div.callout[data-callout*="mado-panel-list"] ul li.task-list-item>input{
 	padding:12px;
 	left:0;
 }
 [class*="mado-panel-list"] .markdown-preview-sizer>div li:hover>.list-collapse-indicator,
-div.callout[data-callout*="mado-panel-list"] li:hover>.list-collapse-indicator{
+div.callout[data-callout*="mado-panel-list"] ul li:hover>.list-collapse-indicator{
 	opacity:1;
 }
+
+[class*="mado-panel-list-rightbox"] .markdown-preview-sizer>div li.task-list-item,
+div.callout[data-callout*="mado-panel-list-rightbox"] ul li.task-list-item{
+	padding-inline:23px;
+}
+[class*="mado-panel-list-rightbox"] .markdown-preview-sizer>div li.task-list-item>input,
+div.callout[data-callout*="mado-panel-list"][data-callout*="-rightbox"] ul li.task-list-item>input{
+	left:unset;
+}
+
 
 /* the very first list */
 [class*="mado-panel-list"] .markdown-preview-sizer>div>ul>li>.list-collapse-indicator,
 div.callout[data-callout*="mado-panel-list"] .callout-content>ul>li>.list-collapse-indicator{
-	margin-left:-57px;
+	margin-left:-53px;
 }
 /* all normal list */
 [class*="mado-panel-list"] .markdown-preview-sizer>div li>.list-collapse-indicator,
-div.callout[data-callout*="mado-panel-list"] li>.list-collapse-indicator{
-	margin-left:-49px;
+div.callout[data-callout*="mado-panel-list"] ul li>.list-collapse-indicator{
+	margin-left:-40px;
 }
 /* all task lisk */
 [class*="mado-panel-list"] .markdown-preview-sizer>div li.task-list-item>.list-collapse-indicator,
-div.callout[data-callout*="mado-panel-list"] li.task-list-item>.list-collapse-indicator{
-	margin-left:-77px;
-	margin-top:0;
+div.callout[data-callout*="mado-panel-list"] ul li.task-list-item>.list-collapse-indicator{
+	margin-left:-73px;
+	margin-top:0px;
+}
+/* rightbox task lisk */
+[class*="mado-panel-list-rightbox"] .markdown-preview-sizer>div li.task-list-item>.list-collapse-indicator,
+div.callout[data-callout*="mado-panel-list"][data-callout*="-rightbox"] ul li.task-list-item>.list-collapse-indicator{
+	margin-left:-49px;
 }
 /* normal list inside a task list */
 [class*="mado-panel-list"] .markdown-preview-sizer>div li.task-list-item li:not(.task-list-item)>.list-collapse-indicator,
-div.callout[data-callout*="mado-panel-list"] li.task-list-item li:not(.task-list-item)>.list-collapse-indicator{
-	margin-left:-57px;
+div.callout[data-callout*="mado-panel-list"] ul li.task-list-item li:not(.task-list-item)>.list-collapse-indicator{
+	margin-left:-53px;
 }
 /* task list inside a normal list */
 [class*="mado-panel-list"] .markdown-preview-sizer>div li:not(.task-list-item)>ul>li.task-list-item>.list-collapse-indicator,
-div.callout[data-callout*="mado-panel-list"] li:not(.task-list-item)>ul>li.task-list-item>.list-collapse-indicator{
-	margin-left:-69px;
+div.callout[data-callout*="mado-panel-list"] ul li:not(.task-list-item)>ul>li.task-list-item>.list-collapse-indicator{
+	margin-left:-60px;
 }
 
 [class*="mado-panel-list"] .markdown-preview-sizer>div li :is(ul,ol),
-div.callout[data-callout*="mado-panel-list"] li :is(ul,ol){
+div.callout[data-callout*="mado-panel-list"] ul li :is(ul,ol){
 	padding-inline:0;
 }
 [class*="mado-panel-list"] .markdown-preview-sizer>div li.is-collapsed>:is(ul,ol),
 [class*="mado-panel-list"] .markdown-preview-sizer>div li :is(ul,ol):before,
-div.callout[data-callout*="mado-panel-list"] li.is-collapsed>:is(ul,ol),
-div.callout[data-callout*="mado-panel-list"] li :is(ul,ol):before{
+div.callout[data-callout*="mado-panel-list"] ul li.is-collapsed>:is(ul,ol),
+div.callout[data-callout*="mado-panel-list"] ul li :is(ul,ol):before{
 	display:none;
 }
 
@@ -2254,6 +2388,59 @@ img.banner-image{
 }
 .kanban-plugin .markdown-preview-view{
 	padding-inline:3px;
+}
+
+.kanban-plugin__lane {
+    background: var(--background-fourth);
+    box-shadow: var(--window-shadow);
+}
+.kanban-plugin__lane-items>div {
+    margin-top: 7px;
+}
+.kanban-plugin__lane-items.kanban-plugin__vertical.kanban-plugin__scroll-container{
+    background: var(--background-primary);
+	margin:0;
+	padding:7px 11px;
+}
+.kanban-plugin__item-wrapper{
+    box-shadow: var(--panel-shadow);
+}
+.kanban-plugin__item-title-wrapper {
+    background: var(--background-fourth);
+    padding: 11px 15px;
+}
+.kanban-plugin__item-metadata{
+	padding-top:0;
+}
+/* .markdown-preview-view.kanban-plugin__markdown-preview-view.kanban-plugin__item-markdown>div>ul{ */
+    /* border: var(--border); */
+    /* padding: 23px 33px; */
+    /* background: var(--background-secondary); */
+    /* border-radius: var(--panel-radius); */
+    /* margin-block: 7px; */
+    /* box-shadow: var(--panel-shadow); */
+/* } */
+
+.kanban-plugin__item-markdown code{
+    font-family: var(--font-monospace);
+    background-color: var(--code-background);
+    border-radius: var(--code-radius);
+    font-size: var(--code-size);
+    padding: 0.1em 0.25em;
+}
+.kanban-plugin__item-markdown :not(pre)>code{
+	color:var(--inline-code-color);
+}
+.kanban-plugin__item-markdown pre{
+	position: relative;
+    padding: var(--size-4-3) var(--size-4-4);
+    min-height: 38px;
+    background-color: var(--code-background);
+    border-radius: var(--code-radius);
+    white-space: var(--code-white-space);
+}
+.kanban-plugin__item-markdown pre .copy-code-button{
+	display:none;
 }
 
 /* icon and button styling */
@@ -2527,6 +2714,15 @@ settings:
 		default-light: '#'
 		default-dark: '#'
 	- 
+		id: bgcolor
+		title: Background Color
+		description: "*Background color is not dynamically coded. You may see off-colors if you wish to change this setting."
+		type: variable-themed-color
+		opacity: false
+		format: hsl-split
+		default-light: '#'
+		default-dark: '#'
+	- 
 		id: toggle-wave-background
 		title: Hide Background Wave Design
 		type: class-toggle
@@ -2674,6 +2870,16 @@ settings:
 		title: Fixed Width (Right)
 		type: class-toggle
 		default: true
+	- 
+		id: toggle-sidebar-fixed-left-auto
+		title: Auto Expand Width (Left)
+		type: class-toggle
+		default: false
+	- 
+		id: toggle-sidebar-fixed-right-auto
+		title: Auto Expand Width (Right)
+		type: class-toggle
+		default: false
 	- 
 		id: sidebar-size-left
 		title: Width size if fixed (Left)
@@ -2916,13 +3122,6 @@ settings:
 	-
 		id: h5-color
 		title: H5 Color
-		type: variable-themed-color
-		format: hsl
-		default-light: '#'
-		default-dark: '#'
-	-
-		id: h6-color
-		title: H6 Color
 		type: variable-themed-color
 		format: hsl
 		default-light: '#'
