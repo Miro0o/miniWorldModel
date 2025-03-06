@@ -11,8 +11,24 @@
 
 ### Learning Resources
 #### Online Resources
+🎬【模糊测试Fuzzing入门-AFL(++)-fuzz-哔哩哔哩】 https://b23.tv/WioZP4F
+
 🚧 https://github.com/secfigo/Awesome-Fuzzing
 A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
+
+🚧 https://github.com/google/fuzzing
+This project aims at hosting tutorials, examples, discussions, research proposals, and other resources related to [fuzzing](https://en.wikipedia.org/wiki/Fuzzing).
+
+🚧 https://github.com/google/oss-fuzz
+📂 https://google.github.io/oss-fuzz/
+To learn more about fuzzing in general, we recommend reading [libFuzzer tutorial](https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md) and the other docs in [google/fuzzing](https://github.com/google/fuzzing/tree/master/docs) repository. These and some other resources are listed on the [useful links](https://google.github.io/oss-fuzz/reference/useful-links/#tutorials) page.
+- [libFuzzer documentation](https://llvm.org/docs/LibFuzzer.html)
+- [libFuzzer tutorial](https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md)
+- [libFuzzer workshop](https://github.com/Dor1s/libfuzzer-workshop)
+- [Structure-Aware Fuzzing with libFuzzer](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md)
+- [Chromium Fuzzing Page](https://chromium.googlesource.com/chromium/src/testing/libfuzzer/)
+- [Chromium Efficient Fuzzing Guide](https://chromium.googlesource.com/chromium/src/testing/libfuzzer/+/HEAD/efficient_fuzzing.md)
+- [ClusterFuzz documentation](https://google.github.io/clusterfuzz/)
 #### Survey Papers
 📄 👍 Manes V J M, Han H S, Han C, et al. Fuzzing: Art, Science, and Engineering[J]. arXiv preprint arXiv:1812.00140, 2018.
 https://arxiv.org/pdf/1812.00140.pdf
@@ -51,6 +67,14 @@ https://mp.weixin.qq.com/s/-ZYX-G_jX1AN8lzbHvW21g
 🚧 https://github.com/google/AFL
 🏠 https://lcamtuf.coredump.cx/afl/
 american fuzzy lop - a security-oriented fuzzer
+
+🚧 https://github.com/google/oss-fuzz
+📂 https://google.github.io/oss-fuzz/
+In cooperation with the [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) and the [OpenSSF](https://www.openssf.org/), OSS-Fuzz aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution. Projects that do not qualify for OSS-Fuzz (e.g. closed source) can run their own instances of [ClusterFuzz](https://github.com/google/clusterfuzz) or [ClusterFuzzLite](https://google.github.io/clusterfuzzlite/).
+
+We support the [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [AFL++](https://github.com/AFLplusplus/AFLplusplus), and [Honggfuzz](https://github.com/google/honggfuzz) fuzzing engines in combination with [Sanitizers](https://github.com/google/sanitizers), as well as [ClusterFuzz](https://github.com/google/clusterfuzz), a distributed fuzzer execution environment and reporting tool.
+
+Currently, OSS-Fuzz supports C/C++, Rust, Go, Python, Java/JVM, and JavaScript code. Other languages supported by [LLVM](https://llvm.org/) may work too. OSS-Fuzz supports fuzzing x86_64 and i386 builds.
 
 https://gitee.com/opengauss/dbms-fuzzing-scu
 DBMS-Fuzzing-SCU
@@ -147,7 +171,12 @@ A user supplies `PREPROCESS` with a set of fuzz configurations as input, and it 
 
 
 ### Taxonomy
-black box, white box, grey box
+> 🔗 https://en.wikipedia.org/wiki/Fuzzing
+
+A fuzzer can be categorized in several ways:
+1. (Reuse of existing input seeds) A fuzzer can be generation-based or mutation-based depending on whether inputs are generated from scratch or by modifying existing inputs.
+2. (Aware of input structure) A fuzzer can be dumb (unstructured) or smart (structured) depending on whether it is aware of input structure.
+3. (Aware of program structure) A fuzzer can be white-, grey-, or black-box, depending on whether it is aware of program structure.
 
 
 ### Genealogy

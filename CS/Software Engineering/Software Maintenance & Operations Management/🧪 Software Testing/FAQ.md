@@ -5,7 +5,7 @@
 
 
 ## 👉 What is test oracle?
-#software_test
+#software_test #test_oracle
 
 In [computing](https://en.wikipedia.org/wiki/Computing), [software engineering](https://en.wikipedia.org/wiki/Software_engineering), and [software testing](https://en.wikipedia.org/wiki/Software_testing), a **test oracle** (or just **oracle**) is a mechanism for determining whether a test has passed or failed. The use of oracles involves comparing the output(s) of the system under test, for a given [test-case](https://en.wikipedia.org/wiki/Test_case) input, to the output(s) that the oracle determines that product should have.
 
@@ -24,14 +24,13 @@ In [computing](https://en.wikipedia.org/wiki/Computing), [software engineering](
 > 7. 人类预言（Human oracle）
 
 Several potential categories of test oracles:
-
 1. Specification
 2. Deriviation
 3. Implicit 
 4. Human 
 
-
 [Test Oracle --- Wikipedia]: https://en.wikipedia.org/wiki/Test_oracle
 [Oracle，甲骨文，不，是什么？]: https://turingtest.biz/2019/05/oracle%ef%bc%8c%e7%94%b2%e9%aa%a8%e6%96%87%ef%bc%8c%e4%b8%8d%ef%bc%8c%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f/
 [What is a test oracle and what is it used for?  ---- stackoverflow]: https://stackoverflow.com/questions/23522166/what-is-a-test-oracle-and-what-is-it-used-for
 [探究：软件工程中的test oracle到底是什么意思？  --- CSDN]: http://t.csdn.cn/rmgkj
+

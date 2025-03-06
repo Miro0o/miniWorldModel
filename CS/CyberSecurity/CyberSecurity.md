@@ -51,7 +51,7 @@ MIT - Computer System Security
 13.[星链计划视频演示栏目-星际奇兵](https://github.com/knownsec/404StarLink/blob/master/column/starlink_project_video.md)
 
 
-### Learning Resources
+### Learning Resources & Blogs
 💻 https://testercc.github.io
 
 ---
@@ -77,6 +77,10 @@ More at ↗ [CTF & AWD](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AW
 ---
 https://paper.seebug.org
 Paper - 安全技术精粹 ｜ 知道创宇
+
+---
+https://security.googleblog.com/
+Google Security Blog
 
 ---
 https://c4pr1c3.github.io/cuc-wiki/
@@ -245,6 +249,11 @@ Russ Cox
 - 开放隐私计算 (OpenMPC)
 - NISL 实验室 (清华大学) [[官网]](https://netsec.ccert.edu.cn/)
 - 复旦白泽战队
+- 中国信息安全
+- 信息安全与通信保密杂志社
+- FuzzWiKi
+- 信息网络安全杂志
+
 
 ---
 📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc

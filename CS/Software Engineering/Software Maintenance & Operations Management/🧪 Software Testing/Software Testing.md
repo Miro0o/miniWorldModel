@@ -147,12 +147,12 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ## 🤖 Automated Testing
-↗️ [Automated Testing](🤖 Automated Testing/Automated Testing.md) 
+↗️ [APP Test Automation](🤖%20Test%20Automation/APP%20Test%20Automation/APP%20Test%20Automation.md)
 
 
 
 ## 🐛 Software Defect (Bug)
-↗️  [Software Defect](Software Defect.md) 
+↗️  [Software Defect]
 
 
 
