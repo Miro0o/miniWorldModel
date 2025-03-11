@@ -35,3 +35,7 @@ The latest release at the time of this writing is **Windows 10**. Windows 10 inc
 2. 手动修改注册表
 
 [👍 注册表]: https://blog.csdn.net/duan_qiao925/article/details/115762947
+
+[Windows 11 版本对比：家庭版、专业版、企业版、教育版、SE 版的区别 | CSDN]: https://blog.csdn.net/winkexin/article/details/131567684?fromshare=blogdetail&sharetype=blogdetail&sharerId=131567684&sharerefer=PC&sharesource=&sharefrom=from_link
+[Compare Windows 11 editions | microsoft]: https://www.microsoft.com/en-us/windows/business/compare-windows-11#Security
+[Windows 11 Pro Vs Windows 11 Pro Workstation. Your thoughts? | reddit]: https://www.reddit.com/r/Windows11/comments/rcz2dm/windows_11_pro_vs_windows_11_pro_workstation_your/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button

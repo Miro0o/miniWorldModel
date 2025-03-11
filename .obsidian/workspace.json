@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "b0da7180c1ec0ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LLM & Fuzzing"
-            }
-          },
-          {
             "id": "26b8d1e81c5cb2a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,21 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fuzzing (Fuzz Testing)"
-            }
-          },
-          {
-            "id": "03bd0b5de327bfcc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ad & Brand Design"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fuzzing (Fuzz Testing)"
+              "title": "Outgoing links from Ad & Brand Design"
             }
           },
           {
@@ -193,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fuzzing (Fuzz Testing)"
+              "title": "Outline of Ad & Brand Design"
             }
           },
           {
@@ -250,9 +216,22 @@
   },
   "active": "26b8d1e81c5cb2a1",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Program Profiling & Dynamic Instrumentation/Program Profiling & Dynamic Instrumentation.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy Technology & GFW 🇨🇳/Proxy Implementations/📌 Project V & v2ray-core/v2ray GUI Clients/ShadowRocket (iOS).md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/Windows.md",
+    "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/DOS (Disk Operating System).md",
+    "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/💅🏻 CSS & HTML UI Design & Frameworks/CSS & HTML UI Design & Frameworks.md",
+    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Frontend Galleries/Frontend Galleries.md",
+    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.md",
     "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Program Profiling & Dynamic Instrumentation/Program Profiling & Dynamic Instrumentation.md",
     "CS/Academics 🎓/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
     "CS/Academics 🎓/Academics.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Software Vulnerability & Weakness.md",
@@ -263,24 +242,11 @@
     "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Testing Types.md",
     "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Artifacts Test/Test Case.md",
     "CS/Software Engineering/Software Development Pattern/🔄 SDLC (Software Development Life Circle) & SDLC Models/SDLC (Software Development Life Circle) & SDLC Models.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Interpreted Languages/Lua/Lua.md",
-    "CS/Academics 🎓/🎻 Academic Conference & Journals in Electronics & Information Fields/Academic Conference & Journals in Electronics & Information Fields.md",
-    "CS/Academics 🎓/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
     "Assets/Official & Formal Docs/中国计算机学会推荐国际学术会议和期刊目录-2022更名版.pdf",
     "Assets/Official & Formal Docs/P020250116506795831658.pdf",
-    "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
     "Assets/Pics/Screenshot 2025-03-05 at 21.11.11.png",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JavaScript (Browser End)/JS Gadgets/MathJax.md",
-    "CS/🔑 CS Core/Generic Software Tools & Projects/Knowledge Management/Notes Organization/Obsidian.md",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "Assets/Illustrations/Drawing 2025-03-05 19.51.20.excalidraw.md",
     "Assets/Pics/Screenshot 2025-03-05 at 19.30.41.png",
     "Assets/Pics/Screenshot 2025-03-05 at 19.15.01.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/angr.md",
-    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
     "Assets/Pics/Screenshot 2025-03-05 at 15.55.03.png",
     "Assets/Pics/Screenshot 2025-03-05 at 15.52.12.png",
     "Assets/Pics/Pasted image 20250304121246_0.png",

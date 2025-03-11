@@ -10,7 +10,8 @@
 ↗ [Computer Security Related Conferences & Journals](../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
-### Courses & Projects & Labs
+### Learning Resources
+#### Courses & Projects & Labs
 > ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
 > ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
@@ -50,8 +51,13 @@ MIT - Computer System Security
 12.[正在申请加入的项目](https://github.com/knownsec/404StarLink/issues)  
 13.[星链计划视频演示栏目-星际奇兵](https://github.com/knownsec/404StarLink/blob/master/column/starlink_project_video.md)
 
+https://pwn.college/
+pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. In martial arts terms, it is designed to take a “white belt” in cybersecurity through the journey to becoming a “blue belt”, able to approach (simple) cybersecurity competitions (CTFs) and wargames.
 
-### Learning Resources & Blogs
+The platform is maintained by an [awesome team](https://pwn.college/#greetz) of hackers at Arizona State University. It powers much of ASU's cybersecurity curriculum, and is open, for free, to participation for interested people around the world!
+
+
+#### Blogs & Docs
 💻 https://testercc.github.io
 
 ---
@@ -206,24 +212,23 @@ HackTricks is a educational Wiki that compiles knowledge about **cyber-security*
 https://swtch.com/~rsc/
 Russ Cox
 **Projects**
-[The Go Programming Language](http://golang.org/)
-[Plan 9 from Bell Labs](http://plan9.bell-labs.com/plan9) 
-[Plan 9 kernel history](http://swtch.com/plan9history) 1990-2003
-[Plan 9 from User Space](http://swtch.com/plan9port) (Plan 9 on Unix)  
-[9fans mailing list archives](http://9fans.net/archive/)
-[Online Encyclopedia of Integer Sequences](http://www.research.att.com/~njas/sequences/)
-[6.828: Operating System Engineering](http://pdos.csail.mit.edu/6.828) 
-[xoc](http://pdos.csail.mit.edu/xoc/) (an extensible compiler; unsupported)
-[Chord](http://pdos.csail.mit.edu/chord/)
-[USA Computing Olympiad](http://www.usaco.org/)
-
+- [The Go Programming Language](http://golang.org/)
+- [Plan 9 from Bell Labs](http://plan9.bell-labs.com/plan9) 
+- [Plan 9 kernel history](http://swtch.com/plan9history) 1990-2003
+- [Plan 9 from User Space](http://swtch.com/plan9port) (Plan 9 on Unix)  
+- [9fans mailing list archives](http://9fans.net/archive/)
+- [Online Encyclopedia of Integer Sequences](http://www.research.att.com/~njas/sequences/)
+- [6.828: Operating System Engineering](http://pdos.csail.mit.edu/6.828) 
+- [xoc](http://pdos.csail.mit.edu/xoc/) (an extensible compiler; unsupported)
+- [Chord](http://pdos.csail.mit.edu/chord/)
+- [USA Computing Olympiad](http://www.usaco.org/)
 **Miscellany**
-[Blog](http://research.swtch.com/)
-[Bell Labs and CSP Threads](https://swtch.com/~rsc/thread/)
-[Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
-[Libtask: event-driven programming with threads](https://swtch.com/~rsc/libtask/)
-[Programming project guidelines](https://swtch.com/~rsc/worknotes/)
-[Spin & Plan 9](https://swtch.com/spin/)
+- [Blog](http://research.swtch.com/)
+- [Bell Labs and CSP Threads](https://swtch.com/~rsc/thread/)
+- [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
+- [Libtask: event-driven programming with threads](https://swtch.com/~rsc/libtask/)
+- [Programming project guidelines](https://swtch.com/~rsc/worknotes/)
+- [Spin & Plan 9](https://swtch.com/spin/)
 
 
 ### Info & Res & News
@@ -453,13 +458,13 @@ http://www.china-cia.org.cn
 
 ### Why is Cybersecurity?
 Two main reasons of security issues:
-1. Information system developments
-2. Human factor
+11. Information system developments
+12. Human factor
 
 Security issues sources:
-1. National security threat
-2. Common security threat
-3. Local security threat
+13. National security threat
+14. Common security threat
+15. Local security threat
 
 
 
