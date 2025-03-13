@@ -15,7 +15,6 @@
 ↗ [Web Application Systems & Architecture Design](../Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 
 ↗ [Backend Deployment](../../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Backend%20Deployment/Backend%20Deployment.md)
-↗ [Backend Galleries](../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Backend%20Galleries/Backend%20Galleries.md)
 
 
 

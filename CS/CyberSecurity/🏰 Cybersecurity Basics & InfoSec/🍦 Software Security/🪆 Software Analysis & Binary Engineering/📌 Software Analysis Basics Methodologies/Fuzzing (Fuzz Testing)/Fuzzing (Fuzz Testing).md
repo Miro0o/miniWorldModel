@@ -64,9 +64,24 @@ https://mp.weixin.qq.com/s/-ZYX-G_jX1AN8lzbHvW21g
 
 
 ### Tools & Projects
+🚧 https://github.com/Microsvuln/Awesome-AFL
+A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers including AFL-fuzzing tutorials
+
+🏠 https://llvm.org/docs/LibFuzzer.html
+LibFuzzer is an in-process, coverage-guided, evolutionary fuzzing engine.
+
+LibFuzzer is linked with the library under test, and feeds fuzzed inputs to the library via a specific fuzzing entrypoint (aka “target function”); the fuzzer then tracks which areas of the code are reached, and generates mutations on the corpus of input data in order to maximize the code coverage. The code coverage information for libFuzzer is provided by LLVM’s [SanitizerCoverage](https://clang.llvm.org/docs/SanitizerCoverage.html) instrumentation.
+
 🚧 https://github.com/google/AFL
 🏠 https://lcamtuf.coredump.cx/afl/
 american fuzzy lop - a security-oriented fuzzer
+- 🚧 https://github.com/AFLplusplus/AFLplusplus
+	- The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- 🚧 https://gitee.com/opengauss/dbms-fuzzing-scu
+	- DBMS-Fuzzing-SCU | 四川大学贾鹏团队根据AFL修改的数据库fuzzing软件
+
+🚧 https://github.com/google/honggfuzz
+A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options. See the [Usage document](https://github.com/google/honggfuzz/blob/master/docs/USAGE.md) for a primer on Honggfuzz use.
 
 🚧 https://github.com/google/oss-fuzz
 📂 https://google.github.io/oss-fuzz/
@@ -75,10 +90,6 @@ In cooperation with the [Core Infrastructure Initiative](https://www.coreinfras
 We support the [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [AFL++](https://github.com/AFLplusplus/AFLplusplus), and [Honggfuzz](https://github.com/google/honggfuzz) fuzzing engines in combination with [Sanitizers](https://github.com/google/sanitizers), as well as [ClusterFuzz](https://github.com/google/clusterfuzz), a distributed fuzzer execution environment and reporting tool.
 
 Currently, OSS-Fuzz supports C/C++, Rust, Go, Python, Java/JVM, and JavaScript code. Other languages supported by [LLVM](https://llvm.org/) may work too. OSS-Fuzz supports fuzzing x86_64 and i386 builds.
-
-https://gitee.com/opengauss/dbms-fuzzing-scu
-DBMS-Fuzzing-SCU
-四川大学贾鹏团队根据AFL修改的数据库fuzzing软件
 
 
 ### Others
@@ -229,7 +240,7 @@ We see (at least) three important lines of future work. First, we believe there 
 > Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." _arXiv preprint arXiv:2402.00350_ (2024).
 > https://arxiv.org/abs/2402.00350
 
-In addition, we summarise the most commonly used metrics based on all technologies to evaluate the performance of LLMs-based fuzzers. They can be generally categorized into three types, the metrics related to code, performance and time. 
+In addition, we summarise the most commonly used metrics based on all technologies to evaluate the performance of LLMs-based fuzzers. ==They can be generally categorized into three types, the metrics related to code, performance and time. ==
 
 For the **code-related metrics**, the representative ones are code coverage and the number of bugs retrieved, as they reflect the testing coverage and vulnerability detection capability of the fuzzer most directly. 
 - Number of bugs retrieved

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "26b8d1e81c5cb2a1",
+            "id": "2fd8ea445230dcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ad & Brand Design"
+              "title": "Fuzzing (Fuzz Testing)"
             }
           }
         ],
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
+                "file": "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Mini-Program Dev (小程序开发)/Mini-Program Dev (小程序开发).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ad & Brand Design"
+              "title": "Outgoing links from Mini-Program Dev (小程序开发)"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ad & Brand Design"
+              "title": "Outline of Fuzzing (Fuzz Testing)"
             }
           },
           {
@@ -191,13 +191,33 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "5593ea0928379c5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fuzzing (Fuzz Testing)"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,34 +234,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26b8d1e81c5cb2a1",
+  "active": "2fd8ea445230dcae",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy Technology & GFW 🇨🇳/Proxy Implementations/📌 Project V & v2ray-core/v2ray GUI Clients/ShadowRocket (iOS).md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/Windows.md",
-    "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
     "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/DOS (Disk Operating System).md",
-    "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/💅🏻 CSS & HTML UI Design & Frameworks/CSS & HTML UI Design & Frameworks.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Frontend Galleries/Frontend Galleries.md",
-    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Mini-Program Dev (小程序开发)/Mini-Program Dev (小程序开发).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/📌 Vulnerability Government（漏洞管控）/SCAP (Security Content Automation Protocol) & OpenSCAP.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Program Profiling & Dynamic Instrumentation/Program Profiling & Dynamic Instrumentation.md",
-    "CS/Academics 🎓/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
-    "CS/Academics 🎓/Academics.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Software Vulnerability & Weakness.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis & Binary Engineering.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/FAQ.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing Models.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Testing Types.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Artifacts Test/Test Case.md",
-    "CS/Software Engineering/Software Development Pattern/🔄 SDLC (Software Development Life Circle) & SDLC Models/SDLC (Software Development Life Circle) & SDLC Models.md",
+    "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/💅🏻 CSS & HTML UI Design & Frameworks/CSS & HTML UI Design & Frameworks.md",
+    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Application Galleries.md",
+    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Taxonomy.md",
+    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Frontend Galleries/Frontend Galleries.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
+    "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Backend Galleries/Backend Galleries.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Web Development & The Internet.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/PolarDB/PolarDB.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Mini-Program Dev (小程序开发)",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/OceanBase/OceanBase.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/PolarDB",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/Database Systems.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/OceanBase",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/国产操作系统 💦/Anolis OS (龙蜥)/Anolis OS (龙蜥).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/国产操作系统 💦/KylinOS (银河麒麟)/KylinOS (银河麒麟).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/CentOS/CentOS Stream.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/Rocky Linux/Rocky Linux.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/RHEL (Red Hat Enterprise Linux)/RHEL (Red Hat Enterprise Linux).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/Rocky Linux",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/Fedora/Fedora.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Ubuntu/Ubuntu.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/CentOS/CentOS.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/FAQ.md",
     "Assets/Official & Formal Docs/中国计算机学会推荐国际学术会议和期刊目录-2022更名版.pdf",
     "Assets/Official & Formal Docs/P020250116506795831658.pdf",
     "Assets/Pics/Screenshot 2025-03-05 at 21.11.11.png",
@@ -258,10 +282,6 @@
     "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Compiled + Interpreted Languages/Dot.Net-Based Languages",
     "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🐢 Programming Language Theory (PLT)",
     "Untitled.loom",
-    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/TV Shows/Rick and Morty",
-    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Family Guy",
-    "Micro-Knowledge/Learning/📌 How to learn English the right way/English Listening/Animation/Bojack Horseman",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis Automation",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",

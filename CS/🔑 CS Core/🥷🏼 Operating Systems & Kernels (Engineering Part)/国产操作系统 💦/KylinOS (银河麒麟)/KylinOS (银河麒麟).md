@@ -1,4 +1,4 @@
-# KylinOS (银行麒麟)
+# KylinOS (银河麒麟)
 
 [TOC]
 

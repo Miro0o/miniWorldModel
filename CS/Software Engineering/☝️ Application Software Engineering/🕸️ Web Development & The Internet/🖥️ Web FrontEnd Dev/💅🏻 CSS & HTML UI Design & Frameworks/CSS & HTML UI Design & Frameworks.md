@@ -7,9 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [HTML (HyperText Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/HTML%20(HyperText%20Markup%20Language).md)
-↗ [CSS (Cascading Style Sheets)](../CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
+↗ [CSS (Cascading Style Sheets)](../📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 
-↗ [Color & Layout Design](../HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
+↗ [Color & Layout Design](../📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
+↗ [Web Application Galleries](../../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
 
 
 ### UI Kits
@@ -20,7 +21,7 @@
 📂 [Apple Design Resource](https://developer.apple.com/design/resources/)
 
 
-### 💄 Galleries
+### 💄 Galleries /Website Templates
 [lapa.ninja](https://www.lapa.ninja)
 Lapa Ninja is a gallery featuring the best 5341 landing page examples, [free books for designers](https://www.lapa.ninja/book/) and [free UI kits](https://www.lapa.ninja/freebies/) from around the web.
 
@@ -29,6 +30,9 @@ Material 3 is the latest version of Google’s open-source design system. Design
 
 [Landing Love](https://www.landing.love/)
 Showcase of the best 333 Animation Websites.
+
+https://github.com/learning-zone/website-templates
+150+ HTML5 Website Templates
 
 
 

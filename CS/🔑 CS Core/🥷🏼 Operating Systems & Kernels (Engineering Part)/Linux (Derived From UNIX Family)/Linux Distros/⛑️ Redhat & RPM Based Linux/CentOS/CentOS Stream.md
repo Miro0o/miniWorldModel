@@ -1,4 +1,4 @@
-# Anolis OS
+# CentOS Stream
 
 [TOC]
 
