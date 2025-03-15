@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +235,12 @@
   },
   "active": "2fd8ea445230dcae",
   "lastOpenFiles": [
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Mini-Program Dev (小程序开发)/Mini-Program Dev (小程序开发).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/📌 Vulnerability Government（漏洞管控）/SCAP (Security Content Automation Protocol) & OpenSCAP.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
     "Micro-Knowledge/Make Money/Entrepreneurship/Ad & Brand Design.md",
     "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/💅🏻 CSS & HTML UI Design & Frameworks/CSS & HTML UI Design & Frameworks.md",
     "CS/Software Engineering/🏇 Galleries & Awesome SE/Web Application Galleries/Web Application Galleries.md",
@@ -265,7 +265,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/Fedora/Fedora.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Ubuntu/Ubuntu.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/⛑️ Redhat & RPM Based Linux/CentOS/CentOS.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/FAQ.md",
     "Assets/Official & Formal Docs/中国计算机学会推荐国际学术会议和期刊目录-2022更名版.pdf",
     "Assets/Official & Formal Docs/P020250116506795831658.pdf",
     "Assets/Pics/Screenshot 2025-03-05 at 21.11.11.png",
