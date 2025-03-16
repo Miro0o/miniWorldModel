@@ -59,7 +59,6 @@ Go to the link above for error control mechanisms in the field of communication.
 ### 4️⃣ Reliable Data Transfer (RDT)
 > ↗ [Reliable Data Transfer (RDT)](../../../Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 
-
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.33.18%20PM.png)
 
 **Reliable delivery**. When a link-layer protocol provides reliable delivery service, it guarantees to move each network-layer datagram across the link without error.

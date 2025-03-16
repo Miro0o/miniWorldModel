@@ -4,10 +4,18 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
 
 
 
 ## Overview
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+<small>Web & Internet: The Architecture</small>
+
+---
 🔗【深入浅出计算机网络 - 1.4 计算机网络的定义和分类】 https://www.bilibili.com/video/BV1BP411j7XH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.25.01%20AM.png)
@@ -92,6 +100,11 @@ Recall Overlay/Underlay Architecture in ↗ [SDN Standardizations & Architecture
 
 ## ⏲️ Computer Network Performance
 ↗ [Computer Network Performance Metrics](Computer%20Network%20Performance%20Metrics.md)
+
+
+
+## Computer Network Communication Process Overview
+#TODO 
 
 
 

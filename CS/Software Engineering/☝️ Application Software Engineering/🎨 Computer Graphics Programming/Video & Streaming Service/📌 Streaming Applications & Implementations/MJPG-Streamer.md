@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [MJPEG (Motion-JPEG)](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
+↗ [MJPEG (Motion-JPEG)](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
 
 
 ## Intro

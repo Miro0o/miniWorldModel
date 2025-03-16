@@ -1,4 +1,4 @@
-# STUN
+# STUN (Session Traversal Utilities for NAT)
 
 [TOC]
 

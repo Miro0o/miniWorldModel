@@ -32,6 +32,8 @@ In recent bibliography, the main categories of middleware are the following:
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230308152237.png)
 <small>软件设计架构 -- 低代码编程和可复用</small>
 
+![|600](../../../../../../Assets/Pics/Pasted%20image%2020240630155001.png)
+
 
 
 ## Ref

@@ -56,7 +56,9 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 > ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
 
-**Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").**  Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
+**Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** 
+
+Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
@@ -64,14 +66,51 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
-As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software. [CSAB](https://en.wikipedia.org/wiki/CSAB_(professional_organization) "CSAB (professional organization)"), formerly called **Computing Sciences Accreditation Board** — which is made up of representatives of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM), and the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") (IEEE CS) — identifies four areas that it considers crucial to the discipline of computer science: _theory of computation_, _algorithms and data structures_, _programming methodology and languages_, and _computer elements and architecture_. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") as being important areas of computer science.
-
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
 
-> CS Subjects from Different Aspects
-> ↗ [🥂 Welcome to CS](../../🥂%20Welcome%20to%20CS.md)
-#### ACM CCS
+**TL;DR**  (personal opinion)
+In general, the domain of computer science includes 3 major areas:
+- ==Theoretical & Formal Computer Science== (theories and math)
+	- Theory of Computation
+	- Algorithms and Data Structures
+	- \*Programming Methodology and Languages (Stride from theory to engineering)
+	- etc.
+- ==Computer Elements and Architecture== (studies about computer itself)
+	- Computer Host
+		- Computer Hardware and Engineering
+			- Computer Organization and Architecture
+			- etc.
+		- Computer Software and Engineering
+			- \*System Level Software and Engineering (Stride from hardware to software)
+				- Operating System 
+				- Database System
+				- Drivers
+				- Compilers
+				- etc.
+			- Application Level Software and Engineering
+				- Web Application
+				- etc.
+	- Computer Networking
+		- Hardware
+		- Software
+		- Protocols
+- ==Computer Application & Applied Computing== (studies about using computer)
+	- \*Computer Security (Stride from computer elements & arch to applied computing)
+		- etc.
+	- Computing Methodologies
+		- AI & Data Science
+		- High Performance Computing
+		- Quantum Computing
+		- etc.
+	- Human-Centered Computing
+	- etc.
+#### CSAB Classification
+> 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
+> 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
+
+As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software. [CSAB](https://en.wikipedia.org/wiki/CSAB_(professional_organization) "CSAB (professional organization)"), formerly called **Computing Sciences Accreditation Board** — which is made up of representatives of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM), and the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") (IEEE CS) — identifies four areas that it considers crucial to the discipline of computer science: _theory of computation_, _algorithms and data structures_, _programming methodology and languages_, and _computer elements and architecture_. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") as being important areas of computer science.
+#### ACM CCS (Classification of All CS Subjects)
 > https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 > The **ACM Computing Classification System** (**CCS**) is a subject classification system for [computing](https://en.wikipedia.org/wiki/Computing "Computing") devised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM). The system is comparable to the [Mathematics Subject Classification](https://en.wikipedia.org/wiki/Mathematics_Subject_Classification "Mathematics Subject Classification") (MSC) in scope, aims, and structure, being used by the various ACM journals to organize subjects by area.
 
@@ -344,7 +383,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 	- Professional topics
 	- Computing / technology policy
 	- User characteristics
-#### CS Subjects and Learning
+#### Learning CS Subjects
  >A simplified version of CS subjects classification for beginners 🤓
 
 1️⃣ Theoretical Computer Science (TCS) & Math 
@@ -370,23 +409,26 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 > ↗ [Great Ideas in Theoretical CS](Great%20Ideas%20in%20Theoretical%20CS.md)
 > ↗ [Importance Themes & Ideaology in CS](Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 
+These questions, from general to specific, speaks the path of what i think every CS students should have follow in systematically learning computer science from zero to a profession. Most of these questions are too general and abstract that people rarely take them seriously in learning CS (instead they love solving concrete problems and learning practical techniques). But I believe in undergraduate level study, we should and must establish this systematical, wholistic view about computer science as a discipline as well, in additional to solid engineering skills or specific domain knowledges in some areas.
+
 1. What is the Universe?
 	1. ↗ [Universe, Knowledge, and Intelligence](../../../Universe,%20Knowledge,%20and%20Intelligence.md)
 	2. What is the life?（什么是生命？）
-	3. What is the intelligence? What is Human Beings? （什么是智能？人类就是智能生命）
-		1. (What is the Artificial Intelligence?)
-		2. What is human society /civilization?
+	3. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能）
+		1. What is human society /civilization?
 			1. (The development of society /civilization ?)
+		2. (What about Artificial Intelligence?)
 	4. What is knowledge? What is the science?
 		1. Arts and Humanity 🆚 Natural Science ?
 		2. Sentiments 🆚 Logics?
 		3. (What is academic research?)
 ----
-2. What is data /information? (Theory of Information)
+2. What is data /information?
 	1. ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-3. What is computing? (Computability & Complexity) /What computation can be automated? /How to design a computing model?
-	1. ↗ [Theory of Computation](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+3. What is computing /automation? 
+	1. (data /information vs language?)
+	2. ↗ [Theory of Computation](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 		1. ↗ [Computability Theory & Turing Machine](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
 		2. ↗ [Computational Complexity Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
@@ -397,11 +439,11 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 		3. ↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 			1. ↗ [Digital (Logic) Electronics Foundations](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)]
 			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
-	3. What happened during computer booting? /How does computer start?
+	3. What happened during computer booting? /How does computer start running?
 		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
-	4. What happened after computer booting? /How does OS work?
-		1. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-		2. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+	4. What happened after computer booting? /How does OS work? /How computer is designed in terms of software?
+		2. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+		3. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. What is a program and how does it work? (application program /OS program)
 		1. ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
 		2. Why and how do we program? /How are programming languages designed
@@ -409,16 +451,12 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 			3. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 		3. What happened when a program is running? /How is software programmed, compiled, and run?
 			1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-			2. 怎么构造一个最小的 Hello, World？ --- jyy
-			3. Where is the first instruction of a C program?
-			4. Where is the first instruction of a Python program?
-			5. Where is the first instruction of a Java program?
-			6. Where is the first instruction of a Go program?
-			7. Where is the first instruction of an Android program?
-			8. etc.
+			2. 怎么构造一个最小的 helloworld程序？ --- jyy
+			3. Where is the first instruction of a C/Python/Java/Go/etc. program?
+			4. etc.
 	6. What happened when a network request is sent and a response is received? /How does computer network(or the Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-5. What can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
+5. What can computer do and how to improve it? (Application, Performance, Efficiency, Scalability, Security「CIA」)
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		2. ↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)

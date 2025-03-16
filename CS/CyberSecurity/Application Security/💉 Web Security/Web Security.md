@@ -70,6 +70,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 > ↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 > 🔗 https://textbook.cs161.org/web/intro.html
 
+![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
 
 
 

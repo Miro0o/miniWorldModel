@@ -4,8 +4,15 @@
 
 
 
-## Intro
+## Res
+### Related Topics
 
+
+### Other Resources
+
+
+
+## Intro
 > 🔗 https://en.wikipedia.org/wiki/Access-control_list
 
 In [computer security](https://en.wikipedia.org/wiki/Computer_security), an **access control list** (**ACL**) is a list of [permissions](https://en.wikipedia.org/wiki/File-system_permissions) associated with a [system resource](https://en.wikipedia.org/wiki/System_resource) (object). An ACL specifies which [users](https://en.wikipedia.org/wiki/User_(computing)) or [system processes](https://en.wikipedia.org/wiki/Process_(computing)) are granted access to objects, as well as what operations are allowed on given objects. Each entry in a typical ACL specifies a subject and an operation. 
@@ -18,11 +25,8 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), an **ac
 [POSIX](https://en.wikipedia.org/wiki/POSIX) 1003.1e/1003.2c working group made an effort to standardize ACLs, resulting in what is now known as "POSIX.1e ACL" or simply "POSIX ACL". The POSIX.1e/POSIX.2c drafts were withdrawn in 1997 due to participants losing interest in funding the project and turning to more powerful alternatives such as NFSv4 AC
 
 😮‍💨 As of December 2019, no live sources of the draft could be found on the Internet, but they can still be found in the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive).
-
 #### Windows NT ACLs
 #TODO 
-
-
 #### NFSv4 ACL
 [NFSv4](https://en.wikipedia.org/wiki/NFSv4) ACLs are much more powerful than POSIX draft ACLs. Unlike draft POSIX ACLs, NFSv4 ACLs are defined by an actually published standard, as part of the [Network File System](https://en.wikipedia.org/wiki/Network_File_System).
 
@@ -36,8 +40,7 @@ On some types of proprietary computer hardware (in particular, [routers](https:/
 
 Both individual [servers](https://en.wikipedia.org/wiki/Server_(computing)) and [routers](https://en.wikipedia.org/wiki/Router_(computing)) can have network ACLs. Access-control lists can generally be configured to control both inbound and outbound traffic, and in this context, they are similar to [firewalls](https://en.wikipedia.org/wiki/Firewall_(networking)).
 
-> More on ↗️  [Networking ACL](../../../../🔑 CS_Core/🏎️ Networking/📌 Basics/0x06 Link Layer/Networking ACL/Networking ACL.md).
-
+> More on ↗️ [Networking ACL](../../../../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/Networking%20Access%20Control/Networking%20ACL/Networking%20ACL.md)
 
 ### Other ACLs..
 #### Active Directory ACLs

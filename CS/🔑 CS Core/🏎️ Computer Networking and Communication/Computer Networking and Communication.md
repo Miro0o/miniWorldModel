@@ -14,32 +14,37 @@
 - ↗ [IoT & Embedded Communication Protocols](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Protocols/IoT%20&%20Embedded%20Communication%20Protocols.md)
 
 
-### Courses
-#### 1️⃣ The first solid step begins with
-🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/Courses%20of%20Universities/UMASS/Computer%20Networking:%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
-📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
-
+### Learning Resources
+#### Courses
 🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
-This course is AMAZING!
+- 🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/Courses%20of%20Universities/UMASS/Computer%20Networking:%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
+- 📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
 🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking: A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
+- 🏫 [USTC /计算机网络](../../🗺%20CS%20Overview/Courses%20of%20Universities/USTC/计算机网络/计算机网络.md)
+	- 🎬 https://www.bilibili.com/video/BV1JV411t7ow/
+	- 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
 
-🏫 [USTC /计算机网络](../../🗺%20CS%20Overview/Courses%20of%20Universities/USTC/计算机网络/计算机网络.md)
-- 🎬 https://www.bilibili.com/video/BV1JV411t7ow/
-- 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
-
----
 习题答案 & 资源
 https://github.com/YangXiaoHei/Networking
 https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 
-[Computer networking a top-down approach [ 7th + 8th ] edition solution mannual](https://www.yumpu.com/s/iVp8v4IBYyZcmORF)
+[Computer networking a top-down approach 「 7th + 8th 」 edition solution mannual](https://www.yumpu.com/s/iVp8v4IBYyZcmORF)
 [Solutions Manual for Computer Networking A Top Down Approach](https://www.studocu.com/en-us/document/prairie-view-am-university/computer-networks/solutions-manual-for-computer-networking-a-top-down-approach/25116860)
-#### 2️⃣ For more practical exercises, check out this course from Stanford 👇
+
+---
 🏫 [Stanford /CS144: Computer Network](../../🗺%20CS%20Overview/Courses%20of%20Universities/Stanford/CS%20144%20Computer%20Network/CS144:%20Computer%20Network.md)
+#### 👩‍🔬 Labs
+↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 
+🔗 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
+Wireshark Labs
+I'm using ↗ [TermShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark%20CLI/TermShark.md) for package sniffing & analysing
+Termshark is based on ↗ [Wireshark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark%20CLI/TShark.md))
 
-### Other Materials
+🔗 https://github.com/cs144/sponge\
+Building TCP/IP Stack
+#### Other Materials
 💻 [Internetworking](https://networking.ringofsaturn.com)
 
 💻 [The TCP/IP Guide](http://www.tcpipguide.com/index.htm)
@@ -69,27 +74,17 @@ https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
 👍 全网最全网络基础思维导图（38张) | SDNLAB
 
 
-### 👩‍🔬 Labs
-↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
-#### Wireshark Labs
-🔗 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
-
-I'm using ↗ [TermShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark%20CLI/TermShark.md) for package sniffing & analysing
-Termshark is based on ↗ [Wireshark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark%20CLI/TShark.md))
-#### Building TCP/IP Stack
-🔗 https://github.com/cs144/sponge\
-
-
 
 ## Intro
 ↗ [Information, Signals, and Communication Technology Intro](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
 ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
-↗ [⭐️ Computer Network Communication Process Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/⭐️%20Computer%20Network%20Communication%20Process%20Overview.md)
-
 
 ---
-Learning classic computer networking knowledge from ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
+Learning classic computer networking knowledge beginning from ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
+
+![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+<small>Web & Internet: The Architecture</small>
 
 ![](../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
 <small>科来《网络通讯协议图2023版》</small>

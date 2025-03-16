@@ -19,8 +19,10 @@
 
 
 ## Intro
-![web_application_arch.excalidraw](../../../../../Assets/Illustrations/Web%20Development/web_application_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend. Originly from notes "HTTP-Based Systems"</small>
+
+![|600](../../../../../Assets/Pics/Pasted%20image%2020240630155001.png)
 
 
 

@@ -5,9 +5,6 @@
 
 
 ## Res
-【深入浅出计算机网络 - 7.7 网络体系结构各层采取的安全措施——网络层】 https://www.bilibili.com/video/BV1Bv4y1T7xB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
 ### Related Topics
 ↗ [Internet Protocols (IP)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/Internet%20Protocols%20(IP)/Internet%20Protocols%20(IP).md)
 ↗ [MACsec (Media Access Control Security)](../../🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
@@ -16,6 +13,10 @@
 - ↗ [Tunneling Protocols & Technologies](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
 - ↗ [SSL VPN](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/SSL%20VPN/SSL%20VPN.md)
 - ↗ [GRE (Generic Routing Encapsulation)](../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
+
+
+### Other Resources
+【深入浅出计算机网络 - 7.7 网络体系结构各层采取的安全措施——网络层】 https://www.bilibili.com/video/BV1Bv4y1T7xB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

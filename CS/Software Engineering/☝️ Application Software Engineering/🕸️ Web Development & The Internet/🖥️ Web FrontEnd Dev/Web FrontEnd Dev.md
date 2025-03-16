@@ -46,7 +46,7 @@ The World Wide Web Consortium (W3C) is an [international community](https://www.
 
 
 ## Intro
-![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web%20Development/web_application_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend</small>
 
 

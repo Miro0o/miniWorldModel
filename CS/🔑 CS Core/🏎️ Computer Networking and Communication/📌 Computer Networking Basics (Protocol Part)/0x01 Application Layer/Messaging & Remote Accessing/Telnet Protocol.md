@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Remote Terminal & Other Communications Programs](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Other%20Communications%20Programs/Remote%20Terminal%20&%20Other%20Communications%20Programs.md)
+↗ [Telnet Clients](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Other%20Communications%20Programs/Telnet%20Clients/Telnet%20Clients.md)
 
 
 
@@ -35,4 +35,7 @@ Over time, several Telnet extensions were created. Telnet has been around as a t
 
 ## Ref
 [Telnet Introduction]: https://www.techtarget.com/searchnetworking/definition/Telnet
+
+[👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+![](../../../../../../Assets/Pics/Pasted%20image%2020250316222517.png)
 

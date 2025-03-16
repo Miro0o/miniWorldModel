@@ -115,3 +115,9 @@ VXLAN（Virtual eXtensible Local Area Network，虚拟扩展局域网），是�
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240510151102.png)
 
+![](../../../../../../../Assets/Pics/Pasted%20image%2020250316222233.png)
+
+[GVRP (GARP VLAN Registration Protocol or Generic VLAN Registration Protocol) | TechTarget]: https://www.techtarget.com/searchnetworking/definition/GVRP
+Becoming part of a formal IEEE 802.1ak standard amendment in 2007, Multiple VLAN Registration Protocol replaced GVRP, as it was found to be prone to performance issues that could potentially cause prolonged network convergence. 
+...
+Technically, GVRP is still included as part of the IEEE standard, as the amendment did not completely remove it. It is expected to be removed in the future, but until that happens, GVRP is still being used.

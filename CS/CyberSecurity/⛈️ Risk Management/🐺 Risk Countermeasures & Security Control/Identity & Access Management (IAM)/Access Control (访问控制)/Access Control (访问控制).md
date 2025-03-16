@@ -42,14 +42,16 @@ In the field of access control, there are three major aspects:
 
 
 
-## Access Control Principles
+## Access Control (AC) Principles
 ### Access Control Models
 ↗ [Access Control Models](📌%20Access%20Control%20Models/Access%20Control%20Models.md)
 
 
 ### Access Control Mechanisms /Taxonomy
 #### High-Layer /Low-Layer AC
-![](../../../../../../../Assets/Pics/Pasted%20image%2020231101144813.png)
+访问控制是通过对访问者的有关信息进行检查来限制或禁止访问者使用资源的技术，分为高层访问控制和低层访问控制。
+- 高层访问控制：包括身份检查和权限确认，是通过对用户口令、用户权限、资源属性的检查和对比来实现的。
+- 低层访问控制：通过对通信协议中的某些特征信息的识别、判断，来禁止或允许用户访问的措施。如在路由器上设置过滤规则进行数据包过滤，就属于低层访问控制。
 #### AAA Mechanism (Authentication, Authorization, Auditing)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%202.56.16%20PM.png)
 
@@ -61,3 +63,6 @@ In the field of access control, there are three major aspects:
 [CISP——访问控制（自主访问控制和强制访问控制）]: https://blog.csdn.net/honest_run/article/details/122793277
 
 [身份鉴别与访问控制 | CSDN]: https://blog.csdn.net/PK_666/article/details/122678753
+
+[👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+![](../../../../../../Assets/Pics/Pasted%20image%2020250316223443.png)

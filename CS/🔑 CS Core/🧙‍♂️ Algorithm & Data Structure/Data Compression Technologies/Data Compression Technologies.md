@@ -11,9 +11,9 @@
 ↗ [Encodings](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 ↗ [Message Digest & Hash Function (Integrity)](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
 
-↗ [Codec & Media Formats & Standards](Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
-- ↗ [JPEG (Joint Photographic Experts Group)](Codec%20&%20Media%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards/JPEG%20(Joint%20Photographic%20Experts%20Group).md)
-- ↗ [MJPEG (Motion-JPEG)](Codec%20&%20Media%20Formats%20&%20Standards/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
+↗ [Media Formats & Standards & Codec (Coder-Decoder)](Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
+- ↗ [JPEG (Joint Photographic Experts Group)](Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/JPEG%20(Joint%20Photographic%20Experts%20Group).md)
+- ↗ [MJPEG (Motion-JPEG)](Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
 
 
 
