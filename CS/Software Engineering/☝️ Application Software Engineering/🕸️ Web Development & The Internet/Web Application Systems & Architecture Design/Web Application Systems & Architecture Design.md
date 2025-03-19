@@ -20,7 +20,7 @@
 ## Intro
 ![](../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.52.55.png)
 
-![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend</small>
 
 ![|600](../../../../../Assets/Pics/Pasted%20image%2020240630155001.png)

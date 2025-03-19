@@ -1,4 +1,4 @@
-# QUIC ( Quick Udp Internet Connection )
+# QUIC (Quick UDP Internet Connection)
 
 [TOC]
 

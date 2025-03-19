@@ -12,7 +12,7 @@
 
 
 ## Overview
-![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web & Internet: The Architecture</small>
 
 ---

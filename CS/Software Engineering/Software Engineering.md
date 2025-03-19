@@ -44,7 +44,7 @@ computer programs and related documentation such as requirements, design models 
 
 
 
-## Software Processes
+## Software Processes & Life Circle
 A software process is the set of activities and associated outcome that produce a software product. Software engineers mostly carry out these activities. These are four key process activities, which are common to all software processes. These activities are:
 
 1. **Software specifications:** The functionality of the software and constraints on its operation must be defined.
@@ -60,72 +60,53 @@ A software process is the set of activities and associated outcome that produce 
 ### Software Process Model
 A software life cycle model (also termed process model) is a pictorial and diagrammatic representation of the software life cycle. A life cycle model represents all the methods required to make a software product transit through its life cycle stages. It also captures the structure in which these methods are to be undertaken.
 
-See more on ↗️ [SDLC Model](👷🏻 Dev Pattern/SDLC/SDLC Model.md).
+See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 
-
-## Software Management
-### Project Management
-
-
-### Risk Management
+### Software Management
+#### Project Management
+#### Risk Management
+#### Software Metrics
 
 
-### Software Metrics
-
-
-
-## Software Requirement
-### Requirement Engineering
+### Software Requirement
+#### Requirement Engineering
 **Requirements engineering (RE)** refers to the process of defining, documenting, and maintaining requirements in the engineering design process. Requirement engineering provides the appropriate mechanism to understand what the customer desires, analyzing the need, and assessing feasibility, negotiating a reasonable solution, specifying the solution clearly, validating the specifications and managing the requirements as they are transformed into a working system. Thus, requirement engineering is the disciplined application of proven principles, methods, tools, and notation to describe a proposed system's intended behavior and its associated constraints.
 
 ![Requirement Engineering](../../Assets/Pics/requirement-engineering.jpg)
+- SRS
+- Data Flow Diagram
+- Entity-Relationship Diagram
+
+
+### Software Design & Development
+↗ [Web Application System Architecture Design Pattern](☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+↗️ [Software Development Pattern](Software%20Development%20Pattern/Software%20Development%20Pattern.md)
+
+↗ [Application Software Engineering](☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
+↗ [System Software Engineering](👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
+
+
+### Software Reliability & Quality
+↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md)
+↗ [Network Penetration (Pen-testing)](../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Vulnerability Discovery（漏洞检测）](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
+
+
+### Software Maintenance
+↗ [Software Maintenance & Operations Management](Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
 
 
 
-### SRS
+## Software Execution Overview
+↗ [Program, Computer, and Automation](../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 
-
-### Data Flow Diagram
-
-
-
-### Entity-Relationship Diagram
-
-
-
-## 👩🏻‍🎨 Software Design
-
-↗️ [Design Pattern](👩🏻‍🎨 Design Pattern/Design Pattern.md) 
-
-
-
-## 👷🏻 Software Configuration
-TODO
-
-
-
-## 🧑🏽‍💻 Coding
-↗️ [Dev Pattern](👷🏻 Dev Pattern/Dev Pattern.md) 
-
-
-
-## 🧪 Software Testing
-↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md) 
-
-
-## Software Reliability
-
-TODO
-
-## Software Quality
-
-TODO
-
-## Software Maintenance
-
-TODO
+![application_execution_and_computer_data_flow.excalidraw|800](../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>How a program is created and executed.</small>
 
 
 

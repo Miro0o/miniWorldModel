@@ -50,7 +50,7 @@
 3️⃣ There have also been proposed **service model extensions to the Internet architecture**.
 - For example, the **Intserv architecture** [RFC 1633] aims to provide end-end delay guarantees and congestion-free communication. 
 
-Interestingly, in spite of these well-developed alternatives, the Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered at ↗ [Video Streaming](../../Video%20Transmission%20(Streaming)%20&%20OTT/Video%20Streaming/Video%20Streaming.md) ==have arguably proven to be more than “good enough” to enable an amazing range of applications==, including streaming video services such as Netflix and video-over-IP, real-time conferencing applications such as Skype and Facetime.
+Interestingly, in spite of these well-developed alternatives, the Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered at ↗ [Video Streaming](../../Messaging%20&%20Streaming/Video%20Transmission%20(Streaming)%20&%20OTT/Video%20Streaming/Video%20Streaming.md) ==have arguably proven to be more than “good enough” to enable an amazing range of applications==, including streaming video services such as Netflix and video-over-IP, real-time conferencing applications such as Skype and Facetime.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-30%20at%2010.56.04%20AM.png)
 <small>Network-layer service model</small>

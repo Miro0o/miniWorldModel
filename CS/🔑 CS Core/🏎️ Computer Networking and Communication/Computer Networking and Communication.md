@@ -83,7 +83,7 @@ https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
 ---
 Learning classic computer networking knowledge beginning from ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
-![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web & Internet: The Architecture</small>
 
 ![](../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)

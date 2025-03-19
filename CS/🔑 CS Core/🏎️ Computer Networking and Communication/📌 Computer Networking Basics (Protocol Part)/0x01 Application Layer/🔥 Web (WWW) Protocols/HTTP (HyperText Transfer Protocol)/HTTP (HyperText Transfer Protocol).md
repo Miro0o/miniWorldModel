@@ -31,7 +31,7 @@
 - HTTP follows a classical [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), with a client opening a connection to make a request, then waiting until it receives a response. 
 - HTTP is a [stateless protocol](https://en.wikipedia.org/wiki/Stateless_protocol), meaning that the server does not keep any data (state) between two requests.
 
-![web_application_arch.excalidraw | 800](../../../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Overview of HTTP-Based Web</small>
 
 

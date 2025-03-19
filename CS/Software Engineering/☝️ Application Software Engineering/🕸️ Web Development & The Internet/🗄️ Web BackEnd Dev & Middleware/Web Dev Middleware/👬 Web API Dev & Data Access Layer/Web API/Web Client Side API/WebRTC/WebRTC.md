@@ -6,12 +6,10 @@
 
 ## Res
 🏠 https://webrtc.org
-
 📂 [WebRTC API | Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 
 
 ### Related Topics
-
 
 
 
@@ -33,7 +31,7 @@ Most of the samples use [adapter.js](https://github.com/webrtc/adapter), a shim
 
 Patches and issues welcome! See [CONTRIBUTING.md](https://github.com/webrtc/samples/blob/gh-pages/CONTRIBUTING.md) for instructions.
 
-**Warning:** It is highly recommended to use headphones when testing these samples, as it will otherwise risk loud audio feedback on your system.
+> **Warning:** It is highly recommended to use headphones when testing these samples, as it will otherwise risk loud audio feedback on your system.
 
 
 

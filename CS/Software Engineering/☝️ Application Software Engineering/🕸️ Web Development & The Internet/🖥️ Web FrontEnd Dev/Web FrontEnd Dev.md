@@ -14,13 +14,12 @@
 ↗ [JS FrontEnd Frameworks](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
 
 
-### Templates
+### Web Front-end Templates
 ↗ [CSS & HTML UI Design & Frameworks](💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
 
 https://webflow.com/
 
 https://www.wix.com/
-
 
 
 ### Tutorials & Docs
@@ -40,17 +39,14 @@ https://www.wix.com/
 
 
 ### Communities & Organizations
-[W3C](https://www.w3.org)
-The World Wide Web Consortium (W3C) is an [international community](https://www.w3.org/Consortium/facts) that develops open [standards](https://www.w3.org/TR/) to ensure the long-term growth of the Web.
 
 
 
 ## Intro
-![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend</small>
 
 
 
 ## Ref
 [功能实现-解除页面禁止复制功能]: https://segmentfault.com/a/1190000039087909
-

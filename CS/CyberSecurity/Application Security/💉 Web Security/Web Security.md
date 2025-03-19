@@ -64,13 +64,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
 
+📂 https://developer.mozilla.org/en-US/docs/Web/Security
+Security on the web | MDN Docss
+
 
 
 ## Intro: Web Basics
 > ↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 > 🔗 https://textbook.cs161.org/web/intro.html
 
-![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Network/web_and_Internet_arch.excalidraw.md)
+![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 
 
 

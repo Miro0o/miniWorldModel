@@ -283,7 +283,7 @@ Reasoning /Logic) ^77RdtHS1
 Computing /Logic /
  Reasoning ^hCdsuH9j
 
-[[../Computer Network/web_and_Internet_arch.excalidraw]] ^beoV83HH
+[[../Web/web_and_Internet_arch.excalidraw]] ^beoV83HH
 
 ## Embedded Files
 47d1b7fb28923b196aa531d01dc7f148eb306b71: [[../../Pics/Pasted Image 20240331152809_134.png]]

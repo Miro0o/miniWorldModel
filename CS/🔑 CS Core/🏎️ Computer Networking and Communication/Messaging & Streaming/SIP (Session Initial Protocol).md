@@ -1,4 +1,4 @@
-# SIP (Session Initial Protocol) & SIMPLE
+# SIP (Session Initial Protocol)
 
 [TOC]
 

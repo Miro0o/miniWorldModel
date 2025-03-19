@@ -259,6 +259,13 @@ Russ Cox
 - FuzzWiKi
 - 信息网络安全杂志
 
+---
+https://googleprojectzero.blogspot.com/p/about-project-zero.html
+Google Project Zero
+
+Formed in 2014, Project Zero is a team of security researchers at Google who study zero-day vulnerabilities in the hardware and software systems that are depended upon by users around the world (A zero-day is a vulnerability that attackers know about, and there is no patch available from the vendor). Our mission is to make the discovery and exploitation of security vulnerabilities more difficult, and to significantly improve the safety and security of the Internet for everyone. 
+
+We perform vulnerability research on popular software like mobile operating systems, web browsers, and open source libraries. We use the results from this research to patch serious security vulnerabilities, to improve our understanding of how exploit-based attacks work, and to drive long-term structural improvements to security.
 
 ---
 📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc
