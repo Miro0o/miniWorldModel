@@ -1,52 +1,33 @@
-# NodeJS
+# NoeJS
 
 [TOC]
 
 
 
+## 🦥 Res
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
 
 🏠 https://nodejs.dev/en/
 🏠 https://nodejs.org/en/
-
-📑 Look up [NodeJS API manual](https://nodejs.org/docs/latest-v17.x/api/documentation.html)
-
-[ECMAScript Language Specification](https://tc39.es/ecma262/)
-
-<u>contents tbd...</u>
-
-
-
-## 🦥 Res
-### Officials
-🔗 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
-📂 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
-
 🇨🇳 [cnodajs.org](https://cnodejs.org)
 🇺🇸 [nodejs.org](https://nodejs.org/en/)
 
+📑 Look up [NodeJS API manual](https://nodejs.org/docs/latest-v17.x/api/documentation.html)
 
----
-[aem1k](https://aem1k.com)
-- author of JSFuck
-```js
-eval(z='p="<"+"pre>"/* **,.oq#+     ,._,** */;for(y in n="zw24l6k\
-4e3t4jnt4qj24xh2 x/* **=<,m#F^    A W###q.** */42kty24wrt413n243n\
-9h243pdxt41csb yz/* **#K       q##H######Am** */43iyb6k43pk7243nm\
-r24".split(4)){/* **dP      cpq#q##########b,** */for(a in t=pars\
-eInt(n[y],36)+/*         **p##@###YG=[#######y** */(e=x=r=[]))for\
-(r=!r,i=0;t[a/*         **d#qg `*PWo##q#######D** */]>i;i+=.05)wi\
-th(Math)x-= /*        **aem1k.com Q###KWR#### W[** */.05,0>cos(o=\
-new Date/1e3/*      **.Q#########Md#.###OP  A@ ,** */+x/PI)&&(e[~\
-~(32*sin(o)*/* **,    (W#####Xx######.P^     T %** */sin(.5+y/7))\
-+60] =-~ r);/* **#y    `^TqW####P###BP**           */for(x=0;122>\
-x;)p+="   *#"/* **b.        OQ####x#K**           */[e[x++]+e[x++\
-]]||(S=("eval"/* **l         `X#####D  ,**       */+"(z=\'"+z.spl\
-it(B = "\\\\")./*           **G####B" #**       */join(B+B).split\
-(Q="\'").join(B+Q/*          **VQBP`**        */)+Q+")//m1k")[x/2\
-+61*y-1]).fontcolor/*         **TP**         */(/\\w/.test(S)&&"#\
-03B");document.body.innerHTML=p+=B+"\\n"}setTimeout(z)')//
-```
+📂 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
+📄 [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+
+[ECMAScript Language Specification](https://tc39.es/ecma262/)
+
+
+### Related Topics
+
+
+### Other Resources
+
+
+
+## Intro
 
 
 
@@ -62,10 +43,9 @@ During the early times there are few norms for JS to be a completely standard pr
 ### ES6
 
 
-
 ### Refs
 
-reach more on  [FAQ](../../../../../Compiled%20Languages/🐝%20JavaScript-Based%20Languages/FAQ.md) .
+reach more on  [FAQ](../../../../../Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/FAQ.md) .
 
 [👍 Node Modules at War: Why CommonJS and ES Modules Can’t Get Along]:https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
 [CommonJS vs. ES modules in Node.js ]: https://blog.logrocket.com/commonjs-vs-es-modules-node-js/
@@ -80,14 +60,10 @@ reach more on  [FAQ](../../../../../Compiled%20Languages/🐝%20JavaScript-Based
 [NodeJS v19.2.0 Doc](https://nodejs.org/api/documentation.html)
 
 
-
 ### 🔨 Installation
 > go to `Node.JS` download page:  *[nodejs.org/download](https://nodejs.org/en/download/)*
 >
 > and also remember to check out this guide:  🤯 *[Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)* 
-
-
-
 #### For `Debian` distributions:
 For some unknown reasons every time i tried to download `nodejs` on `Debian` i encountered this problem: i can only get `nodejs` for version 10 and there's no `npm` attatched. And when i tried to download `npm` manually the version won't match. It was really driving me crazy. 
 
@@ -107,11 +83,7 @@ apt-get install -y nodejs
 ```
 
 
-
 ### [npm](https://www.npmjs.com)
-
-
-
 #### Registries
 🔗 https://cloud.tencent.com/developer/article/1372949
 
@@ -142,7 +114,6 @@ npm -------- https://registry.npmjs.org/
   npmMirror -- https://skimdb.npmjs.com/registry/
   edunpm ----- http://registry.enpmjs.org/
 ```
-
 #### commands
 ```shell
 npm config edit 
@@ -162,13 +133,10 @@ npm config set https-proxy http://proxy.company.com:8080
 
 
 ```
-
 #### Scope
-
 `npm` install packages & dependencies on different scopes. It can both manage packages locally and globally. 
 
 For globally isntalled modules, specify `NODE_PATH` in env variable to inform node to interpret the right way.
-
 
 
 ### [CNPM](https://github.com/cnpm/cnpm)
@@ -192,21 +160,6 @@ Yarn is a software packaging system developed in 2016 by Facebook for the Node.j
 
 ### [nvm](https://github.com/nvm-sh/nvm)
 nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be installed per-user, and invoked per-shell. `nvm` works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and [windows WSL](https://github.com/nvm-sh/nvm#important-notes).
-
-
-
-
-
-## NodeJS Linter&Formatter
-🔗 [How to Set Up Linter & Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5)
-
-1. ESLint
-2. Prettier
-3. Husky
-
-#TODO 
-
-
 
 
 

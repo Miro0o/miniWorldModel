@@ -14,10 +14,10 @@ Specifies the Server Message Block (SMB) Protocol Versions 2 and 3, which suppor
 ↗ [Windows](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
 
 ↗ [SAMBA](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/SAMBA.md) (SMB Implementation on Linux)
-↗ [NetBIOS (Network Basic Input_Output System)](NetBIOS%20(Network%20Basic%20Input_Output%20System).md) (SMB Implementation on Windows)
+↗ [NetBIOS (Network Basic Input_Output System)](../../🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Name%20Service%20Discovery/NetBIOS%20(Network%20Basic%20Input_Output%20System).md) (SMB Implementation on Windows)
 ↗ [Directory Services](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Directory%20Services.md)
 
-↗ [SSH (Secure SHell)](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [SSH (Secure SHell)](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
 
 

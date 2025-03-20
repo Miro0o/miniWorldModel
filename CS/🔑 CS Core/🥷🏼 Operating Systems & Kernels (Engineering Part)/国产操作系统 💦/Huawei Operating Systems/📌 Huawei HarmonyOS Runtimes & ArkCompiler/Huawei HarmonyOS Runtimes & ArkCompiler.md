@@ -17,7 +17,7 @@
 
 ↗ [HarmonyOS](../HarmonyOS%20(鸿蒙操作系统)/HarmonyOS.md)
 ↗ [OpenHarmony](../OpenHarmony/OpenHarmony.md)
-↗ [ArkTS](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/🐝%20JavaScript-Based%20Languages/ArkTS/ArkTS.md)
+↗ [ArkTS](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ArkTS/ArkTS.md)
 
 ↗ [JS Engines (JS Compilation)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
 ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)

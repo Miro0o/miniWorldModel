@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [Internet Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20Industry%20&%20Companies/Internet%20Industry%20&%20Companies.md)
 
+↗ [Network Application Communication Architectures](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
 ↗ [Web Application Systems & Architecture Design](Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 ↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 ↗ [Database Systems](../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
@@ -19,8 +20,8 @@
 ↗ [Web Security](../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Web 3.0](../../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 
-↗ [Web Browsers](../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
-↗ [Web Browsers Development](../Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
+↗ [Web Browser Implementations](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
+↗ [Web Browser Development](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 
 ↗ [Web Application Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
 
@@ -129,7 +130,7 @@ The WHATWG also works on a [number of ideas](https://idea.whatwg.org/) that as
 
 - Front-end (application level)
 	- ↗ [Web FrontEnd Dev](🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-	- ↗ [Web Browsers Development](../Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
+	- ↗ [Web Browser Development](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 - Back-end, including middleware (application level)
 	- ↗ [Web BackEnd Dev & Middleware](🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 - DBMS (system level)

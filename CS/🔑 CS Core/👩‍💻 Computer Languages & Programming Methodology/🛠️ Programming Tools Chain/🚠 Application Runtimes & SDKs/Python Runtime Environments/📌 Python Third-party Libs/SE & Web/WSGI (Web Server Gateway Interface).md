@@ -16,6 +16,10 @@ WSGI is a Python standard described in detail in [**PEP 3333**](https://www.pyt
 For more, see [Learn about WSGI](https://wsgi.readthedocs.io/en/latest/learn.html).
 
 
+### Related Topics
+↗ [CGI (Common Gateway Interface)](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Server%20Side%20API/CGI%20(Common%20Gateway%20Interface).md)
+
+
 ### Other Materials
 https://www.liaoxuefeng.com/wiki/1016959663602400/1017805733037760
 廖雪峰

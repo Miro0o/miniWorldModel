@@ -8,7 +8,7 @@
 🏠 https://messaginglayersecurity.rocks
 🚧 https://github.com/mlswg
 
-↗ [RCS (Rich Communication Suite)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Messaging%20&%20Streaming/Video%20Transmission%20(Streaming)%20&%20OTT/RCS%20(Rich%20Communication%20Suite)/RCS%20(Rich%20Communication%20Suite).md)
+↗ [RCS (Rich Communication Suite)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Real%20Time%20Communication%20(Protocol)/Video%20Transmission%20(Streaming)%20&%20OTT/RCS%20(Rich%20Communication%20Suite)/RCS%20(Rich%20Communication%20Suite).md)
 
 
 

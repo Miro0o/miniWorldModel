@@ -15,19 +15,21 @@
 ![web_application_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web & Internet: The Architecture</small>
 
----
+
+### Computer Network Definition
 🔗【深入浅出计算机网络 - 1.4 计算机网络的定义和分类】 https://www.bilibili.com/video/BV1BP411j7XH/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![](../../../../../Assets/Pics/Screenshot%202022-12-03%20at%209.25.01%20AM.png)
-
-
-### Computer Network Definition
 
 
 ### Computer Network Nodes
 
 
 ### Communication Protocols
+↗ [Computer Network Protocol Suites Standardizations & Administration](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration.md)
+↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
+↗ [OSI-ISO Protocol Suites](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/OSI-ISO%20Protocol%20Suites/OSI-ISO%20Protocol%20Suites.md)
+
 ![科来《网络通讯协议图2023版》](../../../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
 
 

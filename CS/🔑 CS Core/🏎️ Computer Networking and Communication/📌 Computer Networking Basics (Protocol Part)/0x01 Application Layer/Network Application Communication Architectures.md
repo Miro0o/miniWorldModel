@@ -13,6 +13,7 @@
 ↗ [Database System Web Services' Architectures](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 ↗ [Web Application Systems & Architecture Design](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 
 
@@ -26,7 +27,11 @@ Before diving into software coding, you should have a broad architectural plan f
 
 
 ## 1️⃣ C/S Architecture
+> ↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+
 In a client-server architecture, there is an always-on host, called the **server**, which services requests from many other hosts, called **clients**.
+
+![web_and_Internet_arch.excalidraw | 800](../../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 
 
 ### Server Cluster /Data Center
@@ -47,6 +52,8 @@ A data center can have hundreds of thousands of servers, which must be powered a
 
 
 ## 2️⃣ P2P Architecture
+> ↗ [P2P Channels](../0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/P2P%20Channels.md)
+
 In a P2P architecture, there is minimal (or no) reliance on dedicated servers in data centers. Instead the application exploits direct communication between pairs of intermittently connected hosts, called **peers**. servers/clients apeer to be peer hosts communicating through a connection might reverse in their roles trough another communication.
 
 ### Pros & Cons

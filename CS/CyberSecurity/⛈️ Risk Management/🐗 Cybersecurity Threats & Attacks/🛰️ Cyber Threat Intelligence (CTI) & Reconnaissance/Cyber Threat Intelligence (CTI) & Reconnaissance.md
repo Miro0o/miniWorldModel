@@ -20,7 +20,7 @@
 ↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/📌%20Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
 ↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 ↗ [OSINT (Open Source Intelligence)](📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
 
 

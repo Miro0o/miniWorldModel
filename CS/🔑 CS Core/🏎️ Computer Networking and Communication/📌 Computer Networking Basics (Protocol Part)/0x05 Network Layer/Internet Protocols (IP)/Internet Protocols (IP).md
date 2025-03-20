@@ -53,7 +53,7 @@ Among all of this solusion, IPv6 is deemed to be the ultimate method dealing wit
 #### 👐🏼 IP address: how to get one? (user)
 ##### Hard-coded (Static)
 ##### DHCP (Dynamic)
-↗ [DHCP (Dynamic Host Configuration Protocol)](../../0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
+↗ [DHCP (Dynamic Host Configuration Protocol)](../../0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Address%20Selection/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
 
 #### 👐🏼 IP address: how to get blocks? (ISP)
 ##### ICANN

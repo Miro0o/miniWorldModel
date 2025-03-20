@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [ONC RPC (Sun RPC)](../../../../Network%20Programming%20&%20RPC/RPC%20Frameworks/ONC%20RPC%20(Sun%20RPC).md)
-↗ [Kerberos](../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/⛑️%20Authentication%20Protocols%20&%20Implementations/Kerberos/Kerberos.md)
+↗ [Kerberos](../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/⛑️%20Authentication%20Protocols%20&%20Implementations/Kerberos/Kerberos.md)
 
 
 

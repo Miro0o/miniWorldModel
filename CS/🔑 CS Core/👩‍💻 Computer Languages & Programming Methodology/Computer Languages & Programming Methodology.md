@@ -20,7 +20,7 @@
 - etc.
 
 ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
-↗ [HDL (Hardware Definition Languages)](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Programming%20&%20Software%20Development/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
+↗ [HDL (Hardware Definition Languages)](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
 ↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
@@ -347,7 +347,7 @@ In logical programming the main emphasize is on knowledge base and the problem. 
 
 ↗ [Logic Programming Languages](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ##### 2. Functional Programming
-👉 [JavaScript-Based Languages](Compiled%20Languages/🐝%20JavaScript-Based%20Languages/JavaScript-Based%20Languages.md): developed by Brendan Eich
+👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
 👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
 👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
 👉 **Erlang**: developed by Joe Armstrong, Robert Virding

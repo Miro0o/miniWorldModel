@@ -10,9 +10,6 @@
 ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
-↗ [IoT Networkings & Communications](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/IoT%20Networkings%20&%20Communications/IoT%20Networkings%20&%20Communications.md)
-- ↗ [IoT & Embedded Communication Protocols](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Protocols/IoT%20&%20Embedded%20Communication%20Protocols.md)
-
 
 ### Learning Resources
 #### Courses

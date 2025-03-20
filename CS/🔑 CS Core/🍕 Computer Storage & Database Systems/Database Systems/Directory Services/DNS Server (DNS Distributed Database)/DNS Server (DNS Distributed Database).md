@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [DNS (Domain Name Systems)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
+↗ [DNS (Domain Name Systems)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Name%20Service%20Discovery/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
 
 
 
@@ -39,7 +39,7 @@ As centralized DNS does not scale because of the reasons mentioned above, a need
 
 
 ### DNS Resource Records
-↗ [DNS Resource Record (RR)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DNS%20(Domain%20Name%20Systems)/DNS%20Resource%20Record%20(RR).md)
+↗ [DNS Resource Record (RR)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Name%20Service%20Discovery/DNS%20(Domain%20Name%20Systems)/DNS%20Resource%20Record%20(RR).md)
 
 
 

@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [NAT Traversal](../../../0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20Traversal/NAT%20Traversal.md)
+↗ [STUN (Session Traversal Utilities for NAT)](../../../0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20Traversal/STUN%20(Session%20Traversal%20Utilities%20for%20NAT).md)
+
 
 
 ## Intro

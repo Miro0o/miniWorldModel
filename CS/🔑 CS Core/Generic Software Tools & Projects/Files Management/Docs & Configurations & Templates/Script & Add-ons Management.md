@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Browser Extensions & Automation](../../🔍%20Web%20Browsers%20&%20Searching/Browser%20Extensions%20&%20Automation.md)
+↗ [Web Extensions](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Extensions/Web%20Extensions.md)
 
 
 

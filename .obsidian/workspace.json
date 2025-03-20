@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "002908efb19090ed",
+            "id": "801f8793f4650bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/STUN (Session Traversal Utilities for NAT).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,81 +78,9 @@
               "icon": "lucide-file",
               "title": "STUN (Session Traversal Utilities for NAT)"
             }
-          },
-          {
-            "id": "d8972e0cf6dbf077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/👬 Web API Dev & Data Access Layer/Web API/Web Client Side API/WebRTC/WebRTC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "WebRTC"
-            }
-          },
-          {
-            "id": "b9aab1c8748fdefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Web Development & The Internet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web Development & The Internet"
-            }
-          },
-          {
-            "id": "036171998c0dbadf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Web Browsers Development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web Browsers Development"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5039024353027
+    "width": 726.5026054382324
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -254,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Web Browsers Development.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web Browsers Development"
+              "title": "Outline of STUN (Session Traversal Utilities for NAT)"
             }
           },
           {
@@ -293,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Web Browsers Development.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web Browsers Development"
+              "title": "Backlinks for STUN (Session Traversal Utilities for NAT)"
             }
           }
         ],
@@ -329,54 +257,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "036171998c0dbadf",
+  "active": "801f8793f4650bd5",
   "lastOpenFiles": [
-    "CS/Software Engineering/☝️ Application Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Untitled.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Web Browsers Development.md",
+    "Assets/Pics/Pasted image 20250320174958.png",
+    "Assets/Pics/Pasted image 20250320174606.png",
+    "Assets/Pics/Pasted image 20250320174523.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/〰️ P2P Channels/P2P Channels.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/NAT Traversal.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/Network Application Communication Architectures.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DS Web Services' Architectures.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Web Application Systems & Architecture Design/Web Application Systems & Architecture Design.md",
     "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Web Development & The Internet.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🖥️ Web FrontEnd Dev/Web FrontEnd Dev.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Internet and Internet Protocol Suites (TCP&IP Protocol Suites).md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Web Application Systems & Architecture Design/Web Application Systems/ERP (Enterprise Resources Planning) System.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Hierarchy of Internet & ISP & IBP.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Internet Security Protocols.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Internet Protocol Suites (TCP&IP Protocol Suites).md",
-    "Assets/Pics/Pasted image 20250319172527.png",
-    "Assets/Pics/chrome_multiprocess_arch.png",
-    "Assets/Pics/Pasted image 20250319171119.png",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Same Origin Policy.md",
-    "Assets/Illustrations/Web/browser_render.excalidraw.md",
-    "Assets/Illustrations/Web/browser_navigation.excalidraw.md",
-    "Assets/Pics/Pasted Image 20250319154815_449.png",
-    "Assets/Illustrations/Web/browser_navigation.excalidraw.png",
-    "Assets/Illustrations/Web/browser_navigation.excalidraw.svg",
-    "Assets/Illustrations/Web",
-    "README.md",
-    "Untitled",
-    "Assets/Pics/Screenshot 2025-03-19 at 15.25.38.png",
-    "Assets/Pics/Pasted Image 20250319152004_841.png",
-    "Assets/Pics/Pasted Image 20250319151905_120.png",
-    "Assets/Pics/Pasted Image 20250319151640_801.png",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/👬 Web API Dev & Data Access Layer/Web API/Web Client Side API/WebRTC/WebRTC.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/STUN (Session Traversal Utilities for NAT).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Fuzzing (Fuzz Testing)/Fuzzing (Fuzz Testing).md",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
-    "CS/🧠 Computing Methodologies/Computer Graphics (CG)/Computer Graphics (CG).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Web Application Security Mechanisms.md",
-    "Assets/Pics/Unconfirmed 444860.crdownload",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JS Runtimes/🚒 JS Engines (JS Compilation)/JS Engines (JS Compilation).md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/MIME (Multipurpose Internet Mail Extensions).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/📧 Email Security/S_MIME.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Messaging & Streaming",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Messaging & Streaming/Instant Messaging (IM)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🤓 Network OS",
-    "Untitled.loom",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/Mini-Program Dev (小程序开发)",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/PolarDB",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/RDBMS (Relational)/OceanBase",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network and Communication Introduction & Overview.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Computer Network Protocol Suites Standardizations & Administration.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/IoT & Embedded Communication Protocols/IoT & Embedded Communication Protocols.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/IoT & Embedded Communication Protocols/MQTT (Message Queuing Telemetry Transport)/MQTT (Message Queuing Telemetry Transport).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/FAQ.md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/Concurrency Control Programming Models/Concurrency Control Programming Models.md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/Concurrency Control Programming Models/Monitors (管程)/Monitors (管程).md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/Concurrency Control Methods Abstraction/Semaphore/Binary Semaphore.md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/Concurrency Control Methods Abstraction/Semaphore/Semaphore.md",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/⭐️ System Level Concurrency Control Mechanism/Concurrency Control Programming Models/Message Passing/Message Queue/Message Queue.md",
+    "CS/Embedded Development, Internet of Things & Robot/IoT Networkings & Communications/IoT Networkings & Communications.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/FAQ.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/IoT & Embedded Communication Applications & Projects/IoT & Embedded Communication Applications & Projects.md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Languages/HLS (High Level Synthesis)/HLS (High Level Synthesis).md",
+    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Languages",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/IoT & Embedded Communication Protocols/XMPP (eXtensible Messaging and Presence Protocol)/XMPP (eXtensible Messaging and Presence Protocol).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Real Time Communication (Protocol)/SIP (Session Initial Protocol).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/ICE (Interactive Connectivity Establishment)/ICE (Interactive Connectivity Establishment).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Address Selection",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Name Service Discovery",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery/UPnP (Universal Plug-and-Play)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery/DLNA (Digital Living Network Alliance)",
+    "Assets/Pics/Screenshot 2025-03-20 at 16.54.42.png",
+    "CS/Embedded Development, Internet of Things & Robot/🎭 IoT Scenaries/Home Automation",
+    "CS/Embedded Development, Internet of Things & Robot/🎭 IoT Scenaries",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal",
+    "Assets/Pics/Screenshot 2025-03-20 at 14.46.38.png",
+    "Assets/Pics/Screenshot 2025-03-19 at 22.22.46.png",
+    "Assets/Pics/Pasted image 20250319213925.png",
+    "Assets/Pics/Pasted image 20250319212513.png",
+    "Assets/Pics/Pasted image 20250319212508.png",
+    "Assets/Pics/Pasted image 20250319211049.png",
+    "Assets/Pics/Screenshot 2025-03-19 at 20.49.54.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",

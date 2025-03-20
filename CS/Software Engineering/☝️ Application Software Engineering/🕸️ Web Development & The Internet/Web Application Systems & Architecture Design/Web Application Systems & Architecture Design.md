@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Network Application Communication Architectures](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
 ↗ [DS Web Services' Architectures](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 
 ↗ [Web Development & The Internet](../Web%20Development%20&%20The%20Internet.md)
