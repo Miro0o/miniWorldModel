@@ -16,7 +16,7 @@
 - ↗ [HTTP Security](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Secuirty/HTTP%20Security.md)
 
 ↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
-↗ [HTML (HyperText Markup Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/HTML%20(HyperText%20Markup%20Language).md)
+↗ [HTML (HyperText Markup Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages/HTML%20(HyperText%20Markup%20Language).md)
 ↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 ↗ [JavaScript (Browser End)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
 ↗ [ECMAScript-Based Languages & JavaScript](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
@@ -66,6 +66,11 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 📂 https://developer.mozilla.org/en-US/docs/Web/Security
 Security on the web | MDN Docss
+
+https://portswigger.net/web-security/learning-paths
+https://portswigger.net/web-security/all-topics
+Web Security Academy | PortSwigger
+Our carefully curated pathways provide a structured approach to learning web security, empowering you to advance at your own pace while ensuring a deep understanding of the subject matter.
 
 
 

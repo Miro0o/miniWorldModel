@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [👍 Tex & LaTex](../../../../../../Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/👍%20Tex%20&%20LaTex.md)
+↗ [👍 Tex & LaTex](../../../../../../Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages/👍%20Tex%20&%20LaTex.md)
 
 
 ### Other Resources

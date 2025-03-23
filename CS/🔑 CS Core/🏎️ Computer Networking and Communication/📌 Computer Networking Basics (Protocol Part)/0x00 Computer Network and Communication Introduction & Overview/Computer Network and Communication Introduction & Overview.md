@@ -36,7 +36,7 @@
 
 ## Comput Network Taxonomy 
 ### by Switching Methods
-↗ [History of Computer Networks and Internet /Evolution of Communication Technologies](History%20of%20Computer%20Networks.md)
+↗ [History of Computer Networks and Internet /Evolution of Communication Technologies](History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 
 ### by Users
@@ -88,7 +88,7 @@ Recall Overlay/Underlay Architecture in ↗ [SDN Standardizations & Architecture
 
 ## 🎸 Development of Computer Networks and the Internet
 
-↗ [History of Computer Networks](History%20of%20Computer%20Networks.md)
+↗ [History of Computer Networking and Communication Evolution](History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 > 🤔 Network, Computer Networks, internet, the Internet, Web, and WWW?
 > Answer at ↗ [FAQ](../FAQ.md) or above notes ⏫

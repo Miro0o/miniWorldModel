@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System & OS Kernel (Theory Part)](../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [Mini OS Kernels](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/Mini%20OS%20Kernels.md)

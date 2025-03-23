@@ -119,9 +119,9 @@ CS Core
 - ↗ [Program Compilation & Execution](🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 - ↗ [Computer Storage & Database Systems](🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Computer Networking and Communication](🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-- ↗ [Computer System](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
-	- ↗ [Computer Architecture](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
-	- ↗ [Operating System & OS Kernel (Theory Part)](🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+	- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+	- ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 - ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 
@@ -470,9 +470,9 @@ Software Engineering
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
-		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
-		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+	4. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	6. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
@@ -486,7 +486,7 @@ Software Engineering
 	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
 16. Computer System
-	1. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	2. etc.
 17. Software Engineering
 	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
@@ -506,7 +506,7 @@ Software Engineering
 	4. etc.
 20. IoT /Hardware /Computer Engineering
 	1. ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
-	2. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	3. etc.
 21. Web3 /Metaverse /Cryptocurrency
 	1. ↗ [Web 3.0](../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)

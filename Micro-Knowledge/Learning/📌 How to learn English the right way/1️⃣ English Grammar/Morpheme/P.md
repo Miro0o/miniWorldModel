@@ -7177,7 +7177,7 @@
 		10. [dish](dic://dish) 是盘子的总称。  
 		11. [plate](dic://plate) 指供个人分菜食用的盘子。
 		12. **platter**大浅盘;**tray**托盘;**dish**碟，盘;**platters**大浅盘;**trays**托盘;**sill**窗台;**license**执照，许可证;**glass**玻璃;**spoon**匙，勺子;**batter**击球手;**dishes**菜肴;
-		13. on my plate
+		13. on the plate
 			1. - 正在处理或负责的事情：表示一个人已经有很多事情要处理，无法再承担更多的工作或责任。
 			2. Well, I've kind of got a lot on my plate right now. /嗯，我现在事情是蛮多的。
 			3. I'll help for as long as I can, but I have a lot on my plate tonight. /我尽快帮你做，但是今天晚上。

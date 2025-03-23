@@ -312,28 +312,34 @@
 	1. rostellum
 4. reclette
 5. raster
+	1. 来自德语 Raster，屏幕，框架，来自拉丁语rastrum，耙子，架子，来自拉丁语 radere，乱，擦，词源同rat,eraser.
+	2. 光栅
+	3. vector, pixel, polygon, pixels, SVG, waveform, JPEG, interpolation, graphical, sprite
+	4. raster display
+	5. raster scan
+	6. raster scanning
 6. rat
-	- ratty
-	- rattrap
-	- ratter
-		- [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [recreant](dic://recreant)
-	- ratsbane
-	- ratproof
-	- ratlike
-	- raticide
-	- ratfink
-	- rat-face
-	- muskrat
-	- _smell a rat_ 感到不妙；感到有可疑之处
-	- _rat race_ n. [俚]激烈竞争（商业上）；无意义的竞争；[电]环形导波管
-	- _like a drowned rat_ 浑身湿透（象落汤鸡）
-	- _rat poison_ 杀鼠剂，老鼠药；鼠毒
-	- _pack rat_ 不可靠的人，有敛癖的人
-	- _white rat_ 白鼠
-	- _mole rat_ [动]鼹形鼠
-	- _mall rat_ 逛商厦迷；爱逛商店的年轻人
-	- _water rat_ 河鼠；（美）麝香鼠（等于muskrat）；[俚]岸滨小偷
-	- _rat on_ 撤销；背叛，告发
+	1. ratty
+	2. rattrap
+	3. ratter
+		1. [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [recreant](dic://recreant)
+	4. ratsbane
+	5. ratproof
+	6. ratlike
+	7. raticide
+	8. ratfink
+	9. rat-face
+	10. muskrat
+	11. _smell a rat_ 感到不妙；感到有可疑之处
+	12. _rat race_ n. [俚]激烈竞争（商业上）；无意义的竞争；[电]环形导波管
+	13. _like a drowned rat_ 浑身湿透（象落汤鸡）
+	14. _rat poison_ 杀鼠剂，老鼠药；鼠毒
+	15. _pack rat_ 不可靠的人，有敛癖的人
+	16. _white rat_ 白鼠
+	17. _mole rat_ [动]鼹形鼠
+	18. _mall rat_ 逛商厦迷；爱逛商店的年轻人
+	19. _water rat_ 河鼠；（美）麝香鼠（等于muskrat）；[俚]岸滨小偷
+	20. _rat on_ 撤销；背叛，告发
 
 
 ### \*rei-

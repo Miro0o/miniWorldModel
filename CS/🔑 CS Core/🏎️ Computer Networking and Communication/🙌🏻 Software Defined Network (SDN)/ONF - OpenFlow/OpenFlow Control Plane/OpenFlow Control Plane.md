@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [YANG (Yet Another Next Generation)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/YANG%20(Yet%20Another%20Next%20Generation).md)
+↗ [YANG (Yet Another Next Generation)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/YANG%20(Yet%20Another%20Next%20Generation).md)
 
 
 ## Intro

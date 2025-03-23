@@ -7,9 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [🤯 Awesome List](../🤯%20Awesome%20List.md)
-↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
-- ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
-- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
+↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+- ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
@@ -41,11 +41,23 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 ### Other Resources
 📖 New Perspectives Computer Concepts Comprehensive, June Jamrich Parsons
 🔗 https://www.amazon.com/Perspectives-Computer-Concepts-Comprehensive-MindTap/dp/0357674618
+- Digital Content
+- Digital Devices
+- Networks
+- The Web
+- Social Media
+- Software
+- Digital Security
+- The ICT Industry
+- Information Systems
+- Databases
+- Programming
+- Coding with Python
 
 
 
 ## 🐕 Computer Science Introduction & Overview
-### Why is CS?
+### Why is CS needed?
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
 
 ↗ [Universe, Knowledge, and Intelligence](../../../Universe,%20Knowledge,%20and%20Intelligence.md)
@@ -391,7 +403,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 - ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 2️⃣ Computer System & Engineering
-- ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 - ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 - ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 - ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
@@ -404,7 +416,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 - ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
 
 
-### How to CS (🤔 Questions Leading my CS Study)
+### How to learn CS ? (🤔 Questions Leading my CS Study)
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 > ↗ [Great Ideas in Theoretical CS](Great%20Ideas%20in%20Theoretical%20CS.md)
 > ↗ [Importance Themes & Ideaology in CS](Importance%20Themes%20&%20Ideaology%20in%20CS.md)
@@ -433,16 +445,16 @@ These questions, from general to specific, speaks the path of what i think every
 		2. ↗ [Computational Complexity Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 4. What is a computer and how is it designed & constructed? (hardware, software, protocols)
-	1. ↗ [Computer System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20System.md)
+	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	2. What composes a computer? /How computer is designed in terms of hardware?
 		1. ↗ [Classical Electromagnetism](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
 		3. ↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 			1. ↗ [Digital (Logic) Electronics Foundations](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)]
 			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 	3. What happened during computer booting? /How does computer start running?
-		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 	4. What happened after computer booting? /How does OS work? /How computer is designed in terms of software?
-		2. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+		2. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		3. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. What is a program and how does it work? (application program /OS program)
 		1. ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
@@ -471,6 +483,22 @@ These questions, from general to specific, speaks the path of what i think every
 	8. ↗ [Human-Computer Interaction](../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
 6. What is information system? What is cyberspace? What is cybersecurity?
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
+
+
+### What can I do after learning CS?
+↗ [How to learn English the right way](../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+↗ [International Opportunities](../International%20Opportunities/International%20Opportunities.md)
+#### Tech Careers
+
+#### IT Industry & Academia
+↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [CS & IT Jobs & Interns Related](../CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+
+↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Master & PhD Application Guide](../International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
+
+↗ [IT Laws & Institutions in United States](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)
+↗ [IT Laws & Institutions in China](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
 
 
 

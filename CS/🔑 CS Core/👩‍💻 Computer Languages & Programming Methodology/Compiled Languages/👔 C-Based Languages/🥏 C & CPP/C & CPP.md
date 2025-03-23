@@ -14,7 +14,7 @@ C++98, C++03, [C++11](https://en.cppreference.com/w/cpp/11 "cpp/11"), [C++14](
 
 
 ### Related Topics
-↗ [Operating System & OS Kernel (Theory Part)](../../../../👷🏾‍♂️%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [System Software Engineering](../../../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 
 

@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [MacOS Security](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🍎%20MacOS%20Security/MacOS%20Security.md)
-↗ [Firmware and Computer (OS) Booting](../../../../👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Firmware and Computer (OS) Booting](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 
 
 ### Learning Resources
@@ -53,7 +53,7 @@ User space has a few primary ways to communicate with the kernel (hands wave):
 
 
 ## System Boot: Security In-depth
-> ↗ [Firmware and Computer (OS) Booting](../../../../👷🏾‍♂️%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+> ↗ [Firmware and Computer (OS) Booting](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 
 We're including this section as brief overview for legacy data sources reliant on Kernel Extensions (KEXTs). KEXTs are denied from loading by the default LocalPolicy object on AppleSilicon (signed by the Secure Enclave) and the T2 chip on Intel. Apple Platforms leverage a defense in-depth approach for their secure boot (iBoot) implementation. Starting with hardware each stage in the boot chain validates the next. iBoot exists to help thwart downgrade attacks, boot time infection, and maintain system integrity. Changing the boot security level of macOS requires booting into recoveryOS (which can have it's own password).
 

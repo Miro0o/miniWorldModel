@@ -13,7 +13,7 @@
 
 
 ### Related Topics
-↗ [x86 Architecture Family (80x86, 8086 family)](../../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
+↗ [x86 Architecture Family (80x86, 8086 family)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 ↗ [8086 ASM (16 bit)](8086%20ASM%20(16%20bit).md)
 
 
@@ -110,7 +110,7 @@ Many x86 assemblers use Intel syntax, including FASM, MASM, NASM, TASM, and YASM
 
 
 ### 🧐 x86 ISA Related Knowledge
-↗ [x86 Architecture Family (80x86, 8086 family) /⭐ Basic Properties of the Architecture](../../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md#⭐️%20Basic%20Properties%20of%20the%20Architecture)
+↗ [x86 Architecture Family (80x86, 8086 family) /⭐ Basic Properties of the Architecture](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md#⭐️%20Basic%20Properties%20of%20the%20Architecture)
 
 - Registers
 	- ![](../../../../../../Assets/Pics/x86%20registers%20map.png)

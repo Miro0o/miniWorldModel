@@ -10,6 +10,8 @@
 ↗ [HDL (Hardware Definition Languages)](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Apps & Frameworks](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
 
+↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
+
 ↗ [CSS (Cascading Style Sheets)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 
 

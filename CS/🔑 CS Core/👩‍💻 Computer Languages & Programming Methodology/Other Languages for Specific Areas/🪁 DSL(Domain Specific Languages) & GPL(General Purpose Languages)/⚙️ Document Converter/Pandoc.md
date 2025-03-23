@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Markdown (RMarkdown)](../Markup%20DSL%20&%20GPL/Markdown%20(RMarkdown).md)
+↗ [Markdown (RMarkdown)](../Markup%20Languages/Markdown%20(RMarkdown).md)
 
 
 

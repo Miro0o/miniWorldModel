@@ -13,7 +13,7 @@
 ### Related Topics
 ↗ [WebRTC API](../../../🕸️%20Web%20Development%20&%20The%20Internet/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Client%20Side%20API/WebRTC%20API.md)
 ↗ [SCTP (Stream Control Trasmission Protocol)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/SCTP%20(Stream%20Control%20Trasmission%20Protocol)/SCTP%20(Stream%20Control%20Trasmission%20Protocol).md)
-↗ [STUN (Session Traversal Utilities for NAT)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20Traversal/STUN%20(Session%20Traversal%20Utilities%20for%20NAT).md)
+↗ [STUN (Session Traversal Utilities for NAT)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20Traversal/STUN%20(Session%20Traversal%20Utilities%20for%20NAT)/STUN%20(Session%20Traversal%20Utilities%20for%20NAT).md)
 
 
 

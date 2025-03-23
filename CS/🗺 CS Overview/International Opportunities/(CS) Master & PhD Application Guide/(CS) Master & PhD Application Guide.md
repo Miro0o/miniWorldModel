@@ -74,14 +74,14 @@ https://www.haojianj.in/prospective.html
 
 
 ### General Information about International Universities & Countries' Lives
-https://www.niche.com/
-School Ranking, Apply, Review, and Others..
-
-↗ [Academics /Bibliometrics](../../Academics/Academics.md#Bibliometrics) | 文献计量学与学术评价
+↗ [Academics / 文献计量学与学术评价](../../../Academics%20🎓/Academics.md#📈%20Bibliometrics)  | 文献计量学与学术评价
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
 - https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
+
+https://www.niche.com/
+School Ranking, Apply, Review, and Others..
 
 [TransferWiki](https://transferwiki.com/)
 TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极大方便找工/移民/硕博申请，推荐本科低年级同学了解
@@ -92,8 +92,8 @@ College Salary Report (US)
 https://www.numbeo.com/cost-of-living/
 Cost of Living
 
+2025上海留学生落户名单更新！超10所英美院校升级为世界前50！ - 新东方国际教育雅思托福的文章 - 知乎: https://zhuanlan.zhihu.com/p/25263482873
 https://www.tltzg.com/luohu/8402.html
-
 ![shrs_school_ranking](../../../../Assets/Pics/shrs_school_ranking.jpg)
 
 ![shrc_school_ranking_50_100](../../../../Assets/Pics/shrc_school_ranking_50_100.jpg)

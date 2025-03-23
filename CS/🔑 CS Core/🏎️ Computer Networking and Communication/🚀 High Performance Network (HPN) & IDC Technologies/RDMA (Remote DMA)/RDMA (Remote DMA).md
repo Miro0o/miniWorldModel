@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Direct Memory Access (DMA)](../../../👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/Direct%20Memory%20Access%20(DMA).md)
+↗ [Direct Memory Access (DMA)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/Direct%20Memory%20Access%20(DMA).md)
 
 
 

@@ -63,11 +63,11 @@ https://developer.mozilla.org/en-US/
 👨‍💻 https://openwebdocs.org/content/posts/
 We are a group of technical writers, independent collaborators and organizations who work on web documentation projects according to our [charter](https://github.com/openwebdocs/project/blob/main/charter.md).
 
-https://www.w3.org/
-The World Wide Web Consortium (W3C) develops [standards and guidelines](https://www.w3.org/standards/) to help everyone build a web based on the principles of [accessibility](https://www.w3.org/mission/accessibility/), [internationalization](https://www.w3.org/mission/internationalization/), [privacy](https://www.w3.org/mission/privacy/) and [security](https://www.w3.org/mission/security/).
-
 https://web.dev/
 We want to help you build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users. This site is our home for content to help you on that journey, written by members of the Chrome team, and external experts who specialize in web development topics such as accessibility, performance, design, and more.
+
+https://www.w3.org/
+The World Wide Web Consortium (W3C) develops [standards and guidelines](https://www.w3.org/standards/) to help everyone build a web based on the principles of [accessibility](https://www.w3.org/mission/accessibility/), [internationalization](https://www.w3.org/mission/internationalization/), [privacy](https://www.w3.org/mission/privacy/) and [security](https://www.w3.org/mission/security/).
 
 https://spec.whatwg.org/
 The WHATWG works on a number of technologies that are fundamental parts of the web platform. They are organised somewhat arbitrarily based on the preferences of those editing the standard for those technologies.
@@ -129,8 +129,8 @@ The WHATWG also works on a [number of ideas](https://idea.whatwg.org/) that as
 <small>A simplified diagram of the web workflow. Note the tree major agents here: client, web server, and database.</small>
 
 - Front-end (application level)
-	- ↗ [Web FrontEnd Dev](🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 	- ↗ [Web Browser Development](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
+	- ↗ [Web FrontEnd Dev](🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 - Back-end, including middleware (application level)
 	- ↗ [Web BackEnd Dev & Middleware](🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 - DBMS (system level)

@@ -397,6 +397,7 @@ http://www.china-cia.org.cn
 
 ## Intro
 ![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>Risk management & Cyversecurity</small>
 
 
 ### What is Information & Information Systems?

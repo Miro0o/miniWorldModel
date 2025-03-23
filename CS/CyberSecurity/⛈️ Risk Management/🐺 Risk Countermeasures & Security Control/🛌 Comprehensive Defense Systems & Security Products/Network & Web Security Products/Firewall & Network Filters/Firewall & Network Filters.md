@@ -305,7 +305,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 > 🤔 防火墙硬件架构的发展趋势: 
 > 最佳组合：在系统控制与管理、数据高速处理转发等方面，通用CPU和可编程ASIC将各司其职，共同为防火墙系统提供灵活的服务！
 ##### 基于X86体系的通用CPU架构
-↗ [CPU (Central Processing Unit)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 通用 CPU 架构又被称为 x86 架构，采用通用 CPU 和 PCI 总线接口，可编程性高，更灵活、更易扩展。产品功能主要由软件实现，代表产品包含了大部分的开源/商业软件防火墙（基于*nix 系统）。
 
 X86架构防火墙中，其CPU具有高灵活性、高扩展性的特性；

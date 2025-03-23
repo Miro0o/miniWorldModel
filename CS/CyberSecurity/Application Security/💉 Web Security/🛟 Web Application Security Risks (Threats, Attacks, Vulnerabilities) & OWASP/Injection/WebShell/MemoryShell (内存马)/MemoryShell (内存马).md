@@ -113,6 +113,7 @@ Webshell内存马，是在内存中写入恶意后门和木马并执行，达到
 ## Ref
 [👍 一文看懂内存马 | freebuf]: https://www.freebuf.com/articles/web/274466.html
 - [java web请求三大器——listener、filter、servlet](https://blog.csdn.net/chenwiehuang/article/details/80811193)  
+	- 启动顺序为listener->filter->servlet, 但是执行顺序与特性有关
 - [Tomcat架构原理](https://segmentfault.com/a/1190000023475177)  
 - [利用“进程注入”实现无文件复活 WebShell](https://www.freebuf.com/articles/web/172753.html)  
 - [深入理解反射](https://mp.weixin.qq.com/s/TqSLUWYWfhHjpfI_srETJg)  
@@ -121,3 +122,19 @@ Webshell内存马，是在内存中写入恶意后门和木马并执行，达到
 [分享几个直接可用的内存马，记录一下学习过程中看过的文章 | github]: https://github.com/bitterzzZZ/MemoryShellLearn
 
 [🤔 Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】]: https://nosec.org/home/detail/5049.html
+
+[java security - memory shell | p4d0rn]: https://p4d0rn.gitbook.io/java/memory-shell/tomcat
+🐎Memory Shell
+- [Tomcat-Architecture](https://p4d0rn.gitbook.io/java/memory-shell/tomcat)
+- [Servlet API](https://p4d0rn.gitbook.io/java/memory-shell/servlet-api)
+	- [Listener](https://p4d0rn.gitbook.io/java/memory-shell/servlet-api/listener)
+	- [Filter](https://p4d0rn.gitbook.io/java/memory-shell/servlet-api/filter)
+	- [Servlet](https://p4d0rn.gitbook.io/java/memory-shell/servlet-api/servlet)
+- [Tomcat-Middlewares](https://p4d0rn.gitbook.io/java/memory-shell/tomcat-middlewares)
+	- [Tomcat-Valve](https://p4d0rn.gitbook.io/java/memory-shell/tomcat-middlewares/valve)
+	- [Tomcat-Executor](https://p4d0rn.gitbook.io/java/memory-shell/tomcat-middlewares/executor)
+	- [Tomcat-Upgrade](https://p4d0rn.gitbook.io/java/memory-shell/tomcat-middlewares/upgrade)
+- [Agent MemShell](https://p4d0rn.gitbook.io/java/memory-shell/agent)
+- [WebSocket](https://p4d0rn.gitbook.io/java/memory-shell/websocket)
+- [内存马查杀](https://blog.csdn.net/SimoSimoSimo/article/details/127700190)
+- [IDEA本地调试Tomcat](https://p4d0rn.gitbook.io/java/memory-shell/de_tomcat)

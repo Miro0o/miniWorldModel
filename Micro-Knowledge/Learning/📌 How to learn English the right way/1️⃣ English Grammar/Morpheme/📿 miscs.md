@@ -11752,6 +11752,12 @@ rapscallion (capscallion, scallion)
 - [villain](dic://villain), [scoundrel](dic://scoundrel), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
 - The capscallion of all rapscallions. A scurvy, vermiform scug with a serpentine twinkle in his solitary eye./流氓中的流氓。猥琐下流，蠕虫般不招人待见，一只独眼闪烁着蛇蝎之光。
 
+raster
+- \*red-
+
+rat
+- \*red-
+
 ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
 - 来自法语 rochet,线轴，纺锤，词源同 rock,rocket.引申词义棘轮。插入字母 t,比较 bake,batch.
 - n. 棘轮, 棘爪,棘齿 
