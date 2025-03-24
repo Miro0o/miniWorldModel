@@ -47,6 +47,6 @@ Buffer overflows, format string vulnerabilities, and the other examples above ar
 
 一般根据缓冲区溢出的内存位置不同，将缓冲区溢出分为栈溢出 (Stack Overflow)和堆溢出 (Heap Overfolw)。
 
-![](../../../../../Assets/Pics/Pasted%20image%2020231003142154.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020231003142154.png)
 
 [内存攻击小结]: https://blog.werner.wiki/memory-attack-summary/

@@ -100,6 +100,15 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 
+## Binary Translation
+> 🔗 https://en.wikipedia.org/wiki/Binary_translation
+
+In computing, binary translation is a form of binary recompilation where sequences of instructions are translated from a source instruction set to the target instruction set. In some cases such as instruction set simulation, the target instruction set may be the same as the source instruction set, providing testing and debugging features such as instruction trace, conditional breakpoints and hot spot detection.
+
+The two main types are static and dynamic binary translation. Translation can be done in hardware (for example, by circuits in a CPU) or in software (e.g. run-time engines, static recompiler, emulators).
+
+
+
 ## Ref
 [Compiler | wikipedia]: https://en.wikipedia.org/wiki/Compiler
 

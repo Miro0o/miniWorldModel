@@ -22,3 +22,6 @@ CodeQL is free for research and open source.
 
 
 ## Ref
+[codeql - javaweb security | p4d0rn]: https://p4d0rn.gitbook.io/java/code-inspector/codeql/tutorial/intro
+CodeQL是一个支持多种语言及框架的代码分析工具，由`Semmle`公司开发，现已被`Github`收购。其可以从代码中提取信息构成数据库，我们通过编写查询语句来获取信息，分析可能存在的漏洞。codeql处理的对象是AST数据库。
+

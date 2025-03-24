@@ -19,7 +19,7 @@ In software, a stack buffer overflow or stack buffer overrun occurs when a progr
 
 A stack buffer overflow can be caused deliberately as part of an attack known as stack smashing. If the affected program is running with special privileges, or accepts data from untrusted network hosts (e.g. a webserver) then the bug is a potential security vulnerability. If the stack buffer is filled with data supplied from an untrusted user then that user can corrupt the stack in such a way as to inject executable code into the running program and take control of the process. This is one of the oldest and more reliable methods for attackers to gain unauthorized access to a computer
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
 <small>《汇编语言》，王爽</small>
 
 

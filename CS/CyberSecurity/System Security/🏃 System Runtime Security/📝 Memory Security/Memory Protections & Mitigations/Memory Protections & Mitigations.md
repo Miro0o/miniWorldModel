@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Win Memory Protection Mechanism](../../Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
-↗ [Linux Memory Protection Mechanism](../../Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
+↗ [Win Memory Protection Mechanism](../../../Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
+↗ [Linux Memory Protection Mechanism](../../../Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
 
-↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Compilation & Program Loading Tools](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-↗ [Operating System Security](../../Operating%20System%20Security/Operating%20System%20Security.md)
+↗ [Computer Languages & Programming Methodology](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+↗ [Operating System Security](../../../Operating%20System%20Security/Operating%20System%20Security.md)
 
 
 ### Other Resources
@@ -31,7 +31,7 @@ Some modern languages are designed to be intrinsically memory-safe, no matter wh
 
 
 ### 2. Memory-Safety Codes /Defensive Programming (Programmer)
-> ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
+> ↗ [Program Debugging & Defensive Programming](../../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
 
 One way to ensure memory safety is to carefully reason about memory accesses in your code, by defining pre-conditions and post-conditions for every function you write and using invariants to prove that these conditions are satisfied. Although it is a good skill to have, this process is painstakingly tedious and rarely used in practice, so it is no longer in scope for this class. 
 
@@ -49,10 +49,10 @@ Another example of defending against memory safety vulnerabilities is writing me
 
 
 ### 3. Software Analyzing /Testing
-> ↗ [Software Analysis & Binary Engineering](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
-> ↗ [Malicious Code Detection & Vulnerability Discovery](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
-> ↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
-> ↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
+> ↗ [Software Analysis & Binary Engineering](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
+> ↗ [Malicious Code Detection & Vulnerability Discovery](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
+> ↗ [Security Audit & Security Audit Trail](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+> ↗ [Code Review](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
 Yet another way to defend your code is to use tools to analyze and patch insecure code. 
 - Utilizing **run-time checks** that do automatic bound-checking, for example is an excellent way to help your code stay safe. If your check fails, you can direct it towards a controlled crash, ensuring that the attacker does not succeed. 
@@ -66,8 +66,8 @@ Yet another way to defend your code is to use tools to analyze and patch insecur
 - You can also probe your own system for vulnerabilities, by subjecting your code to **thorough software tests**. Though it is pretty difficult to know whether you have tested your code “enough” to deem it safe, there are several code-coverage tools that can help you out.
 	- Bug-finding tools
 		- Excellent resource, as long as there aren’t too many false alarms
-		- ↗ [Valgrind](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
-		- ↗ [Fuzzing (Fuzz Testing)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md), or testing with random inputs, testing corner cases
+		- ↗ [Valgrind](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
+		- ↗ [Fuzzing (Fuzz Testing)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md), or testing with random inputs, testing corner cases
 	- Code review
 		- Have someone look over your code for memory safety errors. Can be very effective… but also expensive
 	- Vulnerability scanning
@@ -107,7 +107,7 @@ On a 64-bit architecture, the stack canary has 56 bits of randomness, so it is s
 
 
 ### Pointer Authentication
-> ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+> ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 #### Subverting Pointer Authentication
 Using a different PAC for every address makes this defense extremely strong. An attacker who can write to random parts of memory can defeat the stack canary, but cannot easily defeat pointer authentication: they could try to leave the PAC untouched, but because they’ve changed the address, the old secret value will no longer check out. The CPU will run f on the attacker-generated address, and the output will be different from the old secret value (which was generated by running f on the original address). The attacker also cannot generate the correct secret value for their malicious address, because they don’t know what the secret key is. Finally, an attacker could try to leak some addresses and secret values from memory, but knowing the PACs doesn’t help the attacker generate a valid PAC for their chosen malicious address.

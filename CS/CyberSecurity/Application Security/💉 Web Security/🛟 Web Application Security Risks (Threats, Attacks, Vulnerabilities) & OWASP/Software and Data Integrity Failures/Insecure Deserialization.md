@@ -9,6 +9,15 @@
 ↗ [(Object) Serialization & Deserialization](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
 
 
+### Other Resources
+🚧 https://github.com/frohoff/ysoserial
+A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+
+[Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet): info on vulnerabilities, tools, blogs/write-ups, etc.
+[marshalsec](https://github.com/frohoff/marshalsec): similar project for various Java deserialization formats/libraries
+[ysoserial.net](https://github.com/pwntester/ysoserial.net): similar project for .NET deserialization
+
+
 
 ## Intro
 > 🔗 https://p4d0rn.gitbook.io/java/serial-journey/urldns
@@ -100,3 +109,5 @@ private void readObject(ObjectInputStream ois) throws IOException, ClassNotFound
 	- [Hessian_Only_JDK](https://p4d0rn.gitbook.io/java/serial-journey/other-components/hessian_only_jdk)
 	- [Kryo](https://p4d0rn.gitbook.io/java/serial-journey/other-components/kryo)
 	- [Dubbo](https://p4d0rn.gitbook.io/java/serial-journey/other-components/dubbo)
+
+[java security, deserialization twice | p4d0rn]: https://p4d0rn.gitbook.io/java/others/desertwice

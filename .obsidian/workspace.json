@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "dd999562f5d733e5",
+            "id": "a0452fde355e004b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
+                "file": "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MemoryShell (内存马)"
+              "title": "Java Web"
             }
           },
           {
-            "id": "f56a37c0817ccfc9",
+            "id": "aaa0a6cdd54bfa7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network Sockets"
+              "title": "Java Virtual Machine (JVM)"
+            }
+          },
+          {
+            "id": "4332ccdea3bd937d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TABBY"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MemoryShell (内存马)"
+              "title": "Outline of TABBY"
             }
           },
           {
@@ -293,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +327,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MemoryShell (内存马)"
+              "title": "Backlinks for TABBY"
             }
           }
         ],
@@ -311,7 +335,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,54 +353,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dd999562f5d733e5",
+  "active": "4332ccdea3bd937d",
   "lastOpenFiles": [
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/👬 APIs & Interfaces in Web Development/Web Server Side API/CGI (Common Gateway Interface).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Software and Data Integrity Failures/Insecure Deserialization.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x02 Presentation Layer (Syntax Layer)/(Object) Serialization & Deserialization/(Object) Serialization & Deserialization.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
-    "Assets/Illustrations/Computer Network/Serialization.excalidraw.md",
-    "Assets/Illustrations/Computer Network/Serialization.excalidraw.png",
-    "Assets/Illustrations/Computer Network/Serialization.excalidraw.svg",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x02 Presentation Layer (Syntax Layer)/(Object) Serialization & Deserialization/Google Protobuf.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/🌉 Internal Sockets/UNIX Domain Sockets (POSIX).md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Internet Domain Socket.md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Remote Procedure Call (RPC).md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/NAS (Network-Attached Storage) Protocols/NFS (Network File System)/NFS (Network File System).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x02 Presentation Layer (Syntax Layer)/(Object) Serialization & Deserialization/Hessian.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/IDL (Interface Description Language) & Data Exchange Formats.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/ASN.1.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/CSV (Comma Separated Values).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/HDF (Hierarchical Data Format).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/JSON.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/Property List (.plist).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/STIX (Structured Threat Information Expression).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/TLV (Type–length–value).md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange & Serialization/XDR (External Data Representation).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/CodeQL.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Tai-e.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
     "CS/🔑 CS Core/🧙‍♂️ Algorithm & Data Structure/Data Compression Technologies/Media Formats & Standards & Codec (Coder-Decoder)/Graphics Formats & Standards/Graphics Formats & Standards.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Other Languages for Specific Areas/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Computer (Host) System.md",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.49.56.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.46.21.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.41.42.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.41.19.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.41.06.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.40.55.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.40.42.png",
-    "Assets/Pics/Screenshot 2025-03-22 at 20.40.25.png",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Sootup.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🏕️ Threat & Attack Models/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
+    "CS/CyberSecurity/System Security/🏃 System Runtime Security/RASP (Runtime Application Self-Protection)/RASP (Runtime Application Self-Protection).md",
+    "Assets/Pics/Pasted image 20250324220100.png",
+    "Assets/Pics/Pasted image 20250324215612.png",
+    "CS/CyberSecurity/System Security/🏃 System Runtime Security/System Runtime Security.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 DCA (Dynamic Code Analysis) & DAST/DCA (Dynamic Code Analysis) & DAST.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 DCA (Dynamic Code Analysis)/DAST (Dynamic Application Security Testing).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 SCA (Static Code Analysis) & SAST/SCA (Static Code Analysis) & SAST.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 SCA (Static Code Analysis)/SAST (Static Application Security Testing).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+    "CS/CyberSecurity/System Security/Cloud Security/🩳 Cloud-Native System Runtime Security/Cloud-Native System Runtime Security.md",
+    "CS/CyberSecurity/System Security/🏃 System Runtime Security/RASP (Runtime Application Self-Protection)",
+    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
+    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+    "CS/CyberSecurity/System Security/🏃 System Runtime Security",
+    "CS/CyberSecurity/System Security/Database System Security/Database Systems & Web Security/Database Systems & Web Security.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Application Servers.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/WebSphere/WebSphere.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/WebLogic/WebLogic.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Apache Tomcat/Apache Tomcat.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/GlassFish/GlassFish.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Jetty/Jetty.md",
+    "Assets/Pics/Pasted image 20250324211154.png",
+    "Assets/Pics/Pasted image 20250324210438.png",
+    "Assets/Pics/Pasted image 20250324210226.png",
+    "Assets/Pics/Pasted image 20250324210036.png",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Windows Dot.Net Framework",
+    "Assets/Pics/Pasted image 20250324154540.png",
+    "Assets/Pics/Pasted image 20250324154312.png",
+    "Assets/Pics/Pasted image 20250324153843.png",
+    "Assets/Pics/IMG_5115.png",
     "CS/🗺 CS Overview/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Entertainment Industry/Video Game Industry",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/TURN (Traversal Using Relays around NAT) & DERP",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT)",
     "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Languages",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Address Selection",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Name Service Discovery",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery/UPnP (Universal Plug-and-Play)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Service Discovery/DLNA (Digital Living Network Alliance)",
-    "CS/Embedded Development, Internet of Things & Robot/🎭 IoT Scenaries/Home Automation",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",

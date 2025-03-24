@@ -22,7 +22,9 @@
 - commons-pool：对象池管理，用于管理创建开销比较大的对象，如：JDBC连接，项目主页：
 	- https://commons.apache.org/proper/commons-pool/
 
+
 ### Related Topics
+↗ [ASF (Apache Software Foundation)](../../../../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
 
 
 

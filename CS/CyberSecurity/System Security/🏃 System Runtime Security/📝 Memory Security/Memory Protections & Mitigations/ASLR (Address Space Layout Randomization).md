@@ -17,9 +17,9 @@
 	- Programs are dynamically linked at runtime
 	- We already have to do the work of going through the executable and rewriting code to contain known addresses before executing it, so not much extra cost to ASLR
 
-![](../../../../../Assets/Pics/Screenshot%202024-09-17%20at%2010.38.37.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-09-17%20at%2010.38.37.png)
 
-![](../../../../../Assets/Pics/Screenshot%202024-09-17%20at%2010.39.27.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-09-17%20at%2010.39.27.png)
 
 
 
