@@ -1016,6 +1016,14 @@ https://www.xiaohongshu.com/user/profile/64a2ab8b000000001f005fff?xsec_token=ABc
 姜小白的成长笔记
 📈量化交易践行者 🌍全球资产交易员 🤝全网同昵称!
 
+---
+https://p4d0rn.gitbook.io/java
+https://p4d0rn.github.io/
+
+---
+https://y4er.com/
+https://github.com/Y4er
+
 
 ### Campus Lifes
 ↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)

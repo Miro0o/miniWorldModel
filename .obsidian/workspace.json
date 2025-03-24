@@ -80,103 +80,17 @@
             }
           },
           {
-            "id": "97d7253f732ef3c6",
+            "id": "90af4706cc5c18f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧙‍♂️ Algorithm & Data Structure/Data Compression Technologies/Media Formats & Standards & Codec (Coder-Decoder)/Graphics Formats & Standards/Graphics Formats & Standards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Graphics Formats & Standards"
-            }
-          },
-          {
-            "id": "a0452fde355e004b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Java Web"
-            }
-          },
-          {
-            "id": "aaa0a6cdd54bfa7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Java Virtual Machine (JVM)"
-            }
-          },
-          {
-            "id": "4332ccdea3bd937d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TABBY"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5026054382324
+    "width": 461.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -278,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TABBY"
+              "title": "Outline"
             }
           },
           {
@@ -317,7 +231,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TABBY"
+              "title": "Backlinks"
             }
           }
         ],
@@ -335,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,15 +265,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4332ccdea3bd937d",
+  "active": "90af4706cc5c18f3",
   "lastOpenFiles": [
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/CodeQL.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/📌 OSINT & Passive Recon Tools/Packet Analyzing & Sniffing & Spoofing Tools/BurpSuite.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Architectures.md",
+    "CS/🔑 CS Core/🧙‍♂️ Algorithm & Data Structure/Data Compression Technologies/Media Formats & Standards & Codec (Coder-Decoder)/Graphics Formats & Standards/Graphics Formats & Standards.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/CodeQL.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Tai-e.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
-    "CS/🔑 CS Core/🧙‍♂️ Algorithm & Data Structure/Data Compression Technologies/Media Formats & Standards & Codec (Coder-Decoder)/Graphics Formats & Standards/Graphics Formats & Standards.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Sootup.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🏕️ Threat & Attack Models/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
     "CS/CyberSecurity/System Security/🏃 System Runtime Security/RASP (Runtime Application Self-Protection)/RASP (Runtime Application Self-Protection).md",
@@ -382,10 +298,6 @@
     "CS/CyberSecurity/System Security/Database System Security/Database Systems & Web Security/Database Systems & Web Security.md",
     "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Application Servers.md",
     "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/WebSphere/WebSphere.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/WebLogic/WebLogic.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Apache Tomcat/Apache Tomcat.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/GlassFish/GlassFish.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Jetty/Jetty.md",
     "Assets/Pics/Pasted image 20250324211154.png",
     "Assets/Pics/Pasted image 20250324210438.png",
     "Assets/Pics/Pasted image 20250324210226.png",
