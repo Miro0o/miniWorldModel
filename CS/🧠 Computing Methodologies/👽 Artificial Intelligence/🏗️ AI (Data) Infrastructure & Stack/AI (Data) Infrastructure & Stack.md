@@ -17,6 +17,16 @@
 ↗ [Distributed Systems Implementations](../../Distributed%20Computing%20&%20Systems/💸%20Distributed%20Systems%20Implementations/Distributed%20Systems%20Implementations.md)
 
 
+### AI x Cloud Services (租卡平台)
+↗ [Google Colab](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Service%20Porviders/Google%20Cloud%20Plantform%20(GCP)/Google%20Computing/Google%20Colab.md)
+https://bitdeer.com/en/
+https://autodl.com/login
+阿里云DSW
+kaggle
+FunHPC
+ucloud
+
+
 
 ## Intro
 ![](../../../../Assets/Pics/Pasted%20image%2020241104003300.png)
