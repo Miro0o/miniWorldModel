@@ -1,9 +1,0 @@
-.DS_Store
-.git
-.gitignore
-.obsidian
-.obsidian.vimrc
-Assets/*
-!Assets/Pics/
-!"Assets/Cheet Sheets/"
-
