@@ -1,7 +1,9 @@
 .DS_Store
-Books/
-Curriculums/
-Life/
-Literatures/
-Philosophy/
-'Finance & Econ'/
+.git
+.gitignore
+.obsidian
+.obsidian.vimrc
+Assets/*
+!Assets/Pics/
+!"Assets/Cheet Sheets/"
+
