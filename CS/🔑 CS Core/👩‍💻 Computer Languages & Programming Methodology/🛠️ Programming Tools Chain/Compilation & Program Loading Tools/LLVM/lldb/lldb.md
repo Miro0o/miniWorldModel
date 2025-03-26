@@ -15,7 +15,7 @@
 
 
 ### Cheat Sheets
-![](../../../../../../../Assets/Cheat%20Sheets/lldb%20cheat%20sheet.pdf)
+![](../../../../../../../Assets/Cheat_Sheets/lldb%20cheat%20sheet.pdf)
 
 
 

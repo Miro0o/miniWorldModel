@@ -83,7 +83,7 @@ Learning classic computer networking knowledge beginning from ↗ [Computer Netw
 ![web_application_arch.excalidraw | 800](../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web & Internet: The Architecture</small>
 
-![](../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
+![](../../../Assets/Cheat_Sheets/科来《网络通讯协议图2023版》.pdf)
 <small>科来《网络通讯协议图2023版》</small>
 
 More Topics With Fun! 🥳

@@ -5,7 +5,7 @@
 
 
 ## 👉 remote: Invalid username or password.
-#git 
+#git #Invalid_username
 
 Possible solusions:
 1. change network. e.g. form wifi to cellular network
@@ -29,8 +29,7 @@ Possible solusions:
 
 
 ## 👉 Git: Could not resolve host github.com error while cloning remote repository in git
-#git 
-
+#git #remote_git #git_cloning
 
 **Error: "fatal: unable to access 'https://domain.com' Could not resolve host: github.com"**
 

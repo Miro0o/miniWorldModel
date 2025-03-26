@@ -30,7 +30,7 @@
 ↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
 ↗ [OSI-ISO Protocol Suites](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/OSI-ISO%20Protocol%20Suites/OSI-ISO%20Protocol%20Suites.md)
 
-![科来《网络通讯协议图2023版》](../../../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
+![科来《网络通讯协议图2023版》](../../../../../Assets/Cheat_Sheets/科来《网络通讯协议图2023版》.pdf)
 
 
 

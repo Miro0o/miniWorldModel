@@ -71,7 +71,7 @@ The Internet protocol suite provides [end-to-end data communication](https://en.
 
 
 ### Protocol Stack
-![科来《网络通讯协议图2023版》](../../../../../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
+![科来《网络通讯协议图2023版》](../../../../../../../Assets/Cheat_Sheets/科来《网络通讯协议图2023版》.pdf)
 
 
 An implementation of the layers for a particular application forms a [protocol stack](https://en.wikipedia.org/wiki/Protocol_stack). From lowest to highest, the layers are 

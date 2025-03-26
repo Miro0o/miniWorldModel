@@ -47,7 +47,7 @@ CVS/SCN is centralized, while Git is distributed.
 
 
 ## 👉 update remote git to local
-#git 
+#git #remote_git
 
  + fetch --> merge
    + fetch generate a new branch on locak host.
@@ -58,7 +58,7 @@ CVS/SCN is centralized, while Git is distributed.
 
 
 ## 👉 ignore git local modification and refresh from remote git.
-#git 
+#git #gitignore
 
 + restore
 + reset
@@ -69,7 +69,7 @@ CVS/SCN is centralized, while Git is distributed.
 
 
 ##  👉 Git branching
-#git 
+#git #gitbranching
 
  TBD. 
  sound understanding of git branching is essential to the command of whole git.  
@@ -87,7 +87,7 @@ CVS/SCN is centralized, while Git is distributed.
 
 
 ## 👉 Recover from an unsuccessful git rebase with the `git reflog` command
-#git 
+#git #git_reflog
 
 1. use `git reflog` listing the commit history
 ```shell
@@ -107,13 +107,12 @@ git checkout HEAD{3}
 
 4. merge commits (optional)
 
-
 [Recover from an unsuccessful git rebase with the git reflog command]: https://opensource.com/article/23/1/git-reflog
 
 
 
 ## 👉 Git: Merge a Remote branch locally
-#git 
+#git #git_merge
 
 You can reference those remote tracking branches ~(listed with `git branch -r`) with the name of their remote.
 
@@ -145,21 +144,46 @@ _Note 3_: [user3265569](https://stackoverflow.com/users/3265569/user3265569) s
 [Git: Merge a Remote branch locally]: https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally
 
 - Read [this very well written answer](https://stackoverflow.com/a/71774640/10625611) by [torek](https://stackoverflow.com/users/1256452/torek) to get a much clearer picture on what actually happens behind the scene and to understand which option is the most appropriate option for you.
-    
 - You may want to keep an eye on [VonC](https://stackoverflow.com/users/6309/vonc)'s answer [here](https://stackoverflow.com/a/64163084/10625611) for updates on changes made to this feature in future updates.
 
 
-## 👉 How do I discard unstaged changes in Git?
-#git 
+
+## 👉 How do I discard unstaged changes in Git? | How do I undo 'Git add' before commit?
+#git #git_unstaged #git_add #gitignore 
 
 This post this inspiring 👇
 
 [👍 How do I discard unstaged changes in Git? | Stackoverflow]: https://stackoverflow.com/q/52704
 
+[How do I undo 'git add' before commit? | stackoverflow]: https://stackoverflow.com/a/682343/16542494
+
+> 🤖 OpenAI Chatgpt 4.0
+
+The reason those files are still being tracked and updated even after adding them to `.gitignore` is that `.gitignore` only applies to **untracked** files. Since those files were already committed and pushed to GitHub, Git is still tracking them.
+
+**Solution: Stop Tracking the Files and Remove Them from GitHub**
+Here’s how you can fix it:
+1. **Remove the files from Git’s tracking** using the following command:
+    `git rm --cached path/to/file`
+    - `--cached` means Git will remove the file from the repository, but it will remain on your local filesystem.
+    - You can also remove entire directories using:
+        bash
+        CopyEdit
+        `git rm -r --cached path/to/directory`
+2. **Add the files to `.gitignore`** if you haven't done so already, to ensure Git ignores them in future commits.
+3. **Commit the changes** to reflect the file removal:
+    `git commit -m "Remove mistakenly committed files and update .gitignore"`
+4. **Push the changes** to GitHub:
+    `git push origin main`
+    - Replace `main` with your branch name if necessary.
+
+[Ignoring files | github docs]: https://docs.github.com/en/get-started/git-basics/ignoring-files
+[gitignore]: https://git-scm.com/docs/gitignore
+
 
 
 ## 👉 How do I fix a Git detached head?
-#git 
+#git #git_detached_head
 
 Stop using `git checkout` but the new `git switch`!
 
@@ -169,7 +193,6 @@ Detached head means you are no longer on a branch, you have checked out a single
 
 > Any checkout of a commit that is not the name of one of _your_ branches will get you a detached HEAD. A SHA1 which represents the tip of a branch still gives a detached HEAD. Only a checkout of a local branch _name_ avoids that mode.
 > See [committing with a detached HEAD](http://marklodato.github.com/visual-git-guide/index-en.html#detached)
-
 
 **If you want to _delete_ your changes associated with the detached HEAD**
 You only need to checkout the branch you were on, e.g.
@@ -232,8 +255,7 @@ fatal: a branch is expected, got remote branch 'origin/main'
 
 
 ## 👉 How do I force "git pull" to overwrite local files?
-#git 
-
+#git #git_pull 
 
 > ⚠ Warning:
 > 

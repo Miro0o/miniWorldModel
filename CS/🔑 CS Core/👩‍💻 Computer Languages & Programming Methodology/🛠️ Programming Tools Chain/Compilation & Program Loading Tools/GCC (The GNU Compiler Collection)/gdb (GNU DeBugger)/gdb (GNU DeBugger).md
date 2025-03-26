@@ -34,7 +34,7 @@ GDB, the GNU Project Debugger, belongs to ↗ [GNU (GNU's Not Unix)](../../../..
 
 
 ### GDB Cheat Sheet
-![gdb5-refcard](../../../../../../../Assets/Cheat%20Sheets/gdb5-refcard.pdf)
+![gdb5-refcard](../../../../../../../Assets/Cheat_Sheets/gdb5-refcard.pdf)
 
 
 ### GDB Usages
