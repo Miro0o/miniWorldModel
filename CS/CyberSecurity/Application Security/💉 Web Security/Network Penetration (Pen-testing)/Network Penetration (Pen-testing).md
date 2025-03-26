@@ -11,8 +11,8 @@
 
 ## Res
 ### Related Topics
-↗ [Kill Chain](../../../☠️%20Kill%20Chain/Kill%20Chain.md)
-- ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Pen-testing%20Tools.md)
+↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
+- ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Pen-testing%20Tools/Pen-testing%20Tools.md)
 
 ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 ↗ [Web Security](../Web%20Security.md)
@@ -34,7 +34,7 @@ https://www.cnblogs.com/carmi/collections/8635
 
 ## Intro
 ### Kill-Chain
-↗ [Kill Chain](../../../☠️%20Kill%20Chain/Kill%20Chain.md)
+↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-10-09%20at%207.33.54AM.png)
 

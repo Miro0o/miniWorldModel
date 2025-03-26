@@ -29,6 +29,9 @@ Interactive Vim tutorial: [Open Vim](https://openvim.com/)
 Vim quick reference from Vim help pages: [quickref.txt](https://vimhelp.org/quickref.txt.html)
 List of all Vim ex (:) commands: [ex-cmd-index](https://vimhelp.org/index.txt.html#ex-cmd-index)
 
+https://www.vimfromscratch.com/
+Vim From Scratch
+
 
 ### 🐍 Vim Cheat Sheet & Tips
 👍 https://devhints.io/vim

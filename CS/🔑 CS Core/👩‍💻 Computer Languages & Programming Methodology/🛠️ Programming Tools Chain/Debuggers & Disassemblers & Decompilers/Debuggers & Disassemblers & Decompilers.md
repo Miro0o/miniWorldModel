@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
 
-↗ [Reverse & Binary Analysis Tools](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Static Code Analysis Tools (SCAT)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 ↗ [Hex & Binary Manipulation](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
 ↗ [Kernel Debugging](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Kernel%20Debugging.md)
 
@@ -21,10 +21,10 @@
 - ↗ [lldb](../Compilation%20&%20Program%20Loading%20Tools/LLVM/lldb/lldb.md)
 - etc.
 
-↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/👱🏻‍♀️%20IDA%20Pro/IDA%20Pro.md)
-- ↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/👱🏻‍♀️%20IDA%20Pro/Hex-Rays%20Decompiler.md)
+↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Binary%20&%20Executable/👱🏻‍♀️%20IDA%20Pro/IDA%20Pro.md)
+- ↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Binary%20&%20Executable/👱🏻‍♀️%20IDA%20Pro/Hex-Rays%20Decompiler.md)
 
-↗ [JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/JEB%20Pro/JEB%20Pro.md)
+↗ [JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Binary%20&%20Executable/JEB%20Pro/JEB%20Pro.md)
 
 ↗ [Code Sanitizer](../Code%20Sanitizer.md)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SeedLab - Software Security / Set-UID](../../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
+↗ [SeedLab - Software Security / Set-UID](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
 ↗ [Text & File & Dir Management Basics](../../../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
 
 
@@ -24,7 +24,7 @@ Special permissions make up a fourth access level in addition to **user**, **g
 
 
 ### 1️⃣ user + s(pecial), SUID, Set-UID
-> ↗ [SeedLab - Software Security / Set-UID](../../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
+> ↗ [SeedLab - Software Security / Set-UID](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
 
 Commonly noted as **SUID**, the special permission for the user access level has a single function: A file with **SUID** always executes as the user who owns the file, regardless of the user passing the command. If the file owner doesn't have execute permissions, then use an uppercase **S** here.
 

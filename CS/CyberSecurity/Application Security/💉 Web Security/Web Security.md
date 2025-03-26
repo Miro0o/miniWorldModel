@@ -25,8 +25,8 @@
 ↗ [SQL (Structured Query Language)](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 ↗ [Web Dev Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
-↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/DWVA/DWVA.md)
-↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/sqli-labs/sqli-labs.md)
+↗ [DWVA](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/DWVA/DWVA.md)
+↗ [sqli-labs](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/sqli-labs/sqli-labs.md)
 
 ↗ [Exploiting Web-based Applications & Services](Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
 ↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)

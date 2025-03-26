@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reverse & Binary Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Static Code Analysis Tools (SCAT)](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 ↗ [GNU Binutils](GNU%20Binutils.md)
 
 
@@ -67,7 +67,7 @@ od - dump files in octal and other formats
 
 
 ### 👉 bless
-> This tool is from ↗ [SeedLab - Cryptography](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
 
 
 

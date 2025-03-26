@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 

@@ -7,8 +7,8 @@
 ## Res
 ↗ [Cyberspace Assets Mapping & Management](../../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
-↗ [Service & Application Version Detection](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Service%20&%20Application%20Version%20Detection/Service%20&%20Application%20Version%20Detection.md)
-↗ [Remote OS Detection](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Remote%20OS%20Detection/Remote%20OS%20Detection.md)
+↗ [Service & Application Version Detection](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Service%20&%20Application%20Version%20Detection/Service%20&%20Application%20Version%20Detection.md)
+↗ [Remote OS Detection](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Remote%20OS%20Detection/Remote%20OS%20Detection.md)
 
 ↗ xprobe2.
 
@@ -45,7 +45,7 @@ Active fingerprinting is faster and more accurate than passive fingerprinting.
 Active fingerprinting: The attacker sends normal and malformed packets to the target and records its response pattern, referred to as the fingerprint. By comparing the fingerprint to a local database, the operating system can be determined.
  
 #### 👉 nmap
-↗ [Nmap](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Project%20Products/Nmap.md)
+↗ [Nmap](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Project%20Products/Nmap.md)
 
 
 #### 👉 xprobe2
@@ -56,7 +56,7 @@ Passive fingerprinting: The attacker sniffs, or records and analyzes the packet 
 
 
 #### 👉 Wireshark(?)
-↗ [Wireshark](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
 
 
 

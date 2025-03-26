@@ -59,6 +59,15 @@ The Hitchhiker’s Guide to Python!
 
 https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1
 O'REIILY books (free pdf)
+- [Guide book](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)
+- [Data analysis](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#2)
+- [Advanced programming](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#3)
+- [Visualization](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#4)
+- [Web development](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#5)
+- [Operation and maintenance](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#6)
+- [Engineering](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#7)
+- [Machine learning](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#8)
+- [Bioinformatics](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#9)
 
 📚 https://inventwithpython.com
 invent with python
@@ -102,7 +111,13 @@ How to Think Like a Computer Scientist: Interactive Edition
 - [18. Classes and Objects - Digging a Little Deeper](https://runestone.academy/ns/books/published/thinkcspy/ClassesDiggingDeeper/toctree.html)
 - [19. Inheritance](https://runestone.academy/ns/books/published/thinkcspy/Inheritance/toctree.html)
 - [20. Unit Testing](https://runestone.academy/ns/books/published/thinkcspy/UnitTesting/toctree.html)
-- - [21. Hidden Items](https://runestone.academy/ns/books/published/thinkcspy/_hidden/toctree.html)
+- [21. Hidden Items](https://runestone.academy/ns/books/published/thinkcspy/_hidden/toctree.html)
+
+https://www.fluentpython.com/
+Fluent Python, Second Edition
+Companion website for the _[lizard book](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)_ including:
+- [**Extra content**](https://www.fluentpython.com/extra/): new or updated sections that did not fit in the Second Edition.
+- [**Python lingo**](https://www.fluentpython.com/lingo/): technical terms and slang used by Pythonistas.
 
 
 ### Learn in Action
@@ -115,12 +130,6 @@ https://github.com/myangeline/python/tree/master
 
 ## Intro
 ### Python Language 
-
-
-
-### Python Libraries & Runtimes
-↗ [Python Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Runtime%20Environments.md)
-↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
 
 
 ### 🔔 Python Code Style & PEP8

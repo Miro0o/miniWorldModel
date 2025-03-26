@@ -78,7 +78,7 @@ qemu-system-x86_64 \
 #qemu #macos #libvirt #virsh #virt-install 
 
 ### macOS
-Following explained how to set up `qemu/kvm` virtual machine on macOS along with `libvirt`. Img used here is seedlab-ubuntu-20.04 from ↗ [seedlab /🫄🏻 Lab Setup](../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md#🫄🏻%20Lab%20Setup)
+Following explained how to set up `qemu/kvm` virtual machine on macOS along with `libvirt`. Img used here is seedlab-ubuntu-20.04 from ↗ [seedlab /🫄🏻 Lab Setup](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md#🫄🏻%20Lab%20Setup)
 
 
 **#1 Installing `libvirt` and `QEMU`**

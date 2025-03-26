@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 ↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
 
 ↗ [Attack Surface Management (ASM)](../🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
-↗ [goby](../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/goby.md)
+↗ [goby](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/goby.md)
 
 http://whatweb.bugscaner.com/look/
 

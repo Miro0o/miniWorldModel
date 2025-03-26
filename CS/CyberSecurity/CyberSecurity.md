@@ -12,9 +12,9 @@
 
 ### Learning Resources
 #### Courses & Projects & Labs
-> ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
+> ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
-> ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
+> ↗ [SEED Project](☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
  🔥 👍 Comprehensive & Introductory security labs/ courses
 
 🏫 [MIT - 6.5660 Computer System Security](../🗺%20CS%20Overview/Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
@@ -62,7 +62,7 @@ The platform is maintained by an [awesome team](https://pwn.college/#greetz) o
 
 ---
 👍 📖 Computer & Internet Security: A Hands-on Approach by Wenliang Du
-↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
+↗ [SEED Project](☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
 
 ---
 🫂 https://www.hackers-arise.com

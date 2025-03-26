@@ -21,8 +21,8 @@
 ↗ [Operating Systems & Kernels (Engineering Part)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 ↗ [Operating System & OS Kernel (Theory Part)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
-↗ [Software Analysis Tools](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
-↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Software Analysis Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
+↗ [Static Code Analysis Tools (SCAT)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 ↗ [📌 Computer Profiling & System Visibility](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
 
 ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SeedLab - Web Security /👉 SQL Injection Attack Lab](../../../../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Web%20Security.md#👉%20SQL%20Injection%20Attack%20Lab)
+↗ [SeedLab - Web Security /👉 SQL Injection Attack Lab](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Web%20Security.md#👉%20SQL%20Injection%20Attack%20Lab)
 
 
 
@@ -23,3 +23,23 @@
     Sql盲注可以简单分为三类 ：布尔盲注、延时盲注和报错盲注
 
 [👍 SQL注入之布尔盲注并使用burp进行自动化爆破]: https://www.haochen1204.com/2021/03/29/sql-zhu-ru-zhi-bu-er-mang-zhu-bing-shi-yong-burp-jin-xing-zi-dong-hua-bao-po/#toc-heading-1
+
+[SQL injection Black Magic | p4d0rn]: https://p4d0rn.github.io/2023/08/05/sqli/
+1. [延时注入](https://p4d0rn.github.io/2023/08/05/sqli/#%E5%BB%B6%E6%97%B6%E6%B3%A8%E5%85%A5)
+2. [Order By盲注](https://p4d0rn.github.io/2023/08/05/sqli/#Order-By%E7%9B%B2%E6%B3%A8)
+3. [黑名单绕过](https://p4d0rn.github.io/2023/08/05/sqli/#%E9%BB%91%E5%90%8D%E5%8D%95%E7%BB%95%E8%BF%87)
+    1. [substr过滤](https://p4d0rn.github.io/2023/08/05/sqli/#substr%E8%BF%87%E6%BB%A4)
+    2. [逗号过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E9%80%97%E5%8F%B7%E8%BF%87%E6%BB%A4)
+    3. [空格过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E7%A9%BA%E6%A0%BC%E8%BF%87%E6%BB%A4)
+    4. [引号过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E5%BC%95%E5%8F%B7%E8%BF%87%E6%BB%A4)
+    5. [比较符过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E6%AF%94%E8%BE%83%E7%AC%A6%E8%BF%87%E6%BB%A4)
+    6. [逻辑符过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E9%80%BB%E8%BE%91%E7%AC%A6%E8%BF%87%E6%BB%A4)
+    7. [if过滤](https://p4d0rn.github.io/2023/08/05/sqli/#if%E8%BF%87%E6%BB%A4)
+    8. [注释符过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E6%B3%A8%E9%87%8A%E7%AC%A6%E8%BF%87%E6%BB%A4)
+    9. [关键字过滤](https://p4d0rn.github.io/2023/08/05/sqli/#%E5%85%B3%E9%94%AE%E5%AD%97%E8%BF%87%E6%BB%A4)
+    10. [等价函数](https://p4d0rn.github.io/2023/08/05/sqli/#%E7%AD%89%E4%BB%B7%E5%87%BD%E6%95%B0)
+4. Articles To Learn
+	1. https://www.jianshu.com/p/d10785d22db2
+	2. https://www.cnblogs.com/forforever/p/13019703.html
+	3. https://www.cnblogs.com/Vinson404/p/7253255.html
+	4. https://wooyun.js.org/drops/MySQL%E6%B3%A8%E5%85%A5%E6%8A%80%E5%B7%A7.html

@@ -7,7 +7,7 @@
 ## Res
 ↗ [MD (Message Digest)](../../../🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/MD%20(Message%20Digest)/MD%20(Message%20Digest).md)
 
-↗ [SeedLab - Cryptography /👉 MD5 Collision Attack Lab](../../../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md#👉%20MD5%20Collision%20Attack%20Lab)
+↗ [SeedLab - Cryptography /👉 MD5 Collision Attack Lab](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md#👉%20MD5%20Collision%20Attack%20Lab)
 
 
 

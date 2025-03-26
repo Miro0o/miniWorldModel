@@ -1,4 +1,4 @@
-# Kill Chain
+# Kill Chain & Security Tool Box
 
 [TOC]
 
@@ -29,6 +29,14 @@ xray 社区是长亭科技推出的免费白帽子工具平台，目前社区有
 https://defuse.ca
 Please feel free to check out, download, and share some of our free software, services, and research...
 
+👍 [sectools.org](https://sectools.org)
+
+[awesome-security](https://github.com/sbilly/awesome-security) 
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
+[Awesome-CTF](https://github.com/apsdehal/awesome-ctf)
+[enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
+[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
+
 
 
 ## Intro: Kill Chain
@@ -49,6 +57,28 @@ A typical kill chain of an attacker can be described as follows:
 - **Achieve phase – Action on the Objective**: This is frequently, and incorrectly, referred to as the exfiltration phase because there is a focus on perceiving attacks solely as a route to steal sensitive data (such as login information, personal information, and financial information); it is common for an attacker to have a different objective. For example, a business may wish to cause a denial of service in their competitor's network to drive customers to their own website. Therefore, this phase must focus on the many possible actions of an attacker. One of the most common exploit activity occurs when the attackers attempt to improve their access privileges to the highest possible level (**vertical escalation**) and to compromise as many accounts as possible (**horizontal escalation**).  
 
 - **Achieve phase – Persistence**: If there is value in compromising a network or system, then that value can likely be increased if there is persistent access. This allows attackers to maintain communications with a compromised system. From a defender's point of view, this is the part of the kill chain that is usually the easiest to detect.
+
+
+
+## 「知道创宇」404 星链计划
+🚧 https://github.com/knownsec/404StarLink
+404星链计划 / 404 StarLink Project
+「404星链计划」是知道创宇 404 实验室于 2020 年 8 月开始的计划，主要目的是改善安全圈内工具庞杂、水平层次不齐、开源无人维护的多种问题，促进安全开源社区的发展；通过这种方式将不同安全领域研究人员与开源项目链接起来。
+
+星链计划将不断地收集优秀的安全开源项目，对收录的项目提供技术支持，持续跟踪和展示项目的更新和动态，并建立了星链计划社区，社区用户可以通过星链展示板块探索自己感兴趣的项目，同时还可以在社区内快速为开源作者反馈问题。以此方式帮助开源项目成长，促进安全社区发展
+- [甲方工具](https://github.com/knownsec/404StarLink/blob/master/party_a.md)
+- [信息收集](https://github.com/knownsec/404StarLink/blob/master/reconnaissance.md)
+- [漏洞探测](https://github.com/knownsec/404StarLink/blob/master/vulnerability_assessment.md)
+- [攻击与利用](https://github.com/knownsec/404StarLink/blob/master/penetration_test.md)
+- [信息分析](https://github.com/knownsec/404StarLink/blob/master/information_analysis.md)
+- [内网工具](https://github.com/knownsec/404StarLink/blob/master/intranet_tools.md)
+- [其他](https://github.com/knownsec/404StarLink/blob/master/others.md)
+8.[入选2021Kcon黑客大会兵器谱](https://github.com/knownsec/404StarLink/blob/master/column/2021KCon_exhibition_with_starlink.md)  
+9.[入选2022Kcon黑客大会兵器谱](https://github.com/knownsec/404StarLink/blob/master/column/2022KCon_exhibition_with_starlink.md)  
+10.[入选2023Kcon黑客大会兵器谱](https://github.com/knownsec/404StarLink/blob/master/column/2023KCon_exhibition_with_starlink.md)  
+11.[星链计划全部项目](https://github.com/knownsec/404StarLink/blob/master/allprojects.md)  
+12.[正在申请加入的项目](https://github.com/knownsec/404StarLink/issues)  
+13.[星链计划视频演示栏目-星际奇兵](https://github.com/knownsec/404StarLink/blob/master/column/starlink_project_video.md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 ### Learning Resources
@@ -35,11 +35,11 @@ Sublist3r is a Python-based tool that can be utilized during domain harvesting, 
 
 
 ### 👉 Maltego
-↗ [Meltego](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Meltego.md)
+↗ [Meltego](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Meltego.md)
 
 
 ### 👉 OSRFramework
-↗ [OSRFramework](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSRFramework.md)
+↗ [OSRFramework](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSRFramework.md)
 
 
 ### Web Scraping
@@ -141,7 +141,7 @@ Using theHarvester is relatively simple, as there are only a few command switche
 
 ### Creating custom wordlists for cracking passwords
 #### 👉 CUPP
-↗ [CUPP (Common User Password Profiler)](../../../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
+↗ [CUPP (Common User Password Profiler)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
 
 
 #### twofi

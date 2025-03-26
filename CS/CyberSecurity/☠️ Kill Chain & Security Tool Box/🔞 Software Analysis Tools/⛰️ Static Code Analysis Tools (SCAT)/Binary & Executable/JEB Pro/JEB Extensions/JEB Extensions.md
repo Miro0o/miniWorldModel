@@ -34,7 +34,7 @@ At the highest-level, JEB is separated into back-end and front-end components:
 - The back-end components are responsible for processing input artifacts. They provide an execution environment for native and third-party plugins, including processor plugins, such as file parsers.
 - The front-end components are responsible for processing input commands and rendering back-end results. A variety of front-ends may be created using the API exposed by the back-end.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240507191822.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240507191822.png)
 <small>https://www.pnfsoftware.com/jeb/manual/dev/introducing-jeb-extensions/</small>
 
 

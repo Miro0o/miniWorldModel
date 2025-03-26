@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reverse & Binary Analysis Tools](../../../../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Static Code Analysis Tools (SCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 - gadget
 
 

@@ -11,7 +11,7 @@
 
 
 ### Related Topics
-↗ [Kill Chain](../../../☠️%20Kill%20Chain/Kill%20Chain.md)
+↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 
 
 ### Learning Resources

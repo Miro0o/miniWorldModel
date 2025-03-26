@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
-- ↗ [Login Cracker](../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker/Login%20Cracker.md)
+↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
+- ↗ [Login Cracker](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker/Login%20Cracker.md)
 
 ↗ [Password Attack](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Password%20Attack/Password%20Attack.md)
 

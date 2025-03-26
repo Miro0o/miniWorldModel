@@ -49,7 +49,7 @@ other Dev-env includes:
 
 ###### steps:
 
-1.  [[../../../../../../../CyberSecurity/☠️ Kill Chain/🐉 Kali Linux/Troubleshooting|Linux]]: 
+1.  [[../../../../../../../CyberSecurity/☠️ Kill Chain & Security Tool Box/🐉 Kali Linux/Troubleshooting|Linux]]: 
 
 [to lookup process on linux](https://cloud.tencent.com/developer/article/1711858)
 ```shell

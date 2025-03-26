@@ -56,12 +56,36 @@
             }
           },
           {
+            "id": "90af4706cc5c18f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Academics 🎓/🗒️ My Academic Projects Workspace/LLM & Software Analysis/LLM & Fuzzing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLM & Fuzzing"
+            }
+          },
+          {
             "id": "7288ca2b7d98c39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/📌 OSINT & Passive Recon Tools/Packet Analyzing & Sniffing & Spoofing Tools/BurpSuite.md",
+                "file": "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/Reconnaissance & Exploration/📌 OSINT & Passive Recon Tools/Packet Analyzing & Sniffing & Spoofing Tools/BurpSuite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,17 +104,103 @@
             }
           },
           {
-            "id": "90af4706cc5c18f3",
+            "id": "cb1b5d2684a7b9c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vim Basic Usages"
+            }
+          },
+          {
+            "id": "c805205c9387fb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "👍 Vim"
+            }
+          },
+          {
+            "id": "257c7a036237d44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Interpreted Languages/Python/Python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "402bb368e166acc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Ysomap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ysomap"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5026054382324,
-    "collapsed": true
+    "width": 461.5026054382324
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -193,12 +302,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Ysomap.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ysomap"
             }
           },
           {
@@ -231,6 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Ysomap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +351,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ysomap"
             }
           }
         ],
@@ -265,39 +376,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90af4706cc5c18f3",
+  "active": "402bb368e166acc6",
   "lastOpenFiles": [
-    "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/📌 OSINT & Passive Recon Tools/Packet Analyzing & Sniffing & Spoofing Tools/BurpSuite.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/SQL Injection/SQL Injection.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/Logics & Verification & Provers/Satisfiability (SAT) Solver/Satisfiability (SAT) Solver.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/Malicious Code & Behavior Discovery.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/Large Scale Software Analysis",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Dynamics Code Analysis Tools (DCAT).md",
+    "CS/CyberSecurity/System Security/🏃 System Runtime Security/System Runtime Security.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/🌋 Dynamics Code Analysis Tools (DCAT)/Program Profiling & Dynamic Instrumentation/Program Profiling & Dynamic Instrumentation.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Static Code Analysis Tools (SCAT).md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Static Code Analysis Tools (SCAT).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 SCA (Static Code Analysis) & SAST/SCA (Static Code Analysis) & SAST.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Ysomap.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/Kill Chain & Security Tool Box.md",
     "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Architectures.md",
-    "CS/🔑 CS Core/🧙‍♂️ Algorithm & Data Structure/Data Compression Technologies/Media Formats & Standards & Codec (Coder-Decoder)/Graphics Formats & Standards/Graphics Formats & Standards.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Language & Ecosystems/Java Web.md",
-    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/TABBY.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/CodeQL.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Tai-e.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT/Sootup.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🏕️ Threat & Attack Models/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
-    "CS/CyberSecurity/System Security/🏃 System Runtime Security/RASP (Runtime Application Self-Protection)/RASP (Runtime Application Self-Protection).md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Capstone.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable/angr.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Keystone.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Android SCAT/androguard.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Comprehensive & Source Code/CodeQL.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable/radare2.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable/capa.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Android SCAT/axplorer.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Android SCAT",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Comprehensive & Source Code/Source Insight.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable/libc search.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Binary & Executable/Ghidra/Ghidra.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Comprehensive & Source Code",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
+    "CS/🔑 CS Core/👩‍💻 Computer Languages & Programming Methodology/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+    "CS/CyberSecurity/☠️ Kill Chain & Security Tool Box/🔞 Software Analysis Tools/⛰️ Static Code Analysis Tools (SCAT)/Java SCAT",
     "Assets/Pics/Pasted image 20250324220100.png",
     "Assets/Pics/Pasted image 20250324215612.png",
-    "CS/CyberSecurity/System Security/🏃 System Runtime Security/System Runtime Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 DCA (Dynamic Code Analysis) & DAST/DCA (Dynamic Code Analysis) & DAST.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 DCA (Dynamic Code Analysis)/DAST (Dynamic Application Security Testing).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 SCA (Static Code Analysis) & SAST/SCA (Static Code Analysis) & SAST.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/📌 SCA (Static Code Analysis)/SAST (Static Application Security Testing).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
-    "CS/CyberSecurity/System Security/Cloud Security/🩳 Cloud-Native System Runtime Security/Cloud-Native System Runtime Security.md",
     "CS/CyberSecurity/System Security/🏃 System Runtime Security/RASP (Runtime Application Self-Protection)",
-    "CS/🔑 CS Core/👷🏾‍♂️ Computer (Host) System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
-    "CS/🔑 CS Core/🛣️ Program Compilation & Execution/🤡 Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
     "CS/CyberSecurity/System Security/🏃 System Runtime Security",
-    "CS/CyberSecurity/System Security/Database System Security/Database Systems & Web Security/Database Systems & Web Security.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/Application Servers.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Application Servers/WebSphere/WebSphere.md",
     "Assets/Pics/Pasted image 20250324211154.png",
     "Assets/Pics/Pasted image 20250324210438.png",
     "Assets/Pics/Pasted image 20250324210226.png",
@@ -308,11 +424,6 @@
     "Assets/Pics/Pasted image 20250324153843.png",
     "Assets/Pics/IMG_5115.png",
     "CS/🗺 CS Overview/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Entertainment Industry/Video Game Industry",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/TURN (Traversal Using Relays around NAT) & DERP",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT Traversal/STUN (Session Traversal Utilities for NAT)",
-    "CS/Embedded Development, Internet of Things & Robot/Embedded Programming & Software Development/Languages",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Address Selection",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🚔 Network Managements & Standards/🏘️ Local Configuration & Discovery/Name Service Discovery",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",

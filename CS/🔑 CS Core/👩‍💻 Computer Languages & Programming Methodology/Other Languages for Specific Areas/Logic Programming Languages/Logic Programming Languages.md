@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Logics & Verification & Provers](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Logics%20&%20Verification%20&%20Provers.md)
-- ↗ [Satisfiability (SAT) Solver](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Satisfiability%20(SAT)%20Solver/Satisfiability%20(SAT)%20Solver.md)
-- ↗ [Satisfiability Modulo Theory (SMT) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/🧘‍♂️%20Logics%20&%20Verification%20&%20Provers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers.md)
+↗ [Logics & Verification & Provers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Logics%20&%20Verification%20&%20Provers/Logics%20&%20Verification%20&%20Provers.md)
+- ↗ [Satisfiability (SAT) Solver](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Logics%20&%20Verification%20&%20Provers/Satisfiability%20(SAT)%20Solver/Satisfiability%20(SAT)%20Solver.md)
+- ↗ [Satisfiability Modulo Theory (SMT) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Logics%20&%20Verification%20&%20Provers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers/Satisfiability%20Modulo%20Theory%20(SMT)%20Solvers.md)
 
 
 

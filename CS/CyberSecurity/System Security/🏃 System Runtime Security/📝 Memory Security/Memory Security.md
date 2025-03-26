@@ -21,7 +21,7 @@
 - [Memory Safety Vulnerabilities](https://textbook.cs161.org/memory-safety/vulnerabilities.html)
 - [Mitigating Memory-Safety Vulnerabilities](https://textbook.cs161.org/memory-safety/mitigations.html)
 
-👍 [SeedLab - Software Security](../../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
+👍 [SeedLab - Software Security](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
 
 
 

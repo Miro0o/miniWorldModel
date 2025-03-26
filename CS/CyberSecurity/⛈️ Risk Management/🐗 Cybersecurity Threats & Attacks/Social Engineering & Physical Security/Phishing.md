@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Gophish](../../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/Gophish.md)
+↗ [Gophish](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Social%20Engineering%20Tools/Gophish.md)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Escalating an attack using DNS redirection
 #### 👉 `BetterCap`
-↗ [BetterCap](../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/BetterCap/BetterCap.md)
+↗ [BetterCap](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/BetterCap/BetterCap.md)
 ↗ [Social Engineering & Physical Security](Social%20Engineering%20&%20Physical%20Security.md)
 
 
