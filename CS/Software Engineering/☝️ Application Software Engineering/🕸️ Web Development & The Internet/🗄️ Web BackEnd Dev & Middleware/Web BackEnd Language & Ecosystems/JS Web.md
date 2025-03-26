@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [JS Web Backend Frameworks](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20Web%20Backend%20Frameworks/JS%20Web%20Backend%20Frameworks.md)
+↗ [JS Web Application Security](../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/👾%20Language%20Specific%20Web%20Application%20Security%20Risks/JS%20Web%20Application%20Security/JS%20Web%20Application%20Security.md)
 
 
 ### 🎨 JS Frameworks

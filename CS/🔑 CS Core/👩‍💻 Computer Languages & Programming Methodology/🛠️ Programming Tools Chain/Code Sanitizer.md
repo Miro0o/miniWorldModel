@@ -20,4 +20,3 @@ A code sanitizer is a programming tool that detects bugs in the form of undefine
 
 ## Ref
 [Code Sanitizor]: https://en.wikipedia.org/wiki/Code_sanitizer
-

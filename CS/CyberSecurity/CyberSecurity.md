@@ -204,9 +204,10 @@ TiDE 安全团队
 - http://paper.tidesec.com
 
 ---
-https://book.hacktricks.xyz
+👍 https://book.hacktricks.xyz
 HackTricks
 HackTricks is a educational Wiki that compiles knowledge about **cyber-security** lead by Carlos with hundreds of collaborators! It's a **huge collection of hacking tricks** that is updated by the community much as possible to keep it up to date.
+HackTricks is also a wiki were **a lot of researches also share their latest findings**, so it's a great place to keep up to date with the latest hacking techniques.
 
 ---
 https://swtch.com/~rsc/

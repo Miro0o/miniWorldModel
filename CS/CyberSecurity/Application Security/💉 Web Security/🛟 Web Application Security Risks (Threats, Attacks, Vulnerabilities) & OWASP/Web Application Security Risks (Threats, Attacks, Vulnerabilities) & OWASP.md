@@ -17,6 +17,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Related Topics
 ↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [CWE (Common Weakness Enumeration)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🔬%20Software%20Weakness%20Analysis%20&%20Attack%20Surface/CWE%20(Common%20Weakness%20Enumeration).md)
 
 
 

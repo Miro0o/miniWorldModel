@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [C Standard Libraries](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20C%20Standard%20Libraries/C%20Standard%20Libraries.md)
-↗ [CPP Standard Libraries](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20CPP%20Standard%20Libraries/CPP%20Standard%20Libraries.md)
+↗ [Standard C Libraries](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20Standard%20C%20Libraries/Standard%20C%20Libraries.md)
+↗ [Standard CPP Libraries](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20Standard%20CPP%20Libraries/Standard%20CPP%20Libraries.md)
 ↗ [POSIX (Portable Operating System Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [Application Runtimes & SDKs](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)

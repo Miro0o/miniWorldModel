@@ -15,7 +15,7 @@
 - ↗ [Windows API](../../../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/Windows%20API.md)
 
 ↗ [Linux System Calls](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md) ⭐
-- ↗ [Linux System Calls on Intel x86 CPU](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls%20on%20Intel%20x86%20CPU/Linux%20System%20Calls%20on%20Intel%20x86%20CPU.md)
+- ↗ [Linux System Calls on Intel x86 CPU](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/ISA%20Specific%20Linux%20System%20Calls/Linux%20System%20Calls%20on%20Intel%20x86%20CPU.md)
 ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
 ↗ [Operating System Kernel (Kernel Mode)](../../../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)

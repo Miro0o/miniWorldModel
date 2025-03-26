@@ -12,6 +12,8 @@
 ↗ [System Calls](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 ↗ [Privilege Level & Protection Ring](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+[C & CPP](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+[C-like Runtimes](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 
 
 ### Learning Resources
@@ -21,9 +23,12 @@
 
 ## Intro
 > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/syscalls.html
+> 🔗 https://man7.org/linux/man-pages/man2/syscalls.2.html
 
 > 🔍 `man 2 syscalls`
 > 🔍 `man 2 intro`
+
+The system call is the fundamental interface between an application and the Linux kernel.
 
 
 ### System Calls and Library Wrapper Functions
@@ -35,17 +40,18 @@ A system call is an entry point into the Linux kernel. Usually, system calls are
 Often the `glibc` wrapper function is quite thin, doing little work other than:
 - copying arguments and the unique system call number to the registers where the kernel expects them;
 - trapping to kernel mode, at which point the kernel does the real work of the system call;
-- setting errno if the system call returns an error number when the kernel returns the CPU to user mode.
+- setting  _[errno](https://man7.org/linux/man-pages/man3/errno.3.html)_ appropriately if the system call returns an error number when the kernel returns the CPU to user mode. (These are the same steps that are performed by [syscall(2)](https://man7.org/linux/man-pages/man2/syscall.2.html), which can be used to invoke system calls for which no wrapper function is provided.) 
 
-> Note: system calls indicate a failure by returning a negative error number to the caller on architectures without a separate error register/flag, as noted in `syscall(2)`; when this happens, the wrapper function negates the returned error number (to make it positive), copies it to errno, and returns -1 to the caller of the wrapper.
+>  Note: system calls indicate a failure by returning a negative error number to the caller on architectures without a separate error register/flag, as noted in [syscall(2)](https://man7.org/linux/man-pages/man2/syscall.2.html); when this happens, the wrapper function negates the returned error number (to make it positive), copies it to _[errno](https://man7.org/linux/man-pages/man3/errno.3.html)_, and returns -1 to the caller of the wrapper.
  
 However, in a few cases, a wrapper function may do rather more than this, for example, performing some preprocessing of the  arguments  before  trapping to kernel mode, or post-processing of values returned by the system call.  Where this is the case, the manual pages in Section 2 generally try to note the details of both the (usually  GNU)  C  library API interface and the raw system call.  Most commonly, the main DESCRIPTION will focus on the C library interface, and differences for the system call are covered in the NOTES section.
 
-> For example, nowadays there are (for reasons described below) two related system calls, truncate(2) and truncate64(2), and the `glibc` truncate() wrapper function checks which of those system calls are provided by the kernel and determines which should be employed.
+Sometimes, however, the wrapper function does some extra work before invoking the system call.  For example, nowadays there are (for reasons described below) two related system calls, [truncate(2)](https://man7.org/linux/man-pages/man2/truncate.2.html) and [truncate64(2)](https://man7.org/linux/man-pages/man2/truncate64.2.html), and the `glibc` `truncate()` wrapper function checks which of those system calls are provided by the kernel and determines which should be employed.
 
 
 ### Linux System Calls List
 > 🔍 `man 2 syscalls`
+> 🔗 https://man7.org/linux/man-pages/man2/syscalls.2.html
 
 
 ### 🤔 `syscall()` -- A Wrapper Function Invoking System Calls

@@ -117,8 +117,8 @@ Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 #### 👉 `trace` | `ktrace`
 #### 👉 `lstrace` | `ftrace`
 #### 👉 `gdb` | `valgrind` | etc.
-↗ [gdb (GNU DeBugger)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
-↗ [Valgrind](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md)
+↗ [gdb (GNU DeBugger)](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
+↗ [Valgrind](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Disassemblers%20&%20Decompilers/Valgrind.md)
 #### 👉 SystemTap | Perf | Kernel Debuggers
 
 

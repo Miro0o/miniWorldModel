@@ -1178,6 +1178,9 @@ bogus (bonus)
 - This whole thing is bogus shut it down! /这整个事情是假的，关掉它！
 - The bank has said investors were promised quick, high returns from a bogus financial scheme. /该银行表示，有人向投资者承诺可以迅速从一个虚假的金融计划中获得高额回报。
 
+bollix
+- bol-
+
 botch
 - **blunder**的错误;**shoddy**劣质的;**fail**失败，不及格;**redo**重做;**inept**不适当的;**fiasco**惨败;**mess**混乱;**horribly**可怕地;**disastrous**灾难性的;**sloppy**草率的;**debacle**崩溃;
 - [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
@@ -8331,8 +8334,8 @@ jive
 - Their rejuvenated virtual selves are eerily real: dancing, jiving and, between songs, joshing with the crowd (virtual Benny insisting that he is the real thing: " I just look very good for my age" ). /他们会跳舞、摇摆、在歌曲之间与观众开玩笑(虚拟的本尼坚称自己是真实的：“我只是保养得好而已”)。
 
 jocund
-- (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat)
-- (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+- exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat, triumphant, boisterous, upbeat, buoyant, flamboyant, joyous, cheerful)
+-  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 -  来自拉丁语 iocundus,来自 iucundus 拼写变体，缩写自*iuvicundus,来自 iuvare,帮助，帮忙，来自 iuvenis,年青人，词源同 young,juvenile,adjutant.其原义即年青人的，成长中的，帮忙的，帮助的，引申词义优雅的，让人愉悦的。后受拉丁词 jocus 影响，引申词义欢乐的，欢笑的。
 - a. 欢乐的, 高兴的
 - jocundity
@@ -12180,8 +12183,8 @@ rod
 - ramrod
 
 rollick
--  (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
-1.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+- (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat, triumphant, boisterous, upbeat, buoyant, flamboyant, joyous, cheerful)
+- (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 -  [frolic](dic://frolic), [lark](dic://lark), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
 - _v._ [play](dic://play)
 - **romp**嬉闹玩笑;**raucous**沙哑的;**rousing**活泼的;**jazzy**爵士乐的;**joyous**令人高兴的;**merry**愉快的;**boisterous**热闹的;**jolly**愉快的;**spirited**生机勃勃的;**exuberant**兴高采烈的;**gleefully**极快乐地,欢欣地;
@@ -16405,6 +16408,8 @@ tripe
 
 triumph
 - triumphant
+	- (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat, triumphant, boisterous, upbeat, buoyant, flamboyant, joyous, cheerful)
+	-  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 	- _adj._ [elated](dic://elated), [undefeated](dic://undefeated)
 	- [dejected](dic://dejected), [defeated](dic://defeated)
 	- **triumph**胜利，凯旋;**victorious**胜利的;**rousing**活泼的;**joyous**令人高兴的;**glorious**值得称道的;**victory**胜利;**gloriously**光荣地;**rejoicing**欣喜;**joyful**欢喜的;**triumphs**大胜利;**long-awaited**期待已久的;

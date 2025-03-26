@@ -2462,9 +2462,10 @@
 		11. emblematic
 	1. embolise, embolize
 		5. v. （使）栓塞
-		6. embolisation
-		7. embolization
-		8. embolism
+		6. Here is another marantic vegetation on the leftmost cusp. These vegetations are rarely over 0.5 cm in size. However, they are very prone to embolize. /这是另一例位于最左侧瓣膜侧的非细菌性细菌性心内膜炎的赘生物。此赘生物的大小很少超过0.5厘米。但是，此赘生物易脱落，形成栓塞。
+		7. embolisation
+		8. embolization
+		9. embolism
 			1. em在...内 + bol-抛 + -ism
 			2. n. 闰日, 栓塞
 			3. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
@@ -2486,11 +2487,27 @@
 		5. subproblem
 2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
 	1. bold
+		1.  [boldface](dic://boldface), [bold face](dic://bold face)
+		2.  [bluff](dic://bluff), [sheer](dic://sheer)
+		3. _n._ [font](dic://font), [fount](dic://fount), [typeface](dic://typeface), [face](dic://face)
+		4. _adj._ [audacious](dic://audacious), [brave](dic://brave), [dauntless](dic://dauntless), [fearless](dic://fearless), [intrepid](dic://intrepid), [unfearing](dic://unfearing), [daredevil](dic://daredevil)
+		5. _n._ [timid](dic://timid), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible), [gradual](dic://gradual)
+			1. [bold](dic://bold) 侧重指面对困难或危险时勇往直前，勇于进取的勇敢精神。  
+			2. [brave](dic://brave) 含义广泛，指天生的勇敢，无所畏惧地面对困难与危险，侧重胆识与果断。  
+			3. [courageous](dic://courageous) 正式用词，侧重指在一切情况下都有胆量，无所畏惧，强调基于道德信念，经深思熟虑后所产生的勇敢。  
+			4. [daring](dic://daring) 强调面临意外或危险时胆大心细，头脑冷静。褒义贬义均可用，贬义指胆大妄为。  
+			5. [heroic](dic://heroic) 正式用词，多指在战争或重大危险时，为他人为事业忘我献身的英雄气概。  
+			6. [fearless](dic://fearless) 语气肯定，侧重在危险时无所畏惧，毫无动摇。
+		6. **daring**大胆的，勇敢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**eye-catching**令人注意的;**courageous**勇敢的;**edgy**尖利的;**brazen**黄铜制的;**fearless**无畏的;**provocative**刺激的;**brave**勇敢的;**sassy**无礼的;
+		7. _in bold_ 粗体地；黑体的；加粗地
+		8. _bold face_ 黑体字；粗体铅字
 	2. bole
-		1. _n._ [pigment](dic://pigment), [soil](dic://soil), [dirt](dic://dirt), [stalk](dic://stalk), [stem](dic://stem), [West Chadic](dic://West Chadic)
-		2. **beech**山毛榉;**oak**橡树;**tree**树;**pine**松树;**fir**冷杉;**ke**科;**birch**桦木;**ka**灵魂,鬼魂,阴灵;**willow**柳木制品;
-		3. Every wind is fretted by his voice, almost every bole and branch feels the sting of his sharp feet. /每一阵风都被他的声音吹动， 几乎每一个树干和树枝都感受到他锋利的脚的刺痛
-		4. Nimbly the lad sprang to its bole, clinging cat-like for an instant before he clambered quietly to the ground below. /小伙子敏捷地跳到它的树干上， 像猫一样紧贴了一会儿， 然后他悄悄地爬到下面的地面上。
+		1. n. [林]树干；红玄武土
+		2. n. （Bole）人名；（法）博勒；（塞）博莱；（斐）姆博莱；（英）博尔
+		3. _n._ [pigment](dic://pigment), [soil](dic://soil), [dirt](dic://dirt), [stalk](dic://stalk), [stem](dic://stem), [West Chadic](dic://West Chadic)
+		4. **beech**山毛榉;**oak**橡树;**tree**树;**pine**松树;**fir**冷杉;**ke**科;**birch**桦木;**ka**灵魂,鬼魂,阴灵;**willow**柳木制品;
+		5. Every wind is fretted by his voice, almost every bole and branch feels the sting of his sharp feet. /每一阵风都被他的声音吹动， 几乎每一个树干和树枝都感受到他锋利的脚的刺痛
+		6. Nimbly the lad sprang to its bole, clinging cat-like for an instant before he clambered quietly to the ground below. /小伙子敏捷地跳到它的树干上， 像猫一样紧贴了一会儿， 然后他悄悄地爬到下面的地面上。
 	3. bollard (ballad, billiard, bollard)
 		1. strong post (as on a wharf or quay or ship for attaching mooring lines) /- n. <英>升降柱，升降地柱；系船柱； （Bollard）（捷）博拉尔德，（法）博拉尔（人名）
 			1. the road was closed to vehicular traffic with bollards
@@ -2498,22 +2515,44 @@
 		2. _n._ [post](dic://post)
 		3. **mooring**下锚;**railings**围栏;**walkway**通道，走道;**lorry**卡车;**winch**卷扬机,绞车,辘轳;**roadway**路面;**barge**驳船;**roundabout**绕行路线, 绕道, 环状交叉路;**embankment**路堤;**pedestrian**步行者;**rope**绳，绳索;
 		4. He watched a sailor twisting a hawser around a bollard and wished that he had chosen a profession that dealt with things and not with people. /他看着一名水手在系船柱上拧缆绳， 真希望他选择了一个处理事情而不是处理人的职业。
+		5. The floating **bollard** groove is an important component of Wannianzha ship lock. /浮式系船柱槽是万年闸船闸的重要组成部分。
+		6. This distraction caused me to lose concentration and hit a **bollard**. /是它们让我分心撞上护栏的。
 	4. bollix
-		1.  [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
-		2. _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry)
-		3. **daft**愚蠢可笑的;**bugger**家伙;**arse**屁股;**nonsense**谬论;**yer**你的,你们的;**twat**笨蛋;**drivel**淌口水,说傻话;
+		1. 1. vt. 把…弄糟；搞乱；笨手笨脚地弄坏
+		2.  [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
+		3. _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry)
+		4. **daft**愚蠢可笑的;**bugger**家伙;**arse**屁股;**nonsense**谬论;**yer**你的,你们的;**twat**笨蛋;**drivel**淌口水,说傻话;
+		5. His inference **bollix** dup the whole deal. /他的推论把整个事情弄糟了。
+		6. managed to bollix up the whole project. /设法将整个项目搞糟了
 	5. bale
 		1. n. 包；捆；灾祸；不幸 vt. 将……打包
-		2. _n._ [bundle](dic://bundle), [sheaf](dic://sheaf), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
-		3. _v._ [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [compile](dic://compile), [hoard](dic://hoard)
-		4. **hay**干草;**straw**稻草;**barn**谷仓;**cotton**棉花;**rope**绳，绳索;**manure**施肥于;**alfalfa**紫花苜蓿;**pallets**货盘;**hoop**箍;**pallet**简陋的小床;**cob**雄天鹅;
-		5. a metal band around the bale of cotton. ./捆绕棉包的金属带
-		6. bales of rude cotton /一大包一大包的原棉
-		7. bales of cotton on the factory floor /车间地板上大包大包的棉花
-		8. The hay was baled and piled. /干草捆好后再堆起来
-	7. baleen
+		2. 1. _n._ (货物)包,捆 _vt._ 将某物打成包或包装成捆
+		3. _n._ [bundle](dic://bundle), [sheaf](dic://sheaf), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
+		4. _v._ [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [compile](dic://compile), [hoard](dic://hoard)
+		5. **hay**干草;**straw**稻草;**barn**谷仓;**cotton**棉花;**rope**绳，绳索;**manure**施肥于;**alfalfa**紫花苜蓿;**pallets**货盘;**hoop**箍;**pallet**简陋的小床;**cob**雄天鹅;
+		6. _[baling](dic://baling)_  n. 打包（堆垛）；包装
+		7. _[bales](dic://bales)_  n. 捆（bale的复数）；毛包; v. 将…打包（bale的三单形式）; 
+		8. _[baling machine](dic://baling%20machine)_  包装机；打包机；捡拾压捆机
+		9. _[bales catch](dic://bales%20catch)_  自动扣
+		10. _[cotton bale](dic://cotton%20bale)_  棉包
+		11. _[bale off](dic://bale%20off)_  散包，散捆
+		12. _[bale press](dic://bale%20press)_  打包机；填料压机
+		13. _[round bale](dic://round%20bale)_  圆柱形草捆
+		14. _[hay bale](dic://hay%20bale)_  干草捆
+		15. _[bale breaking](dic://bale%20breaking)_  散包；[包装] 松包
+		16. I had a cowboy themed party and we had like, hay bales everywhere. /是一个牛仔主题派对，我们到处放干草捆来装饰。
+		17. This is me ready to slop, bale, or milk something. /这是我准备好去喂猪 打包或者挤奶了。
+		18. After ten years in the business, McArthur is baling out. /做了十年的生意，麦克阿瑟现在不想干了。
+		19. Some may also have to carry bales of straw on their backs. /有些可能还得背上成捆的稻草。
+		20. Hay bales, saloon door, maybe a surrey with a fringe on top. /干草捆，酒吧门，也许再来辆顶上带流苏的四轮马车。
+		21. 
+		22. a metal band around the bale of cotton. ./捆绕棉包的金属带
+		23. bales of rude cotton /一大包一大包的原棉
+		24. bales of cotton on the factory floor /车间地板上大包大包的棉花
+		25. The hay was baled and piled. /干草捆好后再堆起来
+	15. baleen
 		1. Groove-throated whales such as humpbacks have dense baleen that looks like a folded accordion /二是须鲸科——比如座头鲸，它的鲸须非常密，像合起来的手风琴。
-	8. boil
+	16. boil
 		1.  [furuncle](dic://furuncle)
 		2.  [boiling point](dic://boiling point)
 		3.  [churn](dic://churn), [moil](dic://moil), [roil](dic://roil)
@@ -2532,12 +2571,22 @@
 		16. _off the boil_ ◎刚停止沸腾;◎不再急于行动；不再处于最兴奋(或最活跃)的状态之中; 
 		17. the kettle's on the boil /壶水烧开了。
 		18. So, they were called " boiler plates. /所以，它们被称为“锅炉板”。
-	9. boulder
+	17. boulder
 		1.  [bowlder](dic://bowlder)
 		2. _n._ [rock](dic://rock), [stone](dic://stone), [town](dic://town)
 		3. **ledge**壁架;**rock**岩石;**sandstone**砂岩;**quarry**采石场;**pebble**卵石;**hill**小山;**cliffs**悬崖，峭壁;**granite**花岗岩;**cliff**绝壁;**limestone**石灰岩;**stone**
-	10. bowl
-	11. bulk
+	18. bowl
+		1.  [trough](dic://trough)
+		2. [bowlful](dic://bowlful)
+		3.  [stadium](dic://stadium), [arena](dic://arena), [sports stadium](dic://sports stadium)
+		4.  [bowling ball](dic://bowling ball)
+		5.  [pipe bowl](dic://pipe bowl)
+		6. _n._ [vessel](dic://vessel), [concave shape](dic://concave%20shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature), [dish](dic://dish), [containerful](dic://containerful)
+		7. _v._ [wheel](dic://wheel), [roll](dic://roll), [play](dic://play)
+		8. **spoon**匙，勺子;**jug**水壶;**saucepan**深平底锅;**soup**汤，羹;**cup**杯子;**dish**碟，盘;**spoonful**一匙;**platter**大浅盘;**casserole**焙盘;**vase**花瓶;**whisk**拂;
+		9. He gave the bowl a thorough lick. /他把饭碗舔得一干二净。
+		10. Various vehicles bowl along over the smooth highway. /各种车辆在平坦的高速公路上疾驶。
+	19. bulk
 		1. n. 体积，容量；大块；大多数，大部分vt. 使扩大，使形成大量；使显得重要
 		2. [majority](dic://majority)
 		3. [mass](dic://mass), [volume](dic://volume)
@@ -2548,39 +2597,41 @@
 		8. This microbial life is the bulk of life on Earth. /这种微生物是地球上的生命的一大部分。
 		9. I  put on five ounces this year. I've really bulked up. /今年我一下就长了五两，现在的我可是个大块头了。
 		10. At the same time, women make up the bulk of the poor. /除此之外，贫困人口中女性数量庞大。
-	13. bulwark
+	20. bulwark
 		1.  [rampart](dic://rampart), [wall](dic://wall)
 		2.  [breakwater](dic://breakwater), [groin](dic://groin), [groyne](dic://groyne), [mole](dic://mole), [seawall](dic://seawall), [jetty](dic://jetty)
 		3. _n._ [embankment](dic://embankment), [barrier](dic://barrier)
 		4. _v._ [defend](dic://defend)
 		5. **bastion**棱堡;**safeguard**防护措施, 安全设施;**pillar**柱子，柱形物;**stronghold**要塞;**fortress**要塞;**citadel**城堡;**hegemony**霸权;**protector**保护人;**stalwart**坚定的;**fortification**加强;**bedrock**根底;
-	14. ebullience
-		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
-		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
-		2. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
-		3. **exuberant**兴高采烈的;**enthusiasm**热情, 热心;**optimism**乐观;**euphoria**精神欢快，欣快;**fervor**热情;**brilliance**才华,才智;**zest**风味;**unbridled**无辔头的;**spontaneity**自然性;**vigor**活力，精力;**cynicism**犬儒主义;
-		4. the ebullience of youth /青年人的热情洋溢
-		5. She burst into the room with her usual ebullience, and immediately start talking to everyone /她像往常一样兴高采烈地冲进了房间，立刻跟大家攀谈起来。
-		6. And now let's talk about Venice, AKA, the floating city, which has so much rich history, art, architecture, and charm, that it can bring a sort of ebullience to many who visit. /现在让我们谈谈威尼斯，又名水上城市，这座城市拥有着丰富的历史，艺术、建筑和魅力，令许多游客流连忘返。
-		7. ebullient
-			1. _adj._ [spirited](dic://spirited)
-			2. _n._ [spiritless](dic://spiritless)
-			3. **exuberant**兴高采烈的;**boisterous**热闹的;**upbeat**上升;**buoyant**有浮力的;**joyous**令人高兴的;**cheerful**高兴的;**energetic**精力充沛的, 充满活力的;**raucous**沙哑的;**enthusiastic**满腔热情的, 热心的;**cheery**愉快的，活泼的;**flamboyant**显眼的, 浮夸的, 炫耀的;
-			4. adj. 热情洋溢的；沸腾的
-			5. I would say somewhere between ebullient and ecstatic. /我想这里的氛围介于兴高采烈和狂喜之间。
-			6. At this he lapsed into ebullient laughter again-and so did I, my suspicions gradually receding /他又发出了一串串的笑声，我也笑了，我的怀疑慢慢被消除。
-			7. " The sloop Anarchy, " wrote an ebullient journalist, " when last heard from was ashore on Union rocks." The First Election. /“无政府状态号单桅帆船， ” 一位热情洋溢的记者写道，“最后一次听到消息是在联合礁上。 ” 第一次选举。
-			8. The Prime Minister was in **ebullient** mood. /首相兴致勃勃。
-		8. ebullition
-	16. follicle
+	21. ebullience
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat, triumphant)
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+		3. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
+		4. **exuberant**兴高采烈的;**enthusiasm**热情, 热心;**optimism**乐观;**euphoria**精神欢快，欣快;**fervor**热情;**brilliance**才华,才智;**zest**风味;**unbridled**无辔头的;**spontaneity**自然性;**vigor**活力，精力;**cynicism**犬儒主义;
+		5. the ebullience of youth /青年人的热情洋溢
+		6. She burst into the room with her usual ebullience, and immediately start talking to everyone /她像往常一样兴高采烈地冲进了房间，立刻跟大家攀谈起来。
+		7. And now let's talk about Venice, AKA, the floating city, which has so much rich history, art, architecture, and charm, that it can bring a sort of ebullience to many who visit. /现在让我们谈谈威尼斯，又名水上城市，这座城市拥有着丰富的历史，艺术、建筑和魅力，令许多游客流连忘返。
+		8. ebullient
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat, triumphant, boisterous, upbeat, buoyant, flamboyant, joyous, cheerful)
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+			3. _adj._ [spirited](dic://spirited)
+			4. _n._ [spiritless](dic://spiritless)
+			5. **exuberant**兴高采烈的;**boisterous**热闹的;**upbeat**上升;**buoyant**有浮力的;**joyous**令人高兴的;**cheerful**高兴的;**energetic**精力充沛的, 充满活力的;**raucous**沙哑的;**enthusiastic**满腔热情的, 热心的;**cheery**愉快的，活泼的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+			6. adj. 热情洋溢的；沸腾的
+			7. I would say somewhere between ebullient and ecstatic. /我想这里的氛围介于兴高采烈和狂喜之间。
+			8. At this he lapsed into ebullient laughter again-and so did I, my suspicions gradually receding /他又发出了一串串的笑声，我也笑了，我的怀疑慢慢被消除。
+			9. " The sloop Anarchy, " wrote an ebullient journalist, " when last heard from was ashore on Union rocks." The First Election. /“无政府状态号单桅帆船， ” 一位热情洋溢的记者写道，“最后一次听到消息是在联合礁上。 ” 第一次选举。
+			10. The Prime Minister was in **ebullient** mood. /首相兴致勃勃。
+		9. ebullition
+	22. follicle
 		1. _n._ [vesicle](dic://vesicle), [cyst](dic://cyst)
 		2. **ovary**子房;**cyst**胞,包囊,膀胱;**hair**头发;**embryo**胚胎;**scalp**头皮;**epithelium**上皮;**ovarian**卵巢的;**ovulation**排卵;**cysts**囊;**uterus**子宫;**gland**腺;
 		3. _hair follicle_ 毛囊
 		4. _follicle stimulating hormone_ 促滤泡激素，促卵泡激素
-5. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
+4. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 	1. bolograph
 	2. bolometer
-6. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
+5. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
 	1. bulla
 		1. n. 大疱；垂饰
 		2. [blister](dic://blister), [bleb](dic://bleb)
@@ -2684,13 +2735,13 @@
 		4. _v._ [overawe](dic://overawe), [cow](dic://cow)
 		5. **bison**北美野牛;**elk**麋鹿;**cow**奶牛，母牛;**goat**山羊;**moose**驼鹿;**cattle**牛;**deer**鹿，梅花鹿;**chicken**小鸡;**herds**畜群;**cowboys**牛仔;**rhino**钱;
 		6. _water buffalo_ 水牛
-5. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
+6. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
 	1. follicular
 	2. epifolliculitis
 	3. folliculin
 	4. folliculitis
 	5. folliculoma
-6. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
+7. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
 	1. phallus [美 /'fæləs/](cmd://Speak/_us_/phallus)
 		1. 阴茎；阳物之图像；[生]交接器原基（分化后则成为阴蒂或阴茎）
 		2. [genus Phallus](dic://genus Phallus)
@@ -2716,13 +2767,13 @@
 		1. _[ithyphallic](dic://ithyphallic)_  猥亵的诗; 猥亵诗的;
 	3. phallocampsis
 	4. phallocrypsis
-7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
+8. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
 	1. phellem
 		1. n. 木栓层
 	2. phelloderm
 	3. phellogen
 		1. n. 木栓形成层
-8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
+9. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
 	1. phlebitis
 		1. _[phlebitis](dic://phlebitis)_  n. [内科] 静脉炎
 		2. _n._ [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor)
@@ -2732,8 +2783,8 @@
 	5. phlebotomy
 		1. _[phlebotomy](dic://phlebotomy)_  n. 刺骼；放血
 	6. arteriophlebotomy
-9. fool
-10. billow （pillow, willow）
+10. fool
+11. billow （pillow, willow）
 	1. 词源同 ball,球，鼓起。
 	2. n. 巨浪  
 	3. vi. 象巨浪般汹涌, 象巨浪般波动  

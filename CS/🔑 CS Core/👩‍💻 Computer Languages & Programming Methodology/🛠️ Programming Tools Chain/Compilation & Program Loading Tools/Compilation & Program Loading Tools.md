@@ -16,11 +16,11 @@
 
 ↗ [IDE (Integrated Development Environment)](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
 
-↗ [LLVM](LLVM/LLVM.md)
-- ↗ [clang](LLVM/clang.md)
+↗ [LLVM](🦅%20LLVM/LLVM.md)
+- ↗ [clang](🦅%20LLVM/clang.md)
 
-↗ [GCC (The GNU Compiler Collection)](GCC%20(The%20GNU%20Compiler%20Collection)/GCC%20(The%20GNU%20Compiler%20Collection).md)
-- ↗ [gcc (GNU C Compiler)](GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)
+↗ [GCC (The GNU Compiler Collection)](🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/GCC%20(The%20GNU%20Compiler%20Collection).md)
+- ↗ [gcc (GNU C Compiler)](🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)
 
 ↗ [JS Engines (JS Compilation)](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
 - ↗ [Google V8](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)

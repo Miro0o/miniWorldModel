@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [C & CPP](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-- ↗ [C Standard Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20C%20Standard%20Libraries/C%20Standard%20Libraries.md)
-- ↗ [CPP Standard Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20CPP%20Standard%20Libraries/CPP%20Standard%20Libraries.md)
+- ↗ [Standard C Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20Standard%20C%20Libraries/Standard%20C%20Libraries.md)
+- ↗ [Standard CPP Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20Standard%20CPP%20Libraries/Standard%20CPP%20Libraries.md)
 
 ↗ [C-like Runtimes](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 

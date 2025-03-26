@@ -18,12 +18,12 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 ## Compilers
 > ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
-> ↗ [CC (Compiler Compilers)](Compilation%20&%20Program%20Loading%20Tools/📌%20CC%20(Compiler%20Compilers)/CC%20(Compiler%20Compilers).md)
+> ↗ [CC (Compiler Compilers)](Compilation%20&%20Program%20Loading%20Tools/Compilers/📌%20CC%20(Compiler%20Compilers)/CC%20(Compiler%20Compilers).md)
 
 
-↗ [gcc (GNU C Compiler)](Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)
+↗ [gcc (GNU C Compiler)](Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)
 
-↗ [clang](Compilation%20&%20Program%20Loading%20Tools/LLVM/clang.md)
+↗ [clang](Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/clang.md)
 
 
 
@@ -38,11 +38,11 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 ## Debugers & DisASM
 ### gdb
-> Original ↗ [gdb (GNU DeBugger)](Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md) or enhanced gdb below 😃
+> Original ↗ [gdb (GNU DeBugger)](Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md) or enhanced gdb below 😃
 
 
 ### lldb
-> Original ↗ [lldb](Compilation%20&%20Program%20Loading%20Tools/LLVM/lldb/lldb.md) or enhanced gdb below 😃
+> Original ↗ [lldb](Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/lldb/lldb.md) or enhanced gdb below 😃
 
 
 ### Other DBGs

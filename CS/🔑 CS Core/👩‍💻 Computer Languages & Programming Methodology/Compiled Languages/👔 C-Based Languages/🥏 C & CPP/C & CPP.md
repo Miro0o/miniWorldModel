@@ -15,7 +15,10 @@ C++98, C++03, [C++11](https://en.cppreference.com/w/cpp/11 "cpp/11"), [C++14](
 
 ### Related Topics
 ↗ [Operating System & OS Kernel (Theory Part)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 ↗ [System Software Engineering](../../../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
+
+↗ [C-like Runtimes](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 
 
 ### Learning Resources

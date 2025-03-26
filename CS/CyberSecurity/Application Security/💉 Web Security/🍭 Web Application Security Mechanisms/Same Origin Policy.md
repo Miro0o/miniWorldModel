@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [HTTP Access Control (CORS)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20(CORS).md)
-↗ [CSRF (Cross Site Request Forgery)](../🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design/Brocken%20Access%20Control/CSRF%20(Cross%20Site%20Request%20Forgery)/CSRF%20(Cross%20Site%20Request%20Forgery).md)
+↗ [CSRF (Cross Site Request Forgery)](../🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Brocken%20Access%20Control/CSRF%20(Cross%20Site%20Request%20Forgery)/CSRF%20(Cross%20Site%20Request%20Forgery).md)
 
 
 
