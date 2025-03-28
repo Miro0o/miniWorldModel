@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [Semi-conductor Media (Circuit) Storage & Flash Storage](../../Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage.md)
 ↗ [Semiconductor Memory Technology & Memory Chips & RAM](Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM.md)
@@ -60,12 +56,12 @@ Floating-Gate Memory & Non-Volatile Memory (NVM)
 
 
 ## 🎯 Volatile Memory & RAM
-### DRAM
-↗ [DRAM Technology & DDR](DRAM%20Technology%20&%20DDR.md)
+### DRAM (Dynamic RAM)
+↗ [DRAM (Dynamic RAM) Technology](DRAM%20(Dynamic%20RAM)%20Technology/DRAM%20(Dynamic%20RAM)%20Technology.md)
 
 
-### SRAM
-↗ [SRAM Technology](SRAM%20Technology.md)
+### SRAM (Static RAM)
+↗ [SRAM (Static RAM) Technology](SRAM%20(Static%20RAM)%20Technology.md)
 
 
 

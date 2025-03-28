@@ -38,6 +38,15 @@ PC components and technologies review
 https://www.pjrc.com
 EE related products & blogs
 
+🤔 https://www.techpowerup.com/
+- [Video BIOS Collection](https://www.techpowerup.com/vgabios/)
+- [GPU Specs Database](https://www.techpowerup.com/gpu-specs/)
+- [CPU Specs Database](https://www.techpowerup.com/cpu-specs/)
+- [SSD Specs Database](https://www.techpowerup.com/ssd-specs/)
+- [TechPowerUp Review Database](https://www.techpowerup.com/reviewdb/)
+	- Search for reviews and tests in our vast and expansive database of PC hardware reviews from the tech sphere. This database contains reviews from reputed technology websites, and lets you find reviews based on user popularity.
+- [Upcoming Hardware Launches](https://www.techpowerup.com/review/future-hardware-releases/)
+
 
 
 ## Intro

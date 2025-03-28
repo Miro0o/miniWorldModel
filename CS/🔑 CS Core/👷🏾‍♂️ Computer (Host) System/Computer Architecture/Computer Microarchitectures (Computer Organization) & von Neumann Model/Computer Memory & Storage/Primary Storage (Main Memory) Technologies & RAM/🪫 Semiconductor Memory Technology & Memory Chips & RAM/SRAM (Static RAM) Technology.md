@@ -1,14 +1,10 @@
-# SRAM Technology
+# SRAM (Static RAM) Technology
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

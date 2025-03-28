@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Processor Chips](../../../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Processor%20Chips/Computer%20Processor%20Chips.md)
+
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../../Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
 ↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 

@@ -1,4 +1,4 @@
-# cudaHashcat (NVIDA)
+# cudaHashcat (NVIDiA)
 
 [TOC]
 

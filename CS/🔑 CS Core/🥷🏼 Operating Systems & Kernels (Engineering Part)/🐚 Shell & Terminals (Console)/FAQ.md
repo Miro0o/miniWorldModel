@@ -250,8 +250,8 @@ Hello there
 
 
 
-## 👉 Shell Environment Variables | Regular Shell Variables | `env`, `set`, `export`
-#bash #shell-script
+## 👉👉 Global Environment Variables | Regular Shell Variables | `env`, `export`, `set`, `declare`
+#shell-script #global_env_var #shell_var #env #set #export #bash 
 
 ```shell
 #### Shell Environment Variables (valid for current shell session and subshells inherented from this shell)
@@ -311,10 +311,7 @@ This was all done in bash.
 - we primarily use the `set` command to configure error handling, debugging, and script behavior within the local scope of a script or shell session. 
 - On the other hand, we use the `export` command to create global environment variables that other processes or scripts running in the same session can access.
 
-
----
 **Additional note on `#!/usr/bin/env`**
-
 This is also why the idiom `#!/usr/bin/env interpreter` is used rather than `#!/usr/bin/interpreter`. `env` does not require a full path to a program, because it uses the `execvp()` function which searches through the `PATH` variable just like a shell does, and then _replaces_ itself by the command run. Thus, it can be used to find out where an interpreter (like perl or python) "sits" on the path.
 
 It also means that by modifying the current path you can influence which python variant will be called. This makes the following possible:
@@ -330,20 +327,51 @@ instead of running Python, will result in
 I am an evil interpreter!
 ```
 
----
 **Common Pitfalls of Using `set` and `export`**
-
 1. forget to quote variables
 2. overwriting built-in variables
 3. overusing `set` options
 4. using uppercase variable names for local variables
 5. forgetting to unset variables
 
+---
+First, you must understand that `environment variables` and `shell variables` are not the same thing.
+
+Then, you should know that shells have _attributes_ which govern how it works. These attributes are not environment nor shell variables.
+
+Now, on to answering your question.
+1. `env`: without any options, shows current _environment variables_ with their values; However can be used to set environment variable for a single command with the `-i` flag
+2. `set`: without options, the name and value of each _shell variable_ are displayed* ~ from running `man set` in rhel; can also be used to set _shell attribute_. This command **DOES NOT** set _environment nor shell variable_.
+3. `declare`: without any options, the same as `env`; can also be used to set _shell variable_
+4. `export`: makes _shell variables_ _environment variables_
+
+In short:
+1. `set` doesn't set shell nor environment variables
+2. `env` can set environment variables for a single command
+3. `declare` sets shell variables
+4. `export` makes shell variables environment variables
+
+**NOTE** `declare -x VAR=VAL` creates the shell variable and also exports it, making it environment variable.
+
+---
+See "declare" under [https://www.gnu.org/software/bash/manual/bash.html#Bash-Builtins](https://www.gnu.org/software/bash/manual/bash.html#Bash-Builtins) declare: "Declare variables and give them attributes. If no names are given, then display the values of variables instead.
+
+Set "set" under [https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin) * set: "This builtin is so complicated that it deserves its own section. set allows you to change the values of shell options and set the positional parameters, or to display the names and values of shell variables."
+
+ENV is an environment variable in Bash: [https://www.gnu.org/software/bash/manual/bash.html#Bash-Variables](https://www.gnu.org/software/bash/manual/bash.html#Bash-Variables) env is a Linux command. I think this is a good reference: [https://unix.stackexchange.com/questions/103467/what-is-env-command-doing](https://unix.stackexchange.com/questions/103467/what-is-env-command-doing)
+
+I thought this was a good explanation of export: [http://www.unix.com/302531838-post2.html](http://www.unix.com/302531838-post2.html)
+
+Also: [https://www.gnu.org/software/bash/manual/bash.html#Bourne-Shell-Builtins](https://www.gnu.org/software/bash/manual/bash.html#Bourne-Shell-Builtins) * export (from Bourne): "Mark each name to be passed to child processes in the environment."
+
+
 More visit 👇
 
 [What’s the Difference Between Bash’s _set_ and _export_?]: https://www.baeldung.com/linux/bash-set-and-export#:~:text=In%20summary%2C%20we%20primarily%20use,the%20same%20session%20can%20access
 
 [What's the difference between set, export and env and when should I use each | Ask ubuntu]: https://askubuntu.com/a/205698
+
+[What is the difference between set, env, declare and export when setting a variable in a Linux shell? | superuser]: https://superuser.com/q/821094/1656771
 
 
 

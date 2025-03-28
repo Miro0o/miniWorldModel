@@ -83,7 +83,8 @@ Shell中可以执行的指令可分为3类：
 - 而外部命令则是不可预期的，Shell到哪里去找呢？答案是PATH环境变量。
 
 
-### Shell Environment Variables
+### 🤔 Global Environment Variables, Shell Variables and Shell Attributes
+↗ [FAQ /👉👉 Global Environment Variables | Regular Shell Variables | `env`, `export`, `set`, `declare`](../FAQ.md#👉👉%20Global%20Environment%20Variables%20|%20Regular%20Shell%20Variables%20|%20`env`,%20`export`,%20`set`,%20`declare`)
 
 
 
