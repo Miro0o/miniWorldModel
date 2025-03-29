@@ -27,6 +27,7 @@
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
+
 ### Fetch-Decode-Execute Cycle
 
 

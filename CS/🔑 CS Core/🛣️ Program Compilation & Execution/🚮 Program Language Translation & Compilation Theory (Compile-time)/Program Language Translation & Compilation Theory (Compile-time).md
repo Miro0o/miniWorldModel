@@ -80,12 +80,8 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 #### Runtime Binding
 
 
-### 4️⃣/5️⃣ Linking
-↗ [Linking Phase](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase%20&%20Linking%20Library%20Files/Linking%20Phase.md)
-#### Static Linking
-#### Dynamic Linking
-##### Loadtime Dynamic Linking
-##### Runtime Dynamic Linking
+### 4️⃣/5️⃣ Linking & Loading
+↗ [Program Linking & Loading (Link-time & Load-time)](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
 
 
 

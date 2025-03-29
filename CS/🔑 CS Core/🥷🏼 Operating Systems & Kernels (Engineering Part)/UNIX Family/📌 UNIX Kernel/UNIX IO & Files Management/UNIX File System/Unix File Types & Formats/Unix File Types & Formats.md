@@ -5,10 +5,16 @@
 
 
 ## Res
+### Related Topics
+↗ [Linux File Types & Formats](../../../../../Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
+
 
 
 ## Intro
 
+
+
+## 🎯 Textual File
 ![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020230316142517.png)
 
 ### 1️⃣ Ordinary files
@@ -56,6 +62,8 @@ In essence, it is a stream of data, very similar to network stream (and network 
 Symbolic link is used for referencing some other file of the file system.Symbolic link is also known as Soft link. It contains a text form of the path to the file it references. To an end user, symbolic link will appear to have its own name, but when you try reading or writing data to this file, it will instead reference these operations to the file it points to. If we delete the soft link itself , the data file would still be there.If we delete the source file or move it to a different location, symbolic file will not function properly. In long-format output of ls –l , Symbolic link are marked by the ==“l” symbol== (that’s a lower case L).
 
 
+
+## 🎯 Binary File /Executable File
 
 
 

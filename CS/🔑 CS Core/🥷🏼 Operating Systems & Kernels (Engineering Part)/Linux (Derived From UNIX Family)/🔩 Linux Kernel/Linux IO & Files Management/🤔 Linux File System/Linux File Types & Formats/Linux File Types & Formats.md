@@ -5,13 +5,16 @@
 
 
 ## Res
+### Related Topics
+↗ [Unix File Types & Formats](../../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/Unix%20File%20Types%20&%20Formats/Unix%20File%20Types%20&%20Formats.md)
+
 
 
 ## Intro
 
 
 
-## 🎯 Text File (Read, Write)
+## 🎯 Textual File (Read, Write)
 Linux supports seven different types of files. These file types are the Regular file, Directory file, Link file, Character special file, Block special file, Socket file, and Named pipe file.
 
 |   |   |
@@ -93,8 +96,9 @@ Named pipe files are the empty pipe files. The kernel processes named pipe files
 
 
 
-## 🎯 Binary File (Executable) (ELF File)
-> Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files.
+## 🎯 Binary File (Executable)
+> Instructions are packaged in a form called an executable object program and stored as a binary disk file. Object programs are also referred to as executable object files. 
+> ELF is the default binary file format used on linux systems.
 
 ↗ [ELF (Executable and Linkable Format)](ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
 
