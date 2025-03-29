@@ -146,6 +146,9 @@ Free Unix and Linux technical support for all Unix and Linux operating systems
 📚 https://bootlin.com/docs/
 Free training materials and conference presentations from Bootlin, covering kernel, real-time, Android, embedded Linux system and device driver development.
 
+https://www.zhihu.com/column/c_1309081772639563776
+linux内核技术
+
 
 
 ## Intro

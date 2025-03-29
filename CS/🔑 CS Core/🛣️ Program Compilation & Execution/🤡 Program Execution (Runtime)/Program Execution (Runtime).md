@@ -32,9 +32,10 @@
 
 
 ### Other Resources
+#### Books
 https://textbook.cs161.org/memory-safety/x86.html
 x86 Assembly and Call Stack | UCB CS161 Computer Security Textbook
-
+#### Online Resources
 📃 https://cpu.land
 Putting the “You” in CPU
 Curious exactly what happens when you run a program on your computer? Read this article to learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
@@ -46,6 +47,9 @@ Curious exactly what happens when you run a program on your computer? Read this 
 - [Ch. 5 Paging](https://cpu.land/the-translator-in-your-computer)
 - [Ch. 6 Fork-Exec](https://cpu.land/lets-talk-about-forks-and-cows)
 - [Ch. 7 Epilogue](https://cpu.land/epilogue)
+
+https://www.zhihu.com/column/c_1309081772639563776
+linux内核技术
 
 
 

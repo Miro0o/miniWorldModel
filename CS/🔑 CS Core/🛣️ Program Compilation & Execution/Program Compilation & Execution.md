@@ -36,6 +36,7 @@
 
 
 ### Learning Resources
+#### Books
 📖 CSAPP: Computer System: A Programmer's Perspective
 ↗ [Intro to Computer Science](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
@@ -49,6 +50,9 @@ http://t.csdnimg.cn/fpEXy
 📖 Modern Compiler Implementation in C -- Andrew W.Appel, with Jens Palsberg
 
 📖 Advanced Compiler Design and Implementation -- Steven S.Muchnick
+#### Online Resources
+https://www.zhihu.com/column/c_1309081772639563776
+linux内核技术
 
 
 
