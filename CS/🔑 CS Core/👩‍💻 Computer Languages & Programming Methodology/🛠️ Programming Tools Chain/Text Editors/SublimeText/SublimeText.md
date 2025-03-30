@@ -44,7 +44,6 @@ Sublime Text includes a built-in diff functionality that tracks changes to files
 The exact location of each addition, modification and deletion is tracked. This is used to display markers in the gutter, allow navigation between each change, display inline diffs and allow for reverting changes.
 
 Diffs are calculated against the version of the file on disk, but [Diff Markers](https://www.sublimetext.com/docs/git_integration.html#diff-markers) can be configured to diff against HEAD, and the API allows files to be diffed against any content.
-
 - [Diff Markers](https://www.sublimetext.com/docs/incremental_diff.html#diff-markers)  
 - [Navigation](https://www.sublimetext.com/docs/incremental_diff.html#navigation)  
 - [Inline Diffs](https://www.sublimetext.com/docs/incremental_diff.html#inline-diffs)  

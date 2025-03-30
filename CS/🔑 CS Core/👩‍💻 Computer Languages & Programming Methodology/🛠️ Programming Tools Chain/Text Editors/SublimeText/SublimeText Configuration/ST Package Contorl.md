@@ -159,7 +159,6 @@ ref: https://blog.csdn.net/C_ZDCSDN/article/details/112068247
 Home 🏠 https://github.com/NeoVintageous/NeoVintageous
 Author 🧑🏽‍💻 https://blog.gerardroche.com
 
-
 NeoVintageous is an advanced Vim emulation layer for Sublime Text.
 - Strong defaults
 - Highly configurable
@@ -175,8 +174,6 @@ NeoVintageous is an advanced Vim emulation layer for Sublime Text.
   - Unimpaired
 - Integrations: [GitGutter](https://github.com/jisaacks/GitGutter), [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3), [Origami](https://github.com/SublimeText/Origami)
 - Drop-in replacement for Vintageous
-
-
 #### NV Basics
 😎 **How to use**
 type in `:help nv` for help.

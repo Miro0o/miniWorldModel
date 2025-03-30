@@ -12,6 +12,31 @@
 📂 [README.md](https://github.com/lima-vm/lima)
 
 
+### Official Troubleshooting 🎧 List
+#### Generic
+- ["What's my login password?"](https://github.com/lima-vm/lima#whats-my-login-password)
+- ["Does Lima work on ARM Mac?"](https://github.com/lima-vm/lima#does-lima-work-on-arm-mac)
+- ["Can I run non-Ubuntu guests?"](https://github.com/lima-vm/lima#can-i-run-non-ubuntu-guests)
+- ["Can I run other container engines such as Docker and Podman? What about Kubernetes?"](https://github.com/lima-vm/lima#can-i-run-other-container-engines-such-as-docker-and-podman-what-about-kubernetes)
+- ["Can I run Lima with a remote Linux machine?"](https://github.com/lima-vm/lima#can-i-run-lima-with-a-remote-linux-machine)
+- ["Advantages compared to Docker for Mac?"](https://github.com/lima-vm/lima#advantages-compared-to-docker-for-mac)
+#### QEMU
+- ["QEMU crashes with `HV_ERROR`"](https://github.com/lima-vm/lima#qemu-crashes-with-hv_error)
+- ["QEMU is slow"](https://github.com/lima-vm/lima#qemu-is-slow)
+- [error "killed -9"](https://github.com/lima-vm/lima#error-killed--9)
+- ["QEMU crashes with `vmx_write_mem: mmu_gva_to_gpa XXXXXXXXXXXXXXXX failed`"](https://github.com/lima-vm/lima#qemu-crashes-with-vmx_write_mem-mmu_gva_to_gpa-xxxxxxxxxxxxxxxx-failed)
+#### SSH
+- ["Port forwarding does not work"](https://github.com/lima-vm/lima#port-forwarding-does-not-work)
+- [stuck on "Waiting for the essential requirement 1 of X: "ssh"](https://github.com/lima-vm/lima#stuck-on-waiting-for-the-essential-requirement-1-of-x-ssh)
+- ["permission denied" for `limactl cp` command](https://github.com/lima-vm/lima#permission-denied-for-limactl-cp-command)
+#### Networking
+- ==["Cannot access the guest IP 192.168.5.15 from the host"](https://github.com/lima-vm/lima#cannot-access-the-guest-ip-192168515-from-the-host)==
+- [Ping shows duplicate packets and massive response times](https://github.com/lima-vm/lima#ping-shows-duplicate-packets-and-massive-response-times)
+#### External projects
+- ["I am using Rancher Desktop. How to deal with the underlying Lima?"](https://github.com/lima-vm/lima#i-am-using-rancher-desktop-how-to-deal-with-the-underlying-lima)
+- ["Hints for debugging other problems?"](https://github.com/lima-vm/lima#hints-for-debugging-other-problems)
+
+
 
 ## 🧑🏿‍🦯 Guides
 ### 🌈 Intro

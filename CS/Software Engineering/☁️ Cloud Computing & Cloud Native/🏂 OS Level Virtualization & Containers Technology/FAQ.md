@@ -83,7 +83,7 @@ Note also that according to the [documentation](https://docs.docker.com/network
 
 
 ## 👉 Multiple Docker containers, same image, different config
-#docker 
+#docker #config #docker_container #docker_image
 
 Just run from the same image as many times as needed. New containers will be created and they can then be started and stoped each one saving its own configuration. For your convenience would be better to give each of your containers a name with "--name".
 
@@ -111,7 +111,7 @@ Overall, Podman cannot always work as a replacement for Docker. But you can defi
 
 
 ## 👉 Container exited with code 0
-#docker #container 
+#docker #docker_container 
 
 The answer is actually the first comment. I'll explain Miguel's comment a bit.
 
@@ -120,6 +120,7 @@ First, we need to understand that a Docker container runs a single command. The 
 With that understanding, we can make an assumption of what is happening in your case. When you start your `dvpt` service it runs the command `mkdir /root/essai/`. That command creates the folder and then exits. At this point, the Docker container is stopped because the process exited (with status 0, indicating that `mkdir` completed with no error).
 
 [exited with code 0 docker | Stackoverflow]: https://stackoverflow.com/a/44891777/16542494
+
 
 
 ## Ref

@@ -182,3 +182,4 @@ The `jmp *0x8049ffc` performs an indirect jmp into the third GOT entry, `GOT[
 
 
 ## Ref
+[ELF文件加载过程 - 小乐叔叔的文章 - 知乎]: https://zhuanlan.zhihu.com/p/287863861

@@ -7,6 +7,8 @@
 ## Res
 📂 https://learn.microsoft.com/en-us/windows/wsl/
 
+Learn more about [Linux resources at Microsoft](https://learn.microsoft.com/en-us/linux), including Microsoft tools that run on Linux, Linux training courses, Cloud Solution Architecture for Linux, and Microsoft + Linux news, events, and partnerships. **Microsoft Loves Linux!**
+
 
 ### Related Topics
 ↗ [POSIX (Portable Operating System Interface)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
@@ -15,6 +17,8 @@
 
 
 ## Intro
+> 🔗 https://learn.microsoft.com/en-us/windows/wsl/about
+
 
 
 

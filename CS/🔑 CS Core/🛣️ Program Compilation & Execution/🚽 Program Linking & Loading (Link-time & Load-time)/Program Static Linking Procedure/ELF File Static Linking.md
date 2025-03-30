@@ -183,3 +183,4 @@ OFFSET           TYPE              VALUE
 
 
 ## Ref
+[ELF文件加载过程 - 小乐叔叔的文章 - 知乎]: https://zhuanlan.zhihu.com/p/287863861

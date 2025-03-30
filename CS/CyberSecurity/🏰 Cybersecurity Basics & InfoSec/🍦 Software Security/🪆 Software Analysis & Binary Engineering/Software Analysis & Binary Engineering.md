@@ -110,3 +110,5 @@ pwn（浏览器、内核什么的书就不安利了……太多了，只写一�
 
 CTF高质量PWN题之二叉树的漏洞利用 - yjlabs的文章 - 知乎
 https://zhuanlan.zhihu.com/p/434745218
+
+[hahbiubiubiub]: https://hahbiubiubiu.github.io/MyBook/#/
