@@ -1,4 +1,4 @@
-# Logics & Verification & Provers
+# Logic Verifies & Provers
 
 [TOC]
 

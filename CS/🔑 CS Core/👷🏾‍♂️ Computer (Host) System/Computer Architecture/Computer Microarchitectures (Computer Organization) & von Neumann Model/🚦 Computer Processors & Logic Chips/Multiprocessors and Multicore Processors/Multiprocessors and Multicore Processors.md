@@ -36,7 +36,7 @@
 
 
 ## Quantum Computing
-↗ [Quantum Computing](../../../../../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing (and Communication)](../../../../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 
 
 

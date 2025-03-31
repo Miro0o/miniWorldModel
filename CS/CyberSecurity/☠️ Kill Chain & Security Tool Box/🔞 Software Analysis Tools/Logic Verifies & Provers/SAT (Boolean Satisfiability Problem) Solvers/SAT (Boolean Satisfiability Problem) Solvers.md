@@ -1,14 +1,10 @@
-# Z3 Theorem Prover
+# SAT (Boolean Satisfiability Problem) Solvers
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

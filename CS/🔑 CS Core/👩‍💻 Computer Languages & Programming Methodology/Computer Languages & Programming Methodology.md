@@ -16,7 +16,7 @@
 - ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/Concurrent%20Computing/Concurrent%20Computing.md)
 - ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 - ↗ [Parallel Computing](../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
-- ↗ [Quantum Computing](../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 - etc.
 
 ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)

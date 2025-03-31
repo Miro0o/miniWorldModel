@@ -91,7 +91,6 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 	1. 什么是有效计算？哪些问题可以/不可以有效计算？
 	2. 时间复杂性 /空间复杂性 /多项式时间归约 /完全问题
 
-
 > 🔗 https://www.mropengate.com/2015/06/formal-language.html
 
 透過計算模型，我們可以對計算定下明確的數學定義。而一旦有了明確的定義，便可以研究什麼是可計算的、什麼是不可計算的，而對於可計算的問題，必須花費多少時間和空間才可能計算。  
@@ -101,6 +100,49 @@ Church–Turing thesis 指出，所有演算法可解的問題，都可透過 Tu
 這是一門非常理論與數學的課，需要非常清晰的邏輯思考。老師曾說，資訊界日新月異，許多課程可能幾年後就不見了，或者教的東西大幅改變。但你幾乎可以確定，正規語言這門課還是會一直存在。從哲學的角度來說，計算理論在電腦科學裡佔了十分核心的地位。  
   
 正規語言課程所學的東西其實也有很多延伸的應用，以至於很多讀者很可能早已接觸過某些部份，但直到這門課，才真正以嚴謹的方式學習背後的來歷。像是如果有接觸像 Python 等語言或者用過 Vim 等編輯器的搜尋功能的讀者，很有可能有接觸過正規表示式。而 CFG 和程式語言的設計以及編譯器等課程有密切相關，你或許會曾在程式語言的文件上看過他。如果在演算法等課程聽過 NP、P 等名詞，在這堂課裡，你可以學到這些名詞到底有什麼含意。而對什麼是演算法，時間複雜度、問題的可計算性等等，都會在這堂課得到更深的理解。
+
+
+
+## Model Of Computation
+> 🔗 https://en.wikipedia.org/wiki/Model_of_computation
+
+In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.
+
+
+### Sequential models
+Sequential models include:
+- [Finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine")
+- Post machines ([Post–Turing machines](https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine "Post–Turing machine") and [tag machines](https://en.wikipedia.org/wiki/Tag_system "Tag system")).
+- [Pushdown automata](https://en.wikipedia.org/wiki/Pushdown_automata "Pushdown automata")
+- [Register machines](https://en.wikipedia.org/wiki/Register_machine "Register machine")
+    - [Random-access machines](https://en.wikipedia.org/wiki/Random-access_machine "Random-access machine")
+- [Turing machines](https://en.wikipedia.org/wiki/Turing_machine "Turing machine")
+- [Decision tree model](https://en.wikipedia.org/wiki/Decision_tree_model "Decision tree model")
+- [External memory model](https://en.wikipedia.org/wiki/External_memory_model "External memory model")
+
+
+### Functional models
+Functional models include:
+- [Abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system")
+- [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic "Combinatory logic")
+- [General recursive functions](https://en.wikipedia.org/wiki/General_recursive_function "General recursive function")
+- [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus")
+
+
+### Concurrent models
+Concurrent models include:
+- [Actor model](https://en.wikipedia.org/wiki/Actor_model "Actor model")
+- [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton "Cellular automaton")
+- [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets "Interaction nets")
+- [Kahn process networks](https://en.wikipedia.org/wiki/Kahn_process_networks "Kahn process networks")
+- [Logic gates](https://en.wikipedia.org/wiki/Logic_gate "Logic gate") and [digital circuits](https://en.wikipedia.org/wiki/Circuit_\(computer_science\) "Circuit (computer science)")
+- [Petri nets](https://en.wikipedia.org/wiki/Petri_nets "Petri nets")
+- [Process calculus](https://en.wikipedia.org/wiki/Process_calculus "Process calculus")
+- [Synchronous Data Flow](https://en.wikipedia.org/wiki/Synchronous_Data_Flow "Synchronous Data Flow")
+
+Some of these models have both [deterministic](https://en.wikipedia.org/wiki/Deterministic_model#In_computer_science "Deterministic model") and [nondeterministic](https://en.wikipedia.org/wiki/Nondeterministic_model_of_computation "Nondeterministic model of computation") variants. Nondeterministic models correspond to limits of certain sequences of finite computers, but do not correspond to any subset of finite computers;[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_] they are used in the study of [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity "Computational complexity") of algorithms.
+
+Models differ in their expressive power; for example, each function that can be computed by a _finite-state machine_ can also be computed by a _Turing machine_, but not vice versa.
 
 
 

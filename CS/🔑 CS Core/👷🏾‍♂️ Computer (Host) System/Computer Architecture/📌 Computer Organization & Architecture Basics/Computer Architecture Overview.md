@@ -26,7 +26,7 @@ CEN, Comité Européen de Normalisation
 
 
 ## Historical Development of Computer Architecture Design
-↗ [Development of Computer System](../../Development%20of%20Computer%20System.md)
+↗ [History of Computer Evolution](History%20of%20Computer%20Evolution.md)
 
 
 
@@ -119,7 +119,7 @@ At ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model]
 ## Computing in Future
 ↗ [Computing Methodologies](../../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [Quantum Computing](../../../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+- ↗ [Quantum Computing (and Communication)](../../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 

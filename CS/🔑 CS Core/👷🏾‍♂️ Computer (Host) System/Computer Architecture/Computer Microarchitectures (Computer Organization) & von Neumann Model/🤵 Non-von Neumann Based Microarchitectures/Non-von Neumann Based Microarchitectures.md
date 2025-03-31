@@ -5,7 +5,10 @@
 
 
 ## Res
+### Related Topics
 ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+↗ [Quantum Computing (and Communication)](../../../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+↗ [Multiprocessor Architectures & Parallel Computing](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 
 
 
@@ -15,7 +18,6 @@ Non–von Neumann architectures are those in which the model of computation vari
 - Also, a computer that has two buses, one for data and a separate one for instructions, would be considered a non–von Neumann machine.
 
 Many non–von Neumann machines are **designed for special purposes**.
-
 
 A number of different subfields fall into the non–von Neumann category, including: 
 1. Neural networks (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);
@@ -37,16 +39,6 @@ Many modern general-purpose computers use a modified version of the
 Harvard architecture in which they have separate pathways for data and instructions but not separate storage.
 
 Pure Harvard architectures are typically used in microcontrollers (an entire computer system on a chip), such as those found in embedded systems, as in appliances, toys, and cars.
-
-
-
-## Other Related Topics
-### Parallel Computing
-↗ [Multiprocessor Architectures & Parallel Computing](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
-
-
-### Quantum Computing
-↗ [Quantum Computing](../../../../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
 
 
 

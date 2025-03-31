@@ -164,7 +164,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 #### 3️⃣ Other Architectures
 ↗ [Non-von Neumann Based Microarchitectures](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 #### 4️⃣ Quantum Computer
-↗ [Quantum Computing](../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 
 
 ### Computer System Hardware Development
