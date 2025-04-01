@@ -15,7 +15,7 @@
 🏠 https://github.com/clvv/fasd
 
 
-### 👉 `z`
+### 👉 `z-jump`
 
 
 ### 👉 `autojump`

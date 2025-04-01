@@ -25,7 +25,7 @@ This is an unofficial reference manual for LaTeX. See below for the [Table of C
 
 
 ### Other Links
-↗ [Tex & LaTex Related Tools](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Related%20Tools/Tex%20&%20LaTex%20Related%20Tools.md)
+↗ [Tex & LaTex Related Tools](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Related%20Tools/Tex%20&%20LaTex%20Related%20Tools.md)
 ↗ [MathJax](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JS%20Gadgets/MathJax.md)
 
 https://www.overleaf.com/project

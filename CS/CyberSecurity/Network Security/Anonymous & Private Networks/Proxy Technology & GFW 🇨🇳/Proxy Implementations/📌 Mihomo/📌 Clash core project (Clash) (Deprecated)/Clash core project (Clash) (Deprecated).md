@@ -10,7 +10,6 @@
 
 
 ### Related Topics
-↗ [Clash-Verge-Rev (CVR)](Clash%20GUI%20Clients/Clash-Verge-Rev%20(CVR).md)
 
 
 
