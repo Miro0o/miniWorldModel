@@ -11,6 +11,7 @@
 
 ↗ [Color & Layout Design](../📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 ↗ [Web Application Galleries](../../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
+↗ [Graph & Diagram & Charts & Slides](../../../../CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
 
 
 ### UI Kits

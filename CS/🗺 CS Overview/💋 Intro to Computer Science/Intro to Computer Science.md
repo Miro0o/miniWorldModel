@@ -494,7 +494,7 @@ These questions, from general to specific, speaks the path of what i think every
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [CS & IT Jobs & Interns Related](../CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 ↗ [(CS) Master & PhD Application Guide](../International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
 
 ↗ [IT Laws & Institutions in United States](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)

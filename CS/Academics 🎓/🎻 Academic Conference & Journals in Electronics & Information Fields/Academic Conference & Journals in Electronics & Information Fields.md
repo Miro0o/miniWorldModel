@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [(CS) Academics Roadmap & Tool Chain](../🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-- ↗ [Bib-Management](../🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+- ↗ [Bib-Management](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
 ↗ [(CS) Master & PhD Application Guide](../../🗺%20CS%20Overview/International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
 

@@ -15,7 +15,7 @@
 ↗ [DBMS (DataBase Management System) Implementations](../../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
 - ↗ [Vector Database](../../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/Vector%20Database/Vector%20Database.md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓/🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
 

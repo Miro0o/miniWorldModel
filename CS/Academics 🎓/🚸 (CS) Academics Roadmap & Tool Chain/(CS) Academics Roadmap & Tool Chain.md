@@ -12,6 +12,7 @@
 https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate
 四川大学学位论文LaTeX模版
 
+
 ### Academic Learning Resources 
 📂 https://sustech.libguides.com/?group_id=20215 | 南方科技大学 - 专题导航
 👍 开放获取资源专题: 各类型开放获取资源的平台 https://sustech.libguides.com/c.php?g=936835&p=6776043
@@ -207,6 +208,7 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 ### Academic Diagrams & Illustration Design
 ↗ [Graph & Diagram & Charts & Slides](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
+↗ [Color & Layout Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 
 
 ### Editorial Services

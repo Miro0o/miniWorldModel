@@ -24,7 +24,7 @@
 ↗ [实用工具箱](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
-↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🎓%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
 
