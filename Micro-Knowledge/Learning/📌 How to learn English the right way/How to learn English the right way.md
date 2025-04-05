@@ -16,7 +16,7 @@ An advanced guide to learn English which might benefit you a lot.
 人人都能用英语
 
 
-### Useful English Resources
+### Vocabularies & Dictionaries
 https://www.onelook.com/
 **There's no word too weird for OneLook.**  
 OneLook scans 18,955,870 entries in 1061 dictionaries.  
@@ -41,6 +41,10 @@ The pronunciation dictionary
 
 https://www.visualthesaurus.com
 The Visual Thesaurus is an interactive dictionary and thesaurus which creates word maps that blossom with meanings and branch to related words. Its innovative display encourages exploration and learning. You'll understand language in a powerful new way.
+
+
+### Speaking
+https://www.xiaohongshu.com/user/profile/67109986000000001d0319db?xsec_token=YBOBFXH8h2HC5eiQIr9ObI7lDZStnnwEL_zIBNyZC65uo=&xsec_source=app_share&xhsshare=CopyLink&appuid=60f8e65d00000000010055f2&apptime=1743826194&share_id=21b75dc0128e47e08e27598695baf61f
 
 
 

@@ -32,6 +32,9 @@ Study in the States offers free government resources that explain the rules and 
 
 【美国各州介绍（十五）：加利福尼亚州】 https://www.bilibili.com/video/BV18F411f7Yc/?share_source=copy_web
 
+https://liushooter.github.io/UsaVsUsa/
+《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。 本书作者以一个观察者去研究和看待美国社会，主要探讨美国社会的政治和社会管理过程，书中具体描绘和事实纪录多于抽象推理，主要是用事实的美国对想象中的美国。
+
 
 
 ## Intro
