@@ -21,7 +21,6 @@ Learn more about [Linux resources at Microsoft](https://learn.microsoft.com/en-
 
 
 
-
 ## Ref
 [Windows 11 安装 WSL2 - 风中追风的文章 - 知乎]: https://zhuanlan.zhihu.com/p/475462241
 
