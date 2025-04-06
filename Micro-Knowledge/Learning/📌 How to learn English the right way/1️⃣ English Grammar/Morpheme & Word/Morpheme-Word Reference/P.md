@@ -8385,7 +8385,7 @@
 			7. It is of Grandpa's habit to imbibe a bit of wine each day. /每天喝一点儿酒是爷爷的习惯。
 			8. We are here to share some science-backed tips for imbibing more safely. /我们在这里分享一些有科学依据的安全饮酒建议。
 			9. As for what I'm imbibing liquid-wise, I am a seltzer freak. /至于我喝什么水——我是一个苏打水狂人。
-			10. I made great friends.And we stayed up late reminiscing and probably imbibing more than we should /结交了很棒的朋友 我们熬夜到很晚 回忆过去 也许喝了太多酒。
+				1. I made great friends.And we stayed up late reminiscing and probably imbibing more than we should /结交了很棒的朋友 我们熬夜到很晚 回忆过去 也许喝了太多酒。
 	3. bevy
 		1. 来自 bib-,喝，见 imbibe.来自动物成群结队饮水。
 		2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [flock](dic://flock)

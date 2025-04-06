@@ -1,13 +1,18 @@
-# English Synonyms
+# English Meaning Groups
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
 
 
-## Intro
+### Other Resources
+
+
+
+## Synonym
 [college](dic://college) 多指大学内的学院，分科学院或科目较少的高等学校。  
 [university](dic://university) 主要指综合大学，一般由多个学院组成。当泛指大学时通常用college表示。  
 [institute](dic://institute) 指设立有专门学科的学院，如外语学院、地质学院、建筑学院等。  
@@ -236,7 +241,8 @@ menial
 [fit](dic://fit) 既可指健壮又可指健全无病。
 
 
-## Ref
+
+## Association Words
 burlesque
 [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
 **parody**拙劣的模仿;**satire**讽刺;**satirical**含讽刺意味的, 嘲讽的;**spoof**①滑稽的模仿;**caricature**漫画;**mocking**嘲弄的;**mockery**嘲弄;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**ridicule**嘲笑;**irreverent**不敬的;**mock**嘲弄;
@@ -514,3 +520,24 @@ acolyte
 
 cock-up
 **blunder**的错误;**fiasco**惨败;**debacle**崩溃;**incompetence**无能力;**dodgy**狡猾的，逃避的;**travesty**滑稽模仿;**mistake**错误;**farce**笑剧,闹剧,滑稽戏;**daft**愚蠢可笑的;**cover-up**掩饰,隐蔽;**disaster**不幸;
+
+
+
+## Topics Words
+https://www.xiaohongshu.com/user/profile/67109986000000001d0319db?xsec_token=YBOBFXH8h2HC5eiQIr9ObI7lDZStnnwEL_zIBNyZC65uo=&xsec_source=app_share&xhsshare=CopyLink&appuid=60f8e65d00000000010055f2&apptime=1743826194&share_id=21b75dc0128e47e08e27598695baf61f
+
+tender, refreshing, fluffy, juicy, sticky, stringy, crispy, crunchy, chewy, numbing, tough, mealy, bouncy, grainy, smooth, crumbly
+
+salmon, abalone, sea cucumber, lobster, squid, shrimp, hairy crab, oyster, clam, scallop, conch, octopus
+
+boil, stew/braise, steam, pan-fry, deep-fry, stir-fry, roast, barbecue, simmer, marinate, blanch, smoke
+
+sore throat, stuffy nose, sneeze, cough, inflammation, diarrhea, headache, subburn, allergy, tinnitus, constipation, shiver, insomnia, toothache, strain, fracture, nosebleed, cramp, sprain, rash
+
+
+
+## Slangs & Vernacular
+
+
+
+## Ref

@@ -2939,7 +2939,7 @@
 	11. electrocalorimeter
 	12. recalesce
 		1. - vi. 再辉
-	13. scald (scathe, scold)
+	13. scald (scathe, scold, scald)
 		1. n. 烫伤, 烫洗  
 		2. v. 烫伤, 烫洗
 		3.  [blister](dic://blister), [whip](dic://whip)
@@ -6715,6 +6715,43 @@
 4. game
 
 
+### + \*konkho- + 表示“贝壳”。源自希腊语 konkhe, konkhos "mussel, conch."
+1. **cohcl-** = cochlea, 表示“耳蜗”，和 conch（贝壳）同源，因形状得名。源自希腊语 kokhlos "land snail."
+	1. cochlea
+	2. cochleae
+	3. cochlear
+2. **conch-** 表示“贝壳”。源自希腊语 konkhe, konkhos "mussel, conch."
+	1. conch
+		1. _n._ [gastropod](dic://gastropod), [univalve](dic://univalve)
+		2. **crab**螃蟹;**shell**壳，贝壳;**clam**蚌, 蛤;**oyster**牡蛎，蚝;**lobster**龙虾;**shells**贝壳;**turtle**海龟;**crabs**吊钳;**shrimp**虾;**coral**珊瑚;**oysters**牡蛎，蚝
+		3. According to my encyclopaedia, it is a rare type of conch shell. /根据百科全书，它是一种罕见的海螺壳。
+		4. They also found evidence of red coloring on the mouth of the conch. /他们还在海螺口发现了红色的证据。
+	2. concha
+	3. conchiferous
+	4. conchoid
+	5. conchology
+3. cockle
+	1. 1. _n._ 鸟蛤[海扇]壳
+	2. 〈文〉轻舟, 小船
+	3. [ripple](dic://ripple), [ruffle](dic://ruffle), [riffle](dic://riffle), [undulate](dic://undulate)
+	4.  [pucker](dic://pucker), [rumple](dic://rumple), [crumple](dic://crumple), [knit](dic://knit)
+	5. _n._ [shellfish](dic://shellfish), [bivalve](dic://bivalve), [pelecypod](dic://pelecypod), [lamellibranch](dic://lamellibranch)
+	6. _v._ [flow](dic://flow), [flux](dic://flux), [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch)
+	7. **oyster**牡蛎，蚝;**clam**蚌, 蛤;**shellfish**贝;**scallop**扇贝，干贝;**crab**螃蟹;**clams**蛤蚌;**mussels**淡菜;**seaweed**海藻，海草;**lobster**龙虾;**crabs**吊钳;**oysters**牡蛎，蚝;
+	8. _[Cockles](dic://Cockles)_ 小贝肉; 起皱; 牡蛎; 鸟蛤; 
+	9. _[Almond cockles](dic://Almond%20cockles)_ 杏仁酥曲奇
+	10. Ah! It warms the cockles of my heart to see the children so happy. /看到孩子们这么开心，我从心眼里感到高兴。
+	11. Market stalls offer local produce, Welsh delicacies such as Welsh Cakes, cockles and laverbread, plus gifts, crafts, clothing and general stalls. /商场面都是本地的特色产品，象威尔士蛋糕，海扇壳，莱佛面包，加上小礼物，工艺品，民族服装和普通的货物。
+	12. cockleshell
+		1. n. 鸟蛤壳, 轻舟
+	13. cocklebur
+		1. n. 苍耳
+	14. cockleboat
+		1. n. 轻舟, 小舟
+	15. cockle-stair
+		1. n. 盘旋楼梯
+
+
 ### + \*koro- +
 1. **har-, her-** 表示“军队、战争”。源自原始印欧语 *harjaz "army."
 	1. harbinger
@@ -7091,7 +7128,15 @@
 			9. She looked around at all the faces upturned to her, rather disconcerted. /她看看一张张仰望着她的面孔，有些发窘。
 			10. And it was just that which had most disconcerted me in my dealings with him. /在我同他打交道的时候，正是这一点使我狼狈不堪。
 			11. disconcerted
-			12. disconcerting, disconcertingly
+			12. disconcerting
+				1. _adj._ [displeasing](dic://displeasing)
+				2. _n._ [pleasing](dic://pleasing)
+				3. **unnerving**使人胆怯的;**unsettling**使人不安的;**troubling**令人不安的;**disturbing**烦扰的;**worrisome**令人不安的;**frightening**令人恐惧的;**surprising**使人惊讶的, 出人意料的, 惊人的;**puzzling**使莫明其妙的;**jarring**刺耳的;**disheartening**使人沮丧的;**strange**陌生的;
+				4. with disconcerting formality the brothers shook hands. /兄弟俩握了手，其拘谨状令人不安。
+				5. gazing into her face with disconcerting intensity. /令人不安地紧紧凝视她的脸。
+				6. He had a disconcerting habit of seeing through her and laughing rudely. /他能看透她的心思，而且粗鲁地讥笑她，他这个毛病真让思嘉受不了。
+				7. It was not the constant pipe, or the Nottingham vowels, or the friendly but disconcerting stare. /这份独特，和那一成不变的烟斗无关，和那一口诺丁汉腔的乡音无关，也和他那友善却令人尴尬的眼神无关。
+				8. disconcertingly
 			13. disconcertment
 				1. 仓皇失措
 		18. concertmaster

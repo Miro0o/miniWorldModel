@@ -3019,10 +3019,52 @@
 			3. " We found... that their copulatory organs fluoresce." /“我们发现… … 它们的交配器官会发出荧光。”
 			4. 
 	3. couple
-		1. decouple, uncouple, 
-		2. accoupplement, autocoupling
-		3. couplant, couplet, coupler, 
-4. **hapt-, hapto-** = 接触，系牢
+		1. n. 对, 夫妇, 数个  
+		2. vt. 使成双, 连接, 使成婚, 把...联系起来  
+		3. vi. 结合, 成婚
+		4. co-强调，-ap，连接，匹配，见apt, copula。
+		5. uncouple
+			1. _v._ [disconnect](dic://disconnect)
+			2. _n._ [couple](dic://couple), [couple on](dic://couple%20on), [couple up](dic://couple%20up)
+			3. **detach**分离;**pull**拉;**fasten**扎牢;**inhibit**抑制;**derail**使出轨;**integrate**使结合成为整体;**dismantle**拆开, 拆卸;**induce**引诱;
+			4. uncoupling
+		6. thermoelectriccouple
+			1. termocouple
+		7. overcoupling
+		8. intercoupling
+		9. four-coupled
+		10. decouple
+			1. [uncouple](dic://uncouple)
+			2. [dissociate](dic://dissociate)
+			3. _v._ [disconnect](dic://disconnect), [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secern](dic://secern), [secernate](dic://secernate), [severalize](dic://severalize)
+			4. **constrain**强迫, 强使;**implement**使生效, 贯彻, 执行;**integrate**使结合成为整体;**detach**分离;**isolate**使孤立;**insulate**隔离，使孤立;**define**定义;**allow**允许;**stabilize**稳定;**enable**使能够，使成为可能;**modulate**调节;
+			5. _[decoupling resistor](dic://decoupling%20resistor)_  去耦电阻
+			6. _[decoupling capacitor](dic://decoupling%20capacitor)_  解耦电容；[电] 去耦电容器
+			7. _[decoupled system](dic://decoupled%20system)_  [自] 解耦系统
+			8. _[decoupling circuit](dic://decoupling%20circuit)_  [电] 去耦电路
+			9. _[decoupling point](dic://decoupling%20point)_  解耦点
+			10. _[decoupling stock](dic://decoupling%20stock)_  保险性库存
+			11. _[decoupling filter](dic://decoupling%20filter)_  [电子] 去耦滤波器
+			12. _[anode decoupling resistor](dic://anode%20decoupling%20resistor)_  阳极去耦电阻
+			13. decoupling
+		18. coupling
+		19. couplet
+		20. coupler
+			1. [coupling](dic://coupling)
+			2. _n._ [mechanical device](dic://mechanical%20device)
+			3. **coupling**耦合;**flange**凸缘;**connector**连接器;**axle**车轴;**adapter**适配器;**waveguide**波导管;**adaptor**改编者;**bushing**套管;**actuator**执行机构;**coaxial**同轴的，共轴的;**axles**四轴;
+			4. _directional coupler_ 定向耦合器
+			5. _optical coupler_ 光耦合器
+			6. variocoupler
+			7. uncoupler
+			8. photocoupler
+			9. multicoupler
+			10. intercoupler
+		21. couplant
+			1. This will apply more couplant in front of the wheel with less overspray. /这种方式，耦合液可以比较均匀散布在探轮之前，不致过多。
+		22. autocoupling
+		23. accouplement
+11. **hapt-, hapto-** = 接触，系牢
 	1. hapten
 	2. haptic
 		1. a. 触觉的
@@ -3052,8 +3094,8 @@
 
 
 ### aphrodis- 原指“泡沫”，希腊神话里的爱与美之神阿佛罗狄忒 Aphodite 传说就是在海水的泡沫中诞生的。因其生性放荡，从她的名字 Aphrodite 产生的词汇都跟性爱相关。
-1. aphrodisia
-	1. - n. 性欲，[医] 性欲炽盛
+1. aphrodisia [美 /ˌæfrəu'diziə/](cmd://Speak/_us_/aphrodisia)
+	1. n. 性欲，[医] 性欲炽盛
 	2. aphrodisiac
 		1. _n._ [stimulant](dic://stimulant), [stimulant drug](dic://stimulant drug), [excitant](dic://excitant)
 		2. _n._ [anaphrodisiac](dic://anaphrodisiac)
@@ -3062,12 +3104,17 @@
 		5. _[Aphrodisiac massage](dic://Aphrodisiac%20massage)_ 情趣按摩
 		6. _[Man aphrodisiac](dic://Man%20aphrodisiac)_ 男士壮阳
 		7. _[aphrodisiac pheromone](dic://aphrodisiac%20pheromone)_ 促交配外激素
-3. hermaphrodite
+		8. But i am a little worried about Anita47, who told him cherry fruit pops are an aphrodisiac. /但我有点担心安妮塔47，她告诉他草莓果酸是春药。
+		9. Fish sticks are not an aphrodisiac. Yeah. /鱼刺不是春药。
+		10. Anyway, if potatoes are an aphrodisiac, the Irish quickly became the hottest people on Earth. /无论如何，如果土豆是壮阳药，那么爱尔兰人很快就会成为地球上最炙手可热的民族。
+		11. Salon says they may have medicinal properties having been used in ancient times to treat bowel problems, depression and even as aphrodisiacs /沙龙说，它们可能具有药用特性，在古代曾被用来治疗肠道问题、抑郁症，甚至被用作壮阳药。
+2. hermaphrodite [美 /hɝ'mæfrədaɪt/](cmd://Speak/_us_/hermaphrodite)
 	1. hermaphrodite（阴阳人）：雌雄同体的赫马佛洛狄忒斯  
 	2. 在希腊神话中，神使赫尔墨斯（Hermes）和爱与美神阿芙洛狄忒（Aphrodite）私通，生了一个孩子，叫做赫马佛洛狄忒斯（hermaphrodite），这个名字其实就是两人名字的合并。据说这个孩子是个阴阳人，所以后来他的名字就成了阴阳人的代名词。  
 	3. 还有一种说法，赫马佛洛狄忒斯原本是个俊美男子，有一次经过一个湖泊时，水中的一个宁芙仙女萨耳玛西斯疯狂地爱上了他。为了逃避萨耳玛西斯的追求，赫马佛洛狄忒斯跳进了一条河中。但是藏在树后的宁芙仙女也跟他跳了下去，并将其抱住，开始亲吻他。萨耳玛西斯向诸神祈求要永远与赫马佛洛狄忒斯结合在一起。诸神满足其心愿。于是赫马佛洛狄忒斯变成了雌雄同体。  
 		1. hermaphrodite：[hɜː'mæfrədaɪt] n.阴阳人，雌雄同一体adj.雌雄同株的  
 		2. hermaphroditic：[hɜː,mæfrə'dɪtɪk] adj.两性的，雌雄同体的
+	4. The hermaphrodite flowers with deformity germen could pollinate and fecundate normally and form fruits with deformity. /有子房的其子房又有畸形和正常两类。无子房的两性花不能形成果实；
 
 
 ### ⭐ + \*apo- + = off, away

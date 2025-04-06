@@ -293,7 +293,7 @@
 		6. lethargus
 		7. lethargize
 			1. _[lethargize](dic://lethargize)_  vt. 使无生气；使昏睡
-		8. lethargic (lethargic, somnolent, slumberous, hypersomnia, dozy,  )
+		8. lethargic (lethargic, somnolent, slumberous, hypersomnia, dozy,  sleepy, drowsy, doze,)
 			1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic)
 			2. _adj._ [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [logy](dic://logy), [stuporous](dic://stuporous), [dreamy](dic://dreamy), [lackadaisical](dic://lackadaisical)
 			3. _n._ [energetic](dic://energetic)
@@ -303,7 +303,7 @@
 			7. The caracara, a somewhat lethargic bird, passes much of the day on the ground of the open country it inhabits. /卡拉卡拉鹰，一种有点无精打采的鸟，白天大部分时间都在它空旷的栖息地度过。
 			8. It can change a depressive, lethargic person into a happy, active one / 它能使一个情绪低落、无精打采的人变得快乐并精力充沛。
 			9. He was not standing very well, very lethargic. /它状况不好，一直昏昏欲睡。
-		10. antilethargic
+		9. antilethargic
 	3. Lethe
 		1. n. 里忒（希腊神话中的遗忘女神，也是五条冥河中的遗忘之河）
 		2. _n._ [river](dic://river)
@@ -1685,28 +1685,71 @@
 		1. **dam**筑坝;**flooding**产后出血;**flood**淹没;**embankment**路堤;**river**河，江;**waterway**水路;**wetlands**沼泽地;**creek**小溪;**erosion**侵蚀，腐蚀;**floods**洪水;**bridge**桥;
 		2. [reception](dic://reception), [pier](dic://pier), [wharf](dic://wharf), [wharfage](dic://wharfage), [dock](dic://dock), [embankment](dic://embankment)
 	2. level
-		1. etc..
-	3. relieve
+		1. [degree](dic://degree), [grade](dic://grade)
+		2.  [grade](dic://grade), [tier](dic://tier)
+		3.  [degree](dic://degree), [stage](dic://stage), [point](dic://point)
+		4. [spirit level](dic://spirit level)
+		5.  [horizontal surface](dic://horizontal surface)
+		6.  [floor](dic://floor), [storey](dic://storey), [story](dic://story)
+		7. [layer](dic://layer), [stratum](dic://stratum)
+		8.  [raze](dic://raze), [rase](dic://rase), [dismantle](dic://dismantle), [tear down](dic://tear down), [take down](dic://take down), [pull down](dic://pull down)
+		9.  [flush](dic://flush), [even out](dic://even out), [even](dic://even)
+		10. [charge](dic://charge), [point](dic://point)
+		11. [level off](dic://level off)
+		12. [flat](dic://flat), [plane](dic://plane)
+		13. [unwavering](dic://unwavering)
+		14.  [tied(p)](dic://tied\(p\)), [even](dic://even)
+		15. _n._ [property](dic://property), [rank](dic://rank), [state](dic://state), [altitude](dic://altitude), [height](dic://height), [indicator](dic://indicator), [surface](dic://surface)
+		16. _v._ [aim](dic://aim), [take](dic://take), [train](dic://train), [take aim](dic://take%20aim), [direct](dic://direct), [destroy](dic://destroy), [destruct](dic://destruct)
+		17. _adj._ [even](dic://even), [steady](dic://steady), [horizontal](dic://horizontal), [equal](dic://equal)
+		18. _n._ [raise](dic://raise), [erect](dic://erect), [rear](dic://rear), [set up](dic://set%20up), [put up](dic://put%20up)
+		19. _n._ [uneven](dic://uneven), [unsteady](dic://unsteady), [vertical](dic://vertical), [perpendicular](dic://perpendicular), [inclined](dic://inclined), [unequal](dic://unequal)
+		20. [even](dic://even) 通常指平面上的各点或一条直线的各点处在同一平面或直线上。  
+		21. [flat](dic://flat) 指光滑平整的表面，但不一定是水平的。  
+		22. [level](dic://level) 强调没有高低之处，且在同一水平面，可引申指才能相等或与相邻某物平行。  
+		23. [smooth](dic://smooth) 侧重指表面十分平滑，无任何粗糙的感觉。引申作圆滑解。
+		24. **higher**更高的，较高的;**tier**行，列;**highest**最高的;**high**高的;**threshold**门槛;**skill**技能，技巧;**lower**放下，降下;**grade**等级;**sophistication**老练;**lowest**最低的;**hierarchy**等级制度;
+		25. His head was level with my ribs. /他的头与我的肋骨平齐。
+		26. _level with_ 对……说实话
+			1. In 2010, Hathaway leveled with Boeing. /2010年，海瑟薇与波音公司摊牌。
+		27. level set with
+			1. And just to level set with people, there's a JAMA study from I think 1960 where they asked physicians whether or not they would tell a patient that they had cancer /为了与人们保持一致，我认为 1960 年《美国医学会杂志》(JAMA) 进行了一项研究，他们询问医生是否会告诉患者他们患有癌症。
+		28. top-level
+		29. sublevel
+		30. split-level
+		31. O-level
+		32. multilevel
+		33. microlevel
+		34. metalevel
+		35. low-level
+		36. levelling
+		37. leveller
+		38. leveling
+		39. levelheaded
+		40. leveler
+		41. high-level
+		42. errorlevel
+	12. relieve
 		1. unrelieved, reliever, relieved, relievable
 		2. relievo
 		3. relief
 			1. reliefer
 			2. mesorelief
 			3. megarelief
-	4. alleviate
+	13. alleviate
 		1. al-同ad- + levi-轻 + -ate动词后缀 → 使轻松 → 缓和 。
 		2. alleviatory
 		3. alleviator
 		4. alleviative
 		5. alleviation
-	6. elevate (elate)
+	14. elevate (elate)
 		1. e-出 + lev-举起 + -ate, 表动词 → 举出 → 升高。
 		2. elevatus
 		3. elevatory
 		4. elevator
 		5. elevation
 		6. elevated
-	8. lever
+	15. lever
 		1. n. 杠杆, 似杠杆之工具  
 		2. vt. 撬开  
 		3. vi. 使用杠杆
@@ -1717,18 +1760,18 @@
 		8. gearlever
 		9. exolever
 		10. cantilever
-	10. levitate
+	16. levitate
 		1.  来自拉丁语 levare,升起，举起，词源同 lever,light.引申词义使升空，漂浮。
 		2. v. (使)轻轻浮起, (使)飘浮空中
 		3. hover
 		4. _v._ [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up)
 		5. **teleport**心灵运输;**hover**盘旋，翱翔;**magically**如魔法般地,用魔法地;**summon**召唤;**orb**天体;**fly**飞;**float**使漂浮;**manipulate**熟练控制;**hovering**停悬;**floating**漂浮的，浮动的;**animate**使有生气;
-	12. levity (flighty)
+	17. levity (flighty)
 		1. n. 轻率, 轻浮, 不稳定
 		2. _n._ [feeling](dic://feeling), [frivolity](dic://frivolity), [frivolousness](dic://frivolousness)
 		3. _n._ [gravity](dic://gravity), [solemnity](dic://solemnity)
 		4. **humor**幽默，诙谐;**silliness**愚蠢;**humour**诙谐;**whimsy**怪念头;**light-hearted**轻松的;**seriousness**严肃;**absurdity**荒谬;**lightness**光亮度;**sarcasm**讽刺;**banter**戏谑;**comedic**喜剧的;
-	14. levy (tariff, tax, levy)
+	18. levy (tariff, tax, levy)
 		1. n. 税款, 所征的人数, 征收  
 		2. vi. 征税, 课税  
 		3. vt. 征收, 强求, 召集
@@ -1744,24 +1787,24 @@
 		13. _transaction levy_ 交易征费**shortfall**不足之量,差额;
 		14. levier
 		15. leviable
-	16. pontlevis
-	17. relevance, relevancy
+	19. pontlevis
+	20. relevance, relevancy
 		1. irrelevance
 		2. irrelevancy
 		3. relevant
 			1. relevantly
 			2. irrelevant
-	18. leaven
+	21. leaven
 		1. [leavening](dic://leavening)
 		2. [raise](dic://raise), [prove](dic://prove)
 		3. unleavened
 		4. leavening
 		5. **loaves**大块烤过的食物;**yeast**酵母;**loaf**块;**bread**面包;**ferment**发酵;**wickedness**邪恶;**dough**生面团;**parable**寓言，比喻;**flour**面粉;**Passover**逾越节;
 		6. "his sermons benefited from a leavening of humor"
-	20. levitron
-	21. 
-2. light
-3. lung
+	22. levitron
+	23. 
+11. light
+12. lung
 
 
 ### ⭐ + \*(s)lei- + = slimy, sticky, slippery

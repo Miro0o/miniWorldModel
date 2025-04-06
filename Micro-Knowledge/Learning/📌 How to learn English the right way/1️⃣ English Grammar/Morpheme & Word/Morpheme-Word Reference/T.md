@@ -104,9 +104,35 @@
 		4. tacker
 		5. hardtack
 	9. take
-		1. ==uptake, undertake, partake, overtake, offtake, mistake, intake, downtake, betake== 
-		2. takeup, takeover, takeout, takeoff, takeaway
-		3. breathtaking, painstaking
+		1. uptake
+		2. undertake
+		3. partake
+		4. overtake
+			1. vt. 赶上, 突然降临于, 压倒, 代替
+			2. [catch](dic://catch), [catch up with](dic://catch up with)
+			3.  [pass](dic://pass), [overhaul](dic://overhaul)
+			4. [overwhelm](dic://overwhelm), [overpower](dic://overpower), [sweep over](dic://sweep over), [whelm](dic://whelm), [overcome](dic://overcome)
+			5. _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass%20on), [move on](dic://move%20on), [march on](dic://march%20on), [go on](dic://go%20on), [arouse](dic://arouse)
+			6. **dominate**支配;**surpass**胜过，优于;**conquer**战胜，征服;**propel**推进;**overwhelm**覆盖, 淹没;**topple**倾倒;**seize**抓住;**accelerate**加快, 增速;**destroy**毁坏;**threaten**威胁;**abandon**离弃;
+			7. _[overtaking lane](dic://overtaking%20lane)_  超车车道
+			8. _[overtaking on the inside](dic://overtaking%20on%20the%20inside)_  超车
+			9. Exports have already overtaken last year's figure. /出口量已超过了去年。
+			10. Germany rapidly overtook Britain in industrial output. /在工业产量方面德国迅速超过了英国。
+			11. It's dangerous to overtake at a corner. /转弯时超车危险。
+			12. The film star was overtaken with another trouble. /那位影星又遇上了别的麻烦。
+			13. After the meal, I could feel lethargy overtaking me. /饭后我昏昏欲睡。
+			14. overtaken
+		5. offtake
+		6. mistake
+		7. intake
+		8. downtake
+		9. betake
+		10. takeup
+		11. takeover
+		12. takeout
+		13. takeoff
+		14. takeaway
+		15. breathtaking, painstaking
 	10. tango
 		1. **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
 		2. [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
@@ -4771,6 +4797,7 @@
 	20. testert
 3. **tri-** = 表示“三”。源自希腊语 tri- "three."
 	1. tercel
+		1. n. 雄鹰
 	2. tercentenary
 		1. tercentennial
 	3. tercet
@@ -4782,15 +4809,22 @@
 		4. vt. 使成三倍
 		6. 
 		7. trebly
-	7. triad
-	8. triangle
+	6. trifoil
+	7. triac
+	8. triad
+	9. triangle
 		1. triangular
 		2. triangulate
-	9. triarchy
-	10. tribe
-	11. tricep
-	12. trichotomy
-	13. trickle
+	10. triarchy
+	11. triatomic
+	12. tribasic
+	13. tribe
+	14. tribrach
+	15. tricar
+	16. triceps
+	17. trichotomy (dochotomy)
+	18. trichromic
+	19. trickle
 		1. [drip](dic://drip), [dribble](dic://dribble)
 		2. [dribble](dic://dribble), [filter](dic://filter)
 		3. _n._ [flow](dic://flow), [flowing](dic://flowing)
@@ -4802,22 +4836,154 @@
 		9. There was a trickle of blood from the wound. /血从伤口汩汩流。
 		10. Information trickled out. /消息泄漏出来。
 		11. The audience trickled in /观众一个接一个地进来了
-	14. trident
-	15. trigon
+	20. triclinic
+	21. triclinium
+	22. tricolor
+	23. tricolored
+	24. tricolour
+	25. tricorn
+	26. tricorne
+	27. tricuspid
+	28. tricycle
+		1. tricyclist
+	29. tridactyl
+		1. tridactylous
+	30. trident
+	31. tridentate
+	32. tridimensional
+	33. triennial
+	34. trifid
+	35. trifocal
+	36. trifoliate
+	37. trifoliolate
+	38. triform
+	39. triformed
+	40. trifurcate
+	41. trifamist
+	42. trigamous
+	43. trigamy
+	44. trigeminal
+	45. triglot
+	46. triglyceride
+	47. triglyph
+	48. trigon
 		1. [triangle](dic://triangle), [trilateral](dic://trilateral)
 		2. [triplicity](dic://triplicity)
 		3. _n._ [polygon](dic://polygon), [polygonal shape](dic://polygonal shape), [trio](dic://trio), [triad](dic://triad), [triplet](dic://triplet), [triple](dic://triple), [lyre](dic://lyre)
-	16. trilogy
-	17. trivet
-	18. trivial
-	19. trivia
-	20. trivium
-	21. triathlon
-	22. tbd..
-5. three
-6. travail
-7. trey
+	49. trigram
+	50. trigraph
+	51. trihedral
+	52. trihedron
+	53. trilateral
+	54. trilingual
+	55. triliteral
+	56. trilling
+	57. trilllium
+	58. triobite
+	59. trilocular
+	60. trilogy
+	61. trimaran
+	62. trimester
+	63. trimetric
+	64. trimetrogon
+	65. trimonthly
+	66. trimotor
+	67. trinal
+	68. trinary
+	69. Trine
+	70. trinitrotoluene
+	71. trinity
+	72. trinomial
+	73. trio
+	74. triode
+	75. triolet
+	76. trioxide
+	77. tripartite
+	78. tripartition
+	79. triphase
+	80. triphenylethane
+	81. triphibian
+	82. triphibious
+	83. triphthong
+	84. triplane
+	85. triplicate
+	86. tripod
+		1. _n._ [rack](dic://rack), [stand](dic://stand)
+		2. **camera**照相机;**DSLR**单眼数位相机;**viewfinder**取景器;**camcorder**便携式摄像机;**cameras**摄像机，照相机;**lens**透镜;**swivel**转环;**SLR**单镜头反射;**mount**爬上;**photography**摄影;**telescope**望远镜;
+		3. Seat the telescope on the tripod. /把望远镜安装在三脚架上。
+	87. triptych
+	88. triquetrous
+	89. trireme
+	90. trisect
+	91. trisha
+	92. trishaw
+	93. trisyllabic
+	94. trisyllable
+	95. tritheism
+	96. tritheist
+	97. triumvir
+	98. triune
+	99. triunity
+	100. trivalence
+	101. trivalent
+	102. trivet
+	103. trivial
+	104. trivia
+	105. trivium
+	106. triathlon
+	107. triweekly
+	108. estriol
+	109. sitar
+	110. strikeout
+	111. tea-poy
+	112. ternary
+	113. ternate
+	114. tervalent
+	115. tierce
+	116. Trias
+	117. Triassic
+	118. triathlon
+	119. tricyclic
+	120. trihalomethane
+	121. trilobine
+	122. Trinitarian
+	123. triphosphate
+	124. triple
+	125. triplex
+	126. triploid
+	127. trisomy
+4. three
+5. travail
+	1. n. 分娩的痛苦, 阵痛, 辛劳  
+	2. vi. 发生阵痛, 辛劳
+	3. travel（旅行）：古代令人痛苦的长途旅行  
+	4. 英语中，表示“旅行”的单词travel和表示“艰辛劳动、分娩之苦”的单词travail拼写十分接近，实际上它们来自同一词源，拥有相同的初始含义，表示“受苦、辛苦劳作”。在中世纪时，交通很不发达，因此长途旅行是一件非常令人痛苦并且危险的事情。单词travel的词源就反映了这一事实。  
+	5. travel：['træv(ə)l] v.旅行，经过，行进n.旅行，游历  
+	6. travail： ['træveɪl] n.艰苦劳动，分娩之苦vi.辛勤劳动，经受分娩之苦
+	7. travail - 在古时候出门旅行是极其辛苦而又非常危险的事，这一点在英语某些词的词源上就有所反映。例如现指“旅行”的travel一词原先就含有“辛苦”之义，它是意指“辛苦”或“剧痛”的travail一词之异体。其实这两个词都来自法语travailer（劳动），并可溯源至拉丁语trepālium（刑具）。当我们说farewell（再见）时，实际上常含有travel well（一路平安）的意思。甚至连peril（危险）一词也是源于意含the danger of going forth to travel（出门旅行的风险）的拉丁词periculum的。
+	8.  [parturiency](dic://parturiency), [labor](dic://labor), [labour](dic://labour), [confinement](dic://confinement), [lying-in](dic://lying-in), [childbed](dic://childbed)
+	9.  [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [sweat](dic://sweat)
+	10.  [labor](dic://labor), [labour](dic://labour), [toil](dic://toil), [fag](dic://fag), [grind](dic://grind), [drudge](dic://drudge), [dig](dic://dig), [moil](dic://moil)
+	11. _n._ [parturition](dic://parturition), [birth](dic://birth), [giving birth](dic://giving%20birth), [birthing](dic://birthing), [labor](dic://labor), [labour](dic://labour), [toil](dic://toil)
+	12. _v._ [work](dic://work), [do work](dic://do%20work)
+	13. **toil**苦工;**anguish**苦闷;**affliction**折磨;**agony**极大的痛苦;**endure**忍耐;**labour**劳动力，人工;**strife**冲突;**woe**悲哀，悲痛;**sorrow**悲伤;**labored**吃力的;**misery**痛苦，悲惨;
+	14. _[in travail](dic://in%20travail)_ 在阵痛中
+	15. He gained the medal through his painful travail. /他通过艰辛的努力获得了奖牌。
+	16. Mothers know the travail of giving birth to a child /母亲们了解分娩时的痛苦。
+	17. A keen interest in the travails of Everyman has defined his television career, too. /对普通人苦难的强烈兴趣也决定了他的电视事业。
+	18. A new concept in air transportation, the travail has been taken out of travel. /这是航空运输崭新的概念, 痛苦已经从旅行中完全剔除。
+	19. The vain travail hath wearied me so sore, I am of them that farthest cometh behind. /徒劳的努力已让我如此酸楚倦疲，他们中我走得最远但仍落在后处。
+	20. Journalist-haters in his mould might not care about the travails of America's news firms, but many Americans do. /像他一样憎恨记者的人们或许并不关心美国新闻机构的“辛勤劳动”，但许多美国人可在乎。
+	21. Flaubert's novel shows us the tensions and travails of married life without ever really taking sides. /福楼拜的小说向我们展示了婚姻生活的紧张和痛苦，但从未真正偏袒任何一方。
+	22. The question for China, and for the many companies and countries around the world linked to its economy, is whether Mr Li's travails are indicative of a much broader problem. /对于中国以及全球许多与中国经济相关的企业和国家来说，眼前的一个问题是，李新明的遭遇是否预示着一个更广泛的问题。
+	23. There was much conflict among them and it was only after much travail that a constitution for a united Germany was drawn up. /他们之间有很多冲突，只是在经历了很多艰辛之后，才起草了统一德国的宪法。
+6. trey
 	1. - n. 三点的牌；三点的骰子；刻有三点的一面；三分球
+	2. 来自古法语 treis,三，来自拉丁语 tria,三，词源同 three.后用于俚语指三点，三倍，三次等，常用于篮球运动中的三分球。
+	3.  [three](dic://three), [3](dic://3), [III](dic://III), [trio](dic://trio), [threesome](dic://threesome), [tierce](dic://tierce), [leash](dic://leash), [troika](dic://troika), [triad](dic://triad), [trine](dic://trine), [trinity](dic://trinity), [ternary](dic://ternary), [ternion](dic://ternion), [triplet](dic://triplet), [tercet](dic://tercet), [terzetto](dic://terzetto), [deuce-ace](dic://deuce-ace)
+	4. _n._ [digit](dic://digit), [figure](dic://figure), [playing card](dic://playing%20card)
+	5. **layup**单手上篮;**dunk**浸;**buzzer**蜂鸣器;**rebounds**篮板球;**halftime**中场休息;
+	6. 
 
 
 ### trib- = 表示“部落”，引申为“贡品、给予”。来自 tri- 三 + be- 存在。
@@ -4845,10 +5011,25 @@
 
 ### tric-,trig- = petty obstacle, 表示“小障碍”。
 1. extricate
-	1. **detach**分离;**predicament**困难的处境;**entangled**卷入的;**trapped**陷入困境的;**liberate**解放;**pry**打听;**escape**逃避，避免;**maneuver**策略;**restrain**抑制，控制;**pull**拉;**recover**恢复;
-	2. extricator
-	3. extrication
-	4. extricable
+	1. vt. 使解脱, 救出
+	2. ex-向外 + tric-琐事 + -ate。即脱离琐事。
+	3. _v._ [free](dic://free), [disengage](dic://disengage)
+	4. **detach**分离;**predicament**困难的处境;**entangled**卷入的;**trapped**陷入困境的;**liberate**解放;**pry**打听;**escape**逃避，避免;**maneuver**策略;**restrain**抑制，控制;**pull**拉;**recover**恢复;
+	5. Mercifully some one arrived upon the scene to extricate him from the dilemma and assume the responsibility /幸亏有个人来替他解围，把责任包揽下来。
+	6. "The meeting seemed to be endless, but I extricated myself by saying I had to catch a plane." /1. "会议好象没完没了,不过我说我得赶飞机,才得以脱身。"
+	7. Audiences also enjoyed the lawyer's resourceful efforts to extricate himself from his dilemma. /读者同样享受主人公使尽浑身解数从这种困境中挣脱出来的过程。
+	8. Resecuers are still trying to extricate 5 others from beneath the debris. /救援人员仍在努力从废墟下救出另外 5 人。
+	9. extricator
+	10. extrication
+		1. _n._ [liberation](dic://liberation), [release](dic://release), [freeing](dic://freeing)
+		2. **rescue**营救;**emergency**紧急情况, 不测事件, 非常时刻;**ambulance**救护车;**rescuers**救援者;**maneuver**策略;**evacuation**撤空;**EMS**增强型短信服务;**firefighter**消防队员;**winch**卷扬机,绞车,辘轳;
+			1. [extraction](dic://extraction) n. 取出,拔出;开采 拔牙 血统,家世
+			2. [extradition](dic://extradition) n. 引渡逃犯；将亡命者送还本国
+		3. _[extrication](dic://extrication)_  n. 解脱；救出；游离
+		4. _[aircraft extrication](dic://aircraft%20extrication)_  从飞机中解救出来
+		5. When soldiers arrived to help remove the subjects, the extrication process wasn’t exactly fun. /当士兵前来帮助转移对象时， 解救过程并不十分有趣。
+		6. The essence of the **extrication** of Chan sect is the freedom of life /禅宗解脱的实质是生命的自由。
+	11. extricable
 		1. inextricable, inextricably
 		2. inextricability
 2. intricate
@@ -4860,27 +5041,61 @@
 	3. intriguante
 	4. intriguant
 	5. intrigant
-4. trick
-	1. tricky
-	2. tricksy
-	3. trickster
-	4. trickish
-	5. trickery
-	6. tricker
-	7. overtrick
+4. trick 
+	1. 1. _n._ 戏法，把戏
+	2. 计谋，诡计，花招
+	3. 诀窍，技巧，技艺
+	4. _vt._ 哄骗；欺骗
+	5. 打扮
+	6. _adj._ 用于特技的
+	7. 有意捉弄人的
+	8. [fast one](dic://fast one)
+	9.  [antic](dic://antic), [joke](dic://joke), [prank](dic://prank), [caper](dic://caper), [put-on](dic://put-on)
+	10.  [magic trick](dic://magic trick), [conjuring trick](dic://conjuring trick), [magic](dic://magic), [legerdemain](dic://legerdemain), [conjuration](dic://conjuration), [thaumaturgy](dic://thaumaturgy), [illusion](dic://illusion), [deception](dic://deception)
+	11.  [whoremaster](dic://whoremaster), [whoremonger](dic://whoremonger), [john](dic://john)
+	12.  [flim-flam](dic://flim-flam), [fob](dic://fob), [fox](dic://fox), [pull a fast one on](dic://pull a fast one on), [play a trick on](dic://play a trick on)
+	13. _n._ [device](dic://device), [gimmick](dic://gimmick), [twist](dic://twist), [shift](dic://shift), [work shift](dic://work%20shift), [duty period](dic://duty%20period), [dishonesty](dic://dishonesty)
+	14. _v._ [deceive](dic://deceive), [lead on](dic://lead%20on), [delude](dic://delude), [cozen](dic://cozen)
+		1. [cheat](dic://cheat) 普通用词，指用蒙蔽他人的手段取得所需之物，尤多指在赢利的买卖中欺骗人。  
+		2. [deceive](dic://deceive) 最普通用词，指用虚假外表使人信以为真，或蓄意歪曲事实，或造成错误印象使人上当受骗。  
+		3. [trick](dic://trick) 指用阴谋诡计等骗得信任或得到所需之物。  
+		4. [fool](dic://fool) 指把别人当傻瓜，愚弄欺骗别人。
+	15. **ploy**策略;**ruse**诡计;**tactic**策略，战略;**hat**帽子;**clever**聪明的;**gimmick**暗机关;**disguise**假装;**magic**巫术，魔法，戏法;**technique**技术;**magician**魔术师，变戏法的人;**sneaky**鬼鬼祟祟的;
+	16. _do the trick_ 获得成功
+	17. _trick or treat_ 不招待就使坏（指万圣节孩子们挨家逐户要糖果等礼物，如不遂愿便恶作剧一番的风俗）
+	18. _hat trick_ 帽子戏法（指连入三球），[板球]连中三柱（使对方三击球手退场）
+	19. _play a trick_ （搞）恶作剧，捉弄
+	20. _dirty trick_ 卑鄙手段
+	21. _play a trick on_ 开……的玩笑；捉弄……
+	22. _clever trick_ 高明的把戏；聪明的花招；熟练的伎俩
+	23. _trick question_ 偏题
+	24. _confidence trick_ 骗局；欺诈
+	25. _trick or treating_ 不给糖果就捣蛋
+	26. 
+	27. tricky
+	28. tricksy
+	29. trickster
+		1. _n._ [troublemaker](dic://troublemaker), [trouble maker](dic://trouble%20maker), [troubler](dic://troubler), [mischief-maker](dic://mischief-maker), [bad hat](dic://bad%20hat), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		2. **mischievous**淘气的, 顽皮的;**cunning**狡猾的;**magician**魔术师，变戏法的人;**devious**弯曲的;**sly**狡猾的;**shaman**萨满教的道士;**archetype**原型;**storyteller**讲故事者;**thief**小偷，贼;**fable**寓言;**trick**诡计;
+		3. _[trickster](dic://trickster)_  n. 骗子；魔术师
+		4. _[trickster tale](dic://trickster%20tale)_  机智人物故事
+	30. trickish
+	31. trickery
+	32. tricker
+	33. overtrick
 5. treachery
-	1. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
-	2. **betrayal**背叛;**deceit**欺骗;**cowardice**懦弱;**treason**叛国罪;**deception**欺骗;**traitor**叛徒;**complicity**合谋, 串通;**wickedness**邪恶;**dishonesty**不诚实的行为;**intrigue**阴谋;**cunning**狡猾
-	3. treachery from within /内部欺诈
-	4. treacherous
+	27. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
+	28. **betrayal**背叛;**deceit**欺骗;**cowardice**懦弱;**treason**叛国罪;**deception**欺骗;**traitor**叛徒;**complicity**合谋, 串通;**wickedness**邪恶;**dishonesty**不诚实的行为;**intrigue**阴谋;**cunning**狡猾
+	29. treachery from within /内部欺诈
+	30. treacherous
 		1. _[treacherous](dic://treacherous)_  adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的
 		2. _adj._ [dangerous](dic://dangerous), [unsafe](dic://unsafe), [unfaithful](dic://unfaithful)
 		3. _n._ [safe](dic://safe), [faithful](dic://faithful)
 		4. **perilous**危险的，冒险的;**dangerous**有危险的, 危险的;**devious**弯曲的;**unforgiving**不可宽恕的,不能原谅的;**slippery**滑的;**icy**冰冷的;**murderous**蓄意谋杀的;**treachery**背信弃义, 不忠, 背叛;**stormy**暴风雨的;**deadly**致命的;**ruthless**无情的，残忍的;
 		5. The frozen snow was treacherous to walk on /在冻雪上行走有潜在危险。
 		6. he was an unfeeling, treacherous monster. /他是冷酷无情、阴险奸诈的恶魔。
-	5. treacherousness
-	6. treacherously
+	31. treacherousness
+	32. treacherously
 
 
 

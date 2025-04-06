@@ -3213,13 +3213,62 @@
 	5. remount
 	6. seamount
 	7. surmount
+		1. insurmountable
+			1. _adj._ [insuperable](dic://insuperable), [unconquerable](dic://unconquerable)
+			2. _n._ [surmountable](dic://surmountable), [conquerable](dic://conquerable)
+			3. **overcome**克服;**daunting**使人畏缩的;**hurdle**障碍;**obstacle**障碍，干扰;**hurdles**跨栏;**formidable**可怕的;**overwhelming**势不可挡的, 压倒一切的;**faced**有某种面孔或表情的;**impossible**不可能的;**inconceivable**不可思议的;**overcame**克服;
+			4. Lack of money has proved an almost insurmountable obstacle. /资金不足已成为一个几乎无法逾越的障碍。
+			5. The age barrier appeared insurmountable. /年龄障碍看来是无法逾越的。
+			6. There is no insurmountable difficulty before a brave man;it is in difficult circumstances that a hero distinguishes himself. /好汉面前无困难,困难当中出英雄。
+			7. " This was a big problem, a very big problem that seemed almost insurmountable" /" 这是一个大问题，一个看起来几乎无法克服的非常大的问题。"
+			8. Now, normally being a convicted murderer would be an insurmountable obstacle to admission. Not for Caravaggio. /现在说来，常理上一个通缉犯的身份应该成为他得到认可的难以逾越的障碍，但是卡瓦拉乔却另当别论。
 	8. mound
-		1. [knoll](dic://knoll), [hillock](dic://hillock), [hummock](dic://hummock), [hammock](dic://hammock)
-		2. [pile](dic://pile), [heap](dic://heap), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation), [cumulus](dic://cumulus)
-		3. [baseball equipment](dic://baseball equipment), [hill](dic://hill), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [structure](dic://structure)
-		4. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould), [forge](dic://forge)
-		5. **pitcher**投手;**dugout**独木舟;**pitchers**瓷渣;**pitching**铺地石;**bullpen**牛栏;**inning**一局;**infield**内野;**batter**击球手;**hill**小山;**fastball**快球;**right-hander**用右手的人,右手打击;
+		1. 1. _n._ 土堆；土丘
+		2. 一大堆
+		3. [hill](dic://hill), [pitcher's mound](dic://pitcher's mound)
+		4. [knoll](dic://knoll), [hillock](dic://hillock), [hummock](dic://hummock), [hammock](dic://hammock)
+		5. [pile](dic://pile), [heap](dic://heap), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation), [cumulus](dic://cumulus)
+		6. [baseball equipment](dic://baseball equipment), [hill](dic://hill), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [structure](dic://structure)
+		7. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould), [forge](dic://forge)
+		8. **pitcher**投手;**dugout**独木舟;**pitchers**瓷渣;**pitching**铺地石;**bullpen**牛栏;**inning**一局;**infield**内野;**batter**击球手;**hill**小山;**fastball**快球;**right-hander**用右手的人,右手打击;
+		9. _rubble mound_ 毛石堆；毛石基；堆石斜坡堤
+		10. _mound breakwater_ 堆石防波堤；斜坡式防波堤
+		11. There is a mound of papers on my desk. /在我的办公桌上有一大堆文件。
+		12. This is the funeral mound of James DeWolf. /这是詹姆斯·德沃尔夫的墓地。
+		13. The explorers climbed a mound to survey the land around them. /探险者爬上一个土堆以测量他们四周的土地。
+		14. Hurricane-force wind gusts piled up mounds of ice along Lake Erie's shores. /飓风級强风使得伊利湖畔出现结冰现象。
+		15. Again the problem is the geology; we had to level the mounds on the track for safety reasons. /这里依旧有地质问题，我们不得不考虑安全因素，使轨道上的土丘更平坦。
+		16. 
 4. mouth
+	1. [oral cavity](dic://oral cavity), [oral fissure](dic://oral fissure), [rima oris](dic://rima oris)
+	2.  [mouthpiece](dic://mouthpiece)
+	3.  [sass](dic://sass), [sassing](dic://sassing), [backtalk](dic://backtalk), [back talk](dic://back talk), [lip](dic://lip)
+	4.  [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+	5. _n._ [rima](dic://rima), [orifice](dic://orifice), [opening](dic://opening), [porta](dic://porta), [gap](dic://gap), [geological formation](dic://geological%20formation), [formation](dic://formation)
+	6. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate), [feign](dic://feign), [sham](dic://sham), [pretend](dic://pretend), [affect](dic://affect), [dissemble](dic://dissemble)
+	7. **tongue**语言;**lips**嘴唇;**throat**喉咙;**nostrils**鼻孔;**spit**吐口水;**nose**鼻子;**swallowing**吞咽;**anus**肛门;**saliva**唾液;**teeth**牙齿;**gums**牙龈，树胶;
+	8. _mouth on someone_ [美国俚语]告发某人
+	9. _river mouth_ 河口
+	10. _from mouth to mouth_ 广泛流传
+	11. _big mouth_ 多嘴者
+	12. _from hand to mouth_ adv. 仅能糊口地
+	13. _mouth to mouth_ adj. 口对口的;adv. 口对口地;
+	14. _mouth water_ 口水；垂涎
+	15. _mouth off_ 粗暴地讲话；顶嘴；粗鲁地说
+	16. _in the mouth of_ adv. 出于…之口；据说
+	17. _foot and mouth disease_ [病]口蹄疫
+	18. _open one's mouth_ 开口，说话
+	19. _mouth open_ 张着嘴
+	20. _hand to mouth_ 现挣现吃地；仅够糊口地
+	21. _with open mouth_ 张口结舌地
+	22. _have a big mouth_ 大声说话；说话冒失
+	23. _bad mouth_ 不听从使唤
+	24. _mouth cavity_ 口腔
+	25. _down in the mouth_ 垂头丧气；沮丧的
+	26. _run at the mouth_ 流口水
+	27. _bell mouth_ 喇叭口；锥形孔
+	28. He says " No useless mouth to feed." /“我们不养没用的人。”
+	29. I warned you about your dirty mouth. /我警告过你不要乱说脏话。
 #### + \*men-(3) + = to remain
 1. **maison-** = house, 表示“屋子”。源自拉丁语 manere "to remain."
 	1. maisonette
@@ -3231,31 +3280,79 @@
 		3. remainder
 			1. remaindership
 			2. remainderman
-	2. immanence
-	3. immanency
-	4. immanent
-	5. manor, manorial
+	2. immanent [美 /ˈɪmənənt/](cmd://Speak/_us_/immanent) (imminent) (inherent)
+		1.  [subjective](dic://subjective)
+		2. _adj._ [distributive](dic://distributive)
+		3. _n._ [transeunt](dic://transeunt), [transient](dic://transient), [collective](dic://collective)
+		4. **transcendent**卓越的;**imminent**迫近的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**manifestation**显示;**existential**有关存在的;**transcendental**超凡的;**divine**神圣的;**singularity**异常,奇怪,奇特;**primordial**原始的;**metaphysics**形而上学,玄学;**eternal**永恒的;
+		5. _[immanent transcendency](dic://immanent%20transcendency)_ 内在超越
+		6. _[immanent omnipresent](dic://immanent%20omnipresent)_ 无所不在的
+		7. _[immanent obligation](dic://immanent%20obligation)_ 内在约束
+		8. _[Immanent Philosophy](dic://Immanent%20Philosophy)_ 内在哲学
+		9. _[immanent cycle](dic://immanent%20cycle)_ 内循环
+		10. _[immanent justice](dic://immanent%20justice)_ 内在公正；内在正义；隐含性正义
+		11. believed in a God immanent in human beings./ 相信人类有一个内在的上帝
+		12. God is immanent to the world. /天主内在于世界。
+		13. To the grave, immanent dangers of living and  moving through an unending and unknown space. /在无尽和未知的空间中生活和移动的严重、内在的危险。
+		14. These rational principles constitute the essence of law— the universal law immanent in all things /这些理性原则构成了法律的本质 - - 万物皆有的普遍法则。
+		15. It will therefore be entirely different from all principles of understanding, the employment of which is wholly immanent, inasmuch as they have as their theme only the possibility of experience. /因此，它将与所有理解原则完全不同，理解原则的使用完全是内在的，因为它们的主题只是经验的可能性。
+		16. It is a poetic summation of the common image of the internet as an ethereal, non-physical thing—an immanent Cloud that is at once everywhere and for ever on the far side of a screen. /飘逸、虚无的东西——如一朵浮云，可以即刻无处不在，而又永远在电脑屏幕遥远的另一端。
+		17. 
+		18. [immanence](dic://immanence) n. 内在；无所不在；固有；含蓄
+		19. [immanency](dic://immanency) n. 包含(含蓄；内在性；固有性)
+	3. manor, manorial
 		1. **mansion**大厦;**castle**城堡;**abbey**大修道院，大寺院;**estates**不动产;**farmhouse**农舍;**house**住宅;**feudal**封建制度的;**inn**旅馆;**nobleman**贵族;**stately**庄严的;**parish**教区;
 		2. [mansion](dic://mansion), [mansion house](dic://mansion house), [manse](dic://manse), [hall](dic://hall), [residence](dic://residence), [estate](dic://estate), [land](dic://land)
-	6. mansion
-	7. permanent
+	4. mansion
+	5. permanent
 		1. semipermanent
 		2. permanentness
 		3. permanently
 		4. permanency, impermanency
 		5. permanence, impermanence
 		6. impermanent, impermanently
-	8. remanence, thermoremanence
-	9. remanent
-	10. manse
-	11. menage
-	12. menageric
-	13. menagerie
-	14. messuage
-	15. remnant
+	6. remanent  (remanent, remnant)
+		1. adj. 剩余的；残余的
+		2. remanence, thermoremanence
+	7. manse
+		1.  [mansion](dic://mansion), [mansion house](dic://mansion house), [hall](dic://hall), [residence](dic://residence)
+		2. _n._ [house](dic://house), [residence](dic://residence)
+		3. **manor**庄园;**stately**庄严的;**house**住宅;**chapel**小教堂;**homestead**家宅,宅地,农庄;**Presbyterian**长老会的;**dilapidated**破旧的;**congregation**人群;**edifice**大厦;**bungalow**平房;**abode**住处;
+		4. " Your Grace, " said Missandei, " Ghiscari inter their honored dead in crypts below their manses. if you would boil the bones clean and return them to their kin, it would be a kindness" /" 陛下，" 弥桑黛说，" 吉斯人把受敬重的死者埋在自家住宅下的地穴里。若您把骨头煮干净，送还他们的亲人，将是一项善举。"
+	8. menage (manage)
+		1. n. （法）家庭，家务
+		2.  [family](dic://family), [household](dic://household), [house](dic://house), [home](dic://home)
+		3. _n._ [unit](dic://unit), [social unit](dic://social%20unit)
+		4. **steamy**蒸汽的;**romance**浪漫史;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**romances**冒险故事;**erotica**色情作品;
+		5. Did donna ask you to have a menage a trois with the Jens? /难道是多娜要求带上珍氏姐妹三人行吗？
+		6. Louise said there was some sort of a peculiar **menage** she ran into up here. /露意丝说她来的时候看见这里有一种特别的组织。
+		7. Visitors are flocking to see the characters in an unusual **menage** a trois at San Francisco zoo. /游客们正聚集起来，观看旧金山动物园里一场不寻常的三角恋中的角色。
+	9. menageric
+	10. menagerie [美 /mə'nædʒəri/](cmd://Speak/_us_/menagerie)
+		1. [zoo](dic://zoo), [zoological garden](dic://zoological garden)
+		2. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [facility](dic://facility), [installation](dic://installation)
+		3. **zoo**动物园;**circus**马戏团;**assorted**混杂的;**reptiles**爬行类;**fantastical**空想的,捕风捉影的;**animal**动物;**beasts**野兽;**reptile**爬虫类的;**assortment**分类;**whimsical**异想天开的,闹着玩的;**miniature**小型的, 微小的;
+		4. 'Well, he certainly must have strained himself to get this menagerie together.' /" 我说，他一定花了很大的气力才搜罗到这么一大帮牛头马面。"
+		5. They'll feed it during our absence. Anyhow, we'll leave instructions to ship the whole menagerie to France. /我们不在的时候，托人喂它。另外还要托人将我们的那群动物运回法国去。
+		6. Just our luck, menagerie beneath the " boulder people" of Granitor Seven. /我们运气真好，动物园，就在格兰里特七号的卵石人下面。
+		7. I also have a menagerie of pets with quite obnoxious personalities that keep me highly entertained /我也有一群性格非常讨厌的宠物，它们让我非常开心。
+	11. messuage
+	12. remnant (remanent, remnant)
+		1. [leftover](dic://leftover)
+		2.  [end](dic://end), [remainder](dic://remainder), [oddment](dic://oddment)
+		3. _n._ [remainder](dic://remainder), [balance](dic://balance), [residual](dic://residual), [residue](dic://residue), [residuum](dic://residuum), [rest](dic://rest), [piece of cloth](dic://piece%20of%20cloth)
+		4. **relic**废墟;**fragment**碎片;**tattered**破烂的，衣衫褴褛的;**leftover**残留物;**stronghold**要塞;**sliver**裂片;**extant**现存的;**scattered**分散的;**preserved**保存的;**remaining**剩余的;
+		5. _supernova remnant_ 超新星遗迹，超新星残骸
+		6. Even today remnants of this practice remain. /甚至在今天这种做法还未绝迹。
+		7. The purpose of bleaching is to wipe off some pigment minim-metal ,soap, lecithoid, remnant pesticide and other impurity. /脱色的目的在于去除色素、微量金属、皂粒、胶质、残留农药和其它的杂质。
+		8. Even at this hour it was acrawl with men, builders pushing up a new switchback stair to join the remnants of the old. /即使它现在上面挤满了人，工匠正将新的梯子接到旧的上。
+		9. These are the remnants of India's Fabian nightmare. /这些就是噩梦般的费边主义在印度的残余。
 #### + \*men- (4)+
 1. **mano-** 表示“压力”。源自希腊语 manos "thin, rare; loose in texture, porous; scanty, few."
-	1. manometer
+	1. manometer (barometer)
+		1. _n._ [pressure gauge](dic://pressure%20gauge), [pressure gage](dic://pressure%20gage)
+		2. **thermometer**温度计;**valve**阀;**transducer**传感器,变频器;**gauges**计量表，仪表;**caliper**卡钳;**pressurized**加压;**measurement**测量，测量法;**cannula**套管，插管;**thermostat**恒温器;**piston**活塞;**pneumatic**充气的;
+		3. On any given day, I analyze the manometer levels for air displacement, friction and velocity. /我的日常就是分析压差数值，包括排气量、摩擦力、和速率。
 	2. manometric
 		1. a. 压力计的, 用压力计测量的
 	3. manometry
@@ -3265,7 +3362,153 @@
 		1. n. 血压计
 		2. sphygmo-搏动 + mano-压力 + -meter...仪
 2. **mono-** 表示“单个，一个”。源自希腊语 monos "alone, single, sole."
-3. minnow
+	1. monad
+	2. monadelphous
+	3. monadnock
+	4. monandrous
+	5. monandry
+	6. monarch
+		1. [sovereign](dic://sovereign), [crowned head](dic://crowned head)
+		2. [monarch butterfly](dic://monarch butterfly), [milkweed butterfly](dic://milkweed butterfly), [Danaus plexippus](dic://Danaus plexippus)
+		3. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head%20of%20state), [chief of state](dic://chief%20of%20state), [danaid](dic://danaid), [danaid butterfly](dic://danaid%20butterfly)
+		4. **monarchy**君主政体;**king**国王;**royal**皇家的;**prince**王子，国君;**coronation**加冕礼;**sovereign**元首;**queen**女王，王后;**regent**摄政者;**throne**王座;**emperor**皇帝，君主;**regal**帝王的;
+		5. _monarch butterfly_ 黑脉金斑蝶，王蝶
+		6. Its supreme governor, still, is the British monarch. /它的最高统治者仍然是英国君主。
+		7. Her image had appeared on more coins than any other living monarch. /她出现在硬币上的次数比任何其他在世君主都多。
+	7. monastery
+		1. _n._ [religious residence](dic://religious%20residence), [cloister](dic://cloister)
+		2. **monastic**僧侣;**abbey**大修道院，大寺院;**convent**女修道院;**abbot**男修道院院长;**monk**僧侣，修道士;**Benedictine**圣本笃修会修士;**chapel**小教堂;**cathedral**大教堂;**shrine**圣地;**nun**修女，尼姑;**fortress**要塞;
+		3. Westminster was refounded as a Benedictine monastery under Mary Tudor. /威斯敏斯特寺院在都铎王朝玛丽女王时代被重建为本笃会修道院。
+		4. In full agreement with his abbot, Columban zealously practiced the severe discipline of the monastery, leading a life of prayer, ascesis and study /在他的院长的首肯下，高隆邦以极大的热情实践修道院的刻苦规章---祈祷的生活，苦行和学习。
+	8. monastic
+		1.  [monk](dic://monk)
+		2.  [cloistered](dic://cloistered), [cloistral](dic://cloistral), [conventual](dic://conventual), [monastical](dic://monastical)
+		3. _n._ [religious](dic://religious)
+		4. _adj._ [unworldly](dic://unworldly)
+		5. _n._ [worldly](dic://worldly)
+		6. **monastery**修道院;**Benedictine**圣本笃修会修士;**monk**僧侣，修道士;**abbot**男修道院院长;**abbey**大修道院，大寺院;**ecclesiastical**基督教会的;**convent**女修道院;**Buddhist**佛教徒;**priestly**祭司的;**Franciscan**圣方济各会的;**hermit**隐士;
+	9. monatomic
+	10. monaural
+	11. monaxial
+	12. monism
+	13. monist
+		1. The alternative view that we're going to consider is not dualist, but monist. /另一个观点我们就不再考虑二元论 而是一元论。
+	14. monk
+		1. [monastic](dic://monastic)
+		2. _n._ [religious](dic://religious), [jazz musician](dic://jazz%20musician), [jazzman](dic://jazzman)
+		3. **abbot**男修道院院长;**monastery**修道院;**monastic**僧侣;**nun**修女，尼姑;**hermit**隐士;**priest**牧师;**cleric**牧师;**disciple**门徒，信徒;**Buddhist**佛教徒;**saint**圣徒;**mystic**神秘的;
+		4. _buddhist monk_ 头陀，和尚；比丘
+		5. He had been trained rigorously by the monks. /他接受过修道士的严格训练。
+	15. monoatomic
+	16. monobasic
+	17. monochord
+	18. monochromatic
+	19. monochrome
+	20. monocle
+	21. monocline
+	22. monocoque
+	23. monocotyledon
+	24. monocracy
+	25. monocrat
+	26. monocular
+	27. monoculture
+	28. monocycle
+	29. monocyclic
+	30. monocyte
+	31. monodist
+	32. monodrama
+	33. monody
+		1. - n. 挽歌；希腊悲剧的抒情独唱部；（美）单调的声音
+		2.  [monophony](dic://monophony), [monophonic music](dic://monophonic music)
+		3. _n._ [music](dic://music)
+		4. **melody**旋律;**symphonic**交响乐的;**melodic**有旋律的;**lyric**抒情的;**operatic**歌剧的;**hymn**赞美诗;**poem**诗;**choral**合唱队的;**ballad**歌谣，民谣;**soprano**女高音;**concerto**协奏曲;
+	34. monoecious
+	35. monofilament
+	36. monogamy
+		1. [monogamousness](dic://monogamousness)
+		2. _n._ [marriage](dic://marriage), [matrimony](dic://matrimony), [union](dic://union), [spousal relationship](dic://spousal%20relationship), [wedlock](dic://wedlock)
+		3. **polygamy**一夫多妻，一妻多夫，多配偶;**marriage**结婚;**infidelity**不信神;**chastity**纯洁;**courtship**求爱;**heterosexual**异性恋的;**abstinence**节制;**adultery**通奸，通奸行为;**patriarchy**父权制;**intimacy**亲密;**homosexuality**同性恋;
+	37. monogenic
+		1. monogenesis
+		2. monogenetic
+		3. monogenism
+	38. monogram
+		1. 1. n. 交织文字；将姓名的首字母组成的组合图案
+		2. vt. 把交织字母印绣刻于
+		3. _n._ [symbol](dic://symbol)
+		4. **lettering**字体;**embroidered**绣花的;**engraved**被牢记的;**logo**商标，徽标;**embossed**上面有浮雕图案的;**chevron**v形臂章;**motif**主题;**medallion**大奖章;**inscription**题字;**emblem**象征;**tote**携带;
+	39. monograph
+		1. _n._ [treatise](dic://treatise)
+		2. **treatise**论文;**foreword**前言;**bibliography**书目;**thesis**论文;**publication**出版;**book**书籍;**co-author**合著者;**preface**前言;**compendium**摘要,纲要;**dissertation**专题论文, 学位论文;**essays**短文;
+	40. monogynous
+	41. mongyny
+	42. monolatry
+	43. monolayer
+	44. monolingual
+	45. monolith
+		1. n. 巨型独石, 大独石碑
+		2. monolithic
+			1. a. 独石的, 完全统一的, 整体的
+		3. monolithics
+	46. monolog
+		1. n. 独白, 独脚戏, 独白场面, (非正式)(贬)滔滔不绝的话
+		2. monologue
+		3. monologize
+		4. monologist
+		5. monological
+		6. monologic
+	47. monomania
+		1. monomaniac
+	48. monomaniacal
+	49. monomark
+	50. monomer
+	51. monometallic
+		1. monometallism
+		2. monometallist
+	52. monomial
+	53. monomolecular
+	54. mononuclear
+	55. monophobia
+	56. monophosphate
+	57. monophthong
+	58. monoplane
+	59. monopolize
+		1. vt. 独占, 垄断
+		2. monopoly【垄断】 + -ize, 表动词。
+		3. monopolizer
+		4. monopolization
+		5. demonopolize
+		6. monopolise
+		7. monopolism
+		8. monopolist
+	60. monopoly
+		1. n. 垄断, 专卖权, 独占事业
+		2. mono-单个的 + poly-卖 → 独家卖 → 垄断。
+		3. 词根duo-表two，词根mono-表示one，词根oligo-表示a few，词根-poly表sell，词根-opsony表buy。现在来搭积木：monopoly独家垄断（only one seller） vs monopsony买主独家垄断（only one buyer）；duopoly双头垄断 vs duopsony两买家垄断；oligopoly寡头垄断 vsoligopsony寡头买家垄断。我也是醉了！
+	61. monorail
+		1.  mono-,单个的，rail,轨道。即单轨，代指单轨列车。
+	62. monosaccharide
+	63. monosaccharose
+	64. monosome
+	65. monostable
+	66. monostich
+	67. monosyllabic
+	68. monosyllable
+	69. monosymmetric
+	70. monosymmetrical
+	71. monotheism
+	72. monotheist
+	73. monotone
+	74. monotrematous
+	75. monotreme
+	76. monotype
+	77. monovalent
+	78. monovular
+	79. monoxide
+	80. monoclinous
+	81. monoclonal
+	82. monofunctional
+7. minnow
 
 
 ### + \*mend- +
@@ -3276,10 +3519,14 @@
 		3. vi. 好转, 改善
 		4. - 缩写自 amend,修理。来自拉丁语 emendare,修理，纠正错误，来自 ex-,向外，menda,错误，缺陷，词源同 mendicant,残疾人，行乞者。
 		5. mendacious
-			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
+			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, illusory)
 			2. mend-错误 + -acious(=-acy + -ous)形容词后缀。
-			3. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
-		7. mendacity
+			3. _adj._ [untruthful](dic://untruthful), [false](dic://false)
+			4. _n._ [truthful](dic://truthful), [true](dic://true)
+			5. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
+			6. Some reckon its failure to unearth masses of new information is down to a mix of mendacious reticence on the part of key witnesses and the pusillanimity of their inquisitors. /一些人承认，没能发现大量的新信息是由于关键证人的虚假的沉默和审判者的胆怯。
+			7. He said the party's claim that it had investigated every allegation of anti-Semitism among its members was a " mendacious fiction" . /他表示，该党声称已调查其成员中每一项反犹太主义指控，这是“虚假的虚构”。
+		6. mendacity
 			1. n. 虚伪, 谎话, 说谎癖
 			2. mend-错误 + -ac + -ity
 			3. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
@@ -3288,15 +3535,18 @@
 			6. In recent years, he has found himself drawn to mendacity, prevarication, fabrication—you know, lying. /近年来，他发现自己被谎言、推诿、蒙骗所吸引，这就是撒谎。
 			7. The fantasy of visible mendacity may help explain why " Pinocchio" is in vogue /这种对于谎言一目了然的幻想，可能有助于我们明白《匹诺曹》为什么如此流行。
 			8. She glowed; remembering the mendacity of the imagination, she flagged; then she freshened; then she fired; then she cooled again. /她脸放光彩；跟着想起这种想象的不着边际，又消沉了下去；随后情绪又振奋起来；她脸上发烫；再接着又冷了下去。
-		8. mender
-		9. mendicity
+		7. mender
+			1. [repairer](dic://repairer), [fixer](dic://fixer)
+			2. _n._ [skilled worker](dic://skilled%20worker), [trained worker](dic://trained%20worker), [skilled workman](dic://skilled%20workman)
+			3. **healer**医治者;**repair**修复;**blacksmith**铁匠;**maker**制造者;
+		8. mendicity
 			1. - n. 化缘；乞丐生活（等于 mendicancy）
 			2. mend-身体缺陷 + -ic + -ancy, 表名词
 			3. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
 			4. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
 			5. mendicant
 			6. mendicancy
-		10. mending
+		9. mending
 			1.  [repair](dic://repair), [fix](dic://fix), [fixing](dic://fixing), [fixture](dic://fixture), [mend](dic://mend), [reparation](dic://reparation)
 			2. _n._ [garment](dic://garment), [improvement](dic://improvement)
 			3. **fixing**固定;**repair**修复;**patching**修补;**sewing**缝纫;**frayed**受磨损;**repairs**备件;**undoing**毁灭;**broken**坏掉的;**washing**洗涤;**healing**能治愈的;**stitching**用U字钉钉箱,缝纫;
@@ -5096,6 +5346,8 @@
 	2. 来自德语 Prezel,来自中古高地德语 brezel,来自古高地德语 brecedela,来自拉丁语 bracchium,胳膊，手臂，词源同 brace,embrace.比喻用法，因这种小甜卷饼如同胳膊抱在一起而得名。
 	3. _n._ [cracker](dic://cracker)
 	4. **donut**炸面圈;**doughnut**圆环图;**bagel**百吉饼;**buns**<俚>屁股;**bun**小圆面包;**hamburger**汉堡包;**caramel**焦糖;**biscuit**小点心，饼干;**donuts**油炸圈饼;**sandwich**三明治;**chocolate**巧克力;
+	5.  n. (扭曲或棒状) 咸脆饼干, 椒盐卷饼, (美)(非正式)法国号  
+	6. All right, we got to get some pretzels. /好了，我们得去买些椒盐脆饼。
 
 
 ### met- 表示“恐惧”。
@@ -6166,6 +6418,61 @@
 8. patrimony
 9. sanctimony
 10. testimony
+
+
+### \*mori-
+1. **mar-** = sea, 表示“海洋”。源自拉丁语 mare "ocean"
+	1. mariculture
+	2. marine
+		1. ultramarine
+		2. transmarine
+		3. submarine
+			1. supersubmarine
+			2. submariner
+			3. antisubmarine
+		4. marinotherapy
+		5. marinobufagin
+		6. mariner
+		7. marinate (ferment, saturate, marinate, pickle, souse, )
+			1. [marinade](dic://marinade)
+			2. _v._ [steep](dic://steep), [infuse](dic://infuse)
+			3. **marinade**腌泡汁;**refrigerate**冷藏;**brine**卤水, 浓盐水;**simmer**炖;**fillets**嵌条;**soak**吸收，吸入;**stew**炖，炖汤;**brisket**胸肉;**chicken**小鸡;**ferment**发酵;**vinaigrette**色拉调味汁;
+			4. _[Marinated](dic://Marinated)_ 腌制; 卤的; 腌泡的; 
+			5. _[Deep marinating](dic://Deep%20marinating)_ 腌肉
+			6. _[hot marinating](dic://hot%20marinating)_ 热醋浸；热醋渍
+			7. _[marinating g](dic://marinating%20g)_ 海水腌制
+			8. _[marinating time](dic://marinating%20time)_ 浸泡时间
+			9. _[acid marinating](dic://acid%20marinating)_ 酸浸
+			10. _[marinating house](dic://marinating%20house)_ 加味腌制厂
+			11. _[mellow and marinate](dic://mellow%20and%20marinate)_ 成熟和完善
+			12. Marinated meat and baked bun are the perfect combination. /肉夹馍，是两种食物的绝妙组合-白吉馍和腊汁肉。
+			13. And if you prefer, you can even marinate it overnight /而且如果你喜欢，甚至可以腌制一夜。
+			14. So, this chicken has been marinated overnight /这只鸡已经腌制了一夜了。
+		8. marinamycin
+		9. marinade
+		10. marina
+			1. _n._ [dock](dic://dock), [dockage](dic://dockage), [docking facility](dic://docking%20facility)
+			2. **waterfront**海〔湖〕滨;**pier**水上平台, 码头;**wharf**码头;**mooring**下锚;**harbour**藏匿;**jetty**码头;**boat**小船;**lagoon**泻湖;**dock**船坞;**yacht**快艇, 帆船, 游艇;**boats**船艇;
+			3. a luxury block of flats overlooking the marina /俯瞰小港湾的豪华公寓楼
+			4. He followed his nose to the kitchen, and found Marina making tomato soup. /他一路闻着到了厨房，发现玛丽娜在做番茄汤。
+			5. Relax a while in the centre's pleasant marina or visit a theater or brewhouse /您可以在中心旁宜人的船坞边稍作休息，或造访剧院和啤酒厂。
+			6. They're ringed by resorts, marinas, and fishing cabins. /该湖区为避暑胜地、游艇船坞、钓鱼小屋环绕。
+		11. horse-marines
+		12. aquamarine
+	3. marish
+		1. _[marish](dic://marish)_  n. 沼泽; adj. 沼泽的;
+	4. maritime
+8. **mer-** = lake, 表示“湖”。源自古英语 mere "sea, lake, pond."
+	1. mermaid
+	2. merman
+9. marsh
+	1. marshy
+	2. marshmallow
+	3. marshland
+10. meerkat
+11. meerschaum
+12. mere
+13. morass
 
 
 ### + \*morwi- +

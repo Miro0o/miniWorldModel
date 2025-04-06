@@ -5856,7 +5856,7 @@
 		2. [excitement](dic://excitement), [excitation](dic://excitation), [inflammation](dic://inflammation), [fervour](dic://fervour)
 		3. _n._ [passion](dic://passion), [passionateness](dic://passionateness), [emotional arousal](dic://emotional arousal
 		4. **zeal**热心;**enthusiasm**热情, 热心;**fervent**强烈的;**vigor**活力，精力;**eagerness**渴望;**devotion**热爱;**gusto**热情,乐趣,津津有味;**frenzy**狂怒;**excitement**兴奋, 激动;**passion**激情;**indignation**愤怒, 愤慨, 气愤;
-	8. ferment (foment)
+	8. ferment (foment) (ferment, saturate, marinate, pickle, souse, )
 		1. 词源同brew, 酿造，酝酿。引申词义发酵。
 		2. n. 酵素, 发酵, 动乱 v. (使)发酵, (使)动乱
 		3.  [agitation](dic://agitation), [fermentation](dic://fermentation), [tempestuousness](dic://tempestuousness), [unrest](dic://unrest)
@@ -6147,6 +6147,88 @@
 	14. 
 2. proboscidean
 3. proboscis
+
+
+### bow- = bend, 来自于古英语 boga, 最终来自印欧词根 *bheug- (to bend 使弯曲）
+1. bow
+	1. sunbow
+	2. oxbow
+	3. longbow
+	4. fogbow
+	5. bowsprit
+	6. bowing
+	7. bowhead
+	8. bowed
+	9. bow-legs
+	10. bow-backed
+2. bowknot
+3. bowleg
+	1. bowlegged
+4. bowman
+5. bowshot
+6. bowstring
+7. bowyer
+8. crossbow
+	1. crossbowman
+9. elbow
+	1. elbowroom
+	2. elbowchair
+10. rainbow
+	1. rainbowlike
+11. saddlebow
+12. unbowed
+13. upbow
+14. bagel
+	1. bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 \*bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
+	2.  bag-,词源同 bow,弯，-el,小词后缀。形容该面包外观。
+15. bight
+	1. bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 \*bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
+	2. n. 海湾; 绳圈  
+	3. vt. 结成绳圈
+	4.  词源同 bow,弯，形容海湾诸多弯弯角角。
+16. buxom
+	1. a. (妇女)丰满的, 健美的
+	2. buxom - 一个词的发音所引起的联想有时可促成词义的变化。buxom一词在12世纪时拼作buhsum，原义为“顺从的”或“温顺的”，其发音听起来同bosom（胸）一词有点相似，与bust（妇女的胸部），breast（乳房）二词押头韵。看来很可能正是这一点使buxom与这三个词之间发生了联想，最后导致词义的演变。今天buxom仅能用于修饰女性，意思是“胸部丰满的”或“丰满漂亮的”。此义虽然同原义相差甚远，但我们从中还是不难看出此义与bosom等词之间存在的相互联系。
+	3. bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 \*bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
+	4.  bux-,词源同 bow,弯，弯腰。在古英语里指女人谦逊有礼。丰满义可能来自 busty,丰满的。
+	5. His brother fell in love with a buxom hairdresser. 他兄弟爱上了一位健美丰满的美发师。  
+	6. Nowadays, women want to be thin rather than buxom. (FWF) 如今，女人希望瘦一点，而不希望胸部丰满。
+17. bog
+	1.  词源同 bow,弯。形容沼泽软泥般的容易陷进去。
+	2.  n. 沼泽; <俚>厕所, 浴室  
+	3. v. (使) 陷于泥沼; 妨碍; 走开 (~ off)
+	4. bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 *bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
+	5.  [peat bog](dic://peat bog)
+	6.  [bog down](dic://bog down)
+	7. _n._ [wetland](dic://wetland)
+	8. _v._ [slow](dic://slow), [slow down](dic://slow down), [slow up](dic://slow up), [break](dic://break), [break off](dic://break off), [discontinue](dic://discontinue), [stop](dic://stop)
+	9. **muck**垃圾;**swamp**沼泽，低地，水洼;**peat**泥煤;**woodland**林地;**muddy**泥泞的;**mud**泥;**marsh**湿地;**ditch**在…上掘沟;**grassland**草原，牧场;**tundra**苔原;**gravel**砂砾;
+	10. _bog down_ 停顿；陷入困境
+	11. _peat bog_ 泥炭沼，泥炭沼泽
+	12. a bog of legal complications. /一大堆棘手的法律纠纷。
+	13. I told him to bog off. /我让他离开。
+	14. most are just bog-standard PCs or workstations. /绝大部分只是些普通的个人电脑或工作站。
+	15. How did the construction work bog down? /建筑工程怎样会停下来的?
+	16. We worried that the heavy rain across the prairie would soon bog our car. Don't bog me down in this mass of detail. /我们担心平原上的大雨将很快使我们的汽车陷入淤泥。不要让我陷入这些难缠的琐事中
+	17. If he saw a trucker in difficulty, he would just bog in and give a hand /如果他看到一个货运汽车司机有困难的话，他会非常热情地给予帮助。
+	18. All you need is a bog standard machine— nothing fancy. /你只需要一台普普通通的机器就行了—不要什么花里胡哨的玩意儿。
+	19. " These peat bogs are also an incredible store of carbon, aren't they, Milly? " /这些泥炭沼泽同时也储存了大量的碳，对吗，米莉？
+	20. It's only then you see some of the 29 different bog building moss species. /只有那样，你才能看到形成这片湿地的 29 种苔藓中的一些。
+	21. According to Dr Steffen, two things bog down the boarding process. /史蒂芬博士提出有两大因素容易阻碍登机过程。
+	22. embog
+	23. Bogtrotter
+	24. boggy
+		1. [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [sloughy](dic://sloughy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
+		2. _adj._ [wet](dic://wet)
+		3. _n._ [dry](dic://dry)
+		4. **muddy**泥泞的;**bog**沼泽;**swamp**沼泽，低地，水洼;**hilly**多小山的;**grassy**长满草的;**rocky**岩石的，多岩石的;**soggy**浸水的;**woodland**林地;**overgrown**长得很快;**marsh**湿地;**damp**使潮湿;
+		5. East Anglia is a flat, boggy kind of place with a flat boggy kind of accent. /东安格利亚地区大多是沼泽平原，这里人发音也很黏腻，语调很平。
+		6. Didn't have one of its terrible boggy ones /没有出现那种糟糕的沉闷情况。
+		7. But it was, there was absolutely no wheel spin. It was a little bit boggy. /但是完全没有轮胎打滑。它有一点沉闷。
+		8. The reason they've survived is cuz they are in this lovely boggy wet, essentially back field river channel really. /它们能留存下来是因为这片美丽的湿地，更确切地说是河道后面的地域。
+		9. The lake was too high, the approach to the fence was too boggy for me to attempt it. /湖水太高，通往栅栏的路太沼泽了， 我无法尝试。
+		10. The swamp through which he was traveling was a wild place there was no trail, and it was boggy underfoot, which made walking difficult. /他刚才去的那个沼泽地是个荒凉的地方那里没有人迹，沼泽很多，非常难走。
+		11. The team also compared charcoal deposits in **boggy** meadows within the groves to the tree-ring fire history. /研究小组也将年轮记录的火灾历史与沼泽草甸中沉积的木炭进行了比较。
 
 
 

@@ -1500,8 +1500,80 @@
 		2. What exactly is it about these questions that gets under the skin? /这些令人心动的问题讲的什么内容呢？
 		3. Indeed, Flesh and Bone **gets** **under** **the** **skin** of its characters, who all have their own dark pasts. /事实上，《骨肉之躯》触及了人物皮囊之下的内心世界，他们都有各自不堪回首的过往。
 		4. It has resulted in a winning novel that is exciting, brilliantly written and **gets** deep **under** **the** **skin** of **the** Thatcherite 80s, Smith said. /“最终获奖的小说令人兴奋，写作上才华横溢而且深入到上世纪80年代撒切尔时期深层问题，”史密斯说。​​​​
-	8. woolskin
-	9. etc.
+	8. skincare
+		1. _n._ [care](dic://care), [attention](dic://attention), [aid](dic://aid), [tending](dic://tending)
+		2. **cosmetics**化妆品;**cleanser**清洁剂;**makeup**化妆品;**lotions**洗液;**lotion**洗液;**acne**痤疮，粉刺;**make-up**化妆品;**cosmetic**化妆用的;**dermatologist**皮肤病学家;**skin**皮肤;**beauty**美;
+		3. I'm Natalie Schulz White and I am the founder and CEO of Be Well Company Skincare. /我是 Be Well 公司护肤品的创始人兼首席执行官 Natalie Schulz White。
+		4. But look closer, this here container holds a slice of skincare. /但如果仔细看，你会发现这里有一片面膜。（face sheet）
+	9. woolskin
+	10. wineskin
+	11. toadskin
+	12. thin-skinned
+	13. thick-skinned
+	14. swanskin
+	15. snakeskin
+	16. skintight
+		1. _adj._ [tight](dic://tight)
+		2. _n._ [loose](dic://loose)
+		3. **jumpsuit**跳伞装;**spandex**斯潘德克斯弹性纤维;**leggings**裹腿，绑腿;**clad**穿衣的;**strapless**无带的,无背带的,无吊带的;**wearing**磨损的;**bikini**比基尼泳装;**one-piece**整块的,上下连在一起的,连衣裙的;**baggy**袋状的，膨胀的;**stretchy**有弹性的;**donning**插筒管;
+		4. So yes she's empowered but she's in a skintight catsuit. /所以，是的，她能掌控摩托车，但她穿着紧身连衣裤。
+		5. What? He was just wondering if he wo skintight jeans and a tank top if he'd get his shrimp lo mein for free. .笑啥？他在想要是他也穿紧身牛仔裤吊带背心，他的鲜虾捞面是不是也免费。
+		6. She wore high-heel black boots, skintight jeans, a tan jacket, and a scarf and had big hoop earnings dangling beside her shoulder-length blond hair. /她穿着高跟黑色靴子, 紧身牛仔裤, 棕褐色夹克和围巾, 肩长金色头发旁悬挂着大额奖金。
+		7. I'm not suggesting you buy skintight leggings, but some nice slacks would be slimming. /乔希：我不是建议你买紧身裤，但一些漂亮的休闲裤会显瘦。
+	17. skint
+		1. [broke](dic://broke), [bust](dic://bust), [stone-broke](dic://stone-broke), [stony-broke](dic://stony-broke)
+		2. _adj._ [poor](dic://poor)
+		3. _n._ [rich](dic://rich)
+		4. **daft**愚蠢可笑的;**quid**一英镑;**bugger**家伙;**mum**<英口>妈妈，母亲;**dodgy**狡猾的，逃避的;**reckon**猜想;**bloke**家伙;**lads**小伙子们;**destitute**赤贫的, 贫苦的;**unemployed**被解雇的;**arse**屁股;
+		5. " Which makes you pretty skint, witless, " said a cackling voice. /“会使你变成个穷光蛋，傻瓜！”一个声音尖笑着说。
+		6. I can't give you a tenner; I'm skint. /我十磅都给不了你，我是个穷光蛋。
+	18. skinpopping
+	19. skinny
+		1. skinny-dip
+		2. skininess
+	20. skinning
+	21. skinner
+		1. Francis Macomber had, half an hour before, been carried to his tent from the edge of the camp in triumph on the arms and shoulders of the cook, the personal boys, the skinner and the porters /弗朗西斯·麦康伯在半个钟头以前，从营地的边缘被厨子啦、侍候的仆人们啦、剥野兽皮的啦、搬运工人们啦，用胳膊和肩膀得意扬扬地抬到他的帐篷跟前。
+	22. skinned
+	23. skinless
+	24. skinhead
+	25. skinful
+	26. skinflint
+	27. skinbound
+	28. skin-diving
+	29. skin-dive
+		1. _n._ 赤身潜水,裸潜
+	30. skin-deep
+	31. silverskin
+	32. sheepskin
+	33. sharkskin
+	34. sealskin
+	35. scurfskin
+	36. scarfskin
+		1. _n._ 外皮,表皮
+	37. redskin
+	38. pigskin
+	39. onionskin
+	40. oilskin
+	41. moleskin
+	42. lambskin
+	43. kidskin
+	44. hornskin
+	45. hogskin
+	46. goosekin
+	47. goatskin
+	48. furskins
+	49. foreskin
+	50. dogskin
+	51. doeskin
+	52. deerskin
+	53. cowskin
+	54. copperskin
+	55. coonskin
+	56. clean-skin
+	57. calfskin
+	58. buckskin
+	59. bearskin
 8. zax
 
 
@@ -5973,24 +6045,48 @@
 	9. specular
 		1. a. 镜子的, 镜子一般的, 会反射的
 	10. suspect
-	11. espy
-		1. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
-		2. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
-		3. _v._ [sight](dic://sight)
-		4. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
-		5. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
-		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
-		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
-	12. despise
-		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
-		2. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
-		3. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
-		4. _v._ [hate](dic://hate), [detest](dic://detest)
-		5. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
-		6. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
-		7. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
-		8. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
-		9. despite
+		1.  sus-,在下，向上，-spect,看，词源同 spectate,respect.引申词义怀疑。
+		2. n. 被怀疑者, 嫌疑犯  
+		3. a. 令人怀疑的, 不可信的, 可疑的  
+		4. v. 怀疑, 猜想
+		5.  [defendant](dic://defendant)
+		6. [surmise](dic://surmise)
+		7.  [distrust](dic://distrust), [mistrust](dic://mistrust)
+		8.  [fishy](dic://fishy), [funny](dic://funny), [shady](dic://shady), [suspicious](dic://suspicious)
+		9. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [litigant](dic://litigant)
+		10. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [disbelieve](dic://disbelieve), [discredit](dic://discredit), [think](dic://think)
+		11. _adj._ [questionable](dic://questionable)
+		12. _n._ [unquestionable](dic://unquestionable)
+		13. [doubt](dic://doubt) 普通用词，多指因证据不足或仅凭证据还不能肯定而产生怀疑，多含否定意味。  
+		14. [suspect](dic://suspect) 指猜疑、疑心，肯定意味较多。  
+		15. [distrust](dic://distrust) 指疑惑、猜疑，不信任。
+		16. **presume**假定;**culprit**犯人，罪犯;**believe**信任;**suspicious**猜疑的, 疑心的;**guess**猜测;**suppose**假设;**suspicion**怀疑, 嫌疑;**hunch**预感;**guessing**猜测;**think**想;**speculate**思索;
+		17. _prime suspect_ 嫌疑重犯；主要嫌疑犯
+		18. _suspect of_ 怀疑
+		19. _[Usual suspects](dic://Usual%20suspects)_  秋后算账; 非常嫌疑犯; 常备嫌疑犯;
+			1. - 老面孔，常见嫌疑人：指一群经常出现在某种场合或被怀疑涉及某种事件的人。
+			2. Some were the usual suspects of cancer genetics. /其中有些是癌症遗传学通常怀疑的对象。
+			3. In truth, the schools that are currently struggling to hire teachers are the usual suspects. /事实上，那些目前招不到老师的都是一些司空见惯的学校了。
+			4. All the usual suspects in one place /几个惯犯全到齐了。
+			5. 
+	20. espy
+		2. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
+		3. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
+		4. _v._ [sight](dic://sight)
+		5. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
+		6. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
+		7. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
+		8. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
+	21. despise
+		9. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
+		10. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
+		11. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
+		12. _v._ [hate](dic://hate), [detest](dic://detest)
+		13. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
+		14. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
+		15. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
+		16. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
+		17. despite
 			2. 词源同despise,鄙视，-t, 过去分词后缀。用于引申义，尽管（鄙视），仍然。
 			3. [contempt](dic://contempt), [disdain](dic://disdain), [scorn](dic://scorn)
 			4. _n._ [dislike](dic://dislike), [disregard](dic://disregard), [neglect](dic://neglect)
@@ -6001,37 +6097,37 @@
 			6. despiteful, despicable,
 			7. spite, spiteful
 				1. 缩写自 despite,怨恨，憎恨。
-	13. respite
-		1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
-		2. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
-		3. n. （不快或困难的）暂缓，暂延；（做不喜欢的事之前的）暂缓，喘息 
-		4. v. <罕>暂缓执行（判决），暂缓履行（义务等）
-		5.  [reprieve](dic://reprieve)
-		6.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
-		7.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
-		8. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
-		9.  [reprieve](dic://reprieve)
-		10.  [reprieve](dic://reprieve)
-		11. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
-		12. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
-		13. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
-		14. _[respite care](dic://respite%20care)_  临时看护
-		15. _[payment respite](dic://payment%20respite)_  延期付款
-		16. _[poverty respite](dic://poverty%20respite)_ 扶贫
-		17. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
-		18. _[respite centers](dic://respite%20centers)_ 休中心
-		19. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
-		20. _[respite service](dic://respite%20service)_ 暂托服务
-		21. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
-		22. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
-		23. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
-		24. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
-		25. The catch is that the respite does not last. /但问题是Xalkori对病情的缓解作用持续时间不长。
-		26. Any respite will probably prove short-lived, however. /然而，任何缓和期都可能是短暂的。
-		27. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
-		28. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
-		29. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
-7. spy
+	22. respite
+		18. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
+		19. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+		20. n. （不快或困难的）暂缓，暂延；（做不喜欢的事之前的）暂缓，喘息 
+		21. v. <罕>暂缓执行（判决），暂缓履行（义务等）
+		22.  [reprieve](dic://reprieve)
+		23.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
+		24.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+		25. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
+		26.  [reprieve](dic://reprieve)
+		27.  [reprieve](dic://reprieve)
+		28. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
+		29. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+		30. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
+		31. _[respite care](dic://respite%20care)_  临时看护
+		32. _[payment respite](dic://payment%20respite)_  延期付款
+		33. _[poverty respite](dic://poverty%20respite)_ 扶贫
+		34. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
+		35. _[respite centers](dic://respite%20centers)_ 休中心
+		36. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
+		37. _[respite service](dic://respite%20service)_ 暂托服务
+		38. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
+		39. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
+		40. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
+		41. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
+		42. The catch is that the respite does not last. /但问题是Xalkori对病情的缓解作用持续时间不长。
+		43. Any respite will probably prove short-lived, however. /然而，任何缓和期都可能是短暂的。
+		44. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
+		45. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
+		46. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
+16. spy
 
 
 ### + \*spel- +
@@ -7802,20 +7898,282 @@
 		1. extinguish
 		2. 
 	7. stimuli, stimulus
-	8. instigate
-		1. **incite**煽动;**provoke**激怒;**initiate**开始，创始;**engage**雇佣;**induce**引诱;**facilitate**使便利, 减轻…的困难;**inciting**刺激的;**thwart**反对;**stimulate**刺激;**suppress**抑制;**disrupt**使分裂;
+	8. instigate (investigate)
+		1. vt. 教唆, 怂恿, 煽动
+		2. in-进入 + stig-=stinct刺 + -ate, 表动词 → 刺激[别人]内部 → 煽动。
+		3.  in-,进入，使，-stig,刺，棍，词源同 stick,instinct.引申词义唆使，煽动。
+		4. **incite**煽动;**provoke**激怒;**initiate**开始，创始;**engage**雇佣;**induce**引诱;**facilitate**使便利, 减轻…的困难;**inciting**刺激的;**thwart**反对;**stimulate**刺激;**suppress**抑制;**disrupt**使分裂;
+		5. instigator
+		6. instigation
+			1. [abetment](dic://abetment), [abettal](dic://abettal)
+			2. [fomentation](dic://fomentation)
+			3. _n._ [encouragement](dic://encouragement), [trigger](dic://trigger), [induction](dic://induction), [initiation](dic://initiation)
+			4. **behest**命令;**pretext**托辞;**auspices**支持;**provocation**激怒;**inciting**刺激的;**suspicion**怀疑, 嫌疑;**provoked**激起;**involvement**卷入;**insurrection**暴动;**accusation**指责;**hostility**敌意;
+			5. _[instigation therapy](dic://instigation%20therapy)_  鼓舞治疗法
+			6. _[repeated instigation](dic://repeated%20instigation)_ 连续性教唆
+			7. _[individual instigation](dic://individual%20instigation)_ 单独教唆
+			8. _[summary instigation](dic://summary%20instigation)_ 概然性教唆
+			9. _[attempted instigation](dic://attempted%20instigation)_ 未遂教唆
+			10. _[abortive instigation](dic://abortive%20instigation)_ 未遂教唆
+		7. coinstigate
 	9. stick
+		1. [control stick](dic://control stick), [joystick](dic://joystick)
+		2. [pin](dic://pin), [peg](dic://peg)
+		3. [joint](dic://joint), [marijuana cigarette](dic://marijuana cigarette), [reefer](dic://reefer), [spliff](dic://spliff)
+		4. [lodge](dic://lodge), [wedge](dic://wedge), [deposit](dic://deposit)
+		5.  [stay](dic://stay), [stick around](dic://stick around), [stay put](dic://stay put)
+		6.  [put forward](dic://put forward)
+		7. [adhere](dic://adhere), [hold fast](dic://hold fast), [bond](dic://bond), [bind](dic://bind), [stick to](dic://stick to)
+		8. [stand by](dic://stand by), [stick by](dic://stick by), [adhere](dic://adhere)
+		9. [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [cohere](dic://cohere)
+		10.  [sting](dic://sting)
+		11.  [perplex](dic://perplex), [vex](dic://vex), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+		12. _n._ [implement](dic://implement), [limb](dic://limb), [tree branch](dic://tree%20branch), [lever](dic://lever), [butter](dic://butter), [margarine](dic://margarine), [margarin](dic://margarin)
+		13. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [stay in place](dic://stay%20in%20place), [put](dic://put), [set](dic://set), [place](dic://place)
+		14. [cane](dic://cane) 多指用藤或竹制成的细长的手杖。   
+		15. [stick](dic://stick) 普通用词，指木制的细长手杖。  
+		16. [staff](dic://staff) 多指走路爬山时用作支持或防卫使用的长木棒。
+		17. **shove**推, 猛推, 乱推;**slap**掌击;**adhere**坚持;**shake**摇动;**put**放;**glue**粘合;**poke**刺，捅;**carrot**胡萝卜;**try**试验;**whack**重打;**pointy**尖的;
+		18. _stick with_ 坚持；继续做；保持联系
+		19. _stick it out_ 坚持到底
+		20. _stick in_ 在家
+		21. _stick together_ 在一起；团结一致；互相支持
+		22. _stick on_ 保持在…之上；贴上
+		23. _memory stick_ 记忆棒
+		24. _stick around_ v. 逗留；在附近徘徊
+		25. _stick out_ 突出；坚持；醒目
+		26. _stick at_ v. 坚持；犹豫；努力做
+		27. _walking stick_ n. 手杖
+		28. _on the stick_ [俚]十分用心；非常用功
+		29. _stick up_ 竖起；伸直；突出
+		30. _big stick_ n. 大棒政策（凭借本国实力用武力威胁别国的政策）；云梯
+		31. _stick it on_ [俚语];◎索取高价;◎夸大其词;
+		32. _stick into_ 插入；伸入
+		33. _stick up for_ 维护，支持；为……辩护
+		34. _out in the sticks_ [美国口语]远离城镇，在偏远地区
+		35. _carrot and stick_ 软硬兼施的；胡萝卜棍棒并用的
+		36. _stick in the mud_ v. 陷入泥坑
+		37. _stick by_ 忠于；坚持
+		38. yardstick
+		39. unstick
+			1. couldn't unstick the window /无法把窗户扯下来
+			2. Okay. If I'm stuck...maybe this will unstick me. /好吧 如果我灵魂被困在身体外 或许这玩意能让我醒过来。
+			3. And let's see if the concentration on economics and job creation can unstick the political stuff. /让我们看看，集中发展经济和创造就业是否能够解开政治难题。
+			4. " So how do their feet stick and unstick so quickly? " /“为什么它们的脚可以在粘住和 松开之间转换这么快？”
+			5. And if you get stuck in a particular identity, you have inquiry to unstick you. /如果你陷入某个特定身份，你有“功课”来让你脱身。
+			6. Mike shook his head, to **unstick** his hair from his sweating forehead. /麦克摇了摇头，使头发不再粘在他出汗的前额上。
+		40. sticky
+			1. stickybeak
+			2. stick-handed
+			3. sticky-fingered
+			4. sticky-back
+			5. stickiness
+		41. stickwork
+		42. stickup (uptick)
+			1.  _adj._ 突出的,竖领的,粘贴的
+			2. _n._ 坚起物,翘器物,竖领,强盗,抢劫者,粘贴
+			3.  [armed robbery](dic://armed robbery), [heist](dic://heist), [holdup](dic://holdup)
+			4. _n._ [robbery](dic://robbery)
+			5. **robbery**抢劫，盗窃;**robber**强盗;**heist**抢劫，拦劫;**robbers**盗贼;**thug**暴徒;**gangster**歹徒，流氓;**cops**顶;**rob**抢劫;**crooks**钩状物;**cop**抓住;**thief**小偷，贼;
+			6. - [stickpin](dic://stickpin) n. 领带夹（指插于领带上的装饰别针）
+			7. [stockpot](dic://stockpot) n. 汤锅；杂烩锅
+			8. [stick up](dic://stick+up) 竖起，抢劫，支持
+			9. [stick-up](dic://stick-up) n. 持枪抢劫
+			10. This looks like a stickup job to you? /你觉得这是抢劫案吗？
+			11. 
+		43. stickum
+		44. sticktight
+			1. _n._ 鬼针草
+		45. stickpin
+		46. stickness
+		47. stickler
+		48. stickjaw
+		49. sticking
+		50. stickful
+		51. sticker
+			1. 1. n. 尖刀；难题；张贴物；坚持不懈的人
+			2. vt. 给…贴上标签价
+			3. adj. 汽车价目标签的；汽车标签价的
+			4.  [spine](dic://spine), [thorn](dic://thorn), [prickle](dic://prickle), [pricker](dic://pricker), [spikelet](dic://spikelet)
+			5.  [gummed label](dic://gummed label), [paster](dic://paster)
+			6.  [poser](dic://poser), [stumper](dic://stumper), [toughie](dic://toughie)
+			7. [dagger](dic://dagger)
+			8. _n._ [aculeus](dic://aculeus), [label](dic://label), [problem](dic://problem), [knife](dic://knife)
+			9. **decal**贴花纸;**bumper**丰盛的，丰富的;**decals**贴标;**badge**徽章;**lettering**字体;**emblem**象征;**stamp**邮票;**affixed**粘贴;**logo**商标，徽标;**stamped**盖上邮戳的;**T-shirt**T恤, 短袖汗衫;
+			10. _bumper sticker_ 保险杆贴纸；车尾贴
+			11. The second one, some fun smiley stickers. /第2层是一些有趣的笑脸贴纸。
+			12. He wasn't armed. He had a Hillary bumper sticker. /他车尾贴着希拉里的头像 肯定是个禁枪派。
+		52. stick-on
+			1. _v._ [cover](dic://cover), [attach](dic://attach)
+			2. _adj._ [adhesive](dic://adhesive)
+			3. _n._ [nonadhesive](dic://nonadhesive)
+			4. **stickers**尖刀，贴纸;**sticker**尖刀;**adhesive**粘合剂;**decals**贴标;**Velcro**维可牢;**plastic**可塑的;**glittery**闪烁的，闪光的;**decal**贴花纸;**rhinestone**莱茵石，水钻;**glitter**闪烁;**silicone**硅树脂;
+			5. Why don't we stick a rover on Venus? /为什么不发射探测器到金星上呢？
+			6. Oh, breadcrumbs are not stuck on well. /哦，面包屑没有粘牢。
+		53. slipstick
+		54. slapstick
+		55. singlesticker
+		56. singlestick
+		57. pigstick
+			1. pigsticking
+			2. pigsticker
+		58. picul-stick
+		59. nonstick
+		60. nightstick
+			1. _n._ [club](dic://club)
+			2. **handcuffs**手铐;**cop**抓住;**policeman**警察;**thug**暴徒;**baton**接力棒;**knuckles**压关节，指关节;**assailant**攻击者;**pistol**手枪;**fists**拳套;**handgun**手枪;**whips**鞭策者，鞭子;
+		61. mopstick
+		62. maulstick
+		63. matchstick
+		64. lipstick
+			1.  [lip rouge](dic://lip rouge)
+			2. _n._ [makeup](dic://makeup), [make-up](dic://make-up), [war paint](dic://war%20paint)
+			3. _v._ [delineate](dic://delineate), [limn](dic://limn), [outline](dic://outline), [make up](dic://make%20up)
+			4. **eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**blush**脸红;**makeup**化妆品;**make-up**化妆品;**cosmetics**化妆品;**lip**嘴唇;**lips**嘴唇;**handbag**手提包;**pink**粉红色;**shimmery**闪烁的;
+			5. She pulled a lipstick and mirror from her purse. /从钱夹里拿出口红和镜子。
+		65. knobstick
+		66. joystick
+			1. n. 操纵杆，控制杆
+			2.  [stick](dic://stick), [control stick](dic://control stick)
+			3. _n._ [lever](dic://lever), [control](dic://control), [controller](dic://controller), [data input device](dic://data%20input%20device), [input device](dic://input%20device)
+			4. **controller**控制者;**keyboard**键盘;**mouse**鼠标;**controls**控制器;**keypad**按键;**buttons**纽扣;**cursor**游标，指针;**servo**伺服;**stylus**唱针;**rudder**飞机方向舵;**actuator**执行机构;
+			5. _[joysticks](dic://joysticks)_  n. [航] 操纵杆（joystick的复数）
+			6. _[joystick port](dic://joystick%20port)_  操纵杆端口
+			7. _[joystick control](dic://joystick%20control)_  操纵杆
+			8. _[joystick pointer](dic://joystick%20pointer)_  操纵杆式光标指示器,操纵杆式指示器
+		67. greenstick
+		68. fiddlestick
+			1. _n._ [bow](dic://bow)
+			2. **fiddle**小提琴;**violin**小提琴;**harp**竖琴;**horn**角;**idiom**成语，习语;**instrument**仪器;**flute**长笛;**banjo**班卓琴;**sword**刀，剑;
+			3. Aw, fiddlesticks, forgot about that one. /哦，小提琴手，忘记那个了。
+			4. That'll be $4.99. - Oh fiddlesticks, I forgot my wallet. /- 那是 4. 99 美元。- 哦，小提琴手，我忘记带钱包了。
+			5. "Heigh, heigh!The devil rides upon a fiddlestick. What's the matter?" /嗨嗨,真是新鲜事儿,究竟怎么回事?
+			6. fiddlesticks
+		69. drumstick
+		70. dipstick
+		71. crabstick
+			1. _n._ (尤指用山楂子树木制成的)木棍,木棒,手杖,脾气暴躁的人
+		72. chopstick
+			1. _n._ [tableware](dic://tableware)
+			2. **spoon**匙，勺子;**toothpick**牙签;**spatula**压舌板;**skewer**烤肉叉子;**bamboo**竹，竹子;**tongs**夹具;**noodle**面条;**wok**锅,炒菜锅;**scissors**剪刀;**sushi**寿司;**knife**刀;
+			3. chopsticks
+		73. chewstick
+		74. chawstick
+		75. candlestick
+			1. _n._ [holder](dic://holder)
+			2. **candle**蜡烛;**candles**蜡烛，烛台;**lamp**灯;**vase**花瓶;**bearish**粗暴的;**lantern**灯笼;**vases**花瓶;**chandelier**枝形吊灯;**teapot**茶壶;**pewter**锡铅合金,白镴;**lamps**日月星辰;
+			3. The vicar took a candlestick from the altar. /牧师从圣餐台上拿起一座烛台。
+		76. buckstick
+		77. broomstick
+			1. _n._ (童话故事中女巫常骑于空中的带柄的)扫帚
+			2. _n._ [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold)
+			3. **broom**金雀花;**wand**棒;**witch**巫婆，女巫;**witches**魔女;**cane**手杖;**whip**抽打;**flying**飞行的;**rope**绳，绳索;**whips**鞭策者，鞭子;**witchcraft**巫术;
+			4. _[broomstick](dic://broomstick)_  n. 扫帚柄；帚柄
+			5. _[marry over the broomstick](dic://marry%20over%20the%20broomstick)_  草草行礼成婚
+			6. Dumbledore pointed toward a run-down stone outhouse where the Weasleys kept their broomsticks. /邓布利多指着房子外面一间破败的小石屋，那是韦斯莱一家放扫帚的地方。
+		78. billsticker
 4. **styl-** = column, 表示“柱”。
+	1. stylographic
+	2. stylography
+	3. astylar
+	4. cyclostyle
+		1. 1. _n._ 模板
+		2. _v._ 用模版复印机印刷
+		3. Those are printed and those have cyclostyled signatures so you needn't write anything. /那些是打印的，那些是复印签名的，所以您什么都不用写。
+	5. peristyle
+	6. polystyle
+	7. prostyle
+		1. 1. adj. 前柱式的
+		2. n. 前柱式构造
+		3.  [pseudoprostyle](dic://pseudoprostyle)
+		4. Having a prostyle or set of columns at each end but none along the sides /保玲球中没有一次或两次击倒十柱的行为。
+	8. style
+	9. stylet
+	10. styli
+	11. styliform
+	12. stylograph
+	13. styloid
+	14. stylus
+	15. systyle
+	16. stiletto
+5. thistle
+	1.  一种多刺草本植物，来自古英语 thistel,蓟，来自 Proto-Germanic*thistilaz,刺毛，可能来自PIE*stei,尖刺，词源同 stick,thorn.-el,小词后缀。
+6. thorn
+	1. - 来自古英语 thorn,刺，荆棘，来自 Proto-Germanic*thurnuz,刺，来自 PIE*stei,尖刺，尖木棍，词源同 stick,thistle.
+	2. n. 刺, 棘, 荆棘
+	3.  来自古英语 thorn,刺，荆棘，来自 Proto-Germanic*thurnuz,刺，来自 PIE*stei,尖刺，尖木棍，词源同 stick,thistle.
+	4.  [irritant](dic://irritant)
+	5.  [spine](dic://spine), [prickle](dic://prickle), [pricker](dic://pricker), [sticker](dic://sticker), [spikelet](dic://spikelet)
+	6. _n._ [annoyance](dic://annoyance), [bother](dic://bother), [botheration](dic://botheration), [pain](dic://pain), [infliction](dic://infliction), [pain in the neck](dic://pain%20in%20the%20neck), [pain in the ass](dic://pain%20in%20the%20ass)
+	7. **prickly**多刺的;**thorny**痛苦的;**bush**矮树丛;**vine**葡萄树;**bruise**擦伤;**side**方面;**proverbial**谚语的;**flesh**肉体;
+	8. The dog had a thorn in its pad. /这只狗的爪垫上扎了根刺。
+	9. The thorns of roses prick rather badly. /玫瑰刺刺得很痛。
+	10. I was sitting on the thorns while waiting for the outcome. /等待结果时我如坐针毡。
+	11. Behind is a thorn in rats called horsetail beefwood trees in rats gill and common horsetail beefwood role of sand was locked. /在老鼠刺的背后是一种乔木叫木麻黄，在老鼠刺和木麻黄的共同作用下海沙被锁定。
+	12. " Even flowers that have thorns? " " Yes, even flowers that have thorns." /“连有刺的花也吃吗？” “是的，有刺的花也吃！”
+	13. Now, we turn to another " rose" expression: Every rose has its thorns /现在，我们来看另一个关于" 玫瑰" 的表达：每朵玫瑰都是带刺的。
+	14. whitethorn
+	15. thorny
+		1.  [barbed](dic://barbed), [barbellate](dic://barbellate), [briary](dic://briary), [briery](dic://briery), [bristled](dic://bristled), [bristly](dic://bristly), [burred](dic://burred), [burry](dic://burry), [prickly](dic://prickly), [setose](dic://setose), [setaceous](dic://setaceous), [spiny](dic://spiny)
+		2. _adj._ [difficult](dic://difficult), [hard](dic://hard), [armed](dic://armed)
+		3. _n._ [easy](dic://easy), [unarmed](dic://unarmed)
+		4. **prickly**多刺的;**contentious**容易引起争论的,好争论的;**thorns**荆棘;**touchy**过敏的;**conundrum**谜,猜不透的难题,难答的问题;**fraught**担心的，忧虑的;**troublesome**令人烦恼的;**tricky**机警的;**perennial**经常出现的;**thorn**刺;**perplexing**使人困惑的;
+		5. _[thorniest](dic://thorniest)_  .多刺的; 棘手的; 多障碍的; 痛苦的（thorny的最高级）; 
+		6. _[thorny elaeagnus leaf](dic://thorny%20elaeagnus%20leaf)_  胡颓子叶
+		7. _[seed of thorny jujube tree](dic://seed%20of%20thorny%20jujube%20tree)_  酸枣仁
+		8. The young captain is pondering over a thorny problem. /年轻的上尉正在思考一个棘手的问题。
+		9. The boys argued over the thorny points in the lesson. /孩子们辩论功课中的难点。
+	16. thornlike
+	17. thornless
+	18. thornback
+	19. thornapple
+	20. maythorn
+	21. hawthorn
+	22. buckthorn
+		1. _n._ [shrub](dic://shrub), [bush](dic://bush), [plantain](dic://plantain)
+		2. **birch**桦木;**shrub**灌木;**berry**浆果;**cranberry**越橘;**shrubs**灌木;**seaweed**海藻，海草;**rosemary**迷迭香;**pine**松树;**beech**山毛榉;**blueberry**越橘的一种;**rhubarb**大黄;
+	23. blackthorn
+		1. _n._ [shrub](dic://shrub), [bush](dic://bush), [hawthorn](dic://hawthorn), [haw](dic://haw)
+		2. **willow**柳木制品;**holly**冬青树;**beech**山毛榉;**birch**桦木;**fern**蕨类植物;**lilac**淡紫色;**thorns**荆棘;**woodland**林地;**shrub**灌木;**bush**矮树丛;**hazel**淡褐色;
+		3. _[blackthorn](dic://blackthorn)_  n. 黑刺李（李树的一种）；李木手杖
+		4. Scabior thrust the blackthorn wand at her. /斯盖伯将李木魔杖伸给她。
 
 
 ### + \*stel- +
 1. **-stalsis** = perstalsis, 表示“蠕动”。
+	1. peristalsis
+		1. peri-周围 + -stalsis蠕动
+		2.  peri-,在周围，-stal,站立，建立，限制，收缩，词源同 stand,stall,-osis,状态后缀。后用于指胃肠蠕动。
+		3. Esophageal phase, in which the food passes down the esophagus, via peristalsis, into the stomach. /食道期，食物通过蠕动沿食道向下进入胃。
+		4. The chyme slowly moves through the large intestine through small waves of peristalsis that take place over hours or even days. /在微小幅度的肠蠕动下，食糜缓慢通过大肠；这个过程长达数小时甚至数天。
+		5. Now there's a lot of mechanical action and peristalsis going on here, but there's also a ton of chemical digesting too. / 这里有许多机械动作和蠕动，但也有大量的化学消化
+		6. Together, they perform what's called peristalsis, which is a series of coordinated wave-like muscle contractions that helps squeeze the food bolus in one direction. /内环肌与外纵肌的活动共同形成了肠道的蠕动；肠蠕动就是指一系列协同进行的平滑肌的波状收缩，可以挤压食团，确保食物向前移动。
 2. **stal-** = constriction, 表示“收缩”。
+	1. peristaltic
+		1. a. 蠕动的, 蠕动引起的
+		2. peri-周围 + stal-收缩 + -tic
+		3. Some esophageal defense mechanisms against acid reflux are the primary and secondary peristaltic waves. /一些抗酸反流的食管防御机制是初级和次级蠕动波。
+		4. The Flow Through System Pump is fixed-speed, self priming **peristaltic** pump /流经泵系统包括有固定的速率，自我启动的软管泵。
+	2. systaltic
+		1. a. 博动的, (心脏)收缩的
+		2. sys-共同 + stal-收缩 + -tic
 3. **stall-** = place, 表示“放”。
 	1. stallion
+		1. n. 种马
+		2. 因此就不难理解这个单词了，stall [stɔːl] n.货摊；畜栏，vt.&amp;vi.停止；拖延；使陷于泥中。这本是立起来（stand）围挡牲畜的地方。所以install [ɪn'stɔl] vt.安装；任命，本意就是建造马厮，而stallion ['stæljən] n.种马；成年公马，要关在stall中配种用，否则跑出来和母马们鬼混那可就乱套了。 ​​​​
+		3. [entire](dic://entire)
+		4. _n._ [male horse](dic://male%20horse)
+		5. **mare**母马;**gelding**去势;**sire**陛下;**filly**小雌马，小母马;**colt**小马;**horse**马;**horses**马;**stud**大头钉;**pony**小型马;**equine**马的;**bareback**无鞍的，不用鞍的;
+		6. I rented a white stallion and a suit of armor. /我甚至还租了一匹白马和一套铠甲。
+		7. The red stallion was always a welcome sight at Riverrun. /红色骏马纹章向来受奔流城欢迎礼遇.
+		8. If a stallion can control access to water, he will have secured mating rights to the entire herd. /如果一头公马能够控制饮水权，便拥有与群中所有母马交配的权利。
 	2. stallkeeper
+		1. - n. 摊贩，摊主：在市场或街头经营小摊的人。
 	3. stalls
 	4. bookstall
+		1. _n._ [shop](dic://shop), [store](dic://store)
+		2. **bookshop**书店;**bookstore**书店;**bazaar**集市;**stalls**正厅前排座位;**book**书籍;**cafe**咖啡馆;**kiosk**小摊棚, 售货亭;**hardback**精装本;**books**书评;**bookshelf**书架;**shop**商店;
+		3. She will never come into the bookstall again. /她不会再来这个报摊了。
 	5. fingerstall
 	6. forestall
 	7. headstall
@@ -7843,8 +8201,9 @@
 			9. Did you hear the final installment last week? /上星期你有没有听最后一集?
 			10. Look for the next installment in this series, coming soon. /即将推出的本系列的更多部分。
 		10. installant
+			1. _n._ 任命者
 		11. installibility
-	17. systole
+	12. systole
 
 
 ### ⭐ + \*ster- +

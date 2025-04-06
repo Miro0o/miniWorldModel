@@ -219,7 +219,7 @@ agave
 - Both the filtrate and the dialyzate of agave pollen can activate the enzyme, thus proving that there was activating substance of the thiol group in agave pollen. /无论是剑麻花粉的滤液还是透析液,都能使剑麻蛋白酶激活,证实剑麻花粉中含有巯基激活物质
 - We've also got agave, honey, and maple as well, as a comparison. /我们也有龙舌兰，蜂蜜和枫树糖浆，作为对比。
 
-albeit
+albeit [美 /ˌɔːlˈbiːɪt/](cmd://Speak/_us_/albeit)
 - conj. 虽然，尽管
 - clear albeit cold weather /虽然天冷但仍很晴朗
 - It is a pretty story, albeit a trifle naif. /这故事虽说有点幼稚简单，却颇为有趣。
@@ -516,6 +516,64 @@ badge
 	- **fox**欺骗;**hound**追猎;**beaver**海狸;**moose**驼鹿;**wolf**狼;**foxes**狐狸;**squirrel**松鼠;**honey**蜂蜜;**otter**水獭;**boar**野猪;**grizzly**灰色的; [tease](dic://tease), [pester](dic://pester), [bug](dic://bug), [beleaguer](dic://beleaguer)
 	- journalists badgered him about the deals. /记者们就那几笔交易问题不停地纠缠他。
 	- The children badgered me into taking them to the cinema. /孩子们吵着要我带他们去看电影。
+
+bag
+- workbag
+- winebag
+- windbag
+	- windbagger
+- tucker-bag
+- teabag
+- sportsbag
+- scumbag
+	- _[scumbag](dic://scumbag)_  n. 避孕套；卑鄙的人
+	- Figured these scumbags would come after your kid. /想着这些混蛋会冲你儿子来。
+	-  They find me to be a rapacious scumbag. /他们觉得我是个贪婪卑鄙的小人。
+- schoolbag
+- sandbag
+- saddlebag
+- ragbag
+- postbag
+- nosebag
+- moneybag
+- moneybag
+- mailbag
+- kitbag
+- handbag
+- gunny-bag
+- gasbag
+- game-bag
+- fleabag
+- feedbag
+- carpetbag
+	- carpetbagger
+- beanbag
+- bagworm
+- bagwig
+- bags
+- bagpipe
+	- bagpipes
+	- bagpiper
+- bagman
+- baggy
+- bagging
+- bagger
+	- one-bagger
+- bagged
+- baggage
+	- baggagemaster
+	- baggageman
+- bagful
+- bag-play
+- airbag
+
+baguette
+- n. 法国棍子面包；成长方形的宝石
+- _n._ [French bread](dic://French%20bread)
+- **bread**面包;**loaf**块;**bagel**百吉饼;**sandwich**三明治;**sourdough**酵母;**pastries**甜点;**pita**圆面饼;**pastry**油酥点心;**loaves**大块烤过的食物;**toast**烤面包;**bun**小圆面包;
+-  [baguet](dic://baguet)
+- He said there is no single secret to making a good baguette. /他说做一个好的法棍没有单一的秘诀。
+- Baguettes baking, mimes miming, skunks in love. /飘香的法棍 有趣的哑剧 相爱的臭鼬。
 
 bail
 - 1. vt. 保释，帮助某人脱离困境；往外舀水
@@ -1138,26 +1196,8 @@ boast (brandish)
 - boaster
 
 bog
-- n. 沼泽; <俚>厕所, 浴室  
-- v. (使) 陷于泥沼; 妨碍; 走开 (~ off)
-- bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 *bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
--  [peat bog](dic://peat bog)
--  [bog down](dic://bog down)
-- _n._ [wetland](dic://wetland)
-- _v._ [slow](dic://slow), [slow down](dic://slow down), [slow up](dic://slow up), [break](dic://break), [break off](dic://break off), [discontinue](dic://discontinue), [stop](dic://stop)
-- **muck**垃圾;**swamp**沼泽，低地，水洼;**peat**泥煤;**woodland**林地;**muddy**泥泞的;**mud**泥;**marsh**湿地;**ditch**在…上掘沟;**grassland**草原，牧场;**tundra**苔原;**gravel**砂砾;
-- _bog down_ 停顿；陷入困境
-- _peat bog_ 泥炭沼，泥炭沼泽
-- a bog of legal complications. /一大堆棘手的法律纠纷。
-- I told him to bog off. /我让他离开。
-- most are just bog-standard PCs or workstations. /绝大部分只是些普通的个人电脑或工作站。
-- How did the construction work bog down? /建筑工程怎样会停下来的?
-- We worried that the heavy rain across the prairie would soon bog our car. Don't bog me down in this mass of detail. /我们担心平原上的大雨将很快使我们的汽车陷入淤泥。不要让我陷入这些难缠的琐事中
-- If he saw a trucker in difficulty, he would just bog in and give a hand /如果他看到一个货运汽车司机有困难的话，他会非常热情地给予帮助。
-- All you need is a bog standard machine— nothing fancy. /你只需要一台普普通通的机器就行了—不要什么花里胡哨的玩意儿。
-- " These peat bogs are also an incredible store of carbon, aren't they, Milly? " /这些泥炭沼泽同时也储存了大量的碳，对吗，米莉？
-- It's only then you see some of the 29 different bog building moss species. /只有那样，你才能看到形成这片湿地的 29 种苔藓中的一些。
-- According to Dr Steffen, two things bog down the boarding process. /史蒂芬博士提出有两大因素容易阻碍登机过程。
+- bow-
+- boggy
 
 bogus (bonus)
 - (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
@@ -2628,6 +2668,11 @@ churl,
 	- _n._ [gracious](dic://gracious), [good-natured](dic://good-natured)
 	- **daft**愚蠢可笑的;**dismissive**轻视的, 轻蔑的, 鄙视的;**disingenuous**不真诚的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**hypocritical**伪善的;**arrogant**自大的，傲慢的;**cynical**愤世嫉俗的;**foolish**愚蠢的;**rude**粗鲁的;**pompous**浮夸的;
 
+churros
+- She was written up several times by her manager at the churro stand /她在西班牙油条摊的时候被经理记了几次过。
+- Might I introduce you to churro bites! /我可以向您介绍西班牙油条小吃吗？
+- Okay. First of all, chasing the churro guy is not jogging. /也对 不过追小贩可不算慢跑。
+
 chic  (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, )
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
 - **stylish**时髦的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**luxe**奢侈;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**sleek**圆滑的;**edgy**尖利的;**rustic**乡村的;**retro**制动火箭,减速火箭;
@@ -3805,6 +3850,36 @@ droll (troll, scroll, stroll, droll, toll, doll, roll, loll, moll)
 - drolly
 - drollery
 
+drowse
+- doze
+- snooze, doze
+- n. sleeping
+- v. nap, catnap, catch a wink, rest
+- slumber睡眠;asleep睡着的;sleepy困乏的;sleep睡，睡觉;snooze小睡;awaken唤起;awake觉醒，意识到;hypnotic催眠的，催眠术的;nap小睡，打盹儿;yawn哈欠;blissful充满喜悦的;
+- in a drowse 在打瞌睡
+- Wake up from drunken drowse 什么酒醒不了
+- drowse away a hot afternoon 打着瞌睡度过炎热的下午
+- drowse off v. 打瞌睡
+- drowse away v. 昏昏沉沉地消磨
+- He drowsed off,but then woke up abruptly,as though someone had called his name /他打了个盹,但突然又醒了,好像是有人在喊他的名字。
+- He drowsed in the sun. /他在阳光下打瞌睡。
+- drowsy  (lethargic, somnolent, slumberous, hypersomnia, dozy,  sleepy, drowsy, doze,)
+	- - adj. 昏昏欲睡的，困倦的；令人松弛的，令人困倦欲睡的；（尤指地方）静谧的，平静的，安静的
+	- [drowsing(a)](dic://drowsing\(a\)), [dozy](dic://dozy)
+	- [oscitant](dic://oscitant), [yawning(a)](dic://yawning\(a\))
+	- _adj._ [inattentive](dic://inattentive)
+	- _n._ [attentive](dic://attentive)
+	- **sleepy**困乏的;**asleep**睡着的;**awake**觉醒，意识到;**fatigued**疲乏的;**dizzy**晕眩的;**intoxicated**喝醉的;**sleep**睡，睡觉;**restless**焦躁不安的;**drunk**喝酒;**irritable**易怒的, 急躁的;**tiredness**疲劳;
+	- _[drowsy driving](dic://drowsy%20driving)_  疲劳驾驶
+	- _[drowsy wave](dic://drowsy%20wave)_  欲睡波
+	- _[feel drowsy](dic://feel%20drowsy)_ 想睡觉; 犯困; 
+	- _[drowsy eyes](dic://drowsy%20eyes)_ 睡眼朦胧
+	- The tablets may make you feel **drowsy**. /这药片可能会使你昏昏欲睡。
+	-  I felt dopey and **drowsy** after the operation. /手术后我感到迷迷糊糊，昏昏欲睡。
+	- He felt pleasantly **drowsy** and had to fight off the urge to sleep /他感觉舒适地昏昏欲睡，不得不击退睡意。
+	- drowsiness
+	- drowsily
+
 drudge
 - n. 苦工；做繁重无聊工作的人；繁重的劳动 
 - v. 做苦工；被迫做苦工
@@ -4956,7 +5031,7 @@ fringe (fringe, edge, border, margin, rim, verge, brim, brink, )
 	- [verge](dic://verge) 指明显地标志一个表在或一广阔空间的边界，或终端线，也指极狭窄的空间。常用作比喻。  
 	- [brim](dic://brim) 指深容器的内边或河、湖等水域的最高线。  
 	- [fringe](dic://fringe) 指地毯的须边、围巾的花边、烫发的卷边或人群的边缘。
-	- Really? I thought salaries were high there, but there would be some fringe benefits presumably
+- Really? I thought salaries were high there, but there would be some fringe benefits presumably
 - fringy
 	- **fringe**边缘;**fringes**云图条纹;**lefty**左撇子;**hippie**嬉皮士;**left-wing**左派的;**nutty**多坚果的;**trendy**时髦的，流行的;**lunatic**精神错乱的;
 - fringing
@@ -4977,7 +5052,7 @@ fritter (profligate, dissipate, fritter, profuse, squander, extravagant, improvi
 - And your food's great, the biscuits, the cake, the fritters. /你的菜太棒了，饼干，蛋糕，馅饼。
 
 fritz
-- - n. 德国人；弗里茨（人名）
+- n. 德国人；弗里茨（人名）
 - The Wi-Fi in my office is on the fritz. /我办公室无线网出毛病了。
 - Maybe your machine really is on the fritz. /也许你的机器真出故障了。
 
@@ -6798,6 +6873,10 @@ haw
 - 拟声词。  
 - 来自古英语 haga,灌木，树篱，围场，词源同 hag, hedge.山楂义缩写自 haegberie,即 haw berry.
 - hawthorn
+	- n. 山楂
+	- haw【树篱，古义】 + thorn【荆棘】
+	-  haw,树篱，词源同 hedge,thorn,刺。即带刺的树篱，灌木，用于指山楂树及其果实。
+	- 
 
 haze
 - [daze](dic://daze), [fog](dic://fog)
@@ -8029,6 +8108,13 @@ hum
 	- [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
 	- The season was more advanced than at the Creek, two hundred miles to the north, and I noticed that spring flowers were blooming among the lumpy hummocks. /这个季节比在北面两百英里的小溪要早， 我注意到春天的花朵在凹凸不平的小丘之间盛开。
 
+hunk
+- n. 大块, 魁梧性感的男子
+- hunky
+	- _[hunky](dic://hunky)_  adj. 结实性感的，健壮迷人的; n. 中欧东部的人（尤指工人）;
+	- everything is hunky-dory. /一切都很好。
+	- Oh, no. By all means, Claire, we want you looking your sexiest...when the hunky, gay firemen get here! /不，不管怎么说，克莱尔，你当然得以最性感火辣的面貌来迎接那些健壮基情的消防员！
+
 husk
 - n. 外壳, 皮, 无价值之物  
 - vt. 剥...的壳, 削皮
@@ -8049,8 +8135,19 @@ husk
 - unhusk
 	- vt. 剥去...的外壳, 暴露
 - husky
+	- [Eskimo dog](dic://Eskimo dog)
+	- [beefy](dic://beefy), [burly](dic://burly), [strapping](dic://strapping), [buirdly](dic://buirdly)
+	- [gruff](dic://gruff), [hoarse](dic://hoarse)
+	- _n._ [working dog](dic://working%20dog)
+	- _adj._ [robust](dic://robust), [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
+	- _n._ [frail](dic://frail), [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+	- **pup**小狗;**growl**咆哮着说;**puppy**小狗，幼犬;**growling**咆哮的;**dog**狗;**terrier**一种活泼的小狗;**baritone**男中音;**bulldog**牛头犬，恶犬;**voice**声音;**Siberian**西伯利亚的;**Labrador**拉布拉多;
+	- _siberian husky_ 西伯利亚爱斯基摩狗
+	- " Good day" . said the Scarecrow, in a rather husky voice. /" 你好哇，" 稻草人说，声音有几分嘶哑。
+	- The study showed that these dogs greatly differed from modern Siberian huskies, however /然而，研究表明，这些狗与现代西伯利亚哈士奇有很大的不同。
 - huskily
 - cornhusk
+
 
 
 ## I
@@ -11197,6 +11294,9 @@ postiche (wig)
 - [fake](dic://fake), [sham](dic://sham)
 - _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress), [imitation](dic://imitation), [counterfeit](dic://counterfeit), [forgery](dic://forgery)
 
+pretzel
+- mregh-u-
+
 prod
 - n. 刺针, 刺棒, 激励话, 提醒物
 - vt. 戳, 刺, 刺激  
@@ -11225,6 +11325,19 @@ prod
 - Recently, U.S. officials have prodded America's allies to mend fences. /最近，美国官员敦促美国盟友重修旧好。
 - At this point, Grace became visibly distressed, and she prodded the body, and she vocalized. /此时，格蕾丝明显很忧虑，她捅了捅埃莉诺的身体，并发出悲鸣。
 - prodding
+
+prong
+- n. 叉状物, 耙子  
+- vt. 刺, 贯穿, 翻掘
+- - n. 尖齿；方向；（俚语）阴茎；耙子；（多种工具的）尖头；（作战）分支
+- v. 刺，贯穿
+- 来自拉丁语 pronga,叉齿，可能来自 PIE*bhars,刺，硬毛，词源同 prod,bur.
+- Mr Miliband proposes three prongs of attack /米利班德提出了三条应对策略。
+- The fork has three prongs. The knife has a sharp edge /叉子有三个叉尖.刀子有锋利的边缘.
+- Jawless fishes invaded the ocean, sporting points, prongs, and finally, fins /无颌鱼入侵海洋，运动尖头、叉子，最后还有鳍。
+- pronghorn
+- pronged
+- multipronged
 
 prop
 - n. 支柱, 支撑物; 道具; 螺旋桨  
@@ -12785,21 +12898,24 @@ scavenge
 	-  Socializing can also give scavengers an immune boost./社交同样可以给清道夫一个免疫助推力。
 	- Their role has now changed from hunter to scavenger. /它们如今从猎手变成了捡食者。
 
-screech
-- n. 尖声喊叫, 尖叫声, 刹车声  
-- vt. 尖声讲  vi. 发出尖声
-- [screeching](dic://screeching), [shriek](dic://shriek), [shrieking](dic://shrieking), [scream](dic://scream), [screaming](dic://screaming)
--  [scream](dic://scream), [screaming](dic://screaming), [shriek](dic://shriek), [shrieking](dic://shrieking), [screeching](dic://screeching)
--  [squeak](dic://squeak), [creak](dic://creak), [screak](dic://screak), [skreak](dic://skreak)
--  [squawk](dic://squawk), [screak](dic://screak), [skreak](dic://skreak), [skreigh](dic://skreigh)
-- _n._ [noise](dic://noise), [cry](dic://cry), [outcry](dic://outcry), [call](dic://call), [yell](dic://yell), [shout](dic://shout), [vociferation](dic://vociferation)
-- _v._ [make noise](dic://make noise), [resound](dic://resound), [noise](dic://noise), [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call)
-- **scream**尖叫;**howl**怒吼;**growl**咆哮着说;**wailing**哭号;**roar**吼;**squeak**告密;**growling**咆哮的;**noises**噪音，响声，噪音;**screaming**尖叫的;**yell**大叫，叫喊;**howling**极大的;
-- _[screeching](dic://screeching)_  adj. 突然的，意外的; v. （车辆摩擦路面）发嘎吱声；（人）尖声喊；发出尖利刺耳的声音（screech 的现在分词）; n. 尖叫；发动机啸声; 
-- _[screech owl](dic://screech%20owl)_  凶事预言者；长耳
-- a screech of brakes. /刹车时的刺耳响声。
-- The monkeys were screeching in the trees. /猴子在树上尖声叫着。
-- a bus screeched to a halt /公共汽车嘎的一声停住了。
+scold (scathe, scold, scald)
+- n. 好骂街的人, 责骂  
+- v. 责骂
+-  词源不确定。
+-  [scolder](dic://scolder), [nag](dic://nag), [nagger](dic://nagger), [common scold](dic://common scold)
+- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+- [grouch](dic://grouch), [grumble](dic://grumble)
+- _n._ [unpleasant person](dic://unpleasant%20person), [disagreeable person](dic://disagreeable%20person)
+- _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick%20apart), [complain](dic://complain), [kick](dic://kick), [plain](dic://plain)
+	1. [blame](dic://blame) 普通用词，语气较弱，仅是一般的责难、归咎于，不含用语言责骂之意。  
+	2. [accuse](dic://accuse) 语气比blame强，本义为归罪，可用作指非难或谴责之义。  
+	3. [condemn](dic://condemn) 正式用词，表示谴责，有较强的司法意味，侧重从道义或原则上的谴责。  
+	4. [scold](dic://scold) 普通用词，多指上级对下级、长辈对后辈或雇主对雇员的态度粗暴、言词激烈的数落。  
+	5. [denounce](dic://denounce) 与condemn同义，但着重公开性。  
+	6. [reproach](dic://reproach) 侧重指因他人粗心、自私等引起不满而去指责、找岔。  
+	7. [rebuke](dic://rebuke) 多指上级对下级进行的公开、强烈、严正而不宽容的责备。隐含一定权威的意味。
+1. **criticize**评论, 批评;**embarrass**使窘迫;**yell**大叫，叫喊;**accuse**控告，指控;**punish**严厉对待;**rebuke**指责，非难;**angrily**愤怒地;**warn**警告，提醒;**taunt**嘲弄;**annoy**骚扰;**complain**发牢骚;
+2. The woman is always scolding the children in our neighbourhood. /那个妇人常责骂我们附近的孩子。
 
 scoot
 - 可能来自 shoot,投，射出，引申词义疾行，快走，猛冲等。
@@ -12829,6 +12945,35 @@ scoot
 
 score
 - (s)ker-(1), scar
+
+scowl
+- n. 愁容, 阴沉脸色  v. 怒视, 皱眉, 绷着脸
+-  词源不详。
+-  [frown](dic://frown)
+- _n._ [facial expression](dic://facial%20expression), [facial gesture](dic://facial%20gesture)
+- _v._ [frown](dic://frown), [glower](dic://glower), [lour](dic://lour), [lower](dic://lower)
+- **smirk**傻笑;**frown**皱眉;**grin**露齿而笑，咧着嘴笑;**smile**微笑;**stare**凝视，盯着看;**glare**闪耀光;**countenance**面容，表情;**chuckle**咯咯的笑，轻声地笑;**smiled**以微笑表示，微笑;**face**脸;**growl**咆哮着说;
+- He cavilled and scowled; he huffed and he ranted. /他事事挑剔、皱着眉头、怒不可遏、冷嘲热讽。
+-  Fred and George were both scowling again. /弗雷德和乔治又都皱起了眉头。
+- But usage grumps may have scowled. /然而，词语的使用可能已经引发牢骚，令人不快了。
+- She scowled and her temper came back. /她的脸一沉，又发起脾气来了。
+- All around her, audience members scowled. /以至于周围的观众都怒视着她。
+
+screech
+- n. 尖声喊叫, 尖叫声, 刹车声  
+- vt. 尖声讲  vi. 发出尖声
+- [screeching](dic://screeching), [shriek](dic://shriek), [shrieking](dic://shrieking), [scream](dic://scream), [screaming](dic://screaming)
+-  [scream](dic://scream), [screaming](dic://screaming), [shriek](dic://shriek), [shrieking](dic://shrieking), [screeching](dic://screeching)
+-  [squeak](dic://squeak), [creak](dic://creak), [screak](dic://screak), [skreak](dic://skreak)
+-  [squawk](dic://squawk), [screak](dic://screak), [skreak](dic://skreak), [skreigh](dic://skreigh)
+- _n._ [noise](dic://noise), [cry](dic://cry), [outcry](dic://outcry), [call](dic://call), [yell](dic://yell), [shout](dic://shout), [vociferation](dic://vociferation)
+- _v._ [make noise](dic://make noise), [resound](dic://resound), [noise](dic://noise), [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call)
+- **scream**尖叫;**howl**怒吼;**growl**咆哮着说;**wailing**哭号;**roar**吼;**squeak**告密;**growling**咆哮的;**noises**噪音，响声，噪音;**screaming**尖叫的;**yell**大叫，叫喊;**howling**极大的;
+- _[screeching](dic://screeching)_  adj. 突然的，意外的; v. （车辆摩擦路面）发嘎吱声；（人）尖声喊；发出尖利刺耳的声音（screech 的现在分词）; n. 尖叫；发动机啸声; 
+- _[screech owl](dic://screech%20owl)_  凶事预言者；长耳
+- a screech of brakes. /刹车时的刺耳响声。
+- The monkeys were screeching in the trees. /猴子在树上尖声叫着。
+- a bus screeched to a halt /公共汽车嘎的一声停住了。
 
 scud
 - [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
@@ -15716,6 +15861,61 @@ tangle
 	- entanglement
 	- disentangle
 
+tank
+- n. 槽, 箱, 罐; 一箱; 池塘, 储水池; 坦克; 牢房  
+- v. 给车加油; 喝醉; 彻底失败, 破产; （尤指故意）输掉（比赛）
+- _n._ （存放液体或气体的）箱，罐，缸；坦克；<美，非正式>牢房
+2. _v._ <非正式>喝醉；<美，非正式>遭受失败（尤指财政巨大损失）；<苏格兰，非正式>使惨败；把……贮放在柜内
+- tank（坦克）：首台坦克研制期间的代号  
+- 来自葡萄牙语 tanque,水箱，容器，借自印度语，如印度总理莫迪所在邦古吉拉特语 tankh,水箱，畜水池，最终可能来自梵语 tadaga,池塘。现主要词义军事坦克来自一战时英国人发明该重型装甲武器后为出其不意给德军重创，从而以”Tank”作掩护而得名。
+- tank - 该词源自印度古吉拉特（Gujarat）地区方言中的tānkh一词。它最初原作tanque，始见于1616年一段有关印度之行的报道：“Besides theirrivers they have many ponds which they call tanques.”（除了河流之外，还有许多他们称之为tanque的池塘。）其实，在印度各种方言中与之相关的词均有“池塘”、“蓄水池”、“水库”等义。因此tank进入英语之后，多指盛液体或气体的“罐”、“箱”、“柜”等容器，在印度英语和巴基斯坦英语中tank至今仍保留着上述原始词义。tank在现代军事上意指“坦克”是偶然事件造成的。  
+- 第一次世界大战期间，英国在秘密制造第一批坦克时，为了暂时保住这一秘密，在机密文件中使用了tank一词作为该新式武器的代称（codename），因为它形似苯罐（benzene tank）。据传，是丘吉尔（Sir Winston Churchill, 1874-1965）在1915年最先这样使用的。在运往法国时，装坦克的板条箱也标上TANK的字样，以免引起敌人耳目的注意。此一安全措施果然奏效，德国人误以为运往前线的只是water-tank（水罐车）。这批坦克被投用于1916年的索姆河战役（the Battle of the Somme）。然而这种新式武器却没有起到预期的作用，英法联军的进攻只是迫使德国人的战线后移了一些，而双方都付出了高昂的代价，这是现代战争史上首次使用这一武器。武器的主要发明者斯温顿爵士（Sir ErnestSwinton）建议以tank作为其正式属名，该词便这样沿用了下来。汉语“坦克”是从英语音译过来的。
+- 第一次世界大战期间，机枪之类的自动速射武器已经大量应用。战场上堑壕纵横，碉堡林立，由机枪构成的强大阵地防御火力体系对进攻方造成了强大的人员伤亡。1914年，英国远征军的随军记者斯文顿上校在战场上亲眼目睹了一排排英国士兵被德国机枪扫倒的惨状。回国后，他向英国国防部提交了研制具有强大防护能力的越野战车的建议。然而，当时的英国陆军大臣吉齐纳对此建议不感冒，反而是海军大臣温斯顿•丘吉尔对此表示支持，并成立委员会，开始这种新型战车的研制。为了保密，研发人员对工人谎称研制的是一种储水装置，并曾提出过cistern（水箱）、reservoir（蓄水池）等名称，但最终人们还是采用了发音响亮的tank（水槽）一词作为它的代号。从此以后，tank一词就成为了这种新型战车的正式名称，在中文中音译为“坦克”。  
+- tank：[tæŋk] n.坦克，水槽，油罐  
+- tanker： ['tæŋkɚ] n. 油轮；运油飞机；油槽车；坦克手
+-  [army tank](dic://army tank), [armored combat vehicle](dic://armored combat vehicle), [armoured combat vehicle](dic://armoured combat vehicle)
+- [storage tank](dic://storage tank)
+- [tankful](dic://tankful)
+- [tank car](dic://tank car)
+- [cooler](dic://cooler)
+- _n._ [military vehicle](dic://military%20vehicle), [armored vehicle](dic://armored%20vehicle), [armoured vehicle](dic://armoured%20vehicle), [tracked vehicle](dic://tracked%20vehicle), [vessel](dic://vessel), [containerful](dic://containerful), [freight car](dic://freight%20car)
+- _v._ [store](dic://store), [process](dic://process), [treat](dic://treat)
+- **canister**小罐;**sump**污水坑;**aquarium**水族馆;**turret**角楼;**hose**连裤袜, 长筒袜, 短统袜;**fuel**得到燃料;**propane**丙烷;**gallon**加仑;**pump**用抽水机抽…;**coolant**冷却剂;**reactor**反应堆;
+- The gas tank in the car leaked slowly. (NED) 汽车的油箱缓慢地漏油。
+- The scuba divers put on their oxygen tanks and set off to explore the coral reef. 潜水员戴上他们的氧气罐，下海勘查珊瑚礁。 
+- Advisers predicted that European markets would tank if Trump didn't. /顾问们曾预测，如果特朗普不核实，欧洲市场恐会崩溃。
+- But also, their tax revenues have really tanked /而且，他们的税收严重缩水。
+- She was filling the tank for him ! /她在替他向蓄水池注水！
+- tankship
+- tankful
+- tankette
+- tanker
+	- [oil tanker](dic://oil tanker), [oiler](dic://oiler), [tank ship](dic://tank ship)
+	- [tank driver](dic://tank driver)
+	- _n._ [cargo ship](dic://cargo%20ship), [cargo vessel](dic://cargo%20vessel), [soldier](dic://soldier)
+	- **barge**驳船;**convoy**护航队;**refinery**精炼厂;**cargo**货物，船货;**truck**卡车;**vessel**容器，器皿;**lorry**卡车;**LNG**液化天然气;**fleet**快速的，敏捷的;**barges**驳船;**warship**战船，军舰;
+	- _oil tanker_ 油轮；油罐车
+	- _chemical tanker_ 化学液体船；化学品运输船
+	- _tanker truck_ 油罐卡车
+	- _fuel tanker_ 油槽车，运油车；飞机油箱
+	- We don't have ship yards large enough to take super tankers. /我们没有足够大的船厂来容纳超级油轮。
+	- The bus caught fire after hitting a diesel tanker, according to local media. /据当地媒体报道，这辆公交车在撞上一辆柴油油罐车后起火。
+	- And tensions with the West rose after Britain seized a tanker carrying Iranian oil /在英国扣押了一艘装载伊朗石油的油轮后，伊朗与西方的紧张关系加剧。
+- tanked
+- tankard
+	- _n._ [drinking vessel](dic://drinking%20vessel)
+	- **pint**品脱;**ale**麦芽酒;**jug**水壶;**flask**烧瓶;**mug**脸;**pewter**锡铅合金,白镴;**mugs**马克杯;**cask**木桶，桶;**teapot**茶壶;**beer**啤酒;**pints**品脱;
+	- " Stuck his head in the water barrel, " said Hermione, putting the tankard away. /“他把脑袋伸到水桶里去了。”赫敏说着把大酒杯放到了别处。
+- tankage
+	- _n._ [indefinite quantity](dic://indefinite%20quantity), [charge](dic://charge), [storage](dic://storage)
+	- **hull**船体;**propellant**推进物;**propulsion**推进;**aft**在船尾;**fuel**得到燃料;**ballast**压舱物，压载物;**cargo**货物，船货;**vessel**容器，器皿;**tanker**油轮;**payload**有效载荷，有效负荷;**tanks**坦克;
+- supertanker
+- headtank
+- feed-tank
+- developingtank
+- blowtank
+- antitank
+
 tar
 - [pitch](dic://pitch)
 - [mariner](dic://mariner), [seaman](dic://seaman), [Jack-tar](dic://Jack-tar), [Jack](dic://Jack), [old salt](dic://old salt), [seafarer](dic://seafarer), [gob](dic://gob), [sea dog](dic://sea dog)
@@ -15931,6 +16131,9 @@ thief
 	- Because of your thievery, I was humiliated. /因为你偷了东西，让我丢脸。
 	- This is the Holy Grail of thievery. /这简直就是盗窃界的诺贝尔奖啊。
 - thieve
+
+thorn
+- steig-
 
 thorough
 - 1 - 来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
@@ -16181,6 +16384,13 @@ tip
 	- ad. 踮着脚  a. 踮着脚走的, 偷偷摸摸的
 - tipsy
 	- a. 喝醉的, 倾斜的
+	-  [besotted](dic://besotted), [blind drunk](dic://blind drunk), [blotto](dic://blotto), [crocked](dic://crocked), [cockeyed](dic://cockeyed), [fuddled](dic://fuddled), [loaded](dic://loaded), [pie-eyed](dic://pie-eyed), [pissed](dic://pissed), [pixilated](dic://pixilated), [plastered](dic://plastered), [potty](dic://potty), [slopped](dic://slopped), [sloshed](dic://sloshed), [smashed](dic://smashed), [soaked](dic://soaked), [soused](dic://soused), [sozzled](dic://sozzled), [squiffy](dic://squiffy), [stiff](dic://stiff), [tiddly](dic://tiddly), [tiddley](dic://tiddley), [tight](dic://tight), [wet](dic://wet)
+	- _dj._ [intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated), [unstable](dic://unstable)
+	- _n._ [sober](dic://sober), [stable](dic://stable)
+	- **drunk**喝酒;**drunken**喝醉的;**intoxicated**喝醉的;**booze**酒;**sober**冷静的，清醒的;**bartender**酒吧间销售酒精饮料的人,酒吧间男招待;**rowdy**吵闹的;**drank**喝;**drink**喝，饮;**alcoholic**酒精的;**drinking**喝酒;
+	-  The wine has made him a trifle tipsy. /这酒喝得他有点醉意了。
+	- We were at a particularly tipsy table. /我们这一桌的人喝得特别醉。
+	- My God, I think I'm tipsy. I've had one beer. /天阿 我觉得我醉了 我只喝了一瓶啤酒。
 	- tipsiness
 	- tipsily
 - tipster
