@@ -4304,19 +4304,20 @@
 		3. we have prescinded from many vexing issues. /我们略去了许多令人烦恼的问题。
 		4. his is an idea entirely prescinded from all of the others./他的想法和其他所有的是完全脱离的。
 	7. rescind (renounce)
-		1. re-,向后，往回，-scind,砍，切，词源同 shed,scissors.即砍掉，引申词义废除，取消。
-		2. [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [vacate](dic://vacate)
-		3. _v._ [cancel](dic://cancel), [strike down](dic://strike down)
-		4. **revoke**废除;**reinstate**使恢复原职;**waive**放弃;**suspend**延缓，推迟;**reconsider**重新考虑;**amend**修正;**unilaterally**单方面的;**withdraw**撤消;**approve**批准;**cancel**取消;**reject**拒绝;
-		5. _[statutory right to rescind](dic://statutory%20right%20to%20rescind)_ 法定解除权
-		6. _[rescind candadacy](dic://rescind%20candadacy)_ 撤销候选资格
-		7. the government eventually rescinded the directive /政府最终废除了这个指令。
-		8. Governments of both parties keep adding stacks of rules, few of which are ever rescinded. /两党的各界政府一直以来不停增加大量法规，其中少数规则是曾经业已废除的。
-		9. Yes, these techniques were approved for a time. And then, of course, they were rescinded. /是的，这些手段曾经过批准。当然，之后又被废除了。
-		10. The buy-order was rescinded minutes later /几分钟之后，该买单被撤销。
-		11. Apparently, we failed to rescind the interdepartmental clearance procedure /我们忘了各部间的审查过程。
-		12. unrescinded
-		13. rescission
+		1. - v. <正式>废除，取消
+		2. re-,向后，往回，-scind,砍，切，词源同 shed,scissors.即砍掉，引申词义废除，取消。
+		3. [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [vacate](dic://vacate)
+		4. _v._ [cancel](dic://cancel), [strike down](dic://strike down)
+		5. **revoke**废除;**reinstate**使恢复原职;**waive**放弃;**suspend**延缓，推迟;**reconsider**重新考虑;**amend**修正;**unilaterally**单方面的;**withdraw**撤消;**approve**批准;**cancel**取消;**reject**拒绝;
+		6. _[statutory right to rescind](dic://statutory%20right%20to%20rescind)_ 法定解除权
+		7. _[rescind candadacy](dic://rescind%20candadacy)_ 撤销候选资格
+		8. the government eventually rescinded the directive /政府最终废除了这个指令。
+		9. Governments of both parties keep adding stacks of rules, few of which are ever rescinded. /两党的各界政府一直以来不停增加大量法规，其中少数规则是曾经业已废除的。
+		10. Yes, these techniques were approved for a time. And then, of course, they were rescinded. /是的，这些手段曾经过批准。当然，之后又被废除了。
+		11. The buy-order was rescinded minutes later /几分钟之后，该买单被撤销。
+		12. Apparently, we failed to rescind the interdepartmental clearance procedure /我们忘了各部间的审查过程。
+		13. unrescinded
+		14. rescission
 			1. re- + sciss-剪 + -ion, 表名词。
 
 

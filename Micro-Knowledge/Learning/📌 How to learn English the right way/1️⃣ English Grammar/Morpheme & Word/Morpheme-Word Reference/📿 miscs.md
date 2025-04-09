@@ -1573,6 +1573,25 @@ bouquet (bouquet, banquet cachet, crotchet, coquet, ratchet) (spray)
 - we will happily publish the bouquets and brickbats /我们将很高兴地发表褒贬之词。
 - the aperitif has a faint bouquet of almonds. /开胃酒有一股淡淡的杏仁香味。
 
+bout
+- n. 一回, 一场, 一阵, 较量; 发作, 发病期
+- - n. 发作，发病期；一阵，一次，一场；拳击赛，摔跤比赛；（小提琴、吉他或其他乐器边缘的）曲线
+- 词源不确定，可能来自拟声词。
+-  [turn](dic://turn), [round](dic://round)
+- [bust](dic://bust), [tear](dic://tear), [binge](dic://binge)
+- _n._ [playing period](dic://playing%20period), [period of play](dic://period%20of%20play), [play](dic://play), [time period](dic://time%20period), [period of time](dic://period%20of%20time), [period](dic://period), [contest](dic://contest)
+- **rematch**复赛;**fight**打架;**welterweight**次中量级拳击手;**stoppage**堵塞;**boxing**拳击;**TKO**技术性击倒，技术得胜;**middleweight**中量级选手;**sparring**拳击;**knockout**击倒的;**boxer**拳师，拳击手;**illness**疾病;
+- She suffered a continuous bout of illness lasting six months. /她患病发作已持续了六个月。
+- The cat's tail lashed a bout. /猫尾巴猛力地甩动。
+- She is disposed to sudden bouts of depression.  /她动不动就会突然抑郁症发作。
+- I've just recovered from a bout of malaria. /我患了疟疾, 刚刚痊愈。
+- He enjoys going to wrestling bouts. /他喜欢参加摔跤比赛。
+- She has had several bouts with cancer since 1999 /自1999年，她曾多次患有癌症。
+-  Officially, it was a nasty bout of hemorrhoids./官方的说法是，他的死因是严重的痔疮。
+- Have you really forgotten how bad my last bout of pneumonia was? /你真的忘了我上次肺炎发作有多严重了吗？
+- It's his fourth bout in two years /这已经是他这两年来第四次发病了。
+-  I thought " Oh dear, this is going to be another bout of painful correspondents."/“天啊，又要我写一轮痛苦的回信了。”
+
 brackish
 - adj. 含盐的；令人不快的；难吃的
 -  [briny](dic://briny)

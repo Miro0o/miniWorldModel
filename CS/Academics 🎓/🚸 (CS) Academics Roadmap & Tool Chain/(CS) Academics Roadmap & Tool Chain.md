@@ -221,7 +221,7 @@ https://www.grammarly.com/
 Grammarly 
 
 
-### Plagiarism Checking
+### Plagiarism Checking ⭐ ⭐
 https://www.zerogpt.com/
 ZeroGPT the most Advanced and Reliable Chat GPT, GPT4 & AI Content Detector
 
@@ -229,6 +229,11 @@ https://www.essaybye.com/
 智能学术写作工具，专为学生/学者设计
 基于大语言模型工具和自研AI学术写作算法，可高效进行学术写作
 降AI率 | 查重/查AI率 | Essay写作助手
+
+https://www.paperpass.com/upload
+
+https://www.cnkivip.net/
+学术不端论文查重检测系统主要为广大学生和科研工作者提供学术不端论文查重检测服务，致力于提供最好的自助论文检测服务。学术不端学术不端文献检测系统（简称“学术不端论文查重检测系统”）适用于本、硕、博学位论文的检测以及杂志期刊职称论文检测，自2008年底正式推出以来，机构用户数量已突破8000家，全面覆盖国内图书出版单位、研究生培养单位、大学生培养单位、人事职称评审及相关管理部门，取得积极的管理效果和社会反响，使中国学术不端学术不端文献检测系统“提高我国学术论文质量”的核心宗旨得到有效落实。
 
 
 

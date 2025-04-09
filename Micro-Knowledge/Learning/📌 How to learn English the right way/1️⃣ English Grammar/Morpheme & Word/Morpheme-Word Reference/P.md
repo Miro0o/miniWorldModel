@@ -4294,16 +4294,39 @@
 		3. porched
 		4. anteporch
 	18. Portugal
+		1. 来自拉丁语 Portus Cale,波尔图港，来自 Portus,港口，词源同 port,Cale,葡萄牙首都波尔图拉丁名，可能来自希腊语 kallis,漂亮的，词源同 calligraphy.
+		2. n. 葡萄牙
+		3. _n._ [European country](dic://European%20country), [European nation](dic://European%20nation)
+		4. **Spain**西班牙;**Lisbon**里斯本;**Algarve**阿尔加维;**Brazil**巴西;**Azores**亚速尔群岛;**Porto**波尔图;**Madeira**马德拉群岛;**Portuguese**葡萄牙语;**Brasil**巴西;**Argentina**阿根廷;**Mozambique**莫桑比克;
+		5. She was sorry to bid farewell to Portugal. /她舍不得告别葡萄牙。
+		6. France made mincemeat of Portugal, beating them 5 goals to nil /法国队5比0大败葡萄牙队。
+		7. 
 	19. Portuguese
-	20. 
 21. fere
+	1. _n._ 伴侣,配偶
 22. fern
 	1. n. 蕨类植物
 23. ferry (parry, harry, ferry)
+	1. [ferryboat](dic://ferryboat)
+	2. [ferrying](dic://ferrying)
+	3. _n._ [boat](dic://boat), [transportation](dic://transportation), [shipping](dic://shipping), [transport](dic://transport)
+	4. _v._ [bring](dic://bring), [convey](dic://convey), [take](dic://take), [transport](dic://transport), [travel](dic://travel), [go](dic://go), [move](dic://move)
+	5. **boat**小船;**bus**公共汽车;**pier**水上平台, 码头;**wharf**码头;**taxi**乘出租车;**jetty**码头;**dock**船坞;**boats**船艇;**buses**公共汽车;**tram**电车轨道;**harbour**藏匿;
+	6. _ferry terminal_ 渡轮码头；车船联运港；客轮码头
+	7. _ferry service_ 轮渡服务
+	8. the ferry landing /渡口码头。
+	9. a short ferry crossing. /短程轮渡。
 24. firth
 	1. n. 峡湾, 河口
+	2. _n._ [linguist](dic://linguist), [linguistic scientist](dic://linguistic%20scientist), [estuary](dic://estuary)
+	3. **estuary**河口;**harbour**藏匿;**lee**保护;**Orkney**奥克尼;
+	4. you will have a fine view of Moray Firth by the way. /在途中你将欣赏到马里湾的美丽景色。
+	5. The hotel is situated on the sheltered shores of the Moray Firth. /旅馆位于马里湾的下风岸。
 25. fjord
 26. ford
+	1. - n. 浅滩；Ford：福特汽车公司
+	2. vi. 涉水而过
+	3. vt. 涉过；徒涉
 27. fuhrer
 #### + \*per- (3) + = to try, risk
 1. **per-, pir-, par-** = try, 表示“尝试，冒险”。源自拉丁语 periclum "trail, danger," experiri "to try, learn by tring," peira "trial, attempt."
@@ -4405,21 +4428,64 @@
 		11. _pirate ship_ 海盗船
 		12. _pirate software_ 盗版软件
 		13. piratic, piratical
-6. fear
+2. fear
+	1. n. 恐怖, 害怕, 担心 
+	2. v. 害怕, 恐惧, 为...担心, 敬畏
+	3. fear [fɪə] n.&amp;v.害怕；敬畏；担心。这个单词与fare [feə] vi.经营；进展；遭遇；过活，n.票价；费用；旅客；食物，是有关的。fare在古英语里的本意是“旅行”。哦，小清新们别浪漫了，在过去遍布森林和沼泽的欧洲，旅行，那可不是钱的问题，那是森林沼泽中的猛兽会要命的问题，提起出远门都害怕。 ​​​​
+	4. god-fearing
+	5. fearsome
+	6. fearnought
+	7. fearnaught
+	8. fearmonger
+	9. fealess
+	10. fearful
+		1. fearfulness
+		2. fearfully
 #### + \*per- (4) + = to strike
 1. **-pressin** = 加压素，加压素类强心药。
 	1. vasopressin
 2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
 	1. press
-		1. press ahead
+		1. [fourth estate](dic://fourth estate)
+		2.  [imperativeness](dic://imperativeness), [insistence](dic://insistence), [insistency](dic://insistency), [pressure](dic://pressure)
+		3. [public press](dic://public press)
+		4. [printing press](dic://printing press)
+		5.  [crush](dic://crush), [jam](dic://jam)
+		6. [wardrobe](dic://wardrobe), [closet](dic://closet)
+		7.  [mechanical press](dic://mechanical press)
+		8. [military press](dic://military press)
+		9.  [pressure](dic://pressure), [pressing](dic://pressing)
+		10. [urge](dic://urge), [urge on](dic://urge on), [exhort](dic://exhort)
+		11.  [weigh](dic://weigh)
+		12. [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract)
+		13. [crusade](dic://crusade), [fight](dic://fight), [campaign](dic://campaign), [push](dic://push), [agitate](dic://agitate)
+		14. [press out](dic://press out)
+		15. [push](dic://push)
+		16. [iron](dic://iron), [iron out](dic://iron out)
+		17.  [weight-lift](dic://weight-lift), [weightlift](dic://weightlift)
+		18. [bid](dic://bid), [beseech](dic://beseech), [entreat](dic://entreat), [adjure](dic://adjure), [conjure](dic://conjure)
+		19. _n._ [estate](dic://estate), [estate of the realm](dic://estate%20of%20the%20realm), [urgency](dic://urgency), [print media](dic://print%20media), [machine](dic://machine), [crowd](dic://crowd), [furniture](dic://furniture)
+		20. _v._ [touch](dic://touch), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [count](dic://count), [matter](dic://matter), [weigh](dic://weigh)
+			1. [magazine](dic://magazine) 指刊登各种文章、小说、诗歌、评议的杂志。   
+			2. [journal](dic://journal) 本义为“日报”，现在可指定期发生的周刊、月刊、季刊等或指学术团体出版的刊物、杂志或学报。  
+			3. [periodical](dic://periodical) 通常指除日报以外的定期出版刊物。  
+			4. [publication](dic://publication) 指出版物，发行物。  
+			5. [newspaper](dic://newspaper) 一般指每日出版的报纸。  
+			6. [review](dic://review) 多指登载评论性文章或讨论重大事件的文章的刊物。  
+			7. [press](dic://press) 系报刊总称，也指报界或报业。
+		21. **release**释放;**media**媒体;**conference**会议;**button**按钮;**briefing**简报;**publicity**公众的注意;**news**新闻，消息;**newspaper**报纸;
+		22. This kind of newspaper is alternative press. /这种报纸是非正统性报刊。
+		23.  Moved by compassion, I didn't press for payment. /出于同情心我不逼债了。
+		24. The iron hissed as it pressed the wet cloth. /熨斗压在湿布上时发出了嘶嘶声。
+		25. press ahead
 			1. 继续前进：继续朝着目标前进。
 			2. But the incentives for grocers to press ahead are huge. /但杂货商推进这一进程的动力是巨大的。
 			3. The priority now is to fix frayed banking systems, press ahead with a banking union. /目前的当务之急是修复受损的银行系统，推进银行同盟。
 			4. They have independent views on teaching. They were really courageous in terms of pressing ahead reforms /“他们在教学方面有自已独立的观点。在推进改革方面，他们真的很勇敢。
 			5. China will press ahead with high-quality Belt and Road cooperation to make it high-standard, sustainable and people-centered. /中国将坚持高标准、可持续、惠民生的目标，积极推进高质量共建“一带一路”。
 			6. Since world gender equality is far from being realized, we will **press** **ahead** with this great process. /因为全球范围内的性别平等还远未实现，所以我们将继续推进这一伟大的进程。
-		3. treadle-press
-		4. pressure
+		26. treadle-press
+		27. pressure
 			1. underpressure
 			2. uncipressure
 			3. pressurize, pressurise
@@ -4441,7 +4507,7 @@
 			15. angiopressure
 			16. acupressure
 			17. acufilopressure
-		5. pressing
+		28. pressing
 			1. adj. （问题，需求，情况）紧迫的，迫切的；难以推却的，不容忽视的 
 			2. n. 压制品，一批压制品（尤指唱片）；按，压，挤，推 
 			3. v. 按，压；熨平（衣服）；挤着走（pressing 的现在分词形式）
@@ -4458,75 +4524,224 @@
 			14. It was an ordinary window, against which now the night was pressing blackly. /这只是一扇普通的窗户，窗外是漆黑的夜晚。
 			15. We're finding they're gradually pressing their boundaries /我们发现，它们正在逐渐突破自己的界限。
 			16. This question is especially pressing for the lawmakers known as the front liners. /对于被称为前线派的议员来说，这个问题尤其紧迫。
-		7. press-up
+		29. press-up
 			1. _n._ [arm exercise](dic://arm exercise)
 			2. **squat**蹲，蹲下;**squats**蹲起;**squatting**蹲;**exercise**练习;**posture**姿势;**workout**试验;**gymnast**体操运动员;**postures**姿势，态度;**kneeling**跪着，跪下;**biceps**二头肌，强健的筋肉;**warm-up**准备动作;
-	2. compress
-		1. uncompress
-		2. decompress
-		3. compressure
-		4. compressor
-		5. compressometer
-		6. compressive
-		7. compression
-		8. compressing
-		9. compressible
-		10. compressed
-	3. depress
-		1. vasodepressor
-		2. manic-depressive
-		3. depressor
-		4. depressomotor
-		5. depressive
-		6. depression
-		7. depressing
-		8. depressible
-		9. depressant
-	4. express
-		1. unexpressed
-		2. superexpress
-		3. overexpress
-		4. inexpressibly
-		5. expressway
-		6. expressman
-		7. expressly
-		8. expressive
-		9. expression
-		10. expressible
-		11. expresser
-		12. expressage
-	5. impress
-		1. etc... (todo)
-	6. oppress
-		1. oppressor
-		2. oppressive
+	11. compress
+		6. uncompress
+		7. decompress
+		8. compressure
+		9. compressor
+		10. compressometer
+		11. compressive
+		12. compression
+		13. compressing
+		14. compressible
+		15. compressed
+	12. depress
+		16. vasodepressor
+		17. manic-depressive
+		18. depressor
+		19. depressomotor
+		20. depressive
+		21. depression
+		22. depressing
+		23. depressible
+		24. depressant
+	13. express
+		25. unexpressed
+		26. superexpress
+		27. overexpress
+		28. inexpressibly
+		29. expressway
+		30. expressman
+		31. expressly
+		32. expressive
+		33. expression
+		34. expressible
+		35. expresser
+		36. expressage
+	14. impress
+		37. etc... (todo)
+	15. oppress
+		38. oppressor
+		39. oppressive
 			1. **repressive**镇压的;**tyrannical**暴君的,暴君似的;**stifling**沉闷的;**oppression**压迫手段;**authoritarian**权力主义的,专制的;**totalitarian**极权主义的;**tyranny**暴政;**unjust**不公平的，不公正的;**overbearing**专横的,傲慢的;**coercive**强制的;**patriarchal**家长的;
 			2. _adj._ [heavy](dic://heavy), [domineering](dic://domineering)
-		3. oppression
-	7. hot-press
-	8. key-press
-	9. letterpress
-	10. clothespress
-3. print
+		40. oppression
+	16. hot-press
+	17. key-press
+	18. letterpress
+	19. clothespress
+12. print
 #### + \*per- (5) + = to traffic in, to sell
 1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."
 	1. porn
+		1. n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学
 	2. pornography
+		1. pornographic
+		2. pornographer
 2. **prais-, preci-, pret-, pric-** = value, 表示“价值”，引申为“买卖”。源自拉丁语 pretium "price."
 	1. appraise
+		1. ap-加强动作 + praise【价值】 → 给以价值 → 评估。
+		2. ap-,向，往，-praise,评估，词源同 price,价格，即评估。
+		3. vt. 评价, 估价
+		4.  [measure](dic://measure), [evaluate](dic://evaluate), [valuate](dic://valuate), [assess](dic://assess), [value](dic://value)
+		5. [survey](dic://survey)
+		6. _v._ [evaluate](dic://evaluate), [pass judgment](dic://pass%20judgment), [judge](dic://judge), [analyze](dic://analyze), [analyse](dic://analyse), [study](dic://study), [examine](dic://examine)
+			1. [estimate](dic://estimate) 通常指由个人作出的主观估价。  
+			2. [appraise](dic://appraise) 指以专家身份作了最终精确的估价。  
+			3. [assess](dic://assess) 原义指对为确定交多少税而估计，引申指通过估价以便更好利用。  
+			4. [evaluate](dic://evaluate) 与appraise相似，指使判断绝对准确，但多用于对人物的某方面的评价，很少用于评价某物的市场价值。  
+			5. [value](dic://value) 侧重指一般人对某物的价值或价格所作的估计。  
+			6. [rate](dic://rate) 专指评定价值等级的高低。
+		7. **assess**评定;**evaluate**评价;**appraisal**估计, 估量, 评价;**examine**调查;**ascertain**弄清, 确定, 查明;**analyze**对…进行分析，分解;**inspect**检查;**determine**决定;**analyse**分析;**objectively**客观地;**quantify**量化;
+		8. He appraised the necklace at ￡1000. /据他估计, 项链价值1000英镑。
+		9. Property is appraised for taxation /估产定税。
+		10. Objective To appraise the advantages and disadvantages in the treatment of distal tibiofibular syndesmosis diastasis with syndesmosis screw. /目的探讨踝关节损伤时胫腓下联合分离的机制及胫腓下联合固定的利弊。
+		11. So when such a book was read, “Now, that's what I call a pretty good story,” says the general reader, intrepidly appraising his own reading matter. /当一位普通读者说道：“看，这就是那本相当不错的小说”。这个评价一定是其自己阅读后所得出的结论。
+		12. reappraise
+			1. _v._ [evaluate](dic://evaluate), [pass judgment](dic://pass%20judgment), [judge](dic://judge)
+			2. **rethink**再想;**revisit**重游;**reconsider**重新考虑;**examine**调查;**revise**校订;**rediscover**再次发现;**assess**评定;**redefine**重新定义;**evaluate**评价;**reshape**改造;**reflect**反射，照出;
+			3. _[reappraise](dic://reappraise)_  vt. 重新评估；重新评价
+			4. _[reappraise automatedaccessory](dic://reappraise%20automatedaccessory)_ 主动重新评估
+			5. _[reappraisal reappraise transvalue](dic://reappraisal%20reappraise%20transvalue)_ 重新评价
+		13. reappraisal
+		14. appriser
+		15. appraisement
+			1. Methods Based on the autoptical result, apply the fuzzy theory and multi-grade fuzzy comprehensive appraisement means. /方法依据实地调查资料,运用模糊数学的理论与多级模糊综合评价方法。
+			2. Due to a number of reasons, the archive **appraisement** always lags behind other links of archive work /由于多因素的影响，档案鉴定工作总是滞后于档案工作的其它环节。
+		16. appraisal
+		17. appraisable
 	2. appreciate
-		1. appreciable
+		1. - v. 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值
+		2. _v._ [acknowledge](dic://acknowledge), [recognize](dic://recognize), [recognise](dic://recognise), [understand](dic://understand), [realize](dic://realize), [realise](dic://realise), [see](dic://see)
+		3. _n._ [depreciate](dic://depreciate), [undervalue](dic://undervalue), [devaluate](dic://devaluate), [devalue](dic://devalue)
+		4. [appreciate](dic://appreciate) 多用于文学方面，强调对事物有深入的理解能力，且能鉴赏。  
+		5. [enjoy](dic://enjoy) 普通用词，使用广泛，程度不及appreciate,多指从外界事物中得到喜悦与满足，领略到乐趣，享受意味强。
+		6. **thank**感谢;**admire**欣赏，赞赏;**commend**推荐;**sincerely**真诚地;**grateful**感谢的;**applaud**向…喝彩;**enjoy**喜爱;**thanks**谢谢;**understand**懂;**hope**希望;**glad**高兴的;
+		7. Gold has recently appreciated and will continue to appreciate in the months ahead. /黄金最近涨价了, 在今后几个月里价格还要继续上涨。
+		8. We shall appreciate hearing from you again /我们恭候佳音。
+		9. I really appreciate the danger of this job /我真的认识到了这份工作的危险。
+		10. A musician can appreciate small differences in sounds. /音乐家能辨别声音中极细微的差别。
+		11. appreciable
 	3. depreciate
+		1. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick%20at), [devalue](dic://devalue), [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen)
+		2. _n._ [appreciate](dic://appreciate), [apprize](dic://apprize), [apprise](dic://apprise), [revalue](dic://revalue)
+		3. **diminish**使减少;**degrade**降格;**accumulate**堆积;**value**价值;**deteriorate**恶化;**asset**资产;
+		4. We must not depreciate the work she has done /我们不要轻视她所做的工作。
+		5. The purchasing power of money has depreciated since she bought her savings certificates. /自从她买了储蓄券以后，现款的购买力己降低了。
 	4. praise
-	5. preciosity
-		1. **elegance**典雅;**subtlety**微妙;**sensibility**感情;**whimsy**怪念头;**grandeur**庄严;**brilliance**才华,才智;**minimalism**极简派艺术;**sophistication**老练;**modernism**现代主义;**delicacy**精致, 精美;**sensuality**喜爱感官享受;
-		2. n. （谈吐、文笔等）矫揉造作；（语言等）过分讲究；风雅人士；贵重物品
+		1. 1. n. 称赞；赞扬；崇拜；荣耀
+		2. vt. 赞美，歌颂；表扬
+		3. vi. 赞美；赞扬
+		4.  [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
+		5. _n._ [approval](dic://approval), [commendation](dic://commendation), [worship](dic://worship)
+		6. _v._ [measure](dic://measure), [evaluate](dic://evaluate), [valuate](dic://valuate), [assess](dic://assess), [appraise](dic://appraise), [value](dic://value)
+		7. _n._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick%20apart)
+		8. **admiration**钦佩;**adoration**爱慕;**criticism**批评, 批判, 指责;**acclaim**称赞;**kudos**荣誉;**scorn**轻蔑;**rave**咆哮;**rebuke**指责，非难;**commend**推荐;**applause**鼓掌欢迎;**criticize**评论, 批评;
+		9. _n praise of_ 歌颂；为赞扬
+		10. _praise for_ 因为...赞美
+		11. _public praise_ 口碑，公众的称赞
+		12. _full of praise_ 赞不绝口
+		13. _song of praise_ 赞歌
+		14. _with high praise_ 受到高度赞扬
+		15. _more praise than pudding_ 恭维多而实惠少;恭维多实惠少；仅有恭维而无实惠;恭维多而实惠少;
+		16. _beyond all praise_ 赞美不完
+		17. _criticism and praise_ 批评和赞扬
+	5. preciosity [美 /ˌprɛʃɪ'ɑsɪti/](cmd://Speak/_us_/preciosity)
+		14. **elegance**典雅;**subtlety**微妙;**sensibility**感情;**whimsy**怪念头;**grandeur**庄严;**brilliance**才华,才智;**minimalism**极简派艺术;**sophistication**老练;**modernism**现代主义;**delicacy**精致, 精美;**sensuality**喜爱感官享受;
+		15. n. （谈吐、文笔等）矫揉造作；（语言等）过分讲究；风雅人士；贵重物品
+		16. _n._ 过分讲究,过于细心
 	6. precious
+		1. - adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的
+		2. n. （用作称呼）宝贝，亲爱的
+		3. adv. 非常，极其
+		4.  [cherished](dic://cherished), [treasured](dic://treasured), [wanted](dic://wanted)
+		5.  [cute](dic://cute)
+		6. [preciously](dic://preciously)
+		7. _adj._ [loved](dic://loved), [valuable](dic://valuable), [artful](dic://artful)
+		8. _n._ [unloved](dic://unloved), [worthless](dic://worthless), [artless](dic://artless)
+		9. [valuable](dic://valuable) 指有相当价值，可高价出售的，或有用、有益的东西。  
+		10. [precious](dic://precious) 指因稀罕、不易得到而很值钱，或因本身的品质而具有极大的价值。
+		11. **valuable**贵重的;**priceless**无价的;**irreplaceable**不能调换的,不能代替的;**cherish**珍爱;**treasure**财富，财产;**prized**被看作最有价值的;**dearest**最亲爱的人;**jewels**珠宝;**beautiful**美丽的, 悦目的;**fragile**脆的;**wasted**浪费的;
+		12. _precious metal_ 贵金属，贵重金属
+		13. _precious stone_ 宝石
+		14. _precious moment_ 珍贵的时刻
+		15. A diamond is a  precious stone. /金刚钻是一种宝石。
+		16. Luckily our precious records were saved from the fire /幸运地, 我们这些珍贵的记录从火灾中抢救了出来。
+		17. They are the most precious cultural legacy our forefathers left /它们是我们祖先留下来的最宝贵的文化遗产。
+		18. 
 	7. interpret
+		1. _v._ [understand](dic://understand), [explain](dic://explain), [explicate](dic://explicate), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [re-create](dic://re-create)
+			1. [explain](dic://explain) 含义广，最普通用词，指把某事向原来不了解、不清楚的人解释明白、说清楚等。  
+			2. [interpret](dic://interpret) 着重以特殊的知识、经验来解释难理解的事情。  
+			3. [illustrate](dic://illustrate) 多指用实例或插图、图表加以说明。  
+			4. [clarify](dic://clarify) 指把已发生的事件。情况和现状说清楚。  
+			5. [account](dic://account) 说明某事物如何符合自然法则或逻辑。
+		2. **analyze**对…进行分析，分解;**decipher**译解;**understand**懂;**interpretation**解释, 说明;**infer**推断;**discern**识别;**analyse**分析;**comprehend**理解, 领会;**perceive**察觉，感觉;**deduce**推论，推断;**visualize**在脑中使形象化, 设想, 想像;
+		3. _right to interpret_ 解释权
+		4. The girl is interpreting for foreign visitors. /那女孩在替外宾当口译。
+		5. He has interpreted my statement by contraries. /他把我的话解释反了。
+		6. Different people might interpret events differently. /不同的人对事件的理解也可能不同。
 	8. price
-	9. unpriced
-	10. prix
-	11. prize
+		1. - n. 价格；代价；开价，价码；投注赔率；<古> 价值
+		2. v. 为……定价；给（商店中的产品）标价；比较……的价格；问……的价格
+		3. [terms](dic://terms), [damage](dic://damage)
+		4.  [monetary value](dic://monetary value), [cost](dic://cost)
+		5. [cost](dic://cost), [toll](dic://toll)
+		6.  [Leontyne Price](dic://Leontyne Price), [Mary Leontyne Price](dic://Mary Leontyne Price)
+		7. _n._ [cost](dic://cost), [value](dic://value), [worth](dic://worth), [reward](dic://reward), [soprano](dic://soprano)
+		8. _v._ [determine](dic://determine), [set](dic://set), [ascertain](dic://ascertain)
+			1. [charge](dic://charge) 指提供服务时索取的费用，也指货物的价格、价钱。  
+			2. [price](dic://price) 指商品在市场出售的价格，尤指卖方对商品所提出的单价。比喻意义指付出的代价。  
+			3. [fee](dic://fee) 指上学、求医以及找律师等付的费用，还可指会费、借书费等。  
+			4. [fare](dic://fare) 侧重指旅行时所付的车、船费等费用。  
+			5. [cost](dic://cost) 指生产某东西的成本，也泛指商品的价格，可与price换用。  
+			6. [expense](dic://expense) 常指实际支付的费用总数额，有时也指钱的花费。
+		9. **cost**花费;**bargain**交易;**value**价值;**sale**出售;**costs**讼费;**cheapest**最便宜的;**discount**折扣;**purchase**购买;**exorbitant**过高的;**market**集市;**buy**购买;
+		10. _reasonable price_ 合理价格；价格公道
+		11. _low price_ 低价；廉价
+		12. _market price_ 市价
+		13. _unit price_ [商]单价
+		14. _competitive price_ 竞争价格；公开招标价格
+		15. _sale price_ n. 特价；廉价
+		16. _oil price_ 油价；原油价格
+		17. _stock price_ 股票价格；股票行市；交易所卖价
+		18. _in price_ 在价格上；在价格方面；就价格而言
+		19. _high price_ 高价格
+		20. _best price_ 最佳价格
+		21. _at a price_ 以很高的代价；以较高的价格
+		22. _cost price_ 成本价格
+		23. _lowest price_ 最低价格
+		24. _share price_ [经]股价
+		25. _price list_ 价目表
+		26. _price index_ n. 物价指数
+		27. _lower price_ 低价；降价
+		28. _at the price of_ adj. 以……的价格；以……的代价
+		29. _purchase price_ 买价，进货价格
+		30. The wholesalers have jacked up their prices. /批发商提价了。
+		31. Driving down the price of their catch. /渔获物的价格也压低了。
+		32. unpriced
+			1. adj. 贵重的；无法估价的
+	9. prix
+		1. _grand prix_ n. 国际汽车大奖赛；头等奖，最高奖
+	10. prize
+		1. n. 奖品，奖项；非常珍贵的人（或物），十分重要的人（或物）；<史>（海战中）缴获的敌船
+		2. adj. 可获奖的，优等的；作为奖品的；获奖的；有奖的；<英，非正式>完全的；非常重要的，珍贵的
+		3. v. 珍视，高度重视；<美>撬开；竭力打探（消息等）
+		4. [award](dic://award)
+		5. [loot](dic://loot), [booty](dic://booty), [pillage](dic://pillage), [plunder](dic://plunder), [swag](dic://swag), [dirty money](dic://dirty money)
+		6. [trophy](dic://trophy)
+		7.  [value](dic://value), [treasure](dic://treasure), [appreciate](dic://appreciate)
+		8.  [pry](dic://pry), [prise](dic://prise), [lever](dic://lever), [jimmy](dic://jimmy)
+		9. [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prise](dic://prise)
+		10.  [choice](dic://choice), [prime(a)](dic://prime\(a\)), [quality](dic://quality), [select](dic://select)
+		11. _n._ [gift](dic://gift), [stolen property](dic://stolen%20property), [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		12. _v._ [see](dic://see), [consider](dic://consider), [reckon](dic://reckon), [view](dic://view), [regard](dic://regard), [open](dic://open), [open up](dic://open%20up)
+		13. _adj._ [superior](dic://superior)
+		14. _n._ [inferior](dic://inferior)
+		15. **winner**胜利者;**winners**成功者;**contest**争辩;**award**授予;**raffle**抽彩售物;**winning**胜利的;**win**赢得;**winnings**赢得的钱;**giveaway**泄漏;**sweepstakes**独得的赌金,赌金独得赛马,赌金,比赛;**consolation**安慰,慰问;
 
 
 ### ⭐️ + \*pere- +
@@ -4619,7 +4834,7 @@
 		7. vituperative
 		8. vituperation
 2. **par, partur-** = bring forth; to get, beget; Latin (parire)
-	1. apparition
+	1. apparition [美 /ˌæpəˈrɪʃn/](cmd://Speak/_us_/apparition) (appraisal)
 		1.  ap-,向，往，-par,出现。原指主显节(Epiphany)圣子降临，后词义发生了变化。
 		2. n. 鬼, 幽灵, 幻影
 		3. apparition（幽灵）：耶稣基督以婴儿形态诞生  
@@ -4684,7 +4899,7 @@
 	21. gemmiparous
 	22. uniparous
 	23. biparous
-		1. [植] 成双的 
+		1. 成双的 
 		2. [生物] 双胎的
 	24. fissiparous
 #### + \*pere- (2) + = to assign, grant, allot

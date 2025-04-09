@@ -30,5 +30,7 @@ Generate formatted bibliographies, citations, and works cited _automatically_
 - **Endnote + Word**
 - **Zotero + Word** （我的选择）
 
+65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆 http://xhslink.com/a/ZhR1ztRqSgQ9，复制本条信息，打开【小红书】App查看精彩内容！
+
 [【研究工具】倔强——只用Word完成文献引用 | 简书]: https://www.jianshu.com/p/5dc86dfa70f2
 [WORD批量修改文献引用为上标 | CSDN]: http://t.csdnimg.cn/6GvEg
