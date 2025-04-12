@@ -116,7 +116,7 @@ For the purpose of security, input that crosses a trust boundary is often the mo
 The term “fuzz” was originally coined by Miller et al. in 1990 to refer to a program that “generates a stream of random characters to be consumed by a target program” [152,p. 4]. Since then, the concept of fuzz as well as its action—“fuzzing”—has appeared in a wide variety of contexts, including dynamic symbolic execution [90], [226], grammar-based test case generation [88], [105], [213], permission testing [24], [80], behavioral testing [122], [175], [224], complexity testing [135], [222], kernel testing [216], [196], [186], representation dependence testing [121], function detection [227], robustness evaluation [223], exploit development [111], GUI testing [197], signature generation [72], and penetration testing [81], [156]. To systematize the knowledge from the vast literature of fuzzing, let us first present a terminology of fuzzing extracted from modern uses.
 
 
-### Terminology
+### Terminology ⭐
 > V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. (2018)
 > https://ieeexplore.ieee.org/document/8863940
 > https://arxiv.org/pdf/1812.00140
@@ -154,7 +154,46 @@ A fuzz configuration of a fuzz algorithm comprises the parameter value(s) that c
 The definition of a fuzz configuration is intended to be broad. Note that the type of values in a fuzz configuration depend on the type of the fuzz algorithm. For example, a fuzz algorithm that sends streams of random bytes to the PUT [152] has a simple configuration space {(PUT)}. On the other hand, sophisticated fuzzers contain algorithms that accept a set of configurations and evolve the set over time—this includes adding and removing configurations. For example, CERT BFF [49] varies both the mutation ratio and the seed over the course of a campaign, and thus its configuration space is {(PUT, s1, r1), (PUT, s2, r2), . . .}. A seed is a (commonly well-structured) input to the PUT, used to generate test cases by modifying it. Fuzzers typically maintain a collection of seeds, and some fuzzers evolve the collection as the fuzz campaign progresses. This collection is called a seed pool. Finally, a fuzzer is able to store some data  within each configuration. For instance, coverage-guided fuzzers may store the attained coverage in each configuration.
 
 
-### Working Procedure
+### Taxonomy
+> 🔗 https://en.wikipedia.org/wiki/Fuzzing
+
+A fuzzer can be categorized in several ways:
+1. (Reuse of existing input seeds) A fuzzer can be generation-based or mutation-based depending on whether inputs are generated from scratch or by modifying existing inputs.
+2. (Aware of input structure) A fuzzer can be dumb (unstructured) or smart (structured) depending on whether it is aware of input structure.
+3. (Aware of program structure) A fuzzer can be white-, grey-, or black-box, depending on whether it is aware of program structure.
+
+
+### Genealogy
+![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
+<small>Genealogy tracing significant fuzzers’ lineage back to Miller et al.’s seminal work. Each node in the same row represents a set of fuzzers appeared in the same year. A solid arrow from X to Y indicates that Y cites, references, or otherwise uses techniques from X. 📗 denotes that a paper describing the work was published.</small>
+<small>V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. <a>https://ieeexplore.ieee.org/document/8863940</a></small>
+
+
+### 📋 List of Fuzzers
+#### 1️⃣ Traditional Fuzzers
+![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.55.03.png)
+<small>V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. <a>https://ieeexplore.ieee.org/document/8863940</a> (2018)</small>
+#### 2️⃣ Traditional Machine Learning & Neural Network Based Fuzzers
+
+
+#### 3️⃣ LLM Based Fuzzers
+![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
+<small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
+<a>https://arxiv.org/abs/2402.00350</a></small>
+
+![](../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2016.19.05.png)
+<small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
+<a>https://arxiv.org/abs/2402.00350</a></small>
+
+
+
+## Fuzzing Algorithm & General Working Procedure
+### General Fuzzing Procedure
+![](../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.17.58.png)
+<small>如图所示, 模糊测试的一般工作流程可分为5个基本步骤, 即预处理、测试输入生成、测试执行、缺陷检 测和后模糊处理. <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+
+
+
 > V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. (2018)
 > https://ieeexplore.ieee.org/document/8863940
 > https://arxiv.org/pdf/1812.00140
@@ -182,28 +221,14 @@ A user supplies `PREPROCESS` with a set of fuzz configurations as input, and it 
 `CONTINUE` takes a set of fuzz configurations $\mathbb{C}$ as input and outputs a boolean indicating whether a new fuzz iteration should occur. This function is useful to model white-box fuzzers that can terminate when there are no more paths to discover.
 
 
-### Taxonomy
-> 🔗 https://en.wikipedia.org/wiki/Fuzzing
+### LLM-based Fuzzing Procedure
+![](../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
+<small>LLM驱动缺陷检测的一般流程 <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+#### LLM-Driven Test Cases Generation
 
-A fuzzer can be categorized in several ways:
-1. (Reuse of existing input seeds) A fuzzer can be generation-based or mutation-based depending on whether inputs are generated from scratch or by modifying existing inputs.
-2. (Aware of input structure) A fuzzer can be dumb (unstructured) or smart (structured) depending on whether it is aware of input structure.
-3. (Aware of program structure) A fuzzer can be white-, grey-, or black-box, depending on whether it is aware of program structure.
+#### LLM-Driven Bug/Vulnerability Discovery
 
-
-### Genealogy
-![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
-<small>Genealogy tracing significant fuzzers’ lineage back to Miller et al.’s seminal work. Each node in the same row represents a set of fuzzers appeared in the same year. A solid arrow from X to Y indicates that Y cites, references, or otherwise uses techniques from X. 📗 denotes that a paper describing the work was published.</small>
-<small>V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. <a>https://ieeexplore.ieee.org/document/8863940</a></small>
-
-
-### 📋 List of Fuzzers 
-![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.55.03.png)
-<small>V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. <a>https://ieeexplore.ieee.org/document/8863940</a> (2018)</small>
-
-![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
-<small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
-<a>https://arxiv.org/abs/2402.00350</a></small>
+#### LLM-Driven Post-Fuzzing Processing
 
 
 
@@ -212,7 +237,7 @@ A fuzzer can be categorized in several ways:
 > Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." _arXiv preprint arXiv:2402.00350_ (2024).
 > https://arxiv.org/abs/2402.00350
 
-In addition, we summarise the most commonly used metrics based on all technologies to evaluate the performance of LLMs-based fuzzers. They can be generally categorized into three types, the metrics related to code, performance and time. 
+In addition, we summarize the most commonly used metrics based on all technologies to evaluate the performance of LLMs-based fuzzers. They can be generally categorized into three types, the metrics related to code, performance and time. 
 
 For the ==code-related metrics==, the representative ones are code coverage and the number of bugs retrieved, as they reflect the testing coverage and vulnerability detection capability of the fuzzer most directly. 
 - **Number of bugs retrieved**
@@ -232,6 +257,12 @@ For the ==performance-related metrics==, the hit rate is a commonly used metric.
 - **Execution time**
 - **Average bug detection time**
 
+> Sanoop Mallissery and Yu-Sung Wu. Demystify the fuzzing methods: A comprehensive survey. ACM Computing Surveys, 56(3):1–38, 2023.
+
+[Mallissery and Wu, 2023] present a discussion of the criteria that a good fuzzer should meet, including:
+1. Able to detect all vulnerabilities of the test targets 
+2. Performing in-depth analysis of multiple targets when detecting code-level vulnerabilities from the interaction between multiple targets 
+3. A fuzzer should identify different types of bugs
 
 
 ### Validity of Fuzzer Evaluation Metrics

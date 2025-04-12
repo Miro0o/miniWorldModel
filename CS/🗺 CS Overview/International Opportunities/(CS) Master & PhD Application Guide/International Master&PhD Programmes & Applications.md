@@ -1539,7 +1539,6 @@ Research Areas
 
 how to apply
 https://www.cs.utexas.edu/graduate-program/prospective-students/apply
-
 ##### College of Natural Sciences | Computer Science /Master &PhD
 https://www.cs.utexas.edu/graduate-program
 https://www.cs.utexas.edu/graduate-program/prospective-students
