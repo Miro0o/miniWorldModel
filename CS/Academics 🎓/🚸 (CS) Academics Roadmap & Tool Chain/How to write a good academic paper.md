@@ -1,10 +1,15 @@
-# How to write a good paper
+# How to write a good academic paper
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
+
 
 
 ## Intro

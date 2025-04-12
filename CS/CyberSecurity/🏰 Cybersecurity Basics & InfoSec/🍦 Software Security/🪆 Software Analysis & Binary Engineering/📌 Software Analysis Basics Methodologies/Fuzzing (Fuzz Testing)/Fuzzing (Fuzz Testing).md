@@ -53,7 +53,7 @@ https://ieeexplore.ieee.org/document/8371326
 https://arxiv.org/abs/2402.00350
 
 
-### Papers & Research Topics
+### Trending Research
 https://mp.weixin.qq.com/s/DL4pGH-7nPi3eSRD-rlD-w
 大模型与模糊测试进行结合的研究论文汇总｜技术进展
 
@@ -62,6 +62,19 @@ https://mp.weixin.qq.com/s/Dn5ooUahCT7IqXIMevjVug
 
 https://mp.weixin.qq.com/s/-ZYX-G_jX1AN8lzbHvW21g
 2024年软件工程顶会Fuzz论文汇总
+
+https://github.com/wcventure/FuzzingPaper
+https://wcventure.github.io/FuzzingPaper/
+1. This website is only used for collecting and grouping the related paper. If there are any paper need to be updated, you can contribute PR.
+2. Please check the web [https://wcventure.github.io/FuzzingPaper/](https://wcventure.github.io/FuzzingPaper/), as the `.md` file shown in Github is cropped.
+3. Advertisement: [Our ICTT (Guangzhou) research group](https://xidian-ictt-gz.github.io/) is accepting applications for master’s, doctoral, postdoctoral, and research assistant positions. We welcome hardworking, serious, and innovative young people who are interested in joining our research group.
+
+https://github.com/juyongjiang/CodeLLMSurvey
+The official GitHub page for the survey paper "A Survey on Large Language Models for Code Generation".
+![](../../../../../../../Assets/Pics/Pasted%20image%2020250412104958.png)
+
+https://github.com/EdPuth/LLMs-based-Fuzzer-Survey
+This repo list the core literature in the field of fuzzing test, large language model, and LLM-based fuzzer. Most of papers are selected from authoritative platform such as google scholar, and was published recently. It will be helpful for the researchers who wants to develop LLMs-based fuzzer. Feel free to send a pull request.
 
 
 ### Tools & Projects
@@ -91,14 +104,6 @@ In cooperation with the [Core Infrastructure Initiative](https://www.coreinfras
 We support the [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [AFL++](https://github.com/AFLplusplus/AFLplusplus), and [Honggfuzz](https://github.com/google/honggfuzz) fuzzing engines in combination with [Sanitizers](https://github.com/google/sanitizers), as well as [ClusterFuzz](https://github.com/google/clusterfuzz), a distributed fuzzer execution environment and reporting tool.
 
 Currently, OSS-Fuzz supports C/C++, Rust, Go, Python, Java/JVM, and JavaScript code. Other languages supported by [LLVM](https://llvm.org/) may work too. OSS-Fuzz supports fuzzing x86_64 and i386 builds.
-
-
-### Others
-https://github.com/wcventure/FuzzingPaper
-https://wcventure.github.io/FuzzingPaper/
-1. This website is only used for collecting and grouping the related paper. If there are any paper need to be updated, you can contribute PR.
-2. Please check the web [https://wcventure.github.io/FuzzingPaper/](https://wcventure.github.io/FuzzingPaper/), as the `.md` file shown in Github is cropped.
-3. Advertisement: [Our ICTT (Guangzhou) research group](https://xidian-ictt-gz.github.io/) is accepting applications for master’s, doctoral, postdoctoral, and research assistant positions. We welcome hardworking, serious, and innovative young people who are interested in joining our research group.
 
 
 
@@ -185,6 +190,10 @@ A fuzzer can be categorized in several ways:
 <small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
 <a>https://arxiv.org/abs/2402.00350</a></small>
 
+![](../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
+<small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+
 
 
 ## Fuzzing Algorithm & General Working Procedure
@@ -229,7 +238,6 @@ A user supplies `PREPROCESS` with a set of fuzz configurations as input, and it 
 #### LLM-Driven Bug/Vulnerability Discovery
 
 #### LLM-Driven Post-Fuzzing Processing
-
 
 
 ## Fuzzer Evaluation & Metrics

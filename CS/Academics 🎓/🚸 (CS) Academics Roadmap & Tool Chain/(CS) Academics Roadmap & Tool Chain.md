@@ -164,17 +164,18 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 ### Reference
 > ↗ [Bib-Management](Bib-Management/Bib-Management.md)
-> 🔗 https://lib.tsinghua.edu.cn/info/1147/3359.htm
 
 参考文献（Reference）指对一个信息资源或其中一部分进行准确和详细著录的数据，位于文末或文中的信息源。为便于读者撰写学术作品，小编整理了一些常用的参考文献及论文写作的标准格式，以供参考。
-#### 中文文章写作
+#### Reference Formats
+> 🔗 https://lib.tsinghua.edu.cn/info/1147/3359.htm
+##### Chinese Academic Writing
 现行的国家标准由国家标准化管理委员会发布并实施，较为常用的有以下三种：
 - 《[信息与文献 参考文献著录规则 GB/T 7714-2015](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)》：适用于著者和编辑著录参考文献。
 - 《[学位论文编写规则 GB/T 7713.1-2006](https://lib.tsinghua.edu.cn/wj/GBT7713_1-2006.pdf)》：适用于印刷型、缩微型、电子版、网络版等形式的学位论文。
 - 《[学术论文编写规则 GB/T 7713.2-2022](https://lib.tsinghua.edu.cn/wj/GBT7713_2-2022.pdf)》：适用于印刷版、缩微版、电子版等所有传播形式的学术论文。
 - 《[科学报告编写规则 GB/T 7713.3-2014](https://lib.tsinghua.edu.cn/wj/GBT7713_3-2014.pdf)》：适用于印刷型、缩微型、电子版等形式的科技报告。
 - 《[文摘编写规则 GB/T 6447-1986](https://lib.tsinghua.edu.cn/wj/GBT6447-1986.pdf)》：适用于编写作者文摘，也适用于编写文摘员文摘。
-#### 英文文章写作
+##### English Academic Writing
 参考文献的引用格式众多，其中最常用的有APA格式、MLA格式和芝加哥格式三种，还有满足特定学科特点的CSE格式、AMA格式、ACS格式等。部分大学整理了常用的参考文献引用格式，如
 - [**Citation Styles**](https://guides.library.uab.edu/citation/home)：美国阿拉巴马大学伯明翰分校图书馆（The University of Alabama at Birmingham Libraries）整理；
 - [**Citing and referencing**](https://guides.lib.monash.edu/citing-referencing)：澳大利亚莫纳什大学图书馆（The Monash University Library）整理；
@@ -204,6 +205,12 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 - [Teaching the Annotated Bibliography : A Resource for Instructors, Librarians, and Other Academic Professionals](https://www.proquest.com/docview/2714963488/F2CB9809A96743E4PQ/1/thumbnail?accountid=14426)（电子版）
 - [正确引用 : 引用格式快速指南 MLA、APA、芝加哥、科技、学术及其他](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21305026620003966&search_scope=default_scope&search=%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&title=%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&version=&frbrgroupid=553413588&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&isFrbr=true)（纸本）
 - [学术引注规范指南](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21301489450003966&search_scope=default_scope&search=%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97&title=%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97%20%3D%20%3D%20The%20complete%20guide%20to%20referencing%20and%20avoiding%20plagiarism&version=&frbrgroupid=554073691&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97&isFrbr=true)（纸本）
+#### Reference Tools
+↗ [Bib-Management](Bib-Management/Bib-Management.md)
+
+65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆 http://xhslink.com/a/ZhR1ztRqSgQ9，复制本条信息，打开【小红书】App查看精彩内容！
+
+[【研究工具】倔强——只用Word完成文献引用 | 简书]: https://www.jianshu.com/p/5dc86dfa70f2
 
 
 ### Academic Diagrams & Illustration Design
