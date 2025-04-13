@@ -1542,7 +1542,7 @@
 		6. bitmap
 		7. kilobit, megabit,...
 2. **fiss-, fid-** = to split, 「latin」findere, "to split"
-	1. fissile
+	1. fissile (ductile, fertile, futile, fissile, .. \*-lo-)
 		1. capable of undergoing nuclear fission /- adj. （原子或元素）可裂变的；（尤指岩石）易裂的，可裂的
 			1. _synonymous：_ [fissionable](dic://fissionable)
 		2. _fissile material_ 核燃料；可裂变物质
@@ -1556,7 +1556,7 @@
 		10. photofission, laryngofission, fissionable
 		11. counterfissure, fissura, fissural, fissuration
 		12. etc...
-	3. bifid, multifid, quadrifid, trifid
+	2. bifid, multifid, quadrifid, trifid
 3. beetle
 4. boat
 5. pita
@@ -1672,7 +1672,7 @@
 		3. affidavit：[,æfə'devɪt] n. 宣誓书
 		4. counteraffidavit
 			1. - 反宣誓案
-	2. confide
+	2. confide (bona fide)
 		1. con-全部 + fid-信任 + -e → 全部相信 → 吐露[真情]。
 		2. 1 - con-,表强调，-fid,信任，词源同 faith,fiance.即信任的人，可以吐露隐私的人
 		3. [entrust](dic://entrust), [intrust](dic://intrust), [trust](dic://trust), [commit](dic://commit)
@@ -1742,37 +1742,169 @@
 			1. 信仰主义者
 		2. solifidian
 			1. 1. _adj._ 唯信仰论的 _n._ 唯信仰论者
-1. faith
-2. fealty
-	1. [allegiance](dic://allegiance)
-	2. _n._ [loyalty](dic://loyalty), [trueness](dic://trueness)
-	3. **allegiance**忠诚;**oath**誓言，誓约;**loyalty**忠心;**devotion**热爱;**pledge**发誓;**reverence**敬礼;**fidelity**忠实;**homage**敬意;**obedience**服从;**renounce**宣布放弃;**piety**虔诚;
+3. faith
+	1. n. 信心, 信任, 忠实, 保证
+	2.  来自 PIE*bheidh,相信，信任，信仰，词源同 federal,confidence.
+	3. interfaith
+	4. faithless
+	5. faithful
+		1. adj. 忠实的，忠诚的；如实的；准确可靠的
+		2. [congregation](dic://congregation), [fold](dic://fold)
+		3. [close](dic://close)
+		4. _n._ [following](dic://following), [followers](dic://followers), [social group](dic://social%20group)
+		5. _adj._ [firm](dic://firm), [loyal](dic://loyal), [truehearted](dic://truehearted), [true](dic://true), [accurate](dic://accurate),   
+		6. _n._ [unfaithful](dic://unfaithful), [inaccurate](dic://inaccurate)
+		7. **loyal**忠诚的，忠心的;**steadfast**坚定的;**obedient**孝顺的;**devout**虔诚的;**beloved**心爱的;**loving**亲爱的;**zealous**热心的，热情的，积极的;**stalwart**坚定的;**adoring**崇拜的;**fervent**强烈的;**ardent**热情的;
+		8. _old faithful_ 追随者；忠实的支持者
+		9. With that he brushed past Atkinson to go address the faithful. /说完他就从阿特金森身旁走过，去给自己的忠实员工们演讲了。
+		10. Judy was always faithful to her word. /茱蒂总是言出必行。
+		11. unfaithful
+		12. faithfulness
+		13. faithfully
+	6. faith-face
+4. fealty
+	1. fealty（忠诚）：封臣获得封地时应尽的效忠义务  
+	2. 在西方封建社会中，封臣在获封土地时，通常需要向分封土地的封建主宣誓效忠，为其提供特定服务，这种效忠义务就是fealty。单词fealty和fidelity（忠诚、保真度）一样，都来自拉丁语fidelis（忠诚）。值得注意的是，这种效忠义务是以封地为依据的，并不等同于臣民对君主的效忠（allegiance）。因为一仆不可事二主，但一个人却可以获得多个封建主的封地，并向提供封地的所有封建主宣誓效忠，承诺履行该封地所关联的义务。  
+	3. 在现代，fealty一词所包含的封建色彩已经消失，仅仅用来表示“忠诚、效忠”。  
+	4. fealty：['fiːəltɪ] n.忠诚，忠实，效忠  
+	5. fidelity： [fɪ'dɛləti] n. 保真度；忠诚；精确；尽责
+	6. [allegiance](dic://allegiance)
+	7. _n._ [loyalty](dic://loyalty), [trueness](dic://trueness)
+	8. **allegiance**忠诚;**oath**誓言，誓约;**loyalty**忠心;**devotion**热爱;**pledge**发誓;**reverence**敬礼;**fidelity**忠实;**homage**敬意;**obedience**服从;**renounce**宣布放弃;**piety**虔诚;
+	9. _[Declare your fealty](dic://Declare%20your%20fealty)_ 宣示效忠；宣誓服从你的领主
+	10. _[swearing personal fealty](dic://swearing%20personal%20fealty)_ 宣誓效忠个人；宣誓个人效忠
+	11. _[fealty n](dic://fealty%20n)_ 效忠
+	12. _[personal fealty](dic://personal%20fealty)_ 个人效忠；正在翻译
+	13. _[allegiance fealty homage](dic://allegiance%20fealty%20homage)_ 效忠
+	14. _[homage and fealty](dic://homage%20and%20fealty)_ 致敬和效忠
+	15. _[oath of fealty](dic://oath%20of%20fealty)_ 效忠宣誓
+	16. _[fealty with love](dic://fealty%20with%20love)_ 忠则得爱
+	17. _[take an oath of fealty](dic://take%20an%20oath%20of%20fealty)_ 宣誓效忠
+	18. As a way of proving their fealty to celebrities, many youngsters make videos about their work. /作为一种证明自己对明星忠诚度的方式，许多年轻人会制作关于他们作品的视频。
+	19. He swore fealty to the king. /他宣誓效忠国王。
+	20. Despite constant price fluctuations and the availability of alternative fuels, our global fealty to gasoline and diesel remains unquestionable. /尽管价格不断波动，替代燃料的可获得性，但我们对汽油和柴油的依赖仍然是毋庸置疑的。
+	21. So what is Donald Trump saying about this, particularly given that so many Republican candidates have pledged fealty to him? /那么唐纳德·特朗普对此有何看法，尤其是考虑到这么多共和党候选人都向他宣誓效忠
 
 
 ### ⭐️ + \*bhel- +
 #### + \*bhel- (1)+ = to shine, flash, burn
 1. **blanc-** = white, 「Old english」blanc, "white"
 	1. blanch
+		1. [pale](dic://pale), [blench](dic://blench)
+		2.  [parboil](dic://parboil)
+		3. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color), [cook](dic://cook)
+		4. **boiling**沸腾的;**chop**砍;**boil**煮沸，沸腾;**saute**炒;**carte**菜单;
+		5. We blanch almonds by soaking off their skins in boiling water. /我们把杏仁泡在沸水中去皮弄成白色。
+		6. The girl blanched with fear when she saw the bear coming /那女孩见熊(向她)走来，吓得脸都白了。
 	2. bald
-		1. skewbald
-		2. piebald
-		3. baldpate
-		4. badly, baldness, baldhead
-		5. bald-faced
+		1.  [barefaced](dic://barefaced)
+		2. [bald-headed](dic://bald-headed), [bald-pated](dic://bald-pated)
+		3.  [denuded](dic://denuded), [denudate](dic://denudate)
+		4. _v._ [turn](dic://turn), [grow](dic://grow)
+		5. _adj._ [overt](dic://overt), [open](dic://open), [hairless](dic://hairless), [bare](dic://bare)
+		6. _n._ [covert](dic://covert), [hairy](dic://hairy), [haired](dic://haired), [hirsute](dic://hirsute), [covered](dic://covered)
+			1. [bare](dic://bare) 指缺少必要的遮盖物。用于人时，多指身体的部分裸露。  
+			2. [naked](dic://naked) 指全身一丝不挂，暴露无遗。  
+			3. [bald](dic://bald) 指头上无发，山坡无树无草，树顶无叶。  
+			4. [barren](dic://barren) 着重缺少肥力或生活能力，无草无木，荒瘠不毛。
+		7. **bearded**有芒的;**hairy**多毛的;**beard**胡须;**blond**金发的;**mustache**胡子，髭;**moustache**小胡子;**blonde**金发碧眼的;**haired**有毛发的;**shave**剃;**hair**头发;**beards**胡须;
+		8. _bald eagle_ （美）秃鹰（美国的国鸟）；比喻秃头的政治家
+		9. _bald head_ n. 秃头
+		10. skewbald
+		11. piebald
+		12. baldpate
+		13. badly, baldness, baldhead
+		14. bald-faced
 	3. blank
-		1. unblanking
-		2. point-blank
-		3. blankness
-		4. blankly
-		5. blankbook
-	4. blanket
-		1. wet-blanket
-	5. bleak
-	6. blush
-		1. blushing, unblushing
-		2. blushful
-		3. ablush
-2. **blaz-** = torch
+		1.  [space](dic://space)
+		2.  [lacuna](dic://lacuna)
+		3.  [dummy](dic://dummy), [blank shell](dic://blank shell)
+		4. [clean](dic://clean), [white](dic://white)
+		5. [vacuous](dic://vacuous)
+		6. _n._ [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic%20symbol), [euphemism](dic://euphemism), [gap](dic://gap), [crack](dic://crack), [sheet](dic://sheet)
+		7. _v._ [prevent](dic://prevent), [keep](dic://keep)
+		8. _adj._ [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative), [unloaded](dic://unloaded)
+		9. _n._ [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory), [loaded](dic://loaded)
+			1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。  
+			2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。  
+			3. [hollow](dic://hollow) 指物体中间是空的。  
+			4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。  
+			5. [open](dic://open) 指未被占有，从而可被别人得到的。
+		10. **empty**空的;**stare**凝视，盯着看;**slate**板岩;**fill**装满，使充满;**void**空的;**canvas**帆布;**notepad**记事手册;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;
+		11. unblanking
+		12. point-blank
+		13. blankness
+		14. blankly
+		15. blankbook
+	13. blanket
+		1. 1. _n._ 毛毯，毯子
+		2. _adj._ 适用于任何情况的；总括的，综合的
+		3. _v._ 以厚层覆盖
+		4. blanket（毛毯）：制作服装的白色呢绒  
+		5. 英语单词blanket最初并不是表示“毛毯”，而是一种服装原料。该单词源自古法语单词blanchet，是blanc（白色的）的指小形式，指的是一种带有细毛的白色呢绒，可用来制作各种衣物。英语单词blank（空白）与此同源。  
+		6. 据传，在英国最早的纺织工业中心布里斯托尔市，一名叫Thomas Blanket的人于1320首先使用了blanket这种布料来制作毛毯。Thomas Blanket是一名毛纺品制造商。在一个寒冷的冬夜，Blanket家的木柴恰好用完了，家里冷得像冰窖一样。于是，Blanket把从工厂带回家的一些白色呢绒铺在床上，意外发现这种呢绒的保暖效果特别好。于是，Blanket开始使用这种白色呢绒制作御寒用的毛毯，并在市场上取得了很好的销量。因为这个传说，有人认为blanket一词来自Thomas Blanket的姓氏。但据语言学家考证，单词blanket出现的时间比Thomas Blanket生活的时代更早，因此，更有可能是Thomas Blanket因为使用白色呢绒发明了毛毯而被人称为Blanket，毛毯得名于blanket这种原料而非他的姓氏。  
+		7. 最初blanket仅仅表示用白色呢绒做成的毛毯，后来该词的含义逐渐泛化，可以表示用各种材质做成的毯子。  
+		8. blanket：['blæŋkɪt] n.毛毯，毯子vt.覆盖，掩盖，用毯子盖  
+		9. blank： [blæŋk] n.空白，空虚adj.空白的，空虚的v.（使）成为空白  
+		10. blanch：[blæntʃ] v. 漂白；（使）变白adj. 漂白的；银白色的
+		11. blanket - 据传，毯子是英格兰布里斯托尔（Bristol）一位名叫Thomas Blanket的织布工于1340年最先织出来的，故一些专家认为，意为“毯子”的blanket一词源出于此。问题是，在这以前blanket就已被用来指“白色呢绒”。究其根源，blanket和blank（空白的）、blanch（使变白）一样，实源于古法语blanc（白色的），系由blanc之指小形式blankette/blanquette演变而来，原指“白色呢绒”。到了14世纪中期“白色的”和“毛制的”这两部分含义先后丧失，blanket开始用于今天仍在使用的词义“毯子”。《牛津英语词典》认为，即使确有Thomas Blanket此人，只可能是他得名于毯子，而不是毯子以其姓氏命名。该词常用于喻义，表示“覆盖物”、“覆盖层”或“毯子似的东西”。
+		12. [cover](dic://cover)
+		13. [mantle](dic://mantle)
+		14.  [across-the-board](dic://across-the-board), [all-embracing](dic://all-embracing), [all-encompassing](dic://all-encompassing), [all-inclusive](dic://all-inclusive), [broad](dic://broad), [encompassing](dic://encompassing), [extensive](dic://extensive), [panoptic](dic://panoptic), [wide](dic://wide)
+		15. _n._ [bedclothes](dic://bedclothes), [bed clothing](dic://bed%20clothing), [bedding](dic://bedding), [covering](dic://covering), [natural covering](dic://natural%20covering), [cover](dic://cover), [layer](dic://layer)
+		16. _v._ [cover](dic://cover), [spread over](dic://spread%20over)
+		17. _adj._ [comprehensive](dic://comprehensive)
+		18. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		19. [carpet](dic://carpet) 指用来铺地板或楼梯的厚实的棉、毛地毯。  
+		20. [blanket](dic://blanket) 指厚实的棉、毛织品，用于铺床或披在身上保暖的毛毯。  
+		21. [rug](dic://rug) 指小地毯或旅行用的小毛毯。 
+		22. **pillow**枕头;**duvet**羽绒被;**snuggle**依偎;**flannel**法兰绒;**scarf**围巾;**fleece**羊毛，绒头织物;**shawl**围巾，长方形披巾;**comforter**安慰者;**cuddle**拥抱;**tarp**油布;**pillows**靠垫;
+		23. _rubber blanket_ 橡胶垫；橡皮布
+		24. _wet blanket_ 扫兴的人；湿毯子；扫兴的事
+		25. _sludge blanket_ 污泥层；污泥浮层
+		26. _electric blanket_ 电热毯
+		27. _blanket cylinder_ 毛毯辊筒；毛毯烘缸；橡皮布滚筒
+		28. _security blanket_ 安全毯；带给人安全感的熟悉的物体
+		29. In Italy, forecasters predict that a heat storm will blanket the entire country. /在意大利，天气预报员预测，一场高温风暴将席卷整个国家。
+		30. In other words, they blanket apply use-by dates /换句话说，它们通通采用了保质期。
+		31. Wildfire smoke from Canada is currently blanketing large swaths of the United States. /来自加拿大的山火烟尘目前覆盖了美国的大片地区。
+		32. The view above shows a haze blanketing forest. /上图展示了一片薄雾笼罩的森林。
+		33. China's heat waves have blanketed large swathes of the country this year. /今年，中国的热浪席卷了大部分地区。
+		34. 
+		35. wet-blanket
+	14. bleak 
+		1.  (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
+		2.  [black](dic://black), [dim](dic://dim)
+		3. [bare](dic://bare), [barren](dic://barren), [desolate](dic://desolate), [stark](dic://stark)
+		4. [cutting](dic://cutting), [raw](dic://raw)
+		5. _adj._ [hopeless](dic://hopeless), [inhospitable](dic://inhospitable), [cold](dic://cold)
+		6. _n._ [hopeful](dic://hopeful), [hospitable](dic://hospitable), [hot](dic://hot)
+		7. **grim**冷酷的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的;**desolate**荒凉的;**pessimistic**悲观的;**ominous**不祥的;**somber**昏暗的;**stark**僵硬的, 光秃秃的, 荒凉的;**drab**单调的;
+		8. Two weeks in hospital seems a bleak prospect. /住院两周看来没有什么希望。
+		9. They showed me into a bleak waiting room. /他们引我来到一间阴冷的会客室。
+		10. The report paints an unnecessarily bleak picture of the town. /这份报道把这个镇子描绘得过于惨淡。
+		11. It is bleak reality of a stalled car and spinning wheels imping on the neat time schedule of our self-importance. /它是陷住汽车，使车轮打滑，将我们自以为周全德计划搅乱的冷冰冰的现实。
+	15. blush
+		1.  [bloom](dic://bloom), [flush](dic://flush), [rosiness](dic://rosiness)
+		2.  [flush](dic://flush)
+		3.  [crimson](dic://crimson), [flush](dic://flush), [redden](dic://redden)
+		4. _n._ [good health](dic://good%20health), [healthiness](dic://healthiness), [reflex](dic://reflex), [instinctive reflex](dic://instinctive%20reflex), [innate reflex](dic://innate%20reflex), [inborn reflex](dic://inborn%20reflex), [unconditioned reflex](dic://unconditioned%20reflex)
+		5. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color), [redden](dic://redden)
+			1. [blush](dic://blush) 侧重因羞愧或尴尬而突然脸红。  
+			2. [flush](dic://flush) 强调因愤怒、高兴、羞愧、发烧或酗酒等引起的脸红。
+		6. **lipstick**口红;**cheeks**面颊;**shimmer**微光;**shimmery**闪烁的;**lips**嘴唇;**mascara**染眉毛油;**eyeliner**眼线膏，眼线笔;**pink**粉红色;**smirk**傻笑;**peach**桃子;**brow**眉，眉毛;
+		7. _first blush_ 乍一看；乍看
+		8. _at first blush_ 乍一看；一瞥
+		9. blushing, unblushing
+		10. blushful
+			1. - adj. 脸红的；使人脸红的；羞怯的
+			2.  [blushing(a)](dic://blushing\(a\)), [red-faced](dic://red-faced)
+			3. [rosy](dic://rosy)
+			4. _adj._ [discomposed](dic://discomposed), [chromatic](dic://chromatic)
+			5. _n._ [composed](dic://composed), [achromatic](dic://achromatic)
+			6. She first felt a sort of exultation at the way in which the adventure had terminated, even though at moments between her exultations she was abashed and blushful. /起先，她对这番冒险会有这种结局感到一阵狂喜，虽然狂喜之余又感到羞赧和不安。
+		11. ablush
+11. **blaz-** = torch
 	1. blaze
 		1. unblaze
 		2. trailblazer
@@ -1802,7 +1934,7 @@
 			9. I can see you clearly. vividly **emblazon** in my mind. /你是那么的清晰。如此生动的刻印在我的脑海里。
 		13. blazonment
 			1. _[blazonment](dic://blazonment)_  n. 公布；纹章装饰；纹章解说
-3. **blem** = to stain
+12. **blem** = to stain
 	1. blemish
 		1. [defect](dic://defect), [mar](dic://mar)
 		2. [deface](dic://deface), [disfigure](dic://disfigure)
@@ -1827,7 +1959,7 @@
 		2. _n._ [blemished](dic://blemished)
 		3. **spotless**无瑕疵的;**pristine**原始的，古时的;**unbroken**未破损的，完整的;**flawless**无瑕疵的;**immaculate**整洁的, 无污迹的;**impeccable**无瑕疵的;**intact**完整的;**unbeaten**未被击败的;**gleaming**微弱的闪光，瞬息的一现;**untouched**未触及的;**enviable**值得羡慕的;
 		4. _[unblemished](dic://unblemished)_  adj. 无缺点的；清白的
-4. **flam-, flagr-** = blaze, fire
+13. **flam-, flagr-** = blaze, fire
 	1. conflagrate
 		1. _v._ 燃烧，着火；烧掉，使燃烧起来
 		2. conflagrant, conflagration
@@ -1919,7 +2051,7 @@
 	9. flamingo
 		1. _n._ [wading bird](dic://wading bird), [wader](dic://wader)
 		2. **giraffe**长颈鹿;**penguin**企鹅;**bird**鸟;**hummingbird**蜂鸟;**pink**粉红色;**zebra**斑马;**peacock**孔雀;**butterfly**蝴蝶;**teal**短颈野鸭，水鸭;**turtle**海龟;**parrot**鹦鹉;
-1. **flav-** = yellow
+14. **flav-** = yellow
 	1. flavescent
 		2. _[flavescent](dic://flavescent)_  adj. 逐渐变黄的；浅黄色的
 	2. flavin
@@ -1929,7 +2061,7 @@
 	3. flavivirus
 		1. _[flavivirus](dic://flavivirus)_  黄病毒属; 黄病毒;
 	4. theaflavin
-2. **fulg-** = to shine
+15. **fulg-** = to shine
 	1. fulgent
 		1. shining intensely / adj. 光辉的；灿烂的（等于 fulgid）
 			2. fulgent patterns of sunlight
@@ -1953,7 +2085,7 @@
 		4. Looking forward to the future, Dongyongxing will set up a international professional enterprise and second **refulgence** by right of most gracious credit standing, and full service /展望未来，东永兴以最高尚的信誉，最完善的服务，为东永兴实现国际化专业企业，再创辉煌。
 	5. fulgurite
 		1. _fulgurite](dic://fulgurite)_  n. 闪电管石，闪电熔岩；闪电管石块
-3. **fulmin-** = lightning, thunder
+16. **fulmin-** = lightning, thunder
 	1. fulminant
 		1. _fulminant_  adj. 暴发的；轰响的；突然闪亮的
 		2. _adj._ [sudden](dic://sudden)
@@ -1975,9 +2107,9 @@
 		2. _adj._ [bright](dic://bright)
 		3. _n._ [dull](dic://dull)
 		4. **dazzling**耀眼的;**luminous**发光的;**glistening**闪耀的,反光的;**silvery**似银的，银色的;**gleaming**微弱的闪光，瞬息的一现;**glittering**闪闪发亮的;**wondrous**令人惊奇的;**crimson**深红;**starry**布满星星的;**glorious**值得称道的;**splendid**辉煌的;
-4. **fulv-** = orange
+17. **fulv-** = orange
 	1. fulvous
-5. **phlegm-** = flame, 「Greek」 phlegein, "to burn"
+18. **phlegm-** = flame, 「Greek」 phlegein, "to burn"
 	1. phlegm
 		1. n. 痰；粘液；粘液质
 		2.  [emotionlessness](dic://emotionlessness), [impassivity](dic://impassivity), [impassiveness](dic://impassiveness), [indifference](dic://indifference), [stolidity](dic://stolidity), [unemotionality](dic://unemotionality)
@@ -1995,7 +2127,7 @@
 		1. etc..
 	4. phlegmy
 		1. **cough**咳嗽，咳嗽声;**coughing**咳嗽;**mucus**粘液;**mucous**黏液的;**bronchitis**支气管炎;**runny**流鼻涕的;**icky**讨厌的;**muffled**听不清的;**vomit**吐出;**nasal**鼻的;**throat**喉咙;
-6. **phlog-, phlogo-** = burn, 炎症, 「Greeks」phlox, "a flame, wallflower"
+19. **phlog-, phlogo-** = burn, 炎症, 「Greeks」phlox, "a flame, wallflower"
 	1. phlox
 		1. n. 草夹竹桃属植物
 		2. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
@@ -2003,19 +2135,19 @@
 	3. phlogistic
 		1. etc..
 	4. phogiston
-7. beluga
+20. beluga
 	1. **whale**鲸;**dolphin**海豚;**whales**鲸鱼;**caviar**鱼子酱;**dolphins**海豚;**salmon**鲑鱼;**otter**水獭;**moose**驼鹿;**otters**水獭;**tuna**金枪鱼，鲔鱼;**Inuit**因纽特人;
 	2. _[beluga whale](dic://beluga%20whale)_  白鲸
-8. blackz
-9. bleach
-10. blench
+21. blackz
+22. bleach
+23. blench
 	1. 1. _vi._ (因惊吓而)退缩；惊悸 _vt. & vi._ (使)变白；(使)变苍白
 	2. [pale](dic://pale), [blanch](dic://blanch)
 	3. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
 	4. **countenance**面容，表情;**tremble**战栗;**shudder**震动;**doth**从事;**lest**唯恐，以免;
 	5. She blenched before her accuser /她在指控者面前畏缩了。
 	6. Blench people's shortcoming , and don't publicity their eminency /无视人之短，无说人之长。
-11. blend
+24. blend
 	1. v. （使）混合，调和；（使）协调，融合；调制，配制 n. 混合物；交融，融合；混合词
 	2. [portmanteau word](dic://portmanteau word), [portmanteau](dic://portmanteau)
 	3. [blending](dic://blending)
@@ -2029,18 +2161,18 @@
 	11. [blend](dic://blend) 一般可与mix和mingle换用。混合与其各成分的性质通常是一致的，侧重混合整体的统一性与和谐性。  
 	12. [combine](dic://combine) 通常用于化学反应中，指化合物等。  
 	13. [merge](dic://merge) 指一种成分被别一种成分吸收或融合，着重成分的个性消失在整体之中。
-12. **mix**使混和;**mixture**混合;**combine**使联合，使结合;**combination**结合;**combining**结合;**infuse**使充满;**concoction**混合;**mixtures**配合料;**combined**结合的;**flavors**风味调料;**unique**唯一的，独一无二的;
-13. _blend in_ 混合，加入；调和
-14. _blend with_ 与…混和
-15. _blend into_ 融入...；与...融合
-16. _polymer blend_ 共混聚合物
-17. _blend ratio_ 掺合比；调合比
-18. _blend fabric_ 混纺织物
-19. _wool blend_ 羊毛混纺
-20. a blend of racialist and anarchist ideas. /种族主义和无政府主义思想的混合体。
-21. a harmonious blend of architectural styles./ 各种建筑风格的完美的结合
-22. blind
-23. blue
+25. **mix**使混和;**mixture**混合;**combine**使联合，使结合;**combination**结合;**combining**结合;**infuse**使充满;**concoction**混合;**mixtures**配合料;**combined**结合的;**flavors**风味调料;**unique**唯一的，独一无二的;
+26. _blend in_ 混合，加入；调和
+27. _blend with_ 与…混和
+28. _blend into_ 融入...；与...融合
+29. _polymer blend_ 共混聚合物
+30. _blend ratio_ 掺合比；调合比
+31. _blend fabric_ 混纺织物
+32. _wool blend_ 羊毛混纺
+33. a blend of racialist and anarchist ideas. /种族主义和无政府主义思想的混合体。
+34. a harmonious blend of architectural styles./ 各种建筑风格的完美的结合
+35. blind
+36. blue
 #### + \*bhel- (2) + = to blow, swell
 1. **ball-, bol-** = = throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"
 	1. ball

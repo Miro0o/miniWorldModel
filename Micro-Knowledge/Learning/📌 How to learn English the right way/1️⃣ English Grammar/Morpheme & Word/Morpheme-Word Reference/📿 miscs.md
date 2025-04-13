@@ -3749,8 +3749,7 @@ dread
 dreary (weary)
 - 1. _adj._ 使人闷闷不乐或沮丧的；阴沉的，忧郁的
 2. 令人厌烦的；单调的；枯燥的
-3. 
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
+3.  (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
 	- [dull](dic://dull) 指缺乏鲜明、吸引力或情趣而显得乏味、沉闷。  
 	- [tedious](dic://tedious) 侧重指文章、演讲、演出等冗长乏味或环境等单调、沉闷，缺乏活力，使感到不舒服。  
@@ -6696,7 +6695,21 @@ hamper
 	- **tripod**三脚架;**grip**紧握;**ledge**壁架;**rope**绳，绳索;**grasping**贪婪的;**ladder**阶梯;**foothold**立足处;**grasp**理解;**viewfinder**取景器;**DSLR**单眼数位相机;**lever**杠杆;
 - handgun
 - handgrip
+	-  [handle](dic://handle), [grip](dic://grip), [hold](dic://hold)
+	- _n._ [appendage](dic://appendage)
+	- **grip**紧握;**forearm**前臂;**lever**杠杆;**ergonomic**工效学的;**ergonomics**人类工程学;**joystick**操纵杆，控制杆;**extremity**端点,尽头;**viewfinder**取景器;**grips**抓爪;**handlebar**手把,八字胡;**exertion**努力;
+	- Take for example, the watches that monitor your pulse rate as you jog or do aerobics, or exercises bicycles with sensors in the handgrips to check your pulse rate and then display it on a screen /例如，在您慢跑或做有氧运动时监测您的脉搏率的手表，或在把手中装有传感器的健身自行车， 以检查您的脉搏率， 然后将其显示在屏幕上。
 - handful
+	-  [smattering](dic://smattering)
+	-  [fistful](dic://fistful)
+	- _n._ [small indefinite quantity](dic://small%20indefinite%20quantity), [small indefinite amount](dic://small%20indefinite%20amount), [containerful](dic://containerful)
+	- **half-dozen**半打的;**few**很少的;**dozen**十二个，一打;**dozens**许多;**bunch**串;**couple**数个;**several**几个的;**hundreds**数百;**some**一些;**plethora**过剩;**many**许多;
+	- _[a handful of](dic://a%20handful%20of)_  一把；少量的；一小部分
+	- _[a handful of people](dic://a%20handful%20of%20people)_  少数的人；少量的几个人
+	- Just grab a handful. Don't be shy. /用力一把抓就行 别害羞。
+	- To do this, it plans on hiring a handful of English language teachers from abroad /为了实现这一目标，计划从国外聘请一些英文老师。
+	- Well, the university only takes a handful. /大学的录取名额非常少。
+	- Presently, Google runs a handful of offices across London. /目前，谷歌在伦敦有多个办事处。
 - handexpert
 - handed
 - handcraft
@@ -6711,12 +6724,102 @@ hamper
 	- The small items of handcrafted furniture give individuality to the room. /几件不大的手工家具使房间别具一格。
 - etc...
 
+hang
+- n. 悬挂  
+- v. 悬挂; 悬浮; 垂下, 低垂; 贴壁纸; 绞死
+- as well be hanged for a sheep as a lamb一不做二不休。18世纪的英国，盗窃家畜的贼会被绞死，不管你偷的是哪种家畜和家畜的大小，因为明显sheep绵羊要比lamb羊羔值钱。所以假如你明知道自己喝的已经不少了，但一想反正都得醉，干脆些：Go on then,I might as well be hangedfor a sheep as a lamb. ​​​​  
+- 来自 PIE*konk,悬挂，词源同 hinge.引申词义绞刑，绞死。
+- hang over
+	-  [hangover](dic://hangover), [katzenjammer](dic://katzenjammer)
+	-  [holdover](dic://holdover), [hangover](dic://hangover)
+	- [hangover](dic://hangover), [holdover](dic://holdover)
+	- The threat of bankruptcy hung over the company /那家公司出现了破产的预兆。
+	- A beautiful doll is hung over the window. /窗上挂着一个漂亮的洋娃娃。
+	- I hate to have unfinished work hanging over me. /我讨厌让未做完的工作使我牵肠挂肚。
+	- The hut hung half over the edge of the precipice. /那间小屋有一半悬在峭壁边上。
+	- The stench of cordite and clouds of smoke hung over the hollow. /炸药的恶臭和爆炸硝烟笼罩着山谷。”
+- hang up
+	- He hung up the receiver and went out. /他挂上电话听筒走了出去。
+	- I hung my coat up on a hanger. /我把外衣挂在衣架上。
+	- But, more often than not, you only hang it up and turn away sadly just because of its lack of challenge and effort. /但是，更多的时候却是，你挂断了它并伤心地离开了，这仅仅因为缺少挑战和成就感。
+	- They pretty much hung up on me. /基本上他们都回绝了我。
+- unhang
+- straphanger
+	- _n._ 拉着吊环站立的人,乘车上下班的人
+	- straphang
+- paperhanging
+	- paperhanger
+- overhang
+	-  [beetle](dic://beetle)
+	- _n._ [projection](dic://projection)
+	- _v._ [stick out](dic://stick%20out), [protrude](dic://protrude), [jut out](dic://jut%20out), [jut](dic://jut), [project](dic://project), [hang](dic://hang)
+	- **ledge**壁架;**awning**雨篷;**roof**屋顶;**slab**厚片;**sloping**倾斜的;**ridge**山脉;**angled**成角的;**walkway**通道，走道;**sill**窗台;**tarp**油布;**vertical**垂直的，直立的;
+	- So once you apply it on here, you get kind of this lip, this overhang. /一旦你把它贴上去，这里就会多出来，延伸出来的这部分。
+	-  Mowed the grass. Lopped overhanging branches from the surrounding forest. /修剪草皮，砍掉从树林里长过界的树枝。
+- hangwire
+- hangup
+- hangtag
+- hangover
+	- n. 宿醉；遗物；残留物
+	-  [holdover](dic://holdover)
+	- _n._ [discomfort](dic://discomfort), [uncomfortableness](dic://uncomfortableness), [official](dic://official), [functionary](dic://functionary), [survival](dic://survival)
+	- **malaise**不舒服;**booze**酒;**headache**头痛;**insomnia**失眠症，失眠;**tiredness**疲劳;**haze**疑惑;**exhaustion**精疲力竭;**binge**狂欢作乐;**drunk**喝酒;**heartburn**心痛,妒忌;**antidote**解毒剂;
+	- His poor sight is a hangover from a bad illness he had. /他视力不好是他生了一场大病留下的后遗症。
+	- I had one hell of a hangover the next morning. /第二天早上宿醉让我难受死了。
+	- " You have this hangover, " he said. /" 会有遗留影响" 。
+	- Does this sketchy feeling ever go away? It's like I have a massive hangover. /这种迷茫感啥时能消失啊？就感觉自己宿醉没醒。
+- hangout
+	-  [haunt](dic://haunt), [resort](dic://resort), [repair](dic://repair), [stamping ground](dic://stamping ground)
+	- _n._ [area](dic://area), [country](dic://country)
+	- **cafe**咖啡馆;**socialize**交往,联谊;**buddies**伙伴，好朋友;**eatery**简便饮食店;**brunch**早午餐;**chat**聊天;**congregate**集合, 聚集;**chats**矿山废石;**hipster**世面灵通的人;**dine**进餐，用餐;**hang**悬挂;
+	- n. （非正式）常去的地方（社交或娱乐场所）
+- hangnail
+- hangman
+- hanging
+	-  [suspension](dic://suspension), [dangling](dic://dangling)
+	-  [suspension](dic://suspension), [dangling](dic://dangling)
+	-  [pendent](dic://pendent), [pendant](dic://pendant), [dependent](dic://dependent), [hanging down](dic://hanging down)
+	- _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [execution](dic://execution), [executing](dic://executing), [capital punishment](dic://capital%20punishment), [death penalty](dic://death%20penalty)
+	- _adj._ [supported](dic://supported)
+	- _n._ [unsupported](dic://unsupported)
+	- **dangling**悬挂的;**strung**捆扎，系上;**swinging**活跃的;**peeking**瞥;**sitting**入席，就坐;**rope**绳，绳索;**draped**垂褶袖;**sticking**粘的;**holding**支持;**floating**漂浮的，浮动的;**hooking**挂钩;
+	- He ripped away the faded hangings from a wall. /他扯下墙上褪色的帘布。
+	- Tom is hanging about in the street. /汤姆在街头闲逛。
+	- A white banner was hanging out of the window. /一面白旗挂在窗子外面。
+	- Hangings took place outside the prison as a public spectacle. /在监狱外执行绞刑是为了示众。
+	- Decorations are hanging up everywhere in the city on Spring Festival. /春节期间城里到处张灯结彩。
+	- Thankful to be hanging out with you. /
+	- The professor makes any subject a peg on which to hang his political views. /那位教授把所有话题都作为谈论他的政治观点的话头。
+	- It took him a long time to get the hang of all the irregular verbs /他花了很长时间才学会了所有不规则动词。
+	- Their accounts do not hang together. /他们的叙述不相符合。
+	- It dry-cleans beautifully and wrinkles hang out. /它干洗起来很漂亮,皱纹挂一挂就去掉了。
+- hanger
+	- hanger-on
+- hanged
+	- Frontier courts hanged many a prisoner after a summary trial. /在立即审判后边界法庭绞死了许多犯人。
+- hangdog
+- hangbird
+- hangdog
+- fence-hanger
+	- _n._ 未打定主意的人，犹豫不决者
+- cliffhanger
+
 hard
 - a. 坚硬的; 难懂的; 艰苦的, 困难的; 辛苦的, 努力的; 硬心肠的; 确凿的, 可证实的; 寒冷的; 酒精浓度高的; 硬音的   
 - ad. 努力地; 猛烈地; 彻底认真地; 沉重地, 大量地; 急转弯
 -  来自古英语 heard,坚固的，坚硬的，固定的，来自 PIE*ker,硬的，词源同 democracy,aristocracy.由坚硬的引申词义顽强的，耐受的，环境艰苦的，困难的等多种词义。可能来自 PIE*sker,弯，转，编织，词源同 cradle,crown.由编织引申词义团结，坚固。
 - standard
 - hardy
+	- [stalwart](dic://stalwart), [stout](dic://stout), [sturdy](dic://sturdy)
+	- [doughty](dic://doughty)
+	- _n._ [comedian](dic://comedian), [comic](dic://comic), [writer](dic://writer), [author](dic://author)
+	- _adj._ [robust](dic://robust), [manly](dic://manly), [manful](dic://manful), [manlike](dic://manlike), [rugged](dic://rugged)
+	- _n._ [frail](dic://frail), [unmanly](dic://unmanly), [unmanful](dic://unmanful), [unmanlike](dic://unmanlike), [delicate](dic://delicate)
+	- **brave**勇敢的;**vigorous**有力的;**tolerant**容忍的，宽容的;**hearty**亲切友好的;**temperate**饮食有节制的, 克己的;**resilient**适应力强的;**adaptable**可适应的,有适应能力的;**shrubs**灌木;
+	- Hardy heirloom varieties are being resurrected /耐受力强的老品种正在被重新使用。
+	- He said there had been shouting to hardy slogans. /他说，当时那些人喊着一些忠诚的口号。
+	- We are getting our last round of hardy annuals in. /我们将迎来最后一轮耐寒的一年生植物。
+	- Only the hardiest animals can survive the Taiga's brutal winter. /只有最顽强的动物才能在泰加林的严酷冬季生存下来。
 - hardworking
 - hardwood
 - hardwearing
