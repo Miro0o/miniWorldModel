@@ -208,9 +208,10 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 #### Reference Tools
 ↗ [Bib-Management](Bib-Management/Bib-Management.md)
 
-65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆 http://xhslink.com/a/ZhR1ztRqSgQ9，复制本条信息，打开【小红书】App查看精彩内容！
-
+[65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆]: http://xhslink.com/a/ZhR1ztRqSgQ9
 [【研究工具】倔强——只用Word完成文献引用 | 简书]: https://www.jianshu.com/p/5dc86dfa70f2
+[论文中引用网页内容在文中怎么标注？ - 易轻轻q的回答 - 知乎]: https://www.zhihu.com/question/457765989/answer/1869692237
+[本科毕业论文引用、编写英文参考文献格式的方法| CSDN]: https://blog.csdn.net/qq_45128278/article/details/117341629?fromshare=blogdetail&sharetype=blogdetail&sharerId=117341629&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
 
 
 ### Academic Diagrams & Illustration Design

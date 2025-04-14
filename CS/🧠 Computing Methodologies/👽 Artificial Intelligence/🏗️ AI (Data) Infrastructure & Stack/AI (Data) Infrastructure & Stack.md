@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 - ↗ [Google Aquila](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/Google%20Aquila.md)
 
