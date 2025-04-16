@@ -41,8 +41,8 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
 
-↗ [Embedded Development, Internet of Things & Robot](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
-↗ [Embedded Operating Systems](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
+↗ [Computer Engineering, Embedded Development & Internet of Things](../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+↗ [Embedded Operating Systems](../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
 
 
 ### Learning Guides

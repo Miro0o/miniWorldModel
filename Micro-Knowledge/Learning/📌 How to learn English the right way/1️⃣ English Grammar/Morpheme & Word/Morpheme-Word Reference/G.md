@@ -3314,19 +3314,151 @@
 		8. _v._ [train](dic://train), [prepare](dic://prepare)
 		9. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
 3. **pris-** = take, 表示“拿住，抓住”。源自古法语 pris "taken"，进一步来自拉丁语 prehensus
-	1. apprise, apprize, 
-	2. comprise, comprize
-		1. comprisal, comprisable
+	1. apprise/apprize [美 /əˈpraɪz/](cmd://Speak/_us_/apprise) ( appraise [美 /əˈpreɪz/](cmd://Speak/_us_/appraise))
+		1. ap-加强 + pris-抓住 + -e → 抓住[信息] → 通知[情况]。
+		2.  ap-,向，往，-prise,抓住，来自-prehens 的缩写，词源同 prison.使知晓，告知。
+		3. vt. 通知
+		4. [advise](dic://advise), [notify](dic://notify), [give notice](dic://give notice), [send word](dic://send word), [apprize](dic://apprize)
+		5.  [instruct](dic://instruct), [apprize](dic://apprize)
+		6.  [appreciate](dic://appreciate), [apprize](dic://apprize), [revalue](dic://revalue)
+		7.  [appreciate](dic://appreciate), [apprize](dic://apprize)
+		8. _v._ [inform](dic://inform), [increase](dic://increase), [revalue](dic://revalue)
+		9. **inform**通知;**ascertain**弄清, 确定, 查明;**informing**提供情报的,增长见闻的,鼓舞的;**instruct**命令;**informed**消息灵通的;**assess**评定;**advise**劝告，忠告;**apprehend**理解;**enlighten**启发;**anticipate**先于…行动;**advised**细想过的;
+		10. I have apprised him of your arrival. /我已经告诉他你要来。
+		11. We were fully apprised of the situation. /我们完全获悉当时的情况。
+		12. She came in to apprise, apprize me that my presence was required /她进来通知 我需要我出面。
+		13.  He came to apprise us that the work had been successfully completed./他来通知我们工作已胜利完成。
+		14. The speaker seems to be fairly apprised of the situation in the Far East. /报告人似乎对中东局势相当熟悉。
+	2. comprise/comprize
+		1. com-全部 + pris-抓住 + -e → 全部抓住 → 包括。
+		2. vt. 包含, 构成
+		3. [consist](dic://consist)
+		4. [incorporate](dic://incorporate), [contain](dic://contain)
+		5. [constitute](dic://constitute), [represent](dic://represent), [make up](dic://make up), [be](dic://be)
+		6. _v._ [be](dic://be), [include](dic://include)
+		7. [compose](dic://compose) 正式用词，多用被动态。指将两个或两个以上的人或物放到一起形成一个整体。  
+		8. [comprise](dic://comprise) 正式用词，指整体是由几个独立的部分所组成。  
+		9. [consist](dic://consist) 与of连用，指一个整体由几个部分组成，或由某些材料构成。  
+		10. [constitute](dic://constitute) 正式用词，指由某些部分组成一个整体或构成某物的基本成分。在句中，主语表事物的组成部分，宾语表示事物的整体。
+		11. **consist**组成;**includes**包含;**include**包含，包括;**constitute**构成, 组成;**encompass**围绕;**contain**包含;**wherein**在其中;**plurality**复数;**including**包括;**contains**包含;**represent**表现;
+		12. The funds of the association shall  comprise of members' subscriptions. /协会的基金将由会员的捐款构成。
+		13. The fishing fleet comprises around 70 boats. /捕鱼船队由大约70艘渔船组成。
+		14. The house comprises ten rooms. / 这所房子包括10个房间。
+		15. comprisal, comprisable
 	3. enterprise
-		1. entrepreneur
-	4. prision, misprision
-	5. reprise
-		1. reprisal
-		2. reprieve
-	6. surprise
-	7. 
+		1. n. 企业, 事业心, 进取心, 干事业
+		2. enter-进入 + pris-抓住 + -e → 进入抓住[目标] → 事业。
+		3. enter-,更里面，进入，-prise,拿，承担，缩写自 prehens,词源同 apprise,comprehend.后用来指企业，特别是具有冒险精神的，能承担风险和具有挑战精神的企业。
+		4. _n._ [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [organization](dic://organization), [organisation](dic://organisation), [drive](dic://drive)
+		5. **business**商业;**SaaS**软件即服务;**entrepreneurial**企业家的，创业者的;**e-commerce**电子商务;**corporate**社团的, 法人的;**intranet**内联网;**software**软件;**capitalist**资本家;**entrepreneurship**企业家身份;**computing**计算;**infrastructure**基础;
+		6. entrepreneur
+	5. prision, misprision
+	6. reprise
+		1. n. 年金, 重演, 重复  vt. 重演, 重奏
+		2. n. （尤指乐曲的）重复部分，再现部；重复，重演
+		3. v. 反复（乐曲），重演
+		4.   re-,向后，往回，-pris,抓住，缩写自 prehens,词源同 prehensile,prison.即抓回，特用于指音乐片段的重新开始，即乐曲的重奏，重复。
+		5. re-再 + pris-抓住 + -e → 重新抓住（观众） → 重演 , 重奏。
+		6. [reprize](dic://reprize), [repeat](dic://repeat), [recapitulate](dic://recapitulate)
+		7. _v._ [play](dic://play), [spiel](dic://spiel)
+		8. **cameo**刻有浮雕的宝石或贝壳;**encore**再演唱的要求;**duet**二重奏;**finale**最后乐章;**prelude**前奏;**interlude**中间;**co-star**联袂主演;**remake**重做;**sequel**续集;**starring**扮演主角，领衔主演;**role**角色;
+		9. The special will be unscripted, and the cast will not reprise their roles /特辑没有剧本，演员们也不会扮演原来的角色。
+		10. Simone promised the two of you would reprise your dance. /萨蒙妮答应过你们会重现。
+		11. Lead actor Wu Jing will reprise his role as protagonist astronaut Liu Peiqiang./ 主演吴京将再次扮演主角宇航员刘培强。
+		12. Mr. Trump nevertheless reprised his attacks on the Russia investigation as an attempted coup and a conspiracy /特朗普在评论报告时再次对俄罗斯调查发起攻击，称该调查是一场未遂的政变，是一场阴谋。
+		13. reprisal [美 /rɪˈpraɪzl/](cmd://Speak/_us_/reprisal)
+			1. n. 报复（行为）；报复性劫掠
+			2. _n._ [retaliation](dic://retaliation), [revenge](dic://revenge)
+			3. **retaliation**报复;**retribution**应得的惩罚或赔偿;**retaliate**报复, 反击;**intimidation**恐吓，威胁;**fear**害怕;**harassment**骚扰, 扰乱;**persecution**迫害或受迫害;**hostility**敌意;**insurrection**暴动;**provocation**激怒;**impunity**不受惩罚;
+			4. They took bloody reprisals against the leaders. /他们对领导进行了血腥的报复。
+			5. It is a sensitive subject and companies fear picketing and other similar reprisals. /这是一个敏感话题，公司也不敢越雷池，害怕遭到类似的报复。
+			6. The official did not provide her name because of a fear of possible government reprisals. /由于担心塔利班政府可能会进行报复，这名官员没有透露自己的姓名。
+			7. But President Reagan might wish he had not made such unqualified promises of anti-terrorist reprisal. /但里根总统可能希望自己没有对反恐报复做下过什么可以被人揪住把柄的承诺。
+			8. " We've seen their courage and determination in the face of reprisals, intimidation, violence and detention." /“面对报复、恐吓、暴力和拘留，我们看到了他们的勇气和决心。”
+		14. reprieve
+			1. 1. _n._ (死刑)缓期执行令
+			2. 暂缓，暂止
+			3. _vt._ 缓期执行(死刑)
+			4. 来自中古法语 repris,来自 reprendre 过去分词形式，来自 reprendre,抓回，来自拉丁语reprehendere,抓回，来自 re-,向后，往回，prehendere,抓住，词源同 prison, reprehensible.其原义为抓回监狱，送回监狱，后引申词义延缓死刑。拼写可能受-eve 影响。
+			5.  [respite](dic://respite)
+			6. [suspension](dic://suspension), [respite](dic://respite), [hiatus](dic://hiatus), [abatement](dic://abatement)
+			7. _n._ [relief](dic://relief), [ease](dic://ease), [interruption](dic://interruption), [break](dic://break), [warrant](dic://warrant), [clemency](dic://clemency), [mercifulness](dic://mercifulness)
+			8. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold%20over), [put over](dic://put%20over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set%20back)
+			9. **respite**暂缓;**solace**安慰;**pardon**原谅;**relief**减轻，解除;**temporary**临时的, 暂时的, 短时间的;**well-deserved**罪有应得的;**consolation**安慰,慰问;**refuge**避难;**granted**诚然  
+			10. ;**brief**简短的，简洁的;**limbo**林波舞;
+			11. _[reprieve system](dic://reprieve%20system)_ 缓期执行制
+			12. _[reprieve n](dic://reprieve%20n)_ 缓刑
+			13. _[judicial reprieve](dic://judicial%20reprieve)_ 司法暂缓
+			14. _[deferment reprieve respite](dic://deferment%20reprieve%20respite)_ 暂缓
+			15. _[reprieve prosecution system](dic://reprieve%20prosecution%20system)_ 暂缓起诉制度
+			16. _[The reprieve system](dic://The%20reprieve%20system)_ 缓刑制度
+			17. _[Death with reprieve](dic://Death%20with%20reprieve)_ 死缓；无期徒刑
+			18. _[with a two-year reprieve](dic://with%20a%20two-year%20reprieve)_ 缓期二年执行；缓期两年执行
+			19. _[original sentence of reprieve](dic://original%20sentence%20of%20reprieve)_ 原缓刑判决
+			20. It's a vicious cycle, with seemingly no reprieve. /这是一个恶性循环，似乎没有喘息的机会。
+			21. For me, coming here is a reprieve. /对我来说，在这工作是种暂慰。
+			22. For now, Miss Murnaghan has won a reprieve./就目前而言，萨拉取得了暂时的胜利。
+			23. We lived with fear, always, and the forest gave no reprieve /我们一直生活在恐惧之中，而森林没有给我们任何喘息的机会。
+			24. 29 other activists also facing charges may soon get a similar reprieve. /其他29名面临同样指控的活动人士也将很快得到类似的刑罚终止令。
+			25. Which was supposed to be a reprieve for people who were paying off those loans. /对那些正在偿还贷款的人来说，这应该是一种暂时解救。
+			26. Richard Nixon also gave the birds a reprieve, sending his turkeys to a nearby petting zoo. /理查德·尼克松也赦免了一些火鸡，将他们送到了附近的一个动物园。
+			27. unreprieved
+	7. surprise
+		1. sur突然 + pris-抓住 + -e → 突然被抓住 → 吃惊。
+		2. n. 惊奇, 奇袭, 诧异  vt. 使惊奇, 撞见, 奇袭
+		3. surprising
+			1. surprisingly
+		4. surprised
+			1. surprisedly
+		5. surprisal
 4. get
+	1. vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上  
+	2. vi. 到达, 成为, 变得  
+	3. n. (网球等)救球, 生殖, 幼兽
+	4. 但是，日耳曼自身来源的英语单词（包括北欧语来源）拼写中的g，基本都发“硬”音，看几个：game（g+a），get（g+e），girl（g+i），go（g+o）和guest（g+u）等。这也是判断单词来源的依据之一。 ​​​​
+	5. 来自 PIE*ghend,得到，抓住，词源同 forget,guess.
+	6. go-getting
+	7. go-getter
+		1. n. 积极能干的人, 志在必得的人, 能干的人
+	8. getup
+	9. getter
+		1. n. 获取的人, 吸气剂, 毒饵
+	10. gettable
+	11. getaway
+		1. n. 逃走, 起步
+	12. getatable
+		1. ungetatable
+	13. get-together
+		1. n. 联欢会
+	14. get-out
+	15. get-off
+	16. forget
+		1. unforgettable
+		2. forgetter
+		3. forgettable
+		4. forgetive
+		5. forgetful
+			1. self-forgetful
+			2. forgetfulness
+		6. forget-me-not
+	17. beget (entail, incur, arouse)
+		1. vt. 为某人之生父, 招致, 产生, 引起
+		2. be-强调 + get【生育（古义）】。
+		3.  [get](dic://get), [engender](dic://engender), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
+		4. _v._ [make](dic://make), [create](dic://create)
+		5. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
+		6. Women in film, in other words, beget women in film. /换句话说，电影行业的女性会带领更多同胞加入电影行业。
+		7. For the monsters we drove to their fiery deaths had beget new monsters. /因为被我们烧死的怪物曾创造出新的怪物。
+		8. And migration today begets migration tomorrow, as new arrivals bring over children and partners /而且今天的移民会带来明天的移民，因为新来的人会带来子女和伴侣。
+		9. 10 for he walked with God, begot three sons: Shem, Ham, and Japheth. /10 他生了三个儿子：就是闪、含、和耶斐特。
+		10.  Creative" can be traced to the Latin creare, meaning to beget or to bring forth. /“Creative”这个词的词源可以追溯到拉丁语里的“creare”一词，意思是“产生”或“使产生”。
+		11. And collision begets collision, begets collision /碰撞引发碰撞， 引发碰撞。
 5. guess
+	1. - 词源同 get,得到。
+	2. second-guess
+	3. outguess
+	4. guesswork
+	5. guesstimate
 
 
 ### + \*ghostis- +
@@ -3368,38 +3500,133 @@
 		1.  来自拉丁语 hostis,敌人，来自 PIE*ghostis,外来人，陌生人，词源同 guest.即对待敌人的，敌对的，恶意的。
 3. **xeno-** = strange，表示“陌生”。源自希腊语 xenos "guest, host, stranger."
 	1. xenial
-		1. _[xenial](dic://xenial)_  adj. 异花受粉的；主客关系的；款待的
+		1. xen-异 + -ial表形容词
+		2. a. 异花受粉的
+		3. _[xenial](dic://xenial)_  adj. 异花受粉的；主客关系的；款待的
+		4. Just touch Shenyang, master fete is xenial. /甫抵沈阳,主人便设宴款待。
+		5. Most often be used to the place of pensile droplight is to be used to normally the have dinner interval that xenial guest and family dine together. /最常被用来悬挂吊灯的地方通常是被用来款待宾客与家庭聚餐的用餐区间。
 	2. xenocentric
+		1. _adj._ 喜爱外国之文化的
 	3. xenodiagnosis
+		1. _n._ 病煤接种诊断法
 	4. xenogamy
-	5. xenogenetic
+		1. n. 异株异花受粉
+	5. xenogenetic [美 /ˌzenəu'dʒi'netik/](cmd://Speak/_us_/xenogenetic)
+		1. - adj. 自然发生的；世代交替的
+		2. _[xenogenetic organ](dic://xenogenetic%20organ)_ 自然发生器官
+		3. _[xenogenetic graft](dic://xenogenetic%20graft)_ 异种移植
+		4. _[abiogenetic emergent xenogenetic](dic://abiogenetic%20emergent%20xenogenetic)_ 自然发生的
+		5. _[hyperacute xenogenetic refection](dic://hyperacute%20xenogenetic%20refection)_ 超急性排斥反应
 	6. xenograft
-	7. xenon
-	8. xenophobe
-		1. xenophobia
+	7. xenon [美 /'zinɑn/](cmd://Speak/_us_/xenon)
+		1.  [Xe](dic://Xe), [atomic number 54](dic://atomic number 54)
+		2. _n._ [chemical element](dic://chemical%20element), [element](dic://element), [noble gas](dic://noble%20gas), [inert gas](dic://inert%20gas), [argonon](dic://argonon)
+		3. **halogen**卤素;**helium**氦;**tungsten**钨;**headlight**的前灯;**hydrogen**氢;**ion**离子;**proton**质子;**ionization**离子化,电离;**lithium**锂;**boron**硼;**neutron**中子;
+		4. _xenon lamp_ 氙灯
+	8. xenophobe [美 /ˈzɛnəˌfob/](cmd://Speak/_us_/xenophobe)
+		1. _[xenophobe](dic://xenophobe)_  n. 仇外；害怕生人者；畏惧和憎恨外国人的人
+		2. xenophobia
 			1. _n._ [fearless](dic://fearless)
 			2. **racist**种族主义者;**bigoted**顽固的;**nationalistic**民族主义的;**hateful**可恨的;**anti-American**反美;**anti-Semitic**反对犹太人的,排犹的;**reactionary**反动的;**right-wing**右翼的;**extremist**极端主义者;**populist**平民主义者;**far-right**极右派的;
 			3. _[xenophobia](dic://xenophobia)_  n. 仇外；对外国人的畏惧和憎恨
 	9. xenobiotic
-	10. xenogeneic
+	10. xenogeneic [美 /ˌzinodʒɪ'niɪk/](cmd://Speak/_us_/xenogeneic)
+		1. _adj._ 异种的;异基因的
 	11. xenotranspiantation
 4. guest
+	1. 来自 PIE*ghos,陌生人，客人，词源同 host,hospitable.
+	2. 但是，日耳曼自身来源的英语单词（包括北欧语来源）拼写中的g，基本都发“硬”音，看几个：game（g+a），get（g+e），girl（g+i），go（g+o）和guest（g+u）等。这也是判断单词来源的依据之一。 ​​​​
+	3. n. 客人, 来宾, 旅客
+	4. guestship
+	5. guesthouse
+	6. guestchamber
 
 
 ### + \*ghredh- + = to grind
 1. **grad-** = step, grade, 表示“步，级”。源自拉丁语 gradus "step."
 	1. ingredient
+		1. n. 成分, 因素
+		2. n. （食品的）成分，原料；要素，因素
+		3. adj. 构成组成部分的
+		4.  in-,进入，使，-gred,走，层级，词源同 grade,degree.即走进去的，成为其中一部分的，引申词义成份，因素。
+		5. in-进入，使 + gred-走，层级 + -i- + -ent表名词 → 走进去，成为其中一部分 → 成份。
+			1. _n._ [component](dic://component), [constituent](dic://constituent), [element](dic://element), [part](dic://part), [section](dic://section), [division](dic://division), [foodstuff](dic://foodstuff)
+			2. [component](dic://component) 指一个整体的组成部分。  
+			3. [constituent](dic://constituent) 常可与component换用，指某一整体不可少的部分或成分。  
+			4. [element](dic://element) 指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。  
+			5. [ingredient](dic://ingredient) 普通用词，含义笼统。既可指混在一起而本身没有变化的物质，如配料，又可指与别的物质混在一起，发生了变化的成分。
+		6. **flavoring**调味品,调味料;**recipe**食谱;**concoction**混合;**component**零部件;**additive**添加剂，添加物;**sweetener**甜味剂;**herb**香草，药草;**flavor**滋味;**dish**碟，盘;**essential**基本的;**potency**威力, 力量;
+		7. _active ingredient_ 有效成分；活性组分
+		8. _food ingredient_ 食品配料成分
+		9. _accessory ingredient_ 助剂；配合剂
+		10. Vulgarity is a very important ingredient in life. /庸俗是生活中非常必要的作料。
+		11. Whip the ingredients into a smooth paste. /把配料搅拌成均匀的糊状。
+		12. They are also the basic ingredient in gazpacho, ratatouille, pizza, and caponata. /蕃茄也是西班牙凉菜汤、闷炖蔬菜、比萨和茄子蔬菜开胃菜的基本成分。
+		13. Individualism has been the secret ingredient in developing his chain of fashion stores. /讲求个性化是他发展时装连锁店的一大秘诀。
+		14. Iron ore is a key ingredient in steel-making. /铁矿石是炼钢的关键成分。
 	2. gradate
-	3. gradation
-	4. grade
-		1. gradely
-		2. grader
-		3. gradient
-		4. gradin
-		5. gradiometer
-		6. gradometer
-	5. gradual
-	6. graduate
+		1. v. (使)逐渐转化, 顺次排列
+		2. gradation
+	3. grade
+		1. n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡  
+		2. vt. 分等, 分级, 评分  
+		3. vi. 属于某等级, 逐渐变化
+		4. 来自 PIE*ghredh,走，台阶，层级，词源同 ingress,aggressive.后词义通用化，年级。
+		5. upgrade
+		6. unguligrade
+		7. tardigrade
+		8. subplantigrade
+		9. subgrade
+		10. retrograde
+			1. retrogradation
+		11. pronograde
+		12. plantigrade
+		13. orthograde
+		14. low-grade
+		15. laterigrade
+		16. intergrade
+		17. high-grade
+		18. grading
+			1. downgrading
+		19. downgrade
+		20. digitigrade
+		21. degrade
+			1. prodegradant
+			2. degrading
+			3. degraded
+			4. degradation
+				1. phtodegradatino
+				2. biodegradation
+			5. degradable
+				1. degradability
+				2. biodegradable
+		22. ciliograde
+		23. centigrade
+		24. calcigrade
+		25. anterograde
+		26. antegrade
+		27. age-grade
+		28. gradely
+		29. grader
+		30. gradient
+		31. gradin
+		32. gradiometer
+		33. gradometer
+	4. gradual
+		1. a. 逐渐的, 渐增的  
+		2. n. 弥撒升阶圣歌
+		3. gradualness
+		4. gradually
+		5. graduallism
+	5. graduate
+		1. n. 毕业生, 量杯  
+		2. a. 已得学位的, 研究生的, 毕业的  
+		3. vi. 毕业, 得学位, 逐渐变为  
+		4. vt. 准予...毕业, 授予...学位, 分等级, 刻刻度
+		5. undergraduate
+		6. postgraduate
+		7. graduation
+		8. graduated
 2. **gress-** = go, walk, 表示“行走”。源自拉丁语 gressus "to walk, to go."
 	1. aggress
 		1.  [attack](dic://attack)
@@ -3407,8 +3634,12 @@
 		3. **retaliate**报复, 反击;**aggression**进攻;**punish**严厉对待;**harass**使烦恼;**injure**伤害，损害;**defend**防护;**invade**侵略;
 		4. aggressive
 	2. degression
-		1. - n. （税率的）递减；下降；渐减
-		2. degressive
+		1. n. （税率的）递减；下降；渐减
+		2. de-离开 + gress-走 + -ion
+		3. _[Discrepancy Degression](dic://Discrepancy%20Degression)_ 差异递减
+		4. _[degression descending](dic://degression%20descending)_ 递减
+		5. _[monotonous degression](dic://monotonous%20degression)_ 单调递减
+		6. degressive
 	3. digress
 		1. (digress, sidebar, distraction, excursive, )
 		2. vi. 走向岔道, 离题, 扯到枝节上
@@ -3417,17 +3648,74 @@
 		5.  [sidetrack](dic://sidetrack), [depart](dic://depart), [straggle](dic://straggle)
 		6. _v._ [tell](dic://tell), [deviate](dic://deviate), [divert](dic://divert)
 		7. **suppose**假设;**guess**猜测;**heh**嗨!;**duh**咄;**anyway**无论如何，不管怎样;**anyhow**无论如何;**ahem**呃哼！;**alas**唉;**yeah**是;**dunno**我不知道;**ugh**啊;
-	5. gressorial
-	6. egress
-	7. ingress
-		1.  [immersion](dic://immersion)
-		2.  [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [incoming](dic://incoming)
-		3. _n._ [disappearance](dic://disappearance), [arrival](dic://arrival)
-		4. _n._ [egress](dic://egress), [emersion](dic://emersion)
-		5. **leakage**泄漏;**moisture**潮湿;**corrosion**腐蚀;**intrusion**闯入;**abrasion**磨损;**condensation**冷凝,凝聚;**incoming**引入的，入射的;
-	8. introgression
-	9. progress
-	10. regress (recess, )
+		8. _[digress into collateral matters](dic://digress%20into%20collateral%20matters)_ 扯到枝节问题上去
+		9. _[digress from your subject](dic://digress%20from%20your%20subject)_ 岔开主题
+		10. _[digress too far afield](dic://digress%20too%20far%20afield)_ 离题太远
+		11. _[digress from the point](dic://digress%20from%20the%20point)_ 离开要点
+		12. _[To digress from the subject](dic://To%20digress%20from%20the%20subject)_ 脱离本题
+		13. _[digress from the main subject](dic://digress%20from%20the%20main%20subject)_ 写作或说话离开了中心论题
+		14. I have digressed a little from my original plan. /我有点偏离我原先的计划了。
+		15. Let me digress for a moment and explain what had happened previously. /让我岔开一会儿,解释原先发生了什么。
+		16. But in my teaching days, I found it difficult not to digress. /但在我教书的日子里，我发现很难不离题。
+		17. Don't digress or change the subject if the conversation is going well. /如果谈话进展顺利，请不要偏离主题或转移话题。
+		18. Let me **digress** for a moment and tell you a short story /请允许我暂时离开话题一会儿，我给你讲个小故事。
+	4. gressorial
+	5. egress
+		1. - n. 外出；出口
+		2. vi. 外出
+		3. vt. 使外出
+		4. [emersion](dic://emersion)
+		5. [emergence](dic://emergence), [issue](dic://issue)
+		6. [egression](dic://egression), [emergence](dic://emergence)
+		7. [issue](dic://issue), [emerge](dic://emerge), [come out](dic://come out), [come forth](dic://come forth), [go forth](dic://go forth)
+		8. _n._ [reappearance](dic://reappearance), [beginning](dic://beginning), [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
+		9. _n._ [ingress](dic://ingress), [immersion](dic://immersion)
+		10. **exit**出口，通道;**ventilation**通风;**entrance**入口;**passageway**通道;**unobstructed**不被阻塞的;**stairwell**楼梯井;**stairway**阶梯，楼梯;**doorways**门廊;**entryway**入口通道;**routing**行程安排,邮件路由;**access**入口;
+		11. _[egress door](dic://egress%20door)_  疏散门
+		12. _[safe egress](dic://safe%20egress)_  安全出口
+		13. _[egress capacity](dic://egress%20capacity)_  出口容量
+		14. _[egress design](dic://egress%20design)_  出路设计
+		15. _[egress route](dic://egress%20route)_  出口通道
+		16. _[egress stairway](dic://egress%20stairway)_  疏散楼梯
+		17. _[egress system](dic://egress%20system)_  离机系统
+		18. _[egress width](dic://egress%20width)_  出口宽度
+		19. _[egress window](dic://egress%20window)_  出路窗
+		20. _[free egress](dic://free%20egress)_  自由出路
+		21. Only to the lamasery did there appear to be any climbable egress at all. /只有对喇嘛寺来说， 那里似乎根本没有任何可攀爬的出口。
+		22. He chose the location because it was rarely busy and right off of Interstate 5, providing rapid egress. /他选择这个地点，是因为那里人不多，而且离5号州际公路很近，能够迅速离开。
+		23. We could target ingress and egress to particular neighborhoods. /我们可以守着几个特定邻区的进出口。
+		24. Until Margaret had learnt the times of their ingress and egress, she was very unfortunate in constantly falling in with them. /直到玛格丽特知道了他们进出的时间， 她很不幸，不断地和他们混在一起。
+		25. And if they had stayed home, maybe there wouldn't be local flooding in front of their house, but kind of egress roads would be flooding, so they wouldn't be able to leave. /如果他们呆在家里，也许他们的房子前面不会发生局部洪水，但出口道路会被洪水淹没，所以他们无法离开。
+	6. ingress
+		1. n. 进入；入口；准许进入；入境
+		2.  [immersion](dic://immersion)
+		3.  [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [incoming](dic://incoming)
+		4. _n._ [disappearance](dic://disappearance), [arrival](dic://arrival)
+		5. _n._ [egress](dic://egress), [emersion](dic://emersion)
+		6. **leakage**泄漏;**moisture**潮湿;**corrosion**腐蚀;**intrusion**闯入;**abrasion**磨损;**condensation**冷凝,凝聚;**incoming**引入的，入射的;
+		7. These grazers find sustainment ingresses others have abandoned. /这些羚羊发现了一些别人剩下的食物。
+		8. Moreover to light a fire is the instinctive and resistant act of man when, at the winter ingress, the curfew is sounded throughout Nature. /此外，严冬降临，自然界里到处响起了宵禁的钟声，点燃篝火也是人类本能的反抗行为。
+		9. This is largely due awareness leading to historical efforts within  Europe and North America to prevent the ingress of plastics into the Atlantic. /这很大程度上是由于人们的认识导致了欧洲和北美历史上努力防止塑料进入大西洋。
+		10. You were standing round the window, and I thought it would startle you if I chose that mode of ingress, so I descended with incredible skill down the chimney'. /“你站在窗边，我想如果我选择那种进入方式会吓到你，所以我以令人难以置信的技巧从烟囱里下来”。
+	7. introgression
+		1. _[introgression](dic://introgression)_  n. 基因渗入；渐渗现象
+		2. _[introgression lines](dic://introgression%20lines)_  导入系; 渐渗系; 渗入系;
+		3. _[backcross introgression](dic://backcross%20introgression)_ 回交导入
+		4. _[genome introgression](dic://genome%20introgression)_ 基因组导入
+		5. _[hybrid introgression](dic://hybrid%20introgression)_ 杂交渐渗
+		6. And also typical wild soybeans were inferred to have had **introgression** from cultivated soybeans. /并推测典型野生大豆也可能与栽培大豆发生过基因交流。
+	8. progress
+		1. 来自 pro-,向前，朝向，-gress,走，词源同 grade,aggressive.
+		2. n. 进步, 发展, 前进  
+		3. vi. 进步, 进行
+		4. progressive
+			1. progressivism
+			2. progressively
+		5. progressist
+		6. progression
+			1. progressionist
+			2. progressional
+	9. regress (recess, )
 		1.  [reasoning backward](dic://reasoning backward)
 		2.  [regression](dic://regression), [reversion](dic://reversion), [retrogression](dic://retrogression), [retroversion](dic://retroversion)
 		3.  [revert](dic://revert), [return](dic://return), [retrovert](dic://retrovert), [turn back](dic://turn back)
@@ -3440,17 +3728,37 @@
 		10. Most rhabdomyomas actually usually regress spontaneously /大多数横纹肌瘤其实通常会自发消退。
 		11. In essence, they're getting weaker, because their ability to overcome suffering is regressing. /本质上，他们变得越来越弱，因为他们克服痛苦的能力正在退化。
 		12. Indeed, women's views on gender roles have shown signs of regressing in recent years. /事实上，女性对性别角色的看法近年来有退步的迹象。
-	11. retrogress
-	12. transgress (trespass)
-		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
-		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
-		3. _[transgress duty](dic://transgress%20duty)_ 越过职责
-		4. You transgressed against the law. /你犯法了。
-		5. she had transgressed an unwritten social law. /她违反了不成文的社会规范。
-		6. South Korean makers of electric vehicles in America transgress them because they use Chinese batteries. /韩国电动汽车厂商因为使用了中国电池就违反了本土化规则。
-		7. So many people (including path-breaking members of minority groups) will be deemed to have transgressed that skeletons in closets come to be regarded as inevitable. /如果有太多人的行为被视为越轨（包括少数群体的领先成员），那么人们也会觉得这样的隐情丑事是不可避免的。
-	13. congress
-	14. degree
+	10. retrogress
+		1. vi. 倒退, 退化, 退步
+		2. retrogressive
+		3. retrogression
+	11. transgress (trespass)
+		1. vt. 违反, 犯罪, 侵犯 
+		2. vi. 越界, 违法
+		3. trans-横 + gress-走 → 横着走 → 冒犯。
+		4.  trans-,进入，穿过，-gress,走，词源同 grade,aggressive.引申词义违背，违犯等。
+		5. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
+		6. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
+		7. _[transgress duty](dic://transgress%20duty)_ 越过职责
+		8. You transgressed against the law. /你犯法了。
+		9. she had transgressed an unwritten social law. /她违反了不成文的社会规范。
+		10. South Korean makers of electric vehicles in America transgress them because they use Chinese batteries. /韩国电动汽车厂商因为使用了中国电池就违反了本土化规则。
+		11. So many people (including path-breaking members of minority groups) will be deemed to have transgressed that skeletons in closets come to be regarded as inevitable. /如果有太多人的行为被视为越轨（包括少数群体的领先成员），那么人们也会觉得这样的隐情丑事是不可避免的。
+	12. congress
+		1. n. 国会, 会议, 讨论会
+		2. con-共同 + gress-走 → 走到一起 → 代表大会。
+		3.  con-,表强调，-gress,走，词源同 grade,aggressive.原义指一群人走到一起。
+	13. degree
+		1. n. 程度, 度数, 学位, 度
+		2. de-向下 + gree-走，层级，原指阶梯，台阶，后词义抽象化指程度，层级。
+		3.  de-,向下，-gree,走，层级，词源同 grade.原指阶梯，台阶，后词义抽象化指程度，层级。
+		4. third-degree
+			1. vi. 酷刑逼供
+		5. second-degree
+		6. indegree
+		7. first-degree
+			1. a. 最低级的, 最严重的, 一级的, 最高级的, 第一度的, 最轻度的
+		8. degree-day
 
 
 ### + \*ghrendh- + 

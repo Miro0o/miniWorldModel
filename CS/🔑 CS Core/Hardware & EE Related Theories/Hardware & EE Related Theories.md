@@ -14,8 +14,8 @@
 
 ↗ [Computer Taxonomy & Computer (Hardware) Components](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 
-↗ [Embedded Computer Systems](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
-- ↗ [Embedded Hardwares & Chips](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
+↗ [Embedded Computer Systems](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
+- ↗ [Embedded Hardwares & Chips](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 
 ↗ [Physical Security](../../CyberSecurity/Physical%20Security/Physical%20Security.md)
 

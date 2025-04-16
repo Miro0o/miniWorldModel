@@ -6788,6 +6788,54 @@
 	16. plunderbund
 	17. plunderage
 	18. plunderable
+4. pluck (yank)
+	1. n. 勇气, 猛拉, 动物内脏  
+	2. v. 摘, 猛拉, 拔, 拉, 扯, 采, 拽
+	3. - v. 摘，掐；拉，扯；（用指甲或镊子）夹，拔（毛发）；拔去（鸡或鸟的毛）；弹拨（弦乐器）；解救，搭救；挖掘，使一跃成名；鼓起勇气（pluck up the courage）；挑选；（用手指）迅速拣起；（地质）（冰川冰）拔削，拔蚀
+	4. n. 胆识，勇气；（供食用的）动物内脏；猛拉
+	5. pluck [plʌk] n. 勇气；内脏；快而猛的拉，vt. 摘；拔；扯。这个单词或与拉丁词根pil-表毛发（皮）相关，和pilar adj.毛发的，与film薄膜和fell兽皮同源。但勇气和内脏怎么破？农民采摘庄稼，猎人将猎物的“内脏”扯出来奖赏给猎狗，而内脏，一直被认为是思想（勇气）的所在地，比如，我心想......。
+	6.  来自古英语 pluccian,拔出，拉，扯，来自 West-Germanic*plokken,拔，借自拉丁语 pilare,拔头发，来自 pilus,头发，词源同 pile,depilatory.
+	7. [gutsiness](dic://gutsiness), [pluckiness](dic://pluckiness)
+	8.  [tweak](dic://tweak), [pull off](dic://pull off), [pick off](dic://pick off)
+	9. [hustle](dic://hustle), [roll](dic://roll)
+	10. [overcharge](dic://overcharge), [soak](dic://soak), [surcharge](dic://surcharge), [gazump](dic://gazump), [fleece](dic://fleece), [plume](dic://plume), [rob](dic://rob), [hook](dic://hook)
+	11.  [plunk](dic://plunk), [pick](dic://pick)
+	12. [pull](dic://pull), [tear](dic://tear), [deplume](dic://deplume), [deplumate](dic://deplumate), [displume](dic://displume)
+	13.  [pick](dic://pick), [cull](dic://cull)
+	14. _n._ [fearlessness](dic://fearlessness), [pull](dic://pull), [pulling](dic://pulling)
+	15. _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force), [steal](dic://steal), [cheat](dic://cheat), [rip off](dic://rip%20off), [chisel](dic://chisel)
+	16. **pull**拉;**courage**勇气;**snatch**抢夺;**pick**挑选;**scrape**用工具刮;**sprout**长芽;**audacity**厚颜无耻;**comb**梳子;**chop**砍;**prune**修剪;**guts**飞碟游戏;
+	17. _[plucking](dic://plucking)_  v. 摘，拔；拔……的毛；弹拨；解救；采摘（pluck 的现在分词）
+	18. _[pluck out](dic://pluck%20out)_  拔出
+	19. _[pluck off](dic://pluck%20off)_  撕去
+	20. _[pluck away](dic://pluck%20away)_  撕去
+	21. _[pluck up](dic://pluck%20up)_  振作，鼓起勇气
+	22. _[pluck down](dic://pluck%20down)_  拖下; 拆毁; 
+	23. _[plucked instrument](dic://plucked%20instrument)_  弦拨乐器
+	24. _[get plucked](dic://get%20plucked)_  落第,考不及格
+	25. _[pluck at](dic://pluck%20at)_  拽
+	26. _[show pluck](dic://show%20pluck)_  秀拔
+	27. Oh. Well, don't you have pluck. /好吧 真是勇气可嘉。
+	28. Rescue helicopters in southern Germany have been plucking families from rooftops. /德国南部的救援直升机正在屋顶上搭救各家各户。
+	29. But their eyes and hair colours aren't just plucked out of the air. /不过他们头发和眼睛的颜色可不是随便决定的。
+	30. The child plucked at its mother's skirt /孩子拉母亲的裙子(引她注意)。
+	31. I thought about plucking out her eyes. /我本想挖出她的眼睛。
+	32. But you cannot pluck the stars from heaven. /可你却不能摘下这些星星呀！
+	33. He was plucked in the examination. /他考试不及格。
+	34. With a few pluck at the string of his banjo, everybody is singing along /他拨了拨班卓琴的琴弦，每个人就都跟著唱了起了。
+	35. plucky
+		1. - adj. 有勇气的，大胆的
+		2.  [gutsy](dic://gutsy)
+		3.  [feisty](dic://feisty), [spunky](dic://spunky)
+		4. _adj._ [spirited](dic://spirited)
+		5. _n._ [spiritless](dic://spiritless)
+		6. **feisty**活跃的;**intrepid**无畏的;**hapless**运气不好的，倒霉的;**enterprising**有事业心的;**brave**勇敢的;**resourceful**资源丰富的;**hard-working**勤勉的,努力工作的;**scrappy**爱打架的;**beleaguered**饱受批评的;**tenacious**抓紧的;**valiant**英勇的，勇敢的;
+		7. It isn't some plucky underground resistance movement. /不是顽强的地下抵抗运动。
+		8. All of the plucky Arabidopsis seeds did sprout and grow. /所有勇敢的拟南芥种子都发芽生长了。
+		9. Unless you have the help of a plucky real estate developer. /除非你有胆量十足的房地产商的帮助。
+		10. But one plucky caterpillar dresses in orange and black to avoid becoming somebody's lunch. /但一种橙黑色条纹的勇敢毛毛虫则可以避免成为别人的午餐。
+		11. And this plucky little ocean cleaner is hauling a lot of junk out of the sea. /这个勇敢的小小海洋清洁器正从海里清洁出了很多垃圾。
+	36. pluckless
 
 
 ### + \*pilo- +
@@ -6839,7 +6887,7 @@
 		6. **fright**惊吓;**trembling**发抖;**shiver**颤抖，战栗;**tingling**发出叮当声;**apprehension**理解;**sensation**感觉;**tremble**战栗;**anguish**苦闷;**shivering**颤抖的;**numbness**麻木;**helplessness**无可奈何状态;
 		7. _n._ (受惊、发冷等引起的)鸡皮疙瘩；毛发竖立
 		8. I suddenly have a bad case of **horripilation** /我突然感到一阵不安。
-	4. depilate (exfoliate)
+	4. depilate [美 /'dɛpə,let/](cmd://Speak/_us_/depilate) (exfoliate)
 		1. vt. 拔毛, 脱毛
 		2. [epilate](dic://epilate)
 		3. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
@@ -6850,7 +6898,7 @@
 		8. Anyway " depilate" (depilate) is when you remove hair from your body. /无论如何，“脱毛”（脱毛）是指您从身上脱毛。
 		9. Not only do I have to bathe, I need to exfoliate and depilate. /我不仅要洗澡，我还需要去角质和脱毛。
 		10. This curriculum trains individuals to cleanse. **depilate**. massage. and beautify the human body and to function as licensed estheticians and skin care specialists. /美学家和护肤专业由持牌美容师及皮肤护理专家教导学生学习个人清洗，脱毛，按摩和美化人体。
-		11. depilatory
+		11. depilatory [美 /dɪ'pɪlə'tɔri/](cmd://Speak/_us_/depilatory)
 			1. a. 脱毛用的, 有脱毛作用的  
 			2. n. 脱毛剂
 			3. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound), [cosmetic](dic://cosmetic)
@@ -6867,6 +6915,10 @@
 			1. n. 脱毛者, 脱毛器
 		13. depilation
 			1. n. 脱毛
+			2. _n._ [condition](dic://condition), [status](dic://status), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
+			3. **shaving**削;**waxing**上蜡;**shave**剃;**hair**头发;**grooming**修饰;**genital**生殖的;**pubic**阴部的;**mutilation**切断;**genitals**生殖器;**scalp**头皮;**bleaching**漂白;
+			4. Jeering crowds accompanied this public depilation, adding to the stigma /这种公开脱发过程还引来了一些围观人群的嘲弄奚落，更是加重了这些妇女的耻辱。
+			5. We have nail cleaners, a wide variety of nail cleaners; we have tweezers, depilation was a big thing hairlessness was was very attractive and one of my personal favourites is this little perfume bottle, we have loads of perfume bottles. /我们有指甲清洁剂，各种各样的指甲清洁剂；我们有镊子，脱毛是一件大事，无毛非常有吸引力，我个人最喜欢的是这个小香水瓶，我们有很多香水瓶。
 		14. depilating
 	5. pilatory
 		7. n. 生发剂
@@ -6894,7 +6946,7 @@
 		9. _soft pillow_ 软枕头
 		10. _pillow block_ 轴台；架座
 		11. _pillow fight_ （小孩在临睡前在卧室内用枕头）打闹；小争吵
-		12. embroider a pillow cover /s绣一个枕头套
+		12. embroider a pillow cover /绣一个枕头套
 		13. pillow one's head on one's arm /把头枕在手臂上
 		14. The earth will  pillow my head tonight. /今夜我将露宿。
 		15. She was found asleep on a pillow of leaves. /有人看见她枕着树叶睡着了。
@@ -6907,7 +6959,7 @@
 		1. a. 棉花的, 轻飘飘的, 有绒毛的
 	11. pelage
 		1. n. 毛皮
-	12. pellet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+	12. pellet [美 /'pɛlɪt/](cmd://Speak/_us_/pellet) (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 		1. n. 颗粒状物, 小子弹, 小药丸  
 		2. vt. 使成颗粒, 使成团, 用子弹打
 		3. [shot](dic://shot)
@@ -8044,31 +8096,42 @@
 
 ### plor- = cry, weep, 表示“喊，哭”。
 1. deplore
-	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
-	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
-	4. [ament](dic://lament), [bewail](dic://bewail), [bemoan](dic://bemoan)
-	5. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart), [complain](dic://complain), [kick](dic://kick), [plain](dic://plain)
-	6. **condemn**判刑，定罪;**denounce**谴责;**despise**轻视，鄙视;**lament**悲叹;**loathe**讨厌，厌恶;**criticise**批评;**criticize**评论, 批评;**condone**宽恕;**disgraceful**可耻的,丢脸的,不光彩的;**lamented**令人遗憾的;**appalled**惊骇的;
-	7. we deplore all violence /我们谴责一切暴力。
-	8. We deplore the accident /我们对这一事故深感遗憾。
-	9. deplored the rampant consumerism of contemporary society /对当代社会中狂热的拜金思想深感遗憾
-	10. deplorable, deplorably
-3. explore
-	1. [research](dic://research), [search](dic://search)
-	2. _v._ [investigate](dic://investigate), [look into](dic://look into), [diagnose](dic://diagnose), [name](dic://name)
+	1. de-,向下，表强调，-plor,呼喊，呼叫，词源同 explore,implore.比较 declaim,denounce.
+	2. vt. 悲悼, 哀叹, 对...深感遗憾; 谴责
+	3. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	4. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	5. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+	6. [lament](dic://lament), [bewail](dic://bewail), [bemoan](dic://bemoan)
+	7. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart), [complain](dic://complain), [kick](dic://kick), [plain](dic://plain)
+	8. **condemn**判刑，定罪;**denounce**谴责;**despise**轻视，鄙视;**lament**悲叹;**loathe**讨厌，厌恶;**criticise**批评;**criticize**评论, 批评;**condone**宽恕;**disgraceful**可耻的,丢脸的,不光彩的;**lamented**令人遗憾的;**appalled**惊骇的;
+	9. we deplore all violence /我们谴责一切暴力。
+	10. We deplore the accident /我们对这一事故深感遗憾。
+	11. deplored the rampant consumerism of contemporary society /对当代社会中狂热的拜金思想深感遗憾
+	12. I liked her, but she had segregationist views from her upbringing, which I deplored. /我喜欢她，但她却受家庭熏陶，具有种族隔离主义思想，这让我很不舒服。
+	13. The clerks and ryots, however, seemed duly impressed, and likewise envious, as though deploring their parents' omission to endow them with so splendid a means of appealing to the Zamindar. /然而，在场的执事和农民却对此似乎印象深刻，他们似乎还有些嫉妒，仿佛在抱怨他们的父母没有赋予他们这种向地主请愿的卓越口才。
+	14. deplorable, deplorably
+2. explore
+	1. ex-出 + plor-喊 + -e → 喊出来 → 探索[奥秘]。
+	2. ex-,向外，-plor,大叫，哭喊，词源同 deplore.原指猎人在打猎时通过叫声把鸟赶出山林，后引申词义探索。
+	3. [research](dic://research), [search](dic://search)
+	4. _v._ [investigate](dic://investigate), [look into](dic://look into), [diagnose](dic://diagnose), [name](dic://name)
 		1. [hunt](dic://hunt) 一般指寻找所需的物件，或对罪犯的搜寻，特指追猎。  
 		2. [explore](dic://explore) 一般指对未知事物或新生事物的探索、观察与研究。  
 		3. [track](dic://track) 侧重按一定线索追查出结果。  
 		4. [seek](dic://seek) 语义庄重，语气强，使用广。多暗示做出很大努力去寻求某人或物。
-	3. **discover**发现;**delve**钻研;**examine**调查;**investigate**调查;**rediscover**再次发现;**learn**学习;**uncover**揭露;**discuss**讨论;**exploration**探险旅行;**immerse**沉浸;**revisit**重游;
-	4. explorer
-	5. unexplored
-	6. explorative
-	7. exploration
+	5. **discover**发现;**delve**钻研;**examine**调查;**investigate**调查;**rediscover**再次发现;**learn**学习;**uncover**揭露;**discuss**讨论;**exploration**探险旅行;**immerse**沉浸;**revisit**重游;
+	6. The natural jaggy Edge effect explores every unique angles from the sight. /自然的凿边效果，从每一个独特角度，探讨建筑的内在含义。
+	7. explorer
+	8. unexplored
+	9. explorative
+	10. exploration
 4. implore
-	1. [beg](dic://beg), [pray](dic://pray)
-	2. _v._ [plead](dic://plead)
+	1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
+	2. _vt._ 恳求或乞求(某人)
+	3. im-进入 + plor-喊 + -e → 进入哭喊状态 → 乞求。
+	4. - im-,进入，使，-plor,哭泣，哀求，词源同 explore,deplore.
+	5. [beg](dic://beg), [pray](dic://pray)
+	6. _v._ [plead](dic://plead)
 		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用。  
 		2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。  
 		3. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。  
@@ -8078,8 +8141,11 @@
 		7. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。  
 		8. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。  
 		9. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
-	3. **urge**力劝，催促;**beg**恳求;**commend**推荐;**urged**怂恿，催促;**pray**祈祷;**plead**辩护;**reconsider**重新考虑;**applaud**向…喝彩;**please**使高兴，使满意;**reiterate**反复地说,重申;**encourage**鼓励, 激
-	4. imploring
+	7. **urge**力劝，催促;**beg**恳求;**commend**推荐;**urged**怂恿，催促;**pray**祈祷;**plead**辩护;**reconsider**重新考虑;**applaud**向…喝彩;**please**使高兴，使满意;**reiterate**反复地说,重申;**encourage**鼓励, 激
+	8. They have found the widow-dead! her arms stretched forth, as if imploring assistance! /他们找到了寡妇——她死了！她的手臂向前伸着，好像在寻求帮助！
+	9. But, I must beg, beseech and implore you not today. /但是我必须再三恳求您不要选择今天。
+	10. The young woman stood, smiling at him–an uncertain, imploring, almost abject smile. /那女郎站在那儿对他微笑着——一种没有把握的、乞求的、差不多是低三下四的微笑。
+	11. imploring
 		1. _adj._ [beseeching](dic://beseeching)
 		2. _n._ [imperative](dic://imperative)
 		3. **begging**乞讨，乞求;**urged**怂恿，催促;**pleading**答辩;**thanking**致谢，感谢;**asking**请求;**prompting**推动,奖励,驱使;**beg**恳求;**urge**力劝，催促;**persuade**说服，劝说;**plead**辩护;**urges**呼吁;
@@ -8091,8 +8157,31 @@
 	1. molybdenite
 	2. molebdenum
 2. **plumb-** = lead, 表示“铅”。源自拉丁语 blumbum "lead."
-	1. plumb
-		1. aplomb
+	1. plumb [美 /plʌm/](cmd://Speak/_us_/plumb)
+		1. 1. vt. 使垂直；探测，探索
+		2. n. 铅锤；垂直
+		3. adv. 恰恰，正；垂直地
+		4. vi. 当管子工
+		5. adj. 垂直的
+		6.  [plumb bob](dic://plumb bob), [plummet](dic://plummet)
+		7.  [clean](dic://clean), [plum](dic://plum)
+		8. _n._ [bob](dic://bob)
+		9. _v._ [quantify](dic://quantify), [measure](dic://measure), [burden](dic://burden), [burthen](dic://burthen), [weight](dic://weight), [weight down](dic://weight%20down), [explore](dic://explore)
+		10. _adj._ [vertical](dic://vertical), [perpendicular](dic://perpendicular)
+		11. _n._ [inclined](dic://inclined), [horizontal](dic://horizontal)
+		12. [vertical](dic://vertical) 指与平面、水平线或基线成直角或几乎成直角向上延伸至顶点的物体。也可指呈直线上升或下降的。  
+		13. [perpendicular](dic://perpendicular) 指与水平线形成90度的线或面，或朝垂直方面延伸的，尤指向下的急剧运动。   
+		14. [upright](dic://upright) 普通用词，指竖立、笔直而不是倾斜、倒塌的。  
+		15. [erect](dic://erect) 指笔直挺拔，而非倾斜、佝偻、弯曲或倒塌的。  
+		16. [plumb](dic://plumb) 建筑上用词，凭锤球评判某物是否完全垂直。 
+		17. _plumb line_ 铅垂线（等于plumb rule）
+		18. When his friend was killed, he plumbed the depths of despair. /他的朋友被害后，他陷入了绝望的深渊。
+		19. No one could plumb the mystery. /没人能看破这秘密。
+		20. On the other hand do not fear the truth. Plumb the depths. /另外 不要害怕真相 要挖掘真相。
+		21. Instead it plumbs the depths of its protagonist's indecisiveness, and the tragic consequences thereof. /相反，它深刻揭示了主人公的优柔寡断，以及由此产生的悲剧后果。
+		22. Rehearsing the first movement of the Shostakovich, Sir Mark was determined that the players should plumb the musical depths. /这样的音乐最能唤起内心深处的共鸣，在排练肖斯塔科维奇的第一乐章时，马克爵士就决心让乐手们更进一步地去探索挖掘该音乐的深度。
+		23. That night they plumbed the depths of treachery and horror, and murdered the king as he slept. /那天夜晚他们彻底背叛，采用极端恐怖的手段，趁国王熟睡之际杀害了他。
+		24. aplomb
 			1. (sedate, serene, tranquil, calm, repose, compose, placidity, equanimity, aplomb, )
 			2. 来自短语on plomb, 同plumb, 铅垂线。指沉着如铅垂线。
 			3. aplomb（沉着）：像铅垂那样处于垂直状态  
@@ -8105,11 +8194,11 @@
 			10. From the age of 15-21 he took on many different identities and pulled them off with aplomb /从 15 岁到 21 岁， 他拥有许多不同的身份， 并沉着应对。
 			11. Working these examples into an optional essay or the interview is perfectly acceptable if done with aplomb. /如果泰然自若，将这些例子写成一篇可选的论文或面试是完全可以接受的。
 			12. Gates is one of the few to pull off both feats with **aplomb** /盖茨是少数自信的成功者之一。
-		3. etc..
-		4. unplumbed
+		25. etc..
+		26. unplumbed
 			1. unplumbed ideas. /未被深究的思想
 			2. unplumbed ocean depths. /未用铅锤测量的海洋深度
-	2. plummet
+	2. plummet [美 /ˈplʌmɪt/](cmd://Speak/_us_/plummet)
 		1. plummet - plumb line指“铅垂线”，用以量度水深或检测墙壁是否垂直，而plumb则是悬挂于细线上的“铅锤”，它源于拉丁语plumbum 'lead'（铅）。plumb的派生词plumber指“管子工”，因为管子工的工作是和铅管打交道。另外，由于plumb line完全或绝对地与水平面相垂直，所以plumb作形容词用时表示“垂直的”，作副词用时，则被赋予“完全地”、“正好地”、“恰恰”等义，常用于plumb mad，plumb crazy，plumb tired这些口头用语中。短语out of plumb或off plumb用以表示“不垂直的”，也就不难理解了。plumb还常用作动词，表示“测量……的水深”、“探测”，这一用法显然出自于plumb的探测功能。另一个英语单词plummet也指“铅锤”或“铅垂线”，也出自同一拉丁词源，作动词用时，词义就引申为“骤然跌落”或“垂直落下”。
 		2. n. 测深锤, 铅坠 vi. 垂直落下
 		3. plumb-铅 + -et小词后缀。
@@ -8117,7 +8206,7 @@
 		5. _n._ [bob](dic://bob)
 		6. _v._ [drop](dic://drop)
 		7. **soar**高耸;**soared**骤然上升;**rise**上升;**decline**下降;**soaring**猛增的;**plunging**跳进的,突进的;**drop**滴;**declining**倾斜的,衰退中的;**tumbling**翻筋斗;**falling**落下的;**tumbled**翻滚，滚磨;
-	4. plump (voluptuous)
+	3. plump [美 /plʌmp/](cmd://Speak/_us_/plump) (voluptuous)
 		1. 词源同低地德语plumpen , 荷兰语plompen , 扑通声，落水，可能为拟声词。引申词义重的，大块的，后词义褒义化，形容女人丰腴的，丰满的。
 		2. [plank](dic://plank), [flump](dic://flump), [plonk](dic://plonk), [plop](dic://plop), [plunk](dic://plunk), [plump down](dic://plump down), [plunk down](dic://plunk down)
 		3. [fatten](dic://fatten), [fat](dic://fat), [flesh out](dic://flesh out), [fill out](dic://fill out), [plump out](dic://plump out), [fatten out](dic://fatten out), [fatten up](dic://fatten up)
@@ -8139,7 +8228,7 @@
 		16. plumper
 			1. _[plumper](dic://plumper)_  adj. 更丰腴的；更饱满的; n. 鼓腮物；只投给一名选举人的投票;
 			2. _[lip plumper](dic://lip%20plumper)_  丰唇唇彩
-	6. plunge (swoop)
+	4. plunge (swoop)
 		1. 来自古法语 plongier,浸入，沉入，跳水，来自拉丁语 plumbum,铅，铅球，词源同 plumb.其原义为用铅垂线测水深，引申词义前冲，跳水，比喻义猛倾，暴跌，比较 plummet.
 		2. v. 纵身跳向, 猛冲向; 暴跌, 骤降; 颠簸, 震荡; 向下倾斜  
 		3. n. 突然跌落, 突然分离; 暴跌, 猛降; 卷入; 跳水

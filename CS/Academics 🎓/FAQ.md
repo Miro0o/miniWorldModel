@@ -47,3 +47,19 @@ Workshop
 - **Purpose:** To teach skills, explore new methods, or develop solutions to specific problems. Workshops often encourage participant involvement.
 - **Duration:** Can vary from a few hours to a couple of days but is generally shorter than conferences.
 
+
+
+## 👉 Google Scholar: We are sorry... but your computer or network maybe sending automated queries...
+#google_scholar #network 
+
+https://v2xtls.org/google-scholar-%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF403-your-client-does-not-have-permission-to-get-url%E6%88%96%E8%80%85were-sorry%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/
+出现这些问题的本质原因：VPS或者机场的IP以前被人滥用过，例如做过爬虫、Google反向代理，导致IP被Google拉入了黑名单。对于黑明单IP，谷歌搜索只会让输验证码，而谷歌学术直接不让访问。
+
+本文给出几种解决谷歌学术问题的办法，建议大多数网友使用谷歌上网助手插件解决该问题。
+
+https://blog.csdn.net/m0_49423868/article/details/138311267?fromshare=blogdetail&sharetype=blogdetail&sharerId=138311267&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
+此处修改一个博客的方法，缺失了一个步骤，所以评论都说没用
+关闭Chrome浏览器QUIC协议
+1）Chrome地址栏输入chrome://flags
+2）搜索栏中输入quic，找到Experimental QUIC protocol，改为Disabled
+3）打开浏览器设置！！！清除cookie！！！

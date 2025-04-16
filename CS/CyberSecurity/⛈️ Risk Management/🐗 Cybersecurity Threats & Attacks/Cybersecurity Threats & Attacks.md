@@ -10,10 +10,13 @@
 ↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
 
+↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
+
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Software Analysis & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 - ↗ [Malicious Code Detection & Vulnerability Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
+- etc.
 
 ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 - ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
@@ -23,6 +26,7 @@
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
 - ↗ [Memory Threats & Attacks](../../System%20Security/🏃%20System%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
+- etc.
 
 
 
@@ -44,9 +48,12 @@
 #### EXP (Exploit)
 
 
+### TTP (Tactics, Techniques, and Procedure)
+
+
 
 ## Major Threats & Countermeasures
-↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20&%20Attack%20Models/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 
 
 ### 1️⃣ /2️⃣ /3️⃣ CIA Threats

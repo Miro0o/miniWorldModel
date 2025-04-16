@@ -10,7 +10,7 @@
 
 ↗ [🪪 Software License & Open Source (Free Software)](../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
 ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
-↗ [IoT & Embedded Communication Applications & Projects](../../../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Programming%20&%20Software%20Development/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
+↗ [IoT & Embedded Communication Applications & Projects](../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Embedded%20Programming%20&%20Software%20Development/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
 
 ↗ [The Linux Foundation](../The%20Linux%20Foundation.md)
 ↗ [ASF (Apache Software Foundation)](../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)

@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [First-order Logic](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/📍%20Mathematical%20Logics%20Basics/First-order%20Logic.md)
+
 ↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Disclosure（漏洞挖掘）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Vulnerability%20Disclosure（漏洞挖掘）.md)
@@ -78,12 +81,22 @@ Just a collection of notes, snippets and other goodies..
 
 
 ## Intro
+> ↗ [Software Analysis Basics Methodologies](📌%20Software%20Analysis%20Basics%20Methodologies/Software%20Analysis%20Basics%20Methodologies.md)
+
+
+### Program Analysis
+> 🔗 https://en.wikipedia.org/wiki/Program_analysis
+
+In computer science, program analysis is the process of analyzing the behavior of computer programs regarding a property such as correctness, robustness, safety and liveness. Program analysis focuses on two major areas: **program optimization** and **program correctness**. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
+
+Program analysis can be performed without executing the program (static program analysis), during runtime (dynamic program analysis) or in a combination of both.
+
+![](../../../../../Assets/Pics/Screenshot%202025-04-14%20at%2020.08.51.png)
 
 
 
 ## Ref
 [ctf re/pwn入门书单]: https://eternalsakura13.com/2018/05/31/shudan/
-
 逆向
 - c++反汇编技术解密
 	- 介绍：这本是完整看完了的，后面关于对象和类写的不错。
@@ -112,3 +125,13 @@ CTF高质量PWN题之二叉树的漏洞利用 - yjlabs的文章 - 知乎
 https://zhuanlan.zhihu.com/p/434745218
 
 [hahbiubiubiub]: https://hahbiubiubiu.github.io/MyBook/#/
+
+[Instrumentation 与 Profiling | CSDN]: https://blog.csdn.net/fenng/article/details/81362183?fromshare=blogdetail&sharetype=blogdetail&sharerId=81362183&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
+
+看到有反馈说到《Oracle性能诊断艺术》中对于 Instrumentation 这个词的翻译问题。说实话，对这个词的处理当初挺让我头疼，这是个可以意会但很难用一个中文词汇对应的术语，一些翻译词典或是已有的翻译作品对这个词的处理也是五花八门。在图灵著译俱乐部里面提问得到很多回答（这里要致谢！）。权衡再三，最后根据整个章节的重点以及上下文选择用 “性能测量”。
+
+我不喜欢用有些人说的测试领域内所用的术语”插桩”，实在是有点诡异。当然，如果这个词不翻译的话，或许更好。
+
+另一个比较难以处理的就是 “Profiling” ，根据维基百科的解释 ，这个词指”动态程序分析的一种形式…根据程序执行收集到的信息调查程序的运行行为，通常用来查找程序中的瓶颈”。最后我用了”剖析”。(Updated: 中文是 “性能分析“。不过我觉得似乎有点容易混淆。)
+
+这两个词很有趣，任何一个程序或者软件项目构建的初期，如果没有考虑 Instrumentation ，在程序或项目交付后，又不能做 Profiling ，那么这个程序或者项目肯定会是灾难。所以，能对 DBA 着重强调一下这一点或许要比看更多的同质化内容更有价值。

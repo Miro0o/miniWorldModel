@@ -10002,6 +10002,11 @@ mettle
 - mettlesome
 - mettled
 
+millet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+-  来自拉丁语 milium,黍类，粟，词源同 mill,mallet.
+- n. 稷, 粟, 黍
+- mele-
+
 mine
 - undermine
 	- **subvert**推翻;**weaken**减少;**jeopardize**危及, 损害;**discredit**败坏…的名声;**threaten**威胁;**erode**腐蚀，侵蚀;**undercut**廉价出售;**disrupt**使分裂;**impede**阻止;**thwart**反对;**destroy**毁坏;
@@ -11190,22 +11195,7 @@ plight
 - 2 - 来自古法语 pleit,情况，来自拉丁语 plicare,卷入，卷进，词源同 ply,complex.后主要用于指坏的情况，引申词义苦难，困境。词义部分受到上一词义的影响。
 
 pluck
-- n. 勇气；内脏；快而猛的拉
-- vt. 摘；拔；扯
-- vi. 拉；拽；扯
-- [gutsiness](dic://gutsiness), [pluckiness](dic://pluckiness)
--  [tweak](dic://tweak), [pull off](dic://pull off), [pick off](dic://pick off)
-- [hustle](dic://hustle), [roll](dic://roll)
--  [overcharge](dic://overcharge), [soak](dic://soak), [surcharge](dic://surcharge), [gazump](dic://gazump), [fleece](dic://fleece), [plume](dic://plume), [rob](dic://rob), [hook](dic://hook)
-- [plunk](dic://plunk), [pick](dic://pick)
--  [pull](dic://pull), [tear](dic://tear), [deplume](dic://deplume), [deplumate](dic://deplumate), [displume](dic://displume)
--  [pick](dic://pick), [cull](dic://cull)
-- _n._ [fearlessness](dic://fearlessness), [pull](dic://pull), [pulling](dic://pulling)
-- _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force), [steal](dic://steal), [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel)
-- **pull**拉;**courage**勇气;**snatch**抢夺;**pick**挑选;**scrape**用工具刮;**sprout**长芽;**audacity**厚颜无耻;**comb**梳子;**chop**砍;**prune**修剪;**guts**飞碟游戏;
-- But their eyes and hair colours aren't just plucked out of the air. /不过他们头发和眼睛的颜色可不是随便决定的。
-- I thought about plucking out her eyes. /我本想挖出她的眼睛。
-- But you cannot pluck the stars from heaven. /可你却不能摘下这些星星呀！
+- pill-
 
 plunder (plunge, plunk, plunger, plank, pluck)
 - pill-
@@ -17776,6 +17766,29 @@ writhe (wither, wind-)
 
 
 ## Y
+yank
+- v. 猛拉
+- 1 - 词源不详。
+-  [Yankee](dic://Yankee), [Yankee-Doodle](dic://Yankee-Doodle)
+-  [jerk](dic://jerk)
+- _n._ [American](dic://American)
+- _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force)
+- **pull**拉;**shove**推, 猛推, 乱推;**pulling**振荡器频率牵引;**rip**撕;**pry**打听;**pulled**牵引的;**grab**攫取;**push**推动;**pluck**摘;**slap**掌击;**tugging**牵引感;
+- She yanked the lid off the tin. /她猛一下拉掉了金属盒的盖子。
+- Did you mean what you said, or were you just yanking my chain? /你是说真的呢，还是逗我玩？
+- She gave the rope a yank. /她猛拉了一下绳子。
+- He was yanked out of the house and bundled into a car. /他被人从房子里拽了出来塞进一辆汽车。
+- He yanked out a loose tooth. /他猛拔出一颗松动了的牙
+- Liz yanked at her arm. /利兹拉了拉她的手臂。
+- No, just starting. So you got your big case yanked? /没有 才刚开始呢 所以你的大案子被否决了？
+- So, my main hobby is football, or soccer to the yanks. /我最大的爱好是足球，美国人说的足球是soccer。
+- No gym shorts that can be yanked down. Or worse, up. /不用穿可能会被人脱的体育短裤, 或更惨，被人用力往上提。
+- And yank your screaming deer soul back! /把你尖叫的灵魂抓回来！
+- He yanked his arms free. " Grow" ! he cried. /他用力挣脱了双臂。" 长！" 他大声叫道。
+- That squirting flower really yanked my chain. /那个喷水的整人花真是伤我自尊心了。
+- And, of course, the quickest way to tell a Yank from a Brit is by pronunciation. /当然，区分美国人和英国人最快的方法是通过发音。
+- Could someone help out with a yank? /谁能拉我一把吗?
+
 yeast
 - n. 酵母
 - 1 - 来自 PIE*yes,涌出，冒泡，用于指发酵，酵母，词源同 juice,zymurgy.
@@ -17801,6 +17814,49 @@ yeast
 - yeastiness
 
 yield
+- [output](dic://output)
+- [output](dic://output)
+-  [return](dic://return), [issue](dic://issue), [take](dic://take), [takings](dic://takings), [proceeds](dic://proceeds), [payoff](dic://payoff)
+- [output](dic://output), [production](dic://production)
+-  [give](dic://give), [afford](dic://afford)
+- [give way](dic://give way)
+-  [render](dic://render), [return](dic://return), [give](dic://give), [generate](dic://generate)
+- [concede](dic://concede), [cede](dic://cede), [grant](dic://grant)
+- [relent](dic://relent), [soften](dic://soften)
+- [move over](dic://move over), [give way](dic://give way), [give](dic://give), [ease up](dic://ease up)
+- [give](dic://give)
+- [concede](dic://concede), [grant](dic://grant)
+- [succumb](dic://succumb)
+- [pay](dic://pay), [bear](dic://bear)
+- [give](dic://give)
+-  [give in](dic://give in), [succumb](dic://succumb), [knuckle under](dic://knuckle under), [buckle under](dic://buckle under)
+- _n._ [production](dic://production), [product](dic://product), [income](dic://income), [indefinite quantity](dic://indefinite%20quantity)
+- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [change](dic://change), [produce](dic://produce), [make](dic://make)
+- _n._ [stand](dic://stand), [remain firm](dic://remain%20firm)
+- [crop](dic://crop) 普通用词，侧重指农作物一次收割或一季的收成。  
+- [harvest](dic://harvest) 主要指农作物或水果的收获量，有时也指收割的行为。  
+- [yield](dic://yield) 指生产物，农作物的总产量。
+- **produce**生产;**results**结果;**dividend**股息;**optimum**最适宜的;**generate**使形成;**increase**增加，增长;**annualized**按年计算的;**soybean**大豆;**reap**收割;**optimal**最理想的;**crop**农作物;
+- _high yield_ 高产；高收益
+- _yield strength_ 屈服强度；屈变力；抗屈强度
+- _low yield_ 低产，低产量；低良率
+- _product yield_ 产品产量；成品收率
+- _crop yield_ 粮食产量，作物产量；谷物收获量
+- _yield rate_ 收益率；生利率
+- _yield stress_ 屈服应力
+- _yield curve_ 收率曲线
+- _sediment yield_ 产沙量；泥砂生产量
+- _yield per unit_ 单位面积产量
+- _extraction yield_ 提取率，萃取率
+- _water yield_ 出水量
+- _yield point_ 屈服点；降伏点
+- _yield ratio_ 成功率；屈服比；产额比
+- _quantum yield_ [物化]量子产率
+- _yield loss_ 成品率损失；收获损失，收得率损失
+- _yield limit_ [化]屈服极限；流动性范围
+- _dividend yield_ 股息生息率（每股股利与目前价格的比率）
+- _yield surface_ 屈服面；本构模型屈服面；屈服曲面；生长曲面
+- _yield up_ 被迫放弃；交出；展现；放纵
 yielding, unyielding
 
 
@@ -17824,6 +17880,8 @@ zest
 	- _n._ [spiritless](dic://spiritless)
 	- **exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**spirited**生机勃勃的;**joyous**令人高兴的;**cheerful**高兴的;**zest**风味;**joyful**欢喜的;**youthful**年轻的;**vigorous**有力的;**playful**爱嬉戏的;
 	- _[pleasantly zestful](dic://pleasantly%20zestful)_ 浓烈可口的
+	- Characters watched the approach of ore-bearing asteroids with zestful smiles. /角色望着储有矿藏的行星带露出“热情的”微笑。
+	- For me, it was the literary equivalent of a smallpox vaccination: I have never, so far as I know, used the word zestful in a novel or a story. God willing, I never will /For me, it was the literary equivalent of a smallpox vaccination: I have never, so far as I know, used the word zestful in a novel or a story. God willing, I never will
 	- zestfulness
 	- zestfully
 

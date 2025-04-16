@@ -352,3 +352,13 @@ Fuzzing的很重要的一部分就是调试崩溃和修复漏洞。这个和fuzz
 		- A generator, to provide predicted or expected results for each test.
 		- A comparator, to compare predicted and obtained results.
 		- An evaluator, to determine whether the comparison results are sufficiently close to be a pass.
+
+[Instrumentation 与 Profiling | CSDN]: https://blog.csdn.net/fenng/article/details/81362183?fromshare=blogdetail&sharetype=blogdetail&sharerId=81362183&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
+
+看到有反馈说到《Oracle性能诊断艺术》中对于 Instrumentation 这个词的翻译问题。说实话，对这个词的处理当初挺让我头疼，这是个可以意会但很难用一个中文词汇对应的术语，一些翻译词典或是已有的翻译作品对这个词的处理也是五花八门。在图灵著译俱乐部里面提问得到很多回答（这里要致谢！）。权衡再三，最后根据整个章节的重点以及上下文选择用 “性能测量”。
+
+我不喜欢用有些人说的测试领域内所用的术语”插桩”，实在是有点诡异。当然，如果这个词不翻译的话，或许更好。
+
+另一个比较难以处理的就是 “Profiling” ，根据维基百科的解释 ，这个词指”动态程序分析的一种形式…根据程序执行收集到的信息调查程序的运行行为，通常用来查找程序中的瓶颈”。最后我用了”剖析”。(Updated: 中文是 “性能分析“。不过我觉得似乎有点容易混淆。)
+
+这两个词很有趣，任何一个程序或者软件项目构建的初期，如果没有考虑 Instrumentation ，在程序或项目交付后，又不能做 Profiling ，那么这个程序或者项目肯定会是灾难。所以，能对 DBA 着重强调一下这一点或许要比看更多的同质化内容更有价值。

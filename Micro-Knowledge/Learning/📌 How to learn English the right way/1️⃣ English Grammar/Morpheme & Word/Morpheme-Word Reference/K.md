@@ -7895,20 +7895,21 @@
 		2. 三溴苯酚铋 
 		3. 干仿
 	2. xerox
-		1. [xerox copy](dic://xerox copy)
-		2.  [xerographic copier](dic://xerographic copier), [Xerox machine](dic://Xerox machine)
-		3. [photocopy](dic://photocopy), [run off](dic://run off)
-		4. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
-		5. _v._ [reproduce](dic://reproduce)
-		6. [xerox](dic://xerox) 指用静电复印或用静电印刷术复制。  
-		7. [copy](dic://copy) 着重模仿者的有意识行为或模仿得尽可能接近原件。   
-		8. [duplicate](dic://duplicate) 指对原件进行复制或复印，侧重结果与原件一模一样。 
-		9. **photocopy**影印本;**inkjet**喷墨打印机;**fax**传真;**printer**打印机;**copy**复制;**print**印刷业;**printing**印刷;**typewriter**打字机;**printers**打印机;**toner**调色剂，增色剂;**facsimile**副本;
-		10. _fuji xerox_ 富士施乐（复印机公司）
-		11. Xerox these documents,please. /请把这些文件复印一下。
-		12. The abrupt corrupt man had the Xeroxed code corroded in the erosion episode. /唐突的腐败的男人将被复印的代码侵蚀在一段腐蚀情节中。
-		13. I found a page missing in the defense's xerox. /我发现被告的复印文件缺了一页。
-		14. I think you xeroxed the entire newspaper. /你把整张报纸都复印了。
+		1. xerox - 这是专有名词转化为普通名词的又一例。美国物理学家卡尔森（Chester F. Carlson, 1906-1968）于1938年发明了静电复印术，1940年取得了专利。此后四年中他一直试图说服别人购买并继续发展他的发明，但未能成功，先后被20多家公司拒绝。1947年哈罗伊德（Haloid）公司取得静电复印术的商业权利，“静电复印术”在英语中作xerography，它源于希腊词xēròs 'dry'（干燥）。基于xerography产生的Xerox在1952年注册为商标。1958年该公司制出了第一台公文复印机，并在此后大批生产。1961年该公司易名为Xerox公司，汉译常作“施乐公司”。卡尔森由于有专利使用权并在该公司拥有股份而成为百万富翁。由于Xerox这一商标名在西方国家流传甚广，今天它除了指商标外，更多地用以泛指“静电复印机”，或指“静电复制品”，甚至还常常用作动词，表示“用静电复印术复制”，当然其首字母也随之由大写变为小写。
+		2. [xerox copy](dic://xerox copy)
+		3.  [xerographic copier](dic://xerographic copier), [Xerox machine](dic://Xerox machine)
+		4. [photocopy](dic://photocopy), [run off](dic://run off)
+		5. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		6. _v._ [reproduce](dic://reproduce)
+		7. [xerox](dic://xerox) 指用静电复印或用静电印刷术复制。  
+		8. [copy](dic://copy) 着重模仿者的有意识行为或模仿得尽可能接近原件。   
+		9. [duplicate](dic://duplicate) 指对原件进行复制或复印，侧重结果与原件一模一样。 
+		10. **photocopy**影印本;**inkjet**喷墨打印机;**fax**传真;**printer**打印机;**copy**复制;**print**印刷业;**printing**印刷;**typewriter**打字机;**printers**打印机;**toner**调色剂，增色剂;**facsimile**副本;
+		11. _fuji xerox_ 富士施乐（复印机公司）
+		12. Xerox these documents,please. /请把这些文件复印一下。
+		13. The abrupt corrupt man had the Xeroxed code corroded in the erosion episode. /唐突的腐败的男人将被复印的代码侵蚀在一段腐蚀情节中。
+		14. I found a page missing in the defense's xerox. /我发现被告的复印文件缺了一页。
+		15. I think you xeroxed the entire newspaper. /你把整张报纸都复印了。
 	3. xerocopy
 		1. _n._ (静电)复印件
 	4. xeransis

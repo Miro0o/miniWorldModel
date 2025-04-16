@@ -2453,8 +2453,18 @@
 		7. provoke laughter /引起一阵大笑
 		8. a deliberate attempt to provoke conflict /蓄意挑起冲突的企图。
 		9. provocate
-		10. unprovoked, thought-provoking
-		11. provoking
+			1. _vt._ 激怒,刺激,惹起
+		10. unprovoked
+			1. un-不，非 + provoke【挑衅】 + -ed表形容词。
+			2. a. 未受挑衅的, 无正当理由的
+			3. _adj._ [unmotivated](dic://unmotivated)
+			4. _n._ [motivated](dic://motivated)
+			5. **provocation**激怒;**unjustified**不公正的;**provoked**激起;**retaliation**报复;**attack**攻击;**vicious**恶的, 邪恶的;**unwarranted**没有根据的, 无正当理由的;**attacks**攻击，评击;**belligerent**好战的;**violent**猛烈的;**senseless**无感觉的;
+			6. Captain Bill Urban, a spokesman for the U.S. Central Command, called the incident an unprovoked attack. /美国中央司令部发言人比尔·厄本上尉称该事件为" 无端袭击。"
+			7. President Muhammadu Buhari described the attack on Sheikh Goni Aisami as an unprovoked and cold-blooded murder. /总统穆罕默杜·布哈里称，对谢赫·戈尼·艾萨米的袭击事件是无端和冷血的谋杀。
+			8. Why would ben just come and hit you unprovoked? /本为什么会来无缘无故地打你啊？
+		11. thought-provoking
+		12. provoking
 			1. _adj._ [provocative](dic://provocative)
 			2. _n._ [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking)
 			3. **provocative**刺激的;**thought-provoking**引起思考的,发人深省的;**insightful**有深刻见解的;**enlightening**有启迪的;**stimulating**刺激的;**engaging**迷人的;**poignant**尖锐的;**entertaining**有趣的;**inciting**刺激的;**amusing**有趣的，好玩的;**inspiring**鼓舞人的;
@@ -2462,7 +2472,7 @@
 			5. The dog is very dangerous when it is provoked. /狗被激怒时是非常危险的。
 			6. We publish new, thought provoking films every week. /每周我们都会发布思想激荡的新片。
 			7. I'm constantly surprised that women's hats do not provoke more murders. /我一直很奇怪，女人的帽子怎么会没给自己招来杀身之祸呢。
-		12. provocative
+		13. provocative
 			1. _adj._ [agitative](dic://agitative), [agitating](dic://agitating), [provoking](dic://provoking), [challenging](dic://challenging), [intriguing](dic://intriguing), [charged](dic://charged), [incendiary](dic://incendiary)
 			2. _n._ [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking), [unsexy](dic://unsexy)
 			3. **thought-provoking**引起思考的,发人深省的;**provoking**令人生气的;**irreverent**不敬的;**witty**诙谐的;**insightful**有深刻见解的;**controversial**有争议的, 引起争议的;**audacious**大胆的, 有冒险精神的;**edgy**尖利的;**confrontational**对抗;**subversive**破坏性的;**suggestive**提示性的;
@@ -2473,8 +2483,8 @@
 			8. Marianne, with her lush body and provocative green eyes /玛丽安娜有着性感的体形和勾人的碧眼。
 			9. It is at this point that the book becomes provocative./ 正是在这一点上，这本书变得有争议性。
 			10. That question has never been more pressing, or more provocative. /这个问题从未像现在这样不容忽视，也从未像现在这样引人深思。
-		13. provocation, provocateur
-	11. invoke (implore, entreat, )
+		14. provocation, provocateur
+	11. invoke
 		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
 		2. 1 - in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引，提及。
 		3. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down), [arouse](dic://arouse), [bring up](dic://bring up), [put forward](dic://put forward), [call forth](dic://call forth)
@@ -2488,7 +2498,7 @@
 		11. invocatory
 			1. _adj._ 祈求的,祈愿的
 		12. invocation
-	13. revoke
+	12. revoke
 		1. re-向后，往回 + vok-=voc-说话 → 引申词义撤消，废除。
 		2. vt. 撤回, 废除  
 		3. vi. 藏牌  
@@ -2513,7 +2523,7 @@
 			7. an irrevocable step. /决定性的一步。
 			8. We usually go for the irrevocable one, it's the most popular /我们通常选择不可撤销的那种，它是用得最多的。
 			9. A recognition of irrevocable change in the very public deadness of the deceased. /承认死者在公共死亡方面发生不可逆转的变化。
-	14. evoke
+	13. evoke
 		1.  [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [fire](dic://fire), [raise](dic://raise), [provoke](dic://provoke)
 		2.  [provoke](dic://provoke), [call forth](dic://call forth), [kick up](dic://kick up)
 		3.  [educe](dic://educe), [elicit](dic://elicit), [extract](dic://extract), [draw out](dic://draw out)
@@ -2527,7 +2537,7 @@
 		11. songs that evoke old memories. /唤起往日回忆的歌曲
 		12. evoke a spirit from the dead /为死者招魂
 		13. evocatory, evocator, evocative,, evocation
-	15. equivocate (prevaricate, equivocate, )
+	14. equivocate (prevaricate, equivocate, )
 		1. _v._ [misinform](dic://misinform), [mislead](dic://mislead)
 		2. **refute**反驳，驳斥;**denounce**谴责;**misunderstand**误会, 误解;**disingenuous**不真诚的;**criticize**评论, 批评;**exaggerate**扩大, 增加;**contradict**矛盾;**rationalize**使合理化;**condemn**判刑，定罪;**confuse**使混乱;**concede**承认;
 		3. _[equivocate](dic://equivocate)_  vi. 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
@@ -2564,20 +2574,20 @@
 			1. _[equivoque](dic://equivoque)_  n. 双关语；措辞含糊（等于equivoke）
 		13.  equivoke
 		14. _[equivoke](dic://equivoke)_  n. 双关语（模棱两可的话）
-	16. semivocal
+	15. semivocal
 		1. _[semivocal](dic://semivocal)_ 半元音的; 半圆音的; 半圆音;
-	17. subvocal
-	18. univocal
+	16. subvocal
+	17. univocal
 		1. admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
 			1. an unequivocal (or univocal) statement
 			2. _synonymous：_ [unequivocal](dic://unequivocal), [unambiguous](dic://unambiguous)
 		2. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable)
 		3. **paradoxical**似是而非的 矛盾的 诡论的;**unambiguous**不含糊的;**dogmatic**教条的;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**unequivocal**只有一种含意的;**deterministic**确定的;**contradiction**矛盾;**normative**标准的;**ontology**本体论;**ambiguous**模棱两可的;**metaphysical**形而上学的,纯粹哲学的,超自然的;
 		4. The main norm to follow is the **univocal** characteristic, and all is guided by the theory of the modern linguistics. /术语规范化应遵循的主要标准是术语的单义性，并在规范化过程中以现代语言学理论为指导。
-	19. vocable
-	20. vocabulary
-	21. vocal
-	22. vocation
+	18. vocable
+	19. vocabulary
+	20. vocal
+	21. vocation
 		1. voc-声音 + -ation名词后缀 → [受到]召唤 → 有职业。
 		2.  来自拉丁语 vocare,说，呼唤，词源同 voice,vow.原义为灵魂的召唤，引申词义职业。词义演变参照 calling,召唤，使命感，职业。
 		1. [career](dic://career), [calling](dic://calling)
@@ -2585,7 +2595,7 @@
 		3. _n._ [occupation](dic://occupation), [business](dic://business), [job](dic://job), [line of work](dic://line of work), [line](dic://line), [body](dic://body)
 		4. **profession**职业;**priesthood**神职;**priestly**祭司的;**vocational**职业的;**holiness**神圣;**seminary**神学院;**discernment**识别能力;**pastoral**田园的;**spirituality**精神性,灵性;**ministry**部门;**apostolic**使徒的;
 		5. vocative
-	20. vociferate
+	22. vociferate
 		1. voc-声音，呼唤 + fer-带来 + -ate, 表动词
 		2. v. （抱怨地）喊叫，大叫，大声呼叫
 		3. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to)
@@ -2607,8 +2617,8 @@
 			10. The Mallards are vociferous, waddling through the puddles. /绿头鸭大声喧哗，摇摇晃晃地穿过水坑。
 			11. There was a clear and vociferous faction in Athens when the Parthenon was built, which said the money shouldn't be spent that way. /神庙修建时，雅典城内反对的声音很大，认为不能这样挥霍钱财。
 			12. Joining him in the Forward Party is a former New Jersey governor Christine Todd Whitman, who was a republican turned vociferous critic of former president Donald Trump. /加入进步党的还有前新泽西州州长克里斯汀·托德·惠特曼，他是一名共和党人，后来成为前总统唐纳德·特朗普的激烈批评者。
-	21. vocoder
-	22. voice
+	23. vocoder
+	24. voice
 		1. 和词根voc-【声音】有关。在希腊神话里，斯腾托尔（Stentor）是个勇敢的战士，他有着一副铜嗓子，他一个人喊起来，可以抵得上50个人的声音，后来就用voice of Stentor表示“大嗓门”。
 		2. n. 声音, 嗓音, 嗓子, 愿望, 发言权, 表达, 喉舌, 语态  
 		3. vt. 表达, 吐露, 调音
@@ -2647,7 +2657,7 @@
 		29. pseudovoice
 		30. outvoice
 		31. gravel-voiced
-	23. vowel
+	25. vowel
 		1. n. 元音  
 		2. a. 元音的
 		3. semivowel
@@ -6606,7 +6616,7 @@
 		1. 肺出血
 
 
-### + \*wret- +
+### ⭐ + \*wret- +
 172. **re-** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。源自拉丁语 re-, red- "backward, again."
 	1. reassumption
 		1. _[reassumption](dic://reassumption)_  n. 再假定；再接受；取回
@@ -6623,6 +6633,68 @@
 		10. The captain's confidence during the storm reassured the passengers. /在风暴中船长的信念使旅客们恢复了信心。
 		11. Cecily, you have greatly reassured me. /塞西莉，你这就让我十分放心了。
 		12. I heard myself speaking in reassuring platitudes. /我听到自己说出这些陈腔滥调。
+	3. rebarbative
+	4. etc.
 173. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
 	1. retro-rocket
-	2. retroat
+	2. retroact
+		1.  retroactivity
+			1. n. 追溯既往
+	3. retrocede
+		1. vi. 后退, 退却, 内攻, 隐退  
+		2. vt. 交还, 恢复, 归还
+		3. retrocession
+			1. n. 交还, 后退
+	4. retrofit
+		1. n. 式样翻新  
+		2. vt.vi. 式样翻新
+		3.  retro-,向后，fit,匹配，装配。引申词义翻新，改造。
+	5. retroflection
+		1. n. 反曲, 翻转, 后屈
+	6. retroflex
+	7. retrograde
+		1. a. 后退的, 倒退的, 退步的  
+		2. vi. 倒退, 退步, 回顾
+		3. retro-向后，往回 + grad-走，往回走，引申词义倒退，退化。
+	8. retrogress
+		1. _v._ [worsen](dic://worsen), [decline](dic://decline), [revert](dic://revert), [return](dic://return), [retrovert](dic://retrovert), [regress](dic://regress), [turn back](dic://turn%20back)
+	9. retroject
+		1. - vt. 向后抛；回想；掷回
+	10. retropack
+	11. retropulsion
+	12. retrorse
+		1. a. 反弯的, 反向的, 向下弯的
+	13. retrospect
+		1. n. 回顾, 追忆, 回溯  
+		2. v. 回顾, 追忆
+		3. retro-向后，往回 + spect-看 → 向后看。
+		4. _n._ [contemplation](dic://contemplation), [reflection](dic://reflection), [reflexion](dic://reflexion), [rumination](dic://rumination), [musing](dic://musing), [thoughtfulness](dic://thoughtfulness)
+		5. _v._ [remember](dic://remember), [think back](dic://think%20back)
+		6. **hindsight**事后的觉悟;**perhaps**也许;**though**可是，虽然;**thought**思想;**however**无论如何;**frankly**真诚地，坦白地;**suppose**假设;**disconcerting**困惑的, 不安的, 尴尬的;**ironic**讽刺的;**think**想;**fact**事实;
+		7. _in retrospect_ 回顾；回顾往事；检讨过去
+		8. retrospective
+		9. retrospection
+	14. retrovert
+		1. vt. 向后弯曲, 使倒退
+		2. retroversion
+	15. arrear
+		2. n. 逾期债款, 欠帐, 未做之事, 储备物
+		3. arrears
+		4. arrearage
+	16. rear
+		5. n. 后面, 背后, 后方  
+		6. a. 后面的, 背面的, 后方的  
+		7. vt. 养育, 培养, 饲养, 举起, 树立, 栽种  
+		8. vi. 高耸, 暴跳
+		9.  来自（缩写自）拉丁语 retro,后面的，词源同 retroactive,retrospect.引申俚语词义屁股。  
+		10. 2 - 来自古英语 raeran,升起，上升，来自 Proto-Germanic*risana,上升，举起，来自 PIE*rei,上升，举起，词源同 rise,raise.引申词义抚养，养育。
+		11. uprear
+		12. rearward
+			1. rearwards
+		13. rearmost
+		14. rearing
+		15. hand-reared
+	17. retrotranslocation
+	18. retrotransposition
+	19. retroviral
+		16. retrovirus

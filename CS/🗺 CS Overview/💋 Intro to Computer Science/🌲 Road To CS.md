@@ -128,7 +128,7 @@ CS Core
 CS Sub-fields
 - ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
 - ↗ [Data Science](Data%20Science/Data%20Science.md)
-- ↗ [Embedded Development, Internet of Things & Robot](Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+- ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
 - ↗ [Human-Centered Computing](Human-Centered%20Computing/Human-Centered%20Computing.md)
 - ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
@@ -505,7 +505,7 @@ Software Engineering
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
 20. IoT /Hardware /Computer Engineering
-	1. ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+	1. ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
 	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	3. etc.
 21. Web3 /Metaverse /Cryptocurrency

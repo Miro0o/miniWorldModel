@@ -231,6 +231,16 @@ Russ Cox
 - [Programming project guidelines](https://swtch.com/~rsc/worknotes/)
 - [Spin & Plan 9](https://swtch.com/spin/)
 
+---
+https://owasp.org/projects/
+We are a community of developers, technologists and evangelists improving the security of software. The OWASP Foundation gives aspiring open source projects a platform to improve the security of software with:
+- Visibility: Our website gets more than six million visitors a year
+- Credibility: OWASP is well known in the AppSec community
+- Resources: Funding and Project Summits are available for qualifying Programs
+- Community: Our Conferences and Local Chapters connect Projects with users
+
+OWASP Projects are a collection of related tasks that have a defined roadmap and team members. Our projects are open source and are built by our community of volunteers - people just like you! OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has over 100 active projects, and new project applications are submitted every week.
+
 
 ### Info & Res & News
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)

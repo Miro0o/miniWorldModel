@@ -2338,12 +2338,12 @@
 			8. malleableness
 			9. malleability
 			10. immalleable
-	3. mallet (pullet, pellet, pallet, mullet, millet, ballet)
+	2. mallet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 		1. **hammer**敲打;**hammers**锤子;**axe**斧;**shank**胫;**rubber**橡胶;**screwdriver**螺丝起子;**wooden**木制的;**tongs**夹具;**spear**矛，枪;**paddles**划浆;**fist**拳头;
 		2. malletfinger
-	5. malleus
+	3. malleus
 		1. **femur**股骨;**vertebrae**椎骨;**skull**头盖骨，脑壳;**bony**骨的;
-	6. emolument
+	4. emolument
 		1. **remuneration**酬报,酬劳;**patronage**赞助;**stipend**固定薪金;**prestige**威望，声望;
 		2. _[emolument](dic://emolument)_  n. 薪水，报酬
 		3. _[official emolument](dic://official%20emolument)_ 官职薪酬; 公职薪俸; 薪俸;
@@ -2352,10 +2352,10 @@
 		6. _[taxable emolument](dic://taxable%20emolument)_ 应课税薪俸
 		7. _[substantive emolument](dic://substantive%20emolument)_ 实职薪俸
 		8. _[directors emoluments](dic://directors%20emoluments)_ 董事酬金
-	7. malleolar, 
+	5. malleolar, 
 		1. adj. 踝的
 		2. etc..
-	8. malleolus
+	6. malleolus
 		1. 内踝
 		2. etc..
 2. **mol-** = meal, 表示“饭”。源自拉丁语 molere "to grind."
@@ -2415,6 +2415,19 @@
 	25. lumber-mill
 	26. gristmill
 	27. coffeemill​​​​
+6. millet
+	1. - 来自拉丁语 milium,黍类，粟，词源同 mill,mallet.
+	2. n. 稷, 粟, 黍
+	3. n. 小米，粟；稷，黍的子实；黍类
+	4. _n._ [cereal](dic://cereal), [cereal grass](dic://cereal%20grass), [painter](dic://painter), [grain](dic://grain), [food grain](dic://food%20grain)
+	5. **barley**大麦;**rice**稻;**wheat**小麦;**buckwheat**荞麦;**grains**双齿鱼叉，多齿鱼叉;**quinoa**藜麦;**lentils**扁豆;**oat**燕麦;**maize**黄色的，玉米色的;**grain**粮食;**flour**面粉;
+	6. _foxtail millet_ 谷子，粟
+	7. _broom corn millet_ 黍， 稷
+	8. Maise, millet and kaoliang adapt readily to varying natural conditions. /和高粱较易适应不同的自然条件。
+	9. Around 2,000 years ago, the five cereals were namely rice, broomcorn millet, millet, wheat, and beans. /大约两千年前五谷的排序为稻，黍，粽，麦，菽。
+	10. This millet and lamb dish is delicious /这道小米和羊肉菜很好吃。
+	11. Wheat, corn, rice, sorghum, millet, barley. /小麦、玉米、大米、高粱、小米、大麦。
+	12. Corn has become the staple, while the local sorghum, millets, bulbs and tubers are all gone. /玉米已经成为了主食，而当地的高粱、小米、球茎和块茎全都不见了。
 
 
 ### + \*mel- +
@@ -2483,16 +2496,21 @@
 		1. a. 麦芽的, 有麦芽的, 喝醉的
 6. **moll-** = soft, 表示“软”。
 	1. emollient
-		1. [cream](dic://cream), [ointment](dic://ointment)
-		2. [demulcent](dic://demulcent), [salving](dic://salving), [softening](dic://softening)
-		3. **lotion**洗液;**nourishing**有营养的,滋养多的;**balm**香油;**ointment**油膏;**cleanser**清洁剂;**soothing**使人宽心的;**anti-inflammatory**抗炎的;**lotions**洗液;**antibacterial**抗菌的;**oily**油的;**antioxidant**抗氧化剂;
+		1. a. 使柔软的  n. 软化剂, 润肤剂
+		2. e-出 + moll-软 + -i- + -ent表形容词 → 使东西软起来 → 软化剂。
+		3. [cream](dic://cream), [ointment](dic://ointment)
+		4. [demulcent](dic://demulcent), [salving](dic://salving), [softening](dic://softening)
+		5. **lotion**洗液;**nourishing**有营养的,滋养多的;**balm**香油;**ointment**油膏;**cleanser**清洁剂;**soothing**使人宽心的;**anti-inflammatory**抗炎的;**lotions**洗液;**antibacterial**抗菌的;**oily**油的;**antioxidant**抗氧化剂;
 	2. mollify
-		1. [pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
-		2. [temper](dic://temper), [season](dic://season)
-		3. [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
-		4. **appease**使平息;**soothe**安慰;**alienate**使疏远，离间;**persuade**说服，劝说;**reassure**使…安心，使消除疑虑;**quell**镇压;**dissuade**劝阻，劝止;**convince**使确信，使信服;**entice**诱使;**soften**使变柔软;**alleviate**缓和;
-		5. mollifier
-		6. mollification
+		1. vt. 安抚, 平息
+		2. moll-软 + -ify化 → 软化 → 抚慰。
+		3. 来自拉丁语 mollis,软的，词源同 melt,-fy,使。即使软下来，引申词义使平静，抚慰。
+		4. [pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
+		5. [temper](dic://temper), [season](dic://season)
+		6. [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
+		7. **appease**使平息;**soothe**安慰;**alienate**使疏远，离间;**persuade**说服，劝说;**reassure**使…安心，使消除疑虑;**quell**镇压;**dissuade**劝阻，劝止;**convince**使确信，使信服;**entice**诱使;**soften**使变柔软;**alleviate**缓和;
+		8. mollifier
+		9. mollification
 	3. mollusc
 		1. [mollusk](dic://mollusk), [shellfish](dic://shellfish)
 		2. **mollusk**软体动物;**gastropod**腹足动物,腹足纲的软体动物;**snails**腹足类;**snail**蜗牛;**vertebrate**脊椎动物;**shells**贝壳;**shellfish**贝;**larval**幼虫状态的;**freshwater**淡水的;**mussels**淡菜;**species**物种;
@@ -2519,51 +2537,83 @@
 		13. meltable
 		14. meltability
 		15. hotmelt
-	6. mollielast
-	7. mollient
-	8. molten
+	6. molten
 		1. semimolten
 		2. remolten
 		3. moltenslag
+	7. mollielast
+	8. mollient
 7. bland
+	1. 1 - 来自-mel,软的，见 melt,熔化。字母 m,b 音变。原指说软话的，奉承，讨好，后指温和的。
+	2. a. 温和的, 乏味的, 冷漠的
 8. maltha
 9. mild
 10. mulch
+	1. n. 覆盖物, 护根  vt. 铺护盖物, 做护根
 11. mutton
+	1. 来自古法语 mouton,山羊，来自 Proto-Celtic*moltos,山羊，公羊。后用以指羊肉。
+	2. pork（猪肉）：统治英国的法国贵族对猪的称呼  
+	3. 在英语中有一个有趣的现象，那就是对于猪、羊、牛等牲畜，表示动物的单词和表示其肉食的单词相差甚远，如pig（猪）和pork（猪肉）、sheep（绵羊）和mutton（羊肉）、cow（牛）和beef（牛肉）。这是为什么？原来，在11世纪时，法国诺曼底公爵率军入侵英格兰，成为了英格兰的国王。从此以后，英格兰的统治阶层变成了说法语的法国贵族，他们在表示”猪肉”、“羊肉”、“牛肉”等食品时，使用的是高贵的法语。这些法语单词后来逐渐进入英语，变成对这些肉食的称呼。而负责饲养牲畜的仆人一般是英国人，依然使用源自原始日耳曼语的古英语来称呼这些牲畜。久而久之，就造成了表示这些动物的英语单词和表示它们的肉的英语单词的不一致。  
+	4. pig：[pɪg] n.猪  
+	5. pork：[pɔːk] n.猪肉  
+	6. sheep：[ʃiːp] n.绵羊  
+	7. mutton：['mʌtn] n.羊肉  
+	8. cow：[kaʊ] n.牛  
+	9. beef：[biːf] n.牛肉
 12. schmaltz
+	1. n. 过于感伤的作品, 伤感
+	2. 来自依地语 shmalts,融化的猪油，来自高地德语 smalz,动物油脂，词源同 smelt,融化，熔炼。引申比喻义感伤，伤感。字母-s-在德语和依地语音变为-sch-.
 13. smelt
-14. amalgam
+	1. n. 胡瓜鱼  
+	2. vt. 精炼, 熔炼
+	3. 1 - 来自低地德语 smelten,熔化，熔炼，来自 Proto-Germanic*smeltana,熔化，融化，来自 PIE*smeld,熔化，融化，词源同 melt,meld.引申词义提炼金属。
+	4. _n._ [fish](dic://fish), [soft-finned fish](dic://soft-finned%20fish), [malacopterygian](dic://malacopterygian)
+	5. _v._ [produce](dic://produce), [make](dic://make), [create](dic://create)
+	6. **smelly**有臭味的，发臭的;**scent**气味;**stench**恶臭;**odour**气味;**scented**有气味的;**salmon**鲑鱼;**stinky**发恶臭的;**whiff**喷出;**sulphur**硫磺;**odor**气味;**stink**臭味;
+	7. The practice shows that smelting high grade ferrotitanium with rutile by thermite method is feasibl /实践证明，采用金红石铝热法生产高钛铁在技术上是完全可行的。
+	8. Carburant Carburant is a appellative of every kind of additive carbon materials that are used to smelt steel,iron products. /増碳剂  冶炼各种钢铁产品増炭材料的通称。
+	9. smeltery
+	10. smelting
+	11. smelter
+14. amalgam [美 /əˈmælɡəm/](cmd://Speak/_us_/amalgam)
 	1. n. 汞合金, 汞齐
-	2. amalgam（汞合金）：能够“点石成金”的神秘药膏  
-	3. 中世纪时，有些炼金术士宣称自己掌握了“点石成金”的本领。他们将一种神秘的药膏涂抹到铁、铜等贱金属的表面，过段时间后就会发现这些贱金属的表面金光闪闪，好像变成了黄金。这种能够“点石成金”的神秘药膏在阿拉伯语中被称为al-malgham（软化剂），可能来自希腊语malagma（软化物）。英语单词amalgam就来源于此。  
-	4. 这种神秘药膏其实是水银和黄金等贵重金属的合金，学名是“汞齐”，俗称“软银”。中国古代道教认为它是长生不老药的成分之一，可用于补牙。将汞齐涂抹到铁、铜金属表面后，汞齐里含有的水银会逐渐挥发，在金属表面留下一层贵金属的镀金，就能造成“点石成金”的假象。  
-	5. amalgam：[ə'mælgəm] n.汞合金，汞齐  
-	6. amalgamate：[ə'mælgəmeɪt] v.汞齐化，混合  
-	7. amalgamation： [ə,mælgə'meʃən] n. 融合，混合；合并，联合；混汞法，汞齐化法
-	8. amalgamator
-	9. amalgamative
-	10. amalgamation
-	11. amalgamating
-	12. amalgamate  (amalgamate, agglomerate, conglomerate)
-		1. v. 使汞齐化, 合并
-		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-		3. _adj._ [united](dic://united)
-		4. _n._ [divided](dic://divided)
-		5. **merged**结了婚的;**consolidate**巩固;**merge**合并;**combine**使联合，使结合;**merging**归并;**dissolve**使溶解;**incorporate**合并;**integrate**使结合成为整体;**unite**使…混合;**unify**统一;**assimilate**吸收, 消化;
-		6. _[amalgamating juice](dic://amalgamating%20juice)_ 复合果汁
-		7. _[amalgamate polymerization](dic://amalgamate%20polymerization)_ 非均相聚合
-		8. _[amalgamating plate](dic://amalgamating%20plate)_ 混汞板
-		9. _[amalgamate annex](dic://amalgamate%20annex)_ 指侵吞别国的领土或别人的产业
-		10. One thing you did say though, was like when you think about your identity, you like sort of amalgamating masculine and feminine. /你确实说过一件事，就像当你考虑你的身份时，你喜欢融合男性和女性。
-		11. These scattered fragments of humanity had never shown any desire to be amalgamated with the social structure. /这些分散的人类碎片从未表现出任何融入社会结构的愿望。
-		12. 
-	16. amalgamable
+	2. n. [采矿]汞合金，汞齐；混合物
+	3. amalgam（汞合金）：能够“点石成金”的神秘药膏  
+	4. 中世纪时，有些炼金术士宣称自己掌握了“点石成金”的本领。他们将一种神秘的药膏涂抹到铁、铜等贱金属的表面，过段时间后就会发现这些贱金属的表面金光闪闪，好像变成了黄金。这种能够“点石成金”的神秘药膏在阿拉伯语中被称为al-malgham（软化剂），可能来自希腊语malagma（软化物）。英语单词amalgam就来源于此。  
+	5. 这种神秘药膏其实是水银和黄金等贵重金属的合金，学名是“汞齐”，俗称“软银”。中国古代道教认为它是长生不老药的成分之一，可用于补牙。将汞齐涂抹到铁、铜金属表面后，汞齐里含有的水银会逐渐挥发，在金属表面留下一层贵金属的镀金，就能造成“点石成金”的假象。  
+	6. amalgam：[ə'mælgəm] n.汞合金，汞齐  
+	7. _n._ [alloy](dic://alloy), [metal](dic://metal), [combination](dic://combination)
+	8. **amalgamation**汞齐化;**fillings**填料;**mercury**水银;**dental**牙齿的，牙的;**concoction**混合;**amorphous**无定形的;**eclectic**兼收并蓄的;**fluoride**氟化物;**assemblage**聚集;**idiosyncratic**特殊物质的,特殊的,异质的;**juxtaposition**并置,并列;
+	9. _dental amalgam_ 银汞合金
+	10. Forest science is an amalgam of disciplines. /森林科学是多种学科的混合体。
+	11. An alloy with mercury in it is called an amalgam, and they're useful for all sorts of things. /含有汞的合金称为汞合金，它们可用于各种用途。
+	12. The iconic McDonald's burger is an amalgam of rent, electricity and labour, as well as beef, bread and cheese. /这款麦当劳的标志性汉堡是租金、电费、劳动力，还有牛肉、面包和奶酪的结合。
+	13. The name comes from Greek mythology, where chimera is an amalgam of three different animals.  /这个名字来自希腊神话，其中嵌合体是三种不同动物的混合物。
+	14. I mean, this stew is simply an amalgam of ingredients /我是说 炖鱼只是一锅大杂烩。
+	15. amalgamate (amalgamate, agglomerate, conglomerate)
+		1. amalgamate：[ə'mælgəmeɪt] v.汞齐化，混合  
+		2. v. 使汞齐化, 合并
+		3. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		4. _adj._ [united](dic://united)
+		5. _n._ [divided](dic://divided)
+		6. **merged**结了婚的;**consolidate**巩固;**merge**合并;**combine**使联合，使结合;**merging**归并;**dissolve**使溶解;**incorporate**合并;**integrate**使结合成为整体;**unite**使…混合;**unify**统一;**assimilate**吸收, 消化;
+		7. _[amalgamating juice](dic://amalgamating%20juice)_ 复合果汁
+		8. _[amalgamate polymerization](dic://amalgamate%20polymerization)_ 非均相聚合
+		9. _[amalgamating plate](dic://amalgamating%20plate)_ 混汞板
+		10. _[amalgamate annex](dic://amalgamate%20annex)_ 指侵吞别国的领土或别人的产业
+		11. One thing you did say though, was like when you think about your identity, you like sort of amalgamating masculine and feminine. /你确实说过一件事，就像当你考虑你的身份时，你喜欢融合男性和女性。
+		12. These scattered fragments of humanity had never shown any desire to be amalgamated with the social structure. /这些分散的人类碎片从未表现出任何融入社会结构的愿望。
+	16. amalgamation： [ə,mælgə'meʃən] n. 融合，混合；合并，联合；混汞法，汞齐化法
+	17. amalgamator
+	18. amalgamative
+	19. amalgamation
+	20. amalgamating
+	21. amalgamable
 #### + \*mel- (2) + = of darkish color
 1. swart (misc)
 2. tenebrous
-3. \*nekwt- **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
-4. 
-5. **melan-** = black
+	1. \*nekwt- **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+3. **melan-** = black
 	1. melancholia
 		1. melancholic
 		2. melancholy
@@ -2608,7 +2658,7 @@
 		7. melanotic, ameanotic
 		8. melanocortin
 	3. Melanesian
-6. mullet
+4. mullet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 	1. - n. 胭脂鱼；鲻鱼；乌鱼
 	2.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
 	3.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)

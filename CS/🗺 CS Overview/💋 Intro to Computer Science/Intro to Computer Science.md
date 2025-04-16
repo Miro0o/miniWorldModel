@@ -413,7 +413,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 - ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 - ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 - ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-- ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+- ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
 
 
 ### How to learn CS ? (🤔 Questions Leading my CS Study)
@@ -476,7 +476,7 @@ These questions, from general to specific, speaks the path of what i think every
 		4. etc.
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-	4. ↗ [Embedded Development, Internet of Things & Robot](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Embedded%20Development,%20Internet%20of%20Things%20&%20Robot.md)
+	4. ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
 	5. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	6. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	7. ↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)

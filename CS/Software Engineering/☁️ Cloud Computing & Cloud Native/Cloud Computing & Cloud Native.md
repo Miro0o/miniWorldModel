@@ -10,7 +10,7 @@
 ↗ [Network Virtualization](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/Cloud%20Security/Cloud%20Security.md)
-↗ [Edge & Frog Computing](../../Embedded%20Development,%20Internet%20of%20Things%20&%20Robot/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
+↗ [Edge & Frog Computing](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
