@@ -5,11 +5,8 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+↗ [Symbolic and Algebraic Manipulation](../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
 
 
 

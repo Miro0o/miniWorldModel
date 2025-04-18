@@ -83,7 +83,7 @@ More information: <https://manned.org/file>.
 ## File Breakup /Convert
 ### 👉 `binwalk` | `foremost` | `dd` | `iconv`
 #### binwalk
-↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Binary%20&%20Executable/binwalk.md)
+↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🩻%20SRE%20&%20Binary/binwalk.md)
 #### dd
 ```shell
 dd
