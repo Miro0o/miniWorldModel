@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Cryptology & Secure Communication](🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 ↗ [History of Computing](../🧠%20Computing%20Methodologies/History%20of%20Computing.md)

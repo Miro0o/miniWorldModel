@@ -20,7 +20,7 @@
 - etc.
 
 ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
-↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
+↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
 ↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
@@ -32,7 +32,7 @@
 ↗ [ML Programming & Frameworks](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
 ↗ [Computer Graphics Programming](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Concurrent Programming](../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
-↗ [Embedded Programming & Software Development](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Embedded%20Programming%20&%20Software%20Development/Embedded%20Programming%20&%20Software%20Development.md)
+↗ [Embedded Programming & Software Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Embedded%20Programming%20&%20Software%20Development.md)
 
 ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 ↗ [Galleries & Awesome SE](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)

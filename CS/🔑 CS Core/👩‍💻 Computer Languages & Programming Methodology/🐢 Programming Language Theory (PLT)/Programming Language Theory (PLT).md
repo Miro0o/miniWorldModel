@@ -12,10 +12,16 @@
 - ↗ [Theory of Computation](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 	- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
+
 
 ### Learning Resources
 https://www.zhihu.com/column/c_1463903401565749248
 编程语言与形式化 - 知乎专栏
+
+🏫 [程序设计语言的形式语义](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/程序设计语言的形式语义/程序设计语言的形式语义.md)
+
 
 
 ## Intro

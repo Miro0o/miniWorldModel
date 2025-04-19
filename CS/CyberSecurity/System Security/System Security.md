@@ -13,11 +13,11 @@
 
 
 ### Courses & Books
-🏫 [UCB /CS161 Computer Security](../../🗺%20CS%20Overview/Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
-🏫 [MIT /6.5660 Computer System Security](../../🗺%20CS%20Overview/Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
+🏫 [UCB /CS161 Computer Security](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
+🏫 [MIT /6.5660 Computer System Security](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
 
-🏫 [ASU /CSE466 Computer Systems Security](../../🗺%20CS%20Overview/Courses%20of%20Universities/ASU/CSE466%20Computer%20Systems%20Security.md)
-🏫 [ASU /CSE365 Introduction to Cybersecurity](../../🗺%20CS%20Overview/Courses%20of%20Universities/ASU/CSE365%20Introduction%20to%20Cybersecurity.md)
+🏫 [ASU /CSE466 Computer Systems Security](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/ASU/CSE466%20Computer%20Systems%20Security.md)
+🏫 [ASU /CSE365 Introduction to Cybersecurity](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/ASU/CSE365%20Introduction%20to%20Cybersecurity.md)
 
 
 

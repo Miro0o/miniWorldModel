@@ -9,7 +9,7 @@
 ↗ [Computer (IO Devices) Drivers & Programming](../Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 ↗ [FAQ /👉 Difference Between Computer Firmware 🆚 Drivers?](../Computer%20Interfaces%20&%20Hardware%20Drivers/FAQ.md#👉%20Difference%20Between%20Computer%20Firmware%20🆚%20Drivers?)
 
-↗ [QEMU](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU/QEMU.md)
+↗ [QEMU (Quick EMUlator)](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU%20(Quick%20EMUlator)/QEMU%20(Quick%20EMUlator).md)
 ↗ [JTAG（Joint Test Action Group）Debugger](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers/JTAG（Joint%20Test%20Action%20Group）Debugger.md)
 
 

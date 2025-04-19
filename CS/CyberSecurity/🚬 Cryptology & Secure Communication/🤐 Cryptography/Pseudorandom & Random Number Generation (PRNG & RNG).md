@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Chaos Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Chaos%20Theory/Chaos%20Theory.md)
 
 ↗ [Stream Cipher Design](Modern%20Cryptography/📌%20Symmetric%20Cipher/Stream%20Cipher%20(Sequence%20Cipher)/📌%20Stream%20Cipher%20Design/Stream%20Cipher%20Design.md)

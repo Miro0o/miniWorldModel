@@ -13,6 +13,8 @@
 ↗ [CSS & HTML UI Design & Frameworks](../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
 ↗ [Color & Layout Design](../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 
+↗ [reveal.js](../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
+
 
 ### Diagrams & Charts Related Resources
 
@@ -25,6 +27,9 @@ https://rawgraphs.github.io
 ### Others
 https://searchthedeck.com
 Search inside 15,000+ pitch deck slides
+
+https://slides.com
+Create exceptional slide decks in half the time using intuitive design tools and machine learning. Present remotely or on-site.
 
 
 

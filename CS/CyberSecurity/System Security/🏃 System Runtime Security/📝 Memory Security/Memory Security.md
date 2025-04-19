@@ -15,7 +15,7 @@
 
 
 ### Other Resources
-🏫 [CS161 Computer Security](../../../../🗺%20CS%20Overview/Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
+🏫 [CS161 Computer Security](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
 📖 https://textbook.cs161.org/memory-safety/
 - [x86 Assembly and Call Stack](https://textbook.cs161.org/memory-safety/x86.html)
 - [Memory Safety Vulnerabilities](https://textbook.cs161.org/memory-safety/vulnerabilities.html)

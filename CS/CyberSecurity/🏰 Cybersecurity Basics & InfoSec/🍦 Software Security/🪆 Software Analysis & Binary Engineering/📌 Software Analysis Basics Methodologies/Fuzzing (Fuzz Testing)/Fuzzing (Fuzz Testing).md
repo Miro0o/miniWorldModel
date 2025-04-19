@@ -40,6 +40,10 @@ https://doi.org/10.1109/TSE.2019.2946563
 https://link.springer.com/article/10.1186/s42400-018-0002-y
 [https://doi.org/10.1186/s42400-018-0002-y](https://doi.org/10.1186/s42400-018-0002-y).
 
+📄 Schloegel, Moritz, et al. "Sok: Prudent evaluation practices for fuzzing." _2024 IEEE Symposium on Security and Privacy (SP)_. IEEE, 2024.
+
+📄 Mallissery, Sanoop, and Yu-Sung Wu. "Demystify the fuzzing methods: A comprehensive survey." _ACM Computing Surveys_ 56.3 (2023): 1-38.
+
 📄 Liang H, Pei X, Jia X, et al. Fuzzing: State of the art[J]. IEEE Transactions on Reliability, 2018, 67(3): 1199-1218.
 https://ieeexplore.ieee.org/document/8371326
 
@@ -51,6 +55,24 @@ https://ieeexplore.ieee.org/document/8371326
 
 📄 👍 Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." _arXiv preprint arXiv:2402.00350_ (2024).
 https://arxiv.org/abs/2402.00350
+
+|                                  |                                                                                            |                                                          |          |           |
+| -------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | --------- |
+| **DOI**                          | **Title**                                                                                  | **Authors**                                              | **Year** | **Cited** |
+| 10.1109/SP54263.2024.00137       | SoK: Prudent Evaluation Practices for Fuzzing                                              | Schloegel, Bars, Schiller, Bernhard, Scharnowski, et al. | 2024     | 6         |
+| 10.1145/3623375                  | Demystify the Fuzzing Methods: A Comprehensive Survey                                      | S. Mallissery, Yu-Sung Wu                                | 2023     | 12        |
+| 10.1186/S42400-018-0002-Y        | Fuzzing: a survey                                                                          | Jun Li, Bodong Zhao, Chaomo Zhang                        | 2018     | 235       |
+| 10.1109/CECIT53797.2021.00035    | A systematic review of fuzzy testing for information systems and applications              | Shen, Wen, Zhang, Wang, Shen, Cheng                      | 2021     | 4         |
+| 10.1007/S00500-023-09306-2       | A systematic review of fuzzing                                                             | Zhao, Qu, Jianliang Xu, Li,  Lv, Wang                    | 2023     | 5         |
+| 10.1109/ISSSR61934.2024.00024    | A Comprehensive Review of Learning-based Fuzz Testing Techniques                           | Cheng, Li, Zhao, Li, Wong                                | 2024     | 0         |
+| 10.1145/3512345                  | Fuzzing: A Survey for Roadmap                                                              | Zhu, Wen, Camtepe, Yang Xiang                            | 2022     | 139       |
+| 10.1109/ACCESS.2023.3347652      | Machine Learning-Based Fuzz Testing Techniques: A Survey                                   | Zhang, Zhang, Xu, Wang,  Li                              | 2024     | 1         |
+| 10.48550/ARXIV.2402.00350        | Large Language Models Based Fuzzing Techniques: A Survey                                   | Huang, Zhao, Chen, Ma                                    | 2024     | 8         |
+| 10.1109/ICSIP61881.2024.10671554 | A Review of Fuzz Testing for Configuration-Sensitive Software                              | Chu, Huang, Li, Nie                                      | 2024     | 0         |
+| 10.47857/IRJMS.2024.V05I04.01451 | A Systematic Review of AI Based Software Test Case Optimization                            | Padmanabhan                                              | 2024     | 0         |
+| 10.1145/3243734.3243804          | Evaluating Fuzz Testing                                                                    | Klees, Ruef, Cooper, Wei, Hicks                          | 2018     | 673       |
+| 10.1016/J.JSS.2022.111423        | A systematic literature review on benchmarks for evaluating debugging approaches           | Hirsch, Hofer                                            | 2022     | 10        |
+| 10.1145/3649476.3658697          | The Fuzz Odyssey: A Survey on Hardware Fuzzing Frameworks for Hardware Design Verification | Saravanan, Dinakarrao                                    | 2024     | 0         |
 
 
 ### Trending Research
@@ -120,6 +142,13 @@ For the purpose of security, input that crosses a trust boundary is often the mo
 
 The term “fuzz” was originally coined by Miller et al. in 1990 to refer to a program that “generates a stream of random characters to be consumed by a target program” [152,p. 4]. Since then, the concept of fuzz as well as its action—“fuzzing”—has appeared in a wide variety of contexts, including dynamic symbolic execution [90], [226], grammar-based test case generation [88], [105], [213], permission testing [24], [80], behavioral testing [122], [175], [224], complexity testing [135], [222], kernel testing [216], [196], [186], representation dependence testing [121], function detection [227], robustness evaluation [223], exploit development [111], GUI testing [197], signature generation [72], and penetration testing [81], [156]. To systematize the knowledge from the vast literature of fuzzing, let us first present a terminology of fuzzing extracted from modern uses.
 
+> 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
+
+Fundamentally, fuzzing shifts the focus from functional test cases (i.e., what systems must do) to include the effects of the non-functional factors (i.e., incidental characteristics of systems or invalid values or rarely used values). It does so in various systematic ways of mixing structured experimentation (i.e., design of experiment or combinatorial test designs) with randomization. Such randomization can be applied within runs to the uncontrolled aspects. Finally, it often systematically and concurrently explores variations in hardware and software. Put another way by Mallissery and Wu[10]:
+
+> _‘Fuzzing is a vulnerability discovery solution that resonates with random-mutation, feedback-driven, coverage-guided, constraint-guided, seed-scheduling, and target-oriented strategies. … Most topline companies and organizations utilize fuzzing to ensure quality control and cybersecurity operations. For example, Google uses fuzzing to verify and ensure that the millions of Lines of Code (LOC) in Google Chrome are bug-free [67]. It was challenging to admit that Google could find 20K vulnerabilities in Chrome using fuzz testing [67]. The dominant software from Microsoft has to pass the fuzz test stage in the software development cycle to ensure no code vulnerabilities and confirm stability [136]. The DoD Enterprise DevSecOps Reference Design document [40] from the United States has mentioned that continuous testing across the software development cycle is necessary for the test tools support. Therefore, it is essential to use fuzzing to discover Distributed Denial of Service attacks and malware exploit possibilities, validate system security, and reduce the risk of system degradation [40].’ [pp. 71:1-2]_
+
+
 
 ### Why Fuzzing?
 > 🔗 Fuzzing技术总结（Brief Surveys on Fuzz Testing） - wcventure的文章 - 知乎 https://zhuanlan.zhihu.com/p/43432370
@@ -183,6 +212,23 @@ A fuzzer can be categorized in several ways:
 2. (Aware of input structure) A fuzzer can be dumb (unstructured) or smart (structured) depending on whether it is aware of input structure.
 3. (Aware of program structure) A fuzzer can be white-, grey-, or black-box, depending on whether it is aware of program structure.
 
+> 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
+
+Fuzzing is defined by Microsoft as ‘a program analysis technique that looks for inputs causing error conditions that have a high chance of being exploitable, such as buffer overflows, memory access violations and null pointer dereferences.’ They go on to characterize fuzz testing as being in the following three categories:
+- Blackbox fuzzers, also called “dumb fuzzers,” rely solely on the sample input files to generate new inputs.
+- Whitebox fuzzers analyze the target program either statically or dynamically to guide the search for new inputs aimed at exploring as many code paths as possible.
+- Greybox fuzzers, just like blackbox fuzzers, don’t have any knowledge of the structure of the target program, but make use of a feedback loop to guide their search based on observed behavior from previous executions of the program.
+
+**Table 1: Comparison of fuzz test types**
+
+|                          |                                               |                                              |                                      |
+| ------------------------ | --------------------------------------------- | -------------------------------------------- | ------------------------------------ |
+|                          | **Black-box (BB)**                            | **Grey-box (GB)**                            | **White-box (WB)**                   |
+| **Goal**                 | Mimic external cyber-attack                   | Mimic insider threats                        | Mimic threats with privileged access |
+| **Access & Information** | Zero                                          | Some                                         | Complete                             |
+| **Advantage**            | Realistic start                               | More efficient than BB                       | More comprehensive than GB           |
+| **Disadvantage**         | May miss vulnerabilities & resource-intensive | Limited assessment of penetration resistance | Requires extensive release at cost   |
+
 
 ### Genealogy
 ![](../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
@@ -217,6 +263,18 @@ A fuzzer can be categorized in several ways:
 ![](../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.17.58.png)
 <small>如图所示, 模糊测试的一般工作流程可分为5个基本步骤, 即预处理、测试输入生成、测试执行、缺陷检 测和后模糊处理. <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
 
+> 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
+
+Different fuzzing engines employ different methods to look for vulnerabilities and there is a growing repertoire of types and names depending on their target systems and what languages they operate in. According to Mallissery and Wu [10] there are six fundamental steps in a fuzzing engine as illustrated in Figure 1:
+
+1. System readiness is the primary step toward fuzzing (supplying initial seeds, setting iterations, memory allocation, etc.).
+2. Automate the fuzzing process and instrument wherever required.
+3. Generated test cases will take to the target software for performing an execution using the delivered test case.[sic6 ]
+4. Continue with new program states or check for potential crashes in the software while following the execution path.
+5. Report all the fuzz progress (bugs/crashes/hangs/paths/edges) to the fuzz engine and the user.
+6. User involvement/backtracking is optional to improve fuzzing and explore all the unvisited program control flow paths.
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020250419122414.png)
 
 
 > V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. (2018)
@@ -244,6 +302,18 @@ A user supplies `PREPROCESS` with a set of fuzz configurations as input, and it 
 
 **`CONTINUE` ($\mathbb{C}$) → {$True$, $False$}**
 `CONTINUE` takes a set of fuzz configurations $\mathbb{C}$ as input and outputs a boolean indicating whether a new fuzz iteration should occur. This function is useful to model white-box fuzzers that can terminate when there are no more paths to discover.
+
+
+### Hybrid Fuzzing
+> 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
+
+Hybrid fuzzing merges fuzzing, assessed as ‘concrete’ because it is actual test, and ‘symbolic’ execution, which inculcates code-based paths, where the portmanteau of concrete and symbolic is abbreviated to ‘concolic.’ These two types of techniques are complementary and concolic is symbolic with hybrid fuzzing. One of the limits of earlier fuzzing is that the generational or mutation algorithms can constrain solutions to previously detected vulnerabilities, whereas symbolic logic execution combined with fuzzing can force unusual paths to discover additional vulnerabilities. An illustration of hybrid fuzzing is Figure 4 (below).
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020250419123223.png)
+
+From the presentation Senator and Allen [4], a fuzzing engine known as ‘Driller’ was used from around 2016 to 2019 to escape compartments and access code used infrequently (i.e., Zhang, et al. [15, p. 4-16]). Major developments since 2020 that were highlighted in the ITEA workshop were ‘Fuzzolic’ [16], ‘Paint Aware Taint Analysis (PATA)’ [17] and Speedy-Automatic-Vulnerability-Incentivized Oracle (SAVIOR) [18].
+
+...
 
 
 ### LLM-based Fuzzing Procedure
@@ -319,6 +389,26 @@ Specifically, we recommend that fuzz testing evaluations should have the followi
 - timeouts of at least 24 hours, or else justification for less, with performance plotted over time.
 
 We see (at least) three important lines of future work. First, we believe there is a pressing need for well-designed, well-assessed benchmark suite, as described at the end of the last section. Second, and related, it would be worthwhile to carry out a larger study of the value of crash de-duplication methods on the results of realistic fuzzing runs, and potentially develop new methods that work better, for assisting with triage and assessing fuzzing when ground truth is not known. Recent work shows promise [42, 51]. Finally, it would be interesting to explore enhancements to the fuzzing algorithm inspired by the observation that no single fuzzing run found all true bugs in cxxfilt; ideas from other search algorithms, like SAT solving “reboots” [46], might be brought to bear.
+
+
+### Fuzzing Test Benchmarks
+> 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
+
+**Magma Benchmark.** Hazimeh, et al. [25] (2020) summarize the Magma benchmark for fuzzing methods as follows:
+
+> _High scalability and low running costs have made fuzz testing the de facto standard for discovering software bugs. Fuzzing techniques are constantly being improved in a race to build the ultimate bug-finding tool. However, while fuzzing excels at finding bugs in the wild, evaluating and comparing fuzzer performance is challenging due to the lack of metrics and benchmarks. For example, crash count—perhaps the most commonly used performance metric—is inaccurate due to imperfections in deduplication techniques. … We tackle these problems by developing Magma, a ground-truth fuzzing benchmark that enables uniform fuzzer evaluation and comparison. By introducing real bugs into real software, Magma allows for the realistic evaluation of fuzzers against a broad set of targets. By instrumenting these bugs, Magma also enables the collection of bug-centric performance metrics independent of the fuzzer. … Based on the number of bugs reached, triggered, and detected, we draw conclusions about the fuzzers’ exploration and detection capabilities … highlighting the importance of ground truth in performing more accurate and meaningful evaluations._
+
+**Unifuzz Test Bench.** Li, et al. [26] (2020) summarize the Unifuzz test bench effort as follows:
+
+> _A flurry of fuzzing tools (fuzzers) have been proposed in the literature, aiming at detecting software vulnerabilities effectively and efficiently. To date, it is however still challenging to compare fuzzers due to the inconsistency of the benchmarks, performance metrics, and/or environments for evaluation, which buries the useful insights and thus impedes the discovery of promising fuzzing primitives. In this paper, we design and develop UNIFUZZ, an open-source and metrics-driven platform for assessing fuzzers in a comprehensive and quantitative manner. Specifically, UNIFUZZ to date has incorporated 35 usable fuzzers, a benchmark of 20 real-world programs, and six categories of performance metrics._
+
+**Fuzzbench.** Metzman, et al. [27] (2021) summarize the reasoning behind the development of Fuzzbench as follows:
+
+> _In 2020 alone, over 120 papers were published on the topic of improving, developing, and evaluating fuzzers and fuzzing techniques. Yet, proper evaluation of fuzzing techniques remains elusive. The community has struggled to converge on methodology and standard tools for fuzzer evaluation. To address this problem, we introduce FuzzBench as an opensource turnkey platform and free service for evaluating fuzzers. It aims to be easy to use, fast, reliable, and provides reproducible experiments. Since its release in March 2020, FuzzBench has been widely used both in industry and academia, carrying out more than 150 experiments for external users._
+
+**IOT Fuzzbench.** Cheng, et al. [28] (2023) summarize the reasoning behind the development of a fuzzing engine test bench specific to cyber-physical systems:
+
+> _High scalability and low operating cost make black-box protocol fuzzing a vital tool for discovering vulnerabilities in the firmware of IoT smart devices. … In this paper, we design and implement IoTFuzzBench, a scalable, modular, metric-driven automation framework for evaluating black-box protocol fuzzers for IoT smart devices … We deployed IoTFuzzBench and evaluated 7 popular black-box protocol fuzzers on all benchmark firmware images and benchmark vulnerabilities. The experimental results show that IoTFuzzBench can not only provide fast, reliable, and reproducible experiments, but also effectively evaluate the ability of each fuzzer to find vulnerabilities and the differential performance on different performance metrics._
 
 
 

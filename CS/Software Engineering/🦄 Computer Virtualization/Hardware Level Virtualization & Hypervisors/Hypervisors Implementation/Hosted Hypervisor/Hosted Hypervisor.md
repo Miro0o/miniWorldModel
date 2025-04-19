@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [VMware Workstation](Independant/VMware%20Workstation.md)
-↗ [QEMU](Independant/QEMU/QEMU.md)
+↗ [QEMU (Quick EMUlator)](Independant/QEMU%20(Quick%20EMUlator)/QEMU%20(Quick%20EMUlator).md)
 
 
 

@@ -24,11 +24,11 @@ For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../../S
 
 
 ### Courses
-🏫 [UCB CS186 Introduction to Database System](../../../🗺%20CS%20Overview/Courses%20of%20Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
-🏫 [CMU 15-445 Database Systems](../../../🗺%20CS%20Overview/Courses%20of%20Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+🏫 [UCB CS186 Introduction to Database System](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+🏫 [CMU 15-445 Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
-🏫 [CMU 15-721 Advanced Database Systems](../../../🗺%20CS%20Overview/Courses%20of%20Universities/CMU/15-721%20Advanced%20Database%20Systems/15-721%20Advanced%20Database%20Systems.md)
-🏫 [CMU 15-799 Special Topics in Database Systems](../../../🗺%20CS%20Overview/Courses%20of%20Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
+🏫 [CMU 15-721 Advanced Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-721%20Advanced%20Database%20Systems/15-721%20Advanced%20Database%20Systems.md)
+🏫 [CMU 15-799 Special Topics in Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
 
 🎬【现代存储系统 (关系数据库和分布式存储系统) [南京大学2022操作系统-P30]】 https://www.bilibili.com/video/BV1Ha4117795/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

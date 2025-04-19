@@ -5,20 +5,11 @@
 
 
 ## Res
-### Courses & Books
-🏫 [Stanford /CS143: Compilers](../../../🗺%20CS%20Overview/Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
-
-🏫 [NJU / 软件分析](../../../🗺%20CS%20Overview/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/软件分析/软件分析.md)
-🏫 [UNDT /编译原理](../../../🗺%20CS%20Overview/Courses%20of%20Universities/🇨🇳%20Mainland%20China/UNDT/编译原理/编译原理.md)
-
-🎬【第一课，编译原理介绍】 https://www.bilibili.com/video/BV1kq4y147DF?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-【【全集】编译原理-静态程序分析【Static Program Analyses】】 https://www.bilibili.com/video/BV1Eu41167bV/?p=4&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
 ### Related Topics
-↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Programming Language Theory (PLT)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+
+↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Natural Language Processing (NLP)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 
 ↗ [Compilation & Program Loading Tools](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
@@ -26,6 +17,17 @@
 ↗ [Compilation & Program Loading Tools](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 ↗ [WASM (WebAssembly)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+
+
+### Courses & Books
+🏫 [Stanford /CS143: Compilers](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
+
+🏫 [NJU / 软件分析](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
+🏫 [UNDT /编译原理](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UNDT%20国防科技大学/编译原理/编译原理.md)
+
+🎬【第一课，编译原理介绍】 https://www.bilibili.com/video/BV1kq4y147DF?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+【【全集】编译原理-静态程序分析【Static Program Analyses】】 https://www.bilibili.com/video/BV1Eu41167bV/?p=4&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

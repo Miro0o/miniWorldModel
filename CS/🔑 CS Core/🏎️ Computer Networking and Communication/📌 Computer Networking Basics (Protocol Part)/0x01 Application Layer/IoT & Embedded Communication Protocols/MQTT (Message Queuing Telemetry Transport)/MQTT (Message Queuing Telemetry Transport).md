@@ -14,7 +14,7 @@
 
 ↗ [SE /Message Queue](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Messaging%20Services/Message%20Queue/Message%20Queue.md)
 
-↗ [mosquitto](../../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Embedded%20Programming%20&%20Software%20Development/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/mosquitto/mosquitto.md)
+↗ [mosquitto](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/mosquitto/mosquitto.md)
 ↗ [paho mqtt](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Networking%20&%20Streaming/paho%20mqtt.md)
 
 

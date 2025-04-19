@@ -28,7 +28,7 @@
 - 被全球 60 多个国家 400 多所大学用于教学
 
 ---
-🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../../🗺%20CS%20Overview/Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
+🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 
 ---
 📖 花书 

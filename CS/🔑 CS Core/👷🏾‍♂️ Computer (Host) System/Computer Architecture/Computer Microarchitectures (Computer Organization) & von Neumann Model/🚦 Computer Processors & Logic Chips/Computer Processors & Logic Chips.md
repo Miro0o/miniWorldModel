@@ -12,11 +12,11 @@
 ↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [CPU (Central Processing Unit)](📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-↗ [Embedded Hardwares & Chips](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
-- ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
-- ↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
-- ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
-↗ [Hardware Acceleration](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Hardware%20Acceleration.md)
+↗ [Embedded Hardwares & Chips](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
+- ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
+- ↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+- ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
+↗ [Hardware Acceleration](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Hardware%20Acceleration.md)
 
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
@@ -52,8 +52,8 @@ Traditional processors are typically based on silicon; however, researchers have
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-28%20at%209.35.38%20PM.png)
 
 ↗ [Microprocessors Unit (MPU)](📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
-↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
-↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
 
 ### Microprocessor (MPU)
@@ -63,11 +63,11 @@ Traditional processors are typically based on silicon; however, researchers have
 
 
 ### Microcontroller Unit (MCU)
-↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
 
 
 ### Single-Board Computer (SBC)
-↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
+↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
 
 ### System on a Chip (SoC)

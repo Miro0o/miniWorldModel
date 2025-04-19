@@ -34,7 +34,7 @@
 ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)
 
-↗ [Information Theory](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Cybersecurity Basics & InfoSec](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [History of Information Systems & Security Systems](../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)

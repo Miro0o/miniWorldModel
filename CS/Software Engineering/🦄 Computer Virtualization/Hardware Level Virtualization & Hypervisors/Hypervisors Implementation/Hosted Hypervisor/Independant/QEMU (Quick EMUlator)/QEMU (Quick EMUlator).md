@@ -1,4 +1,4 @@
-# QEMU
+# QEMU (Quick EMUlator)
 
 [TOC]
 

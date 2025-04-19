@@ -1,4 +1,4 @@
-# Computer Engineering, Embedded Development & Internet of Things
+# Computer Engineering, Embedded & IoT
 
 [TOC]
 

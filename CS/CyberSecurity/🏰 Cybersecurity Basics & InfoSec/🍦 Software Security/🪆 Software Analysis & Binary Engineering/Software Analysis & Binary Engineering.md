@@ -9,6 +9,9 @@
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [First-order Logic](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/📍%20Mathematical%20Logics%20Basics/First-order%20Logic.md)
 
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Program Compilation & Execution](../../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+
 ↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Disclosure（漏洞挖掘）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Vulnerability%20Disclosure（漏洞挖掘）.md)
@@ -16,8 +19,6 @@
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 ↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
-
-↗ [Program Compilation & Execution](../../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 
 ↗ [Operating System Security](../../../System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
@@ -35,7 +36,9 @@
 📂 https://www.scuctf.com/ctfwiki/pwn/
 CTF PWN 入门 | SCU CTF WiKi
 
-🏫 [Malicious Code Analysis](../../../../🗺%20CS%20Overview/Courses%20of%20Universities/CMU/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+🏫 [Malicious Code Analysis](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+🏫 [软件分析](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
+
 
 📚 https://firmianay.gitbook.io/ctf-all-in-one/ (CTF竞赛权威指南(Pwn篇))
 🚧 https://github.com/firmianay/CTF-All-In-One/tree/master

@@ -36,11 +36,10 @@ https://github.com/hoochanlon/hamulete/tree/master
 (This repo has been cloned to local!🥰 -- notes from miro)
 
 
-
-
-
 ### 😈 Beyond Academics...
 👍 https://github.com/ShiArthur03/ShiArthur03
+https://github.com/ShiArthurX/ShiArthurX
+https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/ShiArthur03-thu/ShiArthur03-thu
 > 2024.7.12 
 > 原仓库不知道能存在多久。我在本地每天会进行备份仓库的更新。
 > 
@@ -83,11 +82,12 @@ https://github.com/hoochanlon/hamulete/tree/master
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
 - https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
-- https://www.che.de/en/ranking-germany/ | CHE University Ranking
-- 
+- https://www.che.de/en/ranking-germany/ | CHE University Ranking 
 #### Journal/Conference Evaluation
 
+
 #### Research Entity /Fields Research
+
 
 
 ## Systematization of Knowledge (SoK) & Survey Paper
@@ -156,7 +156,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 [👍 为什么现在有些研究生想退学？ - 哈里叔叔的回答 - 知乎]: https://www.zhihu.com/question/27479057/answer/834579040
 
-[👍 👍 计算机科学知名期刊和会议]: https://comydream.github.io/journals-and-conferences/index.html
+[👍 计算机科学知名期刊和会议]: https://comydream.github.io/journals-and-conferences/index.html
 不要盲从 [CCF推荐国际学术会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 和 [中科院分区](http://www.fenqubiao.com/) (尤其是后者) 。
 
 摘自 [CCF推荐国际学术会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
@@ -251,3 +251,5 @@ https://github.com/hoochanlon/hamulete/tree/master
 > 就像是你总不会认为 985、211 是完全按照学校水平分的吧？
 
 [论文（1）——大家说SCI的一区二区和CCF中A类B类是什么意思？ | CSDN]: https://codegrey.blog.csdn.net/article/details/131689540
+
+[🤔 为啥南京大学蒋炎岩老师的操作系统课那么难? - 田子曾的回答 - 知乎]: https://www.zhihu.com/question/598621331/answer/3012649026

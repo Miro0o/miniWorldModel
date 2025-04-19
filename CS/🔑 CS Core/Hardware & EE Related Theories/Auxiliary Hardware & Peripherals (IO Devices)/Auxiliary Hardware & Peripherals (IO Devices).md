@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Engineering, Embedded Development & Internet of Things](../../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+↗ [Computer Engineering, Embedded & IoT](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 ↗ [Computer Taxonomy & Computer (Hardware) Components](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 ↗ [Computer Architecture](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)

@@ -23,10 +23,10 @@
 📖 https://github.com/rasbt/python-machine-learning-book-3rd-edition
 Python Machine Learning, 3rd Ed. to be published December 12th, 2019
 
-🏫 [CS50's Introduction to AI with Python](../../../🗺%20CS%20Overview/Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
-🏫 [CS188 Introduction to Artificial Intelligence](../../../🗺%20CS%20Overview/Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
+🏫 [CS50's Introduction to AI with Python](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
+🏫 [CS188 Introduction to Artificial Intelligence](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
 
-🏫 [CS 329P Practical Machine Learning](../../../🗺%20CS%20Overview/Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
+🏫 [CS 329P Practical Machine Learning](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 - https://c.d2l.ai/stanford-cs329p/syllabus.html
 - 【1.1 课程介绍【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV13U4y1N7Uo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

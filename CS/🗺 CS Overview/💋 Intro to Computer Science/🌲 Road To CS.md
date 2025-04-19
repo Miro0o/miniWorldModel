@@ -128,7 +128,7 @@ CS Core
 CS Sub-fields
 - ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
 - ↗ [Data Science](Data%20Science/Data%20Science.md)
-- ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 - ↗ [Human-Centered Computing](Human-Centered%20Computing/Human-Centered%20Computing.md)
 - ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
@@ -138,9 +138,9 @@ CS Sub-fields
 CS Inter-disciplines
 - ↗ [Math & Theoretical Computer Science (TCS)](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	- ↗ [Analytical Mathematics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Analytical%20Mathematics/Analytical%20Mathematics.md)
-	- ↗ [Information Theory](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+	- ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 	- ↗ [Operation Research](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
-	- ↗ [Possibilities & Statistics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+	- ↗ [Possibilities & Statistics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 	- ↗ [Mathematical Logics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 	- etc.
 - ↗ [Computing Methodologies](🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
@@ -505,7 +505,7 @@ Software Engineering
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
 20. IoT /Hardware /Computer Engineering
-	1. ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+	1. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	3. etc.
 21. Web3 /Metaverse /Cryptocurrency

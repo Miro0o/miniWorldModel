@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Cybersecurity Basics & InfoSec](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [Cryptology & Secure Communication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 

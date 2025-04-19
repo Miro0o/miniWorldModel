@@ -19,18 +19,18 @@
 
 ### Courses
 UC Berkeley CS61
-- ↗ [CS61A Structure and Interpretation of Computer Programs](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
-- ↗ [CS61B Data Structures](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
-- ↗ [CS61C Great Ideas in Computer Architecture](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+- ↗ [CS61A Structure and Interpretation of Computer Programs](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+- ↗ [CS61B Data Structures](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
+- ↗ [CS61C Great Ideas in Computer Architecture](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 
 CMU Intro to Computer Science
-- ↗ [CMU/ICS](../Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+- ↗ [CMU/ICS](../👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 - 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
 	- [CSAPP Blog Page](http://csappbook.blogspot.com)
 	- [gitbook chinese version (partial)](https://hansimov.gitbook.io/csapp/)
 
-↗ [NJU/计算机系统基础](../Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
-↗ [Harvard/CS50x](../Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
+↗ [NJU/计算机系统基础](../👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/计算机系统基础/计算机系统基础.md)
+↗ [Harvard/CS50x](../👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
 
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
@@ -413,7 +413,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 - ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 - ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 - ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-- ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 
 ### How to learn CS ? (🤔 Questions Leading my CS Study)
@@ -436,7 +436,7 @@ These questions, from general to specific, speaks the path of what i think every
 		3. (What is academic research?)
 ----
 2. What is data /information?
-	1. ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
+	1. ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 3. What is computing /automation? 
 	1. (data /information vs language?)
@@ -476,7 +476,7 @@ These questions, from general to specific, speaks the path of what i think every
 		4. etc.
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-	4. ↗ [Computer Engineering, Embedded Development & Internet of Things](../../Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things/Computer%20Engineering,%20Embedded%20Development%20&%20Internet%20of%20Things.md)
+	4. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 	5. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	6. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	7. ↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
