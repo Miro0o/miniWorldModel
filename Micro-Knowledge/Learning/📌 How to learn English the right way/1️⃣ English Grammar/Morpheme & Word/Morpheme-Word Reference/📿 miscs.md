@@ -227,6 +227,12 @@ albeit [美 /ˌɔːlˈbiːɪt/](cmd://Speak/_us_/albeit)
 - This theater is still going by the way albeit in a different location /这家剧院虽然位置不同 但至今仍在运营。
 
 all
+- be all, end all
+	-  Now, this is not a be all, end all, exhaustive list of conversation topics. /现在，这不是一个面面俱到、详尽无遗的对话主题列表。
+	- They want to upend the idea theatrical distribution being the end all, be all of seeing a movie. /影院发行是电影的最终目的。
+	- It's not the end all be all number, but it can give us some perspective /这不是一切都结束了， 但它可以给我们一些观点。
+	- Her career is the be-all and end-all of her existence. /她的事业是她生活中一切的一切。
+	- But after Copenhagen this cannot be the be-all and end-all of climate action /但在哥本哈根峰会之后，这个目标已经不能成为气候行动的全部了。
 - always
 - altogether
 - already
@@ -4456,6 +4462,7 @@ fire
 - all-fired
 - afire
 - fiery
+	- (scorching, blistering, sizzling, searing, steamy, hot, blazing, sultry, fiery, roasting, burning hot, torrid, sweltering, fervent, )
 	- - adj. 燃烧的，充满火焰的；火红的，血红的；易怒的，暴躁的；怒气冲冲的，充满激情的；（食物或饮料）辣的
 	-  [ardent](dic://ardent), [burning(a)](dic://burning(a)), [fervent](dic://fervent), [fervid](dic://fervid), [impassioned](dic://impassioned), [perfervid](dic://perfervid), [torrid](dic://torrid)
 	-  [igneous](dic://igneous)
@@ -11193,9 +11200,65 @@ plight
 - vt. 宣誓; 保证
 - 1 - 来自古英语 pliht,有风险的承诺，危险，风险，来自 Proto-Germanic*pleg,承诺，责任，担保，来自 PIE*dlegh,忙于，从事于，责任，承诺，来自 PIE*del,长的，词源同 long,play,pledge.引申词义誓言，誓约，特别是郑重的誓言，如订婚。  
 - 2 - 来自古法语 pleit,情况，来自拉丁语 plicare,卷入，卷进，词源同 ply,complex.后主要用于指坏的情况，引申词义苦难，困境。词义部分受到上一词义的影响。
+- [predicament](dic://predicament), [quandary](dic://quandary)
+-  [troth](dic://troth)
+-  [betroth](dic://betroth), [engage](dic://engage), [affiance](dic://affiance)
+- [pledge](dic://pledge)
+- _n._ [difficulty](dic://difficulty), [assurance](dic://assurance), [pledge](dic://pledge)
+- _v._ [vow](dic://vow), [promise](dic://promise), [assure](dic://assure)
+- **predicament**困难的处境;**suffering**身体或心灵的痛苦, 苦难;**impoverished**穷困的,无力的,用尽了的;**injustice**不公正;**sympathy**同情;**mistreatment**虐待;**anguish**苦闷;**oppressed**被压迫的;**beleaguered**饱受批评的;**destitute**赤贫的, 贫苦的;**sympathize**同情, 支持;
+- _[the plight](dic://the%20plight)_  困境
+- _[plight one's troth](dic://plight%20one's%20troth)_  发誓
+- Actually, the Republicans' plight may be still bleaker. /实际上共和党人面临的问题或许更加严峻。
+-  She donates large sums of money to help the plight of underprivileged people/她还资助了许多生活窘困的人民。
+- He also addressed the plight of children scarred by conflict. /他还强调了儿童身处的困境，两国之间的冲突让他们伤痕累累。
+- Oh, that's the plight of the Manhattan teenager. No cars. /那是曼哈顿的小朋友干的事儿，还是没有车的小朋友。
+- 
 
 pluck
 - pill-
+
+plug
+- n. 塞子, 栓, 插头  
+- vt. 插入, 塞住, 接插头
+- vi. 被塞住
+-  来自中古荷兰语 plugge,塞子，孔塞，词源不详，可能同 pluck,拔。由拔的动作引申为拔的对象。
+- pull the plug
+	- - 拔掉插头或切断机器的电源：指拔掉插头或切断机器的电源。
+	- 停止支持或中止：指停止支持某事物或中止某项活动。
+	- 关闭生命支持系统：指关闭患者的生命支持系统。
+	- 停止生产或出版：指停止生产或出版某种产品或作品。
+	- _[to pull the plug](dic://to%20pull%20the%20plug)_  冲厕所
+	- _[time to pull the plug](dic://time%20to%20pull%20the%20plug)_  时刻拔出插头；拔出插头；拔掉插头的时间；时间抠堵塞
+	- _[pull the plug on sth](dic://pull%20the%20plug%20on%20sth)_  突然中断
+	- _[pull the plug](dic://pull%20the%20plug)_  结束，终止业务
+	- _[pull the plug on](dic://pull%20the%20plug%20on)_  v. 终止；结束
+	- There's a reciprocity clause. You get to pull the plug on him, too. /上面有互惠条款 你也可以终结他的。
+	- Pull the plug already. It's what she wants. /早该拔掉了，她想要的。
+	- The banks have the power to pull the plug on the project. /银行有权终止该项目。
+	- The White House is pulling the plug on military assistance to Ukraine /白宫正在终止对乌克兰的军事援助。
+- vent-plug
+- unplug
+	- [disconnect](dic://disconnect)
+	- _v._ [undo](dic://undo)
+	- _n._ [plug in](dic://plug%20in), [connect](dic://connect)
+	- **disconnect**切断,断开;**reconnect**再供应;**plugged**塞紧的;**plug**塞子;**disconnected**不连贯的, 无系统的;**recharge**再充电;**reboot**重新启动;**plugging**堵塞;**unwind**展开;**reset**清零;**restart**重新启动;
+	- Whoever stays unplugged the longest, wins /坚持到最后的那个人就是胜利者。
+	- Silence your phone. Unplug your music. Turn off the TV. /手机静音，拔掉耳机，关掉电视。
+- sparkplug
+- song-plugging
+- plugola
+- plugging
+- plugger
+- pluggability
+- plugcock
+- plugboard
+- plug-ugly
+- plug-in
+- miniplug
+- fireplug
+- earplug
+- autoplugger
 
 plunder (plunge, plunk, plunger, plank, pluck)
 - pill-
@@ -11270,6 +11333,7 @@ poke (pock)
 - he fished out a poke of crisps from under the counter. 他在柜台下掏出了一袋薯片。
 - I poked my head around the door to see what was going on. 我探头朝门周围张望，看是怎么回事。
 - poky
+	- (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 	- [jail](dic://jail), [jailhouse](dic://jailhouse), [gaol](dic://gaol), [clink](dic://clink), [slammer](dic://slammer), [pokey](dic://pokey)
 	- [dilatory](dic://dilatory), [laggard](dic://laggard), [pokey](dic://pokey)
 	- [jerkwater](dic://jerkwater), [one-horse](dic://one-horse), [pokey](dic://pokey)
@@ -11406,10 +11470,40 @@ postiche (wig)
 - [fake](dic://fake), [sham](dic://sham)
 - _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress), [imitation](dic://imitation), [counterfeit](dic://counterfeit), [forgery](dic://forgery)
 
+prance
+-    (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, trample, tread)
+- n. (马)腾跃, 昂首阔步
+- vi. 腾跃, 昂首阔步  
+- vt. 使腾跃
+- [strut](dic://strut), [swagger](dic://swagger)
+- [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [strut](dic://strut), [sashay](dic://sashay), [cock](dic://cock)
+- _n._ [gait](dic://gait)
+- _v._ [walk](dic://walk), [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [ride](dic://ride), [sit](dic://sit)
+- **trot**疾走;**strut**高视阔步;**stomp**跺;**dancing**舞蹈;**waltz**跳华尔兹舞;**romp**嬉闹玩笑;**roam**漫游，漫步;**dance**舞蹈;**gleefully**极快乐地,欢欣地;**strolling**巡回的;**sing**唱歌;
+- _[prance away](dic://prance%20away)_ 腾空
+- _[prance and scamper](dic://prance%20and%20scamper)_ 蹦蹦跳跳
+- _[Prance about communication](dic://Prance%20about%20communication)_ 腾跃通讯
+- _[prance with the national flag](dic://prance%20with%20the%20national%20flag)_ 挥舞着国旗而雀跃
+- Centaurs prance and bounce with grace. /人首马优雅地踱来踱去。
+- He ran off, howling in terror and wildly prancing around. /他发出怕人的叫喊，做出奇怪的跳跃逃跑。
+- He began to prance skittishly forward, making little leaps and snarling. /他开始轻佻地往前跳，一面龇牙低吼，一面小步跳跃。
+- Republicans accused Porter of quote, prancing around, unquote and not taking impeachment seriously. /共和党人指责波特到处乱窜，不把弹劾当回事。
+- She's a miniature poodle who just pranced her way to best in show /她是一只迷你贵宾犬，刚刚以优美的舞姿赢得了最佳表演奖。
+- At length they pranced off slowly toward the river, and disappeared behind a green bank /最后三三两两地缓慢地朝那条河走去，消失在那条河绿色堤岸后。
+
+prank
+-  [buffoonery](dic://buffoonery), [clowning](dic://clowning), [japery](dic://japery), [frivolity](dic://frivolity), [harlequinade](dic://harlequinade)
+- [antic](dic://antic), [joke](dic://joke), [trick](dic://trick), [caper](dic://caper), [put-on](dic://put-on)
+- _n._ [folly](dic://folly), [foolery](dic://foolery), [tomfoolery](dic://tomfoolery), [craziness](dic://craziness), [lunacy](dic://lunacy), [indulgence](dic://indulgence), [diversion](dic://diversion)
+- _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify), [dress up](dic://dress%20up)
+- **hoax**愚弄;**joke**玩笑，笑话;**spoof**①滑稽的模仿;**stunt**绝技;**parody**拙劣的模仿;**skit**讽刺文;**jokes**笑话;**ruse**诡计;**hilarious**十分有趣的, 非常滑稽的;**ploy**策略;**fake**假货;
+- It was thought that the fire alarm had been set off as a prank. /人们认为火警报警器响是个恶作剧。
+- Oh sure, I'm not falling for your little prank. /哦好吧，我不会再被你的雕虫小技轻易左右了。
+
 pretzel
 - mregh-u-
 
-prod
+prod (rod)
 - n. 刺针, 刺棒, 激励话, 提醒物
 - vt. 戳, 刺, 刺激  
 - vi. 戳, 刺
@@ -11495,6 +11589,10 @@ prose (parody)
 - prosaist
 - prosaism
 - prosaic
+	- prose【散文，平白的文字】 + -aic表形容词。引申词义没有诗意的，平淡的，是单词prose 派生的形容词。
+	-  _adj._ 无灵感的;无想像力的
+	- 无聊的;平淡的;乏味的
+	- _adv._ 无聊地;乏味地
 	- (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 	- [matter-of-fact](dic://matter-of-fact)
 	- [pedestrian](dic://pedestrian), [prosy](dic://prosy), [earthbound](dic://earthbound)
@@ -11511,7 +11609,6 @@ proxy
 -  缩写自 procuracy,代理权，代表权。
 -  [placeholder](dic://placeholder), [procurator](dic://procurator)
 - - n. 代理权，代表权；代理人，代表；（测算用的）代替物，指标；投票委托书
-- 
 
 pry
 -  [crowbar](dic://crowbar), [wrecking bar](dic://wrecking bar), [pry bar](dic://pry bar)
@@ -11557,6 +11654,8 @@ pull
 - n. 拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引
 - 来自古英语 pullian,拉，拔羊毛，词源不详。可能来自 PIE*pil,拔，羊毛，毛发，词源同pluck,fleece.
 - pull the strings在幕后操纵；暗中指使。没错，是从木偶来的。这个习语出现于十九世纪下半叶，最初是指操纵木偶，因为操纵木偶的人可以通过pull（拉）the strings（线绳）让木偶按照他的意志行事。President Medvedev may prove to be a double ofPutin who will continue to pull the strings. ​​​​
+- pull the plug
+	- see plug
 - pull ahead
 	- 领先：在比赛、竞争、比较等中取得领先地位。 
 	- 超过：在选举民意调查中超过其他候选人。
@@ -12061,8 +12160,7 @@ raven (rep-)
 - Raven's Ait /渡鸦岛。
 - raven tresses /又黑又亮的头发
 - the raven seemed a bird of evil omen. /乌鸦似乎是一种预兆凶险的鸟。
-- ravenous
-	- [美 /ˈrævənəs/](cmd://Speak/_us_/ravenous)
+- ravenous [美 /ˈrævənəs/](cmd://Speak/_us_/ravenous)
 	- raven【捕食】 + -ous形容词后缀 → 捕食的 → 贪婪的，是单词raven 派生的形容词。
 	- _adj._ 极饿的 (指饥饿、渴求等)极度的
 	- [famished](dic://famished), [sharp-set](dic://sharp-set), [starved](dic://starved), [esurient](dic://esurient)
@@ -12072,6 +12170,11 @@ raven (rep-)
 	- **hungry**饥饿的;**insatiable**不知足的;**rabid**激烈的;**devour**毁灭;**ferocious**残忍的;**appetite**食欲;**crazed**癫狂的;**frenzied**狂乱的;**craving**热望;**hordes**游牧部落;**starved**饥饿的;
 	- a ravenous appetite. /旺盛的食欲。
 	- ravenous for power /对权利的贪欲
+	- The ravenous children ate everything on the table /饿极了的孩子把桌上所有东西吃掉了。
+	-  This is threatening, ravenous, and fierce. /给人一种威胁、贪婪和凶猛的感觉。
+	- Today their annual harvest is under way, and their grain is under attack from a ravenous enemy. /今天正是每年的丰收时节，他们要保护粮食远离敌人贪婪的魔掌。
+	- This apparently went on for an hour before the ravenous rodent wrapped his " refection" and " rambled" away. /这种情况显然持续了一个小时，然后这只贪婪的啮齿动物结束了它的“茶点”，“漫步”离开了。
+	- But it has left legions of lightly regulated traders ravenous for German bunds. /但这让大批不受监管的交易员对德国国债如饥似渴。
 - ravening
 - ravener
 
@@ -12105,7 +12208,7 @@ read
 	- _n._ [output signal](dic://output signal), [output](dic://output), [information](dic://information), [info](dic://info), [electronic device](dic://electronic device)
 	- **calibration**调准;**sensor**传感器;**circuitry**电路;**sensors**传感器，感应器;**measurement**测量，测量法;**detector**检测器;**microcontroller**微型控制器,微控制器;**programmable**可编程的;**signal**信号;**microprocessor**微处理机;**odometer**里程表，里程计;
 	- **Minimum readout**:  最小示值；最小读数；小示值；蕞小示值 
-	- `**digital readout**:  数字读数；控制器
+	- **digital readout**:  数字读数；控制器
 	- **end readout**:  最终读出
 	- _digital readout_ [计]数字读出；数字尺
 	- All readout kits feature overrange protection and are equipped with hoses, carrying case and instructions. /所有读出器组件都有过量程保护，并且配置软管、手提箱和说明书。
@@ -12218,7 +12321,10 @@ rein
 - checkrein
 - bridle-rein
 
-retch
+retch [美 /retʃ/](cmd://Speak/_us_/retch) (ratchet [美 /'rætʃɪt/](cmd://Speak/_us_/ratchet)) 
+- vi. 作呕, 反胃  vt. 呕吐  
+- n. 反胃, 呕吐声 
+- 拟声词，模仿呕吐的声音。
 - [heave](dic://heave)
 - [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
 -  [gag](dic://gag), [heave](dic://heave)
@@ -12227,14 +12333,21 @@ retch
 - **puke**吐剂;**vomit**吐出;**cringe**畏缩;**shudder**震动;**vomiting**呕吐;**groan**呻吟;**disgust**厌恶，嫌恶;**gasp**喘息;**sob**啜泣，呜咽;**scream**尖叫;**weep**哭泣;
 - I felt some nausea and retched several times. But I didn’t throw up anything /我感到恶心，干呕了几次，但没吐出什么来。
 - There was more retching from downstairs, followed by a horrible spattering sound——" she's not feeling'er best." /下层传来呕吐声和可怕的哗啦声，“她不舒服。”
-- retching
 - [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
 - [gag](dic://gag), [heave](dic://heave)
 - [spasm](dic://spasm)
 - [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
 - **puke**吐剂;**vomit**吐出;**cringe**畏缩;**shudder**震动;**vomiting**呕吐;**groan**呻吟;**disgust**厌恶，嫌恶;**gasp**喘息;**sob**啜泣，呜咽;**scream**尖叫;**weep**哭泣;
+- _[Gagging retching](dic://Gagging%20retching)_ 呕
+- _[nausea retch](dic://nausea%20retch)_ 反胃
+- _[check retching](dic://check%20retching)_ 止呕
+- He did not linger over Ron's cauldron, but backed away swiftly, retching slightly. /他在罗恩的坩埚前不仅没有多待，还迅速地退了回去，而且感觉有点犯恶心。
+- Malfoy fell off the broom and lay facedown, gasping, coughing, and retching. /马尔福从扫帚上脸朝下地摔了下来，躺在地上连喘带咳，恶心得要干呕。
+- The smell made me **retch**. /这味道让我恶心。
+- 
+- retching
 
-rev
+rev (ratchet up)
 - n. 转速  
 - v. (使)加速
 - [revolutions per minute](dic://revolutions per minute), [rpm](dic://rpm)
@@ -12389,7 +12502,64 @@ rivet ()
 	- Our brains are riveted by what goes wrong./我们的大脑被差错牢牢吸引，。
 
 roast
-- 
+- n. 烤肉, 烘烤, 嘲笑  
+- a. 烘烤的, 烤过的  
+- vt. 烤, 炙, 烘焙, 嘲笑  vi. 烤, 炙, 烘焙
+- - v. 炙，烘（食物，尤指肉）；<非正式> 严厉批评，斥责；<美， 非正式> 和善地戏弄；<非正式> （尤指通过暴露在太阳下或炉火前）使受热发烫；以火刑折磨；烘干，烘焙（食品原料，金属矿等）；焙，炒（坚果、豆子等）；变热
+- n. （大块）烤肉，待烤的肉；<美>（讲述主角趣事的）庆祝会；户外烧烤野餐；烤，炙，烘（尤指咖啡）；（某种）烘过的咖啡
+- adj. 烘烤的，烤制的
+- 1.rule the roast称雄；当家；作主。你没看错，这是习语rule the roost的另一个版本。roast这里是名词含义，烤肉。中世纪领主家里，谁来分配好吃的烤肉呢？领主。好玩的是，roast烤肉或与roost鸡窝有关呢！烤肉在铁架子上，铁架子什么样子的？格栅状。鸡窝什么搭建的？木板。木板搭建成什么样？格栅状。  
+- 2.roster ['rɒstə] n. 花名册；执勤人员表；逐项登记表。这个单词与roast烧烤是有关的，本意是烤架，后来词义扩展为表格和目录。想想表格的样子，再想想烧烤时候用的铁架子是不是有格栅就明白了。而单词girdiron ['grɪdaɪən] n.烤架；格状物；橄榄球场的意思中，橄榄球场也是有各种象表格的横竖线。
+- 1 - 来自古法语 rostir,烤，来自 Proto-Germanic*raustijana,烤，来自 PIE*reus,烤，词源同 rotisserie.
+- [joint](dic://joint)
+- [knock](dic://knock)
+-  [ridicule](dic://ridicule), [guy](dic://guy), [blackguard](dic://blackguard), [laugh at](dic://laugh at), [jest at](dic://jest at), [rib](dic://rib), [make fun](dic://make fun), [poke fun](dic://poke fun)
+- _n._ [cut](dic://cut), [cut of meat](dic://cut%20of%20meat), [criticism](dic://criticism), [critique](dic://critique)
+- _v._ [cook](dic://cook), [mock](dic://mock), [bemock](dic://bemock)
+- _adj._ [cooked](dic://cooked)
+- _n._ [raw](dic://raw)
+- **brisket**胸肉;**cooked**煮熟的;**turkey**火鸡;**pork**猪肉;**chicken**小鸡;**beef**牛肉;**steak**牛排;**lamb**羔羊，小羊;**meat**肉，肉类;**braised**炖熟的;**cook**烹调，煮;
+- _roast duck_ 烤鸭，烧鸭
+- _roast beef_ 烤牛肉
+- _beijing roast duck_ 北京烤鸭
+- _roast turkey_ 烤火鸡；烧火鸡
+- _roast chicken_ 烤鸡；烧鸡；烤油鸡；片皮脆烧鸡
+- _roast meat_ 铁板烤肉
+- _roast pork_ 烤猪肉，叉烧
+- _roast beijing duck_ 北京烤鸭
+- _roast suckling pig_ 烤乳猪
+- But you can also say 'it's absolutely roasting today.' /但是你也可以说“今天简直太热了。”
+- At the factory, the beans first get roasted. /在工厂里，豆子首先被烘烤。
+- They're preparing a roast for the wedding. /他们在为婚礼准备烧烤。
+- Claire, this is toast, not a roast. /克莱尔 是要祝福她 不是要苛责她。
+- roasting
+	- (scorching, blistering, sizzling, searing, steamy, hot, blazing, sultry, fiery, roasting, burning hot, torrid, sweltering, fervent, )
+	- _n._ [cooking](dic://cooking), [cookery](dic://cookery), [preparation](dic://preparation)
+	- **cooking**烹饪;**frying**油炸;**oven**烤箱, 炉;**grilling**格栅;**baking**烘焙，烘烤;**steaming**蒸烘;**boiling**沸腾的;**cooked**煮熟的;**beans**豆子;**turkey**火鸡;**drying**干燥;
+	- _roasting furnace_ 焙烧炉
+	- After my PowerPoint presentation froze during an important meeting, my boss gave me a roasting. /在一次重要会议上，我的PPT演示文稿不会动了，老板批评了我一顿。
+	- The aroma of roasting coffee beans /烘焙咖啡豆的香味。
+	- Chickens were roasting and rice had been bought. /鸡都摆上了烘焙架，而大米也已提前购置。
+	- What are you roasting on the space heater? /你在暖气片上烤什么东西呢？
+- roaster
+	- _n._ [critic](dic://critic), [cook](dic://cook), [chicken](dic://chicken), [poulet](dic://poulet), [volaille](dic://volaille), [pan](dic://pan), [cooking pan](dic://cooking%20pan)
+	- **espresso**浓咖啡;**coffee**咖啡;**oven**烤箱, 炉;**grinder**研磨者;**beans**豆子;**brewer**啤酒制造者;**brew**酿造;**stove**火炉;**cooker**炊具;**brisket**胸肉;**ovens**烤箱;
+	- _[electric roaster](dic://electric%20roaster)_  烤炉
+	- _[fruit roaster](dic://fruit%20roaster)_  水果烘烤炉
+	- _[flash roaster](dic://flash%20roaster)_  闪速焙烧炉,漂悬焙烧炉,悬浮焙烧炉
+	- _[coffee roaster](dic://coffee%20roaster)_  咖啡豆焙炒机
+	- _[hot-air roaster](dic://hot-air%20roaster)_  热风烤炉
+	- _[tobacco roaster](dic://tobacco%20roaster)_  烟草焙干机
+	- _[fluosolid roaster](dic://fluosolid%20roaster)_  连化床焙烧炉,沸腾焙烧炉
+	- _[hearth roaster](dic://hearth%20roaster)_  床式焙烧炉
+	- _[microwave infrared roaster](dic://microwave%20infrared%20roaster)_  微波红外线烤炉
+	- Home roasters, we are an innovative, wacky bunch /家庭烘焙师，我们是一群创新、古怪的人。
+	- He's a coffee roaster, co-owner of Cat and Cloud Coffee, and makes a living sipping coffee. /他是一名咖啡烘焙师，猫和云咖啡的共同所有者，以喝咖啡为生。
+- pot-roast
+- rotisserie
+	- n. 烤肉店, 烤肉铺, 轮转烤肉器
+	- 来自法语 rotisserie,烤肉店，来自 rotir,烤，来自古法语 rostir,烤，词源同 roast.-ss,法语现在分词，-erie,表小餐饮店，词源同 cafeteria.字母 s 脱落，比较 study,etude.
+	- 
 
 rob
 - robe：古代抢劫所得最主要的掠夺品 
@@ -12400,7 +12570,33 @@ rob
 - robe：[rəʊb] n.长袍，制服，礼服
 - bathrobe： ['bæθrob] n. 浴衣；睡衣
 
-rod
+rod (wad)
+- [perch](dic://perch), [pole](dic://pole)
+-  [perch](dic://perch), [pole](dic://pole)
+-  [rod cell](dic://rod cell), [retinal rod](dic://retinal rod)
+- [gat](dic://gat)
+- _n._ [linear unit](dic://linear%20unit), [implement](dic://implement), [bacteria](dic://bacteria), [bacterium](dic://bacterium), [area unit](dic://area%20unit), [square measure](dic://square%20measure), [visual cell](dic://visual%20cell)
+- **bolt**门闩;**shaft**柄;**reel**卷;**bushing**套管;**spool**缠绕;**piston**活塞;**bolts**螺栓;**pole**杆;**cylinder**汽缸;**shank**胫;**fishing**捕鱼;
+- _wire rod_ 线材；盘条；盘圆；钢丝筋条
+- _connecting rod_ [机]连杆
+- _sucker rod_ 深井泵活塞杆，抽油杆
+- _spare the rod_ 不忍用杖；对小孩等管教不严；不处罚
+- _piston rod_ n. 活塞杆
+- _welding rod_ 焊条；熔接条
+- _rod mill_ 棒磨；棒磨机
+- _rod pump_ 杆式泵
+- _fishing rod_ n. 钓杆
+- _screw rod_ 螺旋杆；丝杆
+- _anchor rod_ 锚杆；地脚螺栓
+- _lightning rod_ 避雷针
+- _push rod_ 制动缸推杆；推棒；顶杆
+- _control rod_ 控制棒；操纵杆
+- _drill rod_ 钻杆；带孔棒；钎子
+- _tie rod_ 横拉杆；前轮连接杆
+- _steel rod_ 钢拉杆；钢条；钢棍
+- _pumping rod_ 泵杆，抽油杆
+- _sucker rod pump_ 有杆泵；杆式泵
+- _pull rod_ 拉杆；推杆
 - sounding-rod
 - rodman
 - ramrod
@@ -13055,6 +13251,9 @@ scoot
 - scoot over
 - scooter
 
+scorch
+- (s)ker-(3)
+
 score
 - (s)ker-(1), scar
 
@@ -13405,6 +13604,30 @@ seam
 	- No problem! Now for your pants, let me just measure your waist and the inseam. /没问题，现在深呼吸，我来量下你的腰和裤腿内缝。
 - deseaming
 
+sear
+- v. 烧灼, 灼伤; 烤焦; 轻煎; 使骤然感到剧痛
+- vt. 烤焦；使……枯萎
+- vi. 干枯；烧焦；凋谢
+- adj. 枯萎的；烤焦的
+- n. 烙印；烧焦痕迹
+- 来自古英语 searian,使干枯，使枯萎，来自 Proto-Germanic*saurajan,使干枯，来自 PIE*saus,干的，词源同 sere.
+- [scorch](dic://scorch)
+-  [scorch](dic://scorch), [singe](dic://singe)
+- [char](dic://char), [blacken](dic://blacken), [scorch](dic://scorch)
+-  [parch](dic://parch)
+-  [dried-up](dic://dried-up), [sere](dic://sere), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
+- _v._ [heat](dic://heat), [heat up](dic://heat%20up), [burn](dic://burn), [combust](dic://combust), [dry](dic://dry), [dry out](dic://dry%20out)
+- _adj._ [dry](dic://dry)
+- _n._ [wet](dic://wet)
+- **browning**棕色着色剂;**bolt**门闩;**grill**烤架;**fillet**无骨的鱼或肉排;**skillet**煮锅;**saute**炒;**trigger**触发;**pan**平锅，盘子;**steak**牛排;**griddle**矿筛;**recoil**畏缩, 退缩;
+- Her skirt was seared by the hot iron. ./她的裙子被灼热的熨斗烫焦了。
+- The dinner started with club remmendation of Asian pan seared scollop with vegetables. /晚宴上开始首菜亚洲干贝与蔬菜。
+- His soul has been seared by injustice. /他的心灵因受屈辱而变得冷酷无情了。
+- You know you can really sear the steak instead of boil it /你知道牛肉用来煎要比煮的更好。
+- The dish starts with water and seared lamb /这道菜首先有水和煎羊肉。
+- searing
+	- (scorching, blistering, sizzling, searing, steamy, hot, blazing, sultry, fiery, roasting, burning hot, torrid, sweltering, fervent, )
+	- You have like searing blue eyes. /你有一双炽热的蓝眼睛。
 
 seem
 - sem-
@@ -13418,6 +13641,17 @@ seeth
 
 sell
 - etc..
+
+sere (sear)
+- adj. 干枯的，枯萎的
+- n. 演替系列
+- [dried-up](dic://dried-up), [sear](dic://sear), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
+- _adj._ [dry](dic://dry)
+- _n._ [wet](dic://wet)
+- **barren**贫瘠的;**arid**干旱的;
+- The landscape, brown and **sere** beneath the sun. /烈日之下的景色，一片枯黄憔悴。
+- The trees begin to proclaim the change. Soon the leaves will be discarded, the grass will **sere**. / 渐黄的树木开始宣告季节的变更，很快叶落归根，小草即将枯萎。
+- 
 
 set
 - etc..
@@ -13918,6 +14152,7 @@ sizz
 	- _[sizzler](dic://sizzler)_  n. 炎热天；极烫的东西
 	- Whew! What a sizzler 唷! 多热的天哪!
 - sizzling
+	- (scorching, blistering, sizzling, searing, steamy, hot, blazing, sultry, fiery, roasting, burning hot, torrid, sweltering, fervent, )
 
 sketch
 - sketch [sketʃ] n.素描；略图；梗概，v.画素描。塞纳河畔，街头艺术家，10欧就给你画一幅定制版的素描，价钱还不错，来吧。10分钟后，作品完成，拿起来看，很满意，交钱走人。类似这样“立等可取”的感觉就是sketch这个单词的词源。同理scheme计划（与耗时执行相对）也是，只需hold on a minute即可。
@@ -14247,7 +14482,8 @@ sliver
 sloat
 - n. 舞台布景升降机
 
-slow
+slow 
+- (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 - 来自中古英语 slow,来自古英语slaw,懒散的，无精打采的，缓慢的，来自Proto-Germanic*slaiwaz,没精神的，虚弱的，来自 PIE*sleu,没精神的，虚弱的，没精打采的，词源同 slack,sluggard.引申诸相关词义。
 - [decelerate](dic://decelerate), [slow down](dic://slow down), [slow up](dic://slow up), [retard](dic://retard)
 - [slow down](dic://slow down), [slow up](dic://slow up), [slack](dic://slack), [slacken](dic://slacken)
@@ -14956,6 +15192,31 @@ spill
 - He spilled it that Bill was their ringleader. /他透露比尔是他们的主谋。
 - the legal sanctions against oil spills are virtually ineffective. /对石油外溢的法律制裁实际上是无效的。
 - years of frustration spilled over into violence. /多年的失意终于爆发成暴力行为。
+- spilth
+- spillway
+- spillover
+	- _n._ [consequence](dic://consequence), [effect](dic://effect), [outcome](dic://outcome), [result](dic://result), [event](dic://event), [issue](dic://issue), [upshot](dic://upshot)
+	- **effects**财物;**effect**效果;**influx**流入;**impact**影响;**deleterious**有害的;**adverse**不利的;**exacerbate**使恶化;**ripple**波纹;**potential**潜在的, 有可能的;**repercussions**反响;**inflow**流入;
+	- Other resorts could benefit from the spillover of tourists. /其他度假胜地可以从游客带来的影响中间受益。
+	- They can pass onto humans after close contact in a process called zoonotic spillover. /在密切接触后，这些病毒可能以动物传人的方式传给人类。
+	- Fiscal spillovers are more powerful when recipient countries are themselves operating below potential. /当受援国自身的运作低于潜在水平时，财政溢出效应会更为强大。
+	- The prime minister asked the international community for support and warned of a spillover of the unstable security situation. /这位总理请求国际社会提供支持，并警告说，不稳定的安全局势可能会蔓延
+- spillikin
+- spiller
+- spilled
+- spillage
+	- n. 溢出；溢出量
+	- [spill](dic://spill), [release](dic://release)
+	- _n._ [indefinite quantity](dic://indefinite%20quantity), [flow](dic://flow), [stream](dic://stream)
+	- **spills**漏损，溢出;**spill**使溢出，使流出;**contamination**污染;**spilling**跌下;**leakage**泄漏;**drips**水滴;**contaminant**杂质;**mishap**灾祸;**leak**漏洞，裂缝;**mishaps**灾祸;**debris**散落的碎片, 残骸;
+	- _[accidental spillage](dic://accidental%20spillage)_  意外漏油
+	- _[oil spillage](dic://oil%20spillage)_  石油泄漏
+	- _[smoke spillage](dic://smoke%20spillage)_  烟气泄漏
+	- A strainer is recommended to be installed ahead of the backflow preventer to prevent the fouling of the check assembly and resulting spillage from the valve during repressurization. /建议在防回流阀前安装一个过滤器，防止由于止回阀总成受到污染而导致这种阀门在再增压期间产生泄漏或溢出。
+	- What can be used to remove spillage ? /什么可以被用来清除溢油？
+	- Swapping oil cargoes at sea to obscure their origins poses the danger of a spillage. /在海上交换石油货物以掩盖其来源存在泄漏的危险。
+	- So I've got pretty much all of these rows now are in East Town and a little bit of spillage here, but basically I've got East Town in the front; I can't see the balcony. /所以我现在几乎所有这些排都在东城， 这里有一点点溢出，但基本上我把东城放在前面；我看不到阳台。
+- overspill
 
 spin
 - 来自古英语 spinnan,纺纱，织线，来自 Proto-Germanic*spenwan,弯，转，纺织，来自 PIE*spen,弯，转，纺织，词源同 spider,spinner.引申诸相关词义。
@@ -15685,7 +15946,7 @@ strip
 - etc..
 
 strut
-- (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, )
+-  (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, trample, tread)
 - n. 高视阔步; 支柱, 撑杆  v. 趾高气扬地走
 - 来自中古英语 strutian,鼓起，膨胀，僵硬的站立，来自 Proto-Germanic*strut,鼓起，膨胀，来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申比喻义高视阔步，趾高气扬等。
 - 最终来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申词义支杆，支柱。
@@ -17023,13 +17284,15 @@ veneer (venial, veneer, venal)
 
 
 ## W
-wad
+wad (rod)
 - n. 小软团, 小软块, 一卷, 填料, 大量  vt. 揉成一团, 填塞
+- 1. n. 填料；块状软物
+- vt. 使成一团；填塞；使成卷 vi. 易形成团块
 - 词源不详，可能来 Proto-Germanic*wediz,衣服，衬料，词源同 weeds,衣服。引申词义卷，沓。
 - [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
 -  [chew](dic://chew), [chaw](dic://chaw), [cud](dic://cud), [quid](dic://quid), [plug](dic://plug)
 -  [pack](dic://pack), [bundle](dic://bundle), [compact](dic://compact)
--  [pack](dic://pack), [bundle](dic://bundle), [compact](dic://compact)
+-   [jam](dic://jam), [jampack](dic://jampack), [ram](dic://ram), [chock up](dic://chock up), [cram](dic://cram)
 - _n._ [material](dic://material), [stuff](dic://stuff), [large indefinite quantity](dic://large indefinite quantity), [large indefinite amount](dic://large indefinite amount), [morsel](dic://morsel), [bit](dic://bit), [bite](dic://bite)
 - _v._ [arrange](dic://arrange), [set up](dic://set up), [stuff](dic://stuff)
 - _[wad up](dic://wad%20up)_  揉成一团（卷）
@@ -17040,10 +17303,27 @@ wad
 - **panties**女式短裤;**shove**推, 猛推, 乱推;**spit**吐口水;**load**负载，负荷;**crumpled**摺皱的，弄皱的;**goo**感伤;**pile**堆;**handkerchief**手帕;
 - a wad of lint-free rag. /一块不掉棉绒的抹布。
 - The children waded out into the lake /孩子们一路蹚水到了湖里。
-- 
+- Use this wad of cloth to plug the barrel. /用这软布把桶塞上。
+-  Wad the space with paper, please /请用报纸填塞空隙。
+- The wad of chewing gum hits your stomach intact. /一整块口香糖将会进入你的胃。
+- Watching Tom I saw the wad of muscle back of his shoulder tighten under his coat. /我注视着汤姆，看见他肩膀后面那团肌肉在上衣下面紧张起来。
+- Rich countries are offering their citizens wads of cash with very few strings attached, say supporters. /支持者说，富裕国家给他们的公民提供大量现金，几乎不带附加条件。
+- The samples look just like chewed-up wads of modern-day gum. /样本看上去就像嚼过的一团现代口香糖。
+-  A few years later newspapers execrated the gallery for having wasted brick-shaped wads of cash on the avant-garde work. /几年后，报纸谴责美术馆在这种前卫的作品上浪费了大量的砖形钞票。
+- Philpott tamped a **wad** of tobacco into his pipe /菲尔波特一团烟丝捣进他的烟斗
+- The flies settled on Satan again. He sneezed a **wad** of snot onto the dash  /苍蝇又落在撒旦身上。他打了个喷嚏，一团鼻涕喷到了仪表盘上。
+- Um, I don't know. Probably in a wad in her cheek. /唔，我不知道。大概在她脸上的一团肉里吧。
 
 waffle
+- 1. n. 华夫饼干；动听而无意义的话；无聊话 vi. 胡扯；闲聊
 - **pancake**薄烤饼;**pancakes**薄烤饼;**griddle**矿筛;**biscuit**小点心，饼干;**crepe**绉绸;**fries**炸薯条;**donut**炸面圈;**doughnut**圆环图;**iron**铁;**sandwich**三明治;**oatmeal**燕麦粥;
+-  [hesitate](dic://hesitate), [waver](dic://waver)
+- _n._ [cake](dic://cake)
+- **pancake**薄烤饼;**pancakes**薄烤饼;**griddle**矿筛;**biscuit**小点心，饼干;**crepe**绉绸;**fries**炸薯条;**donut**炸面圈;**doughnut**圆环图;**iron**铁;**sandwich**三明治;**oatmeal**燕麦粥;
+- _waffle iron_ 对开式铁心；烘蛋奶饼的铁模
+- Cut the waffle and get to the point. /别胡扯,谈正题。
+- Joseph had been waffling over where to go. /约瑟夫一直无法决定去哪里。
+- Yes, something was definitely afoot as we swallowed the dings of edgeless risk and waffled our way towards year-end. /是的，在我们承担无谓的投资风险，在闲扯中等待年底的到来时，有些东西正在酝酿之中。 
 
 waft
 - a long flag; often tapering
@@ -17137,6 +17417,9 @@ wank
 - _n._ [masturbation](dic://masturbation), [onanism](dic://onanism)
 - _v._ [stimulate](dic://stimulate), [excite](dic://excite), [stir](dic://stir)
 - **masturbate**)进行手淫;**fuck**与性交;**dick**阴茎;**masturbation**手淫;**piss**小便;**cunt**女性阴部;**twat**笨蛋;**fucking**用以增强表示愤怒,烦恼等的语气;**handjob**手淫;**cock**公鸡;**arse**屁股;
+- OK, well that's the part where I'm a wank. But I was hoping you know we wouldn't focus on that /这件事我是挺混蛋，不过我希望，我们不要关注这点
+- I think he's been wanking over me. /我想是他一直在意淫我。
+- Do guys think about particular girls when they wank? /男人自慰时会想到特定的女孩吗？
 
 want
 - wants
@@ -17172,6 +17455,12 @@ warble (different from shirk/caterwauling)
 - **sing**唱歌;**chirping**啁啾声;**whistling**吹笛;**hum**发低哼声;**humming**发嗡嗡声的;**chorus**合唱队;**melody**旋律;**singing**歌声;**howl**怒吼;**flutter**飘动;**screeching**发动机啸声;
 - _[warbled](dic://warbled)_  v. 用柔和的颤音唱；鸟鸣（warble的过去分词）; adj. 经过调频的; 
 - _[warble tone](dic://warble%20tone)_  啭声；[声] 颤音；[通信] 低昂音
+- The brook warbled over its rocky bed. /小溪潺潺流过多石的河床。
+- A Synthetic Music machine was warbling out a super-cornet solo /组合音箱里的超级短号独奏悠扬动听。
+- The recordings were divided by acoustic features that used speech processing techniques to track pitch and voice warble and intensity. /使用语音处理技术追踪语调的起伏、颤动和强度，然后根据声学特征对录音进行区分。
+- " You are really very comforting, " warbled the duchess. /“你真的很安慰人，”公爵夫人喃喃地说。
+- Memories of driving through a speckled canopy of golden leaves, you gazing at me, warbling the lyrics together. / 开车穿过金色树叶的树冠的回忆，你凝视着我，一起吟唱着歌词。
+- Crooners had a signature warble of bouncing between notes in the melody, like Vallee does here in his 1929 hit Honey /Crooners 在旋律中的音符之间有一种标志性的颤音，就像 Vallee 在他 1929 年的热门歌曲 Honey 中所做的那样
 - warbler
 	- n. 女歌手, 刺嘴莺
 
@@ -17205,7 +17494,28 @@ wash
 	- _n._ [empty](dic://empty)
 	- **brimming**盈满的;**replete**充满的;**teeming**多产的，丰富的;**inundated**洪泛的;**rife**流行的;**overflowing**溢出,过剩;**swamped**泥沼状的;**mired**使…陷于泥泞，使…陷入困境;**plethora**过剩;**filled**加满的;**drenched**湿透的;
 	- the city was awash with journalists. /新闻记者纷纷涌进这座城市。
+	- The crime shocked a country already awash in violence. /这一罪行震惊了这个已经充斥着暴力的国家。
+	- Really, we're awash in all kinds of different data. /我们身边充斥着各种不同的数据。
+	- The one-hour bloodless battle, known as the Tomatina, left the town awash in a sea of tomato pulp. /这场“没有鲜血”的战争持续一小时，整个小镇变成了一片红色的海洋。
+	- Tucked away in between Thailand, Laos, and Vietnam, Cambodia is awash with astounding historical ruins and archaeological sites. /位于泰国、老挝和越南之间的柬埔寨，遍地都是令人惊叹的历史遗迹和考古遗址。
+	- Pakistan will celebrate Independence Day next week, and the capital is awash in stalls selling green-and-white national flags /巴基斯坦下周将庆祝独立日，首都的各个摊位都在售卖白绿两色组成的国旗。
 - etc..
+
+wattle
+- n. 枝条构架, 编条, 枝条, 板条, 肉垂, 鱼须  
+- a. 由编条做成的, 板条的  vt. 用编条做成
+-  n. 金合欢树；枝条编成的篱笆；板条，编条
+2. adj. 板条的；由编条做成的vt. 用编条做成
+- 来自 PIE*au,编织，词源同 weeds,衣服。引申词义编条结构，篱笆。
+- [lappet](dic://lappet) 
+- _n._ [caruncle](dic://caruncle), [caruncula](dic://caruncula), [framework](dic://framework), [frame](dic://frame), [framing](dic://framing)
+- _v._ [construct](dic://construct), [build](dic://build), [make](dic://make), [intertwine](dic://intertwine), [twine](dic://twine), [entwine](dic://entwine), [enlace](dic://enlace)
+- **bush**矮树丛;**willow**柳木制品;**shrub**灌木;**lilac**淡紫色;**beak**鸟嘴;**cedar**雪松;**feathers**羽状裂缝;**kiwi**新西兰人;**timber**木料;**chestnut**栗子;**berry**浆果;
+- The male displays another feature—an extendable wattle. /雄鸟还展示另一特征——可延长的囊肉。
+- Who knows wattle they'll do with their lives? /谁知道他们会用生命做什么？
+- Acacia—Also known as golden wattle, acacia is the most representative plant of Australia /金合欢——又称金合欢，金合欢是澳大利亚最具代表性的植物。
+- **Wattle** – the floral emblem of Australia – has proved a huge problem for South Africa /金合欢树（澳大利亚的植物象征）给南非带来了严重问题。
+- wattled
 
 way
 - wireways

@@ -576,34 +576,73 @@
 		9. They were impoverished by a prolonged spell of unemployment. /他们因长期失业而一贫如洗。
 	6. sidelong
 	7. length
-	8. lounge
-		1. lounge - lounge一词很可能源自Longīnus。据传，Longīnus乃古罗马军团一个百人队队长（centurion）。耶稣被钉在十字架时，他用矛在其胸侧刺戳，以后皈依基督教，中世纪时被尊奉为圣徒。在中世纪神秘剧（mystery play）中Longīnus（也作Longis）常被描绘成一个个子高大、举止粗鲁的懒汉，爱把身子斜靠在长矛上，一副无精打采的样子，故而一直有人据此推断，意为“懒洋洋地倚靠（或躺、坐、站）”或“懒洋洋的姿势（或步子）”的lounge一词可能即源于此。但有些具有权威性的辞书却提出另一种解释，认为lounge是16世纪源自法语longis 'drowsy laggard'（懒散的人），而longis则可能源出Longīnus的大名。到了18世纪lounge开始被用作名词，意指“休息室”，显然此义是从前面的词义引申出来的。
-		2. lounge [laʊn(d)ʒ] n.休息室；闲逛；躺椅，vi.闲逛；懒洋洋地躺卧，vt.虚度光阴。耶稣被钉在十字架上后，为试探死活，罗马士兵Longinus用长矛刺穿了耶稣的侧腹，鲜血染红了长矛，同时滴入Longinus的鲜血治愈了其眼疾。传说Longinus身材高大，但总是懒洋洋地斜靠着自己的长矛，单词lounge或来源于此。 ​​​​
-		3. 可能来自法语 allonger,逗留，停留，来自 al-,向，long,长的，长时间的。引申词义停留，逗留，休息。用于指休息厅，候机厅，酒吧等。
-		4. n. 休息厅; 等候大厅; 起居室  v. 懒洋洋的坐着、躺着
-		5. [sofa](dic://sofa), [couch](dic://couch)
-		6. [waiting room](dic://waiting room), [waiting area](dic://waiting area)
-		7. [loiter](dic://loiter), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
-		8. _n._ [seat](dic://seat), [room](dic://room)
-		9. _v._ [sit](dic://sit), [sit down](dic://sit down), [be](dic://be)
-		10. **dining**吃饭，进餐;**poolside**在游泳池边的;**downstairs**楼下的;**terrace**梯田;**sofa**沙发;**veranda**阳台;**patio**天井;**cafe**咖啡馆;**upstairs**在楼上，向楼上;**room**房间;**seating**就座;
-		11. _lobby lounge_ 大堂酒廊；大堂酒吧
-		12. _cocktail lounge_ 餐馆；鸡尾酒会
-		13. _departure lounge_ 候机室；启程处
-		14. _lounge chair_ 睡椅，沙发床
-		15. lounge about the door /闲散过日
-		16. a tasteful lounge bar. /一个有品位的雅座酒吧。
-		17. Don't lounge around all day! /不要整天闲荡!
-		18. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
-		19. the relaxed ambience of the cocktail lounge is popular with guests. /客人们很喜欢休闲酒吧的悠闲氛围。
-		20. she lounged on the steps, pouting. /她撅着嘴，在台阶上闲呆着。
-		21. lounging on the sofa; lounged around in pajamas. /慵懒地躺在沙发上；穿着睡衣到处闲逛
-		22. Don't lounge away your working hours. /s不要消磨工作时间。
-		23. the hotel features a large lounge, a sauna, and a coin-operated solarium. /这家酒店的特点是有一个阔敞的大厅，一个桑拿浴室和一个投币的日光浴室。
-		24. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
-		25. I find the lounge such a cozy place to study in /我发现休息室真是个惬意的学习场所。
-		26. I know. Where is the departure lounge? /我知道。出境大厅在哪里呢？
-	9. lunge
+		1. [finally](dic://finally), [eventually](dic://eventually)
+		2.  [lengthily](dic://lengthily)
+		3. [at last](dic://at%20last) 多指经主观努力，克服各种困难后才终于达到目的。  
+			1. [at length](dic://at%20length) 强调经历一段长时间后终于完成，侧重在时间部分。  
+			2. [eventually](dic://eventually) 侧重于动作或行为的结果。  
+			3. [finally](dic://finally) 常与at last换用，都可用于对往事的描述，但finally不带感情色彩，指一系列事情的最后结局。  
+			4. [in the end](dic://in%20the%20end) 与at last同义，但in the end不仅可指“过去”还可表示对“未来”的预计。  
+			5. [lastly](dic://lastly) 指连续顺序的最后，通常用在列举事情的场合。
+		4. _[At length the](dic://At%20length%20the)_  在长度上
+		5. _[At Length Often Reflexed](dic://At%20Length%20Often%20Reflexed)_  最后通常反折
+		6. _[Consider Carefully And At Length](dic://Consider%20Carefully%20And%20At%20Length)_  想来想去
+		7. _[At length he pulled through](dic://At%20length%20he%20pulled%20through)_  他终于恢复了健康
+		8. _[Talk at length](dic://Talk%20at%20length)_  量的系统表述；详细阐述；不嫌词费
+		9. _[speak at length](dic://speak%20at%20length)_  语言表达详尽的能力
+		10. _[dwell at length upon](dic://dwell%20at%20length%20upon)_  不厌其详
+		11. _[dwell at length on](dic://dwell%20at%20length%20on)_  详细讲述
+		12. _[at length](dic://at%20length)_  最后，终于；详细地
+		13. _[at great length](dic://at%20great%20length)_  详细地；细致地
+		14. _[at full length](dic://at%20full%20length)_  极详细地，详详细细地；全身平伸地
+		15. _[at arm's length](dic://at%20arm's%20length)_  疏远；在手臂伸得到的地方
+		16. At length she decided what to do. /最后她终于想好了办法。
+		17. Think at length about seating plans and flowers. /仔细的思考着座位的安排和婚礼用花。
+		18. Writer E. Jean Carroll has testified at length. /作家E·简·卡罗尔详细作证。
+		19. Tell me at length what happened. /详细告诉我发生了什么事。
+		20. At length the Saturday before arrived. /终于到了星期六，私奔的前两天。
+		21. At length the door opened, and the forty thieves came out. /门终于开了，四十个强盗出来了。
+		22. whole-length
+		23. wavelength
+		24. multilength
+		25. lengthy
+			1. lengthiness
+			2. lengthily
+		26. lengthwise
+		27. lengthways
+		28. lengthen
+			1. lengthening
+		29. half-length
+		30. full-length
+		31. feature-length
+	20. lounge
+		11. lounge - lounge一词很可能源自Longīnus。据传，Longīnus乃古罗马军团一个百人队队长（centurion）。耶稣被钉在十字架时，他用矛在其胸侧刺戳，以后皈依基督教，中世纪时被尊奉为圣徒。在中世纪神秘剧（mystery play）中Longīnus（也作Longis）常被描绘成一个个子高大、举止粗鲁的懒汉，爱把身子斜靠在长矛上，一副无精打采的样子，故而一直有人据此推断，意为“懒洋洋地倚靠（或躺、坐、站）”或“懒洋洋的姿势（或步子）”的lounge一词可能即源于此。但有些具有权威性的辞书却提出另一种解释，认为lounge是16世纪源自法语longis 'drowsy laggard'（懒散的人），而longis则可能源出Longīnus的大名。到了18世纪lounge开始被用作名词，意指“休息室”，显然此义是从前面的词义引申出来的。
+		12. lounge [laʊn(d)ʒ] n.休息室；闲逛；躺椅，vi.闲逛；懒洋洋地躺卧，vt.虚度光阴。耶稣被钉在十字架上后，为试探死活，罗马士兵Longinus用长矛刺穿了耶稣的侧腹，鲜血染红了长矛，同时滴入Longinus的鲜血治愈了其眼疾。传说Longinus身材高大，但总是懒洋洋地斜靠着自己的长矛，单词lounge或来源于此。 ​​​​
+		13. 可能来自法语 allonger,逗留，停留，来自 al-,向，long,长的，长时间的。引申词义停留，逗留，休息。用于指休息厅，候机厅，酒吧等。
+		14. n. 休息厅; 等候大厅; 起居室  v. 懒洋洋的坐着、躺着
+		15. [sofa](dic://sofa), [couch](dic://couch)
+		16. [waiting room](dic://waiting room), [waiting area](dic://waiting area)
+		17. [loiter](dic://loiter), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+		18. _n._ [seat](dic://seat), [room](dic://room)
+		19. _v._ [sit](dic://sit), [sit down](dic://sit down), [be](dic://be)
+		20. **dining**吃饭，进餐;**poolside**在游泳池边的;**downstairs**楼下的;**terrace**梯田;**sofa**沙发;**veranda**阳台;**patio**天井;**cafe**咖啡馆;**upstairs**在楼上，向楼上;**room**房间;**seating**就座;
+		21. _lobby lounge_ 大堂酒廊；大堂酒吧
+		22. _cocktail lounge_ 餐馆；鸡尾酒会
+		23. _departure lounge_ 候机室；启程处
+		24. _lounge chair_ 睡椅，沙发床
+		25. lounge about the door /闲散过日
+		26. a tasteful lounge bar. /一个有品位的雅座酒吧。
+		27. Don't lounge around all day! /不要整天闲荡!
+		28. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
+		29. the relaxed ambience of the cocktail lounge is popular with guests. /客人们很喜欢休闲酒吧的悠闲氛围。
+		30. she lounged on the steps, pouting. /她撅着嘴，在台阶上闲呆着。
+		31. lounging on the sofa; lounged around in pajamas. /慵懒地躺在沙发上；穿着睡衣到处闲逛
+		32. Don't lounge away your working hours. /s不要消磨工作时间。
+		33. the hotel features a large lounge, a sauna, and a coin-operated solarium. /这家酒店的特点是有一个阔敞的大厅，一个桑拿浴室和一个投币的日光浴室。
+		34. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
+		35. I find the lounge such a cozy place to study in /我发现休息室真是个惬意的学习场所。
+		36. I know. Where is the departure lounge? /我知道。出境大厅在哪里呢？
+	21. lunge
 		1. n. 刺, 刺进, 跃进, 套马索  v. 突进, 刺
 		2.  原为击剑术语，来自古法语 allonger,刺，向前伸，来自 al-,向，long,长的，伸长。引申词义猛冲，猛扑。
 		3. [lurch](dic://lurch)
@@ -619,18 +658,21 @@
 		13. The man lunged at her, reaching for her throat /那个男人喘着粗气，直扑她的喉咙。
 		14. And exhale, step the left toes back nice low lunge. /呼气，左脚脚趾向后迈出漂亮的低弓步。
 		15. s
-	10. purloin
+	22. purloin
 		1. pur-向前 + loin-长的，词源同long , lunge , lounge . 原义为延长，拖延，后引申词义偷窃，擅自使用。
 		2.  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift) 
 		3. _v._ [steal](dic://steal)
 		4. **procure**获得，取得;**steal**剽窃;**seize**抓住;**acquire**获得;**apprehend**理解;**furnish**供应;**likewise**也;**bestow**授予;**devise**设计;**snatch**抢夺;**expend**花费
 		5. he must have managed to purloin a copy of the key /他肯定想办法偷偷复制了这把钥匙。
 		6. purloined the key to his safe-deposit box /拿走了他保险盒的钥匙。
-6. lent
+		7. I will deliver him and his purloined list to you and not to any of the other interested parties /我会把他和他的名单给你们而不是其它对此有兴趣的组织。
+		8. A well-aimed stone, baseball or similar missile is enough to bring it down, permitting its payload to be purloined. /一枚瞄准好的石头、棒球或类似的投掷就足以将其击落，使其运送货物被窃取。
+		9. That's understandable. So is punishing those who **purloin** classified materials /因此处罚那些偷窃秘密材料的人员也是可以理解的。
+3. lent
 	1. [Lententide](dic://Lententide)
 	2. _n._ [season](dic://season)
 	3. **borrowed**借来的;**borrow**借;**gave**给予;**borrowing**借,借入;**donated**捐赠的;**brought**带来;**repaid**偿还;**indebted**负债的;**generously**宽大地;**repay**偿还;**owed**感恩，亏欠，负债];
-7. linger
+4. linger
 	1. vi. 逗留, 消磨, 徘徊  vt. 消磨
 	2. 1 - 来自古英语 lengan,延长，加长，词源同 long.引申词义逗留，流连。
 	3. _v._ [persist](dic://persist), [remain](dic://remain), [stay](dic://stay), [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
@@ -641,35 +683,42 @@
 	8. the lingering sweetness of incense /萦绕不去的熏香气味
 	9. the tradition seems to linger on /这个传统现在似乎还不会消亡。
 	10. Larry didn't linger over his work completely, but he did linger over it to some extent. /劳里虽未完全磨洋工, 但多少有一点。
-8. long
+5. long
 
 
 ### + \*dele- + = to split, carve, cut
 1. **dol-** = grieve, 「latin」dolere, "to suffer"
-	1. condole,
-		1. [commiserate](dic://commiserate), [sympathize](dic://sympathize), [sympathise](dic://sympathise)
-		2. **mourn**哀悼;**mourning**哀痛;**bereaved**丧失的;**grieve**使悲伤，使苦恼;**sorrow**悲伤;**saddened**使…悲伤;**condemn**判刑，定罪;**grief**悲痛;
-		3. _condole with_ v. 向...吊慰
-		4. condolatory
-		5. condolence
+	1. condole
+		1. con-共同 + dole-伤心 → 共同的悲伤 → 哀悼。
+		2. vi. 哀悼, 慰问, 吊唁
+		3. [commiserate](dic://commiserate), [sympathize](dic://sympathize), [sympathise](dic://sympathise)
+		4. **mourn**哀悼;**mourning**哀痛;**bereaved**丧失的;**grieve**使悲伤，使苦恼;**sorrow**悲伤;**saddened**使…悲伤;**condemn**判刑，定罪;**grief**悲痛;
+		5. _condole with_ v. 向...吊慰
+		6. " It's too bad, isn't it" ? I condoled with him. " When I'm so sorry afterward" . /“太糟糕了， 不是吗” ？我安慰他。“事后我很抱歉” 。
+		7. She was not condoling the fact, but merely mentioned it as a person of advanced views who is above prejudice. /她并不是在宽恕这个事实， 只是作为一个没有偏见的有见地的人提出来的。
+		8. " Since Zhou has already established a new king, we ought to send someone to condole and congratulate, " His Lordship said. /”君曰：“周既已立新王，理当派人吊唁贺喜。
+		9. We **condole** with you on your misfortune /我们对您的不幸表示慰问。
+		10. condolatory
+		11. condolence
 			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
 			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
 	2. indolent, indolence
 		1. (insulate, insolent, indolent obsolete, desolate, insolate)
-		2. in-不，非 + dol-伤心的，悲伤的 + -ent → 懒惰的人安于现状，没有悲伤的 → 懒惰的。
-		3. 1 - in-,不，非，-dol,伤心的，悲伤的，词源同 condole,doleful.即没有悲伤的，后引申词义不用忍受痛苦的，不用尝试做事的，懒惰的。
-		4. _adj._ 懒惰的, 懒散的, 不活跃的
-		5. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
-		6. [idle](dic://idle), [inactive](dic://inactive)
-		7. [busy](dic://busy), [active](dic://active)
-		8. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
-		9. an indolent tumor /无痛感肿瘤
-		10. an indolent ulcer. /慢性溃疡
-		11. humid, indolent weather. /令人困倦的潮湿天气
-		12. Well, I am not an indolent person /我不是一个懒惰的人。
-		13. The ordinary feelings which make life amiable and indolent, were unknown to him /赋予生命以和蔼和懒惰这些特质的正常情感，他无从知晓。
-		14. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
-		15. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
+		2.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
+		3. in-不，非 + dol-伤心的，悲伤的 + -ent → 懒惰的人安于现状，没有悲伤的 → 懒惰的。
+		4. 1 - in-,不，非，-dol,伤心的，悲伤的，词源同 condole,doleful.即没有悲伤的，后引申词义不用忍受痛苦的，不用尝试做事的，懒惰的。
+		5. _adj._ 懒惰的, 懒散的, 不活跃的
+		6. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
+		7. [idle](dic://idle), [inactive](dic://inactive)
+		8. [busy](dic://busy), [active](dic://active)
+		9. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
+		10. an indolent tumor /无痛感肿瘤
+		11. an indolent ulcer. /慢性溃疡
+		12. humid, indolent weather. /令人困倦的潮湿天气
+		13. Well, I am not an indolent person /我不是一个懒惰的人。
+		14. The ordinary feelings which make life amiable and indolent, were unknown to him /赋予生命以和蔼和懒惰这些特质的正常情感，他无从知晓。
+		15. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
+		16. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
 	4. dolesome
 		1. adj. 寂寞的；悲哀的
 	5. dolorous

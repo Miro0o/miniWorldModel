@@ -294,7 +294,7 @@
 		7. lethargize
 			1. _[lethargize](dic://lethargize)_  vt. 使无生气；使昏睡
 		8. lethargic (lethargic, somnolent, slumberous, hypersomnia, dozy,  sleepy, drowsy, doze,)
-			1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic)
+			1.   (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 			2. _adj._ [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [logy](dic://logy), [stuporous](dic://stuporous), [dreamy](dic://dreamy), [lackadaisical](dic://lackadaisical)
 			3. _n._ [energetic](dic://energetic)
 			4. **sluggish**萧条的;**fatigued**疲乏的;**irritable**易怒的, 急躁的;**sleepy**困乏的;**tired**疲倦的;**restless**焦躁不安的;**cranky**暴躁的;**lifeless**无生命的;**erratic**不稳定的;**sickly**有病的，苍白的;**unwell**生病的
@@ -541,19 +541,30 @@
 	2. lapidary
 		1. **gemstone**宝石;**lathe**用车床加工;**jewelry**珠宝;**prose**散文;**poetic**诗的，诗歌的;**pottery**陶器;**stone**石头;**engraving**雕刻的画;**diamond**钻石，金刚石;**ceramics**制陶术，制陶业;**stones**小石头;
 	3. lapidate
-		1. lapidation
+		1. vt. 以石投击；投石击毙
+		2. lapidation
 			1. **punishment**处罚, 受罚;**mutilation**切断;**adultery**通奸，通奸行为;**martyrdom**殉难;**crucifixion**苦难;**transgression**犯罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**torture**折磨;**beheaded**身首异处的;**penance**使…以苦行赎罪;**retribution**应得的惩罚或赔偿;
-		2. dilapidate
-			1. **demolish**毁坏;**disrepair**失修,破损;**derelict**玩忽职守的;**decaying**颓坏;**edifice**大厦;**crumbling**皱纹;**ruins**废墟;**demolition**毁坏,破坏;**renovate**修复;**deteriorate**恶化;**rotting**深蚀刻;
-			2. dilapidator
-			3. dilapidation
+		3. dilapidate (dilatory, dilapidate, derelict, )
+			1. _v._ [destroy](dic://destroy), [destruct](dic://destruct)
+			2. **demolish**毁坏;**disrepair**失修,破损;**derelict**玩忽职守的;**decaying**颓坏;**edifice**大厦;**crumbling**皱纹;**ruins**废墟;**demolition**毁坏,破坏;**renovate**修复;**deteriorate**恶化;**rotting**深蚀刻;
+			3. _[broken dilapidated](dic://broken%20dilapidated)_ 残败破旧
+			4. _[dilapidated rural houses](dic://dilapidated%20rural%20houses)_ 农村危房
+			5. _[dilapidate their study](dic://dilapidate%20their%20study)_ 荒废学业
+			6. _[dilapidated rural housing](dic://dilapidated%20rural%20housing)_ 农村危房
+			7. _[The classrooms were dilapidated](dic://The%20classrooms%20were%20dilapidated)_ 那教室已破败不堪
+			8. _[dilapidate roof by cutting grooves](dic://dilapidate%20roof%20by%20cutting%20grooves)_ 切槽放顶
+			9. We let our water system just dilapidate to the point of collapse /我们让我们的水系统被破坏到崩溃的地步。
+			10. Correspondingly, more and more students who live off-campus go wrong easily and **dilapidate** their study. And many crimes are thus committed by them. /相对应的，校外租房居住大学生中误入歧途、荒废学业等问题开始增多，并出现了不少针对他们的犯罪案件。
+			11. It was this guest house, it had kind of been dilapidated, not taken care of for a long time /就是这家招待所， 有点破旧，好久没人打理了。
+			12. dilapidator
+			13. dilapidation
 				1. **disrepair**失修,破损;**decay**腐烂，腐朽;**deterioration**恶化,变坏;**derelict**玩忽职守的;**demolition**毁坏,破坏;**crumbling**皱纹;**decaying**颓坏;**renovation**翻新;**neglect**疏忽，忽视;**ruins**废墟;**redevelopment**恢复经济发展,重点恢复;
-			4. dilapidated
+			14. dilapidated
 		4. delapidate
 	4. lapidity
 
 
-### ### laur- = laurel, 表示“月桂”。源自拉丁语 laurus "laurel tree."
+###  laur- = laurel, 表示“月桂”。源自拉丁语 laurus "laurel tree."
 1. laureate
 	1. a. 戴桂冠的, 用月桂树枝编织成的, 荣誉的  
 	2. n. 桂冠诗人  
@@ -663,7 +674,7 @@
 	5. **babbling**胡说;**ramble**漫步;**nonsense**谬论;**chatter**唠叨;**drivel**淌口水,说傻话;**inane**愚蠢的;**jargon**行话，术语;**giggle**傻笑;**howl**怒吼;**groan**呻吟;**moan**呻吟;
 	6. The little boy gabble his prayers and jump into bed. /那小男孩匆匆念过祷文就跳上了床。
 	7. Don’t gabble, Lucy, I can’t understand when you run your words together. /不要说得那么急，露西，你说话象连珠炮似的，我听不懂。
-6. hobble
+6. hobble (wobble)
 	1. [fetter](dic://fetter)
 	2. [hitch](dic://hitch), [limp](dic://limp)
 	3. [limp](dic://limp), [gimp](dic://gimp), [hitch](dic://hitch)
@@ -678,7 +689,7 @@
 	12. Johnson was still hobbled slightly by an ankle injury. /约翰逊由于脚踝受伤，现在走路还有点瘸。
 	13. hobbled by responsibilities; /被责任拴住了手脚；
 	14. hobbly
-8. hurtle
+7. hurtle
 	1. [lunge](dic://lunge), [hurl](dic://hurl), [thrust](dic://thrust)
 	2.  [hurl](dic://hurl), [cast](dic://cast)
 	3. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [throw](dic://throw)
@@ -687,7 +698,7 @@
 	6. Instead, it gets sent hurtling back towards Earth. /相反，它会被送回地球。
 	7. Ove's eyes followed it while he hurtled forward in the opposite direction, with the Mercedes on his tail /欧维用余光跟着它，同时朝反方向猛冲，奔驰紧随其后。
 	8. Comet Hale-Bopp is hurtling through the inner solar system /海尔波普彗星正在急速穿过内太阳系。
-9. muddle
+8. muddle
 	1.  [clutter](dic://clutter), [jumble](dic://jumble), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
 	2.  [fix](dic://fix), [hole](dic://hole), [jam](dic://jam), [mess](dic://mess), [pickle](dic://pickle), [kettle of fish](dic://kettle of fish)
 	3. [puddle](dic://puddle)
@@ -702,8 +713,13 @@
 	12. the finances were in a muddle . /财务管理杂乱无章。
 	13. muddler
 	14. muddleheaded
-11. mumble
-12. rabble
+9. mumble
+	1. [mutter](dic://mutter), [maunder](dic://maunder), [mussitate](dic://mussitate)
+	2. [gum](dic://gum)
+	3. _n._ [utterance](dic://utterance), [vocalization](dic://vocalization)
+	4. _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [chew](dic://chew)
+	5. **whisper**私语;**groan**呻吟;**whispers**沙沙声;**yell**大叫，叫喊;**sighs**叹息;**babbling**胡说;**whispered**耳语的,低语的;**whispering**窃窃私语;**muffled**听不清的;**chuckle**咯咯的笑，轻声地笑;**shrug**耸肩，耸肩表示;
+10. rabble
 	1. n. 乌合之众；暴民；下层社会；（搅炼用的）长柄耙 vt. 聚众闹事；用长柄耙搅拌
 	2. [mob](dic://mob), [rout](dic://rout)
 	3.  [riffraff](dic://riffraff), [ragtag](dic://ragtag), [ragtag and bobtail](dic://ragtag and bobtail)
@@ -719,7 +735,7 @@
 	13. rabblement
 	14. rabble-rousing
 	15. rabble-rouser
-14. scribble (dribble)
+11. scribble (dribble)
 	1.  [scratch](dic://scratch), [scrawl](dic://scrawl), [cacography](dic://cacography)
 	2. [scrabble](dic://scrabble), [doodle](dic://doodle)
 	3. [scrawl](dic://scrawl)
@@ -730,7 +746,7 @@
 	8. they scribbled, potted, and painted /他们写呀，删呀，画呀。
 	9. What do you make of this fellow's scribble? /对于这个人的笔迹你有什么见解？
 	10. scribbler
-15. shuffle
+12. shuffle
 	1. [shuffling](dic://shuffling), [make](dic://make)
 	2. [shamble](dic://shamble), [shambling](dic://shambling), [shuffling](dic://shuffling)
 	3. [scuffle](dic://scuffle), [shamble](dic://shamble)
@@ -747,11 +763,11 @@
 	14. shuffling
 	15. shuffler
 	16. reshuffe
-16. snuggle
-17. sparkle
+13. snuggle
+14. sparkle
 	1. sparkling
 	2. sparkler
-18. startle
+15. startle
 	1. [jump](dic://jump), [start](dic://start)
 	2. [galvanize](dic://galvanize), [galvanise](dic://galvanise)
 	3. [jump](dic://jump), [start](dic://start)
@@ -767,16 +783,36 @@
 	13. startling
 	14. startler
 	15. startled
-19. topple
-20. trample
-21. waddle
+16. topple
+	1. top【顶端，头部】 + -le, 表反复。从顶部摔下，倒塌等。
+	2. v. （使）失去平衡而坠落, 倒塌, 倒下; 打倒, 推翻;
+	3. [tumble](dic://tumble)
+	4. _v._ [descend](dic://descend), [fall](dic://fall), [go down](dic://go%20down), [come down](dic://come%20down), [push](dic://push), [force](dic://force)
+	5. **overthrow**打倒;**oust**剥夺;**overturn**推翻;**dismantle**拆开, 拆卸;**destroy**毁坏;**crumble**崩溃;**weaken**减少;**overthrown**打翻的;**undermine**在某物下挖洞或挖通道;**collapse**倒塌;**propel**推进;
+	6. The general is accused of conniving in a plot to topple the government. /将军被指控纵容一个颠覆政府的阴谋。
+	7. The child toppled over. /那个小孩跌倒了。
+	8. Statues have been toppled and punches thrown. /英国民众推倒雕像并拳打脚踢。
+17. trample (trammel)
+	1. [trampling](dic://trampling)
+	2. [tread](dic://tread)
+	3. [tramp down](dic://tramp down), [tread down](dic://tread down)
+	4. _n._ [sound](dic://sound)
+	5. _v._ [walk](dic://walk), [injure](dic://injure), [wound](dic://wound)
+	6. **stomp**跺;**threaten**威胁;**humiliate**蒙羞;**injure**伤害，损害;**inflict**把…强加给, 使承受, 遭受;**kneel**跪下，跪;**harass**使烦恼;**slay**杀害;**lest**唯恐，以免;**graze**擦伤;**offend**冒犯;
+	7. _trample on_ v. 践踏；蹂躏
+	8. _trample down_ 践踏
+	9. The hunter was trampled to death by a wild elephant. /那猎人被一头野象踩死了。
+	10. Don't trample on the flowers when you play in the garden /在花园里玩耍时，不要踩坏花。
+	11. He saved a little girl from being trampled underfoot in the rush for the fire exit. /他从冲向安全出口的人群脚下救出了一个小女孩。
+	12. Now Wiltshire is being trampled by summer tourists, many of them mystically inclined. /而如今Wiltshire还正遭受着游人的蹂躏，他们中的许多有神秘主义思想倾向。
+18. waddle
 	1.  [toddle](dic://toddle), [coggle](dic://coggle), [totter](dic://totter), [dodder](dic://dodder), [paddle](dic://paddle)
 	2. _n._ [gait](dic://gait)
 	3. _v._ [walk](dic://walk)
 	4. **walk**步行，走;**duck**鸭子;**crawl**爬行;**trot**疾走;**penguin**企鹅;**ducks**薄帆布工作服，帆布裤子;**stroll**闲逛;**chubby**圆胖的，丰满的;**gait**步法，步态;**penguins**企鹅;**crawling**表面涂布不匀;
 	5. _[waddling](dic://waddling)_  v. 蹒跚行走，摇摆地行走（waddle 的现在分词）
 	6. _[waddling gait](dic://waddling%20gait)_  鸭步; 鸭步态;
-22. draggle
+19. draggle
 	1.  [bedraggle](dic://bedraggle)
 	2. _v._ [drench](dic://drench), [douse](dic://douse), [dowse](dic://dowse), [soak](dic://soak), [sop](dic://sop), [souse](dic://souse)
 	3. a draggle-tailed wench /穿着邋遢曳地长裙的妇女。
@@ -784,7 +820,7 @@
 	6. draggle-tail
 	7. bedraggle
 		1. _[bedraggled](dic://bedraggled)_  adj. 全身泥污的；满身湿透的；荒废的，破烂的; v. 把…在泥水中拖脏；把…拖湿（bedraggle的过去分词）;
-23. gobble
+20. gobble
 	1. [bolt](dic://bolt)
 	2. _n._ [cry](dic://cry)
 	3. _v._ [eat](dic://eat), [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose)
@@ -793,7 +829,7 @@
 	6. We gobbled up the enemy. /我们把敌人全歼灭了。
 	7. I gobbled down my breakfast and ran out of the house /我狼吞虎咽地吃早餐就跑出屋子。
 	8. gobbler
-24. grabble
+21. grabble
 
 
 ### + \*le- +
@@ -1895,50 +1931,85 @@
 			4. And within about six months the orange peels had been converted from orange peels into this thick black loamy soil /“在大约6个月内，橘子皮就变成了这种丰厚肥沃的黑土。
 			5. Okay, so all that said, that's the… that's loamy soil. /好吧，说了这么多，那就是… … 那是肥沃的土壤。
 	10. slick
-		1. 来自古英语-slician,使光滑，来自 Proto-Germanic*slikana,滑动，来自 PIE*sleig,滑动，来自PIE*slei,滑的，词源同 slime,slip.引申诸相关词义。
-		2. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
-		3. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
-		4. [sleek](dic://sleek)
-		5. [slick down](dic://slick down), [sleek down](dic://sleek down)
-		6. [glossy](dic://glossy), [satiny](dic://satiny), [sleek](dic://sleek), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike)
-		7. [glib](dic://glib), [pat](dic://pat)
-		8. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
-		9. slickster
-		10. slickness
-		11. slicker
-	11. slight
-		1. 1 - 来自古英语种 sliht,光滑的，来自 Proto-Germanic*slihtaz,光滑的，来自 PIE*slei,滑的，词源同 slime,slip.引申词义平的，引申比喻义轻微的，略微的。  
-		2. 2 - 来自 slight,平的，引申动词词义平等对待，后词义贬义化为冷淡对待，进一步恶化为轻视，怠慢，侮辱。
-		3.  [rebuff](dic://rebuff)
-		4.  [cold-shoulder](dic://cold-shoulder)
-		5.  [flimsy](dic://flimsy), [tenuous](dic://tenuous), [thin](dic://thin)
-		6.  [slender](dic://slender), [slim](dic://slim), [svelte](dic://svelte)
-		7. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
-		8. _v._ [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
-		9. _adj._ [weak](dic://weak), [thin](dic://thin), [lean](dic://lean)
-		10. _n._ [strong](dic://strong), [fat](dic://fat)
+		1. a. 华而不实的; 花言巧语的, 圆滑的; 娴熟的; 光滑的  
+		2. n. 浮油, 浮油膜; 一小片湿而亮的地方  v. 使（头发）平整光溜
+		3. 1. _adj._ 顺利而有效的, 不费力的
+		4. 圆滑的, 油滑的 光滑的, 滑溜的
+		5. 来自古英语-slician,使光滑，来自 Proto-Germanic*slikana,滑动，来自 PIE*sleig,滑动，来自PIE*slei,滑的，词源同 slime,slip.引申诸相关词义。
+		6. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
+		7. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
+		8. [sleek](dic://sleek)
+		9. [slick down](dic://slick down), [sleek down](dic://sleek down)
+		10. [glossy](dic://glossy), [satiny](dic://satiny), [sleek](dic://sleek), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike)
+		11. [glib](dic://glib), [pat](dic://pat)
+		12. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
+		13. _n._ [smoothness](dic://smoothness), [magazine](dic://magazine), [mag](dic://mag), [film](dic://film), [trowel](dic://trowel)
+		14. _v._ [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine), [comb](dic://comb), [comb out](dic://comb%20out), [disentangle](dic://disentangle)
+		15. _adj._ [smooth](dic://smooth), [slippery](dic://slippery), [slippy](dic://slippy), [plausible](dic://plausible), [artful](dic://artful)
+		16. _n._ [rough](dic://rough), [unsmooth](dic://unsmooth), [nonslippery](dic://nonslippery), [implausible](dic://implausible), [artless](dic://artless)
+		17. **sleek**圆滑的;**slippery**滑的;**flashy**闪光的;**smooth**光滑的;**glossy**有光泽的;**sleazy**质地薄的;**polished**擦亮的;**shiny**有光泽的，擦亮的;**greasy**油腻的;**slimy**黏滑的;**deceptively**骗人地;
+		18. The dancers gave a very slick performance. /舞蹈者的舞姿十分娴熟。
+		19. Be careful, new york is full of slick flimflam men. /小心,纽约市到处充满狡猾诡诈之人。
+		20. It's precisely that sort of slick sales-talk that I mistrust. /我不相信的正是那种油腔滑调的推销宣传。
+		21. The gradient finish is very unique and looks very, very slick. /渐变效果非常独特，看起来非常非常光滑。
+		22. Then Cinder splashed Wade, leaving an oil slick on his watery surface. /然后灯花又把油洒到阿波身上，他水汪汪的皮肤上漂起一层浮油。
+		23. The layers then solidify into a smooth, slick coating. /然后这层会固化成光滑的涂层。
+		24. Military plane from Vietnam reported seeing two oil slicks out that country's coast /有报道称，越南军用飞机在越南海岸线上发现了两处油迹带。
+		25. Like us, they can be smart and slick. /像我们一样，它们既聪明又老练。
+		26. slickster
+		27. slickness
+		28. slicker
+	15. sleek
+		1. a. 光滑的, 油嘴滑舌的, 线条明快的, 圆滑的, 时髦的  
+		2. vt. 使光滑, 掩盖  vi. 打扮漂亮, 滑动
+		3. 1. adj. 圆滑的；井然有序的
+		4. vt. 使…光滑；掩盖 vi. 打扮整洁；滑动
+		5. [slick](dic://slick)
+		6. [glossy](dic://glossy), [satiny](dic://satiny), [silken](dic://silken), [silky](dic://silky), [silklike](dic://silklike), [slick](dic://slick)
+		7. [streamlined](dic://streamlined), [aerodynamic](dic://aerodynamic), [flowing](dic://flowing)
+		8. _v._ [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine)
+		9. _adj._ [smooth](dic://smooth), [groomed](dic://groomed)
+		10. _n._ [rough](dic://rough), [unsmooth](dic://unsmooth), [ungroomed](dic://ungroomed)
+		11. **stylish**时髦的;**elegant**高雅的，优雅的;**classy**漂亮的;**chic**时髦;**slick**光滑的;**minimalist**极简抽象艺术的;**eye-catching**令人注意的;**boxy**四四方方的;**streamlined**流线型的;**slim**苗条的;**sporty**运动比赛的;
+		12. His hair wasn't as sleek as usual. /他的头发不像平常那样光滑了。
+		13. Their bodies are sleek and compact. /他们的身体光滑并且简洁。
+		14. Vanmoof, a dutch bicycle-maker, is known for sleek designs and clever advertising. /荷兰自行车制造商Vanmoof以设计精巧和广告巧妙著称。
+		15. I hear she's a sleek bit of mink. /听说她是个挺讲究的女人。
+		16. It was either her calm demeanor or sleek physique that made her the winner. /她胜出的原因或许是因为她那镇定自若的风度，又或者是因为她那优美的体型。
+	16. slight
+		14. 1 - 来自古英语种 sliht,光滑的，来自 Proto-Germanic*slihtaz,光滑的，来自 PIE*slei,滑的，词源同 slime,slip.引申词义平的，引申比喻义轻微的，略微的。  
+		15. 2 - 来自 slight,平的，引申动词词义平等对待，后词义贬义化为冷淡对待，进一步恶化为轻视，怠慢，侮辱。
+		16. 
+		17.  [rebuff](dic://rebuff)
+		18.  [cold-shoulder](dic://cold-shoulder)
+		19.  [flimsy](dic://flimsy), [tenuous](dic://tenuous), [thin](dic://thin)
+		20.  [slender](dic://slender), [slim](dic://slim), [svelte](dic://svelte)
+		21. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		22. _v._ [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+		23. _adj._ [weak](dic://weak), [thin](dic://thin), [lean](dic://lean)
+		24. _n._ [strong](dic://strong), [fat](dic://fat)
 			1. [lean](dic://lean) 侧重缺少脂肪。既可能是因病而瘦，也可能因饥饿而消瘦。也指身体消瘦，但肌肉结实，身体健康。
 			2. [slender](dic://slender) 指身体细长、体态优美、苗条适中，多用于指女性。
 			3. [slim](dic://slim) 指身体的细长，体重轻不着重外形的优美，可用于不同的性别，常用于减轻体重的人
 			4. [slight](dic://slight) 指身材又瘦又小。  
 			5. [thin](dic://thin) 普通用词，指腰细、骨架窄，常因疾病或疲劳而消瘦
-		11. **noticeable**显而易见的;**hint**暗示;**minor**较小的;**subtle**微妙的;**mild**温和的;**considerable**相当大的;**tinge**淡色;**significant**重要的;**substantial**大量的;**definite**确切的;**bit**少量;
-		12. slightness
-		13. slightly
-		14. slightish
-		15. slighting
-2. **limi-** = mud, 表示“泥”。
-	1. limicoline
-	2. limicolous
-	3. limivorous
-	4. liman
-3. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
-	1. limnetic
-	2. limnology
-	3. etc..
-4. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
-	1. oblivescence
-	2. oblivion
+		25. **noticeable**显而易见的;**hint**暗示;**minor**较小的;**subtle**微妙的;**mild**温和的;**considerable**相当大的;**tinge**淡色;**significant**重要的;**substantial**大量的;**definite**确切的;**bit**少量;
+		26. slightness
+		27. slightly
+		28. slightish
+		29. slighting
+3. **limi-** = mud, 表示“泥”。
+	2. limicoline
+	3. limicolous
+	4. limivorous
+	5. liman
+4. **limn-,limno-** = fresh water, lake, 表示“淡水，湖”；
+	6. limnetic
+	7. limnology
+	8. etc..
+5. **obliv-** = to forget, 表示“忘记”，复合词根，由 ob- "over" + lim- "smooth" 组成。
+	9. oblivescence
+	10. oblivion
 		1. _n._ [obscurity](dic://obscurity), [forgetfulness](dic://forgetfulness)
 		2. **abyss**深渊;**obscurity**不明, 费解, 隐晦, 无闻;**nothingness**虚无;**mediocrity**平庸,第二流;**doom**厄运;**misery**痛苦，悲惨;**doomed**注定的;**annihilation**歼灭,灭绝;**demise**死亡，终止;**despair**绝望;**brink**边缘;
 		3. _[bill of oblivion](dic://bill%20of%20oblivion)_  大赦令
@@ -1947,42 +2018,42 @@
 		6. _[sink into oblivion](dic://sink%20into%20oblivion)_ 石沉大海
 		7. limbo
 		8. obliviousness
-	3. oblivious
+	11. oblivious
 		1. _adj._ [unaware](dic://unaware), [incognizant](dic://incognizant), [inattentive](dic://inattentive)
 		2. _n._ [cognizant](dic://cognizant), [cognisant](dic://cognisant), [attentive](dic://attentive)
 		3. **unaware**不知道的，无意的;**clueless**无线索的;**uninterested**不感兴趣的;**seeming**外观;**ignorant**无知的;**fixated**念念不忘的;**seemingly**看来似乎, 表面上看;**indifferent**漠不关心;**distracted**心烦意乱的,慌张失措的,错乱的;**preoccupied**全神贯注的;**pretending**假装的;
 		4. _[oblivious](dic://oblivious)_  adj. 遗忘的；健忘的；不注意的；不知道的
 		5. _[oblivious of](dic://oblivious%20of)_  忘记; 不注意;
 		6. obliviously
-	4. obliviate ((obliterate, deph-, liter-))
+	12. obliviate ((obliterate, deph-, liter-))
 		1. - v．使遗忘：从记忆中抹去或使某人忘记某事。 
 			1. The potion can obliviate the memories of the past. 这种药剂可以抹去过去的记忆。
-5. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
-	1. slab
+6. **sl-** = 表示“黏滑的、淤泥的、泥浆的”。
+	13. slab
 		1. - n. （石、木等硬质材料的）厚板；（蛋糕、面包、巧克力等的）厚块；停尸台；（烹饪食品时所用的）厚桌面，砧板；（登山）突起的岩石；原木膘皮，板皮；<澳新，非正式>（装24瓶或24罐啤酒的）箱 
 		2. v. 去掉（原木或树木的）膘皮；把……分成厚片；用石板铺
-	2. slag
+	14. slag
 		1. - n. 炉渣；矿渣；熔渣 
 		2. vt. 使成渣；使变成熔渣 
 		3. vi. 变熔渣
-	3. slat
+	15. slat
 		1. - n. 板条，狭条；（突发的）爆炸 
 		2. v. 用板条制作；提供板条；猛投；猛烈拍动
-	4. slather
+	16. slather
 		1. - n. 大量 
 		2. vt. 厚厚地涂；大量使用
 		3. [slate](dic://slate)
 		4. _n._ [roofing material](dic://roofing material), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment), [roofing](dic://roofing)
 		5. **bashing**用废矸石充填采空区;**criticise**批评;
 		6. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
-	6. slattern
-		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
+	17. slattern
+		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 		2. [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
 		3.  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 		4. _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
 		5. **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
 		6. _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
-	8. sleazy
+	18. sleazy
 		1. sleazy：['slizi]  adj.质地薄的，廉价的，低俗的，肮脏的，破烂的
 		2. [seamy](dic://seamy), [seedy](dic://seedy), [sordid](dic://sordid), [squalid](dic://squalid)
 		3. [bum](dic://bum), [cheap](dic://cheap), [cheesy](dic://cheesy), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [tinny](dic://tinny)
@@ -1990,7 +2061,7 @@
 		5. _adj._ [thin](dic://thin), [inferior](dic://inferior), [disreputable](dic://disreputable)
 		6. _n._ [thick](dic://thick), [superior](dic://superior), [reputable](dic://reputable)
 		7. **seedy**多种子的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**slimy**黏滑的;**trashy**碎屑的;**sordid**肮脏的;**shady**成荫的;**crass**粗鲁的;**dishonest**不诚实的;**filthy**污秽的;**devious**弯曲的;**depraved**堕落的;
-	9. slip
+	19. slip
 		1. [faux pas](dic://faux pas), [gaffe](dic://gaffe), [solecism](dic://solecism), [gaucherie](dic://gaucherie)
 		2. [slip-up](dic://slip-up), [miscue](dic://miscue), [parapraxis](dic://parapraxis)
 		3. [cutting](dic://cutting)
@@ -2021,87 +2092,104 @@
 			7. [defect](dic://defect) 普通用词。指表面上的缺陷，或指人或物本质上的缺点。
 			8. [slip](dic://slip) 指因疏忽或无意而造成的差错。
 		22. **slide**幻灯片;**nip**夹;**slid**滑;**drift**漂流，漂移;**pull**拉;**tuck**卷起;**sliding**滑行的;**drop**滴;**creep**爬行;**loose**不牢固的;**let**允许，让;
-		23. snowslip
-		24. slipway
-			1. [ways](dic://ways), [shipway](dic://shipway)
-			2. [structure](dic://structure), [construction](dic://construction)
-			3. **jetty**码头;**wharf**码头;**mooring**下锚;**harbour**藏匿;**pier**水上平台, 码头;**lifeboat**救生艇，救生船;**promenade**人行道;**marina**码头，小艇船坞;**buoy**浮标;**boat**小船;**footpath**小路;
-		25. slipup
+		23. He paid dearly for his careless slip. /他为自己粗心的失误付出了巨大的代价。
+		24. I noticed a slip of paper projecting from the book. /我注意到一张纸条从书里露了出来。
+		25. That’s three times he’s beaten me—I must be slipping! /他已经打败我三次了——我肯定是不如以前了！
+		26. They were amazed that such a slip of a girl could cause so much trouble. /他们大吃一惊，这么一个瘦弱的女孩居然能制造出这么大的麻烦。
+		27.  We deport aliens who slip across our borders./我们把偷渡入境的外国人驱逐出境。
+		28. She slipped on the shiny floor and fell. /她滑倒在发亮的地板上了。
+		29. We mustn't let slip such an opportunity. /这样的机会我们不能错过。
+		30.  I slipped him a tenner to keep quiet./我悄悄塞给他十英镑，让他闭嘴。 
+		31. He began to talk, slipping the words across. /他开始讲话, 轻声把字吐出来。
+		32. snowslip
+		33. slipway
+			1. A slipway, also known as boat ramp or launch, is a ramp on the shore by which ships or boats can be moved to and from the water. They are used for building and repairing ships and boats. They are also used for launching and retrieving small boats on trailers towed by automobiles and flying boats on their undercarriage.
+			2. [ways](dic://ways), [shipway](dic://shipway)
+			3. [structure](dic://structure), [construction](dic://construction)
+			4. **jetty**码头;**wharf**码头;**mooring**下锚;**harbour**藏匿;**pier**水上平台, 码头;**lifeboat**救生艇，救生船;**promenade**人行道;**marina**码头，小艇船坞;**buoy**浮标;**boat**小船;**footpath**小路;
+			5.  It is a safe harbour for boats, dingies,   kayaks and paddle boards with two slipways/这里拥有两个滑道，是停泊船只、小艇、皮划艇和桨板的安全港。
+		34. slipup
 			1. n. 不幸；错误
-		26. slipstream
+		35. slipstream
 			1. **aero**航空的;**vortex**涡流;**warp**弯曲，歪曲;**aerodynamic**空气动力学的;
 			2. flow
-		27. slipstone
+		36. slipstone
 			1. n. （磨半圆凿的）成型油石，油石
-		28. slipstick
+		37. slipstick
 			1. - 滑动粘附现象
-		29. slipslop
+		38. slipslop
 			1. n. 无味的酒，乏味的饭食；流体食物；（非正式）枯燥的话，伤感的话; adj. 懒散的；无味的; v. 穿著拖鞋走;
-		30. slipshod
+		39. slipshod
 			1. [haphazard](dic://haphazard), [slapdash](dic://slapdash), [sloppy](dic://sloppy)
 			2. [careless](dic://careless)
 			3. **shoddy**劣质的;**sloppy**草率的;**careless**粗心的;**inept**不适当的;**clumsy**笨拙的;**substandard**标准以下的;**unprofessional**非专业化的, 外行的;**atrocious**恶毒的;**incompetent**无能力的;**abysmal**深不可测的;**disjointed**脱离开的,不连贯的;
-		31. slips
-		32. slippy
+		40. slips
+		41. slippy
 			1. **slippery**滑的;**wet**潮湿的;**slick**光滑的;**muddy**泥泞的;**sticky**粘的;**damp**使潮湿;**icy**冰冷的;**bumpy**崎岖不平的;**slimy**黏滑的;**greasy**油腻的;**mud**泥
 			2. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
 			3.  [slippery](dic://slippery)
-		33. slipping
-		34. slippery
+			4. Spring is showery, flowery, bowery. Summer is hoppy, croppy, poppy. Autumn is wheezy, sneezy, freezy. Winter is slippy, drippy, nippy. /春天春雨阵阵，百花齐放，万树吐绿。夏天烈日炎炎，茁茁生长，热情似火。秋天秋高气爽，喷嚏连连，衰草一片。冬天天寒地滑，雨雪纷纷，凛冽刺骨。
+			5. Don't know about you. If I'm killing someone, you don't want their blood dripping down your weapon, making it all slippy. /不了解你。 如果我要杀人，你肯定不希望他们的血滴在你的武器上，弄得一团糟。
+		42. slipping
+		43. slippery
 			2. [slippy](dic://slippy)
 			3. [tricky](dic://tricky)
 			4. [lubricious](dic://lubricious), [nonstick](dic://nonstick), [slick](dic://slick), [sliding](dic://sliding), [slimed](dic://slimed), [slimy](dic://slimy), [slipping](dic://slipping)
 			5. **treacherous**背信弃义的;**slimy**黏滑的;**slick**光滑的;**muddy**泥泞的;**wet**潮湿的;**sticky**粘的;**bumpy**崎岖不平的;**icy**冰冷的;**tricky**机警的;**steep**陡峭的;**slope**倾斜;
-		35. slipper
+			6. We found it very slippery under foot. /我们感到地上很滑。
+			7. The oil made the ground slippery and treacherous to walk on /油使地面发滑，走在上面很危险。
+			8. The horse flounced on the slippery iced path. /马在滑溜溜的结了冰的小道上挣扎。
+			9. The man the police want to talk to is slippery as an eel, and has so far escaped arrest. /警方想与之谈话的那个人像泥鳅一样狡猾，现在仍逍遥法外。
+		44. slipper
 			1.  [carpet slipper](dic://carpet slipper)
 			2.  [skidder](dic://skidder), [slider](dic://slider)
 			3. [footwear](dic://footwear), [footgear](dic://footgear), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
 			4. **shoe**鞋;**Cinderella**灰姑娘;**shoes**鞋子;**sandal**凉鞋;**soles**底台;**sandals**凉鞋;**socks**袜子;**footwear**鞋类;**toe**脚趾;**heel**脚后跟;**lace**花边;
-		36. slippage
+		45. slippage
 			1. [decrease](dic://decrease), [decrement](dic://decrement), [decline](dic://decline), [diminution](dic://diminution), [motion](dic://motion), [movement](dic://movement), [move](dic://move)
 			2. **friction**摩擦，摩擦力;**breakage**破损;**slipping**滑动;**abrasion**磨损;**wobble**摇晃;**slip**滑倒;**shrinkage**收缩;**deformation**损形;**erosion**侵蚀，腐蚀;**leakage**泄漏;**warping**翘曲;
-		37. slipover
+		46. slipover
 			1. **cardigan**羊毛衫，开襟羊毛衫;**sweater**毛线衣，运动衫;**knitted**针织的;**knit**编织;**pullover**套衫;**knits**针织品;**shawl**围巾，长方形披巾;**crochet**钩边;**knitting**针织;**scarf**围巾;**sweaters**毛衣;
 			2. [pullover](dic://pullover)
 			3. [sweater](dic://sweater)
-		38. slipknot
+		47. slipknot
 			1. n. 活结，滑结
-		39. slipcover
+		48. slipcover
 			1. **upholstery**家具装饰业;**cushions**酥心糖;**sofa**沙发;**recliner**斜靠著的人;**upholstered**经过布置的;**fabric**织物;**headboard**床头板;**pillow**枕头;**pillows**靠垫;**cushion**垫子;**duvet**羽绒被;
 			2. [cloth covering](dic://cloth covering)
-		40. slipcase
+		49. slipcase
 			1. 书套（可露出书背）
-		41. slip-sheet
+		50. slip-sheet
 			1. n. 插页; vt. 用薄衬纸夹衬;
-		42. slip-road
+		51. slip-road
 			1. - 匝道：一条短路，用于进入或离开主要道路或高速公路。
-		43. slip-on
+		52. slip-on
 			1. **suede**绒面革;**sandals**凉鞋;**sandal**凉鞋;**sneaker**运动鞋;**sneakers**胶底运动鞋;**outsole**外底;**insole**鞋内底;**shoe**鞋;**one-piece**整块的,上下连在一起的,连衣裙的;**footwear**鞋类;**boots**靴子;
 			2. [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
 			3. [wear](dic://wear), [put on](dic://put on), [get into](dic://get into), [don](dic://don), [assume](dic://assume)
-		44. sideslip
-		45. macroslip
-		46. landslip
+		53. sideslip
+		54. macroslip
+		55. landslip
 			1. [landslide](dic://landslide)
 			2. **footpath**小路;**embankment**路堤;**landslide**山崩;**erosion**侵蚀，腐蚀;**railway**铁路;**cliffs**悬崖，峭壁;**flooding**产后出血;**geological**地质的;**excavation**挖掘;**earthquake**地震;**floods**洪水;
-		47. gymslip
+		56. gymslip
 			1. **schoolgirl**女生;**trousers**裤子，长裤;**blouse**宽松的上衣;**panties**女式短裤;**blouses**女装恤衫;**dress**给…穿衣;**corset**束腹，紧身褡;**panty**女裤;**hijab**穆斯林妇女戴的面纱或头巾;**scarlet**猩红;**dresses**连衣裙;
-		48. cowslip
+		57. cowslip
 			1. [paigle](dic://paigle), [Primula veris](dic://Primula veris)
 			2. [marsh marigold](dic://marsh marigold), [kingcup](dic://kingcup), [meadow bright](dic://meadow bright), [May blob](dic://May blob), [water dragon](dic://water dragon), [Caltha palustris](dic://Caltha palustris)
 			3. [primrose](dic://primrose), [primula](dic://primula), [marsh plant](dic://marsh plant), [bog plant](dic://bog plant), [swamp plant](dic://swamp plant)
 			4. **flower**花;**willow**柳木制品;**clover**苜蓿;**meadow**草地;**lily**百合花，百合;**meadows**草地;**orchid**兰花;**lilac**淡紫色;**fern**蕨类植物;**thyme**百里香;**buckwheat**荞麦;
-		1. antislip
-		2. sliphorn
+		58. antislip
+		59. sliphorn
 			1.  〈口〉长号(一种乐器)
-	3. sliver
-	6. slit
+	20. sliver
+	21. slit
 		1. n. 裂缝, 投币口, 狭长裂口  
 		2. vt. 切开, 扯裂, 使有狭缝  vi. 纵切, 纵裂
 		3. slitter
-	7. slot
-	8. slob
-		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
+	22. slot
+	23. slob
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 		2. [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person)
 		3. _n._ [vulgarian](dic://vulgarian)
 		4. **loser**失败者;**moron**痴愚者;**lazy**懒惰的;**slut**懒妇;**bastard**私生的;**filthy**污秽的;**hypocrite**伪君子;**bitch**母狗，母狼;**asshole**屁眼儿,肛门;**whore**卖淫，娼妓;**snob**势利小人，势利眼;
@@ -2115,12 +2203,12 @@
 		12. Nice dress. Oh, this? I'm dressed like a slob today. /裙子很漂亮。哦，这条？我今天穿得像邋遢鬼似的。
 		13. See, it's only because I work with a bunch of slobs. /那只是因为我跟一群懒汉一起工作
 		14. If we all went out looking like a slob like me, it would be a pretty dreary world. /如果每个人都像我这个懒虫一样这样穿出门那这个世界将会多么无趣。
-	10. slut
+	24. slut
 		1. [slattern](dic://slattern), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 		2. [adulteress](dic://adulteress), [fornicatress](dic://fornicatress), [hussy](dic://hussy), [jade](dic://jade), [loose woman](dic://loose woman), [strumpet](dic://strumpet), [trollop](dic://trollop)
 		3. _n._ [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person), [adulterer](dic://adulterer), [fornicator](dic://fornicator)
 		4. **whore**卖淫，娼妓;**cunt**女性阴部;**bitch**母狗，母狼;**babe**婴儿，小孩;**pussy**猫咪;**hottie**热水瓶;**twat**笨蛋;**fucked**受骗的;**asshole**屁眼儿,肛门;**horny**角状的;**dick**阴茎;
-	11. slog
+	25. slog
 		1. 1. _vt. & vi._ 猛击
 		2. 努力苦干；辛勤地工作
 		3. (人、组织、竞争者等) 决出胜负；决一雌雄；争出个高低
@@ -2132,7 +2220,7 @@
 		9. But the prince detested them, having slogged his way through “Mein Kampf” /但是奥托憎恶他们，埋首于他自己的“我的战场”。
 		10. And it's been more of a slog there. There hasn't been as much traction. /而且那里的情况更像是一场埋头苦干。没有那么大的牵引力。
 		11. 
-	12. slop
+	26. slop
 		1. 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
 		2. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
 		3. [mire](dic://mire)
@@ -2167,7 +2255,7 @@
 			1.  [besotted](dic://besotted), [blind drunk](dic://blind drunk), [blotto](dic://blotto), [crocked](dic://crocked), [cockeyed](dic://cockeyed), [fuddled](dic://fuddled), [loaded](dic://loaded), [pie-eyed](dic://pie-eyed), [pissed](dic://pissed), [pixilated](dic://pixilated), [plastered](dic://plastered), [potty](dic://potty), [sloshed](dic://sloshed), [smashed](dic://smashed), [soaked](dic://soaked), [soused](dic://soused), [sozzled](dic://sozzled), [squiffy](dic://squiffy), [stiff](dic://stiff), [tiddly](dic://tiddly), [tiddley](dic://tiddley), [tight](dic://tight), [tipsy](dic://tipsy), [wet](dic://wet)
 			2.  [intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated)
 			3. **smeared**弄脏的;**scraped**报废;**splashed**飞溅的;**piled**有细毛的;**shoved**推挤;**rubbed**擦;**muck**垃圾;**dripping**滴下物;**slapped**被掴耳光的;**dragged**拖动;**slid**滑;
-	5. slope
+	27. slope
 		1. [incline](dic://incline), [side](dic://side)
 		2. [gradient](dic://gradient)
 		3. [incline](dic://incline), [pitch](dic://pitch)
@@ -2191,7 +2279,7 @@
 			1. [aslant](dic://aslant), [diagonal](dic://diagonal), [slanted](dic://slanted), [slanting](dic://slanting), [sloped](dic://sloped), [sloping](dic://sloping)
 			2. [inclined](dic://inclined)
 			3. [horizontal](dic://horizontal), [vertical](dic://vertical), [perpendicular](dic://perpendicular)
-	6. slosh
+	28. slosh
 		1. [splash](dic://splash), [splosh](dic://splosh), [slush](dic://slush)
 		2. [squelch](dic://squelch), [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slop](dic://slop)
 		3. [slush](dic://slush), [slosh around](dic://slosh around), [slush around](dic://slush around)
@@ -2204,7 +2292,7 @@
 		10. sloshed
 		11. sloshy
 			1. adj. 雪泥的；稀泥的（等于slushy）
-	7. slough
+	29. slough
 		1. 1. n. 蜕下的皮（或壳）；绝境；泥沼；腐肉
 		2. vt. 使陷入泥沼；抛弃
 		3. vi. 蜕皮；脱落；在泥浆中跋涉
@@ -2222,17 +2310,18 @@
 			1. [boggy](dic://boggy), [marshy](dic://marshy), [miry](dic://miry), [mucky](dic://mucky), [muddy](dic://muddy), [quaggy](dic://quaggy), [sloppy](dic://sloppy), [soggy](dic://soggy), [squashy](dic://squashy), [swampy](dic://swampy), [waterlogged](dic://waterlogged)
 		11. sloughing
 			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
-	9. slouch(dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
-		1. 来自辅音丛 sl-,邋遢的，懒的，比较 slattern, slut, sloven, slug.
-		2. n. 没精打采的样子, 耷拉, 笨人 
-		3. vi. 没精打采地走, 耷拉着 vt. 使低垂
-		4. I knew him for a sluggard in the morning; but, as it drew on towards noon, I lost my patience. /我早上认识他是个懒汉； 但是，快到中午了， 我失去了耐心。
-		5. Sluggards do not plow in season; so at harvest time they look but find nothing. /懒惰人因冬寒不肯耕种，到收割的时候，他必讨饭而无所得。
-		6. A sluggard buries his hand in the dish; he will not even bring it back to his mouth! /懒惰人放手在盘子里，就是向口撤回，他也不肯。
-		7. Go to the ant, you sluggard; consider its ways and be wise! /懒惰人哪，你去察看蚂蚁的动作，就可得智慧。
-		8. A sluggard says, " There's a lion in the road, a fierce lion roaming the streets" ! /懒惰人说：" 道上有猛狮，街上有壮狮。"
-		9. As a door turns on its hinges, so a **sluggard** turns on his bed. /门在枢纽转动，懒惰人在床上也是如此。
-		10. slouchy
+	30. slouch 
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
+		2. 来自辅音丛 sl-,邋遢的，懒的，比较 slattern, slut, sloven, slug.
+		3. n. 没精打采的样子, 耷拉, 笨人 
+		4. vi. 没精打采地走, 耷拉着 vt. 使低垂
+		5. I knew him for a sluggard in the morning; but, as it drew on towards noon, I lost my patience. /我早上认识他是个懒汉； 但是，快到中午了， 我失去了耐心。
+		6. Sluggards do not plow in season; so at harvest time they look but find nothing. /懒惰人因冬寒不肯耕种，到收割的时候，他必讨饭而无所得。
+		7. A sluggard buries his hand in the dish; he will not even bring it back to his mouth! /懒惰人放手在盘子里，就是向口撤回，他也不肯。
+		8. Go to the ant, you sluggard; consider its ways and be wise! /懒惰人哪，你去察看蚂蚁的动作，就可得智慧。
+		9. A sluggard says, " There's a lion in the road, a fierce lion roaming the streets" ! /懒惰人说：" 道上有猛狮，街上有壮狮。"
+		10. As a door turns on its hinges, so a **sluggard** turns on his bed. /门在枢纽转动，懒惰人在床上也是如此。
+		11. slouchy
 			1. _adj._ [untidy](dic://untidy)
 			2. _n._ [tidy](dic://tidy)
 			3. **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
@@ -2242,8 +2331,8 @@
 			7. That slouchy, sexy, je ne sais quoi thing. But I am the customer that wants it. /那种慵懒 性感 说不上来的风格 但是我是一个想要拥有这一切的消费者。
 			8. I don't know why I was walking so " extra slouchy." Thank you, Ms. Shalom. /我不知道为什么我走得这么“特别懒散”。谢谢你，沙洛姆女士。
 			9. We had a small side room with a **slouchy** couch and a television set. /我们有一间小小的偏房，里面有一张垂头弯腰的沙发和一台电视机。
-		11. slouching
-	10. sludge
+		12. slouching
+	31. sludge
 		1. 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop, slosh, slough, sludge.
 		2. n. 烂泥；泥泞；泥状雪；沉淀物；（海上）小浮冰
 		3. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
@@ -2275,7 +2364,7 @@
 		24. desludging
 		25. antisludge
 			1. 去垢
-	11. slug
+	32. slug
 		1. n. 鼻涕虫; 少量, 一小杯; 子弹; 金属筹码  v. 用力打, 狠揍; 猛击（球）
 		2. n. 蛞蝓，鼻涕虫；<非正式>子弹，气枪弹；满满一口（尤指烈酒）；<美>（投入机器中的）假硬币，代币；懒汉，懒虫；重击；（整行铸排机印刷时的）一行铅字；（计算机）处理后的标题（用于构建固定链接） 
 		3. v. <非正式>重击（某人）；猛击（球）；痛饮（某物，尤指酒），大喝；决一雌雄（slug it out）
@@ -2297,22 +2386,23 @@
 		19. There is an animal called a slug, a very lazy animal. /有一种动物叫鼻涕虫，它一种非常懒惰的动物。
 		20. She had trodden on the giant slug, which burst /她一脚踩中了那条巨大的鼻涕虫，鼻涕虫啪的一声爆炸了。
 		21. 
-		22. sluggish (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
-			1. adj. 萧条的；迟钝的；懒惰的；行动迟缓的
-			2. n. 市况呆滞；市势疲弱
-			3. [sulky](dic://sulky)
-			4. [dull](dic://dull), [slow](dic://slow)
-			5. [inert](dic://inert), [soggy](dic://soggy), [torpid](dic://torpid)
-			6. _adj._ [slow](dic://slow), [inactive](dic://inactive)
-			7. _n._ [fast](dic://fast), [active](dic://active)
-			8. **slow**慢的;**lackluster**无光泽,暗淡;**stagnant**停滞的;**slower**较慢的;**erratic**不稳定的;**bloated**傲慢的;**slowdown**减速;**fatigued**疲乏的;**slowing**慢化;**weak**疲软的;**unresponsive**无答复的,反应迟钝的,感受性迟钝的,无同情心的;
-			9. a sluggish stream; sluggish growth. /缓缓的小溪；缓慢的生长
-			10. a gentle paddle on sluggish water. /在缓缓流水中轻轻地划桨。
-			11. she suggests ways to jump-start the sluggish educational system. /她提出了几种方法来推动发展迟缓的教育体制。
-			12. The snake was sluggish because of the cold weather. /由于天气寒冷，蛇行动迟缓。
-			13. But the sluggish US economic recovery has also contributed to the exodus /美国经济复苏放缓也是原因之一。
-			14. The recovery remains sluggish, but compares well with those of other economies. /复苏仍旧迟缓，但是比较起其他经济产业的复苏来说已经很不错了。
-			15. You might start coughing, feel sluggish and have chest pain. /你可能会开始咳嗽、感觉迟钝和胸痛。
+		22. sluggish 
+			1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
+			2. adj. 萧条的；迟钝的；懒惰的；行动迟缓的
+			3. n. 市况呆滞；市势疲弱
+			4. [sulky](dic://sulky)
+			5. [dull](dic://dull), [slow](dic://slow)
+			6. [inert](dic://inert), [soggy](dic://soggy), [torpid](dic://torpid)
+			7. _adj._ [slow](dic://slow), [inactive](dic://inactive)
+			8. _n._ [fast](dic://fast), [active](dic://active)
+			9. **slow**慢的;**lackluster**无光泽,暗淡;**stagnant**停滞的;**slower**较慢的;**erratic**不稳定的;**bloated**傲慢的;**slowdown**减速;**fatigued**疲乏的;**slowing**慢化;**weak**疲软的;**unresponsive**无答复的,反应迟钝的,感受性迟钝的,无同情心的;
+			10. a sluggish stream; sluggish growth. /缓缓的小溪；缓慢的生长
+			11. a gentle paddle on sluggish water. /在缓缓流水中轻轻地划桨。
+			12. she suggests ways to jump-start the sluggish educational system. /她提出了几种方法来推动发展迟缓的教育体制。
+			13. The snake was sluggish because of the cold weather. /由于天气寒冷，蛇行动迟缓。
+			14. But the sluggish US economic recovery has also contributed to the exodus /美国经济复苏放缓也是原因之一。
+			15. The recovery remains sluggish, but compares well with those of other economies. /复苏仍旧迟缓，但是比较起其他经济产业的复苏来说已经很不错了。
+			16. You might start coughing, feel sluggish and have chest pain. /你可能会开始咳嗽、感觉迟钝和胸痛。
 		24. slugger
 			1. [batter](dic://batter), [hitter](dic://hitter), [batsman](dic://batsman)
 			2. [slogger](dic://slogger)
@@ -2325,7 +2415,7 @@
 			2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
 		28. slugfest
 		29. slugabed
-	13. slur
+	33. slur
 		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
 		2. [aspersion](dic://aspersion)
 		3. [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch)
@@ -2333,7 +2423,7 @@
 		5. _n._ [musical notation](dic://musical notation), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar)
 		6. _v._ [play](dic://play), [spiel](dic://spiel), [denote](dic://denote), [refer](dic://refer), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter)
 		7. **derogatory**不敬的;**disparaging**轻蔑的;**racist**种族主义者;**insult**侮辱;**bigot**偏执的人;**bigoted**顽固的;**accusation**指责;**slander**诽谤;**phrase**成语;**insulting**侮辱的;**insults**侮辱;
-	14. slush
+	34. slush
 		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
 		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
 		3. [water](dic://water), [H2O](dic://H2O)
@@ -2358,22 +2448,23 @@
 		16. slushing
 		17. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
-	15. sloven
-		1. n. 懒散的人；不修边幅的人
-		2. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
-		3. _n._ [vulgarian](dic://vulgarian)
-		4. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
-		5. Such sloven work habits will never produce good products /这样马马虎虎的工作习惯决不能生产出优质产品来。
-		6. I really cannot bear the sight of that sloven woman. /我连看也不想看那个邋遢的女人。
-		7. which differ as much from each other as the air of a plain man from that of a sloven: it is one thing to be tricked up, and another not to be dressed at all /两者的区别犹如朴素人与邋遢者面貌的不同：着装打扮与衣着不整完全是两码事。
-		8. In fact, for example, they even advised women against turning into frights and slovens. /事实上，例如，他们甚至建议女性不要恐惧以及不修边幅。
-		9. At school, boys become gluttons and slovens, and, instead of cultivating domestic affections, very early rush into the libertinism which destroys the constitution before it is formed; hardening the heart as it weakens the understanding. /在学校里，男孩子变得贪吃又邋遢，不去培养家庭感情，而是很早就开始放荡不羁，未及体质就毁掉了；使心变硬，因为它削弱了理解力。
-2. litotes
-	1. n. 曲言法；间接肯定法；反叙法
-	2. [meiosis](dic://meiosis)
-	3. [rhetorical device](dic://rhetorical device), [understatement](dic://understatement)
-	4. **adjective**形容词;**colloquial**口语的, 会话的;**idiom**成语，习语;**hyperbole**夸张的语句;**phrase**成语;**verb**动词;**noun**名词;**rhetorical**修辞的;**word**单词;**grammatical**语法的;**allusion**暗示;
-3. litotral
+	35. sloven
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
+		2. n. 懒散的人；不修边幅的人
+		3. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
+		4. _n._ [vulgarian](dic://vulgarian)
+		5. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
+		6. Such sloven work habits will never produce good products /这样马马虎虎的工作习惯决不能生产出优质产品来。
+		7. I really cannot bear the sight of that sloven woman. /我连看也不想看那个邋遢的女人。
+		8. which differ as much from each other as the air of a plain man from that of a sloven: it is one thing to be tricked up, and another not to be dressed at all /两者的区别犹如朴素人与邋遢者面貌的不同：着装打扮与衣着不整完全是两码事。
+		9. In fact, for example, they even advised women against turning into frights and slovens. /事实上，例如，他们甚至建议女性不要恐惧以及不修边幅。
+		10. At school, boys become gluttons and slovens, and, instead of cultivating domestic affections, very early rush into the libertinism which destroys the constitution before it is formed; hardening the heart as it weakens the understanding. /在学校里，男孩子变得贪吃又邋遢，不去培养家庭感情，而是很早就开始放荡不羁，未及体质就毁掉了；使心变硬，因为它削弱了理解力。
+7. litotes
+	36. n. 曲言法；间接肯定法；反叙法
+	37. [meiosis](dic://meiosis)
+	38. [rhetorical device](dic://rhetorical device), [understatement](dic://understatement)
+	39. **adjective**形容词;**colloquial**口语的, 会话的;**idiom**成语，习语;**hyperbole**夸张的语句;**phrase**成语;**verb**动词;**noun**名词;**rhetorical**修辞的;**word**单词;**grammatical**语法的;**allusion**暗示;
+8. litotral
 
 
 ### + \*leie- +
@@ -2448,7 +2539,7 @@
 		3. **remnant**剩余;**extant**现存的;**extinct**灭绝的，绝种的;**sedimentary**沉积的;**lowland**低地;**remnants**残余;**glacial**冰的;**species**物种;**prehistoric**史前的;**relic**废墟;**taxon**分类单元;
 		4. [organism](dic://organism), [being](dic://being), [geological formation](dic://geological formation), [formation](dic://formation)
 		5. reliction
-		6. derelict
+		6. derelict (dilatory, dilapidate, derelict, )
 			1. de-向下，离开 + re-向后 + lict-留下，遗留，即留在后面的，荒废的。
 			2. a. 被抛弃了的, 无主的, 玩忽职守的  n. 遗弃物, 被遗弃的人, 玩忽职守者
 			3. **dilapidated**破旧的;**abandoned**被抛弃的;**disrepair**失修,破损;**overgrown**长得很快;**decaying**颓坏;**ruins**废墟;**deserted**荒芜的;**vacant**空的;**desolate**荒凉的;**wasteland**荒地;**uninhabited**无人居住的;

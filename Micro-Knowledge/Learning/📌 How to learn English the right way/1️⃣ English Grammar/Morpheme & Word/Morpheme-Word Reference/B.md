@@ -3392,19 +3392,59 @@
 		34. She has a **bent** for mathematics. /她有数学天赋。
 		35. His dark head **bent** over her /他对她低下他那黑发的头。
 		36. hell-bent
-		37. bentwood
-	13. bind
-		1. unbinding
-		2. unbind
-		3. spellbind
-		4. cloth-binding
-		5. bookbinding
-		6. bindweek
-		7. bindweb
-		8. binding
-		9. bindery
-			1. bookbinder
-		10. binder
+			1. - adj. 拼命的；固执的
+			2. _adj._ [resolute](dic://resolute)
+			3. _n._ [irresolute](dic://irresolute)
+			4. **relentless**残酷的, 不留情的, 无怜悯心的;**ruthless**无情的，残忍的;**fixated**念念不忘的;**verge**边缘;**seemingly**看来似乎, 表面上看;**relentlessly**无情地;**incapable**无能力的, 不会的;**insistence**坚持;**vengeful**复仇的，报复的;**crazed**癫狂的;**penchant**嗜好;
+			5. _[Hell-Bent Raider](dic://Hell-Bent%20Raider)_  急冲突击队
+			6. _[Hell Bent for Leather](dic://Hell%20Bent%20for%20Leather)_  唱片名
+			7. _[double bell bend](dic://double%20bell%20bend)_  双承弯头
+			8. _[Tell me they know best](dic://Tell%20me%20they%20know%20best)_  告诉我它们最了解；说一切都看清；说它们最懂自己
+		37. I thought you were hell bent for leather on the demon hunt. /我还以为 你只是一心想追杀那魔鬼。
+		38. Whatever the motivation, the Espinosa were hell bent on going on a killing spree. /不管动机是什么，埃斯皮诺萨兄弟都一心要疯狂杀人。
+		39. And he really didn't want me to at the time because he was so hell bent on me as, you know, he just saw me as the sister, Anita. '/他当时真的不想让我试镜，因为他太执着于让我演的角色了，你知道的，他只把我看作是妹妹安妮塔。
+		40. bentwood
+	12. bind
+		1. [adhere](dic://adhere), [hold fast](dic://hold fast), [bond](dic://bond), [stick](dic://stick), [stick to](dic://stick to)
+		2. [tie](dic://tie), [attach](dic://attach), [bond](dic://bond)
+		3. [bandage](dic://bandage)
+		4.  [tie down](dic://tie down), [tie up](dic://tie up), [truss](dic://truss)
+		5.  [oblige](dic://oblige), [hold](dic://hold), [obligate](dic://obligate)
+		6. [constipate](dic://constipate)
+		7. _n._ [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [balk](dic://balk), [baulk](dic://baulk), [check](dic://check)
+		8. _v._ [attach](dic://attach), [relate](dic://relate), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [restrain](dic://restrain), [confine](dic://confine)
+		9. _n._ [unbind](dic://unbind)
+		10. **attach**系，绑;**pull**拉;**hold**持有;**tie**领带，领结;**fasten**扎牢;**sever**切断;**dissolve**使溶解;**loosen**放松;**invoke**援引;**compel**强迫，迫使;**inhibit**抑制;
+		11. _bind up_ 包扎；装订
+		12. _in a bind_ adv. 处于困境
+		13. _bind on_ （用绳等）把…绑上
+		14. The attempt is morally bound to fail. /这一企图肯定会失败。
+		15. I know being disturbed on Christmas Day is a bind. /我知道在圣诞节被打扰是让人不快的事。
+		16. Sarah did not want to be bound by a rigid timetable. /萨拉不想被严格的时间表束缚。
+		17. A heavy black volume, amateurishly bound, with no name or title on the cover. /这是一本黑面厚书，自己装订的，封面上没有书名或作者名字。
+		18. Inflation will bound back upwards next year. /明年通货膨胀将重新加剧。
+		19. Quarreling seems to be bound with their life. /争吵似乎成了他们生活中不可缺少的一部分。
+		20. The sense of humour is mysteriously bound up with national characteristics. /幽默感与民族有着神秘莫测的联系。
+		21. unbinding
+		22. unbind
+			1. - vt. 解开；解放
+			2. _v._ [detach](dic://detach)
+			3. _n._ [bind](dic://bind)
+			4. **bind**捆绑, 捆扎;**binding**捆绑;**detach**分离;**invoke**援引;**bound**跳;**freed**释放的;**constrain**强迫, 强使;**shackles**手铐，脚镣;**heal**治愈，痊愈;
+			5. Publishers and booksellers fear it could unbind their business. /出版商和图书销售人员却担心这样会影响他们的生意。
+			6. When it unbinds, the resulting shape-change puts the tropomyosin bodyguards back into place. /当它解绑时，由此产生的形状变化使原肌球蛋白保镖恢复原位。
+			7. So they un-bind with it, because — remember Rule Number Two, changing shape encourages proteins to bind or unbind with stuff. /所以它们与它解除结合，因为——记住第二条规则，改变形状会促使蛋白质与其他物质结合或解除结合。
+		23. spellbind
+		24. cloth-binding
+		25. bookbinding
+		26. bindweek
+		27. bindweb
+		28. binding
+		29. bindery
+			1. _n._ [workshop](dic://workshop), [shop](dic://shop)
+			2. **printing**印刷;**printers**打印机;**printer**打印机;**bookstore**书店;**bookshop**书店;**print**印刷业;
+			3. bookbinder
+		30. binder
 			1. 1. _n._ (书籍的)装订机；装订者
 			2. 活页封面，活页夹
 			3. 黏合物
@@ -3416,61 +3456,75 @@
 			9. _ring binder_ 扣眼活页夹
 			10. bindery
 				1. - n. 装订所；装订工场；平构数据库
-				2. 
 			11. spellbinder
 			12. self-binder
 			13. highbinder
 			14. bookbinder
-	19. bond
-		1. weldbonding
-		2. unbonded
-		3. polybond
-		4. nonbonding
-		5. metabond
-		6. debond
+	14. bond
+		11. weldbonding
+		12. unbonded
+		13. polybond
+		14. nonbonding
+		15. metabond
+		16. debond
 			1. debonding
 			2. debonder
-		7. bondage
-			1. _n._ [subjugation](dic://subjugation), [subjection](dic://subjection), [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
-			2. **servitude**奴隶状态;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**kinky**奇形怪状的，怪癖的;**slave**奴隶;**slavery**奴役;**shackles**手铐，脚镣;**erotic**色情的;**chastity**纯洁;**kink**扭结;**submissive**顺从的, 唯命是从的;
-		8. antibond, antibonding
-	20. bonded
-	21. bonder
-	22. bondholder
-	23. bonding
-	24. bondmaid
-	25. bondman
-	26. bonds
-	27. bondslave
-		1. _n._ 奴隶,农奴
-	28. bondsman
-	29. bondstone
-	30. bondwoman
-	31. banner
-		1. bannerol
-		2. bannerline
-		3. bannerette
-		4. banneret
-	32. bundle
-		1.  [package](dic://package), [packet](dic://packet), [parcel](dic://parcel)
-		2.  [sheaf](dic://sheaf)
-		3. [pile](dic://pile), [big bucks](dic://big bucks), [megabucks](dic://megabucks), [big money](dic://big money)
-		4. [bundle up](dic://bundle up), [roll up](dic://roll up)
-		5. [bunch](dic://bunch), [bunch up](dic://bunch up), [cluster](dic://cluster), [clump](dic://clump)
-		6.  [pack](dic://pack), [wad](dic://wad), [compact](dic://compact)
-		7.  [practice bundling](dic://practice bundling)
-		8. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [package](dic://package), [parcel](dic://parcel), [money](dic://money)
-		9. _v._ [pack](dic://pack), [form](dic://form), [arrange](dic://arrange), [set up](dic://set up), [sleep](dic://sleep), [kip](dic://kip), [slumber](dic://slumber)
-		10. **package**包，包裹;**pack**包裹;**wrapped**有包装的;
-		11. a bundle of facts /大量事实。
-		12. a bundle of old clothes /一包旧衣服
-		13. he was an enthusiastic bundle of energy /他是有激情与活力的人。
-		14. They bundled off./他们匆忙离去。
-		15. unbundled
-		16. microbundle
-		17. intrabundle
-		18. bundlin
-		19. bundler
+		17. bondage
+			1. - n. 奴役，束缚；施虐性行为
+			2.  [slavery](dic://slavery), [thrall](dic://thrall), [thralldom](dic://thralldom), [thraldom](dic://thraldom)
+			3. _n._ [subjugation](dic://subjugation), [subjection](dic://subjection), [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
+			4. **servitude**奴隶状态;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**kinky**奇形怪状的，怪癖的;**slave**奴隶;**slavery**奴役;**shackles**手铐，脚镣;**erotic**色情的;**chastity**纯洁;**kink**扭结;**submissive**顺从的, 唯命是从的;
+			5. He is in bondage to his ambition. /他被他的野心所支配。
+			6. In that shoreless ocean, at thy silently listening smile my songs would swell in melodies, free as waves, free from all bondage of words. /在无边的海洋上，在你静听的微笑中，我的歌唱抑扬成调，像海波一般的自由，不受字句的束缚。
+			7. More than once he tried to escape bondage. /他不止一次试图逃脱奴役束缚。
+			8. " He never regarded such behavior as a rational response to bondage, " Chernow noted. /“他从未将这种行为视为对奴役的合理反应。”
+		18. antibond, antibonding
+	15. bonded
+	16. bonder
+	17. bondholder
+	18. bonding
+	19. bondmaid
+	20. bondman
+	21. bonds
+	22. bondslave
+		19. _n._ 奴隶,农奴
+	23. bondsman
+	24. bondstone
+	25. bondwoman
+	26. banner
+		1. [streamer](dic://streamer)
+		2. _n._ [flag](dic://flag), [headline](dic://headline), [newspaper headline](dic://newspaper%20headline)
+		3. _adj._ [superior](dic://superior)
+		4. _n._ [inferior](dic://inferior)
+		5. **logo**商标，徽标;**billboard**广告牌;**flag**旗帜，国旗;**slogan**标语;**tagline**品牌口号;**flags**标记;**poster**海报，广告;**sidebar**工具条;**emblem**象征;**advertisement**广告;**flyer**飞鸟;
+		6. _under the banner of_ 在…的旗帜下
+		7. _banner ads_ 横幅广告；旗帜广告
+		8. _star-spangled banner_ 美国国歌；美国国旗（等于Stars and Stripes）
+		9. The crowd chanted slogans and waved banners. /人群有节奏地呼喊着口号并挥舞着旗帜。
+		10. bannerol
+		11. bannerline
+		12. bannerette
+		13. banneret
+	33. bundle
+		24.  [package](dic://package), [packet](dic://packet), [parcel](dic://parcel)
+		25.  [sheaf](dic://sheaf)
+		26. [pile](dic://pile), [big bucks](dic://big bucks), [megabucks](dic://megabucks), [big money](dic://big money)
+		27. [bundle up](dic://bundle up), [roll up](dic://roll up)
+		28. [bunch](dic://bunch), [bunch up](dic://bunch up), [cluster](dic://cluster), [clump](dic://clump)
+		29.  [pack](dic://pack), [wad](dic://wad), [compact](dic://compact)
+		30.  [practice bundling](dic://practice bundling)
+		31. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [package](dic://package), [parcel](dic://parcel), [money](dic://money)
+		32. _v._ [pack](dic://pack), [form](dic://form), [arrange](dic://arrange), [set up](dic://set up), [sleep](dic://sleep), [kip](dic://kip), [slumber](dic://slumber)
+		33. **package**包，包裹;**pack**包裹;**wrapped**有包装的;
+		34. a bundle of facts /大量事实。
+		35. a bundle of old clothes /一包旧衣服
+		36. he was an enthusiastic bundle of energy /他是有激情与活力的人。
+		37. They bundled off./他们匆忙离去。
+		38. unbundled
+		39. microbundle
+		40. intrabundle
+		41. bundlin
+		42. bundler
 			1. _[bundler](dic://bundler)_  n. 捆束机；打包机；捆包工
 
 
@@ -4029,8 +4083,8 @@
 		11. dilatancy
 		12. dilatable
 		13. arteriodilating
-	8. dilatory
-		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
+	7. dilatory (dilatory, dilapidate, derelict, )
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 		2. a. 拖拉的
 		3. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
 		4. vasodilatory
@@ -4042,7 +4096,7 @@
 		10. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
 		11. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
 		12. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
-	10. elate
+	8. elate
 		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
 		2.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
 		3. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
@@ -4053,19 +4107,19 @@
 		8. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
 		9. He was greatly elated by success. /他因获得成功而得意洋洋。
 		10. elation, ellated
-	12. illation
+	9. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
 		2. n. 演绎；推论；推定
 		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
 		5. illative, 
-	13. legislate
+	10. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	14. oblate (prolate, oblate, prelate, )
+	11. oblate (prolate, oblate, prelate, )
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
 		2. ob-向前，朝向 + lat-带，携带 + -e
 		3. [pumpkin-shaped](dic://pumpkin-shaped)
@@ -4084,7 +4138,7 @@
 			6. Thinkers and poets throughout the ages have offered the courtesan the oblation of their mercy /各个时期的思想家和诗人都把仁慈的怜悯心奉献给娼家女子。
 			7. I would proffer the most exquisite oblations of flowery banners, garlands, as well as nautch, music, scented ointments, and canopies, for veneration of all Buddhas. /以诸最胜妙华鬘，伎乐涂香及伞盖，如是最胜庄严具，我以供养诸如来。
 		10. oblateness
-	15. prelate (prelect, vi. 讲课；讲演) (prolate, oblate, prelate, )
+	12. prelate (prelect, vi. 讲课；讲演) (prolate, oblate, prelate, )
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
@@ -4096,24 +4150,24 @@
 		9. prelatical
 			1. _adj._ 高位者的,教长政治的
 		10. prelatic
-	16. prolate (prolate, oblate, prelate, )
+	13. prolate (prolate, oblate, prelate, )
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	17. relate
+	14. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	18. sublate
+	15. sublate
 		1.  (spurn, rebuff, refuse, snub, repel, reject, recalcitrate, sublate)
 		2. vt. 否定, 消除
 		3. **sublate capital**:  扬弃资本 
 		4. **sublate alienation**:  扬弃异化
 		5. **self-sublate**:  自我扬弃
 		6. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
-	19. superlative (paramount, superlative, aces, )
+	16. superlative (paramount, superlative, aces, )
 		1. super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
 		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
 		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
@@ -4121,7 +4175,7 @@
 		5. _n._ [inferior](dic://inferior)
 		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
 		7. Tech CEOs compete with each other for superlatives /各技术巨头相互竞争，力求推出最优秀的产品。
-	20. translate
+	17. translate
 		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 7. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad

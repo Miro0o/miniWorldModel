@@ -5529,39 +5529,80 @@
 		11. Running the farm consumed Dad's childhood. I doubt he expected to go to college. Still, the way Mother tells it, back then Dad was bursting with energy, laughter and panache. /父亲的童年都耗在经营农场上。我怀疑他从没想过去上大学。尽管如此，母亲说当年父亲活力四射，爱闹爱笑，神气十足。
 4. **==pet- = seek, to go forward==**
 	1. petition
-		1. petitioner, petitionary
-		2. petitory
+		1. pet-追寻 + -ition → 追寻状态 → 请愿。
+		2.  来自拉丁语 petere,努力，寻求，渴望，祈求，来自 PIE*pete,展开，追寻，词源同 feather,propitiate.引申词义祈求，请愿。
+		3. n. 请愿, 诉状, 陈情书, 申请, 祈求, 祷文  v. 正式请求, 恳求, 请愿
+		4. petitioner, petitionary
+		5. petitory
 	2. appetence, inappetence
-		1. **appetite**食欲;**libido**性欲;**impotence**阳萎;**eagerness**渴望;**cravings**渴望;**physique**体格，体形;**countenance**面容，
-		2. appetency, apetent, 
-		3. appetite, appetizer, appetitive, appetition
-		4. appetizing
-	3. centripetal
+		1. n. 强烈的欲望, 癖好, 嗜好, 渴望
+		2. ap-加强 + pet-追求 + -ence, 表名词
+		3. **appetite**食欲;**libido**性欲;**impotence**阳萎;**eagerness**渴望;**cravings**渴望;**physique**体格，体形;**countenance**面容，
+		4. We have all **appetence** for success, and we know that people who fail because they keep giving up. /我们已经拥有了成功所具备的一切本能。我们早已经洞悉失败的机理，那就是一味地放弃。
+		5. The invention refers to **appetence** measurement for animals. /本发明涉及动物的食欲测量。
+		6. Your **appetence** is so natural and fierce. For example, without advertisement and mobilization, so many people flock around you and agree on your ideals. /老师的亲和力是那么自然而强烈，我们既没有做广告，也没有组织动员，可是总是有这么多的人，自动地涌到老师的身边，附和着老师的观点。
+		7. appetency
+			1. - n. 渴望，欲望；亲和力；本能
+		8. appetent
+			1. _adj._ 热望的,意欲的,本能欲求的
+			2. Previously he was acutely **appetent** of my success /先前他亮显地妒忌我的胜利。
+		9. appetite
+			1. [appetency](dic://appetency), [appetence](dic://appetence)
+			2. _n._ [craving](dic://craving)
+			3. **insatiable**不知足的;**craving**热望;**thirst**口渴;**cravings**渴望;**hunger**渴望;**libido**性欲;**hungry**饥饿的;**desire**欲望;**lust**性欲;**aversion**厌恶;**curiosity**好奇心, 爱打听的癖性;
+			4. _appetite for_ 对…的欲望
+			5. _loss of appetite_ 食欲不振
+			6. _good appetite_ 很好的胃口
+			7. _risk appetite_ 风险胃纳
+			8. _poor appetite_ 食欲不振
+			9. _appetite for risk_ 风险偏好；风险容量
+			10. _have a good appetite_ v. 胃口好
+			11. Exercise will improve your appetite for food. /运动能增进你的食欲。
+			12. The public seems to have an insatiable appetite for celebrity gossip. /公众看起来对明星八卦有着难以满足的好奇。
+			13. The gloomy damp weather and her gloomy face took away my appetite /阴沉潮湿的天气和她哭丧着的脸让我食欲全无。
+			14. Regular exercise gives us a good appetite. /规律的运动会让我们的胃口很好。
+			15. appetizer
+			16. appetitive
+			17. appetition
+		10. appetizing
+	10. centripetal
 		1. **centrifugal**离心的;**gravitational**万有引力的;**gravity**重力，地心引力;**inertial**惯性的;**radial**半径的;**inertia**惯性;**axial**轴的;**force**武力;**acceleration**加速;**friction**摩擦，摩擦力;**kinetic**运动的;
-	4. compete
-		1. competitory, competitor, competitive
-		2. competent, omnicompetent
-	5. impetus (momentum, tendency, )
-		1.  [drift](dic://drift), [impulsion](dic://impulsion)
-		2.  [impulse](dic://impulse), [impulsion](dic://impulsion)
-		3. _n._ [force](dic://force), [drive](dic://drive), [thrust](dic://thrust), [driving force](dic://driving force)
-		4. **spurred**装有马刺的;**motivation**动机;**catalyst**催化剂;**inspiration**灵感;**motive**动机，目的;**momentum**动力;**encouragement**鼓励;**spur**马刺;**underpinning**基础,支柱,支撑;**reason**理由;**idea**主意;
-		5. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
-		6. impetuous 
-			1. (precipitate, impetuous, reckless, snappish, madcap, impulsive, )
-			2. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
-			3. _adj._ [incautious](dic://incautious), [forceful](dic://forceful)
-			4. n. [cautious](dic://cautious), [forceless](dic://forceless), [unforceful](dic://unforceful)
-			5. **impulsive**冲动的,易冲动的;**reckless**鲁莽的，不顾后果的;**brash**仓促的，性急的;**rebellious**叛逆的;**careless**粗心的;**hasty**匆忙的;**boisterous**热闹的;**foolish**愚蠢的;**fearless**无畏的;**exuberant**兴高采烈的;**timid**羞怯的;
-			6. an impetuous dash for freedom /急切要争取自由
-			7. an impetuous but controlled flow of water. /迅疾但受控制的水流。
-			8. The rapidity of change follows the impetuous pace of man rather than the deliberate pace of nature /这种快速的变化追随着人类轻率的步伐而非大自然的从容步态。
-			9. And the fact that you are being so impetuous and irresponsible tells me you're not even close to being ready /而且当下如此莽撞又不负责任的你根本没有做好准备踏上社会。
-			10. But Atlanta was of her own generation, crude with the crudities of youth and as headstrong and impetuous as herself. /可亚特兰大是她的同辈，带有青年时代的莽撞味，并且像她自己那样倔强而浮躁。
-			11. He was impetuous and it was difficult. /他很浮躁，很困难。
-		8. impetuosity
-		9. 
-	7. perpetual
+	11. compete
+		1.  com-,表强调，-pet,追逐，渴望，词源同 feather,petition.追逐同一个目标，竞争。
+		2. vi. 竞争, 对抗
+		3. [vie](dic://vie), [contend](dic://contend)
+		4. [compete](dic://compete) 普通用词，含义广泛。既可指体育活动等活动中争取优胜的相互竞争，也可指为了自己的利益与他人竞争。  
+		5. [contend](dic://contend) 指为战胜或击败对手进行不懈努力，强调拼搏。也可指口头上进行有对立情绪或严重分歧的争论。  
+		6. [contest](dic://contest) 指为争夺土地、阵地、权力或荣誉等而展开的竞争。  
+		7. [rival](dic://rival) 指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。
+		8. **competition**比赛;**competitive**竞争的;**vying**竞争的;**competitor**竞争者,对手,敌手;**dominate**支配;**head-to-head**肉搏战,白刃战;**participate**参加, 参与;**qualify**使具有资格;**contend**竞争;**win**赢得;**entrants**竞赛者;
+		9. competitory, competitor, competitive
+		10. competent, omnicompetent
+	12. impetus (momentum, tendency, )
+		1. im-使 + pet-追求 + -us → 内在的追求 → 冲动。
+		2.  im-,进入，使，-pet,追逐，冲击，词源同 compete,appetite.引申词义推动，促进，刺激等。
+		3. n. 动力, 推动力, 动量
+		4.  [drift](dic://drift), [impulsion](dic://impulsion)
+		5.  [impulse](dic://impulse), [impulsion](dic://impulsion)
+		6. _n._ [force](dic://force), [drive](dic://drive), [thrust](dic://thrust), [driving force](dic://driving force)
+		7. **spurred**装有马刺的;**motivation**动机;**catalyst**催化剂;**inspiration**灵感;**motive**动机，目的;**momentum**动力;**encouragement**鼓励;**spur**马刺;**underpinning**基础,支柱,支撑;**reason**理由;**idea**主意;
+		8. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
+		9. impetuous [美 /ɪmˈpetʃuəs/](cmd://Speak/_us_/impetuous)
+			1. a. 冲动的, 猛烈的, 轻率的, 狂暴的
+			2. (precipitate, impetuous, reckless, snappish, madcap, impulsive, )
+			3. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
+			4. _adj._ [incautious](dic://incautious), [forceful](dic://forceful)
+			5. n. [cautious](dic://cautious), [forceless](dic://forceless), [unforceful](dic://unforceful)
+			6. **impulsive**冲动的,易冲动的;**reckless**鲁莽的，不顾后果的;**brash**仓促的，性急的;**rebellious**叛逆的;**careless**粗心的;**hasty**匆忙的;**boisterous**热闹的;**foolish**愚蠢的;**fearless**无畏的;**exuberant**兴高采烈的;**timid**羞怯的;
+			7. an impetuous dash for freedom /急切要争取自由
+			8. an impetuous but controlled flow of water. /迅疾但受控制的水流。
+			9. The rapidity of change follows the impetuous pace of man rather than the deliberate pace of nature /这种快速的变化追随着人类轻率的步伐而非大自然的从容步态。
+			10. And the fact that you are being so impetuous and irresponsible tells me you're not even close to being ready /而且当下如此莽撞又不负责任的你根本没有做好准备踏上社会。
+			11. But Atlanta was of her own generation, crude with the crudities of youth and as headstrong and impetuous as herself. /可亚特兰大是她的同辈，带有青年时代的莽撞味，并且像她自己那样倔强而浮躁。
+			12. He was impetuous and it was difficult. /他很浮躁，很困难。
+		10. impetuosity
+		11. 
+	14. perpetual
 		1. per-全部 , 永久 + pet-追求 + -ual
 		2. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted), [continual](dic://continual)
 		3. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous), [sporadic](dic://sporadic)
@@ -5580,43 +5621,66 @@
 			5. The new library will perpetuate its founder's great love of learning. /1. 这座新图书馆将纪念它的创建人对学习的热爱
 		10. perpetuation
 			1. **continuance**继续;**creation**创造，创作;**myth**神话;**oppression**压迫手段;**notion**概念;**perpetual**永久的;**pernicious**很有害的;**preservation**保存;**continual**不间断的, 不停的;**existence**存在;**suppression**镇压;
-	8. petulance 
+	15. petulance
 		1. n. 易怒, 坏脾气, 使性子
-		2. petulant
-			1. a. 任性的, 暴躁的, 易生气的, 难以取悦的
-			3.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-			4. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
-			5. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
-			6.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
-		4. 
-	9. peripatetic
-		1. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
-		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
-		3. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
-	10. peripetia, peripeteia
+		2. pet-追求 + -ul + -ance → 追求太多 , 导致脾气不好。
+		3.  [irritability](dic://irritability), [crossness](dic://crossness), [fretfulness](dic://fretfulness), [fussiness](dic://fussiness), [peevishness](dic://peevishness), [choler](dic://choler)
+		4. _n._ [ill humor](dic://ill%20humor), [ill humour](dic://ill%20humour), [distemper](dic://distemper)
+		5. **arrogance**傲慢;**childish**幼稚的，孩子气的;**impatience**急躁;**indignation**愤怒, 愤慨, 气愤;**idiocy**白痴;**hubris**傲慢;**cynicism**犬儒主义;**anger**怒，愤怒;**disdain**蔑视;**stupidity**愚笨;**defiance**蔑视;
+		6. " The marriage is no misfortune in itself, " she retorted with some little petulance. /“婚姻本身不是什么不幸，”她有点不快地反驳道。
+		7. There was a more fundamental disagreement that went beyond personal petulance. /除了个人性格外，他们两人之间还有更加实质性的分歧。
+		8. But it means that this building–because of Robert Moses's petulance for almost half a century–was just off limits. /但这意味着，由于罗伯特·摩西近半个世纪的任性，这座建筑是禁止进入的。
+		9. What proportion of the letters delivered any morning would be found to be written in displeasure, in petulance, in wrath? /每天早上收到的信件中， 有多少是表达不满、暴躁和愤怒的？
+		10. petulant
+			1. pet-追求 + -ul + -ant多…的 → 追求太多 , 导致脾气不好。
+			2.  来自拉丁语 petere,祈求，要求，词源同 appetite,feather.引申词义过分的，无礼的，不谦虚的。现词义可能是受 pettish 影响。
+			3. a. 任性的, 暴躁的, 易生气的, 难以取悦的
+			4.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+			5. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+			6. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
+			7.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+			8. She could be wayward, petulant, and disagreeable. /她有时也会任性、脾气很坏、很暴躁。
+			9. As an executive, Jobs has sometimes been petulant and harsh on subordinates. /作为管理人员，乔布斯有时候对待下属是脾气暴躁、严苛无情的。
+			10. " I want this and that right now" like petulant children. /" 我现在就想要这个和那个" , 就像任性的孩子一样。
+			11. He was petulant even then, attacking a Time correspondent for having wounded him with a story that was too revealing. /那个时候他的脾气就不太好，他攻击《时代》杂志的一名记者，因为对方报道的一个故事暴露了太多事实而让他觉得受到了伤害。
+	16. peripatetic
+		1. peri-在周围 + pat-走 + -etic，古希腊哲学家亚里士多德给弟子讲课时，喜欢边走边讲，后引申词义巡回工作的，流动的等。
+		2. a. 徒步的, 漫游的  n. 走来走去的人, 游历
+		3. 1. _adj._ (教师)在多所学校兼课的
+		4. 徒步游历的,漫游的
+		5. 巡回的,巡游的
+		6. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+		7. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
+		8. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
+		9. In contrast to my peripatetic upbringing, Joe had deep roots in Scranton, Pennsylvania, and took pride in his working-class Irish heritage. /与我四处游荡的成长经历相反，Joe 在宾夕法尼亚州的斯克兰顿有着深厚的根基，并为他的爱尔兰工人阶级传统感到自豪。
+		10. She had sometimes taken pupils in a peripatetic fashion, making them follow her about in the kitchen with their book or slate. /有时会带着学生四处游荡，让他们拿着书本或石板跟着她在厨房里走来走去。
+		11. After she and Jandali divorced in 1962, Joanne embarked on a dreamy and peripatetic life that her daughter, who grew up to become the acclaimed novelist Mona Simpson, would capture in her book Anywhere but Here. /1962年和钱德里离婚后，乔安妮过上了梦一般游荡的生活，这些都被她女儿，后来成为杰出小说家的莫娜·辛普森——描绘在她的凄美小说《在别处》（Anywhere But Here) 中。
+	17. peripetia, peripeteia
 		1. 剧情突变，情节或命运的突变
-	11. propitiate (appropriate, expiate, expatiate, propitiate, precipitate)
-		1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
-		2. vt. 慰抚, 安抚, 和解, 谋求...的好感
-		3.  来自拉丁语 propitiare,安抚，缓和，求情，来自 pro-,向前，petere,寻求，努力，乞求，恳求，词源同 petition,petitioner.
-		4. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
-		5. 
-		6. propitious (omen)
+	18. propitiate (appropriate, expiate, expatiate, propitiate, precipitate)
+		1. vt. 慰抚, 安抚, 和解, 谋求...的好感
+		2. pro-前 + pit-=pet-追求 + i + -ate, 表动词 → 追到前面去 → 获宠爱。
+		3. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
+		4. vt. 慰抚, 安抚, 和解, 谋求...的好感
+		5.  来自拉丁语 propitiare,安抚，缓和，求情，来自 pro-,向前，petere,寻求，努力，乞求，恳求，词源同 petition,petitioner.
+		6. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
+		7. 
+		8. propitious (omen)
 			1. **auspicious**吉利的;**favourable**赞许的, 赞同的;**favorable**有利的;**momentous**重大的, 严重的;**juncture**连接;**advantageous**有利的;**fruitful**多产的;**joyous**令人高兴的;**circumstance**环境;**conducive**有助的;**expedient**应急有效的;
 			2. _adj._ [golden](dic://golden), [favorable](dic://favorable), [favourable](dic://favourable), [lucky](dic://lucky), [prosperous](dic://prosperous), [gracious](dic://gracious)
 			3. _n._ [unpropitious](dic://unpropitious)
-		7. unpropitious
-		8. propitiatory
+		9. unpropitious
+		10. propitiatory
 			1. a. 劝解的, 抚慰的, 谋求好感的
 			2. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
-		9. propitiation
+		11. propitiation
 			1. _n._ [appeasement](dic://appeasement), [calming](dic://calming), [redemption](dic://redemption), [salvation](dic://salvation)
 			2. **atonement**弥补,补偿;**sacrificial**献祭的;**deity**神;**salvation**拯救;**sins**罪恶;**repentance**悔悟;**sacrifice**牺牲;**sinners**罪人;**sinner**罪人;
-	13. repeat
+	19. repeat
 		1. repetend
 		2. repetitive, repetitious
 		3. photorepeater
-5. **potam- = river**
+6. **potam- = river**
 	1. hippopotamus [美 /ˌhɪpəˈpɑtəməs/](cmd://Speak/_us_/hippopotamus)
 		1. hippo-马 + potam-河 + -us，即河中的马。
 		2. hippopotamus [,hɪpə'pɒtəməs] n. [脊椎] 河马。希腊词根hippo-表示马，potam-表示河，这样hippopotamus字面意就是“river-horse”了。《圣经》(约伯记)中记载的 behemoth [bɪ'hiːmɒθ] n.巨兽；河马，adj.巨大的；高大的，据学者考证应该就是河马。实际生物学上河马与猪的关系比与马近多了。
@@ -5636,7 +5700,7 @@
 	5. potamology
 		1. n. 河川学；[地理][水文] 河流学
 	6. potamometer
-6. **pter- = feather, wing,** 
+7. **pter- = feather, wing,** 
 	1. pterodactyl
 		1. _n._ [pterosaur](dic://pterosaur), [flying reptile](dic://flying reptile)
 		2. **dinosaur**过时、落伍的人或事物;**dragon**龙;**unicorn**独角兽;**lizard**蜥蜴;**ape**猿;**bird**鸟;**creature**动物，生物;**flying**飞行的;**owl**猫头鹰;**gorilla**大猩猩;**monster**怪物;
@@ -5655,19 +5719,19 @@
 		5. [plane](dic://plane) 本义为“平面”，在航空专业里通常用aeroplane。plane较通俗用词。  
 		6. [jet](dic://jet) 指喷气式飞机，也用jet plane。  
 		7. [helicopter](dic://helicopter) 指直升飞机。
-	7. **chopper**斧头;**aircraft**飞机，航空器;**airplane**飞机;**plane**平面;**parachute**降落伞;**UAV**无人机;**jet**喷射，喷嘴;**ambulance**救护车;**airliner**班机;**flying**飞行的;**pilot**领航员;
-	8. accipiter, accipitral
+		8. **chopper**斧头;**aircraft**飞机，航空器;**airplane**飞机;**plane**平面;**parachute**降落伞;**UAV**无人机;**jet**喷射，喷嘴;**ambulance**救护车;**airliner**班机;**flying**飞行的;**pilot**领航员;
+	7. accipiter, accipitral
 		1. **hawk**鹰;**hummingbird**蜂鸟;**owl**猫头鹰;**bird**鸟;**avian**鸟类的;**plumage**翅膀;**birds**鸟类;**beak**鸟嘴;**taxon**分类单元;**sparrow**麻雀;**owls**猫头鹰;
-	9. archaeopteryx
+	8. archaeopteryx
 		1. **fossils**化石;**fossil**化石;**dinosaur**过时、落伍的人或事物;**creationism**创造宇宙说,特别创造说;**beak**鸟嘴;**reptiles**爬行类;**bird**鸟;**reptile**爬虫类的;**vertebrate**脊椎动物;
-14. **ptil-** = feather, 表示“羽毛”。源自希腊语 ptilon "soft feathers, down, plume."
+8. **ptil-** = feather, 表示“羽毛”。源自希腊语 ptilon "soft feathers, down, plume."
 	1. neossoptile
 		1. n. 幼鸟羽, 雏羽
 	2. protoptile
 		1. n. 原始羽毛
 	3. teleoptile
 		1. n. 成羽
-15. **pto-** = to fall, 表示“下降”。源自希腊语 piptein "to fall," ptotos "falling, fallen," ptosis "a fall."
+9. **pto-** = to fall, 表示“下降”。源自希腊语 piptein "to fall," ptotos "falling, fallen," ptosis "a fall."
 	1. asymptote (apostate)
 		1. a-不 + sym-一起 + pto-下降 + -te
 		2. n. 渐近线
@@ -5692,7 +5756,7 @@
 	5. ptomain
 		1. n. 尸毒, 尸碱
 		2. ptomaine
-16. feather
+10. feather
 	1. n. 羽毛 
 	2. vi. 长羽毛  vt. 用羽毛装饰
 	3. birds of a feather flock together物以类聚人以群分。同种类的鸟确实喜欢聚集在一起，飞行时，栖息时都如此，为什么呢？这样做的主要原因是可以降低单飞时被鹰隼等猛禽抓住的概率。 All his friends are dishonest. Birds of a feather flock together. 他所有的朋友都不诚实，物以类聚人以群分呀。 ​​​​  

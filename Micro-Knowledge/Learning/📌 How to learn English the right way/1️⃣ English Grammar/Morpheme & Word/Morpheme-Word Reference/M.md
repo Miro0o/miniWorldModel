@@ -5082,7 +5082,7 @@
 		3. _n._ [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous)
 		4. **unrelenting**不屈不挠的;**relentless**残酷的, 不留情的, 无怜悯心的;**incessant**不停的, 持续不断的;**unending**不断的，无止境的;**continual**不间断的, 不停的;**unwavering**不动摇的,坚定的;**never-ending**不停的,无限的;**constant**不变的;**tireless**不疲劳的;**merciless**无情的,残忍的;**continuous**连续的;
 21. remiss
-	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
+	1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss, indolent, slow, laggard, poky, dragging, drown-out,)
 	2. a. 怠慢的, 不小心的, 没精打采的, 疏忽的
 	3. 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走，词源同 emit,remit.-ss,过去分词格。引申词义疏忽的，懈怠的。
 	4. [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
@@ -5097,15 +5097,15 @@
 	13. And I would be especially remiss if I didn't discharge right now one personal debt of gratitude. /如果我不先向你们表达我的感激之情，我就太过轻慢了。
 	14. I think would be remiss not to say to look at currencies as well. /我认为不说也看货币是失职的。
 	15. It was **remiss** of them not to inform us of these changes sooner. /他们粗心大意，没有早一些通知我们这些变化。
-23. submit
+22. submit
 	1. submission
 	2. submissive
 		1.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, meek, tame, docile, humble, modest)
-24. transmit
+23. transmit
 	1. transmittal
 	2. transmission
 	3. transmissive, transimissble, transmissible
-25. summit
+24. summit
 	1. summ-总和 + it表名词 → 山的顶峰像数量总和 → 一样 → 最高数量 → 最高峰。
 	2. [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [pinnacle](dic://pinnacle), [superlative](dic://superlative), [meridian](dic://meridian), [tiptop](dic://tiptop), [top](dic://top)
 	3. [peak](dic://peak), [crown](dic://crown), [crest](dic://crest), [top](dic://top), [tip](dic://tip)
@@ -5120,7 +5120,7 @@
 	12. Posing as a bold outrider, as he did at the summit, may yet help /他在峰会上摆出勇敢的先驱者的姿态或许会对塑造这样的形象有所帮助。
 	13. The craftsmen inlaid clouds to mark the summits. /工匠们在其中雕刻嵌入了云朵以凸显出山峰
 	14. summitry
-26. demise
+25. demise
 	1. [美 /dɪ'maɪz/](cmd://Speak/_us_/demise)
 	2. n. 死亡; 终止, 失败 
 	3. vt. 正式放弃, 转让
@@ -5140,7 +5140,7 @@
 	17. Others will be frankly relieved at the GOCO's demise. /其他人对GOCO的失败表现的很轻松。
 	18. The ritual of bullfighting has changed little since Joselito's demise. /自何塞利托去世后，斗牛的传统几乎没有改变。
 	19. demisable
-27. promise
+26. promise
 	1. pro-前面 + mis-送 + -e → 在做事前送出的话 → 允诺。
 	2. 来自古法语 promesse,承诺，保证，来自拉丁语 promissum,承诺，来自 pro-,向前，-miss,送出，词源同 mission,emit.
 	3. v. 承诺，保证；使很可能，预示；指望，期待（promise oneself）；<古>把（某人，尤指女人）许配给；有指望，有前途 
@@ -5201,7 +5201,7 @@
 		13. MacGregor would be a compromise, the safe choice. /麦格雷戈是一个折中人选，如果选他风险较小。
 		14. But you would never compromise on your vision. /但你不会因此而改变你的看法。
 		15. My work has been compromising my marriage. /我的工作已经影响到婚姻了。
-28. premise
+27. premise
 	1. [premiss](dic://premiss), [assumption](dic://assumption)
 	2. [precede](dic://precede), [preface](dic://preface), [introduce](dic://introduce)
 	3. [premiss](dic://premiss)
@@ -5222,7 +5222,7 @@
 	18. We have a warrant to search the premises /我们有搜索这栋宅邸的授权令。
 	19. Are the inferences valid? Does the conclusion follow the premises? /推断有效吗？结论与前提一致吗？
 	20. premises
-29. remise (remiss)
+28. remise (remiss)
 	1. n. 再刺, 重刺  
 	2. vi. 再刺, 重刺  
 	3. vt. 放弃, 出让
@@ -5234,7 +5234,7 @@
 	9. When the time limit to **remise** or lease out comes, the users have the priority to continue renting /租赁土地期满后，使用者可优先续租或受让。
 	10. The mining rights exchange should include **remise**, transference, mortgage, hire, contract and inheritance. /矿业权的流转应包括出让、转让、抵押、出租、承包、继承这六方面的内容。
 	11. This is the famous classical type of E. Shine. Miss He bought it at three million at that time, and now she wants to **remise** to you. /Shine非常有名的经典款式，当时何小姐用三百万的价值买到的，现在她要让出来给你
-30. surmise
+29. surmise
 	1. vt. 猜测；推测 
 	2. vi. 猜测；认为 
 	3. n. 推测；猜度

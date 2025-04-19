@@ -4162,19 +4162,20 @@
 2. trampoline
 3. trap
 4. tread
-	1. [pace](dic://pace), [stride](dic://stride)
-	2. [trample](dic://trample) /stomp
-	3. _n._ [step](dic://step), [surface](dic://surface), [contact](dic://contact), [tangency](dic://tangency), [structural member](dic://structural member)
-	4. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [walk](dic://walk), [squash](dic://squash), [crush](dic://crush)
-	5. **tire**疲劳;**tires**轮胎;**outsole**外底;**sidewall**边墙，侧壁;**tyre**装轮胎于;**tyres**轮胎;**lightly**轻轻地;**gravel**砂砾;**pavement**人行道
-	6. untread
-	7. treadwheel
-	8. treadmill
+	1.  (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, trample, tread)
+	2. [pace](dic://pace), [stride](dic://stride)
+	3. [trample](dic://trample) /stomp
+	4. _n._ [step](dic://step), [surface](dic://surface), [contact](dic://contact), [tangency](dic://tangency), [structural member](dic://structural member)
+	5. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [walk](dic://walk), [squash](dic://squash), [crush](dic://crush)
+	6. **tire**疲劳;**tires**轮胎;**outsole**外底;**sidewall**边墙，侧壁;**tyre**装轮胎于;**tyres**轮胎;**lightly**轻轻地;**gravel**砂砾;**pavement**人行道
+	7. untread
+	8. treadwheel
+	9. treadmill
 		1. _n._ [exercise device](dic://exercise device), [mill](dic://mill), [grinder](dic://grinder), [milling machinery](dic://milling machinery), [occupation](dic://occupation), [business](dic://business), [job](dic://job)
 		2. **workout**试验;**jogging**慢跑;**elliptical**椭圆的;**jog**慢跑;**exercise**练习;**gym**体育;**aerobic**需氧的;**fitness**健康;**aerobics**有氧运动法;**marathon**马拉松赛跑;**sedentary**坐着的;
 		3. the soulless treadmill of urban existence. /枯燥无味的城市生活。
 		4. I do stretching, yoga, stairmaster, treadmill, and then more stretching and meditation. /我会做伸展运动、瑜伽、爬楼梯、跑跑步机，然后进行更多的伸展运动和冥想。
-	9. treadle
+	10. treadle
 		1. _n._ (尤指旧时驱动机器的)踏板
 		2. _vt. & vi._ 踩踏板
 		3.  [pedal](dic://pedal), [foot pedal](dic://foot pedal), [foot lever](dic://foot lever)

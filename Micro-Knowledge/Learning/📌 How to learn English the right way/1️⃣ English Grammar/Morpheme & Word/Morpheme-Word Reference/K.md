@@ -3979,28 +3979,91 @@
 	1. craete
 	2. decrease
 		1. decrescent
+			1. a. 渐减的, 变小的
 	3. increase
-		1. increment
-	4. excrescence, excrescency
-		1. excrescent
-	5. accrete
-		1. accretion
+		2. increment
+	4. accrete
+		2. - v. 合生；增大生长；依附；使连接；把……吸引过来adj. 合生的；增积的
+		3. _v._ [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse)
+		4. **accumulate**堆积;**evaporate**蒸发;**galaxies**星系;**erode**腐蚀，侵蚀;**evolve**发展，进化;**accrue**自然增加;**migrate**移动;**dissipate**驱散;**comets**彗星;
+		5. The neutron star or black hole accretes matter from the star, creating a high-temperature accretion disk and relativistic jets. /中子星或黑洞吸积恒星的物质产生高温的吸积盘及相对论性的喷流。
+		6. First of all, most black holes accrete, or absorb matter and energy, more quickly than they emit Hawking radiation /首先，大多数黑洞吸积或吸收物质和能量的速度比它们发射霍金辐射的速度更快。
+		7. 
+		8. accretion
 			1. _n._ [increase](dic://increase), [increment](dic://increment), [growth](dic://growth), [addition](dic://addition), [gain](dic://gain), [inheritance](dic://inheritance), [heritage](dic://heritage)
 			2. **accumulation**积聚;**outflow**流出;**formation**形成, 构成;**gravitational**万有引力的;**galaxies**星系;**primordial**原始的;**magma**岩浆;**sedimentary**沉积的;**erosion**侵蚀，腐蚀;**neutron**中子;**galactic**银河的;
-	6. concrete
+	5. accrue
+		1. _v._ [increase](dic://increase), [change hands](dic://change%20hands), [change owners](dic://change%20owners)
+		2. **accumulate**堆积;**benefit**利益，好处;**benefits**利益，收益;**outweigh**比…重;**incur**招致，引发;**reap**收割;**earn**获得，挣得;**incurred**遭受;**accumulating**聚积;**rewards**奖励;**repaid**偿还;
+		3. Knowledge will accrue to you from reading /读书能增加知识。
+		4. Interest accrues to a man from loan. /提供贷款则利息自生。
+		5. I have accrued a set of commemoration stamps /我已收集一套纪念邮票。
+		6. Ability to think will accrue to you from good habits of study. /有了良好的学习习惯,思考能力就自然会有所提高。
+		7. A cause of action has accrued when the right to sue has become vested /起诉的理由在控告权被赋予后随之存在。
+	6.  concrete
 	7. concrescence
-	8. accrue
-	9. creature
-	10. crescendo
-	11. crescent
-	12. crew
-	13. procreate, procreant
-	14. recreate
-	15. recruit
-	16. croissant
+	8. creature
+	9. crescendo
+	10. crescent
+	11. crew
+	12. procreate
+		1. vt. 生, 生殖, 产生  vi. 生殖
+		2. _v._ [make](dic://make), [create](dic://create)
+		3. **offspring**子女, 子孙, 后代;**marry**娶;**reproduce**复制;**humans**人类;**progeny**后裔;**conceive**构思;**mating**交配，交尾;**beings**人;**biologically**生物学地;**heterosexual**异性恋的;**sperm**精液;
+		4. Much of what we are about centers on the same impulses to eat, procreate, fight or flee that motivated Fred Flintstone. /人之所以为人，大多基于饮食、男女、斗争、避凶的冲动，在原始社群就是这样了。
+		5. But the topic was procreation, and she clearly has procreated. /但主题是生育，她显然有生育经验啊。
+		6. You know, we could also be the first people to procreate on Mars. /你知道吗，我们也可以成为第一批在火星生育的人。
+		7. procreator
+		8. procreative
+		9. procreation
+		10. procreant
+	13. recreate
+	14. recruit
+		1. n. 新兵, 新手, 新会员, 补给品  
+		2. vt. 恢复, 补充, 充实, 征募   vi. 征募新兵, 复原, 得到补充
+		3.  re-,再，重新，-cru,生长，成长，词源同 crescent,crew.引申词义吸收，招募新成员。
+		4. recruitment 
+	15. croissant
+		1. n. 羊角面包
+	16. excrescent
+		1. a. 多余的, 赘音的, 外加音的
+		2. excrescence
+			1. _n._ [projection](dic://projection), [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage), [growth](dic://growth)
+			2. **fleshy**肉的;**grotesque**奇形怪状的;**edifice**大厦;**monstrous**极可恶的;**ghastly**可怕的;**unsightly**不悦目的;**hideous**可怕的;**bony**骨的;**pernicious**很有害的;**extremity**端点,尽头;**noxious**有害的;
+			3. The knobby excrescences at the left side of this vertebral column are due to degenerative osteoarthritis. This is the pronounced "lipping" of the vertebral bodies /左边脊柱多节的赘生物是由退变性骨关节炎引起的。这是椎体明显的“唇形变”。
+		3. excrescency
 	17. sincere
-	18. etc..
+		1. a. 诚实的, 正直的, 真挚的, 纯净的
+		2. sincere - 据旧时说法，sincere的词源可以追溯到意大利文艺复兴盛期，雕刻家、画家、建筑师和诗人米开朗琪罗（Michelangelo, 1475-1564）生活的那个时代。米开朗琪罗在成名前曾在采石场工作。当时罗马的采石工人常常涂蜡于大理石，以掩饰其瑕疵，但是这只能瞒骗一时。以后罗马元老院（the Roman Senate）颁令，凡大理石不得涂蜡，换言之，大理石必须“无蜡”，用拉丁语表示则是sine cēra（没有蜡）。这两部分最后合成了英语单词sincere，它的词义先是由“无蜡的”引申为“纯粹的”，继而又引申为“真挚的”、“真诚的”。  
+		3. 然而，大多数权威人士认为，sincere一词系源于拉丁语sincērus（纯粹的，不掺假的）。  
+		4. 例　He wasn't entirely sincere when he said he liked me. 他说他喜欢我，这话有些言不由衷。  
+		5. Her sadness seemed sincere. 她的悲痛看来是发自内心的。  
+		6. The government was sincere about reaching a settlement. 政府真心愿意达成一项解决办法。  
+		7. I was being sincere when I told you how I felt. (NED) 我把我的想法告诉你是真诚的。
+		8. sincerity
+			1. insincerity
+		9. sincerely
+		10. insincere
+			1. insincerity
 3. cereal
+	1. n. 谷类食品, 谷类植物  a. 谷类的
+	2. cereal（谷物）：谷物女神刻瑞斯  
+	3. 罗马神话中，刻瑞斯（Ceres）是神王朱庇特的姐姐和第四个妻子，掌管农业、谷物和丰产，被称为谷物女神。她等同于希腊神话中的德墨忒尔（Demeter）。  
+	4. 据说冥王普鲁托看上了刻瑞斯的爱女科瑞（Core，即希腊神话中的珀尔塞福涅），把她劫到了冥府当了冥后。刻瑞斯四处寻找女儿，不问农事，导致庄稼死亡，饥馑遍地。人们再也没有祭品来供奉神灵。没办法，天神朱庇特命令冥王释放科瑞。冥王不敢违命，但又不甘心，就在科瑞离开之际，偷偷让她吃下石榴籽，使得她无法断绝与冥府的联系。  
+	5. 因此，科瑞每年有8个月时间在人间陪伴母亲，4个月时间重返冥府陪伴冥王。在有女儿陪伴的时期，谷物女神心情愉快，世间万物蓬勃生长；而在女儿离开的4个月中，谷物女神心情低落，万物枯竭，这就是人间的冬天。就这样，人间出现枯荣轮回，人类也不能再像黄金时代那样不劳而获，坐等庄稼自己长出来，而是需要去播种耕耘。  
+	6. 英语单词cereal就来自谷物女神刻瑞斯的拉丁名字Ceres，表示“谷物”。化学元素铈（cerium）也是以谷物女神的名字命名的。  
+	7. Ceres：['siəri:z]  n. 刻瑞斯（谷物女神）  
+	8. cereal：['sɪərɪəl] n.谷物，谷类植物，谷类食物，麦片adj.谷物的，谷类的  
+	9. cerium：['sɪərɪəm] n.（化学元素）铈
+	10.  [cereal grass](dic://cereal grass)
+	11. [grain](dic://grain), [food grain](dic://food grain)
+	12. _n._ [grass](dic://grass), [foodstuff](dic://foodstuff), [food product](dic://food%20product), [breakfast food](dic://breakfast%20food)
+	13. _adj._ [grain](dic://grain), [caryopsis](dic://caryopsis)
+	14. **oatmeal**燕麦粥;**granola**格兰诺拉麦片;**porridge**粥，糊;**oat**燕麦;**breakfast**早餐;**bran**麸，糠;**snack**小吃，快餐;**oats**燕麦;**wheat**小麦;**yogurt**酸奶酪，酸乳;**rice**稻;
+	15. _cereal grains_ 粮谷；谷粒
+	16. _cereal crop_ 禾谷类作物，粮食作物
+	17. I had some cereal, fried eggs and orange juice. /我吃了点麦片粥、煎鸡蛋，还喝了点橙汁。
+	18. Dad, I can't believe you're explaining alien cereal /爸 你居然还在跟他们解释外星麦片。
 #### + \*(s)ker- (3)+ = to turn, bend
 1. **circum-** = 表示“环绕，周围”。源自希腊语 kirkos, krikos "a ring."
 	1. circumambience
@@ -4106,10 +4169,11 @@
 		7. But the corollary of better performance is higher pay. /但更好成绩的必然结果是更高的薪水。
 		8. These secular rituals have deep religious roots and ancient corollaries, meant to prompt reflection by bringing appetites to heel. /这些世俗的仪式有着深厚的宗教根源和古老的必然结果，目的是为了通过使欲望屈服来促进反思。
 		9. 
-	2. coronach
+	2. coronach [美 /'kɔrənək/](cmd://Speak/_us_/coronach)
 		4.  [dirge](dic://dirge), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
 		5. _n._ [song](dic://song), [vocal](dic://vocal)
 		6. _[emotional appeal of coronach](dic://emotional%20appeal%20of%20coronach)_ 挽歌情调
+		7. But the KOKOHILI is not a coronach or canticle for the hero. /
 	3. coronagraph
 		1. _[coronagraph](dic://coronagraph)_  n. [天] 日冕仪（等于coronograph）
 	4. _coronascope_ 日冕观测镜
@@ -4197,7 +4261,33 @@
 	1. cricoid
 4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
 	1. curve
-		1. curvaceous, curvacious
+		1. - n. 曲线，弧线；转弯，弯道；图表曲线；曲线球；（女子身体的）曲线
+		2. v. （使）弯曲，（使）呈曲线形
+		3. adj. 弯曲的，曲线形的
+		4. [curved shape](dic://curved shape)
+		5. [curve ball](dic://curve ball), [breaking ball](dic://breaking ball), [bender](dic://bender)
+		6.  [curvature](dic://curvature)
+		7. [bend](dic://bend)
+		8. [swerve](dic://swerve), [sheer](dic://sheer), [trend](dic://trend), [veer](dic://veer), [slue](dic://slue), [slew](dic://slew), [cut](dic://cut)
+		9. [wind](dic://wind), [twist](dic://twist)
+		10. [arch](dic://arch), [arc](dic://arc)
+		11. [crook](dic://crook)
+		12. [curl](dic://curl), [kink](dic://kink)
+		13. _n._ [line](dic://line), [pitch](dic://pitch), [delivery](dic://delivery), [shape](dic://shape), [form](dic://form), [configuration](dic://configuration), [contour](dic://contour)
+		14. _v._ [turn](dic://turn), [be](dic://be), [bend](dic://bend), [flex](dic://flex), [change surface](dic://change%20surface)
+		15. _n._ [straight line](dic://straight%20line)
+		16. [curve](dic://curve) 指变成曲线或弧线状的动作或状态。  
+		17. [bend](dic://bend) 普通用词，指把某物变成曲线或角形。用于人时，指头部或身躯弯下。  
+		18. [bow](dic://bow) 指把头部或上身弯向前方的动作，也指社交中的礼节性动作。  
+		19. [crook](dic://crook) 指不规则的弯曲，也指按照规则或模型弯曲某物。  
+		20. [twist](dic://twist) 指通过转动、拧或扭使某物成弯曲状。
+		21. **curvature**弯曲;**slope**倾斜;**steeper**浸润器;**trajectory**弹道,轨迹;**exponential**指数的;**steep**陡峭的;**contour**轮廓;**gradient**梯度;**bend**使弯曲;**angle**角，角度;**sloping**倾斜的;
+		22. Characters' eyes are etched in endearing, twinkly curves. /影片人物的眼睛被勾画成双曲线，令观众百看不厌。
+		23. The car negotiated the sharp curve by slowing down /该车减速驶过急转弯。
+		24. His lips curved in a barely perceptible smile. /他的嘴角弯了弯，露出一丝几乎察觉不到的笑容
+		25. House Speaker Nancy Pelosi then threw a curve. /之后众议院议长南希·佩洛西的讲话令人们捉摸不透。
+		26. He added, " We want to lead the curve. /他补充说，“我们希望引领这一趋势。”
+		27. curvaceous, curvacious
 			1. a. 婀娜多姿的, 苗条的, 有曲线美的
 			2. a. 曲线美的, 肉体美的
 			3. _adj._ [shapely](dic://shapely)
@@ -4205,9 +4295,9 @@
 			5. **curvy**弯曲的;**slender**微薄的;**sexy**性感的;**busty**大胸脯的，胸部丰满的;**alluring**迷人的，吸引人的;**curves**曲线;**luscious**甘美的;**sleek**圆滑的;**seductive**诱惑的;**plump**丰满的;**petite**娇小的，小个子
 			6. _[Curvaceous And Soft](dic://Curvaceous%20And%20Soft)_ 袅袅婷婷
 			7. _[She's curvaceous](dic://She%27s%20curvaceous)_ 她的身材曲线玲珑
-		2. curvature
+		28. curvature
 			1. n. 弯曲, 曲率
-		3. curvet
+		29. curvet
 			1. 1. **a light leap by a horse** in which both hind legs leave the ground before the forelegs come down
 			2. n. （优雅或充满活力的）腾跃，嬉戏；四脚离地的低空跳跃 
 			3. v. 腾跃；（马）直立腾跃
@@ -4216,15 +4306,27 @@
 			6. _v._ [jump](dic://jump), [leap](dic://leap), [bound](dic://bound), [spring](dic://spring)
 			7. _[make a curvet](dic://make%20a%20curvet)_ 腾跃
 			8. _[cut a curvet](dic://cut%20a%20curvet)_ 腾跃
-		5. curvilineal, curvilinear
+			9. Taking level curvet as an example, the landing stability of horse-vaulting is analyzed mechanically by stages, which is useful for scientific sports. /以水平腾跃为例,对跳马落地稳定性分阶段进行了力学分析,对科学体育运动有一定指导作用。
+			10. The postures of these dragons have different characteristics during various ages. Some dragons curve and wreathe, some **curvet** through the clouds, some march forward leisurely and some are poised. /这些龙的姿态各具时代特色，有的曲体盘绕，有的穿云腾越，有的信步前行，有的蓄力待发。
+		30. curvilineal, curvilinear
 			1. a. 曲线的, 由曲线组成的
-		6. curving
-		7. decurved
-		8. incurve
-		9. outcurve
-		10. recurve
-		11. curvy
-	2. deprave
+		31. curving
+		32. decurved
+			1. _adj._ 向下弯曲的(指鸟喙等)
+			2. _adj._ [retrorse](dic://retrorse)
+			3. _n._ [antrorse](dic://antrorse)
+			4. **whitish**带白色的;**plumage**翅膀;**slender**微薄的;**yellowish**微黄色的;**beak**鸟嘴;**reddish**微红的;**brownish**呈褐色的;**greenish**呈绿色的;**fleshy**肉的;**conical**圆锥形的;**elongated**细长的;
+			5. _[decurved bill](dic://decurved%20bill)_ 向下弯的鸟嘴
+		33. incurve
+			1. 1. _n._ 向内弯曲,向内弯曲的事物 _v._ 使向内弯曲
+		34. outcurve
+		35. recurve
+			1. vi. 向后弯曲；折回
+			2. _n._ [rule](dic://rule), [formula](dic://formula)
+			3. **recursive**回归的,递归的;**parser**语法剖析程式;**syntax**语法;**integer**整数;**computation**计算;**algebraic**代数的;**theorem**定理;**integers**整数;**parsing**剖析;**nested**嵌套的，内装的;**Boolean**布尔数学体系的;
+			4. _recursion formula_ 递推公式；[数]递归公式
+		36. curvy
+	4. deprave
 		1. de-,向下，离开，-prav,弯的，扭曲的，词源可能同 crook,curve,字母 c,p 音变。引申词义变态，堕落
 		2. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [misdirect](dic://misdirect)
 		3. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
@@ -4234,11 +4336,11 @@
 		7. Such a woman is not a more irrational monster than some of the Roman emperors, who were depraved by lawless power. /这样的女人，不比一些被无法无天的权力所堕落的罗马皇帝更不理智的怪物。
 		8. Let men take their choice, man and woman were made for each other, though not to become one being; and if they will not improve women, they will deprave them! /让男人自己选择吧，男人和女人是为彼此而造的，尽管不是为了成为一体；如果他们不改善女性，他们就会贬低她们！
 		9. In my view this book would **deprave** young children. /我认为这本书会腐蚀儿童。
-	3. cirrus
+	5. cirrus
 		1. - n. 藤蔓；[动] 触毛；[植] 卷须
 		2. On Earth, NASA says, white wispy **cirrus** clouds are made of ice crystals /美国航天局说，在地球上稀疏的白色卷云是由冰晶所组成的。
 		3. In fact, all clouds belong to one of three principle types to which Howard gave the names: cirrus, Latin for tendril or hair, cumulus, heap or pile, and stratus, layer or sheet /实际上，所有的云属于三种基本形式之一，霍德华给它们命名为：卷云，来自于拉丁语中的卷须或头发，积云，堆积或积累，层云，层叠或片。
-	4. crank 
+	6. crank
 		1. 1 - 来自 PIE*ger,转，弯，围，词源同 cramp,crook.引申词义曲柄，古怪的人。
 		2. [grouch](dic://grouch), [grump](dic://grump), [churl](dic://churl), [crosspatch](dic://crosspatch)
 		3. [crackpot](dic://crackpot), [nut](dic://nut), [nut case](dic://nut case), [nutcase](dic://nutcase), [fruitcake](dic://fruitcake), [screwball](dic://screwball)
@@ -4261,15 +4363,15 @@
 			6. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
 			7. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
 			8. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
-	5. cringe
+	7. cringe
 		1. cringing
 		2. cringeworthy
-	6. cringle
+	8. cringle
 		1. fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines /_n._ (船帆边上的)索耳, 索眼
 			1. _synonymous：_ [eyelet](dic://eyelet), [loop](dic://loop), [grommet](dic://grommet), [grummet](dic://grummet)
 		2. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing)
 		3. **mast**桅杆;**buoy**浮标;**reef**暗礁;
-	7. crinkle
+	9. crinkle
 		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
 		2. 词源同 crimp,crisp.
 		3. n. 皱, 波纹  
@@ -4290,7 +4392,7 @@
 		16. Rose's face crinkled in bewilderment /罗斯困惑地皱起了脸。
 		17. there was a crinkle of suspicion on her forehead /她疑惑地皱着额头。
 		18. My clothes were all crinkled when I got them out of the case. /我的衣服从箱子里拿出来时都皱了。
-	8. curb
+	10. curb
 		1. 来自 PIE*sker,转，弯，围，词源同 ring,curve.
 		2. [curbing](dic://curbing), [kerb](dic://kerb)
 		3.  [curb bit](dic://curb bit)
@@ -4311,7 +4413,7 @@
 		16. I began to curb my appetite for food and drink /我开始节制饮食。
 		17. curbstone
 		18. curbing
-	9. curl
+	11. curl
 		1.  [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
 		2.  [Robert Curl](dic://Robert Curl), [Robert F. Curl](dic://Robert F. Curl), [Robert Floyd Curl Jr.](dic://Robert Floyd Curl Jr.)
 		3. [lock](dic://lock), [ringlet](dic://ringlet), [whorl](dic://whorl)
@@ -4352,11 +4454,11 @@
 		23. curlpaper
 		24. curling
 		25. culer
-	10. recherche
-5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
+	12. recherche
+6. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
 	1. crytometer
 	2. kurtosis
-6. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
+7. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
 	1. range
 		1. 来自古法语 range,排列，布置，成排，来自 reng,排，行，线，词源同 rank.引申诸相关词义。
 		2. n. 排, 行, 山脉, 范围, 行列, 射程  
@@ -4419,7 +4521,7 @@
 		8. ranch meals are invariably big and hearty. /大农场里的饭菜总是丰盛的。
 		9. A vaquero on a cattle ranch in Mato Grosso. /马托格罗索州一间牛场的牧童。
 		10. a split-level ranch house. /错层式平房
-7. cradle
+8. cradle
 	1. [birthplace](dic://birthplace), [place of origin](dic://place of origin), [provenance](dic://provenance), [provenience](dic://provenience)
 	2. [rocker](dic://rocker)
 	3. _n._ [baby bed](dic://baby bed), [baby's bed](dic://baby's bed), [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
@@ -4429,7 +4531,7 @@
 	7. _from the cradle_ 自幼，从小
 	8. _from cradle to grave_ 一生（等于from the cradle to the grave）
 	9. _rob the cradle_ [美俚]劫摇篮；老牛吃嫩草；与比自己年轻地多的异性约会
-8. creche
+9. creche [美 /kreiʃ/](cmd://Speak/_us_/creche)
 	1. n. 托儿所；育婴堂
 	2. [foundling hospital](dic://foundling hospital)
 	3. _n._ [hospital](dic://hospital), [infirmary](dic://infirmary), [representation](dic://representation)
@@ -4437,7 +4539,7 @@
 	5. Others suggested a library, a creche and a reimagined shopping arcade. /其他人则建议建立一个图书馆、一个托儿所和一个重新设计的购物街。
 	6. One explanation may be that the colony is acting like a giant creche /一种可能的解释是，这一群体像是大型托儿所。
 	7. Rather than opt for a creche, which can prove expensive, either parent may remain at home to educate, protect and play with their child to help them develop and grow /父母中的任何一方都可以留在家里教育、保护孩子，和他们一起玩耍，以帮助他们发展和成长，而不是选择昂贵的托儿所。
-9. crepe
+10. crepe [美 /krep/](cmd://Speak/_us_/crepe)
 	1. [crepe paper](dic://crepe paper)
 	2. [crape](dic://crape), [French pancake](dic://French pancake)
 	3. _n._ [paper](dic://paper), [pancake](dic://pancake), [battercake](dic://battercake), [flannel cake](dic://flannel cake), [flannel-cake](dic://flannel-cake), [flapcake](dic://flapcake), [flapjack](dic://flapjack)
@@ -4448,7 +4550,7 @@
 	8. They're great for sweet or savory crepes /它们非常适合制作甜味或咸味薄饼。
 	9. Strawberry, Nutella, powdered sugar, and whipped cream crepes. /草莓、花生酱、糖粉和鲜奶油薄饼。
 	10. They are so good. I really like the Swedish crepes. /他们太好了。我真的很喜欢瑞典薄饼。
-10. crib
+11. crib
 	1. [cot](dic://cot)
 	2. [pony](dic://pony), [trot](dic://trot)
 	3. [cribbage](dic://cribbage)
@@ -4463,7 +4565,7 @@
 		6. _[crib note](dic://crib%20note)_  考试时夹带的纸条
 		7. _[crib death](dic://crib%20death)_  婴儿猝死综合症
 		8. _[tool crib](dic://tool%20crib)_  工具仓库；工具架；工具盒
-11. crisp
+12. crisp
 	1. [chip](dic://chip), [potato chip](dic://potato chip), [Saratoga chip](dic://Saratoga chip)
 	2. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up)
 	3. [crispen](dic://crispen), [toast](dic://toast)
@@ -4478,9 +4580,9 @@
 	12. _adj._ [distinct](dic://distinct), [tender](dic://tender), [cold](dic://cold), [fresh](dic://fresh), [curly](dic://curly), [concise](dic://concise)
 	13. _n._ [indistinct](dic://indistinct), [tough](dic://tough), [hot](dic://hot), [stale](dic://stale), [straight](dic://straight), [prolix](dic://prolix)
 	14. **crispy**易碎的;**crunchy**易碎的;**snappy**厉声说话的;**sharp**急剧的;**bright**明亮的，鲜明的;**refreshingly**清爽地,有精神地;**vivid**鲜明的;**buttery**谄媚的，奉承的;**fresh**新鲜的;**soft**温柔的，温和的;**flavorful**充满…味道的,可口的;
-12. curl
-13. rank
-14. ridge
+13. curl
+14. rank
+15. ridge
 	1. [ridgeline](dic://ridgeline)
 	2.  [ridgepole](dic://ridgepole), [rooftree](dic://rooftree)
 	3. _n._ [natural elevation](dic://natural elevation), [elevation](dic://elevation), [convex shape](dic://convex shape), [convexity](dic://convexity), [geological formation](dic://geological formation), [formation](dic://formation), [process](dic://process)
@@ -4494,9 +4596,21 @@
 	11. the ridged sand of the beach. /海滩上的沙脊。
 	12. the traverse of the ridge is a challenge for experienced climbers. /穿越这座山脊对经验丰富的登山者来说也是一种考验。
 	13. We clambered up the hillside to the ridge above. /我们沿着山坡费力地爬上了山脊。
-15. ring
-16. search
-17. shrink
+16. ring
+17. search
+18. shrink
+19. scorch
+	1.  可能来自古诺斯语 skorpna,使枯萎，使枯干，来自 Proto-Germanic*skrimp,收缩，来自 PIE*sker,弯，转，词源同 shrink,shrimp.后引申词义烧焦。
+	2. v. 烧焦, (使)枯萎; 讽刺; <非正式>疾驰   n. 烧焦, 枯萎
+	3. scorching 
+		1. (scorching, blistering, sizzling, searing, steamy, hot, blazing, sultry, fiery, roasting, burning hot, torrid, sweltering, fervent, )
+		2. _adj._ [hot](dic://hot)
+		3. _n._ [cold](dic://cold)
+		4. **blistering**酷热的;**sizzling**极热的;**searing**灼热的;**steamy**蒸汽的;**hot**热的;**blazing**燃烧的;**heat**热度;**sultry**闷热的;**hotter**热的;**fiery**燃烧般的;**sun**太阳;
+		5. _scorching heat_ 炎热
+		6. 
+	4. scorcher
+	5. antiscorch
 
 
 #### + \*ker- (4)+ = heat, fire, to burn
@@ -5062,9 +5176,19 @@
 			2. [penetration](dic://penetration)
 			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
 	20. occur
-		1. occurrent
-		2. occurrence
-	21. recur
+		1.  [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [pass](dic://pass), [fall out](dic://fall out), [come about](dic://come about), [take place](dic://take place)
+		2.  [come](dic://come)
+		3. _v._ [become](dic://become), [appear](dic://appear), [come along](dic://come%20along)
+		4. [happen](dic://happen) 普通用词，泛指一切客观事物或情况的发生，强调动作的偶然性。  
+		5. [occur](dic://occur) 较正式用词，可指意外地发生，也可指意料中的发生。  
+		6. [chance](dic://chance) 侧重事前无安排或无准备而发生的事，特指巧合。  
+		7. [take place](dic://take%20place) 多指通过人为安排的发生。
+		8. **happen**发生;**arise**发生;**occured**发生;**ensue**跟着发生，接着发生;**occurrence**发生, 出现;**affect**影响;**precede**领先，在…之前;**happened**发生;**arises**出现;**infrequently**稀少地;**originate**发起;
+		9. _occur as_ 以...的形式出现
+		10. _occur for_ 发生在…时候
+		11. occurrent
+		12. occurrence
+	28. recur
 		1. [repeat](dic://repeat)
 		2. [go back](dic://go back)
 		3. [fall back](dic://fall back), [resort](dic://resort)
@@ -5087,7 +5211,7 @@
 		20. Cartwright believes one can exercise conscious control over recurring bad dreams /Cartwright 认为人们可以练习有意识地控制噩梦的重演。
 		21. High employee turnover has been a recurring problem throughout the hospitality industry /员工流失率高一直是整个服务业反复出现的问题。
 		22. The opposite of that is passive income, or recurring income /反之则是被动收入，或是经常性收入。
-		23. recursive
+		23. recursive (recurve)
 			2. _adj._ [algorithmic](dic://algorithmic)
 			3. _n._ [heuristic](dic://heuristic)
 			4. **iterative**重复的,反复的,迭代的;**nested**嵌套的，内装的;**parser**语法剖析程式;**polynomial**多项式;**algorithm**算法;**parsing**剖析;**deterministic**确定的;**quadratic**二次的;**computation**计算;**syntax**语法;**integer**整
@@ -5111,7 +5235,7 @@
 			5. _recurrence interval_ 重现期，重复周期；脉冲周期
 			6. _recurrence relation_ [计]递归关系，递推关系
 		27. nonrecurring
-	22. carousel, carrousel
+	29. carousel, carrousel
 		1. carouse [kə'raʊz] vi.畅饮，n.喧闹的酒宴和carousel [,kærə'sel] n.旋转木马；cruse [kruːz] n. 瓶；罐和crusade [kruː'seɪd] n.十字军东征；aspersion [ə'spɜːʃ(ə)n] n.诽谤；洒水和asperity [ə'sperɪtɪ] n.粗糙；严酷。三组单词拼写相近，但词源无关。那是夏雨和张一山的区别好吧。
 		2. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
 		3. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
@@ -5125,7 +5249,7 @@
 		11. Well, think of a big, spinning planet a bit like a carousel /嗯，想象一个大大的旋转的星球，有点像旋转木马一样。
 		12. Imagine hopping on a fast-spinning carousel while holding a rope attached to a rock. /想象你跳上一座快速运转的旋转木马，手上抓着一条末端绑着石头的绳子。
 		13. So, where is it? I don't know, perhaps somebody took it off the carousel by mistake? /那它在哪里？我不知道，可能有人不小心从行李转盘上拿走了？
-	23. coarse (hoarse)
+	30. coarse (hoarse)
 		1. coarse=course → 跑过去 → 粗糙的。
 		2. 来自 course 的拼写变体。原指常规的，普通的，后来词义贬义化。
 		3. adj. 粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的
@@ -5161,20 +5285,30 @@
 		28. coarsen
 		29. coarsely
 		30. coarse-grained
-	24. corridor
+	31. corridor
 		1. n. 走廊, 回廊, 人口密集地带
 		2. _n._ [passageway](dic://passageway)
 		3. **hallway**门厅;**passageway**通道;**walkway**通道，走道;**stairwell**楼梯井;**hallways**走廊;**highway**公路，大路;**doorway**门口;**tunnel**隧道;**freeway**高速公路;**stairway**阶梯，楼梯;**rail**横杆;
 		4. a corridor with a moulded cornice. /有模制装饰檐口的走廊。
 		5. a gloomy corridor badly lit by oil lamps /用油灯照明的阴森森的走廊。
-	25. corsair
+	32. corsair
 		1. n. 海盗, 海盗船, 回教徒的私掠船
 		2. _n._ [pirate](dic://pirate), [buccaneer](dic://buccaneer), [sea robber](dic://sea robber), [sea rover](dic://sea rover), [pirate ship](dic://pirate ship)
 		3. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
-	26. cursorial
+	33. cursorial
 		1. 适于行走的
 		2. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 5. horse
+	1. n. 马, 骑兵, 脚架  
+	2. vi. 骑马, 取笑  
+	3. vt. 使骑马, 系马于
+	4.   - 来自古英语 hors,马，来自 Proto-Germanic*hursa,跑动，来自 PIE*kurs,跑，词源同 car,current.引申词义马。比较 equine
+	5. 1.from the horse's mouth(消息等)直接得来的，来源可靠的。有经验的人通过查看马的牙齿的数量、表面和磨损情况，就可以基本断定马的年龄（参考习语long in the tooth 指马年迈的），因为人能造假，马自己是不能造假的。They are going to be married, I got the news straightfrom the horse's mouth. ​​​​  
+	6. 2.get off your high horse放下架子。高头大马，高高在上，俯视众生，高意味着权利，意味着傲慢，意味着自大，这在表达比如highcommissioner高级专员等中都可以找到。get off your high horse就是在要求这些目空一切的家伙放下自己的狂妄自大。So now get off yourhigh horse and admit your mistake! ​​​​  
+	7. 3.stalking horse掩护；借口。中世纪英格兰，猎人打猎时会使用一匹受过专门训练的马，让马看似人畜无害般接近猎物，而自己藏在马身后，进入射程，biubiu，猎物被打倒。The project is a stalking horse for exploitation of the iron mine. ​​​​
+	8. horsing around
+		1. I've seen this punk horsing around earlier. /我之前就看到这个小混混到处捣乱。
+		2. But he or she wasn't prancing or horsing around. /但他或她并没有腾跃或胡闹。
 
 
 ### + \*kerd- +
