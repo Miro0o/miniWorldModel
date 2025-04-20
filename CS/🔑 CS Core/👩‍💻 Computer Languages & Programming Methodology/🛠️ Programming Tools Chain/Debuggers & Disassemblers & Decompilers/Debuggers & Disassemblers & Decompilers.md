@@ -26,9 +26,9 @@
 - ↗ [lldb](../Compilation%20&%20Program%20Loading%20Tools/🦅%20LLVM/lldb/lldb.md)
 - etc.
 
-↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🩻%20SRE%20&%20Binary/👱🏻‍♀️%20IDA%20Pro/IDA%20Pro.md)
-- ↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🩻%20SRE%20&%20Binary/👱🏻‍♀️%20IDA%20Pro/Hex-Rays%20Decompiler.md)
-↗ [JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🩻%20SRE%20&%20Binary/JEB%20Pro/JEB%20Pro.md)
+↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary/👱🏻‍♀️%20IDA%20Pro/IDA%20Pro.md)
+- ↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary/👱🏻‍♀️%20IDA%20Pro/Hex-Rays%20Decompiler.md)
+↗ [JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary/JEB%20Pro/JEB%20Pro.md)
 
 ↗ [Code Sanitizer](../Code%20Sanitizer.md)
 

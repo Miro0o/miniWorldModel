@@ -71,6 +71,17 @@ http://uuzdaisuki.com/categories/
 一些 网安 & CTF 合集
 
 
+### Research Papers
+#### Surveys 
+Y. Shoshitaishvili et al., "SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis," 2016 IEEE Symposium on Security and Privacy (SP), San Jose, CA, USA, 2016, pp. 138-157, doi: 10.1109/SP.2016.17. https://ieeexplore.ieee.org/document/7546500?denied=
+
+In short, we make the following contributions:
+1. We reproduce many existing approaches in offensive binary analysis, in a single, coherent framework, to provide an understanding of the relative effectiveness of current offensive binary analysis techniques.
+2. We show the difficulties (and solutions to those difficulties) of combining diverse binary analysis techniques and applying them on a large scale.
+3. We open source our framework, `angr`, for the use of future generations of research into the analysis of binary code.
+#### Trendings
+
+
 ### Others
 🚧 https://github.com/0th3rs-Security-Team/Binary-Security-Advanced-References
 本仓库内容旨在收集二进制安全相关的精品阅读材料，供学习者深入参考学习所用
@@ -95,6 +106,12 @@ In computer science, program analysis is the process of analyzing the behavior o
 Program analysis can be performed without executing the program (static program analysis), during runtime (dynamic program analysis) or in a combination of both.
 
 ![](../../../../../Assets/Pics/Screenshot%202025-04-14%20at%2020.08.51.png)
+
+
+### Binary Analysis and Its Automation
+
+
+### Other Vulnerability Discovery Techniques 
 
 
 

@@ -12,11 +12,11 @@
 ## Intro
 ### Software Analysis Types
 **Static Code Analysis**
-↗ [SCA (Static Code Analysis) & SAST](📌%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 
 
 **Dynamic Code Analysis**
-↗ [DCA (Dynamic Code Analysis) & DAST](📌%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
+↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 
 
 **Interactive Application Security Testing (IAST)**

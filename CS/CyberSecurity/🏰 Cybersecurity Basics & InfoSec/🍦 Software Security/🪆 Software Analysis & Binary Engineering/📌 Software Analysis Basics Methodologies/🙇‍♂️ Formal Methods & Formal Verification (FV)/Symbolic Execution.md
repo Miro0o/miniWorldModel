@@ -8,13 +8,13 @@
 ### Related Topics
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
 
-↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Logic%20Verifies%20&%20Provers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
-↗ [angr](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution/angr.md)
+↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution%20&%20Constrain%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+↗ [angr](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary/angr.md)
 
 
 ### Other Resources
 https://docs.angr.io/en/latest/core-concepts/index.html
-↗ [angr](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution/angr.md) documentation. explains core concepts in symbolic execution.
+↗ [angr](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary/angr.md) documentation. explains core concepts in symbolic execution.
 - [Core Concepts](https://docs.angr.io/en/latest/core-concepts/toplevel.html)
 - [Loading a Binary](https://docs.angr.io/en/latest/core-concepts/loading.html)
 - [Symbolic Expressions and Constraint Solving](https://docs.angr.io/en/latest/core-concepts/solver.html#)
@@ -58,7 +58,7 @@ In software verification, it helps ensure that the code behaves as expected acro
 
 
 ### Symbolic Expressions and Constraint Solving
- The power of symbolic execution didn't come with the emulation, but with the ability to execute what is known as the **symbolic variables**. Instead of saying that a (symbolic) variable has a _concrete_ numerical value, we can say that it holds a _symbol_, effectively just a name. Then, performing arithmetic operations with that symbol/variable will yield a tree of operations (termed an _abstract syntax tree_ or _↗ [AST (Abstract Syntax Tree)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/AST%20(Abstract%20Syntax%20Tree).md)_, from compiler theory). ASTs can be translated into **constraints** for _↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Logic%20Verifies%20&%20Provers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)_, like z3, in order to ask questions like “given the output of this sequence of operations, what must the input have been?”. This latter process is known for **↗ [Constraint Solving](Constraint%20Solving.md)**.
+ The power of symbolic execution didn't come with the emulation, but with the ability to execute what is known as the **symbolic variables**. Instead of saying that a (symbolic) variable has a _concrete_ numerical value, we can say that it holds a _symbol_, effectively just a name. Then, performing arithmetic operations with that symbol/variable will yield a tree of operations (termed an _abstract syntax tree_ or _↗ [AST (Abstract Syntax Tree)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/AST%20(Abstract%20Syntax%20Tree).md)_, from compiler theory). ASTs can be translated into **constraints** for _↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution%20&%20Constrain%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)_, like z3, in order to ask questions like “given the output of this sequence of operations, what must the input have been?”. This latter process is known for **↗ [Constraint Solving](Constraint%20Solving.md)**.
 
 
 

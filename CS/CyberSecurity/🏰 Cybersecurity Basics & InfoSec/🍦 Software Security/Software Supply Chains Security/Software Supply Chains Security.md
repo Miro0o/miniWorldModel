@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [LLM & Supply Chain Security](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
-↗ [Malicious Code Detection & Vulnerability Discovery](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
+↗ [Vulnerability Disclosure & Discovery (Malicious Code Detection)](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection).md)
 ↗ [Malicious Code & Behavior Discovery](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malicious%20Code%20&%20Behavior%20Discovery.md)
 ↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Scanners](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
@@ -102,7 +102,7 @@
 #### Code Analysis & Software Testing
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Malicious Code Detection & Vulnerability Discovery](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
+↗ [Vulnerability Disclosure & Discovery (Malicious Code Detection)](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection).md)
 
 > **静态应用程序安全测试(SAST)**、**动态应用程序安全测试(DAST)**、**交互式应用程序安全测试 (IAST)** 和**运行时应用程序扫描保护(RASP)工具**，以及明智地使用渗透测试，可以帮助企业测试他们自己的内部代码，并提供对第三方代码的进一步检查，以作为应对风险的后盾。
 > 
