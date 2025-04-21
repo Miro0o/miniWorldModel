@@ -127,12 +127,11 @@ CS Core
 
 CS Sub-fields
 - ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
-- ↗ [Data Science](Data%20Science/Data%20Science.md)
+- ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 - ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-- ↗ [Human-Centered Computing](Human-Centered%20Computing/Human-Centered%20Computing.md)
 - ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
-- ↗ [Web 3.0 & Cryptocurrency](Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
+- ↗ [Web 3.0 & De-Fi](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/Web%203.0%20&%20De-Fi.md)
 - etc.
 
 CS Inter-disciplines
@@ -500,7 +499,7 @@ Software Engineering
 	3. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 	4. etc.
 19. Data Scientist /AI
-	1. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
+	1. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
@@ -509,10 +508,10 @@ Software Engineering
 	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	3. etc.
 21. Web3 /Metaverse /Cryptocurrency
-	1. ↗ [Web 3.0](../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
+	1. ↗ [Web 3.0](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/Web%203.0/Web%203.0.md)
 	2. etc.
 22. Human-Computer Interaction
-	1. ↗ [Human-Computer Interaction](../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
+	1. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 23. Computer Security
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)

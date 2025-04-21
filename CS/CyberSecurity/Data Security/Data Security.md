@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Data Science](../../Data%20Science/Data%20Science.md)
+↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 
 ↗ [Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 ↗ [Data Management Issues](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Data%20Management%20Issues.md)

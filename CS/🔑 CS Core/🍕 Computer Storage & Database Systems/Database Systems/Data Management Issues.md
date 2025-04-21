@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
-↗ [Data Science](../../../Data%20Science/Data%20Science.md)
+↗ [Data-Oriented & Human-Centered Technologies](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 
 
 

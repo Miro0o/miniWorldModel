@@ -21,8 +21,8 @@
 ↗ [System Software Engineering](../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 ↗ [Operating System Components & Runtime Libraries](../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 
-↗ [Human-Centered Computing](../../../Human-Centered%20Computing/Human-Centered%20Computing.md)
-↗ [Human-Computer Interaction](../../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
+↗ [Data-Oriented & Human-Centered Technologies](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+↗ [Human-Computer Interaction](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 
 
 

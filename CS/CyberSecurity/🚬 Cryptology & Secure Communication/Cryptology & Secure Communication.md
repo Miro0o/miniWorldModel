@@ -12,8 +12,8 @@
 ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
 
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
-↗ [BlockChain](../../Web%203.0%20&%20Cryptocurrency/BlockChain/BlockChain.md)
+↗ [Web 3.0 & De-Fi](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/Web%203.0%20&%20De-Fi.md)
+↗ [BlockChain](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/BlockChain/BlockChain.md)
 
 ↗ [Anonymous & Private Networks](../Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 ↗ [Tunneling Protocols & Technologies](../Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)

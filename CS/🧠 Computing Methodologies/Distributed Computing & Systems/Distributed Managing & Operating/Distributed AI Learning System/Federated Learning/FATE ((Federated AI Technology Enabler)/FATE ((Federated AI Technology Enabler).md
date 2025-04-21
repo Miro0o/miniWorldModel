@@ -53,7 +53,7 @@ Developer Resources
 
 ### Deployment
 ↗ [eggroll](eggroll.md)
-↗ [Apache Spark](../../../../../../../Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Apache%20Spark/Apache%20Spark.md)
+↗ [Apache Spark](../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Apache%20Spark/Apache%20Spark.md)
 
 
 
