@@ -18,7 +18,7 @@
 ↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
 
 ↗ [Web Security](../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
-↗ [Web 3.0](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/Web%203.0/Web%203.0.md)
+↗ [Web 3.0](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/Web%203.0.md)
 
 ↗ [Web Browser Implementations](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
 ↗ [Web Browser Development](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [C-like Runtimes](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
+↗ [C-like Runtimes](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 
 
 ### Learning Resources

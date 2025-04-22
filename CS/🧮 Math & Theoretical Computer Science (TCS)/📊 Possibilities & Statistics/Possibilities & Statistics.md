@@ -5,6 +5,13 @@
 
 
 ## Res
+### Related Topics
+↗ [Statistical Learning Theory](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+- ↗ [Data Mining](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
+
+
+### Learning Resources
 🏫 [UBC CS70 : discrete Math and probability theory](../🏠 Assets/UC Berkeley/CS70 : Discrete Math and Probability Theory/Intro.md) 
 
 🏫 [UBC CS126 : Probability Theory](../🏠 Assets/UC Berkeley/CS126 : Probability Theory/Intro.md) 

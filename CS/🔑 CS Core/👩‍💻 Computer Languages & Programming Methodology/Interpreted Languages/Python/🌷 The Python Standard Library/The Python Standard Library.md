@@ -9,8 +9,8 @@
 
 
 ### Related Topics
-↗ [Python Runtime Environments](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Runtime%20Environments.md)
-↗ [Python Third-party Libs](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Python%20Third-party%20Libs.md)
+↗ [Python Runtime Environments](../../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Runtime%20Environments.md)
+↗ [Python Third-party Libs](../../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Python%20Third-party%20Libs.md)
 
 
 

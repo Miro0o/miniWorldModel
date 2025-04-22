@@ -14,7 +14,7 @@
 ↗ [Cyberspace Assets Mapping & Management](../../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 ↗ [Data-Oriented & Human-Centered Technologies](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
-- ↗ [Large Data Analysis Platforms](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Large%20Data%20Analysis%20Platforms.md)
+- ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
 ↗ [DBMS (DataBase Management System) Implementations](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
 - ↗ [Database Engines & Search Engines](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Engines%20&%20Search%20Engines.md)

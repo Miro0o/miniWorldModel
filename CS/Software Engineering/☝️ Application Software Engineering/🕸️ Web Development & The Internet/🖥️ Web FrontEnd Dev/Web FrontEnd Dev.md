@@ -10,8 +10,8 @@
 ↗ [CSS & HTML UI Design & Frameworks](💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
 ↗ [Desktop-Dev via Web-Dev Stacks](../../Desktop%20&%20Monolithic%20Application%20Development/Desktop-Dev%20via%20Web-Dev%20Stacks/Desktop-Dev%20via%20Web-Dev%20Stacks.md)
 
-↗ [JavaScript (Browser End)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
-↗ [JS FrontEnd Frameworks](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
+↗ [JavaScript (Browser End)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
+↗ [JS FrontEnd Frameworks](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
 
 
 ### Web Front-end Templates

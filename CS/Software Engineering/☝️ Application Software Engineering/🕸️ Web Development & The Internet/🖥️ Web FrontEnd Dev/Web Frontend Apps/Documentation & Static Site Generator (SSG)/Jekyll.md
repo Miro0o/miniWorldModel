@@ -11,8 +11,8 @@
 
 ### Related Topics
 ↗ [Ruby](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Ruby/Ruby.md)
-- ↗ [RubyGems](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/RubyGems.md)
-- ↗ [Bundler](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/Bundler.md)
+- ↗ [RubyGems](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/RubyGems.md)
+- ↗ [Bundler](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/Bundler.md)
 
 ↗ [Github Pages](../../../../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Large Data Analysis Platforms](../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Large%20Data%20Analysis%20Platforms.md)
+↗ [Data Analysis & Automation](../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 ↗ [Observability & Analysis](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Observability%20&%20Analysis.md)
 
 

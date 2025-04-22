@@ -102,7 +102,7 @@ As you may have noticed, the AT&T syntax mnemonics have a suffix. The significan
 | Intel Syntax<br><br>mov     al,bl<br><br>mov     ax,bx<br><br>mov     eax,ebx<br><br>mov     eax, dword ptr [ebx] | AT&T Syntax<br><br>movb    %bl,%al<br><br>movw    %bx,%ax<br><br>movl    %ebx,%eax<br><br>movl    (%ebx),%eax |
 #### Assemblers & Syntax Flavor Implementation
  > 🔗 https://en.wikipedia.org/wiki/X86_assembly_language#Syntax
- > ↗ [Assemblers](../../🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
+ > ↗ [Assemblers](../../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
 
 Many x86 assemblers use Intel syntax, including FASM, MASM, NASM, TASM, and YASM. GAS, which originally used AT&T syntax, has supported both syntaxes since version 2.10 via the `.intel_syntax` directive. A quirk in the AT&T syntax for x86 is that x87 operands are reversed, an inherited bug from the original AT&T assembler.
 - The AT&T syntax is nearly universal to all other architectures (retaining the same mov order); it was originally a syntax for `PDP-11` assembly. 

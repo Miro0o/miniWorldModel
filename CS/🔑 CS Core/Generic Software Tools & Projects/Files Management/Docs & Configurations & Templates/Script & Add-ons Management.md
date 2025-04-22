@@ -42,7 +42,7 @@
 
 
 ## App-Specific Script /Package Managers
-↗ [Project Builder & Manager](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/Project%20Builder%20&%20Manager.md)
+↗ [Project Builder & Manager](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/Project%20Builder%20&%20Manager.md)
 
 
 

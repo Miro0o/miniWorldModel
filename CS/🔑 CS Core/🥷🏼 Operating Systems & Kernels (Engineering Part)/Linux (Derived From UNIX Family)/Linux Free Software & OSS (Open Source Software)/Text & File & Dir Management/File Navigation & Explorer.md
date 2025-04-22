@@ -27,7 +27,7 @@
 
 ## File Explorer & Manager
 ### 👉 Vim - `Netrw`
-↗ [👍 Vim](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
+↗ [👍 Vim](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 
 

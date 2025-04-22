@@ -13,7 +13,7 @@
 - Join a 🧑‍🤝‍🧑 [local Kafka meetup group](https://kafka.apache.org/events) and 🗣️ [watch talks from Kafka Summit](https://kafka-summit.org/past-events/), the main conference of the Kafka community.
 
 ### Related Topics
-↗ [Kafka Stream](../../../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Stream%20Caculating/Kafka%20Stream/Kafka%20Stream.md)
+↗ [Kafka Stream](../../../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/🧯%20Large%20Data%20Analysis%20Platforms/Stream%20Caculating/Kafka%20Stream/Kafka%20Stream.md)
 
 
 ### [Kafka APIs](https://kafka.apache.org/intro#intro_apis)

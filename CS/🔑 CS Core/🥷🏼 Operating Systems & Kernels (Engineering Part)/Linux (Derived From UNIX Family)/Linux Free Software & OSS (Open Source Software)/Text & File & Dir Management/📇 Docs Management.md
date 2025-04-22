@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Files Management](../../../../Generic%20Software%20Tools%20&%20Projects/Files%20Management/Files%20Management.md)
-↗ [Knowledge Management](../../../../Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management/Knowledge%20Management.md)
+↗ [Knowledge Management & Computational Notebook](../../../../Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 
 ↗ [Commands CheatCheet & Online Search](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Commands%20CheatCheet%20&%20Online%20Search.md)
 ↗ [Dash](../../../../Generic%20Software%20Tools%20&%20Projects/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Dash.md)

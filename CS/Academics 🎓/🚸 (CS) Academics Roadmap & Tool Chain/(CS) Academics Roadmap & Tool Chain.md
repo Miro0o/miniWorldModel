@@ -162,6 +162,32 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 #### Research Paper
 
 
+### Academic Diagrams & Illustrations & Data Presentation
+↗ [Human-Data Interactivity](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Data%20Interactivity/Human-Data%20Interactivity.md)
+↗ [Graph & Diagram & Charts & Slides](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
+↗ [Color & Layout Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
+
+↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
+↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python.md)
+- ↗ [Matplotlib](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Graphics%20&%20Visualization/Matplotlib.md)
+
+
+[十二大必备科研绘图+数据处理宝藏软件，看这一篇就够了！ - 中科幻彩的文章 - 知乎]: https://zhuanlan.zhihu.com/p/385778332
+1. 统计绘图软件：GraphPad Prism
+2. 动态图绘制：Sigmaplot
+3. 函数绘图软件：Origin
+4. 仿真图绘制：Matlab
+	1. Mathematica、Maple
+5. 流程图绘制：Lucidchart
+6. 平面图绘制Adobe Illustrator
+7. 论文图像绘制：Gnuplot
+8. 论文图像绘制：Prism
+9. 公共图片处理软件：Image J
+10. 美化排版软件：Latex
+11. 美化流程图：Visio
+12. 可视化分析的集成软件：Igor Pro
+
+
 ### Reference
 > ↗ [Bib-Management](Bib-Management/Bib-Management.md)
 
@@ -205,18 +231,13 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 - [Teaching the Annotated Bibliography : A Resource for Instructors, Librarians, and Other Academic Professionals](https://www.proquest.com/docview/2714963488/F2CB9809A96743E4PQ/1/thumbnail?accountid=14426)（电子版）
 - [正确引用 : 引用格式快速指南 MLA、APA、芝加哥、科技、学术及其他](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21305026620003966&search_scope=default_scope&search=%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&title=%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&version=&frbrgroupid=553413588&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E6%AD%A3%E7%A1%AE%E5%BC%95%E7%94%A8%20%3A%20%E5%BC%95%E7%94%A8%E6%A0%BC%E5%BC%8F%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97%20MLA%E3%80%81APA%E3%80%81%E8%8A%9D%E5%8A%A0%E5%93%A5%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E5%AD%A6%E6%9C%AF%E5%8F%8A%E5%85%B6%E4%BB%96&isFrbr=true)（纸本）
 - [学术引注规范指南](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN21301489450003966&search_scope=default_scope&search=%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97&title=%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97%20%3D%20%3D%20The%20complete%20guide%20to%20referencing%20and%20avoiding%20plagiarism&version=&frbrgroupid=554073691&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E5%AD%A6%E6%9C%AF%E5%BC%95%E6%B3%A8%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97&isFrbr=true)（纸本）
-#### Reference Tools
+#### Reference Automation & Management
 ↗ [Bib-Management](Bib-Management/Bib-Management.md)
 
 [65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆]: http://xhslink.com/a/ZhR1ztRqSgQ9
 [【研究工具】倔强——只用Word完成文献引用 | 简书]: https://www.jianshu.com/p/5dc86dfa70f2
 [论文中引用网页内容在文中怎么标注？ - 易轻轻q的回答 - 知乎]: https://www.zhihu.com/question/457765989/answer/1869692237
 [本科毕业论文引用、编写英文参考文献格式的方法| CSDN]: https://blog.csdn.net/qq_45128278/article/details/117341629?fromshare=blogdetail&sharetype=blogdetail&sharerId=117341629&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
-
-
-### Academic Diagrams & Illustration Design
-↗ [Graph & Diagram & Charts & Slides](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
-↗ [Color & Layout Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 
 
 ### Editorial Services

@@ -479,7 +479,7 @@ These questions, from general to specific, speaks the path of what i think every
 	4. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 	5. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	6. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
-		1. ↗ [Web 3.0 & De-Fi](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20De-Fi/Web%203.0%20&%20De-Fi.md)
+		1. ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
 		2. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 		3. etc.
 6. What is information system? What is cyberspace? What is cybersecurity?

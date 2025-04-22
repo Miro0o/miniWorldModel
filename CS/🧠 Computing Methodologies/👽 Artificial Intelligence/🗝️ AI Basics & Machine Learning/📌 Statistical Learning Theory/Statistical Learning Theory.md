@@ -5,11 +5,22 @@
 
 
 ## Res
+### Related Topics
+↗ [Possibilities & Statistics](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
+
+
 ### Learning Resources
 【【合集】十分钟 机器学习 系列视频 《统计学习方法》】 https://www.bilibili.com/video/BV1No4y1o7ac/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 课程讲义将陆续在公众号“简博士数据分析吧”更新，欢迎订阅
 
 📖 Information Theory, Inference, and Learning Algorithms. David J.C. MacKay
+
+📖 统计学习方法, 李航
+
+([James et al. 2013](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/stat-learn-intro.html#ref-James-StatLearn-R13)): Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani(2013) An Introduction to Statistical Learning: with Applications in R, Springer.
+
+Max Kuhn and Julia Silge(2023), Tidy Modeling with R, [https://www.tmwr.org/](https://www.tmwr.org/)
 
 
 

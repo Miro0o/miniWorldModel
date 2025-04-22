@@ -16,7 +16,7 @@
 ↗ [WSL (Windows Subsystems for Linux)](../WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
 ↗ [MSYS & MSYS2](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
-↗ [MinGW & MinGW-w64](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
+↗ [MinGW & MinGW-w64](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 
 
 ### Learning Resources
@@ -77,7 +77,7 @@ Cygwin可资利用的是已经移植的大量GNU、UNIX、Linux软件和兼容PO
 #### Projects Run Alike Cygwin
 POSIX subsystem、SFU、↗ [WSL (Windows Subsystems for Linux)](../WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
-↗ [MinGW & MinGW-w64](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
+↗ [MinGW & MinGW-w64](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 
 ↗ [MSYS & MSYS2](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 

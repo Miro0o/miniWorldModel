@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Markdown (RMarkdown)](../Markup%20Languages/Markdown%20(RMarkdown).md)
+↗ [Markdown](../Markup%20Languages/Markdown.md)
 ↗ [Sweave](Sweave.md)
 
 

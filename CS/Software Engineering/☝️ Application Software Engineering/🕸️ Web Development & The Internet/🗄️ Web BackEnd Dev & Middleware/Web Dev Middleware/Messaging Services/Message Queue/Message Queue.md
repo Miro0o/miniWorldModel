@@ -9,7 +9,7 @@
 ↗ [OS /Concurrency /Message Passing /Message Queue](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/⭐️%20System%20Level%20Concurrency%20Control%20Mechanism/Concurrency%20Control%20Programming%20Models/Message%20Passing/Message%20Queue/Message%20Queue.md)
 ↗ [OS /IPC /Message Queue](../../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Message%20Passing/Message%20Queue/Message%20Queue.md)
 
-↗ [Large Data Analysis Platforms](../../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/🧯%20Large%20Data%20Analysis%20Platforms/Large%20Data%20Analysis%20Platforms.md)
+↗ [Data Analysis & Automation](../../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
 ↗ [ELK (Elasticsearch, Logstash, Kibana)](../../../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Logging/ELK%20(Elasticsearch,%20Logstash,%20Kibana)/ELK%20(Elasticsearch,%20Logstash,%20Kibana).md)
 

@@ -22,7 +22,7 @@ The source code of Docs.rs is available on [GitHub](https://github.com/rust-lan
 
 
 ### Related Topics
-↗ [Rust Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Rust%20Runtimes%20Environments/Rust%20Runtime%20Environments.md)
+↗ [Rust Runtime Environments](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Rust%20Runtimes%20Environments/Rust%20Runtime%20Environments.md)
 
 
 ### Learning Resources

@@ -12,7 +12,7 @@
 
 
 ### Related Topics
-↗ [Ruby Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Ruby%20Runtime%20Environments/Ruby%20Runtime%20Environments.md)
+↗ [Ruby Runtime Environments](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Ruby%20Runtime%20Environments/Ruby%20Runtime%20Environments.md)
 
 
 
