@@ -62,5 +62,16 @@ Analyses can be written to be resilient, and catch and log basically any error. 
 
 
 
+## `angr` Analysis Engine Design
+> Y. Shoshitaishvili et al., "SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis," 2016 IEEE Symposium on Security and Privacy (SP), San Jose, CA, USA, 2016, pp. 138-157, doi: 10.1109/SP.2016.17. https://ieeexplore.ieee.org/document/7546500?denied=
+
+ Submodule: Intermediate Representation
+ Submodule: Binary Loading
+ Submodule: Program State Representation/modification
+ Submodule: Data Model
+ Submodule: Full-Program Analysis
+
+
+
 ## Ref
 [angr_ctf——从0学习angr（一）：angr简介与核心概念 | cnblog]: https://www.cnblogs.com/level5uiharu/p/16925991.html

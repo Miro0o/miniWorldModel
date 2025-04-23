@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Quantum Cipher](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cipher/Quantum%20Cipher.md)
+↗ [Quantum Cipher](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cipher/Quantum%20Cipher.md)
 
 
 ### Other Resources

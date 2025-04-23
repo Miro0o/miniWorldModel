@@ -1,4 +1,4 @@
-# Project Jupyter
+# Project Jupyter (Julia, Python, R)
 
 [TOC]
 
@@ -10,6 +10,10 @@
 
 
 ### Related Topics
+↗ [Knowledge Management & Computational Notebook](../../../../../Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
+
+↗ [Julia](../../../../Compiled%20Languages/Julia/Julia.md)
+↗ [R Language](../../../R%20Language/R%20Language.md)
 
 
 ### Other Resources

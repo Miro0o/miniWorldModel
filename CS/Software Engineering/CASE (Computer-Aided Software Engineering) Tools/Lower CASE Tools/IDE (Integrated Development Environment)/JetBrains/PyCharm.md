@@ -1,1 +1,20 @@
->  📖 Python official Docs: https://docs.python.org/3/ 
+# PyCharm
+
+[TOC]
+
+
+
+## Res
+🏠 
+🚧 
+
+
+### Related Topics
+
+
+
+## Intro
+
+
+
+## Ref

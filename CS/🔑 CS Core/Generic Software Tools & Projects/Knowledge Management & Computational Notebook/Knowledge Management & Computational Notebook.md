@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Markdown](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages/Markdown.md)
-↗ [Project Jupyter](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter.md)
+↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
 
 ↗ [Knowledge Graph](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
 ↗ [📇 Docs Management](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
@@ -84,7 +84,7 @@ A notebook is both a final product for presentation, and a large blank canvas fo
 
 All content in notebooks is made in cells. Within cells, you can author formatted text (in Markdown) and code (JavaScript, SQL, HTML) to view right alongside customized data tables and visualizations. Then, quickly share your work with teammates and stakeholders to get everyone literally on the same page.
 #### Jupyter Notebook
-↗ [Project Jupyter](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter.md)
+↗ [Project Jupyter (Julia, Python, R)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
 
 
 

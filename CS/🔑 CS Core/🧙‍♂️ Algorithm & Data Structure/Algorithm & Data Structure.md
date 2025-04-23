@@ -12,7 +12,7 @@
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 ↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
 
-↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
+↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [AI Basics & Machine Learning](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
 

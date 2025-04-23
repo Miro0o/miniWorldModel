@@ -1,1 +1,0 @@
-https://www.ibm.com/products/spss-statistics-gradpack

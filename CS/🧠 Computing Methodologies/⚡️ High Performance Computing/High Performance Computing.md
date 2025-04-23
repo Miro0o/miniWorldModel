@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [High Performance Computer (HPC)](High%20Performance%20Computer%20(HPC).md)
 ↗ [IDC & Data Center Networking](../../../../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)

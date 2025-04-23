@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Database System Security](../../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
 ↗ [Distributed Computing & Systems](../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-↗ [Parallel Computing](../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing/Parallel%20Computing.md)
 
 For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md) and find more !!
 

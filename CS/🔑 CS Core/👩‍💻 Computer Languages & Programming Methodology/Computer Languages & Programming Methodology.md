@@ -13,9 +13,9 @@
 ↗ [Program, Computer, and Automation](../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
-- ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/Concurrent%20Computing/Concurrent%20Computing.md)
+- ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 - ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-- ↗ [Parallel Computing](../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
+- ↗ [Parallel Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing/Parallel%20Computing.md)
 - ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 - etc.
 
@@ -57,7 +57,7 @@ https://github.com/jobbole
 
 
 ## Intro
-### Formal Languages 🆚 Natural Languages
+### 0️⃣ Formal Languages 🆚 Natural Languages
 > 🔗 https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html
 
 **Natural languages** are the languages that people speak, such as English, Spanish, and French. They were not designed by people (although people try to impose some order on them); they evolved naturally.
@@ -97,7 +97,7 @@ Semiosis is any activity, conduct, or process that involves signs. Signs often a
 Unlike linguistics, semiotics also studies non-linguistic sign systems. Semiotics includes the study of indication, designation, likeness, analogy, allegory, metonymy, metaphor, symbolism, signification, and communication.
 
 
-### Computer Languages
+###  1️⃣ Computer Languages
 > 🔗 https://en.wikipedia.org/wiki/Computer_language
 
 A **computer language** is a [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") used to communicate with a [computer](https://en.wikipedia.org/wiki/Computer "Computer"). Types of computer languages include:
@@ -125,12 +125,15 @@ A **computer language** is a [formal language](https://en.wikipedia.org/wiki/
 	- [Rights Expression Languages](https://en.wikipedia.org/wiki/Rights_Expression_Language "Rights Expression Language"), machine processable language used for representing immaterial rights such as copyright and license information
 
 
-### Programming Language
+### 2️⃣ Programming Language
 > 🔗 https://en.wikipedia.org/wiki/Programming_language
 
 A programming language is a system of notation for writing computer programs. Programming languages are described in terms of their **syntax (form)** and **semantics (meaning)**, usually defined by a formal language. Languages usually provide features such as a **type system**, **variables**, and **mechanisms for error handling**. An implementation of a programming language is required in order to execute programs, namely an interpreter or a compiler. An interpreter directly executes the source code, while a compiler produces an executable program.
 
 Computer architecture has strongly influenced the design of programming languages, with the most common type (imperative languages—which implement operations in a specified order) developed to perform well on the popular von Neumann architecture. While early programming languages were closely tied to the hardware, over time they have developed more abstraction to hide implementation details for greater simplicity.
+
+![](../../../Assets/Pics/Screenshot%202025-04-23%20at%2012.18.18.png)
+<small><a>https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5</a></small>
 #### History & Generations of (High-Level) Programming Languages
 > ↗ https://en.wikipedia.org/wiki/Hyponymy_and_hypernymy 
 
@@ -266,6 +269,11 @@ There are supposedly generations of languages. According to [Wikipedia](https:/
 There is also a supposed hierarchy of language power, expressed by Paul Graham as the "[Blub Paradox](https://en.wikipedia.org/wiki/Paul_Graham_\(programmer\)#The_Blub_paradox)" in his essay [Beating the Averages](http://www.paulgraham.com/avg.html). In this controversial approach, languages such as Basic and Cobol are low in the hierarchy, Python and Perl would be in the middle, and Lisp would be at the top.
 
 ![](../../../Assets/Pics/Screenshot%202023-06-24%20at%208.14.09%20PM.png)
+#### List of Programming Languages
+> 🔗 https://en.wikipedia.org/wiki/List_of_programming_languages
+
+This is an index to notable programming languages, in current or historical use. Dialects of BASIC (which have their own page), esoteric programming languages, and markup languages are not included. A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markup languages such as HTML or XML, but does include domain-specific languages such as SQL and its dialects.
+
 #### Programming Language Theory
 > ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 > 🔗 https://en.wikipedia.org/wiki/Programming_language_theory

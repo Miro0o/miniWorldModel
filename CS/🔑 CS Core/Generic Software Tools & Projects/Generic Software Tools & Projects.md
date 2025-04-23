@@ -22,7 +22,7 @@
 
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
-↗ [Tools for Math](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Tools%20for%20Math.md)
+↗ [Mathematical Tools & Scientific Computing](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
