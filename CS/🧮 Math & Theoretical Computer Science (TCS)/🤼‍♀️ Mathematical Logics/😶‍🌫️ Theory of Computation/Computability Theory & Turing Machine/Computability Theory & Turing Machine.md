@@ -36,3 +36,6 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 [Arithmetical hierarchy | wikipedia]: https://en.wikipedia.org/wiki/Arithmetical_hierarchy
 [复杂度类列表 | wikipedia]: https://zh.wikipedia.org/zh-hans/複雜度類列表
 [Understanding the Arithmetical Hierarchy | StackExchange]: https://math.stackexchange.com/q/4887971/1230830
+
+[👍 如何通俗地解释停机问题（Halting Problem）？ - 张皓的回答 - 知乎]: https://www.zhihu.com/question/20081359/answer/162329455
+[Halting problem | Wikipedia]: https://en.wikipedia.org/wiki/Halting_problem

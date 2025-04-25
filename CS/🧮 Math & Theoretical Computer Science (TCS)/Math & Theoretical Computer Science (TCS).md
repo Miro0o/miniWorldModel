@@ -109,5 +109,35 @@ It is difficult to circumscribe the theoretical areas precisely. The [ACM](http
 
 
 
+## Hilbert's Problems
+> 🔗 https://en.wikipedia.org/wiki/Hilbert%27s_problems
+
+The following are the headers for Hilbert's 23 problems as they appeared in the 1902 translation in the [Bulletin of the American Mathematical Society](https://en.wikipedia.org/wiki/Bulletin_of_the_American_Mathematical_Society "Bulletin of the American Mathematical Society").
+1. [Cantor's problem](https://en.wikipedia.org/wiki/Continuum_hypothesis "Continuum hypothesis") of the cardinal number of the continuum.
+2. The compatibility of the arithmetical axioms.
+3. The equality of the volumes of two tetrahedra of equal bases and equal altitudes.
+4. Problem of the straight line as the shortest distance between two points.
+5. Lie's concept of a continuous group of transformations without the assumption of the differentiability of the functions defining the group.
+6. Mathematical treatment of the axioms of physics.
+7. Irrationality and transcendence of certain numbers.
+8. Problems of prime numbers (The "[Riemann Hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis "Riemann hypothesis")").
+9. Proof of the most general law of reciprocity in any number field.
+10. Determination of the solvability of a [Diophantine equation](https://en.wikipedia.org/wiki/Diophantine_equation "Diophantine equation").
+11. [Quadratic forms](https://en.wikipedia.org/wiki/Quadratic_form "Quadratic form") with any algebraic numerical coefficients
+11. Extensions of [Kronecker's theorem](https://en.wikipedia.org/wiki/Kronecker%27s_theorem "Kronecker's theorem") on Abelian fields to any algebraic realm of rationality
+12. Impossibility of the solution of the general equation of 7th degree by means of functions of only two arguments.
+13. Proof of the finiteness of certain complete systems of functions.
+14. Rigorous foundation of [Schubert's enumerative calculus](https://en.wikipedia.org/wiki/Schubert_calculus "Schubert calculus").
+15. Problem of the topology of algebraic curves and surfaces.
+16. Expression of definite forms by squares.
+17. Building up of space from congruent polyhedra.
+18. Are the solutions of regular problems in the calculus of variations always necessarily analytic?
+19. The general problem of boundary values (Boundary value problems in PD)
+20. Proof of the existence of linear differential equations having a prescribed [monodromy](https://en.wikipedia.org/wiki/Monodromy "Monodromy") group.
+21. Uniformization of analytic relations by means of [automorphic functions](https://en.wikipedia.org/wiki/Automorphic_function "Automorphic function").
+22. Further development of the methods of the calculus of variations.
+
+
+
 ## Ref
 [ACM Special Interest Group on Algorithms and Computation Theory ()]: https://www.sigact.org

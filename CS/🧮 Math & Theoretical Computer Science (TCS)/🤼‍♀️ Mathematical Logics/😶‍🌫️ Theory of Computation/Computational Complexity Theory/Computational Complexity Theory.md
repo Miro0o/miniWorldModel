@@ -19,3 +19,4 @@
 ## Ref
 [计算复杂性理论]: https://zh.wikipedia.org/zh-cn/計算複雜性理論
 
+[Oracle machine | Wikipedia]: https://en.wikipedia.org/wiki/Oracle_machine
