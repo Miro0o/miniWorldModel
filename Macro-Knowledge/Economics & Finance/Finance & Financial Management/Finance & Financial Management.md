@@ -10,6 +10,34 @@
 
 
 ## Intro
+### Financial Market
+> 🔗 https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA
+
+金融市场，指具有一定规模的资金融通、货币借贷和买卖有价证券的活动和场所。金融市场不一定要在固定的场所中，通过电子通讯等方式完成的交易也可以被认为是金融市场的一部分。金融市场的参与者是资金供求双方，可以是个人、企业、银行、经纪人、证券公司、保险公司、投资机构以及政府机构等。金融市场交易的对象是货币形态的资金商品，并以利息作为价格。而利息通常是资金使用权转移的代价或者是资金参与生成的利润的分割。金融市场是一个大型生态系统，货物和服务的制作，新的资产形式和金融市场内外的这些资产之间的相互作用。
+
+并非只有市场经济下才有金融市场。计划经济体制下也可以有金融市场，因为没有金融资本就无法调动资源，其存在仍是必须的，但其规模一般不如市场经济下的金融市场规模大，而其运作机制也与市场经济下的金融市场有很大差异，不以喊价逐利套现为目的，虽然避免了动荡与投机，但最终因为灵活性不足而沉没在市场中，俄罗斯等之后也开展了更加竞争力的新金融体系。
+
+![](../../../Assets/Pics/Screenshot%202025-04-25%20at%2022.33.23.png)
+
+**分类**
+- 按业务活动期限划分：[货币市场](https://zh.wikipedia.org/wiki/%E8%B4%A7%E5%B8%81%E5%B8%82%E5%9C%BA "货币市场")和[资本市场](https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA "资本市场")；
+- 按成交后是否立即交割：[现货市场](https://zh.wikipedia.org/wiki/%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA "现货市场")和[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")；
+- 按有价证券是否新发行：[一级市场](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA "一级市场")和[二级市场](https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA "二级市场")；
+- 按地域范围：地方性金融市场、国内性金融市场、国际性金融市场；
+- 按市场职能：货币市场、资本市场、[外汇市场](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%B1%87%E5%B8%82%E5%9C%BA "外汇市场")、[黄金市场](https://zh.wikipedia.org/w/index.php?title=%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "黄金市场（页面不存在）")等。
+
+较常见的一种分类是将金融市场分为短期资金市场和长期资金市场。短期与长期的划分通常以一年为准。短期资金市场即货币市场，包括[同业拆借市场](https://zh.wikipedia.org/w/index.php?title=%E5%90%8C%E4%B8%9A%E6%8B%86%E5%80%9F%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "同业拆借市场（页面不存在）")、[票据贴现市场](https://zh.wikipedia.org/w/index.php?title=%E7%A5%A8%E6%8D%AE%E8%B4%B4%E7%8E%B0%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "票据贴现市场（页面不存在）")、[回购市场](https://zh.wikipedia.org/w/index.php?title=%E5%9B%9E%E8%B4%AD%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "回购市场（页面不存在）")、短期外汇市场等；长期资金市场即资本市场，包括[股票市场](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA "股票市场")、[债券市场](https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA "债券市场")、[基金市场](https://zh.wikipedia.org/w/index.php?title=%E5%9F%BA%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "基金市场（页面不存在）")、[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")和长期外汇市场等。
+
+**金融市场之功效**
+1. 就[中央银行](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%8A%80%E8%A1%8C "中央银行")而言，可增进执行[货币政策](https://zh.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96 "货币政策")之便利。
+    - 此一敏感之组织，其动态及短期利率型态，都可作为央行业务活动之敏感晴雨表。
+    - 此一市场之结构既是完整的，央行与金融部门可在此形成自然接触点。公开市场操作可影响超额准备、货币供给、利率，甚至是汇率及国际收支。
+2. 就[商业银行](https://zh.wikipedia.org/wiki/%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C "商业银行")而言，可使其资金运用效率提高，尤其负债管理观念形成后更明显。
+3. 对企业而言，可提供资金出路，或提供资金融通。
+4. 对个人而言，可提供个人储蓄者保有财富的工具，提高个人储蓄投资意愿及其收益。
+5. 对政府而言，金融市场承购政府债券，可减少政府向央行借款，避免通货膨胀，亦使政府资金有出路。
+
+
 ### Financial Services
 
 
@@ -74,6 +102,42 @@ Some common examples of these derivatives are the following:
 | Credit           | Bond future                                                                                                                                                                                                          | Option on Bond future                                                                                                                             | [Credit default swap](https://en.wikipedia.org/wiki/Credit_default_swap "Credit default swap")  <br>[Total return swap](https://en.wikipedia.org/wiki/Total_return_swap "Total return swap") | [Repurchase agreement](https://en.wikipedia.org/wiki/Repurchase_agreement "Repurchase agreement")                   | [Credit default option](https://en.wikipedia.org/wiki/Credit_default_option "Credit default option")                                                                                                                                                                                                                                           |
 | Foreign exchange | [Currency future](https://en.wikipedia.org/wiki/Currency_future "Currency future")                                                                                                                                   | Option on currency future                                                                                                                         | [Currency swap](https://en.wikipedia.org/wiki/Currency_swap "Currency swap")                                                                                                                 | [Currency forward](https://en.wikipedia.org/wiki/Currency_forward "Currency forward")                               | [Currency option](https://en.wikipedia.org/wiki/Currency_option "Currency option")                                                                                                                                                                                                                                                             |
 | Commodity        | [WTI](https://en.wikipedia.org/wiki/West_Texas_Intermediate "West Texas Intermediate") crude oil futures                                                                                                             | [Weather derivative](https://en.wikipedia.org/wiki/Weather_derivative "Weather derivative")                                                       | [Commodity swap](https://en.wikipedia.org/wiki/Commodity_swap "Commodity swap")                                                                                                              | Iron ore forward contract                                                                                           | [Gold option](https://en.wikipedia.org/wiki/Gold_as_an_investment#Derivatives,_CFDs_and_spread_betting "Gold as an investment")                                                                                                                                                                                                                |
+
+
+### Financial Institutions
+> 🔗 https://en.wikipedia.org/wiki/Financial_institution
+
+A **financial institution**, sometimes called a **banking institution**, is a [business entity](https://en.wikipedia.org/wiki/Business_entity "Business entity") that provides service as an intermediary for different types of financial monetary transactions. Broadly speaking, there are three major types of financial institution:
+1. **Depository institution** – [deposit](https://en.wikipedia.org/wiki/Deposit_\(finance\) "Deposit (finance)")-taking institution that accepts and manages deposits and makes [loans](https://en.wikipedia.org/wiki/Loan "Loan"), including [bank](https://en.wikipedia.org/wiki/Bank "Bank"), [building society](https://en.wikipedia.org/wiki/Building_society "Building society"), [credit union](https://en.wikipedia.org/wiki/Credit_union "Credit union"), [trust company](https://en.wikipedia.org/wiki/Trust_company "Trust company"), and [mortgage broker](https://en.wikipedia.org/wiki/Mortgage_broker "Mortgage broker");
+2. **Contractual institution** – [insurance company](https://en.wikipedia.org/wiki/Insurance_company "Insurance company") and [pension fund](https://en.wikipedia.org/wiki/Pension_fund "Pension fund")
+3. **Investment institution** – [investment bank](https://en.wikipedia.org/wiki/Investment_banking "Investment banking"), [underwriter](https://en.wikipedia.org/wiki/Underwriting "Underwriting"), and other different types of financial entities managing investments.
+
+Financial institutions can be distinguished broadly into two categories according to ownership structure:
+- [commercial bank](https://en.wikipedia.org/wiki/Commercial_bank "Commercial bank")
+- [cooperative bank](https://en.wikipedia.org/wiki/Cooperative_banking "Cooperative banking")
+
+Some experts see a trend toward [homogenisation](https://en.wikipedia.org/wiki/Homogenisation "Homogenisation") of financial institutions, meaning a tendency to invest in similar areas and have similar business strategies. A consequence of this might be fewer banks serving specific target groups, and small-scale producers may be under-served. This is why a target of the United Nations Sustainable Development Goal 10 is to improve the regulation and monitoring of global financial institutions and strengthen such regulations
+
+> 🔗 https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84
+
+金融机构是指从事金融服务业有关的金融中介机构，为金融体系的一部分，金融服务业包括银行、证券、保险、信托、基金等行业，与此相应，金融中介机构也包括银行、证券公司、保险公司、信托投资公司和基金管理公司等。 同时亦指有关放贷的机构，发放货款给客户在财务上进行周转的公司，而且他们的利息相对也较银行为高，但较方便客户借贷，因为不需繁复的文件进行证明。
+#### Banks
+#### Insurance
+#### Trust
+> 🔗 https://en.wikipedia.org/wiki/Trust_(business)
+
+A **trust** or **corporate trust** is a large grouping of business interests with significant [market power](https://en.wikipedia.org/wiki/Market_power "Market power"), which may be embodied as a [corporation](https://en.wikipedia.org/wiki/Corporation "Corporation") or as a group of corporations that cooperate with one another in various ways. These ways can include constituting a [trade association](https://en.wikipedia.org/wiki/Trade_association "Trade association"), owning [stock](https://en.wikipedia.org/wiki/Stock "Stock") in one another, constituting a [corporate group](https://en.wikipedia.org/wiki/Corporate_group "Corporate group") (sometimes specifically a [conglomerate](https://en.wikipedia.org/wiki/Conglomerate_\(company\) "Conglomerate (company)")), or combinations thereof. The term _trust_ is often used in a historical sense to refer to [monopolies](https://en.wikipedia.org/wiki/Monopoly "Monopoly") or near-monopolies in the [United States](https://en.wikipedia.org/wiki/United_States "United States") during the [Second Industrial Revolution](https://en.wikipedia.org/wiki/Second_Industrial_Revolution "Second Industrial Revolution") in the 19th century and early 20th century. The use of corporate trusts during this period is the historical reason for the name "[antitrust law](https://en.wikipedia.org/wiki/United_States_antitrust_law "United States antitrust law")".
+
+In the broader sense of the term, relating to [trust law](https://en.wikipedia.org/wiki/Trust_law "Trust law"), a trust is a legal arrangement based on principles developed and recognized over centuries in English law, specifically in [equity](https://en.wikipedia.org/wiki/Equity_\(law\) "Equity (law)"), by which one party conveys legal possession and title of certain property to a second party, called a trustee. The trustee holds the property, while any benefit from the property accrues to another person, the beneficiary. Trusts are commonly used to hold inheritances for the benefit of children and other family members, for example. In business, such trusts, with corporate entities as the trustees, have sometimes been used to combine several large businesses in order to exert complete control over a market, which is how the narrower sense of the term grew out of the broader sense.
+
+In the United States, the use of corporate trusts died out in the early 20th century as U.S. states passed laws making it easier to create new [corporations](https://en.wikipedia.org/wiki/Corporation "Corporation").
+#### Found
+#### Security Exchange (交易所)
+> 🔗 https://en.wikipedia.org/wiki/Exchange_(organized_market)
+
+An exchange, bourse, trading exchange or trading venue is an organized market where tradable securities, commodities, foreign exchange, futures, and options contracts are bought and sold.
+##### Security Exchange & Stock Exchange
+↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
 

@@ -39,3 +39,4 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 
 [👍 如何通俗地解释停机问题（Halting Problem）？ - 张皓的回答 - 知乎]: https://www.zhihu.com/question/20081359/answer/162329455
 [Halting problem | Wikipedia]: https://en.wikipedia.org/wiki/Halting_problem
+[Gödel's incompleteness theorems | wikipedia]: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems

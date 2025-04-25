@@ -139,11 +139,13 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 
 ### 银行卡
 47 【国内全日制在读学生如何玩卡（综述） - 影的寶寶 | 小红书 - 你的生活指南】 😆 HOIbnJVHUsK40T7 😆 https://www.xiaohongshu.com/discovery/item/666172290000000015010e5b?source=webshare&xsec_token=CBgv4v5sLstPW-YypCDHh3um_9sn3PaTz4GWNKrZhdMWw=&xsec_source=pc_share
-
+#### 美国银行卡
 45 【【干货】留学生第一张卡美国银行BOA开户教程 - 月巴女未呀 | 小红书 - 你的生活指南】 😆 jBEN75JhvVXGBYH 😆 https://www.xiaohongshu.com/discovery/item/62edc794000000001b01d674?source=webshare&xsec_token=CBxZWG95O5tTfLLhsNaexRyl5rtOhDqkZtIYdksYWt188=&xsec_source=pc_share
 
 70 【新手初开美国储蓄卡和信用卡必备扫盲贴（下 - 云baby（无糖版 | 小红书 - 你的生活指南】 😆 pNEPpdKvjfF0hu8 😆 https://www.xiaohongshu.com/discovery/item/65b3e3f9000000002b03ebd5?source=webshare&xsec_token=CBiKRt_s_nSUePTFIwsJGb-WU4eZWV8bm5GnIN6OoCv_0=&xsec_source=pc_share
+#### 香港银行卡
 
+#### 丹麦银行卡
 
 
 ### 出入境管理 /海关检查

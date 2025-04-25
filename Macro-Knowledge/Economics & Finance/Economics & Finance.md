@@ -39,18 +39,23 @@ https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.
 
 
 ## Intro: Economics
-### Goods & Trade & Market
+### Goods & Trade (商品与交易)
+#### Financial Exchange
+↗ [Finance & Financial Management](Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+
+
+### Market (市场)
 ![](../../Assets/Pics/Screenshot%202025-02-27%20at%2015.43.37.png)
 
 
-### Labor
+### Labor (劳动)
 
 
-### Currency
-#### Exchange
+### Currency (货币)
+#### Exchange Rate (货币汇率)
 
 
-### Assets
+### Assets (资产)
 > 🔗 https://zh.wikipedia.org/wiki/%E8%B3%87%E7%94%A2
 
 资产（英语：Asset），在会计学上指一企业透过交易或非交易事项所获得之经济资源，能以货币衡量，并预期未来能提供效益者[1]。资产，就是能够为个人或企业带来收益的东西。在财务会计中，资产是企业拥有的任何资源，如机器、厂房、商誉、专利等有形资产与无形资产。一般来说，资产体现了一种所有权，货币可以兑换商品体现了选择权。
