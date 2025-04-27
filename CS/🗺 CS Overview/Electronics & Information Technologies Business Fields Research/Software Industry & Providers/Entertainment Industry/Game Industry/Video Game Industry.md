@@ -6,10 +6,12 @@
 
 ## Res
 ### Related Topics
+↗ [Video Games Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Video%20Games%20Development/Video%20Games%20Development.md)
 
 
 
 ## Intro
+### Video Game  Companies
 > 🔗 https://en.wikipedia.org/wiki/Video_game_industry#Practices
 
 The video game industry is the tertiary and quaternary sectors of the entertainment industry that specialize in the development, marketing, distribution, monetization, and consumer feedback of video games. The industry encompasses dozens of job disciplines and thousands of jobs worldwide.
@@ -184,7 +186,7 @@ Lists
 
 
 ### Value Chain & Industry Roles
-**Value Chain**
+==Value Chain==
 Traditionally, the video game industry has had six connected layers in its value chain based on the retail distribution of games:
 - **Game development**, representing programmers, designers, and artists, and their leadership, with support of middleware and other development tools.
 - **Publishing**, which typically includes both the source of funding the development of a video game, as well as providing the marketing and advertising for a game.
@@ -195,9 +197,8 @@ Traditionally, the video game industry has had six connected layers in its value
 
 As games have transitioned from the retail to more digital market, parts of this value chain have become redundant. For example, the distributor may be redundant as a function of either the publisher or the retailer, or even in some cases as the case of indie games, the function of the developer themselves.
 
-**Roles**
+==Roles==
 Ben Sawyer of Digitalmill observes that the development side of the industry is made up of six connected and distinctive layers:
-
 - **Capital and publishing layer**: involved in paying for development of new games and seeking returns through licensing of the properties.
 - **Product and talent layer**: includes developers, designers and artists, who may be working under individual contracts or as part of in-house development teams.
 - **Production and tools layer**: generates content production tools, game development middleware, customizable game engines, and production management tools.
@@ -228,9 +229,15 @@ A video game publisher is a company that publishes video games that have been de
 > List of video game publishers
 
 
+### Video Game 
 
 ## Ref
 [如何区分游戏开发商、发行商、运营商？ - uu吖仔儿的文章 - 知乎]: https://zhuanlan.zhihu.com/p/672396332
 从事游戏行业的公司整体上来说，可以分为四类：开发商、发行商、运营商（游戏平台或渠道等）、其他辅助相关公司（如ICD服务商、三方支付等）。
 
 [51页|游戏技术——数实融合进程中的技术新集群（附下载） - 圣香的文章 - 知乎]: https://zhuanlan.zhihu.com/p/545461366
+[中华人民共和国电子游戏产业 | wikipedia]: https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A
+[2024 中国游戏产业报告]: https://www.cbbr.com.cn/upload/files/2024/12/fefd0ca7c31cbeb2.pdf
+[中国移动游戏行业趋势报告]: https://main.qcloudimg.com/raw/f8a732d078827dddb65532b2d59fcfd0/%E6%B8%B8%E6%88%8F%E4%B8%93%E5%9C%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A.pdf
+
+[2025年3月中国手游发行商全球收入排行榜]: https://sensortower.com/zh-CN/blog/highest-earning-CN-game-publishers-for-march-2025

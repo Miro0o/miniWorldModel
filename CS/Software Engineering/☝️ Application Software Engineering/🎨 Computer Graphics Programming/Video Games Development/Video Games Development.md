@@ -7,7 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Games](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games.md)
+↗ [Game Industry](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Entertainment%20Industry/Game%20Industry/Game%20Industry.md)
 ↗ [AI & Gaming](../../../🤖%20AI(LLM)%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
+↗ [Mobile Game Development](../../Mobile%20Application%20Development/Mobile%20Game%20Development/Mobile%20Game%20Development.md)
 
 ↗ [Computer Graphics Programming](../Computer%20Graphics%20Programming.md)
 
@@ -34,3 +36,5 @@ Frameworks for building games across multiple platforms.
 [🎬【老奇】阴差阳错 撼动世界的游戏引擎]: https://www.bilibili.com/video/BV1Hk4y1q7Rz/?share_source=copy_web
 
 [🎬 万字解析：今天的游戏技术究竟发展到了什么程度？]: https://www.bilibili.com/video/BV1HB4y1W7pC/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+[UGE 编辑器是什么]: http://wiki.ugecreator.com/zh/home
