@@ -40,6 +40,9 @@ Anti-fragile: Things That Gain From Disorder
 
 ## Intro: Universe, Knowledge, and Intelligence
 ![Human_society.excalidraw | 800](../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_society.excalidraw.md)
+↗ [China 🇨🇳](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [United States 🇺🇸](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+
 
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
 

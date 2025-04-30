@@ -434,8 +434,8 @@ ACM CCS 2012
 
 ↗ [科技创新人才培养 -- 钱学森](../Study,%20University,%20and%20Education/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
-↗ [How to learn English the right way](../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
-- ↗ [外语学习误区及真实方法](../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
+↗ [How to learn English the right way](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+- ↗ [外语学习误区及真实方法](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 

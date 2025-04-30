@@ -14,9 +14,9 @@
 ↗ [Software Defined Network (SDN)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
-↗ [SmartX](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/SmartX.md)
-↗ [VMWare](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/VMWare.md)
-↗ [Nutanix](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/Nutanix.md)
+↗ [SmartX](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/SmartX.md)
+↗ [VMWare](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/VMWare.md)
+↗ [Nutanix](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/Nutanix.md)
 
 
 

@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [SUSE](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/SUSE.md)
+↗ [SUSE](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/SUSE.md)
 
 
 

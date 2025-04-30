@@ -487,7 +487,7 @@ These questions, from general to specific, speaks the path of what i think every
 
 
 ### What can I do after learning CS?
-↗ [How to learn English the right way](../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+↗ [How to learn English the right way](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 ↗ [International Opportunities](../International%20Opportunities/International%20Opportunities.md)
 #### Tech Careers
 

@@ -11,7 +11,7 @@ The RFC Series (ISSN 2070-1721) contains technical and organizational documents 
 
 ### Related Topics
 ↗ [Web Development & The Internet](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
-↗ [Internet Industry & Companies](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20Industry%20&%20Companies/Internet%20Industry%20&%20Companies.md)
+↗ [Internet & Entertainment Industry](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 
 
 

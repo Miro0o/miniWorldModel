@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [International Politics & Demography](../../../Macro-Knowledge/🌏%20International%20Politics%20&%20Demography/International%20Politics%20&%20Demography.md)
+↗ [International Politics & Demography](../../../Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/International%20Politics%20&%20Demography.md)
 ↗ [Living Abroad China 🇨🇳](../../../Micro-Knowledge/Lives%20&%20Socialization/Living%20Abroad%20China%20🇨🇳.md)
-↗ [How to learn English the right way](../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+↗ [How to learn English the right way](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 
 
 ### Forums

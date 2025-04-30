@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 ↗ [Institutes & Organizations in IT](../Institutes%20&%20Organizations%20in%20IT.md)
-↗ [IT Entrepreneurship & Internet](../../../Micro-Knowledge/Make%20Money/Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
+↗ [IT Entrepreneurship & Internet](../../../Micro-Knowledge/Lives%20&%20Socialization/Make%20Money/Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
 
 ↗ [History of Computer Evolution](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
 ↗ [History of Computer Networking and Communication Evolution](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
