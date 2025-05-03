@@ -16,7 +16,7 @@
 
 
 ## Intro
-### Security 
+### Security (证券)
 > 🔗 https://www.233.com/zq/zykt/202003/19135120786.html
 
 证券是多种经济权益凭证的统称，也指专门的种类产品，是用来证明券票持有人享有的某种特定权益的法律凭证。它主要包括资本证券、货币证券和商品证券等。狭义上的证券主要指的是证券市场中的证券产品，其中包括产权市场产品如股票，债权市场产品如债券，衍生市场产品如股票期货、期权、利率期货等。证券学的学科体系是由从不同角度研究证券市场的行为特征及其运行规律的各分支学科综合构成的有机体系，主要包括传统证券学理论和演化证券学理论两大研究领域。  
@@ -72,7 +72,7 @@
 		5. [普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")（Common Stock）
 
 
-### Security Exchange
+### Security Exchange (证券交易)
 #### Stock Exchange
 🔗 https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%88%97%E8%A1%A8
 
@@ -109,12 +109,84 @@ Major [stock exchange](https://en.wikipedia.org/wiki/Stock_exchange "Stock exch
 | [Toronto Stock Exchange](https://en.wikipedia.org/wiki/Toronto_Stock_Exchange "Toronto Stock Exchange")                                                                                                    | XTSE                                                                                                          | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png)Canada                        | [Toronto](https://en.wikipedia.org/wiki/Toronto "Toronto")                                                                                                                                                                                                                                                                                                                                                                               | 3.55                                                                                                                                                                                 | 206                                     | [EST](https://en.wikipedia.org/wiki/Eastern_Time_Zone_\(North_America\) "Eastern Time Zone (North America)")/[EDT](https://en.wikipedia.org/wiki/Eastern_Daylight_Time "Eastern Daylight Time") | −5:00                                                      | Mar–Nov                                                                          | 09:30                   | 16:00 | No          | 14:30                                                                                                     | 21:00 |
 
 ![](../../../../../Assets/Pics/Screenshot%202025-04-25%20at%2023.16.58.png)
+#### Future Exchange
+#### Bond Exchange
 
 
-### Securities Firms
+### Securities Firms & Investment Banks (证券商与投资银行)
+> 🔗 https://en.wikipedia.org/wiki/Exchange_(organized_market)
 
+An exchange, bourse, trading exchange or trading venue is an organized market where tradable securities, commodities, foreign exchange, futures, and options contracts are bought and sold.
 
-### Investment Banks
+> 🔗 https://en.wikipedia.org/wiki/List_of_investment_banks
+> List of investment Banks /Security Firms
+
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%8A%95%E8%B5%84%E9%93%B6%E8%A1%8C
+
+一般意义上的银行（商业银行）是经营间接融资业务的，通过存款户存款与企业贷款之间的利息差距赚取利润。而投资银行却是经营直接融资业务的，一般来说，它既不接受存款也不发放贷款，而是为企业发行股票或债券，提供重组、清算服务，从中抽取佣金。此外，投资银行还向投资者提供证券经纪服务和资产管理服务，在资本市场上进行投资或投机交易。
+
+在美国，经营以上业务的金融机构一般称为投资银行；在中国、台湾、日本等亚洲国家称为证券公司；在欧洲则称为商人银行。由于欧洲金融业在历史上多采取混合业务经营，事实上独立的“商人银行”数量不多，大部分都是综合性银行或“全能银行”，即同时兼备商业银行和投资银行的角色。
+
+美国金融业一般把投资银行按照规模分为三类，即大型（Bulge Bracket），中型（Middle Market）和小型（Boutique）。按照分支机构和业务范围，也可以分为全国性和地区性两类。
+
+Bulge Bracket有“大量”“批量”的意思，据说是因为大型投资银行在美国国债和机构债券的拍卖中，总是能买下较大的份额。Middle Market一般是指规模在5千万到10亿美元之间的投资银行业务，或者股权价值在5亿美元到50亿美元之间的客户，中型投资银行主要为这些客户服务。Boutique直译为精品店、专卖店，一般只经营某一特定业务，或为某一特定行业提供投资银行服务。其实也有将Boutique视为利基型市场的说法。
+
+投资银行的规模不一定与其声望及盈利能力成正比。小型投资银行由于专注于某一领域，往往能做出很大成就，例如在并购领域名列前茅的 Lazard，Greenhill & Co.以及Evercore Partners等。中型投资银行也有不少名气比较大的上市公司，如Jefferies & Co、Raymond James、KBW Inc、Piper Jaffray、Thomas Weisel、Cowen等；未上市的较知名的中型投资银行则有Robert W. Baird、William Blair等。
+
+自从2008年金融危机以来，大型投资银行或被收购、或直接破产、或变成商业银行控股公司，因此华尔街上已经不存在严格意义上的独立大型投资银行。
+
+![](../../../../../Assets/Pics/Screenshot%202025-05-03%20at%2013.25.58.png)
+
+> 🔗 https://zh.wikipedia.org/wiki/%E8%AF%81%E5%88%B8%E5%95%86
+
+证券商（英语：Securities Firms），简称券商，是提供投资者证券买卖交易服务的法人组织，其组织型态必须为依法设立登记之公司，经证券主管机关之特许及发给证照，而以经营证券业务为目的之股份有限公司。证券商经营之业务主要包括承销、经纪、自营，若同时经营此3种业务，称之为综合证券商。承销为接受发行公司之委托，协助其证券发行之业务，经纪是接受客户委托，代客下单买卖证券以收取手续费之业务，自营则是证券商以自己名义进行证券买卖之业务。证券商不得收受存款、办理放款、借贷有价证券、为借贷款项或有价证券之代理或居间。但经主管机关核准者，得从事有价证券买卖之融资、融券，或从事融资融券买卖的代理。
+
+依证券业务范围，可分为:
+- **证券承销保荐（Underwriter）**：保荐指经营商保荐人对发行人发行证券进行推荐和辅导，承销是指证券公司代理、包销发行证券的行为。
+- **证券自营（Dealer）**：指经营有价证券之自行买卖及其他经主管机关核准之相关业务。
+- **证券经纪（Broker）**：指经营有价证券买卖之行纪、居间、代理及其他经主管机关核准之相关业务。
+- **证券投资咨询（Consulting）**：是指经营证券机构为证券投资人或者客户提供分析、预测或者建议的活动，主要为证券投资顾问业务和发布证券研究报告。
+- **证券财务顾问（Advisor）**：是指经营证券交易、证券投资活动有关的咨询、建议、策划业务。
+- **证券资产管理（Management）**：指证券公司为单一、多个投资者设立权益类、固守类、衍生类、混合类等资产管理计划的业务。
+- **证券融资融券（Margin）**：是指证券公司指向客户出借资金供其买人证券（融资）或者出借证券（融券）供其卖出，并收取担保物的经营活动。
+- **证券做市交易（Market Making）**：是指证券公司以做市商为中介，为双边提供报价的交易业务。
+- **证券IB业务（IB**）：是指证券商接受期货商委托，介绍客户给期货商的业务。
+- **证券私募、另类投资（Investment）**：是指证券商设立子公司从事基金、股权等投资活动的业务。
+#### Core Investment Banking Activities
+Investment banking is split into [front office](https://en.wikipedia.org/wiki/Front_office_\(finance\) "Front office (finance)"), [middle office](https://en.wikipedia.org/wiki/Middle_office "Middle office"), and [back office](https://en.wikipedia.org/wiki/Back_office "Back office") activities. While large service investment banks offer all lines of business, both "sell side" and "buy side", smaller sell-side advisory firms such as [boutique investment banks](https://en.wikipedia.org/wiki/Boutique_investment_bank "Boutique investment bank") and small broker-dealers focus on niche segments within investment banking and sales/trading/research, respectively.
+
+For example, [Evercore (NYSE:EVR)](https://en.wikipedia.org/wiki/Evercore "Evercore") acquired ISI International Strategy & Investment (ISI) in 2014 to expand their revenue into research-driven equity sales and trading.
+
+Investment banks offer services to both corporations issuing securities and investors buying securities. For corporations, investment bankers offer information on when and how to place their securities on the open market, a highly regulated process by the SEC to ensure transparency is provided to investors. Therefore, investment bankers play a very important role in issuing new security offerings
+##### Front Office
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%8A%95%E8%B5%84%E9%93%B6%E8%A1%8C
+
+以下为投资银行前台 (Front Office) 的主要部门:
+
+| 分类                                        | 部门                                                                                                                                                       | 简称        | 主要职能                                                                                                                                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 环球银行 (Global Banking)                     | 投资银行 (Investment Banking)                                                                                                                                | IBD       | 为企业客户提供及处理[股票上市](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82 "股票上市")、[并购](https://zh.wikipedia.org/wiki/%E4%BD%B5%E8%B3%BC "并购")及债券发行等服务                                                                           |
+|                                           | 企业银行 (Corporate Banking)                                                                                                                                 | Corp Bank | 向大型及国际企业客户销售各种的银行服务，包括[交易银行](https://zh.wikipedia.org/w/index.php?title=%E4%BA%A4%E6%98%93%E9%8A%80%E8%A1%8C&action=edit&redlink=1 "交易银行（页面不存在）")、金融市场及[证券服务](https://zh.wikipedia.org/wiki/%E8%AD%89%E5%88%B8%E6%9C%8D%E5%8B%99 "证券服务")等 |
+|                                           | [交易银行](https://zh.wikipedia.org/w/index.php?title=%E4%BA%A4%E6%98%93%E9%8A%80%E8%A1%8C&action=edit&redlink=1 "交易银行（页面不存在）") (Transaction Banking)        | TB        | 为企业客户日常生产经营过程中发生的采购、销售等交易行为提供支付结算、现金管理、流动性管理、贸易金融等服务                                                                                                                                                                                      |
+| 金融市场及证券服务 (Markets & Securities Services) | [销售及交易](https://zh.wikipedia.org/w/index.php?title=%E9%8A%B7%E5%94%AE%E5%8F%8A%E4%BA%A4%E6%98%93&action=edit&redlink=1 "销售及交易（页面不存在）") (Sales & Trading) | S&T       | 为金融机构、企业客户及高净值个人客户提供各种复杂的金融产品，例如[交换交易](https://zh.wikipedia.org/wiki/%E4%BA%A4%E6%8F%9B%E4%BA%A4%E6%98%93 "交换交易")及[大宗交易](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93 "大宗交易")，同时为金融市场提供流动性                          |
+|                                           | [证券服务](https://zh.wikipedia.org/wiki/%E8%AD%89%E5%88%B8%E6%9C%8D%E5%8B%99 "证券服务") (Securities Services)                                                  | SS        | 为金融机构客户提供证券相关的服务和产品，例如证券托管、[清算](https://zh.wikipedia.org/wiki/%E6%B8%85%E7%AE%97_\(%E9%87%91%E8%9E%8D\) "清算 (金融)")、[证券借贷](https://zh.wikipedia.org/wiki/%E8%AD%89%E5%88%B8%E5%80%9F%E8%B2%B8 "证券借贷")及基金服务等                                |
+|                                           | 投资研究 (Investment Research)                                                                                                                               | Research  | 进行不同组别的研究：股票研究、信贷研究和总体经济研究等。投资报告会供给内部及机构客户使用，提供专业的投资看法及建议                                                                                                                                                                                 |
+| 投资管理 (Investment Management)              | [资产管理](https://zh.wikipedia.org/wiki/%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86 "资产管理") (Asset Management)                                                     | AM        | 集中企业及个人投资者的资金，发行及管理不同资产类别组成的[基金](https://zh.wikipedia.org/wiki/%E5%9F%BA%E9%87%91 "基金")：股票、企业及政府债券，或多元资产                                                                                                                                  |
+|                                           | [私人银行](https://zh.wikipedia.org/wiki/%E7%A7%81%E4%BA%BA%E9%8A%80%E8%A1%8C "私人银行") (Private Banking)                                                      | PB        | 专门面向高净值个人客户，提供度身订造的个人财产投资与财富管理服务                                                                                                                                                                                                          |
+##### Middle Office & Back Office
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%8A%95%E8%B5%84%E9%93%B6%E8%A1%8C
+
+除了为投资银行生产收入的前台部门外，银行亦会有中及后台部门 (Middle & Back Office) 去支持前台部门的运作。中后台的主要部门包括:
+- [风险管理](https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86 "风险管理") (Risk Management)
+- 金融控制 (Financial Control)
+- [内部稽核](https://zh.wikipedia.org/wiki/%E5%86%85%E9%83%A8%E5%AE%A1%E8%AE%A1 "内部审计") (Internal Audit)
+- 合规监控 (Compliance)
+- 技术 (Technology)
+- 营运 (Operations)
+- 企业财政 (Finance & Treasury)
+- [人力资源](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90 "人力资源") (Human Resources)
+
+> 🔗 https://en.wikipedia.org/wiki/Investment_banking#Core_investment_banking_activities
 
 
 

@@ -29,7 +29,14 @@ Investors generally expect higher returns from riskier investments. When a low-r
 - 投资是在确认可获得一定担保（如存款保险、或事业的投入资本）后，将资金存放、或投入于具有安全性的组织（如金融机构、上市公司）的一种承诺。而与前述投资意义明显对立的一些行为，如定期定额（dollor cost averaging）、波段操作（market timing）、分散押宝（diversification）等，则与投机比较接近。但也有无法分辨者。
 
 
-### Types of financial investments
+### Types of Financial Investments
+> 🔗 https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84
+
+投资工具
+- 实质资产：[土地](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%9C%B0 "土地")、[设备](https://zh.wikipedia.org/wiki/%E8%A8%AD%E5%82%99 "设备")、[现金](https://zh.wikipedia.org/wiki/%E7%8F%BE%E9%87%91 "现金")、[贵金属](https://zh.wikipedia.org/wiki/%E8%B2%B4%E9%87%91%E5%B1%AC "贵金属")、[原油](https://zh.wikipedia.org/wiki/%E5%8E%9F%E6%B2%B9 "原油")、名画、[红酒](https://zh.wikipedia.org/wiki/%E7%B4%85%E9%85%92 "红酒")、[手表](https://zh.wikipedia.org/wiki/%E6%89%8B%E9%8C%B6 "手表")等保值商品。
+- 非商品性投资：[电影](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1 "电影")。
+- 金融商品：[股票](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8 "股票")、[彩票](https://zh.wikipedia.org/wiki/%E5%BD%A9%E7%A5%A8 "彩票")、[债券](https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8 "债券")、[基金](https://zh.wikipedia.org/wiki/%E5%9F%BA%E9%87%91 "基金")、[期货](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B2%A8 "期货")、[期权](https://zh.wikipedia.org/wiki/%E9%81%B8%E6%93%87%E6%AC%8A "期权")、其他[金融衍生工具](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7 "金融衍生工具")、[虚拟货币](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3 "虚拟货币")
+#### Traditional Investment
 > 🔗 https://en.wikipedia.org/wiki/Investment
 
 In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Traditional_investments "Traditional investments") include:
@@ -37,6 +44,37 @@ In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Tr
 - [Bonds](https://en.wikipedia.org/wiki/Bond_\(finance\) "Bond (finance)") - [loans](https://en.wikipedia.org/wiki/Loan "Loan") to governments and businesses traded on public markets
 - [Cash](https://en.wikipedia.org/wiki/Cash "Cash") - holding a particular [currency](https://en.wikipedia.org/wiki/Currency "Currency"), whether in anticipation of spending or to take advantage of or hedge against changes in a [currency exchange rate](https://en.wikipedia.org/wiki/Currency_exchange_rate "Currency exchange rate")
 - [Real estate](https://en.wikipedia.org/wiki/Real_estate_investing "Real estate investing"), which can be rented to provide ongoing income or resold if it increases in value
+##### Investment Fund
+> 🔗 https://en.wikipedia.org/wiki/Investment_fund
+
+An investment fund is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group such as reducing the risks of the investment by a significant percentage. These advantages include an ability to:
+1. hire professional investment managers, who may offer better returns and more adequate risk management;
+2. benefit from economies of scale, i.e., lower transaction costs;
+3. increase the asset diversification to reduce some unsystematic risk.
+
+It remains unclear whether professional active investment managers can reliably enhance risk adjusted returns by an amount that exceeds fees and expenses of investment management. Terminology varies with country but investment funds are often referred to as investment pools, collective investment vehicles, collective investment schemes, managed funds, or simply funds. The regulatory term is undertaking for collective investment in transferable securities, or short collective investment undertaking (cf. Law). An investment fund may be held by the public, such as a mutual fund, exchange-traded fund, special-purpose acquisition company or closed-end fund, or it may be sold only in a private placement, such as a hedge fund or private equity fund. The term also includes specialized vehicles such as collective and common trust funds, which are unique bank-managed funds structured primarily to commingle assets from qualifying pension plans or trusts.
+
+Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions (e.g., emerging markets or Europe) or specified industry sectors (e.g., technology). Depending on the country there is normally a bias towards the domestic market due to familiarity, and the lack of currency risk. Funds are often selected on the basis of these specified investment aims, their past investment performance, and other factors such as fees.
+
+![](../../../../Assets/Pics/Screenshot%202025-05-03%20at%2011.34.17.png)
+
+> 🔗 https://en.wikipedia.org/wiki/Investment_fund#Internationally_recognised_collective_investments
+
+Internationally recognized collective investments
+- [Exchange-traded funds](https://en.wikipedia.org/wiki/Exchange-traded_fund "Exchange-traded fund") (ETFs)—an open-end fund traded by listed shares on major stock exchanges.
+- [Real Estate Investment Trusts](https://en.wikipedia.org/wiki/Real_estate_investment_trust "Real estate investment trust") (REITs)—a close-ended fund that invests in real estate.
+- [Sovereign investment funds](https://en.wikipedia.org/wiki/Sovereign_investment_fund "Sovereign investment fund")
+
+Country-specific investment funds & collective investments
+- US
+- UK
+- Canadian
+- Ireland
+- 
+
+
+#### Alternative Investment
+> 🔗 https://en.wikipedia.org/wiki/Investment
 
 [Alternative investments](https://en.wikipedia.org/wiki/Alternative_investment "Alternative investment") include:
 - [Private equity](https://en.wikipedia.org/wiki/Private_equity "Private equity") in businesses that are not publicly traded on a [stock exchange](https://en.wikipedia.org/wiki/Stock_exchange "Stock exchange"), often involving [venture capital](https://en.wikipedia.org/wiki/Venture_capital "Venture capital") funds, [angel investors](https://en.wikipedia.org/wiki/Angel_investor "Angel investor"), or [equity crowdfunding](https://en.wikipedia.org/wiki/Equity_crowdfunding "Equity crowdfunding")
@@ -50,12 +88,46 @@ In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Tr
     - [Leveraged investing](https://en.wikipedia.org/wiki/Leverage_\(finance\) "Leverage (finance)"), which is the investment of borrowed money
     - [Short selling](https://en.wikipedia.org/wiki/Short_selling "Short selling"), which typically uses leverage and derivatives to bet that the value of a stock will decline
 
-> 🔗 https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84
+> 🔗 https://en.wikipedia.org/wiki/Alternative_investment
 
-投资工具
-- 实质资产：[土地](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%9C%B0 "土地")、[设备](https://zh.wikipedia.org/wiki/%E8%A8%AD%E5%82%99 "设备")、[现金](https://zh.wikipedia.org/wiki/%E7%8F%BE%E9%87%91 "现金")、[贵金属](https://zh.wikipedia.org/wiki/%E8%B2%B4%E9%87%91%E5%B1%AC "贵金属")、[原油](https://zh.wikipedia.org/wiki/%E5%8E%9F%E6%B2%B9 "原油")、名画、[红酒](https://zh.wikipedia.org/wiki/%E7%B4%85%E9%85%92 "红酒")、[手表](https://zh.wikipedia.org/wiki/%E6%89%8B%E9%8C%B6 "手表")等保值商品。
-- 非商品性投资：[电影](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1 "电影")。
-- 金融商品：[股票](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8 "股票")、[彩票](https://zh.wikipedia.org/wiki/%E5%BD%A9%E7%A5%A8 "彩票")、[债券](https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8 "债券")、[基金](https://zh.wikipedia.org/wiki/%E5%9F%BA%E9%87%91 "基金")、[期货](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B2%A8 "期货")、[期权](https://zh.wikipedia.org/wiki/%E9%81%B8%E6%93%87%E6%AC%8A "期权")、其他[金融衍生工具](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7 "金融衍生工具")、[虚拟货币](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3 "虚拟货币")
+An alternative investment, also known as an **alternative asset** or **alternative investment fund (AIF)**, is an investment in any asset class excluding capital stocks, bonds, and cash.
+
+The term is a relatively loose one and includes tangible assets such as precious metals, collectibles (art, wine, antiques, vintage cars, coins, watches, musical instruments, or stamps) and some financial assets such as real estate, commodities, private equity, distressed securities, hedge funds, exchange funds, carbon credits, venture capital, film production, financial derivatives, cryptocurrencies, non-fungible tokens, and Tax Receivable Agreements. Investments in real estate, forestry and shipping are also often termed "alternative" despite the ancient use of such real assets to enhance and preserve wealth. Alternative investments are to be contrasted with traditional investments.
+##### Hedge Fund
+> 🔗 https://zh.wikipedia.org/wiki/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91
+
+对冲基金（英语：Hedge Fund），又称避险基金或套利基金，是指由金融期货、金融期权等金融衍生工具与金融组织结合后，以盈利为目的的金融基金。其最初目的为通过对冲（Hedging）避免损失。
+
+人们把期货与期权称为金融衍生工具，它们通常被利用在金融市场中作为“套期保值”、“规避风险”的手段。随着时间的推移，在金融市场上，部分基金组织利用金融衍生工具采取多种以盈利为目的投资策略，这些基金组织便被称为对冲基金。目前，对冲基金早已失去风险“对冲”的内涵，相反的，现在人们普遍认为对冲基金实际是基于最新的投资理论和极其复杂的金融市场操作技巧，充分利用各种金融衍生工具的杠杆效用，承担高风险、追求高收益的投资模式。
+
+对冲基金中最著名的莫过于乔治·索罗斯的量子基金及朱里安·罗伯逊的老虎基金，它们都曾创造过高达40%至50%的复合年度收益率。采取高风险的投资，为对冲基金可能带来高收益的同时也为对冲基金带来不可预估的损失。最大规模的对冲基金都不可能在变幻莫测的金融市场中永远处于不败之地。
+
+> 🔗 https://en.wikipedia.org/wiki/Hedge_fund
+
+![](../../../../Assets/Pics/Screenshot%202025-05-03%20at%2011.35.11.png)
+
+Notable hedge fund managers
+- [John Meriwether](https://en.wikipedia.org/wiki/John_Meriwether "John Meriwether") of [Long-Term Capital Management](https://en.wikipedia.org/wiki/Long-Term_Capital_Management "Long-Term Capital Management"), most successful returns from 27% to 59% through 1993 to 1998 until its collapse and liquidation.
+- [George Soros](https://en.wikipedia.org/wiki/George_Soros "George Soros") of [Quantum Group of Funds](https://en.wikipedia.org/wiki/Quantum_Group_of_Funds "Quantum Group of Funds")
+- [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio "Ray Dalio") of [Bridgewater Associates](https://en.wikipedia.org/wiki/Bridgewater_Associates "Bridgewater Associates"), the world's largest hedge fund firm with US$160 billion in [assets under management](https://en.wikipedia.org/wiki/Assets_under_management "Assets under management") as of 2017[37](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-37)[38](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-38)
+- [Steve Cohen](https://en.wikipedia.org/wiki/Steve_Cohen_\(businessman\) "Steve Cohen (businessman)") of [Point72 Asset Management](https://en.wikipedia.org/wiki/Point72_Asset_Management "Point72 Asset Management"), formerly known as SAC Capital Advisors[39](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-wsj20140311-39)[40](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-nytimes_sac_blinks-40)
+- [John Paulson](https://en.wikipedia.org/wiki/John_Paulson "John Paulson") of [Paulson & Co.](https://en.wikipedia.org/wiki/Paulson_%26_Co. "Paulson & Co."), whose hedge funds as of December 2015 had $19 billion assets under management[41](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-ForbesBillionaires-41)
+- [David Tepper](https://en.wikipedia.org/wiki/David_Tepper "David Tepper") of [Appaloosa Management](https://en.wikipedia.org/wiki/Appaloosa_Management "Appaloosa Management")
+- [Paul Tudor Jones](https://en.wikipedia.org/wiki/Paul_Tudor_Jones "Paul Tudor Jones") of [Tudor Investment Corporation](https://en.wikipedia.org/wiki/Tudor_Investment_Corporation "Tudor Investment Corporation")
+- [Daniel Och](https://en.wikipedia.org/wiki/Daniel_Och "Daniel Och") of [Och-Ziff Capital Management Group](https://en.wikipedia.org/wiki/Och-Ziff_Capital_Management_Group "Och-Ziff Capital Management Group")[42](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-42) with more than $40 billion in assets under management in 2013[43](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-2011HedgeFund100-43)
+- [Israel Englander](https://en.wikipedia.org/wiki/Israel_Englander "Israel Englander") of [Millennium Management, LLC](https://en.wikipedia.org/wiki/Millennium_Management,_LLC "Millennium Management, LLC")
+- [Leon Cooperman](https://en.wikipedia.org/wiki/Leon_Cooperman "Leon Cooperman") of Omega Advisors[44](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-Forbes_profile-44)
+- [Michael Platt](https://en.wikipedia.org/wiki/Michael_Platt_\(financier\) "Michael Platt (financier)") of [BlueCrest Capital Management](https://en.wikipedia.org/wiki/BlueCrest_Capital_Management "BlueCrest Capital Management") (UK), Europe's third-largest hedge-fund firm[45](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-Bloomberg-45)
+- [James Dinan](https://en.wikipedia.org/wiki/James_Dinan "James Dinan") of [York Capital Management](https://en.wikipedia.org/wiki/York_Capital_Management "York Capital Management")[46](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-BloombergFindsValue-46)
+- [Stephen Mandel](https://en.wikipedia.org/wiki/Stephen_Mandel_\(hedge_fund_manager\) "Stephen Mandel (hedge fund manager)") of [Lone Pine Capital](https://en.wikipedia.org/wiki/Lone_Pine_Capital "Lone Pine Capital") with $26.7 billion under management as of June 2015[47](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-insidermonkey-47)
+- [Larry Robbins](https://en.wikipedia.org/wiki/Larry_Robbins "Larry Robbins") of Glenview Capital Management with $9.2 billion of assets under management as of July 2014[48](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-48)
+- [Glenn Dubin](https://en.wikipedia.org/wiki/Glenn_Dubin "Glenn Dubin") of [Highbridge Capital Management](https://en.wikipedia.org/wiki/Highbridge_Capital_Management "Highbridge Capital Management")[49](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-49)[50](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-50)
+- [Paul Singer](https://en.wikipedia.org/wiki/Paul_Singer_\(businessman\) "Paul Singer (businessman)") of [Elliott Management Corporation](https://en.wikipedia.org/wiki/Elliott_Management_Corporation "Elliott Management Corporation"), an activist hedge fund with more than US$23 billion in assets under management in 2013,[51](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-51) and a portfolio worth $8.1 billion as of the first quarter of 2015[52](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-4th_quarter_returns-52)[53](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-New_York_Times_activist-53)
+- [David E. Shaw](https://en.wikipedia.org/wiki/David_E._Shaw "David E. Shaw") of [D. E. Shaw & Co.](https://en.wikipedia.org/wiki/D._E._Shaw_%26_Co. "D. E. Shaw & Co.")
+- [Michael Hintze, Baron Hintze](https://en.wikipedia.org/wiki/Michael_Hintze,_Baron_Hintze "Michael Hintze, Baron Hintze") of [CQS](https://en.wikipedia.org/wiki/CQS_\(Hedge_Fund\) "CQS (Hedge Fund)") with $14.4 billion of assets under management as of June 2015[54](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-54)
+- [David Einhorn](https://en.wikipedia.org/wiki/David_Einhorn_\(hedge_fund_manager\) "David Einhorn (hedge fund manager)") of [Greenlight Capital](https://en.wikipedia.org/wiki/Greenlight_Capital "Greenlight Capital")[55](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-55)[56](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-nymag-56)
+- [Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman "Bill Ackman") of [Pershing Square Capital Management](https://en.wikipedia.org/wiki/Pershing_Square_Capital_Management "Pershing Square Capital Management") LP
+- [Kenneth Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin "Kenneth C. Griffin") of [Citadel](https://en.wikipedia.org/wiki/Citadel_LLC "Citadel LLC") with over $62 billion in assets under management as of December 2022.[57](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-57)[58](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-58)
 
 
 ### Invest, Speculate, and Gamble
