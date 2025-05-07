@@ -135,12 +135,12 @@ Financial products include [insurance](https://en.wikipedia.org/wiki/Insurance 
 - [保险](https://zh.wikipedia.org/wiki/%E4%BF%9D%E9%99%A9 "保险")
 - [信托](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8 "信托公司")
 - [基金](https://zh.wikipedia.org/wiki/%E5%9F%BA%E9%87%91 "基金")
-- - [贷款](https://zh.wikipedia.org/wiki/%E8%B4%B7%E6%AC%BE "贷款")
+- [贷款](https://zh.wikipedia.org/wiki/%E8%B4%B7%E6%AC%BE "贷款")
 - [按揭](https://zh.wikipedia.org/wiki/%E6%8C%89%E6%8F%AD "按揭")
 - [征信](https://zh.wikipedia.org/wiki/%E5%BE%81%E4%BF%A1 "征信")
 - [信用卡](https://zh.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E5%8D%A1 "信用卡")
 - [金融信用](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E4%BF%A1%E7%94%A8 "金融信用")
-- - [财务管理](https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86 "财务管理")
+- [财务管理](https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86 "财务管理")
 - [个人理财](https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2 "个人理财")
 - [共同基金](https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E5%9F%BA%E9%87%91 "共同基金")
 - [财富管理](https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E7%AE%A1%E7%90%86 "财富管理")
@@ -223,7 +223,6 @@ Cooperative banking, as discussed here, includes retail banking carried out by c
 ↗ [PCS (Payment and Clearing System)](../../../CS/Information%20Systems%20&%20System%20Architecture%20Design/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
 #### Insurance (保险)
 ![](../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.45.36.png)
-
 #### Trust (信托)
 > 🔗 https://en.wikipedia.org/wiki/Trust_(business)
 

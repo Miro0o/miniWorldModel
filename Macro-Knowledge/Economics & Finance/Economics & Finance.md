@@ -69,7 +69,49 @@ Historically, openness to free trade substantially increased in some areas from 
 Markets can differ by products (goods, services) or factors (labour and capital) sold, product differentiation, place in which exchanges are carried, buyers targeted, duration, selling process, government regulation, taxes, subsidies, minimum wages, price ceilings, legality of exchange, liquidity, intensity of speculation, size, concentration, exchange asymmetry, relative prices, volatility and geographic extension. The geographic boundaries of a market may vary considerably, for example the food market in a single building, the real estate market in a local city, the consumer market in an entire country, or the economy of an international trade bloc where the same rules apply throughout. Markets can also be worldwide, see for example the global diamond trade. National economies can also be classified as developed markets or developing markets.
 
 ==In mainstream economics, the concept of a market is any structure that allows **buyers** and **sellers** to exchange any type of **goods, services and information**. ==The exchange of goods or services, with or without money, is a **transaction**. Market participants or economic agents consist of all the buyers and sellers of a good who influence its price, which is a major topic of study of economics and has given rise to several theories and models concerning the basic market forces of supply and demand. A major topic of debate is how much a given market can be considered to be a "free market", that is free from government intervention. Microeconomics traditionally focuses on the study of market structure and the efficiency of market equilibrium; when the latter (if it exists) is not efficient, then economists say that a market failure has occurred. However, it is not always clear how the allocation of resources can be improved since there is always the possibility of government failure.
+#### Market Entity
+![](../../Assets/Pics/Screenshot%202025-05-05%20at%2014.09.39.png)
+<small>Regulation of the People's Republic of China on the Administration of the Registration of Market Entities | 中华人民共和国市场主体登记管理条例 <a>https://lawinfochina.com/display.aspx?id=36450&lib=law</a></small>
 
+> 🔗 https://baike.kuaiji.com/v171213699.html#
+
+经营主体，又名国有产权主体，对象是政府、组织、单位、法人和自然人，属于经济法主体。国有资产管理经营主体，又称国有产权主体。是指享有或者拥有国有资产所有权或具体享有国有资产所有权某一项权能，以及享有与国有资产所有权有关的财产权利的政府、组织、单位、法人和自然人。
+##### Companies & Enterprises
+> 🔗 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%8F%B8
+##### Corporate group & Conglomerate company (企业集团与集团企业)
+> 🔗 https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%8F%B8%E9%9B%86%E5%9C%98
+
+**公司集团（corporate group）**（又称**企业集团**），是一个商业组织，由多间同系的公司组成，关系是[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")与所持股的[子公司](https://zh.wikipedia.org/wiki/%E5%AD%90%E5%85%AC%E5%8F%B8 "子公司")及交叉持股的兄弟姊妹公司等，如[美国国际集团](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98 "美国国际集团")、日本[三菱集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%86%E5%9C%98 "三菱集团")、[三井集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E9%9B%86%E5%9C%98 "三井集团")、[富士产经集团](https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E7%94%A2%E7%B6%93%E9%9B%86%E5%9C%98 "富士产经集团")、[丰田集团](https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E9%9B%86%E5%9C%98 "丰田集团")、韩国[三星集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E9%9B%86%E5%9C%98 "三星集团")、[乐金集团](https://zh.wikipedia.org/wiki/%E6%A8%82%E9%87%91%E9%9B%86%E5%9C%98 "乐金集团")、[现代集团](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E9%9B%86%E5%9C%98 "现代集团")、台湾[鸿海集团](https://zh.wikipedia.org/wiki/%E9%B4%BB%E6%B5%B7%E9%9B%86%E5%9C%98 "鸿海集团")、[台塑集团](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98 "台塑集团")、[远东集团](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%9D%B1%E9%9B%86%E5%9C%98 "亚东集团")、[兴农集团](https://zh.wikipedia.org/wiki/%E8%88%88%E8%BE%B2%E9%9B%86%E5%9C%98 "兴农集团")、[远雄企业](https://zh.wikipedia.org/wiki/%E9%81%A0%E9%9B%84%E4%BC%81%E6%A5%AD "远雄企业")、[统一企业](https://zh.wikipedia.org/wiki/%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD "统一企业")、[三商企业](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%95%86%E4%BC%81%E6%A5%AD "三商企业")、[润泰集团](https://zh.wikipedia.org/wiki/%E6%BD%A4%E6%B3%B0%E4%BC%81%E6%A5%AD%E9%9B%86%E5%9C%98 "润泰企业集团")、香港[长江集团](https://zh.wikipedia.org/wiki/%E9%95%B7%E6%B1%9F%E5%AF%A6%E6%A5%AD)等。通常名称中是以[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")（主体企业）名称来取名。
+
+> 🔗 https://en.wikipedia.org/wiki/Corporate_group
+
+A **corporate group**, **company group** or **business group**, also formally known as a **group of companies**, is a collection of parent and subsidiary corporations that function as a **single economic entity** through a common source of control. These types of groups are often managed by an account manager. The concept of a group is frequently used in tax law and accounting and (less frequently) company law to attribute the rights and duties of one member of the group to another or the whole. ==If the corporations are engaged in entirely different businesses, the group is called a **conglomerate**.== The forming of corporate groups usually involves consolidation via  [mergers and acquisitions](https://en.wikipedia.org/wiki/Mergers_and_acquisitions "Mergers and acquisitions") (M&A), although the group concept focuses on the instances in which the merged and acquired corporate entities remain in existence rather than the instances in which they are dissolved by the parent. The group may be owned by a holding company which may have no actual operations.
+
+> 🔗 https://en.wikipedia.org/wiki/List_of_conglomerates
+> List of conglomerates
+
+> 🔗 https://www.ahchanye.com/zsyz/30783.html
+
+**集团公司与企业集团的区别有以下几点：**
+1. **法律地位不同**
+	1. 企业集团是许多法人组成的联合体，这种联合体将来很可能受合伙企业法调整。而集团公司是法人企业，规范的集团公司及母子公司关系应该受公司法调整。
+2. **内涵不同**
+	1. 企业集团包含集团公司，但并非所有集团公司都要成立企业集团。企业集团有两种基本类型，其中从属联合企业集团中的母公司是集团公司，而在协作型联合企业集团中，不存在以谁为核心企业的问题，所有企业是平等关系，在集团的统一管理下活动。在后一种企业集团中，集团成员企业可能都是控股公司，都有自己的若干子公司，这种集团往往是强强联合。
+3. **注册方式不同**
+	1. 集团公司既可以以自己为核心组成从属型联合企业集团或与其他公司一起组成协作型联合企业集团，也可以仅在母子公司范围内形成公司集团。组成企业集团须批准和登记。但集团公司本身只是履行公司法人登记手续。
+4. **组织机构不同**
+	1. 企业集团的组织机构由集团章程（集团成员协商一致）决定，而集团公司的组织机构必须在符合公司法规定的条件下由公司章程决定（需经股东会讨论通过）。
+5. **管理的原则和依据不同**
+	1. 企业集团实行统一管理的原则是经成员企业讨论通过的章程决定的。集团公司是独立公司法人，它自身的经营与运作要符合公司法和其他有关法律的规定；集团公司如果是集团成员，必须履行集团章程规定的权利和义务；集团公司作为从属型联合企业集团中的支配公司，又要承担起集团管理的重任。集团公司与集团利益的协调，与成员企业相互权利义务关系是集团立法和集团协议（章程）要解决的重要问题。
+6. **责任和财务制度不同**
+	1. 企业集团并不是独立的纳税主体，但要编制合并会计报表。集团的法律后果由集团成员企业负连带责任（集团章程另有约定的除外）。集团公司与其他成员企业一样，独立开展经营活动，是独立的纳税主体。它对其他成员企业除另有约定外，不承担债务责任。
+这里需要特别指出的是我国企业集团立法比较滞后。集团的设立、集团成员关系的处理，母子公司的关系，企业集团的管理基本原则，集团的垄断，行政性集团公司等问题都缺乏法律的界定和规范。
+###### Business Organization (工商组织)
+> 🔗 https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%95%86%E7%B5%84%E7%B9%94
+
+> 🔗 https://en.wikipedia.org/wiki/Corporate_group
+
+![](../../Assets/Pics/Screenshot%202025-05-05%20at%2014.26.04.png)
 
 ### Currency (货币)
 #### Exchange Rate (货币汇率)
@@ -186,16 +228,30 @@ Separate literatures have developed to describe both [natural capital](https://
 There is also a literature of [intellectual capital](https://en.wikipedia.org/wiki/Intellectual_capital "Intellectual capital") and [intellectual property law](https://en.wikipedia.org/wiki/Intellectual_property_law "Intellectual property law"). However, this increasingly distinguishes means of capital investment, and collection of potential rewards for [patent](https://en.wikipedia.org/wiki/Patent "Patent"), [copyright](https://en.wikipedia.org/wiki/Copyright "Copyright") (creative or [individual capital](https://en.wikipedia.org/wiki/Individual_capital "Individual capital")), and [trademark](https://en.wikipedia.org/wiki/Trademark "Trademark") (social trust or social capital) instruments.
 
 Building on Marx, and on the theories of the sociologist and philosopher [Pierre Bourdieu](https://en.wikipedia.org/wiki/Pierre_Bourdieu "Pierre Bourdieu"), scholars have recently argued for the significance of "culinary capital" in the arena of food. The idea is that the production, consumption, and distribution of knowledge about food can confer power and status.
-#### Production Capital and Productive Forces (生产资本与生产力)
-劳动者使用劳动资料对劳动对象进行的生产活动。它们共同组成生产资本。
+#### Production Capital/ Productive Forces (生产资本/ 生产力)
+> TLDR: 劳动者使用劳动资料对劳动对象进行生产活动。它们共同组成生产资本/生产力。
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E7%94%9F%E4%BA%A7%E5%8A%9B
 
-生产力（英语：productive forces；德语：Produktivkraft）是改造和影响自然并使之适应社会需要的客观物质力量，是历史唯物主义的核心概念。
+==生产力（英语：productive forces；德语：Produktivkraft）是改造和影响自然并使之适应社会需要的客观物质力量，是历史唯物主义的核心概念。==
 
 通常认为，生产力有三要素：劳动力、劳动资料、劳动对象。劳动力，或劳动能力，是“人的身体即活的人体中存在的、每当人生产某种使用价值时就运用的体力和智力的总和”。劳动资料也称劳动手段，是劳动过程中所运用的物质资料或物质条件。劳动对象即劳动过程中所能加工的一切对象，包括自然物和加工过的原材料。劳动资料和劳动对象合称生产资料。
 
 马克思指出“由此可见，一定的生产方式或一定的工业阶段始终是与一定的共同活动方式或一定的社会阶段联系着的，而这种共同活动方式本身就是‘生产力’”
+##### Labor and Labor Power (劳动与劳动力)
+> 🔗 https://en.wikipedia.org/wiki/Labour_power
+
+==Labour power (German: Arbeitskraft; French: force de travail) is the capacity to work==, a key concept used by Karl Marx in his critique of capitalist political economy. Marx distinguished between the ==capacity to do the work, i.e. labour power==, and the ==physical act of working, i.e. labour.== Human labour power exists in any kind of society, but on what terms it is traded or combined with means of production to produce goods and services has historically varied greatly.
+
+The general idea of labour-power had existed previously in classical political economy. Adam Smith's The Wealth of Nations and David Ricardo's On the Principles of Political Economy and Taxation already referred to the "productive powers of labour". However, Marx made the concept much more precise, critically examining the functions of labour-power in production, how labour-power is used, organized and exploited, and how it is typically valued and priced in bourgeois society.
+
+==Under capitalism, according to Marx, the productive powers of labour appear as the creative power of capital.== Indeed, "labour power at work" becomes a component of capital, it functions as working capital. Work becomes just work, workers become an abstract labour force, labour becomes an economic input or a factor of production, and the control over work becomes mainly a management prerogative.
+###### Division of Labor
+> 🔗 https://en.wikipedia.org/wiki/Division_of_labour
+
+==The **division of labour** is the separation of the tasks in any economic system or organization so that participants may specialize (**specialization**).== Individuals, organizations, and nations are endowed with or acquire specialized capabilities, and either form combinations or trade to take advantage of the capabilities of others in addition to their own. Specialized capabilities may include equipment or natural resources as well as skills. Training and combinations of equipment and other assets acting together are often important. For example, an individual may specialize by acquiring tools and the skills to use them effectively just as an organization may specialize by acquiring specialized equipment and hiring or training skilled operators. **The division of labour is the motive for trade and the source of economic interdependence.**
+
+An increasing division of labour is associated with the growth of total output and trade, the rise of capitalism, and the increasing complexity of industrialized processes. The concept and implementation of division of labour has been observed in ancient **Sumerian (Mesopotamian) culture**, where assignment of jobs in some cities coincided with an increase in trade and economic interdependence. Division of labour generally also increases both producer and individual worker productivity.
 ##### Means of Production (生产资料)
 > 🔗 https://zh.wikipedia.org/zh-cn/%E7%94%9F%E4%BA%A7%E8%B5%84%E6%96%99
 
@@ -212,13 +268,6 @@ Building on Marx, and on the theories of the sociologist and philosopher [Pierr
 劳动对象是马克思主义政治经济学中的概念，是指劳动本身所作用的客体，比如耕作的土地，纺织的棉花等。劳动对象包括两大类。一是自然界的物质，即未经人类加工过的自然物。一是人类劳动加工过的，用做原材料的产品。
 
 劳动对象是马克思主义理论中**生产力三要素**之一，另两个要素是劳动者和劳动资料。而劳动对象和劳动资料构成生产资料。
-##### Labor /Labor Power (劳动者/ 劳动力)
-###### Division of Labor
-> 🔗 https://en.wikipedia.org/wiki/Division_of_labour
-
-==The **division of labour** is the separation of the tasks in any economic system or organization so that participants may specialize (**specialization**).== Individuals, organizations, and nations are endowed with or acquire specialized capabilities, and either form combinations or trade to take advantage of the capabilities of others in addition to their own. Specialized capabilities may include equipment or natural resources as well as skills. Training and combinations of equipment and other assets acting together are often important. For example, an individual may specialize by acquiring tools and the skills to use them effectively just as an organization may specialize by acquiring specialized equipment and hiring or training skilled operators. **The division of labour is the motive for trade and the source of economic interdependence.**
-
-An increasing division of labour is associated with the growth of total output and trade, the rise of capitalism, and the increasing complexity of industrialized processes. The concept and implementation of division of labour has been observed in ancient **Sumerian (Mesopotamian) culture**, where assignment of jobs in some cities coincided with an increase in trade and economic interdependence. Division of labour generally also increases both producer and individual worker productivity.
 
 
 ### Economic System (经济体制)
@@ -372,3 +421,6 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 [🎬 汇率为什么涨跌 | 美元跌宕50年  - 小lin说]: https://youtu.be/Q73s8v_d46M?si=vtqvC3AV8mixqQaK
 
 [中华人民共和国2023年国民经济和社会发展统计公报 | 国家统计局]: https://www.gov.cn/lianbo/bumen/202402/content_6934935.htm
+
+[置身事内 | 豆瓣]: https://book.douban.com/subject/35546622/
+《置身事内》通俗，略浅。真的要了解中国经济，尤其是政府的角色，还是推荐周黎安《转型中的地方政府》周飞舟《以利为利》还有徐高的《宏观经济学二十五讲》。兰小欢过分强调政府在经济中的作为，我更倾向于自下而上的自发秩序的作用，也更相信经济学包括中国的普适性大于特殊性。不过，综述、引述、拓展阅读都挺有价值。

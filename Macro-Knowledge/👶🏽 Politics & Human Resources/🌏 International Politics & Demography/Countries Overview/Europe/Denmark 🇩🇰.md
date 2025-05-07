@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [DTU & Denmark Information Quick Access](../../../../../Assets/Personal%20Lives/DTU%20&%20Denmark%20Information%20Quick%20Access.md)
 
 
 
