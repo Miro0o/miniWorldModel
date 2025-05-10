@@ -3393,8 +3393,8 @@
 			2. **herb**香草，药草;**aspirin**阿司匹林;**lavender**淡紫色;**herbs**药草;**clover**苜蓿;**turmeric**姜黄;**rosemary**迷迭香;**thyme**百里香;**oregano**牛至;**peppermint**薄荷;**parsley**荷兰芹，欧芹;
 		9. feveret
 		10. fevered
-	7. foment
-		1. (foment, abet, incite, instigate, demagogue, stoke, stir up, agitate, egg on, provoke, )
+	6. foment
+		1.   (instigate; abet; put sb up to sth; incite; put on; aiding abetting; suborn; egg on; urge to; encourage; seduce; prompt; edge on; oblige; provoke; stimulate;  demagogue, stoke, stir up, agitate, foment)
 		2. 来自拉丁语 fovere,热，词源同 fever.-ment,名词后缀。引申词义煽动。
 		3.  [agitate](dic://agitate), [stir up](dic://stir up)
 		4. _v._ [provoke](dic://provoke), [stimulate](dic://stimulate), [bathe](dic://bathe), [bath](dic://bath)

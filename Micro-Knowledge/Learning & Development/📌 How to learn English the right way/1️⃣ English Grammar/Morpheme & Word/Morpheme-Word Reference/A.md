@@ -2467,8 +2467,15 @@
 		2. anachronistic
 	8. anaclastic
 	9. anadromous
+		1. - adj. 溯河产卵的
+		2. _n._ [catadromous](dic://catadromous), [diadromous](dic://diadromous)
+		3. **trout**鳟鱼;**salmon**鲑鱼;**fishery**渔业;**migratory**迁移的;**freshwater**淡水的;**fish**捕鱼，钓鱼;**spawning**播种，产卵;**larval**幼虫状态的;**aquatic**水生的;**species**物种;**Chinook**切努克人;
 	10. anaglyph
+		1. _n._ [stereo](dic://stereo), [stereoscopic picture](dic://stereoscopic%20picture), [stereoscopic photograph](dic://stereoscopic%20photograph), [glyptic art](dic://glyptic%20art), [glyptography](dic://glyptography)
+		2. **stereo**立体声;**glasses**眼镜;**cyan**蓝绿色;**NTSC**美国国家电视系统委员会;**monochrome**单色画,单色照片,黑白照片;**IMAX**图像最大化;
+		3. _[anaglyph method](dic://anaglyph%20method)_  视差图像法
 	11. anagoge
+		1. _n._ 对基督教《圣经》等所作的神秘解释
 	12. anagram
 	13. analects
 		1. n. 短论选，短文选
@@ -2481,6 +2488,16 @@
 		6. **stimulant**兴奋剂;**narcotic**麻醉的;**aural**耳的;**anesthetic**麻醉剂;**antidepressant**抗抑郁剂;
 		7. Accordingly, the packing appropriate of centre analeptic is given priority to with red base wither, solve those who heat up demulcent medicine to pack give priority to fundamental key with blue. /因此，中枢兴奋药的包装宜用红色为主基凋，解热镇痛药的包装则用蓝色为主基调。
 	15. analogy
+		1. [doctrine of analogy](dic://doctrine of analogy)
+		2. _n._ [inference](dic://inference), [illation](dic://illation), [comparison](dic://comparison), [comparing](dic://comparing), [similarity](dic://similarity) , [parallelism](dic://parallelism)
+		3. **metaphor**隐喻;**argument**争吵;**analogous**相似的,可比拟的;**comparison**比较;**anecdote**奇闻;**example**例子;**metaphorical**隐喻般的;**implication**暗示;**allusion**暗示;**fallacy**谬论，谬误;**paraphrase**释义;
+		4. _by analogy_ 用类推的方法；同样
+		5. _analogy method_ 类比法；模拟方法
+		6. _analogy analysis_ 类比分析
+		7. _on the analogy of_ 根据…类推
+		8. _draw an analogy between_ 把（二者）加以比较；指出…之间的相似处
+		9. _analogy model_ 模拟模型
+		10. _electromechanical analogy_ 机电模拟
 	16. analyse
 		1.  ana-,向上，向后，-lys,松开，词源同 lose,loose.即分解进行分析。
 		2. vt. 分析, 细察, 分解
@@ -2488,61 +2505,75 @@
 		4. analyst
 		5. analytic
 		6. analyze
-	18. anamnesis
+	17. anamnesis
 		1. anamnestic
-	19. anamorphosis
-	20. anaphora
+	18. anamorphosis
+	19. anaphora
 		1. anaphoric
-	21. anaphylactic
+	20. anaphylactic
 		1. anaphylaxis
-	22. anaplasty
-	23. anasarca
-	24. anastomose
-	25. anathema
+	21. anaplasty
+	22. anasarca
+	23. anastomose
+	24. anathema
 		1. anathematize
-	26. anatomy (necropsy, autopsy, anatomy)
+	25. anatomy (necropsy, autopsy, anatomy)
 		1. n. 解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼
 		2. [general anatomy](dic://general anatomy)
 		3. [human body](dic://human body), [physical body](dic://physical body), [material body](dic://material body), [soma](dic://soma), [build](dic://build), [figure](dic://figure), [physique](dic://physique), [shape](dic://shape), [bod](dic://bod), [chassis](dic://chassis), [frame](dic://frame), [form](dic://form), [flesh](dic://flesh)
 		4. _n._ [morphology](dic://morphology), [body](dic://body), [organic structure](dic://organic structure), [physical structure](dic://physical structure), [analysis](dic://analysis)
 		5. **anatomical**结构的;**physiology**生理学;**dissection**解剖，切开;**biology**生物学;**pathology**病理学;**morphology**形态学;**cranial**头盖的;**pelvis**骨盆;**biochemistry**生物化学;**botany**植物学;**neurology**神经病学;
 		6. 
-	27. anchoress
-	28. anchoret
-	29. anchorite
-	30. aneurism
-	31. aneurysm
-	32. anion
-	33. anaclisis
-	34. anaclitic
-	35. ananastasia
-	36. anapest
-	37. anaphor
-	38. anastrophe
+	26. anchoress
+	27. anchoret
+	28. anchorite
+	29. aneurism
+	30. aneurysm
+	31. anion
+	32. anaclisis
+	33. anaclitic
+	34. ananastasia
+	35. anapest
+	36. anaphor
+	37. anastrophe
 		1. - n. 倒置法（等于 anastrophy）
-3. **ano-** = up, above, 表示“上”，和前缀 ana- 同源。
+10. **ano-** = up, above, 表示“上”，和前缀 ana- 同源。
 	1. anode [美 /'ænod/](cmd://Speak/_us_/anode) (anode, cathode /cation, anion)
 		1. ana向上 + -ode极 → （电子）沿着向上的路通往 → 阳极。
 		2. _n._ [electrode](dic://electrode), [terminal](dic://terminal), [pole](dic://pole)
 		3. _n._ [cathode](dic://cathode)
 		4. **cathode**阴极;**electrode**电极;**electrochemical**电气化学的;**capacitor**电容器;**electrolyte**电解物;**dielectric**电介质;**diode**二极管;**capacitance**电容;**oxide**氧化物;**nitride**氮化物;**emitter**发射器，发射体;
 		5. 
-4. naprapathy
-5. on
+11. naprapathy
+12. on
 
 
 ### + \*ane- + = to breathe
 1. **anemo-** = wind, 表示“风”。源自希腊语 anemos "wind."
 	1. 
 2. **anim-** = life, spirit, 表示“生命，精神”等。古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的 anima（阿尼玛）和阳性的 animus（阿尼姆斯）。表示生命的词根 anim- 就来自这两个拉丁文。由于生命和灵魂密不可分，所以词根 anim- 既有“生命”、“动”的含义，也有“精神”、“心”的含义。源自拉丁语 animus "reason, mind, spirit," anima "soul, spirit, life, breath."
-	1. anima
-		1.  animism, animist, animistic
-	2. animadversion
-		1. anim-生命 + ad- + vers-转 + -ion
-		2. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
-		3. her animadversion against science. /她对科学的谴责。
-		4. animadvert
-	4. animal
+	1.   anim-（生命）：代表生命之源的灵魂  
+	2. 古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。  
+	3. anim-：生命，能动，精神，心  
+	4. anima： ['ænɪmə]  n. 灵魂，生命；神圣之灵  
+	5. animus：['ænɪməs] n. 敌意；意图；基本态度；女性的男性意向  
+	6. animosity：['ænə'mɑsəti] n. 憎恶，仇恨，敌意  
+	7. animal：['ænɪm(ə)l] n.动物，有生命能动的  
+	8. animate：['ænɪmet] vt. 使有生气；使活泼；鼓舞；推动adj. 有生命的  
+	9. animation：[,ænɪ'meʃən] n.动画，原意是使其具有生命，使其动起来  
+	10. unanimous：[juː'nænɪməs] adj.全体一致的  
+	11. equanimity：[,ɛkwə'nɪməti] n.（心情）平静坦然
+	12. anima [美 /'ænɪmə/](cmd://Speak/_us_/anima)
+		1. And he said that he's really pleased with the dolly, this anima, this other person, that was not him at all, but, just how he would like to present himself to the world /他说自己真的很满意这个人偶的动漫形象，根本不是自己的“自己”，但这正是他想向世界展示的自己。
+		2. animism, animist, animistic
+	13. animadversion
+		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+		2. anim-生命 + ad- + vers-转 + -ion
+		3. n. 批评, 责备
+		4. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
+		5. her animadversion against science. /她对科学的谴责。
+		6. animadvert
+	14. animal
 		1. pack-animal
 		2. animally, animallike
 		4. animalize, animalise, animalization
@@ -2552,7 +2583,7 @@
 			3. [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system), [school of thought](dic://school of thought), [ism](dic://ism), [disposition](dic://disposition), [temperament](dic://temperament)
 		6. animalist, animalism
 		7. animalcule
-	5. animate
+	15. animate
 		1. (animate, galvanize, rouse, inspire, exalt, )
 		2. [inspire](dic://inspire), [invigorate](dic://invigorate), [enliven](dic://enliven), [exalt](dic://exalt)
 		3. [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [renovate](dic://renovate), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
@@ -2567,24 +2598,27 @@
 			2. animator, animater
 				1. **animation**活泼;**illustrator**插图画家;**cartoonist**漫画家;**animated**活生生的;**screenwriter**电影剧本作家;**filmmaker**电影摄制者;**cinematographer**电影摄影技师;**artist**艺术家;**animate**使有生气;**designer**设计师;**programmer**程序员;
 		10. animated
-	7. animosity， animus (comity)
+	16. animosity， animus (comity)
 		1. (malversation, animosity，enmity, amity, inimical, animadversion)
-		2. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
-	9. equanimity
+		2.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+		3. anim-生命 + -osity多的状态 → 生命太多 → 由爱变恨 → 仇恨。
+		4. n. 仇恨, 憎恶, 敌意
+		5. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
+	17. equanimity
 		1. (sedate, serene, tranquil, calm, repose, compose, placidity, equanimity )
 		2. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
-	10. longanimity, longanimous
+	18. longanimity, longanimous
 		1. **patience**耐性，耐心;**fortitude**坚韧, 刚毅;**exertion**努力;**self-control**克己;**perseverance**坚持不懈;**firmness**坚定;**likewise**也;
-	11. magnanimity, magnanimous, magnanimously
+	19. magnanimity, magnanimous, magnanimously
 		1. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
-	12. pusillanimity, pusillanimous, pusillanimously
+	20. pusillanimity, pusillanimous, pusillanimously
 		1. _n._ [fearfulness](dic://fearfulness)
 		2. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
 		3. Some reckon its failure to unearth masses of new information is down to a mix of mendacious reticence on the part of key witnesses and the pusillanimity of their inquisitors /一些人承认，没能发现大量的新信息是由于关键证人的虚假的沉默和审判者的胆怯。
-	13. unanimity, unanimous, unanimously
+	21. unanimity, unanimous, unanimously
 		1. **consensus**一致, 一致同意;**overwhelmingly**压倒地;**decision**决定，决心;**unequivocal**只有一种含意的;**resounding**鸣响的,回响的,回荡的,响亮的;**vote**投票，选举;**verdict**裁定;**emphatic**加强语气的;**overwhelming**势不可挡的, 压倒一切的;**veto**否决权;**dissenting**不同意的;
-	14. reanimatology
-3. Enid
+	22. reanimatology
+14. Enid
 
 
 
@@ -3745,6 +3779,12 @@
 		4.  [invest](dic://invest), [clothe](dic://clothe)
 		5. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [be](dic://be), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
 		6. **decorate**装饰;**embellish**美化;**flaunt**炫耀;**accentuate**重读;**draped**垂褶袖;**affixed**粘贴;**brighten**变亮;**bestow**授予;**ornate**华丽的;**gilded**镀金的，装饰的;**decoration**装饰,装
+		7. A vulgar flaring paper adorned the walls. /墙壁上装饰着廉价的花纸。
+		8. Their house is adorned with beautiful antique ornaments. /他们的房子装饰得古色古香。
+		9. His house was lavishly adorned. /他的屋子装饰得很华丽。
+		10. He tried to adorn his story with a lot of lies /(喻)他试图以大量虚构的情节为自己的故事添油加醋。
+		11. These qualities adorn the character of Portia,and these go to accomplish a perfect woman. /这些品质使得鲍西娅的性格更加光彩照人,也使得一个高尚的女性形象更加完美。
+		12. The shades of color that adorn its breast, are equally brilliant. /顶冠也同样照亮了它的胸脯，如同点缀的光影一样。
 	2. ornate
 		1. 来自拉丁语 ornare,装饰，来自 ordnare,安排，布置，词源同 order,adorn.即装饰好的，引申词义装修豪华的，富丽的，堂皇的。
 		2.  [embellished](dic://embellished), [ornamented](dic://ornamented)
@@ -3758,12 +3798,27 @@
 		10. _[Microhyla ornate](dic://Microhyla%20ornate)_ 饰纹姬蛙; 小雨蛙; 
 		11. _[ornate elaborate](dic://ornate%20elaborate)_ 华丽的
 		12. ornament
+			1.  [decoration](dic://decoration), [ornamentation](dic://ornamentation)
+			2. [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [embellish](dic://embellish), [beautify](dic://beautify)
+			3. _n._ [artifact](dic://artifact), [artefact](dic://artefact)
+			4. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [deck](dic://deck), [adorn](dic://adorn), [decorate](dic://decorate), [grace](dic://grace)
+			5. [decorate](dic://decorate) 普通用词，指对人或物进行装饰，使之更加完美。  
+			6. [ornament](dic://ornament) 指装饰以精美之物，使某处或某物增添美丽的或景色。
+			7. **decoration**装饰,装潢;**wreath**花冠;**garland**花环;**decorative**装饰性的;**figurine**小雕像，小塑像;**snowman**雪人;**decorations**装饰品;**embellishment**装饰,修饰,润色;**snowflake**雪花,雪片;**pendant**下垂物，垂饰;**brooch**胸针，领针;
+			8. He was an ornament to his country. /他是为国增光的人物。
+			9. The city of greece and asia is despoil of their most valuable ornament. /希腊与亚洲城市中最宝贵的装饰品被劫掠一空。
+			10. 
 		13. inornate
 			1. _[Inornate design notion](dic://Inornate%20design%20notion)_ 朴素的设计观
-	3. suborn
-		1.  1 - sub-,在下，-orn,安排，装饰，词源同 order,adorn.即私下安排好的，引申词义收买，买通。
-		2. _v._ [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase)
-		3. **induce**引诱;**bribe**贿赂，收买;**persuade**说服，劝说;**subvert**推翻;**blackmail**敲诈, 勒索;**betray**背叛;**procure**获得，取得;**compel**强迫，迫使;**suppress**抑制;**assassinate**暗杀，行刺;**seduce**引诱;
+	3. suborn (instigate; abet; put sb up to sth; incite; put on; aiding abetting; suborn; egg on; urge to; encourage; seduce; prompt; edge on; oblige; provoke; stimulate;  demagogue, stoke, stir up, agitate, foment)
+		2.  1 - sub-,在下，-orn,安排，装饰，词源同 order,adorn.即私下安排好的，引申词义收买，买通。
+		3. vt. 唆使；收买；使作伪证
+		4. _v._ [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase)
+		5. **induce**引诱;**bribe**贿赂，收买;**persuade**说服，劝说;**subvert**推翻;**blackmail**敲诈, 勒索;**betray**背叛;**procure**获得，取得;**compel**强迫，迫使;**suppress**抑制;**assassinate**暗杀，行刺;**seduce**引诱;
+		6. He was charged with conspiracy to suborn witnesses. /他被指控阴谋收买证人作伪证。
+		7. Drug traders may try to suborn departing persons. /毒品商有可能试着唆使出国者。
+		8. I withdrew from that case to avoid suborning perjury. /我退出那案子是为了避免被唆使做伪证。
+		9. Russia and separatist Ukraine are not the Soviet Union, but justice is still suborned to theatre, and facts to interests /俄罗斯和分裂主义的乌克兰不是苏联，但正义仍屈从于戏剧，事实屈从于利益。
 
 
 ### arbit-,arbitr- = judge, 表示“判断”。复合词根：ar-=ad- + bit-走。
@@ -4784,5 +4839,31 @@
 	6. _[caviar to the general](dic://caviar%20to%20the%20general)_  阳春白雪
 	7. Fresh caviar, sir. This is Romanoff caviar, sir /新鲜鱼子酱，先生，这是罗曼诺夫鱼子酱，先生。
 	8. caviare
-9. egg
-
+8. egg
+	1.  (instigate; abet; put sb up to sth; incite; put on; aiding abetting; suborn; egg on; urge to; encourage; seduce; prompt; edge on; oblige; provoke; stimulate;  demagogue, stoke, stir up, agitate, foment)
+	2.  来自 PIE*owyo,蛋，词源同 ovum,ovular.
+	3. n. 蛋, 卵  
+	4. vt. 挑唆, 煽动, 调蛋黄
+	5. 1.walking on eggs战战兢兢；如履薄冰。没有人可以在鸡蛋上行走的对吧？那为啥还walking on eggs呢？其实这来自一种egg-dance。地上散开放十几个鸡蛋，蒙着眼睛，演员随着音乐开始进退旋转跳舞还不能碰到鸡蛋，只有十分的小心才能做到吧。I was walking on eggs when I askedthe boss about my salary. ​​​​  
+	6. 2.egg [eg] n.鸡蛋；卵子。一北欧商人乘船到英国，在泰晤士河口附近因为风停了所以无法继续行船，到岸上买东西，对一个酒吧老板娘说他想买“eggs”，老板娘一脸懵逼说她不懂法语，不懂法语的商人也怒了，双叒怼老板娘：你几个意思？其实谁都没错，当时英国人egg的复数形式是eyren，参考child和children。  
+	7. 3.to kill the goose that lays the golden egg杀鸡取卵；涸泽而渔。《伊索寓言》中，一个农民发现了一只能生金蛋的鹅，幻想一夜暴富的农民将鹅杀死，想把鹅肚子里所有的金蛋拿出来，结果不用说，不是鸡飞蛋打，而是鹅死蛋没，发财梦破灭。They do not want to kill the goose thatlays the golden egg. ​​​​
+	8. wind-egg
+	9. eggshell
+	10. eggplant
+		1. [aubergine](dic://aubergine), [mad apple](dic://mad apple)
+		2. [aubergine](dic://aubergine), [brinjal](dic://brinjal), [eggplant bush](dic://eggplant bush), [garden egg](dic://garden egg), [mad apple](dic://mad apple), [Solanum melongena](dic://Solanum melongena)
+		3. _n._ [solanaceous vegetable](dic://solanaceous%20vegetable), [herb](dic://herb), [herbaceous plant](dic://herbaceous%20plant)
+		4. **zucchini**夏季产的一种南瓜;**cauliflower**花椰菜;**tomato**番茄，西红柿;**tomatoes**蕃茄;**spinach**菠菜;**asparagus**芦笋;**broccoli**花椰菜;**peppers**胡椒;**artichoke**洋蓟;**squash**壁球;**cucumber**黄瓜;
+		5. Background Only a few case reports of allergy to eggplant (Solanum melongena) have been reported. /背景，只有少数病例报告过敏，以茄子（茄子）已报告。
+		6. As a member of the nightshade family, the tomatillo is related to the tomato, eggplant, pepper, and potato. /树蕃茄作为茄类植物的家庭成员，与蕃茄，茄子，胡椒，和土豆有关。
+		7. Grilled veal, tomato tapenade, and roasted eggplants /烧烤小牛肉 配番茄酱和烤茄子。
+	11. egghead
+		1. _n._ [intellectual](dic://intellectual), [intellect](dic://intellect)
+		2. **nerdy**书呆子式的;**nerd**讨厌的人;**nerds**书呆子;**elitist**优秀人材;**geeky**令人讨厌的;**geek**做低级滑稽表演的人;**wannabe**想达到目标的人;**geeks**奇葩;**scientist**科学家;**moron**痴愚者;**pompous**浮夸的;
+		3. But you don't have to be an egghead to follow a discussion. /但您不必成为书呆子也能跟进讨论。
+		4. This aggressively impertinent egghead is getting on my nerves. /这个咄咄逼人的无礼的蛋头正在激怒我。
+	12. eggcup
+	13. eggbeater
+	14. egg-whisk
+	15. egg-spoon
+	16. egg-shaped

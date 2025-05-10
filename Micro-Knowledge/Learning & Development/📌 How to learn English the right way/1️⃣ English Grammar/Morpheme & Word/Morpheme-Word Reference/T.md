@@ -1157,9 +1157,16 @@
 		3. [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
 		4. **relating**关联的;**relate**联系起来;**concerning**关于，涉及，就…而言;**related**讲述的，叙述的;**regarding**关于， 至于;**correspond**相符合, 相一致;**pertinent**有关的;**belong**属于，应归入;**specifically**特有地, 特定地, 具体地;**indicate**指出;**specific**特殊的，特定的;
 		5. pertinent
-		6. impertinent (impertinent, impendence, impenitent, impenetrable, )
+			1. per-完全的 + tin-抓住，握住 + -ent形容词后缀。
+			2. a. 相关的, 中肯的, 切题的
+			3. pertinency
+				1. _n._ [relevance](dic://relevance), [relevancy](dic://relevancy)
+				2. **objection**反对, 异议;**propriety**①礼貌,规矩;**merits**功绩;**applicability**适用性;**relevance**中肯;**presumption**推测;**regard**尊敬;**validity**有效性;**appellant**上诉人;**veracity**诚实;**pertinent**有关的;
+			4. pertinence
+				1. impertinence
+		6. impertinent (impertinent, impendence, impenitent, impenetrable, impudent)
 			1. a. 鲁莽的, 无礼的, 粗鲁的; <正式>不切题的, 不恰当的
-			2.  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall)
+			2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky)
 			3. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
 			4. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
 			5. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
@@ -2289,7 +2296,7 @@
 		1. [aggressiveness](dic://aggressiveness), [belligerence](dic://belligerence), [pugnacity](dic://pugnacity)
 	4. truculent
 		1. a. 野蛮的, 粗暴的, 致命的, 好斗的
-		2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, )
+		2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky)
 		3. **belligerent**好战的;**combative**好战的;**defiant**挑衅的;**brash**仓促的，性急的;**unruly**不守规矩的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**cranky**暴躁的;**stubborn**顽固的;**obnoxious**可憎的;**ferocious**残忍的;
 		4. [aggressive](dic://aggressive)
 8. avatar

@@ -1,8 +1,23 @@
 ## la
 ### labor- = labor, 表示“劳动”，来自拉丁语。
 1. labor, labour
-	1. Laborite
-	2. laborious
+	1. n. 劳动, 努力, 工作, 劳工, 分娩  
+	2. vi. 劳动, 努力, 苦干  
+	3. vt. 详细分析, 使厌烦
+	4. laboratory（实验室）：中世纪炼丹术士的炼丹场所  
+	5. 英语单词laboratory（实验室）来自中世纪拉丁文laboratorium，labor表示“劳作”，laboratorium意思就是“劳作的地方”，所以laboratory的本意也是“劳作的地方”。为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为laboratory。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。  
+	6. laboratory：['læbrə'tɔri] n.实验室，研究室  
+	7. labor： ['lebɚ] n. 劳动；工作；劳工；分娩v. 劳动；努力；苦干；详细分析  
+	8. laborious：[lə'bɔrɪəs] adj. 勤劳的；艰苦的；费劲的  
+	9. laborer：['lebərɚ] n. 劳动者；工人  
+	10. labored：['leɪbəd] adj. 吃力的；费劲的；不自然的  
+	11. belabor：[bɪ'lebə] vt. 痛打；抨击；过度说明；反复讨论  
+	12. elaborate：[ɪ'læbəret] adj. 精心制作的；详尽的；煞费苦心的v. 精心制作；详细阐述  
+	13. elaboration： [ɪ,læbə'reʃən] n. 苦心经营，精巧；详细阐述  
+	14. collaborate： [kə'læbəret] vi. 合作；勾结，通敌  
+	15. collaboration：[kə,læbə'reʃən] n. 合作；勾结；通敌
+	16. Laborite
+	17. laborious
 		1. (arduous, laborious, industrious, assiduous, diligent, studious)
 		1.  [backbreaking](dic://backbreaking), [grueling](dic://grueling), [gruelling](dic://gruelling), [hard](dic://hard), [heavy](dic://heavy), [laborious](dic://laborious), [operose](dic://operose), [punishing](dic://punishing), [toilsome](dic://toilsome)
 		2.  [straining](dic://straining), [strenuous](dic://strenuous)
@@ -10,11 +25,11 @@
 		4. **laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**strenuous**费力的;**exhausting**使耗尽的;**time-consuming**耗费时间的;**tiring**麻烦的;**lengthy**漫长的，冗长的;**onerous**繁重的;**protracted**<书>延长的;**daunting**使人畏缩的;)
 		6. **tedious**冗长乏味的;**time-consuming**耗费时间的;**arduous**费力的;**painstaking**极小心的;**cumbersome**笨重的;**tiresome**烦人的，无聊的;**lengthy**漫长的，冗长的;**tiring**麻烦的;**fruitless**没有成果的, 无益的;**strenuous**费力的;**consuming**消费的;
 		7. [effortful](dic://effortful)
-	4. laborer
-	5. labored
-	6. overlabor
-	7. unlabored
-	8. laboratory
+	18. laborer
+	19. labored
+	20. overlabor
+	21. unlabored
+	22. laboratory
 		1. laboratory（实验室）：中世纪炼丹术士的炼丹场所  
 		1. 英语单词laboratory（实验室）来自中世纪拉丁文laboratorium，labor表示“劳作”，laboratorium意思就是“劳作的地方”，所以laboratory的本意也是“劳作的地方”。为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为laboratory。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。  
 		2. laboratory：['læbrə'tɔri] n.实验室，研究室  
@@ -28,50 +43,52 @@
 		10. collaborate： [kə'læbəret] vi. 合作；勾结，通敌  
 		11. collaboration：[kə,læbə'reʃən] n. 合作；勾结；通敌
 		12. laboration
-	9. laborsaving
-	10. laborsome
-2. belabour /belabor
-	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
-	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
-	4. 
-	5. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
-	6. vt. 痛打；不断辱骂和嘲弄；唠叨
-	7. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
-	8. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
-	9. there is no need to belabour the point. /没有必要对这一点多费口舌。
-	10. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
-	11. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
-3. collaborate
-	1. collaboratory
-	2. collaborator
-	3. collaborative
-	4. collaboration
-4. elaborate
-	4. e-出 + labor-工作 + -ate, 表形容词 → 做出来的 → 精工细做。
-	5. a. 精细的, 详尽的, 精心计划(或制作)的  vt. 详尽阐述, 详细描述; 详细制订
-	6. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [produce](dic://produce), [make](dic://make), [create](dic://create), [change](dic://change)
-	7. _adj._ [fancy](dic://fancy), [careful](dic://careful)
-	8. _n._ [plain](dic://plain), [careless](dic://careless)
-	9. **intricate**错综复杂的;**fanciful**想像的;**extravagant**奢侈的, 铺张的;**ornate**华丽的;**convoluted**盘绕的,卷曲的;**grandiose**宏伟的;**complicated**结构复杂的;**detailed**详细的，精细的;**intricately**杂乱地;**outlandish**古怪的, 奇异的;**lavish**浪费的;
-	10. _elaborate on_ 详细说明
-	11. a range of elaborate deceptions. /一系列精心策划的圈套。
-	12. elaborate security precautions. /详尽的安全防范措施。
-	13. a long and elaborate misrepresentation. /长期的精心编造的欺骗
-	14. Please elaborate your points. /请就你的观点详加说明。
-	15. There is an elaborate five-course meal. /这儿有五道菜的美餐。
-	16. an elaborate lace pattern; /复杂精美的花边图案；
-	17. he would not elaborate on his news. /他不会详尽说明他的消息。
-	19. overelaborate
-	20. elaborator
-	21. elaborative
-	22. elaboration
+	23. laborsaving
+	24. laborsome
+13. belabour /belabor
+	10. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	11. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	12. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+	13. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
+	14. vt. 痛打；不断辱骂和嘲弄；唠叨
+	15. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
+	16. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
+	17. _[belabor the language a bit](dic://belabor%20the%20language%20a%20bit)_ 我想在字意上多讲一些
+	18. there is no need to belabour the point. /没有必要对这一点多费口舌。
+	19. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
+	20. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
+	21. We would not **belabor** this point but only wish each to ponder it. /我们不会反复讨论这个观点，而仅是希望每个人去仔细考量它。
+	22. Don't worry, we won't **belabor** this topic. /别担心，我们不会就这个问题喋喋不休的。
+14. collaborate
+	23. collaboratory
+	24. collaborator
+	25. collaborative
+	26. collaboration
+15. elaborate
+	27. e-出 + labor-工作 + -ate, 表形容词 → 做出来的 → 精工细做。
+	28. a. 精细的, 详尽的, 精心计划(或制作)的  vt. 详尽阐述, 详细描述; 详细制订
+	29. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [produce](dic://produce), [make](dic://make), [create](dic://create), [change](dic://change)
+	30. _adj._ [fancy](dic://fancy), [careful](dic://careful)
+	31. _n._ [plain](dic://plain), [careless](dic://careless)
+	32. **intricate**错综复杂的;**fanciful**想像的;**extravagant**奢侈的, 铺张的;**ornate**华丽的;**convoluted**盘绕的,卷曲的;**grandiose**宏伟的;**complicated**结构复杂的;**detailed**详细的，精细的;**intricately**杂乱地;**outlandish**古怪的, 奇异的;**lavish**浪费的;
+	33. _elaborate on_ 详细说明
+	34. a range of elaborate deceptions. /一系列精心策划的圈套。
+	35. elaborate security precautions. /详尽的安全防范措施。
+	36. a long and elaborate misrepresentation. /长期的精心编造的欺骗
+	37. Please elaborate your points. /请就你的观点详加说明。
+	38. There is an elaborate five-course meal. /这儿有五道菜的美餐。
+	39. an elaborate lace pattern; /复杂精美的花边图案；
+	40. he would not elaborate on his news. /他不会详尽说明他的消息。
+	41. overelaborate
+	42. elaborator
+	43. elaborative
+	44. elaboration
 		1. _n._ [expansion](dic://expansion), [expanding upon](dic://expanding upon), [improvement](dic://improvement), [betterment](dic://betterment), [advance](dic://advance), [discussion](dic://discussion), [treatment](dic://treatment)
 		2. **explanation**解释, 说明;**clarification**澄清,净化;**exposition**阐述, 讲解;**interpretation**解释, 说明;**simplification**简单化;**refinement**细微的改良;**conceptual**观念的, 概念的;**introduction**介绍;**analysis**细察;**methodological**方法的;**characterization**刻画,描绘,塑造;
 		3. _[elaboration](dic://elaboration)_  n. 苦心经营，精巧；详细阐述
 		4. _[semantic elaboration](dic://semantic%20elaboration)_  语义加工
-	23. elaborateness
-	24. elaborately
+	45. elaborateness
+	46. elaborately
 		1. _adv._ [elaborate](dic://elaborate), [luxuriant](dic://luxuriant)
 		2. **intricately**杂乱地;**artfully**狡诈地;**elegantly**优美地;**exquisitely**精致地;**intricate**错综复杂的;**meticulously**仔细地;**cleverly**聪明地;**delicately**优美地;**skillfully**巧妙地;**ornate**华丽的;**tastefully**雅致地;
 		3. _[elaborately](dic://elaborately)_  adv. 精巧地；苦心经营地

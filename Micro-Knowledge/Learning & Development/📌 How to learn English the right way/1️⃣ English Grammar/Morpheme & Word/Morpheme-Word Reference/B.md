@@ -1487,7 +1487,7 @@
 		5. jailbait
 		6. bearbaiting
 	2. abet
-		1. (foment, abet, incite, instigate, demagogue, stoke, stir up, agitate, egg on, provoke, )
+		1.  (instigate; abet; put sb up to sth; incite; put on; aiding abetting; suborn; egg on; urge to; encourage; seduce; prompt; edge on; oblige; provoke; stimulate;  demagogue, stoke, stir up, agitate, foment)
 		2. abet（煽动）：中世纪时的纵狗斗熊游戏  
 		3. 单词abet与14至15世纪英国流行的“纵狗斗熊”游戏（bear baiting）有关。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后，总是以熊被咬死而告终。据记载，1575年英国女王伊丽莎白一世在观看“纵狗斗熊”时就有13只熊被咬死。“纵狗斗熊”的游戏在英国延续了800多年，直到1835年才因为过于残忍而被取消。  
 		4. abet一词来自古法语abeter，其中a=to，beter=bait（诱使去咬）。狗的主人或观众唆使狗去咬熊的行为就是abet the dogs（唆使狗去咬熊）。后来，abet的词义变宽，用于表示更一般意义上的“教唆、唆使”。  
@@ -1509,10 +1509,10 @@
 		20. abettor
 		21. abetter
 		22. abetment
-	4. bet
+	3. bet
 		1. bettor
 		2. betting
-	5. bite
+	4. bite
 		1. soundbite
 		2. snakebite
 		3. restbite
@@ -1523,7 +1523,7 @@
 		8. bitting
 		9. biteplate
 		10. backbite
-	6. bitter
+	5. bitter
 		1. embitter
 		2. bittersweet
 		3. bitterroot
@@ -1533,7 +1533,7 @@
 		7. bitterish
 		8. bittering
 		9. bitter-ender
-	7. bit
+	6. bit
 		1. wait-a-bit
 		2. unbitted
 		3. two-bit
@@ -6089,7 +6089,56 @@
 	8. breadboarding
 	9. bradboard
 	10. beebrad
-	11. 
+5. burn
+	1. vt. 烧, 烧毁, 烧伤  
+	2. vi. 燃烧, 发热, 烧毁  
+	3. n. 烧伤, 烙印
+	4.  来自 PIE*bher,燃烧，发光，加热，词源同 brew.
+	5. windburn
+		1. _n._ [erythema](dic://erythema)
+		2. **sunburn**晒斑;**sunscreen**遮光剂;**blisters**水疱;**redness**红色;**dryness**干燥;**rashes**发疹，疹;**dehydration**脱水;**eczema**湿疹;**frost**结霜于;**sun**太阳;**irritation**刺激;
+	6. unburned
+	7. sunburn
+		1. sunburned
+		2. sunburnt
+	8. slash-and-burn
+	9. limeburner
+	10. heartburn
+	11. grease-burner
+	12. burnt
+	13. burnout
+	14. burning
+		1. preburning
+		2. afterburning
+		3. overburning
+	15. bunrner
+	16. burned
+	17. burnable
+	18. afterburner
+	19. burnish
+		1. burn，这里表示闪闪发光，源自法语 + -ish。
+		2. [polish](dic://polish), [gloss](dic://gloss), [glossiness](dic://glossiness)
+		3.  [buff](dic://buff), [furbish](dic://furbish), [flush](dic://flush)
+		4. _n._ [radiance](dic://radiance), [radiancy](dic://radiancy), [shine](dic://shine), [effulgence](dic://effulgence), [refulgence](dic://refulgence), [refulgency](dic://refulgency), [smoothness](dic://smoothness)
+		5. _v._ [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine)
+		6. **tarnish**晦暗;**bolster**长枕;**rub**擦;**embellish**美化;**soften**使变柔软;**reshape**改造;**smear**涂抹;**solidify**团结;**luster**光泽;**sharpen**变锋利;**scrape**用工具刮;
+6. brass
+	1. n. 黄铜, 黄铜制品  
+	2. a. 黄铜的, 铜管乐器的  
+	3. v. 镀以黄铜, 支付
+	4. 词源同 burn,燃烧。由铜和锡冶炼而成。
+	5. brassy
+		1.  (gaudy, brassy, flashy, garish, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy, crass, vulgar, frivolous, pretentious, posh, jazzy, smart, sporty, showy, swish, classy, stylish, fashionable, glamorous, trendy, fancy, chic, luxury, dash, elan, flair, panache, finesse, charisma, sophistication, swagger, gusto, gorgeous, magnificent, resplendent, ornate, superb, glitz,  glitz-and-glam, pomp, vain, ostentatious, Vanity Fair, philistine, frill, glorified, frippery, speciosity, slickly, vogue, dandyism, dandiacal, upper, polite, foppish, foppery, spark, trumpery)
+	6. brassing
+	7. brassie
+	8. brassard
+		1. n. 袖章，臂章
+		2. _n._ [armor plate](dic://armor%20plate), [armour plate](dic://armour%20plate), [armor plating](dic://armor%20plating), [plate armor](dic://plate%20armor), [plate armour](dic://plate%20armour)
+		3. **insignia**徽章;**badge**徽章;**emblem**象征;**tunic**束腰外衣;
+	9. brassage
+	10. brass-wind
+	11. brass-visaged
+	12. brass-smith
 
 
 ### + \*bhrug- + = agricultural produce, also to enjoy
@@ -6117,24 +6166,53 @@
 		8. a frugal supper of bread and cheese /只有面包和奶酪的晚餐
 		9. Frugal people are careful about spending money or using things. /节俭的人花钱或用东西都很谨慎。
 	3. usufruct
-3. brook
-	1. n. 小溪  
-	2. vt. 容忍
-	3. brooklet
+2. brook
+	1. - 词源不详，可能来自 break,分开。
+	2. - n. 小溪，小河v. <正式>容忍，允许（尤指不同意见或反对意见）
+	3.  [creek](dic://creek)
+	4.  [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
+	5. _n._ [stream](dic://stream), [watercourse](dic://watercourse)
+	6. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+	7. **creek**小溪;**river**河，江;**meadow**草地;**meadows**草地;**pond**池塘;**stream**溪流;**trout**鳟鱼;**babbling**胡说;**lake**湖;**valley**山谷;**willow**柳木制品;
+	8. _stony brook_ 斯托尼布鲁克分校
+	9. Jenny would brook no criticism of Matthew. /珍妮不会容忍任何对马修的批评。
+	10. The brook warbled over its rocky bed. /小溪潺潺流过多石的河床。
+	11. I could hear the sound of a babbling brook. /我听得见小溪潺潺的流水声。
+	12. The straight flow of the brook formed a ravine. /不间断的溪水形成了一个峡谷。
+	13. Misty mountains, burbling brooks, pecking chickens and scampering dogs. /山色空朦,溪水潺潺,鸡儿啄食,狗儿撒欢.
+	14. A brook meanders through the meadow. /一条小溪从草地中蜿蜒流过。
+	15. The brook loops around the farm. /小河绕农场流过。
+	16. No. My curiosity would not brook such a delay. /别走 我的好奇心可忍不到明天。
+	17. brooklet
 
 
 ### + \*bhudh- + = bottom, base
 1. **byss-** = bottom, 表示“底”。源自希腊语 buthos, bussos "bottom of the sea."
-	1. abyss, abysm
-		1. **abyss**深渊;**backward**向后的;**oblivion**遗忘;**nothingness**虚无;**abject**卑贱的;**unspeakable**恶劣得难以形容的;**cunt**女性阴部;**carnal**肉体的;
-		2. abyssal
-			1.  abysmal, unfathomable
-			2. _adj._ [abyssal zone](dic://abyssal zone), [deep](dic://deep)
-			3. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
-			4. 
-	2. abysmal
-		1. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
+	1. abyss [美 /ə'bɪs/](cmd://Speak/_us_/abyss)
+		1. n. 危险（可怕）的局面，绝境；深渊，深不可测的地方；（人与人之间的）巨大差异，鸿沟；（地狱中的）无底深渊
+		2. _n._ [chasm](dic://chasm)
+		3. **oblivion**遗忘;**nothingness**虚无;**darkness**黑暗;**despair**绝望;**bottomless**无底的;**brink**边缘;**plunge**投入;**plunging**跳进的,突进的;**cliff**绝壁;**madness**疯狂;**ravine**峡谷;
+		4. _[an abyss of disgrace](dic://an%20abyss%20of%20disgrace)_  耻辱的深渊,莫大的耻辱
+		5. _[an abyss of time](dic://an%20abyss%20of%20time)_  时间的深渊
+	2. abysm [美 /ə'bɪzəm/](cmd://Speak/_us_/abysm)
+		1. n. 深渊；无底洞
+		2. _n._ [chasm](dic://chasm)
+		3. **abyss**深渊;**backward**向后的;**oblivion**遗忘;**nothingness**虚无;**abject**卑贱的;**unspeakable**恶劣得难以形容的;**cunt**女性阴部;**carnal**肉体的;
+	3. abyssal
+		1.  abysmal, unfathomable
+		2. _adj._ [abyssal zone](dic://abyssal zone), [deep](dic://deep)
+		3. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
+	4. abysmal
 		2.  [abysmal](dic://abysmal), [unfathomable](dic://unfathomable)
+		3. _adj._ [immeasurable](dic://immeasurable), [unmeasurable](dic://unmeasurable), [immensurable](dic://immensurable), [deep](dic://deep)
+		4. _n._  [measurable](dic://measurable), [mensurable](dic://mensurable), [shallow](dic://shallow)
+		5. **oceanic**海洋的;**abyss**深渊;**primordial**原始的;**subterranean**地表下面的;**magma**岩浆;**ocean**海洋;**sea**海洋;**arctic**北极的;**oceans**海洋;**elemental**自然力的;**tectonic**构造的;
+		6. The film was so abysmal that I fell asleep. /电影太糟糕,看得我睡着了。
+		7. He took courses to remedy his abysmal ignorance. /他学课程以弥补他极大的无知。
+		8. The abysmal academician's acarpous writing had accomplished little in achievements to date. /到目前为止，那位深不可测的院士的没有结果的著作仅仅完成了极少数部分。
+		9. Did her abysmal housekeeping skills Finally trump her perkiness? /她浑身的傻气终于被她那盖世的家务活能力打压下去了是吗？
+		10. For all that, India's relations with the countries that ring it are abysmal. /尽管如此，印度与其周边国家的关系只能用糟糕透顶来形容。
+		11. You're a maniac, but I'm grateful because this has been one of the most abysmal dates I have ever been on. /你真是个神经病，但我挺庆幸的因为这是我一生中所去过最烂的约会之一了。
 2. **found-, fund-** = base, 表示“基础”。源自拉丁语 fundus "bottom, floor, ground"
 	1. found
 		1. foundation
@@ -6171,35 +6249,109 @@
 			2. _n._ [superficiality](dic://superficiality), [shallowness](dic://shallowness)
 			3. **subtlety**微妙;**brilliance**才华,才智;**absurdity**荒谬;**transcendent**卓越的;**sincerity**真实, 诚挚;**grandeur**庄严;**sublime**高尚的;**profound**深度的;**nuance**细微差别;**seriousness**严肃;**richness**丰富;
 		9. profundly
-	4. fund
-		1. unfounded, unfunded
-		2. fundament
+	3. fund
+		1. n. 基金, 资金, 存款, 财源, 贮藏  vt. 提供资金, 积累
+		2.  来自 PIE*bhudh,底部，基础，词源同 bottom,founder.用做经济学名词资金。比较 finance.
+		3.  [monetary fund](dic://monetary fund)
+		4. [store](dic://store), [stock](dic://stock)
+		5.  [investment company](dic://investment company), [investment trust](dic://investment trust), [investment firm](dic://investment firm)
+		6. _n._ [money](dic://money), [accumulation](dic://accumulation), [nondepository financial institution](dic://nondepository%20financial%20institution)
+		7. _v._ [finance](dic://finance), [roll up](dic://roll%20up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile%20up), [amass](dic://amass), [compile](dic://compile)
+		8. **monies**货币;**endowment**资助,捐助;**investment**投资;**invest**投资;**finance**财政，财政学;**money**钱;**fundraising**筹款,募款;**pension**津贴;**charity**施舍;**grant**授予，允许;**proceeds**实收款项;
+		9. _provident fund_ 公积金；福利基金；准备基金
+		10. _investment fund_ [经]投资基金
+		11. _capital fund_ 资本基金
+		12. _international monetary fund_ 国际货币基金组织
+		13. _accumulation fund_ 公积金；积累基金
+		14. _fund manager_ 基金经理，财务经理；基金管理人
+		15. _hedge fund_ 避险基金；套保基金
+		16. _mutual fund_ 共有基金
+		17. _insurance fund_ 保险基金
+		18. _pension fund_ 养老基金；退休基金
+		19. _fund raising_ [经]筹措资金
+		20. _exchange fund_ 外汇基金
+		21. _housing fund_ 住房公积金
+		22. _trust fund_ 信托基金
+		23. _in funds_ 有资本；有资金可用
+		24. _development fund_ 开发基金
+		25. _raise fund_ 筹集资金
+		26. _reserve fund_ 准备基金
+		27. _bond fund_ 债券基金
+		28. _open-end fund_ 开放型基金，追加型基金
+		29. unfounded, unfunded
+		30. fundament
 			1. fundamental
 				1. fundamentally
 				2. fundamentallity
 				3. fundamentalist
 				4. fundamentalism
 			2. **foundational**基本的;**basic**基本的;**principle**原理;**crucial**决定性的;**essential**基本的;**underlying**根本的;**tenets**信条;**underpinning**基础,支柱,支撑;**intrinsic**固有的, 内在的, 本质的;**important**重要的, 重大的;**vital**生死攸关的;
-		3. fundus
-		4. wage-fund, underfund
-		5. fundraiser, fundraise
-		6. funding, funded
-		7. fundholder
-		8. defund
-		9. [investment company](dic://investment company), [investment trust](dic://investment trust), [investment firm](dic://investment firm)
-		10. **monies**货币;**endowment**资助,捐助;**investment**投资;**invest**投资;**finance**财政，财政学;**money**钱;**fundraising**筹款,募款;**pension**津贴;**charity**施舍;**grant**授予，允许;**proceeds**实收款项;
-	5. latifundium
-	6. fundoplication
-	7. funduscopic
-3. bottom
-4. bumboat
+		31. fundus
+		32. wage-fund, underfund
+		33. fundraiser, fundraise
+		34. funding, funded
+		35. fundholder
+		36. defund
+			1. Calls to " defund the police" have shifted to " refunding" /呼吁“撤资警察”的呼声已经转变为“退款”。
+			2. The Republican-controlled House of Representatives has frequently voted to defund the health-care law /共和党控制的众议院经常投票要求取消对医改法的资金支持。
+	4. latifundium
+	5. fundoplication
+	6. funduscopic
+25. bottom
+26. bumboat
 
 
 
 ## bl
-### blas
+### blas = to damage, 表示“毁坏”。
 1. blaspheme
+	1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	2. A：blame [bleɪm] vt.责备；归咎于，n.责备；责任；过失。B：blaspheme [blæs'fiːm] vt.亵渎；咒骂，辱骂，vi.说亵渎的话；口出恶言，词根phem表to speak，blas-部分或表evil，所以blaspheme就是speak evil of。A和B什么关系？A是B的缩短式，blame指挑剔人的错误，而blaspheme指对神语言上的亵渎。
+	3.  blas-,伤害，-phem,说，见 euphemism,委婉语。指说神坏话，诽谤神。其缩写词 blame,责备.
+	4. v. 亵渎
+	5. blasphemy [美 /ˈblæsfəmi/](cmd://Speak/_us_/blasphemy)
+		1. _n._ [profanity](dic://profanity), [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [irreverence](dic://irreverence), [violation](dic://violation)
+		2. **heresy**异教;**obscenity**淫秽;**treason**叛国罪;**idolatry**偶像崇拜;**adultery**通奸，通奸行为;**offence**犯罪;**abomination**厌恶;**heretics**异教徒;**mockery**嘲弄;**slander**诽谤;**murder**谋杀，凶杀;
+		3. _[blasphemy](dic://blasphemy)_  n. 亵渎神明；轻视上帝或神祗
+		4. Pakistan has never executed anyone for blasphemy. /巴基斯坦从未因亵渎神明处决过任何人。
+		5. Some people said it was blasphemy. Some people said I was living dangerously. /有些人说这是亵渎意大利面。有人说我活得很危险。
+		6. Blasphemy is still a crime in Austria. Fans of free speech denounced the ruling /在奥地利，亵渎神明仍然是一种犯罪行为。而言论自由的支持者谴责这一裁决。
+	6. blasphemous
+	7. blasphemer
 2. blame
+	1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, )
+	2. n. 过失, 责备  vt. 责备, 归咎于
+	3. 来自 blasphemy的缩写。
+	4. n. 过失, 责备  vt. 责备, 归咎于
+	5. [incrimination](dic://incrimination), [inculpation](dic://inculpation)
+	6.  [rap](dic://rap)
+	7. [fault](dic://fault)
+	8. [find fault](dic://find fault), [pick](dic://pick)
+	9. [charge](dic://charge)
+	10.  [blasted](dic://blasted), [blamed](dic://blamed), [blessed](dic://blessed), [damn](dic://damn), [damned](dic://damned), [darned](dic://darned), [deuced](dic://deuced), [goddam](dic://goddam), [goddamn](dic://goddamn), [goddamned](dic://goddamned), [infernal](dic://infernal)
+	11. _n._ [accusation](dic://accusation), [accusal](dic://accusal), [reproach](dic://reproach)
+	12. _v._ [charge](dic://charge), [accuse](dic://accuse), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick%20apart), [impute](dic://impute)
+	13. _adj._ [cursed](dic://cursed), [curst](dic://curst)
+	14. _n._ [absolve](dic://absolve), [justify](dic://justify), [free](dic://free)
+	15. _n._ [blessed](dic://blessed), [blest](dic://blest)
+		1. [blame](dic://blame) 普通用词，语气较弱，仅是一般的责难、归咎于，不含用语言责骂之意。  
+		2. [accuse](dic://accuse) 语气比blame强，本义为归罪，可用作指非难或谴责之义。  
+		3. [condemn](dic://condemn) 正式用词，表示谴责，有较强的司法意味，侧重从道义或原则上的谴责。  
+		4. [scold](dic://scold) 普通用词，多指上级对下级、长辈对后辈或雇主对雇员的态度粗暴、言词激烈的数落。  
+		5. [denounce](dic://denounce) 与condemn同义，但着重公开性。  
+		6. [reproach](dic://reproach) 侧重指因他人粗心、自私等引起不满而去指责、找岔。  
+		7. [rebuke](dic://rebuke) 多指上级对下级进行的公开、强烈、严正而不宽容的责备。隐含一定权威的意味。
+	16. **scapegoat**替罪的羔羊;**fault**故障;**responsibility**责任;**onus**责任，义务;**excuse**理由;**accuse**控告，指控;**criticize**评论, 批评;**shame**羞耻，羞愧;**culprit**犯人，罪犯;**wrong**错误地;**complain**发牢骚;
+	17. _blame for_ 责备；因……责备
+	18. _take the blame_ 承担过错
+	19. _put the blame on_ 归咎于…
+	20. _be to blame for_ 对…应负责任；应该为某事负责任
+	21. _bear the blame_ 承担责任
+	22. blameworthy
+	23. blameless
+	24. blameful
+	25. blamed
+	26. blamable
 
 
 
