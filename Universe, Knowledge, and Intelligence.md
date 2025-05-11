@@ -15,7 +15,7 @@
 https://plato.stanford.edu/index.html
 Stanford Encyclopedia of Philosophy
 #### Books
-https://calculatingempires.net/about.html
+👍 👍 👍 https://calculatingempires.net/about.html
 A Genealogy of Technology and Power Since 1500 | Kate Crawford and Vladan Joler
 
 https://www.dk.com/uk/book/9781465494351-1000-inventions-and-discoveries/
@@ -52,6 +52,9 @@ Anti-fragile: Things That Gain From Disorder
 Universe and Human Beings
 Information and Knowledge
 Technology and Science
+
+
+### Life, Knowledge, and Intelligence
 
 
 ### System Science & Systemology 🤔
@@ -96,7 +99,8 @@ https://en.wikipedia.org/wiki/Complex_system
 ### Overview: Self-awareness & Two Essential Human Abilities
 
 
-### Overview: Human Society
+### Overview: Human Society & Human History
+↗ [World History Overview](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/World%20History%20Overview/World%20History%20Overview.md)
 
 
 ### Politics & Demography
