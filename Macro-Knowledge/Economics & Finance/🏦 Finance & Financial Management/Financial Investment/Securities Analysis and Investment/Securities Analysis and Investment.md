@@ -20,7 +20,7 @@
 > 🔗 https://www.233.com/zq/zykt/202003/19135120786.html
 
 证券是多种经济权益凭证的统称，也指专门的种类产品，是用来证明券票持有人享有的某种特定权益的法律凭证。它主要包括资本证券、货币证券和商品证券等。狭义上的证券主要指的是证券市场中的证券产品，其中包括产权市场产品如股票，债权市场产品如债券，衍生市场产品如股票期货、期权、利率期货等。证券学的学科体系是由从不同角度研究证券市场的行为特征及其运行规律的各分支学科综合构成的有机体系，主要包括传统证券学理论和演化证券学理论两大研究领域。  
-- **有价证券：marcketable sescurity / security.** 是指标有票面金额，用于证明持有人或该证券指定的特定主体对特定财产拥有所有权或债权的凭证。有价证券是虚拟资本的一种形式，它本身没价值，但有价格。有价证券按其所表明的财产权利的不同性质，可分为三类：商品证券、货币证券及资本证券。  
+- **有价证券：marcketable sescurity / security.** 是指标有票面金额，用于证明持有人或该证券指定的特定主体对特定财产拥有所有权或债权的凭证。有价证券是虚拟资本的一种形式，它本身没价值，但有价格。有价证券按其所表明的财产权利的不同性质，可分为三类：**商品证券**、**货币证券**及**资本证券**。  
 - **无价证券：unmarcketable security.** 又称凭证证券，是指具有证券的某一特定功能，但不能作为财产使用的书面凭证。由于这类证券不能流通，所以不存在流通价值和价格。无价证券的特征是，政府或国家法律限制它在市场上作广泛的流通，并不得通过流通转让来增加持券人的收益。  
 
 > 🔗 https://zh.wikipedia.org/wiki/%E8%AD%89%E5%88%B8
@@ -68,13 +68,48 @@
 		    7. [可转换债券](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8 "可转换债券")（Convertible Bonds）
 		    8. 赎回债券（Callable Bonds）
 		3. [金融债券](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%80%BA%E5%88%B8 "金融债券")：专业金融机构为筹措长期资金，所发行的债券凭证。
-		4. [特别股](https://zh.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E8%82%A1 "优先股")（Preferred Stock）
-		5. [普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")（Common Stock）
+		4. 股票（Stock）
+			1. [特别股](https://zh.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E8%82%A1 "优先股")（Preferred Stock）
+			2. [普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")（Common Stock）
+#### Stock / Capital Stock ✅
+> 🔗 https://zh.wikipedia.org/zh-cn/%E8%82%A1%E7%A5%A8
+
+股票（英语：stock）或资本存货（英语：capital stock）是一种有价证券，股份有限公司将其所有权借由这种有价证券进行分配。因为股份有限公司需要筹措长期资金，因此将股票发给投资者作为公司资本的部分所有权凭证，成为股东以此获得股利（股票股利）或/且股息（现金股利），并分享公司成长或交易市场波动带来的利润；但也要共同承担公司运作错误所带来的风险。
+
+> 世界第一张股票在十七世纪由荷兰东印度公司发行。1606年，专事荷兰与亚洲贸易的“东印度公司”，以阿姆斯特丹为中心，发行650万荷兰盾股票，已具备现代股份公司的主要特征，其运作方式对后世产生重大深远影响。
+> 
+> 当时该公司经营航海事业。它在每次出海前向人集资，航程完成后即将各人的出资以及该航次的利润交还给出资者。1613年起该公司改为四航次，才派一次利润。这就是“股东”和“配息”的前身。
+##### Types of Stocks
+> 🔗 https://zh.wikipedia.org/zh-cn/%E8%82%A1%E7%A5%A8#%E8%82%A1%E7%A5%A8%E7%9A%84%E5%88%86%E9%A1%9E
+
+==中国大陆==
+- 按票面形式，可分为记名股票、无记名股票和有面额股票。
+- 按上市交易所和买卖主体，可分为以下几种：
+	- [A股](https://zh.wikipedia.org/wiki/A%E8%82%A1 "A股")：正式名称为**人民币普通股票**。它是由中国大陆的公司发行，供境内机构、组织或个人（不含港、澳地区及台湾籍投资者）以人民币认购和交易的普通股股票。自2013年4月1日起，中国大陆、香港、澳门地区居民和台籍人民均可开立A股账户。
+	- [B股](https://zh.wikipedia.org/wiki/B%E8%82%A1 "B股")：正式名称为**人民币特种股票**。它是以人民币标明面值，以外币认购和买卖，在境内（上海及深圳）证券交易所上市交易的股票。在2001年2月前，B股投资人仅限于国外（包含台湾）自然人、法人及其他组织，香港、澳门的自然人、法人和其他组织，定居在国外的中华人民共和国人民，以及中国证监会规定的其他投资人。2001年2月19日之后，中国证监会宣布对内开放B股市场，准许持有合法外汇的境内居民自由开户买卖B股。
+	- [H股](https://zh.wikipedia.org/wiki/%E6%81%92%E7%94%9F%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E6%8C%87%E6%95%B8 "恒生中国企业指数")：又称**境外上市外资股**，是境内上市公司在境外发行上市的股份。
+	- [红筹股](https://zh.wikipedia.org/wiki/%E7%B4%85%E7%B1%8C%E8%82%A1 "红筹股") （Red Chip）：此概念诞生于20世纪90年代初期的香港股票市场。**香港投资者和国际投资者把在中华人民共和国境外注册，在香港上市的股票称为红筹股**。早期的红筹股，主要是一些中资公司收购香港中小型上市公司后改造而形成的，如“中信泰富”等。之后出现了内地一些省市将其在香港的窗口公司改组并在香港上市后形成的，如“上海实业”、“北京控股”等。红筹股已经成为除B股及H股外，内地企业进入国际资本市场筹资的一条重要渠道。对于红筹股的定义目前主要有两种：
+	    1. 按照业务区域来区分：如果某个上市公司的主要业务在中国大陆，其盈利中的大部分也来自该业务，那么这家在中国境外注册，在香港上市的股票就是红筹股。国际信息公司彭博资讯所编的红筹股指数就是按照这一标准来遴选的。
+	    2. 按照权益多寡来区分：如果一家上市公司股东权益的大部分直接来自中国大陆，或具有中国大陆背景，也就是为中资所控股，那么这家在中国境外注册，香港上市的股票就属于红筹股。1997年4月，恒生指数服务公司编制的恒生红筹股指数就是按照这一标准来划定的。
+- 按持股主体，在2005-2006年的[股权分置改革](https://zh.wikipedia.org/wiki/%E8%82%A1%E6%9D%83%E5%88%86%E7%BD%AE "股权分置")以前，可分为国家股，法人股和[个人股](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%85%AC%E4%BC%97%E8%82%A1 "社会公众股")。
+- 按股东权利，分为[优先股](https://zh.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E8%82%A1 "优先股")和[普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")。
+- 按流通状况，分为[流通股](https://zh.wikipedia.org/wiki/%E6%B5%81%E9%80%9A%E8%82%A1%E8%82%A1%E4%B8%9C "流通股股东")和[非流通股](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%B5%81%E9%80%9A%E8%82%A1%E8%82%A1%E4%B8%9C "非流通股股东")。
+
+==香港==
+- 基于“同股同权”的公平原则，香港自1987年起禁止上市公司发行B股。已发行B股的公司则可以继续营运。现时，[太古股份有限公司](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%8F%A4%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8 "太古股份有限公司")是香港唯一的AB股。两者投票权相等，但B股的面值及所占权益只是A股的五分一。
+- 香港主要股票交易服务包括非即日股票交易﹑即日股票交易﹑月供股票服务﹑申购新股服务等等。
+- 红筹股/蓝筹股/紫筹股
+
+==台湾==
+- 按股东权利，可分为[普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")、[特别股](https://zh.wikipedia.org/wiki/%E7%89%B9%E5%88%A5%E8%82%A1 "特别股")。
+- 按股票状况，可分为[普通股](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E8%82%A1 "普通股")、[全额交割股](https://zh.wikipedia.org/wiki/%E5%85%A8%E9%A1%8D%E4%BA%A4%E5%89%B2%E8%82%A1 "全额交割股")。
+- 按交易方式，可分为上市股票（集中市场交易）、上柜股票（[柜台买卖](https://zh.wikipedia.org/wiki/%E6%9F%9C%E5%8F%B0%E4%B9%B0%E5%8D%96 "柜台买卖")交易）、兴柜股票（即将上市上柜股票）、未上市上柜股票。
+#### Bond
 
 
-### Security Exchange (证券交易)
+### Security Exchange (证券交易所)
 #### Stock Exchange
-🔗 https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%88%97%E8%A1%A8
+🔗 [世界证券交易所列表](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%88%97%E8%A1%A8)
 
 [List of major stock exchanges](https://en.wikipedia.org/wiki/List_of_major_stock_exchanges)
 - [List of African stock exchanges](https://en.wikipedia.org/wiki/List_of_African_stock_exchanges)
@@ -109,7 +144,9 @@ Major [stock exchange](https://en.wikipedia.org/wiki/Stock_exchange "Stock exch
 | [Toronto Stock Exchange](https://en.wikipedia.org/wiki/Toronto_Stock_Exchange "Toronto Stock Exchange")                                                                                                    | XTSE                                                                                                          | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png)Canada                        | [Toronto](https://en.wikipedia.org/wiki/Toronto "Toronto")                                                                                                                                                                                                                                                                                                                                                                               | 3.55                                                                                                                                                                                 | 206                                     | [EST](https://en.wikipedia.org/wiki/Eastern_Time_Zone_\(North_America\) "Eastern Time Zone (North America)")/[EDT](https://en.wikipedia.org/wiki/Eastern_Daylight_Time "Eastern Daylight Time") | −5:00                                                      | Mar–Nov                                                                          | 09:30                   | 16:00 | No          | 14:30                                                                                                     | 21:00 |
 
 ![](../../../../../Assets/Pics/Screenshot%202025-04-25%20at%2023.16.58.png)
-#### Future Exchange
+###### 🧑‍🏫 How does individual trade in stock exchange?
+
+
 #### Bond Exchange
 
 
@@ -125,7 +162,7 @@ An exchange, bourse, trading exchange or trading venue is an organized market wh
 
 一般意义上的银行（商业银行）是经营间接融资业务的，通过存款户存款与企业贷款之间的利息差距赚取利润。而投资银行却是经营直接融资业务的，一般来说，它既不接受存款也不发放贷款，而是为企业发行股票或债券，提供重组、清算服务，从中抽取佣金。此外，投资银行还向投资者提供证券经纪服务和资产管理服务，在资本市场上进行投资或投机交易。
 
-在美国，经营以上业务的金融机构一般称为投资银行；在中国、台湾、日本等亚洲国家称为证券公司；在欧洲则称为商人银行。由于欧洲金融业在历史上多采取混合业务经营，事实上独立的“商人银行”数量不多，大部分都是综合性银行或“全能银行”，即同时兼备商业银行和投资银行的角色。
+==在美国，经营以上业务的金融机构一般称为投资银行；在中国、台湾、日本等亚洲国家或地区称为证券公司；在欧洲则称为商人银行。由于欧洲金融业在历史上多采取混合业务经营，事实上独立的“商人银行”数量不多，大部分都是综合性银行或“全能银行”，即同时兼备商业银行和投资银行的角色。==
 
 美国金融业一般把投资银行按照规模分为三类，即大型（Bulge Bracket），中型（Middle Market）和小型（Boutique）。按照分支机构和业务范围，也可以分为全国性和地区性两类。
 
@@ -216,4 +253,4 @@ Investment banks offer services to both corporations issuing securities and inve
 [ETF简介 | 上海证券交易所]: https://www.sse.com.cn/assortment/fund/etf/home/info/
 [从入门到实战的ETF攻略]: https://www.futunn.com/learn/detail-learn-what-etf-is-in-2-minutes-91363-240616051?global_content=%7B%22promote_id%22%3A13766%2C%22sub_promote_id%22%3A14%7D
 
-[Investing Basics: Bonds, Stocks, Mutual Funds and ETFs]: https://finred.usalearning.gov/Saving/StocksBondsMutualFunds#:~:text=Bonds%2C%20stocks%2C%20mutual%20funds%20and%20exchange%2Dtraded%20funds%2C,basic%20types%20of%20investment%20options.
+[Investing Basics: Bonds, Stocks, Mutual Funds and ETFs]: https://finred.usalearning.gov/Saving/StocksBondsMutualFunds#:

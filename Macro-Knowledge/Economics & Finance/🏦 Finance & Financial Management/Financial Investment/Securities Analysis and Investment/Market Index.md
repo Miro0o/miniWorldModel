@@ -1,4 +1,4 @@
-# Stock Market Index
+# Market Index
 
 [TOC]
 
@@ -14,7 +14,7 @@ https://quote.eastmoney.com/center/
 
 
 
-## Intro
+## Stock Index /Stock Market Index
 > 🔗 https://en.wikipedia.org/wiki/Stock_market_index
 
 In finance, a **stock index**, or **stock market index**, is an index that measures the performance of a stock market, or of a subset of a stock market. It helps investors compare current stock price levels with past prices to calculate market performance.

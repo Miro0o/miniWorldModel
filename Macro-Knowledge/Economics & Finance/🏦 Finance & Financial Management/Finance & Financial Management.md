@@ -16,24 +16,30 @@
 > 🔗 https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E4%BD%93%E7%B3%BB
 
 
-### Financial Market
+### Financial Market (金融市场 /资金市场)
+> 🔗 https://www.shanwei.gov.cn/swjrj/hudong/jrzs/jrzsk/content/post_234911.html#
+
+金融市场又称为资金市场，是资金融通市场。==所谓资金融通，是指在经济运行过程中，资金供求双方运用各种金融工具调节资金盈余的活动，是所有金融交易活动的总称。==在金融市场上交易的是各种金融工具，如股票、债券、储蓄存单等。
+
+**资金融通简称为融资**，一般分为直接融资和间接融资两种：
+- 直接融资是资金供求双方直接进行资金融通的活动，也就是资金需求者直接通过金融市场向社会上有资金盈余的机构和个人筹资;
+- 间接融资则是指通过银行所进行的资金融通活动，也就是资金需求者采取向银行等金融中介机构申请贷款的方式筹资。
+
+金融市场对经济活动的各个方面都有着直接的深刻影响，如个人财富、企业的经营、经济运行的效率，都直接取决于金融市场的活动。
+
 > 🔗 https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA
 
-金融市场，指具有一定规模的资金融通、货币借贷和买卖有价证券的活动和场所。金融市场不一定要在固定的场所中，通过电子通讯等方式完成的交易也可以被认为是金融市场的一部分。金融市场的参与者是资金供求双方，可以是个人、企业、银行、经纪人、证券公司、保险公司、投资机构以及政府机构等。金融市场交易的对象是货币形态的资金商品，并以利息作为价格。而利息通常是资金使用权转移的代价或者是资金参与生成的利润的分割。金融市场是一个大型生态系统，货物和服务的制作，新的资产形式和金融市场内外的这些资产之间的相互作用。
+- 金融市场，指具有一定规模的资金融通、货币借贷和买卖有价证券的活动和场所。
+- 金融市场不一定要在固定的场所中，通过电子通讯等方式完成的交易也可以被认为是金融市场的一部分。
+- 金融市场的参与者是资金供求双方，可以是个人、企业、银行、经纪人、证券公司、保险公司、投资机构以及政府机构等。
+- 金融市场交易的对象是货币形态的资金商品，并以利息作为价格。而利息通常是资金使用权转移的代价或者是资金参与生成的利润的分割。
 
-并非只有市场经济下才有金融市场。计划经济体制下也可以有金融市场，因为没有金融资本就无法调动资源，其存在仍是必须的，但其规模一般不如市场经济下的金融市场规模大，而其运作机制也与市场经济下的金融市场有很大差异，不以喊价逐利套现为目的，虽然避免了动荡与投机，但最终因为灵活性不足而沉没在市场中，俄罗斯等之后也开展了更加竞争力的新金融体系。
-
+金融市场是一个大型生态系统，货物和服务的制作，新的资产形式和金融市场内外的这些资产之间的相互作用。
+ 
 ![](../../../Assets/Pics/Screenshot%202025-04-25%20at%2022.33.23.png)
 ![](../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.31.31.png)
-
-==分类==
-- 按业务活动期限划分：[货币市场](https://zh.wikipedia.org/wiki/%E8%B4%A7%E5%B8%81%E5%B8%82%E5%9C%BA "货币市场") （短期）和[资本市场](https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA "资本市场")（长期）；
-- 按成交后是否立即交割：[现货市场](https://zh.wikipedia.org/wiki/%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA "现货市场")和[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")；
-- 按有价证券是否新发行：[一级市场](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA "一级市场")和[二级市场](https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA "二级市场")；
-- 按地域范围：地方性金融市场、国内性金融市场、国际性金融市场；
-- 按市场职能：货币市场、资本市场、[外汇市场](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%B1%87%E5%B8%82%E5%9C%BA "外汇市场")、[黄金市场](https://zh.wikipedia.org/w/index.php?title=%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "黄金市场（页面不存在）")等。
-
-较常见的一种分类是将金融市场分为短期资金市场和长期资金市场。短期与长期的划分通常以一年为准。短期资金市场即货币市场，包括[同业拆借市场](https://zh.wikipedia.org/w/index.php?title=%E5%90%8C%E4%B8%9A%E6%8B%86%E5%80%9F%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "同业拆借市场（页面不存在）")、[票据贴现市场](https://zh.wikipedia.org/w/index.php?title=%E7%A5%A8%E6%8D%AE%E8%B4%B4%E7%8E%B0%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "票据贴现市场（页面不存在）")、[回购市场](https://zh.wikipedia.org/w/index.php?title=%E5%9B%9E%E8%B4%AD%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "回购市场（页面不存在）")、短期外汇市场等；长期资金市场即资本市场，包括[股票市场](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA "股票市场")、[债券市场](https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA "债券市场")、[基金市场](https://zh.wikipedia.org/w/index.php?title=%E5%9F%BA%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "基金市场（页面不存在）")、[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")和长期外汇市场等。
+   
+并非只有市场经济下才有金融市场。计划经济体制下也可以有金融市场，因为没有金融资本就无法调动资源，其存在仍是必须的，但其规模一般不如市场经济下的金融市场规模大，而其运作机制也与市场经济下的金融市场有很大差异，不以喊价逐利套现为目的，虽然避免了动荡与投机，但最终因为灵活性不足而沉没在市场中，俄罗斯等之后也开展了更加竞争力的新金融体系。
 
 ==金融市场之功效==
 1. 就[中央银行](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%8A%80%E8%A1%8C "中央银行")而言，可增进执行[货币政策](https://zh.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96 "货币政策")之便利。
@@ -43,6 +49,59 @@
 3. 对企业而言，可提供资金出路，或提供资金融通。
 4. 对个人而言，可提供个人储蓄者保有财富的工具，提高个人储蓄投资意愿及其收益。
 5. 对政府而言，金融市场承购政府债券，可减少政府向央行借款，避免通货膨胀，亦使政府资金有出路。
+
+==分类==
+- 按业务活动期限/融资交易期限：[货币市场](https://zh.wikipedia.org/wiki/%E8%B4%A7%E5%B8%81%E5%B8%82%E5%9C%BA "货币市场") （短期金融市场，包括票据贴现市场、短期存贷款市场、短期债券市场和金融机构之间的拆借市场等）和[资本市场](https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA "资本市场")（长期金融市场，包括中长期信贷（贷款）市场和==证券市场==）；
+	- 货币市场是**融通短期**(一年以内)资金的市场，资本市场是**融通长期**(一年以上)资金的市场。货币市场和资本市场又可以进一步分为若干不同的子市场。货币市场包括金融同业拆借市场、回购协议市场、商业票据市场、银行承兑汇票市场、短期政府债券市场、大面额可转让存单市场等。资本市场包括中长期信贷市场和证券市场。中长期信贷市场是金融机构与工商企业之间的贷款市场;证券市场是通过证券的发行与交易进行融资的市场，包括债券市场、股票市场、基金市场、保险市场、融资租赁市场等。 （🔗 https://www.shanwei.gov.cn/swjrj/hudong/jrzs/jrzsk/content/post_234911.html#）
+	- 一般来说证券交易既涉及货币市场，也涉及资本市场。↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+- 按成交后是否立即交割：[现货市场](https://zh.wikipedia.org/wiki/%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA "现货市场")（融资活动成交后立即付款交割;）和[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")（投融活动成交后按合约规定在指定日期付款交割）；
+	- 按照上述各内在联系对金融市场进行科学系统的划分，是进行金融市场有效管理的基础。
+- 按有价证券是否新发行（交易性质）：[一级市场](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA "一级市场")（也称一级市场，是新证券发行的市场;）和[二级市场](https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA "二级市场")（是已经发行、处在流通中的证券的买卖市场）；
+- 按地域范围：地方性金融市场、国内性金融市场、国际性金融市场；
+- 按市场职能/交易对象：本币市场（包括货币市场、资本市场）、[外汇市场](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%B1%87%E5%B8%82%E5%9C%BA "外汇市场")、[黄金市场](https://zh.wikipedia.org/w/index.php?title=%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "黄金市场（页面不存在）")、保险市场。
+
+其中，**较常见的一种分类是将金融市场分为短期资金市场和长期资金市场**。短期与长期的划分通常以一年为准。短期资金市场即货币市场，包括[同业拆借市场](https://zh.wikipedia.org/w/index.php?title=%E5%90%8C%E4%B8%9A%E6%8B%86%E5%80%9F%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "同业拆借市场（页面不存在）")、[票据贴现市场](https://zh.wikipedia.org/w/index.php?title=%E7%A5%A8%E6%8D%AE%E8%B4%B4%E7%8E%B0%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "票据贴现市场（页面不存在）")、[回购市场](https://zh.wikipedia.org/w/index.php?title=%E5%9B%9E%E8%B4%AD%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "回购市场（页面不存在）")、短期外汇市场等；长期资金市场即资本市场，包括[股票市场](https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA "股票市场")、[债券市场](https://zh.wikipedia.org/wiki/%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA "债券市场")、[基金市场](https://zh.wikipedia.org/w/index.php?title=%E5%9F%BA%E9%87%91%E5%B8%82%E5%9C%BA&action=edit&redlink=1 "基金市场（页面不存在）")、[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")和长期外汇市场等。
+
+其它金融市场分类：
+- 按地理范围可分为:
+	- 国际金融市场，由经营国际间货币业务的金融机构组成，其经营内容包括资金借贷、外汇买卖、证券买卖、资金交易等。
+	- 国内金融市场，由国内金融机构组成，办理各种货币、证券及作用业务活动。它又分为城市金融市场和农村金融市场，或者分为全国性、区域性、地方性的金融市场。
+- 按经营场所可分为:
+	- 有形金融市场，指有固定场所和操作设施 的金融市场;
+	- 无形金融市场，以营运网络形式存在的市场，通过电子电讯手段达在交易。
+- 按交易性质划分为:
+	- 发行市场，也称一级市场，是新证券发行的市场;
+	- 流通市场，也称二级市场，是已经发行、处在流通中的证券的买卖市场。
+- 按交易对象划分为折借市场、贴现市场、大额定期存单市场、证券市场(包括股票市场和债券市场)、外汇市场、黄金市场和保险市场。
+- 按交易标的物划分为:
+	- 货币市场
+	- 资本市场
+	- 金融衍生品市场
+	- 外汇市场
+	- 保险市场
+	- 黄金及其他投资品市场
+- 根据融资方式划分为:
+	- 直接融资市场
+	- 间接融资市场
+- 根据具体的交易工具类型划分:
+	- 债券市场
+	- 票据市场
+	- 外汇市场
+	- 股票市场
+	- 黄金市场
+	- 保险市场
+
+> 🔗 https://www.shanwei.gov.cn/swjrj/hudong/jrzs/jrzsk/content/post_234911.html#
+
+和其他市场相比，金融市场具有自己独特的==特征==:  
+- 第一，金融市场是以资金为交易对象的市场。  
+- 第二，金融市场交易之间不是单纯的买卖关系，更主要的是借贷关系，体现了资金所有权和使用权相分离的原则。  
+- 第三，金融市场可以是有形市场，也可以是无形市场。
+
+==金融市场的形成==
+远在金融市场形成以前，信用工具便已产生。它是商业信用发展的产物。但是由于商业信用的局限性，这些信用工具只能存在于商品买卖双方，并不具有广泛的流动性。随着商品经济的进一步发展，在商业信用的基础上，又产生了银行信用和金融市场。银行信用和金融市场的产生和发展反过来又促进了商业信用的发展，使信用工具成为金融市场上的交易工具，激发了信用工具潜在的重要性。在现代金融市场上，信用工具虽然仍是主要的交易工具，但具有广泛流动性的还有反映股权或所有权关系的股票以及其他金融衍生商品，它们都是市场金融交易的工具，因而统称为金融工具。
+
+---
 
 > 🔗 https://en.wikipedia.org/wiki/Financial_market
 
@@ -113,7 +172,7 @@ Trading of currencies and bonds is largely on a bilateral basis, although some b
 There are two basic financial market participant distinctions, **investors** versus **speculators** and **institutional** versus **retail**. Action in financial markets by central banks is usually regarded as intervention rather than participation.
 
 
-### Financial Services
+### Financial Services (金融服务)
 > 🔗 https://en.wikipedia.org/wiki/Financial_services
 
 Financial services are economic services tied to finance provided by financial institutions. Financial services encompass a broad range of service sector activities, especially as concerns financial management and consumer finance.
@@ -152,7 +211,7 @@ Financial products include [insurance](https://en.wikipedia.org/wiki/Insurance 
 - [首次公开募股](https://zh.wikipedia.org/wiki/%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%8B%9F%E8%82%A1 "首次公开募股")
 
 
-### Financial Institutions
+### Financial Institutions (金融机构)
 > 🔗 https://en.wikipedia.org/wiki/Financial_institution
 
 A **financial institution**, sometimes called a **banking institution**, is a [business entity](https://en.wikipedia.org/wiki/Business_entity "Business entity") that provides service as an intermediary for different types of financial monetary transactions. Broadly speaking, there are three major types of financial institution:
@@ -270,16 +329,16 @@ List of investment banks
 ↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
-### Financial Instrument
+### Financial Instrument (金融工具)
 Financial instruments are **assets or contracts used in financial markets for trading, investment, or managing risks**. They include equities, bonds, derivatives, and cash instruments. These tools allow investors and organizations to manage funds, gain returns, or hedge against potential losses
 
 > 🔗 https://en.wikipedia.org/wiki/Financial_instrument
 
-Financial instruments are monetary contracts between parties. They can be created, traded, modified and settled. They can be cash (currency), evidence of an ownership, interest in an entity or a contractual right to receive or deliver in the form of currency (forex); debt (bonds, loans); equity (shares); or derivatives (options, futures, forwards).
+**Financial instruments are monetary contracts between parties.** They can be created, traded, modified and settled. They can be cash (currency), evidence of an ownership, interest in an entity or a contractual right to receive or deliver in the form of currency (forex); debt (bonds, loans); equity (shares); or derivatives (options, futures, forwards).
 
 International Accounting Standards IAS 32 and 39 define a financial instrument as "any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity".
 
-Financial instruments may be categorized by "asset class" depending on whether they are foreign exchange-based (reflecting foreign exchange instruments and transactions), equity-based (reflecting ownership of the issuing entity) or debt-based (reflecting a loan the investor has made to the issuing entity). If the instrument is debt it can be further categorized into short-term (less than one year) or long-term.
+Financial instruments may be categorized by "asset class" depending on whether they are **foreign exchange-based** (reflecting foreign exchange instruments and transactions), **equity-based** (reflecting ownership of the issuing entity) or **debt-based** (reflecting a loan the investor has made to the issuing entity). If the instrument is debt it can be further categorized into short-term (less than one year) or long-term.
 #### Financial Instruments Types
 Financial instruments can be either cash instruments or derivative instruments:
 - Cash instruments – instruments whose value is determined directly by the [markets](https://en.wikipedia.org/wiki/Market_\(economics\) "Market (economics)"). They can be [securities](https://en.wikipedia.org/wiki/Security_\(finance\) "Security (finance)"), which are readily transferable, and instruments such as [loans](https://en.wikipedia.org/wiki/Loans "Loans") and [deposits](https://en.wikipedia.org/wiki/Deposit_\(finance\) "Deposit (finance)"), where both borrower and lender have to agree on a transfer.

@@ -13,7 +13,7 @@
 ↗ [HDL (Hardware Definition Languages)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Verilog](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
 
-↗ [Electronics Computer Engineering (ECE)](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Electronics%20Computer%20Engineering%20(ECE).md)
+↗ [Computer Engineering, Embedded & IoT](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 
 ### Learning Resources

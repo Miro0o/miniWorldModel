@@ -100,7 +100,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ### Overview: Human Society & Human History
-↗ [World History Overview](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/World%20History%20Overview/World%20History%20Overview.md)
+↗ [World's Human History Overview](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
 ### Politics & Demography

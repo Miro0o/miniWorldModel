@@ -383,7 +383,7 @@ In practice, "mixed economy" generally refers to market economies with substanti
     - [State capitalism](https://en.wikipedia.org/wiki/State_capitalism "State capitalism") (Government-dominated capitalist economy)
     - [Socialist Market Economy](https://en.wikipedia.org/wiki/Socialist_market_economy "Socialist market economy") (Mixed socialist)
 ###### 中国特色社会主义市场经济体制
-↗ [中国经济发展](../👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国发展概况/中国经济发展/中国经济发展.md)
+↗ [中国经济发展](../👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国当今发展概况/中国经济发展/中国经济发展.md)
 
 
 ### Economical Indicators
@@ -397,10 +397,9 @@ In practice, "mixed economy" generally refers to market economies with substanti
 
 
 
-## Globalization and Deglobalization
+## Globalization and De-globalization
 > 🔗 https://en.wikipedia.org/wiki/Globalization#
 > 🔗 https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E5%8C%96
-
 
 
 
