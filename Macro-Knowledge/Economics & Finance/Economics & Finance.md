@@ -389,7 +389,7 @@ In practice, "mixed economy" generally refers to market economies with substanti
 ### Economical Indicators
 #### CPI (Consumer price index)
 > 🔗 https://en.wikipedia.org/wiki/Consumer_price_index
-
+#### Annualized Rate of Return
 
 
 ## 🪂 Intro: Finance
