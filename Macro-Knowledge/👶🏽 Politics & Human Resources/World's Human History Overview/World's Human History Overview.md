@@ -9,6 +9,8 @@
 ↗ [中华文明历史概况](../🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ↗ [U.S. History Overview](../🌏%20International%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../🌏%20International%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+
 
 ### Books & Courses
 https://a.co/d/56aE2IE
@@ -19,13 +21,18 @@ https://a.co/d/a6D83vZ
 History of the World Map by Map (DK History Map by Map) Hardcover – September 5, 2023
 by DK (Author)
 
-https://a.co/d/f1X7bxq
+👍 https://a.co/d/f1X7bxq
 Adam's Synchronological Chart or Map of History. Hardcover – August 15, 2007
 by Sebastian Adams (Author)
 
 
 ### Online Resources
-##### Human Evolution
+👍 👍 https://www.si.edu/
+The Smithsonian Institution is the world’s largest museum, education, and research complex, with 21 museums, 14 education and research centers, and the National Zoo—shaping the future by preserving heritage, discovering new knowledge, and sharing our resources with the world.
+
+The Institution was founded in 1846 with funds from the Englishman James Smithson (1765–1829) according to his wishes “under the name of the Smithsonian Institution, an establishment for the increase and diffusion of knowledge.” We continue to honor this mission and invite you to join us in our quest.
+
+#### Human Evolution
 Wikiepedia
 - [Evolution of human intelligence](https://en.wikipedia.org/wiki/Evolution_of_human_intelligence "Evolution of human intelligence")
 - [Human evolution](https://en.wikipedia.org/wiki/Human_evolution "Human evolution")
@@ -157,20 +164,9 @@ https://westportlibrary.libguides.com/worldhistory
 3. [History of the World](https://westportlibrary.libguides.com/worldhistory)
 4. Timeline
 
-
-https://collections.lib.uwm.edu/digital/collection/agdm/id/11346/
-World history timeline : the rise and fall of nations / Oxford Cartographers ; compiled by Terry Hardaker ; distributed in North America by Map Link
-![world_history_timeline_the_rise_and_fall_of_nations](../../../../Assets/Cheat_Sheets/world_history_timeline_the_rise_and_fall_of_nations.jpg)
-
-
 https://geacron.com/home-en/
 Interactive World History Atlas since 3000 BC
 互动世界历史地图集（从公元前3000年开始）
-
-
-https://mp.weixin.qq.com/s/xvGmBagMkYk9ScVreMX_GA
-世界大帝国时空图
-![cf5fe1025176af07caa81dc214ba9022](../../../../Assets/Cheat_Sheets/cf5fe1025176af07caa81dc214ba9022.JPG)
 
 https://sinica.digitalarchives.tw/index.php
 中央研究院数位典藏
@@ -187,6 +183,16 @@ https://sinica.digitalarchives.tw/index.php
 至[近代早期](https://zh.wikipedia.org/wiki/%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F "近代早期")（约1500-1800年），欧洲各国在全球各地[探索](https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E5%A4%A7%E5%8F%91%E7%8E%B0 "地理大发现")、[殖民](https://zh.wikipedia.org/wiki/%E6%AE%96%E6%B0%91 "殖民")，间接推动了文化交流与经济交流。这一时期，欧洲各国在[文艺复兴](https://zh.wikipedia.org/wiki/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4 "文艺复兴")、[宗教改革](https://zh.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9 "宗教改革")、[科学革命](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD "科学革命")与[启蒙运动](https://zh.wikipedia.org/wiki/%E5%90%AF%E8%92%99%E8%BF%90%E5%8A%A8 "启蒙运动")的推动下，在思想、文化与科技领域取得重大进步。到18世纪，知识与技术的积累达到了临界点，[西欧](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AC%A7 "西欧")引爆了[工业革命](https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD "工业革命")，促成了西方文明与东方文明之间的[大分流](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E6%B5%81 "大分流")，并开启了[现代时期](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%97%B6%E6%9C%9F "现代时期")（约1800年-今）。[生产力](https://zh.wikipedia.org/wiki/%E7%94%9F%E4%BA%A7%E5%8A%9B "生产力")的快速发展进一步促进[国际贸易](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93 "国际贸易")与殖民扩张，将不同的文明连接进[全球化](https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E5%8C%96 "全球化")的进程当中，并巩固了[西方世界](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%B9%E4%B8%96%E7%95%8C "西方世界")的主导地位。在过去的250年间，包括两次毁灭性的[世界大战](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0 "世界大战")在内，人类在[人口](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3 "人口")、农业、[工业](https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%B8%9A "工业")、[商业](https://zh.wikipedia.org/wiki/%E5%95%86%E4%B8%9A "商业")、[科学](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6 "科学")、[技术](https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF "技术")、[通讯](https://zh.wikipedia.org/wiki/%E9%80%9A%E8%AE%AF "通讯")、[军事](https://zh.wikipedia.org/wiki/%E5%86%9B%E4%BA%8B "军事")等诸多领域，经历了迅猛的发展。
 
 人类历史的研究有赖于[历史学](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%AD%A6 "历史学")、[考古学](https://zh.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6 "考古学")、[人类学](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E5%AD%A6 "人类学")、[语言学](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6 "语言学")和[遗传学](https://zh.wikipedia.org/wiki/%E9%81%97%E4%BC%A0%E5%AD%A6 "遗传学")等诸多学科的成果。为了研究的方便，学者们[将人类历史划分为不同的时期](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%88%86%E6%9C%9F "历史分期")。
+
+![world_history_timeline_the_rise_and_fall_of_nations](../../../../Assets/Cheat_Sheets/world_history_timeline_the_rise_and_fall_of_nations.jpg)
+<small>World history timeline : the rise and fall of nations / Oxford Cartographers ; compiled by Terry Hardaker ; distributed in North America by Map Link <a>https://collections.lib.uwm.edu/digital/collection/agdm/id/11346/</a></small>
+
+![cf5fe1025176af07caa81dc214ba9022](../../../../Assets/Cheat_Sheets/cf5fe1025176af07caa81dc214ba9022.JPG)
+<small>世界大帝国时空图 <a>https://mp.weixin.qq.com/s/xvGmBagMkYk9ScVreMX_GA</a></small>
+
+
+![696668707-Adam-s-Chart-Full-HD](../../../Assets/Cheat_Sheets/696668707-Adam-s-Chart-Full-HD.pdf)
+<small>Adam's Synchronological Chart or Map of History. Hardcover – August 15, 2007 by Sebastian Adams (Author) <a>https://a.co/d/f1X7bxq</a></small>
 
 
 
@@ -372,6 +378,30 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 
+## Major Ancient Civilizations
+### Ancient Egypt
+> 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
+
+
+### Ancient Mesopotamia
+> 🔗 https://en.wikipedia.org/wiki/Mesopotamia
+
+
+### Ancient India
+> 🔗 https://en.wikipedia.org/wiki/History_of_India
+
+
+### Ancient China
+↗ [中华文明历史概况](../🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+
+
+### Ancient Greece & Rome
+
+
+### Ancient Maya
+
+
+
 ## Post Cold-War and 21th Century: New Challenges & Opportunities
 ### Westernization & Americanization
 
@@ -387,3 +417,4 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 ## Ref
+[Four Great Ancient Civilizations | wikipedia]: https://en.wikipedia.org/wiki/Four_Great_Ancient_Civilizations

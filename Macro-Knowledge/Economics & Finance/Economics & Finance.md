@@ -241,7 +241,7 @@ Building on Marx, and on the theories of the sociologist and philosopher [Pierr
 ##### Labor and Labor Power (劳动与劳动力)
 > 🔗 https://en.wikipedia.org/wiki/Labour_power
 
-==Labour power (German: Arbeitskraft; French: force de travail) is the capacity to work==, a key concept used by Karl Marx in his critique of capitalist political economy. Marx distinguished between the ==capacity to do the work, i.e. labour power==, and the ==physical act of working, i.e. labour.== Human labour power exists in any kind of society, but on what terms it is traded or combined with means of production to produce goods and services has historically varied greatly.
+==Labour power (German: Arbeitskraft; French: force de travail) is the capacity to work==, a key concept used by **Karl Marx** in his **critique of capitalist political economy.** Marx distinguished between the ==capacity to do the work, i.e. labour power==, and the ==physical act of working, i.e. labour.== Human labour power exists in any kind of society, but on what terms it is traded or combined with means of production to produce goods and services has historically varied greatly.
 
 The general idea of labour-power had existed previously in classical political economy. Adam Smith's The Wealth of Nations and David Ricardo's On the Principles of Political Economy and Taxation already referred to the "productive powers of labour". However, Marx made the concept much more precise, critically examining the functions of labour-power in production, how labour-power is used, organized and exploited, and how it is typically valued and priced in bourgeois society.
 
@@ -386,10 +386,38 @@ In practice, "mixed economy" generally refers to market economies with substanti
 ↗ [中国经济发展](../👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国当今发展概况/中国经济发展/中国经济发展.md)
 
 
-### Economical Indicators
-#### CPI (Consumer price index)
+## Economical Indicators
+### Price of Goods
+#### Price Indices ⭐️
+> 🔗 https://en.wikipedia.org/wiki/Price_index
+
+A **price index** (_plural_: "price indices" or "price indexes") is a normalized [average](https://en.wikipedia.org/wiki/Average "Average") (typically a [weighted average](https://en.wikipedia.org/wiki/Weighted_mean "Weighted mean")) of [price](https://en.wikipedia.org/wiki/Price "Price") relatives for a given class of [goods](https://en.wikipedia.org/wiki/Good_\(economics\) "Good (economics)") or [services](https://en.wikipedia.org/wiki/Service_\(economics\) "Service (economics)") in a specific region over a defined time period. It is a [statistic](https://en.wikipedia.org/wiki/Statistic "Statistic") designed to measure how these price relatives, as a whole, differ between time periods or geographical locations, often expressed relative to a base period set at 100.
+
+Price indices serve multiple purposes. Broad indices, like the [Consumer price index](https://en.wikipedia.org/wiki/Consumer_price_index "Consumer price index"), reflect the economy’s general [price level](https://en.wikipedia.org/wiki/Price_level "Price level") or [cost of living](https://en.wikipedia.org/wiki/Cost_of_living "Cost of living"), while narrower ones, such as the [Producer price index](https://en.wikipedia.org/wiki/Producer_price_index "Producer price index"), assist producers with pricing and business planning. They can also guide investment decisions by tracking price trends.
+
+Some widely recognized price indices include:
+- [Consumer price index](https://en.wikipedia.org/wiki/Consumer_price_index "Consumer price index") – Measures retail price changes for consumer goods and services.
+- [Producer price index](https://en.wikipedia.org/wiki/Producer_price_index "Producer price index") – Tracks wholesale price changes for producers.
+- [Wholesale price index](https://en.wikipedia.org/wiki/Wholesale_price_index "Wholesale price index") – Monitors price changes at the wholesale level (historical in some regions).
+- [Employment cost index](https://en.wikipedia.org/wiki/Employment_cost_index "Employment cost index") – Gauges changes in labor costs.
+- [Export price index](https://en.wikipedia.org/wiki/U.S._Import_and_Export_Price_Indexes "U.S. Import and Export Price Indexes") – Tracks export price trends.
+- [Import price index](https://en.wikipedia.org/wiki/U.S._Import_and_Export_Price_Indexes "U.S. Import and Export Price Indexes") – Monitors import price changes.
+- [GDP deflator](https://en.wikipedia.org/wiki/GDP_deflator "GDP deflator") – Reflects price changes across all goods and services in GDP.
+##### CPI (Consumer price index)
 > 🔗 https://en.wikipedia.org/wiki/Consumer_price_index
-#### Annualized Rate of Return
+
+A **consumer price index** (**CPI**) is a statistical estimate of the level of prices of goods and services bought for consumption purposes by households. It is calculated as the weighted average price of a [market basket](https://en.wikipedia.org/wiki/Market_basket "Market basket") of [consumer goods](https://en.wikipedia.org/wiki/Goods "Goods") and [services](https://en.wikipedia.org/wiki/Service_\(economics\) "Service (economics)"). Changes in CPI track changes in prices over time. The items in the basket are updated periodically to reflect changes in consumer spending habits. The prices of the goods and services in the basket are collected (often monthly) from a sample of retail and service establishments. The prices are then adjusted for changes in quality or features. Changes in the CPI can be used to track inflation over time and to compare inflation rates between different countries. While the CPI is not a perfect measure of inflation or the [cost of living](https://en.wikipedia.org/wiki/Cost_of_living "Cost of living"), it is a useful tool for tracking these economic indicators.  It is one of several [price indices](https://en.wikipedia.org/wiki/Price_index "Price index") calculated by many national statistical agencies.
+#### Price Phenomenon
+##### Inflation (通货膨胀)
+##### Deflation (通货紧缩)
+##### Stagflation (停滞性通货膨胀 /滞胀)
+
+
+### Unemployment Rate
+
+
+### Annualized Rate of Return
+
 
 
 ## 🪂 Intro: Finance

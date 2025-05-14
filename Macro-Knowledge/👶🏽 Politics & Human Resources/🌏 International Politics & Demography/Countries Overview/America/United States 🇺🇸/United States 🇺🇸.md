@@ -26,9 +26,29 @@ U.S Department of State Consular Electronic Application Center
 Welcome to the Consular Electronic Application Center! On this website, you can apply for a U.S. Nonimmigrant Visa; apply to renew an A, G, or NATO Visa; apply for an Immigrant Visa; or check the status of your visa application. On this website, you can also pay certain fees associated with your Immigrant Visa application.
 
 
+### Online Library & Encyclopedia 💪💪
+https://www.loc.gov/
+Library of Congress
+
+https://history.house.gov/
+History, Arts, and Archives
+United States House of Representatives
+
+https://www.ncpedia.org/
+NCpedia is the online encyclopedia of North Carolina, and it is supported and staffed by librarians at the [Government & Heritage Library](https://statelibrary.ncdcr.gov/) at [the State Library of North Carolina.](https://statelibrary.ncdcr.gov/)
+
+👍 👍 https://www.si.edu/
+The Smithsonian Institution is the world’s largest museum, education, and research complex, with 21 museums, 14 education and research centers, and the National Zoo—shaping the future by preserving heritage, discovering new knowledge, and sharing our resources with the world.
+
+The Institution was founded in 1846 with funds from the Englishman James Smithson (1765–1829) according to his wishes “under the name of the Smithsonian Institution, an establishment for the increase and diffusion of knowledge.” We continue to honor this mission and invite you to join us in our quest.
+
+
 ### Other Resources
 https://studyinthestates.dhs.gov
 Study in the States offers free government resources that explain the rules and regulations governing the nonimmigrant student process in the United States.
+
+http://www.mappingthenation.com/
+This is a companion site to the book, _Mapping the Nation_, which explores a tremendously creative era in American cartography.
 
 【美国各州介绍（十五）：加利福尼亚州】 https://www.bilibili.com/video/BV18F411f7Yc/?share_source=copy_web
 
@@ -43,6 +63,7 @@ https://liushooter.github.io/UsaVsUsa/
 
 ## Politics & Demography
 ### Political Systems & Governments
+
 #### U.S. Parties
 https://en.wikipedia.org/wiki/Political_parties_in_the_United_States
 
