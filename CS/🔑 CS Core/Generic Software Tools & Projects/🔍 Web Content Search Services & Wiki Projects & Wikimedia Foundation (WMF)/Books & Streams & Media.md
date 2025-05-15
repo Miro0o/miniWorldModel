@@ -33,7 +33,7 @@ https://www.alipansou.com
 
 
 ## Texts & Books & Webs Archives
-### Books
+### Books /Docs
 🔥 Annas Archive
 https://annas-archive.org/
 
@@ -59,9 +59,9 @@ https://libgen.rs
 
 etc... (more is at link below or under this folder of notes. this page is archived locally)
 
-[👍 https://anotherdayu.com/2022/3809/]: Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新
+[👍  Z-library 现阶段可行的访问方法和替代方法 2022 - 持续更新]: https://anotherdayu.com/2022/3809/
 
-[https://scz.617.cn/misc/202307102046.txt]: 电子书下载站Z-Library使用简介
+[电子书下载站Z-Library使用简介]: https://scz.617.cn/misc/202307102046.txt
 
 ---
 Project Gutenberg
@@ -76,6 +76,10 @@ Read more about Project Gutenberg in the [About](https://www.gutenberg.org/abou
 ---
 Planet Ebook
 🏠 https://www.planetebook.com
+
+----
+Scribd
+🏠 https://www.scribd.com/home
 
 
 ### Magazines

@@ -20,6 +20,8 @@
 - ↗ [Database Engines & Search Engines](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Engines%20&%20Search%20Engines.md)
 - ↗ [Embedding Database](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/📲%20Embedding%20Database/Embedding%20Database.md)
 
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../../../../Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+
 
 ### Others
 
