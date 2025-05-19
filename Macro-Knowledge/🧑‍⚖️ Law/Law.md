@@ -19,7 +19,7 @@
 ![](../../Assets/Pics/Screenshot%202025-05-05%20at%2013.32.21.png)
 
 
-### Law Taxonomy 
+### Law Taxonomy
 > 🔗 https://zh.wikipedia.org/wiki/%E6%B3%95%E5%AD%A6#
 
 法学如何分类依各学者不同。

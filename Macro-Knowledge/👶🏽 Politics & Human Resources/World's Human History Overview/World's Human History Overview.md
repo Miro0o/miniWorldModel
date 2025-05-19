@@ -31,7 +31,6 @@ by Sebastian Adams (Author)
 The Smithsonian Institution is the world’s largest museum, education, and research complex, with 21 museums, 14 education and research centers, and the National Zoo—shaping the future by preserving heritage, discovering new knowledge, and sharing our resources with the world.
 
 The Institution was founded in 1846 with funds from the Englishman James Smithson (1765–1829) according to his wishes “under the name of the Smithsonian Institution, an establishment for the increase and diffusion of knowledge.” We continue to honor this mission and invite you to join us in our quest.
-
 #### Human Evolution
 Wikiepedia
 - [Evolution of human intelligence](https://en.wikipedia.org/wiki/Evolution_of_human_intelligence "Evolution of human intelligence")

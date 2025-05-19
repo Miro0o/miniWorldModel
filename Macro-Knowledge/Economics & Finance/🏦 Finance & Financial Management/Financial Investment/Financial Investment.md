@@ -46,7 +46,7 @@ Investors generally expect higher returns from riskier investments. When a low-r
 - 结果的出现时间：投资需要一定投资期间；视乎投机标的，一般投机结果出现时间较短（听信朋友购买外国土地可以升值是较长时间的投机；股票几天内买进卖出是较短时间的投机）；赌博几乎是立即。
 - 赌博属投机的一种，但投机不一定是赌博。投机是根据现时形势判断作出利益最大化的行为，投机可以有根据，赌博不需要根据。股票市场没有“完整分析”不代表世上没有“投资”，如银行定存也属于极低风险的投资。
 
-> 【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+> 【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=3
 
 投资与投机：investment— speculation
 - 投资invest：一种依靠资本投入智力投入而获得更多财富的活动，是勤劳致富、信誉致富、依法致富。“巴非特投资型”。
@@ -56,12 +56,12 @@ Investors generally expect higher returns from riskier investments. When a low-r
 ![](../../../../Assets/Pics/Screenshot%202025-05-13%20at%2011.56.37.png)
 
 
-### Investment Theory
+### 1️⃣ Investment Theory
 #### Investment Gains
->【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=5&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+>【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=5
 #### Investment Risks /Ventures
->【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=6&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
->【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=7&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+>【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=6
+>【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=7
 
 ↗ [Risk Management](../../../../CS/CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
 #### Investment Trades
@@ -71,7 +71,7 @@ Investors generally expect higher returns from riskier investments. When a low-r
 - **融券交易**：则为投资人认为某支股票一定会跌，想要趁高档时逢高卖出，但苦于手中没有足够的持股，因此向证券公司缴交保证金，借来股票逢高卖出，等到股价下跌后，再逢低买回股票，还给证券公司。
 
 
-### Investment Instruments
+### 2️⃣ Investment Instruments
 Financial instruments are **assets or contracts used in financial markets for trading, investment, or managing risks**. They include equities, bonds, derivatives, and cash instruments. These tools allow investors and organizations to manage funds, gain returns, or hedge against potential losses
 
 > 🔗 https://en.wikipedia.org/wiki/Financial_instrument
@@ -267,7 +267,11 @@ venture capital
 4. 系统风险
 5. 操作风险
 6. 法律风险
-### Investment Analysis
+
+
+### 3️⃣ Investment Analysis
+↗ [Security Investment Fundamental Analysis](Securities%20Analysis%20and%20Investment/Security%20Investment%20Fundamental%20Analysis.md)
+↗ [Security Investment Technique Analysis](Securities%20Analysis%20and%20Investment/Security%20Investment%20Technique%20Analysis.md)
 
 
 
