@@ -434,8 +434,8 @@ ACM CCS 2012
 
 ↗ [科技创新人才培养 -- 钱学森](../Study,%20University,%20and%20Education/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
-↗ [How to learn English the right way](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
-- ↗ [外语学习误区及真实方法](../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
+↗ [Learning English the Right Way](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [外语学习误区及真实方法](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -631,12 +631,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../../../Macro-Knowledge/Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Macro-Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../../../Macro-Knowledge/Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Macro-Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**

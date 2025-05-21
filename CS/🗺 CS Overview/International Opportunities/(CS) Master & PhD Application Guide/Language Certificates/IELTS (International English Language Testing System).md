@@ -21,7 +21,7 @@ https://britishcouncil.gelielts.cn
 
 
 ### Related Topics
-↗ [How to learn English the right way](../../../../../Micro-Knowledge/Learning%20&%20Development/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+↗ [Learning English the Right Way](../../../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 
 
 

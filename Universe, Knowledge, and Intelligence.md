@@ -40,8 +40,8 @@ Anti-fragile: Things That Gain From Disorder
 
 ## Intro: Universe, Knowledge, and Intelligence
 ![Human_society.excalidraw | 800](../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_society.excalidraw.md)
-↗ [China 🇨🇳](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-↗ [United States 🇺🇸](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/🌏%20International%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [China 🇨🇳](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [United States 🇺🇸](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
@@ -100,7 +100,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ### Overview: Human Society & Human History
-↗ [World's Human History Overview](Macro-Knowledge/👶🏽%20Politics%20&%20Human%20Resources/World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [World's Human History Overview](Macro-Knowledge/Arts%20&%20Cultures/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
 ### Politics & Demography
@@ -208,3 +208,5 @@ Economic theories divide economic sectors further into [economic industries](ht
 [Hilbert’s Program | Stanford Encyclopedia of Philosophy]: https://plato.stanford.edu/entries/hilbert-program/
 
 [系统科学丨钱学森：我对系统学认识的历程]: https://sass.usst.edu.cn/2021/1213/c12540a261884/page.htm
+
+[]: https://gs.fudan.edu.cn/gsenglish/p2781c2660/list.htm

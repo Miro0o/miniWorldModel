@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Corporation Mangement](../../../👶🏽%20Politics%20&%20Human%20Resources/Corporation%20Mangement/Corporation%20Mangement.md)
+↗ [Corporation Mangement](../../../Human%20Development/Management%20Science/Corporation%20Mangement/Corporation%20Mangement.md)
 
 
 
