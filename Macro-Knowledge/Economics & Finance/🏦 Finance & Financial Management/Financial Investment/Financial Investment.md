@@ -270,8 +270,8 @@ venture capital
 
 
 ### 3️⃣ Investment Analysis
-↗ [Security Investment Fundamental Analysis](Securities%20Analysis%20and%20Investment/Security%20Investment%20Fundamental%20Analysis.md)
-↗ [Security Investment Technique Analysis](Securities%20Analysis%20and%20Investment/Security%20Investment%20Technique%20Analysis.md)
+↗ [Security Investment Fundamental Analysis (FA)](Securities%20Analysis%20and%20Investment/Security%20Investment%20Fundamental%20Analysis%20(FA).md)
+↗ [Security Investment Technique Analysis (TA)](Securities%20Analysis%20and%20Investment/Security%20Investment%20Technique%20Analysis%20(TA).md)
 
 
 

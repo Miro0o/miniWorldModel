@@ -815,7 +815,7 @@ Investment banks offer services to both corporations issuing securities and inve
 分析框架
 - 基本分析
 	- 对象：影响证券未来收益的基本经济要素
-	- 依据：市场价格围绕内在价值波动
+	- 依据：市场价格围绕==内在价值==波动
 	- 内容：
 		- 宏观投资环境分析
 			- 政治因素
@@ -839,7 +839,7 @@ Investment banks offer services to both corporations issuing securities and inve
 		- （5）上市公司信息。（6）宏观经济信息。
 - 技术分析
 	- 对象：证券市场价格变化及规律
-	- 依据：价格是各种因素综合影响的结果
+	- 依据：==价格==是各种因素综合影响的结果
 	- 工具：统计技术、图形分析工具
 	- 内容：
 		- 形态分析
@@ -863,13 +863,13 @@ Investment banks offer services to both corporations issuing securities and inve
 ### Security Investment Fundamental Analysis /FA (基本面分析)
 投资基本分析：宏观中、微观、心理分析；
 
-↗ [Security Investment Fundamental Analysis](Security%20Investment%20Fundamental%20Analysis.md)
+↗ [Security Investment Fundamental Analysis (FA)](Security%20Investment%20Fundamental%20Analysis%20(FA).md)
 
 
 ### Security Investment Technique Analysis /TA (技术面分析)
 技术分析：k线图、波浪理论、基本技术指标（MA、MACD、KDJ , BIAS , PYS, OBV）、黄金交叉、死亡交叉）
 
-↗ [Security Investment Technique Analysis](Security%20Investment%20Technique%20Analysis.md)
+↗ [Security Investment Technique Analysis (TA)](Security%20Investment%20Technique%20Analysis%20(TA).md)
 
 
 ### Real Scenario Analysis

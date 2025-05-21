@@ -173,6 +173,8 @@ At the most general level, economists may define wealth as "the total of anythin
 
 
 ### Industry (产业)
+> ↗ [Macro Economics](Macro%20Economics/Macro%20Economics.md)
+> 
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A
 > 🔗 [三次产业是怎样划分的 | 国家统计局](https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903768.html#:~:text=%E4%B8%89%E6%AC%A1%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%88%92%E5%88%86%E5%A4%A7%E8%87%B4,%E7%95%8C%E5%AE%9A%E4%B8%BA%E7%AC%AC%E4%B8%89%E4%BA%A7%E4%B8%9A%E3%80%82)
 > 🔗 [国民经济行业分类 | 国家统计局]( https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/)
@@ -451,3 +453,9 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 
 [置身事内 | 豆瓣]: https://book.douban.com/subject/35546622/
 《置身事内》通俗，略浅。真的要了解中国经济，尤其是政府的角色，还是推荐周黎安《转型中的地方政府》周飞舟《以利为利》还有徐高的《宏观经济学二十五讲》。兰小欢过分强调政府在经济中的作为，我更倾向于自下而上的自发秩序的作用，也更相信经济学包括中国的普适性大于特殊性。不过，综述、引述、拓展阅读都挺有价值。
+
+[400分CPA一次过六科经验（附超详细备考时间表与各科学习策略） | BT 教育]: https://www.btclass.cn/article/117
+[为什么要考CPA]: https://www.edu.cn/edu/cooperate/gaodunEDU/kszn/CPA/202010/t20201021_2024693.shtml
+[看学霸来谈ACCA、CPA、CFA三者区别，你懂吗？ - Victoria的文章 - 知乎]: https://zhuanlan.zhihu.com/p/22416439
+
+[中华人民共和国职业分类大典]: http://www.789career.com/content-277-294-1.html
