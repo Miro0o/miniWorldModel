@@ -1,4 +1,4 @@
-# Phonology
+# English Phonetics and Phonology
 
 [TOC]
 
