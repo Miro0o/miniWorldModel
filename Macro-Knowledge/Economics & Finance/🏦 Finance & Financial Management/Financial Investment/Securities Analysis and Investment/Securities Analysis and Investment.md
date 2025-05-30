@@ -904,3 +904,5 @@ Investment banks offer services to both corporations issuing securities and inve
 [从入门到实战的ETF攻略]: https://www.futunn.com/learn/detail-learn-what-etf-is-in-2-minutes-91363-240616051?global_content=%7B%22promote_id%22%3A13766%2C%22sub_promote_id%22%3A14%7D
 
 [Investing Basics: Bonds, Stocks, Mutual Funds and ETFs]: https://finred.usalearning.gov/Saving/StocksBondsMutualFunds#:
+
+[北京证券交易所都要来了，你还没分清新三板和老三板？]: https://www.jiading.gov.cn/xinwen/jddt1/msxw/content_745663

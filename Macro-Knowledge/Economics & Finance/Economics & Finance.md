@@ -457,5 +457,8 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 [400分CPA一次过六科经验（附超详细备考时间表与各科学习策略） | BT 教育]: https://www.btclass.cn/article/117
 [为什么要考CPA]: https://www.edu.cn/edu/cooperate/gaodunEDU/kszn/CPA/202010/t20201021_2024693.shtml
 [看学霸来谈ACCA、CPA、CFA三者区别，你懂吗？ - Victoria的文章 - 知乎]: https://zhuanlan.zhihu.com/p/22416439
+[2025年CPA备考攻略＋备考资料无偿分享（含学习框架+视频课程+超全笔记） | 知乎]: https://www.zhihu.com/tardis/zm/art/525836641?source_id=1003
+[ 2024年CFA备考资料收集（整理版）｜ 知乎]: https://zhuanlan.zhihu.com/p/409044958
 
 [中华人民共和国职业分类大典]: http://www.789career.com/content-277-294-1.html
+
