@@ -8,7 +8,7 @@
 ### Slides Related Resources
 ↗ [Human-Data Interactivity](../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Data%20Interactivity/Human-Data%20Interactivity.md)
 
-↗ [Creation & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Creation%20&%20Graphics%20&%20Animation/Creation%20&%20Graphics%20&%20Animation.md)
+↗ [Photography & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Photography%20&%20Graphics%20&%20Animation/Photography%20&%20Graphics%20&%20Animation.md)
 
 ↗ [Awesome CLI Integration /Markdown Integration](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md#Markdown%20Integration)
 ↗ [Utilities /Presentations](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Utilities.md#Presentations)

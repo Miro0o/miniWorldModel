@@ -32,7 +32,7 @@ Time line of U.S. political parties
 
 
 ## Intro
-![NMAH-ET2014-41022](../../../../../../../../Assets/Cheat_Sheets/NMAH-ET2014-41022.jpg)
+![NMAH-ET2014-41022](../../../../../../../Assets/Illustrations/U.S./NMAH-ET2014-41022.jpg)
 <small><a> https://www.si.edu/object/nmah_527958</a></small>
 
 

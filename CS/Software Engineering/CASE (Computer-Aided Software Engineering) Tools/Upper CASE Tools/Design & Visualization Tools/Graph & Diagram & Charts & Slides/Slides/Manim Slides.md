@@ -6,7 +6,10 @@
 
 ## Res
 🏠 https://github.com/jeertmans/manim-slides
-↗ [Manim (Community Edition)](../Manim%20(Community%20Edition).md)
+
+
+### Related Topics
+↗ [Manim](../Manim.md)
 
 
 

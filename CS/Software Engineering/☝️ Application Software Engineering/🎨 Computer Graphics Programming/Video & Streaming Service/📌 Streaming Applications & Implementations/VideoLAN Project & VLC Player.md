@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Creation & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Creation%20&%20Graphics%20&%20Animation/Creation%20&%20Graphics%20&%20Animation.md)
+↗ [Photography & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Photography%20&%20Graphics%20&%20Animation/Photography%20&%20Graphics%20&%20Animation.md)
 
 
 

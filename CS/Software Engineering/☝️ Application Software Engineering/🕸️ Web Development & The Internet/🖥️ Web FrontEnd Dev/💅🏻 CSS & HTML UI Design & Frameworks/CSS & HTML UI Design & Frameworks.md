@@ -13,7 +13,7 @@
 ↗ [Web Application Galleries](../../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
 ↗ [Graph & Diagram & Charts & Slides](../../../../CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Graph%20&%20Diagram%20&%20Charts%20&%20Slides/Graph%20&%20Diagram%20&%20Charts%20&%20Slides.md)
 
-↗ [Creation & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Creation%20&%20Graphics%20&%20Animation/Creation%20&%20Graphics%20&%20Animation.md)
+↗ [Photography & Graphics & Animation](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Photography%20&%20Graphics%20&%20Animation/Photography%20&%20Graphics%20&%20Animation.md)
 
 
 ### UI Kits

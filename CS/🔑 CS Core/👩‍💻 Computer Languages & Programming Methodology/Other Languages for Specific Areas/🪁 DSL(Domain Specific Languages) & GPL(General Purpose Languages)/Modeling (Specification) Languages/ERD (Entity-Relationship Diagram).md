@@ -9,9 +9,9 @@
 
 
 ### Tools
-↗ [Powerdesigner](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Database%20Logical%20Design%20Tools/Powerdesigner.md)
+↗ [Powerdesigner](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Database%20Logical%20Design%20Tools/Powerdesigner.md)
 ↗ [starUML](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/UML%20Tools/starUML.md)
-↗ [PDManer](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Database%20Logical%20Design%20Tools/PDManer.md)
+↗ [PDManer](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Database%20Logical%20Design%20Tools/PDManer.md)
 
 
 ### Languages
