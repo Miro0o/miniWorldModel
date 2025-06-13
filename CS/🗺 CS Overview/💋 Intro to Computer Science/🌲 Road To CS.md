@@ -460,7 +460,14 @@ ACM CCS 2012
 🔗 [What Does "TLDR" Mean, and How Do You Use It?](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/_)
 
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
-#### Universities' CS Training Scheme
+
+🎬【真的有大学开了《成年人社会常识课》】 https://www.bilibili.com/video/BV1eWxneME3Q/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+没错，是我开的这门课。 不知道大家像不像我一样，从小到大没有人教我们如何去生活，如何去认识这个世界…… 只是一直被要求好好学习念书做题，然后一毕业就突然要独自面对这个社会这个世界了，但是很多的社会常识生活技能我们是不知道的。学校以为家庭教，家庭以为学校教……结果就是“不是大学生吗？这都不知道？” 很多人说出社会就知道了，吃过亏就知道了，但吃亏不是老师，吃亏是伤害， 我想避免学生受到伤害本身就是老师该做的事情， 于是我申请开了这门课。 希望你学会的不仅仅是知识， 而是学会获取知识的方法。 希望你做知识的管理者 ，而不仅仅是拥有者。 但我最希望你明白学习、工作等等等等都只是生活的一部分， 希望你学会用自己的方式生活。
+
+🏠 https://ac-wiki.org/
+高等教育学社基础知识开源建设工程
+_专为大学生群体打造的知识共享平台，助力学业与社会衔接。 由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
+#### Knowing Universities' Courses Structure
 Computer Science
 - ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Appendix/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
 - ↗ [斯坦福大学计算机专业培养方案剖析](../Appendix/斯坦福大学计算机专业培养方案剖析.md)
@@ -473,11 +480,11 @@ Software Engineering
 
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
-13. Quick CS Intro
+1. Quick CS Intro
 	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 	2. ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
-14. CS Core /Foundation
-	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+2. CS Core /Foundation
+	1. This is hard but foundational. Nevertheless, you can learn these knowledge in parallel with other interesting course found in below specific CS fields.
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
@@ -492,56 +499,56 @@ Software Engineering
 ### 2️⃣ CS Specific Fields / CS Applications
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
-15. Theoretical Computer Science & Algorithms
+1. Theoretical Computer Science & Algorithms
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
-16. Computer System
+2. Computer System
 	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	2. etc.
-17. Software Engineering
+3. Software Engineering
 	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 	5. etc.
-18. Large Scale Software System Architecture /Cloud
+4. Large Scale Software System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 	4. etc.
-19. Data Scientist /AI
+5. Data Scientist /AI
 	1. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
-20. IoT /Hardware /Computer Engineering
+6. IoT /Hardware /Computer Engineering
 	1. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 	3. etc.
-21. Web3 /Metaverse /Cryptocurrency
+7. Web3 /Metaverse /Cryptocurrency
 	1. ↗ [Web 3.0](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/Web%203.0.md)
 	2. etc.
-22. Human-Computer Interaction
+8. Human-Computer Interaction
 	1. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
-23. Computer Security
+9. Computer Security
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 	2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 	3. etc.
-24. etc..
+10. etc..
 
 
 ### 3️⃣ Embark your life with CS!
+↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+- ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+- ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
+
 ↗ [Academics](../../Academics%20🎓/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
 - ↗ [Academic Institutions in Electronic & Information Fields](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
-↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
-
-↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
-- ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
-- ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
+↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 
@@ -1037,14 +1044,11 @@ https://github.com/Y4er
 
 
 ### Campus Lifes
-↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
----
-[用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
+🔗 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
----
-[复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
+🔗 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
 
 
 ### Career Guidance & Opportunities
@@ -1090,6 +1094,10 @@ The Cognitive Bias Codex
 https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
+---
+https://github.com/zijie0/HumanSystemOptimization
+健康学习到150岁 - 人体系统调优不完全指南
 
 
 

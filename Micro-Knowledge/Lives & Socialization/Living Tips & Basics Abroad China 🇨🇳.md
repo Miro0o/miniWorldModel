@@ -26,8 +26,7 @@ Immigration Medical Examination ｜ 出国移民体检
 
 
 
-
-## 👉 海外生活
+## 👉 海外生活基础
 ### 物品清单
 71 【留子赴美行李准备（主打一个啥都想带） - C歪 | 小红书 - 你的生活指南】 😆 gfdwPd7lCiAdXu2 😆 https://www.xiaohongshu.com/discovery/item/6689a2aa000000000a007e67?source=webshare&xsec_token=CBbTnB0bOzgop5WNFzuv0r-Zum9DHdL3SaJU9VcwiS9Vc=&xsec_source=pc_share
 
@@ -45,6 +44,16 @@ Immigration Medical Examination ｜ 出国移民体检
 办理完驾驶证公证，并不一定就可以直接在境外驾驶车辆，不同的国家对于“认证”是有差异的，有部分国家并不认可驾照公证件，原因在于他们不能判断你这个“证儿”的真假，必须还要经过权威机构对该公证书的真伪进行证明，即我们所说的“认证”。
 
 领事认证有两种，一种是中国外交部认证，经我国外交部领事司或其委托(授权)的机构办理外交部领事认证；另一种就是所去国家驻华大使馆或办事处的认证。前者代表中国外交部认可公证书信息的真实性，后者是目的地国家的驻华机构(大使馆、办事处)认可公证书信息真实性。仅需要第一种认证的为“单认证”；办理外交部领事认证后，仍需目的地国家驻华机构办理使馆领事认证的称为“双认证”。因此，在准备驾车出境前，要向目的地国家驻华使馆、办事处或者我国外交部进行咨询，或者登陆中国外交部官方网站，从里面的领事认证专栏查询，确认是否需要公证？公证后是否需要办理认证？应该办理单认证还是双认证？应该准备什么材料、注意须知等等。
+
+
+### 手机
+https://youtu.be/451AtwVcFew?si=pr1r-bll8FEBN4Hi
+https://youtu.be/Lg8ksYyyrfk?si=zZDT1c5_03USmJ_d
+https://youtu.be/IaDFSZ9UnVg?si=SLKMOg-a0c8qe2xO
+https://youtu.be/WM8ZqWb0UAY?si=fbh9cqeVX-l6ajpo
+
+https://youtu.be/IaDFSZ9UnVg?si=zuI1bH8q7ZcV8Fvi
+怎样选购海外二手iPhone｜海鲜市场避坑指南｜识别商家技巧｜海外iPhone购买建议｜如何查序列号IMEI｜二手成色如何分辨
 
 
 ### 电话卡
@@ -172,33 +181,88 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 71 【替大家试过了，油管才是国际生的学习神器 - any爬藤竞赛精选 | 小红书 - 你的生活指南】 😆 yBLzVQlihQmtygn 😆 https://www.xiaohongshu.com/discovery/item/6688f7cd000000001f0053bb?source=webshare&xsec_token=CBuBKhOUy6oodGoMlreREVdU2tJHlDPqec2tZOrTwloo4=&xsec_source=pc_share
 
 
-
-## 👉 海外产品和大陆产品差异
-### 手机
-https://youtu.be/451AtwVcFew?si=pr1r-bll8FEBN4Hi
-https://youtu.be/Lg8ksYyyrfk?si=zZDT1c5_03USmJ_d
-https://youtu.be/IaDFSZ9UnVg?si=SLKMOg-a0c8qe2xO
-https://youtu.be/WM8ZqWb0UAY?si=fbh9cqeVX-l6ajpo
-
-https://youtu.be/IaDFSZ9UnVg?si=zuI1bH8q7ZcV8Fvi
-怎样选购海外二手iPhone｜海鲜市场避坑指南｜识别商家技巧｜海外iPhone购买建议｜如何查序列号IMEI｜二手成色如何分辨
-
-
-
-## Ref
-挂靠、移民、假结婚，为了留在美国，他们都付出了什么？ - Doctor No的文章 - 知乎
-https://zhuanlan.zhihu.com/p/22044945
-
-[这位在中国生活了20年的芬兰妈妈，为何“一怒之下”，放弃事业带女儿回国读书？ ]: https://www.sohu.com/a/618058897_119570
-
+### 情感生活
 中国男生在德国留学好谈德国女朋友吗？ - SupriseSucker的回答 - 知乎
 https://www.zhihu.com/question/443962153/answer/1913195992980914278
 
-当你来到美国，最让你惊讶的是什么？ - 知乎用户zuP0YW的回答 - 知乎
-https://www.zhihu.com/question/510075038/answer/102983291926
+
+不难，但是典型白女基本没可能
+
+先叠个甲，我说的东西来源于我的个人经历，一般针对对象是dating和situationship打底，但是还是想谈的；那种只谈恋爱不瞎玩的还有纯玩的都不在讨论范围之内
+
+对中国男人好感排名的话
+
+韩娱妹＞亚比＞二刺螈＞越南女生＞中东女生＞南欧女生＞德国女生＞东欧女生＞尼妹＞北欧西欧女生
+
+后面所有的种族只要沾了前三个基本都可以放在前三个里面，有真喜欢中国文化的太少了，不放在里面了，但是能接触到可以放在第一位
+
+---
+
+下面具体解释一下
+
+亚比或者raver这个圈子我的体感对国籍种族没有任何隔阂，只要你够cooooool，硬件也不用多好，有点小才艺唱歌吉他画小画等等都行，一定有妹子来喜欢你。同时你一般要支持LGBTQ、对素食动保环保等见怪不怪、喜欢点摇滚重型音乐或者小众电子乐，做不到建议找别的
+
+韩娱妹怎么说呢，其实是喜欢韩国人的，但是这边韩国人太多带着toxic mannity，这又和韩娱妹喜欢的那种[Kpop公司](https://zhida.zhihu.com/search?content_id=730343034&content_type=Answer&match_order=1&q=Kpop%E5%85%AC%E5%8F%B8&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NDk5ODc1MTAsInEiOiJLcG9w5YWs5Y-4IiwiemhpZGFfc291cmNlIjoiZW50aXR5IiwiY29udGVudF9pZCI6NzMwMzQzMDM0LCJjb250ZW50X3R5cGUiOiJBbnN3ZXIiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.ryzvJCZMQE1IR57DBOBOyLHyXT9XUAe0nFtME1X494w&zhida_source=entity)营造出的东西冲突了，俺们中国男人那套有点性压抑又能撩一撩的感觉正好是她们喜欢的
+
+二次元不多说了，最感谢[米哈游](https://zhida.zhihu.com/search?content_id=730343034&content_type=Answer&match_order=1&q=%E7%B1%B3%E5%93%88%E6%B8%B8&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NDk5ODc1MTAsInEiOiLnsbPlk4jmuLgiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjo3MzAzNDMwMzQsImNvbnRlbnRfdHlwZSI6IkFuc3dlciIsIm1hdGNoX29yZGVyIjoxLCJ6ZF90b2tlbiI6bnVsbH0.t7HWVq8jLA-Qojoc_745kGYu5yNe4Yu7JMWs7s_u_iY&zhida_source=entity)的一集，而且我们中国小留人均沾点二次元
+
+
+中东女生得分三类，一类原教旨的谁都没机会，国内的一些回民都不一定符合人家要求；一类就照着白男下手的，但是其实不多；第三类就是现在很多二代三代移民，生活上除了重要节日做个礼拜不吃猪肉没有别的区别的，这些里面对中国人有好感的还真不少。一方面中国男人多少沾点大男子主义，这符合她们那种半开放不开放的心智；另一方面，一般这种女生都对亚洲男人比较温柔会照顾人很看重。
+
+中东女生她们一般希望你有一些大男子主义，从积极角度和消极角度都是，原因还是她们一般半开放不开放。其他角度体现的就是一般中东女生再喜欢你也需要让你开口约她出去玩，给她买花；也会很乐意给你做饭收拾屋子，扮演一个娇妻的角色。
+
+越南也没啥可说的吧，接触了之后对越南的文化认同还蛮震惊的，他们大多数人都承认和我们是一个文化，很多越南女生不想谈本国人，又觉得跟白男中东男的聊不到一起去，那我们中国男人就刚好符合要求了
+
+欧洲白女放一起说吧，我接触的都是前三种，整体感觉确实一般对亚洲人没兴趣。我朋友的经历来说，除了前三种以外那些对家庭有规划的也会喜欢中国人，因为她们觉得中国男人比较符合她们好男人的想象；然后那种nerd女生也会喜欢中国人，中国人很多都给人一种nerd但是也能玩起来的感觉，吸引力比那种典型的nerd好很多，也不会嫌弃对象是nerd
+
+尼妹，没有参考样本，他们太喜欢抱团了，在这边那种年轻人的圈子里一般也都是尼哥和他们的女朋友，尼妹更喜欢一起玩真接触不到，有好这口的老哥可以科普一下
+
+---
+
+整体来讲我们的优势就是三点
+
+1.能爆米，买礼物有心思
+
+2.温柔，会照顾人，做饭好吃
+
+3.没体味，干净，私生活也比较干净
+
+---
+
+同时想date国外女生要做到的点：
+
+健身健身健身，不一定要有肌肉多大，最起码看着不是胖或者虚，而且就算你胖或者过于瘦很难练出来，健身也能让你的气质体态变好
+
+英语德语怎么着你得会一个吧，坐着等中文系的那属实有点不太现实，最起码不能喝多了就给人家蹦中国字了
+
+找到自己风格，这边社会氛围比较开放可以尽情尝试自己的风格，长发、烫发染发、胡子、高跟鞋、裙子、穿孔一律不会影响你的实习等经历，去尝试适合自己的就好了，德国留学又不像英国只有一年（乐）
+
+别怕冒犯，肢体动作语言你觉得冒犯了人家可能一直等着呢，她们不舒服了绝对会告诉你到此为止的，所以大胆干就可以了
+
+---
+韩娱妹很小众，而且她们会比较喜欢亚洲潮男；亚比和二刺猿一般只能当情人和炮友；
+
+越南女生不难相处，比中国女生还好追点；
+
+北非的对中国男生偏见少，很多看重亚洲男人细心照顾人；
+
+俄乌的不难追，但有些太浪了，容易处成包月妓女；
+
+波兰基本处于难易的交界点，比波兰更发达的地方，亚洲男生生存恶劣程度线性上升。
+
+黑女大多数看不上亚洲男人长相，但是偏见没有白人那么多，有些过日子型的黑女也能接受亚男。
+
+内向nerd型白女，娇滴滴的白女有一些能接受综合条件比较好的亚男。
+
+典型社交型、派对动物白女基本没可能，能跟你表面过得去，不骂你就算好事了。
+
+
+
+## 👉 海外和大陆差异
+### 美国
+[当你来到美国，最让你惊讶的是什么？ - 知乎用户zuP0YW的回答 - 知乎]: https://www.zhihu.com/question/510075038/answer/102983291926
 
 刚来美国的时候在[东北部](https://zhida.zhihu.com/search?content_id=713711933&content_type=Answer&match_order=1&q=%E4%B8%9C%E5%8C%97%E9%83%A8&zhida_source=entity)一个小城市和一帮本科生合租，开了不少眼界。
-
 1. 我室友吃泡面从来不单独烧水，直接面碗接凉水然后放微波炉里热；最牛逼的是后来我发现他吃米饭也是这样做。
 2. 一天我打扫完厨房，扫出一地的灰尘残渣，但是我家没有簸箕所以没法铲起来。我跑去问我室友家里有没有簸箕，他说没有，然后他用吸尘器尝试吸起来。但由于厨房使用的是木地板，吸尘器很难用。他思考片刻之后把所有垃圾都扫到客厅的地毯上，然后再用吸尘器吸起来。Bingo！
 3. 下鹅毛大雪，地上已经堆了5inch的雪，直播里几乎都看不到人了，不影响[football比赛](https://zhida.zhihu.com/search?content_id=713711933&content_type=Answer&match_order=1&q=football%E6%AF%94%E8%B5%9B&zhida_source=entity)照常进行。
@@ -226,3 +290,12 @@ https://www.zhihu.com/question/510075038/answer/102983291926
 25. 学贷并没有国内说的那么可怕，我所有室友只要专注还贷，毕业两年内就可以还清。
 26. （03/09/2025更新）美国很多地方（或者绝大多数地方）路上是没有摄像头的（你能看到的摄像头一般都是用来监测车道流量来控制路口红绿灯时间的），所以也就是说绝大多数路上你偶尔闯个红灯，压个实线或者超个速是根本没人管你的。我刚在美国开车的时候一天连闯两个红灯快吓死了，以为要上法庭，但其实只要没有被警察抓现行，基本没有任何后果。国内那种闯红灯之后马上收到短信告诉你扣分罚款的情况在美国基本是不存在的。
 27. 还是说开车。很多人都知道美国高速上司机普遍超速，这是事实。基本上限速70（单位英里，差不多112km）的高速绝大多数都开80。我想补充的是，很多美国人开车是非常凶悍的，尤其是开福特道奇雪佛兰皮卡的红脖司机简直神挡杀神。我经常看到前面超车道有龟速车（其实也并不慢，顶多就是压着限速开）和大车并行占道，后面的皮卡司机直接压上去把鼻子顶在前车屁股上给压力要求加速让路的，好多次我感觉皮卡的前保险杠都顶着前车了，凶猛得一比（时速110km左右）。有时候我跟着龟速车，发现有皮卡从后面靠近的时候，我就变道给皮卡大哥让路，让大哥去给龟速车上压力，大哥往往心领神会一脚油门上去把前车吓得魂飞天外。
+28. 中国人的笑是咧嘴笑，下唇张开推动上唇最后挤压苹果肌，所以国人苹果肌普遍不怎么发达。西方人一般是调用苹果肌牵动上嘴唇，从而带动下嘴唇做出笑的动作，如果刻意一点，绷直下嘴唇，就是个西式标准假笑。
+	1. 我自己对着镜子试了一下，真的做不到微笑且露牙龈的，以我自己来说，要露牙龈必须要大笑，实际也不算大笑，大笑我的嘴唇还是包着牙龈的，要做到露牙龈，必须非常怪异的口型，就是张大嘴，但同时要控制苹果肌，将上嘴唇用力往上拉，才行但是镜子里的效果就是非常怪异，
+
+
+
+## Ref
+[挂靠、移民、假结婚，为了留在美国，他们都付出了什么？ - Doctor No的文章 - 知乎]: https://zhuanlan.zhihu.com/p/22044945
+
+[这位在中国生活了20年的芬兰妈妈，为何“一怒之下”，放弃事业带女儿回国读书？ ]: https://www.sohu.com/a/618058897_119570

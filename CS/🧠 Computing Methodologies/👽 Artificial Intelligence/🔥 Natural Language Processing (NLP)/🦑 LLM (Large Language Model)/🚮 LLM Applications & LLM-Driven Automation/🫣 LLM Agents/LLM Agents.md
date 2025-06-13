@@ -18,6 +18,10 @@
 ↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
+### Other Resources
+https://www.coze.cn/
+
+
 
 ## LLM Agent
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
