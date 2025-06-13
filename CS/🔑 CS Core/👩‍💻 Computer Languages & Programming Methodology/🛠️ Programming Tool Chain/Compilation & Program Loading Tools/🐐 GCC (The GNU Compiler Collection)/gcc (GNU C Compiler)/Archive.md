@@ -5,7 +5,7 @@
 >  official docs (2016)
 >  https://gcc.gnu.org/onlinedocs/gcc-6.1.0/gcc.pdf
 
-g++ is a C++ compiler, belonging to GCC ([[../../../../../../🗺 CS Overview/🗂️ Archive/CS entries quick-look#GUN|GUN]] Compile Collection).
+g++ is a C++ compiler, belonging to GCC ([[../../../../../../../Assets/🗃 Archive/🗂️ Archive/CS entries quick-look#GUN|GUN]] Compile Collection).
 gcc(GNU C Compiler) is a C compiler, also belonging to GCC( GUN Compile Collection). 
 
 # g++

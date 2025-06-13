@@ -17,12 +17,12 @@
 
 
 ### Courses
-🏫 MIT ↗ [6.5840 (6.824) Distributed Systems](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.5840%20(6.824)%20Distributed%20Systems/6.5840%20(6.824)%20Distributed%20Systems.md)
+🏫 MIT ↗ [6.5840 (6.824) Distributed Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.5840%20(6.824)%20Distributed%20Systems/6.5840%20(6.824)%20Distributed%20Systems.md)
 > 要说“分布式系统的经典学习资料”，MIT 6.824（即 MIT 分布式系统课程） 一定位居榜首。
 > 这门课程已经有 20 年历史，日前公布了 2020 年春季课表，与往年不同的是，除了传统的文字介绍，官方还放出了高清课程视频。
 
 
-🏫 CMU ↗ [15-440 & 640 Distributed Systems](../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-440%20&%20640%20Distributed%20Systems/15-440%20&%20640%20Distributed%20Systems.md)
+🏫 CMU ↗ [15-440 & 640 Distributed Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-440%20&%20640%20Distributed%20Systems/15-440%20&%20640%20Distributed%20Systems.md)
 > 这是分布式系统的入门课，主要是针对本科生。推荐下14年Dave和Srini上的，特色之一是用了Go（那阵子Dave特别着迷于go）地址在 
 > http://www.cs.cmu.edu/~dga/15-440/S14/
 

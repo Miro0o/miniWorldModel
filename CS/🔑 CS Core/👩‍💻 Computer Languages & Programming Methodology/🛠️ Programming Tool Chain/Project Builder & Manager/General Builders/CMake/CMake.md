@@ -12,7 +12,7 @@
 >
 > 📜 [CLion -- CMake quick tutorial](https://www.jetbrains.com/help/clion/2021.3/quick-cmake-tutorial.html#ctest)
 > 🎯 [CMake quick-tutorial](https://juejin.cn/post/6844904015587704839)
-> 📖 [[../../../../../../🗺 CS Overview/🗂️ Archive/CS entries quick-look#CMake|about CMake]]
+> 📖 [[../../../../../../../Assets/🗃 Archive/🗂️ Archive/CS entries quick-look#CMake|about CMake]]
 >
 > 🔗 Refs  :
 >

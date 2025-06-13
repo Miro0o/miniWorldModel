@@ -4,6 +4,11 @@
 
 
 
+## Res
+### Related Topics
+
+
+
 ## 📌 Guidelines & Roadmaps
 ### 🇨🇳 国内高校的挣扎与开拓
 > 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大。
@@ -98,10 +103,19 @@ yet another insignificant programming notes - NTU
 https://github.com/jobbole
 伯乐在线 - 各种编程资源大全
 
+https://github.com/jwasham/coding-interview-university
+- I originally created this as a short to-do list of study topics for becoming a software engineer, but it grew to the large list you see today. After going through this study plan, [I got hired as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! You probably won't have to study as much as I did. Anyway, everything you need is here.
+- I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+- **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that is below. I'll help you get there without wasting your precious time.
+- The items listed here will prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
+- _Best of luck to you!_
+
 
 
 ## CS & IT in Difference Aspects
-There are multiple aspects & paths to learn or to get to know what is this enormous discipline about. Many countries and societies likes to approach to this domain from following three dimensions: Industry, School, and Academia, or so called "产、学、研".
+There are multiple aspects & paths to learn or to get to know the enormous contents this discipline of Computer Science about. Many countries and societies likes to approach to this domain from following three dimensions: Industry, School, and Academia, or so called "产、学、研".
+
+> 个人认为，对于cs这门学科的学习路线是一定和个人未来规划强耦合的。不同的未来规划要求个人掌握不同方面、不同深度的内容。这里只是简单地根据产业和学术界进行了知识的划分，目的是为了给出在产业或学界发展所需的知识的全貌。虽然一个人不需要真的走过地球上每一寸土地，但是有一个覆盖地球每一寸土地的地图还是很有必要的。
 
 
 ### Industry (产)
@@ -109,9 +123,7 @@ There are multiple aspects & paths to learn or to get to know what is this enorm
 
 
 ### School (学)
-Usually this is reflected from universities' program names and course names. Hence, they are the CS most familiar to students from related majors.
-
-This note is organized following this aspects as well.
+Usually this is reflected from universities' various programs and their courses. Hence, they are the CS most familiar to students from related majors.
 
 CS Core
 - ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
@@ -430,10 +442,10 @@ ACM CCS 2012
 
 
 ### 0️⃣ Before you hit the road ...
-↗ [（大陆高校）大学生活质量指北](../Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
-↗ [科技创新人才培养 -- 钱学森](../Study,%20University,%20and%20Education/科技创新人才培养.md)
-↗ [我们需要怎样的数学教育？](../Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
+↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
+↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
 ↗ [Learning English the Right Way](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 - ↗ [外语学习误区及真实方法](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/外语学习误区及真实方法.md)
 
@@ -450,8 +462,8 @@ ACM CCS 2012
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
 #### Universities' CS Training Scheme
 Computer Science
-- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
-- ↗ [斯坦福大学计算机专业培养方案剖析](../Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Appendix/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
+- ↗ [斯坦福大学计算机专业培养方案剖析](../Appendix/斯坦福大学计算机专业培养方案剖析.md)
 - 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
 - 🔗 [上海交通大学 ｜ 计算机科学与技术(081200)--培养方案基本信息](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/13564.htm)
 
@@ -522,14 +534,14 @@ Software Engineering
 ### 3️⃣ Embark your life with CS!
 ↗ [Academics](../../Academics%20🎓/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Institutions in Electronic & Information Fields](../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+- ↗ [Academic Institutions in Electronic & Information Fields](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
-↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 
-↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)
-- ↗ [(CS) Master & PhD Application Guide](International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
-- ↗ [Summer Camp & Exchange Programs](International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
+↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+- ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+- ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 
 
@@ -848,7 +860,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Academic Research Group & Tutors Profiles](../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
+> ↗ [Academic Research Groups - Profiles & Vacancies](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -1025,8 +1037,8 @@ https://github.com/Y4er
 
 
 ### Campus Lifes
-↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)
-↗ [（大陆高校）大学生活质量指北](../Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ---
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
@@ -1037,7 +1049,7 @@ https://github.com/Y4er
 
 ### Career Guidance & Opportunities
 #### CS Professional Career
-↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 #### non-CS Professional Career
 ---
 🔥 https://www.imaginephd.com
@@ -1080,12 +1092,29 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
 
-### Life Philosophy & Beyond CS/IT...
-https://www.pkuanvil.com/topic/459/
-知乎回答备份
+
+## Ref
+[程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
+
+[Teach Yourself Programming in Ten Years - Peter Norvig]: http://norvig.com/21-days.html#answers
+
+[Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
+
+![](../../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
+
+
 
 ---
-[为什么高校的科研项目大多烂尾了？](https://www.zhihu.com/question/665648172/answer/86682654632)
+
+
+
+## Learning and Developing Beyond School
+### FAQ: Study, Academia, Industry, and Personal Development
+> https://www.pkuanvil.com/topic/459/ 知乎回答备份
+> 
+> ↗ [Academics](../../Academics%20🎓/Academics.md)
+> - ↗ [FAQ - Academia and Research](../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
+#### [为什么高校的科研项目大多烂尾了](https://www.zhihu.com/question/665648172/answer/86682654632)
 
 作者：扇贝又回来了  
 链接：https://www.zhihu.com/question/665648172/answer/86682654632  
@@ -1108,18 +1137,49 @@ https://www.pkuanvil.com/topic/459/
 一个4000万的项目，真正落实到项目上的，只有区区十万，十万块能搞个锤子啊，糊弄糊弄得了。
 
 水幕电影项目，只是一个缩影，实际的玩法可能比这个更花，而且，这样的项目很多。
+#### 计算机本科生花大量时间写编译器，操作系统是不是不务正业？
+
+[计算机本科生花大量时间写编译器，操作系统是不是不务正业？ - Frosty的回答 - 知乎]: https://www.zhihu.com/question/321433640/answer/39418365988
+[计算机本科生花大量时间写编译器，操作系统是不是不务正业？ - VariantF Sun的回答 - 知乎]: https://www.zhihu.com/question/321433640/answer/678685204
+[计算机本科生花大量时间写编译器，操作系统是不是不务正业？ - 司马半龙的回答 - 知乎]: https://www.zhihu.com/question/321433640/answer/1895272368173208519
+#### 为什么大多数cs专业的学生不愿意老老实实啃深入理解计算机系统这一类黑皮书? 
+
+[为什么大多数cs专业的学生不愿意老老实实啃深入理解计算机系统这一类黑皮书? - Jaccccc的回答 - 知乎]: https://www.zhihu.com/question/352213141/answer/98685563577
+你说的对，但是隔壁大一新生嘴甜刚上完第一节面向对象编程就进组做llm/nlp科研了，你还在内存分配。等人家大四拿着n篇共一去ucb了，你只能本校保研/申请软工硕士。
+
+[为什么大多数cs专业的学生不愿意老老实实啃深入理解计算机系统这一类黑皮书? - 人间惆怅客的回答 - 知乎]: https://www.zhihu.com/question/352213141/answer/1890687674832107279
+
+[为什么大多数cs专业的学生不愿意老老实实啃深入理解计算机系统这一类黑皮书? - 朱小霖的回答 - 知乎]: https://www.zhihu.com/question/352213141/answer/3216928848
+反对所有以批评学生为主旨的回答，包括并不限于 “能力太差”，“太浮躁”。
+
+根据我个人自学 CS 的经历，我认为这类偏基础的大部头应该在自己有明确的阅读目的的时候再去看，而不是看到推荐的书单，就老老实实地从头啃。
+
+拿 CSAPP 为例，我印象里这本书非常浅显地介绍了计算机是如何编译并运行代码的。如果你不是对这其中的某个步骤有着比较明显的兴趣，直接从头到尾去啃，很难容易在看到一半的时候感到很迷茫。因为 CS 的这种经典书籍，往往包含了大量的细节，没有目的地去看，很可能最后只能落得一个模糊的框架，而这种框架可能花十分之一的时间，看一篇写的精细的博文，反而能记得更牢靠。
+
+这样的问题不止限于 CSAPP，例如说 Computer Architecture A Quantitative Approach，绝对的经典，但是如果直接从头读下来，你是把重点放在 RISC-V/MIPS 的指令设计上，还是各种硬件的并行加速上，还是电路图上呢？再比如说 DDIA，非常优秀的书，但如果自己没有对于分布式系统，或者是存储系统的一些特定的兴趣，读完了可能只是背下来了一些八股面试题的答案。样样都顾着其实就是样样都顾不上，最后可能白白浪费了时间。
+
+所以我觉得，与其老老实实啃这种经典书籍，不如先用质量还凑活的材料快速了解这个学科是在做什么，这个材料可以是名校的公开讲义，可以是讲得很清晰的 talk，然后再根据自己好奇的地方去针对性看书。没有一本书可以解决所有问题，所以你很快会发现，针对自己的问题找到的资料，在特定领域上比大家广泛推荐的大部头深入得多。而大部头反而适合你在希望连点成面的时候，帮着把知识系统性地串起来。
+
+我感觉在大学的时候，大家很喜欢给基础专业书搭一个鄙视链，貌似越是读晦涩的基础书越厉害，实际上从获得知识的角度来说，效率是很差的。反而是在后续的工作或科研中，根据具体需求去反复阅读这些经典，才是真正吸收它们的营养的好方法。
+#### 程序员能纯靠技术渡过中年危机吗
+[👍 程序员能纯靠技术渡过中年危机吗？ - 接地气的陈老师的回答 - 知乎]: https://www.zhihu.com/question/264237428/answer/320325900
+#### 名校毕业却混得很差是怎样一种体验
+[名校毕业却混得很差是怎样一种体验？ - 王强的回答 - 知乎]: https://www.zhihu.com/question/62836213/answer/3559640911
+我的大学同学，top2毕业，留美后换了方向，至今没有拿到博士学位也没有正式工作。贫病交加中三十五岁就去世了。我重新登陆知乎，就是为了再来看看他的文字。
+
+他真的是一个妙人，知识面极其丰富兴趣极其广泛。感兴趣的东西就会花大量时间钻研，不论到底有没有现实意义。他在生活中是一个内向少语的人，可他的每一个知乎回答都几乎可以写一篇论文。
+
+但这也是我们这些竞赛生的普遍问题：随心所欲，理想主义，缺乏甚至鄙视（带有功利性的）人生规划。年轻的时候这都不是事，毕竟求学的道路简单明了，抱抱佛脚过关毕业即可。但随着年岁增长走入社会，家庭学业工作放眼过去皆是战场，小聪明已经无法给我们的人生托底。一步走错，也许从此都是下坡路。
+
+兄弟，我想你了。一路走好。
 
 
+### Reading
+[如何评价段永平在浙大演讲「最重要的不是勤奋，而是做对事情」？ - 任公子的回答 - 知乎]: https://www.zhihu.com/question/8932527426/answer/76635788391
+[很想从北大退学该怎么办? - 王浩的回答 - 知乎]: https://www.zhihu.com/question/349729867/answer/872028364
+[为什么我国部分理科生会看不起文科生？ - 新月的回答 - 知乎]: https://www.zhihu.com/question/337308469/answer/3398504994
 
-## Ref
-👍 程序员能纯靠技术渡过中年危机吗？ - 接地气的陈老师的回答 - 知乎
-https://www.zhihu.com/question/264237428/answer/320325900
+[我爸对计算机行业的看法，是否准确？ - 萤火虫的回答 - 知乎]: https://www.zhihu.com/question/586112871/answer/3299128158
 
-[程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
-
-[Teach Yourself Programming in Ten Years - Peter Norvig]: http://norvig.com/21-days.html#answers
-
-[Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
-
-![](../../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
-
+[工作五年反思 - 李沐的文章 - 知乎]: https://zhuanlan.zhihu.com/p/374777591
+[博士这五年 - 李沐的文章 - 知乎]: https://zhuanlan.zhihu.com/p/25099638

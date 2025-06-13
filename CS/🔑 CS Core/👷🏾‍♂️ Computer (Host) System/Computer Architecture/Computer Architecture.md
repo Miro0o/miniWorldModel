@@ -29,8 +29,8 @@
 
 🏫 [Intro to CS (CSAPP)](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
-🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
-🏫 [ETH - Digital Design and Computer Architecture](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
+🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+🏫 [ETH - Digital Design and Computer Architecture](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
 
 🧑‍🏫 [Computers and Networks | Fall 2014](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/)
 by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)

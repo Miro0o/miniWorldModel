@@ -244,3 +244,5 @@ Information for **many federal government agencies** is centrally located in 
 [Roe v. Wade]: https://en.wikipedia.org/wiki/Roe_v._Wade
 
 [美国—以色列关系 | wikipedia]: https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E2%80%94%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%9C%E4%BF%82#
+
+[维持美国霸权的支柱是什么？美元、美军、科技、媒体，到底哪个才是核心？ - 林先生的回答 - 知乎]: https://www.zhihu.com/question/544151279/answer/2907713691

@@ -9,7 +9,7 @@
 ↗ [(CS) Academics Roadmap & Tool Chain](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 - ↗ [Bib-Management](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
-↗ [(CS) Master & PhD Application Guide](../../🗺%20CS%20Overview/International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
+↗ [(CS) Master & PhD Guide - Preparation & Application](../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
 
 ### Academic Presses

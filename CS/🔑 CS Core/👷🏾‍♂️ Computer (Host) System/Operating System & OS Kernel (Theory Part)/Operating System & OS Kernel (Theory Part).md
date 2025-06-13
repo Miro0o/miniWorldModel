@@ -20,20 +20,20 @@
 
 ### Learning Resources
 #### Courses
-🏫 [NJU /操作系统](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
+🏫 [NJU /操作系统](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
 - 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 - 🎬 【操作系统概述 (操作系统的历史；学习建议) [南京大学2023操作系统-P1] (蒋炎岩)】 https://www.bilibili.com/video/BV1Xx4y1V7JZ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 - 🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 - 
 
-🏫 [UCB /CS162 Operating System](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+🏫 [UCB /CS162 Operating System](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
 > Learning in action by ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
-🇨🇳 ↗ [NJU /操作系统](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
-🇨🇳 ↗ [HIT OS /Operating System](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/HIT%20哈尔滨工业大学/HIT%20OS%20-%20Operating%20System.md)
+🇨🇳 ↗ [NJU /操作系统](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
+🇨🇳 ↗ [HIT OS /Operating System](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/HIT%20哈尔滨工业大学/HIT%20OS%20-%20Operating%20System.md)
 #### Books
 ↗ [Computer (Host) System](../Computer%20(Host)%20System.md)
 ↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)

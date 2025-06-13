@@ -181,7 +181,7 @@ public class javahelloword{
 
 ###### Encoding
 
-in java, `char` & `String` types are stored in [[../../../../../../🗺 CS Overview/🗂️ Archive/Projects#Character Encoding Character set https phper shujuwajue com ji-chu zi-fu-chuan zi-fu-bian-ma|Unicode]] encoding.
+in java, `char` & `String` types are stored in [[../../../../../../../Assets/🗃 Archive/🗂️ Archive/Projects#Character Encoding Character set https phper shujuwajue com ji-chu zi-fu-chuan zi-fu-bian-ma|Unicode]] encoding.
 
 for different JDK, `String` are stored in different way. for earlier versions, `String` is stored as `char[]`, while on recent versions `String` is encoded as `Byte` type.
 

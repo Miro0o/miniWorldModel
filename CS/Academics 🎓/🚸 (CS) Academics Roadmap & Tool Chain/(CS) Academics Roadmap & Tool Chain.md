@@ -156,6 +156,9 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 
 ## 3️⃣ Academic Paper Writing
+> ↗ [How to write a good academic paper](How%20to%20write%20a%20good%20academic%20paper.md)
+
+
 ### Academic Writing Genres
 #### Dissertation (学位论文)
 #### Essay

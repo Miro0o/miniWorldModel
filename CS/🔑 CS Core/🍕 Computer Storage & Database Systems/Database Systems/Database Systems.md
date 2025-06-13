@@ -24,11 +24,11 @@ For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../../S
 
 
 ### Courses
-🏫 [UCB CS186 Introduction to Database System](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
-🏫 [CMU 15-445 Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
+🏫 [UCB CS186 Introduction to Database System](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)
+🏫 [CMU 15-445 Database Systems](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-445%20Database%20Systems/15-445%20Database%20Systems.md)
 
-🏫 [CMU 15-721 Advanced Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-721%20Advanced%20Database%20Systems/15-721%20Advanced%20Database%20Systems.md)
-🏫 [CMU 15-799 Special Topics in Database Systems](../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
+🏫 [CMU 15-721 Advanced Database Systems](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-721%20Advanced%20Database%20Systems/15-721%20Advanced%20Database%20Systems.md)
+🏫 [CMU 15-799 Special Topics in Database Systems](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-799%20Special%20Topics%20in%20Database%20Systems/15-799%20Special%20Topics%20in%20Database%20Systems.md)
 
 🎬【现代存储系统 (关系数据库和分布式存储系统) [南京大学2022操作系统-P30]】 https://www.bilibili.com/video/BV1Ha4117795/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -52,6 +52,9 @@ For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../../S
 https://www.infoq.cn/theme/46
 数据库内核杂谈
 整个系列不仅会覆盖所有经典系统的部分，也会跟进最新的技术趋势，例如code gen和vectorized execution等。希望通过阅读这个系列能够给读者知其然，知其所以然的感悟，如果能达到触类旁通的境界，就更好啦。
+
+👍 https://www.modb.pro/
+摩天轮 中国数据库行业资讯
 
 
 ### 🧱 Projects
@@ -93,3 +96,8 @@ Database System Security Management
 
 [👍 做数据库内核开发的是不是很少？ - 知乎]: https://www.zhihu.com/question/445283801
 [👍 做数据库内核开发的是不是很少？ - 金雪锋的回答 - 知乎]: https://www.zhihu.com/question/445283801/answer/1825512005
+
+[数据库oltp方向是不是岗位很少了？ - 闭雨哲的回答 - 知乎]: https://www.zhihu.com/question/631983226/answer/3316965215
+TP这个方向从2000年第一波国产化开始，到现在20年的时间里，传统的OLTP已经有不下100款产品（当然也可能有套壳的）。2015左右大数据时代，很多新型的数据库也是OLTP，偏分布式架构。作为一名开发数据库的行内板砖架构师，纯TP确实已经很饱和了，各种各样的可选项都有，反而是面向业务侧的AP很少，国内比较缺少创新性，也是受大环境的影响，从头开发很难得到资方支持，反而是来钱快的解决方案受捧。解决方案就是偏向业务侧了，那又到了AP的范畴，我们很难看到有从底层开始设计的OLAP国产数据库，这恰恰是数据库未来应该发力的方向，也是一些TP厂商开始转型融合AP的方向。OLTP只注重存储，OLAP更注重数据的使用，存跟用一直都是分不开的，如何在用这方面变得跟存一样快是我们一直在攻克的问题。推荐以前做OLTP的朋友多多关注AP方向，让我们做OLAP数据库的国产化更上一步，或者是有更多的人才能够加入其中。
+
+![](../../../../Assets/Pics/Pasted%20image%2020250613144922.png)

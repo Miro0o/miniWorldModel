@@ -21,6 +21,10 @@ This curated list contains 910 awesome open-source projects with a total of 4.1M
 
 [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) 
 
+🏠 https://www.lizseckel.com/ai-for-grant-writing/
+🚧 https://github.com/eseckel/ai-for-grant-writing
+A curated list of resources for using AI to develop more competitive grant applications.
+
 
 ### AI Tools Site Map
 https://www.yjpoo.com/
@@ -29,6 +33,7 @@ https://www.aigc.cn/
 
 
 ## Intro
+
 
 
 ## AlphaFold

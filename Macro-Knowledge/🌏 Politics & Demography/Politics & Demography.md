@@ -16,3 +16,6 @@
 
 
 ## Ref
+[超级大国 | wikipedia]: https://zh.wikipedia.org/zh-hans/%E8%B6%85%E7%BA%A7%E5%A4%A7%E5%9B%BD
+
+[国家 | wikipeida]: https://zh.wikipedia.org/zh-hans/%E5%9B%BD%E5%AE%B6

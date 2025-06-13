@@ -9,7 +9,8 @@
 ↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 - ↗ [Bib-Management](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
-↗ [(CS) Master & PhD Application Guide](../🗺%20CS%20Overview/International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
+↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+- ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
 
 ### Publications
@@ -168,74 +169,8 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 计算机领域是一个推陈出新比较快的领域，会议发挥了重要作用。
 
-
-[🤔 为什么有的计算机本科生就能发表顶会，但是许多博士生还是一篇都没有？ - 波尔德的回答 - 知乎]: https://www.zhihu.com/question/565784411/answer/2756045938 (内容包含剧透)
-
-因为人和人的差距就是比人和狗的差距都大啊。
-发顶会的本科生是这样的：
-- 你高中就是学科竞赛的好手，高考轻松考入头部985。本科的课程对你来说手到擒来。
-- 你大三的时候在一门机器学习/[计算机视觉](https://zhida.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89&zhida_source=entity&is_preview=1)/AI课程中表现优异，上课的大牛教授注意到了你这个好苗子，诚邀你进组做项目。
-- 进组第一天，教授给你一页纸，上面写着六七个研究方向，说，小朋友，你选一个方向来做，不用怕，每个方向都有师兄带你。
-- 带你的A师兄和蔼可亲，第一次见面就给了你一份清单，说，我们这个方向的论文多如牛毛，但是正真值得细读的，就这二十篇。 我已经按时间排好顺序了。你半个月时间读完，底子就算打好了。我们每周见面两次，不懂的你来问我。
-- 你临走的时候发现A师兄的书架上摆着几份XXXX best student paper award，XXXX outstanding reviewer award的奖状。
-- 和A师兄交流使你突飞猛进。半个月之后，你读顶会论文如砍瓜切菜。
-- 你和女朋友看电影的时候想到了一个绝妙的idea，激动地打电话给A师兄分享。A师兄一笑说，果然是好苗子，赶紧做实验！
-- 你冲进实验室准备爆肝写代码的时候，A师兄已经帮你申请了8张[3090](https://zhida.zhihu.com/search?q=3090&zhida_source=entity&is_preview=1)，说，我估计够你用了。
-- 你奋起爆肝一个月，你的idea work了。
-- 你在组会上分享了你初步的实验结果，收获了12条建设性意见。改进实验之后，你的结果变得更强了。
-- 你赶在某顶会的deadline之前，写好一篇论文。 A师兄三小时候后就发来修改意见，说，很有天赋，就是story telling略显稚嫩。A师兄重新包装了你的论文。你感觉论文顿时上了一个档次。
-- 还有一星期就出录用结果了。教授和chair喝茶的时候，随口提起了你的论文。chair说，我就猜到是你们的工作，肯定没问题。
-- 你中了人生第一篇顶会，激动地向A师兄和教授报喜，他们说，我们就知道你能中。
-- 你马上就毕业了，教授本想挽留你直博。但是你决定和女朋友一起申请M国的博士项目。教授惋惜地说，好苗子果然还是留不住。然后给你和女朋友都写了推荐信。
-
-一篇顶会没有的博士是这样的：
-- 你从小学到本科都是那种最平平无奇按部就班的学生。
-- 你因为就业形势不好，读研读博。
-- 你的学校、课题组和导师，都平平无奇。
-- 你硕士博士期间换了好几次方向。
-- 巧了，你教授当年也是。
-- 你教授让你做[横向课题](https://zhida.zhihu.com/search?q=%E6%A8%AA%E5%90%91%E8%AF%BE%E9%A2%98&zhida_source=entity&is_preview=1)。教授让你代他给本科生上课。你教授让你帮他报销差旅费。你教授甚至让你帮他接孩子。
-- 你每个月和教授交流一次学术。他最常说的话是“挺好的，你试试”和”我不懂，你自己看着办“。
-- 你们整个课题只有一台8卡服务器。你曾经差点和刚进组的小师弟打一架。因为他为了抢机器kill了你的进程。
-- 后来你又不生小师弟的气了，因为他发论文悄悄挂了你的名字。
-- 你在组会上激动地分享新的idea，听众呆若木鸡。
-- 你博士读了一大半，才鼓起勇气向顶会投稿。
-- 你等了一周才等到教授的修改意见，除了几个typo外没有其他内容。
-- 你颤抖着打开审稿意见，被满屏的trivial，incremental，lack of novelty，technical soundness，bad english，poor writing，you should cite XXXX气的昏过去。
-- 你醒来的时候实验室都锁门了。你熬夜写了[rebuttal](https://zhida.zhihu.com/search?q=rebuttal&zhida_source=entity&is_preview=1)。
-- 毫不意外被顶会拒了。
-- 转投若干次，最终被一个C类会议接受。
-- 你向教授汇报，说你终于中个XXXX会议，教授一脸疑惑，什么时候投的，我怎么不记得。
-- 你晚上刷微信，看到X智元的推送：XXX大学本科学霸斩获顶会，目标检测新SoTA！代码即将开源！
-- 然后你又失眠了。
-
-说多了难受，说多了难受啊。
-
-----
-作者：PearsonChen  
-链接：https://www.zhihu.com/question/565784411/answer/2756081773  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
-
-不少人认为是智商差距，但其实最令人绝望的是资源差距。
-
-我phd的第一篇论文就拿了best paper，上了学校新闻，还直接被editor推荐重新发表在期刊上，但那真的是我很聪明吗？
-
-我其实不算聪明，考试永远没有满分过，别人随便水水就4.0，天天打游戏；我天天office hour，反复啃书。一个编程作业别人一两天就写完了，我还要挨个查每个function怎么写，菜鸟教程都被我轮了至少20遍了，一个作业要两星期才能完成，最后也就3.7左右，我要躺平下来估计直接3.2往下了，在人均天才的知乎里面我这种纯努力型phd基本上要被开除人籍了。
-
-但同期的phd各种paper难产，我却发的飞起，各种大小奖和scholarship拿了不少，原因就是实验室资源足够丰富。
-
-其实大多数时候，发个顶会（包括iros，icra，cvpr，aaai这些）只需要开源方法+难得的数据集，尤其是medical robotics，一个真人数据比那些用模型做的强太多了，不少直接上nature，science的文章也是因为数据集难得，方法没什么惊喜的。所以很多时候你只需要会gitclone就行，做好应用就能刷顶会paper。
-
-我们手里有合作单位专门提供这种高级的数据，哪怕是医用模型都是合作单位基于真人数据提供的，而且是真到不能再真实的那种，细节拉满，举个例子，我们的心脏模型甚至可以按照正确的节律和运动原理跳动。这些模型都是市面上买不到的，只能订做（最便宜的一个也得上千刀）。
-
-这么多资源加持下，我一菜鸡都能起得来，渡过了最艰难的第一年。
-
-另外老板也是各种big/top conference的editor/chair，基本上他involve会议你投就完事了，他告诉你能中你100%就能中。
-
-大多数发顶会的本科生也是差不多，大佬加持+资源数量爆炸。哪怕是算法类的paper，绝大多数本科生都是做一个师兄或者导师给的idea，做成了就顶会了，本质还是靠资源吃饭的。
-
 ---
+
 关于为什么中科院分区中频频出现离谱分区的讨论：
 - [如何看待机器学习顶刊 JMLR 降为中科院三区？ - 知乎](https://www.zhihu.com/question/373446933)
 - [如何看待 IEEE Transactions on Information Theory 降为中科院三区？ - 知乎](https://www.zhihu.com/question/68034636)
@@ -253,3 +188,22 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 [论文（1）——大家说SCI的一区二区和CCF中A类B类是什么意思？ | CSDN]: https://codegrey.blog.csdn.net/article/details/131689540
 
 [🤔 为啥南京大学蒋炎岩老师的操作系统课那么难? - 田子曾的回答 - 知乎]: https://www.zhihu.com/question/598621331/answer/3012649026
+
+[为什么清华北大均无诺贝尔奖获得者，但QS世界排名高于东京大学？ - 废黄河边的白毦兵的回答 - 知乎]: https://www.zhihu.com/question/586464496/answer/1891858872249079419
+因为我国掌控权力和资源的领导群体的意识形态，特别是对西方体系的认知，落后于国力发展。国家没有投入资源和精力去运作[诺贝尔奖](https://zhida.zhihu.com/search?content_id=721402207&content_type=Answer&match_order=1&q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96&zhida_source=entity)。
+
+任何奖项本质就是一场营销，都是可以运作和攻关的，并不代表真实的科学突破。
+
+... （省略）
+
+为什么现在中国高校还没拿这种专项经费去运作诺奖呢？1，还是敬畏之心没破除。2，之前中国的诺奖，因为种种原因，没有大规模宣传，没有对高校领导形成政绩压力，没有形成政绩锦标赛。
+
+下面就看哪个高校领导先反应，去攻关[瑞典皇家科学院](https://zhida.zhihu.com/search?content_id=721402207&content_type=Answer&match_order=1&q=%E7%91%9E%E5%85%B8%E7%9A%87%E5%AE%B6%E7%A7%91%E5%AD%A6%E9%99%A2&zhida_source=entity)了。因为诺奖里面没有数学，物化生和经济学，都吃硬件，吃平台，所以还是比较好运作的。
+
+PS:但凡当年屠呦呦先生在诺贝尔奖演讲词里面，在致敬毛主席的时候，也致敬一下改开四十年和社会主义新时期，各个高校的政绩锦标赛早就搞起来了。现在诺奖至少有5个了。
+
+这个奖跟奥运金牌，维也纳金色大厅，肖邦钢琴比赛，网球大满贯，没啥区别。
+
+PS关于门捷列夫为什么没拿奖：
+
+门捷列夫家族是油气寡头。这个寡头在高加索-里海-阿塞拜疆一带跟诺贝尔家族抢油井。激烈程度跟我国山西煤老板抢矿一样，黑白两道各种手段都用上了。以门捷列夫家族大获全胜而告终。那么，诺贝尔怎么会给门捷列夫发奖呢？所以，这个奖从一开始就是不纯粹的。

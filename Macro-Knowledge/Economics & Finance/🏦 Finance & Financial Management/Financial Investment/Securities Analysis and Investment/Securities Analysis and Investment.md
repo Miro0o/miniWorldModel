@@ -906,3 +906,10 @@ Investment banks offer services to both corporations issuing securities and inve
 [Investing Basics: Bonds, Stocks, Mutual Funds and ETFs]: https://finred.usalearning.gov/Saving/StocksBondsMutualFunds#:
 
 [北京证券交易所都要来了，你还没分清新三板和老三板？]: https://www.jiading.gov.cn/xinwen/jddt1/msxw/content_745663
+
+问大家一个问题。为啥我们的股市叫A股，不叫B股、C股、甲股。而港股又是H股（Hongkong），纳斯达克又叫纳指。我们的A也不是缩写啥的
+- 开始不叫A股，后来中国的证券交易为了吸引外资，推出了AB股，A股是内资，B股用外币交易。但是B股的量非常少，试验不成功，后来有点不了了之了。只把“A股“这个名称给留了下来。所以，实际这个A仅仅是和B相对应而已，不能代指中国。拿A股代称中国股市，或与H股相对应，都是一种错误但大家都能理解的做法。
+- 跟win电脑C盘一个道理，以前有A盘，B盘。A盘是3.5英寸的软盘（就是现在保存那个图标的样子），1.44mb 容量，2000年左右还在用，电脑上标配软驱。B盘是5.几英寸的软盘，容量还更小，我都没见过。
+	- A B是操作系统内部保留的占位符
+	- 现在默认的c盘也可以改成ab
+	- 是的，但是不建议改，因为win 的屎山代码，哪怕CMD 都有盘符史山导致的各种各样的问题，真把C改A了我都不敢想日用会发生什么问题

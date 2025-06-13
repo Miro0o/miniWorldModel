@@ -45,8 +45,8 @@
 📂 https://www.scuctf.com/ctfwiki/pwn/
 CTF PWN 入门 | SCU CTF WiKi
 
-🏫 [Malicious Code Analysis](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/CMU/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
-🏫 [软件分析](../../../../🗺%20CS%20Overview/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
+🏫 [Malicious Code Analysis](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/CMU/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+🏫 [软件分析](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
 
 
 📚 https://firmianay.gitbook.io/ctf-all-in-one/ (CTF竞赛权威指南(Pwn篇))

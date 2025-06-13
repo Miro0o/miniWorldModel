@@ -153,3 +153,82 @@ Models differ in their expressive power; for example, each function that can be 
 [理论计算机科学浅涉：可计算性理论（一）]: http://niwatori.io/2018/01/13/computability-theory/
 
 [Waht is the best text of computation theory /theory of computation | Stack Exchange]: https://cstheory.stackexchange.com/a/3527
+
+[如何通俗地解释停机问题（Halting Problem）？ - 张皓的回答 - 知乎]: https://www.zhihu.com/question/20081359/answer/162329455
+作者：张皓  
+链接：https://www.zhihu.com/question/20081359/answer/162329455  
+来源：知乎  
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
+
+**预备知识: [理发师悖论](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=%E7%90%86%E5%8F%91%E5%B8%88%E6%82%96%E8%AE%BA&zhida_source=entity)**
+克里克岛的一座小城里有位理发师, 有一天他做出一项规定: **他给并且只给那些不给自己理发的人理发.** 理发师的这个规定似乎很有道理, 既然有人自己给自己理发了, 那么我就不用"多此一举", 我再给这个人理发.
+
+最初, 这个规定并没什么问题, 后来, 随着这个理发师自己的头发越来越长, 他发现他陷入了一个两难的境地: 他该不该给自己理发?
+- 如果他为自己理发. 那么他就成为了他规定中那个"自己给自己理发的人", 那么他就不应该为自己理发;
+- 如果他不为自己理发, 那么他不是他规定中那个"自己给自己理发的人", 那么他就应该为自己理发.
+
+综合以上两种情况, "他为自己理发"当且仅当"他不为自己理发", 这成为了一个悖论.
+
+理发师悖论在很多领域有重要的应用, 比如罗素利用理发师悖论发现了集合论的缺陷, 在当时学术界引起了极大震动. 在这里, 我们要用理发师悖论分析[停机问题](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=%E5%81%9C%E6%9C%BA%E9%97%AE%E9%A2%98&zhida_source=entity).
+
+
+**停机问题**
+当我们写代码调试的时候, 有时会遇到这样一种情况: 等了很久, 程序还一直在运行. 我们不知道是代码在正常运行只是运行时间比较久, 还是代码写的有问题(比如写了死循环)导致程序根本不会停止. 这时候我们想, 如果能有个工具能为我们判断我们写的代码的运行时间就好了. 这就是停机问题.
+
+不失一般性, 假设我们想要测试的代码是一个函数
+
+```cpp
+void f(char *t);
+```
+
+其中t是一个字符串, 我们可以用一个字符串表示任意输入, 包括`int`, `double`, 及复合数据类型; 当f不需要输入时, `t`是一个空字符串. 停机问题是指对给定任意的一个函数`f`和输入`t`, 判断`f`对`t`是否会永远运行下去; 如果程序的运行时间是有限长的, 我们称`f`对`t`**停机**.
+
+遗憾的是, **不存在**这样的一个工具使得其能判断任意f的停机问题, 即**停机问题不可判定**.
+
+以下我们用反证法证明这个断言. 假设存在这样的一个函数可用于判断停机问题
+
+```cpp
+bool halts(char *f_code, char *t);
+```
+
+其中`f_code`是我们要进行测试的函数f的ASCII源代码, 我们可以认为对`f_code`进行编译得到了函数`f`. 当`f`对`t`停机时, `halts(f_code, t)`返回`true`; 当`f`对`t`不停机, `halts(f_code, t)`返回`false`.
+
+我们构造这样一个函数
+
+```cpp
+void modified_halts(char *f_code) {
+  if (halts(f_code, f_code)) {  // 当halts(f_code, f_code)返回true
+    while (true) { /*empty*/ }  // 死循环
+  }
+  else {                        // 当halts(f_code, f_code)返回false
+    return;                     // 立即停止运行
+  }
+}
+```
+
+即当`f`对`f_code`停机时, 我们让`modified_halts`不停机; 当`f`对`f_code`不停机时,`modified_halts`停机.
+
+假设`modified_halts`这个函数的ASCII源代码是`modified_halts_code`, 如果我们把`modified_halts_code`作为`modified_halts`的输入会是什么情况?
+
+- 如果`modified_halts`对`modified_halts_code`停机, 说明`halts(modified_halts_code, modified_halts_code)`返回`false`, 说明`modified_halts`对`modified_halts_code`不停机;
+- 如果`modified_halts`对`modified_halts_code`不停机, 说明`halts(modified_halts_code, modified_halts_code)`返回`true`, 说明`modified_halts`对`modified_halts_code`停机.
+
+综合以上两种情况, "`modified_halts`对`modified_halts_code`停机"当且仅当"`modified_halts`对`modified_halts_code`不停机", 这是一个矛盾, 说明不存在这样一个`halts`函数可用于判断任意函数的可停机性.
+
+**以上这个证明利用的就是理发师悖论, `modified_halts`函数就像是那位克里克岛小城里的理发师, 他对并且只对那些不停机的函数停机. 当`modified_halts`函数面对他自己的函数代码时, 就像理发师该不该给他自己刮胡子一样, 将陷入两难境地.**
+
+
+**停机问题的意义**
+停机问题的意义包括以下三点:
+1. **计算机的计算能力**. 随着电子技术和计算机技术的发展, 计算机的存储和计算能力与日俱进, 有些以前看起来不可行的问题现在已经可以轻松地解决. 但是不是当存储和计算能力大到无限的时候, 我们可以解决任何问题? 停机问题给出了否定的答案, 即不管计算机的存储和计算能力有多强, 停机问题都无法解决.
+2. **不同语言, 不同计算设备的计算能力.** 1936年Alan Turing设计出一种假想的计算设备称为 **[通用图灵机](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=%E9%80%9A%E7%94%A8%E5%9B%BE%E7%81%B5%E6%9C%BA&zhida_source=entity)**,  **[Church-Turing论题](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=Church-Turing%E8%AE%BA%E9%A2%98&zhida_source=entity)** 指出如果一个函数是可计算的, 那么这个函数可以用图灵机编程去计算它. 而停机问题就是不可计算的. 虽然现在市面上有很多语言, 看上去C能直接操作底层, C的计算能力要比Java, Python这样的语言更强, 但是现在所有的语言都是**Turing完备**的, 意思是指这个语言可以被用来模拟一台通用图灵机. 因此, 任何可以用C编程出来的同样也可以用Java, Python这样的语言编程出来, 所有语言在计算能力上等价.
+3. **不存在一个完美的工具可以检测代码的运行时性质**. 比如说, 许多编译器都可以在编译过程中对代码进行静态类型检查, 以确保代码不会出现运行时的类型错误. 我们同样可以用理发师悖论证明, 不存在完美的类型检查工具, 即一定会存在一些代码, 类型检查工具会认为它有问题, 而实际这个代码不会出现运行时的类型错误. 对停机问题的研究可以作为我们做实际问题的指导.
+
+
+**参考文献**
+[1]. Alan Turing. On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, Series 2, Volume 42 (1937), pp 230–265.
+[2]. Robert Soare. Turing oracle machines, online computing, and three displacements in computability theory. Annals of Pure and Applied Logic 160.3 (2009): 368-399.
+[3]. Eric Lehman, Thomson Leighton, and Albert Meyer. Mathematics for Computer Science (2017 version). MIT. 2017.
+[4]. Udi Aharoni. Zuto: The Adventures of a Computer Virus. CreateSpace Independent Publishing Platform. 2012.
+[5]. 宋方敏. 计算模型导引. 高等教育出版社. 20121
+

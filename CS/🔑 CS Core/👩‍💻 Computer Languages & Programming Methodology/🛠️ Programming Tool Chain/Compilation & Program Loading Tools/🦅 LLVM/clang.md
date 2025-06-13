@@ -11,7 +11,7 @@
 
 ### Clang & Clang++
 
-[Clang](https://clang.llvm.org), a C compiler , belongs to [[../../../../../🗺 CS Overview/🗂️ Archive/CS entries quick-look#LLVM|LLVM]].
+[Clang](https://clang.llvm.org), a C compiler , belongs to [[../../../../../../Assets/🗃 Archive/🗂️ Archive/CS entries quick-look#LLVM|LLVM]].
 Clang++ is a C++ compiler, also belonging to LLVM.
 	
 

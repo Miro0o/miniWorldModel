@@ -17,7 +17,7 @@ htpp://110.42.183.220/webdemo/index.html
 # 1. [config server:](https://cloud.tencent.com/document/product/213/54831)
 
 ### Before Building... 
-###### [[../../../../../../../🗺 CS Overview/🗂️ Archive/Protocols#SSH https en wikipedia org wiki Secure_Shell|SSH]] & file transmiting
+###### [[../../../../../../../../Assets/🗃 Archive/🗂️ Archive/Protocols#SSH https en wikipedia org wiki Secure_Shell|SSH]] & file transmiting
 
 [ssh installation & login](https://blog.csdn.net/li528405176/article/details/82810342)
 - OpenSSH for instance
@@ -74,7 +74,7 @@ other comands to zip & unzip : https://blog.csdn.net/zhenwenxian/article/details
 ```
 
 [using FTP transmit fiiles  on linux & macos](https://cloud.tencent.com/document/product/1207/53216)
-[[../../../../../../../🗺 CS Overview/🗂️ Archive/Protocols#FTP|More FTP...]]
+[[../../../../../../../../Assets/🗃 Archive/🗂️ Archive/Protocols#FTP|More FTP...]]
 
 [lookup user group & user 查看用户组](https://blog.csdn.net/rainbow702/article/details/50985672)
 [Linux 用户管理和ssh 远程配置](https://www.xiaog.info/blog/post/user_manager_and_ssh_config)

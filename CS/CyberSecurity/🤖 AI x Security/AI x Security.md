@@ -5,11 +5,10 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
+↗ [ALoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenaries/ALoT.md)
 
 
 

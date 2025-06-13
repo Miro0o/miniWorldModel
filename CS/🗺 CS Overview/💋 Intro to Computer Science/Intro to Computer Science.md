@@ -19,18 +19,18 @@
 
 ### Courses
 UC Berkeley CS61
-- ↗ [CS61A Structure and Interpretation of Computer Programs](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
-- ↗ [CS61B Data Structures](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
-- ↗ [CS61C Great Ideas in Computer Architecture](../👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+- ↗ [CS61A Structure and Interpretation of Computer Programs](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+- ↗ [CS61B Data Structures](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
+- ↗ [CS61C Great Ideas in Computer Architecture](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 
 CMU Intro to Computer Science
-- ↗ [CMU/ICS](../👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+- ↗ [CMU/ICS](👩🏼‍🏫%20Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 - 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
 	- [CSAPP Blog Page](http://csappbook.blogspot.com)
 	- [gitbook chinese version (partial)](https://hansimov.gitbook.io/csapp/)
 
-↗ [NJU/计算机系统基础](../👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/计算机系统基础/计算机系统基础.md)
-↗ [Harvard/CS50x](../👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
+↗ [NJU/计算机系统基础](👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/计算机系统基础/计算机系统基础.md)
+↗ [Harvard/CS50x](👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
 
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
@@ -488,15 +488,15 @@ These questions, from general to specific, speaks the path of what i think every
 
 ### What can I do after learning CS?
 ↗ [Learning English the Right Way](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-↗ [International Opportunities](../International%20Opportunities/International%20Opportunities.md)
+↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 #### Tech Careers
 
 #### IT Industry & Academia
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
-↗ [CS & IT Jobs & Interns Related](../CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 
 ↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-↗ [(CS) Master & PhD Application Guide](../International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
+↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
 ↗ [IT Laws & Institutions in United States](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)
 ↗ [IT Laws & Institutions in China](../Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
