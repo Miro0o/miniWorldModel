@@ -39,13 +39,14 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ## Intro: Universe, Knowledge, and Intelligence
-![Human_society.excalidraw | 800](../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_society.excalidraw.md)
+### Life, Knowledge, and Intelligence
+
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 ↗ [China 🇨🇳](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
 ↗ [United States 🇺🇸](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
-
-![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Intro to Computer Science](CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Program, Computer, and Automation](CS/🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
@@ -53,9 +54,6 @@ Anti-fragile: Things That Gain From Disorder
 Universe and Human Beings
 Information and Knowledge
 Technology and Science
-
-
-### Life, Knowledge, and Intelligence
 
 
 ### System Science & Systemology 🤔
@@ -210,4 +208,4 @@ Economic theories divide economic sectors further into [economic industries](ht
 
 [系统科学丨钱学森：我对系统学认识的历程]: https://sass.usst.edu.cn/2021/1213/c12540a261884/page.htm
 
-[]: https://gs.fudan.edu.cn/gsenglish/p2781c2660/list.htm
+[Fudan University Graduate School - Disciplines]: https://gs.fudan.edu.cn/gsenglish/p2781c2660/list.htm

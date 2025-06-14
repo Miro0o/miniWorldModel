@@ -1096,7 +1096,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
 ---
-https://github.com/zijie0/HumanSystemOptimization
+👍 https://github.com/zijie0/HumanSystemOptimization
 健康学习到150岁 - 人体系统调优不完全指南
 
 

@@ -58,7 +58,7 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 
 ## 🐕 Computer Science Introduction & Overview
 ### Why is CS needed?
-![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
+![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Universe, Intelligence, Knowledge, and Philosophy](../../../Universe,%20Intelligence,%20Knowledge,%20and%20Philosophy.md)
 
