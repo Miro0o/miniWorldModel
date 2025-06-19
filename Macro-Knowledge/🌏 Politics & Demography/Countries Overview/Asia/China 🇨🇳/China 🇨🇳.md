@@ -213,3 +213,5 @@ The Romans and the Greeks knew the country as '**Seres** (赛路斯)', “the la
 [中华人民共和国2023年国民经济和社会发展统计公报 | 国家统计局]: https://www.gov.cn/lianbo/bumen/202402/content_6934935.htm
 
 [中国 ｜ wikipedia]: https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B
+
+[汉中为什么被称为“天汉”]: http://www.htq.gov.cn/hzshtqzf/zjht/lswh/201707/a98bd6ce824f770e3b7e7af3161967d2.shtml

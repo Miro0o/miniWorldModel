@@ -11,6 +11,8 @@
 
 ↗ [Learning English the Right Way](../../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 
+↗ [United States 🇺🇸](../../../../Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+
 
 ### Forums
 https://www.1point3acres.com
@@ -31,6 +33,14 @@ https://www.51deguo.com
 我要德国
 
 https://us151.com
+
+
+### Other Resources
+https://www.99csw.com/book/1938/index.htm
+留德十年 - 季羡林
+
+https://liushooter.github.io/UsaVsUsa/
+《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。 本书作者以一个观察者去研究和看待美国社会，主要探讨美国社会的政治和社会管理过程，书中具体描绘和事实纪录多于抽象推理，主要是用事实的美国对想象中的美国。
 
 
 
