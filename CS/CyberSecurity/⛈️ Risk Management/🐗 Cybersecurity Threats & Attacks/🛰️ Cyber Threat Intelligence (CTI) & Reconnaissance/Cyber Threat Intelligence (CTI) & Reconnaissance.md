@@ -23,6 +23,8 @@
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 ↗ [OSINT (Open Source Intelligence)](📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
 
+↗ [News Focus (IT-exclusive)](../../../../🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
+
 
 ### Projects / Data Sources
 🔥 👍 https://github.com/hslatman/awesome-threat-intelligence/tree/main

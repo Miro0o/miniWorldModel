@@ -39,13 +39,30 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ## Intro: Universe, Knowledge, and Intelligence
-### Life, Knowledge, and Intelligence
-
+### The Universe: Matter & Energy and Information & Time
+#### 运动与静止
+#### 物质与能量
+##### 生命与非生命
+#### 主体（具有自我意识的物质）与客体（不具有自我意识的物质）
+##### 主体自我意识下的情感与逻辑
+##### 主体自我意识下的信息与时间
+#### 从信息到知识：知识是有组织的信息
+##### 信息的分类：抽象的信息和具体的信息
+##### 信息的（静止）存在：储存
+###### 语言系统 /符号系统的发展
+###### 信息的多媒体化
+##### 信息的运动（存在）：计算、传输
+##### 信息的组织：知识
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 ↗ [China 🇨🇳](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
 ↗ [United States 🇺🇸](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
+
+###### 知识的分类：基于情感的知识和基于逻辑的知识
+
+
+##### 信息（计算、传输、储存）的自动化：人类智能，计算机科学，及人工智能
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Intro to Computer Science](CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
@@ -209,3 +226,6 @@ Economic theories divide economic sectors further into [economic industries](ht
 [系统科学丨钱学森：我对系统学认识的历程]: https://sass.usst.edu.cn/2021/1213/c12540a261884/page.htm
 
 [Fudan University Graduate School - Disciplines]: https://gs.fudan.edu.cn/gsenglish/p2781c2660/list.htm
+
+[🤔 广义相对论长什么样？]: https://mp.weixin.qq.com/s/fpevCKUDSUHRmnQkXh-NWQ
+听说最近有学者以唯物主义质能观推翻了相对论，这让我想起多年前写过的一个短文，现贴出来请物理相关专业同学指教：**我象这样理解广义相对论，是对的吗**？谬误肯定多得是，好在是请教自己同学，也不怕丢面子。尤其是其中若有与马克思主义哲学相冲突之处，肯定以马克思主义为准。以下是正文：

@@ -6,7 +6,7 @@
 
 ## 🤙🏾 Res
 ### Related Topics
-↗ [Awesome AI](👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI (Tools)](👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 ↗ [MLOps](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
 

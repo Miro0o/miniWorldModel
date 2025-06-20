@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [Awesome AI](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI (Tools)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 ↗ [ALoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenaries/ALoT.md)
 ↗ [AI x Security](../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
 

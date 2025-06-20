@@ -19,7 +19,7 @@
 
 
 ### Related Projects
-↗ [Awesome AI](../../../👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI (Tools)](../../../👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
 
 

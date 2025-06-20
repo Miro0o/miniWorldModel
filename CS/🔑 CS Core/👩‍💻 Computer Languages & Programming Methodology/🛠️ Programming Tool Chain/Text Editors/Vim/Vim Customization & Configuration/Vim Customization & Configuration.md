@@ -295,7 +295,7 @@ python3 install.py --all
 
 
 #### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
-↗ [Awesome NLP & LLM Projects & Services](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+↗ [Awesome NLP & LLM Projects & Services](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 
 
 ### 🎉 Static Code Analyzers

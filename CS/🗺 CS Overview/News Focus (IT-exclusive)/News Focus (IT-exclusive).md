@@ -144,6 +144,11 @@ hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.yc
 	- ANY.RUN也发布报告称，在后期针对DeepSeek的恶意攻击中，最为典型的就是两种Mirai僵尸网络变体——“HailBot”和“RapperBot”。由于这两大僵尸网络一直“接单”，因此可以认为此次攻击是有针对性目的，而非一次单纯的网络攻击行为。
 		- HailBot
 		- RapperBot
+#### June
+- **小红书“xhsdev”开发者模式 P0级事故吃瓜**
+	- https://mp.weixin.qq.com/s/YgOaUNP6yo6ThsCyeW89zg
+	- 6 月 18 日晚，多位网友在技术社区 LINUX DO、V2EX 等论坛贴出复现步骤：**在小红书 App「设置」页标题处连续点按 6 次（部分说 10 次），随后在弹出的对话框中输入弱口令 `xhsdev` 即可进入隐藏的开发者模式**。开发界面不仅提供了日志、抓包和网络代理开关，还暴露了数据库表结构、推荐算法参数和多项内部服务地址，被社区称为“P0 级事故”。
+- 
 
 
 
