@@ -71,7 +71,9 @@ Anti-fragile: Things That Gain From Disorder
 ###### 知识的分类：基于情感的知识和基于逻辑的知识
 
 
-##### 信息（计算、传输、储存）的自动化：智能
+##### 信息（计算、传输、储存）的自动化：智能（狭义的智能）
+###### 从人脑智能到人工智能：计算机科学
+
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Intro to Computer Science](CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
@@ -80,9 +82,12 @@ Anti-fragile: Things That Gain From Disorder
 Universe and Human Beings
 Information and Knowledge
 Technology and Science
-###### 从人脑智能到人工智能：计算机科学
-#### 从生命到人类智能：人脑智能 + 人类体能
-##### 人工智能 + 机器人 ≈ （人脑智能 + 人类体能 = 人类智能） ≈ 类人智能？
+
+#### 生命 -> 人类智能 -> 类人智能（广义的智能）
+
+##### 自我意识下的宇宙：物质，能量，信息
+
+##### 人类智能 =（人脑智能 + 人类体能）≈ 人工智能 + 机器人 ≈ 类人智能？
 
 
 ### System Science & Systemology 🤔
