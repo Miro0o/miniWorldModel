@@ -18,7 +18,6 @@ Internet Encyclopedia of Philosophy
 https://plato.stanford.edu/
 Stanford Encyclopedia of Philosophy
 #### Books
-西方哲学史 - 张志伟
 
 
 
@@ -32,6 +31,10 @@ Historically, many of the individual [sciences](https://en.wikipedia.org/wiki/S
 Major branches of philosophy are [epistemology](https://en.wikipedia.org/wiki/Epistemology "Epistemology"), [ethics](https://en.wikipedia.org/wiki/Ethics "Ethics"), [logic](https://en.wikipedia.org/wiki/Logic "Logic"), and [metaphysics](https://en.wikipedia.org/wiki/Metaphysics "Metaphysics"). Epistemology studies what knowledge is and how to acquire it. Ethics investigates moral principles and what constitutes right conduct. Logic is the study of [correct reasoning](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning") and explores how good [arguments](https://en.wikipedia.org/wiki/Argument "Argument") can be distinguished from bad ones. Metaphysics examines the most general features of [reality](https://en.wikipedia.org/wiki/Reality "Reality"), existence, [objects](https://en.wikipedia.org/wiki/Object_\(philosophy\) "Object (philosophy)"), and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)"). Other subfields are [aesthetics](https://en.wikipedia.org/wiki/Aesthetics "Aesthetics"), [philosophy of language](https://en.wikipedia.org/wiki/Philosophy_of_language "Philosophy of language"), [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind "Philosophy of mind"), [philosophy of religion](https://en.wikipedia.org/wiki/Philosophy_of_religion "Philosophy of religion"), [philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science "Philosophy of science"), [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics"), [philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history "Philosophy of history"), and [political philosophy](https://en.wikipedia.org/wiki/Political_philosophy "Political philosophy"). Within each branch, there are competing [schools of philosophy](https://en.wikipedia.org/wiki/Schools_of_philosophy "Schools of philosophy") that promote different principles, theories, or methods.
 
 Philosophers use a great variety of methods to arrive at philosophical knowledge. They include [conceptual analysis](https://en.wikipedia.org/wiki/Conceptual_analysis "Conceptual analysis"), reliance on [common sense](https://en.wikipedia.org/wiki/Common_sense "Common sense") and [intuitions](https://en.wikipedia.org/wiki/Intuition "Intuition"), use of [thought experiments](https://en.wikipedia.org/wiki/Thought_experiments "Thought experiments"), analysis of [ordinary language](https://en.wikipedia.org/wiki/Ordinary_language "Ordinary language"), [description of experience](https://en.wikipedia.org/wiki/Phenomenology_\(philosophy\) "Phenomenology (philosophy)"), and [critical questioning](https://en.wikipedia.org/wiki/Socratic_questioning "Socratic questioning"). Philosophy is related to many other fields, including the sciences, [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), [business](https://en.wikipedia.org/wiki/Business "Business"), [law](https://en.wikipedia.org/wiki/Law "Law"), and [journalism](https://en.wikipedia.org/wiki/Journalism "Journalism"). It provides an [interdisciplinary](https://en.wikipedia.org/wiki/Interdisciplinary "Interdisciplinary") perspective and studies the scope and fundamental concepts of these fields. It also investigates their methods and ethical implications.
+
+
+
+## World's  Major Philosophical Thoughts by Chronology
 
 
 

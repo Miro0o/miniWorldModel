@@ -32,10 +32,10 @@
 ### Xbox
 
 
-### Windows
+### PC (Windows OS)
 
 
-### Posix Systems
+### PC (Posix-Compatible OS)
 
 
 

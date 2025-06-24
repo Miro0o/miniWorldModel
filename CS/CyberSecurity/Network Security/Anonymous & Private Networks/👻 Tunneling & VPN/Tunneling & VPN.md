@@ -56,6 +56,9 @@
 9. [不要入坑的VPN](https://github.com/vpncn/vpncn.github.io#%E4%B8%8D%E8%A6%81%E5%85%A5%E5%9D%91%E7%9A%84vpn)
 10. [其他VPN避坑提示](https://github.com/vpncn/vpncn.github.io#%E5%85%B6%E4%BB%96vpn%E9%81%BF%E5%9D%91%E6%8F%90%E7%A4%BA)
 
+🏠 https://github.com/jpillora/chisel
+Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. Single executable including both client and server. Written in Go (golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network.
+
 
 
 ## VPN Intro

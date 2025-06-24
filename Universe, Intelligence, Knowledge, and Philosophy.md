@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Philosophy](Macro-Knowledge/♂%20Philosophy/Philosophy.md)
+
 ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
@@ -14,6 +16,9 @@
 #### Online Resources
 https://plato.stanford.edu/index.html
 Stanford Encyclopedia of Philosophy
+
+https://www.xue8nav.com/
+学吧导航
 #### Books
 👍 👍 👍 https://calculatingempires.net/about.html
 A Genealogy of Technology and Power Since 1500 | Kate Crawford and Vladan Joler
@@ -42,10 +47,14 @@ Anti-fragile: Things That Gain From Disorder
 ### The Universe: Matter & Energy and Information & Time
 #### 运动与静止
 #### 物质与能量
+##### 母星地球和太阳系
 ##### 生命与非生命
-#### 主体（具有自我意识的物质）与客体（不具有自我意识的物质）
-##### 主体自我意识下的情感与逻辑
-##### 主体自我意识下的信息与时间
+###### 生命感知下的信息与时间
+#### 主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）
+##### 个体自我意识下的情感与逻辑
+##### 个体自我意识下的信息与时间
+##### 个体自我意识的组织：群体（家庭，社会，民族，与国家）
+##### 群体自我意识
 #### 从信息到知识：知识是有组织的信息
 ##### 信息的分类：抽象的信息和具体的信息
 ##### 信息的（静止）存在：储存
@@ -62,7 +71,7 @@ Anti-fragile: Things That Gain From Disorder
 ###### 知识的分类：基于情感的知识和基于逻辑的知识
 
 
-##### 信息（计算、传输、储存）的自动化：人类智能，计算机科学，及人工智能
+##### 信息（计算、传输、储存）的自动化：智能
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Intro to Computer Science](CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
@@ -71,6 +80,9 @@ Anti-fragile: Things That Gain From Disorder
 Universe and Human Beings
 Information and Knowledge
 Technology and Science
+###### 从人脑智能到人工智能：计算机科学
+#### 从生命到人类智能：人脑智能 + 人类体能
+##### 人工智能 + 机器人 ≈ （人脑智能 + 人类体能 = 人类智能） ≈ 类人智能？
 
 
 ### System Science & Systemology 🤔

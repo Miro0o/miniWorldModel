@@ -15,6 +15,8 @@
 
 ↗ [AI & Gaming](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 
+↗ [Game Industry](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Game%20Industry/Game%20Industry.md)
+
 
 ### Linux /CLI Games Collections
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 

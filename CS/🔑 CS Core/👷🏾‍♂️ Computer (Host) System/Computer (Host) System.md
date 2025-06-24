@@ -12,7 +12,9 @@
 ↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Program Compilation & Execution](../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+- ↗ [Compilation Phase](../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
