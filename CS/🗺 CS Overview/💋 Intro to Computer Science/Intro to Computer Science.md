@@ -14,7 +14,7 @@
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 
-↗ [Universe, Intelligence, Knowledge, and Philosophy](../../../Universe,%20Intelligence,%20Knowledge,%20and%20Philosophy.md)
+↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
 ### Courses
@@ -60,7 +60,7 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 ### Why is CS needed?
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
-↗ [Universe, Intelligence, Knowledge, and Philosophy](../../../Universe,%20Intelligence,%20Knowledge,%20and%20Philosophy.md)
+↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
 ### What is CS? What are CS Subjects?
@@ -424,7 +424,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 These questions, from general to specific, speaks the path of what i think every CS students should have follow in systematically learning computer science from zero to a profession. Most of these questions are too general and abstract that people rarely take them seriously in learning CS (instead they love solving concrete problems and learning practical techniques). But I believe in undergraduate level study, we should and must establish this systematical, wholistic view about computer science as a discipline as well, in additional to solid engineering skills or specific domain knowledges in some areas.
 
 1. What is the Universe?
-	1. ↗ [Universe, Intelligence, Knowledge, and Philosophy](../../../Universe,%20Intelligence,%20Knowledge,%20and%20Philosophy.md)
+	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 	2. What is the life?（什么是生命？）
 	3. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能）
 		1. What is human society /civilization?

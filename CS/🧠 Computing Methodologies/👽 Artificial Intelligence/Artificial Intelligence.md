@@ -14,7 +14,7 @@
 ↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 ↗ [LLM (Large Language Model)](🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [Universe, Intelligence, Knowledge, and Philosophy](../../../Universe,%20Intelligence,%20Knowledge,%20and%20Philosophy.md)
+↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
 ### Websites & Communities

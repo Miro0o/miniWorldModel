@@ -1,4 +1,4 @@
-# Universe, Intelligence, Knowledge, and Philosophy
+# Universe, Self-Awareness, and Intelligence
 
 [TOC]
 
@@ -69,6 +69,8 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ###### 知识的分类：基于情感的知识和基于逻辑的知识
+
+###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
 
 
 ##### 信息（计算、传输、储存）的自动化：智能（狭义的智能）

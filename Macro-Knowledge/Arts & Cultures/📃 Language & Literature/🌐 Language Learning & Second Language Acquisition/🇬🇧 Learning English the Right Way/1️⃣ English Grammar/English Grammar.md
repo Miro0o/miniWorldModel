@@ -18,7 +18,7 @@
 
 
 
-## Grammatical Hierarchy
+## English Grammatical Hierarchy
 
 ### 1️⃣ Morpheme
 #### Free Morpheme
@@ -59,4 +59,3 @@
 
 
 ## Ref
-
