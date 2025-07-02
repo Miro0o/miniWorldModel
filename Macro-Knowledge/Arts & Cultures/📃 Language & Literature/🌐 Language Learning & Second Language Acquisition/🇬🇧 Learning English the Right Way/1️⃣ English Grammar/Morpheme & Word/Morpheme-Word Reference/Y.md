@@ -604,7 +604,33 @@
 		4. the foregoing discussion has juxtaposed management and owner control. /前面的讨论把管理和所有者控制并置。
 	3. juxtaposition
 6. **zyg-, zygo-** = 表示“轭、叉状物、联合体”。生物学上引申为受精卵。源自希腊语 zugon "yoke," zugoun "to join."
-	1. etc..
+	1. zygomycete
+	2. zygophyte
+	3. zygospore
+	4. zygote
+		1.  [fertilized ovum](dic://fertilized ovum)
+		2. _n._ [cell](dic://cell)
+		3. **embryo**胚胎;**fetus**胎儿，胎;**embryos**晶胚;**embryonic**胚芽的;**womb**子宫;**fertilized**受精;**fertilization**受精, 受胎;**organism**有机体;**unborn**未来的;**uterus**子宫;**offspring**子女, 子孙, 后代;
+		4. _[diploid zygote](dic://diploid%20zygote)_  二倍体合子
+		5. _[hybrid zygote](dic://hybrid%20zygote)_  杂种合子
+		6. _[hermaphroditic zygote](dic://hermaphroditic%20zygote)_  雌雄接合子
+		7. Zygospore A resistant sexual spore formed when a zygote develops a thick wall. /接合体在厚厚的细胞壁内形成的具有抗性的有性孢子。
+		8. What's the difference between a gamete and a zygote /生殖细胞和受精卵的区别是什么？
+		9. The zygote then grows into a long, thin stalk with a capsule on top — not very moss-like at all /然后，受精卵长成一根又长又细的茎，顶部有一个蒴果——一点也不像苔藓。
+		10. When the membranes of the two pronuclei rupture, chromosomes go flying, and boom, you officially have a diploid zygote, which almost immediately starts mitosis. /当两个原核的细胞膜破裂时，染色体飞舞，嘣，你正式有了一个二倍体合子，它几乎立即开始有丝分裂。
+	5. azygous
+	6. syzygy
+	7. zygal
+	8. zygodactyl
+	9. zygoma
+	10. zygosis
+	11. zygapophysis
+	12. zygomorphic
+	13. zygomorphism
+	14. zygomorphous
+	15. heterozygous
+	16. zeugma
+	17. zygapophyseal
 7. yoga
 8. yoka
 

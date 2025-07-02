@@ -6468,9 +6468,11 @@
 ### + \*gwhi- +
 1. **fil, fili-** = thread, 表示“线条”。源自拉丁语 filum "thread."
 	1. filigree
-	2. filing
+		1. n. 金银细丝工艺, 精致华丽而不很坚固的物品, 金丝的细工饰品
+	2. filing [美 /'faɪlɪŋ/](cmd://Speak/_us_/filing)
 		1. _n._ [submission](dic://submission), [entry](dic://entry), [fragment](dic://fragment), [formation](dic://formation), [shaping](dic://shaping), [storage](dic://storage)
 		2. **filings**锉屑;**paperwork**文书工作;**lawsuit**诉讼;**complaint**抱怨;**bankruptcy**破产;**petition**请愿;**pending**未决定的;**divorce**使离婚，使分离;**IRS**美国国税局;**lawsuits**诉讼，法律诉讼;**affidavit**宣誓书;
+		3. She was filing her nails. /她在锉指甲。
 	3. fillet
 		1. (mallet, pullet, pellet, pallet, mullet, millet, ballet, fillet)
 		2. n. 无骨肉片; 去骨鱼片  
@@ -6489,7 +6491,7 @@
 		15. a lightly-grilled fillet steak /烤得很嫩的里脊牛排
 		16. Is it pate or is it a fillet? /是鱼酱还是鱼片？
 		17. Is that a fillet or something, or has that been pate'd? /那是鱼片还是什么，还是被压扁了？
-	5. filament
+	4. filament
 		1. _n._ 细丝(如电灯泡内的灯丝)
 		2. _adj._ 细丝状的
 		3. _adj._ 有细丝的
@@ -6507,14 +6509,14 @@
 		15. Now observe well these strange filaments on its abdomen /现在好好看看它腹部奇怪的细丝。
 		16. These can create lovely sheets, tendrils, and filaments in nebulae as well. /这些也可以在星云中创造出可爱的片状、卷须和丝状物。
 		17. 
-	6. filar
+	5. filar
 		1. adj. 丝的；丝状的
-	7. filaria
-	8. filarial
-	9. filariasis
-	10. filature
+	6. filaria
+	7. filarial
+	8. filariasis
+	9. filature
 		1. n. 缫丝, 缫丝机
-	11. file
+	10. file
 		1. n. 档案, 公文箱, 文件夹, 文件, 卷宗; 锉刀; 纵列  
 		2. vi. 列队行进, 用锉刀做  
 		3. vt. 归档, 申请, 锉, 琢磨
@@ -6584,10 +6586,10 @@
 		27. cardfile
 		28. backfile
 		29. autofile
-	12. filiform
-	13. filose
-	14. filoselle
-	15. profile
+	11. filiform
+	12. filose
+	13. filoselle
+	14. profile
 		1. profile ['prəʊfaɪl] n.侧面；轮廓；外形；剖面；简况，vt.描…的轮廓；扼要描述，vi.给出轮廓。这里的词根fil-表示线绳（或拉线），而pro-表向前，profile名词意为“a drawing of the outline of anything”。如果还不明白，file作为文件和档案的意思应该知道吧？想想我们古代的“线装书”就懂了。 ​​​​
 		2. n. 侧面, 轮廓, 传略  vt. 描绘...轮廓, 写...的传略
 		3. _n._ [chart](dic://chart), [side view](dic://side view), [biography](dic://biography), [life](dic://life), [life story](dic://life story), [life history](dic://life history), [salience](dic://salience)

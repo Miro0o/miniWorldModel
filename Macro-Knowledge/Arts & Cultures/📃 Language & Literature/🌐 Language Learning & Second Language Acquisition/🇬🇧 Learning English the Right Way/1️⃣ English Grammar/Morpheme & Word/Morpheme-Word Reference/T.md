@@ -3368,6 +3368,36 @@
 5. titanium
 
 
+### titr = 表示“标准”，来自法语 title（名称）。
+1. titre
+	1. n. 滴定率, 效价, 滴度, 滴定度
+	2. [titer](dic://titer)
+	3. 
+	4. titrate
+		1. titrator
+			1. autotitrator
+		2. titration
+			1. _n._ [volumetric analysis](dic://volumetric%20analysis)
+			2. **dosing**精密分注;**reagent**试剂;**calibration**调准;**assay**试验;**pH**酸碱度符号;**dosage**剂量，用量;**hydrolysis**水解;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**analyte**分析物;**adsorption**吸附;**reagents**试剂;
+			3. _potentiometric titration_ [化]电位滴定
+			4. _complexometric titration_ 络合滴定；络合滴定法
+			5. _redox titration_ 氧化还原滴定法
+			6. _titration curve_ 滴定曲线
+			7. _titration error_ 滴定误差
+			8. _titration end-point_ 滴定终点
+			9. _titration apparatus_ [医]滴定仪
+			10. Complex formation titration, oxidimetry and precipitation titration were compared /对配位滴定法,氧化还原滴定法和沉淀滴定法进行了比较。
+			11. A volumetric flask is for general mixing and titration. /量瓶只能用于普通混合或者滴定。
+			12. And we determine it in the lab using pH indicators through a process called titration. /我们在实验室中通过称为滴定的过程使用 pH 指示剂来确定它。
+			13. 
+			14. pseudotitration
+			15. overtitration
+			16. microtitration
+			17. electrotitration
+	5. titrant
+	6. titrand
+
+
 ### ⭐ -tic,-atic,-etic,-itic = 表形容词，通常放在一个名词前，“与…相关的，…的”。
 1. apathetic
 2. etc..

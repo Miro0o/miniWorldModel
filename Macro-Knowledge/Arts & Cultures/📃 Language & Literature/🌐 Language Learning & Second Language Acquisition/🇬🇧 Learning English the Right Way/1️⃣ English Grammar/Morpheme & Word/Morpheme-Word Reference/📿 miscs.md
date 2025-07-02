@@ -693,6 +693,77 @@ barding
 - v. 在…上覆盖熏肉片；给战马装上铠甲（bard的ing形式）
 - His horse's heavy **barding** and his own flashing armor were enough to announce his presence to anyone for miles around. /他的马的厚重战马专用铠甲和他自己的闪光的护甲都足够向周围几英里内的任何人暴露他的位
 
+bare
+- a. 赤裸的, 缺少的, 无遮蔽的, 坦率的  
+- vt. 使赤裸, 露出
+-  [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air)
+- [denude](dic://denude), [denudate](dic://denudate), [strip](dic://strip)
+-  [au naturel(p)](dic://au naturel\(p\)), [naked](dic://naked), [nude](dic://nude)
+- [scanty](dic://scanty), [spare](dic://spare)
+-  [unsheathed](dic://unsheathed)
+-  [marginal](dic://marginal)
+- [mere(a)](dic://mere\(a\)), [simple(a)](dic://simple\(a\))
+-  [unfinished](dic://unfinished)
+-  [barren](dic://barren), [bleak](dic://bleak), [desolate](dic://desolate), [stark](dic://stark)
+-  [stripped](dic://stripped)
+-  [plain](dic://plain), [spare](dic://spare), [unembellished](dic://unembellished), [unornamented](dic://unornamented)
+- _v._ [uncover](dic://uncover), [expose](dic://expose), [tell](dic://tell), [clear](dic://clear)
+- _adj._ [unclothed](dic://unclothed), [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy), [bald](dic://bald)
+- _n._ [clothed](dic://clothed), [clad](dic://clad), [ample](dic://ample), [covered](dic://covered), [wide](dic://wide), [fancy](dic://fancy), [painted](dic://painted)
+	- [bare](dic://bare) 指缺少必要的遮盖物。用于人时，多指身体的部分裸露。  
+	- [naked](dic://naked) 指全身一丝不挂，暴露无遗。  
+	- [bald](dic://bald) 指头上无发，山坡无树无草，树顶无叶。  
+	- [barren](dic://barren) 着重缺少肥力或生活能力，无草无木，荒瘠不毛。
+- **naked**裸体的;**stripped**剥去的;**laying**产卵数;**lay**放置，安放，平放;**barren**贫瘠的;**laid**放;**bones**骨骼;**flesh**肉体;**lifeless**无生命的;**ground**地面;**stark**僵硬的, 光秃秃的, 荒凉的;
+- _bare of_ vt. 几乎没有，缺乏
+- _lay bare_ 揭发，暴露；公开
+	- The investigation has laid bare their fraudulent scheme. /这个调查把他们的骗局暴露无遗。
+	- The report lays bare the shocking housing conditions in this city. /那份报告揭露了这座城巿恶劣的住房条件。
+	- It did lay bare divisions in both parties. /这的确暴露了两党的分歧。
+	- The empire is laid bare in all its contradictory complexity. /大英帝国暴露出它所有矛盾的复杂性。
+	- Although this deficit went largely unnoticed for years, it was laid bare by Hurricane Sandy. /多年以来，公众对此差距几乎全然不知，但是飓风桑迪的袭击让人们注意到了二者的差距。
+- _bare feet_ 赤脚；光脚；光着脚
+- _bare land_ 裸地；白地
+	- - 裸地：指没有植被或覆盖物的土地。
+	- Moreover, over 70% of the soil erosion in the mountainous area and 100% of sandy **bare** **land** should be controlled. /山区水土流失治理程度达到70%以上，风沙危害区沙荒地治理率达到100%。
+- _bare metal_ 裸金属
+- _bare minimum_ 绝对最小值
+	- But the reality is that sometimes parks do the bare minimum /事实是有时公园做得少的不能再少。
+	- A better approach is to celebrate small wins and take a bare minimum approach. /更好的方法是庆祝小小的胜利，并采取最低条件的方法。
+	- But the consequences of doing the bare minimum would be even worse. /但是，只是做最少可以做到的事情结果会更加坏。
+	- Presidents increasingly got alone and tell congress the bare minimum about military actions. /总统们越来自行其事，只告诉国会最基本的军事行动。
+	- The fungi have reduced their recycling to a bare minimum. /真菌已经把它们的生命循环降到了最低限度。
+- _go bare_ [美国口语];◎(开业医生、厂商等)不参加责任(或渎职)保险;◎(在不保产品责任险或渎职险等情况下)赤手空拳地从业;
+- _bare rock_ 明礁，裸礁石；裸岩
+	- No bird will lay their eggs directly onto ice, so bare rock is a vital commodity. /企鹅不会把蛋直接下在冰面上，于是裸岩就成了最重要的繁殖地。
+	- Only in a land almost entirely covered in ice could bare rock be reckoned an oasis. /只有在几乎完全被冰覆盖的陆地上，裸岩才会被当作一块宝地。
+	- But where does she get food, mamma? There is no corn on the bare rock, no pleasant fruit on the tossing sea. /“那么它从哪儿获得食物呢，妈妈？在光秃秃的岩石上没有玉米，在翻腾的海洋中没有可口的果实。”
+- _bare tube_ 光管；露天管路；裸管
+	- 光管：指没有外壳或保护层的管状物。
+	- 露天管路：指在户外或露天环境中的管道系统。
+	- 裸管：指没有绝缘层或包覆层的管状物。
+- threadbare
+- baresark
+- bareness
+- barely
+- bareheaded
+	- _[bareheaded photo](dic://bareheaded%20photo)_ 免冠照片
+	- In this cold and darkness there went along the street a poor little girl, bareheaded, and with naked feet. /在这样的寒冷和黑暗中，有一个没戴帽子、光着脚的小女孩正在街上走着。
+	- Cleopatra's sister Arsinoe, who had led the Egyptian army against Caesar, was dragged through the streets bareheaded and in chains. /克利奥帕特拉的妹妹阿辛诺伊曾率领埃及军队对抗凯撒，她被用镣铐拖着走过街道，头上什么也没戴。
+- barefoot
+	- barefooted
+- barefaced
+	- barefacedness
+	- barefacedly
+- bareback
+	- barebacked
+- ballast [美 /'bæləst/](cmd://Speak/_us_/ballast)
+	- n. 压载物, 压舱物
+	- ballast（压舱物）：用来增加船只稳定性的重物  
+	- 古代人在使用帆船航行时发现，如果船底太轻，帆船很容易被风刮得东倒西歪，无法稳定行驶。因此，为了增加帆船的稳定性，他们会在帆船底部放置一些重物。如果船上的货物已经全部卖出，就只能用一些无用的重物如石头来压在舱底。这种没有价值的压舱物在英语中就叫做ballast，在古英语中由bar（=bare，空的，光的，无用的）+last（=load，负载）构成，字面意思就是bare load（无用负载）。在修建铁路时，需要在路基上铺上道渣碎石来压实路基土方。这种道渣碎石也可以称为ballast。  
+	- ballast：['bæləst] n.压舱物，压载物，道渣碎石vt.给……装压舱物，给……铺道渣
+	- - bal-,词源同 bare,仅仅，字母 l,r 音变，last,古词义，重担。
+
 barge
 - barge（驳船）：古埃及人用来运输货物的船只  
 - 古埃及人生活在尼罗河畔，很早就学会了造船航行的技术。为了充分利用尼罗河水的自然力量，他们还发明了最早的驳船，在科普特语中称为baris。这种船用橡胶树的木板做成，宽敞结实，据古代历史学家希罗多德在其名著《历史》一书中记载，一次可以装载上千塔兰特（古代重量单位，大约60公斤）的货物。古埃及人用柳木和芦苇编织成筏子，将其系在baris前面，为它提供牵引力，并在baris的尾部用绳子绑块石头来保持方向，轻快的筏子就会拖着沉重的baris沿尼罗河顺流而下。英语单词barge就源自古埃及人制造的这种baris，用来表示平底、宽大的货船，即所谓的驳船。这种船行动迟缓笨拙，所以barge一词又衍生出“笨拙或粗鲁地闯入”之意。  
@@ -2156,6 +2227,8 @@ bunkum
 - Given a surfeit of green PR **bunkum**, it is not easy to know whether they mean what they say. /考虑到过量绿色公关废话的存在，要辨别它们是否说到做到其实并不容易。
 
 bunker
+- 1. _n._ (士兵用的) 掩体, 地堡, 掩蔽壕
+2. (高尔夫球场的)沙坑
 - [sand trap](dic://sand trap), [trap](dic://trap)
 - [dugout](dic://dugout)
 - _n._ [hazard](dic://hazard), [container](dic://container), [fortification](dic://fortification), [munition](dic://munition)
@@ -2174,6 +2247,8 @@ bunker
 - The greenhouse gas that threatens to warm the planet is simply bunkered away /威胁地球变暖的温室气体被封存起来了。
 
 bur
+- - n. 刺果；芒刺；钻头
+- vt. 从……除去芒刺
 - [burr](dic://burr)
 - _n._ [pericarp](dic://pericarp), [seed vessel](dic://seed vessel), [bit](dic://bit)
 - _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
@@ -2191,6 +2266,7 @@ bureau
 - **agency**代理，中介;**department**部, 部门, 系;**correspondent**通讯员, 记者;**chief**酋长;**deputy**代理人，代表;**office**办公室;**commissioner**专员, 长官;**secretary**部长;**headquarters**总部;**staffer**职员;**FBI**联邦调查局;
 
 burette [美 /bju'rɛt/](cmd://Speak/_us_/burette)
+- - 来自 PIE*bheu,膨胀，词源同 bucket.-ette,小词后缀。
 - _n._ [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
 - **reagent**试剂;**syringe**注射器;**vial**小瓶;**flask**烧瓶;**cylinder**汽缸;**cannula**套管，插管;**jug**水壶;**nozzle**喷嘴;**orifice**孔口;**liquid**液体的;**acetone**丙酮;
 - _[gas burette](dic://gas%20burette)_  气体量管; 量气管; 
@@ -2516,10 +2592,15 @@ canvas
 capa
 
 chagrin (vexation)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
+- n. 懊恼, 失望  vt. 使懊恼
 - **dismay**沮丧，灰心;**annoyance**烦恼;**displeasure**不快, 不悦, 生气;**amazement**惊奇, 惊愕;**disdain**蔑视;**astonishment**惊讶, 惊奇;**embarrassment**困窘;**disgust**厌恶，嫌恶;**frustration**挫折;**disappointment**失望;**ire**忿怒;
 - [humiliate](dic://humiliate), [mortify](dic://mortify), [humble](dic://humble), [abase](dic://abase)
 - _n._ [embarrassment](dic://embarrassment)
 - v. [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+- To cause to feel chagrin; mortify or discomfit. /使懊恼,使受屈辱,使窘迫。
+- Much to his chagrin,he did not win the race. /使他大为懊恼的是他赛跑没获胜。
+- I was most chagrined when I heard that he had got the job instead of me. /当我听说是他而不是我得到了那份工作时懊恼极了。
 
 charade (b)
 - charade（幌子）：古代法国的看手势猜字谜游戏  
@@ -2528,6 +2609,11 @@ charade (b)
 - [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
 - _n._ [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [word](dic://word)
 - **ruse**诡计;**farce**笑剧,闹剧,滑稽戏;**sham**假装;**pretense**借口;**phony**假的，欺骗的;**deception**欺骗;**ploy**策略;**pretending**假装的;**mockery**嘲弄;**deceit**欺骗;**fiasco**惨败;
+- I refused to go along with their pathetic charade. /我拒不跟他们摆出那副可悲的装模作样的姿态。
+- She struggled to maintain the charade of not being afraid. /她竭力装出不害怕的样子。
+- I wondered why he had gone through the elaborate **charade**. /我想知道为什么他做出了那么夸张的假样子。
+-  We tossed aside our best values, making them look like a hollow **charade** /我们把我们的最佳价值扔到一边，使它们看起来像个无解的猜谜。
+- Their whole marriage had been a **charade**—they had never loved each other /他们的整个婚姻都是在做戏—他们从未相爱过。
 
 charlatan
 - charlatan（江湖郎中）：以江湖郎中出名的意大利小城塞利托  
@@ -4296,7 +4382,7 @@ fidget (fiddle, piddle)
  - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
  - fidgety
 	 -   (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 	 - unable to relax or be still
 	 - a. 不安的, 烦躁的
 	 - [antsy](dic://antsy), [fretful](dic://fretful), [itchy](dic://itchy), [restless](dic://restless)
@@ -6327,7 +6413,7 @@ grunt
 - **groan**呻吟;**growl**咆哮着说;**moan**呻吟;**scream**尖叫;**roar**吼;**howl**怒吼;**yell**大叫，叫喊;**growling**咆哮的;**moans**呻吟;**rumble**使隆隆响;**whine**闹声;
 - gruntling
 - gruntle
-	- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)s
+	- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)
 - disgruntle
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
@@ -9809,8 +9895,8 @@ lucre
 	- **profitable**有利可图的;**coveted**梦寐以求的;**sought-after**很吃香的;**risky**危险的;**successful**成功的;**enticing**迷人的;**promising**有希望的, 有前途的;**marketable**可卖的;**high-profile**高姿态的;**ventures**投机者;**windfall**被风吹落的果子;
 	- [profitable](dic://profitable)
 
-lul
-- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
+lull
+- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)
 - **flurry**一阵疾风;**slump**下降，衰落;**momentary**瞬间的;**interlude**中间;**respite**暂缓;**slumber**睡眠;**complacency**自满;**pause**暂停;**protracted**<书>延长的;**surge**汹涌;**prolonged**持续很久的,长时间的;
 - [pause](dic://pause), [intermission](dic://intermission), [break](dic://break), [interruption](dic://interruption), [suspension](dic://suspension), [calmness](dic://calmness)
 - [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
@@ -11054,6 +11140,8 @@ peck (peck, pike, pick)
 - henpeck
 
 peeve
+-  v. 惹恼；（使）恼怒
+- n. 惹人生气的原因
 -   (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 - 来自 peevish 的回构词。
@@ -11065,6 +11153,8 @@ peeve
 - in a peeve about the delays /对耽搁感到恼怒
 - his pet peeve is not having answers for questions from players /最让他生气的是选手们不回答问题。
 - Yes, a pet peeve is something that someone finds particularly annoying. /是的，" 恼人的事物" 是某人觉得特别讨厌的东西。
+- The unsolicited ads appear prominently on the screen and are a pet **peeve** for many users /不请自来的广告显眼地出现在屏幕上，对于许多使用者来说是个恼人的事。
+- She was in a **peeve** over it. /她对这很气恼。
 - peevish
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
@@ -11080,6 +11170,8 @@ peeve
 	- _adj._ [displeased](dic://displeased)
 	- _n._ [pleased](dic://pleased)
 	- **annoyed**恼怒的;**pissed**愤怒的;**upset**使心烦;**frustrated**挫败的;**unimpressed**印象平平的;**irritated**恼怒的;**outraged**义愤填膺的;**perplexed**困惑的;**dismayed**心慌;**angry**生气的;**disgusted**厌恶的;
+	- Manfredi couldn't have been more peeved. /曼弗雷迪被激怒了。
+	- I would not. Grenn sounded peeved. I'd just ride south, you can tell south by the stars. /" 我才不会，" 葛兰听起来很气愤。" 我会往南骑，看星星就知道哪边是南方。"
 
 perk
 - vi. 昂首, 振作, 举止高傲, 神气活现, 滤煮  
@@ -11129,6 +11221,7 @@ perm
 - When my grandma died, I got a perm. /我祖母去世的时候 我去烫了头发。
 
 pert
+- adj. 无礼的；鲁莽的；大胆的
 - (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky)
 - [impertinent](dic://impertinent), [irreverent](dic://irreverent), [saucy](dic://saucy)
 - [spirited](dic://spirited)

@@ -2129,16 +2129,25 @@
 		2. [imprison](dic://imprison), [incarcerate](dic://incarcerate), [lag](dic://lag), [put behind bars](dic://put behind bars), [jail](dic://jail), [jug](dic://jug), [gaol](dic://gaol), [put away](dic://put away), [remand](dic://remand)
 		3. **confine**限制;**slay**杀害;**torment**折磨，使痛苦;**oneself**自己;**confinement**限制,被监禁;
 		4. they are not a little tired of being mured up in the cottage /他们住在与世隔绝的小别墅里觉得极其烦闷。
-		5. immurement, immuration
+		5. In whose confine immured is the store which should example where your equal grew. /在谁的禁宫中有这样一种宝库，会随着你的宝贝涨缩合宜？
+		6. I immured myself for four years, and studied the laws of the empire /我自我幽闭了四年，专心学习帝国的法律。
+		7. We were immured within prison walls of granite. /我们被关在花岗岩监狱的围墙里。
+		8. " I shall be coming and going, but shall not immure myself here any more" . /“我会来来去去，但不会再把自己困在这里”。
+		9. Those still standing are immured by their money, trapped between Western sanctions and the worse punishment that breaking with the Kremlin might entail. /那些仍然站着的人被他们的钱所束缚，被困在西方制裁和与克里姆林宫决裂可能带来的更严厉惩罚之间。
+		10. immurement
+			1. _n._ [confinement](dic://confinement)
+			2. **confinement**限制,被监禁;**imprisonment**关押,监禁;**murderer**凶手;**martyrdom**殉难;**torture**折磨;**murder**谋杀，凶杀;**mutilation**切断;**burial**埋葬;**punishment**处罚, 受罚;**corpse**尸体;**death**死;
+			3. Sometimes immurement might mean being buried alive, or walled in, but in some cases there was a door but it was just locked. /有时监禁可能意味着被活埋， 或被围起来， 但在某些情况下，有一扇门只是被锁上了。
+		11. immuration
 	3. mural
 		1. [wall painting](dic://wall painting)
 		2. _n._ [painting](dic://painting), [picture](dic://picture)
-		3. adj._ [wall](dic://wall)
+		3. adj. [wall](dic://wall)
 		4. **painting**油画;**sculpture**雕塑;**graffiti**墙上乱写乱画的东西;**artwork**艺术品;**painted**描画的;**mosaic**摩西的;**statue**雕像，塑像;**wall**墙壁，围墙;**collage**抽象拚贴画;**billboard**广告牌;**decal**贴花纸;
 		5. _mural painting_ 壁画
 		6. a mural escarpment. /垂直的断崖
 		7. muraled halls. /壁画装饰的大厅
-		8. a cab airbrushed with a mural of a sunset. /喷画有落日的出租车。s
+		8. a cab airbrushed with a mural of a sunset. /喷画有落日的出租车
 		9. Looks like maybe there's a mural underneath it. /看起来下面好像有张壁画。
 		10. He ordered the mural painted on its grounds. /他让人把壁画画在学校的墙壁上。
 		11. transmural
@@ -2148,7 +2157,7 @@
 			1. **painter**画家;**murals**壁画;**mural**墙壁的;**sculptor**雕刻家;**artist**艺术家;**illustrator**插图画家;**painters**画家;**educator**教师;**cartoonist**漫画家;**painting**油画;**architect**建筑师;
 		15. intramural, extramural
 			1. **extracurricular**学校课程以外的;**athletics**体育运动;**athletic**运动的，运动员的;**softball**垒球;**volleyball**排球;**collegiate**学院的;**sports**运动;**cheerleading**带领啦啦队;**varsity**大学体育代表队的;**soccer**英式足球，足球;**basketball**篮球;
-	5. muriform
+	4. muriform
 2. **mur-** = wall, 表示“墙壁”。源自拉丁语 murus "wall."
 	1. munition
 		1. **ammunition**弹药, 军火;**artillery**炮, 大炮;**missiles**导弹;**missile**导弹;**armament**武器;**weapons**武装切换;**weaponry**兵器，武器;**propellant**推进物;**projectile**发射体;**bomb**轰炸，投弹于;**rockets**火箭，烟火;
@@ -2162,32 +2171,56 @@
 	2. premune
 	3. premunition
 	4. praemunire
-#### + \*mei- (4) + = to fix, to build fences or fortiations
-1. **mun-** = to fortify, 「latin」munire, to "fortify, protect, strenghten"
-	1. munition
-		1. submunition
-		2. munitions
-		3. munitioner
-		4. munitioneer
-		5. ammunition
-	2. premune
-		1. premunition, premunitive
-2. **mur-** = wall, 「latin」 murus "wall"
-	1. mure
-		1. contermure, immure
-			1. immuration
-		2. mural
-			1. intramural, extramural, intermural
-			2. transmural, photomural, muralist,
+#### + \*mei- (4) 
+1. **mito-** = thread，表示“线，丝”。源自希腊语 mitos "thread."
+	1. amitosis
+	2. mitochondria
+	3. mitochondrion
+	4. mitoses
+	5. mitosis
+		1. n. 有丝分裂
+		2. mitre ['maɪtə] 就是主教戴（绑）在头上的法冠或僧帽，而mitosis [maɪ'təʊsɪs]则是细胞的有丝分裂。因为在细胞分裂的第一步，细胞核中的核染色体呈丝线状。丝线什么样子？丝线不就是绳子吗？绳子干什么的？绳子用来捆绑东西的。后缀-osis表示行为和过程，因此mitosis就是线状的分裂过程。
+		3. _n._ [cell division](dic://cell%20division), [cellular division](dic://cellular%20division)
+		4. **apoptosis**细胞死;**cytoplasm**细胞质;**chromatin**核染质;**eukaryotic**真核状态的;**nuclei**核心，核子;**photosynthesis**光合作用;**embryo**胚胎;**cell**细胞;**differentiation**区别;**mitochondria**线粒体;**fission**分裂;
+		5. _[meiotic mitosis](dic://meiotic%20mitosis)_  减数有丝分裂,成熟有丝分裂
+		6. _[anastral mitosis](dic://anastral%20mitosis)_  无星有丝分裂
+		7. _[intranuclear mitosis](dic://intranuclear%20mitosis)_  核内有丝分裂
+		8. _[amphiastral mitosis](dic://amphiastral%20mitosis)_  双星有丝分裂
+	6. mitotic
+		1. _adj._ 有丝分裂的,间接核分裂的
+		2. _adj._ [mitosis](dic://mitosis)
+		3. **apoptosis**细胞死;**chromosomal**染色体的;**cytoplasmic**细胞质的;**motility**运动性;**chromatin**核染质;**spindle**轴;**nuclei**核心，核子;**cytoplasm**细胞质;**epithelial**上皮的;**phosphorylation**磷酸化作用;**translocation**易位;
+		4. _mitotic index_ 细胞有丝分裂指数
+	7. dimity
+	8. mitochondrial
+2. **mitr-**
+	1. mitral
+		1. a. 二尖瓣的, 僧帽状的
+	2. mitre [美 /'maɪtər/](cmd://Speak/_us_/mitre)
+		1. n. 僧帽, 主教冠, 斜接, 斜榫
+		2. mitre ['maɪtə] 就是主教戴（绑）在头上的法冠或僧帽，而mitosis [maɪ'təʊsɪs]则是细胞的有丝分裂。因为在细胞分裂的第一步，细胞核中的核染色体呈丝线状。丝线什么样子？丝线不就是绳子吗？绳子干什么的？绳子用来捆绑东西的。后缀-osis表示行为和过程，因此mitosis就是线状的分裂过程。
+		3.  [miter joint](dic://miter joint), [mitre joint](dic://mitre joint), [miter](dic://miter)
+		4. [miter](dic://miter)
+		5. _n._ [joint](dic://joint), [surface](dic://surface), [headdress](dic://headdress), [headgear](dic://headgear)
+		6. **lathe**用车床加工;**bishop**主教;**episcopal**主教的;**sash**肩带;**jig**跳吉格舞;**archbishop**大主教;**saws**锯片;**pope**教皇，罗马教皇;
+		7. _[mitre joint](dic://mitre%20joint)_  夹角接
+		8. _[mitre bend](dic://mitre%20bend)_  斜接弯管
+		9. _[mitre saw](dic://mitre%20saw)_  横切锯
+		10. _[mitre wheel](dic://mitre%20wheel)_  等径伞齿轮；斜方轮
+		11. _[mitre velve](dic://mitre%20velve)_  锥形阀
+		12. _[mitring machine](dic://mitring%20machine)_  斜锯机
+		13. _[mitre valve](dic://mitre%20valve)_  锥形阀,菌形阀,碟形阀
+		14. _[mitre gear](dic://mitre%20gear)_  n. 等径伞齿轮
+		15. _[mitre square](dic://mitre%20square)_  斜角尺；斜曲尺
+		16. _[double mitre saw](dic://double%20mitre%20saw)_  双斜角锯
 #### + \*mei- (5) + = mild
 1. **mit-** = soft, 表示“软”，引申为“成熟”、“温顺”。源自拉丁语 mitis "soft."
-	1. immitigable
-		1. _[immitigable irrelievable](dic://immitigable%20irrelievable)_ 不能减轻的
-	2. mitigable
-	3. mitigate
-		1. [extenuate](dic://extenuate), [palliate](dic://palliate)
-		2. [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [decrease](dic://decrease)
-		3. **minimize**使减到最少;**alleviate**缓和;**lessen**使…变小;**reduce**减少;**minimise**使缩到最小;**counteract**对抗;**prevent**预防，防止;**exacerbate**使恶化;**eliminate**消除, 排除;**avoid**避免;**avert**避免，防止;
+	1. mitigate
+		1. litigate诉讼、navigate航行、fumigate烟熏、levigate研细、fustigate抨击、variegate使多样化、castigate严惩、mitigate缓解、expurgate删除、objurgate训斥、profligate放荡的......这些单词中的-gate可不是watergate scandal水门事件中的“门”哦，而是词根ag,act表to drive,to do,to make的体现。
+		2. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)
+		3. [extenuate](dic://extenuate), [palliate](dic://palliate)
+		4. [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [decrease](dic://decrease)
+		5. **minimize**使减到最少;**alleviate**缓和;**lessen**使…变小;**reduce**减少;**minimise**使缩到最小;**counteract**对抗;**prevent**预防，防止;**exacerbate**使恶化;**eliminate**消除, 排除;**avoid**避免;**avert**避免，防止;
 			1. _[mitigate damage](dic://mitigate%20damage)_  减轻损害
 			2. _[mitigate risks](dic://mitigate%20risks)_  规避风险
 			3. _[mitigating measures](dic://mitigating%20measures)_  缓解措施
@@ -2197,6 +2230,9 @@
 		9. mitigative
 		10. mitigation
 			1. **abatement**减少;**remediation**补习,辅导,补救,纠正;**prevention**预防;**avoidance**逃避;**reduction**减少;**deterrence**威慑;**assessment**估价;**protection**保护, 保卫;**preparedness**准备;**hazard**尝试着做;**stormwater**暴雨水;
+		11. mitigable
+		12. _[immitigable irrelievable](dic://immitigable%20irrelievable)_ 不能减轻的
+		13. immitigable
 
 
 ### + \*meik- + = to mix

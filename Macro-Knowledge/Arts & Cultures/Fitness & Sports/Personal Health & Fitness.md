@@ -1,4 +1,4 @@
-# work out plan & notes
+# Personal Health & Fitness
 
 [TOC]
 
@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Personal Health Care](../../Human%20Development/Medicine/Personal%20Health%20Care.md)
 
 
 ### Learning Resources
@@ -20,7 +21,7 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 
-## Intro：Overview
+## Overview: Fitness
 训练目标：
 1. 增肌
 2. 减脂
@@ -33,11 +34,13 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Musculature Anatomy
-![](../../Assets/Pics/Pasted%20image%2020250301154703.png)
+![](../../../../Assets/Pics/Pasted%20image%2020250301154703.png)
 
-![](../../Assets/Pics/Pasted%20image%2020250301160954.png)
+![](../../../../Assets/Pics/Pasted%20image%2020250301160954.png)
 
-![](../../Assets/Pics/Pasted%20image%2020250301161808.png)
+![pdfcoffee.com_anatomyofexercisepdf-pdf-free](../../../Assets/Cheat_Sheets/pdfcoffee.com_anatomyofexercisepdf-pdf-free.pdf)
+
+![](../../../../Assets/Pics/Pasted%20image%2020250301161808.png)
 
 
 ### Warm Up
@@ -45,20 +48,20 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 
-## Fat Loss
+## 👴🏿 Fat Loss
 ### HIIT
 93 【【到底哪种运动最减脂?】有氧？HIIT？ - 帅soserious | 小红书 - 你的生活指南】 😆 OhaMPEtDCBzo1R8 😆 https://www.xiaohongshu.com/discovery/item/60ab7832000000000100adcb?source=webshare&xhsshare=pc_web&xsec_token=ABYCDtejttgHXSs-7IkYJXfZddbcl6lpmDkIZ3i3KApRI=&xsec_source=pc_share
 
 
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.33.23.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.33.23.png)
 <small>84 【减脂成功365天后，他的身体发生了什么变化! - 帅soserious | 小红书 - 你的生活指南】 😆 JQonOYw5VHZfxtO 😆 <a>https://www.xiaohongshu.com/discovery/item/674592760000000002038c5e?source=webshare&xhsshare=pc_web&xsec_token=ABs963PAgX3_x7SxNAQ8aBl0XsneLOv8qn7s-FkL9fIsI=&xsec_source=pc_share</a></small>
 
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.34.41.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.34.41.png)
 <small>84 【减脂成功365天后，他的身体发生了什么变化! - 帅soserious | 小红书 - 你的生活指南】 😆 JQonOYw5VHZfxtO 😆 <a>https://www.xiaohongshu.com/discovery/item/674592760000000002038c5e?source=webshare&xhsshare=pc_web&xsec_token=ABs963PAgX3_x7SxNAQ8aBl0XsneLOv8qn7s-FkL9fIsI=&xsec_source=pc_share</a></small>
 
 
 
-## Muscle Gain
+## 🤡 Muscle Gain
 ### Chest
 31 【如何练出饱满胸肌⁉️ - 帅soserious | 小红书 - 你的生活指南】 😆 o7Xvz6VaYaxV3cI 😆 https://www.xiaohongshu.com/discovery/item/6488367e00000000130343ab?source=webshare&xhsshare=pc_web&xsec_token=ABtaiTR3uNyRRpzq0BzOQ9PJI1-sd0VdSeXg5b2HfACWA=&xsec_source=pc_share
 
@@ -84,6 +87,42 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Shoulders
+
+
+
+### Arms
+94 【【拯救细弱】如何快速练粗手臂?!（含计划） - 帅soserious | 小红书 - 你的生活指南】 😆 wVgYBOfCuZtYReK 😆 https://www.xiaohongshu.com/discovery/item/62527a640000000001027036?source=webshare&xhsshare=pc_web&xsec_token=ABe5ATIIv5ojlmdjPuXbeI1ZojH31kVeDXL3bn-rlZS7Q=&xsec_source=pc_share
+2. 让人看起来变壮的不是胸肌而是手臂
+3. 训练频率很重要，重量适度
+#### Biceps
+肱二头肌增大训练
+
+| 项目     | 组数          |
+| ------ | ----------- |
+| 靠墙二头弯举 | 3 x 12      |
+| 拖拽式弯举  | 3 x 15      |
+| 集中式弯举  | 3 x 15      |
+| 身前垂式弯举 | 3 x 15 （每边） |
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.14.21.png)
+#### Triceps
+肱三头肌增大训练
+
+| 项目       | 组数      |
+| -------- | ------- |
+| 单臂下压+后伸  | 3 x 15  |
+| 哑铃/杠铃臂屈伸 | 3 x 10  |
+| 绳索下压     | 3 x 15  |
+| 钻石俯卧撑    | 3 x 15  |
+
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.20.23.png)
+
+
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.21.56.png)
+
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.51.png)
+
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.55.png)
+#### Forearms
 
 
 ### Abs & Core
@@ -116,43 +155,8 @@ METs are used to estimate how many calories are burned during many common physic
 #### Claves
 
 
-### Arms
-94 【【拯救细弱】如何快速练粗手臂?!（含计划） - 帅soserious | 小红书 - 你的生活指南】 😆 wVgYBOfCuZtYReK 😆 https://www.xiaohongshu.com/discovery/item/62527a640000000001027036?source=webshare&xhsshare=pc_web&xsec_token=ABe5ATIIv5ojlmdjPuXbeI1ZojH31kVeDXL3bn-rlZS7Q=&xsec_source=pc_share
-2. 让人看起来变壮的不是胸肌而是手臂
-3. 训练频率很重要，重量适度
-#### Biceps
-肱二头肌增大训练
 
-| 项目     | 组数          |
-| ------ | ----------- |
-| 靠墙二头弯举 | 3 x 12      |
-| 拖拽式弯举  | 3 x 15      |
-| 集中式弯举  | 3 x 15      |
-| 身前垂式弯举 | 3 x 15 （每边） |
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.14.21.png)
-#### Triceps
-肱三头肌增大训练
-
-| 项目       | 组数      |
-| -------- | ------- |
-| 单臂下压+后伸  | 3 x 15  |
-| 哑铃/杠铃臂屈伸 | 3 x 10  |
-| 绳索下压     | 3 x 15  |
-| 钻石俯卧撑    | 3 x 15  |
-
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.20.23.png)
-
-
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.21.56.png)
-
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.51.png)
-
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.55.png)
-#### Forearms
-
-
-
-## Rest & Moods
+## 🥸 Rest & Moods
 53 【【高效休息】4个方法帮你缓解疲劳! - 帅soserious | 小红书 - 你的生活指南】 😆 rpi2zOETsPAnRPI 😆 https://www.xiaohongshu.com/discovery/item/632192dc0000000011014e6f?source=webshare&xhsshare=pc_web&xsec_token=ABH7rMhyp0lXRE6pSKjOq35sGOFF2XvVWLPcJQs_kcSfM=&xsec_source=pc_share
 
 ### Rest & Sleep
@@ -162,21 +166,21 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 
-## Diets
+## ⛄️ Diets
 
 
 
-## Postures
+## 😸 Postures
 43 【【纠正体态】3步教你快速告别圆肩驼背 - 帅soserious | 小红书 - 你的生活指南】 😆 ZtLzZBe1Gr7mBoH 😆 https://www.xiaohongshu.com/discovery/item/5f4b0e140000000001003d95?source=webshare&xhsshare=pc_web&xsec_token=AB0MuDnLQEG7xmhWC7Xw9tSVhEdZ0vUHka1ClWeVJkKVg=&xsec_source=pc_share
 4. 生活中改善
 5. 早晨拉伸
 6. 力量训练薄弱肌群
 
 
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2018.22.49.png)
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.13.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.22.49.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.13.png)
 
-![](../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.33.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.33.png)
 
 
 

@@ -1978,6 +1978,7 @@
 		9. [launcher](dic://launcher)
 		10. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
 		11. [sling](dic://sling)
+		12. 
 	18. cataract
 		1. cata-,向下，-ract,流，倾泻，词源不详。原指大瀑布，后用做白内障的委婉语。
 		2. n. 白内障; 大瀑布; 奔流, 暴雨
@@ -2593,8 +2594,19 @@
 	3. conceal
 		1. con-强调 + ceal-隐藏。
 		2.  con-,表强调，-ceal,隐藏，词源同 cell,hole.
-		3. concealment
-		4. conealer
+		3.  [hide](dic://hide)
+		4.  [hold back](dic://hold back), [hold in](dic://hold in)
+		5. [conceal](dic://conceal) 正式用词，多强调有目的、有意识，巧妙地进行隐藏或隐瞒。  
+		6. [hide](dic://hide) 普通用词，既可指有意地隐藏，又可指无意或偶然地藏匿。  
+		7. [screen](dic://screen) 指把处于被发现的人或物掩盖起来，使其不被发现。
+		8. **hide**隐藏;**disguise**假装;**hid**隐藏;**reveal**揭露;**expose**使曝光;**deceive**欺骗;**hides**躲藏处;**hiding**隐匿;**camouflage**伪装;**suppress**抑制;**evade**逃避;
+		9. The door was partially concealed by the drapes. /门有一部分被门帘遮住了。
+		10. He made no attempt to conceal his smirk. /他毫不掩饰自鸣得意的笑容。
+		11. Her brusque manner concealed a caring nature. /她举止粗鲁但实际上很关心他人。
+		12. Cosmetics are often used to conceal facial blemishes. /化妆品常用来遮盖脸部色斑。
+		13. His veneer of politeness concealed a ruthless determination. /他彬彬有礼的伪装下隐藏着不择手段的狠心。
+		14. concealment
+		15. conealer
 	5. occult
 		1. 1 - oc-,在上，表强调，-cul,隐藏，覆盖，词源同 hole,cellar,hell.即隐藏的，覆盖的，引申词义神秘的，玄妙的。
 		2. a. 神秘的, 不可思议的, 超自然的  
@@ -2624,21 +2636,31 @@
 		24. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
 		25. 
 	6. codeine
-		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
-		2. pseudocodeine
-		3. norcodeine
-		4. dicodeine
-		5. desocodeine
-		6. apocodeine
+		1. - n. [毒物][药] 可待因（用鸦片制成的止痛镇咳药）
+		2. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
+		3. _n._ [opiate](dic://opiate), [analgesic](dic://analgesic), [anodyne](dic://anodyne), [painkiller](dic://painkiller), [pain pill](dic://pain%20pill), [antitussive](dic://antitussive)
+		4. A study on the chromatographic behaviours of codeine, morphine, papaverine, narcotine, cannabidiol, tetrahydrocannbinol, cannbinol and diacetyl morphine on wide bore capillary column in presented. /研究了可待因、吗啡、罂粟碱、那可汀、大麻酚、大麻二酚、四氢大麻酚和二乙酰吗啡在大口径毛细管柱上的色谱行为。
+		5. pseudocodeine
+		6. norcodeine
+		7. dicodeine
+		8. desocodeine
+		9. apocodeine
 	7. hall
 		1. whitehall
 		2. hallway
 		3. hallstand
 			1. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture)
 		4. hallmark
-			1. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
-			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
-			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
+			1.  n. 特点，特征；（金银制品上标明纯度及制作时间、地点的）印记
+			2. v. 给……打金银纯度印记；使具有……特征
+			3. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
+			4. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
+			5. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
+			6. Clear expression is the hallmark of good writing. /表达清楚是佳作的特色。
+			7. One hallmark of a good politician is his ability to influence people. /衡量一个优秀政治家的标志之一就是他影响大众的能力。
+			8. The burglary had all the hallmarks of a professional job. /从各方面来看,这起入室行窃案都是职业惯犯做的。
+			9. This " discrete infinity" is often said to be the hallmark of human language. /这种“离散无穷大”常被认为是人类语言的标志。
+			10. 
 		5. guildhall
 	8. hull (haul, overhaul)
 		1. - n. 船体；（果实的）外壳 vt. [粮食]去壳
