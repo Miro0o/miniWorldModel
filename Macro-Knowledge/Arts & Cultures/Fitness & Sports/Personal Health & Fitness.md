@@ -8,6 +8,9 @@
 ### Related Topics
 ↗ [Personal Health Care](../../Human%20Development/Medicine/Personal%20Health%20Care.md)
 
+↗ [Human Body (Organ) System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+↗ [Muscular System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+
 
 ### Learning Resources
 📚 https://www.amazon.com/dp/B09ZV68MHJ?binding=paperback&searchxofy=true&ref_=dbs_s_bs_series_rwt_tpbk&qid=1740814825&sr=1-6
@@ -49,9 +52,12 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ## 👴🏿 Fat Loss
-### HIIT
-93 【【到底哪种运动最减脂?】有氧？HIIT？ - 帅soserious | 小红书 - 你的生活指南】 😆 OhaMPEtDCBzo1R8 😆 https://www.xiaohongshu.com/discovery/item/60ab7832000000000100adcb?source=webshare&xhsshare=pc_web&xsec_token=ABYCDtejttgHXSs-7IkYJXfZddbcl6lpmDkIZ3i3KApRI=&xsec_source=pc_share
+### 📌 Principles: Why we loose fat?
 
+
+
+### HIIT
+4 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 CSWVMEz6j3tNulr 😆 http://xhslink.com/a/0gPTAm5iuebgb 复制本条信息，打开【小红书】App查看精彩内容！
 
 ![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.33.23.png)
 <small>84 【减脂成功365天后，他的身体发生了什么变化! - 帅soserious | 小红书 - 你的生活指南】 😆 JQonOYw5VHZfxtO 😆 <a>https://www.xiaohongshu.com/discovery/item/674592760000000002038c5e?source=webshare&xhsshare=pc_web&xsec_token=ABs963PAgX3_x7SxNAQ8aBl0XsneLOv8qn7s-FkL9fIsI=&xsec_source=pc_share</a></small>
@@ -62,18 +68,19 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ## 🤡 Muscle Gain
+### 📌 Principles: Why we gain muscle?
+
+
 ### Chest
-31 【如何练出饱满胸肌⁉️ - 帅soserious | 小红书 - 你的生活指南】 😆 o7Xvz6VaYaxV3cI 😆 https://www.xiaohongshu.com/discovery/item/6488367e00000000130343ab?source=webshare&xhsshare=pc_web&xsec_token=ABtaiTR3uNyRRpzq0BzOQ9PJI1-sd0VdSeXg5b2HfACWA=&xsec_source=pc_share
+18 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 vBr148ZRNIZ5SVc 😆 http://xhslink.com/a/y0UIMYnmUobgb 复制本条信息，打开【小红书】App查看精彩内容！
 
-95 【【无器械】10分钟高效家庭胸部训练 - 帅soserious | 小红书 - 你的生活指南】 😆 LasxVo1CxdOLmtf 😆 https://www.xiaohongshu.com/discovery/item/6007e547000000000100aa35?source=webshare&xhsshare=pc_web&xsec_token=ABZ4SygOc1H-wi2-KvUHafx25kH-IjN4QK4A8U-Kn4pSg=&xsec_source=pc_share
+71 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 hBDK8eXxQQlIQZS 😆 http://xhslink.com/a/5fxv8WHyapbgb 复制本条信息，打开【小红书】App查看精彩内容！
 
-80 【如何学会做一个标准卧推‼️ - 帅soserious | 小红书 - 你的生活指南】 😆 gsUX1RoldhfTr24 😆 https://www.xiaohongshu.com/discovery/item/64eabfbd000000001700ef3b?source=webshare&xhsshare=pc_web&xsec_token=ABRHij6Eu4ckQqc6NIOpS_u7uM6m_vcucf8i6NfFuLi64=&xsec_source=pc_share
-
-
+68 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 inzkxrhXoVZlZeY 😆 http://xhslink.com/a/aItjl6Tjhpbgb 复制本条信息，打开【小红书】App查看精彩内容！
 
 
 ### Back
-36 【如何练出一个好看的背部！ - 帅soserious | 小红书 - 你的生活指南】 😆 oskhvsUZvomf2iI 😆 https://www.xiaohongshu.com/discovery/item/65b0f6e0000000002d000eb8?source=webshare&xhsshare=pc_web&xsec_token=ABE0rp9pyjL_bKUuEknj_gH-jEHPnB171Yii1uJlfavd0=&xsec_source=pc_share
+86 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 Jirhw63Iou7yRIJ 😆 http://xhslink.com/a/uLCYxqZsupbgb 复制本条信息，打开【小红书】App查看精彩内容！
 
 | 项目     | 组数         |
 | ------ | ---------- |
@@ -82,8 +89,7 @@ METs are used to estimate how many calories are burned during many common physic
 | 窄握绳索划船 | 3 x 12     |
 | 俯身Y字飞鸟 | 3 x 15     |
 
-55 【10分钟高效家庭背部训练 - 帅soserious | 小红书 - 你的生活指南】 😆 OTXd8wi2zD7lS7u 😆 https://www.xiaohongshu.com/discovery/item/600fee49000000000100a627?source=webshare&xhsshare=pc_web&xsec_token=ABKweSbgmu8khp-4M2dAOTwhdrxiwkCVP-5NTmD-hgKAY=&xsec_source=pc_share
-
+68 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 ABVFUTFuO3qFVlu 😆 http://xhslink.com/a/63KBMnQuCpbgb 复制本条信息，打开【小红书】App查看精彩内容！
 
 
 ### Shoulders
@@ -91,7 +97,7 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Arms
-94 【【拯救细弱】如何快速练粗手臂?!（含计划） - 帅soserious | 小红书 - 你的生活指南】 😆 wVgYBOfCuZtYReK 😆 https://www.xiaohongshu.com/discovery/item/62527a640000000001027036?source=webshare&xhsshare=pc_web&xsec_token=ABe5ATIIv5ojlmdjPuXbeI1ZojH31kVeDXL3bn-rlZS7Q=&xsec_source=pc_share
+95 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 JjKSMqAj6zNAZXl 😆 http://xhslink.com/a/ODuX7kp5Rpbgb 复制本条信息，打开【小红书】App查看精彩内容！
 2. 让人看起来变壮的不是胸肌而是手臂
 3. 训练频率很重要，重量适度
 #### Biceps
@@ -159,6 +165,7 @@ METs are used to estimate how many calories are burned during many common physic
 ## 🥸 Rest & Moods
 53 【【高效休息】4个方法帮你缓解疲劳! - 帅soserious | 小红书 - 你的生活指南】 😆 rpi2zOETsPAnRPI 😆 https://www.xiaohongshu.com/discovery/item/632192dc0000000011014e6f?source=webshare&xhsshare=pc_web&xsec_token=ABH7rMhyp0lXRE6pSKjOq35sGOFF2XvVWLPcJQs_kcSfM=&xsec_source=pc_share
 
+
 ### Rest & Sleep
 
 
@@ -185,3 +192,9 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ## Ref
+[# 最佳减肥运动：究竟是跑步还是力量训练？ | 人民日报]: https://news.cctv.com/2019/02/27/ARTITJN2fJeXLZ3AwDEblJyh190227.shtml
+- **跑步具有明确而肯定的燃脂效果**
+- **不是跑步半小时才开始消耗脂肪，而是为了多消耗脂肪要跑步半小时以上**
+- **力量训练的燃脂机制更多来自于内分泌**
+- **通过力量训练可以增加肌肉含量，但并不能有效提高基础代谢**
+- **跑步结合力量训练，双管齐下减肥效果更好**
