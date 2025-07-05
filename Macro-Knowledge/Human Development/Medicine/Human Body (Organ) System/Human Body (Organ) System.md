@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Biology](../../../Nature%20Science%20&%20Engineering/Biology/Biology.md)
 
 
 
@@ -33,19 +34,15 @@
 
 
 
-## Metabolism
-> 🔗 https://en.wikipedia.org/wiki/Metabolism
+## "Energy System" of Human Body & Metabolism
+> ↗ [Biology /Metabolism](../../../Nature%20Science%20&%20Engineering/Biology/Biology.md#Metabolism)
 
-**Metabolism** (/məˈtæbəlɪzəm/, from Greek: μεταβολή metabolē, "change") is the set of life-sustaining chemical reactions in organisms. The three main functions of metabolism are: the conversion of the energy in food to energy available to run cellular processes; the conversion of food to building blocks of proteins, lipids, nucleic acids, and some carbohydrates; and the elimination of metabolic wastes. These enzyme-catalyzed reactions allow organisms to grow and reproduce, maintain their structures, and respond to their environments. The word metabolism can also refer to the sum of all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells, in which case the above described set of reactions within the cells is called intermediary (or intermediate) metabolism.
-
-Metabolic reactions may be categorized as **catabolic**—the breaking down of compounds (for example, of glucose to pyruvate by cellular respiration); or **anabolic**—the building up (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). Usually, catabolism releases energy, and anabolism consumes energy.
-
-The chemical reactions of metabolism are organized into **metabolic pathways**, in which one chemical is transformed through a series of steps into another chemical, each step being facilitated by a specific enzyme. Enzymes are crucial to metabolism because they allow organisms to drive desirable reactions that require energy and will not occur by themselves, by coupling them to spontaneous reactions that release energy. Enzymes act as catalysts—they allow a reaction to proceed more rapidly—and they also allow the regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells.
-
-The metabolic system of a particular organism determines which substances it will find nutritious and which poisonous. For example, some prokaryotes use hydrogen sulfide as a nutrient, yet this gas is poisonous to animals.[1] The basal metabolic rate of an organism is the measure of the amount of energy consumed by all of these chemical reactions.
-
-A striking feature of metabolism is the similarity of the basic metabolic pathways among vastly different species.[2] For example, the set of carboxylic acids that are best known as the intermediates in the citric acid cycle are present in all known organisms, being found in species as diverse as the unicellular bacterium Escherichia coli and huge multicellular organisms like elephants.[3] These similarities in metabolic pathways are likely due to their early appearance in evolutionary history, and their retention is likely due to their efficacy.[4][5] In various diseases, such as type II diabetes, metabolic syndrome, and cancer, normal metabolism is disrupted.[6] The metabolism of cancer cells is also different from the metabolism of normal cells, and these differences can be used to find targets for therapeutic intervention in cancer.[7]
+![](../../../../Assets/Pics/Pasted%20image%2020250704005553.png)
 
 
 
 ## Ref
+[Bioenergetic systems | wikipedia]: https://en.wikipedia.org/wiki/Bioenergetic_systems
+
+[The three main energy systems of the human body]: https://www.freeletics.com/en/blog/posts/human-energy-systems-beginners-guide/
+[Track and field for Masters Athletes 6: Understanding energy systems]: https://www.canada.ca/en/department-national-defence/maple-leaf/rcaf/2020/10/track-and-field-for-masters-athletes-6-understanding-energy-systems.html

@@ -419,7 +419,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 ## Major Global Ethnic Groups & Their Cultures
-> ↗ [Language & Literature](../📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
 > ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
 > ↗ [Global Religions](../../♂%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
@@ -578,7 +578,7 @@ See also
 
 
 ### Contemporary Ethnic Groups
-> ↗[Language & Literature](../📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> ↗[Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 🔗 https://en.wikipedia.org/wiki/List_of_contemporary_ethnic_groups (non-exhaustive)
 > 
 > The following is a **list of contemporary ethnic groups**. There has been constant debate over the classification of [ethnic groups](https://en.wikipedia.org/wiki/Ethnic_group "Ethnic group"). Membership of an ethnic group tends to be associated with shared [ancestry](https://en.wikipedia.org/wiki/Ancestry "Ancestry"), [history](https://en.wikipedia.org/wiki/History "History"), [homeland](https://en.wikipedia.org/wiki/Homeland "Homeland"), [language or dialect](https://en.wikipedia.org/wiki/Language "Language") and [cultural heritage](https://en.wikipedia.org/wiki/Cultural_heritage "Cultural heritage"); where the term "[culture](https://en.wikipedia.org/wiki/Culture "Culture")" specifically includes aspects such as [religion](https://en.wikipedia.org/wiki/Religion "Religion"), [mythology](https://en.wikipedia.org/wiki/Myth "Myth") and [ritual](https://en.wikipedia.org/wiki/Ritual "Ritual"), [cuisine](https://en.wikipedia.org/wiki/Cuisine "Cuisine"), [dressing (clothing) style](https://en.wikipedia.org/wiki/National_dress "National dress") and other factors.

@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Biology](../Nature%20Science%20&%20Engineering/Biology/Biology.md)
+↗ [Medicine](../Human%20Development/Medicine/Medicine.md)
 
 
 ### Other Resources

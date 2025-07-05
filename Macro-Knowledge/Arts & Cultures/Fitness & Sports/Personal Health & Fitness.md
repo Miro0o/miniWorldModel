@@ -37,7 +37,7 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Musculature Anatomy
-![](../../../../Assets/Pics/Pasted%20image%2020250301154703.png)
+> ↗ [Muscular System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250301160954.png)
 
@@ -46,16 +46,22 @@ METs are used to estimate how many calories are burned during many common physic
 ![](../../../../Assets/Pics/Pasted%20image%2020250301161808.png)
 
 
+### 🥸 How do people gain or loose fat & muscle?
+↗ [Biology /Metabolism](../../Nature%20Science%20&%20Engineering/Biology/Biology.md#Metabolism)
+↗ [Human Body (Organ) System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+
+![](../../../Assets/Pics/Pasted%20image%2020250704005632.png)
+
+
+### Importance of fitness in personal health
+
+
 ### Warm Up
 81 【【不要再这样拉伸了!】如何科学有效的热身! - 帅soserious | 小红书 - 你的生活指南】 😆 ZA5bHNH3noPEMLi 😆 https://www.xiaohongshu.com/discovery/item/5faa762d0000000001004df7?source=webshare&xhsshare=pc_web&xsec_token=ABTpUpL3uyeCHLECxDtJmlTaVsLSNG8PHMsX49NevWHWM=&xsec_source=pc_share
 
 
 
 ## 👴🏿 Fat Loss
-### 📌 Principles: Why we loose fat?
-
-
-
 ### HIIT
 4 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 CSWVMEz6j3tNulr 😆 http://xhslink.com/a/0gPTAm5iuebgb 复制本条信息，打开【小红书】App查看精彩内容！
 
@@ -68,9 +74,6 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ## 🤡 Muscle Gain
-### 📌 Principles: Why we gain muscle?
-
-
 ### Chest
 18 帅soserious发布了一篇小红书笔记，快来看吧！ 😆 vBr148ZRNIZ5SVc 😆 http://xhslink.com/a/y0UIMYnmUobgb 复制本条信息，打开【小红书】App查看精彩内容！
 

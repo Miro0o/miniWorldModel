@@ -135,35 +135,80 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ### Overview: Human Society & Human History
-↗ [World's Human History Overview](Macro-Knowledge/Arts%20&%20Cultures/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [World's Human History Overview](Macro-Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
-### Politics & Demography
-#### Political Systems & Governments
-#### Human Resources & Management
-#### Population
-#### Education
-#### Health
+### Human Knowledges & Academic Discipline
+> 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB
+
+《中华人民共和国学科分类》指以国家标准为形式发布的学科分类方式及名称提法，主要有以下三种：
+- 《[学科分类与代码](https://zh.wikipedia.org/wiki/%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB%E4%B8%8E%E4%BB%A3%E7%A0%81 "学科分类与代码")》：由国家技术监督局于1992年11月1日发布，共设五个门类（自然科学、农业科学、医药科学、工程与技术科学、人文与社会科学）、58个一级学科、573个二级学科、近6000个三级学科。
+- 《[授予博士、硕士学位和培养研究生的学科、专业目录](https://zh.wikipedia.org/wiki/%E6%8E%88%E4%BA%88%E5%8D%9A%E5%A3%AB%E3%80%81%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E5%92%8C%E5%9F%B9%E5%85%BB%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E5%AD%A6%E7%A7%91%E3%80%81%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95 "授予博士、硕士学位和培养研究生的学科、专业目录")》：由国务院学位委员会和国家教育委员会（现在的教育部）在1990年10月联合发布，并于1997年发布修改版，包括12大学科门类，89个一级学科，386个二级学科。2011年，新的《学位授予和人才培养学科目录（2011年）》由国务院学位委员会、教育部公布了。在文学门类下“蛰伏”多年的艺术学独立门户，升级为门类，成为哲学、经济学、法学、教育学、文学、历史学、理学、工学、农学、医学、军事学、管理学之后的第13大类学科。一级学科由89个增加到110个。这是中国27年来第四次更新学科专业目录。
+- 《普通高等学校本科专业目录》：由国家教育委员会于1993年首次颁布，1998年、2012年重新修订，包括12个学科门类，92个专业类，506种专业。[1]
+
+其中，《学科分类与代码》是依据学科研究对象、研究特征、研究方法、学科的派生来源、研究目的、目标等五个方面对学科进行分类；而后两个分类则是对高校人才培养、教师教学、科研业务隶属范围的相对界定。
+
+> 🔗 http://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202403/W020240319305498791768.pdf
+> 普通高等学校本科专业目录（2024年）| 中华人民共和国教育部
 
 
-### Economics
-One classical breakdown of economic activity distinguishes [three sectors](https://en.wikipedia.org/wiki/Three-sector_model "Three-sector model"):
-- [Primary](https://en.wikipedia.org/wiki/Primary_sector_of_the_economy "Primary sector of the economy"): involves the retrieval and production of raw-material [commodities](https://en.wikipedia.org/wiki/Commodity "Commodity"), such as corn, coal, wood or iron. Miners, farmers and fishermen are all workers in the primary sector.
-- [Secondary](https://en.wikipedia.org/wiki/Secondary_sector_of_the_economy "Secondary sector of the economy"): involves the transformation of raw or intermediate materials into [goods](https://en.wikipedia.org/wiki/Goods "Goods"), as in steel into cars, or textiles into clothing. Builders and dressmakers work in the secondary sector.
-- [Tertiary](https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy "Tertiary sector of the economy"): involves the supplying of services to consumers and businesses, such as babysitting, cinemas or banking. Shopkeepers and accountants work in the tertiary sector.
+> 🔗 https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
 
-In the 20th century, economists began to suggest that traditional tertiary services could be further distinguished from "[quaternary](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy "Quaternary sector of the economy")" and [quinary](https://en.wikipedia.org/wiki/Quinary_sector_of_the_economy "Quinary sector of the economy") service sectors. Economic activity in the hypothetical quaternary sector comprises information- and knowledge-based services, while quinary services include industries related to [human services](https://en.wikipedia.org/wiki/Human_services "Human services") and [hospitality](https://en.wikipedia.org/wiki/Hospitality_industry "Hospitality industry").[[2]](https://en.wikipedia.org/wiki/Economic_sector#cite_note-2)
+An academic discipline or field of study is a branch of knowledge, taught and researched as part of higher education. A scholar's discipline is commonly defined by the university faculties and learned societies to which they belong and the academic journals in which they publish research.
 
-Economic theories divide economic sectors further into [economic industries](https://en.wikipedia.org/wiki/Industry_\(economics\) "Industry (economics)").
-#### Primary Economical Sector
-#### Secondary Economical Sector
-#### Tertiary Economical Sector
+Disciplines vary between well-established ones in almost all universities with well-defined rosters of journals and conferences and nascent ones supported by only a few universities and publications. A discipline may have branches, which are often called sub-disciplines.
 
-
-### Science & Technologies
-
-
-### Cultures
+The following outline provides an overview of and topical guide to academic disciplines. In each case, an entry at the highest level of the hierarchy (e.g., Humanities) is a group of broadly similar disciplines; an entry at the next highest level (e.g., Music) is a discipline having some degree of autonomy and being the fundamental identity felt by its scholars. Lower levels of the hierarchy are sub-disciplines that do generally not have any role in the structure of the university's governance.
+- [Humanities](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Humanities)
+    - [Performing arts](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Performing_arts)
+    - [Visual arts](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Visual_arts)
+    - [History](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#History)
+    - [Languages and literature](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Languages_and_literature)
+    - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law)
+    - [Philosophy](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Philosophy)
+    - [Religious studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Religious_studies)
+    - [Divinity](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Divinity)
+    - [Theology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Theology)
+- [Social science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Social_science)
+    - [Anthropology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Anthropology)
+    - [Archaeology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Archaeology)
+    - [Futurology (also known as future studies or prospective studies)](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Futurology_\(also_known_as_future_studies_or_prospective_studies\))
+    - [Economics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Economics)
+    - [Geography](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Geography)
+    - [Linguistics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Linguistics)
+    - [Political science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Political_science)
+    - [Psychology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Psychology)
+    - [Sociology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Sociology)
+- [Natural science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Natural_science)
+    - [Biology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Biology)
+    - [Chemistry](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Chemistry)
+    - [Earth science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Earth_science)
+    - [Astronomy](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Astronomy)
+    - [Physics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Physics)
+- [Formal science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Formal_science)
+    - [Computer science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Computer_science)
+    - [Mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Mathematics)
+        - [Pure mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Pure_mathematics)
+        - [Applied mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Applied_mathematics)
+- [Applied science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Applied_science)
+    - [Agriculture](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Agriculture)
+    - [Architecture and design](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Architecture_and_design)
+    - [Business](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Business)
+    - [Education](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Education)
+    - [Engineering and technology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Engineering_and_technology)
+        - [Chemical engineering](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Chemical_engineering)
+        - [Civil engineering](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Civil_engineering)
+        - [Educational technology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Educational_technology)
+        - [Electrical engineering](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Electrical_engineering)
+        - [Materials science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Materials_science)
+        - [Mechanical engineering](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Mechanical_engineering)
+        - [Systems science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Systems_science)
+    - [Environmental studies and forestry](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Environmental_studies_and_forestry)
+    - [Family and consumer science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Family_and_consumer_science)
+    - [Human physical performance and recreation](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Human_physical_performance_and_recreation)
+    - [Journalism, media studies and communication](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Journalism,_media_studies_and_communication)
+    - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law_2)
+    - [Library and museum studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Library_and_museum_studies)
 
 
 

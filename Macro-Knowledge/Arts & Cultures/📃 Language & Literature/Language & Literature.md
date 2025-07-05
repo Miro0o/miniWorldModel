@@ -9,7 +9,7 @@
 ↗ [Natural Language Processing (NLP)](../../../CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 ↗ [LLM (Large Language Model)](../../../CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
-↗ [World's Human History Overview](../📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [World's Human History Overview](../../📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
 ### Other Resources

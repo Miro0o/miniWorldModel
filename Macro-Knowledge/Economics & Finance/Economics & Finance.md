@@ -172,12 +172,22 @@ At the most general level, economists may define wealth as "the total of anythin
 ==The United Nations definition of **inclusive wealth** is a monetary measure which includes the sum of natural, human, and physical assets.== Natural capital includes land, forests, energy resources, and minerals. Human capital is the population's education and skills. Physical (or "manufactured") capital includes such things as machinery, buildings, and infrastructure.
 
 
-### Industry (产业)
+### Sectors & Industries (产业 & 行业)
 > ↗ [Macro Economics](Macro%20Economics/Macro%20Economics.md)
 > 
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A
 > 🔗 [三次产业是怎样划分的 | 国家统计局](https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903768.html#:~:text=%E4%B8%89%E6%AC%A1%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%88%92%E5%88%86%E5%A4%A7%E8%87%B4,%E7%95%8C%E5%AE%9A%E4%B8%BA%E7%AC%AC%E4%B8%89%E4%BA%A7%E4%B8%9A%E3%80%82)
 > 🔗 [国民经济行业分类 | 国家统计局]( https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/)
+
+One classical breakdown of economic activity distinguishes [three sectors](https://en.wikipedia.org/wiki/Three-sector_model "Three-sector model"):
+- [Primary](https://en.wikipedia.org/wiki/Primary_sector_of_the_economy "Primary sector of the economy"): involves the retrieval and production of raw-material [commodities](https://en.wikipedia.org/wiki/Commodity "Commodity"), such as corn, coal, wood or iron. Miners, farmers and fishermen are all workers in the primary sector.
+- [Secondary](https://en.wikipedia.org/wiki/Secondary_sector_of_the_economy "Secondary sector of the economy"): involves the transformation of raw or intermediate materials into [goods](https://en.wikipedia.org/wiki/Goods "Goods"), as in steel into cars, or textiles into clothing. Builders and dressmakers work in the secondary sector.
+- [Tertiary](https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy "Tertiary sector of the economy"): involves the supplying of services to consumers and businesses, such as babysitting, cinemas or banking. Shopkeepers and accountants work in the tertiary sector.
+
+In the 20th century, economists began to suggest that traditional tertiary services could be further distinguished from "[quaternary](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy "Quaternary sector of the economy")" and [quinary](https://en.wikipedia.org/wiki/Quinary_sector_of_the_economy "Quinary sector of the economy") service sectors. Economic activity in the hypothetical quaternary sector comprises information- and knowledge-based services, while quinary services include industries related to [human services](https://en.wikipedia.org/wiki/Human_services "Human services") and [hospitality](https://en.wikipedia.org/wiki/Hospitality_industry "Hospitality industry").[[2]](https://en.wikipedia.org/wiki/Economic_sector#cite_note-2)
+
+Economic theories divide economic sectors further into [economic industries](https://en.wikipedia.org/wiki/Industry_\(economics\) "Industry (economics)").
+
 
 ![P020250116506795831658](../../Assets/Official%20&%20Formal%20Docs/P020250116506795831658.pdf)
 
