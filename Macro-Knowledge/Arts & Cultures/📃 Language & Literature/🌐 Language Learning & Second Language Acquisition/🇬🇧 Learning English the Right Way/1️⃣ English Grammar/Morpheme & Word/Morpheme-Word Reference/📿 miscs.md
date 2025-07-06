@@ -1649,7 +1649,80 @@ bounce
 - antibouncer
 
 bound
-- etc..
+- n. 跃, 回跳, 范围, 边界  
+- a. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的  
+- vi. 跳跃, 弹起  
+- vt. 使跳, 限制, 形成...的疆界
+- 弹，跳，拟声词，词源同 bounce.2. 边界，束缚，词源同 bind.
+- windbound
+- westbound
+- weather-bound
+- water-bound
+- upbound
+- unbounded
+- unbound
+- turf-bound
+- strikebound
+- stormbound
+- spellbound
+- southbound
+- snowbound
+- skinbound
+- rock-bound
+- rich-bound
+- rebound
+	-  [recoil](dic://recoil), [repercussion](dic://repercussion), [backlash](dic://backlash)
+	-  [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [recoil](dic://recoil), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+	-  [rally](dic://rally)
+	- _n._ [movement](dic://movement), [motion](dic://motion), [reaction](dic://reaction), [response](dic://response), [catch](dic://catch), [grab](dic://grab), [snatch](dic://snatch)
+	- _v._ [jump](dic://jump), [leap](dic://leap), [bound](dic://bound), [spring](dic://spring), [recover](dic://recover), [go back](dic://go%20back), [recuperate](dic://recuperate)
+	- **slump**下降，衰落;**second-half**下半年的;**bounce**弹力;**first-half**上半年;**layup**单手上篮;**double-digit**两位数的;**downturn**低迷时期;**puck**顽皮的小妖精;**spurt**喷出;**surge**汹涌;**bounces**蹦跳;
+	- _on the rebound_ ◎在弹回之际;◎在失望、沮丧之际;
+	- _rebound on_ 得到意想不到的影响；使得到报应
+	- _rebound in prices_ 价格回升
+	- _rebound phenomenon_ 回缩现象；回跳现象
+	- I was on the rebound when I met Jack /正当我因失恋而心灰意懒之时认识了杰克。
+	- Bad deeds, as well as good, may rebound upon the doer. /善有善报, 恶有恶报。
+	- Ewing keyed a 73–35 advantage on the boards with twenty rebounds. /埃文以20个篮板球成为保持73比35优势的关键因素。
+	- She married John on the rebound from Geoff. I knew it wouldn’t last /她是在和杰夫分手以后失意之余嫁给约翰的，我知道他们肯定长不了。
+	- Yet the fortunes of cryptocurrency have recently rebounded. /但是最近比特币的命运又得到了改变。
+	- But both businesses have since rebounded. /但是两家公司后来情况有所好转。
+- quarter-bound
+- pot-bound
+- paperbound
+- outward-bound
+- northbound
+- muscle-bound
+- letter-bound
+- ironbound
+- inbound
+	- [inward](dic://inward)
+	- _adj._ [incoming](dic://incoming)
+	- _n._ [outgoing](dic://outgoing)
+	- **outbound**驶向外国的，向外去的;**incoming**引入的，入射的;**traffic**交通;**marketing**销售,经销;**routing**行程安排,邮件路由;**freight**运送;**forwarding**推进;**SEO**皮肤红斑量;
+	- _inbound tourism_ 入境旅游；国内游
+- housebound
+- homebound
+- hidebound
+- hardbound
+- half-bound
+- frostbound
+- fogbound
+- eastbound
+- earthbound
+- duty-bound
+- clothbound
+- calfbound
+- bounds
+- boundness
+- boundless
+- bounder
+- bounden
+- boundedness
+- boundary
+	- coboundary
+	- artificialboundary
+- bark-bound
 
 bouquet (bouquet, banquet cachet, crotchet, coquet, ratchet) (spray)
 - 来自拉丁语 boscus,灌木，灌木花，词源同 bush.-et,小词后缀。
@@ -2779,7 +2852,8 @@ churros
 - Might I introduce you to churro bites! /我可以向您介绍西班牙油条小吃吗？
 - Okay. First of all, chasing the churro guy is not jogging. /也对 不过追小贩可不算慢跑。
 
-chic  (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, )
+chic
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
 - **stylish**时髦的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**luxe**奢侈;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**sleek**圆滑的;**edgy**尖利的;**rustic**乡村的;**retro**制动火箭,减速火箭;
 
@@ -9234,6 +9308,27 @@ large
 larrikin
 - n. 离经叛道者；恶棍; adj. 恶棍般的；喧闹的;
 
+lash
+- [eyelash](dic://eyelash), [cilium](dic://cilium)
+- [thong](dic://thong)
+- [whip](dic://whip), [whiplash](dic://whiplash)
+-  [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
+- [whip](dic://whip)
+- _n._ [hair](dic://hair), [leather strip](dic://leather%20strip), [blow](dic://blow)
+- _v._ [beat](dic://beat), [beat up](dic://beat%20up), [work over](dic://work%20over), [swing](dic://swing), [sway](dic://sway), [strike](dic://strike), [tie](dic://tie)
+- _n._ [unlash](dic://unlash)
+- **mascara**染眉毛油;**eyeliner**眼线膏，眼线笔;**eyelashes**睫毛;**brow**眉，眉毛;**lip**嘴唇;**eyebrow**眉毛;**eyelid**眼皮;**brush**刷子;**blush**脸红;**lips**嘴唇;**eyebrows**眉毛;
+- _lash out_ 猛击；猛烈抨击；大肆挥霍
+-  Never walk behind a horse in case it lashes out. /绝对不要跟在马后面, 以防它突然猛踢。
+- The coachman had a thin lash. /那马车夫有一根细长的鞭子。
+- Lash the scenery up ready for the next act. /用绳子把布景固定住, 准备演下一场。
+- The robbers lashed the bank manager to a chair. /强盗们把银行经理绑到一把椅子上。
+- With a lash of its tail the tiger leaped at her. /老虎把尾巴一甩朝她扑过来。
+- The man lashed the donkey but it would not go any faster. /这人用鞭子抽驴，可是它再也跑不快了。
+- Rain lashed against the living room window. /雨点啪哒啪哒地打在客厅的窗户上。
+- President Trump lashed out at FBI Director Christopher Wray this morning. /今天上午，特朗普总统抨击了联邦调查局局长克里斯托弗·雷。
+- Your mommy lashes out at people prettier than she is. /你妈妈就是看不惯比她漂亮的人。
+
 late
 - latter
 - latish
@@ -10606,7 +10701,6 @@ nifty
 - adj. good
 - n. bad
 - neat整洁的;handy手边的，就近的;clever聪明的;groovy吸引人的, 绝妙的;ingenious灵巧的, 善于创造发明的;cool冷静的;dandy上等的，极好的;awesome令人敬畏的;darned岂有此理的;nice精密的，美好的，细微的，和蔼的;terrific极好的;
-- 
 
 night
 - benighted
@@ -11768,10 +11862,77 @@ postiche (wig)
 - [fake](dic://fake), [sham](dic://sham)
 - _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress), [imitation](dic://imitation), [counterfeit](dic://counterfeit), [forgery](dic://forgery)
 
+pound
+- 来自古英语 pund,磅，英磅，来自 Proto-Germanic*punda,磅，借自拉丁语 pondo,重量，来自pendere,悬挂，称量，词源同 pendulum,ponder.  
+	- \*spen- (ponder)
+- 来自古英语 punian,击打，粉碎，来自 West-Germanic*puno,击打，击碎，可能来自拟声词。插入字母 d,比较 sonar,sound.  
+- 词源不确定，仅存在于古英语复合词，如 pundfald,畜栏，围栏，词源同古英语词 pyndan,关闭，筑坝，围水，pond,池塘。最终词源可能同 bend.
+- n. 磅, 英镑, 重击, 鱼塘, 拘留所, 兽栏  
+- vt. 强烈打击, 捣烂, 监禁, 关入栏内  
+- vi. 连续重击, 苦干
+- pound - pound一词有两种缩略形式：作为重量单位，pound（汉语作“磅”）略作lb；作为英国的货币单位，pound（汉语作“镑”）的全称为pound sterling，则简写为￡。可是pound怎么会用词本身都不含的字母来代表呢？追本溯源，我们即可找到答案。  
+- pound系由古英语pund演化而来，并可追溯至拉丁语pondō；而pondō又是拉丁文短语libra pondō的第二成分，其中libra意为a unit of(weight) measurement，pondō意为by weight，整个短语含a pound by weight之义。lb和￡即来自libra一词。古罗马人在使用该短语时往往将第一成分省略了，只说pondō，英语也只取第二成分，而却用lb和￡作为代号，并一直沿用至今。  
+- pound原先只作为重量单位，用作货币单位的pound来源于a pound weight of silver这一说法。前者以lb表示，后者则以￡表示，以示区别。
+-  [British pound](dic://British pound), [British pound sterling](dic://British pound sterling), [pound sterling](dic://pound sterling), [quid](dic://quid)
+-  [Sudanese pound](dic://Sudanese pound)
+-  [Irish pound](dic://Irish pound), [Irish punt](dic://Irish punt), [punt](dic://punt)
+- [hammer](dic://hammer), [hammering](dic://hammering), [pounding](dic://pounding)
+-  [dog pound](dic://dog pound)
+-  [thump](dic://thump), [poke](dic://poke)
+-  [ram](dic://ram), [ram down](dic://ram down)
+-  [lumber](dic://lumber)
+-  [beat](dic://beat), [thump](dic://thump)
+-  [pound off](dic://pound off)
+-  [pound up](dic://pound up)
+-  [impound](dic://impound)
+- _n._ [avoirdupois unit](dic://avoirdupois%20unit), [British monetary unit](dic://British%20monetary%20unit), [Syrian monetary unit](dic://Syrian%20monetary%20unit), [Sudanese monetary unit](dic://Sudanese%20monetary%20unit), [Lebanese monetary unit](dic://Lebanese%20monetary%20unit), [Irish monetary unit](dic://Irish%20monetary%20unit), [Egyptian monetary unit](dic://Egyptian%20monetary%20unit)
+- _v._ [hit](dic://hit), [thrust](dic://thrust), [walk](dic://walk), [move](dic://move), [partition](dic://partition), [partition off](dic://partition%20off), [restrain](dic://restrain)
+- **kilo**千克;**ounce**盎司;**kilogram**公斤;**pence**便士;**dollar**美元;**ounces**盎司，英两;**gram**克;**tonne**公吨;**weight**重量，重力;**pennies**便士;**gallon**加仑;
+- _pound of flesh_ 合乎法律的无礼要求
+- _in the pound_ 每镑
+- _pound sterling_ n. 英镑
+- _by the pound_ 按每磅(计价)
+- _pound on_ 重击；猛打
+	- An ounce of prevention is worth a pound of cure. /防患于未然。
+	- My heart was pounding mightily. I couldn't curb its pulsations /此时，我无法控制自己的脉博跳动，我的心剧烈地跳着。
+	- Just pound the liquids, two days in bed. /多喝点水 在床上躺两天。
+	- That was all right. He got into grappling distance with Batroc and pounded him to the ground. /这也没关系。他来到巴曹克近前，把他撞倒在地。
+	- If he had, he might have been pounding brews in the tavern right beside them /如果他吃了，他可能也在他们旁边的小酒馆里捣鼓啤酒了。
+- _pound note_ 1英镑纸币
+- pounder
+- poundal
+- poundage
+- pound-foolish
+- impound
+	-  vt. 没收；拘留；将……关在圈中
+	-  [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
+	- [pound](dic://pound)
+	- _v._ [take](dic://take), [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
+	- **retrieve**重新得到;**vehicle**车辆;**car**汽车;**police**警察，警方;**towing**拖车，拖吊;**truck**卡车;**sheriff**州长;**cops**顶;
+	- [impunity](dic://impunity) n. 不受惩罚；无患；免罚
+	- [impend](dic://impend) vi. 迫近；即将发生
+	- _[impounding reservoir](dic://impounding%20reservoir)_  [水利] 蓄水池
+	- _[impounded water](dic://impounded%20water)_  积滞水
+	- _[impounding dam](dic://impounding%20dam)_  滞水坝；蓄水坝
+	- _[impound water](dic://impound%20water)_  静水
+	- _[impounding](dic://impounding)_  n. 滤网；扣押; v. 把（牲畜等）关在圈中（impound的ing形式）;
+	- The vehicle was impounded as part of the police investigation. /这辆车作为警务调查的一部份被扣押了。
+	- The police had come to my house and impounded all my belongings. /警察曾到我家没收了我所有的财物。
+	- "If you leave your car beside the town hall, the police will impound it." /"如果你把汽车停放在市政大厅旁边,警察就会把它扣押。"
+	-  Then one day, they got a call from an impound lot. /某天 他们接到了来自车辆扣押停车场的电话。
+	- It was impounded in March under sanctions imposed by the UK. /今年3月，这艘游艇在英国实施的制裁下被扣押。
+	- As one of the largest impounded lakes of the Yangtze River, Dongting Lake has a strong flood storage capacity. /作为长江沿线最大的储水湖之一，洞庭湖有很强的分洪能力。
+	- You made bail. Motorcycle is in **impound**. /你被保释了。摩托车继续扣留。
+	- impoundment
+	- impounding
+- geepound
+- four-pounder
+- foot-pound
+
 prance
--    (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, trample, tread)
+- (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, trample, tread)
 - n. (马)腾跃, 昂首阔步
-- vi. 腾跃, 昂首阔步  
+- vi. 腾跃, 昂首阔步
 - vt. 使腾跃
 - [strut](dic://strut), [swagger](dic://swagger)
 - [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [strut](dic://strut), [sashay](dic://sashay), [cock](dic://cock)
@@ -14400,10 +14561,22 @@ silhouette
 simmer
  - 改写自 simperen,煨，炖，可能来自拟声词，模仿水轻微沸腾时发出的汩汩声。引申比喻义怒火郁积，酝酿等。
  - simmer with
+ - _n._ [temperature](dic://temperature)
+ - _v._ [boil](dic://boil)
+ - **boil**煮沸，沸腾;**saucepan**深平底锅;**saute**炒;**boiling**沸腾的;**stir**激起;**broth**肉汤;**stirring**忙碌的;**cook**烹调，煮;**stew**炖，炖汤;**puree**浓汤;**thicken**使变厚;
+ - _simmer down_ 被煮浓；冷静下来；被总括起来
+ - Allow the soup to simmer gently for ten minutes /把汤小火煨上10 分钟。
+ - She was still quietly simmering from her row with Nathan. /在和内森争吵之后她心里还窝着火。
+ - Discontent simmered and then came to a head with the nationalist protests. /不满情绪一直在酝酿着，后来随着民族主义者的抗议而达到了高 。
+ - Plans were simmering in his mind /计划已在他心里蕴酿好了
+ - Add stock and bouquet garni, simmer for 20 minutes until the vegetable is very soft. /注入鸡汤，放入香草束，熬煮20分钟至蔬菜十分软身。
+ - And some milk so it can simmer and cook through /还有一些牛奶，这样它就可以炖煮了。
+ - There are always tensions simmering at some level here. /从某种程度上讲，这个地-区的紧张局势一直处于酝酿状态。
  - seethe over
 
 sit
-- sit above the salt坐上席；受尊敬。盐在过去还是比较金贵的，所以欧洲人宴请宾客时，会请贵宾坐在紧挨着主人的位置，因为餐桌多为长方形，所以贵宾的位置相当于sit above the salt（餐桌上盛盐的罐子），而其他客人则是sit below the salt。They allstood up and asked Peter to sit above the salt. ​​​​
+- sit above the salt坐上席；受尊敬。盐在过去还是比较金贵的，所以欧洲人宴请宾客时，会请贵宾坐在紧挨着主人的位置，因为餐桌多为长方形，所以贵宾的位置相当于sit above the salt（餐桌上盛盐的罐子），而其他客人则是sit below the salt。
+- They all stood up and asked Peter to sit above the salt. ​​​​
 - vi. 坐, 就座, 坐落  
 - vt. 使就座, 骑  
 - n. 坐, 衣服合身
@@ -14417,9 +14590,18 @@ sit
 	- sitting-room
 	- n. 起居室
 - sitter
+	- _n._ 被画像或拍照的人
+	- 不在飞行中或运动中的鸟或兽
+	- 孵蛋的母鸡
+	- 容易命中的猎物
+	- _n._ 临时照看孩子的人
+	- The purse in her handbag is a sitter for any thief. /她手提袋里的钱包小偷很容易偷走。
+	- She hired on as a baby sitter. /她当了临时照看孩子的保姆。
 	- sitter-in
-	- fence-sitter
-	- baby-sitter
+	- _[pet sitter](dic://pet%20sitter)_  宠物保姆
+	- _[fence sitter](dic://fence%20sitter)_  墙头草; 骑墙派; 
+	- _[baby sitter](dic://baby%20sitter)_  临时替人看小孩者；照顾婴孩者
+	- _[supported sitter](dic://supported%20sitter)_  （婴儿）学坐阶段
 	- aisle-sitter
 - sit-upon
 - sit-in
@@ -14503,9 +14685,12 @@ skit
 	- _beer and skittles_ 吃喝玩乐
 	- Pakistan were skittled out for 93 /巴基斯坦队的击球手连续93次被淘汰出局。
 	- We're talking Skittles, protein shakes, instant rice, and even boxed cake /士多啤梨糖果、蛋白奶昔、速食大米，甚至是盒装蛋糕
+	- And he got to eat Skittles, a colorful sweet treat, to give him energy /他吃彩虹糖，一种五颜六色的甜点，给他带来能量。
+	- It's a bit like the candy coating on a skittle. Parrots have the full candy, while other birds just have the fruity core /这有点像吃喝玩乐上的糖果涂层。 鹦鹉有完整的糖果， 而其他鸟类只有果味核心。
 	- skittles
 	- skittle-alley
 - skittish
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
 	- _adj._ [excitable](dic://excitable)
 	- _n._ [unexcitable](dic://unexcitable)
 	- [flighty](dic://flighty), [spooky](dic://spooky), [nervous](dic://nervous)
@@ -14514,6 +14699,11 @@ skit
 	- _[skittish investors](dic://skittish%20investors)_ 易受惊的投资者
 	- _[you are acting all skittish](dic://you%20are%20acting%20all%20skittish)_ 你魂不守舍的
 	- my skittish and immature mother. /我那活泼好动、长不大的母亲。
+	- So excuse me for being a little skittish /所以，原谅我有点被吓到。
+	- They looked skittish and excited, conscious they were doing something illicit. /他们看起来胆怯而兴奋，意识到他们正在做一些非法的事情。
+	- Artemis punished Actaeon, transforming him into a skittish stag. /阿尔忒弥斯惩罚了阿克托翁，把他变成了一只易受惊的雄鹿。
+	-  Skittish companies might also cancel their investment plans. /那些易受惊的公司可能也会取消投资计划。
+	- Vigilant central banks probably helped keep investors from growing skittish. /警惕的央行可能帮助投资者保持了警惕。
 - skitter
 
 skull
@@ -14530,7 +14720,7 @@ skull
 	- The opposition claimed the vote had been rigged, but the electoral commission insisted there had been no skulduggery. /反对派声称投票被人操纵，但选举委员会坚称没有任何欺诈行为。
 	- When he couldn't by text, he wasn't averse to a little skulduggery to get what he wanted /当他无法买到文字，他也不反对用一点不诚实的手法来得到他想要的东西。
 - skullcap
-	- - n. 并头草属的植物；无边便帽；头盖骨（考古学）
+	- n. 并头草属的植物；无边便帽；头盖骨（考古学）
 	- [calvaria](dic://calvaria)
 	- [helmetflower](dic://helmetflower)
 	- _n._ [cap](dic://cap), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [bone](dic://bone), [os](dic://os)
@@ -14582,6 +14772,14 @@ slack
 - _slack adjuster_ 松紧调整器；空隙调整器；拉紧螺钉
 - _slack water_ 静水；缓慢流动的水；憩流
 - _slack coal_ 粉煤；煤屑
+- Retail business slacks down when employment drops. /就业率低时零售业就不景气。
+- The string around the parcel was slack. /打包裹的绳很松。
+- The instructors were slacking on the job /教员们对工作松松垮垮。
+- Slack up the tent ropes before it rains. /在下雨之前把帐篷的绳子放松。
+- I put on a pair of golfing slacks /我穿上了一条高尔夫球宽松裤。
+- He pulled in the slack of the rope /他收紧松垂的绳索。
+- It is of medium length, neither cobby nor slack from excessive length. /中等长度，既不矮胖、不松弛也不过长。
+- Oh, come on! I have sixteen items! Cut me some slack, will ya? /哦，得了吧！我就16件！通融一下，好吗？
 
 slake
 - 来自古英语 slacian,使无力，使懈怠，使缓慢，词源同 slack.引申比喻义消除，平息，缓和等。

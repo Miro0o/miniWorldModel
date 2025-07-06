@@ -22,16 +22,19 @@ Cryptography is a sub-category of Cryptology:
 	- Python Code Vizualization Tool [http://www.pythontutor.com/](http://www.pythontutor.com/visualize.html#mode=edit)
 	- The Mathematics of Encryption [https://bookstore.ams.org/mawrld-29](https://bookstore.ams.org/mawrld-29)
 
-
 [图解密码学系列 | 知乎](https://www.zhihu.com/column/c_1417266554786078720)
 [《图解密码技术》学习笔记汇总](https://blog.csdn.net/qq_29864185/article/details/116743551)
+
+📖 https://toc.cryptobook.us/
+A Graduate Course in Applied Cryptography
+By   [Dan Boneh](https://crypto.stanford.edu/~dabo)   and   [Victor Shoup](https://shoup.net/)
 
 
 ### More Learning Materials
 - [Khan Academy Open Class](http://open.163.com/special/Khan/moderncryptography.html)
 - [In-depth cryptography - Principles and Applications of Common Encryption Technologies](https://github.com/yuankeyang/python/blob/master/%E3%80%8A%E6%B7%B1%E5%85%A5)
 - [https://cryptopals.com/](https://cryptopals.com/), a bunch of cryptography exercises.
-s
+
 [Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
 - [Mbed TLS Library](https://github.com/Mbed-TLS/mbedtls)
 

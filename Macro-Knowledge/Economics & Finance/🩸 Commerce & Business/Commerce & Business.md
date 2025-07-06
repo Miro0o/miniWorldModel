@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Marketing & Promoting](../../../Micro-Knowledge/Lives%20&%20Socialization/Make%20Money/Entrepreneurship/Marketing%20&%20Promoting.md)
+↗ [Marketing & Promoting](../../../Micro-Knowledge/Lives%20&%20Socialization/Make%20Money/Entrepreneurship/Marketing%20&%20Promoting/Marketing%20&%20Promoting.md)
 
 
 

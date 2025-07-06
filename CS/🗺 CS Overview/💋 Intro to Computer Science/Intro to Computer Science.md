@@ -58,15 +58,31 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 
 ## 🐕 Computer Science Introduction & Overview
 ### Why is CS needed?
+TL;DR Version
+- The universe is made of **objects /maters**. According to different frames of references, objects can be still or in movement. 
+	- The movement of objects leads to **energy**.
+- One unique existence in the universe: objects that has self-consciousness. The universe thus is divided into objects with self-consciousness and objects without self-consciousness.
+- Objects with self-consciousness (humans) exists in the way of **information**.
+	- Knowledge is connected information. Language or symbolic system is the media of information.
+	- The computation of information and the engineering  to the universe compromise the intelligence of self-consciousness, i.e. human intelligence. Human intelligence demonstrates itself in two dimension: logic ability and sentimental ability.
+- The universe is thus compromised of three elements: objects /maters, energy, and information.
+- The automation of computation of information gives rise to the study of computer science.
+	- The ultimate goal of computer science is to reach to the extreme of computational power, i.e. the ability like human intelligence or beyond that in regard of the computation of information.
+	- Strong computational power don't make human-like intelligence, the combination of computational power and engineering ability makes human-like intelligence, or even human ourselves. However, a more widely-accepted version of such intelligence, artificial intelligence, aims to only reach the maximal power of computational ability, ignoring the engineering part. 
+
+![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
-### What is CS? What are CS Subjects?
+### What is CS? What are problems faced in CS, to be more secific?
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
+> 
 > ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
+> ↗ [🌲 Road To CS /CS & IT in Difference Aspects](🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Difference%20Aspects)
 
 **Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** 
 
@@ -77,6 +93,12 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
+
+![web_and_Internet_arch.excalidraw | 800](../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
+<small>Computer Networks & Supplements to the Computer Science Overview </small>
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Computer Program Running</small>
 
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
@@ -396,24 +418,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 	- Computing / technology policy
 	- User characteristics
 #### Learning CS Subjects
- >A simplified version of CS subjects classification for beginners 🤓
 
-1️⃣ Theoretical Computer Science (TCS) & Math 
-- ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-- ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
-2️⃣ Computer System & Engineering
-- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-- ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-- ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-- ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-
-3️⃣ Applied Computer Science (ACS)
-- ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
-- ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
-- ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 
 ### How to learn CS ? (🤔 Questions Leading my CS Study)

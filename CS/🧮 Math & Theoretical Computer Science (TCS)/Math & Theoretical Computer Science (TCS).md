@@ -8,12 +8,34 @@
 ### Related Topics
 ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
+↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
+↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
 
-### Learning Resource
-🚧 https://github.com/boazbk/tcs
-Book in preparation: introduction to theoretical computer science
-👍 📚 https://introtcs.org/public/index.html
-- This is a textbook in preparation for an introductory undergraduate course on theoretical computer science. I am using this text for [Harvard CS 121](http://cs121.boazbarak.org/). It is also used for [UVa CS 3102](https://uvatoc.github.io/) and [UCLA CS181](https://hackmd.io/@raghum/introtcs).
+↗ [Philosophy](../../Macro-Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Arts & Cultures](../../Macro-Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
+- ↗ [Music](../../Macro-Knowledge/Arts%20&%20Cultures/Music/Music.md)
+↗ [Nature Science & Engineering](../../Macro-Knowledge/Nature%20Science%20&%20Engineering/Nature%20Science%20&%20Engineering.md)
+↗ [Economics & Finance](../../Macro-Knowledge/Economics%20&%20Finance/Economics%20&%20Finance.md)
+
+
+### Math Learning Resource
+#### Books & Tutorials
+[高德菲·哈罗德·哈代](https://zh.wikipedia.org/wiki/%E9%AB%98%E5%BE%B7%E8%8F%B2%C2%B7%E5%93%88%E7%BE%85%E5%BE%B7%C2%B7%E5%93%88%E4%BB%A3 "高德菲·哈罗德·哈代")
+《[一个数学家的自白](https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%87%AA%E7%99%BD "一个数学家的自白")》
+
+📖 吴军通识数学讲义
+
+项武义的《基础几何学》
+陶哲轩的《陶哲轩教你学数学》
+
+Introduction to Mathematical Philosophy
+Bertrand Russell
+
+📖 https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof
+Mathematical Reasoning，Writing and Proof
+Ted Sundstrom
+#### Other Online Resources
+🎬【魔方的数学原理】 https://www.bilibili.com/video/BV1Af421R7Pq/?share_source=copy_web
 
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)
@@ -37,7 +59,24 @@ the web's most extensive mathematics resource
 🧰 https://www.geogebra.org/
 Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more
 
-📖 吴军通识数学讲义
+🫂 https://textbooks.aimath.org/textbooks/approved-textbooks/
+The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
+- [**Approved Textbooks**](https://textbooks.aimath.org/approved-textbooks/)   The list is organized by courses ranging from pre-calculus to upper division analysis and algebra. Each book has a brief description of its important features and information about how to get it.
+- [**Evaluation Criteria**](https://textbooks.aimath.org/evaluation-criteria/)   There are a number of features that the Editorial Board considers in evaluating textbooks.
+- [**Guide for Authors**](https://textbooks.aimath.org/guide-for-authors)  Here is some advice on questions facing open textbook authors.
+- [**Editorial Board**](https://textbooks.aimath.org/editorial-board/)   The AIM Editorial Board develops the criteria for acceptance and reviews open textbooks.
+
+Open access curriculum material for inquiry based learning courses can be found at  
+[**The Journal for Inquiry Based Learning in Mathematics**](http://jiblm.org//guides/index.php?category=jiblmjournal).
+
+The list below groups open textbooks by course title. All the books have been judged to meet the [evaluation criteria](https://textbooks.aimath.org/textbooks/evaluation-criteria) set by the AIM [editorial board](https://textbooks.aimath.org/textbooks/editorial-board/).
+
+
+### TCS Learning Resources
+🚧 https://github.com/boazbk/tcs
+Book in preparation: introduction to theoretical computer science
+👍 📚 https://introtcs.org/public/index.html
+- This is a textbook in preparation for an introductory undergraduate course on theoretical computer science. I am using this text for [Harvard CS 121](http://cs121.boazbarak.org/). It is also used for [UVa CS 3102](https://uvatoc.github.io/) and [UCLA CS181](https://hackmd.io/@raghum/introtcs).
 
 
 ### 📝 Math Course List for CS
@@ -67,10 +106,6 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 - [ ] 信息论
 
 
-### Other Resources
-🎬【魔方的数学原理】 https://www.bilibili.com/video/BV1Af421R7Pq/?share_source=copy_web
-
-
 
 ## 🛐 Modern Math Structure
 > 🔗
@@ -98,14 +133,8 @@ Sometimes, a set is endowed with more than one feature simultaneously, which all
 
 
 
-## Theoretical Computer Science (TCS)
-> 🔗 https://en.wikipedia.org/wiki/Theoretical_computer_science
-
-**Theoretical computer science** (**TCS**) is a subset of general [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") that focuses on mathematical aspects of [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") such as the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [formal language theory](https://en.wikipedia.org/wiki/Formal_language_theory "Formal language theory"), the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and [type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory").
-
-It is difficult to circumscribe the theoretical areas precisely. The [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery")'s [Special Interest Group on Algorithms and Computation Theory](https://en.wikipedia.org/wiki/ACM_SIGACT "ACM SIGACT")(SIGACT) provides the following description:
-
-> TCS covers a wide variety of topics including [algorithms](https://en.wikipedia.org/wiki/Algorithms "Algorithms"), [data structures](https://en.wikipedia.org/wiki/Data_structure "Data structure"), [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), [parallel](https://en.wikipedia.org/wiki/Parallel_computation "Parallel computation") and [distributed](https://en.wikipedia.org/wiki/Distributed_computation "Distributed computation") computation, [probabilistic computation](https://en.wikipedia.org/wiki/Probabilistic_computation "Probabilistic computation"), [quantum computation](https://en.wikipedia.org/wiki/Quantum_computation "Quantum computation"), [automata theory](https://en.wikipedia.org/wiki/Automata_theory "Automata theory"), [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"), [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"), [program semantics](https://en.wikipedia.org/wiki/Program_semantics "Program semantics") and [verification](https://en.wikipedia.org/wiki/Formal_methods "Formal methods"), [algorithmic game theory](https://en.wikipedia.org/wiki/Algorithmic_game_theory "Algorithmic game theory"), [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), [computational biology](https://en.wikipedia.org/wiki/Computational_biology "Computational biology"), [computational economics](https://en.wikipedia.org/wiki/Computational_economics "Computational economics"), [computational geometry](https://en.wikipedia.org/wiki/Computational_geometry "Computational geometry"), and [computational number theory](https://en.wikipedia.org/wiki/Computational_number_theory "Computational number theory") and [algebra](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation"). Work in this field is often distinguished by its emphasis on mathematical technique and [rigor](https://en.wikipedia.org/wiki/Rigor#Mathematical_rigour "Rigor").
+## History and Development of Math
+↗ [Math History & Development](Math%20History%20&%20Development.md)
 
 
 
@@ -139,5 +168,30 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 
 
 
+## 💻 TCS (Theoretical Computer Science)
+> 🔗 https://en.wikipedia.org/wiki/Theoretical_computer_science
+
+**Theoretical computer science** (**TCS**) is a subset of general [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") that focuses on mathematical aspects of [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") such as the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [formal language theory](https://en.wikipedia.org/wiki/Formal_language_theory "Formal language theory"), the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and [type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory").
+
+It is difficult to circumscribe the theoretical areas precisely. The [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery")'s [Special Interest Group on Algorithms and Computation Theory](https://en.wikipedia.org/wiki/ACM_SIGACT "ACM SIGACT")(SIGACT) provides the following description:
+
+> TCS covers a wide variety of topics including [algorithms](https://en.wikipedia.org/wiki/Algorithms "Algorithms"), [data structures](https://en.wikipedia.org/wiki/Data_structure "Data structure"), [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), [parallel](https://en.wikipedia.org/wiki/Parallel_computation "Parallel computation") and [distributed](https://en.wikipedia.org/wiki/Distributed_computation "Distributed computation") computation, [probabilistic computation](https://en.wikipedia.org/wiki/Probabilistic_computation "Probabilistic computation"), [quantum computation](https://en.wikipedia.org/wiki/Quantum_computation "Quantum computation"), [automata theory](https://en.wikipedia.org/wiki/Automata_theory "Automata theory"), [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"), [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"), [program semantics](https://en.wikipedia.org/wiki/Program_semantics "Program semantics") and [verification](https://en.wikipedia.org/wiki/Formal_methods "Formal methods"), [algorithmic game theory](https://en.wikipedia.org/wiki/Algorithmic_game_theory "Algorithmic game theory"), [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), [computational biology](https://en.wikipedia.org/wiki/Computational_biology "Computational biology"), [computational economics](https://en.wikipedia.org/wiki/Computational_economics "Computational economics"), [computational geometry](https://en.wikipedia.org/wiki/Computational_geometry "Computational geometry"), and [computational number theory](https://en.wikipedia.org/wiki/Computational_number_theory "Computational number theory") and [algebra](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation"). Work in this field is often distinguished by its emphasis on mathematical technique and [rigor](https://en.wikipedia.org/wiki/Rigor#Mathematical_rigour "Rigor").
+
+
+
 ## Ref
 [ACM Special Interest Group on Algorithms and Computation Theory ()]: https://www.sigact.org
+
+[为什么美国中小学生学的数学比我们简单，美国人却还能做出超级牛的东西？ - 李拓邦的回答 - 知乎]: https://www.zhihu.com/question/20953633/answer/4831870876
+简而言之，
+- 美国流行高中数学教材，思维：几何思维，难度：易，菲尔兹奖人数：15位；
+- 法国流行高中数学教材，思维：几何思维+代数思维+部分现代数学思维，难度：难，菲尔兹奖人数：14位；
+- 苏联流行高中数学教材，思维：代数思维，难度：极难，菲尔兹奖人数：8位；
+- 英国流行高中数学教材，思维：几何思维，难度：易，菲尔兹奖人数：7位；
+- 日本流行高中数学教材，思维：代数思维，难度，中，菲尔兹奖人数：3位；
+- 中国流行高中数学教材，思维：代数思维，难度，中，菲尔兹奖人数：0位。
+
+作者：李拓邦  
+链接：https://www.zhihu.com/question/20953633/answer/4831870876  
+来源：知乎  
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

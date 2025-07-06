@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
 🎬 数学分析 陈纪修老师 1080p高清版(全集) https://www.bilibili.com/video/BV15v411g7VP?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🎬【数学分析陈纪修无障碍重制版】 https://www.bilibili.com/video/BV1sX4y1Y7jH/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -29,6 +33,13 @@ https://math.fandom.com/zh/wiki/Category:微分学
 积分的方法与技巧（完整）
 
 自然科学问题的数学分析 (B·A·卓里奇)
+
+https://www.wiley.com/en-ie/Calculus%3A+Single+Variable%2C+8th+Edition-p-9781119777809
+Calculus: Single Variable, 8th Edition
+[Deborah Hughes-Hallett,](https://www.wiley.com/en-ie/search?filters[author]=Deborah%20Hughes-Hallett&pq=++) [Andrew M. Gleason,](https://www.wiley.com/en-ie/search?filters[author]=Andrew%20M.%20Gleason&pq=++) [William G. McCallum](https://www.wiley.com/en-ie/search?filters[author]=William%20G.%20McCallum&pq=++)
+
+
+### Other Resources
 
 
 
@@ -234,7 +245,7 @@ https://math.fandom.com/zh/wiki/Category:微分学
 
 
 #### 1️⃣1️⃣ (函数项级数，幂级数)
-s
+
 
 ### 1️⃣1️⃣ (欧氏空间上的连续和极限)
 
@@ -258,3 +269,5 @@ s
 
 
 ## Ref
+[ε-δ语言 | wikipedia]: https://zh.wikipedia.org/zh-cn/%CE%95-%CE%B4%E8%AF%AD%E8%A8%80
+ε-δ语言，或极限的(ε, δ)定义（(ε, δ)-definition of limit）是一种在数学分析中仅使用（有限多的）实数值来定义极限的方法。

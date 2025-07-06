@@ -9,6 +9,8 @@
 ↗ [Arts & Cultures](../Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 - ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
+↗ [Math & Theoretical Computer Science (TCS)](../../CS/🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+
 
 ### Other Resources
 #### Online Resources

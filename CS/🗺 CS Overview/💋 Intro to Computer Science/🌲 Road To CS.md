@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Education](../../../Macro-Knowledge/Human%20Development/Education/Education.md)
 
 
 
@@ -123,42 +124,7 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 
 
 ### School (学)
-Usually this is reflected from universities' various programs and their courses. Hence, they are the CS most familiar to students from related majors.
-
-CS Core
-- ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-- ↗ [Computer Languages & Programming Methodology](🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [Program Compilation & Execution](🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-- ↗ [Computer Storage & Database Systems](🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-- ↗ [Computer Networking and Communication](🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-	- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
-	- ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
-	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-- ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
-
-CS Sub-fields
-- ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
-- ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
-- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-- ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-- ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
-- ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
-- etc.
-
-CS Inter-disciplines
-- ↗ [Math & Theoretical Computer Science (TCS)](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-	- ↗ [Analytical Mathematics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Analytical%20Mathematics/Analytical%20Mathematics.md)
-	- ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
-	- ↗ [Operation Research](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
-	- ↗ [Possibilities & Statistics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
-	- ↗ [Mathematical Logics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
-	- etc.
-- ↗ [Computing Methodologies](🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
-	- ↗ [Artificial Intelligence](🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	- ↗ [High Performance Computing](🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
-	- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
-	- etc.
+> This section refers to the discipline of CS in regard to most universities' courses structure. I moved the content of this section to the below "**🚀 A Serious CS Roadmap**" section. The content list there are how computer science looks like from a university's student view. I think this is the most suitable way for most people to get to know CS as well. 
 
 
 ### Academia (研)
@@ -442,6 +408,8 @@ ACM CCS 2012
 
 
 ### 0️⃣ Before you hit the road ...
+↗ [Education](../../../Macro-Knowledge/Human%20Development/Education/Education.md)
+
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
@@ -494,48 +462,122 @@ Software Engineering
 		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	6. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+	7. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
-1. Theoretical Computer Science & Algorithms
-	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	3. etc.
-2. Computer System
-	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-	2. etc.
-3. Software Engineering
-	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-	5. etc.
-4. Large Scale Software System Architecture /Cloud
-	1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-	2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-	3. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
-	4. etc.
-5. Data Scientist /AI
-	1. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
-	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. etc.
-6. IoT /Hardware /Computer Engineering
-	1. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-	2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-	3. etc.
-7. Web3 /Metaverse /Cryptocurrency
-	1. ↗ [Web 3.0](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/Web%203.0.md)
-	2. etc.
-8. Human-Computer Interaction
-	1. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
-9. Computer Security
-	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
-	2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-	3. etc.
-10. etc..
+![web_and_Internet_arch.excalidraw | 800](../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+
+
+==\#1 CS specific fields as in most universities' course structure:==
+
+CS Core Courses
+- ↗ [Algorithm & Data Structure](🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+- ↗ [Computer Languages & Programming Methodology](🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Program Compilation & Execution](🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+- ↗ [Computer Storage & Database Systems](🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+- ↗ [Computer Networking and Communication](🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+	- ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+	- ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+- ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
+
+CS Sub-fields
+- ↗ [CyberSecurity](CyberSecurity/CyberSecurity.md)
+- ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
+- ↗ [Information Systems & System Architecture Design](Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+- ↗ [Software Engineering](Software%20Engineering/Software%20Engineering.md)
+- ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
+- etc.
+
+CS Inter-disciplines
+- ↗ [Math & Theoretical Computer Science (TCS)](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+	- ↗ [Analytical Mathematics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Analytical%20Mathematics/Analytical%20Mathematics.md)
+	- ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧐%20Information%20Theory/Information%20Theory.md)
+	- ↗ [Operation Research](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
+	- ↗ [Possibilities & Statistics](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+	- ↗ [Mathematical Logics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+	- etc.
+- ↗ [Computing Methodologies](🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+	- ↗ [Artificial Intelligence](🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+	- ↗ [High Performance Computing](🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+	- ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
+	- etc.
+
+---
+==\#2 CS specific fields as in most universities' course structure, but another classified structure:==
+
+1. The construction of better computer/information system itself
+	1. Mathematical Model
+		1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+		2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+		3. etc.
+	2. Hardware and Computer Engineering
+		1. ↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
+		2. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
+		3. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+		4. etc.
+	3. Software & Protocols
+		1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+		2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+		3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+		4. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+			1. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+			2. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+		5. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+		6. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+		7. etc.
+	4. Information System Reliability
+		1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
+		2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+		3. etc.
+2. The application of computer and computing power
+	1. Information Services
+		1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+		2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+			1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+			2. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
+		3. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+		4. ↗ [Web 3.0](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/Web%203.0.md)
+		5. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
+	2. Computational Power
+		1. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+			1. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+				1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+				2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+		2. etc.
+
+---
+==\#3 CS specific fields==
+The way this notebook is constructed. Just check the directories of this notebook.
+
+
+---
+==#4 CS specific fields==
+ >A simplified version of CS subjects classification for beginners 🤓
+
+1️⃣ Theoretical Computer Science (TCS) & Math 
+- ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+- ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+2️⃣ Computer System & Engineering
+- ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+- ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+- ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+- ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+
+3️⃣ Applied Computer Science (ACS)
+- ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
+- ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+- ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+- ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+- ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 
 ### 3️⃣ Embark your life with CS!
@@ -1122,6 +1164,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 > 
 > ↗ [Academics](../../Academics%20🎓/Academics.md)
 > - ↗ [FAQ - Academia and Research](../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
+
 #### [为什么高校的科研项目大多烂尾了](https://www.zhihu.com/question/665648172/answer/86682654632)
 
 作者：扇贝又回来了  
@@ -1191,3 +1234,18 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 [工作五年反思 - 李沐的文章 - 知乎]: https://zhuanlan.zhihu.com/p/374777591
 [博士这五年 - 李沐的文章 - 知乎]: https://zhuanlan.zhihu.com/p/25099638
+
+[「小镇做题家」为什么要强调「小镇」这个属性？一线大城市的顶级中学就不容易出「做题家」了吗？ - 李拓邦的回答 - 知乎]: https://www.zhihu.com/question/543143863/answer/4833062801
+
+我曾经就是小镇做题家。我小学是德庆县第一小学（德庆是广东粤西靠近梧州的一个山区县，经济在我小时候是广东倒数的，现在大概是中流水平），初中是[德庆县香山中学](https://zhida.zhihu.com/search?content_id=693678024&content_type=Answer&match_order=1&q=%E5%BE%B7%E5%BA%86%E5%8E%BF%E9%A6%99%E5%B1%B1%E4%B8%AD%E5%AD%A6&zhida_source=entity)。我初中的成绩基本在年级前十左右，基本上语文数学英语政治历史地理生物化学物理每一科都能有满分95%以上的分数。
+
+但是我当时能学的，都是局限于课本教的。我自己也试图自学竞赛知识，买了一些书，但发现是比较困难的，而在我那时香山中学是没有竞赛方面的培训的。
+
+我中考是全县二十多名吧，去了省重点[广东肇庆中学](https://zhida.zhihu.com/search?content_id=693678024&content_type=Answer&match_order=1&q=%E5%B9%BF%E4%B8%9C%E8%82%87%E5%BA%86%E4%B8%AD%E5%AD%A6&zhida_source=entity)，之后我对学习就不怎么上心了，学校好像有一些参加竞赛的，但我也没有去了解。不过总的来说，肇庆每年能在各种竞赛得到名次的人数也比广州深圳少很多。
+
+我现在再看那些竞赛，就发现，那些知识是高度取决于师资的，因为涉及到应试的部分太多了，各种技巧非常多。比较平庸的人，竞赛老师可能没能力让其考高分，但在许多聪明的人都有很好的[竞赛辅导](https://zhida.zhihu.com/search?content_id=693678024&content_type=Answer&match_order=1&q=%E7%AB%9E%E8%B5%9B%E8%BE%85%E5%AF%BC&zhida_source=entity)的情况下，没有条件得到辅导的聪明人，是没有机会的。
+
+所以所谓的小镇做题家，指的就是从小没有好的教育条件的成绩优异的学生，而大城市因为各种教育资源充沛，这样的人就少了许多。在大城市，就算是普通家庭，有天赋的人，还是能找到很好的老师辅导，而在小城市，就算是比较好的家庭，也很难。现在不是说祥子在北京吃的比很多地主都要好么？小镇做题家中，掌握了自学方法的，日后也会混的不错，而自学能力比较弱的，就受限在教育条件里了。
+
+还有一些小镇做题家总感觉大城市的教育条件好，不公平，反对在大学录取中考虑竞赛。这我觉得没有必要，人家有人家的优势，我们有我们的优势。我之前也讲过这个问题。[https://www.zhihu.com/question/68233353/answer/378434797?utm_psn=1828334525303885825](https://www.zhihu.com/question/68233353/answer/378434797?utm_psn=1828334525303885825) 应该说各种选拔方式都有其合理性，单一的选拔方式是另一种不公平。我们不能因为自己的一点劣势去剥夺别人的机会。
+

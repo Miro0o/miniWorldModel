@@ -12,6 +12,9 @@
 https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate
 四川大学学位论文LaTeX模版
 
+https://www.aminer.cn/
+AI帮你理解科学
+
 
 ### Academic Learning Resources 
 📂 https://sustech.libguides.com/?group_id=20215 | 南方科技大学 - 专题导航
@@ -55,6 +58,13 @@ academic methedology
 
 
 ### Inspiration & Ideas
+
+
+### Scholars & Academic Trends 
+https://www.aminer.cn/
+AI帮你理解科学
+
+https://csrankings.org/#/index?all&us
 
 
 

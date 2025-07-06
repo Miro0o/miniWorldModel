@@ -138,7 +138,7 @@ https://en.wikipedia.org/wiki/Complex_system
 ↗ [World's Human History Overview](Macro-Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
-### Human Knowledges & Academic Discipline
+### Human Knowledges & Academic Discipline 🎓
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB
 
 《中华人民共和国学科分类》指以国家标准为形式发布的学科分类方式及名称提法，主要有以下三种：
@@ -159,7 +159,7 @@ An academic discipline or field of study is a branch of knowledge, taught and re
 Disciplines vary between well-established ones in almost all universities with well-defined rosters of journals and conferences and nascent ones supported by only a few universities and publications. A discipline may have branches, which are often called sub-disciplines.
 
 The following outline provides an overview of and topical guide to academic disciplines. In each case, an entry at the highest level of the hierarchy (e.g., Humanities) is a group of broadly similar disciplines; an entry at the next highest level (e.g., Music) is a discipline having some degree of autonomy and being the fundamental identity felt by its scholars. Lower levels of the hierarchy are sub-disciplines that do generally not have any role in the structure of the university's governance.
-- [Humanities](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Humanities)
+- ==[Humanities](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Humanities)==
     - [Performing arts](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Performing_arts)
     - [Visual arts](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Visual_arts)
     - [History](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#History)
@@ -169,7 +169,7 @@ The following outline provides an overview of and topical guide to academic disc
     - [Religious studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Religious_studies)
     - [Divinity](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Divinity)
     - [Theology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Theology)
-- [Social science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Social_science)
+- ==[Social science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Social_science)==
     - [Anthropology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Anthropology)
     - [Archaeology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Archaeology)
     - [Futurology (also known as future studies or prospective studies)](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Futurology_\(also_known_as_future_studies_or_prospective_studies\))
@@ -179,18 +179,18 @@ The following outline provides an overview of and topical guide to academic disc
     - [Political science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Political_science)
     - [Psychology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Psychology)
     - [Sociology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Sociology)
-- [Natural science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Natural_science)
+- ==[Natural science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Natural_science)==
     - [Biology](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Biology)
     - [Chemistry](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Chemistry)
     - [Earth science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Earth_science)
     - [Astronomy](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Astronomy)
     - [Physics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Physics)
-- [Formal science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Formal_science)
+- ==[Formal science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Formal_science)==
     - [Computer science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Computer_science)
     - [Mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Mathematics)
         - [Pure mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Pure_mathematics)
         - [Applied mathematics](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Applied_mathematics)
-- [Applied science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Applied_science)
+- ==[Applied science](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Applied_science)==
     - [Agriculture](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Agriculture)
     - [Architecture and design](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Architecture_and_design)
     - [Business](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Business)
