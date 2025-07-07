@@ -10,6 +10,7 @@
 
 ↗ [Human Body (Organ) System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
 ↗ [Muscular System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+↗ [Digestive System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Digestive%20System/Digestive%20System.md)
 
 
 ### Learning Resources

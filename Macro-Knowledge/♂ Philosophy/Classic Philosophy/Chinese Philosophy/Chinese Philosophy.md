@@ -10,6 +10,10 @@
 ↗ [中华文明（汉族）历史概况](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 
 
+### Other Resource
+《[中国哲学简史](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%E7%AE%80%E5%8F%B2 "中国哲学简史")》[冯友兰](https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0 "冯友兰")
+
+
 
 ## Intro
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6

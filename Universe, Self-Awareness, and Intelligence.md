@@ -19,6 +19,9 @@ Stanford Encyclopedia of Philosophy
 
 https://www.xue8nav.com/
 学吧导航
+
+https://zh.wikipedia.org/zh-cn/Portal:%E9%A6%96%E9%A0%81
+![](Assets/Pics/Screenshot%202025-07-07%20at%2021.29.52.png)
 #### Books
 👍 👍 👍 https://calculatingempires.net/about.html
 A Genealogy of Technology and Power Since 1500 | Kate Crawford and Vladan Joler

@@ -6,13 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
-↗ [U.S. History Overview](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
-
 ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
+- ↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
 ↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
 
 ↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+
+↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [U.S. History Overview](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 
 
 ### Books & Courses
@@ -394,30 +395,6 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 
-## Major Ancient Civilizations
-### Ancient Egypt
-> 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
-
-
-### Ancient Mesopotamia
-> 🔗 https://en.wikipedia.org/wiki/Mesopotamia
-
-
-### Ancient India
-> 🔗 https://en.wikipedia.org/wiki/History_of_India
-
-
-### Ancient China
-↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
-
-
-### Ancient Greece & Rome
-
-
-### Ancient Maya
-
-
-
 ## Major Global Ethnic Groups & Their Cultures
 > ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
@@ -671,6 +648,30 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Persians
 
 #### Luso-Brazilians
+
+
+
+## Major Ancient Civilizations
+### Ancient Egypt
+> 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
+
+
+### Ancient Mesopotamia
+> 🔗 https://en.wikipedia.org/wiki/Mesopotamia
+
+
+### Ancient India
+> 🔗 https://en.wikipedia.org/wiki/History_of_India
+
+
+### Ancient China
+↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+
+
+### Ancient Greece & Rome
+
+
+### Ancient Maya
 
 
 

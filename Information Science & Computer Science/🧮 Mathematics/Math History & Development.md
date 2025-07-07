@@ -34,6 +34,16 @@ Ted Sundstrom
 - [Reviews of the book on Amazon.com](https://www.amazon.com/Mathematical-Reasoning-Writing-Proof-Version/product-reviews/1500143413/ref=cm_cr_arp_d_paging_btm_1?ie=UTF8&reviewerType=all_reviews&pageNumber=1)
 - [Reviews from the Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/mathematical-reasoning-writing-and-proof-version-2-1)
 
+wikipedia
+- [代数学历史](https://zh.wikipedia.org/w/index.php?title=%E4%BB%A3%E6%95%B8%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "代数学历史（页面不存在）")
+- [微积分学历史](https://zh.wikipedia.org/w/index.php?title=%E5%BE%AE%E7%A9%8D%E5%88%86%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "微积分学历史（页面不存在）")
+- [组合数学历史](https://zh.wikipedia.org/w/index.php?title=%E7%B5%84%E5%90%88%E6%95%B8%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "组合数学历史（页面不存在）")
+- [几何学历史](https://zh.wikipedia.org/w/index.php?title=%E5%B9%BE%E4%BD%95%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "几何学历史（页面不存在）")
+- [逻辑史](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%8F%B2 "逻辑史")
+- [几率论历史](https://zh.wikipedia.org/w/index.php?title=%E6%A9%9F%E7%8E%87%E8%AB%96%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "几率论历史（页面不存在）")
+- [统计学历史](https://zh.wikipedia.org/w/index.php?title=%E7%B5%B1%E8%A8%88%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "统计学历史（页面不存在）")
+- [三角学历史](https://zh.wikipedia.org/w/index.php?title=%E4%B8%89%E8%A7%92%E5%AD%B8%E6%AD%B7%E5%8F%B2&action=edit&redlink=1 "三角学历史（页面不存在）")
+
 
 
 ## The Development of Math
