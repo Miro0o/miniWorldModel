@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Chinese Language & 中文](../../../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 ↗ [Chinese Language Literature (and Philosophy)](../../../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Literature/Chinese%20Language%20Literature%20(and%20Philosophy)/Chinese%20Language%20Literature%20(and%20Philosophy).md)
-↗ [Chinese Philosophy](../../../../♂%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy.md)
+↗ [Chinese Philosophy](../../../../♂%20Philosophy/Classic%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy.md)
 
 
 ### Websites Index

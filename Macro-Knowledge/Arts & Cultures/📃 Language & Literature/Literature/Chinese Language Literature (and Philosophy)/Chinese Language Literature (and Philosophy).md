@@ -9,8 +9,8 @@
 ↗ [Chinese Language & 中文](../../🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 
 ↗ [Philosophy](../../../../♂%20Philosophy/Philosophy.md)
-↗ [Chinese Philosophy](../../../../♂%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy.md)
-↗ [Buddhism in China](../../../../♂%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy%20History%20&%20Major%20Philosophical%20Thoughts/Buddhism%20in%20China.md)
+↗ [Chinese Philosophy](../../../../♂%20Philosophy/Classic%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy.md)
+↗ [Buddhism in China](../../../../♂%20Philosophy/Classic%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy%20History%20&%20Major%20Philosophical%20Thoughts/Buddhism%20in%20China.md)
 
 ↗ [中华文明（汉族）历史概况](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 

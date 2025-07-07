@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Philosophy](Macro-Knowledge/♂%20Philosophy/Philosophy.md)
 
-↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
 ### Other Resources
@@ -78,8 +78,8 @@ Anti-fragile: Things That Gain From Disorder
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
-↗ [Intro to Computer Science](CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Program, Computer, and Automation](CS/🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Program, Computer, and Automation](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
 Universe and Human Beings
 Information and Knowledge
@@ -213,8 +213,8 @@ The following outline provides an overview of and topical guide to academic disc
 
 
 ## 🤖 Artificial Intelligence
-> ↗ [Artificial Intelligence](CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-> ↗ [LLM (Large Language Model)](CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

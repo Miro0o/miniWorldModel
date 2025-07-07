@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Data Mining](../../../../../CS/Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
+↗ [Data Mining](../../../../../Information%20Science%20&%20Computer%20Science/Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
 
 

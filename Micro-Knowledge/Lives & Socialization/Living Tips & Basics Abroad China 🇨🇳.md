@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [International Opportunities](../../CS/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+↗ [International Opportunities](../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 
 
 ### Other Resources

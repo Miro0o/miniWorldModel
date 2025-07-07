@@ -12,7 +12,7 @@
 ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
 ↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
 
-↗ [Europa Universalis](../../../CS/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
 
 
 ### Books & Courses
@@ -164,7 +164,7 @@ wikipedia
 - [地缘政治变化时间表](https://zh.wikipedia.org/w/index.php?title=%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%AE%8A%E5%8C%96%E6%99%82%E9%96%93%E8%A1%A8&action=edit&redlink=1 "地缘政治变化时间表（页面不存在）")
 - [民族独立时间表](https://zh.wikipedia.org/w/index.php?title=%E6%B0%91%E6%97%8F%E7%8D%A8%E7%AB%8B%E6%99%82%E9%96%93%E8%A1%A8&action=edit&redlink=1 "民族独立时间表（页面不存在）")
 #### Other Online Resources
-↗ [Europa Universalis](../../../CS/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
 
 https://westportlibrary.libguides.com/worldhistory
 1. [The Westport Library](http://westportlibrary.org/)
@@ -422,7 +422,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 > ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
 > ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
-> ↗ [Global Religions](../../♂%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+> ↗ [Global Religions](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
 
 by status:

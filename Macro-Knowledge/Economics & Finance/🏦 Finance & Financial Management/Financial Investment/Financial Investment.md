@@ -63,7 +63,7 @@ Investors generally expect higher returns from riskier investments. When a low-r
 >【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=6
 >【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=7
 
-↗ [Risk Management](../../../../CS/CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
+↗ [Risk Management](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
 #### Investment Trades
 融资融券交易：securities margin trading
 - 又称“证券信用交易”或保证金交易，是指投资者向具有融资融券业务资格的证券公司提供担保物，借入资金买入证券（融资交易）或借入证券并卖出（融券交易）的行为。
