@@ -502,7 +502,7 @@ CS Inter-disciplines
 	- ↗ [Analytical Mathematics](../../🧮%20Mathematics/Analytical%20Mathematics/Analytical%20Mathematics.md)
 	- ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 	- ↗ [Operation Research](../../🧮%20Mathematics/Operations%20Research/Operation%20Research.md)
-	- ↗ [Possibilities & Statistics](../../🧮%20Mathematics/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+	- ↗ [Possibilities & Statistics](../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 	- ↗ [Mathematical Logics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 	- etc.
 - ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)

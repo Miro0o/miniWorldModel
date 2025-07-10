@@ -199,7 +199,9 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
 ##### 0️⃣ Foundation of Mathematics and Philosophy
 ↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
-↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
+- ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
+- ↗ [Category Theory (范畴论)](🤼‍♀️%20Mathematical%20Logics/Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+- ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logics/Proof%20Theory/Proof%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -208,8 +210,9 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 - 现代逻辑被分成[递归论](https://zh.wikipedia.org/wiki/%E9%81%9E%E6%AD%B8%E8%AB%96 "递归论")、[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AB%96 "模型论")和[证明论](https://zh.wikipedia.org/wiki/%E8%AD%89%E6%98%8E%E8%AB%96 "证明论")，且和[理论计算机科学](https://zh.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8 "理论计算机科学")有着密切的关连性，[千禧年大奖难题](https://zh.wikipedia.org/wiki/%E5%8D%83%E7%A6%A7%E5%B9%B4%E5%A4%A7%E7%8D%8E%E9%9B%A3%E9%A1%8C "千禧年大奖难题")中的[P/NP问题](https://zh.wikipedia.org/wiki/P/NP%E5%95%8F%E9%A1%8C "P/NP问题")就是理论计算机科学中的著名问题。
 ##### 1️⃣ Pure Mathematics
 ###### 👉 Number（数量）
+↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
-- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 - ↗ [Linear Algebra](🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
 
@@ -219,11 +222,15 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 当数系更进一步发展时，整数被视为[有理数](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%90%86%E6%95%B0 "有理数")的[子集](https://zh.wikipedia.org/wiki/%E5%AD%90%E9%9B%86 "子集")，而有理数则包含于[实数](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%95%B0 "实数")中，连续的量即是以实数来表示的。实数则可以被进一步广义化成[复数](https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "复数 (数学)")。数的进一步广义化可以持续至包含[四元数](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8 "四元数")及[八元数](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%83%E6%95%B8 "八元数")。从自然数亦可以推广到[超限数](https://zh.wikipedia.org/wiki/%E8%B6%85%E9%99%90%E6%95%B8 "超限数")，它形式化了计数至无限的这一概念。另一个研究的领域为大小，这个导致了[基数](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "基数 (数学)")和之后对无限的另外一种概念：[阿列夫数](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%97%E5%A4%AB%E6%95%B0 "阿列夫数")，它允许无限集合之间的大小可以做有意义的比较。
 ###### 👉 Structure（结构）
+↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+	- ↗ [Group Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory/Group%20Theory.md)
+	- ↗ [Ring Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory/Ring%20Theory.md)
+	- ↗ [Field Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Field%20Theory/Field%20Theory.md)
 - ↗ [Linear Algebra](🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Topology](Topology/Topology.md)
-↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -231,9 +238,10 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 创立于二十世纪三十年代的[法国](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD "法国")的[布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为：纯粹数学，是研究[抽象结构](https://zh.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E7%BB%93%E6%9E%84 "抽象结构")的理论。 结构，就是以初始概念和公理出发的演绎系统。 [布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为，有三种基本的抽象结构：[代数结构](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84 "代数结构")（[群](https://zh.wikipedia.org/wiki/%E7%BE%A4 "群")，[环](https://zh.wikipedia.org/wiki/%E7%8E%AF_\(%E4%BB%A3%E6%95%B0\) "环 (代数)")，[域](https://zh.wikipedia.org/wiki/%E5%9F%9F_\(%E6%95%B8%E5%AD%B8\) "域 (数学)")……），[序结构](https://zh.wikipedia.org/wiki/%E5%BA%8F%E7%90%86%E8%AE%BA "序理论")（[偏序](https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%8F%E5%85%B3%E7%B3%BB "偏序关系")，[全序](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BA%8F%E5%85%B3%E7%B3%BB "全序关系")……），[拓扑结构](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84 "拓扑结构")（[邻域](https://zh.wikipedia.org/wiki/%E9%82%BB%E5%9F%9F "邻域")，[极限](https://zh.wikipedia.org/wiki/%E6%9E%81%E9%99%90_\(%E6%95%B0%E5%AD%A6\) "极限 (数学)")，[连通性](https://zh.wikipedia.org/wiki/%E9%80%A3%E9%80%9A%E6%80%A7 "连通性")，[维数](https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BA%A6 "维度")……）。
 ###### 👉 Space（空间）
+↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+↗ [Measures (Measure Theory)](📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
 ↗ [Topology](Topology/Topology.md)
 ↗ [Geometry](Geometry/Geometry.md)
-↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -249,11 +257,12 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
 应用数学思考将抽象的数学工具运用在解答科学、工商业及其他领域上之现实问题。应用数学中的一重要领域为统计学，它利用概率论为其工具并允许对含有机会成分的现象进行描述、分析与预测。大部分的实验、调查及观察研究需要统计对其数据的分析。（许多的统计学家并不认为他们是数学家，而比较觉得是合作团体的一分子。）数值分析研究有什么计算方法，可以有效地解决那些人力所限而算不出的数学问题；它亦包含了对计算中舍入误差或其他来源的误差之研究。
-###### 👉 Discrete mathematics & TCS (Theoretical Computer Science)
+###### 👉 Discrete Mathematics & TCS (Theoretical Computer Science)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ###### 👉 Statistics and Other Decision Sciences
 
-↗ [Possibilities & Statistics](📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Possibilities & Statistics](📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
 

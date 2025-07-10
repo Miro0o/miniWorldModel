@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Possibilities & Statistics](../../../../🧮%20Mathematics/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Possibilities & Statistics](../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 ↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
 
