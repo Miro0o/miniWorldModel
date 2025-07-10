@@ -58,6 +58,8 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 
 ## 🐕 Computer Science Introduction & Overview
 ### Why is CS needed?
+> 💡 This section only stands for personal views. 
+
 TL;DR Version
 - The universe is made of **objects /maters**. According to different frames of references, objects can be still or in movement. 
 	- The movement of objects leads to **energy**.
@@ -420,25 +422,31 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 #### Learning CS Subjects
 
 
-
 ### How to learn CS ? (🤔 Questions Leading my CS Study)
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 > ↗ [Great Ideas in Theoretical CS](Great%20Ideas%20in%20Theoretical%20CS.md)
 > ↗ [Importance Themes & Ideaology in CS](Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 
-These questions, from general to specific, speaks the path of what i think every CS students should have follow in systematically learning computer science from zero to a profession. Most of these questions are too general and abstract that people rarely take them seriously in learning CS (instead they love solving concrete problems and learning practical techniques). But I believe in undergraduate level study, we should and must establish this systematical, wholistic view about computer science as a discipline as well, in additional to solid engineering skills or specific domain knowledges in some areas.
+These questions, from general to specific, speaks the path of what i think every CS students should have follow in systematically learning computer science from zero to profession. Most of these questions are too general and abstract that people rarely take them seriously in learning CS (instead they love solving concrete problems and learning practical techniques). But I believe in undergraduate level study, it's quite beneficial for us to establish this systematical, panoramic view towards computer science as a discipline as a whole, in additional to solid engineering skills or specific domain knowledges in some areas.
 
 1. What is the Universe?
 	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 	2. What is the life?（什么是生命？）
-	3. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能）
-		1. What is human society /civilization?
-			1. (The development of society /civilization ?)
-		2. (What about Artificial Intelligence?)
+	3. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））
+		1. Difference between human and other life objects? Self-consciousness.
+		2. Human intelligence?
+			1. Intelligence: computation (of information) + engineering
+			2. what is human society /civilization and how did it developed?
+				1. self-consciousness leads to needs for society and social activities.
+		3. Artificial intelligence? (as in its narrow definition)
+			1. computation (of information)
+		4. Human-like intelligence?
+			1. artificial intelligence + engineering (Embodied AI)
 	4. What is knowledge? What is the science?
-		1. Arts and Humanity 🆚 Natural Science ?
-		2. Sentiments 🆚 Logics?
-		3. (What is academic research?)
+		1. Knowledge is connected information. (so what is data /information?)
+		2. Arts and Humanity 🆚 Natural Science ?
+		3. Sentiments 🆚 Logics?
+		4. (What is academic research?)
 ----
 2. What is data /information?
 	1. ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)

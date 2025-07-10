@@ -27,10 +27,20 @@
 2. **past-** = feed, shepherd, 表示“喂养，牧羊人”。源自拉丁语 pascere "to feed," pastor "shepherd."
 	1. pastern
 	2. pastor
-		1. pastorship
-		2. pastorium
-		3. pastorate
-		4. pastoral, pastorally  (pastoral, bucolic, idyllic, )
+		1. bishop（主教）和pastor（牧师）：人类灵魂的看护和牧人  
+		2. 基督教中，“主教”称为bishop，普通教士称为pastor，这两个称谓都具有特定含义。bishop（主教）来自希腊语episkopos，本意为“看守、监督人”，由epi（over）+skopos（看守、守护）组成。episkopos原本并非宗教职务的称谓，而是世俗政府中的一种职位。基督教神职人员以“人类灵魂的看护者”自居，因此便以episkopos作为高级神职人员的称呼。进入英语后，被英国人掐头去尾，拼写变成了bisceop，后来又变成bishop。  
+		3. pastor本意是“牧人，牧羊人”，与pasture（牧场，草场）同源。在基督教经典著作中，常将信徒比喻为羊群，将基督比喻为看管、引导羊群的牧人。如：“他必像牧人牧养自己的羊群，用膀臂聚集羊羔抱在怀中。”（赛40:9-11）“耶和华是我的牧者，我必不至缺乏。”（诗23:1）“我必立一牧人照管他们，牧养他们。”（结34:23）因此，在信徒中传播教义的教士们也以牧人自居，称为pastor（牧师）。  
+		4. bishop： ['bɪʃəp] n.主教  
+		5. bishopric：['bɪʃəprɪk] n. 主教的职位；主教辖区  
+		6. archbishop： [,ɑrtʃ'bɪʃəp] n. 大主教；总教主  
+		7. pastor：['pɑːstə] n.牧师，牧人  
+		8. pastoral：['pæstərəl] adj. 牧师的；牧人的；田园生活的；乡村的n. 牧歌；田园诗；田园景色  
+		9. pastorale： [,pæstə'rɑli] n. （意）田园曲；牧歌式歌剧  
+		10. pasture： ['pæstʃɚ] n. 草地；牧场；牧草vt. 放牧；吃草
+		11. pastorship
+		12. pastorium
+		13. pastorate
+		14. pastoral, pastorally  (pastoral, bucolic, idyllic, )
 			1.  [pastorale](dic://pastorale), [idyll](dic://idyll)
 			2.  [bucolic](dic://bucolic)
 			3. [arcadian](dic://arcadian), [bucolic](dic://bucolic), [rustic](dic://rustic)
@@ -41,42 +51,92 @@
 			8. pastoralist
 			9. pastoralism
 			10. pastorale
-	3. pasture
-		1. pastureland
-		2. pasture-ground
-		3. pasturage
-		4. pasturable
-		5. depasture
-	4. repast
-		1. n. 餐, 就餐  
-		2. vi. 享用, 就餐
-		3. _n._ [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
-		4. **meal**一餐，一顿饭;**supper**晚餐，晚饭;**dinner**宴会;**feast**款待，宴请;**evening**傍晚;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**banquet**宴会，盛宴;**luncheon**午宴;**hearty**亲切友好的;**sustenance**食物;
-	6. antipasto
-3. bezoar
-4. feed
-5. fodder
-6. food
-7. forage
-	1. n. 粮草, 饲料  
-	2. v. 觅食; 匆忙寻找
-	3.  [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
-	4.  [foraging](dic://foraging)
-	5. [scrounge](dic://scrounge)
-	6. _n._ [feed](dic://feed), [provender](dic://provender), [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
-	7. _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down), [feed](dic://feed), [eat](dic://eat)
-	8. **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
-	9. _forage grass_ 饲草
-	10. _forage for_ v. 搜查
-	11. _forage plant_ 饲用植物；饲料植物
-	12. _forage crop_ 饲料作物
-	13. forage liberally on the country /在乡间大量搜寻粮草
-	14. foraged a snack from the refrigerator. /从冰箱中搜出些点心
-	15. the nightly forage produces things which can be sold. /每晚搜寻还找到可换钱的东西。
-	16. It simply takes some knowledge of how to forage and use them. /只不过你需要掌握如何搜寻和使用它们的知识。
-	17. And they spend a lot of time foraging for food /它们花很多时间寻找食物。
-	18. 
-8. foray
+		15. pasture
+			1.  [pastureland](dic://pastureland), [grazing land](dic://grazing land), [lea](dic://lea), [ley](dic://ley)
+			2.  [eatage](dic://eatage), [forage](dic://forage), [pasturage](dic://pasturage), [grass](dic://grass)
+			3.  [crop](dic://crop), [graze](dic://graze)
+			4.  [crop](dic://crop), [browse](dic://browse), [graze](dic://graze), [range](dic://range)
+			5. _n._ [grassland](dic://grassland), [feed](dic://feed), [provender](dic://provender)
+			6. _v._ [feed](dic://feed), [give](dic://give), [eat](dic://eat)
+			7. [lawn](dic://lawn) 多指公园、庭院中经常加以修剪的草坪。  
+			8. [meadow](dic://meadow) 指为牲畜提供食用草，可以贮备干草的牧草地；也指野外的低草地。  
+			9. [pasture](dic://pasture) 通常指放牧用的草地或牧草。
+			10. **grazing**牧草;**meadow**草地;**paddock**围场;**grassland**草原，牧场;**cattle**牛;**livestock**家畜, 牲畜;**graze**擦伤;**meadows**草地;**herd**兽群，畜群;**barn**谷仓;**farmland**农田;
+			11. _put out to pasture_ 放牧
+			12. _pasture land_ 牧场
+			13. _pasture grass_ 牧草
+			14. The soil proved too infertile to sustain real pasture or arable crops. /这土壤被证明太贫瘠,不能真正用作放牧或种植作物。
+			15. The pasture -ries three hundred head of cattle. /这块草地供养三百头牛。
+			16. Henry VIII decided to dispark the Duchy parks and turn them more profitably into pasture /亨利八世决定开放若干公爵猎园,把它们改作更加有益的牧场。
+			17. Isn’t it time some of these politicians were put out to pasture? /是不是该让这些政客中的某些人退休了？
+			18. The pasture was bleak and frozen. /牧场冷得刺骨，样样都冻住了。
+			19. She walks the sodden pasture lane. /她常漫步在浸水的湿草地。
+			20. pastureland
+			21. pasture-ground
+			22. pasturage
+			23. pasturable
+			24. depasture
+	3. repast
+		1. pastern ['pæst(ə)n] n.（牛马等）足的球节与蹄之间的部分。这个单词不常见，但明白它的词源会非常帮助我们记忆几个相关单词。这个单词本指系在家畜腿部的束缚，限制它们的活动范围。于是，pasture牧场不正是放养家畜的场所吗？pastor不正是牧师吗？pastoral不就是牧歌吗？repast不就是设宴和就餐么？
+		2. n. 餐, 就餐  
+		3. vi. 享用, 就餐
+		4. _n._ [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [aliment](dic://aliment), [alimentation](dic://alimentation), [victuals](dic://victuals)
+		5. **meal**一餐，一顿饭;**supper**晚餐，晚饭;**dinner**宴会;**feast**款待，宴请;**evening**傍晚;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**banquet**宴会，盛宴;**luncheon**午宴;**hearty**亲切友好的;**sustenance**食物;
+		6. None observed that the uninviting pittance set aside for his midday repast, remained for several days untouched. /甚至没有谁注意到他那微薄的薪水连吃午餐都不够，一连好几天他都不吃午餐。
+		7. That repast celebrated a good harvest year, but that was not a feast that included turkey /那次盛宴是为了庆祝丰收年，但在那场盛宴中并没有火鸡的出现。
+		8. Jack Pumpkinhead watched Tip curiously, but refused to join in the repast. /杰克南瓜头好奇地看着蒂普，但拒绝加入用餐。
+		9. There were a great many people to luncheon. The repast lasted ten minutes; no liqueurs were served, which astonished the doctor. /吃早餐的人很多。 只吃了十分钟；连酒也没有，使医生觉得意外。
+		10. After their repast she cleared the table and brought out the four rolls of silk. /吃完饭后，她收拾桌子，拿出四卷丝绸。
+	4. antipasto
+11. bezoar
+12. feed
+13. fodder
+	1. n. 饲料, 草料; 特定用途的人或物  
+	2. vt. 用饲料喂
+	3.  来自 food,食物。该物用做动物的饲料，草料。
+	4. _n._ [feed](dic://feed), [provender](dic://provender)
+	5. v._ [feed](dic://feed), [give](dic://give)
+	6. **gossip**小道传闻;**ammunition**弹药, 军火;**plenty**丰富，大量;**cannon**大炮;**drivel**淌口水,说傻话;**tidbits**花边新闻;
+	7. _cannon fodder_ n. 炮灰
+	8. The team had no intention of being cannon fodder when they played the champions, and were determined to win. /这支队伍参赛时无意充当炮灰，他们志在必得。
+	9. Other places have long sought special status for their fanciest fodder. /其他地方长期以来一直在为他们最精美的食物寻找独特的地位。
+	10. The green stalks and leaves make excellent fodder for cattle. /绿色的玉米茎和叶子是喂牛的好饲料。
+	11. Again, fantastic Syfy channel original movie fodder. Syfy: do you need help writing this script? Call my agent. /再说一次，这是一部精彩的科幻频道原创电影素材。Syfy：你需要我们帮忙写这个剧本吗？给我的经纪人打电话哦
+	12. And this provided fodder for calls from and to Palestinians to defend their holy site. /这也为巴勒斯坦保护他们的圣地提供了理由。
+	13. Such people are prime fodder for politicians: 83% of Americans who own a smartphone or tablet are registered to vote /83%已拥有智能手机或者平板电脑的美国人已登记成为选民。
+14. food
+	1. 来自 PIE*pa,喂食，喂养，词源同 fodder,pasture,company.
+	2. seafood
+	3. foodway
+	4. foodstuff
+	5. foodless
+	6. foodie
+	7. fastfood
+15. forage
+	1. 来自 Proto-Germanic*fodram,食物，觅食，词源同 food,fodder.
+	2. n. 粮草, 饲料  
+	3. v. 觅食; 匆忙寻找
+	4.  [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
+	5.  [foraging](dic://foraging)
+	6. [scrounge](dic://scrounge)
+	7. _n._ [feed](dic://feed), [provender](dic://provender), [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
+	8. _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down), [feed](dic://feed), [eat](dic://eat)
+	9. **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
+	10. _forage grass_ 饲草
+	11. _forage for_ v. 搜查
+	12. _forage plant_ 饲用植物；饲料植物
+	13. _forage crop_ 饲料作物
+	14. forage liberally on the country /在乡间大量搜寻粮草
+	15. foraged a snack from the refrigerator. /从冰箱中搜出些点心
+	16. the nightly forage produces things which can be sold. /每晚搜寻还找到可换钱的东西。
+	17. It simply takes some knowledge of how to forage and use them. /只不过你需要掌握如何搜寻和使用它们的知识。
+	18. And they spend a lot of time foraging for food /它们花很多时间寻找食物。
+	19. forager
+		1. n. 粮秣征收员, 抢劫者
+		2. forage【饲料】 + -er, 表人，是单词forage 派生的动作执行者（施动）名词。
+		3. _n._ [hunter](dic://hunter)
+		4. **hunter**猎人;**farmer**农夫，农民;**naturalist**博物学家;**gardener**花匠;**anthropologist**人类学家;**subsistence**存活, 生存, 维生之道;**foodie**美食家;**chef**厨师，大师傅;**predator**食肉动物;**eater**食者;**botanist**植物学家
+16. foray
 	1. n. 涉足，初次尝试；突袭；侵略；攻击 
 	2. vi. 袭击 
 	3. vt. 劫掠
@@ -90,7 +150,6 @@
 	11. my first foray into journalism. /我对新闻业的初次涉足。
 	12. So, that was my first foray into making things bigger for skateboarding as a whole. /所以，这是我第一次尝试把滑板这项运动做得更大。"
 	13. With the hound dead, so ended Hammer's brief foray into Baker Street /猎犬死后，汉默公司短暂的贝克街之旅也随之终结。
-10. fourrage
 
 
 ### + \*paene- + = nearly, almost
@@ -117,14 +176,14 @@
 		1. n. 语尾倒数第二音节, 倒数第二个
 		2. [penultima](dic://penultima), [penultimate](dic://penultimate)
 		3. **syllable**音节;**vowel**元音;**vowels**元音，母音;**consonant**辅音;
-	6. penultimate
+	5. penultimate [美 /pə'nʌltɪmət/](cmd://Speak/_us_/penultimate)
 		1. pen-接近 + ultimate【最终】 → 靠近最终一个 → 倒数第二。
 		2. 把这几个货也排下序：ultimate ['ʌltɪmət] adj.最后的、penultimate [pɪ'nʌltɪmət] adj.倒数第二的，前缀pen表almost，如peninsular n.半岛，因三面环水，所以“几乎是岛”、antepenultimate [,æntɪpɪ'nʌltɪmət] adj.倒数第三的，ante表前、preanteultimate adj.倒数第四的，pre也表前。
 		3. **final**最终的;**fifth**第五的;**fourth**四分之一的;**sixth**六分之一;**eleventh**第十一;**seventh**第七;**eighth**第八的;**second**秒;**ninth**第九;**twelfth**第十二的，第十二个的;**tenth**第十;
 		4. penultimate stress /在倒数第二音节上的重音
 		5. November is the penultimate month of the year. /十一月份是一年中倒数的第二个月。
 		6. antepenultimate
-	8. penumbra
+	6. penumbra [美 /pə'nʌmbrə/](cmd://Speak/_us_/penumbra)
 		1. n. 半影, 明暗交界部分, 边缘部分, 周围的气氛
 		2. pen-接近 + umbra-影子 → 接近影子的状态 → 半影。 
 		3. **twilight**黎明，黄昏;**shadows**阴影，影子;**periphery**外围;**shadow**影子;**ischemic**缺血性的;**infarction**梗塞;
@@ -141,37 +200,37 @@
 			4. The Earth has umbral and penumbral shadows, too. /地球也有本影和半影。
 			5. The umbra is gone, but you're still in the penumbral shadow. /本影已经移开，但你仍处在半影中。
 			6. **Penumbral** lunar Benying and did not sweep the place, simply can not see the solar eclipse. /月球本影和半影没有扫过的地方，根本看不见日食。
-	9. penury (impecunious)
-		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
-		3. n. 贫困, 贫穷, 拮据, 馈乏
-		4. pen-接近 . 引申词义物质缺乏，贫穷。
-		5. 来自拉丁语 penuria,缺乏，稀少，来自 paene,几乎，接近没有，词源同 penumbra.引申词义物质缺乏，贫穷。
-		6. **misery**痛苦，悲惨;**poverty**贫困;**destitute**赤贫的, 贫苦的;**abject**卑贱的;**toil**苦工;**oblivion**遗忘;**starvation**挨饿, 饥饿;**obscurity**不明, 费解, 隐晦, 无闻;**misfortune**不幸, 厄运, 逆境;**hardship**困苦;**wretched**可怜的;
-		7. [indigence](dic://indigence), [need](dic://need), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
-		8. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+	7. penury  [美 /'penjəri/](cmd://Speak/_us_/penury) (impecunious)
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
+		2. n. 贫困, 贫穷, 拮据, 馈乏
+		3. pen-接近 . 引申词义物质缺乏，贫穷。
+		4. 来自拉丁语 penuria,缺乏，稀少，来自 paene,几乎，接近没有，词源同 penumbra.引申词义物质缺乏，贫穷。
+		5. **misery**痛苦，悲惨;**poverty**贫困;**destitute**赤贫的, 贫苦的;**abject**卑贱的;**toil**苦工;**oblivion**遗忘;**starvation**挨饿, 饥饿;**obscurity**不明, 费解, 隐晦, 无闻;**misfortune**不幸, 厄运, 逆境;**hardship**困苦;**wretched**可怜的;
+		6. [indigence](dic://indigence), [need](dic://need), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		7. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
 			3. _[penury affluence](dic://penury%20affluence)_ 贫困
 			4. _[penury and want](dic://penury%20and%20want)_ 贫乏
 			5. _[development-oriented penury relief](dic://development-oriented%20penury%20relief)_ 开发式扶贫
 			6. _[need distress penury poverty want](dic://need%20distress%20penury%20poverty%20want)_ 贫困
 			7. _[indigent penurious penury impecunious needy](dic://indigent%20penurious%20penury%20impecunious%20needy)_ 贫困的
 			8. _[indigent penurious penury impecunious improvished](dic://indigent%20penurious%20penury%20impecunious%20improvished)_ 贫困的
-		9. Hardship and penury wore him out before his time /受穷受苦使他未老先衰。
-		10. Luxury and penury have always coexisted there in uneasy tension /奢华和贫困两种现象一直以来都并存于这个城市，其紧张关系也令人不安。
-		11. His is a world of violence, random death, corruption, hunger and penury. /他的世界充斥着暴力、随机死亡、腐败、饥饿和贫穷。
-		12. Had he stopped there, he would have faced a life on the edge of penury. /如果他就停在那里，他将会面临一生的穷困潦倒。
-		13. penurious (impecunious)
-			1.  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
+		8. Hardship and penury wore him out before his time /受穷受苦使他未老先衰。
+		9. Luxury and penury have always coexisted there in uneasy tension /奢华和贫困两种现象一直以来都并存于这个城市，其紧张关系也令人不安。
+		10. His is a world of violence, random death, corruption, hunger and penury. /他的世界充斥着暴力、随机死亡、腐败、饥饿和贫穷。
+		11. Had he stopped there, he would have faced a life on the edge of penury. /如果他就停在那里，他将会面临一生的穷困潦倒。
+		12. penurious (impecunious)
+			1.  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
 			2. **destitute**赤贫的, 贫苦的;**frugal**节俭的;**wretched**可怜的;**impoverished**穷困的,无力的,用尽了的;**poor**可怜的;**wealthy**富有的;**miserable**悲惨的;**pious**虔诚的;**austere**简朴的;**meager**贫乏的;**hapless**运气不好的，倒霉的;
 			3. [poor](dic://poor), [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 			4. a penurious old tramp /一贫如洗的老流浪汉。
 			5. he was generous and hospitable in contrast to his stingy and penurious wife /与他吝啬小气的妻子相比，他慷慨又好客。
 			6. It is like some penurious patrician who has sunk into the company of his inferiors /这就像某个吝啬的贵族融入了下属的行列。
-		14. penuriously
-	11. penannular
-	12. peneplanation
-	13. peneplane
+		13. penuriously
+	8. penannular
+	9. peneplanation
+	10. peneplane
 2. **pen-, penit-** = regret, 表示“懊悔”。源自拉丁语 paene "nearly, almost."
-	1. penance
+	1. penance [美 /'penəns/](cmd://Speak/_us_/penance)
 		1. n. 赎罪, 悔罪, 忏悔; 苦差事, 被迫做的事
 		2. 来自古法语 peneance,来自拉丁语 paenitentia,忏悔，悔罪，词源同 penitence.
 		3. [repentance](dic://repentance), [penitence](dic://penitence)
@@ -181,8 +240,8 @@
 		7. They had confessed their sins and done their penance. /他们已经告罪并做了补赎。
 		8. he had done public penance for those hasty words. /他为那些草率的话而当众自我惩罚。
 		9. a hair shirt to penance him for his folly in offending /一件使其为冒犯他人的过错而忏悔的刚毛衬衣。
-	2. penitent 
-		1. (contrite, remorse, rueful, compunction, rue, penitent )
+	2. penitent [美 /'penɪtənt/](cmd://Speak/_us_/penitent)
+		1. (contrite, remorseful, rueful, ruthful, penitent repentant, excusatory, compunctious))
 		2. a. 忏悔的, 悔悟的, 表示悔罪的  n. 忏悔的人, 悔罪者
 		3. 来自拉丁语 paenitere,感到遗憾，感到歉意，可能来自 poena,惩罚，处罚，补偿，弥补，词源同 pain,penal,punish.引申词义悔罪，忏悔。
 		4. [repentant](dic://repentant)
@@ -199,15 +258,7 @@
 			3. [repentance](dic://repentance), [penance](dic://penance)
 			4. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
 			5. **penance**使…以苦行赎罪;**repentance**悔悟;**piety**虔诚;**confession**承认;**repent**忏悔;**forgiveness**宽恕;**remorse**懊悔, 悔恨, 自责;**sins**罪恶;**atonement**弥补,补偿;**martyrdom**殉难;**humility**谦卑，谦逊;
-		13. penitentiary
-			1. _n._ [correctional institution](dic://correctional institution)
-			2. _adj._ [punitive](dic://punitive), [punitory](dic://punitory)
-			3. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
-			4. _[penitentiary committee](dic://penitentiary%20committee)_ 刑务委员会
-			5. _[penitentiary establishment](dic://penitentiary%20establishment)_ 反省机关
-			6. _[city penitentiary](dic://city%20penitentiary)_ 市监狱
-			7. _[county penitentiary](dic://county%20penitentiary)_ 县监狱
-		14. penitential
+		13. penitential
 			1. _adj._ [repentance](dic://repentance), [penitence](dic://penitence), [penance](dic://penance), [penitent](dic://penitent), [repentant](dic://repentant)
 			2. _n._ [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 			3. **penance**使…以苦行赎罪;**liturgical**礼拜仪式的;**liturgy**礼拜仪式;**monastic**僧侣;**ecclesiastical**基督教会的;**piety**虔诚;**contemplative**沉思的;**fasting**禁食;**repentance**悔悟;**priestly**祭司的;**pious**虔诚的;
@@ -216,8 +267,20 @@
 			6. The penitential den once set apart for interviews with the House, was now the news-Exchange, and was filled to overflowing. /忏悔室曾经专门用来接受众议院的采访，现在是新闻交流中心，人满为患。
 			7. If they would serve their fellow-men, let them do it by making manifest the power and reality of conscience, in constraining them to penitential self-abasement! /如果他们愿意为他们的同胞服务，就让他们通过彰显良心的力量和现实来做到这一点，迫使他们忏悔自卑！
 			8. penitentially
+		14. penitentiary [美 /ˌpenɪ'tenʃəri/](cmd://Speak/_us_/penitentiary)
+			1. 1. _n._ <美>监狱
+			2. _adj._ 用作教养的,感化(院)的,教养所的
+			3. _n._ [correctional institution](dic://correctional institution)
+			4. _adj._ [punitive](dic://punitive), [punitory](dic://punitory)
+			5. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
+			6. _[penitentiary committee](dic://penitentiary%20committee)_ 刑务委员会
+			7. _[penitentiary establishment](dic://penitentiary%20establishment)_ 反省机关
+			8. _[city penitentiary](dic://city%20penitentiary)_ 市监狱
+			9. _[county penitentiary](dic://county%20penitentiary)_ 县监狱
+			10. The justice minister said criminal groups use the Vista Hermosa penitentiary as a base for extortion operations. /司法部长表示，犯罪集团将Vista Hermosa监狱作为敲诈勒索行动的基地。
+			11. To escape her marriage...- Lamar Benjamin? You know my husband Orson from the state penitentiary. /为了逃离她的婚姻… … - 您是拉莫·本杰明吗？我丈夫奥森曾和你在州监狱是狱友。
 		15. impenitent (impertinent, impendence, impenitent, impenetrable, )
-			1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+			1. (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 			2.  [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 			3. _n._ [penitent](dic://penitent), [repentant](dic://repentant), [regenerate](dic://regenerate)
 			4. **sinners**罪人;**sinner**罪人;**repent**忏悔;**repentance**悔悟;**heretics**异教徒;**sinful**有罪的;**hardened**变硬的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**depraved**堕落的;
@@ -453,7 +516,7 @@
 		8. impingement
 4. **pag-, peas-** 表示“乡村、村民”，原意表示 district limited by markers（圈起来的一块固定土地）。源自拉丁语 pagina "trellis to which a row of vines is fixed."
 	1. peasant
-		1. - n. （旧时或贫穷国家的）农民，佃农；<非正式>没教养的人，粗人
+		1. n. （旧时或贫穷国家的）农民，佃农；<非正式>没教养的人，粗人
 		2.  [provincial](dic://provincial), [bucolic](dic://bucolic)
 		3.  [barbarian](dic://barbarian), [boor](dic://boor), [churl](dic://churl), [Goth](dic://Goth), [tyke](dic://tyke), [tike](dic://tike)
 		4. _n._ [rustic](dic://rustic), [agricultural laborer](dic://agricultural laborer), [agricultural labourer](dic://agricultural labourer), [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
@@ -780,6 +843,7 @@
 		1. _n._ [mourner](dic://mourner), [griever](dic://griever), [sorrower](dic://sorrower), [lamenter](dic://lamenter)
 		2. **funeral**葬礼;**funerals**丧葬;**casket**匣子;**uncle**伯父;**obituary**讣告;**coffin**棺材;**deceased**已故的;**deacon**执事;**memorial**纪念物;**uncles**叔伯;**burial**埋葬;
 		3. _[pallbearer](dic://pallbearer)_  n. 护柩者；棺侧送葬者
+2. pallation
 3. palliate
 	1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, lenify, conciliate, quell, slake)
 	2. 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
@@ -808,19 +872,18 @@
 		8. We have a deal and this deal means that there was no need for any kind of palliation /我们达成一个协议，这个协议意味着没有任何缓和的必要。
 		9. I took others' discomfort for granted and the only palliation of my social sin is that I took my own so, too /我认为别人的不适是理所当然的，而我的社会罪恶的唯一缓和方法就是我也这样认为。
 		10. 
-5. pallium
-	1. [cerebral cortex](dic://cerebral cortex), [cerebral mantle](dic://cerebral mantle), [cortex](dic://cortex)
-	2. [mantle](dic://mantle)
-	3. _n._ [neural structure](dic://neural structure), [epidermis](dic://epidermis), [cuticle](dic://cuticle), [vestment](dic://vestment), [cloak](dic://cloak)
-	4. **episcopal**主教的;**papal**罗马教皇的;**pope**教皇，罗马教皇;**archbishop**大主教;**bishop**主教;**tunic**束腰外衣;**priestly**祭司的;**consecration**奉献;
-	5. n. [解剖] 大脑皮层；大披肩；层状雨云
+4. pallium [美 /'pælɪəm/](cmd://Speak/_us_/pallium)
+	1. n. [解剖] 大脑皮层；大披肩；层状雨云
+	2. [cerebral cortex](dic://cerebral cortex), [cerebral mantle](dic://cerebral mantle), [cortex](dic://cortex)
+	3. [mantle](dic://mantle)
+	4. _n._ [neural structure](dic://neural structure), [epidermis](dic://epidermis), [cuticle](dic://cuticle), [vestment](dic://vestment), [cloak](dic://cloak)
+	5. **episcopal**主教的;**papal**罗马教皇的;**pope**教皇，罗马教皇;**archbishop**大主教;**bishop**主教;**tunic**束腰外衣;**priestly**祭司的;**consecration**奉献;
 	6. Researchers shined different angles of light into extremely thin slices of the pallium, the area of bird brains with a similar function to the neocortex of mammals. /研究人员将不同角度的光照射到极薄的大脑皮层切片上，大脑皮层是鸟类大脑的区域，与哺乳动物的新皮质具有相似的功能。
 	7. We know, the formation of any athletic skill, need to have the excited process of **pallium**. /我们知道，任何运动技能的形成，都需要有大脑皮层的兴奋过程。
 	8. prepallium
 	9. postpallium
 	10. paleopallium
 	11. neopaulium
-6. pallation
 
 
 ### + \*pant- + = all
@@ -840,16 +903,36 @@
 	4. pancosmism
 	5. pancratic
 		1. pan-泛 + crat-统治，管理 + -ic
-		2. a. 可随意调节的
+		2. a. 可随意调节的 _adj._ 视界大的;(透镜)可随意调节的
+		3. _[pancratic lens](dic://pancratic%20lens)_ 可调焦透镜；可调光焦透镜
+		4. _[pancratic eyepiece](dic://pancratic%20eyepiece)_ 可调节目镜
+		5. _[pancratic magnification](dic://pancratic%20magnification)_ 可调倍调率
+		6. _[pancratic eye piece](dic://pancratic%20eye%20piece)_ 可调节目镜
 	6. pandect
 		1. n. 法令全书, 总论, 总览
 	7. pandemic
 		1.  pan-到处 + dem-人 + -ic表形容词 → 人群中到处流行的。
-	8. pandemonium
+		2. _n._ [epidemic](dic://epidemic)
+		3. _adj._ [epidemic](dic://epidemic), [general](dic://general)
+		4. _n._ [endemic](dic://endemic), [endemical](dic://endemical), [ecdemic](dic://ecdemic), [specific](dic://specific)
+		5. **epidemic**流行的;**influenza**流行性感冒;**outbreak**发作;**flu**流感;**smallpox**天花;**measles**麻疹;**catastrophe**大灾难;**apocalypse**启示, 天启;**cholera**霍乱;**plague**瘟疫;**vaccine**疫苗;
+		6. _pandemic influenza_ 大流行性流感
+	8. pandemonium [美 /ˌpændə'moʊniəm/](cmd://Speak/_us_/pandemonium)
 		1. pandemonium（混乱）：弥尔顿笔下的“万魔殿”  
 		2. 单词pandemonium最早出现于17世纪著名诗人弥尔顿（John Milton）的神话史诗作品《失乐园》中，代表着地狱的首都，译为“万魔殿”。根据《失乐园》的记载，万魔殿是堕落天使所建筑的地狱中最壮观的都市，撒旦与他身边的恶魔们都住在这里。此词第一次出现是在失乐园第一部的最后部分，由代表贪欲的恶魔玛蒙提出。恶魔们在不到一小时的时间内建成了万魔殿，相传它是座很小的城市，因为恶魔们要把本身巨大的身体缩小才能进入这座城市。  
 		3. 单词pandemonium由pan（all、所有）+demon（恶魔）+ium（后缀，表场所）构成，字面意思就是“所有恶魔聚集的地方”。现在，该词通常用来形容“喧闹、混乱的场所”。  
 		4. pandemonium：[,pændə'monɪəm] n.混乱，乌烟瘴气，喧闹混乱的场所
+		5. _n._ [confusion](dic://confusion)
+		6. **chaos**混沌，混乱;**mayhem**大混乱, 大破坏;**commotion**暴乱;**frenzy**狂怒;**madness**疯狂;**carnage**残杀;**riot**暴乱;**anarchy**无政府状态;**frenzied**狂乱的;**craziness**发狂,热中,狂热;**hysteria**不正常的兴奋;
+			1. [condominium](dic://condominium) n. （独立产权的）公寓；共管；国际共管
+		7. _[pandemonium](dic://pandemonium)_  n. 一片混乱；闹哄哄的场所
+		8. _[pandemonium model](dic://pandemonium%20model)_  泛魔识别模式
+		9. _[pandemonium hypothesis](dic://pandemonium%20hypothesis)_  鬼域假说
+		10. The whole lobby was a perfect pandemonium, and the din was terrific. /整个门厅一片嘈杂，而且喧嚣刺耳。
+		11. It was pandemonium. Paris was in an uproar. /随后开始了一场骚乱。巴黎闹得沸沸扬扬。
+		12. And there are different signs that there was pandemonium here yesterday. /不过有多种迹象表明昨天慕尼黑陷入了混乱。
+		13. What Web Broadway and East 43 right now is absolutely crazy. It's pandemonium. /现在的百老汇和东43站都简直太疯狂了，太混乱了！
+		14. Milton was responsible for an estimated 630 word coinages, including lovelorn, fragrance and pandemonium. /弥尔顿创造了大约 630 个单词的造词， 包括失恋、芬芳和混乱。
 	9. pandit
 		1. n. 博学家, 梵学家
 	10. Pandora
@@ -883,15 +966,26 @@
 			14. Who pandered to her every need? /是谁答应她所有的要求？
 			15. Some fear, however, that this sort of remark is mere pandering to moderates and the West /然而，一些人担心，这种言辞只不过是为了迎合中立派和西方国家。
 			16. Starting to sound like pandering. - Uh, yes, dear. I just... /听着有点像拉皮条 -是 我只是。
-	11. panegyric, panegyrist, panegyrize
+	11. panegyric
 		1. n. 赞颂, 颂词, 推崇备至
 		2. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
-		3. panegyrical
-	12. pangen, pangenetic, pangenesis
-	13. Panhellenic, Panhellenism
-	14. panlogism, panlogistic
-	15. panmixia
-	16. panoply, panoplied
+		3. 来自拉丁语 panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同 agora,gregarious.即公共集会的庆祝辞。
+		4. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
+		5. _adj._ [complimentary](dic://complimentary)
+		6. _n._ [uncomplimentary](dic://uncomplimentary)
+		7. **treatise**论文;**poem**诗;**prose**散文;**pious**虔诚的;**piety**虔诚;**recitation**背诵;**poetry**诗;**poems**诗歌，诗集;**poetic**诗的，诗歌的;**preface**前言;**praise**赞扬;
+		8. On abuse, on reproach, on calumny, it is easy to smile; but painful indeed, is the panegyric of those we contemn. /面对谩骂、非难，中伤而一笑置之，那是容易的；可是，老实说，要藐视这些颂词却是需要费点儿力气的。
+		9. Catherine assented—and a very warm panegyric from her on that lady's merits closed the subject. /凯瑟琳表示同意——她对那位女士的功绩发表了非常热情的赞美，结束了这个话题。
+		10. The painter's absurd fits of jealousy, his wild devotion, his extravagant panegyrics, his curious reticences—he understood them all now, and he felt sorry. /画家荒唐的嫉妒，狂热的虔诚，夸张的赞美，古怪的沉默寡言——他现在都明白了，他感到难过。
+		11. " On the other side, of course, there are the Austens, a race little given to panegyric of themselves, but nevertheless, they say, her brothers " were very fond and very proud of her. /当然，另一边还有奥斯汀家族，他们是一个很少自我赞美的民族，但尽管如此，他们说，她的兄弟们“非常喜欢她，并为她感到骄傲。
+		12. panegyrist
+		13. panegyrize
+		14. panegyrical
+	15. pangen, pangenetic, pangenesis
+	16. Panhellenic, Panhellenism
+	17. panlogism, panlogistic
+	18. panmixia
+	19. panoply, panoplied
 		2.  来自希腊语 panoplia,全套武器装备，全套甲胄，来自 pan-,全部，所有，hopla,武器装备，词源同 hoplite.引申词义全套收藏品，壮观的收藏。
 		3. _n._ [array](dic://array)
 		4. **myriad**无数的;**plethora**过剩;**multitude**大量, 许多;**litany**冗长而枯燥的陈述;**slew**沼地;**replete**充满的;**dizzying**使人眩晕的，使人头昏眼花的;**variety**种类;**array**一系列;**assortment**分类;**assorted**混杂的;
@@ -904,7 +998,7 @@
 		11. And we think of inflation in a really singular way… and that really limits the vast panoply of tools that we actually have to fight this problem. /我们认为通货膨胀是一种非常单一的方式，这真的限制了我们实际对抗这个问题的大量工具。
 		12. Some thirty pictures by the masters, uniformly framed and separated by gleaming panopliesof arms, adorned walls on which were stretched tapestries of austere design. /四周的墙壁悬挂着图案壁毯，壁毯上点缀着三十来幅名画，画框子都是一式一样的，每幅画之间隔以闪闪发亮的武器饰物。
 		13. His figured panoply of death looked more like a disguise assumed in mockery than a fierce annunciation of a desire to carry destruction in his footsteps. /他的死亡盛装看起来更像是一种嘲弄的伪装，而不是一种强烈的宣告，希望在他的脚步中带来毁灭。
-	17. panoptic, panopticon,  (synoptic)
+	20. panoptic, panopticon,  (synoptic)
 		1. - adj. 展示全景的
 		2. pan-全部 + opt-看 + ic
 		3.  [panoptical](dic://panoptical)
@@ -914,7 +1008,7 @@
 		7. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**utopian**空想的;**panoramic**全景的;**authoritarian**权力主义的,专制的;**panorama**全景，全貌;**postmodern**后现代主义的;**gaze**注视;**Foucault**傅科; 
 		8. As he makes his case, Mr Chancellor's panoptic survey of the history of interest, and what classical economists said about it, will not fail to dazzle. /在阐述自己的观点时，钱塞勒对利息历史的全面调查，以及古典经济学家对此的看法，一定会令人眼花缭乱。
 		9. Instead the solution is an elegant contemporary extension consisting of a rhythmic series of double and single height Spaces, connected with mezzanines, **panoptic** Windows and footbridges. /相反，这一解决方案是现代的优雅延伸，它由一系列有节奏感的双高度空间和高度空间组成，并与夹层、落地窗和人行桥相连。
-	18. panorama, panoramic, 
+	21. panorama, panoramic, 
 		1. [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [scene](dic://scene), [vista](dic://vista)
 		2.  [cyclorama](dic://cyclorama), [diorama](dic://diorama)
 		3. _n._ [visual percept](dic://visual percept), [visual image](dic://visual image), [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
@@ -926,9 +1020,9 @@
 		9. Mary Karr presents her childhood in an almost unbroken panorama. /玛丽·卡尔把她的童年用几乎毫不间断的大场景展现出来。
 		10. cinepanoramic
 			1. n. 全景宽银幕电影
-	19. pansophic, panpsychism
-	20. pantechnicon, pantelegraph, 
-	21. pantheism
+	22. pansophic, panpsychism
+	23. pantechnicon, pantelegraph, 
+	24. pantheism
 		1. _n._ [theism](dic://theism)
 		2. **metaphysics**形而上学,玄学;**mysticism**神秘主义;**atheism**不信神，无神论;**metaphysical**形而上学的,纯粹哲学的,超自然的;**materialism**唯物主义;**secularism**世俗主义;**Christianity**基督教;**spirituality**精神性,灵性;**divinity**神;**theology**神学;**Hinduism**印度教;
 		3. An impassioned pantheism lends to certain pages a lyric beauty, whose accents recall the tales of the Caucasus. /慷慨激昂的泛神论赋予某些页面以抒情之美， 其口音让人想起高加索的故事。
@@ -936,24 +1030,24 @@
 		5. pantheist
 		6. pantheistic
 		7. pantheistical
-	22. panthelism
-	23. pantheon
+	25. panthelism
+	26. pantheon
 		1. pan-泛 , 全部 + the-神 + -on → 全部神在一起 → 万神殿。
-	24. panther
+	27. panther
 		1. pan-全部，这里表示强调 + ther-野，即非常野蛮的动物。
-	25. pantisocracy
-	26. pantograph
+	28. pantisocracy
+	29. pantograph
 		1. _n._ [mechanical device](dic://mechanical device)
 		2. **applique**贴花;**stencil**模版，蜡纸;**locomotive**火车头, 机车;**spindle**轴;**rotary**旋转的，转动的;**servo**伺服;**quilted**中间絮有软物的;
-	27. pantomime
+	30. pantomime
 		1. _n._ [acting](dic://acting), [playing](dic://playing), [playacting](dic://playacting), [performing](dic://performing)
 		2. _v._ [act](dic://act), [play](dic://play), [roleplay](dic://roleplay), [playact](dic://playact)
 		3. **farce**笑剧,闹剧,滑稽戏;**burlesque**作戏;**vaudeville**杂耍;**theatre**电影院，戏院;**Shakespearean**莎士比亚的;**theatrical**戏剧的;**cabaret**卡巴莱歌舞表演;**troupe**剧团, 艺术团体;**circus**马戏团;**comedy**喜剧;**ballet**芭蕾舞剧;
-	28. pantopragmatic
+	31. pantopragmatic
 		1. _[pantopragmatic](dic://pantopragmatic)_  爱管闲事的
-	29. pantoscope, pantoscopic
-	30. pantropic [美 /pænˈtrɑpik/](cmd://Speak/_us_/pantropic)
-	31. pamphlet, pamphleteer
+	32. pantoscope, pantoscopic
+	33. pantropic [美 /pænˈtrɑpik/](cmd://Speak/_us_/pantropic)
+	34. pamphlet, pamphleteer
 		1. pamphlet（小册子）：一本著名的爱情诗小册子  
 		2. 这个词来自12世纪时一首著名的爱情诗Pamphilus seu De Amore（《为人人所爱》）。这首诗以未装订的活页出现，流传甚广，极受欢迎，而且人们给它取了个绰号叫pernphilet。后来，任何类似的薄本纸面的小册子统称为pamphilet，最后又简写为pamphlet。  
 			1. pamphlet：[ˈpæmflɪt] n.小册子  
@@ -968,7 +1062,7 @@
 		10. Promotional pamphlet, Brochure, Poster, Menu, Tablemat, Memo, Coaster, Paper fan, Other paper premiums. /宣传册子、海报、餐牌、餐台纸、杯垫、纸扇、其他纸类赠品。
 		11. We're the cover of the old people's pamphlet. /我们和老年人宣传册的封面一样一样。
 		12. Beautiful, I don't need a pamphlet. It's not brain surgery. They're just kids, for god sake. /很好，我不需要指导手册。这又不是脑外科手术。看在上帝的份上，他们只是孩子。
-2. **pancreas- pancreat-** = pan + creas， 「Greeks」 kreas, "flesh"
+5. **pancreas- pancreat-** = pan + creas， 「Greeks」 kreas, "flesh"
 	1. kerue-(1)
 	2. pancreas
 	3. pancreatic, 
@@ -1005,7 +1099,7 @@
 	6. papyrus：n.莎草，纸莎草，莎草纸  
 	7. paperwork：['pepɚ'wɝk] n. 文书工作  
 	8. newspaper： ['nuzpepɚ] n. 报纸
-2. papyrus
+2. papyrus[美 /pə'paɪrəs/](cmd://Speak/_us_/papyrus)
 	1. paper made from the papyrus plant by cutting it in strips and pressing it flat; used by ancient Egyptians and Greeks and Romans
 	2. tall sedge of the Nile valley yielding fiber that served many purposes in historic times
 	3. n. 纸草, 草制成之纸
@@ -1013,7 +1107,8 @@
 	5. _n._ [paper](dic://paper), [sedge](dic://sedge), [document](dic://document), [written document](dic://written document), [papers](dic://papers)
 	6. **parchment**羊皮纸;**vellum**上等皮纸;**scrolls**卷轴;**Egyptian**埃及的;**Coptic**科普特人的;**reed**芦苇;**reeds**芦苇属植物;**Egypt**埃及;**manuscript**手稿, 原稿, 底稿;**Gospels**福音书;**inscription**题
 	7. Books made of papyrus were unknown to the Mesopotamians /人们在美索不达米亚不曾发现过莎草纸书。
-	8. papyraceous
+	8. One of the recipients was papyrus sleuth Brent Nongbri. /其中一位接收者是莎草纸专家布伦特·农布里。
+	9. papyraceous
 
 
 ### par-,parl- = speak, 表示“说话”，来源于古法语 parler。和 para-(周围) 同源，原意“围在一起聊天”。
@@ -1064,7 +1159,7 @@
 	18. Now, in accounting parlance, this is what's called an avoided emissions offset /用碳足迹计算术语来说，这叫做碳抵消。
 	19. The phrase in common parlance means using ordinary, everyday words. /" 俗话说" 这个短语是指使用一般的日常用语。
 	20. Maybe it has fallen out of parlance. /也许它已经不再是用语了。
-4. parley
+4. parley [美 /'pɑːrli/](cmd://Speak/_us_/parley)
 	1. vi. 会谈, 谈判  vt. 讲
 	2. _n._ [negotiation](dic://negotiation), [dialogue](dic://dialogue), [talks](dic://talks)
 	3. _v._ [negociate](dic://negociate)
@@ -1080,7 +1175,7 @@
 	13. hold a parley with(the enemy) /和(敌方)谈判, 商议
 	14. parleyed with enemy representatives during the cease-fire; /停火期间与敌方代表谈判；
 	15. If an adversary demands parley, you can do them no harm until the parley is complete. /如果俘虏要求帕雷的话，我们不能伤害她直至仪式结束。
-5. parlay
+5. parlay [美 /'pɑːrleɪ/](cmd://Speak/_us_/parlay)
 	1. 来自古法语 parler,说话，词源同 parley,Parliament.该词为赌博行话，其原词义可能为下注或找别人借钱的承诺，引申词义连本带利的赌博或使增值。
 	2. n. 连本带利的赌  vt. 连本带利的赌, 使增值, 成功地利用
 	3. vt. 使增值；充分利用；连本带利地赌博 
@@ -1116,7 +1211,7 @@
 	16. parliamentary
 	17. parliamentarism
 	18. parliamentarian
-9. palaver
+8. palaver [美 /pə'lɑːvər/](cmd://Speak/_us_/palaver)
 	1. 水手航海俚语，来自葡萄牙语 palavra,说话，谈话，与土著人的谈判，来自拉丁语 parabola,比较，谈话，谈判，词源同 parable, parlance.后引申词义琐事，废话。
 	2. n. 谈判, 交涉, 洽商, 废话, 奉承  
 	3. vi. 唠叨, 拍马屁, 交涉, 用花言巧语骗人  vt. 笼络, 哄骗
@@ -1129,7 +1224,7 @@
 	9. Printing became a palaver. When couriers eventually got to banks, they often found no one there /打印成了空话。当快递员最终来到银行，他们通常发现那里一个人都没有。
 	10. You givin' me that old prep school palaver? /高中小屁孩也敢跟我多嘴？
 	11. During the palaver which followed they retailed the gossip of the villages through which they had passed, receiving in exchange such news as Kovudoo possessed. The palaverwas long and tiresome, as these native ceremonies always are to Europeans. /在接下来的谈话中，他们散布了他们经过的村庄的八卦，作为交换，他们收到了 Kovudoo 拥有的消息。谈话冗长而令人厌烦，因为这些本土仪式对欧洲人来说总是如此。
-10. parole
+9. parole [美 /pə'roʊl/](cmd://Speak/_us_/parole)
 	1. 法语 parole d'honneur,承诺，承诺辞，即 parole of honor,来自拉丁语 parabola,说话，词源同 parable, parley.原指战争中俘虏作出的不逃跑的承诺，后用于对罪犯的假释。
 	2. n. 假释; 言语  
 	3. v. 假释, 有条件地释放

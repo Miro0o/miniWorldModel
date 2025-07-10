@@ -854,28 +854,95 @@
 
 
 ### serv-   = serve, 表示“服务”。
-1. concierge
+1. concierge [美 /koʊn'sjerʒ/](cmd://Speak/_us_/concierge)
+	1. concierge ['kɒnsɪeəʒ] n.门房；看门人。前缀-con-表with,together，单词的词根实际是拉丁词根serv-，表奴隶（但是和slave不同源，后者来自Slaves斯拉夫人，奥托大帝俘虏了很多斯拉夫人卖到了西欧），而c在ei和y前读/s/音。所以实际上concierge本意是“fellow slave”，具体职位就是一个doorman。
+	2. 来自法语。con-,表强调，-cierge,词源同 serve,服务。
+	3. _n._ [caretaker](dic://caretaker)
+	4. **valet**贴身男仆;**receptionist**接待员;**butler**男管家;**chauffeur**司机;**hotel**旅馆，饭店;**check-in**报到处,登记处;**housekeeping**家务;**spa**矿泉;**housekeeper**管家;**waiter**服务员，侍者;**amenities**便利设施;
+	5. _[concierge service](dic://concierge%20service)_  门房服务
+	6. _[concierge](dic://concierge)_  n. 门房；看门人
+	7. Can one of you call the concierge? /你们能打电话给前台吗?
+	8. I'm Tom Wolf, and I'm America's first concierge. /我是汤姆·沃尔夫，我是美国第一位礼宾员。
+	9. I heard the concierge in the next room emptying my bath. /隔壁的屋子里，女看门人正在把我浴盆里的水放掉。
+	10. But it all starts here, at the concierge desk of the Fairmont San Francisco /但一切都要从这里开始，在旧金山费尔蒙特酒店的礼宾部
+	11. The concierge will be somebody of very modest means. /门房的财产不多。
+	12. They were hiring a bellhop and a concierge. /他们在请一名行李员 一名礼宾员。
 2. deserve
+	1. vt. 该得到, 值得  vi. 应得报答
+	2. undeserving
+	3. deserving
+	4. deserved
+		1. undeserved
+		2. deservedly
 3. dessert
+	1. n. 餐后甜点
+	2. des-不，非 + sert-服务，即停止正餐服务，上甜点。
+	3. dessert（甜点）：收拾餐桌后再吃的食物  
+	4. 在西方，人们喜欢在餐后吃甜食或甜点心，表示甜食或甜点心的英语单词dessert的本意就是“收拾餐桌以后吃的”。dessert源自法语，原为法语动词desservir的过去分词形式，而desservir = des（等于英语否定前缀un）+servir（等于英语中的serve，上菜），字面意思就是“收拾桌子”。收拾完桌子后再吃的自然就是甜食了。  
+	5. dessert：[dɪ'zɜːt] n.餐后甜点，甜食  
+	6. serve： [sɝv] vt. 招待，供应；为…服务；对…有用；可作…用vi. 服役，服务；适合，足够；发球；招待，侍候n. 发球，轮到发球  
+	7. service： ['sɝvɪs] n. 服务，服侍；服役
 4. disserve
+	1. vt. 给...帮倒忙, 危害
 5. serf
+	1. 来自 serve 的名词形式，比较 proof,prove.用于指农奴。
+	2. n. 农奴, 奴隶, 服苦役的人serf（农奴）：没有人身自由的农业生产者  
+	3. 农奴serf是封建社会中隶属于农奴主或封建主的农业生产劳动者，没有人身自由和任何政治权利，社会地位极为低下，受到封建主多方面的剥削和奴役。在封建制度下，少数封建领主或农奴主占有土地、山林、草原和河流等绝大部分生产资料，并部分占有农奴；农奴从农奴主手中分得一块份地，作为代价他们必须无偿耕种领主土地，服各种劳役，并上缴大部分劳动产品。  
+	4. 表示“农奴”的英语单词serf源自罗马人对奴隶的称呼――servus，单词serve（伺候）与它同源。  
+	5. serf： [sɜːf] n.农奴，奴隶  
+	6. serfdom：['sɝfdəm] n. 农奴境遇；农奴身份  
+	7. serve：[sɝv] v. 招待，供应；为…服务；服役，服务；侍候n. 发球，轮到发球  
+	8. service：['sɝvɪs] n. 服务，服侍；服役
+	9. serfhood
+	10. serfdom
+	11. serfage
+		1. n. 农奴地位, 农奴境遇
 6. sergeancy
+	1. n. 军士职衔
 7. sergeant
+	1. n. 警察小队长, 军士
+	2. 来自古法语 sergent,仆人，家仆，臣子，来自拉丁语 servire,服务，服侍，词源同 serve,-ant,人。后用于指军事衔级中士，警佐。词义演变比较 marshal,元帅，原指国王养马的仆人。
 8. serve
 	1. vt. 可作...用, 服务, 经历, 招待, 供应, 送交, 对待  
 	2. vi. 服务, 服役, 侍应, 适合, 有用, 开球  
 	3. n. 发球, 轮到发球
-	5. timeserving
-	6. timeserver
-	7. servitude
-	8. servile
+	4. 1.dessert（甜点）：收拾餐桌后再吃的食物  
+		1. 在西方，人们喜欢在餐后吃甜食或甜点心，表示甜食或甜点心的英语单词dessert的本意就是“收拾餐桌以后吃的”。dessert源自法语，原为法语动词desservir的过去分词形式，而desservir = des（等于英语否定前缀un）+servir（等于英语中的serve，上菜），字面意思就是“收拾桌子”。收拾完桌子后再吃的自然就是甜食了。  
+		2. dessert：[dɪ'zɜːt] n.餐后甜点，甜食  
+		3. serve： [sɝv] vt. 招待，供应；为…服务；对…有用；可作…用vi. 服役，服务；适合，足够；发球；招待，侍候n. 发球，轮到发球  
+		4. service： ['sɝvɪs] n. 服务，服侍；服役
+	5. 2.serf（农奴）：没有人身自由的农业生产者  
+		1. 农奴serf是封建社会中隶属于农奴主或封建主的农业生产劳动者，没有人身自由和任何政治权利，社会地位极为低下，受到封建主多方面的剥削和奴役。在封建制度下，少数封建领主或农奴主占有土地、山林、草原和河流等绝大部分生产资料，并部分占有农奴；农奴从农奴主手中分得一块份地，作为代价他们必须无偿耕种领主土地，服各种劳役，并上缴大部分劳动产品。  
+		2. 表示“农奴”的英语单词serf源自罗马人对奴隶的称呼――servus，单词serve（伺候）与它同源。  
+		3. serf： [sɜːf] n.农奴，奴隶  
+		4. serfdom：['sɝfdəm] n. 农奴境遇；农奴身份  
+		5. serve：[sɝv] v. 招待，供应；为…服务；服役，服务；侍候n. 发球，轮到发球  
+		6. service：['sɝvɪs] n. 服务，服侍；服役
+	6. timeserving
+	7. timeserver
+		1. _[timeserver](dic://timeserver)_  n. 趋炎附势者；骑墙主义者
+	8. servitude
+		1. _n._ [bondage](dic://bondage), [slavery](dic://slavery), [thrall](dic://thrall), [thralldom](dic://thralldom), [thraldom](dic://thraldom)
+		2. **slavery**奴役;**slave**奴隶;**bondage**奴役身份;**oppression**压迫手段;**emancipation**解放;**obedience**服从;**tyranny**暴政;**Slaves**斯拉夫人;**coercion**强迫;**imprisonment**关押,监禁;**abject**卑贱的;
+		3. _[penal servitude](dic://penal%20servitude)_  劳役拘禁
+		4. _[involuntary servitude](dic://involuntary%20servitude)_  [法] 强制劳役
+		5. _[mineral servitude](dic://mineral%20servitude)_  矿役权
+		6. I know about that kind of servitude. /我明白这种奴役压迫的感受。
+		7. Sheri saved these women from servitude. /雪莉不同 她救了这些姑娘。
+		8. Now, now it is illegal for fathers to sell their daughters into servitude. /现在，现在父亲再也不能合法把女儿卖给别人做奴隶了。
+		9. The first Africans who were brought here were destined for a life of servitude. /第一批被带到这里的非洲人注定要过上受奴役生活。
+		10. They were rarely enforced, because servitude was accepted as part of the natural order. He did not accept it /这些法律很少被强制执行，因为奴役被接受为自然秩序的一部分。阿涅维什没有接受它。
+		11. 'That man deserves penal servitude in my opinion, ' pursued John. /" 在我看来, 那个人应该受到惩罚, " 约翰继续说道。
+		12. " I hope they catch him, " said my uncle. " He ought to get penal servitude for life" . /" 我希望他们抓住他，" 我叔叔说。 " 他应当被判终身劳役。"
+		13. It's an indentured servitude program for mothers. /这是一个针对母亲的契约奴役计划。
+	9. servile
 		1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 		2. _adj._ [bootlicking](dic://bootlicking), [fawning](dic://fawning), [sycophantic](dic://sycophantic), [toadyish](dic://toadyish), [obsequious](dic://obsequious), [slavish](dic://slavish), [subservient](dic://subservient)
 		3. _n._ [unservile](dic://unservile), [unsubmissive](dic://unsubmissive), [free](dic://free)
 		4. **servitude**奴隶状态;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**slave**奴隶;**abject**卑贱的;**unworthy**不值得的;**bourgeois**资产阶级的;**wretched**可怜的;**servants**仆人;**tyrannical**暴君的,暴君似的;**lowly**地位低的;
 		5. _[servile self-abasement](dic://servile%20self-abasement)_ 卑躬屈节的自贬
 		6. 
-	9. service
+	10. service
 		1. unserviceable
 		2. Teleservices
 		3. servicing
@@ -887,13 +954,13 @@
 		9. in-service
 		10. ex-service
 		11. disservice
-	10. servant
+	11. servant
 		1. servant-maid
 		2. servant-girl
 		3. manservant
 		4. maidservant
 		5. eyeservant
-	11. self-serving
+	12. self-serving
 9. server
 10. servery
 11. serviete
@@ -904,6 +971,24 @@
 16. servomechanism
 17. servomotor
 18. subserve
+
+
+### sesqui-   = one and a half，表示“一倍半，一个半”，多用于化学术语中。源自拉丁语 semis "a half" + -que.
+1. sesquicentennial
+	1. n. 一百五十周年纪念  
+	2. a. 一百五十周年纪念的
+2. sesquipedalian [美 /ˌsɛskwɪpɪ'deljən/](cmd://Speak/_us_/sesquipedalian)
+	1. a. 一英尺半长的, (词)极长的  
+	2. n. 很长的词
+	3. sesqui-一点五 + pedal + -ian
+	4. _n._ [polysyllable](dic://polysyllable), [polysyllabic word](dic://polysyllabic%20word)
+	5. _adj._ [pretentious](dic://pretentious), [long](dic://long)
+	6. _n._ [unpretentious](dic://unpretentious), [short](dic://short)
+3. _[sesquipedalian weariful wearing](dic://sesquipedalian%20weariful%20wearing)_ 令人厌倦的
+4. _[polysyllabic sesquipedalian](dic://polysyllabic%20sesquipedalian)_ 多音节的
+5. And if things do change, we'll have you covered on how and why right here on CNN 10 and you know us, we're not going to be sesquipedalian about it. /如果事情真的发生了变化，我们会在CNN 10频道为诸位报道原因及经过，你知道我们的，我们向来言简意赅。
+6. Today's word, sesquipedalian, an adjective meaning characterized by long words or long-winded. /今天的单词是sesquipedalian，一个形容词，意思是以长词或冗长为特征的。
+
 
 
 ## sc
@@ -7242,7 +7327,7 @@
 	16. hemostat
 		1. hemostases
 	17. obstinate (abstinent, )
-		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+		1. (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 		2. ob-,相对，对着的，-stin,站，站立，词源同 stand,destiny.即对着站的，站在对面的，引申词义对手，顽固的。
 		3. _v._ [persevere](dic://persevere), [persist](dic://persist), [hang in](dic://hang in), [hang on](dic://hang on), [hold on](dic://hold on)
 		4. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)

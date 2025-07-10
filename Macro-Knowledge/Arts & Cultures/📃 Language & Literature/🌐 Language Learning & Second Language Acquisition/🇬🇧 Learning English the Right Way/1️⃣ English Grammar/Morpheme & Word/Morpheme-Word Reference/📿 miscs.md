@@ -7,60 +7,7 @@
 2023/11/12 ✅ (glimpse through)
 2023/11/20~22 ✅ (glimpse through)
 
-
-
-## phrases in other languages
- 1. bona fide
-	 1.  [authentic](dic://authentic), [unquestionable](dic://unquestionable), [veritable](dic://veritable)
-	 2. _adj._ [sincere](dic://sincere), [genuine](dic://genuine), [echt](dic://echt)
-	 3. _n._ [insincere](dic://insincere), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
-	 4. One of your classmates is a bona fide movie star. /你有位同学是货真价实的电影明星。
-
-
-1. Month
-	1. January
-		1. January（一月）：双面门神雅努斯  
-		2. 在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。  
-		3. 古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。英语中表示“看门人”的单词Janitor也是源自Janus。  
-		4. Janus：['dʒeinəs] n.雅努斯，两面神  
-		5. Janus-faced：伪善的，口是心非的，有双面孔的  
-		6. January：['dʒænjʊ(ə)rɪ] n.一月  
-		7. janitor：['dʒænɪtə] n.看门人，门警，门房，清洁工
-	2. February
-		1. February（二月）：古罗马的牧神节  
-		2. 在基督教传入罗马之前，每年2月13日至15日，古罗马人都要杀牲饮酒，欢庆牧神节（Lupercalia）。人们将这一天看作是一年的开始，因此，人们忏悔自己过去一年的罪过，洗刷自己的灵魂，求得神明的饶恕，使自己成为一个贞洁的人，同时也希望洗掉一切晦气和烦恼，在新的一年得到好运和好收成。这一天，人们还会象征性地用羊皮鞭抽打那些希望怀孕的妇女，以象征净化妇女的身体，使其更加容易受孕和生产。  
-		3. 除此以外，人们还将年轻女子们的名字被放置于盒子内，然后年轻男子上前抽取。抽中的一对男女成为情人，时间是一年或更长。该节日是情人节的前身，基督教成为罗马国教后，才被情人节代替。  
-		4. 由于人们在牧神节要进行净化仪式，所以该节又被称为Februalia（净化节，菲勃卢姆节），来自拉丁语februa（净化）。英语单词February（二月），便是由拉丁文Februarius（month of Februalia）演变而来。  
-		5. February - 古罗马每年举行宗教仪式祭祀畜牧神卢佩耳枯斯（Lupercus）以求人畜土地兴旺，这一节日叫做牧神节（Lupercalia）。仪式是在罗马七丘之一的帕拉蒂尼山（the Palatine）的卢佩耳卡尔洞（Lupercal）即牧神洞举行的。祭品规定为雌雄山羊各一只。献祭以后，祭司把祭牲的皮切成皮条，交与站在祭坛旁的两个青年，然后由他们手执皮条绕着巴勒登丘在城里跑上一圈，逢人便抽，已婚妇女很愿挨上一下，因为她们相信被抽打一下可治不育之症。这种皮条有个特殊名称，拉丁文叫februa，它含有“涤罪工具”（means of purification）之意，由此产生了Februārius（净月）一词。2月的英语名称February即源于此，这是因为该活动于2月举行的缘故。  
-		6. 另有一种传说，February得名于Februaria，这是天后朱诺（Juno）作为丰产女神被赋予的名称。February原先有29天，罗马元老院从该月抽了1天加到以罗马皇帝Augustus Caesar命名的August（八月），使其和以Julius Caesar（凯撒大帝）命名的July（七月）的天数相同。
-		7. February： ['fɛbrʊ'ɛri] n.二月
-	3. March
-	4. April
-	5. May
-	6. June
-	7. July
-	8. August
-	9. September
-	10. October
-	11. November
-	12. December
-2. Week
-	1. Monday
-	2. Tuesday
-	3. Wednesday
-	4. Thursday
-	5. Fridy
-	6. Saturday
-	7. Sunday
-3. Solar System
-	1. Mercury
-	2. Venus
-	3. Earth
-	4. Mars
-	5. Jupiter
-	6. Saturn
-	7. Uranus
-	8. Neptune
+2025/07/09 1665292 words in total of A-Z, including this misc note. (that's soo many???!!!)
 
 
 
@@ -4968,6 +4915,9 @@ flummox
 - She can flummox anybody by the lip. /她能把任何人数落得狼狈不堪。
 - She was flummoxed by the question. /问题弄得她不知所措。
 
+fodder
+- pa-
+
 fold
 - n. 折层, 折, 羊栏, 折痕, 信徒  
 - vt. 折叠, 包, 合拢, 交迭  
@@ -5131,22 +5081,11 @@ fond
 	- _n._ [candy](dic://candy), [confect](dic://confect)
 	- **buttercream**奶油;**frosting**霜状白糖;**ganache**甘那许;**icing**结冰;**cake**蛋糕;**cakes**蛋糕;**cupcakes**纸杯蛋糕;**cupcake**纸托蛋糕;**meringue**调合蛋白;**pastry**油酥点心;**tulle**薄纱;
 
+food
+- pa-
+
 forage (scrounge; foray, forage)
-- 来自 Proto-Germanic*fodram,食物，觅食，词源同 food,fodder.
-- [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
-- **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
-- **meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
-- [feed](dic://feed), [provender](dic://provender), [search](dic://search), [hunt](dic://hunt), [hunting](dic://hunting)
-- _forage grass_ 饲草
-- _forage for_ v. 搜查
-- _forage plant_ 饲用植物；饲料植物
-- _forage crop_ 饲料作物
-- It was perfect weather, the bees were out foraging, everything was wonderful. /气很好，蜜蜂外出觅食，一切都很美好。
-- forager
-	- n. 粮秣征收员, 抢劫者
-	- forage【饲料】 + -er, 表人，是单词forage 派生的动作执行者（施动）名词。
-	- _n._ [hunter](dic://hunter)
-	- **hunter**猎人;**farmer**农夫，农民;**naturalist**博物学家;**gardener**花匠;**anthropologist**人类学家;**subsistence**存活, 生存, 维生之道;**foodie**美食家;**chef**厨师，大师傅;**predator**食肉动物;**eater**食者;**botanist**植物学家
+- pa-
 
 foray (scrounge; foray, forage)
 - n. 涉足，初次尝试；突袭；侵略；攻击 
@@ -6633,6 +6572,7 @@ gut
 - gutty
 - guts
 	- gutsy
+		- - adj. 勇敢的；贪婪的；有种的；胆大的
 		- _n._ [gutless](dic://gutless)
 		- **courageous**勇敢的;**feisty**活跃的;**brave**勇敢的;**fearless**无畏的;**daring**大胆的，勇敢的;**brash**仓促的，性急的;**audacious**大胆的, 有冒险精神的;**spirited**生机勃勃的;**bold**大胆的，英勇的;**tenacious**抓紧的;**sassy**无礼的;
 - gutless
@@ -10392,6 +10332,35 @@ mettle
 - mettlesome
 - mettled
 
+mill
+- _n._ [plant](dic://plant), [works](dic://works), [industrial plant](dic://industrial%20plant), [philosopher](dic://philosopher), [economist](dic://economist), [economic expert](dic://economic%20expert), [machinery](dic://machinery)
+- _v._ [move](dic://move), [grind](dic://grind), [mash](dic://mash), [crunch](dic://crunch), [bray](dic://bray), [comminute](dic://comminute), [groove](dic://groove)
+- **quarry**采石场;**windmill**风车;**grinder**研磨者;**lathe**用车床加工;**lumber**伐木;**factory**工厂;**plantation**种植园, 大农场;**distillery**蒸馏间,酿酒厂;**foundry**铸造，铸造类;**farm**种田，务农;**textile**纺织品，织物;
+- _rolling mill_ 轧钢厂；辊轧机
+- _ball mill_ 球磨；[机]球磨机
+- _paper mill_ n. 造纸厂
+- _strip mill_ 带钢轧机；带材轧机；钢带轧机；板条辊轧机
+- _cold rolling mill_ 冷轧机
+- _plate mill_ 制板厂；轧板机
+- _steel mill_ 轧钢厂，钢厂
+- _hot strip mill_ 扁钢热轧机；带钢热轧机
+- _in the mill_ 在制造中；在准备中
+- _roller mill_ n. 滚筒辗粉机；滚压机
+- _rod mill_ 棒磨；棒磨机
+- _finishing mill_ 精轧机；精制机
+- _hot rolling mill_ 热轧机
+- _end mill_ 端铣刀；立端刀
+- _grinding mill_ 研磨机，磨碎机；辊轧机；破碎机
+- _tube mill_ 管磨机；制管厂
+- _textile mill_ 纺织厂
+- _tandem mill_ 连轧机；串列式轧机
+- _through the mill_ [口语] 经受磨炼；饱尝辛酸；通过严格的训练
+- _flour mill_ 磨粉机；制粉机
+- The mills of God grind slowly, but they grind exceeding small, he said, somewhat impressively. /“上帝的磨盘转动很慢，但是却磨得很细，”罗伯特说，颇有些道貌岸然的样子。
+- An immense chimney, relic of a disused mill, reared up, shadowy and ominous. /一根巨大的烟囱，那是一个废弃的磨坊留下的遗物，高高地耸立着，阴森森的，透着不祥。
+- And they said that their father or their mother had worked in the steel mill. /他们说自己的父母亲也曾在钢铁厂工作。
+- The times goes and this scrubber mill a lot faster. /随着时间推移，研磨会快得多。
+
 millet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 -  来自拉丁语 milium,黍类，粟，词源同 mill,mallet.
 - n. 稷, 粟, 黍
@@ -10445,6 +10414,30 @@ mock
 - bemock
 	- _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by)
 	- _[bemock chiack fleer fling](dic://bemock%20chiack%20fleer%20fling)_ 讥笑
+
+molar
+- a. 磨碎的, 臼齿的, 摩尔的, 克分子的  n. 臼齿, 磨牙
+-  来自拉丁语 molaris dens,磨牙，来自 molaris,磨，词源同 mill,dens,牙齿，词源同 tooth.
+-  [grinder](dic://grinder)
+- _n._ [tooth](dic://tooth)
+- _adj._ [gram molecule](dic://gram%20molecule), [mole](dic://mole), [mol](dic://mol), [grinder](dic://grinder)
+- **tooth**牙齿;**teeth**牙齿;**monomer**单体;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**femur**股骨;**mole**痣;**alveolar**肺泡的;**mol**摩尔;**cyst**胞,包囊,膀胱;
+- _molar ratio_ n. 摩尔比率，摩尔浓度；克分子比，克分子比率
+- _molar mass_ 摩尔质量
+- _molar fraction_ n. 克分子分数；摩尔分数
+- _molar volume_ 摩尔体积，克分子体积
+- _molar concentration_ 体积摩尔浓度
+- _molar heat_ 分子热
+- _molar absorptivity_ 摩尔吸光系数；摩尔吸收率
+- _molar tooth_ 臼齿
+- retromolar
+- premolar
+- osmolarity
+- osmolar
+- molarity
+- molariform
+- mesiomolar
+- equimolar
 
 monger
 - 1 - 来自拉丁语 mango,交易商，贸易商，商人，词源同 warmonger,whore-monger.来自 PIE*mang,装饰，打扮，清洗，整理，可能来自 PIE*ma,水气，湿气，流出，词源同 emanate,marine.
@@ -13417,6 +13410,7 @@ ruin
 	- Overwork is the ruination of his health. /过度劳累搞垮了他的身体。
 
 rumpus
+-  词源不详，杜撰词。
 -  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [tumult](dic://tumult)
 - **playroom**娱乐室;**upstairs**在楼上，向楼上;**downstairs**楼下的;**den**兽穴，窝巢;**lounge**休息室;**bedroom**卧室;**uproar**骚动;**basement**地下室;**verandah**走廊;**commotion**暴乱;**foyer**门厅，休息室;
 - _[raise a rumpus](dic://raise%20a%20rumpus)_ 引起骚乱; 闹翻天; 
@@ -16290,6 +16284,7 @@ stout
 - stoutish
 	- Apparently no one replaced him, for she never married, but grew stoutish, grayish, philanthropic — yet how sweet she had been when he had first kissed her!
 - stouthearted
+	- - adj. 大胆的；刚毅的
 	- **valiant**英勇的，勇敢的;**intrepid**无畏的;**courageous**勇敢的;**fearless**无畏的;**brave**勇敢的;**daring**大胆的，勇敢的;**steadfast**坚定的;**stalwart**坚定的;**resourceful**资源丰富的;**tenacious**抓紧的;**heroic**英勇的;
 	- [brave](dic://brave), [courageous](dic://courageous)
 	- [cowardly](dic://cowardly), [fearful](dic://fearful)
@@ -16498,6 +16493,7 @@ stub
 	- Your fingers are so stubby, like baby carrots. /你的手指又短又粗 像小胡萝卜。
 	- A boxer is medium size. She's got short hair and a very short stubby nose. And no tail. /中等大小，短毛，塌瘪的鼻子，而且还没有尾巴。
 - stubborn
+	- (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 	-  [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 	- [refractory](dic://refractory)
 	- _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
@@ -16788,56 +16784,7 @@ tank
 - antitank
 
 tar
-- [pitch](dic://pitch)
-- [mariner](dic://mariner), [seaman](dic://seaman), [Jack-tar](dic://Jack-tar), [Jack](dic://Jack), [old salt](dic://old salt), [seafarer](dic://seafarer), [gob](dic://gob), [sea dog](dic://sea dog)
-- _n._ [bitumen](dic://bitumen), [sailor](dic://sailor), [crewman](dic://crewman)
-- _v._ [coat](dic://coat), [surface](dic://surface)
-- **sands**沙漠;**coal**煤;**soot**煤烟，烟灰;**pine**松树;**sand**沙;**mud**泥;**tobacco**烟草，烟叶;**lint**软麻布;**gravel**砂砾;**asphalt**沥青;**cedar**雪松;
-- _coal tar_ n. [化]煤焦油
-- _tar pitch_ 焦油沥青
-- _coal tar pitch_ 沥青；煤焦油沥青；硬煤沥青
-- _coke tar_ 焦油
-- _pine tar_ 松焦油
-- _coal tar enamel_ 煤焦油磁漆
-- tarred
-	- _tarred paper_  
-	- 油毡纸；柏油纸；焦油纸；沥青纸
-- tarry
-	- [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
-	- **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
-	- [pitchy](dic://pitchy), [resinous](dic://resinous), [resiny](dic://resiny)
-	- _v._ [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
-	- _adj._ [adhesive](dic://adhesive)
-	- _n._ [nonadhesive](dic://nonadhesive)
-	- **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
-	- _[tarry material](dic://tarry%20material)_  煤焦油材料
-	- _[tarry stool](dic://tarry%20stool)_  柏油样粪
-	- _[tarry stools](dic://tarry%20stools)_  柏油样粪; 煤焦油样粪;
-	- tarry stones from the garage roof. /车库顶上涂了柏油的石头
-	- she could tarry a bit and not get home until four. /她可以再逗留一会直到四点再回家。
-- tarpaulin
-	- _n._ [canvas](dic://canvas), [canvas fabric](dic://canvas fabric), [canvass](dic://canvass), [canvass fabric](dic://canvass fabric)
-	- **tarp**油布;**awning**雨篷;**tent**帐篷;**tents**旅游帐篷;**plywood**夹板，胶合板;**cardboard**硬纸板;**corrugated**起皱褶的;**cloth**布，织物;**scaffolding**脚手架;**makeshift**权宜之计, 临时代用的物品;**canvas**帆布;
-	- _[tarpaulin](dic://tarpaulin)_  n. 柏油帆布；防水帽；防水衣；涂焦油防水布
-	- _[tarpaulin paper](dic://tarpaulin%20paper)_  防潮纸；防水油纸
-- tarmacadam
-- tarmac
-	- **pavement**人行道;**asphalt**沥青;**airfield**飞机场;**airport**机场;**gravel**砂砾;**runway**跑道;**runways**河床;**roads**锚地;**road**道路;**hangar**飞机库;**plane**平面;
-	- [paving material](dic://paving material), [paved surface](dic://paved surface)
-	- [tarmacadam](dic://tarmacadam), [macadam](dic://macadam)
-	- [macadamize](dic://macadamize), [macadamise](dic://macadamise)
-- tarbrush
-	- n. 柏油刷；黑人血统，印第安人血统
-- tar-paved
-- tar-board
-	- _n._ 柏油纸板
-- jack-tar
-	- _[back bar](dic://back%20bar)_  后杆; 酒吧工作站之后面区域; 醉爱音乐清吧; 后栅栏; 
-	- _[rack bar](dic://rack%20bar)_  [机] 齿条；齿杆
-	- _[Jack Tar](dic://Jack%20Tar)_  水手; 水兵;
-- gas-tar
-	- - 煤气焦油，瓦斯焦油
-- detarring
+- deru-
 
 tart
 - a. 酸的; 刻薄的 v. 把…弄得花里胡哨; 妖艳打扮 n. 甜心馅饼; 放荡的女人
@@ -17447,6 +17394,9 @@ trebuchet (ballista)
 - A trebuchet consists of a long beam attached to a pivot rod on a heavy frame. /抛石机是由一个带转轴的长梁连接在底座上构成的。
 - And work double-time on those siege towers and trebuchets /加快搭建攻城塔和投石机的速度。
 
+tree
+- deru-
+
 triage
 - n. 分类；伤员验伤分类
 - triage这个单词的字面意是“action of assorting according to quality”。比如在一场战争或者自然灾刚发生后，因为医疗物资有限，救援人员会根据伤员的不同情况分为三种：1.已经死亡的，无需救治，2.重伤需急救的，3.伤不重，拖延一会儿不会致命的。
@@ -17472,6 +17422,9 @@ trifle
 	- _n._ [valuable](dic://valuable)
 	- **insignificant**无价值的, 无意义的, 无用的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**trivial**不重要的，琐碎的;**unimportant**不重要的;**petty**小规模的;**mere**仅仅的;**paltry**不足取的;**scarcely**简直没有;**minuscule**小写字;**frivolous**不重要的,不必要的;**superfluous**过多的;
 - trifler
+
+trim
+- deru
 
 tripe
 - n. 牛肚, 猪肚; 废话
@@ -17559,20 +17512,7 @@ troth
 	- **marriage**结婚;**marry**娶;**bride**新娘;**courtship**求爱;**marrying**证婚;**wed**结婚;**coronation**加冕礼;**wedding**结婚;**vows**婚誓;**prince**王子，国君;**consecration**奉献;
 
 trough
-- [gutter](dic://gutter)
-- [bowl](dic://bowl)
-- [public treasury](dic://public treasury), [till](dic://till)
-- [manger](dic://manger)
-- _n._ [natural depression](dic://natural depression), [depression](dic://depression), [channel](dic://channel), [concave shape](dic://concave shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature)
-- **ridge**山脉;**through**穿过;**feed**喂养;**feeding**饲养;**fed**饲养;
-- _water trough_ 水槽；饮水槽
-- _wave trough_ 波谷
-- As the wave bore down on us, the trough deepened. /当波涛向我们压来时, 波谷加深了。
-- An eave trough used to convey rainwater from the roof to the downspout. /用于传输屋顶的雨水到落水管檐沟。
-- The last Nankai Trough quake was off Shikoku in 1946. /上一次的南开海槽地震发生在1946年的四国岛附近。
-- The lamp still stood upon the floor where I had placed it when examining the trough. /灯还在地板上，是我检查铁槽时放在那里的。
-- The proportion of working-age people with jobs is lower than in the **trough** of the recession. /适龄劳动人口的就业比例还是低于经济衰退低谷时的比例。
-- The business cycle is a series of peaks and troughs. /商业周期是一系列的高峰期和低谷期。
+- deru-
 
 troupe
 - n. 团, 班, 一伙  vi. 巡回演出

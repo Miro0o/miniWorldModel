@@ -15,8 +15,13 @@
 ↗ [reveal.js](../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
 
 
+### Other Resources
+https://mathpix.com/
+
+
 
 ## Intro
+
 
 
 ## Ref

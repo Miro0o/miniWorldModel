@@ -12,7 +12,10 @@
 
 
 
-## Synonym
+## Synonym (deprecated)
+> ❌ This section is deprecated.
+> look up morpheme-word reference directly
+
 [college](dic://college) 多指大学内的学院，分科学院或科目较少的高等学校。  
 [university](dic://university) 主要指综合大学，一般由多个学院组成。当泛指大学时通常用college表示。  
 [institute](dic://institute) 指设立有专门学科的学院，如外语学院、地质学院、建筑学院等。  
@@ -243,6 +246,9 @@ menial
 
 
 ## Association Words
+> ❌ This section is deprecated.
+> look up morpheme-word reference directly
+
 burlesque
 [parody](dic://parody), [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
 **parody**拙劣的模仿;**satire**讽刺;**satirical**含讽刺意味的, 嘲讽的;**spoof**①滑稽的模仿;**caricature**漫画;**mocking**嘲弄的;**mockery**嘲弄;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**ridicule**嘲笑;**irreverent**不敬的;**mock**嘲弄;
@@ -540,4 +546,343 @@ sore throat, stuffy nose, sneeze, cough, inflammation, diarrhea, headache, subbu
 
 
 
+## English borrowed from other languages
+### Latin
+> https://en.wikipedia.org/wiki/List_of_Latin_phrases
+> This is a list of Wikipedia articles of Latin phrases and their translation into English.
+> To view all phrases on a single, lengthy document, see: [List of Latin phrases (full)](https://en.wikipedia.org/wiki/List_of_Latin_phrases_\(full\) "List of Latin phrases (full)").
+
+> https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E8%AA%9E%E7%9F%AD%E8%AA%9E%E5%88%97%E8%A1%A8
+> list of latin phrases (short version)
+
+
+**AD** **公元**
+- anno Domini 的缩写，字面义为 in the year of the Lord “在主的纪元”
+- Rome annexed the Nabatean kingdom in AD 106. /罗马帝国于**公元**106年并吞了纳巴泰王国。
+- The cathedral was destroyed by the Great Fire of 1136 AD. /这座大教堂被**公元**1136年的大火烧毁了。
+BC, BCE
+- Now you'll often see BCE (Before the Common Era) and CE (Common Era). /现在大家经常能看到BCE(公元前)和CE(公元前)。
+- He was born in the year 551 B.C. /他出生于公元前551年。
+
+**AM** **上午**
+- ante meridiem 的缩写，字面义为 before noon “午前”
+**PM** **下午**
+post meridiem 的缩写，字面义为 after noon “午后”
+
+**ca.** **大约（多指年代）**
+circa 的缩写，亦可写作 c.，字面义为 around “在附近；在四周”
+- prep. 大约，左右（主要用于日期前）
+- adv. 大约
+- The term circadian comes from the Latin phrase circa diem, which translates to around a day. /昼夜节律一词来源于拉丁语短语 circa diem，意思是大约一天。
+- Hatshepsut was born circa 1508 BC. /哈特谢普苏特生于约公元前1508年。
+- It had a sign that read circa 1791 on it -- the year that people thought it was planted. /树上悬挂着“大约1791年前后”的标志——人们认为这是种树的时间。
+
+**CV** **履历**
+curriculum vitae 的缩写，字面义为 course of life “人生的历程”
+
+**e.g.** **例如**
+exempli gratia 的缩写，字面义为 for (the sake of) example “为了例子（的缘故）”
+
+**etc.** **等等**
+et cetera 的缩写，字面义为 and the rest “以及其他的”
+
+**i.e.** **亦即**
+id est 的缩写，字面义为 that is “也就是”
+
+lb. 磅（重量单位，复数为lbs.）
+libra 的缩写，字面义为 pound “磅”
+
+**vs.** **对（用于比赛或诉讼）**
+versus 的缩写，字面义为 “转而面对”
+
+---
+ad hoc  (post hoc)
+- The meetings will be held on an ad hoc basis.  /会议将按需要随时召开。
+- This is an ad hoc committee specially established to deal with a particular subject. /这是一家专门成立的处理某一问题的特别委员会。
+- Most of the new joiners were already observers on an ad hoc basis /大部分新加入的永久观察员国或组织在加入前从某种意义上讲已经是观察员了。
+- Rome grew in an ad hoc way. /罗马城是随意发展起来的。
+- The investigation necessitated ad hoc arrangements. /调查需要 临时安排
+
+**alma mater** **母校**
+字面义为 nourishing mother “哺育的母亲”
+- Hey, it's Jackson, having fun at the old alma mater.是杰克逊，在母校过得很开心。
+- And what about my university? My alma mater, Leeds University. Zero. /那我的大学呢？我的母校利兹大学。一个都没有。
+- The portrait of her that once hung at her alma mater Oxford University was mothballed. /她那曾挂在母校牛津大学的肖像也被封存。
+- When we use alma mater it means school, college, or university you once attended. /我们用alma mater时，其含义就是你曾经上过的学校、院校或者大学。
+
+**a priori** **演绎的**
+字面义为 from (what is) before “由前面得来”，指的是由原则推导到个案的一种逻辑推理
+- 1. adj. 由因及果的；由一般到具体的；演绎的；推理的
+2. adv. 推理地；演绎地
+- Kant's claim, then, is that knowledge consists of synthetic a priori judgments. /康德的主张是，知识由综合先验判断构成。
+- The phrase 'a priori' is less objectionable, and is more usual in modern writers /“先验” 这个词不那么令人反感， 在现代作家中更常见。
+- You would not think it, to look at them. There is no a priori probability about it. A strange enigma is man! /只看他们的外表，你是想不到的。这并不是先天的，人生就是一个谜。
+- Thus the scope and power of a priori principles is strictly limited. /因此， 先验原则的范围和权力受到严格限制。
+- 
+
+**bona fide** **真正的；诚实的**
+字面义为 in good faith “信用良好”
+bona fide
+- 1. adj. 真诚的；善意的；真实的
+- adv. 真实地；真诚地；善意地
+- [authentic](dic://authentic), [unquestionable](dic://unquestionable), [veritable](dic://veritable)
+- _adj._ [sincere](dic://sincere), [genuine](dic://genuine), [echt](dic://echt)
+- _n._ [insincere](dic://insincere), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+- One of your classmates is a bona fide movie star. /你有位同学是货真价实的电影明星。
+- The hotel car park is only for bona fide guests./旅馆停车场是本旅馆的客人专用的。
+- To bona fide third party apart from alienee,the status of shareholders shoul... /实质意义上的股东、公司及恶意受让人都不能以没有工商登记为由否认其实际的股东身份。
+- There are few bona fide readers but many dippers. /真诚精读的人很少, 但粗读者却很多。
+
+**carpe diem** **活在当下；及时行乐**
+字面义为 seize the day “抓住这一天”
+
+**cum laude** **以第三名的成绩（毕业）**
+字面义为 with praise “得到赞美”。
+**magna cum laude** **以第二名的成绩**（字面义为 with great praise “得到很大的赞美”）
+**summa cum laude** **以第一名的成绩**（字面义为 with highest praise “得到最高的赞美”）
+- Uh, you're summa cum laude in theoretical physics from Stanford University.
+- The highest degree you can receive from a university would be summa cum laude.
+
+ceteris paribus [美 /ˌked(ə)rəs ˈpɛrəbəs/](cmd://Speak/_us_/ceteris%20paribus)
+- _n._ 〈拉〉(如)其他条件[情况]均同;别无其他情形
+- I'll just do it once in a while and my life will just be exactly the same ceteris paribus right outside of that
+- We will see things like the production possibility frontier where it assumes that you're only trading off between two things and everything else is equal, this notion of ceteris, ceteris paribus which means all things equal. /我们将看到像生产可能性前沿这样的东西，它假设你只是在两件事之间进行权衡，其他一切都是平等的，这个 ceteris 的概念，ceteris paribus，意思是所有事物都相等。
+
+**corpus delicti** **犯罪事证**
+字面义为 body of crime “犯罪的本体”
+
+**de facto** **事实上的**
+字面义为 from the fact “由事实看来”
+
+**de jure** **法理上的**
+字面义为 from law “由法律看来”
+
+et alia
+- - 和其他人：拉丁语短语，用于列举人名或事物时表示“和其他人”或“等等”。
+- _[et alia](dic://et%20alia)_  等等
+
+ex parte
+- - 只有一方参与的法律诉讼或决策，或者从一方面或偏见的角度来看待问题
+- That has to do with the admissibility of ex parte examinations?和单方面审查的可接受性有关？
+- It's called ex parte communication, and it voids any deal you made! /这叫做单方面交流，你签署的任何协议都是无效的！
+
+**ex officio** **出于职权的；当然的**
+字面义为 out of office “来自职位”
+
+**habeas corpus** **人身保护令**
+字面义为 you must have the body “（在法庭上）你必须要有（人的）身体”
+
+id est, i.e.
+- This article mainly presents the three sericultural poems by poet Bat Juyi in the Tang Dynasty, i. e.Red-Yarn Blanket, Dazzling Ghatpot and Exorbitant Taxes. /文章主要对唐代诗人白居易的三首蚕桑诗──《红线毯》、《缭绫》、《重赋》作了介绍。
+
+idem
+- 1. pron. 同上，同前
+2. adj. 同上的，同前的
+3. _[idem sonans](dic://idem%20sonans)_  同音姓名
+4. _[ad idem](dic://ad%20idem)_  意见相同
+5. per diem
+
+**in flagrante delicto** **就在作案时；现行犯；捉奸在床**
+字面义为 in blazing crime “犯罪之火正熊熊燃烧时”，原短语亦可简称为 in flagrante 或 flagrante delicto，“捉奸在床”的意思更为常用
+- Check me out on " The Uncoupled" where I'm in flagrante delicto and also sign up for Wondercade, my weekly newsletter.
+
+**inter alia** **除了其他****……****以外**
+字面义为 among others “在其他事物当中”
+
+magnum opus
+- She considered the novel her " magnum opus." /她认为这部小说是她的“巨著” 。
+- And his magnum opus was this: the Game Boy. /他的代表作是：Game Boy。
+- Ayn Rand considered her fourth novel, Atlas Shrugged, to be her magnum opus /艾恩·兰德 (Ayn Rand) 认为她的第四部小说《阿特拉斯耸耸肩》(Atlas Shrugged) 是她的代表作。
+- Te wei after his long awaited returned produced his magnum opus, The Feeling from Mountain and Water. /久违归来的特维创作了他的巨著《山水情》。
+
+**modus operandi** **作法；行事风格**
+字面义为 way of operating “操作的方法”
+
+ne plus ultra
+- - 极致；无与伦比：表示某事物达到了最高水平，无法再有所提高。
+- Common arithmetic, and a little surveying, were the **ne** **plus** **ultra** of mathematical acquirements /数学方面，基本的算术和一点点测量学就足够了。
+- The youthful duo's austere clothes have also become the **ne** **plus** **ultra** for tasteful, urbane women of all vintages. /这对年轻设计师二人组设计的风格简朴的服装也成为各年龄段品位不俗的都市女性的挚爱。
+- omehow, we’ve managed to get by without help from Jack Bauer, the **ne** **plus** **ultra** of counterterrorism on Fox’s long-running “24. /不知什么缘故，纽约人都不希望让杰克·鲍尔来帮助我们保护纽约。 现在让我们来说说这部以反恐为题材的杰出作品，福克斯电视台最夯美剧-----“24小时。”
+
+**non compos mentis** **心神丧失**
+字面义为 not of sound mind “心智不健全”
+
+**non sequitur** **毫无逻辑关系的陈述**
+字面义为 it does not follow “推论无法得出”
+
+per se
+-  There's nothing in biology per se that rules out cell division. /从生物学本身来讲没有事物会阻止细胞分裂。
+- Immersion per se does not work. /沉浸在环境中本身并不会奏效。
+- Don't get me wrong...I'm not against environmental issues per se.... it's just that guy! /别误会我的意思，我个人并不反对环保，只是我讨厌那家伙。
+
+persona grata
+- 受欢迎的外交官；讨人喜欢的人
+persona non grata
+- The government has declared the French ambassador **persona** non **grata** and ordered him to leave the country /该政府已经宣布法国大使为不受欢迎的人，勒令其离境。
+- I felt I was **persona** non **grata**. /我觉得我是个不受欢迎的人。
+
+post hoc 
+- The logic is post hoc ergo propter hoc. /这个逻辑完全是个谬误。
+- So this is a clear example of a post hoc construction. /所以这是事后构建的一个明显例子。
+- The government manufactured several other kind of post hoc pretextual charges. /政府还编造了其他几种事后追加的借口式指控。
+- The brain then generates a plausible rationale post hoc for why a movement was made or a thought conjured /然后，大脑会事后产生一个合理的理由来解释为什么会发生某个动作或产生某个想法。
+- FOMO was additionally related to sleep difficulties, and post hoc analyses suggested this might have been due to social media use before going to bed. /FOMO 还与睡眠困难有关， 事后分析表明这可能是由于睡前使用社交媒体造成的。
+- In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here tend to focus on post hoc detection of broadcast information. /为了支持这一点，人们可以考虑美国监管结构的性质：这里的监管机构往往专注于广播信息的事后检测
+
+**per se** **本身；本质上**
+字面义为 by itself “自己本身”
+
+**per capita** **每人的**
+字面义为 by heads “算人头”
+
+post mortem
+- The trouble with DNA is that it breaks down post mortem. The more brokendown it is, the harder it is to sequence. DNA的问题在于死后会分解。越分解就越难排序。
+post partum
+- - 产后：指妇女分娩后的一段时间，通常为6周。
+
+**pro bono** **（法律服务）免费的**
+缩略自 pro bono publico，字面义为 for the public good “为了公众利益”
+
+[prima facie](https://zh.wikipedia.org/wiki/Prima_facie) [美 /ˌpraɪmə 'feɪʃi/](cmd://Speak/_us_/prima%20facie)
+  - - 乍看之下：在第一眼或初次看到时的印象或观点。
+- _[a prima facie case](dic://a%20prima%20facie%20case)_  成立的案件；初步案件
+- _[prima facie causality](dic://prima%20facie%20causality)_  因果性
+- _[strong prima facie case](dic://strong%20prima%20facie%20case)_  违法行为基本证据确凿
+- _[Prima facie duties](dic://Prima%20facie%20duties)_  义务；初步责任；表面责任
+- _[prima facie case of damage](dic://prima%20facie%20case%20of%20damage)_  初步推定有损害英语
+- _[prima facie evidance](dic://prima%20facie%20evidance)_  初步证据
+- _[sufficient prima facie grounds](dic://sufficient%20prima%20facie%20grounds)_  充分的表面理由
+- _[shall be prima facie evidence](dic://shall%20be%20prima%20facie%20evidence)_  必须为表面证据
+- _[prima facie](dic://prima%20facie)_  adj. （拉）初步印象；乍看的
+- _[prima facie case](dic://prima%20facie%20case)_  n. 表面上证据确凿的案件
+- _[prima facie evidence](dic://prima%20facie%20evidence)_  初步的证据
+- A capoas, interrogatories and prima facie would most likely be discussed in what setting? /
+- The prima facie even more importantly the judge did not granted Apple to permanent injunction they sought against the sale of Samsung phones. 
+- Your Honor, clearly, there's no prima facie case here. 
+- But that doesn't sound, prima facie, bonkers to me. 
+- And if you even could make out a prima facie case of negligence, you don't have diversity jurisdiction to get this into federal court. /而且， 即使您甚至可以找出初步证据确凿的过失案件，您也没有多元化管辖权将其提交联邦法院。
+
+**pro forma** **形式上的**
+字面义为 for (the sake of) form “为了形式（的缘故）”
+  
+**quid pro quo** **交换物；作为交换**
+字面义为 something for something “一物换一物”
+
+quod erat demonstrandum Q.E.D
+- 证毕
+
+sine die
+- - 无限期地：指没有安排将来的日期来做某事。
+- _[adjourn sine die](dic://adjourn%20sine%20die)_  [法] 无限期休庭
+- The assembly adjourned **sine** **die**.
+- The meeting will adjourn **sine** **die**. /这个会议将会无限期休会。
+
+sine qua non
+- Many people believe that grammar is the sine qua non of language learning /许多人认为学习语法在学习语言中是必不可少的。
+- This seapower approach to the world became the sine qua non of early American foreign policy /这种对世界的海权方针成为早期美国外交政策的必要条件。
+- It found favour, and in particular it accelerated the completion of a genome-sequencing project for the animals-a sine qua non for any self-respecting model organism. /这一想法得到了青睐，尤其是会加速动物基因组测序项目的完成，这是任何靠谱的模式生物的必要条件。
+
+status quo
+- He challenged the status quo and called for action. 他向当时的现状发起挑战，号召人们行动起来。
+- They could cement the status quo of peer-reviewed research. /他们可能会使同行评审研究的现状凝固不前。
+- That means the status quo puts all Americans at risk. /这意味着现状将所有美国人置于危险之中。
+
+**subpoena** **传票**
+字面义为 under penalty “会受到处罚”
+
+sui generis [美 /ˌsuːi 'dʒenərɪs/](cmd://Speak/_us_/sui%20generis)
+- Your father has a reputation of being, uh, sui generis. /坊间都认为令尊独一无二。
+- Right off, I detected an odor permeating the compartment that was sui generis.Captain Nemo noticed the negative impression it made on me /我一进去，由于满屋子有一种说不出是什么的气味，感到不习惯。
+- If anything, Mr Son is sui generis, a cultural, financial and entrepreneurial black swan. /如果有什么不同的话，那就是孙正义是一个独一无二的人物，他是文化、金融和创业领域的一只黑天鹅。
+
+tempus fugit  / _ˈtɛmpəs ˈfjuːdʒɪt, -ɡɪt_ /
+- - 时间飞逝：指时间过得很快，不知不觉中时间已经过去了。
+- _[tempus fugit time flies](dic://tempus%20fugit%20time%20flies)_  光阴似箭
+- _[tempus fugit amor manet](dic://tempus%20fugit%20amor%20manet)_  时光流逝
+- _[tempus fugit detail](dic://tempus%20fugit%20detail)_  光阴似箭
+- _[T tempus fugit](dic://T%20tempus%20fugit)_  英国蓝调摇滚
+
+ultra vires [美 /ˌʌltrə 'vaɪriːz/](cmd://Speak/_us_/ultra%20vires)
+- [律]超越权限（源自于拉丁语）
+- - 超出法定权力或职权范围：指某个人或机构行使的权力超出了其法定的职权范围。
+- The Chinese party is not permitted to break the whole project into parts or examine and approve **ultra** **vires** /中方不得将一个整体项目化整为零，越权审批
+- Hence, English company law has made the doctrine of **ultra** **vires** otiose by means of an express general clause /因此，英国公司法通过一个明示的一般性条款使得越权原则归于无用。
+
+**vice versa** **反之亦然**
+字面义为 position turned “位置翻转”
+
+videlicet [美 /vɪˈdɛlɪˌsɛt/](cmd://Speak/_us_/videlicet)
+- viz.
+- _adv._ 就是说,换言之
+
+**viva voce** **口头的；《英》口试**
+字面义为 with the living voice “用活生生的声音”，或简称为 viva
+
+**vox pop** **路边民调**
+缩略自 vox populi，字面义为voice of the people “人民的声音”
+
+
+### Germany
+
+
+### French
+
+
+### Spanish
+
+
+
+## Others
+1. Month
+	1. January
+		1. January（一月）：双面门神雅努斯  
+		2. 在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。  
+		3. 古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。英语中表示“看门人”的单词Janitor也是源自Janus。  
+		4. Janus：['dʒeinəs] n.雅努斯，两面神  
+		5. Janus-faced：伪善的，口是心非的，有双面孔的  
+		6. January：['dʒænjʊ(ə)rɪ] n.一月  
+		7. janitor：['dʒænɪtə] n.看门人，门警，门房，清洁工
+	2. February
+		1. February（二月）：古罗马的牧神节  
+		2. 在基督教传入罗马之前，每年2月13日至15日，古罗马人都要杀牲饮酒，欢庆牧神节（Lupercalia）。人们将这一天看作是一年的开始，因此，人们忏悔自己过去一年的罪过，洗刷自己的灵魂，求得神明的饶恕，使自己成为一个贞洁的人，同时也希望洗掉一切晦气和烦恼，在新的一年得到好运和好收成。这一天，人们还会象征性地用羊皮鞭抽打那些希望怀孕的妇女，以象征净化妇女的身体，使其更加容易受孕和生产。  
+		3. 除此以外，人们还将年轻女子们的名字被放置于盒子内，然后年轻男子上前抽取。抽中的一对男女成为情人，时间是一年或更长。该节日是情人节的前身，基督教成为罗马国教后，才被情人节代替。  
+		4. 由于人们在牧神节要进行净化仪式，所以该节又被称为Februalia（净化节，菲勃卢姆节），来自拉丁语februa（净化）。英语单词February（二月），便是由拉丁文Februarius（month of Februalia）演变而来。  
+		5. February - 古罗马每年举行宗教仪式祭祀畜牧神卢佩耳枯斯（Lupercus）以求人畜土地兴旺，这一节日叫做牧神节（Lupercalia）。仪式是在罗马七丘之一的帕拉蒂尼山（the Palatine）的卢佩耳卡尔洞（Lupercal）即牧神洞举行的。祭品规定为雌雄山羊各一只。献祭以后，祭司把祭牲的皮切成皮条，交与站在祭坛旁的两个青年，然后由他们手执皮条绕着巴勒登丘在城里跑上一圈，逢人便抽，已婚妇女很愿挨上一下，因为她们相信被抽打一下可治不育之症。这种皮条有个特殊名称，拉丁文叫februa，它含有“涤罪工具”（means of purification）之意，由此产生了Februārius（净月）一词。2月的英语名称February即源于此，这是因为该活动于2月举行的缘故。  
+		6. 另有一种传说，February得名于Februaria，这是天后朱诺（Juno）作为丰产女神被赋予的名称。February原先有29天，罗马元老院从该月抽了1天加到以罗马皇帝Augustus Caesar命名的August（八月），使其和以Julius Caesar（凯撒大帝）命名的July（七月）的天数相同。
+		7. February： ['fɛbrʊ'ɛri] n.二月
+	3. March
+	4. April
+	5. May
+	6. June
+	7. July
+	8. August
+	9. September
+	10. October
+	11. November
+	12. December
+2. Week
+	1. Monday
+	2. Tuesday
+	3. Wednesday
+	4. Thursday
+	5. Fridy
+	6. Saturday
+	7. Sunday
+3. Solar System
+	1. Mercury
+	2. Venus
+	3. Earth
+	4. Mars
+	5. Jupiter
+	6. Saturn
+	7. Uranus
+	8. Neptune
+
+
+
 ## Ref
+https://www.yingyushijie.com/information/detail/id/821.html
+
+根据学者的分析统计，英文里的外来词约占七成五，比例之高，在世界上主要的语言里只有日文差可比拟。在七成五左右的外来词当中，拉丁文和法文更是重中之重，构成了特具文化深度的词汇，其地位有如日文里的中文借词。
+
+拉丁文之于欧洲，就如同文言文之于中国。由今观之，拉丁文看似遥不可及，然而在英文里却是足迹遍布。我们以为文言文是中国古人的专利，然而现代汉语里文言文的影子，却也是无所不在。今天，我们不妨先来看看英文里一些基础的拉丁文词汇。

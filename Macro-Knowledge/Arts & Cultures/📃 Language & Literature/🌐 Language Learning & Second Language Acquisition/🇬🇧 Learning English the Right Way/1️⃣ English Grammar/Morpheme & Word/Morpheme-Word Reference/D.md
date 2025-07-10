@@ -913,7 +913,7 @@
 ### + \*deme- +
 1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
 	1. adamant (adamant, advertent)
-		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, )
+		1. (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 		2. a-不 + dam-驯服 + -ant → 不可征服的。
 		3. diamond（钻石）：坚不可摧的物质  
 		4. 英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。  
@@ -975,12 +975,22 @@
 		1. 1 - auto-,自己的，-didact,教育，词源同 didactic.
 	2. didact
 		1. n. 说教者
-	3. didactic
-		1. didactics
-		2. didacticism
+	3. didactic [美 /daɪ'dæktɪk/](cmd://Speak/_us_/didactic)
+		1.  [didactical](dic://didactical)
+		2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
+		3. _n._ [uninstructive](dic://uninstructive)
+		4. **pedagogical**教学的;**thematic**题目的;**poetic**诗的，诗歌的;**philosophical**哲学的;**narrative**记叙文;**pedagogy**教育学;**educational**教育的;**exposition**阐述, 讲解;**dogmatic**教条的;**lectures**演讲，讲演;**naturalistic**自然的;
+		5. Most of the articles in the magazine are of a didactic nature. /杂志上大部分文章的本质都是说教性的。
+		6. In the view of didactics, the activity theory has its own uniquedeveloping history /在教学论视野中，活动理论有其独特的发展历史。
+		7. You are a bit of a pedant, Jason, a bit didactic? /你是个卖弄学问的书呆子吗 杰森？
+		8. It has a literal didactic and allegorical design. /它有一个字面上的说教和寓言设计。
+		9. She preferred the purely lyrical, short ones, to the didactic, as she expressed it. /她更喜欢纯粹抒情的短篇， 而不是她所表达的说教。
+		10. Didactic teaching puts them in the position of knowing more than their students. /说教式教学使他们比学生懂得更多。
+		11. didactics
+		12. didacticism
 			1. _n._ [communication](dic://communication)
 			2. **melodrama**情节剧;**modernism**现代主义;**cynicism**犬儒主义;**satire**讽刺;**narrative**记叙文;**allegory**寓言;**storytelling**说故事,说谎话;**subtlety**微妙;**idealism**唯心主义，理想主义;**realism**现实主义;**pedagogical**教学的;
-		3. didactical
+		13. didactical
 #### + \*dens (2) +
 1. **dens-** = make thick, 表示“变浓厚”。源自拉丁语 densus "thick."
 	1. dense 
@@ -1009,51 +1019,92 @@
 ### + \*dent- +
 1. **dent-** = tooth, 表示“牙齿”。影响拉丁语 dens (词干 dent-) "tooth."
 	1. dent
-		1. [incision](dic://incision), [scratch](dic://scratch), [prick](dic://prick), [slit](dic://slit)
-		2. [ding](dic://ding), [gouge](dic://gouge), [nick](dic://nick)
-		3. [indent](dic://indent)
-		4. _n._ [consequence](dic://consequence), [effect](dic://effect), [outcome](dic://outcome), [result](dic://result), [event](dic://event), [issue](dic://issue), [upshot](dic://upshot)
-		5. _v._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
-		6. **ding**响;**scratch**抓痕;**headway**前进;**crack**使破裂;
-		7. _make a dent_ 产生印象；引起注意
-		8. _dent resistance_ 耐冲击性
-		9. _make a dent in_ v. 削弱；[口]取得有效进展
-		10. a dent in profits. /利润削减。
-		11. a dent in the side of a car. /在汽车一侧的凹痕
-		12. at least made a dent in the work. /至少在这项工作上取得了一点儿进步
-		13. The loss put a dent in the team's confidence. /这失败给全队的信心投下了阴影
-		14. a fender that dents easily. /一面很容易有凹痕的挡泥板
-		15. he hit a concrete bollard, denting the wing. and spoiler./他撞上了水泥系缆柱，使机翼和扰流板凹陷了。
+		1. 来自dint的拼写变体，敲打，拟声词。
+		2. [incision](dic://incision), [scratch](dic://scratch), [prick](dic://prick), [slit](dic://slit)
+		3. [ding](dic://ding), [gouge](dic://gouge), [nick](dic://nick)
+		4. [indent](dic://indent)
+		5. _n._ [consequence](dic://consequence), [effect](dic://effect), [outcome](dic://outcome), [result](dic://result), [event](dic://event), [issue](dic://issue), [upshot](dic://upshot)
+		6. _v._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
+		7. **ding**响;**scratch**抓痕;**headway**前进;**crack**使破裂;
+		8. _make a dent_ 产生印象；引起注意
+		9. _dent resistance_ 耐冲击性
+		10. _make a dent in_ v. 削弱；[口]取得有效进展
+			1. Helping make a dent in a massive social problem. /帮助在一个巨大的社会问题上取得进展。
+			2. But Carter could not make a dent in what he rightly termed America's malaise. /但他不能使他称为“美国低迷”的状态有所好转。
+			3. More than that, he wanted a product that would, in his words, make a dent in the universe. /不仅如此，用他自己的话说，他需要一个在宇宙中留下印迹的产品。
+			4. What's it going to take for you guys to really be able to make a dent in this problem? /你们真的能够在这个问题上有所作为吗？
+			5. But a few weeks could make a dent in gross domestic product, and in a fragile economy, that could hurt /但几周可能削弱国内生产总值, 使经济变得脆弱, 可能造成致命伤。
+			6. How is this gonna make a dent in that? /  西蒙：这对这件事有何影响？
+		11. a dent in profits. /利润削减。
+		12. a dent in the side of a car. /在汽车一侧的凹痕
+		13. at least made a dent in the work. /至少在这项工作上取得了一点儿进步
+		14. The loss put a dent in the team's confidence. /这失败给全队的信心投下了阴影
+		15. a fender that dents easily. /一面很容易有凹痕的挡泥板
+		16. he hit a concrete bollard, denting the wing. and spoiler./他撞上了水泥系缆柱，使机翼和扰流板凹陷了。
 	2. dentate
 		1. _adj._ 有齿的,齿状的,锯齿状的
-		2. dentate leaves /锯齿状的叶子
-		3. dentation
+		2. _adj._ [rough](dic://rough)
+		3. _n._ [smooth](dic://smooth)
+		4. **apical**顶上的, 顶点的;**anterior**前面的;**basal**基础的;**posterior**(在时间;**hippocampus**马头鱼尾的怪兽;**dorsal**背的，背侧的;**cortical**皮质的;**ventral**腹部的;**distal**末梢的，末端的;**deciduous**每年落叶的;**whitish**带白色的;
+		5. _dentate gyrus_ 齿状回；齿状圆
+			1. The ability to distinguish between similar memories depends on a tiny strip of brain tissue called the dentate gyrus. /区分相似记忆的能力依赖于一小块被称为齿状回的脑组织。
+			2. Studies in mice have shown that the dentate gyrus is one of the few bits of the brain to generate new neurons even in adulthood. /对老鼠的研究表明，即使在成年后，齿状回也是大脑中少数几个会产生新神经元的部位之一。
+		6. dentate leaves /锯齿状的叶子
+			1. European annual with coarsely **dentate** leaves; widespread in United States and southern Canada. /一种一年生的欧洲藜，叶具粗疏齿牙；已广泛分布于美国和加拿大南部。
+		7. dentation
 			1. n. 齿状, 齿状突起
-		4. denticulate
+		8. denticulate
 			1. a. 有细齿的, 锯齿状的
-		5. dentiform
+		9. dentiform
 			1. a. 齿形的, 齿状的
 	3. dentifrice
-		1. denti-牙齿 + -frice, 摩
-		2. dandelion（蒲公英）：叶子像狮子牙齿的植物  
-		3. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。  
-		4. dent-：齿，牙齿，锯齿，凹痕  
-		5. dandelion：['dændɪlaɪən] n.蒲公英
-		6. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
-		7. dentist：['dɛntɪst] n. 牙科医生  
-		8. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
-		9. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
-		10. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
-		11. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
-		12. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
-		13. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
-		14. _[triclosan dentifrice](dic://triclosan%20dentifrice)_ 牙膏
+		1. n. 牙膏；牙粉
+		2. denti-牙齿 + -frice, 摩
+		3. dandelion（蒲公英）：叶子像狮子牙齿的植物  
+		4. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。  
+		5. dent-：齿，牙齿，锯齿，凹痕  
+		6. dandelion：['dændɪlaɪən] n.蒲公英
+		7. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
+		8. dentist：['dɛntɪst] n. 牙科医生  
+		9. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
+		10. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
+		11. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
+		12. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
+		13. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
+		14. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
+		15. _[triclosan dentifrice](dic://triclosan%20dentifrice)_ 牙膏
+		16. Time like hardly using up dentifrice,as long as you crush it ,it must have a little! /时间就像快用完的牙膏，只要你去挤，总还有一点。
+		17. To estimate the clinical effect of the dentifrice with xylitol in control of plaque /评价木糖醇牙膏在抑制菌斑生成的临床效果。
+		18. A portable oral care system comprises an oral care implement and a **dentifrice** container. /便携式口腔护理系统包括口腔护理器具和洁齿剂容器。
 	4. dental
-		1. interdental
-		2. labiodental
-		3. medico-dental
+		1. [alveolar consonant](dic://alveolar consonant), [dental consonant](dic://dental consonant), [alveolar](dic://alveolar)
+		2. _n._ [consonant](dic://consonant)
+		3. _adj._ [tooth](dic://tooth), [dentistry](dic://dentistry), [dental medicine](dic://dental%20medicine), [odontology](dic://odontology)
+		4. **dentistry**牙医业;**dentist**牙科医生;**dentists**牙医;**dentures**假牙;**periodontal**牙齿周围的,齿根膜的;**teeth**牙齿;**medical**医学的;**tooth**牙齿;**whitening**变白,白粉;**veterinary**动物疾病的;**surgical**外科的;
+		5. _dental caries_ 龋齿，蛀牙
+		6. _dental pulp_ 牙髓
+		7. _dental implant_ 牙移植
+		8. _dental clinic_ 牙科诊所，牙科诊室；牙科门诊部
+		9. _dental plaque_ 牙菌斑；菌斑；牙垢
+		10. _dental hygiene_ 牙齿卫生；口腔卫生学
+		11. _dental floss_ n. 牙线
+		12. _dental chair_ 牙科手术椅
+		13. _dental surgery_ 牙科；口腔外科
+		14. _dental assistant_ 牙科助理；牙医助理
+		15. _dental drill_ [医]牙钻
+		16. _dental amalgam_ 银汞合金
+		17. _dental lamina_ 牙板，齿板；齿叶
+		18. interdental
+		19. labiodental
+		20. medico-dental
+		21. We have pretty good dental hygiene today-regular brushing, flossing, dental visits. /现在我们有良好的口腔卫生——定期刷牙、用牙线、看牙医。
+		22. So, she learned words that she needed for her recent dental visit. /所以，她学习了最近去看牙医时需要用到的单词。
+		23. Very tiny lassos — dental floss. Yeah. Yeah. /非常小的套索——牙线。是的。
 	5. dentary
-		1. _[dentary](dic://dentary)_  adj. 牙齿的；有齿的; n. [脊椎] 齿骨;
+		1. - adj. 牙齿的；有齿的n. [脊椎] 齿骨
+		2. _[dentary](dic://dentary)_  adj. 牙齿的；有齿的; n. [脊椎] 齿骨;
+		3. It also had a second jaw joint made up of the same two bones as the jaw joints of all living mammals - the dentary or mandible, and the squamosal. /它还有第二个下颌关节， 由与所有现存哺乳动物的下颌关节相同的两块骨头组成——齿骨或下颌骨，以及鳞骨。
+		4. 
 	6. dentistry
 		1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
 		2. **dental**牙齿的，牙的;**dentist**牙科医生;**dentists**牙医;**medicine**药;**chiropractic**脊椎推拿疗法;**dentures**假牙;**periodontal**牙齿周围的,齿根膜的;**whitening**变白,白粉;**pediatrics**小儿科;**sedation**镇静;**teeth**牙齿;
@@ -1063,8 +1114,18 @@
 		6. _[pediatric dentistry](dic://pediatric%20dentistry)_  儿童口腔医学; 儿童牙科; 
 		7. _[forensic dentistry](dic://forensic%20dentistry)_  法医牙科学
 		8. _[general dentistry](dic://general%20dentistry)_  口腔综合科; 普通牙科;
+		9. His work was important in helping establish dentistry as a separate profession. /他在推动牙医学发展成一门独立学科的过程中发挥了重要作用。
+		10. The correct answer is c) Medicine and dentistry. /正确答案是 C. 医药学和牙医学。
+		11. So, Hotlin offered discounted dentistry to anyone who didn't cut down the forest. /因此，霍特琳向那些不砍伐森林的人提供折扣牙科服务。
+		12. Preliminary work with young rats has moved dentistry a small step in that direction. /一项针对幼鼠进行的初步试验已经将牙科治疗技术朝这种理想推进了一小步。
 	7. dentil
+		1. - n. 齿状装饰（等于 dentel, denticle, denticule）
 	8. dentine
+		1. _n._ 象牙质,牙质(的东西)
+		2. _n._ [animal material](dic://animal%20material), [bone](dic://bone), [os](dic://os)
+		3. **enamel**珐琅;**tooth**牙齿;**teeth**牙齿;**periodontal**牙齿周围的,齿根膜的;**epithelium**上皮;**mucosa**粘膜;**fluoride**氟化物;**molar**臼齿的;**gums**牙龈，树胶;**cartilage**软骨;**collagen**胶原，胶原质;
+		4. Objective To know the mechanisms of treating **dentine** hypersensitivity by ns Paint. /目的探讨NS牙面涂料对牙本质过敏症的治疗机制。
+		5. Found in the scales of Palaeozoic fishes as a superficial layer over a **dentine** structure /发现于古生代鱼类的鳞片形成覆于齿质结构之上的表面层。
 	9. dentist
 	10. dentition
 		1.  [teething](dic://teething), [odontiasis](dic://odontiasis)
@@ -1075,24 +1136,67 @@
 		6. homodont dentition Teeth in jaw have the same shape. /同齿形在颌的齿有相同的形状。
 	11. denture
 		1. [dental plate](dic://dental plate), [plate](dic://plate)
-		2. [dental plate](dic://dental plate), [plate](dic://plate)
-		3. _n._ [dental appliance](dic://dental appliance)
-		4. **dental**牙齿的，牙的;**prosthesis**弥补;**whitening**变白,白粉;**dentist**牙科医生;**teeth**牙齿;**implant**灌输;**tooth**牙齿;**fillings**填料;**gums**牙龈，树胶;**implants**移植物;**dentists**牙医;
+		2. _n._ [dental appliance](dic://dental appliance)
+		3. **dental**牙齿的，牙的;**prosthesis**弥补;**whitening**变白,白粉;**dentist**牙科医生;**teeth**牙齿;**implant**灌输;**tooth**牙齿;**fillings**填料;**gums**牙龈，树胶;**implants**移植物;**dentists**牙医;
+		4. _[denture base](dic://denture%20base)_  义齿基托; 牙列基托; 
+		5. _[dentures](dic://dentures)_  n. 假牙；补齿（常用复数）
+		6. _[denture box](dic://denture%20box)_  义齿护理盒
+		7. _[complete denture](dic://complete%20denture)_  [口腔] 全口义齿; 全口托牙; 
+		8. _[denture board](dic://denture%20board)_  无担保品债券
+		9. _[denture acrylic](dic://denture%20acrylic)_  干托粉
+		10. _[denture polish](dic://denture%20polish)_  假牙擦光剂
+		11. _[denture soaker](dic://denture%20soaker)_  假牙浸洗剂
+		12. _[partial denture](dic://partial%20denture)_  部分托牙; 局部义齿; 
+		13. _[adhesive for denture](dic://adhesive%20for%20denture)_  假牙粘合剂
+		14. My grandma got some new dentures /我奶奶换了几颗新假牙。
+		15. Some other tricks, denture cream to hold up ingredients /另外一个技巧，假牙黏着剂能固定食物。
+		16. But I think the dentures you're looking for are right here./ 不过我想你要找的假牙其实在这里。
 	12. indent
 		1. n. 契约, 订货单, 凹痕  
 		2. vi. 切割成锯齿状  
 		3. vt. 缩排, 定货, 印凹痕
-		4. in-进入，使 + dent-齿，咬合，用于指古代锯齿状凹痕的法定文件或有法律效力的文书，引申词义下订单，订合同。
-		5. indenture（契约）：以锯齿状边缘分割的契约  
-		6. 英语单词indenture由in+dent（齿）+ure（名词后缀）构成，表示契约。契约和齿有什么关系呢？原来，在中世纪，人们在签订契约时，往往会把两份内容相同的契约写在同一张羊皮纸上，然后在中间以锯齿状边缘分割开，双方各持一份。以后需要比对契约真伪，只需要查看两份契约的锯齿边缘能否对上即可。这种以锯齿状边缘分割的契约就被称为indenture。现在虽然不再这么做了，但这个词却保留了下来。  
-		7. indenture：[ɪn'dentʃə] n.契约，合同，双联契约vt.以契约约束  
-		8. indent：[ɪn'dɛnt] vt. 定货；缩排；印凹痕vi. 切割成锯齿状n. 缩进；订货单；凹痕；契约
-		9. indenture
-		10. indentor
-		11. indention
-		12. indenting
-		13. indented
-		14. indentation
+		4. - v. 缩进（行、段落、列表等）；使（某物边缘处）凹进，（在某物上）制造凹痕；<英>订货；<史>将（一式两份的文件）以锯齿线裁成两份（以便验证真伪）；按一式两份起草（法律文件）
+		5. n. <英>订货单，购货单；（行，段落）缩进，缩格；凹口；定期服务合同，师徒契约
+		6. in-进入，使 + dent-齿，咬合，用于指古代锯齿状凹痕的法定文件或有法律效力的文书，引申词义下订单，订合同。
+		7. indent：[ɪn'dɛnt] vt. 定货；缩排；印凹痕vi. 切割成锯齿状n. 缩进；订货单；凹痕；契约
+		8.  [indentation](dic://indentation), [indention](dic://indention), [indenture](dic://indenture)
+		9.  [dent](dic://dent)
+		10.  [indenture](dic://indenture)
+		11. _n._ [order](dic://order), [purchase order](dic://purchase%20order), [space](dic://space), [blank space](dic://blank%20space), [place](dic://place)
+		12. _v._ [format](dic://format), [arrange](dic://arrange), [cut](dic://cut), [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist)
+		13. **punctuation**标点法, 标点符号的使用;**spacing**间隔;**formatting**格式化;**rectangle**长方形, 矩形;**paragraph**段落;**insert**插入;**syntax**语法;**cursor**游标，指针;
+		14. _indent for_ （英）订货；（英）申请供应
+		15. Punctuation marks and other things like spaces and indents help the reader understand the structure and organization of writing. /标点符号和其他如空格和缩进能帮助读者理解文章的组织结构。
+		16. During stage one, the spontaneously reversible phase, the tissue is in the pitting stage, where it indents when pressed and reverses when it's elevated. /在第一期，即自发可逆阶段，患处组织凹陷性增强，即组织受压时明显凹陷，抬高患肢后可逆转。
+		17. 
+		18. indenture：[ɪn'dentʃə] n.契约，合同，双联契约vt.以契约约束  
+			1.  indenture（契约）：以锯齿状边缘分割的契约  
+			2. 1. _n._ 契约,合同
+			3. 正式凭单,文据 _vt._ <史>以契约束缚(学徒)
+			4. 英语单词indenture由in+dent（齿）+ure（名词后缀）构成，表示契约。契约和齿有什么关系呢？原来，在中世纪，人们在签订契约时，往往会把两份内容相同的契约写在同一张羊皮纸上，然后在中间以锯齿状边缘分割开，双方各持一份。以后需要比对契约真伪，只需要查看两份契约的锯齿边缘能否对上即可。这种以锯齿状边缘分割的契约就被称为indenture。现在虽然不再这么做了，但这个词却保留了下来。  
+			5. _n._ [concave shape](dic://concave%20shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature), [written agreement](dic://written%20agreement), [contract](dic://contract), [space](dic://space)
+			6. _v._ [oblige](dic://oblige), [bind](dic://bind), [hold](dic://hold), [obligate](dic://obligate)
+			7. **servitude**奴隶状态;**indebtedness**债务;
+			8. _[indenture system](dic://indenture%20system)_  契约制
+			9. _[indentured](dic://indentured)_  adj. 受契约束缚的; v. 以契约约束；签订契约（indenture的过去分词）; 
+			10. _[bond indentures](dic://bond%20indentures)_  债券信托契约
+			11. _[trust indenture](dic://trust%20indenture)_  [金融] 信托契据; 信托契约; 
+			12. _[indenture](dic://indenture)_  n. 契约；合同; vt. 以契约约束; 
+			13. _[indenture trustee](dic://indenture%20trustee)_  契约受托人
+			14. _[bond indenture](dic://bond%20indenture)_  债券契约; [金融] 债券信托契约; 
+			15. _[indenture level](dic://indenture%20level)_  协定级
+			16. _[indentures](dic://indentures)_  n. 在船实习契约（indenture的复数形式）; v. 以契约束缚（indenture的第三人称单数形式）;
+			17. To bind into the service of another by **indenture**. /以契约约束按契约的规定为另一方服务。
+			18. The Spirit of Adventure is something to **indenture**. /冒险精神就是契约。我的冒险精神就是你！
+			19. Finally, higher education institutions have established quality **indenture** relationship /高职院校与企业界形成质量契约关系。
+		19. indentor
+		20. indention
+			1. _n._ (尤指印刷或书写中的)首行缩进(缩格)
+			2. _n._ [space](dic://space), [blank space](dic://blank%20space), [place](dic://place)
+			3. **rectangle**长方形, 矩形;**spacing**间隔;**concave**凹的，凹面的;**incision**切开;**scar**给留下伤痕;**forehead**前额，额头;**punctuation**标点法, 标点符号的使用;**seam**缝;**bottom**底部;**casing**盒;**underside**下侧;
+		21. indenting
+		22. indented
+		23. indentation
 	13. edentate
 		1. n. [脊椎] 贫齿类动物  adj. 无齿的；贫齿目的，贫齿类的
 		1. [edental](dic://edental), [edentulate](dic://edentulate)
@@ -1100,49 +1204,104 @@
 		3. _adj._ [toothless](dic://toothless)
 		4. _n._ [toothed](dic://toothed)
 		5. **teeth**牙齿;**taxon**分类单元;**deciduous**每年落叶的;**mammal**哺乳动物;**jaws**狭口;**bony**骨的;
-	17. trident
+	14. trident
 		1. tridentate
 			1. _adj._ 有三尖的,有三齿的
-	18. bident
+	15. bident
 		1. bidentate
 			1. n. 两尖器；双齿工具
-2. **odont-** = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."
+11. **odont-** = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."
 	1. teeth
-		1. tooth
-	2. endodontia
-	3. exodonita
-	4. exodontist
-	5. microdont
-	6. odontalgia
-	7. odontoid
-	8. odontology
-	9. orthodontist
-	10. periodontal
-	11. periodontics
-	12. pleurodont
-	13. prosthodontia
-	14. prosthodontics
-	15. orthodontia
-	16. dandelion
-	17. glyptodon
-	18. mastodon
-		1. [mastodont](dic://mastodont)
-		2. _n._ [proboscidean](dic://proboscidean), [proboscidian](dic://proboscidian)
-		3. **bison**北美野牛;**dinosaur**过时、落伍的人或事物;**mammoth**长毛象;**fossil**化石;**prehistoric**史前的;**elk**麋鹿;**skeleton**骨架，骨骼;**skull**头盖骨，脑壳;**fossils**化石;**moose**驼鹿;**bones**骨骼;
-		4. _n._ 乳齿象,庞然大物
-		5. Mastodons, close relatives of mammoths, were widespread all over North America during the ice age. /乳齿象是猛犸象的近亲，在冰河时代，他们的足迹遍布整个北美。
-		6. He says as unpalatable as those early squashes were, they made a tasty tidbit for mastodons. /他说，尽管早期的南瓜很难吃，但它们对乳齿象来说是美味佳肴。
-		7. Other sequences come from land animals, including caribou, hares, mastodons, geese, lemmings and ants /其他序列来自陆地动物，包括驯鹿、野兔、乳齿象、鹅、旅鼠和蚂蚁。
-3. tongs
-	1. [pair of tongs](dic://pair of tongs)
-	2. _n._ [device](dic://device)
-	3. **spatula**压舌板;**spoon**匙，勺子;**pliers**钳子;**scissors**剪刀;**skewer**烤肉叉子;**hammer**敲打;**knives**刀子;**wok**锅,炒菜锅;**knife**刀;**gloves**手套;**grill**烤架;
-	4. _hammer and tongs_ 全力以赴地；竭尽全力地
-	5. She used tongs to put some more coal on the fire /她用火钳再夹一些煤放进炉子里。
-	6. worked hammer and tongs to meet the deadline. /全力以赴地工作以迎接期限的到来
-	7.  Odds, bobs, hammer and tongs, I hear you" /" 鱼钩和鱼饵，锤子和钳子，我能听见你的话。"
-	8. My favorite tool to barbecue with is a long pair of tongs, like such. /我最喜欢的烧烤工具是这样的长钳子。
-5. tough
+		1.  [dentition](dic://dentition)
+		2. _n._ [set](dic://set)
+		3. **gums**牙龈，树胶;**dentures**假牙;**fangs**尖牙;**jaws**狭口;**jaw**颌;**dental**牙齿的，牙的;**claws**爪子;**dentist**牙科医生;**brushing**擦拭的;**braces**背带;**toothbrush**牙刷;
+		4. _gear teeth_ 齿轮齿
+		5. _wisdom teeth_ [医]智齿
+		6. _front teeth_ 门牙
+		7. _baby teeth_ 乳牙
+		8. _false teeth_ 假牙（false tooth的复数）
+		9. _brush teeth_ 刷牙
+		10. _deciduous teeth_ 乳牙；暂牙
+		11. _bucket teeth_ 戽斗齿；铲斗齿
+		12. _upper teeth_ 上齿；上牙
+		13. _primary teeth_ 乳牙
+		14. _eye teeth_ 眼牙，上尖牙
+		15. _dragon's teeth_ 相互争斗的根源；龙之齿
+		16. _milk teeth_ 乳牙，乳齿；蜕齿；暂牙
+		17. tooth
+	2. endodontia [美 /ˌɛndoˈdɑnʃə/](cmd://Speak/_us_/endodontia)
+		1. n. 根管治疗学
+		2. _n._ [dentistry](dic://dentistry), [dental medicine](dic://dental%20medicine), [odontology](dic://odontology)
+		3. exodonita
+	3. exodontist
+		1. - n. 拔牙专家
+	4. microdont
+	5. odontalgia
+	6. odontoid
+	7. odontology [美 /ˌoʊdɑːn'tɑːlədʒi/](cmd://Speak/_us_/odontology)
+		1. odonto-牙 + -logy学，学科
+		2. _n._ 齿科学,齿科医术
+		3. _n._ [medicine](dic://medicine), [medical specialty](dic://medical%20specialty)
+		4. **dentistry**牙医业;**dental**牙齿的，牙的;**forensic**法院的;**forensics**取证，法医学;**pathology**病理学;**periodontal**牙齿周围的,齿根膜的;**dentists**牙医;**dentist**牙科医生;**microbiology**微生物学;**anthropology**人类学;**teeth**牙齿;
+		5. Emphasis is placed on forensic pathology, anthropology, odontology and the detection and recovery of human remains. /课程重点为法医病理学，法医人类学，齿科学，人体遗骸的探测和复原。
+	8. orthodontist [美 /ˌɔːrθə'dɑːntɪst/](cmd://Speak/_us_/orthodontist)
+		1. _n._ [dentist](dic://dentist), [tooth doctor](dic://tooth%20doctor), [dental practitioner](dic://dental%20practitioner)
+		2. **dentist**牙科医生;**dentists**牙医;**dental**牙齿的，牙的;**chiropractor**脊椎推拿治疗者;**dentistry**牙医业;**braces**背带;**pediatrician**小儿科医师;**dentures**假牙;**surgeon**外科医生;**doctor**医生;**dermatologist**皮肤病学家;
+		3. [orthodontics](dic://orthodontics) n. 正牙学
+		4. _[orthodontist](dic://orthodontist)_  n. 正牙医生；牙齿矫正医师
+		5. Okay, but Pheebs, Pheebs, Jack gave up a cow, I gave up an orthodontist. /好吧，不过Pheebs ，Jack放弃了一头牛，我放弃的是一名牙医。
+		6. Similar to a dentist, an orthodontist is responsible for aligning teeth, treating dental disorders, and fixing crooked smiles /与牙医类似的是，牙齿矫正师负责让牙齿整齐、治疗牙齿疾病并修复歪斜的笑容。
+		7. orthodontia
+			1. _n._ [dentistry](dic://dentistry), [dental medicine](dic://dental%20medicine), [odontology](dic://odontology)
+			2. **dental**牙齿的，牙的;**dentist**牙科医生;**dentistry**牙医业;**braces**背带;**dentures**假牙;**teeth**牙齿;**dentists**牙医;**tooth**牙齿;**out-of-pocket**现款支付的,不列入预算的;**periodontal**牙齿周围的,齿根膜的;**chiropractic**脊椎推拿疗法;
+			3. _[nursing care of orthodontia](dic://nursing%20care%20of%20orthodontia)_ 畸牙矫正护理
+	9. periodontal
+		1. _adj._ [periodontics](dic://periodontics), [periodontia](dic://periodontia)
+		2. **dental**牙齿的，牙的;**gums**牙龈，树胶;**tooth**牙齿;**gum**树胶;**dentistry**牙医业;**alveolar**肺泡的;**teeth**牙齿;**biofilm**生物膜;**dentures**假牙;**floss**丝棉;**dentists**牙医;
+		3. _periodontal disease_ 牙周病
+		4. _periodontal ligament_ n. 牙周韧带
+		5. The socket is lined on the inside by a periodontal ligament. /牙周韧带使牙槽排列整齐排列。
+		6. The root is covered by cementum, which is a bonelike substance that the periodontal ligament's fibers attach to. /包裹着牙根的是牙骨质，是一种骨样物质，也是牙周韧带纤维连接的部分。
+	10. periodontics
+	11. pleurodont
+	12. prosthodontia
+	13. prosthodontics
+	14. dandelion
+		1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous%20plant)
+		2. **clover**苜蓿;**flower**花;**sunflower**向日葵;**herb**香草，药草;**fennel**茴香;**cabbage**卷心菜，甘蓝菜，脑袋;**daisy**雏菊;**leaf**叶子;**artichoke**洋蓟;**sprouts**芽菜;**parsley**荷兰芹，欧芹;
+		3. _[dandelion greens](dic://dandelion%20greens)_  蒲公英嫩叶
+		4. _[dandelion coffee](dic://dandelion%20coffee)_  蒲公英咖啡
+		5. _[dandelions](dic://dandelions)_  n. 蒲公英（dandelion的复数）
+		6. _[dandelion root](dic://dandelion%20root)_  蒲公英根
+		7. _[dandelion](dic://dandelion)_  n. 蒲公英
+		8. _[mongolian dandelion herb](dic://mongolian%20dandelion%20herb)_  蒲公英
+		9. The seeds of dandelion were carried to the meadow by the wind. /风把蒲公英的种子吹到草地上。
+		10. Dandelion has high nutritive value,medical care value,and nuisanceless quality characteristics,so its market development potency is huge. /蒲公英具有高营养,高药用保健作用和无公害品质的特点,市场开发潜力大。
+	15. glyptodon
+	16. mastodon
+		1. mast-乳房 + odon-牙
+		2. [mastodont](dic://mastodont)
+		3. _n._ [proboscidean](dic://proboscidean), [proboscidian](dic://proboscidian)
+		4. **bison**北美野牛;**dinosaur**过时、落伍的人或事物;**mammoth**长毛象;**fossil**化石;**prehistoric**史前的;**elk**麋鹿;**skeleton**骨架，骨骼;**skull**头盖骨，脑壳;**fossils**化石;**moose**驼鹿;**bones**骨骼;
+		5. _n._ 乳齿象,庞然大物
+		6. Mastodons, close relatives of mammoths, were widespread all over North America during the ice age. /乳齿象是猛犸象的近亲，在冰河时代，他们的足迹遍布整个北美。
+		7. He says as unpalatable as those early squashes were, they made a tasty tidbit for mastodons. /他说，尽管早期的南瓜很难吃，但它们对乳齿象来说是美味佳肴。
+		8. Other sequences come from land animals, including caribou, hares, mastodons, geese, lemmings and ants /其他序列来自陆地动物，包括驯鹿、野兔、乳齿象、鹅、旅鼠和蚂蚁。
+12. tongs
+	1. _n._ V形夹子;火钳
+	2. [pair of tongs](dic://pair of tongs)
+	3. _n._ [device](dic://device)
+	4. **spatula**压舌板;**spoon**匙，勺子;**pliers**钳子;**scissors**剪刀;**skewer**烤肉叉子;**hammer**敲打;**knives**刀子;**wok**锅,炒菜锅;**knife**刀;**gloves**手套;**grill**烤架;
+	5. _hammer and tongs_ 全力以赴地；竭尽全力地
+		1. When she gets back from Tara she will start again hammer and tongs with the store and those mills which I wish devoutly would explode some night /她从塔拉回来以后，就会拼命忙那家店铺和几个厂子的，因此我恨不得让它们哪个晚上给炸掉才好。
+		2. They were certainly at it hammer and tongs now. such a flurry of blows that it seemed impossible for either not to be killed. /战斗这时已经到了白热化的阶段。每一击都那么沉重，仿佛打到身上便能置人于死地。
+		3. It's just hammer and tong, but we are so stoked to get it over the line, get it ready for you guys to come and experience and just have the ultimate luxury outback experience. /这只是一个全力以赴的过程， 但我们非常激动能顺利完成，准备好让你来体验， 享受终极奢华的内陆体验。
+	6. Some researchers are likening the lengthy claws to tongs used in barbecuing. /一些研究人员将长长的爪子比作烧烤时使用的夹子。
+	7. She used tongs to put some more coal on the fire /她用火钳再夹一些煤放进炉子里。
+	8. worked hammer and tongs to meet the deadline. /全力以赴地工作以迎接期限的到来
+	9.  Odds, bobs, hammer and tongs, I hear you" /" 鱼钩和鱼饵，锤子和钳子，我能听见你的话。"
+	10. My favorite tool to barbecue with is a long pair of tongs, like such. /我最喜欢的烧烤工具是这样的长钳子。
+14. tough
 	1. [street fighter](dic://street fighter)
 	2. [hood](dic://hood), [hoodlum](dic://hoodlum), [goon](dic://goon), [punk](dic://punk), [thug](dic://thug), [toughie](dic://toughie), [strong-armer](dic://strong-armer)
 	3. [bully](dic://bully), [hooligan](dic://hooligan), [ruffian](dic://ruffian), [roughneck](dic://roughneck), [rowdy](dic://rowdy), [yob](dic://yob), [yobo](dic://yobo), [yobbo](dic://yobbo)
@@ -1169,13 +1328,27 @@
 	14. **difficult**困难的;**hard**困难的;**challenging**富有挑战性的;**tricky**机警的;**rough**粗糙的;**harder**更难的;**grueling**惩罚;**tenacious**抓紧的;**harsh**粗糙的;**daunting**使人畏缩的;**unforgiving**不可宽恕的,不能原谅的;
 	15. _tough guy_ [美口]硬汉
 	16. _tough it out_ [美国口语]勇敢地承受；坚持到底
+		1. But it does mean that across the Pacific some of these organisms can tough it out. /但这的确表明一些横跨太平洋的生物能够坚持过去。
+		2. Like little Miss Muffet, he was able to tough it out the competition to make sure history occurred /就想Muffet小姐一样，他能够在比赛中坚持不懈，直到创下记录
+		3.  And rather than coming to see me to get the knee looked at, you decided to... - Tough it out. Yeah. /你没有来找我检查膝盖-，而是决定… … - 挺过去，是的。
+		4. We'll just go back to waiting, tough it out. /我们就这样等下去 坚持到底。
+		5. I felt, you know, stupid that I couldn't just tough it out in the apartment. /我觉得自己很傻，因为连在公寓里硬撑下去都做不到。
 	17. _get tough with_ [口语]对…强硬起来
 	18. _tough cookie_ 非常坚强的人；不易动感情的人；自信者
+		1. You're one tough cookie, you know that? /你还真是固执惹人怜啊？
+		2. He says you're one tough cookie. So tough, you don't have to deal with your feelings /他说你是个很要强的人，要强到你都不顾自己的情感。
 	19. _tough luck_ 坏运气；真不走运
 	20. _tough nut_ 大胆果断的人；暴躁的人
+		1. As you know, some English expressions can be tough nuts to crack /正如你所知道的，一些英语表达是很令人费解的。
+		2. My father's the tough nut. - My people are the other way round. My father's a darling and my mother's the nut /我父亲才麻烦。- 我父母是反过来的。父亲和善可亲而母亲尖刻固执。
+		3. Among these, Greek tragedy is probably the toughest nut to crack for beginning readers. /其中，希腊悲剧对于初学者来说可能是最难解决的难题。
 	21. _tough love_ 严厉的爱（指为起到帮助作用而严厉地对待有问题的人）
 	22. _hang tough_ 坚持到底，顽强不屈
-6. tusk (tuck, dusk, tush, husk)
+		1. Uh, yeah, well, you know, sometimes you gotta hang tough. /是啊，你要知道，很多时候你都要保持立场坚定。
+		2. Today on social media, Trump defended the drop on Wall Street, saying, hang tough. /在社交媒体上，特朗普为华尔街的下跌辩护，称要坚持住。
+		3. In a social media post this weekend, President Trump urged Americans to hang tough, describing the market swings as an economic revolution. /在周末的一条社交媒体帖子中，特朗普总统敦促美国人保持坚韧，将市场波动形容为一场经济革命。
+		4. You're going at it and just hanging tough. /你会努力去做并且坚持下去。
+15. tusk (tuck, dusk, tush, husk)
 	1. _n._ (象等动物的)长牙；獠牙
 	2. 尖形物；尖头
 	3. _vt._ 用牙抵(或刺)；用牙掘(或撕)
@@ -1193,7 +1366,12 @@
 
 ### + \*deph- + = to stamp
 1. **diphther-** 来自希腊语，表示“皮革”，中文译作“白喉”，因形状得名。源自希腊语 diphthera "prepared hide, leather (used to write on)"
-	1. diphtheria
+	1. diphtheria [美 /dɪf'θɪriə/](cmd://Speak/_us_/diphtheria)
+		1. diphther-皮革，白喉 + -ia
+		2. 来自希腊语 diphthera,皮革，处理过的皮革，词源不详，可能来自 dip,浸泡，因这种病的症状喉咙里形成的厚膜如同皮革而得名。
+		3. n. 白喉
+		4. _n._ [contagious disease](dic://contagious%20disease), [contagion](dic://contagion)
+		5. **measles**麻疹;**cholera**霍乱;**tuberculosis**肺结核;**smallpox**天花;**polio**脊髓灰质炎;**meningitis**脑膜炎;**pneumonia**肺炎;**influenza**流行性感冒;**syphilis**梅毒;**anthrax**炭疽，炭疽热;**vaccination**种痘;
 	2. diphtheric
 		1. - adj. （病理学）白喉的
 	3. diphtheroid
@@ -1313,7 +1491,32 @@
 		8. photodrama
 		9. psychodrama
 		10. dramatic
-	2. drastic
+			1. a. 戏剧性的, 生动的
+			2.  [spectacular](dic://spectacular), [striking](dic://striking) 
+			3. _adj._ [melodramatic](dic://melodramatic), [spectacular](dic://spectacular), [hammy](dic://hammy), [impressive](dic://impressive), [play](dic://play), [drama](dic://drama), [dramatic play](dic://dramatic%20play)
+			4. _n._ [undramatic](dic://undramatic), [unimpressive](dic://unimpressive), [lyric](dic://lyric)
+			5. **drastic**激烈的;**startling**令人震惊的,惊人的;**spectacular**壮观的, 雄伟的, 引人入胜的;**abrupt**突然的;**profound**深度的;**remarkable**异常的;**sensational**轰动的;**climactic**高潮的;**stunning**极好的;**subtle**微妙的;**poignant**尖锐的;
+			6. _[dramatics](dic://dramatics)_  n. 演剧活动；演剧技术；业余演戏；戏剧性行为
+			7. _[dramatic art](dic://dramatic%20art)_  戏剧艺术
+			8. _[dramatic action](dic://dramatic%20action)_  戏剧动作
+			9. _[dramatic situation](dic://dramatic%20situation)_  戏剧性情境
+			10. _[dramatic soprano](dic://dramatic%20soprano)_  戏剧女高音
+			11. _[dramatic literature](dic://dramatic%20literature)_  戏剧文学
+			12. _[amateur dramatics](dic://amateur%20dramatics)_  业余戏剧表演
+			13. _[dramatic play](dic://dramatic%20play)_  表演游戏
+			14. _[dramatic structure](dic://dramatic%20structure)_  戏剧结构; 剧作结构; 戏剧式结构; 
+			15. _[dramatic decline](dic://dramatic%20decline)_  明显下降
+			16.  This fuchsia ruche chiffon blouse is a little too dramatic. /这件粉红色细皱褶的雪纺纱罩衫有点太引人注目了。
+			17. His dramatics made all of us laugh /他那戏剧性的动作使我们大家都笑了。
+			18. She plays a very dramatic woman with flashing eyes. /她饰演一位双眼闪光的引人注目的妇人。
+			19. Going to college brought about a dramatic transformation in her outlook. /上大学使她的观念发生了巨大的变化。
+			20. He had a finger in every pie at school, from dramatics to football. /在学校里, 从演戏到踢足球, 什么活动他都参加。
+			21. A condition caused by the ingestion of silver, the Argyria's most dramatic symptom is that the skin becomes blue or bluish-grey colored. /银的摄入会带来银中毒并导致皮肤病， 银中毒 最明显的症状是皮肤变成蓝色或蓝灰色。
+			22. undramatic
+			23. melodramatic
+			24. dramatics
+			25. dramatically
+	11. drastic
 		1. dra-表演 + -stic表形容词 → 表演也很累 → 剧烈的。
 		2. a. 激烈的
 		3. _adj._ [forceful](dic://forceful)
@@ -1329,24 +1532,48 @@
 1. **debdr-** = tree, 表示“树”。源自希腊语 dendron "tree."
 	1. etc..
 2. **dur-** = last, hard, 表示“持久，坚硬”。源自拉丁语 durare "to last."
-	1. durable 
-		1. duration
-		2. durative
-		3. durance
-			1. imprisonment (especially for a long time)
-			2. _n._ [captivity](dic://captivity), [imprisonment](dic://imprisonment), [incarceration](dic://incarceration), [immurement](dic://immurement)
-			3. **vile**卑鄙的;**prisoner**囚犯，犯人;
-			4. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
-		4. duress
+	1. durable
+		1. - 来自拉丁语 durus,硬，词源同 endure,tree.引申词义持久的。
+		2.  [lasting](dic://lasting), [long-lasting](dic://long-lasting), [long-lived](dic://long-lived)
+		3. [long-wearing](dic://long-wearing)
+		4.  [indestructible](dic://indestructible), [perdurable](dic://perdurable), [undestroyable](dic://undestroyable)
+		5. _adj._ [long](dic://long), [serviceable](dic://serviceable), [imperishable](dic://imperishable)
+		6. _n._ [short](dic://short), [unserviceable](dic://unserviceable), [perishable](dic://perishable)
+		7. **sturdy**强健的;**lightweight**轻量级的;**durability**耐久性;**dependable**可靠的;**indestructible**不可毁灭的，不能破坏的;**versatile**多才多艺的;**heavy-duty**重型的;**robust**强健的;**rugged**粗糙的;**stylish**时髦的;**waterproof**不透水的, 防水的;
+		8. _durable goods_ 耐用品
+		9. _durable press_ 耐久压烫
+		10. _durable material_ 耐久物料；耐用材料
+		11. _durable in use_ 经久耐用
+		12. _durable consumer goods_ 耐用消费品
+		13. _attractive and durable_ 美观耐用
+		14. _consumer durable_ 耐用消费品
+		15. And these atoms are extremely durable. /而这些原子极其耐久。
+		16. I thought they'd be a nice durable cardboard. /我起先还以为大概是好看的空书壳子。
+		17. A child was playing with her new doll, thrilled to discover just how durable it was. /小孩在玩洋娃娃并高兴地发现它很耐打。
+		18. duration
+		19. durative
+			1.  [durative aspect](dic://durative aspect)
+			2. _n._ [aspect](dic://aspect)
+			3. **participle**分词;**verb**动词;**verbs**动词;**continuous**连续的;**temporal**现世的;**utterance**说话;**tense**拉紧的;**iterative**重复的,反复的,迭代的;**singular**单数的;**grammatical**语法的;**possessive**所有格;
+		20. durance
+			1. n. 监禁
+			2. imprisonment (especially for a long time)
+			3. _n._ [captivity](dic://captivity), [imprisonment](dic://imprisonment), [incarceration](dic://incarceration), [immurement](dic://immurement)
+			4. **vile**卑鄙的;**prisoner**囚犯，犯人;
+			5. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
+			6. " Is it possible that innocent people are held in durance here" ? /“难不成这里关押着无辜的人” ？
+			7. On his right was Cora in a durance similar to his own, pale and agitated, but with an eye whose steady look still read the proceedings of their enemies. /在他右边的是科拉，他和他一样被困住了，脸色苍白，情绪激动，但眼睛的稳定神情仍在阅读他们敌人的行动。
+			8. 
+		21. duress
 			1. dur-坚硬 + -ess表名词或动词 → 硬压 → 强迫。
 			2. _n._ [force](dic://force)
 			3. **coercion**强迫;**circumstance**环境;**blackmail**敲诈, 勒索;**compulsion**强迫,被迫;**coercive**强制的;**pressure**压力;**under**低于，少于;**hardship**困苦;**intimidation**恐吓，威胁;**threat**威胁，恐吓;**involuntary**无意识做出的;
 			4. Am I under duress? No. What are you doing? /我是否受了胁迫 没有 你们在干什么？
 			5. Italy's bonds were under the most duress. /意大利的债券受到的压力最大。
 			6. In fact, cats purr both during pleasurable situations but also while they're in duress or injured. /事实上，猫在愉悦的情况下还有受到胁迫或受伤时都会发出呼噜声。
-	2. dural
+	11. dural
 		1. a. 硬脑膜的
-	3. endure
+	12. endure
 		1. en-使 + dur-坚硬 + -e。
 		2. [digest](dic://digest), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [brook](dic://brook), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
 		3. [weather](dic://weather), [brave](dic://brave), [brave out](dic://brave out)
@@ -1358,9 +1585,27 @@
 		9. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance), [defy](dic://defy), [withstand](dic://withstand), [hold](dic://hold)
 		10. **withstand**经受, 承受;**suffer**忍受;**persevere**坚忍, 坚持;**survive**活得长;**tolerate**忍受;**torment**折磨，使痛苦;**unbearable**难以忍受的;**grueling**惩罚;**excruciating**极为疼痛的;**suffering**身体或心灵的痛苦, 苦难;**undergo**经历，经受;
 		11. endure an Arctic winte /忍受北极的冬天
-	4. perdure
-		1. per-完全 + dur-持久 + -e
-	5. indurate
+		12. _[to endure](dic://to%20endure)_  忍耐
+		13. _[endure to the end](dic://endure%20to%20the%20end)_  （坚持）到底；忍耐
+		14. _[enduring appeal](dic://enduring%20appeal)_  持久的吸引力
+		15. _[drought enduring plant](dic://drought%20enduring%20plant)_  耐旱植物
+		16. _[endure hardship](dic://endure%20hardship)_  忍受艰苦; 忍受苦难; 
+		17. _[endured](dic://endured)_  v. 忍耐（endure的过去式）
+		18. _[shade enduring plant](dic://shade%20enduring%20plant)_  耐荫性植物
+		19. "Poignant grief cannot endure forever" (W.H. Hudson). /“深切的哀痛不能永远承受” (W·H·哈得孙）。
+		20. It is better to die of repletion than to endure hunger. /饱死胜过挨饿。
+		21. He endured agonies of loneliness and misery. /他忍受着寂寞和贫穷的折磨。
+		22. He could not possibly have endured a whipping without a whimper. /他不可能一声不吭地忍受鞭打。
+		23. And the evolution may not endure. /而且发展可能无法持续。
+		24. I believe that man will not merely endure. He will prevail. /我认为人类不仅会延续还会胜利。
+		25. Millions of Yemenis are currently enduring severe deprivation, Ms. Sanders wrote. /上百万也门人正在经历赤贫的生活，萨拉如是写道。
+		26. Three factors suggest that this benign trend may endure. /有三个因素表明这种良性趋势可能会持续下去。
+		27. There is not a long, enduring sexual relationship. /这不是长久的性关系。
+	13. perdure
+		1. vi. 继续；持久
+		2. per-完全 + dur-持久 + -e
+		3. _[long haul perdure permanence stand](dic://long%20haul%20perdure%20permanence%20stand)_ 持久
+	14. indurate
 		1.  (callow, jejune, indurate)
 		2. 1. _vt. & vi._ (使)坚硬；变得坚硬
 		3. _vt._ 使起老茧；使无感觉
@@ -1369,22 +1614,43 @@
 		6. [callous](dic://callous), [pachydermatous](dic://pachydermatous)
 		7. His person, though muscular, was rather attenuated than full; but every nerve and muscle appeared strung and indurated by unremitted exposure and toil. /他的人虽然肌肉发达， 但与其说是丰满， 不如说是消瘦了。 但每一根神经和肌肉似乎都因持续不断的暴露和辛劳而变得紧张和僵硬。
 		8. My feet, which had become accustomed to the indurated lava floor, suddenly rested upon a dust composed of the debris of plants and shells. /我的双脚已经习惯了坚硬的熔岩地面，突然踩在了由植物和贝壳碎片组成的灰尘上。
-	6. obdurate
-		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
-		3. obduracy
-		4. obdurability
+	15. obdurate
+		1. ob-反 + -dur-牢固 + -ate, 表形容词 → 坚定的反对 → 老顽固。
+		2.  ob-,相对，对着的，-dur,硬的，词源同 endure,during.引申词义固执的。
+		3. a. 顽固的, 执拗的, 冷酷的
+		4. (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 		5. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
 		6. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
 		7. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
 		8. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
 		9. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
-	7. darn
-		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
-	8. duralumin, durum, durain
+		10. Mixed with obdurate pride and steadfast hate /顽固的傲气和难消的憎恨交织着。
+		11. Only some Mahomedan traders were still obdurate. /只有一些穆斯林商人仍然顽固。
+		12. Francois was obdurate, but when he turned his back Buck again displaced Sol-leks, who was not at all unwilling to go /但是弗朗索瓦不屈服于此, 但他刚刚转过身, 巴克就赶走了索尔雷克斯, 而索尔雷克斯倒也乐得离开。
+		13. The head was an oblique and obdurate man. /首领是个既不坦率又冷酷无情的人。
+		14. ANTONIO I have heard Your grace hath ta'en great pains to qualify His rigorous course; but since he stands obdurate, And that? /安东尼奥：我听说了您的恩典付出了巨大的痛苦，才使他严格的道路成为合格的;但既然他顽固不化，那又是什么？
+		15. obduracy
+		16. obdurability
+	16. darn
+		1.  [damn](dic://damn), [hoot](dic://hoot), [red cent](dic://red cent), [shit](dic://shit), [shucks](dic://shucks), [tinker's damn](dic://tinker's damn), [tinker's dam](dic://tinker's dam)
+		2.  [mend](dic://mend), [patch](dic://patch)
+		3. _n._ [euphemism](dic://euphemism), [worthlessness](dic://worthlessness), [ineptitude](dic://ineptitude), [sewing](dic://sewing), [stitchery](dic://stitchery)
+		4. _v._ [repair](dic://repair), [mend](dic://mend), [fix](dic://fix), [bushel](dic://bushel), [doctor](dic://doctor), [furbish up](dic://furbish%20up), [restore](dic://restore)
+		5. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
+		6. My socks have been darned again and again. /我的袜子已经一补再补了。
+		7. Her jumper had a darn at the bottom. /她的无袖连衣裙下部有一个补丁。
+		8. Please darn the hole in my sock. /请缝补一下我袜子上的小洞。
+		9. I don't expect you to darn my socks /我不指望你给我补袜子。
+		10. A car that big would use a darn sight more petrol than ours. /那么大的汽车要比我们的汽车多耗好多油呢
+		11. Darn it! I’ve lost my keys! /真见鬼，我的钥匙丟了！
+		12. 'You look pretty darn nice, ' he said. /“你看上去漂亮极了。”他说。
+		13. The best darn viewers in news. /最好的新闻观众们。
+		14. I don't know. Alex seems pretty darn tough /不知道 艾丽克斯像是很坚强的人。
+	17. duralumin, durum, durain
 		3. n. 硬粒小麦
-	9. dour
+	18. dour
 		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
-		2.  (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+		2. (pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, unregenerate. stalwart, fractious, intractable, disobedient, stern,)
 		3. adj. 严厉的；顽强的；阴沉的；不爱讲话的
 		4. 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
 		5. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
@@ -1393,13 +1659,18 @@
 		8. [dogged](dic://dogged), [pertinacious](dic://pertinacious), [tenacious](dic://tenacious), [unyielding](dic://unyielding)
 		9. a dour determination. /固执的决定
 		10. her dour, monotonic husband. /她那阴郁、语调沉闷的丈夫。
-2. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
+9. **tro-, tru-** = true, 表示“相信，真实”，原意表示“坚固、持久”。
 	1. truce
 		1. 来自古英语 treow,事实，承诺，忠诚，条约，词源同 true,truth.-ce,表复数，如 pence 为 penny复数格。
 		2. [armistice](dic://armistice), [cease-fire](dic://cease-fire)
 		3. _n._ [peace](dic://peace)
 		4. **cease-fire**停火;**ceasefire**停火;**pact**条约;**treaty**条约，协议;**stalemate**僵局;**alliance**联盟，联合;**peace**和平;**agreement**协定, 协议, 契约;**siege**围攻;**skirmish**小冲突，小规模战斗;**impasse**僵局;
-	3. true
+		5. The hot weather gave the old man a truce from rheumatism /热天使这位老人暂时免受风湿病之苦。
+		6. A truce was declared between the two armies. /两军之间宣布停战。
+		7.  She would willingly forgo a birthday treat if only her warring parents would declare a truce./只要她的父母停止争吵，她愿意放弃生日宴请。
+		8. Previous attempts to call a truce have failed. /此前几次的休战尝试均以失败告终。
+		9. I was negotiating a truce between my wife and daughter. /我当时正在调停妻子和女儿。
+	2. true
 		1. untrue
 		2. truely
 		3. truism
@@ -1414,21 +1685,168 @@
 		9. true-life
 			1. a. 忠实于现实生活的
 		10. treu-blue
-	4. trust
+	3. trust
 		1. true, 忠诚的，真实的，-st,表名词，比较 forest.引申词义信任，委托，依赖等。
-	5. truth
-3. tar
-	1.  - 来自古英语 teru,树脂，树胶，沥青，来自 Proto-Germanic*terwo,橡树，树，来自 PIE*deru,橡树，树，词源同 tree,dentrology.
-4. tray
+	4. truth
+10. tar
+	1. [pitch](dic://pitch)
+	2. [mariner](dic://mariner), [seaman](dic://seaman), [Jack-tar](dic://Jack-tar), [Jack](dic://Jack), [old salt](dic://old salt), [seafarer](dic://seafarer), [gob](dic://gob), [sea dog](dic://sea dog)
+	3. _n._ [bitumen](dic://bitumen), [sailor](dic://sailor), [crewman](dic://crewman)
+	4. _v._ [coat](dic://coat), [surface](dic://surface)
+	5. **sands**沙漠;**coal**煤;**soot**煤烟，烟灰;**pine**松树;**sand**沙;**mud**泥;**tobacco**烟草，烟叶;**lint**软麻布;**gravel**砂砾;**asphalt**沥青;**cedar**雪松;
+	6. _coal tar_ n. [化]煤焦油
+	7. _tar pitch_ 焦油沥青
+	8. _coal tar pitch_ 沥青；煤焦油沥青；硬煤沥青
+	9. _coke tar_ 焦油
+	10. _pine tar_ 松焦油
+	11. _coal tar enamel_ 煤焦油磁漆
+	12. Ugh. You can really smell the tar here. I'm on Palmahim Beach. /呃。这里的确能闻到焦油味。我现在在帕尔马欣海滩。
+	13. Down here on the beach, the seashells are just caked in shiny black tar. /在这里的海滩上，贝壳粘在反光的黑焦油中。
+	14. Next, wrap tar paper around the tree. /接下来，把柏油纸裹在树上。
+	15. We can still extract oil from the tar sands of Canada. /我们仍可从加拿大的含油沙中提炼。
+	16. And I am a dinosaur marching into the tar pit. /那我就是一只正在走进沥青坑的大恐龙咯。
+	17. He was carrying a wooden doll and a pail of tar. /它带来了一个木娃娃和一桶柏油。
+	18. Did you think that if you let them tar and feather you? /你觉得他们会给你涂上焦油后，再用羽毛装饰你吗？
+	19. 
+	20. tarred
+		1. _tarred paper_  
+		2. 油毡纸；柏油纸；焦油纸；沥青纸
+	21. tarry
+		1. [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+		2. **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
+		3. [pitchy](dic://pitchy), [resinous](dic://resinous), [resiny](dic://resiny)
+		4. _v._ [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+		5. _adj._ [adhesive](dic://adhesive)
+		6. _n._ [nonadhesive](dic://nonadhesive)
+		7. **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
+		8. _[tarry material](dic://tarry%20material)_  煤焦油材料
+		9. _[tarry stool](dic://tarry%20stool)_  柏油样粪
+		10. _[tarry stools](dic://tarry%20stools)_  柏油样粪; 煤焦油样粪;
+		11. tarry stones from the garage roof. /车库顶上涂了柏油的石头
+		12. she could tarry a bit and not get home until four. /她可以再逗留一会直到四点再回家。
+	22. tarpaulin
+		1. 1 - 改写自 tar,柏油，pall,帆布，-ing,集合名词后缀。
+		2. _n._ [canvas](dic://canvas), [canvas fabric](dic://canvas fabric), [canvass](dic://canvass), [canvass fabric](dic://canvass fabric)
+		3. **tarp**油布;**awning**雨篷;**tent**帐篷;**tents**旅游帐篷;**plywood**夹板，胶合板;**cardboard**硬纸板;**corrugated**起皱褶的;**cloth**布，织物;**scaffolding**脚手架;**makeshift**权宜之计, 临时代用的物品;**canvas**帆布;
+		4. _[tarpaulin](dic://tarpaulin)_  n. 柏油帆布；防水帽；防水衣；涂焦油防水布
+		5. _[tarpaulin paper](dic://tarpaulin%20paper)_  防潮纸；防水油纸
+		6. He shook her hand enthusiastically and holding up the tarpaulin, assisted her into the buggy /他热情地同她握了握手，螦EAE？那块防雨布，扶她爬上车去。
+		7. But why stop with a tarpaulin when you can have a tarpaul-win. /但你既然可以战胜这块防水布，为什么要在中途放弃呢。
+		8. The Sensorama ended up beneath a tarpaulin in Heilig's back garden. /Sensorama 最终停在了 Heilig 后花园的防水油布下。
+		9. They move from building from bamboo, tarpaulin sheets, plastic, to cardboard, to tin, to bricks and cement, just like the way we do. /他们从竹子、防水布、塑料到硬纸板、锡、砖和水泥，就像我们做的那样。
+	23. tarmacadam
+	24. tarmac
+		1. 1. _n._ (铺设路面的)碎石和沥青的混合材料
+		2. 沥青碎石路面
+		3. _vt._ 以碎石沥青铺盖(某物)表面
+		4. **pavement**人行道;**asphalt**沥青;**airfield**飞机场;**airport**机场;**gravel**砂砾;**runway**跑道;**runways**河床;**roads**锚地;**road**道路;**hangar**飞机库;**plane**平面;
+		5. [paving material](dic://paving material), [paved surface](dic://paved surface)
+		6. [tarmacadam](dic://tarmacadam), [macadam](dic://macadam)
+		7. [macadamize](dic://macadamize), [macadamise](dic://macadamise)
+		8. The passenger were shepherd across the tarmac to the airliner. /旅客们被引领走过柏油碎石跑道上飞机。
+		9. The plane had to wait half an hour on the tarmac because of fog /由于大雾, 那架飞机不得不在跑道上等候半个小时。
+		10. Three planes were standing on the **tarmac**, waiting to take off. /三架飞机停在跑道上，等候起飞。
+		11. This reminds me unpleasantly of Sunnyhill School in Streatham, with its harsh **tarmac**, where I used to hang about in corners fantasising about wildlife. /这让我不快地想起了斯特里塔姆的桑尼希尔学校，那里有粗糙的柏油路，我曾在学校的角落里闲逛，幻想着野生动植物。
+	25. tarbrush
+		1. n. 柏油刷；黑人血统，印第安人血统
+	26. tar-paved
+	27. tar-board
+		1. _n._ 柏油纸板
+	28. jack-tar
+		1. _[back bar](dic://back%20bar)_  后杆; 酒吧工作站之后面区域; 醉爱音乐清吧; 后栅栏; 
+		2. _[rack bar](dic://rack%20bar)_  [机] 齿条；齿杆
+		3. _[Jack Tar](dic://Jack%20Tar)_  水手; 水兵;
+	29. gas-tar
+		1. - 煤气焦油，瓦斯焦油
+	30. detarring
+12. tray
 	1.  - 来自古英语 treg,木板，木盘，来自 Proto-Germanic*trawja,木制容器，来自 PIE*deru,树，词源同 tree,dendrite.  
 	2. 2 - 来自中古英语 trayen,背叛，来自古法语 trair,背叛，来自拉丁语 tradere,转移，移交，词源同tradition,treason,betray.该词基本上已废弃，主要见于复合词 betray.
-5. tree
+	3. _cable tray_ 电缆槽
+	4. _sieve tray_ [化]筛盘
+	5. _baking tray_ 烤盘
+	6. _paper tray_ 纸匣，纸盒；纸托盘
+	7. _tray table_ 盘桌；折叠式餐具小几
+	8. _tea tray_ 茶盘
+	9. _in tray_ 文件盘；收文盘
+	10. _wooden tray_ 木盘子
+	11. _tray tower_ 盘式塔
+	12. _fruit tray_ 果盘
+	13. _ash tray_ 烟灰缸；灰盘
+	14. He brought her breakfast in bed on a **tray**. /他把早餐用托盘给她送到床上
+	15. Stark took two whiskeys from a **tray**. /斯塔克从托盘里拿了两杯威士忌。
+	16. She came in with a **tray** of drinks /她端着一托盘饮料走进来。
+13. tree
 	1.  来自古英语 treow,树，来自 Proto-Germanic*treuwaz,树，来自 PIE*deru,橡树，树，其原义为固定的，坚固的，词源同 endure,true.
 	2. barking up the wrong tree攻击错了目标。狩猎术语。蠢萌猎犬一枚，追踪受伤的猎物，猎物跑远了，猎犬却以为爬到了眼前的树上，一顿狂吠，这智商真欠费了。Hey man, if you think I was the guy who robbed that bank today, you're barking up the wrong tree! 有趣的是，bark两层含义：树皮和狗叫。 ​​​​
-6. trim
-	1. 1 - 来自古英语 trymian,使整齐，安排，加强，来自 Proto-Germanic*trum,坚固的，固定的，PIE*deru,稳定的，稳固的，词源同 tree,true.引申词义修剪树枝，修整，装饰等。
+14. trim
+	1. 来自古英语 trymian,使整齐，安排，加强，来自 Proto-Germanic*trum,坚固的，固定的，PIE*deru,稳定的，稳固的，词源同 tree,true.引申词义修剪树枝，修整，装饰等。
 	2. in fighting trim(军舰等)在备战状态中。trim [trɪm] v.修剪；整理，n.修剪；整齐；情形，adj.整洁的，与tree和true有关，与拉丁词根dur-表持续、稳固和希腊词根dendro-表树同源。修剪树啥目的？让它更稳固整齐呗！Moscow is reported to be taking steps to preserve such assets in fighting trim. ​​​​
-7. trough
+	3. n. 整齐, 情形, 修剪 
+	4. a. 整齐的
+	5. vt. 使整齐, 整理, 修剪  
+	6. vi. 调整, 见风使舵
+	7.  [trimness](dic://trimness)
+	8.  [trimming](dic://trimming), [passementerie](dic://passementerie)
+	9.  [pare](dic://pare)
+	10.  [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back), [trim down](dic://trim down), [trim back](dic://trim back), [cut](dic://cut), [bring down](dic://bring down)
+	11. [garnish](dic://garnish), [dress](dic://dress)
+	12.  [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune), [cut back](dic://cut back)
+	13. [shave](dic://shave)
+	14.  [spare](dic://spare)
+	15.  [clean-cut](dic://clean-cut), [trig](dic://trig)
+	16. [tailored](dic://tailored)
+	17. _n._ [neatness](dic://neatness), [spruceness](dic://spruceness), [adornment](dic://adornment), [attitude](dic://attitude), [cut](dic://cut), [cutting](dic://cutting), [cutting off](dic://cutting%20off)
+	18. _v._ [cut](dic://cut), [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+	19. _adj._ [thin](dic://thin), [lean](dic://lean), [tidy](dic://tidy), [plain](dic://plain)
+	20. _n._ [fat](dic://fat), [untidy](dic://untidy), [fancy](dic://fancy)
+	21. **cut**伤口;**paneling**镶板;**fascia**招牌;**grille**格子;**two-tone**两颜色的,同色而浓淡不同的;**styling**款式，式样;**exterior**外部的;**cutting**切断;**sunroof**汽车顶上可开启的遮阳篷顶;**fenders**防撞垫;**cutout**布或纸上剪下的图案花样;
+	22. _interior trim_ 内部装饰
+		1. - 内饰装饰：汽车、房屋等内部装饰的部分，如门板、仪表板、座椅等。
+		2. Commonly used as **interior** **trim** on butterfly valves. /通常用作蝶阀的阀内件。
+	23. _out of trim_ 未准备好；失去平衡；健康情况不佳
+		1. - 失去平衡：指物体或设备失去原有的平衡或调整状态，可能导致性能下降或无法正常工作。
+		2. I found everything **out** **of** **trim**. /我发现一切都没有次序。
+		3. Our team is still **out** **of** **trim** now and I am afraid we will lose the game /我们队仍未准备好，我担心我们会输掉这场比赛。
+	24. _trim down_ 裁减
+		1. It has trimmed down its Fall schedule. /它已经削减了秋季航班计划。
+		2. They've now trimmed down to a svelte one-and-a-half. /现在他们已经把尺寸缩减到1.5英寸了。
+		3. But typically, rising blood sugar levels sets off a series of events that trim them back down. /但通常情况下，血糖水平上升会引发一系列事件，使血糖水平下降。
+		4. I do not see how any one gets the white inner cylinder trimmed down correctly, wasting none of the sweet portion but cutting away all that will be strong and bitter, without Martha's assistance. /我看不出有人如何在没有玛莎帮助的情况下正确修剪白色内筒， 不浪费任何甜味部分， 而是切掉所有会变得浓烈和苦涩的部分
+	25. _trim off_ 修剪
+	26. _door trim_ 门饰板；车门饰件
+	27. _trim size_ 实际尺寸
+	28. I was calling about the apple tree that you were trimming yesterday. /我打电话给你是想讲讲你昨天修剪的那棵苹果树。
+	29. The new house has a trim appearance. /那幢新房子的外观整洁。
+	30. It was impossible to trim your bangs. /没法给你剪刘海。
+	31. To achieve this, our free spirit had to be trimmed and tightened. /为了达到这个目的，我们的自由精神必须被修剪和收紧。
+	32.  It's been a while since your last trim, and your hair is getting long. /上次修剪之后，已经有好长时间了。你的头发长很长了。
+	33.  He says that individuals who are effortlessly trim may hold the key to understanding obesity /他表示，轻松保持苗条身材的人可能掌握着了解肥胖症的关键。
+15. trough
+	1. - 来自古英语 trog,木制容器，盘子，来自 Proto-Germanic*trugaz,木制品，来自 PIE*teru,树，木材，词源同 tree,tray.最终引申为现在的词义。
+	2. n. （喂家畜的）饲料槽，饮水槽； （商业活动等的）淡季，低谷； （波浪间的）波谷，（小山间的）低谷；低压槽，槽形低压；（用于培植植物、调配化学制品的）槽形容器；（运水的）沟槽；地表槽谷；钱槽，钱眼；（数）凹点
+	3. v. 狼吞虎咽
+	4.  [gutter](dic://gutter)
+	5.  [bowl](dic://bowl)
+	6.  [public treasury](dic://public treasury), [till](dic://till)
+	7.  [manger](dic://manger)
+	8. _n._ [natural depression](dic://natural%20depression), [depression](dic://depression), [channel](dic://channel), [concave shape](dic://concave%20shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature)
+	9. **ridge**山脉;**through**穿过;**feed**喂养;**feeding**饲养;**fed**饲养;
+	10. _water trough_ 水槽；饮水槽
+	11. _wave trough_ 波谷
+	12. _[eaves trough](dic://eaves%20trough)_  檐沟
+		1. _[eave gutter](dic://eave%20gutter)_  檐沟
+		2. _[eave strut](dic://eave%20strut)_  檐撑条
+	13. Don't be ridiculous. Could we get a trough of these, please? /别逗了。能给我们来一槽子这种酒么？
+	14. The lamp still stood upon the floor where I had placed it when examining the trough. /灯还在地板上，是我检查铁槽时放在那里的。
+	15. Hungrily they gathered round, pushing and scrambling like swine about the trough. /人们迫不及待地围了过来，像猪锣围着食槽一样乱拱乱挤。
+	16. And the Antarctic trough apparently has no ocean water. /显然，这个南极峡谷内没有海水。
+	17. As the wave bore down on us, the trough deepened. /当波涛向我们压来时, 波谷加深了。
+	18. An eave trough used to convey rainwater from the roof to the downspout. /用于传输屋顶的雨水到落水管檐沟。
+	19. The last Nankai Trough quake was off Shikoku in 1946. /上一次的南开海槽地震发生在1946年的四国岛附近。
+	20. The lamp still stood upon the floor where I had placed it when examining the trough. /灯还在地板上，是我检查铁槽时放在那里的。
+	21. The proportion of working-age people with jobs is lower than in the **trough** of the recession. /适龄劳动人口的就业比例还是低于经济衰退低谷时的比例。
+	22. The business cycle is a series of peaks and troughs. /商业周期是一系列的高峰期和低谷期。
 
 
 ### + \*deu- +

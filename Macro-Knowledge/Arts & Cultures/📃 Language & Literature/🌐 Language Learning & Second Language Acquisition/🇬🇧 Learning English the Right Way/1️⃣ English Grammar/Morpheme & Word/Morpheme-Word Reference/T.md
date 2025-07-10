@@ -23,19 +23,56 @@
 
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
 1. **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
-	1. contaminant, contaminate
-		1. contamination, decontamination
-2. **integr- = whole, in + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
-	1. integral, integrant, integrate
-		1. reintegrate
-		2. intergrative
+	1. contaminate
+		1. con-,表强调，-tam,接触，来自-tag 变体，词源同 tactile,tangible.即被接触过，被污染。
+		2. vt. 弄污, 弄脏, 污染, 毒害
+		3. _[contaminate](dic://contaminate)_  vt. 污染，弄脏
+		4. _v._ [dirty](dic://dirty), [soil](dic://soil), [begrime](dic://begrime), [grime](dic://grime), [colly](dic://colly), [bemire](dic://bemire), [change](dic://change)
+		5. _n._ [decontaminate](dic://decontaminate)
+		6. **infect**感染，传染;**endanger**危及;**polluted**受污染的;**polluting**污染的;**tainted**污染的;**contaminant**杂质;**spill**使溢出，使流出;**destroy**毁坏;**degrade**降格;**toxic**有毒的;**poisons**毒药，毒物;
+		7. _[contaminated chemical](dic://contaminated%20chemical)_  受污染化学剂
+		8. _[contaminate product tank](dic://contaminate%20product%20tank)_  污染油品罐
+		9. _[contaminated land](dic://contaminated%20land)_  污染的土地
+		10. _[contaminated area](dic://contaminated%20area)_  污染面积
+		11. _[contaminated plug](dic://contaminated%20plug)_  污染段
+		12. _[contaminated sites](dic://contaminated%20sites)_  污染场地
+		13. The site was found to be contaminated by radioactivity. /发现此地受放射线污染。
+		14. They are contaminating the minds of our young people with these subversive ideas./他们这些颠覆作乱的思想是对我们年轻人的精神污染。
+		15. uncontaminated
+		16. decontaminate
+		17. contaminator
+		18. contaminative
+		19. contaminant
+			1. _n._ [material](dic://material), [stuff](dic://stuff)
+			2. **contamination**污染;**pollutant**污染物质;**pollutants**污染物质;**arsenic**砒霜;**contaminated**受污染的;**groundwater**地下水;**sediment**沉淀物;**effluent**流出物;**toxin**毒质;**toxicity**毒性;**particulate**微粒的,粒子的;
+			3. _organic contaminant_ 有机污染物
+			4. _air contaminant_ 空气污染物
+		20. contamination
+		21. decontamination
+8. **integr- = whole, in + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
+	1. integrate
+		1.  integral
+		2. integrant
+		3. reintegrate
+		4. intergrative
 	2. integrity
 	3. entire
 	4. integer
-3. **tact-, tag-, tig-, ting- = to touch**
+9. **tact-, tag-, tig-, ting- = to touch**
 	1. tact
-		2. tactic 
-		3. tactless
+		1. n. 机智, 手法, 老练
+		2. 来自拉丁语 tactus,触摸，感觉，感知，来自 tangere,触摸，碰，词源同 tangent,contact.
+		3.  [tactfulness](dic://tactfulness)
+		4. _n._ [consideration](dic://consideration), [considerateness](dic://considerateness), [thoughtfulness](dic://thoughtfulness)
+		5. **honesty**诚实，正直;**intact**完整的;**composure**镇静, 沉着;**finesse**纤细;**subtlety**微妙;**poise**平衡;**patience**耐性，耐心;**tenacity**固执;**wit**智力;**decency**正派;**politeness**有礼貌;
+		6. He showed tact in dealing with difficult customers. /他在应付难对付的顾客时表现老练。
+		7. It's a rather delicate situation and you'll need a lot of tact to handle it. /那是一个相当微妙的局面, 你需要用很巧妙的手段去处理。
+		8. Mr. Smith is a most suitable candidate for such negotiator since his tact and quickness of mind are equal to the occasion. /这样的谈判史密斯先生是最合适的人选, 他机智敏捷, 随机应变。
+		9. Coffee was a treat, and Hannah showed great tact in making it that morning. /咖啡很合人意，汉娜早晨煮的时候显示了此事做得非常得体。
+		10. My rich dad taught me to take the opposite tact. /我的富爸爸教我的做法与这些人相反。
+		11. Whoever presides at the meeting will need patience and tact. /无论谁主持会议，都既要有耐性，又要机敏老练。
+		12. tactic 
+		13. tactless
 			1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 			2. tact【机智】 + -less无，没有
 			3. a. 不机智的, 不机敏的
@@ -44,27 +81,55 @@
 			6. _adj._ [maladroit](dic://maladroit)
 			7. _n._ [tactful](dic://tactful), [adroit](dic://adroit)
 			8. **rude**粗鲁的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**insensitive**不敏感的;**callous**起老茧的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disrespectful**失礼的,无礼的;**obnoxious**可憎的;**pompous**浮夸的;**snarky**恶声恶气的，咬人的;
-		4. tactician
+			9. People often think I am tactless and rude. /别人总觉得我反应迟钝，行为粗鲁。
+			10. When a subject has been turned down, only a tactless person would pursue it. /当对方已拒谈某个话题时，只有不上道的人才会追着这个话题谈下去。
+			11. What are the mistakes of a tactless person? /3. 不圆滑的人会犯什么错误？
+			12. The tactless person can never be made to understand this. /粗鲁的人永远无法理解这一点。
+		14. tactician
 			1. tactful
 	2. tactile
 		1. a. 触觉的, 有触觉的
 		2. dermotactile
 		3. tectilogical
 		4. tactual
-	4. contact, contingence
-		1. contingency
-		2. contingent
-			1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
-			2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [military unit](dic://military unit), [military force](dic://military force), [military group](dic://military group), [force](dic://force)
-			3. _adj._ [possible](dic://possible), [conditional](dic://conditional), [uncertain](dic://uncertain)
-			4. _n._ [impossible](dic://impossible), [unconditional](dic://unconditional), [certain](dic://certain), [sure](dic://sure)
-			5. **contingency**偶然发生的事故,意外事故;**cadre**干部;**sizable**相当大的;**sizeable**大的，相当大的;**troop**军队;**dependent**依靠的;**garrison**守备部队, 卫戍部队;**troops**部队;**battalion**营;
-			6. _contingent on_ 视…而定；取决于…
-			7. _contingent claim_ 未定权益；或有求偿权；附带要求
-			8. _contingent liability_ 或有负债；不确定债务；临时负债
-			9. a contingent was departing from Cairo. /一支小分队正从开罗出发。
-			10. A defeasible interest is insurable, as also is a contingent interest. /可撤销的利益是保险利益，偶然的利益亦然。
-	5. intact
+	3. contact
+		1. [physical contact](dic://physical contact)
+		2.  [impinging](dic://impinging), [striking](dic://striking)
+		3.  [middleman](dic://middleman)
+		4.  [liaison](dic://liaison), [link](dic://link), [inter-group communication](dic://inter-group communication)
+		5.  [tangency](dic://tangency)
+		6.  [touch](dic://touch)
+		7.  [contact lens](dic://contact lens)
+		8.  [reach](dic://reach), [get through](dic://get through), [get hold of](dic://get hold of)
+		9.  [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet)
+		10. _n._ [interaction](dic://interaction), [connection](dic://connection), [link](dic://link), [connectedness](dic://connectedness), [touch](dic://touch), [touching](dic://touching), [happening](dic://happening)
+		11. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+		12. [meet](dic://meet) 普通用词，本义指双方或多方从不同方向或相反方向作向对运动，最终相碰(遇)。  
+		13. [encounter](dic://encounter) 通常指遇到困难或挫折，也指偶然或意外地相遇。  
+		14. [confront](dic://confront) 不可避免的，面对面的相遇。也指敢于正视困难或问题的决心和信心。  
+		15. [face](dic://face) 侧重双方静止地面对面，或指指充满勇气、信心和决心正视人或事。  
+		16. [contact](dic://contact) 多指通过书信、电话或直接会面和别人联系。口语用词。 
+		17. **please**使高兴，使满意;**inquire**询问;**email**发电子邮件;**e-mail**电子邮件;**hesitate**踌躇，犹豫;**touch**接触;**information**消息;**call**呼叫;**send**发送，寄;**arrange**排列;**info**情报;
+		18. contingent
+			1. _adj._ 偶然（发生）的；（损失、责任等）附带的；以事实为依据的；依情况而变的  
+			2. _n._ （代表某一组织或国家的）代表团；（军队的）分遣队
+			3. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+			4. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [military unit](dic://military unit), [military force](dic://military force), [military group](dic://military group), [force](dic://force)
+			5. _adj._ [possible](dic://possible), [conditional](dic://conditional), [uncertain](dic://uncertain)
+			6. _n._ [impossible](dic://impossible), [unconditional](dic://unconditional), [certain](dic://certain), [sure](dic://sure)
+			7. **contingency**偶然发生的事故,意外事故;**cadre**干部;**sizable**相当大的;**sizeable**大的，相当大的;**troop**军队;**dependent**依靠的;**garrison**守备部队, 卫戍部队;**troops**部队;**battalion**营;
+			8. _contingent on_ 视…而定；取决于…
+			9. _contingent claim_ 未定权益；或有求偿权；附带要求
+			10. _contingent liability_ 或有负债；不确定债务；临时负债
+			11. Have the Scottish contingent arrived yet? /苏格兰代表团还没到吗？
+			12. a contingent was departing from Cairo. /一支小分队正从开罗出发。
+			13. A defeasible interest is insurable, as also is a contingent interest. /可撤销的利益是保险利益，偶然的利益亦然。
+			14.  Whether or not we arrive on time is  contingent on the weather. /我们是否按时到达要视天气情况而定。
+			15. The young heir's contingent of the estate was smaller than he had hoped for. /这位年轻的继承人所得的遗产份儿比他希望的要少。
+			16. While the bargainee enjoys the rights of possession, using and proceeds of object in terms of the contract as well obtains the contingent right /在买卖合同中约定所有权保留，使出卖人获得了一项担保物权，买受人则获得了一项有担保物权负担的所有权。
+		19. 1. contingency
+		20. contingence
+	10. intact
 		1. a. 尚未被人碰过的, 原封不动的, 完整的
 		2. in-不，非 + tact-接触，即没有接触的，引申词义完整的。
 		3. [integral](dic://integral), [entire](dic://entire)
@@ -79,12 +144,23 @@
 		12. The intact carcass of the prehistoric animal was prevented from putrefying by the arctic cold. /史前时期动物的完整尸体，是由于北极严寒的保护不致腐烂。
 		13. She refused his offer tactfully, allowing him to go away with his pride intact. /她很得体地拒绝了他的提议，让他能保全面子离开。
 		14. They left the fluids and organs intact. /他们完整地保留死者的体液和器官。
-	6. contagion
-		1. contagiosity, 
-		2. contagious
-		3. contagium
-		4. contiguity, contiguous
-	7. tangent, tangency, tangible
+	11. contagion [美 /kən'teɪdʒən/](cmd://Speak/_us_/contagion)
+		1. n. 触染, 触染病, 蔓延, 歪风
+		2. con-一起 + tag-接触 + -ion
+		3. _n._ [communicable disease](dic://communicable%20disease), [incident](dic://incident), [communication](dic://communication)
+		4. **pandemic**在全国流行的;**contagious**传染性的;**epidemic**流行的;**spreads**收益差;**outbreak**发作;**infection**传染;**catastrophe**大灾难;**virus**病毒;**plague**瘟疫;**spread**传播;**crisis**危机;
+		5. _emotional contagion_ 情绪感染
+		6. All virtual facing a seemingly never-ending contagion. /实际上，我们面对着一场似乎永不停止的传染病。
+		7. Well, I don't think it's a fear of contagion. There is contagion. /我不担心传染。存在传染。
+		8. contagiosity, 
+		9. contagious
+			1. _adj._ [infectious](dic://infectious)
+		10. _n._ [noninfectious](dic://noninfectious)
+		11. **infectious**传染的;**enthusiasm**热情, 热心;**incurable**不能医治的;**infected**被感染的;**infect**感染，传染;**epidemic**流行的;**virulent**剧毒的;**virus**病毒;**disease**病，疾病;**measles**麻疹;**herpes**疱疹;
+		12. _contagious disease_ 接触传染病
+		13. contagium
+		14. contiguity, contiguous
+	15. tangent
 		1. tangential
 		2. _adj._ [irrelevant](dic://irrelevant), [tangent](dic://tangent)
 		3. _n._ [relevant](dic://relevant)
@@ -95,18 +171,76 @@
 		8. _tangential force_ 切线力，切向力
 		9. _tangential component_ 切线分量；切向分量
 		10. _tangential strain_ 切向应变
-		11. subtangent, cotangent, 
-		12. intangible
-	8. tack
+		11. An application programmer must supply a tangent, binormal, and normal at each vertex. /程序员必须提供每个顶点的切线、副法线和法线。
+		12. Loretta's mind went off at a tangent . /洛蕾塔的思想突然离题了。
+		13. Another instance of disorganized thinking is derailment, where a person just goes on numerous and many unrelated tangents. /另一个思维混款的例子是“脱轨”，一个人就会把很多不相关的事情扯到一起。
+		14. That's ridiculous. Sheldon, I vote that is not a tangent. /太荒谬了。Sheldon，我投票那没有离题。
+		15. We didn't have to...that was clearly a tangent. Now come on. Back to work. If we're leaning towards quantum coupling...Aah! Why? /我们没必要投... 刚刚显然离题了。快点，回到正事上。如果我们倾向于量子耦合...啊！干嘛？
+		16. Okay, so wow, a lot of tangents today. /好吧，今天真是跑题跑了很多。
+		17. Anyway, that's just a quick tangent as to why I don't do live coding. /不过，这只是快速岔开一下为什么我不做实时编码的原因。
+		18. subtangent
+		19. cotangent
+		20.  tangency
+			1. _n._ [contact](dic://contact), [junction](dic://junction), [conjunction](dic://conjunction)
+			2. **tangent**切线的，相切的;**curvature**弯曲;**vertices**至高点;**vertex**顶点;**intersect**)相交;**equilibrium**平衡,均势;**convex**凸面的;**midpoint**中点;**intersecting**相叉的;**angle**角，角度;**symmetric**相称性的,均衡的;
+	16. tangible
+		1. tangible ['tæn(d)ʒɪb(ə)l] adj.有形的；切实的；可触摸的，n.有形资产。词根tang-表to touch（但二者词源上无关），因此tangible就是touchable，如tangible property有形资产。第一个看到复活的耶稣的人是Mary Magdalene，耶稣对她说：Noli me tangere.即Touch menot，因为耶稣尚未升上去见天父。
+		2. - 来自拉丁语 tangere,接触，触摸，来自 PIE*tag,接触，触摸，安排，词源同 integer,contact.
+		3. n. 可触知的东西, 有形资产  a. 可触摸的, 有实体的, 非相像的, 有形的, 明确的
+		4.  [touchable](dic://touchable)
+		5.  [real](dic://real)
+		6.  [palpable](dic://palpable)
+		7. _adj._ [tactile](dic://tactile), [tactual](dic://tactual), [concrete](dic://concrete), [real](dic://real), [realizable](dic://realizable), [perceptible](dic://perceptible)
+		8. _n._ [intangible](dic://intangible), [impalpable](dic://impalpable), [abstract](dic://abstract)
+		9. **intangible**难以捉摸的, 难以理解的, 无法确定的;**measurable**可测量的;**meaningful**有目的的,有用意的;**impactful**有效的,有力的;**real**真实的;**palpable**可感知的;**discernible**可识别的;**physical**身体的;**substantial**大量的;**compelling**引人注目的;**symbolic**使用符号的;
+		10. _tangible benefits_ 显著实惠，有形利益
+		11. _tangible asset_ 有形资产
+		12. _tangible and intangible assets_ 有形和无形资产；有形资产和无形资产
+		13. _tangible value_ 有形资产的价值
+		14. _tangible property_ 有形资产
+		15. _tangible proof_ 明确的证据；确实证据；可见证据
+	17. intangible
+	18. tack
 		1. tintack
 		2. thumbtack
 		3. tacky, takify
 		4. tacker
 		5. hardtack
-	9. take
+	19. take
 		1. uptake
 		2. undertake
+			1. _vt._ 担任，承揽；保证
+			2. 着手，开始. 
+			3. _v._ [initiate](dic://initiate), [pioneer](dic://pioneer), [confront](dic://confront), [face up](dic://face%20up), [face](dic://face), [promise](dic://promise), [assure](dic://assure)
+			4. **embark**上船或飞机;**perform**执行;**endeavour**尽力,竭力;**initiate**开始，创始;**commence**开始;**intend**打算;**conduct**行为;**require**要求;**organise**组织起来;**supervise**监督, 管理;**undergo**经历，经受;
+			5. _[undertake to](dic://undertake%20to)_  保证; 从事; 同意; 试图; 
+			6. _[undertaking unit bonus](dic://undertaking%20unit%20bonus)_  事业单位奖金税
+			7. _[undertaken by](dic://undertaken%20by)_  由……担任（undertaken是undertake的过去分词）; 由……承担（undertaken是undertake的过去分词）; 
+			8. _[undertaking simultaneous interpretation](dic://undertaking%20simultaneous%20interpretation)_  同声传译
+			9. _[undertook](dic://undertook)_  v. 承担（undertake的过去式）；着手做
+			10. _[undertake laps of honor](dic://undertake%20laps%20of%20honor)_  绕场一周向观众致意
+			11. _[undertake transfer of personnel](dic://undertake%20transfer%20of%20personnel)_  人员流动
+			12. _[undertake](dic://undertake)_  vt. 承担，保证；从事；同意；试图
+			13. _[undertake the responsibility for another](dic://undertake%20the%20responsibility%20for%20another)_  为别人担责任
+			14. _[undertake the preparation of](dic://undertake%20the%20preparation%20of)_  为 ... 做准备
+			15. Low levels of profitability mean there is a lack of incentive to undertake new investment. /利润率低意味着缺乏新投资的动力。
+			16. Their team will undertake exploration for oil. /他们队将着手进行石油勘探工作。
+			17. Their motives for undertaking this study are highly questionable. /他们承担这项研究的动机大有问题。
+			18. They have undertaken a reappraisal of pupils’ needs. /他们已经开始重新评价学生的需要。
 		3. partake
+			1.  [share](dic://share), [partake in](dic://partake in)
+			2.  [touch](dic://touch)
+			3. _v._ [share](dic://share), [get](dic://get), [acquire](dic://acquire), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take%20in), [take](dic://take)
+			4. **participate**参加, 参与;**indulge**迁就;**enjoy**喜爱;**revel**狂欢;**forgo**放弃;**attend**出席;**engage**雇佣;**participating**一起参加的;**abstain**放弃;**willingly**愿意地;**invite**邀请，招待;
+			5. _partake in_ 参加；分享
+			6. _partake of_ 吃光；带有；参加
+			7. They partake of beauty to varying degrees. /它们美的程度不一样。
+			8. Her daughters were eagerly called to partake of her joy. /她喜出望外，急急忙忙唤女儿们来分享她这种愉快。
+			9. They can recognize reason in others but they can't partake of it, they can't exercise it. /他们能认识到其他人的理性，但不能参与其中，他们无法运用理性。
+			10. Will you partake of a drink with us? /和我们一同喝一杯好吗?
+			11. His very clothes seemed to partake of the hospitable nature of the wearer. /他穿的衣服似乎也感染了穿者好客的天性。
+			12. Obviously not all highly intelligent people partake in these vices, but there is a real correlation /显然，并非所有高智商的人都有这些恶习，但两者之间确实存在关联。
+			13. There's nothing wrong with partaking in a healty diet of human blood from a blood bank. /喝血库里的人血属于健康食谱不算是做坏事。
 		4. overtake
 			1. vt. 赶上, 突然降临于, 压倒, 代替
 			2. [catch](dic://catch), [catch up with](dic://catch up with)
@@ -129,17 +263,33 @@
 		9. betake
 		10. takeup
 		11. takeover
+			1.  [coup d'etat](dic://coup d'etat), [coup](dic://coup), [putsch](dic://putsch)
+			2. _n._ [group action](dic://group%20action), [buyout](dic://buyout)
+			3. **merger**合并;**buyout**全部买下;**privatization**私有化;**restructuring**重组;**acquisition**获得物，获得;**mergers**兼并;**IPO**首次公开募股;**coup**政变;**liquidation**清偿,结算;**reorganization**改组;**shareholder**股东;
+			4. _hostile takeover_ 恶性接收；敌意接管
+			5. _takeover bid_ 收购行动；收购竞争；购并出价
+			6. _takeover offer_ 收购要约；收购建议
+			7. This apparently triggered the military takeover. /这显然是这次军事政变的导火线。
+			8. The radical group completed a lightning takeover. /The radical group completed a lightning takeover.
+			9. Was there ever even a real takeover being considered? /到底有没有过公司打算收购啊？
+			10. Top Scottish Twitter users flock to Mastodon amid Elon Musk's Twitter takeover. /埃隆·马斯克收购推特后，苏格兰高级推特用户纷纷涌向 Mastodon。
 		12. takeout
+			1.  [takeout food](dic://takeout food), [takeaway](dic://takeaway)
+			2.  [take-away](dic://take-away)
+			3. _n._ [convenience food](dic://convenience%20food), [bid](dic://bid), [bidding](dic://bidding)
+			4. _adj._ [portable](dic://portable)
+			5. _n._ [unportable](dic://unportable)
+			6. **takeaway**外卖的;**pizza**比萨饼;**sushi**寿司;**eatery**简便饮食店;**restaurant**饭店, 餐馆;**dinner**宴会;**meal**一餐，一顿饭;**diners**大莱卡;**bistro**小酒馆;**lunch**午餐;**food**食物;
 		13. takeoff
 		14. takeaway
 		15. breathtaking, painstaking
-	10. tango
+	23. tango
 		1. **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
 		2. [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
 		3. [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
 		4. 
-	11. tangram
-6. **tact-, tax-, = arrangement, -taxis = tend to ..**
+	24. tangram
+13. **tact-, tax-, = arrangement, -taxis = tend to ..**
 	1. chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
 		2. chemotactic, phototactic, thermotaxic
 	2. parataxis, paratactic, 
@@ -149,8 +299,8 @@
 		1. syntactic
 	5. taxidermal, taxidermy
 	6. taxology, taxonomy
-7. task
-8. tax
+14. task
+15. tax
 
 
 ### + \*tak- + = to be silent
@@ -174,7 +324,7 @@
 		14. reticency
 			1. n. 沉默寡言
 		15. reticently
-	3. tacit,
+	2. tacit
 		1. 1 - 来自拉丁语 tacere,安静，来自 PIE*tak,使安静，词源同 tacet.引申词义默许的等。
 		2. tacit ['tæsɪt] adj. 缄默的；不言而喻的；心照不宣的；默许的。词根tac-表be silent，tacit是完成分词形式，即silenced，然后分词作形容词，所以tacit可以理解做silent。
 		3. 1. _adj._ 缄默的,不说话的
@@ -184,16 +334,37 @@
 		7.  [implied](dic://implied), [silent](dic://silent), [understood](dic://understood)
 		8. _adj._ [implicit](dic://implicit), [inexplicit](dic://inexplicit)
 		9. **implicit**暗示的;**unspoken**未说出口的;**explicit**清楚的;**overt**明显的;**acknowledgment**承认;**complicity**合谋, 串通;**unequivocal**只有一种含意的;**acknowledgement**答谢的表示;**implicitly**含蓄地;**assent**赞成;**implied**暗示;
-		10. tacitly
+		10. _tacit knowledge_ 隐性知识；默会知识
+		11. _tacit understanding_ 默契
+		12. _tacit agreement_ 默示协议
+		13. _tacit cooperation_ 配合默契
+		14. _tacit approval_ 默认
+		15. **tacit knowledge**: 隐性知识；默会知识 
+		16. **tacit understanding**: 默契 
+		17. **tacit agreement**: 默示协议 
+		18. **tacit cooperation**: 配合默契 
+		19. **tacit approval**: 默认
+		20. " They have tacit permission, and probably also protection, " /“他们得到了（警察的）默许，可能还得到了（警察的）庇护。”
+		21. Something that is tacit is not said but is nevertheless understood. /不言而喻的事物就是不说出来却能被了解。
+		22. Unfortunately, tacit intelligence doesn't come naturally to most people. /不幸的是，大多数人的隐性智力并不是天生的。
+		23. So he says there is a tacit pressure to tip /所以他说给小费的压力是不言而喻的。
+		24. Something that is tacit is not spoken, not said, yet it is still understood. /不言而喻的事物就是不说出来但仍被了解。
+		25. tacitly
 			1. **implicitly**含蓄地;**explicitly**明白地,明确地;**reluctantly**不情愿地;**openly**公然地;**formally**正式地;**willingly**愿意地;**unwittingly**不知情地;**emphatically**断然地;**expressly**清楚地;**gleefully**极快乐地,欢欣地;**enthusiastically**热心地;
 			2. _adv._ [implied](dic://implied), [silent](dic://silent), [tacit](dic://tacit), [understood](dic://understood)
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
-	4. taciturn 
+			5. The health regulator, Monitor, tacitly concedes that the rules could be clearer. /卫生监管部门，Monitor，心照不宣地承认这些规则可以更明确。
+			6. He's supported at least tacitly by cleric Muqtada al-Sadr. Sadr is massively popular with poor Shiites. /至少他得到了宗教领袖穆克塔达·萨德尔的支持。萨德尔在贫穷的什叶派中很受欢迎。
+			7. The U.S., which has not yet ratified UNCLOS, tacitly abides by it but has not sought any mining contracts. /美国尚未批准《联合国海洋法公约》，但默默遵守了该公约，但没有寻求达成任何采矿合同。
+			8. And if you don't stand up and say the truth, you're tacitly endorsing the wrongdoer. /如果你不站出来说出真相，你就等于默认了做错事的人。
+			9. Most laypeople and many historians assume, expressly or tacitly, that the answer is yes. /大多数外行和许多历史学家明确或默认地认为答案是肯定的。
+	3. taciturn
 		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
-		2. - 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
-		3. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
-		4. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
+		2. 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
+		3. - adj. 沉默寡言的；无言的，不太说话的
+		4. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
+		5. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
 			1. _[voluble taciturn](dic://voluble%20taciturn)_ 健谈的
 			2. _[silent taciturn](dic://silent%20taciturn)_ 不说话
 			3. _[glib taciturn](dic://glib%20taciturn)_ 流利圆滑的
@@ -201,15 +372,18 @@
 			5. _[reticent taciturn](dic://reticent%20taciturn)_ 不爱交谈的
 			6. _[Taciturn knight](dic://Taciturn%20knight)_ 沉默寡言的骑士
 			7. _[a taciturn person](dic://a%20taciturn%20person)_ 沉默寡言的人
-		5. taciturnly
-		6. taciturnity
-			1. **demeanor**行为;**aloof**冷淡的;**countenance**面容，表情;**melancholy**忧郁, 悲哀;**brooding**沉思的;**indifference**不关心,不在乎;**solitude**孤独;**reverence**敬礼;**piety**虔诚;**disdain**蔑视;**politeness**有礼貌;
-			2. _n._ [uncommunicativeness](dic://uncommunicativeness)
-		7. _[volubility taciturnity](dic://volubility%20taciturnity)_ 沉默寡言; 口若悬河; 
-		8. _[windbag taciturnity](dic://windbag%20taciturnity)_ 饶舌的人
-		9. _[sometimes taciturnity itself](dic://sometimes%20taciturnity%20itself)_ 仅仅是静默
-		10. _[wear taciturnity calm](dic://wear%20taciturnity%20calm)_ 若即若离
-		11. _[blank mind and taciturnity](dic://blank%20mind%20and%20taciturnity)_ 神呆少言
+		6. He became a **taciturn** man, a man not easy to live with. Later, when the older children married and had children of their own, he mellowed a little /他变成了一个沉默寡言的人、一个不容易相处的人。后来，等大点的孩子们结了婚，也有了他们自己的孩子，他变得平和了些。
+		7. The King chafed bitterly over the stupendous indignity thus put upon his royalty, but Hendon was moody and **taciturn**. /国王对他的王权受到的巨大侮辱感到非常愤怒，亨顿更是憋住一肚子气，沉默寡言。
+		8. taciturnly
+		9. taciturnity
+			1. _n._ 沉默寡言
+			2. **demeanor**行为;**aloof**冷淡的;**countenance**面容，表情;**melancholy**忧郁, 悲哀;**brooding**沉思的;**indifference**不关心,不在乎;**solitude**孤独;**reverence**敬礼;**piety**虔诚;**disdain**蔑视;**politeness**有礼貌;
+			3. _n._ [uncommunicativeness](dic://uncommunicativeness)
+			4. _[volubility taciturnity](dic://volubility%20taciturnity)_ 沉默寡言; 口若悬河; 
+			5. _[windbag taciturnity](dic://windbag%20taciturnity)_ 饶舌的人
+			6. _[sometimes taciturnity itself](dic://sometimes%20taciturnity%20itself)_ 仅仅是静默
+			7. _[wear taciturnity calm](dic://wear%20taciturnity%20calm)_ 若即若离
+			8. _[blank mind and taciturnity](dic://blank%20mind%20and%20taciturnity)_ 神呆少言
 
 
 ### + \*tail- + = cut, 表示“剪，割”。
@@ -247,22 +421,42 @@
 	5. tailor-made
 	6. tailor-fashion
 	7. custon-tailor
-6. tally, tallying
-	1. **count**数数;**scoring**得分;**score**刻痕;**counting**计算，计数;**scored**得分，记分;**scores**考试成绩;**netted**网状的;**record**记录，记载;**scoreboard**记分板;**votes**投票;**points**
-	2. [run](dic://run)
-	3. [reckoning](dic://reckoning)
-	4. [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning)
-	5.  [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [agree](dic://agree)
-	6.  [score](dic://score), [hit](dic://hit), [rack up](dic://rack up)
-	7.  [chalk up](dic://chalk up)
-	8.  [total](dic://total), [tot](dic://tot), [tot up](dic://tot up), [sum](dic://sum), [sum up](dic://sum up), [summate](dic://summate), [tote up](dic://tote up), [add](dic://add), [add together](dic://add together), [add up](dic://add up)
-	9. _n._ [score](dic://score), [bill](dic://bill), [account](dic://account), [invoice](dic://invoice), [investigation](dic://investigation), [investigating](dic://investigating)
-	10. _v._ [equal](dic://equal), [be](dic://be), [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway)
+6. tally
+	1. n. 记录，得分；账单；<史>符木；（对树或植物进行说明的）标志牌，标签
+	2. v. 相符，吻合；计算，合计；（在游戏或体育运动中）得分，进球
+	3. 【名】 （Tally）（英）塔利（人名）
+	4. tally - tally昔时原指“计数筹”，中世纪时英国长期使用的一种计数工具。它是一个狭长的木签，上有刻痕表示数额，整个木签从中（即通过刻痕）被劈成相耦合的两半，借贷双方或交易双方各执一半作为凭证，以后若有争执就可验看两半是否吻合（made a tally）。据说有的tally长达8英尺。自威廉一世时代起，tally就一直被英国财政部用来作为记账的工具。到了17世纪这种费钱又费力的记账方式遭到猛烈抨击，但直到1834年英国财政部才把它废除。在贵族院内的暖气炉焚烧tallies时，由于暖气管过热引起了一场大火，竟把整座议会大厦也给焚毁了。  
+	5. tally源于拉丁词tallia（枝条），在经历了数百年之后，由原义“计数筹”产生出了若干引申义，如“计数”、“记录”、“比分”等，常和动词keep连用，作keep a tally of，也常用作动词，表示“记账”、“记分”或“符合”、“吻合”。对于了解tally的历史的人来讲，词义的这些演变和延伸是不难理解的。  
+	6. 例　England's tally at the moment is 15 points. (LDC) 英格兰队现在的得分是15分。  
+	7. Keep a tally of how many cars enter the lot each hour. (LAA) 记录一下每小时有多少车进入停车场。  
+	8. The computer tallied the votes automatically. (NED) 电脑自动计票。    
+	9. His account of the discovery of the body tallied with the testimony of his wife. (LLA) 他发现尸体的叙述与他妻子的证词相符。
+	10. **count**数数;**scoring**得分;**score**刻痕;**counting**计算，计数;**scored**得分，记分;**scores**考试成绩;**netted**网状的;**record**记录，记载;**scoreboard**记分板;**votes**投票;**points**
+	11. [run](dic://run)
+	12. [reckoning](dic://reckoning)
+	13. [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning)
+	14.  [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [agree](dic://agree)
+	15.  [score](dic://score), [hit](dic://hit), [rack up](dic://rack up)
+	16.  [chalk up](dic://chalk up)
+	17.  [total](dic://total), [tot](dic://tot), [tot up](dic://tot up), [sum](dic://sum), [sum up](dic://sum up), [summate](dic://summate), [tote up](dic://tote up), [add](dic://add), [add together](dic://add together), [add up](dic://add up)
+	18. _n._ [score](dic://score), [bill](dic://bill), [account](dic://account), [invoice](dic://invoice), [investigation](dic://investigation), [investigating](dic://investigating)
+	19. _v._ [equal](dic://equal), [be](dic://be), [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway)
+	20. _tally with_ 与…相符合
+	21. _tally up_ 总结；加一；结算
+	22. _medal tally_ 奖牌总数
+	23. Don’t forget to keep a careful tally of what you spend. /别忘了仔细记下你的开支账目。
+	24. I kept a running tally of David's debt on a note above my desk. /我把大卫的欠债流水账记录在我桌子上的一个纸条上。
+	25.  Your figures don’t tally with mine. /你的数字和我的不符。
+	26. The tally was two ayes and three nays. /投票结果是两票赞成, 三票反对。
+	27. The tally was three yeas and two nays, so the yeas have it. /投票结果是三票赞成两票反对, 投赞成票者胜利。
+	28. tallying
 
 
 ### tann- = tan，表示“鞣”。
 1. tannate
+	1. n. 丹宁酸盐
 2. tannic
+	1. a. 丹宁酸的, 得自鞣革的
 3. tannin
 	1. syntannins
 	2. quercitannin
@@ -278,14 +472,18 @@
 	3. [convert](dic://convert), [change over](dic://change over), [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
 	4. [chromatic](dic://chromatic)
 	5. untanned
+		1. a. 未晒黑的
 	6. tanyard
+		1. n. 鞣桶放置场, 制革厂
 	7. tannery
+		1. n. 制革厂, 硝皮厂
 	8. tanner
 	9. tannable
 	10. tanbark
 	11. tan-pickle
 	12. tan-ooze
 	13. suntan
+		1. n. 晒黑, 土黄色军服
 	14. retan
 	15. pretanning
 	16. overtanned
@@ -303,25 +501,27 @@
 	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
 	2. a. 慢的, 迟到的, 勉强的, 拖拉的, 迟的
 	3. 来自拉丁语 tardus,缓慢的，词源同 retard.
-5. tarry (parry, harry, tarry, marry)
-	1. v. 耽搁, 逗留  
-	2. a. 涂了焦油的
-	3. 来自阿拉伯语 tardare,延迟，迟缓，词源同tardy, retard。
-	4. 词源不详，可能来自阿拉伯语 tardare,延迟，迟缓，词源同 tardy,retard.
-	5. [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
-	6. [linger](dic://linger)
-	7. [pitchy](dic://pitchy), [resinous](dic://resinous), [resiny](dic://resiny)
-	8. _v._ [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
-	9. _adj._ [adhesive](dic://adhesive)
-	10. _n._ [nonadhesive](dic://nonadhesive)
-	11. **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
-	12. tarry stones from the garage roof /车库顶上涂了柏油的石头
-	13. she could tarry a bit and not get home until four /她可以再逗留一会直到四点再回家。
-	14. Yet tarry he could not, for the afternoon was now well spent /但他没法停留在此，这个是不愉快的下午。
-	15. I did as he directed and was instantly conscious of a strong tarry smell. /我依着去嗅，觉得有一股冲鼻的木馏油气味。
-	16. Transition being so facile, what can be any man's inducement to tarry in one spot? /过渡如此轻而易举， 有什么理由让任何人都停留在一个地方呢？
-	17.  We cannot tarry for the rites, " he whispered. /“我们不能耽误仪式，”他低声说。
-	18. 'His fault lay in beginning the tarrying system originally'. /“他的错在于最初开始了延期制度” 。
+4. tarry (parry, harry, tarry, marry)
+	1. tar
+		1. deru-
+	2. v. 耽搁, 逗留  
+	3. a. 涂了焦油的
+	4. 来自阿拉伯语 tardare,延迟，迟缓，词源同tardy, retard。
+	5. 词源不详，可能来自阿拉伯语 tardare,延迟，迟缓，词源同 tardy,retard.
+	6. [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+	7. [linger](dic://linger)
+	8. [pitchy](dic://pitchy), [resinous](dic://resinous), [resiny](dic://resiny)
+	9. _v._ [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+	10. _adj._ [adhesive](dic://adhesive)
+	11. _n._ [nonadhesive](dic://nonadhesive)
+	12. **linger**逗留, 徘徊;**ere**在…以前;**doth**从事;**dwell**居住;
+	13. tarry stones from the garage roof /车库顶上涂了柏油的石头
+	14. she could tarry a bit and not get home until four /她可以再逗留一会直到四点再回家。
+	15. Yet tarry he could not, for the afternoon was now well spent /但他没法停留在此，这个是不愉快的下午。
+	16. I did as he directed and was instantly conscious of a strong tarry smell. /我依着去嗅，觉得有一股冲鼻的木馏油气味。
+	17. Transition being so facile, what can be any man's inducement to tarry in one spot? /过渡如此轻而易举， 有什么理由让任何人都停留在一个地方呢？
+	18.  We cannot tarry for the rites, " he whispered. /“我们不能耽误仪式，”他低声说。
+	19. 'His fault lay in beginning the tarrying system originally'. /“他的错在于最初开始了延期制度” 。
 
 
 
@@ -4024,51 +4224,277 @@
 14. subtopia
 
 
+### touch- = touch, 表示“摸，碰”。
+1. touch
+	1. n. 触觉; 碰, 触; 修饰, 润色; 作风 风格; 一点儿, 少许  
+	2. v. 触摸, 碰; 接触; 吃, 喝; 感动, 触动; 影响, 与…有关; 比得上; 闪现, 掠过; 从事
+	3. 可能是模仿敲钟的声音的拟声词，后词义弱化为触摸，接触。
+	4. 来自古法语 tochier,touchier,触摸，触碰，击打，敲击，来自通俗拉丁语*toccare,敲击，击打，可能来自拟声词，模仿敲击的声音。或来自 PIE*tag,接触，词源同 tangent,contact.
+	5.  [touching](dic://touching)
+	6. [sense of touch](dic://sense of touch), [skin senses](dic://skin senses), [touch modality](dic://touch modality), [cutaneous senses](dic://cutaneous senses)
+	7.  [trace](dic://trace), [ghost](dic://ghost)
+	8. [signature](dic://signature)
+	9. [touching](dic://touching)
+	10.  [hint](dic://hint), [tinge](dic://tinge), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot), [speck](dic://speck), [soupcon](dic://soupcon)
+	11.  [contact](dic://contact)
+	12. [spot](dic://spot)
+	13. [touch sensation](dic://touch sensation), [tactual sensation](dic://tactual sensation), [tactile sensation](dic://tactile sensation), [feeling](dic://feeling)
+	14.  [stir](dic://stir)
+	15.  [refer](dic://refer), [pertain](dic://pertain), [relate](dic://relate), [concern](dic://concern), [come to](dic://come to), [bear on](dic://bear on), [touch on](dic://touch on)
+	16.  [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
+	17.  [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on)
+	18.  [reach](dic://reach), [extend to](dic://extend to)
+	19.  [equal](dic://equal), [rival](dic://rival), [match](dic://match)
+	20.  [disturb](dic://disturb)
+	21. [allude](dic://allude), [advert](dic://advert)
+	22. [partake](dic://partake)
+	23.  [tint](dic://tint), [tinct](dic://tinct), [tinge](dic://tinge)
+	24. _n._ [contact](dic://contact), [impinging](dic://impinging), [striking](dic://striking), [somatosense](dic://somatosense), [exteroception](dic://exteroception), [suggestion](dic://suggestion), [proposition](dic://proposition)
+	25. _v._ [perceive](dic://perceive), [comprehend](dic://comprehend), [affect](dic://affect), [impress](dic://impress), [move](dic://move), [strike](dic://strike), [change](dic://change)
+	26. [contact](dic://contact) 强调紧密接触的两个物体之间的相互关系。也可用作比喻。  
+	27. [touch](dic://touch) 指具体意义“接触”时，强调动作；表抽象意义时，侧重“联系”。
+	28. **contact**接触，联系;**tactile**触觉的，有触觉的;**finger**手指;**capacitive**电容性的;**warmth**温暖;**add**加;**feel**感觉;**swipe**猛击;**whimsy**怪念头;**elegance**典雅;**hint**暗示;
+	29. _in touch_ 联系；能达到的；在…的附近
+	30. _in touch with_ 同……有联系，和……有接触
+		1. Please keep in touch with me/ 请与我保持联络。
+		2. We are in touch with our Israeli counterparts. /我们正与以色列政府保持联系。
+		3. So calling someone a dinosaur means they're not in touch with the modern world /所以称呼某人为恐龙意思就是他们不太接触现代世界。
+	31. _keep in touch_ 保持联络
+	32. _touch screen_ 接触式屏幕；触感屏幕
+	33. _get in touch_ 取得联系 . _get in touch with_ 与…联系；和…接触
+		1. He didn't notify me how to get in touch with him. /他没有告诉我怎样跟他联系。
+		2. Terrific. Where do I get in touch with her? /太棒了 我去哪里找她？
+	34. _a touch of_ 有一点
+		1. His eyes twinkled, and there was even a touch of colour upon his sallow cheeks. /他的眼睛里闪烁着光彩，他菜色的面颊上甚至泛出了红晕。
+	35. _keep in touch with_ 与…保持联系
+	36. _touch on_ 提及；谈及
+	37. _one touch_ 第一次接触（英国女子组合甜心宝贝的专辑）
+	38. _stay in touch_ 保持联系
+	39. _do not touch_ 请勿触摸（警示语）
+	40. _touch panel_ 触控面板；触感控制板
+	41. _out of touch_ 失去联系；不来往的
+		1. I think these are out of touch of the real world. /我觉得这些都有点脱离现实世界。
+		2. I have been out of touch with everybody for a year. /我已经一年没有跟任何人联系了。
+		3. Many young people feel that politicians are out of touch. /很多年轻人觉得政治家与时代脱节了。
+	42. _touch upon_ 涉及；触及；谈及
+		1.  And the last thing I wanna touch upon is what we typically call tiger stripes./最后我想说的是我们通常所说的虎纹。
+		2. They touch upon themes of survival and loss, love and the lack of it, ambitions and their unsatisfied reality. /故事的主题包括了生存与死亡，爱与缺爱，野心与她们并不满足的现实。
+	43. _sense of touch_ 触觉，触感；触摸感
+	44. _finishing touch_ 最后一触，最后一笔；最后润色
+		1. This painting lacks the finishing touches. /这幅画尚欠润色。
+		2. I'll finish off this dress in a few minutes; I'm just giving it the last finishing touches. /"这件衣服几分钟就可做好了,我已经在收尾了。"
+	45. _human touch_ 人类接触
+	46. _lose touch_ 失去联系
+	47. _light touch_ 轻触；低干涉（一种经营模式）
+2. master-touch
+3. retouch
+	1. [touch up](dic://touch up)
+	2. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color%20in)
+	3. **sharpening**磨快,磨尖,磨刀,削尖,刃磨;**photo**照片;**make-up**化妆品;**resize**调整大小;**makeup**化妆品;**photograph**相片;**sharpen**变锋利;**editing**编辑的;**redo**重做;**straighten**弄直;**photos**照片，图片;
+	4. _[retouching pencil](dic://retouching%20pencil)_  修像铅笔
+	5. _[retouching medium](dic://retouching%20medium)_  修版液
+	6. _[retouching dye](dic://retouching%20dye)_  修版染料
+	7. _[retouching desk](dic://retouching%20desk)_  照片修
+	8. _[retouching chemical](dic://retouching%20chemical)_  照片修底药
+	9. _[retouching cabinet](dic://retouching%20cabinet)_  照片修底箱
+	10. _[retouching brush](dic://retouching%20brush)_  修版毛笔
+4. touch-stone
+5. touch-tone
+6. untouchability
+7. untouchable
+8. untouched
+	1. _adj._ [full](dic://full), [unaffected](dic://unaffected)
+	2. _n._ [empty](dic://empty), [affected](dic://affected), [touched](dic://touched)
+	3. **undisturbed**未受干扰的;**pristine**原始的，古时的;**intact**完整的;**unexplored**未经勘探的;**unchanged**无变化的;**uninhabited**无人居住的;**unaffected**不受影响的;**undeveloped**未开发的;**unused**从未用过的;**deserted**荒芜的;**undiscovered**未被发现的;
+	4. [untouchable](dic://untouchable) adj. 不可惩罚的；不许批评的；不可改变的；无法击败的；无法企及的 n. （印度社会的）贱民，不可接触者
+	5. [untouch](dic://untouch) vt. 没有接触；不可触摸
+	6. [touched](dic://touched) adj. 受感动的；精神失常的 v. 触摸（touch的过去式和过去分词）
+	7. _[leave untouched](dic://leave%20untouched)_  没有动过
+	8. _[untouched](dic://untouched)_  adj. 未受影响的；未改变的；未触动过的；不受感动的
+	9. Prague was relatively untouched by the war. /布拉格相对说来受战争影响不大。
+	10. She sent back her breakfast tray untouched. /她打发人将一盘她一口未动的早餐送回。
+	11. The miser was untouched by the poor man’s story. /那个吝啬鬼对那穷人的叙述无动于衷。
+	12. For some reason, though, the miners had left the site otherwise untouched /然而，由于某种原因，矿工们离开了现场，那里没有被人挖掘过。
+9. touch-type
+10. touchable
+11. touchdown
+	1. _n._ [score](dic://score), [landing](dic://landing)
+	2. **interception**拦截，截住;**fumble**摸索;**punt**踢悬空球;**kickoff**开始;**yards**码数;**scrimmage**混战;**quarterback**四分卫;**halftime**中场休息;**TD**财政部;**sideline**球场边线;**yardage**码数;
+	3. The crowd yelled when the hometown team scored a touchdown. /当他们自己的队得了底线分时, 人群高声呼喊起来。
+	4. The Sooners scored 5 touchdowns in the second quarter alone, and led 42-7 at halftime. /捷足者队仅在第二节就五次触底得分，并在半场时以42-7领先。
+12. touched
+13. toucher
+	1. Here. Try and go online. Problem with the WiFi? Just try. Greetings, hamburger toucher./ 试试看，上网。无线网坏了？试下就知道。你好汉堡亵渎者。
+	2. 
+14. touchhole
+15. touching
+16. touchless
+17. touchline
+	1. _n._ (足球场的)边线
+18. touchstone
+	1. _n._ [reference point](dic://reference%20point), [point of reference](dic://point%20of%20reference), [reference](dic://reference)
+	2. **quintessential**精髓的;**enduring**持久的;**indispensable**必不可少的, 必需的;**cornerstone**奠基石;**timeless**永恒的;**barometer**气压计, 晴雨表;**metaphor**隐喻;**nostalgia**对往事的怀恋, 怀旧;**foundational**基本的;**pivotal**关键的;**affirmation**肯定;
+	3. A man’s deed is the touchstone of his greatness or littleness. /行动是一个人伟大或者渺小的试金石。
+19. touchwood
+20. touchy
+	1.  [huffy](dic://huffy), [thin-skinned](dic://thin-skinned), [feisty](dic://feisty)
+	2.  [delicate](dic://delicate), [ticklish](dic://ticklish)
+	3. _adj._ [sensitive](dic://sensitive), [difficult](dic://difficult), [hard](dic://hard)
+	4. _n._ [insensitive](dic://insensitive), [easy](dic://easy)
+	5. **sensitive**易受伤害的，易损坏的;**contentious**容易引起争论的,好争论的;**thorny**痛苦的;**controversial**有争议的, 引起争议的;**taboo**禁忌;**tricky**机警的;**prickly**多刺的;**troublesome**令人烦恼的;**uncomfortable**不舒服的;**problematic**成问题的;**subject**主题;
+	6. They are touchy on the subject of religion and you have to pick your words carefully when talking about it. /他们对宗教问题很敏感,因此涉及这个问题时你说话要小心。
+	7. See the shadow, identify and monitor what things make you touchy and insecure. /看见阴影，识别并监测什么事情让你敏感、缺乏安全感。
+	8. I almost put five years for this one just 'cause they seemed so touchy. /我差点就选了五年，就因为他们看起来太敏感了。
+	9. Insecure touchy laughers, they always need reassurance. /有不安而敏感的笑，他们时常需要别人的回应和共鸣。
+	10. Pigs are a touchy subject in a lot of cultures around the world. /在世界各地的许多文化中，猪都是一个敏感的话题。
+
+
 ### tour-, torn-, tourn- = turn, 表示“转，环绕”。
 1. tourbillion
 2. tournament
+	1. n. 比赛, 竞赛, 锦标赛, 联赛
+	2. tournament（锦标赛）：中世纪的骑士比武大会  
+	3. 中世纪的欧洲盛行骑士比武大会。最早的比武大会一般认为诞生于法国，主要项目是马上长枪比武，即两个骑士手执长枪策马迎面对刺。在13世纪以前，骑士比武大会的军事气氛依然比较浓厚，显得非常的粗野残暴，有些时候几乎与真正的战争无异，参赛骑士所使用的武器都是战场上使用的开刃武器。可以说，一场骑士比武大会就是一场真实模拟战争的军事演习。到13世纪以后，骑士比武大会逐渐向庆典和仪式转变，参赛者往往以“秀”为主，通过表现自己的勇敢和武艺，来赢得观众中领主或女性的赏识或青睐。15世纪，骑士比武大会的各项程序和制度已经变得非常完备和复杂了，所用武器也与实战武器不同，增加了防护装置，长枪的枪头变成木制的。17世纪后，骑士比武大会逐渐淡出历史舞台。  
+	4. 英语单词tournament原本指的就是中世纪的骑士比武大会，来自法语tornement，由tornoier（长枪对刺）衍生而出，用来表示赛制类似中世纪骑士比武大会、需要经过多场比赛才能决定最终冠军的比赛，如锦标赛和联赛。单词tourney（锦标赛）也来源于此。  
+	5. tournament：['tʊənəm(ə)nt] n.锦标赛，联赛，比赛  
+	6. tourney：['tʊənəm(ə)nt] n.锦标赛vi.参加比赛
+	7. 来自古法语 tornement,一群骑士在马背上打斗，来自 tornoier,打斗，骑马长矛比武，字面意思即绕来绕去，转来转去，词源同 turn.-ment,名词后缀。后用于指中世纪时的武术比赛，再后用于指现代意义上的锦标赛，联赛等。
+	8. _n._ [contest](dic://contest), [competition](dic://competition)
+	9. **tourney**锦标赛;**championship**锦标赛,冠军赛;**quarterfinal**四分之一决赛的;**semifinal**半决赛;**semi-final**半决赛;**quarter-final**四分之一决赛 的;**game**游戏;**league**联盟;**playoff**延长赛;**matches**火柴;**qualifier**限定词，限定语;
+	10. _invitational tournament_ 邀请赛
+	11. _tournament committee_ 竞赛委员会
+	12. _open tournament_ 公开赛
+	13. _tournament director_ 竞赛主任；比赛指导
 3. tourniquet
-	1. **bandage**绷带;**gauze**薄纱;**catheter**导管;**suture**缝合;**bleeding**出血;**cuff**手铐;**clot**凝块;**medic**医师;**prosthesis**弥补;**amputation**截肢;**cannula**套管，插管;
-4. attorn, attorneyship
-	1. **attorney**代理人;**lawyer**律师;**counsel**忠告;**solicitor**律师;
+	1. n. 止血器, 压脉器
+	2. 来自法语 tourniquet,止血带，来自古法语 torner,转，包扎，词源同 turn.-et,小词后缀。
+	3.  [compression bandage](dic://compression bandage)
+	4. **bandage**绷带;**gauze**薄纱;**catheter**导管;**suture**缝合;**bleeding**出血;**cuff**手铐;**clot**凝块;**medic**医师;**prosthesis**弥补;**amputation**截肢;**cannula**套管，插管;
+	5. _n._ [bandage](dic://bandage), [patch](dic://patch)
+	6. _pneumatic tourniquet_ 充气止血带
+	7. Twist the tourniquet tighter /把止血带扎紧点。
+	8. She prepared to undo the band of cloth around his arm which had served as tourniquet. /她准备解开缠在他胳臂上止血的布带。
+	9. Andrew Turner teaches classes in how to apply a tourniquet. /安德鲁·特纳教授如何使用止血带的课程。
+4. attorn
+	1. 1. vt. 转让，让与
+	2. vi. 承认新地主
+	3. _v._ [admit](dic://admit), [acknowledge](dic://acknowledge)
+	4. **attorney**代理人;**lawyer**律师;**counsel**忠告;**solicitor**律师;
+	5. Both membership card cannot be attorn /会员卡内所储存球局不可转让。
+	6. The holder does not lend or attorn card. /1. 持卡者不能擅自转借、转让、退换会员卡。
+	7. B party isn't allowed to **attorn** or sale this production to any third party /乙方不能向任何第三方转让或销售此产品。
+	8. attorney
+		1.  [lawyer](dic://lawyer)
+		2. _n._ [professional](dic://professional), [professional person](dic://professional%20person)
+			1. [attorney](dic://attorney) 主要用于美国，指代理当事人处理遗嘱检验等法律事务的律师，有时可与lawyer通用，泛指辩护律师。  
+			2. [lawyer](dic://lawyer) 普通用词，指精通法律规则并有权以法律代理人或顾问身份在法庭上执行法律或为委托人服务的人。  
+			3. [counsel](dic://counsel) 指单独或集体为当事人提供咨询或出庭处理案件的法律顾问或律师。  
+			4. [advocate](dic://advocate) 专指以罗马法律的基本法制的一些国家的(如苏格兰等)和一些特别法庭的律师；也可指出庭辩护的律师。
+		3. **lawyer**律师;**solicitor**律师;**prosecutor**检举人;**counsel**忠告;**lawyers**律师;**accountant**会计人员;**litigation**打官司;**consultant**顾问;**legislator**立法者;**realtor**房地产经纪人;**barrister**律师;
+		4. _power of attorney_ 委托书
+		5. _attorney general_ 司法部长；首席检察官
+		6. _district attorney_ 美国地方检察官（略作D.A.）
+		7. _patent attorney_ 代理人，专利代理人；专利律师；特许弁护士
+		8. _letter of attorney_ n. 委任状
+		9. _prosecuting attorney_ 检察官
+		10. _state attorney_ （美）州检察官
+		11. _attorney at law_ 律师
+	9. attorneyship
 5. contour
-	1. n. 轮廓  
-	2. vt. 画轮廓  
-	3. a. 显示轮廓的
-	4. contours
-	5. contouring
-	6. contourgraph
-	7. contoured
+	1. 1 - con-,表强调，-tour,转，词源同 turn,tourism.
+	2. n. 轮廓  
+	3. vt. 画轮廓  
+	4. a. 显示轮廓的
+	5.  [contour line](dic://contour line)
+	6.  [shape](dic://shape), [form](dic://form), [configuration](dic://configuration), [conformation](dic://conformation)
+	7. _n._ [isometric line](dic://isometric%20line), [isometric](dic://isometric), [spatial property](dic://spatial%20property), [spatiality](dic://spatiality), [feature](dic://feature), [characteristic](dic://characteristic)
+	8. _v._ [delineate](dic://delineate), [limn](dic://limn), [outline](dic://outline)
+	9. **curves**曲线;**curvature**弯曲;**shading**明暗法;**shape**形状;**gradient**梯度;**ridge**山脉;**ridges**带钢单向皱纹;**curve**曲线;**topography**地志;**polygon**多边形;**slope**倾斜;
+	10. _contour line_ 轮廓线；等高线
+	11. _contour map_ 等高线图；等值线图
+	12. _depth contour_ 等深线；等海深线；等水深线
+	13. I ran my finger along the soft, curving contour of the child's cheek. /我抚摸着孩子柔和、轮廓深刻的面颊。
+	14. The optimum range of operational parameters were resulted by triaxial contour map and isohypse analysis. /通过三轴等值线图和等深线分析得出了操作参数的最佳范围。
+	15. It exhibits good wet handleability, is easily cut with scissors or a knife, can be applied directly to equipment with complex contours, and can also be used to fabricate flat sheets or boards. /它显示出较强的湿处理能力，并且可以很容易地用剪刀或小刀切割，它还可以以复杂的外形直接应用在机械装置上，或者用来制造平片或平板产品。
+	16. contours
+	17. contouring
+	18. contourgraph
+	19. contoured
 7. detour
+	1. de-加强动作 + tour → 转着走 → 迂回的路。
+	2.  de-,向下，离开，-tour,转，词源同 turn,tourism.即转开，迂回。
+	3.  [roundabout way](dic://roundabout way)
+	4. _n._ [road](dic://road), [route](dic://route)
+	5. _v._ [deviate](dic://deviate), [divert](dic://divert)
+	6. **route**按某路线发送;**trip**旅行;**road**道路;**roundabout**绕行路线, 绕道, 环状交叉路;**trek**艰苦跋涉;**stopover**中途停留;**excursion**远足, 短途旅行;**journey**旅行;**diversion**转移, 转向;**meandering**蜿蜒的河流,漫步,聊天;**path**小路;
+	7. _make a detour_ 迂回
+	8. We made a detour to avoid the heavy traffic. /我们绕道走, 避开繁忙的交通。
+	9. I would detour the endless stream of motor homes /我要绕过川流不息的度假旅宿汽车。
+	10. Signs directed traffic to a detour /路标将来往车辆引向绕行的路。
 8. entourage (ensemble, entourage)
-	1. n. 全体随行人员, 陪同人员
-	2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage)
-	3. **bodyguard**警卫员;**posse**一队;**escorting**护送者;**palace**宫殿;**chauffeur**司机;**backstage**在后台;**adoring**崇拜的;**companions**同伴;**limo**豪华轿车;**clique**派系;**advisers**顾问;
-10. tour
-	1. tourist, tourism
-	2. touring
-	3. tourer
+	1. en-进入，使 + tour-围 + -age。
+	2. n. 全体随行人员, 陪同人员
+	3. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage)
+	4. **bodyguard**警卫员;**posse**一队;**escorting**护送者;**palace**宫殿;**chauffeur**司机;**backstage**在后台;**adoring**崇拜的;**companions**同伴;**limo**豪华轿车;**clique**派系;**advisers**顾问;
+	5. _[entourage of building](dic://entourage%20of%20building)_  建筑配景
+	6. _[entourage](dic://entourage)_  n. 随从；周围；环境
+	7. Among his entourage was a retired general. /他的随行人员中有一位退休的将军。
+	8. Ladies and gentlemen of my entourage! /我亲爱的随从们!
+	9. The reply from Zelenskyy and his entourage was glory to the heroes. /泽伦斯基和他的随行人员还回答道，荣耀归于英雄。
+	10. Whenever he was seen abroad, he appeared as a superstar with his entourage. /每次他现身国外，周围都是警卫环绕，宛如巨星。
+	11. 11 days after setting off, Joan and her entourage, they finally arrived at Chinon. /出发 11 天后，贞德一行人终于抵达了希农。
+9. tour
+	1. [circuit](dic://circuit)
+	2.  [go](dic://go), [spell](dic://spell), [turn](dic://turn)
+	3.  [enlistment](dic://enlistment), [hitch](dic://hitch), [term of enlistment](dic://term of enlistment), [tour of duty](dic://tour of duty), [duty tour](dic://duty tour)
+	4. _n._ [journey](dic://journey), [journeying](dic://journeying), [shift](dic://shift), [work shift](dic://work%20shift), [duty period](dic://duty%20period), [time period](dic://time%20period), [period of time](dic://period%20of%20time)
+	5. _v._ [travel](dic://travel), [journey](dic://journey)
+		1. [journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+		2. [tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
+		3. [travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
+		4. [trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
+		5. [voyage](dic://voyage) 指在水上旅行，尤指海上旅行，也可指空中旅行。  
+		6. [excursion](dic://excursion) 较正式用词，常指不超过一天的短时期娱乐性游玩，也可指乘火车或轮船往返特定景点的远足旅游。  
+		7. [expedition](dic://expedition) 指有特定目的远征或探险。  
+		8. [cruise](dic://cruise) 主要指乘船的游览并在多处停靠。
+	6. **excursion**远足, 短途旅行;**trip**旅行;**concert**音乐会;**sightseeing**【U】观光;**itinerary**旅行计划，行程表;**trek**艰苦跋涉;**visit**访问;**guided**有指导的;**concerts**音乐会;**sold-out**全部预售完的;**gig**特约演奏;
+	7. _[tour of duty](dic://tour%20of%20duty)_  任期；服役期；值班
+	8. 
+	9. tourist, tourism
+	10. touring
+	11. tourer
 		1. **hatchback**装有向上开的后车门的小轿车;**coupe**小轿车;**sedan**轿车;**wheelbase**前后轮之车轮轴距离;**bike**自行车;**cruiser**巡洋舰;**seater**有座位的交通工具;**bikes**自行车;**saloon**酒馆;**sporty**运动比赛的;**sedans**箱式轿车;
-11. tourelle
-	1. 
+10. tourelle
+	1. 滚动装置
+	2. 回转炮塔
+	3. 
 
 
 ### + \*tolkw- + = to speak
 1. **loqu-, locu-** = speak, 表示“说话”。源自拉丁语 loqui "to speak."
-	1. locution
-		1. locutory
-		2. loquacious (loquacious, garrulous eloquent, )
+	1. locution [美 /lə'kjuːʃn/](cmd://Speak/_us_/locution)
+		1. n. 说话风格；惯用语
+		2.  [saying](dic://saying), [expression](dic://expression)
+		3. _n._ [speech](dic://speech), [speech communication](dic://speech%20communication), [spoken communication](dic://spoken%20communication), [spoken language](dic://spoken%20language), [language](dic://language), [voice communication](dic://voice%20communication), [oral communication](dic://oral%20communication)
+		4. **phrase**成语;**utterance**说话;**idiom**成语，习语;**colloquial**口语的, 会话的;**vernacular**【C】本地话;**adjective**形容词;**phrasing**分节法;**allusion**暗示;**phrases**短语;**remark**评论;**connotation**内涵;
+		5. _[reiterative locution](dic://reiterative%20locution)_  叠字
+		6. The third sense in which to say something can mean to do something concerns the consequential effects of a locution upon the hearer. 说话可以被看成做事的第三种意义，涉及话语对听话人产生的效果。
+		7. Ensure accordant **locution** (use words correctly). /确保一致的语言风格(词语使用正确)。
+		8. In modern Chinese reiterative **locution** and reduplication are likely to be confused. /现代汉语中，叠音词与重叠式很容易发生混淆。
+		9. In this latter situation and would never expect their designers gifted in sesquipedalian **locution** /有些情况下，设计师从来不需要考虑自己写一个字。
+		10. locutory
+		11. loquacious (loquacious, garrulous eloquent, )
 			1. loquacious [lə'kweɪʃəs] adj.饶舌的。词根loqu-谐音记作唠嗑，表说，后缀-acious表inclined to, abounding in，即话多的。美国历史上为人引用最多的政治演说是林肯总统在1863年11月19日的Gettysburg Address，全篇不到300字，不到3分钟。而林肯之前Edward Everett的演说则有13609字，用了2小时。
 			2. **chatty**饶舌的;**eloquent**雄辩的，有口才的;**boisterous**热闹的;**witty**诙谐的;**pompous**浮夸的;**opinionated**固执己见的,武断的;**feisty**活跃的;**brash**仓促的，性急的;**sarcastic**讽刺的;**flamboyant**显眼的, 浮夸的, 炫耀的;**enigmatic**谜的;
 			3. They were leaving, but it was amidst a loquacious outburst of admiration. /他们要离开了， 但那是在一片滔滔不绝的钦佩声中。
 			4. Offstage, Marceau was loquacious and in demand as a chat-show raconteur. /在台下，马索很健谈，是脱口秀中受欢迎的故事大王。
 			5. The latter gentleman was very loquacious, dwelling at much length upon our several good points and qualities. /后一位先生非常健谈，详尽地讲述了我们的一些优点和品质。
 			6. Would you guess women are more **loquacious** /你会认为女人更健谈吗？
-		3. locuacity
+		12. locuacity
 			1. **impatience**急躁;**utterance**说话;**intellect**智力;**temper**脾气;**wit**智力;**indignation**愤怒, 愤慨, 气愤;**arrogance**傲慢;**indifference**不关心,不在乎;**preoccupation**全神贯注，入神;**brevity**短暂，短促;**impotence**阳萎;
-		4. allocution
+		13. allocution
 			1. - n. 训示
-		5. circumlocution
+		14. circumlocution
 			1.  _n._ 迂回的话语
 			2. 托词，推诿的话
 			3. 累赘的话；累赘的说法, 
@@ -4078,7 +4504,7 @@
 			7. One apt word can be much clearer than a flurry of **circumlocution** /比起一连串迂回的解释，一个准确恰当的单词更能清楚地表达意思。
 			8. This sort of ritual **circumlocution** is common to many parts of mathematics. /这种繁冗的遁辞常见于数学的许多部分分式中。
 			9. But though I want to talk to you about the provinces for two hundred pages, I lack the requisite barbarity to make you undergo all the long-windedness and circumlocutions of a provincial dialogue. /但是，尽管我想用 200 页的篇幅与您谈论外省，但我缺乏必要的野蛮程度，无法让您经历外省对话的所有冗长和迂回曲折。
-		6. interlocution
+		15. interlocution
 			1. - n. 对话，交谈
 			2. interlocutory
 				1. _adj._ [dialogue](dic://dialogue), [dialog](dic://dialog), [duologue](dic://duologue)
@@ -4100,7 +4526,7 @@
 				4. Your usual interlocutors, there's that word again, will behave the same way. Just check it. /你平时的对话者（又是这个词）也会有同样的表现。看看就知道了。
 				5. Pray that I become a martyr, one attacker who assaulted passengers on a train with an axe and knife told his interlocutor. /一位在火车上用斧头和刀袭击乘客的袭击者告诉他的对话者，祈祷我成为一名烈士。
 				6. 
-		7. elocution, elocutionist
+		16. elocution, elocutionist
 			1. n. 朗诵法；演说法；雄辩术
 			2. _n._ [manner of speaking](dic://manner of speaking), [speech](dic://speech), [delivery](dic://delivery)
 			3. **recitation**背诵;**grammar**语法;**pronunciation**发音;**speech**演说;**singing**歌声;**lessons**课程;**manners**礼貌;**poise**平衡;**cookery**烹调术;**lectures**演讲，讲演;**pedagogy**教育学;
