@@ -500,7 +500,7 @@ These questions, from general to specific, speaks the path of what i think every
 
 
 ### What can I do after learning CS?
-↗ [Learning English the Right Way](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 ↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 #### Tech Careers
 

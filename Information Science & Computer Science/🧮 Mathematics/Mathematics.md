@@ -11,11 +11,11 @@
 ↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
 
-↗ [Philosophy](../../Macro-Knowledge/♂%20Philosophy/Philosophy.md)
-↗ [Arts & Cultures](../../Macro-Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
-- ↗ [Music](../../Macro-Knowledge/Arts%20&%20Cultures/Music/Music.md)
-↗ [Nature Science & Engineering](../../Macro-Knowledge/Nature%20Science%20&%20Engineering/Nature%20Science%20&%20Engineering.md)
-↗ [Economics & Finance](../../Macro-Knowledge/Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
+- ↗ [Music](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music.md)
+↗ [Nature Science & Engineering](../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/Nature%20Science%20&%20Engineering.md)
+↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Economics%20&%20Finance/Economics%20&%20Finance.md)
 
 ↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)

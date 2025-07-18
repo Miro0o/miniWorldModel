@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy](Macro-Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -67,8 +67,8 @@ Anti-fragile: Things That Gain From Disorder
 ##### 信息的组织：知识
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
-↗ [China 🇨🇳](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-↗ [United States 🇺🇸](Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 
 ###### 知识的分类：基于情感的知识和基于逻辑的知识
@@ -138,7 +138,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ### Overview: Human Society & Human History
-↗ [World's Human History Overview](Macro-Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
 ### Human Knowledges & Academic Discipline 🎓

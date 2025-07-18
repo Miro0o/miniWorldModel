@@ -2637,7 +2637,7 @@ https://www.1point3acres.com/bbs/thread-931508-1-1.html
 
 
 ### 🇸🇬 Singapore
-↗ [Singapore 🇸🇬](../../../../../Macro-Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Singapore%20🇸🇬.md)
+↗ [Singapore 🇸🇬](../../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Singapore%20🇸🇬.md)
 #### 👉 National University of Singapore (NUS)
 ##### School of Computing
 https://nusgs.nus.edu.sg/programmes/?faculty=Computing

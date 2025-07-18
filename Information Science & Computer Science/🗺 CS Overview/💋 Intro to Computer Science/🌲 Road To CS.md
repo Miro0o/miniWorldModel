@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Education](../../../Macro-Knowledge/Human%20Development/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development/Education/Education.md)
 
 
 
@@ -408,14 +408,14 @@ ACM CCS 2012
 
 
 ### 0️⃣ Before you hit the road ...
-↗ [Education](../../../Macro-Knowledge/Human%20Development/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development/Education/Education.md)
 
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
-↗ [Learning English the Right Way](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-- ↗ [外语学习误区及真实方法](../../../Macro-Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/外语学习误区及真实方法.md)
+↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -693,12 +693,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../../../Macro-Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../../../Macro-Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**

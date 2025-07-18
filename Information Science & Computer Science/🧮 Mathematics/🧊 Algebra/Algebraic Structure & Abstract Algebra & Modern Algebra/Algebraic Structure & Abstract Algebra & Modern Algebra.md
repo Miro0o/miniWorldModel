@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🎬【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=41&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -14,19 +18,21 @@
 🎬【太过详细-学霸莫入---近世代数---张禾瑞版】 https://www.bilibili.com/video/BV1Cz4y1Q7Mu/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+### Other Resources
+【求根公式如何被宣判死刑？伽罗瓦，生命为革命燃烧！【数学人物志&数学大问题04：伽罗瓦&群论】】 https://www.bilibili.com/video/BV1r8uKzbECL/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## Intro
 > 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
 > 🎬【群的定义--抽象代数 | 什么是群？】 https://www.bilibili.com/video/BV1ST4y1b7R5/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-
 ![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
-
 <small>The structure of algebra system</small>
 
 ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
-
 <small>【群环域串讲】 https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
+
 
 ### Overview
 | Algebraic structures                                         |
@@ -54,5 +60,4 @@ The collection of all structures of a given type (same operations and same laws)
 [离散数学3 - 代数结构]: https://www.cnblogs.com/zuti666/p/13579847.html
 
 [👍 伽罗华域（Galois Field）上的四则运算]: https://abcdxyzk.github.io/blog/2018/04/16/isal-erase-3/
-
 [👍 乘法逆元]: https://www.luogu.com.cn/blog/1239004072Angel/post-shuo-xue-sheng-fa-ni-yuan

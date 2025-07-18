@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
-↗ [Entertainment Industry](../../../../../Macro-Knowledge/Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Entertainment%20Industry/Entertainment%20Industry.md)
+↗ [Entertainment Industry](../../../../../Other%20Networks%20of%20Knowledge/Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Entertainment%20Industry/Entertainment%20Industry.md)
 
 
 ### Other Resources
