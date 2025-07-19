@@ -8411,6 +8411,20 @@
 		16. _take the plunge_ 冒险尝试；采取决定性步骤
 		17. _plunge pool_ n. 瀑布下的水潭
 		18. plunger
+		19. Bathers would go straight from the hot room to take a cold plunge. /游泳者从闷热的房间里走出来就直接跳进冷水。
+		20. He plunged from a tenth floor window /他从10 楼的窗户跳下。
+		21. The river takes a headlong plunge into a maelstrom of rocks and boulders. /河水急流而下， 入一个漂砾的漩涡中。
+		22. Can be earhole plunged into in the hospital? /医院里可以扎耳孔吗？
+		23.  The sudden stopping of the car plunged him forwards./汽车急刹车, 使得他猛地向前倾去。
+		24.  The rejection plunged her into the dark depths of despair./遭到拒绝使她陷入了绝望的深渊。
+		25. The rope broke, and the elevator plunged down to the ground. /缆绳断了, 电梯猛然掉到地面上。
+		26. The bus came off the road and plunged down an embankment. /公共汽车驶离了公路，冲下路堤。
+		27. Earlier this week, morning temps plunged to six below zero. /本周早些时候, 早间温度暴跌至零下6度。
+		28. YG Entertainment, his former label, has seen its valuation plunge since the scandal broke. /前东家韩国YG娱乐有限公司自胜利丑闻爆发以来，估值大幅下跌。
+		29. A shard of dragonglass plunged into your heart. /一片龙晶刺进你的心脏。
+		30.  You finally decided to take the plunge./你终于决定放手一搏了。
+		31. 'Well, suppose we take a plunge in the swimming pool? /" 那么，到游泳池里泡一泡怎么样？
+		32. Taking the plunge is the opposite of dipping your toes. /大胆一试与浅试一下正好相反。
 
 
 
@@ -8430,25 +8444,31 @@
 		3. pneumatodyspnea
 		4. liparodyspnea
 		5. spasmodyspoea
-	4. pneuma
+	4. pneuma [美 /ˈnumə/](cmd://Speak/_us_/pneuma)
 		1. n. 灵魂；精神；元气
-		2. pneumatic
+		2. The key function is enriching lung and kidney, beneficing **pneuma** /补益肺肾，秘精益气。
+		3. The **pneuma** and energy will work in balance when the energy center is activated /整个能量中心被激活，元气和能量在整个身体里平衡运行。
+		4. pneumatic
 			1. **hydraulic**液力的,液压的,水力学的;**mechanical**机械的, 力学的;**rotary**旋转的，转动的;**centrifugal**离心的;**pressurized**加压;**valve**阀;**piston**活塞;**compressor**压缩机;**pumps**泵;**vacuum**真空;**tubular**管状的;
-			2. pneumatics
-			3. pneumatically
-			4. apneumatic
-			5. etc..
-		3. pneumatology
+			2. This pneumatic tool will double the speed of assembly. /这个气动工具可以把装配速度提高一倍。
+			3. The machine has double revolving table cutterbar, pneumatic compact, high precision of process and saw cutting at the same time. /双转台切割机，气动压紧，双锯头同时切割，加工精度高。
+			4.  The pneumatic boat can hold five people at the very most. /这条气垫船最多只能坐五个人。
+			5. Noiseless on his pneumatic shoes, the man came up behind him. /那人的气垫鞋没有声音，悄悄来到了他的身后。
+			6. pneumatics
+			7. pneumatically
+			8. apneumatic
+			9. etc..
+		5. pneumatology
 			1. n. 灵物学，圣灵说；气体力学
-		4. pneumatotherapy
+		6. pneumatotherapy
 			1. _n._ 空气疗法(一种用稀薄或压缩空气治疗的方法)
-		5. pneumobilia
-		6. pneumocystis
-		7. pneumocyte
-		8. pneumograph
-		9. pneumoperitoneum
-		10. pneumotachometer
-		11. pneumothorax
+		7. pneumobilia
+		8. pneumocystis
+		9. pneumocyte
+		10. pneumograph
+		11. pneumoperitoneum
+		12. pneumotachometer
+		13. pneumothorax
 	5. tachypnea
 3. **sn-** 表示“鼻”或“和鼻子相关的如：闻”等。
 	1. sneeze, sneezy
@@ -8460,7 +8480,7 @@
 		6. _v._ [act involuntarily](dic://act involuntarily), [act reflexively](dic://act reflexively)
 		7. **cough**咳嗽，咳嗽声;**coughing**咳嗽;**fart**屁，放屁;**vomit**吐出;**inhale**吸入;**giggle**傻笑;**yawn**哈欠;**puke**吐剂;**laugh**笑;**stink**臭味;**sinuses**鼻窦;
 	3. snicker
-		1. n. 窃笑  
+		1. n. 窃笑
 		2. v. 窃笑; 嘶鸣
 		3. 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer, snore, snicker, sniff, snuff.引申词义窃笑，暗笑。-er,表反复。
 		4.  [snort](dic://snort), [snigger](dic://snigger)
@@ -8469,11 +8489,28 @@
 		7. _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
 		8. **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**gasp**喘息;**smirk**傻笑;**shudder**震动;**cringe**畏缩;**grin**露齿而笑，咧着嘴笑;**groan**呻吟;**sigh**叹息，叹气;**yawn**哈欠;
 	4. snitch
+		1. v. 告密, 打小报告; 偷  
+		2. n. 告密者; 打小报告的人
+		3. 1 - 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.拼写可能受 snatch影响。引申比喻义告密者及相关动词词义。
 	5. snick
+		1. n. 刻痕, 削球  vt. 刻痕于, 割开, 猛击
 	6. snifter
+		1. - sniff,闻，嗅，-ter,表名词。引申比喻义酒杯，一口酒，一杯酒。
+		2. n. 狭口大肚酒杯, 一口酒
 	7. snippet
+		1. n. 小片, 片断, 摘录
+		2.  snip,剪断，-et,小词后缀。引申诸相关词义。
 	8. snide
+		1. a. 刻毒的, 恶意的
+		2. - 可能来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申词义讽刺的，挖苦的。
 	9. snipe
+		1. n. 狙击; 沙锥（鸟）  
+		2. v. 狙击; 指谪, 抨击
+		3. sniper（狙击手）：善于猎杀鹬鸟的人  
+		4. 英国殖民印度时期，英国殖民者喜欢到印度乡间打猎，其中一种常见的猎物是鹬鸟（Snipe）。这种鸟行动敏捷，警觉性很高，极难被猎杀。猎人需要伪装埋伏，借助高精度步枪和精准的射击技术才能猎到鹬鸟。因此，人们便将这些枪法出众、善于猎杀鹬鸟的人称为sniper（猎鹬者）。在战场上，狙击手通过伪装埋伏远距离射杀敌人的方式非常类似猎杀鹬鸟，因此人们便用sniper一词来表示狙击手。而原本表示“鹬鸟”一词的snipe，也反向派生出“狙击”的含义。  
+		5. sniper：['snaɪpə] n.狙击手  
+		6. snipe：[snaɪp] n.狙击；鹬，香烟屁股，被开玩笑的人物v.狙击，伏击，猎鸟
+		7. sniper ['snaɪpə] n.狙击手。中世纪英国人生活其实很苦，没啥肉可吃，但是森林多，所以时不时捕鸟解解馋。但是snipe [snaɪp] n.鹬鸟，感觉异常灵敏，所以很不好捉到，即使步枪发明后，枪手也需要隐蔽的很好才可能不被发现，所以sniper狙击手（猎捕snipe之人），多单独活动，用树枝和山石等来隐蔽。
 	10. sniff
 		1. . 抽鼻子（声）, 嗅, 闻; 感觉, 察觉; 微小的可能性  
 		2. v. （因哭泣或感冒）抽鼻子; 嗅, 闻; 嗤之以鼻地说, 轻视
@@ -8500,15 +8537,15 @@
 		11. sniffing
 		12. sniffer
 		13. pecksniff, pecksniffian
-	5. snigger
-		1. vi. 窃笑  
+	11. snigger
+		1. vi. 窃笑
 		2. n. 窃笑, 暗笑
 		3. [snicker](dic://snicker), [snort](dic://snort)
 		4. [snicker](dic://snicker)
 		5. _n._ [laugh](dic://laugh), [laughter](dic://laughter)
 		6. _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
 		7. **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**cringe**畏缩;**groan**呻吟;**smirk**傻笑;**shudder**震动;**gasp**喘息;**daft**愚蠢可笑的;**yawn**哈欠;**amused**愉快的，顽皮的;
-	7. snivel
+	12. snivel
 		1. vi. 流鼻涕, 哭泣  
 		2. n. 流鼻涕, 哭泣, 假哭
 		3.  [sniveling](dic://sniveling)
@@ -8524,7 +8561,7 @@
 		12. sniveler
 			1. [sniffler](dic://sniffler)
 			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
-	8. snub
+	13. snub
 		1. (spurn, rebuff, refuse, snub, repel, reject,)
 		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		3. n. 冷落, 怠慢, 斥责, 制止  
@@ -8539,7 +8576,7 @@
 		12. _adj._ [short](dic://short)
 		13. _n._ [long](dic://long)
 		14. **blunder**的错误;
-	10. snarl
+	14. snarl
 		1. v. 咆哮, 吼叫, 怒骂; 缠结, 搞乱  
 		2. n. 咆哮, 吼叫, 怒骂; 缠结, 混乱
 		3. 拟声词，模仿怒吼的声音。  
@@ -8557,7 +8594,7 @@
 			2. [complicate](dic://complicate), [perplex](dic://perplex)
 		14. ensnarl
 			1. [enmesh](dic://enmesh), [mesh](dic://mesh)
-	11. snug
+	15. snug
 		1. 词源不详，原指把船上物品压紧，弄实，使结实，可能来自古丹麦语 snog,整洁的。引申词义偎依，躺，卧，雅室等相关词义
 		2.  [cubby](dic://cubby), [cubbyhole](dic://cubbyhole), [snuggery](dic://snuggery)
 		3.  [close](dic://close), [close-fitting](dic://close-fitting)
@@ -8571,20 +8608,20 @@
 		11. a snug little sailboat. /建造得很紧密的小帆船
 		12. He gets quite a snug income in his job. /他工作的收入相当可观。
 		13. He showed us into a snug little sitting room /他领我们走进了一间温暖而舒适的小客厅。
-	12. snag
+	16. snag
 		1. (snag, hitch, glitch, flaw, rub, hang-up)
 		2. n. (尖利的)突出物, (衣服等的)戳破处; 问题, 困难, 障碍, 麻烦  vt. 钩住, 钩破; 抓住机会, 抢到
-	13. snap
+	17. snap
 		1. vt. 使突然中断, 猛咬, 争夺, 拉断, 使有啪啪声, 厉声说, 突然射击, 用快照拍摄  
 		2. vi. 咬, 扑, 抓, 折断, 劈啪地响, 厉声说, 砰然关上  
 		3. n. 猛咬, 猛扑, 劈啪声, 申斥, 快照, 活力, 一般时期的寒冷天气, 揿钮  
 		4. a. 突然的, 装搭扣的  
 		5. ad. 猛地
 		6. 来自荷兰语或低地德语 snappen,咬，抓住，来自 West-Germanic*snu-,鼻子发出的呼哧声，用力抓或咬时的喘气声，词源同 snack,snatch.引申诸相关词义。
-	14. snatch
+	18. snatch
 		1. vt. 抢走; 偷窃; 乘机获得  
 		2. n. 抢夺, 偷窃; 只言片语; 女性阴部
-	15. sneer
+	19. sneer
 		1. n. 冷笑, 嘲笑  
 		2. vi. 嘲笑, 冷笑  
 		3. vt. 嘲笑着说, 嘲笑得使
@@ -8592,7 +8629,7 @@
 		5. sneeringly
 		6. sneering
 		7. sneerer
-	16. snob (这个单词本来不应该属于sn-)
+	20. snob (这个单词本来不应该属于sn-)
 		1. snob（势利眼）：对平民大学生的蔑称  
 		2. 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
 		3. snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
@@ -8617,12 +8654,12 @@
 		16. snobbery
 			1. _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 			2. **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
-	17. snorkel
-	18. snore, snorer
-	19. snot
+	21. snorkel
+	22. snore, snorer
+	23. snot
 		1. snotty
 		2. snotrag
-	20. snort
+	24. snort
 		1.  [snicker](dic://snicker), [snigger](dic://snigger)
 		2.  [boo](dic://boo), [hoot](dic://hoot), [Bronx cheer](dic://Bronx cheer), [hiss](dic://hiss), [raspberry](dic://raspberry), [razzing](dic://razzing), [razz](dic://razz), [bird](dic://bird)
 		3.  [huff](dic://huff)
@@ -8634,7 +8671,7 @@
 		9. he gave a snort of disgust /他厌恶地哼了一声。
 		10. snorted cocaine /吸食柯卡因
 		11. snorty
-	21. snout, snouted
+	25. snout, snouted
 		1. 自中古低地德语 snute,鼻子，口鼻部，来自 Proto-Germanic*snut,鼻子，拟声词，模仿鼻子发出的声音。引申诸相关词义。
 		2. n. 鼻口部, 鼻子, 口吻状物, 烟草
 		3. [neb](dic://neb)
@@ -8642,14 +8679,14 @@
 		5.  [rostrum](dic://rostrum)
 		6. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		7. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
-	22. snoop
+	26. snoop
 		1. 1 - 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申比喻义打探，打听。
 		2. vi. 调查, 窥探   n. 窥视行为, 爱管闲事的人, 私家侦探
 		3. snoopy
 		4. snooperscope
 			1. n. 夜望镜
 		5. snooper
-	23. snuff
+	27. snuff
 		1. n. 鼻烟  
 		2. vt. 出声地嗅, 通过鼻子吸入; 掐灭, 闷熄, 熄灭（小火苗）
 		3. 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申词义鼻烟。
@@ -8690,22 +8727,23 @@
 
 ## po
 ### pock- = sack，表示“袋”。
-1. poach (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
-	1. vt. 水煮(蛋), 偷猎, 侵入, 窃取  
-	2. vi. 偷猎, 陷入泥中
-	3. 1 - 来自古法语 pochier,放入口袋，包起来，来自 poche,包，包裹，来自 Proto-Germanic*puk,袋子，来自 PIE*bu,beu,鼓起，膨胀，词源同 ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。  
-	4. 2 - 词源不确定，可能来自法语 pocher,装入口袋，词源同 poach.或来自古法语 pochier,刺，捅，词源同 poke.引申词义越界，偷猎，偷捕。
-	5. poaching
-	6. poacher
-	7. poach a start in a race /在比赛中抢跑
-	8. Poach the fish in wine. /以酒烹调鱼
-	9. poach for fresh ideas /(从他人著作中)盗取新观点
-	10. He poached an egg for breakfast. /他的早饭是水煮荷包蛋。
-	11. poach in other people's business /侵犯别人的领域
-	12. He has been poaching on her land for years, poaching mainly fish and rabbits. /数年来他一直在她的土地上偷猎, 主要捕鱼和偷猎兔子。
-	13. The swamp country is inclined to poach in winter. /这片沼泽地带在冬季一踏就陷下去了。
-	14. Also important are the protection of water supplies, the control of poaching, and improved monitoring of equid populations. /另外，保护水源、阻止盗猎，以及提升监测野生马族群的技术，也都是亟待进行的工作。
-3. pock (freckle) (poke)
+1. poach
+	1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, crutch, broche )
+	2. vt. 水煮(蛋), 偷猎, 侵入, 窃取  
+	3. vi. 偷猎, 陷入泥中
+	4. 1 - 来自古法语 pochier,放入口袋，包起来，来自 poche,包，包裹，来自 Proto-Germanic*puk,袋子，来自 PIE*bu,beu,鼓起，膨胀，词源同 ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。  
+	5. 2 - 词源不确定，可能来自法语 pocher,装入口袋，词源同 poach.或来自古法语 pochier,刺，捅，词源同 poke.引申词义越界，偷猎，偷捕。
+	6. poaching
+	7. poacher
+	8. poach a start in a race /在比赛中抢跑
+	9. Poach the fish in wine. /以酒烹调鱼
+	10. poach for fresh ideas /(从他人著作中)盗取新观点
+	11. He poached an egg for breakfast. /他的早饭是水煮荷包蛋。
+	12. poach in other people's business /侵犯别人的领域
+	13. He has been poaching on her land for years, poaching mainly fish and rabbits. /数年来他一直在她的土地上偷猎, 主要捕鱼和偷猎兔子。
+	14. The swamp country is inclined to poach in winter. /这片沼泽地带在冬季一踏就陷下去了。
+	15. Also important are the protection of water supplies, the control of poaching, and improved monitoring of equid populations. /另外，保护水源、阻止盗猎，以及提升监测野生马族群的技术，也都是亟待进行的工作。
+2. pock (freckle) (poke)
 	1. 来自古英语 pocc,脓肿，水泡，来自 Proto-Germanic*puk,袋子，来自 PIE*beu,鼓起，膨胀，词源同 poach,pouch.引申词义痘痕，麻子，小洞，小坑等。
 	2. n. 痘痕；麻子
 	3. vt. 使有麻点
@@ -8717,7 +8755,7 @@
 	9. But these fabrics turned brittle and were pocked with holes after deep-freeze storage /但这些织物在深度冷冻储存后变脆并布满破洞。
 	10. The district is **pock**-marked with caves. /这个地区布满了坑洞。
 	11. Many officers said their biggest challenge was staying upright on the city's bumpy and sometimes **pock**-marked roads /很多警察称，穿着冰鞋在该市崎岖不平、有时还坑坑洼洼的路面上站稳是他们面临的最大挑战。
-4. pockmark
+3. pockmark
 	1. _n._ [scar](dic://scar), [cicatrix](dic://cicatrix), [cicatrice](dic://cicatrice)
 	2. _v._ [scar](dic://scar), [mark](dic://mark), [pock](dic://pock), [pit](dic://pit)
 	3. **craters**火山口;**scars**疤痕;**scarred**伤痕累累，有疤痕的;**scar**给留下伤痕;**crater**坑;**jagged**锯齿状的;**unsightly**不悦目的;**sunken**沉没的;**potholes**凹坑;**blackened**涂上辣椒粉和调味品后油炸的;**pore**毛孔;
@@ -8727,38 +8765,40 @@
 	7. You can see the pockmarks of heavy weaponry around those windows. /你可以看到重型武器对这些窗户造成的破坏。
 	8. From a helicopter, he viewed neighborhoods in the town of Mayfield pockmarked by piles of debris and homes without roofs. /坐在直升飞机上，他看到了梅菲尔德镇的一些社区，那里到处是成堆的瓦砾和没有屋顶的房屋。
 	9. She talks about pale cement paths that slice green lawns into polygonal fragments and walls of brown brick pockmarked by centuries of history. /她谈到了将绿色草坪切成多边形碎片的浅色水泥小路，以及布满数百年历史痕迹的棕色砖墙。
-5. pocket
-6. pouch
-	1. 来自古法语 poche,钱包，口袋，词源同 pocket,poach.
-	2.  [sac](dic://sac), [sack](dic://sack), [pocket](dic://pocket)
-	3.  [pocket](dic://pocket)
-	4.  [bulge](dic://bulge), [protrude](dic://protrude)
-	5. _n._ [bag](dic://bag), [cavity](dic://cavity), [enclosed space](dic://enclosed space), [sac](dic://sac)
-	6. _v._ [bag](dic://bag), [mail](dic://mail), [get off](dic://get off), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
-	7. **bag**袋;**pocket**口袋;**zippered**拉链式的;**drawstring**拉带,细绳;**backpack**远足用的背包;**zipper**拉链;**purse**钱包，小钱袋;**tote**携带;**handbag**手提包;**strap**用带捆绑;**compartment**间隔, 隔间;
-	8. _retort pouch_ 蒸煮袋；杀菌袋
-	9. _tobacco pouch_ 烟草袋
-	10. _brood pouch_ 育仔囊；育儿袋
-7. pucker
-	1.  来自 pock,鼓起，口袋，词源同 pocket.-er,表反复。后引申词义皱起，噘嘴等。
-	2. vt. 折叠；使起皱；使缩拢 
-	3. vi. 折叠；皱起；缩拢 
-	4. n. 皱纹；皱褶
-	5.  [ruck](dic://ruck)
-	6.  [rumple](dic://rumple), [cockle](dic://cockle), [crumple](dic://crumple), [knit](dic://knit)
-	7.  [gather](dic://gather), [tuck](dic://tuck)
-	8. [ruck](dic://ruck), [ruck up](dic://ruck up)
-	9. _n._ [fold](dic://fold), [crease](dic://crease), [plication](dic://plication), [flexure](dic://flexure), [crimp](dic://crimp), [bend](dic://bend)
-	10. _v._ [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
-	11. **lips**嘴唇;**cheeks**面颊;**cheek**面颊，脸颊;**wrinkle**皱纹;**kiss**吻;**bulge**膨胀, 肿起;**lip**嘴唇;**tongue**语言;**crotch**胯部，分叉处;**plump**丰满的;**chin**下巴;
-	12. _[pucker up](dic://pucker%20up)_  使…缩拢；发脾气
-	13. _[seam pucker](dic://seam%20pucker)_  缝骨起皱
-	14. pucker a piece of cloth
-	15. a pucker between his eyebrows /他眉间的皱纹。
-	16.  pucker up at the shoulders /(衣服)肩部皱起
-	17. His brow puckered for a brief moment. " Incredulous, for the most part." /那一瞬间，他的额头皱了起来：“不靠谱，大部分是这样。”
-	18. Her lips puckered in disappointment at the transparent honesty in my voice /她撅起嘴，对我话里再明白不过的坦诚很是失望。
-	19. His face puckered, and then he finally chuckled. You're playing baseball? /他皱起脸，最终轻笑起来。“你要打棒球？”
+4. pocket
+5. pouch
+	1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, crutch, broche )
+	2. 来自古法语 poche,钱包，口袋，词源同 pocket,poach.
+	3.  [sac](dic://sac), [sack](dic://sack), [pocket](dic://pocket)
+	4.  [pocket](dic://pocket)
+	5.  [bulge](dic://bulge), [protrude](dic://protrude)
+	6. _n._ [bag](dic://bag), [cavity](dic://cavity), [enclosed space](dic://enclosed space), [sac](dic://sac)
+	7. _v._ [bag](dic://bag), [mail](dic://mail), [get off](dic://get off), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
+	8. **bag**袋;**pocket**口袋;**zippered**拉链式的;**drawstring**拉带,细绳;**backpack**远足用的背包;**zipper**拉链;**purse**钱包，小钱袋;**tote**携带;**handbag**手提包;**strap**用带捆绑;**compartment**间隔, 隔间;
+	9. _retort pouch_ 蒸煮袋；杀菌袋
+	10. _tobacco pouch_ 烟草袋
+	11. _brood pouch_ 育仔囊；育儿袋
+6. pucker
+	1. (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+	2.  来自 pock,鼓起，口袋，词源同 pocket.-er,表反复。后引申词义皱起，噘嘴等。
+	3. vt. 折叠；使起皱；使缩拢 
+	4. vi. 折叠；皱起；缩拢 
+	5. n. 皱纹；皱褶
+	6.  [ruck](dic://ruck)
+	7.  [rumple](dic://rumple), [cockle](dic://cockle), [crumple](dic://crumple), [knit](dic://knit)
+	8.  [gather](dic://gather), [tuck](dic://tuck)
+	9. [ruck](dic://ruck), [ruck up](dic://ruck up)
+	10. _n._ [fold](dic://fold), [crease](dic://crease), [plication](dic://plication), [flexure](dic://flexure), [crimp](dic://crimp), [bend](dic://bend)
+	11. _v._ [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+	12. **lips**嘴唇;**cheeks**面颊;**cheek**面颊，脸颊;**wrinkle**皱纹;**kiss**吻;**bulge**膨胀, 肿起;**lip**嘴唇;**tongue**语言;**crotch**胯部，分叉处;**plump**丰满的;**chin**下巴;
+	13. _[pucker up](dic://pucker%20up)_  使…缩拢；发脾气
+	14. _[seam pucker](dic://seam%20pucker)_  缝骨起皱
+	15. pucker a piece of cloth
+	16. a pucker between his eyebrows /他眉间的皱纹。
+	17.  pucker up at the shoulders /(衣服)肩部皱起
+	18. His brow puckered for a brief moment. " Incredulous, for the most part." /那一瞬间，他的额头皱了起来：“不靠谱，大部分是这样。”
+	19. Her lips puckered in disappointment at the transparent honesty in my voice /她撅起嘴，对我话里再明白不过的坦诚很是失望。
+	20. His face puckered, and then he finally chuckled. You're playing baseball? /他皱起脸，最终轻笑起来。“你要打棒球？”
 
 
 ### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。

@@ -994,22 +994,24 @@
 ## sc
 ### scen- 表示“舞台”。
 1. obscene
-	1. [abhorrent](dic://abhorrent), [detestable](dic://detestable), [repugnant](dic://repugnant), [repulsive](dic://repulsive)
-	2.  [lewd](dic://lewd), [raunchy](dic://raunchy), [salacious](dic://salacious)
-	3. _adj._ [indecent](dic://indecent), [offensive](dic://offensive), [dirty](dic://dirty)
-	4. _n._ [decent](dic://decent), [inoffensive](dic://inoffensive), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
-	5. **vulgar**粗俗的;**indecent**下流的;**lewd**淫荡的;**profane**世俗的;**obscenity**淫秽;**pornographic**色情的,淫秽的;**outrageous**骇人的;**crass**粗鲁的;**inappropriate**不恰当的, 不适宜的;**grotesque**奇形怪状的;**disgusting**令人厌恶的;
-	6. _[obscene message](dic://obscene%20message)_ 以及一个猥亵的讯息
-	7. obscenity
-	8. antiobscenity
-3. proscenium
+	1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, leching, lubricious, sluttish, carnal, )
+	2.  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, sleazy, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, ) 
+	3. [abhorrent](dic://abhorrent), [detestable](dic://detestable), [repugnant](dic://repugnant), [repulsive](dic://repulsive)
+	4.  [lewd](dic://lewd), [raunchy](dic://raunchy), [salacious](dic://salacious)
+	5. _adj._ [indecent](dic://indecent), [offensive](dic://offensive), [dirty](dic://dirty)
+	6. _n._ [decent](dic://decent), [inoffensive](dic://inoffensive), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+	7. **vulgar**粗俗的;**indecent**下流的;**lewd**淫荡的;**profane**世俗的;**obscenity**淫秽;**pornographic**色情的,淫秽的;**outrageous**骇人的;**crass**粗鲁的;**inappropriate**不恰当的, 不适宜的;**grotesque**奇形怪状的;**disgusting**令人厌恶的;
+	8. _[obscene message](dic://obscene%20message)_ 以及一个猥亵的讯息
+	9. obscenity
+	10. antiobscenity
+2. proscenium
 	1. **theatre**电影院，戏院;**theater**电影院，戏院，剧场;**auditorium**观众席, 听众席;**theatrical**戏剧的;**stage**舞台;**arch**拱门;**curtain**窗帘;**staging**分段运输;**facade**正面;**onstage**台上演出的;**vaudeville**杂耍;
 	2. [stage](dic://stage), [wall](dic://wall)
 	3. n. （古希腊、古罗马的）舞台；舞台前部；幕前部分；舞台前部装置（包括幕布、拱形墙等）
 	4. _[proscenium](dic://proscenium)_  n. （古希腊、古罗马的）舞台；舞台前部；幕前部分；舞台前部装置（包括幕布、拱形墙等）
 	5. _[proscenium stage](dic://proscenium%20stage)_  镜框式舞台
 	6. _[proscenium arch](dic://proscenium%20arch)_  舞台台口上面的拱；舞台口
-4. scenario
+3. scenario
 	1. [script](dic://script), [book](dic://book), [playscript](dic://playscript), [setting](dic://setting), [scene](dic://scene), [premise](dic://premise), [premiss](dic://premiss)
 	2. **hypothetical**假设的,假定的;**situation**形势;**case**情况;**nightmare**噩梦;**circumstance**环境;**plausible**貌似真实的，貌似有理的;**envision**预想;**simulation**模仿;**predicament**困难的处境;**imagine**想像;**realistic**现实的, 实际可行的;
 		1. _scenario analysis_ 情境分析，情况分析；场景分析
@@ -1018,7 +1020,7 @@
 	5. scenarist
 	6. scenarize
 		1. 把……编成剧本
-5. scene
+4. scene
 	1. scene（场景）：古希腊剧场中舞台后方的棚屋  
 	2. 古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。  
 	3. 英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。  
@@ -1058,10 +1060,10 @@
 	21. sceneman
 	22. scenedock
 	23. scene-stealer
-7. scenograph
+5. scenograph
 	1. _[scenograph](dic://scenograph)_  n. 透视图；透视仪
-8. scenography
-9. scenioscope
+6. scenography
+7. scenioscope
 	1. _[scenioscope](dic://scenioscope)_  n. 景象管；超光电摄像管
 
 
@@ -2196,24 +2198,25 @@
 		5. **denounce**谴责;**threaten**威胁;**defend**防护;**slay**杀害;**confront**遭遇;**contend**竞争;**lest**唯恐，以免;**beset**困扰;**harass**使烦恼;**condemn**判刑，定罪;**compel**强迫，迫使;
 		6. assailant
 		7. assailable. unassailable
-	3. salacious
-		1. 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient, sally, result, -acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
-		2. adj. 好色的；猥亵的；淫荡的
-		3. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
-		4. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
-		5. **scandalous**令人反感的;**sordid**肮脏的;**lewd**淫荡的;**sleazy**质地薄的;**sensational**轰动的;**erotic**色情的;**vulgar**粗俗的;**provocative**刺激的;**juicy**多汁的;**obscene**淫秽的;**gossip**小道传闻;
-		6. _[salacious secret history](dic://salacious%20secret%20history)_ 隐秘的风流史
-		7. _[Deficiency of salacious](dic://Deficiency%20of%20salacious)_ 虚情的暧昧
-		8. _[hideous conduct salacious story](dic://hideous%20conduct%20salacious%20story)_ 卑鄙丑恶的行迹
-		9. his salacious grin faltered. /他那淫荡的龇牙咧嘴的笑收了起来。
-		10. Maribel also harbours a salacious secret history  /玛丽贝尔也有一段不为人知的风流韵事。
-		11. Cambridge University Library holds around 8 million books, manuscripts, maps and journals and it was thought some more salacious material. /剑桥大学图书馆拥有约800万册书、手稿、地图和期刊，而且有人认为这里有一些颇为淫秽的资料。
-		12. And we're attracted to the salacious, the provocative /我们被淫秽的、挑逗的所吸引。
-		13. Sally continues, she says these shows are full of salacious details that nobody should talk about in public. /莎莉继续说，她说这些节目充满了色情细节， 任何人都不应该在公共场合谈论这些细节。
-		14. salacity
+	2. salacious
+		1.  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, sleazy, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, ) 
+		2. 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient, sally, result, -acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
+		3. adj. 好色的；猥亵的；淫荡的
+		4. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
+		5. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+		6. **scandalous**令人反感的;**sordid**肮脏的;**lewd**淫荡的;**sleazy**质地薄的;**sensational**轰动的;**erotic**色情的;**vulgar**粗俗的;**provocative**刺激的;**juicy**多汁的;**obscene**淫秽的;**gossip**小道传闻;
+		7. _[salacious secret history](dic://salacious%20secret%20history)_ 隐秘的风流史
+		8. _[Deficiency of salacious](dic://Deficiency%20of%20salacious)_ 虚情的暧昧
+		9. _[hideous conduct salacious story](dic://hideous%20conduct%20salacious%20story)_ 卑鄙丑恶的行迹
+		10. his salacious grin faltered. /他那淫荡的龇牙咧嘴的笑收了起来。
+		11. Maribel also harbours a salacious secret history  /玛丽贝尔也有一段不为人知的风流韵事。
+		12. Cambridge University Library holds around 8 million books, manuscripts, maps and journals and it was thought some more salacious material. /剑桥大学图书馆拥有约800万册书、手稿、地图和期刊，而且有人认为这里有一些颇为淫秽的资料。
+		13. And we're attracted to the salacious, the provocative /我们被淫秽的、挑逗的所吸引。
+		14. Sally continues, she says these shows are full of salacious details that nobody should talk about in public. /莎莉继续说，她说这些节目充满了色情细节， 任何人都不应该在公共场合谈论这些细节。
+		15. salacity
 			1.  [obscenity](dic://obscenity), [lewdness](dic://lewdness), [bawdiness](dic://bawdiness), [salaciousness](dic://salaciousness)
 			2. _n._ [indecency](dic://indecency)
-	5. salience
+	4. salience
 		1. sal-跳 + -i- + -ence
 		2.  [saliency](dic://saliency), [strikingness](dic://strikingness)
 		3. _n._ [prominence](dic://prominence)
@@ -2230,12 +2233,12 @@
 			3. _adj._ [conspicuous](dic://conspicuous), [inclined](dic://inclined)
 			4. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible), [re-entrant](dic://re-entrant), [reentrant](dic://reentrant), [horizontal](dic://horizontal), [vertical](dic://vertical), [perpendicular](dic://perpendicular)
 			5. **pertinent**有关的;**important**重要的, 重大的;**noteworthy**值得注意的;**distinguishing**有区别的;**crucial**决定性的;**characteristic**典型的;**relevant**有关的;**prominent**显著的;**troubling**令人不安的;**interesting**有趣的;**obvious**明显的，显而易见的;
-	7. consilience
+	5. consilience
 		1. _[consilience](dic://consilience)_  n. 符合，一致
 		2. consilient
-	8. dissilient
+	6. dissilient
 		1. _[dissilient](dic://dissilient)_  adj. [植] 爆裂的；裂开性的
-	9. resile
+	7. resile
 		1. [bounce](dic://bounce), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [recoil](dic://recoil), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
 		2. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [retract](dic://retract)
 		3. _v._ [chicken out](dic://chicken out), [back off](dic://back off), [pull out](dic://pull out), [back down](dic://back down), [bow out](dic://bow out), [jump](dic://jump), [leap](dic://leap)
@@ -2250,7 +2253,7 @@
 			1. _n._ [recoil](dic://recoil), [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash), [elasticity](dic://elasticity), [snap](dic://snap)
 			2. **resilience**弹回;**resilient**适应力强的;**adaptability**适应性;**toughness**有粘性;**strength**力量;**tenacity**固执;**preparedness**准备;**robustness**强度;**fortitude**坚韧, 刚毅;**durability**耐久性;**vulnerability**弱点,攻击;
 		9. resilience
-	12. saltant
+	8. saltant
 		1. _saltant_  n. 突变型; adj. 飞跃的；跳跃的；飞舞的
 		2. saltation
 			1. _n._ [natural process](dic://natural process), [natural action](dic://natural action), [action](dic://action), [activity](dic://activity), [mutation](dic://mutation), [genetic mutation](dic://genetic mutation), [chromosomal mutation](dic://chromosomal mutation)
@@ -2258,7 +2261,7 @@
 		3. saltatory
 			1. adj. 跳跃的；跃进的；突变的
 			2. saltatorial
-	14. saute
+	9. saute
 		1. n. 〈法〉(芭蕾舞用语)跳
 		2. _[saute vegetable](dic://saute%20vegetable)_  炒青菜
 		3. _[shrimps saute](dic://shrimps%20saute)_ 清炒虾仁
@@ -2270,7 +2273,7 @@
 		9. _adj._ [cooked](dic://cooked)
 		10. _n._ [raw](dic://raw)
 		11. **skillet**煮锅;**shallots**冬葱;**wok**锅,炒菜锅;**saucepan**深平底锅;**simmer**炖;**fry**油炸, 油煎;**pan**平锅，盘子;**cook**烹调，煮;**onions**洋葱;**frying**油炸;**leeks**大葱;
-	16. somersault
+	10. somersault
 2. **sult-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
 	1. assault
 		1. as- + sault-跳 → 跳起来 → 进攻。

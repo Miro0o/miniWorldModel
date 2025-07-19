@@ -6573,8 +6573,9 @@
 ## br
 ### broch- = to pierce, 表示“刺，缝”。
 1. broche (brocade, broche)
-	1. - adj. 织锦的；锦缎的
-	2. n. 织锦
+	1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, broche)
+	2. - adj. 织锦的；锦缎的
+	3. n. 织锦
 2. brochette
 3. brochure
 	1.  [booklet](dic://booklet), [folder](dic://folder), [leaflet](dic://leaflet), [pamphlet](dic://pamphlet)
@@ -6584,7 +6585,7 @@
 	5. _sales brochure_ 售楼说明书；推广小册子
 	6. _travel brochure_ 旅游指南
 	7. the details contained in this brochure have been published in good faith . /这本册子中细节的披露出版是出于善意的。
-4. broach  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+4. broach  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, broche)
 	1. n. 烧肉叉, 凿子, 钻头  
 	2. vt. 用凿子修琢(石块), 钻孔  
 	3. vi. 露出水面

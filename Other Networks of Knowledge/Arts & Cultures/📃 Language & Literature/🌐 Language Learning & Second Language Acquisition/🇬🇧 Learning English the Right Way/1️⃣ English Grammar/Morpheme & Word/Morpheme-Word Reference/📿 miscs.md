@@ -2129,6 +2129,7 @@ buffet
 - 
 
 bum
+-  (scruffy, unkempt, shabby; beat-up; scruffy; ropey; rattletrap; flimsy, sleazy,  bum, cheap, cheesy, chintzy, crummy, punk, tinny uncombed, ungroomed, untidy, ragged, tattered, dilapidated, schlock, slummy)
 - [rotter](dic://rotter), [dirty dog](dic://dirty dog), [rat](dic://rat), [skunk](dic://skunk), [stinker](dic://stinker), [stinkpot](dic://stinkpot), [puke](dic://puke), [crumb](dic://crumb), [lowlife](dic://lowlife), [scum bag](dic://scum bag), [so-and-so](dic://so-and-so), [git](dic://git)
 - [tramp](dic://tramp), [hobo](dic://hobo)
 - [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout)
@@ -2487,7 +2488,7 @@ can
 - 词源同 cane,芦苇。引申词义容器，罐子。
 - oilcan
 - canny (cunning) 
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 	- 来自 can,知道，词源同 cunning,uncanny.
 	- a. 精明的, 谨慎的, 节约的  
 	- [cagey](dic://cagey), [cagy](dic://cagy), [clever](dic://clever)
@@ -3275,7 +3276,8 @@ cook
 	- see "book"
 - cook-general
 
-coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) (bouquet, cachet, crotchet, coquet)
+coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) 
+-  (bouquet, banquet, cachet, crotchet, crochet, coquet, ratchet)
 - _v._ (女子)卖弄风情
 - _adj._ 卖弄风情的，娇艳的
 - _n._ 卖弄风情
@@ -3287,6 +3289,7 @@ coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) (bouquet, cachet, crotchet, co
 - _[laughingly coquet](dic://laughingly%20coquet)_ 嘻笑卖俏
 - She laughed and joked and almost but not quite coquetted with a one-eyed soldier who gladly repaid her efforts with extravagant gallantries. /她又笑又乐，几乎在向一个独眼大兵卖弄风情，以致后者乐得用过分的殷勤回报她。
 - coquettish
+	- (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
 	- _adj._ [sexy](dic://sexy)
 	- _n._ [unsexy](dic://unsexy)
 	- **seductive**诱惑的;**sultry**闷热的;**alluring**迷人的，吸引人的;**charming**迷人的;**sassy**无礼的;**flirty**轻浮的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**cheeky**无耻的;**sweetly**惬意地;**dainty**秀丽的
@@ -3515,6 +3518,8 @@ croon (different from shirk/caterwauling)
 - **sing**唱歌;**soulful**感情上的;**ballad**歌谣，民谣;**ballads**民歌;**singing**歌声;**sweetly**惬意地;**sang**sing的过去式;**baritone**男中音;**sultry**闷热的;**vocals**元音;**sung**唱歌;
 
 crumble
+- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
 - **collapse**倒塌;**shatter**打碎;**crumbly**脆的;**topple**倾倒;**collapsing**压扁,毁坏,断裂;**erode**腐蚀，侵蚀;**harden**变硬，变坚固;**deteriorate**恶化;**disappear**不见, 消失;**dissolve**使溶解;**brittle**易碎的，脆弱的;
 - [crumple](dic://crumple), [tumble](dic://tumble), [break down](dic://break down), [collapse](dic://collapse)
 - [decay](dic://decay), [delapidate](dic://delapidate)
@@ -4295,7 +4300,6 @@ falter
 - Harry thought he heard the voices downstairs falter. /哈利仿佛听到楼下的声音变得有些结巴。
 - Howard stepped down as CEO in 2000, and over the next eight years Starbucks' performance faltered. /霍华德于2000年卸任，此后8年里，星巴克的业绩就停滞不前。
 - The soldiers faltered for a moment as their captain fell. /当他们连长倒下时，士兵的信心动摇了一会儿。
-- 
 - unfaltering
 - faltering
 
@@ -4388,14 +4392,17 @@ feel
 - feeler
 - deep-felt
 
-feist
+feist [美 /faɪst/](cmd://Speak/_us_/feist)
+- feist (n.) - 亦作fist，"a breaking wind, foul smell, fart"，15世纪中期 (古英语时有现在分词fisting, glossing 拉丁语festiculatio)，作为常见的西日耳曼语单词有同源词：中古荷兰语veest，荷兰语vijst; 参见：feisty。
 - a nervous belligerent little mongrel dog
 - _n._ 〈美〉小狗,无用的人,坏脾气的人
 - [fice](dic://fice)
 - _n._ [cur](dic://cur), [mongrel](dic://mongrel), [mutt](dic://mutt)
 - **terrier**一种活泼的小狗;**bulldog**牛头犬，恶犬;**hound**追猎;**puppy**小狗，幼犬;**poodle**狮子狗;
-- feisty
-	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+- feisty [美 /'faɪsti/](cmd://Speak/_us_/feisty)
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
+	- 缩写自 fysting curre,臭狗，词源同 fart,拟声词，放屁。后词义褒义化。
+	- a. 暴躁的, 易怒的, 好斗的; 果敢的
 	- 1. showing courage
 		- [plucky](dic://plucky), [spunky](dic://spunky)
 	- 1. quick to take offense
@@ -4410,7 +4417,7 @@ feist
 	- For example, characters with red hair are typically passionate, feisty, adventurous and highly opinionated. /比如红发角色通常热情好胜，敢于冒险并且固执己见。
 
 fetter
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
@@ -4421,7 +4428,7 @@ fetter
 - unfetter
 - enfetter
 
-fickle 
+fickle [美 /'fɪkl/](cmd://Speak/_us_/fickle)
 - (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
 - 来自 PIE*peig,狡猾的，敌对的，坏心眼的，词源同 foe,fiend.引申词义反复无常的。
 - **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
@@ -4492,7 +4499,7 @@ film
 	- _[bibliofilm](dic://bibliofilm)_  n. 显微胶片；图书缩影胶片；图书缩摄胶片
 - filmy
 - filmstrip
-- flimsy
+- flimsy [美 /'flɪmzi/](cmd://Speak/_us_/flimsy)
 	- a. 易坏的, 脆弱的, 浅薄的  
 	- n. 易损坏的东西(或材料), 薄纸, 描图用薄纸, 薄纸稿纸
 	- 可能来自film的拼写变体，薄膜，膜片，引申词义脆弱的，劣质的。-s, 复数后缀，比较ballsy, folksy. 或直接来自flimflam, 胡扯，欺骗，劣质。
@@ -4647,13 +4654,18 @@ fit
 - unfit
 	- unfitting
 	- unfitted
-- retrofit, refit
+- retrofit
+	- n. 式样翻新  vt.vi. 式样翻新
+	- 1 - retro-,向后，fit,匹配，装配。引申词义翻新，改造。
 	- _n._ [component](dic://component), [constituent](dic://constituent), [element](dic://element), [addition](dic://addition)
 	- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [install](dic://install), [instal](dic://instal), [put in](dic://put in)
 	- **refurbishment**翻新，整修，再装修;**renovation**翻新;**upgrades**升级;**install**安装;**upgrade**提升;**renovate**修复;**remodel**改变;**HVAC**高压交流电;**redesign**重新设计;**installation**安装;**modernization**现代化;
-	- **refurbishment**翻新，整修，再装修;**overhaul**彻底检查;**hull**船体;**repairs**备件;**warship**战船，军舰;**renovation**翻新;**frigate**护卫舰;**shipyard**船坞;**ship**运送，乘船;**facelift**整容手术;**remodel**改变
 	- a retrofit kit for the homeowner; an energy-saving retrofit program; a large retrofitmarket. /主的改建用的工具；节能改型方案；巨大的装备翻新市场
 	- motorists who retrofit catalysts to older cars /给老车加催化剂的车手。
+- refit
+	- v. 整修, 改装
+	- **refurbishment**翻新，整修，再装修;**overhaul**彻底检查;**hull**船体;**repairs**备件;**warship**战船，军舰;**renovation**翻新;**frigate**护卫舰;**shipyard**船坞;**ship**运送，乘船;**facelift**整容手术;**remodel**改变
+n. 整修, 改装
 - outfit
 	- **attire**服装;**dress**给…穿衣;**jumpsuit**跳伞装;**wardrobe**衣柜;**costume**服装，装束;**wearing**磨损的;**blouse**宽松的上衣;**blazer**宽松运动外衣;**dresses**连衣裙;**leggings**裹腿，绑腿;**wore**穿;
 	- [unit](dic://unit), [social unit](dic://social unit), [attire](dic://attire), [garb](dic://garb), [dress](dic://dress), [gear](dic://gear), [paraphernalia](dic://paraphernalia)
@@ -4722,6 +4734,7 @@ fit
 	- So far SDI has fitted out 5,000 school transport taxis and 1,000 commuter taxis /到目前为止，SDI已为五千辆学校交通的士和一千辆通勤的士安装了设备。
 - electrofit
 - befit
+	- vt. 适合于, 适宜于
 	- [suit](dic://suit), [beseem](dic://beseem)
 	- _v._ [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [tally](dic://tally)
 	- **bestow**授予;**adorn**装饰;**likewise**也;**necessitate**使…成为必要, 需要;**abode**住处;**countenance**面容，表情;**elevate**举起;**regal**帝王的;**undoubtedly**毋庸置疑地,的确地;**esteemed**受人尊敬的;**unquestionably**毫无疑问地;
@@ -4744,6 +4757,7 @@ filch
 filth
 - 词源同 foul,恶臭的，污秽的。
 - filthy
+	- (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
 	- [foul](dic://foul), [nasty](dic://nasty)
 	- [dirty](dic://dirty), [lousy](dic://lousy)
 	- [foul](dic://foul), [nasty](dic://nasty), [smutty](dic://smutty)
@@ -5500,7 +5514,7 @@ gain (dain)
 - vi. 获利, 增加
 - 来自 PIE*weie,努力，追寻，词源同 virile,venison,Venus.原指农业收成。
 - ungainly
-	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty)
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 	- (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 	- 来自古英语 ungeinliche,来自 un-,不，非，gein,直的，词源同 again,against,-liche,词源同-ly,形容词后缀。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
 	- n-不，非 + gain-直的 + -ly, 表形容词。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
@@ -6735,7 +6749,7 @@ ham
 - hamstring
 	- n. 后腿腱  
 	- vt. 使无能为力; 妨碍; 切断腿腱使成跛腿
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 	- **groin**腹股沟;**knee**膝盖，膝;**ankle**踝关节，踝;**soreness**悲伤;**tendon**腱;**ligament**韧带;**injury**伤害，损害;**calf**小牛;**biceps**二头肌，强健的筋肉;**tightness**坚固,紧密;**thigh**大腿
 	- Farming, the north's main source of income, has been hamstrung. .作为北方最主要的收入来源的农业也因此荒废。
 	- The slightly kinder reading is that the dowager empress was hamstrung by convention unable to pick anyone older. /稍微温和一点的解读是，皇太后被传统束缚，无法挑选年龄更大的人。
@@ -6761,7 +6775,7 @@ hammock (hummock)
 
 hamper
 -  (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, )
 - 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
 - op-hamper
 - [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
@@ -6899,7 +6913,7 @@ hamper
 	- _handicraft industry_ 手工业
 	- _handicraft article_ 工艺美术品
 - handicap
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 	- _n._ 障碍 ;(生理或智力上的)缺陷；残疾; 加给强对手的不利条件
 	- _vt._ 妨碍；使不利 使(某人)行动和生活不正常
 	- [disability](dic://disability), [disablement](dic://disablement), [impairment](dic://impairment)
@@ -7897,7 +7911,7 @@ hind
 - hindlimb
 - hindgut
 - hinder
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 	- [impede](dic://impede)
 	- [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
@@ -8661,7 +8675,7 @@ imp
 - [scamp](dic://scamp), [monkey](dic://monkey), [rascal](dic://rascal), [rapscallion](dic://rapscallion), [scalawag](dic://scalawag), [scallywag](dic://scallywag)
 - [elf](dic://elf), [hob](dic://hob), [gremlin](dic://gremlin), [pixie](dic://pixie), [pixy](dic://pixy), [brownie](dic://brownie)
 - impish
-	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 	- **mischievous**淘气的, 顽皮的;**cheeky**无耻的;**sly**狡猾的;**playful**爱嬉戏的;**childlike**天真的;**wry**面部肌肉扭曲的;**exuberant**兴高采烈的;**goofy**傻瓜的，愚笨的;**irreverent**不敬的;**smirk**傻笑;**endearing**惹人喜爱的;
 	-  [implike](dic://implike), [mischievous](dic://mischievous), [pixilated](dic://pixilated), [prankish](dic://prankish), [puckish](dic://puckish), [wicked](dic://wicked)
 	- _adj._ [playful](dic://playful)
@@ -9327,6 +9341,11 @@ lash
 - President Trump lashed out at FBI Director Christopher Wray this morning. /今天上午，特朗普总统抨击了联邦调查局局长克里斯托弗·雷。
 - Your mommy lashes out at people prettier than she is. /你妈妈就是看不惯比她漂亮的人。
 
+lascivious [美 /lə'sɪviəs/](cmd://Speak/_us_/lascivious)
+-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+- a. 好色的
+- 来自 PIE*las,松软的，缺乏管教的，词源同 lazy.引申词义好色，淫荡的，词义演变比较 wanton.
+
 late
 - latter
 - latish
@@ -9414,6 +9433,26 @@ leave
 - leave-breaker
 - broad-leaved
 
+lech
+-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+- vi. 好色  n. 肉欲, 好色之徒
+- 词源同 lick,舔，引申词义好色。词义演变比较 felon,felony.
+-  [satyr](dic://satyr), [lecher](dic://lecher), [letch](dic://letch)
+- _n._ [pervert](dic://pervert), [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
+- **sleazy**质地薄的;**pervert**使堕落, 把…引入邪路, 使变坏;**drunken**喝醉的;**sly**狡猾的;**prostitute**娼妓;**sexist**男性至上主义者;**bastard**私生的;**whore**卖淫，娼妓;
+- I think he has a kind of lech for you. /我想他对你有一种情欲。
+- He's a drunken old lech. Nobody wants him in their house. /一个喝醉酒的老油条 没人想他住在自己的房子里。
+- lechopyra
+- lechodochium
+- lecher
+	- lechery
+	- lecherous
+		-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+		- - adj. 好色的；淫荡的；引起淫欲的
+		- _adj._ [sexy](dic://sexy)
+		- _n._ [unsexy](dic://unsexy)
+		- **sleazy**质地薄的;**perverted**不正当的;**depraved**堕落的;**sadistic**残酷成性的;**lewd**淫荡的;**villainous**邪恶的;**devious**弯曲的;**vengeful**复仇的，报复的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**murderous**蓄意谋杀的;**pervert**使堕落, 把…引入邪路, 使变坏;
+
 leek
 - 1. plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum
 	-  [scallion](dic://scallion), [Allium porrum](dic://Allium porrum)
@@ -9423,21 +9462,6 @@ leek
 - a recipe for leek soup /做韭菜汤的方法
 - houseleek
 - cockyleeky
-
-lech
-- (voluptuous, lech, )
-- n. 肉欲；好色的人
-- vi. 好色；纵欲 adj. 好色的
-- [satyr](dic://satyr), [lecher](dic://lecher), [letch](dic://letch)
-- [pervert](dic://pervert), [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
-- **sleazy**质地薄的;**pervert**使堕落, 把…引入邪路, 使变坏;**drunken**喝醉的;**sly**狡猾的;**prostitute**娼妓;**sexist**男性至上主义者;**bastard**私生的;**whore**卖淫，娼妓;
-- I think he has a kind of lech for you /我想他对你有一种情欲。
-- lechrous
-- lechopyra
-- lechodochium
-- lecher
-	- lechery
-	- lecherous
 
 lest
 - conj. 以免, 唯恐, 免得
@@ -9482,7 +9506,7 @@ lick
 - a finger-licking meal
 - lick sb.’s spittle
 - unlicked
-	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 	- adj. 无礼貌的；不像样的；不修饰的
 	- Greenough won't. He's wise in the ways of marvelous and unlicked cubs," said Decker. /德克尔说：“格里诺不会。他有明智而精彩和不加修饰的年青人的方式。”
 - lickspittle, lickspit
@@ -10072,7 +10096,7 @@ mad
 - madden
 	- maddening
 - madcap
-	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 	- [daredevil](dic://daredevil), [hothead](dic://hothead), [swashbuckler](dic://swashbuckler), [lunatic](dic://lunatic), [harum-scarum](dic://harum-scarum)
 	- [hotheaded](dic://hotheaded), [impulsive](dic://impulsive), [impetuous](dic://impetuous), [tearaway(a)](dic://tearaway(a)), [brainish](dic://brainish)
 	- **wacky**乖僻的，古怪的;**manic**狂热的;**antics**滑稽动作;**frenetic**狂热的;**irreverent**不敬的;**mayhem**大混乱, 大破坏;**eccentric**古怪的, 怪癖的;**bizarre**奇异的;**raucous**沙哑的;**offbeat**离奇的;**mischievous**淘气的, 顽皮
@@ -11364,7 +11388,7 @@ perk
 	-  I got a little something to perk you up. /我准备了个让能你开心的东西
 - perquisite 
 - perky
-	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 	-  [buoyant](dic://buoyant), [chirpy](dic://chirpy)
 	- _adj._ [cheerful](dic://cheerful)
 	- _n._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
@@ -11387,7 +11411,7 @@ perm
 
 pert
 - adj. 无礼的；鲁莽的；大胆的
--  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
+- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
 - [impertinent](dic://impertinent), [irreverent](dic://irreverent), [saucy](dic://saucy)
 - [spirited](dic://spirited)
 - **perky**得意洋洋的;**plump**丰满的;**sassy**无礼的;**sexy**性感的;**breasts**胸脯;**boobs**乳房;**busty**大胸脯的，胸部丰满的;**tit**山雀;**juicy**多汁的;**taut**拉紧的;**delightfully**大喜;
@@ -12388,6 +12412,7 @@ qualify
 - disqualify
 
 quash
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - 来自拉丁语 quassare,使无效，来自 cassare 拼写变体，来自 PIE*kes,砍，切，来自 PIE*skei,砍，切，词源同 caste,segment,scissors.
 - [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
 - [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
@@ -12402,6 +12427,7 @@ queer
 - terkw-
 
 quell
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - [squelch](dic://squelch), [quench](dic://quench)
 - [stay](dic://stay), [appease](dic://appease)
 - **suppress**抑制;**subdue**征服;**incite**煽动;**alleviate**缓和;**appease**使平息;**dampen**抑制;**stifle**使窒息;**sparking**发火花;**soothe**安慰;**thwart**反对;**relieve**解除，减轻;
@@ -12410,6 +12436,7 @@ quell
 - Troops were called in to quell the violence. /部队被调来平息暴力事件。
 
 quench
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - v. （喝水）止（渴）；满足（欲望）；扑灭，熄灭（火）；抑制，压制（感情）；（尤指用冷水或油）将……淬火，使冷却；控制（发光、震动或放电等效果） 
 - n. 淬火
 - satisfy (thirst)
@@ -12620,9 +12647,10 @@ raster
 rat
 - \*red-
 
-ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
+ratchet 
+-  (bouquet, banquet cachet, crotchet, crochet, coquet, ratchet)
 - 来自法语 rochet,线轴，纺锤，词源同 rock,rocket.引申词义棘轮。插入字母 t,比较 bake,batch.
-- n. 棘轮, 棘爪,棘齿 
+- n. 棘轮, 棘爪,棘齿
 - v. (使) 逐渐小幅增长 (~ up) vt. 安装棘轮于；松脱
 -  [rachet](dic://rachet), [ratch](dic://ratch)
 - [rachet up](dic://rachet up), [ratchet down](dic://ratchet down)
@@ -12632,14 +12660,14 @@ ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
 - _ratchet wheel_ n. [机]棘轮
 - _ratchet effect_ 齿轮效应
 - _ratchet up_ 逐渐升高；略微调高
+	- the Bank of Japan ratcheted up interest rates again /日本银行又在逐渐提高利率。
+	- This time central banks are furiously ratcheting up rates. /但这一次，各国央行都在疯狂地加息。
+	- Tehran and Washington ratcheted up the rhetoric. /近日，德黑兰和华盛顿的言辞已经越来越激烈。
+	- How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 - yet another turn in the ratchet of state control over local experimentation. /国家对地方实验进行的又一轮倒退性控制
-- the Bank of Japan ratcheted up interest rates again /日本银行又在逐渐提高利率。
 - I think we're too ratchet to win an award. /我认为我们太过棘手而无法赢得奖项。
-- This time central banks are furiously ratcheting up rates. /但这一次，各国央行都在疯狂地加息。
-- Tehran and Washington ratcheted up the rhetoric. /近日，德黑兰和华盛顿的言辞已经越来越激烈。
 - Those kids at rival school Rosemount High are pretty ratchet, huh? /我们竞争对手罗斯蒙特高中的那些孩子挺烦人的，对吧？
 - But ratchet pay off sometimes, you feel me? /但是我们得奖了，你们能感受到我的心情吗？
-- How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 
 rattle
 -  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
@@ -12650,6 +12678,22 @@ rattle
 - **squeak**告密;**thump**重击;**shake**摇动;**screeching**发动机啸声;**noises**噪音，响声，噪音;**knock**敲;**rumble**使隆隆响;**chime**鸣;**rumbling**隆隆声;**wobble**摇晃;**roar**吼;
 - _rattle off_ 飞快说出
 - _with a rattle_ 突然地
+
+raunchy
+-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+- a. 不整洁的, 不修边幅的, 肮脏的, 淫秽的
+-  俚语，词源不详，可能来自 ranch,庄园，牧场。暗指牧场动物粪便。
+- (s)ker-
+-  [lewd](dic://lewd), [obscene](dic://obscene), [salacious](dic://salacious)
+-  [begrimed](dic://begrimed), [dingy](dic://dingy), [grimy](dic://grimy), [grubby](dic://grubby), [grungy](dic://grungy)
+- _adj._ [sexy](dic://sexy), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+- _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+- **lewd**淫荡的;**vulgar**粗俗的;**sleazy**质地薄的;**steamy**蒸汽的;**naughty**顽皮的，淘气的;**sexy**性感的;**erotic**色情的;**trashy**碎屑的;**kinky**奇形怪状的，怪癖的;**crass**粗鲁的;**irreverent**不敬的;
+- You need a " rivival" of innovation so the project doesn't turn out " raunchy" . /需要有创新才能完成此项搬移任务。
+- After all, the first two Deadpool movies are notorious for their raunchy jokes, F-bombs, and gratuitous amounts of blood /毕竟，前两部《死侍》电影都以低俗的笑话、飙脏话和大量的鲜血而臭名昭著。
+-  The chicken kind of had a raunchy routine/这只鸡有一种不修边幅的习惯。
+- I thought I just made it into a raunchy punchline. / 我以为我只是把它变成了一个不修边幅的妙语。
+- I thought it was kind of raunchy when I read the script, but it turned out to be an unbelievable classic /我读剧本时觉得有点粗俗，但结果却成了一部难以置信的经典之作。
 
 ravel
 - 来自荷兰语 ravelen,解开，缠绕，来自 rafel,碎毛线，碎线。词义的矛盾性可能是来自碎毛线一松开就缠绕在一起。常见于复合词 unravel,解开。
@@ -12838,7 +12882,7 @@ regard
 	- disregardful
 
 rein
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - 来自（缩写自）拉丁语 retinere,维持，控制，词源同 retain.引申诸相关词义。
 	- [harness](dic://harness), [rein in](dic://rein in), [draw rein](dic://draw rein)
 	- [rein in](dic://rein in)
@@ -12934,7 +12978,9 @@ rife
 - But the war's aftermath was rife with insecurity. /但战后的局势充满了不安全因素。
 - They carry dengue fever, which is rife here at the moment. /它们携带着登革热病毒，目前登革热在这里很流行。
 
-riffle (riffle, ripple, ruffle, cripple, dripple, tipple, crinkle, wrinkle, ruckle, rumple, crumple, )
+riffle
+- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
 - 1 - 可能来自 ruffle 变皱，起皱，词义受 ripple 影响。现主要词义翻动可能来自拟声词，模仿翻东西的声音。
 - n. 浅滩, 急流, 涟漪, 弹洗  
 - vt. 使起涟漪, 迅速翻阅, 弹洗洗牌  
@@ -12987,7 +13033,8 @@ rig
 rip
 - rei- (1)
 
-ripple (riffle, ripple, ruffle, cripple, dripple, tipple, crinkle, wrinkle, ruckle, rumple, crumple, )
+ripple
+- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
 - rei- (1)
 
 rive
@@ -13609,7 +13656,6 @@ sapphire
 sardinia
 
 sardonic
--  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, sardonic, snarky, caustic, satirical, sarcastic, surly, gruff, crusty, )
 - a. 嘲笑的, 冷笑的, 讥讽的
 - sardonic（冷笑的）：盛产令人狂笑而死的毒草的撒丁岛  
 - 传说地中海中撒丁岛（sardinia）上有一种毒草，其毒性足以致命。误食者会肌肉抽搐，狂笑不止而死，死的时候脸上依然保持一种古怪的笑容。古希腊诗人荷马将这种笑容称为“撒丁式笑容”，翻译成英语就是sardonic smile，单词sardonic就来自撒丁岛的名字sardinia，现在常常用来表示“冷笑的”、“讥讽的”。  
@@ -13847,21 +13893,52 @@ screech
 - The monkeys were screeching in the trees. /猴子在树上尖声叫着。
 - a bus screeched to a halt /公共汽车嘎的一声停住了。
 
+scrunch
+- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+- (crunchy, squelch, scrunch, crunch, crush, )
+- vt. 碾碎, 缩紧  
+- vi. 嘎吱地响, 蜷缩  
+- n. 嘎嘎响声
+-  来自拟声词 crunch 的扩大形式，模仿嘎吱的声音。
+-  [crump](dic://crump), [thud](dic://thud)
+-  [squat](dic://squat), [crouch](dic://crouch), [scrunch up](dic://scrunch up), [hunker](dic://hunker), [hunker down](dic://hunker down)
+-  [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+- _n._ [noise](dic://noise)
+- _v._ [crunch](dic://crunch), [scranch](dic://scranch), [scraunch](dic://scraunch), [crackle](dic://crackle), [sit](dic://sit), [sit down](dic://sit%20down), [fold](dic://fold)
+- **curl**使…卷曲;**flatten**使……平坦;**ponytail**马尾辫;**straighten**弄直;**squeeze**挤;**rub**擦;**tuck**卷起;**creases**摺痕;**giggle**傻笑;**fold**折叠;**shake**摇动;
+- Just as a rug will crumple and rise if it's scrunched by an opening door, the tsunami gets taller. /正如由于门开时被压住而弄皱卷起的地毯，海浪就越来越高。
+- I yanked my blanket back up and scrunched my feet in so Gabe couldn't get them /我把毯子拉回来 扭了扭我的脚，以使加布无法得到它们。
+- Cover this pastry in oil, scrunch it up, um and do like these little sort of hopefully, slightly, crispy things. /把这块酥皮涂上油，揉成小球，希望能做出一些稍微脆的东西。
+-  I just kind of scrunch it into my hair. /我只是把它揉进我的头发里。
+- It lay clenched on top of her blankets, and bending closer, he saw that a piece of paper was scrunched inside her fist. /那只紧握的手放在毯子上面，哈利凑近一些，看见她的拳头里攥着一张纸。
+- Her feet **scrunch** on the gravel. /她的脚喀嚓喀嚓地踩在沙砾上。
+- Do the "**scrunch** test" to see if clothes stay wrinkly. /看衣服是否容易褶皱，做“揉捏测试”
+
 scud
+- n. 疾行；飘飞的云；[俚]飞毛腿
+- . vi. 疾行；[航]顺风行驶
 - [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
 - [rack](dic://rack)
 - _n._ [speed](dic://speed), [speeding](dic://speeding), [hurrying](dic://hurrying)
 - _v._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
 - **missiles**导弹;**missile**导弹;**fly**飞;**rockets**火箭，烟火;**clouds**云彩，白云;
-- scudding
-- scuddy
-	- **missiles**导弹;**missile**导弹;**fly**飞;**rockets**火箭，烟火;**clouds**云彩，白云;
-	- [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
-	- [rack](dic://rack)
+- 'Bill had him on his back, and scudded like the wind. /“比尔把他背在背上， 像风一样疾驰。
+- With a sigh of thankfulness he swung to the ground beside the corral gate to count the goats as they scudded to shelter /在羊群快速地跑到畜栏里面的时候，他感激地叹了口气，倒在了畜栏门旁边的地上，数着跑向畜栏里面羊群的数目。
+- But if you're flying through space in your spaceship, space is scudding past you. /但是如果你乘坐宇宙飞船在太空中飞行，太空就会从你身边飞驰而过。
+- They passed like drift cloud—like the wrack scudding before a storm /它们像漂浮的云一样掠过 - - 就像暴风雨前的残骸。
+- The boat scudded thus northward during the whole day, borne on by monstrous waves, preserving always, fortunately, a speed equal to theirs. /它前进的速度即使说比开足马力的火车头还要快四倍的话，这种形容也还是保守的。
+-  George whooped in their faces, turned and scudded away down the path to the pond, still clad in Mr. Beebe's hat./乔治当着他们的面欢呼，转身沿着通往池塘的小路疾驰而去，他还戴着毕比先生的帽子。
+-  They scudded along as if someone was chasing them and the wind howled round in such a mournful way that Anne felt quite frightened./他们像有人在追他们一样哗啦啦地走着，风呼啸着，让安妮感到非常害怕。
 - give sb. a scud on the face /在某人脸上打一巴掌
 - the scud of the clouds before the wind. /云乘风飘飞。
 - The moon was bright, but clouds scudding across it kept throwing them into darkness /月光很皎洁，但不断有云飘过来遮住月亮，使他们陷入一片黑暗
 - 'Bill had him on his back, and scudded like the wind /比尔把他背在背上， 像风一样疾驰。
+- scudding
+- scuddy
+	- - adj．裸露的，赤裸的：指人或动物没有穿衣服或遮盖身体的状态。
+	- **missiles**导弹;**missile**导弹;**fly**飞;**rockets**火箭，烟火;**clouds**云彩，白云;
+	- [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
+	- [rack](dic://rack)
 
 scuff
 -  [mule](dic://mule)
@@ -13903,10 +13980,15 @@ sculpt
 - [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould), [forge](dic://forge), [carve](dic://carve)
 
 scum
+- n. 浮渣, 糟粕, 浮藻, 熔渣, 不起好作用的人  
+- vt. 撇去(浮沫)  vi. 产生泡沫
+- 来自中古英语 scum,泡沫，浮渣，来自 Proto-Germanic*skumaz,覆盖，隐藏，来自 PIE*skeu,覆盖，隐藏，词源同 hide,skim.引申比喻义渣滓，败类等。
 - **filth**猥亵;**vile**卑鄙的;**despicable**可鄙的,卑鄙的;**thug**暴徒;**douche**灌注法;**idiots**白痴，极蠢的人;**slimy**黏滑的;**filthy**污秽的;**traitor**叛徒;**slime**黏液;**trash**垃圾;
 - [rabble](dic://rabble), [riffraff](dic://riffraff), [ragtag](dic://ragtag), [ragtag and bobtail](dic://ragtag and bobtail), [film](dic://film)
 - [get rid of](dic://get rid of), [remove](dic://remove)
 - scummy
+	-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 	- [abject](dic://abject), [low](dic://low), [low-down](dic://low-down), [miserable](dic://miserable), [scurvy](dic://scurvy)
 	- _adj._ [contemptible](dic://contemptible), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
 	- _n._ [estimable](dic://estimable), [clean](dic://clean)
@@ -13920,15 +14002,20 @@ scum
 	- _[scumbag an unpleasant person](dic://scumbag%20an%20unpleasant%20person)_ 讨厌的人
 
 scumble
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
 - v. 将色彩弄淡；使（色彩）变柔和
 - **glaze**装以玻璃;**paint**油漆;**watercolor**水彩;**varnish**虚饰;**paints**绘画颜料;**watercolour**水彩;**pigment**颜料;
 - [application](dic://application), [coating](dic://coating), [covering](dic://covering)
 - a writer who scumbled the line that divides history and fiction.
 
 scurf (scuff)
+- n. 头屑, 皮屑
+-  来自古英语 sceoft,头皮屑，来自 Proto-Germanic*skurf,碎屑，来自 PIE*sker,砍，切，词源scar,shear.
 - scurfy
 - scurfskin
 - scruff
+	- n. 颈背, 后颈; 邋遢的人
+	- - 改写自 scurf,头皮屑。
 	- [nape](dic://nape), [nucha](dic://nucha)
 	- _n._ [rear](dic://rear), [backside](dic://backside), [back end](dic://back end)
 	- **neck**脖子;**beard**胡须;**chin**下巴;**moustache**小胡子;**shave**剃;**tugging**牵引感;**beards**胡须;
@@ -13938,6 +14025,8 @@ scurf (scuff)
 	- " Gran'ma gave him to me, " she cried excitedly, holding the kitten out by the scruff. /" 妈妈给我的，" 她兴奋地叫道，一面抓住小猫的颈背把它提起来。
 	- But Hagrid groaned and pulled him back by the scruff of his neck. /海格哼了一声，揪住哈利的脖领，把他拽了回来。
 	- scruffy
+		- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall, feisty, unlicked, pert, perky, madcap, mischevious, impish, irreverent, surly, gruff, crusty, scruffy)
+		-  ((scruffy, unkempt, shabby; beat-up; scruffy; ropey; rattletrap; flimsy, sleazy,  bum, cheap, cheesy, chintzy, crummy, punk, tinny uncombed, ungroomed, untidy, ragged, tattered, dilapidated, schlock, slummy)
 		- adj. 破旧的；肮脏的；不整齐的
 		- _adj._ [worn](dic://worn)
 		- _n._ [new](dic://new)
@@ -13994,7 +14083,7 @@ scruple
 	- unscrupulousness
 	- unscrupulous 
 		- (imprudence, unscrupulous, )
-		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -14020,6 +14109,7 @@ schlep, schlepp
 schlieren
 
 schlock, schlockmeister
+-  (scruffy, unkempt, shabby; beat-up; scruffy; ropey; rattletrap; flimsy, sleazy,  bum, cheap, cheesy, chintzy, crummy, punk, tinny uncombed, ungroomed, untidy, ragged, tattered, dilapidated, schlock, slummy)
 - n. 伪劣品；次品 adj. 低劣的；廉价的（等于shlock）
 - [shlock](dic://shlock), [dreck](dic://dreck)
 - **drivel**淌口水,说傻话;**horror**惊骇;**trashy**碎屑的;**melodrama**情节剧;**cliches**陈腔滥调;**sci-fi**科幻;**cheesy**干酪质的;**crap**废话;**genre**类型;**crass**粗鲁的;**sleazy**质地薄的;
@@ -14139,7 +14229,8 @@ seam
 - unseam
 	- vt. 拆……的线缝；将……拆开
 - seamy
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+	-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 	-  seam,缝补，缝隙，-y,形容词后缀。比喻用法，把难看的一面缝在里面。词义演变比较 seedy.
 	- a. 露出线缝的, 丑恶的
 	- [seedy](dic://seedy), [sleazy](dic://sleazy), [sordid](dic://sordid), [squalid](dic://squalid)
@@ -14319,7 +14410,7 @@ sham
 - _[sham battle](dic://sham%20battle)_  模拟战
 
 shackle
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - 来自古英语 sceacel,镣铐，脚链，来自 Proto-Germanic*skakulaz,镣铐，脚链，来自 PIE*skek,摇晃，词源同 shake.-le,工具格后缀。
 - _n._ [restraint](dic://restraint), [constraint](dic://constraint), [bar](dic://bar)
 - _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
@@ -15147,6 +15238,7 @@ slot
 slum
 - 缩写自 back slum,后街，穷人街，来自俚语 slum,房间，屋子，可能来自拟声词，模仿破屋子嘎吱嘎吱的声音。比较 slam,slammer.
 - slummy
+	-  (scruffy, unkempt, shabby; beat-up; scruffy; ropey; rattletrap; flimsy, sleazy,  bum, cheap, cheesy, chintzy, crummy, punk, tinny uncombed, ungroomed, untidy, ragged, tattered, dilapidated, schlock, slummy)
 	- _adj._ [poor](dic://poor)
 	- _n._ [rich](dic://rich)
 	- **seedy**多种子的;**posh**漂亮的;**slum**贫民窟;**slums**贫民，贫民区;**dilapidated**破旧的;**sleazy**质地薄的;**trashy**碎屑的;**ghetto**少数民族聚居区;**suburban**土气的;**filthy**污秽的;**derelict**玩忽职守的;
@@ -15459,6 +15551,7 @@ smack
 
 smother
 - (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother) (stifle, strangle, smother, muffle, repress, choke, douse, suffocate)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - 1 - 缩写自中古英语 smorthre,浓烟，来自古英语 smorian,使窒息，闷死，-ian,表动词，来自Proto-Germanic*smurona,窒息，闷死，词源可能同 smolder.-ther,工具格后缀，比较 tether,mother.引申比喻义抑制，扼杀。
 -  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter)
 - [surround](dic://surround)
@@ -15561,7 +15654,8 @@ south
 	- a. 向南行的, 向南行驶的
 
 sordid
-- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+-  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, scummy, filthy) 
+- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 - [seamy](dic://seamy), [seedy](dic://seedy), [sleazy](dic://sleazy), [squalid](dic://squalid)
 - [flyblown](dic://flyblown), [squalid](dic://squalid)
 - _adj._ [disreputable](dic://disreputable), [corrupt](dic://corrupt), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean), [acquisitive](dic://acquisitive)
@@ -16126,7 +16220,10 @@ squander
 - squanderingly
 - suanderer
 
-squelch (crunchy, squelch, )
+squelch
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+- (crunchy, squelch, scrunch, crunch, crush, )
+- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
 - n. 嘎吱声, 压碎的一堆, 使对手哑口无言的话  
 - vt. 压碎, 镇压, 使咯吱咯吱响  
 - vi. 咯吱咯吱响, 涉水而过
@@ -16167,6 +16264,7 @@ stake
 	- And more is at stake here than individual objects. /这里涉及的不仅仅是单个物体。
 	- The prize **at** **stake** is a place in the final. /这次如果获胜，便能进入决赛。
 	- We cannot afford to take risks when peoples' lives are **at** **stake** /现在人命交关，不容我们有闪失
+	- There's too much at stake to wait. - Mother! /有太多危险 不能再等了 -母亲！
 - _stake someone to something_ 为某人取得某物而提供金钱(或援助)，资助某人取得某物
 - _equity stake_ 股权
 - _go to the stake_ ◎(被绑在火刑柱上)受火刑;◎为自己的行为或信仰而受苦难;
@@ -16177,11 +16275,12 @@ stake
 - He set the stake in the ground. /他将桩子竖在地上。
 - a stake in her children's future. /给他孩子留出来的股份
 - I'd stake my all on it. /我拿我的一切打赌。
-- pitched stakes in the ground. /在地上打桩
+in the ground. /在地上打桩
 - staked out a place for herself in industry. /对她自己在工业中留一席之地
 - Our entire relationship might be at stake. / 我俩的关系就摇摇欲坠了。
 - The stakes are high in this room /这里竞争是很激烈的。
 - The mission is monumental. The personal and professional stakes are huge /这个任务具有纪念碑意义。个人和职业风险是巨大的。
+- But there's some sort of stakes to it, right? /但这有一定的风险，对吧？
 - sweepstakes /sweepstake
 	- n. 独得的赌金,赌金独得赛马,赌金,比赛
 	- The entry ticket must be filled out completely and deposited in the specific sweepstake boxes during the sweepstake period.Incomplete entries will be voided. /每位顾客每天限领壹张摸彩券，摸彩券必须填写完整，并投入店内摸彩箱中，资料填写不齐全者无效。
@@ -16340,7 +16439,7 @@ sterling
 - **silver**银;**pewter**锡铅合金,白镴;**gold**金，黄金;**earrings**耳环;**pound**英镑;**brooch**胸针，领针;**earring**耳环，耳饰;**bracelet**手镯;**pendant**下垂物，垂饰;**jewellery**珠宝;**brass**黄铜;
 
 stifle
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - 1 - 词源不确定，可能最终来自 PIE*steip,压紧，打包，塞满，词源同 stiff,stuff.-le,表反复。引申词义窒息，压制，扼杀等。
 - [smother](dic://smother), [strangle](dic://strangle), [muffle](dic://muffle), [repress](dic://repress)
 - [suffocate](dic://suffocate), [asphyxiate](dic://asphyxiate), [choke](dic://choke)
@@ -16619,7 +16718,7 @@ stub
 	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
 stymie
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- ((hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - . (喻)困难的境地  
 - vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍
 - [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
@@ -17048,7 +17147,7 @@ thaw
 thief
 - thievishness
 - thievish
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy, scummy)
 	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
 	- _n._ [honest](dic://honest, [honorable](dic://honorable)
 	- adj. 有偷窃癖的；贼似的；偷偷摸摸的
@@ -17521,7 +17620,7 @@ tower
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)

@@ -1130,14 +1130,15 @@
 		4. viaduct
 			1. **bridge**桥;**embankment**路堤;**railway**铁路;**tunnel**隧道;**roadway**路面;**walkway**通道，走道;**bridges**桥梁;**motorway**高速公路，汽车高速公路;**footpath**小路;**piers**支墩，支柱;**rail**横杆;
 		5. devious (obviate, deviate, devious, vitiate)
-			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
-			2. (covert, clandestine, sneaky, devious, furtive, surreptitious, indirect, guile)
-			3. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
-			4. [oblique](dic://oblique)
-			5. [shifty](dic://shifty)
-			6. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
-			7. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
-			8. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+			1.  (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, ) 
+			2. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
+			3. (covert, clandestine, sneaky, devious, furtive, surreptitious, indirect, guile)
+			4. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+			5. [oblique](dic://oblique)
+			6. [shifty](dic://shifty)
+			7. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+			8. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
+			9. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
 	6. trivia (vitriol, thrive, frivol, virile, trivia)
 		1.  [triviality](dic://triviality), [trifle](dic://trifle), [small beer](dic://small beer)
 		2. _n._ [object](dic://object), [physical object](dic://physical object)
@@ -2776,17 +2777,18 @@
 		13. involuntary, involuntarily
 	6. volunteer
 	7. voluptuary [美 /və'lʌptʃuɛri/](cmd://Speak/_us_/voluptuary)
-		1. n. 酒色之徒；纵情享乐的人 
-		2. adj. 耽于酒色的
-		3. **sensuality**喜爱感官享受;**pious**虔诚的;**sensual**感觉的;**nobleman**贵族;**aristocratic**贵族的;**mistress**情妇;**decadent**颓废的;**opulent**富裕的;**socialite**社会名流;**indulgence**放纵;**statesman**政治家;
-		4. _n._ [sensualist](dic://sensualist)
-		5. _adj._ [indulgent](dic://indulgent)
-		6. _n._ [nonindulgent](dic://nonindulgent), [strict](dic://strict)
-		7. _voluptuary_  n. 酒色之徒；纵情享乐的人; adj. 耽于酒色的;
-		8. an adventurous voluptuary
-		9. The depravity of the appetite, which brings the sexes together, has had a still more fatal effect. Nature must ever be the standard of taste, the guage of appetite — yet how grossly is nature insulted by the voluptuary. /使两性聚在一起的食欲的堕落产生了更致命的影响。自然必须永远成为品味的标准，食欲的衡量标准——然而，自然是多么严重地受到了享乐主义的侮辱。
-		10. I had become what is called a voluptuary; and to be a voluptuary is a physical condition like the condition of a victim of the morphine habit, of a drunkard, and of a smoker. /我变成了所谓的淫荡者； 成为一个好色之徒是一种身体状况， 就像吗啡成瘾者、酒鬼和吸烟者的状况一样。
-		11. He is an adventurous **voluptuary**, angling in all streams for variety of pleasures. /他是一个爱冒险的酒色之徒，涉猎于各种享乐之中。
+		1. (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, lecherous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal, seamy, seedy, sordid, squalid, sleazy, devious, ) 
+		2. n. 酒色之徒；纵情享乐的人 
+		3. adj. 耽于酒色的
+		4. **sensuality**喜爱感官享受;**pious**虔诚的;**sensual**感觉的;**nobleman**贵族;**aristocratic**贵族的;**mistress**情妇;**decadent**颓废的;**opulent**富裕的;**socialite**社会名流;**indulgence**放纵;**statesman**政治家;
+		5. _n._ [sensualist](dic://sensualist)
+		6. _adj._ [indulgent](dic://indulgent)
+		7. _n._ [nonindulgent](dic://nonindulgent), [strict](dic://strict)
+		8. _voluptuary_  n. 酒色之徒；纵情享乐的人; adj. 耽于酒色的;
+		9. an adventurous voluptuary
+		10. The depravity of the appetite, which brings the sexes together, has had a still more fatal effect. Nature must ever be the standard of taste, the guage of appetite — yet how grossly is nature insulted by the voluptuary. /使两性聚在一起的食欲的堕落产生了更致命的影响。自然必须永远成为品味的标准，食欲的衡量标准——然而，自然是多么严重地受到了享乐主义的侮辱。
+		11. I had become what is called a voluptuary; and to be a voluptuary is a physical condition like the condition of a victim of the morphine habit, of a drunkard, and of a smoker. /我变成了所谓的淫荡者； 成为一个好色之徒是一种身体状况， 就像吗啡成瘾者、酒鬼和吸烟者的状况一样。
+		12. He is an adventurous **voluptuary**, angling in all streams for variety of pleasures. /他是一个爱冒险的酒色之徒，涉猎于各种享乐之中。
 	9. voluptuous [美 /vəˈlʌptʃuəs/](cmd://Speak/_us_/voluptuous)
 		1. a. 体态丰满的, 性感的, 肉感的; 舒适的, 令人舒适的
 		2. voluptu-意愿 + -ous
@@ -2818,8 +2820,24 @@
 		12. _[for weal and woe](dic://for%20weal%20and%20woe)_ 无论在顺境或逆境
 		13. _[weal and woe detail](dic://weal%20and%20woe%20detail)_ 福祸
 		14. _[the weal and woe](dic://the%20weal%20and%20woe)_ 指生活上的困苦
-52. wealth
-53. will
+		15. wealth
+			1.  [wealthiness](dic://wealthiness)
+			2.  [riches](dic://riches)
+			3. _n._ [financial condition](dic://financial%20condition), [economic condition](dic://economic%20condition), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness), [material resource](dic://material%20resource), [property](dic://property)
+			4. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+				1. [wealth](dic://wealth) 普通用词，含义广。既可指大笔的钱财或物质财富，也可指抽象的精神财富。  
+				2. [assets](dic://assets) 法律和商业用词，指包括全部动产和不动产的资产。  
+				3. [estate](dic://estate) 多指地产或建在地面上的房产。  
+				4. [goods](dic://goods) 含义较窄，主要指个人动产。  
+				5. [property](dic://property) 含义较estate宽，指个人或团体合法拥有的财产，包括动产与不动产，或临时的财产。   
+				6. [resources](dic://resources) 指在需要时可以动用的财产，包括国家土地、矿藏、水力等自然资源或个人的存款及其他财产。 
+			5. **riches**财富;**prosperity**幸运;**rich**富有的;**abundance**大量, 充足;**knowledge**了解, 理解;**wealthy**富有的;**income**收入，收益;**inheritance**继承物, 遗产;**greed**贪婪，贪心;**fortune**运气;**redistribution**重新分配,再区分;
+		16. wealthy
+			1.  [affluent](dic://affluent), [flush](dic://flush), [loaded](dic://loaded), [moneyed](dic://moneyed)
+			2. _adj._ [rich](dic://rich)
+			3. _n._ [poor](dic://poor)
+			4. **affluent**富裕的;**rich**富有的;**millionaire**百万富翁;**middle-class**中产阶级的;**aristocratic**贵族的;**billionaire**亿万富翁;**impoverished**穷困的,无力的,用尽了的;**prosperous**繁荣的;**industrialist**工业家,实业家;**businessmen**生意人;**aristocracy**贵族;
+52. will
 #### ⭐ + \*wel- (3) + = to turn, to revolve
 54. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
 	1. elytron
@@ -3233,17 +3251,18 @@
 		7. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
 		8. _n._ [irreverence](dic://irreverence)
 		9. **admiration**钦佩;**adoration**爱慕;**deference**顺从;**devotion**热爱;**humility**谦卑，谦逊;**disdain**蔑视;**respect**尊敬，尊重;**affection**感情;**awe**使敬畏;**piety**虔诚;**majesty**威严;
-	4. venereal (venery, intercourse, voluptuous)
-		1. (venery, venal, venereal, venerate, vertebrate, vernal, venial, veneer,)
-		2. venery, 性欲，纵欲；狩猎
-		3. **venereal disease (old), STD (new)**
-		4. Adultery and **venereal** disease not cool, they griped. Also parliament was like, maybe what we need is a lot more censorship and fewer theaters
-		5. Syphilis was the most feared of **venereal** diseases
-		6. Aids and some **venereal** diseases, which are called century fatal diseases, are now doing serious harm to international community.
-		7. Yours, I understand, is the lamentable consequence of venery
-	6. venial
+	4. venereal 
+		1. (obscene, lewd, raunchy, salacious, dirty, vulgar, profane, pornographic, scandalous, leching, lubricious, sluttish, carnal, sultry, coquettish, cheeky, flirty, sassy, seductive, lascivious, sensual, erotic, sleazy, depraved, tantalize, wanton, ; amative; ruttish; lecherous;  aroused, horny, randy, steamy, turned on(p), skittish, oestrus, venery, intercourse, voluptuous, venereal) 
+		2. (venery, venal, venereal, venerate, vertebrate, vernal, venial, veneer, reverberate)
+		3. venery, 性欲，纵欲；狩猎
+		4. **venereal disease (old), STD (new)**
+		5. Adultery and **venereal** disease not cool, they griped. Also parliament was like, maybe what we need is a lot more censorship and fewer theaters
+		6. Syphilis was the most feared of **venereal** diseases
+		7. Aids and some **venereal** diseases, which are called century fatal diseases, are now doing serious harm to international community.
+		8. Yours, I understand, is the lamentable consequence of venery
+	5. venial
 		1. (piddling, facile, )
-		2. (venery, venal, venereal, venerate, vertebrate, vernal, venial, veneer,)
+		2. (venery, venal, venereal, venerate, vertebrate, vernal, venial, veneer, reverberate)
 		3. a. 可原谅的, 可宽恕的, 轻微的
 		4. - 来自拉丁语 venus,美丽，爱慕，渴求，词源同 Venus.引申词义纵容的，可原谅的。
 		5.  [minor](dic://minor)
@@ -3256,7 +3275,7 @@
 			1. burglary, trespass, disorderly 
 		12. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
 		13. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
-	7. venison
+	6. venison
 		1. 1. meat from a deer used as food
 		2. _n._ [game](dic://game)
 		3. **meat**肉，肉类;**beef**牛肉;**turkey**火鸡;**deer**鹿，梅花鹿;**lamb**羔羊，小羊;**elk**麋鹿;**veal**小牛肉;**meats**肉类;**pork**猪肉;**sausages**香肠， 腊肠;**bison**北美野牛;

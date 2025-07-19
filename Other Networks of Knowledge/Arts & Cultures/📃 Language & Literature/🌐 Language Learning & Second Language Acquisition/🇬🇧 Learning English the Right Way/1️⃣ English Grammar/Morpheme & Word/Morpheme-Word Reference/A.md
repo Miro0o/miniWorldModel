@@ -640,20 +640,21 @@
 		1. caching
 		2. cacheable
 		3. microcache
-	7. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet)  (bouquet, banquet cachet, crotchet, coquet, ratchet)
-		1. n. 公章, 私人印戳, 标记, 威望, 纪念邮戳
-		2. n. （证明品质的）优良标志；公务印章；私人印戳；标记；威望；纪念邮戳
-		3. 来自拉丁词coactare, 压缩，堆放。co-, 强调，-act, 做，压紧。在法语里指公文印章，特指国王印章，因而有了威望之意。
-		4. **prestige**威望，声望;**clout**破布;**allure**吸引;**notoriety**臭名昭著;**exclusivity**排外;**authenticity**可靠性;**coveted**梦寐以求的;**trappings**服饰;**rarity**罕见;**novelty**新奇;**sophistication**老练;
-		5. **fame**名声，名望;**prominence**声望, 杰出;**renown**声誉;**popularity**普遍,流行;**publicity**公众的注意;**acclaim**称赞;**reputation**名气, 名声, 名誉;**stardom**演员们;**obscurity**不明, 费解, 隐晦, 无闻;**prestige**威望，声望;**limelight**众人注目的中心;
-		6. [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels), [warrant](dic://warrant), [seal](dic://seal)
-		7. _[citizenial cachet](dic://citizenial%20cachet)_ 居民身份
-		8. True cachet lay in the old and customary. /老派的作风习惯体现了真正的贵族威望。
-		9. Cultural cachet and soaring sorghum costs saw Moutai prices skyrocket north of $200 a bottle in recent years. /近年来，文化声望的提升和飞涨的高粱成本使得茅台的价格飙升至每瓶200美元以上。
-		10. I mean that's gotta have some kind of cachet. /那可以算是项储备吧。
-		11. Additionally, the name has some serious cultural cachet. /还有，这个名字还有一些正宗的文化纪念意味
-		12. In Los Angeles, Hollywood still confers cachet. /在洛杉矶，好莱坞仍然享有声望。
-		13. When a job lacks cachet, renaming it can lessen stigma and signal that an employer takes the position seriously. /当一份工作缺乏声望时，重新命名可以减少耻辱感，并表明雇主认真对待该职位。
+	7. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet)  
+		1.  (bouquet, banquet cachet, crotchet, crochet, coquet, ratchet)
+		2. n. 公章, 私人印戳, 标记, 威望, 纪念邮戳
+		3. n. （证明品质的）优良标志；公务印章；私人印戳；标记；威望；纪念邮戳
+		4. 来自拉丁词coactare, 压缩，堆放。co-, 强调，-act, 做，压紧。在法语里指公文印章，特指国王印章，因而有了威望之意。
+		5. **prestige**威望，声望;**clout**破布;**allure**吸引;**notoriety**臭名昭著;**exclusivity**排外;**authenticity**可靠性;**coveted**梦寐以求的;**trappings**服饰;**rarity**罕见;**novelty**新奇;**sophistication**老练;
+		6. **fame**名声，名望;**prominence**声望, 杰出;**renown**声誉;**popularity**普遍,流行;**publicity**公众的注意;**acclaim**称赞;**reputation**名气, 名声, 名誉;**stardom**演员们;**obscurity**不明, 费解, 隐晦, 无闻;**prestige**威望，声望;**limelight**众人注目的中心;
+		7. [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels), [warrant](dic://warrant), [seal](dic://seal)
+		8. _[citizenial cachet](dic://citizenial%20cachet)_ 居民身份
+		9. True cachet lay in the old and customary. /老派的作风习惯体现了真正的贵族威望。
+		10. Cultural cachet and soaring sorghum costs saw Moutai prices skyrocket north of $200 a bottle in recent years. /近年来，文化声望的提升和飞涨的高粱成本使得茅台的价格飙升至每瓶200美元以上。
+		11. I mean that's gotta have some kind of cachet. /那可以算是项储备吧。
+		12. Additionally, the name has some serious cultural cachet. /还有，这个名字还有一些正宗的文化纪念意味
+		13. In Los Angeles, Hollywood still confers cachet. /在洛杉矶，好莱坞仍然享有声望。
+		14. When a job lacks cachet, renaming it can lessen stigma and signal that an employer takes the position seriously. /当一份工作缺乏声望时，重新命名可以减少耻辱感，并表明雇主认真对待该职位。
 	8. coagulopathy
 #### + \*ag- (2) +
 1. **ag-, ig-** 表示“说”。源自拉丁语。

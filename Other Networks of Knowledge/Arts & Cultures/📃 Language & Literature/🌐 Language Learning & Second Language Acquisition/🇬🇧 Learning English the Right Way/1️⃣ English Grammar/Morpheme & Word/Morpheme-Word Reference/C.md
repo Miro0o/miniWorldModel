@@ -781,7 +781,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	22. clamping
 	23. clamper
 	24. clampdown 
-		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
 		2. n. 压制；取缔；严禁
 		3. _n._ [limitation](dic://limitation), [restriction](dic://restriction)
 		4. **crackdown**压迫,镇压,打击;**censorship**审查员的职权;**protests**抗议;**draconian**非常严厉的;**repression**压抑;**ban**禁止;**arrests**停止点;**protest**抗议;**unrest**不安;**curtail**截断, 缩短;**imposition**强加,被迫接受;
@@ -1019,11 +1019,11 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. n. 权杖
 	13. cross
 	14. crotch
-		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+		1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, crutch, broche )
 		2. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
 		3. n. 分叉处, 丫叉, 胯部
-	16. crotchet
-		1. (bouquet, banquet, cachet, crotchet, crochet,  coquet)
+	15. crotchet   美 /'krɑːtʃɪt/
+		1.  (bouquet, banquet cachet, crotchet, crochet, coquet, ratchet)
 		2. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
 		3. n. 小钩；奇想；怪想；反复无常
 		4. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
@@ -1036,10 +1036,10 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		11. the natural crotchets of inveterate bachelors. /对老光棍们来说很自然的怪念头。
 		12. And beyond that, you get into crotchets and quavers and things. /除此之外，还有四分之一血统和八分之一血统之类的
 		13. These are small naughty will be want as an omnipotent and big hero, you you their strange think the **crotchet** , all of their funny problems resolve good. /这些小淘气会把你当成一个无所不能的大英雄，你要把他们的奇思怪想，他们的无厘头问题全部解决好。
-	17. crouch
-		1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+	16. crouch
+		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, broche)
 		2. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
-		3. n. 蹲伏, 蜷缩 
+		3. n. 蹲伏, 蜷缩
 		4. vi. 蹲下, 蜷着, 缩着  vt. 低头
 		5.  [stoop](dic://stoop), [bend](dic://bend), [bow](dic://bow)
 		6.  [squat](dic://squat), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [hunker](dic://hunker), [hunker down](dic://hunker down)
@@ -1052,18 +1052,19 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		13. Even from the distance where Ms. Achol is crouched, the ground shakes. /即使从阿科尔蹲着的远处看，地面也在震动。
 		14. Ms. Black was crouched near the door. /布莱克女士蜷缩在门边。
 		15. we crouched down in the trench. /我们蹲伏在战壕里。
-	18. crutch
-		1. n. 拐杖, 支撑, 依靠  vt. 支撑
-		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
-		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
-		4. they use the Internet as a crutch for their loneliness. /他们将因特网当作孤独时的精神寄托。
-		5. people who make use of crutches to ambulate. /借助T字形拐杖走路的人。
-		6. He needed aluminum crutches to walk. /他需要铝支架来帮助他行走。
-		7. Five hundred pounds and half the paperback rights is a pretty solid crutch, she said. /“五百英镑和平装本一半的版权，这可是相当可观的副业。”她说。
-		8. But I think you all for being my crutch in my career. You know what I mean. /我一直认为，你们是我职业生涯的支撑。你们懂我的意思。
-		9. 
-	19. encroach 
-		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+	17. crutch
+		1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, crutch, broche )
+		2. n. 拐杖, 支撑, 依靠  vt. 支撑
+		3. _n._ [staff](dic://staff), [expedient](dic://expedient)
+		4. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
+		5. they use the Internet as a crutch for their loneliness. /他们将因特网当作孤独时的精神寄托。
+		6. people who make use of crutches to ambulate. /借助T字形拐杖走路的人。
+		7. He needed aluminum crutches to walk. /他需要铝支架来帮助他行走。
+		8. Five hundred pounds and half the paperback rights is a pretty solid crutch, she said. /“五百英镑和平装本一半的版权，这可是相当可观的副业。”她说。
+		9. But I think you all for being my crutch in my career. You know what I mean. /我一直认为，你们是我职业生涯的支撑。你们懂我的意思。
+		10. 
+	18. encroach 
+		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, crutch, broche )
 		2.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
 		3. vi. 侵犯, 侵蚀, 蚕食
 		4. [infringe](dic://infringe), [impinge](dic://impinge)
@@ -1075,7 +1076,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		10. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
 		11. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
 		12. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
-	21. cricket
+	19. cricket
 		1. 蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 9. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
 	1. crux
