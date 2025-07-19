@@ -277,7 +277,29 @@
 		2. _n._ [pathology](dic://pathology)
 		3. **sepsis**败血症，脓毒病;**infection**传染;**MRSA**耐甲氧西林金黄色葡萄球菌;**bacterial**细菌的;**pneumonia**肺炎;**aureus**奥里斯;**bacteria**细菌;**morbidity**病态;**asymptomatic**无临床症状的;**biofilm**生物膜;**pathogen**病原体;
 	22. hyperaemia
-	23. anemic, anemia, anaemic, anaemia
+	23. anemic /anaemic
+		1. _adj._ [weak](dic://weak), [anemia](dic://anemia), [anaemia](dic://anaemia)
+		2. _n._ [strong](dic://strong)
+		3. **sluggish**萧条的;**lackluster**无光泽,暗淡;**weak**疲软的;**abysmal**深不可测的;**anemia**贫血;**dismal**凄凉的，忧郁的;**pitiful**可怜的，令人同情的;**bloated**傲慢的;**deficient**有缺点的，有缺陷的;**feeble**微弱的，无力的;**sickly**有病的，苍白的
+		4. It has moved from negative growth to very anemic progress or rather positive growth /目前意大利经济已经摆脱负增长，取得了微弱的进步，甚至出现了正增长。
+		5.  I'm no Spartan and hold up an anemic wrist to prove it./我可不是斯巴达人。我伸出一只苍白的手腕来证明。
+		6. Critics say that lack of transparency has contributed to Russia's anemic public vaccination rate /批评人士表示，缺乏透明度导致俄罗斯公共疫苗接种率低下。
+		7. Heidegger's ambition was to move away from philosophy as an overly anemic and intellectual endeavor. /海德格尔的野心是要摆脱哲学这种过于贫乏和理智的努力。
+		8. But the **anemic** pace of growth may continue /但是增长的乏力将会持续。
+		9. Especially in this **anemic** economy, timing is key in asking for a raise /在经济低迷时期，要求加薪时把握好时机尤其关键。
+		10. anemia /anaemia
+			1. n. 贫血, 贫血症, 无活力
+			2. an-没有 + em-血 + -ia...病 → 没有血的病 → 贫血症。
+			3. _n._ [blood disease](dic://blood%20disease), [blood disorder](dic://blood%20disorder), [symptom](dic://symptom), [fern genus](dic://fern%20genus)
+			4. **hemoglobin**血红素;**hypothyroidism**甲状腺机能减退;**malnutrition**营养失调，营养不良;**constipation**便秘;**diarrhea**腹泻，痢疾;**osteoporosis**骨质疏松症;**deficiency**缺乏, 不足, 短缺;**dehydration**脱水;**sickle**镰刀;**leukemia**白血病;**transfusion**输血;
+			5. _aplastic anemia_ [医]再生障碍性贫血
+			6. _iron deficiency anemia_ 缺铁性贫血
+			7. _hemolytic anemia_ 溶血性贫血
+			8. _pernicious anemia_ n. 恶性贫血
+			9. _sickle cell anemia_ [医]镰状细胞性贫血
+			10. _megaloblastic anemia_ 巨成红细胞性贫血
+			11. When you don't have enough iron, you can develop iron deficiency anemia. /当你没有摄入足够的铁时，会触发缺铁性贫血。
+			12. Trudel says the micro gravity they experience likely trigger space anemia as well /特鲁德尔说，他们经历的微重力也可能引发太空贫血。
 	24. acidemia, acidaemia
 		1. _n._ [blood disease](dic://blood disease), [blood disorder](dic://blood disorder)
 		2. **sepsis**败血症，脓毒病;**abnormality**不正常,反常,变态,畸形;**abnormalities**异常情况;**metabolic**新陈代谢的;**disorder**混乱;**syndrome**综合征;**lactate**分泌乳汁;**hypoxia**氧不足;**ischemia**局部缺血;**acid**酸，<俚>迷幻药;**anemia**贫血;
@@ -5055,12 +5077,17 @@
 		3. laxly
 		4. laxity
 		5. laxator
-		6. laxative (laxatives, emetic, constipate, )
-			1. lax【放松】 + -ative, 表形容词 → 放松的[药] → 泻药，是单词lax 派生的形容词。
-			2. a. 通便的, 轻度腹泻的  n. 通泻剂, 缓泻药  
+		6. laxative [美 /'læksətɪv/](cmd://Speak/_us_/laxative)
+			1. (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative, emetic, peptic)
+			2. lax【放松】 + -ative, 表形容词 → 放松的[药] → 泻药，是单词lax 派生的形容词。
+			3. a. 通便的, 轻度腹泻的  n. 通泻剂, 缓泻药  
+			4. _n._ [purgative](dic://purgative), [cathartic](dic://cathartic), [physic](dic://physic), [aperient](dic://aperient)
+			5. _adj._ [aperient](dic://aperient), [cathartic](dic://cathartic), [evacuant](dic://evacuant), [purgative](dic://purgative)
+			6. _n._ [costive](dic://costive)
+			7. **constipation**便秘;**stimulant**兴奋剂;**diarrhea**腹泻，痢疾;**digestive**消化的;**bowel**肠;**anti-inflammatory**抗炎的;**pills**丸剂;**antibacterial**抗菌的;**aspirin**阿司匹林;**medicinal**医学的;**herbal**草本的;
 		7. laxation
 			1. n. 松弛, 驰缓, 轻泻剂
-	9. relax
+	12. relax
 		1. relaxor
 		2. relaxometer
 		3. relaxin
@@ -5068,7 +5095,7 @@
 		5. relaxation
 		6. relaxant
 			1. a. 弛缓的  n. 弛缓药
-	10. delay
+	13. delay
 		1.  来自法语 delaie,来自 de-,向下，离开，-laie,留下，停留，词源同 lax,拼写受 lay 影响俗化，引申词义延迟。
 		2. undelayed
 		3. schdelay
@@ -5078,7 +5105,7 @@
 		7. delayed-action
 		8. delayed
 		9. delay-action
-	11. relish
+	14. relish
 		1. n. 滋味, 风味, 美味, 爱好, 食欲, 调味品  
 		2. vt. 调味, 喜欢, 玩味  vi. 有味道
 		3. 1 - 来自古法语 relaisser,留下，留在后面，来自拉丁语 relaxare,松开，松手，来自 re-,向后，离开，laxare,松开，词源同 lax,relax,release.拼写受-ish 影响俗化。后引申词义味道，回味，后用于指调料，佐料，并引申动词词义享受，喜欢。
@@ -5101,11 +5128,11 @@
 		20. disrelish
 			1. _disrelish_  vt. 嫌恶；讨厌; n. 嫌恶；讨厌;
 			2. _disgust disrelish distaste loathe_ 嫌恶
-4. catalectic
+7. catalectic
 	1. _n._ [line of poetry](dic://line of poetry), [line of verse](dic://line of verse)
 	2. _n._ [hypercatalectic](dic://hypercatalectic), [acatalectic](dic://acatalectic)
 	3. **stanza**诗节;**rhyme**韵脚;**metre**公尺;**poem**诗;**meter**公尺;**syllable**音节;
-5. slack
+8. slack
 	1. 1. _adj._ 松(弛)的
 	2. 清淡的，不活跃的
 	3. 懈怠的，马虎的
@@ -7438,8 +7465,13 @@
 		10. **harass**使烦恼;**sprout**长芽;**lurk**潜伏;
 		11. stalking horse掩护；借口。中世纪英格兰，猎人打猎时会使用一匹受过专门训练的马，让马看似人畜无害般接近猎物，而自己藏在马身后，进入射程，biubiu，猎物被打倒。The project is a stalking horse for exploitation of the iron mine. ​​​​
 		12. _corn stalk_ 玉米杆
-		13. _flower stalk_ n. 花柄
-		14. _pituitary stalk_ n. 垂体；脑垂腺柄
+		13. 1. **flower stalk**: 花柄；花梗；花序梗 
+		14. **Celery stalk**: 芹菜梗；西芹；西芹梗；芹菜杆 
+		15. _flower stalk_ n. 花柄
+		16. _pituitary stalk_ n. 垂体；脑垂腺柄
+		17. A single pale blue flower grows up from each joint on a long **stalk**. /一根长梗的每个节上都长出了一朵淡蓝色的花。
+		18. Police officers lie in wait for the gangs who **stalk** their prey at night. /警官们埋伏起来等待捉拿那些夜间悄悄追踪作案对象的黑帮成员。
+		19.  Look at the plant. Its **stalk** is long./看看这株植物。它的茎很长。
 	25. staid
 		1. [sedate](dic://sedate)
 		2. _adj._ [decorous](dic://decorous)
@@ -7727,13 +7759,13 @@
 		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
 		2. - v. 对……加注表示不删，保留 
 		3. n. 保留，不删
-8. **stauro-** = cross
+9. **stauro-** = cross
 	1. staurolatry
 	2. stauroscope
-9. stamen
+10. stamen
 	1. _n._ [reproductive structure](dic://reproductive structure)
 	2. **petals**花瓣;**petal**花瓣;**flower**花;**ovary**子房;**pollen**传授花粉给;**orchid**兰花;**blooms**水华;**flowering**开花的;**bloom**花;**bud**芽，萌芽;**blooming**盛开的;
-10. stem
+11. stem
 	1. n. 茎, 干, 柄, 船首, 血统, 堵塞物  
 	2. vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行  
 	3. vi. 堵住, 逆行
@@ -7745,7 +7777,7 @@
 		4. **arose**引发;**spurred**装有马刺的;**led**通向;**precipitated**沉淀的;**compounded**混合的;**partly**在一定程度上;**derived**导出的;**resulting**作为结果的,因而发生的;**attributable**的;**reflected**反射的;**hampered**受阻碍的;
 		5. _[stemmed goblet](dic://stemmed%20goblet)_ 高脚酒杯
 		6. stemware
-11. stow (bestow)
+12. stow (bestow)
 	1. 1. _vt._ 装, 装载
 	2. 无票偷乘(交通工具，尤指船或飞机)
 	3. 将某物收好(或保存好)

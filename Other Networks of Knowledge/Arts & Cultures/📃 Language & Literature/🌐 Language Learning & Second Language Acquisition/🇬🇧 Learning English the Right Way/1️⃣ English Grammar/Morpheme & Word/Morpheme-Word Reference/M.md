@@ -529,7 +529,7 @@
 ## me
 ### + \*me- +
 #### + \*me- (1) + = expressing certain qualities of mind
-> Also findable at `*mo-`
+> Also at `*mo-`
 
 1. **mor-** = moral, 表示“道德”。源自拉丁语 mos "wont, humor, manner, custom."
 	2. demoralize
@@ -734,13 +734,14 @@
 		6. What about two-thirds of rural high school girls in India who don't even understand what their bodies are going through at menarche? /印度三分之二的农村高中女生甚至不了解她们的身体在月经初潮时经历了什么？
 		7. premenarche
 		8. premenarchal
+	2. dysmenorrhea
 	3. amenorrhoea [美 /ei,menə'ri:ə/](cmd://Speak/_us_/amenorrhoea)
 		1. - n. 闭经（因生病或怀孕）
 		2. _n._ [symptom](dic://symptom)
 		3. **menstruation**月经;**hypothyroidism**甲状腺机能减退;**menopause**经绝期;**menstrual**月经的;**anorexia**厌食;**ovulation**排卵;**hormonal**荷尔蒙的，激素的;**symptoms**病徵;**osteoporosis**骨质疏松症;**constipation**便秘;**anemia**贫血;
-	5. menology
+	4. menology
 		1. n. （希腊教）圣诞节日历；（记有大事的）月历
-	6. menopause
+	5. menopause
 		1. n. 绝经期
 		2. _n._ [biological time](dic://biological time)
 		3. **hysterectomy**子宫切除;**puberty**青春期;**menstruation**月经;**hormonal**荷尔蒙的，激素的;**infertility**不肥沃,不毛;**estrogen**雌性激素;**osteoporosis**骨质疏松症;**menstrual**月经的;**ovulation**排卵;**pregnancy**怀孕;**progesterone**孕酮,黄体酮;
@@ -755,15 +756,15 @@
 			8. The results do not change recommendations concerning combination hormone therapy for the two-thirds of **menopausal** women. /对于更年期妇女，这结果并没有改变关于联合激素治疗的建议。
 		5. postmenopausal
 		6. perimenopausal
-	7. catamenia
+	6. catamenia
 		1. n. 月经
 		2. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
 		3. **menstruation**月经;**menstrual**月经的;
-	8. emmenagogue
+	7. emmenagogue
 		1. em-使 + men-月经 + -agogue, 引导
 		2. n. 月经促进剂, 通经剂, 调经剂
 		3. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
-	10. mensal
+	8. mensal [美 /ˈmɛnsəl/](cmd://Speak/_us_/mensal)
 		1. a. 每月一次的, 每月的, 餐桌的
 		2. mensal ['mensəl] adj.餐桌的；每月的。第一层含义中mens表桌子，与meat肉同源，mensal就是pertaining to a table；第二层含义与moon同源，本意是测量，于是mensal就是monthly。但是commensal共餐者与moon木有关系，而commensalism共生就是eating together了，比如大快朵颐的狮子和随后吃腐肉的秃鹫。
 		3. _[mensal rate](dic://mensal%20rate)_ 月息率
@@ -774,8 +775,11 @@
 		8. _[Rate per mensal](dic://Rate%20per%20mensal)_ 月率
 		9. _[Orgiastic night is mensal](dic://Orgiastic%20night%20is%20mensal)_ 狂欢夜餐桌
 		10. _[Desconto mensal via Serviço](dic://Desconto%20mensal%20via%20Servi%c3%a7o)_ 在部门内扣除
-	11. menses
-	12. menstrual
+	9. menses [美 /'mensiːz/](cmd://Speak/_us_/menses)
+		1.  [menstruation](dic://menstruation), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
+		2. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
+		3. **menstruation**月经;**menstrual**月经的;**ovulation**排卵;**menopause**经绝期;**intercourse**交往;**puberty**青春期;**cramps**肌肉抽筋;**ejaculation**突然的叫出声;**estrogen**雌性激素;**pregnancy**怀孕;**progesterone**孕酮,黄体酮;
+	10. menstrual
 		1. a. 月经的, 一月一次的, 每月的
 		2. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
 		3. **menstruation**月经;**ovulation**排卵;**menopause**经绝期;**cramps**肌肉抽筋;**hormonal**荷尔蒙的，激素的;**vaginal**阴道的;**fertility**肥沃;**pregnancy**怀孕;**postpartum**产后的;**estrogen**雌性激素;**uterine**子宫的;
@@ -789,16 +793,20 @@
 		5. postmenstrual
 		6. midmenstrual
 		7. intermenstrual
-	13. menstruate
+	11. menstruate
 		1. vi. 有月经
 		2. menstruation
+			1. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
+			2. **menstrual**月经的;**menopause**经绝期;**ovulation**排卵;**intercourse**交往;**puberty**青春期;**pregnancy**怀孕;**childbirth**分娩;**urination**撒尿;**fertility**肥沃;**miscarriage**流产;**ejaculation**突然的叫出声;
+			3. _irregular menstruation_ 月经不调
+			4. _abnormal menstruation_ 月经失调
 		3. pseudoimenstruation
-	14. menstruous
+	12. menstruous
 		1. a. 月经的, 行经的
-	15. menstruum
+	13. menstruum
 		1. premenstruum
 		2. intermenstruum
-	16. menotropin
+	14. menotropin
 5. **menisc** = 用于构成解刨学词汇，表示“半月板”。
 	1. meniscus
 		1. n. 新月形物, 半月板

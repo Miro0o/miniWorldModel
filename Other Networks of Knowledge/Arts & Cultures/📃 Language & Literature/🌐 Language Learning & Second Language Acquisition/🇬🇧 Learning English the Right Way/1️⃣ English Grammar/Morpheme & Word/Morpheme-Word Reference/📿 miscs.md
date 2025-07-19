@@ -259,6 +259,12 @@ all
 - all-around
 - all-American
 
+aloes
+- (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative, emetic, peptic)
+- - n. 芦荟（aloe 的复数）
+- _n._ [purgative](dic://purgative), [cathartic](dic://cathartic), [physic](dic://physic), [aperient](dic://aperient)
+- **shrubs**灌木;**cactus**仙人掌;**orchids**兰花，淡紫色;**shrub**灌木;**herbs**药草;**herb**香草，药草;**thorns**荆棘;**ferns**蕨类;**flowering**开花的;**fragrant**芳香的;**succulent**汁多味美的;
+
 amalgam
 - n. 汞合金, 汞齐
 - amalgam（汞合金）：能够“点石成金”的神秘药膏  
@@ -835,7 +841,7 @@ baste ( alabaster, baster)
 - Chuck it some garlic as well and start basting your steak. /再放些大蒜，开始给牛排涂油。
 - Pop the ribs back in the oven for another ten minutes, basting halfway through /把排骨放回烤箱，再烤10分钟，中途喷点水。
 - lambaste
-	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, )
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul)
 	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -1186,9 +1192,8 @@ blood
 	- Klaus is a vampire borne of a werewolf bloodline /克劳斯是含有狼人血统的吸血鬼。
 
 blot
-- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
-- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, )
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - vi. 吸墨水；弄上墨渍或污渍
 - vt. 涂污，弄脏；用吸墨纸弄干（或除去）
 - n. 污点，污渍；墨水渍
@@ -1565,6 +1570,20 @@ borne
 	- The commando force joined up with the airborne troops near the captured bridge /在被占领的桥梁附近,突击队和空降部队会合。
 	- The invading force, conscious of their numerical inferiority at sea, decided on an airborne attack /侵略军考虑到自己的海上兵力处于劣势，决定采取空降袭击。
 
+bough
+- n. 大树枝
+- 来自 PIE*bhagus,肘，手臂。
+- _n._ [limb](dic://limb), [tree branch](dic://tree%20branch)
+	- [branch](dic://branch) 普通用词，泛指树木比bough小一些的大枝或小枝，也可用于引申意义。  
+	- [limb](dic://limb) 多指主枝或大枝。  
+	- [bough](dic://bough) 指主枝或粗大强壮的枝。  
+	- [shoot](dic://shoot) 指植物或灌木刚长出的新枝、嫩枝或嫩芽。
+	- twig
+	- ramification
+	- leg
+- **bought**买;**fir**冷杉;**tree**树;**buy**购买;**snagged**水中多障碍的;**holly**冬青树;
+- 
+
 bounce
 - n. 跳, 跳跃, 弹力, 撞击  
 - vi. 反跳, 弹跳  vt. 使跳回, 撞击
@@ -1729,6 +1748,7 @@ brackish
 - spluttering brackish water, he struggled to regain his feet /他喀喀地吐了几口苦水后便挣扎着想要重新站起来。
 
 bramble
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble, bramble)
  - n. 荆棘, 悬钩子属植物, 黑莓
  -  词源同 broom,金雀花灌木，扫帚。
  - _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
@@ -2771,9 +2791,8 @@ cherub
 	- The star of the team was a blond, cherubic, and psychologically intense self-taught young engineer named Burrell Smith, who worshipped the code work of Wozniak and tried to pull off similar dazzling feats. 团队中的明星是一个叫伯勒尔·史密斯的无师自通的年轻工程师。他有一头金发，长着一张娃娃脸，内心却极其严肃认真，他十分崇拜沃兹尼亚克编写的代码，自己也想做出一些耀眼的成就
 
 chide
--  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
-- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 - **accuse**控告，指控;**criticize**评论, 批评;**rebuke**指责，非难;**embarrass**使窘迫;**criticise**批评;**mocking**嘲弄的;**condemn**判刑，定罪;**taunt**嘲弄;**denounce**谴责;**accusing**指责的;**shun**避开, 回避, 避免;
@@ -2952,6 +2971,10 @@ claw
 	- **snatched**抢夺;**leapt**跳跃;**curled**鬈发的;**slid**滑;**leaped**跳跃;**clung**紧握;**scraped**报废;**dragged**拖动;**slipped**打滑的;**slashed**削减;**pushed**处于窘境的;
 - clapperclaw
 	- vi. 抓殴, 痛骂
+
+cleave
+- (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, gash)
+- gleubh-
 
 cliche
 - (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
@@ -3469,9 +3492,8 @@ cower
 - " Yeah. I don't have to cower in a herd anymore, " said the sheep. /" 对。我再也不用战战兢兢地躲在羊群里了。" 小绵羊说道。
 
 crab
-- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
-- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - **lobster**龙虾;**shrimp**虾;**clam**蚌, 蛤;**prawns**大虾，对虾;**clams**蛤蚌;**fish**捕鱼，钓鱼;**shellfish**贝;**seafood**海鲜;**octopus**章鱼;**turtle**海龟;**oyster**牡蛎，蚝;
 - [decapod crustacean](dic://decapod crustacean), [decapod](dic://decapod), [grouch](dic://grouch), [grump](dic://grump), [crank](dic://crank), [churl](dic://churl), [crosspatch](dic://crosspatch)
 - [steer](dic://steer), [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head)
@@ -3518,8 +3540,8 @@ croon (different from shirk/caterwauling)
 - **sing**唱歌;**soulful**感情上的;**ballad**歌谣，民谣;**ballads**民歌;**singing**歌声;**sweetly**惬意地;**sang**sing的过去式;**baritone**男中音;**sultry**闷热的;**vocals**元音;**sung**唱歌;
 
 crumble
-- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
-- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
+-  (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble, bramble)
 - **collapse**倒塌;**shatter**打碎;**crumbly**脆的;**topple**倾倒;**collapsing**压扁,毁坏,断裂;**erode**腐蚀，侵蚀;**harden**变硬，变坚固;**deteriorate**恶化;**disappear**不见, 消失;**dissolve**使溶解;**brittle**易碎的，脆弱的;
 - [crumple](dic://crumple), [tumble](dic://tumble), [break down](dic://break down), [collapse](dic://collapse)
 - [decay](dic://decay), [delapidate](dic://delapidate)
@@ -4417,7 +4439,7 @@ feist [美 /faɪst/](cmd://Speak/_us_/feist)
 	- For example, characters with red hair are typically passionate, feisty, adventurous and highly opinionated. /比如红发角色通常热情好胜，敢于冒险并且固执己见。
 
 fetter
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
@@ -4462,7 +4484,7 @@ fidget (fiddle, piddle)
  - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
  - fidgety
 	 - (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	 - unable to relax or be still
 	 - a. 不安的, 烦躁的
 	 - [antsy](dic://antsy), [fretful](dic://fretful), [itchy](dic://itchy), [restless](dic://restless)
@@ -4905,19 +4927,46 @@ fleet
 - fleeting
 - fleet-footed
 
-flout (flaunt) (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
-- 词源不详。可能来自 flute,笛子，长笛。原指吹笛的人，引申词义藐视，瞧不起。可能是来自人们心目中艺术家的清冷，高傲。
-- **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
-- [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
-- [jeer](dic://jeer), [scoff](dic://scoff), [barrack](dic://barrack), [gibe](dic://gibe)
-- 
+flick
+- n. 快速的轻打, 轻打声, 弹开  
+- v. 轻弹, 轻轻拂去, 忽然摇动; 浏览
+- 1 - 来自辅音丛 bl-,fl-,折腾，拍打，拟声词，词源同 flap,flip.-ck,清脆音，比较 click.
+-  [movie](dic://movie), [film](dic://film), [picture](dic://picture), [moving picture](dic://moving picture), [moving-picture show](dic://moving-picture show), [motion picture](dic://motion picture), [motion-picture show](dic://motion-picture show), [picture show](dic://picture show), [pic](dic://pic)
+-  [flicker](dic://flicker)
+-  [flip](dic://flip), [thumb](dic://thumb), [riffle](dic://riffle), [leaf](dic://leaf), [riff](dic://riff)
+-  [jerk](dic://jerk)
+-  [flicker](dic://flicker)
+- [ruffle](dic://ruffle), [riffle](dic://riffle) 1. twitch or flutter
+-  [snap](dic://snap), [click](dic://click)
+- _n._ [contact](dic://contact), [impinging](dic://impinging), [striking](dic://striking), [show](dic://show)
+- _v._ [flash](dic://flash), [blink](dic://blink), [wink](dic://wink), [twinkle](dic://twinkle), [winkle](dic://winkle), [peruse](dic://peruse), [throw](dic://throw)
+- **movie**电影;**film**胶卷;**blockbuster**重磅炸弹, 了不起的人或事;**movies**电影;**thriller**使人毛骨悚然的东西;**sequel**续集;**films**电影;**horror**惊骇;**sci-fi**科幻;**remake**重做;**chick**小鸡;
+- _[flick knife](dic://flick%20knife)_  弹簧刀
+- _[chick flick](dic://chick%20flick)_  针对女性观众的电影
+- _[flick away](dic://flick%20away)_  拂去；弹去
+- _[flick out](dic://flick%20out)_  猛然伸出；不经意抛掉
+- _[flick over](dic://flick%20over)_  翻书页; 急速地翻阅; 
+- _[flick noise](dic://flick%20noise)_  闪光噪声
+- _[flicking](dic://flicking)_  v. 轻击；弹开；轻快移动；抽打（flick 的现在分词）
+- _[flick back](dic://flick%20back)_  向后弹踢腿跳
+- _[flicks](dic://flicks)_  推击球; 绒毛; 微跳; (尤指用手指或手快速地)轻击( flick的第三人称单数 ); 
+- _[flick off](dic://flick%20off)_  v. 弹去；拂去 
+- flicker
+	- flickers
+	- flickering
+- flick-knife
 
 flinch
 - **cringe**畏缩;**instinctively**本能地;**shudder**震动;**tremble**战栗;**scream**尖叫;**recoil**畏缩, 退缩;**smirk**傻笑;**stare**凝视，盯着看;**startled**震惊;**groan**呻吟;**shiver**颤抖，战栗;
+- [wince](dic://wince)
 -  [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [recoil](dic://recoil), [quail](dic://quail)
+- _n._ [startle](dic://startle), [jump](dic://jump), [start](dic://start)
+- _v._ [move](dic://move)
+- **cringe**畏缩;**instinctively**本能地;**shudder**震动;**tremble**战栗;**scream**尖叫;**recoil**畏缩, 退缩;**smirk**傻笑;**stare**凝视，盯着看;**startled**震惊;**groan**呻吟;**shiver**颤抖，战栗;
+- _flinch from_ 躲闪；在…面前退缩
 - unflinching
 
-flinder
+flinder (splinter)
 - n.<英>碎块，碎片；蝴蝶 
 - vi.<苏格兰>不安地奔走 
 - vt.<苏格兰>打碎，使成碎片
@@ -4942,6 +4991,12 @@ flub (founder /gaffe /blunder /flummox /flub /)
 - There aren't any slips or flubs in the script written by our scriptwriter, the wonderful Dr. Lucy Tse /我们的编剧，出色的谢露西博士所写的剧本没有任何错误或错误。
 - A "blooper" (blooper) is similar to a flub or a slip – it's a mistake /“失误” （blooper）类似于失误或失误——这是一个错误。
 - If you try a sales technique and **flub** it, not making a sale, will you try it again? /如果你尝试了一种销售技巧，但是没有成功，一份单子都没做成，你会再试一次吗？
+
+flout (flaunt) (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
+- 词源不详。可能来自 flute,笛子，长笛。原指吹笛的人，引申词义藐视，瞧不起。可能是来自人们心目中艺术家的清冷，高傲。
+- **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
+- [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+- [jeer](dic://jeer), [scoff](dic://scoff), [barrack](dic://barrack), [gibe](dic://gibe)
 
 fluke
 - n. 侥幸；锚爪；意外的挫折 
@@ -5857,6 +5912,7 @@ gift
 - foregift
 
 gimcrack
+- (gaudy, brassy, flashy, garish, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy, crass, vulgar, frivolous, pretentious, posh, jazzy, smart, sporty, showy, swish, classy, stylish, fashionable, glamorous, trendy, fancy, chic, luxury, dash, elan, flair, panache, finesse, charisma, sophistication, swagger, gusto, gorgeous, magnificent, resplendent, ornate, superb, glitz,  glitz-and-glam, pomp, vain, ostentatious, Vanity Fair, philistine, frill, glorified, frippery, speciosity, slickly, vogue, dandyism, dandiacal, upper, polite, foppish, foppery, spark, trumpery)
 - a. 华而不实的  
 - n. 华而不实的东西, 小玩意
 - 词源不详，可能来自拟声词。gim-,沙沙作响，crack,破裂声。即金属装饰片哗啦作响的声音，花里胡哨的，引申词义劣质的。
@@ -6109,7 +6165,7 @@ grass
 
 grate (integrate) 
 -  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
 - v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
@@ -6146,7 +6202,7 @@ grate (integrate)
 gravel (grovel， gavel)
 - n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
 -  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 -  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
@@ -6484,7 +6540,7 @@ grump
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
 - grumpy
 	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**angry**生气的;**annoyed**恼怒的;**tired**疲倦的;**smug**自满的, 沾沾自喜的;**chatty**饶舌的;**moody**喜怒无常的;**jaded**厌倦的;**jolly**愉快的;
 	-  [crabbed](dic://crabbed), [crabby](dic://crabby), [cross](dic://cross), [fussy](dic://fussy), [grouchy](dic://grouchy), [bad-tempered](dic://bad-tempered), [ill-tempered](dic://ill-tempered)
 
@@ -6495,7 +6551,7 @@ grunt
 	- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)
 - disgruntle
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	- - v. 使……不高兴，使愠怒
 	- _v._ [dissatisfy](dic://dissatisfy)
 	- **angry**生气的;**alienate**使疏远，离间;**unhappy**不幸福的;**annoy**骚扰;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**frustrate**使不成功, 挫败, 阻止;**grumpy**脾气暴躁的;**jaded**厌倦的;**hapless**运气不好的，倒霉的;**appease**使平息;**annoyed**恼怒的;
@@ -6749,7 +6805,7 @@ ham
 - hamstring
 	- n. 后腿腱  
 	- vt. 使无能为力; 妨碍; 切断腿腱使成跛腿
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+	-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 	- **groin**腹股沟;**knee**膝盖，膝;**ankle**踝关节，踝;**soreness**悲伤;**tendon**腱;**ligament**韧带;**injury**伤害，损害;**calf**小牛;**biceps**二头肌，强健的筋肉;**tightness**坚固,紧密;**thigh**大腿
 	- Farming, the north's main source of income, has been hamstrung. .作为北方最主要的收入来源的农业也因此荒废。
 	- The slightly kinder reading is that the dowager empress was hamstrung by convention unable to pick anyone older. /稍微温和一点的解读是，皇太后被传统束缚，无法挑选年龄更大的人。
@@ -6913,7 +6969,7 @@ hamper
 	- _handicraft industry_ 手工业
 	- _handicraft article_ 工艺美术品
 - handicap
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+	-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 	- _n._ 障碍 ;(生理或智力上的)缺陷；残疾; 加给强对手的不利条件
 	- _vt._ 妨碍；使不利 使(某人)行动和生活不正常
 	- [disability](dic://disability), [disablement](dic://disablement), [impairment](dic://impairment)
@@ -7911,7 +7967,7 @@ hind
 - hindlimb
 - hindgut
 - hinder
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 	- [impede](dic://impede)
 	- [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
@@ -8736,7 +8792,7 @@ ire
 	- an irate phone call. /一个愤怒的电话
 - irascible
 	-   (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 	- _adj._ [ill-natured](dic://ill-natured), [angry](dic://angry)
 	- _n._ [good-natured](dic://good-natured),
@@ -8838,6 +8894,15 @@ jar
 	- **disconcerting**困惑的, 不安的, 尴尬的;**unsettling**使人不安的;**unnerving**使人胆怯的;**abrupt**突然的;**startling**令人震惊的,惊人的;**juxtaposition**并置,并列;**disjointed**脱离开的,不连贯的;**awkward**笨拙的;**disturbing**烦扰的;**clunky**沉重的;**oddly**古怪地;
 	- [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
 	- [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+- ajar
+	- a. 微开的, 半开的, 不和谐的  
+	- ad. 微开, 半开, 不协调地  
+	-  来自短语 on char.来自 char,转，词源同 chore,家务杂事（像陀螺一样干不完）。
+	- _adj._ [open](dic://open), [unfastened](dic://unfastened)
+	- _n._ [shut](dic://shut), [unopen](dic://unopen), [closed](dic://closed)
+	- **door**门;**doors**大门;**doorway**门口;**sill**窗台;**lid**盖子;**locked**上锁的;**open**营业着的;**startled**震惊;
+	- The door was ajar, so the cat was able to come in. /门半开着, 因此猫可以进来。
+	- At the south of the hall, there is a vivid stalactite like a live lion at the ajar antre, so the hall was named “Lion hall”. /雄狮大厅南端半敞开洞口处的钟乳凝石酷似一头栩栩如生的雄狮而得名。
 
 jerk
 - 词源不详，可能来自拟声词，模仿猛拉，颠簸，嘎吱作响的声音。词义混蛋，二流子可能缩写自俚语 jerk off,手淫，手淫坯子。比较 wank,wanker.
@@ -9277,9 +9342,8 @@ lam
 - lamster
 	-  逃犯（等于lamister）
 - lambaste, lambast
-	-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
-	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame)
+	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
@@ -10138,6 +10202,7 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait)
 	- mangle a text by poor typesetting /由于排字不好而糟蹋全文
 	- the car was mangled almost beyond recognition. /这辆轿车被毁得面目全非。
 - maul
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul)
 	- vt. 袭击, 撕咬; 轻易击败; 粗手粗脚地摆弄; 抨击
 	- v. 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球 
 	- n. 大槌（等于beetle）；（英国橄榄）围挤抢球 
@@ -10715,7 +10780,7 @@ net
 - netty
 - nettle
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - netting
 - netted
 - netstat
@@ -10740,7 +10805,7 @@ net
 - netty
 - nettle
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	- 来自net , 网。即织网的材料，用于指荨麻。
 	- n. 荨麻 vt. 使烦恼, 使生气; 以荨麻刺
 	- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
@@ -11332,7 +11397,7 @@ peeve
 -  v. 惹恼；（使）恼怒
 - n. 惹人生气的原因
 -   (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
 - [temper](dic://temper), [mood](dic://mood), [humor](dic://humor), [humour](dic://humour)
@@ -11346,7 +11411,7 @@ peeve
 - She was in a **peeve** over it. /她对这很气恼。
 - peevish
 	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 	- 词源不详，可能来自 perverse 受-ish 影响的俗化形式，词义由任性的，无理取闹的引申为生气的，易怒的等。
 	- [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
 	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**grumpy**脾气暴躁的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**condescending**降低身份的,屈尊的;**angry**生气的;**pompous**浮夸的;**impatient**不耐烦的, 急躁的;**obnoxious**可憎的
@@ -12412,7 +12477,7 @@ qualify
 - disqualify
 
 quash
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - 来自拉丁语 quassare,使无效，来自 cassare 拼写变体，来自 PIE*kes,砍，切，来自 PIE*skei,砍，切，词源同 caste,segment,scissors.
 - [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
 - [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
@@ -12427,7 +12492,7 @@ queer
 - terkw-
 
 quell
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - [squelch](dic://squelch), [quench](dic://quench)
 - [stay](dic://stay), [appease](dic://appease)
 - **suppress**抑制;**subdue**征服;**incite**煽动;**alleviate**缓和;**appease**使平息;**dampen**抑制;**stifle**使窒息;**sparking**发火花;**soothe**安慰;**thwart**反对;**relieve**解除，减轻;
@@ -12436,7 +12501,7 @@ quell
 - Troops were called in to quell the violence. /部队被调来平息暴力事件。
 
 quench
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - v. （喝水）止（渴）；满足（欲望）；扑灭，熄灭（火）；抑制，压制（感情）；（尤指用冷水或油）将……淬火，使冷却；控制（发光、震动或放电等效果） 
 - n. 淬火
 - satisfy (thirst)
@@ -12569,13 +12634,37 @@ raddle
 
 rag
 - (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服  
 - vt. 责骂, 揶揄, 戏弄  
 - vi. 喧闹
+- 1. n. 破布；碎屑 vt. 戏弄；责骂 vi. 变破碎；穿着讲究
 - a red rag to a bull惹人生气的事。rag是破布，bull是公牛，传说中西班牙斗牛表演中......错！其实据说牛的视觉系统并不能把红色和其它颜色区分开来，惹它愤怒的是布的抖动，而不是布的颜色，换块绿色的布，它一样会狂躁地冲过来。Just mentioning hisex-wife's name was like a red rag to a bull. ​​​​
 - 来自古诺斯语 rogg,破布，粗糙的纺织物，来自 PIE*reue,撕开，粉碎，词源同 ruin,rough,rug.  
 - 词源不详，可能为拟声词。
+-  [shred](dic://shred), [tag](dic://tag), [tag end](dic://tag end), [tatter](dic://tatter)
+-  [rag week](dic://rag week)
+- [ragtime](dic://ragtime)
+-  [tabloid](dic://tabloid), [sheet](dic://sheet)
+-  [torment](dic://torment), [bedevil](dic://bedevil), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate)
+-  [annoy](dic://annoy), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
+-  [tease](dic://tease), [razz](dic://razz), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [twit](dic://twit), [rally](dic://rally), [ride](dic://ride)
+-  [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+- _n._ [piece of cloth](dic://piece%20of%20cloth), [piece of material](dic://piece%20of%20material), [week](dic://week), [hebdomad](dic://hebdomad), [dance music](dic://dance%20music), [danceroom music](dic://danceroom%20music), [ballroom music](dic://ballroom%20music)
+- _v._ [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy), [chevy](dic://chevy), [chevvy](dic://chevvy)
+- **cloth**布，织物;**towel**毛巾，手巾;**doll**洋娃娃;**newspaper**报纸;**paper**纸;**cloths**织物;**flannel**法兰绒;**rub**擦;**tabloid**小报;**smear**涂抹;**handkerchief**手帕;
+- _in rags_ 穿着破衣，衣衫褴褛
+- _from rags to riches_ 由穷致富
+- _red rag_ 斗牛用的红布；激怒人的东西
+- _rag doll_ 布洋娃娃；碎布制玩偶
+- _rag trade_ 服装业
+- _glad rags_ 晚礼服；盛装
+- _chew the rag_ 聊天，闲聊；争论；发牢骚
+- _on the rag_ [美国俚语](妇女)正行经的，月经来潮的
+- They're so great for like three seconds and then there's these disgusting rags /它们一开始感觉很舒服 三秒之后就变成了恶心的抹布。
+- She could not possibly be seen in such a rag. /穿得这么破破烂烂的，叫她怎么见人。
+- Well, listen, uh, I have got to get some fresh rags. /对了 我得换身衣服了。
+- 
 
 raise
 - n. 上升, 高地, 增高  
@@ -12626,6 +12715,15 @@ ramp (romp)
 	- I understand when parents are saying, where's the offramp? /我明白父母在说，出口匝道在哪里？
 	- It's like following a getaway car that is making exits off of offramps and going through tunnels and going onto different roads and merging onto other roads to try to lose the path of the car that's behind them, chasing /这就像跟随一辆逃跑的汽车，从匝道出口出来，穿过隧道，进入不同的道路，并入其他道路，试图失去后面追赶的汽车的路径。
 
+rand
+- n. 兰特, (非正式)边, 田埂, 缘
+- 1 - 来自古英语 rand,边缘，边界，来自 Proto-Germanic*randaz,边缘，边界，来自 PIE*rent,撕开，砍，劈，词源同 rend,rind.  
+- 2 - 南非货币单位。来自 Witwatersrand,白水岭，来自 wit,白色的，词源同 white,waters,水域，rand,边界，岭。为南非著名金矿产区。
+- _n._ [South African monetary unit](dic://South%20African%20monetary%20unit), [writer](dic://writer), [author](dic://author), [region](dic://region), [part](dic://part)
+- **dollar**美元;**rupee**卢比;
+- Funeral costs range from 5,000 rand ($650) to 70,000 rand or more, not including headstones and catering. /一个葬礼要花掉5,000兰特（650美元）到70,000兰特，甚至更多，这还不包括墓碑和酒 席的花费。
+- The boys yelled and rand around as much as they wanted. /孩子们大喊大叫，想干什么就干什么。
+
 rant
 - [harangue](dic://harangue), [ranting](dic://ranting)
 - [bombast](dic://bombast), [fustian](dic://fustian), [claptrap](dic://claptrap), [blah](dic://blah)
@@ -12671,7 +12769,7 @@ ratchet
 
 rattle
 -  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust, irk, irritate, bother, annoy, gravel)
 - [rattling](dic://rattling), [rale](dic://rale)
 - _n._ [noise](dic://noise), [plaything](dic://plaything), [toy](dic://toy), [tail](dic://tail)
 - _v._ [sound](dic://sound), [go](dic://go), [shake](dic://shake), [agitate](dic://agitate)
@@ -12882,7 +12980,7 @@ regard
 	- disregardful
 
 rein
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - 来自（缩写自）拉丁语 retinere,维持，控制，词源同 retain.引申诸相关词义。
 	- [harness](dic://harness), [rein in](dic://rein in), [draw rein](dic://draw rein)
 	- [rein in](dic://rein in)
@@ -12899,6 +12997,19 @@ rein
 - neckrein
 - checkrein
 - bridle-rein
+
+rend
+-  [rip](dic://rip), [rive](dic://rive), [pull](dic://pull)
+- _v._ [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap), [bust](dic://bust)
+- **rip**撕;**pierce**刺穿;**tore**撕开;
+- _[turn and rend](dic://turn%20and%20rend)_  vt. 攻击
+- _[rap and rend](dic://rap%20and%20rend)_  v. 盗窃；不择手段地收集
+- _[rending effect](dic://rending%20effect)_  破裂效应
+- She was rending her hair out in anger. /她气愤得直扯自己的头发。
+- I beseech you now, boys, respect the terrible sorrow that is now rending his soul. /望你们大家同情他的苦痛。
+- Priests know that Christmas can be tinged with some heart rending conversations about the pain of loneliness. /牧师们知道，圣诞节会有关于孤独之痛的令人伤心的谈话。
+- It's true, there is a bloodlust; I want to tear, gouge, rend. /的确, 有一种嗜血的欲望;我想撕裂, 挖洞, 撕裂。
+- Even before the rending sound which followed Meriem knew that she had misjudged the strength of the limb /甚至在紧随其后的撕裂声之前， 梅瑞姆就知道她误判了肢体的力量。
 
 retch [美 /retʃ/](cmd://Speak/_us_/retch) (ratchet [美 /'rætʃɪt/](cmd://Speak/_us_/ratchet)) 
 - vi. 作呕, 反胃  vt. 呕吐  
@@ -12979,8 +13090,8 @@ rife
 - They carry dengue fever, which is rife here at the moment. /它们携带着登革热病毒，目前登革热在这里很流行。
 
 riffle
-- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
-- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
+-  (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble, bramble)
 - 1 - 可能来自 ruffle 变皱，起皱，词义受 ripple 影响。现主要词义翻动可能来自拟声词，模仿翻东西的声音。
 - n. 浅滩, 急流, 涟漪, 弹洗  
 - vt. 使起涟漪, 迅速翻阅, 弹洗洗牌  
@@ -13030,15 +13141,35 @@ rig
 - _n._ [difficulty](dic://difficulty), [difficultness](dic://difficultness), [credibility](dic://credibility), [credibleness](dic://credibleness), [believability](dic://believability), [sternness](dic://sternness), [strictness](dic://strictness)
 - **rigorous**严格的，严厉的;**objectivity**客观性,客观现实;**sophistication**老练;**discipline**纪律;**rigidity**硬度，刚性;**originality**独创性;**vigor**活力，精力;**academic**学院的;**honesty**诚实，正直;**complexity**复杂;**rationality**理性;
 
+rind
+- n. (水果) 皮; (熏肉) 外皮
+- - n. 壳；外皮 vt. 剥壳；削皮
+- - 来自古英语 rinde,树皮，果皮，来自 Proto-Germanic*树皮，果皮，来自 PIE*rent,砍，撕，词源同 rand,rend.
+-  [skin](dic://skin), [peel](dic://peel)
+- _n._ [plant tissue](dic://plant%20tissue), [material](dic://material), [stuff](dic://stuff)
+- **curd**凝乳;**peel**剥，剥落;**melon**瓜;**grapefruit**葡萄柚;**watermelon**西瓜;**pear**梨树;**cheese**奶酪;**citrus**柑橘属果树;**lemon**柠檬色的;**brine**卤水, 浓盐水;**orange**橘色的;
+- _[pork rinds](dic://pork%20rinds)_  猪皮
+- _[ice rind](dic://ice%20rind)_  冰壳; 冰皮; 
+- _[pork rind](dic://pork%20rind)_  猪皮；猪肉皮
+- _[cheese rind](dic://cheese%20rind)_  干酪皮
+- _[litchi rind](dic://litchi%20rind)_  荔枝皮
+- _[micritic rind](dic://micritic%20rind)_  泥皮
+- _[pomegranate rind](dic://pomegranate%20rind)_  石榴皮
+- _[rind gall](dic://rind%20gall)_  n. 伤皮愈合
+- _[green rind shaddock](dic://green%20rind%20shaddock)_  桑麻油
+- _[internal rind of the bamboo](dic://internal%20rind%20of%20the%20bamboo)_  竹衣
+- We're gonna cut the rind off. /我们要把奶酪皮切掉。
+- If you don't have a parmesan rind lying around, don't sweat it. /如果你没有帕尔马干酪皮也没事。
+- Into the beaten egg yolks and sugar go the rind and juice of the lemons. /打过的蛋黄和糖里面加入柠檬皮和柠檬汁。
+- The rind usually has a basket-weave pattern pressed onto it. /奶酪皮上通常压有篮织图案。
+- If the sound isn't hollow it means the rind is too thick. /如果声音不是空洞的，则说明果皮太厚。
+
 rip
 - rei- (1)
 
 ripple
-- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+-  (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
 - rei- (1)
-
-rive
-- rei-(1)
 
 rite
 - ritual
@@ -13052,6 +13183,7 @@ rite
 
 rive
 - reue-
+- rei-(1)
 
 rivet ()
 - 来自古法语 rivet,钉子，铆钉，来自 river,固定，系牢，钉紧，词源不详。可能进一步来自拉丁语 ripa,河岸，海滨，来自 PIE*rei,撕开，劈，砍，词源同 rift,riven,riparian.
@@ -13816,7 +13948,7 @@ scold (scathe, scold, scald)
 - n. 好骂街的人, 责骂  
 - v. 责骂
 -  词源不确定。
-- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, )
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul)
 -  [scolder](dic://scolder), [nag](dic://nag), [nagger](dic://nagger), [common scold](dic://common scold)
 - [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - [grouch](dic://grouch), [grumble](dic://grumble)
@@ -13894,7 +14026,7 @@ screech
 - a bus screeched to a halt /公共汽车嘎的一声停住了。
 
 scrunch
-- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+-  (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
 - (crunchy, squelch, scrunch, crunch, crush, )
 - vt. 碾碎, 缩紧  
 - vi. 嘎吱地响, 蜷缩  
@@ -13913,6 +14045,13 @@ scrunch
 - It lay clenched on top of her blankets, and bending closer, he saw that a piece of paper was scrunched inside her fist. /那只紧握的手放在毯子上面，哈利凑近一些，看见她的拳头里攥着一张纸。
 - Her feet **scrunch** on the gravel. /她的脚喀嚓喀嚓地踩在沙砾上。
 - Do the "**scrunch** test" to see if clothes stay wrinkly. /看衣服是否容易褶皱，做“揉捏测试”
+
+scrunchie
+- - n. 发束/ 大肠发圈
+- The hymen is like a scrunchie in function as well as in looks /处女膜在功能和外观上都像发带。
+- And you can stretch a scrunchie, right? /你可以拉伸发带， 对吧？
+- And, I just always like having a scrunchie with me. /而且，我总是喜欢带着发圈。
+- I'm serious, I'll wear him like a scrunchie. /我说真的 毛茸茸的都可以做发带了。
 
 scud
 - n. 疾行；飘飞的云；[俚]飞毛腿
@@ -13940,7 +14079,10 @@ scud
 	- [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
 	- [rack](dic://rack)
 
-scuff
+scuff (scruff)
+- vi. 拖着脚走, 磨损  n. 拖着脚走, 磨损, 家用平底拖鞋
+- 1 - 可能来自拟声词，模仿刮，摩擦的声音。  
+- 2 - 来自 PIE*skeubh,推，挤，词源同 shove,shuffle.引申词义拖着脚走。
 -  [mule](dic://mule)
 - [drag](dic://drag)
 - _[scuffed](dic://scuffed)_  adj. 磨损的; v. 使磨损（scuff的过去式）；拖着脚走; 
@@ -14002,7 +14144,7 @@ scum
 	- _[scumbag an unpleasant person](dic://scumbag%20an%20unpleasant%20person)_ 讨厌的人
 
 scumble
-- (rumble, rumple, crumble, crumple, scramble, tumble, scumble)
+- (rumble, rumple, crumble, crumple, scramble, tumble, scumble, bramble)
 - v. 将色彩弄淡；使（色彩）变柔和
 - **glaze**装以玻璃;**paint**油漆;**watercolor**水彩;**varnish**虚饰;**paints**绘画颜料;**watercolour**水彩;**pigment**颜料;
 - [application](dic://application), [coating](dic://coating), [covering](dic://covering)
@@ -14013,7 +14155,7 @@ scurf (scuff)
 -  来自古英语 sceoft,头皮屑，来自 Proto-Germanic*skurf,碎屑，来自 PIE*sker,砍，切，词源scar,shear.
 - scurfy
 - scurfskin
-- scruff
+- scruff (scuff)
 	- n. 颈背, 后颈; 邋遢的人
 	- - 改写自 scurf,头皮屑。
 	- [nape](dic://nape), [nucha](dic://nucha)
@@ -14257,6 +14399,7 @@ seam
 - deseaming
 
 sear
+- (wither, blighted, wilt, arid, xeric, sere, sear, wither, shrivel, dry, scorch, singe, parch, dried-up, heat, combust, conflagration, burn, torridity, desiccate, )
 - v. 烧灼, 灼伤; 烤焦; 轻煎; 使骤然感到剧痛
 - vt. 烤焦；使……枯萎
 - vi. 干枯；烧焦；凋谢
@@ -14295,6 +14438,7 @@ sell
 - etc..
 
 sere (sear)
+- (wither, blighted, wilt, arid, xeric, sere, sear, wither, shrivel, dry, scorch, singe, parch, dried-up, heat, combust, conflagration, burn )
 - adj. 干枯的，枯萎的
 - n. 演替系列
 - [dried-up](dic://dried-up), [sear](dic://sear), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
@@ -14410,7 +14554,7 @@ sham
 - _[sham battle](dic://sham%20battle)_  模拟战
 
 shackle
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - 来自古英语 sceacel,镣铐，脚链，来自 Proto-Germanic*skakulaz,镣铐，脚链，来自 PIE*skek,摇晃，词源同 shake.-le,工具格后缀。
 - _n._ [restraint](dic://restraint), [constraint](dic://constraint), [bar](dic://bar)
 - _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
@@ -15551,7 +15695,7 @@ smack
 
 smother
 - (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother) (stifle, strangle, smother, muffle, repress, choke, douse, suffocate)
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - 1 - 缩写自中古英语 smorthre,浓烟，来自古英语 smorian,使窒息，闷死，-ian,表动词，来自Proto-Germanic*smurona,窒息，闷死，词源可能同 smolder.-ther,工具格后缀，比较 tether,mother.引申比喻义抑制，扼杀。
 -  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter)
 - [surround](dic://surround)
@@ -16221,9 +16365,9 @@ squander
 - suanderer
 
 squelch
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
-- (crunchy, squelch, scrunch, crunch, crush, )
-- (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
+- (crunchy, squelch, scrunch, crunch, crush, squash, )
+-  (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
 - n. 嘎吱声, 压碎的一堆, 使对手哑口无言的话  
 - vt. 压碎, 镇压, 使咯吱咯吱响  
 - vi. 咯吱咯吱响, 涉水而过
@@ -16439,7 +16583,7 @@ sterling
 - **silver**银;**pewter**锡铅合金,白镴;**gold**金，黄金;**earrings**耳环;**pound**英镑;**brooch**胸针，领针;**earring**耳环，耳饰;**bracelet**手镯;**pendant**下垂物，垂饰;**jewellery**珠宝;**brass**黄铜;
 
 stifle
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - 1 - 词源不确定，可能最终来自 PIE*steip,压紧，打包，塞满，词源同 stiff,stuff.-le,表反复。引申词义窒息，压制，扼杀等。
 - [smother](dic://smother), [strangle](dic://strangle), [muffle](dic://muffle), [repress](dic://repress)
 - [suffocate](dic://suffocate), [asphyxiate](dic://asphyxiate), [choke](dic://choke)
@@ -16718,7 +16862,7 @@ stub
 	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
 stymie
-- ((hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - . (喻)困难的境地  
 - vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍
 - [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
@@ -17018,6 +17162,19 @@ tater
 - _[tater tots](dic://tater%20tots)_  炸薯球; 油炸土豆丸子; 
 - _[tater tot](dic://tater%20tot)_  一种以土豆为原材料的油炸食品
 
+tatter
+- n. 破布条, 破衣服  vt. 把...扯碎
+-  来自古诺斯语 toturr,破布，破衣服。
+-  [rag](dic://rag), [shred](dic://shred), [tag](dic://tag), [tag end](dic://tag end)
+- _n._ [piece of cloth](dic://piece%20of%20cloth), [piece of material](dic://piece%20of%20material)
+- **knitter**编织者;**tat**梭织，梭编;**sew**缝合，缝上;
+- _[in tatters](dic://in%20tatters)_  (衣服等)破破烂烂; (人)衣衫褴褛，穿破衣服; 
+- _[in shreds and tatters](dic://in%20shreds%20and%20tatters)_  破烂不堪,衣衫褴褛
+- The economy and infrastructure were in tatters. /国民经济和基础设施破坏殆尽。
+- The British army is saved, but they seem tatters. /英军获救，但他们似乎狼狈不堪。
+- The city's infrastructure is in tatters.  /这座城市的基础设施已经支离破碎。
+- With the ceasefire broken, that process is now in tatters /随着停战协议的瓦解，该协议也毁于一旦。
+
 taunt (taut, daunt)
 - 来自法语 tant pour tant,以眼还眼，以牙还牙，原倍奉还，来自 tant,等同，同样，词源同tantamount,pour,为了，词源同 for.引申词义嘲笑，奚落。
 - n. 嘲弄；讥讽
@@ -17231,6 +17388,46 @@ throng
 tiara (crown, coronet)
 - _n._ [jewelled headdress](dic://jewelled headdress)
 - **brooch**胸针，领针;**crown**王冠;**jewels**珠宝;**necklace**项链;**headband**头饰带;**wig**假发;**princess**王妃;**gown**长袍，长外衣;**coronation**加冕礼;**sash**肩带;**earrings**耳环;
+
+tin
+- n. 锡; <容器>罐, 听; 罐头  
+- v. 镀锡  
+- a. 锡制的
+-  [canister](dic://canister), [cannister](dic://cannister)
+-  [can](dic://can), [tin can](dic://tin can)
+- [can](dic://can), [put up](dic://put up)
+- _n._ [metallic element](dic://metallic%20element), [metal](dic://metal), [container](dic://container)
+- _v._ [plate](dic://plate), [preserve](dic://preserve), [keep](dic://keep)
+- **foil**挫败;**copper**铜;**biscuit**小点心，饼干;**cardboard**硬纸板;**metal**金属;**corrugated**起皱褶的;**silver**银;**muffin**小松饼;**aluminium**铝;**zinc**镀锌于…;**jar**广口瓶;
+- Here you are, a tin of fish/拿着，这是罐头鱼。
+- So it requires oiling a pan or muffin tin. /所以需要给锅或松饼模涂油。
+- It's a case of, it's like, tinned fruit, tinned ready meals. /大部分都是像水果罐头、罐头快餐等等之类的食物。
+- There's two protein heavy tins under there. /有两个高蛋白的罐头。
+-  Just when you take a tin of condensed milk, and you cook it. - Yeah./就是当你拿着一罐炼乳，然后把它煮熟。- 或者淡奶。- 是的。
+- triethyltin
+- tinworks
+- tintack
+- tinsmith
+- tinpot
+- tinplate
+- tinny
+- tinning
+- tinner
+- tinned
+- tinman
+- tinhorn
+- tinfoil
+- tetratolyltin
+- tetrapropyltin
+- tetracyclohexyltin
+- tetrabutyltin
+- phenyltin
+- messtin
+- hexaethyldlitin
+- electrotinning
+- dicyclopentadienyltin
+- detin
+- cyhexatin
 
 tingle
 - v. 略感刺痛, 强烈感到  n. 刺痛感; 震颤
@@ -17620,7 +17817,7 @@ tower
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, )
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk, dampen, squelch, put-down, quash, quell, quench, thwart, suppress, stamp down, conquer, curb, sound, subdue, smother, repress, subjugate, reduce, squash, crush, )
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
@@ -17800,6 +17997,30 @@ tsar
 	- _[Tsarist Russia and Qing China](dic://Tsarist%20Russia%20and%20Qing%20China)_ 沙俄与清帝国
 - tsarism
 - tsarina
+
+tub
+- n. 桶, 浴盆  
+- v. 装入桶; 洗盆浴, 被放在桶里洗
+- - n. 盆，桶；（用来盛食品的小型）带盖容器；浴缸；一盒的容量，一盆的容量；<非正式>行驶缓慢的旧船，老爷船（贬）；<非正式>矮胖子；（矿）矿车，矿斗
+- v. <英，非正式> 浴缸，浴盆；盆栽
+- [bathtub](dic://bathtub), [bathing tub](dic://bathing tub), [bath](dic://bath)
+- [vat](dic://vat)
+-  [tubful](dic://tubful)
+- _n._ [vessel](dic://vessel), [containerful](dic://containerful)
+- **bathtub**浴缸;**Jacuzzi**极可意水流按摩浴缸;**bath**浴室;**shower**淋浴;**whirlpool**漩涡;**spa**矿泉;**sauna**桑拿浴;**pool**水塘;**bathroom**浴室;**baths**浴缸;**faucet**旋塞;
+- _in the tub_ 破产
+- _bath tub_ 浴盆；盆形燃烧室
+- _hot tub_ 热水澡桶；热水浴缸
+- It's a grimy clawfoot tub with a chrome faucet /一个脏兮兮巴掌大的浴缸，水龙头是铬合金的。
+-  Mark's apartment building has a hot tub!  /马克的公寓大楼有个热水按摩池！
+- washtub
+- tubful
+- tubby
+	- tubbiness
+- tubbish
+- tubbing
+- lucky-tub
+- bathtub
 
 tug
 - deuk-
@@ -18615,6 +18836,14 @@ whisper/
 wistful
 - wen- (1)
 
+withe
+- (wither, blighted, wilt, arid, xeric, sere, sear, wither, shrivel, dry, scorch, singe, parch, dried-up, heat, combust, conflagration, burn )
+-  [withy](dic://withy)
+- _n._ [band](dic://band), [branchlet](dic://branchlet), [twig](dic://twig), [sprig](dic://sprig)
+- **with**用;**fro**向后;**nicely**恰好地;**along**向前;**the**这;
+- The tomahawk grazed her shoulder, and cutting the withes which bound her to the tree, left the maiden at liberty to fly. /战斧擦过她的肩膀， 砍断了将她绑在树上的藤条， 让少女得以自由飞翔。
+- " Will this assist in explaining the difficulty" ? said Heyward, pointing toward the fragments of a sort of handbarrow, that had been rudely constructed of boughs, and bound together with withes, and which now seemed carelessly cast aside as useless. /“这是否有助于解释困难”？海沃德指着一种手推车的碎片说道，这种手推车是用树枝粗制而成，并用藤条捆在一起，现在看来被粗心大意地当作无用的东西扔在了一边。
+
 wonder
 - wonderous
 - wonderment
@@ -18696,6 +18925,42 @@ wood
 - etc.. (todo)
 
 wool
+- - n. 羊毛，动物毛；毛线，绒线；毛料，毛织物；金属（或矿）丝
+- dyed in the wool彻头彻尾的。羊绒材质的衣服染色方法无非两种：织成成衣后染色（dyed in the piece）和绒线时候染色（dyed in thewool），后一种方法染出来的颜色比前一种方法要持久，所以dyed in the wool比如习惯和秉性等不容易改。Mary is a dyed in the woolliberal.玛丽是个坚定的自由主义者。 ​​​​
+-  来自 PIE*wele,羊毛，词源同 lanolin,fleece,进一步来自 PIE*wel,撕，拔，词源同 vulture,svelte.
+-  [woolen](dic://woolen), [woollen](dic://woollen)
+- [fleece](dic://fleece)
+- _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [animal fiber](dic://animal%20fiber), [animal fibre](dic://animal%20fibre), [coat](dic://coat)
+- **cashmere**开士米;**fleece**羊毛，绒头织物;**merino**美利奴丝绸;**cotton**棉花;**yarn**纱线;**silk**蚕丝;**yarns**纱线;**flannel**法兰绒;**knitted**针织的;**sheep**羊，绵羊;**linen**亚麻布，亚麻线;
+- steel wool
+	- - 钢丝绒：一种由长而细的钢屑组成的磨料材料，特别用于擦洗和抛光。
+- _wool fabric_ 毛织物；呢绒
+- _wool spinning_ 毛纺；羊毛纺纱
+- _glass wool_ 玻璃丝；玻璃绒
+- _in the wool_ [澳大利亚英语](绵羊)毛已可剪的
+- _pure wool_ 纯羊毛
+- _cotton wool_ 原棉；棉绒；脱脂棉
+- _wool yarn_ 毛纱
+- _fine wool_ 细羊毛；细毛
+- _steel wool_ n. （刷锅用的）钢丝绒；百洁丝
+- _rock wool_ n. 岩棉；矿毛绝缘纤维
+- _mineral wool_ 矿物棉（等于rock wool）
+- _dyed in the wool_ adj. 原毛染色的，生染的；彻底的
+- _long wool_ 长绒；长毛；长纤维羊毛
+- _wool felt_ 羊毛毡
+- _merino wool_ 美利奴羊毛
+- _wool blend_ 羊毛混纺
+- _wool top_ 毛条
+- _greasy wool_ 含脂原毛，汗羊毛
+- _wool carpet_ 羊毛地毯
+- _wood wool_ n. 刨花；木丝
+- You can buy cotton wool at the drug store. /你可以在药店买到药棉。
+- " He is buying the wool out of his wages, sir! " /“他用自己的工钱买了毛线，先生！”
+- Hold the cotton wool for five minutes. /按住棉花五分钟。
+- It has a warm coat of soft, soft wool /它身披一件柔软温暖的羊毛外套。
+- She needed some cotton wool to treat her wound. /She needed some cotton wool to treat her wound.
+- So I looked at cotton and wool and nylon. /所以我研究了棉花、羊毛和尼龙。
+- 
 - wooly
 	- wooly-headed
 - woolwork
@@ -18742,6 +19007,7 @@ wreck
 	- _n._ [sunken](dic://sunken), [submerged](dic://submerged),
 
 writhe (wither, wind-)
+- (wether /weather /whether /ether /wither /wetter /tether /withe / writhe)
 - to move in a twisting or contorted motion, (especially when struggling)
 	- _v._ [move](dic://move)
 - [wrestle](dic://wrestle), [wriggle](dic://wriggle), [worm](dic://worm), [squirm](dic://squirm), [twist](dic://twist)

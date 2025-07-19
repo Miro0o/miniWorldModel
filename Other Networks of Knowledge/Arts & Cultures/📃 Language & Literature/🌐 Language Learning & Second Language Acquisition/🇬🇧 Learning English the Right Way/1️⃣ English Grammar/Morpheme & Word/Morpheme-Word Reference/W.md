@@ -516,21 +516,23 @@
 		17. women winnow the chaff from piles of unhusked rice /女人们把成堆成堆的稻谷扬去谷壳。
 		18. Yeah, I dream big. Then I winnow down. /对 我构思远大 然后再精简。
 		19. When a king sits on his throne to judge, he winnows out all evil with his eyes. /王坐在审判的位上，以眼目驱散诸恶。
-	11. wither (writhe) (blighted)
-		1. 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
-		2. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
-		3. [fade](dic://fade)
-		4. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
-		5. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
-		6. _wither away_ 枯萎；幻灭
-		7. withering sarcasm. /毁灭性的讽刺
-		8. she threw a withering glance at him. /她咄咄逼人地瞥了他一眼。
-		9. Age cannot wither her /岁月并未使她的容颜减色。
-		10. The teacher withered the noisy student with a glance /扫视吵闹的学生使他们噤声不语
-		11. And human relationships were already withering. /人际关系已经渐渐凋零。
-		12. witherite
-		13. withering
-		14. withered
+	11. wither (blighted)
+		1. (wether /weather /whether /ether /wither /wetter /tether /withe / writhe)
+		2. (wither, blighted, wilt, arid, xeric, sere, sear, wither, shrivel, dry, scorch, singe, parch, dried-up, heat, combust, conflagration, burn )
+		3. 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
+		4. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
+		5. [fade](dic://fade)
+		6. _v._ [decrease](dic://decrease), [diminish](dic://diminish), [lessen](dic://lessen), [fall](dic://fall), [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
+		7. **flourish**兴旺;**wilt**使枯萎;**perish**毁灭;**die**死;**vine**葡萄树;**rot**腐烂;**fade**褪色;**blossom**开花;**vanish**消失;**disappear**不见, 消失;**grow**生长;
+		8. _wither away_ 枯萎；幻灭
+		9. withering sarcasm. /毁灭性的讽刺
+		10. she threw a withering glance at him. /她咄咄逼人地瞥了他一眼。
+		11. Age cannot wither her /岁月并未使她的容颜减色。
+		12. The teacher withered the noisy student with a glance /扫视吵闹的学生使他们噤声不语
+		13. And human relationships were already withering. /人际关系已经渐渐凋零。
+		14. witherite
+		15. withering
+		16. withered
 			1.  [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [shrunken](dic://shrunken), [wizen](dic://wizen), [wizened](dic://wizened)
 			2.  [dried-up](dic://dried-up), [sere](dic://sere), [sear](dic://sear), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled)
 			3. _adj._ [thin](dic://thin), [lean](dic://lean), [dry](dic://dry)
@@ -4959,7 +4961,7 @@
 		6. It will astonish your aperitif papillae by its muscat fragrances and the with mellifluous by its mouth. /她会以她浓郁的麝香味道和蜜汁的丰盈口感，给您的味觉一个美妙的惊喜。
 		7. 'I grieve to see, O most excellent Warren, that the ripe juice of the aperitif has glazed your sparkling eye'. /“我很伤心地看到，最优秀的沃伦，开胃酒的成熟汁液让你闪闪发光的眼睛变得光彩照人”。
 	3. aperitive [美 /ə'pɛrətɪv/](cmd://Speak/_us_/aperitive)
-		1. (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative)
+		1. (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative, emetic, peptic)
 		2. _[aperient aperitive laxation lenitive](dic://aperient%20aperitive%20laxation%20lenitive)_ 轻泻剂
 		3. adj. 有轻泻效应的；开胃的 
 		4. n. 轻泻剂；开胃药；通便药 
@@ -6127,7 +6129,7 @@
 		3. vitelline
 			1. a. 卵黄的
 149. etesian
-150. wether (weather /whether /ether /wither /wetter /tether)
+150. wether (wether /weather /whether /ether /wither /wetter /tether /withe / writhe)
 	1. male sheep especially a castrated one
 	2. " Wethers must live their time as well as other sheep, poor soul." /“阉了的羊也得跟其它羊群一样地过日子呀，可怜的人。
 

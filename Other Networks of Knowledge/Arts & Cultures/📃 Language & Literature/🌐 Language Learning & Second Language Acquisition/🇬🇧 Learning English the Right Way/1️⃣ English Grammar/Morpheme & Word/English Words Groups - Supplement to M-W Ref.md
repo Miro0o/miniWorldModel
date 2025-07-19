@@ -1,4 +1,4 @@
-# English Meaning Groups
+# English Words Groups - Supplement to M-W Ref
 
 [TOC]
 
@@ -245,7 +245,7 @@ menial
 
 
 
-## Association Words
+## Association Words (deprecated)
 > ❌ This section is deprecated.
 > look up morpheme-word reference directly
 
@@ -529,7 +529,8 @@ cock-up
 
 
 
-## Topics Words
+## Words by Topics
+### Practical Using Scenarios
 https://www.xiaohongshu.com/user/profile/67109986000000001d0319db?xsec_token=YBOBFXH8h2HC5eiQIr9ObI7lDZStnnwEL_zIBNyZC65uo=&xsec_source=app_share&xhsshare=CopyLink&appuid=60f8e65d00000000010055f2&apptime=1743826194&share_id=21b75dc0128e47e08e27598695baf61f
 
 tender, refreshing, fluffy, juicy, sticky, stringy, crispy, crunchy, chewy, numbing, tough, mealy, bouncy, grainy, smooth, crumbly
@@ -539,10 +540,10 @@ salmon, abalone, sea cucumber, lobster, squid, shrimp, hairy crab, oyster, clam,
 boil, stew/braise, steam, pan-fry, deep-fry, stir-fry, roast, barbecue, simmer, marinate, blanch, smoke
 
 sore throat, stuffy nose, sneeze, cough, inflammation, diarrhea, headache, subburn, allergy, tinnitus, constipation, shiver, insomnia, toothache, strain, fracture, nosebleed, cramp, sprain, rash
+#### Slangs & Vernacular
 
 
-
-## Slangs & Vernacular
+### Abstract / Conceptual Using Scenarios
 
 
 

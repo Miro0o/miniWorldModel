@@ -357,15 +357,82 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	21. cardcase
 	22. card-sharp, card-sharper
 3. cartel
+	1. cartel（企业联合）：军队之间的书面协议  
+	2. cartel（卡特尔）指的是同一行业中若干企业达成协议，联合起来控制市场的行为。这个单词来自拉丁语charta（纸），与chart（图纸）同源。在16世纪，cartel指的是书面的挑战书。在17世纪时，该单词表示军队之间达成的交换俘虏的书面协议。俗话说“商场如战场”。生意场上的竞争对手达成的协议自然与交战双方达成的协议有很大的类似性，因此cartel一词从20世纪初开始用来表示原本相互竞争的企业达成协议、联合控制市场的行为。  
+	3. cartel： [kɑː'tel] n.卡特尔，企业联合，垄断联盟，俘虏交换协议
+	4.  词源同 card,chart.代指在纸上签署的合作协议。
+	5. 
 4. cartogram, cartographer, cartography
 5. cartology, cartological
 6. cartomancy
-7. carton
-8. cartoon, stripcartoon
+7. carton [美 /'kɑːrtn/](cmd://Speak/_us_/carton)
+	1. n. 硬纸盒, 纸板箱
+	2.  来自 cart,卡片，词源同 card,chart.
+	3. _n._ [containerful](dic://containerful), [box](dic://box)
+	4. **packaging**包装材料;**container**容器;**cardboard**硬纸板;**milk**牛奶;**unopened**没有开的;**containers**器皿;**crates**板条箱;**crate**板条箱;**envelope**信封，封皮;**boxes**小木箱，盒子;**bottle**瓶子;
+	5. _carton box_ 纸箱；硬纸盒；纸箱抗压机
+	6. _folding carton_ 折叠纸盒；折叠箱
+	7. _paper carton_ 纸箱，包装纸板盒
+	8. _corrugated carton_ 瓦楞纸箱；瓦楞纸板箱
+	9. _carton size_ 纸箱尺寸；包装尺寸
+	10. _master carton_ 马斯特箱；标准纸箱；大箱；外箱
+	11. _export carton_ 出口箱
+	12. There's another carton right over there. /那边还有一盒果汁。
+	13. Then she lifted the lid of the carton. /接着她掀起纸箱盖。
+	14. We need to ship out a carton of these. /我们需要用船运出去一盒这些东西。
+	15.  co-workers leaving empty milk cartons in the fridge? /同事把空牛奶盒留在冰箱里？
+	16. Are you getting juice for her? -Yeah, just one carton. /你要给她带果汁？-是的，就一箱。
+	17. My job is mainly unloading cartons and stacking them. /我的工作主要是卸下纸箱并把它们堆放好。
+8. cartoon
+	1.  [sketch](dic://sketch)
+	2.  [animated cartoon](dic://animated cartoon), [toon](dic://toon)
+	3. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [short subject](dic://short%20subject)
+	4. _v._ [draw](dic://draw)
+		1. [drawing](dic://drawing) 指用线条或色彩绘成的图画。  
+		2. [illustration](dic://illustration) 指插入书页之间帮助说明的任何插图或图解。  
+		3. [cartoon](dic://cartoon) 指幽默或讽刺性漫画。  
+		4. [diagram](dic://diagram) 多指科技书籍或文献中具有概括解说作用的图表、图样或略图。  
+		5. [picture](dic://picture) 指广义的“图画”，现多用来指相片、画像。  
+		6. [sketch](dic://sketch) 通常指只画出物体主要特征的图画。  
+		7. [painting](dic://painting) 指着色的画。  
+		8. [portrait](dic://portrait) 指肖像，只用于指人。
+		9. caricature
+		10. anime
+	5. **animated**活生生的;**cartoonist**漫画家;**caricature**漫画;**comic**喜剧的;**animation**活泼;**comics**连环画;**parody**拙劣的模仿;**animator**鼓舞者;**Simpsons**辛普森一家;**illustration**说明;**satirical**含讽刺意味的, 嘲讽的;
+	6. _animated cartoon_ n. 动画；卡通片
+	7. _cartoon network_ 卡通频道；卡通电视网（美国一个专门播放动画节目的有线电视频道）
+	8. stripcartoon
 9. cartouch
 10. cartouche
 11. cartridge
+	1. - n. 弹壳，弹药筒；（机器、设备等可更换使用的）盒，卡；（打印机的）墨盒，（钢笔的）墨水囊；（照相机的）暗盒，（录音机的）磁带盒；（唱机的）唱头，（拾音器的）心座
+	2. _n._ [ammunition](dic://ammunition), [ammo](dic://ammo), [supply chamber](dic://supply%20chamber), [module](dic://module), [electro-acoustic transducer](dic://electro-acoustic%20transducer)
+	3. **toner**调色剂，增色剂;**canister**小罐;**ink**涂墨水于;**printer**打印机;**nozzle**喷嘴;**inkjet**喷墨打印机;**stylus**唱针;**reloading**重复荷载，换装;**cassette**盒式磁带;**ammo**弹药;**syringe**注射器;
+	4. _toner cartridge_ 碳粉匣，色粉盒
+	5. _ink cartridge_ n. 墨匣；墨水盒；油墨盒
+	6. _cartridge valve_ 插装阀；插装式阀
+	7. _cartridge case_ 弹壳（等于cartridge box）
+	8. _filter cartridge_ 滤芯；滤筒
+	9. _cartridge filter_ 筒式过滤器；滤筒式除尘器；心盘过滤筒
+	10. _print cartridge_ n. 打印盒
+	11. _data cartridge_ 数据盒式磁带；盒式数据存储器；盒式数据
+	12. Produce compatible ink cartridge, continuous ink supply system, chip resetter, auto reset chip, ink /专业的打印机耗材生产厂家，主要产品：兼容墨盒，连续供墨系统，解码器，永久芯片,墨水等。
+	13. This rifle only holds one cartridge /这支来复枪只能装一发子弹。
+	14. I changed the ink cartridges in my ballpoint pen. /我换了圆珠笔里的墨水芯。
+	15. Do you know if there are some ink cartridges left in the supply cabinet? /你知道储物柜里还有墨盒吗？
+	16. Inside even more crates, clusters of cartridges lay nestled in straw. /里面还有很多子弹，都成箱成箱地堆在一起。
+	17. And replacement cartridges are sent for just a few bucks a month. /而且每月只需花几美元就可以更换剃须刀替换装。
+	18. 
 12. discard
+	1.  [throwing away](dic://throwing away)
+	2.  [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside), [dispose](dic://dispose), [throw out](dic://throw out), [cast out](dic://cast out), [throw away](dic://throw away), [cast away](dic://cast away), [put away](dic://put away)
+	3. _n._ [object](dic://object), [physical object](dic://physical%20object), [abandonment](dic://abandonment)
+	4. _v._ [get rid of](dic://get%20rid%20of), [remove](dic://remove)
+	5. [discard](dic://discard) 指把具体的东西抛掉不要，着重扔、丢的动作。  
+	6. [scrap](dic://scrap) 指抛弃过时不再有用的东西。  
+	7. [shed](dic://shed) 指毛发、皮肤、叶等经过某种自然的过程而脱落。
+	8. **discarded**放弃的;**remove**移开;**dispose**处理;**reject**拒绝;**toss**投掷;**recycle**使再循环;**ignore**驳回诉讼，忽视，不理睬;**eliminate**消除, 排除;**reuse**重新使用，再用;**overwrite**写在…上面,写得过多;**abandon**离弃;
+	9. _into the discard_ 废弃不用；被遗弃
 13. aerocartograph
 14. chartography
 

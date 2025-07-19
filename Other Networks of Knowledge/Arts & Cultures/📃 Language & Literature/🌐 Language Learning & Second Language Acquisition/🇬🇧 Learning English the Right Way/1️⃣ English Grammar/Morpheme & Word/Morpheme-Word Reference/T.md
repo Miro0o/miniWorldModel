@@ -45,6 +45,62 @@
 		24. After tea we thawed down into common-life subjects. /喝完茶后，气氛又变得融洽，我们聊起了日常生活的话题。
 
 
+### \*tabl-, tabul-= plank, 表示“平板”。
+1. tabula
+	1. - n. （历史术语）古代碑文，书板；（生物）横膈膜
+2. table
+	1.  [tabular array](dic://tabular array)
+	2.  [mesa](dic://mesa)
+	3.  [board](dic://board)
+	4.  [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
+	5. _n._ [array](dic://array), [furniture](dic://furniture), [piece of furniture](dic://piece%20of%20furniture), [article of furniture](dic://article%20of%20furniture), [tableland](dic://tableland), [plateau](dic://plateau), [gathering](dic://gathering)
+	6. _v._ [delay](dic://delay)
+	7. [desk](dic://desk) 书桌，办公桌，通常有抽屉。  
+	8. [table](dic://table) 桌子，台子。指一般没有抽屉，供劳作、游戏或吃饭等用的桌子。 despair,desperation,depression,disappointment
+	9. **chairs**安乐椅;**tabletop**桌面;**tray**托盘;**chair**椅子;**dining**吃饭，进餐;**napkin**餐巾;**bedside**床边，床旁;**napkins**餐巾纸;**sofa**沙发;**room**房间;**dinner**宴会;
+	10. tabular
+		1. _adj._ [systematic](dic://systematic), [planar](dic://planar), [two-dimensional](dic://two-dimensional)
+		2. _n._ [unsystematic](dic://unsystematic), [cubic](dic://cubic), [three-dimensional](dic://three-dimensional), [linear](dic://linear), [one-dimensional](dic://one-dimensional)
+		3. **spreadsheet**电子制表软件,电子数据表;**graphical**绘成图画似的,绘画的;**numeric**数;**concise**简明的，简洁的;**tables**桌子;**numerical**数字的;**data**资料;**columns**名词column的复数形式;**graph**图表;**format**版式;**table**桌子;
+		4. _tabular data_ 列表数据
+		5. _tabular form_ 表格形式
+	11. . tabulate
+		1. [tabularize](dic://tabularize), [tabularise](dic://tabularise)
+		2. _v._ [arrange](dic://arrange), [set](dic://set), [shape](dic://shape), [form](dic://form)
+		3. **calculate**计算;**analyze**对…进行分析，分解;**tally**帐;**compile**编译;**classify**分类;**quantify**量化;**spreadsheet**电子制表软件,电子数据表;**determine**决定;**ascertain**弄清, 确定, 查明;**summarize**总结, 概述;**collect**收集;
+3. tableau
+	1. - n. 画面；活人画；戏剧性局面；生动的场面（复数 tableaux）
+	2. _n._ [arrangement](dic://arrangement), [view](dic://view), [aspect](dic://aspect), [prospect](dic://prospect), [scene](dic://scene), [vista](dic://vista), [panorama](dic://panorama)
+	3. **vignette**装饰图案;**backdrop**背景;**spectacle**壮观的场面或景象;**portrait**肖像;**montage**蒙太奇;**grotesque**奇形怪状的;**scene**情景;
+	4. Which would alter that ancient tableau./而这会改变这一古代场景。
+	5. These moments called tableau, are kind of like the held poses in kabuki /而这种时刻被称为“静态画面” 有点像歌舞伎的固定姿势。
+	6.  For example, the Tiger Ox Alter, an amazing tableau in bronze of a life-and-death struggle./例如这件牛虎铜案，用青铜铸造描绘出了一场令人惊叹的生死搏斗之景。
+	7. The figures in these tableaux are mostly faceless, composed only of a few lines and shadows. /这些绘画作品中的人物大多没有脸，只有一些线条和阴影。
+	8. Things will only get worse, they insisted, painting a prescient tableau of dashed hopes, foreign meddling and an orgy of blood. /他们坚持认为，事情只会变得更糟，他们描绘了一幅希望破灭、外国干涉和流血狂欢的预见性画面。
+4. tablet
+	1.  [pad](dic://pad), [pad of paper](dic://pad of paper)
+	2.  [pill](dic://pill), [lozenge](dic://lozenge), [tab](dic://tab)
+	3. _n._ [slab](dic://slab), [paper](dic://paper), [cake](dic://cake), [bar](dic://bar), [dose](dic://dose)
+	4. **netbook**上网本;**laptop**膝上型轻便电脑;**device**装置;**notebook**笔记本，笔记簿;**desktop**桌面;**stylus**唱针;**android**机器人;**mobile**可迅速转动的, 易于移动的;**phones**听筒;**handset**手机，电话听筒;**phone**电话;
+	5. _stone tablet_ 碑碣
+	6. _buccal tablet_ 口腔片，颊含片
+	7. _tablet press_ 压片机
+	8. _calcium tablet_ 钙片
+	9. _tablet pc_ 平板电脑
+	10. _memorial tablet_ 牌位
+	11. _chewable tablet_ 咀嚼片；口嚼片
+	12. _effervescent tablets_ 泡腾片
+5. tabling
+6. tabloid
+	1.  [yellow journalism](dic://yellow journalism), [tab](dic://tab)
+	2.  [rag](dic://rag), [sheet](dic://sheet)
+	3. _n._ [journalism](dic://journalism), [news media](dic://news%20media), [fourth estate](dic://fourth%20estate), [newspaper](dic://newspaper), [paper](dic://paper)
+	4. **newspaper**报纸;**gossip**小道传闻;**celebrity**名人，明星;**celeb**名人;**headline**大标题;**reporter**记者;**journalistic**新闻业的;**columnist**专栏作家;**magazine**杂志;**journalist**记日志者;**trashy**碎屑的;
+	5. Yeah, I prefer the tabloid, just because it's easier to read. /嗯，我喜欢小报，因为更容易阅读。
+	6. I climbed with my respirator and my hygienic clothes and my dietetic tabloids! /我戴着我的呼吸保护器，穿着我的健身服，带着我的食品丸往上爬！
+	7. Nearby, paper tabloids rained down on them. /附近，纸质小报如雨点般落在他们身上。
+
+
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
 1. **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
 	1. contaminate
@@ -227,10 +283,16 @@
 	18. tack
 		1. tintack
 		2. thumbtack
-		3. tacky, takify
-		4. tacker
-		5. hardtack
-	19. take
+		3. tacky
+			1. (gaudy, brassy, flashy, garish, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy, crass, vulgar, frivolous, pretentious, posh, jazzy, smart, sporty, showy, swish, classy, stylish, fashionable, glamorous, trendy, fancy, chic, luxury, dash, elan, flair, panache, finesse, charisma, sophistication, swagger, gusto, gorgeous, magnificent, resplendent, ornate, superb, glitz,  glitz-and-glam, pomp, vain, ostentatious, Vanity Fair, philistine, frill, glorified, frippery, speciosity, slickly, vogue, dandyism, dandiacal, upper, polite, foppish, foppery, spark, trumpery)
+			2.  [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
+			3. _adj._ [wet](dic://wet), [tasteless](dic://tasteless)
+			4. _n._ [dry](dic://dry), [tasteful](dic://tasteful)
+			5. **trashy**碎屑的;**tasteless**无味的;**cheesy**干酪质的;**crass**粗鲁的;**corny**谷类的;**icky**讨厌的;**hideous**可怕的;**glittery**闪烁的，闪光的;**overdone**把…煮得过久;**bland**乏味的;**classy**漂亮的;
+		4. takify
+		5. tacker
+		6. hardtack
+	21. take
 		1. uptake
 		2. undertake
 			1. _vt._ 担任，承揽；保证
@@ -307,13 +369,13 @@
 		13. takeoff
 		14. takeaway
 		15. breathtaking, painstaking
-	23. tango
+	22. tango
 		1. **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
 		2. [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
 		3. [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
 		4. 
-	24. tangram
-13. **tact-, tax-, = arrangement, -taxis = tend to ..**
+	23. tangram
+12. **tact-, tax-, = arrangement, -taxis = tend to ..**
 	1. chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
 		2. chemotactic, phototactic, thermotaxic
 	2. parataxis, paratactic, 
@@ -323,8 +385,8 @@
 		1. syntactic
 	5. taxidermal, taxidermy
 	6. taxology, taxonomy
-14. task
-15. tax
+13. task
+14. tax
 
 
 ### + \*tak- + = to be silent

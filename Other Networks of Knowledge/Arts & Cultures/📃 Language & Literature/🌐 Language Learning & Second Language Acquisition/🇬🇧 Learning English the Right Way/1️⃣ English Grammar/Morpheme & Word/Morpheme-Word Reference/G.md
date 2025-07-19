@@ -1630,8 +1630,8 @@
 		10. gas：[ɡæs] n. 气体；瓦斯；汽油；毒气
 		11. hyperchaos
 		12. chaotic
-	3. chasm
-		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
+	2. chasm
+		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, gash)
 		2. _n._ [opening](dic://opening), [gap](dic://gap)
 		3. **gap**缺口;**abyss**深渊;**rift**裂口;**gulf**海湾;**gaping**多洞穴的;**gaps**差异，缺口;**bridge**桥;**disparity**不一致;**bridging**桥接;**widening**使变宽;**ravine**峡谷;
 		4. _[a chasm in the manuscript](dic://a%20chasm%20in%20the%20manuscript)_ 原稿的脱落部分
@@ -4138,6 +4138,75 @@
 		7. glomerulopathy
 
 
+### \* gleubg-
+1. **clev-** = carve, 表示“刻，划”。
+	1. cleft
+		1. n. 裂缝, 裂口a. 劈开的
+		2. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, gash, )
+		3. [crack](dic://crack), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure)
+		4.  [cloven](dic://cloven), [bisulcate](dic://bisulcate)
+		5.  [dissected](dic://dissected)
+		6. _n._ [indentation](dic://indentation), [indenture](dic://indenture), [opening](dic://opening), [gap](dic://gap)
+		7. _adj._ [divided](dic://divided), [compound](dic://compound)
+		8. _n._ [united](dic://united), [simple](dic://simple), [unsubdivided](dic://unsubdivided)
+		9. **congenital**先天的,天生的;**lip**嘴唇;**cataract**大瀑布;**palate**腭;**anterior**前面的;**tongue**语言;**ventral**腹部的;**mouth**口，嘴;
+		10. Her cleft procedure was done a while ago. /她在不久前接受了唇腭裂手术。
+		11. Some of them cleft the rocks with great axes; others grabbled in the sand /他们中的一些人用大斧头开山劈石，另一些人在沙滩上摸索着。
+		12. People born with a cleft lip or palate may have difficulty speaking and eating. /先天性唇腭裂的人可能在说话和吃饭方面有困难。
+		13. She said that God created her boy with a cleft lip. /她说是上帝创造了她的兔唇男孩。
+	2. clever
+	3. clevis
+	4. cliff
+	5. clove
+		1. - n. [植][中医]丁香 v. 劈开（cleave 的过去式）
+		2. [garlic clove](dic://garlic clove)
+		3. _n._ [flower bud](dic://flower%20bud), [spice tree](dic://spice%20tree), [garlic](dic://garlic), [ail](dic://ail), [spice](dic://spice)
+		4. **garlic**大蒜;**cardamom**小豆蔻;**nutmeg**肉豆蔻种子中的核仁;**coriander**芫荽,香菜;**cinnamon**肉桂;**ginger**姜;**onion**洋葱;**fennel**茴香;**licorice**欧亚甘草;**grapefruit**葡萄柚;**rosemary**迷迭香;
+		5. _clove oil_ 丁香油
+		6. _garlic clove_ 大蒜瓣
+		7. All right, one clove, little bit of cinnamon. /好的，一个丁香，一点肉桂。
+		8. Well interestingly enough, I'm going to be using a clove to coat the eyebrows. Have a smell. /有趣的是，我要用丁香涂在眉毛上。你来闻闻看。
+		9. Put the stripped garlic cloves into a sealed jar, and then pour vinegar into it. /将剥好的蒜瓣放在一个可以密封的罐子里，然后再倒入醋。
+	6. kloof
+2. **glyph-, glypt- ** = carve, 表示“刻，划”。源自希腊语 gluphein "to carve."
+	1. glyptic
+		1. adj. 雕刻的
+	2. glyptics
+	3. glyphograph
+	4. glyptography
+	5. glyptodon
+	6. triglyph
+	7. petroglyph
+	8. hieroglyph
+	9. anaglyph
+3. cleave
+	1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, gash)
+	2.  [split](dic://split), [rive](dic://rive)
+	3.  [cling](dic://cling), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
+	4. _v._ [tear](dic://tear), [make](dic://make), [create](dic://create), [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact)
+	5. **bind**捆绑, 捆扎;**slay**杀害;**pierce**刺穿;**spear**矛，枪;**axe**斧;**shun**避开, 回避, 避免;
+	6. Couples should be there for each other, should cleave to one another /况且夫妻之间本来就应该互相依靠、相依相偎的呀。
+	7. This active protein then proteolytically cleaves and activates the next clotting factor, and so on /然后这一活化的凝血因子激活另一个未活化的凝血因子，以此类推。
+	8. The acetal linker readily cleaves in the presence of acid. /缩醛连接剂遇酸很容易裂解。
+	9. At last he cried, " Cleave him to the brisket" ! but without conviction. /" 把他开膛破肚！" 但是底气不足。
+	10. It's this cleaved valley You know the Grand Canyon in the United States? /它是劈开的峡谷。你知道美国的大峡谷吗？
+	11. cleaving
+	12. cleaver
+		1.  [meat cleaver](dic://meat cleaver), [chopper](dic://chopper)
+		2. _n._ [knife](dic://knife)
+		3. **knife**刀;**knives**刀子;**axe**斧;**butcher**屠杀;**blade**刀片，刀锋;**chainsaw**用链锯割,肢解;**chop**砍;**sword**刀，剑;**ax**削减;**meat**肉，肉类;**spear**矛，枪;
+		4. These monsters would not lay down their cleavers even when on the brink of their own destruction. /这些魔鬼临死也不会放下屠刀。
+		5. Late on Friday, a Palestinian teenager was killed after a policeman was attacked with a meat cleaver. /周五晚些时候，一名警察被人用割肉刀袭击，还有一名巴勒斯坦少年被杀。
+		6. Use the cleaver to cut the chicken /用切肉刀切鸡。
+	13. cleavage
+	14. cleavable
+	15. cleavability
+4. glume
+	1. - n. [植] 颖；颖片
+	2. _n._ [bract](dic://bract)
+	3. **apical**顶上的, 顶点的;**dorsal**背的，背侧的;**whitish**带白色的;**ovary**子房;**yellowish**微黄色的;**ventral**腹部的;
+	4. That hull is made from glumes -- tough chaff that protects the grains. /那个船体是由颖片——保护谷物的坚韧谷壳——制成的。
+	5. 
 
 ## gn
 ### + \*gno- + = to know

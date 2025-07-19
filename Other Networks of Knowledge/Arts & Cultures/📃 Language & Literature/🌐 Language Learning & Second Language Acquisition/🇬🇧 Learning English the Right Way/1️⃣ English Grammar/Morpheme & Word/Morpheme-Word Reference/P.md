@@ -2206,22 +2206,34 @@
 		11. _apricot blossom_ 杏花
 	5. biscuit
 2. **peps-, pept-** = digest, 「greek」 "to cook, ripen, digest"
-	1. dyspepsy, dyspeptic
-		1. eupeptic, eupepsia
-		2. apepsia, dyspepsia, 
-	2. pepsin, pepsine, 
+	1. dyspepsy /dyspepsia
+		1. _n._ [symptom](dic://symptom)
+		2. **constipation**便秘;**heartburn**心痛,妒忌;**nausea**恶心，晕船;**ulcers**溃疡，疡;**gastrointestinal**胃与肠的;**diarrhea**腹泻，痢疾;**gastric**胃的;**ulcer**溃疡;**reflux**逆流;**gout**痛风;**IBS**情报库系统;
+		3. By some, ambergris is supposed to be the cause, and by others the effect, of the dyspepsia in the whale. /有些人认为，龙涎香是鲸鱼消化不良的原因，有些人则认为是消化不良的结果。
+		4. The scent it diffused was in itself a cure for dyspepsia. /它散发的气味本身就是治疗消化不良的良药。
+		5. Satire is obviously a content category—its content is cynicism, dyspepsia, disgust, anger—but there's a lot of formal skill in writing satire, so our training in forms will continue. /讽刺显然是一个内容类别——它的内容是愤世嫉俗、消化不良、厌恶、愤怒——但写讽刺有很多形式技巧，所以我们在形式上的训练还会继续。
+		6. dyspeptic
+	2. eupeptic
+		1. - 消化良好的
+		2. [内科] 消化正常的
+		3. 助消化的
+		4. eupepsia
+	3. apepsia
+		1. dyspepsia, 
+	4. pepsin, pepsine, 
 		1. etc..
-	3. peptic
-		1. a. 有助消化的, 胃液素的, 胃蛋白酶的  
-		2. n. 健胃剂, 促进消化物质
-		3. _adj._ [digestion](dic://digestion)
-		4. **gastric**胃的;**ulcer**溃疡;**ulcers**溃疡，疡;**esophageal**食道的;**gastrointestinal**胃与肠的;**intestinal**肠的;**heartburn**心痛,妒忌;**rheumatoid**类风湿病的;**atrial**门廊;**stomach**胃;**pancreatic**胰腺的;
-		5. _peptic ulcer_ [医]消化性溃疡
-		6. At every meal, Philip ate pepper together with peppermint and peptic. /每顿饭，菲利浦都和着薄荷和消化剂来吃胡椒。
-		7. The company extracts what they call the essence of the roaches and sells it as a treatment for peptic ulcers and skin wounds. /该公司提取了蟑螂的精华，并将其作为治疗消化性溃疡和皮肤伤口的药物出售。
-	4. peptide
-	5. peptize
-	6. peptone
+	5. peptic
+		1. (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative, emetic, peptic)
+		2. a. 有助消化的, 胃液素的, 胃蛋白酶的  
+		3. n. 健胃剂, 促进消化物质
+		4. _adj._ [digestion](dic://digestion)
+		5. **gastric**胃的;**ulcer**溃疡;**ulcers**溃疡，疡;**esophageal**食道的;**gastrointestinal**胃与肠的;**intestinal**肠的;**heartburn**心痛,妒忌;**rheumatoid**类风湿病的;**atrial**门廊;**stomach**胃;**pancreatic**胰腺的;
+		6. _peptic ulcer_ [医]消化性溃疡
+		7. At every meal, Philip ate pepper together with peppermint and peptic. /每顿饭，菲利浦都和着薄荷和消化剂来吃胡椒。
+		8. The company extracts what they call the essence of the roaches and sells it as a treatment for peptic ulcers and skin wounds. /该公司提取了蟑螂的精华，并将其作为治疗消化性溃疡和皮肤伤口的药物出售。
+	6. peptide
+	7. peptize
+	8. peptone
 		1. etc..
 3. cook
 4. cuisine
@@ -8087,43 +8099,86 @@
 		2. inexplicability
 		3. inexclicable
 		4. inexplicably
-	8. implicit
-	9. implicate
-	10. multiply
-	11. replicate
+	8. multiply
+	9. replicate
 		1. replica, plica
 			1. 1 - 来自拉丁语 replica,复制，重复，来自 replicare,复制，词源同 replicate.
-	12. supplicate
+	10. supplicate
 		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
 		2. sup-下 + plic-重叠 + -ate, 表动词 → (膝盖)重叠跪下 → 恳求。
 		3. suppliance, suppliant
-	14. triplicate
+	11. triplicate
 		1. triplicity
 			1. n. 三倍, 三个一组, 三位一体
-	15. applique
-	16. ply
+	12. applique
+	13. ply
 		1. n. 厚度, 板层  
 		2. vt. 使用, 使劲挥舞, 从事, 折, 弯  vi. 辛勤工作, 定期航行
-		2. pliability, pliable, pliancy, pliant
-		3. apply
-		4. imply
-		5. reply
-	17. plication
-		1. n. 折襞, 皱纹, 细褶皱
-		2. fundoplication
-		3. centuplicate
-		4. sextuplicate
-	18. display
-	19. exploit
+		3.  [provide](dic://provide), [supply](dic://supply), [cater](dic://cater)
+		4.  [run](dic://run)
+		5. _n._ [strand](dic://strand), [layer](dic://layer), [bed](dic://bed)
+		6. _v._ [give](dic://give), [do](dic://do), [perform](dic://perform), [travel](dic://travel), [trip](dic://trip), [jaunt](dic://jaunt), [join](dic://join)
+		7. **plywood**夹板，胶合板;**yarns**纱线;**yarn**纱线;**laminated**薄板的;**twill**斜纹布;**warp**弯曲，歪曲;**weave**编织;
+		8. _ply someone with something_ ◎不断地供给某人(食物、饮料等)，不断以某物供应某人;◎以(问题、议论等)对某人纠缠不休；以某种议论攻击某人；以某事质问某人;
+		9. This is the restaurant where he plied his trade as a cook. /这就是他当厨师的那家餐馆。
+		10.  They plied us with tea and cakes. /他们一个劲儿地让我们喝茶、吃糕饼。
+		11. They plied me with questions about my visit to England. /他们不断地询问我的英国之行。
+		12. Ferry boats ply regularly between all the resorts on the lake. /渡船定时往返于湖的各旅游景点。
+		13. There are plenty of taxis plying for hire outside the theatre. /剧院外有很多候客的出租车。
+		14. In the Gulf of Mexico, trawlers ply back and forth year in year out, hauling vast nets that scarify the seabed and allow no time for plant and animal life to recover. /在墨西哥湾，拖网渔船年复一年来来往往地“辛勤”劳作，拖着巨大的渔网，刮破了海底，没有给动植物留下恢复的时间。
+		15. pliability, pliable, pliancy, pliant
+		16. two-ply
+		17. three-ply
+		18. plywood
+		19. pliers
+			1.  [pair of pliers](dic://pair of pliers), [plyers](dic://plyers)
+			2. _n._ [hand tool](dic://hand%20tool), [compound lever](dic://compound%20lever)
+			3. **screwdriver**螺丝起子;**fastener**扣件;**clamps**夹子;**clamp**夹子;**crimp**卷发;**scissors**剪刀;**jaws**狭口;**fastening**扣处, 扣法;**tongs**夹具;**wrench**扳手，扳钳;**lever**杠杆;
+			4. The best way to open it is with pliers. /这个最好用钳子来开。
+		20. multi-ply
+	14.  plication [美 /plaɪ'keʃən/](cmd://Speak/_us_/plication)
+		1. (riffle, ripple, ruffle, ruckle, rumple, crisp, crease, cockle, cripple, crumple, crinkle, dripple, tipple, wrinkle, pucker, tucker, ruck,  scrunch, crunch, plication)
+		2. n. 折襞, 皱纹, 细褶皱
+		3. fundoplication
+		4. centuplicate
+		5. sextuplicate
+	15. apply
+		1. vt. 涂, 应用  vi. 申请, 适用
+		2. unapplied
+		3. misapply
+		4. applied
+		5. applicator
+		6. applicative
+		7. application
+			1. misapplication
+			2. applicationware
+		8. applicant
+		9. applicable
+			1. inapplicable
+			2. applicably
+			3. applicability
+		10. appliance
+	16. imply
+		1. vt. 暗示, 意味
+	17. implicit
+	18. implicate
+		1. implication
+	19. reply
+		1. n. 答复, 回答, 答辩  vi. 答复, 回答, 回击, 反响, 答辩  vt. 回答
+		2. re-反 + ply-折叠 → 叠回去 → 回答。
+		3.  来自 replicare,回复，答复，来自 re-,向后，往回，-plic,弯，转，词源同 ply,complicate.
+		4. replier
+	20. display
+	21. exploit
 		1. 1 - ex-,向外，-ploit,卷，词源同 imply,implicate.即展开，结果，功绩。后在 19 世纪初由于法国空想社会主义者，尤其是圣西门用该词指剥削，压榨，使得这一词义广泛传播。
 		2. n. 功绩, 勋绩  vt. 开发, 利用, 开拓, 剥削
-	20. ploy (cloy)
+	22. ploy (cloy)
 		1. n. 计策; 手段
 		2. 缩写自 deploy,部署，词源同 ply,complicate.引申词义计谋，策略，花招等。
 		3. employ
 			1. 1 - em-,进入，使，-ploy,编织，卷入，词源同 deploy,imply,implicate.即成为其中的一份子。
 		4. deploy
-	21. splay
+	23. splay
 		1. vt. 使（手指、腿等）叉开, 分开, 张开, 展开  
 		2. n. 八字形展开  a. 向外张开的
 6. flax

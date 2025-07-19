@@ -8100,17 +8100,18 @@
 		1. _n._ (静电)复印件
 	4. xeransis
 	5. xeranthemum
-	6. xeric (arid, xeric, sere, seer, wither, shrivel, dry)
-		1. adj. 干旱的，环境干燥的；耐旱的
-		2. _adj._ [xerophytic](dic://xerophytic)
-		3. _n._ [hydric](dic://hydric), [mesic](dic://mesic)
-		4. **shrub**灌木;**arid**干旱的;**shrubs**灌木;**grassland**草原，牧场;**temperate**饮食有节制的, 克己的;**vegetation**植物;**habitats**栖息地;**grasses**稻科植物类;**desert**遗弃;**lowland**低地;**deciduous**每年落叶的;
-		5. _[xeric environment](dic://xeric%20environment)_ 旱生环境
-		6. _[xeric animal](dic://xeric%20animal)_ 旱生动物
-		7. _[xeric succession](dic://xeric%20succession)_ 干生消长; 干生演替; 旱生演替; 
-		8. _[xeric animals](dic://xeric%20animals)_ 干旱性动物
-		9. Deserts provide **xeric** environments. /沙漠提供一种旱生环境。
-		10. xeriscape
+	6. xeric 
+		1.  (wither, blighted, wilt, arid, xeric, sere, seer, wither, shrivel, dry)
+		2. adj. 干旱的，环境干燥的；耐旱的
+		3. _adj._ [xerophytic](dic://xerophytic)
+		4. _n._ [hydric](dic://hydric), [mesic](dic://mesic)
+		5. **shrub**灌木;**arid**干旱的;**shrubs**灌木;**grassland**草原，牧场;**temperate**饮食有节制的, 克己的;**vegetation**植物;**habitats**栖息地;**grasses**稻科植物类;**desert**遗弃;**lowland**低地;**deciduous**每年落叶的;
+		6. _[xeric environment](dic://xeric%20environment)_ 旱生环境
+		7. _[xeric animal](dic://xeric%20animal)_ 旱生动物
+		8. _[xeric succession](dic://xeric%20succession)_ 干生消长; 干生演替; 旱生演替; 
+		9. _[xeric animals](dic://xeric%20animals)_ 干旱性动物
+		10. Deserts provide **xeric** environments. /沙漠提供一种旱生环境。
+		11. xeriscape
 			1. 1. _Ⅰn._ 〈主美〉(不需灌溉的)节水型园艺；节水型花园
 			2. _Ⅱvt._ 把…建成节水型花园
 	7. xerophilous
