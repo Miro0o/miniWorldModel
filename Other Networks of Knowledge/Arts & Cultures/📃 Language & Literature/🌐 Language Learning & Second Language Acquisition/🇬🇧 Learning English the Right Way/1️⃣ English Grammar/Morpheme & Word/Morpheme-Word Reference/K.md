@@ -639,18 +639,19 @@
 		3. 同时记忆chant [tʃɑːnt] n. 圣歌；赞美诗，vt. 唱；诵扬，还可以记忆chanty ['ʃænti] n. 劳动号子（等于chantey）和chanson [ʃɒŋ'sʊŋ] n. （法）歌曲；小调，更可以理解为什么chanticleer['tʃɑːntɪ,klɪə]是雄鸡（cleer同clear），因为他“歌声嘹亮”，相比较下，rooster和cock弱爆了
 	12. accent
 	13. recant
-		1. vt. 放弃  vi. 放弃信仰, 撤回声明, 公开认错
-		2.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
-		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
-		4. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
-		5. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
-		6. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
-		7. Mr Webb recanted his testimony in 2000. /2000年，韦伯宣布撤回证词。
-		8. Recant this ridiculous story and tell the truth. /停止胡言乱语，告诉我真话。
-		9. He then recanted his recantation, but admitted to a journalist that It's very possible I misunderstood what Willingham said. /接着他又取消了撤回，但又向记者承认很有可能是我理解错了威廉汉姆那番话
-		10. Maybe he can convince her to recant. /也许他能说服她改变主意。
-		11. The recanting witness who said he was coerced?  /另一人推翻证词 说他是被胁迫的？
-		12. recantation
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
+		2. vt. 放弃  vi. 放弃信仰, 撤回声明, 公开认错
+		3.  [abjure](dic://abjure), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
+		4. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
+		5. **retract**缩回;**renounce**宣布放弃;**repent**忏悔;**resign**辞职;**refute**反驳，驳斥;**confess**承认;**denounce**谴责;**confession**承认;**refuse**拒绝;**testify**作证;**forced**强迫的;
+		6. _[rather die than recant](dic://rather%20die%20than%20recant)_ 宁死不改变信仰
+		7. _[to recant and turn traitor](dic://to%20recant%20and%20turn%20traitor)_ 自首变节
+		8. Mr Webb recanted his testimony in 2000. /2000年，韦伯宣布撤回证词。
+		9. Recant this ridiculous story and tell the truth. /停止胡言乱语，告诉我真话。
+		10. He then recanted his recantation, but admitted to a journalist that It's very possible I misunderstood what Willingham said. /接着他又取消了撤回，但又向记者承认很有可能是我理解错了威廉汉姆那番话
+		11. Maybe he can convince her to recant. /也许他能说服她改变主意。
+		12. The recanting witness who said he was coerced?  /另一人推翻证词 说他是被胁迫的？
+		13. recantation
 			1. _n._ [disavowal](dic://disavowal), [disclaimer](dic://disclaimer)
 			2. **confession**承认;**retraction**收回;**testimony**证词;**heresy**异教;**rebuttal**反驳;**accusation**指责;**affidavit**宣誓书;**acquittal**宣告无罪;**confessed**众所周知的, 已承认的;**martyrdom**殉难;**repentance**悔悟
 			3. _recantation_  n. 改变论调；取消前言
@@ -2316,7 +2317,7 @@
 		5. Among them, " escape from prison " " libidinal city " " acedia housewife " wait for popular drama anthology to be belonged to " without card " . /其中，《越狱》《欲望都市》《绝望主妇》等热门剧集都属于“无证”。
 		6. You must be honest with yourself, because self -deception is one of the commonest roads to **Acedia**. /在这个问题上，你必须保持诚实，因为自欺也通向“怠惰”最常见的道路。
 	19. cede
-		1. (renounce, abjure, abdicate, foreswear, quit, relinquish, cede, concede, )
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
 		2.  来自 PIE*sed,走，离开，放弃，词源同 accede,cession.
 		3.  [concede](dic://concede), [yield](dic://yield), [grant](dic://grant)
 		4.  [surrender](dic://surrender), [deliver](dic://deliver), [give up](dic://give up)
@@ -2339,7 +2340,7 @@
 			1. **Cesser clause**:  责任终止条款；负担终止条款；仔肩终止条款；职守终止条款
 		15. cession, cessionary
 			1. **annexation**并吞;**treaty**条约，协议;**annexed**附加的，附属的;**sovereignty**最高统治权, 君权;**secession**脱离;**indemnity**保障, 赔偿, 补偿;**ratification**正式批准;**statehood**独立国家的地位;**assent**赞成;**surrender**投降;**proclamation**宣布,声明,公告;
-	21. concede
+	20. concede
 		1. [profess](dic://profess), [confess](dic://confess)
 		2. [yield](dic://yield), [grant](dic://grant)
 		3. [admit](dic://admit), [acknowledge](dic://acknowledge), [agree](dic://agree), [hold](dic://hold), [concur](dic://concur), [concord](dic://concord), [give](dic://give)
@@ -2374,25 +2375,25 @@
 			1. _concessional loan_ 优惠贷款,
 		11. concededly
 			1. adv. 明白地；无可争辩地；毫无疑问地
-	22. decedent
+	21. decedent
 		1.  [dead person](dic://dead person), [dead soul](dic://dead soul), [deceased person](dic://deceased person), [deceased](dic://deceased), [departed](dic://departed)
 		2. **deceased**已故的;**executor**执行者;**plaintiff**原告;**defendant**被告;**claimant**原告;**heirs**继承人;**petitioner**请愿人;**appellant**上诉人;**beneficiary**受惠者;**probate**遗嘱认证;**debtor**债务人;
 		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		4. tried to tamper with the decedent's will; tampering with the timing mechanism of the safe /竭力篡改死者的遗嘱；胡乱拨弄保险箱的计时装置
 		5. I can't believe,there is such a imbrute doing in this age,I can't even believe the decedent is just a "infidel /我无法相信，如此粗鲁野蛮的刑罚竟然能在这个时代出现，更无法相信处死的只是一个政见不同的人。
-	23. cease
+	22. cease
 		1. unceasing, surcease
 		2. decease, predecease, deceased
 		3. ceasing, ceaseless
 		4. ceasefire
-	24. necessary
+	23. necessary
 		1. ne-,无，没有，不能，词源同 no,-cess,走，离开，词源同 cede,concession.即不能走的，不能离开的，引申词义必不可少的，必需的。
 		2. necessity, 
 		3. necessitate, necessitation
 		4. necessarily, 
 		5. necessitarian
 		6. necessitous
-	25. acedia
+	24. acedia
 		1. n. 倦怠, 漠然
 		2. a- + ced-走 + -ia
 		3. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;

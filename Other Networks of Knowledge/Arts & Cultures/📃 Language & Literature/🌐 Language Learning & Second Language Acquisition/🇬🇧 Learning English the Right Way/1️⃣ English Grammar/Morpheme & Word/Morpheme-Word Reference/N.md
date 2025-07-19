@@ -210,15 +210,16 @@
 1. **an-** = 表示“不，无”。
 2. **im-, in-, il-, ir-** = 表示“无，没有（not,opposite）”，来自拉丁语 in-。在字母 b, m, p 前拼写同化为 im-；在字母l前拼写同化为 il-；在拼写r前拼写同化为 ir-。同时，该拉丁语前缀进入古法语大量拼写演变为 en-, 并由古法语进入英语，但是进入现代英语除了enemy, enmity 这两个词流传下来，其它都已废弃。源自拉丁语 in- "not."
 3. **neg-** = = deny, 表示“否认”，原始印欧语形式为 \*ne- (no, not)，和词根 un- 同源。源自拉丁语 negare "to deny," 及拉丁语前缀 neg- "not."
-	1. abnegate (abdicate, renounce)
-		1. vt. 放弃；舍弃；禁忌
-		2. [deny](dic://deny)
-		3. _v._ [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
-		4. **renounce**宣布放弃;**relinquish**交出, 让给;**oneself**自己;**abandon**离弃;**bestow**授予;**assert**断言;**affirm**断言;**unwillingness**不情愿;**consciously**有意识地;**unwilling**不愿意的;**forgo**放弃;
-		5. abnegate the idea of freedom /放弃自由的观念
-		6. If love and friendship can't be together, I will **abnegate** the resultless love /如果爱与友情不能并存，那我定会放弃一份无结果的爱。
-		7. abnegator
-		8. abnegation
+	1. abnegate 
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede)
+		2. vt. 放弃；舍弃；禁忌
+		3. [deny](dic://deny)
+		4. _v._ [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
+		5. **renounce**宣布放弃;**relinquish**交出, 让给;**oneself**自己;**abandon**离弃;**bestow**授予;**assert**断言;**affirm**断言;**unwillingness**不情愿;**consciously**有意识地;**unwilling**不愿意的;**forgo**放弃;
+		6. abnegate the idea of freedom /放弃自由的观念
+		7. If love and friendship can't be together, I will **abnegate** the resultless love /如果爱与友情不能并存，那我定会放弃一份无结果的爱。
+		8. abnegator
+		9. abnegation
 			1. _n._ [denial](dic://denial), [selflessness](dic://selflessness), [self-sacrifice](dic://self-sacrifice), [renunciation](dic://renunciation), [forgoing](dic://forgoing), [forswearing](dic://forswearing)
 			2. **piety**虔诚;**penance**使…以苦行赎罪;**devotion**热爱;**humility**谦卑，谦逊;**selfishness**自私;**cowardice**懦弱;**altruism**利他;**indulgence**放纵;**self-control**克己;**selfless**无私的;**heroism**英勇，英雄气概;
 			3. They discussed the abnegation of God /他们讨论否认上帝。
@@ -808,8 +809,9 @@
 		1. _n._ [utterance](dic://utterance), [vocalization](dic://vocalization), [speech](dic://speech), [speech communication](dic://speech communication), [spoken communication](dic://spoken communication), [spoken language](dic://spoken language), [language](dic://language)
 		2. **phonetic**语音的，语音学的;**spelling**拼法;**vowel**元音;**vowels**元音，母音;**dialect**方言，土话;**pronounce**发音, 读;**syllable**音节;**dialects**乡土语言，方言;**etymology**词源学;**colloquial**口语的, 会话的;**grammar**语法;
 	8. renounce
-		1. [abdicate](dic://abdicate)
-		2. [vacate](dic://vacate), [resign](dic://resign), [give up](dic://give up)
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede)
+		2. [abdicate](dic://abdicate)
+		3. [vacate](dic://vacate), [resign](dic://resign), [give up](dic://give up)
 		3. [foreswear](dic://foreswear), [quit](dic://quit), [relinquish](dic://relinquish)
 		4. [repudiate](dic://repudiate)
 		5. _v._ [vacate](dic://vacate), [resign](dic://resign), [give up](dic://give up), [leave office](dic://leave office), [quit](dic://quit), [step down](dic://step down), [abandon](dic://abandon)

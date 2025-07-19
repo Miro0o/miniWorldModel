@@ -787,9 +787,28 @@
 			4. banality：[bə'nælɪtɪ] n.陈词滥调，平凡，陈腐  
 			5. abandon： [ə'bænd(ə)n] vt.放弃、舍弃、离弃
 	2. abandon
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
+		2. vt. 放弃, 抛弃, 遗弃; 沉溺于, 放纵  n. 放任, 放纵
+		3. a-=ad- + band-命令 + -on表名词 → 在别人的控制中，无限制的 → 放弃。
+		4. ban（禁令）：封建领主在其领地上发布的强制性公告  
+		5. 在欧洲的封建时期，领主在自己的领地上（manor）拥有管辖权，可以发布公告，强制要求领地内的所有居民做某事或禁止做某事，如要求居民给领主服兵役、禁止在领主的土地上狩猎、捕鱼等。领主所发布的这种公告在拉丁语中称作bannun，英语单词ban（禁令）就来源于此，本来既可是命令做某事或禁止做某事，但后来词义逐渐缩小为“禁止做某事”。同源的还有单词banns（结婚公告）。  
+		6. banal是由ban（公告）衍生出来的形容词，用来表示“与ban相关的”，如banal right表示“领主发布ban的权利”。在封建领主所颁发的公告中，常见的一种是要求居民必须使用领主所提供的公用设施，如水井、磨坊、烤房、桥梁等，并向领主支付相应的使用费。因此banal衍生出“公用的、公共的”之意，进而演变为“平凡的、平庸的、司空见惯的”，最终演变为现在常用的“陈腐的”之意。  
+		7. 单词abandon（放弃）也与ban有关。它源自法语词组 à bandon（under control or jurisdiction），其中的à =at，bandon和ban一样源自拉丁语bannun，表示“控制、管辖”。 所以abandon的字面意思就是“处于……的管辖下”，引申为放弃控制权。  
+		8. ban：[bæn] n.禁令vt.禁止，取缔  
+		9. banns：[bænz] n.结婚公告  
+		10. banal：[bə'nɑl] adj.平庸的，陈腐的，老一套的  
+		11. banality：[bə'nælɪtɪ] n.陈词滥调，平凡，陈腐  
+		12. abandon： [ə'bænd(ə)n] vt.放弃、舍弃、离弃
+		13. self-abandoned
+		14. abandonment
+		15. abandoner
+		16. abandonee
+		17. abandoned
 	3. banal
-		1. banality
-		2. 
+		1.  (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived, mediocrity, monotonous, )
+		2. a. 平凡的, 陈腐的
+		3. ban【禁止】 + -al, 形容词后缀 → 被禁止的 → 陈腐的。
+		4. banality
 	4. bandit
 		1. banish（放逐）：中世纪欧洲的剥夺公权刑罚  
 		2. banish来自意大利语bandire（剥夺公权），与单词ban（公告）同源。banish的字面意思是“宣布剥夺某人的公权”。“剥夺公权”是中世纪的一种刑罚，只有皇帝才有权颁发公告（ban）剥夺某人或某座城市的公权。被剥夺公权意味着丧失了法律保护，任何人可以杀之或掠夺之。当某人被剥夺公权后，自然无法在当地正常生活，只能远走他乡，因此衍生出“放逐”之意。  
@@ -803,12 +822,30 @@
 		9. banditry
 			1. n. 土匪行为, 匪帮
 	5. banish (brandish, banister, barrister )
-		1. [ban](dic://ban), [ostracize](dic://ostracize), [ostracise](dic://ostracise), [shun](dic://shun), [cast out](dic://cast out), [blackball](dic://blackball)
-		2.  [relegate](dic://relegate), [bar](dic://bar)
-		3. _v._ [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out), [chase away](dic://chase away), [drive out](dic://drive out), [turn back](dic://turn back), [drive away](dic://drive away)
-		4. **eliminate**消除, 排除;**eradicate**摧毁,完全根除;**rid**使去掉;**dispel**驱散，驱逐;**expel**驱逐;**slay**杀害;**erase**抹去;**conquer**战胜，征服;**suppress**抑制;**remove**移开;**destroy**毁坏;
-		5. banishment
-	7. contraband
+		1. ban-禁止 + -ish表动词 → 禁止入境 → 驱逐。
+		2. [ban](dic://ban), [ostracize](dic://ostracize), [ostracise](dic://ostracise), [shun](dic://shun), [cast out](dic://cast out), [blackball](dic://blackball)
+		3.  [relegate](dic://relegate), [bar](dic://bar)
+		4. _v._ [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out), [chase away](dic://chase away), [drive out](dic://drive out), [turn back](dic://turn back), [drive away](dic://drive away)
+		5. **eliminate**消除, 排除;**eradicate**摧毁,完全根除;**rid**使去掉;**dispel**驱散，驱逐;**expel**驱逐;**slay**杀害;**erase**抹去;**conquer**战胜，征服;**suppress**抑制;**remove**移开;**destroy**毁坏;
+		6. _[banish from](dic://banish%20from)_  从…驱逐出去
+		7. These feelings are normal, and you'll never truly banish them. /这些感觉是正常的，你永远无法真正消除它们。
+		8. " Please, sir...why have the other centaurs banished you? " /“请问，先生别的马人为什么要放逐你呢？”
+		9. Here's your laundry. I rescind your strikes and you are no longer banished. /这是你的衣服。我清除了你的记录，你不再被驱逐了。
+		10. He was banished to an uninhabited island for a year. /他被放逐到一个无人居住的荒岛一年。
+		11. banishment
+	6. contraband
+		1. n. 违禁品, 走私  a. 禁运的, 非法买卖的
+		2. contra-反 + band-命令 → 违反命令做事 → 走私;参考:ban禁止。
+		3. _n._ [merchandise](dic://merchandise), [ware](dic://ware), [product](dic://product)
+		4. _adj._ [illegal](dic://illegal)
+		5. _n._ [legal](dic://legal)
+		6. **smuggling**走私;**narcotics**麻醉毒品;**cocaine**可卡因;**illicit**违法的;**illegal**非法的;**cargo**货物，船货;**counterfeit**仿制品, 伪造物;**importation**进口;**drugs**毒品，药物;**seizure**夺取;**narcotic**麻醉的;
+		7. _contraband goods_ 违禁品，走私货品
+		8. I learned not to smuggle contraband with my idiot grandson. /我学到了别跟我的傻孙子一起运违禁品的教训。
+		9. He has a fridge full of stolen blood bank contraband in the house. /家里有个冰箱，里面装的都是他从血库里偷来的血液。
+		10. Ma'am, you seem to know an awful lot about sneaking contraband on to a plane. /女士，你似乎非常了解如何偷带违禁品上飞机啊。
+		11. Confiscating contraband is part of my new job at school. /没收违禁品是我在学校新工作的一部分。
+		12. Some inmates frantically search for the best hiding places to put their contraband. /一些囚犯疯狂地寻找放置违禁品的最佳藏身之处。
 2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
 	1. confabulate (ambulate, perambulate)
 		1. _v._ [fabricate](dic://fabricate), [manufacture](dic://manufacture), [cook up](dic://cook up), [make up](dic://make up), [invent](dic://invent), [converse](dic://converse), [discourse](dic://discourse)
@@ -1373,21 +1410,24 @@
 		8. _debut album_ 首张专辑；处女专辑
 		9. _debut single_ 首张单曲；出道歌曲
 	16. rebate
-		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
-		2. [discount](dic://discount)
-		3. [rabbet](dic://rabbet)
-		4. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
-		5. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
-		6. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
-		7. _tax rebate_ 退税；税收回扣
-		8. _export tax rebate system_ 出口退税机制
-		9. rebate a portion of a bill /减免帐单上一部分款项
-		10. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
-		11. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
-		12. Lariviere used the California turf replacement rebate to cover the cost of putting in her new drought-resistant garden. /拉里维尔用加州的草坪更换折扣来支付她新的抗旱花园的投入成本。
-		13. These rebates are mostly used for expensive brand-name prescription drugs in categories in which there are interchangeable products. /这些回扣主要用于在这其类别中有可互换产品的昂贵的品牌处方药。
+		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
+		2. n. 部分退款, 折扣  
+		3. vt. 退还, 打折扣  
+		4. vi. 退还部分付款
+		5. [discount](dic://discount)
+		6. [rabbet](dic://rabbet)
+		7. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
+		8. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
+		9. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
+		10. _tax rebate_ 退税；税收回扣
+		11. _export tax rebate system_ 出口退税机制
+		12. rebate a portion of a bill /减免帐单上一部分款项
+		13. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
+		14. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
+		15. Lariviere used the California turf replacement rebate to cover the cost of putting in her new drought-resistant garden. /拉里维尔用加州的草坪更换折扣来支付她新的抗旱花园的投入成本。
+		16. These rebates are mostly used for expensive brand-name prescription drugs in categories in which there are interchangeable products. /这些回扣主要用于在这其类别中有可互换产品的昂贵的品牌处方药。
 	18. rebut
-		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry)
+		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, repudiate, spurn, rebuff, snub, repel,)
 		2. [refute](dic://refute)
 		3. [refute](dic://refute), [controvert](dic://controvert)
 		4. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)

@@ -6245,7 +6245,7 @@
 			3. _impudicity presumption run wild wanton_ 放肆
 			4. _shameless impudicity cheeky blushless blatant_ 无耻的
 	5. repudiate (capitulate, recapitulate)
-		1. (scant, spurn, repudiate, )
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
 		2. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
 		3. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
 		4. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)

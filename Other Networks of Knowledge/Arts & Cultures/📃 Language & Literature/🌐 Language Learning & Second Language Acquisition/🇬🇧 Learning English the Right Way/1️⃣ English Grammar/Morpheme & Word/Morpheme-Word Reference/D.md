@@ -171,7 +171,7 @@
 		2. 
 	13. jurisdiction
 	14. abdicate (accede)
-		1. (renounce, abjure, abdicate, foreswear, quit, relinquish, cede, concede, )
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
 		2. vt. 正式放弃  
 		3. vi. 退位, 退出, 辞职
 		4. ab-离开 + dic-说, 命令 + -ate, 表动词 → 不再命令 → 退位。
@@ -184,12 +184,12 @@
 		11. He abdicated all responsibility for the care of the child. /他放弃了抚养孩子的全部责任。
 		12. In a public address, Japan's emperor signaled his apparent wish to abdicate. /日本天皇发表讲话，并暗示退役意向。
 		13. You may be able to abdicate all your parental responsibility, but I cannot. /你也许能放弃所有作为家长的责任，但我不能。
-		15. abdicable
-	16. dedicate
-	17. dictate
-	18. indicate 
+		14. abdicable
+	15. dedicate
+	16. dictate
+	17. indicate 
 		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
-	19. predicate
+	18. predicate
 		1. n. 谓语, 谓项  
 		2. a. 谓语的  
 		3. vt. 断定为, 使基于, 意味着, 预言  
@@ -212,59 +212,59 @@
 			1. (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, strait, distress, mishap, fiasco, debacle, blunder, hazard, )
 			2. _n._ [difficulty](dic://difficulty)
 			3. **dilemma**困境;**situation**形势;**plight**困境;**conundrum**谜,猜不透的难题,难答的问题;**dilemmas**困境;**misfortune**不幸, 厄运, 逆境;**dire**可怕的, 恐怖的;**circumstance**环境;**precarious**依靠机会的;**crisis**危机;**fate**命运;
-	20. vindicate
+	19. vindicate
 		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		2. vindicability
 		3. vindicable
 		4. vindictive
-	21. dictaphone
-	22. valedictory
-	23. diction
+	20. dictaphone
+	21. valedictory
+	22. diction
 		1. diction - 该词16世纪始用于英语，它来自中世纪拉丁语dictiōnārium 'collection of words'（词集）。但若再进一步追本溯源，我们就会发现它和另一词diction（措词）都源于拉丁语dictiō（词）和dīcere（说）。英语中有不少带有拉丁词根dic-或dict-的词，其终极词源都是dīcere（说），都与“说”或“话”有关。例如benediction是“祝福”（a saying of good words），其前缀bene-是well（好）的意思；malediction是“诅咒”（asaying of bad words），其前缀mal-是“恶”或“坏”的意思。再如contradict意为“顶撞”（speak against or the opposite of another's words），其前缀contra-是“反对”或“与……相反”的意思；predict意为“预言”（say beforehand），其前缀pre-是“前”的意思。又如dictate意为“口授”或“听写”，其派生词dictator则指“独裁者”；verdict意为“裁决”，其中ver(e)是“真实地”的意思；edict意为“法令”、“敕令”，其前缀e- = ex-，含有“（话）向外（传）”之义；dictum意为“名言”或“格言”（a saying or pronouncement），等等。
 		2. dict-说 + -ion, 表名词 → 说话状态 → 措词。
-	24. dictograph
+	23. dictograph
 		1. dict-说话 + -graph仪器
-	25. dictum (proverb, dictum, idiom, )
+	24. dictum (proverb, dictum, idiom, )
 		1. dict-说 + -um → 说[出]的话 → 格言。
 		2.  [pronouncement](dic://pronouncement), [say-so](dic://say-so)
 		3.  [obiter dictum](dic://obiter dictum)
 		4. _n._ [declaration](dic://declaration), [opinion](dic://opinion), [legal opinion](dic://legal opinion), [judgment](dic://judgment), [judgement](dic://judgement)
 		5. **adage**格言，谚语;**axiom**公理;**principle**原理;**proverb**谚语，格言;**motto**座右铭，格言;**doctrine**教义;**precepts**戒律;**mantra**颂歌;**dogma**教条，教理;**paraphrase**释义;**rule**统治;
-	26. theodicy
+	25. theodicy
 		1. theo-神 + dic-说 + -y
-	27. condition
+	26. condition
 		1. 1 - 来自法语。con-,表强调，-dit,说，讨论，词源同 dictate,dictionary.字母 c 脱落比较benefit,benefactor.原指描述的情况，规定的情况，后指客观情况。
-	28. ditto
+	27. ditto
 		1. [ditto mark](dic://ditto mark)
 		2. _n._ [mark](dic://mark)
 		3. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell)
 		4. **BTW**随便说一下;**yep**是;**yes**是;**yup**是的;**nope**不是，没有;**ugh**啊;**anyhow**无论如何;**heh**嗨!;**duh**咄;**yeah**是;**dunno**我不知道;
 		5. _say ditto to_ [口语]同意…的意见，对…表示同意，赞成(某种观点)
-	29. ditty
+	28. ditty
 		1. 1 - 来自拉丁语 dictatum,说，说唱，词源同 diction.
 		2. _n._ [song](dic://song), [vocal](dic://vocal)
 		3. **song**歌曲;**lyric**抒情的;**jingle**发出叮当声;**ballad**歌谣，民谣;**melody**旋律;**tune**曲调, 曲子;**catchy**引人注意的;**riff**反复乐节;**lyrics**歌词;**hymn**赞美诗;**anthem**赞美诗;
-	30. index
+	29. index
 		1. 来自拉丁语 indicare,指出，说明，来自 in-,进入，使，-dic,指出，说，词源同 digit,indication.引申词义指数，标志，特征等。其复数形式为 indices.
-	31. indite (indict)
+	30. indite (indict)
 		1. 单词A：indict [ɪn'daɪt] vt.控告；起诉；[法] 揭发，单词B：indite [ɪn'daɪt] vt.写成文章。两个单词意思不同，但读音相同，而更重要的是，它们同根。拉丁词根dict-表to speak，indict控告，那是要把想要说（控诉）的东西（dict-）写出来，而indite也是把要说的话写出来，只不过不在法律方向了。 ​​​​
 		2. _v._ [create verbally](dic://create verbally)
 		3. **jot**略记;**compose**作曲;**likewise**也;**furnish**供应;**assemblage**聚集;**confine**限制;**moreover**此外;**nigh**近于;**write**写，写字;
 		4. [write](dic://write), [compose](dic://compose), [pen](dic://pen)
-	32. paradigm
+	31. paradigm
 		1. para-旁边 + digm-=dict-说、展示 → 在旁边显示给(别人) → 示范。
 		2.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
 		3.  [substitution class](dic://substitution class)
 		4. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
 		5. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
 		6. _paradigm shift_ 典范转移；思考模式的转移
-	33. preach
+	32. preach
 		1. 1 - 来自古英语 predician,传道，布道，借自古法语 preechier,传道，布道，来自拉丁语 praedicare,公开宣称，通知，宣布，公告，来自 prae,在前面，dicare,说，宣布，公告，词源同 diction,predict.引申贬义词义说教。
 		2. preachy
 			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
 			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
 			3. _n._ [uninstructive](dic://uninstructive)
-	34. vendetta
+	33. vendetta
 		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
 8. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
@@ -3267,27 +3267,29 @@
 		2. a. 假冒的, 假装的  
 		3. v. 仿造, 伪装, 假装
 		4. counter-相对 + feit-=fact-做。
-	68. forfeit (confiscate, forfeit)
-		1. n. 没收物, 罚金  
-		2. vt. 丧失，被没收  
-		3. a. 丧失了的
-		4. for-在外面，超过 + feit=fact-做，原义为做过头的，越界的，衍生词义犯罪，处罚，没收。
-		5. forfeit ['fɔːfɪt] n. 罚金；没收物；丧失的东西，adj. 因受罚而丧失的；被没收的，vt. （因犯罪、失职、违约等）丧失（权利、名誉、生命等）。for-是拉丁词根，与希腊词源的thyroid甲状腺和日耳曼词源的door同源，表门外的，-feit词根表示do，即做的事情超过了正常的界限（门）而导致财产被没收。
-		6. [forfeiture](dic://forfeiture)
-		7. [forfeiture](dic://forfeiture)
-		8. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
-		9. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
-		10. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
-		11. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
-		12. _v._ [abandon](dic://abandon)
-		13. _adj._ [lost](dic://lost)
-		14. _n._ [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
-		15. _n._ [won](dic://won)
-		16. **relinquish**交出, 让给;**lose**使沉溺于;**forfeiture**丧失;**ineligible**无被选任资格的;**withdraw**撤消;**surrender**投降;**withhold**保留，不给;**renounce**宣布放弃;**vacate**空出，腾出;**disqualification**不合格;**winnings**赢得的钱;
-		17. forfeit a motor licence /汽车执照被没收
-		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
-		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
-		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
+	68. forfeit 
+		1. (confiscate, forfeit)
+		2. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
+		3. n. 没收物, 罚金
+		4. vt. 丧失，被没收
+		5. a. 丧失了的
+		6. for-在外面，超过 + feit=fact-做，原义为做过头的，越界的，衍生词义犯罪，处罚，没收。
+		7. forfeit ['fɔːfɪt] n. 罚金；没收物；丧失的东西，adj. 因受罚而丧失的；被没收的，vt. （因犯罪、失职、违约等）丧失（权利、名誉、生命等）。for-是拉丁词根，与希腊词源的thyroid甲状腺和日耳曼词源的door同源，表门外的，-feit词根表示do，即做的事情超过了正常的界限（门）而导致财产被没收。
+		8. [forfeiture](dic://forfeiture)
+		9. [forfeiture](dic://forfeiture)
+		10. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
+		11. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
+		12. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
+		13. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		14. _v._ [abandon](dic://abandon)
+		15. _adj._ [lost](dic://lost)
+		16. _n._ [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
+		17. _n._ [won](dic://won)
+		18. **relinquish**交出, 让给;**lose**使沉溺于;**forfeiture**丧失;**ineligible**无被选任资格的;**withdraw**撤消;**surrender**投降;**withhold**保留，不给;**renounce**宣布放弃;**vacate**空出，腾出;**disqualification**不合格;**winnings**赢得的钱;
+		19. forfeit a motor licence /汽车执照被没收
+		20. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
+		21. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
+		22. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
 	69. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
@@ -4865,12 +4867,17 @@
 2. dig
 3. dike
 4. ditch
-	1.  [chuck](dic://chuck)
-	2. [dump](dic://dump)
-	3.  [trench](dic://trench)
-	4. _n._ [excavation](dic://excavation), [waterway](dic://waterway)
-	5. _v._ [abandon](dic://abandon), [forsake](dic://forsake), [desolate](dic://desolate), [desert](dic://desert), [get rid of](dic://get rid of), [remove](dic://remove), [crash land](dic://crash land)
-	6. **abandon**离弃;**embankment**路堤;**dump**倾倒;**ravine**峡谷;**trench**沟，沟渠;**muck**垃圾;**dug**挖，翻土;**dig**挖，掘;**bury**埋葬;**digging**挖掘，采掘;**dumped**扔掉;
+	1. n. 沟渠  
+	2. vt. 在...开沟; 丢弃  vi. 开沟
+	3.  [chuck](dic://chuck)
+	4. [dump](dic://dump)
+	5.  [trench](dic://trench)
+	6. _n._ [excavation](dic://excavation), [waterway](dic://waterway)
+	7. _v._ [abandon](dic://abandon), [forsake](dic://forsake), [desolate](dic://desolate), [desert](dic://desert), [get rid of](dic://get rid of), [remove](dic://remove), [crash land](dic://crash land)
+	8. **abandon**离弃;**embankment**路堤;**dump**倾倒;**ravine**峡谷;**trench**沟，沟渠;**muck**垃圾;**dug**挖，翻土;**dig**挖，掘;**bury**埋葬;**digging**挖掘，采掘;**dumped**扔掉;
+	9. I’ve slogged my guts out digging this ditch, and I’m completely exhausted. /我拚了老命挖这条沟，现在累得要死。
+	10. I wormed my way along the roadside ditch. /我慢慢地沿着路边的沟渠向前走。
+	11. His old motorcar stopped working so he decided to ditch it. /"他那辆旧摩托车开不动了,所以他决定把它抛弃了。"
 
 
 ### + \*dhragh- + to draw, drag on the ground
@@ -5148,18 +5155,67 @@
 		4. attractant
 		5. attractable
 	11. contract
-		1. etc..
-	12. detract
+		1.  [declaration](dic://declaration)
+		2.  [contract bridge](dic://contract bridge)
+		3.  [undertake](dic://undertake)
+		4.  [sign](dic://sign), [sign on](dic://sign on), [sign up](dic://sign up)
+		5.  [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [press](dic://press)
+		6.  [shrink](dic://shrink)
+		7.  [take](dic://take), [get](dic://get)
+		8.  [condense](dic://condense), [concentrate](dic://concentrate)
+		9.  [narrow](dic://narrow)
+		10.  [abridge](dic://abridge), [foreshorten](dic://foreshorten), [abbreviate](dic://abbreviate), [shorten](dic://shorten), [cut](dic://cut), [reduce](dic://reduce)
+		11. _n._ [written agreement](dic://written%20agreement), [bid](dic://bid), [bidding](dic://bidding), [bridge](dic://bridge)
+		12. _v._ [promise](dic://promise), [assure](dic://assure), [hire](dic://hire), [engage](dic://engage), [employ](dic://employ), [tighten](dic://tighten), [decrease](dic://decrease)
+		13. _n._ [expand](dic://expand), [spread out](dic://spread%20out), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge)
+			1. [agreement](dic://agreement) 普通用词，含义最确定，泛指个人、团体或国家之间取得一致而达成的任何协议、协定或合同、契约等，可以是口头的，也可以是书面的。  
+			2. [contract](dic://contract) 侧重指双方或多方订立的具有法律效力的正式的书面合同或契约。   
+			3. [treaty](dic://treaty) 指国家之间经外交谈判后依照国际法签订的正式条约。  
+			4. [convention](dic://convention) 比treaty更专门化，但不及treaty正式。也可指国家之间就有关事情签订的条约。  
+			5. [bargain](dic://bargain) 通常指商业交往中的购销合同。  
+			6. [understanding](dic://understanding) 指不具约束力的非正式的协议。  
+			7. [accord](dic://accord) 多指国际间的非正式协议。
+		14. **contractual**合同的,契约的;**agreement**协定, 协议, 契约;**lease**租约;**signing**签署;**signed**有符号的;**buyout**全部买下;**stipulation**契约;**pact**条约;**deal**协定;**clause**条款;**contractor**承包人;
+		15. _contract with_ 承包；与…订有合约
+		16. _contract in_ [法]保证承担义务
+		17. _labor contract_ n. 劳工合同
+		18. _contract management_ 合同管理
+		19. _breach of contract_ 违约；违反合同
+		20. _sales contract_ 销售合同
+		21. _insurance contract_ 保险契约，保险合同
+		22. _contract price_ 合约价格；发包价格
+		23. _construction contract_ 建筑包工合同
+		24. _under the contract_ 依据本合同
+		25. _employment contract_ 雇佣合同；聘约
+		26. _purchase contract_ 购货合同
+		27. _sign a contract_ 签订合同；签合同；签署合同
+		28. _by contract_ 承包；根据合同
+		29. _under contract_ 根据合同
+		30. _psychological contract_ 心理契约；精神契约
+		31. _contract terms_ 合同条款
+		32. _on contract_ 按合约方式
+		33. _service contract_ 劳务合同
+		34. _social contract_ 社会契约（统治者与被统治者订定的详列权利义务的契约，等于social 社会契约论；compact）；民约论
+		35. contractual
+			1. _adj._ [contract](dic://contract)
+			2. **contract**合同;**agreement**协定, 协议, 契约;**statutory**法定的;**obligation**义务;**legal**法定的;**fiduciary**基于信用的,信托的,受信托的;**enforceable**可实施的;**confidentiality**机密性;**budgetary**预算的;**liability**责任;**arrangement**安排;
+			3. _contractual joint venture_ n. 契约式合营企业；合约式联营企业
+			4. _contractual obligation_ 合同义务；契约责任
+			5. _contractual agreement_ 合约协议，合同
+			6. You have a contractual obligation to finish the school building this week. /"按合同规定,贵公司应在本周内完成这幢教学大楼的工程。"
+			7. The builders failed to meet their contractual obligations. /建筑商没能履行合同中规定的义务。
+		36. etc..
+	42. detract
 		1. **diminish**使减少;**distract**转移;**hinder**成为阻碍;**enhance**提高;**accentuate**重读;**impede**阻止;**undermine**在某物下挖洞或挖通道;**negate**否定;**detriment**损害, 伤害;**deter**制止，阻止;**elevate**举起;
-	13. distract
+	43. distract
 		1. distraction
 		2. distractingly
 		3. distractibility
 		4. distracted
 		5. distraught
 			1. **heartbroken**悲伤的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**enraged**暴怒的;**frightened**害怕的;**shocked**震撼的;**sobbing**湿透的;**angry**生气的;**saddened**使…悲伤;**upset**使心烦;**disgusted**厌恶的;**dismayed**心慌;
-	14. extract
-	15. protract
+	44. extract
+	45. protract
 		1.  [prolong](dic://prolong), [extend](dic://extend), [draw out](dic://draw out)
 		2. _v._ [lengthen](dic://lengthen)
 		3. **prolong**拖延;**lengthen**使延长;**prolonged**持续很久的,长时间的;**lessen**使…变小;**shorten**缩短;**hasten**催促;**necessitate**使…成为必要, 需要;**hinder**成为阻碍;**curtail**截断, 缩短;**lest**唯恐，以免;**impede**阻
@@ -5167,11 +5223,11 @@
 		5. _[protracted war](dic://protracted%20war)_  持久战
 		6. _[Protracted Labour](dic://Protracted%20Labour)_ 滞产
 		7. _[Protracted negotiations](dic://Protracted%20negotiations)_ 旷日持久的谈判
-	16. retract
+	46. retract
 		1. [abjure](dic://abjure), [recant](dic://recant), [forswear](dic://forswear), [resile](dic://resile)
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
-	17. subtract
-4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
+	47. subtract
+34. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
 		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
 			1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用

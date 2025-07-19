@@ -9,6 +9,10 @@
 
 2025/07/09 1665292 words in total of A-Z, including this misc note. (that's soo many???!!!)
 
+2025/07/19
+- for synonyms () in all note of references, the latest version would be in this note (miscs)
+- for words of synonyms groups that do not appear in the miscs section, the latest version would be in the note of the first word in that group. 
+
 
 
 ## A
@@ -486,6 +490,25 @@ badge
 	- **fox**欺骗;**hound**追猎;**beaver**海狸;**moose**驼鹿;**wolf**狼;**foxes**狐狸;**squirrel**松鼠;**honey**蜂蜜;**otter**水獭;**boar**野猪;**grizzly**灰色的; [tease](dic://tease), [pester](dic://pester), [bug](dic://bug), [beleaguer](dic://beleaguer)
 	- journalists badgered him about the deals. /记者们就那几笔交易问题不停地纠缠他。
 	- The children badgered me into taking them to the cinema. /孩子们吵着要我带他们去看电影。
+
+baffle
+- vt. 困惑, 为难, 使挫折  
+- vi. 徒作挣扎  
+- n. 迷惑, 挡板
+- - 拟声词。
+-  [knotty](dic://knotty), [problematic](dic://problematic), [problematical](dic://problematical), [tough](dic://tough)
+- _adj._ [difficult](dic://difficult), [hard](dic://hard)
+- _n._ [easy](dic://easy)
+- **puzzling**使莫明其妙的;**perplexing**使人困惑的;**bizarre**奇异的;**inexplicable**无法说明的;**infuriating**使人十分生气的,令人大怒的;**incomprehensible**费解的;**disconcerting**困惑的, 不安的, 尴尬的;**convoluted**盘绕的,卷曲的;**confusing**莫名其妙的, 难以理解的;**illogical**不合逻辑的;**strange**陌生的;
+- baffling
+	- Like any sport, video games have a culture that can be baffling to outsiders /其实电子游戏像任何一项体育运动一样，有着圈外人难以理解的文化。
+	- This difference between the sexes is baffling /不同性别之间的不同是令人困惑的。
+	- It was a short, beautiful and baffling work. /这是一本篇幅短小、文字优美、但很深奥的作品。
+	- To understand this baffling development, consider the underlying economics. /要理解黑色星期五的这种令人困惑的发展，需要考虑底层经济逻辑。
+- baffler
+- bafflement
+- bafflegab
+- baffle-board
 
 bag
 - workbag
@@ -978,7 +1001,7 @@ bland
 - _n._ [tasty](dic://tasty), [stimulating](dic://stimulating), [undiplomatic](dic://undiplomatic)
 - **boring**令人厌烦的;**uninteresting**无趣的,令人厌倦的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**dull**钝的;**drab**单调的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**unremarkable**寻常的,不值得注意的;**overdone**把…煮得过久;**lackluster**无光泽,暗淡;
 - blandness
-	-  (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
+	-  (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived, mediocrity, monotonous, )
 	- **mediocrity**平庸,第二流;**overdone**把…煮得过久;**banal**陈腐的;**cliches**陈腔滥调;**boredom**厌倦;**ugliness**丑陋，丑陋之物;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**subtlety**微妙;**monotonous**无变化的, 单调乏味的;**silliness**愚蠢;
 	- [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [unappetizingness](dic://unappetizingness), [unappetisingness](dic://unappetisingness), [graciousness](dic://graciousness)
 - blandly
@@ -1192,7 +1215,7 @@ blood
 	- Klaus is a vampire borne of a werewolf bloodline /克劳斯是含有狼人血统的吸血鬼。
 
 blot
-- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 - (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - vi. 吸墨水；弄上墨渍或污渍
 - vt. 涂污，弄脏；用吸墨纸弄干（或除去）
@@ -2258,7 +2281,7 @@ bunk
 - 1. they bunk together in the dormitory. 他们合住在宿舍。
 - I'm Ed, and this is my bunk /我是艾德 这里就是我的位置。
 - debunk
-	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, spurn,)
+	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, repudiate, spurn, rebuff, snub, repel,)
 	- [expose](dic://expose), [discredit](dic://discredit), [demystify](dic://demystify)
 	- **refute**反驳，驳斥;**disprove**反驳，证明…是虚假的;**dispel**驱散，驱逐;**discredit**败坏…的名声;**substantiate**用事实支持;**myth**神话;**contradict**矛盾;**unsubstantiated**无事实根据的;**discredited**不足信的,不名誉的;**skeptics**疑论者，怀疑主义者;**bogus**伪造的;
 	- debunk a supposed miracle drug. /戳穿一种所谓的神奇药物
@@ -2791,7 +2814,7 @@ cherub
 	- The star of the team was a blond, cherubic, and psychologically intense self-taught young engineer named Burrell Smith, who worshipped the code work of Wozniak and tried to pull off similar dazzling feats. 团队中的明星是一个叫伯勒尔·史密斯的无师自通的年轻工程师。他有一头金发，长着一张娃娃脸，内心却极其严肃认真，他十分崇拜沃兹尼亚克编写的代码，自己也想做出一些耀眼的成就
 
 chide
-- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 - (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -2977,7 +3000,7 @@ cleave
 - gleubh-
 
 cliche
-- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
+-  (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived, mediocrity, monotonous, )
 - n. 陈腔滥调, 凸印版  
 - a. 陈腐的
 - cliche（陈词滥调）：可以反复使用的铅版块  
@@ -3492,7 +3515,7 @@ cower
 - " Yeah. I don't have to cower in a herd anymore, " said the sheep. /" 对。我再也不用战战兢兢地躲在羊群里了。" 小绵羊说道。
 
 crab
-- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 - (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 - **lobster**龙虾;**shrimp**虾;**clam**蚌, 蛤;**prawns**大虾，对虾;**clams**蛤蚌;**fish**捕鱼，钓鱼;**shellfish**贝;**seafood**海鲜;**octopus**章鱼;**turtle**海龟;**oyster**牡蛎，蚝;
 - [decapod crustacean](dic://decapod crustacean), [decapod](dic://decapod), [grouch](dic://grouch), [grump](dic://grump), [crank](dic://crank), [churl](dic://churl), [crosspatch](dic://crosspatch)
@@ -3558,7 +3581,7 @@ cry
 	- **uproar**骚动;**outrage**暴行;**backlash**反斜线;**outraged**义愤填膺的;**controversy**争论;**indignation**愤怒, 愤慨, 气愤;**condemnation**谴责;**protests**抗议;**protest**抗议;**provoked**激起;**ire**忿怒;
 	- an outcry of spontaneous passion / 不由自主地发出的充满激情的呼喊。
 - decry
-	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry)
+	- ( (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, repudiate, spurn, rebuff, snub, repel,)
 	-  [condemn](dic://condemn), [reprobate](dic://reprobate), [objurgate](dic://objurgate), [excoriate](dic://excoriate)
 	- _v._ [denounce](dic://denounce)
 	- **denounce**谴责;**criticize**评论, 批评;**condemn**判刑，定罪;**criticise**批评;**lament**悲叹;**accuse**控告，指控;**oppose**反对;**shun**避开, 回避, 避免;**despise**轻视，鄙视;**lamenting**悲伤的,悲哀的;**argue**争论，辩论;
@@ -3785,11 +3808,43 @@ do
 - wrongdoing
 - etc..
 
-dowdy, dowdish
-- **drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
-
 doom
 - dhe-
+
+dope
+- n. 麻醉剂, 毒品; 兴奋剂; 笨蛋; 内幕消息; 清漆  
+- v. 给…用兴奋剂; 给…服麻醉剂; 使药力发作; <旧>吸毒; 涂清漆; 掺杂  
+- a. <俚>很棒
+- - n. <非正式>麻醉剂，毒品；<非正式>傻瓜；<非正式>（内幕）消息；（为约束或改善赛马、跑狗的表现而喂给的）兴奋剂，抑制剂；（运动员服用的）兴奋剂；（为加固和保持气密而在模型飞机纤维织物表面上涂的）清漆；润滑脂；汽油添加剂
+- v. 给……服用麻醉剂；给……服用兴奋剂；给……服用止痛药，给……服用安眠药；（在食品或饮料中）放麻醉药；在毒品作用（影响）下；吸毒；用清漆（或其他涂料）涂抹（或覆盖）；（电子）给（半导体）掺杂
+- adj. 极好的
+- 来自 dip,浸。原义为沙司，汤汁，后用在口语指大麻。
+-  [pot](dic://pot), [grass](dic://grass), [green goddess](dic://green goddess), [weed](dic://weed), [gage](dic://gage), [sess](dic://sess), [sens](dic://sens), [smoke](dic://smoke), [skunk](dic://skunk), [locoweed](dic://locoweed), [Mary Jane](dic://Mary Jane)
+-  [dumbbell](dic://dumbbell), [dummy](dic://dummy), [boob](dic://boob), [booby](dic://booby), [pinhead](dic://pinhead)
+-  [cola](dic://cola)
+-  [poop](dic://poop), [the skinny](dic://the skinny), [low-down](dic://low-down)
+-  [dope up](dic://dope up)
+- _n._ [cannabis](dic://cannabis), [marijuana](dic://marijuana), [marihuana](dic://marihuana), [ganja](dic://ganja), [simpleton](dic://simpleton), [simple](dic://simple), [soft drink](dic://soft%20drink)
+- _v._ [drug](dic://drug), [do drugs](dic://do%20drugs), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [dose](dic://dose)
+- **shit**屎;**weed**杂草;**heroin**海洛因，吗啡;**rap**轻敲;**cocaine**可卡因;**dude**城里人;**pimp**皮条客;**hip-hop**嬉蹦舞乐曲;**rapping**轻敲;**drugs**毒品，药物;**booze**酒;
+- _dope out_ vt. 猜出，想出；预测；推测出；解出
+- _spinning dope_ 纺丝液
+- He got a lot of dope from the secretary. /他从秘书那里获得许多内部消息。
+- She had been doped and kidnapped /她被人下了蒙汗药后遭绑架。
+-  CuFe-PILC catalyst was prepared by doping technology during the preparation process of pillaring agent./在此基础上对其进行掺杂改性，获得了铜铁复合层柱粘土催化剂。
+- In June, we gave you the dope, it tests 100 percent pure. /六月份我们把毒品给你的时候，纯度还是百分之百。
+- A 250,000-dollar donation amid lingering questioins about whether he was doping or not /关于他是否服用禁药的疑问已经有一份250，000美元的捐赠。
+- She doesn't care. You're the only dope wearing that here. /她不在乎 你是唯一戴着牌子的笨蛋。
+- rope-a-dope
+	- The rope-a-dope is a boxing fighting style commonly associated with Muhammad Ali in his 1974 Rumble in the Jungle match against George Foreman.
+	- In competitive situations other than boxing, rope-a-dope is used to describe strategies in which one party purposely puts itself in what appears to be a losing position, attempting thereby to become the eventual victor.
+	-  伺机反击 以逸待劳
+	- They would remember the shenanigans, the Ali Shuffle, the **Rope-a****-****Dope**, the fact that Ali had brought beauty and grace to the most uncompromising of sports /他们会记住虚晃动作、阿里曳步、借助绳索闪躲，以及阿里为最凶悍的体育运动带来了美和魅力这一事实。
+- dopy
+- dopey
+- dopester
+	- _n._ 预测结果的人
+- dopant
 
 douche
 - deuk-
@@ -3816,6 +3871,7 @@ douse (extinguish)
 - dousing
 
 dove
+- n. 白鸽, 和平鸽; 鸽派  dive的过去式
 - turtledove
 - ringdove
 - dovish
@@ -3835,6 +3891,9 @@ dove
 - dove-eyed
 	- _[roving eye](dic://roving%20eye)_  流盼的目光
 	- _adj._ 眼神柔和的
+
+dowdy, dowdish
+- **drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
 
 ==down==
 - etc...
@@ -4891,7 +4950,8 @@ flare (flair)
 	- And they found that flareups of the virus were linked to years with extreme losses in sea ice—suggesting that open waters aided the spread of the pathogen, perhaps along the melted coastline north of Siberia /他们发现，病毒的爆发与海冰极度流失的年份有关——这表明开阔水域有助于病原体的传播，可能是在西伯利亚北部融化的海岸线上。
 - bathflare
 
-flash
+flash 
+- (flush, gush, lush, slush, plush, blush, shush, hush, push, bush, rush) (flash, clash, dash, splash, bash, cash, )
 -  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
 
 flat
@@ -4992,7 +5052,8 @@ flub (founder /gaffe /blunder /flummox /flub /)
 - A "blooper" (blooper) is similar to a flub or a slip – it's a mistake /“失误” （blooper）类似于失误或失误——这是一个错误。
 - If you try a sales technique and **flub** it, not making a sale, will you try it again? /如果你尝试了一种销售技巧，但是没有成功，一份单子都没做成，你会再试一次吗？
 
-flout (flaunt) (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
+flout (flaunt)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 - 词源不详。可能来自 flute,笛子，长笛。原指吹笛的人，引申词义藐视，瞧不起。可能是来自人们心目中艺术家的清冷，高傲。
 - **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
 - [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
@@ -6657,7 +6718,8 @@ gultch
 guppy
 - **goldfish**金鱼;**fish**捕鱼，钓鱼;**fishes**鱼类;**aquarium**水族馆;**shark**鲨鱼;**dolphin**海豚;**jellyfish**水母;**octopus**章鱼;**turtle**海龟;**catfish**鲶鱼;**sharks**鲨鱼;
 
-gush (flush, gush, lush, slush, plush, blush, shush)
+gush
+- (flush, gush, lush, slush, plush, blush, shush, hush, push, bush, rush) (flash, clash, dash, splash, bash, cash, )
 - 1. _vi._ 喷，涌
 - 滔滔不绝地说话
 - _n._ 涌出；迸发
@@ -9342,7 +9404,7 @@ lam
 - lamster
 	-  逃犯（等于lamister）
 - lambaste, lambast
-	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -10194,6 +10256,7 @@ mangonel
 mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
 - PIE (\*mag "to knead, fashion, fit")
 - mangle
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 	- **rip**撕;**parse**从语法上分析;**distort**扭曲;**rearrange**重新安排;**chop**砍;**scrape**用工具刮;**spit**吐口水;**stomp**跺;
 	- [clothes dryer](dic://clothes dryer), [clothes drier](dic://clothes drier)
 	- [iron](dic://iron), [iron out](dic://iron out), [press](dic://press), [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish), [falsify](dic://falsify)
@@ -10202,7 +10265,7 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait)
 	- mangle a text by poor typesetting /由于排字不好而糟蹋全文
 	- the car was mangled almost beyond recognition. /这辆轿车被毁得面目全非。
 - maul
-	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul)
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor, blame, maul, mangle, mutilate)
 	- vt. 袭击, 撕咬; 轻易击败; 粗手粗脚地摆弄; 抨击
 	- v. 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球 
 	- n. 大槌（等于beetle）；（英国橄榄）围挤抢球 
@@ -11837,7 +11900,8 @@ plunk (pluck)
 -  How opportune it was that my throat is swollen plunk together and tears were easy to muster. /我的喉咙肿胀起来， 眼泪很容易聚集起来， 这是多么恰当的时机.
 - 
 
-plush  (flush, gush, lush, slush, plush, blush, shush)
+plush
+- (flush, gush, lush, slush, plush, blush, shush, hush, push, bush, rush) (flash, clash, dash, splash, bash, cash, )
 - (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 - (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
 - [lavish](dic://lavish), [lucullan](dic://lucullan), [lush](dic://lush), [plushy](dic://plushy)
@@ -16320,15 +16384,22 @@ spur
 	- _spur track_ 支路；（铁路的）支线
 	- _spur line_ 延线；（货物）支线
 - spurn
-	- (spurn, rebuff, refuse, snub, repel, reject,)
-	- (flout, jeer, scoff, barrack, gibe, scorn, spurn)
-	- (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
-	- - 来自古英语 spurnan,踢开，词源同 spur,马刺，鞭刺。引申比喻义拒绝，回绝。
+	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul, deface, disfigure) (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard, jeer, scoff, barrack, gibe, scorn, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+	- (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, spurn)
+	-  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, repudiate, spurn, rebuff, snub, repel,)
+	- 来自古英语 spurnan,踢开，词源同 spur,马刺，鞭刺。引申比喻义拒绝，回绝。
 	- reject with contempt
 	- [reject](dic://reject), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
 	- _v._ [refuse](dic://refuse), [decline](dic://decline)
 	- **shun**避开, 回避, 避免;**reject**拒绝;**abandon**离弃;**forgo**放弃;**succumb**屈服;**embrace**包含;**despise**轻视，鄙视;**refuse**拒绝;**scorn**轻蔑;**renounce**宣布放弃;**loathe**讨厌，厌恶;
 	- _[spurn at](dic://spurn%20at)_  藐视
+	- Most likely a spurned romantic overture, yes. /很可能是求爱失败。
+	- A fool spurns a parent's discipline, but whoever heeds correction shows prudence. /愚妄人藐视父亲的管教，领受责备的，得着见识。
+	- She sent a man who had long loved me, though I spurned his advances, to find me /她派了一个爱了我很久但是多次被我拒绝的人来找我。
+	- Those appearing had been attacked by relatives, spurned partners and by neighbors. /参加者都是被亲属，被抛弃的伴侣和邻居袭击的。
+	- Unlike his spurned protagonist, Camus was celebrated for his honest philosophy. /与他被唾弃的主人公不同，加缪以其诚实的哲学而闻名。
+	- She spurned it with her foot. /她用脚踢开它。
+	- For his part, the president largely ignored the Republicans who spurned him, turning instead to racial demagogy. /总统很大程度上选择了无视那些抛弃他的共和党人，将矛头转向了种族煽动性问题。
 - spurrier
 	- - n. 马刺制造者
 - spurred
@@ -16344,6 +16415,16 @@ spurious (salubrious)
 - (sper-)
 
 square
+- n. 正方形; 四方形; 广场; 平方; 古板的人  
+- a. 正方形的; 正直的, 公正的; 平方的, 方正的; 结实的, 厚实的; 结清的; 乏味的; 平局的  
+- ad. 正对着地; 径直地  
+- vi. 一致, 符合, 结清  
+- v. 使成方形; 使成平方; 挺起胸膛; 打成平局; 贿赂; 使相适配
+- 1.back to square one从头再来；退回起点。不少棋盘游戏（比如大富翁）的盘面都是由方格（square）组成的，摸到要求退回起点的牌面或掷骰子时手气不好都可能会被要求从头开始，后来这句习语也被用于指生活中解决问题或开展一个项目时候的从头再来
+	- Our designdidn't work, so it's back to square one. ​​​​  
+- 2.a square meal美餐；饱餐。旧时水手的伙食很差，早餐和中餐面包就水喝的情况居多，晚餐则丰富许多。面包和水用手拿着就能吃，可是晚餐的食物需要放到方形餐盘（海上船晃荡，方形餐盘储放稳固）中，所以a square meal就是丰盛的美餐了
+	- They haven't had a squaremeal for four or five days. ​​​​
+- 1 - 来自古法语 esquire,正方形，来自通俗拉丁语*exquadra,正方形，来自 ex-,向外，-quadr,四，词源同 quarter,quadrant,four.引申诸相关词义。
 - tree-square, setsquare, foursquare
 - squarson
 - squarish, squarely
@@ -16354,12 +16435,18 @@ square
 
 squander
 - - 词源不详，可能来自拟声词根 squ-,挤，压，模仿挤压湿物体时发出的吧唧声。比较 splurge,挥霍，浪费。
+- - v. 浪费，挥霍（金钱、时间等）；失去（机会）；（使）分散
+- n. 浪费
 - [waste](dic://waste), [blow](dic://blow)
 - [consume](dic://consume), [waste](dic://waste), [ware](dic://ware)
 - _v._ [use](dic://use), [expend](dic://expend), [spend](dic://spend), [drop](dic://drop)
 - **wasted**浪费的;**wasting**浪费;**hard-earned**辛苦得到的;**expend**花费;**waste**废物;**spend**花费;**wasteful**浪费的，不经济的;**wisely**聪明地;**precious**宝贵的;**seize**抓住;**invest**投资;
 - _[squander away](dic://squander%20away)_  浪费掉
 - _[to squander](dic://to%20squander)_  挥霍；耗费
+- We dare not squander the moment. /我们不敢浪费时间。
+- No, you squandered your time with me, and the moment has now passed. /不了 你浪费了我们探讨的黄金时间 而那个时刻已经一去不复返了。
+- Many wealthy families, including the Vanderbilts, squandered their fortunes /许多富豪家族，包括范德比尔特家族，都把财富挥霍一空。
+- It's a crime! Squandering a talent like yours in this backwater. /哪里好了！以你的身手呆在这里也太浪费了.
 - squandermania
 - squanderingly
 - suanderer
@@ -17947,6 +18034,8 @@ troth
 - _[by my troth](dic://by%20my%20troth)_  adv. 我保证
 - So then two bosoms and a single troth /共有着一片忠贞。
 - betroth
+	- vt. 订婚, 许配
+	- be-强调 + troth【订婚】。
 	- _v._ [vow](dic://vow)
 	-  [engage](dic://engage), [affiance](dic://affiance), [plight](dic://plight)
 	- **marry**娶;**marrying**证婚;**wed**结婚;**betray**背叛;**marriage**结婚;**slay**杀害;**renounce**宣布放弃;**seduce**引诱;**bride**新娘;**vow**发誓;**avenge**替…报仇;

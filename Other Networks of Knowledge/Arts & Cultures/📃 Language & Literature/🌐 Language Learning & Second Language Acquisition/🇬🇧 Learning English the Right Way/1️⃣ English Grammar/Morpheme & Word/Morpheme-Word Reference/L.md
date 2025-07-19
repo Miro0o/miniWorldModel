@@ -2532,7 +2532,7 @@
 	2. relinquish, relinquishment
 		1. re-强调 + linqu-离开 + -ish表动词 → 离开不再要 → 放弃。
 		2. 来自拉丁语 relinquere,留下，留给，来自 re-,向后，往回，linquere,留下，留给，词源同delinquency,relic.引申诸相关词义。
-		3. (renounce, abjure, abdicate, foreswear, quit, relinquish, cede, concede, )
+		3. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, )
 		4. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
 		5. can't bear to relinquish the idea. /不能忍受放弃这个主意。
 		6. They will never voluntarily relinquish their independence /他们绝对不会自动放弃独立。

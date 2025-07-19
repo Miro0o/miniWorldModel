@@ -785,7 +785,7 @@
 		19. jury
 		20. nonjuring
 	3. abjure 
-		1. (renounce, abjure, abdicate, foreswear, quit, relinquish, recant, repudiate)
+		1. (abdicate, renounce, abnegate, abandon, waive, relinquish, forgo, foreswear, dispense with, forfeit, repudiate, abjure, quit, cede, concede, recant, retract, resile, retract, )
 		2. ab-离开 + jur-发誓 + -e → 发誓离开 → 放弃。
 		3. - vt. 发誓放弃；公开放弃；避免
 		4.  [recant](dic://recant), [forswear](dic://forswear), [retract](dic://retract), [resile](dic://resile)
@@ -794,7 +794,7 @@
 		7. MPs were urged to abjure their Jacobite allegiance /国会议员们被敦促发誓不再对詹姆斯二世党人效忠。
 		8. On receiving this the victim might either openly abjure his former ways, or might fly from the country. /受到敌视的人接到警告以后，可以公开宣布放弃原有观点，或逃奔国外。
 		9. Some abjure the daunting unknowns of action and drown in their tailcoats or beds. /有些人放弃了行动中令人生畏的未知数，并淹没在他们的燕尾服或床上。
-	5. adjure (adjudge)
+	4. adjure (adjudge)
 		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
 		2. ad- + jure-发誓
 		3. vt. 恳请, 恳求, 命令, 起誓
@@ -809,9 +809,9 @@
 		12. Mammy was greatly perturbed that Ellen's daughter should display such traits and frequently adjuredher to " ack lak a lil lady" /嬷嬷感到十分难过，怎么爱伦的女儿会有这样的怪癖，并且经常劝诫她" 要学得像个小姐那样" 。
 		13. The spectators grew alarmed in the face of so entire a confidence, and adjured Prince Florizel to reconsider his intention /面对如此自信的人，观众们惊慌失措，要求弗洛里泽尔王子重新考虑他的意图。
 		14. 
-	7. injure
+	5. injure
 		1. in-不，非 + jur-法律，公正，词源同jury , justice . 即审判不公，引申词义伤害。
-	8. objurgate
+	6. objurgate
 		1. ob- + jur-发誓 + g-做 + -ate
 		2. _[objurgate](dic://objurgate)_  v. 痛骂，训斥，谴责
 		4. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
@@ -820,7 +820,7 @@
 		6. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
 		7. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
 		8. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂
-	9. perjure (pejorative)
+	7. perjure (pejorative)
 		1. - 来自拉丁语 periurium,伪誓，来自 per-,整个的，-jur,发誓，词源同 adjure,jury.即信誓旦旦，词义贬义化，引申词义作伪证，发假誓。比较 perfidy.
 		2. _v._ [lie](dic://lie)
 		3. **testify**作证;**perjury**伪证;**lied**德国抒情歌曲，浪漫曲;**oath**誓言，誓约;**prosecute**检举、告发某人;**lie**躺下;**witness**目击者;**betray**背叛;**prosecution**起诉, 诉讼;**embarrass**使窘迫;**bribe**贿赂，收买;
