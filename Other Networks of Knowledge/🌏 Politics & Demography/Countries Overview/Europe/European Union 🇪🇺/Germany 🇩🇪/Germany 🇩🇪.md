@@ -5,15 +5,12 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 
 
 ## Intro
+🔗 https://en.wikipedia.org/wiki/Germans
 
 
 

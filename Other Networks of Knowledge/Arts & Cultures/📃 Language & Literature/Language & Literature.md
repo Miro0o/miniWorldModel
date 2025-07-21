@@ -96,6 +96,8 @@ The largest five language families in terms of number of speakers (Indo-European
 | [Pinghua](https://en.wikipedia.org/wiki/Pinghua_Chinese "Pinghua Chinese") (平话)                                    | 4,130,000     | 0.27%  |
 | [Dungan](https://en.wikipedia.org/wiki/Dungan_language "Dungan language") (东干话) (Хуэйзў йүян 回族語言 خُوِزُو یُوِیًا) | 56,300        | 0.004% |
 | Total                                                                                                              | 1,521,943,700 | 100%   |
+###### Burmese
+###### Tibetic Languages
 ##### Indo-European Language Family (印欧语系)
 > 🔗 https://en.wikipedia.org/wiki/Indo-European_languages
 
@@ -109,7 +111,7 @@ All Indo-European languages are descended from a single prehistoric language, [
 
 ![](../../../Assets/Pics/Pasted%20image%2020250523121819.png)
 <small>Present-day distribution of Indo-European languages in Eurasia. <br> <a>https://en.wikipedia.org/wiki/Indo-European_languages</a></small>
-###### Subgroups of Indo-European Language Family
+###### Subgroups of Indo-European Language Family (Partial)
 > 🔗 https://en.wikipedia.org/wiki/Indo-European_languages#Classification
 
 The various subgroups of the Indo-European language family include ten major branches, listed below in alphabetical order:
@@ -191,15 +193,14 @@ Analytic languages show a **low ratio** of [morphemes](https://en.wikipedia.org
 ==Analytic languages include some of the major [East Asian languages](https://en.wikipedia.org/wiki/East_Asian_languages "East Asian languages"), such as [Chinese](https://en.wikipedia.org/wiki/Chinese_language "Chinese language"), and [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language "Vietnamese language").== Note that the [ideographic writing](https://en.wikipedia.org/wiki/Ideographic_writing "Ideographic writing") systems of these languages play a strong role in regimenting linguistic continuity according to an analytic, or isolating, morphology (cf. [orthography](https://en.wikipedia.org/wiki/Orthography "Orthography")).
 
 Additionally, [English](https://en.wikipedia.org/wiki/English_language "English language") is moderately analytic, and it and [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans "Afrikaans") can be considered as some of the most analytic of all Indo-European languages. However, they are traditionally analyzed as [fusional languages](https://en.wikipedia.org/wiki/Fusional_language "Fusional language").
-
-> A related concept is the **[isolating language](https://en.wikipedia.org/wiki/Isolating_language "Isolating language")**, one in which there is only one, or on average close to one, [morpheme](https://en.wikipedia.org/wiki/Morpheme "Morpheme") per word. Not all analytic languages are isolating; for example, Chinese and English possess many [compound words](https://en.wikipedia.org/wiki/Compound_word "Compound word"), but contain few inflections for them.
+###### Isolating Languages (孤立语)
+A related concept is the **[isolating language](https://en.wikipedia.org/wiki/Isolating_language "Isolating language")**, one in which there is only one, or on average close to one, [morpheme](https://en.wikipedia.org/wiki/Morpheme "Morpheme") per word. Not all analytic languages are isolating; for example, Chinese and English possess many [compound words](https://en.wikipedia.org/wiki/Compound_word "Compound word"), but contain few inflections for them.
 ##### Synthetic Languages (综合语)
 > 🔗 https://en.wikipedia.org/wiki/Morphological_typology#Synthetic_languages
 
 Synthetic languages form words by **affixing a given number of dependent morphemes to a root morpheme**. The morphemes may be distinguishable from the root, or they may not. They may be fused with it or among themselves (in that multiple pieces of grammatical information may potentially be packed into one morpheme). Word order is less important for these languages than it is for analytic languages, since individual words express the grammatical relations that would otherwise be indicated by syntax. In addition, there tends to be a high degree of [concordance](https://en.wikipedia.org/wiki/Agreement_\(linguistics\) "Agreement (linguistics)") (agreement, or cross-reference between different parts of the sentence). **Therefore, morphology in synthetic languages is more important than syntax.** Most [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages "Indo-European languages") are moderately synthetic.
 
 > 黏着语单纯将多个语素以黏着的方式构词，较容易分析语素之间的关系；而屈折语使用不规则的方式构词，或将多个概念的语素融合在一起构词，因此有时较难分析出原始的构词关系。
-
 ###### Fusional Languages (Inflectional or Flectional) (屈折语)
 > 🔗 https://en.wikipedia.org/wiki/Morphological_typology#Fusional_languages
 
@@ -212,12 +213,7 @@ Morphemes in fusional languages are not readily distinguishable from the root or
 Agglutinative languages have words containing several morphemes that are always clearly differentiable from one another in that each morpheme represents only one grammatical meaning and the boundaries between those morphemes are easily demarcated; that is, the bound morphemes are affixes, and they may be individually identified. Agglutinative languages tend to have a high number of morphemes per word, and their morphology is usually highly regular, with a notable exception being [Georgian](https://en.wikipedia.org/wiki/Georgian_language "Georgian language"), among others.
 
 Agglutinative languages include [Hungarian](https://en.wikipedia.org/wiki/Hungarian_language "Hungarian language"), [Tamil](https://en.wikipedia.org/wiki/Tamil_language "Tamil language"), [Telugu](https://en.wikipedia.org/wiki/Telugu_language "Telugu language"), [Kannada](https://en.wikipedia.org/wiki/Kannada_language "Kannada language"), [Malayalam](https://en.wikipedia.org/wiki/Malayalam_language "Malayalam language"), [Turkish](https://en.wikipedia.org/wiki/Turkish_language "Turkish language"), [Saho](https://en.wikipedia.org/wiki/Saho_language "Saho language"), [Mongolian](https://en.wikipedia.org/wiki/Mongolian_language "Mongolian language"), ==[Korean](https://en.wikipedia.org/wiki/Korean_language "Korean language"), [Japanese](https://en.wikipedia.org/wiki/Japanese_language "Japanese language")==, [Swahili](https://en.wikipedia.org/wiki/Swahili_language "Swahili language"), [Zulu](https://en.wikipedia.org/wiki/Zulu_language "Zulu language") and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language "Indonesian language").
-
-
-### Language Changes
-
-
-### Script /Writing Systems
+#### Typology by Script /Writing Systems
 > 🔗 https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97
 
 **文字**（script）是人类用来记录和传播[语言](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80 "语言")的书写[符号](https://zh.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7 "符号")[体系](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F "系统")，可单独或经组合表达某种或某些语意信息。**书写体系**（writing system）则是一种基于文字和使用[规则](https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%AF%AB%E6%B3%95 "正写法")以利在视觉上表现口语[沟通](https://zh.wikipedia.org/wiki/%E6%B2%9F%E9%80%9A "沟通")的方法。
@@ -227,14 +223,19 @@ Agglutinative languages include [Hungarian](https://en.wikipedia.org/wiki/Hunga
 有些文字是以形表音的[图画](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%94%BB "图画")文字，其后历经不同演变，部分发展成[语言](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80 "语言")的[符号](https://zh.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7 "符号")体系，后亦可用来纪录人生[经验](https://zh.wikipedia.org/wiki/%E7%B6%93%E9%A9%97 "经验")与见闻。除了汉字及其衍生文字之外，当代世界绝大部分的文字的历史都可追溯至[古埃及圣书体文字](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%B9%A6%E4%BD%93 "圣书体")。
 
 以形表音的图画文字经过不断的发展，从古[埃及文](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%8F%8A%E6%96%87 "埃及文")、罗马文字、及[拉丁文](https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E6%96%87 "拉丁文")字则发展到后期都成为语音符号，即文字的[字母](https://zh.wikipedia.org/wiki/%E5%AD%97%E6%AF%8D "字母")，不同的字母合并成一个文字。由于不同字母分别付予一个**音**，不同的字母合并成**切音**（混音），形成音节，合并不合的音节，成为了记录语音的[表音文字](https://zh.wikipedia.org/wiki/%E8%A1%A8%E9%9F%B3%E6%96%87%E5%AD%97 "表音文字")。
-#### Phonogram (表音文字)
+##### Phonogram (表音文字)
 > 🔗 https://en.wikipedia.org/wiki/Phonogram_(linguistics)
 
 A **phonogram** or **phonograph** (from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek") _phōnḗ_ 'sound' + _grắphō_ 'writing') is a basic unit of writing (or _[grapheme](https://en.wikipedia.org/wiki/Grapheme "Grapheme")_) that represents a sound used when speaking a particular language, like a [phoneme](https://en.wikipedia.org/wiki/Phoneme "Phoneme") or [syllable](https://en.wikipedia.org/wiki/Syllable "Syllable"). For example, in the English word _high_, ⟨igh⟩ is a grapheme representing the phoneme [/aɪ/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English")—while ⟨igh⟩ is written using three [letters](https://en.wikipedia.org/wiki/Letter_\(alphabet\) "Letter (alphabet)") potentially treated as distinct in other contexts, they cannot be analyzed separately in this case, as the intended sound is only indicated when read as a single unit. While the word _phoneme_ refers to the sound itself, _phonogram_ instead refers to the written representation of the sound.
-#### Logogram / Logograph (语素文字 /表意文字)
+##### Logogram / Logograph (语素文字 /表意文字)
+> pictograph, hieroglyph, ideogram = ideograph, logograph = logogram
+
 > 🔗 https://en.wikipedia.org/wiki/Logogram
 
 In a [written language](https://en.wikipedia.org/wiki/Written_language "Written language"), a **logogram** (from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek") _logos_ 'word', and _gramma_ 'that which is drawn or written'), also **logograph** or **lexigraph**, is a [written character](https://en.wikipedia.org/wiki/Written_character "Written character") that represents a [semantic](https://en.wikipedia.org/wiki/Semantic "Semantic") component of a language, such as a [word](https://en.wikipedia.org/wiki/Word "Word") or [morpheme](https://en.wikipedia.org/wiki/Morpheme "Morpheme"). [Chinese characters](https://en.wikipedia.org/wiki/Chinese_characters "Chinese characters") as used in [Chinese](https://en.wikipedia.org/wiki/Written_Chinese "Written Chinese") as well as other languages are logograms, as are [Egyptian hieroglyphs](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs "Egyptian hieroglyphs") and characters in [cuneiform script](https://en.wikipedia.org/wiki/Cuneiform_script "Cuneiform script"). A [writing system](https://en.wikipedia.org/wiki/Writing_system "Writing system") that primarily uses logograms is called a _logography_. Non-logographic writing systems, such as [alphabets](https://en.wikipedia.org/wiki/Alphabet "Alphabet") and [syllabaries](https://en.wikipedia.org/wiki/Syllabaries "Syllabaries"), are _phonemic_: their individual symbols represent sounds directly and lack any inherent meaning. However, all known logographies have some phonetic component, generally based on the [rebus principle](https://en.wikipedia.org/wiki/Rebus_principle "Rebus principle"), and the addition of a phonetic component to pure [ideographs](https://en.wikipedia.org/wiki/Ideographs "Ideographs") is considered to be a key innovation in enabling the writing system to adequately encode human language.
+
+
+### Language Changes
 
 
 

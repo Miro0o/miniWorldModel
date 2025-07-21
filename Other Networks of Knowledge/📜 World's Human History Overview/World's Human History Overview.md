@@ -554,17 +554,39 @@ See also
 ### Extinguished Ethnic Groups 🤔
 
 
+### Major Religions & Languages of Different Ethnic Groups
+↗ [Global Religions](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+- ↗ [Buddhism (Buddha Dharma)](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+- ↗ [Christianity](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
+- ↗ [Islam](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
+- ↗ [Vedism (Brahmanism) & Hinduism](../♂%20Philosophy/Classic%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
+
+↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+- ↗ [Learning English the Right Way](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [Chinese Language & 中文](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+- ↗ [Learning French & Français](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+- ↗ [Learning Russian & Русский язык](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
+- ↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+- ↗ [Learning Germany & Deutsch](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
+- ↗ [Learning Japanese & 日本語にほんご](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語にほんご/Learning%20Japanese%20&%20日本語にほんご.md)
+- ↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+- ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+
+
 ### Contemporary Ethnic Groups
-> ↗[Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> 🔗 https://en.wikipedia.org/wiki/Language_family  ![Primary_Human_Languages_Improved_Version](../../../Assets/Pics/Primary_Human_Languages_Improved_Version.png)
+> <small>2005 map of the contemporary distribution of the world's primary language families</small>
+
 > 🔗 https://en.wikipedia.org/wiki/List_of_contemporary_ethnic_groups (non-exhaustive)
 > 
 > The following is a **list of contemporary ethnic groups**. There has been constant debate over the classification of [ethnic groups](https://en.wikipedia.org/wiki/Ethnic_group "Ethnic group"). Membership of an ethnic group tends to be associated with shared [ancestry](https://en.wikipedia.org/wiki/Ancestry "Ancestry"), [history](https://en.wikipedia.org/wiki/History "History"), [homeland](https://en.wikipedia.org/wiki/Homeland "Homeland"), [language or dialect](https://en.wikipedia.org/wiki/Language "Language") and [cultural heritage](https://en.wikipedia.org/wiki/Cultural_heritage "Cultural heritage"); where the term "[culture](https://en.wikipedia.org/wiki/Culture "Culture")" specifically includes aspects such as [religion](https://en.wikipedia.org/wiki/Religion "Religion"), [mythology](https://en.wikipedia.org/wiki/Myth "Myth") and [ritual](https://en.wikipedia.org/wiki/Ritual "Ritual"), [cuisine](https://en.wikipedia.org/wiki/Cuisine "Cuisine"), [dressing (clothing) style](https://en.wikipedia.org/wiki/National_dress "National dress") and other factors.
 > 
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
-#### Han Chinese
+#### Han Chinese / 汉
+↗ [Chinese Language & 中文](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
-
-#### Uyghurs /Uighurs /Uygurs /Uigurs
+#### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 
 #### Hindustani (Madhya deśa, 摩陀耶提舍, 中天竺)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
@@ -586,59 +608,66 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 印度斯坦人历史悠久，与其他民族一起共同创造了辉煌的印度文化。公元前2000年至前1000年间写成《吠陀》，成为婆罗门教以及印度教最古老的经典。后来成书的还有《奥义书》、《往世书》、《摩诃婆罗多》、《罗摩衍那》、《摩奴法典》以及大量佛经，流传至今，是人类文化宝库中的重要遗产。在天文、历算、医学、音韵学、绘画、音乐、舞蹈、建筑、雕刻等方面也有很高成就。印度斯坦人与中国早有交往。公元前117年，张骞出使西域曾派副使前往。5世纪及以后，中国高僧法显、玄奘曾游学其地，许多印度僧人也曾前来中国讲经。
 
 印度斯坦人盛行父系大家族制，常由三、四代人组成。印度教徒实行种姓内婚，多为父母包办。妇女地位低下，寡妇不许再嫁。寡妇殉葬之事，至今时有发生。印度教徒一般采用火葬，余烬投河。恒河是印度教的圣河，认为骨灰投入圣河是人生最好的归宿，可来世得福。为此，很多病人、老人不惜长途跋涉来到恒河岸边，等待最后时刻的降临。男子一般穿无领长袖宽衣，下着围裤或着宽大衣裤。妇女上穿浅色开襟短袖紧身衣，下围彩色纱丽，一端裹住腰身，另一端搭在肩上。纱丽与紧身衣之间袒露一段腰身。妇女首饰很多，不少人喜戴鼻饰。  
-
 #### Dravidian (达罗毗荼)
 > 🔗 https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E4%BA%BA
 
 达罗毗荼（英语：Dravidian）一词来源于梵文的Dravida，在历史上曾用来指代泰米尔人[8]。天主教宣教士罗伯特·考德威尔用这个词来代表南印度的居民[9]。达罗毗荼人可能曾经广泛分布在整个南亚次大陆，包括西北部地区[10]，在公元前2000 - 公元前1500年，他们持续的由印度西北部迁往东南部，到了公元前1500年前后，可能已存在有北达罗毗荼、中达罗毗荼和南达罗毗荼三个方言群[11]。尽管历史上达罗毗荼人和印度-雅利安人来源不同、且同样生活在印度半岛上，但今天“达罗毗荼人”和“印度-雅利安人”主要是根据語言和文化习俗来区分的。
-
 ##### Tamils
 > 🔗 https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E4%BA%BA
-
 ##### Telugus
-
-#### Japanese/Yamato
-
+#### Japanese/Yamato /大和
+↗ [Learning Japanese & 日本語にほんご](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語にほんご/Learning%20Japanese%20&%20日本語にほんご.md)
+↗ [Japan 🇯🇵](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
 #### Koreans
-
+↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+↗ [Korea 🇰🇵 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
+- ↗ [North Korea 🇰🇵](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
+- ↗ [South Korea 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
 #### Moghols
-
+↗ [Mongolia 🇲🇳](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
 #### Thais
-
+↗ [Thailand 🇹🇭](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
 #### Greeks
 
 #### Romas
 
 #### Jews
-
 #### Russians
-
+↗ [Learning Russian & Русский язык](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
+↗ [Russia 🇷🇺](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
 #### Slovaks
 
 #### Irish
-
+↗ [Learning English the Right Way](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 #### English
-
+↗ [Learning English the Right Way](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [United States 🇺🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [United Kingdoms 🇬🇧](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧.md)
 #### Germans
-
+↗ [Learning Germany & Deutsch](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
+↗ [Germany 🇩🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Germany%20🇩🇪/Germany%20🇩🇪.md)
 #### French
-
+↗ [Learning French & Français](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/France%20🇫🇷.md)
 #### Flemings
-
+↗ [Learning French & Français](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/France%20🇫🇷.md)
 #### Italians
-
+↗ [Italy 🇮🇹](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Italy%20🇮🇹.md)
 #### Dutch
-
+↗ [Netherland 🇳🇱](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Netherland%20🇳🇱.md)
 #### Danes
-
+↗ [Denmark 🇩🇰](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Denmark%20🇩🇰.md)
 #### Swedes
-
+↗ [Sweden 🇸🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Sweden%20🇸🇪.md)
 #### Catalans
-
+↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+↗ [Spain 🇪🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Spain%20🇪🇸.md)
 #### Valencians
-
+↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+↗ [Spain 🇪🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Spain%20🇪🇸.md)
 #### Arabs
-
+↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 #### Copts
 
 #### Berbers /Amazighs
@@ -646,12 +675,13 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Turks
 
 #### Persians
-
+↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+↗ [Iran 🇮🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
 #### Luso-Brazilians
 
 
 
-## Major Ancient Civilizations
+## Word's Ancient History & Major Ancient Civilizations
 ### Ancient Egypt
 > 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
 
@@ -675,11 +705,15 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 
-## World's Modern History
+## 15th ~ WWII: Globalization and Colonization
 
 
 
-## Post Cold-War and 21th Century: New Challenges & Opportunities
+## WWII ~ 1991: The Globe Under Cold War
+
+
+
+## Post Cold-War and 21th Century: De-globalization & New Global Dynamics
 ### Westernization & Americanization
 
 
@@ -695,3 +729,6 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 ## Ref
 [Four Great Ancient Civilizations | wikipedia]: https://en.wikipedia.org/wiki/Four_Great_Ancient_Civilizations
+[雅利安人、斯拉夫人、日耳曼人、拉丁人，它们之间的前世今生 ｜ 百度百科]: http://baike.baidu.com/l/Kn3Hhcvb
+[匈人 | 百度百科]: https://baike.baidu.com/item/%E5%8C%88%E4%BA%BA/3162109?fromModule=lemma_inlink
+[欧洲的三大蛮族 | 百度词条]: https://baike.baidu.com/starmap/view?nodeId=4b0ae63d1c01d37ca302c30c&lemmaTitle=%E6%96%AF%E6%8B%89%E5%A4%AB%E4%BA%BA&lemmaId=2550596&starMapFrom=lemma_starMap&fromModule=lemma_starMap
