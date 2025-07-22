@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Korea 🇰🇵 🇰🇷](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
+- ↗ [South Korea 🇰🇷](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
+- ↗ [North Korea 🇰🇵](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
 
 
 ### Learning Resoruces

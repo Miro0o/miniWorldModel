@@ -551,7 +551,7 @@ See also
 #### 社会与文化建构下的民族认同
 
 
-### Extinguished Ethnic Groups 🤔
+### The Development and Clashes of Major Human Ethnic Groups 🤔
 
 
 ### Major Religions & Languages of Different Ethnic Groups
@@ -569,7 +569,7 @@ See also
 - ↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
 - ↗ [Learning Germany & Deutsch](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
 - ↗ [Learning Japanese & 日本語にほんご](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語にほんご/Learning%20Japanese%20&%20日本語にほんご.md)
-- ↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+- ↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
 - ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 
 
@@ -619,7 +619,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ↗ [Learning Japanese & 日本語にほんご](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語にほんご/Learning%20Japanese%20&%20日本語にほんご.md)
 ↗ [Japan 🇯🇵](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
 #### Koreans
-↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+↗ [Learning Korean & 한국어](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
 ↗ [Korea 🇰🇵 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
 - ↗ [North Korea 🇰🇵](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
 - ↗ [South Korea 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
@@ -642,30 +642,30 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### English
 ↗ [Learning English the Right Way](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 ↗ [United States 🇺🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
-↗ [United Kingdoms 🇬🇧](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧.md)
+↗ [United Kingdoms 🇬🇧](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
 #### Germans
 ↗ [Learning Germany & Deutsch](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
-↗ [Germany 🇩🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Germany%20🇩🇪/Germany%20🇩🇪.md)
+↗ [Germany 🇩🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
 #### French
 ↗ [Learning French & Français](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/France%20🇫🇷.md)
+↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Flemings
 ↗ [Learning French & Français](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/France%20🇫🇷.md)
+↗ [France 🇫🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Italians
-↗ [Italy 🇮🇹](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Italy%20🇮🇹.md)
+↗ [Italy 🇮🇹](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
 #### Dutch
-↗ [Netherland 🇳🇱](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Netherland%20🇳🇱.md)
+↗ [Netherland 🇳🇱](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Netherland%20🇳🇱.md)
 #### Danes
-↗ [Denmark 🇩🇰](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Denmark%20🇩🇰.md)
+↗ [Denmark 🇩🇰](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Denmark%20🇩🇰.md)
 #### Swedes
-↗ [Sweden 🇸🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Sweden%20🇸🇪.md)
+↗ [Sweden 🇸🇪](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
 #### Catalans
 ↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Spain%20🇪🇸.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Valencians
 ↗ [Learning Spanish & Español](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/Spain%20🇪🇸.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Arabs
 ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 #### Copts
@@ -713,17 +713,52 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 
-## Post Cold-War and 21th Century: De-globalization & New Global Dynamics
-### Westernization & Americanization
+## Post Cold-War and 21th Century: De-globalization
+### U.S. Supremacy & Americanization
+↗ [U.S. Military Forces](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
+
+↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [U.S. Cultures & Entertainment Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+	- ↗ [U.S. Films & Media Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Films%20&%20Media%20Industry/U.S.%20Films%20&%20Media%20Industry.md)
+- ↗ [U.S. Finance Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Tertiary%20Economical%20Sector/U.S.%20Finance%20Industry/U.S.%20Finance%20Industry.md)
+- ↗ [U.S. Information Technology Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
+
+↗ [U.S. Science & Technology](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Science%20&%20Technology/U.S.%20Science%20&%20Technology.md)
+
+↗ [U.S. Cultures](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
 
 
-### Globalization & De-globalization
+### Emerging Powers & De-globalization
 
 
-### Information & Technology
+### The Revolution of Information Technology
 
 
-### Environment & Population
+### 21th Century: New Challenges & Opportunities
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+#### UN Agenda 21 & SDG
+https://sdgs.un.org/
+
+> https://en.wikipedia.org/wiki/Agenda_21
+> Agenda 21 is a non-binding action plan of the United Nations with regard to sustainable development. It is a product of the Earth Summit (UN Conference on Environment and Development) held in Rio de Janeiro, Brazil, in 1992. It is an action agenda for the UN, other multilateral organizations, and individual governments around the world that can be executed at local, national, and global levels. One major objective of the Agenda 21 initiative is that every local government should draw its own local Agenda 21. Its aim initially was to achieve global sustainable development by 2000, with the "21" in Agenda 21 referring to the original target of the 21st century
+#### Global Challenges Faced by the World
+
+[當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社]: http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
+當前，世界面臨的全球性問題不僅種類繁多而且變化多端。要有的放矢有效應對全球性問題的挑戰，首先需要深刻認識和把握所面臨的主要全球性問題及其發展趨勢。
+- 人口問題
+- 環境問題
+- 資源問題
+- 金融問題
+- 政治問題
+- 恐怖主義問題
+- 核安全問題
+- 能源安全問題
+- 網絡安全問題
+- 糧食安全問題
+- 毒品氾濫問題
+- 移民(難民)潮問題
+- 衞生問題
+- 貧困問題
 
 
 
@@ -732,3 +767,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 [雅利安人、斯拉夫人、日耳曼人、拉丁人，它们之间的前世今生 ｜ 百度百科]: http://baike.baidu.com/l/Kn3Hhcvb
 [匈人 | 百度百科]: https://baike.baidu.com/item/%E5%8C%88%E4%BA%BA/3162109?fromModule=lemma_inlink
 [欧洲的三大蛮族 | 百度词条]: https://baike.baidu.com/starmap/view?nodeId=4b0ae63d1c01d37ca302c30c&lemmaTitle=%E6%96%AF%E6%8B%89%E5%A4%AB%E4%BA%BA&lemmaId=2550596&starMapFrom=lemma_starMap&fromModule=lemma_starMap
+
+[全文丨人类文明新形态的世界意义 | 新华社]: https://www.news.cn/world/20241112/4e80b814695440819eb82d49a8d81bc2/c.html
+[當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社]: http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
+

@@ -1,4 +1,4 @@
-# SLA (Second Language Aquiration) Theory
+# SLA (Second Language Acquisition) Theory
 
 [TOC]
 

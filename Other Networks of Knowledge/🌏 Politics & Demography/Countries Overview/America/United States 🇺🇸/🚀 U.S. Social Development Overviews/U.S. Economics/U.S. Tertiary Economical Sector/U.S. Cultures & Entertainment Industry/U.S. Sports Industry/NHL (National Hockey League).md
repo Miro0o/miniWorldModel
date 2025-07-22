@@ -1,4 +1,4 @@
-# U.S. Military Forces
+# NHL (National Hockey League)
 
 [TOC]
 

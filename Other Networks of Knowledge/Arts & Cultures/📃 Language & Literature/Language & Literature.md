@@ -18,7 +18,13 @@ In this textbook, students are introduced to the fundamental principles of lingu
 
 
 
-## Intro: Language & Linguistics
+## Intro: (Natural) Language & Linguistics
+### The Origin of (Natural) Language
+
+
+### The Importance of Language: Natural Language & Formal Language
+
+
 ### Taxonomy of Languages
 #### Genealogical Typology & Language Family (语系)
 > 🔗 https://en.wikipedia.org/wiki/Language_family
@@ -236,6 +242,10 @@ In a [written language](https://en.wikipedia.org/wiki/Written_language "Written
 
 
 ### Language Changes
+
+
+### Language Learning and Second Language Acquisition
+↗ [Language Learning & Second Language Acquisition](🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/Language%20Learning%20&%20Second%20Language%20Acquisition.md)
 
 
 
