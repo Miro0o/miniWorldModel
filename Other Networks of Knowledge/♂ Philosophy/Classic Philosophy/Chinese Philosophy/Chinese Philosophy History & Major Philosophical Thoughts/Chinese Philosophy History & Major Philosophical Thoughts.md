@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [中华文明（汉族）历史概况](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 
-↗ [Marxism](../../Western%20Philosophy/Marxism.md)
+↗ [Marxism & Communism](../../../Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [中国共产党思想体系](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党/中国共产党思想体系/中国共产党思想体系.md)
 
 

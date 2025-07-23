@@ -14,7 +14,7 @@
 ↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
 ↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 - ↗ [Music](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music.md)
-↗ [Nature Science & Engineering](../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/Nature%20Science%20&%20Engineering.md)
+↗ [Nature Science & Technology (Engineering)](../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/Nature%20Science%20&%20Technology%20(Engineering).md)
 ↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Economics%20&%20Finance/Economics%20&%20Finance.md)
 
 ↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)

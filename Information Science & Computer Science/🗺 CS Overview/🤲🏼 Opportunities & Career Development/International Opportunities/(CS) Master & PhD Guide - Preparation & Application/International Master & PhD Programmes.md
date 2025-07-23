@@ -15,6 +15,9 @@
 ↗ [FAQ - Academia and Research](../../../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
 ↗ [给各位天命人的劝退信](../../../../Academics%20🎓/Appendix/给各位天命人的劝退信.md)
 
+↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+↗ [U.S. Education & Professional Training Industry](../../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
+
 
 ### CS School Academic Ranking
 ↗ [International Opportunities](../International%20Opportunities.md)

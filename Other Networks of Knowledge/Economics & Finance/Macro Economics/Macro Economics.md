@@ -33,8 +33,7 @@
 
 ![](../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.53.48.png)
 
-
-![seriesm_4rev4e](../../../Assets/Cheat_Sheets/seriesm_4rev4e.pdf)
+![seriesm_4rev4e](../../../Assets/Official%20&%20Formal%20Docs/seriesm_4rev4e.pdf)
 <small><a>https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a> | EN 🇬🇧 <br>
 <a>https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev_4.pdf</a> | CN 🇨🇳</small>
 

@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Personal Health Care](../../Human%20Development/Medicine/Personal%20Health%20Care.md)
+↗ [Personal Health Care](../../Human%20Development%20&%20Social%20Science/Medicine/Personal%20Health%20Care.md)
 
-↗ [Human Body (Organ) System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
-↗ [Muscular System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
-↗ [Digestive System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Digestive%20System/Digestive%20System.md)
+↗ [Human Body (Organ) System](../../Human%20Development%20&%20Social%20Science/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+↗ [Muscular System](../../Human%20Development%20&%20Social%20Science/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+↗ [Digestive System](../../Human%20Development%20&%20Social%20Science/Medicine/Human%20Body%20(Organ)%20System/Digestive%20System/Digestive%20System.md)
 
 
 ### Learning Resources
@@ -38,7 +38,7 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Musculature Anatomy
-> ↗ [Muscular System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+> ↗ [Muscular System](../../Human%20Development%20&%20Social%20Science/Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250301160954.png)
 
@@ -48,8 +48,8 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### 🥸 How do people gain or loose fat & muscle?
-↗ [Biology /Metabolism](../../Nature%20Science%20&%20Engineering/Biology/Biology.md#Metabolism)
-↗ [Human Body (Organ) System](../../Human%20Development/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+↗ [Biology /Metabolism](../../Nature%20Science%20&%20Technology%20(Engineering)/Biology/Biology.md#Metabolism)
+↗ [Human Body (Organ) System](../../Human%20Development%20&%20Social%20Science/Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
 
 ![](../../../Assets/Pics/Pasted%20image%2020250704005632.png)
 

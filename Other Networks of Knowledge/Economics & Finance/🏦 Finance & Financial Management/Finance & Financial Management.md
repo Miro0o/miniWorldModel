@@ -13,7 +13,7 @@
 
 ## Intro: Management
 ↗ [Financial Management](../🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
-↗ [Corporation Management](../../Human%20Development/Management%20Science/Corporation%20Management/Corporation%20Management.md)
+↗ [Corporation Management](../../Human%20Development%20&%20Social%20Science/Management%20Science/Corporation%20Management/Corporation%20Management.md)
 
 levels of management:
 - first-line managers

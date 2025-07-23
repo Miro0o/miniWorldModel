@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
 
 
 
@@ -408,7 +408,7 @@ ACM CCS 2012
 
 
 ### 0️⃣ Before you hit the road ...
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
 
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
@@ -693,12 +693,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Engineering/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**

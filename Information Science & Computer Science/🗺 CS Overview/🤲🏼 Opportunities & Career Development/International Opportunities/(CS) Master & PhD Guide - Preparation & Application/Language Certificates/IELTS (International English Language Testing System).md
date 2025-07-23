@@ -57,7 +57,7 @@ Here are the average number of marks scored at different levels of the IELTS sca
 ## Speaking
 🎬【IDP官方雅思口语真考范例 雅思口语 3.5 5.0 5.5 6.0 7.0 7.5 8.5 9.0】 https://www.bilibili.com/video/BV15b411P7wF/?p=11&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-![](../../../../../../Assets/Cheat_Sheets/ielts-speaking-band-descriptors.pdf)
+![ielts-speaking-band-descriptors](../../../../../../Assets/Official%20&%20Formal%20Docs/ielts-speaking-band-descriptors.pdf)
 
 
 
@@ -68,7 +68,7 @@ https://zhuanlan.zhihu.com/p/23657944
 [雅思作文题目2023---2023年雅思写作大作文题目汇总](https://ieltsonlinetests.com/zh-hans/writing-tips/18887718.html)
 
 
-![](../../../../../../Assets/Cheat_Sheets/ielts-writing-band-descriptors.pdf)
+![ielts-writing-band-descriptors](../../../../../../Assets/Official%20&%20Formal%20Docs/ielts-writing-band-descriptors.pdf)
 
 
 

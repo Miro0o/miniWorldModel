@@ -224,6 +224,11 @@ The following outline provides an overview of and topical guide to academic disc
 
 
 
+## Sustainable Development of Human Beings
+↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+
+
+
 ## Ref
 [The Singularity A Philosophical Analysis]: https://consc.net/papers/singularityjcs.pdf "David J. Chalmers "
 
