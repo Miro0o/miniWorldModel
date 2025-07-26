@@ -22,7 +22,8 @@ In this textbook, students are introduced to the fundamental principles of lingu
 ### The Origin of (Natural) Language
 
 
-### The Importance of Language: Natural Language & Formal Language
+### The Importance of Language: Natural Language 🆚 Formal Language
+> ↗ [Computer Languages & Programming Methodology /0️⃣ Formal Languages 🆚 Natural Languages](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#0️⃣%20Formal%20Languages%20🆚%20Natural%20Languages)
 
 
 ### Taxonomy of Languages

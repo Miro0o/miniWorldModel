@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program, Computer, and Automation](../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 ↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)

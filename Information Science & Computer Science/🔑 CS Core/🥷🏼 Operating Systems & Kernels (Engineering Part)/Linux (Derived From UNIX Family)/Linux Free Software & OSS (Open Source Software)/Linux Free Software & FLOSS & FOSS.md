@@ -103,7 +103,7 @@ A collection of modern/faster/saner alternatives to common unix commands.
 ## Intro
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
-Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/zsh%20(Z%20SHell)/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+Check out ↗ [Zsh (Z SHell)](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/zsh%20(Z%20SHell)/Zsh%20(Z%20SHell).md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell & Terminals (Console)](../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Bash%20(Bourne%20Again%20SHell)/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 

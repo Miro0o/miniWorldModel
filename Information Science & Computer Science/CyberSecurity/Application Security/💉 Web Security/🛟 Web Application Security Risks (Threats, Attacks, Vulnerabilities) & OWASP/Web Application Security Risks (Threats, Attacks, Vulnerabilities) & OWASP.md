@@ -9,10 +9,20 @@
 
 🗺️ https://owasp.org/sitemap/
 ![](../../../../../Assets/Pics/Screenshot%202024-07-13%20at%2011.46.27%20PM.png)
+<small><a>https://owasp.org/www-project-integration-standards/</a></small>
 
-
-📈 https://owasp.org/www-project-top-ten/
-The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+- [Top 10](https://owasp.org/www-project-top-ten/)
+	- The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+- [API Top 10](https://owasp.org/www-project-api-security/)
+- [Mobile Top 10](https://owasp.org/www-project-mobile-top-10/)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+	- The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.
+	- The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.
+- [Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [Snakes & Ladders](https://owasp.org/www-project-snakes-and-ladders/)
+- [Security Shepherd](https://github.com/OWASP/SecurityShepherd)
+- [WebGoat](https://owasp.org/www-project-webgoat/)
+- [PyGoat](https://github.com/adeyosemanputra/pygoat)
 
 
 ### Related Topics

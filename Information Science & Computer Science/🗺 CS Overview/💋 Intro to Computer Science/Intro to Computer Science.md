@@ -83,7 +83,7 @@ TL;DR Version
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 > 
-> ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
+> ↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
 > ↗ [🌲 Road To CS /CS & IT in Difference Aspects](🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Difference%20Aspects)
 
 **Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** 
@@ -470,7 +470,7 @@ These questions, from general to specific, speaks the path of what i think every
 		2. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		3. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 	5. What is a program and how does it work? (application program /OS program)
-		1. ↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
+		1. ↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
 		2. Why and how do we program? /How are programming languages designed
 			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 			3. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)

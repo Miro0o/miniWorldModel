@@ -24,7 +24,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 
 ### Related Topics
-↗ [Linux Security](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Security.md)
+↗ [Linux Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Security.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [Operating System & OS Kernel (Theory Part)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
@@ -37,7 +37,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 ↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
 ↗ [Firmware and Computer (OS) Booting](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 
-↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
+↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
 
 ↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
 

@@ -1,4 +1,4 @@
-# Zsh
+# Zsh (Z SHell)
 
 [TOC]
 

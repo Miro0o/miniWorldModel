@@ -91,16 +91,28 @@ Shell中可以执行的指令可分为3类：
 ## Shell's Objectives /Services /Functions
 > STFM /RTFM :3
 
+
 ### OS's Perspective
 #### Job (Process Group) Control & Signals
 #### OS Resources /Process Management
 
 
 ### User's Perspective
+↗ [Terminal Emulators](../Terminal%20Emulators/Terminal%20Emulators.md)
+- ↗ [Pseudo tty (pty) Based](../Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/Pseudo%20tty%20(pty)%20Based.md)
+- ↗ [Windows Console & ConPTY Based](../Terminal%20Emulators/📌%20Windows%20Console%20&%20ConPTY%20Based/Windows%20Console%20&%20ConPTY%20Based.md)
+
+↗ [Cygwin Project](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Cygwin%20Project/Cygwin%20Project.md)
 #### UX Enhancement
 Completion System
 Line Editor
 #### Functions /Commands Execution
+↗ [sh (Bourne Shell, Standard UNIX Shell)](sh%20(Bourne%20Shell,%20Standard%20UNIX%20Shell)/sh%20(Bourne%20Shell,%20Standard%20UNIX%20Shell).md)
+↗ [Bash (Bourne Again SHell)](Bash%20(Bourne%20Again%20SHell)/Bash%20(Bourne%20Again%20SHell).md)
+↗ [Zsh (Z SHell)](zsh%20(Z%20SHell)/Zsh%20(Z%20SHell).md)
+
+↗ [cmd.exe](cmd.exe.md)
+↗ [PowerShell.exe](PowerShell.exe.md)
 #### Programming & Interpretation
 
 

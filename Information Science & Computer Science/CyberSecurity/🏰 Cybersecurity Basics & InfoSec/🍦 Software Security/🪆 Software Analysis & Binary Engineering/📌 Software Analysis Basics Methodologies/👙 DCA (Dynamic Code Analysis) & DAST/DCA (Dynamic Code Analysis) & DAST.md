@@ -18,7 +18,7 @@
 ↗ [Address Space & Memory Layout](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
 ↗ [Program Execution (Runtime)](../../../../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
-↗ [System Runtime Security](../../../../../System%20Security/🏃%20System%20Runtime%20Security/System%20Runtime%20Security.md)
+↗ [Software Runtime Security](../../../../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
 ↗ [Cloud-Native System Runtime Security](../../../../../System%20Security/Cloud%20Security/🩳%20Cloud-Native%20System%20Runtime%20Security/Cloud-Native%20System%20Runtime%20Security.md)
 
 

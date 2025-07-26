@@ -33,7 +33,7 @@
 > You can find a list of system calls on Linux by checking the [man page for syscalls(2)](http://man7.org/linux/man-pages/man2/syscalls.2.html).
 > ↗ [Linux System Calls](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
 > 
-> ↗ [Program, Computer, and Automation](../../../../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+> ↗ [The Essence of Computing - Program](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 **System calls** are how a program enters the kernel to perform some task. Programs use system calls to perform a variety of operations such as: creating processes, doing network and file IO, and much more.
 

@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Win Memory Protection Mechanism](../../../Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
-↗ [Linux Memory Protection Mechanism](../../../Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
+↗ [Win Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
+↗ [Linux Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
 
 ↗ [Computer Languages & Programming Methodology](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-↗ [Operating System Security](../../../Operating%20System%20Security/Operating%20System%20Security.md)
+↗ [Operating System Security](../../../🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
 
 
 ### Other Resources
@@ -31,7 +31,7 @@ Some modern languages are designed to be intrinsically memory-safe, no matter wh
 
 
 ### 2. Memory-Safety Codes /Defensive Programming (Programmer)
-> ↗ [Program Debugging & Defensive Programming](../../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
+> ↗ [Program Debugging & Defensive Programming](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Program%20Debugging%20&%20Defensive%20Programming.md)
 
 One way to ensure memory safety is to carefully reason about memory accesses in your code, by defining pre-conditions and post-conditions for every function you write and using invariants to prove that these conditions are satisfied. Although it is a good skill to have, this process is painstakingly tedious and rarely used in practice, so it is no longer in scope for this class. 
 

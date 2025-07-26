@@ -83,7 +83,7 @@ Anti-fragile: Things That Gain From Disorder
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Program, Computer, and Automation](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 Universe and Human Beings
 Information and Knowledge
@@ -94,7 +94,18 @@ Technology and Science
 
 ##### 人类智能 =（人脑智能 + 人体体能）≈（人工智能 + 机器人）≈ 类人智能（具身智能）
 
-#### 人类智能与发展问题：无限的欲望 🆚（有限的能力->有限的资源）
+#### \*人类智能相关问题
+##### 自我认识（与宇宙认识） - 个体视角
+###### 肉体的生命与死亡
+###### 意志的存在与毁灭
+###### 爱与恨
+###### 相识与相别
+###### 拥有与失去：财富、声名、梦想、……
+##### 自我认识（与宇宙认识） - 群体视角
+###### 社会群体中的自我个体认识与身份认同
+###### 存在的意义（？）
+###### 亲密关系
+##### 社会发展：无限的欲望 🆚（有限的能力->有限的资源）
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 

@@ -53,6 +53,9 @@ Java Card technology provides a secure environment for applications that run on 
 📂 [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 📂 [Oracle Java official develeper doc](https://dev.java/learn/getting-started-with-java/)
 
+👍 https://algs4.cs.princeton.edu/11model/
+Algorithms, 4th edition, section 1.1. Programming Models. 
+
 👉 [how2j.cn -- java全栈开发](https://how2j.cn) 
 👉 [Java 全栈知识体系](https://pdai.tech)
 [codebaoku -- 编程宝库](http://www.codebaoku.com)

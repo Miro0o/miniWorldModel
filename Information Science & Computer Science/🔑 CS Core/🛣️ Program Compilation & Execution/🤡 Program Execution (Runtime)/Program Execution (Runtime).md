@@ -28,7 +28,7 @@
 
 ↗ [DCA (Dynamic Code Analysis) & DAST](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 ↗ [Dynamics Code Analysis Tools (DCAT)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Dynamics%20Code%20Analysis%20Tools%20(DCAT).md)
-↗ [System Runtime Security](../../../CyberSecurity/System%20Security/🏃%20System%20Runtime%20Security/System%20Runtime%20Security.md)
+↗ [Software Runtime Security](../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
 
 
 ### Other Resources
@@ -59,7 +59,7 @@ linux内核技术
 
 
 ### Program = Automata
-↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [The Essence of Computing - Program](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 - (computing resources) CPU
 - (storage resources) Register + Address Space

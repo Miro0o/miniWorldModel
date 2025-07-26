@@ -14,11 +14,25 @@
 ## Intro
 
 
-## Clickjacking
+
+## Clickjacking /UI Redressing
 ### Clickjacking Attacks
+> 🔗 https://owasp.org/www-community/attacks/Clickjacking
+
+Clickjacking, also known as a “UI redress attack”, is when an attacker uses multiple transparent or opaque layers to trick a user into clicking on a button or link on another page when they were intending to click on the top level page. Thus, the attacker is “hijacking” clicks meant for their page and routing them to another page, most likely owned by another application, domain, or both.
+
+Using a similar technique, keystrokes can also be hijacked. With a carefully crafted combination of stylesheets, iframes, and text boxes, a user can be led to believe they are typing in the password to their email or bank account, but are instead typing into an invisible frame controlled by the attacker.
 
 
 ### Clickjacking Defenses
+> 🔗 https://owasp.org/www-community/attacks/Clickjacking
+
+There are three main ways to prevent clickjacking:
+1. Sending the proper Content Security Policy (CSP) frame-ancestors directive response headers that instruct the browser to not allow framing from other domains. The older `X-Frame-Options` HTTP headers is used for graceful degradation and older browser compatibility.
+2. Properly setting authentication cookies with `SameSite=Strict` (or `Lax`), unless they explicitly need `None` (which is rare).
+3. Employing defensive code in the UI to ensure that the current frame is the most top level window.
+
+For more information on Clickjacking defense, please see the the [Clickjacking Defense Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Clickjacking_Defense_Cheat_Sheet.html).
 
 
 

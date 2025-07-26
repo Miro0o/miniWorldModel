@@ -10,7 +10,7 @@
 ↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ↗ [Program Compilation & Execution](../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-↗ [Program, Computer, and Automation](../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
@@ -19,11 +19,14 @@
 - ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 - etc.
 
+↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
 ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
-↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
+↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+↗ [Program Debugging & Defensive Programming](Program%20Debugging%20&%20Defensive%20Programming.md)
 ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 - ↗ [Computer (IO Devices) Drivers & Programming](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 - ↗ [Compute Unified Device Architecture & CUDA Programming](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Level%20Projects/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
@@ -54,10 +57,17 @@ TIOBE - programming language rank
 https://github.com/jobbole
 伯乐在线 - 各种编程资源大全
 
+🏠 https://www.microsoft.com/en-us/makecode
+📂 https://makecode.microbit.org/docs
+Microsoft MakeCode is a free online learn-to-code platform where anyone can build games, code devices, and mod Minecraft!
+
 
 
 ## Intro
 ### 0️⃣ Formal Languages 🆚 Natural Languages
+> ↗ [Language & Literature /The Importance of Language: Natural Language 🆚 Formal Language](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md#The%20Importance%20of%20Language:%20Natural%20Language%20🆚%20Formal%20Language)
+> ↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+
 > 🔗 https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html
 
 **Natural languages** are the languages that people speak, such as English, Spanish, and French. They were not designed by people (although people try to impose some order on them); they evolved naturally.
@@ -84,6 +94,9 @@ Although formal and natural languages have many features in common — tokens, s
 - literalness
 	- Formal languages mean exactly what they say. On the other hand, natural languages are full of idiom and metaphor. If someone says, “The other shoe fell”, there is probably no shoe and nothing falling.
 #### \* Linguistics and Semiotics
+> ↗ [Language & Literature](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md) 
+> ↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Linguistics
 
 Linguistics is the scientific study of language. The areas of linguistic analysis are syntax (rules governing the structure of sentences), semantics (meaning), morphology (structure of words), phonetics (speech sounds and equivalent gestures in sign languages), phonology (the abstract sound system of a particular language, and analogous systems of sign languages), and pragmatics (how the context of use contributes to meaning). Subdisciplines such as biolinguistics (the study of the biological variables and evolution of language) and psycholinguistics (the study of psychological factors in human language) bridge many of these divisions. 
@@ -117,7 +130,6 @@ A **computer language** is a [formal language](https://en.wikipedia.org/wiki/
 - [Simulation language](https://en.wikipedia.org/wiki/Simulation_language "Simulation language") – a language used to describe [simulations](https://en.wikipedia.org/wiki/Simulations "Simulations")
 - [Specification language](https://en.wikipedia.org/wiki/Specification_language "Specification language") – a language used to describe what a system should do
 - [Style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language "Style sheet language") – a computer language that expresses the presentation of structured documents, such as [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
-
 - [Expression language](https://en.wikipedia.org/wiki/Expression_language) -- a [computer language](https://en.wikipedia.org/wiki/Computer_language "Computer language") for creating a [machine readable](https://en.wikipedia.org/wiki/Machine_readable "Machine readable") representation of specific [domain knowledge](https://en.wikipedia.org/wiki/Domain_knowledge "Domain knowledge"). Examples include:
 	- [Advanced Boolean Expression Language](https://en.wikipedia.org/wiki/Advanced_Boolean_Expression_Language "Advanced Boolean Expression Language"), an obsolete hardware description language for hardware descriptions
 	- [Data Analysis Expressions](https://en.wikipedia.org/wiki/Data_Analysis_Expressions "Data Analysis Expressions") (DAX), an expression language developed by Microsoft and used in Power Pivot, among other places
@@ -269,22 +281,51 @@ There are supposedly generations of languages. According to [Wikipedia](https:/
 There is also a supposed hierarchy of language power, expressed by Paul Graham as the "[Blub Paradox](https://en.wikipedia.org/wiki/Paul_Graham_\(programmer\)#The_Blub_paradox)" in his essay [Beating the Averages](http://www.paulgraham.com/avg.html). In this controversial approach, languages such as Basic and Cobol are low in the hierarchy, Python and Perl would be in the middle, and Lisp would be at the top.
 
 ![](../../../Assets/Pics/Screenshot%202023-06-24%20at%208.14.09%20PM.png)
-#### List of Programming Languages
-> 🔗 https://en.wikipedia.org/wiki/List_of_programming_languages
-
-This is an index to notable programming languages, in current or historical use. Dialects of BASIC (which have their own page), esoteric programming languages, and markup languages are not included. A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markup languages such as HTML or XML, but does include domain-specific languages such as SQL and its dialects.
-
-#### Programming Language Theory
+#### Programming Language Theory: The Designing of A Programming Language
 > ↗ [Programming Language Theory (PLT)](🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+
 > 🔗 https://en.wikipedia.org/wiki/Programming_language_theory
 
 Programming language theory (PLT) is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of formal languages known as programming languages. Programming language theory is closely related to other fields including mathematics, software engineering, and linguistics.
 
 
 
+## Programming Language Basics
+### 🚀 Programming Language Study Quick Guide: Learning by Doing in Algorithms!
+> Personally, I believe the best way to get to know the basic principles and practical details of programming languages, whether in order to learn a new programming language or to explore the designing principles of that language, is to learn in writing algorithms of that language.
+> ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> ↗ [Python](Interpreted%20Languages/Python/Python.md)
+> ↗ [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+
+> ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+> 
+> https://algs4.cs.princeton.edu/11model/
+> Algorithms, 4th edition, 1.1 section, Programming Model
+
+
+### Programming Model: Components and Grammars
+![](../../../Assets/Pics/Pasted%20image%2020250726224307.png)
+<small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
+
+#### Control Flow
+
+#### State Spaces
+
+
+### Program Execution: What's Under The Hood?
+> ↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+> ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Application Execution and Computer Data Flow</small>
+
+
+
 ## Programming Languages Taxonomy
 ### Lists of Programming Languages
 > 🔗 https://en.wikipedia.org/wiki/Lists_of_programming_languages
+> 
+> This is an index to notable programming languages, in current or historical use. Dialects of BASIC (which have their own page), esoteric programming languages, and markup languages are not included. A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markup languages such as HTML or XML, but does include domain-specific languages such as SQL and its dialects.
 
  - [List of programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages "List of programming languages")
  - [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type "List of programming languages by type")
