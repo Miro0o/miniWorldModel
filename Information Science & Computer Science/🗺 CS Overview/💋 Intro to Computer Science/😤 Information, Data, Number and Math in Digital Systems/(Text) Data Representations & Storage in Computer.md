@@ -17,12 +17,24 @@ And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Comput
 
 ## (Text) Data Representation in Computer
 ### Number Representation
+Computer is designed to use binary numeral system in its mathematical model and hardware implementation, hence this influences some of its number representations in software designing, and other aspects in CS you might see aw well.
+- ↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
+- ↗ [Encodings /🧮 Numeral System & Number Encoding](Encodings.md#🧮%20Numeral%20System%20&%20Number%20Encoding)
+
+This binary digits representation of numbers originally stems from information theory, and extends itself through computer /information systems to every scenarios involving the measurements of information, as the advance in human's information industry. 
+
+Usually, a group of 8 binary numbers consist of a byte (8-digit binary number), with each binary numbers called a bit (1-digit binary number). The binary value of a bit corresponds with two states in a digital circuit: "on" and "off", or "high" and "low", or any other mutual-exclusive two states system.
+
 Bit, Byte, Nibble, and Word
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.38%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.45%20PM.png)
 
 
 ### Data Types & Byte Length Supported by Computers
+**A data type is a set of values and a set of operations on those values.** The exact length of these values supported by a specific computer is implemented through programming languages, but actually decided by the word-length of the computer, i.e. the hardware, rather than software, language, or other abstractions. (?) That being said, the length of those data types can still be altered in the software as well, by another level of abstraction.
+
+Data type is the core of program, while the program is the core of computing. Hence, one can also say that data type is the core of computing. It represents a higher level of abstraction of the computer, implying the process of how a computer is doing computing.
+
 > 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.18%20PM.png)
@@ -119,7 +131,7 @@ Load-store architectures require data to be moved into registers before any oper
 
 ↗ [File Types & File Formats](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
 
-↗ [Cryptology & Secure Communication](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)]
+↗ [Cryptology & Secure Communication](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
 
 

@@ -290,37 +290,6 @@ Programming language theory (PLT) is a branch of computer science that deals wit
 
 
 
-## Programming Language Basics
-### 🚀 Programming Language Study Quick Guide: Learning by Doing in Algorithms!
-> Personally, I believe the best way to get to know the basic principles and practical details of programming languages, whether in order to learn a new programming language or to explore the designing principles of that language, is to learn in writing algorithms of that language.
-> ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-> ↗ [Python](Interpreted%20Languages/Python/Python.md)
-> ↗ [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
-
-> ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-> 
-> https://algs4.cs.princeton.edu/11model/
-> Algorithms, 4th edition, 1.1 section, Programming Model
-
-
-### Programming Model: Components and Grammars
-![](../../../Assets/Pics/Pasted%20image%2020250726224307.png)
-<small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
-
-#### Control Flow
-
-#### State Spaces
-
-
-### Program Execution: What's Under The Hood?
-> ↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
-> ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-
-![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
-<small>Application Execution and Computer Data Flow</small>
-
-
-
 ## Programming Languages Taxonomy
 ### Lists of Programming Languages
 > 🔗 https://en.wikipedia.org/wiki/Lists_of_programming_languages
@@ -459,6 +428,59 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 2. application development
 3. OS/kernel/driver development
 4. other?
+
+
+
+## Programming Language Basics
+### Programming Model of A Programming Language
+![](../../../Assets/Pics/Pasted%20image%2020250726224307.png)
+<small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
+#### 📌 The Evolution of Computing Model: From Finite Sates Machine to Turing Machine
+↗ [Mathematical Logics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
+- ↗ [First-order Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/📍%20Mathematical%20Logics%20Basics/First-order%20Logic.md)
+↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+
+#### Components and Grammars
+- Primitive data types and expressions
+![](../../../Assets/Pics/Pasted%20image%2020250727163941.png)
+<small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
+
+- Statements
+![](../../../Assets/Pics/Pasted%20image%2020250727163953.png)
+<small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
+
+- Arrays
+
+- Methods
+	- Static methods
+	- Dynamic methods
+	- API
+
+- Input & Output
+
+#### Control Flow
+
+#### State Spaces
+
+
+### Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling
+> Personally, I believe the best way to get to know the basic principles and practical details of programming languages, whether in order to learn a new programming language or to explore the designing principles of that language, is to learn in writing algorithms of that language.
+> ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> ↗ [Python](Interpreted%20Languages/Python/Python.md)
+> ↗ [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+
+> ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+> 
+> https://algs4.cs.princeton.edu/11model/
+> Algorithms, 4th edition, 1.1 section, Programming Model
+
+
+### Program Execution: What's Under The Hood?
+> ↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+> ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Application Execution and Computer Data Flow</small>
 
 
 
