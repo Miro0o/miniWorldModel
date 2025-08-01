@@ -384,6 +384,13 @@ Sometimes, a set is endowed with more than one feature simultaneously, which all
 
 
 ## Exploring The Edge of Mathematics
+https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
+List of unsolved problems in mathematics
+
+https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
+List of unsolved problems in computer science
+
+
 ### Hilbert's Problems
 > 🔗 https://en.wikipedia.org/wiki/Hilbert%27s_problems
 
