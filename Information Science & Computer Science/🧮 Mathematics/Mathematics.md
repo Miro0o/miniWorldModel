@@ -37,8 +37,11 @@ Introduction to Mathematical Philosophy
 Bertrand Russell
 
 📖 https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof
-Mathematical Reasoning，Writing and Proof
-Ted Sundstrom
+Mathematical Reasoning，Writing and Proof | Ted Sundstrom
+
+📖 https://link.springer.com/book/10.1007/978-3-031-33203-6
+Mathematical Thinking - Why Everyone Should Study Math | Howard Karloff
+- _Mathematical Thinking_ is an ideal textbook for transition courses aimed at undergraduates moving from lower level to more advanced topics, as well as for math recruitment and invitational courses at the freshman or sophomore level. It may also be of interest in computer science departments and can be used as a supplemental text for courses in discrete mathematics and graph theory.
 #### Other Online Resources
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)
@@ -274,9 +277,9 @@ The field of statistics is a mathematical application that is employed for the c
 
 Computational mathematics is the study of [mathematical problems](https://en.wikipedia.org/wiki/Mathematical_problem "Mathematical problem") that are typically too large for human, numerical capacity. [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis") studies methods for problems in [analysis](https://en.wikipedia.org/wiki/Analysis_\(mathematics\) "Analysis (mathematics)") using [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis "Functional analysis") and [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory "Approximation theory"); numerical analysis broadly includes the study of [approximation](https://en.wikipedia.org/wiki/Approximation "Approximation") and [discretization](https://en.wikipedia.org/wiki/Discretization "Discretization") with special focus on [rounding errors](https://en.wikipedia.org/wiki/Rounding_error "Rounding error"). Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic-[matrix](https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerical linear algebra")-and-[graph theory](https://en.wikipedia.org/wiki/Graph_theory "Graph theory"). Other areas of computational mathematics include [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra "Computer algebra") and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation").
 ###### 👉 Operational Research & Optimization
-↗ [Operation Research](Operations%20Research/Operation%20Research.md)
-- ↗ [Game Theory](Operations%20Research/Game%20Theory/Game%20Theory.md)
-- ↗ [COP (Convex Optimization Programming)](Operations%20Research/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
+- ↗ [Game Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory/Game%20Theory.md)
+- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#
 
@@ -408,6 +411,7 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 20. Proof of the existence of linear differential equations having a prescribed [monodromy](https://en.wikipedia.org/wiki/Monodromy "Monodromy") group.
 21. Uniformization of analytic relations by means of [automorphic functions](https://en.wikipedia.org/wiki/Automorphic_function "Automorphic function").
 22. Further development of the methods of the calculus of variations.
+### The Millennium Prize Problems
 
 
 

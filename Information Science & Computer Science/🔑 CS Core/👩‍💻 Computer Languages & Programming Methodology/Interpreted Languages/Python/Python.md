@@ -74,6 +74,9 @@ invent with python
 🇨🇳 https://github.com/apachecn/invent-with-python-zh
 InventWithPython 中文系列教程
 
+Introduction to Programming in Python
+🏠 https://introcs.cs.princeton.edu/python/home/
+
 https://runestone.academy/ns/books/published/thinkcspy/index.html
 How to Think Like a Computer Scientist: Interactive Edition
 - [1. General Introduction](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/toctree.html)

@@ -7,10 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+- ↗ [Computability Theory & Turing Machine](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
+	- ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+- ↗ [Computational Complexity Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-↗ [Operation Research](../../🧮%20Mathematics/Operations%20Research/Operation%20Research.md)
+- ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
 ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
@@ -278,6 +280,22 @@ by Robert Sedgewick, Kevin Wayne | https://algs4.cs.princeton.edu/code/
 	- This [public repository](https://github.com/kevin-wayne/algs4) contains the Java [source code](http://algs4.cs.princeton.edu/code/) for the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne. The official version at [https://github.com/kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) is actively maintained and updated by the authors. The programs are organized in the package `edu.princeton.cs.algs4`. If you need only the class files (and not the source code), you can use [algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar) instead.
 - 🚧 https://github.com/landerrosette/algs4
 	- This repository contains C++ implementations of the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne.
+Analysis of Algorithms
+- 🏠 https://aofa.cs.princeton.edu/home/
+Analytical Combinatorics
+- 🏠 https://ac.cs.princeton.edu/home/
+
+Programming in Java   ·   Computer Science   ·   An Interdisciplinary Approach
+- 🏠 https://introcs.cs.princeton.edu/java/home/
+-  Our textbook _Introduction to Programming in Java_ [Amazon](http://amzn.to/2BLKP69) · [Pearson](https://www.pearson.com/us/higher-education/program/Sedgewick-Introduction-to-Programming-in-Java-An-Interdisciplinary-Approach-2nd-Edition/PGM334823.html) · [InformIT](https://www.informit.com/store/computer-science-an-interdisciplinary-approach-9780134076478)  is an interdisciplinary approach to the traditional CS1 curriculum with Java. We teach the classic elements of programming, using an “objects-in-the-middle” approach that emphasizes data abstraction. We motivate each concept by examining its impact on specific applications, taken from fields ranging from materials science to genomics to astrophysics to internet commerce. The book is organized around four stages of learning to program:
+	- [_Chapter 1: Elements of Programming_](https://introcs.cs.princeton.edu/java/10elements) introduces variables; assignment statements; built-in types of data; conditionals and loops; arrays; and input/output, including graphics and sound.
+	- [_Chapter 2: Functions_](https://introcs.cs.princeton.edu/java/20functions) highlights the idea of dividing a program into components that can be independently debugged, maintained, and reused.
+	- [_Chapter 3: Object-Oriented Programming_](https://introcs.cs.princeton.edu/java/30oop) emphasizes the concept of a data type and its implementation, using Java's class mechanism.
+	- [_Chapter 4: Algorithms and Data Structures_](https://introcs.cs.princeton.edu/java/40algorithms) discusses classical algorithms for sorting and searching, and fundamental data structures, including stacks, queues, and symbol tables.
+- Our textbook _Computer Science_ [Amazon](http://amzn.to/25JdBjC) · [Pearson](https://www.pearsonhighered.com/program/Sedgewick-Computer-Science-An-Interdisciplinary-Approach/PGM317047.html) · [InformIT](http://informit.com/sedgewick) contains _Introduction to Programming in Java_ as its first four chapters.The second half of the book explores core ideas of Turing, von Neumann, Shannon, and others that ignited the digital age.
+	- [_Chapter 5: Theory of Computing_](https://introcs.cs.princeton.edu/java/50theory) surveys the fundamental concepts of universality, computability, and intractability, which raise questions about the role of computation in understanding the natural world.
+	- [_Chapter 6: A Computing Machine_](https://introcs.cs.princeton.edu/java/60machine) describes a simple imaginary machine that has many of the characteristics of real processors at the heart of the computational devices that surround us.
+	- [_Chapter 7: Building a Computer_](https://introcs.cs.princeton.edu/java/70circuits) considers the design of a processor, including Boolean logic, combinational circuits, and sequential circuits.
 
 
 ### Online Judge (OJ)
@@ -310,7 +328,10 @@ https://leetcode.com
 ## Intro
 > ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 > ↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
- 
+
+![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+<small>Computer System & Computer Science Overview</small>
+
 > https://algs4.cs.princeton.edu/11model/
 > Algorithms, 4th edition, 1.1 section, Programming Model
 
@@ -320,3 +341,16 @@ https://leetcode.com
 [如何构建数学知识体系？ - Wang的回答 - 知乎]: https://www.zhihu.com/question/264252036/answer/282250948
 [有程序员专门刷题的网站吗？ - Rocky0429的回答 - 知乎]: https://www.zhihu.com/question/36488823/answer/2182791759
 [算法学习笔记（目录） - Pecco的文章 - 知乎]: https://zhuanlan.zhihu.com/p/105467597
+
+https://github.com/BENAGP/Models-for-ICM-MCM
+https://www.yooongchun.com/2018/07/09/wo-de-shu-xue-jian-mo-zhi-lu/
+-   目标规划问题：整数规划、线性规划、非线性规划、动态规划
+-   数据分析：方差分析、回归分析、层次分析法、判别分析、多元分析
+-   数据处理：插值、拟合、筛选、预测
+-   优化算法：遗传算法、模拟退火算法、神经网络
+-   图与网络：Dijkstra、Floyd、Prim、Bellman-Ford，最大流
+-   方程建模：微分方程、偏微分方程、差分方程
+-   模糊数学模型
+-   概率方法：蒙特卡洛法
+
+[Cooley–Tukey FFT algorithm | wikipedia]: https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm

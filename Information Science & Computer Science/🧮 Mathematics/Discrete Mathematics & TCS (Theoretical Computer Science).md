@@ -8,7 +8,7 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
+↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
 
 ↗ [Information Theory](🧐%20Information%20Theory/Information%20Theory.md)
 
@@ -20,9 +20,9 @@
 
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
 
-↗ [Operation Research](Operations%20Research/Operation%20Research.md)
-- ↗ [Combinatorics (Combinatorial Mathematics)](Operations%20Research/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
-- ↗ [COP (Convex Optimization Programming)](Operations%20Research/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
+- ↗ [Combinatorics (Combinatorial Mathematics)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
+- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
 - etc.
 
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)

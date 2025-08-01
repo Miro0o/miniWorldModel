@@ -404,12 +404,10 @@ ACM CCS 2012
 
 
 ## 🚀 A Serious CS Roadmap
-> ↗ [Intro to Computer Science /Questions Leading my CS Study](Intro%20to%20Computer%20Science.md#Questions%20Leading%20my%20CS%20Study)
+> ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#How%20to%20learn%20CS%20?%20(🤔%20Questions%20Leading%20my%20CS%20Study))
 
 
 ### 0️⃣ Before you hit the road ...
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
-
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
@@ -435,7 +433,15 @@ ACM CCS 2012
 🏠 https://ac-wiki.org/
 高等教育学社基础知识开源建设工程
 _专为大学生群体打造的知识共享平台，助力学业与社会衔接。 由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
-#### Knowing Universities' Courses Structure
+#### Knowing Universities' Courses Structures & Educational Systems in Different Areas
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
+- ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+- ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Japanese Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Japanese%20Education%20&%20Professional%20Training%20Industry/Japanese%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [South Korean Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20South%20Korean%20Education%20&%20Professional%20Training%20Industry/South%20Korean%20Education%20&%20Professional%20Training%20Industry.md)
+- ↗ [Russian Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
+
 Computer Science
 - ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../Appendix/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
 - ↗ [斯坦福大学计算机专业培养方案剖析](../Appendix/斯坦福大学计算机专业培养方案剖析.md)
@@ -467,11 +473,17 @@ Software Engineering
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
+> ↗ [Intro to Computer Science](Intro%20to%20Computer%20Science.md)
+> ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
+
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+<small>Computer System & Computer Science Overview</small>
 
 ![web_and_Internet_arch.excalidraw | 800](../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
+<small>Computer Networks & Supplements to the Computer Science Overview </small>
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Computer Program Running</small>
 
 
 ==\#1 CS specific fields as in most universities' course structure:==
@@ -501,7 +513,7 @@ CS Inter-disciplines
 - ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 	- ↗ [Analytical Mathematics](../../🧮%20Mathematics/Analytical%20Mathematics/Analytical%20Mathematics.md)
 	- ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
-	- ↗ [Operation Research](../../🧮%20Mathematics/Operations%20Research/Operation%20Research.md)
+	- ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 	- ↗ [Possibilities & Statistics](../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 	- ↗ [Mathematical Logics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 	- etc.
@@ -1155,11 +1167,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 
 
----
-
-
-
-## Learning and Developing Beyond School
+## What You Should Know Beyond School: The World Has Never Been Fair
 ### FAQ: Study, Academia, Industry, and Personal Development
 > https://www.pkuanvil.com/topic/459/ 知乎回答备份
 > 
@@ -1167,7 +1175,6 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 > - ↗ [FAQ - Academia and Research](../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
 
 #### [为什么高校的科研项目大多烂尾了](https://www.zhihu.com/question/665648172/answer/86682654632)
-
 作者：扇贝又回来了  
 链接：https://www.zhihu.com/question/665648172/answer/86682654632  
 来源：知乎  

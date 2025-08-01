@@ -74,14 +74,24 @@ https://javaguide.cn
 🎬 [遇见狂神说](https://space.bilibili.com/95256449)
 🎬 [韩顺平](https://space.bilibili.com/651245581)
 
+Programming in Java   ·   Computer Science   ·   An Interdisciplinary Approach
+- 🏠 https://introcs.cs.princeton.edu/java/home/
+-  Our textbook _Introduction to Programming in Java_ [Amazon](http://amzn.to/2BLKP69) · [Pearson](https://www.pearson.com/us/higher-education/program/Sedgewick-Introduction-to-Programming-in-Java-An-Interdisciplinary-Approach-2nd-Edition/PGM334823.html) · [InformIT](https://www.informit.com/store/computer-science-an-interdisciplinary-approach-9780134076478)  is an interdisciplinary approach to the traditional CS1 curriculum with Java. We teach the classic elements of programming, using an “objects-in-the-middle” approach that emphasizes data abstraction. We motivate each concept by examining its impact on specific applications, taken from fields ranging from materials science to genomics to astrophysics to internet commerce. The book is organized around four stages of learning to program:
+	- [_Chapter 1: Elements of Programming_](https://introcs.cs.princeton.edu/java/10elements) introduces variables; assignment statements; built-in types of data; conditionals and loops; arrays; and input/output, including graphics and sound.
+	- [_Chapter 2: Functions_](https://introcs.cs.princeton.edu/java/20functions) highlights the idea of dividing a program into components that can be independently debugged, maintained, and reused.
+	- [_Chapter 3: Object-Oriented Programming_](https://introcs.cs.princeton.edu/java/30oop) emphasizes the concept of a data type and its implementation, using Java's class mechanism.
+	- [_Chapter 4: Algorithms and Data Structures_](https://introcs.cs.princeton.edu/java/40algorithms) discusses classical algorithms for sorting and searching, and fundamental data structures, including stacks, queues, and symbol tables.
+- Our textbook _Computer Science_ [Amazon](http://amzn.to/25JdBjC) · [Pearson](https://www.pearsonhighered.com/program/Sedgewick-Computer-Science-An-Interdisciplinary-Approach/PGM317047.html) · [InformIT](http://informit.com/sedgewick) contains _Introduction to Programming in Java_ as its first four chapters.The second half of the book explores core ideas of Turing, von Neumann, Shannon, and others that ignited the digital age.
+	- [_Chapter 5: Theory of Computing_](https://introcs.cs.princeton.edu/java/50theory) surveys the fundamental concepts of universality, computability, and intractability, which raise questions about the role of computation in understanding the natural world.
+	- [_Chapter 6: A Computing Machine_](https://introcs.cs.princeton.edu/java/60machine) describes a simple imaginary machine that has many of the characteristics of real processors at the heart of the computational devices that surround us.
+	- [_Chapter 7: Building a Computer_](https://introcs.cs.princeton.edu/java/70circuits) considers the design of a processor, including Boolean logic, combinational circuits, and sequential circuits.
+
 
 
 ## Intro
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 >  Java介于编译型语言和解释型语言之间。编译型语言如C、C++，代码是直接编译成机器码执行，但是不同的平台（x86、ARM等）CPU的指令集不同，因此，需要编译出每一种平台的对应机器码。解释型语言如Python、Ruby没有这个问题，可以由解释器直接加载源码然后运行，代价是运行效率太低。而Java是将代码编译成一种“字节码”，它类似于抽象的CPU指令，然后，针对不同平台编写虚拟机，不同平台的虚拟机负责加载字节码并执行，这样就实现了“一次编写，到处运行”的效果。当然，这是针对Java开发者而言。对于虚拟机，需要为每个平台分别开发。为了保证不同平台、不同公司开发的虚拟机都能正确执行Java字节码，SUN公司制定了一系列的Java虚拟机规范。从实践的角度看，JVM的兼容性做得非常好，低版本的Java字节码完全可以正常运行在高版本的JVM上。
-
-Begin with 📄 https://dev.java/learn/ and  📂 [oracle - docs](https://docs.oracle.com/en/java/index.html)
 
 ```ascii
 ┌───────────────────────────┐
@@ -94,6 +104,12 @@ Begin with 📄 https://dev.java/learn/ and  📂 [oracle - docs](https://docs.o
 │    └────────────────────┘ │
 └───────────────────────────┘
 ```
+
+
+Learn java beginning with 📄 https://dev.java/learn/ and  📂 [oracle - docs](https://docs.oracle.com/en/java/index.html). 
+Also, learn java with algorithms is a good choice as well ↗ [Algorithm & Data Structure](../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+↗ [Computer Languages & Programming Methodology /Components and Grammars](../../../Computer%20Languages%20&%20Programming%20Methodology.md#Components%20and%20Grammars)
 
 
 

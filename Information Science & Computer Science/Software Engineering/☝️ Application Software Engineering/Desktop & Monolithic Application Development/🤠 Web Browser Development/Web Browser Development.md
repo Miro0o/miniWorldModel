@@ -83,7 +83,7 @@ As of 2024, most used browsers worldwide are: Chrome, Safari ([macOS](https://en
 
 
 ## Intro to Browser Inner Working: Chrome as an Example
-↗ [Chrome & Chromium Development](📌%20Web%20Browser%20Implementations/Chrome%20&%20Chromium%20Development.md)
+> ↗ [Chrome & Chromium Development](📌%20Web%20Browser%20Implementations/Chrome%20&%20Chromium%20Development.md)
 
 
 ### Browser as An Application Software
@@ -222,7 +222,7 @@ You can divide JavaScript operation into small chunks and schedule to run at eve
 
 
 
-## DOM
+## DOM (Document Object Model)
 > ↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/DOM%20(Document%20Object%20Model).md)
 > As mentioned in "DOM Parsing & Sub-resources Loading" section on this page.
 

@@ -23,7 +23,7 @@ We’ll see that an asynchronous, iterative, self-terminating, distributed algor
 
 ## DV Algorithms
 ### Bellman-Ford Algorithm
-↗ [Bellman-Ford Algorithm](../../../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Data%20Structures/Graph/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
+↗ [Bellman-Ford Algorithm](../../../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Graph/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
 
 
 

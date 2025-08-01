@@ -29,6 +29,14 @@
 
 
 
+## 👉 MatLab
+
+
+
+## 👉 MathCAD
+
+
+
 ## 👉 Java-Geometry-Expert
 🏠 http://www.cs.wichita.edu/~ye
 🚧 https://github.com/yezheng1981/Java-Geometry-Expert
@@ -70,3 +78,12 @@ Stata (/ˈsteɪtə/, STAY-ta, alternatively /ˈstætə/, occasionally stylized a
 Stata was initially developed by Computing Resource Center in California and the first version was released in 1985. In 1993, the company moved to College Station, Texas and was renamed Stata Corporation, now known as StataCorp. A major release in 2003 included a new graphics system and dialog boxes for all commands. Since then, a new version has been released once every two years. The current version is Stata 19, released in April 2025.
 
 [Stata入门 - 未末的文章 - 知乎]: https://zhuanlan.zhihu.com/p/112561035
+
+
+
+## Ref
+[How to build the perfect sandcastle – according to science](https://theconversation.com/how-to-build-the-perfect-sandcastle-according-to-science-79600)
+
+[数学软件四大家族——Maple、MATLAB、MathCAD和Mathematica优缺点比较)](https://python.iitter.com/other/8030.html)
+
+[WOLFRAM LANGUAGE (MATHEMATICA) VS. PYTHON FOR DATA SCIENCE PROJECTS](https://atseda.com/en/blog/2019/02/12/mathematica-and-python/)

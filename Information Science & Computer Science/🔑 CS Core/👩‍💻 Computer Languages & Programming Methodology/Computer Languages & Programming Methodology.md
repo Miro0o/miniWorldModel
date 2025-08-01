@@ -365,16 +365,23 @@ In logical programming the main emphasize is on knowledge base and the problem. 
 
 ↗ [Logic Programming Languages](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ##### 2. Functional Programming
-👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
-👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
-👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
-👉 **Erlang**: developed by Joe Armstrong, Robert Virding
-
-↗ [Lisp-Based Languages](Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
-- 👉 [Lisp](Compiled%20Languages/Lisp-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
-- 👉 **ML**: developed by Robin Milner
-- 👉 [Clojure](Compiled%20Languages/Lisp-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
+e.g.
+- 👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
+- 👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+- 👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
+- 👉 **Erlang**: developed by Joe Armstrong, Robert Virding
+- ↗ [Lisp-Based Languages](Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
+	- 👉 [Lisp](Compiled%20Languages/Lisp-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
+	- 👉 **ML**: developed by Robin Milner
+	- 👉 [Clojure](Compiled%20Languages/Lisp-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
+
+e.g.
+- ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+
 ```mysql
 CREATE DATABASE databaseAddress;
 CREATE TABLE Addr (
@@ -386,10 +393,6 @@ CREATE TABLE Addr (
     State varchar(200)
 );
 ```
-↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
-- ↗ [Record-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-- ↗ [Object-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-- ↗ [Query Languages (Data Query Languages, DQL)](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
 #### 2️⃣ Imperative Programming Paradigm
 It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. It works by changing the program state through assignment statements. It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 
@@ -399,24 +402,25 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Fortran**: developed by John Backus for IBM
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 ##### 1. Procedural Programming Paradigm
-↗ [C-Based Languages](Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
-↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-- 👉 **C**: developed by Dennis Ritchie and Ken Thompson
+e.g.
+- ↗ [C-Based Languages](Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
+- ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+	- 👉 **C**: developed by Dennis Ritchie and Ken Thompson
+	- 👉 **C++**: developed by Bjarne Stroustrup
+- ↗ [JVM-Based Languages](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+	- 👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+- 👉 **ColdFusion**: developed by J J Allaire
+- 👉 **Pascal**: developed by Niklaus Wirth
+##### 2. Object Oriented Programming (OOP)
+e.g.
+- 👉 **Simula**: first OOP language
+- 👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 - 👉 **C++**: developed by Bjarne Stroustrup
-
-↗ [JVM-Based Languages](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
-👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
-👉 **ColdFusion**: developed by J J Allaire
-👉 **Pascal**: developed by Niklaus Wirth
-##### 2. Object Oriented Programming, OOP
-👉 **Simula**: first OOP language
-👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
-👉 **C++**: developed by Bjarne Stroustrup
-👉 [Objective-C](Compiled%20Languages/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
-👉 [Dot.Net-Based Languages](Compiled%20+%20Interpreted%20Languages/Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
-👉 [Python](Interpreted%20Languages/Python/Python.md): developed by Guido van Rossum
-👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto
-👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
+- 👉 [Objective-C](Compiled%20Languages/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
+- 👉 [Dot.Net-Based Languages](Compiled%20+%20Interpreted%20Languages/Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
+- 👉 [Python](Interpreted%20Languages/Python/Python.md): developed by Guido van Rossum
+- 👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto
+- 👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
 
@@ -439,24 +443,200 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 ↗ [Mathematical Logics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 - ↗ [First-order Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/📍%20Mathematical%20Logics%20Basics/First-order%20Logic.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-
 #### Components and Grammars
+> 🔗 https://algs4.cs.princeton.edu/11model/
+> The book takes OOP Language of java for example. However, contents below generalize to other languages as well.
+
 - Primitive data types and expressions
+	- A _data type_ is a set of values and a set of operations on those values.The following four primitive data types are the basis of the Java language:
+		- _Integers_, with arithmetic operations (int)
+		- _Real numbers_, again with arithmetic operations (double)
+		- _Booleans_, the set of values { _true_, _false_ } with logical operations (boolean)
+		- _Characters_, the alphanumeric characters and symbols that you type (char)
+	- A (Java) program manipulates _variables_ that are named with _identifiers_. Each variable is associated with a data type and stores one of the permissible data-type values. We use _expressions_ to apply the operations associated with each type.
 ![](../../../Assets/Pics/Pasted%20image%2020250727163941.png)
 <small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 
+- Other important data types:
+	- _**Abstract data types (ADT).**_ An _abstract data type_ is a data type whose internal representation is hidden from the client.
+	- **Bags, Queue, and the Stack. (ADT, basic data structures)** Several fundamental data types involve collections of objects. Specifically, the set of values is a collection of objects, and the operations revolve around adding, removing, or examining objects in the collection. They differ in the specification of which object is to be removed or examined next. ↗ [Data Structures](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+		- Array and resizing array implementations of collections.
+		- Linked-list implementations of collections.
+- Other operators:
+	- bitwise logical operations
+	- etc.
+
 - Statements
+	- A (Java) program is composed of _statements_, which define the computation by creating and manipulating variables, assigning data-type values to them, and controlling the flow of execution of such operations.
 ![](../../../Assets/Pics/Pasted%20image%2020250727163953.png)
 <small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 
 - Arrays
+	- An _array_ stores a sequence of values that are all of the same type. If we have N values, we can use the notation a\[i\] to refer to the ith value for any value of i from 0 to N-1.
 
-- Methods
+- Strings
+	- A String is an indexed sequence of char values. A literal String is a sequence of characters within double quotes, such as "Hello, World". The data type String is a Java data type but it is not a primitive type. We consider String now because it is a fundamental data type that almost every (Java) program uses.
+	- String values are similar to arrays of characters, but the two are not the same.
+	- Computing with strings is an essential component of modern computing.
+
+- Methods & API
 	- Static methods
+		- Static methods are called _functions_ in many programming languages, since they can behave like mathematical functions. Each static method is a sequence of statements that are executed, one after the other, when the static method is _called_.
+		- ![](../../../Assets/Pics/Pasted%20image%2020250731215615.png)
+		- <small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 	- Dynamic methods
-	- API
+	- Libraries and modular programming
+		- (quote from the book *Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne*)
+		- Of critical importance in this model is that libraries of static methods enable modular programming where we build libraries of static methods (modules) and a static method in one library can call static methods defined in other libraries. This approach has many important advantages. It allows us to
+			- Work with modules of reasonable size, even in program involving a large amount of code
+			- Share and reuse code without having to reimplement it
+			- Easily substitute improved implementations
+			- Develop appropriate abstract models for addressing programming problems
+			- Localize debugging (see the paragraph below on unit testing)
+			- etc.
+	- API (Application Programming Interface)
+		- To specify the behavior of an abstract data type, we use an _application programming interface_ (API), which (in Java) is a list of _constructors_ and _instance methods_ (operations), with an informal description of the effect of each.
+			- ![](../../../Assets/Pics/Pasted%20image%2020250729185842.png)
+			- <small>Example: Java Language<br><a>https://algs4.cs.princeton.edu/13stacks/</a></small>
+		- We use the term *client* to refer to a program that calls a method in another library and the term *implementation* to describe the code that implements the methods in an API.
+		- (quote from the book *Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne*)
+			- **The purpose of an API** is to separate the client from the implementation: the client should know nothing about the implementation other than information given in the API, and the implementation should not take properties of any particular client into account. APIs enable us to separately develop code for various purposes, then reuse it widely. No Java library can contain all the methods that we might need for a given computation, so this ability is a crucial step in addressing complex programming applications. Accordingly, programmers normally think of the API as a contract between the client and the implementation that is a clear specification of what each method is to do. Our goal when developing an implementation is to honor the terms of the contract. Often, there are many ways to do so, and separating client code from implementation code gives us the freedom to substitute new and improved implementations. In the study of algorithms, this ability is an important ingredient in our ability to understand the impact of algorithmic improvements that we develop.
+			- **Maintaining multiple implementations.** Multiple implementations of the same API can present maintenance and nomenclature issues. In some cases, we simply want to replace an old implementation with an improved one. In others, we may need to maintain two implementations, one suitable for some clients, the other suitable for others.
+				- For this reason, we generally adopt an informal naming convention where we:
+					- Identify different implementations of the same API by prepending a descriptive modifier. For example, we might name our Date implementations on the previous page BasicDate and SmallDate, and we might wish to develop a SmartDate implementation that can validate that dates are legal.
+					- Maintain a reference implementation with no prefix that makes a choice that should be suitable for most clients. That is, most clients should just use Date. (while for other implementations use specific prefixes to indicate the purpose of this particular implementation)
+				- In a large system, this solution is not ideal, as it might involve changing client code. For example, if we were to develop a new implementation ExtraSmallDate, then our only options are to change client code or to make it the reference implementation for use by all clients. Java has various advanced language mechanisms for maintaining multiple implementations without needing to change client code, but we use them sparingly because their use is challenging (and even controversial) even for experts, especially in conjunction with other advanced language features that we do value (generics and iterators). These issues are important (for example, ignoring them led to the celebrated Y2K problem at the turn of the millennium, because many programs used their own implementations of the date abstraction that did not take into account the first two digits of the year), but detailed consideration of these issues would take us rather far afield from the study of algorithms.
+	- Unite testing
+- Properties of methods
+	- A complete detailed description of the properties of methods is beyond our scope, but the following points are worth noting:
+		- Arguments are passed by value.
+		- Method names can be overloaded.
+		- A method has a single return value but may have multiple return statements.
+		- A method can have side effects.
+		- ==**Recursion**: a method can call itself.==
+			- (quote from the book *Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne*)
+			- We often use recursive implementations of methods because they can lead to compact, elegant code that is easier to understand than a corresponding implementation that does not use recursion.
+			- There are three important rules of thumb in developing recursive programs:
+				- The recursion has a base case—we always include a conditional statement as the first statement in the program that has a return.
+				- Recursive calls must address subproblems that are smaller in some sense, so that recursive calls converge to the base case. In the code below, the difference between the values of the fourth and the third arguments always decreases.
+				- Recursive calls should not address subproblems that overlap. In the code below, the portions of the array referenced by the two subproblems are disjoint.
+			- Violating any of these guidelines is likely to lead to incorrect results or a spectacularly inefficient program (see Exercises 1.1.19 and 1.1.27). Adhering to them is likely to lead to a clear and correct program whose performance is easy to understand. Another reason to use recursive methods is that they lead to mathematical models that we can use to understand performance. We address this issue for binary search in Section 3.2 and in several other instances throughout the book.
 
 - Input & Output
+	- ↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
+	- Commands and arguments
+	- Standard Input /Output (STD I/O)
+	- Formatted Output
+	- Redirection & Piping
+---
+
+(JAVA /OOP specific:)
+
+> 📖 Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne
+
+==A Java program ( class) is either a library of static methods (functions) or a data type definition. ==To create libraries of static methods and data-type definitions, we use the following five components, the basis of programming in Java and many other modern languages:
+- Primitive data types precisely define the meaning of terms like integer, real number, and boolean value within a computer program. Their definition includes the set of possible values and operations on those values, which can be combined into expressions like mathematical expressions that define values.
+- Statements allow us to define a computation by creating and assigning values to variables, controlling execution flow, or causing side effects. We use six types of statements: declarations, assignments, conditionals, loops, calls, and returns.
+- Arrays allow us to work with multiple values of the same type. Static methods allow us to encapsulate and reuse code and to develop programs as a set of independent modules.
+- Strings are sequences of characters. Some operations on them are built in to Java.
+- Input/output sets up communication between programs and the outside world.
+- Data abstraction extends encapsulation and reuse to allow us to define non-primitive data types, thus supporting object-oriented programming.
+
+...
+
+==Modern programming goes one step further by the idea of **data abstraction**, sometimes known as **object-oriented programming**.== Simply put, the idea behind data abstraction is to allow a program to define data types (sets of values and sets of operations on those values), not just static methods that operate on predefined data types.
+
+...
+
+Programming in Java is largely based on building data types known as **reference types** with the familiar Java class. This style of programming is known as object-oriented programming, as it revolves around the concept of an object, an entity that holds a data type value. With Java’s primitive types we are largely confined to programs that operate on numbers, but with reference types we can write programs that operate on strings, pictures, sounds, any of hundreds of other abstractions that are available in Java’s standard libraries or on our booksite. Even more significant than libraries of predefined data types is that the range of data types available in Java programming is open-ended, because you can define your own data types to implement any abstraction whatsoever.
+
+
+> ↗ [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> 🔗 https://algs4.cs.princeton.edu/12oop/
+
+- _**Abstract data types (ADT).**_ An _abstract data type_ is a data type whose internal representation is hidden from the client. (i.e. object as in OOP)
+	- ![](../../../Assets/Pics/Screenshot%202025-07-31%20at%2023.11.25.png)
+	- <small>Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne. 1.2 data abstraction</small>
+- _**Client.**_ A client is a program that uses a data type.
+- _**Objects.**_ An _object_ is an entity that can take on a data-type value. 
+	- (quote from the book *Algorithms 4th Edition by Robert Sedgewick, Kevin Wayne - page 67, section 1.2 data abstraction*)
+	- Objects are characterized by three essential properties: state, identity, and behavior. The state of an object is a value from its data type. The identity of an object distinguishes one object from another. It is useful to think of an object’s identity as the place where its value is stored in memory. The behavior of an object is the heads effect of data-type operations. The implementation has the sole responsibility for maintaining an object’s identity, so that client code can use a data type without regard to the representation of its state by conforming to an API that describes an object’s behavior. An object’s state might be used to provide information to a client or cause a side effect or be changed by one of its data type’s operations, but the details of the representation of the data-type value are not relevant to client code.
+	- A **reference** is a mechanism for accessing an object. Java nomenclature makes clear the distinction from primitive types (where variables are associated with values) by using the term reference types for non-primitive types. The details of implementing references vary in Java implementations, but it is useful to think of a reference as a memory address, as shown at right (for brevity, we use heads tails three-digit memory addresses in the diagram).
+	- In Java, every value of any non-primitive type is an object.
+	- Operations with an object:
+		- creation
+		- instance methods invoking
+		- usage
+			- aliasing & assignment statements
+		- objects as arguments
+		- objects as return values
+		- arrays of objects
+			- Arrays are objects (in java)
+
+> 📖 *Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne*
+> 
+> With this focus on objects, writing code that embraces data abstraction (defining and using data types, with data-type values held in objects) is widely referred to as object-oriented programming. The basic concepts that we have just covered are the starting point for object-oriented programming, so it is worthwhile to briefly summarize them. A data type is a set of values and a set of operations defined on those values. We implement data types in independent Java class modules and write client programs that use them. An object is an entity that can take on a data-type value or an instance of a data type. Objects are characterized by three essential properties: state, identity, and behavior. A data-type implementation supports clients of the data type as follows:
+> - Client code can create objects (establish identity) by using the new construct to invoke a constructor that creates an object, initializes its instance variables, and returns a reference to that object.
+> - Client code can manipulate data-type values (control an object’s behavior, possibly changing its state) by using a variable associated with an object to invoke an instance method that operates on that object’s instance variables.
+> - Client code can manipulate objects by creating arrays of objects and passing them and returning them to methods, in the same way as for primitive-type values, except that variables refer to references to values, not the values themselves. These capabilities are the foundation of a flexible, modern, and widely useful programming style that we will use as the basis for studying algorithms in this book.
+
+
+More about ADT and programming model:
+- Use of ADT:
+	- A client does not need to know how a data type is implemented in order to be able to use it.
+- Implementation of ADT:
+	- We implement ADTs with a _Java class_, putting the code in a file with the same name as the class, followed by the .java extension. The first statements in the file declare _instance variables_ that define the data-type values. Following the instance variables are the _constructor_ and the _instance methods_ that implement operations on data-type values.
+	- ![](../../../Assets/Pics/Pasted%20image%2020250729130040.png)
+	- ![](../../../Assets/Pics/Pasted%20image%2020250729130046.png)
+- Designing ADT
+	- _Encapsulation_
+		- A hallmark of object-oriented programming is that it enables us to encapsulate data types within their implementations, to facilitate separate development of clients and data type implementations. Encapsulation enables modular programming, allowing us to
+			- Independently develop of client and implementation code
+			- Substitute improved implementations without affecting clients
+			- Support programs not yet written (the API is a guide for any future client) Encapsulation also isolates data-type operations, which leads to the possibility of
+			- Limiting the potential for error
+			- Adding consistency checks and other debugging tools in implementations
+			- Clarifying client code
+	- _Designing APIs_
+		-  One of the most important and most challenging steps in building modern software is designing APIs. This task takes practice, careful deliberation, and many iterations, but any time spent designing a good API is certain to be repaid in time saved debugging or code reuse. Articulating an API might seem to be overkill when writing a small program, but you should consider writing every program as though you will need to reuse the code someday. 
+		- Ideally, an API would clearly articulate behavior for all possible inputs, including side effects, and then we would have software to check that implementations meet the specification. Unfortunately, a fundamental result from theoretical computer science known as the specification problem implies that this goal is actually **impossible** to achieve. Briefly, such a specification would have to be written in a formal language like a programming language, and the problem of determining whether two programs perform the same computation is known, mathematically, to be undecidable. Therefore, our APIs are brief English-language descriptions of the set of values in the associated abstract data type along with a list of constructors and instance methods, again with brief English-language descriptions of their purpose, including side effects. To validate the design, we always include examples of client code in the text surrounding our APIs. 
+		- Within this broad outline, there are numerous pitfalls that every API design is susceptible to (...) These considerations are sometimes summarized in yet another motto: ==provide to clients the methods they need and no others==.
+	- _Algorithms and ADTs_
+		- Data abstraction is naturally suited to the study of algorithms, because it helps us provide a framework within which we can precisely specify both what an algorithm needs to accomplish and how a client can make use of an algorithm.
+	- Inheritance 
+		- _Interface inheritance_
+			- Java provides language support for defining relationships among objects, known as _inheritance_. The first inheritance mechanism that we consider is known as _subtyping_, which allows us to specify a relationship between otherwise unrelated classes by specifying in an _interface_ a set of common methods that each implementing class must contain. We use interface inheritance for _comparison_ and for _iteration_.
+		- _Implementation inheritance_
+			- Java also supports another inheritance mechanism known as _subclassing_, which is a powerful technique that enables a programmer to change behavior and add functionality without rewriting an entire class from scratch. The idea is to define a new class (_subclass_) that inherits instance methods and instance variables from another class (_superclass_). We avoid subclassing in this book because it generally works against encapsulation. Certain vestiges of the approach are built in to Java and therefore unavoidable: specifically, every class is a subclass of [Object](http://download.oracle.com/javase/6/docs/api/java/lang/Object.html).
+	- _String conversion_
+	- _Wrapper types_
+		- Java supplies built-in reference types known as _wrapper types_, one for each of the primitive types
+			- boolean -> [Boolean](http://download.oracle.com/javase/6/docs/api/java/lang/Boolean.html)
+			- byte -> [Byte](http://download.oracle.com/javase/6/docs/api/java/lang/Byte.html)
+			- char -> [Character](http://download.oracle.com/javase/6/docs/api/java/lang/Character.html)
+			- double -> [Double](http://download.oracle.com/javase/6/docs/api/java/lang/Double.html)
+			- float -> [Float](http://download.oracle.com/javase/6/docs/api/java/lang/Float.html)
+			- int -> [Integer](http://download.oracle.com/javase/6/docs/api/java/lang/Integer.html)
+			- long -> [Long](http://download.oracle.com/javase/6/docs/api/java/lang/Long.html)
+			- short -> [Short](http://download.oracle.com/javase/6/docs/api/java/lang/Short.html)
+		- Java automatically converts from primitive types to wrapper types (_autoboxing_) and back (_auto-unboxing_) when warranted.
+	- _Equality_
+		- What does it mean for two objects to be equal? If we test equality with (a == b) where a and b are reference variables of the same type, we are testing whether they have the same identity: whether the _references_ are equal. Typical clients would rather be able to test whether the _data-type values_ (object state) are the same. Every Java type inherits the method equals() from [Object](http://download.oracle.com/javase/6/docs/api/java/lang/Object.html). Java provides natural implementations both for standard types such as Integer, Double, and String and for more complicated types such as [java.io.File](http://download.oracle.com/javase/6/docs/api/java/io/File.html) and [java.net.URL](http://download.oracle.com/javase/6/docs/api/java/net/URL.html). When we define our own data types we need to override equals(). Java's convention is that equals() must be an _equivalence relation_:
+			- _Reflexive_: x.equals(x) is true.
+			- _Symmetric_: x.equals(y) is true if and only if y.equals(x) is true.
+			- _Transitive_: if x.equals(y) and y.equals(z) are true, then so is x.equals(z).
+		- In addition, it must take an Object as argument and satisfy the following properties.
+			- _Consistent_: multiple invocations of x.equals(y) consistently return the same value, provided neither object is modified.
+			- _Not null_: x.equals(null) returns false.
+		- Adhering to these Java conventions can be tricky, as illustrated for [Date.java](https://algs4.cs.princeton.edu/12oop/Date.java.html) and [Transaction.java](https://algs4.cs.princeton.edu/12oop/Transaction.java.html).
+	- _Memory management_
+	- _Immutability_
+		- An immutable data type, such as Date, has the property that the value of an object never changes once constructed. By contrast, a mutable data type, such as Counter or Accumulator, manipulates object values that are intended to change. Java’s language support for helping to enforce immutability is the final modifier.
+	- Visibility
+		- public & private
+	- Design by contract.
+	- _Exceptions and errors_
+	- _Assertions_
 
 #### Control Flow
 
@@ -473,6 +653,9 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 > 
 > https://algs4.cs.princeton.edu/11model/
 > Algorithms, 4th edition, 1.1 section, Programming Model
+> 
+> https://introcs.cs.princeton.edu/java/home/
+> Programming in Java   ·   Computer Science   ·   An Interdisciplinary Approach
 
 
 ### Program Execution: What's Under The Hood?
