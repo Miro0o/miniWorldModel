@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Decision Theory & Decision Analysis](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Decision%20Theory%20&%20Decision%20Analysis.md)
-↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Management%20Science/Management%20Science.md)
+↗ [Decision Theory & Decision Analysis](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Decision%20Theory%20&%20Decision%20Analysis.md)
+↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Management%20Science/Management%20Science.md)
 
-↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
+↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 
 
 ### Other Resources

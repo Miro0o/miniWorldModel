@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro
@@ -22,4 +24,3 @@
 [最小汉明码距和数据编码的纠错能力的关系]: https://blog.csdn.net/weixin_45783996/article/details/116203267
 
 [汉明距离及其高效计算方式]: https://www.jianshu.com/p/52f9317ca0a6
-

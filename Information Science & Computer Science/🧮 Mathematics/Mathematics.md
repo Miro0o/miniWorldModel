@@ -1,4 +1,4 @@
-# Math & Theoretical Computer Science (TCS)
+# Mathematics
 
 [TOC]
 
@@ -6,21 +6,23 @@
 
 ## Res
 ### Related Topics
-↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
-↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
-↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
-
 ↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+- ↗ [Philosophy of Mathematics](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Mathematics/Philosophy%20of%20Mathematics.md)
+- ↗ [Philosophy of Science](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 ↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 - ↗ [Music](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music.md)
-↗ [Nature Science & Technology (Engineering)](../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/Nature%20Science%20&%20Technology%20(Engineering).md)
-↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Natural Science & Engineering & Technology](../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
 ↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [(Formal) Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/(Formal)%20Verification%20&%20Analysis%20Programming%20Languages/(Formal)%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/(Formal)%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+
+↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
+↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
 
 
 ### Math Learning Resource
@@ -110,12 +112,6 @@ wikipedia
 - [数学题](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E9%A2%98 "数学题")
 
 
-### TCS Learning Resources
-🚧 https://github.com/boazbk/tcs
-Book in preparation: introduction to theoretical computer science
-👍 📚 https://introtcs.org/public/index.html
-- This is a textbook in preparation for an introductory undergraduate course on theoretical computer science. I am using this text for [Harvard CS 121](http://cs121.boazbarak.org/). It is also used for [UVa CS 3102](https://uvatoc.github.io/) and [UCLA CS181](https://hackmd.io/@raghum/introtcs).
-
 
 ### 📝 Math Course List for CS
 https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
@@ -201,6 +197,9 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
 ##### 0️⃣ Foundation of Mathematics and Philosophy
+↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+
 ↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 - ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
 - ↗ [Category Theory (范畴论)](🤼‍♀️%20Mathematical%20Logics/Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
@@ -233,6 +232,9 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 	- ↗ [Ring Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory/Ring%20Theory.md)
 	- ↗ [Field Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Field%20Theory/Field%20Theory.md)
 - ↗ [Linear Algebra](🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
+↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
+↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
+- ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 ↗ [Topology](Topology/Topology.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
@@ -264,7 +266,6 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 ↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ###### 👉 Statistics and Other Decision Sciences
-
 ↗ [Possibilities & Statistics](📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
@@ -279,7 +280,9 @@ Computational mathematics is the study of [mathematical problems](https://en.wi
 ###### 👉 Operational Research & Optimization
 ↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 - ↗ [Game Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory/Game%20Theory.md)
-- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+- ↗ [Mathematical Optimization](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Mathematical%20Optimization.md)
+	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+###### 👉 etc.
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#
 
@@ -353,9 +356,8 @@ First Level Areas:
 
 
 ### 🛐 Modern Math Structure
-> 🔗
+> 🔗[Mathematical structure]: https://en.wikipedia.org/wiki/Mathematical_structure
 > [代数结构简介：群、环, 域、格、模...]: https://blog.yelf.me/notes/math/algebra/algebra-101/
-> [Mathematical structure]: https://en.wikipedia.org/wiki/Mathematical_structure
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics), a **structure** is a [set](https://en.wikipedia.org/wiki/Set_(mathematics)) endowed with some additional features on the set (e.g. an [operation](https://en.wikipedia.org/wiki/Operation_(mathematics)), [relation](https://en.wikipedia.org/wiki/Relation_(mathematics)), [metric](https://en.wikipedia.org/wiki/Metric_(mathematics)), or [topology](https://en.wikipedia.org/wiki/Topological_space)). Often, the additional features are attached or related to the set, so as to provide it with some additional meaning or significance.
 

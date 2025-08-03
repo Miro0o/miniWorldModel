@@ -11,6 +11,9 @@
 ### Related Topics
 ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 
+↗ [Elementary Theory of Numbers](../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+↗ [Number Theory Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
 ↗ [BlockChain](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/De-Fi%20Technologies/BlockChain.md)
@@ -188,15 +191,13 @@ Modern cryptography is distinguished by its reliance on mathematics and electron
 4. 加密算法 E: 一簇由加密密钥控制的、从 M 到 C 的加密变换;
 5. 解密算法 D: 一簇由解密密钥控制的、从 C 到 M 的解密变换。
 
-五元组 $$\{ M，C，K，E，D \}$$就称为一个密码系统。在密码系统中，对于每一个确定的密钥k，加密
-算法将确定一个具体的加密变换，解密算法将确定一个具体的解密变换，而且解密变换就是加密变换的 逆变换。对于明文空间M中的每一个明文m，加密算法E在加密密钥ke的控制下将明文m加密成密文c; 而解密算法D则在密钥kd的控制下将密文c解密成同一明文m，即:
+五元组 $\{ M，C，K，E，D \}$就称为一个密码系统。在密码系统中，对于每一个确定的密钥k，加密
+算法将确定一个具体的加密变换，解密算法将确定一个具体的解密变换，而且解密变换就是加密变换的 逆变换。对于明文空间M中的每一个明文m，加密算法E在加密密钥$k_e$的控制下将明文m加密成密文c; 而解密算法D则在密钥$k_d$的控制下将密文c解密成同一明文m，即: 
+- 对 $m\in M，(k_e，k_d)\in K，$有 $D_{k_d} (E_{k_e}(m))=m$。
 
-对 $$m∈M，(ke，kd)∈K，$$有 $$D_kd (Eke (m))=m。$$
 
-
-### Cryptosystems Design and Threat Model
+### Crypto-systems Design and Threat Model
 > ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-
 #### Kerckhoff’s Principle
 > 🔗 https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle#Explanation_of_the_principle
 
@@ -211,6 +212,15 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 >  4. 有利于使用密码算法产品的规模化生产，实现低成本和高性能。
 > 
 >  但是必须要指出的是，密码设计的公开原则并不等于所有的密码算法在应用时都一定要公开密码算法。
+#### Types of Threats Against Crypto-system
+In general, we will assume that the attacker knows the crypto-system to be cracked, and the attack types are usually divided into the following four types:
+
+| Attack Type              | Description                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------ |
+| ciphertext attack        | only has ciphertext                                                                        |
+| Known plaintext attack   | Have ciphertext and corresponding plaintext                                                |
+| Select plaintext attack  | Have encryption permission, can encrypt the plaintext and get the corresponding ciphertext |
+| Select ciphertext attack | Have decryption permission, can decrypt the ciphertext and get the corresponding plaintext |
 #### Cryptosystem's Assessment
 > 出现在分组密码一章节中。这里引用一下
 
@@ -225,7 +235,6 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 ##### Correctness
 ##### Security
 密码系统的安全性（主要两个方面的因素）
-
 1. **密码算法本身**的安全强度
 密码算法的安全强度取决于密码设计水平、破译技术等。可以说一个密码系统所使用密码算法的安全强度是 该系统安全性的技术保证。
 
@@ -259,7 +268,7 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 #### Software Implementation
 #### Hardware Implementation
 
-### Types of Cryptosystems
+### Types of Crypto-systems
 #### 1️⃣ Key Specific (根据密码算法所用的密钥数量)
 对称密码体制(Symmetric cipher，也称为单钥密码体制、秘密密钥密码体制、 对称密钥密码体制或常规密码体制)
 

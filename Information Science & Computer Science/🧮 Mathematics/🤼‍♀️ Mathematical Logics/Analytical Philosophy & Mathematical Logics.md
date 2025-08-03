@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
 
 
 

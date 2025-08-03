@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Finance & Financial Management](../../../Other%20Networks%20of%20Knowledge/Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+↗ [Finance & Financial Management](../../../Other%20Networks%20of%20Knowledge/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
 
 ↗ [E-commerce Industry](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/E-commerce%20Industry/E-commerce%20Industry.md)
 ↗ [Third-Party Payment Industry](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Third-Party%20Payment%20Industry/Third-Party%20Payment%20Industry.md)

@@ -399,7 +399,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 > ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
 > ↗ [Philosophy](../♂%20Philosophy/Philosophy.md)
-> ↗ [Global Religions](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+> ↗ [Global Religions](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
 
 by status:
@@ -555,11 +555,11 @@ See also
 
 
 ### Major Religions & Languages of Different Ethnic Groups
-↗ [Global Religions](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
-- ↗ [Buddhism (Buddha Dharma)](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
-- ↗ [Christianity](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
-- ↗ [Islam](../♂%20Philosophy/Classic%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
-- ↗ [Vedism (Brahmanism) & Hinduism](../♂%20Philosophy/Classic%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
+↗ [Global Religions](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+- ↗ [Buddhism (Buddha Dharma)](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+- ↗ [Christianity](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
+- ↗ [Islam](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
+- ↗ [Vedism (Brahmanism) & Hinduism](../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 - ↗ [Learning English the Right Way](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)

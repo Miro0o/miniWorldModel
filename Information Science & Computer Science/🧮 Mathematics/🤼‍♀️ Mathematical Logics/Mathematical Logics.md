@@ -1,4 +1,4 @@
-# MATHEMATICAL Logis
+# Mathematical Logis
 
 [TOC]
 
@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 Natural Language Logics
+↗ [Analytic Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Contemporary%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
 
 ↗ [Boolean Algebra](../🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
 

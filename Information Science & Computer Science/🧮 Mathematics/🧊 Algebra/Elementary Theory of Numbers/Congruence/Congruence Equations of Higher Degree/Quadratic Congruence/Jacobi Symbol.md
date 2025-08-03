@@ -1,6 +1,0 @@
-# Jacobi Symbol
-
-[TOC]
-
-
-

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Quantum Cipher](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cipher/Quantum%20Cipher.md)
+↗ [Quantum Cryptography](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cryptography/Quantum%20Cryptography.md)
 
 
 ### Other Resources
@@ -16,6 +16,7 @@ Qiskit is an open-source SDK for working with quantum computers at the level of 
 
 
 ## Intro
+
 
 
 ## Ref

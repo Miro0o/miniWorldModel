@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 
 
 
@@ -434,7 +434,7 @@ ACM CCS 2012
 高等教育学社基础知识开源建设工程
 _专为大学生群体打造的知识共享平台，助力学业与社会衔接。 由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！_
 #### Knowing Universities' Courses Structures & Educational Systems in Different Areas
-↗ [Education](../../../Other%20Networks%20of%20Knowledge/Human%20Development%20&%20Social%20Science/Education/Education.md)
+↗ [Education](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 - ↗ [中国教育与培训业](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
 - ↗ [U.S. Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
 - ↗ [EU Education & Professional Training Industry](../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20EU%20Education%20&%20Professional%20Training%20Industry/EU%20Education%20&%20Professional%20Training%20Industry.md)
@@ -705,12 +705,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Nature%20Science%20&%20Technology%20(Engineering)/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**

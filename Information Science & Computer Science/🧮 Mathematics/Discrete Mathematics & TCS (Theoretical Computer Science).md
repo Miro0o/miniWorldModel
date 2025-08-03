@@ -8,11 +8,14 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
-
 ↗ [Information Theory](🧐%20Information%20Theory/Information%20Theory.md)
-
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
+↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
+
+↗ [Information, Data, Number and Math in Digital Systems](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+- ↗ [(Text) Data Representations & Storage in Computer](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+- ↗ [Encodings](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
+
 
 ↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
 	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
@@ -28,7 +31,14 @@
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 
-### Courses
+### TCS Learning Resources
+🚧 https://github.com/boazbk/tcs
+Book in preparation: introduction to theoretical computer science
+👍 📚 https://introtcs.org/public/index.html
+- This is a textbook in preparation for an introductory undergraduate course on theoretical computer science. I am using this text for [Harvard CS 121](http://cs121.boazbarak.org/). It is also used for [UVa CS 3102](https://uvatoc.github.io/) and [UCLA CS181](https://hackmd.io/@raghum/introtcs).
+
+
+### Discrete Mathematics Learning Resources
 [🎬离散数学（全）-北京大学]: https://www.bilibili.com/video/BV1BW411n7gw/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d "配课件"
 [🎬【MIT-离散数学】高级程序员必备知识！+专业中英文字幕！]: https://www.bilibili.com/video/BV1zh41167Uy?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 [📖 离散数学]:"屈婉玲"

@@ -76,7 +76,7 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 [等价关系、等价类与划分 | CSDN]: https://blog.csdn.net/sinat_20471177/article/details/118707113
 
-👍 🎬【编译原理正规表达式转NFA到DFA再化简】 https://www.bilibili.com/video/BV1mh41187fN/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+[👍 🎬【编译原理正规表达式转NFA到DFA再化简】]:  https://www.bilibili.com/video/BV1mh41187fN/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 [Streaming algorithm | Wikipedia]: https://en.wikipedia.org/wiki/Streaming_algorithm#Lower_bounds
 

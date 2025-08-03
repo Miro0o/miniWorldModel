@@ -5,9 +5,11 @@
 
 
 ## Res
+### Related Topics
 
 
-## Cryptology Applications Intro
+
+## Cryptology Applications
 ### Data Encryption in Network Communication
 ↗ [Channel Encryption](../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Channel%20Encryption/Channel%20Encryption.md)
 

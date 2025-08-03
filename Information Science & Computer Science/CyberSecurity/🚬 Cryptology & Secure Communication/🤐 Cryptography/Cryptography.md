@@ -5,11 +5,14 @@
 
 
 ## Res
-### Related Notes
+### Related Topics
 Cryptography is a sub-category of Cryptology:
 👉 [Cryptology & Secure Communication](../Cryptology%20&%20Secure%20Communication.md)
 
-↗ [Cryptocurrency /Cryptography](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
+↗ [Elementary Theory of Numbers](../../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+
+↗ [Decentralized Fiance & Cryptocurrency](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
 ↗ [OpenSSL Project](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
 
@@ -54,17 +57,6 @@ Modern cryptography exists at the intersection of the disciplines of mathematics
 ↗ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 
 
-### 🔫 Types of Attacks
-In general, we will assume that the attacker knows the cryptosystem to be cracked, and the attack types are usually divided into the following four types:
-
-| Attack Type | Description |
-| - | - |
-| ciphertext attack | only has ciphertext |
-| Known plaintext attack | Have ciphertext and corresponding plaintext |
-| Select plaintext attack | Have encryption permission, can encrypt the plaintext and get the corresponding ciphertext|
-| Select ciphertext attack | Have decryption permission, can decrypt the ciphertext and get the corresponding plaintext |
-
-
 ### Cryptography Application
 Practical applications of cryptography include electronic commerce, chip-based payment cards, digital currencies, computer passwords, and military communications.
 
@@ -78,9 +70,9 @@ Other applications include:
 7. End-to-end encryption
 
 
-
-## 🧮 Cryptography Foundations
+### 🧮 Mathematical Foundations of Cryptography: Number Theory
 ↗ [Elementary Theory of Numbers](../../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
 
 
 
@@ -102,15 +94,13 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 
 
 ### 2️⃣ Modern Cryptography （近代密码学）
-The Communication Theory of Secret Systems, C.E.Shannon
+> 📄 The Communication Theory of Secret Systems, C.E.Shannon
 
 
 ### 3️⃣ Contemporary Cryptography （现代密码学,公钥密码）
-
 > 💡 Terms "modern" and "contemporary" here are just a distinction of timeline in Cryptography's development. In most cases, they are both referred simply as "Modern Cryptography".
 
-
-New Directions in Cryptography, W.Diffie, M.Hellman
+> 📄 New Directions in Cryptography, W.Diffie, M.Hellman
 
 > ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 #### Symmetric Key Cryptography
@@ -135,7 +125,8 @@ Digital Signature is an implementation of asymmetric cryptography.
 
 
 ### 4️⃣ Quantum Cryptography
-#TODO 
+> ↗ [Quantum Cryptography](Quantum%20Cryptography/Quantum%20Cryptography.md)
+
 
 
 ## Prototype of Cryptography

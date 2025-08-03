@@ -13,7 +13,7 @@
 
 ## LS Algorithms
 ### Dijkstra Single Source Shortest Path (Dijkstra SSSP)
-↗ [Dijkstra Algorithm](../../../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Graph/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Dijkstra%20Algorithm.md)
+↗ [Dijkstra Algorithm](../../../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Graphs%20(and%20Trees)%20Problems/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Dijkstra%20Algorithm.md)
 
 
 

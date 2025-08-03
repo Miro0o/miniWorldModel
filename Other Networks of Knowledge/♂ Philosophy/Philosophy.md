@@ -11,6 +11,8 @@
 
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
 
+↗ [中国共产党思想体系](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党/中国共产党思想体系/中国共产党思想体系.md)
+
 
 ### Other Resources
 #### Online Resources
@@ -34,10 +36,23 @@ Major branches of philosophy are [epistemology](https://en.wikipedia.org/wiki/E
 
 Philosophers use a great variety of methods to arrive at philosophical knowledge. They include [conceptual analysis](https://en.wikipedia.org/wiki/Conceptual_analysis "Conceptual analysis"), reliance on [common sense](https://en.wikipedia.org/wiki/Common_sense "Common sense") and [intuitions](https://en.wikipedia.org/wiki/Intuition "Intuition"), use of [thought experiments](https://en.wikipedia.org/wiki/Thought_experiments "Thought experiments"), analysis of [ordinary language](https://en.wikipedia.org/wiki/Ordinary_language "Ordinary language"), [description of experience](https://en.wikipedia.org/wiki/Phenomenology_\(philosophy\) "Phenomenology (philosophy)"), and [critical questioning](https://en.wikipedia.org/wiki/Socratic_questioning "Socratic questioning"). Philosophy is related to many other fields, including the sciences, [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), [business](https://en.wikipedia.org/wiki/Business "Business"), [law](https://en.wikipedia.org/wiki/Law "Law"), and [journalism](https://en.wikipedia.org/wiki/Journalism "Journalism"). It provides an [interdisciplinary](https://en.wikipedia.org/wiki/Interdisciplinary "Interdisciplinary") perspective and studies the scope and fundamental concepts of these fields. It also investigates their methods and ethical implications.
 
+> 🔗 https://en.wikipedia.org/wiki/Outline_of_philosophy
+> outline of philosophy
+> - Branches of philosophy
+> - Philosophic traditions by region
+> - History of philosophy
+> - Philosophical schools of thought
+> - Philosophical literature
+
 
 
 ## World's  Major Philosophical Thoughts by Chronology
 
 
 
+## Important Topcis in Philosophy
+
+
+
 ## Ref
+[自然哲学 ｜ wiki]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6

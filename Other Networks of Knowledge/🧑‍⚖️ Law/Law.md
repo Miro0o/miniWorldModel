@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Philosophy of Law (Jurisprudence)](../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Law%20(Jurisprudence)/Philosophy%20of%20Law%20(Jurisprudence).md)
+
 ↗ [Laws & Regulations in Electronic & Information Fields](../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields.md)
 
 

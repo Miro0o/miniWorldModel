@@ -224,11 +224,9 @@ void modified_halts(char *f_code) {
 2. **不同语言, 不同计算设备的计算能力.** 1936年Alan Turing设计出一种假想的计算设备称为 **[通用图灵机](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=%E9%80%9A%E7%94%A8%E5%9B%BE%E7%81%B5%E6%9C%BA&zhida_source=entity)**,  **[Church-Turing论题](https://zhida.zhihu.com/search?content_id=59575968&content_type=Answer&match_order=1&q=Church-Turing%E8%AE%BA%E9%A2%98&zhida_source=entity)** 指出如果一个函数是可计算的, 那么这个函数可以用图灵机编程去计算它. 而停机问题就是不可计算的. 虽然现在市面上有很多语言, 看上去C能直接操作底层, C的计算能力要比Java, Python这样的语言更强, 但是现在所有的语言都是**Turing完备**的, 意思是指这个语言可以被用来模拟一台通用图灵机. 因此, 任何可以用C编程出来的同样也可以用Java, Python这样的语言编程出来, 所有语言在计算能力上等价.
 3. **不存在一个完美的工具可以检测代码的运行时性质**. 比如说, 许多编译器都可以在编译过程中对代码进行静态类型检查, 以确保代码不会出现运行时的类型错误. 我们同样可以用理发师悖论证明, 不存在完美的类型检查工具, 即一定会存在一些代码, 类型检查工具会认为它有问题, 而实际这个代码不会出现运行时的类型错误. 对停机问题的研究可以作为我们做实际问题的指导.
 
-
 **参考文献**
 [1]. Alan Turing. On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, Series 2, Volume 42 (1937), pp 230–265.
 [2]. Robert Soare. Turing oracle machines, online computing, and three displacements in computability theory. Annals of Pure and Applied Logic 160.3 (2009): 368-399.
 [3]. Eric Lehman, Thomson Leighton, and Albert Meyer. Mathematics for Computer Science (2017 version). MIT. 2017.
 [4]. Udi Aharoni. Zuto: The Adventures of a Computer Virus. CreateSpace Independent Publishing Platform. 2012.
 [5]. 宋方敏. 计算模型导引. 高等教育出版社. 20121
-

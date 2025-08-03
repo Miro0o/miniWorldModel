@@ -40,8 +40,7 @@ RSA 公钥算法是由 MIT 的 Rivest, Shamir 和 Adleman 在 I978 年公开出�
 
 
 ### Primes Generations & Primality Test
-> ↗ [Primality Test](../../../../../../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Primality%20Test/Primality%20Test.md)
-> ↗ [Primality Test](../../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Primality%20Test.md)
+> ↗ [Primality Test](../../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Primality%20Test/Primality%20Test.md)
 
 现在还没有产生任意大素数的实用技术，通常使用的过程是随机选取一个需要的数量级的奇数并检验这个数是否是素数;如果不是，再重复前面的步骤直到找到了通过检验的素数为止。
 

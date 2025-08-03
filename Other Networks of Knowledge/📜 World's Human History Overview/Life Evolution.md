@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Biology](../Nature%20Science%20&%20Technology%20(Engineering)/Biology/Biology.md)
-↗ [Medicine](../Human%20Development%20&%20Social%20Science/Medicine/Medicine.md)
+↗ [Biology](../Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Biology/Biology.md)
+↗ [Health Sciences and Medicine](../Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Health%20Sciences%20and%20Medicine.md)
 
 
 ### Other Resources

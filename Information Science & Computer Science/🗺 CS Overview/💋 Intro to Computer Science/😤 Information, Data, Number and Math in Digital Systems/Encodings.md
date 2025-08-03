@@ -6,12 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Advanced%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
-↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Advanced%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
+↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
+↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 
 ↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
 
 ↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+
+↗ [Error Control & EDAC](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
 
 ### Other Resources
@@ -268,17 +270,18 @@ There are many different [numeral systems](https://en.wikipedia.org/wiki/Numera
 
 
 ### Positional Notation (Place-Value Notation)
-
+#### Positional Notation
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.53.00%20PM.png)
-#### Positional Notation Systems
+
+Som common used numeral systems in IT: (most are multiples of 2)
 1. Binary Numbering Systems
 2. Decimal Numbering Systems
 3. Octal Numbering Systems
 4. Hexadecimal Numbering Systems
-#### 💡 Converting Between Bases
-##### 1️⃣ Successful Subtraction Methods
-##### 2️⃣ Division Remainder Methods
-#### \* Non-positional notation
+##### 💡 Methods Converting Between Bases (Applicable to All Bases)
+###### 1️⃣ Successful Subtraction Methods
+###### 2️⃣ Division Remainder Methods
+#### Non-Positional Notation
 All known numeral systems developed before the [Babylonian numerals](https://en.wikipedia.org/wiki/Babylonian_numerals "Babylonian numerals") are non-positional, as are many developed later, such as the [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals "Roman numerals"). The French Cistercian monks created [their own numeral system.](https://en.wikipedia.org/wiki/Cistercian_numerals "Cistercian numerals")
 
 
@@ -288,10 +291,49 @@ All known numeral systems developed before the [Babylonian numerals](https://en
 In computing and electronic systems, **binary-coded decimal** (**BCD**) is a class of binary encodings of decimal numbers where each digit is represented by a fixed number of bits, usually four or eight. Sometimes, special bit patterns are used for a [sign](https://en.wikipedia.org/wiki/Sign_(mathematics) "Sign (mathematics)") or other indications (e.g. error or overflow).
 
 
-### RBC (Gray Code)
+### RBC (Reflected Binary Code) | Gray Code
 > 🔗 https://en.wikipedia.org/wiki/Gray_code
 
 The **reflected binary code** (**RBC**), also known as **reflected binary** (**RB**) or **Gray code** after [Frank Gray](https://en.wikipedia.org/wiki/Frank_Gray_(researcher) "Frank Gray (researcher)"), is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).
+
+> 🔗 https://cp-algorithms.com/algebra/gray-code.html
+
+Gray code is a binary numeral system where two successive values differ in only one bit.
+
+For example, the sequence of Gray codes for 3-bit numbers is: 000, 001, 011, 010, 110, 111, 101, 100, so  $G(4) = 6$ .
+
+This code was invented by Frank Gray in 1953.
+
+
+### Balanced Ternary
+> 🔗 https://cp-algorithms.com/algebra/balanced-ternary.html
+
+This is a non-standard but still positional numeral system. Its feature is that digits can have one of the values `-1`, `0` and `1`. Nevertheless, its base is still `3` (because there are three possible values). Since it is not convenient to write `-1` as a digit, we'll use letter `Z` further for this purpose. If you think it is quite a strange system - look at the picture - here is one of the computers utilizing it.
+
+So here are few first numbers written in balanced ternary:
+```
+0    0
+1    1
+2    1Z
+3    10
+4    11
+5    1ZZ
+6    1Z0
+7    1Z1
+8    10Z
+9    100
+```
+
+**This system allows you to write negative values without leading minus sign**: you can simply invert digits in any positive number.
+```
+-1   Z
+-2   Z1
+-3   Z0
+-4   ZZ
+-5   Z11
+```
+
+Note that a negative number starts with `Z` and positive with `1`.
 
 
 ### Precision Number /Float Type

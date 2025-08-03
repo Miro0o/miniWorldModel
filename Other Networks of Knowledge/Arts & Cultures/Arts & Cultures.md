@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Philosophy of Arts (Aesthetics)](../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
 ↗ [World's Arts & Humanities History](../📜%20World's%20Human%20History%20Overview/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
 
 ↗ [U.S. Cultures](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)

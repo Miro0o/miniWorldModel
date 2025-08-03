@@ -76,7 +76,8 @@ Anti-fragile: Things That Gain From Disorder
 
 ###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
 
-
+###### 从知识到科学
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ##### 信息（计算、传输、储存）的自动化：智能（狭义的智能）
 ###### 从人脑智能到人工智能：计算机科学
 
