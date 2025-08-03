@@ -17,9 +17,9 @@
 - ↗ [Encodings](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 
-↗ [Mathematical Logics](🤼‍♀️%20Mathematical%20Logics/Mathematical%20Logics.md)
-	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
-	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
+	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
 

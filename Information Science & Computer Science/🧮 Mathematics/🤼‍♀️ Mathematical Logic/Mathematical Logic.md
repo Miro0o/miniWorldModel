@@ -1,4 +1,4 @@
-# Mathematical Logis
+# Mathematical Logic
 
 [TOC]
 
@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-Natural Language Logics
+↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) (logic of natural languages and formal languages)
 ↗ [Analytic Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Contemporary%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
 
 ↗ [Boolean Algebra](../🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)

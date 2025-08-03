@@ -9,7 +9,7 @@
 ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 - ↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
-- ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Information Theory](../../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 
 ↗ [Digital (Logic) Electronics Foundations](../../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)

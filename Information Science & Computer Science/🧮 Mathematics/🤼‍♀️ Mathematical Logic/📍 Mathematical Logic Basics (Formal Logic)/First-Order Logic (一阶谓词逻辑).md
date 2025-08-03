@@ -1,4 +1,4 @@
-# First-order Logic (一阶谓词逻辑)
+# First-Order Logic (一阶谓词逻辑)
 
 [TOC]
 
@@ -13,6 +13,11 @@
 
 
 ## Intro
+![](../../../../Assets/Pics/Screenshot%202025-08-04%20at%2000.38.30.png)
+
+
+
+
 ![Screenshot 2023-01-02 at 6.04.59 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.04.59%20PM.png)
 
 ![Screenshot 2023-01-02 at 6.05.32 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.05.32%20PM.png)

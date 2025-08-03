@@ -142,7 +142,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 ## 🗓️ Computer System Development History
 ### Computer System Theory Development
 #### 0️⃣ Theory of Computation /Mathematical Model of General Computation and Turing Machine
-↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ![|250](../../../Assets/Pics/Pasted%20image%2020241010164346.png)
 ![|250](../../../Assets/Pics/Pasted%20image%2020241010164423.png)
