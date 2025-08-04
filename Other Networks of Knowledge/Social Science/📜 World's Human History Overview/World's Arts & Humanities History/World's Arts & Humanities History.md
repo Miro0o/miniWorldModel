@@ -11,6 +11,8 @@
 
 ↗ [Arts & Cultures](../../../Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 
+↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+
 
 ### Other Resources
 wikipedia

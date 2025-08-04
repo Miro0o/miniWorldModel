@@ -127,7 +127,7 @@ Anti-fragile: Things That Gain From Disorder
 	- 运算能力的提升，但仍局限在逻辑上的运算
 - 想象中的人工智能：计算机科学的长期发展目标之一
 	- 运算能力的突破，使具备情感上的运算
-		- 奇点突破，从此具有自我意识
+		- 突破奇点，从此具有自我意识
 	- 此时达到接近人脑智能（情感+逻辑）的水平
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
 ##### 主体视角下的宇宙：物质，能量，信息
@@ -138,6 +138,8 @@ Anti-fragile: Things That Gain From Disorder
 	- 广义上的智能，既能思考（人脑智能），也能行动（人体体能）
 		- 人脑智能（思考 = 情感 + 逻辑）≈ 人工智能（计算 = 情感（？） + 逻辑）
 		- 人体体能（行动）≈ 机器人（机械运动）
+
+
 ### 发展
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 

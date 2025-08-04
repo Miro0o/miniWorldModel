@@ -14,6 +14,11 @@
 
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 ↗ [U.S. History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
+↗ [European History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/📜%20European%20History%20Overview/European%20History%20Overview.md)
+↗ [Russia History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
+↗ [Japanese History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
+↗ [Korean History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
+↗ [Iran History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20History%20Overview/Iran%20History%20Overview.md)
 
 
 ### Books & Courses

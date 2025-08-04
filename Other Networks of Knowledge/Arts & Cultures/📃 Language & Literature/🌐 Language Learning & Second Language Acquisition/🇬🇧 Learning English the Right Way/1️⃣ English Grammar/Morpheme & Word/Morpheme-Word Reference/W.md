@@ -2254,21 +2254,35 @@
 			7. provincialis
 		6. provinces
 	9. convince
-		1. _v._ [persuade](dic://persuade)
+		1. victory（胜利）：胜利女神维多利亚  
+		2. 在罗马神话中，胜利女神被称为维多利亚（Victoria），在拉丁语中就是“胜利”的意思，源自拉丁动词vincere（征服、战胜）的过去分词。英语词根vinc-（征服）和单词victory（胜利）都来源于此。  
+			1. vinc-：征服，战胜  
+			2. Victoria： [vɪk'tɔːrɪə] n.维多利亚，胜利女神  
+			3. Victor：['vɪktɚ] n.维克托，胜利者  
+			4. Vincent： ['vɪnsnt] n. 文森特，胜利的  
+			5. victory： ['vɪkt(ə)rɪ] n.胜利  
+			6. victorious： [vɪk'tɔrɪəs] adj. 胜利的；凯旋的  
+			7. vincible：['vɪnsəbl] adj.可征服的，易征服的  
+			8. invincible： [ɪn'vɪnsəbl] adj. 无敌的；不能征服的  
+			9. convince：[kən'vɪns] vt.说服，使确信  
+			10. province： ['prɑvɪns] n. 省；（古罗马）行省，意为“被征服的区域”
+		3.  con-,表强调，-vinc,胜利，词源同 evince,victory.即战胜，使信服。
+		4. _v._ [persuade](dic://persuade)
 			1. [induce](dic://induce) 指用讲道理来使某人做某事。  
 			2. [persuade](dic://persuade) 普通用词，指通过劝说、感情交流等而使对方做劝说者所希望的事。  
 			3. [urge](dic://urge) 语气强，指不断地热情地规劝诱导。  
 			4. [convince](dic://convince) 指凭行动、事实或言语使他人从思想感情上信服。  
 			5. [counsel](dic://counsel) 较正式用词，指对一些较重大事情所提出的劝告。有时也用于非正式场合，但仍强调严肃的一面。  
 			6. [coax](dic://coax) 指用好话善意或耐心劝诱、哄骗某人做某事。
-		2. **persuade**说服，劝说;**dissuade**劝阻，劝止;**prove**证明;**reassure**使…安心，使消除疑虑;**entice**诱使;**tell**告诉，说;**try**试验;**compel**强迫，迫使;**pretend**假装;**decide**决定;**trying**难受的;
-		3. unconvinced
-		4. inconvincible
-		5. convincing
-		6. convincible
-		7. convinced
-	10. victor, victress
-	11. vanquish
+		5. **persuade**说服，劝说;**dissuade**劝阻，劝止;**prove**证明;**reassure**使…安心，使消除疑虑;**entice**诱使;**tell**告诉，说;**try**试验;**compel**强迫，迫使;**pretend**假装;**decide**决定;**trying**难受的;
+		6. unconvinced
+		7. inconvincible
+		8. convincing
+			1. (convincing, compelling, persuasive, reasoned, authoritative, definitive, cogent)
+		9. convincible
+		10. convinced
+	21. victor, victress
+	22. vanquish
 		1. vt. 完全征服, 彻底击败, 战胜
 		2. _v._ [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat)
 		3. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce)
@@ -2278,7 +2292,7 @@
 		7. vanquishable
 		8. unvanquished
 		9. unvanquishable
-	12. victory
+	23. victory
 		1. victorious
 			1. victoriousness
 			2. victoriously

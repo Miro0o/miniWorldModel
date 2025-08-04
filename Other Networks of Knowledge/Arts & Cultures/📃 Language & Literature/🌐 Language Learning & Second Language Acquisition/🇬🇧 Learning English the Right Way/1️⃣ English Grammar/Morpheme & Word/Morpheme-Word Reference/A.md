@@ -610,37 +610,47 @@
 			7. axiomatical
 	3. chronaxia, chronaxie, chronaximeter
 17. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
-	1. coagulant
+	1. coagulant [美 /ko'ægjələnt/](cmd://Speak/_us_/coagulant)
 		1. n. 凝结剂,
+		2. coagul-凝聚 + -ant表名词。
 		3. **coagulation**凝结;**clotting**凝血;**slurry**泥浆;**albumin**白蛋白，清蛋白;**surfactant**表面活性剂;**urea**尿素;**hydroxide**氢氧化物;**platelet**血小板;**recombinant**重组器官;**soluble**可溶的，可溶解的;**effluent**流出物;
 		4. **clotting**凝血;**platelet**血小板;**thrombosis**血栓形成;**clot**凝块;**enzymatic**酶的;**albumin**白蛋白，清蛋白;**plasma**等离子体;**cytokine**细胞因子;**hydrolysis**水解;**ablation**切除;**venous**静脉的;
-		5. coagulum
-		6. coagulate
-			1. _v._ [change state](dic://change state), [turn](dic://turn), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-			2. _adj._ [thick](dic://thick)
-			3. _n._ [thin](dic://thin)
-			4. **dissolve**使溶解;**clot**凝块;**precipitate**沉淀;**thicken**使变厚;**clotting**凝血;**evaporate**蒸发;**blood**血，血液;**dissipate**驱散;**disperse**使散开;**boil**煮沸，沸腾;**bloodstream**血流;
-			5. adrenalin coagulates the blood. /肾上腺素使血液凝结。
-			6. Blood coagulates when it meets air. /血液接触空气就会凝结。
-		7. procoagulant, polycoagulant, decoagulant, anticoagulant
-		8. coagulatory, coagulator, coagulative, coagulation
-		9. coagulating
-		10. coagulability
-		11. 
-	3. coagent (coagent, cogent, cotangent, contingent, collagen)
+		5. The author outlines the type, characteristics of coagulant popularly used; especialy discusses the application conditions and extents of polyacrylamide, polyiron sulfate and poly alum. /介绍了目前应用的凝聚剂的种类、性质,较详尽的论述了聚丙烯酰胺、聚合铁和聚合铝高分子化合物的使用条件和应用范围。
+		6. coagulum
+		7. coagulate [美 /koʊ'æɡjuleɪt/](cmd://Speak/_us_/coagulate)
+			1. coagul-凝聚 + -ate, 表动词 → 凝聚起来。
+			2.  co-,表强调，-ag,做，驱动，见 agent.即驱动到一起，凝结。
+			3. _v._ [change state](dic://change state), [turn](dic://turn), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			4. _adj._ [thick](dic://thick)
+			5. _n._ [thin](dic://thin)
+			6. **dissolve**使溶解;**clot**凝块;**precipitate**沉淀;**thicken**使变厚;**clotting**凝血;**evaporate**蒸发;**blood**血，血液;**dissipate**驱散;**disperse**使散开;**boil**煮沸，沸腾;**bloodstream**血流;
+			7. adrenalin coagulates the blood. /肾上腺素使血液凝结。
+			8. Blood coagulates when it meets air. /血液接触空气就会凝结。
+			9. 
+		8. procoagulant, polycoagulant, decoagulant, anticoagulant
+		9. coagulatory, coagulator, coagulative, coagulation
+		10. coagulating
+		11. coagulability
+		12. 
+	2. coagent (coagent, cogent, cotangent, contingent, collagen)
 		1. _[coagent](dic://coagent)_  n. 帮手；伙伴；合作者
-	4. cogency, cogent
+	3.  cogent
 		1. (coagent, cogent, cotangent, contingent, collagen)
 		2. (convincing, compelling, persuasive, reasoned, authoritative, definitive, cogent)
 		3. a. 有说服力的；令人信服的
-		4. co-强调 + ag-驱动，做，词源同agent。
-		5. **succinct**简洁的;**compelling**引人注目的;**eloquent**雄辩的，有口才的;**persuasive**能说服的;**concise**简明的，简洁的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**articulate**发音清晰的;**reasoned**详尽论述的;**rebuttal**反驳;**convincing**令人相信的;
-		6. cogently
-	6. cache
+		4. adj. 有说服力的，令人信服的；清晰的，合乎逻辑的
+		5. co-强调 + ag-驱动，做，词源同agent。
+		6. **succinct**简洁的;**compelling**引人注目的;**eloquent**雄辩的，有口才的;**persuasive**能说服的;**concise**简明的，简洁的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**articulate**发音清晰的;**reasoned**详尽论述的;**rebuttal**反驳;**convincing**令人相信的;
+		7. She put forward some **cogent** reasons for abandoning the plan. /她为放弃这个计划提出了一些具有说服力的理由。
+		8. Hamilton, noting that the eggs develop within their host—the larva of another insect—and that the newly emerged adult wasps mate immediately and disperse, offered a remarkably **cogent** analysis. /汉密尔顿指出，黄蜂卵在寄主即另一种昆虫的幼虫内发育，新出现的成年黄蜂立即交配并四散，这提供了一个非常有说服力的分析。
+		9. There are those who have argued and indeed cogently, that on occasion there are some things it is better for a Minister not to know. /有人曾经非常中肯地说过有必要时，某些事情大臣还是不知道的好。
+		10. cogency
+		11. cogently
+	4. cache
 		1. caching
 		2. cacheable
 		3. microcache
-	7. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet)  
+	5. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet)  
 		1.  (bouquet, banquet cachet, crotchet, crochet, coquet, ratchet)
 		2. n. 公章, 私人印戳, 标记, 威望, 纪念邮戳
 		3. n. （证明品质的）优良标志；公务印章；私人印戳；标记；威望；纪念邮戳
@@ -655,7 +665,7 @@
 		12. Additionally, the name has some serious cultural cachet. /还有，这个名字还有一些正宗的文化纪念意味
 		13. In Los Angeles, Hollywood still confers cachet. /在洛杉矶，好莱坞仍然享有声望。
 		14. When a job lacks cachet, renaming it can lessen stigma and signal that an employer takes the position seriously. /当一份工作缺乏声望时，重新命名可以减少耻辱感，并表明雇主认真对待该职位。
-	8. coagulopathy
+	6. coagulopathy
 #### + \*ag- (2) +
 1. **ag-, ig-** 表示“说”。源自拉丁语。
 	1. adage

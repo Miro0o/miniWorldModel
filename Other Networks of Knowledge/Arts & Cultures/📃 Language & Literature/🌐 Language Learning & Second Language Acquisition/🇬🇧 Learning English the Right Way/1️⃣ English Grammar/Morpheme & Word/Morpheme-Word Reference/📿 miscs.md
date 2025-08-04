@@ -1724,7 +1724,7 @@ bound
 	- artificialboundary
 - bark-bound
 
-bouquet (bouquet, banquet cachet, crotchet, coquet, ratchet) (spray)
+bouquet (bouquet, banquet cachet, crotchet, coquet, coquet, ratchet) (spray)
 - 来自拉丁语 boscus,灌木，灌木花，词源同 bush.-et,小词后缀。
 - n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
 - [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
