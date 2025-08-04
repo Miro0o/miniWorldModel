@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [World's Human History Overview](../../../../📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-↗ [Life Evolution](../../../../📜%20World's%20Human%20History%20Overview/Life%20Evolution.md)
+↗ [World's Human History Overview](../../../../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Life Evolution](../../../../Social%20Science/📜%20World's%20Human%20History%20Overview/Life%20Evolution.md)
 
 ↗ [Health Sciences and Medicine](../../../Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Health%20Sciences%20and%20Medicine.md)
 

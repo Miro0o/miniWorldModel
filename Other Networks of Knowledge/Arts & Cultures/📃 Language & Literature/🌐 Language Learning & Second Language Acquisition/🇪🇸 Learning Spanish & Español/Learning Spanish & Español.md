@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Spain 🇪🇸 & Portugal 🇵🇹](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 
 
 ### Other Resources

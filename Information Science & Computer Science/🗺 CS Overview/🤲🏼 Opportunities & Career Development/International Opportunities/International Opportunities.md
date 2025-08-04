@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Politics & Demography](../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-↗ [Living Tips & Basics Abroad China 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/Living%20Tips%20&%20Basics%20Abroad%20China%20🇨🇳.md)
+↗ [Politics & Demography](../../../../Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Living Tips & Basics Abroad China 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/Living%20Tips%20&%20Basics%20Abroad%20China%20🇨🇳.md)
 
 ↗ [Learning English the Right Way](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 
-↗ [United States 🇺🇸](../../../../Other%20Networks%20of%20Knowledge/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [United States 🇺🇸](../../../../Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 
 ### Forums

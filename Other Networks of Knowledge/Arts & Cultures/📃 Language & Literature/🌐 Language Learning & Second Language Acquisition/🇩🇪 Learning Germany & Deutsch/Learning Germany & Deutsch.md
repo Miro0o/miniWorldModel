@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Germany 🇩🇪](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
+↗ [Germany 🇩🇪](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
 
 
 ### Other Resources

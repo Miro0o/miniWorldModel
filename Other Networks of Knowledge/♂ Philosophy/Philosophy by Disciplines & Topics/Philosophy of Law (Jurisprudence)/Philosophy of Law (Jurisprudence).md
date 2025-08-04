@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Law](../../../🧑‍⚖️%20Law/Law.md)
+↗ [Law](../../../Social%20Science/🧑‍⚖️%20Law/Law.md)
 
 
 

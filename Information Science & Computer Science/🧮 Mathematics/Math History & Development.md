@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [World's Science & Technology History](../../Other%20Networks%20of%20Knowledge/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+↗ [World's Science & Technology History](../../Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 
 
 ### Other Resources

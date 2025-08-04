@@ -12,7 +12,7 @@
 ↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 - ↗ [Music](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music.md)
 ↗ [Natural Science & Engineering & Technology](../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
 ↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
