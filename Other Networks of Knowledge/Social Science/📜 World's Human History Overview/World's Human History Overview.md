@@ -38,6 +38,19 @@ by Sebastian Adams (Author)
 _**The Story of Mankind**_ is a book written and illustrated by Dutch-American journalist, professor, and author [Hendrik Willem van Loon](https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon "Hendrik Willem van Loon"). It was published in 1921. In 1922, it was awarded the [Newbery Medal](https://en.wikipedia.org/wiki/Newbery_Medal "Newbery Medal") for an outstanding contribution to [children's literature](https://en.wikipedia.org/wiki/Children%27s_literature "Children's literature"). This was the first year the Newbery Medal was awarded.
 ... 他的作品中，以《人類的故事》、《寬容》、《聖經的故事》最為著名。至1920年代末期，他已積累到一定財富，在美國和歐洲購置了房產，不再受限於經濟問題，於是可以自由地從事創作和社會活動了,直至1946年去世。他為世人留下了30多部作品，其中《聖經的故事》、《人類的故事》、《寬容》並列為房龍的三大名著，自出版以來，一直倍受讚譽傳讀不衰。
 
+📖 https://www.amazon.com/Mediterranean-World-Age-Philip-Vol/dp/0520203089
+https://www.marxists.org/chinese/pdf/politicaleconomics/4.pdf#
+The Mediterranean and the Mediterranean World in the Age of Philip II
+The focus of Fernand Braudel's great work is the Mediterranean world in the second half of the sixteenth century, but Braudel ranges back in history to the world of Odysseus and forward to our time, moving out from the Mediterranean area to the New World and other destinations of Mediterranean traders. Braudel's scope embraces the natural world and material life, economics, demography, politics, and diplomacy.
+
+Sapiens: A Brief History of Humankind | Yuval Noah Harari
+本书主要从自然科学特别是演化生物学的角度介绍了人类的历史。赫拉利认为生物学限定了人类活动的极限，而文化则塑造了在极限以内所发生的事情。历史学科则是对文化变迁的记录。
+赫拉利在本书中，将从石器时代至今天智人的演化历史分为了四个阶段：
+- 认知革命 (约公元前70,000年，智人演化产生了想象力)
+- 农业革命 (约公元前10,000年，农业开始发展)
+- 人类的融合统一 (人类政治组织逐渐融合统一为一个“全球帝国”)
+- 科学革命 (约公元1500年至今，出现了现代科学)
+
 
 ### Online Resources
 👍 👍 https://www.si.edu/

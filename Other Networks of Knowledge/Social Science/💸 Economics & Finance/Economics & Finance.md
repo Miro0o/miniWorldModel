@@ -43,6 +43,12 @@ https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.
 [Investopedia](https://www.investopedia.com/)
 [the Economist](https://www.economist.com/)
 
+[👍 洋同学的宏观笔记](https://zhengceku.fun)
+
+1、完整的、一手的信息：本站内容除资讯评论外，都是官方完整的、一手的信息，没有经过媒体的掐头去尾。 分析政策信息，一定要阅读官方完整的、一手的内容，只有这里才有完整的语境和情绪。其他财经网站，为了用户的可读性，只是截取其中片段，这就一定程度上舍弃了内容的准确性，很容易产生误导，甚至颠倒黑白；
+2、小而美：没有冗杂信息干扰，每天不定时更新（我自己看完之后会顺手更新上），看完就基本不用看其他宏观政策方面的资讯了，在宏观政策方面，财经媒体也基本都是从这些内容中截取报道的。
+3、分类、标签、标注：按照重要部门进行了分类，按行业和主要内容打了标签，对重要内容会进行标准，读者如果时间仓促，可以只阅读标注内容。
+
 
 
 ## ⛱ Intro: Economics
@@ -476,4 +482,6 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 [ 2024年CFA备考资料收集（整理版）｜ 知乎]: https://zhuanlan.zhihu.com/p/409044958
 
 [中华人民共和国职业分类大典]: http://www.789career.com/content-277-294-1.html
+
+[想训练一个宏观市场的 GPTs？不妨收下这 28 份 2024 全球资本市场展望报告｜好物精选特刊]: https://next.iois.me/gpts-macro-market-28-global-capital-outlook-2024/
 

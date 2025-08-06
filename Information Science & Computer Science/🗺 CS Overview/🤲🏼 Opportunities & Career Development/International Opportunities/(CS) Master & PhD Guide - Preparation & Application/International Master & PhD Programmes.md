@@ -10,8 +10,6 @@
 ↗ [Academics](../../../../Academics%20🎓/Academics.md)
 ↗ [Academic Research Groups - Profiles & Vacancies](../../../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies.md)
 
-↗ [Natural Science Information](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
-
 ↗ [FAQ - Academia and Research](../../../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
 ↗ [给各位天命人的劝退信](../../../../Academics%20🎓/Appendix/给各位天命人的劝退信.md)
 

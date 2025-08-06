@@ -10,6 +10,10 @@
 
 
 ### Other Resources
+https://www.marxists.org
+marxists
+https://www.marxists.org/chinese/index.html
+中文马克思主义文库
 
 
 
