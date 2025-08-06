@@ -11,7 +11,10 @@
 
 ↗ [Arts & Cultures](../../../Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 
-↗ [中华文明（汉族）历史概况](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中国人文艺术史](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中国人文艺术史/中国人文艺术史.md)
+↗ [European Arts & Humanity History](European%20Arts%20&%20Humanity%20History/European%20Arts%20&%20Humanity%20History.md)
+↗ [U.S. Arts & Humanity History](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Arts%20&%20Humanity%20History/U.S.%20Arts%20&%20Humanity%20History.md)
+↗ [Russia Arts & Humanity History](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20Arts%20&%20Humanity%20History/Russia%20Arts%20&%20Humanity%20History.md)
 
 
 ### Other Resources

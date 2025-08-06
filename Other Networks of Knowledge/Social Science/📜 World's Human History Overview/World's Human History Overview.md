@@ -14,11 +14,11 @@
 
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 ↗ [U.S. History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
-↗ [European History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/📜%20European%20History%20Overview/European%20History%20Overview.md)
+↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
 ↗ [Russia History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
 ↗ [Japanese History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
 ↗ [Korean History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
-↗ [Iran History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20History%20Overview/Iran%20History%20Overview.md)
+↗ [Iran History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
 
 
 ### Books & Courses
@@ -215,7 +215,7 @@ Today in history
 
 
 
-## Pre-History
+## 0️⃣ Pre-History
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%89%8D%E6%99%82%E4%BB%A3
 
 **史前时代**，意即有[历史记载](https://zh.wikipedia.org/wiki/%E6%AD%B7%E5%8F%B2%E8%A8%98%E8%BC%89 "历史记载")之前的时代，一般是指[人类](https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E "人类")出现[文字](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97 "文字")之前的时代。由于各地人类发明文字的时间都有不同，所以史前时代没有一个广泛适用于各地的特定时间。但是，作为一个泛称，史前时代通常指公元前4000年以前的时期。举例，尚未发现文字记载的[石器时代](https://zh.wikipedia.org/wiki/%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3 "石器时代")（前250万年－前4000年）是史前时代，[青铜器时代](https://zh.wikipedia.org/wiki/%E9%9D%92%E9%8A%85%E5%99%A8%E6%99%82%E4%BB%A3 "青铜器时代")（前4000年－各地不同时期完结）以后有文字记载之起就可称为[信史](https://zh.wikipedia.org/wiki/%E4%BF%A1%E5%8F%B2 "信史")时期。例如中国的[五帝](https://zh.wikipedia.org/wiki/%E4%BA%94%E5%B8%9D "五帝")和[夏朝](https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%9C%9D "夏朝")就是史前时代，而[商朝](https://zh.wikipedia.org/wiki/%E5%95%86%E6%9C%9D "商朝")人则使用[甲骨文](https://zh.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87 "甲骨文")和[金文](https://zh.wikipedia.org/wiki/%E9%87%91%E6%96%87 "金文")，甚至已经有“作册”等[史官](https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%AE%98 "史官")在[竹简](https://zh.wikipedia.org/wiki/%E7%AB%B9%E7%AE%80 "竹简")[帛书](https://zh.wikipedia.org/wiki/%E5%B8%9B%E4%B9%A6 "帛书")上记载历史，故而中国从商朝开始就是信史。
@@ -592,8 +592,13 @@ See also
 ↗ [Chinese Language & 中文](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
-
-#### Hindustani (Madhya deśa, 摩陀耶提舍, 中天竺)
+#### Machu | 满
+####  Zang /Tibetan | 藏
+#### Moghols | 蒙
+↗ [Mongolia 🇲🇳](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
+↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+- ↗ [元](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
+#### Madhya Deśa「摩陀耶提舍, 中天竺」 (Hindustani)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
 
 印度斯坦族（英語：Hindustani people，又译「兴都斯坦人」）是英屬印度對北印度平原地區諸多文化相近的族群的通稱。這些民族均自認摩陀耶提舍人（天城體梵文：मध्यदेशी/मध्यदेशिक Madhyadeśī/Madhyadeśīka），是世界人口排名第二的民族（天城體梵文：राष्ट्र rāṣṭra；英語：nation）。摩陀耶提舍人均反對外界將他們歸爲單一的族群（印地語：जाति，羅馬化：jāti；英語：ethnic），同時在印度區分民族的概念不強（印度人常將全體印度國籍者無論族源劃爲同一個民族以混肴國籍與民族的差別），==因此“印度斯坦族”這一概念在印度被當做不列顛人強加在印度人身上的概念而不再使用==。印度斯坦族是印度十大民族中人口最多的一个民族，占印度总人口的46.3%，說印地语和其它方言（如乌尔都语、旁遮普语等等）为主。他们当中多数是印度教、伊斯兰教和锡克教教徒，少数信奉基督宗教、佛教和耆那教。
@@ -628,8 +633,6 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ↗ [Korea 🇰🇵 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
 - ↗ [North Korea 🇰🇵](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
 - ↗ [South Korea 🇰🇷](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
-#### Moghols
-↗ [Mongolia 🇲🇳](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
 #### Thais
 ↗ [Thailand 🇹🇭](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
 #### Greeks
@@ -677,7 +680,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 #### Berbers /Amazighs
 
-#### Turks
+#### Turks /Turkish
 
 #### Persians
 ↗ [Arabic Languages & اللغة العربية](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
@@ -686,39 +689,50 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 
-## Word's Ancient History & Major Ancient Civilizations
-### Ancient Egypt
+## 1️⃣ Word's Ancient History
+### The Nile River Delta
 > 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
 
 
-### Ancient Mesopotamia
+### Mesopotamia
 > 🔗 https://en.wikipedia.org/wiki/Mesopotamia
 
 
-### Ancient India
+### Indus Valley
 > 🔗 https://en.wikipedia.org/wiki/History_of_India
+> ↗ [Indian History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
 
 
-### Ancient China
+###  The Yellow River and The Changjiang (Yangtze) River
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 
 
-### Ancient Greece & Rome
+### Crete Island
 
 
-### Ancient Maya
+### Ancient America
 
 
-
-## 15th ~ WWII: Globalization and Colonization
-
+### Ancient Sub-Sahara Africa
 
 
-## WWII ~ 1991: The Globe Under Cold War
+### Ancient Oceania
 
 
 
-## Post Cold-War and 21th Century: De-globalization
+## 2️⃣ 1492 ~ 1776: Globalization and Colonization
+
+
+
+## 3️⃣ 1776 ～ 1945: Imperialism & Defiance
+
+
+
+## 4️⃣ 1945 ~ 1991: The Globe Under Cold War
+
+
+
+## 5️⃣ Post Cold-War and $21^{th}$ Century: De-globalization
 ### U.S. Supremacy & Americanization
 ↗ [U.S. Military Forces](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
 
@@ -739,7 +753,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ### The Revolution of Information Technology
 
 
-### 21th Century: New Challenges & Opportunities
+### $21^{th}$ Century: New Challenges & Opportunities
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 #### UN Agenda 21 & SDG
 https://sdgs.un.org/
@@ -776,3 +790,4 @@ https://sdgs.un.org/
 [全文丨人类文明新形态的世界意义 | 新华社]: https://www.news.cn/world/20241112/4e80b814695440819eb82d49a8d81bc2/c.html
 [當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社]: http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
 
+[世界殖民地独立时间列表 | wikipedia]: https://zh.wikipedia.org/zh-cn/%E4%B8%96%E7%95%8C%E6%AE%96%E6%B0%91%E5%9C%B0%E7%8B%AC%E7%AB%8B%E6%97%B6%E9%97%B4%E5%88%97%E8%A1%A8

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Sony](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/📌%20Electronics%20&%20Appliances/Sony.md)
+↗ [Sony](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Electronics%20&%20Appliances/Sony.md)
 
 
 ### Other Resources

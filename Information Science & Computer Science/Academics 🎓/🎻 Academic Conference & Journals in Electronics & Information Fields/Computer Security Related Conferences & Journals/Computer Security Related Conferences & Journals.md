@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Security Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+↗ [Security Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 ↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
 
 

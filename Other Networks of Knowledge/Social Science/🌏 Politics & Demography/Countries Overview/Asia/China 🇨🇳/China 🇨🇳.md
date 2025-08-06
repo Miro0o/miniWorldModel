@@ -26,6 +26,9 @@ https://www.gov.cn/guoqing/index.htm
 中国大百科全书
 - https://www.zgbk.com
 
+国家地理信息公共服务平台
+https://www.tianditu.gov.cn/
+
 中国教育考试网
 - https://www.neea.cn
 

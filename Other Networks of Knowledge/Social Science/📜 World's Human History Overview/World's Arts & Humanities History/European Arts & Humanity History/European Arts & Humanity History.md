@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [World's Arts & Humanities History](../../../../../../📜%20World's%20Human%20History%20Overview/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
-↗ [U.S. Arts & Humanity History](../../../../America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Arts%20&%20Humanity%20History/U.S.%20Arts%20&%20Humanity%20History.md)
-↗ [Russia Arts & Humanity History](../../../Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20Arts%20&%20Humanity%20History/Russia%20Arts%20&%20Humanity%20History.md)
+↗ [U.S. Arts & Humanity History](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Arts%20&%20Humanity%20History/U.S.%20Arts%20&%20Humanity%20History.md)
+↗ [Russia Arts & Humanity History](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20Arts%20&%20Humanity%20History/Russia%20Arts%20&%20Humanity%20History.md)
 
 
 ### Other Resources

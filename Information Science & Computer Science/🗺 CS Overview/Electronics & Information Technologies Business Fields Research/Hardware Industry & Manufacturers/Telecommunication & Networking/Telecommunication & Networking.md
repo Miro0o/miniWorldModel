@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Huawei](../../📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Huawei.md)
+↗ [Huawei](../../📌%20Comprehensive%20IT%20Service%20Providers/Huawei.md)
 
 
 

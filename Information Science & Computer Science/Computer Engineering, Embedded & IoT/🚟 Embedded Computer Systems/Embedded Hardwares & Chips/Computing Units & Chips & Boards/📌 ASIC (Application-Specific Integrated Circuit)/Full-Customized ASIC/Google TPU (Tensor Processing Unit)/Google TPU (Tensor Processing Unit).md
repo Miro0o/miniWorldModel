@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [Google TPU (Tensor Processing Unit)](Google%20TPU%20(Tensor%20Processing%20Unit).md)
-↗ [Google](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
+↗ [Google](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Google.md)
 
 
 

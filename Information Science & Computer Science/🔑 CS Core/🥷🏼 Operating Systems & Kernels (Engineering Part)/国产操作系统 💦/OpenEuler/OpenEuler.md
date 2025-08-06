@@ -12,7 +12,7 @@
 
 
 ### Related Topics
-↗ [Huawei](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Huawei.md)
+↗ [Huawei](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Huawei.md)
 ↗ [CentOS](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/⛑️%20Redhat%20&%20RPM%20Based%20Linux/CentOS/CentOS.md)
 ↗ [国产替代与信创产业](../../../../CyberSecurity/国产替代与信创产业.md)
 

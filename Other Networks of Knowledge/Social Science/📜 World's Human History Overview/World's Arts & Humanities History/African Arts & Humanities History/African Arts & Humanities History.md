@@ -1,4 +1,4 @@
-# European Economics & Finance History
+# African Arts & Humanities History
 
 [TOC]
 

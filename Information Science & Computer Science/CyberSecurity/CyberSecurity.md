@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 ↗ [Computer Security Related Conferences & Journals](../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
@@ -491,7 +491,7 @@ Security issues sources:
 ↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [History of Information Systems & Security Systems](History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
-↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 
 ↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
 ↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
