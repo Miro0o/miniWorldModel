@@ -8,7 +8,7 @@
 ### Related Topics
 
 
-### Other Resoruces
+### Other Resources
 📖《新编英语语法教程》 - 新世纪高等院校英语专业本科生系列教材
 ![|400](../../../../../../Assets/Pics/49bb5539d6b84958.jpg)
 <small>https://item.jd.com/13254459.html</small>
@@ -170,23 +170,6 @@
 ### 4️⃣ Clause
 
 按照层次性理念，分句是建筑在词组基础上的，介乎词组与句子之间的语法单位；从逻辑意义上看，分句又是形成“主谓结构”，从而带有述说性的词组序列。
-#### Types and Functions of Clause
-Independent Clause /Dependent (Subordinate) Clause
-Simple Clause /Complex Clause
-Main Clause /Subordinate Clause
-Finite Clause /Non-finite Clause /Verbless Clause
-##### Relative Clause (关系分句) (旧作定语从句)
-在我国的语法书中，此种分句曾长期叫做“定语从句”，这是按照此种句式的主要用法命名，但是这种分句除作名词修饰语之外，还可在特定语境中起到并列分句和状语分句的作用。如果一律视为“定语从句”，则往往名不副实，在理解上起到误导作用。试观察下列诸例：
-- She passed the letter to Moriarty, **who passed it to on to me**.
-	- (= ... and Moriarty passed it on to me.)
-- I dropped the saucepan, **which knocked over the eggs, which went all over the floor**.
-	- (= ... and it knocked ... and they went ...)
-- In 1906, however, Pierre, **who was crossing a road**, was run over and killed.
-	- (= when he was crossing the road, ...)
-- But he would have to be careful not to offend Crass, the foreman, **who could give him the sack at any time**.
-	- (= ...because he could give him the sack at any time.)
-- Shortly after Lincoln took office, the Southern States rebelled and set upa state of their own, **where they would be free to keep Negroes as slaves**. 
-	- (= .. so that they would be free to keep Negroes as salves.)
 #### Structure of Clause
 ```
 Clause = Subject + Predicate
@@ -218,6 +201,23 @@ Basic Clause Types:
 - S-V-o-O
 - S-V-O-C
 ```
+#### Types and Functions of Clause
+Independent Clause /Dependent (Subordinate) Clause
+Simple Clause /Complex Clause
+Main Clause /Subordinate Clause
+Finite Clause /Non-finite Clause /Verbless Clause
+##### Relative Clause (关系分句) (旧作定语从句)
+在我国的语法书中，此种分句曾长期叫做“定语从句”，这是按照此种句式的主要用法命名，但是这种分句除作名词修饰语之外，还可在特定语境中起到并列分句和状语分句的作用。如果一律视为“定语从句”，则往往名不副实，在理解上起到误导作用。试观察下列诸例：
+- She passed the letter to Moriarty, **who passed it to on to me**.
+	- (= ... and Moriarty passed it on to me.)
+- I dropped the saucepan, **which knocked over the eggs, which went all over the floor**.
+	- (= ... and it knocked ... and they went ...)
+- In 1906, however, Pierre, **who was crossing a road**, was run over and killed.
+	- (= when he was crossing the road, ...)
+- But he would have to be careful not to offend Crass, the foreman, **who could give him the sack at any time**.
+	- (= ...because he could give him the sack at any time.)
+- Shortly after Lincoln took office, the Southern States rebelled and set upa state of their own, **where they would be free to keep Negroes as slaves**. 
+	- (= .. so that they would be free to keep Negroes as salves.)
 #### Basic Clause Types ⭐
 所谓基本句型就是分句结构的几种基本“格局”，也就是千变万化的句子的结构雏形。正是这些有限的分句结构雏形能够衍生出无限的实际中使用的句子。现代英语的基本句型有五种：
 - S-V-C
@@ -246,7 +246,7 @@ Peripheral Element
 句子是最高一级的语法单位，也是人们表达思想进行交际的基本语言单位。作为人们表达思想的基本语言单位，句子具有以下两个特征：一是句子能在交际中单独使用；二是句子能够表达相对完整的意思，并在一定上下文或语境中发挥一定的交际作用。句子建筑在分句基础上，它可以包括一个或一个以上的分句。当句子只包括一个分向时，句子和分句是没有区别的；但是，句子又不同于分句：作为最高一级的语法单位，句子的结构形式是无限的，而分向的结构形式却是有限的。==因此，当我们讲到“句子成分”、“基本句型”时，指的都是分句的成分和基本的分句句型。==
 
 ```
-The larying of a sentence:
+The larying structure of a sentence:
 
 									Sentence
 									   |
