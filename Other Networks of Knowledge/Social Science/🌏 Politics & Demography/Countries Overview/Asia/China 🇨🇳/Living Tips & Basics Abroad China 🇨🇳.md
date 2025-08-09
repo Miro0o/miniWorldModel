@@ -32,18 +32,21 @@ Immigration Medical Examination ｜ 出国移民体检
 
 57 【24fall ikea购物清单穷留版丨丢了也不心疼 - 北美6姐 | 小红书 - 你的生活指南】 😆 DBXGLPID1wfj3Nt 😆 https://www.xiaohongshu.com/discovery/item/668f401a00000000250177fc?source=webshare&xsec_token=CBMU6bkNrKe1sX0vYWBnWW77UTLZT0WQ9Aq8K-9KVJaTg=&xsec_source=pc_share
 
-1. 水果刀 /削皮刀 /剪刀
-2. 电高压力锅 /电水壶
-3. 电吹风 /电板夹
-4. 餐具 /饭盒
-5. 工具箱
-6. 床单 /被套？/衣架 ？
-7. 自行车？
-8. 雨伞
-9. 冬天衣物：
-	1. 围巾
-	2. 手套
-	3. 长袜
+- [ ] 水果刀 /削皮刀 /剪刀
+- [x] 电高压力锅 /电水壶
+- [ ] 电吹风 /电板夹
+- [x] 餐具 /饭盒
+- [ ] 工具箱
+- [ ] 床单 /被套？/衣架 ？
+- [ ] 自行车？
+- [ ] 雨伞
+- [x] 冬天衣物：
+	- [x] 围巾
+	- [x] 手套
+	- [x] 长袜
+- [x] 其他衣物
+	- [ ] 廉航马甲
+- [ ] 防盗锁
 
 ### 驾照及翻译 /公证
 36 之道发布了一篇小红书笔记，快来看吧！ 😆 e4pUoP1SfRoWGKM 😆 http://xhslink.com/a/U6Q4XSlDPIE9，复制本条信息，打开【小红书】App查看精彩内容！
