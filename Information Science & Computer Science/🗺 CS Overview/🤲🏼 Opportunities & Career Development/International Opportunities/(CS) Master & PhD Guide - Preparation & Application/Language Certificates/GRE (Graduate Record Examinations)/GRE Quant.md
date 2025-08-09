@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [数学词汇中英文对照](../../../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/数学词汇中英文对照.md)
+↗ [数学词汇中英文对照](../../../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/数学词汇中英文对照.md)
 
 GRE数学词汇大全 - 知乎用户W4VJAN的文章 - 知乎
 https://zhuanlan.zhihu.com/p/34745806

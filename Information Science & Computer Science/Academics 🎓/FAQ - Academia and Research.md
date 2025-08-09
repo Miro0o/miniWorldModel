@@ -297,7 +297,10 @@ https://www.zhihu.com/question/416261594/answer/3454868332
 总结，一个坚持只做自己口味的菜，不去迎合任何人，极度清高，看不惯老板和同门的博士，就是废了，抓紧离开学术圈吧。
 
 
-### How To PhD?
+### How To PhD? /Research?
+https://dostum.wordpress.com/wp-content/uploads/2011/07/mastering-your_-phd_.pdf
+Mastering Your PhD | Patricia Gosling Bart Noordam
+
 [UCB CS PhD第一年总结：我做对/做错了什么 - Sizhe Chen的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1022428048
 做对的
 1. 脑暴/探索数周，找到和导师共同的研究兴趣，参与两个项目，领导两个项目，其中一篇被USENIX Security接收。连续四年每年citation翻倍，前9篇中有5篇一作1篇共一

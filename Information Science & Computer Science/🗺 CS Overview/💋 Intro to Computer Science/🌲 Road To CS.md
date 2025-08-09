@@ -413,7 +413,7 @@ ACM CCS 2012
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
 ↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes/外语学习误区及真实方法.md)
+- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -610,6 +610,9 @@ The way this notebook is constructed. Just check the directories of this noteboo
 ## 🎉 More Res
 > ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
+> 
+> ↗ [My Info Lists](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/My%20Info%20Lists.md)
+> ↗ [Social Science](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 
 
 ### Generic IT Knowledge

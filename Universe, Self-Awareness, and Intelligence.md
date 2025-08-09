@@ -233,6 +233,8 @@ Anti-fragile: Things That Gain From Disorder
 https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Complex_system
 
+[论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
+
 
 
 ## 👼🏻 Human Intelligence & Human Society
@@ -403,3 +405,6 @@ The following outline provides an overview of and topical guide to academic disc
 
 [🤔 广义相对论长什么样？]: https://mp.weixin.qq.com/s/fpevCKUDSUHRmnQkXh-NWQ
 听说最近有学者以唯物主义质能观推翻了相对论，这让我想起多年前写过的一个短文，现贴出来请物理相关专业同学指教：**我象这样理解广义相对论，是对的吗**？谬误肯定多得是，好在是请教自己同学，也不怕丢面子。尤其是其中若有与马克思主义哲学相冲突之处，肯定以马克思主义为准。以下是正文：
+
+[钱学森为什么要提出系统工程论？ | 中国核工业]: http://hexuehuim.kechuangfu.com/site/content/7795.html
+[《论系统工程》钱学森等著——瞎写写读后感吧 - 李啦啦的文章 - 知乎]: https://zhuanlan.zhihu.com/p/441388381

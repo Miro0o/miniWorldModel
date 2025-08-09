@@ -12,6 +12,8 @@
 ↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 - ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
+↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
+
 
 ### Publications
 **期刊等级的划分：**

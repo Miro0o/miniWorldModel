@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [IELTS (International English Language Testing System)](../../../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/Language%20Certificates/IELTS%20(International%20English%20Language%20Testing%20System).md)
+↗ [TOEFL (Test of English as a Foreign Language)](../../../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/Language%20Certificates/TOEFL%20(Test%20of%20English%20as%20a%20Foreign%20Language).md)
 
 
 ### Learning Guides
@@ -22,6 +24,19 @@ An advanced guide to learn English which might benefit you a lot.
 
 ## Intro
 This series of posts track my path of english learning. 
+
+
+
+## English Listening & Speaking
+![English_Speaking_Practising.excalidraw | 800](../../../../../Assets/Illustrations/Language%20Learning/English_Speaking_Practising.excalidraw.md)
+
+
+
+## English Reading & Writing
+
+
+
+## English Thinking & Critical Thinking
 
 
 
