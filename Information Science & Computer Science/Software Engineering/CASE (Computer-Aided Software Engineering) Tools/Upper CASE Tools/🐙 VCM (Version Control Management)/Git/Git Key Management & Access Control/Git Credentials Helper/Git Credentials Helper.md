@@ -5,6 +5,11 @@
 
 
 ## Res
+### Related Topics
+↗ [Credential Manager & SAM (Secure Account Manager)](../../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager)/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager).md)
+
+
+### Other Resources`
 🏠 https://git-scm.com/docs/gitcredentials
 
 > Git will sometimes need credentials from the user in order to perform operations; for example, it may need to ask for a username and password in order to access a remote repository over HTTP. Some remotes accept a personal access token or OAuth access token as a password. This manual describes the mechanisms Git uses to request these credentials, as well as some features to avoid inputting these credentials repeatedly.

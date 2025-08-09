@@ -59,7 +59,7 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 
 ## 🧸 Github Extensions
 ### 👉 `GCM`
-↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
+↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Control/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
 
 
 ### 👉 `GitHubpage` | `GithubBook`
