@@ -66,9 +66,13 @@ Anti-fragile: Things That Gain From Disorder
 #### 运动与静止
 ##### 相对与绝对
 ##### 矛盾的运动规律
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ##### 地球，太阳系，银河系，宇宙
+↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 生命与非生命
+↗ [Life Science](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ###### 生命感知下的信息与时间
 ###### 生命的周期：生与死
 ###### 有自我意识的生命：个体
@@ -84,13 +88,18 @@ Anti-fragile: Things That Gain From Disorder
 （情感，逻辑）X （思考，行动）
 or（情感，逻辑）X （认识，实践）
 ##### 个体自我意识下的信息与时间
-##### 个体自我意识的组织：群体
-###### 家庭，社会，民族，国家，与人类共同体
-###### 群体自我意识
 ##### 主体（自我意识）的发展与成熟
+↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+##### 个体自我意识的组织：群体
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+###### 家庭，社会，民族，国家，与人类共同体
+↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+###### 群体自我意识
 ###### 主体（自我意识）对自我的意识
 我思故我在～
-##### 主体（自我意识）间的交互
+##### 主体（自我意识）间的交互：社会关系
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 权力与等级
 ###### 性与爱
 ###### 个体与个体
@@ -99,57 +108,18 @@ or（情感，逻辑）X （认识，实践）
 - 身份认同
 - 财富、名声
 ###### 群体与群体
-###### 主体与自然
+###### 人与自然
 #### 从信息到知识：知识是有组织的信息
-##### 信息的分类
+↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+
+信息的分类
 - 抽象的信息和具体的信息
-##### 信息的（静止）存在：储存
-###### 语言系统 /符号系统的发展
-###### 信息的多媒体化
-##### 信息的运动（存在）：计算、传输
-信息的运动形式：联系
-- 计算
-- 思考
-##### 信息的组织：知识
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
-↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+信息的测量
 
-
-###### 知识的分类：基于情感的知识和基于逻辑的知识
-
-###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
-
-###### 从知识到科学
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-##### 信息运动的自动化：智能（狭义的智能）
-- 信息的运动：计算、传输、储存
-- 信息运动的自动化：计算机进行计算（狭义的智能）
-###### 从人脑智能到人工智能：计算机科学
-
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
-
-↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
-
-- 人脑智能（思考 = 情感 + 逻辑）
-	- 狭义上的智能
-	- 自我意识的来源：情感+逻辑
-
-- 计算机科学：信息的自动化计算
-	- 狭义上的智能
-	- 对应人脑智能
-
-- 目前的计算机科学：仅仅进行逻辑上的运算
-	- 对应人脑智能的逻辑能力
-- 目前的人工智能：计算机科学在计算能力上的探索
-	- 运算能力的提升，但仍局限在逻辑上的运算
-- 想象中的人工智能：计算机科学的长期发展目标之一
-	- 运算能力的突破，使具备情感上的运算
-		- 突破奇点，从此具有自我意识
-	- 此时达到接近人脑智能（情感+逻辑）的水平
-#### 生命 -> 人类智能 -> 类人智能（广义的智能）
+信息的模态
+- 语言系统 /符号系统的发展
+- 信息的多媒体化
 ##### 主体视角下的宇宙：物质，能量，信息
 命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
 命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
@@ -183,7 +153,47 @@ or（情感，逻辑）X （认识，实践）
 
 我们把事物之间的一个联系作为一个操作单位，对这些操作单位再进行联系，我们就得到了“规律”，或者说“知识”。本篇之前说过，知识就是信息的组织。那什么是组织呢？这种联系的联系，就是组织。信息的联系的联系，就是知识（或规律）。
 - 还可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律。🤔
-##### 人类智能与类人智能（具身智能）
+##### 信息的运动方式：计算、传输（传播）、储存
+信息的运动形式：联系
+信息的运动方式（如何进行联系的？）：计算、传输（传播）、储存
+##### 信息的组织：知识
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
+↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+###### 知识的分类：基于情感的知识和基于逻辑的知识
+
+###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
+
+###### 从知识到科学
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+##### 信息运动的自动化：智能（狭义的智能）
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+
+- 信息的运动方式：计算、传输、储存
+- 信息运动的自动化 /自动化地进行信息的「计算、传输、储存」：计算机进行计算（狭义的智能）
+
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+
+- 人脑智能（思考 = 情感 + 逻辑）
+	- 狭义上的智能
+	- 自我意识的来源：情感+逻辑
+
+- 计算机科学：信息的自动化计算
+	- 狭义上的智能
+	- 对应人脑智能
+
+- 目前的计算机科学：仅仅进行逻辑上的运算
+	- 对应人脑智能的逻辑能力
+- 目前的人工智能：计算机科学在计算能力上的探索
+	- 运算能力的提升，但仍局限在逻辑上的运算
+- 想象中的人工智能：计算机科学的长期发展目标之一
+	- 运算能力的突破，使具备情感上的运算
+		- 突破奇点，从此具有自我意识
+	- 此时达到接近人脑智能（情感+逻辑）的水平
+#### 生命 -> 人类智能 -> 类人智能（广义的智能）
 - 人类智能 =（人脑智能 + 人体体能）≈（人工智能 + 机器人）≈ 类人智能（具身智能？）
 	- 广义上的智能，既能思考（人脑智能），也能行动（人体体能）
 		- 人脑智能（思考 = 情感 + 逻辑）≈ 人工智能（计算 = 情感（待解决） + 逻辑）
@@ -252,6 +262,7 @@ or（情感，逻辑）X （认识，实践）
 ##### 权力的艺术
 #### 群体（社会）发展
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+> - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 资源有限，发展的目标是资源的补充（资源利用）
 - 资源有限：整个群体拥有所有资源，这种资源是有限的；
@@ -268,6 +279,8 @@ or（情感，逻辑）X （认识，实践）
 
 >  中国的社会主要矛盾：新时代我国社会主要⽭盾是⼈⺠⽇益增⻓的对美好⽣活的需要同不平衡不充分的发展之间的⽭盾。
 ##### 科技，人才，创新，与改革
+↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+
 科技是第一生产力、人才是第一资源、创新是第一动力
 - 新华社北京10月16日电 习近平在二十大报告中强调，必须坚持科技是第一生产力、人才是第一资源、创新是第一动力，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，开辟发展新领域新赛道，不断塑造发展新动能新优势。（[习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网](https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm)）
 
@@ -277,7 +290,11 @@ or（情感，逻辑）X （认识，实践）
 - 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
 - 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
 ##### 全球化与国家竞争
-
+↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 ##### 可持续发展
 
 
