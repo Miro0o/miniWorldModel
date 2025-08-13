@@ -747,7 +747,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 ## 5️⃣ Post Cold-War and $21^{th}$ Century: De-globalization
 ### U.S. Supremacy & Americanization
-↗ [U.S. Military Forces](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
+↗ [U.S. Military Forces](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
 
 ↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 - ↗ [U.S. Cultures & Entertainment Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)

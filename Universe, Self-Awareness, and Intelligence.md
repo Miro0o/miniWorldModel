@@ -7,9 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+- ↗ [The General Principle of Marxism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism.md)
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
 
 ### Other Resources
@@ -46,10 +49,23 @@ Anti-fragile: Things That Gain From Disorder
 
 
 
-## Intro: Universe, Knowledge, and Intelligence
-### 存在
+## Intro
+
+
+
+## My Cognitive Model of The Universe
+> ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> ↗ [The General Principle of Marxism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism.md)
+
+认识自然，改造自然
+
+唯物辩证法试图回答的问题是“世界的存在状态问题”。在这个问题上，唯物辩证法认为世界存在的基本特征有两个：一个是世界是普遍联系的，另一个是世界是永恒发展的。
+
+
+### 存在与认识
 #### 运动与静止
 ##### 相对与绝对
+##### 矛盾的运动规律
 #### 物质与能量
 ##### 地球，太阳系，银河系，宇宙
 ##### 生命与非生命
@@ -66,6 +82,7 @@ Anti-fragile: Things That Gain From Disorder
 - 个体组成了群体，但群体不一定具有自我意识，比如一个人，一只狗，一条金鱼，一束鸢尾花，组成了一个群体；再比如，一个中世纪的基督教中年牧师，和一个商代的青年壮丁，和一个近代的阿兹特克酋长，组成了一个群体;
 ##### 个体自我意识下的情感与逻辑
 （情感，逻辑）X （思考，行动）
+or（情感，逻辑）X （认识，实践）
 ##### 个体自我意识下的信息与时间
 ##### 个体自我意识的组织：群体
 ###### 家庭，社会，民族，国家，与人类共同体
@@ -90,6 +107,9 @@ Anti-fragile: Things That Gain From Disorder
 ###### 语言系统 /符号系统的发展
 ###### 信息的多媒体化
 ##### 信息的运动（存在）：计算、传输
+信息的运动形式：联系
+- 计算
+- 思考
 ##### 信息的组织：知识
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
@@ -131,16 +151,52 @@ Anti-fragile: Things That Gain From Disorder
 	- 此时达到接近人脑智能（情感+逻辑）的水平
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
 ##### 主体视角下的宇宙：物质，能量，信息
-- 当宇宙中没有主体（即没有自我意识），宇宙由物质和能量（物质的运动）构成；
-- 当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
+命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
+命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
+- 我思故我在，表达的就是信息的存在与运动。信息是自我意识的反映与产物。当宇宙中存在自我意识，对自我意识来说宇宙就存在信息。当自我意识进行思考，就是宇宙中信息的存在与运动。
+
+宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。马克思主义哲学也认为，事物是永恒发展和普遍联系的。我认为，事物永恒发展即对应上述我的第一点命题，事物普遍联系则对应上述我的第二点命题。普遍联系实际上说的是具有自我意识的物体在思考宇宙的过程，即信息的存在与运动。
+
+更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）给予不同的名称：
+- 信息科学领域中的“计算”：
+	- ↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+- 深度学习中的"神经网络"模型：
+	- ↗ [Neural Networks](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
+- 哲学领域（包括数学领域）的“逻辑”：
+	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+	- ↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+- 佛教思想中的“缘起”：
+	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88
+	- 缘起偈，又称缘生偈、缘生法颂、法身偈、法身缘起偈、法身舍利偈、法颂舍利。佛教伽陀，相传由释迦牟尼所作，总结了缘起法教义。伽陀的内容，经典上有各种不同的译法：
+		- 《五分律》：“我师所说：法从缘生，亦从缘灭。一切诸法，空无有主。”
+		- 《大智度论》：“诸法因缘生，是法说因缘，是法因缘尽，大师如是言。”
+		- etc.
+	- **所谓“缘起”**，就是因素和条件。由于万法产生均有其因素和条件。就是说:世间上没有独存性的东西，也没有常住不变的东西，一切都是因缘和合所生起。
+- 等等。
+
+虽然被用在了不同的语境，且在这些语境下被给予了不同的名称，但所有这些名称实际上描述了同一件事情：信息的运动就是信息的相互联系。不过有些语境下这些名称的定义往往不像我说得这么准确明白，有时候它们说得比较模糊界限不明，比如佛教的缘起。但是我认为我是说出了它们想说明白但没有说明白的事情（😄💦）。
+
+下图是对此的可视化描述：
+
+![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+
+我们把事物之间的一个联系作为一个操作单位，对这些操作单位再进行联系，我们就得到了“规律”，或者说“知识”。本篇之前说过，知识就是信息的组织。那什么是组织呢？这种联系的联系，就是组织。信息的联系的联系，就是知识（或规律）。
+- 还可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律。🤔
 ##### 人类智能与类人智能（具身智能）
-- 人类智能 =（人脑智能 + 人体体能）≈（人工智能 + 机器人）≈ 类人智能（具身智能）
+- 人类智能 =（人脑智能 + 人体体能）≈（人工智能 + 机器人）≈ 类人智能（具身智能？）
 	- 广义上的智能，既能思考（人脑智能），也能行动（人体体能）
-		- 人脑智能（思考 = 情感 + 逻辑）≈ 人工智能（计算 = 情感（？） + 逻辑）
+		- 人脑智能（思考 = 情感 + 逻辑）≈ 人工智能（计算 = 情感（待解决） + 逻辑）
 		- 人体体能（行动）≈ 机器人（机械运动）
 
+广义的智能：指人类具有的智能，这包括认识能力和实践（改造）能力。同时，人类的认识能力又分为基于情感的认识和基于逻辑的认识。
 
-### 发展
+狭义的智能：类似人类的认识能力，但不具备对宇宙的实践（改造）能力。通过机器进行自动计算，即计算机进行计算，达到的等效能力。
+- 这是目前人工智能领域的研究范畴。
+- 目前计算机只能做到基于逻辑的认识，并不能做到基于情感的认识（无法计算人类情感）。通过对人工智能技术的研究，远景目标是做到能够让计算机达到情感认识的能力，即所谓的突破奇点。
+
+
+### 运动与发展
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 发展的矛盾：无限的欲望 🆚（有限的能力->有限的资源）
@@ -173,17 +229,30 @@ Anti-fragile: Things That Gain From Disorder
 - ✔️ + 💰 + ⚱️ + 🔮
 
 资源获取：（根据上方表格）
-- 从 ✅ 开始向右：（权力）主导
+- 从 ✅ 开始向右：「权力」主导
 	- ⏩
-- 从 ✅ 开始向上：（科技 + 劳动）主导
+	- 内涵：通过权力完成已有资源（探明可用资源）的再分配
+		- 金融/资本权力
+		- 政治权力
+		- 人情（文化）权力
+- 从 ✅ 开始向上：「科技 + 劳动」主导
 	- ⏫
+	- 内涵：通过科技和劳动完成新资源的开发，即「探明不可用资源和未知资源」转化为「探明可用资源」的过程
 #### 个体发展
 资源无限，发展的目标是资源的分配（资源所属）
 - 资源无限：一个个体无法拥有所有资源，但无限追求拥有所有的资源；
 - 发展方式
 	- 权力斗争 ⏩
 	- 创新与劳动 ⏫
+##### 个人与时代
+##### 学习与教育
+↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+##### 权力的艺术
 #### 群体（社会）发展
+> ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+
 资源有限，发展的目标是资源的补充（资源利用）
 - 资源有限：整个群体拥有所有资源，这种资源是有限的；
 - 发展方式
@@ -194,6 +263,21 @@ Anti-fragile: Things That Gain From Disorder
 		- 综合
 	- 科技：创造新的资源 ⏫
 	- 综合
+##### 劳动，生产，经济，与发展
+↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
+
+>  中国的社会主要矛盾：新时代我国社会主要⽭盾是⼈⺠⽇益增⻓的对美好⽣活的需要同不平衡不充分的发展之间的⽭盾。
+##### 科技，人才，创新，与改革
+科技是第一生产力、人才是第一资源、创新是第一动力
+- 新华社北京10月16日电 习近平在二十大报告中强调，必须坚持科技是第一生产力、人才是第一资源、创新是第一动力，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，开辟发展新领域新赛道，不断塑造发展新动能新优势。（[习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网](https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm)）
+
+改革是发展的动力 ([一起来说说“改革是什么” | 中华人民共和国国家发展和改革委员会](https://www.ndrc.gov.cn/wsdwhfz/202411/t20241129_1394742.html))
+- 改革是调整生产关系。这可能是“改革”最基本的定义了。只要想不断解放和发展社会生产力，就要不断调整生产关系。这是马克思主义历史唯物主义的观点。发展生产力没有止境，改革也没有止境。
+- 改革是发展的动力。“发展出题目，改革做文章”，2004年3月，时任浙江省委书记习近平在“之江新语”里这样写道。用这个思想逻辑来领会党的二十届三中全会主题，就是——“中国式现代化出题目，进一步全面深化改革做文章”。
+- 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
+- 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
+##### 全球化与国家竞争
+
 ##### 可持续发展
 
 
@@ -408,3 +492,6 @@ The following outline provides an overview of and topical guide to academic disc
 
 [钱学森为什么要提出系统工程论？ | 中国核工业]: http://hexuehuim.kechuangfu.com/site/content/7795.html
 [《论系统工程》钱学森等著——瞎写写读后感吧 - 李啦啦的文章 - 知乎]: https://zhuanlan.zhihu.com/p/441388381
+
+[一起来说说“改革是什么” | 中华人民共和国国家发展和改革委员会]: https://www.ndrc.gov.cn/wsdwhfz/202411/t20241129_1394742.html
+[习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网]:https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm

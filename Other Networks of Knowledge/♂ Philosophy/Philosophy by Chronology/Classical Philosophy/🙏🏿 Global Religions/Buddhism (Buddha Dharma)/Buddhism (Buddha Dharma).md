@@ -321,17 +321,17 @@ Buddhism evolved into a variety of traditions and practices, represented by [Th
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E6%95%99%E6%B4%BE%E5%88%AB
  
  [宗派](https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E6%95%99%E6%B4%BE%E5%88%AB)、国家和地区
-	- [部派](https://zh.wikipedia.org/wiki/%E9%83%A8%E6%B4%BE%E4%BD%9B%E6%95%99 "部派佛教")
-		- [金刚乘](https://zh.wikipedia.org/wiki/%E5%AF%86%E5%AE%97 "密宗")
-		- [上座部](https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%BA%A7%E9%83%A8%E4%BD%9B%E6%95%99 "上座部佛教")
-		- [三乘](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B9%98 "三乘") 
-			- [大乘](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98 "大乘")（即[菩萨](https://zh.wikipedia.org/wiki/%E8%8F%A9%E8%96%A9 "菩萨")乘）
-			- [中乘](https://zh.wikipedia.org/wiki/%E8%BE%9F%E6%94%AF%E4%BD%9B "辟支佛")（即[缘觉](https://zh.wikipedia.org/wiki/%E7%B7%A3%E8%A6%BA "缘觉")乘）
-			- [小乘](https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%B9%98%E4%BD%9B%E6%95%99 "小乘佛教")（即[声闻](https://zh.wikipedia.org/wiki/%E5%A3%B0%E9%97%BB "声闻")乘）
-			- [一佛乘](https://zh.wikipedia.org/wiki/%E4%B8%80%E4%BD%9B%E4%B9%98 "一佛乘")
-	- [汉传](https://zh.wikipedia.org/wiki/%E6%B1%89%E4%BC%A0%E4%BD%9B%E6%95%99 "汉传佛教")
-	- [藏传](https://zh.wikipedia.org/wiki/%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99 "藏传佛教") 
-		- [藏传佛教史](https://zh.wikipedia.org/w/index.php?title=%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99%E5%8F%B2&action=edit&redlink=1 "藏传佛教史（页面不存在）")
+- [部派](https://zh.wikipedia.org/wiki/%E9%83%A8%E6%B4%BE%E4%BD%9B%E6%95%99 "部派佛教")
+	- [金刚乘](https://zh.wikipedia.org/wiki/%E5%AF%86%E5%AE%97 "密宗")
+	- [上座部](https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%BA%A7%E9%83%A8%E4%BD%9B%E6%95%99 "上座部佛教")
+	- [三乘](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B9%98 "三乘") 
+		- [大乘](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98 "大乘")（即[菩萨](https://zh.wikipedia.org/wiki/%E8%8F%A9%E8%96%A9 "菩萨")乘）
+		- [中乘](https://zh.wikipedia.org/wiki/%E8%BE%9F%E6%94%AF%E4%BD%9B "辟支佛")（即[缘觉](https://zh.wikipedia.org/wiki/%E7%B7%A3%E8%A6%BA "缘觉")乘）
+		- [小乘](https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%B9%98%E4%BD%9B%E6%95%99 "小乘佛教")（即[声闻](https://zh.wikipedia.org/wiki/%E5%A3%B0%E9%97%BB "声闻")乘）
+		- [一佛乘](https://zh.wikipedia.org/wiki/%E4%B8%80%E4%BD%9B%E4%B9%98 "一佛乘")
+- [汉传](https://zh.wikipedia.org/wiki/%E6%B1%89%E4%BC%A0%E4%BD%9B%E6%95%99 "汉传佛教")
+- [藏传](https://zh.wikipedia.org/wiki/%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99 "藏传佛教") 
+	- [藏传佛教史](https://zh.wikipedia.org/w/index.php?title=%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99%E5%8F%B2&action=edit&redlink=1 "藏传佛教史（页面不存在）")
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E6%95%99%E6%B4%BE%E5%88%AB
 

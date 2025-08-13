@@ -212,6 +212,8 @@ Economic theories divide economic sectors further into [economic industries](ht
 
 
 ### Production and Capital/ Cap (生产与资本)
+> ↗ [Marxism & Communism](../../♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Capital_(economics)
 
 ==In economics, **capital goods** or **capital** are "those durable produced goods that are in turn used as productive inputs for further production" of goods and services==. A typical example is the machinery used in a factory. At the macroeconomic level, "the nation's capital stock includes buildings, equipment, software, and inventories during a given year."
@@ -291,6 +293,16 @@ An increasing division of labour is associated with the growth of total output a
 劳动对象是马克思主义政治经济学中的概念，是指劳动本身所作用的客体，比如耕作的土地，纺织的棉花等。劳动对象包括两大类。一是自然界的物质，即未经人类加工过的自然物。一是人类劳动加工过的，用做原材料的产品。
 
 劳动对象是马克思主义理论中**生产力三要素**之一，另两个要素是劳动者和劳动资料。而劳动对象和劳动资料构成生产资料。
+#### Relations of Production (生产关系)
+> 🔗 https://zh.wikipedia.org/zh-cn/%E7%94%9F%E4%BA%A7%E5%85%B3%E7%B3%BB
+
+**生产关系**（德语：Produktionsverhältnisse；英语：Relations of production）是一个[马克思主义](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89 "马克思主义")概念。在[马克思主义](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89 "马克思主义")哲学中，生产关系是表示社会内部人与人的关系的[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6 "哲学")范畴。在以物质资料生产为前提下，生产关系是指人们在社会生产中形成的一种一定的、必然的、不以他们的意志为转移的关系，和生产力有密不可分的关系。生产关系在一定生产力的基础下产生，反过来又会限制生产力。生产关系是其他社会关系的基础，是一种物质利益关系；其他社会关系都在生产关系上建立起来。
+
+[马克思主义](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89 "马克思主义")哲学认为，生产关系是在社会生产过程中形成的人与人的关系。生产关系是一复杂的[经济](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E "经济")结构，包括[生产资料](https://zh.wikipedia.org/wiki/%E7%94%9F%E4%BA%A7%E8%B5%84%E6%96%99 "生产资料")的所有制形式、各种社会集团在生产过程中的地位和交换关系、产品的分配形式以及由此所直接决定的消费关系三个方面。其中，生产资料的所有制形式是生产关系最基本的方面，是全部生产关系的基础，决定着生产关系的其他内容。[斯大林](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%A4%A7%E6%9E%97 "斯大林")在《[苏联社会主义经济问题](https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%81%94%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98 "苏联社会主义经济问题")》一书中，第一次提出生产关系的内容包括三个方面，“（一）生产资料的所有制形式；（二）由此产生的各种不同社会集团在生产中的地位以及他们的相互关系，或如马克思所说的，‘互相交换其活动’；（三）完全以它们为转移的产品分配形式。“ 生产关系的这三个方面体现在[生产](https://zh.wikipedia.org/wiki/%E7%94%9F%E4%BA%A7 "生产")、[分配](https://zh.wikipedia.org/w/index.php?title=%E5%88%86%E9%85%8D&action=edit&redlink=1 "分配（页面不存在）")、[交换](https://zh.wikipedia.org/wiki/%E4%BA%A4%E6%8D%A2 "交换")、[消费](https://zh.wikipedia.org/wiki/%E6%B6%88%E8%B4%B9 "消费")各个环节之中。
+
+生产关系的概念第一次出现在[马克思](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D "卡尔·马克思")的著作《[哲学的贫困](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%AB%E5%9B%B0 "哲学的贫困")》中，但其实马克思生前未发表的《[德意志意识形态](https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%84%8F%E5%BF%97%E6%84%8F%E8%AD%98%E5%BD%A2%E6%85%8B "德意志意识形态")》中已有这个概念。马克思定义说：
+
+> 各个人借以进行生产的社会关系，即社会生产关系，是随着物质生产资料、生产力的变化和发展而变化和改变的。生产关系总合起来就构成为所谓社会关系，构成为所谓社会，并且是构成为一个处于一定历史发展阶段上的社会，具有独特的特征的社会。
 
 
 ### Economic System (经济体制)

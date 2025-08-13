@@ -61,33 +61,6 @@ https://liushooter.github.io/UsaVsUsa/
 
 
 
-## Politics & Demography
-### Political Systems & Governments
-
-#### U.S. Parties
-https://en.wikipedia.org/wiki/Political_parties_in_the_United_States
-
-##### Republican Party
-The Republican Party, also known as the Grand Old Party, is one of the two major contemporary political parties in the United States. It emerged as the main political rival of the then-dominant Democratic Party in the 1850s, and the two parties have dominated American politics since then
-##### Democratic Party
-#### U.S. Government
-![](../../../../../../Assets/Pics/Pasted%20image%2020250207212105.png)
-<small><a>https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government</a> (Structure of the United States Federal Government)</small>
-
-![](../../../../../../Assets/Pics/Pasted%20image%2020250207212151.png)
-<small><a>https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government</a> (Structure of the United States Federal Government)</small>
-
-
-### Human Resources & Management
-
-### Population
-
-### Education
-
-### Health
-
-
-
 ## Economics
 ### Economical Structure
 #### Federal Reserve System (The Fed)

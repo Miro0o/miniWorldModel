@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Education](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](../../../Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
 
 
@@ -409,6 +410,7 @@ ACM CCS 2012
 
 ### 0️⃣ Before you hit the road ...
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [为什么我要写一系列通识讲义](../Appendix/为什么我要写一系列通识讲义.md)
 
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
