@@ -11,6 +11,11 @@
 
 ↗ [Natural Language Processing (NLP)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 
+↗ [Mathematical Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Logic (and Critical Thinking)](../../../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Philosophy of Language](../../../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Language/Philosophy%20of%20Language.md)
+
 
 
 ## Intro
@@ -18,3 +23,4 @@
 
 
 ## Ref
+[语言学和语言哲学，逻辑学间的关系和区别是什么？ - 空想的理论家的回答 - 知乎]: https://www.zhihu.com/question/592258937/answer/2967123658

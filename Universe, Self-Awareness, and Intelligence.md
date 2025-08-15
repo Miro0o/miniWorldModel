@@ -77,6 +77,8 @@ Anti-fragile: Things That Gain From Disorder
 ###### 生命的周期：生与死
 ###### 有自我意识的生命：个体
 #### 主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）
+主观与客观
+
 个体是相对于群体来说的，指的是具有生命的物体；主体是相对于客体来说的，指的是自我意识本身。
 - 每个人类个体都有自我意识；主体要依赖个体存在，即“人类的肉身”。这种肉身也是客体。
 	- 同时，为了生存，肉身不断地和环境中进行物质和能量的交换，这是客体的运动。客体运动的介质就是物质和能量。更进一步地，能量是物质运动的结果。
@@ -116,16 +118,18 @@ or（情感，逻辑）X （认识，实践）
 - 抽象的信息和具体的信息
 
 信息的测量
+- 熵
 
 信息的模态
 - 语言系统 /符号系统的发展
 - 信息的多媒体化
 ##### 主体视角下的宇宙：物质，能量，信息
+给出如下（我认为正确的）结论：
 命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
 命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
 - 我思故我在，表达的就是信息的存在与运动。信息是自我意识的反映与产物。当宇宙中存在自我意识，对自我意识来说宇宙就存在信息。当自我意识进行思考，就是宇宙中信息的存在与运动。
 
-宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。马克思主义哲学也认为，事物是永恒发展和普遍联系的。我认为，事物永恒发展即对应上述我的第一点命题，事物普遍联系则对应上述我的第二点命题。普遍联系实际上说的是具有自我意识的物体在思考宇宙的过程，即信息的存在与运动。
+宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。马克思主义哲学也认为，事物是永恒发展和普遍联系的。我认为，事物永恒发展即对应上述我的第一点命题，事物普遍联系则对应上述我的第二点命题。永恒发展对应着物质的永恒运动，普遍联系对应着信息的永恒运动，即具有自我意识的物体在永恒思考宇宙的过程。
 
 更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）给予不同的名称：
 - 信息科学领域中的“计算”：
@@ -151,8 +155,8 @@ or（情感，逻辑）X （认识，实践）
 
 ![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
-我们把事物之间的一个联系作为一个操作单位，对这些操作单位再进行联系，我们就得到了“规律”，或者说“知识”。本篇之前说过，知识就是信息的组织。那什么是组织呢？这种联系的联系，就是组织。信息的联系的联系，就是知识（或规律）。
-- 还可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律。🤔
+我们把事物之间的一个联系作为一个操作单位，对这些操作单位再进行联系，我们就得到了“规律”，或者说“知识”。本篇之前说过，知识就是信息的组织。那么这里的组织是什么意思呢？这种联系的联系，就是组织。信息的联系的联系，就是知识（或规律）。
+- （是否可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律？🤔）
 ##### 信息的运动方式：计算、传输（传播）、储存
 信息的运动形式：联系
 信息的运动方式（如何进行联系的？）：计算、传输（传播）、储存
@@ -166,6 +170,8 @@ or（情感，逻辑）X （认识，实践）
 ###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
 
 ###### 从知识到科学
+↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Academics](Information%20Science%20&%20Computer%20Science/Academics%20🎓/Academics.md)
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ##### 信息运动的自动化：智能（狭义的智能）
@@ -209,7 +215,7 @@ or（情感，逻辑）X （认识，实践）
 ### 运动与发展
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
-发展的矛盾：无限的欲望 🆚（有限的能力->有限的资源）
+发展的矛盾：无限的欲望 🆚（有限的能力 导致的 有限的资源）
 #### 发展是存在的运动形式
 贪婪与自私
 #### 发展的目标：资源
@@ -227,7 +233,7 @@ or（情感，逻辑）X （认识，实践）
 	- 公共资源（不被拥有）
 
 
-资源分布矩阵：
+由此得出**资源分布矩阵**：
 
 |         | 我拥有资源       | 他拥有资源     | 公共资源 |
 | ------- | ----------- | --------- | ---- |
@@ -238,28 +244,32 @@ or（情感，逻辑）X （认识，实践）
 资源来源：
 - ✔️ + 💰 + ⚱️ + 🔮
 
-资源获取：（根据上方表格）
-- 从 ✅ 开始向右：「权力」主导
-	- ⏩
+从资源来源处获取资源的方式：（根据上述资源分布矩阵）
+- 从 ✅ 所在列开始向右的列：「权力关系」主导
+	- 符号：⏩
 	- 内涵：通过权力完成已有资源（探明可用资源）的再分配
-		- 金融/资本权力
-		- 政治权力
-		- 人情（文化）权力
-- 从 ✅ 开始向上：「科技 + 劳动」主导
-	- ⏫
-	- 内涵：通过科技和劳动完成新资源的开发，即「探明不可用资源和未知资源」转化为「探明可用资源」的过程
+		- 金融/资本为媒介下的权力关系
+		- 人情（文化）为媒介下的权力关系
+		- 武力 /物理威慑为媒介下的权力关系
+		- 社会制度 /法制为媒介下的权力关系（法律真的完全公平吗？能否沦为权力的武器？）
+		- ...
+		- 政治为权力媒介（所有权力关系的总和）
+- 从 ✅ 所在行开始向上的行：「智能水平」主导（「智能」=「科学知识 + 实践劳动」）
+	- 符号：⏫
+	- 内涵：通过科学知识和实践劳动完成新资源的开发，即「探明不可用资源和未知资源」转化为「探明可用资源」的过程
 #### 个体发展
 资源无限，发展的目标是资源的分配（资源所属）
 - 资源无限：一个个体无法拥有所有资源，但无限追求拥有所有的资源；
 - 发展方式
 	- 权力斗争 ⏩
 	- 创新与劳动 ⏫
+	- 综合 ⏩ ⏫
 ##### 个人与时代
-##### 学习与教育
+##### 学习与教育 ⏫
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
-##### 权力的艺术
+##### 权力的艺术 ⏩
 #### 群体（社会）发展
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 > - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
@@ -271,14 +281,21 @@ or（情感，逻辑）X （认识，实践）
 	- 掠夺：转移异地资源 ⏩
 		- 经济
 		- 军事
+		- ...
 		- 综合
 	- 科技：创造新的资源 ⏫
-	- 综合
+	- 综合 ⏫ ⏩
 ##### 劳动，生产，经济，与发展
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 
 >  中国的社会主要矛盾：新时代我国社会主要⽭盾是⼈⺠⽇益增⻓的对美好⽣活的需要同不平衡不充分的发展之间的⽭盾。
-##### 科技，人才，创新，与改革
+
+资本主义 🆚 共产主义
+- 两种主义描述了由不同经济基础及其决定的不同上层建筑组成的人类社会的两种不同景观
+	- 两种景观的根本区别在于经济基础的核心：生产资料所有制的不同。但是这不代表两种景观在经济基础或上层建筑完全不同，没有相似或相同的部分。
+- 马克思主义指出 资本主义 -> 社会主义 -> 共产主义 的人类社会的发展路径。
+##### 科技，人才，创新，与改革 ⏫
 ↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 科技是第一生产力、人才是第一资源、创新是第一动力
@@ -289,13 +306,13 @@ or（情感，逻辑）X （认识，实践）
 - 改革是发展的动力。“发展出题目，改革做文章”，2004年3月，时任浙江省委书记习近平在“之江新语”里这样写道。用这个思想逻辑来领会党的二十届三中全会主题，就是——“中国式现代化出题目，进一步全面深化改革做文章”。
 - 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
 - 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
-##### 全球化与国家竞争
+##### （逆）全球化与国家竞争 ⏩ ⏫
 ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
-##### 可持续发展
+##### 可持续发展 ⏩ ⏫
 
 
 ### System Science & Systemology 🤔

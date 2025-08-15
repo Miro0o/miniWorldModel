@@ -177,8 +177,6 @@ e.g. S-V-O
 
 						Sentence
 						   |
-						 Clause
-						   |
 		 ----------------------------------------
 		 |										|
 	  Subject								Predicate      --> Clause Structure
@@ -248,15 +246,18 @@ Peripheral Element
 ```
 The larying structure of a sentence:
 
-									Sentence
-									   |
-									 Clause
-									   |
-			-----------------------------------------------------------
+							Sentence
+							   |
+							(Clause)	 
+			----------------------------------------
+			|										|
+		  Subject								Predicate
+			|										|	   
+			|						   ---------------------------------
 			|						   |							   |
 		Noun Phrase				   Verb Phrase					  Prep Phrase
 			|						   |							   |		
-	---------------			------------------				-----------------
+	---------------			--------------------			-----------------
    ｜   		  |			|          |       |			|      |	    |
   Det	  		  N			Aux 	  Adv	   MV			Prep   Det	    N
 These    under·graduate·s	are	   rapid·ly	  improv·ing	in	  their	 writ·ing

@@ -10,6 +10,11 @@
 ↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Propositional Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Propositional%20Logic%20(命题逻辑)/Propositional%20Logic.md)
 - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+↗ [Logic And Mechanized Reasoning](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Logic%20And%20Mechanized%20Reasoning.md)
+↗ [Logic Programming Languages](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+
+↗ [Linguistics](../../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+↗ [Philosophy of Language](../Philosophy%20of%20Language/Philosophy%20of%20Language.md)
 
 
 ### Learning Resources
@@ -77,3 +82,5 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 ## Ref
 [ What is critical thinking? | HKU ]: https://philosophy.hku.hk/think/critical/ct.php
+
+[语言学和语言哲学，逻辑学间的关系和区别是什么？ - 空想的理论家的回答 - 知乎]: https://www.zhihu.com/question/592258937/answer/2967123658

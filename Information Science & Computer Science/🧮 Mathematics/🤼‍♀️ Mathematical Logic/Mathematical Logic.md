@@ -8,6 +8,8 @@
 ### Related Topics
 ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) (logic of natural languages and formal languages)
 ↗ [Analytic Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Contemporary%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
+↗ [Philosophy of Language](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Language/Philosophy%20of%20Language.md)
+↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 
 ↗ [Boolean Algebra](../🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
 
@@ -18,6 +20,7 @@
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution%20&%20Constrain%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Symbolic%20Execution%20&%20Constrain%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 - etc.
+
 
 
 ### Other Resources
@@ -78,3 +81,4 @@ Since its inception, mathematical logic has both contributed to and been motivat
 [也谈数理逻辑]: http://niwatori.io/2017/01/13/mathematical-logic/
 [数理逻辑]: https://zh.wikipedia.org/wiki/数理逻辑#数理逻辑和计算机科学的关系
 
+[语言学和语言哲学，逻辑学间的关系和区别是什么？ - 空想的理论家的回答 - 知乎]: https://www.zhihu.com/question/592258937/answer/2967123658
