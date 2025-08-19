@@ -24,8 +24,6 @@ Propositional logic is typically studied with a formal language, in which propos
 ## Overview
 ![](../../../../../Assets/Pics/Screenshot%202025-08-04%20at%2000.38.30.png)
 
-
-
 ![Screenshot 2023-01-02 at 5.55.50 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.55.50%20PM.png)
 
 ![Screenshot 2023-01-02 at 5.56.43 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.56.43%20PM.png)
@@ -35,7 +33,6 @@ Propositional logic is typically studied with a formal language, in which propos
 ![Screenshot 2023-01-02 at 5.57.28 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.57.28%20PM.png)
 
 ![Screenshot 2023-01-02 at 5.59.42 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.59.42%20PM.png)
-
 
 ![Screenshot 2023-01-02 at 6.02.32 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%206.02.32%20PM.png)
 

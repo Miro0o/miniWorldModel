@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [The General Principle of Marxism](../../../♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism.md)
+↗ [The General Principle of Marxism (in China)](../../../♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 
 
 ### Other Resources
