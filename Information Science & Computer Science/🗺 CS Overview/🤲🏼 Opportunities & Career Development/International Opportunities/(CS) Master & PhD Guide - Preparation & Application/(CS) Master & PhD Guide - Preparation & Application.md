@@ -231,6 +231,21 @@ Language Learning:
 2. [IELTS (International English Language Testing System)](Language%20Certificates/IELTS%20(International%20English%20Language%20Testing%20System).md)
 3. [TOEFL (Test of English as a Foreign Language)](Language%20Certificates/TOEFL%20(Test%20of%20English%20as%20a%20Foreign%20Language).md)
 
+90 【🇨🇭审完150份PhD申请 有负作用的经历 - 没滑雪的Alex | 小红书 - 你的生活兴趣社区】 😆 E6RlxXFrC8uzSYD 😆 https://www.xiaohongshu.com/discovery/item/678c11520000000018014144?source=webshare&xhsshare=pc_web&xsec_token=ABcbYlSmeAEoLvkGPZBw1y5ZOzhBR8968sck4JIVLVkA4=&xsec_source=pc_share
+接上一条，我们组的PhD职位deadline当天多了二十份申请，我又看了一下午 感谢大家喜欢！为了确保我的博后导师和我能够对PhD学生提供足够多的指导，我们一直在控制PhD人数，现在没法接待访问学生。
+	
+上一条提到了坏习惯，不是所有的经历都是正面效果。
+1. 简历看着很好，十个项目无产出，负分。（吃过教训）
+2. 水论文全A+B的（有一两篇没关系，有科研经历起码）
+3. 习惯了低标准，做一点就想发论文，负分。（起码要让人看到你的标准在进步，特别是硕士）
+4. 糊弄自己糊弄别人。 （不懂的东西不要乱写）
+5. 有结果就行，不思考结果的含义。 （猴子乱按也是结果，当RA切记思考自己做的东西意味着什么，合不合理）
+6. 不接受失败的尝试。（科研是会失败的，甚至可以说大部分时间是没有进展的，学会接受尝试所付出的时间精力的代价，并从中学习到为什么这条路不通，能把这个讲清楚比多一两篇水文重要多了）
+	
+以上内容是可以从CV里面看出来的。
+	
+想进流水线组当螺丝的以上都不适用，卷数量就好了，+1+1+1……
+
 
 ### How to Contact Tutors /Make Connections?
 > 🔗 https://www.haojianj.in/prospective.html
@@ -248,12 +263,14 @@ Tips for your application (adapted from Henny Admoni's website):
 - Give me evidence that you are able to work independently, seek out new avenues for growth, and take responsibility for your learning. Strong candidates show this through activities outside the classroom, for example by doing research internships, joining clubs that allow for hands-on projects, or participating reading groups to discuss current research.
 
 
-### Admission Decision-Making: Academic Committee or Professor?
+### ⭐ Admission Decision-Making: Academic Committee or Professor?
 [CS PhD强committee&强professor List(仅供参考) - Frankdark的文章 - 知乎]: https://zhuanlan.zhihu.com/p/128037373
 
 PhD申请无疑会遇到套磁的困惑，有些学校是强professor制，若能套磁成功则可能一步登天直接被录取；然而有些学校是强committee制，即便套磁的教授对自己非常感兴趣，但若不能过委员会这一关，则前功尽弃。理论上来说学校越好，越可能是强committee制，比如四大(S, UCB, CMU, MIT)，但其实也不乏UCLA,UVA等校是强导师制。整体来看，还是强committee占主流。关于PhD录取制，可以参考 **[申请录取委员会制度是怎么回事(上)](https://link.zhihu.com/?target=https%3A//www.1point3acres.com/%25E7%25BE%258E%25E5%259B%25BD%25E5%25BD%2595%25E5%258F%2596%25E5%25A7%2594%25E5%2591%2598%25E4%25BC%259A%25E5%2588%25B6%25E6%258B%259B%25E7%2594%259F%25E6%2598%25AF%25E6%2580%258E%25E4%25B9%2588%25E5%259B%259E%25E4%25BA%258B/)** 和 **[申请录取委员会制度是怎么回事(下)](https://link.zhihu.com/?target=https%3A//www.1point3acres.com/%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%25B3%25E8%25AF%25B7%25E5%25BD%2595%25E5%258F%2596%25E5%25A7%2594%25E5%2591%2598%25E4%25BC%259A%25E5%2588%25B6%25E5%25BA%25A6%25E6%2598%25AF%25E6%2580%258E%25E4%25B9%2588%25E5%259B%259E%25E4%25BA%258B%25E4%25B8%258B/)。** 另外，根据[如何得到/推测学校的admission committee是哪些教授](https://link.zhihu.com/?target=http%3A//bbs.gter.net/forum.php%3Fmod%3Dviewthread%26tid%3D1926185)，**一般委员会成员里面大多都是AP，而且是新来的AP。chair可能是associate或者full，一个系里面系主任一般不会做committee chair的，professor的作用都是去招募系里新AP。**
 
 由于本人也是即将申请PhD的2021Fall选手，因此在咨询了不同的学长学姐，导师和教授之后，获取了如下的信息(**同一学校不同院系的录取制度不完全相同，以下均是从EECS进行汇总，仅供参考**)
+
+93 【PhD申请——招生委员会到底在关注什么 - 博士毕业了还没文章 | 小红书 - 你的生活兴趣社区】 😆 7y8EBYttS5tfaew 😆 https://www.xiaohongshu.com/discovery/item/67b589b5000000000d0145f4?source=webshare&xhsshare=pc_web&xsec_token=ABuhhHB-4ZTLd3ySj9ZIfU4PLdJ1ZEHC4sBT7lYiMF6Gk=&xsec_source=pc_share
 
 
 

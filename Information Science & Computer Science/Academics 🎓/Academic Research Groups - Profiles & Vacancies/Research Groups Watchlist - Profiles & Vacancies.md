@@ -1,4 +1,4 @@
-# Academic Research Groups - Profiles & Vacancies
+# Research Groups Watchlist - Profiles & Vacancies
 
 [TOC]
 

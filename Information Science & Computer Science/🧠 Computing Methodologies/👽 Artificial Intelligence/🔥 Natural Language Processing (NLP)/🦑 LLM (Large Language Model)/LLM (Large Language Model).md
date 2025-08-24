@@ -21,6 +21,7 @@ LLM & Academics 🧑‍🎓
 
 
 ### Learning Resource
+#### Texts & Docs
 📖 大规模语言模型：从理论到实践
 https://intro-llm.github.io
 大语言模型（Large Language Models，LLM）是一种由包含数百亿以上权重的深度神经网络构建的语言模型，使用自监督学习方法通过大量无标记文本进行训练。自2018年以来，包含Google、OpenAI、Meta、百度、华为等公司和研究机构都纷纷发布了包括BERT， GPT等在内多种模型，并在几乎所有自然语言处理任务中都表现出色。2021年开始大模型呈现爆发式的增长，特别是2022年11月ChatGPT发布后，更是引起了全世界的广泛关注。用户可以使用自然语言与系统交互，从而实现包括问答、分类、摘要、翻译、聊天等从理解到生成的各种任务。大型语言模型展现出了强大的对世界知识掌握和对语言的理解。本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。
@@ -116,12 +117,20 @@ Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ 
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
 - [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
+#### Courses & Channels
+http://www.youtube.com/@AndrejKarpathy
 
 
 ### Other Resources
 🚧 https://github.com/vllm-project/vllm
 https://docs.vllm.ai/en/stable/
 vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+https://diffusion.csail.mit.edu/
+Introduction to Flow Matching and Diffusion Models
+MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations
+
+Diffusion and flow-based models have become the state of the art for generative AI across a wide range of data modalities, including images, videos, shapes, molecules, music, and more! This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields. This course is ideal for students who want to develop a principled understanding of the theory and practice of generative AI.
 
 
 
@@ -263,3 +272,5 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 [👍 AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
 
 [🤔 从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗]: https://mp.weixin.qq.com/s/3YSega29u8hnc8CcCrNwqQ
+
+80 【看大佬YouTube胜读四年本科 - cheezit03 | 小红书 - 你的生活兴趣社区】 😆 eMXAZs7NTrAMe8a 😆 https://www.xiaohongshu.com/discovery/item/67cda8e7000000002903d0f9?source=webshare&xhsshare=pc_web&xsec_token=AB-gNabAhHDfNbngCiSe41bKwI6pTghIBsMcRPTSSb1Qo=&xsec_source=pc_share

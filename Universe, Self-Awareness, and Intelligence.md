@@ -62,7 +62,7 @@ Anti-fragile: Things That Gain From Disorder
 唯物辩证法试图回答的问题是“世界的存在状态问题”。在这个问题上，唯物辩证法认为世界存在的基本特征有两个：一个是世界是普遍联系的，另一个是世界是永恒发展的。
 
 
-### 存在与认识
+### 存在与（人的）认识
 #### 运动与静止
 ##### 相对与绝对
 ##### 矛盾的运动规律
@@ -91,26 +91,43 @@ Anti-fragile: Things That Gain From Disorder
 or（情感，逻辑）X （认识，实践）
 ##### 个体自我意识下的信息与时间
 ##### 主体（自我意识）的发展与成熟
+↗ [Psychology](Other%20Networks%20of%20Knowledge/Social%20Science/Psychology/Psychology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
-↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
-##### 个体自我意识的组织：群体
+- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+
+自我意识的发展与成熟
+- 在两个维度中进行：知识（思），实践（做）
+- 在三个场景中进行：自我，社会（家庭，社区，民族），自然
+- 在若干阶段中进行：童年，少年，青年，中年，老年
+
+个体天性
+- 贪婪
+- 自私
+
+社会中习得
+- 欺骗能力
+- 经济能力 /资源规划 /付出与回报
+- 自我与非我（自然，社会中的其他个体，社会作为一个整体（不同的文化），等等）的关系
+##### 个体自我意识的组织：群体与社会
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
-###### 家庭，社会，民族，国家，与人类共同体
+###### 社会的形成
+家庭，社会，民族，国家，与人类共同体
 ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-###### 群体自我意识
-###### 主体（自我意识）对自我的意识
-我思故我在～
+###### 群体/社会 的自我意识
+↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ##### 主体（自我意识）间的交互：社会关系
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 权力与等级
 ###### 性与爱
-###### 个体与个体
+###### 个体与个体的关系
 - 亲密关系
-###### 个体与群体
+###### 个体与群体的关系
 - 身份认同
 - 财富、名声
-###### 群体与群体
-###### 人与自然
+###### 群体与群体的关系
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+###### 人（人类社会）与自然的关系
 #### 从信息到知识：知识是有组织的信息
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 
@@ -161,10 +178,13 @@ or（情感，逻辑）X （认识，实践）
 信息的运动形式：联系
 信息的运动方式（如何进行联系的？）：计算、传输（传播）、储存
 ##### 信息的组织：知识
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
-
 ↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
 ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
+![](Assets/Pics/Screenshot%202025-08-24%20at%2014.36.01.png)
+<small><a>https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg</a></small>
 ###### 知识的分类：基于情感的知识和基于逻辑的知识
 
 ###### 知识的分类：基于宏观宇宙视角的知识和基于微观个体视角的知识
@@ -175,13 +195,13 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ##### 信息运动的自动化：智能（狭义的智能）
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 - 信息的运动方式：计算、传输、储存
 - 信息运动的自动化 /自动化地进行信息的「计算、传输、储存」：计算机进行计算（狭义的智能）
-
-↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 - 人脑智能（思考 = 情感 + 逻辑）
 	- 狭义上的智能
@@ -200,6 +220,8 @@ or（情感，逻辑）X （认识，实践）
 		- 突破奇点，从此具有自我意识
 	- 此时达到接近人脑智能（情感+逻辑）的水平
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
+↗ [Embodied AI](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🤔%20Embodied%20AI/Embodied%20AI.md)
+
 - 人类智能 =（人脑智能 + 人体体能）≈（人工智能 + 机器人）≈ 类人智能（具身智能？）
 	- 广义上的智能，既能思考（人脑智能），也能行动（人体体能）
 		- 人脑智能（思考 = 情感 + 逻辑）≈ 人工智能（计算 = 情感（待解决） + 逻辑）
@@ -212,13 +234,13 @@ or（情感，逻辑）X （认识，实践）
 - 目前计算机只能做到基于逻辑的认识，并不能做到基于情感的认识（无法计算人类情感）。通过对人工智能技术的研究，远景目标是做到能够让计算机达到情感认识的能力，即所谓的突破奇点。
 
 
-### 运动与发展
+### 运动与（人/人类社会 的）发展
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 发展的矛盾：无限的欲望 🆚（有限的能力 导致的 有限的资源）
-#### 发展是存在的运动形式
-贪婪与自私
-#### 发展的目标：资源
+#### 人类发展的根本动力：自我意识
+人类的天性：贪婪与自私，是发展的根本动力
+#### 人类发展的目标：资源
 资源就是发展的目标；发展就是持续获得资源。
 
 资源分类：
@@ -257,20 +279,20 @@ or（情感，逻辑）X （认识，实践）
 - 从 ✅ 所在行开始向上的行：「智能水平」主导（「智能」=「科学知识 + 实践劳动」）
 	- 符号：⏫
 	- 内涵：通过科学知识和实践劳动完成新资源的开发，即「探明不可用资源和未知资源」转化为「探明可用资源」的过程
-#### 个体发展
+#### 个体发展的路径 /方法
 资源无限，发展的目标是资源的分配（资源所属）
 - 资源无限：一个个体无法拥有所有资源，但无限追求拥有所有的资源；
 - 发展方式
 	- 权力斗争 ⏩
 	- 创新与劳动 ⏫
 	- 综合 ⏩ ⏫
-##### 个人与时代
-##### 学习与教育 ⏫
+##### 原理：个人与时代
+##### 路径1：学习与教育 ⏫
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
-##### 权力的艺术 ⏩
-#### 群体（社会）发展
+##### 路径2：权力的艺术 ⏩
+#### 群体（社会）发展的路径 /方法
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 > - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
@@ -285,7 +307,7 @@ or（情感，逻辑）X （认识，实践）
 		- 综合
 	- 科技：创造新的资源 ⏫
 	- 综合 ⏫ ⏩
-##### 劳动，生产，经济，与发展
+##### 原理：劳动，生产，经济，与发展
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 
@@ -295,7 +317,7 @@ or（情感，逻辑）X （认识，实践）
 - 两种主义描述了由不同经济基础及其决定的不同上层建筑组成的人类社会的两种不同景观
 	- 两种景观的根本区别在于经济基础的核心：生产资料所有制的不同。但是这不代表两种景观在经济基础或上层建筑完全不同，没有相似或相同的部分。
 - 马克思主义指出 资本主义 -> 社会主义 -> 共产主义 的人类社会的发展路径。
-##### 科技，人才，创新，与改革 ⏫
+##### 路径1：科技，人才，创新，与改革 ⏫
 ↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 科技是第一生产力、人才是第一资源、创新是第一动力
@@ -306,7 +328,7 @@ or（情感，逻辑）X （认识，实践）
 - 改革是发展的动力。“发展出题目，改革做文章”，2004年3月，时任浙江省委书记习近平在“之江新语”里这样写道。用这个思想逻辑来领会党的二十届三中全会主题，就是——“中国式现代化出题目，进一步全面深化改革做文章”。
 - 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
 - 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
-##### （逆）全球化与国家竞争 ⏩ ⏫
+##### 路径2：（逆）全球化与国家竞争 ⏩ ⏫
 ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
@@ -315,51 +337,14 @@ or（情感，逻辑）X （认识，实践）
 ##### 可持续发展 ⏩ ⏫
 
 
-### System Science & Systemology 🤔
-> 🔗 https://zh.wikipedia.org/zh-cn/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6
-
-**系统科学**是指从[系统](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F "系统")的角度观察研究客观世界的一门[学科](https://zh.wikipedia.org/wiki/%E5%AD%A6%E7%A7%91 "学科")。“系统”指的是由相互联系、相互作用的要素（或部分）组成的具有一定结构和功能的有机整体；准确来说，“要素”加上“结构”等于“系统”。研究的领域横跨自然科学与社会科学，却除去其中较为狭窄的物理、生物、心理、经济意义，而把研究重心放在探究各个系统的本质规律上。系统科学主要研究系统的要素（或元素）、结构、系统的行为（性质）
-
-著名科学家钱学森提出系统科学的层次模型，其详细分类如下：
-
-第一层：系统观。次是系统学，它是系统科学的基本理论。这是系统的哲学和方法论的观点，是系统科学通向马克思主义哲学的桥梁和中介；
-第二层：技术科学层次。有运筹学、系统理论、控制论、信息论等，是系统工程的直接理论；
-第三层：工程技术层次。系统工程、自动化技术、通信技术等，这是直接改造自然界的。
-
-- 基础理论
-    - [自组织](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%BB%84%E7%BB%87 "自组织")、[耗散结构理论](https://zh.wikipedia.org/wiki/%E8%80%97%E6%95%A3%E7%BB%93%E6%9E%84%E7%90%86%E8%AE%BA "耗散结构理论")、[超循环](https://zh.wikipedia.org/w/index.php?title=%E8%B6%85%E5%BE%AA%E7%8E%AF&action=edit&redlink=1 "超循环（页面不存在）")、[他组织](https://zh.wikipedia.org/w/index.php?title=%E4%BB%96%E7%BB%84%E7%BB%87&action=edit&redlink=1 "他组织（页面不存在）")、[分形论](https://zh.wikipedia.org/w/index.php?title=%E5%88%86%E5%BD%A2%E8%AE%BA&action=edit&redlink=1 "分形论（页面不存在）")、[协同学](https://zh.wikipedia.org/wiki/%E5%8D%8F%E5%90%8C%E5%AD%A6 "协同学")
-- 技术科学
-    - [控制论](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E8%AE%BA "控制论")
-    - [信息论](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA "信息论")
-    - [运筹学](https://zh.wikipedia.org/wiki/%E8%BF%90%E7%AD%B9%E5%AD%A6 "运筹学")
-        - [数学规划](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E8%A7%84%E5%88%92 "数学规划")
-            - [线性数学规划](https://zh.wikipedia.org/w/index.php?title=%E7%BA%BF%E6%80%A7%E6%95%B0%E5%AD%A6%E8%A7%84%E5%88%92&action=edit&redlink=1 "线性数学规划（页面不存在）")
-        - [博弈论](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA "博弈论")
-        - [排队论](https://zh.wikipedia.org/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA "排队论")
-        - [库存论](https://zh.wikipedia.org/w/index.php?title=%E5%BA%93%E5%AD%98%E8%AE%BA&action=edit&redlink=1 "库存论（页面不存在）")
-        - [决策理论](https://zh.wikipedia.org/wiki/%E5%86%B3%E7%AD%96%E7%90%86%E8%AE%BA "决策理论")
-        - [搜索论](https://zh.wikipedia.org/w/index.php?title=%E6%90%9C%E7%B4%A2%E8%AE%BA&action=edit&redlink=1 "搜索论（页面不存在）")
-        - [网络](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2 "互联网")技术
-    - [系统方法](https://zh.wikipedia.org/w/index.php?title=%E7%B3%BB%E7%BB%9F%E6%96%B9%E6%B3%95&action=edit&redlink=1 "系统方法（页面不存在）")
-    - [计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6 "计算机科学")
-- 工程技术
-    - [系统工程](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B "系统工程")
-    - [可拓工程](https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E6%8B%93%E5%B7%A5%E7%A8%8B&action=edit&redlink=1 "可拓工程（页面不存在）")
-    - [系统分析](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90 "系统分析")
-    - [大系统理论](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA "大系统理论")
-
-https://en.wikipedia.org/wiki/Systems_science
-https://en.wikipedia.org/wiki/Complex_system
-
-[论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
-
-
 
 ## 👼🏻 Human Intelligence & Human Society
 ### Overview: Self-awareness & Two Essential Human Abilities
+自私和贪婪
 
 
 ### Overview: Human Society & Human History
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
@@ -434,6 +419,66 @@ The following outline provides an overview of and topical guide to academic disc
     - [Journalism, media studies and communication](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Journalism,_media_studies_and_communication)
     - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law_2)
     - [Library and museum studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Library_and_museum_studies)
+#### System Science & Systemology 🤔
+> 🔗 https://zh.wikipedia.org/zh-cn/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6
+
+**系统科学**是指从[系统](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F "系统")的角度观察研究客观世界的一门[学科](https://zh.wikipedia.org/wiki/%E5%AD%A6%E7%A7%91 "学科")。“系统”指的是由相互联系、相互作用的要素（或部分）组成的具有一定结构和功能的有机整体；准确来说，“要素”加上“结构”等于“系统”。研究的领域横跨自然科学与社会科学，却除去其中较为狭窄的物理、生物、心理、经济意义，而把研究重心放在探究各个系统的本质规律上。系统科学主要研究系统的要素（或元素）、结构、系统的行为（性质）
+
+著名科学家钱学森提出系统科学的层次模型，其详细分类如下：
+
+第一层：系统观。次是系统学，它是系统科学的基本理论。这是系统的哲学和方法论的观点，是系统科学通向马克思主义哲学的桥梁和中介；
+第二层：技术科学层次。有运筹学、系统理论、控制论、信息论等，是系统工程的直接理论；
+第三层：工程技术层次。系统工程、自动化技术、通信技术等，这是直接改造自然界的。
+
+- 基础理论
+    - [自组织](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%BB%84%E7%BB%87 "自组织")、[耗散结构理论](https://zh.wikipedia.org/wiki/%E8%80%97%E6%95%A3%E7%BB%93%E6%9E%84%E7%90%86%E8%AE%BA "耗散结构理论")、[超循环](https://zh.wikipedia.org/w/index.php?title=%E8%B6%85%E5%BE%AA%E7%8E%AF&action=edit&redlink=1 "超循环（页面不存在）")、[他组织](https://zh.wikipedia.org/w/index.php?title=%E4%BB%96%E7%BB%84%E7%BB%87&action=edit&redlink=1 "他组织（页面不存在）")、[分形论](https://zh.wikipedia.org/w/index.php?title=%E5%88%86%E5%BD%A2%E8%AE%BA&action=edit&redlink=1 "分形论（页面不存在）")、[协同学](https://zh.wikipedia.org/wiki/%E5%8D%8F%E5%90%8C%E5%AD%A6 "协同学")
+- 技术科学
+    - [控制论](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E8%AE%BA "控制论")
+    - [信息论](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA "信息论")
+    - [运筹学](https://zh.wikipedia.org/wiki/%E8%BF%90%E7%AD%B9%E5%AD%A6 "运筹学")
+        - [数学规划](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E8%A7%84%E5%88%92 "数学规划")
+            - [线性数学规划](https://zh.wikipedia.org/w/index.php?title=%E7%BA%BF%E6%80%A7%E6%95%B0%E5%AD%A6%E8%A7%84%E5%88%92&action=edit&redlink=1 "线性数学规划（页面不存在）")
+        - [博弈论](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA "博弈论")
+        - [排队论](https://zh.wikipedia.org/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA "排队论")
+        - [库存论](https://zh.wikipedia.org/w/index.php?title=%E5%BA%93%E5%AD%98%E8%AE%BA&action=edit&redlink=1 "库存论（页面不存在）")
+        - [决策理论](https://zh.wikipedia.org/wiki/%E5%86%B3%E7%AD%96%E7%90%86%E8%AE%BA "决策理论")
+        - [搜索论](https://zh.wikipedia.org/w/index.php?title=%E6%90%9C%E7%B4%A2%E8%AE%BA&action=edit&redlink=1 "搜索论（页面不存在）")
+        - [网络](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2 "互联网")技术
+    - [系统方法](https://zh.wikipedia.org/w/index.php?title=%E7%B3%BB%E7%BB%9F%E6%96%B9%E6%B3%95&action=edit&redlink=1 "系统方法（页面不存在）")
+    - [计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6 "计算机科学")
+- 工程技术
+    - [系统工程](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B "系统工程")
+    - [可拓工程](https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E6%8B%93%E5%B7%A5%E7%A8%8B&action=edit&redlink=1 "可拓工程（页面不存在）")
+    - [系统分析](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90 "系统分析")
+    - [大系统理论](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA "大系统理论")
+
+https://en.wikipedia.org/wiki/Systems_science
+https://en.wikipedia.org/wiki/Complex_system
+
+[论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
+#### Knowledge Management & Explore
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+
+↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+
+↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
+↗ [Knowledge Graph](Information%20Science%20&%20Computer%20Science/Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
+↗ [Research & QA & Knowledge Websites](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Research%20&%20QA%20&%20Knowledge%20Websites.md)
+
+---
+[3 人类全量通识知识图谱发布了一篇小红书笔记，快来看吧！ 😆 7VldGvy5z1g 😆]: http://xhslink.com/n/AFWwh89Aota
+[多模态学习指北｜求知之路从这里开启]: https://kh18s6uvdi.feishu.cn/wiki/XastwsnMoih0dxkXFPocfk9QnUc
+[知识地图：人类全量知识图谱]: https://mp.weixin.qq.com/s/g_20Uv8zFaNZ-xLyT3FSMA
+[知识宇宙将在飞书社区正式发布]: https://mp.weixin.qq.com/s/SW3ElgqMeCJz2sZPJyxayQ
+[知识地图：人类全量通识图谱]: https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg
+- https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg
+- ![](Assets/Pics/Screenshot%202025-08-24%20at%2014.36.01.png)
+- 知识星球共包含四大部洲：​[A内（心理与思维）](https://m71glec170.feishu.cn/wiki/wikcnGK39a9hgeEzQx2s74O2Bbg)、​[B外（社会科学）](https://m71glec170.feishu.cn/wiki/VeoOwt5Wri8RJfkWUoxcdnVanAc)、​[C人文科学](https://m71glec170.feishu.cn/wiki/wikcnt4k8HSpxZlVOkWXfMa2YQh)、​[D自然科学](https://m71glec170.feishu.cn/wiki/IKjmwiHtSi3ENKkmpHTcdbUcnAg)。​
+	- 无生有：这个知识星球的起点是生命的意义。按照大多数哲学家观点，生命本没有意义，但当我们开始思考这个问题并“存在”着，意义便产生了。如同宇宙大爆炸的奇点，后面的所有内容也都由此生发。​
+	- 一生二：生命的意义可以向内求，也可以向外求。向内求（见自己）我们关注大脑和心理的运行机制，世界运行的内在规律，偏重理论和元认知。向外求（见众生）我们从意义的具体化也就是目标出发，关注更加世俗的社会运行规律以及社会实践。​
+	- 二生三：内外两个板块都可以视为智慧层，需要悟性、实践。要加深对智慧的理解还需要外层一个庞大的知识信息板块去支撑。​
+	- 三生五（万物）：第三个板块知识板块（见天地）则按照学科的分类分为人文科学和自然科学两个部分，此外，每个人还要根据自己的专业特长开辟一个专业板块。其中哲学、数学等基础性本源性学科的知识性内容都放在了知识版块，而其精华的核心思想则融入到了智慧版块。​
+	- 自此，见自己见天地见众生的五大板块便初具雏形，下面是详细地图，每一个小标题同时是链接，点击进入相关文章。
 
 
 
@@ -529,3 +574,7 @@ The following outline provides an overview of and topical guide to academic disc
 
 [一起来说说“改革是什么” | 中华人民共和国国家发展和改革委员会]: https://www.ndrc.gov.cn/wsdwhfz/202411/t20241129_1394742.html
 [习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网]:https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm
+
+[52 【兴趣爱好分类 - 一心一怿 | 小红书 - 你的生活兴趣社区】 😆 jChby4UxkWyXUhz 😆]: https://www.xiaohongshu.com/discovery/item/6821fdd2000000002202ef1f?source=webshare&xhsshare=pc_web&xsec_token=AB4PQh59PvaYOc8Khi7DYLwTd-p5ehjvHZpuGUVovOU5w=&xsec_source=pc_share
+
+[19 【因为一篇帖子了解了“逻辑建构者” - 古典猫 | 小红书 - 你的生活兴趣社区】 😆 DSJLZsce8GSAdb8 😆]: https://www.xiaohongshu.com/discovery/item/680dd242000000001200ce78?source=webshare&xhsshare=pc_web&xsec_token=ABgpo-EqKhYvSF4qXBaO2kp1GAlzXauqcbBAWTPmU2Mc4=&xsec_source=pc_share

@@ -3,6 +3,9 @@
 [TOC]
 
 
+
+## Res
+### Related Topics
 > ↗ [International Opportunities](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 > ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 > ↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
@@ -298,8 +301,18 @@ https://www.zhihu.com/question/416261594/answer/3454868332
 
 
 ### How To PhD? /Research?
+↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+
+https://home.cse.ust.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf#page=1.00
+Instructions for PhD Students
+Dimitris Papadias, HKUST
+A presentation to my PhD students
+
 https://dostum.wordpress.com/wp-content/uploads/2011/07/mastering-your_-phd_.pdf
 Mastering Your PhD | Patricia Gosling Bart Noordam
+
+https://www.bilibili.com/opus/814050380515115091
+《如何确立学术问题——文献综述撰写的目的与方法》文献阅读笔记
 
 [UCB CS PhD第一年总结：我做对/做错了什么 - Sizhe Chen的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1022428048
 做对的

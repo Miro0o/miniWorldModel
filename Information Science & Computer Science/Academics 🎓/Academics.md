@@ -14,6 +14,8 @@
 
 ↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
 
+↗ [Education](../../Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+
 
 ### Publications
 **期刊等级的划分：**
@@ -209,3 +211,5 @@ PS:但凡当年屠呦呦先生在诺贝尔奖演讲词里面，在致敬毛主�
 PS关于门捷列夫为什么没拿奖：
 
 门捷列夫家族是油气寡头。这个寡头在高加索-里海-阿塞拜疆一带跟诺贝尔家族抢油井。激烈程度跟我国山西煤老板抢矿一样，黑白两道各种手段都用上了。以门捷列夫家族大获全胜而告终。那么，诺贝尔怎么会给门捷列夫发奖呢？所以，这个奖从一开始就是不纯粹的。
+
+9 【为什么发出第一篇论文前你的观点不是很重要 - 爱学习的小语 | 小红书 - 你的生活兴趣社区】 😆 rhZEIlkfLErniNp 😆 https://www.xiaohongshu.com/discovery/item/68020269000000001d016913?source=webshare&xhsshare=pc_web&xsec_token=ABLOfWBRKgkPaxjeqZ-MGvaphri8Q-Vs38tX5WQGRQhoA=&xsec_source=pc_share

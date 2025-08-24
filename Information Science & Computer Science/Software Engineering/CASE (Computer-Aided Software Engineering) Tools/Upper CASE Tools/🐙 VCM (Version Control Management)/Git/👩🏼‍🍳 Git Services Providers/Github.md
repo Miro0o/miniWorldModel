@@ -102,3 +102,5 @@ Embed a file from GitHub repository just like GitHub Gist.
 [Specify an SSH key for git push for a given domain]: https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
 
 [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀]: https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg
+
+68 【逛reddit发现个计算机专业宝藏项目 - lantianlaoli | 小红书 - 你的生活兴趣社区】 😆 NRRXibn8YEDFmu8 😆 https://www.xiaohongshu.com/discovery/item/6860b25d000000002203f08d?source=webshare&xhsshare=pc_web&xsec_token=ABFPrLMVyyoChy7ux5KoRS4nBAandVhDvdALDl3U_7BW4=&xsec_source=pc_share

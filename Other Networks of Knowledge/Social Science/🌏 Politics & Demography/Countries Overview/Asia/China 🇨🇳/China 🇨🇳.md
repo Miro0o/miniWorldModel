@@ -59,6 +59,9 @@ https://ytliu0.github.io/ChineseCalendar/index_simp.html
 （编算农历、月相和二十四节气算法、春秋历复原法、古六历计算法、秦至汉初的历法复原）
 如有任何疑问或发现本网站的资料有误，请电邮yuktungliu[AT]gmail[dot]com查询或指正。
 
+https://culturepedia.chinadaily.com.cn/#/homePage
+中华文化英文知识库
+
 
 
 ## Intro

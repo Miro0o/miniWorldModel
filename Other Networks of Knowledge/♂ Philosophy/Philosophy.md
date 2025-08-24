@@ -50,9 +50,35 @@ Philosophers use a great variety of methods to arrive at philosophical knowledge
 
 
 
-## Important Topcis in Philosophy
+## Important Topics in Philosophy
 
 
 
 ## Ref
 [自然哲学 ｜ wiki]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6
+
+40 【强烈建议将康德纳入国内通识教育体系 - 周无桐Lichtung | 小红书 - 你的生活兴趣社区】 😆 vc8xlwPxpN4UDeu 😆 https://www.xiaohongshu.com/discovery/item/68907f3e0000000005004799?source=webshare&xhsshare=pc_web&xsec_token=ABqveQvow0h1flFoxSCFfADxMF7APKy-13Owqh46vsqJo=&xsec_source=pc_share
+
+38 【如果没有读过数学哲学，科学哲学史，我可能还是个好的数学老师，现在教数学回不去了， - Baroque Pearl的工作生活思考+朋友圈 | 小红书 - 你的生活兴趣社区】 😆 eVAtgKVKSY2zaAL 😆 https://www.xiaohongshu.com/discovery/item/687dc81a000000002400aadd?source=webshare&xhsshare=pc_web&xsec_token=ABJqT16EcwckTuVNP6J90qMg10zsCk1y3_tSTRVZcF3W8=&xsec_source=pc_share
+
+50 【建议所有人通过ai来改善哲学阅读体验 - 齐泽克你是一个香香软软的宝宝 | 小红书 - 你的生活兴趣社区】 😆 WGKvJaIBYG7ETaU 😆 https://www.xiaohongshu.com/discovery/item/684fd44e0000000022004dc5?source=webshare&xhsshare=pc_web&xsec_token=ABU5LXYJSBqTaOodnjGEArmsB3sWdDvcHSCFeSp3r-_AM=&xsec_source=pc_share
+
+首先感谢小破站“npc张青登”团队的这个项目
+本人非哲学系，之前读过一点费希特，但太不说人话了，其实主要是翻译的问题，都太老了。然后转头去看谢林也很吃力，于是一直搁置。现在有了这个东西不得不说太方便了，读了几十页目前感觉没有什么太大的问题，甚至可以直接去读德语原文了（不嫌每一句都要翻译麻烦的话），从这点来说，以后限制普罗大众学习哲学的也许只有懒惰了， ai理解概括文本的能力太强了：
+The outgoing, by nature infinite activity is the objective in the self; the self-reverting activity is nothing else but the striving to intuit oneself in that infinitude.
+严谨版本：
+"本质上具有无限性的外向活动是自我本身的对象；自我回返的活动不过是试图在无限性中直观自身。"
+通俗版本：
+"人总是不断向外探索的无限行为，这就是自我追求的目标；而自我反思的行为，其实就是想在无限中理解自己。"
+语法结构分析：
+主句结构：两个并列分句通过分号连接
+第一分句：
+主语：The outgoing, by nature infinite activity（具有自然无限性的外向活动）
+系动词：is
+表语：the objective in the self（自我中的目标）
+第二分句：
+主语：the self-reverting activity（自我回返的活动）
+系动词：is
+表语：nothing else but the striving to intuit oneself in that infinitude（不过是试图在无限中直观自身的努力）
+其中"striving to intuit"为动名词短语作表语，"in that infinitude"为介词短语作状语
+注：该句使用了哲学文本中常见的抽象表达方式，通过对比"outgoing"（外向）与"self-reverting"（自我回返）的辩证关系，阐述了自我认知的两种基本运动形式。

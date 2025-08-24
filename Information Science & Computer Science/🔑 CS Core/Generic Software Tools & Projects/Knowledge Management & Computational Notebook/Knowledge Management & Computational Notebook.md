@@ -12,6 +12,8 @@
 ↗ [Knowledge Graph](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
 ↗ [📇 Docs Management](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
 
+↗ [Research & QA & Knowledge Websites](../🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Research%20&%20QA%20&%20Knowledge%20Websites.md)
+
 
 ### Other Resources
 https://gist.github.com
@@ -90,3 +92,20 @@ All content in notebooks is made in cells. Within cells, you can author formatte
 
 ## Ref
 [Notebook interface | Wikipedia]: https://en.wikipedia.org/wiki/Notebook_interface
+
+82 【未来几十年的电子笔记的形式 - momo | 小红书 - 你的生活兴趣社区】 😆 c6n4Dv9007LscTA 😆 https://www.xiaohongshu.com/discovery/item/67f63cf9000000001c012264?source=webshare&xhsshare=pc_web&xsec_token=ABfCa_3mOSa1fkttXbwexyG8QTB3GnC2pzKz9AqFELV-E=&xsec_source=pc_share
+Obsidian用了很多年，结合Excalidraw电脑绘图，笔和本子很少在用了
+	
+这两天把deepseek(api价格是真的便宜)通过obsidian copilot插件集成到了我的Obsidian里面，他可以读取我过去的所有学习笔记和写作风格
+	
+P1: 自动检索相关笔记，进行推荐关联
+P2: 快速帮我查漏补缺，补全知识体系漏洞
+P3: 总结当下笔记，检查是否有概念性的错误
+也可以寻找自己之前写过的某一句话，但是不清楚写在哪里了
+	
+这里提一嘴如果你要使用嵌入式模型到obsidian copilot里面，你要选择BAAI/bge-m3（在硅基流动里面可以选）嵌入模型，因为默认都是chat模型，没法检索你所有的库
+感谢AI带来的知识的飞跃，期待未来的学习模式。
+
+71 【油管学到一个很厉害的工作流 - 爱好很多的狩江 | 小红书 - 你的生活兴趣社区】 😆 Drve4iQXAQXMFOx 😆 https://www.xiaohongshu.com/discovery/item/67ef31c5000000001d00b2c9?source=webshare&xhsshare=pc_web&xsec_token=AB_KhEGa6motd5AaGMrGPvT_UFXNb7NhJ6HcUIVBWORlk=&xsec_source=pc_share
+视频名是Tony Huang- Learn Anything Faster: Save 80% of Your Time with Gemini Deep Research & Obsidian
+我也来推荐一个超棒的AI领域博主：Andrej Karpathy

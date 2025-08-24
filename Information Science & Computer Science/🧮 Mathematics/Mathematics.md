@@ -30,7 +30,7 @@
 [高德菲·哈罗德·哈代](https://zh.wikipedia.org/wiki/%E9%AB%98%E5%BE%B7%E8%8F%B2%C2%B7%E5%93%88%E7%BE%85%E5%BE%B7%C2%B7%E5%93%88%E4%BB%A3 "高德菲·哈罗德·哈代")
 《[一个数学家的自白](https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%9A%84%E8%87%AA%E7%99%BD "一个数学家的自白")》
 
-📖 吴军通识数学讲义
+📖 《吴军通识数学讲义》
 
 项武义的《基础几何学》
 陶哲轩的《陶哲轩教你学数学》
@@ -450,3 +450,5 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 链接：https://www.zhihu.com/question/20953633/answer/4831870876  
 来源：知乎  
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+18 【“函数”为什么会是“函”？ - 寧世科学辞海 | 小红书 - 你的生活兴趣社区】 😆 5S8BzU9XHLSWs1y 😆 https://www.xiaohongshu.com/discovery/item/6864ee7a000000001c037de0?source=webshare&xhsshare=pc_web&xsec_token=ABHzGdmnpgYvtcNm2A8tGi6K37DylddLz7LmNksWs70Dk=&xsec_source=pc_share

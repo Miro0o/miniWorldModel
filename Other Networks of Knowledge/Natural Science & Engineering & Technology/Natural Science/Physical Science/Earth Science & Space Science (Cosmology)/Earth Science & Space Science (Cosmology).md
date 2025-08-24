@@ -30,3 +30,5 @@ _Free, open-source tool for exploring space in 3D_. Simulate satellite launches,
 
 
 ## Ref
+30 【看清楚了！这就是你在宇宙的详细位置！ - NASA宇宙~ | 小红书 - 你的生活兴趣社区】 😆 WPiTJAmHglFsBo0 😆 https://www.xiaohongshu.com/discovery/item/6795c007000000002900c808?source=webshare&xhsshare=pc_web&xsec_token=ABf0rhelz1rd1IXZ8t_Om0Tv8xm86JDtaI9Qtgyi941wQ=&xsec_source=pc_share
+

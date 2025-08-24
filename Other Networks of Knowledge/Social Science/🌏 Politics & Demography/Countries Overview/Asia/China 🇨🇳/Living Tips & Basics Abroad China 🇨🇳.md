@@ -38,13 +38,13 @@ Immigration Medical Examination ｜ 出国移民体检
 - [ ] 案板 /篦子 /蒸笼
 - [x] 餐具 /饭盒
 - [ ] 筷子
-- [ ] 秋衣秋裤
+- [x] 秋衣秋裤
 - [x] 工具箱
 - [x] 床单 /被套？/衣架 ？
 - [ ] 自行车？
-- [ ] 雨伞 /雨衣rain
+- [x] 雨伞 /雨衣rain
 - [x] 面罩- 做饭用
-- [ ] 路由器
+- [x] 路由器
 - [ ] 拖鞋
 - [x] 指甲刀
 - [x] 刮胡刀刀片
@@ -55,6 +55,13 @@ Immigration Medical Examination ｜ 出国移民体检
 - [ ] 其他衣物
 	- [x] 廉航马甲
 - [x] 防盗锁
+
+- 垃圾桶
+- 拖鞋
+	- 凉鞋
+- 洗手液 /体恤泡沫
+- 自行车
+- 
 
 ### 驾照及翻译 /公证
 36 之道发布了一篇小红书笔记，快来看吧！ 😆 e4pUoP1SfRoWGKM 😆 http://xhslink.com/a/U6Q4XSlDPIE9，复制本条信息，打开【小红书】App查看精彩内容！
@@ -207,15 +214,93 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 
 
 ### 日常开销
-34 【穷鬼helps穷鬼，美国穷鬼生存指南 - 林黛玉三打白骨精 | 小红书 - 你的生活指南】 😆 pC7qHRQJLGmgzez 😆 https://www.xiaohongshu.com/discovery/item/667ce64b000000001c034153?source=webshare&xsec_token=CBEmmhnt3aS8o8LQBYAd-sQvR_XeZkNKOrh3AUsgnaQm8=&xsec_source=pc_share
+2 林黛玉三打白骨精发布了一篇小红书笔记，快来看吧！ 😆 3TGQOW1mlTH 😆 http://xhslink.com/n/9phFbiMY0Uf 复制本条信息，打开【小红书】App查看精彩内容！
+穷鬼helps穷鬼，美国穷鬼生存指南
+终于搬完家了，以下写给即将来美的uu们。
+1. 关于吃，阿美莉卡不比国内，它不是你吃肯德基不看星期几的地方，出门吃饭饭很贵税很贵小费也很贵，只有自己是最贱的。本穷鬼除了来美第一天是在同公寓的姐妹那蹭的饭，第二天起就买齐了厨具开始自己做菜。如果只买原材料做饭，每周买些水果，每个月大概<200，如果一个月出门吃几次便宜点的饭（人均~20的那种），偶尔买点五刀十刀的中式速食，大概一个月吃到300+。
+2. 当然，怎么去、去哪个grocery买菜也是有点子讲究的。个人感觉开遍全美的低价grocery就是Walmart和Costco了吧，我买了前者的会员，满35刀可以免费送上门，就不用坐公交出门了，但坏处是Walmart的delivery经常会缺货，因为不是自己挑出来的，有时候会有快要坏掉的果蔬。如果你没车，这时候有个有车的朋友/住在grocery边上/公交相对便利/督促自己其他的穷鬼朋友赶快攒钱买车就很重要了，我后来就经常蹭我朋友的车去Costco（祝她长命百岁），Costco走会员制低价批量销售的路子，所以可以蹭朋友的会员卡买来以后分掉。还有另外一些比较便宜的超市，不知道其他城市有没有：farmers market（墨西哥超市），aldi（德国超市）；大中华和百佳的某些蔬菜比别的地方便宜，而且对于中国胃有其不可替代性，可能应该每个城市都有吧。
+3. 留子花销的大头除了吃就是住。如果当homeless每月立省千刀，甚至遇到好心人还能日入五十刀（bushi）。我当时是从Facebook的marketplace上找的转租，有些人会降价转租，所以我是月租比官网便宜四五十刀租到的包utilities带家具的房子。如果是不包utilities的房子可能每个月还要在房租上加上50-200刀（取决于季节和室友用电习惯）。如果不带家具也可以从当地的二手群地瓜/FB上买点便宜的二手，没车就多买点+多说几个could you please让人家送上门，或者去IKEA买新的也能送上门。
+4. 初来乍到可能有很多需要买的东西，生活用品可以从Amazon上买（教育邮箱有半年的prime会员），电子产品去bestbuy/等开学季折扣，还可以用rakuten这种返利软件，银行开户找人refer就可以有开户奖励和refer reward，用信用卡消费也可以返利。
+5. 电话卡我用的是Tello，选了最便宜的套餐（100min+2G+unlimited text），一方面是因为它只用8刀/月，另一方面也需要限制自己少玩手机😢有谁想跟我一样自愿蹲大牢的可以私我refer
 
 
 ### 做饭
+23 【教大学生认识猪肉详细版 - 猪哥的猪肉铺 | 小红书 - 你的生活兴趣社区】 😆 H718o6N5fFJtRQt 😆 https://www.xiaohongshu.com/discovery/item/67b6e9fa000000001203e170?source=webshare&xhsshare=pc_web&xsec_token=ABrBG8lq3umBP5KRoxW6-CsZQMWq0CqK7hMet_IqU28A4=&xsec_source=pc_share
+
+13 【美国超市买的猪肉总是腥怎么办！ - 咪呀在硅谷 | 小红书 - 你的生活兴趣社区】 😆 Gr0YyUWk4l5l4Uc 😆 https://www.xiaohongshu.com/discovery/item/641c92bf0000000013012163?source=webshare&xhsshare=pc_web&xsec_token=ABDvljkeqbIKDPg-zBqrp_94AnE9dmlGOl3FufLHvxB9E=&xsec_source=pc_share
+北美costco或者其他超市买的猪肉总是有腥味是因为杀猪不放血。
+1. 加一勺白醋，加一点点盐，加凉水没过肉肉。
+2. 然后中小火烧到快开。
+3. 再拿出来洗一下。
+4. 做的时候加料酒。这样就不腥啦！
+一定不能大火，那样的话时间太短，肉质也不好～如果还是有点味道可以拿出来的时候用面粉洗😀
+
+93 【6年北美厨子的肉类去腥大法 - 纽约独活女子的推荐 | 小红书 - 你的生活兴趣社区】 😆 wCsrnwge3CfENh8 😆 https://www.xiaohongshu.com/discovery/item/67e45515000000000d0152fb?source=webshare&xhsshare=pc_web&xsec_token=ABa084tgWOvcD2BRBGFgVFd9339vEqWd1hi0aladPKM24=&xsec_source=pc_share
+6年前来美国做的第一顿小炒肉那直击灵魂的腥味至今仍记忆犹新，6年来神农尝百草般试了无数种方法，总算摸索出一点肉类去腥的门道，和大家分享：
+	
+腌：用葱姜料酒腌制15min+，下锅后再开大火淋一圈料酒。这个方法是最基本的，并且可以和其他方法叠加
+🥘适用场景：炒菜，如小炒肉；没有血水的肉类，如鱼肉
+	
+焯水：切记1）冷水下锅 2）火不能太大 最好中小火 3）焯水过程不要翻动肉块 否则血水容易凝固在里面 4）等肉全部变色 血沫子全部飘出后将肉捞出用温水洗净
+🥘适用场景：烧菜炖菜，如烧牛肉 卤牛腱；炖汤，如排骨汤 鸡汤 椰子鸡；凉拌菜，如手撕鸡
+	
+炒/煎：用油先单独把肉炒一遍，把肉里面的水汽炒干。一开始锅里的油会很浑浊，并且会闻到腥味飘出来。等到锅里不再散发腥味，油变清亮，血水和腥味就基本去干净了。此时把肉捞出来，把锅擦干净，重新倒油按正常流程炒菜
+🥘适用场景：肉质较松的炒菜烧菜，如芋儿鸡 青椒鸡（炒出水份 让肉质更紧）；烤肉，烤肉时把煎出的浮沫用厨房纸擦掉，肉煎干一点；肉末，肉末太细 焯水肉会散掉 腌+炒更合适
+	
+泡：提前用盐水把血水泡出来
+🥘适用场景：火锅，如火锅牛肉片（这种场景下肉类不能熟着下锅 不能炒/焯水，但是只腌制的话 可能还是有血水/腥味，所以最好先泡，再根据菜品决定是否需要腌）
+	
+煮+撇去浮沫:和焯水的区别是有时需要热水下锅&水不用倒掉，注意等腥味散完再加配菜
+🥘适用场景：需要保留肉汤&血沫不是很多的菜，如丸子汤 跷脚牛肉 也可以泡+煮结合
+	
+买：尽量去肉比较新鲜且肉质较好的超市买菜，我现在基本买猪肉都在whole foods和H mart；好的牛肉即使看起来有血水，直接炒了吃也不会有异味，比如whole foods的short ribs；买本身就没有血水的肉，比如香肠腊肉、培根、trader joes的熟五花肉；diverse肉的种类，如鱼 虾 蛤蜊等
+	
+复杂的处理肉的过程其实是作为异乡人的我们为了更靠近习惯的生活方式所作的努力。生活在北美，小到一口腥味冲天的猪肉，大到感觉生活无聊空虚 没有国内的便利和烟火气，不习惯和作为不被代表的群体体验无处不在。关于更多北美生活中的不便和解法，欢迎收听我们最新一期的播客。
+
+99 【🇫🇷程序员的独家牛排煎法有点颠覆但好吃 - 饲养员小呼 | 小红书 - 你的生活兴趣社区】 😆 YAvHc6JWxIjJgIv 😆 https://www.xiaohongshu.com/discovery/item/689cf352000000001d03b54a?source=webshare&xhsshare=pc_web&xsec_token=AB5kn7cU8Y9QpaVF597-EAyZUiGdUvZq1Mijxou7Omyxs=&xsec_source=pc_share
 
 
 ### 租房
 
 
+### 票务 & 活动
+81 【建设一下🇩🇰哥本哈根看欧冠攻略 - Paranoid Sleeper | 小红书 - 你的生活兴趣社区】 😆 DCQx1ldUdSSTCJa 😆 https://www.xiaohongshu.com/discovery/item/663af718000000001e0246e4?source=webshare&xhsshare=pc_web&xsec_token=ABRdrtNnjivxlD8I7ETj-80WQJxT4O4IMdoQHC_TpLwRU=&xsec_source=pc_share
+这场票早早就售罄了，需要哥本哈根队的会员才能从官网购票，但我没有会员，所以选择了二手网站。这里推荐两个：stubhub和viagogo。一般开场前一周会降价，这场就比前一周降了一千多。因为价格是波动的，大家可以多刷刷。 而且我对比了这两个app的价格，发现卖的票是差不多的。（因为这场剩下的票很少，一对比就能发现其实是同样的票挂在两个地方卖。）但是stubhub的价格较为便宜，所以选择了它。
+
+78 【欧冠球票确实值回票价，值不值回溢价不好说 - 拉筋 | 小红书 - 你的生活兴趣社区】 😆 kSwQAgFMPXB7zys 😆 https://www.xiaohongshu.com/discovery/item/66324a92000000001e039ed4?source=webshare&xhsshare=pc_web&xsec_token=AB-QvcRURT8QgzvQ6ixhNXh9z9CNAFNBrU2i3xiWLpmw8=&xsec_source=pc_share
+
+2 【欧洲看球之购票攻略 - 小小罗会NLP | 小红书 - 你的生活兴趣社区】 😆 y3CIVyF3UJmTLXJ 😆 https://www.xiaohongshu.com/discovery/item/667a42ea000000001f0064c0?source=webshare&xhsshare=pc_web&xsec_token=ABSSh7ocPhubfVXMdWWXl-Al-gSFhe6bEhXXebzM_k1SM=&xsec_source=pc_share
+初伦敦欧冠决赛夜狂欢后收到不少关于球票的咨询，特此把我呕心沥血的研究分享给大家
+	
+1️⃣ 官网
+如果你时间充裕，或者是联赛/不热门的比赛，我建议先去球队官网碰运气，这最权威以及票价最合理的。但值得注意的事季票持有者会有更高的优先级
+	
+不仅联赛，像欧冠，欧洲杯，世界杯等杯赛和洲际锦标赛也可以提早去官网提交Application进入Lottery碰运气，如果被抽中可以选择买或者不买，如果最后不去的话可以转售。比如欧冠决赛的application（欧足联Uefa官网）提早2-3个月就截止，我没想到皇马会淘汰曼城所以并未提早准备，这一点失策。所以关键词是“尽早”！
+	
+2️⃣ 非官网 - 第三方售票网站
+如果1️⃣行不通，或者时间紧迫，一票难求，那以下的第三方售票网站是你最好的朋友。上面提到了有些人可能会因为各种原因无法看球因而转售，或者有专业的球票代理从事售票业务（类似黄牛），他们会在这些网站上转售。代价是会贵很多，因为溢价+平台手续费，好处是有保障，除非碰到老赖卖家（罕见，平台会赔给你钱，虽然会错过比赛但至少比什么都没有强），平台也会提供卖家的评分来彰显诚信。下面是我根据各个评分网站（Trustpilot-图11，和reddit网页反馈-图12）做的一个排序：
+	
+livefootballtickets.com 最推荐，非常喜欢的一个博主Thogden代言，体验极佳，决赛前2天在Uefa Tickets的APP收到球票
+ticombo.com
+tickpick.com
+seatgeek.com
+footballticketnet.com
+stubhub.co.uk
+fanpass.com
+1boxoffice.com
+vividseats.com
+footballticketnet.com
+ticketmaster.com
+footballticketpad.com
+stubhub.ie
+seatpick.com
+viagogo.com
+	
+3️⃣ 不要相信reddit上私信来卖票的人，多半是骗子，deal at your own risk
+
+
+
+## 👉 海外和大陆差异
 ### 学习生活
 87 【听说这已经是留学生公认的潜规则了... - 多喝冰水 | 小红书 - 你的生活指南】 😆 HKE5o2G6iswyg6e 😆 https://www.xiaohongshu.com/discovery/item/6687a91c000000001c025596?source=webshare&xsec_token=CBztp1CNZp3d5cQ_r8DW7HCv2p65GELLaVET7SXP419MQ=&xsec_source=pc_share
 
@@ -298,9 +383,10 @@ https://www.zhihu.com/question/443962153/answer/1913195992980914278
 典型社交型、派对动物白女基本没可能，能跟你表面过得去，不骂你就算好事了。
 
 
+### 文化交流
+78 【留法半年，摸清了洋人的文化崇拜链 - 痴情土狗 | 小红书 - 你的生活兴趣社区】 😆 YlqYme3xSX6zNMx 😆 https://www.xiaohongshu.com/discovery/item/6801f09f000000001202d916?source=webshare&xhsshare=pc_web&xsec_token=ABYfZccfWaZkUyeDqY9IWd_pGGz4PShcQb8wBSw-k1-ZY=&xsec_source=pc_share
 
-## 👉 海外和大陆差异
-### 美国
+
 [当你来到美国，最让你惊讶的是什么？ - 知乎用户zuP0YW的回答 - 知乎]: https://www.zhihu.com/question/510075038/answer/102983291926
 
 刚来美国的时候在[东北部](https://zhida.zhihu.com/search?content_id=713711933&content_type=Answer&match_order=1&q=%E4%B8%9C%E5%8C%97%E9%83%A8&zhida_source=entity)一个小城市和一帮本科生合租，开了不少眼界。

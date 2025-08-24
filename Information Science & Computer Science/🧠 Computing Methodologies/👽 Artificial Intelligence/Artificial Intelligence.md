@@ -6,15 +6,17 @@
 
 ## 🤙🏾 Res
 ### Related Topics
+↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+↗ [LLM (Large Language Model)](🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
 ↗ [Awesome AI (Tools)](👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
-↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-↗ [MLOps](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
 
 ↗ [Statistical Learning Theory](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 ↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
-↗ [LLM (Large Language Model)](🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
+- ↗ [AIGC (AI-Generated Content) & AGI (Artificial General Intelligence)](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AIGC%20(AI-Generated%20Content)%20&%20AGI%20(Artificial%20General%20Intelligence)/AIGC%20(AI-Generated%20Content)%20&%20AGI%20(Artificial%20General%20Intelligence).md)
+- ↗ [MLOps](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
 
 
 ### Websites & Communities

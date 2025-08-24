@@ -16,6 +16,13 @@
 ↗ [The Essence of Computing - Program](../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 
+### Popular Science
+小lin说
+漫士沉思录 ｜ 小红书号：6806797733
+李永乐
+3b1b
+
+
 ### Other Resources
 [Tencent WE science conference](https://we.tencent.com/review.html)
 

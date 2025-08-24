@@ -34,3 +34,4 @@ A 64-bit version of the operating system is also available and can be selected a
 
 The default 'go-to' image is still the 32-bit version, so this is what we ship with our SD cards and kits.
 
+72 【我写了一篇详尽的《玩转树莓派》学习笔记 - UinIO电子技术实验室 | 小红书 - 你的生活兴趣社区】 😆 G0sAw3VIEZDMil1 😆 https://www.xiaohongshu.com/discovery/item/6791b1100000000018007bc1?source=webshare&xhsshare=pc_web&xsec_token=ABQOVdYknsGOCrPZHVSujVXWcEZ0b1QDm0Oev3EVQcW4E=&xsec_source=pc_share

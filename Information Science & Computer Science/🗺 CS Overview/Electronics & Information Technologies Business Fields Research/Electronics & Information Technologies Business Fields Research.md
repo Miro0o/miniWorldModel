@@ -6,9 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 ↗ [Institutes & Organizations in IT](../Institutes%20&%20Organizations%20in%20IT.md)
+
 ↗ [IT Entrepreneurship & Internet](../../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
+↗ [Conferences & Events in Academia](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conferences%20&%20Events%20in%20Academia.md)
+↗ [Conference & Events in Industry](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)
+↗ [Academics](../../Academics%20🎓/Academics.md)
+- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
+
+↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 
 ↗ [History of Computer Evolution](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
 ↗ [History of Computer Networking and Communication Evolution](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
@@ -16,9 +22,6 @@
 
 ↗ [AI WatchList](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 
-↗ [Conferences & Events in Academia](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conferences%20&%20Events%20in%20Academia.md)
-↗ [Conference & Events in Industry](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)
-↗ [Academics](../../Academics%20🎓/Academics.md)
 
 
 ## Intro

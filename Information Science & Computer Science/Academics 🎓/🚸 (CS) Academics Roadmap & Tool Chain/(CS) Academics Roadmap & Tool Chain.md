@@ -48,6 +48,11 @@ https://github.com/WengLean/hands-on-research-tutorial
 
 
 ## 0️⃣ Before Academic Research..
+### AI Work Flow
+42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
+
+
+
 ### Academic Qualities
 academic integrity
 
@@ -60,11 +65,31 @@ academic methedology
 ### Inspiration & Ideas
 
 
-### Scholars & Academic Trends 
+### 📲 Follow Scholars & Academic Trends & Updates 
+↗ [Academic Networks - People and Institutions (in IT Industry)](../Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
+
 https://www.aminer.cn/
 AI帮你理解科学
 
 https://csrankings.org/#/index?all&us
+
+78 【博士生都是怎么紧跟学术前沿的 - 阿瓜（正经版） | 小红书 - 你的生活兴趣社区】 😆 1kjUhQSQyFqMldy 😆 https://www.xiaohongshu.com/discovery/item/67f66801000000000f032f5a?source=webshare&xhsshare=pc_web&xsec_token=ABfCa_3mOSa1fkttXbwexyG7oABrvA-YuwhSepS5gFiqU=&xsec_source=pc_share
+	
+👇🏻以下是搜集latest文献的方法汇总：
+1️⃣ Stork （文献鸟）
+设定研究领域，油箱和提醒频率，每有新论文发布时，自动推送匹配内容。
+.
+2️⃣ResearchGate
+找到并follow所在领域的知名学者。定期查看他们的更新动态、发布的论文和问答内容，也能获得很多灵感。
+.
+3️⃣订阅期刊的Email Alert服务
+大部分期刊主页都提供email提醒服务，只需输入油箱地址，即可在新论文上线时第1时间收到通知。
+.
+4️⃣启用 Google Scholar 的文献推送功能
+设置关键词提醒后， Google Scholar会在相关新文献发布时将提醒发送至你的油箱。只需快速查看摘要，就能初步了解论文内容。
+.
+5️⃣关zhu优质行业公众號
+选择几个更新稳定、内容专业的学术或行业公众號，它们会定期推送精选文献和研究热点，作为信息补充很有帮助。
 
 
 
@@ -335,3 +360,7 @@ The **PubPeer** Foundation is a California-registered public-benefit corporati
 
 [👍 收藏！50个国内外常用学术网站 - 科邦实验室的文章 - 知乎]: https://zhuanlan.zhihu.com/p/400164121
 [👍 25个国内外文献数据库]: https://blog.csdn.net/hepiaopiao_wemedia/article/details/125237427
+
+73 【和Gemini的协作让我深感学习模式的深刻变化 - 镜湖雨 | 小红书 - 你的生活兴趣社区】 😆 2K2nqDo2gz7gS7Q 😆 https://www.xiaohongshu.com/discovery/item/687bc7220000000020019109?source=webshare&xhsshare=pc_web&xsec_token=ABneFU1n6--jk8kHivzgTaLuLPtVn-85kcjdpwiNiS06c=&xsec_source=pc_share
+
+13 【如何做到闭关写论文😊 - 咪小呆 | 小红书 - 你的生活兴趣社区】 😆 v7FVoxykfZ3cKGk 😆 https://www.xiaohongshu.com/discovery/item/677210a000000000140260ce?source=webshare&xhsshare=pc_web&xsec_token=ABVAlmWfEEe9WO1WXv8Tr9oVa1Vsj9yDExq7JFol3FQeQ=&xsec_source=pc_share

@@ -50,6 +50,8 @@ EE related products & blogs
 	- Search for reviews and tests in our vast and expansive database of PC hardware reviews from the tech sphere. This database contains reviews from reputed technology websites, and lets you find reviews based on user popularity.
 - [Upcoming Hardware Launches](https://www.techpowerup.com/review/future-hardware-releases/)
 
+http://www.uinio.com/
+UinIO 电子技术实验室
 
 ### IC Design / Emulations
 🏠 https://github.com/logisim-evolution/logisim-evolution

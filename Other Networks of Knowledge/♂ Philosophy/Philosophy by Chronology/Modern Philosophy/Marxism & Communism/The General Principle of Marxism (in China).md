@@ -13,6 +13,17 @@
 - ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
 
 
+### Learning Resources
+《马克思主义基本原理（2023年版）》 - 高等教育出版社
+- 导论
+- 世界的物质性及发展规律
+- 实践与认识及其发展规律
+- 人类社会及其发展规律
+- 资本主义的本质及规律
+- 资本主义的发展及其趋势
+- 社会主义的发展、规律、及其最终实现
+
+
 
 ## Intro
 > ↗ [The General Principle of Marxism (in China)](The%20General%20Principle%20of%20Marxism%20(in%20China).md)
@@ -33,6 +44,10 @@
 
 
 
+## 资本主义的本质、发展、及其规律
+↗ [Economics & Finance](../../../../Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+
+
 
 ## 社会主义的发展及其规律
 
@@ -40,4 +55,3 @@
 
 ## Ref
 [《马克思主义基本原理（2023版）》目录—修改对比]: https://marx.yzu.edu.cn/yuanli/info/1028/1136.htm
-

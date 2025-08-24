@@ -50,6 +50,18 @@ https://github.com/PKUanonym/REKCARC-TSC-UHT
 
 如果您是清华大学学生，可移步 [https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT) 进行查看并且能节约不少流量。
 #### ZJU
+https://isshikihugh.github.io/zju-cs-asio/
+本仓库目前主要以收集各类与 ZJU-CS 有关的网站形式的资料为主，具体分四大类：
+1. 💎 由个人维护的个人笔记网站/博客网站等，可以了解到各个同学的具体学习经历和比较个人化的知识理解，不乏精品；
+2. 🔮 由学生组织维护的教学资料网站等，相对来说范围更广，覆盖面更全，完成度更高，但多样性可能较差；
+3. 🧲 课程组维护的教学资料网站等，如实验手册等，适合提前了解特定课程的相关内容；
+4. 🎉 其他，例如个人整理的课程资料；
+
+出于一些原因，我并不打算在这个仓库中收集诸如课本、真题、大作业等可能引发一系列问题的资料，本仓库希望为各个相对来说更具有原创性的资料提供一个汇总、索引、引流的根入口。
+（由于混计人数在混合班中基数较大，所以也收录了一部分 ckc 的资源。）
+如果你喜欢这个项目，可以[给这个项目一个 ⭐️](https://github.com/IsshikiHugh/zju-cs-asio)；如果你发现项目中部分资源信息过时或有误（如链接失效、有更合适的描述等），又或者是你想分享更多的资源，请查看[贡献方法](https://isshikihugh.github.io/zju-cs-asio/#%E8%B4%A1%E7%8C%AE%E6%96%B9%E6%B3%95)！
+
+---
 https://qsctech.github.io/zju-icicles/
 浙江大学课程攻略共享计划
 
@@ -602,7 +614,7 @@ The way this notebook is constructed. Just check the directories of this noteboo
 
 ↗ [Academics](../../Academics%20🎓/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Institutions in Electronic & Information Fields](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -927,7 +939,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Academic Research Groups - Profiles & Vacancies](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies.md)
+> ↗ [Research Groups Watchlist - Profiles & Vacancies](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -946,6 +958,9 @@ https://support.huawei.com/enterprise/zh/index.html
 为了方便查找，根据“编程语言”归类。（目前先整理两个编程语言，今后有空再补充其它语言）
 - [C/C++](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
 - [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
+
+---
+https://www.philfan.cn/index.html
 
 ---
 👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)

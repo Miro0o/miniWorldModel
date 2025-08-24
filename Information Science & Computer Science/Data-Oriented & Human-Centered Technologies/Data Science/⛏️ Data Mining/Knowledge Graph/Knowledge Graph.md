@@ -1,8 +1,10 @@
-# KG
+# Knowledge Graph
 
 [TOC]
 
 
+## Res
+### Related Topics
 
 KG, knowledge graph, is the backbone of ML.
 
@@ -14,8 +16,14 @@ KG, knowledge graph, is the backbone of ML.
 
 [这是一份通俗易懂的知识图谱技术与应用指南](https://www.jiqizhixin.com/articles/2018-06-20-4)
 
-
-
 - https://www.youtube.com/playlist?app=desktop&list=PLFI1Cd4723_QRcDU28fm2TBcMkMk2Rbz7
 - https://mp.weixin.qq.com/s/9bc8b-VtlW0seKgloLEvRQ
 - https://mp.weixin.qq.com/s/gZ2k2BdM1T-Xf0hdNqzH0Q
+
+
+
+## Intro
+
+
+
+## Ref
