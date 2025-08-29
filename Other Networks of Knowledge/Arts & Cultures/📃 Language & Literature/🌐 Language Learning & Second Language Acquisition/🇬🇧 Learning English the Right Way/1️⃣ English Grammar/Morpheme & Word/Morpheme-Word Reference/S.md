@@ -5996,10 +5996,25 @@
 	4. metascope
 	5. somascope
 4. **scept-, skept-** = skeptic, 表示“怀疑”。源自希腊语 skeptesthai "to examine, consider."
-	1. scepsis, sceptic, sceptical
-	2. skeptic, skeptics, skeptical
+	1. skeptic /sceptic
+		1. skeptic（怀疑论者）：仔细察看的人  
+		2. 公元前二、三百年前，在古希腊的一名哲学家皮洛（Pyrrho）开创了一门新的哲学学派。皮洛主张人的感知是不可靠的，人们无法据此获得真理。因此，他主张超然物外，对一切事物都保持淡定，不要轻易做出判断。他的口号是：“不做任何决定，悬搁判断。”  
+		3. 据拉尔修写的传记，皮洛不关心任何事物，也不避免任何事物，对车祸、摔倒、被狗咬之类的危险无动于衷。有一次，他的朋友跌入泥坑，他径直走过，没有出手相助。又有一次在海上遇到风浪，别人都惊慌失措，他却若无其事，指着船上一头正在吃食的猪说，这才是人应有的不动心的状态。  
+		4. 皮洛的门徒们自称为Skeptikoi，该词来自希腊语skeptesthai（察看、深思），词根skep=scop、spec（察看）。因此Skeptikoi可以理解为“仔细察看的人。”英语单词skeptic（怀疑论者）就来源于此，用来表示对事物保持质疑态度的人，尤其是对宗教信仰持有质疑态度的人。  
+		5. skeptic： ['skɛptɪk] n.怀疑论者，无神论者  
+		6. skeptical： ['skɛptɪkl] adj.怀疑的，怀疑论的，不可知论的  
+		7. skepticism： ['skɛptɪ,sɪzəm] n.怀疑论，怀疑的态度
+	2. scepsis /skepsis
+		1. _n._ 〈美〉怀疑,怀疑哲学
+		2. 
+	3. skeptics
+	4. skeptical
 		1. _n._ [intellectual](dic://intellectual), [intellect](dic://intellect)
 		2. **skeptical**怀疑的;**sceptical**怀疑的;**skepticism**怀疑论;**atheist**无神论者;**believer**者;**scientist**科学家;**agnostic**不可知论者;**optimist**乐天派;**proponent**支持者,拥护者;**environmentalist**环境保护论者, 人类生态学者;**fundamentalist**信奉正统派基督教的人;
+		3. _adj._ [incredulous](dic://incredulous), [distrustful](dic://distrustful)
+		4. _n._ [credulous](dic://credulous), [trustful](dic://trustful), [trusting](dic://trusting)
+		5. **sceptical**怀疑的;**skeptic**怀疑论者;**wary**机警的;**hesitant**踌躇的;**skepticism**怀疑论;**skeptics**疑论者，怀疑主义者;**convinced**确信的;**intrigued**的兴趣;**unimpressed**印象平平的;**apprehensive**忧虑的;**cautious**谨慎的;
+		6. Etienne Pays, a parasitologist at the Free University of Brussels, is skeptical of the idea that a new transcriptional body is in human cells. /比利时布鲁塞尔自由大学的寄生虫学家佩斯，对于人类细胞也有个新转录体的说法，表示怀疑。
 5. **speci-, = look, kind,** 
 	1. speciate,
 		1. - vi. （通过进化）形成物种
@@ -6243,7 +6258,7 @@
 		44. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
 		45. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
 		46. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
-16. spy
+7. spy
 
 
 ### + \*spel- +

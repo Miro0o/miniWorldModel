@@ -768,7 +768,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 ### $21^{th}$ Century: New Challenges & Opportunities
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
-#### UN Agenda 21 & SDG
+#### UN Agenda 21 & SDG (Sustainable Development Goal)
 https://sdgs.un.org/
 
 > https://en.wikipedia.org/wiki/Agenda_21
