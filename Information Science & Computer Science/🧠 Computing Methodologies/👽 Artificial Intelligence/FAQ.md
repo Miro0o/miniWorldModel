@@ -5,9 +5,9 @@
 
 
 ## 👉 Difference between AI, machine learning, data science, statistics, deep learning ?
+#AI #machine_learning #data_science #neural_networks #deep_learning
 
 > ↗️ [Data Science](../Data Science/Data Science.md)
-
 
 1. 数据科学家具有哪些不同类型？
    要更详细地了解数据科学家的类型，可参阅文章：http://suo.im/28rlX1 和http://suo.im/3NNUpd。更多有用的信息可参阅：
@@ -48,5 +48,4 @@
 [一文读懂机器学习、数据科学、人工智能、深度学习和统计学之间的区别]: http://www.bibdr.org/nd.jsp?id=86
 [数据科学、机器学习和AI的区别]: https://developer.aliyun.com/article/374192
 [What's the difference between data science, machine learning, and artificial intelligence?]: http://varianceexplained.org/r/ds-ml-ai
-
 

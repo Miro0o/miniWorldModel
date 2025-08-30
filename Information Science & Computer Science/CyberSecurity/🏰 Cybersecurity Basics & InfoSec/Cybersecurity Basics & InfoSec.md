@@ -19,6 +19,12 @@
 
 
 ## Intro: Information Security
+![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>Computer Security & Risk Management</small>
+
+↗ [Computer Architecture /Computer Organization & Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md#Computer%20Organization%20&%20Architecture)
+
+
 > 🔗 https://en.wikipedia.org/wiki/Information_security
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
@@ -35,11 +41,6 @@ Information security's primary focus is the balanced protection of the [confiden
 - monitoring the activities, making adjustments as necessary to address any issues, changes and improvement opportunities.
 
 To standardize this discipline, academics and professionals collaborate to offer guidance, policies, and industry standards on [password](https://en.wikipedia.org/wiki/Password), [antivirus software](https://en.wikipedia.org/wiki/Antivirus_software), [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), [encryption software](https://en.wikipedia.org/wiki/Encryption_software), [legal liability](https://en.wikipedia.org/wiki/Legal_liability), [security awareness](https://en.wikipedia.org/wiki/Security_awareness) and training, and so forth. This [standardization](https://en.wikipedia.org/wiki/Standardization) may be further driven by a wide variety of laws and regulations that affect how data is accessed, processed, stored, transferred and destroyed. However, the implementation of any standards and guidance within an entity may have limited effect if a culture of [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) isn't adopted.
-
-![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
-<small>Computer Security & Risk Management</small>
-
-↗ [Computer Architecture /Computer Organization & Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md#Computer%20Organization%20&%20Architecture)
 
 
 ### Difference Between InfoSec & CyberSec?
@@ -131,6 +132,8 @@ More broadly, integrity is an information security principle that involves human
 
 You might be thinking that authenticity and integrity seem very closely related, and you would be correct; it makes sense that before you can prove that a message came from a particular person, you first have to prove that the message was not changed. In other words, ==before you can prove authenticity, you first have to be able to prove integrity==. However, these are not identical properties and we will take a look at some edge cases as we delve further into the cryptographic unit.
 #### 🎯 Availability
+↗ [ICT System Reliability (Correctness) & Verification](../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+
 ↗ [Authentication (身份鉴别)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 

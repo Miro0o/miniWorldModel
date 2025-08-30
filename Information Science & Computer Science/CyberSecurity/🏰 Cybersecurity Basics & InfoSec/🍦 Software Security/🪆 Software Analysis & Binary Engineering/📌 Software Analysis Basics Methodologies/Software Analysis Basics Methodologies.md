@@ -26,13 +26,4 @@ Interactive application security testing (abbreviated as IAST) is a security tes
 
 
 
-## Model Checking
-> 🔗 https://en.wikipedia.org/wiki/Model_checking
-
-In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness). This is typically associated with hardware or software systems, where the specification contains liveness requirements (such as avoidance of livelock) as well as safety requirements (such as avoidance of states representing a system crash).
-
-In order to solve such a problem algorithmically, both the model of the system and its specification are formulated in some precise mathematical language. To this end, the problem is formulated as a task in logic, namely to check whether a structure satisfies a given logical formula. This general concept applies to many kinds of logic and many kinds of structures. A simple model-checking problem consists of verifying whether a formula in the propositional logic is satisfied by a given structure.
-
-
-
 ## Ref

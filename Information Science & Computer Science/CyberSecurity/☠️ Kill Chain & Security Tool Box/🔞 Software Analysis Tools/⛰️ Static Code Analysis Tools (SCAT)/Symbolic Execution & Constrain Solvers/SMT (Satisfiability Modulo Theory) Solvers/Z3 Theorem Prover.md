@@ -5,15 +5,19 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+
+
+### Other Resources
+https://ericpony.github.io/z3py-tutorial/guide-examples.htm
+Z3 API in Python
+This tutorial demonstrates the main capabilities of Z3Py: the Z3 API in [Python](http://www.python.org/). No Python background is needed to read this tutorial. However, it is useful to learn Python (a fun language!) at some point, and there are many excellent free resources for doing so ([Python Tutorial](http://docs.python.org/tutorial/)).
+The Z3 distribution also contains the **C**, **.Net** and **OCaml** APIs. The source code of Z3Py is available in the Z3 distribution, feel free to modify it to meet your needs. The source code also demonstrates how to use new features in Z3 4.0. Other cool front-ends for Z3 include [Scala^Z3](http://lara.epfl.ch/~psuter/ScalaZ3/) and [SBV](http://hackage.haskell.org/package/sbv).
 
 
 
 ## Intro
+Z3 is a high performance theorem prover developed at [Microsoft Research](http://research.microsoft.com/). Z3 is used in many applications such as: software/hardware verification and testing, constraint solving, analysis of hybrid systems, security, biology (in silico analysis), and geometrical problems.
 
 
 

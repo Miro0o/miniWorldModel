@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](../FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
 
 
 ### Academic Useful Tools
@@ -46,20 +47,34 @@ https://pressbooks.pub/academicskills/
 https://github.com/WengLean/hands-on-research-tutorial
 
 
+### Other Resources
+👍 https://github.com/ShiArthur03/ShiArthur03
+https://github.com/ShiArthurX/ShiArthurX
+https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/ShiArthur03-thu/ShiArthur03-thu
+> 2024.7.12 
+> 原仓库不知道能存在多久。我在本地每天会进行备份仓库的更新。
+> 
+> 2024.9.17
+> 原仓库和作者都被删除了。本地的备份还在。
+
+大家好，我是来自M78星云的SBC。我将为你们讲述在我的世界中有关于我的故事，希望你们能够持续关注并真正学习到我想要教给你们的学术技巧，让新的学术思维传承下去。如果这与你们的世界有任何雷同之处，纯属巧合。我相信在任何一个世界当中，每个人都有属于自己的底色：清者自清，浊者自浊。
+  
+我，SBC，博士，华清大学“水木学者”，国家级人才计划青年拔尖人才（**29岁获得，中国历史上最年轻**），于华清大学电机工程与应用电子技术系获得学士和博士学位。主要研究方向为电力电子混杂系统动力学表征、多尺度建模仿真及其工业软件。详细介绍可以在[此处](https://web.archive.org/web/20240709103549/http://www.eiri.tsinghua.edu.cn/yjry/All/e0b2e2d285e246bd9f56f047be9af30d.htm)找到。视频介绍可以在[这里](https://vimeo.com/946340773?share=copy)找到，本教程的电子版pdf可通过[https://github.com/ShiArthur03](https://github.com/ShiArthur03) 找到。
+
+
 
 ## 0️⃣ Before Academic Research..
 ### AI Work Flow
 42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
 
 
+### Academic Qualities ⭐ ⭐ 
+↗ [🌲 Road To CS /0️⃣ Before you hit the road ...](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#0️⃣%20Before%20you%20hit%20the%20road%20...)
+↗ [How to write a good academic paper](How%20to%20write%20a%20good%20academic%20paper.md)
 
-### Academic Qualities
-academic integrity
+🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
 academic methedology
-
-🎬【如何读论文【论文精读】】 https://www.bilibili.com/video/BV1H44y1t75x/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-🎬 https://www.bilibili.com/video/BV1H44y1t75x/
 
 
 ### Inspiration & Ideas
@@ -165,7 +180,10 @@ CiteSpace is a freely available Java application for **visualizing and analyzin
 Explore academic papers in a visual graph
 
 
-### Paper Reading Assistant ⭐ ⭐
+### How to Read Papers ⭐ ⭐
+🎬【如何读论文【论文精读】】 https://www.bilibili.com/video/BV1H44y1t75x/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬 https://www.bilibili.com/video/BV1H44y1t75x/
+#### Paper Reading Assistant
 https://www.paperdigest.org/
 Based in New York City, _Paper Digest_ has been dedicated to helping people use the least time to stay current with the latest tech trends.
 

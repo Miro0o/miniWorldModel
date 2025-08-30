@@ -7,9 +7,9 @@
 ## 🤙🏾 Res
 ### Related Topics
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [LLM (Large Language Model)](🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
-↗ [Awesome AI (Tools)](👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
+↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
 ↗ [Statistical Learning Theory](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 ↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
@@ -39,6 +39,10 @@ Datawhale 是一个专注于数据科学与 AI 领域的开源组织，汇集了
 
 https://www.modelscope.cn/my/overview
 魔塔社区
+
+📂 https://docs.roboflow.com
+📂 https://github.com/roboflow/notebooks/tree/main
+Roboflow empowers developers to build their own computer vision applications, no matter their skillset or experience. We provide all of the tools you need to go from an idea to a robust computer vision model deployed in production.
 
 
 ### Others

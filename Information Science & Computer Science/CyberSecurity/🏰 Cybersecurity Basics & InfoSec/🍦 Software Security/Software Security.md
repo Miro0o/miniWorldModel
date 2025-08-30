@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [The Essence of Computing - Program](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
-↗ [Software Testing](../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Vulnerability Exploration（漏洞利用）](🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Exploration（漏洞利用）/Vulnerability%20Exploration（漏洞利用）.md)
 
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)

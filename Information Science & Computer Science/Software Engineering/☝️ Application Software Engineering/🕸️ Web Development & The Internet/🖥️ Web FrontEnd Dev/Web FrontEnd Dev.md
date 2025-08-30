@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Web Frontend Deployment](../../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/Web%20Frontend%20Deployment.md)
+↗ [Web Frontend Deployment](../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/Web%20Frontend%20Deployment.md)
 ↗ [CSS & HTML UI Design & Frameworks](💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
 ↗ [Desktop-Dev via Web-Dev Stacks](../../Desktop%20&%20Monolithic%20Application%20Development/Desktop-Dev%20via%20Web-Dev%20Stacks/Desktop-Dev%20via%20Web-Dev%20Stacks.md)
 

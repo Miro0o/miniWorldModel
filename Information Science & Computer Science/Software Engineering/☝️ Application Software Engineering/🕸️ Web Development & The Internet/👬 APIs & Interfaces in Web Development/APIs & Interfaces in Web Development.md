@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [API (Application Program Interface)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/API%20(Application%20Program%20Interface).md)
-↗ [API Testing](../../../Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Testing%20Types/Integration%20Test/API%20Testing/API%20Testing.md)
+↗ [API Testing](../../../🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Integration%20Test/API%20Testing/API%20Testing.md)
 ↗ [API Gateway](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/API%20Gateway/API%20Gateway.md)
 ↗ [Web API Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20API%20Security/Web%20API%20Security.md)
 ↗ [API Dev Tool Chain](../../../CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/API%20Dev%20Tool%20Chain/API%20Dev%20Tool%20Chain.md)

@@ -105,8 +105,6 @@ The addition of early test planning gives the V-Model a greater chance of succes
 
 
 
-
-
 ## 🎯 Incremental (and Iterative) Model
 > 🔗 https://www.javatpoint.com/software-engineering-incremental-model
 
@@ -128,7 +126,6 @@ The adoption of Agile was swift and continuous. According to the [Project Manage
 There are several Agile software development models. These models focus on **teamwork**, **cross-functional** **collaboration**, **iterative development**, and **early customer feedback**. **Testing**, **feedback**, and **making adjustments** allow teams to develop and deliver the best software.
 
 🪜 A partial list of Agile: 
-
 - Scrum
 - Crystal
 - Dynamic Software Development Method(DSDM)
@@ -163,7 +160,6 @@ Companies are adopting enabling technologies and processes like [continuous inte
 
 
 ## 🎯 Iterative Model
-
 > 🔗  https://www.javatpoint.com/software-engineering-iterative-model
 
 In this Model, you can start with some of the software specifications and develop the first version of the software. After the first version if there is a need to change the software, then a new version of the software is created with a new iteration. Every release of the Iterative Model finishes in an exact and fixed period that is called iteration.
@@ -175,7 +171,6 @@ The Iterative Model allows the accessing earlier phases, in which the variations
 
 
 ## 🎯 Prototyping Model
-
 > 🔗 https://www.javatpoint.com/software-engineering-prototype-model
 
 The Prototyping model is centered around increasing the development team’s understanding of the customer’s wants/needs by creating prototypes. By creating a working small-scale replica of the desired software program, miscommunications or misunderstandings can be resolved before full development occurs.
@@ -186,11 +181,8 @@ Before developers begin working on the final product, they create a prototype of
 
 
 
-
-
 ## Ref
 [SDLC Models]: https://www.javatpoint.com/software-engineering-sdlc-models
 [7 Software Development Models in Engineering You Should Know]: https://flexagon.com/blog/7-software-development-models-you-should-know/
 [面试被问到了解哪些开发模型？看这一篇就够了！]:http://testingpai.com/article/1656568768296
 [软件开发模式的种类有哪些？ - 悟空打印坊的文章 - 知乎]: https://zhuanlan.zhihu.com/p/43885605
-

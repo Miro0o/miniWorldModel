@@ -10,7 +10,7 @@
 
 ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 ↗ [Galleries & Awesome SE](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
-↗ [Awesome AI (Tools)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
+↗ [Awesome AI (Tools)](../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 ↗ [📌 Awesome Open Source CLI Software](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 

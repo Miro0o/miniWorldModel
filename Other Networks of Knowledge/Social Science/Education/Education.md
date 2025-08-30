@@ -14,7 +14,7 @@
 ↗ [Russian Education & Professional Training Industry](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/📌%20Russian%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20Russian%20Education%20&%20Professional%20Training%20Industry/Russian%20Education%20&%20Professional%20Training%20Industry.md)
 
 ↗ [Liberal Education (博雅教育)](Liberal%20Education%20(博雅教育).md)
-↗ [AI4EDU](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/AI-For-Everything/AI4EDU.md)
+↗ [AI4EDU](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/AI4EDU.md)
 
 
 
@@ -23,7 +23,7 @@
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Information Theory](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 #### AI + Education
-↗ [AI4EDU](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/AI-For-Everything/AI4EDU.md)
+↗ [AI4EDU](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/AI4EDU.md)
 
 AI is the powerful knowledge engine for education
 

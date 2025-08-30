@@ -100,7 +100,7 @@
 #### SCA & SBOM
 ↗ [SCA (Software Composition Analysis) & SBOM](🤔%20Software%20Supply%20Chains%20Security%20Related%20Projects/SCA%20(Software%20Composition%20Analysis)%20&%20SBOM/SCA%20(Software%20Composition%20Analysis)%20&%20SBOM.md)
 #### Code Analysis & Software Testing
-↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 ↗ [Vulnerability Disclosure & Discovery (Malicious Code Detection)](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection).md)
 

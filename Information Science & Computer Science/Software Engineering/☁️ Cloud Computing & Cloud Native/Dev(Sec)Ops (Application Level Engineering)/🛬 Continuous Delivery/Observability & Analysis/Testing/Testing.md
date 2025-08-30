@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Software Testing](../../../../../Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../../🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 
 
 

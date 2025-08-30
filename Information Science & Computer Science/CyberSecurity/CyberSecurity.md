@@ -440,6 +440,8 @@ http://www.china-cia.org.cn
 ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+#### System Reliability (Availability)
+↗ [ICT System Reliability (Correctness) & Verification](⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
 
 ### What is Cyberspace?
@@ -487,7 +489,7 @@ Security issues sources:
 
 
 
-## ✨ Cybersecurity Basics
+## Cybersecurity Basics ⭐
 ↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [History of Information Systems & Security Systems](History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 

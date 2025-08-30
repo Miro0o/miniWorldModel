@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Robotics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Robotics/Robotics.md)
+↗ [AI + Robotics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/AI%20+%20Robotics/AI%20+%20Robotics.md)
 
 
 ### Other Resources

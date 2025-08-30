@@ -21,10 +21,13 @@
 ↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Disclosure（漏洞挖掘）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Vulnerability%20Disclosure（漏洞挖掘）.md)
+↗ [Vulnerability Disclosure & Discovery (Malicious Code Detection)](Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection).md)
 
-↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
-↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
+↗ [Software Quality Assurance (SQA)](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+- ↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+- ↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+	- ↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
+- ↗ [Formal Methods & Formal Verification (FV)](📌%20Software%20Analysis%20Basics%20Methodologies/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 
 ↗ [Operating System Security](../../../System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)

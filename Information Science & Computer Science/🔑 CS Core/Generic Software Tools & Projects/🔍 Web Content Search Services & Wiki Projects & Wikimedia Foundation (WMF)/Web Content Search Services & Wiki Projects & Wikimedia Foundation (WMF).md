@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Web Browser Implementations](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
 
-↗ [Awesome NLP & LLM Projects & Services](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+↗ [Awesome NLP & LLM Projects & Services](../🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 ↗ [Cyberspace Assets](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
 ↗ [Cyberspace Assets Mapping & Management](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
@@ -88,7 +88,7 @@ https://www.openk9.io
 
 
 ## 🤖 LLM-Driven Search
-> ↗ [Awesome NLP & LLM Projects & Services](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+> ↗ [Awesome NLP & LLM Projects & Services](../🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ### Perplexity
 
 ### devv

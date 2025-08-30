@@ -21,6 +21,9 @@
 ↗ [Anonymous & Private Networks](../Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 ↗ [Tunneling Protocols & Technologies](../Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
 
+↗ [Reliable Data Transfer (RDT)](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
+↗ [ICT System Reliability (Correctness) & Verification](../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+
 
 ### Tutorials / Books
 📖 应用密码学：协议、算法与C源程序（原书第2版）

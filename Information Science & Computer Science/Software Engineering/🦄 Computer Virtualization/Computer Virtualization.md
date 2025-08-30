@@ -18,7 +18,7 @@ Popek & Goldberg, 1974
 
 ### Related Topics
 ↗ [Network Virtualization](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
-↗ [Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
+↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
 
 ↗ [Console Games & Video Games](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games%20&%20Video%20Games.md)
 
@@ -54,7 +54,7 @@ Popek & Goldberg, 1974
 
 ### 🎲 Virtualization by Objects
 1. Virtual Reality
-	1. As in ↗ [AI /Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
+	1. As in ↗ [AI /Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md).
 2. Virtual Machine
 	1. Platform Virtualization
 	2. Application Virtualization(Sandbox)
@@ -91,7 +91,7 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 
 
 ### 5️⃣ Service Level
-↗ [Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
+↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
 
 ↗ [Network Virtualization](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Graphics Rendering Frameworks (2D & 3D)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/🖼️%20Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)

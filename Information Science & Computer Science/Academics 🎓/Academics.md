@@ -105,7 +105,7 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 ## Field Specific Academics Research
 ### 👉 Artificial Intelligence 
-↗ [AI WatchList](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
+↗ [AI WatchList](../../Assets/🗃%20Archive/👀%20AI%20Watch%20List/AI%20WatchList.md)
 
 
 ### 👉 Computer Security
@@ -116,17 +116,30 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 ## Ref
+[SCI、分区与一些顶会期刊  | cnblog]: https://www.cnblogs.com/Stareven233/p/16398169.html
+美国科学信息研究所（Institute for Scientific Information，简称ISI）出版的一部世界著名的期刊文献检索工具，创建于1957年。凡是被该索引收录的期刊所刊登的论文，均成为SCI论文。
+
+**影响因子**(Impact Factor, IF)，某一期刊的文章在特定年份或时期被引用的频率，是衡量学术期刊影响力的一个重要指标。  
+影响因子 = 该刊前2年所发表的论文在第3年被引用的总次数 / 该刊前2年所发表的论文总数。
+
+SCI分区
+在中国，SCI有两种分区，一种是JCR分区，另一种是中科院分区。  
+JCR将收录期刊分为176个不同学科类别，每个学科分类按照期刊的影响因子高低，平均分为4个区：前25%（含25%）为Q1、位于25-50%（含50%）为Q2、位于50-75%（含75%）为Q3、位于75%之后为Q4  
+中科院首先将JCR中所有期刊分为数学、物理、化学、生物、地学、天文、工程技术、医学、环境科学、农林科学、社会科学、管理科学及综合性期刊13 大类。然后，将13大类期刊分各自为4个等级，即4个区。按照各类期刊影响因子划分，前5%为该类1区、6%～20%为2区、21%～50%为3区，其余的为4区。
+
+分区差别
+1. JCR的Journal Ranking没有设置大类学科，只分为176个具体学科，也就是中科院分区表中所指的小类学科。
+2. JCR每个区含有该领域总量25%的期刊；中科院的分区如同社会阶层的金字塔结构，1区和2区杂志很少，杂志质量相对也高，基本都是本领域的顶级期刊。
+3. JCR是按本年度公布的IF进行分区，中科院是按期刊前3年IF的平均值进行分区。
+
 [👍 一篇文章看懂SCI期刊、SCI分区和Nature系列期刊等级 - 渡劫散仙的文章 - 知乎]: https://zhuanlan.zhihu.com/p/311934505
-
 [👍 核心期刊？SCI到底是啥？ - 知乎用户fNmF7X的文章 - 知乎]: https://zhuanlan.zhihu.com/p/500983531
-
 [自然科学领域期刊分区——什么是核心期刊（核心A、B、C）]: https://developer.aliyun.com/article/1252113
 - 什么是核心期刊
 - 期刊来源数据库的大致排名
 - 什么是顶刊、权威期刊、核心A、核心B、核心C
 - JCR分区与中科院分区
 - 中科院2023年预警国际期刊
-
 [SCI期刊分区/期刊名词 这都是什么意思？ - 知之的文章 - 知乎]: https://zhuanlan.zhihu.com/p/108401297
 - ISSN
 - DOI

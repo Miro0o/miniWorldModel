@@ -20,7 +20,7 @@
 ↗ [History of Computer Networking and Communication Evolution](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 ↗ [History of Information Systems & Security Systems](../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
-↗ [AI WatchList](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
+↗ [AI WatchList](../../../Assets/🗃%20Archive/👀%20AI%20Watch%20List/AI%20WatchList.md)
 
 
 

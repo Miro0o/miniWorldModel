@@ -9,6 +9,8 @@
 
 
 ### Other Resources
+https://youtu.be/WP-FkUaOcOM?si=ftUX98NKWnXoSzNp
+How to Write a Great Research Paper
 
 
 

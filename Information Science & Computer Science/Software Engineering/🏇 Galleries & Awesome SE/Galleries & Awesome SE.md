@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Awesome SE](Awesome%20SE.md)
 ↗ [Awesome Architect](Awesome%20Architect.md)
-↗ [Awesome AI (Tools)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
+↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
 
 ### Awesome Lists

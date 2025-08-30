@@ -6,8 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Security Audit & Security Audit Trail](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+
+↗ [Mathematical Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+- ↗ [Mathematical Logic Basics (Formal Logic)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+- ↗ [Propositional Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Propositional%20Logic%20(命题逻辑)/Propositional%20Logic.md)
+- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
 
 ↗ [Static Code Analysis Tools (SCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
@@ -18,13 +26,15 @@
 ↗ [(Formal) Verification & Analysis Programming Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/(Formal)%20Verification%20&%20Analysis%20Programming%20Languages/(Formal)%20Verification%20&%20Analysis%20Programming%20Languages.md)
 ↗ [Logic Programming Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
-↗ [Software Testing](../../../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
-
-↗ [Security Audit & Security Audit Trail](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
-
 
 
 ## Intro
+> 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
+
+In software and hardware design of complex systems, more time and eﬀort are spent on verification than on construction. Techniques are sought to reduce and ease the verification eﬀorts while increasing their coverage. Formal methods oﬀer a large potential to obtain an early integration of verification in the design process, to provide more eﬀective verification techniques, and to reduce the verification time.
+
+Let us first briefly discuss the role of formal methods. **To put it in a nutshell, formal methods can be considered as “the applied mathematics for modeling and analyzing ICT systems”.** Their aim is to establish system correctness with mathematical rigor. Their great potential has led to an increasing use by engineers of formal methods for the verification of complex software and hardware systems. Besides, formal methods are one of the “highly recommended” verification techniques for software development of safety-critical systems according to, e.g., the best practices standard of the IEC (International Electrotechnical Commission) and standards of the ESA (European Space Agency). 
+
 
 
 

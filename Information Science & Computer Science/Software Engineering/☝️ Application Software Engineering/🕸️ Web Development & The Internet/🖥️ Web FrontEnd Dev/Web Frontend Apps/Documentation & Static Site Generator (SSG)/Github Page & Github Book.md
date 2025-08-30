@@ -5,7 +5,7 @@
 
 
 ## Github Page
-↗ [Github Pages](../../../../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
+↗ [Github Pages](../../../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
 
 
 

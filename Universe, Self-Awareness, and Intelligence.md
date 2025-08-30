@@ -290,7 +290,7 @@ or（情感，逻辑）X （认识，实践）
 		- 突破奇点，从此具有自我意识
 	- 此时达到接近人脑智能（情感+逻辑）的水平
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
-↗ [Embodied AI](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🤔%20Embodied%20AI/Embodied%20AI.md)
+↗ [Embodied AI](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/Embodied%20AI.md)
 
 物质 -> 生命 -> 具有自我意识的生命（人类智能）
 
@@ -450,6 +450,8 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Tertiary Economical Sector](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
 ###### 生存基础：衣食住行
 ###### 物质享乐
+↗ [Entertainment & Mass Media Industry](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Entertainment%20&%20Mass%20Media%20Industry/Entertainment%20&%20Mass%20Media%20Industry.md)
+↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 ###### 精神享乐：学习与教育
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
@@ -524,7 +526,7 @@ or（情感，逻辑）X （认识，实践）
 			- 公有制为主体、多种所有制经济共同发展
 				- 党和国家坚持和完善社会主义基本经济制度，毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展；党和国家保证各种所有制经济依法平等使用生产要素、公平参与市场竞争、同等受到法律保护，促进各种所有制经济优势互补、共同发展，促进非公有制经济健康发展和非公有制经济人士健康成长。（[习近平：坚持和落实“两个毫不动摇”](https://www.gov.cn/yaowen/liebiao/202503/content_7013697.htm) -- 2025年2月17日在民营企业座谈会上的讲话）
 			- 按劳分配为主体、多种分配方式并存
-###### 人与社会发展
+###### 人民群众是历史的创造者
 ↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
@@ -671,7 +673,7 @@ https://en.wikipedia.org/wiki/Complex_system
 #### Knowledge Management & Explore
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 ↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 ↗ [Knowledge Graph](Information%20Science%20&%20Computer%20Science/Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
@@ -696,7 +698,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 ## 🤖 Artificial Intelligence
 > ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
