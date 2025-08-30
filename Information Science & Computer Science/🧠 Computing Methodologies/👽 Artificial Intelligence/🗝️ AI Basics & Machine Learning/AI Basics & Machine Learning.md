@@ -57,7 +57,7 @@ News, community, and courses for people building AI-powered products.
 #### Loss Function
 
 
-### Roles in ML
+### Roles in ML /AI
 - **Domain experts**: have business insights, know what data is important and where to find it, identify the real impact of a ML model,
 - **Data scientists**: full stack on data mining, model training and deployment.
 - **ML experts**: customize SOTA ML models.
@@ -66,15 +66,17 @@ News, community, and courses for people building AI-powered products.
 ![|500](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.11.41%20PM.png)
 
 
-
 ### Types of Machine Learning Models
-![](../../Assets/Pics/Screenshot%202023-01-28%20at%208.19.21%20PM.png)
-
-More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md) and ↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md) and ↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 
+### Notations for Deep Learning & ML
+🚧 https://github.com/mazhengcn/suggested-notation-for-machine-learning#notation-table
+Suggested Notation for Machine Learning
 
-## Types of Machine Learning Problems
+
+
+## Types of Model Training /Learning Strategies
 ![Screenshot 2023-01-28 at 12.26.51 PM](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.26.51%20PM.png)
 
 ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
@@ -86,9 +88,6 @@ More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machi
 
 ### 2️⃣ Semi-supervised learning
 #### Self-training
-
-#### GAN
-generating fake data with trivial label from unlabeled data.
 
 
 ### 3️⃣ Reinforcement learning
@@ -105,8 +104,6 @@ generating fake data with trivial label from unlabeled data.
 
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
 
-↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-
 
 ### 0️⃣ Problem Formulation
 🤔 
@@ -118,7 +115,7 @@ generating fake data with trivial label from unlabeled data.
 
 ### 2️⃣ Model Selection
 ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
-↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 
 ### 3️⃣ Model Training

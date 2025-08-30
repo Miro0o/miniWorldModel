@@ -1,4 +1,4 @@
-# Academics
+# Academics 🎓 (In CS)
 
 [TOC]
 
@@ -62,6 +62,7 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 ## Intro
+↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
 
@@ -96,22 +97,457 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 ## Systematization of Knowledge (SoK) & Survey Paper
-
 > We also welcome **systematization of knowledge (SoK)** papers. These papers will not be judged on novel research contributions, but on their value to the research community. SoK papers should provide an important new viewpoint on an established, major research area; support or challenge long-held beliefs in such an area with compelling evidence; or present a convincing, comprehensive new taxonomy of such an area. Survey papers without such insights are not appropriate for acceptance.
 > 
 > https://ct-rsa-2023.eecs.oregonstate.edu
 
 
 
-## Field Specific Academics Research
-### 👉 Artificial Intelligence 
-↗ [AI WatchList](../../Assets/🗃%20Archive/👀%20AI%20Watch%20List/AI%20WatchList.md)
+## Field Specific Academics Research in CS & IT
+↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
+↗ [🌲 Road To CS /CS & IT in Different Aspects](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Different%20Aspects)
 
-
-### 👉 Computer Security
-
-
-### 👉 Theoretical Computer Science
+https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+https://www.acm.org/publications/class-2012
+https://dl.acm.org/ccs
+ACM CCS 2012
+1. **Hardware**
+	- Printed circuit boards
+	- Communication hardware, interfaces and storage
+	- Integrated circuits
+	- Very large scale integration design
+	- Power and energy
+	- Electronic design automation
+	- Hardware validation
+	- Hardware test
+	- Robustness
+	- Emerging technologies
+2. **Software and its Engineering** ✅
+	- <a>Software organization and properties</a>
+		- Contextual software domains
+			- E-commerce infrastructure
+			- Software infrastructure
+			- Operating systems
+			- Virtual worlds software
+		- Software system structures
+			- Embedded software
+			- Software architectures
+			- Software system models
+			- Ultra-large-scale systems
+			- Distributed systems organizing principles
+			- Real-time systems software
+			- Abstraction, modeling and modularity
+		- Software functional properties
+			- Correctness
+			- Formal methods
+		- Extra-functional properties
+			- Interoperability
+			- Software performance
+			- Software reliability
+			- Software fault tolerance
+			- Software safety
+			- Software usability
+	- <a>Software notations and tools</a>
+		- General programming languages
+			- Language types
+			- Language features
+		- Formal language definitions
+			- Syntax
+			- Semantics
+		- Compilers
+			- Interpreters
+			- Incremental compilers
+			- Retargetable compilers
+			- Just-in-time compilers
+			- Dynamic compilers
+			- Translator writing systems and compiler generators
+			- Source code generation
+			- Runtime environments
+			- Preprocessors
+			- Parsers
+		- Context specific languages
+			- Markup languages
+			- Scripting languages
+			- Domain specific languages
+			- Specialized application languages
+			- API languages
+			- Graphical user interface languages
+			- Window managers
+			- Command and control languages
+			- Macro languages
+			- Programming by example
+			- State based definitions
+			- Visual languages
+			- Interface definition languages
+		- System description languages
+			- Design languages
+			- Unified Modeling Language (UML)
+			- Architecture description languages
+			- System modeling languages
+			- Orchestration languages
+			- Integration frameworks
+			- Specification languages
+		- Development frameworks and environments
+			- Object oriented frameworks
+			- Software as a service orchestration system
+			- Integrated and visual development environments
+			- Application specific development environments
+		- Software configuration management and version control systems
+		- Software libraries and repositories
+		- Software maintenance tools
+	- <a>Software creation and management</a>
+		- Designing software
+			- Requirements analysis
+			- Software design engineering
+			- Software design tradeoffs
+			- Software implementation planning
+		- Software development process management
+			- Software development methods
+			- Risk management
+		- Software development techniques
+			- Software prototyping
+			- Object oriented development
+			- Flowcharts
+			- Reusability
+			- Error handling and recovery
+			- Automatic programming
+		- Software verification and validation
+			- Software prototyping
+			- Operational analysis
+			- Software defect analysis
+			- Fault tree analysis
+			- Process validation
+			- Formal software verification
+			- Empirical software validation
+		- Software post-development issues
+			- Software reverse engineering
+			- Documentation
+			- Backup procedures
+			- Software evolution
+			- Software version control
+			- Maintaining software
+			- System administration
+		- Collaboration in software development
+			- Open source model
+			- Programming teams
+		- Search-based software engineering
+3. **Computer Systems Organization**
+	- Architectures
+	- Embedded and cyber-physical systems
+	- Real-time systems
+	- Dependable and fault-tolerant systems and networks
+4. **Networks**
+	- Network architectures
+	- Network protocols
+	- Network components
+	- Network algorithms
+	- Network performance evaluation
+	- Network properties
+	- Network services
+	- Network types
+5. **Theory of Computation**
+	- Models of computation
+	- Formal languages and automata theory
+	- Computational complexity and cryptography
+	- Logic
+	- Design and analysis of algorithms
+	- Randomness, geometry and discrete structures
+	- Theory and algorithms for application domains
+	- Semantics and reasoning
+6. **Mathematics of Computing**
+	- Discrete mathematics
+	- Probability and statistics
+	- Mathematical software
+	- Information theory
+	- Mathematical analysis
+	- Continuous mathematics
+7. **Computing Methodologies**
+	- Symbolic and algebraic manipulation
+	- Parallel computing methodologies
+	- **Artificial intelligence** ✅
+		- <a>Natural language processing</a>
+			- Information extraction
+			- Machine translation
+			- Discourse, dialogue and pragmatics
+			- Natural language generation
+			- Speech recognition
+			- Lexical semantics
+			- Phonology / morphology
+			- Language resources
+		- <a>Knowledge representation and reasoning</a>
+			- Description logics
+			- Semantic networks
+			- Nonmonotonic, default reasoning and belief revision
+			- Probabilistic reasoning
+			- Vagueness and fuzzy logic
+			- Causal reasoning and diagnostics
+			- Temporal reasoning
+			- Cognitive robotics
+			- Ontology engineering
+			- Logic programming and answer set programming
+			- Spatial and physical reasoning
+			- Reasoning about belief and knowledge
+		- <a>Planning and scheduling</a>
+			- Planning for deterministic actions
+			- Planning under uncertainty
+			- Multi-agent planning
+			- Planning with abstraction and generalization
+			- Robotic planning
+				- Evolutionary robotics
+		- <a>Search methodologies</a>
+			- Heuristic function construction
+			- Discrete space search
+			- Continuous space search
+			- Randomized search
+			- Game tree search
+			- Abstraction and micro-operators
+			- Search with partial observations
+		- <a>Control methods</a>
+			- Robotic planning
+				- Evolutionary robotics
+			- Computational control theory
+			- Motion path planning
+		- <a>Philosophical/theoretical foundations of artificial intelligence</a>
+			- Cognitive science
+			- Theory of mind
+		- <a>Distributed artificial intelligence</a>
+			- Multi-agent systems
+			- Intelligent agents
+			- Mobile agents
+			- Cooperation and coordination
+		- <a>Computer vision</a>
+			- Computer vision tasks
+				- Biometrics
+				- Scene understanding
+				- Activity recognition and understanding
+				- Video summarization
+				- Visual content-based indexing and retrieval
+				- Visual inspection
+				- Vision for robotics
+				- Scene anomaly detection
+			- Image and video acquisition
+				- Camera calibration
+				- Epipolar geometry
+				- Computational photography
+				- Hyperspectral imaging
+				- Motion capture
+				- 3D imaging
+				- Active vision
+			- Computer vision representations
+				- Image representations
+				- Shape representations
+				- Appearance and texture representations
+				- Hierarchical representations
+			- Computer vision problems
+				- Interest point and salient region detections
+				- Image segmentation
+				- Video segmentation
+				- Shape inference
+				- Object detection
+				- Object recognition
+				- Object identification
+				- Tracking
+				- Reconstruction
+				- Matching
+	- **Machine learning** ✅
+		- <a>Learning paradigms</a>
+			- Supervised learning
+				- Ranking
+				- Learning to rank
+				- Supervised learning by classification
+				- Supervised learning by regression
+				- Structured outputs
+				- Cost-sensitive learning
+			- Unsupervised learning
+			    - Cluster analysis
+			    - Anomaly detection
+			    - Mixture modeling
+			    - Topic modeling
+			    - Source separation
+			    - Motif discovery
+			    - Dimensionality reduction and manifold learning
+			- Reinforcement learning
+				- Sequential decision making
+				- Inverse reinforcement learning
+				- Apprenticeship learning
+				- Multi-agent reinforcement learning
+				- Adversarial learning
+			- Multi-task learning
+				- Transfer learning
+				- Lifelong machine learning
+				- Learning under covariate shift
+	    - <a>Learning settings</a>
+		    - Batch learning
+			- Online learning settings
+			- Learning from demonstrations
+			- Learning from critiques
+			- Learning from implicit feedback
+			- Active learning settings
+			- Semi-supervised learning settings
+	    - <a>Machine learning approaches</a>
+		    - Classification and regression trees
+			- Kernel methods
+				- Support vector machines
+				- Gaussian processes
+			- Neural networks
+			- Logical and relational learning
+				- Inductive logic learning
+				- Statistical relational learning
+			- Learning in probabilistic graphical models
+				- Maximum likelihood modeling
+				- Maximum entropy modeling
+				- Maximum a posteriori modeling
+				- Mixture models
+				- Latent variable models
+				- Bayesian network models
+			- Learning linear models
+				- Perceptron algorithm
+			- Factorization methods
+				- Non-negative matrix factorization
+				- Factor analysis
+				- Principal component analysis
+				- Canonical correlation analysis
+				- Latent Dirichlet allocation
+			- Rule learning
+			- Instance-based learning
+			- Markov decision processes
+			- Partially-observable Markov decision processes
+			- Stochastic games
+			- Learning latent representations
+				- Deep belief networks
+			- Bio-inspired approaches
+				- Artificial life
+				- Evolvable hardware
+				- Genetic algorithms
+				- Genetic programming
+				- Evolutionary robotics
+				- Generative and developmental approaches
+	    - <a>Machine learning algorithms</a>
+		    - Dynamic programming for Markov decision processes
+			    - Value iteration
+				- Q-learning
+				- Policy iteration
+				- Temporal difference learning
+				- Approximate dynamic programming methods
+			- Ensemble methods
+				- Boosting
+				- Bagging
+			- Spectral methods
+			- Feature selection
+			- Regularization
+	    - <a>Cross-validation</a>
+	- Modeling and simulation
+	- Computer graphics
+	- Distributed computing methodologies
+	- Concurrent computing methodologies
+8. **Information Systems**
+	- Data management systems
+	- Information storage systems
+	- Information systems applications
+	- World Wide Web
+	- Information retrieval
+9. **Security and privacy** ✅
+	- <a>Cryptography</a>
+		- Key management
+		- Public key (asymmetric) techniques
+			- Digital signatures
+			- Public key encryption
+		- Symmetric cryptography and hash functions
+			- Block and stream ciphers
+			- Hash functions and message authentication codes
+		- Cryptanalysis and other attacks
+		- Information-theoretic techniques
+		- Mathematical foundations of cryptography
+	- <a>Formal methods and theory of security</a>
+		- Trust frameworks
+		- Security requirements
+		- Formal security models
+		- Logic and verification
+	- <a>Security services</a>
+		- Authentication
+			- Biometrics
+			- Graphical / visual passwords
+			- Multi-factor authentication
+		- Access control
+		- Pseudonymity, anonymity and untraceability
+		- Privacy-preserving protocols
+		- Digital rights management
+		- Authorization
+	- <a>Intrusion/anomaly detection and malware mitigation</a>
+		- Malware and its mitigation
+		- Intrusion detection systems
+			- Artificial immune systems
+		- Social engineering attacks
+			- Spoofing attacks
+			- Phishing
+	- <a>Security in hardware</a>
+		- Tamper-proof and tamper-resistant designs
+		- Embedded systems security
+		- Hardware security implementation
+			- Hardware-based security protocols
+		- Hardware attacks and countermeasures
+			- Malicious design modifications
+			- Side-channel analysis and countermeasures
+		- Hardware reverse engineering
+	- <a>Systems security</a>
+		- Operating systems security
+			- Mobile platform security
+			- Trusted computing
+			- Virtualization and security
+		- Browser security
+		- Distributed systems security
+		- Information flow control
+		- Denial-of-service attacks
+		- Firewalls
+		- Vulnerability management
+			- Penetration testing
+			- Vulnerability scanners
+		- File system security
+	- <a>Network security</a>
+		- Security protocols
+		- Web protocol security
+		- Mobile and wireless security
+		- Denial-of-service attacks
+		- Firewalls
+	- <a>Database and storage security</a>
+		- Data anonymization and sanitization
+		- Management and querying of encrypted data
+		- Information accountability and usage control
+		- Database activity monitoring
+	- <a>Software and application security</a>
+		- Software security engineering
+		- Web application security
+		- Social network security and privacy
+		- Domain-specific security and privacy architectures
+		- Software reverse engineering
+	- <a>Human and societal aspects of security and privacy</a>
+		- Economics of security and privacy
+		- Social aspects of security and privacy
+		- Privacy protections
+		- Usability in security and privacy
+10. **Human-Centered Computing**
+	- Human computer interaction (HCI)
+	- Interaction design
+	- Collaborative and social computing
+	- Ubiquitous and mobile computing
+	- Visualization
+	- Accessibility
+11. **Applied Computing**
+    - Electronic commerce
+    - Enterprise computing
+    - Physical sciences and engineering
+    - Life and medical sciences
+    - Law, social and behavioral sciences
+    - Computer forensics
+    - Arts and humanities
+    - Computers in other domains
+    - Operations research
+    - Education
+    - Document management and text processing
+12. **Social and Professional Topics**
+	- Professional topics
+	- Computing / technology policy
+	- User characteristics
 
 
 

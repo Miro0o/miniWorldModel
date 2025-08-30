@@ -11,8 +11,8 @@
 ↗ [IT Entrepreneurship & Internet](../../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
 ↗ [Conferences & Events in Academia](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conferences%20&%20Events%20in%20Academia.md)
 ↗ [Conference & Events in Industry](../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)
-↗ [Academics](../../Academics%20🎓/Academics.md)
-- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
+↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
 
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 

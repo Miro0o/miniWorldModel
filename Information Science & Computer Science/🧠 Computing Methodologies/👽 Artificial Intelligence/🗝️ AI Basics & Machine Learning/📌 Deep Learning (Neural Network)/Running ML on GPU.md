@@ -5,7 +5,10 @@
 
 
 ## Res
+### Related Topics
 
+
+### Learning Resources
 【CUDA 编程入门】 https://www.bilibili.com/video/BV1vJ411D73S/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 CUDA编程入门极简教程 - 小小将的文章 - 知乎 https://zhuanlan.zhihu.com/p/34587739

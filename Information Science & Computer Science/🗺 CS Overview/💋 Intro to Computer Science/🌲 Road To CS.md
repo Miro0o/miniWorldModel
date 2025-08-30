@@ -126,7 +126,7 @@ https://github.com/jwasham/coding-interview-university
 
 
 
-## CS & IT in Difference Aspects
+## CS & IT in Different Aspects
 There are multiple aspects & paths to learn or to get to know the enormous contents this discipline of Computer Science about. Many countries and societies likes to approach to this domain from following three dimensions: Industry, School, and Academia, or so called "产、学、研".
 
 > 个人认为，对于cs这门学科的学习路线是一定和个人未来规划强耦合的。不同的未来规划要求个人掌握不同方面、不同深度的内容。这里只是简单地根据产业和学术界进行了知识的划分，目的是为了给出在产业或学界发展所需的知识的全貌。虽然一个人不需要真的走过地球上每一寸土地，但是有一个覆盖地球每一寸土地的地图还是很有必要的。
@@ -142,9 +142,11 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 
 ### Academia (研)
 ↗ [Intro to Computer Science](Intro%20to%20Computer%20Science.md)
-↗ [Academics](../../Academics%20🎓/Academics.md)
+↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+https://www.acm.org/publications/class-2012
+https://dl.acm.org/ccs
 ACM CCS 2012
 1. **Hardware**
 	- Printed circuit boards
@@ -299,8 +301,178 @@ ACM CCS 2012
 7. **Computing Methodologies**
 	- Symbolic and algebraic manipulation
 	- Parallel computing methodologies
-	- Artificial intelligence
-	- Machine learning
+	- **Artificial intelligence** ✅
+		- <a>Natural language processing</a>
+			- Information extraction
+			- Machine translation
+			- Discourse, dialogue and pragmatics
+			- Natural language generation
+			- Speech recognition
+			- Lexical semantics
+			- Phonology / morphology
+			- Language resources
+		- <a>Knowledge representation and reasoning</a>
+			- Description logics
+			- Semantic networks
+			- Nonmonotonic, default reasoning and belief revision
+			- Probabilistic reasoning
+			- Vagueness and fuzzy logic
+			- Causal reasoning and diagnostics
+			- Temporal reasoning
+			- Cognitive robotics
+			- Ontology engineering
+			- Logic programming and answer set programming
+			- Spatial and physical reasoning
+			- Reasoning about belief and knowledge
+		- <a>Planning and scheduling</a>
+			- Planning for deterministic actions
+			- Planning under uncertainty
+			- Multi-agent planning
+			- Planning with abstraction and generalization
+			- Robotic planning
+				- Evolutionary robotics
+		- <a>Search methodologies</a>
+			- Heuristic function construction
+			- Discrete space search
+			- Continuous space search
+			- Randomized search
+			- Game tree search
+			- Abstraction and micro-operators
+			- Search with partial observations
+		- <a>Control methods</a>
+			- Robotic planning
+				- Evolutionary robotics
+			- Computational control theory
+			- Motion path planning
+		- <a>Philosophical/theoretical foundations of artificial intelligence</a>
+			- Cognitive science
+			- Theory of mind
+		- <a>Distributed artificial intelligence</a>
+			- Multi-agent systems
+			- Intelligent agents
+			- Mobile agents
+			- Cooperation and coordination
+		- <a>Computer vision</a>
+			- Computer vision tasks
+				- Biometrics
+				- Scene understanding
+				- Activity recognition and understanding
+				- Video summarization
+				- Visual content-based indexing and retrieval
+				- Visual inspection
+				- Vision for robotics
+				- Scene anomaly detection
+			- Image and video acquisition
+				- Camera calibration
+				- Epipolar geometry
+				- Computational photography
+				- Hyperspectral imaging
+				- Motion capture
+				- 3D imaging
+				- Active vision
+			- Computer vision representations
+				- Image representations
+				- Shape representations
+				- Appearance and texture representations
+				- Hierarchical representations
+			- Computer vision problems
+				- Interest point and salient region detections
+				- Image segmentation
+				- Video segmentation
+				- Shape inference
+				- Object detection
+				- Object recognition
+				- Object identification
+				- Tracking
+				- Reconstruction
+				- Matching
+	- **Machine learning** ✅
+		- <a>Learning paradigms</a>
+			- Supervised learning
+				- Ranking
+				- Learning to rank
+				- Supervised learning by classification
+				- Supervised learning by regression
+				- Structured outputs
+				- Cost-sensitive learning
+			- Unsupervised learning
+			    - Cluster analysis
+			    - Anomaly detection
+			    - Mixture modeling
+			    - Topic modeling
+			    - Source separation
+			    - Motif discovery
+			    - Dimensionality reduction and manifold learning
+			- Reinforcement learning
+				- Sequential decision making
+				- Inverse reinforcement learning
+				- Apprenticeship learning
+				- Multi-agent reinforcement learning
+				- Adversarial learning
+			- Multi-task learning
+				- Transfer learning
+				- Lifelong machine learning
+				- Learning under covariate shift
+	    - <a>Learning settings</a>
+		    - Batch learning
+			- Online learning settings
+			- Learning from demonstrations
+			- Learning from critiques
+			- Learning from implicit feedback
+			- Active learning settings
+			- Semi-supervised learning settings
+	    - <a>Machine learning approaches</a>
+		    - Classification and regression trees
+			- Kernel methods
+				- Support vector machines
+				- Gaussian processes
+			- Neural networks
+			- Logical and relational learning
+				- Inductive logic learning
+				- Statistical relational learning
+			- Learning in probabilistic graphical models
+				- Maximum likelihood modeling
+				- Maximum entropy modeling
+				- Maximum a posteriori modeling
+				- Mixture models
+				- Latent variable models
+				- Bayesian network models
+			- Learning linear models
+				- Perceptron algorithm
+			- Factorization methods
+				- Non-negative matrix factorization
+				- Factor analysis
+				- Principal component analysis
+				- Canonical correlation analysis
+				- Latent Dirichlet allocation
+			- Rule learning
+			- Instance-based learning
+			- Markov decision processes
+			- Partially-observable Markov decision processes
+			- Stochastic games
+			- Learning latent representations
+				- Deep belief networks
+			- Bio-inspired approaches
+				- Artificial life
+				- Evolvable hardware
+				- Genetic algorithms
+				- Genetic programming
+				- Evolutionary robotics
+				- Generative and developmental approaches
+	    - <a>Machine learning algorithms</a>
+		    - Dynamic programming for Markov decision processes
+			    - Value iteration
+				- Q-learning
+				- Policy iteration
+				- Temporal difference learning
+				- Approximate dynamic programming methods
+			- Ensemble methods
+				- Boosting
+				- Bagging
+			- Spectral methods
+			- Feature selection
+			- Regularization
+	    - <a>Cross-validation</a>
 	- Modeling and simulation
 	- Computer graphics
 	- Distributed computing methodologies
@@ -586,7 +758,7 @@ The way this notebook is constructed. Just check the directories of this noteboo
 
 
 ---
-==#4 CS specific fields==
+==\#4 CS specific fields==
  >A simplified version of CS subjects classification for beginners 🤓
 
 1️⃣ Theoretical Computer Science (TCS) & Math 
@@ -606,15 +778,20 @@ The way this notebook is constructed. Just check the directories of this noteboo
 - ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 - ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
+---
+==\#5 CS & IT in Different Aspects==
+As in previous section of "CS & IT in Different Aspects".
+Disciplines /Areas in CS are divided into 3 levels: industry, school, and academia, in correspondence to the structure of "产，学，研".
+
 
 ### 3️⃣ Embark your life with CS!
 ↗ [International Opportunities](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 - ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
-↗ [Academics](../../Academics%20🎓/Academics.md)
-- ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
+↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+- ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
+- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -939,7 +1116,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Research Groups Watchlist - Profiles & Vacancies](../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
+> ↗ [Research Groups Watchlist - Profiles & Vacancies](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -1191,8 +1368,8 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 ### FAQ: Study, Academia, Industry, and Personal Development
 > https://www.pkuanvil.com/topic/459/ 知乎回答备份
 > 
-> ↗ [Academics](../../Academics%20🎓/Academics.md)
-> - ↗ [FAQ - Academia and Research](../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+> - ↗ [FAQ - Academia and Research](../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md)
 
 #### [为什么高校的科研项目大多烂尾了](https://www.zhihu.com/question/665648172/answer/86682654632)
 作者：扇贝又回来了  

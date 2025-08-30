@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [LLM (Large Language Model)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [LLM & Security](../../../🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
-↗ [LLM & Software Analysis](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Software%20Analysis.md)
+↗ [LLM & Software Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Software%20Analysis.md)
 
 ↗ [SCA (Static Code Analysis) & SAST](📌%20Software%20Analysis%20Basics%20Methodologies/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 

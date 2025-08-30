@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [🌲 Road To CS](../../../💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
-↗ [Academics](../../../../Academics%20🎓/Academics.md)
-- ↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](../../../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
+↗ [Academics 🎓 (In CS)](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+- ↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](../../../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
 
 
 ### 🥰 Application Guides /Tips /Experiences
@@ -76,7 +76,7 @@ https://www.haojianj.in/prospective.html
 
 
 ### General Information about International Universities & Countries' Lives
-↗ [Academics / 文献计量学与学术评价](../../../../Academics%20🎓/Academics.md#📈%20Bibliometrics)  | 文献计量学与学术评价
+↗ [Academics / 文献计量学与学术评价](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md#📈%20Bibliometrics)  | 文献计量学与学术评价
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education

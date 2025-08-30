@@ -7,12 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-- ↗ [Transformers (Encoder-Decoder)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/🗿%20Neural%20Network%20Models/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
+- ↗ [Transformers (Encoder-Decoder)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
 
 LLM & Academics 🧑‍🎓
-- ↗ [LLM & Federated Learning](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
-- ↗ [LLM & Fuzzing](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Fuzzing.md)
-- ↗ [LLM & Software Analysis](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Software%20Analysis.md)
+- ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
+- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Fuzzing.md)
+- ↗ [LLM & Software Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Software%20Analysis.md)
 ↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
@@ -137,7 +137,6 @@ Diffusion and flow-based models have become the state of the art for generative 
 ## Intro
 ### LLM Basics
 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
-
 - Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
 - [Decoder-only Transformers]https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
 - [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 

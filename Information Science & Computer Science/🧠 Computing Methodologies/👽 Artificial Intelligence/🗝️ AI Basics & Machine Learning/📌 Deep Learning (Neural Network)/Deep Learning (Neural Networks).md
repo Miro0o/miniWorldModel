@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Neural Network Models](🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Supply Chain Security](../../../../Academics%20🎓/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
+↗ [LLM & Supply Chain Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
 ↗ [Vulnerability Disclosure & Discovery (Malicious Code Detection)](../🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection).md)
 ↗ [Malicious Code & Behavior Discovery](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malicious%20Code%20&%20Behavior%20Discovery.md)

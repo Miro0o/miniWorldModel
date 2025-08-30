@@ -220,7 +220,7 @@ or（情感，逻辑）X （认识，实践）
 - 信息科学领域中的“计算”：
 	- ↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 - 深度学习中的"神经网络"模型：
-	- ↗ [Neural Networks](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
+	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
@@ -261,7 +261,7 @@ or（情感，逻辑）X （认识，实践）
 - 关于人的知识及关于自然（非人）的知识
 ###### 科学知识
 ↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
-↗ [Academics](Information%20Science%20&%20Computer%20Science/Academics%20🎓/Academics.md)
+↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ##### 信息运动的自动化：智能（狭义的智能）

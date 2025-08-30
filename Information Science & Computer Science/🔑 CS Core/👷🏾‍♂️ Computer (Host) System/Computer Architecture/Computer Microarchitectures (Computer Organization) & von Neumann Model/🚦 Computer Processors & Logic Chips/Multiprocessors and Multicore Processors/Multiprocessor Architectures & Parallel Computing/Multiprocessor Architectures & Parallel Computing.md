@@ -82,7 +82,8 @@ As an example, consider the case where a part of the system that initially consu
 #### Dataflow Computing
 ↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 #### Neural Network
-↗ [Neural Networks](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks.md)
+↗ [Deep Learning (Neural Networks)](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Neural Networks (In Parallel Computing)](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks%20(In%20Parallel%20Computing).md)
 #### Systolic Arrays
 ↗ [Systolic Arrays](📌%20Parallel%20Computing%20Alternative%20Modelings/Systolic%20Arrays.md)
 

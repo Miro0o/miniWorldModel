@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [International Opportunities](../International%20Opportunities.md)
-↗ [Academics](../../../../Academics%20🎓/Academics.md)
-↗ [Research Groups Watchlist - Profiles & Vacancies](../../../../Academics%20🎓/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
+↗ [Academics 🎓 (In CS)](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+↗ [Research Groups Watchlist - Profiles & Vacancies](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
 
-↗ [FAQ - Academia and Research](../../../../Academics%20🎓/FAQ%20-%20Academia%20and%20Research.md)
-↗ [给各位天命人的劝退信](../../../../Academics%20🎓/Appendix/给各位天命人的劝退信.md)
+↗ [FAQ - Academia and Research](../../../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md)
+↗ [给各位天命人的劝退信](../../../../Academics%20🎓%20(In%20CS)/Appendix/给各位天命人的劝退信.md)
 
 ↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
 ↗ [U.S. Education & Professional Training Industry](../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/🧑🏽‍🏫%20U.S.%20Education%20&%20Professional%20Training%20Industry/U.S.%20Education%20&%20Professional%20Training%20Industry.md)
@@ -20,7 +20,7 @@
 ### CS School Academic Ranking
 ↗ [International Opportunities](../International%20Opportunities.md)
 
-↗ [Academics](../../../../Academics%20🎓/Academics.md) | 文献计量学与学术评价
+↗ [Academics 🎓 (In CS)](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md) | 文献计量学与学术评价
 bibliometrics
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
