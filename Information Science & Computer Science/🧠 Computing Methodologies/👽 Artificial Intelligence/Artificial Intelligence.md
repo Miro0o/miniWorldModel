@@ -51,6 +51,7 @@ Roboflow empowers developers to build their own computer vision applications, no
 
 
 ## Intro
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 
 

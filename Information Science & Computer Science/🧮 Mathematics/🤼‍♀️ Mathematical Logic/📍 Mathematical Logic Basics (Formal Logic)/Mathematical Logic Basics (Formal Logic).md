@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-↗ [Logic And Mechanized Reasoning](../Logic%20And%20Mechanized%20Reasoning.md)
+↗ [Logic And Mechanized (Formal) Reasoning](../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 
 
 

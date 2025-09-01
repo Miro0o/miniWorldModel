@@ -57,8 +57,11 @@ AI by Hand
 
 
 
-## NN Hyperparameters
+## A Brief Survey of The Evolution of Neural Networks
 
+
+
+## NN Hyperparameters
 
 
 

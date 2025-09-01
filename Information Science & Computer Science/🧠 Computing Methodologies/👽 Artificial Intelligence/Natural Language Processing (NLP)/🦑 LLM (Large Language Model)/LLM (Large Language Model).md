@@ -135,14 +135,17 @@ Diffusion and flow-based models have become the state of the art for generative 
 
 
 ## Intro
-### LLM Basics
 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
-- Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
-- [Decoder-only Transformers]https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
+- [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
+- [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
 - [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 
 - [Next token prediction](https://cameronrwolfe.substack.com/i/136638774/understanding-next-token-prediction): this [self-supervised](https://cameronrwolfe.substack.com/i/76273144/self-supervised-learning) training objective underlies nearly all LLM functionality and is used by SFT!
 - [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
 - [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
+
+
+### LLM Training & Utilization
+↗ [LLM Training & Utilization](LLM%20Training%20&%20Utilization/LLM%20Training%20&%20Utilization.md)
 
 
 ### LLM Milestone Papers 
@@ -213,7 +216,6 @@ Diffusion and flow-based models have become the state of the art for generative 
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#other-papers (2025.01)
 
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link:
-
 - [Awesome-LLM-hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) - LLM hallucination paper list.
 - [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) - List of papers on hallucination detection in LLMs.
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs
