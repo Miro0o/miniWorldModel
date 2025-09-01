@@ -48,6 +48,12 @@ This course is extremely practical and oriented in a top-down manner, meaning th
 👍 👍 https://www.byhand.ai/
 AI by Hand
 
+https://www.fast.ai/
+- **Courses**: [Practical Deep Learning for Coders](https://course.fast.ai/); [From Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)
+- **Software**: [fastai for PyTorch](https://docs.fast.ai/); [nbdev](https://nbdev.fast.ai/)
+- **Book**: [Practical Deep Learning for Coders with fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+- **In the news**: [The Economist](https://www.economist.com/business/2018/10/25/new-schemes-teach-the-masses-to-build-ai); [The New York Times](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html); [MIT Tech Review](https://www.technologyreview.com/s/611858/small-team-of-ai-coders-beats-googles-code/)
+
 
 
 ## Intro

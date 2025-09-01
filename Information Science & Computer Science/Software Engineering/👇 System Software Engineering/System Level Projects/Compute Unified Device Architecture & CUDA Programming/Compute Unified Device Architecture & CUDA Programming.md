@@ -19,6 +19,12 @@
 
 
 ### Learning Resources
+https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%B8%8ECUDA%E5%85%A5%E9%97%A8/
+随着人工智能的发展，科学计算（尤其是矩阵/张量计算）越来越重要；因此，基于CUDA的张量编程也越来越重要。
+在[上一篇笔记](https://github.com/JasonkayZK/high-performance-computing-learn/blob/main/cuda/0-an-even-easier-intro-to-cuda.ipynb)中翻译了[《An Even Easier Introduction to CUDA》](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)，但是感觉作者写的不是很好；
+这里重新写了一篇。同时，也作为CUDA和并行编程的开篇。
+源代码：
+- [https://github.com/JasonkayZK/high-performance-computing-learn/blob/main/cuda/1_introduction_to_parallel_programming_and_cuda.ipynb](https://github.com/JasonkayZK/high-performance-computing-learn/blob/main/cuda/1_introduction_to_parallel_programming_and_cuda.ipynb)
 
 
 

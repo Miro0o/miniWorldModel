@@ -57,31 +57,23 @@ Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ 
     - [Great thoughts about LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#great-thoughts-about-llm)
     - [Miscellaneous](https://github.com/Hannibal046/Awesome-LLM/tree/main#miscellaneous)
 
-**LLM Tutorials and Courses**
-> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-tutorials-and-courses
+**Great thoughts about LLM**
+> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#great-thoughts-about-llm
 
-- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
-- [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
-- [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Princeton: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
-- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
-- [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
-- [A Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
-- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- [minbpe](https://www.youtube.com/watch?v=zduSFxRajkE&t=1157s) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
-- [femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer.
-- [Neurips2022-Foundational Robustness of Foundation Models](https://nips.cc/virtual/2022/tutorial/55796)
-- [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
-- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
-
-**LLM Books**
-> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-books
-
-- [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
-- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM.
-- [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
-- [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
+- [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt)
+- [A Stage Review of Instruction Tuning](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Why you should work on AI AGENTS!](https://www.youtube.com/watch?v=fqVLjtvWgq8)
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- [AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+- [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis)
+- [The Next Generation Of Large Language Models](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)
+- [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/)
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
+- [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
 
 **Miscellaneous**
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#miscellaneous
@@ -100,55 +92,51 @@ Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ 
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 
-**Great thoughts about LLM**
-> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#great-thoughts-about-llm
+---
+https://github.com/Shubhamsaboo/awesome-llm-apps
+A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
+#### Tutorials & Books
+https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-tutorials-and-courses
+**LLM Tutorials and Courses**
+- [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
+- [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
+- [Alexander Rush Series](https://rush-nlp.com/projects/) - high quality and educational materials you don't want to miss.
+- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
+- [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
+- [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Princeton: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+- [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
+- [A Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [minbpe](https://www.youtube.com/watch?v=zduSFxRajkE&t=1157s) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+- [femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer.
+- [Neurips2022-Foundational Robustness of Foundation Models](https://nips.cc/virtual/2022/tutorial/55796)
+- [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+ LLM / RL Algorithm Maps📚.
 
-- [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt)
-- [A Stage Review of Instruction Tuning](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)
-- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- [Why you should work on AI AGENTS!](https://www.youtube.com/watch?v=fqVLjtvWgq8)
-- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-- [AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
-- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
-- [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
-- [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis)
-- [The Next Generation Of Large Language Models](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)
-- [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/)
-- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
-- [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
-- [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
-#### Courses & Channels
-http://www.youtube.com/@AndrejKarpathy
-
-
-### Other Resources
-🚧 https://github.com/vllm-project/vllm
-https://docs.vllm.ai/en/stable/
-vLLM is a fast and easy-to-use library for LLM inference and serving.
-
-https://diffusion.csail.mit.edu/
-Introduction to Flow Matching and Diffusion Models
-MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations
-
-Diffusion and flow-based models have become the state of the art for generative AI across a wide range of data modalities, including images, videos, shapes, molecules, music, and more! This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields. This course is ideal for students who want to develop a principled understanding of the theory and practice of generative AI.
-
-
-
-## Intro
-📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
-- [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
-- [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
-- [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 
-- [Next token prediction](https://cameronrwolfe.substack.com/i/136638774/understanding-next-token-prediction): this [self-supervised](https://cameronrwolfe.substack.com/i/76273144/self-supervised-learning) training objective underlies nearly all LLM functionality and is used by SFT!
-- [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
-- [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
+https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-books
+**LLM Books**
+- [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM.
+- [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
+- [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
+- [The Chinese Book for Large Language Models](http://aibox.ruc.edu.cn/zws/index.htm) - An Introductory LLM Textbook Based on [_A Survey of Large Language Models_](https://arxiv.org/abs/2303.18223).
 
 
-### LLM Training & Utilization
-↗ [LLM Training & Utilization](LLM%20Training%20&%20Utilization/LLM%20Training%20&%20Utilization.md)
+### Papers
+#### LLM Survey Papers
+Minaee, S., Mikolov, T., Nikzad, N., Chenaghlu, M., Socher, R., Amatriain, X., & Gao, J. (2025). _Large Language Models: A Survey_ (arXiv:2402.06196). arXiv. [https://doi.org/10.48550/arXiv.2402.06196](https://doi.org/10.48550/arXiv.2402.06196)
+
+🏠 https://github.com/RUCAIBox/LLMSurvey
+A collection of papers and resources related to Large Language Models.
+The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223). 
+- Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 
 
-### LLM Milestone Papers 
+#### LLM Milestone Papers 
 > https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#milestone-papers (2025.01)
 
 |  Date   |       keywords       |      Institute       | Paper                                                                                                                                                                                                              |
@@ -210,9 +198,9 @@ Diffusion and flow-based models have become the state of the art for generative 
 | 2024-05 |        Mamba2        |    CMU&Princeton     | [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)                                                                      |
 | 2024-05 |        Llama3        |         Meta         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)                                                                                                                                                     |
 | 2024-12 |       Qwen2.5        |       Alibaba        | [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)                                                                                                                                                       |
-
-
-### Other Papers
+| 2024-12 |     DeepSeek-V3      |       DeepSeek       | [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1)                                                                                                                                                 |
+| 2025-01 |     DeepSeek-R1      |       DeepSeek       | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)                                                                                             |
+#### Other Papers
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#other-papers (2025.01)
 
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link:
@@ -249,6 +237,34 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) - This paper list focuses on the theoretical or empirical analysis of language models, e.g., the learning dynamics, expressive capacity, interpretability, generalization, and other interesting topics.
 
 
+### Other Resources
+🚧 https://github.com/vllm-project/vllm
+https://docs.vllm.ai/en/stable/
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+https://diffusion.csail.mit.edu/
+Introduction to Flow Matching and Diffusion Models
+MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations
+
+Diffusion and flow-based models have become the state of the art for generative AI across a wide range of data modalities, including images, videos, shapes, molecules, music, and more! This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields. This course is ideal for students who want to develop a principled understanding of the theory and practice of generative AI.
+
+
+
+## Intro
+📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
+- [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
+- [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
+- [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 
+- [Next token prediction](https://cameronrwolfe.substack.com/i/136638774/understanding-next-token-prediction): this [self-supervised](https://cameronrwolfe.substack.com/i/76273144/self-supervised-learning) training objective underlies nearly all LLM functionality and is used by SFT!
+- [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
+- [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
+
+
+### LLM Training & Utilization
+↗ [LLM Training, Utilization, and Evaluation](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
+
+
+
 
 ## Ref
 [什么是LLM大语言模型？Large Language Model，从量变到质变 - 艾凡AFan的文章 - 知乎]: https://zhuanlan.zhihu.com/p/622518771
@@ -275,3 +291,5 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 [🤔 从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗]: https://mp.weixin.qq.com/s/3YSega29u8hnc8CcCrNwqQ
 
 [80 【看大佬YouTube胜读四年本科 - cheezit03 | 小红书 - 你的生活兴趣社区】 😆 eMXAZs7NTrAMe8a 😆 ]: https://www.xiaohongshu.com/discovery/item/67cda8e7000000002903d0f9?source=webshare&xhsshare=pc_web&xsec_token=AB-gNabAhHDfNbngCiSe41bKwI6pTghIBsMcRPTSSb1Qo=&xsec_source=pc_share
+
+[知识和大语言模型的集成趋势：综述 - 黄浴的文章 - 知乎]: https://zhuanlan.zhihu.com/p/668825246

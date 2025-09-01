@@ -339,10 +339,21 @@ In 2002, [Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel "Ben Goertze
 
 
 ### Big Data and Big Machines
+>🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Big_data_and_big_machines
+
+The success of machine learning in the 2000s depended on the availability of vast amounts of training data and faster computers. Russell and Norvig wrote that the "improvement in performance obtained by increasing the size of the data set by two or three orders of magnitude outweighs any improvement that can be made by tweaking the algorithm." [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton "Geoffrey Hinton") recalled that back in the 90s, the problem was that "our labeled datasets were thousands of times too small. [And] our computers were millions of times too slow." This was no longer true by 2010.
+
+The most useful data in the 2000s came from curated, labeled data sets created specifically for machine learning and AI. In 2007, a group at [UMass Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst "University of Massachusetts Amherst") released [Labeled Faces in the Wild](https://en.wikipedia.org/w/index.php?title=Labeled_Faces_in_the_Wild&action=edit&redlink=1 "Labeled Faces in the Wild (page does not exist)"), an annotated set of images of faces that was widely used to train and test [face recognition](https://en.wikipedia.org/wiki/Face_recognition "Face recognition") systems for the next several decades. [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li "Fei-Fei Li") developed [ImageNet](https://en.wikipedia.org/wiki/ImageNet "ImageNet"), a database of three million images captioned by volunteers using the [Amazon Mechanical Turk](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk "Amazon Mechanical Turk"). Released in 2009, it was a useful body of training data and a benchmark for testing for the next generation of image processing systems. Google released [word2vec](https://en.wikipedia.org/wiki/Word2vec "Word2vec") in 2013 as an open source resource. It used large amounts of data text scraped from the internet and [word embedding](https://en.wikipedia.org/wiki/Word_embedding "Word embedding") to create a numeric vector to represent each word. Users were surprised at how well it was able to capture word meanings, for example, ordinary vector addition would give equivalences like China + River = Yangtze or London − England + France = Paris. This database in particular would be essential for the development of [large language models](https://en.wikipedia.org/wiki/Large_language_model "Large language model") in the late 2010s.
+
+The explosive growth of the internet gave machine learning programs access to billions of pages of text and images that could be [scraped](https://en.wikipedia.org/wiki/Data_scraping "Data scraping"). And, for specific problems, large privately held databases contained the relevant data. [McKinsey Global Institute](https://en.wikipedia.org/wiki/McKinsey_Global_Institute "McKinsey Global Institute") reported that "by 2009, nearly all sectors in the US economy had at least an average of 200 terabytes of stored data". This collection of information was known in the 2000s as _[big data](https://en.wikipedia.org/wiki/Big_data "Big data")_.
+
+In a _[Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy! "Jeopardy!")_ exhibition match in February 2011, [IBM](https://en.wikipedia.org/wiki/IBM "IBM")'s [question answering system](https://en.wikipedia.org/wiki/Question_answering_system "Question answering system") [Watson](https://en.wikipedia.org/wiki/IBM_Watson "IBM Watson") defeated the two best _Jeopardy!_ champions, [Brad Rutter](https://en.wikipedia.org/wiki/Brad_Rutter "Brad Rutter") and [Ken Jennings](https://en.wikipedia.org/wiki/Ken_Jennings "Ken Jennings"), by a significant margin. Watson's expertise would have been impossible without the information available on the internet.
 
 
 ### Deep Learning - 2012 AlexNet
 > ↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+
+> 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Deep_learning
 
 In 2012, AlexNet, a deep learning model,[am] developed by Alex Krizhevsky, won the ImageNet Large Scale Visual Recognition Challenge, with significantly fewer errors than the second-place winner.[272][206] Krizhevsky worked with Geoffrey Hinton at the University of Toronto.[an] This was a turning point in machine learning: over the next few years dozens of other approaches to image recognition were abandoned in favor of deep learning.[264]
 
@@ -352,17 +363,30 @@ Deep learning was applied to dozens of problems over the next few years (such as
 
 
 ### The Alignment Problem
+> 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#The_alignment_problem
 
 
 ### Artificial General Intelligence Research
+> 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Artificial_general_intelligence_research
 
 
 
-## 👉 Boom of Deep Learning in NLP, Large Language Models (2017~)
+## 👉 From NLP to AGI: Boom of LLM (2017~)
 > ↗ [LLM (Large Language Model)](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 > ↗ [Transformers (Encoder-Decoder)](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
 
+> 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Large_language_models,_AI_boom_(2017%E2%80%93present)
+
 The AI boom started with the initial development of key architectures and algorithms such as the [transformer architecture](https://en.wikipedia.org/wiki/Transformer_architecture "Transformer architecture") in 2017, leading to the scaling and development of large language models exhibiting human-like traits of knowledge, attention, and creativity. The new AI era began since 2020, with the public release of scaled [large language models](https://en.wikipedia.org/wiki/Large_language_model "Large language model") (LLMs) such as [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT "ChatGPT").
+
+
+> Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
+
+In Figure 2, we describe the evolution process of language models in terms of the task solving capacity. At first, statistical language models mainly assisted in some specific tasks (e.g., retrieval or speech tasks), in which the predicted or estimated probabilities can enhance the performance of task-specific approaches. Subsequently, neural language models focused on learning task-agnostic representations (e.g., features), aiming to reduce the efforts for human feature engineering. Furthermore, pre-trained language models learned context-aware representations that can be optimized according to downstream tasks. For the latest generation of language model, LLMs are enhanced by exploring the scaling effect on model capacity, which can be considered as general-purpose task solvers. To summarize, in the evolution process, the task scope that can be solved by language models have been greatly extended, and the task performance attained by language models have been significantly enhanced.
+
+![](../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
+<small>
+Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
 
 
 

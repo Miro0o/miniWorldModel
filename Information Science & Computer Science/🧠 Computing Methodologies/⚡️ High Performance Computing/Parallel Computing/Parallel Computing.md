@@ -14,6 +14,7 @@
 ↗ [Distributed Systems Implementations](../../Distributed%20Computing%20&%20Systems/💸%20Distributed%20Systems%20Implementations/Distributed%20Systems%20Implementations.md)
 
 ↗ [Concurrent Programming](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+↗ [Compute Unified Device Architecture & CUDA Programming](../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Level%20Projects/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 
 
 ### Learning Resources

@@ -17,7 +17,6 @@ The Prompt Engineering Guide is a project by [DAIR.AI](https://github.com/dair-
 
 We borrow inspirations from many open resources like [OpenAI CookBook](https://github.com/openai/openai-cookbook), [Pretrain, Prompt, Predict](http://pretrain.nlpedia.ai/), [Learn Prompting](https://learnprompting.org/), and many others.
 
-
 [Learn Prompting](https://learnprompting.org/)
 
 [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
@@ -47,7 +46,7 @@ Prompt engineering is not just about designing and developing prompts. It encomp
 > 📎 https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/
 
 
-### Zero-shot prompting
+### Zero-Shot Prompting
 In zero-shot prompting, we prepend a certain instruction to the user’s query without providing the model with _any_ direct examples.
 
 Imagine you’re developing a tech support chatbot using a large language model. To make sure the model focuses on providing tech solutions without having prior examples, you can prepend a specific instruction to all user inputs:
@@ -61,7 +60,8 @@ Solution:
 
 By prepending an instruction to the user query (“My computer won’t turn on,” we give the model context for the kind of answer desired. This is a way of adapting its output for tech support even without explicit examples of tech solutions.
 
-### Few-shot prompting
+
+### Few-shot Prompting
 In few-shot prompting, we prepend a few examples to the user’s query. These examples are essentially pairs of sample input and expected model output. 
 
 Imagine creating a health app that categorizes dishes into ‘Low Fat’ or ‘High Fat’ using a language model. To orient the model, a couple of examples are prepended to the user query:  
@@ -80,7 +80,7 @@ Informed by the examples in the prompt, a large enough and well trained LLM will
 Few-shot prompting is a good way of getting the model to adopt a certain response format. Going back to our tech support app example, if we wanted the model’s response to conform to a certain structure or length restrictions, we could do so through few-shot prompting.
 
 
-### Chain-of-thought prompting 
+### Chain-Of-Thought (COT) Prompting 
 Chain-of-thought prompting allows for detailed problem-solving by guiding the model through intermediate steps. Pairing it with few-shot prompting can enhance performance on tasks that need thoughtful analysis before generating an answer.  
 ``` text
 Subtracting the smallest number from the largest in this group results in an even number: 5, 8, 9.
@@ -108,11 +108,11 @@ For a variety of applications, basic prompt engineering of a very large LLM can 
 
 
 ## Advanced Prompting Techniques
-### ToT (Train-of-Thought)
+### Train-of-Thought (ToT)
 ↗ [ToT (Train-of-Thought)](ToT%20(Train-of-Thought).md)
 
 
-### RAG (Retrieval Augmented Generation)
+### Retrieval Augmented Generation (RAG)
 ↗ [RAG (Retrieval Augmented Generation)](RAG%20(Retrieval%20Augmented%20Generation).md)
 
 
