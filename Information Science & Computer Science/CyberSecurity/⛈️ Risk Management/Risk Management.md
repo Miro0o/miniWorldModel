@@ -164,7 +164,11 @@
 
 
 ## Risk Management ⭐
-![](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
+![|500](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
+<small>GB/Z 24364</small>
+
+![|500](../../../Assets/Pics/risk_management.jpg)
+<small>ISO/IEC 31000</small>
 
 ↗ [Risk Management Life Circle](Risk%20Management%20Life%20Circle/Risk%20Management%20Life%20Circle.md)
 

@@ -98,7 +98,7 @@ For more information on the principles behind ATT&CK, its creation, and its ongo
 
 
 
-## ATT&CK CTI
+## ATT&CK CTI (Cyber Threat Intelligence)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 

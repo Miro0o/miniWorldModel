@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [CyberSecurity](../../../../CyberSecurity/CyberSecurity.md)
-↗ [Computer Security Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Computer Security Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 ↗ [Conference & Events in Industry](../../../🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)
 
 

@@ -790,7 +790,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
+- ↗ [Academic Conference & Journals in IT Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
 - ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)

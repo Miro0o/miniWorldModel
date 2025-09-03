@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
 📂 [Conda Doc](https://docs.conda.io/en/latest/)
 📂 [Conda Userguide](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
@@ -15,7 +19,7 @@
 
 
 ## Intro
->  **TL;DR** 
+>  **TL;DR**
 >
 > Conda is a powerful package manager and environment manager that you use with command line commands at the Anaconda Prompt for Windows, or in a terminal window for macOS or Linux.
 

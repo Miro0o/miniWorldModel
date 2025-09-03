@@ -94,9 +94,8 @@ To standardize this discipline, academics and professionals collaborate to offer
 > ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
 
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
-
 1. **Confidentiality (机密性)** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
-2. **Data integrity (完整性)** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
+2. **Integrity (完整性)** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
 3. **Authentication (真实性)** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
 4. **Non-repudiation (不可抵赖性)** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
 
@@ -175,21 +174,70 @@ A related property that we may want our cryptosystem to have is _deniability_. 
 1. Know your threat model
 2. Consider Human Factors
 3. Security is economics
+	1. Keep it simple, complexity creates more opportunities for things to go wrong
 4. Detect if you can’t prevent
 5. Defense in depth
 6. Least privilege
-7. Separation of responsibility
+	1. A subject should have only the necessary rights and not more
+7. Separation of responsibility /privilege
+	1.  A process should be constructed in parts with separate access rights
 8. Ensure complete mediation
-9. Shannon’s Maxim /Kerckhoff’s Principle
+9. Shannon’s Maxim /Kerckhoff’s Principle (Open Design)
+	1.  Protection should not rely on secrecy of the protection mechanism itself
 10. Use fail-safe defaults
+	1.  Deny access by default and only grant access with explicit permission
 11. Design security in from the start
 12. The Trusted Computing Base (TCB)
-13. TOCTTOU Vulnerabilities
+13. TOCTTOU (Time-of-check to time-of-use) Vulnerabilities
+14. Phycological Acceptability
+	1. Impact to users should be minimal
+
+
+
+## 📄 Security & Compliance (Standards)「合规」
+↗ [Institutes & Organizations in IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20IT.md)
+↗ [Laws & Regulations in Electronic & Information Fields](../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields.md)
+↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
+
+Security vs. Compliance
+- **Compliance** = meet ISO requirements, pass audits, gain certification.
+- **Security** = reduce real risks, adapt toevolving threats.
+- Compliance gives a **baseline**; security demands continuous improvement.
+- Compliance is **auditor-focused**; security is **attacker-focused**.
+- Being compliant ≠ being secure — but together they strengthen trust & resilience.
+
+**ISO/IEC 27001**
+- **What**: Widely adopted global standard for ISMS (Information Security Management Systems); thousands of orgs certified, often a market expectation.
+- **How**: Define scope → assess risks → choose controls; document choices in a Statement of Applicability (SoA).
+- **Controls**: Annex A (2022) = 93 controls across 4 themes (Organizational, People, Physical, Technological).
+- **Certification**: 3-year cycle with annual audits; often paired with ISO 27002 / 27005 / 27017 /27018
+
+**ISO/IEC 31000**
+- **What**: Globally recognized standard for **risk management**; widely used across industries and governments.
+- **How**: Provides principles, framework, and process to identify, assess, treat, and monitor risks (not certifiable, but adaptable).
+- **Focus**: Integration of risk management into governance, strategy, and operations; promotes a structured and consistent approach.
+- **Popularity**: Adopted worldwide as a baseline for enterprise risk management (ERM) and often mapped to other frameworks (e.g., COSO ERM, ISO 27005).
+
+Other standards
+• ISO/IEC 27017 — Guidelines for cloud security.
+• ISO/IEC 27018 — Protection of personal data in the cloud.
+• ISO/IEC 27005 — Risk management method aligned with ISO 31000.
+• ISO/IEC 27701 — Extension of 27001 for privacy information management (PIMS).
+• ISO/IEC 22301 — Business continuity management systems.
+• IEC 62443 — Cybersecurity for industrial automation & control systems (OT/ICS).
+• ETSI EN 303 645 — Baseline security for consumer IoT devices.
+• NIST Cybersecurity Framework (CSF) — Widely used US framework, global influence.
+• NIST SP 800-53— Comprehensive security and privacy controls catalog.
+• PCI DSS — Payment Card Industry Data Security Standard, mandatory in payments.
+• SOC 2 (AICPA) — Service provider assurance reports on security, availability, etc.
+• Common Criteria (ISO/IEC 15408) — International IT product evaluation standard.
+• ISACA COBIT 2019 — Global IT governance & management framework aligning IT with business goals (successor to COBIT 5).
 
 
 
 ## Information Governance
 TBD..
+
 
 
 ## Information Assurance
@@ -204,4 +252,3 @@ TBD..
 
 ## Ref
 [Information Security | Wikipedia]: https://en.wikipedia.org/wiki/Information_security#Further_reading
-

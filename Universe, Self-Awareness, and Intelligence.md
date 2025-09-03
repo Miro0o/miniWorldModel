@@ -99,23 +99,6 @@ Anti-fragile: Things That Gain From Disorder
 （情感，逻辑）X （思考，行动）
 or（情感，逻辑）X （认识，实践）
 ##### 个体自我意识下的信息与时间
-##### 主体（自我意识）的发展与成熟
-↗ [Psychology](Other%20Networks%20of%20Knowledge/Social%20Science/Psychology/Psychology.md)
-↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
-- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
-
-自我意识的发展与成熟
-- 在两个维度中进行：知识（思），实践（做）
-- 在三个场景中进行：自我，社会（家庭，社区，民族），自然
-- 在若干阶段中进行：童年，少年，青年，中年，老年
-
-自我意识的天性
-- 贪婪
-- 自私
-自我意识在社会中习得
-- 欺骗能力
-- 经济能力 /资源规划 /付出与回报
-- 自我与非我（自然，社会中的其他个体，社会作为一个整体（不同的文化），等等）的关系
 ##### 个体自我意识的组织：群体与社会
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 社会的形成
@@ -155,6 +138,26 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 
 > 社会存在决定社会意识
+##### 主体（自我意识）的发展与成熟
+↗ [Psychology](Other%20Networks%20of%20Knowledge/Social%20Science/Psychology/Psychology.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+
+自我意识的发展与成熟
+- 在两个维度中进行：知识（思），实践（做）
+- 在三个场景中进行：自我，社会（家庭，社区，民族），自然
+- 在若干阶段中进行：童年，少年，青年，中年，老年
+
+自我意识的天性
+- 贪婪
+- 自私
+自我意识在社会中习得
+- 欺骗能力
+- 经济能力，具有资源获取、资源使用/规划的能力
+- 社会能力，辨认自我与非我（自然，社会中的其他个体，社会作为一个整体（不同的文化），等等）的关系
+###### 欺骗能力
+###### 经济能力
+###### 社会能力
 ##### 主体（自我意识）间的交互：社会关系
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 权力与等级

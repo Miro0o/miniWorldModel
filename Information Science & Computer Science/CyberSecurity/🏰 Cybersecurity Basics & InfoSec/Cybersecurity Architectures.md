@@ -188,7 +188,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		3. 在一个大型网络中，有许多节点或端节点。在使用这个网络时，并不是所有用户都是诚实的、可信的，同时也可能由于系统故障等原因使信息丢失、迟到等，这很可能引起责任问题，为了解决这个问题，就需要有一个各方都信任的实体——公证机构，如同一个国家设立的公证机构一样，提供公证服务，仲裁出现的问题
 		4. 一旦引入公证机制，通信双方进行数据通信时必须经过这个机构来转换，以确保公证机构能得到必要的信息，供以后仲裁
 2. **Pervasive Security Mechanisms** (Mechanisms that is not specific to any particular OSI security service or protocol layer.)
-	1. **Trusted Functionality** (↗ [Trusted Computing (TC)](Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md))
+	1. **Trusted Functionality** (↗ [Trusted Computing (TC)](Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md))
 		2. That which is perceived to be correct with respect to some criteria (e.g., as established by a security policy).
 	2. **Security Label** ()
 		1. The marking bound to a resource (which may be a data unit) that names or designates the security attributes of that resource.

@@ -19,6 +19,8 @@ LLM & Academics 🧑‍🎓
 - ↗ [LLM Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Dev/LLM%20Dev.md)
 - ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
 
+↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
+
 
 ### Learning Resource
 #### Texts & Docs

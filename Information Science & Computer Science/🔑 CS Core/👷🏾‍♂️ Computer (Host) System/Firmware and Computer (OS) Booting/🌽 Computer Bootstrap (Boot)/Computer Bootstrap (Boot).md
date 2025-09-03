@@ -12,8 +12,8 @@
 ↗ [Program Compilation & Execution](../../../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 ↗ [Memory Access & Addressing](../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
-↗ [TPM & TSS](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
-↗ [TPM](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20Project/TPM.md)
+↗ [TPM & TSS](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
+↗ [TPM](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20Project/TPM.md)
 
 ↗ [Linux Kernel Booting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20Kernel%20Booting%20Process.md)
 ↗ [Android Starting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Starting%20Process.md)
