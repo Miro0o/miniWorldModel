@@ -9,6 +9,11 @@
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
+↗ [Information Theory](../../../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Linear Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
+↗ [Possibilities & Statistics](../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Analytical Mathematics](../../../../🧮%20Mathematics/Analytical%20Mathematics/Analytical%20Mathematics.md)
+
 
 ### Learning Resource
 >  More on machine learning go to ↗️ [AI Basics & Machine Learning](../AI%20Basics%20&%20Machine%20Learning.md)
@@ -54,16 +59,77 @@ https://www.fast.ai/
 - **Book**: [Practical Deep Learning for Coders with fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - **In the news**: [The Economist](https://www.economist.com/business/2018/10/25/new-schemes-teach-the-masses-to-build-ai); [The New York Times](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html); [MIT Tech Review](https://www.technologyreview.com/s/611858/small-team-of-ai-coders-beats-googles-code/)
 
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+
+Michael Nielsen
+Neural Networks and Deep Learning
+
+https://distill.pub/
+
+https://colah.github.io/
 
 
-## Intro
+
+## Intro: Neural Network
+### Neuron, and The Connection of Information
+![computing.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+
+![|600](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.19.48.png)
+
+Features in data (数据特征): such **connections** between **informations** that leads to some semantic interpretation. 🤔
+
+
 ### Neural Network / Deep Network?
 - **Neural Networks**: Slow learning, potentially very powerful, can learn very complex patterns. Can be prone to overfitting due to high density of the parameters.
-- **Deep Networks**: Very large complex networks, but made up of many often heterogeneous types of networks that try to simplify the inputs, so that we can use a relatively small dense network to perform final decisions.
+- **Deep Networks**: Very large complex (neural) networks, but made up of many often heterogeneous types of networks that try to simplify the inputs, so that we can use a relatively small dense network to perform final decisions.
+
+
+### The Evolution of Neural Networks
+↗ [The Development History of AI / 👉 Big Data, Deep Learning, AGI (2005–2017)](../The%20Development%20History%20of%20AI.md#👉%20Big%20Data,%20Deep%20Learning,%20AGI%20(2005–2017))
+↗ [The Development History of AI /👉 From NLP to AGI: Boom of LLM (2017~)](../The%20Development%20History%20of%20AI.md#👉%20From%20NLP%20to%20AGI:%20Boom%20of%20LLM%20(2017~))
+↗ [LLM (Large Language Model) / LLM Milestone Papers](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
 
 
 
-## A Brief Survey of The Evolution of Neural Networks
+## Understanding Neural Networks and Deep Learning
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+- [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+
+
+### Basics & MLP (Multi Layer Perceptrons)
+1. Linear Perceptrons
+	1. XOR Problems
+2. MLP (Multi-Layer Perceptron)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
+fully connected, dense layer
+
+
+### CNN (Convolution Neural Network)
+↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
+- [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)
+- [YOLO (You Only Look Once)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/YOLO%20(You%20Only%20Look%20Once)/YOLO%20(You%20Only%20Look%20Once).md)
+- etc.
+
+
+### RNN (Recurrent Neural Network)
+↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
+- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
+- etc.
+
+
+### Transformer & LLM
+↗ [Transformers (Encoder-Decoder)](2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
+↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
@@ -75,7 +141,6 @@ https://www.fast.ai/
 [Deep Learning vs. Machine Learning]: https://dzone.com/articles/deep-learning-vs-machine-learning-the-hottest-topi
 
 [What Is the Necessity of Bias in Neural Networks?]: https://www.turing.com/kb/necessity-of-bias-in-neural-networks#components-in-artificial-neural-networks
-
 Components in artificial neural networks:
 1.  **Inputs:** They’re usually represented as features of a dataset which are passed on to a neural network to make predictions.
 2.  **Weights:** These are the real values associated with the features. They are significant as they tell the importance of each feature which is passed as an input to the [artificial neural network](https://www.turing.com/kb/importance-of-artificial-neural-networks-in-artificial-intelligence).
@@ -84,4 +149,3 @@ Components in artificial neural networks:
 5.  **Activation function:** It is required to add non-linearity to the neural network model
 
 [AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
-

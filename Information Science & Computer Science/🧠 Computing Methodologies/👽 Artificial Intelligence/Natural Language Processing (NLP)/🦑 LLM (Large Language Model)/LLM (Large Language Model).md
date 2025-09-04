@@ -97,6 +97,11 @@ Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ 
 ---
 https://github.com/Shubhamsaboo/awesome-llm-apps
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
+
+---
+https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+**On the Biology of a Large Language Model | Anthropic**
+We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
 #### Tutorials & Books
 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-tutorials-and-courses
 **LLM Tutorials and Courses**
@@ -126,6 +131,43 @@ https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-book
 - [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
 - [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
 - [The Chinese Book for Large Language Models](http://aibox.ruc.edu.cn/zws/index.htm) - An Introductory LLM Textbook Based on [_A Survey of Large Language Models_](https://arxiv.org/abs/2303.18223).
+#### Videos
+https://youtu.be/1il-s4mgNdI?si=DxlD_98ITLZsnCIw
+What does it mean for computers to understand language? | LM1
+vcubingx
+
+https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
+Let's build GPT: from scratch, in code, spelled out.
+Andrej Karpathy
+
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+- [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+	- 【【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章-哔哩哔哩】 https://b23.tv/rcO76mO
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+	- 【【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】-哔哩哔哩】 https://b23.tv/f0udg4P
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+
+Lex Fridman
+
+Machine Learning Street Talk
+
+StatQuest with Josh Starmer
+
+Jeremy Howard
+
+Serrano.Academy
+
+Hamel Husain
+
+Jason Liu
+
+Dave Ebbelaar
 
 
 ### Papers
@@ -138,7 +180,7 @@ The organization of papers refers to our survey [**"A Survey of Large Language 
 - Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 
 
-#### LLM Milestone Papers 
+#### LLM Milestone Papers
 > https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#milestone-papers (2025.01)
 
 |  Date   |       keywords       |      Institute       | Paper                                                                                                                                                                                                              |
@@ -253,6 +295,9 @@ Diffusion and flow-based models have become the state of the art for generative 
 
 
 ## Intro
+[Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+
+
 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 - [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
 - [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
@@ -295,3 +340,8 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 [80 【看大佬YouTube胜读四年本科 - cheezit03 | 小红书 - 你的生活兴趣社区】 😆 eMXAZs7NTrAMe8a 😆 ]: https://www.xiaohongshu.com/discovery/item/67cda8e7000000002903d0f9?source=webshare&xhsshare=pc_web&xsec_token=AB-gNabAhHDfNbngCiSe41bKwI6pTghIBsMcRPTSSb1Qo=&xsec_source=pc_share
 
 [知识和大语言模型的集成趋势：综述 - 黄浴的文章 - 知乎]: https://zhuanlan.zhihu.com/p/668825246
+
+[Tracing the thoughts of a large language model | Anthropic]: https://youtu.be/Bj9BD2D3DzA?si=fcpeY9wYY5IQDd2q
+
+QuantumBlack AI by McKinsey: ["The next innovation revolution - powered by AI"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-innovation-revolution-powered-by-ai)
+Gruber & Tal: [The Market Opportunity Navigator](https://wheretoplay.co/the-navigator/) , [PDF worksheet](https://drive.google.com/file/d/1eBUlii5EfLJM0Fc9JRk3Iy7DR6K0eykS/view?usp=share_link)

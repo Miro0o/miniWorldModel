@@ -430,6 +430,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 
 These questions, from general to specific, speaks the path of what i think every CS students should have follow in systematically learning computer science from zero to profession. Most of these questions are too general and abstract that people rarely take them seriously in learning CS (instead they love solving concrete problems and learning practical techniques). But I believe in undergraduate level study, it's quite beneficial for us to establish this systematical, panoramic view towards computer science as a discipline as a whole, in additional to solid engineering skills or specific domain knowledges in some areas.
 
+**Philosophical Part**
 1. What is the Universe?
 	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 	2. What is the life?（什么是生命？）
@@ -449,6 +450,8 @@ These questions, from general to specific, speaks the path of what i think every
 		3. Sentiments 🆚 Logics?
 		4. (What is academic research?)
 ----
+
+**Computer Science Part - Overview: (Mathematical) Theory -> Computer Design -> Computer Application**
 2. What is data /information?
 	1. ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
@@ -538,8 +541,15 @@ These questions, from general to specific, speaks the path of what i think every
 		3. etc.
 
 ---
-6. What is information system? What is cyberspace? What is cybersecurity?
+
+**Computer Science Part - Cybersecurity**
+1. What is information system? What is cyberspace? What is cybersecurity?
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
+
+---
+
+**Computer Science Part - Artificial Intelligence and LLM**
+1. 
 
 
 ### What can I do after learning CS?

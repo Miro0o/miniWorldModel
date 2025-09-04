@@ -372,7 +372,7 @@ Deep learning was applied to dozens of problems over the next few years (such as
 
 
 ## 👉 From NLP to AGI: Boom of LLM (2017~)
-> ↗ [LLM (Large Language Model)](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [LLM (Large Language Model) / LLM Milestone Papers](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
 > ↗ [Transformers (Encoder-Decoder)](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Large_language_models,_AI_boom_(2017%E2%80%93present)
