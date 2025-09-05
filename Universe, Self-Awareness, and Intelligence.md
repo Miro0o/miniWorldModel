@@ -130,6 +130,7 @@ or（情感，逻辑）X （认识，实践）
 上述几个方面的知识构成了人类社会的知识，即人类所有知识的画像，如下：
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+<small>The relationship of language, information/data, computation, and automation.</small>
 
 > 关于知识的定义和其他相关内容，之后有专门的章节。这里先提前使用一下。
 
@@ -283,6 +284,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+<small>The relationship of language, information/data, computation, and automation.</small>
 
 ![](Assets/Pics/Screenshot%202025-08-24%20at%2014.36.01.png)
 <small><a>https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg</a></small>
@@ -301,6 +303,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+<small>From CS to AGI: Computing and Intelligence</small>
 
 - 信息的运动方式：计算、传输、储存
 - 信息运动的自动化 /自动化地进行信息的「计算、传输、储存」：计算机进行计算（狭义的智能）

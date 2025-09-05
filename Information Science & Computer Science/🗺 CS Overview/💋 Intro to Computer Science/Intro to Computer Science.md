@@ -73,13 +73,15 @@ TL;DR Version
 	- Strong computational power don't make human-like intelligence, the combination of computational power and engineering ability makes human-like intelligence, or even human ourselves. However, a more widely-accepted version of such intelligence, artificial intelligence, aims to only reach the maximal power of computational ability, ignoring the engineering part. 
 
 ![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+<small>The relationship of language, information/data, computation, and automation.</small>
 
 ![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+<small>From CS to AGI: Computing and Intelligence</small>
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 
-### What is CS? What are problems faced in CS, to be more specific?
+### What is CS?
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 > 
@@ -92,7 +94,17 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
+#### A Deeper Thinking of Computation
+![computing.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 
+↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
+
+↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+- ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+- ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+#### The Domain Knowledge of CS
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
@@ -141,12 +153,12 @@ In general, the domain of computer science includes 3 major areas:
 		- etc.
 	- Human-Centered Computing
 	- etc.
-#### CSAB Classification
+##### CSAB Classification
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 
 As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software. [CSAB](https://en.wikipedia.org/wiki/CSAB_(professional_organization) "CSAB (professional organization)"), formerly called **Computing Sciences Accreditation Board** — which is made up of representatives of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM), and the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") (IEEE CS) — identifies four areas that it considers crucial to the discipline of computer science: _theory of computation_, _algorithms and data structures_, _programming methodology and languages_, and _computer elements and architecture_. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") as being important areas of computer science.
-#### ACM CCS (Classification of All CS Subjects)
+##### ACM CCS (Classification of All CS Subjects)
 > https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 > The **ACM Computing Classification System** (**CCS**) is a subject classification system for [computing](https://en.wikipedia.org/wiki/Computing "Computing") devised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM). The system is comparable to the [Mathematics Subject Classification](https://en.wikipedia.org/wiki/Mathematics_Subject_Classification "Mathematics Subject Classification") (MSC) in scope, aims, and structure, being used by the various ACM journals to organize subjects by area.
 
@@ -419,12 +431,13 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 	- Professional topics
 	- Computing / technology policy
 	- User characteristics
-#### CS Subjects by Learning Order /Leaner-Friendly
+
+
+### How to learn CS ? 
+#### CS Knowledge Learning Order: Beginner-Friendly
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
-
-
-### How to learn CS ? (🤔 Questions Leading my CS Study)
+#### 🤔 Questions Leading my CS Study)
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 > ↗ [Importance Themes & Ideology in CS](Importance%20Themes%20&%20Ideology%20in%20CS.md)
 
@@ -452,15 +465,17 @@ These questions, from general to specific, speaks the path of what i think every
 ----
 
 **Computer Science Part - Overview: (Mathematical) Theory -> Computer Design -> Computer Application**
+
 2. What is data /information?
 	1. ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 	3. what is language and its importance for data /information.
-3. What is computing /automation? 
+3. What is computation /automation? 
 	1. ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 		1. ↗ [Computability Theory & Turing Machine](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
 		2. ↗ [Computational Complexity Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+	2. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 4. What is a computer and how is it designed & constructed? (hardware, software, protocols)
 	1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md) /↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md) /↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	2. How mathematical models of computing machines are like? /How computer is designed in terms of mathematical computing model?
@@ -503,13 +518,14 @@ These questions, from general to specific, speaks the path of what i think every
 	7. What happened when a network request is sent and a response is received? /How does computer network(or the Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 5. How to apply computer into real world needs and improve it? (Application, Performance, Scalability, Development, Maintenance, _Security「CIA」_)
-	1. Below lists fields in CS:
-	2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+	1. Below lists (some) CS fields and related topics:
+	2. ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+	3. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		2. ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 		3. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 		4. etc.
-	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+	4. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 			1. ↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
@@ -519,37 +535,42 @@ These questions, from general to specific, speaks the path of what i think every
 		2. ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 		3. ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 		4. etc.
-	4. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
+	5. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 		1. ↗ [Industry 4.0](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenaries/Industry%204.0.md)
 		2. ↗ [Robots Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Robots%20Development/Robots%20Development.md)
 		3. etc.
-	5. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+	6. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 		1. ↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 		2. ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 		3. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 		4. ↗ [Computer Virtualization](../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 		5. etc.
-	6. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-	7. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+	7. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+	8. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 		1. ↗ [Data Science](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
 		2. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 		3. ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
 		4. etc.
-	8. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) (note that security issue is a special topic because it involved every system and aspect that related to information and information system, unlike other CS-subfields that specialize on just one certain area.)
+	9. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) (note that security issue is a special topic because it involved every system and aspect that related to information and information system, unlike other CS-subfields that specialize on just one certain area.)
 		1. ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md) / ↗ [Hardware Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
 		2. ↗ [Data Security](../../CyberSecurity/Data%20Security/Data%20Security.md)↗ [Application Security](../../CyberSecurity/Application%20Security/Application%20Security.md) / ↗ [Network Security](../../CyberSecurity/Network%20Security/Network%20Security.md) / ↗ [System Security](../../CyberSecurity/System%20Security/System%20Security.md) / ↗ [Physical Security](../../CyberSecurity/Physical%20Security/Physical%20Security.md)
 		3. etc.
 
 ---
 
-**Computer Science Part - Cybersecurity**
-1. What is information system? What is cyberspace? What is cybersecurity?
+**Computer Science Part - Specialization: Cybersecurity**
+
+1. What is information system? what is cyberspace? what is cybersecurity?
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 
 ---
 
-**Computer Science Part - Artificial Intelligence and LLM**
-1. 
+**Computer Science Part - Specialization: Artificial (General) Intelligence and LLM**
+
+1. What is computation? what is intelligence?
+	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+2.  What is Artificial (General) Intelligence?
+	1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 
 ### What can I do after learning CS?

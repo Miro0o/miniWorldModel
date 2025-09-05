@@ -589,8 +589,7 @@ ACM CCS 2012
 
 
 ## 🚀 A Serious CS Roadmap
-> ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#How%20to%20learn%20CS%20?%20(🤔%20Questions%20Leading%20my%20CS%20Study))
-
+> ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study))
 
 ### 0️⃣ Before you hit the road ...
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)

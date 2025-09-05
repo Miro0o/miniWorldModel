@@ -1,4 +1,4 @@
-# Modeling Tools
+# Discrete-Time Markov Chains (DTMC)
 
 [TOC]
 
@@ -8,8 +8,9 @@
 ### Related Topics
 
 
+
 ## Intro
 
 
-## Ref
 
+## Ref

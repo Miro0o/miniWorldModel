@@ -28,7 +28,7 @@
 
 
 ## Intro
-### Contextual Concepts Review
+### Related Contextual Concepts Review
 ![ | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
