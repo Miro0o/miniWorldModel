@@ -24,8 +24,8 @@
 
 
 
-
-
 ## Ref
 [五分钟读懂UML类图]:https://www.cnblogs.com/shindo/p/5579191.html
 [IMB docs for UML domels]: https://www.ibm.com/docs/en/rational-soft-arch/9.7.0?topic=tutorials-uml-models
+
+[【以前的程序员，除了敲代码，还得会画画 - 让编程再次伟大#42]: https://www.bilibili.com/video/BV1yU82zcEgv/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

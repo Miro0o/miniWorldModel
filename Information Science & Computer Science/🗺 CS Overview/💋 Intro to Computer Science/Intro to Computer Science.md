@@ -112,7 +112,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 <small>Computer Networks & Supplements to the Computer Science Overview </small>
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
-<small>Computer Program Running</small>
+<small>Computer Program Execution Procedure: Top-down Review</small>
 
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
@@ -437,7 +437,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 #### CS Knowledge Learning Order: Beginner-Friendly
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
-#### 🤔 Questions Leading my CS Study)
+#### 🤔 Questions Leading my CS Study
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 > ↗ [Importance Themes & Ideology in CS](Importance%20Themes%20&%20Ideology%20in%20CS.md)
 

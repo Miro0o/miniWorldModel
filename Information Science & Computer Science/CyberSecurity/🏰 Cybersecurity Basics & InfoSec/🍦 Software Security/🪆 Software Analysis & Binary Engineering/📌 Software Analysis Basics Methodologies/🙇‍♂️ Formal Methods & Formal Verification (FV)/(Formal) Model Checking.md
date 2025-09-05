@@ -9,6 +9,9 @@
 ↗ [ICT System Reliability (Correctness) & Verification](../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 ↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 
+↗ [Probability Models & Stochastic Process](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
+- ↗ [Markov Chains (MC)](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)/Markov%20Chains%20(MC).md)
+
 
 ### Related Tools
 https://en.wikipedia.org/wiki/List_of_model_checking_tools
@@ -89,6 +92,11 @@ The concepts of model checking have their roots in mathematical foundations such
 
 ### Pros & Cons of Model Checking
 > Model checking is an effective technique to expose potential design errors.
+
+
+
+## Modeling Concurrent Systems
+### Transition Systems
 
 
 

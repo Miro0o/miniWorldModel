@@ -50,6 +50,7 @@ Introduction to Mathematical Modeling
 
 ### Mathematical Modeling Process
 ![](../../Assets/Pics/Pasted%20image%2020250905221825.png)
+<small><a>https://m3challenge.siam.org/what-is-math-modeling/</a></small>
 
 
 

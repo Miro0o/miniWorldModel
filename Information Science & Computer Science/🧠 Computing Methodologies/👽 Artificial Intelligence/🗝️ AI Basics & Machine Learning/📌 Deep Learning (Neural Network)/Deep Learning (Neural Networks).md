@@ -11,7 +11,7 @@
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Linear Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
-↗ [Possibilities & Statistics](../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Probabilities & Statistics](../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 ↗ [Analytical Mathematics](../../../../🧮%20Mathematics/Analytical%20Mathematics/Analytical%20Mathematics.md)
 
 

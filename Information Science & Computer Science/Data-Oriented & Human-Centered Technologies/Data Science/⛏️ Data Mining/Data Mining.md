@@ -10,7 +10,7 @@
 - ↗ [AI Basics & Machine Learning](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
 - ↗ [Statistical Learning Theory](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 
-↗ [Possibilities & Statistics](../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Probabilities & Statistics](../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 ↗ [Statistical Learning Theory](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 
 ↗ [Mathematical Tools & Scientific Computing](../../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)

@@ -41,7 +41,7 @@
 ↗ [Computer Architecture](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
-<small>Application Execution and Computer Data Flow</small>
+<small>Computer Program Execution Procedure: Top-down Review</small>
 ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 
 - 主体视角下的宇宙三大构成元素：信息、物质、能量

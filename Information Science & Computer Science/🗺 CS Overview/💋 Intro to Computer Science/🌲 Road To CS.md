@@ -589,7 +589,7 @@ ACM CCS 2012
 
 
 ## 🚀 A Serious CS Roadmap
-> ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study))
+> ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study)
 
 ### 0️⃣ Before you hit the road ...
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
@@ -699,7 +699,7 @@ CS Inter-disciplines
 	- ↗ [Analytical Mathematics](../../🧮%20Mathematics/Analytical%20Mathematics/Analytical%20Mathematics.md)
 	- ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 	- ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-	- ↗ [Possibilities & Statistics](../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+	- ↗ [Probabilities & Statistics](../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 	- ↗ [Mathematical Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 	- etc.
 - ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)

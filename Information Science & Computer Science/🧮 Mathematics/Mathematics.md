@@ -276,7 +276,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 作为一相对较新的领域，离散数学有许多基本的未解问题。其中最有名的为P/NP问题——千禧年大奖难题之一。一般相信此问题的解答是否定的。
 ###### 👉 Statistics and Other Decision Sciences
-↗ [Possibilities & Statistics](📐%20Measures%20(Measure%20Theory)/📊%20Possibilities%20&%20Statistics/Possibilities%20&%20Statistics.md)
+↗ [Probabilities & Statistics](📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
 
