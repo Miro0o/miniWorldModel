@@ -12,7 +12,7 @@
 ↗ [Probability Models & Stochastic Process](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
 - ↗ [Markov Chains (MC)](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)/Markov%20Chains%20(MC).md)
 
-↗ [Temporal Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Propositional%20Logic%20(命题逻辑)/Temporal%20Logic/Temporal%20Logic.md)
+↗ [Temporal Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(Zero-Order%20Logic)%20Propositional%20Logic%20(命题逻辑)/Temporal%20Logic/Temporal%20Logic.md)
 
 
 ### Related Tools

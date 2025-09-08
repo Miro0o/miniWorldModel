@@ -1,4 +1,4 @@
-# Propositional Logic
+# (Zero-Order Logic) Propositional Logic (命题逻辑)
 
 [TOC]
 

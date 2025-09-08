@@ -1,4 +1,4 @@
-# Traditional Logic
+# Classic Logic
 
 [TOC]
 
