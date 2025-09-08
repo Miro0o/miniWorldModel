@@ -90,7 +90,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 ### Software Reliability & Quality
 ↗️ [Software Testing](../Operations Management/🧪 Software Testing/Software Testing.md)
 ↗ [Network Penetration (Pen-testing)](../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Vulnerability Discovery（漏洞检测）](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
+↗ [Vulnerability Discovery（漏洞检测）](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery（漏洞检测）.md)
 
 
 ### Software Maintenance

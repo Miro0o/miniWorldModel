@@ -53,7 +53,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 ### ⭐️ Internet Search Engine & Databases
 #### Googlehacking & GHDB
-↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 These Google operators are part of the Google query process, and the syntax of searching is as follows:
 ```shell
@@ -90,7 +90,7 @@ What is deleted from the internet is not necessarily deleted from Google. Every 
 
 
 #### exploit-db
-↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 
 #### Other Sources...

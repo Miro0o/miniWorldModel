@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [OSINT (Open Source Intelligence)](../📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)]
-↗ [Vulnerability Assessment (VA)（漏洞评估）](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/📌%20Vulnerability%20Government（漏洞管控）/📊%20Vulnerability%20Assessment%20(VA)（漏洞评估）/Vulnerability%20Assessment%20(VA)（漏洞评估）.md)
-↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Vulnerability Assessment (VA)（漏洞评估）](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/📊%20Vulnerability%20Assessment%20(VA)（漏洞评估）/Vulnerability%20Assessment%20(VA)（漏洞评估）.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 > google hacking & GHDB
 
 

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Software Analysis & Binary Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
-↗ [Software Analysis Basics Methodologies](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Software%20Analysis%20Basics%20Methodologies.md)
+↗ [Software Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md)
 
 
 
@@ -57,7 +57,7 @@ This article discusses a set of tactics useful in [software testing](https://en
 ## 👉 Non-Functional Testing
 ### 🤺 Security Testing
 #### Fuzz Testing
-↗ [Fuzzing (Concrete Execution)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
+↗ [Fuzzing (Concrete Execution)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 #### Penetration Testing
 ↗ [Network Penetration (Pen-testing)](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 

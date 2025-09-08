@@ -11,6 +11,8 @@
 
 ↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
+↗ [R Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
+
 
 ### Learning Resources
 【【合集】十分钟 机器学习 系列视频 《统计学习方法》】 https://www.bilibili.com/video/BV1No4y1o7ac/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -19,6 +21,8 @@
 📖 Information Theory, Inference, and Learning Algorithms. David J.C. MacKay
 
 📖 统计学习方法, 李航
+- 本书共介绍了10种主要的统计学习⽅法：感知机、k近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与最⼤熵模型、⽀持向量机、提升⽅法、EM算法、隐马尔可夫模型和条件随机场。这10种统计学习⽅法的特点概括总结在表12.1中：
+	- ![|500](../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2011.54.39.png)
 
 ([James et al. 2013](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/stat-learn-intro.html#ref-James-StatLearn-R13)): Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani(2013) An Introduction to Statistical Learning: with Applications in R, Springer.
 
@@ -48,4 +52,4 @@ Max Kuhn and Julia Silge(2023), Tidy Modeling with R, [https://www.tmwr.org/](h
 
 
 ## Ref
-如何学习《统计学习方法》？ - 知乎 https://www.zhihu.com/question/49386395
+[如何学习《统计学习方法》？ - 知乎]: https://www.zhihu.com/question/49386395
