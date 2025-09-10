@@ -8,6 +8,10 @@
 🏠 https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
 
 
+### Related Topics
+
+
+
 ## Intro
 Various specifications specify files and file formats. This specification defines where these files should be looked for by defining one or more base directories relative to which files should be located.
 

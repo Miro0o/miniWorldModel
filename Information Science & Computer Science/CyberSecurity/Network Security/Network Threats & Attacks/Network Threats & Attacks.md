@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Cybersecurity Threats & Attacks](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-↗ [Active Recon](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
-↗ [Hosts(IP) & Network Enumeration](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Hosts(IP)%20&%20Network%20Enumeration.md)
+↗ [Active Recon & Offensive OSINT](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
+↗ [Hosts(IP) & Network Enumeration](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Hosts(IP)%20&%20Network%20Enumeration.md)
 
 ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 

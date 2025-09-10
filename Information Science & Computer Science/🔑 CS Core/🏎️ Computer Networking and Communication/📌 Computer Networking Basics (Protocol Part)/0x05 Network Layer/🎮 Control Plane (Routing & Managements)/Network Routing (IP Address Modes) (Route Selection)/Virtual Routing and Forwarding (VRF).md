@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [vLAN & VxLAN](../../../0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Multiprotocol Label Switching (MPLS) (Layer 2.5 Protocol)](Multiprotocol%20Label%20Switching%20(MPLS)%20(Layer%202.5%20Protocol).md)

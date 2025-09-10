@@ -95,8 +95,8 @@ More Topics With Fun! 🥳
 - Proxy/ Tor
 	- ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 	- ↗ [Proxy Technology & GFW 🇨🇳](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
-	- ↗ [Darknet](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Darknet.md)
-	- ↗ [Onion Network & Tor](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
+	- ↗ [DarkWeb](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+	- ↗ [Onion Network & Tor Projects](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Routing%20Control/Onion%20Network%20&%20Tor%20Projects.md)
 - ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
 - ↗ [NAT (Network Address Translation)](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 	- ↗ [VPN & NAT Implementations](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)

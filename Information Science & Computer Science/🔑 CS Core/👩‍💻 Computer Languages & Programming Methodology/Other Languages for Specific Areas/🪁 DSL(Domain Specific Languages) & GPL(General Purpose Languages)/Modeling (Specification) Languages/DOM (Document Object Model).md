@@ -9,6 +9,9 @@
 📂 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model (DOM Guide, MDN)
 
 
+### Related Topics
+
+
 
 ## Intro
 The Document Object Model (DOM) is a cross-platform, **language-independent convention** for representing and interacting with objects in ↗ [HTML (HyperText Markup Language)](../Markup%20Languages/HTML%20(HyperText%20Markup%20Language).md), XHTML and ↗ [XML (Extensible Markup Language)](../Markup%20Languages/XML%20(Extensible%20Markup%20Language).md) documents. Objects in the **DOM tree** may be addressed and manipulated by using **methods** on the objects. The [W3C](https://developer.mozilla.org/en-US/docs/Glossary/W3C) standardizes the Core Document Object Model (in [HTML Standard](https://html.spec.whatwg.org/)), which defines language-agnostic interfaces that abstract HTML and XML documents as objects, and also defines mechanisms to manipulate this abstraction. Among the things defined by the DOM, we can find:

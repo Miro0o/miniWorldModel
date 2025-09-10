@@ -4,6 +4,10 @@
 
 
 ## Res
+### Related Topics
+↗ [SQL (Structured Query Language)](../../../🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
+
+
 ### Leraning Materials
 📂 [MySQL Official Documentation](https://dev.mysql.com/doc/)
 
@@ -13,10 +17,6 @@
 [菜鸟](https://www.runoob.com/mysql/mysql-database-import.html)
 [C语言中s文网](http://c.biancheng.net/view/vip_8317.html)
 [廖雪峰](https://www.liaoxuefeng.com/wiki/1177760294764384/1246617774585536)
-
-
-### Others..
-↗ [SQL (Structured Query Language)](../../../🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 
 

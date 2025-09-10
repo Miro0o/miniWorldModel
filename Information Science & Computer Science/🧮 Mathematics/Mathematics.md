@@ -266,7 +266,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 ↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Computability Theory & Turing Machine](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
+- ↗ [Computability Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 - ↗ [Computational Complexity Theory](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 ↗ [Information Theory](🧐%20Information%20Theory/Information%20Theory.md)
 

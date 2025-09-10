@@ -9,6 +9,9 @@
 📂 https://doc.coreboot.org
 
 
+### Related Topics
+
+
 ### The `coreboot` Community
 If you’re interested in getting your hands dirty (incl. potentially wiring up an external flasher to your computer), you’ve come to the right place!
 

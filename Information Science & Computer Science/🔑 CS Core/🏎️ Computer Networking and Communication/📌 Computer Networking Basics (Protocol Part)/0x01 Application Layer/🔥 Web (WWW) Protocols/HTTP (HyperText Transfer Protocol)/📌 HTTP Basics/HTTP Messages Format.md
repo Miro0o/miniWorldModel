@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
 HTTP messages format's references & specification is available at 🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP).
 - HTTP Headers
 - HTTP Request Methods

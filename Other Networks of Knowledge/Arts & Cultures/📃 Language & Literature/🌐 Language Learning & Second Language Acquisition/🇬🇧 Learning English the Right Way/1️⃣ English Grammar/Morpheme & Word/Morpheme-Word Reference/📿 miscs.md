@@ -12187,13 +12187,13 @@ pretzel
 - mregh-u-
 
 prod (rod)
+- (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage, )
 - n. 刺针, 刺棒, 激励话, 提醒物
 - vt. 戳, 刺, 刺激  
 - vi. 戳, 刺
 - v. 刺，戳；刺激，督促
 - n. 戳，捅；刺戳的工具；刺激，提醒；（贬称）新教徒
 - 来自中古英语 brodden,刺，戳，来自 Proto-Germanic*bruzdaz,刺，硬毛，来自 PIE*bhars,刺，硬毛，词源同 bur,barley,brad.
-- (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage, )
 - [goad](dic://goad), [goading](dic://goading), [prodding](dic://prodding), [urging](dic://urging), [spur](dic://spur), [spurring](dic://spurring)
 - [nudge](dic://nudge), [poke at](dic://poke at)
 - [incite](dic://incite), [egg on](dic://egg on)

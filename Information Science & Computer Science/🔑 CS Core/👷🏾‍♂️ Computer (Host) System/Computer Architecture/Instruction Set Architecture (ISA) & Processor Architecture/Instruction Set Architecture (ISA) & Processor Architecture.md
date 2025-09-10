@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-Dive deep beginning with ↗ [Instruction Formats](📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md)
+Dive deep beginning with ↗ [ISA Instruction Formats](📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Formats.md)
 
 The implementation of an ISA is referred to as "Microprocessor". This part is available at ↗ [Microcomputer Principles & Interfaces /Computer Microarchitectures](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md).
 
@@ -16,7 +16,7 @@ ISA is implemented and largely relies on the implementation of ↗ [Computer Mic
 
 ↗ [ASM (Assembly Languages)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [System Call Interfaces (SCI)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
-↗ [Machine Code](📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+↗ [Machine Code](📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
 
 
 ### Learning Resources
@@ -69,9 +69,9 @@ The ISA serves as the boundary between software (such as operating systems and a
 
 
 ### ISA 🆚 Machine Code
-↗ [Instruction Basics](📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Basics.md)
+↗ [ISA Instruction Basics](📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
 ↗ [ISA Basics](📌%20ISA%20Basics/ISA%20Basics.md)
-↗ [Machine Code](📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+↗ [Machine Code](📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
 #### Relationship Between ISA and Machine Code
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
 

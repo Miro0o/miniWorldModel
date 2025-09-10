@@ -8,7 +8,13 @@
 📂 https://csrc.nist.gov/glossary/term/simple_network_management_protocol
 Simple Network Management Protocol (SNMP) | NIST
 
+
+### Related Topics
+
+
+### Other Resources
 🎬 https://youtu.be/Lq7j-QipNrI?si=qy_XAN4KpojJvssp
+
 
 
 ## Intro

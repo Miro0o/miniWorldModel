@@ -10,6 +10,8 @@
 ↗ [AI Basics & Machine Learning](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
 ↗ [Statistical Learning Theory](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+
 ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 ↗ [LLM Models Guide & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
 

@@ -4,8 +4,12 @@
 
 
 
-## Intro
+## Res
+### Related Topics
 
+
+
+## Intro
 > 🔗 https://en.wikipedia.org/wiki/Packet_Data_Convergence_Protocol
 
 **Packet Data Convergence Protocol** (**PDCP**) is specified by [3GPP](https://en.wikipedia.org/wiki/3GPP) in TS 25.323 for [UMTS](https://en.wikipedia.org/wiki/UMTS), TS 36.323 for [LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication)) and TS 38.323 for [5G](https://en.wikipedia.org/wiki/5G). PDCP is located in the Radio Protocol Stack in the UMTS/LTE/5G [air interface](https://en.wikipedia.org/wiki/Air_interface) on top of the [RLC](https://en.wikipedia.org/wiki/Radio_Link_Control) layer.

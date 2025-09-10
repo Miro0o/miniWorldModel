@@ -179,7 +179,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		2. 通信业务填充机制能用来提供各种不同级别的保护，抵抗通信业务分析。这种机制只有在通信业务填充受到机密服务保护时才是有效的。它包括屏蔽协议、实体通信的频率、长度、发端和收端的码型，选定的随机数据率，更新填充信息的参数等，以防止业务量分析，即防止通过观察通信流量获得敏感信息。
 		3. 这种机制主要是对抗非法者在线路上监听数据并对其进行流量和流向分析。
 		4. 采用的方法一般由机密装置在无信息传输时，连续发出伪随机序列，使得非法者不知哪些是有用信息、哪些是无用信息。
-	7. **Routing Control** (↗ [Routing Control](../Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Routing%20Control.md))
+	7. **Routing Control** (↗ [Anonymous Routing Control](../Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Routing%20Control/Anonymous%20Routing%20Control.md))
 		1. Enables selection of particular physically secure routes for certain data and allows routing changes, especially when a breach of security is suspected.
 		2.  路由可通过动态方式或预选方式，使用物理上安全可靠的子网、中继或链路。当发现信息受到连续性的非法处理时，它可以另选安全路由来建立连接；带某种安全标记的信息将受到检验，防止非法信息通过某些子网、中继或链路，并告警。
 	8. **Notarization** ()

@@ -5,7 +5,9 @@
 
 
 ## Res
-[Streaming & Messaging](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Streaming%20&%20Messaging/Streaming%20&%20Messaging.md)
+### Related Topics
+↗ [Streaming & Messaging](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Streaming%20&%20Messaging/Streaming%20&%20Messaging.md)
+
 
 
 ## Intro

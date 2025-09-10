@@ -5,8 +5,6 @@
 
 
 ## Res
-![Logo](../../../../../../../Assets/Pics/leaf.svg)
-
 🏠 https://www.mongodb.com/home
 
 
@@ -61,10 +59,11 @@ To run a single server database:
 
 
 ## Intro
+![Logo](../../../../../../../Assets/Pics/leaf.svg)
+
 A record in MongoDB is a document, which is a data structure composed of field and value pairs. MongoDB documents are similar to JSON objects. The values of fields may include other documents, arrays, and arrays of documents.
 
 ![A MongoDB document.](https://www.mongodb.com/docs/manual/images/crud-annotated-document.bakedsvg.svg)
-
 
 The advantages of using documents are:
 - Documents correspond to native data types in many programming languages.

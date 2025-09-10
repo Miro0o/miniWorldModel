@@ -19,6 +19,8 @@
 
 ↗ [WASM (WebAssembly)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 
+↗ [Instruction Levels In Computer - ISA and Beyond](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond.md)
+
 
 ### Courses & Books
 🏫 [Stanford /CS143: Compilers](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
@@ -30,10 +32,19 @@
 
 【【全集】编译原理-静态程序分析【Static Program Analyses】】 https://www.bilibili.com/video/BV1Eu41167bV/?p=4&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+📖 Compilers: Principles, Techniques, and Tools 
+Alfred V.Aho, Ravi Sethi, Jeffrey D.Ullman 
+
+📖 Modern Compiler Implementation in C
+Andrew W.Appel, Jens Palsberg
+
+📖 Advanced Compiler Design and Implementation
+Steven S.Muchnick
+
 
 
 ## Overview
-![img](../../../../../../Assets/Pics/v2-e64ffca4c671f0038e0763202d55ec53_1440w.webp)
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../Assets/Illustrations/Drawing%202025-09-09%2022.37.45.excalidraw.md)
 <small>The process of compilation</small>
 
 ![img](../../../../../../Assets/Pics/v2-e5db6f0744ca512453bc3e30d5daa8ed_1440w.webp)
@@ -64,7 +75,7 @@
 <small>Application Execution and Computer Data Flow</small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
-<small>CSAPP</small>
+<small>CSAPP</small>A
 
 Although the machine we presented is quite different from a real machine, the assembly process we described is not. Virtually every assembler in use today passes twice through the source code. The first pass assembles as much code as it can, while building a symbol table; the second pass completes the binary instructions using address values retrieved from the symbol table built during the first pass.
 
@@ -74,9 +85,11 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 ### 2️⃣ Compiling
+↗ [Compilation Phase](Compilation%20Phase/Compilation%20Phase.md)
 
 
 ### 3️⃣ Assembling
+↗ [Assembly Phase](Assembly%20Phase/Assembly%20Phase.md)
 
 
 ### 4️⃣/5️⃣ Address Binding
@@ -115,11 +128,9 @@ The two main types are static and dynamic binary translation. Translation can be
 ## Ref
 [Compiler | wikipedia]: https://en.wikipedia.org/wiki/Compiler
 
-
 虽然编译原理很重要，但是我一直不理解，为什么需要学这门课?
 - 现在的 AI 架构都有用上编译技术进行中间优化，例如 Tensorflow、TVM，这些东西的本质就是一个内嵌的领域专用程序语言（EDSL）。 还有一个编程范式叫增量计算 （incremental computation），是反应式编程、数据流编程的一种，当节点上有任何数据更新/发送信号，数据相依的路径也会更新，游戏脚本设计、金融系统会用到。 还有树的优化，用元编程把树的走访消融在一块，可以减少快取丢失，浏览器的网页渲染会用得上。光追也有用元编程优化的技术。 所以编译原理学到的东西，不一定真的是要去搞编程语言设计还是编译器开发才用得上，做一些架构设计的时候它的精神本质就是一种编译器
 - 还有编译器工具链的build系统可以对应到很多的设计应用，可以看知乎这篇 [https://zhuanlan.zhihu.com/p/375651053](https://zhuanlan.zhihu.com/p/375651053)
-
 
 如何学习编译原理？ - 腾讯技术工程的回答 - 知乎 https://www.zhihu.com/question/21515496/answer/1689704074
 
@@ -131,3 +142,6 @@ The two main types are static and dynamic binary translation. Translation can be
 
 [Phases of a Compiler | Geeksforgeeks]: https://www.geeksforgeeks.org/phases-of-a-compiler/
 ![](../../../../Assets/Pics/Pasted%20image%2020250304120243.png)
+
+[编译原理三大经典：龙书 虎书 鲸书  | cnblog]: https://www.cnblogs.com/Arthurian/p/7881889.html
+众所周知，在编译原理界有三本经典的书籍，它们分别被称为龙书、虎书、鲸书，但很多人不知道这三本书分别是什么，或者很多人只知道龙书而对其它两本书不了解，这里给出简单介绍并附上三本书PDF版本的下载链接。

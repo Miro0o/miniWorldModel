@@ -21,7 +21,8 @@
 ↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
 
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
-↗ [OSINT (Open Source Intelligence)](📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
+↗ [Passive Recon & (Defensive) OSINT](Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
+↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 ↗ [News Focus (IT-exclusive)](../../../../🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
@@ -55,6 +56,10 @@ OSINT Framework
 OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for \$\$\$, but you should be able to get at least a portion of the available information for no cost.  
 
 I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
+
+
+### Books & Tutorials
+
 
 
 ### Cyber Threat Intelligence Platforms (TPI)
@@ -197,7 +202,10 @@ Learn all about any address, person or company in the US without leaving your co
 
 
 ### Reconnaissance
-> Penetration
+> ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+> ↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+
+> 📖 Pentesting 
 
 An attacker will typically dedicate up to 75% of the overall work effort for a penetration test to reconnaissance, as it is this phase that allows the target to be defined, mapped, and explored for the vulnerabilities that will eventually lead to exploitation.
 
@@ -207,13 +215,9 @@ There are two types of reconnaissance:
 
 Generally, passive reconnaissance is concerned with analyzing information that is openly available, usually from the target itself or public sources online. On accessing this information, the tester or attacker does not interact with the target in an unusual manner—requests and activities will not be logged, or will not be traced directly to the tester. Therefore, passive reconnaissance is conducted first to minimize the direct contact that may signal an impending attack or to identify the attacker.
 
-In this chapter, you will learn the principles and practices of passive reconnaissance, which include the following:
-- Basic principles of reconnaissance  
-- OSINT  
-- Online resources and dark web search  
-- Using scripts to automatically gather OSINT data Obtaining user information
-- Profiling users for password lists
-- Using social media to extract words
+
+### OSINT (Open Source Intelligence)
+↗ [Passive Recon & (Defensive) OSINT](Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
 
 
 

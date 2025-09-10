@@ -11,7 +11,7 @@
 ↗ [Java Runtimes (JRE & JDKs Tools)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools).md)
 - ↗ [Java Virtual Machine (JVM)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
-↗ [Bytecode](../../📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Bytecode.md)
+↗ [Bytecode](../../📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
 ↗ [JVM Bytecode](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/JVM%20Bytecode/JVM%20Bytecode.md)
 
 

@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [UPnP (Universal Plug-and-Play)](../../../../0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Service%20Discovery/UPnP%20(Universal%20Plug-and-Play)/UPnP%20(Universal%20Plug-and-Play).md)
 

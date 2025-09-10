@@ -12,6 +12,9 @@
 本工具最初用于测试MySQL，因此使用了MySQL语法。OpenGaussDB在语法形式上对MySQL兼容有限，因此测试效果会有一定程度下降。
 
 
+### Related Topics
+
+
 
 ## Intro
 

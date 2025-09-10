@@ -5,6 +5,11 @@
 
 
 ## Res
+### Related Topics
+
+
+
+### Other Resources
 [SQL-Hub.com](https://sql-hub.com/Page/index.php?Shortname=helpMSSQLMySQL)
 SQL-Hub allows you to merge data from multiple databases into a single central view. SQL-Hub is ideal where you have more than one database containing the same types of data. SQL-Hub combines the data from the tables in each of the databases into corresponding merged tables in a central database. Each record is tagged so its source database can be easily identified.
 

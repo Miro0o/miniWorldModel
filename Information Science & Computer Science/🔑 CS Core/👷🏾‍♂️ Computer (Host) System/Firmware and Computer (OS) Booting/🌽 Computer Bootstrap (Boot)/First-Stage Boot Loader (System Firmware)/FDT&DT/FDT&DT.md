@@ -8,6 +8,9 @@
 📂 [Devicetree Specification unknown-rev]([https://devicetree-specification.readthedocs.io/en/v0.3/introduction.html](https://devicetree-specification.readthedocs.io/en/latest/))
 
 
+### Related Topics
+
+
 
 ## Intro
 > The core reason for the existence of Device Tree in Linux is to provide a way to describe non-discoverable hardware. This information was previously hard coded in source code.

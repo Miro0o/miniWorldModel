@@ -9,6 +9,8 @@
 ↗ [Set Theory](../Set%20Theory/Set%20Theory.md)
 ↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
 
+↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
 
 ### Learning Resources
 🎬【【北京大学】理论计算机科学基础（全70讲）】 https://www.bilibili.com/video/BV1m4411p7nS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -17,11 +19,14 @@ https://mannuan.github.io/计算理论课件/
 
 🎬【【MIT18.404】计算理论基础(完结)—理论研究或算法应用的基础课】 https://www.bilibili.com/video/BV1qL411s7mr/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d - Michael Sipser
 
-📂 https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view
-The goal is to build a collection of videos for an undergraduate Theory of Computation course. We hope that this collection of videos would be a useful community resource for flipped classes. The intent is that these videos can be used in a flipped class format. The flipped format has been quite successful for other topics and seems well suited to remote teaching that many of us are doing. The instructor can choose to use these videos in whatever fashion he/she thinks best. These videos will ideally be supplemented by classroom discussion, practice exercises and assignments as part of the course.
-
 📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
+- This book focuses on three traditionally central areas of the theory of computation: automata, computability, and complexity. They are linked by the question: 
+	- What are the fundamental capabilities and limitations of computers?
+- This question goes back to the 1930s when mathematical logicians first began to explore the meaning of computation. Technological advances since that time have greatly increased our ability to compute and have brought this question out of the realm of theory into the world of practical concern.
+
+📂 https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view
+The goal is to build a collection of videos for an undergraduate Theory of Computation course. We hope that this collection of videos would be a useful community resource for flipped classes. The intent is that these videos can be used in a flipped class format. The flipped format has been quite successful for other topics and seems well suited to remote teaching that many of us are doing. The instructor can choose to use these videos in whatever fashion he/she thinks best. These videos will ideally be supplemented by classroom discussion, practice exercises and assignments as part of the course.
 
 📖 [Computational Complexity: A Modern Approach](http://www.cs.princeton.edu/theory/complexity/) by Arora and Barak.
 📖 Introduction to automata theory, languages, and computation / by John E. Hopcroft,. Rajeev Motwani, Jeffrey D. Ullman. -- _3rd ed_.
@@ -77,6 +82,9 @@ https://zemdalk.github.io/archive.html?tag=理论计算机科学基础
 
 
 ## Intro
+![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+<small>What can computers do?</small>
+
 > 🔗 https://en.wikipedia.org/wiki/Theory_of_computation
 
 In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") and [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), the **theory of computation** is the branch that deals with what problems can be solved on a model of computation, using an algorithm, how efficiently they can be solved or to what degree (e.g., [approximate solutions](https://en.wikipedia.org/wiki/Approximation_algorithms "Approximation algorithms")versus precise ones). The field is divided into three major branches:
@@ -109,7 +117,7 @@ Church–Turing thesis 指出，所有演算法可解的問題，都可透過 Tu
 In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.
 
 
-### Sequential models
+### Sequential Models
 Sequential models include:
 - [Finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine")
 - Post machines ([Post–Turing machines](https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine "Post–Turing machine") and [tag machines](https://en.wikipedia.org/wiki/Tag_system "Tag system")).
@@ -121,7 +129,7 @@ Sequential models include:
 - [External memory model](https://en.wikipedia.org/wiki/External_memory_model "External memory model")
 
 
-### Functional models
+### Functional Models
 Functional models include:
 - [Abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system")
 - [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic "Combinatory logic")
@@ -129,7 +137,7 @@ Functional models include:
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus")
 
 
-### Concurrent models
+### Concurrent Models
 Concurrent models include:
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model "Actor model")
 - [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton "Cellular automaton")

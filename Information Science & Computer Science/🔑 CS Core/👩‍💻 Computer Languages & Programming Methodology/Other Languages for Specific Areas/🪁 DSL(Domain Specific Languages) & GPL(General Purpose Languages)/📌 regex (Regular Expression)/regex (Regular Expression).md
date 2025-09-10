@@ -7,14 +7,18 @@
 ## Res
 ### Related Subjects
 ↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Regular Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language.md)
+↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
 ↗ [Files & Texts Filters /Codes Filters /Finders](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 
 ### Tutorial & Docs
 [short interactive regex tutorial](https://regexone.com/)
+
 [regex101](https://regex101.com/r/qqbZqh/2)
+
+http://regexvisualizer.apphb.com/
+Regular expression visualizer
 
 
 
@@ -29,7 +33,7 @@ But distinct from these theories, when referring to "regular expression" or "reg
 
 > "In _theoretical computer science_ and _formal language theory_, a **regular language** (also called a rational language) is a **formal language** that can be defined by a **regular expression**, in the strict sense in theoretical computer science (as opposed to many modern regular expression engines, which are augmented with features that allow the recognition of non-regular languages)."
 > 
-> ↗ [Regular Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language.md)
+> ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
 
 ### Regular Expression Uses

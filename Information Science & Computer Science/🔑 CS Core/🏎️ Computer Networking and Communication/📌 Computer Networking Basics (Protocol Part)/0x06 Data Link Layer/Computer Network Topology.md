@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [Overlay Network](../../Network%20Virtualization/Overlay%20Network.md)
 

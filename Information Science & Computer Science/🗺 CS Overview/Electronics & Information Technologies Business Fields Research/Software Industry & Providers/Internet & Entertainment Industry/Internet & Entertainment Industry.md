@@ -9,6 +9,8 @@
 ↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 ↗ [Entertainment & Mass Media Industry](../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Entertainment%20&%20Mass%20Media%20Industry/Entertainment%20&%20Mass%20Media%20Industry.md)
 
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+
 
 ### Other Resources
 https://cn.noxinfluencer.com/

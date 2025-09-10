@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [mDNS (Multicast DNS)](DNS%20(Domain%20Name%20Systems)/mDNS%20(Multicast%20DNS).md)
 

@@ -37,7 +37,8 @@
 - [南京大学《软件分析》课程16（Soundness and Soundiness）](https://www.bilibili.com/video/BV1d3411s7tt?spm_id_from=333.788.comment.all.click)
 
 https://www2.compute.dtu.dk/courses/02242/
-02242: Program Analysis | Autumn 2024
+https://courses.compute.dtu.dk/02242
+02242: Program Analysis
 Christian Gram Kalhauge | DTU
 
 |No|Date|Topic|
@@ -105,7 +106,7 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 
 ### Scope of Program Analysis
 #### Undecidability of Program Analysis
-> ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+> ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.3
 
@@ -153,9 +154,16 @@ This is a weird program: We can see that if `main` halts, it runs forever, and
 
 ---
 **General Undecidability of Program Analysis**
-https://en.wikipedia.org/wiki/Rice's_theorem
 
-We could hope that the problem that we can't figure out if a program terminates or not is special and does not affect any of the other things we would like to know about the program. But, sadly this is not the case. Almost any interesting thing you would like to know about the behavior of the program can be _reduced_ to the halting problem. This fact is called _Rice's theorem_.
+We could hope that the problem that we can't figure out if a program terminates or not is special and does not affect any of the other things we would like to know about the program. But, sadly this is not the case. **Almost any interesting thing you would like to know about the behavior of the program can be _reduced_ to the halting problem.** This fact is called **_Rice's theorem_**.
+
+> 🔗 [Rice's Theorem | wikipedia](https://en.wikipedia.org/wiki/Rice's_theorem)
+> 
+> In [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"), **Rice's theorem** states that all non-trivial semantic properties of programs are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem "Undecidable problem"). A _semantic_ property is one about the program's behavior (for instance, "does the program [terminate](https://en.wikipedia.org/wiki/Halting_problem "Halting problem") for all inputs?"), unlike a syntactic property (for instance, "does the program contain an [if-then-else](https://en.wikipedia.org/wiki/If-then-else "If-then-else") statement?"). A _non-trivial_ property is one which is neither true for every program, nor false for every program.
+> 
+> The theorem generalizes the undecidability of the [halting problem](https://en.wikipedia.org/wiki/Halting_problem "Halting problem"). It has far-reaching implications on the feasibility of [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis "Static program analysis") of programs. It implies that it is impossible, for example, to implement a tool that checks whether any given program is [correct](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)"), or even executes without error (it is possible to implement a tool that always overestimates or always underestimates, so in practice one has to decide what is less of a problem).
+> 
+> The theorem is named after [Henry Gordon Rice](https://en.wikipedia.org/wiki/Henry_Gordon_Rice "Henry Gordon Rice"), who proved it in his doctoral dissertation of 1951 at [Syracuse University](https://en.wikipedia.org/wiki/Syracuse_University "Syracuse University").
 
 For example, since figuring out the halting problem is impossible, we can't say if the following problem actually fires the nukes:
 
@@ -164,10 +172,10 @@ def main():
     something_that_might_go_forever()
     fire_the_nukes()
 ```
+
+However, all hope is not lost! Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
 #### Soundness & Completeness
 > ↗ [Mathematical Logic /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md#Soundness%20&%20Completeness)
-
-> Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.6
 
@@ -195,8 +203,12 @@ Translated into program analysis jargon, we say an analysis is sound if when it 
 
 ![|500](../../../../../../Assets/Pics/Screenshot%202025-09-08%20at%2023.56.20.png)
 ![](../../../../../../Assets/Pics/Pasted%20image%2020250908234809.png)
-##### A Relaxed Goal
-Actually, it turns out that in most real language settings, it is very hard to write an program static analysis that are sound. So in this course, instead of working with trivial programs, we relax the goal, and instead of requiring our analyses to be sound or complete, we try to aim to produce the best result in the shortest amount of time.
+##### A Relaxed Goal: Approximative Answers
+> 📖 Static Program Analysis | Anders Møller and Michael I. Schwartzbach
+
+While it is impossible to build an analysis that would correctly decide a property for any analyzed program, it is often possible to build analysis tools that give useful answers for most realistic programs. As the ideal analyzer does not exist, there is always room for building more precise approximations (which is colloquially called the full employment theorem for static program analysis designers).
+
+Approximative answers may be useful for finding bugs in programs, which may be viewed as a weak form of program verification. 
 
 > 🔗 [In Defense of Soundness: A Manifesto](https://dl.acm.org/doi/pdf/10.1145/2644805)
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.

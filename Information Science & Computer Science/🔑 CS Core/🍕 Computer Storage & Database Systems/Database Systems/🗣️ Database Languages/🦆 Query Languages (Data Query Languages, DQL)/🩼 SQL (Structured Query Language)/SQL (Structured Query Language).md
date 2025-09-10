@@ -5,7 +5,7 @@
 
 
 ## Res
-### Reference
+### Related Topics
 ↗ [Relational Data Model Languages](../../Record-Based%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages/Relational%20Data%20Model%20Languages.md)
 ↗ [Relational (Data) Models](../../../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Relational%20(Data)%20Models.md)
 

@@ -472,7 +472,7 @@ These questions, from general to specific, speaks the path of what i think every
 	3. what is language and its importance for data /information.
 3. What is computation /automation? 
 	1. ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-		1. ↗ [Computability Theory & Turing Machine](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
+		1. ↗ [Computability Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 		2. ↗ [Computational Complexity Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 	2. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)

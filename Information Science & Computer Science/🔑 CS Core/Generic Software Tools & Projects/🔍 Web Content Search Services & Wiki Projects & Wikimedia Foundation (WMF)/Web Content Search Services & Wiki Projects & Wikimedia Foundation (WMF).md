@@ -7,11 +7,17 @@
 ## Res
 ### Related Topics
 ↗ [Web Browser Implementations](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
+↗ [Internet & Entertainment Industry](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
+↗ [Proxy Technology & GFW 🇨🇳](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
 
 ↗ [Awesome NLP & LLM Projects & Services](../🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+- ↗ [Passive Recon & (Defensive) OSINT](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
+- ↗ [Active Recon & Offensive OSINT](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
 ↗ [Cyberspace Assets](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
-↗ [Cyberspace Assets Mapping & Management](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+- ↗ [Cyberspace Assets Mapping & Management](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 ↗ [Data-Oriented & Human-Centered Technologies](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 - ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
@@ -25,7 +31,7 @@
 ↗ [My Info Lists](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/My%20Info%20Lists.md)
 
 
-### Others
+### Other Resources
 
 
 
@@ -76,14 +82,44 @@
 
 
 ### 🎯 Dark Web Search & Tor
-↗ [Darknet](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Darknet.md)
-↗ [Onion Network & Tor](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
+↗ [DarkWeb](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+↗ [Onion Network & Tor Projects](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Routing%20Control/Onion%20Network%20&%20Tor%20Projects.md)
 
 
 ### 🎯 Domain-specific Search Tasks
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
-#### openk9
+
 https://www.openk9.io
+
+[Acronym Finder](https://www.acronymfinder.com/)  
+[Boardreader](https://boardreader.com/)  
+[Carrot2](https://search.carrot2.org/#/search/web)  
+[City Protect Agencies List](https://cityprotect.com/map/list/agencies)  
+[Dorks Collection List](https://github.com/cipher387/Dorks-collections-list/)  
+[Google Dorks Database](https://www.exploit-db.com/google-hacking-database)  
+[Judy Records (US Court Cases)](https://www.judyrecords.com/)  
+[Katana-ds](https://github.com/TebbaaX/Katana)  
+[Library of Congress](https://www.loc.gov/search/)  
+[Project Gutenberg](http://www.gutenberg.org/)  
+[IntelX Tool Searches](https://intelx.io/tools)  
+[SearchCode](https://searchcode.com/)  
+[Search Engines Index](https://searchenginesindex.com/)  
+[Search Engines of the World](http://www.searchenginesoftheworld.com/)  
+[Shodan Dojo](https://github.com/ninoseki/shodan-dojo)  
+[UserAgent String Search](http://useragentstring.com/pages/useragentstring.php)  
+[WhatIsMyBrowser](https://www.whatismybrowser.com/)  
+
+
+### Googlehacking, GHDB & exploit-db
+↗ [Exploit Database & Google Hacking & GHDB](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+
+
+### Web Archive
+[Archive.is](http://archive.is/)  
+[Cached View](http://cachedview.com/)  
+[OldWeb.Today](https://oldweb.today/)  
+[Time Travel](http://timetravel.mementoweb.org/)  
+[Wayback Machine](https://archive.org/) 
 
 
 

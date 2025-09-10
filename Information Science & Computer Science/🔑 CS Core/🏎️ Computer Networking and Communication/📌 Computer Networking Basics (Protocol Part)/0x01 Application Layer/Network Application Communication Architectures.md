@@ -5,15 +5,15 @@
 
 
 ## Res
-### Learning Material
-【深入浅出计算机网络 - 6.2 客户/服务器方式和对等方式】 https://www.bilibili.com/video/BV1mV4y1T72M/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
-### Notes
+### Related Topics
 ↗ [Database System Web Services' Architectures](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 ↗ [Web Application Systems & Architecture Design](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 ↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+
+
+### Learning Resources
+【深入浅出计算机网络 - 6.2 客户/服务器方式和对等方式】 https://www.bilibili.com/video/BV1mV4y1T72M/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

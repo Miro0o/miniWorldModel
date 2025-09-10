@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro
@@ -13,6 +15,7 @@ Traffic mirroring, also called shadowing, is a powerful concept that allows feat
 镜像是一种数据流的监控技术，镜像既能对网络中的数据流量进行监控分析，又不影响网络中的数据流量的正常转发。对于监控网络信息安全和解决网络故障，镜像是一种实用性很强的网络监控技术。当网络中存在攻击或出现故障时，网络管理员可以通过镜像功能对报文进行获取并分析，找到攻击源或故障原因。  
 - 根据镜像源的不同，镜像可以分为端口镜像、流镜像、[VLAN](https://info.support.huawei.com/info-finder/encyclopedia/zh/VLAN.html "VLAN")镜像、MAC镜像。例如端口镜像代表将指定端口入方向、出方向、或者出入方向的报文复制到目的端口。  
 - 根据目的端口与监控设备间的连接方式，镜像可以分为本地镜像和远程镜像。
+
 
 ### Glossaries
 - 源端口
@@ -38,7 +41,6 @@ Port mirroring is used on a network switch to send a copy of network packets see
 - Port mirroring on a Cisco Systems switch is generally referred to as **Switched Port Analyzer (SPAN)** or **Remote Switched Port Analyzer (RSPAN)**. Other vendors have different names for it, such as **Roving Analysis Port (RAP)** on 3Com switches.
 
 Network engineers or administrators use port mirroring to analyze and debug data or diagnose errors on a network. It helps administrators keep a close eye on network performance and alerts them when problems occur. It can be used to mirror either inbound or outbound traffic (or both) on single or multiple interfaces.
-
 #### Port Mirroring Working Principles
 端口镜像是将网络设备上指定端口接收或发送的报文复制到目的端口，可以只复制端口接收或者发送的报文，也可以同时复制接收和发送的报文。指定端口称为镜像端口，目的端口称为观察端口。
 

@@ -8,6 +8,9 @@
 🏠 https://www.amqp.org
 
 
+### Related Topics
+
+
 
 ## Intro
 The Advanced Message Queuing Protocol is an open standard application layer protocol for message-oriented middleware. The defining features of AMQP are message orientation, queuing, routing, reliability and security.
