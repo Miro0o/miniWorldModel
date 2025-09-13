@@ -36,6 +36,8 @@ A couple other key features separate SDPs from VPNs: SDPs are location- and infr
 
 
 ### SDP and Zero Trust Security
+↗ [Zero Trust Security](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Zero%20Trust%20Security/Zero%20Trust%20Security.md)
+
 > 🔗 https://www.cloudflare.com/learning/access-management/software-defined-perimeter/
 
 As the name implies, there is no trust in Zero Trust security; no user, device, or network is considered trustworthy by default. Zero Trust security is a security model that requires strict identity verification for every person and device trying to access internal resources, no matter whether they are sitting inside or outside the network perimeter (or, the software-defined perimeter).

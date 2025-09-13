@@ -60,7 +60,9 @@ The BBS is an inclusive and multilingual forum for public discussion about Inter
 
 
 
-## Internet Censorship
+## Internet Content Censorship
+↗ [Content Security](../../Data%20Security/Content%20Security/Content%20Security.md)
+
 tbd..
 
 
