@@ -48,3 +48,5 @@ Transformer Explainer
 
 
 ## Ref
+Deng, Y., Xia, C. S., Yang, C., Zhang, S. D., Yang, S., & Zhang, L. (2024). Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries. Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, 1–13. https://doi.org/10.1145/3597503.3623343
+- LLMs can be classified based on variations of the popular Transformer architecture [64] into: Encoder-only, Decoder-only and Encoder-Decoder models. Decoder-only LLMs (e.g., GPT [7, 46], Codex [10] and CodeGen [43]) focus on autoregressive completion tasks by learning to predict the probability of the next token given previously generated tokens. Encoder-only (e.g., CodeBERT [17] and GraphCodeBERT [24]) and Encoder-Decoder (e.g., CodeT5 [79] and PLBART [4]) models on the other hand are designed for infilling tasks, where the pre-training objective is to recover masked-out tokens or token spans in the training data by using bi-directional context.

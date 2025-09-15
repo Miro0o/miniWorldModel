@@ -12,14 +12,17 @@
 
 
 ### Related Topics
+↗ [DNSSEC (Securing DNS)](../../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/DNSSEC%20(Securing%20DNS)/DNSSEC%20(Securing%20DNS).md)
+
 ↗ [Database System /Directory Services /DNS Servers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
-↗ [Pen-tensting /DNS Reconnaissance](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/DNS%20&%20Domain%20Reconnaissance.md)
-↗ [🌏 Global DNS Service Providers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20Implementations/🌏%20Global%20DNS%20Service%20Providers.md)
+↗ [DNS & Domain Reconnaissance](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/DNS%20&%20Domain%20Reconnaissance.md)
+↗ [🌏 Global DNS Service Providers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 
 ### Learning Resources
 【深入浅出计算机网络 - 6.4 域名系统DNS】 https://www.bilibili.com/video/BV1fT411T7NQ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Intro
@@ -43,8 +46,8 @@ It is highly desirable that an email address should contain simple letters, or s
 A set of IP address is provided to one canonical name which prevents the load to be present only on one server. “When the request comes to the DNS server to resolve the domain name, it gives out one of the several canonical names in a rotated order. This redirects the request to one of the several servers in a server group. Once the BIND feature of DNS resolves the domain to one of the servers, subsequent requests from the same client are sent to the same server
 
 
-### Global DNS Servers /Domani Name Providers
-↗ [🌏 Global DNS Service Providers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20Implementations/🌏%20Global%20DNS%20Service%20Providers.md)
+### Global DNS Servers /Domain Name Providers
+↗ [🌏 Global DNS Service Providers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 

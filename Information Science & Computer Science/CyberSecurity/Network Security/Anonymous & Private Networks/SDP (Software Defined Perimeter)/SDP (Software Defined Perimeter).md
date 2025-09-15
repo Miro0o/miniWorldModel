@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Tunneling & VPN](../👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+↗ [Tunneling & VPN (Virtual Personal Network)](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 ↗ [Zero Trust Security](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Zero%20Trust%20Security/Zero%20Trust%20Security.md)
 
 

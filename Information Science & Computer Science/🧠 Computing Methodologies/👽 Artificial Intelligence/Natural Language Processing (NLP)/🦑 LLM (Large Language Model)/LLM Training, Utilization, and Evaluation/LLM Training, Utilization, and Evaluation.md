@@ -10,11 +10,16 @@
 
 
 ### Other Resources
+🏠 https://github.com/RUCAIBox/LLMSurvey
+A collection of papers and resources related to Large Language Models.
+The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223). 
+- Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 
 
 
 ## Intro
 ↗ [Deep Learning (Neural Networks)](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Transformers (Encoder-Decoder)](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
 
 
 
@@ -37,6 +42,7 @@
 #### Analysis and Optimization for Model Inference
 
 #### Complex Reasoning
+
 #### Long Context Modeling
 
 
@@ -65,7 +71,7 @@
 
 
 ## Post-Training
-> ↗ [LLM Alignment](LLM%20Alignment/LLM%20Alignment.md)
+> ↗ [LLM Adaptation & Alignment Tuning](Post-Training%20&%20Fine%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 
 > 🔗 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 
@@ -90,16 +96,27 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 
-## Utilization
-### Prompt Engineering
-↗ [Prompt Engineering](Prompt%20Engineering/Prompt%20Engineering.md)
+## Utilization & Prompt Engineering
+↗ [LLM Utilization & Prompt Engineering](LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
 
 
 ### In-Context Learning (ICL)
+↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Utilization%20&%20Prompt%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
+
+
+### Chain-of-Thought (CoT)
+↗ [CoT (Chain-of-Thought)](LLM%20Utilization%20&%20Prompt%20Engineering/CoT%20(Chain-of-Thought).md)
+
+
+### Retrieval Augmented Generation (RAG)
+↗ [RAG (Retrieval Augmented Generation)](LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 
 
 
 ## Evaluation
+> ↗ [LLM Models Guide & Leaderboard](../🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
+
+
 ### Basic Ability
 
 

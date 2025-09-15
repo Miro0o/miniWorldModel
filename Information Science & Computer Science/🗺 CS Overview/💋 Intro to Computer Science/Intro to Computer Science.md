@@ -60,7 +60,7 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 ### Why is CS needed?
 > 💡 This section only stands for personal views. 
 
-TL;DR Version
+TL;DR
 - The universe is made of **objects /maters**. According to different frames of references, objects can be still or in movement. 
 	- The movement of objects leads to **energy**.
 - One unique existence in the universe: objects that has self-consciousness. The universe thus is divided into objects with self-consciousness and objects without self-consciousness.
@@ -434,7 +434,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 
 
 ### How to learn CS ? 
-#### CS Knowledge Learning Order: Beginner-Friendly
+#### A Beginner-Friendly Learning Order
 ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md)
 ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
 #### 🤔 Questions Leading my CS Study

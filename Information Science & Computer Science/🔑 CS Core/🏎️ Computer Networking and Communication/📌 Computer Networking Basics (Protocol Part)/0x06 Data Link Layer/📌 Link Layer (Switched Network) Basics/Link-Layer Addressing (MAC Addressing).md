@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 ↗ [MAC (Media Access Control) Protocol & Layer 2 Lower Sublayer](📌%20MAC%20(Media%20Access%20Control)%20&%20Layer%202%20Lower%20Sublayer/MAC%20(Media%20Access%20Control)%20Protocol%20&%20Layer%202%20Lower%20Sublayer.md)
 
 
@@ -33,7 +34,6 @@ For most LANs (including Ethernet and 802.11 wireless LANs), the MAC address is 
 One interesting property of MAC addresses is that no two adapters have the same address.
 
 The IEEE manages the MAC address space. In particular, when a company wants to manufacture adapters, it purchases a chunk of the address space consisting of 224 addresses for a nominal fee. IEEE allocates the chunk of 224 addresses by fixing the first 24 bits of a MAC address and letting the company create unique combinations of the last 24 bits for each adapter.
-
 #### 👉 Flat
 An adapter’s MAC address has a **flat structure** (as opposed to a **hierarchical structure**) and doesn’t change no matter where the adapter goes.
 
@@ -57,7 +57,6 @@ Recall that, in contrast, IP addresses have a **hierarchical structure** (that i
 > ARP for Ethernet is defined in [RFC 826]. A nice introduction to ARP is given in the TCP/IP tutorial, [RFC 1180]. We’ll explore ARP in more detail in the homework problems.
 ##### 🤨 Is ARP link layer protocol or network layer protocol?
 Students often wonder if ARP is a link-layer protocol or a network-layer protocol. As we’ve seen, an ARP packet is encapsulated within a link-layer frame and thus lies architecturally above the link layer. However, an ARP packet has fields containing link-layer addresses and thus is arguably a link-layer protocol, but it also contains network-layer addresses and thus is also arguably a network-layer protocol. In the end, ARP is probably best considered a protocol that straddles the boundary between the link and network layers—not fitting neatly into the simple layered protocol stack we studied in Chapter 1. Such are the complexities of real-world protocols!
-
 #### NDP (IPv6)
 ↗ [NDP (Neighbor Discovery Protocol) (IPv6)](../../0x05%20Network%20Layer/🚙%20Data%20Plane%20(Forwarding)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6).md)
 

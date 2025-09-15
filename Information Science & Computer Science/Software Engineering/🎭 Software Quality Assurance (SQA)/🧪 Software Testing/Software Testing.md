@@ -13,13 +13,13 @@
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Analysis & Binary Engineering](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 - ↗ [Software Vulnerability & Weakness](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-- ↗ [Techniques - Vulnerability Disclosure & Malicious Code Detection](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection.md)
+- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 ↗ [Linux Test Project (LTP)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🤤%20Linux%20Test%20Project%20(LTP)/Linux%20Test%20Project%20(LTP).md)
 
-↗ [Fuzzing (Concrete Execution)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
+↗ [Fuzzing (Concrete Execution)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 
 
 ### Learning Resources

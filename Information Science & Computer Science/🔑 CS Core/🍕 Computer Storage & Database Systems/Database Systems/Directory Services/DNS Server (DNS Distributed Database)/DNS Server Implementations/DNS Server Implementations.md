@@ -11,7 +11,7 @@
 
 ## Intro
 ### Global DNS Service
-↗ [🌏 Global DNS Service Providers](🌏%20Global%20DNS%20Service%20Providers.md)
+↗ [🌏 Global DNS Service Providers](../🌏%20Global%20DNS%20Service%20Providers.md)
 
 ### Local DNS Server Implementations
 > Below are AI generated contents from https://poe.com via ChatGPT3.5.

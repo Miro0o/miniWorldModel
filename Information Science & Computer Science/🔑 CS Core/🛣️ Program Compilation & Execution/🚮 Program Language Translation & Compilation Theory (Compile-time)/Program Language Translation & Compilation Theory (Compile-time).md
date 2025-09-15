@@ -81,6 +81,7 @@ Although the machine we presented is quite different from a real machine, the as
 
 The final output of most assemblers is **a stream of relocatable binary instructions**. Binary code is relocatable when the addresses of the operands are relative to the location where the operating system has loaded the program in memory, and the operating system is free to load this code wherever it wants. 
 
+
 ### 1️⃣ Preprocess
 
 

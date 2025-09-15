@@ -13,8 +13,8 @@
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)
 
-↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
-- ↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
+- ↗ [Tunneling & VPN (Virtual Personal Network)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 - ↗ [SSH Tunneling](../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/📌%20SSH%20Services%20&%20Components/SSH%20Tunneling.md)
 
 ↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC.md)
@@ -43,7 +43,7 @@
 ![](../../../../Assets/Pics/Pasted%20image%2020230412170938.png)
 
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
-↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+↗ [Tunneling & VPN (Virtual Personal Network)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 ↗ [APN (Access Point Name)](APN%20(Access%20Point%20Name).md)
 ↗ [Overlay Network](Overlay%20Network.md)
 
@@ -82,8 +82,8 @@ Apart from the underlay network(IP network), **network overlays** are virtual ne
 #### VxLAN (Virtual Extensible LAN)
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 #### NVGRE (Network Virtualization Using Generic Routing Encapsulation)
-↗ [GRE (Generic Routing Encapsulation)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
-↗ [NVGRE (Network Virtualization using GRE)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/NVGRE%20(Network%20Virtualization%20using%20GRE).md)
+↗ [GRE (Generic Routing Encapsulation)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
+↗ [NVGRE (Network Virtualization using GRE)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/NVGRE%20(Network%20Virtualization%20using%20GRE).md)
 
 NVGRE allows the creation of virtual Layer 2 topologies on top of a physical Layer 3 network. With the help of NVGRE you can achieve by tunneling Ethernet frames inside an IP packet over a physical network. NVGRE supports a 24-bit segment ID or virtual subnet identifier (VSID) similar to VXLAN, providing up to 16 million virtual segments that can uniquely identify a given segment.
 

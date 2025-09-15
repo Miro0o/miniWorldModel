@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Techniques - Vulnerability Disclosure & Malicious Code Detection](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection.md)
+↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 ↗ [Vulnerability Discovery（漏洞检测）](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Scanners](../🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
 

@@ -18,36 +18,32 @@
 ### Learning Resource
 >  More on machine learning go to ↗️ [AI Basics & Machine Learning](../AI%20Basics%20&%20Machine%20Learning.md)
 
----
 动手学深度学习, 李沐
 🏠 https://zh.d2l.ai/index.html (ZH)
 🏠 https://d2l.ai/index.html (EN)
-
 🚧 https://github.com/d2l-ai/d2l-en (EN)
 🚧 https://github.com/d2l-ai/d2l-zh (ZH)
-
 👥 https://discuss.d2l.ai/c/chinese-version/16
 🎬【跟着李沐【动手学深度学习】课程，大佬亲授全方面解读“花书”，带你从入门到精通（人工智能/深度学习/计算机视觉/图像处理）】 https://www.bilibili.com/video/BV1QP411j7jB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 - 面向中文读者的能运行、可讨论的深度学习教科书
 - 含 PyTorch、NumPy/MXNet、TensorFlow 和 PaddlePaddle 实现
 - 被全球 60 多个国家 400 多所大学用于教学
 
----
 https://hrl.boyuai.com/chapter/intro
 本书作者在上海交通大学致远学院和电子信息与电气工程学院为大三本科生开设强化学习课程。目前两个学院的强化学习课程在其培养方案中皆为 2 学分，包含了所有授课和实验的学时。在授课和批改学生的课程作业的过程中，我们发现强化学习对于学生和老师来说都是一个较难科目。对于学生，强化学习的理论部分属于机器学习大科目中进阶部分内容，涉及到的数学内容比一般有监督学习更加复杂，而对这些内容的真正理解离不开编程实验，没有第一手的编程实现和调试经验，很多强化学习的原理就无法真切体会。总得来说，对强化学习技术的扎实掌握离不开动手实践，而市面上目前尚未有较为权威的集强化学习原理和动手实践于一体的书籍。
 基于在强化学习研究和教学中的浅薄经验，我们推出这本《动手学强化学习》，旨在探索一种更好的强化学习的教学方式，为中国强化学习的人才培养贡献一份力量。书中难免有错谬之处，还望广大读者不吝指正，我们感激不尽。
 
----
 🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
+🏫 [CS50's Introduction to AI with Python](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
+🏫 [CS188 Introduction to Artificial Intelligence](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
+🏫 [CS 231n Deep Learning for Computer Vision](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision.md)
+🏫 https://cs230.stanford.edu
 
----
 📖 花书 
 https://www.deeplearningbook.org 花书官网  
 https://github.com/exacity/deeplearningbook-chinese 花书中文版翻译  
 https://github.com/MingchaoZhu/DeepLearning 花书原理推导及代码实现  
 https://zhuanlan.zhihu.com/p/38431213 知乎花书各章笔记
-
-🏫 https://cs230.stanford.edu 
 
 🔥 📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 Papers must know to understand the world of deep learning & AIGC
@@ -95,6 +91,10 @@ Features in data (数据特征): such **connections** between **informations** t
 ↗ [The Development History of AI / 👉 Big Data, Deep Learning, AGI (2005–2017)](../The%20Development%20History%20of%20AI.md#👉%20Big%20Data,%20Deep%20Learning,%20AGI%20(2005–2017))
 ↗ [The Development History of AI /👉 From NLP to AGI: Boom of LLM (2017~)](../The%20Development%20History%20of%20AI.md#👉%20From%20NLP%20to%20AGI:%20Boom%20of%20LLM%20(2017~))
 ↗ [LLM (Large Language Model) / LLM Milestone Papers](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
+
+![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
+<small>
+Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
 
 
 

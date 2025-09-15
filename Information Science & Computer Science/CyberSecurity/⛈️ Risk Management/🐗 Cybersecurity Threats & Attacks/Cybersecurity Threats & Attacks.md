@@ -11,22 +11,31 @@
 ↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
 
 ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
+- ↗ [Hardware Threats & Attacks](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Hardware%20Threats%20&%20Attacks.md)
 
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Software Analysis & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
-- ↗ [Techniques - Vulnerability Disclosure & Malicious Code Detection](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection.md)
+- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 - etc.
 
-↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
-- ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
+↗ [Data Security](../../Data%20Security/Data%20Security.md)
+
+↗ [Application Security](../../Application%20Security/Application%20Security.md)
+- ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
+	- ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 - ↗ [Network Threats & Attacks](../../Network%20Security/Network%20Threats%20&%20Attacks/Network%20Threats%20&%20Attacks.md)
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
-- ↗ [Memory Threats & Attacks](../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
+- ↗ [Software Runtime Security](../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
+	- ↗ [Memory Threats & Attacks](../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
+- ↗ [Operating System Security](../../System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
+- ↗ [Database System Security](../../System%20Security/Database%20System%20Security/Database%20System%20Security.md)
 - etc.
+
+↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 
 
 
@@ -46,7 +55,7 @@
 
 
 #### EXP (Exploit)
-↗ [Techniques - Vulnerability Disclosure & Malicious Code Detection](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection.md)
+↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 
 
 ### TTP (Tactics, Techniques, and Procedure)

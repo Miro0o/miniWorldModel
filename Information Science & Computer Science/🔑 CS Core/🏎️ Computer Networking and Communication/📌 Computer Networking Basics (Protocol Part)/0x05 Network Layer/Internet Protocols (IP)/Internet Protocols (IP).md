@@ -6,7 +6,8 @@
 
 ## Res
 ### Related Topics
-[IPSec (Internet Protocol Security) & IPSec VPN](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
+↗ [IP (Internet Protocol) Attacks](../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/IP%20(Internet%20Protocol)%20Attacks/IP%20(Internet%20Protocol)%20Attacks.md)
+↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
 
 
 
@@ -36,7 +37,6 @@
 
 
 ### 🎰 Limited IP Address & Addressing
-
 > - For Mac Addressing, 🙈 check out  ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 > ⚠ As for Mac addressing, it can be categorized both as Network Layer or Link Layer. Here it falls on Network Layer.
@@ -46,7 +46,7 @@ The number of IPv4 address is very limited. To tackle this problem tons of effor
 ↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 ↗ [IPv6](IPv6/IPv6.md)
 
-Among all of this solusion, IPv6 is deemed to be the ultimate method dealing with "limited number of address" --- because it's unlimited!
+Among all of this solution, IPv6 is deemed to be the ultimate method dealing with "limited number of address" --- because it's unlimited!
 
 
 ### IP Address Assignment

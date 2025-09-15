@@ -7,8 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-
 ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [ICT System Reliability (Correctness) & Verification](ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+
+↗ [Cybersecurity Threats & Attacks](../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 
 
 

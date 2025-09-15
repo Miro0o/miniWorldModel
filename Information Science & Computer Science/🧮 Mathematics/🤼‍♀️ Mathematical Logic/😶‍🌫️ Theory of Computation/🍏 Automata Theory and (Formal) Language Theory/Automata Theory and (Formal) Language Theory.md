@@ -89,6 +89,9 @@ The Chomsky hierarchy in the fields of [formal language theory](https://en.wiki
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
+> Recall Complexity Classes ↗ [Computational Complexity Theory](../Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
+> ![|400](../../../../../Assets/Pics/Screenshot%202025-08-01%20at%2021.45.14.png)
+
 
 
 ## Ref

@@ -50,7 +50,7 @@ Another example of defending against memory safety vulnerabilities is writing me
 
 ### 3. Software Analyzing /Testing
 > ↗ [Software Analysis & Binary Engineering](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
-> ↗ [Techniques - Vulnerability Disclosure & Malicious Code Detection](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection.md)
+> ↗ [Techniques - Vulnerability Disclosure & Discovery](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 > ↗ [Security Audit & Security Audit Trail](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 > ↗ [Code Review](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
@@ -67,7 +67,7 @@ Yet another way to defend your code is to use tools to analyze and patch insecur
 	- Bug-finding tools
 		- Excellent resource, as long as there aren’t too many false alarms
 		- ↗ [Valgrind](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
-		- ↗ [Fuzzing (Concrete Execution)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Malicious%20Code%20Detection/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md), or testing with random inputs, testing corner cases
+		- ↗ [Fuzzing (Concrete Execution)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md), or testing with random inputs, testing corner cases
 	- Code review
 		- Have someone look over your code for memory safety errors. Can be very effective… but also expensive
 	- Vulnerability scanning

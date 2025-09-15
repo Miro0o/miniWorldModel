@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [BGP Attacks](../../../../../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/BGP%20Attacks/BGP%20Attacks.md)
 
 
 ### Other Resources
@@ -32,10 +33,7 @@ BGP use path-vector based routing algorithm (And it seems like it is the only pr
 
 
 ### BGP Basics 
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.26.54%20PM.png)
-
-
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.22.42%20PM.png)
 
@@ -47,19 +45,17 @@ BGP use path-vector based routing algorithm (And it seems like it is the only pr
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.24.13%20PM.png)
 
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.25.05%20PM.png)
+
 
 
 ## BGP-4
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.25.24%20PM.png)
 
-
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.25.48%20PM.png)
 
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%209.26.04%20PM.png)
+
 
 
 ## Ref

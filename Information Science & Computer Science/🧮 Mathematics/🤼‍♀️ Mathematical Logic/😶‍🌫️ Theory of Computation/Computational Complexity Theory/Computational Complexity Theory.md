@@ -31,6 +31,9 @@ Closely related fields in [theoretical computer science](https://en.wikipedia.o
 
 
 ### Complexity Classes
+> Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+
 > 🔗 https://en.wikipedia.org/wiki/Complexity_class#
 
 In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), a **complexity class** is a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\) "Set (mathematics)") of [computational problems](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") "of related resource-based [complexity](https://en.wikipedia.org/wiki/Computational_complexity "Computational complexity")". The two most commonly analyzed resources are [time](https://en.wikipedia.org/wiki/Time_complexity "Time complexity") and [memory](https://en.wikipedia.org/wiki/Space_complexity "Space complexity").

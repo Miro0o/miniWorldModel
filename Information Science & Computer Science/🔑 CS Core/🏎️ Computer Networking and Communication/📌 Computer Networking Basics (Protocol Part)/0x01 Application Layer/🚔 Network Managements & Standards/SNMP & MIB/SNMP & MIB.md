@@ -22,6 +22,7 @@ Simple Network Management Protocol (SNMP) | NIST
 
 A standard TCP/IP protocol for network management. Network administrators use SNMP to monitor and map network availability, performance, and error rates. To work with SNMP, network devices utilize a distributed data store called the Management Information Base (MIB). All SNMP-compliant devices contain a MIB which supplies the pertinent attributes of a device. Some attributes are fixed or “hard-coded” in the MIB, while others are dynamic values calculated by agent software running on the device.
 
+
 ### SNMP Implementations
 > Following are AI generated contents.
 

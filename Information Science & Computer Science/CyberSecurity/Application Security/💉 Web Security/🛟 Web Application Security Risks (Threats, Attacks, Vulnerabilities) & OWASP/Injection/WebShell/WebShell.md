@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [ShellShock Vulnerability](../../Vulnerable%20and%20Outdated%20Components/ShellShock%20Vulnerability.md)
+↗ [ShellShock(CVE-2014-6271)](../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/🤥%20Real%20World%20Vulnerabilities%20Analysis/Software%20Vulnerabilities/ShellShock(CVE-2014-6271).md)
 
 
 

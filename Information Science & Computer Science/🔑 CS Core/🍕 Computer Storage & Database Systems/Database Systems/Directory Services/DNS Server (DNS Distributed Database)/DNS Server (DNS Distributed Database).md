@@ -14,7 +14,7 @@
 ## Intro
 ### Global DNS Servers List
 
-↗ [🌏 Global DNS Service Providers](DNS%20Server%20Implementations/🌏%20Global%20DNS%20Service%20Providers.md)
+↗ [🌏 Global DNS Service Providers](🌏%20Global%20DNS%20Service%20Providers.md)
 
 
 
