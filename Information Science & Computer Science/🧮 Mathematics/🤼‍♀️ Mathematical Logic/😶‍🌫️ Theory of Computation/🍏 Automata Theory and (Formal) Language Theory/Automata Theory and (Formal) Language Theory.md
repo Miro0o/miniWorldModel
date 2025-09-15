@@ -10,6 +10,7 @@
 ↗ [Normalization](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
 
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+- ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 
 ### Other Resources
@@ -44,7 +45,7 @@ Strings of characters are fundamental building blocks in computer science. The a
 
 A **string** _over_ an **alphabet** is a finite sequence of symbols from that alphabet, usually written next to one another and not separated by commas. If $\Sigma_1​={0,1}$, then $01001$ is a string over $\Sigma_1$​. If $\Sigma_2​={a,b,c,…,z}$, then $abracadabra$ is a string over $\Sigma_2$​. If $w$ is a string over $\Sigma$, the **length** of $w$, written $∣w∣$, is the number of symbols that it contains. The string of length zero is called the **empty string** and is written $\varepsilon$. The empty string plays the role of 0 in a number system. If $w$ has length $n$, we can write $w=w_1​w_2​…w_n$​, where each $w_i​ \in \Sigma$. The **reverse** of $w$, written $w^R$, is the string obtained by writing $w$ in the opposite order (i.e., $w_n​w_{n−1}​…w_1$​). String $x$ is a **substring** of $w$ if $x$ appears consecutively within $w$. For example, $cad$ is a substring of $abracadabra$.
 
-If we have string $x$ of length $m$ and string $y$ of length $n$, the **concatenation** of $x$ and $y$, written $xy$, is the string obtained by appending $y$ to the end of $x$, as in $x_1​…x_m​y_1​…y_n$​. To concatenate a string with itself many times, we use the superscript notation $x_k$ to mean $$\underbrace{x x \dots x}_{k}$$
+If we have string $x$ of length $m$ and string $y$ of length $n$, the **concatenation** of $x$ and $y$, written $xy$, is the string obtained by appending $y$ to the end of $x$, as in $x_1​…x_m​y_1​…y_n$​. To concatenate a string with itself many times, we use the superscript notation $x_k$ to mean $$\overbrace{x x \dots x}^{k}.$$
 The **lexicographic order** of strings is the same as the familiar dictionary order. We'll occasionally use a modified lexicographic order, called **shortlex order** or simply **string order**, that is identical to lexicographic order, except that shorter strings precede longer strings. Thus the string ordering of all strings over the alphabet ${0,1}$ is $$(\varepsilon,0,1,00,01,10,11,000,…).$$
 Say that string $x$ is a **prefix** of string $y$ if a string $z$ exists where $xz=y$, and that $x$ is a **proper prefix** of $y$ if in addition $x \neq y$. 
 

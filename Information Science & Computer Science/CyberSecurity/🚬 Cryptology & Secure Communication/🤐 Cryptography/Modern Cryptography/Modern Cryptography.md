@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Computationally Hard Problems](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computationally%20Hard%20Problems.md)
 
 
 

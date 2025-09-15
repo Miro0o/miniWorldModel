@@ -75,7 +75,7 @@ Steven S.Muchnick
 <small>Application Execution and Computer Data Flow</small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
-<small>CSAPP</small>A
+<small>CSAPP. An example of C compilation process.</small>
 
 Although the machine we presented is quite different from a real machine, the assembly process we described is not. Virtually every assembler in use today passes twice through the source code. The first pass assembles as much code as it can, while building a symbol table; the second pass completes the binary instructions using address values retrieved from the symbol table built during the first pass.
 

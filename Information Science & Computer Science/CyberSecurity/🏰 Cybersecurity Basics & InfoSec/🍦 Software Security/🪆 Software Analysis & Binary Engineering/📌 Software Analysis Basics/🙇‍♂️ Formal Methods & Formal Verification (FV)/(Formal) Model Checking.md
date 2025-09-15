@@ -186,16 +186,18 @@ Model checking. Model checking originates from the independent work of two pairs
 
 
 ## 1️⃣ System Modeling
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
 
 ### (Symbolic) Transition Systems
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [The Essence of Computing - Program](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
-- programs are transition systems
-- hardware circuits are transition systems
-- communication processes are transition systems
-- etc.
+> ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> 
+> ↗ [The Essence of Computing - Program](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+> - programs are transition systems
+> - hardware circuits are transition systems
+> - communication processes are transition systems
+> - etc.
 
 A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
 - $S$ is a set of states,

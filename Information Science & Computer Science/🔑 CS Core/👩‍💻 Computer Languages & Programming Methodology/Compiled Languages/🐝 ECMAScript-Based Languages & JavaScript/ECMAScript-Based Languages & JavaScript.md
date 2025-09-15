@@ -95,6 +95,9 @@ it(B = "\\\\")./*           **G####B" #**       */join(B+B).split\
 
 
 ## Overview
+![|250](../../../../../Assets/Pics/javascript-ar21.svg)
+
+
 > 🔗 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 **JavaScript** (**JS**) is a lightweight interpreted (or [just-in-time compiled](https://developer.mozilla.org/en-US/docs/Glossary/Just_In_Time_Compilation)) programming language with [first-class functions](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). While it is most well-known as the scripting language for Web pages, [many non-browser environments](https://en.wikipedia.org/wiki/JavaScript#Other_usage) also use it, such as [Node.js](https://developer.mozilla.org/en-US/docs/Glossary/Node.js), [Apache CouchDB](https://couchdb.apache.org/) and [Adobe Acrobat](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/). JavaScript is a [prototype-based](https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming), multi-paradigm, [single-threaded](https://developer.mozilla.org/en-US/docs/Glossary/Thread), [dynamic](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing) language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.

@@ -132,6 +132,9 @@ https://github.com/myangeline/python/tree/master
 
 
 ## Intro
+![|150](../../../../../Assets/Pics/Pasted%20image%2020250915232030.png)
+
+
 ### Python Language 
 
 

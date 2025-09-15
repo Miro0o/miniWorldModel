@@ -89,7 +89,7 @@ A Stick Figure Guide to the Advanced Encryption Standard (AES)
 ### Block Cipher Implementations
 ↗ [DES (Data Encryption Standard)](DES%20(Data%20Encryption%20Standard)/DES%20(Data%20Encryption%20Standard).md)
 ↗ [AES (Advanced Encryption Standard)](AES%20(Advanced%20Encryption%20Standard)/AES%20(Advanced%20Encryption%20Standard).md)
-↗ [IDEA (International Data Encryption Algorithm)](IDEA(International%20Data%20Encryption%20Algorithm)/IDEA%20(International%20Data%20Encryption%20Algorithm).md)
+↗ [IDEA (International Data Encryption Algorithm)](IDEA%20(International%20Data%20Encryption%20Algorithm)/IDEA%20(International%20Data%20Encryption%20Algorithm).md)
 ↗ [RC2](RC/RC2.md) /[RC5](RC/RC5.md) /[RC6](RC/RC6.md)
 
 

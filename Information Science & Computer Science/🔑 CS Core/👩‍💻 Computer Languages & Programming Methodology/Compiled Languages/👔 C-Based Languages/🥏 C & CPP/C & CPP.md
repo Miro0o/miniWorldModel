@@ -37,6 +37,9 @@ C++98, C++03, [C++11](https://en.cppreference.com/w/cpp/11 "cpp/11"), [C++14](
 
 ## Intro
 ### C Language
+![|100](../../../../../../Assets/Pics/Pasted%20image%2020250915231837.png)
+
+
 > Quote from CSAPP
 
 C was developed from 1969 to 1973 by Dennis Ritchie of Bell Laboratories. The **American National Standards Institute (ANSI)** ratified the **ANSI C standard** in 1989, and this standardization later became the responsibility of the **International Standards Organization (ISO)**. The standards define the C language and a set of library functions known as the **C standard library**. **Kernighan** and **Ritchie** describe ANSI C in their classic book, which is known affectionately as “K&R” . In Ritchie’s words, C is “quirky, flawed, and an enormous success.” So why the success?
@@ -51,6 +54,7 @@ C is the language of choice for system-level programming, and there is a huge in
 
 
 ### C++ Language
+![|100](../../../../../../Assets/Pics/Pasted%20image%2020250915231911.png)
 
 
 

@@ -1,0 +1,323 @@
+# Formal Semantics and Programming Language
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Mathematical Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+↗ [Semantic Models & Languages](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
+↗ [Semantic Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🐣%20Static%20Analysis%20Before%20IR/Semantic%20Analysis.md)
+
+
+### Learning Resources
+https://zhangt.top/CS/FSPL-Study-Notes/
+程序设计语言的形式语义-学习笔记
+
+https://homepage.divms.uiowa.edu/~slonnegr/
+Formal Syntax and Semantics of Programming Languages: A Laboratory-Based Approach
+Chapter 1: Specifying Syntax
+- 1.1 Grammars and BNF
+	- Context-free Grammars
+	- Context-sensitive Grammars
+	- Exercises
+- 1.2 The Programming Language Wren
+	- Ambiguity
+	- Context Constraints in Wren
+	- Semantic Errors in Wren
+	- Exercises
+- 1.3 Variants of BNF
+	- Exercises
+- 1.4 Abstract Syntax
+	- Abstract Syntax Trees
+	- Abstract Syntax of a Programming Language
+	- Exercises
+- 1.5 Further Reading
+Chapter 2: Introduction to Laboratory Activities
+- 2.1 Scanning
+	- Exercises
+- 2.2 Logic Grammars
+	- Motivating Logic Grammars
+	- Improving the Parser
+	- Prolog Grammar Rules
+	- Parameters in Grammars
+	- Executing Goals in a Logic Grammar
+	- Exercises
+- 2.3 Parsing Wren
+	- Handling Left Recursion
+	- Left Factoring
+	- Exercises
+- 2.4 Further Reading
+Chapter 3: Attribute Grammars
+- 3.1 Concepts and Examples
+	- Examples of Attribute Grammars
+	- Formal Definitions
+	- Semantics via Attribute Grammars
+	- Exercises
+- 3.2 An Attribute Grammar for Wren
+	- The Symbol Table
+	- Commands
+	- Expressions
+- 3.3 Laboratory: Context Checking Wren
+	- Declarations
+	- Commands
+	- Expressions
+- 3.4 Further Reading
+Chapter 4: Two-Level Grammars
+- 4.1 Concepts and Examples
+	- Fortran String Literals
+	- Derivation Trees
+	- Exercises
+- 4.2 A Two-Level Grammar for Wren
+	- Declarations
+	- Commands and Exrpessions
+	- Exercises
+- 4.3 Two-Level Grammars and Prolog
+	- Implementing Two-level Grammars in Prolog
+	- Two-level Grammars and Logic Programming
+	- Exercises
+- 4.4 Further Reading
+Chapter 5: The Lambda Calculus
+- 5.1 Concepts and Examples
+	- Syntax of the Lambda Calculus
+	- Curried Functions
+	- Semantics of Lambda Expressions
+	- Exercises
+- 5.2 Lambda Reduction
+	- Reduction Strategies
+	- Correlation with Parameter Passing
+	- Constants in the Pure Lambda Calculus
+	- Functional Programming Languages
+	- Exercises
+- 5.3 Laboratory: A Lambda Calculus Evaluator
+	- Scanner and Parser
+	- The Lambda Calculus Evaluator
+	- Exercises
+- 5.4 Further Reading
+Chapter 6: Self-Definition of Programming Languages
+- 6.1 Self-Definition of Lisp
+	- Metacircular Interpreter
+	- Running the Interpreter
+	- Exercises
+- 6.2 Self-Definition of Prolog
+	- Displaying Failure
+	- Exercises
+- 6.3 Further Reading
+Chapter 7: Translational Semantics
+- 7.1 Concepts and Examples
+	- A Program Translation
+	- Exercises
+- 7.2 Attribute Grammar Code Generation
+	- Expressions
+	- Commands
+	- Exercises
+- 7.3 Laboratory: Implementing Code Generation
+	- Commands
+	- Expressions
+	- Exercises
+- 7.4 Further Reading
+Chapter 8: Traditional Operational Semantics
+- 8.1 Concepts and Examples
+	- VDL
+	- Exercises
+- 8.2 SECD: An Abstract Machine
+	- Example
+	- Parameter Passing
+	- Static Scoping
+	- Exercises
+- 8.3 Laboratory: Implementing The SECD Machine
+	- Exercises
+- 8.4 Structural Operational Semantics: Introduction
+	- Specifying Syntax
+	- Inference Systems and Structural Induction
+	- Exercises
+- 8.5 Structural Operational Semantics: Expressions
+	- Semantics of Expressions in Wren
+	- Example
+	- Outcomes
+	- Exercises
+- 8.6 Structural Operational Semantics: Commands
+	- A Sample Computation
+	- Semantic Equivalence
+	- Natural Semantics
+	- Exercises
+- 8.7 Laboratory: Implementing Structural Operational Semantics
+	- Commands
+	- Expressions
+	- Top-Level Driver
+	- Exercises
+- 8.8 Further Reading
+Chapter 9: Denotational Semantics
+- 9.1 Concepts and Examples
+	- The Syntactic World
+	- The Semantic World
+	- The Connection between Syntax and Semantics
+	- Compositionality
+	- Exercises
+- 9.2 A Calculator Language
+	- Calculator Semantics
+	- Semantic Functions
+	- A Sample Calculation
+	- Exercises
+- 9.3 The Denotational Semantics of Wren
+	- Semantic Domains
+	- Language Constructs in Wren
+	- Auxiliary Functions
+	- Semantic Equations
+	- Error Handling
+	- Semantic Equivalence
+	- Input and Output
+	- Elaborating a Denotational Definition
+	- Exercises
+- 9.4 Laboratory: Implementing Denotational Semantics
+	- Exercises
+- 9.5 Denotational Semantics with Environments
+	- Environments
+	- Stores
+	- Semantic Functions
+	- Semantic Equations
+	- Procedures
+	- Exercises
+- 9.6 Checking Context-Sensitive Syntax
+	- Exercises
+- 9.7 Continuation Semantics
+	- Continuations
+	- The Programming Language Gull
+	- Auxiliary Functions
+	- Semantic Equations
+	- The Error Continuation
+	- Exercises
+- 9.8 Further Reading
+Chapter 10: Domain Theory and Fixed-Point Semantics
+- 10.1 Concepts and Examples
+	- Recursive Definitions of Functions
+	- Recursive Definitions of Sets (Types)
+	- Modeling Nontermination
+	- Exercises
+- 10.2 Domain Theory
+	- Elementary Domains
+	- Product Domains
+	- Sum Domains (Disjoint Unions)
+	- Function Domains
+	- Continuity of Functions on Domains
+	- Exercises
+- 10.3 Fixed-Point Semantics
+	- First Step
+	- Second Step
+	- Continuous Functionals
+	- Fixed points for Nonrecursive Functions
+	- Revisiting Denotational Semantics
+	- Fixed-Point Induction
+	- Exercises
+- 10.4 Laboratory: Recursion in the Lambda Calculus
+	- Conditional Expressions
+	- Paradoxical Combinator
+	- Fixed-Point Identity
+	- Exercises
+- 10.5 Further Reading
+Chapter 11: Axiomatic Semantics
+- 11.1 Concepts and Examples
+	- Axiomatic Semantics of Programming Languages
+- 11.2 Axiomatic Sematnics for Wren
+	- Assignment Command
+	- Input and Output
+	- Rules of Inference
+	- While Command and Loop Invariants
+	- More on Loop Invariants
+	- Nested While Loops
+	- Exercises
+- 11.3 Axiomatic Semantics for Pelican
+	- Blocks
+	- Nonrecursive Procedures
+	- Recursive Procedures
+	- Exercises
+- 11.4 Proving Termination
+	- Steps in Showing Termination
+	- Termination of Recursive Procedures
+	- Exercises
+- 11.5 Introduction to Program Derivation
+	- Table of Cubes
+	- Binary Search
+	- Exercises
+- 11.6 Further Reading
+Chapter 12: Algebraic Semantics
+- 12.1 Concepts and Examples
+	- A Module for Truth Values
+	- Module Syntax
+	- A Module for Natural Numbers
+	- A Module for Characters
+	- A Parameterized Module and Some Instantiations
+	- A Module for Finite Mappings
+	- Exercises
+- 12.2 Mathematical Foundations
+	- Ground Terms
+	- Sigma-Algebras
+	- A Congruence from the Equations
+	- The Quotient Algebra
+	- Homomorphisms
+	- Consistency and Completeness
+	- Exercises
+- 12.3 Using Algebraic Specifications
+	- Data Abstraction
+	- A Module for Unbounded Queues
+	- Implementing Queues as Unbounded Arrays
+	- Verification of Queue Axioms
+	- ADTs As Algebras
+	- Abstract Syntax and Algebraic Specifications
+	- Exercises
+- 12.4 Algebraic Semantics for Wren
+	- Types and Values in Wren
+	- Abstract Syntax for Wren
+	- A Type Checker for Wren
+	- An Interpreter for Wren
+	- A Wren System
+	- Exercises
+- 12.5 Laboratory: Implementing Algebraic Semantics
+	- Module Booleans
+	- Module Naturals
+	- Declarations
+	- Commands
+	- Expressions
+	- Exercises
+- 12.6 Further Reading
+Chapter 13: Action Semantics
+- 13.1 Concepts and Examples
+	- Data and Sorts
+	- Yielders
+	- Actions
+	- The Functional Facet
+	- The Imperative Facet
+	- Exercises
+- 13.2 Action Semantics of a Calculator
+	- Semantic Functions
+	- Semantic Equations
+	- A Sample Calculation
+	- Exercises
+- 13.3 The Declarative Facet and Wren
+	- The Programming Language Wren
+	- Exercises
+- 13.4 The Reflective Facet and Pelican
+	- The Reflective Facet and Procedures
+	- Procedures Without Parameters
+	- Procedures With A Parameter
+	- Recursive Definitions
+	- Translating to Action Notation
+	- Exercises
+- 13.5 Laboratory: Translating into Action Notation
+	- Exercises
+- 13.6 Further Reading
+
+Appendix A: Logic Programming with Prolog
+
+Appendix B: Functional Programming with Scheme
+
+
+
+## Intro
+
+
+
+## Ref

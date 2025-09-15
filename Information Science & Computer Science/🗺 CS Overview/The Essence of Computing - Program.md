@@ -8,6 +8,8 @@
 ### Related Topics
 ↗ [Theory of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
@@ -67,9 +69,70 @@
 ## 😆 Program, Computer, and Automation
 🔥 🎬【操作系统上的程序 (什么是程序和编译器) [南京大学2022操作系统-P2]】 https://www.bilibili.com/video/BV12L4y1379V/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-### Automaton & Transition System
-↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
-↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../../../Assets/Illustrations/Drawing%202025-09-09%2022.37.45.excalidraw.md)
+<small>For different levels in code analysis, we use different computational models. </small>
+
+
+### Automaton, Transition System, and Operational Semantics
+↗ [Mathematical Logic](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+- ↗ [Set Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
+- ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+
+↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html##sec:2.1
+
+**Semantics**
+Program semantics is about assigning meaning to programs. When we can talk about what a piece of syntax mean, it is easier to explain what a program does.
+
+We are going to discuss some different approaches to writing down the semantics of a program.  ==They all essentially turn programs syntax into mathematical logic.==
+
+
+**Operational Semantics**
+Operational semantics describes the semantic of a program as changes to a state. This makes it ideal for describing imperative languages like the JVM bytecode.
+
+The _Structural Operational Semantics_ or _Small Step Semantics_ are written as judgments of the type (ψ⊢σ→σ‾) which means given the environment ψ, the state of the program σ can be turned into σ‾.
+
+The reason we call this approach the small step semantics is that we only execute a single operation at a time.
+
+The _Natural Operational Semantics_ or _Big Step Semantics_, are describing running the program until it halts. (ψ⊢σ↓v) where v is the final value of the program. Big step semantics often looks nicer than small step semantics, because it does not have to care about execution order.
+
+Big Step semantics have the benefit of being easier to read, however, it has some big disadvantages, namely: we cannot reason about programs that run forever, and we cannot turn big step semantics into a working implementation. In contrast, small step semantics are easy to convert into an interpreter, and we can always recover the big step semantics from the operational semantics by simply applying the single step semantics until the program terminates with a value:
+
+ 
+**Transition System**
+Using operational semantics, we can define the meaning of a program P as a Transition System:
+
+(↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
+A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
+- $S$ is a set of states,
+- $Act$ is a set of actions,
+- $\to \subseteq S \times Act \times S$ is a transition relation,
+- $I \subseteq S$ is a set of initial states,
+- $AP$ is a set of atomic propositions, 
+- $L$: $S→AP^2$ is a labeling function.
+
+$TS$ is called **finite** if $S$, $Act$, and $AP$ are **finite**.
+
+It is important to realize that in case a state has more than one outgoing transition, the
+“next” transition is chosen in a purely **nondeterministic** fashion. That is, the outcome of
+this selection process is not known a priori, and, hence, no statement can be made about the likelihood with which a certain transition is selected. Similarly, when the set of initial states consists of more than one state, the start state is selected nondeterministically.
+
+For convenience, we write $s \xrightarrow[]{\alpha}s'$ instead of $(s,α,s') \in \to$.
+
+The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions to any state $s$. $L(s)$ intuitively stands for exactly those atomic propositions $a \in AP$ which are satisfied by state $s$. Given that $Φ$ is a propositional logic formula, then $s$ satisfies the formula $Φ$ if the evaluation induced by $L(s)$ makes the formula Φ true; that is: $s |= Φ \ iﬀ \ L(s) |= Φ$.
+
+
+**Traces and Maximal Trace Semantics**
+A $Trace_P$ is the possible infinite sequence of states and operations of the program. $Trace_P=States_P^{*}$
+
+The meaning of a program is now the set of traces that it exhibit:
+ - $Sem: Program \to 2^{Trace}$
+ - $Sem(P)= \{\tau \in State_P^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
+
+This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math:
+$\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$
 
 
 ### Digital Circuits and Automaton (State Machine)
@@ -80,7 +143,9 @@
 
 ### Program's State Machine Model (Programming Languages Semantics)
 > ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-> Push-Down Automaton (PDA)
+> - Push-Down Automaton (PDA)
+> 
+> ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 #### 1️⃣ Program's State Machine: Application Perspective
 C 程序的状态机模型 (语义，semantics)
 - 状态 = 堆 + 栈

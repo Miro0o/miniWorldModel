@@ -23,7 +23,6 @@ https://mannuan.github.io/计算理论课件/
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 - This book focuses on three traditionally central areas of the theory of computation: automata, computability, and complexity. They are linked by the question: 
 	- What are the fundamental capabilities and limitations of computers?
-- This question goes back to the 1930s when mathematical logicians first began to explore the meaning of computation. Technological advances since that time have greatly increased our ability to compute and have brought this question out of the realm of theory into the world of practical concern.
 
 📂 https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view
 The goal is to build a collection of videos for an undergraduate Theory of Computation course. We hope that this collection of videos would be a useful community resource for flipped classes. The intent is that these videos can be used in a flipped class format. The flipped format has been quite successful for other topics and seems well suited to remote teaching that many of us are doing. The instructor can choose to use these videos in whatever fashion he/she thinks best. These videos will ideally be supplemented by classroom discussion, practice exercises and assignments as part of the course.
@@ -109,9 +108,44 @@ Church–Turing thesis 指出，所有演算法可解的問題，都可透過 Tu
   
 正規語言課程所學的東西其實也有很多延伸的應用，以至於很多讀者很可能早已接觸過某些部份，但直到這門課，才真正以嚴謹的方式學習背後的來歷。像是如果有接觸像 Python 等語言或者用過 Vim 等編輯器的搜尋功能的讀者，很有可能有接觸過正規表示式。而 CFG 和程式語言的設計以及編譯器等課程有密切相關，你或許會曾在程式語言的文件上看過他。如果在演算法等課程聽過 NP、P 等名詞，在這堂課裡，你可以學到這些名詞到底有什麼含意。而對什麼是演算法，時間複雜度、問題的可計算性等等，都會在這堂課得到更深的理解。
 
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser, CH0, Introduction
+
+This book focuses on three traditionally central areas of the theory of computation: automata, computability, and complexity. They are linked by the question:
+
+> **What are the fundamental capabilities and limitations of computers?**
+
+This question goes back to the 1930s when mathematical logicians first began to explore the meaning of computation. Technological advances since that time have greatly increased our ability to compute and have brought this question out of the realm of theory into the world of practical concern.
+
+In each of the three areas—automata, computability, and complexity -- this question is interpreted differently, and the answers vary according to the interpretation. Following this introductory chapter, we explore each area in a separate part of this book. Here, we introduce these parts in reverse order because by starting from the end you can better understand the reason for the beginning.
+
+**COMPLEXITY THEORY**
+Computer problems come in different varieties; some are easy, and some are hard. For example, the sorting problem is an easy one. Say that you need to arrange a list of numbers in ascending order. Even a small computer can sort a million numbers rather quickly. Compare that to a scheduling problem. Say that you must find a schedule of classes for the entire university to satisfy some reasonable constraints, such as that no two classes take place in the same room at the same time. The scheduling problem seems to be much harder than the sorting problem. If you have just a thousand classes, finding the best schedule may require centuries, even with a supercomputer.
+
+> **What makes some problems computationally hard and others easy?**
+
+This is the central question of complexity theory. Remarkably, we don’t know the answer to it, though it has been intensively researched for over 40 years. Later, we explore this fascinating question and some of its ramifications. 
+
+In one important achievement of complexity theory thus far, researchers have discovered an elegant scheme for classifying problems according to their computational difficulty. It is analogous to the periodic table for classifying elements according to their chemical properties. Using this scheme, we can demonstrate a method for giving evidence that certain problems are computationally hard, even if we are unable to prove that they are.
+
+You have several options when you confront a problem that appears to be computationally hard. First, by understanding which aspect of the problem is at the root of the difficulty, you may be able to alter it so that the problem is more easily solvable. Second, you may be able to settle for less than a perfect solution to the problem. In certain cases, finding solutions that only approximate the perfect one is relatively easy. Third, some problems are hard only in the worst case situation, but easy most of the time. Depending on the application, you may be satisfied with a procedure that occasionally is slow but usually runs quickly. Finally, you may consider alternative types of computation, such as randomized computation, that can speed up certain tasks.
+
+One applied area that has been affected directly by complexity theory is the ancient field of cryptography. In most fields, an easy computational problem is preferable to a hard one because easy ones are cheaper to solve. Cryptography is unusual because it specifically requires computational problems that are hard, rather than easy. Secret codes should be hard to break without the secret key or password. Complexity theory has pointed cryptographers in the direction of computationally hard problems around which they have designed revolutionary new codes.
+
+**COMPUTABILITY THEORY**
+During the first half of the twentieth century, mathematicians such as Kurt Godel, Alan Turing, and Alonzo Church discovered that certain basic problems cannot be solved by computers. One example of this phenomenon is the problem of determining whether a mathematical statement is true or false. This task is the bread and butter of mathematicians. It seems like a natural for solution by computer because it lies strictly within the realm of mathematics. But no computer algorithm can perform this task.
+
+Among the consequences of this profound result was the development of ideas concerning theoretical models of computers that eventually would help lead to the construction of actual computers.
+
+The theories of computability and complexity are closely related. In complexity theory, the objective is to classify problems as easy ones and hard ones; whereas in computability theory, the classification of problems is by those that are solvable and those that are not. Computability theory introduces several of the concepts used in complexity theory.
+
+**AUTOMATA THEORY**
+Automata theory deals with the definitions and properties of mathematical models of computation. These models play a role in several applied areas of computer science. One model, called the finite automaton, is used in text processing, compilers, and hardware design. Another model, called the context-free grammar, is used in programming languages and artificial intelligence.
+
+Automata theory is an excellent place to begin the study of the theory of computation. The theories of computability and complexity require a precise definition of a computer. Automata theory allows practice with formal definitions of computation as it introduces concepts relevant to other non-theoretical areas of computer science.
 
 
-## Model Of Computation
+
+## Models Of Computation
 > 🔗 https://en.wikipedia.org/wiki/Model_of_computation
 
 In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.

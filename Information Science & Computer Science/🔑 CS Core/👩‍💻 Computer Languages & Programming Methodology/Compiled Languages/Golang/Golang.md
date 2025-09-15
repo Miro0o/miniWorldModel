@@ -52,7 +52,9 @@ Golang 学习笔记
 
 
 ## Intro
-![Golang Tutorial - Learn Golang by Examples | Fundamentals of Golang |  Edureka](../../../../../Assets/Pics/83CD359C-971C-4001-AA87-26C1DE601DA8.jpeg)
+![|200](../../../../../Assets/Pics/Pasted%20image%2020250915232331.png)
+
+
 
 > [Best Golang Use Cases: What’s Possible With Go?](https://www.agiratech.com/golang-use-cases)
 > [go 语言 介绍+前景](https://www.topgoer.com)

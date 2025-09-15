@@ -167,11 +167,34 @@ Historically, the concept of a proof and its associated [mathematical rigour](h
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
 
 Mathematical notation is widely used in science and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") for representing complex [concepts](https://en.wikipedia.org/wiki/Concept "Concept") and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)") in a concise, unambiguous, and accurate way. This notation consists of [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") used for representing [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)"), unspecified numbers, [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") and any other mathematical objects, and then assembling them into [expressions](https://en.wikipedia.org/wiki/Expression_\(mathematics\) "Expression (mathematics)") and formulas.[[94]](https://en.wikipedia.org/wiki/Mathematics#cite_note-97) More precisely, numbers and other mathematical objects are represented by symbols called variables, which are generally [Latin](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") or [Greek](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") letters, and often include [subscripts](https://en.wikipedia.org/wiki/Subscript "Subscript"). Operation and relations are generally represented by specific [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") or [glyphs](https://en.wikipedia.org/wiki/Glyph "Glyph"), such as + ([plus](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")), × ([multiplication](https://en.wikipedia.org/wiki/Multiplication_sign "Multiplication sign")), ∫([integral](https://en.wikipedia.org/wiki/Integral_sign "Integral sign")), = ([equal](https://en.wikipedia.org/wiki/Equals_sign "Equals sign")), and < ([less than](https://en.wikipedia.org/wiki/Less-than_sign "Less-than sign")). All these symbols are generally grouped according to specific rules to form expressions and formulas. Normally, expressions and formulas do not appear alone, but are included in sentences of the current language, where expressions play the role of [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase") and formulas play the role of [clauses](https://en.wikipedia.org/wiki/Clause "Clause").
-#### Mathematical terminology
+#### Mathematical Terminology
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
 
 Mathematics has developed a rich terminology covering a broad range of fields that study the properties of various abstract, idealized objects and how they interact. It is based on rigorous [definitions](https://en.wikipedia.org/wiki/Technical_definition "Technical definition") that provide a standard foundation for communication. An axiom or [postulate](https://en.wikipedia.org/wiki/Postulate "Postulate") is a mathematical statement that is taken to be true without need of proof. If a mathematical statement has yet to be proven (or disproven), it is termed a [conjecture](https://en.wikipedia.org/wiki/Conjecture "Conjecture"). Through a series of rigorous arguments employing [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), a statement that is [proven](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") to be true becomes a theorem. A specialized theorem that is mainly used to prove another theorem is called a [lemma](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)"). A proven instance that forms part of a more general finding is termed a [corollary](https://en.wikipedia.org/wiki/Corollary "Corollary").
+##### Definitions, Theorems, and Proofs
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 
+Theorems and proofs are the heart and soul of mathematics and definitions are its spirit. These three entities are central to every mathematical subject.
+
+**Definitions** describe the objects and notions that we use. A definition may be simple, as in the definition of set given earlier in this chapter, or complex as in the definition of security in a cryptographic system. Precision is essential to any mathematical definition. When defining some object, we must make clear what constitutes that object and what does not.
+
+After we have defined various objects and notions, we usually make **mathematical statements** about them. Typically, a statement expresses that some object has a certain property. The statement may or may not be true; but like a definition, it must be precise. No ambiguity about its meaning is allowed.
+
+A **proof** is a convincing logical argument that a statement is true. In mathematics, an argument must be airtight; that is, convincing in an absolute sense. In everyday life or in the law, the standard of proof is lower. A murder trial demands proof “beyond any reasonable doubt.” The weight of evidence may compel the jury to accept the innocence or guilt of the suspect. However, evidence plays no role in a mathematical proof. A mathematician demands proof beyond any doubt.
+
+A **theorem** is a mathematical statement proved true. Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
+#### Finding Proofs
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
+#### Types of Proofs
+> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
+> ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+> ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
+
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
+##### Proof by Construction (构造法)
+##### Proof by Contradiction (反证法，归谬法)
+##### Proof by Induction (归纳法)
 
 ### Relation of Math and Science
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Relationship_with_sciences
