@@ -24,7 +24,7 @@ Regardless of whether an architecture is hard-coded or microprogrammed, it is im
 
 ### Instruction Taxonomy by Formats
 ↗ [ISA Instruction Formats](ISA%20Instruction%20Formats.md)
-↗ [x86 Instruction Listing](../../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Instruction%20Listing.md)
+↗ [x86 Instruction Encoding](../../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Instruction%20Encoding.md)
 ↗ [ARM Instruction Encoding](../../RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Instruction%20Encoding.md)
 
 

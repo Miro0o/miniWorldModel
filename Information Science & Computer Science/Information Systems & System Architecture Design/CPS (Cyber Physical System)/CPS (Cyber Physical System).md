@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
+↗ [Embedded Computer Systems](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 
 
 

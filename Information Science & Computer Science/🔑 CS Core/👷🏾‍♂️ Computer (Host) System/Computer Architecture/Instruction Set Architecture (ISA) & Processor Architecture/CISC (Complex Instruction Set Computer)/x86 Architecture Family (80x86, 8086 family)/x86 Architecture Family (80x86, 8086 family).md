@@ -117,7 +117,7 @@ The processor runs in real mode immediately after power on, so an **operating sy
 
 
 ### 🧻 x86/x64 Instruction Listings
-↗ [x86 Instruction Listing](x86%20Instruction%20Listing.md)
+↗ [x86 Instruction Encoding](x86%20Instruction%20Encoding.md)
 
 
 

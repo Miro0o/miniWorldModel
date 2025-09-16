@@ -116,5 +116,26 @@ add 对应的 MIPS 指令里 opcode 是 0，rs 代表第一个寄存器 s1 的�
 ```
 
 
+### ASM and Bytecode
+#ASM #bytecode
+
+Although ASM and Bytecode are different concepts, they still play somehow similar role considering their position in translating the semantics of high-level programming languages into low-level machine-readable instructions (?🤔).
+
+> 🤖 Gemini 2.5 Flash
+
+Java Bytecode 💻
+Java bytecode is the **machine language for the Java Virtual Machine (JVM)**. It's a platform-independent, intermediate language. When a Java program is compiled, the source code is translated into bytecode, which is then stored in a `.class` file. This bytecode is not tied to any specific hardware architecture. The JVM, which is a platform-specific piece of software, is what actually runs the bytecode. ==It either **interprets** the bytecode or uses a **Just-In-Time (JIT)** compiler to translate it into native machine code on the fly.==
+
+Assembly Language (ASM) ⚙️
+Assembly language is a **symbolic representation of a physical processor's machine code**. It is **platform-specific**, meaning that the assembly code for an Intel CPU is completely different from the assembly code for an ARM-based chip. An assembler translates assembly language directly into the binary machine code that the CPU can execute without any intermediate layer.
+
+|Feature|Java Bytecode|Assembly Language (ASM)|
+|---|---|---|
+|**Target Machine**|A **virtual machine** (the JVM)|A **physical processor** (e.g., x86, ARM)|
+|**Portability**|**Platform-independent**|**Platform-specific**|
+|**Execution**|Interpreted or JIT-compiled by the JVM|Directly executed by the CPU|
+|**Instruction Set**|Designed for a stack-based machine|Designed for a register-based machine|
+
+
 
 ## Ref

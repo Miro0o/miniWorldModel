@@ -1,4 +1,4 @@
-# JVM Bytecode
+# Java Bytecode
 
 [TOC]
 

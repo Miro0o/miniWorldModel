@@ -27,6 +27,10 @@ The RLHF system mainly comprises three key components: a pre-trained LM to be al
 ![|600](../../../../../../../../../Assets/Pics/Screenshot%202025-09-15%20at%2013.40.34.png)
 
 
+### Relations Between RLHF and SFT in LLM Alignment Tuning
+
+
+
 ## Ref
 [👍 Understanding and Using Supervised Fine-Tuning (SFT) for Language Models]: https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 

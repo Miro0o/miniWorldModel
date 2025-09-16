@@ -128,7 +128,7 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 A $Trace_P$ is the possible infinite sequence of states and operations of the program. $Trace_P=States_P^{*}$
 
 The meaning of a program is now the set of traces that it exhibit:
- - $Sem: Program \to 2^{Trace}$
+ - $Semantics: Program \to 2^{Trace}$, or
  - $Sem(P)= \{\tau \in State_P^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
 
 This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math:

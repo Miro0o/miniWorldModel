@@ -59,7 +59,6 @@ The main difference between Intel and AT&T syntax is that AT&T makes the sizes o
 #### Examples
 > 🔗 https://imada.sdu.dk/u/kslarsen/dm546/Material/IntelnATT.htm
 
-
 **Prefixes**
 In Intel syntax there are no register prefixes or immed prefixes. In AT&T however registers are prefixed with a '%' and immed's are prefixed with a '$'. Intel syntax hexadecimal or binary immed data are suffixed with 'h' and 'b' respectively. Also if the first hexadecimal digit is a letter then the value is prefixed by a '0'.
 
@@ -67,14 +66,12 @@ In Intel syntax there are no register prefixes or immed prefixes. In AT&T howeve
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Intex Syntax<br><br>mov     eax,1<br><br>mov     ebx,0ffh<br><br>int     80h | AT&T Syntax<br><br>movl    $1,%eax<br><br>movl    $0xff,%ebx<br><br>int     $0x80 |
 
-
 **Direction of Operands**
 The direction of the operands in Intel syntax is opposite from that of AT&T syntax. In Intel syntax the first operand is the destination, and the second operand is the source whereas in AT&T syntax the first operand is the source and the second operand is the destination. The advantage of AT&T syntax in this situation is obvious. We read from left to right, we write from left to right, so this way is only natural.
 
 |                                                                  |                                                                   |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Intex Syntax<br><br>instr   dest,source<br><br>mov     eax,[ecx] | AT&T Syntax<br><br>instr   source,dest<br><br>movl    (%ecx),%eax |
-
 
 **Memory Operands**
 Memory operands as seen above are different also. In Intel syntax the base register is enclosed in '[' and ']' whereas in AT&T syntax it is enclosed in '(' and ')'. 
@@ -92,7 +89,6 @@ Index/scale/disp/segreg are all optional and can simply be left out. Scale, if n
 |Intel Syntax<br><br>instr   foo,segreg:[base+index*scale+disp]<br><br>mov     eax,[ebx+20h]<br><br>add     eax,[ebx+ecx*2h<br><br>lea     eax,[ebx+ecx]<br><br>sub     eax,[ebx+ecx*4h-20h]|AT&T Syntax<br><br>instr   %segreg:disp(base,index,scale),foo<br><br>movl    0x20(%ebx),%eax<br><br>addl    (%ebx,%ecx,0x2),%eax<br><br>leal    (%ebx,%ecx),%eax<br><br>subl    -0x20(%ebx,%ecx,0x4),%eax|
 
 As you can see, AT&T is very obscure. [base+index*scale+disp] makes more sense at a glance than disp(base,index,scale).
-
 
 **Suffixes**
 As you may have noticed, the AT&T syntax mnemonics have a suffix. The significance of this suffix is that of operand size. 'l' is for long, 'w' is for word, and 'b' is for byte. Intel syntax has similar directives for use with memory operands, i.e. byte ptr, word ptr, dword ptr. "dword" of course corresponding to "long". This is similar to type casting in C but it doesnt seem to be necessary since the size of registers used is the assumed datatype.

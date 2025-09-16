@@ -16,6 +16,7 @@ See [JDK 20 Documentation](https://www.oracle.com/pls/topic/lookup?ctx=javase20
 
 ↗ [Bytecode](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
 ↗ [JVM Instrument Set & Java Bytecode](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+↗ [Java Bytecode](../../../../ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
 
 ↗ [Computer Virtualization](../../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 

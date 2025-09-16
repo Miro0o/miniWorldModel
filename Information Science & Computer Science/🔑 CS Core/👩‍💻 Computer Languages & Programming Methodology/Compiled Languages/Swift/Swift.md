@@ -16,7 +16,8 @@ Welcome to the Swift community. Together we are working to build a programming l
 
 
 ## Intro
-[![Swift logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/200px-Swift_logo.svg.png)](https://en.wikipedia.org/wiki/File:Swift_logo.svg)
+![|200](../../../../../Assets/Pics/Pasted%20image%2020250916132101.png)
+
 
 **Swift** is a powerful and intuitive programming language for **iOS, iPadOS, macOS, tvOS, and watchOS**. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design and produces software that runs lightning-fast.
 
