@@ -7,7 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
-↗ [Computer Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Events](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Related%20Conferences%20&%20Events.md)
 
 ↗ [Research Topics in Cybersecurity](../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20Cybersecurity.md)
 
@@ -330,7 +331,7 @@ https://thehackernews.com
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Computer Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ---
@@ -348,11 +349,6 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 - Red Team Competition
 - Policy Competition
 - Hack my Robot
-
----
-↗ [Defcon](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Events/Defcon.md)
-
-DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 
 ---
 **Hacking Group**

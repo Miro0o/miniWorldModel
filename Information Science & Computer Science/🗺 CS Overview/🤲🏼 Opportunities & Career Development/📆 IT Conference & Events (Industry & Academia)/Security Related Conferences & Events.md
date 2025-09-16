@@ -1,19 +1,58 @@
-# HVV (护网行动)
+# Security Related Conferences & Events
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 
 
 ## Intro
+### CTF (Capture The Flag)
+↗ [CTF & AWD](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
+
+
+### Academic Research in Security
+↗ [Security Related Conferences & Journals](../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+
+
+
+## Conventions & Conferences
+### Black Hat
+🏠 https://www.blackhat.com
+
+
+### Def Con
+🏠 https://defcon.org/html/links/dc-about.html
+
+> DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
+
+Originally started in 1993, it was a meant to be a party for member of "Platinum Net", a Fido protocol based hacking network out of Canada. As the main U.S. hub I was helping the Platinum Net organizer (I forget his name) plan a closing party for all the member BBS systems and their users. He was going to shut down the network when his dad took a new job and had to move away. We talking about where we might hold it, when all of a sudden he left early and disappeared. I was just planning a party for a network that was shut down, except for my U.S. nodes. I decided what the hell, I'll invite the members of all the other networks my BBS (A Dark Tangent System) system was a part of including Cyber Crime International (CCI), Hit Net, Tired of Protection (ToP), and like 8 others I can't remember. Why not invite everyone on #hack? Good idea!
+
+
+
+### KCon
+🏠 https://kcon.knownsec.com
+
+
+### OWASP Global AppSec
+
+
+
+## Contests
+### NCSISC (全国大学生信息安全竞赛)
+🏠 http://117.78.33.202
+
+🔗 https://github.com/SJTU-SCS/awesome-ncsisc
+这是一个收集上海交通大学信安学院同学全国大学生信息安全竞赛作品的项目，收集的目的在于为后来的同学提供一些参考（topic & report），从而做出更棒的作品。也希望你能够积极地提交自己的 Project 到这个项目中。
+
+
+
+## Other Events
+### HVV (护网行动)
+
 > 🔗 https://zhuanlan.zhihu.com/p/660245443
 
 **而HVV指的就是国家组织的各事业单位、国企、民企等开展攻防两方的网络安全演习。**
@@ -25,7 +64,7 @@
 护网每支队伍3-5人组成，明确目标系统，不限攻击路径，获取到目标系统的权限、数据即可得分，但是禁止对目标实施破坏性操作，对目标系统关键区域操作也需要得到指挥部批准。
 
 
-### 护网行动角色
+**护网行动角色**
 护网按照职责被划分为红队、蓝队和紫队。
 - **红队是攻击方，也称为渗透测试团队或攻击模拟团队。** 他们模拟真实的黑客攻击行为，使用各种攻击手段尝试突破系统的安全防御，发现潜在的漏洞和脆弱点。目标是评估系统的安全性，发现可能被黑客利用的弱点，并提供改进建议。
 - **蓝队在网络实战攻防演习中扮演防御者角色。** 他们通过监控网络流量、分析攻击行为来监控和检测红方的攻击行为，并通过寻找并修补系统漏洞等防御措施来应对和阻止攻击。他们的目标是保护目标系统和网络免受攻击方的入侵和恶意活动，并尽可能减少潜在风险和损失。防守方需要制定有效的防御策略、采取安全措施并快速应对攻击，以确保系统的安全和可靠性。

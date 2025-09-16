@@ -1,14 +1,14 @@
-# Hackathon!
+# Hackathon
 
 [TOC]
 
 
 
 ## Res
-🤔 [What is a Hackathon and How Does It Work? Complete Guide | Hackathon.com](https://tips.hackathon.com/article/what-is-a-hackathon)
+### Related Topics
 
 
-### Be informed
+### List of Hackathon Events
 [hackathon.com](https://www.hackathon.com)
 
 😎 [awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects)
@@ -29,6 +29,8 @@ TAIKAI
 
 
 ## Intro
+> 🤔 [What is a Hackathon and How Does It Work? Complete Guide | Hackathon.com](https://tips.hackathon.com/article/what-is-a-hackathon)
+
 > **TL;DR**
 > 
 > A **hackathon** (also known as a **hack day**, **hackfest**, **datathon** or **codefest**; a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau "Portmanteau") of [hacking](https://en.wikipedia.org/wiki/Hacker_culture "Hacker culture") and [marathon](https://en.wikipedia.org/wiki/Marathon "Marathon")) is an event where people engage in rapid and collaborative engineering over a relatively short period of time such as 24 or 48 hours.

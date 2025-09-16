@@ -11,8 +11,6 @@
 
 ↗ [(CS) Master & PhD Guide - Preparation & Application](../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
-↗ [信息安全相关学术会议列表](../Appendix/信息安全相关学术会议列表.md)
-
 
 ### Academic Presses
 IEEE
@@ -29,20 +27,23 @@ Inderscience
 IGI Global
 ISOC
 
+
 ### IT Publication Ranking /Indexing
 #### DDL
-[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
 [CCF Conference Deadlines](https://ccfddl.github.io/)
-[AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,CV)
+https://ccfddl.top/
 #### Ranking /lists
 https://www.ccf.org.cn/Academic_Evaluation/By_category/
 中国计算机学会推荐国际学术会议和期刊目录-2022更名版 (2024)
 ![中国计算机学会推荐国际学术会议和期刊目录-2022更名版](../../../Assets/Official%20&%20Formal%20Docs/中国计算机学会推荐国际学术会议和期刊目录-2022更名版.pdf)
+必须指出的是，本《目录》是 CCF 认为值得计算机界研究者们发表研究成果的一个推荐列表，其目的不是作为学术评价的 (唯一) 依据，而仅作为 CCF 的推荐建议供业界参考。还需要说明的是，由于领域的交叉和视角的差异，同一刊物/会议在不同领域存在认识上的差异是正常的，本列表也只代表了 CCF 对这些会议和刊物的推荐建议。此外，刊物和会议的影响力并不直接和发表在其上的单一论文的影响力发生联系，因此不建议任何单位将此《目录》简单作为学术评价的依据。如果由于将此《目录》作为学术评价的依据而引起纠纷，本学会不承担任何责任。
 
 [Computer Science Conference Rankings](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
 
 [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&world)
-[CSRankings: Computer Science Rankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?all&world) ([投票](https://github.com/emeryberger/CSrankings/blob/gh-pages/docs/CSrankings%20survey%20results.pdf))
+https://github.com/emeryberger/CSrankings
+- This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. Unlike US News and World Report's approach, which is [exclusively based on surveys](https://www.usnews.com/education/best-graduate-schools/articles/science-schools-methodology), this ranking is entirely metrics-based. It measures the number of publications by faculty that have appeared at the most selective conferences in each area of computer science.
+- This approach is intended to be difficult to game, since publishing in such conferences is generally difficult: contrast this with other approaches like citation-based metrics, which have been repeatedly shown to be [easy](https://arxiv.org/abs/1212.0638) to [manipulate](https://evaluation.hypotheses.org/files/2010/12/pdf_IkeAntkareISSI.pdf). That said, incorporating citations in some form is a long-term goal.
 
 [Top Publication Venues in Computer Science](https://www.cs.cornell.edu/andru/csconf.html)
 
@@ -90,13 +91,14 @@ https://comydream.github.io/journals-and-conferences/index.html
     - [人机交互](https://comydream.github.io/journals-and-conferences/index.html#%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92)
     - [机器人](https://comydream.github.io/journals-and-conferences/index.html#%E6%9C%BA%E5%99%A8%E4%BA%BA)
     - [综合](https://comydream.github.io/journals-and-conferences/index.html#%E7%BB%BC%E5%90%88)
-
 **层次**主要参考行业内普遍认可情况，不保证完全准确，不保证客观。
+不要盲从 [CCF 推荐国际学术会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 和 [中科院分区](http://www.fenqubiao.com/) (尤其是后者) 。 (查询你 [中科院分区表](http://www.fenqubiao.com/) 竟然还需要所在单位购买。😅)
+表格中的链接说明：
+- 对于期刊，简称链接为 [LetPub](https://www.letpub.com.cn/) 条目，全称链接为官网，影响因子仅为收集数据时的影响因子（后续可能不会更新）。
+- 对于会议，简称链接为 [Conference Partner](https://www.myhuiban.com/) 条目，全称链接为官网。
 
 https://www.s3.eurecom.fr/~balzarot/security-circus/affiliations.html
-Welcome to the System Security Circus.
-This page contains statistics about the papers published over the last
-20+ years in the top System Security (Academic) venues.
+Welcome to the System Security Circus. This page contains statistics about the papers published over the last 20+ years in the top System Security (Academic) venues.
 
 https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States
 Academic ranks in the United States | wikipedia
@@ -134,6 +136,35 @@ https://people.engr.tamu.edu/guofei/links.htm
 
 
 ## Intro
+> 🔗 https://comydream.github.io/journals-and-conferences/index.html
+
+计算机领域是一个推陈出新比较快的领域，会议发挥了重要作用。
+
+🔗 [为什么只有计算机专业非常看重顶会，而其他专业对顶会并不认可？ - 霍华德的回答 - 知乎](https://www.zhihu.com/question/458946058/answer/2286587962)
+
+期刊的局限性：
+- 周期太长。
+- 一般是单盲，即审稿人可以看到作者是谁，这样就有很大的操作空间 /doge 。  
+    ~~当然，双盲也可以通过拉小群的方法操作，哪怕是顶会 /doge 。~~
+
+🔗 [Michael L. Littman: Collusion Rings Threaten the Integrity of Computer Science Research – Communications of the ACM](https://cacm.acm.org/opinion/collusion-rings-threaten-the-integrity-of-computer-science-research/)
+
+🔗 [如何看待郑州大学招聘时，将AAAI, CVPR等计算机top会议与中科院四区期刊视为同等价值？ - feby的回答 - 知乎](https://www.zhihu.com/question/435276287/answer/2512954685)
+
+此外，还能在顶会上亲眼见到大佬、与大佬近距离交流，还可以公费旅游 (签证顺利的话) 。
+
+计算机、信息领域主要的出版社有：
+- [IEEE](https://zh.wikipedia.org/wiki/%E7%94%B5%E6%B0%94%E7%94%B5%E5%AD%90%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E4%BC%9A)，**I**nstitute of **E**lectrical and **E**lectronics **E**ngineers，电气电子工程师学会 (一般读作 I triple-E)
+- [ACM](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A)，**A**ssociation for **C**omputing **M**achinery，国际计算机学会
+- [USENIX](https://zh.wikipedia.org/zh-cn/USENIX)
+
+IEEE 和 ACM 期刊中最「顶级」的一般是 Transactions，简写为 Trans. ，中文翻译为**汇刊**，内地高校一般比较看重这种期刊。
+
+如果一个期刊简称的第一个字母是 T，一般就是 Trans. 。
+- 一般而言，Trans. 如果挂 IEEE Fellow 名字，会更容易中很多、审稿周期也短很多。
+- 一般而言，中国人 (或者说内地机构的作者) 占比越大的会议 / 期刊越水。
+
+[发一篇IEEE Trans需要付出多大努力? - 知乎](https://www.zhihu.com/question/422638042/answer/2765587359)
 
 
 

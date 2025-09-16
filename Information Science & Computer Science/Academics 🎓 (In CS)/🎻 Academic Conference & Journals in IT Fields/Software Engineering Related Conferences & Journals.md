@@ -1,14 +1,10 @@
-# OWASP Global AppSec
+# Software Engineering Related Conferences & Journals
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 
