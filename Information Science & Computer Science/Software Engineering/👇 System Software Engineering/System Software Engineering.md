@@ -20,7 +20,7 @@
 - ↗ [Network Programming & RPC](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [ISA (Industry Standard Architecture)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Slot%20(Internal%20Bus)/ISA%20(Industry%20Standard%20Architecture)/ISA%20(Industry%20Standard%20Architecture).md)
 
-↗ [AI (Data) Infrastructure & Stack](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/AI%20(Data)%20Infrastructure%20&%20Stack.md)
+↗ [AI (Data) Infrastructure & Techniques Stack](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
 

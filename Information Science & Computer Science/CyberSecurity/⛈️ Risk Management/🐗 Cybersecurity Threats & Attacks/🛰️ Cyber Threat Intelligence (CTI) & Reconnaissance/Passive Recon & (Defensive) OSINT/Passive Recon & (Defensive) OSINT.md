@@ -262,9 +262,6 @@ https://www.ssllabs.com/index.html
 • https://gralhix.com/list-of-osint-exercises/
 • https://www.osintdojo.com/resources/
 
-https://pastebin.com
-Pastebin is a website where you can store any text online for easy sharing. The website is mainly used by programmers to store pieces of sources code or configuration information, but anyone is more than welcome to paste any type of text. The idea behind the site is to make it more convenient for people to share large amounts of text online.
-
 👍 https://www.osintdojo.com/diagrams/main
 OSINT Attack Surface Diagrams
 - General Resources
@@ -399,6 +396,8 @@ Defensive OSINT is typically used to see what is already on internet including b
 ## 1️⃣ Physical Level OSINT
 > ↗ [Cyber Assets Attack Surface Management (CAASM)](../../../🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
 > ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+> 
+> ↗ [Network Topology Construction](../Active%20Recon%20&%20Offensive%20OSINT/Network%20Topology%20Construction.md)
 
 
 ### 📌 Resources
@@ -465,7 +464,18 @@ Defensive OSINT is typically used to see what is already on internet including b
 > ↗ [Active Recon & Offensive OSINT](../Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
 > ↗ [User Enumeration](../Active%20Recon%20&%20Offensive%20OSINT/User%20Enumeration.md)
 > ↗ [Password Management](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Password%20Management.md)
-> ↗ [Password Attack](../../Password%20Attack/Password%20Attack.md)
+> ↗ [Password Attack](../Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+
+Information about the people and their roles in an organization
+- Their normal work hours, regular behaviour, professional activities, holidays, families, habits, hobbies, interests, …
+	- _anything that can be leveraged in blackmail or social engineering_
+- All sources of information may be relevant
+	- Social Media (LinkedIn, Facebook, Twitter, Instagram, GitHub, …)
+	- Professional or Social Networks (unions, associations, boards, clubs, …)
+	- Public records (e.g. public records of property)
+- Don’t forget search engines
+	- General search engines: Google, Bing, Yahoo, Yandex
+	- Specialized search engines: Shodan, Censys, Hunter, HaveIBeenPwned
 
 
 ### 📌 Human-Based OSINT Resources
@@ -539,7 +549,11 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 
 ### User Profiling
-Lists of commonly used passwords are available for download, and are stored locally on Kali in the `/usr/share/wordlists` directory. However this is only the relflection of mass choices. For particular user, there's a better way. 
+> ↗ [Credentials & Password Related Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
+> ↗ [Password Attack](../Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+
+
+Lists of commonly used passwords are available for download, and are stored locally on Kali in the `/usr/share/wordlists` directory. However this is only the reflection of mass choices. For particular user, there's a better way. 
 #### Gathering usernames & email address
 ##### 👉 theHarvester
 The theHarvester tool is a Python script that searches through popular search engines and other sites for email addresses, hosts, and sub-domains.

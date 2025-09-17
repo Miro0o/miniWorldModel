@@ -9,12 +9,28 @@
 ↗ [FAQ - Academia and Research /📌 PhD Candidate /Academic Researcher ?](../FAQ%20-%20Academia%20and%20Research.md#📌%20PhD%20Candidate%20/Academic%20Researcher%20?)
 
 
-### Academic Useful Tools
+### Useful Tools
 https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate
 四川大学学位论文LaTeX模版
 
 https://www.aminer.cn/
 AI帮你理解科学
+
+https://github.com/eliahuhorwitz/Academic-project-page-template?tab=readme-ov-file
+A clean, responsive template for academic project pages.
+Example project pages built using this template are:
+- https://horwitz.ai/probex
+- https://vision.huji.ac.il/probegen
+- https://horwitz.ai/mother
+- https://horwitz.ai/spectral_detuning
+- https://vision.huji.ac.il/ladeda
+- https://vision.huji.ac.il/dsire
+- https://horwitz.ai/podd
+- https://dreamix-video-editing.github.io
+- https://horwitz.ai/conffusion
+- https://horwitz.ai/3d_ads/
+- https://vision.huji.ac.il/ssrl_ad
+- https://vision.huji.ac.il/deepsim
 
 
 ### Academic Learning Resources 

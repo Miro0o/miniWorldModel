@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
 

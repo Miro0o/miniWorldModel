@@ -199,12 +199,14 @@ IEEE Symposium on Security and Privacy (**S&P**)
 
 
 ### Network and Distributed System Security (NDSS) Symposium
-https://www.ndss-symposium.org
-Network and Distributed System Security (**NDSS**) Symposium
+🏠 https://www.ndss-symposium.org
+
+NDSS Symposium 2025 Program
+https://www.ndss-symposium.org/ndss-program/symposium-2025/
 
 
 ### USENIX Security Symposium
-https://www.usenix.org
+🏠 https://www.usenix.org
 The **USENIX Association** is a 501(c)(3) nonprofit organization, dedicated to supporting the advanced computing systems communities and furthering the reach of innovative research. We are known for organizing conferences and publishing research, but our greatest strength lies in building communities in computing systems. We represent the interests of our communities in a variety of ways, including our professional affiliation with the Computing Research Association.
 
 35th USENIX Security Symposium
@@ -212,6 +214,7 @@ https://www.usenix.org/conf%C3%A9rence/usenixsecurity26
 
 34th USENIX Security Symposium
 https://www.usenix.org/conf%c3%a9rence/usenixsecurity25
+- [USENIX Security '25 Technical Sessions](https://www.usenix.org/conf%C3%A9rence/usenixsecurity25/technical-sessions)
 
 33rd USENIX Security Symposium
 https://www.usenix.org/conf%c3%a9rence/usenixsecurity24

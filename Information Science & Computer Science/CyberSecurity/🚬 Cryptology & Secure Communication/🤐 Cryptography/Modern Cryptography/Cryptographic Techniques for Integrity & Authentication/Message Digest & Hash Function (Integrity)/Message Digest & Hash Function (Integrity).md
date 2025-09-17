@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [MD Cryptanalysis](../../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/MD%20Cryptanalysis/MD%20Cryptanalysis.md)
+↗ [Login Cracker & Password Cracker](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/Login%20Cracker%20&%20Password%20Cracker.md)
+- ↗ [hashcat](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/hashcat.md)
 
 
 ### Other Resources

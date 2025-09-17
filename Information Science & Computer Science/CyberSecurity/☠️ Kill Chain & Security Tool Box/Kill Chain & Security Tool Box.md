@@ -17,6 +17,9 @@
 
 
 ### Online Tools
+🔍 https://www.kali.org/tools/
+Kali Tools | Tool Documentation
+
 https://uutool.cn
 uu 在线工具
 

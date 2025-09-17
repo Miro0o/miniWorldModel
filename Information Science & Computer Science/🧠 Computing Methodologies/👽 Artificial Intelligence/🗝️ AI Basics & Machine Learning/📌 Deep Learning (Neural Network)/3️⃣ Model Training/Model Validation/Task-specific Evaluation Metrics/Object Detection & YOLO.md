@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [YOLO (Ultralytics)](../../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/YOLO%20(Ultralytics)/YOLO%20(Ultralytics).md)
+↗ [YOLO (Ultralytics)](../../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/YOLO%20(Ultralytics)/YOLO%20(Ultralytics).md)
 ↗ [YOLO (You Only Look Once)](../../../2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/YOLO%20(You%20Only%20Look%20Once)/YOLO%20(You%20Only%20Look%20Once).md)
 
 

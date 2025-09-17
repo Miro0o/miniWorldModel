@@ -1,4 +1,4 @@
-# AIGC (AI-Generated Content) & AGI (Artificial General Intelligence)
+# AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)
 
 [TOC]
 
@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [LLM (Large Language Model)](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [AI(LLM) x SE](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 ↗ [AI x Security](../../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
 
 
@@ -26,7 +28,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 
 
-## Intro: AGI (Artificial General Intelligence)
+## Intro
+### AGI (Artificial General Intelligence)
 > 🔗 https://en.wikipedia.org/wiki/Artificial_general_intelligence
 
 Artificial general intelligence (AGI) is a type of artificial intelligence (AI) that can perform as well or better than humans on a wide range of cognitive tasks. This is in contrast to narrow AI, which is designed for specific tasks. AGI is considered one of various definitions of strong AI.

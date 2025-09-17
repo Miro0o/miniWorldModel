@@ -1,4 +1,4 @@
-# LLM-Driven Automation & LLM Agents
+# LLM Agents & Agentical LLM
 
 [TOC]
 
@@ -6,7 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [AIGC WorkFlow & Agents](../../../../AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 ↗ [LLM Utilization & Prompt Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
+↗ [Embodied AI](../../../../❌%20AI-For-Everything/🤔%20Embodied%20AI/Embodied%20AI.md)
 
 ↗ [Web Automation, Testing, and WebDriver](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
@@ -19,7 +21,11 @@
 
 
 ### Other Resources
-https://www.coze.cn/
+https://github.com/aiwaves-cn/agents
+An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
+
+https://github.com/Alibaba-NLP/DeepResearch/
+Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
 
 
 

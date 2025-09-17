@@ -20,7 +20,6 @@ With `Qdrant`, embeddings or neural network encoders can be turned into full-fle
 
 `Qdrant` is also available as a fully managed **[Qdrant Cloud](https://cloud.qdrant.io/)** ⛅ including a **free tier**.
 
-
 • Read our [documentation](https://qdrant.tech/documentation/cloud/) to learn how to build features with the `Qdrant` Cloud API.
 • Check out our [Neural Search Tutorial](https://qdrant.tech/articles/neural-search-tutorial/) for inspiration.
 • Use the code snippet below to access your cluster.

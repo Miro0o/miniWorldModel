@@ -62,21 +62,21 @@ This article discusses a set of tactics useful in [software testing](https://en
 ↗ [Network Penetration (Pen-testing)](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
 ### 👨🏻‍🎤 Performance Testing
-#### Load testing
-#### Stress testing
-#### Scalability testing
-#### Volume testing (flood testing)
-#### Endurance testing (Soak Testing)
-#### Concurrent testing
+#### Load Testing
+#### Stress Testing
+#### Scalability Testing
+#### Volume Testing (flood testing)
+#### Endurance Testing (Soak Testing)
+#### Concurrent Testing
 
 
 ### 💪 Usability Testing
-#### Exploratory testing
-#### Cross browser testing
+#### Exploratory Testing
+#### Cross browser Testing
 #### Accessibility Testing
 
 
-### 🫱🏻‍🫲🏿 Compatibility testing
+### 🫱🏻‍🫲🏿 Compatibility Testing
 This is a testing type in which it validates how software behaves and runs in a different environment, web servers, hardware, and network environment.
 
 [Compatibility testing](https://www.softwaretestinghelp.com/software-compatibility-testing/) ensures that software can run on different configuration, different databases, different browsers, and their versions. The testing team performs compatibility testing.

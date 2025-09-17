@@ -16,8 +16,8 @@ LLM & Academics 🧑‍🎓
 ↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [LLM Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Dev/LLM%20Dev.md)
-- ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
+- ↗ [LLM Application Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev.md)
+- ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
 
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
 
@@ -266,7 +266,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 ### LLM Infrastructure & Deployment
 ↗ [LLM Infrastructure & Deployment](LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
-↗ [AI (Data) Infrastructure & Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/AI%20(Data)%20Infrastructure%20&%20Stack.md)
+↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
 ## The Technical Evolution of LLM & Future Directions

@@ -15,8 +15,10 @@
 ↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [AIGC (AI-Generated Content) & AGI (Artificial General Intelligence)](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AIGC%20(AI-Generated%20Content)%20&%20AGI%20(Artificial%20General%20Intelligence)/AIGC%20(AI-Generated%20Content)%20&%20AGI%20(Artificial%20General%20Intelligence).md)
+- ↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
 - ↗ [MLOps](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
+
+↗ [HuggingFace 🤗](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20(Version%20Control%20Management)/Git/👩🏼‍🍳%20Git%20Services%20Providers/HuggingFace%20🤗.md)
 
 
 ### Websites & Communities
@@ -28,6 +30,7 @@ https://www.zhihu.com/org/xin-zhi-yuan-88-3
 
 https://huggingface.co
 huggingface
+- https://huggingface.co/learn
 
 https://www.kaggle.com
 kaggle

@@ -15,7 +15,7 @@
 
 ↗ [Computing Methodologies](../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Distributed Computing & Systems](../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-- ↗ [AI (Data) Infrastructure & Stack](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/AI%20(Data)%20Infrastructure%20&%20Stack.md)
+- ↗ [AI (Data) Infrastructure & Techniques Stack](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 - etc.
 
 ↗ [High Performance Computer (HPC)](../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)

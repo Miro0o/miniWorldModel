@@ -1,21 +1,33 @@
-# Login Cracker
+# Login Cracker & Password Cracker
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
 ↗ [Message Digest & Hash Function (Integrity)](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
+↗ [Identity & Access Management (IAM)](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 
 
 
 ## Intro
-### 
 ### Security Account Manager (SAM)
 
 
 
-## 🎯 Brief List
+## 🎯 Hashing Function Analysis & Identifiers
+https://www.tunnelsup.com/hash-analyzer/
+
+https://hashes.com/en/decrypt/hash
+
+https://it-tools.tech/bcrypt
+
+https://gchq.github.io/CyberChef/#recipe=Bcrypt(10)
+
+
+
+## 🎯 Hashing Attackers
 ### Online Attackers
 #### 👉 cewl
 可通过爬行网站获取关键信息创建一个密码字典。

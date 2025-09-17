@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [The Python Standard Library](../../../../Interpreted%20Languages/Python/🌷%20The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
-↗ [Python Based AI](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
+↗ [Python Based AI](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 
 ### Other Resources

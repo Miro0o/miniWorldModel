@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [LLM Agents & Agentical LLM](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
+↗ [AIGC WorkFlow & Agents](../../AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 
 
 ### Other Resources

@@ -12,7 +12,7 @@
 🌟 Highly recommended as an intro material.
 
 ### Related Topics
-↗ [Cloud Platforms for AI](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/Cloud%20Platforms%20for%20AI/Cloud%20Platforms%20for%20AI.md)
+↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
 
 
 
