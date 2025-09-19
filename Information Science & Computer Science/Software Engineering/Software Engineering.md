@@ -10,7 +10,7 @@
 ↗ [Development Related Conferences & Events](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Development%20Related%20Conferences%20&%20Events.md)
 
 ↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python.md)
+↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python.md)
 ↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Golang/Golang.md)
 ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 

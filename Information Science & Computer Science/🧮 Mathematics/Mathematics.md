@@ -77,17 +77,6 @@ Open access curriculum material for inquiry based learning courses can be found 
 [**The Journal for Inquiry Based Learning in Mathematics**](http://jiblm.org//guides/index.php?category=jiblmjournal).
 The list below groups open textbooks by course title. All the books have been judged to meet the [evaluation criteria](https://textbooks.aimath.org/textbooks/evaluation-criteria) set by the AIM [editorial board](https://textbooks.aimath.org/textbooks/editorial-board/).
 
-
-🎬【魔方的数学原理】 https://www.bilibili.com/video/BV1Af421R7Pq/?share_source=copy_web
-
-
-🚧 https://github.com/Crispher/MathlibExplorer
-Mathlib explorer is an interactive visualization tool designed for [Lean's mathlib library](https://github.com/leanprover-community/mathlib4). It visualizes the import relations within mathlib, with carefully thought-out layout and interactions. It is a great visual representation of how math concepts are connected to each other, which can be informative even if you cannot read Lean code.
-- Related video series (in Chinese):
-	- 欢迎关注相关视频系列：《重构数学》on [bilibili](https://space.bilibili.com/613069855) and [YouTube](https://www.youtube.com/@yugu233/videos).
-
-![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
-
 wikipedia
 - [Areas of mathematics](https://en.wikipedia.org/wiki/Areas_of_mathematics "Areas of mathematics")
 - [Mathematical knowledge management](https://en.wikipedia.org/wiki/Mathematical_knowledge_management "Mathematical knowledge management")
@@ -110,7 +99,14 @@ wikipedia
 - [算经十书](https://zh.wikipedia.org/wiki/%E7%AE%97%E7%B6%93%E5%8D%81%E6%9B%B8 "算经十书")
 - [数学竞赛](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B "数学竞赛")
 - [数学题](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E9%A2%98 "数学题")
+#### Math For Fun
+🎬【魔方的数学原理】 https://www.bilibili.com/video/BV1Af421R7Pq/?share_source=copy_web
 
+🚧 https://github.com/Crispher/MathlibExplorer
+Mathlib explorer is an interactive visualization tool designed for [Lean's mathlib library](https://github.com/leanprover-community/mathlib4). It visualizes the import relations within mathlib, with carefully thought-out layout and interactions. It is a great visual representation of how math concepts are connected to each other, which can be informative even if you cannot read Lean code.
+- Related video series (in Chinese):
+	- 欢迎关注相关视频系列：《重构数学》on [bilibili](https://space.bilibili.com/613069855) and [YouTube](https://www.youtube.com/@yugu233/videos).
+![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
 
 
 ### 📝 Math Course List for CS
@@ -195,6 +191,7 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 ##### Proof by Construction (构造法)
 ##### Proof by Contradiction (反证法，归谬法)
 ##### Proof by Induction (归纳法)
+
 
 ### Relation of Math and Science
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Relationship_with_sciences

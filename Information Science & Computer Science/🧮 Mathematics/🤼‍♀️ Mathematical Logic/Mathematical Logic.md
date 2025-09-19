@@ -77,50 +77,6 @@ wikipedia
 Since its inception, mathematical logic has both contributed to and been motivated by the study of foundations of mathematics. This study began in the late 19th century with the development of [axiomatic](https://en.wikipedia.org/wiki/Axiom "Axiom") frameworks for [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"), [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic"), and [analysis](https://en.wikipedia.org/wiki/Mathematical_analysis "Mathematical analysis"). In the early 20th century it was shaped by [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert")'s [program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") to prove the consistency of foundational theories. Results of [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel"), [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen "Gerhard Gentzen"), and others provided partial resolution to the program, and clarified the issues involved in proving consistency. Work in set theory showed that almost all ordinary mathematics can be formalized in terms of sets, although there are some theorems that cannot be proven in common axiom systems for set theory. Contemporary work in the foundations of mathematics often focuses on establishing which parts of mathematics can be formalized in particular formal systems (as in [reverse mathematics](https://en.wikipedia.org/wiki/Reverse_mathematics "Reverse mathematics")) rather than trying to find theories in which all of mathematics can be developed.
 
 
-### Soundness & Completeness
-**Definition**: Soundness
-In a sound system, we can only prove true things.
-- if we can prove $\Phi$ given $\Sigma$
-	- i.e. $(\Sigma \vdash \Phi)$ 
-- then $\Phi$ is **true** given $\Sigma$
-	- i.e. $(\Sigma \models Φ)$
-- i.e. $\Sigma \vdash \Phi \implies \Sigma \models \Phi$
-
- **Definition 4**: Completeness
- In a complete system, we can prove all true things. 
-- if $\Phi$ is **true** given $\Sigma$
-	- $(\Sigma \models \Phi)$
-- then $\phi$ is provable given $\Sigma$
-	- $(\Sigma \vdash \Phi)$
-- i.e. $\Sigma \models \Phi \implies \Sigma \vdash \Phi$
-
-![](../../../Assets/Pics/Pasted%20image%2020250908234809.png)
-
-> 🔗 https://en.wikipedia.org/wiki/Soundness
-
-In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), a [logical system](https://en.wikipedia.org/wiki/Logical_system "Logical system") has the soundness property if every [formula](https://en.wikipedia.org/wiki/Formula_\(mathematical_logic\) "Formula (mathematical logic)") that can be proved in the system is logically valid with respect to the [semantics](https://en.wikipedia.org/wiki/Formal_semantics_\(logic\) "Formal semantics (logic)") of the system. In most cases, this comes down to its rules having the property of _preserving [truth](https://en.wikipedia.org/wiki/Truth "Truth")_. The [converse](https://en.wikipedia.org/wiki/Converse_\(logic\)#Categorical_converse "Converse (logic)") of soundness is known as [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)").
-
-A logical system with [syntactic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Syntactic_consequence "Logical consequence") $\vdash$ and [semantic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Semantic_consequence "Logical consequence") $\models$ is **sound** if for any [sequence](https://en.wikipedia.org/wiki/Sequence "Sequence") $A_1, A_2, ..., A_n$ of [sentences](https://en.wikipedia.org/wiki/Sentence_\(mathematical_logic\) "Sentence (mathematical logic)") in its language, if $A_1, A_2, ..., A_n \vdash C$, then $A_1, A_2, ..., A_n \models C$. In other words, a system is sound when all of its [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") are [validities](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)").
-
-Soundness is among the most fundamental properties of mathematical logic. The soundness property provides the initial reason for counting a logical system as desirable. The [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property means that every validity (truth) is provable. Together they imply that all and only validities are provable.
-
-Most proofs of soundness are trivial. For example, in an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), proof of soundness amounts to verifying the validity of the axioms and that the rules of inference preserve validity (or the weaker property, truth). If the system allows [Hilbert-style deduction](https://en.wikipedia.org/wiki/Hilbert-style_deductive_system "Hilbert-style deductive system"), it requires only verifying the validity of the axioms and one rule of inference, namely [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens "Modus ponens") (and sometimes substitution).
-
-Soundness properties come in two main varieties: weak and strong soundness, of which the former is a restricted form of the latter.
-#### Weak Soundness
-Weak soundness of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system") is the property that any sentence that is provable in that deductive system is also true on all interpretations or structures of the semantic theory for the language upon which that theory is based. In symbols, where $S$ is the deductive system, $L$ the language together with its semantic theory, and _P_ a sentence of _L_: if $\vdash_S P$, then also $\models_L P$.
-#### Strong soundness
-Strong soundness of a deductive system is the property that any sentence $P$ of the language upon which the deductive system is based that is derivable from a set $\Gamma$ of sentences of that language is also a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence "Logical consequence") of that set, in the sense that any model that makes all members of $\Gamma$ true will also make $P$ true. In symbols, where $\Gamma$ is a set of sentences of $L$: if $\Gamma \vdash_S P$, then also $\Gamma \models_L P$. Notice that in the statement of strong soundness, when $\Gamma$ is empty, we have the statement of weak soundness.
-#### Arithmetic soundness
-If $T$ is a theory whose objects of discourse can be interpreted as [natural numbers](https://en.wikipedia.org/wiki/Natural_numbers "Natural numbers"), we say $T$ is **_arithmetically sound_** if all theorems of $T$ are actually true about the standard mathematical integers. For further information, see [ω-consistent theory](https://en.wikipedia.org/wiki/%CE%A9-consistent_theory "Ω-consistent theory").
-#### Relation to completeness
-The converse of the soundness property is the semantic [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property. A deductive system with a semantic theory is strongly complete if every sentence $P$ that is a [semantic consequence](https://en.wikipedia.org/wiki/Semantic_consequence "Semantic consequence") of a set of sentences $\Gamma$ can be derived in the [deduction system](https://en.wikipedia.org/wiki/Deduction_system "Deduction system") from that set. In symbols: whenever $\Gamma \models P$, then also $\Gamma \vdash P$. Completeness of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic") was first [explicitly established](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem "Gödel's completeness theorem") by [Gödel](https://en.wikipedia.org/wiki/G%C3%B6del "Gödel"), though some of the main results were contained in earlier work of [Skolem](https://en.wikipedia.org/wiki/Skolem "Skolem").
-
-Informally, a soundness theorem for a deductive system expresses that all provable sentences are true. Completeness states that all true sentences are provable.
-
-[Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorem "Gödel's incompleteness theorem") shows that for languages sufficient for doing a certain amount of arithmetic, there can be no consistent and effective deductive system that is complete with respect to the intended interpretation of the symbolism of that language. Thus, not all sound deductive systems are complete in this special sense of completeness, in which the class of models (up to [isomorphism](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism")) is restricted to the intended one. The original completeness proof applies to _all_ classical models, not some special proper subclass of intended ones.
-
-
 
 ## Ref
 [也谈数理逻辑]: http://niwatori.io/2017/01/13/mathematical-logic/

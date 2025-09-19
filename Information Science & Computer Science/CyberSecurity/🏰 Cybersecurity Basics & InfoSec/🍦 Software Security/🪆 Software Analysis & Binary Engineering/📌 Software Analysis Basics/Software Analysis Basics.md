@@ -175,7 +175,7 @@ def main():
 
 However, all hope is not lost! Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
 #### Soundness & Completeness
-> ↗ [Mathematical Logic /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md#Soundness%20&%20Completeness)
+> ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.6
 

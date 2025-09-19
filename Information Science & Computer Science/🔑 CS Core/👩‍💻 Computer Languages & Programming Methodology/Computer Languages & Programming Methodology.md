@@ -15,13 +15,13 @@
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 - ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-- ↗ [Parallel Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing/Parallel%20Computing.md)
+- ↗ [Parallel Computing & Programming](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 - ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 - etc.
 
 ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
@@ -377,10 +377,10 @@ e.g.
 ##### 3. Database Processing Approach
 
 e.g.
-- ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
-	- ↗ [Record-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-	- ↗ [Object-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-	- ↗ [Query Languages (Data Query Languages, DQL)](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+- ↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
 
 ```mysql
 CREATE DATABASE databaseAddress;
@@ -418,7 +418,7 @@ e.g.
 - 👉 **C++**: developed by Bjarne Stroustrup
 - 👉 [Objective-C](Compiled%20Languages/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
 - 👉 [Dot.Net-Based Languages](Compiled%20+%20Interpreted%20Languages/Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md): developed by Microsoft
-- 👉 [Python](Interpreted%20Languages/Python/Python.md): developed by Guido van Rossum
+- 👉 [Python](Interpreted%20Languages/🐍%20Python/Python.md): developed by Guido van Rossum
 - 👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto
 - 👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
@@ -646,7 +646,7 @@ More about ADT and programming model:
 ### Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling
 > Personally, I believe the best way to get to know the basic principles and practical details of programming languages, whether in order to learn a new programming language or to explore the designing principles of that language, is to learn in writing algorithms of that language.
 > ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-> ↗ [Python](Interpreted%20Languages/Python/Python.md)
+> ↗ [Python](Interpreted%20Languages/🐍%20Python/Python.md)
 > ↗ [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 > ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)

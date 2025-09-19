@@ -13,12 +13,17 @@
 
 ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 - ↗ [Linux (Derived From UNIX Family)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+- ↗ [macOS (Derived From UNIX Family)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/macOS%20(Derived%20From%20UNIX%20Family).md)
+- ↗ [Windows](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
+- ↗ [Android & AOSP](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20&%20AOSP.md)
 ↗ [Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
 ↗ [Computer (IO Devices) Drivers & Programming](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 - ↗ [Network Programming & RPC](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [ISA (Industry Standard Architecture)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Slot%20(Internal%20Bus)/ISA%20(Industry%20Standard%20Architecture)/ISA%20(Industry%20Standard%20Architecture).md)
+
+↗ [Parallel Computing & Programming](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
@@ -27,6 +32,9 @@
 ## Intro: System Level Programming Abstraction
 ![](../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
+
+![[../../../../../../../Assets/Pics/os X archi.jpeg]]
+<small>MacOS Architecture</small>
 
 
 ### Bus

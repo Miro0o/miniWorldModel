@@ -12,7 +12,7 @@
 - ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
-↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Program Compilation & Execution](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
@@ -75,6 +75,7 @@
 
 ### Automaton, Transition System, and Operational Semantics
 ↗ [Mathematical Logic](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Set Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
@@ -83,10 +84,17 @@
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html##sec:2.1
 
-**Semantics**
+**(Program) Semantics**
 Program semantics is about assigning meaning to programs. When we can talk about what a piece of syntax mean, it is easier to explain what a program does.
 
 We are going to discuss some different approaches to writing down the semantics of a program.  ==They all essentially turn programs syntax into mathematical logic.==
+
+↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+
+
+**Mathematical Logic Languages & Natural Deduction**
+↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
 
 **Operational Semantics**
@@ -104,7 +112,7 @@ Big Step semantics have the benefit of being easier to read, however, it has som
 **Transition System**
 Using operational semantics, we can define the meaning of a program P as a Transition System:
 
-(↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
+(↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
 A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
 - $S$ is a set of states,
 - $Act$ is a set of actions,

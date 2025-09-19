@@ -13,7 +13,7 @@
 
 ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
-↗ [Web & HTML Scraping](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
+↗ [Web & HTML Scraping](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
 ↗ [Exploit Database & Google Hacking & GHDB](../../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 

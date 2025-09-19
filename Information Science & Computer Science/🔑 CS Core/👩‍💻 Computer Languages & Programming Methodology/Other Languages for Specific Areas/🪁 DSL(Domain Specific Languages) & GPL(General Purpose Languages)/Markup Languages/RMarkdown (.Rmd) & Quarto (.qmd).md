@@ -14,7 +14,7 @@
 ↗ [RStudio](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/📌%20Language%20Specific%20IDE/RStudio.md)
 ↗ [R Language](../../../Interpreted%20Languages/R%20Language/R%20Language.md)
 
-↗ [Project Jupyter (Julia, Python, R)](../../../Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../../Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
 ↗ [👍 Tex & LaTex](👍%20Tex%20&%20LaTex.md)
 
 ↗ [Document Converter](../⚙️%20Document%20Converter/Document%20Converter.md)

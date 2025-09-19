@@ -5,8 +5,8 @@
 
 ## Res
 ### Related Topics
-Recall ↗ [Database System Languages](../../../⚜️%20Database%20System%20Design/Database%20System%20Languages.md)
-↗ [DBMS /Relational Database](../../../DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/RDBMS%20(Relational).md)
+Recall ↗ [Database System Languages](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/Database%20System%20Languages.md)
+↗ [DBMS /Relational Database](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/RDBMS%20(Relational).md)
 
 
 
@@ -28,7 +28,7 @@ List of several popular relational database:
 
 
 ### Relational Data Models
-↗ [Relational (Data) Models](../../../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Relational%20(Data)%20Models.md)
+↗ [Relational (Data) Models](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Relational%20(Data)%20Models.md)
 
 
 

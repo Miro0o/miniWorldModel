@@ -21,7 +21,7 @@
 ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 ↗ [R Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
 ↗ [Julia](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Julia/Julia.md)
-↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/Python/Python.md)
+↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python.md)
 
 ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 - ↗ [Deep Learning (Neural Networks)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)

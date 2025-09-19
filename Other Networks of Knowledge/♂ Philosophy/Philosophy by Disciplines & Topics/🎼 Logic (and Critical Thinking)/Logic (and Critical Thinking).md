@@ -114,7 +114,7 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 
 ### Soundness & Completeness
-> ↗ [Mathematical Logic /Soundness & Compelteness](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md#Soundness%20&%20Completeness)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
 
 > 🔗 https://en.wikipedia.org/wiki/Soundness
 

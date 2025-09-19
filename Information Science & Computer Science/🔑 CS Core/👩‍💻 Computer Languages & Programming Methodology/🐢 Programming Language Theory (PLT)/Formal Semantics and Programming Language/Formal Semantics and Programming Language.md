@@ -7,10 +7,16 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Logic](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+- ↗ [Mathematical Logic Basics (Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+	- ↗ [Formal Syntax, Language Grammar, and BNF](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Formal%20Syntax,%20Language%20Grammar,%20and%20BNF.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
-↗ [Semantic Models & Languages](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
+↗ [Semantic Models & Languages](../../Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 ↗ [Semantic Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🐣%20Static%20Analysis%20Before%20IR/Semantic%20Analysis.md)
+
+↗ [The Essence of Computing - Program](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+
+↗ [Lambda Calculus (λ-Calculus)](../../Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 
 
 ### Learning Resources
@@ -317,6 +323,7 @@ Appendix B: Functional Programming with Scheme
 
 
 ## Intro
+### What is Semantics?
 
 
 

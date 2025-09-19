@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [ICT System Reliability (Correctness) & Verification](../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
-↗ [Software Quality Assurance (SQA)](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+↗ [ICT System Reliability (Correctness) & Verification](../../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+↗ [Software Quality Assurance (SQA)](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 
-↗ [Probability Models & Stochastic Process](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Chains (MC)](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)/Markov%20Chains%20(MC).md)
+↗ [Probability Models & Stochastic Process](../../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
+- ↗ [Markov Chains (MC)](../../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)/Markov%20Chains%20(MC).md)
 
-↗ [Temporal Logic](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(Zero-Order%20Logic)%20Propositional%20Logic%20(命题逻辑)/Temporal%20Logic/Temporal%20Logic.md)
+↗ [Temporal Logic](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(Zero-Order%20Logic)%20Propositional%20Logic%20(命题逻辑)/Temporal%20Logic/Temporal%20Logic.md)
 
 
 ### Related Tools
@@ -86,7 +86,7 @@ spaces ($10^{20}$ up to even $10^{476}$ states) can be handled for specific prob
 errors that remain undiscovered using emulation, testing and simulation can potentially
 be revealed using model checking.
 
-![|600](../../../../../../../Assets/Pics/Screenshot%202025-08-29%20at%2015.57.08.png)
+![|600](../../../../../../../../Assets/Pics/Screenshot%202025-08-29%20at%2015.57.08.png)
 
 ...
 
@@ -102,7 +102,7 @@ The concepts of model checking have their roots in mathematical foundations such
 ### Process of Model Checking
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
-![|600](../../../../../../../Assets/Pics/Screenshot%202025-08-29%20at%2015.57.08.png)
+![|600](../../../../../../../../Assets/Pics/Screenshot%202025-08-29%20at%2015.57.08.png)
 
 In applying model checking to a design the following diﬀerent phases can be distinguished:
 - **Modeling** phase:
@@ -186,14 +186,14 @@ Model checking. Model checking originates from the independent work of two pairs
 
 
 ## 1️⃣ System Modeling
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
 
 ### (Symbolic) Transition Systems
-> ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-> ↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 > 
-> ↗ [The Essence of Computing - Program](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+> ↗ [The Essence of Computing - Program](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 > - programs are transition systems
 > - hardware circuits are transition systems
 > - communication processes are transition systems
@@ -219,15 +219,15 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 
 
 ### Computational Tree
-↗ [Graph Basics](../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+↗ [Graph Basics](../../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 
 
 ### Timed Automata
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Automata Theory and (Formal) Language Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 
 ### Probabilistic Systems
-↗ [Probability Models & Stochastic Process](../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
+↗ [Probability Models & Stochastic Process](../../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
 
 
 

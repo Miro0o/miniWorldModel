@@ -31,11 +31,11 @@ Below is a non-exhaustive list of links that will be useful as you learn and use
 ↗ [Mathematical Tools & Scientific Computing](../../../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 ↗ [Scientific Computing](../../../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 
-↗ [Project Jupyter (Julia, Python, R)](../../Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
+↗ [Project Jupyter (Julia, Python, R)](../../Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)
 ↗ [RMarkdown (.Rmd) & Quarto (.qmd)](../../Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages/RMarkdown%20(.Rmd)%20&%20Quarto%20(.qmd).md)
 
 ↗ [Fortran](../Fortran/Fortran.md)
-↗ [Python](../../Interpreted%20Languages/Python/Python.md)
+↗ [Python](../../Interpreted%20Languages/🐍%20Python/Python.md)
 ↗ [MATLAB](../../Interpreted%20Languages/MATLAB/MATLAB.md)
 
 ↗ [Lisp-Based Languages](../Lisp-Based%20Languages/Lisp-Based%20Languages.md)

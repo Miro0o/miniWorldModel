@@ -15,7 +15,8 @@
 ↗ [GPU Virtualization](../../../🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/GPU%20Virtualization.md)
 ↗ [Nvidia](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Nvidia.md)
 
-↗ [Parallel Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing & Programming](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
+↗ [Parallel Programming Libraries & SDK](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
 
 
 ### Learning Resources

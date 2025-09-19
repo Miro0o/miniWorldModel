@@ -1,7 +1,3 @@
----
-cssclasses:
-  - img-grid
----
 # MacOS (Derived From UNIX Family)
 
 
@@ -17,7 +13,7 @@ cssclasses:
 
 
 ## ⛲️ Resources
-### Related Topis
+### Related Topics
 ↗ [Rosetta](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Rosetta.md)
 
 

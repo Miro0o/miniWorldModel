@@ -73,7 +73,7 @@ Other Airbnb's Style Guides
 - [Ruby](https://github.com/airbnb/ruby)
 
 ---
-↗ [PEP (Python Enhance Proposal)](Interpreted%20Languages/Python/PEP%20(Python%20Enhance%20Proposal).md)
+↗ [PEP (Python Enhance Proposal)](Interpreted%20Languages/🐍%20Python/PEP%20(Python%20Enhance%20Proposal).md)
 https://peps.python.org/pep-0008/
 PEP 8 – Style Guide for Python Code
 https://pep8.org
