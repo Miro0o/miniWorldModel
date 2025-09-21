@@ -331,6 +331,8 @@ Although symbolic [knowledge representation](https://en.wikipedia.org/wiki/Know
 
 
 ## 👉 Big Data, Deep Learning, AGI (2005–2017)
+> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md#The%20Technical%20Evolution%20of%20Neural%20Networks)
+
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Big_data,_deep_learning,_AGI_(2005%E2%80%932017)
 
 In the first decades of the 21st century, access to large amounts of data (known as "[big data](https://en.wikipedia.org/wiki/Big_data "Big data")"), [cheaper and faster computers](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law") and advanced [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning") techniques were successfully applied to many problems throughout the economy. A turning point was the success of [deep learning](https://en.wikipedia.org/wiki/Deep_learning "Deep learning") around 2012 which improved the performance of machine learning on many tasks, including image and video processing, text analysis, and speech recognition. Investment in AI increased along with its capabilities, and by 2016, the market for AI-related products, hardware, and software reached more than $8 billion, and the _New York Times_ reported that interest in AI had reached a "frenzy".
@@ -372,8 +374,10 @@ Deep learning was applied to dozens of problems over the next few years (such as
 
 
 ## 👉 From NLP to AGI: Boom of LLM (2017~)
+> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md#The%20Technical%20Evolution%20of%20Neural%20Networks)
+> ↗ [Natural Language Processing (NLP) /A Brief History of The Technical Evolution Of Language Models](../Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md#A%20Brief%20History%20of%20The%20Technical%20Evolution%20Of%20Language%20Models)
 > ↗ [LLM (Large Language Model) / LLM Milestone Papers](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
-> ↗ [Transformers (Encoder-Decoder)](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
+> ↗ [Transformers](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Large_language_models,_AI_boom_(2017%E2%80%93present)
 

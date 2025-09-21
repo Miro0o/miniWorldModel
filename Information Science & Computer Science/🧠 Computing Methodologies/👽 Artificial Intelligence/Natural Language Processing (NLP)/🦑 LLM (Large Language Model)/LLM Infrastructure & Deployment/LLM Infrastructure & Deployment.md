@@ -7,10 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
-
-
-
-## Intro
+↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
+- ↗ [LLM Application Dev](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev.md)
 
 
 ### LLM Deployment
@@ -64,6 +62,10 @@
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
 - [MNN-LLM](https://github.com/alibaba/MNN) -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
 - [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework.
+
+
+
+## Intro
 
 
 

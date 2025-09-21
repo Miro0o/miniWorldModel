@@ -63,6 +63,15 @@ https://www.fast.ai/
 https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 Neural networks | 3Blue1Brown
 - [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+- [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+	- 【【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章-哔哩哔哩】 https://b23.tv/rcO76mO
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+	- 【【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】-哔哩哔哩】 https://b23.tv/f0udg4P
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
 
 Michael Nielsen
 Neural Networks and Deep Learning
@@ -78,6 +87,7 @@ https://colah.github.io/
 ![computing.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
 ![|600](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.19.48.png)
+<small><a>https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0</a></small>
 
 Features in data (数据特征): such **connections** between **informations** that leads to some semantic interpretation. 🤔
 
@@ -87,10 +97,11 @@ Features in data (数据特征): such **connections** between **informations** t
 - **Deep Networks**: Very large complex (neural) networks, but made up of many often heterogeneous types of networks that try to simplify the inputs, so that we can use a relatively small dense network to perform final decisions.
 
 
-### The Evolution of Neural Networks
+### The Technical Evolution of Neural Networks
 ↗ [The Development History of AI / 👉 Big Data, Deep Learning, AGI (2005–2017)](../The%20Development%20History%20of%20AI.md#👉%20Big%20Data,%20Deep%20Learning,%20AGI%20(2005–2017))
 ↗ [The Development History of AI /👉 From NLP to AGI: Boom of LLM (2017~)](../The%20Development%20History%20of%20AI.md#👉%20From%20NLP%20to%20AGI:%20Boom%20of%20LLM%20(2017~))
-↗ [LLM (Large Language Model) / LLM Milestone Papers](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
+↗ [Natural Language Processing (NLP) /A Brief History of The Technical Evolution Of Language Models](../../Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md#A%20Brief%20History%20of%20The%20Technical%20Evolution%20Of%20Language%20Models)
+↗ [LLM (Large Language Model) /⭐ LLM Milestone Papers](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#⭐%20LLM%20Milestone%20Papers)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
@@ -111,30 +122,52 @@ Neural networks | 3Blue1Brown
 - [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
 
 
-### Basics & MLP (Multi Layer Perceptrons)
+### Neural Network Basics
 1. Linear Perceptrons
 	1. XOR Problems
 2. MLP (Multi-Layer Perceptron)
+#### MLP (Multi Layer Perceptrons)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
-fully connected, dense layer
+<small>fully connected, dense layer</small>
+
+#### Gradient Descent & Backpropagation
+https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+Neural networks | 3Blue1Brown
+- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+
+🎬 https://youtu.be/VMj-3S1tku0?si=GljktCky9TZOrXMF
+This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school. Links:
+- micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
+- jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
+- my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
+
 
 
 ### CNN (Convolution Neural Network)
 ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-- [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)
-- [YOLO (You Only Look Once)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/YOLO%20(You%20Only%20Look%20Once)/YOLO%20(You%20Only%20Look%20Once).md)
+- ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)
+- ↗ [YOLO (You Only Look Once)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/YOLO%20(You%20Only%20Look%20Once)/YOLO%20(You%20Only%20Look%20Once).md)
 - etc.
 
 
 ### RNN (Recurrent Neural Network)
 ↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
-- etc.
+#### LSTM (Long-Short Term Memories)
+↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
 
 
 ### Transformer & LLM
-↗ [Transformers (Encoder-Decoder)](2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
+↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+- ↗ [OpenAI ChatGPT](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+- ↗ [Google Gemini](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Google%20Gemini.md)
+- ↗ [Anthropic Claude](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Anthropic%20Claude.md)
+- ↗ [Meta LLama](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Meta%20LLama.md)
+- ↗ [DeepSeek](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/DeepSeek.md)
+- ↗ [xAI Grok](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/xAI%20Grok.md)
 
 
 

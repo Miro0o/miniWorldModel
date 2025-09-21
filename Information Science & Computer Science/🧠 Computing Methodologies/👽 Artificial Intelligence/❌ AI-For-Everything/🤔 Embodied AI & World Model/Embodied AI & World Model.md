@@ -1,4 +1,4 @@
-# Embodied AI
+# Embodied AI & World Model
 
 [TOC]
 
@@ -32,6 +32,13 @@ Embodied AI（具身智能）入门的路径以及高质量信息的总结, 期�
     - HuggingFace LeRobot (Europe, check the Discord): [website](https://github.com/huggingface/lerobot)
     - K-scale labs (US, check the Discord): [website](https://kscale.dev/)
 
+https://www.worldlabs.ai/
+
+https://lumalabs.ai/genie?view=create
+
+https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
+We introduce HunyuanWorld-Voyager, a novel video diffusion framework that generates world-consistent 3D point-cloud sequences from a single image with user-defined camera path. Voyager can generate 3D-consistent scene videos for world exploration following custom camera trajectories. It can also generate aligned depth and RGB video for efficient and direct 3D reconstruction.
+
 
 
 ## Intro
@@ -39,3 +46,10 @@ Embodied AI（具身智能）入门的路径以及高质量信息的总结, 期�
 
 
 ## Ref
+[Generating Biger and Better Worlds | World Lab]: https://www.worldlabs.ai/blog/bigger-better-worlds
+- Today we're sharing an update on our quest to push the frontier of spatial intelligence and generate persistent, navigable, and controllable 3D worlds. We are also introducing Marble, a limited access beta preview of our model today at [marble.worldlabs.ai](https://marble.worldlabs.ai/), where users can view and create 3D worlds.
+- Given an image or text prompt, our model generates a 3D world that you can explore for as long as you wish — no time limits, no morphing, no inconsistency. Compared to our [previous results](https://www.worldlabs.ai/blog/generating-worlds), our generated worlds are bigger, more stylistically diverse, and have cleaner 3D geometry.
+- Marble makes our model available for users to start viewing and building worlds today. Enthusiasts and builders can export generated worlds as Gaussian splats and use them in downstream projects. This is particularly easy to do with our open-source rendering library [Spark](https://sparkjs.dev/) which seamlessly integrates Gaussian splats into Three.js for building web-based 3D experiences, and renders efficiently on desktops, laptops, mobile devices, and VR headsets.
+- Our model's consistency and style adherence now make it possible to build out large worlds by composing individual generations, as shown in the banner video above and the examples at the end of this post.
+
+[Genie 3: A new frontier for world models 5 August 2025 Jack Parker-Holder and Shlomi Fruchter]: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/

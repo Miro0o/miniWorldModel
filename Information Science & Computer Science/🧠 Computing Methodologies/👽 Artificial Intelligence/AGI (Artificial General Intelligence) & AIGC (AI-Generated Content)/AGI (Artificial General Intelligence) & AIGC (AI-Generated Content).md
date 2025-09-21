@@ -27,6 +27,20 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 > 欢迎来到《通往AGI之路》的知识空间页面！这里旨在提供一个全面系统、易于理解的AI学习路径，帮助您了解AI的从概念到应用等各方面知识，更重要的是希望引发您思考：「我可以用AI做什么，帮助自己更强大」。​
 
 
+### Fields Insights
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-innovation-revolution-powered-by-ai
+The next innovation revolution—powered by AI
+June 20, 2025 | Article
+
+https://youtu.be/yoycgOMq1tI?si=lpmhhCLRP87k00fj
+The $10 Trillion AI Revolution: Why It’s Bigger Than the Industrial Revolution | Sequoia Capital
+
+https://www.noemamag.com/ai-and-the-limits-of-language/
+AI And The Limits Of Language
+An artificial intelligence system trained on words and sentences alone will never approximate human understanding.
+By [Jacob Browning](https://www.noemamag.com/author/jacobbrowning/) and [Yann LeCun](https://www.noemamag.com/author/yann-lecun/)
+
+
 
 ## Intro
 ### AGI (Artificial General Intelligence)

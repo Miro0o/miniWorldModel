@@ -18,7 +18,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 
 🏆 Our goal is to create a super-intelligent agent that can solve any given task!
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240602210117.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240602210117.png)
 <small>workflow of XAgent</small>
 
 

@@ -34,6 +34,10 @@ We borrow inspirations from many open resources like [OpenAI CookBook](https://
 
 
 ## Intro
+### Model Inference
+
+
+### Prompt Engineering
 > 🔗 https://www.promptingguide.ai
 
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
@@ -104,16 +108,6 @@ Solution:
 ```
 
 For a variety of applications, basic prompt engineering of a very large LLM can deliver ‘good enough’ accuracy. It provides an economical adaptation method because it is fast and doesn’t involve large amounts of computing power. The downside is that it’s simply not accurate or robust enough for use cases additional background knowledge is required.
-
-
-
-## Advanced Prompting Techniques
-### Train-of-Thought (ToT)
-↗ [CoT (Chain-of-Thought)](CoT%20(Chain-of-Thought).md)
-
-
-### Retrieval Augmented Generation (RAG)
-↗ [RAG (Retrieval Augmented Generation)](RAG%20(Retrieval%20Augmented%20Generation).md)
 
 
 

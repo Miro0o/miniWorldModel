@@ -6,6 +6,33 @@
 
 ## Res
 ### Related Topics
+↗ [LLM (Large Language Model)](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+
+### Other Resources
+🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+**On the Biology of a Large Language Model | Anthropic**
+- We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
+- In this paper, we focus on applying attribution graphs to study a particular language model – Claude 3.5 Haiku, released in October 2024, which serves as Anthropic’s lightweight production model as of this writing. We investigate a wide range of phenomena. Many of these have been explored before (see [§ 16 Related Work](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#related-work)), but our methods are able to offer additional insight, in the context of a frontier model:
+	- [Introductory Example: Multi-step Reasoning.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing) We present a simple example where the model performs “two-hop” reasoning “in its head” to identify that “the capital of the state containing Dallas” is “Austin.” We can see and manipulate an internal step where the model represents “Texas”.
+	- [Planning in Poems.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-poems) We discover that the model plans its outputs ahead of time when writing lines of poetry. Before beginning to write each line, the model identifies potential rhyming words that could appear at the end. These preselected rhyming options then shape how the model constructs the entire line.
+	- [Multilingual Circuits.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-multilingual) We find the model uses a mixture of language-specific and abstract, language-independent circuits. The language-independent circuits are more prominent in Claude 3.5 Haiku than in a smaller, less capable model.
+	- [Addition.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-addition) We highlight cases where the same addition circuitry generalizes between very different contexts.
+	- [Medical](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-medical) [Diagnoses](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-medical). We show an example in which the model identifies candidate diagnoses based on reported symptoms, and uses these to inform follow-up questions about additional symptoms that could corroborate the diagnosis – all “in its head,” without writing down its steps.
+	- [Entity Recognition and Hallucinations.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-hallucinations) We uncover circuit mechanisms that allow the model to distinguish between familiar and unfamiliar entities, which determine whether it elects to answer a factual question or profess ignorance. “Misfires” of this circuit can cause hallucinations.
+	- [Refusal of Harmful Requests.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-refusals) We find evidence that the model constructs a general-purpose “harmful requests” feature during finetuning, aggregated from features representing specific harmful requests learned during pretraining.
+	- [An Analysis of a Jailbreak.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-jailbreak) We investigate an attack which works by first tricking the model into starting to give dangerous instructions “without realizing it,” after which it continues to do so due to pressure to adhere to syntactic and grammatical rules.
+	- [Chain-of-thought Faithfulness.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-cot) We explore the faithfulness of chain-of-thought reasoning to the model’s actual mechanisms. We are able to distinguish between cases where the model genuinely performs the steps it says it is performing, cases where it makes up its reasoning without regard for truth, and cases where it works backwards from a human-provided clue so that its “reasoning” will end up at the human-suggested answer.
+	- [A Model with a Hidden Goal.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-misaligned) We also apply our method to a variant of the model that has been finetuned to pursue a secret goal: exploiting “bugs” in its training process. While the model avoids revealing its goal when asked, our method identifies mechanisms involved in pursuing the goal. Interestingly, these mechanisms are embedded within the model’s representation of its “Assistant” persona.
+- ![](../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.32.17.png)
+- ![](../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.37.17.png)
+- ![](../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.40.26.png)
+- ![](../../../../Assets/Pics/Screenshot%202025-09-19%20at%2022.00.57.png)
+	- The graph indicates that the replacement model does in fact perform “multi-hop reasoning” – that is, its decision to say Austin hinges on a chain of several intermediate computational steps (Dallas → Texas, and Texas + capital → Austin). We stress that this graph simplifies the true mechanisms considerably, and encourage the reader to interact with the [more comprehensive visualization](https://transformer-circuits.pub/2025/attribution-graphs/static_js/attribution_graphs/index.html?slug=capital-state-dallas) to appreciate the underlying complexity.
+
+https://transformer-circuits.pub/2025/attribution-graphs/methods.html
+**Circuit Tracing: Revealing Computational Graphs in Language Models | Anthropic**
+- We introduce a method to uncover mechanisms underlying behaviors of language models. We produce graph descriptions of the model’s computation on prompts of interest by tracing individual computational steps in a “replacement model”. This replacement model substitutes a more interpretable component (here, a “cross-layer transcoder”) for parts of the underlying model (here, the multi-layer perceptrons) that it is trained to approximate. We develop a suite of visualization and validation tools we use to investigate these “attribution graphs” supporting simple behaviors of an 18-layer language model, and lay the groundwork for a [companion paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) applying these methods to a frontier model, Claude 3.5 Haiku.
 
 
 
@@ -14,15 +41,17 @@
 
 
 ## 👉 Statistical Machine Learning Explainability
+↗ [Statistical Learning Theory](../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 
 
 
 ## 👉 Traditional Neural Networks Explainability
+↗ [Deep Learning (Neural Networks)](../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 
 
 ## 👉 LLM (Large Language Model) Explainability
-### LLM Explainability Methods
+### LLM Explainability Methodologies
 > Gemini 2.5 Flash, Aug.30.2025
 #### Post-Hoc Explanations
 Post-hoc explanation methods are techniques used to provide transparency for a model _after_ it has made a prediction, without altering its internal architecture. These methods are often "model-agnostic," meaning they can be applied to any black box model.  

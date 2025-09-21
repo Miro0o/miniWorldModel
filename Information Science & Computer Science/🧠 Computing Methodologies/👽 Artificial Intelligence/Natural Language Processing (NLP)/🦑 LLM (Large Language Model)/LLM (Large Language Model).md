@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-- ↗ [Transformers (Encoder-Decoder)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
@@ -20,6 +20,7 @@ LLM & Academics 🧑‍🎓
 - ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
 
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
+↗ [XAI (AI Explainable & Interpretable)](../../XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
 
 
 ### Learning Resource
@@ -99,7 +100,7 @@ https://github.com/Shubhamsaboo/awesome-llm-apps
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 
 ---
-https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 **On the Biology of a Large Language Model | Anthropic**
 We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
 #### Tutorials & Books
@@ -131,6 +132,11 @@ https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-book
 - [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
 - [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
 - [The Chinese Book for Large Language Models](http://aibox.ruc.edu.cn/zws/index.htm) - An Introductory LLM Textbook Based on [_A Survey of Large Language Models_](https://arxiv.org/abs/2303.18223).
+
+https://diffusion.csail.mit.edu/
+Introduction to Flow Matching and Diffusion Models
+MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations
+- Diffusion and flow-based models have become the state of the art for generative AI across a wide range of data modalities, including images, videos, shapes, molecules, music, and more! This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields. This course is ideal for students who want to develop a principled understanding of the theory and practice of generative AI.
 #### Videos
 https://youtu.be/1il-s4mgNdI?si=DxlD_98ITLZsnCIw
 What does it mean for computers to understand language? | LM1
@@ -168,6 +174,8 @@ Hamel Husain
 Jason Liu
 
 Dave Ebbelaar
+#### Blogs & Communities
+https://www.alignmentforum.org/
 
 
 ### Papers & Researches
@@ -216,21 +224,17 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 
 ### Other Resources
-🚧 https://github.com/vllm-project/vllm
-https://docs.vllm.ai/en/stable/
-vLLM is a fast and easy-to-use library for LLM inference and serving.
+🎬 https://youtu.be/OFS90-FX6pg?si=hlsJj4DUWzGrZ_V-
+The Origin of ChatGPT | Art of the Problem
+I follow the 35 year journey that led to the explosion of Large Language Models. From Jordan's pioneering work in 1986 to today's GPT-4, this documentary traces how AI learned to talk. Featuring insights from AI pioneers including Chomsky, Hofstadter, Hinton, and LeCun, exploring the revolutionary concepts that made ChatGPT possible: transformer architecture, attention mechanism, next-token prediction, and emergent capabilities. Next video following open ai's o1 model My script, references & visualizations here: https://docs.google.com/document/d/1s7FNPoKPW9y3EhvzNgexJaEG2pP4Fx_rmI4askoKZPA/edit?usp=sharing
 
-https://diffusion.csail.mit.edu/
-Introduction to Flow Matching and Diffusion Models
-MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations
-
-Diffusion and flow-based models have become the state of the art for generative AI across a wide range of data modalities, including images, videos, shapes, molecules, music, and more! This course aims to build up the mathematical framework underlying these models from first principles. At the end of the class, students will have built a toy image diffusion model from scratch, and along the way, will have gained hands-on experience with the mathematical toolbox of stochastic differential equations that is useful in many other fields. This course is ideal for students who want to develop a principled understanding of the theory and practice of generative AI.
+🎬 (1hr Talk) Intro to Large Language Models | Andrej Karpathy
+https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
 
 
 
 ## Intro: LLM Principles & Utilization
 [Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
-
 
 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 - [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
@@ -240,25 +244,39 @@ Diffusion and flow-based models have become the state of the art for generative 
 - [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
 - [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
 
-
-### Neural Networks & Deep Learning
-↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-↗ [Neural Network Models](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-
-![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
-<small>
-Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
+↗ [Natural Language Processing (NLP) /Intro](../Natural%20Language%20Processing%20(NLP).md#Intro)
 
 
-### LLM Applications & LLM-Driven Automation
-↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+### LLM Backgrounds
+#### Scaling Laws
+
+#### Emergent Abilities
+
+
+### ⭐ LLM Modeling
+↗ [LLM Models Guide & Leaderboard](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
+
+![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
+<small><a>https://poloclub.github.io/transformer-explainer/</a></small>
+#### Tokenization & Embedding
+> 🔗 https://stanford-cs324.github.io/winter2022/lectures/modeling/#model-architecture
+
+
+#### LLM Model Architectures
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+- Tokenization
+- Attention
+- Probability
+
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation
 ↗ [LLM Training, Utilization, and Evaluation](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
-- ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/Pre-Training/Pre-Training.md)
+- ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/Pre-Training/Pre-Training.md) (In-Weight Learning)
 - ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
-- ↗ [LLM Utilization & Prompt Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
+- ↗ [LLM Utilization & Prompt Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md) (In-Context Learning)
 	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/CoT%20(Chain-of-Thought).md)
 	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
@@ -269,6 +287,16 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
+### LLM Applications & LLM-Driven Automation
+↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+#### Agentic LLM and LLM OS
+↗ [LLM Agents & Agentical LLM](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
+↗ [LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20OS.md)
+#### Artificial General Intelligence?
+↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](../../AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
+
+
+
 ## The Technical Evolution of LLM & Future Directions
 > ↗ [LLM Models Guide & Leaderboard](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
 
@@ -276,7 +304,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 <small>Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. <br> <a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
 
 
-### LLM Milestone Papers
+### ⭐ LLM Milestone Papers
 > https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#milestone-papers (2025.01)
 
 |  Date   |       keywords       |      Institute       | Paper                                                                                                                                                                                                              |
@@ -345,21 +373,17 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 ### Technical Evolution of Specific LLM Model Series
 #### GPT-series Model
+↗ [OpenAI ChatGPT](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+
 > Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
+#### Gemini-series Model
+↗ [Google Gemini](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Google%20Gemini.md)
 #### LLaMA-series Model
+↗ [Meta LLama](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Meta%20LLama.md)
 #### Qwen-series (通义千问) Model
+↗ [Alibaba Qwen](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/Alibaba%20Qwen.md)
 #### DeepSeek-series Model
-
-
-
-## LLM Backgrounds
-### Scaling Laws
-
-
-### Emergent Abilities
-
-
-
+↗ [DeepSeek](🪜%20LLM%20Models%20Guide%20&%20Leaderboard/DeepSeek.md)
 
 
 
@@ -395,3 +419,5 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 
 QuantumBlack AI by McKinsey: ["The next innovation revolution - powered by AI"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-innovation-revolution-powered-by-ai)
 Gruber & Tal: [The Market Opportunity Navigator](https://wheretoplay.co/the-navigator/) , [PDF worksheet](https://drive.google.com/file/d/1eBUlii5EfLJM0Fc9JRk3Iy7DR6K0eykS/view?usp=share_link)
+
+[(1hr Talk) Intro to Large Language Models | Andrej Karpathy]: https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z

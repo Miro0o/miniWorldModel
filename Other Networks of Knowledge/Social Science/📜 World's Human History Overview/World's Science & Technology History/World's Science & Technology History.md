@@ -83,14 +83,35 @@ wikipedia
 
 
 ## Science & Technology Since European Renaissance: Scientific Revolution
+> 🔗 https://en.wikipedia.org/wiki/Scientific_Revolution#Mechanical_devices
+
+
+### First Industrial Revolution: Mechanization
 
 
 
 ## Science & Technology: 19th - 20th Century
+### Second Industrial Revolution: Electricity
+
+
+### Third Industrial Revolution: Information
+↗ [Electronics & Information Technologies Business Fields Research](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [History of Computing](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
+↗ [History of Computer Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
 
 
 
 ## Science & Technology: 21th Century
+### Fourth Industrial Revolution: Industry 4.0
+↗ [Industry 4.0](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
+#### LLM, AI, and AGI
+↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/The%20Development%20History%20of%20AI.md)
+↗ [LLM (Large Language Model)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
+
+![](../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
+<small>
+Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
 
 
 

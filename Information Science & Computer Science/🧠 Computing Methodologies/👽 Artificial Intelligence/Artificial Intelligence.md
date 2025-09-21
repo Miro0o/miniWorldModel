@@ -47,6 +47,8 @@ https://www.modelscope.cn/my/overview
 📂 https://github.com/roboflow/notebooks/tree/main
 Roboflow empowers developers to build their own computer vision applications, no matter their skillset or experience. We provide all of the tools you need to go from an idea to a robust computer vision model deployed in production.
 
+https://www.alignmentforum.org/
+
 
 ### Others
 [AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/) 

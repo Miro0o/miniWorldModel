@@ -10,6 +10,50 @@
 ↗ [Identity & Access Management (IAM)](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 
 
+### Wordlists
+https://github.com/six2dez/OneListForAll?tab=readme-ov-file
+
+https://github.com/kkrypt0nn/wordlists
+
+https://github.com/trickest/wordlists
+
+
+### Other Resources
+https://github.com/n0kovo/awesome-password-cracking
+This is a curated list of awesome tools, research, papers and other projects related to password cracking and password security by [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo/?l).
+- [Books](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#books)
+	- [Hash Crack: Password Cracking Manual (v3)](https://www.amazon.com/-/en/Joshua-Picolet/dp/1793458618) - Password Cracking Manual v3 is an expanded reference guide for password recovery (cracking) methods, tools, and analysis techniques.
+- [Cloud](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#cloud)
+- [Conversion](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#conversion)
+- [Hashcat](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#hashcat)
+    - [Automation](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#automation)
+    - [Distributed cracking](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#distributed-cracking)
+    - [Rules](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#rules)
+    - [Rule tools](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#rule-tools)
+    - [Web interfaces](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#web-interfaces)
+- [John the Ripper](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#john-the-ripper)
+- [Misc](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#misc)
+    - [Notable People](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#notable-people)
+- [Websites](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#websites)
+    - [Communities](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#communities)
+    - [Lookup services](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#lookup-services)
+- [Wordlist tools](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#wordlist-tools)
+    - [Analysis](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#analysis)
+    - [Generation/Manipulation](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#generationmanipulation)
+- [Wordlists](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#wordlists)
+    - [Laguage specific](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#laguage-specific)
+    - [Other](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#other)
+- [Specific file formats](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#specific-file-formats)
+    - [PDF](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#pdf)
+    - [JKS](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#jks)
+    - [ZIP](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#zip)
+- [Artificial Intelligence](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#artificial-intelligence)
+- [Research](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#research)
+    - [Articles and Blog Posts](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#articles-and-blog-posts)
+    - [Papers](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#papers)
+    - [Talks](https://github.com/n0kovo/awesome-password-cracking?tab=readme-ov-file#talks)
+
+
 
 ## Intro
 ### Security Account Manager (SAM)

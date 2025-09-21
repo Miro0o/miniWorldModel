@@ -1,4 +1,4 @@
-# LLM Adaptation & Alignment Tuning
+# BPE (Byte Pair Encoding)
 
 [TOC]
 
@@ -6,9 +6,6 @@
 
 ## Res
 ### Related Topics
-
-
-### Other Resources
 
 
 

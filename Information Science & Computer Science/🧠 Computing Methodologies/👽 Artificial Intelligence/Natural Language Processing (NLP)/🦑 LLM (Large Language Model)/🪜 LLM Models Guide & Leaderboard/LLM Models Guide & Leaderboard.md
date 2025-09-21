@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 
 ### Leaderboards
@@ -13,17 +14,27 @@ https://lmarena.ai/
 Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots
 - Chatbot Arena is an open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/) and [LMArena](https://blog.lmarena.ai/about/). We open-source the [FastChat](https://github.com/lm-sys/FastChat) project at GitHub and release open datasets. We always welcome contributions from the community. If you're interested in collaboration, we'd love to hear from you!
 
-https://www.vellum.ai/llm-leaderboard
-
 https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
 Open LLM Leaderboard
 
 https://artificialanalysis.ai/leaderboards/models
 Comparison and ranking the performance of over 30 AI models (LLMs) across key metrics including quality, price, performance and speed (output speed - tokens per second & latency - TTFT), context window & others. For more details including relating to our methodology, see our [FAQs.](https://artificialanalysis.ai/faq)
 
+https://tatsu-lab.github.io/alpaca_eval/
+
+https://www.vellum.ai/llm-leaderboard
+
+https://livebench.ai/#/
+
+https://llm-stats.com/
+
+https://scale.com/leaderboard
+
 https://gorilla.cs.berkeley.edu/leaderboard.html
 BFCL: From Tool Use to Agentic Evaluation of Large Language Models
 The Berkeley Function Calling Leaderboard (BFCL) V4 evaluates the LLM's ability to call functions (aka tools) accurately. This leaderboard consists of real-world data and will be updated periodically. For more information on the evaluation dataset and methodology, please refer to our blogs: [BFCL-v1](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html) introducing AST as an evaluation metric, [BFCL-v2](https://gorilla.cs.berkeley.edu/blogs/12_bfcl_v2_live.html) introducing enterprise and OSS-contributed functions, [BFCL-v3](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html) introducing multi-turn interactions, and [BFCL-v4](https://gorilla.cs.berkeley.edu/blogs/15_bfcl_v4_web_search.html) introducing holistic agentic evaluation. Checkout [code and data](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard).
+
+https://aider.chat/docs/leaderboards/
 
 
 
@@ -115,96 +126,502 @@ The Berkeley Function Calling Leaderboard (BFCL) V4 evaluates the LLM's ability 
 
 
 ## A list of open LLM models
-> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#open-llm (2025.01)
+> 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#open-llm (2025.09)
 
-- Meta
-    - [Llama 3.2-1|3|11|90B](https://llama.meta.com/)
-    - [Llama 3.1-8|70|405B](https://llama.meta.com/)
-    - [Llama 3-8|70B](https://llama.meta.com/llama3/)
-    - [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
-    - [Llama 1-7|13|33|65B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
-    - [OPT-1.3|6.7|13|30|66B](https://arxiv.org/abs/2205.01068)
-- Mistral AI
-    - [Codestral-7|22B](https://mistral.ai/news/codestral/)
-    - [Mistral-7B](https://mistral.ai/news/announcing-mistral-7b/)
-    - [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
-    - [Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b/)
-- Google
-    - [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/)
-    - [Gemma-2|7B](https://blog.google/technology/developers/gemma-open-models/)
-    - [RecurrentGemma-2B](https://github.com/google-deepmind/recurrentgemma)
-    - [T5](https://arxiv.org/abs/1910.10683)
-- Apple
-    - [OpenELM-1.1|3B](https://huggingface.co/apple/OpenELM)
-- Microsoft
-    - [Phi1-1.3B](https://huggingface.co/microsoft/phi-1)
-    - [Phi2-2.7B](https://huggingface.co/microsoft/phi-2)
-    - [Phi3-3.8|7|14B](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
-- AllenAI
-    - [OLMo-7B](https://huggingface.co/collections/allenai/olmo-suite-65aeaae8fe5b6b2122b46778)
-- xAI
-    - [Grok-1-314B-MoE](https://x.ai/blog/grok-os)
-- Cohere
-    - [Command R-35B](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
-- DeepSeek
-    - [DeepSeek-Math-7B](https://huggingface.co/collections/deepseek-ai/deepseek-math-65f2962739da11599e441681)
-    - [DeepSeek-Coder-1.3|6.7|7|33B](https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4)
-    - [DeepSeek-VL-1.3|7B](https://huggingface.co/collections/deepseek-ai/deepseek-vl-65f295948133d9cf92b706d3)
-    - [DeepSeek-MoE-16B](https://huggingface.co/collections/deepseek-ai/deepseek-moe-65f29679f5cf26fe063686bf)
-    - [DeepSeek-v2-236B-MoE](https://arxiv.org/abs/2405.04434)
-    - [DeepSeek-Coder-v2-16|236B-MOE](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
-- Alibaba
-    - [Qwen-1.8B|7B|14B|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144)
-    - [Qwen1.5-0.5B|1.8B|4B|7B|14B|32B|72B|110B|MoE-A2.7B](https://qwenlm.github.io/blog/qwen1.5/)
-    - [Qwen2-0.5B|1.5B|7B|57B-A14B-MoE|72B](https://qwenlm.github.io/blog/qwen2)
-    - [Qwen2.5-0.5B|1.5B|3B|7B|14B|32B|72B](https://qwenlm.github.io/blog/qwen2.5/)
-    - [CodeQwen1.5-7B](https://qwenlm.github.io/blog/codeqwen1.5/)
-    - [Qwen2.5-Coder-1.5B|7B|32B](https://qwenlm.github.io/blog/qwen2.5-coder/)
-    - [Qwen2-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2-math/)
-    - [Qwen2.5-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2.5-math/)
-    - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
-    - [Qwen2-VL-2B|7B|72B](https://qwenlm.github.io/blog/qwen2-vl/)
-    - [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
-- 01-ai
-    - [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f)
-    - [Yi1.5-6|9|34B](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
-    - [Yi-VL-6B|34B](https://huggingface.co/collections/01-ai/yi-vl-663f557228538eae745769f3)
-- Baichuan
-    - [Baichuan-7|13B](https://huggingface.co/baichuan-inc)
-    - [Baichuan2-7|13B](https://huggingface.co/baichuan-inc)
-- Nvidia
-    - [Nemotron-4-340B](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct)
-- BLOOM
-    - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz)
-- Zhipu AI
-    - [GLM-2|6|10|13|70B](https://huggingface.co/THUDM)
-    - [CogVLM2-19B](https://huggingface.co/collections/THUDM/cogvlm2-6645f36a29948b67dc4eef75)
-- OpenBMB
-    - [MiniCPM-2B](https://huggingface.co/collections/openbmb/minicpm-2b-65d48bf958302b9fd25b698f)
-    - [OmniLLM-12B](https://huggingface.co/openbmb/OmniLMM-12B)
-    - [VisCPM-10B](https://huggingface.co/openbmb/VisCPM-Chat)
-    - [CPM-Bee-1|2|5|10B](https://huggingface.co/collections/openbmb/cpm-bee-65d491cc84fc93350d789361)
-- RWKV Foundation
-    - [RWKV-v4|5|6](https://huggingface.co/RWKV)
-- ElutherAI
-    - [Pythia-1|1.4|2.8|6.9|12B](https://github.com/EleutherAI/pythia)
-- Stability AI
-    - [StableLM-3B](https://huggingface.co/stabilityai/stablelm-3b-4e1t)
-    - [StableLM-v2-1.6B](https://huggingface.co/stabilityai/stablelm-2-1_6b)
-    - [StableLM-v2-12B](https://huggingface.co/stabilityai/stablelm-2-12b)
-    - [StableCode-3B](https://huggingface.co/collections/stabilityai/stable-code-64f9dfb4ebc8a1be0a3f7650)
-- BigCode
-    - [StarCoder-1|3|7B](https://huggingface.co/collections/bigcode/%E2%AD%90-starcoder-64f9bd5740eb5daaeb81dbec)
-    - [StarCoder2-3|7|15B](https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a)
-- DataBricks
-    - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
-    - [DBRX-132B-MoE](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
-- Shanghai AI Laboratory
-    - [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c)
-    - [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
-    - [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
-    - [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
+DeepSeek
+- [DeepSeek-Math-7B](https://huggingface.co/collections/deepseek-ai/deepseek-math-65f2962739da11599e441681)
+- [DeepSeek-Coder-1.3|6.7|7|33B](https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4)
+- [DeepSeek-VL-1.3|7B](https://huggingface.co/collections/deepseek-ai/deepseek-vl-65f295948133d9cf92b706d3)
+- [DeepSeek-MoE-16B](https://huggingface.co/collections/deepseek-ai/deepseek-moe-65f29679f5cf26fe063686bf)
+- [DeepSeek-v2-236B-MoE](https://arxiv.org/abs/2405.04434)
+- [DeepSeek-Coder-v2-16|236B-MOE](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+- [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5)
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
+Alibaba
+- [Qwen-1.8B|7B|14B|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144)
+- [Qwen1.5-0.5B|1.8B|4B|7B|14B|32B|72B|110B|MoE-A2.7B](https://qwenlm.github.io/blog/qwen1.5/)
+- [Qwen2-0.5B|1.5B|7B|57B-A14B-MoE|72B](https://qwenlm.github.io/blog/qwen2)
+- [Qwen2.5-0.5B|1.5B|3B|7B|14B|32B|72B](https://qwenlm.github.io/blog/qwen2.5/)
+- [CodeQwen1.5-7B](https://qwenlm.github.io/blog/codeqwen1.5/)
+- [Qwen2.5-Coder-1.5B|7B|32B](https://qwenlm.github.io/blog/qwen2.5-coder/)
+- [Qwen2-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2-math/)
+- [Qwen2.5-Math-1.5B|7B|72B](https://qwenlm.github.io/blog/qwen2.5-math/)
+- [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
+- [Qwen2-VL-2B|7B|72B](https://qwenlm.github.io/blog/qwen2-vl/)
+- [Qwen2-Audio-7B](https://qwenlm.github.io/blog/qwen2-audio/)
+- [Qwen2.5-VL-3|7|72B](https://qwenlm.github.io/blog/qwen2.5-vl/)
+- [Qwen2.5-1M-7|14B](https://qwenlm.github.io/blog/qwen2.5-1m/)
+
+Meta
+- [Llama 3.2-1|3|11|90B](https://llama.meta.com/)
+- [Llama 3.1-8|70|405B](https://llama.meta.com/)
+- [Llama 3-8|70B](https://llama.meta.com/llama3/)
+- [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
+- [Llama 1-7|13|33|65B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [OPT-1.3|6.7|13|30|66B](https://arxiv.org/abs/2205.01068)
+
+Mistral AI
+- [Codestral-7|22B](https://mistral.ai/news/codestral/)
+- [Mistral-7B](https://mistral.ai/news/announcing-mistral-7b/)
+- [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
+- [Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b/)
+
+Google
+- [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/)
+- [Gemma-2|7B](https://blog.google/technology/developers/gemma-open-models/)
+- [RecurrentGemma-2B](https://github.com/google-deepmind/recurrentgemma)
+- [T5](https://arxiv.org/abs/1910.10683)
+
+Apple
+- [OpenELM-1.1|3B](https://huggingface.co/apple/OpenELM)
+
+Microsoft
+- [Phi1-1.3B](https://huggingface.co/microsoft/phi-1)
+- [Phi2-2.7B](https://huggingface.co/microsoft/phi-2)
+- [Phi3-3.8|7|14B](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
+
+AllenAI
+- [OLMo-7B](https://huggingface.co/collections/allenai/olmo-suite-65aeaae8fe5b6b2122b46778)
+
+xAI
+- [Grok-1-314B-MoE](https://x.ai/blog/grok-os)
+
+Cohere
+- [Command R-35B](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
+
+01-ai
+- [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f)
+- [Yi1.5-6|9|34B](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
+- [Yi-VL-6B|34B](https://huggingface.co/collections/01-ai/yi-vl-663f557228538eae745769f3)
+
+Baichuan
+- [Baichuan-7|13B](https://huggingface.co/baichuan-inc)
+- [Baichuan2-7|13B](https://huggingface.co/baichuan-inc)
+
+Nvidia
+- [Nemotron-4-340B](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct)
+
+BLOOM
+- [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz)
+
+Zhipu AI
+- [GLM-2|6|10|13|70B](https://huggingface.co/THUDM)
+- [CogVLM2-19B](https://huggingface.co/collections/THUDM/cogvlm2-6645f36a29948b67dc4eef75)
+
+OpenBMB
+- [MiniCPM-2B](https://huggingface.co/collections/openbmb/minicpm-2b-65d48bf958302b9fd25b698f)
+- [OmniLLM-12B](https://huggingface.co/openbmb/OmniLMM-12B)
+- [VisCPM-10B](https://huggingface.co/openbmb/VisCPM-Chat)
+- [CPM-Bee-1|2|5|10B](https://huggingface.co/collections/openbmb/cpm-bee-65d491cc84fc93350d789361)
+
+RWKV Foundation
+- [RWKV-v4|5|6](https://huggingface.co/RWKV)minicpm-2b-65d48bf958302b9fd25b698f)
+
+ElutherAI
+- [Pythia-1|1.4|2.8|6.9|12B](https://github.com/EleutherAI/pythia)
+
+Stability AI
+- [StableLM-3B](https://huggingface.co/stabilityai/stablelm-3b-4e1t)
+- [StableLM-v2-1.6B](https://huggingface.co/stabilityai/stablelm-2-1_6b)
+- [StableLM-v2-12B](https://huggingface.co/stabilityai/stablelm-2-12b)
+- [StableCode-3B](https://huggingface.co/collections/stabilityai/stable-code-64f9dfb4ebc8a1be0a3f7650)
+
+BigCode
+- [StarCoder-1|3|7B](https://huggingface.co/collections/bigcode/%E2%AD%90-starcoder-64f9bd5740eb5daaeb81dbec)
+- [StarCoder2-3|7|15B](https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a)
+
+DataBricks
+- [MPT-7B](https://www.databricks.com/blog/mpt-7b)
+- [DBRX-132B-MoE](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+
+Shanghai AI Laboratory
+- [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c)
+- [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
+- [InternLM-XComposer2-1.8|7B](https://huggingface.co/collections/internlm/internlm-xcomposer2-65b3706bf5d76208998e7477)
+- [InternVL-2|6|14|26](https://huggingface.co/collections/OpenGVLab/internvl-65b92d6be81c86166ca0dde4)
+
+Moonshot AI
+- [Moonlight-A3B](https://huggingface.co/collections/moonshotai/moonlight-a3b-67f67b029cecfdce34f4dc23)
+- [Kimi-VL-A3B](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)
+- [Kimi-K2](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d)
+
+
+
+## LLM Data
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-data)
+
+> Reference: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
+
+- [IBM data-prep-kit](https://github.com/IBM/data-prep-kit) - Open-Source Toolkit for Efficient Unstructured Data Processing with Pre-built Modules and Local to Cluster Scalability.
+- [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+- [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
+- [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+
+## LLM Evaluation:
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-evaluation)
+
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
+- [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
+- [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+
+other evaluation frameworks
+
+- [](https://github.com/allenai/OLMo-Eval)
+- [](https://github.com/Psycoy/MixEval)
+- [](https://github.com/stanford-crfm/helm)
+- [](https://github.com/declare-lab/instruct-eval)
+- [](https://github.com/Giskard-AI/giskard)
+- [](https://www.langchain.com/langsmith)
+- [](https://github.com/explodinggradients/ragas)
+
+## LLM Training Frameworks
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-training-frameworks)
+
+- [Meta Lingua](https://github.com/facebookresearch/lingua) - a lean, efficient, and easy-to-hack codebase to research LLMs.
+- [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+- [nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
+- [torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training.
+
+other frameworks
+
+- [](https://github.com/microsoft/Megatron-DeepSpeed)
+- [](https://github.com/pytorch/torchtune)
+- [](https://github.com/alibaba/ROLL)
+- [](https://github.com/volcengine/verl)
+- [](https://github.com/NVIDIA/NeMo)
+- [](https://github.com/hpcaitech/ColossalAI)
+- [](https://github.com/OpenBMB/BMTrain)
+- [](https://github.com/tensorflow/mesh)
+- [](https://github.com/AI-Hypercomputer/maxtext)
+- [](https://github.com/EleutherAI/gpt-neox)
+- [](https://github.com/NVIDIA/TransformerEngine)
+- [](https://github.com/OpenRLHF/OpenRLHF)
+- [](https://huggingface.co/docs/trl/en/index)
+- [](https://github.com/unslothai/unsloth)
+- [](https://github.com/axolotl-ai-cloud/axolotl)
+
+## LLM Inference
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-inference)
+
+> Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
+
+- [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+- [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+
+other deployment tools
+
+- [](https://github.com/NVIDIA/FasterTransformer)
+- [](https://github.com/microsoft/MInference)
+- [](https://github.com/turboderp/exllama)
+- [](https://github.com/lm-sys/FastChat)
+- [](https://github.com/EricLBuehler/mistral.rs)
+- [](https://github.com/skypilot-org/skypilot)
+- [](https://haystack.deepset.ai/)
+- [](https://github.com/bentoml/OpenLLM)[](https://bentoml.com/)
+- [](https://github.com/microsoft/DeepSpeed-MII)
+- [](https://github.com/huggingface/text-embeddings-inference)
+- [](https://github.com/michaelfeil/infinity)
+- [](https://github.com/InternLM/lmdeploy)
+- [](https://github.com/linkedin/Liger-Kernel)
+- [](https://github.com/Lizonghang/prima.cpp)
+- [](https://github.com/xamey/deploy-llms-with-ansible)
+
+## LLM Applications
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-applications)
+
+> Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
+- [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
+- [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+
+more applications
+
+- [](https://mlflow.org/)
+    
+- [](https://github.com/Dicklesworthstone/swiss_army_llama)
+    
+- [](https://github.com/rogeriochaves/litechain)
+    
+- [](https://github.com/jackmpcollins/magentic)
+    
+- [](https://github.com/fuergaosi233/wechat-chatgpt)
+    
+- [](https://github.com/typpo/promptfoo)
+    
+- [](https://github.com/agenta-ai/agenta)
+    
+- [](https://github.com/serge-chat/serge)
+    
+- [](https://github.com/langroid/langroid)
+    
+- [](https://github.com/embedchain/embedchain)
+    
+- [](https://github.com/comet-ml/opik)
+    
+- [](https://github.com/intelligentnode/IntelliServer)
+    
+- [](https://github.com/chatchat-space/Langchain-Chatchat)
+    
+- [](https://github.com/leptonai/search_with_lepton)[](https://github.com/leptonai)
+    
+- [](https://github.com/robocorp/robocorp)
+    
+- [](https://studio.tune.app/)
+    
+- [](https://github.com/nilsherzig/LLocalSearch)
+    
+- [](https://github.com/Portkey-AI/gateway)
+    
+- [](https://github.com/talkdai/dialog)
+    
+- [](https://github.com/ngxson/wllama)
+    
+- [](https://github.com/gpustack/gpustack)
+    
+- [](https://github.com/alibaba/MNN)
+    
+- [](https://www.camel-ai.org/)
+    
+- [](https://github.com/reid41/QA-Pilot)
+    
+- [](https://github.com/reid41/shell-pilot)
+    
+- [](https://github.com/Mindinventory/MindSQL)
+    
+- [](https://github.com/langfuse/langfuse)
+    
+- [](https://github.com/SylphAI-Inc/AdalFlow)
+    
+- [](https://github.com/microsoft/guidance)
+    
+- [](https://github.com/evidentlyai/evidently)
+    
+- [](https://docs.chainlit.io/overview)
+    
+- [](https://www.guardrailsai.com/docs/)
+    
+- [](https://github.com/microsoft/semantic-kernel)
+    
+- [](https://github.com/hegelai/prompttools)
+    
+- [](https://github.com/normal-computing/outlines)
+    
+- [](https://github.com/promptslab/Promptify)
+    
+- [](https://scale.com/spellbook)
+    
+- [](https://promptperfect.jina.ai/prompts)
+    
+- [](https://wandb.ai/site/solutions/llmops)
+    
+- [](https://github.com/openai/evals)
+    
+- [](https://www.arthur.ai/get-started)
+    
+- [](https://lmql.ai/)
+    
+- [](https://github.com/lgrammel/modelfusion)
+    
+- [](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy)
+    
+- [](https://github.com/llm-ui-kit/llm-ui)
+    
+- [](https://www.wordware.ai/)
+    
+- [](https://github.com/WallarooLabs)
+    
+- [](https://github.com/langgenius/dify)
+    
+- [](https://github.com/LazyAGI/LazyLLM)
+    
+- [](https://github.com/memfreeme/memfree)
+    
+- [](https://github.com/Marker-Inc-Korea/AutoRAG)
+    
+- [](https://github.com/epsilla-cloud)
+    
+- [](https://phoenix.arize.com/)
+    
+
+- [](https://github.com/longevity-genie/just-chat)
+    
+- [](https://github.com/splx-ai/agentic-radar)
+    
+- [](https://github.com/langwatch/langwatch)
+    
+- [](https://www.tensorzero.com/)
+    
+
+## LLM Tutorials and Courses
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-tutorials-and-courses)
+
+- [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
+- [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
+- [Alexander Rush Series](https://rush-nlp.com/projects/) - high quality and educational materials you don't want to miss.
+- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
+- [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
+- [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Princeton: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+- [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
+- [A Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [minbpe](https://www.youtube.com/watch?v=zduSFxRajkE&t=1157s) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+- [femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer.
+- [Neurips2022-Foundational Robustness of Foundation Models](https://nips.cc/virtual/2022/tutorial/55796)
+- [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+ LLM / RL Algorithm Maps📚.
+
+## LLM Books
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-books)
+
+- [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM.
+- [BUILD GPT: HOW AI WORKS](https://www.amazon.com/dp/9152799727?ref_=cm_sw_r_cp_ud_dp_W3ZHCD6QWM3DPPC0ARTT_1) - explains how to code a Generative Pre-trained Transformer, or GPT, from scratch.
+- [Hands-On Large Language Models: Language Understanding and Generation](https://www.llm-book.com/) - Explore the world of Large Language Models with over 275 custom made figures in this illustrated guide!
+- [The Chinese Book for Large Language Models](http://aibox.ruc.edu.cn/zws/index.htm) - An Introductory LLM Textbook Based on [_A Survey of Large Language Models_](https://arxiv.org/abs/2303.18223).
+
+## Great thoughts about LLM
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#great-thoughts-about-llm)
+
+- [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt)
+- [A Stage Review of Instruction Tuning](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Why you should work on AI AGENTS!](https://www.youtube.com/watch?v=fqVLjtvWgq8)
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- [AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+- [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis)
+- [The Next Generation Of Large Language Models](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)
+- [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/)
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [Open Pretrained Transformers](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
+- [Scaling, emergence, and reasoning in large language models](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
+
+## Miscellaneous
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#miscellaneous)
+
+- [Emergent Mind](https://www.emergentmind.com/) - The latest AI news, curated & explained by GPT-4.
+- [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click.
+- [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
+- [500+ Best AI Tools](https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126)
+- [Cohere Summarize Beta](https://txt.cohere.ai/summarize-beta/) - Introducing Cohere Summarize Beta: A New Endpoint for Text Summarization
+- [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
+- [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI.
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - an experimental open-source application showcasing the capabilities of the GPT-4 language model.
+- [OpenAGI](https://github.com/agiresearch/OpenAGI) - When LLM Meets Domain Experts.
+- [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
+- [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
+- [AI For Developers](https://aifordevelopers.org/) - List of AI Tools and Agents for Developers
+
+## Contributing
+
+[](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#contributing)
+
+This is an active repository and your contributions are always welcome!
+
+I will keep some pull requests open if I'm not sure if they are awesome for LLM, you could vote for them by adding 👍 to them.
+
+---
+
+If you have any question about this opinionated list, do not hesitate to contact me [chengxin1998@stu.pku.edu.cn](mailto:chengxin1998@stu.pku.edu.cn).
+
+## About
+
+Awesome-LLM: a curated list of Large Language Model
+
+### Resources
+
+ [Readme](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#readme-ov-file)
+
+### License
+
+ [CC0-1.0 license](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#CC0-1.0-1-ov-file)
+
+### Contributing
+
+ [Contributing](https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#contributing-ov-file)
+
+ [Activity](https://github.com/Hannibal046/Awesome-LLM/activity)
+
+### Stars
+
+ [**25.1k** stars](https://github.com/Hannibal046/Awesome-LLM/stargazers)
+
+### Watchers
+
+ [**479** watching](https://github.com/Hannibal046/Awesome-LLM/watchers)
+
+### Forks
+
+ [**2.1k** forks](https://github.com/Hannibal046/Awesome-LLM/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHannibal046%2FAwesome-LLM&report=Hannibal046+%28user%29)
+
+## [Releases](https://github.com/Hannibal046/Awesome-LLM/releases)
+
+No releases published
+
+## [Packages](https://github.com/users/Hannibal046/packages?repo_name=Awesome-LLM)
+
+No packages published  
+
+## [Contributors129](https://github.com/Hannibal046/Awesome-LLM/graphs/contributors)
+
+- [![@Hannibal046](https://avatars.githubusercontent.com/u/38466901?s=64&v=4)](https://github.com/Hannibal046)
+- [![@zhimin-z](https://avatars.githubusercontent.com/u/8592144?s=64&v=4)](https://github.com/zhimin-z)
+- [![@AaronWhy](https://avatars.githubusercontent.com/u/30172609?s=64&v=4)](https://github.com/AaronWhy)
+- [![@Sumedhn97](https://avatars.githubusercontent.com/u/110320693?s=64&v=4)](https://github.com/Sumedhn97)
+- [![@patrick-tssn](https://avatars.githubusercontent.com/u/38104831?s=64&v=4)](https://github.com/patrick-tssn)
+- [![@SinclairCoder](https://avatars.githubusercontent.com/u/46218454?s=64&v=4)](https://github.com/SinclairCoder)
+- [![@sinwang20](https://avatars.githubusercontent.com/u/106879815?s=64&v=4)](https://github.com/sinwang20)
+- [![@cedricvidal](https://avatars.githubusercontent.com/u/33618?s=64&v=4)](https://github.com/cedricvidal)
+- [![@pchalasani](https://avatars.githubusercontent.com/u/554347?s=64&v=4)](https://github.com/pchalasani)
+- [![@romilbhardwaj](https://avatars.githubusercontent.com/u/4416605?s=64&v=4)](https://github.com/romilbhardwaj)
+- [![@liyin2015](https://avatars.githubusercontent.com/u/14322677?s=64&v=4)](https://github.com/liyin2015)
+- [![@guyShilo](https://avatars.githubusercontent.com/u/52055301?s=64&v=4)](https://github.com/guyShilo)
+- [![@michaelfeil](https://avatars.githubusercontent.com/u/63565275?s=64&v=4)](https://github.com/michaelfeil)
+- [![@lemanschik](https://avatars.githubusercontent.com/u/117739566?s=64&v=4)](https://github.com/lemanschik)
+
+[+ 115 contributors](https://github.com/Hannibal046/Awesome-LLM/graphs/contributors)
+
+## Footer
+
+[](https://github.com/)© 2025 GitHub, Inc.
+
+### Footer navigation
+
+- [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+- [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Community](https://github.community/)
+- [Docs](https://docs.github.com/)
+- [Contact](https://support.github.com/?tags=dotcom-footer)
+- Manage cookies
+- Do not share my personal information
 
 
 ## Ref
+

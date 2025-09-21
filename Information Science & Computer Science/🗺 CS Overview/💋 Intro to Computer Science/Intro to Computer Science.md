@@ -530,13 +530,13 @@ These questions, from general to specific, speaks the path of what i think every
 			1. ↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 			2. ↗ [Computer Vision (CV)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
-			3. ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
+			3. ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI%20&%20World%20Model/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
 			4. etc.
 		2. ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 		3. ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 		4. etc.
 	5. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-		1. ↗ [Industry 4.0](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenaries/Industry%204.0.md)
+		1. ↗ [Industry 4.0](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
 		2. ↗ [Robots Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Robots%20Development/Robots%20Development.md)
 		3. etc.
 	6. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
