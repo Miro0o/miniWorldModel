@@ -13,8 +13,8 @@
 
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-↗ [Program Compilation & Execution](../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
-- ↗ [Compilation Phase](../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Programming Language Processing & Program Execution](../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+- ↗ [Compilation Phase](../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
@@ -213,7 +213,7 @@ Although our model of a computer system places only the operating system in the 
 
 **Generally speaking, middleware is a broad classification for software that provides services above the operating system layer, but below the application program layer.**
 ##### Compilers
-↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ##### Database Systems
 ↗ [Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 

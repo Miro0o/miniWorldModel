@@ -15,8 +15,8 @@
 ↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
-↗ [Instruction Execution](../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
-↗ [Memory Access & Addressing](../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Instruction Execution](../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Memory Access & Addressing](../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 ↗ [Semiconductor Industry & Companies](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
@@ -102,14 +102,14 @@ As in ↗ [Control Unit](📌%20Basic%20CPU%20Components/Control%20Unit.md) for 
 
 
 ## Instruction and Data
-↗ [Memory Access & Addressing](../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Memory Access & Addressing](../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 
 ## Instruction Execution
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-> Detailed info at ↗ [Instruction Execution](../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+> Detailed info at ↗ [Instruction Execution](../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Interrupts
@@ -117,7 +117,7 @@ As in ↗ [Control Unit](📌%20Basic%20CPU%20Components/Control%20Unit.md) for 
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
-More at ↗ [Processor /Interrupts](../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+More at ↗ [Processor /Interrupts](../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 

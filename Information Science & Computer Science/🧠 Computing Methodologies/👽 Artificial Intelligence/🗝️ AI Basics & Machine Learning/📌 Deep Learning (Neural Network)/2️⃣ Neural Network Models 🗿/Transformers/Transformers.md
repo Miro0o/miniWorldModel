@@ -88,7 +88,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Attention (Multi-Headed Self-Attention)
-↗ [(Efficient) Attention Mechanism]((Efficient)%20Attention%20Mechanism.md)
+↗ [Attention Mechanism & Efficient Implementation](Attention%20Mechanism%20&%20Efficient%20Implementation.md)
 
 
 ### MLP

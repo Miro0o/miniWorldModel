@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Transportation Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/Transportation%20Layer%20Security%20Protocols.md)
+↗ [Transportation Layer Security Protocols](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/Transportation%20Layer%20Security%20Protocols.md)
 
 
 ### Learning Resources

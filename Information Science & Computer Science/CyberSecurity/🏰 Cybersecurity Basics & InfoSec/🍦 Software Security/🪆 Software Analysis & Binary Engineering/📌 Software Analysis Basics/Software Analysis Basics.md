@@ -11,7 +11,7 @@
 
 ↗ [Computer Languages & Programming Methodology](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [Programming Language Theory (PLT)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 
@@ -228,6 +228,12 @@ A sound analysis, therefore, has no false positives, and a complete analysis has
 
 
 ### Software Analysis Taxonomy
+![Language_and_Programming_Language_Processing | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>Static Code Analysis</small>
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Dynamic Code Analysis</small>
+
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
 
 - Manual vs Automatic Analysis

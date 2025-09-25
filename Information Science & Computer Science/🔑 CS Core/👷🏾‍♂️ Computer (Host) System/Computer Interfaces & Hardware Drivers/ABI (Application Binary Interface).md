@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Procedure (Function) Call & Runtime Memory Layout](../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Machine Code](../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Machine%20Code.md)
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [ISA (Industry Standard Architecture)](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Slot%20(Internal%20Bus)/ISA%20(Industry%20Standard%20Architecture)/ISA%20(Industry%20Standard%20Architecture).md)
@@ -46,7 +46,7 @@ Details covered by an ABI include the following:
 
 ## Procedure /Function Calling Conventions
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
-> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
 Function call conventions are a set of rules that define how functions receive parameters, return values, and manage resources such as the stack and registers. These conventions ensure **compatibility** and **interoperability** between different parts of a program, such as between functions written in different languages or between a program and the operating system.
 

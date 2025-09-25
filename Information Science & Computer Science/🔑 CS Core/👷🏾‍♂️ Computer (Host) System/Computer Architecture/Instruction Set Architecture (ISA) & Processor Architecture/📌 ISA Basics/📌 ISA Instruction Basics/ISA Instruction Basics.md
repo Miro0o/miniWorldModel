@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Instruction Execution](../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Instruction Execution](../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 
 ### Other Resources
@@ -30,8 +30,8 @@ Regardless of whether an architecture is hard-coded or microprogrammed, it is im
 
 ### Instruction Execution
 Either instructions or data are all informations stored on memory chips.
-↗ [Instruction Execution](../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
-↗ [von Neumann /Memory Access](../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Instruction Execution](../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [von Neumann /Memory Access](../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 

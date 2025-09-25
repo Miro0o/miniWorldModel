@@ -11,7 +11,7 @@ And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Comput
 
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Address Space & Memory Layout](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Memory Access & Addressing](../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+↗ [Memory Access & Addressing](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 
@@ -99,7 +99,7 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Formats.md)
-> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
+> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 

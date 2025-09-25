@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
-- ↗ [Nmap Mechanisms & Network Scanning Principles](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles.md)
-- ↗ [recon-ng](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/recon-ng/recon-ng.md)
+↗ [Reconnaissance & Exploration Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
+- ↗ [Nmap Mechanisms & Network Scanning Principles](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles.md)
+- ↗ [recon-ng](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/recon-ng/recon-ng.md)
 - etc.
 
 ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
@@ -67,7 +67,7 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 - Adjust the timing to slow the arrival of packets at the target site.
 - Change the packet size by fragmenting packets or appending random data to confuse packet inspection devices.
 
-↗ [Nmap Proj](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Proj.md)
+↗ [Nmap Proj](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Nmap%20Proj/Nmap%20Proj.md)
 
 
 ### 3️⃣ Using proxies with anonymity networks

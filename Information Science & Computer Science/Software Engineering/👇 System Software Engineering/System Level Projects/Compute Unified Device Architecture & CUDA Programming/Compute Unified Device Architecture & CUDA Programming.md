@@ -120,3 +120,26 @@ https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%
 
 ## Ref
 [CUDA | wikipedia]: https://en.wikipedia.org/wiki/CUDA
+[An Even Easier Introduction to CUDA (Updated) | Nvidia]: https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+There is a whole series of older introductory posts that you can continue with:
+- [How to Implement Performance Metrics in CUDA C++](https://developer.nvidia.com/blog/how-implement-performance-metrics-cuda-cc/)
+- [How to Query Device Properties and Handle Errors in CUDA C++](https://developer.nvidia.com/blog/how-query-device-properties-and-handle-errors-cuda-cc/)
+- [How to Optimize Data Transfers in CUDA C++](https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/)
+- [How to Overlap Data Transfers in CUDA C++](https://developer.nvidia.com/blog/how-overlap-data-transfers-cuda-cc/)
+- [How to Access Global Memory Efficiently in CUDA C++](https://developer.nvidia.com/blog/how-access-global-memory-efficiently-cuda-c-kernels/)
+- [Using Shared Memory in CUDA C++](https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/)
+- [An Efficient Matrix Transpose in CUDA C++](https://developer.nvidia.com/blog/efficient-matrix-transpose-cuda-cc/)
+- [Finite Difference Methods in CUDA C++, Part 1](https://developer.nvidia.com/blog/finite-difference-methods-cuda-cc-part-1/)
+- [Finite Difference Methods in CUDA C++, Part 2](https://developer.nvidia.com/blog/finite-difference-methods-cuda-c-part-2/)
+- [Accelerated Ray Tracing in One Weekend with CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/)
+
+There is also a series of [CUDA Fortran posts](https://developer.nvidia.com/blog/tag/cuda-fortran/) mirroring the above, starting with [An Easy Introduction to CUDA Fortran](https://developer.nvidia.com/blog/easy-introduction-cuda-fortran/).
+
+There is a wealth of other content on CUDA C++ and other GPU computing topics here on the [NVIDIA Developer Blog](https://developer.nvidia.com/blog/), so look around!
+
+If you enjoyed this post and want to learn more, the [NVIDIA DLI](https://nvidia.com/dli) offers several in-depth CUDA programming courses.
+- For those of you just starting out, see [Getting Started with Accelerated Computing in Modern CUDA C++](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-04+V1), which provides dedicated GPU resources, a more sophisticated programming environment, use of the [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) visual profiler, dozens of interactive exercises, detailed presentations, over 8 hours of material, and the ability to earn a DLI Certificate of Competency.
+- For Python programmers, see [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about).
+- For more intermediate and advanced CUDA programming materials, see the _Accelerated Computing_ section of the NVIDIA DLI [self-paced catalog](https://learn.nvidia.com/en-us/training/self-paced-courses).
+
+[GPU与CUDA]: https://qiankunli.github.io/2025/03/22/cuda.html

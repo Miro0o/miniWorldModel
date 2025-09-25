@@ -15,7 +15,7 @@
 
 ↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
-↗ [Program Compilation & Execution](../../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)
 ↗ [Software Runtime Security](../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
@@ -149,7 +149,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 - ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 ↗ [Computer Languages & Programming Methodology](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Program Compilation & Execution](../../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 
 ### Computer System Review

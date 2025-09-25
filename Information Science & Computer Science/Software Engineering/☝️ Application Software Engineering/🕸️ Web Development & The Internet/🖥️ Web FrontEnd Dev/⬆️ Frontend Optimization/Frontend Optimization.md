@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [AST (Abstract Syntax Tree)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🐣%20Static%20Analysis%20Before%20IR/AST%20(Abstract%20Syntax%20Tree).md)
+↗ [AST (Abstract Syntax Tree)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20(Abstract%20Syntax%20Tree).md)
 
 
 ### Other Resources

@@ -185,12 +185,27 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 > ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 > ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> 
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> - ↗ [Hilbert-Style Systems](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Systems.md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 ##### Proof by Construction (构造法)
+
 ##### Proof by Contradiction (反证法，归谬法)
+
 ##### Proof by Induction (归纳法)
+
+##### Proof by Deduction (演绎法)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+
+↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(Zeroth-Order%20Logic)%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 
 
 ### Relation of Math and Science

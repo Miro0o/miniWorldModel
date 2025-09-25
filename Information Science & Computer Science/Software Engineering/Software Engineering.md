@@ -102,7 +102,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 ## Software Execution Overview
 ↗ [The Essence of Computing - Program](../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
-↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 

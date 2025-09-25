@@ -7,10 +7,12 @@
 ## Res
 🏠 [IEEE 802 LMSC](https://www.ieee802.org) (The IEEE 802 LAN/MAN Standards Committee)
 
-> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md).
+> ❗ The par of security has been moved to ↗ [Network Security /IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md).
 
 
 ### Related Topics
+↗ [Link Layer (MAC Layer) Attacks](../../../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Link%20Layer%20(MAC%20Layer)%20Attacks/Link%20Layer%20(MAC%20Layer)%20Attacks.md)
+↗ [Wireless & Mobile Network Security](../../../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Link%20Layer%20(MAC%20Layer)%20Attacks/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 
 
 
@@ -77,7 +79,7 @@ The most widely used standards are for [Ethernet](https://en.wikipedia.org/wiki/
 
 
 ## IEEE 802.1x
-↗ [IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
+↗ [IEEE 802.1x](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
 
 
 

@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Vulnerability Assessment (VA)（漏洞评估）](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/📊%20Vulnerability%20Assessment%20(VA)（漏洞评估）/Vulnerability%20Assessment%20(VA)（漏洞评估）.md)
 
-↗ [Reconnaissance & Exploration](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
-- ↗ [OSINT & Passive Recon Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSINT%20&%20Passive%20Recon%20Tools.md)
+↗ [Reconnaissance & Exploration Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
+- ↗ [OSINT & Passive Recon Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSINT%20&%20Passive%20Recon%20Tools.md)
 	- ↗ [OSRFramework](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSRFramework.md)
 	- ↗ [Meltego](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Meltego.md)
 	- etc.

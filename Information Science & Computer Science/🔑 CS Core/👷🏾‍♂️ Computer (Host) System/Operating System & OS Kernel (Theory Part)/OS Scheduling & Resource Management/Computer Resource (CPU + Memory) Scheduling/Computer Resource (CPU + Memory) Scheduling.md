@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Interrupts (Software & Hardware)](../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+↗ [Interrupts (Software & Hardware)](../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 
 
 ### Learning Resources

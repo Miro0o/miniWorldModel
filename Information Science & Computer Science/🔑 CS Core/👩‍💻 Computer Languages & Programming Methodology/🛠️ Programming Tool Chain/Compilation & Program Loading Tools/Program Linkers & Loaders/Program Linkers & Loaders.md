@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program Linking & Loading (Link-time & Load-time)](../../../../🛣️%20Program%20Compilation%20&%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
+↗ [Program Linking & Loading (Link-time & Load-time)](../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
 
 ↗ [Operating System Components & Runtime Libraries](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)

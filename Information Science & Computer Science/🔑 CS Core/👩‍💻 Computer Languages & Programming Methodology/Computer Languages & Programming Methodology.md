@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [SCA (Static Code Analysis) & SAST](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Compilation%20&%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
-↗ [Program Compilation & Execution](../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+- ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ↗ [The Essence of Computing - Program](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
@@ -67,6 +67,7 @@ Microsoft MakeCode is a free online learn-to-code platform where anyone can buil
 ### 0️⃣ Formal Languages 🆚 Natural Languages
 > ↗ [Language & Literature /The Importance of Language: Natural Language 🆚 Formal Language](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md#The%20Importance%20of%20Language:%20Natural%20Language%20🆚%20Formal%20Language)
 > ↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+> ↗ [Mathematical Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 
 > 🔗 https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html
 
@@ -108,6 +109,8 @@ Semiotics (/ˌsɛmiˈɒtɪks/ SEM-ee-OT-iks) is the systematic study of sign pro
 Semiosis is any activity, conduct, or process that involves signs. Signs often are communicated by verbal language, but also by gestures, or by other forms of language, e.g. artistic ones (music, painting, sculpture, etc.). Contemporary semiotics is a branch of science that generally studies meaning-making (whether communicated or not) and various types of knowledge.[1]
 
 Unlike linguistics, semiotics also studies non-linguistic sign systems. Semiotics includes the study of indication, designation, likeness, analogy, allegory, metonymy, metaphor, symbolism, signification, and communication.
+#### Mathematical Logic & Formal Logic Language
+↗ [Mathematical Logic Basics (Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 
 
 ###  1️⃣ Computer Languages
@@ -154,6 +157,10 @@ Computer architecture has strongly influenced the design of programming language
 
 > ↗ https://zh.wikipedia.org/zh-cn/程式語言歷史
 + Hyponymy & hyperymy
+
+> 📖 Compilers Principles Techniques and Tools 2nd Edition
+
+
 
 > ↗ https://en.wikipedia.org/wiki/History_of_programming_languages
 
@@ -271,7 +278,6 @@ Computer architecture has strongly influenced the design of programming language
 > 🔗 https://cs.stackexchange.com/a/102417/174354
 
 There are supposedly generations of languages. According to [Wikipedia](https://en.wikipedia.org/wiki/Fifth_generation_computer):
-
 - First generation: Machine language.
 - Second generation: Low-level programming languages such as assembly language.
 - Third generation: Structured high-level programming languages such as C, COBOL and FORTRAN.
@@ -441,7 +447,7 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 <small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 #### 📌 The Evolution of Computing Model: From Finite Sates Machine to Turing Machine
 ↗ [Mathematical Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 #### Components and Grammars
 > 🔗 https://algs4.cs.princeton.edu/11model/

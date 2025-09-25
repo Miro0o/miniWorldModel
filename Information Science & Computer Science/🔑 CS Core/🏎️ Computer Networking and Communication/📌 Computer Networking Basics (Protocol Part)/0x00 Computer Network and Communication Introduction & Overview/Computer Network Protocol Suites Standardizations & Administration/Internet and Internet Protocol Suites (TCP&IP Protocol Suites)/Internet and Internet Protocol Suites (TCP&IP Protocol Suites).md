@@ -263,8 +263,8 @@ This layer, presentation Layer and application layer are combined in [TCP/IP mo
 
 ## Internet Security Protocol Suites
  > ↗ [Tunneling & VPN (Virtual Personal Network)](../../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
- > ↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
- > ↗ [SSL_TLS Protocol](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL_TLS%20Protocol.md)
+ > ↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
+ > ↗ [SSL_TLS Protocol](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL_TLS%20Protocol.md)
 
 1.  [**SSL Protocol**](https://www.geeksforgeeks.org/secure-socket-layer-ssl/) **:** 
     - SSL Protocol stands for Secure Sockets Layer protocol, which is an encryption-based Internet security protocol that protects confidentiality and integrity of data.

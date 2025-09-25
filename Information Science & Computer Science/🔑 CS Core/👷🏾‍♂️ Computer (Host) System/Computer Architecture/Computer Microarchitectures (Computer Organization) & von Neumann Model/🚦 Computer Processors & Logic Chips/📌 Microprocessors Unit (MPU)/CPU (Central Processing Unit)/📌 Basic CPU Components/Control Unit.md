@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 
-↗ [Control Signals' Pattern](../../../../../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Control%20Signals'%20Pattern.md)
+↗ [Control Signals' Pattern](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Control%20Signals'%20Pattern.md)
 
 
 

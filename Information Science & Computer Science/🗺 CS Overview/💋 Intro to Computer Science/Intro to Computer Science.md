@@ -114,6 +114,9 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Computer Program Execution Procedure: Top-down Review</small>
 
+![Language_and_Programming_Language_Processing | 800](../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>Language, Computer Language, and  Programming Language Processing</small>
+
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
 
@@ -492,9 +495,9 @@ These questions, from general to specific, speaks the path of what i think every
 			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 				1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 				2. ↗ [Programming Tool Chain](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
-			3. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+			3. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 		3. What happened when a program is running? /How is software programmed, compiled, and run?
-			1. ↗ [Program Compilation & Execution](../../🔑%20CS%20Core/🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+			1. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 			2. 怎么构造一个最小的 helloworld程序？ --- jyy
 			3. Where is the first instruction of a C/Python/Java/Go/etc. program?
 			4. etc.

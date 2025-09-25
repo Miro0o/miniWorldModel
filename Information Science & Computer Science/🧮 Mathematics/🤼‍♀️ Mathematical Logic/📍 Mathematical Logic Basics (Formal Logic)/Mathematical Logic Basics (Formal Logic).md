@@ -16,41 +16,60 @@
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
+↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
+
 ↗ [The Essence of Computing - Program](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+
+
+### Other Resources
+https://users.aalto.fi/~rintanj1/notes-logic.pdf
+Logic and ApplicationsJussi Rintanen
+Department of Computer Science
+Aalto University
+Helsinki, Finland
+March 29, 2025
+
+Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
+
+《离散数学》
+四川大学计算机学院
 
 
 
 ## Intro
-### Proposition
-> 🔗 https://baike.baidu.com/item/%E5%91%BD%E9%A1%8C/119969#4
+> ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 
-命题分类
-- 亚里士多德在《工具论》，特别是其中的《范畴篇》中，研究了命题的不同形式及其相互关系，根据形式的不同对命题的不同类型进行了分类。亚里士多德把命题首先分为简单的和复合的两类，但他对复合命题并没有深入探讨。他进而把简单命题按质分为肯定的和否定的，按量分为全称、特称和不定的命题。他还提到个体命题，这相当于后来所谓的以专名为主项、以普遍概念为谓项的单称命题。亚里士多德着重讨论了后人以A、E、I、O为代表的4种命题。关于模态命题，他讨论了必然、不可能、可能和偶然这 4个模态词。亚里士多德所说的模态，是指事件发生的必然性、可能性等。
-	- 亚里士多德以后的逻辑学家，如泰奥弗拉斯多、麦加拉学派和斯多阿学派的逻辑学家，以及中世纪的逻辑学家等，又对包含有命题联结词"或者"、"并且"、"如果，则"等的复合命题进行了不断的探讨，从而丰富了逻辑学关于命题的学说。
-- 康德分类康德根据他的范畴理论对判断作了分类，这个分类对后世的影响很大。康德对判断的分类主要有4个方面：
-	- 量，包括全称、特称、单称三种判断；
-	- 质，包括肯定、否定、无限（所有S是非P）这几种判断；
-	- 关系，有直言（两概念间的关系）、假言（两判断间的关系）、选言（若干判断间的关系）判断；
-	- [模态](https://baike.baidu.com/item/%E6%A8%A1%E6%80%81/0?fromModule=lemma_inlink)，有或（概）然、实然、确然几种判断。康德所谓的模态，是指认识的程度。他认为组成假言判断、选言判断的判断，都是或然的。
-- 传统逻辑分类
-	- 19世纪下半叶欧洲逻辑读本对命题的分类不尽一致。大体说来，按关系即按命题主[谓项](https://baike.baidu.com/item/%E8%B0%93%E9%A1%B9/0?fromModule=lemma_inlink)之间的关系分，有[直言命题](https://baike.baidu.com/item/%E7%9B%B4%E8%A8%80%E5%91%BD%E9%A2%98/0?fromModule=lemma_inlink)、[假言命题](https://baike.baidu.com/item/%E5%81%87%E8%A8%80%E5%91%BD%E9%A2%98/0?fromModule=lemma_inlink)（后件主谓项的联系以前件为条件）和[选言命题](https://baike.baidu.com/item/%E9%80%89%E8%A8%80%E5%91%BD%E9%A2%98/0?fromModule=lemma_inlink)（谓项之间对[主项](https://baike.baidu.com/item/%E4%B8%BB%E9%A1%B9/0?fromModule=lemma_inlink)有选择关系）。从质的角度分，有肯定命题和否定命题。从量的角度分，有全称命题，包括单称命题、普遍命题（凡S是P）和[特称命题](https://baike.baidu.com/item/%E7%89%B9%E7%A7%B0%E5%91%BD%E9%A2%98/0?fromModule=lemma_inlink)。这些传统逻辑读本在讨论选言命题时，也往往论及[联言命题](https://baike.baidu.com/item/%E8%81%94%E8%A8%80%E5%91%BD%E9%A2%98/0?fromModule=lemma_inlink)、分离命题（非A并且非B）等。另外，还有一类可解析命题也是常常提到的。在这类命题中，有一种叫区别命题，其形式为"只有S才是P"；还有一种叫除外命题，其形式为"除是M的S外每个S是P"。
-- 形式分析
-	- 现代逻辑对命题形式的分析，由于推理的有效性只与推理的前提和结论的形式有关，而与作为前提和结论的命题的具体内容无关。因此，在经典的二值逻辑里，命题可以只看成真（记为T）和假（记为F）两种，并统称为真值。
-	- 对命题形式的进一步分析，要深入到最[简单](https://baike.baidu.com/item/%E7%AE%80%E5%8D%95/0?fromModule=lemma_inlink)命题内部的非命题成分。在现代逻辑中，类似"苏格拉底是人"这样的命题，被认为是最简单的命题。若以s代表"苏格拉底",以M代表"人",该类命题就可记为M(s),这表示某一个体s具有性质R。推广来说，最简单的命题的形式为F(x)，可读作[论域](https://baike.baidu.com/item/%E8%AE%BA%E5%9F%9F/0?fromModule=lemma_inlink)中的个体x具有性质F；较为复杂的形式可以有填G(x,y)),可读作论域中的个体x,y)之间具有关系G。在这里，x,y),...称为个体变项；F,G,...称为谓词变项，而F是一元的，G是二元的。一般全称命题的形式是风x(Fx→Gx)，而存在命题、即传统逻辑所谓的特称命题的形式是 ヨx(Fx∧Gx)。所有这些都是现代逻辑里的经典一阶谓词逻辑对命题形式所作的初步分析（见[谓词逻辑](https://baike.baidu.com/item/%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91/0?fromModule=lemma_inlink)）。此外，把量词加之于谓词变项，便形成了[高阶逻辑](https://baike.baidu.com/item/%E9%AB%98%E9%98%B6%E9%80%BB%E8%BE%91/0?fromModule=lemma_inlink)。也还可以引入模态词，或分析疑问句、命令句等等，从而建立有关的逻辑理论。
+> 🔗 https://en.wikipedia.org/wiki/Logic
 
 
-### Predicate
+==**Logic** is the study of correct [reasoning](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning")==. It includes both [formal](https://en.wikipedia.org/wiki/Logic#Formal_logic) and [informal logic](https://en.wikipedia.org/wiki/Informal_logic "Informal logic"). Formal logic is the study of [deductively valid](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)") inferences or [logical truths](https://en.wikipedia.org/wiki/Logical_truth "Logical truth"). It examines how conclusions follow from [premises](https://en.wikipedia.org/wiki/Premise "Premise") based on the structure of arguments alone, independent of their topic and content. Informal logic is associated with [informal fallacies](https://en.wikipedia.org/wiki/Informal_fallacies "Informal fallacies"), [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking "Critical thinking"), and [argumentation theory](https://en.wikipedia.org/wiki/Argumentation_theory "Argumentation theory"). Informal logic examines arguments expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language") whereas formal logic uses [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language"). When used as a [countable noun](https://en.wikipedia.org/wiki/Countable_noun "Countable noun"), the term "a logic" refers to a specific logical [formal system](https://en.wikipedia.org/wiki/Formal_system "Formal system") that articulates a [proof system](https://en.wikipedia.org/wiki/Proof_system "Proof system"). Logic plays a central role in many fields, such as [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics").
+
+Logic studies **arguments**, which consist of a set of **premises** that leads to a **conclusion**. An example is the argument from the premises "it's Sunday" and "if it's Sunday then I don't have to work" leading to the conclusion "I don't have to work." Premises and conclusions express [propositions](https://en.wikipedia.org/wiki/Proposition "Proposition") or claims that can be true or false. An important feature of propositions is their internal structure. For example, complex propositions are made up of simpler propositions linked by [logical vocabulary](https://en.wikipedia.org/wiki/Logical_connective "Logical connective") like ∧ ([and](https://en.wikipedia.org/wiki/Logical_conjunction "Logical conjunction")) or → ([if...then](https://en.wikipedia.org/wiki/Material_conditional "Material conditional")). Simple propositions also have parts, like "Sunday" or "work" in the example. The truth of a proposition usually depends on the meanings of all of its parts. However, this is not the case for logically true propositions. They are true only because of their logical structure independent of the specific meanings of the individual parts.
+
+Arguments can be either correct or incorrect. An argument is correct if its premises support its conclusion. [Deductive arguments](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") have the strongest form of support: if their premises are true then their conclusion must also be true. This is not the case for [ampliative](https://en.wikipedia.org/wiki/Ampliative "Ampliative") arguments, which arrive at genuinely new information not found in the premises. Many arguments in everyday discourse and the sciences are ampliative arguments. They are divided into [inductive](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") and [abductive](https://en.wikipedia.org/wiki/Abductive_reasoning "Abductive reasoning") arguments. Inductive arguments are statistical generalizations, such as inferring that all ravens are black based on many individual observations of black ravens. Abductive arguments are [inferences](https://en.wikipedia.org/wiki/Inference "Inference") to the best explanation, for example, when a doctor concludes that a patient has a certain disease which explains the symptoms they suffer. Arguments that fall short of the standards of correct reasoning often embody [fallacies](https://en.wikipedia.org/wiki/Fallacies "Fallacies"). Systems of logic are theoretical frameworks for assessing the correctness of arguments.
+
+Logic has been studied since [antiquity](https://en.wikipedia.org/wiki/Ancient_history "Ancient history"). Early approaches include [Aristotelian logic](https://en.wikipedia.org/wiki/Aristotelian_logic "Aristotelian logic"), [Stoic logic](https://en.wikipedia.org/wiki/Stoic_logic "Stoic logic"), [Nyaya](https://en.wikipedia.org/wiki/Nyaya "Nyaya"), and [Mohism](https://en.wikipedia.org/wiki/Mohism "Mohism"). Aristotelian logic focuses on reasoning in the form of [syllogisms](https://en.wikipedia.org/wiki/Syllogism "Syllogism"). It was considered the main system of logic in the Western world until it was replaced by modern formal logic, which has its roots in the work of late 19th-century mathematicians such as [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege "Gottlob Frege"). Today, the most commonly used system is [classical logic](https://en.wikipedia.org/wiki/Classical_logic "Classical logic"). It consists of [propositional logic](https://en.wikipedia.org/wiki/Propositional_logic "Propositional logic") and [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic"). Propositional logic only considers logical relations between full propositions. First-order logic also takes the internal parts of propositions into account, like [predicates](https://en.wikipedia.org/wiki/Predicate_\(mathematical_logic\) "Predicate (mathematical logic)") and [quantifiers](https://en.wikipedia.org/wiki/Quantifier_\(logic\) "Quantifier (logic)"). Extended logics accept the basic intuitions behind classical logic and apply it to other fields, such as [metaphysics](https://en.wikipedia.org/wiki/Metaphysics "Metaphysics"), [ethics](https://en.wikipedia.org/wiki/Ethics "Ethics"), and [epistemology](https://en.wikipedia.org/wiki/Epistemology "Epistemology"). Deviant logics, on the other hand, reject certain classical intuitions and provide alternative explanations of the basic laws of logic.
+
+
+### Classical Logic: Proposition & Predicate
+↗ [Classical Logic (Standard Logic)](Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/(Zeroth-Order%20Logic)%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
 
 
 ### Semantic & The Semantics of Mathematical Logics
-↗ [Semantic Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🐣%20Static%20Analysis%20Before%20IR/Semantic%20Analysis.md)
+↗ [Semantic Analysis](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 
+> 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
+
+---
 Semantics is the mapping between A and B. Usually, this involves the mapping between a concept and something (another concept or a real object); specifically, a language and something (another concept expressed in some language, or a real object).
 - This is because the significance of language! We use language to think, express, and communicate. 
 
@@ -60,6 +79,8 @@ However, (in my opinion) this is not necessary. Semantics is just the process th
 <small>The relationship of language, information/data, computation, and automation.</small>
 
 ![computing.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+
+![Language_and_Programming_Language_Processing | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 #### (Mathematical Logic) Language and (Computation) Models
 ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 

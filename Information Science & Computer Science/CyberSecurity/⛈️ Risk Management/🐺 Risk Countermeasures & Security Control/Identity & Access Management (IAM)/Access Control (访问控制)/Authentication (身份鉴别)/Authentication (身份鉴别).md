@@ -105,7 +105,7 @@ As the weakest level of authentication, only a single component from one of the 
 
 
 ### Multi-factor Authentication
-> 🔗 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
+> 🔗 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 
 Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
 #### 2FA (2-Factors-Authentication)
@@ -191,6 +191,7 @@ Data Origin Authentication (数据原发鉴别)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
 ##### 计算响应机制
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
+
 
 ### 2️⃣ 按机制的配置分类
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)

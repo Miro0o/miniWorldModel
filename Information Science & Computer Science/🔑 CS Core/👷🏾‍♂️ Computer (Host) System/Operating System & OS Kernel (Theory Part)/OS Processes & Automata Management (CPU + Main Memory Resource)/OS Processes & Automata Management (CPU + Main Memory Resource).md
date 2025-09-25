@@ -8,12 +8,12 @@
 ### Related Topics
 ↗ [C&CPP /OS Level Programming /Process Management](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Process%20Management.md)
 
-↗ [Instruction Execution](../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [Instruction Execution](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 ↗ [Distributed Process Management](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
 ↗ [Operating System Kernel (Kernel Mode)](../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 
-↗ [Program Compilation & Execution](../../../🛣️%20Program%20Compilation%20&%20Execution/Program%20Compilation%20&%20Execution.md)
+↗ [Programming Language Processing & Program Execution](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 
 
@@ -39,7 +39,7 @@ All this information is grouped in the **Process Control Group (PCB)**. In Linux
 
 
 ### Context Switch
-> ↗ [Interrupts (Software & Hardware)](../../../🛣️%20Program%20Compilation%20&%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+> ↗ [Interrupts (Software & Hardware)](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 > ↗ [System Calls](📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 
 At any point in time, a uniprocessor system can only execute the code for a single process. When the operating system decides to transfer control from the current process to some new process, it performs a context switch by saving the context of the current process, restoring the context of the new process, and hen passing control to the new process. The new process picks up exactly where it left off.

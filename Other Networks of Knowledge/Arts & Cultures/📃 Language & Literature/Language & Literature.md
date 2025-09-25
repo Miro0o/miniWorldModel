@@ -9,6 +9,11 @@
 ↗ [Natural Language Processing (NLP)](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 ↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
+↗ [Mathematical Logic](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Computer Languages & Programming Methodology](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Programming Language Theory (PLT)](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Programming Language Processing & Program Execution](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+
 ↗ [World's Human History Overview](../../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 
 
