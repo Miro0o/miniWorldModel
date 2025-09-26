@@ -241,6 +241,11 @@ A **Kripke structure** is a variation of the [transition system](https://en.w
 
 ### Probabilistic Systems
 ↗ [Probability Models & Stochastic Process](../../../../../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
+- discrete-time and continuous-time Markov chains (DTMCs and CTMCs)
+- Markov decision processes (MDPs) and probabilistic automata (PAs)
+- probabilistic timed automata (PTAs)
+- partially observable MDPs and PTAs (POMDPs and POPTAs)
+- interval Markov chains and MDPs (IDTMCs and IMDPs)
 
 
 
