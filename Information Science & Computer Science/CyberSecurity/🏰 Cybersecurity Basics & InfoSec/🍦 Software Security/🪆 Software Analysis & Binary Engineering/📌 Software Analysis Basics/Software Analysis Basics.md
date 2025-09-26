@@ -104,7 +104,15 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 > In computer science, program analysis[1] is the process of analyzing the behavior of computer programs regarding a **property** such as correctness, robustness, safety and liveness. Program analysis focuses on two major areas: program optimization and program correctness. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
 
 
-### Scope of Program Analysis
+### Program Semantics & Transition System
+↗ [The Essence of Computing - Program](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [Formal Semantics and Programming Language](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [(Formal) Model Checking /1️⃣ System Modeling](🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+#### Program State Space & State Explosion
+↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Set%20Theory/👬%20Relation%20&%20Order%20Theory/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+
+
+### Evaluation of Program Analysis
 #### Undecidability of Program Analysis
 > ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 

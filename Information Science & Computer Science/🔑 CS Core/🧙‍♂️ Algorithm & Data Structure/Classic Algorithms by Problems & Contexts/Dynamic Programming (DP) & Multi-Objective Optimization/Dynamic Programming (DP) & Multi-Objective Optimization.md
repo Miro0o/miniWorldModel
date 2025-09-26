@@ -1,4 +1,4 @@
-# Dynamic Programming & Multi-Objective Optimization
+# Dynamic Programming (DP) & Multi-Objective Optimization
 
 [TOC]
 

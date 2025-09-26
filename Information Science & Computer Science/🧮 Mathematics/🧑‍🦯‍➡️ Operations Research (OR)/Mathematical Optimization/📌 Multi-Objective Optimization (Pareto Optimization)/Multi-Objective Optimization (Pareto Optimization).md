@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 
-↗ [Dynamic Programming & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20&%20Multi-Objective%20Optimization.md)
+↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
 
 
 

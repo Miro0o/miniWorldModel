@@ -113,6 +113,8 @@ Specifically, we always consider whether a computational model accept a logic la
 
 
 ### Soundness & Completeness
+> ↗ [Software Analysis Basics /Soundness & Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Soundness%20&%20Completeness)
+
 **Definition**: Soundness
 In a sound system, we can only prove true things.
 - if we can prove $\Phi$ given $\Sigma$

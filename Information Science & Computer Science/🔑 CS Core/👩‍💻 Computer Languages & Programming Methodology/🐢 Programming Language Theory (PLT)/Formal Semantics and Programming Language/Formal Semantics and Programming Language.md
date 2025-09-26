@@ -23,8 +23,13 @@
 https://zhangt.top/CS/FSPL-Study-Notes/
 程序设计语言的形式语义-学习笔记
 
+https://www.zhihu.com/column/c_1463903401565749248
+编程语言与形式化 - 知乎专栏
+
+🏫 [程序设计语言的形式语义 - 南京大学](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/程序设计语言的形式语义/程序设计语言的形式语义.md)
+
 https://homepage.divms.uiowa.edu/~slonnegr/
-Formal Syntax and Semantics of Programming Languages: A Laboratory-Based Approach
+📖 Formal Syntax and Semantics of Programming Languages: A Laboratory-Based Approach
 Chapter 1: Specifying Syntax
 - 1.1 Grammars and BNF
 	- Context-free Grammars

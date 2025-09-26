@@ -71,24 +71,8 @@ The minimalistic BNF grammar for propositional logic: $$\phi :: = true ∣ p ∣
 ###### Minimalistic Grammar & Primitive Connectives
 
 The minimalistic BNF grammar for propositional logic: $$\phi :: = true ∣ p ∣ \neg \phi ∣ \phi_1 ∨ \phi_2$$
-#### Normal Form (NFs)（范式）
-> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
-> Logic and ApplicationsJussi Rintanen, Department of Computer Science, Aalto University
-
-Arbitrary propositional formulas can be translated into syntactically restricted forms which are still capable of expressing all Boolean functions. Use of such normal forms can serve two main purposes. First, it may be more straightforward to define algorithms and inference methods for formulas of a simple form. The **resolution rule**(Section 3.2.1) is an example of this. Second, the process of translating a formula into certain normal form does much of the work in solving important computational problems related to propositional formulas. For example, an answer to the question of whether a formula is valid is obtained as a by-product of translating the formula normal forms such as DNF or OBDD. A number of other operations on propositional formulas are in practice much more efficient when the formulas are in certain normal forms rather than unrestricted propositional formulas.
-##### CNF (Conjunctive NF) and DNF (Disjuctive NF)
-> 🔗 https://en.wikipedia.org/wiki/Conjunctive_normal_form
-
-![Screenshot 2023-01-02 at 5.57.28 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.57.28%20PM.png)
-<small>《离散数学》四川大学计算机学院</small>
-##### Formulas as a Data Structure
-> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
-> Logic and ApplicationsJussi Rintanen, Department of Computer Science, Aalto University
-
-##### Binary Decision Diagrams (BDDs)
-> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
-> Logic and ApplicationsJussi Rintanen, Department of Computer Science, Aalto University
-
+#### Normal Form & Logic Data Structure
+See below "Representing in Propositional Logic"
 #### Implication & Entailment of Propositional Logic
 ![Screenshot 2023-01-02 at 5.59.42 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.59.42%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
@@ -102,7 +86,7 @@ There are multiple (less formal, more intuitive) ways to present the semantics.
 All valuations relevant to a formula are often tabulated as truth-tables so that each row corresponds to a valuation. Truth-tables are used for analyzing the most basic properties of formulas.
 
 
-### Propositional Logic Properties
+### Main Decision Problems in Propositional Logic
 > 📖 Logic and Applications, Jussi Rintanen
 > Department of Computer Science, Aalto University, Helsinki, Finland, March 29, 2025
 
@@ -144,6 +128,81 @@ NP/NP-complete problems **can be solved by encoding** them **into SAT**!
 ### Laws of Operations & Propositional Equivalences
 ![Screenshot 2023-01-02 at 5.55.50 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.55.50%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
+
+
+
+## Representing Propositional Logic
+> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
+> Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
+
+Arbitrary propositional formulas can be translated into syntactically restricted forms which are still capable of expressing all Boolean functions. Use of such normal forms can serve two main purposes. First, it may be more straightforward to define algorithms and inference methods for formulas of a simple form. The **resolution rule** is an example of this. Second, the process of translating a formula into certain normal form does much of the work in solving important computational problems related to propositional formulas. For example, an answer to the question of whether a formula is valid is obtained as a by-product of translating the formula normal forms such as DNF or OBDD. A number of other operations on propositional formulas are in practice much more efficient when the formulas are in certain normal forms rather than unrestricted propositional formulas.
+
+![|600](../../../../../Assets/Pics/Screenshot%202025-09-26%20at%2016.15.45.png)
+<small>Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University <br> <a> https://users.aalto.fi/~rintanj1/notes-logic.pdf </a></small>
+
+
+### 📌 Sets (and Relations) in the Propositional Logic
+> ↗ [Set Theory](../../Set%20Theory/Set%20Theory.md)
+> ↗ [Relation & Order Theory](../../Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+#### Logic Representation of Sets (and Relations)
+> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
+> Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
+
+==Formulas can be considered as a representation of those sets of valuations that make the formula true.== We can identify a valuation $v : X \to \{0, 1\}$ with a vector of length $|X|$, with each element of the vector corresponding to one of the atomic propositions in $X$.
+
+> Example5.1 
+> Let $X = \{A, B, C, D\}$. Now a valuation that assigns 1 to $A$ and $C$ and 0 to $B$ and $D$ corresponds to the bit-vector $\overset{ABCD}{1010}$, and the valuation assigning 1 only to $B$ corresponds to the bit-vector $\overset{ABCD}{0100}$. 
+
+Any propositional formula $\phi$ can be understood as a representation of those valuations $v$ such that $v(\phi) = 1$. Since we have identified valuations and bit-vectors, a formula naturally represents a set of bit-vectors.
+
+> Example 5.2 
+> Formula $B$ represents all bit-vectors of the form $?1??$, and the formula $A$ represents all bit-vectors $1???$. Formula $B$ therefore represents the set $\{0100, 0101, 0110, 0111, 1100, 1101, 1110, 1111\}$ and formula $A$ represents the set $\{1000, 1001, 1010, 1011, 1100, 1101, 1110, 1111\}$.
+> 
+> Similarly, $\neg B$ represents all bit-vectors of the form $?0??$, which is the set $\{0000, 0001, 0010, 0011, 1000, 1001, 1010, 1011\}$.
+> This is the complement of the set represented by $B$.
+#### Logic Representation of Set's (and Relation's) Operations
+![|600](../../../../../Assets/Pics/Screenshot%202025-09-26%20at%2016.24.47.png)
+<small>Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University <br> <a> https://users.aalto.fi/~rintanj1/notes-logic.pdf </a></small>
+
+
+### Normal Forms (NF) of Propositional Logic
+#### CNF (Conjunctive NF) and DNF (Disjunctive NF)
+> 🔗 https://en.wikipedia.org/wiki/Conjunctive_normal_form
+
+![Screenshot 2023-01-02 at 5.57.28 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.57.28%20PM.png)
+<small>《离散数学》四川大学计算机学院</small>
+#### NNF (Negation Normal Form)
+> 🔗 https://en.wikipedia.org/wiki/Negation_normal_form
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), a formula is in **negation normal form** (**NNF**) if the [negation](https://en.wikipedia.org/wiki/Negation "Negation") operator ($\neg$, $NOT$) is only applied to variables and the only other allowed [Boolean operators](https://en.wikipedia.org/wiki/Boolean_algebra "Boolean algebra") are [conjunction](https://en.wikipedia.org/wiki/Logical_conjunction "Logical conjunction") ($\land$, $AND$) and [disjunction](https://en.wikipedia.org/wiki/Logical_disjunction "Logical disjunction") ($\lor$, $OR$).
+
+==Negation normal form is not a [canonical form](https://en.wikipedia.org/wiki/Canonical_form "Canonical form")==: for example, $a \land (b \lor \neg c)$ and $(a\land b)\lor(a \land \neg c)$ are equivalent, and are both in negation normal form.
+#### DNNF (Decomposable NNF) and d-DNNF (Deterministic DNNF)
+> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
+> Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
+
+Darwiche et al. [Dar01, DM02] have carried out a thorough study on features of propositional formulas, to identify normal forms of practical importance.
+The first new normal form identified by Darwiche was **Decomposable NNF** [Dar01]. This is NNF with the additional property of decomposability.
+#### ANF (Algebraic Normal Form, Zhegalkin Polynomials)
+> 🔗 https://en.wikipedia.org/wiki/Zhegalkin_polynomial
+
+
+### Formulas as a Data Structure
+> ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+> ↗ [Data Structure in Logic Formulas](../🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
+
+> 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
+> Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
+
+Traditional application of logic is as a language of representing data and knowledge and for deductively making inferences from it.
+
+A different use of logic emerged in the 1980s [Bry86, CBM90, Bry92], when logical formulas were used as a data structure for representing sets (of valuations) and relations (on valuations). Many logical operations have set-theoretic counterparts, for example union can be identified with disjunction. **It turned out that logic-based data structures could scale up to much bigger sets and relations than conventional (enumerative) data structures (trees, lists, arrays, and so on.)**
+
+Formulas can be viewed as a data structure for representing sets and relations. The advantage of logic in this application is succinctness: a formula can represent a set that has a size that is exponential in the size of the formula. Logic representation is therefore succinct. This is in strong contrast to conventional data structures which would explicitly enumerate all elements of a set, and therefore have a size that is linear in the size of the set.
+#### BDDs (Binary Decision Diagrams) & ROBDD
+↗ [BDDs (Binary Decision Diagrams) & ROBDD](../🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md)
+#### PDAG (Propositional Directed Acyclic Graph)
+↗ [PDAG (Propositional Directed Acyclic Graph)](../🧶%20Data%20Structure%20in%20Logic%20Formulas/PDAG%20(Propositional%20Directed%20Acyclic%20Graph).md)
 
 
 

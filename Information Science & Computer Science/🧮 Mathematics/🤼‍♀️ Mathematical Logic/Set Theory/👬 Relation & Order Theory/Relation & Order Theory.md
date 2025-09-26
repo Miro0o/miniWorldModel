@@ -43,6 +43,7 @@ We can also take the Cartesian product of $k$ sets, $A_1$, $A_2$, ... ,$A_k$ , w
 
 If we have the Cartesian product of a set with itself, we use the shorthand $$\overbrace{A \times A \times ... \times A}^{k} = A^k$$
 
+
 ### Relation
 > 📖 离散数学，四川大学计算机学院
 

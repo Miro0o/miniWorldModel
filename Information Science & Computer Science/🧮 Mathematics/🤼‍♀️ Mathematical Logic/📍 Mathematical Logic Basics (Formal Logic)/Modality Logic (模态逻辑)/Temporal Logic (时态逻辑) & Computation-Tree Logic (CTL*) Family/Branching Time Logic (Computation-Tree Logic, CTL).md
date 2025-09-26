@@ -22,10 +22,11 @@
 #### Minimal Syntax of CTL
 We can get rid of “always” and “eventually” in CTL
 $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi ∣ \forall\psi$$
-$$\psi ::= \bigcirc\phi ∣ \diamondsuit\phi ∣ \Box\phi ∣ \phi_1\cup\phi_2$$
-#### Existential Normal Form (ENF) of CTL
+$$\psi ::= \bigcirc\phi ∣ \phi_1\cup\phi_2$$
+#### Existential Normal Form of CTL (ECTL)
 Alternatively, we can get rid of the universal quantifier $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi$$
 $$\psi ::= \bigcirc\phi ∣ \Box\phi ∣ \phi_1\cup\phi_2$$
+or, only state formulas: $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$$
 
 
 ### Semantics of CTL

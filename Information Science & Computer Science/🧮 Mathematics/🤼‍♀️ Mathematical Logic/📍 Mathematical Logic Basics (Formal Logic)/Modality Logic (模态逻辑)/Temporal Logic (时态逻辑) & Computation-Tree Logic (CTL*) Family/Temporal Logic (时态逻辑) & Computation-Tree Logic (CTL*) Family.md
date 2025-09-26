@@ -37,6 +37,7 @@ In this logic a **path quantifier** can prefix an assertion composed of arbitrar
 - For a state $s$ we define the **set of all paths** starting from $s$, as the set of all **maximal executions** starting from $s$: $Paths(s) = \{s_0, s_1, s_2, ... ∣ s_0=s \text{ and } s_i \to s_{i+1}\}$
 	- For a path $\pi = s_0, s_1, s_2, …$ we define the $(i-1)$-th state by $\pi[i]=s_i$
 	- We can also define the prefix starting at the $(i-1)$-th state $\pi[i...]=s_i, s_{i+1}, ...$
+- We define the satisfaction set of an LTL or CTL formula as the set of states that satisfy the formula $sat(\phi) = \{s ∣ s \models \phi\}$
 - Path quantifier:
 	- $A / \forall$ -- “for every path”
 	- $E / \exists$ -- “there exists a path”

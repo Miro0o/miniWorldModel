@@ -111,8 +111,13 @@ Just a collection of notes, snippets and other goodies..
 
 
 
-## Intro
+## Intro to Software Analysis: Program & Binary Analysis
 > ↗ [Software Analysis Basics](📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md)
+
+![](../../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
+<small>【南京大学《软件分析》课程01（Introduction）】 <a>https://www.bilibili.com/video/BV1b7411K7P4</a></small>
+
+> 🎬 [Math's Fundamental Flaw - Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 
 
 ### Program Analysis (and Its Automation)
@@ -157,10 +162,6 @@ Observe the three calls to memcpy: the ones on lines 10 and 30 will result in b
 A dynamic technique, such as fuzzing, has the benefit of creating actionable inputs that will trigger any bugs found. On the other hand, simple fuzzing techniques typically only find shallow bugs and fail to pass through code requiring precisely crafted input. In Listing 1, dynamic techniques will have difficulty finding the bug at line 10, because it requires a specific input for the condition to be satisfied. However, because the overflow on line 30 can be triggered through random testing, fuzzing techniques should be able to find an input which triggers the bug.
 
 To find the bug on line 10, one could introduce an abstract data model to reason about many possible inputs at once. One such approach is Dynamic Symbolic Execution (DSE). However, dynamic symbolic techniques, while powerful, suffer from the “path explosion problem”, where the number of paths grows exponentially with each branch and quickly becomes intractable. A symbolic execution will detect the bug on line 10 and generate an input for it using a constraint solver. Additionally, it should be able to prove that the memcpy on line 16 cannot overflow. However, the execution will likely not be able to find the bug at line 30, as there are too many potential paths which do not trigger the bug.
-
-
-### Software Analysis (Program & Binary) Basics
-↗ [Software Analysis Basics](📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md)
 
 
 

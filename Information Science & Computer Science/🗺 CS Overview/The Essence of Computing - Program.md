@@ -117,7 +117,10 @@ A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
 - $S$ is a set of states,
 - $Act$ is a set of actions,
 - $\to \subseteq S \times Act \times S$ is a transition relation,
+	-  or use $\delta$ to express $\to$
 - $I \subseteq S$ is a set of initial states,
+	- $\sigma\in I$
+	- or, when using $\tau$ or $\pi$ to symbol a trace on $TS$, $\tau_0 = \sigma \in I$ or $\pi_0=\sigma\in I$
 - $AP$ is a set of atomic propositions, 
 - $L$: $S→AP^2$ is a labeling function.
 
