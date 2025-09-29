@@ -14,7 +14,7 @@
 ↗ [MinGW & MinGW-w64](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 ↗ [MSYS & MSYS2](../../🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 
-↗ [PuTTY](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/PuTTY.md)
+↗ [PuTTY](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/PuTTY.md)
 
 
 

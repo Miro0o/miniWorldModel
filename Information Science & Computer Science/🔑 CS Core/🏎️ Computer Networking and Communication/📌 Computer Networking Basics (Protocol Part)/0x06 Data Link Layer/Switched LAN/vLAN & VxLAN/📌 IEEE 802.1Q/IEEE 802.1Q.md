@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [IEEE 802.1](../../📢%20Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md)
+↗ [IEEE 802.1 (Higher Layer LAN Protocols Working Group)](../../📌%20IEEE%20802%20Family/IEEE%20802.1%20(Higher%20Layer%20LAN%20Protocols%20Working%20Group).md)
 
 
 

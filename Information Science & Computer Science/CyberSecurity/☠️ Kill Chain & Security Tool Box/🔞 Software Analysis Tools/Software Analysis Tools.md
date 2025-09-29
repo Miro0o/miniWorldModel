@@ -12,7 +12,7 @@
 ↗ [Static Code Analysis Tools (SCAT)](⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 
 ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-↗ [Vulnerability Discovery（漏洞检测）](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery（漏洞检测）.md)
+↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 ↗ [Vulnerability Disclosure（漏洞挖掘）](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Disclosure（漏洞挖掘）.md)
 
 ↗ [Security Audit & Security Audit Trail](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)

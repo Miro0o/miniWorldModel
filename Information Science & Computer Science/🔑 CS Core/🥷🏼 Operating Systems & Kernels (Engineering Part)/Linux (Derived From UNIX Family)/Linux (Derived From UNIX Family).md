@@ -114,6 +114,9 @@ linux-insides | A book-in-progress about the linux kernel and its insides.
 **The goal is simple** - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter. Feel free to go through the book [Start here](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
 (go to ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md))
 
+https://lwn.net/
+LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See [the LWN FAQ](https://lwn.net/op/FAQ.lwn) for more information, and please consider [subscribing](https://lwn.net/subscribe/Info) to gain full access and support our activities.
+
 
 ### 🗣 Linux & Free Software Communities
 > ↗ [Linux Free Software & FLOSS & FOSS](Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)

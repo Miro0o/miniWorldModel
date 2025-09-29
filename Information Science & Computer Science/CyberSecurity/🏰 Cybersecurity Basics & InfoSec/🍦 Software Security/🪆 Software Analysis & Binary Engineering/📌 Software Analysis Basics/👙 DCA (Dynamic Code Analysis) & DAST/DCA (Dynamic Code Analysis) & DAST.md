@@ -72,7 +72,7 @@ It might seem obvious that we can learn about a program by running it, but it is
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html
 
 Dynamic analysis consists of three phases, [Trace Selection (§1.1)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-selection), [Trace Abstraction and Prediction (§1.3)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction), and [Trace Analysis (§1.2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-analysis).
-#### Trace Selection
+#### 1️⃣ Trace Selection
 > ↗ [(Formal) Model Checking /1️⃣ System Modeling](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
 First, recall the definition of a Transition System from [Transition System and Traces (§2.4)](https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:trace-semantics). A program $P$ can be described as a triplet $⟨𝐒𝐭𝐚𝐭𝐞_P,\delta_P,I_P⟩$, were $\delta_P$ is the transition function and $I_P$ is the set of initial states.
@@ -81,7 +81,7 @@ In the first phase, we select a trace from the transitions system. This consists
 If the program is deterministic, there is only one trace per input state. If the program is non-deterministic, like for example with parallel programs each initial state might give rise to multiple traces.
 
 Selecting the initial state or even executing the program is not trivial in practice (see [Running the Program (§2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:running-the-program)).
-#### Trace Abstraction and Prediction & Program Properties
+#### 2️⃣ Trace Abstraction and Prediction & Program Properties
 > ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
 >↗  [Temporal Logic (时态逻辑) & Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family.md)
 
@@ -98,7 +98,8 @@ Now that we have a trace, we can make several deductions about behaviors of the 
 Any question we can answer correctly for one trace can be turned into a _may analysis_ for the full program. If we find a trace that ends in a failure, the program might fail. If the we find a trace where opened resource is not closed, we know that program may not close all resources in the program. So, essentially for any property $X$ we can find in one trace, we can build an may analysis which can detect it: $$\exists\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 Actually, if we can increase the precision of the analysis by running the program multiple times. And, in the limit (assuming that we could run all traces) a dynamic analysis precisely captures any property. $$\forall\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 
-#### Trace Analysis
+#### 3️⃣ Trace Analysis
+> ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
 > ↗ [Runtime Verification](Runtime%20Verification/Runtime%20Verification.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction
@@ -127,7 +128,15 @@ It might seem obvious, that we can learn things about the program by running it,
 
 
 
-## DAST (Dynamic Application Security Testing)
+## Software Testing
+↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Types of Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Types%20of%20Software%20Testing/Types%20of%20Software%20Testing.md)
+
+
+### Functional Testing
+
+
+### DAST (Dynamic Application Security Testing)
 
 
 

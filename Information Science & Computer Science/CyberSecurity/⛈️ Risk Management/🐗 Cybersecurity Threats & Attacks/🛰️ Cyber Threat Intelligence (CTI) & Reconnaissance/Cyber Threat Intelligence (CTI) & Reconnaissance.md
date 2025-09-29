@@ -11,7 +11,7 @@
 
 ↗ [Social Engineering & Physical Security](../Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 ↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-- ↗ [Vulnerability Discovery（漏洞检测）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery（漏洞检测）.md)
+- ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 - ↗ [Vulnerability Assessment (VA)（漏洞评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/📌%20Vulnerability%20Government（漏洞管控）/📊%20Vulnerability%20Assessment%20(VA)（漏洞评估）/Vulnerability%20Assessment%20(VA)（漏洞评估）.md)
 
 ↗ [Cyberspace Assets](../../🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)

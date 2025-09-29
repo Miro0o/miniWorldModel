@@ -16,10 +16,15 @@
 ↗ [Network Traffic Analysis](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Pen-testing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Pen-testing%20Tools/Pen-testing%20Tools.md)
+↗ [Pen-testing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
 
 ↗ [Packet Analyzing & Sniffing & Spoofing](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 ↗ [Packet Analyzing & Sniffing & Spoofing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools.md)
+
+↗ [The Nmap Project](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/The%20Nmap%20Project.md)
+↗ [Metasploit Framework (MSF)](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+↗ [aircrack-ng Suites](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
+↗ [hashcat](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/hashcat.md)
 
 
 ### Learn it by doing it!
@@ -52,6 +57,16 @@ CS 161 Textbook
 - [Abusing Intrusion Detection](https://textbook.cs161.org/network/abusing-intrusion-detection.html)
 - [Malware](https://textbook.cs161.org/network/malware.html)
 - [Anonymity and Tor](https://textbook.cs161.org/network/tor.html)
+
+
+### Other Resources
+[Npcap.com](https://npcap.com/)
+- [Seclists.org](https://seclists.org/)
+- [Sectools.org](https://sectools.org/)
+	- SecTools.Org: Top 125 Network Security Tools
+	- For more than a decade, the [Nmap Project](http://nmap.org/) has been cataloguing the network security community's favorite tools. In 2011 this site became much more dynamic, offering ratings, reviews, searching, sorting, and a [new tool suggestion form](http://sectools.org/contrib/). This site allows open source and commercial tools on any platform, except those tools that we maintain (such as the [Nmap Security Scanner](http://nmap.org/), [Ncat network connector](http://nmap.org/ncat/), and [Nping packet manipulator](http://nmap.org/nping/)).
+	- We're very impressed by the collective smarts of the security community and we highly recommend reading the whole list and investigating any tools you are unfamiliar with. Click any tool name for more details on that particular application, including the chance to read (and write) reviews. Many site elements are explained by tool tips if you hover your mouse over them. Enjoy!
+- [Insecure.org](https://insecure.org/)
 
 
 
@@ -92,7 +107,7 @@ Recall the Security Tria:
 #### Security Mechanisms
 ↗ [Cryptography](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 
-↗ [Network Security Protocol Stacks](🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
+↗ [Network Security Protocol Stacks](Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
 
 ↗ [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 - Classification
@@ -101,7 +116,7 @@ Recall the Security Tria:
 	- Identification 
 	- Authentication 
 	- Authorization
-↗ [Networking Access Control](🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20Access%20Control.md)
+↗ [Networking Access Control](Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20Access%20Control.md)
 ↗ [InfoSec /Access Control](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
 ↗ [IDS (Intrusion Detection Systems)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)

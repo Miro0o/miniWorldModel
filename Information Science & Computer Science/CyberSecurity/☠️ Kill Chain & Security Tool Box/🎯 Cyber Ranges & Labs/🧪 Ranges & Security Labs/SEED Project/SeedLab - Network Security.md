@@ -9,8 +9,8 @@
 
 
 ## 👉 Port Scanning Lab
-↗ [Port Scan & Port Discovery](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Port%20Scan%20&%20Port%20Discovery.md)
-↗ [Port Scanning](../../../Reconnaissance%20&%20Exploration%20Tools/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
+↗ [Port Scan & Port Discovery](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Network-Based/Port%20Scan%20&%20Port%20Discovery.md)
+↗ [Port Scanning](../../../Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
 
 
 [👍 Port Scanning Techniques | Nmap]: https://nmap.org/book/man-port-scanning-techniques.html

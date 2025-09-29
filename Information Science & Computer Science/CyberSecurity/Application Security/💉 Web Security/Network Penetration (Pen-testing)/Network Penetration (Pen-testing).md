@@ -12,7 +12,7 @@
 ## Res
 ### Related Topics
 ↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
-- ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Pen-testing%20Tools/Pen-testing%20Tools.md)
+- ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
 
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 - ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)

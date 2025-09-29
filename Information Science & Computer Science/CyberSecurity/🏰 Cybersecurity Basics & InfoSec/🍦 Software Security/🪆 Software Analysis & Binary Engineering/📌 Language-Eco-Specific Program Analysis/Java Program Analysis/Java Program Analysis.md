@@ -13,8 +13,8 @@
 ↗ [Java Web](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Language%20&%20Ecosystems/Java%20Web.md)
 ↗ [Web Security](../../../../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 
-↗ [Sootup (Soot)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Java%20SCAT/Sootup%20(Soot).md)
-↗ [Tai-e](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Java%20SCAT/Tai-e.md)
+↗ [Sootup (Soot)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Language-Eco-Specific%20SCAT/Java%20SCAT/Sootup%20(Soot).md)
+↗ [Tai-e](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Language-Eco-Specific%20SCAT/Java%20SCAT/Tai-e.md)
 
 
 

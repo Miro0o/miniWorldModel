@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [NAT (Network Address Translation)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 ↗ [Reverse Proxy Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🪇%20Reverse%20Proxy%20Servers/Reverse%20Proxy%20Servers.md)
-↗ [Reverse Tunneling over SSH](../../🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/Reverse%20Tunneling%20over%20SSH.md)
+↗ [Reverse Tunneling over SSH](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/Reverse%20Tunneling%20over%20SSH.md)
 
 
 

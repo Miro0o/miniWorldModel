@@ -12,10 +12,10 @@
 
 
 ### Related Topics
-↗ [DNSSEC (Securing DNS)](../../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/DNSSEC%20(Securing%20DNS)/DNSSEC%20(Securing%20DNS).md)
+↗ [DNSSEC (Securing DNS)](../../../../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/DNSSEC%20(Securing%20DNS)/DNSSEC%20(Securing%20DNS).md)
 
 ↗ [Database System /Directory Services /DNS Servers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
-↗ [DNS & Domain Reconnaissance](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/DNS%20&%20Domain%20Reconnaissance.md)
+↗ [DNS & Domain Reconnaissance](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Network-Based/DNS%20&%20Domain%20Reconnaissance.md)
 ↗ [🌏 Global DNS Service Providers](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 

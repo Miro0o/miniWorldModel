@@ -34,10 +34,10 @@ $ Test-NetConnection 192.168.178.35 -p 389
 
 
 ### 👉 `ssh` -> `mosh` /`autossh` -> `et`
-> ↗ [SSH Clients & Remote Shell](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
-> ↗ [ET (Eternal Terminal)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/ET%20(Eternal%20Terminal).md)
-> ↗ [autossh](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/autossh.md)
-> ↗ [Mosh (Mobile SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/Mosh%20(Mobile%20SHell).md)
+> ↗ [SSH Clients & Remote Shell](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
+> ↗ [ET (Eternal Terminal)](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/ET%20(Eternal%20Terminal).md)
+> ↗ [autossh](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/autossh.md)
+> ↗ [Mosh (Mobile SHell)](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/Mosh%20(Mobile%20SHell).md)
 
 
 **[SSH](https://www.openssh.com/)** stands for Secure Shell. It's the de facto standard for secure communication between two hosts on internet (LAN as well). 

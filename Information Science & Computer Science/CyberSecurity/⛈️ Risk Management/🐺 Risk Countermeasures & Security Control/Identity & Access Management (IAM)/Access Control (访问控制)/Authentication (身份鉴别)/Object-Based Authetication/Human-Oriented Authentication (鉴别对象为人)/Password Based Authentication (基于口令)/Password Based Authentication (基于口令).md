@@ -82,8 +82,8 @@ OPT 安全性分析：
 
 
 ### 👉 Challenge /Response (质询/响应 ｜ 挑战/应答)
-> ↗ [EAP (Extensible Authentication Protocol)](../../../../../../../../Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/EAP%20(Extensible%20Authentication%20Protocol)/EAP%20(Extensible%20Authentication%20Protocol).md)
-> ↗ [EAPoL (EAP over LAN)](../../../../../../../../Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x%20Implementations/EAPoL%20(EAP%20over%20LAN).md)
+> ↗ [EAP (Extensible Authentication Protocol)](../../../../../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/EAP%20(Extensible%20Authentication%20Protocol)/EAP%20(Extensible%20Authentication%20Protocol).md)
+> ↗ [EAPoL (EAP over LAN)](../../../../../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x%20Implementations/EAPoL%20(EAP%20over%20LAN).md)
 
 基于质询—应答的身份鉴别在鉴别时，由验证者给声称者发送一个确定的值（质询消息），该值参与鉴别信息的运算。产生的非重复质询消息完全由验证者决定，使得每次传输的鉴别信息不同。这能很好地防止口令窃听和重放，但需要额外的通信花销。
 

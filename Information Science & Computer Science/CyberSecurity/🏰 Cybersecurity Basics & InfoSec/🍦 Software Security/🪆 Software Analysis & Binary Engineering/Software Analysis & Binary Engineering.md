@@ -20,7 +20,7 @@
 	- ↗ [Windows PE (Portable Executable) File](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
 
 ↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-- ↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery（漏洞检测）.md)
+- ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 - ↗ [Vulnerability Disclosure（漏洞挖掘）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Disclosure（漏洞挖掘）.md)
 ↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 

@@ -9,7 +9,7 @@
 ↗ [Shell & Terminals (Console)](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 
 ↗ [Remote Administration(Access) Tools (RAT)](../../../../Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
-↗ [SSH Clients & Remote Shell](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
+↗ [SSH Clients & Remote Shell](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
 
 
 

@@ -6,21 +6,21 @@
 
 ## Res
 ### Related Topics
-↗ [IEEE 802.11 (1999)](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11%20(1999)/IEEE%20802.11%20(1999).md)
-↗ [IEEE 802 Family](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802%20Family.md)
-- ↗ [WLAN & WiFi (802.11)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/WLAN%20&%20WiFi%20(802.11)/WLAN%20&%20WiFi%20(802.11).md)
-	- ↗ [WiFi](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/WLAN%20&%20WiFi%20(802.11)/WiFi/WiFi.md)
-- [Wireless PAN (802.15)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/Wireless%20PAN%20(802.15)/Wireless%20PAN%20(802.15).md)
+↗ [IEEE 802.11 Security Standards & WPA](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
+↗ [IEEE 802 Family](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/IEEE%20802%20Family.md)
+- ↗ [LAN, WLAN & WiFi (802.11)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/LAN,%20WLAN%20&%20WiFi%20(802.11).md)
+	- ↗ [Wi-Fi Alliance & WiFi Technology](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/Wi-Fi%20Alliance%20&%20WiFi%20Technology/Wi-Fi%20Alliance%20&%20WiFi%20Technology.md)
+- [Wireless PAN (802.15)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/Wireless%20PAN%20(802.15)/Wireless%20PAN%20(802.15).md)
 
 ↗ [Wireless & Mobile Network](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20&%20Mobile%20Network.md)
 - ↗ [Wireless Access](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20Access/Wireless%20Access.md)
 
-↗ [Physical & Link Layer Security](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20&%20Link%20Layer%20Security.md)
-- ↗ [IEEE 802.11 (1999)](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11%20(1999)/IEEE%20802.11%20(1999).md)
-	- ↗ [WEP (Wired Equivalent Privacy)](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11%20(1999)/WEP%20(Wired%20Equivalent%20Privacy).md)
-- ↗ [IEEE 802.11,i,x,s & WPA](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/IEEE%20802.11,i,x,s%20&%20WPA.md)
-	- [WPA2 (802.11i) (2004)](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20Protocols/WPA2%20(802.11i)%20(2004)/WPA2%20(802.11i)%20(2004).md)
-	- [WPA3 (2018)](../../../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11,i,x,s%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20Protocols/WPA3%20(2018)/WPA3%20(2018).md)
+↗ [Physical & Link Layer Security](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20&%20Link%20Layer%20Security.md)
+- ↗ [IEEE 802.11 Security Standards & WPA](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
+	- ↗ [WEP (Wired Equivalent Privacy)](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/WEP%20(Wired%20Equivalent%20Privacy).md)
+	- ↗ [WPA (1999)](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20Protocols/WPA%20(1999).md)
+	- ↗ [WPA2 (802.11i) (2004)](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20Protocols/WPA2%20(802.11i)%20(2004)/WPA2%20(802.11i)%20(2004).md)
+	- ↗ [WPA3 (2018)](../../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/WPA%20(Wi-Fi%20Protected%20Access)/WPA%20Protocols/WPA3%20(2018)/WPA3%20(2018).md)
 
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 - ↗ [Passive Recon & (Defensive) OSINT](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
@@ -28,7 +28,7 @@
 ↗ [Reconnaissance & Exploration Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
 
 ↗ [Delivery Phase](../../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Delivery%20Phase/Delivery%20Phase.md)
-↗ [Delivery Tools & Wireless](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Delivery%20Tools%20&%20Wireless.md)
+↗ [Delivery Tools & Wireless](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/Delivery%20Tools%20&%20Wireless.md)
 
 
 ### Other Resources
@@ -59,7 +59,7 @@ In this chapter, we will examine several housekeeping tasks and wireless attacks
 
 
 ### 👉 aircrack-ng
-↗ [aircrack-ng](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng/aircrack-ng.md)
+↗ [aircrack-ng Suites](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 
 
 ### 👉 Kismet

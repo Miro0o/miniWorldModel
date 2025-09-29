@@ -26,8 +26,6 @@
 
 
 
-
-
 ## Ref
 [👍 openstack学习-网络管理(转)]: https://heitaoq66.github.io/2020/03/19/openstack学习-网络管理/
 

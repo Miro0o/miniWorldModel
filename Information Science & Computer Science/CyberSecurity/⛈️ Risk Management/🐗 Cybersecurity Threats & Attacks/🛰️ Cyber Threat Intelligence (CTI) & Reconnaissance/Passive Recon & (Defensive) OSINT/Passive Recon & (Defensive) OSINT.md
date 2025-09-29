@@ -397,7 +397,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 > ↗ [Cyber Assets Attack Surface Management (CAASM)](../../../🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
 > ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 > 
-> ↗ [Network Topology Construction](../Active%20Recon%20&%20Offensive%20OSINT/Network%20Topology%20Construction.md)
+> ↗ [Network Topology Construction](../Active%20Recon%20&%20Offensive%20OSINT/Network-Based/Network%20Topology%20Construction.md)
 
 
 ### 📌 Resources
@@ -462,7 +462,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 ## 3️⃣ Human Level OSINT
 > ↗ [Active Recon & Offensive OSINT](../Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
-> ↗ [User Enumeration](../Active%20Recon%20&%20Offensive%20OSINT/User%20Enumeration.md)
+> ↗ [System User Enumeration](../Active%20Recon%20&%20Offensive%20OSINT/Host-Based/System%20User%20Enumeration.md)
 > ↗ [Password Management](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Password%20Management.md)
 > ↗ [Password Attack](../Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 

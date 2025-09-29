@@ -40,7 +40,7 @@ On some types of proprietary computer hardware (in particular, [routers](https:/
 
 Both individual [servers](https://en.wikipedia.org/wiki/Server_(computing)) and [routers](https://en.wikipedia.org/wiki/Router_(computing)) can have network ACLs. Access-control lists can generally be configured to control both inbound and outbound traffic, and in this context, they are similar to [firewalls](https://en.wikipedia.org/wiki/Firewall_(networking)).
 
-> More on ↗️ [Networking ACL](../../../../../../../Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20ACL/Networking%20ACL.md)
+> More on ↗️ [Networking ACL](../../../../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Networking%20Access%20Control/Networking%20ACL/Networking%20ACL.md)
 
 ### Other ACLs..
 #### Active Directory ACLs

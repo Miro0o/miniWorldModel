@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Email Clients](../../../../Generic%20Software%20Tools%20&%20Projects/Email%20Clients/Email%20Clients.md)
-↗ [Email Security](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/📧%20Email%20Security/Email%20Security.md)
+↗ [Email Security](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/📧%20Email%20Security/Email%20Security.md)
 
 
 ### Learning Resources

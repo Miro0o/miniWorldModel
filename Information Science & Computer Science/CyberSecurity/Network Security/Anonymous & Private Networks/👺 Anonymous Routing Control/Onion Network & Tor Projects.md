@@ -76,7 +76,7 @@ Anonymous file sharing is becoming more and more sought after. [Riffle](http://
 ### 💦 Use Tor with Caution
 > Although communications are now protected using the Tor network, it is possible for a DNS leak to occur, which occurs when your system makes a DNS request to provide your identity to an ISP.
 > 
-> Check for DNS leaks:  ↗ [DNS & Domain Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/DNS%20&%20Domain%20Reconnaissance.md)
+> Check for DNS leaks:  ↗ [DNS & Domain Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Network-Based/DNS%20&%20Domain%20Reconnaissance.md)
 
 When using Tor, some considerations to be kept in mind are as follows:
 - Tor provides an anonymizing service, but it does not guarantee privacy. Owners of the exit nodes are able to sniff traffic and may be able to access user credentials.  

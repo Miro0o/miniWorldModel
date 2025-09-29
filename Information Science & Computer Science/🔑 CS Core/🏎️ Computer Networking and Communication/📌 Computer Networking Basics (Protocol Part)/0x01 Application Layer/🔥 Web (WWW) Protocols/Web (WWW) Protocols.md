@@ -54,7 +54,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 <small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
 
 ↗ [HTTP (HyperText Transfer Protocol)](HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
-↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
+↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
 
 
 ### Web Browser /Front End

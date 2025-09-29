@@ -8,14 +8,17 @@
 ### Related Topics
 ↗ [Computer Virtualization](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 ↗ [Hardware-assisted Virtualization](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
+↗ [IO & Network Virtualization](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/IO%20&%20Network%20Virtualization.md)
+
 ↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
+- ↗ [Linux Network Virtualization](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network%20Virtualization/Linux%20Network%20Virtualization.md)
 
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)
 
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 - ↗ [Tunneling & VPN (Virtual Personal Network)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
-- ↗ [SSH Tunneling](../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/📌%20SSH%20Services%20&%20Components/SSH%20Tunneling.md)
+- ↗ [SSH Tunneling](../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/📌%20SSH%20Services%20&%20Components/SSH%20Tunneling.md)
 
 ↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC.md)
 ↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)

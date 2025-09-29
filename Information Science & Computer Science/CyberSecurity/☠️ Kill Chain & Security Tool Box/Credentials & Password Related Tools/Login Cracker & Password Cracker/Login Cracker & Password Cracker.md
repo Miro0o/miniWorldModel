@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Password Attack](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+
 ↗ [Message Digest & Hash Function (Integrity)](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
 ↗ [Identity & Access Management (IAM)](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 ↗ [Wordlist & User Password Profile](../📌%20Wordlist%20&%20User%20Password%20Profile/Wordlist%20&%20User%20Password%20Profile.md)
@@ -50,6 +52,7 @@ This is a curated list of awesome tools, research, papers and other projects rel
 
 ## Intro
 ### Security Account Manager (SAM)
+↗ [Credential Manager & SAM (Secure Account Manager)](../Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager)/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager).md)
 
 
 
@@ -124,7 +127,7 @@ kali下一款ZIP压缩包密码破解工具。
 ### 👉 aircrack-ng
 是一个与801.11标准的无线网络分析有关的安全软件，主要功能：网络侦测，数据包嗅探，WEP和WPA/WPA2-PSK破解，Aircrack-ng可以工作在任何支持监听模式的无线网卡上并嗅探802.11a，802.11b，802.11g的数据。该程序可运行在Linux和Windows上，Linux版本已经被移植到了Zaurus和Maemo平台上
 
-↗ [aircrack-ng](../../Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng/aircrack-ng.md)
+↗ [aircrack-ng Suites](../../Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 
 ### 👉 Cowpatty
 一款知名的WPA-PSK握手包密码破解工具。

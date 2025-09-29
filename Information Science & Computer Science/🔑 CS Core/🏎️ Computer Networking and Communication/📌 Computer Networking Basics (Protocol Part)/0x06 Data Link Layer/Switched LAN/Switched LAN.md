@@ -53,15 +53,15 @@ LAN 表示 Local Area Network，本地局域网。**一个 LAN 表示一个广�
 
 ## Broadcast Channels on Switched LAN
 ### IEEE 802 Family
-↗ [IEEE 802 Family](📢%20Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802%20Family.md)
+↗ [IEEE 802 Family](📌%20IEEE%20802%20Family/IEEE%20802%20Family.md)
 
 
 ### Ethernet (802.3)
-↗ [Ethernet (802.3)](📢%20Broadcast%20Channels/IEEE%20802%20Family/Ethernet%20(802.3)/Ethernet%20(802.3).md)
+↗ [Ethernet (802.3)](📌%20IEEE%20802%20Family/Ethernet%20(802.3)/Ethernet%20(802.3).md)
 
 
 ### WLAN & WiFi
-↗ [WLAN & WiFi (802.11)](📢%20Broadcast%20Channels/IEEE%20802%20Family/WLAN%20&%20WiFi%20(802.11)/WLAN%20&%20WiFi%20(802.11).md)
+↗ [LAN, WLAN & WiFi (802.11)](📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/LAN,%20WLAN%20&%20WiFi%20(802.11).md)
 
 
 
