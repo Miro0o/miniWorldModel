@@ -1,4 +1,4 @@
-# IDE (Integrated Device Electronics)
+# System Bus (Legacy)
 
 [TOC]
 

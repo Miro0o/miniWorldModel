@@ -1,4 +1,4 @@
-# Ethernet Interface
+# Ethernet Interface (RJ45)
 
 [TOC]
 

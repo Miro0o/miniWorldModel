@@ -130,7 +130,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideology in CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
-↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
+↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
@@ -173,7 +173,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 ### Computer System Hardware Development
 ↗ [History of Computer Evolution](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
-↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
+↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
 ↗ [History of Computer Networking and Communication Evolution](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 ![](../../../Assets/Pics/Screenshot%202025-03-22%20at%2020.49.56.png)

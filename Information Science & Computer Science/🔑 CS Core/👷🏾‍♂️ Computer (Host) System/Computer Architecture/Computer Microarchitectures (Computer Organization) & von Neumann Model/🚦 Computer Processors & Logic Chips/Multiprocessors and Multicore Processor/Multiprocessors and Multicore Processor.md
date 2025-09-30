@@ -1,4 +1,4 @@
-# Multiprocessors and Multicore Processors
+# Multiprocessors and Multicore Processor
 
 [TOC]
 

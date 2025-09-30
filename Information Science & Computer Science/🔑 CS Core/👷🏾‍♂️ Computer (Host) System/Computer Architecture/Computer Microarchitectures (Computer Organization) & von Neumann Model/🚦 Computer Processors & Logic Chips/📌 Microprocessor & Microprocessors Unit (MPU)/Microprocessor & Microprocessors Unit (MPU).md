@@ -1,4 +1,4 @@
-# Microprocessors Unit (MPU)
+# Microprocessor & Microprocessors Unit (MPU)
 
 [TOC]
 
@@ -26,12 +26,16 @@
 > 
 > Other processors at ↗ [Computer Processors & Logic Chips](../Computer%20Processors%20&%20Logic%20Chips.md)
 
-### CPU
+
+### Microprocessor
+
+
+### Microprocessor Units
+#### CPU
 ↗ [CPU (Central Processing Unit)](CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-
-
-### GPU
-#### TPU
+#### GPU
+↗ [GPU (Graphics Processing Unit)](GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+##### TPU
 > 🔗 https://www.kaggle.com/general/221800
 > 
 > - **Tensor Processing Unit abbreviation TPU** is a custom-built integrated circuit developed specifically for machine learning and tailored for TensorFlow, Google's open-source machine learning framework. TPU’s have been powering Google data centers since 2015, however Google still uses CPUs and GPUs for other types of machine learning.  
@@ -40,9 +44,7 @@
 > 
 > https://iq.opengenus.org/cpu-vs-gpu-vs-tpu/
 > https://www.quora.com/What-is-the-difference-between-GPUs-CPUs-and-TPUs
-
-
-### DSP
+#### DSP
 A **digital signal processor** (**DSP**) is a specialized microprocessor chip, with its architecture optimized for the operational needs of [digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing "Digital signal processing").
 
 DSPs are fabricated on [MOS integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") chips.
@@ -65,6 +67,7 @@ table-id-UsDPYe
 
 
 ## MPU Models & Manufacturers
+
 
 
 ## Ref

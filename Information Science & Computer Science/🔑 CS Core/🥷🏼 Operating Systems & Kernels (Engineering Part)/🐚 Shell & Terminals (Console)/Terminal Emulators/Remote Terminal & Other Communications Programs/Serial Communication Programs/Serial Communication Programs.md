@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Serial Port (COM, Cluster Communication Port)](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Ports%20(External%20Bus)/📌%20Obsolete%20Ports/Serial%20Port%20(COM,%20Cluster%20Communication%20Port).md)
+↗ [Serial Port (COM, Cluster Communication Port)](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Ports%20(External%20Bus)/📌%20Obsolete%20Ports/Serial%20Port%20(COM,%20Cluster%20Communication%20Port).md)
 ↗ [Xshell](../../📌%20Windows%20Console%20&%20ConPTY%20Based/Xshell.md)
 
 

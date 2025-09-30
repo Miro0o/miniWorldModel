@@ -6,9 +6,11 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Network Layering Architecture](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Layering%20Architecture.md)
+- ![](../../../../../../Assets/Pics/Screenshot%202023-03-27%20at%2010.17.56%20AM.png)
 ↗ [0x06 Data Link Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
 ↗ [0x07 Physical Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 ↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
 ↗ [Computer IO System](../Computer%20IO%20System/Computer%20IO%20System.md)
@@ -129,6 +131,10 @@ Bus（总线）具有以下特点：
 
 
 ### Buses By Functions /Signals Types
+
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 #### 1️⃣ Address Bus
 Address lines indicate the location (e.g., in memory) that the data should be either read from or written to.
 #### 2️⃣ Data Bus
@@ -142,31 +148,26 @@ Control lines indicate which device has permission to use the bus and for what p
 ### Buses By Location
 > 按照总线在计算机系统中所处的物理位置，总线可以分为片上总线、内存总线、系统总线和设备总线。
 #### 1️⃣ Internal Bus (On-Chip Bus)｜片上总线
-> ↗ [System Bus](System%20Bus/System%20Bus.md)
+> ↗ [CPU Internal Bus](CPU%20Internal%20Bus/CPU%20Internal%20Bus.md)
 
 The internal bus connects the CPU, memory, and all other internal components
-
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
-
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
-#### 2️⃣ External Bus (Expansion Bus) | 设备总线
-> ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+#### 2️⃣ Expansion Bus | 设备总线
+> ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 External buses connect external devices, peripherals, expansion slots, and I/O ports to the rest of the computer.
-#### 3️⃣ Local Bus (System Bus) | 系统总线
-> ↗ [Local Bus](Local%20Bus/Local%20Bus.md)
+##### 3️⃣ Local Bus | 系统总线
+> ↗ [Local Bus](🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/🚌%20Local%20Bus/Local%20Bus.md)
 
 Data buses that connect a peripheral device **directly to the CPU**.
 
-Also called the "system bus," a local bus is the pathway between the CPU, memory and peripheral controller chips. The term was popular in the early 1990s with the introduction of the VESA local bus (see [VL-bus](https://www.pcmag.com/encyclopedia/term/vl-bus)).
+A local bus is the pathway between the CPU, memory and peripheral controller chips. The term was popular in the early 1990s with the introduction of the VESA local bus (see [VL-bus](https://www.pcmag.com/encyclopedia/term/vl-bus)).
 
 ![](https://i.pcmag.com/imagery/encyclopedia-terms/local-bus-localbus.fit_lim.size_1024x.gif)
 <small>https://www.pcmag.com/encyclopedia/term/local-bus</small>
 #### 4️⃣ Memory Bus | 内存总线
 
 #### Other Buses
-↗ [Backplane Bus](Other%20Bus/Backplane%20Bus.md)
-↗ [CPU Internal Bus](Other%20Bus/CPU%20Internal%20Bus.md)
+↗ [Backplane Bus](Other%20Buses/Backplane%20Bus.md)
 
 
 
