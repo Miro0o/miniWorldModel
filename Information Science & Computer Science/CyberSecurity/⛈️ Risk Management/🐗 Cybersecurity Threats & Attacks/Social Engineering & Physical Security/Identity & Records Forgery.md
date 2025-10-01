@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Proxy Technology & GFW 🇨🇳](../../../Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
-↗ [Onion Network & Tor Projects](../../../Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Routing%20Control/Onion%20Network%20&%20Tor%20Projects.md)
+↗ [Onion Network & Tor Projects](../../../Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 ↗ [Whonix](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix.md)
 
 ↗ [Identification (身份证明)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)

@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+
 ↗ [Software Analysis & Binary Engineering](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Forensics & Traceability Analysis](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Forensics%20&%20Traceability%20Analysis.md)
 ↗ [Passive Recon & (Defensive) OSINT](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
@@ -43,8 +44,15 @@ Please feel free to check out, download, and share some of our free software, se
 
 
 ## Intro: Kill Chain
-> 💡
-> The conception of 'kill chain' was coined against scenarios in ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md). Here in this section of notes i extend it to a broader scope covering all tools used in security activities. 
+> ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+> ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+
+> 💡 The conception of 'kill chain' was coined against scenarios in ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md). Here in this section of notes i extend it to a broader scope covering all tools used in security activities. 
+
+![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
+<small>Threat Modeling using ATTCK Threat Tactics. <br><a>https://attack.mitre.org/matrices/enterprise/</a></small>
+
+> 📖 Mastering Kali Linux for Advanced Penetration Testing
 
 In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is now known as the **attacker kill chain**. This includes the steps taken by an adversary when they are attacking a network. It does not always proceed in a linear flow as some steps may occur in parallel. Multiple attacks may be launched over time at the same target, and overlapping stages may occur at the same time.
 

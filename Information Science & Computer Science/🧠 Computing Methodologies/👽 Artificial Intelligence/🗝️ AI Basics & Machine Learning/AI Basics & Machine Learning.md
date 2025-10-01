@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗️ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-↗ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗️ [Deep Learning (Neural Networks)](🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Statistical Learning Theory](📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
 
 ↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md) 
 ↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
-↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-↗️ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗️ [Statistical Learning Theory](📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗️ [Deep Learning (Neural Networks)](🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 
 ### Learning Resource
@@ -68,7 +68,7 @@ News, community, and courses for people building AI-powered products.
 
 
 ### Types of Machine Learning Models
-More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md) and ↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📊%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md) and ↗ [Neural Network Models](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 
 ### Notations for Deep Learning & ML
@@ -80,7 +80,7 @@ Suggested Notation for Machine Learning
 ## Types of Model Training /Learning Strategies
 ![Screenshot 2023-01-28 at 12.26.51 PM](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.26.51%20PM.png)
 
-↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
+↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📊%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
 
 
 ### 1️⃣ Supervised Learning
@@ -92,11 +92,11 @@ Suggested Notation for Machine Learning
 
 
 ### 3️⃣ Reinforcement learning
-↗ [Reinforcement Learning](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Reinforcement%20Learning/Reinforcement%20Learning.md)
+↗ [Reinforcement Learning](📊%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Reinforcement%20Learning/Reinforcement%20Learning.md)
 
 
 ### 4️⃣ Unsupervised learning
-↗ [Unsupervised Learning](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
+↗ [Unsupervised Learning](📊%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
 
 
 
@@ -111,24 +111,24 @@ Suggested Notation for Machine Learning
 
 
 ### 1️⃣ Data Preparation
-↗ [Dataset Preparation](📌%20Deep%20Learning%20(Neural%20Network)/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [Dataset Preparation](🌊%20Deep%20Learning%20(Neural%20Network)/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 
 
 ### 2️⃣ Model Selection
-↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
-↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📊%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
+↗ [Neural Network Models](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 
 ### 3️⃣ Model Training
-↗ [Model Training](📌%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Training.md)
+↗ [Model Training](🌊%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Training.md)
 
 
 ### 4️⃣ Training Monitoring & Fine Tuning
-↗ [Process Monitoring](📌%20Deep%20Learning%20(Neural%20Network)/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
+↗ [Process Monitoring](🌊%20Deep%20Learning%20(Neural%20Network)/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
 
 
 ### 5️⃣ Model Deployments & Applications
-↗ [Deployment & Application](📌%20Deep%20Learning%20(Neural%20Network)/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
+↗ [Deployment & Application](🌊%20Deep%20Learning%20(Neural%20Network)/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
 
 
 

@@ -94,11 +94,12 @@ Wi-Fi NICs can usually support several **802.11 interface modes** (depends on dr
 | **Mesh Point (802.11s)**               | Mesh networking mode where devices forward traffic for each other.                                                                         |
 | **P2P / Wi-Fi Direct**                 | Peer-to-peer connection initiated without a central AP (used in some IoT and phone features).                                              |
 | **WDS (Wireless Distribution System)** | Extends a LAN by linking APs wirelessly (AP-to-AP bridging).                                                                               |
-#### Managed (Station, STA)
+#### Infrastructure Mode
+##### Managed (Station, STA)
 
-#### Master (Access Point, AP)
+##### Master (Access Point, AP)
 
-#### Ad-Hoc (IBSS)
+#### Ad-Hoc (IBSS, p2p)
 
 #### Monitor
 

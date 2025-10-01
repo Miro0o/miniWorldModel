@@ -9,7 +9,7 @@
 ↗ [Internet & Entertainment Industry](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 ↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
-↗ [Onion Network & Tor Projects](👺%20Anonymous%20Routing%20Control/Onion%20Network%20&%20Tor%20Projects.md)
+↗ [Onion Network & Tor Projects](👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 ↗ [Whonix](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix.md)
 
 
@@ -60,7 +60,7 @@ Always exercise extreme caution when using publicly posted onion URLs. If you ca
 
 
 ### Dark web & Tor
-> ↗ [Onion Network & Tor Projects](👺%20Anonymous%20Routing%20Control/Onion%20Network%20&%20Tor%20Projects.md)
+> ↗ [Onion Network & Tor Projects](👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 
 For many, Tor is synonymous with the [dark web](https://www.avast.com/c-dark-web) — the unindexed part of the internet that’s only accessible with certain browsers. The connection between Tor and the dark web started with the [Silk Road, the first dark web market](https://www.avast.com/c-silk-road-dark-web-market) where customers could buy drugs and other illegal goods. When in operation, the notorious online marketplace could only be accessed through Tor.
 

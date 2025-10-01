@@ -5,6 +5,8 @@
 
 
 ## Res
+### Relate Topics
+↗ [Business Models](../../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/Business%20Models.md)
 
 
 
@@ -26,6 +28,7 @@
 ↗ [SaaS (Software as a Service)](SaaS%20(Software%20as%20a%20Service)/SaaS%20(Software%20as%20a%20Service).md)
 
 ### FaaS
+↗ [FaaS (Function as a Service)](FaaS%20(Function%20as%20a%20Service)/FaaS%20(Function%20as%20a%20Service).md)
 
 
 
@@ -36,6 +39,4 @@
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230908172647.png)
 
-
 [IaaS vs. PaaS vs. SaaS | IBM]: https://www.ibm.com/topics/iaas-paas-saas
-

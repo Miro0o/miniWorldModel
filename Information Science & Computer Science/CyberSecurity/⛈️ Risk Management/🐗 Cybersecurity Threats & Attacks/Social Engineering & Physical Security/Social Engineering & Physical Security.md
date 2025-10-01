@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Social Engineering Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Social%20Engineering%20Tools/Social%20Engineering%20Tools.md)
+- ↗ [SET (Social Engineering Toolkits)](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Social%20Engineering%20Tools/SET%20(Social%20Engineering%20Toolkits).md)
 ↗ [Physical Security](../../../Physical%20Security/Physical%20Security.md)
 
 

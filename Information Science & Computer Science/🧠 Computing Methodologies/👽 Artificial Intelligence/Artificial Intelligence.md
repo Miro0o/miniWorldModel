@@ -11,8 +11,8 @@
 
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
-↗ [Statistical Learning Theory](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Statistical Learning Theory](🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)

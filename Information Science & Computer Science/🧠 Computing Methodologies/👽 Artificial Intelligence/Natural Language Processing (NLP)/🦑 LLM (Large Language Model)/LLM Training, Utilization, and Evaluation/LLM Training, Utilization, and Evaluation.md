@@ -18,8 +18,8 @@ The organization of papers refers to our survey [**"A Survey of Large Language 
 
 
 ## Intro
-↗ [Deep Learning (Neural Networks)](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Deep Learning (Neural Networks)](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 
 
@@ -28,7 +28,7 @@ The organization of papers refers to our survey [**"A Survey of Large Language 
 
 
 ### Data Preparation
-↗ [Dataset Preparation](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [Dataset Preparation](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 
 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-data (2025.01)
 - [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
@@ -37,7 +37,7 @@ The organization of papers refers to our survey [**"A Survey of Large Language 
 
 
 ### Neural Network Models & Architectures
-↗ [Neural Network Models](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+↗ [Neural Network Models](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 #### Analysis and Optimization for Model Inference
 
@@ -47,7 +47,7 @@ The organization of papers refers to our survey [**"A Survey of Large Language 
 
 
 ### Model Training
-↗ [Model Training](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Training.md)
+↗ [Model Training](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Training.md)
 #### LLM Training Frameworks
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-training-frameworks (2025.01)
 

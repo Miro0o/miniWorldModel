@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
@@ -263,13 +263,13 @@ https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
 
 
 #### LLM Model Architectures
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation

@@ -239,7 +239,7 @@ or（情感，逻辑）X （认识，实践）
 - 信息科学领域中的“计算”：
 	- ↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 - 深度学习中的"神经网络"模型：
-	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
@@ -332,7 +332,7 @@ or（情感，逻辑）X （认识，实践）
 	- 逻辑能力（较弱）
 		- （自我学习能力？）
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
-↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [Embodied AI & World Model](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI%20&%20World%20Model/Embodied%20AI%20&%20World%20Model.md)
 
 物质 -> 生命 -> 具有自我意识的生命（人类智能）
@@ -499,7 +499,7 @@ or（情感，逻辑）X （认识，实践）
 ###### 基础物质欲望 -- 生存
 衣食住行
 ###### 上层物质欲望/ 基础精神欲望 -- 享乐
-↗ [Entertainment & Mass Media Industry](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Entertainment%20&%20Mass%20Media%20Industry/Entertainment%20&%20Mass%20Media%20Industry.md)
+↗ [Cultures & Entertainment Industry](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
 ↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 ###### 上层精神欲望：学习与教育
 ↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)

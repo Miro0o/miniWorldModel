@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+- ↗ [LLM Agents & Agentical LLM](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
 
 ↗ [LLM & Software Security and Analysis](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 ↗ [LLM & Fuzzing](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
@@ -36,6 +37,17 @@ Zhang, J., Bu, H., Wen, H., Liu, Y., Fei, H., Xi, R., Li, L., Yang, Y., Zhu, H.,
 ##### LLM-Driven Malware
 - [LLMorphism](https://github.com/SPTHvx/SPTH/tree/master/viruses/files/LLMorphism): A self-replicating agent that uses GPT-3.5 as a metamorphic engine, by Second Part to Hell.
 - [Darwin-GPT](https://github.com/muellerberndt/darwin-gpt): A minimal self-replicating agent based on GPT-3.5/4, by Bernhard Mueller.
+
+
+### 👨‍🍳 Agentic LLM + Automated Security
+https://github.com/0x4m4/hexstrike-ai
+HexStrike AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
+- How It Works
+	- **AI Agent Connection** - Claude, GPT, or other MCP-compatible agents connect via FastMCP protocol
+	- **Intelligent Analysis** - Decision engine analyzes targets and selects optimal testing strategies
+	- **Autonomous Execution** - AI agents execute comprehensive security assessments
+	- **Real-time Adaptation** - System adapts based on results and discovered vulnerabilities
+	- **Advanced Reporting** - Visual output with vulnerability cards and risk analysis
 
 
 ### Other Resources

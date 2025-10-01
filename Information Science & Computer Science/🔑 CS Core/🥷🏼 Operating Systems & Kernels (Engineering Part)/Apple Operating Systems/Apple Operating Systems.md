@@ -13,7 +13,7 @@
 ### Related Topics
 ↗ [Apple](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Apple.md)
 
-↗ [Xcode](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/📌%20Generic%20IDE/Xcode.md)
+↗ [Xcode](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/Generic%20IDE/Xcode.md)
 ↗ [Swift](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Swift/Swift.md)
 
 
