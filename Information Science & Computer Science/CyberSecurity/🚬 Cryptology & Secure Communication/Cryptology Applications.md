@@ -11,7 +11,7 @@
 
 ## Cryptology Applications
 ### Data Encryption in Network Communication
-↗ [Channel Encryption](../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security/Channel%20Encryption/Channel%20Encryption.md)
+↗ [Channel Encryption](../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Channel%20Encryption/Channel%20Encryption.md)
 
 ### PGP
 ↗ [PGP](../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/📧%20Email%20Security/PGP.md)

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [WEP & WPA Attacks](../../../../../Network%20Threats%20&%20Attacks/Link%20Layer%20(MAC%20Layer)%20Attacks/🛜%20Wireless%20&%20Mobile%20Network%20Security/WiFi%20Attacks%20&%20Cracking/WEP%20&%20WPA%20Attacks.md)
+↗ [WEP & WPA Attacks](../../../../../Network%20Threats%20&%20Attacks/Link%20Layer%20&%20Physical%20Layer%20Attacks/WiFi%20Attacks%20&%20Cracking/WEP%20&%20WPA%20Attacks.md)
 ↗ [RC4](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Symmetric%20Cipher/Stream%20Cipher%20(Sequence%20Cipher)/Synchronous%20Stream%20Cipher/Binary%20Additive%20Counter%20Stream%20Ciphers/RC4.md)
 
 

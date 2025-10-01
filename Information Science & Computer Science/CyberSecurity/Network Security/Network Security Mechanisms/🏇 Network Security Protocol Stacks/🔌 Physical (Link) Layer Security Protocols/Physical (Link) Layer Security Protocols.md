@@ -1,11 +1,11 @@
-# Physical & Link Layer Security
+# Physical (Link) Layer Security Protocols
 
 [TOC]
 
 
 
 ## Res
-### Related Topcis
+### Related Topics
 
 
 

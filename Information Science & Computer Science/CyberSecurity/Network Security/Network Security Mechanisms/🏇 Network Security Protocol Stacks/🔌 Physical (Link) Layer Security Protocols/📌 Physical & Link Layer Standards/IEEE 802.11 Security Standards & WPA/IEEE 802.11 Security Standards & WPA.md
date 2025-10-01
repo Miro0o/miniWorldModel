@@ -11,7 +11,7 @@
 ↗ [Wi-Fi Alliance & WiFi Technology](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/Wi-Fi%20Alliance%20&%20WiFi%20Technology/Wi-Fi%20Alliance%20&%20WiFi%20Technology.md)
 
 ↗ [Wireless & Mobile Network](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20&%20Mobile%20Network.md)
-↗ [Wireless & Mobile Network Security](../../../../../Network%20Threats%20&%20Attacks/Link%20Layer%20(MAC%20Layer)%20Attacks/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
+↗ [Wireless & Mobile Network Security](../../../../🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 
 
 ### Other Resources
