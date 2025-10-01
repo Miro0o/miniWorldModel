@@ -8,7 +8,10 @@
 ### Related Topics
 ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
 - ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+
 ↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
+- ↗ [Computer Firmware System Interfaces](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Firmware%20System%20Interfaces/Computer%20Firmware%20System%20Interfaces.md)
+- ↗ [Computer (IO Devices) Drivers & Programming](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 
 ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 
@@ -16,7 +19,8 @@
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](../Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 ↗ [Computer Networking and Communication](../../../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
-↗ [Operating System Theory /IO System](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
+↗ [OS IO System](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
+- ↗ [IO Models](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/📌%20IO%20Models/IO%20Models.md)
 
 
 ### Learning Resources

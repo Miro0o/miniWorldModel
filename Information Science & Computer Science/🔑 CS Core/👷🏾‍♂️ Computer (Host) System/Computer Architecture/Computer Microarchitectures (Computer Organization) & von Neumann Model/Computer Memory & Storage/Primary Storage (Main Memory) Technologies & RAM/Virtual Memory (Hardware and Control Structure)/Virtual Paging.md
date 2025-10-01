@@ -53,6 +53,8 @@ By doing so, the system frees up this page’s location for another page that th
 
 
 ## ⭐️ TLB (Translation Look-aside Buffer)
+> ↗ [MMU (Memory Management Unit)](../../../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/MMU%20(Memory%20Management%20Unit).md)
+
 We can speed up the page table lookup by storing the most recent page lookup values in a page table cache called a **translation look-aside buffer (TLB)**. Each TLB entry consists of a virtual page number and its corresponding frame number.
 
 Typically, the TLB is implemented as associative cache, and the virtual page/frame pairs can be mapped anywhere. Here are the steps necessary for an address lookup when using a TLB.

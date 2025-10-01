@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro
@@ -16,6 +18,7 @@
 ## Microcontroller Architecture
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%203.55.11%20PM.png)
 <small>A simplified block diagram of a microcontroller</small>
+
 
 ### Watchdog Timer
 

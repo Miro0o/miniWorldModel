@@ -5,6 +5,7 @@
 
 
 ## 👉 Difference Between Mutual Exclusion and Synchronization
+#mutual_exclusion #OS_Kernel #synchronization
 **Mutual exclusion** means that only a single thread should be able to access the shared resource at any given point of time. This avoids the race conditions between threads acquireing the resource. Monitors and Locks provide the functionality to do so. 
 
 **Synchronization** means that you synchronize/order the access of multiple threads to the shared resource.  
@@ -18,6 +19,8 @@ This ensures the synchronization you need.
 
 
 ## 👉 System V IPC & Posix IPC
+#System_V #Posix #IPC #OS_Kernel 
+
 Both have the same basic tools -- semaphores, shared memory and message queues. They offer a slightly different interface to those tools, but the basic concepts are the same. One notable difference is that POSIX offers some notification features for message queues that Sys V does not. (See `mq_notify()`.)
 
 Sys V IPC has been around for longer which has a couple of practical implications --
@@ -40,6 +43,7 @@ We can't tell you which you should use without knowing a lot more about what you
 
 
 ## 👉 UNIX Domain vs BSD vs TCP vs Internet sockets?
+#UNIX_Domain #BSD #TCP #Internet_socket #OS_Kernel 
 
 A socket is an abstraction. The tag definition used on SO for a socket is as good as any:
 

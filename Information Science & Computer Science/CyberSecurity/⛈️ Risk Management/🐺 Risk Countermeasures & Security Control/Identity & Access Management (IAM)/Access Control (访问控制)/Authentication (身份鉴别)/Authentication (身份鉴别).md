@@ -9,6 +9,7 @@
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 ↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
+- ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
 
 
 
@@ -184,7 +185,7 @@ Data Origin Authentication (数据原发鉴别)
 ##### 惟一数机制
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
-↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
@@ -210,19 +211,20 @@ Data Origin Authentication (数据原发鉴别)
 ###### 联机可信第三方
 ###### 脱机可信第三方
 #### 不涉及可信第三方的模型
+
+
 ### 3️⃣ 按鉴别对象分类
 #### 🎯 Object-based Authentication (Peer Entity Authentication, 对等实体鉴别)
 ##### 🤦🏻‍♀️ Human-Oriented Authentication
-↗ [Human-Oriented Authentication (鉴别对象为人)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
+↗ [Human-Oriented Authentication (鉴别对象为人)](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
 ##### 📻 Machine-oriented Authentication
-↗ [Machine-Oriented Authentication (鉴别对象为机器)](Object-Based%20Authetication/Machine-Oriented%20Authentication%20(鉴别对象为机器)/Machine-Oriented%20Authentication%20(鉴别对象为机器).md)
+↗ [Machine-Oriented Authentication (鉴别对象为机器)](Object-Based%20Authentication%20Mechanism/Machine-Oriented%20Authentication%20(鉴别对象为机器)/Machine-Oriented%20Authentication%20(鉴别对象为机器).md)
 ##### ✏️ Thing-oriented Authentication
 > 这里的“物”与前面的“机”从物理实体上看没有本质区别，但对“物“的认证更需要强调轻量级属性。在物联网环境中，“物”意味着终端感知节点或RFID标签，这些“物”的资源有限，因此，不能使用传统的针对“机”的认证方法。
 >
 > 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
 
-↗ [Thing-Oriented Authentication (鉴别对象为物)](Object-Based%20Authetication/Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
-
+↗ [Thing-Oriented Authentication (鉴别对象为物)](Object-Based%20Authentication%20Mechanism/Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
 #### 🎯 Message Authentication (Data Origin Authentication, 数据原发鉴别)
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
@@ -236,14 +238,14 @@ Data Origin Authentication (数据原发鉴别)
 - 基于生物特征的身份鉴别
 - 基于个人令牌的身份鉴别
 
-↗ [Biometrics Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication.md)
-↗ [Identity Token Based Authentication (基于实物凭证)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Identity%20Token%20Based%20Authentication%20(基于实物凭证)/Identity%20Token%20Based%20Authentication%20(基于实物凭证).md)
-↗ [Password Based Authentication (基于口令)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
-↗ [Address Based Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Address%20Based%20Authentication.md)
+↗ [Biometrics Authentication](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication.md)
+↗ [Identity Token Based Authentication (基于实物凭证)](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Identity%20Token%20Based%20Authentication%20(基于实物凭证)/Identity%20Token%20Based%20Authentication%20(基于实物凭证).md)
+↗ [Password Based Authentication (基于口令)](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
+↗ [Address Based Authentication](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Address%20Based%20Authentication.md)
 #### Cryptography-based Authentication
-↗ [Key Based Authentication](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
+↗ [Key Based Authentication](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
 #### Zero-Knowledge-Proof (ZKP)
-↗ [Zero-Knowledge Proof (ZKP)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 

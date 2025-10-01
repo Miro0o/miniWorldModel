@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/CPU%20Internal%20Bus/CPU%20Internal%20Bus.md)
+↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20(On-Chip%20Bus)/Internal%20Bus%20(On-Chip%20Bus).md)
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [Microcontrollers (MCU)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
@@ -55,8 +55,13 @@ The term "**microprocessor**" refers to a single implemented processor and, very
 
 
 ### CPU in a von Neumann Model
+> ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
+
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240327200246.png)
+<small>图1-7计算机中的总线连接示意图<br><a>https://www.cnblogs.com/deliweier-wangshuping/p/16167870.html</a></small>
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 <small>Computer Components: Top-Level View</small>

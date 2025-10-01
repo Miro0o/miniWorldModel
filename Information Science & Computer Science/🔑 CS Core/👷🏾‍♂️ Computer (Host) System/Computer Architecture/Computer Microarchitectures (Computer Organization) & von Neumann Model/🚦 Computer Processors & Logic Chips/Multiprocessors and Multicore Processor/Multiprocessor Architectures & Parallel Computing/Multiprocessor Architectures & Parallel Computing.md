@@ -57,6 +57,7 @@ As an example, consider the case where a part of the system that initially consu
 ## Multiprocessor Computer Architecture Designs
 > ↗ [Computer Architecture and Flynn's Taxonomy](../../../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20and%20Flynn's%20Taxonomy.md)
 
+
 ### 1️⃣ Superscalar and VLIW
 ↗ [VLIW (Very Long Instruction Word)](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/VLIW%20(Very%20Long%20Instruction%20Word)/VLIW%20(Very%20Long%20Instruction%20Word).md)
 

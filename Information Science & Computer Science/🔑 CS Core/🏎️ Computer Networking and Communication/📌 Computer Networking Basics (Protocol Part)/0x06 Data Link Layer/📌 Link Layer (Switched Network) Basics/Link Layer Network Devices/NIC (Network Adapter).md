@@ -15,6 +15,8 @@
 ↗ [OS IO System](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 ↗ [Computer (IO Devices) Drivers & Programming](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 
+↗ [Network Interface Cards (NIC)](../../../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Input%20&%20Output%20Devices/Network%20Interface%20Cards%20(NIC)/Network%20Interface%20Cards%20(NIC).md)
+
 
 ### Other Resources
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=27&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -33,7 +35,7 @@
 	2. [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA), where a device other than the CPU assumes control of the [system bus](https://en.wikipedia.org/wiki/System_bus) to move data to or from the NIC to memory. This removes load from the CPU but requires more logic on the card. In addition, a packet buffer on the NIC may not be required and [latency](https://en.wikipedia.org/wiki/Latency_(engineering)) can be reduced.
 
 
-###  🔌 Ethernet NIC vs 📡 Wireless NIC
+### Ethernet NIC vs Wireless NIC
 > 🤖 ChatGPT 5
 
 | Feature            | Ethernet NIC                             | Wireless NIC                                       |
@@ -54,7 +56,7 @@
 - They’re **different categories of “modes.”** Wired NICs usually only vary in filtering mode; wireless NICs vary in protocol role.
 
 
-### Wired (Ethernet) NIC - Frame Reception Filters
+### 🔌 Wired (Ethernet) NIC - Frame Reception Filters
 > 网卡的缺省工作模式包含广播模式和直接模式，即它只接收广播帧和发给自己的帧
 #### Broad Cast Model
 广播模式（Broad Cast Model）：它的物理地址（MAC）地址是 0Xffffff 的帧为广播帧，工作在广播模式的网卡接收广播帧。
@@ -78,7 +80,7 @@ ifocnfig eth0
 ```
 
 
-### Wireless (Wi-Fi) NIC - Operating Roles
+### 📡 Wireless (Wi-Fi) NIC - Operating Roles
 > 🤖 ChatGPT 5
 
 Wi-Fi NICs can usually support several **802.11 interface modes** (depends on driver & hardware). The main ones:
@@ -92,6 +94,13 @@ Wi-Fi NICs can usually support several **802.11 interface modes** (depends on dr
 | **Mesh Point (802.11s)**               | Mesh networking mode where devices forward traffic for each other.                                                                         |
 | **P2P / Wi-Fi Direct**                 | Peer-to-peer connection initiated without a central AP (used in some IoT and phone features).                                              |
 | **WDS (Wireless Distribution System)** | Extends a LAN by linking APs wirelessly (AP-to-AP bridging).                                                                               |
+#### Managed (Station, STA)
+
+#### Master (Access Point, AP)
+
+#### Ad-Hoc (IBSS)
+
+#### Monitor
 
 
 

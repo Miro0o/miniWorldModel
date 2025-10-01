@@ -1,4 +1,4 @@
-# Expansion Ports (External Bus)
+# Expansion Port & External Bus
 
 [TOC]
 
@@ -21,4 +21,3 @@ This is a list of interface bit rates, is a measure of information transfer rate
 
 
 ## Ref
-

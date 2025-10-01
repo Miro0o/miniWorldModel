@@ -19,6 +19,20 @@ Expansion buses, such as ISA, PCI, PCI-X, and AGP (from Chapter 1), allow the CP
 Examples of expansion buses include parallel, serial, PS/2, USB, and FireWire (again, all mentioned in Chapter 1). ==People often refer to these types of buses as **ports**.==
 
 
+### Examples of internal/external computer buses
+> 🔗 https://en.wikipedia.org/wiki/Bus_(computing)#Examples_of_external_computer_buses
+
+- [Futurebus](https://en.wikipedia.org/wiki/Futurebus "Futurebus")
+- [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand "InfiniBand")
+- [PCI Express External Cabling](https://en.wikipedia.org/wiki/PCI_Express_External_Cabling "PCI Express External Cabling")
+- [QuickRing](https://en.wikipedia.org/wiki/QuickRing "QuickRing")
+- [Scalable Coherent Interface](https://en.wikipedia.org/wiki/Scalable_Coherent_Interface "Scalable Coherent Interface") (SCI)
+- [Small Computer System Interface](https://en.wikipedia.org/wiki/Small_Computer_System_Interface "Small Computer System Interface") (SCSI), [Hard disk drive](https://en.wikipedia.org/wiki/Hard_disk_drive "Hard disk drive") and [tape drive](https://en.wikipedia.org/wiki/Tape_drive "Tape drive") peripheral attachment bus
+- [Serial Attached SCSI](https://en.wikipedia.org/wiki/Serial_Attached_SCSI "Serial Attached SCSI") (SAS) and other [serial SCSI buses](https://en.wikipedia.org/wiki/Serial_SCSI_buses "Serial SCSI buses")
+- [Thunderbolt](https://en.wikipedia.org/wiki/Thunderbolt_\(interface\) "Thunderbolt (interface)")
+- Yapbus, a proprietary bus developed for the [Pixar Image Computer](https://en.wikipedia.org/wiki/Pixar_Image_Computer "Pixar Image Computer")
+
+
 
 ## Ref
 

@@ -11,7 +11,7 @@
 
 ↗ [Memory Bus](../../Memory%20Bus/Memory%20Bus.md)
 
-↗ [PCIe (PCI-Express)](../Expansion%20Slot%20(Internal%20Bus)/PCI%20(Peripheral%20Component%20Interconnect)/PCIe%20(PCI-Express)/PCIe%20(PCI-Express).md)
+↗ [PCIe (PCI-Express)](../Expansion%20Slot%20&%20Internal%20Bus/PCI%20(Peripheral%20Component%20Interconnect)/PCIe%20(PCI-Express)/PCIe%20(PCI-Express).md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SMBus (System Management Bus)](../Other%20Buses/SMBus%20(System%20Management%20Bus)/SMBus%20(System%20Management%20Bus).md)
+↗ [SMBus (System Management Bus)](../Other%20Buses/SMBus%20(System%20Management%20Bus).md)
 
 
 ### Learning Resourecs

@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 
 
 
@@ -22,13 +23,16 @@
 
 ↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
+
 ### 👉 Certification Based Authentication (基于证书)
 Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 
+
 
 ### One-direction Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
 
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
+
 
 ### Mutual Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
@@ -44,6 +48,7 @@ Generally, for certificate-based authentication, the system will generate a digi
 
 ↗ [Symmetric Cipher](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Symmetric%20Cipher/Symmetric%20Cipher.md)
 
+
 ### 👉 Token Based Authentication (基于令牌)
 Token-based authentication is a process in which users identify with unique tokens after the user provides credentials to the system. A token is valid only for a designated time period, after that user needs to re-generate it to use again. 
 
@@ -55,6 +60,7 @@ Token-based authentication is a process in which users identify with unique toke
 >
 > In Web Security, instead of just signing a ‘challenge’, the client signs the entirety of the message that’s sent by the server.
 
+
 ### Authentication Without Trusted Third Party
 #### On-direction Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
@@ -65,6 +71,7 @@ Token-based authentication is a process in which users identify with unique toke
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
 
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
+
 
 ### Authentication via Trusted Third Party (Mutual Authentication)
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
@@ -79,10 +86,12 @@ Token-based authentication is a process in which users identify with unique toke
 
 ↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
+
 ### One-direction Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
 
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
+
 
 ### Mutual Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
