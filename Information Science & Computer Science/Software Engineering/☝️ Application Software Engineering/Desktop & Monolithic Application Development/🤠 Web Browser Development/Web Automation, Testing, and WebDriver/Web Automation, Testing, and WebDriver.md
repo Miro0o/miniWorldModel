@@ -5,12 +5,6 @@
 
 
 ## Res
-📂 https://w3c.github.io/webdriver/#design
-Provided is a set of interfaces to discover and manipulate DOM elements in web documents and to control the behavior of a user agent. It is primarily intended to allow web authors to write tests that automate a user agent from a separate controlling process, but may also be used in such a way as to allow in-browser scripts to control a — possibly separate — browser.
-📂 https://w3c.github.io/webdriver-bidi/
-This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents.
-
-
 ### Related Topics
 ↗ [Script & Add-ons Management](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
 ↗ [Shell & Script Programming](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
@@ -21,6 +15,12 @@ This document defines the BiDirectional WebDriver Protocol, a mechanism for remo
 ### Other Resources
 https://webextension.org/
 browser-based application hosting platform. 
+
+📂 https://w3c.github.io/webdriver/#design
+Provided is a set of interfaces to discover and manipulate DOM elements in web documents and to control the behavior of a user agent. It is primarily intended to allow web authors to write tests that automate a user agent from a separate controlling process, but may also be used in such a way as to allow in-browser scripts to control a — possibly separate — browser.
+
+📂 https://w3c.github.io/webdriver-bidi/
+This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents.
 
 
 

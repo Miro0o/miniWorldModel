@@ -22,7 +22,6 @@
 
 
 ## English Grammatical Hierarchy
-
 ### 1️⃣ Morpheme
 ↗ [Morpheme & Word](Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 ↗ [Morpheme-Word Reference -- 📿 miscs](Morpheme%20&%20Word/Morpheme-Word%20Reference/📿%20miscs.md)

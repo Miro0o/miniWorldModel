@@ -6,14 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [Statistical Learning Theory](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗ [Statistical Learning Theory & ML Types](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
 ↗ [Data-Oriented & Human-Centered Technologies](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+- ↗ [Data Science](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
 - ↗ [Data Mining](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
 
 ### Learning Resources
-🏫 [UBC CS70 : discrete Math and probability theory](../🏠 Assets/UC Berkeley/CS70 : Discrete Math and Probability Theory/Intro.md) 
-🏫 [UBC CS126 : Probability Theory](../🏠 Assets/UC Berkeley/CS126 : Probability Theory/Intro.md) 
+🏫 [UCB /CS70 Discrete Math and Probability Theory](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS70%20Discrete%20Math%20and%20Probability%20Theory/CS70%20Discrete%20Math%20and%20Probability%20Theory.md)
+🏫 [UCB /CS126 Probability Theory](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS126%20Probability%20Theory/CS126%20Probability%20Theory.md)
 
 📖 何书元《概率论与数理统计》
 - 第一章 古典概型和概率空间
@@ -136,6 +137,20 @@ Sheldon M. Ross
 📖 贝叶斯反演
 
 📖 H. Pishro-Nik, "Introduction to probability, statistics, and random processes", available at [https://www.probabilitycourse.com](https://www.probabilitycourse.com/), Kappa Research LLC, 2014.
+
+👍 https://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+![](../../../../Assets/Pics/Screenshot%202025-10-05%20at%2023.37.13.png)
+
+👍 https://stanford.edu/~shervine/teaching/cme-106/
+CME 106 ― Introduction to Probability and Statistics for Engineers  
+My twin brother [Afshine](https://twitter.com/afshinea) and [I](https://twitter.com/shervinea) ([Afshine Amidi](https://twitter.com/afshinea) and [Shervine Amidi](https://twitter.com/shervinea)) created this set of cheatsheets when I was a TA for Stanford's CME 106 class in Winter 2018. They can (hopefully!) be useful to all future students taking this course as well as to anyone else interested in learning the fundamentals of Probabilities and Statistics.
+- [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
+- [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+
+👍 https://www.wzchen.com/probability-cheatsheet
+https://github.com/wzchen/probability_cheatsheet
+- This cheatsheet is a 10-page reference in probability that covers a semester's worth of introductory probability.
+- The cheatsheet is based off of Harvard's introductory probability course, Stat 110. It is co-authored by former Stat 110 Teaching Fellow William Chen and Stat 110 Professor Joe Blitzstein.
 
 
 

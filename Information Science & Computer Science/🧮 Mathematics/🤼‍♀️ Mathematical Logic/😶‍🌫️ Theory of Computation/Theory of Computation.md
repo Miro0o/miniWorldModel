@@ -6,10 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory](../Set%20Theory/Set%20Theory.md)
+↗ [Set Theory](../🛒%20Set%20Theory/Set%20Theory.md)
 ↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 
 ### Learning Resources
@@ -145,7 +147,10 @@ Automata theory is an excellent place to begin the study of the theory of comput
 
 
 
-## Models Of Computation
+## Models of Computation
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>The process of compilation</small>
+
 > 🔗 https://en.wikipedia.org/wiki/Model_of_computation
 
 In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.

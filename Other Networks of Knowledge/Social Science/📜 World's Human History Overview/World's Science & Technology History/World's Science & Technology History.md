@@ -12,7 +12,7 @@
 ↗ [Natural Science & Engineering & Technology](../../../Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 
 ↗ [History of Computing](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
-- ↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/The%20Development%20History%20of%20AI.md)
+- ↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
 ↗ [History of Computer Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
 ↗ [History of Information Systems & Security Systems](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
@@ -105,8 +105,8 @@ wikipedia
 ### Fourth Industrial Revolution: Industry 4.0
 ↗ [Industry 4.0](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
 #### LLM, AI, and AGI
-↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/The%20Development%20History%20of%20AI.md)
-↗ [LLM (Large Language Model)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
+↗ [LLM (Large Language Model)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
 
 ![](../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)

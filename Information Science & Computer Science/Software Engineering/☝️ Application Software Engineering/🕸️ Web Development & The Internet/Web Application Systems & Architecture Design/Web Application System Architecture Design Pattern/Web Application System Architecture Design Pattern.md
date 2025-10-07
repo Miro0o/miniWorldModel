@@ -6,14 +6,21 @@
 
 ## Res
 ### Related Topics
-↗️ [Systems Engineering](../../Architecture Design/Systems Engineering/Systems Engineering.md) 
+↗ [Software Development Pattern](../../../../Software%20Development%20Pattern/Software%20Development%20Pattern.md)
+↗ [DS Web Services' Architectures](../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+
+↗️ [Systems Engineering](../../Architecture Design/Systems Engineering/Systems Engineering.md)
+
+↗ [JAMStack (Javascript、APIs、Markup)](../../🖥️%20Web%20FrontEnd%20Dev/JAMStack%20(Javascript、APIs、Markup)/JAMStack%20(Javascript、APIs、Markup).md)
+↗ [WASM (WebAssembly)](../../🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+
+↗ [LLM Agents & Agentical LLM](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
 
 
 ### Learning Resources
 [What's design pattern?  -- refactoring.cm](https://refactoring.guru/design-patterns/what-is-pattern)
 
 快速记忆23种设计模式 - 工藤新木的文章 - 知乎 https://zhuanlan.zhihu.com/p/128145128
-
 
 【学设计模式前，请务必先看完这个！】 https://www.bilibili.com/video/BV1za411p7Ny/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

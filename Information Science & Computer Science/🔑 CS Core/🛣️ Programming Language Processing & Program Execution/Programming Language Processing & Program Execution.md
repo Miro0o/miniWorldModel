@@ -34,7 +34,7 @@
 
 ↗ [IDE (Integrated Development Environment)](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
 
-↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 
 ### Learning Resources
@@ -87,6 +87,9 @@ However, there are some important reasons why programmers need to understand how
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Application Execution and Computer Data Flow</small>
 
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>The process of compilation</small>
+
 
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats
 ↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
@@ -108,7 +111,7 @@ However, there are some important reasons why programmers need to understand how
 - ↗ [Media Formats & Standards & Codec (Coder-Decoder)](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 
 ### 1️⃣ Compilation (Compile-time)

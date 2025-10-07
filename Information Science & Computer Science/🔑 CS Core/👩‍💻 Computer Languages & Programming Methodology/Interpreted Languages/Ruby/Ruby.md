@@ -4,8 +4,6 @@
 
 
 
-
-
 ## Res
 🏠 https://www.ruby-lang.org/en/
 📂 https://www.ruby-lang.org/en/documentation/

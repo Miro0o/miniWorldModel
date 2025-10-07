@@ -5,14 +5,16 @@
 
 
 ## Res
+### Related Topics
+↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+
+↗ [Web3 Themes](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
+
+
 ### Organizations & Communities
 [Web3 Fundation - Blog](https://medium.com/web3foundation)
 
 [Web3 Fundation - W3F](https://web3.foundation)
-
-
-### Web3 Dev
-↗ [Web3 Themes](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web3%20Themes.md)
 
 
 
@@ -32,4 +34,3 @@ Web3 is the answer to this dilemma. Instead of a Web monopolized by large techno
 
 ## Refs
 [What Is Decentralized Finance (DeFi) and How Does It Work?](https://www.investopedia.com/decentralized-finance-defi-5113835) #unfinished
-

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Design Pattern /Serverless](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Serverless/Serverless.md)
+↗ [Design Pattern /Serverless](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Serverless%20Computing.md)
 
 
 ### Learning Resources

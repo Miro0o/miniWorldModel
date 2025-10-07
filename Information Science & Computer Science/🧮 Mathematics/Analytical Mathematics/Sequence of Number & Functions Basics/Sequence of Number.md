@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Function & Mapping of Set](../../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+
 
 
 ## Contents
@@ -27,6 +30,7 @@
 	- 使得数轴完全填满
 	- 连续性（实数连续统）
 - 复数集
+
 
 ### The Continuity of The Set of Real Number
 实数系的连续性
@@ -58,6 +62,7 @@
 		- 设 $$S \subset R, S \neq\emptyset, \ \text{S有上界}, \ S=\{a_0+0.a_1a_2...a_n... \vert \ a_0=[x], \ 0.a_1a_2...a_n...=(x), \ s\in{S}\}$$
 	- （例）$T=\{x \vert x\in{Q}, \ x\gt{0}, \ x^2\lt{2}\}, \ \text{则T在Q内没有上确界} \left(\sqrt{2}不是上确界，因为\sqrt{2}\notin{Q} \right)$
 	- 
+
 
 ### Sequence of Number / Limits of Sequence of Number
 数列
@@ -236,10 +241,12 @@
 			- 待定型：
 		- 无穷量运算法则
 			- <a style="red">Stolz Theorm</a>
-				- $$\{y_n\}严格单增, \ lim_{n\to\infty}{y_n}={+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$$
+				- $\{y_n\}严格单增, \ lim_{n\to\infty}{y_n}={+\infty}:  \ lim_{n\to\infty}{\frac{x_n-x_{n-1}}{y_n-y_{n-1}}}=a, \ (a\in{R}, \ a=+\infty, \ a=-\infty) \to \ lim_{n\to\infty}{\frac{x_n}{y_n}}=a$
 				- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.30PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.10.48PM.png)![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%206.14.34PM.png)
 				- （例）$lim_{n\to\infty}{\frac{1^k+2^k+3^k+...+n^k}{n^{k+1}}}$
 				- （例）$lim_{n\to\infty}{a_n}=a, \ lim_{n\to\infty}{\frac{a_1+2a_2+3a_3+...+na_n}{n^2}}$
+
+
 ### 实数系的基本定理
 - <a style="red">闭区间套定理</a>
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=18&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -252,7 +259,7 @@
 	- 子数列性质：
 		- <a style="red">子数列收敛的继承性</a>
 			- $lim_{n\to\infty}{x_n}=a\to lim_{k\to\infty}{x_{n_k}}=a$
-				- （证） $$\begin{cases}\because lim_{n\to\infty}{x_n}=a, \ a\in{R}\to \forall\varepsilon\gt0,\exists{N_0}\in{N}, \forall n\gt{N_0}, \vert x_n - a \vert \lt \varepsilon\\\therefore\exists K_0\in{N}, \ \forall{k}\gt{K_0}, \ n_k\gt{N_0}\to\vert x_{n_k} - a \vert \lt\varepsilon\end{cases}$$
+				- （证） $\begin{cases}\because lim_{n\to\infty}{x_n}=a, \ a\in{R}\to \forall\varepsilon\gt0,\exists{N_0}\in{N}, \forall n\gt{N_0}, \vert x_n - a \vert \lt \varepsilon\\\therefore\exists K_0\in{N}, \ \forall{k}\gt{K_0}, \ n_k\gt{N_0}\to\vert x_{n_k} - a \vert \lt\varepsilon\end{cases}$
 			- （推论）反过来，考虑式子的逆否命题：若存在两个子列收敛结果不相等，则原数列不收敛
 				- （例）$\text{证}\sin{\frac{n\pi}{4}}\text{发散}$
 		- <a style="red">致密性定理（Bolzano-weierstrass Theorem）</a>
@@ -263,10 +270,10 @@
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	- 定义：$\forall\varepsilon\gt0, \ \vert{a_n}-{a_m}\vert\lt\varepsilon, \ \forall n,m\in{N}$
 	- （例）$a_n=(1+\frac{1}{(2)^2}+\frac{1}{(3)^2}+...+\frac{1}{(n)^2})$
-		- $$\text{设}m\gt{n}, \ {a_m-a_n}=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})\lt(1+\frac{1}{n(n+1)}+\frac{1}{(n+1)(n+2)}+...+\frac{1}{(m-1)(m)})\lt\frac{1}{n}-\frac{1}{m}\lt\frac{1}{n}$$
+		- $\text{设}m\gt{n}, \ {a_m-a_n}=(1+\frac{1}{(n+1)^2}+\frac{1}{(n+2)^2}+...+\frac{1}{(m)^2})\lt(1+\frac{1}{n(n+1)}+\frac{1}{(n+1)(n+2)}+...+\frac{1}{(m-1)(m)})\lt\frac{1}{n}-\frac{1}{m}\lt\frac{1}{n}$
 		- $\therefore\forall\varepsilon, \ \exists{N=[\frac{1}{\varepsilon}]}, \ \forall{m\gt{n}\gt{N}}, \ \vert{a_n}-{a_m}\vert\lt\frac{1}{n}\lt\varepsilon\to{a_n}\text{是基本数列}$
 	- （例）$a_n=(1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{n})$
-		- $$\text{设}m\gt{n}, \text{不妨令}m=2n, \ a_m-a_n=(\frac{1}{n+1}+\frac{1}{n+2}+...+\frac{1}{m})\gt{(m-n)}(\frac{1}{m}+\frac{1}{m}+...+\frac{1}{m})=\frac{1}{2}$$
+		- $\text{设}m\gt{n}, \text{不妨令}m=2n, \ a_m-a_n=(\frac{1}{n+1}+\frac{1}{n+2}+...+\frac{1}{m})\gt{(m-n)}(\frac{1}{m}+\frac{1}{m}+...+\frac{1}{m})=\frac{1}{2}$
 		- $\therefore\forall\varepsilon, \ \vert{a_n}-{a_m}\vert\not\lt\varepsilon\to{a_n}\text{不是基本数列}$
 	- <a style="red">Cauchy收敛原则</a> (实数系完备性)
 		- $\{a_n\}\text{收敛}\iff\{a_n\}\text{是基本数列}$

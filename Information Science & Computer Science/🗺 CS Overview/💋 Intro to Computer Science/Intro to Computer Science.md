@@ -103,7 +103,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+- ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 #### The Domain Knowledge of CS
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -520,6 +520,7 @@ These questions, from general to specific, speaks the path of what i think every
 				4. ↗ [Mobile Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Mobile%20Application%20Development/Mobile%20Application%20Development.md)
 	7. What happened when a network request is sent and a response is received? /How does computer network(or the Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+		2. ↗ [Web Development & The Internet](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 5. How to apply computer into real world needs and improve it? (Application, Performance, Scalability, Development, Maintenance, _Security「CIA」_)
 	1. Below lists (some) CS fields and related topics:
 	2. ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
@@ -530,8 +531,8 @@ These questions, from general to specific, speaks the path of what i think every
 		4. etc.
 	4. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-			1. ↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
-				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+			1. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 			2. ↗ [Computer Vision (CV)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
 			3. ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI%20&%20World%20Model/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
 			4. etc.

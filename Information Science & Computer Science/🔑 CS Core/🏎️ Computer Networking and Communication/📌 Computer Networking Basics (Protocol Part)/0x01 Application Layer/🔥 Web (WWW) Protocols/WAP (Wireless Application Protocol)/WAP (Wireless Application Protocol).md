@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 **Wireless Application Protocol** (**WAP**) is a technical standard for accessing information over a mobile wireless network. 

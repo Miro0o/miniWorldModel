@@ -338,12 +338,15 @@ This is a list of people's default app for various tasks.
 
 
 ## Awesome Websites
-[Web Application Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
-
+↗ [Web Application Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
 
 
 ### 👉 OpenStreetMap
 https://www.openstreetmap.org/
+
+
+### 👉 Strudel
+https://strudel.cc/
 
 
 ### 👉 Wiki Projects

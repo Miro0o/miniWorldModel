@@ -109,7 +109,7 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 ↗ [Formal Semantics and Programming Language](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 #### Program State Space & State Explosion
-↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Set%20Theory/👬%20Relation%20&%20Order%20Theory/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
 
 ### Evaluation of Program Analysis
@@ -182,7 +182,8 @@ def main():
 ```
 
 However, all hope is not lost! Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
-#### Soundness & Completeness
+#### Soundness, Truth, and Completeness
+> ↗  [Logic (and Critical Thinking)](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
 > ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.6
@@ -220,6 +221,7 @@ Approximative answers may be useful for finding bugs in programs, which may be v
 
 > 🔗 [In Defense of Soundness: A Manifesto](https://dl.acm.org/doi/pdf/10.1145/2644805)
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.
+##### May Analysis & Must Analysis
 #### FP,TN,FN vs TP
 It is also useful to talk about how a program analysis has performed on individual programs or bugs. To do this we use nomenclature from [classification](https://en.wikipedia.org/wiki/Binary_classification).
 
@@ -233,6 +235,29 @@ An individual proposition Φ is either a true positive, true negative, false p
 ![](../../../../../../Assets/Pics/Pasted%20image%2020250908234329.png)
 
 A sound analysis, therefore, has no false positives, and a complete analysis has no false negatives.
+#### Soundy & Soundiness
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-15-16/
+
+现在，我们来记录一下最后一节课学习的知识。
+
+[第一节课](https://blog.wohin.me/posts/nju-program-analysis-01/#sound--complete)中，我们曾学习过sound和complete的概念。通常情况下，我们总是选择牺牲completeness，保全soundness。Soundness是一个理想的状态——捕获程序的全部行为、分析出所有可能的执行结果。事实上，无论是在学术界还是工业界，全程序分析通常都是unsound，这是因为现代编程语言通常都有一些难以进行静态分析的hard features。例如，Java中有反射（reflection）、native code、动态类加载等；JavaScript中有eval函数，文档对象模型（DOM）等；C/C++中有指针运算、函数指针等。
+
+因此，通常情况下，学术界和工业界有一些现象和做法：
+- 一个所谓的sound的静态分析，只是在实现上有一个sound core，也就是对绝大多数语言特性做了over-approximated处理，但是某些难以分析的部分则是under-approximated处理。
+- 略去hard language features的处理，或者只是在实现或评估部分简单地提一下。
+- 未能考虑到hard language features，导致分析结果有问题。
+
+鉴于这些现象，2015年，领域内人士提出了Soundiness一词，类比Truthiness（指某个truth只是某些人相信的，但没有事实或证据支持），对应的形容词是soundy，希望大家能够用合适的词汇准确描述自己的研究。现在我们可以说，一个sound的分析需要捕获全部动态行为，这通常是不可能实现的；一个soundy的分析希望去捕获全部动态行为，但是对于部分hard language features的unsoundly处理给出了解释；一个unsound的分析是主观上忽略了部分行为，从而达到更好的效率、准确性或可行性。
+
+接着，作为示例，李樾老师分析了Java的反射和native code两个hard language features，探讨为什么它们难于分析，以及学术界的研究进展。事实上，反射部分最先进的研究是李樾和谭添老师做的。这可以说是顶级“凡尔赛”了，但是哪个学生不希望听到老师说课程最前沿的部分是自己做的呢？换句话说，能听顶尖工作的作者讲的该领域的课应该是一种荣幸。
+
+简单来说，Java反射机制难于进行静态分析的原因是，`Class.forName(cName)`、`c.getMethod(mName, ...)`等方法的参数可能是运行时才能确定的（来自网络、配置文件、用户输入等），静态分析很难获得这些参数信息，进而难于确定对应的类和方法。学术界目前的解决方法可以归为三类：
+
+1. 字符串常量分析+指针分析（[论文链接](https://suif.stanford.edu/papers/aplas05r.pdf)）。这个思路比较直观，但是也存在明显的问题——如果字符串的值确实是运行时才能确定的，那么就无法确定反射目标了。
+2. 类型推理+字符串分析+指针分析（[论文链接](https://yuelee.bitbucket.io/papers/ECOOP14.pdf)，一二作是李樾、谭添）。这个思路是从反射对象的使用点（usage points）开始反推。值得一提的是，2019年，两位老师又发表了[新的研究成果](https://yuelee.bitbucket.io/papers/tosem19.pdf)。
+3. 动态分析辅助的静态分析（[论文链接](https://www.bodden.de/pubs/bss+11taming.pdf)）。这个不必多言，就是从动态分析中获取信息来辅助进行静态分析，它会有动态分析的优点，但是也因此引入了动态分析的缺点。
+
+Java native code难于分析的原因则是跨语言——最终会调用到C语言动态链接库中的代码。当前的一个解决思路是对关键的native code进行手动建模（用Java实现）。这里附上2020年的一个[研究进展](https://yanniss.github.io/native-issta20.pdf)。
 
 
 ### Software Analysis Taxonomy

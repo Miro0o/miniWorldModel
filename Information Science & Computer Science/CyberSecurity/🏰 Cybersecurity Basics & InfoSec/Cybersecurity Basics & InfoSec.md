@@ -118,7 +118,7 @@ Most cryptographic algorithms that guarantee integrity and authenticity work as 
 | Integrity and authentication | MACs (e.g., AES-CBC-MAC)                          | Digital signatures (e.g., RSA signatures)             |
 #### 🎯 Confidentiality
 In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes."
-#### 🎯 Integrity (and Authenticity?)
+#### 🎯 Integrity
 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
 ![](../../../Assets/Pics/Pasted%20image%2020231101161046.png)
@@ -130,6 +130,9 @@ More broadly, integrity is an information security principle that involves human
 > 🔗 https://textbook.cs161.org/crypto/intro.html
 
 You might be thinking that authenticity and integrity seem very closely related, and you would be correct; it makes sense that before you can prove that a message came from a particular person, you first have to prove that the message was not changed. In other words, ==before you can prove authenticity, you first have to be able to prove integrity==. However, these are not identical properties and we will take a look at some edge cases as we delve further into the cryptographic unit.
+##### Correctness
+##### Completeness
+##### Consistency
 #### 🎯 Availability
 ↗ [ICT System Reliability (Correctness) & Verification](../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 

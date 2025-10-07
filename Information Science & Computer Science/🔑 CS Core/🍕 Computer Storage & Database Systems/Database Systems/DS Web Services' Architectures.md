@@ -65,7 +65,7 @@
 ![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
 
 
-> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/MVC.md)
+> 🔗 More of Modle-View-Control architecture is at [MVC (Model–View–Controller)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/MVC%20(Model–View–Controller).md)
 
 | Advantages of Mainframe Architecture                                          | Disadvantages of Mainframe Architecture                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -101,6 +101,7 @@
 
 ## 🔥 Web & SOA
 #TODO 
+
 
 
 ## 🕸️ Distributed DBMS

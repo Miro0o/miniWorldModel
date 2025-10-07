@@ -7,12 +7,14 @@
 ## 🤙🏾 Res
 ### Related Topics
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
-↗ [Statistical Learning Theory](🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Statistical Learning Theory & ML Types](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+↗ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
@@ -51,7 +53,16 @@ https://www.alignmentforum.org/
 
 
 ### Others
-[AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/) 
+[AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/)
+
+https://www.mit.edu/~amidi/
+https://stanford.edu/~shervine/
+- [15.003 ― Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+- [15.003 - Modeling](https://www.mit.edu/~amidi/teaching/modeling/)
+- [CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/)
+- [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+- [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+![](../../../Assets/Pics/Screenshot%202025-10-05%20at%2023.42.44.png)
 
 
 

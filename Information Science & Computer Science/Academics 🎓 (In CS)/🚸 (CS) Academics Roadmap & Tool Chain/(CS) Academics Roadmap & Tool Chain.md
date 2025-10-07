@@ -395,6 +395,10 @@ The **PubPeer** Foundation is a California-registered public-benefit corporati
 [👍 收藏！50个国内外常用学术网站 - 科邦实验室的文章 - 知乎]: https://zhuanlan.zhihu.com/p/400164121
 [👍 25个国内外文献数据库]: https://blog.csdn.net/hepiaopiao_wemedia/article/details/125237427
 
-73 【和Gemini的协作让我深感学习模式的深刻变化 - 镜湖雨 | 小红书 - 你的生活兴趣社区】 😆 2K2nqDo2gz7gS7Q 😆 https://www.xiaohongshu.com/discovery/item/687bc7220000000020019109?source=webshare&xhsshare=pc_web&xsec_token=ABneFU1n6--jk8kHivzgTaLuLPtVn-85kcjdpwiNiS06c=&xsec_source=pc_share
+[73 【和Gemini的协作让我深感学习模式的深刻变化 - 镜湖雨 | 小红书 - 你的生活兴趣社区】 😆 2K2nqDo2gz7gS7Q 😆]: https://www.xiaohongshu.com/discovery/item/687bc7220000000020019109?source=webshare&xhsshare=pc_web&xsec_token=ABneFU1n6--jk8kHivzgTaLuLPtVn-85kcjdpwiNiS06c=&xsec_source=pc_share
 
-13 【如何做到闭关写论文😊 - 咪小呆 | 小红书 - 你的生活兴趣社区】 😆 v7FVoxykfZ3cKGk 😆 https://www.xiaohongshu.com/discovery/item/677210a000000000140260ce?source=webshare&xhsshare=pc_web&xsec_token=ABVAlmWfEEe9WO1WXv8Tr9oVa1Vsj9yDExq7JFol3FQeQ=&xsec_source=pc_share
+[13 【如何做到闭关写论文😊 - 咪小呆 | 小红书 - 你的生活兴趣社区】 😆 v7FVoxykfZ3cKGk 😆]: https://www.xiaohongshu.com/discovery/item/677210a000000000140260ce?source=webshare&xhsshare=pc_web&xsec_token=ABVAlmWfEEe9WO1WXv8Tr9oVa1Vsj9yDExq7JFol3FQeQ=&xsec_source=pc_share
+
+[读博这半年]: https://blog.wohin.me/posts/phd-0_5/
+- 2019年我刚毕业的时候，绿盟的江苏分公司和南京研究所都还没有成立，我在绿盟南京办事处和其他部门的同事一起工作。星云的主要成员分布在北京、西安两地。一次，刘博从北京来南京出差，回京前找我聊天，让我多读一读公司各种产品的白皮书。一开始我并不理解，认为自己做的是“云安全”，其次是“研究”，读白皮书什么的，没有必要。直到后来我陆续把各种产品的白皮书都读了一遍，挨个梳理了它们的功能、原理、架构设计，才体会到这样做的好处。作为一个全品类安全公司，绿盟的产品白皮书确实蕴含了大量信息，这些信息能够帮助一个初出茅庐的年轻人对一个行业建立起初步认识。
+- 后来，做云安全产品研究时，我也会去找业界其他公司的白皮书读一读。这些都是公开可得的资料，也许还会有一些夸大的成分，但是不影响基本的判断——功能的基本原理、产品的架构设计，结合自己的已有知识，大体是能够推断出来的。这与博士生读论文很像——论文也时常会有overclaimed的成分，但不影响整体的合理性。

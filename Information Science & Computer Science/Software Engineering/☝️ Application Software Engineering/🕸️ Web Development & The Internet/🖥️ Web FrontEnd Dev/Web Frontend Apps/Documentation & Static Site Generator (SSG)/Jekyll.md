@@ -14,7 +14,7 @@
 - ↗ [RubyGems](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/RubyGems.md)
 - ↗ [Bundler](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Ruby%20Managers/Package%20&%20Dependency%20Managers/Bundler.md)
 
-↗ [Github Pages](../../../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
+↗ [Github Pages](../../../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20Static%20Page%20Hosting/Github%20Pages.md)
 
 
 
@@ -90,7 +90,7 @@ A modern, high customizable, responsive Jekyll theme for documentation with buil
 
 ## Jekyll & Github Pages
 > 🔗 [Github Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
-> ↗ [Github Pages](../../../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20PageHosting/Github%20Pages.md)
+> ↗ [Github Pages](../../../Web%20Software%20Maintenance%20&%20Operations%20Management/🛬%20Web%20Software%20Deployment/Web%20Frontend%20Deployment/🐫%20Static%20Page%20Hosting/Github%20Pages.md)
 
 
 

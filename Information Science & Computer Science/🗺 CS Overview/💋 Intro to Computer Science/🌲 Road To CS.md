@@ -1296,6 +1296,16 @@ https://p4d0rn.github.io/
 https://y4er.com/
 https://github.com/Y4er
 
+---
+https://blog.wohin.me/about/
+学术主页：[profile.wohin.me](https://profile.wohin.me/)
+你好，我是Bonan，主要从事系统安全、云安全和AI4Security研究。欢迎来到我的博客，希望对你有所帮助。如果你发现博文存在任何错误或值得讨论的地方，请留言或通过[电子邮件](mailto:bonan.ruan@u.nus.edu)联系我，十分感谢！你还可以[点此](https://blog.wohin.me/index.xml)通过RSS订阅我的博客。如果我的博客或项目对你有所帮助，你可以选择“[buy me a coffee](https://www.buymeacoffee.com/wohin)”，感谢你的支持。另外，如果你想找我聊一聊信息安全方向的工作、留学和科研相关话题，可以通过[知乎](https://www.zhihu.com/consult/people/1056636720145043456)进行付费咨询。
+
+---
+https://stanford.edu/~shervine/
+https://www.mit.edu/~amidi/
+
+
 
 ### Campus Lifes
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)

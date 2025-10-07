@@ -6,6 +6,7 @@
 
 ## Res
 📂 https://portswigger.net/burp/documentation
+- https://portswigger.net/burp/documentation/desktop
 
 
 ### Related Topics

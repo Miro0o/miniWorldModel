@@ -60,6 +60,20 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 成都省蒲江县人，某地外星球球立大学副教授，法号依托大师。著名理论物理学渣，资深科研狗，著名小镇做题家。
 
 
+### 🏁 Don't Miss the Deadline!!!
+General
+- [CCFDDL® Open Deadlines](https://ccfddl.github.io/)
+	- Worldwide Conference Deadline Countdowns. To add/edit a conference, [send a pull request](https://github.com/ccfddl/ccf-deadlines/pulls).
+	- Preview tabular portal: [https://ccfddl.cn/](https://ccfddl.cn/), or scan to try [wechat applet](https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/applet_qrcode.jpg).
+	- *Disclaimer: The data provided by ccfddl is manually collected and for reference purposes only.
+- [CCF Conference Deadlines](https://ccfddl.top/)
+Security
+- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
+AI
+- [AI Conference Deadlines - Huggingface](https://huggingface.co/spaces/huggingface/ai-deadlines)
+- [Deadlines – AI Conference Call For Paper Deadlines](http://aideadlines.org/?sub=ML,CV,NLP,RO,SP,DM,AP,KR,HCI,IRSM,MISC)
+
+
 
 ## Intro
 ↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)

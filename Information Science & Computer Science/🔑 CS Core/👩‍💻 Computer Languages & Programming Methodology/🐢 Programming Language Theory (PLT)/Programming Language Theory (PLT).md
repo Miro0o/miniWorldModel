@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Logic](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-- ↗ [Set Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
+- ↗ [Set Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
 - ↗ [Category Theory (范畴论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 	- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)

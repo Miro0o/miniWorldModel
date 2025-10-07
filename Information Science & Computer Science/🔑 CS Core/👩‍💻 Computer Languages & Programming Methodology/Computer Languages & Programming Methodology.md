@@ -21,7 +21,7 @@
 
 ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
@@ -43,7 +43,7 @@
 ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 ↗ [Software Analysis & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 
-↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 
 ### Other Resources
@@ -370,6 +370,9 @@ It can be termed as abstract model of computation. It would solve logical proble
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
 ↗ [Logic Programming Languages](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Lambda Calculus (λ-Calculus)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Prolog (Programmation en Logique)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+- ↗ [Datalog (Data Logic)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
 ##### 2. Functional Programming
 e.g.
 - 👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
@@ -381,12 +384,12 @@ e.g.
 	- 👉 **ML**: developed by Robin Milner
 	- 👉 [Clojure](Compiled%20Languages/Lisp-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
-
 e.g.
-- ↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Database%20Languages.md)
-	- ↗ [Record-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-	- ↗ [Object-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-	- ↗ [Query Languages (Data Query Languages, DQL)](Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+- ↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+		- ↗ [SQL (Structured Query Language)](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 ```mysql
 CREATE DATABASE databaseAddress;
@@ -447,7 +450,7 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 <small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 #### 📌 The Evolution of Computing Model: From Finite Sates Machine to Turing Machine
 ↗ [Mathematical Logic](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 #### Components and Grammars
 > 🔗 https://algs4.cs.princeton.edu/11model/

@@ -15,7 +15,7 @@
 	- ↗ [Configurable Processors (PLDs, Programmable Logic Devices)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices).md)
 		- ↗ [FPGA (Field Programmable Gates Arrays)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/FPGA%20(Field%20Programmable%20Gates%20Arrays).md)
 	- ↗ [Standardized Processors (off-the-shelf)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/Standardized%20Processors%20(off-the-shelf).md)
-		- ↗ [Microcontrollers (MCU)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+		- ↗ [Microcontrollers (MCU, 单片机)](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
 - IO Units & Sensors
 	- etc.
 

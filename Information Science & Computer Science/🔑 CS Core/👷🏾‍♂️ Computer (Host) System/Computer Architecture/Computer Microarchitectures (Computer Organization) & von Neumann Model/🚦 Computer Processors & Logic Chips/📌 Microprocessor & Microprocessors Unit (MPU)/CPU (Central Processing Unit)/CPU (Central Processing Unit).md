@@ -9,7 +9,7 @@
 ↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20(On-Chip%20Bus)/Internal%20Bus%20(On-Chip%20Bus).md)
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
-↗ [Microcontrollers (MCU)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Microcontrollers (MCU, 单片机)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
 ↗ [Systems on Chip (SOC)](../../../Systems%20on%20Chip%20(SOC).md)
 
 ↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)

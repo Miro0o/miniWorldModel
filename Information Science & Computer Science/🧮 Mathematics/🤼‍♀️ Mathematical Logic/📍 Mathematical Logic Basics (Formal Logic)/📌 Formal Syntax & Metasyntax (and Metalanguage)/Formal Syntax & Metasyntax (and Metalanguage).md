@@ -16,7 +16,7 @@
 
 ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
-↗ [Natural Language Processing (NLP)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 ↗ [Language & Literature](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
@@ -39,8 +39,8 @@ Typically, the metalanguage for token-level languages (formally called "[regular
 
 
 ### Metalanguage
-↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Logic)/(Zeroth-Order%20Logic)%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 ↗ [Second-Order Predicate Logic (二阶谓词逻辑)](../Higher-Order%20Logic%20(HOL)/Second-Order%20Predicate%20Logic%20(二阶谓词逻辑).md)
 ↗ [Higher-Order Logic (HOL)](../Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
 
@@ -56,7 +56,7 @@ An _embedded metalanguage_ is a language formally, naturally and firmly fixed 
 
 It occurs in natural, or informal, languages, as well—such as in English, where words such as _noun_, _verb_, or even _word_ describe features and concepts pertaining to the English language itself.
 ##### Ordered
-↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 An _ordered metalanguage_ is analogous to an [ordered logic](https://en.wikipedia.org/wiki/Ordered_logic "Ordered logic"). An example of an ordered metalanguage is the construction of one metalanguage to discuss an object language, followed by the creation of another metalanguage to discuss the first, etc.
 ##### Nested

@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [Artificial Intelligence](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-- ↗ [AI Basics & Machine Learning](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
-- ↗ [Statistical Learning Theory](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+- ↗ [AI Basics & Machine Learning (ML)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/AI%20Basics%20&%20Machine%20Learning%20(ML).md)
+- ↗ [Statistical Learning Theory & ML Types](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
 
 ↗ [Probabilities & Statistics](../../../🧮%20Mathematics/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
-↗ [Statistical Learning Theory](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗ [Statistical Learning Theory & ML Types](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
 
 ↗ [Mathematical Tools & Scientific Computing](../../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 

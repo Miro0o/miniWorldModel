@@ -35,7 +35,7 @@
 
 ## Theory of Linguistics & Second Language Acquisition
 ↗ [Linguistics](../Linguistics/Linguistics.md)
-↗ [SLA (Second Language Acquisition) Theory](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/SLA%20(Second%20Language%20Acquisition)%20Theory/SLA%20(Second%20Language%20Acquisition)%20Theory.md)
+↗ [SLA (Second Language Acquisition) Theory](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/SLA%20(Second%20Language%20Acquisition)%20Theory/SLA%20(Second%20Language%20Acquisition)%20Theory.md)
 
 
 

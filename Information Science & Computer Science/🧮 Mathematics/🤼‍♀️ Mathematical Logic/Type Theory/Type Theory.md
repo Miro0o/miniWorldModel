@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Higher-Order Logic (HOL)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
+
 
 
 ## Intro

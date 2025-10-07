@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory](../../Set%20Theory/Set%20Theory.md)
+↗ [Set Theory](../../🛒%20Set%20Theory/Set%20Theory.md)
 ↗ [Normalization](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
 
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -76,6 +76,8 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 
 
 ### Automata Theory
+> ↗ [Regular Language (RL) & Finite Automata (FA)](Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
+
 > 🔗 https://en.wikipedia.org/wiki/Automata_theory
 
 **Automata theory** is the study of [abstract machines](https://en.wikipedia.org/wiki/Abstract_machine "Abstract machine") and [automata](https://en.wikipedia.org/wiki/Automaton "Automaton"), as well as the [computational problems](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") that can be solved using them. It is a theory in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") with close connections to [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"). The word _automata_ comes from the Greek word αὐτόματος, which means "self-acting, self-willed, self-moving". An automaton (automata in plural) is an abstract self-propelled computing device which follows a predetermined sequence of operations automatically. An automaton with a finite number of states is called a Finite Automaton (FA) or Finite-State Machine (FSM). The figure on the right illustrates a [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), which is a well-known type of automaton. This automaton consists of [states](https://en.wikipedia.org/wiki/State_(computer_science) "State (computer science)") (represented in the figure by circles) and transitions (represented by arrows). As the automaton sees a symbol of input, it makes a transition (or jump) to another state, according to its [transition function](https://en.wikipedia.org/wiki/Transition_table "Transition table"), which takes the previous state and current input symbol as its arguments.
@@ -92,6 +94,10 @@ The Chomsky hierarchy in the fields of [formal language theory](https://en.wiki
 
 > Recall Complexity Classes ↗ [Computational Complexity Theory](../Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 > ![|400](../../../../../Assets/Pics/Screenshot%202025-08-01%20at%2021.45.14.png)
+> 
+> Recall ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md) and ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+> ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+> <small>The process of compilation</small>
 
 
 

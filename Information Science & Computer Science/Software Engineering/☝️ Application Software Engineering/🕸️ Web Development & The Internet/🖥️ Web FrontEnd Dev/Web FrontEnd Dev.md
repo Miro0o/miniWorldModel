@@ -10,7 +10,11 @@
 ↗ [CSS & HTML UI Design & Frameworks](💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)
 ↗ [Desktop-Dev via Web-Dev Stacks](../../Desktop%20&%20Monolithic%20Application%20Development/Desktop-Dev%20via%20Web-Dev%20Stacks/Desktop-Dev%20via%20Web-Dev%20Stacks.md)
 
-↗ [JavaScript (Browser End)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
+↗ [HTML (HyperText Markup Language)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages/HTML%20(HyperText%20Markup%20Language).md)
+- ↗ [DOM (Document Object Model)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/DOM%20(Document%20Object%20Model).md)
+↗ [CSS (Cascading Style Sheets)](📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
+
+↗ [JavaScript Browser End Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JavaScript%20Browser%20End%20Libraries.md)
 ↗ [JS FrontEnd Frameworks](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
 
 

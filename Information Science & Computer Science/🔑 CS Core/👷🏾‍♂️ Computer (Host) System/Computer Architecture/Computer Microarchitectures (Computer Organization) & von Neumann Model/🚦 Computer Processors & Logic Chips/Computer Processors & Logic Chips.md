@@ -52,7 +52,7 @@ Traditional processors are typically based on silicon; however, researchers have
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-28%20at%209.35.38%20PM.png)
 
 ↗ [Microprocessor & Microprocessors Unit (MPU)](📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
-↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Microcontrollers (MCU, 单片机)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
 ↗ [Single-Board Computer (SBC)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
 
@@ -63,7 +63,7 @@ Traditional processors are typically based on silicon; however, researchers have
 
 
 ### Microcontroller Unit (MCU)
-↗ [Microcontrollers (MCU)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
+↗ [Microcontrollers (MCU, 单片机)](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU,%20单片机)/Microcontrollers%20(MCU,%20单片机).md)
 
 
 ### Single-Board Computer (SBC)

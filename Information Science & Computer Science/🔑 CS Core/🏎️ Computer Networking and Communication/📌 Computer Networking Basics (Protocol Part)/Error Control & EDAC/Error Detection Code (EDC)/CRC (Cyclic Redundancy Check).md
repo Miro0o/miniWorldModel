@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 
 ### Learning Resources

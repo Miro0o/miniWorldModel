@@ -233,13 +233,13 @@ or（情感，逻辑）X （认识，实践）
 命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
 - 我思故我在，表达的就是信息的存在与运动。信息是自我意识的反映与产物。当宇宙中存在自我意识，对自我意识来说宇宙就存在信息。当自我意识进行思考，就是宇宙中信息的存在与运动。
 
-宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。**马克思主义哲学也认为，事物是永恒发展和普遍联系的**，这和我上述两个命题可以对应：事物永恒发展即对应第一点命题，事物普遍联系则对应第二点命题。永恒发展对应着物质的永恒运动，普遍联系对应着信息的永恒运动，即具有自我意识的物体在永恒思考宇宙的过程。
+宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。**马克思主义哲学也认为，事物是永恒发展和普遍联系的**，这和上述两个命题对应：事物永恒发展对应第一命题，事物普遍联系对应第二命题。永恒发展对应着物质的永恒运动，普遍联系对应着信息的永恒运动，即具有自我意识的物体在永恒思考宇宙的过程。
 
-更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）给予不同的名称：
+更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）按照特征进行分类，并给予不同的名称：
 - 信息科学领域中的“计算”：
 	- ↗ [The Essence of Computing - Program](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
 - 深度学习中的"神经网络"模型：
-	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
@@ -263,17 +263,25 @@ or（情感，逻辑）X （认识，实践）
 - 信息的组织就是知识 <=> 信息的联系的联系就是知识，这两个命题是等价的。
 - （是否可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律？🤔）
 ##### 信息在物理世界的投射与模态
-我们已经说了，信息就是人的自我意识，就是人的思维。没有自我意识，就没有思维，就没有信息。因此，信息本是抽象的，主观的，只存在于人的脑海中。但是，信息是可以通过联系来向物理世界进行投射的。本节介绍两种重要的投射。
+前文提到，信息就是人的自我意识，是人的思维。没有自我意识，就没有思维，就没有信息。因此，信息本是抽象的，主观的，只存在于人的脑海中。但是，信息可以通过映射的方式来与物理世界进行对应，这样信息，或人的思维，就可以以客观的形式存在于物理世界。人将自己的思维向物理世界投射，再将物理世界的投射在脑中重现思维，这个过程就是信息的编码与解码。
 
-首先需要明确，信息的运动涉及如下三个环节：计算、传输（传播）、储存。信息的传输和储存可以独立于信息的计算，但是信息的计算必须要涉及信息的传输和储存。只有当全部三个因素都存在，我们才说信息在运动。从这个意义上讲，信息运动 = 信息计算。
-
+信息的符号化是一种重要的投射方式，这是一种基于文本的投射。根据人类的生物能力的不同，还可以有其他形式/媒介的投射。这些形式或媒介下的信息投射，称为信息的模态。
 ###### 语言系统及符号系统
+符号系统就是信息向物理世界的文本投射。
+
+> “符号”意义的扩充：非文本对象具有文本符号相同的信息性质，即非文本对象可以拥有一个对应的信息集。例如，“日”这个汉字，是一个文本符号，对应太阳；爱马仕是一个品牌（非文本对象），对应社会身份、地位。
+
+语言系统是符号系统的一类。
+
 语言系统就是信息向物理世界的统一化的投射。
 - 考虑这样一个场景：物理世界存在的太阳被人感知：视觉（很刺眼，不能直接看；在天上），听觉（没有声音），嗅觉（没有气味），味觉（没有味道），感觉（温度很高）。这样的感知矩阵的一个结果，我们将其和一个符号对应联系起来，这个符号可以在物理世界中被表示出来；我们再将这个符号和一个声音联系起来，这个声音是可以通过人的身体构造发出。这样的符号和声音，将他们推广，我们就得到了（自然）语言。
 - 语言有什么作用呢？有了语言，信息就可以通过语言在物理世界进行储存和传输。但是，语言本身不允许信息进行计算：信息的计算仍然需要人的介入。不过，语言的存在极大增加了人的计算能力。
-	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们是很难思考到“女权主义”这种问题的。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，我们的脑子是根本无法产生这样的想法的。
-	- 一般来说，人类的语言分成两类：自然语言和形式语言。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式语言，符合第二种情况。
-###### 信息与信号，多模态与多媒体
+	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们是很难思考到“女权主义”这种问题的。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，大脑很难在短时间内产生这样的想法。
+	- 人类使用的语言分成两类：自然语言和形式语言。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式语言，符合第二种情况。
+###### 信息表达系统的多模态与多媒体
+除了基于文本的信息投射，人类的生物能力还支持其他模态的投射。
+
+###### 信号与信号处理
 
 ###### 信息科学，计算机，计算机语言
 语言本身只是一套符号系统，可以对信息进行传输和储存，但无法对信息进行计算。
@@ -314,31 +322,40 @@ or（情感，逻辑）X （认识，实践）
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
 
-- 信息的运动方式：计算、传输、储存
-- 信息运动的自动化 /自动化地进行信息的「计算、传输、储存」：计算机进行计算（狭义的智能）
+要对信息的运动进行自动化，首先要对信息进行符号化，即将其从抽象概念投射到现实世界中可以设计机器进行自动化的模态。计算机科学中，这种符号化就是计算机语言，或者说编程语言。（编程语言是计算机语言的子集，在计算机运算的过程中需要不止编程语言一种符号系统。但是编程语言是最重要、计算机运算唯一不可或缺的语言）在有了编程语言（程序设计语言）之后，编程语言构成的程序的执行，即计算，就是信息的自动化运动。
+- 计算机计算的过程可以分三个层面来看：
+	- 抽象层面：信息的运动
+	- 抽象和现实的连接层：计算机语言及计算机语言的编写
+	- 现实物理世界，即从计算机硬件角度来看：信息的（数值）计算、传输、储存。
+- 对比人类进行逻辑能力的过程：
+	- 抽象层面：信息的运动
+	- 抽象和现实的连接层：自然语言及自然语言的生成
+	- 现实物理世界：人类大脑，神经系统，及整个身体的综合机能
+- 程序的执行，或计算，就是作者认为的狭义的智能。这是因为，以人类智能为基准，（即假定人类智能就是智能的定义），计算机的智能是人类智能的一个子集。
+	- 这里智能考虑的是可计算问题（计算能力），而不是计算效率。
 
-人类智能（**广义的智能**）：
+在人类智能（**广义的智能**）的范围内考虑计算机的狭义智能：
 - 源点：自我意识
 - 由自我意识发展出：
 	- 认识能力 /人脑智能
-		- 逻辑能力 ==<= 目前计算机科学具有的计算能力，狭义的智能==
-			- （衍生出自我学习能力）
+		- 逻辑能力 ==<= 目前计算机具有的计算能力，即对应人类智能的逻辑能力，是一种狭义的智能==
+			- （衍生出自我学习能力）==<= ？计算机是否有自我学习能力？==
 		- 情感能力
 	- 实践（改造自然）能力
 	- 社会关系的能力，即权力能力
-
-目前的计算机智能，包括AI（**狭义的智能**）：
-- 认识能力
-	- 逻辑能力（较弱）
-		- （自我学习能力？）
+###### 语言，思维，信息运动，与智能
+↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
-↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [Embodied AI & World Model](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI%20&%20World%20Model/Embodied%20AI%20&%20World%20Model.md)
 
-物质 -> 生命 -> 具有自我意识的生命（人类智能）
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+<small>From CS to AGI: Computing and Intelligence</small>
+
 
 人类智能（**广义的智能**）：
 - 源点：自我意识
+	- 物质 -> 生命 -> 具有自我意识的生命（人类智能）
 - 由自我意识发展出：
 	- 认识能力 /人脑智能
 		- 逻辑能力
@@ -348,17 +365,22 @@ or（情感，逻辑）X （认识，实践）
 	- 社会关系的能力，即权力能力
 
 目前的计算机智能，包括AI（**狭义的智能**）：
-- 认识能力
-	- 逻辑能力（较弱）
-		- （自我学习能力？）
+- 源点：图灵机
+	- 物质 -> 电路与逻辑 -> 图灵完备的计算机器
+- 由图灵机模型构造出：
+	- 认识能力
+		- 逻辑能力（较弱）
+			- （自我学习能力？）
 
 理想中的未来的计算机智能（AI得到极大发展）
+- 源点：自我意识
 - 认识能力
 	- 逻辑能力（较强）
 		- （自我学习能力！）
 	- 情感能力（从0到1的突破）
 
-终极的计算机智能（AI发展到终极形态）
+终极的计算机智能（AI发展到终极形态，与人类智能等价）
+- 源点：自我意识
 - 认识能力
 	- 逻辑能力（极强，超人）
 		- （自我学习能力）
@@ -726,7 +748,7 @@ https://en.wikipedia.org/wiki/Complex_system
 #### Knowledge Management & Explore
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 ↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 ↗ [Knowledge Graph](Information%20Science%20&%20Computer%20Science/Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
@@ -751,7 +773,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 ## 🤖 Artificial Intelligence
 > ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

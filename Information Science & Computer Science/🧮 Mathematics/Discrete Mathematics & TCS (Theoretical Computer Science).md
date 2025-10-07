@@ -18,7 +18,7 @@
 
 
 ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
+	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
 	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)

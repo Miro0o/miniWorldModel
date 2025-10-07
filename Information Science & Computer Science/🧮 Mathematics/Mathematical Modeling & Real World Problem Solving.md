@@ -16,10 +16,11 @@
 
 ↗ [Probability Models & Stochastic Process](📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
 - ↗ [Markov Chains (MC)](📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)/Markov%20Chains%20(MC).md)
-↗ [AI Basics & Machine Learning](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
-- ↗ [Statistical Learning Theory](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📊%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-	- ↗ [LLM Models Guide & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
+↗ [AI Basics & Machine Learning (ML)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/AI%20Basics%20&%20Machine%20Learning%20(ML).md)
+- ↗ [Statistical Learning Theory & ML Types](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+	- ↗ [Canonical RL Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/⭐️%20Canonical%20RL%20Models/Canonical%20RL%20Models.md)
+- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+	- ↗ [LLM Models Guide & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20Guide%20&%20Leaderboard/LLM%20Models%20Guide%20&%20Leaderboard.md)
 
 ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 ↗ [Modeling Tools](../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
@@ -43,6 +44,7 @@ Introduction to Mathematical Modeling
 
 数学模型（mathematical model）是使用数学来将一个系统简化后予以描述。数学模型广泛应用在自然科学（如物理学、化学、生物学、宇宙学）、工程学科（如计算机科学，人工智能）、以及社会科学（如经济学、心理学、社会学和政治科学）上。科学家和工程师用模型来解释一个系统，研究不同组成部分的影响，以及对行为做出预测。常见的模型包括动态系统、概率模型、微分方程或赛局模型等等。描述不同对象的模型可能有相同的形式，同一个模型也可能包含了不同的抽象结构。
 
+
 ### Taxonomy of Mathematical Models
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B#%E5%88%86%E7%B1%BB
 
@@ -59,6 +61,13 @@ Introduction to Mathematical Modeling
 ### Mathematical Modeling Process
 ![](../../Assets/Pics/Pasted%20image%2020250905221825.png)
 <small><a>https://m3challenge.siam.org/what-is-math-modeling/</a></small>
+
+
+### Mathematical Models
+↗ [Theory of Computation /Models of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
+
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>The process of compilation</small>
 
 
 

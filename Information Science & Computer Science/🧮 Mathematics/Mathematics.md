@@ -204,8 +204,8 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 
 ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
--  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(Zeroth-Order%20Logic)%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 
 
 ### Relation of Math and Science
@@ -236,7 +236,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 
 ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-- ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
+- ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
 - ↗ [Category Theory (范畴论)](🤼‍♀️%20Mathematical%20Logic/Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
 
@@ -251,7 +251,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-- ↗ [Linear Algebra](🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
+- ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -262,14 +262,14 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
-- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-	- ↗ [Group Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory/Group%20Theory.md)
-	- ↗ [Ring Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory/Ring%20Theory.md)
-	- ↗ [Field Theory](🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Field%20Theory/Field%20Theory.md)
-- ↗ [Linear Algebra](🧊%20Algebra/Linear%20Algebra/Linear%20Algebra.md)
+- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+	- ↗ [Group Theory & Group-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
+	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+- ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
-↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/Set%20Theory/Set%20Theory.md)
-- ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic/Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
+- ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 ↗ [Topology](Topology/Topology.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F

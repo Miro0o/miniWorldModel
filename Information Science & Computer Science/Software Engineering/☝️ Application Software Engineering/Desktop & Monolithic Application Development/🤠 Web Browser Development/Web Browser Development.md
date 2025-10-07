@@ -23,7 +23,7 @@
 		- ↗ [Mozilla SpiderMonkey](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Mozilla%20SpiderMonkey/Mozilla%20SpiderMonkey.md)
 
 ↗ [Web Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Web%20Security.md)
-↗ [Browser Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Browser%20Security/Browser%20Security.md)
+↗ [Browser Security](../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🌈%20Browser%20Security/Browser%20Security.md)
 
 
 ### Other Resources
@@ -83,7 +83,7 @@ As of 2024, most used browsers worldwide are: Chrome, Safari ([macOS](https://en
 
 
 ## Intro to Browser Inner Working: Chrome as an Example
-> ↗ [Chrome & Chromium Development](📌%20Web%20Browser%20Implementations/Chrome%20&%20Chromium%20Development.md)
+> ↗ [Google Chrome & Chromium](📌%20Web%20Browser%20Implementations/Google%20Chrome%20&%20Chromium.md)
 
 
 ### Browser as An Application Software

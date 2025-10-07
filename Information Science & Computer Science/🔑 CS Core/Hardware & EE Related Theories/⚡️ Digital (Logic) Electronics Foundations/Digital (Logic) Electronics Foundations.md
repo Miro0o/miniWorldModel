@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
 ↗ [Classical Electromagnetism](../🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
 ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 

@@ -8,13 +8,33 @@
 ### Related Topics
 ↗ [Network Application Communication Architectures](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
 ↗ [DS Web Services' Architectures](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+↗ [Awesome Architect](../../../🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 
 ↗ [Web Development & The Internet](../Web%20Development%20&%20The%20Internet.md)
 - ↗ [Web BackEnd Dev & Middleware](../🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 - ↗ [Web FrontEnd Dev](../🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 - ↗ [Web Dev Middleware](../🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
+↗ [Dev(Sec)Ops (Application Level Engineering)](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
+↗ [CI & CD Workflow](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🔃%20CI%20&%20CD%20Workflow/CI%20&%20CD%20Workflow.md)
+
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [Software Development Pattern](../../../Software%20Development%20Pattern/Software%20Development%20Pattern.md)
+- ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+
+↗ [Galleries & Awesome SE](../../../🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
+↗ [Web Application Galleries](../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
+
+
+### Other Resources
+🔥 https://github.com/donnemartin/system-design-primer
+The System Design Primer
+
+🔥 https://redesigningdesign.systems
+Level up your Design System
+
+https://gitlib.com/architecture/
+架构设计 | 基础架构、微服务、容器化、云原生总结
 
 
 

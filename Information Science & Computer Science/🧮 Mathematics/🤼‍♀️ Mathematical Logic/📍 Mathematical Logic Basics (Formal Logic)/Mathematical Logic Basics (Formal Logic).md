@@ -58,14 +58,14 @@ Logic has been studied since [antiquity](https://en.wikipedia.org/wiki/Ancient_
 
 ### Classical Logic: Proposition & Predicate
 ↗ [Classical Logic (Standard Logic)](Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
-↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/(Zeroth-Order%20Logic)%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/(First-Order)%20Predicate%20Logic%20-（一阶）谓词逻辑.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 
 ### Semantic & The Semantics of Mathematical Logics
 ↗ [Semantic Analysis](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
+↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 
 > 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 
@@ -107,13 +107,35 @@ A great example of this, is in the note of ↗ [The Essence of Computing - Progr
 
 In the study of Computer Science, we learn both those mathematical logics and computational models. (Sometimes this is exhausted,  because people don't like to learn that many things to simply achieve some easy tasks they meet at the moment. But I say let's study 🤓)
 #### Satisfiability
-When we mapping two objects, "assigning semantics", there are some rules. When there are rules, such mapping can be deduced to a decision problem: either the mapping succeed or fail. In the case of mapping between logic language and computational model, if such mapping succeeded, we say A accept B, or A satisfy B. Accordingly, B is satisfiable, or SAT.
+When mapping two objects, "assigning semantics", there are rules. When there are rules, such mapping can be deduced to a decision problem: either the mapping succeed or fail. In the case of mapping between logic language and computational model, if such mapping succeeded, we say A accept B, or A satisfy B. Accordingly, B is satisfiable, or SAT.
 
 Specifically, we always consider whether a computational model accept a logic language.
 
 
-### Soundness & Completeness
-> ↗ [Software Analysis Basics /Soundness & Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Soundness%20&%20Completeness)
+### Properties of Logics
+> 🔗 https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/
+
+Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure. The expressiveness of the different systems are tightly connected. The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies. 
+
+We care primarily about three properties: soundness, completeness, and decidability. 
+- Soundness relates to whether a statement shown to be true by the proof procedure via a syntactic proof is indeed true in the semantics of the logic.
+- Completeness relates to whether every statement that is true in the semantics of the logic has a syntactic proof in the proof procedure. 
+- Lastly, decidability relates to whether the proof procedure can effectively decide whether an arbitrary given statement is true or false. 
+
+Propositional logic is sound, complete and decidable. First-order logic is sound, complete but not decidable. Higher-order logic (which includes second-order logic) with standard semantics is sound but incomplete, as shown by Gödel’s Incompleteness Theorem. In practice, one can achieve completeness for higher-order logic by adopting the Henkin semantics, in which case one can show that higher-order logic is effectively equivalent to (many-sorted) first-order logic. (More technically, the domain of a type a -> b in a model in standard semantics consists of all functions from the domain of a to the domain of b, whereas a general model in the Henkin semantics only need to contain a non-empty subset of functions from the domain of a to the domain of b. By focussing on general models with elements that are nameable explicitly in the syntax of higher-order logic, Henkin was able to show that every consistent theory has a general model, which then opens the door to proving the contra-positive of the Completeness Theorem for higher-order logic; see [SV] for a clear and succinct description.) In the context of knowledge representation and reasoning for AI, the Henkin semantics is appropriate for higher-order logic, in which case we get the best of both worlds: an expressive language similar to informal mathematics for representing and reasoning about the world, while retaining the underlying soundness and completeness of first-order logic. (Decidability is not achievable for all but the simplest logics.)
+
+![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
+
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+#### Decidability
+↗ [Computability Theory - Turing Machine and R.E. Language](../😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+↗ [Decidability](../😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
+#### Soundness & Completeness
+> ↗ [Logic (and Critical Thinking) /Soundness, Truth, and Completeness](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
+> ↗ [Software Analysis Basics /Soundness, Truth, and Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
 
 **Definition**: Soundness
 In a sound system, we can only prove true things.
@@ -144,13 +166,13 @@ Soundness is among the most fundamental properties of mathematical logic. The so
 Most proofs of soundness are trivial. For example, in an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), proof of soundness amounts to verifying the validity of the axioms and that the rules of inference preserve validity (or the weaker property, truth). If the system allows [Hilbert-style deduction](https://en.wikipedia.org/wiki/Hilbert-style_deductive_system "Hilbert-style deductive system"), it requires only verifying the validity of the axioms and one rule of inference, namely [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens "Modus ponens") (and sometimes substitution).
 
 Soundness properties come in two main varieties: weak and strong soundness, of which the former is a restricted form of the latter.
-#### Weak Soundness
+##### Weak Soundness
 Weak soundness of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system") is the property that any sentence that is provable in that deductive system is also true on all interpretations or structures of the semantic theory for the language upon which that theory is based. In symbols, where $S$ is the deductive system, $L$ the language together with its semantic theory, and _P_ a sentence of _L_: if $\vdash_S P$, then also $\models_L P$.
-#### Strong soundness
+##### Strong soundness
 Strong soundness of a deductive system is the property that any sentence $P$ of the language upon which the deductive system is based that is derivable from a set $\Gamma$ of sentences of that language is also a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence "Logical consequence") of that set, in the sense that any model that makes all members of $\Gamma$ true will also make $P$ true. In symbols, where $\Gamma$ is a set of sentences of $L$: if $\Gamma \vdash_S P$, then also $\Gamma \models_L P$. Notice that in the statement of strong soundness, when $\Gamma$ is empty, we have the statement of weak soundness.
-#### Arithmetic soundness
+##### Arithmetic soundness
 If $T$ is a theory whose objects of discourse can be interpreted as [natural numbers](https://en.wikipedia.org/wiki/Natural_numbers "Natural numbers"), we say $T$ is **_arithmetically sound_** if all theorems of $T$ are actually true about the standard mathematical integers. For further information, see [ω-consistent theory](https://en.wikipedia.org/wiki/%CE%A9-consistent_theory "Ω-consistent theory").
-#### Relation to completeness
+##### Relation to completeness
 The converse of the soundness property is the semantic [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property. A deductive system with a semantic theory is strongly complete if every sentence $P$ that is a [semantic consequence](https://en.wikipedia.org/wiki/Semantic_consequence "Semantic consequence") of a set of sentences $\Gamma$ can be derived in the [deduction system](https://en.wikipedia.org/wiki/Deduction_system "Deduction system") from that set. In symbols: whenever $\Gamma \models P$, then also $\Gamma \vdash P$. Completeness of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic") was first [explicitly established](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem "Gödel's completeness theorem") by [Gödel](https://en.wikipedia.org/wiki/G%C3%B6del "Gödel"), though some of the main results were contained in earlier work of [Skolem](https://en.wikipedia.org/wiki/Skolem "Skolem").
 
 Informally, a soundness theorem for a deductive system expresses that all provable sentences are true. Completeness states that all true sentences are provable.
