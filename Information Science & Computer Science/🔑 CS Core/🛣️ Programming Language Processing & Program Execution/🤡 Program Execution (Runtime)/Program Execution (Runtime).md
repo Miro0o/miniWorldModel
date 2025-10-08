@@ -61,7 +61,7 @@ linux内核技术
 
 
 ### Program = Automata
-↗ [The Essence of Computing - Program](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 - (computing resources) CPU
 - (storage resources) Register + Address Space

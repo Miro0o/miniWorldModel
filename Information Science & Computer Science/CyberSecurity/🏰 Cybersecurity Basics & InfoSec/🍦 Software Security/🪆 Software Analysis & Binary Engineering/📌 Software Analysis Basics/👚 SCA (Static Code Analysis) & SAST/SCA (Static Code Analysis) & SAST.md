@@ -77,7 +77,7 @@ Static program analysis has been used since the early 1960’s in optimizing com
 Two Words to Conclude Static Analysis:
 - **Abstraction**
 	- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.57.45.png)
-- **Over-approximation**
+- **Safe-approximation**
 	- Transfer functions
 		- In static analysis, transfer functions define how to evaluate different program statements on abstract values.
 		- Transfer functions are defined according to “analysis problem” and the “semantics” of different program statements.
@@ -86,9 +86,12 @@ Two Words to Conclude Static Analysis:
 		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2001.00.14.png)
 
 
-### Language and  Programming Language
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+### Language and Programming Language (PL)
+↗ [Automata Theory and (Formal) Language Theory /Chomsky Hierarchy](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md#Chomsky%20Hierarchy)
 ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
+
+↗ [Computer Languages & Programming Methodology](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
@@ -116,7 +119,7 @@ int hello(int x) {
 Finally, we have type 0 languages, is a set of words which can be recognized by a Turing machine. One example is all programs that terminate.
 
 
-### Levels of Static Code Analysis & Intermediate Representation
+### Levels of Static Code Analysis & Intermediate Representation (IR)
 ↗ [Instruction Levels In Computer - ISA and Beyond](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond.md)
 ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 - ↗ [Compilation Phase](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
@@ -132,17 +135,48 @@ Finally, we have type 0 languages, is a set of words which can be recognized by 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.22.45.png)
 
 
-### Control Flow Graph (CFG)
-↗ [Constraint (Control Flow) Analysis](Constraint%20(Control%20Flow)%20Analysis/Constraint%20(Control%20Flow)%20Analysis.md)
+### Semantics of Program ⭐
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 
+**Transition System**
+- ↗ [(Formal) Model Checking](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
-## Static Application Security Testing (SAST)
+**CFG**
+- ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
+- ↗ [Constraint (Control Flow) Analysis](Constraint%20(Control%20Flow)%20Analysis/Constraint%20(Control%20Flow)%20Analysis.md)
+
+**AST & CST**
+- ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
+
+
+### Program Abstraction & Abstract Interpretation ⭐
+↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+
+
+### Static Application Security Testing (SAST)
 > **Static Code Analysis (SCA) vs Static Application Security Testing (SAST)**
 > 
 > Static Application Security Testing (SAST) applies static code analysis to find security issues. In general, static code analysis can be used to find various types of issues like style, formatting, quality, performance or security issues. SAST tools are designed specifically to find security issues with high accuracy, striving for low false positive and false negative rates, and providing detailed information about root causes and remedies of spotted vulnerabilities.
 > 
 > 🔗 https://snyk.io/learn/open-source-static-code-analysis/
+
+
+
+## Bounded Static Code Analysis
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html
+
+In bounded static analysis we want to talk about all the behaviors of the program up to some depth. There are no easy way to do this, because we have to handle a possible infinite set of traces, which by itself is hard to do.
+
+The idea behind bounded static analysis is straight forward. ==Instead of selecting a single initial state and then applying the semantics on that until a trace has been made (this is what we did with dynamic analysis), we start with the set of all initial states and then apply the semantics to all states at once.== Essentially, if dynamic analysis is depth first search, static analysis is breath first. While we have the downside of having to work with infinite sets of traces, we can be smart about it, and use **abstractions** to represent the set using a finite number of traces.
+
+
+
+## Unbounded Static Code Analysis
 
 
 

@@ -105,7 +105,7 @@ Concrete examples of each structure will be found in the articles listed.
 Algebraic structures are so numerous today that this article will inevitably be incomplete. In addition to this, there are sometimes multiple names for the same structure, and sometimes one name will be defined by disagreeing axioms by different authors. Most structures appearing on this page will be common ones which most authors agree on. Other web lists of algebraic structures, organized more or less alphabetically, include [Jipsen](http://math.chapman.edu/~jipsen/structures/doku.php) and [PlanetMath.](https://planetmath.org/browse/objects/) [Archived](https://web.archive.org/web/20071113050602/http://planetmath.org/browse/objects/) 2007-11-13 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine") These lists mention many structures not included below, and may present more information about some structures than is presented here.
 
 
-### Group, Ring, and Field
+### Group, Ring, and Field ⭐
 > ↗ [Group Theory & Group-Like Algebraic Structure](Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
 > ↗ [Ring Theory & Ring-Like Algebraic Structure](Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
 > ↗ [Field Theory & Field-like Algebraic Structure](Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)

@@ -9,6 +9,9 @@
 
 
 ### Learning Resources
+🎬 https://youtube.com/playlist?list=PLDcSwjT2BF_W7hSCiSAVk1MmeGLC3xYGg&si=n5rNNpqIFKnBqEZ5
+**Deep Dive into Combinatorics (DDC)**
+A deeper guide to combinatorics that is not often offered in school settings. It involves Catalan numbers and generalizations of them.
 
 
 

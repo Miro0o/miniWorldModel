@@ -61,7 +61,7 @@ It might seem obvious that we can learn about a program by running it, but it is
 
 
 ### Program Semantics & Transition System
-↗ [The Essence of Computing - Program](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
@@ -136,9 +136,12 @@ It might seem obvious, that we can learn things about the program by running it,
 ### Functional Testing
 
 
-### DAST (Dynamic Application Security Testing)
+### Un-Functional Testing
+#### DAST (Dynamic Application Security Testing)
+
+#### Fuzz Testing
+↗ [Fuzzing (Concrete Execution)](../../../🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 
 
 
 ## Ref
-

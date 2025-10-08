@@ -69,7 +69,7 @@ Christian Gram Kalhauge | DTU
 
 
 ### Program and Program Analysis
-> ↗ [The Essence of Computing - Program](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
 
@@ -105,7 +105,7 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 
 
 ### Program Semantics & Transition System
-↗ [The Essence of Computing - Program](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [Formal Semantics and Programming Language](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 #### Program State Space & State Explosion
@@ -113,7 +113,8 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 
 
 ### Evaluation of Program Analysis
-#### Undecidability of Program Analysis
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
+#### (Un)Decidability of Program Analysis
 > ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.3

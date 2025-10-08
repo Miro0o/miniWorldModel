@@ -14,7 +14,7 @@
 ↗ [Semantic Models & Languages](../../Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 ↗ [Semantic Analysis](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 
-↗ [The Essence of Computing - Program](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [Lambda Calculus (λ-Calculus)](../../Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 
@@ -320,10 +320,11 @@ Chapter 13: Action Semantics
 - 13.5 Laboratory: Translating into Action Notation
 	- Exercises
 - 13.6 Further Reading
-
 Appendix A: Logic Programming with Prolog
-
 Appendix B: Functional Programming with Scheme
+
+Nielson, Hanne Riis; Nielson, Flemming (2007). Semantics with Applications.
+https://link.springer.com/book/10.1007/978-1-84628-692-6
 
 
 
@@ -335,11 +336,19 @@ Appendix B: Functional Programming with Scheme
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 
 
-### What is Semantics?
+### What is Semantics (In General)?
 ↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
 
 
-### Formal Semantics (and FS of Programming Language)
+### What is Formal Semantics (FS)?
+> 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). Semantics with Applications.
+
+Formal semantics is concerned with rigorously specifying the meaning, or behaviour, of programs, pieces of hardware, etc. The need for rigour arises because
+- it can reveal ambiguities and subtle complexities in apparently crystal clear defining documents (for example, programming language manuals), and
+- it can form the basis for implementation, analysis, and verification (in particular, proofs of correctness).
+
+
+### Formal Semantics of Programming Language
 ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
 ↗ [Denotational Semantics](Denotational%20Semantics.md)
 ↗ [Operational Semantics](Operational%20Semantics.md)

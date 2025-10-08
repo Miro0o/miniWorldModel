@@ -13,7 +13,7 @@
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 
 ↗ [🥂 Welcome to CS](../../Information%20Science%20&%20Computer%20Science/🥂%20Welcome%20to%20CS.md)
-↗ [The Essence of Computing - Program](../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 
 ### Popular Science

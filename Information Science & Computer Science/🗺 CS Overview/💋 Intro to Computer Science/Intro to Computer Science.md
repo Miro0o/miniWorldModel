@@ -85,7 +85,7 @@ TL;DR
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 > 
-> ↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 > ↗ [🌲 Road To CS /CS & IT in Difference Aspects](🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Difference%20Aspects)
 
 **Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** 
@@ -99,7 +99,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 
-↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -490,7 +490,7 @@ These questions, from general to specific, speaks the path of what i think every
 			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 		4. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 	4. What is a program and how does it work? (application program /OS program)
-		1. ↗ [The Essence of Computing - Program](../The%20Essence%20of%20Computing%20-%20Program.md)
+		1. ↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 		2. Why and how do we program? /How are programming languages designed
 			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 				1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)

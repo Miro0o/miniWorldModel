@@ -9,6 +9,13 @@
 
 
 ### Other Resources
+🎬 https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO&si=LUmi7hoNSh3W_bQv
+**Essence of Group Theory**
+Inspired by 3Blue1Brown series on Essence of Linear Algebra, this video series hopefully gives some insights into this abstract topic of group theory (which is literally a part of an abstract algebra course).
+
+🎬 https://youtube.com/playlist?list=PLDcSwjT2BF_WDki-WvmJ__Q0nLIHuNPbP&si=T7qHhkBy7f17O6DH
+**Lie groups, algebras, brackets**
+New video series on the theory of Lie, focusing on the visual intuition rather than the usual boring equations.
 
 
 

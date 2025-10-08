@@ -25,7 +25,7 @@ Plotkin, Gordon D (2004). _The origins of structural operational semantics._ do
 
 
 ## Intro
-↗ [The Essence of Computing - Program](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Program.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ![computing.excalidraw | 800](../../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 

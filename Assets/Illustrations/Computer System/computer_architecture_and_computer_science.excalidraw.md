@@ -291,7 +291,7 @@ MATH!
 
 Formal Logics ^GYm74LZy
 
-[[../../../Information Science & Computer Science/🗺 CS Overview/The Essence of Computing - Program]] ^NPaW7lPF
+[[../../../Information Science & Computer Science/🗺 CS Overview/The Essence of Computing - Programs & The Semantics of Programs]] ^NPaW7lPF
 
 communication protocols 
 are transition systems ^4092bzEa

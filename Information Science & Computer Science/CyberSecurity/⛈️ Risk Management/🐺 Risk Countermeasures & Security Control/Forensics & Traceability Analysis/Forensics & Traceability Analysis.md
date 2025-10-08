@@ -7,10 +7,15 @@
 ## Res
 ### Related Topics
 ↗ [Digital Forensics and Incident Response (DFIR)](../Disaster%20&%20Incidence%20Response%20(IR)/Digital%20Forensics%20and%20Incident%20Response%20(DFIR).md)
+↗ [Exfiltration](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Achieve%20Phase/Exfiltration/Exfiltration.md)
+↗ [Data Security](../../../Data%20Security/Data%20Security.md)
+- ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
+
+↗ [EXIF (Exchangeable Image File Format)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/EXIF%20(Exchangeable%20Image%20File%20Format).md)
 
 
 
-## Intro: Forensics
+## Intro: Forensic Science
 
 
 

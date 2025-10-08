@@ -11,6 +11,9 @@
 ↗ [Second-Order Predicate Logic (二阶谓词逻辑)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Second-Order%20Predicate%20Logic%20(二阶谓词逻辑).md)
 ↗ [Higher-Order Logic (HOL)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
 
+↗ [Tree & Graph](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/Tree%20&%20Graph.md)
+↗ [Graph Theory](../../../Graph%20Theory/Graph%20Theory.md)
+
 
 ### Other Resources
 

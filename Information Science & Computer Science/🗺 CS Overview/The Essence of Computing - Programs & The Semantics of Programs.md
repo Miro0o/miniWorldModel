@@ -1,4 +1,4 @@
-# The Essence of Computing - Program
+# The Essence of Computing - Programs & The Semantics of Programs
 
 [TOC]
 
@@ -66,7 +66,7 @@
 
 
 
-## 😆 Program, Computer, and Automation
+## 😆 Semantics of Program
 🔥 🎬【操作系统上的程序 (什么是程序和编译器) [南京大学2022操作系统-P2]】 https://www.bilibili.com/video/BV12L4y1379V/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)

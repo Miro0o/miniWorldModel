@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [Forensics & Traceability Analysis](../Forensics%20&%20Traceability%20Analysis/Forensics%20&%20Traceability%20Analysis.md)
 
