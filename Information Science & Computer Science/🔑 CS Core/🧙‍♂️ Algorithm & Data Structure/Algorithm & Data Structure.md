@@ -60,7 +60,6 @@ by Robert Sedgewick, Kevin Wayne | https://algs4.cs.princeton.edu/code/
 	- This [public repository](https://github.com/kevin-wayne/algs4) contains the Java [source code](http://algs4.cs.princeton.edu/code/) for the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne. The official version at [https://github.com/kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) is actively maintained and updated by the authors. The programs are organized in the package `edu.princeton.cs.algs4`. If you need only the class files (and not the source code), you can use [algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar) instead.
 - 🚧 https://github.com/landerrosette/algs4
 	- This repository contains C++ implementations of the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne.
-
 #### For Advanced Topics & Long-time Learning
 👍 👨‍💻 https://en.algorithmica.org/hpc/ | Algorithms for Modern Hardware
 🚧 https://github.com/algorithmica-org/algorithmica
@@ -150,10 +149,65 @@ In contrast, a [heuristic](https://en.wikipedia.org/wiki/Heuristic_\(computer_s
 As an [effective method](https://en.wikipedia.org/wiki/Effective_method "Effective method"), an algorithm can be expressed within a finite amount of space and time and in a well-defined [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") for calculating a [function](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)"). Starting from an initial state and initial input (perhaps [empty](https://en.wikipedia.org/wiki/Empty_string "Empty string")), the instructions describe a computation that, when [executed](https://en.wikipedia.org/wiki/Execution_\(computing\) "Execution (computing)"), proceeds through a finite number of well-defined successive states, eventually producing "output" and terminating at a final ending state. The transition from one state to the next is not necessarily [deterministic](https://en.wikipedia.org/wiki/Deterministic "Deterministic"); some algorithms, known as [randomized algorithms](https://en.wikipedia.org/wiki/Randomized_algorithm "Randomized algorithm"), incorporate random input.
 
 
-### Etymology
+### Etymology of "Algorithm"
+> 🔗 https://en.wikipedia.org/wiki/Algorithm
+
 Around 825 AD, Persian scientist and polymath [Muḥammad ibn Mūsā al-Khwārizmī](https://en.wikipedia.org/wiki/Al-Khwarizmi "Al-Khwarizmi") wrote _kitāb al-ḥisāb al-hindī_ ("Book of Indian computation") and _kitab al-jam' wa'l-tafriq al-ḥisāb al-hindī_ ("Addition and subtraction in Indian arithmetic"). In the early 12th century, Latin translations of these texts involving the [Hindu–Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system "Hindu–Arabic numeral system") and [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic") appeared, for example _Liber Alghoarismi de practica arismetrice_, attributed to [John of Seville](https://en.wikipedia.org/wiki/John_of_Seville "John of Seville"), and _Liber Algorismi de numero Indorum_, attributed to [Adelard of Bath](https://en.wikipedia.org/wiki/Adelard_of_Bath "Adelard of Bath"). Here, _alghoarismi_ or _algorismi_ is the [Latinization](https://en.wikipedia.org/wiki/Latinisation_of_names "Latinisation of names") of Al-Khwarizmi's name; the text starts with the phrase _Dixit Algorismi_, or "Thus spoke Al-Khwarizmi".
 
 The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in English came to mean the use of place-value notation in calculations; it occurs in the _[Ancrene Wisse](https://en.wikipedia.org/wiki/Ancrene_Wisse "Ancrene Wisse")_ from circa 1225. By the time [Geoffrey Chaucer](https://en.wikipedia.org/wiki/Geoffrey_Chaucer "Geoffrey Chaucer") wrote _[The Canterbury Tales](https://en.wikipedia.org/wiki/The_Canterbury_Tales "The Canterbury Tales")_ in the late 14th century, he used a variant of the same word in describing _augrym stones_, stones used for place-value calculation. In the 15th century, under the influence of the Greek word ἀριθμός (_arithmos_, "number"; _cf._ "arithmetic"), the Latin word was altered to _algorithmus_. By 1596, this form of the word was used in English, as _algorithm_, by [Thomas Hood](https://en.wikipedia.org/wiki/Thomas_Hood_\(mathematician\) "Thomas Hood (mathematician)").
+
+
+
+## Programming Languages & Basic Programming Model
+> ↗ [Formal Semantics and Programming Language](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> 
+> ↗ [Computer Languages & Programming Methodology /Programming Language Basics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#Programming%20Language%20Basics)
+
+> https://algs4.cs.princeton.edu/11model/
+> Algorithms, 4th edition, 1.1 section, Programming Model
+
+
+
+## Data Abstraction
+> ↗ [Data Structures](📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+
+> https://algs4.cs.princeton.edu/11model/
+> Algorithms, 4th edition, 1.2 section, Data Abstraction
+
+
+
+## Analysis of Algorithms & Computational Complexity
+> ↗ [Computability Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> - ↗ [Church–Turing Thesis (Computability Thesis)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+> ↗ [Computational Complexity Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
+> ↗ [Computationally Hard Problems](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computationally%20Hard%20Problems.md)
+
+> https://algs4.cs.princeton.edu/11model/
+> Algorithms, 4th edition, 1.3 section, Analysis of Algorithms
+
+
+
+## Algorithms for Different Problems ⭐
+Algorithm Basics
+- ↗ [0x00 基本算法](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x00%20基本算法.md)
+- ↗ [0x10 基本数据结构](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x10%20基本数据结构.md)
+- ↗ [0x20 搜索](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x20%20搜索.md)
+- ↗ [0x30 数学](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x30%20数学.md)
+- ↗ [0x40 数据结构进阶](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x40%20数据结构进阶.md)
+- ↗ [0x50 动态规划](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x50%20动态规划.md)
+- ↗ [0x60 图论](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x60%20图论.md)
+- ↗ [0x70 综合技巧与实践](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/0x70%20综合技巧与实践.md)
+- ↗ [misc](📌%20Algorithms%20Basics%20&%20Data%20Structure/Algo%20Basics/misc.md)
+
+↗ [Data Structures](📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
+
+↗ [Classic Algorithms by Problems & Contexts](Classic%20Algorithms%20by%20Problems%20&%20Contexts/Classic%20Algorithms%20by%20Problems%20&%20Contexts.md)
+- etc.
+
+↗ [Other Topics in Algorithms](Other%20Topics%20in%20Algorithms/Other%20Topics%20in%20Algorithms.md)
+- ↗ [Data Compression Technologies](Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
+- ↗ [Heuristic Algorithms](Other%20Topics%20in%20Algorithms/Heuristic%20Algorithms/Heuristic%20Algorithms.md)
 
 
 

@@ -15,15 +15,269 @@
 
 
 
-## Intro: Forensic Science
+## Intro
+### Forensic Science & Digital Forensics
+
+#### Classes of Evidences /Artifacts
+**Two big evidence classes**
+- User data:
+	- docs,
+	- photos,
+	- browser history,
+	- Videos,
+	- Communication
+	- Etc.
+- System data:
+	- logs,
+	- power events,
+	- activity levels,
+	- Location data
+	- connected devices,
+	- Etc.
+
+**Core artifact families**
+- Filesystem & timestamps
+	- (Modified, Accessed, Changed, Birth) MACB
+- Execution history
+	- (prefetch, shimcache/amcache)
+	- OS Serach Index
+		- Windows Search index (Windows.edb)
+			- Records file names, sometimes content snippets, and paths — including synced folders (e.g. OneDrive)
+		- Thumbnail cache (thumbcache_xxx.db)→ Stores generated previews of images, documents, PDFs—including cloud-synced or temporary files
+		- Jump lists / RecentDocs can also reflect recent access to synced files.
+		- Remnants persist even after browser history or sync logs are cleared
+		- Useful for timeline correlation: browser → sync client → OS artifacts
+		- Can reveal evidence of viewed or transferred files that no longer exist
+- Registry & system configs
+- Logs
+	- (system/app)
+- User activity
+	- (browser/search/recent files)
+- Removable media (USB/CD)
+	- Device presence + first/last seen
+		- (USBSTOR, SetupAPI.dev.log)
+		- Vendor/Product ID, serial number, volume label
+		- First connection & last seen timestamps
+		- Confirms which device was connected, when, and how often
+	- File interaction evidence
+		- LNK files → target paths, volume serials, last opened times
+		- $MFT / $UsnJrnl → file creation, modification, deletion, rename events
+		- Shows what files were accessed or transferred to/from the device
+	- CD/DVD burns & external writes
+		- IMAPI2 event logs → disc burn sessions, timestamps, labels
+		- Prefetch → execution evidence for burning software
+		- App logs → ISO paths, tracklists
+		- Indicates potential data exfiltration via optical media
+- Network traces (DNS/HTTP)
+- Cloud/app footprints
+	- Browser history
+		- Visited URLs: show navigation to webmail, file-sharing platforms (e.g. Google Drive, opbox, Mega, OneDrive)
+		- Download history: filenames, paths, timestamps; often survives file deletion
+		- Search queries: Google/Bing search terms stored in history and form-autocomplete DBs
+		- Session data (cookies, local storage): evidence of logins, tokens, and services accessed
+	- Client databases & sync logs
+		- Cloud sync DBs (e.g. OneDrive ClientTelemetry.db, Google Drive snapshot.db)
+			- track file sync events (added, renamed, deleted), user accounts, device IDs, last sync times
+		- Log files often stored in `%AppData%`, `%LocalAppData%`, or system temp:
+			- contain detailed transfer info (file paths, timestamps, error messages)
+		- Credential remnants: tokens, device registration details, or cached OAuth credentials
+#### Common Tips
+**Log Files**
+- System & application logs are great timeline anchors
+	- Contain rich details: timestamps, usernames, process IDs, network activity
+	- Useful for anchoring, attribution, and corroboration
+- Common pitfalls to watch for
+	- Rotation & retention: older entries may be gone
+	- Privilege gaps: not everything is logged
+	- Parsing issues: multiline, encoding, or partial log entries
+	- Clock drift / unsynced systems: misleading or inconsistent timestamps
+- Always record timebase & timezone assumptions
+	- Logs may mix local time, UTC, DST shifts, or unsynced clocks
+	- Document offsets and standards to avoid timeline errors
+
+**Time sanity: pick a base & normalize**
+- Check device time settings early
+	- Verify system clock, timezone, DST, and NTP sync status
+	- Note any drift or desynchronization before analysis starts
+- Pick a time base and stick to it
+	- Decide on UTC or local time for the investigation
+	- Convert and label all timestamps consistently
+	- Avoid mixing UTC, local, and “unknown” timestamps in one timeline
+- Call out uncertainty explicitly
+	- Note any ± clock skew, DST ambiguity, or incomplete timezone info
+	- Document assumptions and sources of time
+	- Flag where precision may be degraded
+
+**Corroboration > anecdotes**
+- Method triangulation
+	- Verify findings using a second tool or method
+		- e.g. Autopsy timeline vs. manual $MFT parsing
+		- Hash checks with two different utilities
+	- Reduces risk of tool-specific parsing errors or bugs
+- Data triangulation
+	- Look for independent artifacts that support the same conclusion
+		- e.g. USBSTOR key + LNK files + $UsnJrnl entries all indicate a USB copy event
+		- Browser history + sync logs + thumbnail cache confirm a cloud upload
+	- Builds stronger, defensible narratives
+		- Actively seek disconfirming evidence
+	- Don’t just collect what fits your theory — try to break it
+	- Check for alternate explanations or missing pieces
+	- Peer review and second-opinion checks catch blind spots
+
+**Ethics & scope quick hits**
+- Minimal collection; privacy awareness
+- Contemporaneous notes; who/when/how
+- Record **tool names/versions** and **hashes** of acquired data (baseline habit)
 
 
-
-## Intro: Traceability Analysis
+### Traceability Analysis
 > 传统的被动防御策略(如防火墙、杀毒软件等)在 面对 日益复杂的智能攻击行为时难以有效保护网络安全和抑制攻击。网络攻击者大多使用伪造IP地址或通过多个跳板发起攻击，使防御方很难确定真正攻击源的身份和位置，难以实施有针对性的防御策略。
 > “知己知彼，百战不殆”，在网络攻防对抗中，只有拥有信息优势，才能更加有效地实施网络对抗策略，进而取得胜利。网络攻击追踪溯源的目标是探知攻击者身份、攻击点位置及攻击路径等信 息，据此制定有针对性的防护或反制措施，进而占领网络攻防对抗制高点。
 > 
 > 《网络攻防术》朱俊虎，网络空间安全学科规划教材
+
+
+
+## Digital Forensic Model & Work Flow
+### Simplified Digital Forensic model
+Inspired by Abstract Digital Forensic Model (Reith, Carr & Gunsch)
+1. Identification (planning)
+	- The problem at hand:
+		- Which questions do I need to answer?
+		- What is the scope of the investigation / incident response?
+		- Where can I expect to find relevant data?
+		- Definition of done
+	- Guidance indicators:
+		- Can we draw on earlier experience from similar incidents?
+		- Do indicators suggest adjustment of scope or questions?
+	- Competencies and resources:
+		- Which competencies are needed?
+		- Do we need external help or additional tools?
+		- Estimate in regards to when the job will be done
+2. Preservation (data acquisition)
+	- Case management:
+		- How do I document my chain of custody?
+		- How do I audit who can access case data?
+	- Data acquisition:
+		- How do I take a copy of data in a forensically sound manner?
+			- Not just a question of copying data
+				- The chain of custody starts here!
+			- Forensic soundness
+		- Which tool support do I need?
+		- Are there any legal constraints?
+		- Types of data
+			- Hard-drives, USB keys
+			- Onboard storage
+			- Mixed physical / cloud
+			- Live data
+			- Cloud desktop
+			- Non-standard adapters
+		- (minimum documentation requirements)
+			- On which device/service was the data originally located?
+			- When was the data acquired?
+			- Who acquired the data?
+			- Which tools were used to acquire the data?
+			- What is the hash value of the acquired data?
+			- Details regarding time
+	- Time synchronization:
+		- Are data and time currently correct on the target device?
+		- Is time synchronization enabled on the target device?
+3. Analysis
+	- Tools and processing
+		- Deployment and configuration of forensic analysis tools
+		- Configuration check (time zone, images, etc.)
+		- Automated processing is essential
+		- But always lacks behind the real world and only parses common datatypes
+	- Analysis
+		- Prioritized interpretation of processing results
+		- Manual analysis (time consuming)
+		- Findings can trigger an additional processing or preservation round
+	- Validation and other checks
+		- Trust no one and nothing
+		- Every tool has known and unknown flaws
+		- Various scientific and investigative methods to mitigate and/or find errors and flaws in forensic results
+		- Validation of forensic findings
+			- Method triangulation (aka. dual tool validation)
+			- Data triangulation (does other forensic findings point in the same direction?)
+			- Actively look for items that invalidates your results
+			- Peer review
+		- Mitigation of uncertainty in forensic findings
+			- Data triangulation
+				- Witness statements
+				- Video recordings (CCTV)
+				- Cellular information
+			- If there are any uncertainties, they should be clearly documented
+4. Documentation
+	- Know your audience
+		- Most decision makers only read your conclusion
+		- Use drawings and figures for complex relationships
+	- Reproducibility and transparency
+		- The receiver should be able to reproduce your findings given your report and the forensic image
+		- List all tools and versions
+	- Unbiased and honest
+		- Include findings that speaks against your conclusion
+		- List and explain all uncertainties
+
+
+
+## Counter-Forensics
+**Common Tricks**
+- Time & metadata tampering
+	- – Tools like timestomp, EXIF cleaners, or manual system clock changes
+- Log manipulation
+	- Event log clearing (wevtutil cl), disabling auditing, forced rotation
+- Wiping and privacy tools
+	- CCleaner, BleachBit, sdelete, SSD TRIM effects
+- Ephemeral activity
+	- Private/incognito browsing, temporary storage, encrypted or cloud-only volumes
+
+**Common Tools**
+Metasploit Framework (post-exploitation modules)
+- Use: Several post-modules can clear **Windows Event Logs** after exploitation
+- Examples:
+	- `post/windows/manage/clearlogs` → clears Application, System, and Security logs
+	- `post/multi/gather/log_wiper` (community modules)
+- Pros: Automatable, scriptable, integrates with other actions
+
+PowerShell & Sysinternals (Windows)
+- Very common:
+	- `wevtutil cl <logname>` → clears specific Windows Event Logs
+	- `Clear-EventLog cmdlet` → quick batch clearing
+	- `Sysinternals SDelete` → securely wipes deleted log files to make recovery harder
+- Often combined in scripts to clear or selectively truncate logs
+
+Linux: shell + logrotate
+- `> /var/log/auth.log`
+- `> /var/log/syslog`
+or edit logrotate configs to rotate-and-delete targeted logs immediately
+Some adversaries also deploy custom cron jobs to keep wiping recent entries
+
+
+
+## Anti-Counter-Forensics
+**Spot the Gap — Timeline Correlation**
+- Even if logs are wiped, **their absence itself is evidence**.
+- Typical signs:
+	- Log files exist, but their internal sequence IDs restart suddenly
+	- There’s a suspicious “quiet” period in logs between otherwise normal activity
+	- Timestamps around the log files (modification / creation) don’t match expected patterns
+- Build system-wide timelines (e.g. with Autopsy, Plaso, or log2timeline) and look for:
+	- When the log file .evtx was last modified
+	- What happened just before and after that timestamp
+	- Any associated events (e.g. privilege escalation, remote shell access) preceding the wipe
+
+**Check other artifacts**
+- Even if Windows Event Logs are cleared, other subsystems keep traces:
+	- `$MFT / $UsnJrnl`
+		- Shows the log file being truncated or rewritten (new record)
+	- S`etupAPI.dev.log / Prefetch / Shimcache / Amcache`
+		- Can show tools or executables run shortly before the wipe (e.g. wevtutil.exe, Metasploit payloads, PowerShell)
+	- Command history / PowerShell Operational logs
+		- Sometimes attackers forget to clear everything
+	- SRUM / WMI / Task Scheduler logs
+		- Provide indirect timing signals
+- Document the Wipe as a finding
+	- Timestamp of wipe, affected logs, correlated surrounding activity, confidence level
 
 
 

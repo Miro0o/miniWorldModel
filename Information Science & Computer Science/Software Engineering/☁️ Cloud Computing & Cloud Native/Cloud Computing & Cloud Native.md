@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Virtualization](../🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
-↗ [Network Virtualization](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization (NV)](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
 
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/Cloud%20Security/Cloud%20Security.md)
 ↗ [Edge & Frog Computing](../../Computer%20Engineering,%20Embedded%20&%20IoT/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)

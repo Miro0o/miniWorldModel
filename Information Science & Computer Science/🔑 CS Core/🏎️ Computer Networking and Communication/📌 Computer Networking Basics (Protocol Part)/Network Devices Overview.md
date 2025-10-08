@@ -49,7 +49,7 @@ Types of hubs:
 
 ### 👉 Switch
 > ↗ [Link Layer (Tier-2) Switch](0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switch.md)
-> ↗ [Virtual Security Switch](../Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Link%20Layer/Virtual%20Switch%20(vSwitch)/Virtual%20Security%20Switch.md)
+> ↗ [Virtual Security Switch](../Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Link%20Layer/Virtual%20Switch%20(vSwitch)/Virtual%20Security%20Switch.md)
 
 交换机是集线器的升级换代产品，外形上和集线器没什么分别，是一种在通信系统中自动完成信息交换功能的设备，用途和HUB一样也是连接组网之用，但是它具有比集线器更强大的功能。
 

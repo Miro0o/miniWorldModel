@@ -11,8 +11,10 @@
 
 
 ### Related Topics
+↗ [VMWare](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/VMWare.md)
+
 ↗ [VMware Server](../../Hosted%20Hypervisor/Independant/VMware%20Server.md)
-↗ [VMware Workstation](../../Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
+↗ [VMware Workstation (Pro)](../../Hosted%20Hypervisor/Independant/VMware%20Workstation%20(Pro).md)
 
 ↗ [IDC & Data Center Networking](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 

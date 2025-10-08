@@ -13,7 +13,6 @@
 
 
 
-
 ## Intro: Abstract Interpretation of Program
 > 📖 Static Program Analysis  | Anders Møller and Michael I. Schwartzbach
 

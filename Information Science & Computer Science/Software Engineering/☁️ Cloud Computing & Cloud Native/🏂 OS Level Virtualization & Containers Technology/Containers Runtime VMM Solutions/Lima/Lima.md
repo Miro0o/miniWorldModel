@@ -212,7 +212,7 @@ docker context use lima-docker
 1. user-mode network (192.168.5.0/24)
 
 2. VMNet networks
-	1. ↗ [socket_vmnet](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/socket_vmnet.md)
+	1. ↗ [socket_vmnet](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/socket_vmnet.md)
 	2. vzNAT
 	> ⚠ "vz" mode is experimental
 

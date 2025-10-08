@@ -80,7 +80,7 @@ Private Network
 ### by Topology
 ↗ [Computer Network Topology](../0x06%20Data%20Link%20Layer/Computer%20Network%20Topology.md)
 #### 🤔 Overlay Network
-↗ [Overlay Network](../../Network%20Virtualization/Overlay%20Network.md)
+↗ [Overlay Network](../../Network%20Virtualization%20(NV)/Overlay%20Network.md)
 
 Recall Overlay/Underlay Architecture in ↗ [SDN Standardizations & Architectures](../../🙌🏻%20Software%20Defined%20Network%20(SDN)/SDN%20Overview/SDN%20Standardizations%20&%20Architectures.md)
 

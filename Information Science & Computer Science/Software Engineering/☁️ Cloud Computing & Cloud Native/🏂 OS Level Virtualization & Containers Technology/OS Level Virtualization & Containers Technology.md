@@ -20,7 +20,7 @@ Containers (OS Virtualization)
 ↗ [Container Implementations](🐋%20Container%20Implementations/Container%20Implementations.md)
 
 Network Virtualizations
-↗ [Network Virtualization](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization (NV)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
 
 Other Virtualizations...
 tbd...

@@ -130,16 +130,15 @@ Common customization made to Kali include the following:
 3. Permanently switching to the text interface (in which case i'm in)
 
 
-Swithcing to text mode permanently: 
+Switch to text mode permanently: 
 ```shell
 sudo systemctl set-default multi-user.target
 reboot
 ```
 
-Back to GUI for this one:
+Back to GUI for this one: (this don't require reboot)
 ```shell
 sudo systemctl start display-manager.service
-reboot
 ```
 
 Back to GUI permanently:

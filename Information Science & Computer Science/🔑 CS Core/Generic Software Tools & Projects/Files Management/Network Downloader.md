@@ -19,5 +19,17 @@
 
 
 
+## Bittorrent Client
+### 👉 Transmission
+🏠 https://transmissionbt.com/
+A Fast, Easy and Free Bittorrent Client
+For macOS, Windows and Linux
+
+
+### 👉 uTorrent
+🏠 https://www.utorrent.com/
+
+
+
 ## Ref
 

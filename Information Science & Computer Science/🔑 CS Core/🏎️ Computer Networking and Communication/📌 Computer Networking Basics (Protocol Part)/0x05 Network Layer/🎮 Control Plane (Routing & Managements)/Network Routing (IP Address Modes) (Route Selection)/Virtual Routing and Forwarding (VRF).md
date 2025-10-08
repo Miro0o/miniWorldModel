@@ -10,7 +10,7 @@
 ↗ [Multiprotocol Label Switching (MPLS) (Layer 2.5 Protocol)](Multiprotocol%20Label%20Switching%20(MPLS)%20(Layer%202.5%20Protocol).md)
 ↗ [L2TP (Layer 2 Tunneling Protocol) (over IPSec)](../../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/📌%20Tunneling%20Protocols%20&%20Technologies/L2TP%20(Layer%202%20Tunneling%20Protocol)%20(over%20IPSec).md)
 
-↗ [Linux network-namespace](../../../../Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/Linux%20network-namespace.md)
+↗ [Linux network-namespace](../../../../Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/Linux%20network-namespace.md)
 
 
 

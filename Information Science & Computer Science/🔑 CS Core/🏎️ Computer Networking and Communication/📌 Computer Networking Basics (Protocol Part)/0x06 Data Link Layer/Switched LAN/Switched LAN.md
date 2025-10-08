@@ -9,7 +9,7 @@
 ↗ [Link Layer (Switched Network) Basics](../📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20(Switched%20Network)%20Basics.md)
 ↗ [Computer Network and Communication Introduction & Overview](../../0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
-↗ [Overlay Network](../../../Network%20Virtualization/Overlay%20Network.md)
+↗ [Overlay Network](../../../Network%20Virtualization%20(NV)/Overlay%20Network.md)
 
 
 

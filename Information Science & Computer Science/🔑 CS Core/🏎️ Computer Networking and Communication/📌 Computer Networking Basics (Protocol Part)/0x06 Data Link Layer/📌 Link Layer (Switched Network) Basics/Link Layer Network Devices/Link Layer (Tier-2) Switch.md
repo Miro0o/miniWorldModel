@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Network Layer Switch](../../../0x05%20Network%20Layer/Network%20Layer%20Devices/Network%20Layer%20Switch.md)
 ↗ [Switch](../../../../🙌🏻%20Software%20Defined%20Network%20(SDN)/ONF%20-%20OpenFlow/OpenFlow%20Data%20Plane/Switch.md)
-↗ [Virtual Switch (vSwitch)](../../../../Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Link%20Layer/Virtual%20Switch%20(vSwitch)/Virtual%20Switch%20(vSwitch).md)
+↗ [Virtual Switch (vSwitch)](../../../../Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Link%20Layer/Virtual%20Switch%20(vSwitch)/Virtual%20Switch%20(vSwitch).md)
 
 
 

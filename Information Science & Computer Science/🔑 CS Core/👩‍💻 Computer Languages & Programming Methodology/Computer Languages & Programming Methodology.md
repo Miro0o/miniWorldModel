@@ -445,7 +445,7 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 
 
 ## Programming Language Basics
-### Programming Model of A Programming Language
+### 1️⃣ Programming Model (Designer's Perspective)
 ![](../../../Assets/Pics/Pasted%20image%2020250726224307.png)
 <small>Above is a complete Java program ☕️ BinarySearch.java (<a>https://algs4.cs.princeton.edu/11model/BinarySearch.java.html</a>) that illustrates many of the basic features of our programming model. It implement a classic algorithm known as <b>binary search</b> and tests it for an application known as <b>allowlist filtering</b>.<br><a>https://algs4.cs.princeton.edu/11model/</a></small>
 #### 📌 The Evolution of Computing Model: From Finite Sates Machine to Turing Machine
@@ -589,7 +589,6 @@ Programming in Java is largely based on building data types known as **reference
 > - Client code can manipulate data-type values (control an object’s behavior, possibly changing its state) by using a variable associated with an object to invoke an instance method that operates on that object’s instance variables.
 > - Client code can manipulate objects by creating arrays of objects and passing them and returning them to methods, in the same way as for primitive-type values, except that variables refer to references to values, not the values themselves. These capabilities are the foundation of a flexible, modern, and widely useful programming style that we will use as the basis for studying algorithms in this book.
 
-
 More about ADT and programming model:
 - Use of ADT:
 	- A client does not need to know how a data type is implemented in order to be able to use it.
@@ -652,7 +651,25 @@ More about ADT and programming model:
 #### State Spaces
 
 
-### Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling
+### 2️⃣ Design Consideration of Programming Language (Compiler Engineer's Perspective)
+> Compilers Principles Techniques and Tools 2nd Edition - 1 .6 Programming Language Basics
+> In this section, we shall cover the most important terminology and distinctions that appear in the study of programming languages.
+#### The Static/Dynamic Distinction
+
+#### Environments and States
+
+#### Static Scope and Block Structure
+
+#### Explicit Access Control
+
+#### Dynamic Scope
+
+#### Parameter Passing Mechanisms
+
+#### Aliasing
+
+
+### 3️⃣ Program in Practice: Data CRUD, Data Structure & Algorithm, and API Calling (Programmer's Perspective)
 > Personally, I believe the best way to get to know the basic principles and practical details of programming languages, whether in order to learn a new programming language or to explore the designing principles of that language, is to learn in writing algorithms of that language.
 > ↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 > ↗ [Python](Interpreted%20Languages/🐍%20Python/Python.md)

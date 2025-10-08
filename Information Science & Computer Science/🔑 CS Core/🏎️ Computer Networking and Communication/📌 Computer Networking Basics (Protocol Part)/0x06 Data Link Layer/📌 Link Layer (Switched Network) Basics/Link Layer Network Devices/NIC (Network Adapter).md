@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Virtual NIC (vNIC)](../../../../Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Physical%20Layer/Virtual%20NIC%20(vNIC)/Virtual%20NIC%20(vNIC).md)
+↗ [Virtual NIC (vNIC)](../../../../Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Physical%20Layer/Virtual%20NIC%20(vNIC)/Virtual%20NIC%20(vNIC).md)
 ↗ [MAC (Media Access Control) Protocol & Layer 2 Lower Sublayer](../📌%20MAC%20(Media%20Access%20Control)%20&%20Layer%202%20Lower%20Sublayer/MAC%20(Media%20Access%20Control)%20Protocol%20&%20Layer%202%20Lower%20Sublayer.md)
 
 ↗ [Physical Layer Network Devices](../../../0x07%20Physical%20Layer/Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)

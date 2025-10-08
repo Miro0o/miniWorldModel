@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Linux Bridge](../../../../Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Link%20Layer/Linux%20Bridge.md)
+↗ [Linux Bridge](../../../../Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Link%20Layer/Linux%20Bridge.md)
 
 
 
