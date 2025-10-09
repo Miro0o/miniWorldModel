@@ -349,6 +349,8 @@ Formal semantics is concerned with rigorously specifying the meaning, or behavio
 
 
 ### Formal Semantics of Programming Language
+↗ [Semantic Analysis](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+
 ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
 ↗ [Denotational Semantics](Denotational%20Semantics.md)
 ↗ [Operational Semantics](Operational%20Semantics.md)

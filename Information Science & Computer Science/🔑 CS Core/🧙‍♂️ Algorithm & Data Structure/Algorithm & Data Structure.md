@@ -91,9 +91,8 @@ Programming in Java   ·   Computer Science   ·   An Interdisciplinary Appr
 The goal of this project is to translate the wonderful resource [http://e-maxx.ru/algo](http://e-maxx.ru/algo) which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. Moreover we want to improve the collected knowledge by extending the articles and adding new articles to the collection.
 
 [Project Euler](https://projecteuler.net)
-Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.  
-  
-The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+- Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.  
+-  The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 
 📖 信息学奥赛一本通 （科学技术文献出版社）
 📖 算法竞赛进阶指南 - 李煜东（中原出版传媒集团，河南电子音像出版社）
@@ -101,6 +100,16 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 
 📂 [OI-Wiki](https://oi-wiki.org)
 > 个人感觉编写内容很杂乱，不适合初学。适合用来查看补齐知识面或复习。
+
+📖 https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+The Art of Computer Programming (TAOCP) | by Donald E. Knuth.
+https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books?tab=readme-ov-file
+"Everyday life is like programming, I guess. If you love something you can put beauty into it." ― Donald E. Knuth
+https://a.co/d/eXI2bWd
+
+📖 https://a.co/d/ggJCFpW
+Introduction to Algorithms, fourth edition 4th Edition
+by [Thomas H. Cormen](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Thomas+H.+Cormen&text=Thomas+H.+Cormen&sort=relevancerank&search-alias=books) (Author), [Charles E. Leiserson](https://www.amazon.com/Charles-E-Leiserson/e/B000AQ6W9W/ref=dp_byline_cont_book_2) (Author), [Ronald L. Rivest](https://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Ronald+L.+Rivest&text=Ronald+L.+Rivest&sort=relevancerank&search-alias=books) (Author), [Clifford Stein](https://www.amazon.com/s/ref=dp_byline_sr_book_4?ie=UTF8&field-author=Clifford+Stein&text=Clifford+Stein&sort=relevancerank&search-alias=books) (Author)
 
 
 ### Online Judge (OJ)

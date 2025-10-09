@@ -113,6 +113,7 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 
 
 ### Evaluation of Program Analysis
+> ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
 > ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
 #### (Un)Decidability of Program Analysis
 > ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
@@ -223,7 +224,8 @@ Approximative answers may be useful for finding bugs in programs, which may be v
 > 🔗 [In Defense of Soundness: A Manifesto](https://dl.acm.org/doi/pdf/10.1145/2644805)
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.
 ##### May Analysis & Must Analysis
-#### FP,TN,FN vs TP
+
+#### FP,TN,FN 🆚 TP
 It is also useful to talk about how a program analysis has performed on individual programs or bugs. To do this we use nomenclature from [classification](https://en.wikipedia.org/wiki/Binary_classification).
 
 An individual proposition Φ is either a true positive, true negative, false positive, or false negative, following the table below:
@@ -253,7 +255,6 @@ A sound analysis, therefore, has no false positives, and a complete analysis has
 接着，作为示例，李樾老师分析了Java的反射和native code两个hard language features，探讨为什么它们难于分析，以及学术界的研究进展。事实上，反射部分最先进的研究是李樾和谭添老师做的。这可以说是顶级“凡尔赛”了，但是哪个学生不希望听到老师说课程最前沿的部分是自己做的呢？换句话说，能听顶尖工作的作者讲的该领域的课应该是一种荣幸。
 
 简单来说，Java反射机制难于进行静态分析的原因是，`Class.forName(cName)`、`c.getMethod(mName, ...)`等方法的参数可能是运行时才能确定的（来自网络、配置文件、用户输入等），静态分析很难获得这些参数信息，进而难于确定对应的类和方法。学术界目前的解决方法可以归为三类：
-
 1. 字符串常量分析+指针分析（[论文链接](https://suif.stanford.edu/papers/aplas05r.pdf)）。这个思路比较直观，但是也存在明显的问题——如果字符串的值确实是运行时才能确定的，那么就无法确定反射目标了。
 2. 类型推理+字符串分析+指针分析（[论文链接](https://yuelee.bitbucket.io/papers/ECOOP14.pdf)，一二作是李樾、谭添）。这个思路是从反射对象的使用点（usage points）开始反推。值得一提的是，2019年，两位老师又发表了[新的研究成果](https://yuelee.bitbucket.io/papers/tosem19.pdf)。
 3. 动态分析辅助的静态分析（[论文链接](https://www.bodden.de/pubs/bss+11taming.pdf)）。这个不必多言，就是从动态分析中获取信息来辅助进行静态分析，它会有动态分析的优点，但是也因此引入了动态分析的缺点。

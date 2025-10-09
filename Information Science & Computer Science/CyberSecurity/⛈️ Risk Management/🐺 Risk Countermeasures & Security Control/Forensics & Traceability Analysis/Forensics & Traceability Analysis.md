@@ -137,6 +137,10 @@
 > 《网络攻防术》朱俊虎，网络空间安全学科规划教材
 
 
+### Counter Forensics & Anti-Counter Forensics
+↗ [Forensics & Counter Forensics Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Forensics%20&%20Counter%20Forensics%20Tools/Forensics%20&%20Counter%20Forensics%20Tools.md)
+
+
 
 ## Digital Forensic Model & Work Flow
 ### Simplified Digital Forensic model
@@ -217,67 +221,6 @@ Inspired by Abstract Digital Forensic Model (Reith, Carr & Gunsch)
 	- Unbiased and honest
 		- Include findings that speaks against your conclusion
 		- List and explain all uncertainties
-
-
-
-## Counter-Forensics
-**Common Tricks**
-- Time & metadata tampering
-	- – Tools like timestomp, EXIF cleaners, or manual system clock changes
-- Log manipulation
-	- Event log clearing (wevtutil cl), disabling auditing, forced rotation
-- Wiping and privacy tools
-	- CCleaner, BleachBit, sdelete, SSD TRIM effects
-- Ephemeral activity
-	- Private/incognito browsing, temporary storage, encrypted or cloud-only volumes
-
-**Common Tools**
-Metasploit Framework (post-exploitation modules)
-- Use: Several post-modules can clear **Windows Event Logs** after exploitation
-- Examples:
-	- `post/windows/manage/clearlogs` → clears Application, System, and Security logs
-	- `post/multi/gather/log_wiper` (community modules)
-- Pros: Automatable, scriptable, integrates with other actions
-
-PowerShell & Sysinternals (Windows)
-- Very common:
-	- `wevtutil cl <logname>` → clears specific Windows Event Logs
-	- `Clear-EventLog cmdlet` → quick batch clearing
-	- `Sysinternals SDelete` → securely wipes deleted log files to make recovery harder
-- Often combined in scripts to clear or selectively truncate logs
-
-Linux: shell + logrotate
-- `> /var/log/auth.log`
-- `> /var/log/syslog`
-or edit logrotate configs to rotate-and-delete targeted logs immediately
-Some adversaries also deploy custom cron jobs to keep wiping recent entries
-
-
-
-## Anti-Counter-Forensics
-**Spot the Gap — Timeline Correlation**
-- Even if logs are wiped, **their absence itself is evidence**.
-- Typical signs:
-	- Log files exist, but their internal sequence IDs restart suddenly
-	- There’s a suspicious “quiet” period in logs between otherwise normal activity
-	- Timestamps around the log files (modification / creation) don’t match expected patterns
-- Build system-wide timelines (e.g. with Autopsy, Plaso, or log2timeline) and look for:
-	- When the log file .evtx was last modified
-	- What happened just before and after that timestamp
-	- Any associated events (e.g. privilege escalation, remote shell access) preceding the wipe
-
-**Check other artifacts**
-- Even if Windows Event Logs are cleared, other subsystems keep traces:
-	- `$MFT / $UsnJrnl`
-		- Shows the log file being truncated or rewritten (new record)
-	- S`etupAPI.dev.log / Prefetch / Shimcache / Amcache`
-		- Can show tools or executables run shortly before the wipe (e.g. wevtutil.exe, Metasploit payloads, PowerShell)
-	- Command history / PowerShell Operational logs
-		- Sometimes attackers forget to clear everything
-	- SRUM / WMI / Task Scheduler logs
-		- Provide indirect timing signals
-- Document the Wipe as a finding
-	- Timestamp of wipe, affected logs, correlated surrounding activity, confidence level
 
 
 

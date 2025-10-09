@@ -8,6 +8,8 @@
 ### Related Topics
 ↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
 
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
 
 ### Learning Resources
 🎬 数学分析 陈纪修老师 1080p高清版(全集) https://www.bilibili.com/video/BV15v411g7VP?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

@@ -12,6 +12,14 @@
 ### Learning Resources
 【【卡内基梅隆大学】复杂性理论 | 理论计算机科学 | 研究生课程 -CMU 双语字幕】 https://www.bilibili.com/video/BV1kS4y1r78H/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+https://theory.cs.princeton.edu/complexity/
+Computational Complexity: A Modern Approach | [Sanjeev Arora](http://www.cs.princeton.edu/%7Earora/) and [Boaz Barak](http://www.boazbarak.org/)
+[Cambridge University Press](http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521424264)
+This is a textbook on computational complexity theory. It is intended as a text for an advanced undergraduate course or introductory graduate course, or as a reference for researchers and students in computer science and allied fields such as mathematics and physics. See also [Amazon page for the book](http://www.amazon.com/Computational-Complexity-Approach-Sanjeev-Arora/dp/0521424267/ref=sr_1_1?ie=UTF8&s=books&qid=1239836395&sr=8-1).
+
+**P, NP and Mathematics - a computational complexity perspective** | [A.Wigderson](http://www.math.ias.edu/%7Eavi)
+Proceedings of the ICM 06 (Madrid), vol. 1, EMS Publishing House, Zurich, pp. 665-712, 2007.  [(ps)](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/W06/w06.ps) [(pdf)](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/W06/w06.pdf)
+
 
 
 ## Intro

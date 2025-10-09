@@ -189,8 +189,8 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 
 ### Properties & Evaluation of Logics
-↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
-↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+> ↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
+> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 #### Decidability
 > ↗ [Decidability](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
 

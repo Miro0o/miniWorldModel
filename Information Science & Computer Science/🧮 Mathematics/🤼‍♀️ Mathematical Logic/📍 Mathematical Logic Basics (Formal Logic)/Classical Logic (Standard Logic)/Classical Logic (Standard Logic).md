@@ -11,6 +11,8 @@
 
 ↗ [Logic And Mechanized (Formal) Reasoning](../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
 
 
 ## Intro
