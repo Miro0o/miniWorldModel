@@ -373,13 +373,13 @@ It can be termed as abstract model of computation. It would solve logical proble
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
 ↗ [Logic Programming Languages](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Lambda Calculus (λ-Calculus)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
-- ↗ [Prolog (Programmation en Logique)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
-- ↗ [Datalog (Data Logic)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+- 👉 [Lambda Calculus (λ-Calculus)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
+- 👉 [Prolog (Programmation en Logique)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+- 👉 [Datalog (Data Logic)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
 ##### 2. Functional Programming
 e.g.
 - 👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
-- 👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+- 👉 [Haskell](Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
 - 👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
 - 👉 **Erlang**: developed by Joe Armstrong, Robert Virding
 - ↗ [Lisp-Based Languages](Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)

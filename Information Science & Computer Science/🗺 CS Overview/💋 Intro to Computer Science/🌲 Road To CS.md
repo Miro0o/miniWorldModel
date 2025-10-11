@@ -144,8 +144,8 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 
 
 ### Academia (研)
-↗ [Intro to Computer Science](Intro%20to%20Computer%20Science.md)
-↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+> ↗ [Intro to Computer Science /The Domain Knowledge of CS](Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012
@@ -661,8 +661,8 @@ Software Engineering
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
-> ↗ [Intro to Computer Science](Intro%20to%20Computer%20Science.md)
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
+> ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>

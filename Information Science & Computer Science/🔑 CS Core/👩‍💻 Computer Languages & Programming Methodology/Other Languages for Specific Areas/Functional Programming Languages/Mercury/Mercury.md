@@ -1,4 +1,4 @@
-# Universal Algebra
+# Mercury
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

@@ -149,6 +149,44 @@ Mathematics is essential in the natural sciences, engineering, medicine, finance
 Historically, the concept of a proof and its associated [mathematical rigour](https://en.wikipedia.org/wiki/Mathematical_rigour "Mathematical rigour") first appeared in [Greek mathematics](https://en.wikipedia.org/wiki/Greek_mathematics "Greek mathematics"), most notably in [Euclid](https://en.wikipedia.org/wiki/Euclid "Euclid")'s _[Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements "Euclid's Elements")_. Since its beginning, mathematics was primarily divided into geometry and [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic") (the manipulation of [natural numbers](https://en.wikipedia.org/wiki/Natural_number "Natural number") and [fractions](https://en.wikipedia.org/wiki/Fractions "Fractions")), until the 16th and 17th centuries, when algebra and [infinitesimal calculus](https://en.wikipedia.org/wiki/Infinitesimal_calculus "Infinitesimal calculus") were introduced as new fields. Since then, the interaction between mathematical innovations and [scientific discoveries](https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries "Timeline of scientific discoveries") has led to a correlated increase in the development of both. At the end of the 19th century, the [foundational crisis of mathematics](https://en.wikipedia.org/wiki/Foundational_crisis_of_mathematics "Foundational crisis of mathematics") led to the systematization of the [axiomatic method](https://en.wikipedia.org/wiki/Axiomatic_method "Axiomatic method"),which heralded a dramatic increase in the number of mathematical areas and their fields of application. The contemporary [Mathematics Subject Classification](https://en.wikipedia.org/wiki/Mathematics_Subject_Classification "Mathematics Subject Classification") lists more than sixty first-level areas of mathematics.
 
 
+### Characters of Modern Mathematics
+> 🔗 [离散数学（全）-北京大学](https://www.bilibili.com/video/BV1BW411n7gw/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d "配课件")
+#### Highly Abstract and Universal (高度抽象和统一）
+| **学科** | **内容**                          | **时间**   |
+| ------ | ------------------------------- | -------- |
+| 算数     | 算术运算                            | 几千年      |
+| 小代数    | 一次方程、二次方程                       | 1千年      |
+| 大代数    | 高次方程、线性方程组                      | 16-19世纪  |
+| 高等代数   | 线性代数(向量代数、矩阵代数)、多项式代数等,涉及具体代数结构 | 19-20世纪  |
+| 抽象代数   | 代数系统、公理+结构                      | 20世纪20年代 |
+| 泛代数    | 范畴                              | 近几十年     |
+#### Axiomatic System Construction & Structure Analysis (公理化体系的建立和结构分析)
+公理化体系：欧几里得的平面几何公理；集合论的公理化体系
+结构分析：集合+对应规则+公理 = 结构
+- 序结构
+- 代数结构
+- 拓扑结构
+- 测度结构
+- 上述结构的复合结构（有序距离线形空间）等
+#### Interdiscipline (学科交叉、领域交叉)
+数学研究领域交叉
+- 泛函分析、解析数论
+- 代数拓扑、代数图论
+确定性与非确定性交叉
+- 随机微分方程
+与其他应用学科交叉
+- 模糊数学
+- 运筹学
+
+
+### Relation Between Math and Science
+> 🔗 https://en.wikipedia.org/wiki/Mathematics#Relationship_with_sciences
+
+Mathematics is used in most [sciences](https://en.wikipedia.org/wiki/Science "Science") for [modeling](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") phenomena, which then allows predictions to be made from experimental laws. The independence of mathematical truth from any experimentation implies that the accuracy of such predictions depends only on the adequacy of the model. Inaccurate predictions, rather than being caused by invalid mathematical concepts, imply the need to change the mathematical model used. For example, the [perihelion precession of Mercury](https://en.wikipedia.org/wiki/Perihelion_precession_of_Mercury) could only be explained after the emergence of [Einstein](https://en.wikipedia.org/wiki/Einstein "Einstein")'s [general relativity](https://en.wikipedia.org/wiki/General_relativity "General relativity"), which replaced [Newton's law of gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_gravitation "Newton's law of gravitation") as a better mathematical model.
+
+There is still a [philosophical](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics") debate whether mathematics is a science. However, in practice, mathematicians are typically grouped with scientists, and mathematics shares much in common with the physical sciences. Like them, it is [falsifiable](https://en.wikipedia.org/wiki/Falsifiable "Falsifiable"), which means in mathematics that, if a result or a theory is wrong, this can be proved by providing a [counterexample](https://en.wikipedia.org/wiki/Counterexample "Counterexample"). Similarly as in science, [theories](https://en.wikipedia.org/wiki/Mathematical_theory "Mathematical theory") and results (theorems) are often obtained from [experimentation](https://en.wikipedia.org/wiki/Experimentation "Experimentation"). In mathematics, the experimentation may consist of computation on selected examples or of the study of figures or other representations of mathematical objects (often mind representations without physical support). For example, when asked how he came about his theorems, Gauss once replied "durch planmässiges Tattonieren" (through systematic experimentation). However, some authors emphasize that mathematics differs from the modern notion of science by not _relying_ on empirical evidence
+
+
 ### Notes, Languages, Rigor, and Axioms
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E7%AC%A6%E8%99%9F%E3%80%81%E8%AA%9E%E8%A8%80%E8%88%87%E7%B2%BE%E7%A1%AE%E6%80%A7
 
@@ -159,10 +197,64 @@ Historically, the concept of a proof and its associated [mathematical rigour](h
 [严谨](https://zh.wikipedia.org/wiki/%E4%B8%A5%E8%B0%A8_\(%E6%95%B0%E5%AD%A6\) "严谨 (数学)")是[数学证明](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E "数学证明")中很重要且基本的一部分。数学家希望他们的定理以系统化的推理依著公理被推论下去。这是为了避免依著不可靠的直观而推出错误的“[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")”，而这情形在历史上曾出现过许多的例子。在数学中被期许的严谨程度因着时间而不同：希腊人期许著仔细的论证，但在[牛顿](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF "艾萨克·牛顿")的时代，所使用的方法则较不严谨。牛顿为了解决问题所做的定义，到了十九世纪才重新以小心的分析及正式的证明来处理。今日，数学家们则持续地在争论[电脑协助证明](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E5%8D%94%E5%8A%A9%E8%AD%89%E6%98%8E "电脑协助证明")的严谨度。当大量的计算难以被验证时，其证明亦很难说是足够地严谨。
 
 [公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")在传统的思想中是“不证自明的真理”，但这种想法是有问题的。在形式上，公理只是一串符号，其只对可以由[公理系统](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")导出的公式之内容有意义。[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")即是想将所有的数学放在坚固的公理基础上，但依据[哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86 "哥德尔不完备定理")，每一[相容](https://zh.wikipedia.org/wiki/%E4%B8%80%E8%87%B4%E6%80%A7_\(%E9%82%8F%E8%BC%AF\) "一致性 (逻辑)")且能蕴涵[皮亚诺公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9E%E8%AB%BE%E5%85%AC%E7%90%86 "皮亚诺公理")的公理系统必含有一不可决定的公式；因而所有数学的最终[公理化](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")是不可能的。尽管如此，数学常常被想像成只是某种公理化的[集合论](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AE%BA "集合论")，在此意义下，所有数学叙述或证明都可以写成集合论的公式。
+#### Axiomatization of Mathematics & Axiomatic System ⭐
+> ↗ [Mathematical Logic Basics (Formal Logic) / Formalization & Formal Systems](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Formalization%20&%20Formal%20Systems)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
+> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), an **axiomatic system** or **axiom system** is a standard type of deductive logical structure, used also in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). It consists of a set of formal statements known as [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") that are used for the [logical deduction](https://en.wikipedia.org/wiki/Logical_deduction "Logical deduction") of other statements. In mathematics these logical consequences of the axioms may be known as [lemmas](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)") or [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem"). ==A [mathematical theory](https://en.wikipedia.org/wiki/Theory_\(mathematical_logic\) "Theory (mathematical logic)") is an expression used to refer to an axiomatic system and all its derived theorems.==
+
+A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), which is normal in books and technical papers, the [nouns](https://en.wikipedia.org/wiki/Noun "Noun") are intended as [placeholder words](https://en.wikipedia.org/wiki/Placeholder_word "Placeholder word"). The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"). **In a fully formal setting, a logical system such as [predicate calculus](https://en.wikipedia.org/wiki/Predicate_calculus "Predicate calculus") must be used in the proofs.** The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
+
+> 🔗 https://zh.wikipedia.org/zh-hans/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F
+
+[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，公理系统的讨论通常只是半形式化的。一个**形式化理论**通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个**形式化证明**是一个证明在形式化系统中的表述。
+
+**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System))
+- 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
+- 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
+	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
+- 若一个公理系统中，每个命题及其否定命题中至少有一方可被证明，则称该公理系统为**完备** 。（Completeness）
+- (Soundness)
+
+==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
+##### The First Axiomatic System: Euclidean Geometry (欧氏几何)
+> ↗ [Geometry](Geometry/Geometry.md)
+> ↗ [Euclidean Geometry](Geometry/Euclidean%20Geometry/Euclidean%20Geometry.md)
+
+> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+
+欧氏几何是第一个提出的公理系统。
+
+大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
+
+> 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
+
+1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
+
+但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
+
+现在看来，这样理解当然是有问题的，因为，它混淆了公理系统中的结论，和对这些结论的解释。就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
+
+关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
+##### Gödel's Incompleteness Theorems
+> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Gödel's%20Incompleteness%20Theorems)
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
+- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
+- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
+
+> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 #### Mathematical Notations
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
 
-Mathematical notation is widely used in science and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") for representing complex [concepts](https://en.wikipedia.org/wiki/Concept "Concept") and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)") in a concise, unambiguous, and accurate way. This notation consists of [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") used for representing [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)"), unspecified numbers, [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") and any other mathematical objects, and then assembling them into [expressions](https://en.wikipedia.org/wiki/Expression_\(mathematics\) "Expression (mathematics)") and formulas.[[94]](https://en.wikipedia.org/wiki/Mathematics#cite_note-97) More precisely, numbers and other mathematical objects are represented by symbols called variables, which are generally [Latin](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") or [Greek](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") letters, and often include [subscripts](https://en.wikipedia.org/wiki/Subscript "Subscript"). Operation and relations are generally represented by specific [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") or [glyphs](https://en.wikipedia.org/wiki/Glyph "Glyph"), such as + ([plus](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")), × ([multiplication](https://en.wikipedia.org/wiki/Multiplication_sign "Multiplication sign")), ∫([integral](https://en.wikipedia.org/wiki/Integral_sign "Integral sign")), = ([equal](https://en.wikipedia.org/wiki/Equals_sign "Equals sign")), and < ([less than](https://en.wikipedia.org/wiki/Less-than_sign "Less-than sign")). All these symbols are generally grouped according to specific rules to form expressions and formulas. Normally, expressions and formulas do not appear alone, but are included in sentences of the current language, where expressions play the role of [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase") and formulas play the role of [clauses](https://en.wikipedia.org/wiki/Clause "Clause").
+Mathematical notation is widely used in science and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") for representing complex [concepts](https://en.wikipedia.org/wiki/Concept "Concept") and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)") in a concise, unambiguous, and accurate way. This notation consists of [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") used for representing [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)"), unspecified numbers, [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") and any other mathematical objects, and then assembling them into [expressions](https://en.wikipedia.org/wiki/Expression_\(mathematics\) "Expression (mathematics)") and formulas. More precisely, numbers and other mathematical objects are represented by symbols called variables, which are generally [Latin](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") or [Greek](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") letters, and often include [subscripts](https://en.wikipedia.org/wiki/Subscript "Subscript"). Operation and relations are generally represented by specific [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") or [glyphs](https://en.wikipedia.org/wiki/Glyph "Glyph"), such as + ([plus](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")), × ([multiplication](https://en.wikipedia.org/wiki/Multiplication_sign "Multiplication sign")), ∫([integral](https://en.wikipedia.org/wiki/Integral_sign "Integral sign")), = ([equal](https://en.wikipedia.org/wiki/Equals_sign "Equals sign")), and < ([less than](https://en.wikipedia.org/wiki/Less-than_sign "Less-than sign")). All these symbols are generally grouped according to specific rules to form expressions and formulas. Normally, expressions and formulas do not appear alone, but are included in sentences of the current language, where expressions play the role of [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase") and formulas play the role of [clauses](https://en.wikipedia.org/wiki/Clause "Clause").
 #### Mathematical Terminology
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
 
@@ -172,13 +264,13 @@ Mathematics has developed a rich terminology covering a broad range of fields th
 
 Theorems and proofs are the heart and soul of mathematics and definitions are its spirit. These three entities are central to every mathematical subject.
 
-**Definitions** describe the objects and notions that we use. A definition may be simple, as in the definition of set given earlier in this chapter, or complex as in the definition of security in a cryptographic system. Precision is essential to any mathematical definition. When defining some object, we must make clear what constitutes that object and what does not.
+==**Definitions** describe the objects and notions that we use.== A definition may be simple, as in the definition of set given earlier in this chapter, or complex as in the definition of security in a cryptographic system. Precision is essential to any mathematical definition. When defining some object, we must make clear what constitutes that object and what does not.
 
-After we have defined various objects and notions, we usually make **mathematical statements** about them. Typically, a statement expresses that some object has a certain property. The statement may or may not be true; but like a definition, it must be precise. No ambiguity about its meaning is allowed.
+After we have defined various objects and notions, we usually make **mathematical statements** about them. Typically, ==a (mathematical) statement expresses that some object has a certain property.== The statement may or may not be true; but like a definition, it must be precise. No ambiguity about its meaning is allowed.
 
-A **proof** is a convincing logical argument that a statement is true. In mathematics, an argument must be airtight; that is, convincing in an absolute sense. In everyday life or in the law, the standard of proof is lower. A murder trial demands proof “beyond any reasonable doubt.” The weight of evidence may compel the jury to accept the innocence or guilt of the suspect. However, evidence plays no role in a mathematical proof. A mathematician demands proof beyond any doubt.
+==A **proof** is a convincing logical argument that a statement is true.== In mathematics, an argument must be airtight; that is, convincing in an absolute sense. In everyday life or in the law, the standard of proof is lower. A murder trial demands proof “beyond any reasonable doubt.” The weight of evidence may compel the jury to accept the innocence or guilt of the suspect. However, evidence plays no role in a mathematical proof. A mathematician demands proof beyond any doubt.
 
-A **theorem** is a mathematical statement proved true. Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
+==A **theorem** is a mathematical statement proved true.== Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
 #### Finding Proofs
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 #### Types of Proofs
@@ -188,7 +280,7 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 > 
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-> - ↗ [Hilbert-Style Systems](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Systems.md)
+> - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 ##### Proof by Construction (构造法)
@@ -197,7 +289,7 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 
 ##### Proof by Induction (归纳法)
 
-##### Proof by Deduction (演绎法)
+##### Proof by Deduction (演绎法) ⭐
 ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 
 ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -206,14 +298,6 @@ A **theorem** is a mathematical statement proved true. Generally we reserve the 
 ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
 -  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
-
-
-### Relation of Math and Science
-> 🔗 https://en.wikipedia.org/wiki/Mathematics#Relationship_with_sciences
-
-Mathematics is used in most [sciences](https://en.wikipedia.org/wiki/Science "Science") for [modeling](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") phenomena, which then allows predictions to be made from experimental laws. The independence of mathematical truth from any experimentation implies that the accuracy of such predictions depends only on the adequacy of the model. Inaccurate predictions, rather than being caused by invalid mathematical concepts, imply the need to change the mathematical model used. For example, the [perihelion precession of Mercury](https://en.wikipedia.org/wiki/Perihelion_precession_of_Mercury) could only be explained after the emergence of [Einstein](https://en.wikipedia.org/wiki/Einstein "Einstein")'s [general relativity](https://en.wikipedia.org/wiki/General_relativity "General relativity"), which replaced [Newton's law of gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_gravitation "Newton's law of gravitation") as a better mathematical model.
-
-There is still a [philosophical](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics") debate whether mathematics is a science. However, in practice, mathematicians are typically grouped with scientists, and mathematics shares much in common with the physical sciences. Like them, it is [falsifiable](https://en.wikipedia.org/wiki/Falsifiable "Falsifiable"), which means in mathematics that, if a result or a theory is wrong, this can be proved by providing a [counterexample](https://en.wikipedia.org/wiki/Counterexample "Counterexample"). Similarly as in science, [theories](https://en.wikipedia.org/wiki/Mathematical_theory "Mathematical theory") and results (theorems) are often obtained from [experimentation](https://en.wikipedia.org/wiki/Experimentation "Experimentation"). In mathematics, the experimentation may consist of computation on selected examples or of the study of figures or other representations of mathematical objects (often mind representations without physical support). For example, when asked how he came about his theorems, Gauss once replied "durch planmässiges Tattonieren" (through systematic experimentation). However, some authors emphasize that mathematics differs from the modern notion of science by not _relying_ on empirical evidence
 
 
 ### Overview of Modern Mathematics Fields
@@ -237,7 +321,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 - ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
-- ↗ [Category Theory (范畴论)](🤼‍♀️%20Mathematical%20Logic/Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
@@ -259,6 +343,8 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 当数系更进一步发展时，整数被视为[有理数](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%90%86%E6%95%B0 "有理数")的[子集](https://zh.wikipedia.org/wiki/%E5%AD%90%E9%9B%86 "子集")，而有理数则包含于[实数](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%95%B0 "实数")中，连续的量即是以实数来表示的。实数则可以被进一步广义化成[复数](https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "复数 (数学)")。数的进一步广义化可以持续至包含[四元数](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8 "四元数")及[八元数](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%83%E6%95%B8 "八元数")。从自然数亦可以推广到[超限数](https://zh.wikipedia.org/wiki/%E8%B6%85%E9%99%90%E6%95%B8 "超限数")，它形式化了计数至无限的这一概念。另一个研究的领域为大小，这个导致了[基数](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "基数 (数学)")和之后对无限的另外一种概念：[阿列夫数](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%97%E5%A4%AB%E6%95%B0 "阿列夫数")，它允许无限集合之间的大小可以做有意义的比较。
 ###### 👉 Structure（结构）
+↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+
 ↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
@@ -268,9 +354,12 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
 - ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
+- ↗ [Algebraic Graph Theory](Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
 - ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+	- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 ↗ [Topology](Topology/Topology.md)
+- ↗ [Topology Structure](Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -401,10 +490,10 @@ First Level Areas:
 
 
 ### 🛐 Modern Math Structure
-> 🔗[Mathematical structure]: https://en.wikipedia.org/wiki/Mathematical_structure
-> [代数结构简介：群、环, 域、格、模...]: https://blog.yelf.me/notes/math/algebra/algebra-101/
+> 🔗 [Mathematical structure](https://en.wikipedia.org/wiki/Mathematical_structure)
+> 🔗 [代数结构简介：群、环, 域、格、模...](https://blog.yelf.me/notes/math/algebra/algebra-101/)
 
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics), a **structure** is a [set](https://en.wikipedia.org/wiki/Set_(mathematics)) endowed with some additional features on the set (e.g. an [operation](https://en.wikipedia.org/wiki/Operation_(mathematics)), [relation](https://en.wikipedia.org/wiki/Relation_(mathematics)), [metric](https://en.wikipedia.org/wiki/Metric_(mathematics)), or [topology](https://en.wikipedia.org/wiki/Topological_space)). Often, the additional features are attached or related to the set, so as to provide it with some additional meaning or significance.
+==In [mathematics](https://en.wikipedia.org/wiki/Mathematics), a **structure** is a [set](https://en.wikipedia.org/wiki/Set_(mathematics)) endowed with some additional features on the set (e.g. an [operation](https://en.wikipedia.org/wiki/Operation_(mathematics)), [relation](https://en.wikipedia.org/wiki/Relation_(mathematics)), [metric](https://en.wikipedia.org/wiki/Metric_(mathematics)), or [topology](https://en.wikipedia.org/wiki/Topological_space)).== Often, the additional features are attached or related to the set, so as to provide it with some additional meaning or significance.
 
 A partial list of possible structures are:
 - [measures](https://en.wikipedia.org/wiki/Measure_theory)

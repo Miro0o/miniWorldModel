@@ -70,7 +70,7 @@ The Haskell toolchain consists of the following tools:
 
 
 ## Intro
-![](../../../../../Assets/Pics/haskell-logo.svg)
+![](../../../../../../Assets/Pics/haskell-logo.svg)
 
 Recommended installation instructions
 - *for Linux, macOS, FreeBSD, Windows or WSL2*

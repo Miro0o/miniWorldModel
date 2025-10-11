@@ -17,6 +17,9 @@ Inspired by 3Blue1Brown series on Essence of Linear Algebra, this video series h
 **Lie groups, algebras, brackets**
 New video series on the theory of Lie, focusing on the visual intuition rather than the usual boring equations.
 
+🎬 https://youtube.com/playlist?list=PLSzBa8LQ41yQiPzLrjqBZbrjL85uWOGSM&si=HbYoU9AECzH61zGk
+Group Theory in Music
+
 
 
 ## Intro
@@ -31,3 +34,5 @@ New video series on the theory of Lie, focusing on the visual intuition rather t
 [群论简介]: https://oi-wiki.org/math/group-theory/#商群
 [商群]: https://math.fandom.com/zh/wiki/商群?variant=zh
 [群的引入，子群与商群 - 汝成的文章 - 知乎]: https://zhuanlan.zhihu.com/p/34104381
+
+[语言背后的代数学（七）：数学结构]: https://thzt.github.io/2018/02/09/semantics-7/

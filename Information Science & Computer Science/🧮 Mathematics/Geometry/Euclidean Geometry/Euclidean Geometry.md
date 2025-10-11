@@ -1,4 +1,4 @@
-# Hilbert-Style Systems
+# Euclidean Geometry
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

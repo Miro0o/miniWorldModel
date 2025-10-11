@@ -1,4 +1,4 @@
-# Metaphysics
+# Algebraic Graph Theory
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

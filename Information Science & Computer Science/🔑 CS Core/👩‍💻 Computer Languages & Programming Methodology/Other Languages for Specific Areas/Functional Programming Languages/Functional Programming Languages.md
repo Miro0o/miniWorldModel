@@ -1,4 +1,4 @@
-# Functional Analysis
+# Functional Programming Languages
 
 [TOC]
 

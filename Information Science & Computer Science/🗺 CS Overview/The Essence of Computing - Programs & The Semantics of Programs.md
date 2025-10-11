@@ -73,7 +73,7 @@
 <small>For different levels in code analysis, we use different computational models. </small>
 
 
-### Automaton, Transition System, and Operational Semantics
+### Transition System, Computation Tree, and Operational Semantics
 ↗ [Mathematical Logic](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
 ↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Set Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
@@ -146,7 +146,7 @@ This is also called the **Maximal Trace Semantics**. We can now define properti
 $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$
 
 
-### Digital Circuits and Automaton (State Machine)
+### Digital Circuits and State Machine (Transition System)
 状态 = 寄存器保存的值 (flip-flop)
 初始状态 = RESET (implementation dependent)
 迁移 = 组合逻辑电路计算寄存器下一周期的值

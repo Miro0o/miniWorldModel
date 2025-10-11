@@ -14,3 +14,4 @@
 
 
 ## Ref
+[Hilbert-style和Gentzen-style演绎系统]: https://thzt.github.io/2017/09/15/hilbert-style-and-gentzen-style-deduction-system/

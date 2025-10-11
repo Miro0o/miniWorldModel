@@ -1,0 +1,21 @@
+# Henkin Model & Henkin Semantics
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [σ-Algebra (Sigma Algebra)](../../../📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+
+
+### Other Resources
+
+
+
+## Intro
+
+
+
+## Ref
+[语言背后的代数学（六）：Henkin模型]: https://thzt.github.io/2018/02/04/semantics-6/

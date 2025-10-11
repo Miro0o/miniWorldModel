@@ -167,7 +167,7 @@ Finally, we have type 0 languages, is a set of words which can be recognized by 
 
 
 
-## Bounded Static Code Analysis
+## Bounded Static Analysis (BSA)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html
 
 In bounded static analysis we want to talk about all the behaviors of the program up to some depth. There are no easy way to do this, because we have to handle a possible infinite set of traces, which by itself is hard to do.
@@ -175,8 +175,77 @@ In bounded static analysis we want to talk about all the behaviors of the progra
 The idea behind bounded static analysis is straight forward. ==Instead of selecting a single initial state and then applying the semantics on that until a trace has been made (this is what we did with dynamic analysis), we start with the set of all initial states and then apply the semantics to all states at once.== Essentially, if dynamic analysis is depth first search, static analysis is breath first. While we have the downside of having to work with infinite sets of traces, we can be smart about it, and use **abstractions** to represent the set using a finite number of traces.
 
 
+### BSA in Formal Definition
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:1.1
 
-## Unbounded Static Code Analysis
+The **Bounded Static Analysis** on a program $P$ can be defined as the set of traces of depth $n$: $\text{BSA}_P^n$ ; We can get this set using a **many-stepping function** $\text{step}$. It takes a set of traces and steps them one step. $$ \text{step}_P(T) = \left\{ \tau' s \;\middle|\; s \in \Sigma, \tau' \in T, \delta_P(\tau'_{|\tau'|}, s) \right\} $$
+In the definition of $\text{step}_P()$, $\delta$ is the transition relation defined by the **single-step semantics**,  
+and $\tau' s$ means appending $s$ to $\tau'$. Since we are always talking about the same program $P$, we'll sometimes omit it.
+
+Now, we can define the **set of traces of up to length $n$**, as applying $\text{step}$ to the initial state $n$ times, and taking the union of the results. $$\begin{aligned}
+& \text{step}_P^0 = I_P \\
+& \text{step}_P^n = \text{step}_P(\text{step}_P^{n-1}) \cup \text{step}_P^{n-1} \\
+& \text{BSA}_P^n = \text{step}_P^n
+\end{aligned}$$
+Now, we can check for **assertion errors** down to depth $n$. Let's call this $\text{BAE}_P^n$, by seeing if any trace ends in an assertion error: $$ \text{BAE}_P^n \;\equiv\; \exists(\tau s) \in \text{BSA}_P^n \;\wedge\; s = \text{err}(\text{‘assertion error’}) $$
+#### Safe-Approximation & May /Must Analysis
+In a **may analysis**, we **overestimate** every step, and in a **must analysis**, we **underestimate** every step: $$ \text{step}_{\text{must}}(T) \subseteq \text{step}(T) \subseteq \text{step}_{\text{may}}(T) $$
+Naturally, we'll see that: $$ \text{step}_{\text{must}}^n \subseteq \text{step}^n \subseteq \text{step}_{\text{may}}^n $$
+Essentially, 
+- if we want to make sure that something **never** happens, or if we want to **warn** about an assertion error that *may* happen, we need a **may analysis**. $$ \neg \text{BAE}^n \Leftarrow \neg \text{BAE}_{\text{may}}^n $$
+- If we want to **guarantee** that an assertion error *must* happen on a run, then we need a **must analysis**: $$\text{BAE}_{\text{must}}^n \Rightarrow \text{BAE}^n$$
+
+### Bounded Analysis 🆚 Context-Bounded Analysis 🆚 Unbounded Analysis
+#bounded_analysis #context-bounded_analysis #unbounded_analysis
+
+> 🤖 ChatGPT 5
+
+**Bounded Static Analysis**
+“**Bounded**” static analysis means that the analysis only explores **a limited (bounded) portion** of the program’s behavior.  
+That is, it restricts the exploration by **some finite bound**, such as:
+- **Loop unrolling bound** (e.g., analyze only up to 3 iterations of a loop)
+- **Recursion depth bound** (e.g., only follow function calls up to depth 2)
+- **Path length bound** (e.g., only consider execution paths up to N steps long)
+
+The idea is to make the analysis **tractable** (since unbounded analysis can be undecidable or extremely slow), at the cost of **possibly missing some bugs or behaviors** beyond that bound.
+
+It’s often used in **bounded model checking** and **symbolic execution**.
+
+
+**Context-Bounded Static Analysis**
+This adds another specific kind of bound: **context** refers to **thread interleavings** or **function call contexts**, depending on the setting.
+1. **In concurrent programs:**  
+	1. “**Context-bounded** analysis” limits the number of **context switches** between threads that are considered (e.g., only up to 2 switches).  
+	2. This is known as **context-bounded model checking** — it’s surprisingly effective because many concurrency bugs appear with only a few context switches.
+2. **In interprocedural analysis (functions calling other functions):**  
+	1. “**Context-bounded**” may also mean limiting how much **call/return context** is tracked — for example, only distinguishing up to _k_ call sites (this is related to _k_-CFA in abstract interpretation).
+
+
+**Unbounded Static Analysis**
+Unbounded static analysis means that **no artificial limit** (no fixed bound) is imposed on how much of the program’s behavior the analysis explores. That is, it aims to reason about **all possible program executions**, **of any length**, **any loop iteration count**, **any recursion depth**, and (for concurrent programs) **any number of context switches**.
+
+Unbounded analysis tries to prove **properties that hold for all possible executions**, such as:
+- “This assertion never fails.”
+- “No data race can occur.”
+- “Variable `x` is always non-negative.”
+
+To do this, unbounded analyses rely on **mathematical abstractions** (rather than explicit enumeration). For example:
+- **Abstract interpretation** uses _abstract domains_ (like intervals, polyhedra) to summarize infinite behaviors.
+- **Symbolic model checking** uses _induction_ or _fixpoint computation_ to reason about loops and recursion without unrolling them finitely.
+
+|Aspect|**Bounded Analysis**|**Unbounded Analysis**|
+|---|---|---|
+|**Exploration**|Limited by a fixed bound (e.g., N steps, K context switches)|Unlimited — all executions are considered|
+|**Completeness**|Incomplete (may miss bugs beyond the bound)|Complete (can prove correctness for all cases, if it terminates)|
+|**Soundness**|Often sound _within the bound_, but not globally|Aims to be globally sound|
+|**Scalability**|Usually fast (because it explores finitely many states)|Can be expensive or even undecidable|
+|**Example tools**|Bounded model checkers (CBMC, ESBMC), concolic testing|Abstract interpreters, symbolic model checkers (e.g., SPIN, Infer, Astrée)|
+
+
+
+## Unbounded Static Analysis (USA)
+### USA in Formal Definition
+#### Safe-Approximation & May /Must Analysis
 
 
 

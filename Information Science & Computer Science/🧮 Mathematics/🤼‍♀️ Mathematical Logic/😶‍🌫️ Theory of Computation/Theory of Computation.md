@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [Set Theory](../🛒%20Set%20Theory/Set%20Theory.md)
 ↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
+↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
@@ -100,6 +101,7 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 	1. 什么是有效计算？哪些问题可以/不可以有效计算？
 	2. 时间复杂性 /空间复杂性 /多项式时间归约 /完全问题
 
+---
 > 🔗 https://www.mropengate.com/2015/06/formal-language.html
 
 透過計算模型，我們可以對計算定下明確的數學定義。而一旦有了明確的定義，便可以研究什麼是可計算的、什麼是不可計算的，而對於可計算的問題，必須花費多少時間和空間才可能計算。  
@@ -109,6 +111,8 @@ Church–Turing thesis 指出，所有演算法可解的問題，都可透過 Tu
 這是一門非常理論與數學的課，需要非常清晰的邏輯思考。老師曾說，資訊界日新月異，許多課程可能幾年後就不見了，或者教的東西大幅改變。但你幾乎可以確定，正規語言這門課還是會一直存在。從哲學的角度來說，計算理論在電腦科學裡佔了十分核心的地位。  
   
 正規語言課程所學的東西其實也有很多延伸的應用，以至於很多讀者很可能早已接觸過某些部份，但直到這門課，才真正以嚴謹的方式學習背後的來歷。像是如果有接觸像 Python 等語言或者用過 Vim 等編輯器的搜尋功能的讀者，很有可能有接觸過正規表示式。而 CFG 和程式語言的設計以及編譯器等課程有密切相關，你或許會曾在程式語言的文件上看過他。如果在演算法等課程聽過 NP、P 等名詞，在這堂課裡，你可以學到這些名詞到底有什麼含意。而對什麼是演算法，時間複雜度、問題的可計算性等等，都會在這堂課得到更深的理解。
+
+---
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser, CH0, Introduction
 
@@ -148,6 +152,14 @@ Automata theory is an excellent place to begin the study of the theory of comput
 
 
 ## Models of Computation
+> ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> 
+> ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
+> ↗ [Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 

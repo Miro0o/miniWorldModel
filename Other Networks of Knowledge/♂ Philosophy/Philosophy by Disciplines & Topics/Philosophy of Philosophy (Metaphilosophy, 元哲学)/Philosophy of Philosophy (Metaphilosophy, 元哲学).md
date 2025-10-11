@@ -1,4 +1,4 @@
-# Philosophy of Philosophy (Metaphilosophy)
+# Philosophy of Philosophy (Metaphilosophy, 元哲学)
 
 [TOC]
 

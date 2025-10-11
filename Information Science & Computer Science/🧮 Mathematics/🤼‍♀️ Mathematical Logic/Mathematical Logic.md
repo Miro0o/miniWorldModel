@@ -20,6 +20,7 @@
 - ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 	- ↗ [Formal Semantics and Programming Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 - ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+	- ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
 	- ↗ [Lambda Calculus (λ-Calculus)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
@@ -70,6 +71,14 @@ wikipedia
 - [Löwenheim–Skolem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem "Löwenheim–Skolem theorem")
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox "Russell's paradox")
 
+http://comonad.com/reader/
+- This blog serves – or at least is intended to serve – as a forum for discussing substructural logics, dependent types, type systems, comonads, and whatever strikes my fancy.
+- The name is based on “[The Monad.Reader](http://www.haskell.org/hawiki/TheMonadReader),” which serves as a place for publishing articles of not-quite-journal quality that pertain to Haskell. As my musings are likely to be similarly suspect, incomplete, or unoriginal the comparison seemed appropriate.
+- In my case, I am interested in things that haven't caught on in the Haskell mainstream (comonads) or that cannot readily be expressed in the Haskell language (linearity, uniqueness, etc). Hence the slightly esoteric title of this blog, “The Comonad.Reader.”
+- At other times I'll likely veer off onto a tangent and start talking about [3d graphics](http://comonad.com/reader/wiki;item=Harmless+Algorithms), the Plücker quadric, or compiling [ecmascript 4](http://comonad.com/reader/wiki;item=ECMAScript+4).
+
+https://planet.haskell.org/
+
 
 
 ## Intro
@@ -82,6 +91,9 @@ wikipedia
 **Mathematical logic** is a branch of [metamathematics](https://en.wikipedia.org/wiki/Metamathematics "Metamathematics") that studies [formal logic](https://en.wikipedia.org/wiki/Logic#Formal_logic "Logic") within [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"). Major subareas include [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory"), [proof theory](https://en.wikipedia.org/wiki/Proof_theory "Proof theory"), [set theory](https://en.wikipedia.org/wiki/Set_theory "Set theory"), and [recursion theory](https://en.wikipedia.org/wiki/Recursion_theory "Recursion theory") (also known as computability theory). Research in mathematical logic commonly addresses the mathematical properties of formal systems of logic such as their expressive or deductive power. However, it can also include uses of logic to characterize correct mathematical reasoning or to establish [foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics "Foundations of mathematics").
 
 Since its inception, mathematical logic has both contributed to and been motivated by the study of foundations of mathematics. This study began in the late 19th century with the development of [axiomatic](https://en.wikipedia.org/wiki/Axiom "Axiom") frameworks for [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"), [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic"), and [analysis](https://en.wikipedia.org/wiki/Mathematical_analysis "Mathematical analysis"). In the early 20th century it was shaped by [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert")'s [program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") to prove the consistency of foundational theories. Results of [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel"), [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen "Gerhard Gentzen"), and others provided partial resolution to the program, and clarified the issues involved in proving consistency. Work in set theory showed that almost all ordinary mathematics can be formalized in terms of sets, although there are some theorems that cannot be proven in common axiom systems for set theory. Contemporary work in the foundations of mathematics often focuses on establishing which parts of mathematics can be formalized in particular formal systems (as in [reverse mathematics](https://en.wikipedia.org/wiki/Reverse_mathematics "Reverse mathematics")) rather than trying to find theories in which all of mathematics can be developed.
+
+
+↗ [Mathematical Logic Basics (Formal Logic)](📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 
 
 

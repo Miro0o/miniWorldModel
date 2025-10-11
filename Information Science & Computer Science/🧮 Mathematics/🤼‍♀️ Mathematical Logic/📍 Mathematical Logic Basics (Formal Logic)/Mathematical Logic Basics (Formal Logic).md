@@ -11,6 +11,7 @@
 ↗ [Logic And Mechanized (Formal) Reasoning](../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+↗ [Type Theory](../😶‍🌫️%20Theory%20of%20Computation/Type%20Theory/Type%20Theory.md)
 
 ↗ [Lisp-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
 ↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Expert%20System%20(ES)/Expert%20System%20(ES).md)
@@ -41,6 +42,18 @@ Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 《离散数学》
 四川大学计算机学院
 
+👍 https://thzt.github.io/categories/Math/
+- [语言背后的代数学（一）：语义解释](https://thzt.github.io/2018/01/14/semantics-1/)
+- [语言背后的代数学（二）：初等代数](https://thzt.github.io/2018/01/20/semantics-2/)
+- [语言背后的代数学（三）：语义模型](https://thzt.github.io/2018/01/27/semantics-3/)
+- [语言背后的代数学（四）：哥德尔定理](https://thzt.github.io/2018/01/30/semantics-4/)
+- [语言背后的代数学（五）：Σ代数](https://thzt.github.io/2018/02/03/semantics-5/)
+- [语言背后的代数学（六）：Henkin模型](https://thzt.github.io/2018/02/04/semantics-6/)
+- [语言背后的代数学（七）：数学结构](https://thzt.github.io/2018/02/09/semantics-7/)
+- [语言背后的代数学（八）：范畴](https://thzt.github.io/2018/02/11/semantics-8/)
+- [语言背后的代数学（九）：笛卡尔闭范畴](https://thzt.github.io/2018/02/19/semantics-9/)
+- [语言背后的代数学（十）：Curry-Howard-Lambek correspondance](https://thzt.github.io/2018/02/23/semantics-10/)
+
 
 
 ## Intro
@@ -63,20 +76,182 @@ Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
 
+### The Process of Formalization ⭐
+> ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
+
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+> 本文以一阶逻辑为例，从逻辑学角度给出了语义模型的定义，由此，一阶逻辑系统中的符号串，都有了一个数学对象与之对应，它们是论域，论域集合上的函数和运算。可想而已，这些数学对象是有代数性质的。
+#### Symbolic Notations
+##### First-Order Language
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+**↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
+一阶谓词逻辑是一种一阶语言。
+
+一阶谓词逻辑由如下符号构成：
+1. 变元符号集合$V$，它由可数个（包括0个）变元符号组成，用$\{x_1, x_2, \cdots, x_n, \cdots\}$表示。
+2. 逻辑连接词符号集合$C$，它由逻辑连接词符号$\{\neg,\land,\lor,\to,\leftrightarrow\}$组成。
+3. 量词符号集合$Q$，包括$\{\forall,\exists \}$。
+4. 等词符号集合$E$，只包括一个符号$\{≐\}$。
+5. 括号集合，包括$\{(, )\}$。
+
+以上这些符号称为**逻辑符号**，每个**一阶逻辑**都有这些符号。而不同的一阶逻辑，还有属于自己的**非逻辑符号**。
+1. 常元符号集合$L_c$​​，它由可数个（包括0个）常元符号组成，用$c_1, c_2, \cdots$表示。
+2. 函数符号集合$L_f$，它由可数个（包括0个）函数符号组成，用$f_1, f_2, \cdots$表示。
+3. 谓词符号集合$L_P$​​，它由可数个（包括0个）谓词符号组成，用$P_1, P_2, \cdots$表示。
+
+等词符号≐实际上可以看做是一个谓词符号。因此，一阶谓词逻辑是一种一阶逻辑。
+
+一阶逻辑中的逻辑符号和非逻辑符号，称为**一阶语言**，记为$\mathbb{L}$。
+
+---
+**Elementary Arithmetics**
+初等算术语言是一个一阶语言，记为$\Pi$。它的常元符号集合为$\{0\}$，函数符号集合为$\{S, +, \cdot\}$，谓词符号集合为$\{\lt\}$。其中，$S$可以表示算术中的后继函数，而二元函数符号 $+$ 和 $\cdot$ 可以分别表示算术中的加法和乘法，谓词符号$\lt$可以描述自然数之间的小于关系。
+##### Higher-Order Language
+> ↗ [Higher-Order Logic (HOL)](Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
+#### Syntax & Semantics
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+> 语法（符号）
+> 1. 序贯
+> 2. 协调性、一致性
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+> 语义（模型）
+> 1. 公式的可满足性
+> 2. 重言式
+> 3. 逻辑推理
+> 
+> 语法（符号）和语义（模型）结合
+> 1. 可靠性和完全性
+> 2. 不完全性与协调性不可证（哥德尔定理）
+> 
+> 哥德尔定理，它指出了形式化方法的局限性，任何包含初等算术$\Pi$的形式理论，都是不完全的，且自身的协调性无法在系统内部被证明。为了理解这句话，文中我们做出了严谨的定义，仔细建立了语法和语义之间的联系。
+> 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
+#### Gödel's Incompleteness Theorems ⭐
+> ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
+> ↗ [Set Theory](../🛒%20Set%20Theory/Set%20Theory.md)
+> - ↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+> - ↗ [Natural Number](../🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
+> 
+> ↗ [Church–Turing Thesis (Computability Thesis)](../😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+
+> 🔗 https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+
+**Gödel's incompleteness theorems** are two [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") of [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") that are concerned with the limits of provability in formal axiomatic theories. These results, published by [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel") in 1931, are important both in mathematical logic and in the [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics"). The theorems are interpreted as showing that [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") to find a complete and consistent set of [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") for all [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") is impossible.
+
+The first incompleteness theorem states that no [consistent system](https://en.wikipedia.org/wiki/Consistency "Consistency") of [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") whose theorems can be listed by an [effective procedure](https://en.wikipedia.org/wiki/Effective_procedure "Effective procedure") (i.e. an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm")) is capable of [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") all truths about the arithmetic of [natural numbers](https://en.wikipedia.org/wiki/Natural_number "Natural number"). For any such consistent formal system, there will always be statements about natural numbers that are true, but that are unprovable within the system. Equivalently, there will always be statements about natural numbers that are false, but that are unprovably false within the system.
+
+The second incompleteness theorem, an extension of the first, shows that the system cannot demonstrate its own consistency.
+
+Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument "Cantor's diagonal argument"), Gödel's incompleteness theorems were among the first of several closely related theorems on the limitations of formal systems. They were followed by [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem "Tarski's undefinability theorem") on the formal undefinability of truth, [Church](https://en.wikipedia.org/wiki/Alonzo_Church "Alonzo Church")'s proof that Hilbert's _[Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem "Entscheidungsproblem")_ is unsolvable, and [Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing")'s theorem that there is no algorithm to solve the [halting problem](https://en.wikipedia.org/wiki/Halting_problem "Halting problem").
+
+> 🔗 https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86
+
+在[数理逻辑](https://zh.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91 "数理逻辑")中，**哥德尔不完备定理**是[库尔特·哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94 "库尔特·哥德尔")于1931年[证明](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E "數學證明")并发表的两条[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。第一条定理指出：
+- 任何[自洽](https://zh.wikipedia.org/wiki/%E4%B8%80%E8%87%B4%E6%80%A7_\(%E9%80%BB%E8%BE%91\) "一致性 (逻辑)")的[形式系統](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%B5%B1 "形式系統")，只要蕴涵[皮亚诺算术公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E7%AE%97%E6%9C%AF%E5%85%AC%E7%90%86 "皮亚诺算术公理")，就可以在其中构造在[体系](https://zh.wikipedia.org/wiki/%E4%BD%93%E7%B3%BB "体系")中不能被[证明](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E "数学证明")的真[命题](https://zh.wikipedia.org/wiki/%E5%91%BD%E9%A2%98 "命题")，因此通过[推理](https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%90%86 "推理")[演绎](https://zh.wikipedia.org/wiki/%E6%BC%94%E7%B9%B9 "演繹")不能得到所有真命题（即体系是不[完备](https://zh.wikipedia.org/wiki/%E5%AE%8C%E5%A4%87 "完备")的）。
+
+这是[形式逻辑](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E9%80%BB%E8%BE%91 "形式逻辑")中的定理，容易被错误表述。有许多命题听起来很像是哥德尔不完备定理，但事实上并不是。具体实例见[对哥德尔定理的误解](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86#%E5%AF%B9%E5%93%A5%E5%BE%B7%E5%B0%94%E5%AE%9A%E7%90%86%E7%9A%84%E4%B8%80%E4%BA%9B%E8%AF%AF%E8%A7%A3)。
+
+把第一条定理的证明过程在体系内部形式化后，哥德尔证明了第二条定理。该定理指出：
+- 任何逻辑自洽的[形式系統](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%B5%B1 "形式系統")，只要蕴涵[皮亚诺算术公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86 "皮亚诺公理")，它就不能用于[证明](https://zh.wikipedia.org/wiki/%E8%AF%81%E6%98%8E%E8%AE%BA "证明论")其本身的[自洽](https://zh.wikipedia.org/wiki/%E8%87%AA%E6%B4%BD "自洽")性。
+
+哥德尔不完备定理破坏了[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")的[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6 "哲学")企图。[大卫·希尔伯特](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9 "大卫·希尔伯特")提出，像[实分析](https://zh.wikipedia.org/wiki/%E5%AE%9E%E5%88%86%E6%9E%90 "实分析")那样较为复杂的体系的相容性，可以用较为简单的体系中的手段来证明。最终，全部数学的相容性都可以归结为基本算术的相容性。但哥德尔的第二条定理证明了基本算术的相容性不能在自身内部证明，因此当然就不能用来证明比它更强的系统的相容性了。
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+**不完全性与协调性不可证**
+是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
+- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
+- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
+
+> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
+
+
 ### Classical Logic: Proposition & Predicate
 ↗ [Classical Logic (Standard Logic)](Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 
+### Formal Systems 
+#### Simplified Typed Lambda Calculus
+↗ [Lambda Calculus (λ-Calculus)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
+
+**Syntax** 
+- 🔗 https://thzt.github.io/2017/09/19/type-6/
+
+**Semantics**
+- 🔗 https://thzt.github.io/2018/02/03/semantics-5/
+- Henkin semantics & Henkin model
+	- ↗ [σ-Algebra (Sigma Algebra)](../../📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+	- ↗ [Henkin Model & Henkin Semantics](Higher-Order%20Logic%20(HOL)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+- Cartesian closed category
+	- ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+
+
+
+## Formal Syntax: Grammatical Category & Logic Formula
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+![](../../../../Assets/Pics/Pasted%20image%2020251011204655.png)
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+> 语法（符号）
+> 1. 序贯
+> 2. 协调性、一致性
+
+
+### Sequent (序贯): Antecedent + Succedent
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+我们知道，在公理系统中，序贯可以用来表示前提和结论之间的符号联系。
+
+序贯Γ⊢Δ，表示从公式集Γ出发，根据推导规则，可以证明出Δ中至少有一条公式成立。
+
+习惯上，序贯Γ⊢Δ成立，也称Γ⊢Δ**可证**。
+值得注意的是，序贯谈论的都是语法层面（符号层面）上的，和这些符号的所选择的具体语义无关。
+
+
+### Consistance (协调性，一致性)
+
+
 
 ## Semantic & The Semantics of Mathematical Logics
-↗ [Semantic Analysis](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
-↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> ↗ [Semantics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Semantics/Semantics.md)
+> 
+> ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> 
+> ↗ [Semantic Analysis](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+> ↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 
 > 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
+
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+> 有了一阶语言之后，我们就可以为符号选择语义了，通常的，语言的语义有两部分组成：
+> - 其一称为**结构（Structure）**，用来解释常元符号，函数符号和谓词符号
+> - 其二称为**赋值（Evaluation）**，用来解释变元符号。
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+> 语义（模型）
+> 1. 公式的可满足性
+> 2. 重言式
+> 3. 逻辑推理
+> 
+> 语法（符号）和语义（模型）结合
+> 1. 可靠性和完全性
+> 2. 不完全性与协调性不可证（哥德尔定理）
+> 
+> 哥德尔定理，它指出了形式化方法的局限性，任何包含初等算术$\Pi$的形式理论，都是不完全的，且自身的协调性无法在系统内部被证明。为了理解这句话，文中我们做出了严谨的定义，仔细建立了语法和语义之间的联系。
+> 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
 
 ---
 Semantics is the mapping between A and B. Usually, this involves the mapping between a concept and something (another concept or a real object); specifically, a language and something (another concept expressed in some language, or a real object).
@@ -90,6 +265,26 @@ However, (in my opinion) this is not necessary. Semantics is just the process th
 ![computing.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
 ![Language_and_Programming_Language_Processing | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+#### Semantic Models 
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+有了一阶语言之后，我们就可以为符号选择语义了，通常的，语言的语义有两部分组成：
+- 其一称为**结构（Structure）**，用来解释常元符号，函数符号和谓词符号
+- 其二称为**赋值（Evaluation）**，用来解释变元符号。
+##### Langauge Structure
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+##### Formula Evaluation
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+##### Models & Semantics ⭐
+> ↗ [Henkin Model & Henkin Semantics](Higher-Order%20Logic%20(HOL)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+> ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+
+> 🔗 https://thzt.github.io/2018/01/27/semantics-3/
+
+给定一阶语言L，并指定结构M和赋值σ，我们称(M,σ)是，我们为语言L选择的一个**模型**。
+
 #### (Mathematical Logic) Language and (Computation) Models
 ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
@@ -122,6 +317,7 @@ Specifically, we always consider whether a computational model accept a logic la
 
 
 ### Properties of Logics System
+> ↗ [Mathematics](../../Mathematics.md)
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
 > ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 
@@ -132,7 +328,7 @@ Specifically, we always consider whether a computational model accept a logic la
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
-Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
+Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
 
 ==We care primarily about three properties: soundness, completeness, and decidability. ==
 - Soundness relates to whether a statement shown to be true by the proof procedure via a syntactic proof is indeed true in the semantics of the logic.

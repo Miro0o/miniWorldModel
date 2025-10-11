@@ -11,6 +11,11 @@
 	- ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 - ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
+↗ [Proof Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Curry–Howard(–Lambek) Correspondence](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+
+↗ [Semantics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Semantics/Semantics.md)
+
 ↗ [Semantic Models & Languages](../../Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
 ↗ [Semantic Analysis](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 
@@ -333,14 +338,17 @@ https://link.springer.com/book/10.1007/978-1-84628-692-6
 
 
 ### Language, Grammar, and Syntax
+↗ [Mathematical Logic Basics (Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 
 
 ### What is Semantics (In General)?
-↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+↗ [Semantics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Semantics/Semantics.md)
 
 
 ### What is Formal Semantics (FS)?
+> ↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+
 > 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). Semantics with Applications.
 
 Formal semantics is concerned with rigorously specifying the meaning, or behaviour, of programs, pieces of hardware, etc. The need for rigour arises because
@@ -349,14 +357,18 @@ Formal semantics is concerned with rigorously specifying the meaning, or behavio
 
 
 ### Formal Semantics of Programming Language
-↗ [Semantic Analysis](../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Mathematical Logic Basics (Formal Logic)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Theory of Computation](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
-↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
-↗ [Denotational Semantics](Denotational%20Semantics.md)
-↗ [Operational Semantics](Operational%20Semantics.md)
-Fixed-Point Semantics
-Algebraic Semantics
-Action Semantics
+↗ [Formal Semantics and Programming Language](Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+- ↗ [Denotational Semantics](Denotational%20Semantics.md)
+- ↗ [Operational Semantics](Operational%20Semantics.md)
+- Fixed-Point Semantics
+- Algebraic Semantics
+- Action Semantics
 
 ↗ [Lambda Calculus (λ-Calculus)](../../Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 

@@ -80,6 +80,16 @@ AI
 
 
 
+## Academic Publications
+### Systematization of Knowledge (SoK) & Survey Paper
+> We also welcome **systematization of knowledge (SoK)** papers. These papers will not be judged on novel research contributions, but on their value to the research community. SoK papers should provide an important new viewpoint on an established, major research area; support or challenge long-held beliefs in such an area with compelling evidence; or present a convincing, comprehensive new taxonomy of such an area. Survey papers without such insights are not appropriate for acceptance.
+> 
+> https://ct-rsa-2023.eecs.oregonstate.edu
+
+🏠 https://oaklandsok.github.io/
+
+
+
 ## 📈 Bibliometrics
 ![how_research_is_done.excalidraw|1000](../../Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
 
@@ -110,16 +120,10 @@ AI
 
 
 
-## Systematization of Knowledge (SoK) & Survey Paper
-> We also welcome **systematization of knowledge (SoK)** papers. These papers will not be judged on novel research contributions, but on their value to the research community. SoK papers should provide an important new viewpoint on an established, major research area; support or challenge long-held beliefs in such an area with compelling evidence; or present a convincing, comprehensive new taxonomy of such an area. Survey papers without such insights are not appropriate for acceptance.
-> 
-> https://ct-rsa-2023.eecs.oregonstate.edu
-
-
-
-## Field Specific Academics Research in CS & IT
-↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
-↗ [🌲 Road To CS /CS & IT in Different Aspects](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Different%20Aspects)
+## Specific Academical Areas in CS & IT
+> ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
+> ↗ [🌲 Road To CS /CS & IT in Different Aspects](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Different%20Aspects)
+> ↗ [Intro to Computer Science /The Domain Knowledge of CS](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012

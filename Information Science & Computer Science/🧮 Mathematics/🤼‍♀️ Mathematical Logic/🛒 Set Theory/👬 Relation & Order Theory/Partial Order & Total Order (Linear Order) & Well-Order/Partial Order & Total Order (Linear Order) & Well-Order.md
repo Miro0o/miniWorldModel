@@ -10,6 +10,59 @@
 
 
 ## Intro
+### Total Order & Totally Ordered Sets (Tosets)
+
+
+### Partial Order & Partially Ordered Sets (Posets)
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.2
+
+A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a set of elements $L$ with an (partially) ordering relationship $\sqsubseteq$ on it, that uphold: $$\begin{aligned} & \forall a. \ a\sqsubseteq a & reflexive \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq a\implies a=b & antisymetric \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq c\implies a\sqsubseteq c & transitive
+\end{aligned}$$
+Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other direction $(ℤ,≥)$), the booleans $(\{𝚝𝚝,𝚏𝚏\},\implies)$, and the set of Sign′s $(2^{Sign},\subseteq)$.
+- We can draw the diagram of a poset. Below is the so called **Hasse Diagram** of poset $(2^{\text{\{A, B, C\}}}, \subseteq)$:
+- ![|400](../../../../../../../Assets/Pics/Screenshot%202025-10-09%20at%2022.52.59.png)
+- <small><a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
+
+
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
+> **Upper/ lower bounds of a poset; lub & join; glb & meet**
+
+给定一个偏序集$(P,\preceq)$和它的子集$S（S\subseteq P）$，我们说$u\in P$是$S$的一个**上界**，当且仅当$\forall x\in S, x\preceq u$；类似地，$l\in P$是$S$的一个**下界**，当且仅当$\forall x\in S, l\preceq x$。
+
+若$S$是由下图中绿色部分组成的集合，那么$\{a,b,c\}$就是$S$的上界，$\{ \}$是$S$的下界：
+![|300](../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.15.png)
+
+在此基础上，我们定义**最小上界（叫做lub或join）**，记为$\lfloor\rfloor S$，对于$S$的每一个上界$u$，有$\lfloor\rfloor S \preceq u \lfloor\rfloor S \preceq u$；类似地，定义最大下界（叫做glb或meet），记为$\lceil\rceil S$，对于$S$的每一个下界$l$，有$l\preceq l\lceil\rceil S\preceq\lceil\rceil S$。
+
+还是以集合为例，若$S$是由下图中绿色部分组成的集合，则$\{a,b,c\}$和$\{a,b\}$都是它的上界，后者还是最小上界；$\{ \}$则是$S$的唯一下界，因此也是最大下界：
+
+![|300](../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.41.png)
+
+若$S$只包含两个元素$a$和$b$，我们也可以将$\lfloor\rfloor S$写为$a\lfloor\rfloor b$，将$\lceil\rceil S$写为$a\lceil\rceil b$。
+
+关于上下界的两个特性：
+1. 不是所有的poset都有lub或glb。
+2. 如果一个poset有lub或glb，它一定是唯一的。这一点可以借助偏序关系的antisymmetry特点证明。
+#### Lattice (Poset Structure)
+> ↗ [Lattice (Set Theory)](Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.3
+
+A lattice is partially ordered sets $(L,\sqsubseteq)$, with two extra operators $\lfloor \rfloor$ and $\lceil \rceil$. 
+- $\lfloor \rfloor$ is the **least upper bound (lub), or join**.  $a\lfloor \rfloor b$, meaning that $$\forall c. \ a\sqsubseteq c\land b\sqsubseteq c \implies a\lfloor \rfloor b \sqsubseteq c.$$
+- $\lceil \rceil$ is the **greatest lower bound (glb), or meet**. $a\lceil \rceil b$ meaning that $$\forall c. \ c\sqsubseteq a\land c\sqsubseteq b \implies c \sqsubseteq a\lceil \rceil b.$$
+Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$ and a greatest bound $\top=\lfloor\rfloor L$, from which we have the following identities: $$\begin{aligned}
+& \top\lceil\rceil a = a = a\lfloor\rfloor \bot \\
+& \top\lfloor\rfloor a = \top \\
+& a \lceil\rceil\bot = \bot
+\end{aligned}$$
+#### Complete Partial Order (CPO)
+
+
+### Well Order
+#### Well-Ordering/ Zermelo Theorem
 
 
 
@@ -47,3 +100,7 @@
 - 集合的包含关系是一种偏序。
 - 在整数集中定义偏序：若a能整除b，我们就记为a≺b
 显然它满足序公理。但整数集中，不是任何两个数都存在整除关系，这个关系是**局部**的（partial），太“偏颇”，于是被称为**偏序**。
+
+[👍 南大软分课程笔记｜05 数据流分析理论]: https://blog.wohin.me/posts/nju-program-analysis-05/
+
+[语言背后的代数学（七）：数学结构]: https://thzt.github.io/2018/02/09/semantics-7/

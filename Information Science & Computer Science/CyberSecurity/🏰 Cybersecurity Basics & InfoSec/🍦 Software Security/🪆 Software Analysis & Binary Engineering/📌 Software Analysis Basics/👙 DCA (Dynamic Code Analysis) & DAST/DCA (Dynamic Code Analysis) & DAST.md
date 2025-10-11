@@ -66,7 +66,7 @@ It might seem obvious that we can learn about a program by running it, but it is
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
 
-### Phases of Dynamic Analysis
+### Phases of Dynamic Analysis (in Formal Definition)
 > ↗ [(Formal) Model Checking](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html
@@ -97,7 +97,6 @@ Now that we have a trace, we can make several deductions about behaviors of the 
 
 Any question we can answer correctly for one trace can be turned into a _may analysis_ for the full program. If we find a trace that ends in a failure, the program might fail. If the we find a trace where opened resource is not closed, we know that program may not close all resources in the program. So, essentially for any property $X$ we can find in one trace, we can build an may analysis which can detect it: $$\exists\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 Actually, if we can increase the precision of the analysis by running the program multiple times. And, in the limit (assuming that we could run all traces) a dynamic analysis precisely captures any property. $$\forall\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
-
 #### 3️⃣ Trace Analysis
 > ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
 > ↗ [Runtime Verification](Runtime%20Verification/Runtime%20Verification.md)
