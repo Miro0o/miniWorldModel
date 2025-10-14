@@ -15,8 +15,8 @@
 🎬3blue1brown | The essence of linear algebra
 https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=8X1lwkP2qaYpyjhm
 
-🖥️ Linear Algebra for Everyone | Gilbert Strang https://math.mit.edu/~gs/everyone/
 
+🖥️ Linear Algebra for Everyone | Gilbert Strang https://math.mit.edu/~gs/everyone/
 🖥️ Introduction to Linear Algebra | Gilbert Strang https://math.mit.edu/~gs/linearalgebra/
 
 📖 线性代数 by 李炯生 查建国 (z-lib.org)
@@ -34,3 +34,6 @@ https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=8X1lwkP2
 [逆矩阵是什么？]: https://www.shuxuele.com/algebra/matrix-inverse.html
 
 27 【向量内积背后竟然藏着宇宙的对称性？ - 漫士沉思录 | 小红书 - 你的生活兴趣社区】 😆 PwTPtgQWyQCsmsW 😆 https://www.xiaohongshu.com/discovery/item/678f2a3200000000180188ca?source=webshare&xhsshare=pc_web&xsec_token=ABaB3PyooAAQEmuaKVKeM8TpKbV22Ush6Eo8SX9b5v0y0=&xsec_source=pc_share
+
+[Linear algebra concept maps]: https://minireference.com/blog/linear-algebra-concept-maps/
+![linear_algebra_page1](../../../../../../Assets/Cheat_Sheets/linear_algebra_page1.pdf)

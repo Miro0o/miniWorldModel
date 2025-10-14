@@ -69,13 +69,14 @@ Christian Gram Kalhauge | DTU
 
 
 ### Program and Program Analysis
+> ↗ [Math History & Development](../../../../../🧮%20Mathematics/Math%20History%20&%20Development.md)
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
 
 Back in the beginning of 20th century, a group of logician where obsessed with coming up with a system for proving all things in mathematics. The problem was that a [foundational crisis](https://en.wikipedia.org/wiki/Foundations_of_mathematics#Foundational_crisis) had emerged. Many mathematical theories had holes in them, or was able to prove theorems which are false [E.g ., Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox).
 
-To this end they came up with different systems for automatically proving things. David Hilbert came up with the [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program), and Alanzo Church came up with the [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus). The underlying idea was, if we could come up with an automatic procedure for producing everything that is true, we can recursively enumerate all true things. This is known as recursively axiomatizable.
+To this end they came up with different systems for **automatically proving things**. David Hilbert came up with the [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program), and Alanzo Church came up with the [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus). The underlying idea was, if we could come up with an automatic procedure for producing everything that is true, we can recursively enumerate all true things. This is known as recursively axiomatizable.
 
 However, they quickly ran into a problem: how can we prove that these programs actually terminate? This is the fundamental program analysis question, and it strangely came before the program.
 
@@ -83,8 +84,8 @@ However, they quickly ran into a problem: how can we prove that these programs�
 **What is a Program?**
 To talk about program analysis, we first have to define what we mean when we say _program_. A program in the context of this course is going to be a **_structured object_** that exhibit some _behavior_ when executed.
 
-> **Definition 1**: Program
-> A program is structured object p∈L, from a language L, with a step function from state to state:
+> **Definition 1**: Program ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> A program is structured object $p\in L$, from a language L, with a step function from state to state:
 > - 𝚜𝚝𝚎𝚙: $𝐒𝐭𝐚𝐭𝐞 \to 𝐒𝐭𝐚𝐭𝐞$
 
 ==When executing a program, we often want to run it until it changes the state. This is called a **_fixpoint_**, or running the program to completion.==
@@ -102,6 +103,7 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 > 🔗 https://en.wikipedia.org/wiki/Program_analysis
 > 
 > In computer science, program analysis[1] is the process of analyzing the behavior of computer programs regarding a **property** such as correctness, robustness, safety and liveness. Program analysis focuses on two major areas: program optimization and program correctness. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
+> - other areas are like program security : )
 
 
 ### Program Semantics
@@ -112,16 +114,15 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 Transition System
 
 Computational Trees & Execution trace
-
 #### Program State Space & State Explosion
-↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
 
 ### Evaluation of Program Analysis
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
-> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
 #### (Un)Decidability of Program Analysis
-> ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+> ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.3
 
@@ -191,13 +192,13 @@ def main():
 However, all hope is not lost! Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
 #### Soundness, Truth, and Completeness
 > ↗  [Logic (and Critical Thinking)](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
-> ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
+> ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.6
 
 In most cases, you either care that something _may_ happen, or that it _must_ happen. In the program from before, we can quite easily say that it **may** fire the nukes. If we do not want the nukes from not being fired, we can flag this as a bug. However, we might also build a missile luncher, in which case the nukes **must** be fired when press the red button.
 
-These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Mathematical Logic](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
+These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
 
 > **Definition 3**: Soundness
 > In a sound system, we can only prove true things.

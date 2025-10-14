@@ -138,7 +138,6 @@ Neural networks | 3Blue1Brown
 #### MLP (Multi Layer Perceptrons)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
 <small>fully connected, dense layer</small>
-
 #### Gradient Descent & Backpropagation
 https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 Neural networks | 3Blue1Brown

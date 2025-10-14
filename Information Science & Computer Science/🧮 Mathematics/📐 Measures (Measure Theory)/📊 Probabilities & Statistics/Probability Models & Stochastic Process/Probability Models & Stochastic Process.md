@@ -6,6 +6,13 @@
 
 ## Res
 ### Related Topics
+↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
+↗ [AI Basics & Machine Learning (ML)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/AI%20Basics%20&%20Machine%20Learning%20(ML).md)
+↗ [Statistical Learning Theory & ML Types](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+
+↗ [PRISM](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🤼%20Model%20Checker/PRISM.md)
+↗ [Theory of Computation](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 
 ### Other Resources
@@ -13,10 +20,10 @@
 📖 Stochastic Process (SP)
 Sheldon M. Ross
 
-- [[KNP07a](https://www.prismmodelchecker.org/bibitem.php?key=KNP07a)] (for DTMCs and CTMCs)
-- [[FKNP11](https://www.prismmodelchecker.org/bibitem.php?key=FKNP11)] (for MDPs)
-- [[NPS13](https://www.prismmodelchecker.org/bibitem.php?key=NPS13)] (for PTAs)
-- [[SK16](https://www.prismmodelchecker.org/bibitem.php?key=SK16)] (for stochastic games)
+[[KNP07a](https://www.prismmodelchecker.org/bibitem.php?key=KNP07a)] (for DTMCs and CTMCs)
+[[FKNP11](https://www.prismmodelchecker.org/bibitem.php?key=FKNP11)] (for MDPs)
+[[NPS13](https://www.prismmodelchecker.org/bibitem.php?key=NPS13)] (for PTAs)
+[[SK16](https://www.prismmodelchecker.org/bibitem.php?key=SK16)] (for stochastic games)
 
 Jan Rutten, Marta Kwiatkowska, Gethin Norman and David Parker.
 Mathematical Techniques for Analyzing Concurrent and Probabilistic Systems.

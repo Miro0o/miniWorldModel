@@ -8,6 +8,8 @@
 ### Related Topics
 ↗️ [EE364A: Convex Optimization](../../../../🏠 Assets/Stanford/EE364A: Convex Optimization/EE364A: Convex Optimization.md)
 
+↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
+
 
 ### Learning Resources
 📄 https://arxiv.org/abs/1405.4980

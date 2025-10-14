@@ -16,9 +16,9 @@
 - ↗ [(Text) Data Representations & Storage in Computer](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 - ↗ [Encodings](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
-↗ [Mathematical Logic](🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
-	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
+	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
 

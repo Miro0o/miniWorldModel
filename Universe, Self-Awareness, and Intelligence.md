@@ -215,7 +215,7 @@ or（情感，逻辑）X （认识，实践）
 #### 从信息到知识：知识是有组织的信息
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 
 信息的分类
 - 抽象的信息和具体的信息
@@ -242,7 +242,7 @@ or（情感，逻辑）X （认识，实践）
 	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-	- ↗ [Mathematical Logic](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+	- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - 佛教思想中的“缘起”：
 	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88

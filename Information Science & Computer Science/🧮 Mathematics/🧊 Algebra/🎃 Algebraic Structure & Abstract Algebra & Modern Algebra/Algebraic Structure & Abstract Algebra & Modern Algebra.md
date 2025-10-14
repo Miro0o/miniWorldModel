@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory](../../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
-- ↗ [Natural Number](../../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
-- ↗ [Lattice (Set Theory)](../../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+↗ [Set Theory](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
+- ↗ [Natural Number](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
+- ↗ [Lattice (Set Theory)](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 

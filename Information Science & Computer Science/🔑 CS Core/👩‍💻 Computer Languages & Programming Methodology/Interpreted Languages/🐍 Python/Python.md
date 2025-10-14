@@ -28,7 +28,7 @@ Python Enhancement Proposals (PEPs)
 ↗ [Web Scripting Languages & Server-Side Scripting](../../Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
 ↗ [Python Web](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Language%20&%20Ecosystems/Python%20Web.md)
 ↗ [Python Managers](../../🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Managers.md)
-↗ [Python Based AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
+↗ [Python Based ML Libraries](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/Python%20Based%20ML%20Libraries.md)
 
 
 ### 🚊 Learning Resources

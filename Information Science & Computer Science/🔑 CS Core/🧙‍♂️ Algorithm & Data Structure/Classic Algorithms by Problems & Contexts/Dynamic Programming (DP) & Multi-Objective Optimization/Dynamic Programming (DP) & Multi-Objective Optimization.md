@@ -20,19 +20,10 @@ https://oi-wiki.org/dp/
 
 
 ## Intro
-### Academic Background of Dynamic Programming
-#### Multi-Objective Optimization
-↗ [Multi-Objective Optimization (Pareto Optimization)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/📌%20Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
-#### Convex Optimization Programming (COP) & Dynamic Programming (DP)
-↗ [Mathematical Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Mathematical%20Optimization.md)
-- ↗ [COP (Convex Optimization Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
-	- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
-
-
-### Quick Introduction to DP
+### Quick Introduction to Dynamic Programming (DP)
 > 🔗 https://cp-algorithms.com/dynamic_programming/intro-to-dp.html
 
-The essence of dynamic programming is to avoid repeated calculation with memoization. That's read "memoization" (like we are writing in a memo pad) not memorization.
+The essence of dynamic programming is to avoid repeated calculation with **memoization**. That's read "memoization" (like we are writing in a memo pad) not memorization.
 - Often, dynamic programming problems are naturally solvable by recursion. In such cases, it's easiest to write the recursive solution, then save repeated states in a lookup table. This process is known as **top-down dynamic programming with memoization**. 
 - However, besides top-down DP we can also solve problems with **bottom-up dynamic programming**. Bottom-up is exactly the opposite of top-down, you start at the bottom (base cases of the recursion), and extend it to more and more values.
 
@@ -130,6 +121,15 @@ One of the tricks to getting better at dynamic programming is to study some of t
 | Longest Palindromic Subsequence                 | Finding the Longest Palindromic Subsequence (LPS) of a given string.                                                                                                                                                             |
 | Rod Cutting                                     | Given a rod of length  $n$  units, Given an integer array cuts where cuts[i] denotes a position you should perform a cut at. The cost of one cut is the length of the rod to be cut. What is the minimum total cost of the cuts. |
 | Edit Distance                                   | The edit distance between two strings is the minimum number of operations required to transform one string into the other. Operations are ["Add", "Remove", "Replace"]                                                           |
+
+
+### Academic Background of DP
+#### Multi-Objective Optimization
+↗ [Multi-Objective Optimization (Pareto Optimization)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/📌%20Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
+#### Convex Optimization Programming (COP) & Dynamic Programming (DP)
+↗ [Mathematical Optimization](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Mathematical%20Optimization.md)
+- ↗ [COP (Convex Optimization Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+	- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 
 
 

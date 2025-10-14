@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
-↗ [Logic And Mechanized (Formal) Reasoning](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Logic And Mechanized (Formal) Reasoning](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 ↗ [Logic Programming Languages](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 - ↗ [Lambda Calculus (λ-Calculus)](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 
@@ -54,8 +54,8 @@ Appropriate for secondary school students, college undergraduates, and graduate 
 
 
 ## Intro
-> ↗ [Mathematical Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-> ↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 
 > 🔗 https://philosophy.hku.hk/think/logic/whatislogic.php
 
@@ -109,8 +109,8 @@ The connection of reason to symbolic thinking has been expressed in different wa
 ### Methodologies in Logic
 > ↗ [Marxism & Communism](../../Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md) (马克思主义的基本方法)
 > ↗ [Mathematics /Types of Proofs](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
-> ↗ [Mathematical Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
-> ↗ [Proof Theory](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Theory.md)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Proof Theory](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 
 > 📖 Gemini
 
@@ -140,14 +140,14 @@ The connection of reason to symbolic thinking has been expressed in different wa
 
 A subdivision of [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy") and a variety of reasoning is [logic](https://en.wikipedia.org/wiki/Logic "Logic"). The traditional main division made in philosophy is between [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") and [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning"). [Formal logic](https://en.wikipedia.org/wiki/Logic "Logic") has been described as _the science of deduction_. The study of inductive reasoning is generally carried out within the field known as [informal logic](https://en.wikipedia.org/wiki/Informal_logic "Informal logic") or [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking "Critical thinking").
 ##### Deductive Logic & Deductive Reasoning ✅
-> ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 > 
-> ↗ [Logic And Mechanized (Formal) Reasoning](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
+> ↗ [Logic And Mechanized (Formal) Reasoning](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 > 
-> ↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
-> ↗ [Classical Logic (Standard Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
-> - ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-> - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+> ↗ [Mathematical Logic Basics (Formal Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Classical Logic (Standard Logic)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+> - ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+> - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 
 > 🔗 https://en.wikipedia.org/wiki/Deductive_reasoning
 
@@ -181,7 +181,7 @@ Sometimes a distinction is made between _informal logic_ and _formal logic_. 
 
 There are many reasons for studying formal logic. One is that formal logic helps us identify patterns of good reasoning and patterns of bad reasoning, so we know which to follow and which to avoid. This is why studying basic formal logic can help improve critical thinking. Formal systems of logic are also used by linguists to study natural languages. Computer scientists also employ formal systems of logic in research relating to Artificial Intelligence. Finally, many philosophers also like to use formal logic when dealing with complicated philosophical problems, in order to make their reasoning more explicit and precise.
 #### 👉 Mathematical Logic (Formal Logic)
-↗ [Mathematical Logic](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/Mathematical%20Logic.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 #### 👉 Critical Thinking (Informal Logic)
 > 🔗 https://en.wikipedia.org/wiki/Critical_thinking
 
@@ -189,13 +189,13 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 
 ### Properties & Evaluation of Logics
-> ↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
+> ↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
 > ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 #### Decidability
-> ↗ [Decidability](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
+> ↗ [Decidability](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
 
 #### Soundness, Truth, and Completeness
-> ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Soundness%20&%20Completeness)
 > ↗ [Software Analysis Basics](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/Software%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
 
 > 🔗 https://en.wikipedia.org/wiki/Soundness

@@ -7,6 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
+- ↗ [Foundation Models & Development & SDKs](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Foundation%20Models%20&%20Development%20&%20SDKs.md)
+- ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
+- ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
+
 ↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [LLM Application Dev](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev.md)
 

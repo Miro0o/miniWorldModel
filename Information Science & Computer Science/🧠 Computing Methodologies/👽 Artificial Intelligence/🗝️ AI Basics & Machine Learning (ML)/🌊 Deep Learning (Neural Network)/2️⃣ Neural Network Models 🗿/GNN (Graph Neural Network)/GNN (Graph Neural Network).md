@@ -9,6 +9,9 @@
 ↗ [Data Science /Graph Mining](../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
 ↗ [Graph Theory](../../../../../../🧮%20Mathematics/Graph%20Theory/Graph%20Theory.md)
 
+↗ [Python Libs /PyG](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Security%20&%20Cryptology/PyG.md)
+↗ [Python Libs /DGL](../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/DGL/DGL.md)
+
 
 ### Introduction
 【零基础多图详解图神经网络（GNN/GCN）【论文精读】】 https://www.bilibili.com/video/BV1iT4y1d7zP/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -37,12 +40,6 @@
 Repository for benchmarking graph neural networks.
 
 [Public Datasets For Recommender Systems](https://github.com/caserec/Datasets-for-Recommender-Systems)
-
-
-### Tools & Libs
-↗ [Python Libs /PyG](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/Security%20&%20Cryptology/PyG.md)
-
-↗ [Python Libs /DGL](../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/DGL/DGL.md)
 
 
 ### Related Researches & Learning Guides

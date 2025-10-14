@@ -78,31 +78,49 @@ wikipedia
 
 
 
-## Science & Technology in Early Stages of Civilization
+## Science & Technology in Early Stages of Civilizations
 
 
 
-## Science & Technology Since European Renaissance: Scientific Revolution
+
+## Science & Technology Since European Renaissance
+### Age of Discovery (15th Century ~ 17 Century)
+
+
+### Scientific Revolution (16th ~ 17th Century)
+> 🔗 https://en.wikipedia.org/wiki/Scientific_Revolution#Introduction
+
+Great advances in science have been termed "revolutions" since the 18th century. For example, in 1747, the French mathematician [Alexis Clairaut](https://en.wikipedia.org/wiki/Alexis_Clairaut "Alexis Clairaut") wrote that "[Newton](https://en.wikipedia.org/wiki/Isaac_Newton "Isaac Newton") was said in his own life to have created a revolution". The word was also used in the preface to [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier "Antoine Lavoisier")'s 1789 work announcing the discovery of oxygen. "Few revolutions in science have immediately excited so much general notice as the introduction of the theory of oxygen ... Lavoisier saw his theory accepted by all the most eminent men of his time, and established over a great part of Europe within a few years from its first promulgation."
+
+In the 19th century, [William Whewell](https://en.wikipedia.org/wiki/William_Whewell "William Whewell") described the revolution in [science](https://en.wikipedia.org/wiki/Science "Science") itself – the [scientific method](https://en.wikipedia.org/wiki/Scientific_method "Scientific method") – that had taken place in the 15th–16th century. "Among the most conspicuous of the revolutions which opinions on this subject have undergone, is the transition from an implicit trust in the internal powers of man's mind to a professed dependence upon external observation; and from an unbounded reverence for the wisdom of the past, to a fervid expectation of change and improvement.) This gave rise to the common view of the Scientific Revolution today:
+
+> A new view of nature emerged, replacing the Greek view that had dominated science for almost 2,000 years. Science became an autonomous discipline, distinct from both philosophy and technology, and came to be regarded as having utilitarian goals.
+
+The Scientific Revolution is traditionally assumed to start with the [Copernican Revolution](https://en.wikipedia.org/wiki/Copernican_Revolution "Copernican Revolution") (initiated in 1543) and to be complete in the "grand synthesis" of Isaac Newton's 1687 _[Principia](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica "Philosophiæ Naturalis Principia Mathematica")_. Much of the change of attitude came from [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon "Francis Bacon") whose "confident and emphatic announcement" in the modern progress of science inspired the creation of scientific societies such as the [Royal Society](https://en.wikipedia.org/wiki/Royal_Society "Royal Society"), and [Galileo](https://en.wikipedia.org/wiki/Galileo_Galilei "Galileo Galilei") who championed [Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus "Nicolaus Copernicus") and developed the science of motion.
+
+The Scientific Revolution was enabled by advances in book production. Before the advent of the [printing press](https://en.wikipedia.org/wiki/Printing_press "Printing press"), introduced in Europe in the 1440s by [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg "Johannes Gutenberg"), there was no mass market on the continent for scientific treatises, as there had been for religious books. Printing decisively changed the way scientific knowledge was created, as well as how it was disseminated. It enabled accurate diagrams, maps, anatomical drawings, and representations of flora and fauna to be reproduced, and printing made scholarly books more widely accessible, allowing researchers to consult ancient texts freely and to compare their own observations with those of fellow scholars. Although printers' blunders still often resulted in the spread of false data (for instance, in Galileo's _[Sidereus Nuncius](https://en.wikipedia.org/wiki/Sidereus_Nuncius "Sidereus Nuncius")_ (The Starry Messenger), published in Venice in 1610, his telescopic images of the lunar surface mistakenly appeared back to front), the development of engraved metal plates allowed accurate visual information to be made permanent, a change from previously, when woodcut illustrations deteriorated through repetitive use. The ability to access previous scientific research meant that researchers did not have to always start from scratch in making sense of their own observational data.
+
+In the 20th century, [Alexandre Koyré](https://en.wikipedia.org/wiki/Alexandre_Koyr%C3%A9 "Alexandre Koyré") introduced the term "scientific revolution", centering his analysis on Galileo. The term was popularized by [Herbert Butterfield](https://en.wikipedia.org/wiki/Herbert_Butterfield "Herbert Butterfield") in his _Origins of Modern Science_. [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn "Thomas Kuhn")'s 1962 work _[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions "The Structure of Scientific Revolutions")_ emphasizes that different theoretical frameworks—such as [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein "Albert Einstein")'s [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity "Theory of relativity") and [Newton's theory of gravity](https://en.wikipedia.org/wiki/Newton%27s_theory_of_gravity "Newton's theory of gravity"), which it replaced—cannot be directly compared without meaning loss.
+
+
+### 👉 First Industrial Revolution: Mechanization (1750 ~ 1840)
 > 🔗 https://en.wikipedia.org/wiki/Scientific_Revolution#Mechanical_devices
-
-
-### First Industrial Revolution: Mechanization
 
 
 
 ## Science & Technology: 19th - 20th Century
-### Second Industrial Revolution: Electricity
+### 👉 Second Industrial Revolution: Electricity (1870 ~ 1914)
 
 
-### Third Industrial Revolution: Information
+### 👉 Third Industrial Revolution: Information & Digitalization (1947 ~ 2011)
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [History of Computing](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 ↗ [History of Computer Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
 
 
 
-## Science & Technology: 21th Century
-### Fourth Industrial Revolution: Industry 4.0
+## Science & Technology: 21st Century
+### 👉 Fourth Industrial Revolution: Industry 4.0 (2011 ~)
 ↗ [Industry 4.0](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
 #### LLM, AI, and AGI
 ↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)

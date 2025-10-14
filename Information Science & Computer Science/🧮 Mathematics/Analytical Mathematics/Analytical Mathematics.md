@@ -49,7 +49,7 @@ Calculus: Single Variable, 8th Edition
 ## Contents
 ### Set, Sequence, Function
 #### 1️⃣ Set Theory | Mapping | Function (集合，映射，函数)
-↗ [Set Theory](../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Set%20Theory.md)
+↗ [Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
 
 
 ---
@@ -220,10 +220,10 @@ Calculus: Single Variable, 8th Edition
 	- 和差化积公式
 #### 2️⃣ Sequence of Number (数列)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Natural Number](../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
+- ↗ [Natural Number](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
 ↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
 #### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
-↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logic/🛒%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
 
 

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Subjects
-↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
+↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
 ↗ [Files & Texts Filters /Codes Filters /Finders](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
@@ -27,13 +27,13 @@ A **regular expression**(shortened as **regex** or **regexp**; sometimes ref
 
 
 ### Regular Expression & Regex
-Regular expression techniques are developed in ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md) and ↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md). The concept of regular expressions began in the 1950s, when the American mathematician [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") formalized the concept of a [regular language](https://en.wikipedia.org/wiki/Regular_language "Regular language"). (In which description regular language is a formal language defined by regular expression) They came into common use with Unix text-processing utilities.
+Regular expression techniques are developed in ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md) and ↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md). The concept of regular expressions began in the 1950s, when the American mathematician [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") formalized the concept of a [regular language](https://en.wikipedia.org/wiki/Regular_language "Regular language"). (In which description regular language is a formal language defined by regular expression) They came into common use with Unix text-processing utilities.
 
 But distinct from these theories, when referring to "regular expression" or "regex/regexp" in this context, they often mean the technology/algorithms applied in finding patterns of both regular language/ non-regular language. Hence to be distinct, the name "regex/regexp" is coined in this context. However the use of term "regex/regexp" and regular expression are often interchanged and in most of the cases seen in internet they actually carry the same meaning.
 
 > "In _theoretical computer science_ and _formal language theory_, a **regular language** (also called a rational language) is a **formal language** that can be defined by a **regular expression**, in the strict sense in theoretical computer science (as opposed to many modern regular expression engines, which are augmented with features that allow the recognition of non-regular languages)."
 > 
-> ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
+> ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
 
 ### Regular Expression Uses
