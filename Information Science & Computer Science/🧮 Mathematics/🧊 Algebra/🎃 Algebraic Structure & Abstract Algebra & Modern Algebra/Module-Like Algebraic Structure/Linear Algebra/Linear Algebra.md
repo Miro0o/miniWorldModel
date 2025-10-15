@@ -14,6 +14,36 @@
 
 🎬3blue1brown | The essence of linear algebra
 https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=8X1lwkP2qaYpyjhm
+- [Vectors](https://youtu.be/fNk_zzaMoSs?si=id1HVbCfkjOuxMoD)
+	- {constant (scale), vector, matrice}
+- [Linear Combinations, and Basis Vector](https://youtu.be/k7RM-ot2NWY?si=C38tMZgo97TyXN-4)
+- [Linear Transformation and Matrices](https://youtu.be/kYB8IZa5AuE?si=a6uRwquDDI-bgItJ)
+- [Matrices Multiplication as Composition](https://youtu.be/XkY2DOUCWMU?si=Ydbrf1xcuRBsWU_V)
+	- space transformation in a row
+- [Tree-Dimensional Linear Transformation](https://youtu.be/rHLEWRxRGiM?si=sUy2t6ywc8pYK6C6)
+- [The Determinant](https://youtu.be/Ip3X9LOh2dk?si=OqQFTSj27lsbd_jT)
+	- det(A) = 0 --> dimension collapse! once dimension collapse, we cannot go back anymore, i.e. we loose inverse.
+- [Inverse Matrices, Column Space, Rank and Null Space](https://youtu.be/uQhTuRlWMxw?si=s5tkXSarFPhbgkGu)
+	- the correspondence between matrices and system of linear equation
+	- rank: number of dimensions in the output transformation (column space)
+	-  null space /kernel: the information on the lost dimensions that goes to origin.
+- [Nonsquare Matrices as Transformation Between Dimensions](https://youtu.be/v8VSDg_WQlA?si=ktYec8EXhauF499J)
+	- transformation between dimensions. one column represent one vector: hence, the dimension of the vector (the number of rows of the matrices) is the dimension after transformation, while the number of such vector (the number of columns of the matrices) can be considered the dimension before transformation.
+		- such nonsquare matrices thus marks the transformation of dimensions before and after transformation
+- [Dot Products and Duality](https://youtu.be/LyGKycYT2v0?si=NUvXx8aL_LiQN-HH)
+	- the dot products of two vectors = a constant number, i.e. (the length of vector1's projection on vector2) x (the length of vector2) 
+		- the order doesn't mater here. don't care vector1 projects on vector 2 or the reverse.
+	- $\Leftrightarrow$ the linear transformation to one-dimension of one vector
+- [Cross Products](https://youtu.be/eu6i7WJeinw?si=E2b6J5sM7yePnzfD)
+	- the cross products of two vectors = a third vector, with the length of the vector equals to the area of previous two vectors and the direction perpendicular to them.
+- [Cross Products in the Light of Linear Transformation](https://youtu.be/BaM7OCEm3G0?si=-skraUVHxzhWLS4d)
+- [Cramer's Rule, Explained Geometrically](https://youtu.be/jBsC34PxzoM?si=5Scb3V7qqQuJvxgN)
+- [Change of Basis](https://youtu.be/P2LTAUO1TdA?si=YM6App8dLoslQfxD)
+- [Eigenvectors and Eigenvalues](https://youtu.be/PFDu9oVAE-g?si=YEuRFok2K10E2v5J)
+	- $A\cdot V = \lambda\cdot V$, i.e. V (eigenvector) stay unchanged (possibly scaled by factor of $\lambda$ (eigenvalue) however) during transformation of $A$
+	- we can use 2 eigenvectors of a space (if exists) as the basis vector, when needed to perform continues transformation to speed up the calculation
+- [A Quick Trick for Computing Eigenvalues](https://youtu.be/e50Bj7jn9IQ?si=7vhXujTuqgS6XnPQ)
+- [Abstract Vector Space](https://youtu.be/TgKwz5Ikpc8?si=bM0W9ETqruHxIS-J)
 
 
 🖥️ Linear Algebra for Everyone | Gilbert Strang https://math.mit.edu/~gs/everyone/

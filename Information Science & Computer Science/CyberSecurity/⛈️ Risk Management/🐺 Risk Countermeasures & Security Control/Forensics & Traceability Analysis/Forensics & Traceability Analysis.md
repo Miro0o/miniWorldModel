@@ -11,6 +11,8 @@
 ↗ [Data Security](../../../Data%20Security/Data%20Security.md)
 - ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
 
+↗ [Forensics & Counter Forensics Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Forensics%20&%20Counter%20Forensics%20Tools/Forensics%20&%20Counter%20Forensics%20Tools.md)
+
 ↗ [EXIF (Exchangeable Image File Format)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/EXIF%20(Exchangeable%20Image%20File%20Format).md)
 
 
