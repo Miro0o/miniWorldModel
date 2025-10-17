@@ -1,20 +1,49 @@
-# Windows Registry
+# Windows Registry Hives & Configuration Management
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+
+
+### Other Resources
+🔗 https://learn.microsoft.com/en-us/windows/win32/sysinfo/windows-system-information
+
+|                                                                                                             |                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Handles and Objects](https://learn.microsoft.com/en-us/windows/win32/sysinfo/handles-and-objects)          | An _object_ is a data structure that represents a system resource, such as a file, thread, or graphic image. An application cannot directly access object data or the system resource that an object represents. Instead, an application must obtain an object _handle_, which it can use to examine or modify the system resource. |
+| [Registry](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry)                                | A system-defined database in which applications and the system store and retrieve configuration information.                                                                                                                                                                                                                        |
+| [System Information](https://learn.microsoft.com/en-us/windows/win32/sysinfo/system-information)            | Retrieves or sets system configuration, settings, version, and metrics.                                                                                                                                                                                                                                                             |
+| [Time](https://learn.microsoft.com/en-us/windows/win32/sysinfo/time)                                        | Retrieves or sets the system time.                                                                                                                                                                                                                                                                                                  |
+| [Time Provider](https://learn.microsoft.com/en-us/windows/win32/sysinfo/time-provider)                      | Retrieves accurate time stamps from hardware or the network, and provides time stamps to other clients on the network.                                                                                                                                                                                                              |
+| [WaaS Assessment Platform](https://learn.microsoft.com/en-us/windows/win32/sysinfo/update-assessor-service) | The Windows as a Service (WaaS) Update Assessment Platform provides information on a device's Windows updates.                                                                                                                                                                                                                      |
 
 
 
 ## Intro
+> 🔗 https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry
+
+The _registry_ is a system-defined database in which applications and system components store and retrieve configuration data. The data stored in the registry varies according to the version of Microsoft Windows. Applications use the registry API to retrieve, modify, or delete registry data.
+
+You should not edit registry data that does not belong to your application unless it is absolutely necessary. If there is an error in the registry, your system may not function properly. If this happens, you can restore the registry to the state it was in when you last started the computer successfully. For more information, see the help for your operating system.
+
+For more information on the registry database and programmatic access to the registry data, see the following topics:
+- [About the Registry](https://learn.microsoft.com/en-us/windows/win32/sysinfo/about-the-registry)
+- [Using the Registry](https://learn.microsoft.com/en-us/windows/win32/sysinfo/using-the-registry)
+- [Registry Reference](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-reference)
+
+
 ### 🕵️ Windows Registry in a Nutshell
+> 🔗 https://en.wikipedia.org/wiki/Windows_Registry
+
+The **Windows Registry** is a [hierarchical database](https://en.wikipedia.org/wiki/Hierarchical_database "Hierarchical database") that stores [low-level](https://en.wikipedia.org/wiki/High-_and_low-level "High- and low-level") settings for the [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows") operating system and for applications that opt to use the registry. The [kernel](https://en.wikipedia.org/wiki/Kernel_\(operating_system\) "Kernel (operating system)"), [device drivers](https://en.wikipedia.org/wiki/Device_driver "Device driver"), [services](https://en.wikipedia.org/wiki/Windows_service "Windows service"), [Security Accounts Manager](https://en.wikipedia.org/wiki/Security_Accounts_Manager "Security Accounts Manager"), and [user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface "Graphical user interface") can all use the registry. The registry also allows access to [counters](https://en.wikipedia.org/wiki/Instrumentation_\(computer_programming\) "Instrumentation (computer programming)") for profiling system performance.
+
+In other words, the registry or Windows Registry contains information, settings, options, and other values for programs and hardware installed on all versions of Microsoft Windows operating systems. For example, when a program is installed, a new subkey containing settings such as a program's location, its version, and how to start the program, are all added to the Windows Registry.
+
+When introduced with [Windows 3.1](https://en.wikipedia.org/wiki/Windows_3.1 "Windows 3.1"), the Windows Registry primarily stored configuration information for [COM](https://en.wikipedia.org/wiki/Component_Object_Model "Component Object Model")-based components. [Windows 95](https://en.wikipedia.org/wiki/Windows_95 "Windows 95") and [Windows NT](https://en.wikipedia.org/wiki/Windows_NT "Windows NT") extended its use to rationalize and centralize the information in the profusion of [INI files](https://en.wikipedia.org/wiki/INI_file "INI file"), which held the configurations for individual programs, and were stored at various locations. **It is not a requirement for Windows applications to use the Windows Registry. For example, [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework ".NET Framework") applications use [XML](https://en.wikipedia.org/wiki/XML "XML") files for configuration, while [portable applications](https://en.wikipedia.org/wiki/Portable_application "Portable application") usually keep their configuration files with their [executables](https://en.wikipedia.org/wiki/Executable "Executable").**
+
 > 🔗 https://www.cnblogs.com/huyn/p/6876150.html
 
 PC机及其操作系统的一个特点就是允许用户按照自己的要求对计算机系统的硬件和软件进行各种各样的配置。早期的图形操作系统，如Win3.x中，对软硬件工作环境的配置是通过对扩展名为.ini的文件进行修改来完成的，但INI文件管理起来很不方便，因为每种设备或应用程序都得有自己的INI文件，并且在网络上难以实现远程访问。
@@ -40,7 +69,7 @@ The **Microsoft Computer Dictionary**, Fifth Edition, defines the registry as:
 
 The Registry contains information that Windows continually references during operation, such as profiles for each user, the applications installed on the computer and the types of documents that each can create, property sheet settings for folders and application icons, what hardware exists on the system, and the ports that are being used.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
 
 The Registry replaces most of the text-based `.ini` files that are used in Windows 3.x and MS-DOS configuration files, such as the `Autoexec.bat` and `Config.sys`. Although the Registry is common to several Windows operating systems, there are some differences among them. 
 
@@ -50,14 +79,15 @@ A **registry hive** is a group of keys, subkeys, and values in the registry that
 
 The file name extensions of the files in these folders indicate the type of data that they contain. Also, the lack of an extension may sometimes indicate the type of data that they contain.
 
-|Registry hive|Supporting files|
-|---|---|
-|HKEY_LOCAL_MACHINE\SAM|Sam, Sam.log, Sam.sav|
-|HKEY_LOCAL_MACHINE\Security|Security, Security.log, Security.sav|
-|HKEY_LOCAL_MACHINE\Software|Software, Software.log, Software.sav|
-|HKEY_LOCAL_MACHINE\System|System, System.alt, System.log, System.sav|
-|HKEY_CURRENT_CONFIG|System, System.alt, System.log, System.sav, Ntuser.dat, Ntuser.dat.log|
-|HKEY_USERS\DEFAULT|Default, Default.log, Default.sav|
+| Registry hive               | Supporting files                                                       |
+| --------------------------- | ---------------------------------------------------------------------- |
+| HKEY_CURRENT_CONFIG         | System, System.alt, System.log, System.sav, Ntuser.dat, Ntuser.dat.log |
+| HKEY_CURRENT_USER           | Ntuser.dat, Ntuser.dat.log                                             |
+| HKEY_LOCAL_MACHINE\SAM      | Sam, Sam.log, Sam.sav                                                  |
+| HKEY_LOCAL_MACHINE\Security | Security, Security.log, Security.sav                                   |
+| HKEY_LOCAL_MACHINE\Software | Software, Software.log, Software.sav                                   |
+| HKEY_LOCAL_MACHINE\System   | System, System.alt, System.log, System.sav                             |
+| HKEY_USERS\.DEFAULT         | Default, Default.log, Default.sav                                      |
 
 In Windows 98, the registry files are named `User.dat` and `System.dat`. In Windows Millennium Edition, the registry files are named `Classes.dat`, `User.dat`, and `System.dat`.
 
@@ -135,15 +165,12 @@ Before you edit the registry, export the keys in the registry that you plan to e
 - [Windows 2000 Server Resources Kit](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc984339(v=msdn.10))
 - 👍 [Inside the Registry](https://learn.microsoft.com/en-us/previous-versions//cc750583(v=technet.10))
 
-[👍 Windows Architecture - Registry 101 | Microsoft Blog]: https://techcommunity.microsoft.com/t5/ask-the-performance-team/windows-architecture-registry-101/ba-p/372358
+[👍 Windows Architecture - Registry 101 | Microsoft Blog]: https://techcommunity.microsoft.com/t5/ask-the-performance-team/windows-architecture-registry-101/ba-p/372358 "First published on TECHNET on Apr 24, 2007"
 
-First published on TECHNET on Apr 24, 2007
-
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
 
 [👍 Windows注册表详解 | CSDN]: http://t.csdnimg.cn/Xb0UE
 [👍 Windows注册表详解 | cnblog]: https://www.cnblogs.com/huyn/p/6876150.html
-
 1. 注册表的由来
 2. 使用注册表
 3. 注册表根键说明
@@ -227,3 +254,21 @@ First published on TECHNET on Apr 24, 2007
 	35. 当资源管理器崩溃时强迫计算机重新启动
 	36. 禁用Windows XP的文件高速缓存
 	37. 设置系统临界线程的总数
+
+[🤔 注册表配置单元 ｜ cnblog]: https://www.cnblogs.com/suv789/p/18415837
+[注册表配置单元 - Win32 apps | Microsoft Learn]: https://learn.microsoft.com/zh-cn/windows/win32/sysinfo/registry-hives
+
+[How to View Registry Items from Saved NTUSER.DAT]: https://superuser.com/a/1563817/1656771
+Registry hives, such as `NTUSER.DAT`, are a bespoke file format, with a number of ways of viewing them:
+- Perhaps the cleanest is to use a third-party application such as:
+    1. Ease of use: [MiTeC's Windows Registry Recovery](https://www.mitec.cz/wrr.html)
+    2. Forensic analysis: [Eric Zimmerman's Registry Explorer](https://ericzimmerman.github.io/#!index.md)
+- If you don't want third-party tools, you can mount a registry hive using `regedit`:  
+    _(You probably don't want to do this, and it requires local Administrator privileges)_
+    1. From Start Menu, find _Registry Explorer_/`regedit`
+    2. In the left-hand tree pane select `HKEY_USERS`
+    3. From the _File_ menu, select _Load hive..._
+    4. Select the file you want to mount [`NTUSER.DAT`]
+    5. Give it a name [`OLD`] and you will now see the mounted hive under `HKEY_USERS`
+    6. To unmount it, select the name you gave it [`OLD`], and from the _File_ menu, select _Unload hive_
+- [Google search results](https://www.google.com/search?q=mount+registry+hive)

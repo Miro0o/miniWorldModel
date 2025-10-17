@@ -16,6 +16,15 @@
 ↗ [EXIF (Exchangeable Image File Format)](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Graphics%20Formats%20&%20Standards/EXIF%20(Exchangeable%20Image%20File%20Format).md)
 
 
+### Learning Resources
+https://www.forensicxlab.com/
+Opensource Digital Forensics. Learn, Share, Investigate.
+
+https://forensics.wiki/
+- The Forensics Wiki has transitioned to this new domain and platform; read more about it at [Transitioning Forensics Wiki to GitHub](https://osdfir.blogspot.com/2022/11/transitioning-forensics-wiki-to-github.html).
+- The Forensics Wiki is an open source website providing information related to digital forensics. The articles on the website cover a wide range of information from [tools](https://forensics.wiki/tags/#tools) used during investigations to [papers](https://forensics.wiki/tags/#papers) [people](https://forensics.wiki/tags/#people) and [organizations](https://forensics.wiki/tags/#organization) that contribute to the field.
+
+
 
 ## Intro
 ### Forensic Science & Digital Forensics
@@ -230,3 +239,9 @@ Inspired by Abstract Digital Forensic Model (Reith, Carr & Gunsch)
 [安全攻击溯源思路及案例 | cnblog]: https://www.cnblogs.com/xiaozi/p/13817637.html
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240330193819.png)
+
+[Digital Forensic Report — M57 Jean/ Allison Case — Data Breach of “M57.biz” | medium]: https://hasanka-amarasinghe.medium.com/digital-forensic-report-m57-jean-allison-case-data-breach-of-m57-biz-92396ec3a657
+
+[🔦 Debunking the Expert Witness Compression Format (EWF)]: https://www.forensicxlab.com/blog/ewf
+![](../../../../../Assets/Pics/Pasted%20image%2020251016003412.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020251016003430.png)

@@ -19,7 +19,6 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.51.10%20PM.png)
 
 
-
 ### Common Ports in EMail
 **IMAP**
 **Port 143** - IMAP default port number;
@@ -61,7 +60,6 @@ etang.com           pop.etang.com                               smtp.etang.com
 
 ### 🔬 Using `telnet` to communicate with email server
 > 🔗 https://www.cnblogs.com/antLaddie/p/15546365.html
-
 #### Telnet over SMTP
 ```text
 发送邮箱基本流程：
@@ -88,12 +86,9 @@ etang.com           pop.etang.com                               smtp.etang.com
 ⑦：结束连接
     quit
 ```
-
-
 #### Telnet over IMAP
-> 🔗 
-> https://support.moonpoint.com/network/email/telnet-imap.php
-> https://blog.andrewc.com/2013/01/connect-to-imap-server-with-telnet/
+> 🔗 https://support.moonpoint.com/network/email/telnet-imap.php
+> 🔗 https://blog.andrewc.com/2013/01/connect-to-imap-server-with-telnet/
 
 > When you connect to the server, you should see an "OK" reply; enter the command `A login _username_ _password_` where _username_ is the account name for the relevant account and _password_ is the account's password. That will verify you can log into the account. You can then enter `B select INBOX` which should return information about the inbox for the account followed by another "OK" response. You can issue the command `C logout` to logoff the IMAP server. You should see another "OK" response and be returned to the shell prompt. E.g.:
 >
@@ -109,10 +104,7 @@ etang.com           pop.etang.com                               smtp.etang.com
 > > skip.
 > 
 
-
 #TODO 
-
-
 #### Telnet over POP/POP3
 ```text
 接收邮箱基本流程操作：
@@ -178,3 +170,19 @@ etang.com           pop.etang.com                               smtp.etang.com
 [smtpmail 503 Error: need EHLO and AUTH first]: https://emacs-china.org/t/smtpmail-503-error-need-ehlo-and-auth-first/14783
 
 [imap连接提示Unsafe Login，被阻止的收信行为]: https://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac211b1978002df8b23
+
+[What information can be gained from an Email Header? | Information Secuirty, Stack Exchange]: https://security.stackexchange.com/q/48724/298278
+Some of the most useful headers are:
+- `User-Agent` usually reveals client [MUA](http://en.wikipedia.org/wiki/Mail_user_agent) and version, often OS and architecture
+- `Received`  
+    all sorts of things, overall you get to see (most of) the store-and-forward hops, but within each such [header](http://cr.yp.to/immhf/envelope.html) you can see:
+	- IP addressing, possibly determine IPv6 support
+	- system name, hostnames and internal domain name, possibly deduce naming conventions, deduce use of DHCP
+	- possibly deduce [MTA](http://en.wikipedia.org/wiki/Mail_Transfer_Agent) software on each hop (based on Received header format, queue identifiers and format)
+	- local time and time zones, possibly per-hop delays
+	- TLS support (per-hop)
+	- SMTP AUTH user name or client-cert use (likely first hop only)
+	- the first (closest to the end of the headers) `Received` _usually_ indicates the client that originated the SMTP message, in the past I've used a regex on the reverse DNS name added by sendmail to tag potential DSL/domestic naming conventions: `(dsl|dial|ppp|dyn|user|modem|cable|catv|dhcp|pool|node|cust)`
+- `Message-ID` if MUA generated it may reveal MUA details, and may contain host identifying information. If added by the first hop it may reveal MTA details. This field is [intended to uniquely identify a specific message](https://www.rfc-editor.org/rfc/rfc5322#section-3.6.4).
+- `Return-Path` the envelope sender, may indicate attempted forgery
+- `X-` headers often reveal scanning, anti-virus, anti-spam components; TLS support. Many systems (including MS-Exchange) add [`X-Originating-IP`](http://en.wikipedia.org/wiki/X-Originating-IP). Hotmail adds an "obscured" [X-EIP](http://answers.microsoft.com/en-us/outlook_com/forum/oemail-osend/what-does-x-eip-mean-in-an-email-message-source/63fe7edd-1cbc-4276-9e9e-e3834ecd4219) (evidently a source of much excitement).

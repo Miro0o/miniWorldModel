@@ -7,13 +7,28 @@
 ## Res
 ### Related Topics
 ↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
-↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats.md)
+↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
 ↗ [Unix File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/Unix%20File%20Types%20&%20Formats/Unix%20File%20Types%20&%20Formats.md)
 ↗ [macOS File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/macOS%20File%20Types%20&%20Formats.md)
 
+↗ [DSL(Domain Specific Languages) & GPL(General Purpose Languages)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages).md)
+- ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
+↗ [Media Formats & Standards & Codec (Coder-Decoder)](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder).md)
 
-### Learning Resources
+
+### Other Resources
 【什么是可执行文件 (调试信息；Stack Unwinding；静态链接中的重定位) [南京大学2022操作系统-P16]】 https://www.bilibili.com/video/BV15F411G7Ti/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
+
+## Intro
+> 🔗 https://en.wikipedia.org/wiki/List_of_file_formats
+> 
+> This is a list of [computer file](https://en.wikipedia.org/wiki/Computer_file "Computer file") [formats](https://en.wikipedia.org/wiki/File_format "File format"), categorized by domain. Some formats are listed under multiple categories.
+> 
+> Each format is identified by a capitalized word that is the format's full or abbreviated name. The typical [file name extension](https://en.wikipedia.org/wiki/File_name_extension "File name extension") used for a format is included in parentheses if it differs from the identifier, ignoring case.
+> 
+> The use of file name extension varies by [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") and [file system](https://en.wikipedia.org/wiki/File_system "File system"). Some older file systems, such as [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table "File Allocation Table") (FAT), limited an extension to 3 characters but modern systems do not. [Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft") operating systems (i.e. [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS "MS-DOS") and [Windows](https://en.wikipedia.org/wiki/Windows "Windows")) depend more on the extension to associate contextual and semantic meaning to a file than [Unix](https://en.wikipedia.org/wiki/Unix "Unix")-based systems.
 
 
 
@@ -98,8 +113,8 @@ Support for the a.out format was deprecated in Linux kernel version 5.1, and sup
 The **Common Object File Format (COFF)** is a format for executable, object code, and shared library computer files used on Unix systems. It was introduced in Unix System V, replaced the previously used a.out format, and formed the basis for extended specifications such as XCOFF and ECOFF, before being largely replaced by ELF, introduced with SVR4. COFF and its variants continue to be used on some Unix-like systems, on Microsoft Windows (Portable Executable), in UEFI environments and in some embedded development systems.
 #### MZ (DOS MZ Executable)
 #### PE (Portable Executable) (PE-COFF)
-↗ [Windows PE (Portable Executable) File](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
-↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats.md)
+↗ [Windows PE (Portable Executable) File](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Windows%20PE%20(Portable%20Executable)%20File/Windows%20PE%20(Portable%20Executable)%20File.md)
+↗ [Window File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20Types%20&%20Formats/Window%20File%20Types%20&%20Formats.md)
 #### ELF (Executable Linkable Format)
 ↗ [ELF (Executable and Linkable Format)](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/ELF%20(Executable%20and%20Linkable%20Format)/ELF%20(Executable%20and%20Linkable%20Format).md)
 ↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
@@ -186,6 +201,31 @@ You will also find the `.dynamic` section, which is crucial for dynamic linkin
 ##### Executable File Extensions
 ###### `.exe` 
 ###### `.out`
+
+
+
+## Bespoke (Customary) File Format
+> 🤖 Google search AI mode
+
+A bespoke file format is ==a custom data storage structure created for a specific application or purpose==, unlike a standard format like `.txt` or `.csv`. These formats define a unique way to store data, often using a specific structure that can include data types like strings and integers, and are frequently implemented as binary formats for efficiency or to include a magic header for identification. Examples include native file formats for commercial programs, such as `.docx` for Microsoft Word, or formats used in specialized fields like GIS data interoperability, notes [Esri](https://pro.arcgis.com/en/pro-app/3.3/help/data/data-interoperability/what-is-a-custom-format.htm).
+
+Key characteristics and purposes
+- **Application-specific:** They are designed to store and retrieve the full range of data that a particular application can handle.
+- **Custom structure:** The format is defined by the creator, specifying how data is organized. This can include data types, version numbers, and other metadata.
+- **Efficiency:** Binary formats are often chosen to optimize for performance, compact storage, and ease of reading and writing.
+- **Data protection:** A custom format can be used to encrypt data, providing a level of security for sensitive information, [this YouTube video](https://www.youtube.com/watch?v=ExR777zd-1Y) explains the basics.
+- **Interoperability:** While often proprietary, some custom formats are designed to be shared between compatible systems, like the custom formats used in [ArcGIS Pro](https://www.google.com/search?q=ArcGIS+Pro&oq=bespoke+file+format&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&mstk=AUtExfBab5xjDaTIxDXd3ar9t7Ee3De1xBB3MQVHaeo7wPlAykSkeCN6oztjO1ejkoFa69WpLq1CCODsu7gLS4Myod6ivKCWyosmHDymZBFfEfHIVbUOlPZKUKPs5qD34i1pV0gS5w5ubePwX7R-TpHlimAcdE6dzoz5w01usirGCUCihUg&csui=3&ved=2ahUKEwjk7_fnhayQAxUAEBAIHVaqB4YQgK4QegQIBBAG)'s Data Interoperability extension. 
+
+Examples
+- **Proprietary formats:** Many commercial software products, like Adobe Acrobat (`.pdf`) or Microsoft Word (`.docx`), use their own native, bespoke formats to ensure all program features are supported.
+- **Specialized formats:** In fields like Geographic Information Systems (GIS), custom formats can be created to represent and manage specific types of spatial data.
+- **Multimedia formats:** Container formats, such as `.mp4` or `.avi`, are a type of custom format that can hold multiple data streams (e.g., video, audio) within a single file, along with metadata. 
+
+Considerations for creating a bespoke file format
+- **Performance:** Decide whether the primary goal is speed of reads/writes or disk access.
+- **Portability:** If the data needs to be used across different systems or platforms, a custom format might not be the best choice.
+- **Compatibility:** Consider including version numbers and file size to help manage compatibility and organization over time.
+- **Standardization:** Whenever possible, it's often better to use or build upon existing standard formats to avoid compatibility issues and ensure future usability
 
 
 

@@ -705,3 +705,5 @@ Lots of links & resources related to cybersecurity
 		- 独立提交并获得有质量的CVE漏洞编号、发表原创攻防技术、漏洞EXP开源项目或参加过国内外安全会议；
 		- 熟悉机器学习思想，有防守方模型对抗经验；
 
+DTU Prof Mgmt Pentesting 2025 TVdW.pdf
+![](../../Assets/Pics/Screenshot%202025-10-16%20at%2001.07.59.png)

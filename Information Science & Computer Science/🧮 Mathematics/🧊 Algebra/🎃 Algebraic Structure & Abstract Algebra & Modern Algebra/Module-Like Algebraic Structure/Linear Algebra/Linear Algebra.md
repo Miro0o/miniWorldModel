@@ -15,7 +15,7 @@
 🎬3blue1brown | The essence of linear algebra
 https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=8X1lwkP2qaYpyjhm
 - [Vectors](https://youtu.be/fNk_zzaMoSs?si=id1HVbCfkjOuxMoD)
-	- {constant (scale), vector, matrice}
+	- {constant number(scaler), vector, matrix} and operations on them
 - [Linear Combinations, and Basis Vector](https://youtu.be/k7RM-ot2NWY?si=C38tMZgo97TyXN-4)
 - [Linear Transformation and Matrices](https://youtu.be/kYB8IZa5AuE?si=a6uRwquDDI-bgItJ)
 - [Matrices Multiplication as Composition](https://youtu.be/XkY2DOUCWMU?si=Ydbrf1xcuRBsWU_V)
