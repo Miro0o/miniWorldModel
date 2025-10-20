@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Program Debugging & Defensive Programming](../../Program%20Debugging%20&%20Defensive%20Programming.md)
-↗ [Disassembly Techniques](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Disassembly%20Techniques/Disassembly%20Techniques.md)
-↗ [Anti-Disassembly](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Disassembly/Anti-Disassembly.md)
+↗ [Disassembly Techniques](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Disassembly%20Techniques/Disassembly%20Techniques.md)
+↗ [Anti-Disassembly](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Disassembly/Anti-Disassembly.md)
 
 ↗ [Compilation & Program Loading Tools](../Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 ↗ [Assemblers](../Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)

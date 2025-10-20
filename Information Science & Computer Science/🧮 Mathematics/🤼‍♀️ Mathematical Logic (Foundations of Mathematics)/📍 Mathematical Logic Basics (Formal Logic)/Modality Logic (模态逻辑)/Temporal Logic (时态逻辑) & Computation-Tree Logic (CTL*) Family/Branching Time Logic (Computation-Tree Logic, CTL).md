@@ -29,7 +29,7 @@ $$\begin{aligned} & \phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \e
 #### Existential Normal Form of CTL (ECTL)
 Alternatively, we can get rid of the universal quantifier: $$\begin{aligned} &\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi \\
 & \psi ::= \bigcirc\phi ∣ \Box\phi ∣ \phi_1\cup\phi_2\end{aligned}$$
-or, only state formulas: $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$$
+or, only state formulas: $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$$
 ![](../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2022.28.42.png)
 
 

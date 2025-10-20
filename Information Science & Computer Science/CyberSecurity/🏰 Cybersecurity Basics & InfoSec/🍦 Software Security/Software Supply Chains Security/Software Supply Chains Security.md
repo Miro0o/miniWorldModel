@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [LLM & Supply Chain Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
-↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 ↗ [Malware Discovery Tools & Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malware%20Discovery%20Tools%20&%20Scanners.md)
-↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
+↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 - ↗ [Vulnerability Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
 
 ↗ [CLI Package & Software Management](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
@@ -102,7 +102,7 @@
 #### Code Analysis & Software Testing
 ↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 
 > **静态应用程序安全测试(SAST)**、**动态应用程序安全测试(DAST)**、**交互式应用程序安全测试 (IAST)** 和**运行时应用程序扫描保护(RASP)工具**，以及明智地使用渗透测试，可以帮助企业测试他们自己的内部代码，并提供对第三方代码的进一步检查，以作为应对风险的后盾。
 > 

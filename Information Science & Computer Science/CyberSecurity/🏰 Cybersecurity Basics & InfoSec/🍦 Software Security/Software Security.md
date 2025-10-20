@@ -9,7 +9,7 @@
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [Software Testing](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Vulnerability Exploration（漏洞利用）](🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Exploration（漏洞利用）.md)
+↗ [Vulnerability Exploration（漏洞利用）](🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Exploration（漏洞利用）.md)
 
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)
 - ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)

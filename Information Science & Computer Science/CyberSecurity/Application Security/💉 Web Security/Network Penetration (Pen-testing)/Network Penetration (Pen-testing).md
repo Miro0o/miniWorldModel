@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+
 ↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 - ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
 
@@ -38,7 +40,7 @@ https://www.amazon.com/Mastering-Linux-Advanced-Penetration-Testing-ebook/dp/B07
 https://hak5.org/
 Founded in 2005, Hak5's mission is to advance the InfoSec industry. We do this through our award winning podcasts, leading pentest gear, and inclusive community – where all hackers belong.
 
-https://github.com/juliocesarfort/public-pentesting-reports
+👍 https://github.com/juliocesarfort/public-pentesting-reports
 A repository containing public penetration test reports published by consulting firms and academic security groups.
 Maintained by Julio @ Blaze Information Security ([https://www.blazeinfosec.com](https://www.blazeinfosec.com/))
 
@@ -50,6 +52,8 @@ Recurity Labs specializes in IT-security consulting services, focusing on the mo
 ## Intro
 ### Contents /Objective of Penetration Test (And Other Security Exercise)
 ![](../../../../../Assets/Pics/Pasted%20image%2020251001215700.png)
+
+> ↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
 
 > 📖 Mastering Kali Linux for Advanced Penetration Testing
 
@@ -88,6 +92,8 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 - ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 - ↗ [CAPEC (Common Attack Pattern Enumerations and Classifications)](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/CAPEC%20(Common%20Attack%20Pattern%20Enumerations%20and%20Classifications).md)
 
+↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+
 ![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
 <small><a>https://attack.mitre.org/matrices/enterprise/</a></small>
 
@@ -110,7 +116,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Discovery (TA0007)
 	- Attack Surface & Vulnerability Assessment
 		- ↗ [Attack Surface Management (ASM)](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
-		- ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Sections/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
+		- ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 - ↗ [Delivery Phase](Delivery%20Phase/Delivery%20Phase.md)
 	- Weaponization
 		- ↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
@@ -124,7 +130,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Execution (TA0002)
 - ↗ [Exploit or Compromise Phase](Exploit%20or%20Compromise%20Phase/Exploit%20or%20Compromise%20Phase.md)
 	- Installation
-		- ↗ [Malware (Malicious Code), Analysis, and Detection](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection.md)
+		- ↗ [Malware (Malicious Code), Analysis, and Detection](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection.md)
 	- Credential Access (TA0006)
 		- ↗ [Password Attack](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 			- (↗ [Credentials & Password Related Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md))

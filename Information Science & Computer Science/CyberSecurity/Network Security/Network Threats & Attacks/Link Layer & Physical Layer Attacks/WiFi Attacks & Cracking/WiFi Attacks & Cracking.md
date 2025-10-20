@@ -29,3 +29,4 @@ Advanced Bruteforce WiFi WPA2 cracking with GPU and Hashcat
 
 ## Ref
 [A Beginner’s Guide to Wi-Fi Attacks | medium]: https://medium.com/infosecmatrix/a-beginners-guide-to-wi-fi-attacks-33760f42020e
+[Wi-Fi Deauth Attacks: Network Security Essentials]: https://www.startupdefense.io/cyberattacks/wi-fi-deauth-attack

@@ -15,8 +15,8 @@
 
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-- ↗ [Software Analysis & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
-- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+- ↗ [Software (Program) Analysis & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Software%20(Program)%20Analysis%20&%20Binary%20Engineering.md)
+- ↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 - etc.
 
 ↗ [Data Security](../../Data%20Security/Data%20Security.md)
@@ -44,22 +44,33 @@
 <small>cyber security and risk management</small>
 
 
-### Glossary
-#### IOA (Indicator of Attack)
+### Threat Actors
+![](../../../../Assets/Pics/Screenshot%202025-10-18%20at%2017.29.20.png)
 
+
+### Threat Glossaries
+#### IOA (Indicator of Attack)
 
 #### IOC (Indicator of Compromise)
 
-
 #### POC (Proof of Concepts)
 
-
 #### EXP (Exploit)
-↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🏴‍☠️%20Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
+↗ [Techniques - Vulnerability Disclosure & Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 
 
-### TTP (Tactics, Techniques, and Procedure)
+### Threat Models
+↗ [Threat Models & Threat Modeling](🏕️%20Threat%20Models%20&%20Threat%20Modeling/Threat%20Models%20&%20Threat%20Modeling.md)
+
+↗ [Attack Simulation - Red, Blue, Purple, White](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Kill Chain & Security Tool Box](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
+
 ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
+
+
+### Cybercrime-As-A-Service (CAAS)
 
 
 
