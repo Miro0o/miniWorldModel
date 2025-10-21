@@ -25,6 +25,9 @@ Abstract interpretation: approximated semantics
 
 ### Program Abstraction
 
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
+<small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function. Mathematically, Galois connection only describe relations between two ordered sets. Here, in program abstraction, we use Galois connection to describe such two specific ordered sets of concrete domain and abstract domain. But don't mis-understand that concretion and abstraction are concepts from Galois connection. They are not.</small>
+
 
 ### Abstract Interpretation of Program
 > 📖 Static Program Analysis  | Anders Møller and Michael I. Schwartzbach
@@ -34,7 +37,9 @@ The theory of abstract interpretation provides a solid mathematical foundation f
 
 
 ## 🎯 Program Analysis Abstraction & Interpretation- In Mathematics
-### Posets & Lattice
+### Prerequisite 👨🏼‍🍼
+#### Posets & Lattice
+> Prerequisite or background knowledge 🤔
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra /Group, Ring, and Field ⭐](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md#Group,%20Ring,%20and%20Field%20⭐)
 > ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
 > <small>【群环域串讲】 <a>https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a></small>
@@ -55,12 +60,12 @@ Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$�
 & \top\lfloor\rfloor a = \top \\
 & a \lceil\rceil\bot = \bot
 \end{aligned}$$
-We can use Hasse Diagram to draw a lattice.
-#### Monotonicity & Fixed Point Axiom
+We can use Hasse Diagram to draw a lattice:
+![](../../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.42.08.png)
+The reason why they are called latices is that they can be drawn using Hasse digrams which gives these nice structures, which looks like a wooden lattice.
+##### Monotonicity & Fixed Point Axiom
 ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
-
-
-### Galois Connection & Safe-Approximation ⭐
+#### Galois Connection & Safe-Approximation ⭐
 > ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 > 
@@ -69,16 +74,16 @@ We can use Hasse Diagram to draw a lattice.
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.4
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
-<small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function.</small>
+<small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function. Mathematically, Galois connection only describe relations between two ordered sets. Here, in program abstraction, we use Galois connection to describe such two specific ordered sets of concrete domain and abstract domain. But don't mis-understand that concretion and abstraction are concepts from Galois connection. They are not.</small>
 
 A **Galois connection** is a relationship between two ordered sets $(C, \sqsubseteq_C)$ and $(A, \sqsubseteq_A)$, where we can abstract information from the concrete domain into the abstract domain $\alpha : C \to A$ while preserving the order if going back $\gamma : A \to C$. $\alpha$ explains how to abstract a value, and $\gamma$ explains what the abstraction means.
 
-Because the abstraction might be lossy ("abstraction" 🤔 ), it is not the case that if we abstract a value we get back the same concrete value $\gamma(\alpha(c)) \ne c$. Instead, ==a Galois connection satisfies the following rule: $$ \forall c \in C, a \in A.\; c \sqsubseteq_C \gamma(a) \Leftrightarrow \alpha(c) \sqsubseteq_A a $$==
+Because the abstraction might be lossy ("abstraction" 🤔 ), it is not the case that if we abstract a value we get back the same concrete value $\gamma(\alpha(c)) \ne c$. What we can be sure, however, is the preservation of the order, as pointed out by Galois Connection. ==A Galois connection satisfies the following rule: $$ \forall c \in C, a \in A.\; c \sqsubseteq_C \gamma(a) \Leftrightarrow \alpha(c) \sqsubseteq_A a $$==
 It states that, if we have a concrete value $c$, and abstract it $\alpha(c)$, then any value “larger” than this abstraction $a$ will concretize to a value $\gamma(a)$ that is “larger” than the original value (see figure above). At first this might not seem useful, but ==if we satisfy this rule, we get the following laws for free==: $$ \begin{aligned}
 c \sqsubseteq_C \gamma(\alpha(c))) \quad & \text{– if we abstract we only increase in size} \\
 \alpha(\gamma(a)) \sqsubseteq_A a \quad & \text{– if we concretize we only decrease in size} \\
 \alpha(\gamma(\alpha(c))) = \alpha(c) \quad & \text{– we don’t keep losing information (only lose once)} \\
-\gamma(\alpha(\gamma(a))) = \gamma(a) \quad & \text{– ... in both directions} \\
+\gamma(\alpha(\gamma(a))) = \gamma(a) \quad & \text{– ... above applies for both directions} \\
 \gamma(a_1 \sqcup_A a_2) = \gamma(a_1) \sqcup_C \gamma(a_2) \quad & \text{– $\gamma$ preserves joins} \\
 \alpha(c_1 \sqcap_C c_2) = \alpha(c_1) \sqcap_A \alpha(c_2) \quad & \text{– $\alpha$ preserves meets}
 \end{aligned} $$
@@ -87,7 +92,7 @@ The first two rules give us confidence that whatever abstraction we choose, we *
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
 
 ==In practice, Galois connections allows us to map our infinite domain of may or must analyses into a more manageable abstract domain, while giving us guarantees that we are still correctly over- or under-estimating (safe-approximation).==
-#### Adjunction and Testing
+##### Adjunction and Testing
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md) "adjunct functor"
 
@@ -107,15 +112,14 @@ pretty(parse(pretty(a))) == pretty(a)
 # Bonus for all strings s:
 parse(pretty(parse(s))) == parse(s)
 ```
-
-
-### Abstract Operations
+#### Abstract Operations
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.5Abstract 
 > Operations in the Sign Domain. See below "👉 The Sign Analysis"
 
-Finally, we have reached the fun part. We can now define **operations in the abstract domain** that mimic the operations in the concrete domain. Because our concrete domain is the set of integers, we can define $+_{2^{i32}}$ as the operation over the product: $$ A +_{2^{i32}} B = \{\, a + b \mid a \in A, b \in B \,\} $$
-For example: $$ \{1, 3\} +_{2^{i32}} \{0, 10\} = \{1, 3, 11, 13\} $$
+Finally, we have reached the fun part. Before, we only defined how objects (operated by operators) in a program can be mapped from concrete domain to abstract domain. **However, remember a program consist of both objects and operations: $P(obj, opr)$. Or, equivalently, each state $S$ of a program $P$ consists of variables and operations, $S(var, opr)$ .** (The state machine semantics of program, ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
 
+We can now define **operations in the abstract domain** that mimic the operations in the concrete domain. Because our concrete domain is the set of integers, we can define $+_{2^{i32}}$ as the operation over the product: $$ A +_{2^{i32}} B = \{\, a + b \mid a \in A, b \in B \,\} $$
+For example: $$ \{1, 3\} +_{2^{i32}} \{0, 10\} = \{1, 3, 11, 13\} $$
 Now we can also define the **plus abstract domain**: $$ \begin{array}{lll}
 \{+\} +_{\text{Sign}} \{+\} &=& \{+\} & \{+\} +_{\text{Sign}} \{-\} &=& \{-, +, 0\} \\
 \{+\} +_{\text{Sign}} \{0\} &=& \{+\} & \{0\} +_{\text{Sign}} \{+\} &=& \{+\} \\
@@ -127,23 +131,175 @@ But how do we know if we have implemented our abstract operation correctly? Sinc
 The above equation requires us to create huge sets of values. Instead, we can use our **Galois connection** to rewrite the equation to see that we only have to show the following. ==Essentially, abstracting the result of an operation should be smaller than abstracting and then doing the operation in the abstract domain:== $$
 \alpha(A +_{2^{i32}} B) \subseteq \alpha(A) +_{\text{Sign}} \alpha(B) $$
 
+### Bounded Static Abstraction & Interpretation
+> Cousot, Patrick; Cousot, Radhia (1977). _Abstract interpretation._ [`doi:10.1145/512950.512973`](https://www.doi.org/10.1145/512950.512973) [link](https://doi.org/10.1145/512950.512973)
+> Cousot, Patrick; Cousot, Radhia (1979). _Systematic design of program analysis frameworks._ [`doi:pdf/10.1145/567752.567778`](https://www.doi.org/pdf/10.1145/567752.567778) [link](https://doi.org/pdf/10.1145/567752.567778)
+> Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
+
+In practice, Galois connections allows us to map our infinite domain of may or must analyses into a more manageable abstract domain, while giving us guarantees that we are still correctly over- or under-estimating (safe-approximation). In the following example, we explain above points by instantiate how to map static analysis (our $\text{step}$ function) from concrete domain to abstraction. 
+
+> ==Once we leave the concrete domain and enter the abstract domain, the analysis done here (at this abstraction domain) is what we call the "abstract interpretation"==, as oppose to "program interpretation", which happens at the concrete domain where you interpret (or transfer) a program using different semantics.
+
+Let's assume we are building a **may analysis**. Since we want to over-approximate our $\text{step}()$ function, (recall ↗ [SCA (Static Code Analysis) & SAST /BSA in Formal Definition](../SCA%20(Static%20Code%20Analysis)%20&%20SAST.md#BSA%20in%20Formal%20Definition)) we therefore introduce an abstract domain $(A, \sqsubseteq_A)$ that has an abstract stepping function $\text{step}_A()$.  We assume the Galois connection $(2^{\text{Trace}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (A, \sqsubseteq_A)$.  We can use this new abstract stepping function to define a **bounded static analysis** of depth $n$:  $\text{BSA}_A^n = \text{step}_A^n$. We define $\text{step}_A^n$ recursively: 
+$$\begin{aligned}
+& \text{step}_A^0 = \alpha(I_P) \\
+& \text{step}_A^n = \text{step}_A(\text{step}_A^{n-1}) \sqcup_A \text{step}_A^{n-1}
+\end{aligned}
+$$
+We can prove by induction over $n$ that stepping in the abstract domain is in fact a may analysis $\text{BSA}^n \subseteq \gamma(\text{BSA}_A^n)$, given that 
+$$
+\text{step}(T) \cup T \subseteq \gamma(\text{step}_A(\alpha(T)) \sqcup_A \alpha(T)).
+$$
+> **Proof?**
+> Using induction over $n$, show that the following is true:  $$ \text{step}(T) \cup T \subseteq \gamma(\text{step}_A(\alpha(T)) \sqcup_A \alpha(T)) \implies \text{BSA}^n \subseteq \gamma(\text{BSA}_A^n) $$
+
+We can also show that $\text{step}(T) \subseteq \gamma(\text{step}_A(\alpha(T)))$ is a **stronger statement**, and is sufficient to prove the above, by noting that $\text{step}(T) \cup T \subseteq \gamma(\text{step}_A(\alpha(T)) \sqcup_A \alpha(T)).$ From $T \subseteq \gamma(\alpha(T))$, and using that $\gamma$ preserves joins, we get: 
+$$ \text{step}(T) \cup T \subseteq
+\gamma(\text{step}_A(\alpha(T)) \cup \gamma(\alpha(T))) 
+= 
+\gamma(\text{step}_A(\alpha(T)) \sqcup_A \alpha(T)) $$
+Finally, as it is very hard to talk about the concrete domain (since it is infinite), we can use the Galois connection again to see that we only have to show: 
+$$ \alpha(\text{step}(T)) \sqsubseteq_A \text{step}_A(\alpha(T))$$
+The above statement basically means, the abstraction of our original **program interpretation**, is less ($\sqsubseteq_A$) than the **abstract interpretation** of the original program.
+
+> To show this, follow sections below: state abstraction, per-instruction abstraction, per-variable abstraction, and variables abstractions.
 
 
-## 🎯 Program Analysis Abstraction & Interpretation - In Practice 
-### 👉 The Sign Analysis
+---
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.5
+
+One great thing about Galois connections is that they compose. This mean we can create one long chain: 
+$$\begin{aligned} (2^{Trace}, \ \subseteq) & \leftrightarrow^\alpha_\gamma \ (2^{State}, \subseteq) &\text{State Abstraction} \\
+& \leftrightarrow^\alpha_\gamma \ (P_C,\sqsubseteq_{P_C}) &\text{Per-Instruction Abstraction} \\
+& \leftrightarrow^\alpha_\gamma \ (P_V,\sqsubseteq{P_V}) &\text{Per-Variable Abstraction} \\
+& \leftrightarrow^\alpha_\gamma \ (P_V[Sign], \sqsubseteq_{P_C[Sign]}) &\text{Variables Abstraction}
+\end{aligned}$$
+#### The State Abstraction
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:state-abstraction
+
+The first, and most useful abstraction, is the **state abstraction**. Here we throw away everything from the trace except the final state (noted as $\text{State or } S$) of the trace: 
+$$ (2^{\text{Trace}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (2^{\text{State}}, \subseteq) $$
+We can define the abstraction as the set of end states of the traces and the concretion as the set of traces that end in one of the states: 
+$$\begin{aligned}
+& \alpha(T) = \{ \tau_{|\tau|} \mid \tau \in T \} \\
+& \gamma(S) = \{ \tau \mid s \in S, \tau \in \text{Trace}, \tau_{|\tau|} = s \}
+\end{aligned}$$
+This is a useful abstraction for us, because we do not need to know where the trace came from to figure out if an assertion error exists in the program — only that a trace ends in an assertion error.
+
+We can now define $\text{step}_{\text{State}}$ as only stepping the final state of each trace: 
+$$\text{step}_{\text{State}}(S) = \{ s' \mid s \in S, \delta(s, s') \}$$
+> Check that $\text{step}_{\text{State}}$ is an abstract operation of `step`:  $$\alpha(\text{step}(T)) \subseteq \text{step}_{\text{State}}(\alpha(T))$$
+
+Now let $\text{BSA}_{\text{State}}^n = \text{step}_{\text{State}}^n(\alpha(I_P))$. It is now clear by induction on $n$ that $\text{BSA}^n \subseteq \gamma(\text{BSA}_{\text{State}}^n)$. So if there exists an assertion error within $n$ steps, then there exists a trace $\tau \in \text{BSA}^n$ such that $\tau_{|\tau|} = \text{err}(\text{‘assertion error’}) \quad\text{and}\quad |\tau| \le n$.
+
+From our Galois connection we can see that  
+$$\begin{aligned}
+\{ \tau \mid \text{err}(\text{‘assertion error’}) \} 
+& \subseteq \text{BSA}^n 
+\subseteq \gamma(\text{BSA}_{\text{State}}^n) \\
+
+\implies 
+& \alpha(\{ \tau \mid \text{err}(\text{‘assertion error’}) \}) \\
+& \subseteq \{ \text{err}(\text{‘assertion error’}) \} \\
+& \subseteq \text{BSA}_{\text{State}}^n
+\end{aligned}$$
+Which means that if $\text{err}(\text{‘assertion error’}) \notin \text{BSA}_{\text{State}}^n$, then $\{ \tau \mid \text{err}(\text{‘assertion error’}) \} \notin \text{BSA}^n$, Which is exactly the guarantee we are looking for in a **may analysis**.
+#### The Per-Instruction Abstraction
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-instruction-abstraction
+
+In this abstraction, we want to take advantage of executing the same instruction in states with the same program counter.
+
+Let's focus on a JVM **without a method stack**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)). We'll get back to talk about how to handle the method stack in later sections.  
+
+We can abstract this by collecting the states per $\iota$. Let $\mathbf{P_c} = \iota \rightarrow 2^{\text{State}}$ be a mapping from program counters to the program state space. $\mathbf{P_c}$ is a lattice with partial order $\sqsubseteq_{\mathbf{P_c}}$ where one mapping is less than ($\sqsubseteq_{\mathbf{P_c}}$) another if all states are smaller than the other,  
+and $\bigsqcup_{\mathbf{P_c}}$ is pointwise set union ($\cup$) of states. Then we have our Galois connection between the original program and per-instruction abstraction:
+$$(2^{\text{State}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (\mathbf{P_c}, \sqsubseteq_{\mathbf{P_c}})$$
+
+Now we can write a stepping function that can step all states with the same instruction at once, $\text{step}_{\iota}$, and then merge the result into the other states:
+$$\text{step}_{\mathbf{P_c}}(C) =
+\bigsqcup_{\mathbf{P_c}}
+\left\{
+
+\iota' \mapsto 
+\left\{
+\langle \sigma', \lambda', \iota' \rangle
+\right\}
+\ \middle| \
+
+\begin{aligned}
+& (\iota \mapsto S) \in C, \\
+& S' = \text{step}_{\iota}(S), \\
+& \langle \sigma', \lambda', \iota' \rangle \in S'
+\end{aligned}
+
+\right\}$$
+#### The Per-Variable Abstraction
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-variable-abstraction
+
+We are now faced with our first hard choice. 🤔
+
+We would love to use the **Sign abstraction** that we built in the previous section. One way of doing that is compressing the state, so that instead of having a set of states, we distribute the content of the locals (variables in current state) and stack (method stack, or operators).
+
+So instead of having a set of states, we have a **pair of abstract locals and abstract stack**.  
+The abstract locals are now a mapping from natural numbers to a power set of possible values (variables in current state), while the abstract stack is a stack of possible values (operators?): 
+$$\mathbf{P_v} = \iota \rightarrow
+\{(\mathbb{N} \mapsto (2^{V_a})) \times (2^{V_a})^* \}\cup \{ \text{ok}, \text{err}('.') \}$$
+
+Since the stack and the locals are typed at each instruction, these are actually sets of integers, which we know how to abstract using the **Sign abstraction**.
+
+Furthermore, $\mathbf{P_v}$ is also a partially ordered set, by pointwise comparing the set of variables, and a lattice by pointwise joining and meeting the sets of variables.
+
+We can also see that this is a Galois connection: 
+$$\mathbf{P_c} \leftrightarrow^{\alpha}_{\gamma} \mathbf{P_v}$$
+
+The problem with this abstraction -- and the reason this choice is hard -- is that this is the first abstraction that **severely over-approximates** our problem. 
+
+(More about this next time.)
+##### Variable Abstractions
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.4
+
+Finally, we are at a point where we can use our Sign Abstraction, by using it to abstract the sets of variables.
+$$\mathbf{P_v} [A] = \iota \rightarrow
+\{(\mathbb{N} \mapsto A) \times A^* \}\cup \{ \text{ok}, \text{err}('.') \}$$
+If we can see $A$ is an abstraction of $2^{V_\sigma}$, then we also get a Galois connection from $\mathbf{P_V}$ to $\mathbf{P_V}[A]$: $$(2^{\mathbf{V}_\sigma}, \subseteq) 
+\leftrightarrow^{\alpha}_{\gamma} (
+A, \sqsubseteq_A)
+
+\implies
+
+(\mathbf{P_V}, \sqsubseteq_{\mathbf{P_V}})
+\leftrightarrow^{\alpha}_{\gamma} 
+(\mathbf{P_V}[A], \sqsubseteq_{\mathbf{P_V}[A]})$$
+Specifically, we get this in our Sign Analysis: 
+$$(\mathbf{P_V}, \sqsubseteq_{\mathbf{P_V}})
+\leftrightarrow^{\alpha}_{\gamma} 
+(\mathbf{P_V}[\text{Sign}], \sqsubseteq_{\mathbf{P_V}[\text{Sign}]})$$
+
+
+### Unbounded Static Abstraction & Interpretation
+
+
+
+## 🎯 Program Analysis Abstraction & Interpretation - In Practice
+### Examples For Beginners 🐣
+#### 👉 Sign Abstraction (The Sign Analysis)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.1
 > Also, see above "Abstract Operations"
 
 Assume that we are working with all the possible integer values that a variable has at some point in the program. It would be much easier to simply keep track of whether the set contains positive, negative, or zero values.
 
 We can represent this as a set that only contains three elements $\{ +, -, 0 \}$, i.e. exactly zero ($0$), larger than zero ($+$), and smaller than zero ($-$). This set is of size $3!$, which is much easier to work with than the set of size $2^{32}!$. In the following sections, we are going to refer to this set as **Sign**. $$\text{Sign} = \{ +, 0, - \} $$
-We call Sign an **abstraction**, as we can convert the concrete domain of integers into the abstract domain of **Sign**. We call this conversion the abstraction **$\alpha$**: $$ \begin{aligned}
+We call Sign an **abstraction**, as we can convert the concrete domain of integers into the abstract domain of **Sign**. We call this conversion the **abstraction $\alpha$**: $$ \begin{aligned}
 \alpha(\{1, 2, 3\}) &= \{ + \} \\
 \alpha(\{0\}) &= \{ 0 \} \\
 \alpha(\{-1, 3\}) &= \{ +, - \} \\
 \alpha(\{-1, 0, 3\}) &= \{ 0, +, - \}
 \end{aligned} $$
-In our Sign abstraction, we use set inclusion as our order $\sqsubseteq_{Sign} = \subseteq$ and use the intersection and union of the underlying set as the meet ($\lceil\rceil$) and join ($\lfloor\rfloor$) of our lattice. $\bot=\emptyset$ and $\top = \{+,−,0 \}$.
+In our Sign abstraction, we use set inclusion as our order $(\sqsubseteq_{Sign} = \subseteq)$ and use the intersection and union of the underlying set as the meet ($\lceil\rceil_{sign} = \cap$) and join ($\lfloor\rfloor_{sign} = \cup$) of our lattice. Thus, obviously we have $\bot=\emptyset$ and $\top = \{+,−,0 \}$.
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.42.08.png)
 
@@ -160,35 +316,7 @@ We can see that there exists a **Galois connection** between our concrete intege
 - Since $\alpha(\{0, 1\}) \sqsubseteq \{0, +\} \sqsubseteq \{0, +, -\},$  
 - and since  $\gamma(\{0, +\}) = \mathbb{Z}^{0, +} \quad \text{and} \quad \gamma(\{0, +, -\}) = \mathbb{Z}^{0, +, -},$
 - then we get that $\{0, 1\} \subseteq \mathbb{Z}^{0, +} \subseteq \mathbb{Z}.$
-
-
-### Bounded Abstraction & Interpretation
-> Cousot, Patrick; Cousot, Radhia (1977). _Abstract interpretation._ [`doi:10.1145/512950.512973`](https://www.doi.org/10.1145/512950.512973) [link](https://doi.org/10.1145/512950.512973)
-> Cousot, Patrick; Cousot, Radhia (1979). _Systematic design of program analysis frameworks._ [`doi:pdf/10.1145/567752.567778`](https://www.doi.org/pdf/10.1145/567752.567778) [link](https://doi.org/pdf/10.1145/567752.567778)
-> Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
-
-> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
-
-In practice, Galois connections allows us to map our infinite domain of may or must analyses into a more manageable abstract domain, while giving us guarantees that we are still correctly over- or under-estimating (safe-approximation).
-
-> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
-> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.5
-
-One great thing about Galois connections is that they compose. This mean we can create one long chain: $$\begin{aligned} (2^{Trace}, \ \subseteq) & \leftrightarrow^\alpha_\gamma \ (2^{State}, \subseteq) &\text{State Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_C,\sqsubseteq_{P_C}) &\text{Per-Instruction Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_V,\sqsubseteq{P_V}) &\text{Per-Variable Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_V[Sign], \sqsubseteq_{P_C[Sign]}) &\text{Variables Abstraction}
-\end{aligned}$$
-#### The State Abstraction
-
-#### The Per-Instruction Abstraction
-
-#### The Per-Variable Abstraction
-
-#### Variables Abstractions
-
-
-### Unbounded Abstraction & Interpretation
+#### 👉 Interval Abstraction
 
 
 

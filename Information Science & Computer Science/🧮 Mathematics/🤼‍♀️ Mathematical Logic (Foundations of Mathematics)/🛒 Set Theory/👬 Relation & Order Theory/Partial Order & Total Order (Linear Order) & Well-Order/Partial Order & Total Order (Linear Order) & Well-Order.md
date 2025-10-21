@@ -43,7 +43,7 @@ Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other 
 若$S$只包含两个元素$a$和$b$，我们也可以将$\lfloor\rfloor S$写为$a\lfloor\rfloor b$，将$\lceil\rceil S$写为$a\lceil\rceil b$。
 
 关于上下界的两个特性：
-1. 不是所有的poset都有lub或glb。
+1. ==不是所有的poset都有lub或glb。== (所以，不是所有的偏序集可以称之为格)
 2. 如果一个poset有lub或glb，它一定是唯一的。这一点可以借助偏序关系的antisymmetry特点证明。
 #### Lattice (Poset Structure)
 > ↗ [Lattice (Set Theory)](Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)

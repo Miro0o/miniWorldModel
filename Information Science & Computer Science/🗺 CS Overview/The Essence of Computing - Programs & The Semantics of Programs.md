@@ -165,14 +165,14 @@ $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P),
 > 
 > ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 #### 1️⃣ Program's State Machine: Application Perspective
-C 程序的状态机模型 (语义，semantics)
+C 程序的状态机模型1 (语义，semantics)
 - 状态 = 堆 + 栈
 - 初始状态 = `main` 的第一条语句
 - 迁移 = 执行一条简单C语句
     - 任何 C 程序都可以改写成 “非复合语句” 的 C 代码
     - [真的有这种工具](https://cil-project.github.io/cil/) (C Intermediate Language) 和[解释器](https://gitlab.com/zsaleeba/picoc)
 
-C 程序的状态机模型 (语义，semantics)
+C 程序的状态机模型2 (语义，semantics)
 - 状态 = stack frame 的列表 (每个 frame 有 PC) + 全局变量
 - 初始状态 = main(argc, argv), 全局变量初始化
 - 迁移 = 执行 top stack frame PC 的语句; PC++
@@ -181,7 +181,7 @@ C 程序的状态机模型 (语义，semantics)
 
 应用：将任何递归程序就地转为非递归
 #### 2️⃣ Program's State Machine: CPU(Computer) Perspective
-C 程序的状态机模型 (语义，semantics)
+C 程序的状态机模型3 (语义，semantics)
 - 状态 = 内存 MM + 寄存器 RR
 - 初始状态 = (稍后回答)
 - 迁移 = 执行一条指令

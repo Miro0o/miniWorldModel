@@ -155,6 +155,11 @@ Finally, we have type 0 languages, is a set of words which can be recognized by 
 
 
 ### Program Abstraction & Abstract Interpretation ⭐
+For both bounded or unbounded static analysis. ❤️
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
+<small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function.</small>
+
 ↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 
@@ -182,13 +187,17 @@ The **Bounded Static Analysis** on a program $P$ can be defined as the set of tr
 In the definition of $\text{step}_P()$, $\delta$ is the transition relation defined by the **single-step semantics**,  
 and $\tau' s$ means appending $s$ to $\tau'$. Since we are always talking about the same program $P$, we'll sometimes omit it.
 
-Now, we can define the **set of traces of up to length $n$**, as applying $\text{step}$ to the initial state $n$ times, and taking the union of the results. $$\begin{aligned}
+Now, we can define the **set of traces of up to length $n$**, as applying $\text{step()}$ to the initial state $n$ times, and taking the union of the results: $$\begin{aligned}
 & \text{step}_P^0 = I_P \\
 & \text{step}_P^n = \text{step}_P(\text{step}_P^{n-1}) \cup \text{step}_P^{n-1} \\
 & \text{BSA}_P^n = \text{step}_P^n
 \end{aligned}$$
 Now, we can check for **assertion errors** down to depth $n$. Let's call this $\text{BAE}_P^n$, by seeing if any trace ends in an assertion error: $$ \text{BAE}_P^n \;\equiv\; \exists(\tau s) \in \text{BSA}_P^n \;\wedge\; s = \text{err}(\text{‘assertion error’}) $$
 #### Safe-Approximation & May /Must Analysis
+> 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:1.2
+
+Sadly, it is infeasible, and sometimes impossible, to do computations over all traces at ones. Therefore, when designing an analysis, we either underestimate the set of traces (this is called a _must analysis_), or overestimate the set of traces (which is called a _may analysis_). A **must** analysis is named like that, because we know what the program **must** do, and a **may** analysis is called that because we know what the program **may** do.
+
 In a **may analysis**, we **overestimate** every step, and in a **must analysis**, we **underestimate** every step: $$ \text{step}_{\text{must}}(T) \subseteq \text{step}(T) \subseteq \text{step}_{\text{may}}(T) $$
 Naturally, we'll see that: $$ \text{step}_{\text{must}}^n \subseteq \text{step}^n \subseteq \text{step}_{\text{may}}^n $$
 Essentially, 

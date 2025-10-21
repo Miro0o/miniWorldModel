@@ -21,7 +21,7 @@
 - Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
 - Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
 
-https://people.engr.tamu.edu/guofei/links.htm
+👍 https://people.engr.tamu.edu/guofei/links.htm
 - Research Engines
 	- [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/DynWel.jsp) , [ACM Digital Library](http://portal.acm.org/dl.cfm?coll=portal&dl=ACM) , Springer [LNCS](http://www.springerlink.com/content/105633/),  [DBLP](http://www.informatik.uni-trier.de/%7Eley/db/) , [CiteSeer](http://citeseer.ist.psu.edu/)  
 	- [Google Search](http://www.google.com/)
@@ -42,7 +42,7 @@ https://people.engr.tamu.edu/guofei/links.htm
 - Computing: [Java Reference](http://java.sun.com/j2se/1.4.2/docs/api/index.html) , [C/C++ Reference](http://www.cppreference.com/) , [C++ resource](http://www.cplusplus.com/) , [C++ STL](http://www.sgi.com/tech/stl/index.html) , [LaTeX Reference](http://www.whoishostingthis.com/resources/tex-latex/) , [Latex Tutorial](http://www.maths.tcd.ie/%7Edwilkins/LaTeXPrimer/), [Matlab Function](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml) , [Cliff Zou's Notes on Linux](http://tennis.ecs.umass.edu/%7Eczou/linux.html) , [Algorithm Repository](http://www.cs.sunysb.edu/%7Ealgorith/index.html) , [ns-2](http://www.isi.edu/nsnam/ns/index.html) , [Engineering Statistic](http://www.itl.nist.gov/div898/handbook/index.htm) , [Some Computing Resources](http://amath.colorado.edu/computing/) , [Queueing Books Online](http://www2.uwindsor.ca/%7Ehlynka/qonline.html) , [MIT Open Courseware](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/index.htm) , [Cryptology Pointers](http://research.cyber.ee/%7Elipmaa/crypto/) , [CRA job](http://www.cra.org/main/cra.jobs.html), [Security tools](http://www.insecure.org/tools.html) , [GNUPLOT](http://www.duke.edu/%7Ehpgavin/gnuplot.html), [GNUPLOT 2](http://t16web.lanl.gov/Kawano/gnuplot/index-e.html), [GAWK](http://www.gnu.org/software/gawk/manual/gawk.html), [Bash](http://www.tldp.org/LDP/abs/html/), [Mastering VI](http://www.eng.hawaii.edu/Tutor/vi.html), [Python Tutorial](http://docs.python.org/tut/tut.html) 
 - [Some Computer Security FAQ Resources](http://www.antivirusware.com/articles/computer-security.htm); Some other [infsec resources](http://resources.infosecinstitute.com/)
 
-计算机安全学术知名公众号：
+🔥 🔥 计算机安全学术知名公众号：
 - 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [[官网]](https://gossip.team/)
     - [G.O.S.S.I.P 圣诞特别篇 2023-12-25 安全研究人员的天梯排行榜](https://mp.weixin.qq.com/s/FPWnVv6zUQ7uk6C6iiyTDw)
     - [G.O.S.S.I.P 2024 新年祝福](https://mp.weixin.qq.com/s/F2nHOZcsREihJK1TqRaI5w)
@@ -61,10 +61,20 @@ https://people.engr.tamu.edu/guofei/links.htm
 - FuzzWiKi
 - 信息网络安全杂志
 
+🔥 🔥 https://comydream.github.io/journals-and-conferences/index.html
+- [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) by Jianying Zhou @ SUTD
+- [Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm) by Guofei Gu @ TAMU
+- [System Security Circus](https://www.s3.eurecom.fr/~balzarot/security-circus/index.html) by Davide Balzarotti @ Eurecom
+- [Security Researchers Ranking](https://nebelwelt.net/pubstats/top-authors-sys_sec.html) by Mathias Payer @ EPFL
+- [Security Paper Retrieval System](https://secpaper.cn/) by NISL @ THU
+- [Oakland, CCS, USENIX Security, and NDSS Acceptance Rate Statistics - liupz - GitHub](https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate)
+
 
 
 ## Intro
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
+> 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
+> 其实这世界上本没有水会，灌的人多了，也便成了水会。
 
 Computer Security
 
@@ -94,12 +104,6 @@ Computer Security
 一般认为 IEEE S&P (Oakland) 、NDSS 、USENIX Security 、ACM CCS 为安全四大顶会 (big 4) 。
 
 IEEE S&P 只在 California ，NDSS 只在 San Diego ，USENIX Security 仅有 5 届在美国之外，ACM CCS 在美国之外的次数就比较多了。
-- [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) by Jianying Zhou @ SUTD
-- [Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm) by Guofei Gu @ TAMU
-- [System Security Circus](https://www.s3.eurecom.fr/~balzarot/security-circus/index.html) by Davide Balzarotti @ Eurecom
-- [Security Researchers Ranking](https://nebelwelt.net/pubstats/top-authors-sys_sec.html) by Mathias Payer @ EPFL
-- [Security Paper Retrieval System](https://secpaper.cn/) by NISL @ THU
-- [Oakland, CCS, USENIX Security, and NDSS Acceptance Rate Statistics - liupz - GitHub](https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate)
 
 网络安全领域一类重要工作是测量 (measurement) ，这种工作也可能发在 IMC、SIGCOMM、WWW 等会议上。
 
@@ -107,7 +111,7 @@ IEEE S&P 只在 California ，NDSS 只在 San Diego ，USENIX Security 仅有 5 
 
 SOUPS 一般与 USENIX Security 合办。SOUPS 在前几天，USENIX Security 在后几天。
 
-> **PETS** is privacy focused, **DSN** is more systems than security, **ACSAC** is more US-centric; **RAID** and **ESORICS** are broad systems security, and **CSF** is ‘formal methods for security’ and often accepts foundational papers which don’t have the wider impact to appear at the big 
+> **PETS** is privacy focused, **DSN** is more systems than security, **ACSAC** is more US-centric; **RAID** and **ESORICS** are broad systems security, and **CSF** is ‘formal methods for security’ and often accepts foundational papers which don’t have the wider impact to appear at the big 4
 > https://twitter.com/gannimo/status/1520729894640132096
 
 IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM MM&Sec](https://dl.acm.org/conference/ih-n-mmsec/proceedings) 两个 Workshops 合并而来。
@@ -173,6 +177,18 @@ IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM 
 |                                  | [NordSec](http://www.nordsec.org/)                                        | Nordic Conference on Secure IT Systems                                                                                                                                 |
 |                                  | [I](http://event.cwi.nl/icits2011/)[CITS](http://event.cwi.nl/icits2011/) | International Conference on Information Theoretic Security                                                                                                             |
 |                                  | [MALCON](http://www.malwareconference.org/)                               | International Conference on Malicious and Unwanted Software                                                                                                            |
+
+
+### Others
+[「盐安整风」 (ACM CCS 2024 盐湖城安全会议整风，SIGSAC PROTECT)](https://www.sigsac.org/protect.html)
+
+后续事件：SIGSAC 主席 Prof. XiaoFeng Wang 被 Indiana University 开除、被 FBI 调查
+- 相关报道和讨论：
+    - [如何看待系统安全领域的科研大佬印第安纳大学的王晓峰教授被 FBI 抄家？ - 知乎](https://www.zhihu.com/question/1889764960453776161)
+    - [华人 Security 教授被调查 - 吵架 - 美卡论坛](https://www.uscardforum.com/t/topic/371780)
+    - [印第安纳大学 Rudy Professor XiaoFeng Wang 住处遭 FBI 搜查 - 一亩三分地](https://www.1point3acres.com/bbs/thread-1121042-1-1.html)
+    - [安全研究GoSSIP：G.O.S.S.I.P 特别报道 AASF Open Letter for Prof. XiaoFeng Wang - 微信公众平台](https://mp.weixin.qq.com/s/sXrwgt0kOSfwf27sPZNpng)
+    - [安全研究GoSSIP：G.O.S.S.I.P 特别推荐 2025-03-31 THE WHOLE WORLD’S WATCHING - 微信公众平台](https://mp.weixin.qq.com/s/1WcKn2Q0w-PyJp2i9Djo6Q)
 
 
 

@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [🌲 Road To CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+
 ↗ [(CS) Academics Roadmap & Tool Chain](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 - ↗ [Bib-Management](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
 
@@ -106,6 +108,34 @@ Academic ranks in the United States | wikipedia
 👍 [Computer Security Conference Ranking and Statistic | Guofei Gu](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
 - Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
 - Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
+
+👍 https://nebelwelt.net/pubstats/
+-  This page highlights the **system circus**, including the **system security circus**.
+- The focus of these statistics is on authors and top tier publications.
+- All code is available on [the HexHive GitHub.](https://github.com/HexHive/pubstats)
+- Do you have ideas, comments, or improvements? Reach out to [Mathias Payer](https://nebelwelt.net/).
+- Data was processed on 2025-08-28.
+Key motivation for this page is to provide an overview of the systems community, its publications, its authors, and its cliques.
+The data is sourced from DBLP (for publication data) and CSRankings (for affiliation data). The scripts process the data and create the necessary files for the web page, allowing a fast turnaround whenever new data is added to DBLP.
+
+Individual per-author statistics for different areas
+- [Systems: Architecture](https://nebelwelt.net/pubstats/top-authors-sys_arch.html)
+- [Systems: Networks](https://nebelwelt.net/pubstats/top-authors-sys_net.html)
+- [Systems: Security](https://nebelwelt.net/pubstats/top-authors-sys_sec.html)
+- [Systems: Databases](https://nebelwelt.net/pubstats/top-authors-sys_db.html)
+- [Systems: Design](https://nebelwelt.net/pubstats/top-authors-sys_design.html)
+- [Embedded Systems](https://nebelwelt.net/pubstats/top-authors-sys_embed.html)
+- [Systems: HPC](https://nebelwelt.net/pubstats/top-authors-sys_hpc.html)
+- [Mobile Systems](https://nebelwelt.net/pubstats/top-authors-sys_mob.html)
+- [Systems: Measurements](https://nebelwelt.net/pubstats/top-authors-sys_mes.html)
+- [Systems: OS](https://nebelwelt.net/pubstats/top-authors-sys_os.html)
+- [Systems: Programming Languages](https://nebelwelt.net/pubstats/top-authors-sys_pl.html)
+- [Systems: Software Engineering](https://nebelwelt.net/pubstats/top-authors-sys_se.html)
+- [All Areas](https://nebelwelt.net/pubstats/top-authors-sys.html)
+![](../../../Assets/Pics/Pasted%20image%2020251021134427.png)
+![](../../../Assets/Pics/Pasted%20image%2020251021134438.png)
+![](../../../Assets/Pics/Pasted%20image%2020251021134444.png)
+![](../../../Assets/Pics/Pasted%20image%2020251021134450.png)
 
 
 ### Others
