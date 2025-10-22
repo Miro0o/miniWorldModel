@@ -1,4 +1,4 @@
-# Constraint (Control Flow) Analysis
+# Type and Effect Systems
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

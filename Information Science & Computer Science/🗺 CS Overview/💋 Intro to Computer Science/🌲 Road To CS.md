@@ -795,7 +795,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 - ↗ [Academic Conference & Journals in IT Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
-- ↗ [Academic Networks - People and Institutions (in IT Industry)](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20-%20People%20and%20Institutions%20(in%20IT%20Industry).md)
+- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -1120,7 +1120,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Research Groups Watchlist - Profiles & Vacancies](../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
+> ↗ [Scholars & Groups Lists - System](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)

@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Scholars & Groups Lists - System](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System.md)
+↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+
+↗ [Security Related Conferences & Journals](../🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ### Other Resources

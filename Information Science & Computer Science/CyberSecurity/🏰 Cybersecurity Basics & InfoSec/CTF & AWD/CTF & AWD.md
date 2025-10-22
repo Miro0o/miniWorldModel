@@ -58,6 +58,11 @@ Hack The Box |Penetration Testing Labs
 https://www.hacksplaining.com/
 Hacksplaining
 
+https://github.com/Live-CTF
+
+https://github.com/sajjadium/ctf-archives?tab=readme-ov-file
+CTF Archives: Collection of CTF Challenges.
+
 
 ### Variable or Continuous
 - ThreatSpace - Monthly Challenge, none for July due to DefCon
@@ -73,13 +78,12 @@ Hacksplaining
 - SANS post-class CTFs - Usually when you take a sans course, especially in the pentesting track, you'll do a small CTF at the end of the class as a training exercise.
 
 
-### CTF Events
+### CTF Events & Practices
 https://ctftime.org/
 CTF event tracker 
 
 https://captf.com/practice-ctf/
 Practice CTF List / Permanent CTF List
-
 - Security Treasure Hunt - [http://www.securitytreasurehunt.com/](http://www.securitytreasurehunt.com/)
 - [http://www.root-me.org/?lang=en](http://www.root-me.org/?lang=en)
 - [http://www.hackthissite.org/](http://www.hackthissite.org/)
@@ -88,6 +92,8 @@ Practice CTF List / Permanent CTF List
 - [http://securitytraps.no-ip.pl/](http://securitytraps.no-ip.pl/)
 - [http://www.astalavista.com/index.php?app=hackingchallenge](http://www.astalavista.com/index.php?app=hackingchallenge) (you must create a username & password to see the server info)
 - [http://ringzer0team.com/](http://ringzer0team.com/)
+
+https://ctf.hacker101.com/auth/login
 
 
 

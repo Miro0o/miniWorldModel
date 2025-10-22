@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [🌲 Road To CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+↗ [🌲 Road To CS /CS & IT in Different Aspects](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Different%20Aspects)
 
 ↗ [(CS) Academics Roadmap & Tool Chain](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 - ↗ [Bib-Management](../🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)

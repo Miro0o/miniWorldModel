@@ -58,9 +58,18 @@
 - [南京大学《软件分析》课程15（CFL-Reachability and IFDS）](https://www.bilibili.com/video/BV1gL411j7vS?spm_id_from=333.788.comment.all.click) 
 - [南京大学《软件分析》课程16（Soundness and Soundiness）](https://www.bilibili.com/video/BV1d3411s7tt?spm_id_from=333.788.comment.all.click)
 
-📖 Static Program Analysis, by Anders Møller and Michael I. Schwartzbach.
+📖 Static Program Analysis, by Anders Møller and Michael I. Schwartzbach. (2025)
 
-📖 Principles of Program Analysis, by Flemming Nielson, Hanne R. Nielson and Chris Hankin.
+📖 Principles of Program Analysis, by Flemming Nielson, Hanne R. Nielson and Chris Hankin. (2005)
+
+📖 Semantics with Applications -- An Appetizer (2007)
+Flemming Nielson, Hanne R. Nielson
+
+📖 Porgram Analysis - An Apitizer (2020)
+Flemming Nielson, Hanne Riis Nielson
+
+📖 Formal Methods - An Apitizer (2017)
+Flemming Nielson, Hanne Riis Nielson
 
 
 
@@ -75,10 +84,10 @@ Static program analysis has been used since the early 1960’s in optimizing com
 > 🔗 https://www.bilibili.com/video/BV1b7411K7P4
 
 Two Words to Conclude Static Analysis:
-- **Abstraction**
+- **Abstraction** (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
 	- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.57.45.png)
 - **Safe-approximation**
-	- Transfer functions
+	- Transfer functions (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
 		- In static analysis, transfer functions define how to evaluate different program statements on abstract values.
 		- Transfer functions are defined according to “analysis problem” and the “semantics” of different program statements.
 		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.59.24.png)
@@ -148,7 +157,7 @@ Finally, we have type 0 languages, is a set of words which can be recognized by 
 
 **CFG**
 - ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
-- ↗ [Constraint (Control Flow) Analysis](Constraint%20(Control%20Flow)%20Analysis/Constraint%20(Control%20Flow)%20Analysis.md)
+- ↗ [Constraint-Based Analysis & Control Flow Analysis](Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis.md)
 
 **AST & CST**
 - ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)

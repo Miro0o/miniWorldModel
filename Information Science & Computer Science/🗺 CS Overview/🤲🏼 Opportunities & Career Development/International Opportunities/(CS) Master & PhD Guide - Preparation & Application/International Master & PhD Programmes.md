@@ -8,7 +8,9 @@
 ### Related Topics
 ↗ [International Opportunities](../International%20Opportunities.md)
 ↗ [Academics 🎓 (In CS)](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-↗ [Research Groups Watchlist - Profiles & Vacancies](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Groups%20-%20Profiles%20&%20Vacancies/Research%20Groups%20Watchlist%20-%20Profiles%20&%20Vacancies.md)
+
+↗ [Scholars & Groups Lists - System](../../../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System.md)
+↗ [Academic Networks & Nepotism](../../../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [FAQ - Academia and Research](../../../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md)
 ↗ [给各位天命人的劝退信](../../../../Academics%20🎓%20(In%20CS)/Appendix/给各位天命人的劝退信.md)

@@ -24,6 +24,7 @@
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)
 - ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 	- ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
+- ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 - ↗ [Network Threats & Attacks](../../Network%20Security/Network%20Threats%20&%20Attacks/Network%20Threats%20&%20Attacks.md)
@@ -38,6 +39,9 @@
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ![risk_management_and_software_security.excalidraw | 1000](../../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
@@ -46,6 +50,8 @@
 
 ### Threat Actors
 ![](../../../../Assets/Pics/Screenshot%202025-10-18%20at%2017.29.20.png)
+
+↗ [APT (Advanced Persistent Threat)](APT%20(Advanced%20Persistent%20Threat).md)
 
 
 ### Threat Glossaries
@@ -68,6 +74,13 @@
 
 ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
+#### Attacking Phases
+↗ [Kill Chain & Security Tool Box](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
+↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+
+![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
+<small>Threat Modeling using ATTCK Threat Tactics. <br><a>https://attack.mitre.org/matrices/enterprise/</a></small>
 
 
 ### Cybercrime-As-A-Service (CAAS)

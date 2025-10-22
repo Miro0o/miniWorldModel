@@ -105,6 +105,23 @@ For simple languages, it is relatively easy to figure out what they do. For exam
 > In computer science, program analysis[1] is the process of analyzing the behavior of computer programs regarding a **property** such as correctness, robustness, safety and liveness. Program analysis focuses on two major areas: program optimization and program correctness. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
 > - other areas are like program security : )
 
+> 📖 Principles of Program Analysis (2005) Flemming Nielson, Hanne R. Nielson
+
+One common theme behind all approaches to program analysis is that in order to remain computable one can only provide **safe-approximate answers**. 
+
+Another common theme, to be stressed throughout this book, is that all program analyses should be **semantics based**: this means that the information obtained from the analysis can be proved to be safe (or correct) with respect to a semantics of the programming language. It is a sad fact that new program analyses often contain subtle bugs, and a formal justification of the program analysis will help finding these bugs sooner rather than later. However, we should stress that we do not suggest that program analyses be semantics directed: this would mean that the structure of the program analysis should reflect the structure of the semantics and this will be the case only for a few approaches which are not covered in this book.
+
+
+**Why Program Analysis?**
+Program Reliability
+- Null pointer dereference, memory leak, etc.
+Program Security
+- Private information leak, injection attack, etc.
+Compiler Optimization
+- Dead code elimination, code motion, etc.
+Program Understanding
+- IDE call hierarchy, type indication, etc.
+
 
 ### Program Semantics
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
@@ -170,7 +187,7 @@ def main():
 This is a weird program: We can see that if `main` halts, it runs forever, and if it runs forever it will eventually halt. This is of course impossible, which strongly suggest that `does_halt` cannot exist.
 
 ---
-**General Undecidability of Program Analysis**
+**General Undecidability of Program Analysis & Rice's Theorm**
 
 We could hope that the problem that we can't figure out if a program terminates or not is special and does not affect any of the other things we would like to know about the program. But, sadly this is not the case. **Almost any interesting thing you would like to know about the behavior of the program can be _reduced_ to the halting problem.** This fact is called **_Rice's theorem_**.
 

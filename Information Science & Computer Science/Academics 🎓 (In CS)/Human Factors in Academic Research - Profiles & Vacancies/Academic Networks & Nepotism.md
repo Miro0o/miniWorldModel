@@ -1,4 +1,4 @@
-# Academic Networks - People and Institutions (in IT Industry)
+# Academic Networks & Nepotism
 
 [TOC]
 
