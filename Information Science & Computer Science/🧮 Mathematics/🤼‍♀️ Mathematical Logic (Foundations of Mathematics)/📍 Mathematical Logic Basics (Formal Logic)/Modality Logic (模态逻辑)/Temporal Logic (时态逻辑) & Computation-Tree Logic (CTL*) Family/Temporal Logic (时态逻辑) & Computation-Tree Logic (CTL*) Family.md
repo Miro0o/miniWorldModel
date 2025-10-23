@@ -38,12 +38,16 @@ In this logic a **path quantifier** can prefix an assertion composed of arbitrar
 - For a state $s$ we define the **set of all paths** starting from $s$, as the set of all **maximal executions** starting from $s$: $Paths(s) = \{s_0, s_1, s_2, ... ∣ s_0=s \text{ and } s_i \to s_{i+1}\}$
 	- For a path $\pi = s_0, s_1, s_2, …$ we define the $(i-1)$-th state by $\pi[i]=s_i$
 	- We can also define the prefix starting at the $(i-1)$-th state $\pi[i...]=s_i, s_{i+1}, ...$
-- We define the ==satisfaction set== of an LTL or CTL formula as the set of states that satisfy the formula $sat(\phi) = \{s ∣ s \models \phi\}$
+- We define the ==satisfaction set== of a (LTL, CTL, CTL\*, etc.) formula as the set of states that satisfy the formula $sat(\phi) = \{s ∣ s \models \phi\}$
 	- ↗ [(Formal) Model Checking](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 	- We say that a transition system ($T$) satisfies a formula ($\phi$) if all its initial states ($s\in I$) satisfy the formula:
 		- $T\models\phi \iff \forall s\in I. s \models\phi$
 	- or, equivalently:
 		- $T\models\phi \iff I\subseteq sat(\phi)$
+
+**Logical Operators:**
+
+**Modal Operators:**
 - Path quantifier:
 	- $A / \forall$ -- “for every path”
 	- $E / \exists$ -- “there exists a path”
@@ -66,8 +70,12 @@ Main differences:
 > LTL formulas can be seen as CTL* formulas of the form $\forall\psi$ where $\psi$ is a path formula **without path quantifiers**
 
 
+**Minimal Set of Operators**
+
+
 ### Semantics of CTL*
 ![](../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.18.21.png)
+#### Semantic Equivalences & Equations of CTL\* Formula
 
 
 ### Expressive Power of CTL, LTL, and CTL*

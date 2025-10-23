@@ -59,7 +59,7 @@ Hence, all we need to do is to implement function `sat(phi)` for ECTL:  $$\begin
 \end{aligned}$$
 So, how to implement function $sat(phi)$ ?
 
-First, we will see that $sat(phi)$ is recursive:
+First, we will see that $sat(phi)$ is recursive. For some easy cases, here is the algorithms:
 ```
 // S stands for the whole set of states of TS
 
@@ -93,16 +93,45 @@ These cases can be easily implemented with a suitable representation of states a
 
 > NOTE: A popular approach is to use ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md) to represent sets of states using boolean formulas (not covered in this course).
 
-Now, for the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi) ∣ EG(\phi) ∣ E_{\phi_1}U_{\phi_2}$, there are only $EG$ and $EU$ not implemented. However, it's not trivial to implement them.
+Now these are cases we covered so far:
+```
+// S stands for the whole set of states of TS
+
+sat(true) = return S
+sat(NOT phi) = S / sat(phi)
+sat(phi1 OR phi2) = sat(phi1) OR sat(phi2)
+sat(EX phi) = Post(s) AND sat(phi) != null
+sat(EG phi) = ...
+sat(E(phi1 AND phi2)) = ...
+```
+
+For the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi) ∣ EG(\phi) ∣ E_{\phi_1}U_{\phi_2}$, there are only $EG$ and $EU$ not implemented. However, we will see below that it's not trivial to implement them.
 
 
-### MC Algorithms For EU
+### Fixed-Point Computation for EU, and EG
+#### EU
+##### MC Algorithms For EF
+##### MC Algorithms For EU
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.13.38.png)
+(what if post(s) is always s from sat(phi1), i.e. the path is phi1.... to the infinity? )
 
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.20.38.png)
 
-### MC Algorithms For EG
+#### MC Algorithms For EG
 
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.21.42.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.17.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.30.png)
 
-### Overall Algorithm Complexity
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.51.png)
+#### Overall Algorithm Complexity
+The overall complexity is linear in the size of the transition system and the formula.
+
+Idea:
+- One call to sat(…) per sub-formula -> polynomial time in the size of the formula
+- Every sat(…) algorithm uses polynomial time in the size of the transition system:
+- Set operations used in the algorithms can be run in polynomial time.
+- In sat(EG…), sat (E…U…) a state can only be once in the worklist W (once removed, it can’t be added)
 
 
 

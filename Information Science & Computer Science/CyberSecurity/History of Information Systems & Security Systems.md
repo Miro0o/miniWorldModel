@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [Information Theory](../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
 ↗ [Cryptology & Secure Communication](🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+↗ [Information Systems & System Architecture Design](../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 ↗ [History of Computing](../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 ↗ [History of Computer Networking and Communication Evolution](../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)

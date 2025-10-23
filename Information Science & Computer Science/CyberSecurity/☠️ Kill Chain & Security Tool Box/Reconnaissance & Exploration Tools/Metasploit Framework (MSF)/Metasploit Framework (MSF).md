@@ -7,6 +7,11 @@
 ## Res
 🏠 https://www.metasploit.com
 
+
+### Related Topics
+↗ [Metasploitable3](../../🎯%20Cyber%20Ranges%20&%20Labs/Metasploitable3/Metasploitable3.md)
+
+
 ### Getting Started
 - [Metasploit Doc Center](https://docs.metasploit.com)
 - [Setting Up a Metasploit Development Environment](https://docs.metasploit.com/docs/development/get-started/setting-up-a-metasploit-development-environment.html)

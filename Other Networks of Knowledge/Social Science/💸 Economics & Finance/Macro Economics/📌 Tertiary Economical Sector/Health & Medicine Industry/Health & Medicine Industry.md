@@ -1,4 +1,4 @@
-# AI & Quantitative Investment
+# Health & Medicine Industry
 
 [TOC]
 
@@ -9,7 +9,6 @@
 
 
 ### Other Resources
-https://nof1.ai/
 
 
 

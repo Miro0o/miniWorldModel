@@ -127,7 +127,7 @@
 ↗ [Primary Economical Sector](../../../Macro%20Economics/Primary%20Economical%20Sector/Primary%20Economical%20Sector.md)
 ↗ [Secondary Economical Sector](../../../Macro%20Economics/Secondary%20Economical%20Sector/Secondary%20Economical%20Sector.md)
 
-↗ [Tertiary Economical Sector](../../../Macro%20Economics/Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
+↗ [Tertiary Economical Sector](../../../Macro%20Economics/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
 
 > 【【武汉科技大学】《证券投资学》（全二十六讲）余学斌教授】 https://www.bilibili.com/video/BV1wC41147sE/?p=19
 

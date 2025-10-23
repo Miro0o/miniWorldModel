@@ -88,6 +88,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 
 
 ### 0️⃣ Threat Modeling & Risk Assessment
+↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 ↗ [Threat Models & Threat Modeling](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/Threat%20Models%20&%20Threat%20Modeling.md)
 - ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 - ↗ [CAPEC (Common Attack Pattern Enumerations and Classifications)](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/CAPEC%20(Common%20Attack%20Pattern%20Enumerations%20and%20Classifications).md)
