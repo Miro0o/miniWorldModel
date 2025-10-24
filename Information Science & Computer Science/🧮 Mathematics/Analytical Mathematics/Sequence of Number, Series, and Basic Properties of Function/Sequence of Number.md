@@ -175,7 +175,7 @@
 	- （例）$x_1=\sqrt2, \ x_{n+1}=\sqrt{3+2x_n}, \ n=1,2,3... \ lim_{n\to\infty}{x_n}=?$
 		- ![](../../../../Assets/Pics/Screenshot%202023-10-07%20at%207.55.49PM.png)
 	- （例）$x_1=\sqrt2, \ x_2=\sqrt{2+\sqrt2}, \ x_3=\sqrt{2+\sqrt{2+\sqrt2}}, ... \ lim_{x\to\infty}{\sqrt{2+x_{n-1}}} = ?$
-##### 重要收敛数列和其极限
+##### 重要收敛数列和其极限 ⭐
 - 重要收敛数列和其极限
 	- https://www.bilibili.com/video/BV15v411g7VP/?p=17&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 	- ⭐ Fabbinaci 数列：$a_n = a_{n-1} + a_{n-2}, \ b_n=\frac{a_n}{a_{n-1}}$

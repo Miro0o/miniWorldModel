@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
+↗ [Limits & Continuity of Functions](Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
@@ -47,6 +47,13 @@ Calculus: Single Variable, 8th Edition
 
 
 ## Contents
+🎬 数学分析 陈纪修老师 1080p高清版(全集) https://www.bilibili.com/video/BV15v411g7VP?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬【数学分析陈纪修无障碍重制版】 https://www.bilibili.com/video/BV1sX4y1Y7jH/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+数学分析，陈纪修
+
+
 ### Set, Sequence, Function
 #### 1️⃣ Set Theory | Mapping | Function (集合，映射，函数)
 ↗ [Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
@@ -221,34 +228,34 @@ Calculus: Single Variable, 8th Edition
 #### 2️⃣ Sequence of Number (数列)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Natural Number](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
-↗ [Sequence of Number](Sequence%20of%20Number%20&%20Functions%20Basics/Sequence%20of%20Number.md)
+↗ [Sequence of Number](Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Sequence%20of%20Number.md)
 #### 3️⃣ Limits of Functions & Continuity of Functions (函数极限和连续函数)
 ↗ [Set Theory /Function](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Limits & Continuity of Functions](Sequence%20of%20Number%20&%20Functions%20Basics/Limits%20&%20Continuity%20of%20Functions.md)
+↗ [Limits & Continuity of Functions](Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
 
 
 ### ⭐ One Variable Differential Calculus (一元微分学)
 #### 4️⃣ Derivative｜Differential Calculus (导数，微分)
-↗ [Differential Calculus & Derivative](Differential%20Calculus%20&%20Derivative/Differential%20Calculus%20&%20Derivative.md)
-↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
+↗ [Differential Calculus & Derivative of Function](Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
 #### 5️⃣ Mean Value Theorem (Lagrange Theorem)
-↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative/Mean%20Value%20Theorems.md)
-#### 6️⃣ Derivative Equation (DE)
-↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative/Derivative%20Equation%20(DE).md)
+↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative%20of%20Function/Mean%20Value%20Theorems.md)
+#### 6️⃣ Derivative Equation (DE, 微分方程)
+↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
 ### ⭐ One Variable Integral Calculus（一元积分学）
 #### 7️⃣ Indefinite Integral (不定积分)
-↗ [Indefinite Integral](Integral/Indefinite%20Integral.md)
+↗ [Indefinite Integral](Integral%20of%20Function/Indefinite%20Integral.md)
 #### 8️⃣ Definite Integral (定积分)
-↗ [Definite Integral](Integral/Definite%20Integral.md)
+↗ [Definite Integral](Integral%20of%20Function/Definite%20Integral.md)
 #### 9️⃣ (反常积分)
-↗ [Improper Integral](Integral/Improper%20Integral.md)
+↗ [Improper Integral](Integral%20of%20Function/Improper%20Integral.md)
 
 
-### 级数
-↗ [Seires (级数)](Seires%20(级数)/Seires%20(级数).md)
-#### 🔟 (数项级数)
+### 🔟 Series & Infinite Series (数项级数与无穷级数)
+↗ [Series (级数)](Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数).md)
+#### 1️⃣1️⃣ Function Series and Power Series (函数项级数，幂级数 - 泰勒级数)
 
-#### 1️⃣1️⃣ (函数项级数，幂级数)
+#### 1️⃣6️⃣ Fouriers Seires (三角级数 - 傅立叶级数)
 
 
 ### 1️⃣1️⃣ (欧氏空间上的连续和极限)
@@ -258,17 +265,11 @@ Calculus: Single Variable, 8th Edition
 (偏导数，全微分)
 
 
-### ⭐ 1️⃣3️⃣ Multivariable Integral Calculus （多元积分学）
-(重积分)
+### ⭐ 1️⃣3️⃣ Multivariable Integral Calculus (多元积分学 /重积分)
 
+#### 1️⃣4️⃣ (曲线积分，曲面积分，场论)
 
-### 1️⃣4️⃣
-
-
-### 1️⃣5️⃣ (欧拉积分)
-
-
-### 1️⃣6️⃣ (傅立叶级数)
+#### 1️⃣5️⃣ (含参变量积分，欧拉积分)
 
 
 

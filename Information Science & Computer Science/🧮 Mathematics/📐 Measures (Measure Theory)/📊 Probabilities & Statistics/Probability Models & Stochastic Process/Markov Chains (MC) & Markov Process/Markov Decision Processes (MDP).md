@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Other Resources
+[FKNP11](https://www.prismmodelchecker.org/bibitem.php?key=FKNP11) (for MDPs)
+
+
 
 ## Intro
 

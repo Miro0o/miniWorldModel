@@ -1,4 +1,4 @@
-# Differential Calculus & Derivative
+# Differential Calculus & Derivative of Function
 
 [TOC]
 

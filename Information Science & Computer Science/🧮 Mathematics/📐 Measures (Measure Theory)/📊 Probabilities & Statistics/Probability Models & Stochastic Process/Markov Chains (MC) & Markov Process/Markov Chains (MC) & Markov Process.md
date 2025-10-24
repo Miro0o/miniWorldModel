@@ -28,6 +28,14 @@ The tutorial comprises several parts. If you are new to the tool, we recommend t
 - **[EGL contract signing protocol](https://www.prismmodelchecker.org/tutorial/egl.php)**: This uses a case study from the field of **computer security**, modelled as a **DTMC**: the EGL contract signing protocol.  
 - **[Dining philosophers problem](https://www.prismmodelchecker.org/tutorial/phil.php)**: This introduces the use of a **MDP** to verify a simple **distributed randomised algorithm**: the dining philosophers problem.
 
+[KNP07a](https://www.prismmodelchecker.org/bibitem.php?key=KNP07a) (for DTMCs and CTMCs)
+[FKNP11](https://www.prismmodelchecker.org/bibitem.php?key=FKNP11) (for MDPs)
+[NPS13](https://www.prismmodelchecker.org/bibitem.php?key=NPS13) (for PTAs)
+[SK16](https://www.prismmodelchecker.org/bibitem.php?key=SK16) (for stochastic games)
+
+Arnd Hartmanns, Holger Hermanns, In the quantitative automata zoo, Science of Computer Programming, Volume 112, Part 1, 2015, Pages 3-23, ISSN 0167-6423,
+https://doi.org/10.1016/j.scico.2015.08.009.
+
 
 
 ## Intro
@@ -43,6 +51,22 @@ A [countably infinite](https://en.wikipedia.org/wiki/Countably_infinite "Counta
 Markov chains have many applications as [statistical models](https://en.wikipedia.org/wiki/Statistical_model "Statistical model") of real-world processes. They provide the basis for general stochastic simulation methods known as [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo "Markov chain Monte Carlo"), which are used for simulating sampling from complex [probability distributions](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution"), and have found application in areas including [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics "Bayesian statistics"), [biology](https://en.wikipedia.org/wiki/Biology "Biology"), [chemistry](https://en.wikipedia.org/wiki/Chemistry "Chemistry"), [economics](https://en.wikipedia.org/wiki/Economics "Economics"), [finance](https://en.wikipedia.org/wiki/Finance "Finance"), [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"), [physics](https://en.wikipedia.org/wiki/Physics "Physics"), [signal processing](https://en.wikipedia.org/wiki/Signal_processing "Signal processing"), and [speech processing](https://en.wikipedia.org/wiki/Speech_processing "Speech processing").
 
 **The adjectives _Markovian_ and _Markov_ are used to describe something that is related to a Markov process.**
+
+
+> 🔗 https://www.modestchecker.net/
+
+![|350](../../../../../../../../Assets/Pics/Pasted%20image%2020251024212947.png)
+
+The **Modest Toolset** supports the modelling and analysis of hybrid, real-time, distributed and stochastic systems. A modular framework centered around the stochastic hybrid automata formalism [HHHK13](https://www.modestchecker.net/Publications/?HHHK13) and supporting the [JANI specification](http://www.jani-spec.org/), it provides a variety of input languages and analysis backends.
+
+At the core of the Modest Toolset is the model of _networks of **stochastic hybrid automata**_ (SHA), which combine nondeterministic choices, continuous system dynamics, stochastic decisions and timing, and real-time behaviour, including nondeterministic delays. A wide range of well-known and extensively studied formalisms in modelling and verification can be seen as special cases of SHA:
+- **STA** (stochastic timed automata), the original semantic foundation of Modest [BDHK06](https://www.modestchecker.net/Publications/?BDHK06), are SHA without complex continuous behaviour (i.e. without variables whose evolution over time is governed by differential equations or inclusions, except for clock variables).
+- **PTA** (probabilistic timed automata) are obtained from STA by restricting stochastic decisions to choices based on finite-support probability distributions (such as the discrete uniform or the Bernoulli distribution).
+- **TA** (timed automata) are nonprobabilistic PTA. Delays and discrete choices can still be nondeterministic, but not stochastic. TA are widely used to model real-time systems and requirements.
+- **PA/MDP** (probabilistic automata/Markov decision processes), on the other hand, can be seen as PTA without the notion of time, i.e. without clock variables or delays. PA theory focuses on compositionality and simulation relations between models, while MDP are usually considered with costs or rewards, but both are essentially the same model.
+- **LTS** (labelled transition systems), alternatively Kripke structures or finite automata, are the most basic, fundamental model for verification. Allowing nondeterministic choices, they are supported by a wide range of model-checking tools of impressive scalability.
+- **DTMC** (discrete-time Markov chains) are the basic discrete probabilistic model. As a model without nondeterminism, they are not only amenable to a wide range of numerical analysis approaches, but also ideally suited for simulation.
+- **CTMC**, **IMC** and **MA** (continuous-time Markov chains, interactive Markov chains and Markov automata) form the family of stochastic models based on the notion of _exponentially distributed delays_, which can be represented in STA via a combination of sampling from the exponential distribution and subsequently waiting the sampled amount of time using a dedicated clock variable.
 
 
 

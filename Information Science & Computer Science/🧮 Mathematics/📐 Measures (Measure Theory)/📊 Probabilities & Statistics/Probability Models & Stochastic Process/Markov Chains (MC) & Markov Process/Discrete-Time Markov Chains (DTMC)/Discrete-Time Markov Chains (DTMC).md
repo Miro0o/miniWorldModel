@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [PRISM](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🤼%20Model%20Checker/PRISM.md)
+↗ [Probabilistic CTL (PCTL)](../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
 
 
 ### Other Resources
@@ -20,6 +21,8 @@ The tutorial comprises several parts. If you are new to the tool, we recommend t
 
 Knuth, D. (1976). The complexity of nonuniform random number generation. _Algorithm and Complexity, New Directions and Results_.
 
+[KNP07a](https://www.prismmodelchecker.org/bibitem.php?key=KNP07a) (for DTMCs and CTMCs)
+
 
 
 ## Intro
@@ -30,7 +33,7 @@ Knuth, D. (1976). The complexity of nonuniform random number generation. _Algor
 Where is the Markov chain **after 1/2/3/…/n steps**?
 **Answer**: in the transient distribution $\theta_n$
 
-Two equivalent definitions / ways to compute :
+2 equivalent definitions / 2 ways to compute :
 1. $\theta_n = \iota \cdot P^n$
 	1. Multiply the initial distribution vector by the transition probability matrix 𝑃𝑛 = make n-steps
 2. $\begin{aligned} & \theta_0 = \iota \\ & \theta_{n+1} = \theta_n\cdot P\end{aligned}$ (Recursively)
@@ -71,7 +74,7 @@ If (1) and (2) do not hold: pay attention to the computation of steady states, b
 If (1) and (2) hold, we can compute the limit precisely and independently of the initial distribution.
 
 
-### Reachability Probabilities
+### Reachability Probabilities (Prob. of Reaching Single State)
 > Knuth, D. (1976). The complexity of nonuniform random number generation. _Algorithm and Complexity, New Directions and Results_.
 
 Simulating a 4-faced dice with a coin:
@@ -83,10 +86,10 @@ Simulating a 6-faced dice with a coin:
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2013.39.52.png)
 
 
-### Probabilities of Sets of Paths
-#### Probability Measures 
+### Probability Measures (Prob. of Reaching Sets of Paths)
+#### Definition of Probability Measure
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2014.01.06.png)
-#### Cylinder Set Probability Measure
+#### Cylinder Set & Probability Measure
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2014.02.05.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2014.02.41.png)

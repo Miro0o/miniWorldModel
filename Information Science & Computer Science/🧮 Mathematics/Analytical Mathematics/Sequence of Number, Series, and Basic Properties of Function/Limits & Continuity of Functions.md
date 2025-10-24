@@ -458,7 +458,7 @@ tbd..
 
 
 ### 3️⃣ Derivation of A Function
-↗ [Differential Calculus & Derivative](../Differential%20Calculus%20&%20Derivative/Differential%20Calculus%20&%20Derivative.md)
+↗ [Differential Calculus & Derivative of Function](../Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 
 
 

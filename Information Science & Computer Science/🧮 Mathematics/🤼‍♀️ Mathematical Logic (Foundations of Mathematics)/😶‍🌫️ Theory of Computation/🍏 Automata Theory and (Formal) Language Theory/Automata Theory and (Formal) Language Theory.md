@@ -98,6 +98,7 @@ The Chomsky hierarchy in the fields of [formal language theory](https://en.wiki
 > Recall ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md) and ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 > ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 > <small>The process of compilation</small>
+#### Example of Languages in Chomsky Hierarchy
 
 
 
