@@ -258,7 +258,7 @@ or（情感，逻辑）X （认识，实践）
 ###### 人（人类社会）与自然的关系
 和谐共生
 #### 从信息到知识：知识是有组织的信息
-↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 

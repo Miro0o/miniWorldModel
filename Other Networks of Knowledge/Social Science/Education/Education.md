@@ -21,7 +21,7 @@
 ## Intro
 ### Education: Knowledge + Practice
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [Information Theory](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 #### AI + Education
 ↗ [AI4EDU](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/AI4EDU.md)
 

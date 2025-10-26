@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](../../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Information Systems & System Architecture Design](../../../../../../Information%20Science%20&%20Computer%20Science/Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 ↗ [History of Information Systems & Security Systems](../../../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 

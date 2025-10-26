@@ -97,7 +97,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 #### A Deeper Thinking of Computation
 ![computing.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
@@ -473,7 +473,7 @@ These questions, from general to specific, speaks the path of what i think every
 **Computer Science Part - Overview: (Mathematical) Theory -> Computer Design -> Computer Application**
 
 2. What is data /information?
-	1. ↗ [Information Theory](../../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+	1. ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 	3. what is language and its importance for data /information.
 3. What is computation /automation? 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Cryptology & Secure Communication](🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Information Systems & System Architecture Design](../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 

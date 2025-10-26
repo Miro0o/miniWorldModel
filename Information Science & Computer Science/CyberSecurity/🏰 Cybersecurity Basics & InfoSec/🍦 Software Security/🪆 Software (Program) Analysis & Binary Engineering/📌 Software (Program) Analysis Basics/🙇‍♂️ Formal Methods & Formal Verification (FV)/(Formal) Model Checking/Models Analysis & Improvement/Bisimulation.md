@@ -61,9 +61,72 @@ In other words, R is an ↗ [Equivalence Relation](../../../../../../../../🧮%
 
 
 ### Partition Refinement Algorithm
+> ↗ [Lattice (Set Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+
+Rough sketch of the main idea:
+**Step 1:**
+- Start optimistically guessing that **all states can be put together in the same equivalence class**. This gives you one single partition of the states.
+
+**Step 2:**
+Split the equivalence classes into one block for each different way of labelling states (i.e. each different subset of AP).
+
+**Step 3:**
+For all blocks B in the current partition:
+- check if the states in B satisfy condition (2) of bisimulation, i.e. that states in the same block can mimic each other. If that is not true, split B to make the condition hold and restart the loop (step 3).
+
+If you reach this point the **current partition** is the **bisimilarity relation**!
+
+Now in pseudo-code:
+``` js
+// Start by creating a partition where each block corresponds
+// to a subset of AP
+T:= { { s in S s.t. L(s) = K } | K is a subset of AP }
+
+// Partition refinement loop
+do
+	fixpoint := true
+	// Try to use each block to split other blocks
+	for each block B in T do
+		// Blocks to be potentially split
+		for each block B’ in T
+			for each pair of states s, s’ from B’
+				// Check if condition (2) of bisimulation is violated
+				if s has a transition to B and s’ does not have a transition to B then
+				B0 := states in B’ that have a transition to B
+				B1 := states in B’ that don’t have a transition to B
+				remove B’ from T
+				add B0,B1 to T
+				fixpoint := false
+until fixpoint // break the loop if you reach a fix point
+```
+
+> NOTE: efficient algorithms exist, which follow this idea but are smart in the refinement loop, to avoid duplicate checks.
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.43.46.png)
 
 
-### Minimization & Bisimulation Quotient (R-Quotient)
+### Bisimulation Quotient (R-Quotient) & Minimization Transition System
+Let $T = (S,→,I,AP,L)$ be a transition system (with no actions).
+
+Assume you have bisimulation $R$ (typically $~$) for $T$. You can now exploit $R$ to compute the **R-quotient** of $T$ as a new transition system $T/R = (S’,→,I’,AP,L’)$.
+
+The set of states S’ is the set of equivalence classes $$S' = S/R$$
+	The labelling function $L’$ just takes the label of any state in the equivalence class $$L' ([s]) = L(s)$$
+Transitions are lifted to equivalence classes $$\frac{s \to s'}{[s]\to'[s]}$$
+The set of initial states is the set of equivalence classes with at least one initial state $$I'
+= \{[s] ∣ s' \in I \text{ and } s' \in [s]\}$$
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.44.42.png)
+
+
+More examples: 
+- Idea on **partition refinement for bisimilarity checking**:
+	- Consider T1 and T2 as one transition system
+	- Run partition refinement. If there is one isolated block with states from one TS only, then **not bisimilar!**
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.40.png)
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.49.png)
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.59.png)
+- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.51.10.png)
 
 
 

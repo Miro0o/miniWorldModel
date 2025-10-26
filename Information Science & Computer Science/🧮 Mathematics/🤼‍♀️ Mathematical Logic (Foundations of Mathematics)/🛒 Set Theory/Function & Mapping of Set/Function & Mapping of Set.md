@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Analytical Mathematics](../../../Analytical%20Mathematics/Analytical%20Mathematics.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 
-↗ [Sequence of Number](../../../Analytical%20Mathematics/Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Sequence%20of%20Number.md)
-↗ [Limits & Continuity of Functions](../../../Analytical%20Mathematics/Sequence%20of%20Number,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
+↗ [Number Sequence](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
+↗ [Limits & Continuity of Functions](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
 
 
 ### Learning Resources

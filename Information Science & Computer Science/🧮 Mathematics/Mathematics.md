@@ -319,7 +319,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
 ##### 0️⃣ Foundation of Mathematics and Philosophy
 ↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
-↗ [Math History & Development](Math%20History%20&%20Development.md)
+↗ [Math History & Development /Foundational Crisis of Mathematics](Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
@@ -349,8 +349,10 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ##### 1️⃣ Pure Mathematics
 ###### 👉 Number（数量）
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
+- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 - ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 
@@ -371,6 +373,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
 - ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
+- ↗ [Graph Basics](Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 - ↗ [Algebraic Graph Theory](Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 ↗ [Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
 - ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
@@ -385,7 +388,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 创立于二十世纪三十年代的[法国](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD "法国")的[布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为：纯粹数学，是研究[抽象结构](https://zh.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E7%BB%93%E6%9E%84 "抽象结构")的理论。 结构，就是以初始概念和公理出发的演绎系统。 [布尔巴基学派](https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E5%B7%B4%E5%9F%BA%E5%AD%A6%E6%B4%BE "布尔巴基学派")认为，有三种基本的抽象结构：[代数结构](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84 "代数结构")（[群](https://zh.wikipedia.org/wiki/%E7%BE%A4 "群")，[环](https://zh.wikipedia.org/wiki/%E7%8E%AF_\(%E4%BB%A3%E6%95%B0\) "环 (代数)")，[域](https://zh.wikipedia.org/wiki/%E5%9F%9F_\(%E6%95%B8%E5%AD%B8\) "域 (数学)")……），[序结构](https://zh.wikipedia.org/wiki/%E5%BA%8F%E7%90%86%E8%AE%BA "序理论")（[偏序](https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%8F%E5%85%B3%E7%B3%BB "偏序关系")，[全序](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BA%8F%E5%85%B3%E7%B3%BB "全序关系")……），[拓扑结构](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84 "拓扑结构")（[邻域](https://zh.wikipedia.org/wiki/%E9%82%BB%E5%9F%9F "邻域")，[极限](https://zh.wikipedia.org/wiki/%E6%9E%81%E9%99%90_\(%E6%95%B0%E5%AD%A6\) "极限 (数学)")，[连通性](https://zh.wikipedia.org/wiki/%E9%80%A3%E9%80%9A%E6%80%A7 "连通性")，[维数](https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BA%A6 "维度")……）。
 ###### 👉 Space（空间）
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Measures (Measure Theory)](📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
+↗ [Measures (Measure Theory)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
 ↗ [Topology](Topology/Topology.md)
 ↗ [Geometry](Geometry/Geometry.md)
 
@@ -393,7 +396,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 空间的研究源自于[几何](https://zh.wikipedia.org/wiki/%E5%87%A0%E4%BD%95%E5%AD%A6 "几何学")－尤其是[欧几里得几何](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95 "欧几里得几何")。[三角学](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E5%AD%A6 "三角学")则结合了空间及数，且包含有著名的[勾股定理](https://zh.wikipedia.org/wiki/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86 "勾股定理")。现今对空间的研究更推广到了更高维的几何、[非欧几里得几何](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%97%E5%B9%BE%E4%BD%95 "非欧几里得几何")（其在[广义相对论](https://zh.wikipedia.org/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96 "广义相对论")中扮演着核心的角色）及[拓扑学](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E5%AD%A6 "拓扑学")。数和空间在[解析几何](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95 "解析几何")、[微分几何](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95 "微分几何")和[代数几何](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95 "代数几何")中都有着很重要的角色。在微分几何中有着[纤维丛](https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4%E4%B8%9B "纤维丛")及[流形](https://zh.wikipedia.org/wiki/%E6%B5%81%E5%BD%A2 "流形")上的微积分等概念。在代数几何中有着如[多项式](https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%A0%85%E5%BC%8F "多项式")方程的解集等几何对象的描述，结合了数和空间的概念；亦有着[拓扑群](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BE%A4 "拓扑群")的研究，结合了结构与空间。[李群](https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%BE%A4 "李群")被用来研究空间、结构及变化。在其许多分支中，拓扑学可能是二十世纪数学中有着最大进展的领域，并包含有存在已久的[庞加莱猜想](https://zh.wikipedia.org/wiki/%E5%BA%9E%E5%8A%A0%E8%8E%B1%E7%8C%9C%E6%83%B3 "庞加莱猜想")，以及有争议的[四色定理](https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%89%B2%E5%AE%9A%E7%90%86 "四色定理")。庞加莱猜想已在2006年确认由俄罗斯数学家[格里戈里·佩雷尔曼](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E4%BD%A9%E9%9B%B7%E5%B0%94%E6%9B%BC "格里戈里·佩雷尔曼")证明，而四色定理已在1976年由[凯尼斯·阿佩尔](https://zh.wikipedia.org/wiki/%E5%87%B1%E5%B0%BC%E6%96%AF%C2%B7%E9%98%BF%E4%BD%A9%E7%88%BE "凯尼斯·阿佩尔")和[沃夫冈·哈肯](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%A4%AB%E5%86%88%C2%B7%E5%93%88%E8%82%AF "沃夫冈·哈肯")用电脑证明，而从来没有由人力来验证过。
 ###### 👉 Dynamics（变化）
-↗ [Analytical Mathematics](Analytical%20Mathematics/Analytical%20Mathematics.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 ↗ [Chaos Theory](Chaos%20Theory/Chaos%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
@@ -409,7 +412,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 - ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 - ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 - ↗ [Computational Complexity Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
-↗ [Information Theory](🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](🥸%20Information%20Theory/Information%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8
 
@@ -417,7 +420,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 作为一相对较新的领域，离散数学有许多基本的未解问题。其中最有名的为P/NP问题——千禧年大奖难题之一。一般相信此问题的解答是否定的。
 ###### 👉 Statistics and Other Decision Sciences
-↗ [Probabilities & Statistics](📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+↗ [Probabilities & Statistics](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
 

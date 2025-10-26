@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Elementary Theory of Numbers](../../🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 
 
 ### Learning Resources

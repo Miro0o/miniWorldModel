@@ -11,19 +11,20 @@
 
 ↗ [Modality Logic (模态逻辑)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Modality%20Logic%20(模态逻辑).md)
 - ↗ [Dynamic Logic](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Dynamic%20Logic/Dynamic%20Logic.md)
-- ↗ [Temporal Logic (时态逻辑) & Computation-Tree Logic (CTL*) Family](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family.md)
-	- ↗ [Linear Temporal Logic (LTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
-	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+- ↗ [Temporal Logic (时态逻辑)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
+	- ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+		- ↗ [Linear Temporal Logic (LTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+		- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 
 
 
-## Intro
+## Intro: MC Algorithm Principles
 > ↗ [Software Analysis Basics /Program State Space & State Explosion](../../../Software%20(Program)%20Analysis%20Basics.md#Program%20State%20Space%20&%20State%20Explosion)
 > ↗ [Lattice (Set Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
 
 ### Global Model Checking Algorithm
-> Recall: ↗ [Temporal Logic (时态逻辑) & Computation-Tree Logic (CTL*) Family](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)%20&%20Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+> Recall: ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 > 
 > 1. The ECTL syntax ("flattened") of CTL:
 > $\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$
@@ -35,7 +36,7 @@
 > - or, equivalently:
 > 	- $T\models\phi \iff I\subseteq sat(\phi)$
 > 
-> ```
+> ``` js
 > sat(phi){
 > 	// ...
 > }
@@ -45,7 +46,7 @@
 > ```
 
 Now that we have our **main algorithm**:
-```
+``` js
 // for each property phi, we want to check that TS satisfy this phi, i.e. the set of the initial states of TS is a subset of the satisfaction set of property phi:
 
 modelCheck(TS, phi){
@@ -60,7 +61,7 @@ Hence, all we need to do is to implement function `sat(phi)` for ECTL:  $$\begin
 So, how to implement function $sat(phi)$ ?
 
 First, we will see that $sat(phi)$ is recursive. For some easy cases, here is the algorithms:
-```
+``` js
 // S stands for the whole set of states of TS
 
 sat(true) = return S
@@ -94,7 +95,7 @@ These cases can be easily implemented with a suitable representation of states a
 > NOTE: A popular approach is to use ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md) to represent sets of states using boolean formulas (not covered in this course).
 
 Now these are cases we covered so far:
-```
+```js
 // S stands for the whole set of states of TS
 
 sat(true) = return S
@@ -108,20 +109,91 @@ sat(E(phi1 AND phi2)) = ...
 For the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi) ∣ EG(\phi) ∣ E_{\phi_1}U_{\phi_2}$, there are only $EG$ and $EU$ not implemented. However, we will see below that it's not trivial to implement them.
 
 
-### Fixed-Point Computation for EU, and EG
+### Fixed-Point Computation for EU and EG
+> ↗ [Lattice (Set Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 #### EU
 ##### MC Algorithms For EF
+Expansion law for EF:
+- Before we see the algorithm or EU let us first look at the **simplest case** of EF.
+- Remember: $∃\Diamond\phi ≡ \exists true\cup\phi$
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.54.29.png)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.09.png)
+
+Algorithm for EF:
+```js
+T := sat(ϕ); //the set of states to be returned as a result
+W := sat(ϕ); // working set (states to be explored)
+while W ≠ ∅ do
+	remove some s from W;
+	foreach s′ ∈ Pre(s) do
+		if s′ ∉ T then
+			T := T ∪ s′ ;
+			W := W ∪ s′ ;
+return T;
+```
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.47.png)
 ##### MC Algorithms For EU
+Expansion law for EU $$\exists\phi_1\cup\phi_2 ≡ \phi_2\lor(\phi_1\land\exists\bigcirc\exists\phi_1\cup\phi_2)$$
+Provides a recursive definition of sat: 
+$$\begin{aligned}sat( ∃ϕ1𝖴ϕ2) & ≡ sat(ϕ2 ∨ (ϕ1 ∧ ∃◯ ∃ϕ1𝖴ϕ2)) \\
+& ≡ sat(ϕ2) ∪ sat((ϕ1 ∧ ∃◯ ∃ϕ1𝖴ϕ2)) \\
+& ≡ sat(ϕ2) ∪ (sat(ϕ1) ∩ sat( ∃◯ ∃ϕ1𝖴ϕ2)) \\
+& ≡ sat(ϕ2) ∪ (sat(ϕ1) ∩ {s ∈ S ∣ Post(s) ∩ sat( ∃ϕ1𝖴ϕ2) ≠ ∅}) \\
+& ≡ sat(ϕ2) ∪ {s ∈ sat(ϕ1) ∣ Post(s) ∩ sat( ∃ϕ1𝖴ϕ2) ≠ ∅}
+\end{aligned}$$
+
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.13.38.png)
 (what if post(s) is always s from sat(phi1), i.e. the path is phi1.... to the infinity? )
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.20.38.png)
 
+Algorithm for EU: 
+```js
+T := sat(ϕ2);
+W := sat(ϕ2);
+while W ≠ ∅ do
+	remove some s from W;
+	foreach s′ ∈ Pre(s) do
+		if s′ ∉ T and s′ ∈ 𝗌𝖺𝗍(ϕ1) then
+			T := T ∪ s′ ;
+			W := W ∪ s′ ;
+return T;
+```
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.57.32.png)
 #### MC Algorithms For EG
+Expansion law for EG: $$∃ □ ϕ ≡ ϕ ∧ ∃◯ ∃ □ ϕ$$
+Provides a recursive definition of sat
+$$\begin{aligned}
+sat( ∃ □ ϕ) & ≡ sat(ϕ ∧ ∃◯ ∃ □ ϕ) \\
+& \text{(applying expansion law)} \\
+& ≡ sat(ϕ) ∩ sat( ∃◯ ∃ □ ϕ) \\
+& \text{(def. of sat(...) )} \\
+& ≡ sat(ϕ) ∩ {s ∈ S ∣ Post(s) ∩ sat( ∃ □ phi) ≠ ∅} \\
+& \text{(def. of sat(EX…) )} \\
+& ≡ {s ∈ sat(ϕ) ∣ Post(s) ∩ sat( ∃ □ phi) ≠ ∅} \\
+& (\text{sat(phi) is a subset of S)}
+\end{aligned}$$
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.21.42.png)
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.17.png)
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.30.png)
+
+Algorithm for EG:
+```js
+T := sat(ϕ); //the set of states to be returned as a result
+W := S∖sat(ϕ); //working set (states to be explored)
+while W ≠ ∅ do
+	remove some s from W;
+	foreach s′ ∈ Pre(s) do
+		if s′ ∈ T and Post(s′) ∩ T = ∅ then
+			T := T∖s′ ;
+			W := W ∪ s′ ;
+return T;
+```
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.51.png)
 #### Overall Algorithm Complexity
@@ -130,8 +202,8 @@ The overall complexity is linear in the size of the transition system and the fo
 Idea:
 - One call to sat(…) per sub-formula -> polynomial time in the size of the formula
 - Every sat(…) algorithm uses polynomial time in the size of the transition system:
-- Set operations used in the algorithms can be run in polynomial time.
-- In sat(EG…), sat (E…U…) a state can only be once in the worklist W (once removed, it can’t be added)
+	- Set operations used in the algorithms can be run in polynomial time.
+	- In sat(EG…), sat (E…U…) a state can only be once in the worklist W (once removed, it can’t be added)
 
 
 

@@ -414,7 +414,7 @@ http://www.china-cia.org.cn
 
 ### What is Information & Information Systems?
 #### Basics of Information
-↗ [Information Theory](../🧮%20Mathematics/🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
 信息的性质
 - 依附性：用“符号”表示；依附于一定的物理介质

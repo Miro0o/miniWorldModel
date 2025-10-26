@@ -17,7 +17,8 @@
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 - ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
-- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+	- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
@@ -105,7 +106,7 @@
 
 
 
-## 😆 Semantics of Program
+## 😆 Semantics of Program In General
 🔥 🎬【操作系统上的程序 (什么是程序和编译器) [南京大学2022操作系统-P2]】 https://www.bilibili.com/video/BV12L4y1379V/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
@@ -118,12 +119,9 @@
 - ↗ [Set Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
-↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
-
 > 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html##sec:2.1
 
-**(Program) Semantics**
+**1. Program Semantics**
 Program semantics is about assigning meaning to programs. When we can talk about what a piece of syntax mean, it is easier to explain what a program does.
 
 We are going to discuss some different approaches to writing down the semantics of a program.  ==They all essentially turn programs syntax into mathematical logic.==
@@ -131,25 +129,49 @@ We are going to discuss some different approaches to writing down the semantics 
 ↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
 
 
-**Mathematical Logic Languages & Natural Deduction**
+**2. Prerequisite: Mathematical Logic Languages & Natural Deduction**
 ↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
+> 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html##sec:2.1
+
+If you are unfamiliar with Natural Deduction and Gentzen-style proofs, please refer to [the Wikipedia page](https://en.wikipedia.org/wiki/Natural_deduction) on the topic. The sort story is that we refer to logical rules like this: $$\frac{Premise_1, ... Premise_n}{Conclusion}(name)$$
+
+Which means that $(Premise_1 \land ... \land Premise_n)$ implies $Conclusion$.
+
+If we want multiple ways of reaching the conclusion, we can make more rules. For example, conjunction $A\land B$ only requires one rule, both A and B has to be true, while disjunction $A\lor B$ has two rules: either A has to be true or B has to be true. $$\frac{AB}{A∧B}(∧)\frac{A}{A∨B}(∨L)\frac{B}{A∨B}(∨R)$$
+In natural deduction, we build up syntactic objects which represents the truth of some event. We call them _judgements_. Many times you will see them written like $x\vdash y$, which is basically $\frac{x}{y}$ in its original Gentzen-style proofs. This is read: in the context of x, (we can infer) y is true. 
+
+
+**3. Formal Semantics of Program Language**
+↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+- ↗ [Denotational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics.md)
+- ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
+
 
 **Operational Semantics**
-Operational semantics describes the semantic of a program as changes to a state. This makes it ideal for describing imperative languages like the JVM bytecode.
+> ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
 
-The _Structural Operational Semantics_ or _Small Step Semantics_ are written as judgments of the type (ψ⊢σ→σ‾) which means given the environment ψ, the state of the program σ can be turned into σ‾.
+> 🔗 [Operational semantics - Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
+> 🔗 [Plotkin (2004)](https://courses.compute.dtu.dk/02242/topics/semantics.html#ref:plotkin2004origins)
+> 🔗 [A structural approach to operational semantics - Plotkin](https://www.cs.cmu.edu/~crary/819-f09/Plotkin81.pdf)
+
+==Operational semantics describes the semantic of a program as changes to a state.== This makes it ideal for describing **imperative languages** like the JVM bytecode.
+
+**Structural Operational Semantics/ Small Step Semantics**
+The _Structural Operational Semantics_ or _Small Step Semantics_ are written as judgments of the type ($\psi\vdash (\sigma→\overset{-}{\sigma})$) which means given the environment $\psi$, the state of the program $\sigma$ can be turned into $\overset{-}{\sigma}$.
 
 The reason we call this approach the small step semantics is that we only execute a single operation at a time.
 
-The _Natural Operational Semantics_ or _Big Step Semantics_, are describing running the program until it halts. (ψ⊢σ↓v) where v is the final value of the program. Big step semantics often looks nicer than small step semantics, because it does not have to care about execution order.
+**Natural Operational Semantics or Big Step Semantics**
+The _Natural Operational Semantics_ or _Big Step Semantics_, are describing running the program until it halts. $(\psi\vdash(\sigma\downarrow v)$ where $v$ is the final value of the program. Big step semantics often looks nicer than small step semantics, because it does not have to care about execution order.
 
-Big Step semantics have the benefit of being easier to read, however, it has some big disadvantages, namely: we cannot reason about programs that run forever, and we cannot turn big step semantics into a working implementation. In contrast, small step semantics are easy to convert into an interpreter, and we can always recover the big step semantics from the operational semantics by simply applying the single step semantics until the program terminates with a value:
+Big Step semantics have the benefit of being easier to read, however, it has some big disadvantages, namely: we cannot reason about programs that run forever, and we cannot turn big step semantics into a working implementation. In contrast, small step semantics are easy to convert into an interpreter, and we can always recover the big step semantics from the operational semantics by simply applying the single step semantics until the program terminates with a value: $$\frac{\psi\vdash (\sigma\to\overset{-}{\sigma}), \ \  \psi\vdash(\overset{-}{\sigma}\downarrow v)}{\psi\vdash(\sigma\downarrow v)}(step) \ \ \ \frac{\psi\vdash (\sigma\to v)}{\psi\vdash(\sigma\downarrow v)}(done)$$
 
  
 **Transition System** (in Kripe Structure)
-Using operational semantics, we can define the meaning of a program P as a Transition System:
+Using operational semantics, we can define the meaning of a program $P$ as a Transition System:
 
 (↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
 A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
@@ -175,14 +197,13 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 
 
 **Traces and Maximal Trace Semantics**
-A $Trace_P$ is the possible infinite sequence of states and operations of the program. $Trace_P=States_P^{*}$
+A $Trace_P$ is the possible infinite sequence of states and operations of the program. $Trace_P=(States_P)^{*}$
 
 The meaning of a program is now the set of traces that it exhibit:
  - $Semantics: Program \to 2^{Trace}$, or
- - $Sem(P)= \{\tau \in State_P^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
+ - $Sem(P)= \{\tau \in (State_P)^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
 
-This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math:
-$\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$
+This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math: $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$, where $\mathcal{L}$ stands for Language. (↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md))
 
 
 ### Digital Circuits and State Machine (Transition System)
@@ -305,6 +326,50 @@ C 程序的状态机模型3 (语义，semantics)
 > [An executable formal semantics of C with applications](https://dl.acm.org/doi/10.1145/2103621.2103719) (POPL'12)
 > [CompCert C verified compiler](https://compcert.org/motivations.html) and a [paper](https://xavierleroy.org/publi/compcert-backend.pdf) (POPL'06, Most Influential Paper Award 🏅)
 > [Copy-and-patch compilation](https://dl.acm.org/doi/10.1145/3485513) (OOPSLA'21, Distinguished Paper 🏅)
+
+
+
+## 🥸 Semantics of Program - Programming Language Specific
+
+↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+
+![|450](../../../../Assets/Pics/Pasted%20image%2020250303220015.png)
+
+
+### Declarative Programming Paradigm
+#### Haskell
+↗ [Haskell](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
+
+
+### Imperative Programming Paradigm
+#### Java and Java Bytecode
+↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
+↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:jvm-semantics
+
+In this section, we are going to introduce some of the semantics of a limited JVM. It is incomplete and you would have to complete it on your own.
+
+The goal of this section is to define the small step semantics of the JVM, and encode it in both math and in Python. You can follow along with the code in [`solutions/interpreter.py`](https://github.com/kalhauge/jpamb/blob/main/solutions/interpreter.py).
+
+In math, we want to define judgments of $bc\vdash(s\to\overset{-}{s})$, $bc\vdash(s\to ok)$, or $bc\vdash (s\to err(\text{‘𝚖𝚜𝚐’}))$, where $bc$ is the bytecode and $s$ is the state. And, in Python we want to define a function `step`, which given a state s computes either a new state s or a done string.
+
+```Python
+def step(s : State) -> State | str:
+    ...
+```
+
+#### C and C++
+↗ [C-Based Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
+↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+#### Go
+
+#### Rust
 
 
 

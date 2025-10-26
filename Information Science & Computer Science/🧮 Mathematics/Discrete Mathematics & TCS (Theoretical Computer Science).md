@@ -8,7 +8,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Theory](🧐%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 ↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
 

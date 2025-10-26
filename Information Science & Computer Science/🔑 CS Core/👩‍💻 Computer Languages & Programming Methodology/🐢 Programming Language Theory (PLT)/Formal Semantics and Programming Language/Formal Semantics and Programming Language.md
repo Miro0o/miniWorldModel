@@ -349,6 +349,8 @@ https://link.springer.com/book/10.1007/978-1-84628-692-6
 ↗ [Semantics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Semantics/Semantics.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
+↗ [Mathematical Modeling & Real World Problem Solving](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
 
 ### Formalization of Language
 ↗ [Mathematics](../../../../🧮%20Mathematics/Mathematics.md) "axiomatization of mathematical system"
@@ -379,7 +381,7 @@ Formal semantics is concerned with rigorously specifying the meaning, or behavio
 ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 ↗ [Theory of Computation](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
-↗ [Formal Semantics and Programming Language](Formal%20Semantics%20and%20Programming%20Language.md)
+Some formal semantics: 
 - ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
 - ↗ [Denotational Semantics](Denotational%20Semantics.md)
 - ↗ [Operational Semantics](Operational%20Semantics.md)

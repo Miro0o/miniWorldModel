@@ -7,7 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Lattice (Group Theory) & Lattice-Like Algebraic Structure](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure.md)
-↗ [Partial Order & Total Order (Linear Order) & Well-Order](../Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 
 
 

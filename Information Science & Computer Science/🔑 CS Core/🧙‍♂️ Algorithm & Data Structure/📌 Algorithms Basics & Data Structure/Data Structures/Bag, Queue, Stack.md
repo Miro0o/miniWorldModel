@@ -29,6 +29,7 @@ Bags, queues, and stacks are fundamental and broadly useful. We use them in impl
 ## Basic Stack & Derivatives
 ### Stack
 
+
 #### Stack Segment /Stack Frame
 A stack frame is a data structure used to keep track of information about a subroutine call, while a stack segment is a segment of memory used by the operating system to store the call stack.
 
