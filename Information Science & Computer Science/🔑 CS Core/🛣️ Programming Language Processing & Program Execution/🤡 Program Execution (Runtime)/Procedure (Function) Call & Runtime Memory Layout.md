@@ -44,10 +44,64 @@
 
 
 
-## Intro: Function /Procedure Calls Basics
-### Function /Procedure Calls in a C Example
+## Intro
+> 🔗 https://www.sciencedirect.com/topics/computer-science/procedure-call
+
+A procedure call in computer science refers to the invocation of a modular block of code, known as a procedure, which is designed to perform a specific task within a program. Depending on the particular [programming language](https://www.sciencedirect.com/topics/computer-science/programming-language), a procedure may be called a function, subroutine, method, or other names; some languages make distinctions between these terms. When a procedure is called, control is transferred from the calling procedure (the caller) to the called procedure (the callee), which executes its statements and may return control and possibly a value to the caller. Each procedure call creates and initializes procedure-local storage, which protects the caller's environment, establishes the callee's environment, and creates any linkages between those environments specified by the call and the language. This mechanism allows programmers to develop and test parts of a program in isolation, providing insulation against problems in other procedures.
+
+Procedure calls are fundamental to structuring programs and enabling abstraction. Procedures help define interfaces between system components; cross-component interactions are typically structured through procedure calls. They play a critical role in separate compilation, which allows [software developers](https://www.sciencedirect.com/topics/computer-science/software-developer) to build large software systems. Procedure calls provide an orderly transfer of control and a standard way to map arguments from the caller's name space to the callee's name space. The activation of a procedure refers to the instance of its execution, with each call creating a distinct activation that maintains its own local state. Procedures are essential in defining interfaces between system components and in enabling reliable code.
 
 
+### Why Procedure and Procedure Calls?
+This is how Turing machine is designed, and by this design it gives our the power of Turing machine, i.e. the computation power that can compute any problem described by a Turing-complete language. 🥸
+
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+![](../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+<small>What can computers do?</small>
+
+
+### Mechanisms of Procedure Calls
+> 🔗 https://www.sciencedirect.com/topics/computer-science/procedure-call
+
+Procedure calls are managed using a call stack, where each active procedure is represented by an [activation record](https://www.sciencedirect.com/topics/computer-science/activation-record) (also known as a stack frame) that stores [control information](https://www.sciencedirect.com/topics/computer-science/control-information), local variables, parameters, and the return address. The stack mechanism supports recursion by creating a distinct activation and state for each call to a procedure, and unwinds in last-in, first-out order as calls return, correctly tracking all return addresses and local states for [recursive computations](https://www.sciencedirect.com/topics/computer-science/recursive-computation) such as factorial calculations.
+
+[Parameter passing](https://www.sciencedirect.com/topics/computer-science/parameter-passing) methods include:
+- **[Call-by-value](https://www.sciencedirect.com/topics/computer-science/call-by-value)**: The caller evaluates actual parameters and passes their values to the callee; modifications in the callee are not visible to the caller.
+- **[Call-by-reference](https://www.sciencedirect.com/topics/computer-science/call-by-reference)**: The caller passes the address of the actual parameter, allowing changes in the callee to affect the caller's variable.
+- **Call-by-value-result**: Copies values back to actual parameters on return.
+- **Call-by-name**: Substitutes the actual parameter textually and may use thunks—functions that evaluate the actual parameter when accessed, as in Algol and R programming languages.
+
+Return values are handled by allocating space outside the callee's activation record, often in the caller's activation record or a designated register, with conventions ensuring both caller and callee agree on the size and location of the returned value.
+
+Calling conventions and [linkage conventions](https://www.sciencedirect.com/topics/computer-science/linkage-convention) are agreements between the compiler and [operating system](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/operating-system) that define the actions taken to call and return from a procedure, including mapping names to values, preserving environments, and enabling interoperability and separate compilation. These conventions standardize [calling sequences](https://www.sciencedirect.com/topics/computer-science/calling-sequence), allowing code from different sources and languages to interact safely and efficiently.
+
+The implementation of procedure calls involves four sequences:
+- **[Precall sequence](https://www.sciencedirect.com/topics/computer-science/precall-sequence)** in the caller: prepares arguments and preserves the caller's environment.
+- **Prologue** in the callee: establishes the callee's environment.
+- **Epilogue** in the callee: dismantles the callee's environment.
+- **[Postreturn sequence](https://www.sciencedirect.com/topics/computer-science/postreturn-sequence)** in the caller: restores the caller's environment.
+
+These sequences can be optimized by shifting work between caller and callee, and by using library routines for saving and restoring registers.
+
+[Object-oriented languages](https://www.sciencedirect.com/topics/computer-science/object-oriented-languages) may add an implicit parameter for the [receiver's object](https://www.sciencedirect.com/topics/computer-science/receiver-object) record.
+
+The compiler must emit code to evaluate actual parameters, allocate activation records, and maintain pointers such as the activation record pointer in a designated register.
+
+Leaf-call optimization reduces overhead in procedures that do not call others by omitting unnecessary operations, such as saving the return address, unless required for [debugging or monitoring tools](https://www.sciencedirect.com/topics/computer-science/debugging-tool).
+
+These mechanisms affect program control flow by providing orderly transfer of control and resource management through stack allocation and register preservation.
+
+
+### Procedure Calls in Programming Languages
+
+
+### Procedure Calls in Concurrent, Distributed, and Remote Systems
+
+
+
+## Same Process Procedure Call
 ### ⭐ Function /Procedure Calls in an x86 Example: A Quick Detour
 > ↗ [x86 Architecture Family (80x86, 8086 family)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 > ↗ [x86 ISA Based ASM](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
@@ -116,9 +170,13 @@ You might notice that we saved the old values of `eip` and `ebp` during the func
 
 
 ### How to Trace Function Calls? Or even System Calls ?
-#function_call #procedure_call 
+#function_call #procedure_call #system_call 
 
 ↗ [Software (Program) Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Software%20(Program)%20Analysis%20&%20Binary%20Engineering.md)
+↗ [Software (Program) Analysis Basics](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+
+↗ [📌 Computer Profiling & System Visibility](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
+↗ [System Calls](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 
 
 
@@ -143,31 +201,70 @@ Function call conventions are a set of rules that define how functions receive p
 
 
 
-## 👽 System Calls
+## Inter Process Procedure Calls
+### Inter Process Communication (IPC)
+↗ [IPC (Inter Process Communication)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+- ↗ [Synchronization](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Synchronization/Synchronization.md)
+	- Semaphore
+	- RWLock
+	- Mutex & Cond
+- ↗ [Signal](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Signal/Signal.md)
+- ↗ [Shared Memory](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Shared%20Memory/Shared%20Memory.md)
+- ↗ [Message Passing](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Message%20Passing/Message%20Passing.md)
+	- Message Queue
+	- Pipeline & FIFO
+- ↗ [Sockets](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
+	- ↗ [Internal Sockets](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
+	- ↗ [Network Sockets](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
+
+↗ [Concurrency & Locking & IPC in Linux](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Concurrency%20&%20Locking%20&%20IPC%20in%20Linux/Concurrency%20&%20Locking%20&%20IPC%20in%20Linux.md)
+↗ [Linux IPC Basics](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Concurrency%20&%20Locking%20&%20IPC%20in%20Linux/Linux%20IPC%20Basics.md)
+
+
+### 👽 System Calls
 ↗ [System Calls](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 ↗ [Linux System Calls](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
 
 
+### 🎯 Local Procedure Call (LPC)
+>↗ [Internal Sockets](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
+>↗ [Local Procedure Call (LPC)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Local%20Procedure%20Call%20(LPC).md)
 
-## 🎯 Local Procedure Call (LPC)
-> ↗ [Internal Sockets](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
+#### Local Process Calls Another Local Process
+##### Stack Frame Structure
+
+##### Procedure Call & Return Instruction
+
+##### Register Conventions
+
+##### 🤔 LPC Instance
+
+#### Local Process Calls Itself (Recursion)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md) "recursion"
+↗ [Number Sequence](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md) "recursion"
 
 
-### Local Process Calls Another Local Process
-#### Stack Frame Structure
-#### Procedure Call & Return Instruction
-#### Register Conventions
-#### 🤔 LPC Instance
+### 🎯 Remote Procedure Call (RPC)
+↗ [Remote Procedure Call (RPC)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
+↗ [Network Programming & RPC](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
-
-### Local Process Calls Itself (Iterative Calling)
+↗ [RPC Services](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
+↗ [Cloud RPC Services](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
 
 
 
-## 🎯 Remote Procedure Call (RPC)
-> ↗ [Remote Procedure Call (RPC)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
-> ↗ [Network Programming & RPC](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-> ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/RPC%20Services.md)
+## Optimization Techniques Related to Procedure Calls
+> 🔗 https://www.sciencedirect.com/topics/computer-science/procedure-call
+
+Inline expansion, also known as inlining, replaces a procedure call with the body of the called procedure, tailored to the specific call site, thereby eliminating most of the procedure linkage code and reducing call and return overheads. Inlining can improve performance, but may increase code size, especially when the procedure is called from multiple locations within a program. The decision to inline is influenced by factors such as callee size, caller size, dynamic and static call counts, constant-valued actual parameters, parameter count, and loop nesting depth; compilers often use heuristics based on these metrics to select profitable call sites for inlining.
+
+Tail call optimization specializes the handling of calls that occur as the last action in a procedure, allowing the compiler to eliminate much of the standard linkage overhead and, in the case of [tail recursion](https://www.sciencedirect.com/topics/computer-science/tail-recursion), to transform recursive calls into efficient loops. Leaf-call optimization targets procedures that do not call other procedures, enabling the compiler to omit unnecessary linkage code, such as saving and restoring registers, and to statically allocate activation records, reducing runtime costs.
+
+[Register allocation](https://www.sciencedirect.com/topics/computer-science/register-allocation) strategies for procedure calls involve passing parameters and return values in registers when possible, as exemplified by conventions like the ARM Procedure Call Standard, which uses registers r0–r3 for the first four parameters and r0 for the return value. The compiler may optimize register usage in [leaf procedures](https://www.sciencedirect.com/topics/computer-science/leaf-procedure) by trying to use [caller-saves registers](https://www.sciencedirect.com/topics/computer-science/caller-saves-register) before [callee-saves registers](https://www.sciencedirect.com/topics/computer-science/callee-saves-register), and by avoiding the save and restore code for callee-saves registers in the prologue and epilogue; in small leaf procedures, the compiler may be able to avoid all use of callee-saves registers.
+
+Parameter promotion can be used to remove inefficiencies related to ambiguous [memory references](https://www.sciencedirect.com/topics/computer-science/memory-reference), when the compiler can prove that an ambiguous value has just one corresponding [memory location](https://www.sciencedirect.com/topics/computer-science/memory-location) through detailed analysis of pointer values or [array subscript](https://www.sciencedirect.com/topics/computer-science/array-subscript) values. 9 Interprocedural optimizations, such as [inline substitution](https://www.sciencedirect.com/topics/computer-science/inline-substitution) and procedure placement, analyze and transform multiple procedures together. These techniques require the compiler to manage dependencies across procedures and may necessitate [recompilation](https://www.sciencedirect.com/topics/computer-science/recompilation) when source code changes affect optimization assumptions.
+
+The trade-off between abstraction benefits and runtime costs is evident in the overhead introduced by procedure calls, including activation record allocation, parameter evaluation, and state preservation. [Optimizing compilers](https://www.sciencedirect.com/topics/computer-science/optimizing-compiler) seek to reduce these costs while maintaining the modularity and [maintainability](https://www.sciencedirect.com/topics/computer-science/maintainability) provided by procedural abstraction. 13 10 When applying these [optimizations, compilers](https://www.sciencedirect.com/topics/computer-science/compiler-optimization) consider factors such as code size constraints, execution frequency, and metrics related to the caller, callee, and call site.
 
 
 

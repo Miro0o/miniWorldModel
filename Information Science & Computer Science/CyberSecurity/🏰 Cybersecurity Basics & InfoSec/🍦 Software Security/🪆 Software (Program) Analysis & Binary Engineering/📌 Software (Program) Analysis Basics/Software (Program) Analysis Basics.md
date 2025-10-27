@@ -69,7 +69,9 @@ Christian Gram Kalhauge | DTU
 
 
 ### Program and Program Analysis
-> ↗ [Math History & Development](../../../../../🧮%20Mathematics/Math%20History%20&%20Development.md)
+> ↗ [Math History & Development /Foundational Crisis of Mathematics](../../../../../🧮%20Mathematics/Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
+> ↗ [Mathematical Logic Basics (Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> 
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
@@ -111,7 +113,7 @@ One common theme behind all approaches to program analysis is that in order to r
 
 Another common theme, to be stressed throughout this book, is that all program analyses should be **semantics based**: this means that the information obtained from the analysis can be proved to be safe (or correct) with respect to a semantics of the programming language. It is a sad fact that new program analyses often contain subtle bugs, and a formal justification of the program analysis will help finding these bugs sooner rather than later. However, we should stress that we do not suggest that program analyses be semantics directed: this would mean that the structure of the program analysis should reflect the structure of the semantics and this will be the case only for a few approaches which are not covered in this book.
 
-
+---
 **Why Program Analysis?**
 Program Reliability
 - Null pointer dereference, memory leak, etc.
@@ -217,7 +219,7 @@ However, all hope is not lost! Although it's mathematically impossible to make a
 
 In most cases, you either care that something _may_ happen, or that it _must_ happen. In the program from before, we can quite easily say that it **may** fire the nukes. If we do not want the nukes from not being fired, we can flag this as a bug. However, we might also build a missile luncher, in which case the nukes **must** be fired when press the red button.
 
-These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
+These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Mathematical Logic Basics (Formal Logic)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
 
 > **Definition 3**: Soundness
 > In a sound system, we can only prove true things.
@@ -237,8 +239,19 @@ These kinds of analyses allows us to error one of the sides. Here we steal some 
 
 Translated into program analysis jargon, we say an analysis is sound if when it produce a fact, then that is a real fact, and complete if it always can find a fact about the program if it is there. ==Because the problem we are talking about is **undecidable**, we CANNOT both be sound and complete.==
 
-![|500](../../../../../../Assets/Pics/Screenshot%202025-09-08%20at%2023.56.20.png)
 ![](../../../../../../Assets/Pics/Pasted%20image%2020250908234809.png)
+
+
+**A Note: Soundness Confusion**
+One problem with the use of soundness and completeness in program analysis, is that depending of the culture and essentially the underlying question, soundness and completeness can mean the same thing. A sound analysis that reject buggy programs is the same as a complete analysis finds bugs in programs.
+
+**Program based questions focus on if the program is well formed.** Essentially, a sound analysis must only accept correct programs, and a complete analysis accept all correct analysis. This is often used with type-systems and static analyses.
+
+![|500](../../../../../../Assets/Pics/Screenshot%202025-09-08%20at%2023.56.20.png)
+
+Trace based questions focus on if the program contains an execution that ends in a state which contains a bug. In that case a sound analysis will only find correct traces, and complete analysis will find all traces. This is mostly used in dynamic analyses.
+
+==In case of confusion, use **may** and **must** instead.==
 ##### A Relaxed Goal: Approximative Answers
 > 📖 Static Program Analysis | Anders Møller and Michael I. Schwartzbach
 
@@ -250,20 +263,19 @@ Approximative answers may be useful for finding bugs in programs, which may be v
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.
 ##### Safe-Approximation & May /Must Analysis
 
-
 #### FP,TN,FN 🆚 TP
 It is also useful to talk about how a program analysis has performed on individual programs or bugs. To do this we use nomenclature from [classification](https://en.wikipedia.org/wiki/Binary_classification).
 
-An individual proposition Φ is either a true positive, true negative, false positive, or false negative, following the table below:
+An individual proposition $\Phi$ is either a true positive, true negative, false positive, or false negative, following the table below:
 
-|                            | $(\Sigma \not\models \Phi)$ | $(\Sigma \models \Phi)$ |
-| -------------------------- | --------------------------- | ----------------------- |
-| $(\Sigma \not\vdash \Phi)$ | True Negative               | False Negative          |
-| $(\Sigma \vdash \Phi)$     | False Positive              | True Positive           |
+|                            | $(\Sigma \models \Phi)$ | $(\Sigma \not\models \Phi)$ |
+| -------------------------- | ----------------------- | --------------------------- |
+| $(\Sigma \vdash \Phi)$     | True Positive           | False Positive              |
+| $(\Sigma \not\vdash \Phi)$ | False Negative          | True Negative               |
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020250908234329.png)
 
-A sound analysis, therefore, has no false positives, and a complete analysis has no false negatives.
+==A sound analysis, therefore, has no false positives, and a complete analysis has no false negatives.==
 #### Soundy & Soundiness
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-15-16/
 
@@ -303,7 +315,7 @@ Java native code难于分析的原因则是跨语言——最终会调用到C语
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
 
 - Manual vs Automatic Analysis
-	- The difference between manual and automatic analysis, is whether we have a well-defined procedure for analysing the code.
+	- The difference between manual and automatic analysis, is whether we have a well-defined procedure for analyzing the code.
 	- In many cases manual inspection is a crucial companion to automatic analysis. If taken to the extreme, we can actually require the user of the tool to prove to us that the code is correct. Now we only have to check the proof, which case we are entering the world of _Program Verification_.
 - Syntactic vs Semantic Analysis
 	- The difference between a syntactic and a semantic analysis is whether we focus on the **structure** of the program or on the **meaning** of the program.

@@ -71,11 +71,14 @@
 	- 程序的主要研究范围在于程序的设计及运行，前者涉及具体的编程语言和算法，后者涉及计算机硬件和软件的工作原理。
 #### Formal System & Language, Computer Language, and Programming Language
 ↗ [Language & Literature](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) "reasoning"
 
-↗ [Mathematics](../🧮%20Mathematics/Mathematics.md)
-↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Mathematics](../🧮%20Mathematics/Mathematics.md) "axiomatization"
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md) "formalization"
+- ↗ [Classical Logic (Standard Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) "construction of formal language"
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md) "computation as a formal language"
 
 > The distinction between formal language theory and logic
 > #formal_logic #formal_language
@@ -94,12 +97,15 @@
 #### Algorithm, Program, and Software
 ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+- ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+- ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 
 ### Program Semantics, Abstraction, and Interpretation
 ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro)
+↗ [Software (Program) Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+- ↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro)
 
 ↗ [Theory of Computation /Models of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
 ↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
@@ -113,7 +119,7 @@
 <small>For different levels in code analysis, we use different computational models. </small>
 
 
-### Transition System, Computation Tree, and Operational Semantics
+### 📌 Operational Semantics, Transition System, and Computation Trace
 ↗ [Mathematical Logic (Foundations of Mathematics)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 ↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Set Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Set%20Theory.md)
@@ -170,7 +176,7 @@ The _Natural Operational Semantics_ or _Big Step Semantics_, are describing r
 Big Step semantics have the benefit of being easier to read, however, it has some big disadvantages, namely: we cannot reason about programs that run forever, and we cannot turn big step semantics into a working implementation. In contrast, small step semantics are easy to convert into an interpreter, and we can always recover the big step semantics from the operational semantics by simply applying the single step semantics until the program terminates with a value: $$\frac{\psi\vdash (\sigma\to\overset{-}{\sigma}), \ \  \psi\vdash(\overset{-}{\sigma}\downarrow v)}{\psi\vdash(\sigma\downarrow v)}(step) \ \ \ \frac{\psi\vdash (\sigma\to v)}{\psi\vdash(\sigma\downarrow v)}(done)$$
 
  
-**Transition System** (in Kripe Structure)
+**4. Transition System** (in Kripe Structure)
 Using operational semantics, we can define the meaning of a program $P$ as a Transition System:
 
 (↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
@@ -196,7 +202,7 @@ For convenience, we write $s \xrightarrow[]{\alpha}s'$ instead of $(s,α,s') \in
 The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions to any state $s$. $L(s)$ intuitively stands for exactly those atomic propositions $a \in AP$ which are satisfied by state $s$. Given that $Φ$ is a propositional logic formula, then $s$ satisfies the formula $Φ$ if the evaluation induced by $L(s)$ makes the formula Φ true; that is: $s \models \Phi \iff L(s) \models \Phi$.
 
 
-**Traces and Maximal Trace Semantics**
+**5. Traces and Maximal Trace Semantics**
 A $Trace_P$ is the possible infinite sequence of states and operations of the program. $Trace_P=(States_P)^{*}$
 
 The meaning of a program is now the set of traces that it exhibit:
@@ -204,15 +210,17 @@ The meaning of a program is now the set of traces that it exhibit:
  - $Sem(P)= \{\tau \in (State_P)^n ~ | ~ n \in [1,∞], ~ \tau_0 \in I_P, ~ \forall i \in [1, n−1], ~ \theta_P(\tau_{i−1},\tau_i) \}$
 
 This is also called the **Maximal Trace Semantics**. We can now define properties, like does a program halt, using relatively well defined math: $\mathcal{L}_{halt}= \{P ~ | ~ ⁡P \in \mathcal{L}, ~ \forall \tau \in Sem(P), ~ |\tau|\neq \infty \}$, where $\mathcal{L}$ stands for Language. (↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md))
+#### Mathematical Model of Computer: Turing Machine
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
 
-### Digital Circuits and State Machine (Transition System)
+### Digital Circuits Semantics as State Machine (Transition System)
 状态 = 寄存器保存的值 (flip-flop)
 初始状态 = RESET (implementation dependent)
 迁移 = 组合逻辑电路计算寄存器下一周期的值
 
 
-### Program's State Machine Model (Programming Languages Semantics)
+### Programming Languages Semantics as State Machine (Transition System)
 > ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > - Push-Down Automaton (PDA)
 > 
@@ -305,6 +313,8 @@ C 程序的状态机模型3 (语义，semantics)
 > ↗ [Compilation Phase](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 > ↗ [Compilation & Program Loading Tools](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
+![Language_and_Programming_Language_Processing | 800](../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+
 编译器：源代码 $S$ (状态机) → 二进制代码 $C$ (状态机) $$C=compile(S)$$
 编译 (优化) 的正确性 (Soundness): 
 - $S$ 与 $C$ 的可观测行为严格一致
@@ -332,11 +342,18 @@ C 程序的状态机模型3 (语义，semantics)
 ## 🥸 Semantics of Program - Programming Language Specific
 
 ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+
+↗ [CPU (Central Processing Unit)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Address Space & Memory Layout](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
+<small>Computer Components: Top-Level View</small>
+
 ![|450](../../../../Assets/Pics/Pasted%20image%2020250303220015.png)
+![application_execution_and_computer_data_flow.excalidraw | 800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Dynamic code analysis</small>
 
 
 ### Declarative Programming Paradigm
@@ -344,12 +361,12 @@ C 程序的状态机模型3 (语义，semantics)
 ↗ [Haskell](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 
-### Imperative Programming Paradigm
+### Imperative Programming Paradigm and Semantics as Transition Systems
 #### Java and Java Bytecode
-↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
-↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
-↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> ↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+> ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+> ↗ [Java Bytecode](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:jvm-semantics
 
@@ -364,9 +381,220 @@ def step(s : State) -> State | str:
     ...
 ```
 
+
+**Java Bytecode Semantics as Transition System**
+State: values $V$
+- $V = ⟨\eta, \ \mu⟩$, where $\eta$ is the heap (global values $V_\eta$ shared across frames), and $\mu$ is the stack of frames (call stack) $\mu = \epsilon \ ⟨\lambda_1, \sigma_1,\iota_1⟩ \ ⟨\lambda_2, \sigma_2,\iota_2⟩ \ \cdots \ ⟨\lambda_n, \sigma_n,\iota_n⟩$
+- (pc $(\iota)$, local values /stack values $(V_\sigma)$, and global values /heap values $(V_\eta)$)
+State Transition: execution of on instruction where PC ($\iota$) points to: $V \overset{bc[\iota]}{\to} V'$
+- different instructions have different behaviors in changing $V$ to $V'$. see ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+
+Below ⬇️ are the explanation of above semantics.
+
+
+**The Context and the Program Counter**
+As with all single step semantics rules, the JVM is run in a context. This context is the bytecode $bc$. For now we will define a simple operation $bc[\iota]$ which looks up the bytecode instruction at $\iota$. $\iota$ is program counter, i.e., the name of the **method** and the **offset** in that method.
+
+We use the following short hands: $$\begin{aligned} & \iota =⟨\iota_m,\iota_o⟩ \\ 
+& \iota+n=⟨\iota_m,\iota_o+n⟩ \\
+& n/\iota=⟨\iota_m,n⟩
+\end{aligned}$$
+To do this in Python you can should do something like this:
+
+```python
+@dataclass
+class PC:
+    method: jvm.AbsMethodID
+    offset: int
+
+    def __iadd__(self, delta):
+        self.offset += delta
+        return self
+
+    def __add__(self, delta):
+        return PC(self.method, self.offset + delta)
+
+    def __str__(self):
+        return f"{self.method}:{self.offset}"
+
+
+@dataclass
+class Bytecode:
+    suite: jpamb.Suite
+    methods: dict[jvm.AbsMethodID, list[jvm.Opcode]]
+
+    def __getitem__(self, pc: PC) -> jvm.Opcode:
+        try:
+            opcodes = self.methods[pc.method]
+        except KeyError:
+            opcodes = list(self.suite.method_opcodes(pc.method))
+            self.methods[pc.method] = opcodes
+
+        return opcodes[pc.offset]
+```
+
+
+
+**The Values, Operator Stack, and Locals**
+The JVM is a **stack based virtual machine**, this means that instead of using *named variables* (registers) to store intermediate values, it instead uses an **operator stack**. Values stored in storage local to the methods are called locals, which can be accessed using indices. Finally, the machine can also store information in global memory, which is referred to as the heap.
+
+The values in (our interpretation of) JVM are dynamically typed, this means that every value caries around information about its type. There are two kinds of values, stack values $V_\sigma$ and heap values $V_\eta$. $$\begin{aligned} & V_\sigma := (\mathcal{int} \ n) \ | \ (\mathcal{float} \ f) \ | \ (\mathcal{ref} \ r) \\
+& V_\eta := V_\sigma \ | \ (\mathcal{byte} \ b) \ | \ (\mathcal{char} \ c) \ | \ (\mathcal{short} \ s) \ | \ (\mathcal{array} \ t \ a) \ | \ (\mathcal{object} \ cn \ fs)\end{aligned}$$
+The stack contains ints are signed 32 bit integers, floats are 32 bit floating point values (IEEE 754 Standard), and references to the heap which are only 32 bits.
+
+The heap can contain values from the stack, as well as bytes and chars that are 8 bits and 16 bits unsigned respectively, shorts are signed 16 bits, and arrays which a type and list of values, and objects which has a name and the values of the fields, which is a mapping from names to heap values.
+
+> In this course we'll not cover **long** and **double** as they are a pain in the \*ss. Furthermore, we'll try to avoid inner classes and bootstrap methods as well.
+
+Implementations of the values and types are stored in the [jpamb.jvm.Value](https://courses.compute.dtu.dk/02242/topics/semantics.html#https://github.com/kalhauge/jpamb/blob/main/jpamb/jvm/base.py).
+
+The stack is a list of values: $\sigma=(V_\sigma)^*$. $\epsilon$ denote the empty stack and we add and remove elements from the end of the stack. A stack with the integers 1, 2, and 3, looks like this: $\sigma = \epsilon \ (\mathcal{int} \ 1)(\mathcal{int} \ 2)(\mathcal{int} \ 3)$. A simple implementation of this in python can be done like this:
+
+```python
+@dataclass
+class Stack[T]:
+    items: list[T]
+
+    def __bool__(self) -> bool:
+        return len(self.items) > 0
+
+    @classmethod
+    def empty(cls):
+        return cls([])
+
+    def peek(self) -> T:
+        return self.items[-1]
+
+    def pop(self) -> T:
+        return self.items.pop(-1)
+
+    def push(self, value):
+        self.items.append(value)
+        return self
+
+    def __str__(self):
+        if not self:
+            return "ϵ"
+        return "".join(f"{v}" for v in self.items)
+```
+
+JVM saves local variables of type $V_\sigma$ to a local array $\lambda$. This is were the inputs to the method goes and any data that should be saved on the method stack instead of in the heap. The local array is indexed normally $\lambda[0]$.
+
+In its simplest form, the state of the JVM is a triplet $⟨\lambda,\sigma,\iota⟩$ which we will call a frame, where $\lambda$ is the locals, $\sigma$ is the operator stack and $\iota$ is the program counter.
+
+In Python, we would write:
+```Python
+@dataclass
+class Frame:
+    locals: dict[int, jvm.Value]
+    stack: Stack[jvm.Value]
+    pc: PC
+
+    def __str__(self):
+        locals = ", ".join(f"{k}:{v}" for k, v in self.locals.items())
+        return f"<{{{locals}}}, {self.stack}, {self.pc}>"
+```
+
+
+
+**The Stepping Function - On Current Frame Only**
+Most of our operations only operate on the frame, so we can already define our first simple SOS judgment like this: $$𝚋𝚌⊢⟨λ,σ,ι⟩→⟨\overset{-}{λ},\overset{-}{σ},\overset{-}{ι}⟩$$
+Anticipating the definition of `State` in the next section, we define the stepping function, like so:
+
+```Python
+def step(state: State) -> State | str:
+    frame = state.frames.peek() # Get the current frame
+    match bc[frame.pc]:
+      case ...
+```
+
+We are now ready for some examples. First we have the push operation (𝚙𝚞𝚜𝚑:𝙸 v): $$
+\frac{𝚋𝚌[ι]=(\text{𝚙𝚞𝚜𝚑:𝙸 v})}{𝚋𝚌⊢⟨λ,σ,ι⟩→⟨λ,σ(𝚒𝚗𝚝v),ι+1⟩}(\mathcal{push}_I) $$
+Which we can encode in Python like this:
+
+```Python
+case jvm.Push(value=v):
+    frame.stack.push(v)
+    frame.pc += 1
+    return state
+```
+
+We can also load values from the locals using the (𝚕𝚘𝚊𝚍:𝙸n) operation: $$\frac{𝚋𝚌[ι]=(\text{𝚕𝚘𝚊𝚍:𝙸 n}) \ \ (𝚒𝚗𝚝v)=λ[n]}{𝚋𝚌⊢⟨λ,σ,ι⟩→⟨λ,σ(𝚒𝚗𝚝v),ι+1⟩}(load_I)$$
+Which we can encode in Python like this:
+
+```Python
+case jvm.Load(type=jvm.Int(), index=n):
+    v = frame.locals[n]
+    assert v.type is jvm.Int()
+    frame.stack.push(v)
+    frame.pc += 1
+    return state
+```
+
+
+
+**The Call Stack and Heap -- Complete Stepping Function**
+In the JVM methods are capable of calling other methods. To support this we need a stack of frames, or a call stack μ: $$\mu ∼ \cdots ⟨λ_2,σ_2,ι_2⟩⟨λ_1,σ_1,ι_1⟩$$
+And now since we have multiple frames, we also need a way for the frames to share data. We call that the heap η. And it is just mapping from memory locations to $𝐕_η$. $$η∈ℕ→𝐕_η$$
+The state is now just a tuple of the heap and the call stack: $⟨η,μ⟩$. Which we can represent in Python like this:
+
+```Python
+@dataclass
+class State:
+    heap: dict[int, jvm.Value]
+    frames: Stack[Frame]
+```
+
+So now we have reached the correct definition of the stepping function, over the State. $$𝚋𝚌⊢⟨η,μ⟩→⟨\overset{-}{η},\overset{-}{μ}⟩$$
+We can use the operations we defined over frames, by lifting them into the state, by doing the frame operation **on the top frame**: $$\begin{aligned} & \frac{𝚋𝚌⊢⟨λ,σ,ι⟩→⟨\overset{-}{\lambda},\overset{-}{\sigma},\overset{-}{\iota}⟩}{𝚋𝚌⊢μ⟨λ,σ,ι⟩→μ⟨\overset{-}{λ},\overset{-}{σ},\overset{-}{ι}⟩}(\mathcal{lift}_\mu) \\ \\
+& \frac{𝚋𝚌⊢μ→\overset{-}{μ}}{𝚋𝚌⊢⟨η,μ⟩→⟨η,\overset{-}{μ}⟩}(\mathcal{lift}_\eta)
+\end{aligned}$$
+
+
+**Program Termination**
+Our simplification of the JVM terminates when we exit from the last method, or we encounter an error. We do that with either an `ok` or an `err(‘𝚛𝚎𝚊𝚜𝚘𝚗’)`: $$\begin{aligned}
+
+& \frac{𝚋𝚌[ι]=(𝚛𝚎𝚝𝚞𝚛𝚗:𝙸)}{𝚋𝚌⊢⟨η,ϵ⟨λ,σ(𝚒𝚗𝚝v),ι⟩⟩→ok}(return \ \epsilon) \\ \\
+
+& \frac{𝚋𝚌[ι]=(𝚛𝚎𝚝𝚞𝚛𝚗:𝙸) \ \ \begin{aligned} & μ_1=⟨λ_2,σ_2,ι_2⟩ \\ & μ_2=⟨λ,σ(𝚒𝚗𝚝v),ι⟩\end{aligned}}{𝚋𝚌⊢⟨η,μμ_1μ_2⟩→⟨η,μ⟨λ_2,σ_2(𝚒𝚗𝚝v),ι_2+1⟩⟩}(return \ \mu) 
+\end{aligned}$$
+In Python, we can represent terminating with no error by simply returning `ok` if the stack is empty:
+
+```Python
+case jvm.Return(type=jvm.Int()):
+    v1 = frame.stack.pop()
+    state.frames.pop()
+    if state.frames:
+        frame = state.frames.peek()
+        frame.stack.push(v1)
+        frame.pc += 1
+        return state
+    else:
+        return "ok"
+```
+
+One example of throwing an error is the divide operation: $$\begin{aligned} 
+& \frac{𝚋𝚌[ι]=(\text{𝚋𝚒𝚗𝚊𝚛𝚢:𝙸 𝚍𝚒𝚟}) \ v_2=0}{𝚋𝚌⊢⟨σ(𝚒𝚗𝚝v_1)(𝚒𝚗𝚝v_2),ι⟩→err(\text{‘𝚍𝚒𝚟𝚒𝚍𝚎 𝚋𝚢 𝚣𝚎𝚛𝚘’})}(\mathcal{bdiv}_{I0}) \\ \\
+& \frac{𝚋𝚌[ι]=(\text{𝚋𝚒𝚗𝚊𝚛𝚢:𝙸 𝚍𝚒𝚟}) \ \ \begin{aligned} & v_2≠0 \\ & v_3=v_1 /_{𝚒𝟹𝟸} v_2\end{aligned}}{𝚋𝚌⊢⟨σ(𝚒𝚗𝚝v_1)(𝚒𝚗𝚝v_2),ι⟩→⟨σ(𝚒𝚗𝚝v_3),ι+1⟩}(\mathcal{bdiv}_{I1})
+\end{aligned}$$
+Which can be translated into a single case match in Python. In the case we terminate with an error, we just return the corresponding string:
+
+```Python
+case jvm.Binary(type=jvm.Int(), operant=jvm.BinaryOpr.Div):
+    v2, v1 = frame.stack.pop(), frame.stack.pop()
+    assert v1.type is jvm.Int(), f"expected int, but got {v1}"
+    assert v2.type is jvm.Int(), f"expected int, but got {v2}"
+    if v2 == 0:
+        return "divide by zero"
+
+    frame.stack.push(jvm.Value.int(v1.value // v2.value))
+    frame.pc += 1
+    return state
+```
 #### C and C++
 ↗ [C-Based Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
 ↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+
 #### Go
 
 #### Rust

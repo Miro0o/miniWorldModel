@@ -70,10 +70,16 @@
 	- **Labels and Symbols**: ASM allows the use of labels and symbols to make code more understandable and to manage control flow (e.g., loop labels, function names).
 	- **Assembler**: An assembler is a tool that translates assembly language code into the corresponding machine code that the processor can execute.
 #### History of ASM
+↗ [History of Computer Evolution](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+[Microprocessor & Microprocessors Unit (MPU) /Evolution of Microprocessor](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor) 
 
 
 ### 🤔 How is High-Level Language Translated into ASM?
-↗ [Compilation Phase](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+- ↗ [Compilation Phase](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+- ↗ [Assembly Phase](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
+
+↗ [Assemblers](../🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)
 ↗ [Debuggers & Disassemblers & Decompilers](../🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 
 
@@ -118,6 +124,12 @@ add 对应的 MIPS 指令里 opcode 是 0，rs 代表第一个寄存器 s1 的�
 
 ### ASM and Bytecode
 #ASM #bytecode
+
+> ↗ [Bytecode](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Bytecode.md)
+> ↗ [Java Bytecode](🌙%20Hardware-Independent%20ASM%20&%20Bytecode%20Sets/Java%20Bytecode/Java%20Bytecode.md)
+> ↗ [JVM Instrument Set & Java Bytecode](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
+> 
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 Although ASM and Bytecode are different concepts, they still play somehow similar role considering their position in translating the semantics of high-level programming languages into low-level machine-readable instructions (?🤔).
 

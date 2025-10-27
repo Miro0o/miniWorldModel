@@ -102,6 +102,7 @@ Since its inception, mathematical logic has both contributed to and been motivat
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
+
 ### Foundational Crisis of Mathematics & Foundations of Mathematics
 > ↗ [Math History & Development /Foundational Crisis of Mathematics](../Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
 

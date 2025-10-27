@@ -1,4 +1,4 @@
-# x86 Instructions
+# x86_64 Instructions
 
 [TOC]
 
