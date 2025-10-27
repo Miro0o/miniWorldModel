@@ -435,8 +435,10 @@ class Bytecode:
 
 
 
-**The Values, Operator Stack, and Locals**
-The JVM is a **stack based virtual machine**, this means that instead of using *named variables* (registers) to store intermediate values, it instead uses an **operator stack**. Values stored in storage local to the methods are called locals, which can be accessed using indices. Finally, the machine can also store information in global memory, which is referred to as the heap.
+**The Values (Locals and Heap), Operator Stack**
+It's all about the values (data as in data vs instruction) in a code.
+
+The JVM is a **stack based virtual machine**, which means that instead of using *named variables* (registers) to store **intermediate values**, it instead uses an **operator stack**. Intermediate values are those that generated during an execution (expression evaluation) and weren't explicitly declared by code. Besides intermediate values, there are the "normal values", values declared by the code. For these values, those that stored local to the methods are called **locals**, which can be accessed using indices. Alternatively, values that stored in global memory and shared across methods is referred to as the **heap**.
 
 The values in (our interpretation of) JVM are dynamically typed, this means that every value caries around information about its type. There are two kinds of values, stack values $V_\sigma$ and heap values $V_\eta$. $$\begin{aligned} & V_\sigma := (\mathcal{int} \ n) \ | \ (\mathcal{float} \ f) \ | \ (\mathcal{ref} \ r) \\
 & V_\eta := V_\sigma \ | \ (\mathcal{byte} \ b) \ | \ (\mathcal{char} \ c) \ | \ (\mathcal{short} \ s) \ | \ (\mathcal{array} \ t \ a) \ | \ (\mathcal{object} \ cn \ fs)\end{aligned}$$
@@ -478,9 +480,59 @@ class Stack[T]:
         return "".join(f"{v}" for v in self.items)
 ```
 
+
+---
+> 🤖 ChatGPT 5 
+
+The **operand stack (σ)** is where bytecode instructions temporarily **push and pop values** while evaluating expressions or performing computations. It is **not** the same as the call stack — instead, it’s used _within_ a single method to hold intermediate results.
+
+Consider this Java code: 
+```
+int x = 2;
+int y = 3;
+int z = x + y;
+```
+
+The compiled bytecode might look like:
+```
+iconst_2         // push int 2
+istore_1         // store into local variable 1 (x)
+iconst_3         // push int 3
+istore_2         // store into local variable 2 (y)
+iload_1          // push x (2) onto stack
+iload_2          // push y (3) onto stack
+iadd             // pop top two ints (2, 3), add them, push result (5)
+istore_3         // pop 5 from stack, store into local variable 3 (z)
+
+```
+
+Now, step-by-step, here’s what happens to **σ**:
+
+| Instruction | Operand Stack (σ) Before | Operand Stack (σ) After | Description                 |
+| ----------- | ------------------------ | ----------------------- | --------------------------- |
+| `iconst_2`  | `[]`                     | `[2]`                   | push 2                      |
+| `istore_1`  | `[2]`                    | `[]`                    | pop 2 → store into local[1] |
+| `iconst_3`  | `[]`                     | `[3]`                   | push 3                      |
+| `istore_2`  | `[3]`                    | `[]`                    | pop 3 → store into local[2] |
+| `iload_1`   | `[]`                     | `[2]`                   | push local[1]               |
+| `iload_2`   | `[2]`                    | `[2, 3]`                | push local[2]               |
+| `iadd`      | `[2, 3]`                 | `[5]`                   | pop 3 and 2, push 5         |
+| `istore_3`  | `[5]`                    | `[]`                    | pop 5 → store into local[3] |
+
+So σ is simply the **temporary workspace** where bytecode instructions manipulate data.
+
+Each bytecode instruction **operates on operands**, which it **pops** from σ, performs an operation, and possibly **pushes** a result back.  
+For example:
+- `iadd`: pops 2 ints, pushes their sum.
+- `imul`: pops 2 ints, pushes their product.
+- `if_icmpge`: pops 2 ints, compares them, possibly changes `ι` (the program counter).
+
+That’s why it’s called an **operand stack** — it holds the **operands** (inputs) for the current operation.
+
+---
 JVM saves local variables of type $V_\sigma$ to a local array $\lambda$. This is were the inputs to the method goes and any data that should be saved on the method stack instead of in the heap. The local array is indexed normally $\lambda[0]$.
 
-In its simplest form, the state of the JVM is a triplet $⟨\lambda,\sigma,\iota⟩$ which we will call a frame, where $\lambda$ is the locals, $\sigma$ is the operator stack and $\iota$ is the program counter.
+In its simplest form, the state of the JVM is a triplet $⟨\lambda,\sigma,\iota⟩$ which we will call a frame, where $\lambda$ is an array that stores all the locals, $\sigma$ is the operator stack and $\iota$ is the program counter.
 
 In Python, we would write:
 ```Python
@@ -497,8 +549,8 @@ class Frame:
 
 
 
-**The Stepping Function - On Current Frame Only**
-Most of our operations only operate on the frame, so we can already define our first simple SOS judgment like this: $$𝚋𝚌⊢⟨λ,σ,ι⟩→⟨\overset{-}{λ},\overset{-}{σ},\overset{-}{ι}⟩$$
+**The Simplified Stepping Function - On Current Frame (Current Method/Procedure Execution) Only**
+Most of our operations only operate on one frame (no method/procedure calls, executing within single method/procedure), so we can already define our first simple SOS judgment on one frame: $$𝚋𝚌⊢⟨λ,σ,ι⟩→⟨\overset{-}{λ},\overset{-}{σ},\overset{-}{ι}⟩$$
 Anticipating the definition of `State` in the next section, we define the stepping function, like so:
 
 ```Python
@@ -534,7 +586,7 @@ case jvm.Load(type=jvm.Int(), index=n):
 
 
 **The Call Stack and Heap -- Complete Stepping Function**
-In the JVM methods are capable of calling other methods. To support this we need a stack of frames, or a call stack μ: $$\mu ∼ \cdots ⟨λ_2,σ_2,ι_2⟩⟨λ_1,σ_1,ι_1⟩$$
+Besides execution within one method /procedure, methods /procedures are also capable of calling other methods. To support this we need a stack of frames, or a call stack μ: $$\mu ∼ \cdots ⟨λ_2,σ_2,ι_2⟩⟨λ_1,σ_1,ι_1⟩$$
 And now since we have multiple frames, we also need a way for the frames to share data. We call that the heap η. And it is just mapping from memory locations to $𝐕_η$. $$η∈ℕ→𝐕_η$$
 The state is now just a tuple of the heap and the call stack: $⟨η,μ⟩$. Which we can represent in Python like this:
 

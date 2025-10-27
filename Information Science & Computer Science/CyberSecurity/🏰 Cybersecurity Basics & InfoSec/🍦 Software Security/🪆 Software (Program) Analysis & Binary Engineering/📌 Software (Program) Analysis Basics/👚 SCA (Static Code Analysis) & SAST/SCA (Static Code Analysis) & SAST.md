@@ -184,7 +184,7 @@ For both bounded or unbounded static analysis. ❤️
 ## Bounded Static Analysis (BSA)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html
 
-In bounded static analysis we want to talk about all the behaviors of the program up to some depth. There are no easy way to do this, because we have to handle a possible infinite set of traces, which by itself is hard to do.
+In bounded static analysis we want to talk about all the behaviors of the program **up to some depth**. There are no easy way to do this, because we have to handle a possible infinite set of traces, which by itself is hard to do.
 
 The idea behind bounded static analysis is straight forward. ==Instead of selecting a single initial state and then applying the semantics on that until a trace has been made (this is what we did with dynamic analysis), we start with the set of all initial states and then apply the semantics to all states at once.== Essentially, if dynamic analysis is depth first search, static analysis is breath first. While we have the downside of having to work with infinite sets of traces, we can be smart about it, and use **abstractions** to represent the set using a finite number of traces.
 
@@ -265,6 +265,11 @@ To do this, unbounded analyses rely on **mathematical abstractions** (rather tha
 
 
 ## Unbounded Static Analysis (USA)
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3
+
+The problem with bounded static analysis is that even if we run our static analysis for 1.000.000 iterations, we have no guarantee that our program will not exhibit bad behavior in iteration 1.000.001. Unbounded Static Analysis seeks to fix this, by running the static analysis until a fixed point is reached.
+
+
 ### USA in Formal Definition
 #### Safe-Approximation & May /Must Analysis
 

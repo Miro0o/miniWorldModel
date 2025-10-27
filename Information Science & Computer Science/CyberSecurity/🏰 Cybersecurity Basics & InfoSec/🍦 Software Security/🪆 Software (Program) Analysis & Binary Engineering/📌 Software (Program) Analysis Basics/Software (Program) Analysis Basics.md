@@ -262,7 +262,8 @@ Approximative answers may be useful for finding bugs in programs, which may be v
 > 🔗 [In Defense of Soundness: A Manifesto](https://dl.acm.org/doi/pdf/10.1145/2644805)
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.
 ##### Safe-Approximation & May /Must Analysis
-
+↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 #### FP,TN,FN 🆚 TP
 It is also useful to talk about how a program analysis has performed on individual programs or bugs. To do this we use nomenclature from [classification](https://en.wikipedia.org/wiki/Binary_classification).
 
