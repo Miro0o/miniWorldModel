@@ -12,7 +12,7 @@
 ↗ [信息安全相关学术会议列表](../Appendix/信息安全相关学术会议列表.md)
 
 ↗ [Research Topics in Cybersecurity](../Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20Cybersecurity.md)
-↗ [Scholars & Groups Lists - System](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System.md)
+↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 

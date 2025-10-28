@@ -1,4 +1,4 @@
-# Research Groups Watchlist - Profiles & Vacancies
+# Scholars & Groups Lists - System (and Security)
 
 [TOC]
 
@@ -53,7 +53,36 @@ https://zhuanlan.zhihu.com/p/1903423043965003329
 
 
 ## Asia - Others
+### SNU
+https://cse.snu.ac.kr/en/research/labs
+Dept. of Computer Science and Engineering
+
+https://ece.snu.ac.kr/en/research-faculty/research/groups
+Dept. of Electrical and Computer Engineering
+- [CompSec](https://compsec.snu.ac.kr/)
+- etc.
+
+
+### SKKU
+https://cse.skku.edu/eng_cse/research_area.do
+Dept. of Computer Science and Engineering
+- [Software Security Research Group](https://softsec.skku.edu/)
+- [Security Lab](https://seclab.skku.edu/)
+
+
+### POSTECH
+https://ecse.postech.ac.kr/department-introduction/summary/
+Dept. of Computer Science and Engineering
+- [ComSec Lab](https://compsec.postech.ac.kr/)
+- [System Software Lab](https://sslab.postech.ac.kr/)
+
+
 ### KAIST
+https://cs.kaist.ac.kr/
+School of Computing
+
+
+### NUS
 
 
 ### NTU
@@ -66,6 +95,15 @@ https://dr.ntu.edu.sg/entities/person/Liu-Yang
 
 
 ### CISPA Helmholtz Center
+
+
+### TU Munich
+https://www.cs.cit.tum.de/en/cs/home/
+Department of Computer Science
+TUM School of Computation, Information and Technology
+
+
+### Saarland University
 
 
 

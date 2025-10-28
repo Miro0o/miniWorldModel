@@ -9,7 +9,7 @@
 ↗ [International Opportunities](../International%20Opportunities.md)
 ↗ [Academics 🎓 (In CS)](../../../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
-↗ [Scholars & Groups Lists - System](../../../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System.md)
+↗ [Scholars & Groups Lists - System (and Security)](../../../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 ↗ [Academic Networks & Nepotism](../../../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [FAQ - Academia and Research](../../../../Academics%20🎓%20(In%20CS)/FAQ%20-%20Academia%20and%20Research.md)
