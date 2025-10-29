@@ -127,6 +127,11 @@ Curious exactly what happens when you run a program on your computer? Read this 
 		1. ↗ [Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 
 
+### What is A Computer?
+↗ [Computer Architecture /What is A Computer?](Computer%20Architecture/Computer%20Architecture.md#What%20is%20A%20Computer?)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+
+
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideology in CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
@@ -172,7 +177,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 ### Computer System Hardware Development
-↗ [History of Computer Evolution](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
 ↗ [History of Computer Networking and Communication Evolution](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 

@@ -7,7 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
-↗ [History of Computer Evolution](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+
+↗ [Computer (Host) System](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [History of Computing](../../../../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 
 

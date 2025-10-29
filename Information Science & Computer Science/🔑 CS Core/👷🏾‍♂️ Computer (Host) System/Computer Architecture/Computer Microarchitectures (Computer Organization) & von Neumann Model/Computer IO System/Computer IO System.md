@@ -60,6 +60,8 @@ This diversity makes a uniform and consistent approach to I/O, both from the poi
 
 ## I/O and Performance
 ### Amdahl's Law
+> ↗ [Multiprocessor Architectures & Parallel Computing /Amdahl’s Law (Gene Amdahl)](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md#Amdahl’s%20Law%20(Gene%20Amdahl))
+
 In 1967, Gene Amdahl recognized the interrelationship of all components with the overall efficiency of a computer system. He quantified his observations in a formula, which is now known as **Amdahl’s Law**. In essence, Amdahl’s Law states that ==the overall speedup of a computer system depends on both the speedup in a particular component and how much that component is used by the system.== In symbols:
 $$S = \frac{1}{(1-f)+(f/k)}$$
 
@@ -67,7 +69,6 @@ where
 - S is the **overall system speedup**;  
 - f is the **fraction of work** performed by the faster component;
 - k is the **speedup of a new component**.
-
 #### Different Expressions of 'Speed-up'
 
 

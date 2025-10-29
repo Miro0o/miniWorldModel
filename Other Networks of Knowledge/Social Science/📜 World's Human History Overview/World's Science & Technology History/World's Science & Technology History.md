@@ -13,7 +13,7 @@
 
 ↗ [History of Computing](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 - ↗ [The Development History of AI](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
-↗ [History of Computer Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [History of Information Systems & Security Systems](../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
@@ -115,7 +115,7 @@ In the 20th century, [Alexandre Koyré](https://en.wikipedia.org/wiki/Alexandre
 ### 👉 Third Industrial Revolution: Information & Digitalization (1947 ~ 2011)
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [History of Computing](../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
-↗ [History of Computer Evolution](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 
 
 

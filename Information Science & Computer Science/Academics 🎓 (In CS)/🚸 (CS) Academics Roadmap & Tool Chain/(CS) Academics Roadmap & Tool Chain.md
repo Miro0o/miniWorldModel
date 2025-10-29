@@ -86,7 +86,7 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 ### Academic Qualities ⭐ ⭐ 
 ↗ [🌲 Road To CS /0️⃣ Before you hit the road ...](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#0️⃣%20Before%20you%20hit%20the%20road%20...)
-↗ [How to write a good academic paper](How%20to%20write%20a%20good%20academic%20paper.md)
+↗ [Academic Writing (in English) & Research Paper Writing](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -225,7 +225,7 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 
 ## 3️⃣ Academic Paper Writing
-> ↗ [How to write a good academic paper](How%20to%20write%20a%20good%20academic%20paper.md)
+> ↗ [Academic Writing (in English) & Research Paper Writing](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
 
 
 ### Academic Writing Genres

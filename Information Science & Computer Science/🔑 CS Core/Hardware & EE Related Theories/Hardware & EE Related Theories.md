@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer (Host) System](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
-↗ [History of Computer Evolution](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [Computer Architecture](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 - ↗ [Microprocessor & Microprocessors Unit (MPU)](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)

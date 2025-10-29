@@ -232,7 +232,7 @@ Their answer was surprising in two ways. First, they proved that there were, in 
 ### Information Technology & Computer Science
 ↗ [🌲 Road To CS](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 ↗ [History of Information Systems & Security Systems](../../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
-↗ [History of Computer Evolution](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Computer_science
 

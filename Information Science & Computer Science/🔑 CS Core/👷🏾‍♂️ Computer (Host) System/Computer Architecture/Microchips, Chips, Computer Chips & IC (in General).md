@@ -15,13 +15,11 @@
 - ↗ [Computer IO System](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
 	- ↗ [Device Controllers & Adapter Cards (Expansion Cards)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Device%20Controllers%20&%20Adapter%20Cards%20(Expansion%20Cards)/Device%20Controllers%20&%20Adapter%20Cards%20(Expansion%20Cards).md)
 
+↗ [Digital (Logic) Electronics Foundations](../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md) 🤔🤔🤔
+↗ [Embedded Hardwares & Chips](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
+↗ [Systems on Chip (SOC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 ↗ [Computer Motherboards](../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Motherboards/Computer%20Motherboards.md)
 
-↗ [Embedded Hardwares & Chips](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
-
-↗ [Systems on Chip (SOC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
-
-↗ [Digital (Logic) Electronics Foundations](../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md) 🤔🤔🤔
 ↗ [Semiconductor Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 

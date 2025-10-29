@@ -1,10 +1,15 @@
-# Statement of Purpose (SoP) & Statement of Intent (SoI)
+# Statement of Purpose (Intent) (SoP) & Personal Statement (PS)
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+↗ [Academic Writing (in English) & Research Paper Writing](../../../../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
+
+
+### Other Resources
 👍 🚧 https://github.com/Swapnil-Gandhi/SoP-Template
 LaTeX Template for Statement of Purpose (SoP)
 
@@ -22,6 +27,9 @@ How can I write a good Statement of Purpose essay? | UCB
 https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf
 Writing Your Graduate School Application Essay | CMU
 
+https://blogs.library.columbia.edu/journalism/2014/02/writing-resources/
+Writing Resources for Master’s Projects | Columbia University Libraries
+
 动机信 (Motivation Letter) | 南方科技大学 飞跃手册
 https://sustech-application.com/#/grad-application/computer-science-and-engineering/(ML)-20-linyuhang
 https://fine-seed-211.notion.site/Motivation-Letter-69b629f48b2344c7be7379ed84d403d2?pvs=4
@@ -36,6 +44,26 @@ https://fine-seed-211.notion.site/Motivation-Letter-69b629f48b2344c7be7379ed84d4
 
 
 ## Intro
+### Difference Between PS & SoP?
+#ps #SoP
+
+> https://qr.ae/pKEraE
+
+Statement of purpose is about your plans for graduate school, and how you will plan to use your graduate education to pursue a career in research. If you are doing STEM, do NOT say you do not plan to go to academia. Some people view those who did a PhD and did not pursue a post-doc or something similar as failures. So a student who doesn’t even plan to go into academia doesn’t sound appealing to certain people. Ultimately depends on the person reading your application.
+
+Personal statement is usually more open ended. You can write about why the subject matter is meaningful to you. You can write about your struggles and achievements, etc… You could mention any outreach related to your subject matter. For example: “I went to local schools and talked to children about science, etc …“ Or if you were in a leadership position in some club or job, you could write about how that would make you a good researcher. In sum, you are trying to sell yourself as someone whose personality and behavior is professional and “good”, and ultimately someone worth spending resources on.
+
+If you are a minority and experienced hardships, you COULD write about that in the personal statement. However given that certain fields, like STEM, are either :
+
+A: bad at diversity, or
+
+B: do not care
+
+I would ask a professor you trust regarding that angle. And again, you would need to frame it as something that has made you “better”. However, some places do have special fellowships and grants for minority graduate students, so you should research that.
+
+
+
+## SoP
 ### SoP for Europe
 
 
@@ -63,6 +91,10 @@ https://fine-seed-211.notion.site/Motivation-Letter-69b629f48b2344c7be7379ed84d4
     - International travel which changed your perspective;
     - Special talents; and
     - Anything unique you would contribute to the program.
+
+
+
+## PS
 
 
 

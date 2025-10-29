@@ -219,12 +219,11 @@ https://www.csc.edu.cn/chuguo/list/73
 ## Master /PhD Application?
 ### How to Prepare Materials?
 Admission Materials: 
-1. [Statement of Purpose (SoP) & Statement of Intent (SoI)](Admission%20Materials/Statement%20of%20Purpose%20(SoP)%20&%20Statement%20of%20Intent%20(SoI).md)
-2. [Personal Statement (PS)](Admission%20Materials/Personal%20Statement%20(PS).md)
-3. [Letter of Recommendations (LORs)](Admission%20Materials/Letter%20of%20Recommendations%20(LORs).md)
-4. [Research Proposal (RP)](Admission%20Materials/Research%20Proposal%20(RP).md)
-5. [Academic Resume & Curriculum Vitae (CV)](Admission%20Materials/Academic%20Resume%20&%20Curriculum%20Vitae%20(CV).md)
-6. [Scholarship Essay](Admission%20Materials/Scholarship%20Essay.md)
+1. [Statement of Purpose (Intent) (SoP) & Personal Statement (PS)](Admission%20Materials/Statement%20of%20Purpose%20(Intent)%20(SoP)%20&%20Personal%20Statement%20(PS).md)
+2. [Letter of Recommendations (LORs)](Admission%20Materials/Letter%20of%20Recommendations%20(LORs).md)
+3. [Research Proposal (RP)](Admission%20Materials/Research%20Proposal%20(RP).md)
+4. [Academic Resume & Curriculum Vitae (CV)](Admission%20Materials/Academic%20Resume%20&%20Curriculum%20Vitae%20(CV).md)
+5. [Scholarship Essay](Admission%20Materials/Scholarship%20Essay.md)
 
 Language Learning:
 1. [GRE (Graduate Record Examinations)](Language%20Certificates/GRE%20(Graduate%20Record%20Examinations)/GRE%20(Graduate%20Record%20Examinations).md)

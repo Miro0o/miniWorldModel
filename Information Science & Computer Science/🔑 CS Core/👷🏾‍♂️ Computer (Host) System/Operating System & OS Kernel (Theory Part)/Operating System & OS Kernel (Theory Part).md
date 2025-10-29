@@ -157,7 +157,6 @@ Curious exactly what happens when you run a program on your computer? Read this 
 <small>Computer System Overveiw</small>
 
 ↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)
-↗ [Computer Architecture Overview](../Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md)
 
 
 ### Operating System Overview

@@ -129,9 +129,9 @@ Instead we want to use a _Parser_. A parser is a structured program which goal 
 
 Parsers are often generated automatically from grammars, and the grammars are often written in what is known as _Backus-Naur form_. In programming language theory, this is the primary way to define the syntax of a programming language.
 
-It is created by a set of productions (like with our grammar), but we allow each production to have multiple matches, separated by `|`: A:=abc|B|x* and B := a. The BNF is often extended with syntax for many ⋅* and some ⋅+. Furthermore, we often uses first-match semantics where we match on the first production we can. This makes the language _deterministically context-free_, which changes the complexity of parsing a program from O(n3) to O(n).
+It is created by a set of productions (like with our grammar), but we allow each production to have multiple matches, separated by `|`: $A:=abc|B|x*$ and $B := a$. The BNF is often extended with syntax for many "$⋅*$" and some "$⋅+$". Furthermore, we often uses first-match semantics where we match on the first production we can. This makes the language _deterministically context-free_, which changes the complexity of parsing a program from $O(n^3)$ to $O(n$).
 
-(There are many categories of parsers. Compilation theory covers most of them. 🤔)
+(There are many categories of parsers. Compilation theory covers most of them. 🤔 ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md))
 #### `Tree-sitter`
 🔗
 -  [Tree-sitter](https://tree-sitter.github.io/)
@@ -141,7 +141,16 @@ It is created by a set of productions (like with our grammar), but we allow each
 -  [A presentation of Tree-Sitter](https://www.youtube.com/watch?v=Jes3bD6P0To)
 -  [A Comprehensive Introduction to Tree-sitter](https://derek.stride.host/posts/comprehensive-introduction-to-tree-sitter)
 
-In practice, we can take a look at the grammars written for the [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/creating-parsers#writing-the-grammar) generator.
+In practice, we can take a look at the grammars written for the [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/creating-parsers#writing-the-grammar) generator. The cool thing about Tree-Sitter is that there [are defined grammars for most language](https://tree-sitter.github.io/tree-sitter) you would like to analyse, and has bindings to many languages including Java, Python, Go and Rust. In this example we are going to use Python (but try your own).
+
+The result of parsing a program is an parse tree, or a CST. You can play around with seeing different parse trees in the [tree-sitter playground](https://tree-sitter.github.io/tree-sitter/7-playground.html).
+
+At this point we would like to use this technology to match patterns in the code, to which we have two options. One solution is to extend the grammar to explicitly add rules that detect common errors. E.g ., we can write a parse rule that matches `x / 0`, and assigns it to a `div_error` group. However this is cumbersome, and not easily done. Our second option is to match patterns using Tree Sitters support for Queries, a built-in language for matching elements in the syntax tree. These queries are essentially regular expressions, but are matched at every level of the syntax tree.
+
+You can write your own queries using the [Query Syntax](https://tree-sitter.github.io/tree-sitter/using-parsers#pattern-matching-with-queries).
+
+
+**Example: Lambda Calculus**
 
 
 ### Type-1 Context-Sensitive Language: Trees 🤔
@@ -150,19 +159,83 @@ In practice, we can take a look at the grammars written for the [Tree-Sitter](h
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.3
 
 One big limitation of Tree-sitter queries (in context-free language) is that they do not currently support nested queries, and we need those if we want to match patterns with context.
+
+
+**Example: Code Context**
+The context of the match is important, in the following code, we want to see if `assertFalse` contains a divide by 0 exception. But because our match matches every thing without context, we match the 1/0 in `divideByZero` by mistake.
+
+```java
+public class Simple {
+  public static int assertFalse() {
+    assert False;
+  }
+  public static int divideByZero() {
+    return 1 / 0;
+  }
+}
+```
 #### Folds: General Matching of Patterns in Trees
 > 🔗 [Fold (higher-order function) - Wikipedia](https://en.wikipedia.org/wiki/Fold_\(higher-order_function\))
 > 🔗 [Catamorphism - Wikipedia](https://en.wikipedia.org/wiki/Catamorphism)
 > 🔗 [Catamorphisms - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms)
 > 🔗 [Meijer (1991)](https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#ref:meijer1991functional)
 
-We call recursively matching a pattern on a tree structure a fold. Actually, there is whole discipline in math devoted to this problem called Abstract Algebra. Here they have spend a lot of effort categorizing all kinds of folds (and unfolds). Here we refer to patterns as _Initial Algebras_, and we can see them as the nodes of the tree, where each edge is replaced by a hole. E.g ., the initial algebra of a list of x's [x] is F[x]a=(x,a)+⊥. The most common is called a catamorphism𝚌𝚊𝚝𝚊:(FXa→a)→X→a,which says I can reduce any structure X, with initial algebra F_X, given a function that given the algebra with have computed the value for all of your children, what is the value I should replace you with in your parent.
-#### Tree Traversals
+We call recursively matching a pattern on a tree structure a fold. Actually, there is whole discipline in math devoted to this problem called Abstract Algebra (↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)). Here they have spend a lot of effort categorizing all kinds of folds (and unfolds). Here we refer to patterns as _Initial Algebras_, and we can see them as the nodes of the tree, where each edge is replaced by a hole. E.g ., the initial algebra of a list of $x$'s $[x]$ is $F[x]a=(x,a)+⊥$. The most common is called a catamorphism: $$𝚌𝚊𝚝𝚊:(F_Xa→a)→X→a$$which says I can reduce any structure $X$, with initial algebra $F_X$, given a function that given the algebra with have computed the value for all of your children, what is the value I should replace you with in your parent.
+#### Tree Traversals & Traversal Order
 > ↗ [Tree Basics](../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
+> ↗ [Basic Searching](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Basic%20Searching/Basic%20Searching.md)
 > 
-> 🔗 [Tree traversal - Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal)
+> 🔗 [Tree traversal - Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal) "An interactive demonstration of different tree traversal methods"
 
-In practice, is general recursion often expensive in terms of speed and memory, luckily all recursions can be made into iterative traversals by mimicking the stack yourself. When we traverse we differentiate between pre and post orders. I.e., do we match for patterns on the way down or on the way up.
+In practice, general recursion often expensive in terms of speed and memory. Luckily, all recursions can be made into iterative traversals by mimicking the stack. When we traverse we differentiate between pre and post orders. I.e., do we match for patterns on the way down or on the way up.
+
+(In our case, we can use the built-in Tree-sitter cursor to traverse the tree.)
+
+Tree traversal order comes from the DFS order to a binary tree: 
+
+```C
+struct node{
+	int node_value;
+	int left_child;
+	int right_child;
+}
+
+
+// suppose the sentence "exec(node_value)" hit the current node.
+// the position "exec()" is palced determin the tree traversal order.
+
+int dfs(node n){
+	// if "exec()" is placed here, this is the pre-order;
+	dfs(n.left_child);
+	// if "exec()" is placed here, this is the in-order;
+	dfs(n.right_child);
+	// if "exec()" is placed here, this is the post-order;
+	
+	return 0;
+}
+
+
+// reverse xx-order just means we go to right first, instead of left first.
+int reverse_dfs(node n){
+	// if "exec()" is placed here, this is the reverse pre-order;
+	reverse_dfs(n.right_child);
+	// if "exec()" is placed here, this is the reverse in-order;
+	reverse_dfs(n.left_child);
+	// if "exec()" is placed here, this is the reverse post-order;
+	
+	return 0;
+}
+
+
+// e.g.: reverse post-order
+int reverse_dfs(node n){
+	reverse_dfs(n.right_child);
+	reverse_dfs(n.left_child);
+	exec(n.note_value);
+	
+	return 0;
+}
+```
 
 
 ### Type-0 R.E. Language: Bespoke ⭐

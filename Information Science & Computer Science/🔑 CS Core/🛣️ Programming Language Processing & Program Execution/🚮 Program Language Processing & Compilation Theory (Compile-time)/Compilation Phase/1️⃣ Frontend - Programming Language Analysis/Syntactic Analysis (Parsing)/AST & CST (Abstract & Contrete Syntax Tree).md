@@ -22,9 +22,7 @@
 
 ## AST Algorithm Review
 ### Pointer
-
 ![Screenshot 2023-01-23 at 1.14.03 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.14.03%20AM.png)
-
 
 一个简单的双指针。
 

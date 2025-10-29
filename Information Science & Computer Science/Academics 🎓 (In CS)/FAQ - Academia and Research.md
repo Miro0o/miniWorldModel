@@ -11,7 +11,7 @@
 > ↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 > 
 > ↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-> ↗ [How to write a good academic paper](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/How%20to%20write%20a%20good%20academic%20paper.md)
+> ↗ [Academic Writing (in English) & Research Paper Writing](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
 
 
 

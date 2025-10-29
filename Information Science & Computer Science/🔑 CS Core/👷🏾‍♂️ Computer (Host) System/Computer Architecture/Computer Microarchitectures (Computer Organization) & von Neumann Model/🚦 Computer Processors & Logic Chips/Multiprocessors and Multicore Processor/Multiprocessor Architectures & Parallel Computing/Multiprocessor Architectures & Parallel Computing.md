@@ -33,6 +33,8 @@ The engineering implementation to parallel computing or parallel processing can 
 
 
 ### Amdahl’s Law (Gene Amdahl)
+> ↗ [Computer IO System](../../../Computer%20IO%20System/Computer%20IO%20System.md) "Amdahl’s Law (Gene Amdahl)"
+
 Even parallel computing has its limits, however. As the number of processors increases, so does the overhead of managing how tasks are distributed to those processors.
 
 No matter how many processors we place in a system, or how many resources we assign to them, somehow, somewhere, a bottleneck is bound to develop. The best we can do, however, is make sure the slowest parts of the system are the ones that are used the least. This is the idea of Amdahl’s Law.
