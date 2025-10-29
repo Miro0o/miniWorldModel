@@ -111,6 +111,7 @@ An _interpretation_ is an [assignment](https://en.wikipedia.org/wiki/Valuatio
 
 ## Formal Synax Basics
 > ↗ [Mathematical Logic Basics (Formal Logic)](../Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Syntactic Analysis (Parsing)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 

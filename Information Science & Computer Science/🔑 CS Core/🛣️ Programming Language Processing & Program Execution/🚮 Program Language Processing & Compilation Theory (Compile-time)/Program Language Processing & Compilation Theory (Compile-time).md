@@ -1,4 +1,4 @@
-# Program Language Translation & Compilation Theory (Compile-time)
+# Program Language Processing & Compilation Theory (Compile-time)
 
 [TOC]
 

@@ -69,10 +69,17 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 
 
 ### Monotonicity & Fixed Point Axiom (of Lattice Function)
-> 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
+🔗
+-  [Fixed-point property - Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_property)
+-  [Ascending chain condition - Wikipedia](https://en.wikipedia.org/wiki/Ascending_chain_condition)
+-  [CS 6110 Lecture 21 The Fixed-Point Theorem, Andrew Myers](https://www.cs.cornell.edu/courses/cs6110/2013sp/lectures/lec20-sp13.pdf)
 #### Monotonicity
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
+
 函数 $f : L \to L$（$L$ 是格）是 **单调的**，当且仅当 $\forall x, y \in L,\; x \preceq y \Rightarrow f(x) \preceq f(y)$
 #### Fixed Point Axiom
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
+
 给定一个完全格 $(L, \preceq)$，如果 $f : L \to L$ 是单调的且 $L$ 是有限的，那么：
 1. **$f$ 的最小不动点**可以通过以下方式得到：不断迭代计算  $f(\bot),\; f(f(\bot)),\; \ldots,\; f^k(\bot)$ 直到到达这个不动点。
 2. **$f$ 的最大不动点**可以通过类似的方式得到：不断迭代计算 $f(\top),\; f(f(\top)),\; \ldots,\; f^k(\top)$ 直到到达这个不动点。
@@ -95,6 +102,8 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 
 3. 因此我们得到  $f^i(\bot) \preceq f^i(x_0)$。又因为 $x_0$ 是不动点，故 $f^i(\bot) \preceq f^i(x_0) = x_0$。
 4. 最终有  $f^{fix} = f^{k}(\bot) \preceq f^k(x_0) = x_0$，证毕。
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.1
 
 
 

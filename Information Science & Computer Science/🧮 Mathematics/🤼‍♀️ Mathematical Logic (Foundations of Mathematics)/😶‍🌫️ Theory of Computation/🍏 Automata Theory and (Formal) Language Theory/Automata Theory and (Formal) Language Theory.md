@@ -50,7 +50,7 @@ The **lexicographic order** of strings is the same as the familiar dictionary or
 Say that string $x$ is a **prefix** of string $y$ if a string $z$ exists where $xz=y$, and that $x$ is a **proper prefix** of $y$ if in addition $x \neq y$. 
 
 A **language** is a set of strings. A language is **prefix-free** if no member is a proper prefix of another member.
-#### Production Rules & Grammar of A Language (?)
+#### Production Rules & Grammar of A Language
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html##sec:2.3
 
 -  [`https://en.wikipedia.org/wiki/Production_(computer_science)`](https://en.wikipedia.org/wiki/Production_\(computer_science\))
@@ -62,6 +62,8 @@ We can now see if a word $w$ is in a language by generating all possible words
 
 
 ### Formal Language Theory
+> ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+
 > 🔗 https://en.wikipedia.org/wiki/Formal_language
 
 In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), a **formal language** consists of [words](https://en.wikipedia.org/wiki/Word "Word") whose [letters](https://en.wikipedia.org/wiki/Symbol_(formal) "Symbol (formal)") are taken from an [alphabet](https://en.wikipedia.org/wiki/Alphabet_(formal_languages) "Alphabet (formal languages)") and are [well-formed](https://en.wikipedia.org/wiki/Well-formedness "Well-formedness") according to a specific set of rules.
@@ -95,7 +97,7 @@ The Chomsky hierarchy in the fields of [formal language theory](https://en.wiki
 > Recall Complexity Classes ↗ [Computational Complexity Theory](../Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 > ![|400](../../../../../Assets/Pics/Screenshot%202025-08-01%20at%2021.45.14.png)
 > 
-> Recall ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md) and ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+> Recall ↗ [Programming Language Processing & Program Execution](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md) and ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 > ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 > <small>The process of compilation</small>
 #### Example of Languages in Chomsky Hierarchy

@@ -131,7 +131,7 @@ But how do we know if we have implemented our abstract operation correctly? Sinc
 The above equation requires us to create huge sets of values. Instead, we can use our **Galois connection** to rewrite the equation to see that we only have to show the following. ==Essentially, abstracting the result of an operation should be smaller than abstracting and then doing the operation in the abstract domain:== $$
 \alpha(A +_{2^{i32}} B) \subseteq \alpha(A) +_{\text{Sign}} \alpha(B) $$
 
-### Bounded Static Abstraction & Interpretation
+### 👉 Bounded Static Abstraction & Interpretation
 > Cousot, Patrick; Cousot, Radhia (1977). _Abstract interpretation._ [`doi:10.1145/512950.512973`](https://www.doi.org/10.1145/512950.512973) [link](https://doi.org/10.1145/512950.512973)
 > Cousot, Patrick; Cousot, Radhia (1979). _Systematic design of program analysis frameworks._ [`doi:pdf/10.1145/567752.567778`](https://www.doi.org/pdf/10.1145/567752.567778) [link](https://doi.org/pdf/10.1145/567752.567778)
 > Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
@@ -165,20 +165,17 @@ $$ \alpha(\text{step}(T)) \sqsubseteq_A \text{step}_A(\alpha(T))$$
 The above statement basically means, the abstraction of our original **program interpretation**, is less ($\sqsubseteq_A$) than the **abstract interpretation** of the original program.
 
 > To show this, follow sections below: state abstraction, per-instruction abstraction, per-variable abstraction, and variables abstractions.
-
-
----
-
+#### Abstraction
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.5
 
-One great thing about Galois connections is that they compose. This mean we can create one long chain: 
+One great thing about Galois connections is that they compose. This mean we can create one long chain: (`[A]` means abstraction)
 $$\begin{aligned} (2^{Trace}, \ \subseteq) & \leftrightarrow^\alpha_\gamma \ (2^{State}, \subseteq) &\text{State Abstraction} \\
 & \leftrightarrow^\alpha_\gamma \ (P_C,\sqsubseteq_{P_C}) &\text{Per-Instruction Abstraction} \\
 & \leftrightarrow^\alpha_\gamma \ (P_V,\sqsubseteq{P_V}) &\text{Per-Variable Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_V[Sign], \sqsubseteq_{P_C[Sign]}) &\text{Variables Abstraction}
+& \leftrightarrow^\alpha_\gamma \ (P_V[A], \sqsubseteq_{P_C[A]}) &\text{Variables Abstraction}
 \end{aligned}$$
-#### The State Abstraction
+##### The State Abstraction
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:state-abstraction
 
 The first, and most useful abstraction, is the **state abstraction**. Here we throw away everything from the trace except the final state (noted as $\text{State or } S$) of the trace: 
@@ -208,7 +205,7 @@ $$\begin{aligned}
 & \subseteq \text{BSA}_{\text{State}}^n
 \end{aligned}$$
 Which means that if $\text{err}(\text{‘assertion error’}) \notin \text{BSA}_{\text{State}}^n$, then $\{ \tau \mid \text{err}(\text{‘assertion error’}) \} \notin \text{BSA}^n$, Which is exactly the guarantee we are looking for in a **may analysis**.
-#### The Per-Instruction Abstraction
+##### The Per-Instruction Abstraction
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-instruction-abstraction
 
 In this abstraction, we want to take advantage of executing the same instruction in states with the same program counter.
@@ -237,7 +234,7 @@ $$\text{step}_{\mathbf{P_c}}(C) =
 \end{aligned}
 
 \right\}$$
-#### The Per-Variable Abstraction
+##### The Per-Variable Abstraction
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-variable-abstraction
 
 We are now faced with our first hard choice. 🤔
@@ -259,7 +256,7 @@ $$\mathbf{P_c} \leftrightarrow^{\alpha}_{\gamma} \mathbf{P_v}$$
 The problem with this abstraction -- and the reason this choice is hard -- is that this is the first abstraction that **severely over-approximates** our problem. 
 
 (More about this next time.)
-##### Variable Abstractions
+###### Variable Abstractions
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.4
 
 Finally, we are at a point where we can use our Sign Abstraction, by using it to abstract the sets of variables.
@@ -278,15 +275,196 @@ Specifically, we get this in our Sign Analysis:
 $$(\mathbf{P_V}, \sqsubseteq_{\mathbf{P_V}})
 \leftrightarrow^{\alpha}_{\gamma} 
 (\mathbf{P_V}[\text{Sign}], \sqsubseteq_{\mathbf{P_V}[\text{Sign}]})$$
+#### Abstract Interpreter Implementation
+> 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.2
+
+Now, we are going to look at what an implementation might look like. Because we are going to step all states at the same time, we need an `manystep` function ([Bounded Abstract Interpretation (§3)](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:bsa)). Here we take a set of states (abstracted by `A`), and yield all the states (or final states) which could be produced by it ([The State Abstraction (§3.1)](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:state-abstraction)).
+
+```Python
+def manystep(sts : StateSet[A]) -> Iteratable[A | str]:
+  ...
+```
+
+To run our bounded static analysis, we first have to compute the initial state, from the initial method (`methodid`), then we can simply run this a bounded number of times, and joining the results every time.
+
+```Python
+final = {}
+sts = A.initialstate_from_method(methodid)
+for i in range(MAX_STEPS):
+  for s in manystep(sts):
+    if isinstance(s, str):
+      final.add(s)
+    else:
+      sts |= s
+log.info(f"The following final states {final} is possible in {MAX_STEPS}")
+```
+##### Grouping Per Instruction
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:2.1
+
+The first thing we do is we ask the state set to break it down per instruction (see [The Per-Instruction Abstraction (§3.2)](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-instruction-abstraction)), we do this so we can process the states at the same instruction at the same time.
+
+```Python
+for pc, state in sts.per_instruction():
+  match bc[pc]:
+    case jvm.Binary(type=jvm.Int(), operant=opr):
+      ...
+```
+##### Grouping Per Variable
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:2.2
+
+At this point we would like to step the states according to the instructions, but we are at an impasse. We need to get the variables out of the set of states.
+
+One option (as we used in [The Per-Variable Abstraction (§3.3)](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:per-variable-abstraction)) is to merge all the states and create a single state with merged variables. But this comes at a loss of precision (see [Dependent Values (§1)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:dependent-variables)), or we can ask the states to group themselves by the variables needed.
+
+Here we use a group method which takes the set of states and group them by some query. By allowing the state to choose how group themselves, it can choose the most optimal grouping. In our case, we want to pop two integers:
+
+```Python
+for ([va1, va2], after) for state.group(pop=[jvm.Int(), jvm.Int()]):
+  ...
+```
+##### Doing The Operation
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:2.3
+
+At this point we have two abstract integers which we then use to do our computation. The computation is done using the state.binary method, which returns all possible pairs of values and states or failures. _Even though we already have the abstract values `va1` `va2` doing the operation on them might affect some other parts of the state, see [Dependent Values (§1)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:dependent-variables)_. If the result is not a failure, we update the state with the new value, using an update method.
+
+```Python
+for res in after.binary(opr, va1, va2):
+  match res with 
+    case (va3, after):
+        yield after.frame.update(push=[va3], pc=pc+1)
+    case err:
+        yield err
+```
+##### Constraining The Space
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:2.4
+
+Sometimes like with `Ifz`, operations sometimes can return multiples states. If we compare an abstract value with 0, it can both be true that some variables are smaller and some are larger. However, this might also have implications for the rest of the state. We need to return multiple states, one if something bad happens and one if it does not.
+
+```Python
+case jvm.Ifz(condition=con, target=target):
+  for ([va1], after) for state.group(pop=[jvm.Int()]):
+    for res in after.binary(con, va1, 0):
+      match res:
+        case (True, after):
+          yield after.frame.update(pc=target)
+        case (False, after):
+          yield after.frame.update(pc=pc+1)
+        case err:
+          yield err
+```
 
 
-### Unbounded Static Abstraction & Interpretation
+### 👉 Unbounded Static Abstraction & Interpretation
+> 🤖 Google Search AI Mode
+
+"Unbounded static abstraction" is a concept in program analysis, referring to the challenge of creating a finite, static model of a program that can handle potentially infinite, or "unbounded," data, such as memory from the heap. Unlike static memory, which has a fixed size, heap memory can grow unpredictably, and standard analysis techniques struggle to represent it with a finite abstraction. Static analysis must therefore use approximation techniques (abstraction here) to model this unbounded behavior while remaining sound and terminating.
+#### Fixed-Point Axiom
+↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+#### The Interval Abstraction + The Widening Operator
+> Please first check below "👉 Interval Abstraction -- Unbounded Analysis"
+>  
+>  ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 110)
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.3
+
+Because, we are not guaranteed to reach a fixed point with the interval abstraction, we need to force it. This is known as the widening operator, the goal of the widening operator ∇ is to dramatically over approximate joins in a way that we are guaranteed a fixed point in a finite number of steps.
+
+One way of adding a widening operator to the interval abstraction is to us a constant set, often referred to as $\mathbb{K}$. This set contains all the constants in the program or file of interest. This is like the dictionaries we used in the dynamic analysis.
+
+To define the widening operator, we define two operators $\min_K J$ and $\max_K J$ which, given a set of integers $J$, pick the largest and smallest, respectively, $k \in K \cup \{\infty, -\infty\}$ such that $k \le \min J$ and $k \ge \max J$.
+$$ [i, j] \nabla [k, h] =
+\left[
+  \min_K \{ i, k \},
+  \max_K \{ j, h \}
+\right] $$
+
+We can see that we can only apply this operator a finite number of times until we either get $\infty$ or $-\infty$.
+
+Now, when running our analysis, we use the $\nabla$ operator instead of the $\sqcup$ operator, and we can continue computing until we reach a fixed point.
+
+> Definition 3: K-Interval Abstraction
+> 
+> The interval abstraction $\text{Itval}_K$ is a tuple of two numbers $i, j$,   representing the interval of integers between $[i, j]$, both inclusive,  using a set of known boundaries $K$. $$\begin{aligned} \alpha(S) & = [\min S, \max S]  \\
+\gamma([i, j]) & = \{ n \in \mathbb{Z} \mid j \ge n \le i \} \\
+[i, j] \sqsubseteq_{\text{Itval}_K} [k, h] & \equiv k \le i \land j \le h \\
+[i, j] \sqcup_{\text{Itval}_K} [k, h] & \equiv [\min\{i, k\}, \max\{j, h\}] \\
+[i, j] \sqcap_{\text{Itval}_K} [k, h] & \equiv [\max\{i, k\}, \min\{j, h\}] \\
+\top_{\text{Itval}_K} & = [-\infty, \infty] \\
+\bot_{\text{Itval}_K} & = [\infty, -\infty] \\
+[i, j] \nabla_{\text{Itval}_K} [k, h] & =
+\left[
+  \min_K \{ i, k \},
+  \max_K \{ j, h \}
+\right]
+\end{aligned}$$
+
+> Activity 3: Define a Widening Operator  
+> Include a widening operator in your analysis, so that you only have to join a finite number of times.
+##### Proving Widening
+Proving that a widening operator is correct requires some carefulness.  
+We have to prove two properties:
+1. That $\nabla$ increases in size, and  
+2. That we can only apply the $\nabla$ operator a finite number of times before a fixpoint is reached.
+$$
+\begin{aligned} & \forall a, b \in A. \; a \subseteq (a \nabla b) \land b \subseteq (a \nabla b) \\
+& \exists n \in \mathbb{N}, \forall x \in A^{n+1},
+\; a \in A. \;
+(a_0 \nabla a_1) \nabla a_2 \dots \nabla a_n
+= ((a_0 \nabla a_1) \nabla a_2) \dots \nabla a_{n+1}
+\end{aligned}
+$$
+##### The Worklist Algorithm
+> ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 59)
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.4
+
+Currently our algorithm is a little slow, as we essentially in lockstep iterate over the entier program for every step.
+
+This is of cause silly, as we would much rather only handle unprocessed events. Consider you have a stepping function from a program locations and an abstract state to a set of program locations and abstract states, which needs to joined at those points: $$steps: PC\times\overset{-}{State}\to2^{PC\times\overset{-}{State}}$$
+Too extend our current implementation for this, we can modify the per_instruction method in StateSet to only emit
+
+```Python
+class StateSet[A]:
+  per_inst : dict[PC, A]
+  needswork : set[PC]
+
+  def per_instruction(self):
+    for pc in self.needswork: 
+      yield (pc, self.per_inst[pc])
+
+  # sts |= astate
+  def __ior__(self, astate):
+    old = self.per_inst[astate] 
+    self.per_inst[astate.pc] |= astate
+    if old != self.per_inst[astate.pc]:
+      needswork.add(astate.pc)
+  
+  ...
+```
+
+This approach uses significantly less instructions than running all steps every time, and still produce the same results.
+##### The Reverse Post-Order Traversal
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.4.1
+
+However there is still some work we can do to improve the algorithm. For-example, when you analyse the following program:
+
+```Java
+void fn() { 
+  int i = 0;
+  while (i < 100) { 
+    i += 1;
+  }
+  // Many operations on i.
+}
+```
+
+There is no reason to update the states after the while loop, before we have reached fixpoint of the while loop.
+
+The correct order to do this computation is in [reverse post-order](https://en.wikipedia.org/wiki/Tree_traversal). If you do this you are guranteed to process any loops first.
 
 
 
 ## 🎯 Program Analysis Abstraction & Interpretation - In Practice
 ### Examples For Beginners 🐣
-#### 👉 Sign Abstraction (The Sign Analysis)
+#### 👉 Sign Abstraction (The Sign Analysis) -- Bounded Analysis
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.1
 > Also, see above "Abstract Operations"
 
@@ -315,8 +493,89 @@ We can see that there exists a **Galois connection** between our concrete intege
 👉 <a>We can also see that we satisfy the rules.</a> Let's pick a concrete value $\{0, 1\}$. If we convert that to an abstract value we get: $\alpha(\{0, 1\}) = \{0, +\}$
 - Since $\alpha(\{0, 1\}) \sqsubseteq \{0, +\} \sqsubseteq \{0, +, -\},$  
 - and since  $\gamma(\{0, +\}) = \mathbb{Z}^{0, +} \quad \text{and} \quad \gamma(\{0, +, -\}) = \mathbb{Z}^{0, +, -},$
-- then we get that $\{0, 1\} \subseteq \mathbb{Z}^{0, +} \subseteq \mathbb{Z}.$
-#### 👉 Interval Abstraction
+- then we get that $\{0, 1\} \subseteq \mathbb{Z}^{0, +} \subseteq \mathbb{Z}.$ 
+##### Fix for Dependent Values
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:dependent-variables
+
+#### 👉 Interval Abstraction -- Unbounded Analysis
+> ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md) "Fixed Point"
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:interval-abstraction
+
+However, not all abstractions form a lattice of finite height. One example of such abstractions are the interval abstraction. 
+
+Here we represent a set integers as a interval between two numbers.
+
+> Definition 2: Interval Abstraction
+> 
+> The interval abstraction $\text{Itval}$ is a tuple of two numbers $i, j$,   representing the interval of integers between $[i, j]$, both inclusive. 
+> $$\begin{aligned} \alpha(S) & = [\min S, \max S]  \\
+\gamma([i, j]) & = \{ n \in \mathbb{Z} \mid i \le n \le j  \} \\
+[i, j] \sqsubseteq_{\text{Itval}} [k, h] & \equiv k \le i \land j \le h \\
+[i, j] \sqcup_{\text{Itval}} [k, h] & \equiv [\min\{i, k\}, \max\{j, h\}] \\
+[i, j] \sqcap_{\text{Itval}} [k, h] & \equiv [\max\{i, k\}, \min\{j, h\}] \\
+\top_{\text{Itval}_K} & = [-\infty, \infty] \\
+\bot_{\text{Itval}_K} & = [\infty, -\infty] \\
+\end{aligned}$$
+
+
+**Example: Runs forever**
+Consider the following program:
+
+```Java
+void example() {
+  int i = 0;
+  while (i >= 0) {
+    i = i + 1;
+  }
+}
+```
+
+In this case our interval analysis will look something like this:
+1 $\{i↦[0,0]\}$
+2 $\{i↦[0,0]\} 𝚜𝚎𝚎 𝚝𝚑𝚊𝚝 𝚒 >= 𝟶$
+3 $\{i↦[0,0]+[1,1]\}𝚒 = 𝚒 + 𝟷$
+4 $\{i↦[0,0]⊔[1,1]\}𝚕𝚘𝚘𝚙 𝚋𝚊𝚌𝚔$
+5 $\{i↦[0,1]\}𝚜𝚎𝚎 𝚝𝚑𝚊𝚝 𝚒 >= 𝟶$
+6 $\{i↦[0,1]+[1,1]\}𝚒 = 𝚒 + 𝟷$
+7 $\{i↦[0,1]⊔[1,2]\}𝚕𝚘𝚘𝚙 𝚋𝚊𝚌𝚔$
+8 ...𝚊𝚗𝚍 𝚜𝚘 𝚘𝚗
+
+This might continue forever, unless we find a better way.
+
+
+**Implement the Interval abstraction.**
+Now implement the range abstraction in your language of choice. Remember to test your abstraction:
+
+```Python
+from hypothesis import given
+from hypothesis.strategies import integers, sets
+
+@given(sets(integers()))
+def test_interval_abstraction_valid(xs):
+  r = Interval.abstract(xs) 
+  assert all(x in r for x in xs)
+
+@given(sets(integers()), sets(integers()))
+def test_interval_abstraction_distributes(xs, ys):
+  assert (Interval.abstract(xs) | Interval.abstract(ys)) == Interval.abstract(xs | ys)
+```
+
+
+**Implement Operations on Interval Abstraction.**
+Define the arithmetic operations you need to run your static analysis.
+
+You can use hypothesis to test them, remember you want the operations to be an over approximation:
+
+```Python
+@given(sets(integers()), sets(integers()))
+def test_interval_abstraction_add(xs,ys):
+  r = Interval.abstract(xs) + Interval.abstraction(ys)
+  assert all(x + y in r for x in xs for y in ys)
+```
+
+
+Notice that the latice of the interval abstraction does not have a finite height, we can always add 1 to either end of the interval.
 
 
 
