@@ -27,7 +27,11 @@
 
 ### Related Topics
 ↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-↗ [CWE (Common Weakness Enumeration)](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md)
+
+↗ [Vulnerabilities](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
+- ↗ [CWE (Common Weakness Enumeration)](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md)
+- ↗ [Real World Vulnerabilities Analysis](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/🤥%20Real%20World%20Vulnerabilities%20Analysis/Real%20World%20Vulnerabilities%20Analysis.md)
+↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 
 
 
@@ -59,6 +63,9 @@
 
 
 ## Human Factors in Web Attacks
+↗ [🫂 Human Factors in Web Security](🫂%20Human%20Factors%20in%20Web%20Security.md)
+
+
 ### Social Engineering
 
 

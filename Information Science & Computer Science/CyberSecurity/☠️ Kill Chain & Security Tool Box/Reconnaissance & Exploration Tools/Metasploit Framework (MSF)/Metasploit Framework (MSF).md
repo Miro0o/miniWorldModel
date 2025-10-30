@@ -50,3 +50,4 @@ Are you anxious to get your [Metasploit Development Environment](https://docs.me
 
 
 ## Ref
+[“SSH Exploitation: Brute-Force Attack and Privilege Escalation” | Medium]: https://medium.com/@zendpushkar/ssh-exploitation-brute-force-attack-and-privilege-escalation-e0772c64a77d

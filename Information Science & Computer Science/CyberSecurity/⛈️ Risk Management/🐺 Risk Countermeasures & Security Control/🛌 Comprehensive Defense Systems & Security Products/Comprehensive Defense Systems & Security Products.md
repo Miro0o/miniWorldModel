@@ -11,6 +11,9 @@
 
 
 ### Other Resources
+https://www.cisecurity.org/cybersecurity-tools
+Cybersecurity Tools and Resources
+CIS offers a variety of cybersecurity best practices, products, services, and memberships that are designed to help organizations around the world enhance their cybersecurity posture. Explore the list to learn more about which offerings can meet your needs.
 
 
 

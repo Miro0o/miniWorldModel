@@ -7,10 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
-- ↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
-↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
-
-↗ [Europa Universalis](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [History of Philosophy](../../♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
+↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 ↗ [U.S. History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
@@ -19,6 +17,9 @@
 ↗ [Japanese History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
 ↗ [Korean History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
 ↗ [Iran History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
+
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+↗ [Europa Universalis](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
 
 
 ### Books & Courses
@@ -720,7 +721,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
 
 
-### Crete Island
+### Crete Island & Aegean Sea
 
 
 ### Ancient America

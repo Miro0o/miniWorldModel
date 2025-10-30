@@ -9,6 +9,8 @@
 ↗ [Operating System & OS Kernel (Theory Part)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [Linux Distros](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/Linux%20Distros.md)
+
 ↗ [Mini OS Kernels](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/Mini%20OS%20Kernels.md)
 - ↗ [Xv6](../📟%20System%20Level%20Programming/🧑🏽‍🏫%20Mini%20OS%20Kernels/Xv6/Xv6.md)
 - ↗ [MINIX](../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/MINIX/MINIX.md)

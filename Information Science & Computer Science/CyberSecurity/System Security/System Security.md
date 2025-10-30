@@ -14,6 +14,10 @@
 
 ↗ [Host & Endpoint Security Products](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Host%20&%20Endpoint%20Security%20Products/Host%20&%20Endpoint%20Security%20Products.md)
 
+↗ [Task Management & Scheduling (Process & Threads)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Task%20Management%20&%20Scheduling%20(Process%20&%20Threads).md)
+↗ [Identity & Access Management (IAM)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
+- ↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+
 
 ### Courses & Books
 🏫 [UCB /CS161 Computer Security](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
@@ -31,6 +35,10 @@
 
 
 ## Intro
+![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+
+
+### Security Configuration
 
 
 

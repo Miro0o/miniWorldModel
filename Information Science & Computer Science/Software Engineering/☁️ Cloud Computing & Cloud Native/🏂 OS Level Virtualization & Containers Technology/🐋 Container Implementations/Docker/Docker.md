@@ -9,6 +9,9 @@
 🫂 https://www.dockone.io
 
 
+### Related Topics
+
+
 ### Learning Resources
 📂 [Docker Docs](https://docs.docker.com)
 🗺 [Docker 学习路线 ](https://www.cnblogs.com/poloyy/p/15257059.html)
@@ -25,6 +28,12 @@ Docker 学习笔记
 🤔 [Docker Kubernetes Lab Handbook](https://docker-k8s-lab.readthedocs.io/en/latest/index.html)
 
 
+### Other Resources
+https://docs.docker.com/get-started/overview/
+https://learn.snyk.io/lessons/container-runs-in-privileged-mode/kubernetes/
+https://snyk.io/blog/10-docker-image-security-best-practices/
+
+
 
 ## Intro
 ![](../../../../../../Assets/Pics/Pasted%20image%2020230308140205.png)
@@ -34,9 +43,9 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 
 ## 🧑🏿‍🦯 Basics
-
 > 🔗 https://docs.docker.com/get-started/overview/
 > 🔗 [Language-specific Guides](https://docs.docker.com/language/)
+
 
 ### Docker Architecture
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-07%20at%201.29.34%20PM.png)

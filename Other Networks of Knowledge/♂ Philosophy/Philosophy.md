@@ -14,7 +14,7 @@
 ↗ [中国共产党思想体系](../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 
-### Other Resources
+### Learning Resources
 #### Online Resources
 https://iep.utm.edu/
 Internet Encyclopedia of Philosophy
@@ -22,6 +22,9 @@ Internet Encyclopedia of Philosophy
 https://plato.stanford.edu/
 Stanford Encyclopedia of Philosophy
 #### Books
+
+
+### Other Resources
 
 
 

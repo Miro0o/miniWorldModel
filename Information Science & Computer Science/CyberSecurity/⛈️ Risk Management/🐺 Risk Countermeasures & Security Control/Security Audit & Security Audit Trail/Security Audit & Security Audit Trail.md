@@ -11,6 +11,12 @@
 ↗ [Software (Program) Analysis & Binary Engineering](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Software%20(Program)%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Techniques - Vulnerability Disclosure & Discovery](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 
+↗ [Vulnerabilities](../../🦟%20Vulnerabilities/Vulnerabilities.md)
+↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+↗ [Vulnerability Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
+
+↗ [Attack Surface Management (ASM)](../../🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
+
 
 
 ## Intro

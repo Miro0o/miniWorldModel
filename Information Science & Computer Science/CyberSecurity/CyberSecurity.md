@@ -329,6 +329,10 @@ https://thehackernews.com
 ---
 https://hackernoon.com/
 
+---
+https://book.hacktricks.wiki/en/index.html
+
+
 
 ### Events & Community
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)

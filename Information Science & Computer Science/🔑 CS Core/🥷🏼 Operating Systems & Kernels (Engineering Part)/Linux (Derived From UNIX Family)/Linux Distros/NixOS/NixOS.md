@@ -9,7 +9,6 @@
 🚧 https://github.com/NixOS/nix
 
 See our [Hacking guide](https://nixos.org/manual/nix/unstable/contributing/hacking.html) in our manual for instruction on how to to set up a development environment and build Nix from source.
-
 - [Nix manual](https://nixos.org/nix/manual)
 - [Nix jobsets on hydra.nixos.org](https://hydra.nixos.org/project/nix)
 - [NixOS Discourse](https://discourse.nixos.org/)

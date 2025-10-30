@@ -9,6 +9,10 @@
 ↗ [Software Weakness Analysis & Attack Surface](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/🔬%20Software%20Weakness%20Analysis%20&%20Attack%20Surface/Software%20Weakness%20Analysis%20&%20Attack%20Surface.md)
 ↗ [Cyberspace Assets Mapping & Management](../🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
+↗ [Vulnerabilities](../../🦟%20Vulnerabilities/Vulnerabilities.md)
+↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+↗ [Vulnerability Government（漏洞管控）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Government（漏洞管控）.md)
+
 
 
 ## Intro
