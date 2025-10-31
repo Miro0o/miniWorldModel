@@ -1,4 +1,4 @@
-# (Formal) Verification & Analysis Programming Languages
+# Formal Verification & Analysis Programming Languages
 
 [TOC]
 

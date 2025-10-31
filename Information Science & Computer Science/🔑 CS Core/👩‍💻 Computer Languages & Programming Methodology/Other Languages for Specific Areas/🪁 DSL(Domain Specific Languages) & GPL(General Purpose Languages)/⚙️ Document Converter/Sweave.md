@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Markdown](../Markup%20Languages/Markdown.md)
+↗ [Markdown](../Markup%20Languages%20&%20Data%20Representation/Markdown.md)
 ↗ [knitr](knitr.md)
 
 
