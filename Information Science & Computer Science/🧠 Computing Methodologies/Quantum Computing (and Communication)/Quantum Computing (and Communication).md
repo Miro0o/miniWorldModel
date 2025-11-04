@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Quantum Cryptography](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cryptography/Quantum%20Cryptography.md)
+↗ [Quantum Cryptography & Post-Quantum Cryptography (PQ)](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ)/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ).md)
 
 
 ### Other Resources

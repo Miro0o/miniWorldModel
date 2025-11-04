@@ -126,7 +126,7 @@ Digital Signature is an implementation of asymmetric cryptography.
 
 
 ### 4️⃣ Quantum Cryptography
-> ↗ [Quantum Cryptography](Quantum%20Cryptography/Quantum%20Cryptography.md)
+> ↗ [Quantum Cryptography & Post-Quantum Cryptography (PQ)](Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ)/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ).md)
 
 
 

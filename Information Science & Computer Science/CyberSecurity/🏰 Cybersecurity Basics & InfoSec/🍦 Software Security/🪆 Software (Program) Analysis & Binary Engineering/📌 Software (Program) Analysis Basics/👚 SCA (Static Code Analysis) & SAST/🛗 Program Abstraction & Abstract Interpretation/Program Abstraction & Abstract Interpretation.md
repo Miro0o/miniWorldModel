@@ -17,7 +17,7 @@
 ## Intro
 ### Program Semantics & Program Interpretation
 ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md) (program semantics, abstraction, and interpretation)
 
 Program interpretation: precisely same semantics
 Abstract interpretation: approximated semantics
@@ -360,7 +360,7 @@ case jvm.Ifz(condition=con, target=target):
 "Unbounded static abstraction" is a concept in program analysis, referring to the challenge of creating a finite, static model of a program that can handle potentially infinite, or "unbounded," data, such as memory from the heap. Unlike static memory, which has a fixed size, heap memory can grow unpredictably, and standard analysis techniques struggle to represent it with a finite abstraction. Static analysis must therefore use approximation techniques (abstraction here) to model this unbounded behavior while remaining sound and terminating.
 #### Fixed-Point Axiom
 ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
-#### The Interval Abstraction + The Widening Operator
+#### The Widening Operator (The Interval Abstraction as An Example)
 > Please first check below "👉 Interval Abstraction -- Unbounded Analysis"
 >  
 >  ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 110)

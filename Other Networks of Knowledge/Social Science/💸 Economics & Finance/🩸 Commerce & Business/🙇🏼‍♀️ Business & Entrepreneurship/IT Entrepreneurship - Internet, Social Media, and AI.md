@@ -9,7 +9,7 @@
 ↗ [Web Development & The Internet](../../../../../Information%20Science%20&%20Computer%20Science/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 ↗ [LLM (Large Language Model)](../../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-- ↗ [LLM Agents & Agentical LLM](../../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
+- ↗ [LLM Agents & AI Workflow](../../../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20AI%20Workflow/LLM%20Agents%20&%20AI%20Workflow.md)
 - ↗ [AI(LLM) x SE](../../../../../Information%20Science%20&%20Computer%20Science/Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [LLM & Security](../../../../../Information%20Science%20&%20Computer%20Science/CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 

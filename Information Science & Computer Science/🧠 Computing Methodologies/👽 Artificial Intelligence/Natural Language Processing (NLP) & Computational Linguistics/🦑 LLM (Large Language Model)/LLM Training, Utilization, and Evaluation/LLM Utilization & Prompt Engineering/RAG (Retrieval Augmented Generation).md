@@ -19,3 +19,9 @@ When dealing with real-time information or specialized domain knowledge, LLMs ma
 
 ## Ref
 [👍 Fine-Tuning, PEFT, Prompt Engineering, and RAG]: https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/
+
+[Coze与Dify知识库问答对比 | 国产AI应用开发平台扣子能遥遥领先吗？ | youtube]: https://youtu.be/yThgq4OdTdw?si=lZaZiVIpOIM2Cin8
+- naive rag:
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-11-01%20at%2022.49.40.png)
+- Parent Document Retriever
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-11-01%20at%2022.50.09.png)

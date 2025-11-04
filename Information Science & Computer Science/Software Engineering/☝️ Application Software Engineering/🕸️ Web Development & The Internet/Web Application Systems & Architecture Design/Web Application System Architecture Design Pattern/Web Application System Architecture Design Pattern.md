@@ -14,7 +14,7 @@
 ↗ [JAMStack (Javascript、APIs、Markup)](../../🖥️%20Web%20FrontEnd%20Dev/JAMStack%20(Javascript、APIs、Markup)/JAMStack%20(Javascript、APIs、Markup).md)
 ↗ [WASM (WebAssembly)](../../🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 
-↗ [LLM Agents & Agentical LLM](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
+↗ [LLM Agents & AI Workflow](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20AI%20Workflow/LLM%20Agents%20&%20AI%20Workflow.md)
 
 
 ### Learning Resources

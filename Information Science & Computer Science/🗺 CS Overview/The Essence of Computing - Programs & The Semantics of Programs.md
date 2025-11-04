@@ -71,15 +71,21 @@
 	- 编程语言主要的研究范围在于形式语言的设计及实现，前者主要涉及对应的数学知识，后者还涉及软件工程；
 	- 程序的主要研究范围在于程序的设计及运行，前者涉及具体的编程语言和算法，后者涉及计算机硬件和软件的工作原理。
 #### Formal System & Language, Computer Language, and Programming Language
-↗ [Language & Literature](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) "reasoning"
+↗ [Language & Literature](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md) (the basic of information science)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) "reasoning (an informal approach)"
 
 ↗ [Mathematics](../🧮%20Mathematics/Mathematics.md) "axiomatization"
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+- ↗ [Proof Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md) "reasoning in formal way"
+	- ↗ [Gentzen-Style Proofs (Natural Deduction)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 ↗ [Mathematical Logic Basics (Formal Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md) "formalization"
 - ↗ [Classical Logic (Standard Logic)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
 ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) "construction of formal language"
 ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md) "computation as a formal language"
+
+↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 > The distinction between formal language theory and logic
 > #formal_logic #formal_language
@@ -91,12 +97,9 @@
 > - **Logic** is concerned with **semantics** and the rules of reasoning. It asks whether a valid formula is true or provable. 
 > 
 > For example, the syntax of a programming language like Python can be described by a context-free grammar. However, the program's actual logic, meaning, and behavior are not described by the Chomsky hierarchy. Similarly, a formal language used for logic (e.g., predicate calculus) can be classified on the hierarchy, but the classification says nothing about the logic's ability to express concepts like truth or validity.
-
-↗ [Computer Languages & Programming Methodology](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-- ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 #### Algorithm, Program, and Software
-↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md) (what is algorithm?)
+↗ [Software (Program) Analysis Basics](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md) (what is program?)
 ↗ [Programming Language Processing & Program Execution](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 - ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 - ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
@@ -110,6 +113,12 @@
 
 ↗ [Theory of Computation /Models of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
 ↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+
+ When we  assign meaning to other, we are giving "semantics". In programing language, programming language itself is a system of meaning. Likewise, we can invent many other systems with meaning, and map the meaning of programming language to this other system, i.e. giving semantics to programming language. This mapping is bilateral, meaning we can also say that the semantics of another system, say operational semantics, is its corresponding programming language.
+
+Above mapping, or the action of assigning semantics, is interpretation. We can "interpret" a java program by its operational semantics, or "interpret" small step semantics from operational semantics as a transition system, or the reverse of these process. By default, we assume that during program interpretation we don't change the semantics, meaning we don't lose or add any information.
+
+Program abstraction, is also a mapping between semantics. However, this time there is no guarantee that after mapping the original meaning (semantics) would not be altered. In fact,  the abstraction ($\to$) lose some information, and the concretion ($\leftarrow$, the reverse of abstraction) add some information. That being said, abstraction is still a very useful method to think about (interpret) the program, depending on your intention (what you want to interpret). Check out ↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro).
 
 
 
@@ -221,7 +230,7 @@ This is also called the **Maximal Trace Semantics**. We can now define properti
 迁移 = 组合逻辑电路计算寄存器下一周期的值
 
 
-### Programming Languages Semantics as State Machine (Transition System)
+### Programming Languages Semantics as State Machine (Transition System) -- C Language and OS for example
 > ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > - Push-Down Automaton (PDA)
 > 
@@ -373,7 +382,7 @@ C 程序的状态机模型3 (语义，semantics)
 
 In this section, we are going to introduce some of the semantics of a limited JVM. It is incomplete and you would have to complete it on your own.
 
-The goal of this section is to define the small step semantics of the JVM, and encode it in both math and in Python. You can follow along with the code in [`solutions/interpreter.py`](https://github.com/kalhauge/jpamb/blob/main/solutions/interpreter.py).
+The goal of this section is to define the **small step semantics** of the JVM, and encode it in both math and in Python. You can follow along with the code in [`solutions/interpreter.py`](https://github.com/kalhauge/jpamb/blob/main/solutions/interpreter.py).
 
 In math, we want to define judgments of $bc\vdash(s\to\overset{-}{s})$, $bc\vdash(s\to ok)$, or $bc\vdash (s\to err(\text{‘𝚖𝚜𝚐’}))$, where $bc$ is the bytecode and $s$ is the state. And, in Python we want to define a function `step`, which given a state s computes either a new state s or a done string.
 
@@ -383,14 +392,23 @@ def step(s : State) -> State | str:
 ```
 
 
-**Java Bytecode Semantics as Transition System**
-State: values $V$
-- $V = ⟨\eta, \ \mu⟩$, where $\eta$ is the heap (global values $V_\eta$ shared across frames), and $\mu$ is the stack of frames (call stack) $\mu = \epsilon \ ⟨\lambda_1, \sigma_1,\iota_1⟩ \ ⟨\lambda_2, \sigma_2,\iota_2⟩ \ \cdots \ ⟨\lambda_n, \sigma_n,\iota_n⟩$
-- (pc $(\iota)$, local values /stack values $(V_\sigma)$, and global values /heap values $(V_\eta)$)
-State Transition: execution of on instruction where PC ($\iota$) points to: $V \overset{bc[\iota]}{\to} V'$
-- different instructions have different behaviors in changing $V$ to $V'$. see ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+**TL;DR - Java Bytecode Small Step Semantics as Transition System**
+(Remember this statement? A program = data + instruction)
 
-Below ⬇️ are the explanation of above semantics.
+There are many formal semantics. Small step semantics is a kind of operational semantics. Transition system is a representation we use to express semantics. In a word, for a programming language, there are multiple (formal) semantics to interpret it, while there are also multiple representation systems to express such interpretation. They - programming language, semantics, and representation system - are not bounded to each other.
+
+**State**: values $V$
+- $V = ⟨\eta, \ \mu⟩$, where $\eta$ is the heap (global values $V_\eta$ shared across frames), and $\mu$ is the stack of frames (call stack) $\mu = \epsilon \ ⟨\lambda_1, \sigma_1,\iota_1⟩ \ ⟨\lambda_2, \sigma_2,\iota_2⟩ \ \cdots \ ⟨\lambda_n, \sigma_n,\iota_n⟩$ whose values are all stack values $V_\sigma$.
+	- $\epsilon$ is the symbol we put at the bottom of the frame stack $⟨\lambda, \sigma,\iota⟩$ to indicate the empty frame stack.
+	- In a frame stack $⟨\lambda, \sigma,\iota⟩$:
+		- $\lambda$ is an array of local data ($\lambda = [v_1, v_2, ...], \ v_i\in V_\sigma$). Array means the values are fetched by index.
+		- $\sigma$ is a stack, or more specifically an operator stack ($\sigma=\epsilon \ o_1 \ o_2 \ o_3 \ ..., \ o_i \in V_\sigma$). Stack means the values are fetched LCFS.
+		- $\iota$ is a single stack value $\iota \in V_\sigma$ representing PC (the value of memory address of next instruction to be executed).
+	- Frame stack $\mu$ consists of stacks of frames $\{⟨\lambda_i, \sigma_i,\iota_i⟩\}$.
+**Transition**: execution of one instruction of PC ($\iota$): $V \overset{bc[\iota]}{\to} V'$, or $⟨\eta, \ \mu⟩ \overset{bc[\iota]}{\to} ⟨\eta, \ \mu⟩'$
+- Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+
+Below ⬇️ are the explanation of above semantics, with more detailed examples
 
 
 **The Context and the Program Counter**

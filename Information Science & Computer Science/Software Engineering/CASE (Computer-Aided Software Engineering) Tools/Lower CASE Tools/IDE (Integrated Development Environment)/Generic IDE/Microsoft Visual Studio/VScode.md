@@ -9,6 +9,13 @@
 📂 https://code.visualstudio.com/docs
 
 
+### Related Topics
+↗ [Github Copilot](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/General%20LLM%20Applications/Github%20Copilot.md)
+
+
+### Other Resources
+
+
 
 ## Intro
 > 🔗 [VScode](https://code.visualstudio.com) is a light editor developed by ms. VScode is just a editor itself like ↗ [Tex & LaTex Related Tools](../../../../Upper%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Related%20Tools/Tex%20&%20LaTex%20Related%20Tools.md) or ↗ [Typora](../../../../Upper%20CASE%20Tools/Docs%20Tools/Markdown%20Related%20Tools/Typora.md) or ↗ [SublimeText](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Text%20Editors/SublimeText/SublimeText.md) or whatsoever. but additionally it is extendable, which means users can add as many extensions as they like as long as the extension is supported by ms and make it more than a just editor. (in fact all editors mentioned above are not just an "editor", each of them has its own edges.)
@@ -24,7 +31,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 
 
-## 🎯 VS Code Integrations
+## VS Code Extensions
 ### 👉 LaTex
 #### LaTex-Workshop
 🚧 https://github.com/James-Yu/LaTeX-Workshop

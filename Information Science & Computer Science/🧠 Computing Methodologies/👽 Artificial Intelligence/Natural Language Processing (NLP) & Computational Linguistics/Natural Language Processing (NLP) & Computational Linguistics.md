@@ -17,6 +17,8 @@
 
 ↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
+↗ [Knowledge Graph](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Knowledge%20Graph/Knowledge%20Graph.md)
+
 
 ### Learning Resources
 

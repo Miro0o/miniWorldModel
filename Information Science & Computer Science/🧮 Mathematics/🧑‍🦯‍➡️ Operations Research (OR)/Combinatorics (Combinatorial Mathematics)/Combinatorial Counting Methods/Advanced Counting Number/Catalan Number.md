@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Series (级数)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数).md)
+↗ [Series (级数)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Group Theory & Group-Like Algebraic Structure](../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)

@@ -9,7 +9,7 @@
 ↗ [Function & Mapping of Set](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Relation & Order Theory](../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 
-↗ [Series (级数)](Series%20(级数).md)
+↗ [Series (级数)](Series%20(级数)/Series%20(级数).md)
 
 
 

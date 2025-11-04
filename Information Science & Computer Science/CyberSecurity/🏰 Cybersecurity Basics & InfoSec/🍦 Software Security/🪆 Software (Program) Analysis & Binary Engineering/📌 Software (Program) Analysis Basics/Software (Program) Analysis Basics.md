@@ -87,9 +87,13 @@ However, they quickly ran into a problem: how can we prove that these programs�
 **What is a Program?**
 To talk about program analysis, we first have to define what we mean when we say _program_. A program in the context of this course is going to be a **_structured object_** that exhibit some _behavior_ when executed.
 
-> **Definition 1**: Program ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-> A program is structured object $p\in L$, from a language L, with a step function from state to state:
-> - 𝚜𝚝𝚎𝚙: $𝐒𝐭𝐚𝐭𝐞 \to 𝐒𝐭𝐚𝐭𝐞$
+> **Definition 1**: Program (↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
+> 
+> There are several definitions of program. 
+> 
+> A program is structured object $p\in L$, from a language L, with a step function from state to state: 𝚜𝚝𝚎𝚙: $𝐒𝐭𝐚𝐭𝐞 \to 𝐒𝐭𝐚𝐭𝐞$
+> 
+> A program = data + instruction
 
 ==When executing a program, we often want to run it until it changes the state. This is called a **_fixpoint_**, or running the program to completion.==
 
@@ -326,7 +330,9 @@ Java native code难于分析的原因则是跨语言——最终会调用到C语
 - ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md) 🆚 ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 	- Finally we can differentiate between dynamic and static analysis. A dynamic analysis interpolates the meaning of the program from a single trace, where a static analysis tries to predict all possible behaviors.
 	- Dynamic analysis are often just executing the programs, and then reporting any behavior it exhibits. An dynamic analysis often have proof of the bad behavior. A dynamic analysis is **sound** if every behavior it finds is a real behavior, and **complete** if can find all behaviors.
+		- Dynamic analysis starts with one single initial state, and explore some states along the path from that initial state (not necessarily all states)
 	- Static analyses in contrast consider the entire programs, and then reports if the program is without bugs or problems. When a good static analysis says your program is good, it probably is, however, when it finds a potential bug, it can often not prove it to you. A static analysis is **sound** if every program it flags do exhibit some behavior, and **complete** if it flags all programs that contain the behavior.
+		- Static analysis starts with ALL initial states (at once), and then explore (hopefully) all states following. However, there is a distinction in how far (the depth) we explore in all following states, which further divides static analysis into bounded static analysis and unbounded static analysis.
 	- It is sometimes a great idea to do a mix of a dynamic and static analysis, in which case we call it a **_hybrid_ analysis**.
 
 

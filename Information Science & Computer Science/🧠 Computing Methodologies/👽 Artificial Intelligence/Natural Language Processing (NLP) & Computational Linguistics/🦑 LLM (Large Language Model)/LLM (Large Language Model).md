@@ -18,8 +18,8 @@ LLM & Academics 🧑‍🎓
 ↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [LLM Application Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev.md)
-- ↗ [LangChain](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
+- ↗ [LLM Application Dev & Agentic AI Workflow](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow.md)
+- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
 ↗ [XAI (AI Explainable & Interpretable)](../../XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
@@ -294,8 +294,8 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Applications & LLM-Driven Automation
 ↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 #### Agentic LLM and LLM OS
-↗ [LLM Agents & Agentical LLM](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20Agents%20&%20Agentical%20LLM.md)
-↗ [LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20Agentical%20LLM/LLM%20OS.md)
+↗ [LLM Agents & AI Workflow](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20AI%20Workflow/LLM%20Agents%20&%20AI%20Workflow.md)
+↗ [LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20OS.md)
 #### Artificial General Intelligence?
 ↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](../../AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
 

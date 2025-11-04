@@ -73,7 +73,7 @@ The minimalistic BNF grammar for propositional logic: $$\phi :: = true ∣ p ∣
 The minimalistic BNF grammar for propositional logic: $$\phi :: = true ∣ p ∣ \neg \phi ∣ \phi_1 ∨ \phi_2$$
 #### Normal Form & Logic Data Structure
 See below "Representing in Propositional Logic"
-#### Implication & Entailment of Propositional Logic
+#### Implication & Entailment of Propositional Logic ⭐
 ![Screenshot 2023-01-02 at 5.59.42 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.59.42%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
 
@@ -105,8 +105,10 @@ A formula is _valid_ (a tautology) if it is true for **all** the valuation of th
 ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
 ##### SAT Problem! ⭐
 > ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-> ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+> ↗ [Symbolic Execution & Concolic Execution](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
+> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> - ↗ [Automated & Generic Theorem Provers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 
 > ↗ [Computational Complexity Theory](../../😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 > ![|400](../../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
@@ -114,18 +116,17 @@ A formula is _valid_ (a tautology) if it is true for **all** the valuation of th
 > 
 
 **The oldest NP-complete problem: SAT Problem**
-[Cook71] S. A. Cook. The complexity of theorem proving procedures. In Proceedings of the Third Annual ACM Symposium on the Theory of Computing, pages 151–158, 1971
+> 📄 [Cook71] S. A. Cook. The complexity of theorem proving procedures. In Proceedings of the Third Annual ACM Symposium on the Theory of Computing, pages 151–158, 1971
 
 The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
 The model checking problem:  given $M$ and $\Phi$ decide $$M\models\Phi ?$$
-
 NP/NP-complete problems **can be solved by encoding** them **into SAT**!
 - Building a “very fast” SAT solver could be used for solving lots of other not-so-easy problems!
 - **In theory**: wishful thinking, NP-problems are known to take exponential time in the worst case.
 - **In practice**: modern SAT solvers are very fast most of the time! (but still not enough for solving SAT problem!)
 
 
-### Laws of Operations & Propositional Equivalences
+### Laws of Operations & Propositional Equivalences ⭐
 ![Screenshot 2023-01-02 at 5.55.50 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.55.50%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>
 

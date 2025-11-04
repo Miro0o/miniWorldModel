@@ -80,13 +80,13 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 ## 0️⃣ Before Academic Research..
-### AI Work Flow
+### Agentic LLM & AI Work Flow
 42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
 
 
 ### Academic Qualities ⭐ ⭐ 
 ↗ [🌲 Road To CS /0️⃣ Before you hit the road ...](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#0️⃣%20Before%20you%20hit%20the%20road%20...)
-↗ [Academic Writing (in English) & Research Paper Writing](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
+↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -168,6 +168,9 @@ http://47.92.206.95
 https://pubscholar.cn
 PubScholar公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台。
 
+https://consensus.app/
+Consensus
+
 
 ### Paper Explore /Analysis /Visualization
 🔍 https://keywords.groundedai.company
@@ -194,6 +197,28 @@ CiteSpace is a freely available Java application for **visualizing and analyzin
 
 🔍 🧠 https://www.connectedpapers.com
 Explore academic papers in a visual graph
+
+https://www.litmaps.com/
+
+https://scispace.com/
+AI Assistant to Automate Everyday Research Tasks
+Write a research task or choose one below and SciSpace Agent will use the best AI Models, Tools and Data to complete it for you.
+
+https://openpaper.ai/home
+
+https://www.chatpdf.com/
+
+https://www.scholarcy.com/
+Summarize, analyze and organize your research
+
+https://elicit.com/
+AI for scientiﬁc research
+Elicit helps researchers be 10x more evidence-based
+
+https://paperguide.ai/
+Your All-in-One 
+AI Research Assistant
+Get research backed answers, find & analyze research papers, streamline literature reviews, manage references, and write documents - faster with one AI powered research platform.
 
 
 ### How to Read Papers ⭐ ⭐
@@ -225,7 +250,7 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 
 ## 3️⃣ Academic Paper Writing
-> ↗ [Academic Writing (in English) & Research Paper Writing](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing.md)
+> ↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
 
 
 ### Academic Writing Genres

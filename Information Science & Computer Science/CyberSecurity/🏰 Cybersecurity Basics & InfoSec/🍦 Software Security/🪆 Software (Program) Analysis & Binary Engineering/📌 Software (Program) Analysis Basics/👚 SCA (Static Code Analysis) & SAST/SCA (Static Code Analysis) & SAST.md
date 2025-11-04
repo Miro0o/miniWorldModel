@@ -217,7 +217,7 @@ Essentially,
 - if we want to make sure that something **never** happens, or if we want to **warn** about an assertion error that *may* happen, we need a **may analysis**. $$ \neg \text{BAE}^n \Leftarrow \neg \text{BAE}_{\text{may}}^n $$
 - If we want to **guarantee** that an assertion error *must* happen on a run, then we need a **must analysis**: $$\text{BAE}_{\text{must}}^n \Rightarrow \text{BAE}^n$$
 #### No-Approximation BSA Analysis
-↗ [Symbolic Execution](Symbolic%20Execution/Symbolic%20Execution.md)
+↗ [Symbolic Execution & Concolic Execution](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
 
 
 ### Bounded Analysis 🆚 Context-Bounded Analysis 🆚 Unbounded Analysis
@@ -254,7 +254,7 @@ Unbounded analysis tries to prove **properties that hold for all possible execut
 - “No data race can occur.”
 - “Variable `x` is always non-negative.”
 
-To do this, unbounded analyses rely on **mathematical abstractions** (rather than explicit enumeration). For example:
+To do this, unbounded analyses rely on **mathematical abstractions**, rather than explicit enumeration (both bounded and unbounded analysis make use of abstractions). For example:
 - **Abstract interpretation** uses _abstract domains_ (like intervals, polyhedra) to summarize infinite behaviors.
 - **Symbolic model checking** uses _induction_ or _fixpoint computation_ to reason about loops and recursion without unrolling them finitely.
 

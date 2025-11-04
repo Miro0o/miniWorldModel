@@ -59,16 +59,11 @@ Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 ## Intro
 > ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-
-> 🔗 https://en.wikipedia.org/wiki/Logic
-
-==**Logic** is the study of correct [reasoning](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning")==. It includes both [formal](https://en.wikipedia.org/wiki/Logic#Formal_logic) and [informal logic](https://en.wikipedia.org/wiki/Informal_logic "Informal logic"). Formal logic is the study of [deductively valid](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)") inferences or [logical truths](https://en.wikipedia.org/wiki/Logical_truth "Logical truth"). It examines how conclusions follow from [premises](https://en.wikipedia.org/wiki/Premise "Premise") based on the structure of arguments alone, independent of their topic and content. Informal logic is associated with [informal fallacies](https://en.wikipedia.org/wiki/Informal_fallacies "Informal fallacies"), [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking "Critical thinking"), and [argumentation theory](https://en.wikipedia.org/wiki/Argumentation_theory "Argumentation theory"). Informal logic examines arguments expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language") whereas formal logic uses [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language"). When used as a [countable noun](https://en.wikipedia.org/wiki/Countable_noun "Countable noun"), the term "a logic" refers to a specific logical [formal system](https://en.wikipedia.org/wiki/Formal_system "Formal system") that articulates a [proof system](https://en.wikipedia.org/wiki/Proof_system "Proof system"). Logic plays a central role in many fields, such as [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics").
-
-Logic studies **arguments**, which consist of a set of **premises** that leads to a **conclusion**. An example is the argument from the premises "it's Sunday" and "if it's Sunday then I don't have to work" leading to the conclusion "I don't have to work." Premises and conclusions express [propositions](https://en.wikipedia.org/wiki/Proposition "Proposition") or claims that can be true or false. An important feature of propositions is their internal structure. For example, complex propositions are made up of simpler propositions linked by [logical vocabulary](https://en.wikipedia.org/wiki/Logical_connective "Logical connective") like ∧ ([and](https://en.wikipedia.org/wiki/Logical_conjunction "Logical conjunction")) or → ([if...then](https://en.wikipedia.org/wiki/Material_conditional "Material conditional")). Simple propositions also have parts, like "Sunday" or "work" in the example. The truth of a proposition usually depends on the meanings of all of its parts. However, this is not the case for logically true propositions. They are true only because of their logical structure independent of the specific meanings of the individual parts.
-
-Arguments can be either correct or incorrect. An argument is correct if its premises support its conclusion. [Deductive arguments](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") have the strongest form of support: if their premises are true then their conclusion must also be true. This is not the case for [ampliative](https://en.wikipedia.org/wiki/Ampliative "Ampliative") arguments, which arrive at genuinely new information not found in the premises. Many arguments in everyday discourse and the sciences are ampliative arguments. They are divided into [inductive](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") and [abductive](https://en.wikipedia.org/wiki/Abductive_reasoning "Abductive reasoning") arguments. Inductive arguments are statistical generalizations, such as inferring that all ravens are black based on many individual observations of black ravens. Abductive arguments are [inferences](https://en.wikipedia.org/wiki/Inference "Inference") to the best explanation, for example, when a doctor concludes that a patient has a certain disease which explains the symptoms they suffer. Arguments that fall short of the standards of correct reasoning often embody [fallacies](https://en.wikipedia.org/wiki/Fallacies "Fallacies"). Systems of logic are theoretical frameworks for assessing the correctness of arguments.
-
-Logic has been studied since [antiquity](https://en.wikipedia.org/wiki/Ancient_history "Ancient history"). Early approaches include [Aristotelian logic](https://en.wikipedia.org/wiki/Aristotelian_logic "Aristotelian logic"), [Stoic logic](https://en.wikipedia.org/wiki/Stoic_logic "Stoic logic"), [Nyaya](https://en.wikipedia.org/wiki/Nyaya "Nyaya"), and [Mohism](https://en.wikipedia.org/wiki/Mohism "Mohism"). Aristotelian logic focuses on reasoning in the form of [syllogisms](https://en.wikipedia.org/wiki/Syllogism "Syllogism"). It was considered the main system of logic in the Western world until it was replaced by modern formal logic, which has its roots in the work of late 19th-century mathematicians such as [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege "Gottlob Frege"). Today, the most commonly used system is [classical logic](https://en.wikipedia.org/wiki/Classical_logic "Classical logic"). It consists of [propositional logic](https://en.wikipedia.org/wiki/Propositional_logic "Propositional logic") and [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic"). Propositional logic only considers logical relations between full propositions. First-order logic also takes the internal parts of propositions into account, like [predicates](https://en.wikipedia.org/wiki/Predicate_\(mathematical_logic\) "Predicate (mathematical logic)") and [quantifiers](https://en.wikipedia.org/wiki/Quantifier_\(logic\) "Quantifier (logic)"). Extended logics accept the basic intuitions behind classical logic and apply it to other fields, such as [metaphysics](https://en.wikipedia.org/wiki/Metaphysics "Metaphysics"), [ethics](https://en.wikipedia.org/wiki/Ethics "Ethics"), and [epistemology](https://en.wikipedia.org/wiki/Epistemology "Epistemology"). Deviant logics, on the other hand, reject certain classical intuitions and provide alternative explanations of the basic laws of logic.
+> ↗ [Math History & Development /Foundational Crisis of Mathematics](../../Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
+> 
+> ↗ [Classical Logic (Standard Logic)](Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
@@ -119,6 +114,8 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 ##### Higher-Order Language
 > ↗ [Higher-Order Logic (HOL)](Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
 #### Syntax & Semantics
+> ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> - ↗ [Linguistics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 > ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 > ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
@@ -304,7 +301,6 @@ However, (in my opinion) this is not necessary. Semantics is just the process th
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
 给定一阶语言L，并指定结构M和赋值σ，我们称(M,σ)是，我们为语言L选择的一个**模型**。
-
 #### (Mathematical Logic) Language and (Computation) Models
 ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
@@ -330,10 +326,33 @@ A great example of this, is in the note of ↗ [The Essence of Computing - Progr
 - Imagine, one day you have some sorts of very crazy ideas that only exists in your mind, and after long long hardworking days that idea finally became an actual, touchable thing showing up in front of people. How cool it is!
 
 In the study of Computer Science, we learn both those mathematical logics and computational models. (Sometimes this is exhausted,  because people don't like to learn that many things to simply achieve some easy tasks they meet at the moment. But I say let's study 🤓)
-##### Satisfiability
+##### Satisfiability ⭐
+Intuitively explanation:
 When mapping two objects, "assigning semantics", there are rules. When there are rules, such mapping can be deduced to a decision problem: either the mapping succeed or fail. In the case of mapping between logic language and computational model, if such mapping succeeded, we say A accept B, or A satisfy B. Accordingly, B is satisfiable, or SAT.
 
 Specifically, we always consider whether a computational model accept a logic language.
+
+↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Computation-Tree Logic (CTL*) Family](Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+###### The Oldest NP-complete Problem: SAT Problem!
+> ↗ [Symbolic Execution & Concolic Execution](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
+> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> - ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+
+> ↗ [Computational Complexity Theory](../😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
+> ![|400](../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
+> ↗ [Computationally Hard Problems](../😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computationally%20Hard%20Problems.md)
+
+> 📄 [Cook71] S. A. Cook. The complexity of theorem proving procedures. In Proceedings of the Third Annual ACM Symposium on the Theory of Computing, pages 151–158, 1971
+
+The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
+The model checking problem:  given $M$ and $\Phi$ decide $$M\models\Phi ?$$
+NP/NP-complete problems **can be solved by encoding** them **into SAT**!
+- Building a “very fast” SAT solver could be used for solving lots of other not-so-easy problems!
+- **In theory**: wishful thinking, NP-problems are known to take exponential time in the worst case.
+- **In practice**: modern SAT solvers are very fast most of the time! (but still not enough for solving SAT problem!)
 
 
 ### Properties of Logics System

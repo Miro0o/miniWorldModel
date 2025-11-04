@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Series (级数)](../Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数).md)
+↗ [Series (级数)](../Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md)
 
 
 

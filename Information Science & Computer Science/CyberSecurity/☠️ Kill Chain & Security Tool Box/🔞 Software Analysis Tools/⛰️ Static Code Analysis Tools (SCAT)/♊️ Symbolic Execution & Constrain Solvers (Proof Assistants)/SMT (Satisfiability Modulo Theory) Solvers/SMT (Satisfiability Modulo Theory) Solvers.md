@@ -6,17 +6,28 @@
 
 ## Res
 ### Related Topics
+↗ [Mathematical Logic Basics (Formal Logic)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+
+↗ [Symbolic Execution & Concolic Execution](../../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
+
+
+### Other Resources
+[Satisfiability modulo theories - Wikipedia](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
+[SMT-LIB The Satisfiability Modulo Theories Library](https://smt-lib.org/)
 
 
 
 ## Intro
+### SMT (Satisfiability Modulo Theories)
 > 🔗 https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 
 In computer science and mathematical logic, **satisfiability modulo theories (SMT)** is the problem of determining whether a mathematical formula is satisfiable. It generalizes the **Boolean satisfiability problem (SAT)** to more complex formulas involving real numbers, integers, and/or various data structures such as lists, arrays, bit vectors, and strings. The name is derived from the fact that these expressions are interpreted within ("modulo") a certain formal theory in first-order logic with equality (often disallowing quantifiers). SMT solvers are tools that aim to solve the SMT problem for a practical subset of inputs. SMT solvers such as Z3 and cvc5 have been used as a building block for a wide range of applications across computer science, including in automated theorem proving, program analysis, program verification, and software testing.
 
-Since Boolean satisfiability is already **NP-complete**, the SMT problem is typically **NP-hard**, and for many theories it is undecidable. Researchers study which theories or subsets of theories lead to a decidable SMT problem and the computational complexity of decidable cases. The resulting decision procedures are often implemented directly in SMT solvers; see, for instance, the decidability of Presburger arithmetic. SMT can be thought of as a constraint satisfaction problem and thus a certain formalized approach to constraint programming.
+Since Boolean satisfiability is already **NP-complete**, the SMT problem is typically **NP-hard**, and for many theories it is undecidable. Researchers study which theories or subsets of theories lead to a decidable SMT problem and the computational complexity of decidable cases. The resulting decision procedures are often implemented directly in SMT solvers; see, for instance, the decidability of [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic). SMT can be thought of as a constraint satisfaction problem and thus a certain formalized approach to constraint programming.
 
 > **Relationship to Automated Theorem Proving**
+> #ATP #SMT
 > There is substantial overlap between SMT solving and automated theorem proving (ATP). Generally, automated theorem provers focus on supporting full first-order logic with quantifiers, whereas SMT solvers focus more on supporting various theories (interpreted predicate symbols). ATPs excel at problems with lots of quantifiers, whereas SMT solvers do well on large problems without quantifiers.[1] The line is blurry enough that some ATPs participate in SMT-COMP, while some SMT solvers participate in CASC
 
 
