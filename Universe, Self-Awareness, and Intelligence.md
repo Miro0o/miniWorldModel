@@ -62,10 +62,19 @@ Anti-fragile: Things That Gain From Disorder
 ## My Cognitive Model of The Universe
 > ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 > ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
+> 
+> ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+> ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+> ↗ [History of Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
 
 认识自然，改造自然
 
-### 存在与（人的）认识
+Ex iisdem principiis demonstro iam systematis mundani compagem.
+From the same principles, I now demonstrate the frame of the System of the World. 
+-- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
+
+
+### 存在与（人的）认识存在
 #### 运动与静止
 ##### 相对与绝对
 ##### 矛盾的运动规律
@@ -101,7 +110,8 @@ Anti-fragile: Things That Gain From Disorder
 给出如下（我认为正确的）结论：
 命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
 命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
-- 我思故我在，表达的就是信息的存在与运动。信息是自我意识的反映与产物。当宇宙中存在自我意识，对自我意识来说宇宙就存在信息。当自我意识进行思考，就是宇宙中信息的存在与运动。
+- 我思故我在，表达的就是信息的存在与运动。信息是自我意识的反映与产物。当宇宙中存在自我意识，(对自我意识来说)宇宙就存在信息。当自我意识进行思考，就是宇宙中信息的存在与运动。
+	- 我思考=信息存在（或者说信息运动）=我存在=自我意识存在。存在就是运动。
 
 宇宙由某某元素构成，就是指这些元素的存在与运动。同时，运动即是发展，发展是存在的运动形式；发展和运动是等价的。**马克思主义哲学也认为，事物是永恒发展和普遍联系的**，这和上述两个命题对应：事物永恒发展对应第一命题，事物普遍联系对应第二命题。永恒发展对应着物质的永恒运动，普遍联系对应着信息的永恒运动，即具有自我意识的物体在永恒思考宇宙的过程。
 
