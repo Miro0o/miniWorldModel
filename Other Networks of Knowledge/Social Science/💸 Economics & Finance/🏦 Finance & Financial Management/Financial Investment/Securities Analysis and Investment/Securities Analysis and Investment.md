@@ -878,6 +878,11 @@ Investment banks offer services to both corporations issuing securities and inve
 
 
 
+## World's Security Market: An Overview
+### World's Stock Market: An Overview
+
+
+
 ## Ref
 [一文读懂股票、债券和基金！ - 基鑫阁的文章 - 知乎]: https://zhuanlan.zhihu.com/p/106800544
 基金可以理解为股票的组合（股票型基金）、债券的组合（债券型基金）或者股票+债券的组合（混合型基金）

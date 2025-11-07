@@ -1307,6 +1307,11 @@ https://blog.wohin.me/about/
 https://stanford.edu/~shervine/
 https://www.mit.edu/~amidi/
 
+---
+https://sinyalee.com/
+https://sinyalee.com/blog/
+Sinya Lee   李新野
+Welcome to my homepage. I am the founder and CEO of [Alpha Star Research Company](https://alpha-star-research.com/), an AI-powered quantitative proprietary trading firm based in New York City.
 
 
 ### Campus Lifes

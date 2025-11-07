@@ -9,6 +9,8 @@
 ↗ [Probability Models & Stochastic Process](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
 - ↗ [Markov Chains (MC) & Markov Process](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process.md)
 - ↗ [Discrete-Time Markov Chains (DTMC)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
+↗ [MC Algorithms For PCTL](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20PCTL.md)
+
 ↗ [PRISM](../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🤼%20Model%20Checker/PRISM.md)
 
 ↗ [Series (级数)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md) "geometric series"
@@ -81,15 +83,18 @@ Note here the choices of cylinder sets must be (pair-wise) disjoint with each ot
 
 ### PCTL vs Other Properties 🤔 
 ![](../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2023.20.26.png)
-Transient distribution is a property of the MC system itself, while probabilistic (un)bounded reachability is an event described by the PCTL logic language. 
-- for the property of the MC system itself, transient distribution, we are talking about each state at different time point.
-- for PCTL language, we are talking about paths and satisfiability (event). as time move forward, whether this event happened or not is our concern.
 
+![](../../../../../../Assets/Pics/Screenshot%202025-11-07%20at%2010.31.01.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2023.21.03.png)
+Transient distribution is a property of the MC (Markov Chain) system itself, while probabilistic (un)bounded reachability is an event described by the PCTL logic language. Hence, there are overlaps sometimes between the system itself and those properties. However, they are not the same thing.
+- For the property of the MC system itself, transient distribution, we are talking about each state at different time point. More specifically, the essence of Markov Chain is that each state only depends on its immediate predecessors, meaning in transient distribution, for each state, we only care about its immediate predecessors, while for other properties described by PCTL cases would be much more diverse and (potentially) complex.
+- For PCTL language, we are talking about paths and satisfiability (event). As time move forward, whether this event happened or not is our concern. This usually involves more context information, in contrast with transient distribution that only cares immediate predecessors.
 
-PCTL introduces probability, i.e. uncertainties (?). In CTL, we are always certain about a property, whether it happens or not is deterministic (0 and 1). However, in PCTL our certainties (0 and 1) become possibilities in a range $[0, 1]$. 
-- In second example from the above pic, left-hand side says that the prob. of event $\Diamond\phi$ happens is 1, hence the prob. of event $\Diamond\phi$ don't happen is 0, which means there are paths event $\Diamond\phi$ will not happen 😃😃😃. However, right-hand side says that $\Diamond\phi$ must happen at all paths. Thus, lhs $\neq$ rhs.
+---
+![](../../../../../../Assets/Pics/Screenshot%202025-11-07%20at%2010.29.59.png)
+
+PCTL introduces probability, i.e. uncertainties (?). In CTL, we are always certain about a property, meaning whether it happens or not is deterministic (0 and 1). However, in PCTL those certainties (0 and 1) become possibilities in a range $[0, 1]$. 
+- In second example from the above pic, left-hand side says that the prob. of event $\Diamond\phi$ happens is 1, hence the prob. of event $\Diamond\phi$ don't happen is 1-1=0, which means there are paths event $\Diamond\phi$ will not happen 😃😃😃. However, right-hand side says that $\Diamond\phi$ must happen on all paths. Thus, lhs $\neq$ rhs.
 	- Note here, when we know that the prob. of event A happens, we can only infer the prob. of event A don't happen, which is (1-PrA), we don't know about any prob. of $\neg$A, because $A$ and $\neg A$ are not at the same dimension of prob. space of event. For example, we can mark A as man, and $\neg$A and women. When we say the prob. that man will show up at the classroom is 1, we then know the prob. of man will not show up is 0, and we don't know about woman all along.
 - To give a specific case, all we need is a counterexample that the prob. of event $\neg\Diamond\phi$ is 0, and somehow it happens.
 
@@ -97,4 +102,3 @@ PCTL introduces probability, i.e. uncertainties (?). In CTL, we are always certa
 
 ## Ref
 [🤔🤔🤔 Zero probability and impossibility]: https://math.stackexchange.com/q/41107/1230830
-

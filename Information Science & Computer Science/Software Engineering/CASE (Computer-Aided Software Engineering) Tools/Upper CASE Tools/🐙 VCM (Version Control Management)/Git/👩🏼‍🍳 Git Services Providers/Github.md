@@ -28,6 +28,12 @@ Plot your repository stars over time
 🔥 https://github.com/tiimgreen/github-cheat-sheet
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
+👍 https://deepwiki.org/
+
+👍 https://anvaka.github.io/map-of-github/
+
+👍 https://huggingface.co/spaces/Eliahu/Model-Atlas
+
 
 
 ## Intro

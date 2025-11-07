@@ -22,7 +22,7 @@ LLM & Academics 🧑‍🎓
 - ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
-↗ [XAI (AI Explainable & Interpretable)](../../XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
+↗ [XAI (AI Explainable & Interpretable)](../../🌁%20XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
 
 
 ### Learning Resource
@@ -233,6 +233,8 @@ I follow the 35 year journey that led to the explosion of Large Language Models.
 
 🎬 (1hr Talk) Intro to Large Language Models | Andrej Karpathy
 https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
+
+👍 https://huggingface.co/spaces/Eliahu/Model-Atlas
 
 
 

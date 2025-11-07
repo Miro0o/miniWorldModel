@@ -74,9 +74,10 @@ From the same principles, I now demonstrate the frame of the System of the World
 -- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
 
 
-### 存在与（人的）认识存在
+### 存在与（人）认识存在
 #### 运动与静止
 ##### 相对与绝对
+↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
@@ -106,7 +107,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 	- 为了生存，肉身不断地和环境中进行物质和能量的交换，这是客体的运动。客体运动的介质就是物质和能量。更进一步地，能量是物质运动的结果。
 	- 再同时，主体不断地对环境做出感知，并进行感知后的处理和反馈，这是主体的运动。主体运动的介质就是信息。
 	- 所以，主体是依赖客体存在的，这种存在的表现形式就是运动：即包括客体的运动，也包括主体的运动。
-##### 主体视角下的宇宙：物质，能量，信息
+##### 主体视角下的宇宙：物质，能量，信息 ⭐
 给出如下（我认为正确的）结论：
 命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
 命题#2：当宇宙中存在主体（具有自我意识的物体对宇宙进行思考），宇宙由物质，能量，信息构成。
@@ -133,11 +134,15 @@ From the same principles, I now demonstrate the frame of the System of the World
 	- **所谓“缘起”**，就是因素和条件。由于万法产生均有其因素和条件。就是说:世间上没有独存性的东西，也没有常住不变的东西，一切都是因缘和合所生起。
 - 等等。
 
-虽然被用在了不同的语境，且在这些语境下被给予了不同的名称，但所有这些名称实际上描述了同一件事情：信息的运动就是信息的相互联系。若用形如 A -> B 的记号来表示信息A和信息B的联系，这个联系的动作“->”就是信息的运动。在不同场合、不同语境下，人类给这种联系的动作给予不同的名称：逻辑，计算，缘，等等。下图是对此的一些举例，请注意不同举例中 “->” 所对应的特定语境下的名称：
+虽然被用在了不同的语境，且在这些语境下被给予了不同的名称，但所有这些名称实际上描述了同一件事情：信息的运动就是信息的相互联系。自然地，我们用 $A\to B$ 这种形式来描述信息的这种联系或运动。这是因为，运动就是在一个单位时间中由状态A变为状态B。
+
+由于信息就是宇宙在人类（自我意识）中的投影，信息就是人类视角下的宇宙，所以，从这种层面上我们可以说==信息的运动模型，$A\to B$，就是（人类可认知的）宇宙的模型。宇宙中的一切（被人类所认知的）事物都可以用$A\to B$ 的形式来表示==。语言也是如此：（Subject $\overset{predicate}{\to}$ Object）。
+
+在具体例子中，我们总发现在不同场合、不同语境下，人类往往给予这种运动不同的名称：逻辑，计算，缘分，等等。下图是对此的一些举例，请注意不同举例中 “->” 所对应的特定语境下的名称：
 
 ![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
-在上面的举例中，第一个例子比较特殊：在集合论中，数学家用一个有序数对（a，b）来同义地表达 a -> b。实际上前者当然更简洁优雅；不过后者更方便被人类所有知识领域所接受。
+在上面的举例中，第一个例子比较特殊：在集合论中，数学家用一个有序数对(A, B)来同义地表达 $A \to B$。因为 $A \to B$ 实际上可以被理解为元素A和元素B的次序关系（A,B）。 有序数对的表示当然更简洁优雅；不过后者更方便代入到任何一个其他领域。
 
 我们把事物之间的一个联系作为一个单位，对这个单位再进行联系，我们就得到了联系的联系，即“规律”，或者说“知识”。之前说过，知识就是信息的组织。现在可以看出，这种联系的联系就是所谓的组织。
 - 信息的组织就是知识 <=> 信息的联系的联系就是知识，这两个命题是等价的。
@@ -194,6 +199,7 @@ or（情感，逻辑）X （认识，实践）
 自我意识的发展与成熟
 - 在两个维度中进行：知识（思），实践（做）
 - 在三个场景中进行：自我，社会（家庭，社区，聚落/农村/城市，国家，民族），自然
+	- 一个人（自我），一群人（他我），没有人（无我）
 - 在若干阶段中进行：童年，少年，青年，中年，老年
 
 自我意识的天性
@@ -299,22 +305,29 @@ or（情感，逻辑）X （认识，实践）
 	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们是很难思考到“女权主义”这种问题的。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，大脑很难在短时间内产生这样的想法。
 	- 人类使用的语言分成两类：自然语言和形式语言。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式语言，符合第二种情况。
 ###### 信息表达系统的多模态与多媒体
-除了基于文本的信息投射，人类的生物能力还支持其他模态的投射。
-##### 信息的组织：知识
+信息可以不只具有基于文本的模态，可以具有多种模态。一般来说，我们考虑的是那些在人类生物能力范围内的模态，比如最常见的视觉，听觉，触觉，等。文本是人类视觉能力下的信息表达模态。基于视觉的模态也是最广泛的信息模态的选择。
+##### 信息的组织：知识 ⭐
 ↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
 ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+
+↗ [Knowledge Representation and Reasoning (KRR)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20and%20Reasoning%20(KRR).md)
+↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+
+↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md) "transition system"
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
 ![](Assets/Pics/Screenshot%202025-08-24%20at%2014.36.01.png)
 <small><a>https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg</a></small>
+
+![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 ###### 知识的分类
-- 基于情感的知识和基于逻辑的知识
-	- 文化知识和科学知识
-- 基于宏观宇宙视角的知识和基于微观个体视角的知识
-- 关于人的知识及关于自然（非人）的知识
-###### 科学知识
+- 基于情感的知识 vs 基于逻辑的知识
+	- 艺术文化知识 vs 科学知识（包括自然科学和社会科学）
+- 基于宏观宇宙视角的知识 vs 基于微观个体视角的知识
+- 关于人的知识 vs 关于自然（非人）的知识
+###### 科学和科学知识
 ↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
@@ -352,7 +365,7 @@ or（情感，逻辑）X （认识，实践）
 ###### 语言，思维，信息运动，与智能
 ↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
 
-###### 信息科学，计算机，计算机语言
+###### 信息科学和信息处理：计算机与计算机语言
 语言本身只是一套符号系统，可以对信息进行传输和储存，但无法对信息进行计算。
 
 我们知道，信息的传输和储存可以独立于信息的计算，但是信息的计算必须要涉及信息的传输和储存。从这个角度讲，信息的运动就是信息的计算，根据能量守恒定律，信息运动消耗的能量是一定要从某处得到补偿的。语言系统并没有提供这种能量补偿的能力，所以我们看到是人+语言的组合来进行信息的计算，此时能量来自于人的生物质能。
@@ -471,10 +484,10 @@ or（情感，逻辑）X （认识，实践）
 
 对于资源的获得，有如下分析：
 - **资源分布矩阵**：见上
-- 资源来源：
+- 资源来源：（生产和分配）
 	- ✔️ + 💰 + ⚱️ + 🔮
 - 从资源来源处获取资源的方式：（根据上述资源分布矩阵）
-	- 从 ✅ 所在列开始向右的列：「权力关系」主导
+	- 从 ✅ 所在列开始向右的列：「权力关系」主导（分配问题）
 		- 符号：⏩
 		- 内涵：通过权力完成已有资源（探明可用资源）的再分配
 			- 金融/资本为媒介下的权力关系
@@ -483,7 +496,7 @@ or（情感，逻辑）X （认识，实践）
 			- 社会制度 /法制为媒介下的权力关系（法律真的完全公平吗？能否沦为权力的武器？）
 			- ...
 			- 政治为权力媒介（所有权力关系的总和）
-	- 从 ✅ 所在行开始向上的行：「智能水平」主导（「智能」=「科学知识 + 实践劳动」）
+	- 从 ✅ 所在行开始向上的行：「智能水平」主导（「智能」=「科学知识 + 实践劳动」）（生产问题）
 		- 符号：⏫
 		- 内涵：通过科学知识和实践劳动完成新资源的开发，即「探明不可用资源和未知资源」转化为「探明可用资源」的过程
 - **个人与社会的资源获取方式：**
@@ -508,7 +521,7 @@ or（情感，逻辑）X （认识，实践）
 - 人的奋斗可以把社会关系提高到欲望所需的水平，人的自洽机制又会把欲望降低到社会关系所支持的水平。
 
 把握好个人与时代的关系，化挑战为机遇，利用时代的条件而不是受制于时代。
-##### 资源获取：权力的艺术
+##### 资源获取：权力与分配
 > 回顾：
 > 
 > 权力的几个方面：
@@ -560,7 +573,7 @@ or（情感，逻辑）X （认识，实践）
 对群体来说，宇宙中可直接利用的资源是有限的，因此，对群体来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
 - 资源获取的发展目标是资源的补充（资源利用）
 	- 资源有限：整个群体拥有所有资源，这种资源是有限的；
-	- 发展方式
+	- 发展方式：
 		- 开发：利用本地已有资源 ⏫
 		- 掠夺：转移异地资源 ⏩
 			- 经济
@@ -877,6 +890,11 @@ https://en.wikipedia.org/wiki/Complex_system
 
 [🤔 广义相对论长什么样？]: https://mp.weixin.qq.com/s/fpevCKUDSUHRmnQkXh-NWQ
 听说最近有学者以唯物主义质能观推翻了相对论，这让我想起多年前写过的一个短文，现贴出来请物理相关专业同学指教：**我象这样理解广义相对论，是对的吗**？谬误肯定多得是，好在是请教自己同学，也不怕丢面子。尤其是其中若有与马克思主义哲学相冲突之处，肯定以马克思主义为准。以下是正文：
+
+![](Assets/Pics/Pasted%20image%2020251106163408.png)
+![](Assets/Pics/Pasted%20image%2020251106163414.png)
+![](Assets/Pics/Pasted%20image%2020251106163421.png)
+
 
 [钱学森为什么要提出系统工程论？ | 中国核工业]: http://hexuehuim.kechuangfu.com/site/content/7795.html
 [《论系统工程》钱学森等著——瞎写写读后感吧 - 李啦啦的文章 - 知乎]: https://zhuanlan.zhihu.com/p/441388381

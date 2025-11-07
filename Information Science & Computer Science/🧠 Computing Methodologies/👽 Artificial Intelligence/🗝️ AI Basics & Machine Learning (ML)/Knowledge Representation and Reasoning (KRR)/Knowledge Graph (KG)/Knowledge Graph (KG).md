@@ -34,6 +34,14 @@
 
 https://learn.deeplearning.ai/courses/agentic-knowledge-graph-construction/lesson/hhqjv/introduction
 Agentic Knowledge Graph Construction
+- Traditional relational DB:
+	- ![](../../../../../../Assets/Pics/Screenshot%202025-11-06%20at%2017.03.45.png)
+- Graph-based DB:
+	- ![](../../../../../../Assets/Pics/Screenshot%202025-11-06%20at%2017.04.13.png)
+- Knowledge Graph in General:
+	- ![](../../../../../../Assets/Pics/Screenshot%202025-11-06%20at%2016.58.28.png)
+- Knowledge Graph: An exmaple:
+	- ![](../../../../../../Assets/Pics/Screenshot%202025-11-06%20at%2017.04.54.png)
 
 
 
@@ -50,3 +58,5 @@ Recent developments in data science and machine learning, particularly in graph 
 
 ## Ref
 [Leading Pharmaceutical Company Cuts Drug Discovery Timelines in Half with Neo4j-Powered Knowledge Platform on AWS]: https://neo4j.com/customer-stories/leading-pharma-company/
+
+[Semantic Web| wikipeida]: https://en.wikipedia.org/wiki/Semantic_Web

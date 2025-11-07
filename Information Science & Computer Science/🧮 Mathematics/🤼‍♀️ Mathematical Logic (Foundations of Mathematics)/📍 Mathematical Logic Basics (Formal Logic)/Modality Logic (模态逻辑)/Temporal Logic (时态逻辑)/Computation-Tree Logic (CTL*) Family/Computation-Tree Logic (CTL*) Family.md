@@ -10,6 +10,8 @@
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
+↗ [MC Algorithms For CTL*](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
+
 
 ### Other Resources
 https://matthewbdwyer.github.io/psp/
@@ -77,7 +79,7 @@ Main differences:
 
 ### Semantics of CTL*
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.18.21.png)
-#### Semantic Equivalences & Equations of CTL\* Formula
+#### Semantic Equivalences & Equations of CTL\* Formula ⭐
 
 
 ### Expressive Power of CTL, LTL, and CTL*

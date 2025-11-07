@@ -9,6 +9,8 @@
 ↗ [Philosophy of Science](../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 ↗ [Philosophy of Arts (Aesthetics)](../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
 
+↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
+
 
 ### Other Resources
 https://github.com/hoochanlon/hamulete
@@ -30,6 +32,11 @@ https://www.marxists.org/chinese/index.html
 
 
 ## Intro
+### What is Science?
+↗ [Natural Science & Engineering & Technology](../Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+
+
+### What is Social Science?
 
 
 

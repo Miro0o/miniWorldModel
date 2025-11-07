@@ -28,16 +28,28 @@
 
 
 
-## Intro
+## Intro: Science
+> 🔗 https://en.wikipedia.org/wiki/Science
+
+Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe.[1][2] Modern science is typically divided into two – or three – major branches:[3] the natural sciences, which study the physical world, and the social sciences, which study individuals and societies.[4][5] While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.[6][7][8][9] Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine.[10][11][12]
+
+The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further advancements, including the introduction of the Hindu–Arabic numeral system, were made during the Golden Age of India and Islamic Golden Age.[13]: 12 [14][15][16][13]: 163–192  The recovery and assimilation of Greek works and Islamic inquiries into Western Europe during the Renaissance revived natural philosophy,[13]: 193–224, 225–253 [17] which was later transformed by the Scientific Revolution that began in the 16th century[18] as new ideas and discoveries departed from previous Greek conceptions and traditions.[13]: 357–368 [19] The scientific method soon played a greater role in the acquisition of knowledge, and in the 19th century, many of the institutional and professional features of science began to take shape,[20][21] along with the changing of "natural philosophy" to "natural science".[22]
+
+New knowledge in science is advanced by research from scientists who are motivated by curiosity about the world and a desire to solve problems.[23][24] Contemporary scientific research is highly collaborative and is usually done by teams in academic and research institutions,[25] government agencies,[13]: 163–192  and companies.[26] The practical impact of their work has led to the emergence of science policies that seek to influence the scientific enterprise by prioritising the ethical and moral development of commercial products, armaments, health care, public infrastructure, and environmental protection.
 
 
-
-## Science
 ### Formal Science
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
 
 
 ### Natural Science
+> 🔗 https://en.wikipedia.org/wiki/Natural_science
+
+**Natural science** or **empirical science** is a branch of science concerned with the description, understanding, and prediction of natural phenomena, based on empirical evidence from observation and experimentation.[1] Mechanisms such as peer review and reproducibility of findings are used to try to ensure the validity of scientific advances.
+
+Natural science can be divided into two main branches: life science and physical science. Life science is alternatively known as biology. Physical science is subdivided into physics, astronomy, Earth science, and chemistry. These branches of natural science may be further divided into more specialized branches, also known as fields. As empirical sciences, natural sciences use tools from the formal sciences, such as mathematics and logic, converting information about nature into measurements that can be explained as clear statements of the "laws of nature".[2]
+
+Modern natural science succeeded more classical approaches to natural philosophy. Galileo Galilei, Johannes Kepler, René Descartes, Francis Bacon, and Isaac Newton debated the benefits of a more mathematical as against a more experimental method in investigating nature. Still, philosophical perspectives, conjectures, and presuppositions, often overlooked, remain necessary in natural science.[3] Systematic data collection, including discovery science, succeeded natural history, which emerged in the 16th century by describing and classifying plants, animals, minerals, and so on.[4] Today, "natural history" suggests observational descriptions aimed at popular audiences.[5]
 
 
 ### Applied Science
@@ -52,6 +64,9 @@
 
 
 ## Science vs Engineering (Applied Science)
+#science #engineering
+
+
 ### Engineers 🆚 Scientists
 > 🔗 https://zh.wikipedia.org/zh-cn/%E5%B7%A5%E7%A8%8B%E5%AD%A6#%E4%B8%8E%E5%85%B6%E5%AE%83%E4%B8%93%E4%B8%9A%E7%9A%84%E6%AF%94%E8%BE%83
 

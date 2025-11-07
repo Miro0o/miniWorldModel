@@ -14,9 +14,6 @@
 
 
 ## Intro
-
-
-
 ### Industrial Classification of All Economic Activities
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A
 > 🔗 [三次产业是怎样划分的 | 国家统计局](https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903768.html#:~:text=%E4%B8%89%E6%AC%A1%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%88%92%E5%88%86%E5%A4%A7%E8%87%B4,%E7%95%8C%E5%AE%9A%E4%B8%BA%E7%AC%AC%E4%B8%89%E4%BA%A7%E4%B8%9A%E3%80%82)
@@ -39,4 +36,21 @@
 
 
 
+## World's Economics: An Overview
+
+
+
 ## Ref
+83 【【合辑】宏观经济学 “5大核心模型” - 狐一知的商业笔记 | 小红书 - 你的生活兴趣社区】 😆 yCfPcRcwdvyxEqi 😆 https://www.xiaohongshu.com/discovery/item/66daeda3000000001e01ab60?source=webshare&xhsshare=pc_web&xsec_token=ABs6kM8Smk6vWOTSLjY9-owuzaGDqAQeugs1K_ljdkvII=&xsec_source=pc_share
+小伙伴们晚上好~~ 《50张图看懂宏观经济》的正文内容已经全部更新完毕，这篇笔记把此前介绍过的5个宏观经济学核心模型的相关内容放在一起梳理一下。
+
+32 【本周全球市场逻辑 动画版 （2025/07/20） - 狐一知的商业笔记 | 小红书 - 你的生活兴趣社区】 😆 vHnDJM2d1tv2WgN 😆 https://www.xiaohongshu.com/discovery/item/687c9c620000000023007b6f?source=webshare&xhsshare=pc_web&xsec_token=ABJEFlHKNnNqtMn7E5fmFgxjfpuMnmZmo0iaJxQ6gKYqU=&xsec_source=pc_share
+
+
+六个口袋
+过去、现在、未来
+人口 - 分配 - 储蓄 - 消费
+- 居民、政府、企业、金融
+- 年龄
+内需-税 外需-汇
+- 内需：底层-中产-顶层

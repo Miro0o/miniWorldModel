@@ -179,7 +179,12 @@ This is the most step-by-step spelled-out explanation of backpropagation and tra
 
 
 
-## NN Hyperparameters
+## Development Circle of Neural Networks
+↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
+↗ [Process Monitoring](4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
+↗ [Deployment & Application](5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
 
 
 
