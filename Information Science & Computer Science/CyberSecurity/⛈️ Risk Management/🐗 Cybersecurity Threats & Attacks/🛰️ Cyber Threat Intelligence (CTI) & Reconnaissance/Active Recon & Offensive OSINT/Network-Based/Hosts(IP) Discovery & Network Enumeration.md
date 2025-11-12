@@ -196,7 +196,7 @@ The first step that attackers would look for is any identified network device on
 
 
 ### 👉 Metasploit
-[Metasploit Framework (MSF)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+[Metasploit Framework (MSF)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
 
 
 

@@ -18,7 +18,7 @@
 
 > Socket 属于一种IPC方式，由UCB提出。Socket通信可以是主机内部进程，也可以是不同主机间进程通讯。这种抽象可以有很多种设计模式和实现方式，而BSD提出的Socket既作为一种规范又作为一种实现是这种抽象的一个 de facto standard.
 
-Socket 的英文原意就是“孔”或“插座”,现在,作为 BSD UNIX 的进程通讯机制,   取其后一种意义。日常生活中常见的插座,有的是信号插座,有的是电源插座,有的可以接受信号(或能量) ,有的可以发送信号(或能量)。假如电话线与电话机之间安放一个插座(相当于二者之间的接口,这一部分装置物理上是存在的)则 Socket非常相似于电话插座。
+Socket 的英文原意就是“孔”或“插座”,现在,作为 ↗ [BSD Family UNIX](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/BSD%20Family/BSD%20Family.md) 的进程通讯机制,   取其后一种意义。日常生活中常见的插座,有的是信号插座,有的是电源插座,有的可以接受信号(或能量) ,有的可以发送信号(或能量)。假如电话线与电话机之间安放一个插座(相当于二者之间的接口,这一部分装置物理上是存在的)则 Socket非常相似于电话插座。
 
 将电话系统与面向连接的 Socket 机制相比,有着惊人相似的地方。以一个国家级的电话网为例。电话的通话双方相当于相互通信的两个进程;通话双方所在的地区(享有一个全局唯一的区号)相当于一个网络,区号是它的网络地址;区内的一个单位的交换机相当于一台主机,主机分配给每个用户的局内号码相当于 Socket 号(下面将谈到)。
 
@@ -30,6 +30,7 @@ Socket 的英文原意就是“孔”或“插座”,现在,作为 BSD UNIX 的�
 
 
 ### Berkeley Sockets, POSIX Sockets & BSD Sockets
+↗ [BSD Family](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/BSD%20Family/BSD%20Family.md)
 ↗ [Berkeley Sockets & POSIX Sockets & BSD Sockets](Berkeley%20Sockets%20&%20POSIX%20Sockets%20&%20BSD%20Sockets.md)
 
 
@@ -37,7 +38,7 @@ Socket 的英文原意就是“孔”或“插座”,现在,作为 BSD UNIX 的�
 ## Types of Sockets
 ### 1️⃣ Internal Sockets & LPC
 ↗ [Internal Sockets](🌉%20Internal%20Sockets/Internal%20Sockets.md)
-- ↗ [UNIX Domain Sockets (POSIX)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md)
+- ↗ [UNIX Domain Sockets (UDS)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(UDS).md)
 - ↗ [Local Procedure Call (LPC)](🌉%20Internal%20Sockets/Local%20Procedure%20Call%20(LPC).md)
 
 

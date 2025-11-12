@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
 [Langserver.org](https://langserver.org)
 A community-driven source of knowledge for Language Server Protocol implementations
 
@@ -29,8 +33,6 @@ Its specification is hosted and developed on GitHub.==
 Modern IDEs provide developers with sophisticated features like [code completion](https://en.wikipedia.org/wiki/Code_completion "Code completion"), [refactoring](https://en.wikipedia.org/wiki/Refactoring "Refactoring"), navigating to a [symbol's](https://en.wikipedia.org/wiki/Symbol_table "Symbol table") definition, [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting "Syntax highlighting"), and error and warning markers. All these are concluded as **languages services** provided by IDEs. 
 
 > For example, in a text-based programming language, a programmer might want to rename a method `read`. The programmer could either manually edit the respective source code files and change the appropriate occurrences of the old method name into the new name, or instead use an IDE's refactoring capabilities to make all the necessary changes automatically. To be able to support this style of refactoring, an IDE needs a sophisticated understanding of the [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") that the program's [source](https://en.wikipedia.org/wiki/Source_code "Source code") is written in. A programming tool without such an understanding—for example, one that performs a naive [search-and-replace](https://en.wikipedia.org/wiki/Text_editor#Typical_features "Text editor") instead—could introduce errors. When renaming a `read` method, for example, the tool should not replace the partial match in a variable that might be called `readyState`, nor should it replace the portion of a [code comment](https://en.wikipedia.org/wiki/Comment_(computer_programming) "Comment (computer programming)") containing the word "already". Neither should renaming a [local variable](https://en.wikipedia.org/wiki/Local_variable "Local variable") `read`, for example, end up altering identically-named variables in other [scopes](https://en.wikipedia.org/wiki/Scope_(computer_science) "Scope (computer science)").
-
-
 #### Problems for Traditional Language Services
 1️⃣ Conventional compilers or interpreters for a specific programming language are typically unable to provide above **language services**, because they are written with the goal of either transforming the source code into [object code](https://en.wikipedia.org/wiki/Object_code "Object code") or immediately executing the code. 
 
@@ -41,8 +43,6 @@ Modern IDEs provide developers with sophisticated features like [code completio
 Therefore, Compilers and interpreters often provide a poor candidate for producing the information needed for an editing tool to consume.
 
 4️⃣ Prior to the design and implementation of the Language Server Protocol for the development of Visual Studio Code, most language services were generally tied to a given IDE or other editor. In the absence of the Language Server Protocol, language services are typically implemented by using a tool-specific extension API. Providing the same language service to another editing tool requires effort to adapt the existing code so that the service may target the second editor's extension interfaces.
-
-
 #### 🐶 Languages Services by LSP
 The Language Server Protocol allows for **decoupling language services** from the editor so that the services may be contained within a general-purpose **language server**. Any editor can inherit sophisticated support for many different languages by making use of existing language servers. Similarly, a programmer involved with the development of a new programming language can make services for that language available to existing editing tools. Making use of language servers via the Language Server Protocol thus also reduces the burden on vendors of editing tools, because vendors do not need to develop language services of their own for the languages the vendor intends to support, as long as the language servers have already been implemented. The Language Server Protocol also enables the distribution and development of servers contributed by an interested third party, such as end users, without additional involvement by either the vendor of the compiler for the programming language in use or the vendor of the editor to which the language support is being added.
 
@@ -74,4 +74,3 @@ The Language Server Protocol defines the messages to be exchanged between client
 
 
 ## Ref
-

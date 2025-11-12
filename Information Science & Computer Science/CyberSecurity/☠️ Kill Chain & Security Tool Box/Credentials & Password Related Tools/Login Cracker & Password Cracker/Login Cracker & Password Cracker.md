@@ -52,7 +52,7 @@ This is a curated list of awesome tools, research, papers and other projects rel
 
 ## Intro
 ### Security Account Manager (SAM)
-↗ [Credential Manager & SAM (Secure Account Manager)](../Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager)/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager).md)
+↗ [Credential Manager](../Credential%20Manager/Credential%20Manager.md)
 
 
 

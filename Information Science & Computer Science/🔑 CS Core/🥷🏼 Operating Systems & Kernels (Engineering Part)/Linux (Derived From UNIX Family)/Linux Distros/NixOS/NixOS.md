@@ -19,7 +19,7 @@ See our [Hacking guide](https://nixos.org/manual/nix/unstable/contributing/hack
 
 
 ### Related Topics
-↗ [nix](../../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/nix.md)
+↗ [nix](../../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/Independent%20Package%20Manger/nix.md)
 
 
 

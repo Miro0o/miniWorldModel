@@ -41,6 +41,7 @@ Closely related fields in [theoretical computer science](https://en.wikipedia.o
 ### Complexity Classes
 > Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+> ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Complexity_class#
 
@@ -67,15 +68,19 @@ The following table shows some of the classes of problems that are considered in
 
 > 🔗 https://en.wikipedia.org/wiki/List_of_complexity_classes
 > This is a **list of [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Complexity class")** in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"). For other computational and complexity subjects, see [list of computability and complexity topics](https://en.wikipedia.org/wiki/List_of_computability_and_complexity_topics "List of computability and complexity topics").
+#### Relationship Between Complexity Classes and Chomsky Hierarchy
+Complexity classes are about resources (time/space) and efficiency ($O(n^3)$ time /$O(n)$ space?). Chomsky hierarchy is about computability (computation models). 
+- In Chomsky hierarchy (and computability theory) we study for a given problem (after translating into a decision problem), can a syntax generate language that contain the solution of this problem, or in another words, can a device accept the language of this problem.
+- In complexity theory, we study for a given problem, using our best algorithm and considering the worst-case scenarios, what are the least amount of resources required to solve this problem. Since our most powerful computation model is computer (Turing machine), we often by default use this as our computing machine.
 
 
 
 ## P vs NP Problem
 > 🔗 https://en.wikipedia.org/wiki/P_versus_NP_problem#
 
-The **P versus NP problem** is a major [unsolved problem](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science "List of unsolved problems in computer science") in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). Informally, it asks whether every problem whose solution can be quickly verified can also be quickly solved.
+The **P versus NP problem** is a major [unsolved problem](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science "List of unsolved problems in computer science") in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). ==Informally, it asks whether every problem whose solution can be quickly verified can also be quickly solved.==
 
-Here, "quickly" means an algorithm exists that solves the task and runs in [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time "Polynomial time") (as opposed to, say, [exponential time](https://en.wikipedia.org/wiki/Exponential_time "Exponential time")), meaning the task completion time is [bounded above](https://en.wikipedia.org/wiki/Upper_bound "Upper bound") by a [polynomial function](https://en.wikipedia.org/wiki/Polynomial_function "Polynomial function") on the size of the input to the algorithm. The general class of questions that some [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") can answer in polynomial time is "[P](https://en.wikipedia.org/wiki/P_\(complexity\) "P (complexity)")" or "class P". For some questions, there is no known way to find an answer quickly, but if provided with an answer, it can be verified quickly. The class of questions where an answer can be _verified_ in polynomial time is ["NP"](https://en.wikipedia.org/wiki/NP_\(complexity\) "NP (complexity)"), standing for "nondeterministic polynomial time".
+Here, "quickly" means an algorithm exists that solves the task and runs in [polynomial time](https://en.wikipedia.org/wiki/Polynomial_time "Polynomial time") (as opposed to, say, [exponential time](https://en.wikipedia.org/wiki/Exponential_time "Exponential time")), meaning the task completion time is [bounded above](https://en.wikipedia.org/wiki/Upper_bound "Upper bound") by a [polynomial function](https://en.wikipedia.org/wiki/Polynomial_function "Polynomial function") on the size of the input to the algorithm. The general class of questions that some [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") can answer in polynomial time is **"[P](https://en.wikipedia.org/wiki/P_\(complexity\) "P (complexity)")" or "class P"**. For some questions, there is no known way to find an answer quickly, but if provided with an answer, it can be verified quickly. The class of questions where an answer can be _verified_ in polynomial time is **["NP"](https://en.wikipedia.org/wiki/NP_\(complexity\) "NP (complexity)")**, standing for "**nondeterministic polynomial time**".
 
 An answer to the P versus NP question would determine whether problems that can be verified in polynomial time can also be solved in polynomial time. If P $\neq$ NP, which is widely believed, it would mean that there are problems in NP that are harder to compute than to verify: they could not be solved in polynomial time, but the answer could be verified in polynomial time.
 
@@ -90,28 +95,32 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 ![](../../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
 <small>Euler diagram (<a>https://en.wikipedia.org/wiki/Euler_diagram</a>) for P, NP, NP-complete, and NP-hard set of problems (excluding the empty language and its complement, which belong to P but are not NP-complete)</small>
 
-- P Problem: 
+- P (Polynomial) Problem: 
 	- The class of questions where all answers can be *find* in polynomial time
+		- Why we care about polynomial time? Because this is the computational power of our computer. If a problem can be solved in polynomial time, it means we can solve it using computer. There's no guarantee that we can solve all problems with complexity higher than polynomial. (We can solve some of these problems, in a smaller scale, i.e. within the computational limit. However we cannot solve all these problems at any scale.)
 	- e.g. 
-		- sorting problem of N numbers
-- NP Problem:
+		- Sorting problem of N numbers
+- NP (Non-deterministic Polynomial) Problem:
 	- The class of questions where an answer can be _verified_ in polynomial time
 	- e.g.
-		-  sorting problem of N numbers
+		- Sorting problem of N numbers
 		- Soduku problem
 		- Hamiltonian path
 - [NPH Problem](https://en.wikipedia.org/wiki/NP-hard):
 	- The class of questions that all NP problems can be reduced (in polynomial time) to them. Informally, NP-hard problems are those at least as hard as NP problems. NP-hard problems need not be in NP; i.e., they need not have solutions verifiable in polynomial time.
 	- e.g.
-		- Traveling Salesperson Problem (TSP): can be reduced from the problem of Hamiltonian path
+		- **Traveling Salesperson Problem (TSP)**: can be reduced from the problem of Hamiltonian path
 - NPC Problem:
 	- The class of questions that any other NP problem is reducible to in polynomial time and whose solution is still verifiable in polynomial time, i.e. NPC problems are the intersection of NP and NPH. That is, any NP problem can be transformed into any NP-complete problem. Informally, an NP-complete problem is an NP problem that is at least as "tough" as any other problem in NP.
 		- The first natural problem proven to be NP-complete was the  [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem "Boolean satisfiability problem"), also known as SAT. (↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)) This is the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem "Cook–Levin theorem"), so _any_ instance of _any_ problem in NP can be transformed mechanically into a Boolean satisfiability problem in polynomial time. The Boolean satisfiability problem is one of many NP-complete problems. If any NP-complete problem is in P, then it would follow that P = NP. However, many important problems are NP-complete, and no fast algorithm for any of them is known.
 		- After SAT problem was proved to be NP-complete, [proof by reduction](https://en.wikipedia.org/wiki/Reduction_\(complexity\) "Reduction (complexity)") provided a simpler way to show that many other problems are also NP-complete, including the game Sudoku discussed earlier. In this case, the proof shows that a solution of Sudoku in polynomial time could also be used to complete [Latin squares](https://en.wikipedia.org/wiki/Latin_square "Latin square") in polynomial time. This in turn gives a solution to the problem of partitioning [tri-partite graphs](https://en.wikipedia.org/wiki/Multipartite_graph "Multipartite graph") into triangles, which could then be used to find solutions for the special case of SAT known as 3-SAT, which then provides a solution for general Boolean satisfiability. So a polynomial-time solution to Sudoku leads, by a series of mechanical transformations, to a polynomial time solution of satisfiability, which in turn can be used to solve any other NP-problem in polynomial time. Using transformations like this, a vast class of seemingly unrelated problems are all reducible to one another, and are in a sense "the same problem".
 	- e.g.
-		- Traveling Salesperson Problem (TSP), with the total cost lower than C: this is a NP problem itself, and can be reduced from the problem of Hamiltonian path as well.
+		- **Traveling Salesperson Problem (TSP)**, with the total cost lower than C: this is a NP problem itself, and can be reduced from the problem of Hamiltonian path as well.
 
 > 【【作业】P问题，NP问题，NPH问题，NPC问题介绍】 https://www.bilibili.com/video/BV1pF41127B3/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+#### SAT Problem & SMT Problem
+↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 
 
 ### Formal Definition

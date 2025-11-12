@@ -24,7 +24,7 @@
   content="default-src 'self'; img-src https://*; child-src 'none';" />
 ```
 
-CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design%20&%20Failures/Injection/XSS%20(Cross%20Site%20Scripting)/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
+CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design%20&%20Failures/(Code%20&%20Command)%20Injection/XSS%20(Cross%20Site%20Scripting)/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
 
 
 

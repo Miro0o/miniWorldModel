@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
@@ -29,6 +30,48 @@
 
 
 ## Intro
+> ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
+
+> 程序分析 - 南京大学
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.03.21.png)
+
+Input and Output States
+- Each execution of an IR statement transforms an input state to a new output state
+- The input (output) state is associated with the program point before (after) the statement
+- ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.07.09.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.06.38.png)
+
+
+### Notations For Control Flow's Constraints
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.11.42.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.10.38.png)
+
+
+
+## Methods in Data Flow Analysis
+### Intra-Procedural (Same-Procedural) Analysis
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.14.29.png)
+
+↗ [Reaching Definition Analysis](Intra-procedural%20Analysis/Reaching%20Definition%20Analysis.md)
+↗ [Live Variable Analysis](Intra-procedural%20Analysis/Live%20Variable%20Analysis.md)
+↗ [Available Expressions Analysis](Intra-procedural%20Analysis/Available%20Expressions%20Analysis.md)
+
+
+### Inter-Procedural Analysis
+↗ [Interprocedural Analysis](📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
+↗ [Data Flow Graph (DFG)](📲%20Inter-procedural%20Analysis/Data%20Flow%20Graph%20(DFG).md)
+
+
+### Shape Analysis
+↗ [Shape Analysis](Shape%20Analysis/Shape%20Analysis.md)
+
+
+### Information Flow Control & Analysis
+↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
+↗ [Taint Analysis](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/Taint%20Analysis.md)
 
 
 

@@ -12,14 +12,14 @@
 
 ↗ [Internet Domain Socket](../../../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Internet%20Domain%20Socket.md)
 - ↗ [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
-↗ [UNIX Domain Sockets (POSIX)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md)
+↗ [UNIX Domain Sockets (UDS)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(UDS).md)
 
 
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Inter-process_communication
 
-**Berkeley sockets** is an **application programming interface** for ↗ [Internet Domain Socket](../../../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Internet%20Domain%20Socket.md) and ↗ [UNIX Domain Sockets (POSIX)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md), used for inter-process communication. It is commonly implemented as a [library](https://en.wikipedia.org/wiki/Library_(computing)) of linkable modules. It originated with the [4.2BSD Unix](https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution#4BSD) operating system, which was released in 1983.
+**Berkeley sockets** is an **application programming interface** for ↗ [Internet Domain Socket](../../../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Internet%20Domain%20Socket.md) and ↗ [UNIX Domain Sockets (UDS)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(UDS).md), used for inter-process communication. It is commonly implemented as a [library](https://en.wikipedia.org/wiki/Library_(computing)) of linkable modules. It originated with the [4.2BSD Unix](https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution#4BSD) operating system, which was released in 1983.
 
 A [socket](https://en.wikipedia.org/wiki/Network_socket) is an abstract representation ([handle](https://en.wikipedia.org/wiki/Handle_(computing))) for the local endpoint of a network communication path. The Berkeley sockets API represents it as a [file descriptor](https://en.wikipedia.org/wiki/File_descriptor) ([file handle](https://en.wikipedia.org/wiki/File_handle)) in the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) that provides a common interface for input and output to [streams](https://en.wikipedia.org/wiki/Standard_streams) of data.
 

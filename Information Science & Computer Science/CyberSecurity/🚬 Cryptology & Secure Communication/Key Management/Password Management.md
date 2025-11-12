@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Credentials & Password Related Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
-- ↗ [Credential Manager & SAM (Secure Account Manager)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager)/Credential%20Manager%20&%20SAM%20(Secure%20Account%20Manager).md)
+- ↗ [Credential Manager](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credential%20Manager/Credential%20Manager.md)
 - ↗ [Login Cracker & Password Cracker](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/Login%20Cracker%20&%20Password%20Cracker.md)
 
 ↗ [Password Attack](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)

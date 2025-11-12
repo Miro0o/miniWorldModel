@@ -19,5 +19,10 @@ The CAS protocol can be used to authenticate untrusted web applications requirin
 The CAS approach can be simple to maintain and distribute to a large network of computers after the initial configuration. It can offer users convenience, consistency, and a high level of security.
 
 
+
 ## Ref
+[一篇文章彻底弄懂CAS实现SSO单点登录原理]: https://www.cnblogs.com/wangsongbai/p/10299655.html
+[Understanding central authentication service (CAS)]: https://www.okta.com/identity-101/central-authentication-service/
+
+
 

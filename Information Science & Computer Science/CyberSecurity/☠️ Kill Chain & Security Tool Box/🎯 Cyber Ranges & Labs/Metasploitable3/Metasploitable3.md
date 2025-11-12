@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Metasploit Framework (MSF)](../../Reconnaissance%20&%20Exploration%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+↗ [Metasploit Framework (MSF)](../../Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
 
 
 

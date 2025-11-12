@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SSH (Secure SHell)](../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [SSH (Secure SHell)](../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
 ↗ [Remote Administration(Access) Tools (RAT)](../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
 

@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [(Text) Data Representations & Storage in Computer](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 ↗ [Bag, Queue, Stack](../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Bag,%20Queue,%20Stack.md)
@@ -47,13 +48,15 @@
 ## Intro
 > 🔗 https://www.sciencedirect.com/topics/computer-science/procedure-call
 
-A procedure call in computer science refers to the invocation of a modular block of code, known as a procedure, which is designed to perform a specific task within a program. Depending on the particular [programming language](https://www.sciencedirect.com/topics/computer-science/programming-language), a procedure may be called a function, subroutine, method, or other names; some languages make distinctions between these terms. When a procedure is called, control is transferred from the calling procedure (the caller) to the called procedure (the callee), which executes its statements and may return control and possibly a value to the caller. Each procedure call creates and initializes procedure-local storage, which protects the caller's environment, establishes the callee's environment, and creates any linkages between those environments specified by the call and the language. This mechanism allows programmers to develop and test parts of a program in isolation, providing insulation against problems in other procedures.
+A procedure call in computer science refers to the invocation of a **modular block of code**, known as a **procedure**, which is designed to perform a specific task within a program. Depending on the particular [programming language](https://www.sciencedirect.com/topics/computer-science/programming-language), a procedure may be called a function, subroutine, method, or other names; some languages make distinctions between these terms. When a procedure is called, control is transferred from the calling procedure (the **caller**) to the called procedure (the **callee**), which executes its statements and may return control (to the next instruction of  **call site**, i.e. the next instruction of the calling instruction) and possibly a value to the caller. Each procedure call creates and initializes **procedure-local storage**, which protects the caller's environment, establishes the callee's environment, and creates any linkages between those environments specified by the call and the language. This mechanism allows programmers to develop and test parts of a program in isolation, providing insulation against problems in other procedures.
 
-Procedure calls are fundamental to structuring programs and enabling abstraction. Procedures help define interfaces between system components; cross-component interactions are typically structured through procedure calls. They play a critical role in separate compilation, which allows [software developers](https://www.sciencedirect.com/topics/computer-science/software-developer) to build large software systems. Procedure calls provide an orderly transfer of control and a standard way to map arguments from the caller's name space to the callee's name space. The activation of a procedure refers to the instance of its execution, with each call creating a distinct activation that maintains its own local state. Procedures are essential in defining interfaces between system components and in enabling reliable code.
+**Procedure calls are fundamental to structuring programs and enabling abstraction.** Procedures help define interfaces between system components; cross-component interactions are typically structured through procedure calls. They play a critical role in separate compilation, which allows [software developers](https://www.sciencedirect.com/topics/computer-science/software-developer) to build large software systems. Procedure calls provide an orderly transfer of control and a standard way to map arguments from the **caller's name space** to the **callee's name space**. The activation of a procedure refers to the instance of its execution, with each call creating a distinct activation that maintains its own local state. **Procedures are essential in defining interfaces between system components and in enabling reliable code.**
 
 
 ### Why Procedure and Procedure Calls?
-This is how Turing machine is designed, and by this design it gives our the power of Turing machine, i.e. the computation power that can compute any problem described by a Turing-complete language. 🥸
+This is how Turing machine is designed, and by this design it gives our the power of Turing machine, i.e. the computation power that can compute any problem described by a Turing-complete language. 🥸 
+
+Essentially, it gives our program the power of recursion.
 
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
@@ -65,7 +68,7 @@ This is how Turing machine is designed, and by this design it gives our the powe
 ### Mechanisms of Procedure Calls
 > 🔗 https://www.sciencedirect.com/topics/computer-science/procedure-call
 
-Procedure calls are managed using a call stack, where each active procedure is represented by an [activation record](https://www.sciencedirect.com/topics/computer-science/activation-record) (also known as a stack frame) that stores [control information](https://www.sciencedirect.com/topics/computer-science/control-information), local variables, parameters, and the return address. The stack mechanism supports recursion by creating a distinct activation and state for each call to a procedure, and unwinds in last-in, first-out order as calls return, correctly tracking all return addresses and local states for [recursive computations](https://www.sciencedirect.com/topics/computer-science/recursive-computation) such as factorial calculations.
+Procedure calls are managed using a **call stack**, where each active procedure is represented by an [activation record](https://www.sciencedirect.com/topics/computer-science/activation-record) (also known as a stack frame) that stores [control information](https://www.sciencedirect.com/topics/computer-science/control-information), local variables, parameters, and the return address. The stack mechanism supports recursion by creating a distinct activation and state for each call to a procedure, and unwinds in last-in, first-out order as calls return, correctly tracking all return addresses and local states for [recursive computations](https://www.sciencedirect.com/topics/computer-science/recursive-computation) such as factorial calculations.
 
 [Parameter passing](https://www.sciencedirect.com/topics/computer-science/parameter-passing) methods include:
 - **[Call-by-value](https://www.sciencedirect.com/topics/computer-science/call-by-value)**: The caller evaluates actual parameters and passes their values to the callee; modifications in the callee are not visible to the caller.
@@ -75,7 +78,7 @@ Procedure calls are managed using a call stack, where each active procedure is r
 
 Return values are handled by allocating space outside the callee's activation record, often in the caller's activation record or a designated register, with conventions ensuring both caller and callee agree on the size and location of the returned value.
 
-Calling conventions and [linkage conventions](https://www.sciencedirect.com/topics/computer-science/linkage-convention) are agreements between the compiler and [operating system](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/operating-system) that define the actions taken to call and return from a procedure, including mapping names to values, preserving environments, and enabling interoperability and separate compilation. These conventions standardize [calling sequences](https://www.sciencedirect.com/topics/computer-science/calling-sequence), allowing code from different sources and languages to interact safely and efficiently.
+==Calling conventions and [linkage conventions](https://www.sciencedirect.com/topics/computer-science/linkage-convention) are agreements between the compiler and [operating system](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/operating-system) that define the actions taken to call and return from a procedure, including mapping names to values, preserving environments, and enabling interoperability and separate compilation.== These conventions standardize [calling sequences](https://www.sciencedirect.com/topics/computer-science/calling-sequence), allowing code from different sources and languages to interact safely and efficiently.
 
 The implementation of procedure calls involves four sequences:
 - **[Precall sequence](https://www.sciencedirect.com/topics/computer-science/precall-sequence)** in the caller: prepares arguments and preserves the caller's environment.
@@ -101,16 +104,20 @@ These mechanisms affect program control flow by providing orderly transfer of co
 
 
 
-## Same Process Procedure Call
+## 👉 Same Process Procedure Call
 ### ⭐ Function /Procedure Calls in an x86 Example: A Quick Detour
 > ↗ [x86 Architecture Family (80x86, 8086 family)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 > ↗ [x86 ISA Based ASM](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 > ↗ [8086 ASM (16 bit)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
 > ↗ [Address Space & Memory Layout](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 > ↗ [Register](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+
 > 🔗 https://textbook.cs161.org/memory-safety/x86.html#28-x86-function-calls
 > 🎬 [Lecture 0: CS61C Review](https://sp21.cs161.org/review/0)
 > 🎬 [Function Call in x86 Assembly](https://youtu.be/JmYsn4NNeH4?si=NIjqHXnsZkhcaMCw)
+
+The process virtual memory layout: 
+![|400](../../../../../Assets/Pics/Pasted%20image%2020240902162344.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202024-09-04%20at%2012.59.03.png)
 ##### Stack: Pushing and popping
@@ -132,7 +139,7 @@ There are **11 steps** to calling an x86 function and returning. In this example
 Here is the stack before the function is called. `ebp` and `esp` point to the top and bottom of the caller stack frame.
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163556.png)
 
-**1. Push arguments onto the stack.** RISC-V passes arguments by storing them in registers, but x86 passes arguments by pushing them onto the stack. Note that esp is decremented as we push arguments onto the stack. Arguments are pushed onto the stack in reverse order.
+**1. Push function arguments onto the stack.** RISC-V passes arguments by storing them in registers, but x86 passes arguments by pushing them onto the stack. Note that esp is decremented as we push arguments onto the stack. Arguments are pushed onto the stack in reverse order.
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163609.png)
 
 **2. Push the old `eip` (`rip`) on the stack.** We are about to change the value in the `eip` register, so we need to save its current value on the stack before we overwrite it with a new value. When we push this value on the stack, it is called the `old eip` or the `rip` (return instruction pointer).[6](https://textbook.cs161.org/memory-safety/x86.html#fn:6)
@@ -154,7 +161,7 @@ Here is the stack before the function is called. `ebp` and `esp` point to the to
 **7. Execute the function.** Local variables and any other necessary data can now be saved in the new stack frame. Additionally, since ebp is always pointing at the top of the stack frame, we can use it as a point of reference to find other variables on the stack. For example, the arguments will be located starting at the address stored in ebp, plus 8.
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163725.png)
 
-**8. Move esp up.** Once the function is ready to return, we increment `esp` to point to the top of the stack frame (`ebp`). This effectively erases the stack frame, since the stack frame is now located below esp. (Anything on the stack below `esp` is undefined.)
+**8. Move esp up.** Once the function is ready to return, we increment `esp` to point to the top(bottom?) of the stack frame (`ebp`). This effectively erases the stack frame, since the stack frame is now located below esp. (Anything on the stack below `esp` is undefined.)
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163733.png)
 
 **9. Restore the old `ebp` (`sfp`)**. The next value on the stack is the `sfp`, the old value of `ebp` `before` we started executing the function. We pop the `sfp` off the stack and store it back into the `ebp` register. This returns `ebp` to its old value before the function was called.
@@ -201,7 +208,7 @@ Function call conventions are a set of rules that define how functions receive p
 
 
 
-## Inter Process Procedure Calls
+## 👉 Inter Process Procedure Calls
 ### Inter Process Communication (IPC)
 ↗ [IPC (Inter Process Communication)](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 - ↗ [Synchronization](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/Synchronization/Synchronization.md)

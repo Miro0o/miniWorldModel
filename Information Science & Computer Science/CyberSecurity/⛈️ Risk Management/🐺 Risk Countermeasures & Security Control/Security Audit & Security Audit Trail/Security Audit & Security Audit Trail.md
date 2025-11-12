@@ -17,6 +17,8 @@
 
 ↗ [Attack Surface Management (ASM)](../../🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 
+↗ [Security Auditing & Hardening Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Security%20Auditing%20&%20Hardening%20Tools/Security%20Auditing%20&%20Hardening%20Tools.md)
+
 
 
 ## Intro

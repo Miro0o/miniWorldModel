@@ -257,6 +257,10 @@ One problem with the use of soundness and completeness in program analysis, is t
 Trace based questions focus on if the program contains an execution that ends in a state which contains a bug. In that case a sound analysis will only find correct traces, and complete analysis will find all traces. This is mostly used in dynamic analyses.
 
 ==In case of confusion, use **may** and **must** instead.==
+##### Necessity of Soundness
+- Soundness is critical to a collection of important (static-analysis) applications such as _compiler optimization_ and _program verification._
+- ![](../../../../../../Assets/Pics/Screenshot%202025-11-11%20at%2023.37.45.png)
+- Soundness is also preferable to other (static-analysis) applications for which soundness is not demanded, e.g., _bug detection_, as better soundness implies more bugs could be found.
 ##### A Relaxed Goal: Approximative Answers
 > 📖 Static Program Analysis | Anders Møller and Michael I. Schwartzbach
 
@@ -266,7 +270,9 @@ Approximative answers may be useful for finding bugs in programs, which may be v
 
 > 🔗 [In Defense of Soundness: A Manifesto](https://dl.acm.org/doi/pdf/10.1145/2644805)
 > [...], virtually all published whole program analyses are unsound and omit conservative handling of common language features when applied to real programming languages.
-##### Safe-Approximation & May /Must Analysis
+##### Safe-Approximation & May /Must Analysis ⭐
+↗ [Program Abstraction & Abstract Interpretation](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md) "may/must analysis: a lattice perspective"
+
 ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 #### FP,TN,FN 🆚 TP

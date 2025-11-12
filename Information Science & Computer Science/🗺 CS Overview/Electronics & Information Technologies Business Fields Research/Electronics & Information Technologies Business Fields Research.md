@@ -32,7 +32,7 @@
 ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
@@ -77,6 +77,27 @@ Analysts at Gartner, Inc., have been tracking technology trends for decades. The
 
 
 
+## AI & LLM
+↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+
+
+## Internet
+↗ [Web Development & The Internet](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+
+
+
+## Industry Software
+↗ [Industry 4.0](Industry%204.0.md)
+
+
+
+## Semiconductor & Hardware
+↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
+
+
+
 ## Ref
 [数字经济及其核心产业统计分类（2021） | 国家统计局令]: https://www.gov.cn/gongbao/content/2021/content_5625996.htm
 
@@ -85,4 +106,3 @@ Analysts at Gartner, Inc., have been tracking technology trends for decades. The
 [73 「一图看懂中美互联网平行宇宙（仅供参考） - 电商（全渠道）一点通 | 小红书 - 你的生活指南」 😆 ngeZATOMrIwpVLt 😆]: http://xhslink.com/y442xO
 
 ![](../../../Assets/Pics/Pasted%20image%2020240705173804.png)
-

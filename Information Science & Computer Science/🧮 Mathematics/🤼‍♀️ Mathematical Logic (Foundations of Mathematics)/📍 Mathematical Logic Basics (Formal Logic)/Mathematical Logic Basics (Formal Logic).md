@@ -198,7 +198,14 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 
-### Formal Systems 
+### Formal Systems
+> 🔗 https://en.wikipedia.org/wiki/Formal_system
+
+A **formal system** (or **deductive system**) is an [abstract structure](https://en.wikipedia.org/wiki/Abstract_structure "Abstract structure") and [formalization](https://en.wikipedia.org/wiki/Formalism_\(philosophy_of_mathematics\) "Formalism (philosophy of mathematics)") of an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system") used for [deducing](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), using [rules of inference](https://en.wikipedia.org/wiki/Rule_of_inference "Rule of inference"), [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") from [axioms](https://en.wikipedia.org/wiki/Axioms "Axioms").
+
+In 1921, [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert") proposed to use formal systems as the foundation of knowledge in [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"). However, in 1931 [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel") proved that any [consistent](https://en.wikipedia.org/wiki/Consistency "Consistency") formal system sufficiently powerful to express basic arithmetic cannot prove its own [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)"). This effectively showed that [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") was impossible as stated.
+
+The term _formalism_ is sometimes a rough synonym for _formal system_, but it also refers to a given style of [notation](https://en.wikipedia.org/wiki/Notation "Notation"), for example, [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac "Paul Dirac")'s [bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation "Bra–ket notation").
 #### Simplified Typed Lambda Calculus
 ↗ [Lambda Calculus (λ-Calculus)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
 
@@ -328,25 +335,23 @@ A great example of this, is in the note of ↗ [The Essence of Computing - Progr
 In the study of Computer Science, we learn both those mathematical logics and computational models. (Sometimes this is exhausted,  because people don't like to learn that many things to simply achieve some easy tasks they meet at the moment. But I say let's study 🤓)
 ##### Satisfiability ⭐
 Intuitively explanation:
-When mapping two objects, "assigning semantics", there are rules. When there are rules, such mapping can be deduced to a decision problem: either the mapping succeed or fail. In the case of mapping between logic language and computational model, if such mapping succeeded, we say A accept B, or A satisfy B. Accordingly, B is satisfiable, or SAT.
+When mapping two objects, or "assigning semantics", we don't assign an arbitary object to another arbitary object; instead, we assign them under some set of rules. Hence, under these rules, the result of such mapping can be deduced to a decision problem: either the mapping follows the rules (mapping succeeds) or don't (mapping fails). Further, we say A accept B, or A satisfy B, when such mapping succeeds. Accordingly, B is satisfiable, or SAT.
 
-Specifically, we always consider whether a computational model accept a logic language.
+Specifically, we consider the mapping between these two sets of objects: one is called (computational) model, one is called properties (on the model). A model is usually a mathematical structure, while a property is usually a mathematical statement (formula in logics). 
 
 
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [Computation-Tree Logic (CTL*) Family](Modality%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+↗ [Computation-Tree Logic (CTL*) Family](Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
 
 
 ---
 ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
 Alternatively, does a given model $M$ partially satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
-
-SAT problem: given a (set of) property $\Phi$, is there any model that satisfy $\Phi$? $$\exists M, \ M \models \Phi \ ?$$
+SAT problem: given a property $\Phi$ (a proposition), is there any model that satisfy $\Phi$? $$\exists M, \ M \models \Phi \ ?$$
 ###### The Oldest NP-complete Problem: SAT Problem!
+> ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > ↗ [Symbolic Execution & Concolic Execution](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
-> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 > - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
-> - ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 
 > ↗ [Computational Complexity Theory](../😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 > ![|400](../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
@@ -356,10 +361,13 @@ SAT problem: given a (set of) property $\Phi$, is there any model that satisfy $
 
 The SAT problem: does there exist a model $M$ that satisfies $\Phi$? $$\exists M. M\models\Phi ?$$
 The model checking problem:  given $M$ and $\Phi$ decide $$M\models\Phi ?$$
-NP/NP-complete problems **can be solved by encoding** them **into SAT**!
+NP/NP-complete problems can be solved by encoding them into a SAT problem!
+- ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - Building a “very fast” SAT solver could be used for solving lots of other not-so-easy problems!
 - **In theory**: wishful thinking, NP-problems are known to take exponential time in the worst case.
 - **In practice**: modern SAT solvers are very fast most of the time! (but still not enough for solving SAT problem!)
+
+Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first-order logic + additional interpretations). ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 
 
 ### Properties of Logics System

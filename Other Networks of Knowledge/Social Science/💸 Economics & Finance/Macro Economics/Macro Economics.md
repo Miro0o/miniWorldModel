@@ -46,7 +46,6 @@
 
 32 【本周全球市场逻辑 动画版 （2025/07/20） - 狐一知的商业笔记 | 小红书 - 你的生活兴趣社区】 😆 vHnDJM2d1tv2WgN 😆 https://www.xiaohongshu.com/discovery/item/687c9c620000000023007b6f?source=webshare&xhsshare=pc_web&xsec_token=ABJEFlHKNnNqtMn7E5fmFgxjfpuMnmZmo0iaJxQ6gKYqU=&xsec_source=pc_share
 
-
 六个口袋
 过去、现在、未来
 人口 - 分配 - 储蓄 - 消费

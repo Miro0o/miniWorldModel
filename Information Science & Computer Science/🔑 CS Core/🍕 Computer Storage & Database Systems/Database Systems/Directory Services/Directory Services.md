@@ -34,8 +34,6 @@ Directory services are fundamental elements of an Identity Security strategy. Ma
 
 ### 👵🏻 Directory Services Implementations in History 
 > 🔗 https://en.wikipedia.org/wiki/Directory_service
-
-
 #### X.500 Standards & LDAP
 Directory services were part of an [Open Systems Interconnection](https://en.wikipedia.org/wiki/Open_Systems_Interconnection "Open Systems Interconnection") (OSI) initiative for common network standards and multi-vendor interoperability.
 

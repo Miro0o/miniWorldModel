@@ -9,8 +9,8 @@
 ↗ [Software Supply Chains Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
 ↗ [Container Registry & Artifacts Management](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Container%20Registry%20&%20Artifacts%20Management/Container%20Registry%20&%20Artifacts%20Management.md)
 
-↗ [pipx](🧖🏻‍♀️%20Language-specific%20Software%20Package%20Management/pipx.md)
-↗ [npx](🧖🏻‍♀️%20Language-specific%20Software%20Package%20Management/npx.md)
+↗ [pipx](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Packages%20&%20Version%20Mangers/pipx.md)
+↗ [npx](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/NodeJS%20Managers/Package%20Mangers/npx.md)
 
 
 ### Projects /Tools
@@ -24,6 +24,7 @@ package manager proxy settings | 记录各个包管理器代理设置坑点。
 
 
 ## Intro
+
 
 
 ## Ref

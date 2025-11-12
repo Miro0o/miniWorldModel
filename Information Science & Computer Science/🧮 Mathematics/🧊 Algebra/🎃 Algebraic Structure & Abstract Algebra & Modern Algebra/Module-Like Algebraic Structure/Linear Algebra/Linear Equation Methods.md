@@ -18,6 +18,8 @@
 
 
 ## Ref
+[Gauss Seidel Method | wikipedia]: https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method
+
 cramer's rule
 Power
 jacobi

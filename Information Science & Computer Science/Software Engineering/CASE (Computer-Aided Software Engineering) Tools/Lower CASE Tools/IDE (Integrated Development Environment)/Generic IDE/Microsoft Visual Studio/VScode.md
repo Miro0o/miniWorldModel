@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Github Copilot](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/General%20LLM%20Applications/Github%20Copilot.md)
+↗ [Github Copilot](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/General%20LLM%20Applications/Github%20Copilot.md)
 
 
 ### Other Resources

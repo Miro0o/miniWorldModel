@@ -7,6 +7,8 @@
 ## Res
 🏠 https://openid.net/connect/
 
+
+### Related Topics
 ↗ [OAuth (Open Authorization)](../OAuth%20(Open%20Authorization).md)
 
 

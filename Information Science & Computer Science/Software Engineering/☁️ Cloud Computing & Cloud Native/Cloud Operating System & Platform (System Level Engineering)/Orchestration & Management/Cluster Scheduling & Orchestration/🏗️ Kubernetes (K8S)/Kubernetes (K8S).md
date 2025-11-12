@@ -14,7 +14,7 @@
 
 
 ### Related Topics
-↗ [Google](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Google.md)
+↗ [Alphabet (Google)](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Alphabet%20(Google).md)
 ↗ [PaaS (Platform as a Service)](../../../../🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/PaaS%20(Platform%20as%20a%20Service)/PaaS%20(Platform%20as%20a%20Service).md)
 
 ↗ [OpenStack](../../../🔞%20OpenStack/OpenStack.md)

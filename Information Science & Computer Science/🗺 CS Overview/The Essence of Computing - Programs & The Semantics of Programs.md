@@ -240,11 +240,11 @@ C 程序的状态机模型1 (语义，semantics)
 - 状态 = 堆 + 栈
 - 初始状态 = `main` 的第一条语句
 - 迁移 = 执行一条简单C语句
-    - 任何 C 程序都可以改写成 “非复合语句” 的 C 代码
+    - 任何 C 程序都可以改写成 “非复合语句” 的 C 代码 (没有函数调用)
     - [真的有这种工具](https://cil-project.github.io/cil/) (C Intermediate Language) 和[解释器](https://gitlab.com/zsaleeba/picoc)
 
 C 程序的状态机模型2 (语义，semantics)
-- 状态 = stack frame 的列表 (每个 frame 有 PC) + 全局变量
+- 状态 = stack frame 的列表 (每个 frame 有 PC) + 全局变量(堆)
 - 初始状态 = main(argc, argv), 全局变量初始化
 - 迁移 = 执行 top stack frame PC 的语句; PC++
     - 函数调用 = push frame (frame.PC = 入口)
@@ -399,14 +399,17 @@ There are many formal semantics. Small step semantics is a kind of operational s
 
 **State**: values $V$
 - $V = ⟨\eta, \ \mu⟩$, where $\eta$ is the heap (global values $V_\eta$ shared across frames), and $\mu$ is the stack of frames (call stack) $\mu = \epsilon \ ⟨\lambda_1, \sigma_1,\iota_1⟩ \ ⟨\lambda_2, \sigma_2,\iota_2⟩ \ \cdots \ ⟨\lambda_n, \sigma_n,\iota_n⟩$ whose values are all stack values $V_\sigma$.
-	- $\epsilon$ is the symbol we put at the bottom of the frame stack $⟨\lambda, \sigma,\iota⟩$ to indicate the empty frame stack.
+	- $\epsilon$ is the symbol we put at the bottom of the stack to indicate an empty stack. Whenever a stack pops out all items it have, the $\epsilon$ appear to be the top element. Hence, by checking wether the top element equals to $\epsilon$, we know wether we hit the bottom of the stack or not.
 	- In a frame stack $⟨\lambda, \sigma,\iota⟩$:
 		- $\lambda$ is an array of local data ($\lambda = [v_1, v_2, ...], \ v_i\in V_\sigma$). Array means the values are fetched by index.
-		- $\sigma$ is a stack, or more specifically an operator stack ($\sigma=\epsilon \ o_1 \ o_2 \ o_3 \ ..., \ o_i \in V_\sigma$). Stack means the values are fetched LCFS.
+		- $\sigma$ is a stack, or more specifically an operand stack ($\sigma=\epsilon \ o_1 \ o_2 \ o_3 \ ..., \ o_i \in V_\sigma$). Stack means the values are fetched FCLS.
 		- $\iota$ is a single stack value $\iota \in V_\sigma$ representing PC (the value of memory address of next instruction to be executed).
 	- Frame stack $\mu$ consists of stacks of frames $\{⟨\lambda_i, \sigma_i,\iota_i⟩\}$.
 **Transition**: execution of one instruction of PC ($\iota$): $V \overset{bc[\iota]}{\to} V'$, or $⟨\eta, \ \mu⟩ \overset{bc[\iota]}{\to} ⟨\eta, \ \mu⟩'$
 - Different instructions have different behaviors in changing $V$ to $V'$. See ↗ [JVM Instrument Set & Java Bytecode](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md) for the instruction set.
+
+For example, we look at below decompiled `.class` file of java bytecde:
+TBD.
 
 Below ⬇️ are the explanation of above semantics, with more detailed examples
 
@@ -454,10 +457,10 @@ class Bytecode:
 
 
 
-**The Values (Locals and Heap), Operator Stack**
+**The Values (Locals and Heap), Operand (Operator) Stack**
 It's all about the values (data as in data vs instruction) in a code.
 
-The JVM is a **stack based virtual machine**, which means that instead of using *named variables* (registers) to store **intermediate values**, it instead uses an **operator stack**. Intermediate values are those that generated during an execution (expression evaluation) and weren't explicitly declared by code. Besides intermediate values, there are the "normal values", values declared by the code. For these values, those that stored local to the methods are called **locals**, which can be accessed using indices. Alternatively, values that stored in global memory and shared across methods is referred to as the **heap**.
+The JVM is a **stack based virtual machine**, which means that instead of using *named variables* (registers) to store **intermediate values**, it uses an **operand stack (or operator stack)**. Intermediate values are those that generated during an execution (expression evaluation) and weren't explicitly declared by code. Besides intermediate values, there are values explicitly declared by the code. For these values, those that stored local to the methods are called **locals**, which can be accessed using indices, while values that stored in global memory and shared across methods is referred to as the **heap**.
 
 The values in (our interpretation of) JVM are dynamically typed, this means that every value caries around information about its type. There are two kinds of values, stack values $V_\sigma$ and heap values $V_\eta$. $$\begin{aligned} & V_\sigma := (\mathcal{int} \ n) \ | \ (\mathcal{float} \ f) \ | \ (\mathcal{ref} \ r) \\
 & V_\eta := V_\sigma \ | \ (\mathcal{byte} \ b) \ | \ (\mathcal{char} \ c) \ | \ (\mathcal{short} \ s) \ | \ (\mathcal{array} \ t \ a) \ | \ (\mathcal{object} \ cn \ fs)\end{aligned}$$
@@ -551,7 +554,7 @@ That’s why it’s called an **operand stack** — it holds the **operands** (i
 ---
 JVM saves local variables of type $V_\sigma$ to a local array $\lambda$. This is were the inputs to the method goes and any data that should be saved on the method stack instead of in the heap. The local array is indexed normally $\lambda[0]$.
 
-In its simplest form, the state of the JVM is a triplet $⟨\lambda,\sigma,\iota⟩$ which we will call a frame, where $\lambda$ is an array that stores all the locals, $\sigma$ is the operator stack and $\iota$ is the program counter.
+In its simplest form, the state of the JVM is a triplet $⟨\lambda,\sigma,\iota⟩$ which we will call a frame, where $\lambda$ is an array that stores all the locals, $\sigma$ is the operand stack and $\iota$ is the program counter.
 
 In Python, we would write:
 ```Python

@@ -17,6 +17,9 @@
 
 ↗ [Operating System Security](../../System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
 
+↗ [Anti-Reverse Engineering & Software Protection](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
+↗ [VM Evasion](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/VM%20Evasion/VM%20Evasion.md)
+
 
 ### Learning Resources
 https://github.com/WinMin/awesome-vm-exploit

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information Flow Control & Analysis](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/Information%20Flow%20Control%20&%20Analysis/Information%20Flow%20Control%20&%20Analysis.md)
+↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
 
 ↗ [Security Evaluation Frameworks](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Cybersecurity%20Related%20Standards%20&%20Organizations/Security%20Evaluation%20Frameworks/Security%20Evaluation%20Frameworks.md)
 ↗ [TCB & TCSEC (Trusted Criteria Base & Security Evaluation Criteria)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Cybersecurity%20Related%20Standards%20&%20Organizations/Security%20Evaluation%20Frameworks/TCB%20&%20TCSEC%20(Trusted%20Criteria%20Base%20&%20Security%20Evaluation%20Criteria).md)
@@ -22,6 +22,10 @@
 ↗ [DBMS Access Control](../../../../System%20Security/Database%20System%20Security/DBMS%20Access%20Control/DBMS%20Access%20Control.md)
 ↗ [SQL & Access Control](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20Data%20Control%20(DCL)/SQL%20&%20Access%20Control/SQL%20&%20Access%20Control.md)
 ↗ [File Sharing & Access Control](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Management%20(User%20Level)/File%20Sharing%20&%20Access%20Control/File%20Sharing%20&%20Access%20Control.md)
+
+↗ [Physical (Link) Layer Security Protocols](../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Physical%20(Link)%20Layer%20Security%20Protocols.md)
+- ↗ [IEEE 802.11 Security Standards & WPA](../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
+- ↗ [IEEE 802.1x](../../../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
 
 
 

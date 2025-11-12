@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Zero-Knowledge Proof (ZKP)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authentication%20Mechanism/Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 ↗ [Homomorphic Encryption (HE)](../🤐%20Cryptography/Modern%20Cryptography/Homomorphic%20Encryption%20(HE)/Homomorphic%20Encryption%20(HE).md)
 ↗ [Key Management Algorithms](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Key%20Management%20Algorithms.md)
 - [Shamir Threshold Scheme](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Shamir%20Threshold%20Scheme.md)

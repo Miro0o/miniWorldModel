@@ -172,7 +172,10 @@ https://consensus.app/
 Consensus
 
 
-### Paper Explore /Analysis /Visualization
+### Paper Explore /Analysis /Visualization ⭐
+↗ [Bib-Management](Bib-Management/Bib-Management.md)
+
+
 🔍 https://keywords.groundedai.company
 A visual map of _keywords_ found in papers related to the search query. Part of the GroundedAI project. Grounded AI.
 
@@ -219,6 +222,7 @@ https://paperguide.ai/
 Your All-in-One 
 AI Research Assistant
 Get research backed answers, find & analyze research papers, streamline literature reviews, manage references, and write documents - faster with one AI powered research platform.
+
 
 
 ### How to Read Papers ⭐ ⭐

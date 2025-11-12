@@ -64,9 +64,9 @@ The address space term is an overload term that can have different meanings in d
 
 At runtime, the operating system gives the program an address space to store any state necessary for program execution. You can think of the address space as a large, contiguous chunk of memory. Each _byte_ of memory has a unique address.
 
-The size of the address space depends on your operating system and CPU architecture. In a 32-bit system, memory addresses are 32 bits long, which means the address space has 232 bytes of memory. In a 64-bit system, memory addresses are 64 bits long. (Sanity check: how big is the address space in this system?[2](https://textbook.cs161.org/memory-safety/x86.html#fn:2)) In this class, unless otherwise stated we’ll be using 32-bit systems.
+The size of the address space depends on your operating system and CPU architecture. In a 32-bit system, memory addresses are 32 bits long, which means the address space has $2^{32}$ bytes of memory. In a 64-bit system, memory addresses are 64 bits long. (Sanity check: how big is the address space in this system?[2](https://textbook.cs161.org/memory-safety/x86.html#fn:2)) In this class, unless otherwise stated we’ll be using 32-bit systems.
 
-We can draw the memory layout as one long array with 232 elements, where each element is one byte. The leftmost element has address `0x00000000`, and the rightmost element has address `0xFFFFFFFF`.[3](https://textbook.cs161.org/memory-safety/x86.html#fn:3)
+We can draw the memory layout as one long array with $2^{32}$ elements, where each element is one byte. The leftmost element has address `0x00000000`, and the rightmost element has address `0xFFFFFFFF`.[3](https://textbook.cs161.org/memory-safety/x86.html#fn:3)
 
 ![|500](../../../../../Assets/Pics/Pasted%20image%2020240902162323.png)
 
@@ -77,7 +77,6 @@ However, this is hard to read, so we usually draw memory as a grid of bytes. In 
 Although we can draw memory as a grid with annotations and labels, remember that the program only sees a huge array of raw bytes. It is up to the programmer and the compiler to manipulate this chunk of raw bytes to create objects like variables, pointers, arrays, and structs.
 
 When a program is being run, the address space is divided into four sections. From lowest address to highest address, they are:
-
 - The **_code_ section** contains the executable instructions of the program (i.e. the code itself). Recall that the assembler and linker output raw bytes that can be interpreted as machine code. These bytes are stored in the code section.
 - The **_static_ section** contains constants and static variables that never change during program execution, and are usually allocated when the program is started.
 - The **_heap_** stores dynamically allocated data. When you call `malloc` in C, memory is allocated on the heap and given to you for use until you call `free`. The heap starts at lower addresses and “grows up” to higher addresses as more memory is allocated.

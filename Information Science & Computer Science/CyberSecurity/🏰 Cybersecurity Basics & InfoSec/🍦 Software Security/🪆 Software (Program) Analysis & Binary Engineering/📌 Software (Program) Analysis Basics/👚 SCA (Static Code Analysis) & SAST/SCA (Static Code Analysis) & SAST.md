@@ -83,16 +83,13 @@ Static program analysis has been used since the early 1960’s in optimizing com
 
 > 🔗 https://www.bilibili.com/video/BV1b7411K7P4
 
-Two Words to Conclude Static Analysis:
-- **Abstraction** (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
-	- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.57.45.png)
+The essence of static code analysis:  (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
+- **Abstraction**
 - **Safe-approximation**
-	- Transfer functions (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
-		- In static analysis, transfer functions define how to evaluate different program statements on abstract values.
-		- Transfer functions are defined according to “analysis problem” and the “semantics” of different program statements.
-		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.59.24.png)
-	- Control flows
-		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2001.00.14.png)
+	- Transfer functions (abstraction functions)
+	- Control flows (branches)
+
+![](../../../../../../../Assets/Pics/Screenshot%202025-11-11%20at%2023.40.55.png)
 
 
 ### (Formal) Language and Programming Language (PL)
@@ -167,11 +164,24 @@ Most of this section of notes, the static code analysis, are semantical analysis
 - ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
 
 
-### Program Abstraction & Abstract Interpretation ⭐
+### Program Abstraction & Abstract Interpretation ⭐ ⭐ ⭐
 For both bounded or unbounded static analysis. ❤️
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
 <small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function.</small>
+
+> 🔗 https://www.bilibili.com/video/BV1b7411K7P4
+
+The essence of static code analysis:  (↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md))
+- **Abstraction**
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.57.45.png)
+- **Safe-approximation**
+	- Transfer functions (abstract functions)
+		- In static analysis, transfer functions define how to evaluate different program statements on abstract values.
+		- Transfer functions are defined according to “analysis problem” and the “semantics” of different program statements.
+		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.59.24.png)
+	- Control flows (branches)
+		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2001.00.14.png)
 
 ↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 

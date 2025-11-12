@@ -23,10 +23,22 @@ Program interpretation: precisely same semantics
 Abstract interpretation: approximated semantics
 
 
-### Program Abstraction
+### Program Abstraction & Safe-Approximation
+> 🔗 https://www.bilibili.com/video/BV1b7411K7P4
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
-<small>A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function. Mathematically, Galois connection only describe relations between two ordered sets. Here, in program abstraction, we use Galois connection to describe such two specific ordered sets of concrete domain and abstract domain. But don't mis-understand that concretion and abstraction are concepts from Galois connection. They are not.</small>
+The essence of static code analysis: 
+- **Abstraction**
+	- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.57.45.png)
+- **Safe-approximation**
+	- Galois connection:
+		- ![](../../../../../../../../Assets/Pics/Pasted%20image%2020251010000047.png)
+		- A Galois Connection is a connection between two ordered sets, with a concretion γ and an abstraction α function. Mathematically, Galois connection only describe relations between two ordered sets. Here, in program abstraction, we use Galois connection to describe such two specific ordered sets of concrete domain and abstract domain. But don't mis-understand that concretion and abstraction are concepts from Galois connection. They are not.
+	- Transfer functions (abstract functions)
+		- In static analysis, transfer functions define how to evaluate different program statements on abstract values.
+		- Transfer functions are defined according to “analysis problem” and the “semantics” of different program statements.
+		- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.59.24.png)
+	- Control flows (branches)
+		- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2001.00.14.png)
 
 
 ### Abstract Interpretation of Program
@@ -65,6 +77,9 @@ We can use Hasse Diagram to draw a lattice:
 The reason why they are called latices is that they can be drawn using Hasse digrams which gives these nice structures, which looks like a wooden lattice.
 ##### Monotonicity & Fixed Point Axiom
 ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+##### May /Must Analysis: A Lattice View
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.34.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.53.png)
 #### Galois Connection & Safe-Approximation ⭐
 > ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
@@ -140,7 +155,7 @@ The above equation requires us to create huge sets of values. Instead, we can us
 
 In practice, Galois connections allows us to map our infinite domain of may or must analyses into a more manageable abstract domain, while giving us guarantees that we are still correctly over- or under-estimating (safe-approximation). In the following example, we explain above points by instantiate how to map static analysis (our $\text{step}$ function) from concrete domain to abstraction. 
 
-> ==Once we leave the concrete domain and enter the abstract domain, the analysis done here (at this abstraction domain) is what we call the "abstract interpretation"==, as oppose to "program interpretation", which happens at the concrete domain where you interpret (or transfer) a program using different semantics.
+> ==Once we leave the concrete domain and enter the abstract domain, the analysis done here (abstraction domain) is what we call the "abstract interpretation"==, as oppose to "program interpretation", which happens at the concrete domain where you interpret a program using different semantics.
 
 Let's assume we are building a **may analysis**. Since we want to over-approximate our $\text{step}()$ function, (recall ↗ [SCA (Static Code Analysis) & SAST /BSA in Formal Definition](../SCA%20(Static%20Code%20Analysis)%20&%20SAST.md#BSA%20in%20Formal%20Definition)) we therefore introduce an abstract domain $(A, \sqsubseteq_A)$ that has an abstract stepping function $\text{step}_A()$.  We assume the Galois connection $(2^{\text{Trace}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (A, \sqsubseteq_A)$.  We can use this new abstract stepping function to define a **bounded static analysis** of depth $n$:  $\text{BSA}_A^n = \text{step}_A^n$. We define $\text{step}_A^n$ recursively: 
 $$\begin{aligned}
@@ -210,7 +225,7 @@ Which means that if $\text{err}(\text{‘assertion error’}) \notin \text{BSA}_
 
 In this abstraction, we want to take advantage of executing the same instruction in states with the same program counter.
 
-Let's focus on a JVM **without a method stack**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)). We'll get back to talk about how to handle the method stack in later sections.  
+Let's focus on a JVM **without a method stack (call stack, i.e. no function calls)**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)). 
 
 We can abstract this by collecting the states per $\iota$. Let $\mathbf{P_c} = \iota \rightarrow 2^{\text{State}}$ be a mapping from program counters to the program state space. $\mathbf{P_c}$ is a lattice with partial order $\sqsubseteq_{\mathbf{P_c}}$ where one mapping is less than ($\sqsubseteq_{\mathbf{P_c}}$) another if all states are smaller than the other,  
 and $\bigsqcup_{\mathbf{P_c}}$ is pointwise set union ($\cup$) of states. Then we have our Galois connection between the original program and per-instruction abstraction:
@@ -461,10 +476,175 @@ There is no reason to update the states after the while loop, before we have rea
 The correct order to do this computation is in [reverse post-order](https://en.wikipedia.org/wiki/Tree_traversal). If you do this you are guranteed to process any loops first.
 
 
+### Context Sensitive Analysis & Support For Procedure Calls
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+> ↗ [Interprocedural Analysis](../Data%20Flow%20Analysis/📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
+> ↗ [Context-Sensitive Pointer Analysis](../Pointer%20Analysis%20&%20Alias%20Analysis/Context-Sensitive%20Pointer%20Analysis.md)
+
+> 🔗  [Smaragdakis (2014)](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:smaragdakis2014introspective)
+> 🔗 [Might (2010)](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:might2010resolving)
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html
+
+**Procedure Calls Are Complicated**
+In our previous chapters, every time we encountered a jump instruction it was to a known location. This is called a statically known jump. If the jump is only known at run-time, we call it a dynamic jump. Method calls, or specifically returning from a method, are one of the most common cases of dynamic control flow. On a static method call the jump site is statically known, however, when we want to return, it depends on the caller. So when running a static analysis we don't know where to return the results.
+
+This is best illustrated by an example:
+
+```c
+int id(int i) { 
+  return i; // Where to return to?
+} 
+
+int main() { 
+  int x = id(1);
+  int y = id(0);
+  return x + y;
+}
+```
+
+Of cause this problem gets even worse if we have dynamic dispatching, like when we call a method on an object. In this case we don't even know the call site.
+
+
+**The Trivial Solution: In-lining**
+The naive solution to this problem is to inline the method call. In theory, this means expanding the content of the callee-method, the method that is being called, inside the caller-method, and then continuing normal abstract interpretation.
+
+```Java
+int id(int i) { 
+  return i; // Where to return to?
+} 
+
+int main() { 
+  int x = id(1);
+  int y = id(0);
+  return x + y;
+}
+```
+
+Becomes
+```Java
+int main() { 
+  return 1 + 0;
+}
+```
+
+This works very well in some situation, and is actually the preferred way to do optimizations in compiles as we can specialise the method call to the exact situation is is called in. However, the method has many drawbacks, it can be hard to do the in-lining correctly, we can not reuse the analysis across calls, and worst of all we can not handle recursive calls.
+
+
+**Abstract Call Plumbing**
+An alternative solution is to think about how the computer actually calls a method. When the computer calls a method, it stores a return address on the stack. When we return from a method, we use this return address as the target.
+
+So one solution to the call problem, is to keep track of a set of return address alongside the current state. When we now reach a return call, we have a set of targets. We can use this set to update the state with the return value at each of those targets.
+
+In theoretical terms, your state is now a map from program points to a set of return states ($2^ι$) as well as an abstraction of the powerset of states $\overset{-}{state}$. $$ι↦2^ι\times\overset{-}{state}$$
+Notice that we do not have to abstract the set of return addresses, as it is finite (and normally quite small, e.g ., less that 100).
+
+
+By keeping track of an over-approximation of return locations we can run abstract analysis as we are used to. After running the analysis for the first call we get the following:
+
+```Java
+int id(int i) { 
+  // { main:1} x {+}
+  return i;       
+  // updates the results of main:1 with {+}
+} 
+
+int main() { 
+  int x = id(1); // result {+} 
+  int y = id(0); // yet not computed
+  return x + y;  // yet not computed
+}
+```
+
+And after doing the second call we get the following:
+```Java
+int id(int i) { 
+  // { main:1, main:2} x {0, +}
+  return i;       
+  // updates the results of main:1 and main:2 with {0, +}
+} 
+
+int main() { 
+  int x = id(1); // result {0, +} 
+  int y = id(0); // result {0, +} 
+  return x + y;  // result {+}
+}
+```
+
+However, as we can see this comes at a cost. Keeping only a single instance of a method, means that every use of that method leaks into every other. If we look at the caller side of the problem we get the following:
+
+If we change the + with a /, we can see that our analysis finds a bug, even though it can never happen:
+
+```Java
+int id(int i) { 
+  // { main:1, main:2} x {0, +}
+  return i;       
+  // updates the results of main:1 and main:2 with {0, +}
+} 
+
+int main() { 
+  int x = id(1); // result {0, +} 
+  int y = id(0); // result {0, +} 
+  return x / y;  // result BUG!
+}
+```
+
+The issue is that we we do not save the context of the call, which makes the result too wide.
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#sec:2
+
+_Context Sensitive Analysis_ is about expanding the abstract state to be able to react to the context in which the method was called.
+#### Full Call Stack Context
+One way of doing this, is by making the state of a bytecode instruction be dependent on the call stack. We can write the total state as a map from the bytecode offsets (e.i the stack) an abstract state with return values: $$ι+↦2^ι*×𝐒𝐭𝐚𝐭𝐞‾$$
+This has the advantage of giving us precise static information. In our example, from above the two calls would be differentiated by their call stack (e.i. they are called from two different point caller), and we can remove the faulty warning:
+
+Consider this program. The only way to know that it does not throw an error is to track the full call stack.
+```Java
+int main() {
+  int x = id(0); // main:1 -> {} x {0}
+  int y = id(1); // not yet computed
+  return x / y;  // not yet computed
+}
+
+int id(int x) {
+  // main:1,id:1 -> {main:1} x { 0 }
+  return x  
+}
+```
+
+But now when we analyse a new call site we get the following:
+```Java
+int main() {
+  int x = id(0); // main:1 -> {} x {0}
+  int y = id(1); // main:1 -> {} x {+}
+  return x / y;  // main:1 -> {} x {0}
+}
+
+int id(int x) {
+  // Now we keep two state:
+  // main:1,id:1 -> {main:1} x { 0 }
+  // main:2,id:1 -> {main:2} x { + }
+  return x  
+}
+```
+
+#### (k-CFA) Limited Context Sensitivity
+> 🔗 https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#sec:2.2
+
+The problem with the approach above is two-fold. The first problem is space, as we have to keep a version of state for each reachable call-stack, this can quickly explode in size. The second problem is recursive methods. In recursive methods, the call-stack is often dependent on the input (and might be infinite), and can make the analysis run forever.
+
+As with everything else in static analysis, we have to abstract. Instead of keeping the entire call-stack, we just keep the last k call-sites, this is called _k-CFA_ ([Might 2010](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:might2010resolving)). Essentially, keeping no more than k+1 bytecode offsets.
+
+In object oriented programming languages $k≤2$ are often feasible, and polynomial ([Might 2010](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:might2010resolving)); however, in functional languages it is EXPTIME-complete, meaning that there exist no polynomial-time algorithm that solves the problem.
+
+In Java, it is often fine (and necessary) to choose $k=1$ to get a good analysis.
+
+
 
 ## 🎯 Program Analysis Abstraction & Interpretation - In Practice
 ### Examples For Beginners 🐣
-#### 👉 Sign Abstraction (The Sign Analysis) -- Bounded Analysis
+#### 👉 Sign Abstraction (Integer Abstraction) -- Bounded Analysis
+##### Same-Procedure Sign Analysis
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.1
 > Also, see above "Abstract Operations"
 
@@ -496,10 +676,10 @@ We can see that there exists a **Galois connection** between our concrete intege
 - then we get that $\{0, 1\} \subseteq \mathbb{Z}^{0, +} \subseteq \mathbb{Z}.$ 
 ##### Fix for Dependent Values
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:dependent-variables
-
-#### 👉 Interval Abstraction -- Unbounded Analysis
+##### Inter-Procedure Sign Analysis
+#### 👉 Interval Abstraction (Integer Abstraction) -- Unbounded Analysis
 > ↗ [Lattice (Set Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md) "Fixed Point"
-
+##### Same-Procedure Interval Analysis
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:interval-abstraction
 
 However, not all abstractions form a lattice of finite height. One example of such abstractions are the interval abstraction. 
@@ -541,7 +721,7 @@ In this case our interval analysis will look something like this:
 7 $\{i↦[0,1]⊔[1,2]\}𝚕𝚘𝚘𝚙 𝚋𝚊𝚌𝚔$
 8 ...𝚊𝚗𝚍 𝚜𝚘 𝚘𝚗
 
-This might continue forever, unless we find a better way.
+This might continue forever, unless we find a better way. (widening operator!)
 
 
 **Implement the Interval abstraction.**
