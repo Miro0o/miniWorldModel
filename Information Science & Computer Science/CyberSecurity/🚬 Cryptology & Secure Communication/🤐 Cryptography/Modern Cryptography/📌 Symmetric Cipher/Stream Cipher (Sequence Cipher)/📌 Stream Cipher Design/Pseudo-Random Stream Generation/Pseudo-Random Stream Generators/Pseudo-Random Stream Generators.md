@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Pseudorandom & Random Number Generation (PRNG & RNG)](../../../../../../Pseudorandom%20&%20Random%20Number%20Generation%20(PRNG%20&%20RNG).md)
+↗ [Randomness & (Pseudo) Random Number Generation (P-RNG)](../../../../../../Randomness%20&%20(Pseudo)%20Random%20Number%20Generation%20(P-RNG).md)
 
 
 

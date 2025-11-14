@@ -73,7 +73,7 @@ Stream Ciphers Support Seeking
 
 ### Pseudo-Random Stream Generation
 ↗ [Pseudo-Random Stream Generation](📌%20Stream%20Cipher%20Design/Pseudo-Random%20Stream%20Generation/Pseudo-Random%20Stream%20Generation.md)
-↗ [Pseudorandom & Random Number Generation (PRNG & RNG)](../../../Pseudorandom%20&%20Random%20Number%20Generation%20(PRNG%20&%20RNG).md)
+↗ [Randomness & (Pseudo) Random Number Generation (P-RNG)](../../../Randomness%20&%20(Pseudo)%20Random%20Number%20Generation%20(P-RNG).md)
 
 
 
