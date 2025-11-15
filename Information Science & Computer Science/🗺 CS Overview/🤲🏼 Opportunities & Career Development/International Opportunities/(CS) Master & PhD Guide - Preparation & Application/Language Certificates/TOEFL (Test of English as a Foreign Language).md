@@ -59,7 +59,6 @@ Third, the reading demonstrates that ..... Still, the lecture argues against suc
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2011.57.09.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.13.16.png)
-
 #### Writing Structure
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.11.11.png)
 
@@ -70,7 +69,6 @@ Third, the reading demonstrates that ..... Still, the lecture argues against suc
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.17.54.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.18.16.png)
-
 #### Writing Skills - Points & Elaboration
 ![](../../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.11.47.png)
 

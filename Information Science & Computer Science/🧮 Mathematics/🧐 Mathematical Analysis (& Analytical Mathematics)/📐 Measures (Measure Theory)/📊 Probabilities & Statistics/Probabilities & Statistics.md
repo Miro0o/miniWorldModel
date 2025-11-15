@@ -16,6 +16,70 @@
 🏫 [UCB /CS70 Discrete Math and Probability Theory](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS70%20Discrete%20Math%20and%20Probability%20Theory/CS70%20Discrete%20Math%20and%20Probability%20Theory.md)
 🏫 [UCB /CS126 Probability Theory](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS126%20Probability%20Theory/CS126%20Probability%20Theory.md)
 
+概率论与数理统计（第⼆版）
+陈鸿建 赵永红 翁洋 高等教育出版社
+- 概率论
+	- 第一章 概率论基本知识
+		- 样本空间与随机事件
+		- 事件发生的概率
+		- 等可能模型
+			- 古典概型
+			- 几何概型
+		- 条件概率及派生的三个公式
+			- 条件概率
+			- 乘法公式
+			- 全概率公式与贝叶斯公式
+		- 事件的独立性及伯努利概型
+	- 第二章 随机变量及其分布
+		- 随机变量及其分布函数
+		- 离散型随机变量及其分布
+		- 连续型随机变量及其分布
+		- 随机变量函数的分布
+	- 第三章 多维随机变量及其分布
+		- 二维随机变量及其分布函数
+		- 边缘分布及随机变量的独立性
+		- 条件分布与条件密度
+		- 二维随机变量函数的分布
+		- 多维随机变量
+			- n维离散型随机变量
+			- n维连续型随机变量
+	- 第四章 随机变量的数字特征
+		- 数学期望
+		- 方差
+		- 协方差和相关系数
+	- 第五章 正态分布与自然指数分布族
+		- 正态分布及其密度函数和分布函数
+		- 正态分布的数字特征和线性性质
+		- 二维正态分布
+		- 自然指数分布族
+	- 第六章 极限定理
+		- 大数定律 /大数定理
+			- 切比雪夫不等式
+			- 大数定律
+		- 中心极限定律
+- 数理统计
+	- 第七章 数理统计的基础知识
+		- 总体与样本
+		- $\chi^2$ 分布，$t$ 分布，及$F$分布
+		- 统计量和抽样分布定理
+			- 统计量
+			- 抽样分布定理
+	- 第八章 参数估计
+		- 点估计
+		- 估计量的评选标准
+		- 区间估计
+	- 第九章 假设检验
+		- 假设检验的基本概念
+		- 正态总体下参数的假设检验
+		- 自然指数分布族均值参数的检验
+		- 总体分布的$\chi^2$拟合优度检验
+	- 第十章 线形回归分析和方差分析
+		- 线形回归分析
+		- 单因素试验的方差分析
+		- 双因素无重复试验的方差分析
+		- 双因素有重复试验的方差分析
+	- 第十一章 SPSS 13.0 For Windows 简介
+
 📖 何书元《概率论与数理统计》
 - 第一章 古典概型和概率空间
 	- 1.1 试验与事件. . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
@@ -125,6 +189,12 @@
 🎬【比刷剧还爽!】一生推！！【麻省理工公开课】听说你概率论挂了？ MIT 概率论 (中英双语字幕)完整版全25讲，概率论应该这样学 https://www.bilibili.com/video/BV1MV4y1W73J?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 📖 概率论与数理统计, 陈希孺
+https://github.com/sanbuphy/-statistics-
+陈希孺 概率论与数理统计基础 [参考课程视频地址](https://www.bilibili.com/video/BV12k4y1m78w)  
+【如果觉得这个还是比较难 请一定要看看台湾老师的课程，不可能听不懂】  
+[台湾大学 - 頑想學概率：機率一 (Probability (1))](https://www.bilibili.com/video/BV1nK4y1U7QM)  
+[台湾大学 - 頑想學概率：機率二 (Probability (2))](https://www.bilibili.com/video/BV1CX4y1V7oN?p=23)  
+[台湾交通大学 - 統計學 Statistics](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=270) [台湾交通大学 - 高等統計學 Advanced Statistics](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=4&nid=536)
 
 📖 统计学习方法, 李航
 
@@ -156,9 +226,13 @@ https://github.com/wzchen/probability_cheatsheet
 
 ## Intro
 ### Probability 🆚 Statistics?
+#probability #statistics
+
 > 🤖 Gemini 2.5
 
-Probability and statistics are two different, though related, fields that work in opposite directions: ==probability uses existing models and rules to predict future events, while statistics uses observed data to infer the underlying rules or models==. In essence, probability moves from model to data, and statistics moves from data to model.
+Probability and statistics are two different, though related, fields that work in opposite directions: ==probability uses existing models and rules to predict future events, while statistics uses observed data to infer the underlying rules or models==. In essence, probability moves from model to data (future event of possibility), and statistics moves from data to model. 
+$$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Probability}{\to} \ Data ()$$
+Note that probability models are included in statistical models. Probability is one specific feature characterized by statistical model (?)
 
 > 🔗 https://zh.wikipedia.org/zh-hans/Portal:%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1
 
@@ -167,6 +241,22 @@ Probability and statistics are two different, though related, fields that work i
 作为统计学的数学基础，概率论对诸多涉及大量数据定量分析的人类活动极为重要，概率论的方法同样适用于其他方面，例如是对只知道系统部分状态的复杂系统的描述——统计力学，而二十世纪物理学的重大发现是以量子力学所描述的原子尺度上物理现象的概率本质。
 
 统计学是对数据的收集、分析、解释、展示、整理进行研究的学科，广泛地应用在各门学科，从自然科学、社会科学到人文学科，甚至被用来工商业及政府的情报决策之上。其中用来描述、摘要数据情况的统计方法称为描述统计学；而对观测中随机性和不确定性，可以通过对观测数据进行数学建模所得的规律进行解释，然后利用这些规律对所研究的过程或总体进行推断，这样的统计方法称为推论统计学。
+
+> 🔗 https://www.zhihu.com/question/438873440/answer/1675856602
+
+概率论是已知总体服从什么分布，从而推断出这个分布有什么样的性质，比如已知分布，求期望方差；
+
+数理统计好比总体是未知的，通过从总体中抽取的样本，**目的**是来推断总体具有什么样的特点。比如，数理统计中样本的统计量（[样本方差](https://zhida.zhihu.com/search?content_id=334778127&content_type=Answer&match_order=1&q=%E6%A0%B7%E6%9C%AC%E6%96%B9%E5%B7%AE&zhida_source=entity)，[样本均值](https://zhida.zhihu.com/search?content_id=334778127&content_type=Answer&match_order=1&q=%E6%A0%B7%E6%9C%AC%E5%9D%87%E5%80%BC&zhida_source=entity)）已知，但是总体的分布是未知的。这个[总体分布](https://zhida.zhihu.com/search?content_id=334778127&content_type=Answer&match_order=1&q=%E6%80%BB%E4%BD%93%E5%88%86%E5%B8%83&zhida_source=entity)未知有时候是总体分布类型未知，有时候是总体分布类型已知但分布的参数未知。（如假定总体服从正态分布，但均值方差未知）
+
+一般概率论数理统计这本教材中数理统计内容主要围绕推断分布参数展开。
+
+数理统计分两块，[参数估计](https://zhida.zhihu.com/search?content_id=334778127&content_type=Answer&match_order=1&q=%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1&zhida_source=entity)和[假设检验](https://zhida.zhihu.com/search?content_id=334778127&content_type=Answer&match_order=1&q=%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C&zhida_source=entity)，而这两类都是关于总体分布的推断。
+- 参数估计：
+	- 点估计：为未知参数挑选出一个可能值
+	- 区间估计：为未知参数挑选出一个可能取值区间
+- 假设检验：检验未知参数是否为这个值或者在这个区间内。
+
+一言以蔽之，数理统计好比是概率论的“逆运算”。
 
 > 🔗 https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/node12.html#
 
@@ -177,16 +267,125 @@ Probability and statistics are related areas of mathematics which concern themse
 Both subjects are important, relevant, and useful. But they are different, and understanding the distinction is crucial in properly interpreting the relevance of mathematical evidence. Many a gambler has gone to a cold and lonely grave for failing to make the proper distinction between probability and statistics.
 
 This distinction will perhaps become clearer if we trace the thought process of a mathematician encountering her first craps game:
-- If this mathematician were a probabilist, she would see the dice and think ``Six-sided dice? Presumably each face of the dice is equally likely to land face up. Now _assuming_ that each face comes up with probability 1/6, I can figure out what my chances of crapping out are.''
-- If instead a statistician wandered by, she would see the dice and think ``Those dice may look OK, but how do I _know_ that they are not loaded? I'll watch a while, and keep track of how often each number comes up. Then I can decide if my observations are consistent with the assumption of equal-probability faces. Once I'm confident enough that the dice are fair, I'll call a probabilist to tell me how to play.''
+- If this mathematician were a probabilist, she would see the dice and think `Six-sided dice? Presumably each face of the dice is equally likely to land face up. Now _assuming_ that each face comes up with probability 1/6, I can figure out what my chances of crapping out are.`
+- If instead a statistician wandered by, she would see the dice and think `Those dice may look OK, but how do I _know_ that they are not loaded? I'll watch a while, and keep track of how often each number comes up. Then I can decide if my observations are consistent with the assumption of equal-probability faces. Once I'm confident enough that the dice are fair, I'll call a probabilist to tell me how to play.`
 
 In summary, probability theory enables us to find the consequences of a given ideal world, while statistical theory enables us to to measure the extent to which our world is ideal.
 
 Modern probability theory emerged from the dice tables of France in 1654. Chevalier de Méré, a French nobleman, wondered whether the player or the house had the advantage in a variation of the following betting game.[6.1](https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/footnode.html#foot389) In the basic version, the player rolls four dice, and wins provided none of them are a six. The house collects on the even money bet if at least one six appears.  
 
-De Méré brought this problem to attention of the French mathematicians Blaise Pascal and Pierre de Fermat, most famous as the source of Fermat's Last Theorem. Together, these men worked out the basics of probability theory, along the way establishing that the house wins the basic version with probability ![$p = 1 - (5/6)^4 \approx 0.517$](https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/img12.gif), where the probability _p_ = 0.5 would denote a fair game where the house wins exactly half the time.    The jai-alai world of our Monte Carlo simulation assumes that we decide the outcome of a point between two teams by flipping a suitably biased coin. If this world were reality, our simulation will compute the correct probability of each possible betting outcome. But all players are not created equal, of course. By doing a statistical study of the outcome of all the matches involving a particular player, we can determine an appropriate amount to bias the coin.
+De Méré brought this problem to attention of the French mathematicians Blaise Pascal and Pierre de Fermat, most famous as the source of Fermat's Last Theorem. Together, these men worked out the basics of probability theory, along the way establishing that the house wins the basic version with probability $p = 1 - (5/6)^4 \approx 0.517$, where the probability $p = 0.5$ would denote a fair game where the house wins exactly half the time. The jai-alai world of our Monte Carlo simulation assumes that we decide the outcome of a point between two teams by flipping a suitably biased coin. If this world were reality, our simulation will compute the correct probability of each possible betting outcome. But all players are not created equal, of course. By doing a statistical study of the outcome of all the matches involving a particular player, we can determine an appropriate amount to bias the coin.
 
-But such computations only make sense if our simulated jai-alai world is a model consistent with the real world. John von Neuman once said that ``the valuation of a poker hand can be sheer mathematics.'' We have to reduce our evaluation of a pelotari to sheer mathematics.
+But such computations only make sense if our simulated jai-alai world is a model consistent with the real world. John von Neuman once said that  "the valuation of a poker hand can be sheer mathematics." We have to reduce our evaluation of a pelotari to sheer mathematics.
+
+
+
+## 🎯 Probability Theory
+### Probability Theory Basics
+#### Sampling Space & Random Event
+![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
+#### Probability of Random Event
+
+**1. Frequency of Event**
+
+**2. Axiomatization of Probability**
+
+#### Equally Likely Model (等可能模型)
+##### Classical Probability Model / Classical Probability (古典概型)
+##### Geometric Probability Model (几何概型)
+
+#### Conditional Probability
+Conditional Probability & Multiplication Formula (条件概率和乘法公式)
+
+Bayes Rule（贝叶斯公式）
+
+Total Probability Theorem（全概率公式）
+Prior Probability（先验概率）
+Posterior Probability（后验概率）
+#### Independence of Event & Bernoulli Trial (Independent and Repeated Trials)
+
+
+### Random Variables & Probabilistic Distribution ⭐
+↗ [Random (Stochastic) Variable & Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution.md)
+
+↗ [Continuous Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Continuous%20Probability%20Distribution/Continuous%20Probability%20Distribution.md)
+↗ [Discrete Probability Distribution](Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Discrete%20Probability%20Distribution/Discrete%20Probability%20Distribution.md)
+
+
+### Law of Large Numbers ⭐
+> 🔗 https://en.wikipedia.org/wiki/Law_of_large_numbers
+
+In probability theory, the law of large numbers is a mathematical law that states that the average of the results obtained from a large number of independent random samples converges to the true value, if it exists.[1] More formally, the law of large numbers states that given a sample of independent and identically distributed values, the sample mean converges to the true mean.
+
+The law of large numbers is important because it guarantees stable long-term results for the averages of some random events.[1][2] For example, while a casino may lose money in a single spin of the roulette wheel, its earnings will tend towards a predictable percentage over a large number of spins. Any winning streak by a player will eventually be overcome by the parameters of the game. Importantly, the law applies (as the name indicates) only when a large number of observations are considered. There is no principle that a small number of observations will coincide with the expected value or that a streak of one value will immediately be "balanced" by the others (see the gambler's fallacy).
+
+The law of large numbers only applies to the average of the results obtained from repeated trials and claims that this average converges to the expected value; it does not claim that the sum of n results gets close to the expected value times n as n increases.
+
+Throughout its history, many mathematicians have refined this law. Today, the law of large numbers is used in many fields including statistics, probability theory, economics, and insurance.[3]
+#### Forms
+##### Weak Law
+
+##### Strong Law
+
+##### Differences Between The Weak Law And The Strong Law
+
+##### Uniform Laws of Large Numbers
+
+##### Borel's Law of Large Numbers
+
+#### Proofs
+##### Proof of The Weak Law
+###### Proof Using Chebyshev's Inequality Assuming Finite Variance
+
+###### Proof Using Convergence of Characteristic Functions
+
+##### Proof of The Strong Law
+
+
+### Central Limit Theorem (CLT) ⭐
+> 🔗 https://en.wikipedia.org/wiki/Central_limit_theorem
+
+In [probability theory](https://en.wikipedia.org/wiki/Probability_theory "Probability theory"), the **central limit theorem** (**CLT**) states that, under appropriate conditions, the [distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") of a normalized version of the sample mean converges to a [standard normal distribution](https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution "Normal distribution"). This holds even if the original variables themselves are not [normally distributed](https://en.wikipedia.org/wiki/Normal_distribution "Normal distribution"). There are several versions of the CLT, each applying in the context of different conditions.
+
+The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
+
+This theorem has seen many changes during the formal development of probability theory. Previous versions of the theorem date back to 1811, but in its modern form it was only precisely stated in the 1920s.
+
+In [statistics](https://en.wikipedia.org/wiki/Statistics "Statistics"), the CLT can be stated as: let $X_{1},X_{2},\dots ,X_{n}$ denote a [statistical sample](https://en.wikipedia.org/wiki/Sampling_\(statistics\) "Sampling (statistics)") of size $n$ from a population with [expected value](https://en.wikipedia.org/wiki/Expected_value "Expected value") (average) $\mu$ and finite positive [variance](https://en.wikipedia.org/wiki/Variance "Variance") $\sigma^2$, and let ${\bar {X}}_{n}$ denote the sample mean (which is itself a [random variable](https://en.wikipedia.org/wiki/Random_variable "Random variable")). Then the [limit as n→∞ of the distribution](https://en.wikipedia.org/wiki/Convergence_of_random_variables#Convergence_in_distribution "Convergence of random variables") of $({\bar {X}}_{n}-\mu ){\sqrt {n}}$ is a normal distribution with mean 0 and variance $\sigma ^{2}$.
+
+In other words, suppose that a large sample of [observations](https://en.wikipedia.org/wiki/Random_variate "Random variate") is obtained, each observation being randomly produced in a way that does not depend on the values of the other observations, and the average ([arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean "Arithmetic mean")) of the observed values is computed. If this procedure is performed many times, resulting in a collection of observed averages, the central limit theorem says that if the sample size is large enough, the [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") of these averages will closely approximate a normal distribution.
+
+The central limit theorem has several variants. In its common form, the random variables must be [independent and identically distributed](https://en.wikipedia.org/wiki/Independent_and_identically_distributed "Independent and identically distributed") (i.i.d.). This requirement can be weakened; convergence of the mean to the normal distribution also occurs for non-identical distributions or for non-independent observations if they comply with certain conditions.
+
+The earliest version of this theorem, that the normal distribution may be used as an approximation to the [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution "Binomial distribution"), is the [de Moivre–Laplace theorem](https://en.wikipedia.org/wiki/De_Moivre%E2%80%93Laplace_theorem "De Moivre–Laplace theorem").
+#### Beyond the Classical Framework
+> 🔗 https://en.wikipedia.org/wiki/Central_limit_theorem#Beyond_the_classical_framework
+
+
+
+## 🎯 Statistics & Statistical Analysis
+### Statistics Basics
+
+#### Population & Sample (总体与样本)
+
+#### Statistic & Sampling Distribution Theorem (统计量与抽样分布定理)
+
+
+### Bayesian Statistics
+↗ [Bayesian Statistics](Statistics%20&%20Statistical%20Analysis/🍓%20Bayesian%20Statistics/Bayesian%20Statistics.md)
+
+
+### Descriptive Statistics
+↗ [Descriptive Statistics (Analysis)](Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20(Analysis)/Descriptive%20Statistics%20(Analysis).md)
+↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+
+
+### Inferential Statistics
+↗ [Inferential Statistics (Analysis) & Statistical Inference](Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
+↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
+- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
+- ↗ [Regression (Correlation) Analysis](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
 
 
 
@@ -216,3 +415,6 @@ Mathematicians generally formalize probability using the notion of a [probabili
 The underlying probability space is the set of possible ways to flip a coin infinitely many times. An example of an impossible event here is that you flip, say, cat. The coin has only a heads side and a tails side; it doesn't have a cat side, so flipping cat is impossible.
 
 (Whether this formalism says anything reasonable about the real world is debatable. In practice, events of sufficiently small probability are already impossible. The above is just a statement about a certain mathematical formalism that has proven to be useful in certain contexts. In mathematics, we want to prove statements about some class of objects. Sometimes we can prove that the statement holds with probability 1, but this does not imply that it holds for all objects, and since we actually care about _all_ objects this distinction really does need to be made in mathematics.)
+
+
+[From ANOVA to regression: 10 key statistical analysis methods explained | medium]: https://dovetail.com/research/key-statistical-analysis-methods-explained/

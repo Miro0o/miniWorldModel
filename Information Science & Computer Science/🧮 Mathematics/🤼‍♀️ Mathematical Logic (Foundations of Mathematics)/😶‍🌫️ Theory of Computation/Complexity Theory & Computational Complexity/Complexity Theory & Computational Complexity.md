@@ -1,4 +1,4 @@
-# Computational Complexity Theory
+# Complexity Theory & Computational Complexity
 
 [TOC]
 
@@ -7,6 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Decision Theory & Decision Analysis](../../../../../Other%20Networks%20of%20Knowledge/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Decision%20Theory%20&%20Decision%20Analysis.md)
+↗ [Chaos Theory](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+
+↗ [Measures (Measure Theory)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
+- ↗ [Probabilities & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+
+↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 
 ### Learning Resources
@@ -23,22 +29,37 @@ Proceedings of the ICM 06 (Madrid), vol. 1, EMS Publishing House, Zurich, pp. 66
 
 
 ## Intro
+### Complexity Theory: Complexity is Complex
+> 🔗 https://zhuanlan.zhihu.com/p/586889341
+
+复杂是一个复杂议题，定义有几十种，但科学家至今还没找到一个公认定义。每个定义基于不同视角，各有道理。
+
+例如，根据数量大小来定义复杂性。比较碱基对数量，人类基因组大约有30亿组碱基对，酵母菌大约有2000万组碱基对，那么人类比酵母菌复杂250倍。
+
+例如，根据[信息熵](https://zhida.zhihu.com/search?content_id=218554500&content_type=Article&match_order=1&q=%E4%BF%A1%E6%81%AF%E7%86%B5&zhida_source=entity)来定义复杂性。一个信息，如果克服越大不确定性，信息熵越大，信息量就越大，就越复杂，信息价值也就越大。反之，则相反。
+
+例如，根据逻辑层次来定义复杂性。层次越多，就越复杂；层次越少，就越简单。例如，多细胞生命比单细胞生命逻辑层次更多，就更复杂。
+
+前置思考也提到一种定义方式。如果系统机制可以用有限简单规则刻画，即便表面复杂，也算简单；如果做不到，就像[复杂适应系统](https://zhida.zhihu.com/search?content_id=218554500&content_type=Article&match_order=1&q=%E5%A4%8D%E6%9D%82%E9%80%82%E5%BA%94%E7%B3%BB%E7%BB%9F&zhida_source=entity)那样，内里和表面一样复杂，就是真复杂。
+
+诸如此类，每一种定义都能反映复杂性某个侧面，都有优点和缺点。柯尔莫哥洛夫复杂度也是一种定义和测量方式，可资参考。
+
+
+### Computational Complexity Theory
 > 🔗 https://en.wikipedia.org/wiki/Computational_complexity_theory
 
-In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") and mathematics, **computational complexity theory** focuses on classifying [computational problems](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") according to their resource usage, and explores the relationships between these classifications. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm").
+In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") and mathematics, **computational complexity theory** focuses on classifying [computational problems](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") according to their **resource usage**, and explores the relationships between these classifications. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm").
 
 A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory formalizes this intuition, by introducing mathematical [models of computation](https://en.wikipedia.org/wiki/Models_of_computation "Models of computation") to study these problems and quantifying their [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity "Computational complexity"), i.e., the amount of resources needed to solve them, such as time and storage. Other measures of complexity are also used, such as the amount of communication (used in [communication complexity](https://en.wikipedia.org/wiki/Communication_complexity "Communication complexity")), the number of [gates](https://en.wikipedia.org/wiki/Logic_gate "Logic gate") in a circuit (used in [circuit complexity](https://en.wikipedia.org/wiki/Circuit_complexity "Circuit complexity")) and the number of processors (used in [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing "Parallel computing")). One of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do. The [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem "P versus NP problem"), one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems "Millennium Prize Problems"), is part of the field of computational complexity.
 
 Closely related fields in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") are [analysis of algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms "Analysis of algorithms") and [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"). A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, computational complexity theory tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kinds of problems can, in principle, be solved algorithmically.
-
-
-### Computational Problems
+#### Computational Problems
 
 
 ### Machine Models and Complexity Measures
 
 
-### Complexity Classes
+### (Computational) Complexity Classes
 > Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 > ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
@@ -139,7 +160,7 @@ A similar problem exists in the theory of [algebraic complexity](https://en.wik
 
 
 ## Intractability
-↗ [Intractability](Intractability.md)
+↗ [Intractability](Algorithm%20Complexity/Intractability.md)
 
 
 

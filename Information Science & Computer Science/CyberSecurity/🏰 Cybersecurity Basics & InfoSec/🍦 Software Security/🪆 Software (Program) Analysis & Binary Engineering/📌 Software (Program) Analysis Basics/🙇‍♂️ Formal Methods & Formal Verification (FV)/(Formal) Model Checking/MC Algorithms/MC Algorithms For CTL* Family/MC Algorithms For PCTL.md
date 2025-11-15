@@ -74,7 +74,7 @@ $$\begin{aligned}& Pr_s(\Diamond B) = 1 & if(s\models B)\\
 
 
 ## Expectation and Rewards
-↗ [Markov Reward Model (MRM)](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Reward%20Model%20(MRM).md)
+↗ [Markov Reward Model (MRM)](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Reward%20Model%20(MRM).md)
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-11-07%20at%2010.43.53.png)
 

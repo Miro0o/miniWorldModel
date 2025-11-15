@@ -1,4 +1,4 @@
-# Probability Models & Stochastic Process
+# Probabilistic Models & Stochastic Process
 
 [TOC]
 
@@ -36,6 +36,16 @@ https://doi.org/10.1016/j.scico.2015.08.009.
 
 
 ## Intro
+### Stochastic Process
+> 🔗 https://en.wikipedia.org/wiki/Stochastic_process
+
+In probability theory and related fields, a stochastic (/stəˈkæstɪk/) or random process is a mathematical object usually defined as a family of random variables in a probability space, where the index of the family often has the interpretation of time. Stochastic processes are widely used as mathematical models of systems and phenomena that appear to vary in a random manner. Examples include the growth of a bacterial population, an electrical current fluctuating due to thermal noise, or the movement of a gas molecule.[1][4][5] Stochastic processes have applications in many disciplines such as biology,[6] chemistry,[7] ecology,[8] neuroscience,[9] physics,[10] image processing, signal processing,[11] control theory,[12] information theory,[13] computer science,[14] and telecommunications.[15] Furthermore, seemingly random changes in financial markets have motivated the extensive use of stochastic processes in finance.[16][17][18]
+
+Applications and the study of phenomena have in turn inspired the proposal of new stochastic processes. Examples of such stochastic processes include the Wiener process or Brownian motion process,[a] used by Louis Bachelier to study price changes on the Paris Bourse,[21] and the Poisson process, used by A. K. Erlang to study the number of phone calls occurring in a certain period of time.[22] These two stochastic processes are considered the most important and central in the theory of stochastic processes,[1][4][23] and were invented repeatedly and independently, both before and after Bachelier and Erlang, in different settings and countries.[21][24]
+
+The term random function is also used to refer to a stochastic or random process,[25][26] because a stochastic process can also be interpreted as a random element in a function space.[27][28] The terms stochastic process and random process are used interchangeably, often with no specific mathematical space for the set that indexes the random variables.[27][29] But often these two terms are used when the random variables are indexed by the integers or an interval of the real line.[5][29] If the random variables are indexed by the Cartesian plane or some higher-dimensional Euclidean space, then the collection of random variables is usually called a random field instead.[5][30] The values of a stochastic process are not always numbers and can be vectors or other mathematical objects.[5][28]
+
+Based on their mathematical properties, stochastic processes can be grouped into various categories, which include random walks,[31] martingales,[32] Markov processes,[33] Lévy processes,[34] Gaussian processes,[35] random fields,[36] renewal processes, and branching processes.[37] The study of stochastic processes uses mathematical knowledge and techniques from probability, calculus, linear algebra, set theory, and topology[38][39][40] as well as branches of mathematical analysis such as real analysis, measure theory, Fourier analysis, and functional analysis.[41][42][43] The theory of stochastic processes is considered to be an important contribution to mathematics[44] and it continues to be an active topic of research for both theoretical reasons and applications.
 
 
 

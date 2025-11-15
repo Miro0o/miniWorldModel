@@ -1,4 +1,4 @@
-# Statistics Inference
+# Predictive Inference
 
 [TOC]
 

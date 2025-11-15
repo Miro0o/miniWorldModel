@@ -7,14 +7,14 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
-↗ [Computational Complexity Theory](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
-↗ [Computationally Hard Problems](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computationally%20Hard%20Problems.md)
+↗ [Complexity Theory & Computational Complexity](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+↗ [Computationally Hard Problems](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 ↗ [ICT System Reliability (Correctness) & Verification](../../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 ↗ [Software Quality Assurance (SQA)](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 
-↗ [Probability Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Chains (MC) & Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process.md)
+↗ [Probabilistic Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
+- ↗ [Markov Chains (MC) & Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process.md)
 
 ↗ [Mathematical Logic Basics (Formal Logic)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Classical Logic (Standard Logic)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
@@ -336,10 +336,10 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 
 
 ### Probabilistic Systems
-↗ [Probability Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Probability%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md) & ↗ [Continuous-Time Markov Chains (CTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
+↗ [Probabilistic Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md) & ↗ [Continuous-Time Markov Chains (CTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
 - Markov decision processes (MDPs) and probabilistic automata (PAs)
-	- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+	- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 - probabilistic timed automata (PTAs)
 - partially observable MDPs and PTAs (POMDPs and POPTAs)
 - interval Markov chains and MDPs (IDTMCs and IMDPs)
@@ -427,15 +427,40 @@ Regular Properties
 
 ### Statistical Model Checking
 ↗ [Probabilities & Statistics](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
-↗ [Markov Chains (MC) & Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probability%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process.md)
+↗ [Markov Chains (MC) & Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process.md)
 #### Random Variables for Trace Generation
+↗ [Random (Stochastic) Variable & Probability Distribution](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution.md)
 
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.59.53.png)
+- ==A probabilistic model can be seen as (very complex) random variable $𝑋$.==
+- Sampling $𝑋$ — generating traces — traverses the probability transition matrix of the model, one observation at a time.
+- Observing enough samples gives a fair idea of the general model behavior.
 #### Statistics for Modeling Checking
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.38.55.png)
 
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.39.10.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.38.33.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.39.41.png)
 #### Confidence Intervals
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.42.09.png)
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2000.42.22.png)
+#### Applications
+Transient probability estimation
+Unbounded probability estimation
+Steady state
+Nondeterminism
+Rare events
 
 
 ### Model Checking Algorithms
+↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
+- ↗ [MC Algorithms For CTL*](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
+- ↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md)
+- ↗ [MC Algorithm For LTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithm%20For%20LTL.md)
+- ↗ [MC Algorithms For PCTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
 
 
 
