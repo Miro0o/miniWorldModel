@@ -9,7 +9,7 @@
 ↗ [Mathematical Logic Basics (Formal Logic)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 ↗ [Higher-Order Logic (HOL)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
 
-↗ [Lambda Calculus (λ-Calculus)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 
 ### Other Resources
@@ -70,4 +70,3 @@ It has been tied to formal mathematics since _[Principia Mathematica](https://e
 [∞-type Café 暑期学校]: https://m4p1e.github.io/ntype-cafe-summer-school/
 
 >∞-type Café 暑期学校 2023将会在2023年7月1日正式举行（可能延后到中旬）。这次活动偶然源于一个提议，是否可以举办一个关于类型论暑期活动？ 由于当下国内研究类型论的学者非常少，相关资料也寥寥无几。于是我们决定尝试一下
-

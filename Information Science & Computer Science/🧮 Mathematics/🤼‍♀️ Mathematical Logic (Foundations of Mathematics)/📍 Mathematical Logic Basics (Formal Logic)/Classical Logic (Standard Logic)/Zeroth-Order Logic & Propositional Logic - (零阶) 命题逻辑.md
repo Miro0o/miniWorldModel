@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Lambda Calculus (λ-Calculus)](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Combinatory Logic](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Combinatory%20Logic.md)
 
 
 ### Other Resources
@@ -140,8 +142,8 @@ Arbitrary propositional formulas can be translated into syntactically restricted
 
 
 ### 📌 Sets (and Relations) in the Propositional Logic
-> ↗ [Set Theory](../../🛒%20Set%20Theory/Set%20Theory.md)
-> ↗ [Relation & Order Theory](../../🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+> ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+> ↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 #### Logic Representation of Sets (and Relations)
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 > Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University
@@ -254,3 +256,5 @@ So to tie it all together:
 - First-order predicates are syntactically functions of unspecified domain and a boolean codomain (that is, they _produce_ rather than consume booleans), and semantically they are statements with "a bit missing," specifically some bound variable which may be filled in from our domain.
 - Second-order predicates are syntactically higher-order functions of unspecified domain with a "first-order predicates" codomain, and semantically they are statements with "a whole formula missing," which may again be filled in from our domain.
 - This process may be carried on for as many layers as you like. Each layer allows for quantifying over the previous layer, which is syntactically like a function that produces the previous layer's predicates, and semantically like introducing another layer of indirection.
+
+[你好，类型（四）：Propositional logic]: https://thzt.github.io/2017/09/10/type-4/

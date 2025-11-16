@@ -27,6 +27,8 @@
 ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+- ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 
 ### Other Resources
@@ -154,9 +156,9 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 > 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
 #### Gödel's Incompleteness Theorems ⭐
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
-> ↗ [Set Theory](../🛒%20Set%20Theory/Set%20Theory.md)
-> - ↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-> - ↗ [Natural Number](../🛒%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
+> ↗ [Set Theory & Axiomatic Set Theory](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+> - ↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+> - ↗ [Natural Number](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
 > 
 > ↗ [Church–Turing Thesis (Computability Thesis)](../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
@@ -199,6 +201,8 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 
 
 ### Formal Systems
+> 公理 + 推导规则 -> 形式系统
+
 > 🔗 https://en.wikipedia.org/wiki/Formal_system
 
 A **formal system** (or **deductive system**) is an [abstract structure](https://en.wikipedia.org/wiki/Abstract_structure "Abstract structure") and [formalization](https://en.wikipedia.org/wiki/Formalism_\(philosophy_of_mathematics\) "Formalism (philosophy of mathematics)") of an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system") used for [deducing](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), using [rules of inference](https://en.wikipedia.org/wiki/Rule_of_inference "Rule of inference"), [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") from [axioms](https://en.wikipedia.org/wiki/Axioms "Axioms").
@@ -207,7 +211,7 @@ In 1921, [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hil
 
 The term _formalism_ is sometimes a rough synonym for _formal system_, but it also refers to a given style of [notation](https://en.wikipedia.org/wiki/Notation "Notation"), for example, [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac "Paul Dirac")'s [bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation "Bra–ket notation").
 #### Simplified Typed Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 **Syntax** 
 - 🔗 https://thzt.github.io/2017/09/19/type-6/

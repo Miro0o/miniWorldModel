@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Relation & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
-↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md)
+↗ [Relation & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md)
 
 
 ### Other Resources
@@ -43,7 +43,7 @@ Bisimilarity (largest bisimulation relation) is:
 - symmetric
 - transitive
 
-Hence, bisimilarity is an ↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md).
+Hence, bisimilarity is an ↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md).
 
 
 **Properties of bisimulations for single transition systems**
@@ -52,7 +52,7 @@ Let $R$ be a bisimulation for $T$. Then:
 - R is symmetric
 - R is transitive
 
-In other words, R is an ↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md). Hence, we can work with the **equivalence classes of R**, as a more compact way of representing R, i.e. as a partition of S with blocks being equivalence classes.
+In other words, R is an ↗ [Equivalence Relation](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md). Hence, we can work with the **equivalence classes of R**, as a more compact way of representing R, i.e. as a partition of S with blocks being equivalence classes.
 
 
 
@@ -61,7 +61,7 @@ In other words, R is an ↗ [Equivalence Relation](../../../../../../../../🧮%
 
 
 ### Partition Refinement Algorithm
-> ↗ [Lattice (Set Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+> ↗ [Lattice (Set Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
 Rough sketch of the main idea:
 **Step 1:**

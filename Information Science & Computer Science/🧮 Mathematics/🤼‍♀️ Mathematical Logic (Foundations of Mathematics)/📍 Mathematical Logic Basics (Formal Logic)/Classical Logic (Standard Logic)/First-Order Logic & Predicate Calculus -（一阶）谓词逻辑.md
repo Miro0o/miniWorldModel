@@ -97,3 +97,4 @@ The foundations of first-order logic were developed independently by [Gottlob F
 
 
 ## Ref
+[你好，类型（五）：Predicate logic]: https://thzt.github.io/2017/09/16/type-5/

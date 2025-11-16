@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory](../🛒%20Set%20Theory/Set%20Theory.md)
+↗ [Set Theory & Axiomatic Set Theory](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 ↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 

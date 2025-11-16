@@ -20,12 +20,13 @@
 
 ## Random Variable
 ### Definition of Random (Stochastic) Variable
+> ↗ [σ-Algebra (Sigma Algebra)](../../σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+
 ![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.47.41.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Random_variable
-
 #### Difference of Random Variable and Traditional Variable
 > 📖 概率论与数理统计（第⼆版）陈鸿建 赵永红 翁洋 高等教育出版社
 
@@ -78,4 +79,3 @@ Probability distributions can be defined in different ways and for discrete or f
 
 ## Ref
 [Sample mean and covariance | wikipedia]: https://en.wikipedia.org/wiki/Sample_mean_and_covariance
-
