@@ -30,6 +30,12 @@ To learn more about fuzzing in general, we recommend reading [libFuzzer tutoria
 - [Chromium Fuzzing Page](https://chromium.googlesource.com/chromium/src/testing/libfuzzer/)
 - [Chromium Efficient Fuzzing Guide](https://chromium.googlesource.com/chromium/src/testing/libfuzzer/+/HEAD/efficient_fuzzing.md)
 - [ClusterFuzz documentation](https://google.github.io/clusterfuzz/)
+
+https://www.fuzzingbook.org/
+The Fuzzing Book
+Tools and Techniques for Generating Software Tests
+**by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler**
+- **Welcome to "The Fuzzing Book"!** Software has bugs, and catching bugs can involve lots of effort. This book addresses this problem by _automating_ software testing, specifically by _generating tests automatically_. Recent years have seen the development of novel techniques that lead to dramatic improvements in test generation and software testing. They now are mature enough to be assembled in a book – even with executable code.
 #### Survey Papers
 📄 👍 Manes V J M, Han H S, Han C, et al. Fuzzing: Art, Science, and Engineering[J]. arXiv preprint arXiv:1812.00140, 2018.
 https://arxiv.org/pdf/1812.00140.pdf
@@ -329,6 +335,29 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
 <small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+
+
+### Fuzzer by PUT
+
+
+### Fuzzing by Strategies
+#### Testing Mode
+##### White-Box Testing
+
+##### Black-Box Testing
+
+##### (Directed) Grey-Box Testing
+![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2021.14.54.png)
+<small>Bao, A., Zhao, W., Wang, Y., Cheng, Y., McCamant, S., & Yew, P.-C. (2025). From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification. _34th USENIX Security Symposium (USENIX Security 25)_, 6977–6997. <a>https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew</a></small>
+
+> Bao, A., Zhao, W., Wang, Y., Cheng, Y., McCamant, S., & Yew, P.-C. (2025). From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification. _34th USENIX Security Symposium (USENIX Security 25)_, 6977–6997. [https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew](https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew)
+> 
+> Effective verification of the true positives from false positives is crucial for improving the usability of static analysis tools and bolstering software security. Directed greybox fuzzing (DGF), based on dynamic execution, can confirm real vulnerabilities and provide proof-of-concept exploits, offering a promising solution. However, existing DGF tools are ineffective in verifying static analysis results because they are unaware of the semantic information about individual alarms and the correlations among multiple alarms. In this paper, we fill this gap and present Lyso, the first multi-target, multi-step guided fuzzer that leverages semantic information (i.e., program flows) and correlations (i.e., shared root causes) derived from static analysis. By concurrently handling multiple alarms and prioritizing seeds that cover these root causes, Lyso efficiently explores multiple alarms. For each alarm, Lyso breaks down the goal of reaching an alarm into a sequence of manageable steps. By progressively following these steps, Lyso refines its search to reach the final step, significantly improving its ability to trigger challenging alarms. We compared Lyso to eight state-of-the-art (directed) fuzzers. Our evaluation demonstrates that Lyso outperforms existing approaches, achieving an average 12.17x speedup while finding the highest absolute number of bugs. Additionally, we applied Lyso to verify static analysis results for real-world programs, and it successfully discovered eighteen new vulnerabilities.
+#### Test Case Generation
+##### Directly Generation
+##### Seed + Mutation
+##### Fuzzing with Historical Bugs
+##### Complex Input Constraints
 
 
 

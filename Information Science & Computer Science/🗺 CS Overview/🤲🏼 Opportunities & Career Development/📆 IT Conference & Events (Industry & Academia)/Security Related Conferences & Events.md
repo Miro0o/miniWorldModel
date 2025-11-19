@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [CTF & AWD](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
-↗ [Security Related Conferences & Journals](../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/System/Security%20Related%20Conferences%20&%20Journals.md)
 
 
 

@@ -13,7 +13,7 @@
 
 
 ## Intro
-> For data mining, see ↗ [Artificial Intelligence Related Conferences & Journals](Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+> For data mining, see ↗ [Artificial Intelligence Related Conferences & Journals](Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
 
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 > 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
