@@ -12,7 +12,7 @@
 - ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
 
 ↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [LLM Application Dev & Agentic AI Workflow](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow.md)
+- ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 
 
 ### LLM Deployment

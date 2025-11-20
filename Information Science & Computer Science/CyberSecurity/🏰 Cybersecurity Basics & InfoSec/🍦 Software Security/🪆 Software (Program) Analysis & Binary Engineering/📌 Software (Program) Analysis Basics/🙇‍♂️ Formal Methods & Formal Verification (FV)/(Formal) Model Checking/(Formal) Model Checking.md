@@ -277,7 +277,7 @@ Labels can represent different things depending on the language of interest. Typ
 
 
 **Coalgebra Formulation**
-The formal definition can be rephrased as follows. Labelled state transition systems on $S$ with labels from $\Lambda$ correspond [one-to-one](https://en.wikipedia.org/wiki/Bijection "Bijection") with functions $S\to P(\Lambda\times S)$, where $P$ is the (covariant) [powerset functor](https://en.wikipedia.org/wiki/Power_set "Power set"). Under this bijection $(S,\Lambda,T)$ is sent to $\xi _{T}:S\to {\mathcal {P}}(\Lambda \times S$, defined by $$p\mapsto \{\,(\alpha ,q)\in \Lambda \times S\mid p\xrightarrow {\alpha } q\,\}$$
+The formal definition can be rephrased as follows. Labelled state transition systems on $S$ with labels from $\Lambda$ correspond [one-to-one](https://en.wikipedia.org/wiki/Bijection "Bijection") with functions $S\to P(\Lambda\times S)$, where $P$ is the (covariant) [powerset functor](https://en.wikipedia.org/wiki/Power_set "Power set"). Under this bijection $(S,\Lambda,T)$ is sent to $\xi _{T}:S\to {\mathcal {P}}(\Lambda \times S)$, defined by $$p\mapsto \{\,(\alpha ,q)\in \Lambda \times S\mid p\xrightarrow {\alpha } q\,\}$$
 In other words, a labelled state transition system is a [coalgebra](https://en.wikipedia.org/wiki/F-coalgebra "F-coalgebra") for the functor $P(\Lambda \times {-})$
 
 In [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking"), a transition system is sometimes defined to include an additional labeling function for the states as well, resulting in a notion that encompasses that of [Kripke structure](https://en.wikipedia.org/wiki/Kripke_structure "Kripke structure").

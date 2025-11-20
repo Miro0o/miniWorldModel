@@ -47,6 +47,10 @@ Maintained by Julio @ Blaze Information Security ([https://www.blazeinfosec.com]
 https://www.recurity-labs.com/
 Recurity Labs specializes in IT-security consulting services, focusing on the most important angles of software and system security: the design and verification of expected behaviour.
 
+https://viperone.gitbook.io/pentest-everything
+This book is my collection of notes and write-ups for various offensive security based topics and platforms. This book is generally updated most days and will continue to be for the foreseeable future. If at any point this book stops being developed, I will leave a warning on this page.
+This book is primarily developed for viewing on Gitbook. If you wish to fork this book please do so on GitHub.
+
 
 
 ## Intro

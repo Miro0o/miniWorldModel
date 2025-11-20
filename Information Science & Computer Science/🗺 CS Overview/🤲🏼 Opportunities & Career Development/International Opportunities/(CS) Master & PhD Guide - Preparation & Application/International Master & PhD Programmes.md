@@ -2610,7 +2610,6 @@ https://admission.kaist.ac.kr/intl-graduate
 https://gradapply.kaist.ac.kr/intergradapply/
 ##### School of Computing
 https://cs.kaist.ac.kr
-https://gradapply.kaist.ac.kr/intergradapply/apply/step1.do
 ##### Graduate School of Metaverse
 https://meta.kaist.ac.kr
 ##### Kim Jaechul Graduate School of AI
@@ -2618,7 +2617,7 @@ https://gsai.kaist.ac.kr/?ckattempt=1
 #### 👉 Seoul National University
 
 #### 👉 Sungkyunkwan University
-
+https://cse.skku.edu/eng_cse/index.do
 #### 👉 Korea University
 https://cs.korea.edu/en_cs/research/lab_intro.do
 - CCS Lab 

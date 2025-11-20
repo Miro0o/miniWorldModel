@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Models List & Evaluation & Leaderboard](../🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
 
 ### Other Resources
@@ -129,7 +129,7 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 ### 🧐 Evaluation Approaches & Benchmarking
-↗ [LLM Models List & Evaluation & Leaderboard](../🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
 
 ### 🤔 Issues & Improvements

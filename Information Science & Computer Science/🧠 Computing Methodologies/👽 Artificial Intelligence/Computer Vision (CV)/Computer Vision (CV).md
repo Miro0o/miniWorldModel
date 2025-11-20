@@ -7,9 +7,13 @@
 ## Res
 ### Related Topics
 ↗ [Computer Graphics (CG)](../../Computer%20Graphics%20(CG)/Computer%20Graphics%20(CG).md)
+↗ [AI Embodiment & World Model](../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
+
+↗ [Multimodal AI & MLLM](../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+↗ [Video Generation & VLM (Video Language Model)](../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Video%20Generation%20&%20VLM%20(Video%20Language%20Model)/Video%20Generation%20&%20VLM%20(Video%20Language%20Model).md)
 
 ↗ [openCV](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Graphics%20Processing/openCV/openCV.md)
-↗ [YOLO (Ultralytics)](../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/YOLO%20(Ultralytics)/YOLO%20(Ultralytics).md)
+↗ [YOLO (Ultralytics)](📌%20Computer%20Vision%20Frameworks%20&%20Models/YOLO%20(Ultralytics)/YOLO%20(Ultralytics).md)
 ↗ [Media Processing & GUI SDK](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
 
 
@@ -20,6 +24,8 @@ Depth of field
 
 
 ## Intro
+> ↗ [Computer Graphics (CG)](../../Computer%20Graphics%20(CG)/Computer%20Graphics%20(CG).md): generating graphics
+> ↗ Computer Vision (CV): understanding graphics
 
 
 

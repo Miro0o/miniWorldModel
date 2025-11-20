@@ -19,10 +19,12 @@
 
 
 ## Intro
+> Computer Graphics (CG: generating graphics
+> ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md): understanding graphics
 
 
 
 ## Ref
 [🎬【老奇】阴差阳错 撼动世界的游戏引擎] https://www.bilibili.com/video/BV1Hk4y1q7Rz/?share_source=copy_web
 
-【计算机图形学快速理解：齐次坐标 - Miolith】 https://www.bilibili.com/video/BV1vi421Y7nP/?share_source=copy_webz
+[计算机图形学快速理解：齐次坐标 - Miolith]: https://www.bilibili.com/video/BV1vi421Y7nP/?share_source=copy_webz

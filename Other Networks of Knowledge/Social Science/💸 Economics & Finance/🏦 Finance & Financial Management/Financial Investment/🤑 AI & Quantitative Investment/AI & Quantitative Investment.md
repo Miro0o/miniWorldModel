@@ -11,6 +11,9 @@
 ### Other Resources
 https://nof1.ai/
 
+BloombergGPT
+FinBERT
+
 
 
 ## Intro

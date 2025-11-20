@@ -170,12 +170,12 @@ This is the most step-by-step spelled-out explanation of backpropagation and tra
 ### Transformer & LLM
 ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 ↗ [LLM (Large Language Model)](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-- ↗ [OpenAI ChatGPT](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
-- ↗ [Google Gemini](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
-- ↗ [Anthropic Claude](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Anthropic%20Claude.md)
-- ↗ [Meta LLama](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
-- ↗ [DeepSeek](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
-- ↗ [xAI Grok](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/xAI%20Grok.md)
+- ↗ [OpenAI ChatGPT](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+- ↗ [Google Gemini](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
+- ↗ [Anthropic Claude](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Anthropic%20Claude.md)
+- ↗ [Meta LLama](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
+- ↗ [DeepSeek](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
+- ↗ [xAI Grok](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/xAI%20Grok.md)
 
 
 

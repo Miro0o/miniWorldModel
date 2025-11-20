@@ -12,7 +12,7 @@
 ↗ [Chinese Philosophy](../../../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy.md)
 ↗ [Buddhism in China](../../../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/Chinese%20Philosophy/Chinese%20Philosophy%20History%20&%20Major%20Philosophical%20Thoughts/Buddhism%20in%20China.md)
 
-↗ [中华文明（汉族）历史概况](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中华文明历史概况](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 
 ### Traditional Chinese Literature

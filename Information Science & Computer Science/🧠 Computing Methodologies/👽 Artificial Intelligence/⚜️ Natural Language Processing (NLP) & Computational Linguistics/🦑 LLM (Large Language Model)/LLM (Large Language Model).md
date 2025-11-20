@@ -18,8 +18,8 @@ LLM & Academics 🧑‍🎓
 ↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [LLM Application Dev & Agentic AI Workflow](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow.md)
-- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/LLM%20Application%20Dev%20&%20Agentic%20AI%20Workflow/LLM%20Application%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
+- ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
 ↗ [XAI (AI Explainable & Interpretable)](../../🌁%20XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
@@ -251,6 +251,8 @@ https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
 
 ↗ [Natural Language Processing (NLP) /Intro](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Intro)
 
+![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+
 
 ### LLM Backgrounds
 #### Scaling Laws
@@ -260,7 +262,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 
 ### ⭐ LLM Modeling
-↗ [LLM Models List & Evaluation & Leaderboard](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
@@ -296,15 +298,15 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Applications & LLM-Driven Automation
 ↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 #### Agentic LLM and LLM OS
-↗ [LLM Agents & AI Workflow](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents%20&%20AI%20Workflow/LLM%20Agents%20&%20AI%20Workflow.md)
+↗ [LLM Agents, AI Workflow, & Agentic MLLM](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 ↗ [LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20OS.md)
 #### Artificial General Intelligence?
-↗ [AGI (Artificial General Intelligence) & AIGC (AI-Generated Content)](../../AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content)/AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC%20(AI-Generated%20Content).md)
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
 
 
 ## The Technical Evolution of LLM & Future Directions
-> ↗ [LLM Models List & Evaluation & Leaderboard](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+> ↗ [LLM Foundation Models List & Evaluation & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-15%20at%2010.55.30.png)
 <small>Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. <br> <a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
@@ -379,17 +381,17 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 ### Technical Evolution of Specific LLM Model Series
 #### GPT-series Model
-↗ [OpenAI ChatGPT](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+↗ [OpenAI ChatGPT](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
 
 > Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 #### Gemini-series Model
-↗ [Google Gemini](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
+↗ [Google Gemini](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
 #### LLaMA-series Model
-↗ [Meta LLama](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
+↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
 #### Qwen-series (通义千问) Model
-↗ [Alibaba Qwen](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Alibaba%20Qwen.md)
+↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Alibaba%20Qwen.md)
 #### DeepSeek-series Model
-↗ [DeepSeek](🪜%20LLM%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
+↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
 
 
 

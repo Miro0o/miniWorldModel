@@ -10,7 +10,7 @@
 ↗ [History of Philosophy](../../♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
 ↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ↗ [U.S. History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 ↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
 ↗ [Russia History Overview](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
@@ -363,7 +363,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 - In [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia "Scandinavia") and other parts of [northern Europe](https://en.wikipedia.org/wiki/Northern_Europe "Northern Europe") that the Romans did not reach, the Iron Age continues until the start of the [Viking Age](https://en.wikipedia.org/wiki/Viking_Age "Viking Age") in about 800 AD.
 - In [China](https://en.wikipedia.org/wiki/China "China"), the "Iron Age" ends with the start of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty "Qin dynasty") and the beginning of the [Imperial Era](https://en.wikipedia.org/wiki/Imperial_China "Imperial China").
 
-↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ##### Copper Age*
 
 
@@ -604,14 +604,14 @@ See also
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
 #### Han Chinese / 汉
 ↗ [Chinese Language & 中文](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 #### Machu | 满
 ####  Zang /Tibetan | 藏
 #### Moghols | 蒙
 ↗ [Mongolia 🇲🇳](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
-↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
-- ↗ [元](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
+↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+- ↗ [元](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
 #### Madhya Deśa「摩陀耶提舍, 中天竺」 (Hindustani)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
 
@@ -718,7 +718,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ###  The Yellow River and The Changjiang (Yangtze) River
-↗ [中华文明（汉族）历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明（汉族）历史概况/中华文明（汉族）历史概况.md)
+↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 
 ### Crete Island & Aegean Sea

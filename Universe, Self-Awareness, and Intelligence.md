@@ -67,6 +67,16 @@ Anti-fragile: Things That Gain From Disorder
 > ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 > ↗ [History of Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
 
+> ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md#汉与汉族)
+> 维天有汉，鉴亦有光
+> ——把天系住并连起来的，是那些仿佛可以抓起来的点点繁星，在天河最遥远偏僻的位置，也到处是那些自主呈现着的仿佛可以抓起来的微光。
+> 
+> “汉”的特征是：无数星星点点，或若有若无，却始终自主显现着，自然而然地汇集为洪流。
+> 
+> 当立在山顶鸟瞰万家灯火，极目之处但见天上繁星与大地灯火融为一体，这就是“汉”（注2）——这种天地皆为汉“家”的豪迈之情，依托于“江流天地外，山色有无中（王维《汉江临眺》）”的浪漫情境，又化身为“汉水连天河”的民间传说至今流传在汉江流域，诉说着“盈盈一水间，脉脉不得语”的汉家天地之幽情。
+> ![](../../../../../../Assets/Pics/Pasted%20image%2020251120175506.png)
+> <small><a>https://commons.wikimedia.org/wiki/File:Lit_up_night_sky_at_Miran_Jani.jpg</a></small>
+
 认识自然，改造自然
 
 Ex iisdem principiis demonstro iam systematis mundani compagem.
@@ -74,7 +84,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 -- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
 
 
-### 存在与（人）认识存在
+### 存在与（人/人类社会 的）认识存在
 #### 运动与静止
 ##### 相对与绝对
 ↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
@@ -179,7 +189,7 @@ or（情感，逻辑）X （认识，实践）
 - 艺术文化
 - 社会相关的自然资源
 
-上述几个方面的知识构成了人类社会的知识，即人类所有知识的画像，如下：
+上述几个方面的知识构成了所有人类知识的画像，如下：
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
@@ -380,7 +390,7 @@ or（情感，逻辑）X （认识，实践）
 <small>Language, Computer Language, and  Programming Language Processing</small>
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）
 ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-↗ [Embodied AI & World Model](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI-For-Everything/🤔%20Embodied%20AI%20&%20World%20Model/Embodied%20AI%20&%20World%20Model.md)
+↗ [AI Embodiment & World Model](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
@@ -587,7 +597,7 @@ or（情感，逻辑）X （认识，实践）
 	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 	- ↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
-##### 发展动力
+##### 发展动力（原理）
 ###### 劳动，生产，经济
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))

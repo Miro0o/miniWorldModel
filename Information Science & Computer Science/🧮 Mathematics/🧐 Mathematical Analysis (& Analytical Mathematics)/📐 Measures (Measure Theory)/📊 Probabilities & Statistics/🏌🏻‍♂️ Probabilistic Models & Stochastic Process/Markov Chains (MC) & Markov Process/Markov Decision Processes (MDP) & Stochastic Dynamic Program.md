@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+[Discrete-Time Markov Chains (DTMC)](Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
 
 
 ### Other Resources

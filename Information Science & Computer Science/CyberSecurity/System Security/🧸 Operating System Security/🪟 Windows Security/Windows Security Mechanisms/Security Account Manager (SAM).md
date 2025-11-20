@@ -28,3 +28,4 @@ In an attempt to improve the security of the SAM database against offline softwa
 
 
 ## Ref
+[Sam]: https://viperone.gitbook.io/pentest-everything/writeups/cyberseclabs/windows/sam

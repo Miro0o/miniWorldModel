@@ -11,6 +11,10 @@
 
 
 ### Other Resources
+👍 https://transformer-circuits.pub/
+Anthropic’sInterpretability Research
+A surprising fact about modern large language models is that nobody really knows how they work internally. The Interpretability team strives to change that — to understand these models to better plan for a future of safe AI.
+
 🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 **On the Biology of a Large Language Model | Anthropic**
 - We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
