@@ -1,4 +1,4 @@
-# Markov Chains (MC) & Markov Process
+# Markov Process
 
 [TOC]
 
@@ -68,6 +68,28 @@ At the core of the Modest Toolset is the model of _networks of **stochastic hy
 - **LTS** (labelled transition systems), alternatively Kripke structures or finite automata, are the most basic, fundamental model for verification. Allowing nondeterministic choices, they are supported by a wide range of model-checking tools of impressive scalability.
 - **DTMC** (discrete-time Markov chains) are the basic discrete probabilistic model. As a model without nondeterminism, they are not only amenable to a wide range of numerical analysis approaches, but also ideally suited for simulation.
 - **CTMC**, **IMC** and **MA** (continuous-time Markov chains, interactive Markov chains and Markov automata) form the family of stochastic models based on the notion of _exponentially distributed delays_, which can be represented in STA via a combination of sampling from the exponential distribution and subsequently waiting the sampled amount of time using a dedicated clock variable.
+
+
+### Markov Process 🆚 Markov Chain (MC)
+#markov_process #markov_chain
+
+> 🤖 Google Gemini 2.5 
+
+The difference is best described by classifying stochastic processes based on time and state space:
+
+| **Term**                                | **Time (Index Set)**                                                                          | **State Space (Possible Values)**                                         |
+| --------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Markov Process**                      | **Continuous** (e.g., $t \in [0, \infty)$) or **Discrete** (e.g., $t \in \{0, 1, 2, \dots\}$) | **Continuous** (e.g., $\mathbb{R}$) or **Discrete** (e.g., $\{1, 2, 3\}$) |
+| **Markov Chain**                        | **Discrete** (e.g., $t \in \{0, 1, 2, \dots\}$)                                               | **Discrete** (e.g., $\{1, 2, 3\}$)                                        |
+| **Continuous-Time Markov Chain (CTMC)** | **Continuous**                                                                                | **Discrete**                                                              |
+
+**1. Markov Process (The General Term)**
+The term **Markov Process** is generally used as the **broader category**. It refers to **any** stochastic process that satisfies the Markov property, regardless of whether its time or state space is discrete or continuous.
+- **Example:** **Brownian Motion** (Wiener process) is a **Markov Process** because both its time and state space are **continuous**.
+
+**2. Markov Chain (The Specific Term)**
+The term **Markov Chain** is typically reserved for a Markov Process that evolves in **discrete time** and has a **discrete** (or countable) **state space**.2 This is the most common model taught as an introduction to the topic.
+- **Example:** A random walk on a graph where steps happen at $t=1, 2, 3, \dots$ and the states are the nodes of the graph.
 
 
 

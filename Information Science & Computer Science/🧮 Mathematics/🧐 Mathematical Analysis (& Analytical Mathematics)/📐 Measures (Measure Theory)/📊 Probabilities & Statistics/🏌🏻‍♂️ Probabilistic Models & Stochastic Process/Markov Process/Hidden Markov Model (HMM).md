@@ -1,4 +1,4 @@
-# Hidden Markov Chains
+# Hidden Markov Model (HMM)
 
 [TOC]
 

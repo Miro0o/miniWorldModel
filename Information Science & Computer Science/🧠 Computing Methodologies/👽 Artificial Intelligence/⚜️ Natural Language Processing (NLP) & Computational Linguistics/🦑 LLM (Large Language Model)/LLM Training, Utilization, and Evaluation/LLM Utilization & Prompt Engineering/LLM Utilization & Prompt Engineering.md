@@ -32,6 +32,12 @@ We borrow inspirations from many open resources like [OpenAI CookBook](https://
 [Promptify](https://github.com/promptslab/Promptify)
 
 
+### Other Resources
+https://latitude.so/developers
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+System Prompts and Models of AI Tools
+
+
 
 ## Intro
 ### Model Inference

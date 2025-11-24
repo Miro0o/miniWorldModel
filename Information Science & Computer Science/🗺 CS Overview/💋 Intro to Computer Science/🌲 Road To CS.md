@@ -127,6 +127,9 @@ https://github.com/jwasham/coding-interview-university
 https://learn.mit.edu/
 Lifelong Learning. The MIT way.
 
+https://cs-plan.com/
+这份指南是偏个性化的，如果有与你理念不合的内容，共同完善或者关闭页面都是不错的选择，但请尊重每位贡献者的内容
+
 
 
 ## CS & IT in Different Aspects
@@ -1398,17 +1401,6 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 
 
-## Ref
-[程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
-
-[Teach Yourself Programming in Ten Years - Peter Norvig]: http://norvig.com/21-days.html#answers
-
-[Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
-
-![](../../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
-
-
-
 ## What You Should Know Beyond School: The World Has Never Been Fair
 ### FAQ: Study, Academia, Industry, and Personal Development
 > https://www.pkuanvil.com/topic/459/ 知乎回答备份
@@ -1499,3 +1491,13 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 还有一些小镇做题家总感觉大城市的教育条件好，不公平，反对在大学录取中考虑竞赛。这我觉得没有必要，人家有人家的优势，我们有我们的优势。我之前也讲过这个问题。[https://www.zhihu.com/question/68233353/answer/378434797?utm_psn=1828334525303885825](https://www.zhihu.com/question/68233353/answer/378434797?utm_psn=1828334525303885825) 应该说各种选拔方式都有其合理性，单一的选拔方式是另一种不公平。我们不能因为自己的一点劣势去剥夺别人的机会。
 
+
+
+## Ref
+[程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
+
+[Teach Yourself Programming in Ten Years - Peter Norvig]: http://norvig.com/21-days.html#answers
+
+[Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
+
+![](../../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)

@@ -20,6 +20,24 @@ The Lambda Calculus | Stanford Encyclopedia of Philosophy
 [Foundations for programmming languages](https://book.douban.com/subject/1761918/)
 [Practical Foundations for Programming Languages](https://book.douban.com/subject/26782198/)
 
+🎬【编程的尽头是数学？30分钟带你入门计算机的灵魂——λ演算 | 函数式编程 / 核心语法 / 求值过程 / 邱奇数 / 高阶函数 / 递归-哔哩哔哩】 https://b23.tv/719pKNx
+课程关键节点时间戳，方便跳转 👇
+【一、什么是λ演算？】
+00:00 - 开篇：纯粹计算的可视化与核心思想
+01:35 - λ演算的起源：希尔伯特问题与三位巨匠
+02:30 - 核心语法：变量、函数定义 (λ) 与函数应用
+【二、可视化与求值】
+04:18 - Tromp图：将λ表达式画出来
+05:53 - β-规约 (Beta Reduction)：计算机如何“运行”λ表达式
+09:05 - 柯里化 (Currying)：如何处理多参数函数
+【三、从零构建万物】
+10:48 - 布尔运算：用函数定义“真”与“假”
+13:24 - 邱奇数：用函数定义数字与加法
+17:18 - 递归的魔法：不动点组合子与阶乘函数
+【四、理论的深度与广度】
+23:13 - 规约图与邱奇-罗瑟定理
+26:21 - 超越基础：从邱奇-图灵论题到函数式编程
+
 
 
 ## Intro

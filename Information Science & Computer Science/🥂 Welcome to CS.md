@@ -7,7 +7,7 @@
 
 
 ## About
-### What Is This Note About?
+### What Is This Note?
 
 
 ### How to Use This Note?

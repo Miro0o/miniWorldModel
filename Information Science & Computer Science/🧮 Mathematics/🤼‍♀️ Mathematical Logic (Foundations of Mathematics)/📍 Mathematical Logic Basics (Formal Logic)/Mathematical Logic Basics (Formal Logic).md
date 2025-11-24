@@ -30,6 +30,8 @@
 - ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 - ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
+↗ [Decision Making & Game Theory](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+
 
 ### Other Resources
 https://users.aalto.fi/~rintanj1/notes-logic.pdf

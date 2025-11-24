@@ -10,6 +10,8 @@
 ↗ [Lambda Calculus (λ-Calculus)](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 ↗ [Combinatory Logic](../../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Combinatory%20Logic.md)
 
+↗ [Decision Making & Game Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+
 
 ### Other Resources
 https://users.aalto.fi/~rintanj1/notes-logic.pdf

@@ -1,4 +1,4 @@
-# Fouriers Seires & Fouriers Transformation
+# Fouriers Seires & Fouriers Transformation (FT)
 
 [TOC]
 
@@ -19,7 +19,7 @@
 ## Fourier Transformation
 > 🔗 https://en.wikipedia.org/wiki/Fourier_transform
 
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), the **Fourier transform** (**FT**) is an [integral transform](https://en.wikipedia.org/wiki/Integral_transform "Integral transform") that takes a [function](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)") as input, and outputs another function that describes the extent to which various [frequencies](https://en.wikipedia.org/wiki/Frequency "Frequency") are present in the original function. The output of the transform is a [complex](https://en.wikipedia.org/wiki/Complex_number "Complex number")-valued function of frequency. The term _Fourier transform_ refers to both the [mathematical operation](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)") and to this complex-valued function. When a distinction needs to be made, the output of the operation is sometimes called the [frequency domain](https://en.wikipedia.org/wiki/Frequency_domain "Frequency domain") representation of the original function. The Fourier transform is analogous to decomposing the [sound](https://en.wikipedia.org/wiki/Sound "Sound") of a musical [chord](https://en.wikipedia.org/wiki/Chord_\(music\) "Chord (music)") into the [intensities](https://en.wikipedia.org/wiki/Sound_intensity "Sound intensity") of its constituent [pitches](https://en.wikipedia.org/wiki/Pitch_\(music\) "Pitch (music)").
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), the **Fourier transform** (**FT**) is an [integral transform](https://en.wikipedia.org/wiki/Integral_transform "Integral transform") that takes a [function](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)") as input, and outputs another function that describes the extent to which various [frequencies](https://en.wikipedia.org/wiki/Frequency "Frequency") are present in the original function. The output of the transform is a [complex](https://en.wikipedia.org/wiki/Complex_number "Complex number")-valued function of frequency. The term _Fourier transform_ refers to both the [mathematical operation](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)") and to this complex-valued function. When a distinction needs to be made, the output of the operation is sometimes called the [frequency domain](https://en.wikipedia.org/wiki/Frequency_domain "Frequency domain") representation of the original function. The Fourier transform is analogous to decomposing the [sound](https://en.wikipedia.org/wiki/Sound "Sound") of a musical [chord](https://en.wikipedia.org/wiki/Chord_\(music\) "Chord (music)") into the [intensities](https://en.wikipedia.org/wiki/Sound_intensity "Sound intensity") of its constituent [pitches](https://en.wikipedia.org/wiki/Pitch_\(music\) "Pitch (music)").
 
 The Fourier transform relates the time domain, in red, with a function in the domain of the frequency, in blue. The component frequencies, extended for the whole frequency spectrum, are shown as peaks in the domain of the frequency.
 
@@ -34,3 +34,6 @@ The Fourier transform can also be generalized to functions of several variables 
 ## Ref
 [Fourier transform| wikiepdia]: https://en.wikipedia.org/wiki/Fourier_transform
 [Discrete Fourier transform | wikipedia]: https://en.wikipedia.org/wiki/Discrete_Fourier_transform
+
+[🎬 傅里叶变换：优雅解构一切声音轮廓]: http://xhslink.com/o/35oU2gHyOX2 
+[🎬 FFT凭什么称为最伟大的算法？没有之一！]: http://xhslink.com/o/6RDap78BRqZ

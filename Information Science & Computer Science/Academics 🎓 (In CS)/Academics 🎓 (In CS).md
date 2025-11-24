@@ -41,6 +41,12 @@ https://github.com/hoochanlon/hamulete/tree/master
 (This repo has been cloned to local!🥰 -- notes from miro)
 
 
+https://github.com/context-labs/aella-data-explorer
+Interactive visualization and exploration of scientific papers from the Aella open science dataset.
+This project is a collaboration between [Inference.net](https://inference.net/) and [LAION](https://laion.ai/). LAION curated the original dataset which is about ~100m scrapped scientific and research articles and Inference.net fine-tuned a custom model to extract structured summaries from the articles. This repo contains a visual explorer for a small subset of the extracted dataset.
+View the live explorer at [https://aella.inference.net](https://aella.inference.net/).
+
+
 ### 😈 Beyond Academics...
 👍 https://github.com/ShiArthur03/ShiArthur03
 https://github.com/ShiArthurX/ShiArthurX
@@ -77,6 +83,10 @@ AI
 
 ## Intro
 ↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+
+↗ [FAQ - Academia and Research](FAQ%20-%20Academia%20and%20Research.md)
+↗ [给各位天命人的劝退信](Appendix/给各位天命人的劝退信.md)
+
 
 
 

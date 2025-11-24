@@ -6,7 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Markov Chain Monte Carlo (MCMC) Methods](../../🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Chains%20(MC)%20&%20Markov%20Process/Markov%20Chain%20Monte%20Carlo%20(MCMC)%20Methods.md)
 ↗ [Monte Carlo Based RL](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
 
 

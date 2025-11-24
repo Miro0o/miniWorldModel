@@ -183,7 +183,9 @@ wikipedia
 - [世界政治史](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%94%BF%E6%B2%BB%E5%8F%B2 "世界政治史")
 - [地缘政治变化时间表](https://zh.wikipedia.org/w/index.php?title=%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%AE%8A%E5%8C%96%E6%99%82%E9%96%93%E8%A1%A8&action=edit&redlink=1 "地缘政治变化时间表（页面不存在）")
 - [民族独立时间表](https://zh.wikipedia.org/w/index.php?title=%E6%B0%91%E6%97%8F%E7%8D%A8%E7%AB%8B%E6%99%82%E9%96%93%E8%A1%A8&action=edit&redlink=1 "民族独立时间表（页面不存在）")
-#### Other Online Resources
+
+
+### Other Resources
 ↗ [Europa Universalis](../../../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
 
 https://westportlibrary.libguides.com/worldhistory
@@ -203,6 +205,9 @@ https://www.onthisday.com/#
 Today in history
 
 🎬 👍【历时五年，我终于做出了全网最详细の世界历史地图动画，只为向你讲述世界文明的发展轨迹】 https://www.bilibili.com/video/BV1h4jAzJExQ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+👍 https://pastvu.com/
+
 
 
 

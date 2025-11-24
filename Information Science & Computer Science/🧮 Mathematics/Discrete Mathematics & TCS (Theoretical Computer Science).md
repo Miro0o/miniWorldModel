@@ -29,7 +29,7 @@
 
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
- [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
+↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 
 
 ### TCS Learning Resources
@@ -223,6 +223,42 @@ by Martin Davis (Author), Ron Sigal (Author), Elaine J. Weyuker (Author)
 - [Other](https://github.com/mostafatouny/awesome-theoretical-computer-science#other)
     - [Podcasts](https://github.com/mostafatouny/awesome-theoretical-computer-science#other_podcasts) | [Popular Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#other_popular_science) | [Cheat Sheets](https://github.com/mostafatouny/awesome-theoretical-computer-science#other_cheat_sheets)
 - [Related Lists](https://github.com/mostafatouny/awesome-theoretical-computer-science#related_lists)
+
+https://introtcs.org/public/index.html
+Introduction to Theoretical Computer Science
+**Boaz Barak** | _Work in progress_
+- This is a textbook in preparation for an introductory undergraduate course on theoretical computer science. I am using this text for [Harvard CS 121](http://cs121.boazbarak.org/). It is also used for [UVa CS 3102](https://uvatoc.github.io/) and [UCLA CS181](https://hackmd.io/@raghum/introtcs).
+- See below for individual chapters. You can also download the [book in a single PDF file](https://files.boazbarak.org/introtcs/lnotes_book.pdf) (about 600 pages, 10MB).
+- If you have any _comments, suggestions, typo fixes_, etc.. I would be very grateful if you post them as an [**issue**](https://github.com/boazbk/tcs/issues) or [**pull request**](https://github.com/boazbk/tcs/pulls) in the [**GitHub repository boazbk/tcs**](https://github.com/boazbk/tcs) where I am maintaining the source files for these notes. You can also post comments on each chapter in the links below.
+- See the [github.com/boazbk/tcscode](https://introtcs.org/public/the%20tcscode%20repository) for jupyter notebooks with supplementary code for the book.
+- For prior versions of the book, see the [repository release page](https://github.com/boazbk/tcs/releases). The most updated version of this book is always on this page.
+- **Frozen version for Fall 20223:** I will be only making minor edits (typos, local fixes) during the fall so as not to disrupt teaching. For consistency in references and exercises, instructors can use the following version frozen as of July 24, 2023: [Introduction to TCS version 0.95](https://github.com/boazbk/tcs/releases/download/v0.95/lnotes_book_fall2023.pdf)
+TOC
+- [**Chapter p:** Preface](https://introtcs.org/public/lec_00_0_preface.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_00_0_preface.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_00_0_preface.docx))
+- [**Chapter 0:** Introduction](https://introtcs.org/public/lec_01_introduction.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_01_introduction.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_01_introduction.docx))
+- [**Chapter 1:** Mathematical Background](https://introtcs.org/public/lec_00_1_math_background.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_00_1_math_background.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_00_1_math_background.docx))
+- [**Chapter 2:** Computation and Representation](https://introtcs.org/public/lec_02_representation.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_02_representation.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_02_representation.docx))
+- [**Chapter 3:** Defining computation](https://introtcs.org/public/lec_03_computation.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_03_computation.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_03_computation.docx))
+- [**Chapter 4:** Syntactic sugar, and computing every function](https://introtcs.org/public/lec_03a_computing_every_function.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_03a_computing_every_function.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_03a_computing_every_function.docx))
+- [**Chapter 5:** Code as data, data as code](https://introtcs.org/public/lec_04_code_and_data.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_04_code_and_data.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_04_code_and_data.docx))
+- [**Chapter 6:** Functions with Infinite domains, Automata, and Regular expressions](https://introtcs.org/public/lec_05_infinite.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_05_infinite.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_05_infinite.docx))
+- [**Chapter 7:** Loops and infinity](https://introtcs.org/public/lec_06_loops.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_06_loops.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_06_loops.docx))
+- [**Chapter 8:** Equivalent models of computation](https://introtcs.org/public/lec_07_other_models.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_07_other_models.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_07_other_models.docx))
+- [**Chapter 9:** Universality and uncomputability](https://introtcs.org/public/lec_08_uncomputability.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_08_uncomputability.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_08_uncomputability.docx))
+- [**Chapter 10:** Restricted computational models](https://introtcs.org/public/lec_08a_restricted_models.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_08a_restricted_models.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_08a_restricted_models.docx))
+- [**Chapter 11:** Is every theorem provable?](https://introtcs.org/public/lec_09_godel.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_09_godel.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_09_godel.docx))
+- [**Chapter 12:** Efficient computation: An informal introduction](https://introtcs.org/public/lec_10_efficient_alg.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_10_efficient_alg.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_10_efficient_alg.docx))
+- [**Chapter 13:** Modeling running time](https://introtcs.org/public/lec_11_running_time.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_11_running_time.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_11_running_time.docx))
+- [**Chapter 14:** Polynomial-time reductions](https://introtcs.org/public/lec_12_NP.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_12_NP.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_12_NP.docx))
+- [**Chapter 15:** NP, NP completeness, and the Cook-Levin Theorem](https://introtcs.org/public/lec_13_Cook_Levin.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_13_Cook_Levin.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_13_Cook_Levin.docx))
+- [**Chapter 16:** What if P equals NP?](https://introtcs.org/public/lec_14_PvsNP.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_14_PvsNP.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_14_PvsNP.docx))
+- [**Chapter 17:** Space bounded computation](https://introtcs.org/public/lec_14a_space_complexity.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_14a_space_complexity.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_14a_space_complexity.docx))
+- [**Chapter 18:** Probability Theory 101](https://introtcs.org/public/lec_15_probability.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_15_probability.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_15_probability.docx))
+- [**Chapter 19:** Probabilistic computation](https://introtcs.org/public/lec_16_randomized_alg.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_16_randomized_alg.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_16_randomized_alg.docx))
+- [**Chapter 20:** Modeling randomized computation](https://introtcs.org/public/lec_17_model_rand.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_17_model_rand.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_17_model_rand.docx))
+- [**Chapter 21:** Cryptography](https://introtcs.org/public/lec_19_cryptography.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_19_cryptography.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_19_cryptography.docx))
+- [**Chapter 22:** Proofs and algorithms](https://introtcs.org/public/lec_24_proofs.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_24_proofs.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_24_proofs.docx))
+- [**Chapter 23:** Quantum computing](https://introtcs.org/public/lec_26_quantum_computing.html) ([PDF: best formatting](https://files.boazbarak.org/introtcs/lec_26_quantum_computing.pdf) , [Word: buggy](https://files.boazbarak.org/introtcs/lec_26_quantum_computing.docx))
 
 
 ### Discrete Mathematics Learning Resources

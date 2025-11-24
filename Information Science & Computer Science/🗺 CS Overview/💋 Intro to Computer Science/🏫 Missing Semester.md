@@ -552,7 +552,6 @@ In use, once the server knows the client’s public key (stored in the`.ssh/auth
 
 
 
-
 ## 🔟 [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
 ### Keyboard Remapping
 Some software resources to get started on the topic:

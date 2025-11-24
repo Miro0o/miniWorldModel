@@ -73,7 +73,7 @@ Function Series (函数项级数)
 
 
 ### Fouriers Seires
-↗ [Fouriers Seires & Fouriers Transformation](Fouriers%20Seires%20&%20Fouriers%20Transformation.md)
+↗ [Fouriers Seires & Fouriers Transformation (FT)](Fouriers%20Seires%20&%20Fouriers%20Transformation%20(FT).md)
 
 
 

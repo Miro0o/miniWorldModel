@@ -200,3 +200,5 @@ Components in artificial neural networks:
 5.  **Activation function:** It is required to add non-linearity to the neural network model
 
 [AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
+
+[🎬 学了10年神经网络才敢说，入门第1周看这个]: http://xhslink.com/o/8OaGmWGk5Wz 

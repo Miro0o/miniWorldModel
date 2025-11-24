@@ -78,6 +78,8 @@ However, there are some important reasons why programmers need to understand how
 	- For example, what does it mean when the linker reports that it cannot resolve a reference? What is the difference between a static variable and a global variable? What happens if you define two global variables in different C files with the same name? What is the difference between a static library and a dynamic library? Why does it matter what order we list libraries on the command line? And scariest of all, why do some linker-related errors not appear until run time? 
 - **Avoiding security holes**. For many years, buffer overflow vulnerabilities have accounted for many of the security holes in network and Internet servers. These vulnerabilities exist because too few programmers understand the need to carefully restrict the quantity and forms of data they accept from untrusted sources. A first step in learning secure programming is to understand the consequences of the way data and control information are stored on the program stack.
 
+![](../../../Assets/Pics/5110EB1C-061B-4B6C-837B-2D52A41666B7_1_105_c.jpeg)
+
 
 
 ## Phases in Programming Language Processing

@@ -33,7 +33,7 @@ Knuth, D. (1976). The complexity of nonuniform random number generation. _Algor
 Where is the Markov chain **after 1/2/3/…/n steps**?
 **Answer**: in the transient distribution $\theta_n$
 
-2 equivalent definitions / 2 ways to compute :
+Two equivalent definitions / 2 ways to compute :
 1. $\theta_n = \iota \cdot P^n$
 	1. Multiply the initial distribution vector by the transition probability matrix 𝑃𝑛 = make n-steps
 2. $\begin{aligned} & \theta_0 = \iota \\ & \theta_{n+1} = \theta_n\cdot P\end{aligned}$ (Recursively)
@@ -99,6 +99,11 @@ Simulating a 6-faced dice with a coin:
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2014.02.41.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2014.02.53.png)
+
+
+### DTMC with Rewards /Costs
+↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
+↗ [Markov Reward Model (MRM)](../Markov%20Reward%20Model%20(MRM).md)
 
 
 

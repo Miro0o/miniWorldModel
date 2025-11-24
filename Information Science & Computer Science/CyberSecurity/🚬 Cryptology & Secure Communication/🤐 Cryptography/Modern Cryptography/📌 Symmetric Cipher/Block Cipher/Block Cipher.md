@@ -68,11 +68,10 @@ A Stick Figure Guide to the Advanced Encryption Standard (AES)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.41.50%20PM.png)
 
 
-
 ### ⭐️ Block Cipher Design Models
-
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.45.37%20PM.png)
 #### 1️⃣ SPN (Substitution & Permutation Network)
+
 #### 2️⃣ Feistel
 特点：
 （1）加解密结构相同，所使用的子密钥的顺序正好相反
