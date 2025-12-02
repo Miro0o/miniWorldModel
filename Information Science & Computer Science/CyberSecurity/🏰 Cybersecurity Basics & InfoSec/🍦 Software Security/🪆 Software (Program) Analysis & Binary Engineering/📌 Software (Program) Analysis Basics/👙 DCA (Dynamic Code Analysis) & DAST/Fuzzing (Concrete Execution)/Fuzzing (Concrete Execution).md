@@ -36,6 +36,7 @@ The Fuzzing Book
 Tools and Techniques for Generating Software Tests
 **by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler**
 - **Welcome to "The Fuzzing Book"!** Software has bugs, and catching bugs can involve lots of effort. This book addresses this problem by _automating_ software testing, specifically by _generating tests automatically_. Recent years have seen the development of novel techniques that lead to dramatic improvements in test generation and software testing. They now are mature enough to be assembled in a book – even with executable code.
+- ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-24%20at%2022.33.04.png)
 #### Survey Papers
 📄 👍 Manes V J M, Han H S, Han C, et al. Fuzzing: Art, Science, and Engineering[J]. arXiv preprint arXiv:1812.00140, 2018.
 https://arxiv.org/pdf/1812.00140.pdf

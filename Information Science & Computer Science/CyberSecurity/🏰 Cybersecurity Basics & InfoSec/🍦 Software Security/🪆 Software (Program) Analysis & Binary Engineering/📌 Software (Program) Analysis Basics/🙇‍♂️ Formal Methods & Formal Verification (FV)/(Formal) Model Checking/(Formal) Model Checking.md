@@ -318,9 +318,12 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.34.43.png)
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
 
-
-### Computational Tree
+#### Semantics of Transition System
 > ↗ [Graph Basics](../../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+
+##### Execution & Trace
+
+##### Computational Tree
 
 
 ### Automata-Based Models

@@ -19,6 +19,12 @@
 ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md) (program semantics, abstraction, and interpretation)
 
+↗ [(Formal) Model Checking](../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+- transition systems
+- semantics of transition systems:
+	- execution and traces
+	- computational tree
+
 Program interpretation: precisely same semantics
 Abstract interpretation: approximated semantics
 
@@ -184,11 +190,13 @@ The above statement basically means, the abstraction of our original **program i
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3.5
 
-One great thing about Galois connections is that they compose. This mean we can create one long chain: (`[A]` means abstraction)
+In this section, we talk about some common prototypes of program abstraction, including state abstraction, per-instruction (per-pc) abstraction, and per-variable abstraction.
+
+Further, as shown in Galois connection, these abstraction composes. This mean we can create one long chain: (`[A]` means abstraction)
 $$\begin{aligned} (2^{Trace}, \ \subseteq) & \leftrightarrow^\alpha_\gamma \ (2^{State}, \subseteq) &\text{State Abstraction} \\
 & \leftrightarrow^\alpha_\gamma \ (P_C,\sqsubseteq_{P_C}) &\text{Per-Instruction Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_V,\sqsubseteq{P_V}) &\text{Per-Variable Abstraction} \\
-& \leftrightarrow^\alpha_\gamma \ (P_V[A], \sqsubseteq_{P_C[A]}) &\text{Variables Abstraction}
+& \leftrightarrow^\alpha_\gamma \ (P_V,\sqsubseteq_{P_V}) &\text{Per-Variable Abstraction} \\
+& \leftrightarrow^\alpha_\gamma \ (P_V[A], \sqsubseteq_{P_V[A]}) &\text{Variables Abstraction}
 \end{aligned}$$
 ##### The State Abstraction
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:state-abstraction
@@ -227,8 +235,7 @@ In this abstraction, we want to take advantage of executing the same instruction
 
 Let's focus on a JVM **without a method stack (call stack, i.e. no function calls)**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)). 
 
-We can abstract this by collecting the states per $\iota$. Let $\mathbf{P_c} = \iota \rightarrow 2^{\text{State}}$ be a mapping from program counters to the program state space. $\mathbf{P_c}$ is a lattice with partial order $\sqsubseteq_{\mathbf{P_c}}$ where one mapping is less than ($\sqsubseteq_{\mathbf{P_c}}$) another if all states are smaller than the other,  
-and $\bigsqcup_{\mathbf{P_c}}$ is pointwise set union ($\cup$) of states. Then we have our Galois connection between the original program and per-instruction abstraction:
+We can abstract this by collecting the states per $\iota$. Let $\mathbf{P_c} = \iota \rightarrow 2^{\text{State}}$ be a mapping from program counters to the program state space. $\mathbf{P_c}$ is a lattice with partial order $\sqsubseteq_{\mathbf{P_c}}$ where one mapping is less than ($\sqsubseteq_{\mathbf{P_c}}$) another if all states are smaller than the other, and $\bigsqcup_{\mathbf{P_c}}$ is pointwise set union ($\cup$) of states. Then we have our Galois connection between the original program and per-instruction abstraction:
 $$(2^{\text{State}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (\mathbf{P_c}, \sqsubseteq_{\mathbf{P_c}})$$
 
 Now we can write a stepping function that can step all states with the same instruction at once, $\text{step}_{\iota}$, and then merge the result into the other states:
@@ -381,11 +388,11 @@ case jvm.Ifz(condition=con, target=target):
 >  ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 110)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.3
 
-Because, we are not guaranteed to reach a fixed point with the interval abstraction, we need to force it. This is known as the widening operator, the goal of the widening operator ∇ is to dramatically over approximate joins in a way that we are guaranteed a fixed point in a finite number of steps.
+Because, we are not guaranteed to reach a fixed point with the interval abstraction, we need to force it. This is known as the widening operator, the goal of the widening operator $∇$ is to dramatically over approximate joins in a way that we are guaranteed a fixed point in a finite number of steps.
 
-One way of adding a widening operator to the interval abstraction is to us a constant set, often referred to as $\mathbb{K}$. This set contains all the constants in the program or file of interest. This is like the dictionaries we used in the dynamic analysis.
+One way of adding a widening operator to the interval abstraction is to use a constant set, often referred to as $\mathbb{K}$. This set contains all the constants in the program or file of interest. This is like the dictionaries we used in the dynamic analysis.
 
-To define the widening operator, we define two operators $\min_K J$ and $\max_K J$ which, given a set of integers $J$, pick the largest and smallest, respectively, $k \in K \cup \{\infty, -\infty\}$ such that $k \le \min J$ and $k \ge \max J$.
+To define the widening operator (for interval abstraction), we define two operators $\min_K J$ and $\max_K J$ which, given a set of integers $J$, pick the largest and smallest, respectively, $k \in K \cup \{\infty, -\infty\}$ such that $k \le \min J$ and $k \ge \max J$.
 $$ [i, j] \nabla [k, h] =
 \left[
   \min_K \{ i, k \},
@@ -431,10 +438,10 @@ $$
 > ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 59)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.4
 
-Currently our algorithm is a little slow, as we essentially in lockstep iterate over the entier program for every step.
+Currently our algorithm is a little slow, as we essentially in lockstep iterate over the entire program for every step.
 
 This is of cause silly, as we would much rather only handle unprocessed events. Consider you have a stepping function from a program locations and an abstract state to a set of program locations and abstract states, which needs to joined at those points: $$steps: PC\times\overset{-}{State}\to2^{PC\times\overset{-}{State}}$$
-Too extend our current implementation for this, we can modify the per_instruction method in StateSet to only emit
+Too extend our current implementation for this, we can modify the `per_instruction` method in `StateSet` to only emit
 
 ```Python
 class StateSet[A]:

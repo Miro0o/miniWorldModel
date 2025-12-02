@@ -113,6 +113,10 @@
 
 ↗ [Theory of Computation /Models of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
 ↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+- transition systems
+- semantics of transition systems:
+	- execution and traces
+	- computational tree
 
  When we  assign meaning to other, we are giving "semantics". In programing language, programming language itself is a system of meaning. Likewise, we can invent many other systems with meaning, and map the meaning of programming language to this other system, i.e. giving semantics to programming language. This mapping is bilateral, meaning we can also say that the semantics of another system, say operational semantics, is its corresponding programming language.
 
