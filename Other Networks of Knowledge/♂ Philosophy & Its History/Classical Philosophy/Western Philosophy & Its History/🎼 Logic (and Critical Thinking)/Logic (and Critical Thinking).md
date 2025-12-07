@@ -107,7 +107,7 @@ The connection of reason to symbolic thinking has been expressed in different wa
 
 
 ### Methodologies in Logic
-> ↗ [Marxism & Communism](../../../Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md) (马克思主义的基本方法)
+> ↗ [Marxism & Communism](../../../Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md) (马克思主义的基本方法)
 > ↗ [Mathematics /Types of Proofs](../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Proof Theory](../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-- ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
+- ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -60,8 +60,8 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ## My Cognitive Model of The Universe
-> ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
-> ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
+> ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 > 
 > ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 > ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
@@ -89,7 +89,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 ##### 相对与绝对
 ↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
-↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ##### 地球，太阳系，银河系，宇宙
@@ -641,7 +641,7 @@ or（情感，逻辑）X （认识，实践）
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
 #### 群体（社会）发展的路径 /方法
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-> - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 对群体来说，宇宙中可直接利用的资源是有限的，因此，对群体来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
 - 资源获取的发展目标是资源的补充（资源利用）
@@ -662,7 +662,7 @@ or（情感，逻辑）X （认识，实践）
 	- ↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 ##### 发展动力（原理）
 ###### 劳动，生产，经济
-↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 
@@ -705,7 +705,7 @@ or（情感，逻辑）X （认识，实践）
 				- 党和国家坚持和完善社会主义基本经济制度，毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展；党和国家保证各种所有制经济依法平等使用生产要素、公平参与市场竞争、同等受到法律保护，促进各种所有制经济优势互补、共同发展，促进非公有制经济健康发展和非公有制经济人士健康成长。（[习近平：坚持和落实“两个毫不动摇”](https://www.gov.cn/yaowen/liebiao/202503/content_7013697.htm) -- 2025年2月17日在民营企业座谈会上的讲话）
 			- 按劳分配为主体、多种分配方式并存
 ###### 人民群众是历史的创造者
-↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
+↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
 ##### 线索1：科技，人才，创新，与改革 ⏫

@@ -80,13 +80,16 @@ A prominent figure of this period was Augustine of Hippo, one of the most import
 ![](../../../../Assets/Pics/Pasted%20image%2020251206204025.png)
 
 
-### Analytic Philosophy
-
-
 ### Continental Philosophy
+↗ [Continental Philosophy](../../Modern%20Philosophy/Continental%20Philosophy/Continental%20Philosophy.md)
 
 
 ### Pragmatism
+↗ [Pragmatism](../../Modern%20Philosophy/Pragmatism/Pragmatism.md)
+
+
+### Analytic Philosophy
+↗ [Analytic Philosophy](../../Modern%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
 
 
 

@@ -1,4 +1,4 @@
-# Existentialists
+# Continental Philosophy
 
 [TOC]
 

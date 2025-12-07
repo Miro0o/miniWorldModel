@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Marxism & Communism](../../../../../../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](../../../../../../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [中国共产党思想体系](../../../../China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 

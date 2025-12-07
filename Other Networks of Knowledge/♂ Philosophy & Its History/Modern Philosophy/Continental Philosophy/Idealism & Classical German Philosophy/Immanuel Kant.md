@@ -1,4 +1,4 @@
-# Post-analytic Philosophy
+# Immanuel Kant
 
 [TOC]
 

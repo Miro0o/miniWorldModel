@@ -9,6 +9,8 @@
 ↗ [China 🇨🇳](Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
 ↗ [United States 🇺🇸](Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
+↗ [Political Philosophy](../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Political%20Philosophy.md)
+
 
 
 ## Intro

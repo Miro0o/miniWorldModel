@@ -1,4 +1,4 @@
-# Post-structuralists
+# Claude Lévi-Strauss
 
 [TOC]
 
