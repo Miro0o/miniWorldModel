@@ -1,4 +1,4 @@
-# Union of Soviet Socialist Republics (USSR)
+# Soviet Union (USSR, CCCP)
 
 [TOC]
 

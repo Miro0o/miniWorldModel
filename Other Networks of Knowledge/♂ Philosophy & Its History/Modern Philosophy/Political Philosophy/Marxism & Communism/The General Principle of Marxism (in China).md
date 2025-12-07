@@ -26,8 +26,6 @@
 
 
 ## Intro
-> ↗ [The General Principle of Marxism (in China)](The%20General%20Principle%20of%20Marxism%20(in%20China).md)
-
 马克思主义基本原理是对马克思主义立场观点方法的集中概括，是马克思主义在其形成、发展和运用过程中经过实践反复检验而确立起来的具有普遍真理性的理论。它体现马克思主义的根本性质和整体特征，体现马克思主义科学性和革命性的统一。相对于特定历史条件下所作的个别理论判断和具体结论，马克思主义基本原理具有普遍的、根本的和长远的指导意义。
 
 我们可以从基本立场、基本观点、基本方法的有机统一中，来学习和把握马克思主义基本原理。
@@ -51,6 +49,7 @@
 
 ## 社会主义的发展及其规律
 ↗ [Universe, Self-Awareness, and Intelligence](../../../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+
 
 > 这一部分我并不十分赞同马克思主义哲学的观点。
 > 

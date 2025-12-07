@@ -62,6 +62,9 @@ https://ytliu0.github.io/ChineseCalendar/index_simp.html
 https://culturepedia.chinadaily.com.cn/#/homePage
 中华文化英文知识库
 
+https://youtu.be/q5TSmPlXkrY?si=YZxaFt5alR83obsm
+周孝正：中国社会问题分析（完整版）
+
 
 
 ## Intro

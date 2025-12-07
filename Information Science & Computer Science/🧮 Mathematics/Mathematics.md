@@ -10,7 +10,7 @@
 - ↗ [Philosophy of Mathematics](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Mathematics.md)
 - ↗ [Philosophy of Science](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 ↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
-- ↗ [Music Theory](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music%20Theory/Music%20Theory.md)
+- ↗ [Music Theory](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/🎶%20Music/Music%20Theory/Music%20Theory.md)
 ↗ [Natural Science & Engineering & Technology](../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 

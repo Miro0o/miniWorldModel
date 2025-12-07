@@ -7,8 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [The General Principle of Marxism (in China)](The%20General%20Principle%20of%20Marxism%20(in%20China).md)
-↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党 (Communist Party of China)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- ↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+
 ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+↗ [Marxism–Leninism](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
 
 
 ### Other Resources
@@ -20,6 +23,9 @@ https://www.marxists.org/chinese/index.html
 
 http://45.32.41.3/
 无产阶级图书馆
+
+【《 人 类 高 质 量 思 政 课 》】 https://www.bilibili.com/video/BV1Gh411i7Tt/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+《中国马克思主义与当代》是博士阶段公共必修，是大学的“最后一门”思政课 视频来自我2025年秋季学期的现场授课，地点是上海交通大学东上院
 
 
 
@@ -47,6 +53,14 @@ http://45.32.41.3/
 马克思主义具有鲜明的科学性、人民性、实践性、发展性，这些特征体现了马克思主义的本质和使命，也展现出马克思主义的理论形象。
 
 马克思主义主要包括马克思主义哲学、马克思主义政治经济学和科学社会主义三个组成部分。
+
+马克思主义是世界观与方法论的统一：🎬 [《中国马克思主义与当代》- 上海交通大学](https://www.bilibili.com/video/BV1YHS1BzEps/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
+- 战略思维能力
+- 历史思维能力
+- 辩证思维能力
+- 创新思维能力
+- 法律思维能力
+- 底线思维能力
 
 
 ### Marxist Philosophy
@@ -126,16 +140,56 @@ http://45.32.41.3/
 
 
 ## Intro: Communism
+> 🔗 https://en.wikipedia.org/wiki/Communism
 
+Communism (from Latin communis 'common, universal')[1][2] is a political and economic ideology whose goal is the creation of a communist society, a socioeconomic order centered on common ownership of the means of production, distribution, and exchange that allocates products in society based on need.[3][4][5] A communist society entails the absence of private property and social classes,[1] and ultimately money[6] and the state.[7][8][9] Communism is a part of the broader socialist movement.[1]
+
+Communists often seek a voluntary state of self-governance but disagree on the means to this end. This reflects a distinction between a libertarian socialist approach of communization, revolutionary spontaneity, and workers' self-management, and an authoritarian socialist, vanguardist, or party-driven approach to establish a socialist state, which is expected to wither away.[10] Communist parties have been described as radical left or far-left.[11][12][note 1]
+
+There are many variants of communism, such as anarchist communism, Marxist schools of thought (including Leninism and its offshoots), and religious communism. These ideologies share the analysis that the current order of society stems from the capitalist economic system and mode of production; they believe that there are two major social classes under capitalism, that the relationship between them is exploitative, and that it can only be resolved through social revolution.[20][note 2] The two classes under capitalism are the proletariat (working class), who make up most of the population and sell their labor power to survive, and the bourgeoisie (owning class), a minority that derives profit from employing the proletariat through private ownership of the means of production.[20] Some variants additionally emphasize feudal classes, such as the peasantry and feudal lords, or other classes. According to this, a communist revolution would put the working class in power,[22] and establish common ownership of property, the primary element in the transformation of society towards a socialist mode of production.[23][24][25]
+
+Communism in its modern form grew out of the socialist movement in 19th-century Europe that argued capitalism caused the misery of urban factory workers.[1] In 1848, Karl Marx and Friedrich Engels offered a new definition of communism in The Communist Manifesto. In the 20th century, Communist governments espousing Marxism–Leninism came to power,[26][note 3] first in the Soviet Union with the 1917 Russian Revolution, then in Eastern Europe, Asia, and other regions after World War II.[32] By the 1920s, communism had become one of the two dominant types of socialism in the world, the other being social democracy.[33]
+
+For much of the 20th century, more than one third of the world's population lived under Communist governments. These were characterized by one-party rule, rejection of private property and capitalism, state control of economic activity and mass media, restrictions on freedom of religion, and suppression of opposition. With the dissolution of the Soviet Union in 1991, many governments abolished Communist rule.[1][34][35] Only a few nominally Communist governments remain, such as China,[36] Cuba, Laos, North Korea,[note 4] and Vietnam.[43] Except North Korea, these have allowed more economic competition while maintaining one-party rule.[1] Communism's decline has been attributed to economic inefficiency and to authoritarianism and bureaucracy within Communist governments.[1][43][44] (Who said communism is decline ??)
+
+While the emergence of the Soviet Union as the first nominally Marxist-Leninist state led to socialism's association with the Soviet economic model, several scholars argue that in practice this model functioned as a form of state capitalism.[45][46] Public memory of 20th-century Marxist-Leninist states has been described as a battleground between anti-communism and anti anti-communism.[47] Authors have written about mass killings under communist regimes and mortality rates,[note 5][note 6] which remain controversial, polarized, and debated topics in academia, historiography, and politics when discussing communism and the legacy of Marxist-Leninist states.[65][page needed][66][page needed] From the 1990s, many Communist parties adopted democratic principles and came to share power with others in government, such as the CPN UML and the Nepal Communist Party, which support People's Multiparty Democracy in Nepal.
+
+
+### Difference Between Marxism, Socialism, and Communism
+> 🔗 https://www.reddit.com/r/Socialism_101/comments/17u8rm1/comment/k923sdp/?tl=zh-hans&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+马克思主义指的是马克思、恩格斯等人最先综合提出，后来被列宁等人完善和更新的理论路线。另一分支则由于冈萨罗（不好意思，不记得怎么拼他的名字了）的综合和进一步更新而分裂出来。无论你认同哪个理论分支，马克思的综合和理论仍然是所有分支的基础，因此被称为马克思主义。马克思主义指的是专门的理论，如果只说马克思主义，那么很可能仅仅指的是马克思、恩格斯等人的理论，没有进一步的综合，但情况也可能并非总是如此。
+
+共产主义有几个定义。第一个定义与马克思主义相同（在马克思时代，马克思主义和共产主义这两个术语基本上是可以互换的），但更容易指代任何派别的理论。它也可以指社会的一个理论结论，在这种社会中，由于内部矛盾等等，国家和货币等都将消亡，现在不用担心这个。
+
+社会主义是一种经济意识形态，主张集体所有制高于私有制，还有其他一些想法。
+
+例如，苏联主要由共产党领导，该党特别拥有一条马克思列宁主义的理论路线（马克思主义由列宁完善，并由斯大林综合）。苏联也有一个社会主义经济。
+
+---
+马克思主义是，嗯，马克思（还有恩格斯）的政治和社会经济思想。它使用辩证唯物主义和历史唯物主义来理解和解释世界，并侧重于资本主义和后资本主义社会。它使用这种唯物主义来解释世界历史如何被视为阶级斗争的历史，以及物质条件和现实塑造了人与社会，而不是相反。它借鉴了更早的哲学家黑格尔，甚至还有一点达尔文。它与更早的“乌托邦社会主义者”如夏尔·傅立叶、亨利·德·圣西门和罗伯特·欧文有所不同。因此，马克思主义也被称为科学社会主义，以将其与乌托邦主义者区分开来。然后，马克思主义又被细分为正统马克思主义，以及许多、许多基于马克思主义或其变体的不同流派，例如马克思列宁主义、毛泽东思想、马克思列宁毛泽东主义（是的，它们是不同的）、托洛茨基主义等等。
+
+在马克思主义理论中，社会主义是资本主义和共产主义之间的过渡阶段，其主要特征是生产资料的集体所有制、废除私有财产（与个人财产不同）和废除雇佣劳动。共产主义者和社会主义者主张的不仅仅是_仅仅_这些，但总的来说，这是基线。在马克思主义理论中，社会主义也被称为“共产主义的低级阶段”，但它是可以互换的。
+
+共产主义，也被称为“共产主义的高级阶段”，到目前为止，只被理论化为可能（请注意，“理论化”和理论并不表示它们未经证实）。共产主义的特征是废除阶级、货币和国家，至少在我们目前理解国家的意义上是这样。这并不一定意味着某种形式的组织，它将促进和组织社会和大规模生产，不可能存在。但它不会是一个通过武力和其他国家经常采取的手段来强制其政治和意志于人民的机构。这也意味着国家本身的阶级性质将不复存在，这意味着这些机构也不需要存在，因为国家的存在是阶级统治的工具，以强制一个阶级统治另一个阶级。我建议阅读列宁的《国家与革命》，以便更好地理解国家、社会主义、共产主义以及从资本主义向共产主义的过渡。
 
 
 ### Countries With Communism As State Ideology
 ↗ [China 🇨🇳](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+- ↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 ↗ [North Korea 🇰🇵](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
-↗ [Workers' Party of Korea (조선로동당)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
-↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+- ↗ [Workers' Party of Korea (조선로동당)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
+- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+
+↗ [Vietnam 🇻🇳](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Vietnam%20🇻🇳/Vietnam%20🇻🇳.md)
+
+↗ [Laos 🇱🇦](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Laos%20🇱🇦.md)
+
+↗ [Cuba 🇨🇺](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/Cuba%20🇨🇺.md)
+
+↗ [Soviet Union (USSR, CCCP)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
+- ↗ [КПСС (Коммунистическая партия Советского Союза)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
 
 
 
