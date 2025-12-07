@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy of Law (Jurisprudence)](../../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Law%20(Jurisprudence)/Philosophy%20of%20Law%20(Jurisprudence).md)
+↗ [Philosophy of Law (Jurisprudence)](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Law%20(Jurisprudence)/Philosophy%20of%20Law%20(Jurisprudence).md)
 ↗ [World's Law History](../📜%20World's%20Human%20History%20Overview/World's%20Law%20History/World's%20Law%20History.md)
 
 ↗ [Laws & Regulations in Electronic & Information Fields](../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields.md)
-↗ [Global Religions](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+↗ [Global Religions](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
 ↗ [中国法律](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国法律/中国法律.md)
 ↗ [U.S. Law System](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Law%20System/U.S.%20Law%20System.md)

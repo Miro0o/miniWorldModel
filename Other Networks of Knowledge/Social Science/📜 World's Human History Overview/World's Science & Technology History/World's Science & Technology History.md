@@ -6,8 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy](../../../♂%20Philosophy/Philosophy.md)
-↗ [History of Philosophy](../../../♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
+↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [Natural Science & Engineering & Technology](../../../Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)

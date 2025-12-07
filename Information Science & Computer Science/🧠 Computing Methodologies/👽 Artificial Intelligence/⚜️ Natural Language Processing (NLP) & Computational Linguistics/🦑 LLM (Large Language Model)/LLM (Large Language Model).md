@@ -21,7 +21,8 @@ LLM & Academics 🧑‍🎓
 - ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
-↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20LLM.md)
+↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
 ↗ [XAI (AI Explainable & Interpretable)](../../🌁%20XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
 
 
@@ -235,6 +236,9 @@ I follow the 35 year journey that led to the explosion of Large Language Models.
 https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
 
 👍 https://huggingface.co/spaces/Eliahu/Model-Atlas
+
+https://www.anthropic.com/research/estimating-productivity-gains
+Estimating AI productivity gains from Claude conversations
 
 
 

@@ -7,10 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
-↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/System/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
 ↗ [Security Related Conferences & Events](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Related%20Conferences%20&%20Events.md)
 
-↗ [Research Topics in Cybersecurity](../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20&%20Areas/Research%20Topics%20in%20Cybersecurity.md)
+↗ [Research Topics in Cybersecurity](../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
 
 
 ### Learning Resources
@@ -338,7 +338,7 @@ https://book.hacktricks.wiki/en/index.html
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/System/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ---

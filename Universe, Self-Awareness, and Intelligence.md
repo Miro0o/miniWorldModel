@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
-- ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
+↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+- ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -60,12 +60,12 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ## My Cognitive Model of The Universe
-> ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
-> ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
+> ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 > 
 > ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
 > ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-> ↗ [History of Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
+> ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
 > ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md#汉与汉族)
 > 维天有汉，鉴亦有光
@@ -89,7 +89,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 ##### 相对与绝对
 ↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
-↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ##### 地球，太阳系，银河系，宇宙
@@ -132,10 +132,12 @@ From the same principles, I now demonstrate the frame of the System of the World
 - 深度学习中的"神经网络"模型：
 	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
-	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-	- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
+		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+		- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - 佛教思想中的“缘起”：
-	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88
 	- 缘起偈，又称缘生偈、缘生法颂、法身偈、法身缘起偈、法身舍利偈、法颂舍利。佛教伽陀，相传由释迦牟尼所作，总结了缘起法教义。伽陀的内容，经典上有各种不同的译法：
 		- 《五分律》：“我师所说：法从缘生，亦从缘灭。一切诸法，空无有主。”
@@ -146,21 +148,42 @@ From the same principles, I now demonstrate the frame of the System of the World
 
 虽然被用在了不同的语境，且在这些语境下被给予了不同的名称，但所有这些名称实际上描述了同一件事情：信息的运动就是信息的相互联系。自然地，我们用 $A\to B$ 这种形式来描述信息的这种联系或运动。这是因为，运动就是在一个单位时间中由状态A变为状态B。
 
-由于信息就是宇宙在人类（自我意识）中的投影，信息就是人类视角下的宇宙，所以，从这种层面上我们可以说==信息的运动模型，$A\to B$，就是（人类可认知的）宇宙的模型。宇宙中的一切（被人类所认知的）事物都可以用$A\to B$ 的形式来表示==。语言也是如此：（Subject $\overset{predicate}{\to}$ Object）。
+由于信息就是宇宙在人类（自我意识）中的投影，信息就是人类视角下的宇宙，所以，从这种层面上我们可以说==信息的运动模型，$A\to B$，就是（人类可认知的）宇宙的模型。宇宙中的一切（被人类所认知的）事物都可以用$A\to B$ 的形式来表示==。更进一步，我们将这种变化用C来表示，那么我们就有如下宇宙模型（或称为，人类认知下的宇宙模型 /宇宙的信息模型）：$$A\overset{C}{\to}B$$
+信息是我们（自我意识，主体，人类）认识宇宙的唯一媒介。我们只可以观测宇宙，但这种观测不是宇宙本身。(观测的宇宙和实际的宇宙的关系是什么？比如，这种观测是否”准确“？稍后会谈到人类的逻辑与科学)
 
-在具体例子中，我们总发现在不同场合、不同语境下，人类往往给予这种运动不同的名称：逻辑，计算，缘分，等等。下图是对此的一些举例，请注意不同举例中 “->” 所对应的特定语境下的名称：
+在宇宙的信息模型基础上，我们使用语言将这种信息符号化：（Subject $\overset{\text{predicate verb}}{\to}$ Object）。这样，有了语言（或者说符号系统），我们就可以对信息进行处理，让信息从“静止”到“运动”。
+
+前面提到，在不同场景、不同语境下，人类往往给予这种运动不同的名称：思考，逻辑，计算，缘分，理性，等等。有了符号系统之后，信息运动就可以被描述和记录。当我们不断进行这种信息的运动，或者说我们不断进行思考，计算，等等，所产生的这种信息轨迹，$A\overset{f_1}{\to}B\overset{f_2}{\to}C\overset{f_3}{\to}D..$，它们构成一个图（graph）。这就是知识。我们可以使用符号系统把知识记录保存下来，这样知识就在人类中代际传承。
+- 我自认为我的表示是客观、准确、简洁的。一些不那么准确简洁、但是想要试图表达同样意思的语句可能听起来像这样：思考产生了知识；知识就是信息的相互联系；语言是思考的工具；等等。在我学习的过程中我也常常看到这样的表达。这些表达虽然具有深刻的内涵，但是他们不够准确，直接，全面，不同语境下的表述也不统一，而且总是零散地出现在各种语境中，对初学者非常具有迷惑性，容易误导。
+
+下图是对此的一些举例，请注意不同举例中 “->” 所对应的特定语境下的名称：
 
 ![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
-在上面的举例中，第一个例子比较特殊：在集合论中，数学家用一个有序数对(A, B)来同义地表达 $A \to B$。因为 $A \to B$ 实际上可以被理解为元素A和元素B的次序关系（A,B）。 有序数对的表示当然更简洁优雅；不过后者更方便代入到任何一个其他领域。
+在上面的举例中，第一个例子比较特殊：在集合论中，数学家用一个有序数对(A, B)来同义地表达 $A \to B$。因为 $A \to B$ 实际上可以被理解为元素A和元素B的次序关系（A,B）。对于$A\overset{C}{\to}B$，也可以使用一个序列$ACB$来表示。这些表示方法是等价的。有序数对的表示当然更简洁优雅；不过$A \overset{C}{\to} B$的形式显然更容易直接兼容到任何一个其他领域。
 
-我们把事物之间的一个联系作为一个单位，对这个单位再进行联系，我们就得到了联系的联系，即“规律”，或者说“知识”。之前说过，知识就是信息的组织。现在可以看出，这种联系的联系就是所谓的组织。
-- 信息的组织就是知识 <=> 信息的联系的联系就是知识，这两个命题是等价的。
-- （是否可以说，信息的运动的联系，就是知识/规律；信息的联系的运动，就是知识/规律？🤔）
-###### 个体自我意识下的情感与逻辑
+总结：宇宙的存在=宇宙的运动，运动可以由形如 $A\overset{C}{\to} B$ 来刻画。故，宇宙（一切事物）也可以由该模型来刻画。信息的某种特定运动轨迹，就是知识。在实际中，这种知识刻画，或者说自我意识对宇宙的反映（思考），分为三个方面：自我意识对自我的反映，自我意识对非我的反映，及自我意识对自我和非我间关系的反映。即，这三个方面就是：情感，逻辑，时间。基于情感的知识和基于逻辑的知识分别对应人文艺术，及科学（自然科学+社会科学）。时间是情感和逻辑的起源/基石/主体。
+- 逻辑就是，自我意识对宇宙中非我（客观宇宙）的思考。不仅如此，我们希望这些思考和结论是对客观宇宙的“准确”反映。但是，观测宇宙是否等于实际宇宙（客观宇宙）这个问题本身对人类来说就是不可判定的，因为人类的思考来源于自我意识，这是信息维度；自我意识永远只限制在信息维度，不可能进入到实际物理宇宙中。不过虽然如此，我们还是可以通过思考和实践来试图让观测宇宙逼近实际宇宙。
+	- 一种逼近方法就是，我们在对宇宙进行观测和思考后，再使用实验来对其进行验证。这种方法就是科学。用这种方法得到的知识，就是科学知识。有了科学，我们再反过来重新定义“准确”的含义：通过实验得到的可重复验证的知识就是准确的知识 -- 所谓“实践是检验真理的唯一标准（这是邓小平提出的反对“两个凡是”的观点）”。虽然这种偷换概念的自我欺骗并没有真的解决观测宇宙和实际宇宙的不可判定难题，但是科学仍给了我们强有力的工具去逼近观测宇宙（人类认为的宇宙）和实际客观宇宙。在很多语境下（包括马克思主义），人们习惯于直接默认这种逼近就是相等，即：通过科学，我们完全地将客观宇宙映射到观测宇宙；通过科学，我们可以认识宇宙中的任何事物。但是我认为，这是不准确的。（当然这是在信息世界中，在思维中，人可以选择相信一个信念并将自己的整个思想基于它。一个人相信上帝，那么在它的思维世界中上帝就真的存在；一个人相信科学，那么在它的思维世界中宇宙就真的是可以被完全理解的。这又回到了唯心主义。）
+	- 当然你可以不相信科学，并对“准确”有另外的定义，甚至可以再基于此认为人类永远无法准确地认识宇宙（不可知论）。这完全仅仅取决于你对“准确”这个词的定义而已。
+	- 我想表达的就是，宇宙中从来不存在什么“真理” -- 没有永恒不变的事物，观测宇宙也永远不等于实际宇宙。这是因为，如上所述，观测宇宙是否等于实际宇宙这个问题永远无法判定。科学与否，这只是我们的想法，是观测宇宙，是提出的一种判定“观测宇宙是否等于实际宇宙”的暂行方法和被大多数人接受的思想。我们通过对“准确”进行不同的定义，可以得到截然不同的结论：人类可以准确地认识宇宙，人类无法准确地认识宇宙。所以，永远要认识到人类自身思维是有局限的，要永远保持怀疑精神。就算是所谓科学，所谓真理，也是被不断推翻并重建的。
+- 情感就是，自我意识对“自我”的思考。一旦涉及到自我意识对“自我”的思考，我们就拥有了更多的“准确”的概念和定义，这又反过来让事情看起来像是我们无法“准确”地认识自我。这是因为，这一次，准确不再是像刚才那样不可判定，而是准确变得有无数种判定方法。有一个自我，就有一种判定方法。
+	- 一个有趣的推论：人对宇宙中一切事物的爱（或一切情感），比如自然，音乐，绘画，恋人，好友，父母，子女，抑或是罪犯对犯罪行为的喜爱，都源于对自己的爱（对自己的思考）。这是因为人的情感就是人对自我的思考。正因如此，我们常常会看到类似“自私是人的本性”之类的论断。另外一些例子，就像是父亲将未竟的梦想寄希望儿子，寻找伴侣希望对方和自己相似或互补，等等。我们说，我爱你，实际上也在说，你让我更爱我。
+- 从时间来说，它既涉及自我，也涉及非我。人对宇宙中一切的思考，都可以追溯到对时间的思考。对时间的思考是逻辑和情感的叠加。
+###### 自我意识下的信息与时间
+自我意识和信息是等价的。（我思故我在）
+自我意识的产生，源于/基于对宇宙/时空（自我意识对自己 + 自我意识对非自己）的反映，即自我与非我的关系的反映，即自我意识对时间的反映。换句话说，人类一切的思考活动，都源于/基于对时间的反映/思考。
+- 一切思考活动都基于此，比如秦始皇思考长生不老，牛顿思考地心引力，莫奈思考睡莲，希特勒思考闪击波兰，特朗普思考关税战，我思考晚饭吃什么。
+
+在对时间的思考中，一个基本的思考就是对时间周期的思考。这个时间周期可以是生命的周期（新生，死亡，繁衍），年龄的周期（童年，少年，青年，中年，老年），生活境遇的周期（上学时期，工作时期； 高中时期，大学时期；恋爱时期，分手时期；），等等。
+- 周期的特点就是，周期具有开始，结束，低落，高潮。一个例子就是数学中最基本的周期函数 - 三角函数。我们关注三角函数一些类似的的性质，比如相位，波峰，波谷，波长，等等。类比到现实生活中，也有如人的生死，好友的相识与离别，国家的兴起与衰败，等等。
+	- 夜深忽梦少年事，梦啼妆泪红阑干。这就是对时间周期的思考。从对时间的思考出发，又可以看到逻辑和情感。
+
+在各种周期之中，生命周期又是一个最基本的问题。对生命的思考，就是自我意识对自我与宇宙的关系的最直接的思考。从对自我生命的思考出发，又进一步发展出对社会其他人生命的思考，及自我生命与他人生命之间的关系的思考。
+- 所谓的 ”存在的意义“的思考，其实就是这里说的对生命的思考，对自我与宇宙的关系的思考，对时间的思考。这又是一个经常出现在我们日常生活中的一个碎片化的结论，现在我把他拼回这个知识结构体系中。
+###### 自我意识下的情感与逻辑
 （情感，逻辑）X （思考，行动）
 or（情感，逻辑）X （认识，实践）
-###### 个体自我意识下的信息与时间
 ##### 个体自我意识的组织：群体与社会
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 社会的形成
@@ -221,13 +244,15 @@ or（情感，逻辑）X （认识，实践）
 - 经济能力，具有资源获取、资源使用的能力
 	- 资源使用就是资源规划，要考虑个人欲望、个人能力、外界资源三种因素。
 ###### 与生俱来的天性
-
+自我意识对自我的思考
+- 贪婪
+- 自私
 ###### 社会能力及习得
-
-###### 欺骗能力及习得
-
-###### 经济能力及习得
-
+自我意识对非我的思考（社会与自然）
+- 欺骗能力及习得
+- 经济能力及习得
+- 自我适应、融入社会的能力及习得
+	- 社会关系
 ##### 主体（自我意识）间的交互：社会关系
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 ###### 性与爱
@@ -258,10 +283,11 @@ or（情感，逻辑）X （认识，实践）
 
 由上述方法来划分社会的构成，可以对应地得出如下权力的几个方面：
 - 政治权力
+	- 军事权力
 - 经济权力
 - 科技权力
 - 文化权力
-所以，每当需要讨论权力的时候，都可以考虑从这四个权力的维度进行思考，这样就不容易有遗漏。
+所以，每当需要讨论权力的时候，都可以考虑从这些权力的维度进行思考，这样就不容易有遗漏。
 
 下节关于人类社会存在（即人类社会发展）的讨论将指出，人类社会发展围绕两个主题：资源的获取与使用。
 - 围绕资源的获取，归纳为两种：权力斗争与科技发展。
@@ -283,10 +309,8 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 ###### 人（人类社会）与自然的关系
 和谐共生
-#### 从信息到知识：知识是有组织的信息
+#### 信息 -> 符号和语言 -> 思考与计算
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 
 信息的分类
 - 抽象的信息和具体的信息
@@ -302,7 +326,18 @@ or（情感，逻辑）X （认识，实践）
 前文提到，信息就是人的自我意识，是人的思维。没有自我意识，就没有思维，就没有信息。因此，信息本是抽象的，主观的，只存在于人的脑海中。但是，信息可以通过映射的方式来与物理世界进行对应，这样信息，或人的思维，就可以以客观的形式存在于物理世界。人将自己的思维向物理世界投射，再将物理世界的投射在脑中重现思维，这个过程就是信息的编码与解码。
 
 信息的符号化是一种重要的投射方式，这是一种基于文本的投射。根据人类的生物能力的不同，还可以有其他形式/媒介的投射。这些形式或媒介下的信息投射，称为信息的模态。
-###### 符号系统及语言系统
+###### 符号系统及语言系统 ⭐
+↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+↗ [Philosophy of Mathematics](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Mathematics.md)
+
+↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+- ↗ [Linguistics](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+
+↗ [Natural Language Processing (NLP) & Computational Linguistics](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
 符号系统就是信息向物理世界的文本投射。
 
 > “符号”意义的扩充：非文本对象具有文本符号相同的信息性质，即非文本对象可以拥有一个对应的信息集。例如，“日”这个汉字，是一个文本符号，对应太阳；爱马仕是一个品牌（非文本对象），对应社会身份、地位。
@@ -312,9 +347,11 @@ or（情感，逻辑）X （认识，实践）
 语言系统就是信息向物理世界的统一化的投射。
 - 考虑这样一个场景：物理世界存在的太阳被人感知：视觉（很刺眼，不能直接看；在天上），听觉（没有声音），嗅觉（没有气味），味觉（没有味道），感觉（温度很高）。这样的感知矩阵的一个结果，我们将其和一个符号对应联系起来，这个符号可以在物理世界中被表示出来；我们再将这个符号和一个声音联系起来，这个声音是可以通过人的身体构造发出。这样的符号和声音，将他们推广，我们就得到了（自然）语言。
 - 语言有什么作用呢？有了语言，信息就可以通过语言在物理世界进行储存和传输。但是，语言本身不允许信息进行计算：信息的计算仍然需要人的介入。不过，语言的存在极大增加了人的计算能力。
-	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们是很难思考到“女权主义”这种问题的。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，大脑很难在短时间内产生这样的想法。
-	- 人类使用的语言分成两类：自然语言和形式语言。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式语言，符合第二种情况。
+	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们很难进行“女权主义”这种层次的思考。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，大脑很难在短时间内产生这样的想法。
+	- 人类使用的语言分成两类：自然语言和形式(化的)语言\*（这里宽泛地谈论，不是严格数学意义上的形式语言）。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式化的语言，为了解决一类问题而创造出的具有特定使用场景、对象的高效符号工具。
 ###### 信息表达系统的多模态与多媒体
+↗ [Multimodal AI & MLLM](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+
 信息可以不只具有基于文本的模态，可以具有多种模态。一般来说，我们考虑的是那些在人类生物能力范围内的模态，比如最常见的视觉，听觉，触觉，等。文本是人类视觉能力下的信息表达模态。基于视觉的模态也是最广泛的信息模态的选择。
 ##### 信息的组织：知识 ⭐
 ↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
@@ -324,6 +361,8 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
 
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md) "transition system"
+
+参见上节“ 主体视角下的宇宙：物质，能量，信息 ⭐”
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
@@ -335,16 +374,31 @@ or（情感，逻辑）X （认识，实践）
 ###### 知识的分类
 - 基于情感的知识 vs 基于逻辑的知识
 	- 艺术文化知识 vs 科学知识（包括自然科学和社会科学）
-- 基于宏观宇宙视角的知识 vs 基于微观个体视角的知识
-- 关于人的知识 vs 关于自然（非人）的知识
-###### 科学和科学知识
-↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+- 关于人（个体）的知识 vs 关于人（群体）的知识 vs 关于自然（非人）的知识
+###### 科学与技术
+↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+- ↗ [(CS) Academics Roadmap & Tool Chain](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
-##### 信息运动的自动化：智能（狭义的智能）
+
+科学：用实验的方法检验信息，达到将观测宇宙（人对宇宙的认知）逼近实际客观宇宙的知识。这里的宇宙包括一切物质，可以以自我意识为视角，分为：（个体的人+群体的人+非人）
+科学知识：经过科学实验得到的信息/知识。
+科学研究：科学实验的过程。一般流程：提出问题，做出假设（提出解决问题的方法），设计实验，进行实验验证假设，实验结果分析，得出结论。
+科学技术：使用科学知识作为理论指导，进行的宇宙/自然的实践活动。
+###### 文化与艺术
+文化：一切与人有关的信息/知识。
+艺术：对文化进行提炼，进行的文化实践活动。
+##### 信息的运动：思考与自我意识
+参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
+##### 信息运动的自动化：计算机智能（狭义的智能）
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Digital (Logic) Electronics Foundations](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
@@ -371,10 +425,19 @@ or（情感，逻辑）X （认识，实践）
 	- 实践（改造自然）能力
 	- 社会关系的能力，即权力能力
 ###### 信号与信号处理
-
+↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
+↗ [Signal Process](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Process/Signal%20Process.md)
+↗ [DSP (Digital Signal Processor)](Information%20Science%20&%20Computer%20Science/Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
 ###### 语言，思维，信息运动，与智能
-↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
+↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 
+↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ###### 信息科学和信息处理：计算机与计算机语言
 语言本身只是一套符号系统，可以对信息进行传输和储存，但无法对信息进行计算。
 
@@ -578,7 +641,7 @@ or（情感，逻辑）X （认识，实践）
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
 #### 群体（社会）发展的路径 /方法
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-> - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 对群体来说，宇宙中可直接利用的资源是有限的，因此，对群体来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
 - 资源获取的发展目标是资源的补充（资源利用）
@@ -593,13 +656,13 @@ or（情感，逻辑）X （认识，实践）
 		- 科技：创造新的资源 ⏫
 		- 综合 ⏫ ⏩
 - 资源利用：资源在社会中如何利用，就是这个社会的样貌
-	- ↗ [Philosophy](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
 	- ↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 ##### 发展动力（原理）
 ###### 劳动，生产，经济
-↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 
@@ -642,7 +705,7 @@ or（情感，逻辑）X （认识，实践）
 				- 党和国家坚持和完善社会主义基本经济制度，毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展；党和国家保证各种所有制经济依法平等使用生产要素、公平参与市场竞争、同等受到法律保护，促进各种所有制经济优势互补、共同发展，促进非公有制经济健康发展和非公有制经济人士健康成长。（[习近平：坚持和落实“两个毫不动摇”](https://www.gov.cn/yaowen/liebiao/202503/content_7013697.htm) -- 2025年2月17日在民营企业座谈会上的讲话）
 			- 按劳分配为主体、多种分配方式并存
 ###### 人民群众是历史的创造者
-↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
+↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
 ##### 线索1：科技，人才，创新，与改革 ⏫

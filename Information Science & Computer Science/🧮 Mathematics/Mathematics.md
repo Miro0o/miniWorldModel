@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
-- ↗ [Philosophy of Mathematics](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Mathematics/Philosophy%20of%20Mathematics.md)
-- ↗ [Philosophy of Science](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
+↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+- ↗ [Philosophy of Mathematics](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Mathematics.md)
+- ↗ [Philosophy of Science](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 ↗ [Arts & Cultures](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
 - ↗ [Music Theory](../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Music/Music%20Theory/Music%20Theory.md)
 ↗ [Natural Science & Engineering & Technology](../../Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
@@ -202,7 +202,7 @@ There is still a [philosophical](https://en.wikipedia.org/wiki/Philosophy_of_ma
 #### Axiomatization of Mathematics & Axiomatic System ⭐
 > ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md) "formalization and formal system"
 > ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
-> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
@@ -276,7 +276,7 @@ After we have defined various objects and notions, we usually make **mathematica
 #### Finding Proofs
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 #### Types of Proofs
-> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
+> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 > 
@@ -292,7 +292,7 @@ After we have defined various objects and notions, we usually make **mathematica
 ##### Proof by Induction (归纳法)
 
 ##### Proof by Deduction (演绎法) ⭐
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 
 ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
@@ -318,7 +318,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
 ##### 0️⃣ Foundation of Mathematics and Philosophy
-↗ [Philosophy](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy.md)
+↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development /Foundational Crisis of Mathematics](Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 
@@ -539,7 +539,7 @@ Sometimes, a set is endowed with more than one feature simultaneously, which all
 
 
 
-## Exploring The Edge of Mathematics
+## Exploring The Frontier of Mathematics
 https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 List of unsolved problems in mathematics
 

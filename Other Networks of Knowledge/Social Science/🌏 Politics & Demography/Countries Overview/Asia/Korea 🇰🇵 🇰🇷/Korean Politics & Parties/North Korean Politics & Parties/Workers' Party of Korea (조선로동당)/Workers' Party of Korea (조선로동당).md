@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [中国共产党 (Communist Party of China)](../../../../China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
-↗ [Marxism & Communism](../../../../../../../../♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+↗ [Marxism & Communism](../../../../../../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 
 

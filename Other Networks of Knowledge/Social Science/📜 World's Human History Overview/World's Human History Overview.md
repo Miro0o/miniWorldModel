@@ -6,8 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
-↗ [History of Philosophy](../../♂%20Philosophy/🌌%20History%20of%20Philosophy/History%20of%20Philosophy.md)
+↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [中华文明历史概况](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
@@ -411,7 +410,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 ### Religion and Philosophy (宗教与哲学)
-> ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
+> ↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#%E6%96%87%E6%98%8E%E7%9A%84%E8%88%88%E8%B5%B7
 
@@ -422,8 +421,8 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 ## Major Global Ethnic Groups & Their Cultures
 > ↗ [Language & Literature](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
-> ↗ [Philosophy](../../♂%20Philosophy/Philosophy.md)
-> ↗ [Global Religions](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+> ↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> ↗ [Global Religions](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
 
 by status:
@@ -579,11 +578,11 @@ See also
 
 
 ### Major Religions & Languages of Different Ethnic Groups
-↗ [Global Religions](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
-- ↗ [Buddhism (Buddha Dharma)](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
-- ↗ [Christianity](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
-- ↗ [Islam](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
-- ↗ [Vedism (Brahmanism) & Hinduism](../../♂%20Philosophy/Philosophy%20by%20Chronology/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
+↗ [Global Religions](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+- ↗ [Buddhism (Buddha Dharma)](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+- ↗ [Christianity](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
+- ↗ [Islam](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
+- ↗ [Vedism (Brahmanism) & Hinduism](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 - ↗ [Learning English the Right Way](../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)

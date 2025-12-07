@@ -52,9 +52,19 @@ The essence of static code analysis:
 
 The theory of abstract interpretation provides a solid mathematical foundation for what it means for an analysis to be sound, ==by relating the analysis specification to the formal semantics of the programming language==. Another use of abstract interpretation is for understanding whether an analysis design, or a part of an analysis design, is as precise as possible relative to a choice of analysis lattice and where imprecision may arise. The fundamental ideas of abstract interpretation were introduced by Cousot and Cousot in the 1970s [CC76, CC77, CC79b].
 
+> 🔗 https://en.wikipedia.org/wiki/Abstract_interpretation
+
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), **abstract interpretation** is a theory of [sound approximation](https://en.wikipedia.org/wiki/Soundness "Soundness") of the [semantics of computer programs](https://en.wikipedia.org/wiki/Semantics_of_programming_languages "Semantics of programming languages"), based on [monotonic functions](https://en.wikipedia.org/wiki/Monotonic_function#Monotonicity_in_order_theory "Monotonic function") over [ordered sets](https://en.wikipedia.org/wiki/Ordered_set "Ordered set"), especially [lattices](https://en.wikipedia.org/wiki/Lattice_\(order\) "Lattice (order)"). It can be viewed as a partial [execution](https://en.wikipedia.org/wiki/Execution_\(computers\) "Execution (computers)") of a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") which gains information about its semantics (e.g., [control-flow](https://en.wikipedia.org/wiki/Control-flow_analysis "Control-flow analysis"), [data-flow](https://en.wikipedia.org/wiki/Data-flow_analysis "Data-flow analysis")) without performing all the [calculations](https://en.wikipedia.org/wiki/Calculation "Calculation").
+
+Its main concrete application is formal [static analysis](https://en.wikipedia.org/wiki/Static_code_analysis "Static code analysis"), the automatic extraction of information about the possible executions of computer programs; such analyses have two main usages:
+- inside [compilers](https://en.wikipedia.org/wiki/Compiler "Compiler"), to analyse programs to decide whether certain [optimizations](https://en.wikipedia.org/wiki/Optimization_\(computer_science\) "Optimization (computer science)") or [transformations](https://en.wikipedia.org/wiki/Program_transformation "Program transformation") are applicable;
+- for [debugging](https://en.wikipedia.org/wiki/Debugging "Debugging") or even the certification of programs against classes of bugs.
+
+Abstract interpretation was formalized by the French computer scientist working couple [Patrick Cousot](https://en.wikipedia.org/wiki/Patrick_Cousot "Patrick Cousot") and [Radhia Cousot](https://en.wikipedia.org/wiki/Radhia_Cousot "Radhia Cousot") in the late 1970s.
 
 
-## 🎯 Program Analysis Abstraction & Interpretation- In Mathematics
+
+## 🎯 Program Analysis Abstraction & Interpretation - In Mathematics
 ### Prerequisite 👨🏼‍🍼
 #### Posets & Lattice
 > Prerequisite or background knowledge 🤔

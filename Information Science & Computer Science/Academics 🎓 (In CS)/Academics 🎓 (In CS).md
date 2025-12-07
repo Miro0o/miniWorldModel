@@ -87,6 +87,7 @@ AI
 ↗ [FAQ - Academia and Research](FAQ%20-%20Academia%20and%20Research.md)
 ↗ [给各位天命人的劝退信](Appendix/给各位天命人的劝退信.md)
 
+↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
 

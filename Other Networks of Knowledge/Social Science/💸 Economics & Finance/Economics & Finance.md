@@ -212,7 +212,7 @@ Economic theories divide economic sectors further into [economic industries](ht
 
 
 ### Production and Capital/ Cap (生产与资本)
-> ↗ [Marxism & Communism](../../♂%20Philosophy/Philosophy%20by%20Chronology/Modern%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> ↗ [Marxism & Communism](../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/👮‍♂️%20Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Capital_(economics)
 

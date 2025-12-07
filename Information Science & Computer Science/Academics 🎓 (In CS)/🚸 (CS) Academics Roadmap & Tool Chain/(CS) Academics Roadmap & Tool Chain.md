@@ -370,6 +370,9 @@ https://www.cnkivip.net/
 
 ## 4️⃣ Submission & Review & Revise
 ### Call for Papers
+↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+
+
 🔗 https://people.engr.tamu.edu/guofei/links.htm
 Call for Paper Lists
 - Security: [Cipher Calls For Papers by IEEE TCSP](http://www.ieee-security.org/CFP/Cipher-Call-for-Papers.html) , [Cryptography and security related conferences by Mihir Bellare at UCSD](http://www-cse.ucsd.edu/users/mihir/confs.html) , [IACR Calendar of Events in Cryptology](http://www.iacr.org/events/)
@@ -379,8 +382,8 @@ Call for Paper Lists
 
 
 ### Conferences & Journals /中国大陆学术论文分区
-> ↗ [Academic Conference & Journals in IT Fields](../🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
-> ↗ [Security Related Conferences & Journals](../🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/System/Security%20Related%20Conferences%20&%20Journals.md)
+> ↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+> ↗ [Security Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
 
 https://www.myhuiban.com/
 Conference Partner
@@ -392,6 +395,7 @@ OpenResearch aims at making the **descriptive metadata on conferences and othe
 
 ### Paper Review & Revise
 https://openreview.net
+https://openreview.net/about
 OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following:
 - Open Peer Review
 - Open Publishing

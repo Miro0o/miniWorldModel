@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) (logic of natural languages and formal languages)
-↗ [Analytic Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Contemporary%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
-↗ [Philosophy of Language](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Language/Philosophy%20of%20Language.md)
+↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md) (logic of natural languages and formal languages)
+↗ [Analytic Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
+↗ [Philosophy of Language](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Linguistics](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
@@ -83,7 +83,8 @@ https://planet.haskell.org/
 
 
 ## Intro
-> ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Mathematical Logic Basics (Formal Logic)](📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 > 🔗 https://en.wikipedia.org/wiki/Logic
 
 > **数理逻辑**（英語：Mathematical logic）是[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")的一个分支，其研究对象是对[证明](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E "数学证明")和[计算](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97 "计算")这两个直观概念进行符号化以后的[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")。数理逻辑是[数学基础](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80 "数学基础")的一个不可缺少的组成部分。主要的子研究领域有[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")，[证明论](https://zh.wikipedia.org/wiki/%E8%AF%81%E6%98%8E%E8%AE%BA "证明论")，[集合论](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AE%BA "集合论")和[可计算性理论](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7%E7%90%86%E8%AE%BA "可计算性理论")。

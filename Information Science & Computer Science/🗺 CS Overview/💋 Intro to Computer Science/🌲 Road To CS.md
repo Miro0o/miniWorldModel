@@ -149,7 +149,7 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 ### Academia (研)
 > ↗ [Intro to Computer Science /The Domain Knowledge of CS](Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Academic Conference & Journals in IT Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
+> ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012
@@ -692,7 +692,7 @@ Hence, for people wants to do the real study, they need a way to get around this
 ### 2️⃣ CS Specific Fields / CS Applications
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Academic Conference & Journals in IT Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
+> ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -822,7 +822,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [Academic Conference & Journals in IT Fields](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Conference%20&%20Journals%20in%20IT%20Fields/Academic%20Conference%20&%20Journals%20in%20IT%20Fields.md)
+- ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
 - ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)

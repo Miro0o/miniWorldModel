@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy of Science](../♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
+↗ [Philosophy of Science](../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
 ↗ [World's Science & Technology History](../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Logic (and Critical Thinking)](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-↗ [Analytic Philosophy](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Chronology/Contemporary%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
+↗ [Logic (and Critical Thinking)](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Analytic Philosophy](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
 
 ↗ [Logic And Mechanized (Formal) Reasoning](../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 
@@ -17,7 +17,7 @@
 
 ## Intro
 ### Logic and Logical Reasoning
-↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy/Philosophy%20by%20Disciplines%20&%20Topics/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
+↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
 
 Among various methods of logical reasoning, deductive reasoning is deemed to be the best. Among various methods of deductive reasoning, classical logic (standard formal logic) lays the foundation of all other methods of deductions. 
 
