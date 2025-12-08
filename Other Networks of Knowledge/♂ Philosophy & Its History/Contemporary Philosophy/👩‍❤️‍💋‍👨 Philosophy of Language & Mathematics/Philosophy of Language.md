@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [Analytic Philosophy](../../Modern%20Philosophy/Analytic%20Philosophy/Analytic%20Philosophy.md)
 - ↗ [Ordinary Language Philosophy](../../Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ordinary%20Language%20Philosophy.md)
+- ↗ [Ludwig Wittgenstein](../../Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ludwig%20Wittgenstein.md)
 
 ↗ [Logic (and Critical Thinking)](../../Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
@@ -17,7 +18,6 @@
 
 
 ### Other Resources
-https://en.wikipedia.org/wiki/Ludwig_Wittgenstein
 
 
 

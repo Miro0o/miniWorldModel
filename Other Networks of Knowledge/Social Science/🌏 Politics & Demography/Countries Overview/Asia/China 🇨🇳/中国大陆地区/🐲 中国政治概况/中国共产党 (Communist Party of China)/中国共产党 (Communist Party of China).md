@@ -10,6 +10,8 @@
 
 
 ### 相关外部链接
+↗ [新中国史（中华人民共和国时期）](../../../中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+
 ↗ [Workers' Party of Korea (조선로동당)](../../../../Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
 ↗ [Marxism & Communism](../../../../../../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
