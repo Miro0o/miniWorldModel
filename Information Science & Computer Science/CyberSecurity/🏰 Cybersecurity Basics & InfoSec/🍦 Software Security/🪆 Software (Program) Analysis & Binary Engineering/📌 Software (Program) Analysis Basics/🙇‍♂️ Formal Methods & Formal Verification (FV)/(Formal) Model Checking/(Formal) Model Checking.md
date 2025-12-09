@@ -284,6 +284,48 @@ The formal definition can be rephrased as follows. Labelled state transition sys
 In other words, a labelled state transition system is a [coalgebra](https://en.wikipedia.org/wiki/F-coalgebra "F-coalgebra") for the functor $P(\Lambda \times {-})$
 
 In [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking"), a transition system is sometimes defined to include an additional labeling function for the states as well, resulting in a notion that encompasses that of [Kripke structure](https://en.wikipedia.org/wiki/Kripke_structure "Kripke structure").
+
+
+**Forward and backwards reachability**
+We sometimes need to talk about how states can reach each other.
+The set of direct successors of a state s is defined as
+𝑃𝑜𝑠𝑡(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠 𝛼→𝑠′}
+Similarly, we can define the direct predecessors of a state s as
+𝑃𝑟𝑒(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠′ 𝛼→𝑠}
+The above definitions can be lifted to sets of states A.
+𝑃𝑜𝑠𝑡(𝐴) =
+. . .
+𝑃𝑟𝑒(𝐴) =
+. . .
+Successors/predecessors in any number of transitions can be defined likewise.
+On a related note, one is typically interested in the part of a transition system that is
+reachable from the initial state(s).
+
+
+**Non-deterministic & Deterministic Transition System**
+A transition system is action-deterministic iff
+(1) There is no more than 1 initial state
+|𝐼| ≤ 1
+(2) For every state s and every action a, there is only one outgoing transition from s
+labelled with a.
+|{𝑠′ ∣ 𝑠 𝑎→𝑠′}| ≤ 1
+
+
+**Terminal States**
+A state is a terminal state if it has no outgoing transition.
+We can write this formally in several ways: a state s is terminal iff
+¬∃𝑠′
+. 𝑠 → 𝑠′
+𝑃𝑜𝑠𝑡(𝑠) = ∅
+Terminal states usually represent final states (the system finished doing its job)
+…or deadlock states (the system is stuck).
+
+**Transition systems with no terminals**
+From now on we consider w.l.o.g. transition systems with no terminal states.
+If you have a terminal state, just add a self-loop.
+If you are interested in marking the state as “terminal” and distinguish it from proper self-loops, just add as special label to it.
+
+
 ####  Kripke Structure (of Transition System)
 > 🔗 https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
 
@@ -322,8 +364,68 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 > ↗ [Graph Basics](../../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 
 ##### Execution & Trace
+**Execution**
+An execution fragment is a sequence of transitions.
+𝑐𝑙𝑖𝑐𝑘
+𝑠0 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠0 →
+…
+An execution is finite/infinite if the sequence is finite/infinite.
+𝑐𝑙𝑖𝑐𝑘
+𝑠0 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+𝑠0 𝑐𝑙𝑖𝑐𝑘
+(𝑠0 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+)𝜔
+An execution is initial if the first state of the sequence is in I.
+𝑐𝑙𝑖𝑐𝑘
+𝑠0 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+𝑠0 → ⋯
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠0 →
+𝑐𝑙𝑖𝑐𝑘
+𝑠1 →
+…
+An execution is maximal if it cannot be extended: either it is finite
+and the last state is a terminal state, or it is infinite.
 
+NOTE: by our assumption of “no terminal state”, only the second case applies.
+NOTE: often, we drop the arrows.
+
+
+**Trace**
+Executions may contain too much information, i.e. actual states.
+Often, one is interested in the atomic properties of states.
+Replacing every state in an execution by its atomic properties yields a trace.
+
+We may even drop the transitions and their actions.
 ##### Computational Tree
+Executions and traces can be seen as the system running with a fixed scheduler.
+They are not appropriate if we want to see how the system makes choices.
+Computation trees can save the day!
+A computation tree is a tree whose nodes are states of a TS (or their atomic propositions).
+The successor of each state in the computation tree is the immediate successor of the state as it appears in the TS.
+A computation tree is the unfolding of the transition system.
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-12-08%20at%2012.19.55.png)
+#### Composing Transition System
+##### Interleaving Composition of Transition Systems
+
+##### Synchronised Composition of Transition Systems
+
+##### State Space Explosion
+In general, the size of the interleaving of n transition systems of m states each is $m^n$
+Synchronizations may reduce the size composition but the worstcase is still exponential in the number of components.
 
 
 ### Automata-Based Models
@@ -405,6 +507,16 @@ These models are used to analyze multi-agent systems where multiple independent 
 - ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
 	- ↗ [Linear Temporal Logic (LTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
 	- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+#### Semantics of Property Language over Transition System
+↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+- ↗ [Linear Temporal Logic (LTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
+- ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+We say that a transition system satisfies a formula if all its initial states satisfy the formula:
+T ⊧ ϕ iﬀ ∀s ∈ I . s ⊧ ϕ
+or, equivalently
+T ⊧ ϕ iﬀ I ⊆ sat(ϕ)
+A state satisfies a formula if all paths starting from s satisfy the formula
+s ⊧ ϕ iﬀ ∀π ∈ Paths(s) . π ⊧ ϕ
 
 
 ### Properties
