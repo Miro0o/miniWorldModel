@@ -23,7 +23,7 @@ https://oi-wiki.org/dp/
 ### Quick Introduction to Dynamic Programming (DP)
 > 🔗 https://cp-algorithms.com/dynamic_programming/intro-to-dp.html
 
-The essence of dynamic programming is to avoid repeated calculation with **memoization**. That's read "memoization" (like we are writing in a memo pad) not memorization.
+==The essence of dynamic programming is to avoid repeated calculation with **memoization**.== That's read "memoization" (like we are writing in a memo pad) not memorization.
 - Often, dynamic programming problems are naturally solvable by recursion. In such cases, it's easiest to write the recursive solution, then save repeated states in a lookup table. This process is known as **top-down dynamic programming with memoization**. 
 - However, besides top-down DP we can also solve problems with **bottom-up dynamic programming**. Bottom-up is exactly the opposite of top-down, you start at the bottom (base cases of the recursion), and extend it to more and more values.
 

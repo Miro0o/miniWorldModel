@@ -14,7 +14,7 @@
 ↗ [Software Quality Assurance (SQA)](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
 
 ↗ [Probabilistic Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 
 ↗ [Mathematical Logic Basics (Formal Logic)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - ↗ [Classical Logic (Standard Logic)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
@@ -247,157 +247,25 @@ Model checking. Model checking originates from the independent work of two pairs
 
 
 ### (Symbolic) Transition Systems
-> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-> - programs are transition systems
-> - hardware circuits are transition systems
-> - communication processes are transition systems
-> - etc.
-
-> 🔗 https://en.wikipedia.org/wiki/Transition_system
-
-In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **transition system** is a concept used in the study of [computation](https://en.wikipedia.org/wiki/Computation "Computation"). It is used to describe the potential behavior of [discrete systems](https://en.wikipedia.org/wiki/Discrete_system "Discrete system"). It consists of [states](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") and transitions between states, which may be labeled with labels chosen from a set; the same label may appear on more than one transition. If the label set is a [singleton](https://en.wikipedia.org/wiki/Singleton_\(mathematics\) "Singleton (mathematics)"), the system is essentially unlabeled, and a simpler definition that omits the labels is possible.
-
-Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this article) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
-- The set of states is not necessarily finite, or even countable.
-- The set of transitions is not necessarily finite, or even countable.
-- No "start" state or "final" states are given.
-
-Transition systems can be represented as **directed graphs**.
-
----
-**Formal Definition of Transition System**
-
-Formally, a **transition system** is a pair $(S,T)$ where $S$ is a set of states and $T$, the _transition relation_, is a subset of $S\times S$. We say that there is a transition from state $p$ to state $q$ if $(p,q)\in T$, and denote it $p\to q$.
-
-A **labelled transition system** is a tuple $(S,\Lambda,T)$ where $S$ is a set of states, $\Lambda$ is a set of labels, and $T$, the _labelled transition relation_, is a subset of $S\times\Lambda\times S$. We say that there is a transition from state $p$ to state $q$ with label $\alpha \iff (p,\alpha ,q)\in T$ and denote it $p\xrightarrow {\alpha } q$.
-
-Labels can represent different things depending on the language of interest. Typical uses of labels include representing input expected, conditions that must be true to trigger the transition, or actions performed during the transition. Labelled transitions systems were originally introduced as _named_ transition systems.
+↗ [Theory of Computation /(Symbolic) Transition System ⭐](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#(Symbolic)%20Transition%20System%20⭐)
 
 
-**Special cases**
-- If, for any given $p$ and $\alpha$, there exists only a single tuple $(p,α,q)$ in $T$, then one says that α![{\displaystyle \alpha }](https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3) is ==deterministic (for $p$)==.
-- If, for any given $p$ and $\alpha$, there exists at least one tuple $(p,\alpha,q)$ in $T$, then one says that $\alpha$ is ==executable (for $p$)==.
+**Semantics of Transition System**
+- execution
+- trace
+- computational tree
 
 
-**Coalgebra Formulation**
-The formal definition can be rephrased as follows. Labelled state transition systems on $S$ with labels from $\Lambda$ correspond [one-to-one](https://en.wikipedia.org/wiki/Bijection "Bijection") with functions $S\to P(\Lambda\times S)$, where $P$ is the (covariant) [powerset functor](https://en.wikipedia.org/wiki/Power_set "Power set"). Under this bijection $(S,\Lambda,T)$ is sent to $\xi _{T}:S\to {\mathcal {P}}(\Lambda \times S)$, defined by $$p\mapsto \{\,(\alpha ,q)\in \Lambda \times S\mid p\xrightarrow {\alpha } q\,\}$$
-In other words, a labelled state transition system is a [coalgebra](https://en.wikipedia.org/wiki/F-coalgebra "F-coalgebra") for the functor $P(\Lambda \times {-})$
-
-In [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking"), a transition system is sometimes defined to include an additional labeling function for the states as well, resulting in a notion that encompasses that of [Kripke structure](https://en.wikipedia.org/wiki/Kripke_structure "Kripke structure").
-
-
-**Forward and backwards reachability**
-We sometimes need to talk about how states can reach each other.
-The set of direct successors of a state s is defined as
-𝑃𝑜𝑠𝑡(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠 𝛼→𝑠′}
-Similarly, we can define the direct predecessors of a state s as
-𝑃𝑟𝑒(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠′ 𝛼→𝑠}
-The above definitions can be lifted to sets of states A.
-𝑃𝑜𝑠𝑡(𝐴) =
-. . .
-𝑃𝑟𝑒(𝐴) =
-. . .
-Successors/predecessors in any number of transitions can be defined likewise.
-On a related note, one is typically interested in the part of a transition system that is
-reachable from the initial state(s).
-
-
-**Non-deterministic & Deterministic Transition System**
-A transition system is action-deterministic iff
-(1) There is no more than 1 initial state
-|𝐼| ≤ 1
-(2) For every state s and every action a, there is only one outgoing transition from s
-labelled with a.
-|{𝑠′ ∣ 𝑠 𝑎→𝑠′}| ≤ 1
-
-
-**Terminal States**
-A state is a terminal state if it has no outgoing transition.
-We can write this formally in several ways: a state s is terminal iff
-¬∃𝑠′
-. 𝑠 → 𝑠′
-𝑃𝑜𝑠𝑡(𝑠) = ∅
-Terminal states usually represent final states (the system finished doing its job)
-…or deadlock states (the system is stuck).
-
-**Transition systems with no terminals**
-From now on we consider w.l.o.g. transition systems with no terminal states.
-If you have a terminal state, just add a self-loop.
-If you are interested in marking the state as “terminal” and distinguish it from proper self-loops, just add as special label to it.
-
-
-####  Kripke Structure (of Transition System)
-> 🔗 https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
-
-A **Kripke structure** is a variation of the [transition system](https://en.wikipedia.org/wiki/Transition_system "Transition system"), originally proposed by [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke "Saul Kripke"), used in [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking") to represent the behavior of a system. It consists of a [graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\) "Graph (discrete mathematics)") whose nodes represent the reachable states of the system and whose edges represent state transitions, together with a labelling function which maps each node to a set of properties that hold in the corresponding state. [Temporal logics](https://en.wikipedia.org/wiki/Temporal_logic "Temporal logic") are traditionally interpreted in terms of Kripke structures.
-
----
-**Formal Definition of Kripke Structure**
-
-A transition system (of Kripke Structure) $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
-- $S$ is a set of states,
-- $Act$ is a set of actions,
-- $\to \subseteq S \times Act \times S$ is a transition relation,
-	-  or use $\delta$ to express $\to$
-- $I \subseteq S$ is a set of initial states,
-	- $\sigma\in I$
-	- or, when using $\tau$ or $\pi$ to symbol a trace on $TS$, $\tau_0 = \sigma \in I$ or $\pi_0=\sigma\in I$
-- $AP$ is a set of atomic propositions, 
-- $L$: $S→AP^2$ is a labeling function.
-
-$TS$ is called **finite** if $S$, $Act$, and $AP$ are **finite**.
-
-It is important to realize that in case a state has more than one outgoing transition, the
-“next” transition is chosen in a purely **nondeterministic** fashion. That is, the outcome of
-this selection process is not known a priori, and, hence, no statement can be made about the likelihood with which a certain transition is selected. Similarly, when the set of initial states consists of more than one state, the start state is selected nondeterministically.
-
-For convenience, we write $s \xrightarrow[]{\alpha}s'$ instead of $(s,α,s') \in \to$.
-
-The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions to any state $s$. $L(s)$ intuitively stands for exactly those atomic propositions $a \in AP$ which are satisfied by state $s$. Given that $Φ$ is a propositional logic formula, then $s$ satisfies the formula $Φ$ if the evaluation induced by $L(s)$ makes the formula Φ true; that is: $s \models \Phi \iff L(s) \models \Phi$.
-
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.33.15.png)
-<small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.34.43.png)
-<small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
-
-#### Semantics of Transition System
-> ↗ [Graph Basics](../../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-
-##### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
-𝑐𝑙𝑖𝑐𝑘
-𝑠0 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠0 →
-…
+$s_0\overset{click}{\to}s_1\overset{click}{\to}s_2...$
+
 An execution is finite/infinite if the sequence is finite/infinite.
-𝑐𝑙𝑖𝑐𝑘
-𝑠0 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-𝑠0 𝑐𝑙𝑖𝑐𝑘
-(𝑠0 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-)𝜔
+$s_0\overset{click}{\to}s_1 \text{ or }(s_2\overset{click}{\to}s_2)^w$
+
 An execution is initial if the first state of the sequence is in I.
-𝑐𝑙𝑖𝑐𝑘
-𝑠0 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-𝑠0 → ⋯
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠0 →
-𝑐𝑙𝑖𝑐𝑘
-𝑠1 →
-…
-An execution is maximal if it cannot be extended: either it is finite
-and the last state is a terminal state, or it is infinite.
+
+An execution is maximal if it cannot be extended: either it is finite and the last state is a terminal state, or it is infinite.
 
 NOTE: by our assumption of “no terminal state”, only the second case applies.
 NOTE: often, we drop the arrows.
@@ -405,27 +273,23 @@ NOTE: often, we drop the arrows.
 
 **Trace**
 Executions may contain too much information, i.e. actual states.
-Often, one is interested in the atomic properties of states.
+Often, one is interested in the **atomic properties** of states.
 Replacing every state in an execution by its atomic properties yields a trace.
 
 We may even drop the transitions and their actions.
-##### Computational Tree
+
+
+**Computational Tree**
 Executions and traces can be seen as the system running with a fixed scheduler.
 They are not appropriate if we want to see how the system makes choices.
 Computation trees can save the day!
-A computation tree is a tree whose nodes are states of a TS (or their atomic propositions).
+
+**A computation tree is a tree whose nodes are states of a TS (or their atomic propositions).**
+
 The successor of each state in the computation tree is the immediate successor of the state as it appears in the TS.
 A computation tree is the unfolding of the transition system.
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-12-08%20at%2012.19.55.png)
-#### Composing Transition System
-##### Interleaving Composition of Transition Systems
-
-##### Synchronised Composition of Transition Systems
-
-##### State Space Explosion
-In general, the size of the interleaving of n transition systems of m states each is $m^n$
-Synchronizations may reduce the size composition but the worstcase is still exponential in the number of components.
 
 
 ### Automata-Based Models
@@ -445,9 +309,9 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 ### Probabilistic Systems
 ↗ [Probabilistic Models & Stochastic Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md) & ↗ [Continuous-Time Markov Chains (CTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md) & ↗ [Continuous-Time Markov Chains (CTMC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
 - Markov decision processes (MDPs) and probabilistic automata (PAs)
-	- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+	- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 - probabilistic timed automata (PTAs)
 - partially observable MDPs and PTAs (POMDPs and POPTAs)
 - interval Markov chains and MDPs (IDTMCs and IMDPs)
@@ -511,12 +375,15 @@ These models are used to analyze multi-agent systems where multiple independent 
 ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
 - ↗ [Linear Temporal Logic (LTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Linear%20Temporal%20Logic%20(LTL).md)
 - ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+
+We define the satisfaction set of a formula as the set of states that satisfy the formula
+$$sat(ϕ) = {s ∣ s ⊧ ϕ}$$
 We say that a transition system satisfies a formula if all its initial states satisfy the formula:
-T ⊧ ϕ iﬀ ∀s ∈ I . s ⊧ ϕ
+$$T ⊧ ϕ \iff ∀s ∈ I . s ⊧ ϕ$$
 or, equivalently
-T ⊧ ϕ iﬀ I ⊆ sat(ϕ)
-A state satisfies a formula if all paths starting from s satisfy the formula
-s ⊧ ϕ iﬀ ∀π ∈ Paths(s) . π ⊧ ϕ
+$$T ⊧ ϕ \iff I ⊆ sat(ϕ)$$
+A state satisfies a formula if all paths starting from $s$ satisfy the formula
+$$s ⊧ ϕ \iff ∀π ∈ Paths(s) . π ⊧ ϕ$$
 
 
 ### Properties
@@ -545,7 +412,7 @@ Regular Properties
 
 ### Statistical Model Checking
 ↗ [Probabilities & Statistics](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
-↗ [Markov Process](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Process.md)
+↗ [Markov Process & Markov Chain (MC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 #### Random Variables for Trace Generation
 ↗ [Random (Stochastic) Variable & Probability Distribution](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution/Random%20(Stochastic)%20Variable%20&%20Probability%20Distribution.md)
 

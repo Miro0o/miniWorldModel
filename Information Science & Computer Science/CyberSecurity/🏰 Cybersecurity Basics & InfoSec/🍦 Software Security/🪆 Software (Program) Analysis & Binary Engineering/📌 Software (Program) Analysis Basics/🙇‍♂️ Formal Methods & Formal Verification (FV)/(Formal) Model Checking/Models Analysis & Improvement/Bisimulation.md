@@ -23,8 +23,7 @@
 > 🔗 https://en.wikipedia.org/wiki/Bisimulation
 
 
-
-### Bisimulation Equivalence & Bisimularity
+### Bisimulation Equivalence & Bisimilarity
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.00.43.png)
 #### Bisimulation Equivalence and Other Equivalence ...
 ##### 🆚 Trace Equivalence
@@ -56,7 +55,7 @@ In other words, R is an ↗ [Equivalence Relation](../../../../../../../../🧮%
 
 
 
-## Computing Bisimulation and Reducing Systems
+## Computing Bisimulation of Single TS and Reducing Systems
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.20.03.png)
 
 
@@ -111,11 +110,10 @@ Let $T = (S,→,I,AP,L)$ be a transition system (with no actions).
 Assume you have bisimulation $R$ (typically $~$) for $T$. You can now exploit $R$ to compute the **R-quotient** of $T$ as a new transition system $T/R = (S’,→,I’,AP,L’)$.
 
 The set of states S’ is the set of equivalence classes $$S' = S/R$$
-	The labelling function $L’$ just takes the label of any state in the equivalence class $$L' ([s]) = L(s)$$
+The labelling function $L’$ just takes the label of any state in the equivalence class $$L' ([s]) = L(s)$$
 Transitions are lifted to equivalence classes $$\frac{s \to s'}{[s]\to'[s]}$$
 The set of initial states is the set of equivalence classes with at least one initial state $$I'
 = \{[s] ∣ s' \in I \text{ and } s' \in [s]\}$$
-
 ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.44.42.png)
 
 

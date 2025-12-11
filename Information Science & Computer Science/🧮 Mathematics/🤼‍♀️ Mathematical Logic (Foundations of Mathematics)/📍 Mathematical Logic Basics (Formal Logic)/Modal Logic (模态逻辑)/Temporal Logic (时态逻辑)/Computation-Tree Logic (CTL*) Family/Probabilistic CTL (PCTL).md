@@ -7,13 +7,14 @@
 ## Res
 ### Related Topics
 ↗ [Probabilistic Models & Stochastic Process](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Process.md)
-- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
 ↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
-
-↗ [PRISM](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🤼%20Model%20Checker/PRISM.md)
+↗ [Branching Time Logic (Computation-Tree Logic, CTL)](Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 
 ↗ [Series (级数)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md) "geometric series"
+
+↗ [PRISM](../../../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/🤼%20Model%20Checker/PRISM.md)
 
 
 ### Other Resources
@@ -29,7 +30,11 @@ PCTL is a useful [logic](https://en.wikipedia.org/wiki/Logic "Logic") for stat
 
 
 ### Syntax of PCTL
+![](../../../../../../../Assets/Pics/Screenshot%202025-12-10%20at%2013.48.00.png)
+
 The syntax for PCTL state formulas is:$$\phi ::= true \ | \ p \ | \ \neg\phi \ | \ \phi_1\land\phi_2 \ | \ \mathbb{P}_J\{\psi\}  $$where $p$ is an atomic proposition, and $J \subseteq [0,1]$ is an interval, e.g. $J = [0.6, 1.0]$. $\mathbb{P}_J (𝜓)$ reads “the probability to satisfy $\psi$ lays in the interval $J$”
+- example of interval:
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-10%20at%2014.12.48.png)
 
 The (minimal) syntax for PCTL path formulas is: $$\psi ::= \bigcirc \phi ∣ \phi_1 \cup \phi_2 ∣ \phi_1 \cup^{\leq n} \phi_2$$
 where $n\in N$ is some natural number. Here we have the concept of bounded and unbounded choices of path. Bounded means we set a limit (bound) of steps allowed on the path, unbounded means there is no such limit.
@@ -37,7 +42,7 @@ where $n\in N$ is some natural number. Here we have the concept of bounded and u
 
 **Derived Operators**
 - We have different ways of writing the intervals: $\mathbb{P}_{\leq 0.5}(\phi) ≡ \mathbb{P}_{[0.0, 0.5]}(\phi)$
-- We can write formulæ about the “probability of state formulæ”: $\mathbb{P}_J (\phi) ≡ \mathbb{P}_J (𝑡𝑟𝑢𝑒 \cup^{\leq 0} \phi)$
+- We can write formulae about the “probability of state formulae”: $\mathbb{P}_J (\phi) ≡ \mathbb{P}_J (𝑡𝑟𝑢𝑒 \cup^{\leq 0} \phi)$
 - We can use the “eventually” (diamond) operator as usual: $\begin{aligned} & \Diamond\phi ≡ 𝑡𝑟𝑢𝑒 \cup \phi  \\ & \Diamond^{\leq𝑛}\phi ≡ 𝑡𝑟𝑢𝑒 \cup^{\leq n} \phi\end{aligned}$
 - We can also use the “globally” (box) operator, though with care ==(the duality of $\Box$ and $\Diamond$)==: $\mathbb{P}_{\leq p} (\Box\phi) ≡ \mathbb{P}_{\geq 1−𝑝}(\Diamond\neg\phi)$
 
@@ -57,10 +62,13 @@ $\mathbb{P}_{\leq0}(...)$ = almost never...
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.38.15.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.38.28.png)
 
+
+### Probability Measure Using Cylinder Sets
 The main new aspect is how to measure probabilities: $$s\models\mathbb{P} \iff Pr(\{\pi\in Paths(s) | \pi \models \psi\}) \in J$$ (we may write $Pr_s$ for an implicit “at state s”)
 
-We need to use the probability measure based on cylinder sets! (↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md))
 
+See ↗ [MC Algorithms For PCTL](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md) for algorithm solution (using recursion) of probability measure in PCTL. Below gives the probability measure based on cylinder sets (introduced in ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)).
+#### Next-Step Probability
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.43.07.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2022.43.19.png)
 #### Probabilistic Bounded Reachability
@@ -82,6 +90,7 @@ Note here the choices of cylinder sets must be (pair-wise) disjoint with each ot
 
 
 ### PCTL vs Other Properties 🤔 
+#### Probabilistic Unbounded Reachability vs Transient Distribution
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-24%20at%2023.20.26.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-11-07%20at%2010.31.01.png)
@@ -89,8 +98,7 @@ Note here the choices of cylinder sets must be (pair-wise) disjoint with each ot
 Transient distribution is a property of the MC (Markov Chain) system itself, while probabilistic (un)bounded reachability is an event described by the PCTL logic language. Hence, there are overlaps sometimes between the system itself and those properties. However, they are not the same thing.
 - For the property of the MC system itself, transient distribution, we are talking about each state at different time point. More specifically, the essence of Markov Chain is that each state only depends on its immediate predecessors, meaning in transient distribution, for each state, we only care about its immediate predecessors, while for other properties described by PCTL cases would be much more diverse and (potentially) complex.
 - For PCTL language, we are talking about paths and satisfiability (event). As time move forward, whether this event happened or not is our concern. This usually involves more context information, in contrast with transient distribution that only cares immediate predecessors.
-
----
+#### PCTL vs CTL
 ![](../../../../../../../Assets/Pics/Screenshot%202025-11-07%20at%2010.29.59.png)
 
 PCTL introduces probability, i.e. uncertainties (?). In CTL, we are always certain about a property, meaning whether it happens or not is deterministic (0 and 1). However, in PCTL those certainties (0 and 1) become possibilities in a range $[0, 1]$. 

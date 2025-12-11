@@ -79,7 +79,10 @@ If (1) and (2) hold, we can compute the limit precisely and independently of the
 Bottom Strongly Connected Components are SCCs without outgoing edges. In the long-term, the probability mass resides in the BSCCs. The initial distribution determines how much goes to each BSCC. Sometimes the entire DTMC forms one BSCC—it is then called **ergodic** or **irreducible**.
 
 
-### Reachability Probabilities (Prob. of Reaching Single State)
+### Reachability Probabilities
+#### Prob. of Reaching Single State
+$P_s=\Sigma_{t\in pre(s)} P_t\times Trans(t,s)$
+
 > Knuth, D. (1976). The complexity of nonuniform random number generation. _Algorithm and Complexity, New Directions and Results_.
 
 Simulating a 4-faced dice with a coin:
@@ -89,6 +92,9 @@ Simulating a 6-faced dice with a coin:
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2013.47.50.png)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2013.39.52.png)
+#### Prob. of Reaching Sets of Paths
+1. probability measures
+2. describe paths (events) in ↗ [Probabilistic CTL (PCTL)](../../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
 
 
 ### Probability Measures (Prob. of Reaching Sets of Paths)

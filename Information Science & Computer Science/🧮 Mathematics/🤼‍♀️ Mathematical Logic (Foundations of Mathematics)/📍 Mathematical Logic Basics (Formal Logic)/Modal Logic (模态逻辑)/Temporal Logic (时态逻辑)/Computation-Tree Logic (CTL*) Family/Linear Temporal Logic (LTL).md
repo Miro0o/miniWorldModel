@@ -27,9 +27,7 @@
 
 ### Semantics of LTL
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2020.15.10.png)
-
-
-### Laws of Operation
+#### Semantic Equivalence of LTL
 
 
 

@@ -422,9 +422,31 @@ In a sound system, we can only prove true things.
  In a complete system, we can prove all true things. 
 - if $\Phi$ is **true** given $\Sigma$
 	- $(\Sigma \models \Phi)$
-- then $\phi$ is provable given $\Sigma$
+- then $\Phi$ is provable given $\Sigma$
 	- $(\Sigma \vdash \Phi)$
 - i.e. $\Sigma \models \Phi \implies \Sigma \vdash \Phi$
+
+> The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
+> We list the truth value of these logic connectives to make things clearer:
+> 
+> $A\to B$ : (implication)
+> - if $A=1, B=0$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
+>
+> $A\implies B$ : (entailment)
+> - if $A\neq B$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
+> 
+> $A\vdash B$ (syntactic entailment)
+> - `A ⊢ B` does **not** have a truth value.  The symbol `⊢` is **not** a connective inside the logic (like ∧, ∨, →). It is a **meta-logical** symbol meaning: “B is derivable from A in some proof system.”
+> - This is a _relation between sentences and proofs_, not a proposition that can be true or false _inside_ the logic.
+> - You _can_ say informally that `A ⊢ B` is _true_ if there exists a syntactic proof of B from A, and _false_ if not—but that is a statement **outside** the logic, in the meta-theory.
+> 
+> $A\models B$ (semantic entailment)
+> - Same as `A ⊢ B`, it is **not a formula of the object language**.  It is a **meta-logical statement** about semantics, meaning "In every valuation (or model) where A is true, B is also true."
+> - Can it be “true” or “false”? 
+> 	- Yes—but only as a **meta-theoretical fact**, not as a truth value inside the logic.
+> 	- `A ⊨ B` is _true_ (in the meta-theory) if every model that satisfies A also satisfies B.
+> 	- It is _false_ if there exists at least one model where A is true and B is false.
+
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250908234809.png)
 

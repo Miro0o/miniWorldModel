@@ -85,11 +85,32 @@ Main differences:
 ### Expressive Power of CTL, LTL, and CTL*
 It can be shown that the three logics discussed in this section have different expressive powers. 
 
-For example, there is no CTL formula that is equivalent to the LTL formula $A(FG p)$ .
-Likewise, there is no LTL formula that is equivalent to the CTL formula $AG(EF p)$ .
-The disjunction $A(FGp)\lor AG(EFp)$ is a CTL* formula that is not expressible in either CTL or LTL.
-
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2022.14.33.png)
+
+Example 1:
+- For example, there is no CTL formula that is equivalent to the LTL formula $A(FG p)$ .
+- Likewise, there is no LTL formula that is equivalent to the CTL formula $AG(EF p)$ .
+- The disjunction $A(FGp)\lor AG(EFp)$ is a CTL* formula that is not expressible in either CTL or LTL.
+
+
+Example 2: CTL can distinguish more than LTL
+- ![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2022.38.42.png)
+- A simple CTL formula that distinguishes them is `AX ( EX c ∧ EX d )`
+	- Reason: evaluate at the initial state `a`.
+		- In **T₁** `a` has a single successor `b`, and at that `b` there exists a next state labelled `c` and there exists a next state labelled `d`. So `EX c ∧ EX d` holds at `b`, hence `AX(...)` holds at `a`. Therefore the formula is **true** in T₁.
+		- In **T₂** `a` has two different immediate successors (two different `b` states). One `b` has a `c`-successor but no `d`-successor, the other `b` has a `d`-successor but no `c`-successor. Thus for at least one immediate successor of `a` the conjunct `EX c ∧ EX d` is false, so `AX(...)` is **false** in T₂.
+	- So `AX(EX c ∧ EX d)` holds in T₁ but not in T₂, distinguishing the two systems.
+
+
+Example 3: LTL can distinguish more than CTL
+- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-09%20at%2019.16.01.png)
+- Are $\varphi \land G\varphi$ and $\varphi \land AG\varphi$ equivalent?
+- No. They are _not_ equivalent. They look similar, but they quantify in fundamentally different ways:
+	- In CTL: $AG \varphi$ means:  
+		- ==In _every_ path starting from the current state, at _every_ future state, $\varphi$ holds.==
+	- In LTL: $G\varphi$ means:  
+		- ==Along _the current path being evaluated_, $\varphi$ holds at every future position.==
+	- LTL never talks about _other_ possible futures.  CTL does.
 
 
 

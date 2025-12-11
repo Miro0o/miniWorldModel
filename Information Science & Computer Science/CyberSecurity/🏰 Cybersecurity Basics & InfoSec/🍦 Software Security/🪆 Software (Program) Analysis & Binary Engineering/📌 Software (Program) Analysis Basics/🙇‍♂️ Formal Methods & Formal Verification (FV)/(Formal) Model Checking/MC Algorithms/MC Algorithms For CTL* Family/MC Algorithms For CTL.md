@@ -76,7 +76,6 @@ We will see that for the first several case, implementation of $sat(\phi)$ is ea
 
 
 ### MC Algorithms For Basic Cases
-
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.31.29.png)
 
 Assume function $Post(s) = 2^s$ represent all the immediate successors of state $S$.
@@ -105,9 +104,8 @@ For the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi
 > ↗ [Lattice (Set Theory)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 #### EU
 ##### MC Algorithms For EF
-Expansion law for EF:
-- Before we see the algorithm or EU let us first look at the **simplest case** of EF.
-- Remember: $∃\Diamond\phi ≡ \exists true\cup\phi$
+Before we see the algorithm or EU let us first look at the **simplest case** of EF.
+Remember the expansion law for EF: $∃\Diamond\phi ≡ \exists true\cup\phi$
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.54.29.png)
 
@@ -196,6 +194,13 @@ Idea:
 - Every sat(…) algorithm uses polynomial time in the size of the transition system:
 	- Set operations used in the algorithms can be run in polynomial time.
 	- In sat(EG…), sat (E…U…) a state can only be once in the worklist W (once removed, it can’t be added)
+
+
+### Examples of Basic MC Algorithms
+![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.07.png)
+- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.20.png)
+- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.35.png)
+- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.53.png)
 
 
 

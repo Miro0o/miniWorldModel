@@ -9,9 +9,14 @@
 ↗ [Decision Making & Game Theory](../../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
 ↗ [Discrete-Time Markov Chains (DTMC)](../Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
 
+↗ [Probabilistic CTL (PCTL)](../../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
+
 
 ### Other Resources
 [FKNP11](https://www.prismmodelchecker.org/bibitem.php?key=FKNP11) (for MDPs)
+
+https://en.wikipedia.org/wiki/Monty_Hall_problem
+Monty Hall problem
 
 
 
@@ -39,29 +44,30 @@ such that:
 
 
 **Path in MDP**
-A path in an MDP is a sequence of states and actions
-s0, a0, s1, a1, …
-such that transitions can actually be followed
-P(si, ai, si+1) > 0
-As usual we can define the set of all paths
-Pathss = {s0, a0, s1, a1, … ∣ s = s0 ∧ ∀i ∈ ℕ . P(si, ai, si+1) > 0}
+A path in an MDP is a sequence of states and actions $$s_0, a_0, s_1, a_1, …$$
+such that transitions can actually be followed $$P(s_i, a_i, s_{i+1}) > 0$$
+As usual we can define the set of all paths $$Paths_s = \{s_0, a_0, s_1, a_1, … ∣ s = s_0 ∧ ∀ i ∈ ℕ . P(s_i, a_i, s_{i+1}) > 0\}$$
 A path mixes non-deterministic and probabilistic choices, how to measure
-probabilities of set of paths?
+probabilities of set of paths? with stategies.
 
 
 **Strategy in MDP**
-A memory-less strategy is a mapping of states into actions
-σ : S → Act
-Every strategy induces a DTMC!
-(S, Pσ, ι, AP, L) where Pσ(s, s′ ) = P(s, σ(s), s′ )
-We can then re-use al lot of the DTMC machinery (probability measures for paths,
-PCTL model checking, etc) for various purposes.
+A memory-less strategy is a mapping of states into actions $$σ : S → Act$$
+Every strategy induces a DTMC! $$(S, P^σ, ι, AP, L) \text{ where } P^σ(s, s′ ) = P(s, σ(s), s′ )$$
+We can then re-use al lot of the DTMC machinery (probability measures for paths, PCTL model checking, etc) for various purposes.
 For example, we can define the set of paths induced by a strategy
-Pathsσ s = {s0, a0, s1, a1, … ∣ s = s0 ∧ ∀i ∈ ℕ . P(si, ai, si+1) > 0 ∧ ai = σ(si)}
+$$Paths^σ_s = \{s_0, a_0, s_1, a_1, … ∣ s = s_0 ∧ ∀i ∈ ℕ . P(s_i, a_i, s_{i+1}) > 0 ∧ a_i = σ(s_i)\}$$
 And measure probabilities subsets of it
 
-NOTE: strategies can be history-based but we focus on memory less here for simplicity since they are
-enough for our purpose here, i.e. measuring max and min probabilities.
+NOTE: strategies can be history-based but we focus on memory less here for simplicity since they are enough for our purpose here, i.e. measuring max and min probabilities.
+
+
+**Measuring probabilities of paths**
+In an MDP it does not make sense to ask for the probability of arbitrary paths $$Pr_s({π ∈ Paths(s) ∣ π ⊧ ψ})?$$
+since we can’t measure probabilities in presence of non-determinism.
+But we can ask about the best/worst possible strategies
+$$min_{σ∈(S→Act)}{Pr_s({π ∈ Paths^σ(s) ∣ π ⊧ ψ})}?$$
+$$max_{σ∈(S→Act)}{Pr_s({π ∈ Paths^σ(s) ∣ π ⊧ ψ})}?$$
 
 
 ### Optimization Objective
@@ -94,22 +100,22 @@ PRISM Games supports PCTL model checking for TSGs (and more).
 > ↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
 
 **Measuring probabilities of paths**
-In an MDP it does not make sense to ask for the probability of arbitrary paths
-_Pr__s_({_π_ ∈ _Paths_(_s_) ∣ _π_ ⊧ _ψ_})?
+In an MDP it does not make sense to ask for the probability of arbitrary paths $$Pr_s({π ∈ Paths(s) ∣ π ⊧ ψ})?$$
 since we can’t measure probabilities in presence of non-determinism.
 But we can ask about the best/worst possible strategies
-_min__σ_∈(_S_→_Act_){_Pr__s_({_π_ ∈ _Paths__σ_(_s_) ∣ _π_ ⊧ _ψ_})}?
-_max__σ_∈(_S_→_Act_){_Pr__s_({_π_ ∈ _Paths__σ_(_s_) ∣ _π_ ⊧ _ψ_})}?
+$$min_{σ∈(S→Act)}{Pr_s({π ∈ Paths^σ(s) ∣ π ⊧ ψ})}?$$
+$$max_{σ∈(S→Act)}{Pr_s({π ∈ Paths^σ(s) ∣ π ⊧ ψ})}?$$
 
 
 **Probabilistic Reachability**
 How to compute min/max probabilities? There are too many strategies!
-namely…
-| Act ||S|
+namely : $| Act |^{|S|}$
 Fortunately, we can optimise locally, as we shall see.
 As for DTMCs, we just need to solve a system of equations :)
-#### Computing $P_{min_{s}}(◊B)$
-#### Computing $P_{max_{s}}(◊B)$
+
+
+**Computing $P_{min_{s}}(◊B)$ &  Computing $P_{max_{s}}(◊B)$**
+The most basic idea here is to compute all possible strategy and choose the min /max posibility.
 
 
 ### Linear Program
@@ -118,7 +124,7 @@ As for DTMCs, we just need to solve a system of equations :)
 ### Value Iteration
 
 
-### Policy Iteration
+### Policy /Strategy Iteration
 
 
 ### Modified Policy Iteration
@@ -128,9 +134,12 @@ As for DTMCs, we just need to solve a system of equations :)
 
 
 
+## Rewards in MDP
+
+
+
 ## MDP Extensions & Generalizations
 > 🔗 https://en.wikipedia.org/wiki/Markov_decision_process#Extensions_and_generalizations
-
 
 
 ## Ref

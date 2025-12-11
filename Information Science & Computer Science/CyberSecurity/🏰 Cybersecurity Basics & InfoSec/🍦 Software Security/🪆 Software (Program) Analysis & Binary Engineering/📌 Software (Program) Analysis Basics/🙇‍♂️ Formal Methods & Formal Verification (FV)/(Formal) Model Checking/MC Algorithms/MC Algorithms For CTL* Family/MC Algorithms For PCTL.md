@@ -9,7 +9,7 @@
 ↗ [Probabilistic CTL (PCTL)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
 ↗ [Linear Algebra](../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 
-↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 
 
 ### Other Resources
@@ -18,10 +18,11 @@
 
 ## Intro
 > ↗ [MC Algorithms For CTL](MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md)
+> ↗ [Probabilistic CTL (PCTL)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
 
 
 ### Global Algorithm & Basic Cases
-see ↗ [MC Algorithms For CTL](MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md)
+see ↗ [MC Algorithms For CTL /Global Model Checking Algorithm](MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md#Global%20Model%20Checking%20Algorithm)
 
 
 ### Model Checking $\mathbb{P}(X\phi)$
@@ -64,7 +65,7 @@ We can trivially perform such computation algorithmically.
 
 ## Parameter Synthesis
 Common (🤔) model checking problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
-Alternatively, does a given model $M$ partially satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
+Alternatively, does a given model $M$ **partially** satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
 For example, in PCTL, this translates to when $P(s,s')$ is partially known in computing $Pr_s(\Diamond B)$:
 $$\begin{aligned}& Pr_s(\Diamond B) = 1 & if(s\models B)\\
 & Pr_s(\Diamond B) = 0 & if(s\models\neg\exists\Diamond B)\\
@@ -76,12 +77,12 @@ $$\begin{aligned}& Pr_s(\Diamond B) = 1 & if(s\models B)\\
 
 
 ## Expectation and Rewards
-↗ [Markov Reward Model (MRM)](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process/Markov%20Reward%20Model%20(MRM).md)
+↗ [Markov Reward Model (MRM)](../../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Reward%20Model%20(MRM).md)
 
 > Cost/rewards in PRISM
 > - See https://www.prismmodelchecker.org/manual/ThePRISMLanguage/CostsAndRewards and: https://www.prismmodelchecker.org/manual/PropertySpecification/Reward-basedProperties
 > 
-> For a deeper treatment of cost/rewards in probabilistic systems you can check our textbook (principles of model checking) (section 10.6) or the references indicated in the PRISM manual.
+> For a deeper treatment of cost/rewards in probabilistic systems you can check our textbook (principles of model checking, section 10.6) or the references indicated in the PRISM manual.
 > For examples, you can check the PRISM models in the PRISM distribution under /prism-models/
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-11-21%20at%2008.52.32.png)

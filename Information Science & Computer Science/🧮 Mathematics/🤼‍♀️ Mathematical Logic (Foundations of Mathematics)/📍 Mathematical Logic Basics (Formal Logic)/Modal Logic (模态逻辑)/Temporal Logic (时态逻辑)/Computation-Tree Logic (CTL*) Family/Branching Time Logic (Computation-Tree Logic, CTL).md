@@ -36,7 +36,6 @@ Typical Patterns of Formulas:
 	- ∀ □ ∀◊p
 - “q is persistent”
 	- ∀◊ ∃ □ q
-
 #### Minimal Syntax/ Minimal Set of Operators of CTL
 We can get rid of “always” and “eventually” in CTL: 
 $$\begin{aligned} & \phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\psi ∣ \forall\psi \\
@@ -47,22 +46,23 @@ Alternatively, we can get rid of the universal quantifier: $$\begin{aligned} &\p
 or, only state formulas: $$\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$$
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2022.28.42.png)
 #### Witnesses and Counterexamples for CTL
-A **witness** for a formula of the form ∃_ψ_ is just a path satisfying _ψ_
+A **witness** for a formula of the form $∃ψ$ is just a path satisfying $ψ$
 
 A **counterexample** is unfortunately the entire computation tree :( 
-We have the dual situation with formulas of the form ∀_ψ_
+We have the dual situation with formulas of the form $∀ψ$
 
 
 ### Semantics of CTL
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2022.21.24.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2022.21.38.png)
 
-
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.54.04.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.53.29.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.54.20.png)
+
+> Please see example 3 in [Computation-Tree Logic (CTL*) Family /Expressive Power of CTL, LTL, and CTL*](Computation-Tree%20Logic%20(CTL*)%20Family.md#Expressive%20Power%20of%20CTL,%20LTL,%20and%20CTL*)
 #### Semantic Equivalences & Equations of CTL Formula ⭐
 > 🔗 https://en.wikipedia.org/wiki/Computation_tree_logic#Semantic_equivalences
 
@@ -145,8 +145,6 @@ There exist complete axiomatisations.
 
 ### Expressiveness of CTL
 ↗ [Computation-Tree Logic (CTL*) Family](Computation-Tree%20Logic%20(CTL*)%20Family.md)
-
-![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2022.38.42.png)
 
 
 

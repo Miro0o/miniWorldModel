@@ -112,7 +112,6 @@
 - ↗ [Program Abstraction & Abstract Interpretation /Intro](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Intro)
 
 ↗ [Theory of Computation /Models of Computation](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#Models%20of%20Computation)
-↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 - transition systems
 - semantics of transition systems:
 	- execution and traces
@@ -169,7 +168,6 @@ In natural deduction, we build up syntactic objects which represents the truth o
 - ↗ [Denotational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics.md)
 - ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
 
-
 **Operational Semantics**
 > ↗ [Operational Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Operational%20Semantics.md)
 
@@ -189,11 +187,12 @@ The _Natural Operational Semantics_ or _Big Step Semantics_, are describing r
 
 Big Step semantics have the benefit of being easier to read, however, it has some big disadvantages, namely: we cannot reason about programs that run forever, and we cannot turn big step semantics into a working implementation. In contrast, small step semantics are easy to convert into an interpreter, and we can always recover the big step semantics from the operational semantics by simply applying the single step semantics until the program terminates with a value: $$\frac{\psi\vdash (\sigma\to\overset{-}{\sigma}), \ \  \psi\vdash(\overset{-}{\sigma}\downarrow v)}{\psi\vdash(\sigma\downarrow v)}(step) \ \ \ \frac{\psi\vdash (\sigma\to v)}{\psi\vdash(\sigma\downarrow v)}(done)$$
 
- 
+
 **4. Transition System** (in Kripe Structure)
+(↗ [Theory of Computation /(Symbolic) Transition System ⭐](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md#(Symbolic)%20Transition%20System%20⭐))
+
 Using operational semantics, we can define the meaning of a program $P$ as a Transition System:
 
-(↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling))
 A transition system $TS$ is a tuple $(S,Act,\to,I,AP,L)$ where
 - $S$ is a set of states,
 - $Act$ is a set of actions,

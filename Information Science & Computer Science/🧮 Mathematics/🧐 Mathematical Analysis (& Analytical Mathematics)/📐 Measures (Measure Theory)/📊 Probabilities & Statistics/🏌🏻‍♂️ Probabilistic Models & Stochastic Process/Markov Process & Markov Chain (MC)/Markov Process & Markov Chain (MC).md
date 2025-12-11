@@ -1,4 +1,4 @@
-# Markov Process
+# Markov Process & Markov Chain (MC)
 
 [TOC]
 
@@ -44,13 +44,18 @@ https://doi.org/10.1016/j.scico.2015.08.009.
 
 > 🔗 https://en.wikipedia.org/wiki/Markov_chain
 
-==In probability theory and statistics, a **Markov chain** or **Markov process** is a [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process") describing a [sequence](https://en.wikipedia.org/wiki/Sequence "Sequence") of possible events in which the [probability](https://en.wikipedia.org/wiki/Probability "Probability") of each event depends only on the state attained in the previous event. Informally, this may be thought of as, "What happens next depends only on the state of affairs _now_."== 
+==In probability theory and statistics, a **Markov chain** or **Markov process** (strictly speaking they are not the same) is a [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process") describing a [sequence](https://en.wikipedia.org/wiki/Sequence "Sequence") of possible events in which the [probability](https://en.wikipedia.org/wiki/Probability "Probability") of each event depends only on the state attained in the previous event. Informally, this may be thought of as, "What happens next depends only on the state of affairs _now_."== 
 
 A [countably infinite](https://en.wikipedia.org/wiki/Countably_infinite "Countably infinite") sequence, in which the chain moves state at discrete time steps, gives a [discrete-time Markov chain](https://en.wikipedia.org/wiki/Discrete-time_Markov_chain "Discrete-time Markov chain") (DTMC). A [continuous-time](https://en.wikipedia.org/wiki/Continuous-time "Continuous-time") process is called a [continuous-time Markov chain](https://en.wikipedia.org/wiki/Continuous-time_Markov_chain "Continuous-time Markov chain") (CTMC). Markov processes are named in honor of the [Russian](https://en.wikipedia.org/wiki/Russia "Russia") mathematician [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov "Andrey Markov").
 
 Markov chains have many applications as [statistical models](https://en.wikipedia.org/wiki/Statistical_model "Statistical model") of real-world processes. They provide the basis for general stochastic simulation methods known as [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo "Markov chain Monte Carlo"), which are used for simulating sampling from complex [probability distributions](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution"), and have found application in areas including [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics "Bayesian statistics"), [biology](https://en.wikipedia.org/wiki/Biology "Biology"), [chemistry](https://en.wikipedia.org/wiki/Chemistry "Chemistry"), [economics](https://en.wikipedia.org/wiki/Economics "Economics"), [finance](https://en.wikipedia.org/wiki/Finance "Finance"), [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"), [physics](https://en.wikipedia.org/wiki/Physics "Physics"), [signal processing](https://en.wikipedia.org/wiki/Signal_processing "Signal processing"), and [speech processing](https://en.wikipedia.org/wiki/Speech_processing "Speech processing").
 
+
 **The adjectives _Markovian_ and _Markov_ are used to describe something that is related to a Markov process.**
+
+↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) "transition system"
+↗ [Discrete-Time Markov Chains (DTMC)](Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
+↗ [Continuous-Time Markov Chains (CTMC)](Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
 
 
 > ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
@@ -73,23 +78,29 @@ At the core of the Modest Toolset is the model of _networks of **stochastic hy
 ### Markov Process 🆚 Markov Chain (MC)
 #markov_process #markov_chain
 
-> 🤖 Google Gemini 2.5 
+> 🤖 Google Gemini 2.5 & ChatGPT 5.0
 
 The difference is best described by classifying stochastic processes based on time and state space:
 
-| **Term**                                | **Time (Index Set)**                                                                          | **State Space (Possible Values)**                                         |
-| --------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Markov Process**                      | **Continuous** (e.g., $t \in [0, \infty)$) or **Discrete** (e.g., $t \in \{0, 1, 2, \dots\}$) | **Continuous** (e.g., $\mathbb{R}$) or **Discrete** (e.g., $\{1, 2, 3\}$) |
-| **Markov Chain**                        | **Discrete** (e.g., $t \in \{0, 1, 2, \dots\}$)                                               | **Discrete** (e.g., $\{1, 2, 3\}$)                                        |
-| **Continuous-Time Markov Chain (CTMC)** | **Continuous**                                                                                | **Discrete**                                                              |
+| Term               | Time (Index Set)                                                                      | State Space (Possible Values)                                     | Notes                                            |
+| ------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| **Markov process** | Continuous (e.g., $t \in [0, \infty)$) or Discrete (e.g., $t \in \{0, 1, 2, \dots\}$) | Continuous (e.g., $\mathbb{R}$) or Discrete (e.g., $\{1, 2, 3\}$) | Broadest concept                                 |
+| **Markov chain**   | Discrete or continuous                                                                | Discrete / countable                                              | Modern definition                                |
+| **DTMC**           | Discrete                                                                              | Discrete                                                          | Often what “Markov chain” means in basic courses |
+| **CTMC**           | Continuous                                                                            | Discrete                                                          | Also a type of Markov chain                      |
 
 **1. Markov Process (The General Term)**
 The term **Markov Process** is generally used as the **broader category**. It refers to **any** stochastic process that satisfies the Markov property, regardless of whether its time or state space is discrete or continuous.
 - **Example:** **Brownian Motion** (Wiener process) is a **Markov Process** because both its time and state space are **continuous**.
 
 **2. Markov Chain (The Specific Term)**
-The term **Markov Chain** is typically reserved for a Markov Process that evolves in **discrete time** and has a **discrete** (or countable) **state space**.2 This is the most common model taught as an introduction to the topic.
-- **Example:** A random walk on a graph where steps happen at $t=1, 2, 3, \dots$ and the states are the nodes of the graph.
+A **Markov chain** is:
+
+> a Markov process with a **countable** (discrete) state space.
+
+Time can be either:
+- Discrete → DTMC
+- Continuous → CTMC
 
 
 
