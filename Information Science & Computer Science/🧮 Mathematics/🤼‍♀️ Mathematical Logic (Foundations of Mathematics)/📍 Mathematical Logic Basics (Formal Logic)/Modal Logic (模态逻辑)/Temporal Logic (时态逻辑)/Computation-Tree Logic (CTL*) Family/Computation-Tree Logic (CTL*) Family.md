@@ -113,6 +113,34 @@ Example 3: LTL can distinguish more than CTL
 	- LTL never talks about _other_ possible futures.  CTL does.
 
 
+Example 4: CTL\* and CTL
+Example 4.1:
+
+| Formula       | Real meaning                                                               | Strength                                                         |
+| ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| (CTL\*) EGF φ | One path with infinitely many φ’s                                          | 🔥 **Strongest**                                                 |
+| (CTL) EGEF φ  | One path that infinitely often reaches states _from which φ is reachable_  | Medium                                                           |
+| (CTL) EGAF φ  | One path that infinitely often reaches states _from which φ is inevitable_ | Weakest (strongest requirement on states, but easier to falsify) |
+Example 4.2:
+- `A(Φ1 U (Φ2 ∧ AX Φ3))` (CTL) -> `A(Φ1 U (Φ2 ∧ X Φ3))` (CTL\*) -> `A(Φ1 U (Φ2 ∧ EX Φ3))` (CTL)
+- In **CTL*** the formula `A(Φ1 U (Φ2 ∧ X Φ3))` means:
+	- For **every** path πππ from the initial state, there exists an index kkk such that (for all i<ki<ki<k we have π[i]⊨Φ1π[i]\models Φ1π[i]⊨Φ1) and π[k]⊨Φ2π[k]\models Φ2π[k]⊨Φ2 and **the next state along the _same path_** π[k+1]⊨Φ3π[k+1]\models Φ3π[k+1]⊨Φ3.
+	- Note: the `X` refers to the _next state along the same path_.
+- In **CTL** you are **required** to place a path-quantifier in front of temporal operators like `X`. So there are two natural CTL encodings people consider:
+    - `AX Φ3` means: **at the current state, every successor state** satisfies `Φ3`.
+    - `EX Φ3` means: **at the current state, there exists some successor** that satisfies `Φ3`.
+- If you write `A(Φ1 U (Φ2 ∧ AX Φ3))` in CTL, the `AX` is a _state_ property: the `Φ2` state chosen must have _all_ successors satisfying `Φ3`.  
+- If you write `A(Φ1 U (Φ2 ∧ EX Φ3))`, the chosen `Φ2` state must have _some_ successor satisfying `Φ3` (but that successor might not be the actual next state on the path you are considering).
+Example 4.3:
+- For all paths, either Φ1 always holds or Φ2 always holds:
+	- can only be expressed in CTL\*. CTL expression is not possible.
+	- $(AGΦ1​∨AGΦ2​)$ (CTL) -> $A(GΦ1​∨GΦ2​)$ (CTL\*) -> $AG(Φ1​∨Φ2​)$ (CTL)
+	- There are three similar-looking formulas whose meanings differ:
+		- AGΦ1∨AGΦ2AG\Phi_1 \vee AG\Phi_2AGΦ1​∨AGΦ2​ — global uniform choice: either Φ1\Phi_1Φ1​ holds everywhere in the whole model, or Φ2\Phi_2Φ2​ does (same choice for all paths).
+		- A(GΦ1∨GΦ2)A(G\Phi_1 \vee G\Phi_2)A(GΦ1​∨GΦ2​) — the one you asked about: for **each path** choose (possibly differently per path) one of the two to hold everywhere on that path.
+		- AG(Φ1∨Φ2)AG(\Phi_1\vee\Phi_2)AG(Φ1​∨Φ2​) — at every state at least one of Φ1,Φ2\Phi_1,\Phi_2Φ1​,Φ2​ holds; the choice may vary from state to state (even along the same path).
+
+
 
 ## Ref
 [15–414/614 Bug Catching: Automated Program Verification - Lecture 7: Computation Tree Logics | CMU]: https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00

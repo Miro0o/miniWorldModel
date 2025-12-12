@@ -23,6 +23,11 @@
 
 ### Global Algorithm & Basic Cases
 see ↗ [MC Algorithms For CTL /Global Model Checking Algorithm](MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md#Global%20Model%20Checking%20Algorithm)
+- CTL -> ECTL
+- Phi (property) -> AST of ECTL
+	- ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
+- ECTL model checking for the sat()
+- initial states in sat()?
 
 
 ### Model Checking $\mathbb{P}(X\phi)$
@@ -60,6 +65,9 @@ We can trivially perform such computation algorithmically.
 ### Algorithms for Solving System of Equations 🤔
 ↗ [Linear Algebra](../../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Linear Equation Methods](../../../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Equation%20Methods.md)
+
+
+### Examples of Basic PCTL MC Algorithms
 
 
 

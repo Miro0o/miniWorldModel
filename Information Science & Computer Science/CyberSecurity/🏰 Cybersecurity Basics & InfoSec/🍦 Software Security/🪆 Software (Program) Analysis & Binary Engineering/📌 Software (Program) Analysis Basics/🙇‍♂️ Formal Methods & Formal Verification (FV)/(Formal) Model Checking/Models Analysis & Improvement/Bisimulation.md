@@ -91,11 +91,11 @@ do
 			for each pair of states s, s’ from B’
 				// Check if condition (2) of bisimulation is violated
 				if s has a transition to B and s’ does not have a transition to B then
-				B0 := states in B’ that have a transition to B
-				B1 := states in B’ that don’t have a transition to B
-				remove B’ from T
-				add B0,B1 to T
-				fixpoint := false
+					B0 := states in B’ that have a transition to B
+					B1 := states in B’ that don’t have a transition to B
+			remove B’ from T
+			add B0,B1 to T
+			fixpoint := false
 until fixpoint // break the loop if you reach a fix point
 ```
 

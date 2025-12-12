@@ -65,6 +65,7 @@ sat(E(phi1 AND phi2)) = ...
 ```
 
 Hence, invoking `sat(phi)` will recursively compute the satisfaction sets for all sub-formulas of `phi`. We can think of satisfaction sets being computed bottom-up on the parse tree of `phi`:
+- ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.20.40.png)
 
@@ -199,8 +200,13 @@ Idea:
 ### Examples of Basic MC Algorithms
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.07.png)
 - ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.20.png)
-- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.35.png)
-- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.53.png)
+- Exercise 2 
+	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.35.png)
+	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.53.png)
+- Exercise 3
+	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.27.25.png)
+	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.28.57.png)
+	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.29.10.png)
 
 
 
