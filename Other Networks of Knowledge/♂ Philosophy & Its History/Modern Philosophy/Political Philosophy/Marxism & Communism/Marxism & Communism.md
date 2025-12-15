@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [The General Principle of Marxism (in China)](The%20General%20Principle%20of%20Marxism%20(in%20China).md)
-↗ [中国共产党 (Communist Party of China)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
-- ↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党 (Communist Party of China)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- ↗ [中国共产党思想体系](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
-↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
-↗ [Marxism–Leninism](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
+↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+↗ [Marxism–Leninism](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
 
 
 ### Other Resources
@@ -48,7 +48,7 @@ http://45.32.41.3/
 - **马克思主义的基本观点**，是关于自然、社会和人类思维发展一般规律的科学认识，是对资本主义社会和社会主义社会发展规律的科学认识，是对人类思想成果和社会实践经验的科学总结。这些基本观点主要包括：关于世界统一于物质、物质决定意识的观点，关于事物矛盾运动规律的观点，关于实践和认识辩证关系的观点，关于社会存在决定社会意识的观点，关于人与自然和谐共生的观点，关于人类社会基本矛盾运动规律的观点，关于人的自由而全面发展的观点，关于世界历史的观点，关于阶级和阶级斗争的观点，关于人民群众创造历史的观点，关于劳动价值论的观点，关于剩余价值和资本主义生产方式本质的观点，关于资本主义政治制度和意识形态本质的观点，关于垄断资本主义的观点，关于社会主义必然代替资本主义的观点，关于社会主义革命和无产专政的观点，关于无产阶级政党建设的观点，关于社会主义社会本质特征和建设规律的观点，关于共产主义社会基本特征和共产主义远大理想的观点，等等。
 - **马克思主义的基本方法**，是建立在辩证唯物主义和历史唯物主义世界阶级观和方法论基础上，指导我们正确认识世界和改造世界的思想方法和工作方法，==主要包括实事求是的方法、辩证分析的方法、社会基本矛盾和主要矛盾分析的方法、历史分析的方法、阶级分析的方法、群众路线的方法等==。
 	- ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-	- ↗ [Mathematics /Types of Proofs](../../../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
+	- ↗ [Mathematics /Types of Proofs](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
 
 马克思主义具有鲜明的科学性、人民性、实践性、发展性，这些特征体现了马克思主义的本质和使命，也展现出马克思主义的理论形象。
 
@@ -123,7 +123,7 @@ http://45.32.41.3/
 
 
 ### Marxian Political Economy
-↗ [Economics & Finance](../../../../Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Economics & Finance](../../../../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6
 
@@ -175,21 +175,21 @@ While the emergence of the Soviet Union as the first nominally Marxist-Leninist 
 
 
 ### Countries With Communism As State Ideology
-↗ [China 🇨🇳](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-- ↗ [中国共产党思想体系](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [China 🇨🇳](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+- ↗ [中国共产党思想体系](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
-↗ [North Korea 🇰🇵](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
-- ↗ [Workers' Party of Korea (조선로동당)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
-- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+↗ [North Korea 🇰🇵](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
+- ↗ [Workers' Party of Korea (조선로동당)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
+- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
 
-↗ [Vietnam 🇻🇳](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Vietnam%20🇻🇳/Vietnam%20🇻🇳.md)
+↗ [Vietnam 🇻🇳](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Vietnam%20🇻🇳/Vietnam%20🇻🇳.md)
 
-↗ [Laos 🇱🇦](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Laos%20🇱🇦.md)
+↗ [Laos 🇱🇦](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Laos%20🇱🇦.md)
 
-↗ [Cuba 🇨🇺](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/Cuba%20🇨🇺.md)
+↗ [Cuba 🇨🇺](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/Cuba%20🇨🇺.md)
 
-↗ [Soviet Union (USSR, CCCP)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
-- ↗ [КПСС (Коммунистическая партия Советского Союза)](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
+↗ [Soviet Union (USSR, CCCP)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
+- ↗ [КПСС (Коммунистическая партия Советского Союза)](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
 
 
 

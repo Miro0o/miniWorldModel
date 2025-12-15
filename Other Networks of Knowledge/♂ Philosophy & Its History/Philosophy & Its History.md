@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Arts & Cultures](../Arts%20&%20Cultures/Arts%20&%20Cultures.md)
-- ↗ [Language & Literature](../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [World's Human History Overview](../../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-↗ [World's Arts & Humanities History](../../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
-↗ [World's Science & Technology History](../../Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Math%20History%20&%20Development.md)
+↗ [Arts & Humanities](../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+- ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+↗ [Human History](../📜%20Human%20History/Human%20History.md)
+↗ [World's Arts & Humanities History](../📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
+↗ [World's Science & Technology History](../📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
-↗ [The Development History of AI](../../../Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
+↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
-- ↗ [中国共产党思想体系](../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 
 ### Learning Resources

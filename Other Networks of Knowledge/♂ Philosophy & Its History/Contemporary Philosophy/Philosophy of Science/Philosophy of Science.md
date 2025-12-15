@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Natural Science & Engineering & Technology](../../../Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-↗ [Social Science](../../../Social%20Science/Social%20Science.md)
+↗ [Natural Science & Engineering & Technology](../../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Social Science](../../../Science%20&%20Application/Social%20Science/Social%20Science.md)
 
 
 

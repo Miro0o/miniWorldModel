@@ -34,6 +34,7 @@ Western philosophy refers to the philosophical thought, traditions and works of 
 ## Ancient Western Philosophy
 ![](../../../../Assets/Pics/Pasted%20image%2020251206203912.png)
 
+
 ### Ancient Greece
 
 
@@ -106,7 +107,6 @@ Since the Second World War, contemporary philosophy has been divided mostly into
 
 ## Ref
 [312、【哲学史】6张图读懂西方哲学发展史和流派 - 沙溪·任敬伯玉的文章 - 知乎]: https://zhuanlan.zhihu.com/p/50231018
-
 
 [The basics of philosophy]: https://www.philosophybasics.com/general_timeline.html
 This **timeline** of [Western Philosophy](https://www.philosophybasics.com/general_western.html) is created as **one long image** to give an idea of the **relative scale** and the **clusters of activity** in philosophical thought. The names are clickable links. For more details on **dates** and historical **eras** and **periods**, see the section [By Historical Period](https://www.philosophybasics.com/historical.html).

@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [RSS (Really Simple Syndication)](../Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages%20&%20Data%20Representation/RSS%20(Really%20Simple%20Syndication).md)
+↗ [RSS (Really Simple Syndication)](../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages%20&%20Data%20Representation/RSS%20(Really%20Simple%20Syndication).md)
 
-↗ [News Focus (IT-exclusive)](../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
+↗ [News Focus (IT-exclusive)](../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
 
 ### General News Channels 

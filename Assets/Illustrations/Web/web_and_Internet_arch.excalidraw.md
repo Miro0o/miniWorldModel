@@ -186,7 +186,7 @@ WAN 3 ^dYS0cuED
 
 (Computer Network) ^Aq8J3rFT
 
-[[../../../Information Science & Computer Science/🗺 CS Overview/The Essence of Computing - Programs & The Semantics of Programs]] ^v7gVtCuJ
+[[../../../Information Science & Computer Science and Engineering/🗺 CS Overview/The Essence of Computing - Programs & The Semantics of Programs]] ^v7gVtCuJ
 
 *Communication Protocols Are Transition Systems ^26utTRaG
 

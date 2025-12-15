@@ -9,16 +9,16 @@
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 - ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 
-↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
-↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-- ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-- ↗ [World's Arts & Humanities History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
-- ↗ [World's Economics History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Economics%20History/World's%20Economics%20History.md)
-- ↗ [World's Law History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Law%20History/World's%20Law%20History.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+- ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+- ↗ [World's Arts & Humanities History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
+- ↗ [World's Economics History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Economics%20History/World's%20Economics%20History.md)
+- ↗ [World's Law History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Law%20History/World's%20Law%20History.md)
 
 
 ### Other Resources
@@ -63,11 +63,11 @@ Anti-fragile: Things That Gain From Disorder
 > ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 > ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 > 
-> ↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-> ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+> ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+> ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 > ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
-> ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md#汉与汉族)
+> ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md#汉与汉族)
 > 维天有汉，鉴亦有光
 > ——把天系住并连起来的，是那些仿佛可以抓起来的点点繁星，在天河最遥远偏僻的位置，也到处是那些自主呈现着的仿佛可以抓起来的微光。
 > 
@@ -87,15 +87,15 @@ From the same principles, I now demonstrate the frame of the System of the World
 ### 存在与（人/人类社会 的）认识存在
 #### 运动与静止
 ##### 相对与绝对
-↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
+↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
 ##### 地球，太阳系，银河系，宇宙
-↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 生命与非生命
-↗ [Life Science](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
+↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ###### 生命感知下的信息与时间
 ###### 生命的周期：生与死
 ###### 有自我意识的生命：智能
@@ -128,14 +128,14 @@ From the same principles, I now demonstrate the frame of the System of the World
 
 更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）按照特征进行分类，并给予不同的名称：
 - 信息科学领域中的“计算”：
-	- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+	- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 - 深度学习中的"神经网络"模型：
-	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+	- ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 - 哲学领域（包括数学领域）的“逻辑”：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/Mathematics.md)
-		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-		- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+		- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 - 佛教思想中的“缘起”：
 	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88
@@ -185,9 +185,9 @@ From the same principles, I now demonstrate the frame of the System of the World
 （情感，逻辑）X （思考，行动）
 or（情感，逻辑）X （认识，实践）
 ##### 个体自我意识的组织：群体与社会
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 ###### 社会的形成
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
 社会的形成，即社会的存在问题，和马克思主义关于存在与运动关系的结论相一致：社会的存在就是社会的不停止的运动/发展。存在=发展。所以，社会的形成的原因，就是社会的发展的原因。为什么社会要形成？因为社会要发展。为什么社会要发展？因为组成社会的人要发展。为什么组成社会的人要发展？因为人有欲望。为什么人有欲望？因为，欲望就是自我意识，自我意识是我们对“人”的定义。组成社会的人由于某种原因联系在一起，血缘，地缘，等等，因为这种联系，人们有了相同的欲望，于是生活在一起组成了社会，并有着相同的发展目标。
 - 所以，我们简化这个推导过程，得到结论：只要人存在，社会就会存在。
@@ -221,14 +221,14 @@ or（情感，逻辑）X （认识，实践）
 > 关于知识的定义和其他相关内容，之后有专门的章节。这里先提前使用一下。
 
 ###### 群体/社会 的自我意识
-↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 
 > 社会存在决定社会意识
 ##### 主体（自我意识）间的交互：社会关系
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 ###### 权力与等级 ⭐
-↗ [Power and Humanity - The Essence of Human](Other%20Networks%20of%20Knowledge/Power%20and%20Humanity%20-%20The%20Essence%20of%20Human.md)
+↗ [Power and Humanity - The Essence of Human](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Power%20and%20Humanity%20-%20The%20Essence%20of%20Human.md)
 
 社会关系就是人与人的权力等级。而社会关系又围绕社会发展的核心问题进行展开。也就是说，社会发展是人类存在的核心问题，围绕这个核心问题，我们又以权力关系为出发点发展出了一整套社会关系来组织社会解决这个核心问题。
 - 所以，讨论社会问题，要结合社会关系（社会存在）和社会发展两个角度。
@@ -282,13 +282,13 @@ or（情感，逻辑）X （认识，实践）
 - 身份认同
 - 财富、名声
 ###### 群体与群体的关系
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 ###### 人（人类社会）与自然的关系
 和谐共生
 ##### 主体（自我意识）的发展与成熟
-↗ [Psychology](Other%20Networks%20of%20Knowledge/Social%20Science/Psychology/Psychology.md)
-↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
-- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [Psychology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Psychology/Psychology.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
 自我意识的发展与成熟
 - 在两个维度中进行：知识（思），实践（做）--->「世界观与方法论」
@@ -315,7 +315,7 @@ or（情感，逻辑）X （认识，实践）
 - 自我适应、融入社会的能力及习得
 	- 社会关系
 #### 信息 -> 符号和语言 -> 思考与计算
-↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+↗ [Information Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
 信息的分类
 - 抽象的信息和具体的信息
@@ -335,13 +335,13 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Philosophy of Mathematics](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Mathematics.md)
 
-↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-- ↗ [Linguistics](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+- ↗ [Linguistics](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 
-↗ [Natural Language Processing (NLP) & Computational Linguistics](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
-↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 符号系统就是信息向物理世界的文本投射。
 
@@ -355,17 +355,17 @@ or（情感，逻辑）X （认识，实践）
 	- 设想，在没有自然语言的情况下，人是否可以对信息进行处理或计算？是可以的。比如，人可以将温暖这种感觉和日出这种现象联系在一起，进而得出“当太阳升起身体就会产生惬意的温暖”的这样一个信息的联系，或者说逻辑/推理。但是，若没有语言，人很难继续进行更加深奥的思考了，因为人脑对信息的储存和运输的能力有限，这种局限会进一步限制人的计算能力。比如，在没有语言的情况下人也可以分清男人和女人的区别，但是，在没有语言的情况下我们很难进行“女权主义”这种层次的思考。因为，“女权主义”这个信息是许多其他信息的抽象、封装、集合，若没有语言辅助，大脑很难在短时间内产生这样的想法。
 	- 人类使用的语言分成两类：自然语言和形式(化的)语言\*（这里宽泛地谈论，不是严格数学意义上的形式语言）。总的来说，语言的意义都是为了信息的存储和传输。不过，自然语言和形式语言的区别在于，前者由人类生产生活的过程中自然形成，在信息的存储和传输上具有普适性。根据一般经验，当我们追求普适，我们就会丧失效率。所以，为了提高效率，我们对一些特别任务又人工发明出对应的特别语言，这种特别语言只在这个特定的场景下使用，所以通过降低普适，我们得到了效率。比如，数学语言和编程语言，它们都是形式化的语言，为了解决一类问题而创造出的具有特定使用场景、对象的高效符号工具。
 ###### 信息表达系统的多模态与多媒体
-↗ [Multimodal AI & MLLM](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+↗ [Multimodal AI & MLLM](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 
 信息可以不只具有基于文本的模态，可以具有多种模态。一般来说，我们考虑的是那些在人类生物能力范围内的模态，比如最常见的视觉，听觉，触觉，等。文本是人类视觉能力下的信息表达模态。基于视觉的模态也是最广泛的信息模态的选择。
 ##### 信息的组织：知识 ⭐
-↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
-↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [China 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
-↗ [Knowledge Representation and Reasoning (KRR)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20and%20Reasoning%20(KRR).md)
-↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+↗ [Knowledge Representation and Reasoning (KRR)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20and%20Reasoning%20(KRR).md)
+↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
 
-↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md) "transition system"
+↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md) "transition system"
 
 参见上节“ 主体视角下的宇宙：物质，能量，信息 ⭐”
 
@@ -385,11 +385,11 @@ or（情感，逻辑）X （认识，实践）
 	- 对于人类认知边界范围以内的知识，它们就是我们对宇宙已经建立起的知识，即观测宇宙。这些知识就是我们的具体学科，比如数学，物理，语言，音乐，金融，等等。
 ###### 科学与技术
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [(CS) Academics Roadmap & Tool Chain](Information%20Science%20&%20Computer%20Science/Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
+↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+- ↗ [(CS) Academics Roadmap & Tool Chain](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 
 科学：用实验的方法检验信息，达到将观测宇宙（人对宇宙的认知）逼近实际客观宇宙的目的。这里的宇宙包括一切物质，可以以自我意识为视角，分为：（个体的人+群体的人+非人）
 科学知识：经过科学实验得到的信息/知识。
@@ -401,12 +401,12 @@ or（情感，逻辑）X （认识，实践）
 ##### 信息的运动：思考与自我意识
 参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 ##### 信息运动的自动化：计算机智能（狭义的智能）
-↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-↗ [Digital (Logic) Electronics Foundations](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Digital (Logic) Electronics Foundations](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
@@ -433,19 +433,19 @@ or（情感，逻辑）X （认识，实践）
 	- 实践（改造自然）能力
 	- 社会关系的能力，即权力能力
 ###### 信号与信号处理
-↗ [Information Theory](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
-↗ [Signal Process](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Process/Signal%20Process.md)
-↗ [DSP (Digital Signal Processor)](Information%20Science%20&%20Computer%20Science/Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
+↗ [Information Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
+↗ [Signal Process](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Process/Signal%20Process.md)
+↗ [DSP (Digital Signal Processor)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
 ###### 语言，思维，信息运动，与智能
 ↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic Basics (Formal Logic)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
 
-↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
-↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ###### 信息科学和信息处理：计算机与计算机语言
 语言本身只是一套符号系统，可以对信息进行传输和储存，但无法对信息进行计算。
 
@@ -460,8 +460,8 @@ or（情感，逻辑）X （认识，实践）
 ![Language_and_Programming_Language_Processing | 800](Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Language, Computer Language, and  Programming Language Processing</small>
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）⭐
-↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-↗ [AI Embodiment & World Model](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
+↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [AI Embodiment & World Model](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
@@ -569,12 +569,12 @@ or（情感，逻辑）X （认识，实践）
 
 世界的存在：（世界的发展与联系）
 - 物理宇宙的发展：自然科学
-	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
-	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 - 人及人类社会发展：涉及人类拥有的所有知识
 	- 矛盾：无限的欲望 🆚（有限的能力 导致的 有限的资源）；资源的开发与分配成为人类社会发展的核心问题。而这又由涉及两个主要问题：权力和科学。
-	- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+	- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 
 本篇文章，及整个笔记中涉及到的发展的话题，都是指人及人类社会的发展，而不谈及物理宇宙的发展：因为后者已经属于某个或某些具体科学的学科范畴。
 #### 人类发展的根本动力：自我意识（欲望）
@@ -640,7 +640,7 @@ or（情感，逻辑）X （认识，实践）
 	- 资源无限：一个个体无法拥有所有资源，但无限追求拥有所有的资源；
 	- 发展方式：权力斗争。
 - 资源使用：个人如何使用资源，就是这个人存在的样貌；
-	- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+	- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 ##### 原理：个人与时代
 人是生活在社会中的。时代就是，个人发展所处的社会范围的总和，这种社会范围包括了时间范围、空间范围、社会中人的活动范围，等等。个人发展以时代为前提，个人发展的本质就是社会关系与个人欲望的平衡，即（社会中的）权力关系与欲望的平衡。
 - 这同时指出，个人的发展，或者说所谓的“人存在的意义”或所谓“幸福的生活”，取决于个人欲望（所想）和个人的社会关系（实际）。换句话说，“人存在的意义”就是按照自己的想法活着。如果能够按照自己的想法活着，我们就认为达到了这种所想和实际的平衡，就是“幸福的生活”。否则不平衡的话，人就缺少这种“幸福感”。
@@ -676,8 +676,8 @@ or（情感，逻辑）X （认识，实践）
 > 
 > 一句话，从宏观层面我们要发展共产主义人人平等，从微观层面我们要进行阶级跨越人人不平等。这不是双标，这是马克思主义指出的矛盾的对立和统一。这一点非常重要。
 
-↗ [Financial Management](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
-↗ [Law & Legal Theory](Other%20Networks%20of%20Knowledge/Social%20Science/🧑‍⚖️%20Law%20&%20Legal%20Theory/Law%20&%20Legal%20Theory.md)
+↗ [Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+↗ [Law & Legal Theory](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🧑‍⚖️%20Law%20&%20Legal%20Theory/Law%20&%20Legal%20Theory.md)
 ###### 个体科技权力：先进与落后
 ###### 个体文化权力：偏见与包容
 中国和美国两个例子：
@@ -692,26 +692,26 @@ or（情感，逻辑）X （认识，实践）
 - 美国：一切文化基于人与人之间的平等。文化权力（等级关系）只来源于基于事实衍生出的思想。
 	- 美国也有不平等，而且非常严重。但美国的不平等思想是直接基于事实的。比如财富，肤色，等等。
 ##### 资源使用：欲望
-↗ [Primary Economical Sector](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Primary%20Economical%20Sector/Primary%20Economical%20Sector.md)
-↗ [Secondary Economical Sector](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Secondary%20Economical%20Sector/Secondary%20Economical%20Sector.md)
-↗ [Tertiary Economical Sector](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
+↗ [Primary Economical Sector](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Primary%20Economical%20Sector/Primary%20Economical%20Sector.md)
+↗ [Secondary Economical Sector](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Secondary%20Economical%20Sector/Secondary%20Economical%20Sector.md)
+↗ [Tertiary Economical Sector](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
 ###### 基础物质欲望 -- 生存
 衣食住行
 ###### 上层物质欲望/ 基础精神欲望 -- 享乐
-↗ [Cultures & Entertainment Industry](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
-↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
+↗ [Cultures & Entertainment Industry](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
+↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 ###### 上层精神欲望：学习与教育
-↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
-↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
-↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 
->  📖 《吴军数学通识讲义》序：↗ [为什么我要写一系列通识讲义](../../../Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Appendix/为什么我要写一系列通识讲义.md)
+>  📖 《吴军数学通识讲义》序：↗ [为什么我要写一系列通识讲义](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Appendix/为什么我要写一系列通识讲义.md)
 >  
 > 在过去物质不丰富的年代，人虽然是法律上的自由人，但是时间都用来获取谋生的基本物质了，想象苏格拉底那样生活和思考完全是奢望。因此，通识教育便无从谈起，甚至也没有必要。但是今天，中国人已经从法律上的自由人变成了经济上的自由人，接下来应该变成精神上的自由人，此时通识教育就显得特别有必要了。
 > 
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
 #### 群体（社会）发展的路径 /方法
-> ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+> ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 > - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 对群体来说，宇宙中可直接利用的资源是有限的，因此，对群体来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
@@ -728,14 +728,14 @@ or（情感，逻辑）X （认识，实践）
 		- 综合 ⏫ ⏩
 - 资源利用：资源在社会中如何利用，就是这个社会的样貌
 	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Social%20Science/Social%20Science.md)
-	- ↗ [Arts & Cultures](Other%20Networks%20of%20Knowledge/Arts%20&%20Cultures/Arts%20&%20Cultures.md)
+	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+	- ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 ##### 原理（发展动力）
 ###### 劳动，生产，经济
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
-↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
-↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
+↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
+↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 
 > 历史唯物主义认为：==生产力和生产关系之间的矛盾，经济基础和上层建筑之间的矛盾，这是人类社会的基本矛盾==。这两对矛盾存在于一切社会形态之中，贯穿于每一个社会形态的始终，决定着其他各种社会矛盾，==是推动社会发展的基本动力，决定着社会历史的一般进程。==
 
@@ -768,7 +768,7 @@ or（情感，逻辑）X （认识，实践）
 	- 马克思指出这一发展路径的最基本方法是阶级斗争，且阶级斗争的最终结果是无产阶级专政。但是，正如我之前阐述的我关于权力的观点，我认为阶级是无法消灭的。因为权力是人类社会一切关系的原型，人类社会不可能没有权力关系而仍维持为一个社会。换句话说，正因为有了权力关系，人类社会才得以存在，故这种权力关系是无法被消除的。
 	- 因此，只要人类社会存在，权力关系就会存在，经济权力关系就会存在，故一定有有产者和无产者，不可能是无产阶级专政的。
 	- 因此，马克思主义所声称的共产主义是绝对无法在全人类范围内达到的：第一，资源相对于人类的贪婪永远有限，第二，人类社会关系的本质就是权力关系。不过，在局部的范围内，在特定的历史时间段内，可以存在这样的社会，比如某时期北欧的丹麦，挪威，等等，我认为是达到了马克思所宣称的共产主义的样貌（虽然这些国家自己从未如此宣称）。
-	- 因此，马克思主义宣扬的阶级斗争方法论，及这种  资本主义 -> 社会主义 -> 共产主义 的发展路径，这些部分的实际可行性和正确性都是存疑的。事实上在中国的发展经验中对这些问题我们的主要领导人已经通过实际行动做出了回答（↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)）。但是，同时也要注意，中国共产党作为执政党，不可避免地要做出维护自身统治的行动和发言（每个执政党的第一要务如此），对于其思想体系中的这些部分要加以甄别。不过单纯从发展角度来说，我认为其的确有许多值得学习研究的地方。新中国以来，尤其是改革开放以来，的发展经验，是人类在探索自身发展道路过程中绚丽的风景。
+	- 因此，马克思主义宣扬的阶级斗争方法论，及这种  资本主义 -> 社会主义 -> 共产主义 的发展路径，这些部分的实际可行性和正确性都是存疑的。事实上在中国的发展经验中对这些问题我们的主要领导人已经通过实际行动做出了回答（↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)）。但是，同时也要注意，中国共产党作为执政党，不可避免地要做出维护自身统治的行动和发言（每个执政党的第一要务如此），对于其思想体系中的这些部分要加以甄别。不过单纯从发展角度来说，我认为其的确有许多值得学习研究的地方。新中国以来，尤其是改革开放以来，的发展经验，是人类在探索自身发展道路过程中绚丽的风景。
 	- 虽然我认为共产主义的最终目标 -- 人民物质极大丰富，人民按需劳动 -- 无法实现，我仍认同我国当下的政治体制的优越性，认同其大部分发展思想。
 		- 基本政治制度：中国共产党领导的多党合作和政治协商制度
 		- 基本经济制度：社会主义市场经济体制
@@ -784,12 +784,19 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
-##### 资源获取与使用 - 线索1：科技，人才，创新，与改革 ⏫
-↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-↗ [Electronics & Information Technologies Business Fields Research](Information%20Science%20&%20Computer%20Science/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+##### 资源获取与使用 - 线索1：国家治理
+###### 教育，人才，科技，创新与改革 ⏫
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Electronics & Information Technologies Business Fields Research](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+
+↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+
+↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 科技是第一生产力、人才是第一资源、创新是第一动力
 - 新华社北京10月16日电 习近平在二十大报告中强调，必须坚持科技是第一生产力、人才是第一资源、创新是第一动力，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，开辟发展新领域新赛道，不断塑造发展新动能新优势。（[习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网](https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm)）
@@ -799,14 +806,27 @@ or（情感，逻辑）X （认识，实践）
 - 改革是发展的动力。“发展出题目，改革做文章”，2004年3月，时任浙江省委书记习近平在“之江新语”里这样写道。用这个思想逻辑来领会党的二十届三中全会主题，就是——“中国式现代化出题目，进一步全面深化改革做文章”。
 - 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
 - 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
+###### ”民主，自由，平等，法治，人权“
+↗ [中国共产党 (Communist Party of China)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- 社会主义核心价值观：**富强、民主、文明、和谐**（国家层面），**自由、平等、公正、法治**（社会层面），**爱国、敬业、诚信、友善**（公民个人层面）
+
+↗ [U.S. Political Parties & Ideologies](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Political%20Parties%20&%20Ideologies/U.S.%20Political%20Parties%20&%20Ideologies.md)
+
+
+关于民主制度和专制制度
+
+
+关于自由
+
+
 ##### 资源获取与使用 - 线索2：（逆）全球化与国家竞争 ⏩ ⏫
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-↗ [Education](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Education.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ##### 资源获取与使用 - 线索3：可持续发展 ⏩ ⏫
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
 
 
@@ -816,8 +836,8 @@ or（情感，逻辑）X （认识，实践）
 
 
 ### Overview: Human Society & Human History
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
 
 ### Human Knowledges & Academic Discipline 🎓
@@ -929,13 +949,13 @@ https://en.wikipedia.org/wiki/Complex_system
 
 [论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
 #### Knowledge Management & Explore
-↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
+↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
-↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
-↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
-↗ [Research & QA & Knowledge Websites](Information%20Science%20&%20Computer%20Science/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Research%20&%20QA%20&%20Knowledge%20Websites.md)
+↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
+↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+↗ [Research & QA & Knowledge Websites](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Research%20&%20QA%20&%20Knowledge%20Websites.md)
 
 ---
 [3 人类全量通识知识图谱发布了一篇小红书笔记，快来看吧！ 😆 7VldGvy5z1g 😆]: http://xhslink.com/n/AFWwh89Aota
@@ -955,13 +975,13 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ## 🤖 Artificial Intelligence
-> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
 ## Sustainable Development of Human Beings
-↗ [World's Human History Overview](Other%20Networks%20of%20Knowledge/Social%20Science/📜%20World's%20Human%20History%20Overview/World's%20Human%20History%20Overview.md)
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
 
 

@@ -1,0 +1,36 @@
+# CWE (Common Weakness Enumeration)
+
+[TOC]
+
+
+
+## Res
+🏠 https://cwe.mitre.org/index.html
+🚧 
+
+
+### Related Topics
+↗ [MITER Corporation](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/MITER%20Corporation.md)
+
+
+
+## Intro
+> 🔗 https://cwe.mitre.org/about/new_to_cwe.html
+
+
+### What is CWE
+First, we should describe what CWE is. CWE is a community-developed list of common software and hardware weakness types that could have security ramifications. A “weakness” is a condition in a software, firmware, hardware, or service component that, under certain circumstances, could contribute to the introduction of vulnerabilities. Weakness conditions are in many cases introduced by the developer during development of the product.
+
+Even though developers may have vastly different coding practices, they are all capable of introducing the same common type of weaknesses, leading to vulnerabilities in their own products. The [CWE List](https://cwe.mitre.org/data/index.html) and associated taxonomies and classification schemes serve as a language that can be used to identify and describe these weaknesses in terms of “CWEs”.
+
+The best part is that CWE is free to use by any organization or individual for any research, development, and/or commercial purposes, per the [CWE Terms of Use](https://cwe.mitre.org/about/termsofuse.html).
+
+
+### How can I use CWE?
+Many different organizations and individuals use CWE for a variety of different reasons. For example, software developers and security researchers are using CWE today as a common language for discussing how to eliminate and/or mitigate software security weaknesses in architecture, design, code, and implementation. Other organizations are using CWE today as a means to evaluate software security tools looking to discover these weaknesses, and as a common baseline standard for their weakness identification, mitigation, and prevention efforts.
+
+Through the [User Experience Working Group (UEWG)](https://cwe.mitre.org/community/working_groups.html#ue_wg) — one of several collaborative community efforts — the CWE Program has also defined a number of [User Stories](https://cwe.mitre.org/about/user_stories.html)based on real usage of the CWE List by various organizations across industry, academia, and government. These User Stories can help to illustrate how the CWE List is used in practice and how it might help you or your organization. The CWE User Stories can be found [here](https://cwe.mitre.org/about/user_stories.html).
+
+
+
+## Ref

@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Chinese Language Literature (and Philosophy)](../../../../Arts%20&%20Cultures/📃%20Language%20&%20Literature/Literature/Chinese%20Language%20Literature%20(and%20Philosophy)/Chinese%20Language%20Literature%20(and%20Philosophy).md)
-↗ [中华文明历史概况](../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [Chinese Language Literature (and Philosophy)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Literature/Chinese%20Language%20Literature%20(and%20Philosophy)/Chinese%20Language%20Literature%20(and%20Philosophy).md)
+↗ [中华文明历史概况](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 ↗ [Marxism & Communism](../../Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
-↗ [中国共产党思想体系](../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党思想体系](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 
 ### Other Resource
@@ -106,7 +106,7 @@ Tree Teachings & Nine Schools of Thought
 
 
 ### 具有中国特色的马克思主义
-↗ [中国共产党思想体系](../../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党思想体系](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 
 
