@@ -1,4 +1,4 @@
-# Combinatorial Counting Theorems
+# Painting
 
 [TOC]
 

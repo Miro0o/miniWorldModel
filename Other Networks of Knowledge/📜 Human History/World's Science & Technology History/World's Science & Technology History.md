@@ -23,7 +23,7 @@
 ↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
 
 
-## Other Resources
+### Other Resources
 🔍 https://www.worldhistory.org/timeline/
 World History Encyclopedia 👍
 
@@ -111,14 +111,55 @@ https://en.wikipedia.org/wiki/History_of_science#See_also
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_science
 
+The history of science covers the development of science from ancient times to the present. It encompasses all three major branches of science: natural, social, and formal.[1] Protoscience, early sciences, and natural philosophies such as alchemy and astrology that existed during the Bronze Age, Iron Age, classical antiquity and the Middle Ages, declined during the early modern period after the establishment of formal disciplines of science in the Age of Enlightenment.
+
+The earliest roots of scientific thinking and practice can be traced to Ancient Egypt and Mesopotamia during the 3rd and 2nd millennia BCE.[2][3] These civilizations' contributions to mathematics, astronomy, and medicine influenced later Greek natural philosophy of classical antiquity, wherein formal attempts were made to provide explanations of events in the physical world based on natural causes.[2][3] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Latin-speaking Western Europe during the early centuries (400 to 1000 CE) of the Middle Ages,[4] but continued to thrive in the Greek-speaking Byzantine Empire. Aided by translations of Greek texts, the Hellenistic worldview was preserved and absorbed into the Arabic-speaking Muslim world during the Islamic Golden Age.[5] The recovery and assimilation of Greek works and Islamic inquiries into Western Europe from the 10th to 13th century revived the learning of natural philosophy in the West.[4][6] Traditions of early science were also developed in ancient India and separately in ancient China, the Chinese model having influenced Vietnam, Korea and Japan before Western exploration.[7] Among the Pre-Columbian peoples of Mesoamerica, the Zapotec civilization established their first known traditions of astronomy and mathematics for producing calendars, followed by other civilizations such as the Maya.
+
+Natural philosophy was transformed by the Scientific Revolution that transpired during the 16th and 17th centuries in Europe,[8][9][10] as new ideas and discoveries departed from previous Greek conceptions and traditions.[11][12][13][14] The New Science that emerged was more mechanistic in its worldview, more integrated with mathematics, and more reliable and open as its knowledge was based on a newly defined scientific method.[12][15][16] More "revolutions" in subsequent centuries soon followed. The chemical revolution of the 18th century, for instance, introduced new quantitative methods and measurements for chemistry.[17] In the 19th century, new perspectives regarding the conservation of energy, age of Earth, and evolution came into focus.[18][19][20][21][22][23] And in the 20th century, new discoveries in genetics and physics laid the foundations for new sub disciplines such as molecular biology and particle physics.[24][25] Moreover, industrial and military concerns as well as the increasing complexity of new research endeavors ushered in the era of "big science," particularly after World War II.[24][25][26]
+
 
 
 ## Science & Technology in Early Stages of Civilizations
+> 🔗 https://en.wikipedia.org/wiki/Science_in_the_ancient_world
+> 🔗 https://en.wikipedia.org/wiki/History_of_science#Classical_antiquity_and_Greco-Roman_science
+
+
+### West Asia & Near East
+
+
+### Europe & Greco-Roman World
+
+
+### Indian Subcontinent
+
+
+### China & East Asia
 ↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+
+
+### Pre-Columbian Mesoamerica
 
 
 
 ## Science & Technology Since European Renaissance
+### European Renaissance & Revival of Learning
+> 🔗 [Science in the Renaissance](https://en.wikipedia.org/wiki/Science_in_the_Renaissance)
+> 🔗 [Continuity thesis](https://en.wikipedia.org/wiki/Continuity_thesis "Continuity thesis"), [Decline of Western alchemy](https://en.wikipedia.org/wiki/Decline_of_Western_alchemy "Decline of Western alchemy")
+> 🔗 [Natural magic](https://en.wikipedia.org/wiki/Natural_magic "Natural magic")
+
+> 🔗 https://en.wikipedia.org/wiki/History_of_science#Renaissance
+
+The renewal of learning in Europe began with 12th century Scholasticism. The Northern Renaissance showed a decisive shift in focus from Aristotelian natural philosophy to chemistry and the biological sciences (botany, anatomy, and medicine).[187] Thus modern science in Europe was resumed in a period of great upheaval: the Protestant Reformation and Catholic Counter-Reformation; the discovery of the Americas by Christopher Columbus; the Fall of Constantinople; but also the re-discovery of Aristotle during the Scholastic period presaged large social and political changes. Thus, a suitable environment was created in which it became possible to question scientific doctrine, in much the same way that Martin Luther and John Calvin questioned religious doctrine. The works of Ptolemy (astronomy) and Galen (medicine) were found not always to match everyday observations. Work by Vesalius on human cadavers found problems with the Galenic view of anatomy.[188]
+
+The discovery of Cristallo contributed to the advancement of science in the period as well with its appearance out of Venice around 1450. The new glass allowed for better spectacles and eventually to the inventions of the telescope and microscope.
+
+Theophrastus' work on rocks, Peri lithōn, remained authoritative for millennia: its interpretation of fossils was not overturned until after the Scientific Revolution.
+
+During the Italian Renaissance, Niccolò Machiavelli established the emphasis of modern political science on direct empirical observation of political institutions and actors. Later, the expansion of the scientific paradigm during the Enlightenment further pushed the study of politics beyond normative determinations.[189] In particular, the study of statistics, to study the subjects of the state, has been applied to polling and voting.
+
+In archaeology, the 15th and 16th centuries saw the rise of antiquarians in Renaissance Europe who were interested in the collection of artifacts.
+
+
 ### Age of Discovery (1418 ~ 1620)
 > 🔗 https://en.wikipedia.org/wiki/Age_of_Discovery
 
@@ -132,6 +173,10 @@ European exploration initiated the [Columbian exchange](https://en.wikipedia.or
 
 
 ### Scientific Revolution & Birth of New Science (1543 ~ 1687)
+> 🔗 https://en.wikipedia.org/wiki/History_of_science#Scientific_Revolution_and_birth_of_New_Science
+
+The Scientific Revolution of the 16th and 17th centuries in Europe marked a sharp break with the natural philosophy that had preceded it.[195][196][10] The New Science that emerged departed from previous Greek conceptions and traditions,[11][12][13][14] was more mechanistic in its worldview and more integrated with mathematics,[12][15][16] and was obsessed with the acquisition and interpretation of new evidence.[197] The Scientific Revolution is a convenient boundary between ancient thought and modern science. While the period is frequently said to have begun in 1543 with the printings of De humani corporis fabrica (On the Workings of the Human Body) by Andreas Vesalius and De Revolutionibus (On the Revolutions of the Heavenly Spheres) by Nicolaus Copernicus, the SN 1572 supernova has also been suggested as its beginning.[198] The period culminated with the publication of the Philosophiæ Naturalis Principia Mathematica in 1687 by Isaac Newton, representative of the unprecedented growth of scientific publications throughout Europe.
+
 > 🔗 https://en.wikipedia.org/wiki/Scientific_Revolution#Introduction
 
 Great advances in science have been termed "revolutions" since the 18th century. For example, in 1747, the French mathematician [Alexis Clairaut](https://en.wikipedia.org/wiki/Alexis_Clairaut "Alexis Clairaut") wrote that "[Newton](https://en.wikipedia.org/wiki/Isaac_Newton "Isaac Newton") was said in his own life to have created a revolution". The word was also used in the preface to [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier "Antoine Lavoisier")'s 1789 work announcing the discovery of oxygen. "Few revolutions in science have immediately excited so much general notice as the introduction of the theory of oxygen ... Lavoisier saw his theory accepted by all the most eminent men of his time, and established over a great part of Europe within a few years from its first promulgation."
@@ -174,7 +219,7 @@ In the 20th century, [Alexandre Koyré](https://en.wikipedia.org/wiki/Alexandre
 No work of science has drawn more attention from philosophers than Newton's _Principia_. The reasons for this, however, and consequently the focus of the attention have changed significantly from one century to the next. During the 20th Century philosophers have viewed the _Principia_ in the context of Einstein's new theory of gravity in his theory of general relativity. The main issues have concerned the relation between Newton's and Einstein's theories of gravity and what the need to replace the former with the latter says about the nature, scope, and limits of scientific knowledge. During most of the 18th Century, by contrast, Newton's theory of gravity remained under dispute, especially because of the absence of a mechanism — in particular, a contact mechanism — producing gravitational forces. The philosophic literature correspondingly endeavored to clarify and to resolve, one way or the other, the dispute over whether the _Principia_ should or should not be viewed as methodologically well founded. By the 1790s Newton's theory of gravity had become established among those engaged in research in orbital mechanics and physical geodesy, leading to the _Principia_ becoming _the_ exemplar of science at its most successful. Philosophic interest in the _Principia_ during the 19th Century therefore came to focus on how Newton had achieved this success, in part to characterize the knowledge that had been achieved and in part to pursue comparable knowledge in other areas of research. Unfortunately, a very large fraction of the philosophic literature in all three centuries has suffered from a quite simplistic picture of the _Principia_ itself. The main goal of this entry is to replace that simplistic picture with one that does more justice to the richness of both the content and the methodology of the _Principia_.
 
 
-### Age of Enlightenment
+### Age of Enlightenment (Age of Reason)
 > 🔗 https://en.wikipedia.org/wiki/Science_in_the_Age_of_Enlightenment
 
 The **history of science during the Age of Enlightenment** traces developments in [science](https://en.wikipedia.org/wiki/Science "Science") and [technology](https://en.wikipedia.org/wiki/Technology "Technology") during the [Age of Reason](https://en.wikipedia.org/wiki/Age_of_Enlightenment "Age of Enlightenment"), when Enlightenment ideas and ideals were being disseminated across [Europe](https://en.wikipedia.org/wiki/Europe "Europe") and [North America](https://en.wikipedia.org/wiki/North_America "North America"). Generally, the period spans from the final days of the 16th- and 17th-century [Scientific Revolution](https://en.wikipedia.org/wiki/Scientific_Revolution "Scientific Revolution") until roughly the 19th century, after the [French Revolution](https://en.wikipedia.org/wiki/French_Revolution "French Revolution") (1789) and the [Napoleonic era](https://en.wikipedia.org/wiki/Napoleonic_era "Napoleonic era") (1799–1815). The scientific revolution saw the creation of the first [scientific societies](https://en.wikipedia.org/wiki/Learned_society "Learned society"), the rise of [Copernicanism](https://en.wikipedia.org/wiki/Heliocentrism "Heliocentrism"), and the displacement of [Aristotelian natural philosophy](https://en.wikipedia.org/wiki/Aristotelianism "Aristotelianism") and [Galen](https://en.wikipedia.org/wiki/Galen "Galen")'s ancient medical doctrine. By the 18th century, scientific authority began to displace religious authority, and the disciplines of [alchemy](https://en.wikipedia.org/wiki/Alchemy "Alchemy") and [astrology](https://en.wikipedia.org/wiki/Astrology "Astrology") lost scientific credibility.
@@ -194,7 +239,7 @@ Science during the Enlightenment was dominated by scientific societies and [aca
 ## 19th Century: Birth of Modern Science
 > 🔗 https://en.wikipedia.org/wiki/19th_century_in_science
 
-The **19th century in science** saw the birth of science as a profession; the term scientist was coined in 1833 by [William Whewell](https://en.wikipedia.org/wiki/William_Whewell "William Whewell"), which soon replaced the older term of (natural) philosopher.
+The **19th century in science** saw the birth of science as a profession; the term scientist was coined in 1833 by [William Whewell](https://en.wikipedia.org/wiki/William_Whewell "William Whewell"), which soon replaced the older term of *(natural) philosopher*.
 
 Among the most influential ideas of the 19th century were those of [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin "Charles Darwin") (alongside the independent research of [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace "Alfred Russel Wallace")), who in 1859 published the book _[On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species "On the Origin of Species")_, which introduced the idea of [evolution](https://en.wikipedia.org/wiki/Evolution "Evolution") by [natural selection](https://en.wikipedia.org/wiki/Natural_selection "Natural selection"). Another important landmark in medicine and biology were the successful efforts to prove the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease "Germ theory of disease"). Following this, [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur "Louis Pasteur") made the first [vaccine](https://en.wikipedia.org/wiki/Vaccine "Vaccine") against [rabies](https://en.wikipedia.org/wiki/Rabies "Rabies"), and also made many discoveries in the field of chemistry, including the [asymmetry of crystals](https://en.wikipedia.org/wiki/Optical_isomerism "Optical isomerism"). In chemistry, [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev "Dmitri Mendeleev"), following the [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory "Atomic theory") of [John Dalton](https://en.wikipedia.org/wiki/John_Dalton "John Dalton"), created the first [periodic table](https://en.wikipedia.org/wiki/Periodic_table "Periodic table") of [elements](https://en.wikipedia.org/wiki/Chemical_element "Chemical element"). In physics, the experiments, theories and discoveries of [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday "Michael Faraday"), [Andre-Marie Ampere](https://en.wikipedia.org/wiki/Andre-Marie_Ampere "Andre-Marie Ampere"), [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell "James Clerk Maxwell"), and their contemporaries led to the creation of [electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism "Electromagnetism") as a new branch of science. [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics "Thermodynamics") led to an understanding of heat and the notion of energy was defined.
 
@@ -217,8 +262,11 @@ A massive amount of new technologies were developed in the 20th century. Technol
 
 ### 👉 Third Industrial Revolution: Information & Digitalization (1947 ~ 2011)
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+- ↗ [Internet & Entertainment Industry](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
 ↗ [History of Computing](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+
+↗ [Web Development & The Internet](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 
 

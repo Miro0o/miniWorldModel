@@ -21,7 +21,6 @@ A deeper guide to combinatorics that is not often offered in school settings. It
 ![Screenshot 2022-12-25 at 4.12.50 PM](../../../../../Assets/Pics/Screenshot%202022-12-25%20at%204.12.50%20PM.png)
 
 
-
 ### 组合数学的主要技巧
 - 一一对应
 - 数学归纳法

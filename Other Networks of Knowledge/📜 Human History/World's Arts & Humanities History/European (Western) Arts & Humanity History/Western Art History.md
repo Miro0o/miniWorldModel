@@ -59,15 +59,15 @@ European art is arranged into a number of stylistic periods, which, historically
 2.4 [古代美洲藝術](https://people.cs.nycu.edu.tw/~whtsai/USA_New_York_2013/Webpages/01%20Main%20Pages/Website_map.htm#Ancient_American_art)(Ancient American Art)(c. 3000 BC–900 AD)
 
 
-### Minoan
+### Minoan Art
 
 
-### Classical Greek and Hellenic
+### Classical Greek and Hellenic Art
 ![|400](../../../../Assets/Pics/Pasted%20image%2020251215214205.png)
 <small>The Euphiletos Painter Panathenaic prize amphora; 530 BC; painted terracotta; height: 62.2 cm; Metropolitan Museum of Art (New York City) </small>
 
 
-### Roman
+### Roman Art
 
 
 

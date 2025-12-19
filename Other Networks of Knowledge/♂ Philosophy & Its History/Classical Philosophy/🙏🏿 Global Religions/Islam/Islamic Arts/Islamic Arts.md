@@ -1,4 +1,4 @@
-# Combinatorial Counting Theorems
+# Islamic Arts
 
 [TOC]
 

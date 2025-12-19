@@ -11,9 +11,10 @@
 ↗ [Human History](../📜%20Human%20History/Human%20History.md)
 ↗ [World's Arts & Humanities History](../📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
 ↗ [World's Science & Technology History](../📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [Mathematics](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
+
 ↗ [The Development History of AI](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
@@ -58,6 +59,11 @@ Philosophers use a great variety of methods to arrive at philosophical knowledge
 > - History of philosophy
 > - Philosophical schools of thought
 > - Philosophical literature
+
+
+### Philosopher or Ph.D. ?
+↗ [(CS) Master & PhD Guide - Preparation & Application](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [International Master & PhD Programmes](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 
 
 

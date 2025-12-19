@@ -16,7 +16,13 @@
 
 🎬【数学分析陈纪修无障碍重制版】 https://www.bilibili.com/video/BV1sX4y1Y7jH/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-🎬 3blue1brown
+🎬 Essence of Calculus - 3blue1brown
+https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=2ALR2QATq_ZyH1V5
+- [The essence of calculus](https://youtu.be/WUvTyaaNkzM?si=aILJ2QB2-C0z27bo)
+- etc.
+🎬 https://youtu.be/mvmuCPvRoWQ?si=WOarG_mjw9TmOi0u
+Euler's formula with introductory group theory | 3B1B
+
 
 https://math.fandom.com/zh/wiki/Category:微分学
 中文数学Wiki
@@ -269,6 +275,7 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 
 
 ### 1️⃣1️⃣ (欧氏空间上的连续和极限)
+↗ [Euclidean Geometry](../Geometry/Euclidean%20Geometry/Euclidean%20Geometry.md)
 
 
 ### ⭐ 1️⃣2️⃣ Multivariable Differential Calculus (多元微分学)
@@ -286,3 +293,15 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 ## Ref
 [ε-δ语言 | wikipedia]: https://zh.wikipedia.org/zh-cn/%CE%95-%CE%B4%E8%AF%AD%E8%A8%80
 ε-δ语言，或极限的(ε, δ)定义（(ε, δ)-definition of limit）是一种在数学分析中仅使用（有限多的）实数值来定义极限的方法。
+
+[小朋友逆袭！指导李永乐老师做小学数学题！｜李永乐]: https://youtu.be/4uFp7QDiEiU
+![Screenshot 2023-01-15 at 11.45.03 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.45.03%20PM.png)
+
+[x的x次方图像长啥样？利用复数拓展乘方，刷新你对数学的认知！｜李永乐]: https://youtu.be/6HYZWVYv0WY
+![Screenshot 2023-01-15 at 11.42.59 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.59%20PM.png)
+
+![Screenshot 2023-01-15 at 11.42.11 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.11%20PM.png)
+
+![Screenshot 2023-01-15 at 11.41.11 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.11%20PM.png)
+
+![Screenshot 2023-01-15 at 11.41.32 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.32%20PM.png)

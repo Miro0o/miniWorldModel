@@ -108,8 +108,8 @@ The connection of reason to symbolic thinking has been expressed in different wa
 
 ### Methodologies in Logic
 > ↗ [Marxism & Communism](../../../Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md) (马克思主义的基本方法)
-> ↗ [Mathematics /Types of Proofs](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Mathematics /Types of Proofs ⭐](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs%20⭐)
 > ↗ [Proof Theory](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 
 > 📖 Gemini
@@ -136,10 +136,12 @@ The connection of reason to symbolic thinking has been expressed in different wa
 - **系统分析法**：
 	- 将研究对象视为一个有机的整体，分析其内部各组成部分及其相互关系。
 #### Logical Reasoning
+> ↗ [Mathematics /Types of Proofs ⭐](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs%20⭐)
+
 > 🔗 https://en.wikipedia.org/wiki/Reason#Logical_reasoning_methods_and_argumentation
 
 A subdivision of [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy") and a variety of reasoning is [logic](https://en.wikipedia.org/wiki/Logic "Logic"). The traditional main division made in philosophy is between [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") and [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning"). [Formal logic](https://en.wikipedia.org/wiki/Logic "Logic") has been described as _the science of deduction_. The study of inductive reasoning is generally carried out within the field known as [informal logic](https://en.wikipedia.org/wiki/Informal_logic "Informal logic") or [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking "Critical thinking").
-##### Deductive Logic & Deductive Reasoning ✅
+##### Deductive Logic & Deductive Reasoning (演绎推理) ✅
 > ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 > 
 > ↗ [Logic And Mechanized (Formal) Reasoning](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
@@ -154,11 +156,11 @@ A subdivision of [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philoso
 **Deductive reasoning** is the process of drawing valid [inferences](https://en.wikipedia.org/wiki/Inference "Inference"). An inference is [valid](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)") if its conclusion follows [logically](https://en.wikipedia.org/wiki/Logic "Logic") from its [premises](https://en.wikipedia.org/wiki/Premise "Premise"), meaning that it is impossible for the premises to be true and the conclusion to be false. For example, the inference from the premises "all men are mortal" and "[Socrates](https://en.wikipedia.org/wiki/Socrates "Socrates") is a man" to the conclusion "Socrates is mortal" is deductively valid. An [argument](https://en.wikipedia.org/wiki/Argument "Argument") is _[sound](https://en.wikipedia.org/wiki/Soundness "Soundness")_ if it is valid _and_ all its premises are true. One approach defines deduction in terms of the intentions of the author: they have to intend for the premises to offer deductive support to the conclusion. With the help of this modification, it is possible to distinguish valid from invalid deductive reasoning: it is invalid if the author's belief about the deductive support is false, but even invalid deductive reasoning is a form of deductive reasoning.
 
 **Deductive logic** studies under what conditions an argument is valid. According to the [semantic](https://en.wikipedia.org/wiki/Semantic "Semantic") approach, an argument is valid if there is no possible [interpretation](https://en.wikipedia.org/wiki/Interpretation_\(logic\) "Interpretation (logic)") of the argument whereby its premises are true and its conclusion is false. The [syntactic](https://en.wikipedia.org/wiki/Syntactic "Syntactic") approach, by contrast, focuses on [rules of inference](https://en.wikipedia.org/wiki/Rules_of_inference "Rules of inference"), that is, schemas of drawing a conclusion from a set of premises based only on their [logical form](https://en.wikipedia.org/wiki/Logical_form "Logical form"). There are various rules of inference, such as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens "Modus ponens") and [modus tollens](https://en.wikipedia.org/wiki/Modus_tollens "Modus tollens"). Invalid deductive arguments, which do not follow a rule of inference, are called [formal fallacies](https://en.wikipedia.org/wiki/Formal_fallacies "Formal fallacies"). Rules of inference are definitory rules and contrast with strategic rules, which specify what inferences one needs to draw in order to arrive at an intended conclusion.
-##### Inductive Logic & Inductive Reasoning ❌
+##### Inductive Logic & Inductive Reasoning (归纳推理) ❌
 > 🔗 https://en.wikipedia.org/wiki/Inductive_reasoning
 
 **Inductive reasoning** refers to a variety of [methods of reasoning](https://en.wikipedia.org/wiki/Method_of_reasoning "Method of reasoning") in which the conclusion of an argument is supported not with deductive certainty, but at best with some degree of probability. Unlike [_deductive_ reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") (such as [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction "Mathematical induction")), where the conclusion is _certain_, given the premises are correct, inductive reasoning produces conclusions that are at best _[probable](https://en.wikipedia.org/wiki/Probable "Probable")_, given the evidence provided.
-##### Abductive Logic & Abductive Reasoning ❌
+##### Abductive Logic & Abductive Reasoning (遡因推理) ❌
 > 🔗 https://en.wikipedia.org/wiki/Abductive_reasoning
 
 **Abductive reasoning** (also called **abduction**, **abductive inference**,1) or **retroduction**) is a form of [logical inference](https://en.wikipedia.org/wiki/Logical_inference "Logical inference") that seeks the simplest and most likely conclusion from a set of observations. It was formulated and advanced by American [philosopher](https://en.wikipedia.org/wiki/Philosopher "Philosopher") and [logician](https://en.wikipedia.org/wiki/Logician "Logician") [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce "Charles Sanders Peirce") beginning in the latter half of the 19th century.
@@ -166,13 +168,17 @@ A subdivision of [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philoso
 Abductive reasoning, unlike [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), yields a plausible conclusion but does not definitively verify it. Abductive conclusions do not eliminate uncertainty or doubt, which is expressed in terms such as "best available" or "most likely". While [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") draws general conclusions that apply to many situations, abductive conclusions are confined to the particular observations in question.
 
 In the 1990s, as computing power grew, the fields of law, [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") research spurred renewed interest in the subject of abduction. Diagnostic [expert systems](https://en.wikipedia.org/wiki/Expert_system "Expert system") frequently employ abduction.
-##### Analogical Reasoning
+##### Analogical Reasoning (类比推理)
 > 🔗 https://en.wikipedia.org/wiki/Analogical_reasoning
-
-##### Fallacious Reasoning
+##### Fallacious Reasoning (谬误推理)
 > Main articles: 🔗 [Fallacy](https://en.wikipedia.org/wiki/Fallacy "Fallacy"), 🔗 [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy "Formal fallacy"), and 🔗 [Informal fallacy](https://en.wikipedia.org/wiki/Informal_fallacy "Informal fallacy")
+#### Logical Reasoning 🆚 Science Method
+#science #mathematical_logic #logic #reasoning
 
-### Formal Logic and Informal Logic 🆚 Mathematical Logic and Critical Thinking
+↗ [Science & Application](../../../../Science%20&%20Application/Science%20&%20Application.md)
+
+
+### Formal Logic 🆚 Informal Logic
 #formal_logic #mathematical_logic #informal_logic
 
 > 🔗 https://philosophy.hku.hk/think/logic/whatislogic.php

@@ -308,10 +308,8 @@ However, (in my opinion) this is not necessary. Semantics is just the process th
 - 其二称为**赋值（Evaluation）**，用来解释变元符号。
 ##### Langauge Structure
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
-
 ##### Formula Evaluation
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
-
 ##### Models & Semantics ⭐
 > ↗ [Henkin Model & Henkin Semantics](Higher-Order%20Logic%20(HOL)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 > ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)

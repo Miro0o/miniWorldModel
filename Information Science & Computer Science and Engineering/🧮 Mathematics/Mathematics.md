@@ -45,6 +45,16 @@ Mathematical Reasoning，Writing and Proof | Ted Sundstrom
 Mathematical Thinking - Why Everyone Should Study Math | Howard Karloff
 - _Mathematical Thinking_ is an ideal textbook for transition courses aimed at undergraduates moving from lower level to more advanced topics, as well as for math recruitment and invitational courses at the freshman or sophomore level. It may also be of interest in computer science departments and can be used as a supplemental text for courses in discrete mathematics and graph theory.
 #### Other Online Resources
+https://www.3blue1brown.com/
+3blue1brown, or 3b1b for short, is primarily a [YouTube channel](https://www.youtube.com/3blue1brown) about discovery and creativity in math, with an emphasis on visualizations. On this site, you can find written versions of many of these lessons, often with more interactive elements sprinkled in.
+
+Some lessons cover standard topics people may be searching for, such as [linear algebra](https://www.3blue1brown.com/lessons/vectors), [neural networks](https://www.3blue1brown.com/lessons/neural-networks), [calculus](https://www.3blue1brown.com/lessons/essence-of-calculus), [Fourier transforms](https://www.3blue1brown.com/lessons/fourier-transforms), [quantum computing](https://www.3blue1brown.com/lessons/grover), and many more.
+
+Other lessons [are](https://www.3blue1brown.com/lessons/colliding-blocks-v2) [more](https://www.3blue1brown.com/lessons/inscribed-rect-v2) [purely](https://www.3blue1brown.com/lessons/hardest-problem) [playful](https://www.3blue1brown.com/lessons/prime-spirals), exploring puzzles and problems with some intrinsic beauty, particularly those which seem quite challenging at first, but where some shift in perspective makes them both doable and beautiful.
+
+The first category aims to motivate math by its usefulness, and the second aims to motivate math as an art form. Of course, the line dividing these two is easily blurred.
+
+
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)
 [数学分支](https://blog.csdn.net/shi_kan/article/details/8990951)
@@ -275,7 +285,7 @@ After we have defined various objects and notions, we usually make **mathematica
 ==A **theorem** is a mathematical statement proved true.== Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
 #### Finding Proofs
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
-#### Types of Proofs
+#### Types of Proofs ⭐
 > ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
@@ -574,6 +584,8 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 20. Proof of the existence of linear differential equations having a prescribed [monodromy](https://en.wikipedia.org/wiki/Monodromy "Monodromy") group.
 21. Uniformization of analytic relations by means of [automorphic functions](https://en.wikipedia.org/wiki/Automorphic_function "Automorphic function").
 22. Further development of the methods of the calculus of variations.
+
+
 ### The Millennium Prize Problems
 
 
@@ -595,4 +607,4 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 来源：知乎  
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-18 【“函数”为什么会是“函”？ - 寧世科学辞海 | 小红书 - 你的生活兴趣社区】 😆 5S8BzU9XHLSWs1y 😆 https://www.xiaohongshu.com/discovery/item/6864ee7a000000001c037de0?source=webshare&xhsshare=pc_web&xsec_token=ABHzGdmnpgYvtcNm2A8tGi6K37DylddLz7LmNksWs70Dk=&xsec_source=pc_share
+[18 【“函数”为什么会是“函”？ - 寧世科学辞海 | 小红书 - 你的生活兴趣社区】 😆 5S8BzU9XHLSWs1y 😆 ]: https://www.xiaohongshu.com/discovery/item/6864ee7a000000001c037de0?source=webshare&xhsshare=pc_web&xsec_token=ABHzGdmnpgYvtcNm2A8tGi6K37DylddLz7LmNksWs70Dk=&xsec_source=pc_share

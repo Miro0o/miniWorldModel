@@ -46,9 +46,22 @@ chaoz # berkeley.edu (expired)
 
 
 ## HMT, China 🇭🇰 🇲🇴 🧵
-### HongKong University
+### HKU
 【教授本人】港大MLSys/网络/安全方向新AP招生 - 令狐行的文章 - 知乎
 https://zhuanlan.zhihu.com/p/1903423043965003329
+
+
+### CUHK
+Department of Computer Science and Engineering
+https://www.cse.cuhk.edu.hk/
+
+https://www.cse.cuhk.edu.hk/people/faculty/shaohuali/
+shaohua li
+
+https://www.cse.cuhk.edu.hk/people/faculty/wei-meng/
+https://www.cse.cuhk.edu.hk/~wei/
+wei meng
+seclab https://seclab.cse.cuhk.edu.hk/
 
 
 

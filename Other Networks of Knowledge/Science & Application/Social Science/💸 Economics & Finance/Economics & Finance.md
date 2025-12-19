@@ -498,3 +498,37 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 
 [想训练一个宏观市场的 GPTs？不妨收下这 28 份 2024 全球资本市场展望报告｜好物精选特刊]: https://next.iois.me/gpts-macro-market-28-global-capital-outlook-2024/
 
+
+[🎬 2008年次贷危机是如何发生的？利率、房价、金融衍生品如何导致银行破产？ | 李永乐]: https://youtu.be/XOJ6Ffj6LLg
+[00:00](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=0s) 由硅谷银行破产引发的思考和所需的前期知识补充
+[01:18](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=78s) 资产证券化
+- 抵押支持证券MBS, Mortgage-Backed security
+	- 把资产抵押的凭证作为债券发行
+- 资产支持证券ABS, Asset-Backed Securitization
+	- [3:35](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=215s) 资产搅拌
+	- [4:28](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=268s) 风险隔离 (SPV)
+	- [4:54](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=294s) 债券分层
+	- [6:22](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=382s) 债券增信，「信用评级」
+		- [S&P Global Ratings](https://www.spglobal.com/ratings/en/) 
+		- [Moody's Investors Service](https://www.moodys.com)
+		- [Fitch Ratings](https://www.fitchratings.com)
+	- [7:01](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=421s) 销售债券
+[07:59](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=479s) 中级版资产证券化
+- 担保债务凭证CDO，Collateralized Debt Obligations
+	- 把MBS和ABS打包重组，进行债券发行
+	- 对CDO进行CDO，重复打包后发行
+[10:11](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=611s) 高级版资产证券化
+- 信用违约掉期CDS， 
+[13:44](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=824s) 2008年美国的次贷危机 (贝尔斯登时刻 ｜ AIG ｜雷曼时刻)
+- 次级贷款：还款能力较差的借贷人的贷款
+	- 忍者贷款，ninja loans
+	- 可调利率贷款，ARMs, Adjustable Rate Mortgage
+- 次贷危机
+	- 银行的道德风险
+	- 评级机构的道德风险
+	- 金融衍生品泛滥造成经济混乱
+	- 政府机构监管不严格放大了风险
+巴塞尔协议3
+[19:44](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=1184s) 内容总结 
+
+[🎬 硅谷银行为何倒闭？这和全球疫情、中美摩擦、俄乌战争都有关… | 李永乐]: https://youtu.be/OhOc4n_LiFQ

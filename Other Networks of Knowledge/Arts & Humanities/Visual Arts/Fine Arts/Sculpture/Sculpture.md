@@ -1,4 +1,4 @@
-# Filming & Dynamic Visual Arts
+# Sculpture
 
 [TOC]
 

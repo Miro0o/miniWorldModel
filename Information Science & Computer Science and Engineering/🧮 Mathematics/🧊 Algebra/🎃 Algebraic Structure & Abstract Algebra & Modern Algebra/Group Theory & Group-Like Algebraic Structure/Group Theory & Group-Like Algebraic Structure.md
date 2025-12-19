@@ -20,6 +20,9 @@ New video series on the theory of Lie, focusing on the visual intuition rather t
 🎬 https://youtube.com/playlist?list=PLSzBa8LQ41yQiPzLrjqBZbrjL85uWOGSM&si=HbYoU9AECzH61zGk
 Group Theory in Music
 
+🎬 https://youtu.be/mvmuCPvRoWQ?si=WOarG_mjw9TmOi0u
+Euler's formula with introductory group theory | 3B1B
+
 
 
 ## Intro

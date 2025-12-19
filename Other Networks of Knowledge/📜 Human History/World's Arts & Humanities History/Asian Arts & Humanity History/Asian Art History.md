@@ -32,7 +32,7 @@
 
 
 
-## Islamic art
+## Islamic Art
 ↗ [Islam](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
 
 

@@ -8,15 +8,15 @@
 ### Related Topics
 ↗ [Linguistics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 ↗ [Mathematical Logic Basics (Formal Logic)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
-↗ [LLM (Large Language Model)](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-
+↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
+↗ [LLM (Large Language Model)](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [Knowledge Graph (KG)](../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(KRR)/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
 
 
@@ -89,7 +89,27 @@ If you have no background in neural networks but would like to take the course a
 
 
 ## Intro
-### Background & Classical Approaches
+### Language and Language Processing
+↗ [Philosophy of Language](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+- ↗ [Ludwig Wittgenstein](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ludwig%20Wittgenstein.md)
+↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+- ↗ [Linguistics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+
+↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	 - ↗ [Mathematical Logic Basics (Formal Logic)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+	 - ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+
+↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+
+↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+- ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+
+
+### NLP Background & Classical Approaches
 #### Knowledge in Speech and Language Processing
 > ↗ [Learning English the Right Way](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 > - ↗ [English Grammar](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/English%20Grammar.md)
@@ -163,7 +183,7 @@ To many, the ability of computers to process language as skillfully as we humans
 In Turing’s game, there are three participants: two people and a computer. One of the people is a contestant who plays the role of an interrogator. To win, the interrogator must determine which of the other two participants is the machine by asking a series of questions via a teletype. The task of the machine is to fool the interrogator into believing it is a person by responding as a person would to the interrogator’s questions. The task of the second human participant is to convince the interrogator that the other participant is the machine and that she is human. 
 
 
-### Language Models
+### Language Model (LM)
 > 🔗 [What is a language model?](https://stanford-cs324.github.io/winter2022/lectures/introduction/#what-is-a-language-model)
 
 ==The classic definition of a language model (LM) is a **probability distribution over sequences of tokens**.== Suppose we have a **vocabulary $\Box$** of a set of tokens. A language model $p$ assigns each sequence of tokens $x_1,…,x_L\in\Box$ a probability (a number between 0 and 1): $$p(x_1,…,x_L).$$
@@ -341,7 +361,7 @@ Now, the main challenge was that training neural networks was much more **compu
 Since 2003, two other key developments in neural language modeling include:
 - **Recurrent Neural Networks** (RNNs), including Long Short Term Memory (LSTMs), allowed the conditional distribution of a token $x_i$ to depend on the **entire context** $x_{1:i−1}$ (effectively $n=\infty$), but these were hard to train.
 - **Transformers** are a more recent architecture (developed for machine translation in 2017) that again returned to having fixed context length n, but were much **easier to train** (and exploited the parallelism of GPUs). Also, n could be made “large enough” for many applications (GPT-3 used n=2048).
-#### Large Language Models
+#### Large Language Models ⭐
 ↗ [LLM (Large Language Model) /The Technical Evolution of LLM & Future Directions](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#The%20Technical%20Evolution%20of%20LLM%20&%20Future%20Directions)
 ↗ [Transformers](../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 

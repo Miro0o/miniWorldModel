@@ -402,7 +402,17 @@ Regular Properties
 ↗ [Automated & Generic Theorem Provers](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 
 
-### Statistical Model Checking
+### DTMC Model Checking & Algorithms
+↗ [MC Algorithms For CTL*](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
+↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md)
+↗ [MC Algorithm For LTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithm%20For%20LTL.md)
+
+
+### Probabilistic Model Checking & Algorithms
+↗ [MC Algorithms For PCTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
+
+
+### Statistical Model Checking & Algorithms
 ↗ [Probabilities & Statistics](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 ↗ [Markov Process & Markov Chain (MC)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 #### Random Variables for Trace Generation
@@ -430,14 +440,6 @@ Unbounded probability estimation
 Steady state
 Nondeterminism
 Rare events
-
-
-### Model Checking Algorithms
-↗ [MC Algorithms](MC%20Algorithms/MC%20Algorithms.md)
-- ↗ [MC Algorithms For CTL*](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
-- ↗ [MC Algorithms For CTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL.md)
-- ↗ [MC Algorithm For LTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithm%20For%20LTL.md)
-- ↗ [MC Algorithms For PCTL](MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
 
 
 

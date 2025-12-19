@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Arts & Humanities](../../../../../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-- ↗ [Painting & Static Visual Arts](../../../../../Arts%20&%20Humanities/Visual%20Arts/Painting%20&%20Static%20Visual%20Arts/Painting%20&%20Static%20Visual%20Arts.md)
+- ↗ [Fine Arts](../../../../../Arts%20&%20Humanities/Visual%20Arts/Fine%20Arts/Fine%20Arts.md)
 
 
 

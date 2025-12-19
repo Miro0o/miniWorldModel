@@ -1,4 +1,4 @@
-# Combinatorial Counting Theorems
+# Handicrafts & Arts and Crafts
 
 [TOC]
 
