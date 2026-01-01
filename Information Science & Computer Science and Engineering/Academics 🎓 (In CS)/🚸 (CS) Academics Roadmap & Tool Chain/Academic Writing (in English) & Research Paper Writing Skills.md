@@ -35,6 +35,14 @@ Writing Resources for Master’s Projects | Columbia University Libraries
 ### Story is All you Need
 
 
+### Systematization of Knowledge (SoK) & Survey Paper
+> We also welcome **systematization of knowledge (SoK)** papers. These papers will not be judged on novel research contributions, but on their value to the research community. SoK papers should provide an important new viewpoint on an established, major research area; support or challenge long-held beliefs in such an area with compelling evidence; or present a convincing, comprehensive new taxonomy of such an area. Survey papers without such insights are not appropriate for acceptance.
+> 
+> https://ct-rsa-2023.eecs.oregonstate.edu
+
+🏠 https://oaklandsok.github.io/
+
+
 
 ## Ref
 [How to write a first-class paper - Six experts offer advice on producing a manuscript that will get published and pull in readers.]: https://www-nature-com.proxy.findit.cvt.dk/articles/d41586-018-02404-4

@@ -137,6 +137,12 @@ Individual per-author statistics for different areas
 ![](../../../Assets/Pics/Pasted%20image%2020251021134444.png)
 ![](../../../Assets/Pics/Pasted%20image%2020251021134450.png)
 
+https://www.core.edu.au/conference-portal
+CORE Rankings Portal
+
+https://scie.lcc.uma.es:8443/
+This initiative is sponsored by [GII](http://www.gii.it/) (Group of Italian Professors of Computer Engineering), [GRIN](http://www.grin-informatica.it/) (Group of Italian Professors of Computer Science), and [SCIE](http://www.scie.es/) (Spanish Computer-Science Society). For details about the rating algorithm and the process, see the [Conference Rating description page](https://scie.lcc.uma.es:8443/conferenceRating.jsf;jsessionid=015E746898DE69DFA4667CCFAA0FC4F9).
+
 
 ### Others
 https://www.zhihu.com/column/c_196483113

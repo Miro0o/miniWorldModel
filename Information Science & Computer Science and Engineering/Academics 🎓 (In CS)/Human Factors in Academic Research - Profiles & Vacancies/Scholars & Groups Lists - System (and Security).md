@@ -55,6 +55,7 @@ https://zhuanlan.zhihu.com/p/1903423043965003329
 Department of Computer Science and Engineering
 https://www.cse.cuhk.edu.hk/
 
+https://shao-hua-li.github.io/home
 https://www.cse.cuhk.edu.hk/people/faculty/shaohuali/
 shaohua li
 

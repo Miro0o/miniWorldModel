@@ -156,7 +156,6 @@ Fundamentally, fuzzing shifts the focus from functional test cases (i.e., what s
 > _‘Fuzzing is a vulnerability discovery solution that resonates with random-mutation, feedback-driven, coverage-guided, constraint-guided, seed-scheduling, and target-oriented strategies. … Most topline companies and organizations utilize fuzzing to ensure quality control and cybersecurity operations. For example, Google uses fuzzing to verify and ensure that the millions of Lines of Code (LOC) in Google Chrome are bug-free [67]. It was challenging to admit that Google could find 20K vulnerabilities in Chrome using fuzz testing [67]. The dominant software from Microsoft has to pass the fuzz test stage in the software development cycle to ensure no code vulnerabilities and confirm stability [136]. The DoD Enterprise DevSecOps Reference Design document [40] from the United States has mentioned that continuous testing across the software development cycle is necessary for the test tools support. Therefore, it is essential to use fuzzing to discover Distributed Denial of Service attacks and malware exploit possibilities, validate system security, and reduce the risk of system degradation [40].’ [pp. 71:1-2]_
 
 
-
 ### Why Fuzzing?
 > 🔗 Fuzzing技术总结（Brief Surveys on Fuzz Testing） - wcventure的文章 - 知乎 https://zhuanlan.zhihu.com/p/43432370
 

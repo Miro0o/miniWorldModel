@@ -8,6 +8,8 @@
 🏠 https://www.rust-lang.org
 🚧 https://github.com/rust-lang/rust
 📚 https://doc.rust-lang.org/book/index.html
+📂 https://rust-lang.org/learn/
+- https://doc.rust-lang.org/std/index.html
 
 🚽 https://crates.io
 crates.io -- the Rust community’s crate registry
@@ -40,4 +42,3 @@ The Rust programming language helps you write faster, more reliable software. Hi
 
 
 ## Ref
-

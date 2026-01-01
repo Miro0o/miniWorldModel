@@ -87,17 +87,15 @@ AI
 ↗ [FAQ - Academia and Research](FAQ%20-%20Academia%20and%20Research.md)
 ↗ [给各位天命人的劝退信](Appendix/给各位天命人的劝退信.md)
 
+
+
+## Research Methodology
 ↗ [(CS) Academics Roadmap & Tool Chain](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
 
 
-## Academic Publications
-### Systematization of Knowledge (SoK) & Survey Paper
-> We also welcome **systematization of knowledge (SoK)** papers. These papers will not be judged on novel research contributions, but on their value to the research community. SoK papers should provide an important new viewpoint on an established, major research area; support or challenge long-held beliefs in such an area with compelling evidence; or present a convincing, comprehensive new taxonomy of such an area. Survey papers without such insights are not appropriate for acceptance.
-> 
-> https://ct-rsa-2023.eecs.oregonstate.edu
-
-🏠 https://oaklandsok.github.io/
+## Academic Publications & Venues
+↗ [Academic Venues in Computer Science](🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
 
 
 
@@ -118,7 +116,7 @@ AI
 ### 论文收录引用检索证明
 
 ### \* Bibliometrics Related Indexes 🙈
-#### World University Ranking ⭐ ⭐ ⭐
+#### World University Ranking
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education

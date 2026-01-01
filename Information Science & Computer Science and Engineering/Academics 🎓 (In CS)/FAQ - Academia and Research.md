@@ -19,6 +19,7 @@
 #PhD #academia #experiences 
 
 > ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+> ↗ [给各位天命人的劝退信](Appendix/给各位天命人的劝退信.md)
 
 
 ### Why PhD?
@@ -254,7 +255,7 @@ https://www.zhihu.com/question/416261594/answer/3454868332
 链接：https://www.zhihu.com/question/609920887/answer/3104899501  
 来源：知乎  
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
-  
+
 
 马上开始硕博连读的第五年，根据我前三年的抑郁情节和最近这一年多逐渐走出来的经历，回答一下这个问题。
 
