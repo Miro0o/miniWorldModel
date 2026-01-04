@@ -23,18 +23,6 @@
 ### Federalism
 
 
-
-## U.S. Federal Government
-### Legislative Branch
-
-
-### Executive Branch
-
-
-### Judicial Branch
-
-
-
 ## U.S. State Governments
 
 

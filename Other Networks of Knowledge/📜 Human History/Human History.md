@@ -741,23 +741,21 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 ## 5️⃣ Post Cold-War and $21^{th}$ Century: De-globalization
 ### U.S. Supremacy & Americanization ⭐
-↗ [U.S. Military Forces](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
-
-↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
-	- ↗ [U.S. Mass Media Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Mass%20Media%20Industry/U.S.%20Mass%20Media%20Industry.md)
-- ↗ [U.S. Finance Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Finance%20Industry/U.S.%20Finance%20Industry.md)
-- ↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
-
-↗ [U.S. Science & Technology](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Science%20&%20Technology/U.S.%20Science%20&%20Technology.md)
-
-↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
+↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
 
 
 ### Emerging Powers & De-globalization
+↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
 
 
 ### The Revolution of Information Technology
+↗ [Information Technology Industry](../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
+↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+
+↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
+↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+
+↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 
 ### $21^{th}$ Century: New Challenges & Opportunities
@@ -769,7 +767,11 @@ https://sdgs.un.org/
 > Agenda 21 is a non-binding action plan of the United Nations with regard to sustainable development. It is a product of the Earth Summit (UN Conference on Environment and Development) held in Rio de Janeiro, Brazil, in 1992. It is an action agenda for the UN, other multilateral organizations, and individual governments around the world that can be executed at local, national, and global levels. One major objective of the Agenda 21 initiative is that every local government should draw its own local Agenda 21. Its aim initially was to achieve global sustainable development by 2000, with the "21" in Agenda 21 referring to the original target of the 21st century
 #### Global Challenges Faced by the World
 
-[當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社]: http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
+↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+
+> 🔗 http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
+> 當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社
+
 當前，世界面臨的全球性問題不僅種類繁多而且變化多端。要有的放矢有效應對全球性問題的挑戰，首先需要深刻認識和把握所面臨的主要全球性問題及其發展趨勢。
 - 人口問題
 - 環境問題

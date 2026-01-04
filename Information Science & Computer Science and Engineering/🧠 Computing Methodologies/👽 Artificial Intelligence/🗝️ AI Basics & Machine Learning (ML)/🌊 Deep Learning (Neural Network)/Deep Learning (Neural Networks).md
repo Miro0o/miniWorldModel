@@ -153,7 +153,6 @@ This is the most step-by-step spelled-out explanation of backpropagation and tra
 - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 
 
-
 ### CNN (Convolution Neural Network)
 ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
 - ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)

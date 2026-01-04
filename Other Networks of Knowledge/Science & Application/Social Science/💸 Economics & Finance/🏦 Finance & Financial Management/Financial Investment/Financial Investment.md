@@ -75,6 +75,44 @@ Investors generally expect higher returns from riskier investments. When a low-r
 - 又称“证券信用交易”或保证金交易，是指投资者向具有融资融券业务资格的证券公司提供担保物，借入资金买入证券（融资交易）或借入证券并卖出（融券交易）的行为。
 - **融资交易**：若你看好某支股票前景，认为股价一定上涨，想要买这支股票却缺乏现金，可以向证券公司借钱买下股票，将股票寄存在证券公司，等到股票上涨后委托证劵公司卖出，将借贷的钱与利息还给证券公司，赚取其中差额。
 - **融券交易**：则为投资人认为某支股票一定会跌，想要趁高档时逢高卖出，但苦于手中没有足够的持股，因此向证券公司缴交保证金，借来股票逢高卖出，等到股价下跌后，再逢低买回股票，还给证券公司。
+#### Investment Entities ⭐
+##### Investment Banks & Security Firms
+🔗 https://en.wikipedia.org/wiki/List_of_investment_banks
+List of investment Banks /Security Firms
+
+↗ [Securities Analysis and Investment](Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+##### Investment Funds
+> 🔗 https://en.wikipedia.org/wiki/Investment_fund
+
+An investment fund is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group such as reducing the risks of the investment by a significant percentage. These advantages include an ability to:
+1. hire professional investment managers, who may offer better returns and more adequate risk management;
+2. benefit from economies of scale, i.e., lower transaction costs;
+3. increase the asset diversification to reduce some unsystematic risk.
+
+It remains unclear whether professional active investment managers can reliably enhance risk adjusted returns by an amount that exceeds fees and expenses of investment management. Terminology varies with country but investment funds are often referred to as investment pools, collective investment vehicles, collective investment schemes, managed funds, or simply funds. The regulatory term is undertaking for collective investment in transferable securities, or short collective investment undertaking (cf. Law). An investment fund may be held by the public, such as a mutual fund, exchange-traded fund, special-purpose acquisition company or closed-end fund, or it may be sold only in a private placement, such as a hedge fund or private equity fund. The term also includes specialized vehicles such as collective and common trust funds, which are unique bank-managed funds structured primarily to commingle assets from qualifying pension plans or trusts.
+
+Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions (e.g., emerging markets or Europe) or specified industry sectors (e.g., technology). Depending on the country there is normally a bias towards the domestic market due to familiarity, and the lack of currency risk. Funds are often selected on the basis of these specified investment aims, their past investment performance, and other factors such as fees.
+
+![](../../../../../../Assets/Pics/Screenshot%202025-05-03%20at%2011.34.17.png)
+
+> 🔗 https://en.wikipedia.org/wiki/Investment_fund#Internationally_recognised_collective_investments
+
+Internationally recognized collective investments
+- [Exchange-traded funds](https://en.wikipedia.org/wiki/Exchange-traded_fund "Exchange-traded fund") (ETFs)—an open-end fund traded by listed shares on major stock exchanges.
+- [Real Estate Investment Trusts](https://en.wikipedia.org/wiki/Real_estate_investment_trust "Real estate investment trust") (REITs)—a close-ended fund that invests in real estate.
+- [Sovereign investment funds](https://en.wikipedia.org/wiki/Sovereign_investment_fund "Sovereign investment fund")
+
+Country-specific investment funds & collective investments
+- US
+- UK
+- Canadian
+- Ireland
+
+> 🎬 https://youtu.be/31FpW6CMmYE?si=ARdxcVTagmCe96RE
+> 一口气了解全球十大主权基金
+> 🎬 https://youtu.be/kIo2BAubO6k?si=caPHuTPZuWtisesv
+> 一口气了解全球三大主权基金
+##### Retail/Small Investors (Leeks)
 
 
 ### 2️⃣ Investment Instruments
@@ -118,32 +156,6 @@ In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Tr
 - [Bonds](https://en.wikipedia.org/wiki/Bond_\(finance\) "Bond (finance)") - [loans](https://en.wikipedia.org/wiki/Loan "Loan") to governments and businesses traded on public markets
 - [Cash](https://en.wikipedia.org/wiki/Cash "Cash") - holding a particular [currency](https://en.wikipedia.org/wiki/Currency "Currency"), whether in anticipation of spending or to take advantage of or hedge against changes in a [currency exchange rate](https://en.wikipedia.org/wiki/Currency_exchange_rate "Currency exchange rate")
 - [Real estate](https://en.wikipedia.org/wiki/Real_estate_investing "Real estate investing"), which can be rented to provide ongoing income or resold if it increases in value
-###### Investment Fund
-> 🔗 https://en.wikipedia.org/wiki/Investment_fund
-
-An investment fund is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group such as reducing the risks of the investment by a significant percentage. These advantages include an ability to:
-1. hire professional investment managers, who may offer better returns and more adequate risk management;
-2. benefit from economies of scale, i.e., lower transaction costs;
-3. increase the asset diversification to reduce some unsystematic risk.
-
-It remains unclear whether professional active investment managers can reliably enhance risk adjusted returns by an amount that exceeds fees and expenses of investment management. Terminology varies with country but investment funds are often referred to as investment pools, collective investment vehicles, collective investment schemes, managed funds, or simply funds. The regulatory term is undertaking for collective investment in transferable securities, or short collective investment undertaking (cf. Law). An investment fund may be held by the public, such as a mutual fund, exchange-traded fund, special-purpose acquisition company or closed-end fund, or it may be sold only in a private placement, such as a hedge fund or private equity fund. The term also includes specialized vehicles such as collective and common trust funds, which are unique bank-managed funds structured primarily to commingle assets from qualifying pension plans or trusts.
-
-Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions (e.g., emerging markets or Europe) or specified industry sectors (e.g., technology). Depending on the country there is normally a bias towards the domestic market due to familiarity, and the lack of currency risk. Funds are often selected on the basis of these specified investment aims, their past investment performance, and other factors such as fees.
-
-![](../../../../../../Assets/Pics/Screenshot%202025-05-03%20at%2011.34.17.png)
-
-> 🔗 https://en.wikipedia.org/wiki/Investment_fund#Internationally_recognised_collective_investments
-
-Internationally recognized collective investments
-- [Exchange-traded funds](https://en.wikipedia.org/wiki/Exchange-traded_fund "Exchange-traded fund") (ETFs)—an open-end fund traded by listed shares on major stock exchanges.
-- [Real Estate Investment Trusts](https://en.wikipedia.org/wiki/Real_estate_investment_trust "Real estate investment trust") (REITs)—a close-ended fund that invests in real estate.
-- [Sovereign investment funds](https://en.wikipedia.org/wiki/Sovereign_investment_fund "Sovereign investment fund")
-
-Country-specific investment funds & collective investments
-- US
-- UK
-- Canadian
-- Ireland
 ##### Alternative Investment
 > 🔗 https://en.wikipedia.org/wiki/Investment
 
