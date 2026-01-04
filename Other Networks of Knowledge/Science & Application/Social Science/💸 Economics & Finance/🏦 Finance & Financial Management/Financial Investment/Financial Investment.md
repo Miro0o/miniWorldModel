@@ -12,7 +12,7 @@
 - ↗ [Web 3.0](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/Web%203.0.md)
 	- ↗ [NFT (Non-Fungible Token)](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0/NFT%20(Non-Fungible%20Token).md)
 - ↗ [Decentralized Fiance & Cryptocurrency](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
-	- ↗ [BTC (Bitcoin)](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin).md)
+	- ↗ [BTC (Bitcoin)](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin)/BTC%20(Bitcoin).md)
 
 
 

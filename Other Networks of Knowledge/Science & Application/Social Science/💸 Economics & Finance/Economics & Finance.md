@@ -52,7 +52,7 @@ https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.
 
 
 ## ⛱ Intro: Economics
-### Goods and Trade (商品与交易)
+### Products and Trade (商品与交易)
 > 🔗 https://en.wikipedia.org/wiki/Trade
 
 ==**Trade** involves the transfer of **goods** and **services** from one person or entity to another, often in exchange for **money**. Economists refer to a system or network that allows trade as a **market**.==
@@ -65,6 +65,63 @@ In one modern view, trade exists due to **specialization and the division of lab
 
 Historically, openness to free trade substantially increased in some areas from 1815 until the outbreak of World War I in 1914. Trade openness increased again during the 1920s but collapsed (in particular in Europe and North America) during the Great Depression of the 1930s. Trade openness increased substantially again from the 1950s onward (albeit with a slowdown during the oil crisis of the 1970s). Economists and economic historians contend that current levels of trade openness are the highest they have ever been.
 #### Price and Value (价格与价值)
+##### Needs vs Production
+##### Price Phenomenon
+###### Inflation (通货膨胀)
+> 🎬 [一口气了解通货膨胀](https://youtu.be/vHUZVwvvP7o?si=PzBp2hbjOEAGZuP1)
+
+###### Deflation (通货紧缩)
+###### Stagflation (停滞性通货膨胀 /滞胀)
+
+#### Genres of Products
+##### Tangible Products
+
+##### Intangible Products
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+#### Genres of Trades /Exchanges
+##### Goods & Services Transactions
+> money -> goods & services
+
+##### Financial Investments /Transactions
+> money -> money
+
+↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
+
+
+### Currency (货币)
+#### Currency Issuance & Global Monetary System
+##### Fiat Money
+↗ [History of Global Monetary System & Financial System](../../../📜%20Human%20History/World's%20Economics%20History/History%20of%20Global%20Monetary%20System%20&%20Financial%20System.md)
+
+↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
+
+> 🔗 https://m.thepaper.cn/baijiahao_7672151
+
+货币是在人类发展过程中，因为需要而逐步演化而成的，从最终的物物交换、到贝壳、羽毛、石头、烟草等原始货币，再到自中世纪（公元476-1453年）以来的铜币、铁币、金币及银币等贵金属的金属货币，再到与黄金挂钩的英镑、美元等有黄金背书的纸币，以及以政府信用为担保和背书的信用货币时代，以及未来可能的数字货币时代……
+
+但无论货币的形式如何演化，其作为一般等价物的计价、交易、储存、流通等基本功能没有发生变化。国际货币在国际经济活动中被普遍接受的可自由兑换的货币，构成这一体系的就是“国际货币体系”；良好的“国际货币体系”在维护国际货币市场的秩序和稳定、促进国际收支平衡、提供国际信贷以应对各种意外的冲击等方面作用巨大。同时，它也是联系各国经济政治和生活的重要纽带。
+
+在第一次世界大战之前，是以【金本位制】为主的国际货币体系，各国的经济往来及国际资本的流动管制很少；两次世界大战之间，随着政治经济环境的改变，各国开始了严格的资本管制，努力想恢复“金本位制”下的货币的稳定性，形成了【新金本位制】；二战以后，为了适应新形势下的世界经济和贸易环境，以美英两国为首的各国，确立并接受了美元与黄金挂钩，各国货币与美元挂钩的新型的国际货币体系【布雷顿森林体系】，并逐步放松了资本管制；但随着20世纪70年代，美国关闭黄金窗口，布雷顿森林体系崩溃，固定汇率转向浮动汇率，国际资本的流动进一步加大。
+###### $ USD
+↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
+###### € EUR
+↗ [The European Central Bank (ECB)](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
+###### ¥ CNY
+↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
+######  ¥ JPY
+↗ [Bank of Japan](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
+##### Cryptocurrency
+↗ [Decentralized Fiance & Cryptocurrency](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
+- ↗ [BTC (Bitcoin)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin)/BTC%20(Bitcoin).md)
+- ↗ [ETH](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/ETH/ETH.md)
+- ↗ [Stablecoin](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/Stablecoin/Stablecoin.md)
+#### Currency Trade & Foreign Exchange (外汇) ⭐
+> 🎬 [一口气了解外汇 | Everything You Need To Know About Foreign Exchange](https://youtu.be/NM1hSguZ4fI?si=FYMOFM6HEUo-jiZS)
+
+
+#### Finance & Financial Management
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
 ### Market (市场)
@@ -89,6 +146,8 @@ Markets can differ by products (goods, services) or factors (labour and capital)
 经营主体，又名国有产权主体，对象是政府、组织、单位、法人和自然人，属于经济法主体。国有资产管理经营主体，又称国有产权主体。是指享有或者拥有国有资产所有权或具体享有国有资产所有权某一项权能，以及享有与国有资产所有权有关的财产权利的政府、组织、单位、法人和自然人。
 ##### Companies & Enterprises
 > 🔗 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%8F%B8
+###### Financial Institutes
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
 ##### Corporate group & Conglomerate company (企业集团与集团企业)
 > 🔗 https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%8F%B8%E9%9B%86%E5%9C%98
 
@@ -123,12 +182,7 @@ A **corporate group**, **company group** or **business group**, also formally kn
 > 🔗 https://en.wikipedia.org/wiki/Corporate_group
 
 ![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.26.04.png)
-
-### Currency (货币)
-#### Exchange Rate (货币汇率)
-#### Finance & Financial Management
-↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
-↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+#### Free Market vs Regulated Market
 
 
 ### Assets (资产) & Property (财产)
@@ -305,7 +359,15 @@ An increasing division of labour is associated with the growth of total output a
 > 各个人借以进行生产的社会关系，即社会生产关系，是随着物质生产资料、生产力的变化和发展而变化和改变的。生产关系总合起来就构成为所谓社会关系，构成为所谓社会，并且是构成为一个处于一定历史发展阶段上的社会，具有独特的特征的社会。
 
 
-### Economic System (经济体制)
+### Governmental Regulation & Economic System (政府调控与经济体制)
+#### Political Economics & Governmental Regulation
+↗ [Political Economics](Political%20Economics/Political%20Economics.md)
+##### Public Finance & National Treasury
+↗ [Public Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20Finance/Public%20Finance.md)
+
+↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
+↗ [Treas.](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
+#### Economic System
 > 🔗 https://en.wikipedia.org/wiki/Economic_system
 
 ==An **economic system**, or **economic order**, is a **system of production, resource allocation and distribution of goods and services within a economy**. ==It includes the combination of the various institutions, agencies, entities, decision-making processes, and patterns of consumption that comprise the economic structure of a given community.
@@ -319,6 +381,7 @@ An economic system is a type of social system. The mode of production is a relat
 The study of economic systems includes how these various agencies and institutions are linked to one another, how information flows between them, and the social relations within the system (including property rights and the structure of management). The analysis of economic systems traditionally focused on the dichotomies and comparisons between market economies and planned economies and on the distinctions between capitalism and socialism. Subsequently, the categorization of economic systems expanded to include other topics and models that do not conform to the traditional dichotomy.
 
 Today the dominant form of economic organization at the world level is based on **market-oriented mixed economies**. An economic system can be considered a part of the social system and hierarchically equal to the law system, political system, cultural and so on. There is often a strong correlation between certain ideologies, political systems and certain economic systems (for example, consider the meanings of the term "communism"). Many economic systems overlap each other in various areas (for example, the term "mixed economy" can be argued to include elements from various systems). There are also various mutually exclusive hierarchical categorizations.
+
 ![](../../../../Assets/Pics/Pasted%20image%2020250504162443.png)
 <small>Common typology for economic systems categorized by resource ownership and resource allocation mechanism <a>https://en.wikipedia.org/wiki/Economic_system#Capitalism</a></small>
 #### Economic System Topology
@@ -423,8 +486,17 @@ In practice, "mixed economy" generally refers to market economies with substanti
 
 
 ## Economical Indicators
-### Price of Goods
-#### Price Indices ⭐️
+### Production
+#### GDP (Gross Domestic Product)
+> 🔗 https://corporatefinanceinstitute.com/resources/economics/nominal-real-gdp/
+
+Nominal Gross Domestic Product (GDP) and Real GDP both quantify the total value of all goods produced in a country in a year. However, real [GDP](https://corporatefinanceinstitute.com/resources/economics/gross-domestic-product-gdp/) is adjusted for inflation, while nominal GDP isn’t. Thus, real GDP is almost always slightly lower than its equivalent nominal figure. In most circumstances, the real GDP (and real GDP per capita) shows a more accurate picture of a country’s [economic performance](https://corporatefinanceinstitute.com/resources/economics/economic-indicators/) since it can be more easily compared to past figures. Thus, we can deduce whether a country really is better or worse off year over year.
+
+Nominal GDP: $$GDP = C+I+G+(X-M)$$
+Real GDP: $$\text{Real GDP}_{\text{in base year dollars}} = \text{Nominal GDP} \cdot \frac{GDPG_\text{base year}}{GDPD_\text{current year}}$$
+
+### Price
+#### Prices of Goods & Services (Price Indices) ⭐️
 > 🔗 https://en.wikipedia.org/wiki/Price_index
 
 A **price index** (_plural_: "price indices" or "price indexes") is a normalized [average](https://en.wikipedia.org/wiki/Average "Average") (typically a [weighted average](https://en.wikipedia.org/wiki/Weighted_mean "Weighted mean")) of [price](https://en.wikipedia.org/wiki/Price "Price") relatives for a given class of [goods](https://en.wikipedia.org/wiki/Good_\(economics\) "Good (economics)") or [services](https://en.wikipedia.org/wiki/Service_\(economics\) "Service (economics)") in a specific region over a defined time period. It is a [statistic](https://en.wikipedia.org/wiki/Statistic "Statistic") designed to measure how these price relatives, as a whole, differ between time periods or geographical locations, often expressed relative to a base period set at 100.
@@ -439,14 +511,18 @@ Some widely recognized price indices include:
 - [Export price index](https://en.wikipedia.org/wiki/U.S._Import_and_Export_Price_Indexes "U.S. Import and Export Price Indexes") – Tracks export price trends.
 - [Import price index](https://en.wikipedia.org/wiki/U.S._Import_and_Export_Price_Indexes "U.S. Import and Export Price Indexes") – Monitors import price changes.
 - [GDP deflator](https://en.wikipedia.org/wiki/GDP_deflator "GDP deflator") – Reflects price changes across all goods and services in GDP.
-##### CPI (Consumer price index)
+##### CPI (Consumer Price Index)
 > 🔗 https://en.wikipedia.org/wiki/Consumer_price_index
 
 A **consumer price index** (**CPI**) is a statistical estimate of the level of prices of goods and services bought for consumption purposes by households. It is calculated as the weighted average price of a [market basket](https://en.wikipedia.org/wiki/Market_basket "Market basket") of [consumer goods](https://en.wikipedia.org/wiki/Goods "Goods") and [services](https://en.wikipedia.org/wiki/Service_\(economics\) "Service (economics)"). Changes in CPI track changes in prices over time. The items in the basket are updated periodically to reflect changes in consumer spending habits. The prices of the goods and services in the basket are collected (often monthly) from a sample of retail and service establishments. The prices are then adjusted for changes in quality or features. Changes in the CPI can be used to track inflation over time and to compare inflation rates between different countries. While the CPI is not a perfect measure of inflation or the [cost of living](https://en.wikipedia.org/wiki/Cost_of_living "Cost of living"), it is a useful tool for tracking these economic indicators.  It is one of several [price indices](https://en.wikipedia.org/wiki/Price_index "Price index") calculated by many national statistical agencies.
-#### Price Phenomenon
-##### Inflation (通货膨胀)
-##### Deflation (通货紧缩)
-##### Stagflation (停滞性通货膨胀 /滞胀)
+##### PPI
+#### Prices of Money
+##### Interest Rate
+> 🎬 [关于利率，你需要知道的那些事儿](https://youtu.be/u3Q9BpZOhP8?si=N1hZP6SL_SMuKLwE)
+
+##### Exchange Rate
+> 🎬 [一口气了解外汇 | Everything You Need To Know About Foreign Exchange](https://youtu.be/NM1hSguZ4fI?si=XvW5nQmFy5UzNX4m)
+> 🎬 [汇率为什么涨跌 | 美元跌宕50年](https://youtu.be/Q73s8v_d46M?si=mHxT4WUoxCzZjkmI)
 
 
 ### Unemployment Rate
@@ -532,3 +608,13 @@ Welcome to the Department of Defense Office of Financial Readiness website! Look
 [19:44](https://www.youtube.com/watch?v=XOJ6Ffj6LLg&t=1184s) 内容总结 
 
 [🎬 硅谷银行为何倒闭？这和全球疫情、中美摩擦、俄乌战争都有关… | 李永乐]: https://youtu.be/OhOc4n_LiFQ
+
+[货币是如何创造出来的？]: https://www.yicai.com/news/717747.html
+梳理一下，当今社会货币投放的渠道主要有以下五个。
+第一，中央银行或者其指定的发钞银行，收购储备物资而投放货币。
+第二，中央银行直接对政府提供透支或购买政府债券，或者直接购买企业股票、债券、票据等等。
+第三，商业银行等贷款类金融机构，对政府、企业等非金融机构类筹资人提供的间接融资。其中，最典型的就是商业银行发放的贷款。
+
+这里需要特别指出的是，货币的投放渠道与社会的融资渠道并不完全相同，货币投放渠道只是社会融资渠道的一部分。货币投放到社会之后，就会像血液一样不断流动，不断变换所有者和持有者，改变货币的表现形态，这其中就会形成各种各样的投融资方式和渠道。
+
+其中，按照投、融资双方是否直接转让货币所有权，是否增加社会货币总量区分，可以分为直接融资和间接融资两大类。如果属于社会上投、融资双方直接办理并转移货币所有权和购买力的，即属于直接融资，是不会增加新的货币购买力并影响货币总量的，因此，并不属于货币投放渠道，不应纳入货币投放监控的范围。

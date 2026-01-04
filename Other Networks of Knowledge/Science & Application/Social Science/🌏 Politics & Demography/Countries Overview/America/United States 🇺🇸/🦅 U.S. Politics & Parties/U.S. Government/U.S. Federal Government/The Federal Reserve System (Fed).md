@@ -44,7 +44,27 @@ The federal government sets the salaries of the board's seven governors, and it 
 
 The Federal Reserve has been criticized for its approach to managing inflation, perceived lack of transparency, and its role in economic downturns.[26][27][28] Figures such as Milton Friedman and Ron Paul have argued that its actions, such as expansionary policies and bailouts, contribute to inflation, asset bubbles, and moral hazard.[29][30][31] Critics have also noted that the shift from the gold standard to fiat currency has led to long-term inflation and financial instability, with some calling for the Fed's abolition or greater accountability through audits.
 
+![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020260104130611.png)
+<small><a>https://www.clevelandfed.org/about-us/understanding-the-federal-reserve</a></small>
+
+![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020260104130722.png)
+<small><a>https://en.wikipedia.org/wiki/Federal_Reserve#/media/File:FederalReserve_System.png</a></small>
+
+
+
+## Issuance of U.S. Dollars
+
 
 
 ## Ref
 [🎬 一口气了解美联储 | 全球权力最大的金融机构]: https://youtu.be/iGz2uWl-kGc?si=EsOwCG3d_iannQ8j
+
+[金融与市场经济的奥秘（2）——美联储与美元霸权]: https://mp.weixin.qq.com/s/WSI5K_SKHIBZMN4GphYRoQ?search_click_id=3383714398592315033-1767526748547-4655119926&subscene=0&scene=94&clicktime=1767526748&enterid=1767526748
+一、金本位货币时代沿用下来的资产负债表形式
+- 资产 = 负债 + 所有者权益
+二、基于债务发行的现代信用货币
+- e.g.
+	- 初始状态：锚定物 = 0 + 锚定物价格
+	- 第一次发币：锚定物 + （货币购买的新的锚定物 -- 债务） = （锚定物担保下的新发货币）+ 锚定物价格
+	- 第二次发币：用上一次新买的锚定物（未抵押担保）去进行抵押，于是获得新的货币。新货币向市场发出后又购得新的市场上的锚定物，即新的债务。
+	- 重复
