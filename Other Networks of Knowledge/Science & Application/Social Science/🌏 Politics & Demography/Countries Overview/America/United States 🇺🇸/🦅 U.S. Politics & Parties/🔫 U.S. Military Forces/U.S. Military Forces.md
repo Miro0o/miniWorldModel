@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Military Science & Technology](../../../../../../../Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
-↗ [中国武装力量](../../../../Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/🔫%20中国武装力量/中国武装力量.md)
+↗ [中国武装力量](../../../../Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/🔫%20中国武装力量/中国武装力量.md)
 
 
 

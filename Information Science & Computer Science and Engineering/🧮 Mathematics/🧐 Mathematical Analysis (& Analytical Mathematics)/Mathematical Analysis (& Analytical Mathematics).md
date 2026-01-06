@@ -23,19 +23,19 @@ https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=2ALR2QAT
 🎬 https://youtu.be/mvmuCPvRoWQ?si=WOarG_mjw9TmOi0u
 Euler's formula with introductory group theory | 3B1B
 
-
-https://math.fandom.com/zh/wiki/Category:微分学
-中文数学Wiki
-
 📖 几米多维奇习题册 
 📖 普林斯顿微积分读本
 📖 工科数学分析基础 (马知恩，王绵森)
 
-微积分之倚天宝剑（美）C.亚当斯等
-微积分之屠龙宝刀（美）C.亚当斯等
+📖 微积分之倚天宝剑（美）C.亚当斯等
+📖 微积分之屠龙宝刀（美）C.亚当斯等
 
-微积分学教程(菲赫金哥尔茨第8版)
-数学分析原理(Principles of Mathematical Analysis), Rudin
+📖 微积分学教程(菲赫金哥尔茨第8版)
+
+❤️ Rudin
+Principles of Mathematical Analysis | 数学分析原理
+Functional Analysis | 泛函分析
+Real and Complex Analysis ｜ 实分析和复分析
 
 数学分析中的典型问题 裴
 
@@ -49,6 +49,8 @@ Calculus: Single Variable, 8th Edition
 
 
 ### Other Resources
+https://math.fandom.com/zh/wiki/Category:微分学
+中文数学Wiki
 
 
 
@@ -291,6 +293,8 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 
 
 ## Ref
+[🎬 微积分起源，科学探索中最伟大的骗招]: http://xhslink.com/o/1A2E1P0Fgpq 
+
 [ε-δ语言 | wikipedia]: https://zh.wikipedia.org/zh-cn/%CE%95-%CE%B4%E8%AF%AD%E8%A8%80
 ε-δ语言，或极限的(ε, δ)定义（(ε, δ)-definition of limit）是一种在数学分析中仅使用（有限多的）实数值来定义极限的方法。
 

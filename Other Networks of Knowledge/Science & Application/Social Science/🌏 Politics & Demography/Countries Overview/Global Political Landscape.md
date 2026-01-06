@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [China 🇨🇳](Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [China (HK, MO, TW) 🇨🇳](Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 ↗ [United States 🇺🇸](America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 
@@ -50,7 +50,7 @@
 
 
 ### Rejuvenation of China
-↗ [China 🇨🇳](Asia/China%20🇨🇳/China%20🇨🇳.md)
+↗ [China (HK, MO, TW) 🇨🇳](Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4

@@ -19,7 +19,7 @@
 ↗ [History of Information Systems & Security Systems](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
 ↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
 
 
@@ -134,7 +134,7 @@ Natural philosophy was transformed by the Scientific Revolution that transpired 
 
 
 ### China & East Asia
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
 
 
 ### Pre-Columbian Mesoamerica
@@ -275,7 +275,7 @@ A massive amount of new technologies were developed in the 20th century. Technol
 ↗ [Industry 4.0](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
 #### LLM, AI, and AGI
 ↗ [The Development History of AI](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
-↗ [LLM (Large Language Model)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)

@@ -23,7 +23,7 @@ Report bugs and issues to the development mailing list: dev@dpdk.org
 
 ### Related Topics
 ↗ [The Linux Foundation](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/The%20Linux%20Foundation.md)
-↗ [Intel](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Intel.md)
+↗ [Intel](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Intel.md)
 ↗ [SPDK (Storage Plane Development Kit)](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/SPDK%20(Storage%20Plane%20Development%20Kit)/SPDK%20(Storage%20Plane%20Development%20Kit).md)
 
 

@@ -77,7 +77,7 @@ Finance: (science of) the management of (esp-public) money. 财政、财务、�
 
 ==分类==
 - 按业务活动期限/融资交易期限：[货币市场](https://zh.wikipedia.org/wiki/%E8%B4%A7%E5%B8%81%E5%B8%82%E5%9C%BA "货币市场") （短期金融市场，包括票据贴现市场、短期存贷款市场、短期债券市场和金融机构之间的拆借市场等）和[资本市场](https://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA "资本市场")（长期金融市场，包括中长期信贷（贷款）市场和==证券市场==）；（详见下节“Money Market & Capital Market”）
-	- 一般来说证券交易既涉及货币市场，也涉及资本市场。↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+	- 一般来说证券交易既涉及货币市场，也涉及资本市场。↗ [Securities Analysis and Investment](Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 - 按成交后是否立即交割：[现货市场](https://zh.wikipedia.org/wiki/%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA "现货市场")（融资活动成交后立即付款交割;）和[期货市场](https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA "期货市场")（投融活动成交后按合约规定在指定日期付款交割）；
 	- 按照上述各内在联系对金融市场进行科学系统的划分，是进行金融市场有效管理的基础。
 - 按有价证券是否新发行（交易性质）：[一级市场](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA "一级市场")（也称一级市场，是新证券发行的市场;）和[二级市场](https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%BA%A7%E5%B8%82%E5%9C%BA "二级市场")（是已经发行、处在流通中的证券的买卖市场）；
@@ -272,7 +272,7 @@ Some experts see a trend toward [homogenisation](https://en.wikipedia.org/wiki/
 
 金融机构是指从事金融服务业有关的金融中介机构，为金融体系的一部分，金融服务业包括银行、证券、保险、信托、基金等行业，与此相应，金融中介机构也包括银行、证券公司、保险公司、信托投资公司和基金管理公司等。 同时亦指有关放贷的机构，发放货款给客户在财务上进行周转的公司，而且他们的利息相对也较银行为高，但较方便客户借贷，因为不需繁复的文件进行证明。
 #### 🏦 Banks (银行)
-##### Central Bank ⭐ 
+##### Central Bank /Monetary Authority⭐ 
 > ==List of Central Banks==
 > 🔗 https://en.wikipedia.org/wiki/List_of_central_banks
 > 
@@ -281,7 +281,7 @@ Some experts see a trend toward [homogenisation](https://en.wikipedia.org/wiki/
 
 > ↗ [The Federal Reserve System (Fed)](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
 > ↗ [The European Central Bank (ECB)](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
-> ↗ [中国人民银行](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
+> ↗ [中国人民银行](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
 > ↗ [Bank of Japan](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
 
 > 🔗 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C
@@ -306,6 +306,14 @@ Some experts see a trend toward [homogenisation](https://en.wikipedia.org/wiki/
 - 参与世界金融活动
 - 管理外汇储备
 在现代，央行发行货币，采行“十足准备制”，需要有金银、合格票据、外汇、有价证券等当作发行准备，以避免过度发行造成通货膨胀。其中保卫货币（使币值稳定）被认为是中央银行的首要责任。
+
+> 🔗 https://en.wikipedia.org/wiki/Central_bank
+
+A central bank, reserve bank, national bank, or monetary authority is an institution that manages the monetary policy of a country or monetary union.[1] In contrast to a commercial bank, a central bank possesses a monopoly on increasing the monetary base. Many central banks also have supervisory or regulatory powers to ensure the stability of commercial banks in their jurisdiction, to prevent bank runs, and, in some cases, to enforce policies on financial consumer protection, and against bank fraud, money laundering, or terrorism financing. Central banks play a crucial role in macroeconomic forecasting, which is essential for guiding monetary policy decisions, especially during times of economic turbulence.[2]
+
+Central banks in most developed nations are usually set up to be institutionally independent from political interference,[3][4][5] even though governments typically have governance rights over them, legislative bodies exercise scrutiny, and central banks frequently do show responsiveness to politics.[6][7][8]
+
+Issues like central bank independence, central bank policies, and rhetoric in central bank governors' discourse or the premises of macroeconomic policies[9] (monetary and fiscal policy) of the state, are a focus of contention and criticism by some policymakers,[10] researchers,[11] and specialized business, economics, and finance media.
 ##### Commercial Bank
 > 🔗 https://zh.wikipedia.org/wiki/%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C
 
@@ -328,7 +336,7 @@ Cooperative banking, as discussed here, includes retail banking carried out by c
 > 🔗 https://en.wikipedia.org/wiki/Savings_and_loan_association
 ###### Mutual Savings Bank
 ##### Investment Banking
-↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+↗ [Securities Analysis and Investment](Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 #### 💸 Payment and Clearing System
 ↗ [PCS (Payment and Clearing System)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
 #### Insurance (保险)
@@ -378,11 +386,16 @@ https://en.wikipedia.org/wiki/List_of_investment_banks
 List of investment banks
 
 ↗ [Financial Investment](Financial%20Investment/Financial%20Investment.md)
-↗ [Securities Analysis and Investment](Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+↗ [Securities Analysis and Investment](Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
 ### Financial Instrument (金融工具 /投资工具)
 > ↗ [Financial Investment](Financial%20Investment/Financial%20Investment.md)
+
+
+
+## Valuation Framework
+### Fundamental Theorem of Assets Pricing
 
 
 

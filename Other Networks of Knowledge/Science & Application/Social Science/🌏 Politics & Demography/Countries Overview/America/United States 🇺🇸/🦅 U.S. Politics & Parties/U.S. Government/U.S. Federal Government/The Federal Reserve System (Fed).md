@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Financial Savings & Deposits](../../../../../../../💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Savings%20&%20Deposits/Financial%20Savings%20&%20Deposits.md)
+↗ [Financial Savings & Deposits](../../../../../../../💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Financial%20Savings%20&%20Deposits/Financial%20Savings%20&%20Deposits.md)
 
 
 ### Other Resources

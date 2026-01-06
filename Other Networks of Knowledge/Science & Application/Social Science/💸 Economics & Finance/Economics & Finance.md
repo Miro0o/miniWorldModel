@@ -12,7 +12,7 @@
 ↗ [Comprehensive IT Service Providers](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Comprehensive%20IT%20Service%20Providers.md)
 
 ↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 
 
 ### Learning Resources
@@ -77,11 +77,12 @@ Historically, openness to free trade substantially increased in some areas from 
 ##### Tangible Products
 
 ##### Intangible Products
+###### Services
+###### Money as a Product - Finance 
 ↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
 #### Genres of Trades /Exchanges
 ##### Goods & Services Transactions
 > money -> goods & services
-
 ##### Financial Investments /Transactions
 > money -> money
 
@@ -107,21 +108,26 @@ Historically, openness to free trade substantially increased in some areas from 
 ###### € EUR
 ↗ [The European Central Bank (ECB)](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
 ###### ¥ CNY
-↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
+↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
 ######  ¥ JPY
 ↗ [Bank of Japan](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
+###### £ GBP
 ##### Cryptocurrency
 ↗ [Decentralized Fiance & Cryptocurrency](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
 - ↗ [BTC (Bitcoin)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin)/BTC%20(Bitcoin).md)
 - ↗ [ETH](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/ETH/ETH.md)
 - ↗ [Stablecoin](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/Stablecoin/Stablecoin.md)
-#### Currency Trade & Foreign Exchange (外汇) ⭐
+#### Currency Trade & Foreign Exchange (Forex) (外汇) ⭐
 > 🎬 [一口气了解外汇 | Everything You Need To Know About Foreign Exchange](https://youtu.be/NM1hSguZ4fI?si=FYMOFM6HEUo-jiZS)
 
+Forex reserves by country
+🔗 https://en.wikipedia.org/wiki/List_of_countries_by_foreign_exchange_reserves#Forex_reserves_by_country
 
+Currency composition of forex reserves
+🔗 https://en.wikipedia.org/wiki/List_of_countries_by_foreign_exchange_reserves#Currency_composition_of_forex_reserves
 #### Finance & Financial Management
 ↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
-↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
 ### Market (市场)
@@ -145,9 +151,20 @@ Markets can differ by products (goods, services) or factors (labour and capital)
 
 经营主体，又名国有产权主体，对象是政府、组织、单位、法人和自然人，属于经济法主体。国有资产管理经营主体，又称国有产权主体。是指享有或者拥有国有资产所有权或具体享有国有资产所有权某一项权能，以及享有与国有资产所有权有关的财产权利的政府、组织、单位、法人和自然人。
 ##### Companies & Enterprises
+> ↗ [Corporate Law](../🧑‍⚖️%20Law%20&%20Legal%20Theory%20(法律%20&%20法学)/Special%20Legal%20Theory%20(特别法学)/Departmental%20Law/Civil%20Law%20Studies/Commercial%20(Business)%20Law/Corporate%20Law/Corporate%20Law.md)
+
 > 🔗 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%8F%B8
+
+
+> 🔗 https://fortune.com/ranking/global500/
+> 🔗 https://en.wikipedia.org/wiki/Fortune_Global_500
+> The **_Fortune_ Global 500**, also known as **Global 500**, is an annual ranking of the top 500 [corporations](https://en.wikipedia.org/wiki/Corporation "Corporation") worldwide as measured by [revenue](https://en.wikipedia.org/wiki/Revenue "Revenue"). The list is compiled and published annually by _[Fortune](https://en.wikipedia.org/wiki/Fortune_\(magazine\) "Fortune (magazine)")_ magazine.
+> 🔗 https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA
+###### Holding Company
+> 🔗 https://en.wikipedia.org/wiki/Holding_company
 ###### Financial Institutes
 ↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 ##### Corporate group & Conglomerate company (企业集团与集团企业)
 > 🔗 https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%8F%B8%E9%9B%86%E5%9C%98
 
@@ -182,7 +199,7 @@ A **corporate group**, **company group** or **business group**, also formally kn
 > 🔗 https://en.wikipedia.org/wiki/Corporate_group
 
 ![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.26.04.png)
-#### Free Market vs Regulated Market
+#### Genres of Markets
 
 
 ### Assets (资产) & Property (财产)
@@ -207,6 +224,14 @@ A **corporate group**, **company group** or **business group**, also formally kn
 - 依据资产所有权分类
 	- 贷方权益（负债）
 	- 所有者权益
+##### Asset /Investment Management
+> ↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
+> ↗ [Financial Assets (Investment) Management](🏦%20Finance%20&%20Financial%20Management/Financial%20Assets%20(Investment)%20Management/Financial%20Assets%20(Investment)%20Management.md)
+
+
+> 🔗 https://en.wikipedia.org/wiki/Investment_management
+> 🔗 https://en.wikipedia.org/wiki/Asset_management
+
 #### Property (财产)
 > 🔗 https://baike.eastmoney.com/item/%E8%B4%A2%E4%BA%A7
 
@@ -235,6 +260,8 @@ A **corporate group**, **company group** or **business group**, also formally kn
 At the most general level, economists may define wealth as "the total of anything of value" that captures both the subjective nature of the idea and the idea that it is not a fixed or static concept. Various definitions and concepts of wealth have been asserted by various people in different contexts. Defining wealth can be a normative process with various ethical implications, since often wealth maximization is seen as a goal or is thought to be a normative principle of its own. A community, region or country that possesses an abundance of such possessions or resources to the benefit of the common good is known as wealthy.
 
 ==The United Nations definition of **inclusive wealth** is a monetary measure which includes the sum of natural, human, and physical assets.== Natural capital includes land, forests, energy resources, and minerals. Human capital is the population's education and skills. Physical (or "manufactured") capital includes such things as machinery, buildings, and infrastructure.
+##### Wealth Management
+> 🔗 https://en.wikipedia.org/wiki/Wealth_management
 
 
 ### Sectors & Industries (产业 & 行业)
@@ -365,7 +392,7 @@ An increasing division of labour is associated with the growth of total output a
 ##### Public Finance & National Treasury
 ↗ [Public Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20Finance/Public%20Finance.md)
 
-↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
+↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
 ↗ [Treas.](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
 #### Economic System
 > 🔗 https://en.wikipedia.org/wiki/Economic_system
@@ -481,7 +508,7 @@ In practice, "mixed economy" generally refers to market economies with substanti
     - [State capitalism](https://en.wikipedia.org/wiki/State_capitalism "State capitalism") (Government-dominated capitalist economy)
     - [Socialist Market Economy](https://en.wikipedia.org/wiki/Socialist_market_economy "Socialist market economy") (Mixed socialist)
 ###### 中国特色社会主义市场经济体制
-↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 
 
 
@@ -494,6 +521,44 @@ Nominal Gross Domestic Product (GDP) and Real GDP both quantify the total value 
 
 Nominal GDP: $$GDP = C+I+G+(X-M)$$
 Real GDP: $$\text{Real GDP}_{\text{in base year dollars}} = \text{Nominal GDP} \cdot \frac{GDPG_\text{base year}}{GDPD_\text{current year}}$$
+
+### Money Supply
+> 🔗 https://en.wikipedia.org/wiki/Money_supply
+
+==In macroeconomics, money supply (or money stock) refers to the total volume of money held by the public at a particular point in time.== There are several ways to define "money", but standard measures usually include **currency in circulation** (i.e. physical cash) and **demand deposits** (depositors' easily accessed assets on the books of financial institutions).[1][2] Money supply data is recorded and published, usually by the national statistical agency or the central bank of the country. Empirical money supply measures are usually named M1, M2, M3, etc., according to how wide a definition of money they embrace. The precise definitions vary from country to country, in part depending on national financial institutional traditions.
+
+Even for narrow aggregates like M1, **by far the largest part of the money supply consists of deposits in commercial banks,** whereas currency (banknotes and coins) issued by central banks only makes up a small part of the total money supply in modern economies. The public's demand for currency and bank deposits and commercial banks' supply of loans are consequently important determinants of money supply changes. As these decisions are influenced by central banks' monetary policy, not least their setting of interest rates, the money supply is ultimately determined by complex interactions between non-banks, commercial banks and central banks.
+
+==According to the quantity theory supported by the monetarist school of thought, there is a tight causal connection between growth in the money supply and inflation.== In particular during the 1970s and 1980s this idea was influential, and several major central banks during that period attempted to control the money supply closely, following a monetary policy target of increasing the money supply stably. However, the strategy was generally found to be impractical because money demand turned out to be too unstable for the strategy to work as intended[citation needed].
+
+Consequently, the money supply has lost its central role in monetary policy, and central banks today generally do not try to control the money supply[citation needed]. Instead they focus on adjusting interest rates, in developed countries normally as part of a direct inflation target which leaves little room for a special emphasis on the money supply. Money supply measures may still play a role in monetary policy, however, as one of many economic indicators that central bankers monitor to judge likely future movements in central variables like employment and inflation.
+##### Measurements of Money Supply
+There are several standard measures of the money supply,[4] classified along a spectrum or continuum between narrow and broad monetary aggregates. Narrow measures include only the most liquid assets: those most easily used to spend (currency, checkable deposits). Broader measures add less liquid types of assets (certificates of deposit, etc.).
+
+This continuum corresponds to the way that different types of money are more or less controlled by monetary policy. Narrow measures include those more directly affected and controlled by monetary policy, whereas broader measures are less closely related to monetary-policy actions.[5]
+
+The different types of money are typically classified as "M"s. The "M"s usually range from M0 (narrowest) to M3 (and M4 in some countries[6]) (broadest), but which "M"s, if any, are actually focused on in central bank communications depends on the particular institution. A typical layout for each of the "M"s is as follows for the United States:
+
+| Type of money                                                                                                                                                                                                                                                                                | M0                                                                          | MB  | M1                                                                              | M2  | M3  | MZM |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------- | --- | --- | --- |
+| Notes and coins in circulation (outside Federal Reserve Banks and the vaults of depository institutions) ([currency](https://en.wikipedia.org/wiki/Currency "Currency"))                                                                                                                     | ✓[7](https://en.wikipedia.org/wiki/Money_supply#cite_note-dollardaze.org-7) | ✓   | ✓                                                                               | ✓   | ✓   | ✓   |
+| Notes and coins in bank vaults ([vault cash](https://en.wikipedia.org/wiki/Vault_cash "Vault cash"))                                                                                                                                                                                         |                                                                             | ✓   |                                                                                 |     |     |     |
+| Federal Reserve Bank credit ([required reserves](https://en.wikipedia.org/wiki/Required_reserves "Required reserves") and [excess reserves](https://en.wikipedia.org/wiki/Excess_reserves "Excess reserves") not physically present in banks)                                                |                                                                             | ✓   |                                                                                 |     |     |     |
+| [Traveler's checks](https://en.wikipedia.org/wiki/Traveler%27s_cheque "Traveler's cheque") of non-bank issuers                                                                                                                                                                               |                                                                             |     | ✓                                                                               | ✓   | ✓   | ✓   |
+| [Demand deposits](https://en.wikipedia.org/wiki/Demand_deposit "Demand deposit")                                                                                                                                                                                                             |                                                                             |     | ✓                                                                               | ✓   | ✓   | ✓   |
+| Other checkable deposits (OCDs), which consist primarily of [negotiable order of withdrawal](https://en.wikipedia.org/wiki/Negotiable_order_of_withdrawal_account "Negotiable order of withdrawal account") (NOW) accounts at depository institutions and credit union share draft accounts. |                                                                             |     | ✓[8](https://en.wikipedia.org/wiki/Money_supply#cite_note-8)                    | ✓   | ✓   | ✓   |
+| [Savings deposits](https://en.wikipedia.org/wiki/Savings_deposit "Savings deposit")                                                                                                                                                                                                          |                                                                             |     | ✓[9](https://en.wikipedia.org/wiki/Money_supply#cite_note-federalreserve.gov-9) | ✓   | ✓   | ✓   |
+| [Time deposits](https://en.wikipedia.org/wiki/Time_deposits "Time deposits") less than $100,000 and retail [money market funds](https://en.wikipedia.org/wiki/Money_market_funds "Money market funds"), for individual investors                                                             |                                                                             |     |                                                                                 | ✓   | ✓   |     |
+| Large time deposits, institutional [money market funds](https://en.wikipedia.org/wiki/Money_market_funds "Money market funds"), short-term repurchase and other larger liquid assets [10](https://en.wikipedia.org/wiki/Money_supply#cite_note-10)                                           |                                                                             |     |                                                                                 |     | ✓   |     |
+| All [money market funds](https://en.wikipedia.org/wiki/Money_market_funds "Money market funds")                                                                                                                                                                                              |                                                                             |     |                                                                                 |     |     | ✓   |
+
+- M0: In some countries, such as the United Kingdom, M0 includes bank reserves, so M0 is referred to as the monetary base, or narrow money.[11]
+- MB: is referred to as the monetary base or total currency.[7] This is the base from which other forms of money (like checking deposits, listed below) are created and is traditionally the most liquid measure of the money supply.[12]
+- **M1**: Bank reserves are not included in M1.
+- **M2**: Represents M1 and "close substitutes" for M1.[13] M2 is a broader classification of money than M1.
+- **M3**: M2 plus large and long-term deposits.
+- MZM: Money with zero maturity. It measures the supply of financial assets redeemable at par on demand.[14][15]
+
 
 ### Price
 #### Prices of Goods & Services (Price Indices) ⭐️
@@ -515,17 +580,21 @@ Some widely recognized price indices include:
 > 🔗 https://en.wikipedia.org/wiki/Consumer_price_index
 
 A **consumer price index** (**CPI**) is a statistical estimate of the level of prices of goods and services bought for consumption purposes by households. It is calculated as the weighted average price of a [market basket](https://en.wikipedia.org/wiki/Market_basket "Market basket") of [consumer goods](https://en.wikipedia.org/wiki/Goods "Goods") and [services](https://en.wikipedia.org/wiki/Service_\(economics\) "Service (economics)"). Changes in CPI track changes in prices over time. The items in the basket are updated periodically to reflect changes in consumer spending habits. The prices of the goods and services in the basket are collected (often monthly) from a sample of retail and service establishments. The prices are then adjusted for changes in quality or features. Changes in the CPI can be used to track inflation over time and to compare inflation rates between different countries. While the CPI is not a perfect measure of inflation or the [cost of living](https://en.wikipedia.org/wiki/Cost_of_living "Cost of living"), it is a useful tool for tracking these economic indicators.  It is one of several [price indices](https://en.wikipedia.org/wiki/Price_index "Price index") calculated by many national statistical agencies.
-##### PPI
+##### PPI (Producer Price Index)
+
 #### Prices of Money
 ##### Interest Rate
 > 🎬 [关于利率，你需要知道的那些事儿](https://youtu.be/u3Q9BpZOhP8?si=N1hZP6SL_SMuKLwE)
-
 ##### Exchange Rate
 > 🎬 [一口气了解外汇 | Everything You Need To Know About Foreign Exchange](https://youtu.be/NM1hSguZ4fI?si=XvW5nQmFy5UzNX4m)
 > 🎬 [汇率为什么涨跌 | 美元跌宕50年](https://youtu.be/Q73s8v_d46M?si=mHxT4WUoxCzZjkmI)
 
 
 ### Unemployment Rate
+
+
+### Market Index
+↗ [Market Index](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Market%20Index.md)
 
 
 ### Annualized Rate of Return

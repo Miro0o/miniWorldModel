@@ -77,11 +77,13 @@ Investors generally expect higher returns from riskier investments. When a low-r
 - **融券交易**：则为投资人认为某支股票一定会跌，想要趁高档时逢高卖出，但苦于手中没有足够的持股，因此向证券公司缴交保证金，借来股票逢高卖出，等到股价下跌后，再逢低买回股票，还给证券公司。
 #### Investment Entities ⭐
 ##### Investment Banks & Security Firms
+> ↗ [Securities Analysis and Investment](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+
 🔗 https://en.wikipedia.org/wiki/List_of_investment_banks
 List of investment Banks /Security Firms
-
-↗ [Securities Analysis and Investment](Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 ##### Investment Funds
+> ↗ [Sovereign Wealth Fund (SWF)](../📢%20Public%20Finance/Sovereign%20Wealth%20Fund%20(SWF).md)
+
 > 🔗 https://en.wikipedia.org/wiki/Investment_fund
 
 An investment fund is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group such as reducing the risks of the investment by a significant percentage. These advantages include an ability to:
@@ -149,6 +151,9 @@ Financial instruments may be categorized by "asset class" depending on whether t
 Some instruments defy categorization into the above matrix, for example [repurchase agreements](https://en.wikipedia.org/wiki/Repurchase_agreement "Repurchase agreement").
 #### Cash Instrument
 ##### Traditional Investment
+> ↗ [Securities Analysis and Investment](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+> ↗ [Financial Savings & Deposits](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Financial%20Savings%20&%20Deposits/Financial%20Savings%20&%20Deposits.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Investment
 
 In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Traditional_investments "Traditional investments") include:
@@ -157,6 +162,8 @@ In modern economies, [traditional investments](https://en.wikipedia.org/wiki/Tr
 - [Cash](https://en.wikipedia.org/wiki/Cash "Cash") - holding a particular [currency](https://en.wikipedia.org/wiki/Currency "Currency"), whether in anticipation of spending or to take advantage of or hedge against changes in a [currency exchange rate](https://en.wikipedia.org/wiki/Currency_exchange_rate "Currency exchange rate")
 - [Real estate](https://en.wikipedia.org/wiki/Real_estate_investing "Real estate investing"), which can be rented to provide ongoing income or resold if it increases in value
 ##### Alternative Investment
+> ↗ [Alternative Investment](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Alternative%20Investment/Alternative%20Investment.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Investment
 
 [Alternative investments](https://en.wikipedia.org/wiki/Alternative_investment "Alternative investment") include:
@@ -212,6 +219,8 @@ Notable hedge fund managers
 - [Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman "Bill Ackman") of [Pershing Square Capital Management](https://en.wikipedia.org/wiki/Pershing_Square_Capital_Management "Pershing Square Capital Management") LP
 - [Kenneth Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin "Kenneth C. Griffin") of [Citadel](https://en.wikipedia.org/wiki/Citadel_LLC "Citadel LLC") with over $62 billion in assets under management as of December 2022.[57](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-57)[58](https://en.wikipedia.org/wiki/Hedge_fund#cite_note-58)
 #### Derivative Instruments
+> ↗ [Derivative & Analytics](Financial%20Investment%20by%20Investment%20Instruments/Derivative%20&%20Analytics/Derivative%20&%20Analytics.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Derivative_(finance)
 > 🔗 https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7
 
@@ -288,8 +297,10 @@ venture capital
 
 
 ### 3️⃣ Investment Analysis
-↗ [Security Investment Fundamental Analysis (FA)](Securities%20Analysis%20and%20Investment/Security%20Investment%20Fundamental%20Analysis%20(FA).md)
-↗ [Security Investment Technique Analysis (TA)](Securities%20Analysis%20and%20Investment/Security%20Investment%20Technique%20Analysis%20(TA).md)
+↗ [Derivative & Analytics](Financial%20Investment%20by%20Investment%20Instruments/Derivative%20&%20Analytics/Derivative%20&%20Analytics.md)
+
+↗ [Security Investment Fundamental Analysis (FA)](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Security%20Investment%20Fundamental%20Analysis%20(FA).md)
+↗ [Security Investment Technique Analysis (TA)](Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Security%20Investment%20Technique%20Analysis%20(TA).md)
 
 
 

@@ -18,7 +18,7 @@
 - ↗ [Lambda Calculus (λ-Calculus)](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Category Theory (范畴论)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-↗ [Type Theory](../😶‍🌫️%20Theory%20of%20Computation/Type%20Theory/Type%20Theory.md)
+↗ [Type Theory (类型论)](../😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
 
 ### Other Resources

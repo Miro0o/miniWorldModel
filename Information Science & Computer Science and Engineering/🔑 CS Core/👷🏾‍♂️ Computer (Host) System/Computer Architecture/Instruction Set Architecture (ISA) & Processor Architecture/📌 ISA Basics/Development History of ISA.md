@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [FAQ /👉 X86 | IA-64 | ARM](../../FAQ.md#👉%20X86%20|%20IA-64%20|%20ARM)
 ↗ [x86 Architecture Family (80x86, 8086 family)](../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
-↗ [Semiconductor Industry & Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Other Resources
@@ -91,7 +91,7 @@ On less interesting notes, the size of the on-chip cache was doubled to 16KB (wi
 
 ### Intel & Other x86 Designers & Manufacturers
 🔗 https://en.wikipedia.org/wiki/X86#Designers_and_manufacturers
-↗ [Semiconductor Industry & Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 At various times, companies such as [IBM](https://en.wikipedia.org/wiki/IBM "IBM"), [VIA](https://en.wikipedia.org/wiki/VIA_Technologies "VIA Technologies"), [NEC](https://en.wikipedia.org/wiki/NEC "NEC"), [AMD](https://en.wikipedia.org/wiki/AMD "AMD"), [TI](https://en.wikipedia.org/wiki/Texas_Instruments "Texas Instruments"), [STM](https://en.wikipedia.org/wiki/STMicroelectronics "STMicroelectronics"), [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu "Fujitsu"), [OKI](https://en.wikipedia.org/wiki/Oki_Electric_Industry "Oki Electric Industry"), [Siemens](https://en.wikipedia.org/wiki/Siemens "Siemens"), [Cyrix](https://en.wikipedia.org/wiki/Cyrix "Cyrix"), [Intersil](https://en.wikipedia.org/wiki/Intersil "Intersil"), [C&T](https://en.wikipedia.org/wiki/Chips_and_Technologies "Chips and Technologies"), [NexGen](https://en.wikipedia.org/wiki/NexGen "NexGen"), [UMC](https://en.wikipedia.org/wiki/United_Microelectronics_Corporation "United Microelectronics Corporation"), and [DM&P](https://en.wikipedia.org/wiki/Vortex86 "Vortex86") started to design or manufacture x86 [processors](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") (CPUs) intended for personal computers and embedded systems. 
 

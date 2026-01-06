@@ -15,7 +15,7 @@
 
 ↗ [Software Analysis Tools](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 ↗ [AI Powered Dev Tools & Platform](../../../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20Dev%20Tools%20&%20Platform.md)
 - ↗ [Cursor](../../../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Cursor.md)
 - ↗ [Claude Desktop](../../../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Claude%20Desktop.md)

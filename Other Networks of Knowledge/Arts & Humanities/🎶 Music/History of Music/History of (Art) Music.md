@@ -30,7 +30,7 @@ Historically, religions have often been catalysts for music. The [Vedas](https:
 
 ## Antiquity
 ### China
-↗ [中国音乐史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国人文艺术史/中国音乐史.md)
+↗ [中国音乐史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国音乐史.md)
 
 
 ### Greece

@@ -19,7 +19,7 @@
 
 ↗ [Western Philosophy & Its History](Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/Western%20Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)
-- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 
 ### Learning Resources

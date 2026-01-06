@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Intel](../../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Intel.md)
+↗ [Intel](../../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Intel.md)
 ↗ [x86 Architecture Family (80x86, 8086 family)](../../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 ↗ [CPU (Central Processing Unit)](../CPU%20(Central%20Processing%20Unit).md)
 

@@ -9,7 +9,6 @@
 
 
 
-
 ## Basics
 ### Regulations & Procedures
 #### Visa
@@ -54,4 +53,5 @@ https://www.shicheng.news/v/962Ej 看到一篇关于入境新加坡的攻略分�
 
 
 ## Ref
-
+[🎬 一口气了解新加坡经济]: https://youtu.be/JsRLZhL56C4?si=4DhnJNnFDDNFgE7j
+[🎬 新加坡为什么这么有钱?]: https://youtu.be/NLeXCApQD5I?si=-iQGKhbOL8GvYjD6

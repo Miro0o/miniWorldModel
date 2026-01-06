@@ -18,8 +18,8 @@
 
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 
-↗ [Information Technology Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
-- ↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+↗ [Information Technology Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
+- ↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
 - ↗ [U.S. Information Technology Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
 - ↗ [EU Information Technology Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/EU%20Information%20Technology%20Industry/EU%20Information%20Technology%20Industry.md)
 - ↗ [South Korean Information Technology Industry](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/South%20Korean%20Information%20Technology%20Industry/South%20Korean%20Information%20Technology%20Industry.md)
@@ -32,7 +32,7 @@
 ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
@@ -79,7 +79,7 @@ Analysts at Gartner, Inc., have been tracking technology trends for decades. The
 
 ## AI & LLM
 ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

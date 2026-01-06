@@ -16,6 +16,17 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 
 👍 Murphy, K. (2025). _Reinforcement Learning: An Overview_ (No. arXiv:2412.05265). arXiv. https://doi.org/10.48550/arXiv.2412.05265
 
+👍 👍【【强化学习的数学原理】课程：从零开始到透彻理解（完结）】 https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+教材PDF+PPT+代码网址： 
+1. 【Github】：
+	1. https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning
+2. 【百度网盘】：
+	1. https://pan.baidu.com/s/1kNxM8sl8FUWV6SiiGIep3Q?pwd=ghx83
+3. 【Onedrive】：
+	1. https://westlakeu-my.sharepoint.com/:f:/g/personal/lyujialing_westlake_edu_cn/EgN1-0jOU61BnaTkG7zJ9nsBUdjKEi6hNrdT5n8mp-qn3g?e=3MbtmD 
+4. 其中GitHub的材料是最新的，有条件的推荐访问GitHub
+字幕制作者（中文（中国））：[西湖大学WindyLab](https://space.bilibili.com/2044042934)
+
 
 
 ## Intro

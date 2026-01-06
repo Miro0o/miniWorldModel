@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Multimodal AI & MLLM](../../../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
-- ↗ [Video Generation & VLM (Vision Language Model)](../../../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Video%20Generation%20&%20VLM%20(Vision%20Language%20Model)/Video%20Generation%20&%20VLM%20(Vision%20Language%20Model).md)
+↗ [Multimodal AI & MLLM](../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+- ↗ [Image, Video, Vision, & VLM (Vision Language Model)](../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Image,%20Video,%20Vision,%20&%20VLM%20(Vision%20Language%20Model)/Image,%20Video,%20Vision,%20&%20VLM%20(Vision%20Language%20Model).md)
 
 
 ### Other Resources

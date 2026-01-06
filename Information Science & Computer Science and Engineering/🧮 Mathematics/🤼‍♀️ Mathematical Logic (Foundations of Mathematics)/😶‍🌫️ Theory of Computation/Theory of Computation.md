@@ -9,10 +9,11 @@
 ↗ [Set Theory & Axiomatic Set Theory](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 ↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
+↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 
 ### Learning Resources
@@ -158,7 +159,8 @@ Automata theory is an excellent place to begin the study of the theory of comput
 > ↗ [Formal Semantics and Programming Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 > 
 > ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-> ↗ [Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+> - ↗ [Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+> ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
@@ -197,7 +199,7 @@ Labels can represent different things depending on the language of interest. Typ
 
 
 **Special cases**
-- If, for any given $p$ and $\alpha$, there exists only a single tuple $(p,α,q)$ in $T$, then one says that α![{\displaystyle \alpha }](https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3) is ==deterministic (for $p$)==.
+- If, for any given $p$ and $\alpha$, there exists only a single tuple $(p,α,q)$ in $T$, then one says that $α$ is ==deterministic (for $p$)==.
 - If, for any given $p$ and $\alpha$, there exists at least one tuple $(p,\alpha,q)$ in $T$, then one says that $\alpha$ is ==executable (for $p$)==.
 
 

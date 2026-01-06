@@ -11,7 +11,7 @@
 ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ↗ [U.S. History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 ↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
 ↗ [Russia History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
@@ -356,7 +356,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 - In [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia "Scandinavia") and other parts of [northern Europe](https://en.wikipedia.org/wiki/Northern_Europe "Northern Europe") that the Romans did not reach, the Iron Age continues until the start of the [Viking Age](https://en.wikipedia.org/wiki/Viking_Age "Viking Age") in about 800 AD.
 - In [China](https://en.wikipedia.org/wiki/China "China"), the "Iron Age" ends with the start of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty "Qin dynasty") and the beginning of the [Imperial Era](https://en.wikipedia.org/wiki/Imperial_China "Imperial China").
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ##### Copper Age*
 
 
@@ -574,7 +574,7 @@ See also
 - ↗ [Vedism (Brahmanism) & Hinduism](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-- ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 - ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 - ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
 - ↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
@@ -597,14 +597,14 @@ See also
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
 #### Han Chinese / 汉
 ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 #### Machu | 满
 ####  Zang /Tibetan | 藏
 #### Moghols | 蒙
 ↗ [Mongolia 🇲🇳](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-- ↗ [元](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+- ↗ [元](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
 #### Madhya Deśa「摩陀耶提舍, 中天竺」 (Hindustani)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
 
@@ -653,9 +653,9 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Slovaks
 
 #### Irish
-↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 #### English
-↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 ↗ [United States 🇺🇸](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 ↗ [United Kingdoms 🇬🇧](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
 #### Germans
@@ -711,7 +711,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ###  The Yellow River and The Changjiang (Yangtze) River
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 
 ### Crete Island & Aegean Sea
@@ -749,11 +749,11 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ### The Revolution of Information Technology
-↗ [Information Technology Industry](../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
+↗ [Information Technology Industry](../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 ↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
-↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
 
 ↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 

@@ -10,9 +10,13 @@
 📂 [Warp Documentation](https://docs.warp.dev/) 
 
 
+### Other Resources
+
+
 
 ## Intro
 Warp is a blazingly fast, Rust-based terminal that makes you and your team more productive at running, debugging, and deploying code.
+
 
 ### Learn More
 Find updates, demos, insider stories, news articles, and more about Warp!
@@ -20,6 +24,7 @@ Find updates, demos, insider stories, news articles, and more about Warp!
 - Subscribe to our [YouTube](https://www.youtube.com/channel/UCKONdcQCTP3aozARj1ntKhw) or [TikTok](https://www.tiktok.com/@warp.dev) channels for longer demos and insider stories.
 - Join our [Discord](https://www.warp.dev/community) to interact directly with other developers and our engineers.
 - Follow our [Twitter](https://twitter.com/warpdotdev) for updates and to see what other people have been saying about us.
+
 
 ### 🧖🏻‍♀️ My set-up
 1. changed theme to sync with mac

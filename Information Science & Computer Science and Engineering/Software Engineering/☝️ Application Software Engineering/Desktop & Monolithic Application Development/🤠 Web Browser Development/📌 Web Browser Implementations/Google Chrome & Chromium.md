@@ -30,6 +30,9 @@ The Chromium projects include Chromium and ChromiumOS, the open-source projects 
 	- [Events](https://www.chromium.org/events): information about Chromium events
 - [ChromiumOS](https://www.chromium.org/chromium-os) is an open-source project that aims to provide a fast, simple, and more secure computing experience for people who spend most of their time on the web. Learn more about the [project goals](https://googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html), obtain the latest build, and learn how you can get involved, submit code, and file bugs.
 
+https://developer.chrome.com/docs/devtools/overview
+Chrome DevTools is a set of web developer tools built directly into the [Google Chrome](https://www.google.com/chrome/) browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
+
 
 ### Related Topics
 

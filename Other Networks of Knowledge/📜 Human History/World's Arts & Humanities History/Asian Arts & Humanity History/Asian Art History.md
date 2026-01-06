@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [中国人文艺术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国人文艺术史/中国人文艺术史.md)
-- ↗ [中国美术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国人文艺术史/中国美术史.md)
+↗ [中国人文艺术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国人文艺术史.md)
+- ↗ [中国美术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国美术史.md)
 
 ↗ [Japan Arts & Humanity History](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japan%20Arts%20&%20Humanity%20History/Japan%20Arts%20&%20Humanity%20History.md)
 ↗ [Korea Arts & Humanity History](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korea%20Arts%20&%20Humanity%20History/Korea%20Arts%20&%20Humanity%20History.md)
@@ -38,7 +38,7 @@
 
 
 ## Chinese Art
-> ↗ [中国美术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20🇨🇳/中华文明历史概况/中国人文艺术史/中国美术史.md)
+> ↗ [中国美术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国美术史.md)
 > ↗ [Buddhism in China](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Buddhism%20in%20China.md)
 > ↗ [Confucianism（儒家思想）](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Confucianism（儒家思想）.md)
 > ↗ [Taoism（道德家思想）](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Taoism（道德家思想）.md)

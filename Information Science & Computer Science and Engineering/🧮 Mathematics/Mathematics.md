@@ -327,6 +327,11 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 
 ![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 ##### 0️⃣ Foundation of Mathematics and Philosophy
 ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development /Foundational Crisis of Mathematics](Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
@@ -446,6 +451,9 @@ Computational mathematics is the study of [mathematical problems](https://en.wi
 - ↗ [Decision Making & Game Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
 - ↗ [Mathematical Optimization](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Mathematical%20Optimization.md)
 	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+###### 👉  Financial Mathematics
+↗ [Quantitative Finance & Financial Mathematics](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/💸%20Quantitative%20Finance%20&%20Financial%20Mathematics/Quantitative%20Finance%20&%20Financial%20Mathematics.md)
+↗ [Quantitative Investment & Computational Finance](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/🤑%20Quantitative%20Investment%20&%20Computational%20Finance/Quantitative%20Investment%20&%20Computational%20Finance.md)
 ###### 👉 etc.
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#

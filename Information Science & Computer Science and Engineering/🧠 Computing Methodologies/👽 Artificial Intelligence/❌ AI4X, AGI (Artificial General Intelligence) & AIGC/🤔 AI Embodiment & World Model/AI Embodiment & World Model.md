@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 ↗ [AIGC WorkFlow & Agents](../🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 
-↗ [LLM (Large Language Model)](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [Multimodal AI & MLLM](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
-- ↗ [Video Generation & VLM (Vision Language Model)](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Video%20Generation%20&%20VLM%20(Vision%20Language%20Model)/Video%20Generation%20&%20VLM%20(Vision%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [Multimodal AI & MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+- ↗ [Image, Video, Vision, & VLM (Vision Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Image,%20Video,%20Vision,%20&%20VLM%20(Vision%20Language%20Model)/Image,%20Video,%20Vision,%20&%20VLM%20(Vision%20Language%20Model).md)
 
 
 ### List of World Models

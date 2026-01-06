@@ -385,3 +385,17 @@ zsh community projects
 - `chsh -s /bin/zsh`
 
 [👍 A Guide to the Zsh Completion with Examples]: https://thevaluable.dev/zsh-completion-guide-examples/
+This article is the result of my efforts. It aims to explain the Zsh completion system in a simple way; more precisely, we’ll see:
+- How to enable the Zsh completion.
+- How does the completion system work.
+- What’s the purpose of the zstyle module.
+- How to use styles to configure the Zsh completion.
+- What are the most useful styles we can use to customize the completion.
+- How to trigger a precise completion using keystrokes.
+- How to customize the completion menu using the module _complist_.
+- What are the Zsh options we can set to configure the completion.
+Zsh related blogs:
+1. [Configuring Zsh Without Dependencies](https://thevaluable.dev/zsh-install-configure-mouseless/)
+2. [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)
+3. [A Guide to the Zsh Completion with Examples](https://thevaluable.dev/zsh-completion-guide-examples/)
+4. [A Guide to the Zsh Line Editor with Examples](https://thevaluable.dev/zsh-line-editor-configuration-mouseless/)

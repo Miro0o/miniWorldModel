@@ -20,11 +20,13 @@
 ↗ [Systems on Chip (SOC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 ↗ [Computer Motherboards](../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Motherboards/Computer%20Motherboards.md)
 
-↗ [Semiconductor Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Other Resources
 🎬 👍【芯片放大几万倍，你会看到什么？】 https://www.bilibili.com/video/BV17F4m1T7M2/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬 改变世界的机器以及其背后的工程 https://www.bilibili.com/video/BV1qXi4BbESM/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

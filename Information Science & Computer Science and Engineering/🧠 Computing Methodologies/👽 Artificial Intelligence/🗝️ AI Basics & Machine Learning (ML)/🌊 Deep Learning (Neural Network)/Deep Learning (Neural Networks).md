@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-↗ [LLM (Large Language Model)](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Linear Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
@@ -109,8 +109,8 @@ Features in data (数据特征): such **connections** between **informations** t
 ### The Technical Evolution of Neural Networks
 ↗ [The Development History of AI / 👉 Big Data, Deep Learning, AGI (2005–2017)](../The%20Development%20History%20of%20AI.md#👉%20Big%20Data,%20Deep%20Learning,%20AGI%20(2005–2017))
 ↗ [The Development History of AI /👉 From NLP to AGI: Boom of LLM (2017~)](../The%20Development%20History%20of%20AI.md#👉%20From%20NLP%20to%20AGI:%20Boom%20of%20LLM%20(2017~))
-↗ [Natural Language Processing (NLP) /📜 A Brief History of The Technical Evolution Of Language Models](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#📜%20A%20Brief%20History%20of%20The%20Technical%20Evolution%20Of%20Language%20Models)
-↗ [LLM (Large Language Model) /⭐ LLM Milestone Papers](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#⭐%20LLM%20Milestone%20Papers)
+↗ [Natural Language Processing (NLP) /📜 A Brief History of The Technical Evolution Of Language Models](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#📜%20A%20Brief%20History%20of%20The%20Technical%20Evolution%20Of%20Language%20Models)
+↗ [LLM (Large Language Model) /⭐ LLM Milestone Papers](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#⭐%20LLM%20Milestone%20Papers)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
@@ -168,13 +168,13 @@ This is the most step-by-step spelled-out explanation of backpropagation and tra
 
 ### Transformer & LLM
 ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [LLM (Large Language Model)](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-- ↗ [OpenAI ChatGPT](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
-- ↗ [Google Gemini](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
-- ↗ [Anthropic Claude](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Anthropic%20Claude.md)
-- ↗ [Meta LLama](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
-- ↗ [DeepSeek](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
-- ↗ [xAI Grok](../../⚜️%20Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/xAI%20Grok.md)
+↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+- ↗ [OpenAI ChatGPT](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+- ↗ [Google Gemini](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Google%20Gemini.md)
+- ↗ [Anthropic Claude](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Anthropic%20Claude.md)
+- ↗ [Meta LLama](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Meta%20LLama.md)
+- ↗ [DeepSeek](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/DeepSeek.md)
+- ↗ [xAI Grok](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/xAI%20Grok.md)
 
 
 
