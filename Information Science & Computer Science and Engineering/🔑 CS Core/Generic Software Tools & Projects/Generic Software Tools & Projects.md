@@ -19,7 +19,7 @@
 ↗ [Awesome AI (Tools)](🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 - ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [AI x Security](../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
-- ↗ [ALoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenaries/ALoT.md)
+- ↗ [ALoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/ALoT.md)
 
 ↗ [Programming Tool Chain](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
 - ↗ [Text Editors](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Text%20Editors/Text%20Editors.md)
@@ -33,7 +33,7 @@
 
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
-↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)

@@ -1,4 +1,4 @@
-# Financial Management
+# Corporate Finance
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

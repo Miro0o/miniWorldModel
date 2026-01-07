@@ -27,12 +27,11 @@ Developers can use game engines to construct games for video game consoles and o
 
 
 ## Ref
+[Sketchpad: A man-machine graphical communication system]: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf
+
 [🎬【老奇】阴差阳错 撼动世界的游戏引擎]: https://www.bilibili.com/video/BV1Hk4y1q7Rz/?share_source=copy_web
 一、计算机生成的逼真画面技术，以及其中涉及到的全局光照技术和渲染方程，这些技术的发展历程和重要性。
 - 00:28 - 游戏引擎是程序组件，可以基于他们开发游戏
-
-[Sketchpad: A man-machine graphical communication system]: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf
-
 - 01:32 - 鲁门的技术方案在U15中实现逼真画质
 	- Gouraud Shading
 	- Texture Mapping

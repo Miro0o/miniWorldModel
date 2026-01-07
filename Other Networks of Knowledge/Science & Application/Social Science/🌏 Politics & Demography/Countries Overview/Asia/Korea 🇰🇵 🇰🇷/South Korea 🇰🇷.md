@@ -1,14 +1,10 @@
-# Soith Korea 🇰🇷
+# South Korea 🇰🇷
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 
@@ -31,6 +27,8 @@
 
 
 ## Economics
+↗ [South Korean Economics](Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/South%20Korean%20Economics.md)
+
 ### Primary Economical Sector
 
 ### Secondary Economical Sector
@@ -63,8 +61,6 @@
 ### Cuisine
 
 ### Sports
-
-
 
 
 

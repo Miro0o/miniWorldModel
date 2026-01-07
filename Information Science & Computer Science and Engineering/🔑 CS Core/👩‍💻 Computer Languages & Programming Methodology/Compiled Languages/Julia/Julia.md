@@ -28,7 +28,7 @@ Below is a non-exhaustive list of links that will be useful as you learn and use
 
 
 ### Related Topics
-↗ [Mathematical Tools & Scientific Computing](../../../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Mathematical Tools & Scientific Computing](../../../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 ↗ [Scientific Computing](../../../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 
 ↗ [Project Jupyter (Julia, Python, R)](../../Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Python%20GUI%20Application/Project%20Jupyter%20(Julia,%20Python,%20R).md)

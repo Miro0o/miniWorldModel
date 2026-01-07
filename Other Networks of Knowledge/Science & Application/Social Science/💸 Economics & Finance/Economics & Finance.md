@@ -8,8 +8,13 @@
 ### Related Topics
 ↗ [World's Economics History](../../../📜%20Human%20History/World's%20Economics%20History/World's%20Economics%20History.md)
 
+↗ [Politics & Demography](../🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [Comprehensive IT Service Providers](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Comprehensive%20IT%20Service%20Providers.md)
+
+↗ [PCS (Payment and Clearing System)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
+↗ [Third-Party Payment Industry](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Third-Party%20Payment%20Industry/Third-Party%20Payment%20Industry.md)
 
 ↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 ↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
@@ -52,7 +57,7 @@ https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.
 
 
 ## ⛱ Intro: Economics
-### Products and Trade (商品与交易)
+### 👉 Products and Trade (商品与交易)
 > 🔗 https://en.wikipedia.org/wiki/Trade
 
 ==**Trade** involves the transfer of **goods** and **services** from one person or entity to another, often in exchange for **money**. Economists refer to a system or network that allows trade as a **market**.==
@@ -64,8 +69,10 @@ In one modern view, trade exists due to **specialization and the division of lab
 **Retail trade** consists of the sale of goods or merchandise from a very fixed location (such as a department store, boutique, or kiosk), online or by mail, in small or individual lots for direct consumption or use by the purchaser. **Wholesale trade** is the traffic in goods that are sold as merchandise to retailers, industrial, commercial, institutional, or other professional business users, or to other wholesalers and related subordinated services.
 
 Historically, openness to free trade substantially increased in some areas from 1815 until the outbreak of World War I in 1914. Trade openness increased again during the 1920s but collapsed (in particular in Europe and North America) during the Great Depression of the 1930s. Trade openness increased substantially again from the 1950s onward (albeit with a slowdown during the oil crisis of the 1970s). Economists and economic historians contend that current levels of trade openness are the highest they have ever been.
+#### Consumers and Producers
+
 #### Price and Value (价格与价值)
-##### Needs vs Production
+##### Needs vs Production ⭐
 ##### Price Phenomenon
 ###### Inflation (通货膨胀)
 > 🎬 [一口气了解通货膨胀](https://youtu.be/vHUZVwvvP7o?si=PzBp2hbjOEAGZuP1)
@@ -73,7 +80,7 @@ Historically, openness to free trade substantially increased in some areas from 
 ###### Deflation (通货紧缩)
 ###### Stagflation (停滞性通货膨胀 /滞胀)
 
-#### Genres of Products
+#### Genres of Products 🤔
 ##### Tangible Products
 
 ##### Intangible Products
@@ -89,7 +96,7 @@ Historically, openness to free trade substantially increased in some areas from 
 ↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 
 
-### Currency (货币)
+### 👉 Currency (货币)
 #### Currency Issuance & Global Monetary System
 ##### Fiat Money
 ↗ [History of Global Monetary System & Financial System](../../../📜%20Human%20History/World's%20Economics%20History/History%20of%20Global%20Monetary%20System%20&%20Financial%20System.md)
@@ -112,6 +119,7 @@ Historically, openness to free trade substantially increased in some areas from 
 ######  ¥ JPY
 ↗ [Bank of Japan](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
 ###### £ GBP
+###### $ CAD
 ##### Cryptocurrency
 ↗ [Decentralized Fiance & Cryptocurrency](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
 - ↗ [BTC (Bitcoin)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin)/BTC%20(Bitcoin).md)
@@ -130,79 +138,7 @@ Currency composition of forex reserves
 ↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 
 
-### Market (市场)
-![](../../../../Assets/Pics/Screenshot%202025-02-27%20at%2015.43.37.png)
-
-↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
-
-
-> 🔗 https://en.wikipedia.org/wiki/Market_(economics)
-
-==In economics, a market is a composition of systems, institutions, procedures, social relations or infrastructures whereby parties engage in exchange.== While parties may exchange goods and services by **barter**, most markets rely on sellers offering their goods or services (including labour power) to buyers in exchange for **money**. It can be said that a market is the process by which the value of goods and services are established. Markets facilitate trade and enable the distribution and allocation of resources in a society. **Markets allow any tradable item to be evaluated and priced.** A market emerges more or less spontaneously or may be constructed deliberately by human interaction in order to enable the exchange of rights (cf. ownership) of services and goods. Markets generally supplant gift economies and are often held in place through rules and customs, such as a booth fee, competitive pricing, and source of goods for sale (local produce or stock registration).
-
-Markets can differ by products (goods, services) or factors (labour and capital) sold, product differentiation, place in which exchanges are carried, buyers targeted, duration, selling process, government regulation, taxes, subsidies, minimum wages, price ceilings, legality of exchange, liquidity, intensity of speculation, size, concentration, exchange asymmetry, relative prices, volatility and geographic extension. The geographic boundaries of a market may vary considerably, for example the food market in a single building, the real estate market in a local city, the consumer market in an entire country, or the economy of an international trade bloc where the same rules apply throughout. Markets can also be worldwide, see for example the global diamond trade. National economies can also be classified as developed markets or developing markets.
-
-==In mainstream economics, the concept of a market is any structure that allows **buyers** and **sellers** to exchange any type of **goods, services and information**. ==The exchange of goods or services, with or without money, is a **transaction**. Market participants or economic agents consist of all the buyers and sellers of a good who influence its price, which is a major topic of study of economics and has given rise to several theories and models concerning the basic market forces of supply and demand. A major topic of debate is how much a given market can be considered to be a "free market", that is free from government intervention. Microeconomics traditionally focuses on the study of market structure and the efficiency of market equilibrium; when the latter (if it exists) is not efficient, then economists say that a market failure has occurred. However, it is not always clear how the allocation of resources can be improved since there is always the possibility of government failure.
-#### Market Entity
-![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.09.39.png)
-<small>Regulation of the People's Republic of China on the Administration of the Registration of Market Entities | 中华人民共和国市场主体登记管理条例 <a>https://lawinfochina.com/display.aspx?id=36450&lib=law</a></small>
-
-> 🔗 https://baike.kuaiji.com/v171213699.html#
-
-经营主体，又名国有产权主体，对象是政府、组织、单位、法人和自然人，属于经济法主体。国有资产管理经营主体，又称国有产权主体。是指享有或者拥有国有资产所有权或具体享有国有资产所有权某一项权能，以及享有与国有资产所有权有关的财产权利的政府、组织、单位、法人和自然人。
-##### Companies & Enterprises
-> ↗ [Corporate Law](../🧑‍⚖️%20Law%20&%20Legal%20Theory%20(法律%20&%20法学)/Special%20Legal%20Theory%20(特别法学)/Departmental%20Law/Civil%20Law%20Studies/Commercial%20(Business)%20Law/Corporate%20Law/Corporate%20Law.md)
-
-> 🔗 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%8F%B8
-
-
-> 🔗 https://fortune.com/ranking/global500/
-> 🔗 https://en.wikipedia.org/wiki/Fortune_Global_500
-> The **_Fortune_ Global 500**, also known as **Global 500**, is an annual ranking of the top 500 [corporations](https://en.wikipedia.org/wiki/Corporation "Corporation") worldwide as measured by [revenue](https://en.wikipedia.org/wiki/Revenue "Revenue"). The list is compiled and published annually by _[Fortune](https://en.wikipedia.org/wiki/Fortune_\(magazine\) "Fortune (magazine)")_ magazine.
-> 🔗 https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA
-###### Holding Company
-> 🔗 https://en.wikipedia.org/wiki/Holding_company
-###### Financial Institutes
-↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
-↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
-##### Corporate group & Conglomerate company (企业集团与集团企业)
-> 🔗 https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%8F%B8%E9%9B%86%E5%9C%98
-
-**公司集团（corporate group）**（又称**企业集团**），是一个商业组织，由多间同系的公司组成，关系是[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")与所持股的[子公司](https://zh.wikipedia.org/wiki/%E5%AD%90%E5%85%AC%E5%8F%B8 "子公司")及交叉持股的兄弟姊妹公司等，如[美国国际集团](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98 "美国国际集团")、日本[三菱集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%86%E5%9C%98 "三菱集团")、[三井集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E9%9B%86%E5%9C%98 "三井集团")、[富士产经集团](https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E7%94%A2%E7%B6%93%E9%9B%86%E5%9C%98 "富士产经集团")、[丰田集团](https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E9%9B%86%E5%9C%98 "丰田集团")、韩国[三星集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E9%9B%86%E5%9C%98 "三星集团")、[乐金集团](https://zh.wikipedia.org/wiki/%E6%A8%82%E9%87%91%E9%9B%86%E5%9C%98 "乐金集团")、[现代集团](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E9%9B%86%E5%9C%98 "现代集团")、台湾[鸿海集团](https://zh.wikipedia.org/wiki/%E9%B4%BB%E6%B5%B7%E9%9B%86%E5%9C%98 "鸿海集团")、[台塑集团](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98 "台塑集团")、[远东集团](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%9D%B1%E9%9B%86%E5%9C%98 "亚东集团")、[兴农集团](https://zh.wikipedia.org/wiki/%E8%88%88%E8%BE%B2%E9%9B%86%E5%9C%98 "兴农集团")、[远雄企业](https://zh.wikipedia.org/wiki/%E9%81%A0%E9%9B%84%E4%BC%81%E6%A5%AD "远雄企业")、[统一企业](https://zh.wikipedia.org/wiki/%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD "统一企业")、[三商企业](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%95%86%E4%BC%81%E6%A5%AD "三商企业")、[润泰集团](https://zh.wikipedia.org/wiki/%E6%BD%A4%E6%B3%B0%E4%BC%81%E6%A5%AD%E9%9B%86%E5%9C%98 "润泰企业集团")、香港[长江集团](https://zh.wikipedia.org/wiki/%E9%95%B7%E6%B1%9F%E5%AF%A6%E6%A5%AD)等。通常名称中是以[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")（主体企业）名称来取名。
-
-> 🔗 https://en.wikipedia.org/wiki/Corporate_group
-
-A **corporate group**, **company group** or **business group**, also formally known as a **group of companies**, is a collection of parent and subsidiary corporations that function as a **single economic entity** through a common source of control. These types of groups are often managed by an account manager. The concept of a group is frequently used in tax law and accounting and (less frequently) company law to attribute the rights and duties of one member of the group to another or the whole. ==If the corporations are engaged in entirely different businesses, the group is called a **conglomerate**.== The forming of corporate groups usually involves consolidation via  [mergers and acquisitions](https://en.wikipedia.org/wiki/Mergers_and_acquisitions "Mergers and acquisitions") (M&A), although the group concept focuses on the instances in which the merged and acquired corporate entities remain in existence rather than the instances in which they are dissolved by the parent. The group may be owned by a holding company which may have no actual operations.
-
-> 🔗 https://en.wikipedia.org/wiki/List_of_conglomerates
-> List of conglomerates
-
-> 🔗 https://www.ahchanye.com/zsyz/30783.html
-
-**集团公司与企业集团的区别有以下几点：**
-1. **法律地位不同**
-	1. 企业集团是许多法人组成的联合体，这种联合体将来很可能受合伙企业法调整。而集团公司是法人企业，规范的集团公司及母子公司关系应该受公司法调整。
-2. **内涵不同**
-	1. 企业集团包含集团公司，但并非所有集团公司都要成立企业集团。企业集团有两种基本类型，其中从属联合企业集团中的母公司是集团公司，而在协作型联合企业集团中，不存在以谁为核心企业的问题，所有企业是平等关系，在集团的统一管理下活动。在后一种企业集团中，集团成员企业可能都是控股公司，都有自己的若干子公司，这种集团往往是强强联合。
-3. **注册方式不同**
-	1. 集团公司既可以以自己为核心组成从属型联合企业集团或与其他公司一起组成协作型联合企业集团，也可以仅在母子公司范围内形成公司集团。组成企业集团须批准和登记。但集团公司本身只是履行公司法人登记手续。
-4. **组织机构不同**
-	1. 企业集团的组织机构由集团章程（集团成员协商一致）决定，而集团公司的组织机构必须在符合公司法规定的条件下由公司章程决定（需经股东会讨论通过）。
-5. **管理的原则和依据不同**
-	1. 企业集团实行统一管理的原则是经成员企业讨论通过的章程决定的。集团公司是独立公司法人，它自身的经营与运作要符合公司法和其他有关法律的规定；集团公司如果是集团成员，必须履行集团章程规定的权利和义务；集团公司作为从属型联合企业集团中的支配公司，又要承担起集团管理的重任。集团公司与集团利益的协调，与成员企业相互权利义务关系是集团立法和集团协议（章程）要解决的重要问题。
-6. **责任和财务制度不同**
-	1. 企业集团并不是独立的纳税主体，但要编制合并会计报表。集团的法律后果由集团成员企业负连带责任（集团章程另有约定的除外）。集团公司与其他成员企业一样，独立开展经营活动，是独立的纳税主体。它对其他成员企业除另有约定外，不承担债务责任。
-这里需要特别指出的是我国企业集团立法比较滞后。集团的设立、集团成员关系的处理，母子公司的关系，企业集团的管理基本原则，集团的垄断，行政性集团公司等问题都缺乏法律的界定和规范。
-###### Business Organization (工商组织)
-> 🔗 https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%95%86%E7%B5%84%E7%B9%94
-
-> 🔗 https://en.wikipedia.org/wiki/Corporate_group
-
-![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.26.04.png)
-#### Genres of Markets
-
-
-### Assets (资产) & Property (财产)
+### 👉 Assets (资产) & Property (财产)
 #### Assets (资产)
 > 🔗 https://zh.wikipedia.org/wiki/%E8%B3%87%E7%94%A2
 
@@ -264,35 +200,7 @@ At the most general level, economists may define wealth as "the total of anythin
 > 🔗 https://en.wikipedia.org/wiki/Wealth_management
 
 
-### Sectors & Industries (产业 & 行业)
-> ↗ [Macro Economics](Macro%20Economics/Macro%20Economics.md)
-> 
-> 🔗 https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A
-> 🔗 [三次产业是怎样划分的 | 国家统计局](https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903768.html#:~:text=%E4%B8%89%E6%AC%A1%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%88%92%E5%88%86%E5%A4%A7%E8%87%B4,%E7%95%8C%E5%AE%9A%E4%B8%BA%E7%AC%AC%E4%B8%89%E4%BA%A7%E4%B8%9A%E3%80%82)
-> 🔗 [国民经济行业分类 | 国家统计局]( https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/)
-
-One classical breakdown of economic activity distinguishes [three sectors](https://en.wikipedia.org/wiki/Three-sector_model "Three-sector model"):
-- [Primary](https://en.wikipedia.org/wiki/Primary_sector_of_the_economy "Primary sector of the economy"): involves the retrieval and production of raw-material [commodities](https://en.wikipedia.org/wiki/Commodity "Commodity"), such as corn, coal, wood or iron. Miners, farmers and fishermen are all workers in the primary sector.
-- [Secondary](https://en.wikipedia.org/wiki/Secondary_sector_of_the_economy "Secondary sector of the economy"): involves the transformation of raw or intermediate materials into [goods](https://en.wikipedia.org/wiki/Goods "Goods"), as in steel into cars, or textiles into clothing. Builders and dressmakers work in the secondary sector.
-- [Tertiary](https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy "Tertiary sector of the economy"): involves the supplying of services to consumers and businesses, such as babysitting, cinemas or banking. Shopkeepers and accountants work in the tertiary sector.
-
-In the 20th century, economists began to suggest that traditional tertiary services could be further distinguished from "[quaternary](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy "Quaternary sector of the economy")" and [quinary](https://en.wikipedia.org/wiki/Quinary_sector_of_the_economy "Quinary sector of the economy") service sectors. Economic activity in the hypothetical quaternary sector comprises information- and knowledge-based services, while quinary services include industries related to [human services](https://en.wikipedia.org/wiki/Human_services "Human services") and [hospitality](https://en.wikipedia.org/wiki/Hospitality_industry "Hospitality industry").[[2]](https://en.wikipedia.org/wiki/Economic_sector#cite_note-2)
-
-Economic theories divide economic sectors further into [economic industries](https://en.wikipedia.org/wiki/Industry_\(economics\) "Industry (economics)").
-
-
-![P020250116506795831658](../../../../Assets/Official%20&%20Formal%20Docs/P020250116506795831658.pdf)
-
-1. 第一产业是指农、林、牧、渔业（不含农、林、牧、渔专业及辅助性活动）。
-2. 第二产业是指采矿业（不含开采专业及辅助性活动），制造业（不含金属制品、机械和设备修理业），电力、热力、燃气及水生产和供应业，建筑业。第三产业即服务业，是指除第一产业、第二产业以外的其他行业。
-3. 第三产业包括：批发和零售业，交通运输、仓储和邮政业，住宿和餐饮业，信息传输、软件和信息技术服务业，金融业，房地产业，租赁和商务服务业，科学研究和技术服务业，水利、环境和公共设施管理业，居民服务、修理和其他服务业，教育，卫生和社会工作，文化、体育和娱乐业，公共管理、社会保障和社会组织，国际组织，以及农、林、牧、渔业中的农、林、牧、渔专业及辅助性活动，采矿业中的开采专业及辅助性活动，制造业中的金属制品、机械和设备修理业。
-
-> 🔗 https://en.wikipedia.org/wiki/Industry_(economics)
-
-![](../../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.53.48.png)
-
-
-### Production and Capital/ Cap (生产与资本)
+### 👉 Production and Capital/ Cap (生产与资本)
 > ↗ [Marxism & Communism](../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Capital_(economics)
@@ -386,7 +294,117 @@ An increasing division of labour is associated with the growth of total output a
 > 各个人借以进行生产的社会关系，即社会生产关系，是随着物质生产资料、生产力的变化和发展而变化和改变的。生产关系总合起来就构成为所谓社会关系，构成为所谓社会，并且是构成为一个处于一定历史发展阶段上的社会，具有独特的特征的社会。
 
 
-### Governmental Regulation & Economic System (政府调控与经济体制)
+### 👉 Market (市场)
+![](../../../../Assets/Pics/Screenshot%202025-02-27%20at%2015.43.37.png)
+
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+
+
+> 🔗 https://en.wikipedia.org/wiki/Market_(economics)
+
+==In economics, a market is a composition of systems, institutions, procedures, social relations or infrastructures whereby parties engage in exchange.== While parties may exchange goods and services by **barter**, most markets rely on sellers offering their goods or services (including labour power) to buyers in exchange for **money**. It can be said that a market is the process by which the value of goods and services are established. Markets facilitate trade and enable the distribution and allocation of resources in a society. **Markets allow any tradable item to be evaluated and priced.** A market emerges more or less spontaneously or may be constructed deliberately by human interaction in order to enable the exchange of rights (cf. ownership) of services and goods. Markets generally supplant gift economies and are often held in place through rules and customs, such as a booth fee, competitive pricing, and source of goods for sale (local produce or stock registration).
+
+Markets can differ by products (goods, services) or factors (labour and capital) sold, product differentiation, place in which exchanges are carried, buyers targeted, duration, selling process, government regulation, taxes, subsidies, minimum wages, price ceilings, legality of exchange, liquidity, intensity of speculation, size, concentration, exchange asymmetry, relative prices, volatility and geographic extension. The geographic boundaries of a market may vary considerably, for example the food market in a single building, the real estate market in a local city, the consumer market in an entire country, or the economy of an international trade bloc where the same rules apply throughout. Markets can also be worldwide, see for example the global diamond trade. National economies can also be classified as developed markets or developing markets.
+
+==In mainstream economics, the concept of a market is any structure that allows **buyers** and **sellers** to exchange any type of **goods, services and information**. ==The exchange of goods or services, with or without money, is a **transaction**. Market participants or economic agents consist of all the buyers and sellers of a good who influence its price, which is a major topic of study of economics and has given rise to several theories and models concerning the basic market forces of supply and demand. A major topic of debate is how much a given market can be considered to be a "free market", that is free from government intervention. Microeconomics traditionally focuses on the study of market structure and the efficiency of market equilibrium; when the latter (if it exists) is not efficient, then economists say that a market failure has occurred. However, it is not always clear how the allocation of resources can be improved since there is always the possibility of government failure.
+#### Market Entity
+![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.09.39.png)
+<small>Regulation of the People's Republic of China on the Administration of the Registration of Market Entities | 中华人民共和国市场主体登记管理条例 <a>https://lawinfochina.com/display.aspx?id=36450&lib=law</a></small>
+
+> 🔗 https://baike.kuaiji.com/v171213699.html#
+
+经营主体，又名国有产权主体，对象是政府、组织、单位、法人和自然人，属于经济法主体。国有资产管理经营主体，又称国有产权主体。是指享有或者拥有国有资产所有权或具体享有国有资产所有权某一项权能，以及享有与国有资产所有权有关的财产权利的政府、组织、单位、法人和自然人。
+##### Companies & Enterprises
+> ↗ [Corporate Law](../🧑‍⚖️%20Law%20&%20Legal%20Theory%20(法律%20&%20法学)/Special%20Legal%20Theory%20(特别法学)/Departmental%20Law/Civil%20Law%20Studies/Commercial%20(Business)%20Law/Corporate%20Law/Corporate%20Law.md)
+
+> 🔗 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%8F%B8
+
+
+> 🔗 https://fortune.com/ranking/global500/
+> 🔗 https://en.wikipedia.org/wiki/Fortune_Global_500
+> The **_Fortune_ Global 500**, also known as **Global 500**, is an annual ranking of the top 500 [corporations](https://en.wikipedia.org/wiki/Corporation "Corporation") worldwide as measured by [revenue](https://en.wikipedia.org/wiki/Revenue "Revenue"). The list is compiled and published annually by _[Fortune](https://en.wikipedia.org/wiki/Fortune_\(magazine\) "Fortune (magazine)")_ magazine.
+> 🔗 https://zh.wikipedia.org/wiki/%E8%B4%A2%E5%AF%8C%E4%B8%96%E7%95%8C500%E5%BC%BA
+###### Holding Company
+> 🔗 https://en.wikipedia.org/wiki/Holding_company
+###### Financial Institutes
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
+##### Corporate Group & Conglomerate Company (企业集团与集团企业)
+> 🔗 https://zh.wikipedia.org/zh-cn/%E5%85%AC%E5%8F%B8%E9%9B%86%E5%9C%98
+
+**公司集团（corporate group）**（又称**企业集团**），是一个商业组织，由多间同系的公司组成，关系是[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")与所持股的[子公司](https://zh.wikipedia.org/wiki/%E5%AD%90%E5%85%AC%E5%8F%B8 "子公司")及交叉持股的兄弟姊妹公司等，如[美国国际集团](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98 "美国国际集团")、日本[三菱集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%86%E5%9C%98 "三菱集团")、[三井集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E9%9B%86%E5%9C%98 "三井集团")、[富士产经集团](https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E7%94%A2%E7%B6%93%E9%9B%86%E5%9C%98 "富士产经集团")、[丰田集团](https://zh.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E9%9B%86%E5%9C%98 "丰田集团")、韩国[三星集团](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E9%9B%86%E5%9C%98 "三星集团")、[乐金集团](https://zh.wikipedia.org/wiki/%E6%A8%82%E9%87%91%E9%9B%86%E5%9C%98 "乐金集团")、[现代集团](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E9%9B%86%E5%9C%98 "现代集团")、台湾[鸿海集团](https://zh.wikipedia.org/wiki/%E9%B4%BB%E6%B5%B7%E9%9B%86%E5%9C%98 "鸿海集团")、[台塑集团](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98 "台塑集团")、[远东集团](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%9D%B1%E9%9B%86%E5%9C%98 "亚东集团")、[兴农集团](https://zh.wikipedia.org/wiki/%E8%88%88%E8%BE%B2%E9%9B%86%E5%9C%98 "兴农集团")、[远雄企业](https://zh.wikipedia.org/wiki/%E9%81%A0%E9%9B%84%E4%BC%81%E6%A5%AD "远雄企业")、[统一企业](https://zh.wikipedia.org/wiki/%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD "统一企业")、[三商企业](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%95%86%E4%BC%81%E6%A5%AD "三商企业")、[润泰集团](https://zh.wikipedia.org/wiki/%E6%BD%A4%E6%B3%B0%E4%BC%81%E6%A5%AD%E9%9B%86%E5%9C%98 "润泰企业集团")、香港[长江集团](https://zh.wikipedia.org/wiki/%E9%95%B7%E6%B1%9F%E5%AF%A6%E6%A5%AD)等。通常名称中是以[母公司](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%85%AC%E5%8F%B8 "母公司")（主体企业）名称来取名。
+
+> 🔗 https://en.wikipedia.org/wiki/Corporate_group
+
+A **corporate group**, **company group** or **business group**, also formally known as a **group of companies**, is a collection of parent and subsidiary corporations that function as a **single economic entity** through a common source of control. These types of groups are often managed by an account manager. The concept of a group is frequently used in tax law and accounting and (less frequently) company law to attribute the rights and duties of one member of the group to another or the whole. ==If the corporations are engaged in entirely different businesses, the group is called a **conglomerate**.== The forming of corporate groups usually involves consolidation via  [mergers and acquisitions](https://en.wikipedia.org/wiki/Mergers_and_acquisitions "Mergers and acquisitions") (M&A), although the group concept focuses on the instances in which the merged and acquired corporate entities remain in existence rather than the instances in which they are dissolved by the parent. The group may be owned by a holding company which may have no actual operations.
+
+> 🔗 https://en.wikipedia.org/wiki/List_of_conglomerates
+> List of conglomerates
+
+> 🔗 https://www.ahchanye.com/zsyz/30783.html
+
+**集团公司与企业集团的区别有以下几点：**
+1. **法律地位不同**
+	1. 企业集团是许多法人组成的联合体，这种联合体将来很可能受合伙企业法调整。而集团公司是法人企业，规范的集团公司及母子公司关系应该受公司法调整。
+2. **内涵不同**
+	1. 企业集团包含集团公司，但并非所有集团公司都要成立企业集团。企业集团有两种基本类型，其中从属联合企业集团中的母公司是集团公司，而在协作型联合企业集团中，不存在以谁为核心企业的问题，所有企业是平等关系，在集团的统一管理下活动。在后一种企业集团中，集团成员企业可能都是控股公司，都有自己的若干子公司，这种集团往往是强强联合。
+3. **注册方式不同**
+	1. 集团公司既可以以自己为核心组成从属型联合企业集团或与其他公司一起组成协作型联合企业集团，也可以仅在母子公司范围内形成公司集团。组成企业集团须批准和登记。但集团公司本身只是履行公司法人登记手续。
+4. **组织机构不同**
+	1. 企业集团的组织机构由集团章程（集团成员协商一致）决定，而集团公司的组织机构必须在符合公司法规定的条件下由公司章程决定（需经股东会讨论通过）。
+5. **管理的原则和依据不同**
+	1. 企业集团实行统一管理的原则是经成员企业讨论通过的章程决定的。集团公司是独立公司法人，它自身的经营与运作要符合公司法和其他有关法律的规定；集团公司如果是集团成员，必须履行集团章程规定的权利和义务；集团公司作为从属型联合企业集团中的支配公司，又要承担起集团管理的重任。集团公司与集团利益的协调，与成员企业相互权利义务关系是集团立法和集团协议（章程）要解决的重要问题。
+6. **责任和财务制度不同**
+	1. 企业集团并不是独立的纳税主体，但要编制合并会计报表。集团的法律后果由集团成员企业负连带责任（集团章程另有约定的除外）。集团公司与其他成员企业一样，独立开展经营活动，是独立的纳税主体。它对其他成员企业除另有约定外，不承担债务责任。
+这里需要特别指出的是我国企业集团立法比较滞后。集团的设立、集团成员关系的处理，母子公司的关系，企业集团的管理基本原则，集团的垄断，行政性集团公司等问题都缺乏法律的界定和规范。
+###### Business Organization (工商组织)
+> 🔗 https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%95%86%E7%B5%84%E7%B9%94
+
+> 🔗 https://en.wikipedia.org/wiki/Corporate_group
+
+![](../../../../Assets/Pics/Screenshot%202025-05-05%20at%2014.26.04.png)
+#### Genres of Markets 🤔
+##### Real Economy
+↗ [Commerce & Business](🩸%20Commerce%20&%20Business/Commerce%20&%20Business.md)
+
+↗ [Primary Economical Sector](Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/Primary%20Economical%20Sector/Primary%20Economical%20Sector.md)
+↗ [Secondary Economical Sector](Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/Secondary%20Economical%20Sector/Secondary%20Economical%20Sector.md)
+↗ [Tertiary Economical Sector](Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)
+##### Fictitious Economy & Financial Markets
+↗ [Electronic Game Industry](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Electronic%20Game%20Industry/Electronic%20Game%20Industry.md)
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+- ↗ [Derivative & Analytics](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Derivative%20&%20Analytics/Derivative%20&%20Analytics.md)
+- ↗ [Securities Analysis and Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
+↗ [Decentralized Fiance & Cryptocurrency](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
+#### Sectors & Industries (产业 & 行业)
+> ↗ [Macro Economics](Macro%20Economics/Macro%20Economics.md)
+> 
+> 🔗 https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A
+> 🔗 [三次产业是怎样划分的 | 国家统计局](https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903768.html#:~:text=%E4%B8%89%E6%AC%A1%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%88%92%E5%88%86%E5%A4%A7%E8%87%B4,%E7%95%8C%E5%AE%9A%E4%B8%BA%E7%AC%AC%E4%B8%89%E4%BA%A7%E4%B8%9A%E3%80%82)
+> 🔗 [国民经济行业分类 | 国家统计局]( https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/)
+
+One classical breakdown of economic activity distinguishes [three sectors](https://en.wikipedia.org/wiki/Three-sector_model "Three-sector model"):
+- [Primary](https://en.wikipedia.org/wiki/Primary_sector_of_the_economy "Primary sector of the economy"): involves the retrieval and production of raw-material [commodities](https://en.wikipedia.org/wiki/Commodity "Commodity"), such as corn, coal, wood or iron. Miners, farmers and fishermen are all workers in the primary sector.
+- [Secondary](https://en.wikipedia.org/wiki/Secondary_sector_of_the_economy "Secondary sector of the economy"): involves the transformation of raw or intermediate materials into [goods](https://en.wikipedia.org/wiki/Goods "Goods"), as in steel into cars, or textiles into clothing. Builders and dressmakers work in the secondary sector.
+- [Tertiary](https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy "Tertiary sector of the economy"): involves the supplying of services to consumers and businesses, such as babysitting, cinemas or banking. Shopkeepers and accountants work in the tertiary sector.
+
+In the 20th century, economists began to suggest that traditional tertiary services could be further distinguished from "[quaternary](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy "Quaternary sector of the economy")" and [quinary](https://en.wikipedia.org/wiki/Quinary_sector_of_the_economy "Quinary sector of the economy") service sectors. Economic activity in the hypothetical quaternary sector comprises information- and knowledge-based services, while quinary services include industries related to [human services](https://en.wikipedia.org/wiki/Human_services "Human services") and [hospitality](https://en.wikipedia.org/wiki/Hospitality_industry "Hospitality industry").[[2]](https://en.wikipedia.org/wiki/Economic_sector#cite_note-2)
+
+Economic theories divide economic sectors further into [economic industries](https://en.wikipedia.org/wiki/Industry_\(economics\) "Industry (economics)").
+
+
+![P020250116506795831658](../../../../Assets/Official%20&%20Formal%20Docs/P020250116506795831658.pdf)
+
+1. 第一产业是指农、林、牧、渔业（不含农、林、牧、渔专业及辅助性活动）。
+2. 第二产业是指采矿业（不含开采专业及辅助性活动），制造业（不含金属制品、机械和设备修理业），电力、热力、燃气及水生产和供应业，建筑业。第三产业即服务业，是指除第一产业、第二产业以外的其他行业。
+3. 第三产业包括：批发和零售业，交通运输、仓储和邮政业，住宿和餐饮业，信息传输、软件和信息技术服务业，金融业，房地产业，租赁和商务服务业，科学研究和技术服务业，水利、环境和公共设施管理业，居民服务、修理和其他服务业，教育，卫生和社会工作，文化、体育和娱乐业，公共管理、社会保障和社会组织，国际组织，以及农、林、牧、渔业中的农、林、牧、渔专业及辅助性活动，采矿业中的开采专业及辅助性活动，制造业中的金属制品、机械和设备修理业。
+
+> 🔗 https://en.wikipedia.org/wiki/Industry_(economics)
+
+![](../../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.53.48.png)
+
+
+### 👉 Governmental Regulation & Economic System (政府调控与经济体制)
 #### Political Economics & Governmental Regulation
 ↗ [Political Economics](Political%20Economics/Political%20Economics.md)
 ##### Public Finance & National Treasury

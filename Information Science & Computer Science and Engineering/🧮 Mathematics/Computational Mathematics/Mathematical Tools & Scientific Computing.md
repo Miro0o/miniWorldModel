@@ -6,30 +6,40 @@
 
 ## Res
 ### Related Topics
-↗ [Generic Software Tools & Projects](../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md)
+↗ [Generic Software Tools & Projects](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md)
 
-↗ [Computing Methodologies](../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
-- ↗ [Scientific Computing](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
-- ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
-
-↗ [MATLAB](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/MATLAB/MATLAB.md)
-↗ [R Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
-↗ [Python](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python.md)
-↗ [Julia](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Julia/Julia.md)
+↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+- ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
+- ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 
 
-
-## 👉 Wolfram Mathematica
-🏠 https://www.wolfram.com/mathematica/
+↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
+↗ [Python](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python.md)
+↗ [Julia](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Julia/Julia.md)
 
 
 
 ## 👉 Maple
 🏠 https://www.maplesoft.com/products/maple/
 
+> 🔗 https://en.wikipedia.org/wiki/Maple_(software)
+
+**Maple** is a [symbolic](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") and [numeric](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis") computing environment as well as a [multi-paradigm programming language](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm "Programming paradigm"). It covers several areas of technical computing, such as symbolic mathematics, numerical analysis, data processing, visualization, and others. A toolbox, [MapleSim](https://en.wikipedia.org/wiki/MapleSim "MapleSim"), adds functionality for multidomain physical modeling and code generation.
+
+Maple's capacity for symbolic computing include those of a general-purpose [computer algebra system](https://en.wikipedia.org/wiki/Computer_algebra_system "Computer algebra system"). For instance, it can manipulate mathematical expressions and find symbolic solutions to certain problems, such as those arising from ordinary and partial [differential equations](https://en.wikipedia.org/wiki/Differential_equations "Differential equations").
+
+Maple is developed commercially by the Canadian software company [Maplesoft](https://en.wikipedia.org/wiki/Maplesoft "Maplesoft"). The name 'Maple' is a reference to the software's [Canadian heritage](https://en.wikipedia.org/wiki/Flag_of_Canada "Flag of Canada").
+
 
 
 ## 👉 MatLab
+↗ [MATLAB](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/MATLAB/MATLAB.md)
+
+
+
+
+## 👉 Wolfram Mathematica
+🏠 https://www.wolfram.com/mathematica/
 
 
 

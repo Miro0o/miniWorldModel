@@ -201,12 +201,10 @@ Information for **many federal government agencies** is centrally located in 
 	    - [Code of Federal Regulations](http://www.gpo.gov/searchwebapp/browse/collectionCfr.action?collectionCode=CFR): Regulations (Final Rules) are compiled & codified under "Titles."
 	- **Foreign Relations & Policy**
 	    - [State Department](http://www.state.gov/%E2%80%8E)
-	        - [Travel warnings  
-	            ](http://travel.state.gov/content/passports/english/alertswarnings.html)
+	        - [Travel warnings](http://travel.state.gov/content/passports/english/alertswarnings.html)
 	    - [FRUS](http://history.state.gov/historicaldocuments/volume-title-search): Foreign Relations of the United States (also at [UWDC](http://uwdc.library.wisc.edu/collections/FRUS))
 	    - [Treaties in Force](http://www.state.gov/s/l/treaty/tif/index.htm)
-	    - [FBIS Daily Reports (via Readex)  
-	        ](https://resolver.library.columbia.edu/clio6428533)
+	    - [FBIS Daily Reports (via Readex)](https://resolver.library.columbia.edu/clio6428533)
 	- **[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)**
 	- **[CRS Reports](https://opencrs.com/)** (learn more about these reports in [this blog post](https://blogs.library.columbia.edu/journalism/2013/09/crs-reports-valuable-sources/))
 	- Census Bureau's **[American FactFinder](http://factfinder2.census.gov/%E2%80%8E)**

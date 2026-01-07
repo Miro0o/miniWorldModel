@@ -464,6 +464,14 @@ or（情感，逻辑）X （认识，实践）
 
 ![Language_and_Programming_Language_Processing | 800](Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Language, Computer Language, and  Programming Language Processing</small>
+###### 人工智能：现状与未来
+人工智能目前还处于上述所说的计算机智能的范围（狭义的智能）。未来，人工智能的愿景是实现与人类智能水平同等级的类人智能（广义的智能）。从狭义的智能到广义的智能的标志，就是智能体拥有自我意识，即所谓的“奇点”。这个过程见图 “From CS to AGI: Computing and Intelligence”。
+
+目前人类在大语言模型方面的进展，可以看作是我们为人类知识建立了一个基于概率预测的检索器。这个检索器根据训练数据在其内部创造了一个基于概率的知识图网络。当使用者输入提示词，检索器就根据输入对潜在的人类知识网络进行搜索，这可以看作是在图上搜索走过的一个子图（模型内部参数的不断激活），并返回搜索终点集（搜索最后停在的点的集合）。
+
+目前的大语言模型没有类似人类的推理能力。它展现的类似推理能力的表现，实际上可看作是对其知识图网络路径的概率展示。大语言模型的“推理能力”和人类的推理能力的根本不同在于，人类的推理是对其知识图网络的路径的确定展示，而大语言模型是概率展示。这意味着，对人来说，同一个逻辑，在任何时候都是成立的，而大语言模型有概率会不成立。
+
+不过，大语言模型的巨大优势就是，在同等资源下，它极大地提高了对知识图网络的搜索速度、广度、深度（不过结果的”正确性“是基于概率的）。换句话说，一个要被正常人类花费很多精力才能习得的知识，大语言模型在几秒钟就可以返回。从这个实际效率的角度来说，大语言模型看起来 “比人类还要智能”。
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）⭐
 ↗ [Deep Learning (Neural Networks)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [AI Embodiment & World Model](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
@@ -692,7 +700,7 @@ or（情感，逻辑）X （认识，实践）
 > 
 > 一句话，从宏观层面我们要发展共产主义人人平等，从微观层面我们要进行阶级跨越人人不平等。这不是双标，这是马克思主义指出的矛盾的对立和统一。这一点非常重要。
 
-↗ [Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+↗ [Financial Management (财务管理)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
 ↗ [Law & Legal Theory (法律 & 法学)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🧑‍⚖️%20Law%20&%20Legal%20Theory%20(法律%20&%20法学)/Law%20&%20Legal%20Theory%20(法律%20&%20法学).md)
 ###### 个体科技权力：先进与落后
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
@@ -820,7 +828,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Electronics & Information Technologies Business Fields Research](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
-↗ [Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+↗ [Financial Management (财务管理)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
 
 ↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 

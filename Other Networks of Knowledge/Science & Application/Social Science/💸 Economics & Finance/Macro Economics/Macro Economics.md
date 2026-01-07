@@ -21,7 +21,7 @@
 ↗ [Russian Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/Russian%20Economics.md)
 
 
-↗ [Financial Management](../🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+↗ [Financial Management (财务管理)](../🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
 ↗ [Financial Investment](../🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 
 

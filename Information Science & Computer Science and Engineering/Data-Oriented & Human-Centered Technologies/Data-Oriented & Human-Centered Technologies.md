@@ -17,7 +17,7 @@
 
 ↗ [Scientific Computing](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 
-↗ [Mathematical Tools & Scientific Computing](../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Mathematical Tools & Scientific Computing](../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 ↗ [R Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
 ↗ [Julia](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Julia/Julia.md)

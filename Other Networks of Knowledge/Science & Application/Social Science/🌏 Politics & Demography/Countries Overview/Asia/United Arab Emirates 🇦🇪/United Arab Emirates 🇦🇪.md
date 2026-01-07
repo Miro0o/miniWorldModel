@@ -22,4 +22,37 @@ The Federal Supreme Council, made up of the seven ruling emirs, is the highest s
 
 
 
+## UAE Politics & Parties
+↗ [Emirate of Dubai](Emirate%20of%20Dubai.md)
+↗ [Emirate of Abu Dhabi](Emirate%20of%20Abu%20Dhabi.md)
+
+In the UAE, the President (Head of State, Ruler of Abu Dhabi) holds the highest office, elected by the [Federal Supreme Council](https://www.google.com/search?q=Federal+Supreme+Council&newwindow=1&sca_esv=07b6421d581a57bc&sxsrf=AE3TifOtNpIdJqFZ0VuIwNFKnij4gKpnaw%3A1767791149499&ei=LVpeaZCGHuiowPAP_PfSgAg&oq=uae+presiden&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHVhZSBwcmVzaWRlbioCCAIyCxAAGIAEGJECGIoFMgUQABiABDILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESONPUL4YWMxCcAZ4AZABAZgBxgGgAfkJqgEDOC40uAEDyAEA-AEBmAIRoAKUCcICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIKEC4YgAQYJxiKBcICChAAGIAEGEMYigXCAgsQLhiABBjHARivAcICBRAuGIAEwgIKEAAYgAQYFBiHAsICCRAAGIAEGAoYC8ICBxAAGIAEGArCAg0QLhiABBjRAxjHARgKmAMAiAYBkAYIkgcEMTIuNaAHgGGyBwM2LjW4B_UIwgcIMC4xLjE1LjHIB0-ACAA&sclient=gws-wiz-serp&mstk=AUtExfB5KI3DOhtARn6SpDnVxIpwoc_UG4a1I4qSB8dhZMZGhy0fsPheaZf5RuMNZnZg5Rjhgu3lXCezXA3yOvasZwMI4h0-qthBkkd-TQ2LxWGNsmqGPS7TwsXskSC6Yu25sI7-3rgK2ypLc0zYlyeS8OBBJ2UfJEH4mGi3hHwYCUi2Mr2HPLCnFKGkVnAtk-pxRn9bYD14YqWdwyFsl0wqendQYRFMHX2CxCeUu4oupGNtRfiDB1hNlMwdumKf59nEml74uDsP41_YADztILlHGthP&csui=3&ved=2ahUKEwiSsdmxv_mRAxXkAxAIHUMTHm0QgK4QegQIARAB), while the Prime Minister (Head of Government, Ruler of Dubai) leads the Cabinet (Council of Ministers) and implements federal policy, both roles traditionally held by the rulers of Abu Dhabi and Dubai, respectively, forming a unique presidential monarchy. The President appoints the PM, but the Supreme Council (rulers of all seven emirates) confirms key decisions and elects the President/VP.
+
+🔗 https://www.nmo.gov.ae/en/uae/leadership
+
+![|300](../../../../../../../Assets/Pics/Pasted%20image%2020260107141540.png)
+
+![|300](../../../../../../../Assets/Pics/Pasted%20image%2020260107141601.png)
+
+
+
+## UAE Social Development
+### UAE Economics
+
+
+### UAE Cultures
+
+
+### UAE Science & Technologies
+
+
+
+##  UAE Society & Demography
+
+
+
+## UAE Geography & Administration Areas
+
+
+
 ## Ref

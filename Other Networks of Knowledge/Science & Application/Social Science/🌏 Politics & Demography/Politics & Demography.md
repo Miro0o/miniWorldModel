@@ -10,10 +10,15 @@
 ↗ [United States 🇺🇸](Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 ↗ [Political Philosophy](../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Political%20Philosophy.md)
+↗ [Economics & Finance](../💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+
+
+### Other Resources
 
 
 
 ## Intro
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
 
 
 

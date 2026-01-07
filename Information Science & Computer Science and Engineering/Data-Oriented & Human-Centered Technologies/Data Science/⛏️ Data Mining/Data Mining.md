@@ -15,7 +15,7 @@
 ↗ [Probabilities & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 ↗ [Statistical Learning Theory & ML Types](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
 
-↗ [Mathematical Tools & Scientific Computing](../../../🧮%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
+↗ [Mathematical Tools & Scientific Computing](../../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [R Language](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)
 ↗ [Python](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python.md)

@@ -6,13 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [PCS (Payment and Clearing System)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
-↗ [Third-Party Payment Industry](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Third-Party%20Payment%20Industry/Third-Party%20Payment%20Industry.md)
 
 
 
 ## Intro: Management
-↗ [Financial Management](../🩸%20Commerce%20&%20Business/Financial%20Management/Financial%20Management.md)
+↗ [Financial Management (财务管理)](../🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
 ↗ [Corporation Management](../../Management%20Science/Corporation%20Management/Corporation%20Management.md)
 
 levels of management:
@@ -394,7 +392,27 @@ List of investment banks
 
 
 
+## Financial Statement
+> ↗ [Accounting & Accountancy](../🩸%20Commerce%20&%20Business/🧾%20Accounting%20&%20Accountancy/Accounting%20&%20Accountancy.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Financial_statement
+
+**Financial statements** (or **financial reports**) are formal records of the financial activities and position of a business, person, or other entity.
+
+Relevant financial information is presented in a structured manner and in a form which is easy to understand. They typically include four basic financial statements accompanied by a management discussion and analysis:
+1. A [balance sheet](https://en.wikipedia.org/wiki/Balance_sheet "Balance sheet") reports on a company's [assets](https://en.wikipedia.org/wiki/Asset "Asset"), [liabilities](https://en.wikipedia.org/wiki/Liability_\(financial_accounting\) "Liability (financial accounting)"), and [owners equity](https://en.wikipedia.org/wiki/Equity_\(finance\) "Equity (finance)") at a given point in time.
+2. An [income statement](https://en.wikipedia.org/wiki/Income_statement "Income statement") reports on a company's [income](https://en.wikipedia.org/wiki/Income "Income"), [expenses](https://en.wikipedia.org/wiki/Expense "Expense"), and [profits](https://en.wikipedia.org/wiki/Profit_\(accounting\) "Profit (accounting)") over a stated period. A profit and loss statement provides information on the operation of the enterprise. These include sales and the various expenses incurred during the stated period.
+3. A [statement of changes in equity](https://en.wikipedia.org/wiki/Statement_of_changes_in_equity "Statement of changes in equity") reports on the changes in [equity](https://en.wikipedia.org/wiki/Equity_\(finance\) "Equity (finance)") of the company over a stated period.
+4. A [cash flow statement](https://en.wikipedia.org/wiki/Cash_flow_statement "Cash flow statement") reports on a company's [cash flow](https://en.wikipedia.org/wiki/Cash_flow "Cash flow") activities, particularly its operating, [investing](https://en.wikipedia.org/wiki/Investing "Investing") and [financing](https://en.wikipedia.org/wiki/Financing "Financing") activities over a stated period.
+
+Notably, a balance sheet represents a snapshot in time, whereas the income statement, the statement of changes in equity, and the cash flow statement each represent activities over an [accounting period](https://en.wikipedia.org/wiki/Accounting_period "Accounting period"). By understanding the key functional statements within the balance sheet, business owners and [financial](https://en.wikipedia.org/wiki/Financial "Financial") professionals can make informed decisions that drive growth and stability.
+
+
+
 ## Valuation Framework
+↗ [Derivative & Analytics](Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Derivative%20&%20Analytics/Derivative%20&%20Analytics.md)
+
+
 ### Fundamental Theorem of Assets Pricing
 
 
@@ -406,4 +424,3 @@ List of investment banks
 Welcome to the Department of Defense Office of Financial Readiness website! Look around, discover helpful tips and check back often for updates! For the best viewing experience, we recommend using the web browsers Chrome or Safari.
 
 [外汇市场 | wikipedia]: https://zh.wikipedia.org/wiki/%E5%A4%96%E6%B1%87%E5%B8%82%E5%9C%BA
-

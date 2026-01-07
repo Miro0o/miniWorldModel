@@ -51,6 +51,28 @@ https://www.shicheng.news/v/962Ej 看到一篇关于入境新加坡的攻略分�
 #### Tax-free
 
 
+## Singapore Politics & Parties
+
+
+
+## Singapore Social Development
+### Singapore Economics
+
+
+### Singapore Cultures
+
+
+### Singapore Science & Technologies
+
+
+
+##  Singapore Society & Demography
+
+
+
+## Singapore Geography & Administration Areas
+
+
 
 ## Ref
 [🎬 一口气了解新加坡经济]: https://youtu.be/JsRLZhL56C4?si=4DhnJNnFDDNFgE7j
