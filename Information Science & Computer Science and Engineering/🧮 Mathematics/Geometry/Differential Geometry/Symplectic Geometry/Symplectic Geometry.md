@@ -1,4 +1,4 @@
-# Euclidean Geometry
+# Symplectic Geometry
 
 [TOC]
 

@@ -38,7 +38,7 @@
 #### Power Set & Cartesian Set
 
 
-### Partition of Set
+### Partition of Set (集合的划分)
 
 
 ### Set Operation

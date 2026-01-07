@@ -697,27 +697,27 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ## 1️⃣ Word's Ancient History
-### The Nile River Delta
-> 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
-
-
-### Mesopotamia
+### Tigris–Euphrates River System & Mesopotamia Civilization
 > 🔗 https://en.wikipedia.org/wiki/Mesopotamia
 
 
-### Indus Valley
+### The Nile River Delta & Egypt Civilization
+> 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
+
+
+### The Yellow River and The Changjiang (Yangtze) River & Chinese Civilization
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+
+
+### Indus Valley and Ganges Basins & Indian Civilization
 > 🔗 https://en.wikipedia.org/wiki/History_of_India
 > ↗ [Indian History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
 
 
-###  The Yellow River and The Changjiang (Yangtze) River
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+### Aegean Sea and Crete Island & Minoan Civilization
 
 
-### Crete Island & Aegean Sea
-
-
-### Ancient America
+### Ancient America - Caral Civilization
 
 
 ### Ancient Sub-Sahara Africa

@@ -277,7 +277,7 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 
 
 ### 1️⃣1️⃣ (欧氏空间上的连续和极限)
-↗ [Euclidean Geometry](../Geometry/Euclidean%20Geometry/Euclidean%20Geometry.md)
+↗ [Euclidean (Elementary) Geometry](../Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
 
 
 ### ⭐ 1️⃣2️⃣ Multivariable Differential Calculus (多元微分学)

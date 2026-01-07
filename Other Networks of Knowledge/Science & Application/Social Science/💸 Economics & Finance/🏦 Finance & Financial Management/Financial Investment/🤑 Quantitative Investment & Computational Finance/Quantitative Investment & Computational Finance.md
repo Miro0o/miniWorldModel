@@ -9,6 +9,8 @@
 ↗ [Quantitative Finance & Financial Mathematics](../../💸%20Quantitative%20Finance%20&%20Financial%20Mathematics/Quantitative%20Finance%20&%20Financial%20Mathematics.md)
 ↗ [Computational Statistics & Statistical Computing](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Computational%20Statistics%20&%20Statistical%20Computing.md)
 ↗ [Statistical Learning Theory & ML Types](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+↗ [Probabilities & Statistics](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+- ↗ [Stochastic Calculus (随机分析)](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Stochastic%20Calculus%20(随机分析)/Stochastic%20Calculus%20(随机分析).md)
 
 ↗ [Deep Learning (Neural Networks)](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [LLM (Large Language Model)](../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
@@ -32,6 +34,10 @@ https://nof1.ai/
 
 BloombergGPT
 FinBERT
+
+https://guorn.com/
+
+https://www.joinquant.com/
 
 
 
@@ -65,6 +71,17 @@ Computational finance emphasizes practical numerical methods rather than mathema
 
 
 ## Simulation & Backtesting
+### Backtesting Metrics
+#### Sharpe Ratio
+
+
+#### Maximum Drawdown (MDD)
+
+
+#### Win Rate & Profit /Loss Ratio
+
+
+#### Calmar Ratio
 
 
 

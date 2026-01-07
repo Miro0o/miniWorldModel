@@ -236,7 +236,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 ==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
 ##### The First Axiomatic System: Euclidean Geometry (欧氏几何)
 > ↗ [Geometry](Geometry/Geometry.md)
-> ↗ [Euclidean Geometry](Geometry/Euclidean%20Geometry/Euclidean%20Geometry.md)
+> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
 
 > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
 
@@ -365,6 +365,8 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ###### 👉 Number（数量）
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+	- ↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+	- ↗ [Natural Number](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
@@ -377,8 +379,6 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 当数系更进一步发展时，整数被视为[有理数](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%90%86%E6%95%B0 "有理数")的[子集](https://zh.wikipedia.org/wiki/%E5%AD%90%E9%9B%86 "子集")，而有理数则包含于[实数](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%95%B0 "实数")中，连续的量即是以实数来表示的。实数则可以被进一步广义化成[复数](https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "复数 (数学)")。数的进一步广义化可以持续至包含[四元数](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8 "四元数")及[八元数](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%83%E6%95%B8 "八元数")。从自然数亦可以推广到[超限数](https://zh.wikipedia.org/wiki/%E8%B6%85%E9%99%90%E6%95%B8 "超限数")，它形式化了计数至无限的这一概念。另一个研究的领域为大小，这个导致了[基数](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0_\(%E6%95%B0%E5%AD%A6\) "基数 (数学)")和之后对无限的另外一种概念：[阿列夫数](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%97%E5%A4%AB%E6%95%B0 "阿列夫数")，它允许无限集合之间的大小可以做有意义的比较。
 ###### 👉 Structure（结构）
-↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
@@ -386,6 +386,8 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 	- ↗ [Group Theory & Group-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
 	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
 	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+	- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+- ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 - ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
 - ↗ [Graph Basics](Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
@@ -406,13 +408,23 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Measures (Measure Theory)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
 ↗ [Topology](Topology/Topology.md)
 ↗ [Geometry](Geometry/Geometry.md)
+- ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+- ↗ [Elliptic Geometry (Riemannian)](Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20(Riemannian)/Elliptic%20Geometry%20(Riemannian).md)
+- ↗ [Hyperbolic Geometry (Bolyai–Lobachevskian)](Geometry/Non-Euclidean%20Geometry/Hyperbolic%20Geometry%20(Bolyai–Lobachevskian)/Hyperbolic%20Geometry%20(Bolyai–Lobachevskian).md)
+- ↗ [Fractal Geometry](Geometry/Non-Euclidean%20Geometry/Fractal%20Geometry/Fractal%20Geometry.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
 空间的研究源自于[几何](https://zh.wikipedia.org/wiki/%E5%87%A0%E4%BD%95%E5%AD%A6 "几何学")－尤其是[欧几里得几何](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95 "欧几里得几何")。[三角学](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E5%AD%A6 "三角学")则结合了空间及数，且包含有著名的[勾股定理](https://zh.wikipedia.org/wiki/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86 "勾股定理")。现今对空间的研究更推广到了更高维的几何、[非欧几里得几何](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%97%E5%B9%BE%E4%BD%95 "非欧几里得几何")（其在[广义相对论](https://zh.wikipedia.org/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96 "广义相对论")中扮演着核心的角色）及[拓扑学](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E5%AD%A6 "拓扑学")。数和空间在[解析几何](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95 "解析几何")、[微分几何](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95 "微分几何")和[代数几何](https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%87%A0%E4%BD%95 "代数几何")中都有着很重要的角色。在微分几何中有着[纤维丛](https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4%E4%B8%9B "纤维丛")及[流形](https://zh.wikipedia.org/wiki/%E6%B5%81%E5%BD%A2 "流形")上的微积分等概念。在代数几何中有着如[多项式](https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%A0%85%E5%BC%8F "多项式")方程的解集等几何对象的描述，结合了数和空间的概念；亦有着[拓扑群](https://zh.wikipedia.org/wiki/%E6%8B%93%E6%89%91%E7%BE%A4 "拓扑群")的研究，结合了结构与空间。[李群](https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%BE%A4 "李群")被用来研究空间、结构及变化。在其许多分支中，拓扑学可能是二十世纪数学中有着最大进展的领域，并包含有存在已久的[庞加莱猜想](https://zh.wikipedia.org/wiki/%E5%BA%9E%E5%8A%A0%E8%8E%B1%E7%8C%9C%E6%83%B3 "庞加莱猜想")，以及有争议的[四色定理](https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%89%B2%E5%AE%9A%E7%90%86 "四色定理")。庞加莱猜想已在2006年确认由俄罗斯数学家[格里戈里·佩雷尔曼](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E4%BD%A9%E9%9B%B7%E5%B0%94%E6%9B%BC "格里戈里·佩雷尔曼")证明，而四色定理已在1976年由[凯尼斯·阿佩尔](https://zh.wikipedia.org/wiki/%E5%87%B1%E5%B0%BC%E6%96%AF%C2%B7%E9%98%BF%E4%BD%A9%E7%88%BE "凯尼斯·阿佩尔")和[沃夫冈·哈肯](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%A4%AB%E5%86%88%C2%B7%E5%93%88%E8%82%AF "沃夫冈·哈肯")用电脑证明，而从来没有由人力来验证过。
 ###### 👉 Dynamics（变化）
 ↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-↗ [Chaos Theory](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
+- ↗ [Differential Calculus & Derivative of Function](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+- ↗ [Real Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Real%20Analysis/Real%20Analysis.md)
+- ↗ [Complex Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Complex%20Analysis/Complex%20Analysis.md)
+- ↗ [Functional Analysis (泛函分析)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Functional%20Analysis%20(泛函分析)/Functional%20Analysis%20(泛函分析).md)
+- ↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
+↗ [Dynamical Systems Theory](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/Dynamical%20Systems%20Theory.md)
+- ↗ [Chaos Theory](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 

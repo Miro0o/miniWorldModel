@@ -1,4 +1,4 @@
-# Ordinary Differential Equation
+# Ordinary Differential Equation (ODE)
 
 [TOC]
 

@@ -1,4 +1,4 @@
-# Geometry
+# Modern Geometry
 
 [TOC]
 
@@ -6,7 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Topology](../Topology/Topology.md)
+
+
+### Other Resources
 
 
 

@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Elliptic Geometry (Riemannian)](../../../../../../🧮%20Mathematics/Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20(Riemannian)/Elliptic%20Geometry%20(Riemannian).md)
 
 
 

@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Chinese Language Literature (and Philosophy)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Literature/Chinese%20Language%20Literature%20(and%20Philosophy)/Chinese%20Language%20Literature%20(and%20Philosophy).md)
+↗ [Chinese Language & 中文](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+- ↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
 ↗ [中华文明历史概况](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 ↗ [Marxism & Communism](../../Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
@@ -52,7 +54,58 @@ Tree Teachings & Nine Schools of Thought
 
 
 
-## 古典时期（春秋战国）
+## 殷周时期
+↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
+
+
+### 甲骨文
+
+
+### 铭文
+
+
+### 易经 (I Ching)
+https://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93
+https://www.yilusoso.com/yjrm/949/
+
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%98%93%E7%BB%8F
+
+《**易经**》，中国[古典文献](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E5%85%B8%E7%B1%8D "中国古典典籍")之一，是[古代中国](https://zh.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E4%B8%AD%E5%9C%8B "古代中国")[巫师](https://zh.wikipedia.org/wiki/%E5%B7%AB%E5%B8%AB "巫师")用于推演未来吉凶祸福的[卜筮](https://zh.wikipedia.org/wiki/%E5%8D%A0%E5%8D%9C "占卜")书，自[汉代](https://zh.wikipedia.org/wiki/%E6%BC%A2%E4%BB%A3 "汉代")开始尊奉为“[五经](https://zh.wikipedia.org/wiki/%E4%BA%94%E7%B6%93 "五经")”之一；《易经》用一套[符号](https://zh.wikipedia.org/wiki/%E7%AC%A6%E8%99%9F "符号")[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%B5%B1 "形式系统")描述事物的变化，表现了中国古典文化的[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6 "哲学")和宇宙观。它的中心思想，是用[阴阳](https://zh.wikipedia.org/wiki/%E9%99%B0%E9%99%BD "阴阳")符号构成的[卦象](https://zh.wikipedia.org/wiki/%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6 "六十四卦")代表世间万物的运行状态。卜筮者向[神明](https://zh.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E "神明")问事，求得卦象，借此预测事情（例如：战争、政事、农收等等）的成败吉凶。作为卜筮之书，《易经》的影响并不限于[占卜](https://zh.wikipedia.org/wiki/%E5%8D%A0%E5%8D%9C "占卜")和[术数](https://zh.wikipedia.org/wiki/%E8%A1%93%E6%95%B8 "术数")，大凡古代中国的[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%B8 "哲学")、[宗教](https://zh.wikipedia.org/wiki/%E5%AE%97%E6%95%99 "宗教")、[政治](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB "政治")、[经济](https://zh.wikipedia.org/wiki/%E7%B6%93%E6%BF%9F "经济")、[医学](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%86%AB "中医")、[天文](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%96%87 "天文")、[算术](https://zh.wikipedia.org/wiki/%E7%AE%97%E8%A1%93 "算术")、[文学](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%B8 "文学")、[音乐](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E9%9F%B3%E6%A8%82 "中国音乐")、[艺术](https://zh.wikipedia.org/wiki/%E8%97%9D%E8%A1%93 "艺术")、[军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B "军事")和[武术](https://zh.wikipedia.org/wiki/%E6%AD%A6%E8%A1%93 "武术")等各方面，皆可见到[阴阳](https://zh.wikipedia.org/wiki/%E9%98%B4%E9%98%B3 "阴阳")变化的思想寓于其中。自从十七世纪开始，《易经》经由[天主教](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%9C%83 "天主教会")[耶稣会](https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A9%8C%E6%9C%83 "耶稣会")的[传教士](https://zh.wikipedia.org/wiki/%E5%82%B3%E6%95%99%E5%A3%AB "传教士")引介至欧美国家。
+
+《易》据说有三种：《[连山](https://zh.wikipedia.org/wiki/%E9%80%A3%E5%B1%B1_\(%E7%AD%AE%E6%B3%95\) "连山 (筮法)")》、《[归藏](https://zh.wikipedia.org/wiki/%E5%BD%92%E8%97%8F "归藏")》和《周易》，合称[三易](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%93 "三易")。 《连山》和《归藏》已经失传，《周易》是唯一有传至后世的文献。相传《周易》是依循[周文王](https://zh.wikipedia.org/wiki/%E5%91%A8%E6%96%87%E7%8E%8B "周文王")主编《易》的著述而来，成书大约在[西周](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%91%A8 "西周")时期。 1993年湖北江陵荆州镇（现荆州市郢城镇）出土的王家台易类秦简与[马国翰](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%9C%8B%E7%BF%B0 "马国翰")的《归藏》辑本相符，有学者推定为《归藏》古文再现。也有人怀疑《归藏》、《连山》从未存在过，出土的是古易书《易繇阴阳卦》。
+
+三易唯《周易》传世，因此《易经》通常就是指《周易》。 《易传》则是早期[儒家](https://zh.wikipedia.org/wiki/%E5%84%92%E5%AE%B6 "儒家")学者对《周易》“卦、爻辞”所作出的系统性解释，展现了[先秦](https://zh.wikipedia.org/wiki/%E5%85%88%E7%A7%A6 "先秦")儒家把《周易》当作[君子](https://zh.wikipedia.org/wiki/%E5%90%9B%E5%AD%90 "君子")道德修养指引的解释方式，共有十篇，通称“十翼”。后人对《易经》及《易传》作注解的版本众多，最具代表性的是[王弼](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BC_\(%E4%B8%89%E5%9C%8B\) "王弼 (三国)")、[韩康伯](https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BA%B7%E4%BC%AF "韩康伯")的《周易注》以及[朱熹](https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9 "朱熹")的《周易本义》。[李鼎祚](https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%BC%8E%E7%A5%9A "李鼎祚")的《周易集解》则收有汉、唐间诸家易注。
+#### 易学的流传与学派
+![](../../../../Assets/Pics/Pasted%20image%2020260107181805.png)
+
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%98%93%E7%BB%8F#%E6%B5%81%E5%82%B3%E8%88%87%E5%AD%B8%E6%B4%BE
+
+相传[秦始皇](https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%A7%8B%E7%9A%87 "秦始皇")[焚书坑儒](https://zh.wikipedia.org/wiki/%E7%84%9A%E6%9B%B8%E5%9D%91%E5%84%92 "焚书坑儒")之时，[李斯](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%AF "李斯")将《周易》列入医术占卜之书而得以幸免。之后各个朝代都有人研究《周易》，包括[汉代](https://zh.wikipedia.org/wiki/%E6%BC%A2%E4%BB%A3 "汉代")的[京房](https://zh.wikipedia.org/wiki/%E4%BA%AC%E6%88%BF "京房")、[郑玄](https://zh.wikipedia.org/wiki/%E9%84%AD%E7%8E%84 "郑玄")，[魏晋](https://zh.wikipedia.org/wiki/%E9%AD%8F%E6%99%8B "魏晋")时代的[王弼](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BC "王弼")，[唐代](https://zh.wikipedia.org/wiki/%E5%94%90%E4%BB%A3 "唐代")的[陆德明](https://zh.wikipedia.org/wiki/%E9%99%B8%E5%BE%B7%E6%98%8E "陆德明")、[李鼎祚](https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%BC%8E%E7%A5%9A "李鼎祚")、[孔颖达](https://zh.wikipedia.org/wiki/%E5%AD%94%E7%A9%8E%E9%81%94 "孔颖达")，[宋代](https://zh.wikipedia.org/wiki/%E5%AE%8B%E4%BB%A3 "宋代")的[邵雍](https://zh.wikipedia.org/wiki/%E9%82%B5%E9%9B%8D "邵雍")、[程颐](https://zh.wikipedia.org/wiki/%E7%A8%8B%E9%A0%A4 "程颐")、[朱熹](https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9 "朱熹")等等。
+
+宋代兴起了易图的研究，像广为人知的[河图、洛书](https://zh.wikipedia.org/wiki/%E6%B2%B3%E5%9C%96%E6%B4%9B%E6%9B%B8 "河图洛书")、先天[八卦](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%8D%A6 "八卦")图、后天[八卦](https://zh.wikipedia.org/wiki/%E5%85%AB%E5%8D%A6 "八卦")图、[太极图](https://zh.wikipedia.org/wiki/%E5%A4%AA%E6%A5%B5%E5%9C%96 "太极图")（含[阴阳鱼](https://zh.wikipedia.org/wiki/%E5%A4%AA%E6%A5%B5 "太极")的圆形图案）等，都是《易经》原著中所无、后人根据对《易经》的理解添加进去的。
+
+历代研究周易的大致可分为两个学派：义理派和象数派。义理派强调从八卦和六十四卦的卦名的涵义来解释卦爻象和卦辞、爻辞。象数派注重从八卦所象征的物象来解释卦爻象和卦辞、爻辞。亦有人认为义理派发掘周易的哲学价值，象数派则着重将周易用于占卜。前者如[王弼](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BC "王弼")、[程颐](https://zh.wikipedia.org/wiki/%E7%A8%8B%E9%A2%90 "程颐")，后者如[京房](https://zh.wikipedia.org/wiki/%E4%BA%AC%E6%88%BF_\(%E9%AD%8F%E9%83%A1%E5%A4%AA%E5%AE%88\) "京房 (魏郡太守)")、[邵雍](https://zh.wikipedia.org/wiki/%E9%82%B5%E9%9B%8D "邵雍")。
+
+[明朝](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D "明朝")末年，《易经》被[传教士](https://zh.wikipedia.org/wiki/%E5%82%B3%E6%95%99%E5%A3%AB "传教士")翻译并传播到西方。17世纪末，德国哲学家及数学家[莱布尼茨](https://zh.wikipedia.org/wiki/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8 "莱布尼茨")因[汉学](https://zh.wikipedia.org/wiki/%E6%BC%A2%E5%AD%B8 "汉学")大师[布维](https://zh.wikipedia.org/wiki/%E5%B8%83%E7%B6%AD "布维")（Joachim Bouvet，汉名[白晋](https://zh.wikipedia.org/wiki/%E7%99%BD%E6%99%89 "白晋")，1662年－1732年）的介绍、更将《易经》以[二进制](https://zh.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E5%88%B6 "二进制")解释。现在无论[中国大陆](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8 "中国大陆")、[台湾](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3 "台湾")和西方各国都有不少人研究《易经》。
+
+根据江弘远《京房易学流变考》一书，自从《京氏易传》出现后，受朱熹、[惠栋](https://zh.wikipedia.org/wiki/%E6%83%A0%E6%A3%9F "惠栋")，以及《[四库总目提要](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%BA%AB%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81 "四库总目提要")》的推波助澜，均认为此书及其条例是出自[京房](https://zh.wikipedia.org/wiki/%E4%BA%AC%E6%88%BF_\(%E9%AD%8F%E9%83%A1%E5%A4%AA%E5%AE%88\) "京房 (魏郡太守)")本人之手。本书以沈延国论点加以延伸，确定京房是以[十二辟卦](https://zh.wikipedia.org/w/index.php?title=%E5%8D%81%E4%BA%8C%E8%BE%9F%E5%8D%A6&action=edit&redlink=1 "十二辟卦（页面不存在）")所统领的六十卦反复配六十钟律，[八宫卦](https://zh.wikipedia.org/wiki/%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6#%E5%85%AB%E5%AE%AE%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6 "六十四卦")、纳甲、纳音则是由[荀爽](https://zh.wikipedia.org/wiki/%E8%8D%80%E7%88%BD "荀爽")、[虞翻](https://zh.wikipedia.org/wiki/%E8%99%9E%E7%BF%BB "虞翻")、[干宝](https://zh.wikipedia.org/wiki/%E5%B9%B2%E5%AF%B6 "干宝")等另一非京氏易学流派演变而来，从《京氏易传》出现后，遂取代京房原有的模式。
+
+在现代，西方越来越多科学与宗教人士研究易经，称之为变的科学。著名心理学家[卡尔·荣格](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%8D%A3%E6%A0%BC "卡尔·荣格")和一些现代大数据科学家认为，易经作为 “预测未来和解析过去” 的方法，是极其有效的，但不同于西方的理性及因果分析传统，是另一种科学。
+
+[牟宗三](https://zh.wikipedia.org/wiki/%E7%89%9F%E5%AE%97%E4%B8%89 "牟宗三")认为《周易》一书主要有三方面的意义：[物理](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86 "物理")的、[数理](https://zh.wikipedia.org/wiki/%E6%95%B8%E7%90%86 "数理")的、[伦理](https://zh.wikipedia.org/wiki/%E5%80%AB%E7%90%86 "伦理")的。[物理](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86 "物理")方面则为“阴阳”、“变易”、“生成”所以“易”则有这个意义。而[数理](https://zh.wikipedia.org/wiki/%E6%95%B8%E7%90%86 "数理")则为“序理”、“系统”、“关系”，这方面可用“序”作代表。而[伦理](https://zh.wikipedia.org/wiki/%E5%80%AB%E7%90%86 "伦理")则为“意谓”和“价值”，这方面可用“吉凶悔吝”作代表。
+
+
+### 诗经 (Classic of Poetry)
+> 🔗 https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93
+
+《**詩經**》是中國最早的詩歌總集。《詩經》原本叫《**詩**》，共有詩歌305首（另外還有6篇有題目無內容，即有目無辭，稱為笙詩），因此又稱「**詩三百**」。從漢朝起儒家將其奉為經典，因此稱為《詩經》。西漢時，有魯詩、齊詩、韓詩三家，置博士，為官學。後毛亨、毛萇曾注釋《詩經》，因此又稱《毛詩》，逐漸成為顯學。後三家詩多湮沒無聞，獨毛詩完存。《詩經》中的詩的作者絕大部分已經無法考證。
+
+
+### 尚书
+
+
+
+## 古典时期（春秋战国 - 诸子百家）
 ### Confucianism（儒家思想）
 ↗ [Confucianism（儒家思想）](Confucianism（儒家思想）.md)
 
@@ -113,3 +166,5 @@ Tree Teachings & Nine Schools of Thought
 ## Ref
 [中国哲学 | wikipedia]: https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6#
 [中国哲学简史 | wikipedia]: https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%E7%AE%80%E5%8F%B2
+
+[21张图搞清楚真正标准完整的先天八卦太极图，含太极图画法 - loridic聊学习力的文章 - 知乎]: https://zhuanlan.zhihu.com/p/498485661

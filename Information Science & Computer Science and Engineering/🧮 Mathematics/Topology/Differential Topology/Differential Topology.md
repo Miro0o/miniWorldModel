@@ -1,4 +1,4 @@
-# Difference Equation
+# Differential Topology
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 
