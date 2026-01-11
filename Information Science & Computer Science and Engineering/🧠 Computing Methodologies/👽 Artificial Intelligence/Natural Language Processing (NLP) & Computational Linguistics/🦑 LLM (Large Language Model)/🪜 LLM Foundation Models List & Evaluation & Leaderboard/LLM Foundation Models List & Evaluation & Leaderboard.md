@@ -11,6 +11,8 @@
 ↗ [Pre-trained NN Weights & NN Models](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Pre-trained%20NN%20Weights%20&%20NN%20Models/Pre-trained%20NN%20Weights%20&%20NN%20Models.md)
 ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
+↗ [Artificial Intelligence Industry and Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
+
 
 ### Other Resources
 https://deepeval.com/

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
-↗ [AI Powered Dev Tools & Platform](../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20Dev%20Tools%20&%20Platform.md)
+↗ [AI Powered Dev & Vibe Coding](../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
 
 
 ### Other Resources

@@ -23,12 +23,14 @@ LLM & Academics 🧑‍🎓
 ↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
+- ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
 ↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
 ↗ [XAI (AI Explainable & Interpretable)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/🌁%20XAI%20(AI%20Explainable%20&%20Interpretable)/XAI%20(AI%20Explainable%20&%20Interpretable).md)
+
+↗ [Artificial Intelligence Industry and Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 
 
 ### Learning Resource
@@ -299,7 +301,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Training, Utilization, and Evaluation
 ↗ [LLM Training, Utilization, and Evaluation](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 - ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/Pre-Training/Pre-Training.md) (In-Weight Learning)
-- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 - ↗ [LLM Utilization & Prompt Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md) (In-Context Learning)
 	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/CoT%20(Chain-of-Thought).md)
 	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
@@ -307,7 +309,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 - ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
-↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
+↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model
 

@@ -9,13 +9,21 @@
 ↗ [AIGC WorkFlow & Agents](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 ↗ [LLM Utilization & Prompt Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
 ↗ [AI Embodiment & World Model](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
-↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-- LLM App Dev Framework
-	- ↗ [LangChain & LangGraph](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
-	- ↗ [Google ADK (Agent Development Kits)](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/Google%20ADK%20(Agent%20Development%20Kits).md)
-- LLM App Dev Platform & AI Workflow
-	- ↗ [Dify.AI](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Platforms/Dify.AI.md)
-	- ↗ [Coze](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Platforms/Coze.md)
+
+↗ [AI(LLM) x SE](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
+↗ [AI Powered Dev & Vibe Coding](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
+- ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+	- LLM App Dev Framework
+		- ↗ [LangChain & LangGraph](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
+		- ↗ [Google ADK (Agent Development Kits)](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/Google%20ADK%20(Agent%20Development%20Kits).md)
+	- LLM App Dev Platform & AI Workflow
+		- ↗ [Dify.AI](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Platforms/Dify.AI.md)
+		- ↗ [Coze](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Platforms/Coze.md)
+- AI Powered IDE & Vibe Coding
+	- ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Claude%20Code.md)
+	- ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/OpenCode.md)
+	- ↗ [Google Antigravity](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Google%20Antigravity.md)
+	- ↗ [Github Copilot](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Github%20Copilot.md)
 ↗ [Multimodal AI & MLLM](../../../🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 
 ↗ [Web Automation, Testing, and WebDriver](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)

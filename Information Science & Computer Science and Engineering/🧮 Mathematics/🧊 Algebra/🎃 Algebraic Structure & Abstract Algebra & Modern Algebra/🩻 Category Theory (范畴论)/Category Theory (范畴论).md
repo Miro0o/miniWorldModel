@@ -9,6 +9,10 @@
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Algebraic Topology](../../../Topology/Algebraic%20Topology/Algebraic%20Topology.md)
 
+↗ [Type Theory (类型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+↗ [Curry–Howard(–Lambek) Correspondence](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+
 ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 ↗ [Algebraic Graph Theory](../../../Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 
@@ -18,7 +22,17 @@
 
 
 ### Other Resources
-
+👍 https://thzt.github.io/categories/Math/
+- [语言背后的代数学（一）：语义解释](https://thzt.github.io/2018/01/14/semantics-1/)
+- [语言背后的代数学（二）：初等代数](https://thzt.github.io/2018/01/20/semantics-2/)
+- [语言背后的代数学（三）：语义模型](https://thzt.github.io/2018/01/27/semantics-3/)
+- [语言背后的代数学（四）：哥德尔定理](https://thzt.github.io/2018/01/30/semantics-4/)
+- [语言背后的代数学（五）：Σ代数](https://thzt.github.io/2018/02/03/semantics-5/)
+- [语言背后的代数学（六）：Henkin模型](https://thzt.github.io/2018/02/04/semantics-6/)
+- [语言背后的代数学（七）：数学结构](https://thzt.github.io/2018/02/09/semantics-7/)
+- [语言背后的代数学（八）：范畴](https://thzt.github.io/2018/02/11/semantics-8/)
+- [语言背后的代数学（九）：笛卡尔闭范畴](https://thzt.github.io/2018/02/19/semantics-9/)
+- [语言背后的代数学（十）：Curry-Howard-Lambek correspondance](https://thzt.github.io/2018/02/23/semantics-10/)
 
 
 

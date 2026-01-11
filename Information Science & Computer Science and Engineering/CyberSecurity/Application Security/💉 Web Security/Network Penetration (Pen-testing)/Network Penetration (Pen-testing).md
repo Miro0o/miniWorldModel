@@ -18,6 +18,7 @@
 ↗ [Web Security](../Web%20Security.md)
 
 ↗ [AI x Security](../../../🤖%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [Attack Simulation - Red, Blue, Purple, White](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 
 ### Learning Resource

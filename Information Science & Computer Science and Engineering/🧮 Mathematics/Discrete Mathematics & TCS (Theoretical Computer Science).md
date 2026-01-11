@@ -24,7 +24,7 @@
 
 ↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 - ↗ [Combinatorics (Combinatorial Mathematics)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
-- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
 - etc.
 
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)

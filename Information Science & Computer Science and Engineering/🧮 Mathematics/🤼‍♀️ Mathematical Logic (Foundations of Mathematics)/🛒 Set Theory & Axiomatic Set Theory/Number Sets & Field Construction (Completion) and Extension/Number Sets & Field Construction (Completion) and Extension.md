@@ -19,9 +19,9 @@
 
 
 ## Natural Number Set & Peano Axioms
-> ↗ [Mathematical Logic Basics (Formal Logic)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md) Gödel's Incompleteness Theorems
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md) Gödel's Incompleteness Theorems
 
-↗ [Natural Number](Natural%20Number.md)
+↗ [Natural Number & Peano Axioms](Natural%20Number%20&%20Peano%20Axioms.md)
 
 
 ### Cardinal Number & Cardinality
@@ -29,7 +29,7 @@
 
 
 ## Field Extension From Natural Number
-> ↗ [Mathematical Logic Basics (Formal Logic)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 ![Screenshot 2025-10-07 at 18.56.35](../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2018.56.35.png)

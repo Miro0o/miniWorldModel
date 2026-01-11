@@ -22,7 +22,7 @@ E.g. word2vec, BERT
 #### 1️⃣ Classification (Discrete)
 Classification is a subcategory of supervised learning where the goal is to predict the categorical class labels of new instances, based on past observations. Those class labels are **discrete**, unordered values that can be understood as the group memberships of the instances. 
 
-↗ [Classification Algorithms](ML%20Classification%20Algorithms/Classification%20Algorithms.md)
+↗ [ML Classification Algorithms](ML%20Classification%20Algorithms/ML%20Classification%20Algorithms.md)
 #### 2️⃣ Regression (Continuous)
 A second type of supervised learning is the prediction of **continuous outcomes**, which is also called **regression analysis**. In regression analysis, we are given a number of predictor (**explanatory**) variables and a continuous response variable (**outcome**), and we try to find a relationship between those variables that allows us to predict an outcome.
 

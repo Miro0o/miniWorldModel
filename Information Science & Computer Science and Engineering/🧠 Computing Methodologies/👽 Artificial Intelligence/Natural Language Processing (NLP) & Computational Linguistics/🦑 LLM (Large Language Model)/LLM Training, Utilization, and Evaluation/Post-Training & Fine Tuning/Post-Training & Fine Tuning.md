@@ -33,6 +33,101 @@ CS324 - Large Language Model | Stanford
 
 
 ## Intro
+> 🔗 Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (No. arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
+
+After pre-training, LLMs can acquire the general abilities for solving various tasks. However, an increasing number of studies have shown that **LLM’s abilities can be further adapted according to specific goals.** In this section, we introduce two major approaches to adapting pre-trained LLMs, namely instruction tuning and alignment tuning. The former approach mainly aims to enhance (or unlock) the abilities of LLMs, while the latter approach aims to align the behaviors of LLMs with human values or preferences. Further, we will also discuss efficient tuning and quantization for model adaptation in resource-limited settings. In what follows, we will introduce the four parts in detail.
+
+> 🤖 GPT-5
+> Difference between instruction tuning and alignment tuning
+
+**instruction tuning teaches the model _what to do_**, while **alignment tuning teaches it _how it should behave_**. They overlap in practice, but they target different problems.
+
+Think of an LLM as:
+- **Pretraining** → learns language  
+- **Instruction tuning** → learns _obedience_  
+- **Alignment tuning** → learns _judgment_
+
+| Dimension              | Instruction Tuning         | Alignment Tuning                      |
+| ---------------------- | -------------------------- | ------------------------------------- |
+| Main question          | “What should I do?”        | “What should I _not_ do or _prefer_?” |
+| Training signal        | Correct responses          | Preference comparisons / rewards      |
+| Focus                  | Capability & usability     | Behavior & values                     |
+| Output space           | Task-correct answers       | Acceptable / preferred answers        |
+| Failure mode addressed | Not following instructions | Being harmful, rude, or misleading    |
+
+In real pipelines:
+- Instruction datasets already contain implicit alignment (polite tone, refusals)
+- Alignment tuning often improves instruction following (via preference learning)
+- RLHF models usually start from instruction-tuned checkpoints
+So the distinction is **conceptual**, not strictly procedural.
+
+
+### Instruction Tuning
+↗ [Instruction Tuning](Fine%20Tuning%20Directions/Instruction%20Tuning.md)
+
+> 🤖 GPT-5
+
+What it is
+Instruction tuning trains the model on **(instruction → response)** pairs so it learns to _follow user commands_.
+
+Example data:
+```
+Instruction: Summarize the following text in one paragraph. 
+Response: ...
+```
+
+Goal
+Make the model:
+- Understand what the user wants
+- Produce task-appropriate outputs
+- Generalize to _unseen instructions_
+
+What it improves
+- Task following
+- Zero-shot / few-shot performance
+- Helpfulness and usability
+
+Typical datasets
+- Human-written instructions (e.g. early InstructGPT)
+- Synthetic instruction data (self-instruct, Alpaca-style)
+- Task mixtures (QA, summarization, reasoning, coding)
+
+Key property
+After instruction tuning: The model **responds to prompts as commands, not just text continuation**
+
+
+### Alignment Tuning
+↗ [LLM Adaptation & Alignment Tuning](Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+
+> 🤖 GPT-5
+
+What it is
+Alignment tuning trains the model to:
+- Follow **human preferences**
+- Respect **safety norms**
+- Avoid **harmful, misleading, or unwanted behavior**
+This is less about _task execution_ and more about _behavioral constraints_.
+
+Goal
+Make the model:
+- Helpful _and_ safe
+- Honest about uncertainty
+- Polite, non-toxic, non-manipulative
+- Resistant to misuse
+
+What it improves
+- Safety (refusals, moderation)
+- Tone and social behavior
+- Preference alignment (“this answer is better than that one”)
+
+Typical methods
+- **RLHF** (Reinforcement Learning from Human Feedback)
+- **RLAIF** (AI feedback instead of humans)
+- **Preference optimization** (DPO, IPO, KTO, etc.)
+- Constitutional AI
+
+Key property
+After alignment tuning: The model chooses **acceptable answers among many valid ones**
 
 
 

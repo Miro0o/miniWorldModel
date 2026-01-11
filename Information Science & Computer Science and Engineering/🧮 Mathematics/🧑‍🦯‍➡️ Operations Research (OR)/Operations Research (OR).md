@@ -7,8 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Decision Theory & Decision Analysis](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Decision%20Theory%20&%20Decision%20Analysis.md)
-↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Management%20Science/Management%20Science.md)
+↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Models of Computation & UTM (universal Turing Machine)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine).md)
 
+↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Management%20Science/Management%20Science.md)
 ↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 
 

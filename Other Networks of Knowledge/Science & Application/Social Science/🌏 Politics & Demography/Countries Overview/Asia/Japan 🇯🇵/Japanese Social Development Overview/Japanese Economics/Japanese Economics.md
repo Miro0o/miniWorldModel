@@ -6,6 +6,11 @@
 
 ## Res
 ### Related Topics
+↗ [Micro Economics](../../../../../../💸%20Economics%20&%20Finance/Micro%20Economics/Micro%20Economics.md)
+
+↗ [U.S. Economics](../../../../America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+↗ [中国经济发展](../../../China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [South Korean Economics](../../../Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/South%20Korean%20Economics.md)
 
 
 
@@ -32,3 +37,6 @@ The members' companies own small portions of the shares in each other's companie
 
 
 ## Ref
+[🎬 20分钟详解日本经济泡沫]: https://youtu.be/G67sCJKNjy8?si=XuQTplIAjLsBhka6
+[🎬 日本经济失落的三十年]: https://youtu.be/Ls9Qlhsu9AA?si=gFIyvKYOMY0zJ5x8
+[🎬 日元崩盘，日本国债闪崩的背后...]: https://youtu.be/cuUo2lO7ZEk?si=-dUwD0Xt-3fA3kcb

@@ -82,8 +82,6 @@ Investors generally expect higher returns from riskier investments. When a low-r
 🔗 https://en.wikipedia.org/wiki/List_of_investment_banks
 List of investment Banks /Security Firms
 ##### Investment Funds
-> ↗ [Sovereign Wealth Fund (SWF)](../📢%20Public%20Finance/Sovereign%20Wealth%20Fund%20(SWF).md)
-
 > 🔗 https://en.wikipedia.org/wiki/Investment_fund
 
 An investment fund is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group such as reducing the risks of the investment by a significant percentage. These advantages include an ability to:
@@ -96,24 +94,21 @@ It remains unclear whether professional active investment managers can reliably 
 Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions (e.g., emerging markets or Europe) or specified industry sectors (e.g., technology). Depending on the country there is normally a bias towards the domestic market due to familiarity, and the lack of currency risk. Funds are often selected on the basis of these specified investment aims, their past investment performance, and other factors such as fees.
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-05-03%20at%2011.34.17.png)
-
+###### Collective Investments
 > 🔗 https://en.wikipedia.org/wiki/Investment_fund#Internationally_recognised_collective_investments
 
 Internationally recognized collective investments
 - [Exchange-traded funds](https://en.wikipedia.org/wiki/Exchange-traded_fund "Exchange-traded fund") (ETFs)—an open-end fund traded by listed shares on major stock exchanges.
 - [Real Estate Investment Trusts](https://en.wikipedia.org/wiki/Real_estate_investment_trust "Real estate investment trust") (REITs)—a close-ended fund that invests in real estate.
-- [Sovereign investment funds](https://en.wikipedia.org/wiki/Sovereign_investment_fund "Sovereign investment fund")
+- ↗ [Sovereign Wealth Fund (SWF)](../📢%20Public%20Finance/Sovereign%20Wealth%20Fund%20(SWF).md)
 
 Country-specific investment funds & collective investments
 - US
 - UK
 - Canadian
 - Ireland
+###### Private Equity (PE) & Venture Capitalism (VC)
 
-> 🎬 https://youtu.be/31FpW6CMmYE?si=ARdxcVTagmCe96RE
-> 一口气了解全球十大主权基金
-> 🎬 https://youtu.be/kIo2BAubO6k?si=caPHuTPZuWtisesv
-> 一口气了解全球三大主权基金
 ##### Retail/Small Investors (Leeks)
 
 

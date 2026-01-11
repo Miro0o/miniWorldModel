@@ -77,9 +77,10 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 ## 2️⃣ Post-Training & Fine Tuning
 > ↗ [Post-Training & Fine Tuning](Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
-> ↗ [LLM Adaptation & Alignment Tuning](Post-Training%20&%20Fine%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+> ↗ [LLM Adaptation & Alignment Tuning](Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 
 > 🔗 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
+> (P.S. this article is not very accurate in the generality of the process of training. It just gives a concrete approach (while in fact there are other approaches). However, it is still good for an appetizer of this process.)
 
 **Training LLMs.** The training process for language models typically proceeds in three phases; see below. First, we pretrain the language model, which is (by far) the most computationally-expensive step of training. From here, we perform alignment, typically via the [three-step framework](https://cameronrwolfe.substack.com/i/93578656/refining-llm-behavior) (see below) with supervised fine-tuning (SFT) and reinforcement learning from human feedback (RLHF)[1](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised#footnote-1-136815345).
 

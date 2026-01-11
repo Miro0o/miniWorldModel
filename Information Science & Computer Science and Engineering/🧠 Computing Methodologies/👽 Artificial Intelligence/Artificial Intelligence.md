@@ -22,6 +22,8 @@
 
 ↗ [HuggingFace 🤗](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20(Version%20Control%20Management)/Git/👩🏼‍🍳%20Git%20Services%20Providers/HuggingFace%20🤗.md)
 
+↗ [Artificial Intelligence Industry and Companies](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
+
 
 ### Websites & Communities
 https://www.jiqizhixin.com

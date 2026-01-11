@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-↗ [Normalization](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 - ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
@@ -37,8 +37,17 @@ Converting a DFA to a Minimal State DFA
 ## Intro
 ![Automata_Formal_Lan.excalidraw | 900](../../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
 
+![Language_and_Programming_Language_Processing | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 
-### Formal Definition: Strings & Langauges
+↗ [Language & Literature](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+↗ [Linguistics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
+
+↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
+↗ [Models of Computation & UTM (universal Turing Machine)](../Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine).md)
+
+
+### Formal Definition of Strings & Languages
 > 📖  Introduction to the Theory of Computation | Sipser
 
 Strings of characters are fundamental building blocks in computer science. The alphabet over which the strings are defined may vary with the application. For our purposes, we define an **alphabet** to be any nonempty finite set. The members of the alphabet are the **symbols** of the alphabet. We generally use capital Greek letters $\Sigma$ and $\Gamma$ to designate alphabets and a typewriter font for symbols from an alphabet. The following are a few examples of alphabets.
@@ -73,11 +82,21 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 - The alphabet of a formal language consists of symbols, letters, or [tokens](https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction "Type–token distinction") that concatenate into [strings](https://en.wikipedia.org/wiki/String_(computer_science) "String (computer science)") of the language. 
 	- Each string concatenated from symbols of this alphabet is called a word, and the words that belong to a particular formal language are sometimes called _well-formed words_ or _[well-formed formulas](https://en.wikipedia.org/wiki/Well-formed_formula "Well-formed formula")_. 
 - A formal language is often defined by means of a [formal grammar](https://en.wikipedia.org/wiki/Formal_grammar "Formal grammar") such as a [regular grammar](https://en.wikipedia.org/wiki/Regular_grammar "Regular grammar") or [context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar "Context-free grammar"), which consists of its [formation rules](https://en.wikipedia.org/wiki/Formation_rule "Formation rule").
-#### Formal Language & Other Subjects
 - In computer science, formal languages are used among others as the basis for defining the grammar of [programming languages](https://en.wikipedia.org/wiki/Programming_language "Programming language") and formalized versions of subsets of natural languages in which the words of the language represent concepts that are associated with meanings or [semantics](https://en.wikipedia.org/wiki/Semantics "Semantics"). 
 - In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), [decision problems](https://en.wikipedia.org/wiki/Decision_problem "Decision problem") are typically defined as formal languages, and [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Complexity class") are defined as the sets of the formal languages that can be [parsed by machines](https://en.wikipedia.org/wiki/Parsing "Parsing") with limited computational power. 
 - In [logic](https://en.wikipedia.org/wiki/Logic "Logic") and the [foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics "Foundations of mathematics"), formal languages are used to represent the syntax of [axiomatic systems](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), and [mathematical formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics) "Formalism (philosophy of mathematics)") is the philosophy that all of mathematics can be reduced to the syntactic manipulation of formal languages in this way.
 - Formal language theory sprang out of linguistics, as a way of understanding the syntactic regularities of [natural languages](https://en.wikipedia.org/wiki/Natural_language "Natural language"). The field of formal language theory studies primarily the purely [syntactical](https://en.wikipedia.org/wiki/Syntax "Syntax") aspects of such languages — that is, their internal structural patterns. 
+#### Formal Language, Formal System, and Axiomatic System
+↗ [Mathematics](../../../Mathematics.md)
+↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+#### Formal Logic & Automated Reasoning
+↗ [Mathematical Logic (Foundations of Mathematics)](../../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+↗ [Logic And Mechanized (Formal) Reasoning](../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
+#### Formal Syntax
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+#### Formal Semantics
+↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 
 ### Automata Theory
@@ -91,6 +110,8 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 
 ### Chomsky Hierarchy
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Chomsky_hierarchy
 
 The Chomsky hierarchy in the fields of [formal language theory](https://en.wikipedia.org/wiki/Formal_language "Formal language"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), is a [containment hierarch](https://en.wikipedia.org/wiki/Hierarchy#Containment_hierarchy), is a containment hierarchy of classes of formal grammars. A formal grammar describes how to form strings from a formal language's alphabet that are valid according to the language's syntax. The linguist Noam Chomsky theorized that four different classes of formal grammars existed that could generate increasingly complex languages. Each class can also completely generate the language of all inferior classes (set inclusive).

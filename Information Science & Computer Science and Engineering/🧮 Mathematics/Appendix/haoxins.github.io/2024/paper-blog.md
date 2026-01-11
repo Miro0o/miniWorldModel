@@ -1,0 +1,1362 @@
+---
+title: 阅读 Paper & Blog
+description: 惊起却回头, 有恨无人省. 拣尽寒枝不肯栖, 寂寞沙洲冷.
+date: 2023-09-07
+---
+
+- [Asynchronous Verifiable Secret Sharing with Elastic Thresholds and Distributed Key Generation](https://eprint.iacr.org/2024/1463)
+  - 这篇 Paper 没看, 也不打算看, 2025 会开始阅读一些经典的密码学论文.
+    把这篇摘录下来, 是因为有配合的源码实现~
+  - [Implementation of the BLS12-381 pairing-friendly elliptic curve group](https://github.com/mikelodder7/bls12_381_plus)
+
+### The Platonic Representation Hypothesis
+
+- [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)
+
+```
+我个人有一个疑问:
+可否把不同的数学分支看作数学的客观逻辑 (本体) 在不同维度的投影?
+```
+
+```
+The Platonic Representation Hypothesis
+
+Neural networks, trained with different objectives on
+different data and modalities, are converging to a
+shared statistical model of reality
+in their representation spaces.
+```
+
+```
+With the continuing trend of models scaling up,
+this suggests model alignment will increase over time -
+we might expect that the next generation of bigger,
+better models will be even more aligned with each other.
+```
+
+```
+we might say: all strong models are alike,
+each weak model is weak in its own way.
+
+Do models trained on different data modalities also converge?
+Several works indicate that the answer is yes.
+
+The converse effect also holds:
+the better a vision models is,
+the more it tends to align with LLMs.
+```
+
+- __The Multitask Scaling Hypothesis__
+
+```
+There are fewer representations that are competent
+for N tasks than there are for M < N tasks.
+As we train more general models that solve more tasks
+at once, we should expect fewer possible solutions.
+```
+
+```
+As more models are trained on internet-scale data,
+the set of solutions that satisfies all
+data constraints must become relatively small.
+```
+
+- __The Capacity Hypothesis__
+
+```
+Bigger models are more likely to converge to
+a shared representation than smaller models.
+```
+
+- __The Simplicity Bias Hypothesis__
+
+```
+Deep networks are biased toward finding simple fits to
+the data, and the bigger the model, the stronger the bias.
+Therefore, as models get bigger, we should expect
+convergence to a smaller solution space.
+```
+
+```
+个人总结:
+不同数据: 文本, 图片 (视频),
+真实世界的 event (with time window),
+具有不同的空间维度.
+但是在同一个子空间的投影, 有着接近的表象.
+不过, 额外的维度数据必然有着更多的信息
+(暂且忽略同一维的的投影数据的相对较小的差异).
+```
+
+```
+数据的多样性会产生更高效的 (更简单的) 表征 (答案).
+即使单纯的语言模型, 引入图片等数据, 也会增加同一子空间的多样性
+(在相同方向的矢量的局部偏移的多样性).
+```
+
+```
+低维的数据模型 (语言模型) 同样可以表征高维数据 (视觉模型).
+所以 LLM 具有一定的 Vision 知识. 可以节约 Vision 模型的训练.
+```
+
+> 总的来说, 本文偏直觉解释~
+
+### Attention Is All You Need
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - Submitted on 12 Jun 2017 (v1),
+    last revised 2 Aug 2023 (v7)
+  - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&t=32s)
+  - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+  - [How might LLMs store facts](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+
+```
+Recurrent models typically factor computation along the
+symbol positions of the input and output sequences.
+This inherently sequential nature precludes
+parallelization within training examples,
+which becomes critical at longer sequence lengths,
+as memory constraints limit batching across examples.
+```
+
+```
+The goal of reducing sequential computation also forms
+the foundation of the Extended Neural GPU, ByteNet,
+and ConvS2S, all of which use convolutional neural
+networks as basic building blocks, computing
+hidden representations in parallel for
+all input and output positions.
+
+In these models, the number of operations required to
+relate signals from two arbitrary input or output
+positions grows in the distance between positions,
+linearly for ConvS2S and logarithmically for ByteNet.
+
+This makes it more difficult to learn dependencies
+between distant positions. In the Transformer this is
+reduced to a constant number of operations,
+albeit at the cost of reduced effective resolution
+due to averaging attention-weighted positions,
+an effect we counteract with Multi-Head Attention.
+```
+
+```
+The decoder is also composed of a stack of N = 6
+identical layers. In addition to the two sub-layers
+in each encoder layer, the decoder inserts a third
+sub-layer, which performs multi-head attention over
+the output of the encoder stack.
+Similar to the encoder, we employ residual connections
+around each of the sub-layers, followed by a layer
+normalization. We also modify the self-attention
+sub-layer in the decoder stack to prevent positions
+from attending to subsequent positions.
+This masking, combined with the fact that the output
+embeddings are offset by one position, ensuring that
+the predictions for position i can depend only on the
+known outputs at positions less than i.
+```
+
+```
+An attention function can be described as mapping a query
+and a set of key-value pairs to an output, where the
+query, keys, values, and output are all vectors.
+The output is computed as a weighted sum of the values, where
+the weight assigned to each value is computed by a
+compatibility function of the query with the corresponding key.
+```
+
+> 能够设计这样一个简单方式 (当然, 或多或少在前人的积累上),
+  然后真的有很棒的效果~ 确实是一个值得铭记的闪光时刻!
+
+- We suspect that for large values of
+  $$ d_k $$,
+  the dot products grow large in magnitude,
+  pushing the softmax function into regions where
+  it has extremely small gradients.
+  - To counteract this effect, we scale the dot products by
+    $$ \frac{1}{\sqrt{d_k}} $$.
+
+```
+Multi-head attention allows the model to jointly attend
+to information from different representation subspaces
+at different positions.
+With a single attention head, averaging inhibits this.
+```
+
+```
+There are many choices of positional encodings,
+learned and fixed.
+
+We also experimented with using learned positional
+embeddings instead, and found that the two versions
+produced nearly identical results.
+
+We chose the sinusoidal version because it may allow
+the model to extrapolate to sequence lengths longer
+than the ones encountered during training.
+```
+
+```
+The shorter these paths between any combination of
+positions in the input and output sequences, the
+easier it is to learn long-range dependencies.
+
+A self-attention layer connects all positions with
+a constant number of sequentially executed operations,
+whereas a recurrent layer requires
+O(n) sequential operations.
+
+The complexity of a separable convolution is equal
+to the combination of a self-attention layer
+and a point-wise feed-forward layer,
+the approach we take in our model.
+```
+
+- [Beam search](https://en.wikipedia.org/wiki/Beam_search)
+
+### Multimodal Foundation Models
+
+- [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/abs/2309.10020)
+
+```
+In a nutshell, all the image-only contrastive learning methods,
+share the same high-level framework, detailed below.
+1. Given one image, two separate data augmentations are applied;
+2. A base encoder is followed by a project head,
+which is trained to maximize agreement using a contrastive loss
+(i.e., they are from the same image or not);
+3. The project head is thrown away for downstream tasks.
+```
+
+```
+For dual encoders such as CLIP, image and text are encoded separately,
+and modality interaction is only handled via a simple dot product of
+image and text feature vectors. This can be very effective for
+zero-shot image classification and image-text retrieval.
+However, due to the lack of deep multimodal fusion,
+CLIP alone performs poorly on the image captioning and
+visual question answering tasks.
+This requires the pre-training of a fusion encoder,
+where additional transformer layers are typically employed to
+model the deep interaction between image and text representations.
+```
+
+```
+Stable Diffusion (SD), and its academic version latent diffusion,
+contains mainly three modules, i.e.,
+an image VAE, a denoising U-Net, and a condition encoder.
+
+The denoising U-Net is the core module for the
+diffusion image generation process. The module is trained to
+predict the noise to subtract in the latent space at
+each denoising timestep, such that it can step-by-step evolve
+the initial random noise into a meaningful image latent.
+The module is trained with the L2 loss between the
+predicted noise and the target noise, which is added to the
+target image latent encoded by the VAE encoder.
+
+At inference, the iteratively denoised latent started
+from the random noise, is sent through the
+VAE decoder for the final generated image.
+
+The denoising U-Net, similar to a classic U-Net,
+consists of a series of spatial downsampling and upsampling
+blocks with skip connections in between.
+In SD's U-Net, each down/upsampling block has a cross-attention
+layer and a 2D convolutional down/upsampling layer.
+Each block takes the visual latent feature, text feature,
+and denoising step as input and
+generates the next visual latent feature.
+The image-text interaction happens in the
+image-text cross-attention layer.
+```
+
+```
+Before 2018, different NLP tasks are addressed with different
+task-specific models, such as translation, semantic parsing,
+summarization, and so on.
+With the emergence of the transformer architecture,
+language models for different NLP tasks are unified with
+a decoder-only architecture, e.g., the GPT models (2020).
+```
+
+```
+A number of works have been proposed to transform different
+computer vision tasks by replacing the label space
+with language space, such as UniCL, GLIP and OpenSeeD.
+```
+
+```
+The reason why a text encoder can help achieve open-set
+recognition is that all textual concepts are embedded in
+the same feature space through large-scale pre-training,
+and the feature distributions are coherent to the semantic
+meanings without the need for a pre-defined vocabulary.
+As such, the aligned visual-semantic space can be easily
+transferred to a wide range of image recognition
+tasks in a zero-shot manner.
+```
+
+```
+Recently, X-Decoder (2023) uses a generalized encoder-decoder
+architecture to unify all these segmentation tasks.
+The referring segmentation task is reformulated as a
+conditioned panoptic segmentation that takes some
+textual phrases as input to the decoder.
+UNINEXT (2023) is another work that attempts to unify all
+instance-level segmentation in images and videos.
+Different from X-Decoder, UNINEXT uses early fusion to
+fuse the various prompts and vision features, which are
+then fed to the transformer encoder-decoder.
+```
+
+```
+I/O Unification.
+
+Following the development of unified LLMs, a number of recent works
+reformulate many vision tasks as a sequence-to-sequence problem.
+They typically use a tokenizer to tokenize the original
+inputs and outputs (I/O) in different modalities used in
+various tasks into a coherent sequence (visual or text)
+tokens and then exploit a unified, sequence-to-sequence model.
+
+Functionality Unification.
+
+In addition to I/O unification, one might build a generic model
+via functionality unification. Extending multi-task learning methods,
+many recently used a coherent encoder-decoder architecture.
+This line of work usually does not need task-specific or
+modality-specific tokenizers but require a sophisticated
+model design to accommodate various tasks.
+```
+
+```
+For I/O unification, the I/O unification module always
+generates a sequence of tokens and exploits a separate
+decoder to decode the final outputs for different tasks.
+
+For functionality unification, the functional unification
+module generates heterogeneous outputs for different tasks,
+e.g., semantic outputs and spatial outputs.
+Then, these different types of outputs are combined to
+produce the final task-specific outputs.
+
+Both unification methods strive to make use of synergy
+across tasks with different levels of granularity.
+For example, coarse-grained data is expected to contribute to
+the rich semantic understanding required by fine-grained tasks,
+while fine-trained data enhances the grounding ability
+for coarse-grained tasks.
+```
+
+```
+Unlike I/O unification, functionality unification attempts to unify
+different tasks based on the task characteristics, with the awareness
+that they are neither fully isolated nor fully aligned.
+At a high level, vision tasks produce three types of outputs:
+(i) location outputs,
+(ii) semantic outputs, and
+(iii) pixel-level outputs.
+For example, both object detection and phrase grounding need to
+localize objects in the image, while both generic segmentation
+and referring segmentation produce masks.
+On the other hand, many tasks require semantic (or text) outputs to
+represent either concept names or textual descriptions.
+```
+
+```
+(i) GPT-2 (2019) is the auto-regressive counterpart in the
+BERT era (2019) for the pre-train-then-finetune paradigm.
+Compared with GPT-2, GPT-3 (2020) is a 175B model trained on
+web-scale text corpus, which exhibits two emerging properties
+with a frozen model: in-context-learning (2020) and
+chain-of-thoughts (CoT) reasoning (2022).
+This means, without any additional training, the model can
+tackle a wide range of new problems with just a few task-specific
+examples and by properly prompting it step-by-step, respectively.
+It further leads to the modeling paradigm from task-specific
+finetuning to prompting frozen models, where the latter shows
+higher generalizability and lower adaptation cost in task transfer.
+
+(ii) ChatGPT and InstructGPT (2022) show the importance of
+instruction-following and alignment with human intents for LLMs,
+by finetuning the base language model GPT-3/GPT-3.5 on high-quality
+instruction-following data, and improving them with a reward model via
+reinforcement learning with human feedback.
+
+(iii) GPT-4 not only improves the language ability of previous models,
+but also allows visual signals as additional input for visual
+understanding and reasoning. We see that the newer generation model
+maintains/improves the existing properties of the
+previous ones, and enable new properties.
+```
+
+```
+It turns out that the line of instruction-tuning research
+has produced effective means to improve zero-shot and
+few-shot generalization abilities of LLMs. Self-instruct
+leverages the in-context-learning ability of LLM.
+```
+
+```
+As the training objectives and network architectures are
+becoming similar or even identical to GPT-like models,
+the key differential factor is data.
+```
+
+> 哈哈
+
+```
+To align the discussions, we argue that there are two
+distinctive abilities for LLMs:
+the instruction-following ability to know which task to perform,
+and massive knowledge storage to complete the task with high quality.
+Imitation models are good at the former, by mimicking ChatGPT's style
+but perform poorly in terms of factuality in their responses.
+In Gudibande et al. (2023), the authors conclude that there exists
+a substantial capabilities gap between open and closed LLMs that,
+with current methods, can only be bridged using an unwieldy amount
+of imitation data or by using more capable base LLMs.
+They also advocate that the highest leverage action for improving
+open-source models is to tackle the difficult challenge of developing
+better base LLMs. However, unfortunately, the resources to train such
+base LLMs are only available in a few industry labs.
+```
+
+```
+While finetuning very large models often leads to high performance,
+it is prohibitively expensive; For example,
+regular 16-bit finetuning of an LLaMA-65B model (2023)
+requires more than 780 GB of GPU memory (2023).
+```
+
+```
+Parameter-efficient training is an effective approach for
+LMM adaptation. It freezes most of the model parameters
+and only allows a fraction of trainable parameters to update
+with domain-specific data. For example, LLaMA Adapter v2 (2023)
+and LAVIN (2023) only have 14M and 3.8M trainable parameters,
+compared with 7B/13B LLM parameters, respectively.
+
+Another efficient training method is quantization. The recent
+QLoRA (2023) finetunes 65B LLaMA for 24 hours on a single GPU,
+achieving 99.3% of the performance level of ChatGPT.
+
+Since instruction tuning typically involves a small amount
+of data, it makes parameter-efficient training or model
+quantization the practical approach, especially when with
+limited GPU resources. Both LoRA (2021) and QLoRA are supported
+in the LLaVA codebase to allow LMM training with fewer GPUs.
+
+It is empirically shown (2023) that LoRA/QLoRA can achieve
+similar performance with full-modal tuning when scaling
+LLaVA to 33B and 65B, when training with around 150K
+instruct data and evaluate with LLaVA-Bench.
+```
+
+```
+Furthermore, a fundamental limitation of not only LLMs
+but also other large-scale models nowadays, is that they
+only represent the world described by their training data,
+which will inevitably become outdated over time.
+Regularly re-training the model with the latest
+information is simply not feasible.
+```
+
+```
+In current literature, the tool allocator is usually a LLM.
+To achieve the user's goal, the LLM will outline all the
+steps necessary with either a single tool or collaborating
+multiple tools together.
+```
+
+```
+On one hand, instruction tuning enables an end-to-end model
+that directly interprets rich semantics in multi-modal inputs,
+but requires data curation and training,
+hence more computationally expensive.
+However, limited instruction tuning data may limit its
+capabilities in certain scenarios, such as OCR.
+On the other hand, one can build a multimodal agent without
+any training by chaining LLMs with abundant off-the-shelf
+models/APIs/code interpreters as tools, and leveraging
+in-context few-shot examples to teach LLMs on planning.
+However, as there is no training, the system may
+fail to invoke the right tool.
+```
+
+### A High-Level Technical Overview of Fully Homomorphic Encryption
+
+- [A High-Level Technical Overview of Fully Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
+  - [Learning with errors](https://en.wikipedia.org/wiki/Learning_with_errors)
+  - [Ring learning with errors](https://en.wikipedia.org/wiki/Ring_learning_with_errors)
+
+```
+Adding ciphertexts gives you an encryption of
+the sum of the underlying plaintexts.
+Multiplying two ciphertexts gives you encryption of
+the product of the underlying plaintexts.
+```
+
+```
+If you did a naive circuit decomposition without anything else,
+running FHE on the CPU is at least a million times slower
+than the corresponding unencrypted program.
+```
+
+```
+The special keys need only be generated and sent once
+and can be used for all future computations,
+but they can easily be gigabytes in size.
+In one example FHE scheme with lightweight keys,
+a ciphertext encrypting a single integer is on the order of 25 KB,
+and the special keys are about 0.5 GB.
+In others, 16,000 or more integers are packed into
+a single ciphertext of similar size,
+but the keys can be 10s of GiBs.
+```
+
+```
+All modern FHE schemes encrypt their data using
+effectively the same cryptographic foundation:
+a noisy dot product.
+```
+
+```
+A question that puzzled me when I first studied LWE is
+why we can't simply ignore the least significant bits
+of a ciphertext to "bypass" the noise.
+The reason is that the noise can be negative.
+Adding negative noise changes the higher order bits of
+an integer by the arithmetic "wrapping around."
+It "tampers" with the highest order bits,
+but still allows you to remove it by
+rounding up in the decryption process.
+I enshrined this mistake in my first broken LWE
+implementation by masking and shifting
+during decryption instead of rounding.
+```
+
+```
+The cryptographic guarantee is that, given a large sample
+of encryptions of a message with the same secret key,
+one cannot learn the secret key or the underlying message
+with any nontrivial probability above random guessing.
+```
+
+```
+The main advantage to using RLWE over LWE is that you can
+pack many messages into a single polynomial,
+and the homomorphic operations you do apply to all the messages.
+It's the same sort of advantage as SIMD,
+but there are more restrictions on what SIMD operations
+are available on these packed messages
+that I'll discuss in later sections.
+```
+
+```
+So nearly all of the complexity in FHE is based around how
+to avoid noise growth or how to reduce noise mid-program.
+The latter is called bootstrapping, which deserves some
+special attention. The idea of bootstrapping is trippy.
+Its technical details are beyond the scope of this article,
+but I can summarize the main idea:
+you can homomorphically decrypt an FHE ciphertext and
+re-encrypt it under a new secret key without ever seeing
+the underlying message. In doing so, the noise of the
+resulting ciphertext is "reset" to a smaller value.
+But to make it work, the user has to provide the server
+with a special encryption of the user's secret key, which
+adds an extra security assumption called circular security,
+or key-dependent message security. With bootstrapping,
+you can extend an FHE program indefinitely.
+The downside is that bootstrapping can be expensive,
+taking milliseconds in some schemes and
+seconds to minutes in others.
+```
+
+```
+If you don't want to do bootstrapping, then you are
+left with putting a hard limit on noise growth.
+This is often called leveled homomorphic encryption
+because the noise growth is discretized into levels,
+and programs are prohibited from exceeding the max level.
+These two techniques roughly split the FHE community in half.
+```
+
+> These two techniques roughly split the FHE community in half.
+
+> 嗯, 确实蛮 High-Level 的~ (No details)
+
+```
+RNS (Residue Number Systems) is most prominently used for
+arithmetic FHE schemes with RLWE, as the arithmetic FHE schemes
+already impose a SIMD-like computational model.
+However, it is also used for boolean schemes to neatly represent
+high-precision arithmetic with low-precision underlying messages.
+```
+
+```
+An addition of two polynomials corresponds naturally to the
+sum of their coefficients, but a multiplication of two polynomials
+corresponds to the convolution of their coefficients.
+```
+
+- [Zama](https://github.com/zama-ai)
+  - Zama is an open source cryptography company building
+    state-of-the-art FHE solutions for blockchain and AI.
+
+### OpenELM
+
+- [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](https://arxiv.org/abs/2404.14619)
+  - Submitted on 22 Apr 2024
+  - [CoreNet](https://github.com/apple/corenet)
+
+```
+At the core of OpenELM lies layer-wise scaling,
+enabling more efficient parameter allocation across layers.
+This method utilizes smaller latent dimensions in the attention
+and feed-forward modules of the transformer layers closer to the input,
+and gradually widens the layers as they approach the output.
+```
+
+```
+We adopt the decoder-only transformer-based architecture.
+Following state-of-the-art LLMs, we:
+(1) do not use learnable bias parameters in any fully-connected
+(a.k.a., linear) layers,
+(2) apply pre-normalization using RMSNorm and also,
+use rotatory positional embedding (ROPE)
+for encoding positional information,
+(3) use grouped query attention (GQA)
+instead of multi-head attention (MHA),
+(4) replace the feed-forward network (FFN) with SwiGLU FFN,
+(5) use flash attention for computing the scaled
+dot-product attention, and
+(6) use the same tokenizer as LLama.
+```
+
+```
+Existing LLMs use the same configuration for each
+transformer layer in the model, resulting in a uniform
+allocation of parameters across layers.
+Unlike these models, each transformer layer in OpenELM
+has a different configuration
+(e.g., number of heads and feed-forward network dimension),
+resulting in a variable number of parameters in each layer of the model.
+This lets OpenELM to better utilize the available parameter budget
+for achieving higher accuracies. We implement this non-uniform
+allocation of parameters across layers using layer-wise scaling.
+```
+
+```
+Layer-wise scaling.
+A standard transformer layer is composed of
+multi-head attention (MHA) and feed-forward network (FFN).
+For non-uniform allocation of parameters in the
+transformer layer, we adjust the number of attention heads
+and the FFN multiplier in each transformer layer.
+```
+
+> 其实没啥内容! 大体上就是项目介绍;
+  然后就是宣布 Apple 入场了.
+
+> 急急忙忙地拼凑个成果出来的感觉~
+
+### Hierarchical Navigable Small Worlds (HNSW)
+
+- [Hierarchical Navigable Small Worlds (HNSW)](https://www.pinecone.io/learn/series/faiss/hnsw/)
+  - [OasysDB](https://github.com/oasysai/oasysdb)
+  - OasysDB is an embeddable, efficient, and
+    easy to use vector database. It is designed to be used
+    as a library and embedded inside your AI application.
+  - It is written in Rust and uses
+    [Sled](https://github.com/spacejam/sled)
+    as its persistence storage engine to save
+    vector collections to the disk.
+  - OasysDB implements __HNSW__
+    (Hierachical Navigable Small World)
+    as its indexing algorithm.
+  - [Benchmarking nearest neighbors](https://github.com/erikbern/ann-benchmarks)
+
+### Graph Pattern Matching in GQL and SQL/PGQ
+
+- [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/abs/2112.06217)
+
+```
+The identical core of both PGQ and GQL is a graph
+pattern matching sub-language, here termed GPML.
+```
+
+```
+In contrast, property graphs are multigraphs
+(there can be multiple edges between two endpoint nodes);
+pseudo-graphs (there can be an edge looping from a node to itself);
+they are mixed, or partially directed:
+an edge can be undirected,
+or can have source and target nodes,
+in which case it is directed from the source to the target.
+
+They are also attributed: graph elements can have attributes
+(a disjoint union of labels and properties).
+```
+
+> 为啥要回顾过去种种? 哈哈
+
+```sql
+-- label expressions
+
+MATCH (x:Account)
+```
+
+```
+label expressions allow
+conjunctions (&),
+disjunctions (|),
+negations (!),
+and grouping of individual labels by using parentheses.
+```
+
+```sql
+-- all undirected edges can be recovered by
+
+MATCH ~[e]~
+
+-- if we want edges that are either undirected,
+-- or directed from right to left, we could write
+
+<~[e]~
+```
+
+```
+Similarly to node patterns, edge patterns
+need not specify an element variable.
+```
+
+```
+Orientation               Edge pattern
+
+Pointing left              <−[ spec ]−
+Undirected                 ~[ spec ]~
+Pointing right             −[ spec ]−>
+Left or undirected         <~[ spec ]~
+Undirected or right        ~[ spec ]~>
+Left or right              <−[ spec ]−>
+Left, undirected or right  −[ spec ]−
+```
+
+```
+If we do not specify direction and write
+(x)−[e]−(y),
+then each edge will be returned twice,
+once for each direction in which it is traversed.
+```
+
+```sql
+-- the reuse of variable s ensures that one
+-- starts and ends in the same node:
+
+MATCH (s)−[:Transfer]−>(s1)−[:Transfer]−>(s2)−[:Transfer]−>(s)
+```
+
+```sql
+-- Path patterns permit the use of path variables:
+-- in the returned bindings,
+-- such a path variable is bound to a whole path. In
+
+MATCH p = (s)−[:Transfer]−>(s1)−[:Transfer]−>(s2)−[:Transfer]−>(s)
+
+-- the variable p will be bound to paths of length three of
+-- Transfer edges that start and end in the same node.
+```
+
+```sql
+-- In general, we can put arbitrarily many path patterns together.
+-- For example, we can modify the above query by adding a
+-- condition that another login attempt into an account
+-- was made that did not use a phone:
+
+MATCH (s:Account)−[:SignInWithIP]−(),
+      (s)−[t:Transfer WHERE t.amount > 1M]−>(),
+      (s)~[:hasPhone]~(p:Phone WHERE p.isBlocked = 'yes')
+```
+
+```
+Quantifier  Description
+{m, n}      between m and n repetitions
+{m,}        m or more repetitions
+*           equivalent to{0,}
++           equivalent to{1,}
+```
+
+```sql
+-- a path of length 2 to 5 of Transfer edges
+-- can be sought as follows:
+
+MATCH (a:Account)−[:Transfer]−>{2, 5}(b:Account)
+```
+
+```
+Keyword  Description
+
+TRAIL    No repeated edges.
+ACYCLIC  No repeated nodes.
+SIMPLE   No repeated nodes,
+         except that the first and last nodes may be the same.
+```
+
+```
+Keyword           Description
+
+ANY SHORTEST      Selects one path with shortest length
+                  from each partition. Non-deterministic.
+ALL SHORTEST      Selects all paths in each partition that
+                  have the minimal length in the partition.
+                  Deterministic.
+ANY               Selects one path in each partition arbitrarily.
+                  Non-deterministic.
+ANY 𝑘             Selects arbitrary 𝑘 paths in each partition
+                  (if fewer than 𝑘, then all are re- tained).
+                  Non-deterministic.
+SHORTEST 𝑘        Selects the shortest 𝑘 paths
+                  (if fewer than 𝑘, then all are retained).
+                  Non-deterministic.
+SHORTEST 𝑘 GROUP  Partitions by endpoints, sorts each partition
+                  by path length, groups paths with the same length,
+                  then selects all paths in the first 𝑘 groups
+                  from each partition (if fewer than 𝑘,
+                  then all are retained). Deterministic.
+```
+
+```
+The key steps in the pattern-matching execution model,
+as reflected in the forthcoming standard, are as follows.
+
+Normalization
+GPML provides syntactic sugar to help write patterns;
+this step puts patterns in a canonical form.
+
+Expansion
+The pattern is expanded into a set of rigid patterns
+without any kind of disjunction. Intuitively,
+a rigid pattern is one that could be expressed by an
+SQL equi-join query. Formally, it is a pattern without
+quantifiers, union, or multiset alternation.
+The expansion also annotates each rigid pattern to enable
+tracking the provenance of the syntax constructs.
+
+Rigid-pattern matching
+For each rigid pattern, one computes a set of path bindings.
+Each elementary construct of the rigid pattern is computed
+independently and then the results are joined together
+on variables with the same name.
+
+Reduction and deduplication
+The path bindings matched by the rigid patterns are reduced
+by removing annotations. The reduced path bindings are then
+collected into a set. This implies a deduplication step
+since different path bindings might become equal
+after reduction, and only one copy is kept.
+```
+
+### Enhancing Data Lakes with GraphAr
+
+- [Enhancing Data Lakes with GraphAr: Efficient Graph Data Management with a Specialized Storage Scheme](https://arxiv.org/abs/2312.09577)
+  - [GitHub](https://github.com/apache/incubator-graphar)
+
+```
+However, integrating LPGs into data lakes
+introduces unique challenges:
+
+Firstly, there is no standardized way to encapsulate
+an LPG within the existing data lake architecture.
+
+Secondly, executing graph-specific operations,
+particularly neighbor retrieval, and label filtering,
+can be highly inefficient in this setup.
+```
+
+```
+Firstly, Parquet provides flexible and efficient
+support for various datatypes, including atomic
+types (e.g., bools and integers), and nested
+and/or repeated structures (e.g., arrays and maps).
+Using Parquet as the fundamental building block,
+GraphAr further introduces standardized YAML files
+to represent the schema metadata for LPGs.
+This combination of data organization and metadata
+management enables the complete expression of LPG
+semantics while ensuring compatibility with both
+data lakes and graph-related systems.
+
+Secondly, GraphAr incorporates specialized
+optimization techniques to improve the performance
+of two critical graph operations:
+neighbor retrieval and label filtering,
+which are not inherently optimized in existing formats.
+
+GraphAr facilitates neighbor retrieval by organizing
+edges as sorted tables in Parquet to enable an efficient
+CSR/CSC-like representation and leveraging Parquet's delta
+encoding to reduce overhead in data storage and loading.
+GraphAr also introduces a novel decoding algorithm that
+utilizes BMI and SIMD instructions, along with a unique
+structure named PAC (page-aligned collections), to further
+accelerate the neighbor retrieval process.
+In addressing another critical aspect of LPGs, GraphAr
+adapts the run-length encoding (RLE) technique from Parquet
+and introduces a unique merge-based decoding algorithm.
+This tailored approach significantly improves label filtering
+performance, whether it involves simple or complex conditions.
+```
+
+> 至此, 已可确认值得一读!
+
+```
+Parquet files contain three layers of metadata:
+file metadata, column metadata, and page header metadata.
+The file metadata directs to the starting points of each
+column's metadata. Inside the column chunks and pages,
+the respective column and page header metadata are stored,
+offering a detailed description of the data. This includes
+data types, encoding, and compression schemes, facilitating
+efficient and selective access to data pages within columns.
+```
+
+> 花了过多的篇幅去描述: Why GraphAr?
+
+```
+Parquet is utilized as the payload file format for
+storing the data in the physical storage,
+while YAML files are used to capture schema metadata.
+```
+
+```
+Edges are sorted first by source vertex IDs
+and then by destination vertice IDs.
+
+An auxiliary index table, denoted as <offset>, is introduced
+to enable more efficient vertex-centric operations.
+The <offset> table aligns with the partitions in the
+vertex table, and when applied to the source vertices,
+facilitates retrieval patterns similar
+to Compressed Sparse Row (CSR).
+
+GraphAr allows for efficient retrieval of neighbors
+in both outgoing and incoming directions,
+through two sorted tables for the same edge type.
+CSR, CSC, and COO are widely adopted for representing graphs,
+by emulating these formats, GraphAr ensures
+compatibility with existing graph systems.
+```
+
+```
+Delta encoding works by representing the gaps (deltas) between
+consecutive values instead of storing each value individually.
+The deltas, which often have small values,
+can be stored more compactly, requiring fewer bits.
+
+However, delta encoding involves data dependencies that make
+vectorization challenging. The decoding of the (i + 1)-th
+neighbor depends on the prior decoding of the i-th neighbor.
+```
+
+```
+Therefore, we utilize this BMI-based approach for miniblocks
+with a bit width of 1 to 4 bits, while resorting to the default
+delta decoding of Parquet for larger bit widths.
+The combination of data layout, delta encoding, and this
+adaptive decoding strategy results in an advanced topology
+management paradigm, enabling efficient neighbor retrieval.
+```
+
+```
+This run-length format naturally transforms the binary
+representation of a label into an interval-based structure.
+We then adopt a list P to define the positions of intervals.
+The i-th interval is represented by [P[i], P[i + 1]),
+where P[i] refers to the i-th element within P.
+Besides, it is required to record whether the vertices of
+the first interval [P[0], P[1]) contain the label or not,
+i.e., the first value.
+```
+
+> Arrow, Parquet, 要是 Rust 重写就好了~ 哈哈哈
+
+```
+Since graphs generally have significantly more edges than
+vertices and GraphAr employs CSR/CSC-like layouts requiring
+edge sorting, generating topological data becomes
+the most time-intensive part.
+```
+
+```
+We can generate topological data for over
+3.9 million edges per second.
+The process involves three steps:
+1. sorting the edges using Arrow/Acero's
+   internal order_by operator, labeled as "sort";
+2. generating vertex offsets, labeled as "offset"; and
+3. writing the sorted and offset data into Parquet files
+   with a specific encoding, labeled as "output".
+
+Generally, this process has a time complexity of
+O(|E| log|E|) sequentially.
+Considering this transformation is a one-time, offline operation
+that substantially reduces future data retrieval times,
+the associated overhead is acceptable.
+```
+
+> benchmarks 蛮务实~
+
+```
+Storage efficiency: GraphAr remarkably reduces storage requirements,
+using only 27.3% of the storage compared to baseline methods for
+storing topology, and as low as 2.9% for label storage on average.
+```
+
+```
+Graph databases: There are also graph databases that are designed
+to store and manage graph data. While they offer various features
+that are tailored for LPGs, they primarily focus on in-memory
+mutable data management, operating at a higher level compared to
+GraphAr. GraphAr, with its format compatible with the LPG model,
+can be utilized as an archival format for graph databases.
+```
+
+### Graph of Thoughts
+
+- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+  - Submitted on 18 Aug 2023 (v1)
+  - [GitHub](https://github.com/spcl/graph-of-thoughts)
+
+```
+Overall, we observe that GoT is particularly
+well-suited for tasks that can be naturally
+decomposed into smaller subtasks that are solved
+individually and then merged for a final solution.
+```
+
+```
+The GoT architecture consists of a set of interacting modules.
+These modules are the Prompter
+(which prepares the messages for the LLM),
+the Parser (extracts information from LLM thoughts),
+the Scoring module (verifies and scores the LLM thoughts),
+and the Controller
+(coordinates the entire reasoning process,
+and decides on how to progress it).
+
+The Controller contains two further important elements:
+the Graph of Operations (GoO) and the Graph Reasoning State (GRS).
+GoO is a static structure that specifies the graph decomposition
+of a given task, i.e., it prescribes transformations to be
+applied to LLM thoughts, together with their order & dependencies.
+GRS is a dynamic structure that maintains the state of the ongoing
+LLM reasoning process (the history of its thoughts and their states).
+```
+
+> 举的例子`不具有`代表性,
+  Analysis results 也就参考价值不大.
+  所以通篇的说服力不足~
+
+> 总的来说, __阅读价值不大__!
+
+### Monte-Carlo Graph Search from First Principles
+
+- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+
+```
+All else equal, under this naive way of extending MCTS from
+trees to graphs, if a node's top-preferred moves are visited
+a lot by transposing lines, the node will tend to favor
+exploring other moves that didn't receive as many visits instead,
+leading to artificial biases in the utilities of the playouts
+being averaged at different nodes.
+
+Our algorithm is unsound to the point where even with
+unbounded amounts of search, it's not obvious that we
+will converge to the optimal move.
+```
+
+```
+Overall, this gives us an equivalent but different
+perspective on how MCTS works. MCTS is continuously
+optimizing a policy at every node to maximize the
+Q utility values that child nodes are reporting,
+while continuously updating the node's own Q to be
+the latest best guess of the expected utility
+achievable by that policy.
+
+In the limit of infinite search, if the child node Q
+values converge to game-theoretic optimal, then the
+node's policy converges to optimal, so the node's Q
+converges to the game-theoretic optimal value too,
+and so by recursion/induction we can
+see easily that MCTS is sound.
+```
+
+```
+All of the problems when extending MCTS naively to graphs
+are a result of implicitly assuming that the only visits
+to children of a parent node come from the parent.
+When a child node can instead also receive visits from a
+transposing path, we have problems:
+
+The visit counts of the child nodes can deviate arbitrarily
+much from what PUCT would have wanted to allocate, and so the
+child visits distribution can no longer be interpreted as a
+reasonable posterior policy.
+
+The Q values of parent and child nodes are updated in inconsistent
+ways, such that the Q value can no longer be interpreted as the
+expected value of the posterior policy either.
+```
+
+### GraphRAG
+
+- [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+  - [graspologic](https://github.com/microsoft/graspologic)
+
+```
+Baseline RAG struggles to connect the dots.
+This happens when answering a question requires traversing
+disparate pieces of information through their shared
+attributes in order to provide new synthesized insights.
+
+Baseline RAG performs poorly when being asked to holistically
+understand summarized semantic concepts over large data
+collections or even singular large documents.
+```
+
+```
+Creating LLM-generated knowledge graphs
+
+The LLM processes the entire private dataset,
+creating references to all entities and relationships
+within the source data, which are then used to create
+an LLM-generated knowledge graph.
+
+This graph is then used to create a bottom-up clustering
+that organizes the data hierarchically into semantic clusters.
+This partitioning allows for pre-summarization of semantic
+concepts and themes, which aids in holistic
+understanding of the dataset.
+
+At query time, both of these structures are used to provide
+materials for the LLM context window when answering a question.
+```
+
+```
+Looking forward, we plan to work closely with customers on
+a variety of new domains as we continue to apply this
+technology while working on metrics and robust evaluation.
+```
+
+### A Review on Graph Neural Network Methods in Financial Applications
+
+- [A Review on Graph Neural Network Methods in Financial Applications](https://arxiv.org/abs/2111.15367)
+  - 2021 (v1), 2022 (v2)
+  - [GitHub](https://github.com/ProsusAI/finBERT)
+
+```
+While GCN equally treats the neighbors of the target node,
+it often occurs that some neighbors may be
+more influential than others.
+
+It is also worth mentioning that since GAT can learn
+the weights of the neighboring node, we could interpret
+the learned attention weights as a relative
+importance measure, to better understand the model.
+```
+
+```
+An undirected graph has a symmetric adjacency matrix that
+guarantees a semi-definite Laplacian matrix, which lays
+the foundation for applying GCN.
+The directed graph, on the other hand, may have an
+asymmetric adjacency matrix and could be handled by
+spatial-based GNN methods, such as GAT.
+
+In practice, there is not much work developing methodologies
+for directed graphs, since they could be processed by
+spatial-based GNN methods or
+making the adjacency matrix symmetric.
+However, there is also a line of work developing GNN
+methodology to predict sequences of events
+represented as a directed graph.
+```
+
+```
+To capture the sequential pattern in the dynamic graph,
+a common approach is to train a GNN to generate the
+node embedding at each time stamp and then utilize a
+recurrent neural network to aggregate the information.
+```
+
+```
+How to improve the scalability of GNNs is vital but challenging.
+Computing the Laplacian matrix becomes hard with millions of
+nodes and for a graph of irregular Euclidean space,
+optimizing the algorithm is also difficult.
+Sampling techniques may partially solve the problem with
+the cost of losing structural information.
+Thus, how to maintain the graph structure and improve the
+efficiency of GNN algorithms is worth further exploration.
+```
+
+### Relational Deep Learning
+
+- [Relational Deep Learning: Graph Representation Learning on Relational Databases](https://arxiv.org/abs/2312.04615)
+  - [GitHub](https://github.com/snap-stanford/relbench)
+  - 其实这里上下文中的 Databases 是 Datasets
+
+```
+Crucially, RDL models natively integrate temporality by
+only allowing entities to receive messages from
+other entities with earlier timestamps.
+```
+
+```
+Dimension tables tend to have relatively few rows,
+as it is limited to one per real-world object.
+
+Typically, features in dimension tables are static
+over their whole lifetime, while fact tables usually
+contain temporal information with a dedicated time
+column that denotes the time of appearance.
+```
+
+```
+In practice, training tables can be computed using
+time-conditioned SQL queries from
+historic data in the database.
+```
+
+```
+Given a relational entity graph and a training table,
+we need to be able to query the graph at specific points
+in time which then serve as explicit training examples
+used as input to the model.
+
+The computational graphs obtained via neighbor sampling
+allow the scalability of our proposed approach to modern
+large-scale relational data with billions of table rows,
+while ensuring the temporal constraints.
+```
+
+```
+Heterogeneous Message Passing -> Temporal Message Passing
+```
+
+```
+The model described so far is task-agnostic and simply
+propagates information through the relational entity graph
+to produce generic node embeddings.
+We obtain a task-specific model by combining our graph with a
+training table, leading to specific model heads and loss functions.
+We distinguish between (but are not limited to) two types of tasks:
+node-level prediction and link-level prediction.
+```
+
+```
+In practice, we rely on PyTorch Frame that supports a variety of
+modality-specific encoders, such as pre-trained text embedding models,
+and as well as state-of-the-art deep learning models on tabular data.
+```
+
+```
+In other words, the GNN is an exact neural version of SQL
+JOIN+AGGREGATE operations. We believe this is another important
+reason why message passing-based architectures are a natural learned
+replacement for hand-engineered features on relational tables.
+```
+
+```
+Unfortunately, recent studies find that many GNN architectures
+fail to distinguish biconnected graphs.
+Further work is needed to design expressive n-partite graph models.
+```
+
+> Query Language Inspired Models. 不敢苟同~
+
+```
+Because of this, Relational Deep Learning seeks to
+leverage relations to learn entity representations,
+but does not need to learn an embedding space that
+perfectly preserves all relation semantics.
+This gives more freedom and flexibility to our models,
+which may discard certain relational information
+it finds unhelpful.
+Nonetheless, adopting ideas from knowledge graph
+embedding may yet be fruitful.
+```
+
+### GraphScope Flex
+
+- [GraphScope Flex: LEGO-like Graph Computing Stack](https://arxiv.org/abs/2312.12107)
+  - [GART](https://github.com/GraphScope/GART)
+  - [GRIN](https://github.com/GraphScope/GRIN)
+  - 一晃两年过去了, GraphScope 也改架构了~
+  - [Vineyard](https://github.com/v6d-io/v6d)
+
+```
+Resource Description Framework (RDF):
+RDFs sconsist of triples-subject, predicate, and object -
+that denote relationships (predicates) between
+two entities or nodes (subject and object).
+This model facilitates the representation and
+integration of data from disparate sources,
+commonly used in knowledge bases.
+```
+
+```
+As a query or algorithm is received, GraphScope Flex
+compiles it into a distributed execution plan,
+which is partitioned across multiple compute nodes
+for parallel processing. Each partition independently
+operates on its own compute node and synchronizes
+with other partitions via a coordinator.
+
+Upon receiving a query from the application layer,
+the query is parsed into a unified intermediate representation.
+This is followed by optimization through a universal
+Query Optimizer and catalog module.
+The optimized logical plan employs code generation modules
+to produce the corresponding physical plan.
+```
+
+```
+In GraphScope Flex, Vineyard serves as the backend storage
+for in-memory graphs. It adopts the property graph data model
+and handles graph partitioning using edge-cut partitioning.
+
+GraphScope Flex has incorporated a mutable in-memory graph storage,
+GART, which supports multi-version concurrency control
+(MVCC) for dynamic graph data.
+Specifically, GART always provides consistent snapshots of
+graph data (identified by a version), and it updates the graph
+with the version number write_version.
+```
+
+```
+GraphAr serves as the default persistent format for GraphScope Flex.
+Additionally, it can be directly used as a data source
+for applications by integrating GRIN.
+One of the key features of GraphAr is its ability to efficiently
+partition graph data into multiple data chunks,
+using the columnar storage feature and chunking mechanisms
+of ORC and Parquet.
+This unique design enables it to retrieve
+only the relevant data chunks, potentially in parallel,
+eliminating the need to load the entire graph
+into memory before processing.
+Furthermore, GraphAr empowers certain graph-related operations
+to be executed directly at the storage layer,
+such as retrieving vertices with a specific label or
+fetching the neighbors of a given vertex,
+using the built-in indexes of GraphAr.
+```
+
+> 看下来, 感觉 GraphScope 想要做成似乎不太容易.
+  __愿景过大__!

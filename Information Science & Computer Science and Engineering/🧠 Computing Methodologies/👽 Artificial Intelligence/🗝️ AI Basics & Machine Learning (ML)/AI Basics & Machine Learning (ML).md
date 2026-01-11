@@ -56,7 +56,9 @@ News, community, and courses for people building AI-powered products.
 ### Machine Learning System
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
 #### Neuron's Structure
+
 #### Activation Function
+
 #### Loss Function
 
 
@@ -91,6 +93,7 @@ Suggested Notation for Machine Learning
 
 
 ### 2️⃣ Semi-supervised learning
+↗ [Semi-supervised Learning](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
 #### Self-training
 
 
@@ -109,29 +112,58 @@ Suggested Notation for Machine Learning
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
 
 
-### 0️⃣ Problem Formulation
-🤔 
+### 0️⃣ Problem Formulation 🤔
+↗ [Mathematical Modeling & Real World Problem Solving](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
+↗ [Information Theory](../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+↗ [Probabilities & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Topology](../../../🧮%20Mathematics/Topology/Topology.md)
 
 
 ### 1️⃣ Data Preparation
 ↗ [Dataset Preparation](🌊%20Deep%20Learning%20(Neural%20Network)/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 
+↗ [LLM Training Datasets](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
+
 
 ### 2️⃣ Model Selection
 ↗ [Statistical Learning Theory & ML Types](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+- ↗ [Supervised Learning](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Supervised%20Learning/Supervised%20Learning.md)
+	- ↗ [ML Classification Algorithms](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Supervised%20Learning/ML%20Classification%20Algorithms/ML%20Classification%20Algorithms.md)
+	- ↗ [ML Regression Algorithms](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Supervised%20Learning/ML%20Regression%20Algorithms/ML%20Regression%20Algorithms.md)
+- ↗ [Unsupervised Learning](📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Unsupervised%20Learning/Unsupervised%20Learning.md)
 ↗ [Neural Network Models](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+- ↗ [CNN (Convolutional Neural Network)](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
+- ↗ [RNN (Recurrent Neural Network)](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
+	- ↗ [LSTM (Long-Short Term Memories)](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
+- ↗ [GNN (Graph Neural Network)](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
+- ↗ [GAN (Generative Adversarial Network)](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
+- ↗ [Transformers](🌊%20Deep%20Learning%20(Neural%20Network)/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 
 ### 3️⃣ Model Training
 ↗ [Model Training](🌊%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Training.md)
 
+↗ [LLM Training, Utilization, and Evaluation](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
+- ↗ [Pre-Training](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Pre-Training/Pre-Training.md)
+- ↗ [Post-Training & Fine Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+
 
 ### 4️⃣ Training Monitoring & Fine Tuning
 ↗ [Process Monitoring](🌊%20Deep%20Learning%20(Neural%20Network)/4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
 
+↗ [Post-Training & Fine Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+- ↗ [Instruction Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
+- ↗ [LLM Adaptation & Alignment Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+
 
 ### 5️⃣ Model Deployments & Applications
 ↗ [Deployment & Application](🌊%20Deep%20Learning%20(Neural%20Network)/5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
+
+↗ [LLM Infrastructure & Deployment](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
+↗ [LLM Applications & LLM-Driven Automation](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 
 

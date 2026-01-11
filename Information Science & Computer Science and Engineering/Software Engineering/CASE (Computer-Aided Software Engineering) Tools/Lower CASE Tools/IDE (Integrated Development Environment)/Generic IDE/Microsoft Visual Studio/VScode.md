@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Github Copilot](../../../../../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Github%20Copilot.md)
+↗ [Github Copilot](../../../../../🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Github%20Copilot.md)
 
 
 ### Other Resources

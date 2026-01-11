@@ -25,6 +25,8 @@
 
 ↗ [Language & Literature](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 
+↗ [Normalization](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+
 
 ### Other Resources
 https://homepage.divms.uiowa.edu/~slonnegr/
@@ -103,19 +105,46 @@ An _interpretation_ is an [assignment](https://en.wikipedia.org/wiki/Valuatio
 
 
 ### Semantics & Formal Semantics
-↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
 
 ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 
 
-## Formal Synax Basics
-> ↗ [Mathematical Logic Basics (Formal Logic)](../Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+## Formal Syntax Basics: Grammatical Category & Logic Formula
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 > ↗ [Syntactic Analysis (Parsing)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020251011204655.png)
+
+从形式语言的角度来看，除了知道语言包含哪些符号之外，还要指定语法，
+习惯上，我们经常使用[BNF](https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F)来指定：$t::=c∣x∣ft1⋯tn$
+
+即一个合法的**项**，可以归纳定义为，
+（1）每一个常元都是合法的项，
+（2）每一个变元都是合法的项，
+（3）如果t1,t2,⋯,tn​​都是合法的项，而ff是一个n元函数符号，那么ft​1​​⋯t​n​​也是一个合法的项。
+
+初等算术语言Π中的合法项：
+以下符号串都是合法的：
+S0，Sx​1​​，+S0SSx，⋅x1+Sx1x2，
+而SS<是不合法的。
+
+我们知道逻辑证明，并不是建立在形式语法之上的，而是建立在公理系统上面，而每一个推导规则都表明了前提和结论之间的关系，这些前提和结论，称为**逻辑公式**。
+
+一阶语言LL中的逻辑公式，用大写字母A,B,⋯表示，定义为，
+$$A::=t1≐t2∣Rt1⋅⋅⋅tn∣¬A∣A∧B∣A∨B∣A→B∣A↔B∣∀xA∣∃xA$$
+
+即，逻辑公式可以归纳的定义为，
+（1）如果$t1$​​和$t2$是合法的项，则$t1≐t2$​​是公式，
+（2）如果$t1,...,tn$是合法的项，而R是一个n元谓词，则$Rt1⋅⋅⋅tn$是公式，
+（3）如果A是公式，则¬A是公式，
+（4）若A,B是公式，则A∧B,A∨B,A→B,A↔B都是公式，
+（5）若AA是公式并且x是一个变元，那么∀xA和∃xA也是公式，x称为**约束变元**。
+
+例，以下符号串可以看做一个初等算术公式，$$∀x¬(Sx≐0),∀x∀y(<xy→(∃(y≐+xz)))$$
 
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 > 语法（符号）
@@ -128,13 +157,20 @@ An _interpretation_ is an [assignment](https://en.wikipedia.org/wiki/Valuatio
 
 我们知道，在公理系统中，序贯可以用来表示前提和结论之间的符号联系。
 
-序贯Γ⊢Δ，表示从公式集Γ出发，根据推导规则，可以证明出Δ中至少有一条公式成立。
+序贯$Γ⊢Δ$，表示从公式集Γ出发，根据推导规则，可以证明出Δ中至少有一条公式成立。
 
-习惯上，序贯Γ⊢Δ成立，也称Γ⊢Δ**可证**。
+习惯上，序贯$Γ⊢Δ$成立，也称$Γ⊢Δ$**可证**。
 值得注意的是，序贯谈论的都是语法层面（符号层面）上的，和这些符号的所选择的具体语义无关。
 
 
 ### Consistance (协调性，一致性)
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+设Γ为公式集，
+
+如果不存在一个公式A使得序贯$Γ⊢A$与$Γ⊢¬A$均可证，我们就称，公式集Γ是**协调的**，也称一致的。
+
+设Γ是一阶语言L的公式集，该集合可以是有限集或可数集，如果Γ协调，则称Γ是一阶语言L的**形式理论**。
 
 
 

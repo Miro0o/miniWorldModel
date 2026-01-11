@@ -15,7 +15,7 @@
 ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
 - ↗ [Stack Attack](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Stack%20Attack.md)
 	- ↗ [Stack Buffer Overflow](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Stack%20Buffer%20Overflow/Stack%20Buffer%20Overflow.md)
-- ↗ [Heap](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
+- ↗ [Binary Tree & Heap](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Tree%20&%20Graph/Binary%20Tree%20&%20Heap/Binary%20Tree%20&%20Heap.md)
 	- ↗ [Heap Attack](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Heap%20Attack/Heap%20Attack.md)
 ↗ [Memory Protections & Mitigations](../../../../CyberSecurity/System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Protections%20&%20Mitigations/Memory%20Protections%20&%20Mitigations.md)
 

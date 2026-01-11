@@ -54,6 +54,8 @@ Other lessons [are](https://www.3blue1brown.com/lessons/colliding-blocks-v2) [
 
 The first category aims to motivate math by its usefulness, and the second aims to motivate math as an art form. Of course, the line dividing these two is easily blurred.
 
+[MacTutor](https://mathshistory.st-andrews.ac.uk/)
+MacTutor is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials.
 
 [香蕉空间](https://www.bananaspace.org/wiki/探索:讲义)
 [oi-wiki - 数学部分](https://oi-wiki.org/math/)
@@ -209,60 +211,6 @@ There is still a [philosophical](https://en.wikipedia.org/wiki/Philosophy_of_ma
 [严谨](https://zh.wikipedia.org/wiki/%E4%B8%A5%E8%B0%A8_\(%E6%95%B0%E5%AD%A6\) "严谨 (数学)")是[数学证明](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E "数学证明")中很重要且基本的一部分。数学家希望他们的定理以系统化的推理依著公理被推论下去。这是为了避免依著不可靠的直观而推出错误的“[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")”，而这情形在历史上曾出现过许多的例子。在数学中被期许的严谨程度因着时间而不同：希腊人期许著仔细的论证，但在[牛顿](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF "艾萨克·牛顿")的时代，所使用的方法则较不严谨。牛顿为了解决问题所做的定义，到了十九世纪才重新以小心的分析及正式的证明来处理。今日，数学家们则持续地在争论[电脑协助证明](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E5%8D%94%E5%8A%A9%E8%AD%89%E6%98%8E "电脑协助证明")的严谨度。当大量的计算难以被验证时，其证明亦很难说是足够地严谨。
 
 [公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")在传统的思想中是“不证自明的真理”，但这种想法是有问题的。在形式上，公理只是一串符号，其只对可以由[公理系统](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")导出的公式之内容有意义。[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")即是想将所有的数学放在坚固的公理基础上，但依据[哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86 "哥德尔不完备定理")，每一[相容](https://zh.wikipedia.org/wiki/%E4%B8%80%E8%87%B4%E6%80%A7_\(%E9%82%8F%E8%BC%AF\) "一致性 (逻辑)")且能蕴涵[皮亚诺公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9E%E8%AB%BE%E5%85%AC%E7%90%86 "皮亚诺公理")的公理系统必含有一不可决定的公式；因而所有数学的最终[公理化](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")是不可能的。尽管如此，数学常常被想像成只是某种公理化的[集合论](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AE%BA "集合论")，在此意义下，所有数学叙述或证明都可以写成集合论的公式。
-#### Axiomatization of Mathematics & Axiomatic System ⭐
-> ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md) "formalization and formal system"
-> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System)
-> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
-
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), an **axiomatic system** or **axiom system** is a standard type of deductive logical structure, used also in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). It consists of a set of formal statements known as [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") that are used for the [logical deduction](https://en.wikipedia.org/wiki/Logical_deduction "Logical deduction") of other statements. In mathematics these logical consequences of the axioms may be known as [lemmas](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)") or [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem"). ==A [mathematical theory](https://en.wikipedia.org/wiki/Theory_\(mathematical_logic\) "Theory (mathematical logic)") is an expression used to refer to an axiomatic system and all its derived theorems.==
-
-A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), which is normal in books and technical papers, the [nouns](https://en.wikipedia.org/wiki/Noun "Noun") are intended as [placeholder words](https://en.wikipedia.org/wiki/Placeholder_word "Placeholder word"). The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"). **In a fully formal setting, a logical system such as [predicate calculus](https://en.wikipedia.org/wiki/Predicate_calculus "Predicate calculus") must be used in the proofs.** The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
-
-> 🔗 https://zh.wikipedia.org/zh-hans/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F
-
-[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，公理系统的讨论通常只是半形式化的。一个**形式化理论**通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个**形式化证明**是一个证明在形式化系统中的表述。
-
-**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Properties%20of%20Logics%20System))
-- 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
-- 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
-	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
-- 若一个公理系统中，每个命题及其否定命题中至少有一方可被证明，则称该公理系统为**完备** 。（Completeness）
-- (Soundness)
-
-==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
-##### The First Axiomatic System: Euclidean Geometry (欧氏几何)
-> ↗ [Geometry](Geometry/Geometry.md)
-> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
-
-> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
-
-欧氏几何是第一个提出的公理系统。
-
-大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
-
-> 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
-
-1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
-
-但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
-
-现在看来，这样理解当然是有问题的，因为，它混淆了公理系统中的结论，和对这些结论的解释。就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
-
-关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
-##### Gödel's Incompleteness Theorems
-> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md#Gödel's%20Incompleteness%20Theorems)
-
-> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
-
-是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
-- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
-- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
-
-> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 #### Mathematical Notations
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
 
@@ -288,7 +236,7 @@ After we have defined various objects and notions, we usually make **mathematica
 #### Types of Proofs ⭐
 > ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 > 
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -306,10 +254,245 @@ After we have defined various objects and notions, we usually make **mathematica
 
 ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
-↗ [Mathematical Logic Basics (Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic).md)
+↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
 -  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+#### Axiomatization of Mathematics & Axiomatic System ⭐
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md) "formalization and formal system"
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System)
+> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), an **axiomatic system** or **axiom system** is a standard type of ==deductive logical structure==, used also in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). It consists of a set of formal statements known as [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") that are used for the [logical deduction](https://en.wikipedia.org/wiki/Logical_deduction "Logical deduction") of other statements. In mathematics these logical consequences of the axioms may be known as [lemmas](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)") or [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem"). ==A [mathematical theory](https://en.wikipedia.org/wiki/Theory_\(mathematical_logic\) "Theory (mathematical logic)") is an expression used to refer to an axiomatic system and all its derived theorems.==
+
+A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), which is normal in books and technical papers, the [nouns](https://en.wikipedia.org/wiki/Noun "Noun") are intended as [placeholder words](https://en.wikipedia.org/wiki/Placeholder_word "Placeholder word"). The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"). **In a fully formal setting, a logical system such as [predicate calculus](https://en.wikipedia.org/wiki/Predicate_calculus "Predicate calculus") must be used in the proofs.** The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
+
+> 🔗 https://zh.wikipedia.org/zh-hans/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F
+
+[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
+
+**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System))
+- 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
+- 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
+	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
+- 若一个公理系统中，每个命题及其否定命题中至少有一方可被证明，则称该公理系统为**完备** 。（Completeness）
+- (Soundness)
+
+==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
+##### The Process of Axiomatization & Formal Language
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+
+> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+
+我们以一个称之为“pq”的系统为例。（出自《[哥德尔、艾舍尔、巴赫——集异璧之大成](https://book.douban.com/subject/1291204/)》）
+
+
+---
+==公理化步骤== /形式语言的构造 /语法层面
+
+**第一步**， 我们要有一些符号。
+例如：“pq系统”只有三个符号，`p`，`q`，`-`。
+  
+
+**第二步**，我们要说明什么样的符号串是合法的，即指定一套语法。
+例如，我们规定“pq系统”中合法的符号串，形如`xqypz`，其中，`x`，`y`，`z`仅由一串短杠组成。
+```
+term := n 'q' n 'p' n  
+n := '-' | '-' n
+```
+
+因此，`--q-p-`，`---q--p-`都是合法的符号串。
+
+
+**第三步，** 我们要指定公理和推导规则，其中公理是推导的出发点，由公理推导得出的符号串称为定理。
+（1）“pq”系统的公理如下: 只要`x`仅由一串短杠组成，那么`x-qxp-`就是一条公理。
+（2）“pq”系统的推导规则是这样的:
+- 假设`x`，`y`和`z`都代表只包含短杠的特定的符号串，并且假设`xqypz`是一条已知的公理/定理，那么`x-qypz-`就是一条定理。
+- 即它们满足$\frac{xqypz}{x−qypz−}​$​​，表示如果$xqypz$是定理，则$x−qypz−$也是定理。
+
+例子：
+- 根据公理的定义，我们知道`--q-p-`是一条公理，
+- 又根据这条公理和推导规则，我们得到了`---q-p--`是一条定理。
+
+
+**小结：**
+以上三步我们通过公理化的方式构建了一个形式系统，它由符号，语法，公理，推导规则组成，我们可以用公理和旧定理生成新定理，不断演算。
+
+在其他系统中，公理和定理的个数可能是有限的，而“pq”系统则是无限的。
+
+
+---
+==形式语言的解释（interpretation）== /语义层面
+
+我们说以上“pq系统”定义了一个形式语言，这里的“语言”是一种数学上的定义，指的是字符串的集合。“pq”系统的形式语言，就是系统中公理和定理的集合。
+
+考察一个形式语言，通常我们要研究它的两个方面，
+其一，形式语言的语法，指的是字符串的构成方式，
+其二，形式语言的语义，指的是每个字符串的含义。
+
+我想大家都已经读过《[计算机程序的构造与解释](https://book.douban.com/subject/1148282/)》了吧，所谓构造，指的就是语法，而解释指的就是语义。
+
+那我们来看一看“pq系统”的形式语言该怎样解释吧。
+
+我们可以选择这样的解释方式，例如，我们可以将`q`解释为“等于”，而将`p`解释为“加”，将短杠解释为数字。于是，`---q-p--`就可以被解释为“3等于1加2”了。
+
+值得注意的是，合理的解释并不一定是唯一的，例如，我们将`q`解释为“减”，将`p`解释为“等于”，也是可以的。
+
+考虑语义问题的时候，我们应该总是先想想，当前在对什么系统进行解释。
+例如，对“pq”系统，我们再引入一条新的公理，
+
+**新公理：** 只要`x`仅由一串短杠组成，那么`xqxp-`也是一条公理。
+
+现在来看，引入的新公理对“pq系统”产生了什么影响。
+首先，`-q-p-`在新系统中是一条公理，而在老系统中不是。
+其次，根据推导规则，`--q-p--`是新系统中的一条定理，而在老系统中也不是。
+
+考虑到我们之前对符号串的解释，我们发现，如果仍然沿用老系统对符号串的解释，`--q-p--`应该被解释为“2等于1加2”，这显然是不正确的。
+
+==因此，在系统发生变化的时候，旧的解释可能就行不通了，我们要对系统选择一个新的解释。== 例如，我们只需要将`q`解释为“小于或等于”就行了。然而，现在看来这种顺利成章的事情，却困扰了数学家们很多年。
+
+> 这是整个19世纪数学的最深刻的教训之一。
+###### Euclidean Geometry (欧氏几何) vs Non-euclidean Geometry
+> ↗ [Geometry](Geometry/Geometry.md)
+> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+
+> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+
+欧氏几何是第一个提出的公理系统。
+
+大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
+
+> 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
+
+1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
+
+但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
+
+现在看来，这样理解当然是有问题的，因为，==它混淆了公理系统中的结论，和对这些结论的解释。== 就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
+
+关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
+##### Formal System vs Axiomatic System?
+#formal_system #axiomatic_system 
+
+> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+###### What about formal languages? formal logics and programming languages?
+#formal_language #formal_logic #programming_languages
+
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+##### Foundations of Mathematics (Logics)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+###### Set Theory, Natural Number (As a Language), and Peano Axioms
+↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+
+> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
+
+**自然数语言与皮亚诺公理系统**
+
+从读小学的时候开始，我们就认识了自然数，我们可以从零开始计数，每个数字比它前面的多一，0 1 2 3 4 5 6 ⋯ 这些数字可以用来表示物品的个数。
+
+它们是如此的贴近生活，如此自然，以致我们一直以来，就把两个不同的**概念混淆**在了一起。
+一个概念是自然数的语法构造，属于编码问题，(syntax)
+另一个概念则是对这种语法构造的解释，属于语义问题。(semantics)
+
+为了看清这一点，我们使用公理化方式定义一个**自然数形式系统**。这个自然数形式系统就是皮亚诺系统。
+
+![](../../Assets/Pics/Pasted%20image%2020260111221646.png)
+
+在了解皮亚诺系统之前，我们首先要问自己这些问题：
+
+（1）这个形式系统包含了哪些符号呢？
+它只包含`0~9`，这个十个字符。
+
+（2）哪些符号串是合法的？
+一位符号串，或者不是`0`开头的多位符号串，都是合法的。所有这些合法的符号串，构成了一个集合，称为该形式系统的“**语言**”。
+
+（3）哪些符号串被认为是公理或定理，定理之间的推导规则是什么？
+对于自然数形式系统来说，符号串`0`可以看做公理，后继函数可以看做推导规则。
+
+（4）这些符号串的含义是什么？
+简单起见，我们可以直接指定符号串的含义为它所对应的那个自然数。
+例如，`3`是一个符号串，我们指定它对应33这个自然数。
+其中`3`是语法符号，33是数学对象。
+###### Algebra & Arithmetic Systems
+> [!links]
+> ↗ [Algebra](🧊%20Algebra/Algebra.md)
+> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
+> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
+
+在读小学的时候，数学课只有一门，主要学有理数的四则运算，而到了初中，数学就变成了两门，分为代数课与几何课，代数课主要讲方程和函数，几何课主要讲平面几何。
+
+平面几何是很直观的，也很容易和其他数学划清界线，因此，初中生们对“什么是几何”都没有太多疑惑。但是至于“**什么是代数**”，就比较费解了，这个问题也困扰了我很久。
+
+到大学，我们又学了线性代数，这种困扰日益加深，因为居然出现了一种“线性的”“代数”，却没有人事先告诉我们到底什么是“代数”。
+
+后来我们学了抽象代数，这个问题才得以解决，我找到了一个令自己满意的答案。
+
+为了说明“什么是代数”，最简单的办法就是下定义。
+- 设集合$M$上定义了一组运算，$a_1, a_2, ⋯ ,a_n$
+- 运算结果仍是$M$中的元素，则称$M$相对于这$n$个运算，构成了一个**代数**。
+
+> 一般来说，代数问题的特点，
+> 是对一类问题，利用统一的运算性质，求出所有可能的解答。
+
+==因此，代数学就是研究**运算系统性质**的学问。==
+而Peano系统，是最简单的运算系统之一，又称为[一阶算术系统](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86)。自然数就是这个系统中的运算对象。(因此，小学数学也称为“算术”。)
+
+我们的整体思路是，首先用公理化的方式建立一个形式系统，然后为这个形式系统选择一种数学解释作为它的语义，这样就建立了符号和数学对象之间的对应关系。一般的，这些数学对象需要具有不同的运算性质，有不同的结构，因此构成了不同的代数。
+
+随着代数学的发展，人们发明了许多运算系统，例如，整数的加减法，有理数的四则运算，实数的根式或指数运算，等等。它们都有现实的对应物，**仿佛**数学的研究对象就是现实世界一样。
+
+然而，实际上并非如此。
+
+例如，复数$1+2i$，它是没有现实对应的，但是我们仍然可以对复数进行运算。一个n次方程可能在实数范围内无解，但必定会存在n个复数解。
+
+引入了复数之后，我们也才能体会到欧拉公式之美，$$e^{iπ}+1=0$$
+另一方面，代数学的研究重点也发生了改变，一开始人们研究的是单个的，独立的，具体的运算系统，但是后来人们逐渐发现，很多运算系统有相同的运算性质，可以**抽象**出来进行讨论。
+
+例如，计算机系统中的无符号数，连同加法运算，构成了一个阿贝尔群。而阿贝尔群中的加法，满足交换律和结合律，因此，编译器就可以采用任意的顺序进行计算，不影响最终结果。
+
+从运算性质的角度来分析问题，越来越流行了，成为了现代数学不可或缺的一部分，并且，代数学考虑问题的方法，也逐渐影响着其他学科。
+###### Formal Logics: Symbols, Syntax, and Semantics
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+###### Simply Typed Lambda Calculus: Syntax and Semantics
+> [!links]
+> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+> ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+
+一般有两种通用的方法，来给出简单类型化$λ$演算$λ^→$​​的语义，一种是**Henkin模型**，另一种是笛卡尔闭范畴。
+
+**Syntax** 
+- 🔗 https://thzt.github.io/2017/09/19/type-6/
+
+**Semantics**
+- 🔗 https://thzt.github.io/2018/02/03/semantics-5/
+- Henkin semantics & Henkin model
+	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+	- ↗ [Henkin Model & Henkin Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+- Cartesian closed category
+	- ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+##### Gödel's Incompleteness Theorems ⭐
+> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Gödel's%20Incompleteness%20Theorems%20⭐)
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
+- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
+- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
+
+> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 
 
 ### Overview of Modern Mathematics Fields
@@ -366,7 +549,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 	- ↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-	- ↗ [Natural Number](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number.md)
+	- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
@@ -433,6 +616,9 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
 应用数学思考将抽象的数学工具运用在解答科学、工商业及其他领域上之现实问题。应用数学中的一重要领域为统计学，它利用概率论为其工具并允许对含有机会成分的现象进行描述、分析与预测。大部分的实验、调查及观察研究需要统计对其数据的分析。（许多的统计学家并不认为他们是数学家，而比较觉得是合作团体的一分子。）数值分析研究有什么计算方法，可以有效地解决那些人力所限而算不出的数学问题；它亦包含了对计算中舍入误差或其他来源的误差之研究。
+
+↗ [Mathematical Modeling & Real World Problem Solving](Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+
 ###### 👉 Discrete Mathematics & TCS (Theoretical Computer Science)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 ↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
@@ -470,8 +656,8 @@ Computational mathematics is the study of [mathematical problems](https://en.wi
 ###### 👉 Operational Research & Optimization
 ↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 - ↗ [Decision Making & Game Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
-- ↗ [Mathematical Optimization](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Mathematical%20Optimization.md)
-	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
 ###### 👉 etc.
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#

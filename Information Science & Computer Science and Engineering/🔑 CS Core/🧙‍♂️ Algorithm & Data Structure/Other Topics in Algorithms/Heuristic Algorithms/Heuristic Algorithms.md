@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Metaheuristic & Heuristic](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization/Metaheuristic%20&%20Heuristic/Metaheuristic%20&%20Heuristic.md)
+↗ [Metaheuristic & Heuristic](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Metaheuristic%20&%20Heuristic/Metaheuristic%20&%20Heuristic.md)
 
 
 

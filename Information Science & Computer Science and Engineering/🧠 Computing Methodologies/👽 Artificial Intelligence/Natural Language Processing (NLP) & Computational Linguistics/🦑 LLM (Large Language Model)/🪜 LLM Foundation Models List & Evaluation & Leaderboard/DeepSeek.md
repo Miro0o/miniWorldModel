@@ -29,3 +29,4 @@ DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models
 
 
 ## Ref
+[🎬 DeepSeek的论文为什么要引入流形？什么是流形上的优化]:  https://www.bilibili.com/video/BV1TxisBuEjh/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

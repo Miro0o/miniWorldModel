@@ -55,9 +55,9 @@ The Model Context Protocol includes the following projects:
 ### Participants
 ![MCP.excalidraw | 800](../../../../../../../../Assets/Illustrations/AI%20&%20LLM/MCP.excalidraw.md)
 #### MCP Hosts (LLM Applications)
-↗ [Claude Desktop](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Claude%20Desktop.md)
-↗ [Cursor](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Cursor.md)
-↗ [Github Copilot](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20Tools%20&%20Platform/AI%20Powered%20IDE%20&%20Vibe%20Coding/Github%20Copilot.md)
+↗ [Claude Code](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Claude%20Code.md)
+↗ [Cursor](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Cursor.md)
+↗ [Github Copilot](../../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Github%20Copilot.md)
 #### MCP Servers
 > 🔗 https://modelcontextprotocol.io/docs/learn/server-concepts
 
