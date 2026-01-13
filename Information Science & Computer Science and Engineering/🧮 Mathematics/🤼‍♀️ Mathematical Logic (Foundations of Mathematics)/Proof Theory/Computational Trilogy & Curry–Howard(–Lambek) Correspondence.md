@@ -1,4 +1,4 @@
-# Curry–Howard(–Lambek) Correspondence
+# Computational Trilogy & Curry–Howard(–Lambek) Correspondence
 
 [TOC]
 
@@ -18,7 +18,7 @@
 - ↗ [Lambda Calculus (λ-Calculus)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Category Theory (范畴论)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-↗ [Type Theory (类型论)](../😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
 
 ### Other Resources
@@ -34,6 +34,15 @@
 - [语言背后的代数学（九）：笛卡尔闭范畴](https://thzt.github.io/2018/02/19/semantics-9/)
 - [语言背后的代数学（十）：Curry-Howard-Lambek correspondance](https://thzt.github.io/2018/02/23/semantics-10/)
 
+📄 https://ncatlab.org/nlab/show/computational+trilogy
+A profound cross-disciplinary insight has emerged – starting in the late 1970s, with core refinements in recent years – observing that three superficially different-looking fields of [mathematics](https://ncatlab.org/nlab/show/mathematics),
+- [computation](https://ncatlab.org/nlab/show/computation)/[programming languages](https://ncatlab.org/nlab/show/programming+languages)
+- [formal logic](https://ncatlab.org/nlab/show/formal+logic)/[type theory](https://ncatlab.org/nlab/show/type+theory)
+- [∞-](https://ncatlab.org/nlab/show/%28%E2%88%9E%2C1%29-category)[category theory](https://ncatlab.org/nlab/show/category+theory)/[∞-](https://ncatlab.org/nlab/show/%28%E2%88%9E%2C1%29-topos)[topos theory](https://ncatlab.org/nlab/show/topos+theory) ([algebraic topology](https://ncatlab.org/nlab/show/algebraic+topology))
+are but three different perspectives on a single underlying phenomenon at the [foundations of mathematics](https://ncatlab.org/nlab/show/foundations+of+mathematics): computation, logic, and space.
+
+📄 https://seniormars.com/posts/trilogy/
+
 
 
 ## Intro
@@ -42,6 +51,37 @@
 In [programming language theory](https://en.wikipedia.org/wiki/Programming_language_theory "Programming language theory") and [proof theory](https://en.wikipedia.org/wiki/Proof_theory "Proof theory"), the **Curry–Howard correspondence** is the direct relationship between [computer programs](https://en.wikipedia.org/wiki/Computer_program "Computer program") and [mathematical proofs](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof"). It is also known as the **Curry–Howard isomorphism** or **equivalence**, or the **proofs-as-programs** and **propositions-** or **formulae-as-types interpretation**.
 
 It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/Analogy "Analogy") between systems of formal logic and computational calculi that was first discovered by the American [mathematician](https://en.wikipedia.org/wiki/Mathematician "Mathematician") [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry "Haskell Curry") and the [logician](https://en.wikipedia.org/wiki/Logician "Logician") [William Alvin Howard](https://en.wikipedia.org/wiki/William_Alvin_Howard "William Alvin Howard"). It is the link between logic and computation that is usually attributed to Curry and Howard, although the idea is related to the operational interpretation of [intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic "Intuitionistic logic") given in various formulations by [L. E. J. Brouwer](https://en.wikipedia.org/wiki/L._E._J._Brouwer "L. E. J. Brouwer"), [Arend Heyting](https://en.wikipedia.org/wiki/Arend_Heyting "Arend Heyting") and [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov "Andrey Kolmogorov") (see [Brouwer–Heyting–Kolmogorov interpretation](https://en.wikipedia.org/wiki/Brouwer%E2%80%93Heyting%E2%80%93Kolmogorov_interpretation "Brouwer–Heyting–Kolmogorov interpretation")) and [Stephen Kleene](https://en.wikipedia.org/wiki/Stephen_Kleene "Stephen Kleene") (see [Realizability](https://en.wikipedia.org/wiki/Realizability "Realizability")). The relationship has been extended to include [category theory](https://en.wikipedia.org/wiki/Category_theory "Category theory") as the three-way **Curry–Howard–Lambek correspondence**.
+
+
+### The Explanation of CHL Correspondence
+> 🔗 https://thzt.github.io/2018/02/23/semantics-10/
+
+本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
+
+![](../../../../Assets/Pics/Pasted%20image%2020260112182510.png)
+<small><a>https://seniormars.com/posts/trilogy/</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020260112182521.png)
+<small><a>https://seniormars.com/posts/trilogy/</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020260112182541.png)
+<small><a>https://seniormars.com/posts/trilogy/</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020260112182607.png)
+<small><a>https://seniormars.com/posts/trilogy/</a></small>
+
+
+### Physics Interpretation
+> 🔗 https://zt.dw.cash/book-foundation-of-phys-in-geo-and-info/volume05-metatheory-logic-computation-experimental-verification/part13-categorical-foundations-physics/chapter24-topos-physical-logic/24-03-curry-howard-lambek-correspondence-physics_en.html EN
+> 🔗 https://zt.dw.cash/book-foundation-of-phys-in-geo-and-info/volume05-metatheory-logic-computation-experimental-verification/part13-categorical-foundations-physics/chapter24-topos-physical-logic/24-03-curry-howard-lambek-correspondence-physics.html CN
+
+在 24.1 节和 24.2 节中，我们确立了物理系统的拓扑斯模型和直觉主义逻辑基础。这揭示了物理实在的**构造性（Constructivity）**：物理真理不是静态的 tautology，而是需要通过观测（操作）来建立的。
+
+本节将引入逻辑学、计算机科学与范畴论之间最深刻的同构关系——**柯里-霍华德-兰贝克（Curry-Howard-Lambek, CHL）对应**，并将其推广到物理学领域。我们将证明，物理学、逻辑学和计算理论在深层结构上是**三位一体**的。在 QCA 离散本体论中，**物理系统即类型（Type），物理状态即程序（Program），物理过程即证明（Proof）**。这一视角彻底消除了“物理定律“与“数学逻辑“之间的界限，将宇宙演化诠释为一个巨大的**类型推导与归约（Type Inference and Reduction）** 过程。
+
+
+### Philosophical Interpretation
+> 🔗 https://ncatlab.org/nlab/show/computational+trilogy
 
 
 
@@ -57,7 +97,7 @@ CH correspondence可以看作是[Brouwer–Heyting–Kolmogorov interpretation](
 
 上面说的是我对CH correspondence中的proofs as terms的直观理解。那么另一个PAT，即propositions as types又怎么理解呢？比如，如果将命题逻辑、高阶逻辑、各种模态逻辑分别看作不同粒度的知识表示方法，其中的陈述以不同粒度表达了语义，那么为什么这些陈述恰好有其类型对应物呢？对于这些问题，我暂时还没想明白……
 
-以上都是比较浅显的角度。事实上Curry-Howard correspondence的哲学内涵非常深刻，被认为揭示了数学、逻辑和编程本质上的统一，这称为计算三位一体主义，有兴趣可以看看下面的链接。
+以上都是比较浅显的角度。事实上Curry-Howard correspondence的哲学内涵非常深刻，被认为揭示了数学、逻辑和编程本质上的统一，这称为计算三位一体主义，有兴趣可以看看下面的链接：https://ncatlab.org/nlab/show/computational+trilogy
 
 摘录其中很有意思的一段话：“**基督教三位一体的教义指出，有一个神，显现在三个位格中，圣父、圣子和圣灵，他们共同构成了三位一体。计算三位一体主义认为计算以三种形式表现出来:命题的证明、类型的程序和结构之间的映射。这三个方面产生了三种崇拜:逻辑学，它把证明和命题放在首位;语言，把程序和类型放在首位;范畴，它优先考虑映射和结构。计算三位一体主义的中心教条认为，逻辑、语言和范畴只是一个神圣的计算概念的三种表现形式。**”
 

@@ -211,6 +211,13 @@ From the same principles, I now demonstrate the frame of the System of the World
 
 总结：宇宙的存在=宇宙的运动，运动可以由形如 $A\overset{C}{\to} B$ 来刻画，故，宇宙也可以由该模型来刻画。因此，事实上，一切事物都可以用 $A\overset{C}{\to} B$ 来表示。
 
+这个公式的深刻性：
+- 知识之间的相通，或者说人类的思维 /（信息）宇宙的相通。这种相通是存在于信息维度中的。
+	- ↗ [Category Theory (范畴论)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+- 进一步，当 $B$ 与 $A$ 相等， $A\overset{C}{\to} A$，即出现了自我指代 /递归。
+	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
 > 我真的非常喜欢这个公式和它对宇宙的解释。对我来说，这个解释比很多其他类似的哲学思想要更加简单，更加明确，更加深刻。我写的这一整篇笔记大部分都是在解释这个公式，这个公式就是自我意识对宇宙的反映，也是自我意识本身存在的表现（我思故我在）。除此之外，我写的整个这一个笔记，就是这样一个思维导图 /知识网络，也是$A\overset{C}{\to} B$ 的模型。
 > 
 > - 马克思主义哲学唯物辩证法：事物是永恒发展和普遍联系的；（前文讲过了）

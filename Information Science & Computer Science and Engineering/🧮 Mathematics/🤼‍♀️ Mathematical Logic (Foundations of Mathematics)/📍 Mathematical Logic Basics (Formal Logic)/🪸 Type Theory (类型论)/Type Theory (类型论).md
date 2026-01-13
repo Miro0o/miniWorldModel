@@ -6,16 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
-↗ [Higher-Order Logic (HOL)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
-- ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
 ↗ [Type Analysis](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 
 ↗ [Category Theory (范畴论)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 
 ### Other Resources
@@ -46,6 +44,53 @@ https://plato.stanford.edu/entries/type-theory/
 - [你好，类型（九）：Let polymorphism](https://thzt.github.io/2017/10/14/type-9/)
 - [你好，类型（十）：Parametric polymorphism](https://thzt.github.io/2017/10/21/type-10/)
 
+https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Comp%20Sci%20Math/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press%282002%29.pdf
+Types and Programming Languages by Benjamin C. Pierce  | The MIT Press© 2002(623 pages)
+This thorough type-systems reference examines theory, pragmatics, implementation, and more.
+
+Table of Contents
+- Chapter 1 - Introduction
+- Chapter 2 - Mathematical Preliminaries
+- Part I- Untyped Systems
+	- Chapter 3 - Untyped Arithmetic Expressions
+	- Chapter 4 - An ML Implementation of Arithmetic Expressions
+	- Chapter 5 - The Untyped Lambda-Calculus
+	- Chapter 6 - Nameless Representation of Terms
+	- Chapter 7 - An ML Implementation of the Lambda-Calculus
+- Part II- Simple Types
+	- Chapter 8 - Typed Arithmetic Expressions
+	- Chapter 9 - Simply Typed Lambda-Calculus
+	- Chapter 10 - An ML Implementation of Simple Types
+	- Chapter 11 - Simple Extensions
+	- Chapter 12 - Normalization
+	- Chapter 13 - References
+	- Chapter 14 - Exceptions
+- Part III - Subtyping
+	- Chapter 15 - Subtyping
+	- Chapter 16 - Metatheory of Subtyping
+	- Chapter 17 - An ML Implementation of Subtyping
+	- Chapter 18 - Case Study: Imperative Objects
+	- Chapter 19 - Case Study: Featherweight Java
+- Part IV- Recursive Types
+	- Chapter 20 - Recursive Types
+	- Chapter 21 - Metatheory of Recursive Types
+- Part V- Polymorphism
+	- Chapter 22 - Type Reconstruction
+	- Chapter 23 - Universal Types
+	- Chapter 24 - Existential Types
+	- Chapter 25 - An ML Implementation of System F
+	- Chapter 26 - Bounded Quantification
+	- Chapter 27 - Case Study: Imperative Objects, Redux
+	- Chapter 28 - Metatheory of Bounded Quantification
+- Part VI- Higher-Order Systems
+	- Chapter 29 - Type Operators and Kinding
+	- Chapter 30 - Higher-Order Polymorphism
+	- Chapter 31 - Higher-Order Subtyping
+	- Chapter 32 - Case Study: Purely Functional Objects
+- Part VII - Appendices
+	- Appendix A - Solutions to Selected Exercises
+	- Appendix B - Notational Conventions
+
 
 
 ## Intro
@@ -59,6 +104,19 @@ Some type theories serve as alternatives to [set theory](https://en.wikipedia.o
 
 Most [computerized proof-writing systems](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant") use a type theory for [their foundation](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence "Curry–Howard correspondence"). A common one is [Thierry Coquand](https://en.wikipedia.org/wiki/Thierry_Coquand "Thierry Coquand")'s [calculus of inductive constructions](https://en.wikipedia.org/wiki/Calculus_of_constructions "Calculus of constructions").
 
+> 🔗 https://thzt.github.io/2017/09/05/type-1/
+
+类型（type），是编程语言中一个经常被人们提及的概念，当我们看待一门编程语言的时候，言必谈之类型系统（type system）。
+它到底是显式类型的（explicit typing），还是隐式类型的（implicit typing），是静态类型的（static typing），还是动态类型的（dynamic typing），类型检查（type check）是较强的（stronger），还是较弱的（weaker）。
+
+它是否支持高阶类型（high-order type），是否支持递归类型（recursive type），是否支持子类型（subtype），是否支持多态（polymorphism）。然而，我发现理解它们并不容易，我们欠缺最基本的数理逻辑和证明论相关的知识。
+
+类型系统，可以看做是附着在语言语法之上的一套符号证明系统。
+
+>In programming languages, a type system is a set of rules that assigns a property called type to the various constructs of a computer program, such as variables, expressions, functions or modules.
+
+给表达式确定类型的过程，相当于对程序应该具备的属性做形式证明，
+
 
 ### History of Type Theory
 > 🔗 https://en.wikipedia.org/wiki/History_of_type_theory
@@ -66,6 +124,10 @@ Most [computerized proof-writing systems](https://en.wikipedia.org/wiki/Proof_a
 The [type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory") was initially created to avoid paradoxes in a variety of formal [logics](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [rewrite systems](https://en.wikipedia.org/wiki/Rewrite_system "Rewrite system"). Later, type theory referred to a class of [formal systems](https://en.wikipedia.org/wiki/Formal_systems "Formal systems"), some of which can serve as alternatives to [naive set theory](https://en.wikipedia.org/wiki/Naive_set_theory "Naive set theory") as a foundation for all mathematics.
 
 It has been tied to formal mathematics since _[Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica "Principia Mathematica")_ to today's [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant").
+
+
+### Type Systems for Lambda Calculus
+↗ [Lambda Calculus (λ-Calculus)](../Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 
 

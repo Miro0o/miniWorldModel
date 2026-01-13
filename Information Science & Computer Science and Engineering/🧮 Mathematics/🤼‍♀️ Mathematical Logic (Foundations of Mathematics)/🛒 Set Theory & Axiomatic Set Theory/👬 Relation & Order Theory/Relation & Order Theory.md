@@ -47,11 +47,16 @@ Sometimes describing predicates with sets instead of functions is more convenien
 ![](../../../../../Assets/Pics/Screenshot%202025-09-15%20at%2020.04.36.png)
 #### Binary Relation
 
-
 #### Special Types of (Binary) Relation
 > 📖 离散数学，四川大学计算机学院
 
 等价关系和偏序关系是两类在实践问题中有着重要意义的二元关系，同时也在计算机科学中有着极其重要的应用。
+
+等价关系是同时具有自反性，对称性和传递性的关系。
+偏序关系是具有自反性，反对称性和传递性的关系。
+
+等价关系的一个例子就是相等性，相等性关系$R(a,b)$当且仅当$a,b$是同一个元素。
+偏序关系，例如通常的序关系$R⊆N×N$，$R(a,b)$当且仅当$a⩽b$。
 ##### Equivalence Relation
 ↗ [Equivalence Relation](Equivalence%20Relation.md)
 
@@ -68,6 +73,11 @@ A special type of binary relation, called an **equivalence relation**, captures 
 Partial Order & Lattice
 Total Order
 Well Order
+
+A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a set of elements $L$ with an (partially) ordering relationship $\sqsubseteq$ on it, that uphold: $$\begin{aligned} & \forall a. \ a\sqsubseteq a & \text{reflexive} \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq a\implies a=b & \text{anti-symetric} \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq c\implies a\sqsubseteq c & \text{transitive}
+\end{aligned}$$
 ##### Function
 > 📖 离散数学，四川大学计算机学院
 

@@ -6,8 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Limits & Continuity of Functions](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
-
+↗ [Function & Mapping of Set](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 

@@ -69,6 +69,7 @@ Christian Gram Kalhauge | DTU
 
 
 ### Program and Program Analysis
+> [!links]
 > ↗ [Math History & Development /Foundational Crisis of Mathematics](../../../../../🧮%20Mathematics/Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 > 
@@ -87,6 +88,7 @@ However, they quickly ran into a problem: how can we prove that these programs�
 **What is a Program?**
 To talk about program analysis, we first have to define what we mean when we say _program_. A program in the context of this course is going to be a **_structured object_** that exhibit some _behavior_ when executed.
 
+> [!DEF]
 > **Definition 1**: Program (↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
 > 
 > There are several definitions of program. 
@@ -106,6 +108,7 @@ In summary, program analysis is
 
 For simple languages, it is relatively easy to figure out what they do. For example, `1 + 2` will always execute to `3`. But, program analysis, in general, is extremely hard.
 
+> [!quote]
 > 🔗 https://en.wikipedia.org/wiki/Decidability_(logic)
 > 🔗 https://en.wikipedia.org/wiki/Program_analysis
 > 
@@ -143,15 +146,19 @@ Program Understanding
 
 
 ### Evaluation of Program Analysis
+> [!links]
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
 > ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System)
 #### (Un)Decidability of Program Analysis
+> [!links]
+> ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 > ↗ [Church–Turing Thesis (Computability Thesis)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.3
 
 **A Turing-Complete Mess**
-https://en.wikipedia.org/wiki/Turing_completeness
+🔗 https://en.wikipedia.org/wiki/Turing_completeness
 
 We are going to focus most our energy on programs from languages that are _Turing complete_. Turing complete languages are languages in which you can write any program executable on a machine. This class of programs is also what you are mostly familiar with. Java, C, Python, etc ., are all Turing complete languages. Even [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) and [PowerPoint](https://www.youtube.com/watch?v=_3loq22TxSc) are Turing complete.
 
@@ -166,10 +173,14 @@ So it would be nice be warned if any of these things might happen. However, that
 
 ---
 **The Halting problem**
-https://en.wikipedia.org/wiki/Halting_problem
+
+> [!links]
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> 🔗 https://en.wikipedia.org/wiki/Halting_problem
 
 Consider the base of all analysis problems, the halting problem:
 
+> [!DEF]
 > **Definition 2**: The Halting Problem
 > Given **any** program $p \in L$ from the language $L$, decide if it is going to terminate (halt) when executed on a state $s$.
 
@@ -197,6 +208,7 @@ This is a weird program: We can see that if `main` halts, it runs forever, and
 
 We could hope that the problem that we can't figure out if a program terminates or not is special and does not affect any of the other things we would like to know about the program. But, sadly this is not the case. **Almost any interesting thing you would like to know about the behavior of the program can be _reduced_ to the halting problem.** This fact is called **_Rice's theorem_**.
 
+> [!TIP]
 > 🔗 [Rice's Theorem | wikipedia](https://en.wikipedia.org/wiki/Rice's_theorem)
 > 
 > In [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"), **Rice's theorem** states that all non-trivial semantic properties of programs are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem "Undecidable problem"). A _semantic_ property is one about the program's behavior (for instance, "does the program [terminate](https://en.wikipedia.org/wiki/Halting_problem "Halting problem") for all inputs?"), unlike a syntactic property (for instance, "does the program contain an [if-then-else](https://en.wikipedia.org/wiki/If-then-else "If-then-else") statement?"). A _non-trivial_ property is one which is neither true for every program, nor false for every program.
@@ -215,6 +227,7 @@ def main():
 
 However, all hope is not lost! Although it's mathematically impossible to make a **perfect** program analysis, one can still make it a **useful** program analysis.
 #### Soundness, Truth, and Completeness
+> [!links]
 > ↗  [Logic (and Critical Thinking)](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
 > ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Soundness%20&%20Completeness)
 
@@ -224,6 +237,7 @@ In most cases, you either care that something _may_ happen, or that it _must_
 
 These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
 
+> [!DEF]
 > **Definition 3**: Soundness
 > In a sound system, we can only prove true things.
 > - if we can prove $\Phi$ given $\Sigma$
@@ -232,6 +246,7 @@ These kinds of analyses allows us to error one of the sides. Here we steal some 
 > 	- i.e. $(\Sigma \models Φ)$
 > - i.e. $\Sigma \vdash \Phi \implies \Sigma \models \Phi$
 
+> [!DEF]
 > **Definition 4**: Completeness
 > In a complete system, we can prove all true things. 
 > - if $\Phi$ is **true** given $\Sigma$

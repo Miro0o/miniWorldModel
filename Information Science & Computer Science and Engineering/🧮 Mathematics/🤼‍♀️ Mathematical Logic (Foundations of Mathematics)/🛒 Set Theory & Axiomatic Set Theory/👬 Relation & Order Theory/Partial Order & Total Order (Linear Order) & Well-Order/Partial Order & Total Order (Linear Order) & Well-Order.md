@@ -12,13 +12,16 @@
 ## Intro
 ### Total Order & Totally Ordered Sets (Tosets)
 
+#### Well Order
+##### Well-Ordering/ Zermelo Theorem
+
 
 ### Partial Order & Partially Ordered Sets (Posets)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.2
 
-A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a set of elements $L$ with an (partially) ordering relationship $\sqsubseteq$ on it, that uphold: $$\begin{aligned} & \forall a. \ a\sqsubseteq a & reflexive \\
-& ∀a. \ a\sqsubseteq b\land b\sqsubseteq a\implies a=b & antisymetric \\
-& ∀a. \ a\sqsubseteq b\land b\sqsubseteq c\implies a\sqsubseteq c & transitive
+A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a set of elements $L$ with an (partially) ordering relationship $\sqsubseteq$ on it, that uphold: $$\begin{aligned} & \forall a. \ a\sqsubseteq a & \text{reflexive} \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq a\implies a=b & \text{anti-symetric} \\
+& ∀a. \ a\sqsubseteq b\land b\sqsubseteq c\implies a\sqsubseteq c & \text{transitive}
 \end{aligned}$$
 Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other direction $(ℤ,≥)$), the booleans $(\{𝚝𝚝,𝚏𝚏\},\implies)$, and the set of Sign′s $(2^{Sign},\subseteq)$.
 - We can draw the diagram of a poset. Below is the so called **Hasse Diagram** of poset $(2^{\text{\{A, B, C\}}}, \subseteq)$:
@@ -45,6 +48,27 @@ Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other 
 关于上下界的两个特性：
 1. ==不是所有的poset都有lub或glb。== (所以，不是所有的偏序集可以称之为格)
 2. 如果一个poset有lub或glb，它一定是唯一的。这一点可以借助偏序关系的antisymmetry特点证明。
+#### Complete Partial Order (CPO)
+> 🔗 https://thzt.github.io/2018/02/09/semantics-7/
+
+**有向子集（Directed Subset）**
+偏序集 $(D, \leqslant)$ 的非空子集 $S \subseteq D$ 叫做**有向子集**，当且仅当，对于 $S$ 中的任意元素 $a, b \in S$，存在 $S$ 中的一个元素 $c$，使得 $a \leqslant c$ 且 $b \leqslant c$。
+
+定义
+1. **有向完全偏序集**：如果一个偏序集 $(D, \leqslant)$ 的每个有向子集 $S \subseteq D$ 都有上确界（记为 $\bigvee S$），就称它是一个**有向完全偏序集**。
+2. **完全偏序集**：此外，如果它还有最小元，就称它是一个**完全偏序集**。
+
+> [!IMPORTANT] 注意
+> 完全偏序集并不是每一个子集都有上确界，而是它的每一个**有向子集**都有上确界。
+##### Continuous Functions
+**连续函数 (Continuous Functions)**
+假设 $(D, \leqslant)$ 与 $(E, \leqslant)$ 是完全偏序集，$f : D \to E$ 是集合上定义的一个函数。
+
+单调性 (Monotonicity)
+- 对于任意的 $d, d' \in D$，如果 $d \leqslant d'$ 就有 $f(d) \leqslant f(d')$，我们就说 $f$ 是**单调的**。
+
+连续性 (Continuity)
+- 如果 $f$ 是单调的，且对于任意有向子集 $S \subseteq D$，有：$f(\bigvee S) = \bigvee f(S)$，就称 $f$ 是**连续的**。
 #### Lattice (Poset Structure)
 > ↗ [Lattice (Set Theory)](Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
@@ -58,11 +82,6 @@ Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$�
 & \top\lfloor\rfloor a = \top \\
 & a \lceil\rceil\bot = \bot
 \end{aligned}$$
-#### Complete Partial Order (CPO)
-
-
-### Well Order
-#### Well-Ordering/ Zermelo Theorem
 
 
 

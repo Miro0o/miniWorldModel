@@ -248,13 +248,33 @@ After we have defined various objects and notions, we usually make **mathematica
 ##### Proof by Contradiction (反证法，归谬法)
 
 ##### Proof by Induction (归纳法)
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_induction
 
-##### Proof by Deduction (演绎法) ⭐
+**Mathematical induction** is a method for [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") that a statement $P(n)$ is true for every [natural number](https://en.wikipedia.org/wiki/Natural_number "Natural number") $n$, that is, that the infinitely many cases $\displaystyle P(0),P(1),P(2),P(3),\dots$  all hold. This is done by first proving a simple case, then also showing that if we assume the claim is true for a given case, then the next case is also true. Informal metaphors help to explain this technique, such as falling dominoes or climbing a ladder:
+
+> [!quote]
+> Mathematical induction proves that we can climb as high as we like on a ladder, by proving that we can climb onto the bottom rung (the **basis**) and that from each rung we can climb up to the next one (the **step**).
+> — _[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics "Concrete Mathematics")_, page 3 margins.
+
+A **proof by induction** consists of two cases. The first, the **base case**, proves the statement for $n=0$ without assuming any knowledge of other cases. The second case, the **induction step**, proves that _if_ the statement holds for any given case $n=k$, _then_ it must also hold for the next case $n=k+1$. These two steps establish that the statement holds for every natural number $n$. The base case does not necessarily begin with $n=0$, but often with $n=1$, and possibly with any fixed natural number $n=N$, establishing the truth of the statement for all natural numbers $n≥N$.
+
+The method can be extended to prove statements about more general [well-founded](https://en.wikipedia.org/wiki/Well-founded "Well-founded") structures, such as [trees](https://en.wikipedia.org/wiki/Tree_\(set_theory\) "Tree (set theory)"); this generalization, known as [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction"), is used in [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). Mathematical induction in this extended sense is closely related to [recursion](https://en.wikipedia.org/wiki/Recursion "Recursion"). Mathematical induction is an [inference rule](https://en.wikipedia.org/wiki/Inference_rule "Inference rule") used in [formal proofs](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"), and is the foundation of most [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") proofs for computer programs.
+
+==Despite its name, mathematical induction differs fundamentally from [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") as [used in philosophy](https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction")==, in which the examination of many cases results in a probable conclusion. The mathematical method examines infinitely many cases to prove a general statement, but it does so by a finite chain of [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") involving the [variable](https://en.wikipedia.org/wiki/Variable_\(mathematics\) "Variable (mathematics)") $n$, which can take infinitely many values. The result is a rigorous proof of the statement, not an assertion of its probability.
+###### Natural Number Induction
+↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+###### Well-Founded Induction
+↗ [Partial Order & Total Order (Linear Order) & Well-Order](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+##### Proof by Deduction (演绎法) & Deductive Reasoning ⭐
 ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 
-↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+↗ [Logic And Mechanized (Formal) Reasoning](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
 -  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
@@ -381,6 +401,13 @@ n := '-' | '-' n
 #formal_system #axiomatic_system 
 
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+
+formal system: symbols + deduction rules.
+- only syntax level
+
+axiomatic system: formal system + mathematical semantics
+- syntax + semantics
+
 ###### What about formal languages? formal logics and programming languages?
 #formal_language #formal_logic #programming_languages
 
@@ -441,15 +468,15 @@ n := '-' | '-' n
 - 设集合$M$上定义了一组运算，$a_1, a_2, ⋯ ,a_n$
 - 运算结果仍是$M$中的元素，则称$M$相对于这$n$个运算，构成了一个**代数**。
 
-> 一般来说，代数问题的特点，
-> 是对一类问题，利用统一的运算性质，求出所有可能的解答。
+> [!TIP]
+> 一般来说，代数问题的特点，是对一类问题，利用统一的运算性质，求出所有可能的解答。
 
 ==因此，代数学就是研究**运算系统性质**的学问。==
 而Peano系统，是最简单的运算系统之一，又称为[一阶算术系统](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86)。自然数就是这个系统中的运算对象。(因此，小学数学也称为“算术”。)
 
-我们的整体思路是，首先用公理化的方式建立一个形式系统，然后为这个形式系统选择一种数学解释作为它的语义，这样就建立了符号和数学对象之间的对应关系。一般的，这些数学对象需要具有不同的运算性质，有不同的结构，因此构成了不同的代数。
+我们的整体思路是，首先用公理化的方式建立一个形式系统，然后为这个形式系统选择一种数学解释作为它的语义，这样就**建立了符号和数学对象之间的对应关系**。一般的，这些数学对象需要具有不同的运算性质，有不同的结构，因此构成了不同的代数。
 
-随着代数学的发展，人们发明了许多运算系统，例如，整数的加减法，有理数的四则运算，实数的根式或指数运算，等等。它们都有现实的对应物，**仿佛**数学的研究对象就是现实世界一样。
+随着代数学的发展，人们发明了许多运算系统，例如，整数的加减法，有理数的四则运算，实数的根式或指数运算，等等。它们都有现实的对应物，仿佛数学的研究对象就是现实世界一样。
 
 然而，实际上并非如此。
 
@@ -461,22 +488,41 @@ n := '-' | '-' n
 例如，计算机系统中的无符号数，连同加法运算，构成了一个阿贝尔群。而阿贝尔群中的加法，满足交换律和结合律，因此，编译器就可以采用任意的顺序进行计算，不影响最终结果。
 
 从运算性质的角度来分析问题，越来越流行了，成为了现代数学不可或缺的一部分，并且，代数学考虑问题的方法，也逐渐影响着其他学科。
-###### Formal Logics: Symbols, Syntax, and Semantics
+###### 🤔 Formal Logics: Symbols, Syntax, and Semantics
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
-###### Simply Typed Lambda Calculus: Syntax and Semantics
+- ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
+	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+	- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+
+> 🔗 https://thzt.github.io/2017/09/10/type-4/
+> 🔗 https://thzt.github.io/2017/09/15/hilbert-style-and-gentzen-style-deduction-system/
+
+本文介绍了命题逻辑，以及与之相关的两个形式系统P和N，和$λ_β$​​，$CL_w$​​一样，我们采用了公理化的方式构建它们，这样得到的形式系统，只是符号演算，还没有被赋予特定的语义，下文我们开始介绍一阶谓词逻辑。
+
+> 🔗 https://thzt.github.io/2017/09/16/type-5/
+
+从形式系统的角度来看，一阶谓词逻辑，只是比命题逻辑多添加了一些公理，或者多添加了一些推导规则，然而，这样的举动，却会让形式系统截然不同。
+
+欧几里得第五公设，是一个公理，无法由前四个公设推导证明，在原来的欧氏几何中去掉它，然后添加上不同的第五公设，就变成了不同的几何，黎曼几何与闵可夫斯基几何。
+
+因此，不同的公理和推导规则，构成了不同的形式系统，哪怕是有很小的变化。本文我们来扩充前一篇中提到的，命题逻辑形式系统P，以及，命题逻辑的自然演绎系统N。
+
+本文介绍了两种风格的一阶谓词逻辑演算系统，其中$K​_\mathcal{L}$​​是Hilbert-style演绎系统，$N_\mathcal{L}$​​是Gentzen-style自然演绎系统，可以证明它们是等价的。
+###### 🤔 Simply Typed Lambda Calculus: Syntax and Semantics
 > [!links]
-> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 > ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 > ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
-一般有两种通用的方法，来给出简单类型化$λ$演算$λ^→$​​的语义，一种是**Henkin模型**，另一种是笛卡尔闭范畴。
-
-**Syntax** 
+简单类型化$λ$演算$λ^→$的语法：(Syntax)
+- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - 🔗 https://thzt.github.io/2017/09/19/type-6/
 
-**Semantics**
+简单类型化$λ$演算$λ^→$​​的语义：(Semantics)
+- 一般有两种通用的方法，一种是**Henkin模型**，另一种是笛卡尔闭范畴。
+- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
 	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)

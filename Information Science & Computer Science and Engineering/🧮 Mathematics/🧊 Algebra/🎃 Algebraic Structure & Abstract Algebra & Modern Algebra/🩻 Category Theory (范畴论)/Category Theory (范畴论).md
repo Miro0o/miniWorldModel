@@ -9,9 +9,9 @@
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Algebraic Topology](../../../Topology/Algebraic%20Topology/Algebraic%20Topology.md)
 
-↗ [Type Theory (类型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Curry–Howard(–Lambek) Correspondence](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
 ↗ [Algebraic Graph Theory](../../../Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
@@ -40,11 +40,25 @@
 > ↗ [Mathematics /👉 Structure（结构）](../../../Mathematics.md#👉%20Structure（结构）)
 > 🔗 https://thzt.github.io/2018/02/09/semantics-7/
 
-范畴论的研究数学结构的形式化方法，它不考虑具体的数学对象，而是考虑数学对象以及它们之间的联系。学习范畴论最好的办法，我认为不宜马上从抽象的概念开始，而是先回到具体的例子上面，找到相似性，**理解概念被发明的动机**。因此，我们要先理解什么是**数学结构**。
+范畴论的研究数学结构的形式化方法，它不考虑具体的数学对象，而是考虑数学对象以及它们之间的联系。
+
+学习范畴论最好的办法，我认为不宜马上从抽象的概念开始，而是先回到具体的例子上面，找到相似性，**理解概念被发明的动机**。
+
+因此，我们要先理解什么是**数学结构**。后文中，我们会首先介绍最常被提及的群结构，然后再介绍拓扑空间和CPO（完全偏序）。有了这些例子之后，对抽象概念的理解是事半功倍的。
+- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+	- ↗ [Group Theory & Group-Like Algebraic Structure](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
+- ↗ [Topology](../../../Topology/Topology.md)
+	- ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
+- ↗ [Relation & Order Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+	- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+
+我们又重新回顾了完全偏序这一概念，实际上，任意一个CPO（完全偏序），都构成了一个范畴，而所有的群，也构成了一个范畴。==群范畴的对象是集合，而CPO（完全偏序）范畴的对象不一定是集合。== 这对摆脱集合论来理解范畴是很关键的。
+
+范畴的对象不一定是集合，所有的箭头也不一定构成一个集合。如果一个范畴$C$，它的对象都是集合，所有的箭头也构成了一个集合，就称该范畴是一个小范畴（[small categories]）。
 
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
 
-上文中，我们用群，拓扑空间，CPO作为例子，来说明什么是数学结构，以及数学结构是如何通过映射来保持的。群同态保持了群结构，连续映射保持了拓扑结构，连续函数保持了完全偏序结构。那么群结构与拓扑结构之间是否有联系呢？我们能否建立拓扑空间与群之间的对应关系呢？
+上文中，我们用群，拓扑空间，CPO作为例子，来说明什么是数学结构，以及数学结构是如何通过映射来保持的。==群同态保持了群结构，连续映射保持了拓扑结构，连续函数保持了完全偏序结构。== 那么群结构与拓扑结构之间是否有联系呢？我们能否建立拓扑空间与群之间的对应关系呢？
 
 在代数拓扑中，就存在这样的例子，人们找到了和拓扑空间相关的群论概念，例如基本群和同调群，拓扑空间的连续映射可以导出这些群的群同态。这就为了人们使用代数学方法研究其他数学分支，奠定了基础，实际上，最原始的范畴论想法也是起源于此。
 
@@ -65,6 +79,38 @@ The second fundamental concept of category theory is the concept of a [functor]
 
 
 ### Diagram Representation
+> 🔗 https://thzt.github.io/2018/02/11/semantics-8/
+
+**幺半群 (Monoid) 的图示表示法**
+在之前的内容中，我们学习过**幺半群**，它指的是一个集合 $M$ 以及 $M$ 上的二元运算 $\cdot$，满足以下两个条件：
+1. $\forall x, y, z \in M, (x \cdot y) \cdot z = x \cdot (y \cdot z)$
+2. $\exists e \in M, \forall x \in M, x \cdot e = e \cdot x = x$
+
+这两个条件除了可以用等式来表示，还可以用**图 (diagram)** 来表示：
+![](../../../../../Assets/Pics/Pasted%20image%2020260112172833.png)
+
+我们称以上两张图都是**可交换的 (commutative)**，即：沿不同的路径进行运算，只要起点和终点相同，则运算的结果就相同。
+* **结合律的图示含义**：
+    $<x, y, z> \mapsto <x, yz> \mapsto x(yz)$ 总是等于 $<x, y, z> \mapsto <xy, z> \mapsto (xy)z$。
+    即 $x(yz) = (xy)z$，表明 $M$ 中元素的运算满足结合律。
+* **单位元 (幺元) 的图示含义**：
+    $<0, x> \mapsto <e, x> \mapsto ex$ 总是等于 $<0, x> \mapsto x$，即 $ex = x$。
+    $<x, 0> \mapsto <x, e> \mapsto xe$ 总是等于 $<x, 0> \mapsto x$，即 $xe = x$。
+    因此，$ex = x = xe$，表明 $M$ 中存在幺元 $e$。
+
+所以，我们可以用以上两个图表，作为幺半群的定义，称为**图示法**。
+
+
+**图示法的更一般形式**
+在集合论中讨论映射时，一般不写具体元素，还可以表示为：
+![](../../../../../Assets/Pics/Pasted%20image%2020260112173003.png)
+
+其中：
+* $\mu: M \times M \to M$ 是乘法运算函数。
+* $\eta: 1 \to M$ 是选取单位元的函数。
+* $1 = \{0\}$ 是只有一个元素的集合。
+
+用图示法来表示幺半群，具有更强的**一般性**。
 
 
 ### Categories (范畴), Objects (对象), and Morphism (态射)
@@ -167,11 +213,72 @@ Universal constructions often give rise to pairs of [adjoint functors](https://
 
 范畴到自身的函子，称为**自函子**（endofunctor）。
 
+**自函子与自然变换**
+设 $T : X \to X$ 是任意范畴 $X$ 上的**自函子** (Endofunctor)。自函子复合之后仍为自函子：
+* $T^2 = T \circ T : X \to X$
+* $T^3 = T^2 \circ T : X \to X$
+
+
+**自然变换的定义**
+令 $\mu : T^2 \to T$ 是一个**自然变换**，其分量为：
+$$\mu_x : T^2x \to Tx, \quad \forall x \in X$$
+则使用 $\mu$ 可以定义另外两个自然变换：
+1. **$T\mu : T^3 \to T^2$**
+   其分量为：$(T\mu)_x = T(\mu_x) : T^3x \to T^2x$
+2. **$\mu T : T^3 \to T^2$**
+   其分量为：$(\mu T)_x = \mu_{Tx}$
+
+
 范畴$X$上的一个**Monad**，指的是三元组$⟨T,η,μ⟩$，它们使下图可交换：
 ![](../../../../../Assets/Pics/Pasted%20image%2020251011222544.png)
 其中，$T:X\to X$是范畴$X$上的自函子，$η:I_X\to T，μ:T^2→T$是两个自然变换。
-#### Monad on Hask Category
+
+值得注意的是，Monad与幺半群的图示法是相似的，只需要将幺半群定义中的$×$，改写成自函子的复合运算，把单位集合$1$，改写成单位自函子即可。
+
+因此，我们说Monad是自函子范畴上的一个幺半群。
+
+> All told, a monad in X is just a monoid in the category of endofunctors of X, with product x replaced by composition of endofunctors and unit set by the identity endofunctor.
+#### e.g. Monad on Hask Category
+> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
 > 🔗 https://thzt.github.io/2018/02/11/semantics-8/
+
+如果把Haskell语言中的类型作为对象，把类型之间的函数看做箭头，则在函数复合运算下，构成了一个范畴，称为**Hask范畴**。
+
+
+**Functor (函子)**
+Haskell 中类型类（type class）`Functor` 的每一个实例，定义了 Hask 范畴中的一个函子。
+```Haskell
+class Functor (f :: * -> *) where
+    fmap :: (a -> b) -> f a -> f b
+```
+
+`fmap` 表示了函子作用在箭头上的结果。作用在对象上，可以使用 `pure :: a -> f a` 来表示。
+
+在 Haskell 中，一个类型要成为 `Functor` 的实例，还要满足相应的 “Functor Law”：
+```Haskell
+fmap id = id
+fmap (f . g) = fmap f . fmap g
+```
+
+可以证明，这些 “Functor Law” 刚好使 `f`, `fmap` 和 `pure` 构成了范畴论意义上的函子。
+
+
+**Monad**
+Haskell 中类型类 `Monad` 的每一个实例，定义了 Hask 范畴中的一个 Monad。
+```Haskell
+class Functor m => Monad m where
+    return :: a -> m a
+    (>>=)  :: m a -> (a -> m b) -> m b
+```
+
+在 Haskell 中，一个类型要成为 `Monad` 的实例，还要满足相应的 “Monad Law”：
+```Haskell
+return a >>= k                 = k a
+m        >>= return            = m
+m        >>= (\x -> k x >>= h) = (m >>= k) >>= h
+```
+
+可以证明，这些 “Monad Law” 刚好使 `m`, `>>=` 和 `return` 构成了范畴论意义上的 Monad。
 
 
 

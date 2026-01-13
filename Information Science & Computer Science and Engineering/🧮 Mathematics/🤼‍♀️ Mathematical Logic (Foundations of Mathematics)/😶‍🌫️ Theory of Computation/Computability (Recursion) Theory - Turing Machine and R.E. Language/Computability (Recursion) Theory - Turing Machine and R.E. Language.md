@@ -6,9 +6,11 @@
 
 ## Res
 ### Related Topics
+↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 ↗ [Computer (Host) System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 ↗ [Computer Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 
+↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
@@ -16,18 +18,36 @@
 - ↗ [Program Execution (Runtime)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 - ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
+↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Number Sequence](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md#)
 - Recurrence Relation (递推关系) & Recursion (递归)
 - Generating Function (生成函数 /母函数)
 
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+
 
 ### Other Resources
+https://thzt.github.io/2017/02/24/recursive-function-1/
+- [递归函数（一）：开篇](http://thzt.github.io/2017/02/24/recursive-function-1/)
+- [递归函数（二）：编写递归函数的思路和技巧](http://thzt.github.io/2017/02/25/recursive-function-2/)
+- [递归函数（三）：归纳原理](http://thzt.github.io/2017/03/03/recursive-function-3/)
+- [递归函数（四）：全函数与计算的可终止性](http://thzt.github.io/2017/03/06/recursive-function-4/)
+- [递归函数（五）：递归集与递归可枚举集](http://thzt.github.io/2017/03/09/recursive-function-5/)
+- [递归函数（六）：最多有多少个程序](http://thzt.github.io/2017/03/10/recursive-function-6/)
+- [递归函数（七）：不动点算子](http://thzt.github.io/2017/03/14/recursive-function-7/)
+- [递归函数（八）：偏序结构](http://thzt.github.io/2017/03/20/recursive-function-8/)
+- [递归函数（九）：最小不动点定理](http://thzt.github.io/2017/03/21/recursive-function-9/)
 
 
 
 ## Intro
-> ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
-> turing test
+> [!links]
+> ↗ [The Development History of AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md) "turing test"
+> ↗ [Mathematics](../../../Mathematics.md) "proof by induction /well-founded induction"
 
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
@@ -44,7 +64,232 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 
 
 
+## Functions by Recursion Theory
+> [!links]
+> ↗ [Mathematics](../../../Mathematics.md) "proof by induction /well-founded induction"
+> ↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+> - ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+> 
+> ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Number Sequence](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
+
+> 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
+
+我们看到在程序中使用递归，可能会导致非终止性的计算，而有些递归又不会。
+这是为什么呢？
+
+我们可以从递归函数论（recursion theory /computability theory）中找到一些线索。==递归函数论是和图灵机以及$λ$演算相等价的计算模型，它从另一个角度刻画了可计算性。== 可计算性是一个有趣的话题，后续文章中，我们会详细讨论。
+
+==在递归函数论中，人们把函数划分为了3个层次：==
+- 原始递归函数，
+- 递归函数，
+- 和其他的不能用递归函数表示的“函数”。
+
+这些函数集合的范围越来越大。
+
+
+### Primitive Recursive Function
+> 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
+
+本文我们先介绍原始递归函数，为此，我们需要先定义两种运算。
+
+**(1) 合成运算**
+设 $f$ 是 $k$ 元部分函数，$g_1, g_2, \cdots, g_k$ 是 $k$ 个 $n$ 元部分函数，令：
+$$h(x_1, \cdots, x_n) = f(g_1(x_1, \cdots, x_n), \cdots, g_k(x_1, \cdots, x_n))$$
+则称 $h$ 是由 $f$ 和 $g_1, g_2, \cdots, g_k$ 经过合成运算得到的。
+
+
+**(2) 原始递归运算**
+设 $f$ 是一个 $n$ 元全函数，$g$ 是 $n + 2$ 元全函数，令：
+* $h(x_1, \cdots, x_n, 0) = f(x_1, \cdots, x_n)$
+* $h(x_1, \cdots, x_n, t + 1) = g(t, h(x_1, \cdots, x_n, t), x_1, \cdots, x_n)$
+
+则称 $h$ 是由 $f$ 和 $g$ 经过原始递归运算得到的。
+
+
+由此，我们可以定义**原始递归函数**。初始函数包括：
+1. **零函数**：$n(x) = 0$
+2. **后继函数**：$s(x) = x + 1$
+3. **投影函数**：$u_i^n(x_1, \cdots, x_n) = x_i, \quad 1 \leqslant i \leqslant n$
+则由初始函数经过有限次合成运算和原始递归运算得到的函数，称为**原始递归函数**。
+
+
+**原始递归函数的性质：**
+* **封闭性**：由原始递归函数经过合成或原始递归得到的函数仍为原始递归函数。因此，原始递归函数的集合在合成与原始递归运算下是封闭的。
+* **全函数性质**：每一个原始递归函数都是**全函数**。
+    * 这是因为合成运算虽然在部分函数上定义，但如果 $f$ 和 $g_1, \cdots, g_k$ 是全函数，那么 $h$ 也一定是全函数。
+    * 另一方面，在进行原始递归运算时，如果 $f$ 和 $g$ 是全函数，则 $h$ 也一定是全函数（由良基归纳法可证）。
+
+
+### Recursive Function ⭐
+#### Minimization Operator (μ Operator)
+> 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
+
+在前面一篇中，我们从三个初始函数出发，通过合成运算和原始递归运算，得到了原始递归函数集，递归函数集是相对于这两种运算封闭的。
+
+然而，这样定义的原始递归函数，并不能包括所有的数论函数，一个典型的例子就是，**阿克曼函数**（Ackermann function）：
+
+```haskell
+ackermann :: Int -> Int -> Int
+ackermann 0 x = x + 1
+ackermann k 0 = ackermann (k-1) 1
+ackermann k x = ackermann (k-1) $ ackermann k x-1
+```
+
+它并不是一个原始递归函数（证略），因此原始递归函数集并不足以表示计算机程序中的所有函数。
+
+为此，我们需要对原始递归函数集进行扩充，我们定义一个新的运算，称为**极小化运算**（Minimalization）：
+
+设 $P(x_1, \cdots, x_n, t)$ 是一个谓词，令： $$f(x_1, \cdots, x_n) = \mu t [P(x_1, \cdots, x_n, t)]$$
+$f(x_1, \cdots, x_n)$ 的值，是使得 $P(x_1, \cdots, x_n, t)$ 为真的最小 $t$ 值；或者无定义，此时不存在 $t$ 使得 $P(x_1, \cdots, x_n, t)$ 为真。这样通过 $\min$ 得到 $f(x_1, \cdots, x_n)$ 的过程称为极小化运算，也称部分函数 $f(x_1, \cdots, x_n)$ 是由谓词经过极小化运算得到的。
+
+以上我们给谓词定义了极小化运算，现在我们将极小化运算推广到一般的函数上面，设 $g(x_1, \cdots, x_n, t)$ 是一个 $n+1$ 元函数，令：$$f(x_1, \cdots, x_n) = \min \{t \mid g(x_1, \cdots, x_n, t) = 0\}$$
+则称部分函数 $f(x_1, \cdots, x_n)$ 是由函数 $g(x_1, \cdots, x_n, t)$ 经过极小化运算得到的。
+#### Recursive Functions
+> 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
+
+和定义原始递归函数集一样，我们从以下三个初始函数出发：
+1. **零函数**：$n(x) = 0$
+2. **后继函数**：$s(x) = x + 1$
+3. **投影函数**：$u_i^n(x_1, \cdots, x_n) = x_i, \quad 1 \leqslant i \leqslant n$
+由初始函数，经过有限次合成运算、原始递归运算，以及**极小化运算**，得到的函数称为**递归函数**。
+
+递归函数并不一定是全函数，因为极小化运算可能会导致结果函数在某些点无定义，递归的部分函数称为**部分递归函数**。
+
+可以证明阿克曼函数是递归函数，但不是原始递归函数。因此，原始递归函数集是递归函数集的真子集。
+
+> [!what's more]
+> 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
+> 以上几篇文章中，我们讨论了可计算性理论相关的一些内容，可计算性与递归函数论存在着千丝万缕的联系，不动点理论也是这样的，我们定义的递归函数一定存在吗？在什么情况下它是存在的？
+> 要回答这些问题，还要从方程，不动点，不动点算子说起。
+> 
+> ↗  [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+> ↗ [Lattice (Set Theory)](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+#### Recursive Enumerable & R.E. Set ⭐
+> 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
+
+在具体实践中，我们经常会遇到这样的问题，给定一个元素，我们需要判断这个元素是否属于某个集合。这种问题，称为集合的**成员资格问题**。
+
+沿用这一思路，我们可以使用一个谓词 $\chi_B$ 来定义相应的集合 $B \subseteq \mathbb{N}$，$$B = \{x \in \mathbb{N} \mid \chi_B(x)\}$$
+谓词 $\chi_B(x)$ 为真，则 $x \in B$。这个谓词 $\chi_B(x)$，通常称为集合 $B$ 的**特征函数**。
+
+如果特征函数 $\chi_B$ 是一个递归的全函数，则我们总是可以判断 $\chi_B(x)$ 等于 0 还是 1，这样的集合 $B$ 称为**递归集**。
+
+如果存在部分递归函数 $g$，使得 $B = \{x \in \mathbb{N} \mid g(x) \downarrow\}$，即 $x \in B$ 当且仅当 $g$ 在 $x$ 处有定义，则称集合 $B$ 是一个**递归可枚举集**。每一个部分递归函数，都确定出一个递归可枚举集。
+
+因此，对于每一个自然数 $x \in \mathbb{N}$，我们总是可以通过递归集 $B$ 的特征函数 $\chi_B$，来判断 $x$ 是否 $B$ 的成员。
+
+而对于递归可枚举集，就不容乐观了。如果某个自然数 $x \in \mathbb{N}$ 是 $B$ 的成员，那么我们可以断定这件事，因为 $g(x)$ 有定义；但是如果某个自然数 $y \in \mathbb{N}$ 不是 $B$ 的成员，我们就不能确定，因为这时候 $g(y)$ 无定义。（$g(y)$ 无定义，则它对应的图灵机不停机，后文我们详细讨论）
+
+因此，集合 $B$ 是递归的当且仅当 $B$ 和 $\bar{B}$ 是递归可枚举的，其中 $\bar{B}$ 为 $B$ 的补集。
+
+> [!TIP]
+> 为什么递归可枚举集是“可枚举”的呢？是因为每一个递归可枚举集可以一一对应一个自然数，这是怎样做到的呢？这需要我们理解总共有多少个可能的程序，以及什么是通用程序 (universal turing machine)。
+
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+**集合个数的可枚举性**
+
+
+### Non-recursive Functions
+
+
+
 ## Universal Turing Machine (UTM)
+> 🔗 https://en.wikipedia.org/wiki/Universal_Turing_machine
+
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **universal Turing machine** (**UTM**) is a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") capable of computing any computable sequence, as described by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in his seminal paper "On Computable Numbers, with an Application to the [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem "Entscheidungsproblem")". Common sense might say that a universal machine is impossible, but Turing proves that it is possible. He suggested that we may compare a human in the process of computing a real number to a machine that is only capable of a finite number of conditions ⁠$q_{1},q_{2},\dots ,q_{R}$⁠; which will be called "m-configurations". He then described the operation of such machine, as described below, and argued:
+
+> It is my contention that these operations include all those which are used in the computation of a number.
+
+[Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") introduced the idea of such a machine in 1936–1937.
+
+> [!TIP]
+> > 🤖 GPT-5
+> 
+> A **universal program** is the programming-language-level version of a **universal Turing machine**—they compute the same class of functions, just described in different frameworks.
+>
+>--- 
+> **What is a universal program?**
+> 
+> A **universal program** is a program that can **simulate any other program** when given:
+> 1.  a description of that program, and
+> 2. the input for that program.
+> 
+> Formally, if `P` is any program and `x` is its input, a universal program `U` satisfies: `U(P, x) = P(x)`
+> 
+> So instead of hard-coding one task, `U` can _run_ any task, as long as that task is encoded as data.
+>
+>---
+> **What is a Universal Turing Machine (UTM)?**
+> 
+> A **Universal Turing Machine** is the same concept, but defined in the **Turing machine model of computation**.
+> - A UTM is a Turing machine
+> - It takes as input:
+> 	- an encoding of another Turing machine `M`
+> 	- an input string `w`
+> - It simulates `M` running on `w`
+> 
+> Formally: `UTM(⟨M⟩, w) = M(w)`
+
+
+### Input Encoding
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+我们使用现代计算机进行编程的时候，并不是直接把程序的输入传给程序，而是将程序本身以及它的输入，传给计算机，最后由计算机得到计算结果，
+
+像这种接受任何程序和它的输入作为自己的输入，返回程序执行结果的程序，称为通用程序。
+为此，通用程序需要把输入的程序进行编码。
+
+常用的编码方法，涉及[配对函数](https://zh.wikipedia.org/wiki/%E9%85%8D%E5%AF%B9%E5%87%BD%E6%95%B0)和[哥德尔编码](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E6%95%B0)。
+
+为了不引入太多的复杂性，我们可以将程序的编码理解为存储程序的二进制数据，不同的程序会有不同的二进制表示，每一个二进制表示可以对应一段程序（虽然可能不合法）。哥德尔编码做的事情就是将程序和自然数集一一对应起来。
+
+因此，所有程序的个数是可数的，而这些程序可计算的函数个数也一定是可数的，它们可能是全函数，也可能是部分函数。（其中，“可数”指的是可数集，可数集是与自然数集之间存在一一映射的集合。
+
+然而，自然数集上的函数全体并不可数，（证略
+所以肯定存在程序不可计算的函数。
+#### Paring Function & Gödel Numbering
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+配对函数和哥德尔数，是对数偶和有穷数列的一种编码方式。
+
+
+**配对函数 (Pairing Function)**
+
+令 $\langle x, y \rangle = 2^x(2y + 1) - 1$，称 $\langle x, y \rangle$ 为**配对函数**，它是一个原始递归函数。
+
+任给一个数 $z$，存在唯一的一对数 $x$ 和 $y$，使得 $\langle x, y \rangle = z$。
+* $x$ 是 $z + 1$ 含有因子 2 的个数，即使得 $2^t | (z + 1)$ 的 $t$ 的最大值。
+* $(z + 1) / 2^x$ 必为奇数，$y$ 是 $2y + 1 = (z + 1) / 2^x$ 的唯一解。
+
+一般地，记 $l(z) = x$，$r(z) = y$，则 $l(z)$ 和 $r(z)$ 也是原始递归函数。
+
+
+**哥德尔数 (Gödel Number)**
+
+记 $[a_1, a_2, \cdots, a_n] = \prod_{i=1}^n p_i^{a_i}$，$[a_1, a_2, \cdots, a_n]$ 称为有穷数列 $(a_1, a_2, \cdots, a_n)$ 的**哥德尔数**。
+其中，$p_i$ 是第 $i$ 个素数。
+
+> [!EXAMPLE] 例子
+> $[2, 0, 1, 3] = 2^2 \cdot 3^0 \cdot 5^1 \cdot 7^3 = 6860$。
+
+对于每一个固定的 $n$，$[a_1, a_2, \cdots, a_n]$ 是原始递归函数，并且这种编码具有唯一性。
+
+
+### Halting Problem
+> [!links]
+> ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+
+### Decidability & Rice Theorem
+> [!links]
+> ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 
 
 
