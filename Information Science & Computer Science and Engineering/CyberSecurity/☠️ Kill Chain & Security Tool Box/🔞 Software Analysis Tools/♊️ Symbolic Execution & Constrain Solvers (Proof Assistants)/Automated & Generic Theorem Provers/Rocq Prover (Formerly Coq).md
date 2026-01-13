@@ -1,4 +1,4 @@
-# Rocq
+# Rocq Prover (Formerly Coq)
 
 [TOC]
 

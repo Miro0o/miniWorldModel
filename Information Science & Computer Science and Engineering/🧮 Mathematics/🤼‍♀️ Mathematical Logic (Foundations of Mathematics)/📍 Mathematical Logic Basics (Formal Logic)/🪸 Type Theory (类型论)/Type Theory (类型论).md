@@ -10,6 +10,7 @@
 ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
 ↗ [Type Analysis](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
+↗ [Type and Effect Systems](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
 
 ↗ [Category Theory (范畴论)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -132,6 +133,9 @@ It has been tied to formal mathematics since _[Principia Mathematica](https://e
 
 
 ## Ref
+[为什么会有Curry-Howard correspondence？ - BlackWinter的回答 - 知乎]: https://www.zhihu.com/question/354035182/answer/2804674953
+刚刚接触类型论，也对此很好奇，理解不深单纯谈谈自己的想法。
+
 [类型论 | Wikipedia]: https://zh.wikipedia.org/zh-cn/类型论
 [HoTT学习笔记1：类型论基础 - Arjuna的文章 - 知乎]: https://zhuanlan.zhihu.com/p/33483631
 

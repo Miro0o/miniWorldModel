@@ -385,9 +385,9 @@ Formal semantics is concerned with rigorously specifying the meaning, or behavio
 ↗ [Models of Computation & UTM (universal Turing Machine)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine).md)
 
 Some formal semantics: 
-- ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
-- ↗ [Denotational Semantics](Denotational%20Semantics.md)
-- ↗ [Operational Semantics](Operational%20Semantics.md)
+- ↗ [Axiomatic Semantics (Hoare-Style Logic)](Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+- ↗ [Denotational Semantics](Denotational%20Semantics/Denotational%20Semantics.md)
+- ↗ [Operational Semantics](Operational%20Semantics/Operational%20Semantics.md)
 - Fixed-Point Semantics
 - Algebraic Semantics
 - Action Semantics

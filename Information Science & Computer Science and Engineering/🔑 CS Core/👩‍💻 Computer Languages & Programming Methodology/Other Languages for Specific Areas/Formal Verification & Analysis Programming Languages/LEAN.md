@@ -21,6 +21,10 @@ https://github.com/leanprover-community/mathlib4
 
 https://leanprover-community.github.io/mathlib4_docs/
 
+https://adam.math.hhu.de/#/g/leanprover-community/NNG4
+Welcome to the Natural Number Game | An introduction to mathematical proof.
+In this game, we will build the basic theory of the natural numbers `{0,1,2,3,4,...}` from scratch. Our first goal is to prove that `2 + 2 = 4`. Next we'll prove that `x + y = y + x`. And at the end we'll see if we can prove Fermat's Last Theorem. We'll do this by solving levels of a computer puzzle game called Lean.
+
 
 
 ## Intro

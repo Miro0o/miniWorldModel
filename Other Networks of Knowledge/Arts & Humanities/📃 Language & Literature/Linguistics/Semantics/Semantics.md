@@ -29,6 +29,16 @@ Theories of meaning are general explanations of the nature of meaning and how ex
 
 The study of semantic phenomena began during antiquity but was not recognized as an independent field of inquiry until the 19th century. Semantics is relevant to the fields of formal logic, [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [psychology](https://en.wikipedia.org/wiki/Psychology "Psychology").
 
+> 🔗 https://zh.wikipedia.org/wiki/%E8%AF%AD%E4%B9%89%E5%AD%A6
+
+**語義學**（英語：semantics）也作**语意学**，是以[语言学](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6 "语言学")观点研究语言意义的学科，也是对[指称](https://zh.wikipedia.org/wiki/%E6%8C%87%E7%A7%B0 "指称")、[意义](https://zh.wikipedia.org/w/index.php?title=%E6%84%8F%E4%B9%89&action=edit&redlink=1 "意义（页面不存在）")或[真理](https://zh.wikipedia.org/wiki/%E7%9C%9F%E7%90%86 "真理")的研究。**语义**（semanteme）是[语言单位](https://zh.wikipedia.org/w/index.php?title=%E8%AF%AD%E8%A8%80%E5%8D%95%E4%BD%8D&action=edit&redlink=1 "语言单位（页面不存在）")本身具有的意义，其强调客观存在意义，意义应唯一，属[语言](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80 "语言")意义。**语意**（meaning）是语言单位融入个人主观思想后所表达的意思，其强调情感和主观想法，意义并不唯一，属[言语](https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AF%AD "言语")意义。
+
+语义学涉及了[语言学](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6 "语言学")、[逻辑学](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AD%A6 "逻辑学")、[计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6 "计算机科学")、[自然语言处理](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86 "自然语言处理")、[认知科学](https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6 "认知科学")、[心理学](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6 "心理学")等诸多领域。虽然各个学科之间对语义学的研究有一定的共同性，但是具体的研究方法和内容大相径庭。语义学的研究对象是自然语言的意义，这里的自然语言可以是词汇，句子，篇章等等不同级别的语言单位。但是各个领域里对语言的意义的研究目的不同：
+- 语言学的语义学研究目的在于找出语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性；
+- [逻辑学](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AD%A6 "逻辑学")的语义学是对一个逻辑系统的解释，着眼点在于真值条件，不直接涉及自然语言；
+- 与[计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6 "计算机科学")相关的语义学研究在于机器对自然语言的理解；
+- 认知科学对语义学的研究在于人脑对语言单位的意义的存储及理解的模式。
+
 
 
 ## Ref

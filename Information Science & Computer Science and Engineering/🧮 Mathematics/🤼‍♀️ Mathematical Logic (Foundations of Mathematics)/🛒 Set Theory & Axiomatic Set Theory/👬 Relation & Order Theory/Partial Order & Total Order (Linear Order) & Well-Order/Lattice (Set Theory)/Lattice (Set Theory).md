@@ -83,16 +83,18 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 实际上，数据流分析可以视作在格上不断迭代应用transfer functions和meet/join操作。<br> <a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
 
 
-### Monotonicity & Fixed Point Axiom (of Lattice Function)
-🔗
--  [Fixed-point property - Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_property)
--  [Ascending chain condition - Wikipedia](https://en.wikipedia.org/wiki/Ascending_chain_condition)
--  [CS 6110 Lecture 21 The Fixed-Point Theorem, Andrew Myers](https://www.cs.cornell.edu/courses/cs6110/2013sp/lectures/lec20-sp13.pdf)
+### Monotonicity & Least Fixed-point Theorem (of Lattice Function)
+> [!link]
+> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> 
+> 🔗 [Fixed-point property - Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_property)
+> 🔗 [Ascending chain condition - Wikipedia](https://en.wikipedia.org/wiki/Ascending_chain_condition)
+> 🔗 [CS 6110 Lecture 21 The Fixed-Point Theorem, Andrew Myers](https://www.cs.cornell.edu/courses/cs6110/2013sp/lectures/lec20-sp13.pdf)
 #### Monotonicity
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 
 函数 $f : L \to L$（$L$ 是格）是 **单调的**，当且仅当 $\forall x, y \in L,\; x \preceq y \Rightarrow f(x) \preceq f(y)$
-#### Fixed Point Axiom
+#### Least Fixed-point Theorem ⭐
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 
 给定一个完全格 $(L, \preceq)$，如果 $f : L \to L$ 是单调的且 $L$ 是有限的，那么：
@@ -114,13 +116,17 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 这里我们使用归纳法证明：
 1. 假设还有一个不动点 $x_0$，使得 $x_0 = f(x_0)$。由于 $\bot$ 是最小元素，结合函数单调性，可得  $f(\bot) \preceq x_0$
 2. 假设 $f^i(\bot) \preceq f^i(x_0)$，那么结合函数单调性，我们有 $f^{i+1}(\bot) \preceq f^{i+1}(x_0)$
-
 3. 因此我们得到  $f^i(\bot) \preceq f^i(x_0)$。又因为 $x_0$ 是不动点，故 $f^i(\bot) \preceq f^i(x_0) = x_0$。
 4. 最终有  $f^{fix} = f^{k}(\bot) \preceq f^k(x_0) = x_0$，证毕。
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.1
 
 
+> 🔗 https://thzt.github.io/2017/03/21/recursive-function-9/
+
+
 
 ## Ref
 [👍 南大软分课程笔记｜05 数据流分析理论]: https://blog.wohin.me/posts/nju-program-analysis-05/
+
+[Kleene fixed-point theorem| wikipedia]: https://en.wikipedia.org/wiki/Kleene_fixed-point_theorem

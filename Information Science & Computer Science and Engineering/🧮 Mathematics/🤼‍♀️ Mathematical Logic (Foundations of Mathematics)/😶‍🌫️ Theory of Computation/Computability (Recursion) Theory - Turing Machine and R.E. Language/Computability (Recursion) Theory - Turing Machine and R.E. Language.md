@@ -18,12 +18,15 @@
 - ↗ [Program Execution (Runtime)](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 - ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
-↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
-- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Number Sequence](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md#)
 - Recurrence Relation (递推关系) & Recursion (递归)
 - Generating Function (生成函数 /母函数)
+
+↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md) "well-founded relation"
+- ↗ [Domain Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Domain%20Theory/Domain%20Theory.md)
+↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Denotational%20Semantics.md)
 
 ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
@@ -75,8 +78,7 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 
 > 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
 
-我们看到在程序中使用递归，可能会导致非终止性的计算，而有些递归又不会。
-这是为什么呢？
+我们看到在程序中使用递归，可能会导致非终止性的计算，而有些递归又不会。这是为什么呢？
 
 我们可以从递归函数论（recursion theory /computability theory）中找到一些线索。==递归函数论是和图灵机以及$λ$演算相等价的计算模型，它从另一个角度刻画了可计算性。== 可计算性是一个有趣的话题，后续文章中，我们会详细讨论。
 
@@ -88,7 +90,7 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 这些函数集合的范围越来越大。
 
 
-### Primitive Recursive Function
+### 1️⃣ Primitive Recursive Function
 > 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
 
 本文我们先介绍原始递归函数，为此，我们需要先定义两种运算。
@@ -121,7 +123,7 @@ $$h(x_1, \cdots, x_n) = f(g_1(x_1, \cdots, x_n), \cdots, g_k(x_1, \cdots, x_n))$
     * 另一方面，在进行原始递归运算时，如果 $f$ 和 $g$ 是全函数，则 $h$ 也一定是全函数（由良基归纳法可证）。
 
 
-### Recursive Function ⭐
+### 2️⃣ Recursive Function ⭐
 #### Minimization Operator (μ Operator)
 > 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
 
@@ -166,7 +168,7 @@ $f(x_1, \cdots, x_n)$ 的值，是使得 $P(x_1, \cdots, x_n, t)$ 为真的最�
 > ↗  [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 > ↗ [Lattice (Set Theory)](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
-#### Recursive Enumerable & R.E. Set ⭐
+#### Recursive Set & Recursive Enumerable Set ⭐
 > 🔗 https://thzt.github.io/2017/03/06/recursive-function-4/
 
 在具体实践中，我们经常会遇到这样的问题，给定一个元素，我们需要判断这个元素是否属于某个集合。这种问题，称为集合的**成员资格问题**。
@@ -185,14 +187,40 @@ $f(x_1, \cdots, x_n)$ 的值，是使得 $P(x_1, \cdots, x_n, t)$ 为真的最�
 因此，集合 $B$ 是递归的当且仅当 $B$ 和 $\bar{B}$ 是递归可枚举的，其中 $\bar{B}$ 为 $B$ 的补集。
 
 > [!TIP]
-> 为什么递归可枚举集是“可枚举”的呢？是因为每一个递归可枚举集可以一一对应一个自然数，这是怎样做到的呢？这需要我们理解总共有多少个可能的程序，以及什么是通用程序 (universal turing machine)。
-
+> 为什么递归可枚举集是“可枚举”的呢？是因为每一个递归可枚举集可以一一对应一个自然数，这是怎样做到的呢？这需要我们理解总共有多少个可能的程序，以及什么是通用程序 (universal program /universal turing machine)。
+##### Enumerability
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+> 本文我们要讨论，为什么递归可枚举集是“可枚举”的，以及什么是可计算函数。
 
 **集合个数的可枚举性**
+程序 $\mathscr{P}$ 所计算的函数，我们可以记为 $\psi(x_1, x_2, \cdots, x_n)$。
+由此，我们可以定义**通用程序** $\Phi$，则有：
+$$\Phi(x_1, x_2, \cdots, x_n, y) = \psi(x_1, x_2, \cdots, x_n)$$
+其中，$y$ 是程序 $\mathscr{P}$ 的编码。
+
+因为所有的程序与自然数集一一对应，
+所以，$\Phi(x_1, x_2, \cdots, x_n, 0), \Phi(x_1, x_2, \cdots, x_n, 1), \cdots$ 枚举了所有的 $n$ 元可计算函数。
+
+我们定义 $W_y = \{x \in \mathbb{N} \mid \Phi(x, y) \downarrow\}$，
+根据递归可枚举集的定义，每一个 $W_y$ 是一个递归可枚举集。
+
+又因为 $\Phi(x, 0), \Phi(x, 1), \cdots$ 枚举了所有的可计算函数，
+而上一篇中我们看到，递归可枚举集是由部分递归函数（即可计算函数）定义的，
+一个部分递归函数确定出一个递归可枚举集，
+所以，$W_0, W_1, \cdots$ 枚举了所有的递归可枚举集。
+
+因此，集合 $B$ 是递归可枚举的，当且仅当存在 $y \in \mathbb{N}$，使得 $B = W_y$，
+称为**枚举定理**，这就是“枚举”的含义。
+
+令 $K = \{n \in \mathbb{N} \mid n \in W_n\}$，
+则 $K$ 是递归可枚举的，但不是递归的（证略）。
+因此，$\bar{K}$ 不是递归可枚举的，否则 $K$ 就是递归集了。
+（根据：集合 $B$ 是递归的当且仅当 $B$ 和 $\bar{B}$ 是递归可枚举的，见上一篇）
+
+因此，我们找到了一个非递归的递归可枚举集 $K$，以及一个非递归可枚举集 $\bar{K}$。
 
 
-### Non-recursive Functions
+### 3️⃣ Non-recursive Functions
 
 
 
@@ -204,6 +232,81 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 > It is my contention that these operations include all those which are used in the computation of a number.
 
 [Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") introduced the idea of such a machine in 1936–1937.
+
+
+### Decidability
+> [!links]
+> ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+> ↗ [Complexity Theory & Computational Complexity](../Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+可判定性问题，指的是一个询问真或者假的问题是否可以被回答。
+如果我们总能回答出这个问题是真或者是假，就称该问题是可判定的，
+如果我们只能当问题为真的时候确定为真，为假的时候所进行的计算可能不会终止，那么就称该问题是半可判定的。
+
+某元素是否属于一个递归集，是可判定的，
+某元素是否属于一个递归可枚举集，是半可判定的。
+
+因为，递归集是使用一个递归的全函数定义的，
+而递归可枚举集是使用第一个部分递归函数定义的，
+我们无法判断某个部分递归函数，在接受某参数时，是没有定义，还是计算尚未停止。
+即，判断元素是否属于某递归可枚举集的程序可能永不停机。
+#### Halting Problem is Undecidable
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+任给一个程序和一个自然数，问该程序对这个自然数输入的计算是否停止，这个问题称为**停机问题**。
+
+我们可以用谓词 $H(x, y)$ 描述这个问题：$H(x, y)$ 表示以 $y$ 为代码的程序对输入 $x$ 的计算最终停止。那么，$H(x, y)$ 是不可计算的，即不存在一个程序来计算 $H(x, y)$。
+
+
+**证明**
+我们来证明一下，假设有一个程序可以计算 $H(x, y)$。
+那么我们就能用它来构造一个新程序 $\mathscr{P}$，它的输入是 $x$。
+这段程序：
+* 当 $H(x, x)$ 为真时，计算不停止；
+* 而当 $H(x, x)$ 为假时，计算停止。
+
+程序 $\mathscr{P}$ 也可以进行编码，假设为 $y_0$。现在我们来判断 $H(y_0, y_0)$：
+1. **如果 $H(y_0, y_0)$ 为真**：
+   * 意味着编码为 $y_0$ 的程序以 $y_0$ 作为输入最终停止，即程序 $\mathscr{P}$ 输入为 $y_0$ 时最终停止。
+   * 可是根据 $\mathscr{P}$ 的定义，此时 $H(x, x) = H(y_0, y_0)$ 为假才会停止，产生矛盾。
+1. **如果 $H(y_0, y_0)$ 为假**：
+   * 意味着编码为 $y_0$ 的程序以 $y_0$ 作为参数最终不会停止，即程序 $\mathscr{P}$ 输入为 $y_0$ 时最终不停止。
+   * 可是根据 $\mathscr{P}$ 的定义，此时 $H(x, x) = H(y_0, y_0)$ 为真才不会停止，产生矛盾。
+
+$H(y_0, y_0)$ 不能为真也不能为假，矛盾。
+**结论**：因此，计算 $H(x, y)$ 的程序不存在，我们也无法用它来构造程序 $\mathscr{P}$。
+#### Rice Theorem
+
+
+### Computability
+> [!quote]
+> David Hilbert: Is there a program which can tell if a theorem is true or false?
+> 
+> Alonzo Church: Lambda calculus
+> Alan Turing: Turing machine
+> Kurt Gödel: General-recursive function
+
+> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+
+我们听说过，现代计算机在计算能力上是与图灵机等价的。什么叫做计算能力呢？
+它指的是图灵机可计算的函数集，与现代计算机可计算的函数集是相等的。
+
+为了简单起见，我们不去讨论图灵机，而是从现代计算机直接说起，
+设 $\mathscr{P}$ 是一段程序，$n$ 是一个正整数，
+我们称数论函数 $\psi(x_1, x_2, \cdots, x_n)$ 为程序 $\mathscr{P}$ 所计算的 $n$ 元部分函数，
+如果对于相同的输入，
+要么：(1) 程序 $\mathscr{P}$ 的计算可以终止，此时计算结果等于 $\psi(x_1, x_2, \cdots, x_n)$ 的相应函数值；
+要么：(2) 程序 $\mathscr{P}$ 的计算不能终止，此时 $\psi(x_1, x_2, \cdots, x_n)$ 无定义。
+
+设 $f(x_1, x_2, \cdots, x_n)$ 是一个部分函数，如果存在程序 $\mathscr{P}$ 可计算 $f$，则称 $f$ 是部分可计算的。
+如果一个函数，既是部分可计算的，又是全函数，则称这个函数是可计算的。
+
+可以证明，所有的原始递归函数和递归函数都是部分可计算的。
+
+
+### Universal Program & Input Encoding
 
 > [!TIP]
 > > 🤖 GPT-5
@@ -233,8 +336,6 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 > 
 > Formally: `UTM(⟨M⟩, w) = M(w)`
 
-
-### Input Encoding
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 
 我们使用现代计算机进行编程的时候，并不是直接把程序的输入传给程序，而是将程序本身以及它的输入，传给计算机，最后由计算机得到计算结果，
@@ -250,14 +351,13 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 
 然而，自然数集上的函数全体并不可数，（证略
 所以肯定存在程序不可计算的函数。
-#### Paring Function & Gödel Numbering
+#### Paring Function & Gödel Numbering (GN)
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 
 配对函数和哥德尔数，是对数偶和有穷数列的一种编码方式。
 
 
 **配对函数 (Pairing Function)**
-
 令 $\langle x, y \rangle = 2^x(2y + 1) - 1$，称 $\langle x, y \rangle$ 为**配对函数**，它是一个原始递归函数。
 
 任给一个数 $z$，存在唯一的一对数 $x$ 和 $y$，使得 $\langle x, y \rangle = z$。
@@ -268,7 +368,6 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 
 
 **哥德尔数 (Gödel Number)**
-
 记 $[a_1, a_2, \cdots, a_n] = \prod_{i=1}^n p_i^{a_i}$，$[a_1, a_2, \cdots, a_n]$ 称为有穷数列 $(a_1, a_2, \cdots, a_n)$ 的**哥德尔数**。
 其中，$p_i$ 是第 $i$ 个素数。
 
@@ -277,19 +376,11 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 
 对于每一个固定的 $n$，$[a_1, a_2, \cdots, a_n]$ 是原始递归函数，并且这种编码具有唯一性。
 
+> 🔗 https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E6%95%B0
 
-### Halting Problem
-> [!links]
-> ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+在[形式数论](https://zh.wikipedia.org/wiki/%E6%95%B0%E8%AE%BA "数论")中，**哥德尔编号**是对某些[形式语言](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80 "形式语言")的每个符号和[公式](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%8F_\(%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91\) "公式 (数理逻辑)")指派一个叫做**哥德尔数(GN)** 的唯一的[自然数](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E6%95%B0 "自然数")的[函数](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B0 "函数")。这个概念是[哥德尔](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94 "哥德尔")为证明他的[哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86 "哥德尔不完备定理")而引入的。
 
-> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
-
-
-### Decidability & Rice Theorem
-> [!links]
-> ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
-
-> 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
+[可计算函数](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E5%87%BD%E6%95%B0 "可计算函数")集合的[编号](https://zh.wikipedia.org/wiki/%E7%B7%A8%E8%99%9F_\(%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96\) "編號 (計算理論)")有时叫做哥德尔编号或有效编号。哥德尔编号可以被解释为一个[编程语言](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言")，带有指派哥德尔数到每个可计算函数作为在这种[编程语言](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言")中计算这个函数的值的[程序](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BA%8F "程序")。[Roger 等价定理](https://zh.wikipedia.org/w/index.php?title=Roger_%E7%AD%89%E4%BB%B7%E5%AE%9A%E7%90%86&action=edit&redlink=1 "Roger 等价定理（页面不存在）")特征化了是哥德尔编号的可计算函数集合的编号。
 
 
 

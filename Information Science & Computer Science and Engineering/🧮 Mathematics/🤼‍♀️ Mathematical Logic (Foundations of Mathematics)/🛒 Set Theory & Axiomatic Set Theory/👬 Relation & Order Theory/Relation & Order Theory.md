@@ -33,7 +33,7 @@
 
 从数学的角度看，这类联系就是某个集合中元素之间存在的关系。本章将用数学语言把这类联系形式化给出关系的一般描述及其表示方法并研究关系的性质，以导出能普遍适用的理论，反过来又能用于指导对实践问题的深入应用。由于一组元素之间的关系常常可以通过每两个元素之间的关系来表达，因而二元（素之间的）关系是最基本的关系，
 
-![computing.excalidraw](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 #### Formal Definition: Relation
 > ↗ [Function & Mapping of Set](../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 
@@ -46,7 +46,23 @@ A property whose domain is a set of k-tuples $A \times ···\times A$ is called
 Sometimes describing predicates with sets instead of functions is more convenient. The predicate $P: D \to \{TRUE, FALSE\}$ may be written $(D,S)$, where $S= \{a \in D | P(a) = TRUE\}$, or simply $S$ if the domain $D$ is obvious from the context. Hence the relation beats may be written $$\{(Scissors, Paper), (Paper, Stone), (Stone, Scissors)\}$$
 ![](../../../../../Assets/Pics/Screenshot%202025-09-15%20at%2020.04.36.png)
 #### Binary Relation
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
 
+直观的说，集合$A$的元素和集合$B$的元素之间的关系是一个二元性质$R$，使得对于每个$a∈A$和$b∈B$而言，$R(a,b)$要么为真，要么为假。
+
+关系通常表示为一个集合，它是笛卡尔积的子集，即，集合$A$和集合$B$之间的关系$R$是它们笛卡尔积的一个子集$R⊆A×B$。
+
+如果序对$(a,b)$属于子集$R$，则认为$a$与$b$之间的关系为真，否则认为$a$与$b$之间的关系为假。
+
+通常关系直接描述为$R(a,b)$，或者$aRb$，而不用$(a,b)∈R$。
+
+
+某个集合上的二元关系有很多性质，例如自反性，对称性，反对称性，传递性。
+- 一个关系$R⊆A×A$是自反的，如果$R(a,a)$对于所有的$a∈A$成立；
+- 是对称的，如果$R(a,b)$就有$R(b,a)$，对于所有的$a,b∈A$都成立；
+- 是反对称的，如果$R(a,b)$且$R(b,a)$，则$a,b$是同一个元素，对于所有的$a,b∈A$都成立；
+	- （注意，反对称性不是对称性的否定。
+- 是传递的，如果$R(a,b)$和$R(b,c)$能推出$R(a,c)$，对于所有的$a,b,c∈A$都成立。
 #### Special Types of (Binary) Relation
 > 📖 离散数学，四川大学计算机学院
 

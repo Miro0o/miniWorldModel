@@ -234,6 +234,7 @@ After we have defined various objects and notions, we usually make **mathematica
 #### Finding Proofs
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 #### Types of Proofs ⭐
+> [!links]
 > ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
@@ -241,6 +242,16 @@ After we have defined various objects and notions, we usually make **mathematica
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 > - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+>
+>↗ [Logic And Mechanized (Formal) Reasoning](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md) 
+>↗ [Symbolic Execution & Constrain Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants).md)
+>- ↗ [Automated & Generic Theorem Provers](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+>
+>↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
+>- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+>
+>↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+>- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 ##### Proof by Construction (构造法)
@@ -261,11 +272,85 @@ A **proof by induction** consists of two cases. The first, the **base case**,
 The method can be extended to prove statements about more general [well-founded](https://en.wikipedia.org/wiki/Well-founded "Well-founded") structures, such as [trees](https://en.wikipedia.org/wiki/Tree_\(set_theory\) "Tree (set theory)"); this generalization, known as [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction"), is used in [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). Mathematical induction in this extended sense is closely related to [recursion](https://en.wikipedia.org/wiki/Recursion "Recursion"). Mathematical induction is an [inference rule](https://en.wikipedia.org/wiki/Inference_rule "Inference rule") used in [formal proofs](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"), and is the foundation of most [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") proofs for computer programs.
 
 ==Despite its name, mathematical induction differs fundamentally from [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") as [used in philosophy](https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction")==, in which the examination of many cases results in a probable conclusion. The mathematical method examines infinitely many cases to prove a general statement, but it does so by a finite chain of [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") involving the [variable](https://en.wikipedia.org/wiki/Variable_\(mathematics\) "Variable (mathematics)") $n$, which can take infinitely many values. The result is a rigorous proof of the statement, not an assertion of its probability.
+###### 📌 Well-Founded Induction
+> [!links]
+> ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+> - ↗ [Partial Order & Total Order (Linear Order) & Well-Order](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+> 
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
+
+归纳法有各种各样的形式，自然数归纳法只是其中的一种应用，在数理逻辑和形式语言理论中，用的最多的是结构归纳法，在树形结构上进行归纳，后续文章中我们会提到。
+
+**人们总结了各种归纳法的共性，提出了良基关系（well-founded relation）的概念，于是，自然数归纳法和结构归纳法都变成了在良基关系上通用归纳法的具体应用了**。
+
+良基归纳法：
+- 设 $\prec$ 为集合 $A$ 上的良基二元关系，并且设 $P$ 为关于 $A$ 中元素的某个命题。
+- 如果 $P(b)$ 对于所有的 $b \prec a$ 成立，就必然有 $P(a)$ 成立，那么 $P(a)$ 就对所有的 $a \in A$ 成立。
+
+我们看到 $<$ 确实是自然数集上的良基关系，因此自然数归纳法只是良基归纳法的一种特例。现在我们有了足够的能力来证明自然数归纳法的正确性了，只要我们证明了良基归纳法是正确的。
+
+还是用反证法，我们期望证明：
+- 前提：如果 $P(b)$ 对于所有的 $b \prec a$ 成立，必然有 $P(a)$ 成立；
+- 结论：那么对于所有的 $a \in A, P(a)$ 都成立。
+如若不然，假设存在 $x \in A$，使得 $P(x)$ 不成立，则集合 $B = \{a \in A \mid \neg P(a)\}$ 非空。因此根据良基关系的等价定义，集合 $B$ 必有最小元 $m \in B \subseteq A$，而且 $\neg P(m)$ 成立。
+
+则根据前提的逆否命题，一定存在 $b \prec m$，使得 $\neg P(b)$ 成立。所以，我们有 $b \in B$，且 $b \prec m$，与 $m$ 是 $B$ 的最小元矛盾。
+
+证毕。
+
+由此，我们证明了良基归纳法的正确性。理解良基关系和偏序关系，是理解递归和不动点算子的第一步。
+
+不知道是否很明显了，递归的步骤和归纳的步骤，简直是太像了，这一定不是偶然。在[The Little Prover](https://book.douban.com/subject/26429992/)一书中，为了证明递归函数是否全函数（total function），作者使用了测度（measure）的概念，这实际上定义了参数集上的一个良基关系。
 ###### Natural Number Induction
-↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-###### Well-Founded Induction
-↗ [Partial Order & Total Order (Linear Order) & Well-Order](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> [!links]
+> ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
+
+自然数归纳法，是一种数学证明方法，通常被用于证明某个给定命题在整个（或者局部）自然数范围内成立。它可以用一个有限的方式写出一个无限的证明。
+
+后续文章中我们会看到，这种用有限表示无限的方法，其实是有局限性的，并不能用来解决所有的问题，它能处理的只是无限中的一个子集罢了。
+
+自然数归纳法，我们可以描述如下：
+为证明对每一个自然数n，命题P(n)为真，只需要证明两件事，
+（1）对于自然数1，命题P(1)为真
+（2）如果对于自然数m，命题P(m)为真，那么对于自然数m+1，命题P(m+1)也为真
+
+其中，第(1)条称为起始条件，第(2)条称为递推条件，或者称为归纳步骤。
+第(2)条中，为了证明P(m+1)而假设的P(m)，称为归纳假设。
+
+这似乎是很显然的事情，我们可以在一张无限长的纸带开头写上初始条件P(1)，接着根据递推条件，由P(1)我们可以证明P(2)成立，重复这种思想，我们可以由P(2)证明P(3)成立，如此不断的进行下去，最终，对于每个自然数n，我们都能证明P(n)成立。
+
+但是，这样并不算是一个有效的证明。要证明自然数归纳法的正确性，我们还需要补充一些集合论方面的知识：↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+
+---
+然而，在此之前，我们还是先来看自然数归纳法的一个例子吧。
+
+在之前的讨论中，我们定义了递归函数 `fact`。我们先找到了“递推式”，再找到了“终止条件”，然后写出了`fact`的定义：
+```haskell
+fact :: Int -> Int  
+fact 1 = 1  
+fact n = n * fact (n-1)
+```
+
+证明其正确性（即证明 `fact` 等于阶乘函数 $f(n) = n!$）是必不可少的步骤。我们可以使用**自然数归纳法**来完成这一证明。
+
+
+**使用自然数归纳法证明 `fact`**
+假设命题 $P(n)$ 为：`fact n` 的值为 $n!$。
+1. **基础步骤**：对于自然数 1，命题 $P(1)$ 成立，因为 `fact 1` 的值为 $1! = 1$。
+2. **归纳步骤**：假设对于自然数 $m$，命题 $P(m)$ 成立，即 `fact m` 的值为 $m!$。
+    - 那么，我们可以得到 `fact (m+1) = (m+1) * fact m`。
+    - 其值为 $(m+1) * m! = (m+1)!$，因此命题对 $m+1$ 也成立。
+
+所以，对于任意自然数 ($n \geqslant 1$)，`fact n` 的值就是 $n!$。至此，我们证明了 `fact` 就是阶乘函数 $f(n) = n!$。
+
+
+**自然数归纳法的等价形式**
+自然数归纳法还有另一种等价形式：如果要证明 $P(n)$ 对每一个自然数 $n$ 为真，只要证明对于任意自然数 $m$，如果当 $i < m$ 时 $P(i)$ 为真，那么 $P(m)$ 也为真。
+###### Structure Induction
 ##### Proof by Deduction (演绎法) & Deductive Reasoning ⭐
 ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 
@@ -279,6 +364,7 @@ The method can be extended to prove statements about more general [well-founded
 -  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
 - ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 #### Axiomatization of Mathematics & Axiomatic System ⭐
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md) "formalization and formal system"
 > ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System)
 > ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
@@ -304,6 +390,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 
 ==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
 ##### The Process of Axiomatization & Formal Language
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 > ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
@@ -400,6 +487,7 @@ n := '-' | '-' n
 ##### Formal System vs Axiomatic System?
 #formal_system #axiomatic_system 
 
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
 
 formal system: symbols + deduction rules.
@@ -411,6 +499,7 @@ axiomatic system: formal system + mathematical semantics
 ###### What about formal languages? formal logics and programming languages?
 #formal_language #formal_logic #programming_languages
 
+> [!links]
 > ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ##### Foundations of Mathematics (Logics)
@@ -687,6 +776,7 @@ The field of statistics is a mathematical application that is employed for the c
 
 [Statistical theory](https://en.wikipedia.org/wiki/Statistical_theory "Statistical theory") studies [decision problems](https://en.wikipedia.org/wiki/Statistical_decision_theory "Statistical decision theory") such as minimizing the [risk](https://en.wikipedia.org/wiki/Risk "Risk") ([expected loss](https://en.wikipedia.org/wiki/Expected_loss "Expected loss")) of a statistical action, such as using a [procedure](https://en.wikipedia.org/wiki/Statistical_method "Statistical method") in, for example, [parameter estimation](https://en.wikipedia.org/wiki/Parameter_estimation "Parameter estimation"), [hypothesis testing](https://en.wikipedia.org/wiki/Hypothesis_testing "Hypothesis testing"), and [selecting the best](https://en.wikipedia.org/wiki/Selection_algorithm "Selection algorithm"). In these traditional areas of [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical statistics"), a statistical-decision problem is formulated by minimizing an [objective function](https://en.wikipedia.org/wiki/Objective_function "Objective function"), like expected loss or [cost](https://en.wikipedia.org/wiki/Cost "Cost"), under specific constraints. For example, designing a survey often involves minimizing the cost of estimating a population mean with a given level of confidence. Because of its use of [optimization](https://en.wikipedia.org/wiki/Optimization "Optimization"), the mathematical theory of statistics overlaps with other [decision sciences](https://en.wikipedia.org/wiki/Decision_science "Decision science"), such as [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research"), [control theory](https://en.wikipedia.org/wiki/Control_theory "Control theory"), and [mathematical economics](https://en.wikipedia.org/wiki/Mathematical_economics "Mathematical economics").
 ###### 👉 Computational Mathematics
+> [!links]
 > ↗ [Numerical Analysis](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
 > 
 > ↗ [Computational Mathematics](Computational%20Mathematics/Computational%20Mathematics.md)

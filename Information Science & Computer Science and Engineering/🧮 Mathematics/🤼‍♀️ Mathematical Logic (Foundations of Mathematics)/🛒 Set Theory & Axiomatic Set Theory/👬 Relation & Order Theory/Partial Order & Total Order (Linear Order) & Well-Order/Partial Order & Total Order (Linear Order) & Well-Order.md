@@ -6,17 +6,47 @@
 
 ## Res
 ### Related Topics
+↗ [Function & Mapping of Set](../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 
 
 
 ## Intro
-### Total Order & Totally Ordered Sets (Tosets)
-
+### Total Order (全序)
+#### Total Order Relation
+#### Totally Ordered Sets (Tosets)
 #### Well Order
 ##### Well-Ordering/ Zermelo Theorem
 
 
-### Partial Order & Partially Ordered Sets (Posets)
+### Partial Order (偏序)
+#### Partial Order Relation
+##### Well-Founded Relation (良基关系)
+> [!links]
+> ↗ [Mathematics](../../../../Mathematics.md) "well-founded induction"
+
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
+
+**定义1:**
+集合 $A$ 上的**良基关系**是一个二元关系 $\prec$，如果不存在无限下降序列 (infinite descending sequence) $a_0 \succ a_1 \succ a_2 \cdots$。
+* 例如，自然数上的关系 $<$ 就是一个良基关系。
+* 但是 $\leqslant$ 却不是，因为存在一个无限下降序列 $a_0 \geqslant a_1 \geqslant a_2 \cdots$。
+根据良基关系，我们可以定义集合中的**最小元**：$a \in A$ 为最小元，如果不存在 $a' \in A$，使得 $a' \prec a$。
+
+**定义2:**
+对于良基关系，有一个等价的定义：$A$ 上的二元关系 $\prec$ 是良基的，当且仅当 $A$ 的每一个非空子集 $B$ 有最小元。
+
+我们可以证明一下这两种说法等价性。要证明当且仅当，我们需要证明充分性和必要性：
+ (1) 充分性
+* **要证**：$A$ 上的二元关系 $\prec$ 是良基的，则 $A$ 的每一个非空子集 $B$ 有最小元。
+* **使用反证法**：如果 $B$ 没有最小元，则对于每个 $a \in B$，总可以找到 $a' \in B$，使得 $a' \prec a$。
+* 但是，如果这样的话，我们就可以对任何 $a_0 \in B$，以 $a_0$ 开始构造一个无限下降序列 $a_0 \succ a_1 \succ a_2 \cdots$，这与 $\prec$ 是一个良基关系矛盾。充分性证毕。
+ (2) 必要性
+* **要证**：如果 $A$ 的每一个非空子集 $B$ 都有最小元，则 $A$ 上用于比较的二元关系 $\prec$ 是良基的。
+* **证明**：由于 $A$ 的每一个非空子集 $B$ 都有最小元，则不可能存在无限下降序列 $a_0 \succ a_1 \succ a_2 \cdots$。
+* **因此**：$\prec$ 是良基的。必要性证毕。
+
+**结论**：$A$ 上的二元关系 $\prec$ 是良基的，当且仅当 $A$ 的每一个非空子集 $B$ 有最小元。
+#### Partially Ordered Sets (Posets)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.2
 
 A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a set of elements $L$ with an (partially) ordering relationship $\sqsubseteq$ on it, that uphold: $$\begin{aligned} & \forall a. \ a\sqsubseteq a & \text{reflexive} \\
@@ -24,11 +54,13 @@ A _partially ordered set_ or poset is a tuple $(L, \sqsubseteq)$, meaning a s
 & ∀a. \ a\sqsubseteq b\land b\sqsubseteq c\implies a\sqsubseteq c & \text{transitive}
 \end{aligned}$$
 Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other direction $(ℤ,≥)$), the booleans $(\{𝚝𝚝,𝚏𝚏\},\implies)$, and the set of Sign′s $(2^{Sign},\subseteq)$.
+##### Hasse Diagram
+> 🔗 [Hasse diagram - Wikipedia](https://en.wikipedia.org/wiki/Hasse_diagram)
 - We can draw the diagram of a poset. Below is the so called **Hasse Diagram** of poset $(2^{\text{\{A, B, C\}}}, \subseteq)$:
 - ![|400](../../../../../../../Assets/Pics/Screenshot%202025-10-09%20at%2022.52.59.png)
 - <small><a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
-
-
+- Here we only draw the imitate next elements in the order, i.e. connection to the immediate adjacent nodes.
+##### Bounds of Poset
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 > **Upper/ lower bounds of a poset; lub & join; glb & meet**
 
@@ -48,19 +80,21 @@ Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other 
 关于上下界的两个特性：
 1. ==不是所有的poset都有lub或glb。== (所以，不是所有的偏序集可以称之为格)
 2. 如果一个poset有lub或glb，它一定是唯一的。这一点可以借助偏序关系的antisymmetry特点证明。
-#### Complete Partial Order (CPO)
+##### Directed Subset of Posets
 > 🔗 https://thzt.github.io/2018/02/09/semantics-7/
 
 **有向子集（Directed Subset）**
 偏序集 $(D, \leqslant)$ 的非空子集 $S \subseteq D$ 叫做**有向子集**，当且仅当，对于 $S$ 中的任意元素 $a, b \in S$，存在 $S$ 中的一个元素 $c$，使得 $a \leqslant c$ 且 $b \leqslant c$。
 
 定义
-1. **有向完全偏序集**：如果一个偏序集 $(D, \leqslant)$ 的每个有向子集 $S \subseteq D$ 都有上确界（记为 $\bigvee S$），就称它是一个**有向完全偏序集**。
-2. **完全偏序集**：此外，如果它还有最小元，就称它是一个**完全偏序集**。
+1. **有向完全偏序集 (Directed Complete Partial Order, DCPO)**：如果一个偏序集 $(D, \leqslant)$ 的每个有向子集 $S \subseteq D$ 都有上确界（记为 $\bigvee S$），就称它是一个**有向完全偏序集**。
+2. **完全偏序集 (Complete Partial Order, CPO)**：此外，如果它还有最小元，就称它是一个**完全偏序集**。
 
 > [!IMPORTANT] 注意
 > 完全偏序集并不是每一个子集都有上确界，而是它的每一个**有向子集**都有上确界。
-##### Continuous Functions
+###### Continuous Functions
+> 🔗 https://thzt.github.io/2018/02/09/semantics-7/
+
 **连续函数 (Continuous Functions)**
 假设 $(D, \leqslant)$ 与 $(E, \leqslant)$ 是完全偏序集，$f : D \to E$ 是集合上定义的一个函数。
 
@@ -82,7 +116,6 @@ Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$�
 & \top\lfloor\rfloor a = \top \\
 & a \lceil\rceil\bot = \bot
 \end{aligned}$$
-
 
 
 ## Ref
@@ -123,3 +156,5 @@ Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$�
 [👍 南大软分课程笔记｜05 数据流分析理论]: https://blog.wohin.me/posts/nju-program-analysis-05/
 
 [语言背后的代数学（七）：数学结构]: https://thzt.github.io/2018/02/09/semantics-7/
+
+[Understanding the Definition of Well-Founded Induction | mathematics]: https://math.stackexchange.com/q/2792061/1230830
