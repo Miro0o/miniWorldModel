@@ -10,7 +10,7 @@
 ↗ [Math History & Development](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [Science & Application](../../Science%20&%20Application/Science%20&%20Application.md)
-↗ [Natural Science & Engineering & Technology](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering and Technology](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Social Science](../../Science%20&%20Application/Social%20Science/Social%20Science.md)
 
 ↗ [History of Computing](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)

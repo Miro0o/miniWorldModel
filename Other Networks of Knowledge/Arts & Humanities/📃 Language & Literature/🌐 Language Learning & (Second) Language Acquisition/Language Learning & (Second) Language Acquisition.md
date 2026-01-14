@@ -1,4 +1,4 @@
-# Language Learning & Second Language Acquisition
+# Language Learning & (Second) Language Acquisition
 
 [TOC]
 
@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 
@@ -15,7 +18,7 @@
 
 ## Language Skills
 ### Listening & Speaking
-↗ [Phonetics](../Linguistics/Phonetics/Phonetics.md)
+↗ [Phonetics & Phonology](../Linguistics/Phonetics%20&%20Phonology/Phonetics%20&%20Phonology.md)
 #### Sounds & Places of Articulation
 > 🔗 https://zh.wikipedia.org/zh-cn/%E5%8F%91%E9%9F%B3%E5%99%A8%E5%AE%98
 

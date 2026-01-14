@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Chinese Language & 中文](../../🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+↗ [Chinese Language & 中文](../../🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 
 ↗ [Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Chinese Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Chinese%20Philosophy%20&%20Its%20History.md)

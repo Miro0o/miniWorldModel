@@ -6,15 +6,37 @@
 
 ## Res
 ### Related Topics
-↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
-↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [Human History](../../📜%20Human%20History/Human%20History.md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Language Learning & (Second) Language Acquisition](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/Language%20Learning%20&%20(Second)%20Language%20Acquisition.md)
+- ↗ [Chinese Language & 中文](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+- ↗ [Learning English the Right Way](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [Learning French & Français](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+- ↗ [Learning Russian & Русский язык](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
+- ↗ [Learning Spanish & Español](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+- ↗ [Learning Germany & Deutsch](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
+- ↗ [Arabic Languages & اللغة العربية](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+- ↗ [Learning Japanese & 日本語](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
+- ↗ [Learning Korean & 한국어](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+
+↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+- ↗ [Logic (and Critical Thinking)](../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+- ↗ [Philosophy of Language](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+- ↗ [Ordinary Language Philosophy](../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ordinary%20Language%20Philosophy.md)
+
+↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+- ↗ [Theory of Computation](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [Computer Languages & Programming Methodology](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [Programming Language Theory (PLT)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [Programming Language Processing & Program Execution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
-↗ [Human History](../../📜%20Human%20History/Human%20History.md)
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+
+### Learning Resources
 
 
 ### Other Resources
@@ -28,10 +50,11 @@ In this textbook, students are introduced to the fundamental principles of lingu
 
 
 ### The Importance of Language: Natural Language 🆚 Formal Language
-> ↗ [Computer Languages & Programming Methodology /0️⃣ Formal Languages 🆚 Natural Languages](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#0️⃣%20Formal%20Languages%20🆚%20Natural%20Languages)
+
+↗ [Computer Languages & Programming Methodology /0️⃣ Formal Languages 🆚 Natural Languages](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#0️⃣%20Formal%20Languages%20🆚%20Natural%20Languages)
 
 
-### Taxonomy of Languages
+### Taxonomy of (Natural) Languages
 #### Genealogical Typology & Language Family (语系)
 > 🔗 https://en.wikipedia.org/wiki/Language_family
 
@@ -250,16 +273,46 @@ In a [written language](https://en.wikipedia.org/wiki/Written_language "Written
 ### Language Changes
 
 
-### Language Learning and Second Language Acquisition
-↗ [Language Learning & Second Language Acquisition](🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/Language%20Learning%20&%20Second%20Language%20Acquisition.md)
+### Language Learning and (Second) Language Acquisition
+↗ [Language Learning & (Second) Language Acquisition](🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/Language%20Learning%20&%20(Second)%20Language%20Acquisition.md)
+
+
+### Language & Symbolic Systems
 
 
 
-## Intro: Literature
+## Language Processing
+### Natural Language & Its Processing
+#### Natural Language Processing by Human Brain
+
+#### Automated Natural Language Processing by Computer
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+
+### Formal Language & Its Processing
+↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+#### Formal Language Processing by Human Brain
+↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+#### Automated Formal Language Processing by Computer
+↗ [Intro to Computer Science](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [Signal Processing](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Processing/Signal%20Processing.md)
+↗ [Theory of Computation](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Programming Language Processing & Program Execution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+
+
+### Other Language & Its Processing
 
 
 
-## Intro: Interpretation & Translation
+## Language Application
+>[!links]
+>↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+>↗ [Philosophy of Language](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+  ↗ [Language & Society](Language%20&%20Society/Language%20&%20Society.md)
+>
+>↗ [Literatures](Literature/Literatures.md)
+  ↗ [Journalism and Communication](../../Science%20&%20Application/Social%20Science/Journalism%20and%20Communication/Journalism%20and%20Communication.md)
 
 
 

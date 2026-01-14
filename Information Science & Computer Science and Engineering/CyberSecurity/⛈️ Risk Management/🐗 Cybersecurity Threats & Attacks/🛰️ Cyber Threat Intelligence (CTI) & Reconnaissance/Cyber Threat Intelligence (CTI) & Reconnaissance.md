@@ -25,7 +25,7 @@
 
 ↗ [Web & HTML Scraping](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
 
-↗ [News Focus (IT-exclusive)](../../../../🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
+↗ [News Focus (IT-exclusive)](../../../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
 
 ### Projects / Data Sources

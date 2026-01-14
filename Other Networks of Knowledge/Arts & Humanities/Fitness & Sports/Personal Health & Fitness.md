@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Personal Health Care](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Personal%20Health%20Care.md)
+↗ [Personal Health Care](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Personal%20Health%20Care.md)
 
-↗ [Human Body (Organ) System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
-↗ [Muscular System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
-↗ [Digestive System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Digestive%20System/Digestive%20System.md)
+↗ [Human Body (Organ) System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+↗ [Muscular System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+↗ [Digestive System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Digestive%20System/Digestive%20System.md)
 
 
 ### Learning Resources
@@ -38,7 +38,7 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### Musculature Anatomy
-> ↗ [Muscular System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
+> ↗ [Muscular System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250301160954.png)
 
@@ -48,8 +48,8 @@ METs are used to estimate how many calories are burned during many common physic
 
 
 ### 🥸 How do people gain or loose fat & muscle?
-↗ [Biology /Metabolism](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Biology/Biology.md#Metabolism)
-↗ [Human Body (Organ) System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
+↗ [Biology /Metabolism](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Biology/Biology.md#Metabolism)
+↗ [Human Body (Organ) System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Human%20Body%20(Organ)%20System.md)
 
 ![](../../../Assets/Pics/Pasted%20image%2020250704005632.png)
 

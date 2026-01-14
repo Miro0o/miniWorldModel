@@ -12,6 +12,8 @@
 ↗ [Political Philosophy](../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Political%20Philosophy.md)
 ↗ [Economics & Finance](../💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
+↗ [Decision Making & Game Theory](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+
 
 ### Other Resources
 

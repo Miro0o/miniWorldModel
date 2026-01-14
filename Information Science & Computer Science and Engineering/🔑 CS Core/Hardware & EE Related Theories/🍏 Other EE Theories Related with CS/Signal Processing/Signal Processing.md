@@ -1,4 +1,4 @@
-# SIgnal Process
+# Signal Processing
 
 [TOC]
 

@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Chinese Language Literature (and Philosophy)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Literature/Chinese%20Language%20Literature%20(and%20Philosophy)/Chinese%20Language%20Literature%20(and%20Philosophy).md)
-↗ [Chinese Language & 中文](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-- ↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
+↗ [Chinese Language & 中文](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+- ↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
 ↗ [中华文明历史概况](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 ↗ [Marxism & Communism](../../Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
@@ -55,7 +55,7 @@ Tree Teachings & Nine Schools of Thought
 
 
 ## 殷周时期
-↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
+↗ [汉字史 (History of Chinese Characters and Language)](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/汉字史%20(History%20of%20Chinese%20Characters%20and%20Language).md)
 
 
 ### 甲骨文

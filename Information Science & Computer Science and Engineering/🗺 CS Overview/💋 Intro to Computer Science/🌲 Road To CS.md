@@ -606,8 +606,8 @@ ACM CCS 2012
 ↗ [杨振宁谈我国新时期的人才培养 - 1986](../Appendix/杨振宁谈我国新时期的人才培养%20-%201986.pdf)
 ↗ [科技创新人才培养 -- 钱学森](../Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../Appendix/我们需要怎样的数学教育？.md)
-↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/外语学习误区及真实方法.md)
+↗ [Learning English the Right Way](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [外语学习误区及真实方法](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Appendixes%20&%20Archive/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -840,7 +840,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis
-↗ [News Focus (IT-exclusive)](../News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
+↗ [News Focus (IT-exclusive)](../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 #### Enterprise's Updates
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 #### CS/IT Communities & Forums

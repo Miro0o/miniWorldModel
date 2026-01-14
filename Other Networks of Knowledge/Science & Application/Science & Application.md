@@ -48,13 +48,13 @@ Types of science:
 - Formal Science
 	- ↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 - Natural Science
-	- ↗ [Natural Science & Engineering & Technology](Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+	- ↗ [Natural Science & Engineering and Technology](Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 - Social Science
 	- ↗ [Social Science](Social%20Science/Social%20Science.md)
 - Applied Science
-	- ↗ [Health Sciences and Medicine](Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Health%20Sciences%20and%20Medicine.md)
-	- ↗ [Military Science & Technology](Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
-	- ↗ [Engineering & Technology](Natural%20Science%20&%20Engineering%20&%20Technology/Applied%20Science/Engineering%20&%20Technology/Engineering%20&%20Technology.md)
+	- ↗ [Health Sciences and Medicine](Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Health%20Sciences%20and%20Medicine.md)
+	- ↗ [Military Science & Technology](Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
+	- ↗ [Engineering & Technology](Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/Engineering%20&%20Technology/Engineering%20&%20Technology.md)
 		- ↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 

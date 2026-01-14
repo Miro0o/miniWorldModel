@@ -98,6 +98,7 @@ Anti-fragile: Things That Gain From Disorder
 
 
 ## My Cognitive Model of The Universe
+> [!links]
 > ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 > ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 > 
@@ -105,7 +106,9 @@ Anti-fragile: Things That Gain From Disorder
 > ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 > ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
+> [!quote]
 > ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md#汉与汉族)
+> 
 > 维天有汉，鉴亦有光
 > ——把天系住并连起来的，是那些仿佛可以抓起来的点点繁星，在天河最遥远偏僻的位置，也到处是那些自主呈现着的仿佛可以抓起来的微光。
 > 
@@ -128,16 +131,16 @@ From the same principles, I now demonstrate the frame of the System of the World
 ### 存在与（人/人类社会 的）认识存在
 #### 运动与静止
 ##### 相对与绝对
-↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
+↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ##### 地球，太阳系，银河系，宇宙
-↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 生命与非生命
-↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
+↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ###### 生命感知下的信息与时间
 ###### 生命的周期：生与死
 ###### 有自我意识的生命：智能
@@ -278,6 +281,7 @@ or（情感，逻辑）X （认识，实践）
 由于误差的永远存在，科学精神激励我们要永远保持怀疑。这份怀疑就是观测宇宙和客观宇宙存在误差的那部分。
 ##### 个体自我意识的组织：群体与社会
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+↗ [Decision Making & Game Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
 ###### 社会的形成
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
@@ -506,7 +510,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 - ↗ [(CS) Academics Roadmap & Tool Chain](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 - ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 
@@ -554,7 +558,7 @@ or（情感，逻辑）X （认识，实践）
 ###### 信号与信号处理
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
-↗ [Signal Process](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Process/Signal%20Process.md)
+↗ [Signal Processing](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Processing/Signal%20Processing.md)
 ↗ [DSP (Digital Signal Processor)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
 ###### 语言，思维，信息运动，与智能
 ↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
@@ -698,9 +702,9 @@ or（情感，逻辑）X （认识，实践）
 
 世界的存在：（世界的发展与联系）
 - 物理宇宙的发展：自然科学
-	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
-	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
-	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 - 人及人类社会发展：涉及人类拥有的所有知识
 	- 矛盾：无限的欲望 🆚（有限的能力 导致的 有限的资源）；资源的开发与分配成为人类社会发展的核心问题。而这又由涉及两个主要问题：权力和科学。
 	- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
@@ -861,6 +865,10 @@ or（情感，逻辑）X （认识，实践）
 > 
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
 #### 群体（社会）发展的路径 /方法
+> [!links]
+> ↗ [Decision Making & Game Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+> 
+> ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 > - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
@@ -878,7 +886,7 @@ or（情感，逻辑）X （认识，实践）
 		- 综合 ⏫ ⏩
 - 资源利用：资源在社会中如何利用，就是这个社会的样貌
 	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-	- ↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 	- ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 ##### 原理（发展动力）
@@ -887,9 +895,11 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 
+> [!quote]
 > 历史唯物主义认为：==生产力和生产关系之间的矛盾，经济基础和上层建筑之间的矛盾，这是人类社会的基本矛盾==。这两对矛盾存在于一切社会形态之中，贯穿于每一个社会形态的始终，决定着其他各种社会矛盾，==是推动社会发展的基本动力，决定着社会历史的一般进程。==
 
->  中国的社会主要矛盾：新时代我国社会主要⽭盾是⼈⺠⽇益增⻓的对美好⽣活的需要同不平衡不充分的发展之间的⽭盾。
+> [!quote]
+> 中国的社会主要矛盾：新时代我国社会主要⽭盾是⼈⺠⽇益增⻓的对美好⽣活的需要同不平衡不充分的发展之间的⽭盾。
 ###### 权力，阶级，与阶级斗争
 > 回顾：
 > 
@@ -933,6 +943,7 @@ or（情感，逻辑）X （认识，实践）
 ###### 人民群众是历史的创造者
 ↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
+> [!quote]
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
 ##### 资源获取与使用 - 线索1：国家治理
 ###### 教育，人才，科技，创新与改革 ⏫
@@ -940,7 +951,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
 ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Electronics & Information Technologies Business Fields Research](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
@@ -962,6 +973,7 @@ or（情感，逻辑）X （认识，实践）
 
 ↗ [U.S. Political Parties & Ideologies](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Political%20Parties%20&%20Ideologies/U.S.%20Political%20Parties%20&%20Ideologies.md)
 
+> [!links]
 > 🎬 https://youtu.be/nVR9TKd1vcQ?si=aN-DhiJ5qUrR3XQR
 > 李世默讲透中共成功秘诀！西方多党制根本玩不过共产党！
 > 早在2016年，风险投资人李世默就在香港的一场演讲中，提出了一个独创性的观点：当西方因民主、法治等因素陷入“政治衰败”时，中国共产党的核心竞争力恰恰是改革。 他用投资人的视角，剖析了中共独特的“先有党，再有国”结构，并总结出“贤能、实验、创业”三种高效的治理模式。重温这场经典演讲，可以帮助我们更深刻地理解，为何中国模式能在21世纪的全球改革竞赛中脱颖而出。
@@ -981,7 +993,7 @@ or（情感，逻辑）X （认识，实践）
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 - ↗ [Global Political Landscape](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
-↗ [Natural Science & Engineering & Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science%20&%20Engineering%20&%20Technology.md)
+↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ##### 资源获取与使用 - 线索3：可持续发展 ⏩ ⏫
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
@@ -1009,9 +1021,16 @@ or（情感，逻辑）X （认识，实践）
 
 其中，《学科分类与代码》是依据学科研究对象、研究特征、研究方法、学科的派生来源、研究目的、目标等五个方面对学科进行分类；而后两个分类则是对高校人才培养、教师教学、科研业务隶属范围的相对界定。
 
+> 🔗 https://baike.baidu.com/item/%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91/8792001
+
+一级学科，包括以下2种提法：①教育部《[学位授予和人才培养学科目录](https://baike.baidu.com/item/%E5%AD%A6%E4%BD%8D%E6%8E%88%E4%BA%88%E5%92%8C%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E5%AD%A6%E7%A7%91%E7%9B%AE%E5%BD%95/10078556?fromModule=lemma_inlink)》。在高等学校研究生教育体系设置中，一级学科是学科大类，二级学科是其下的学科小类。截至2021年1月14日，共设14个学科门类（哲学、经济学、法学、教育学、文学、历史学、理学、工学、农学、医学、管理学、[军事学](https://baike.baidu.com/item/%E5%86%9B%E4%BA%8B%E5%AD%A6/1405938?fromModule=lemma_inlink)、[艺术学](https://baike.baidu.com/item/%E8%89%BA%E6%9C%AF%E5%AD%A6/3362725?fromModule=lemma_inlink)、交叉学科）、112个一级学科。例如，理学下有数学、物理学、地理学等十余个一级学科。 [1]②国家标准《[中华人民共和国学科分类与代码国家标准](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB%E4%B8%8E%E4%BB%A3%E7%A0%81%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86/9576538?fromModule=lemma_inlink)》（GB/T 13745）。它是经[国家技术监督局](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E6%8A%80%E6%9C%AF%E7%9B%91%E7%9D%A3%E5%B1%80/8963422?fromModule=lemma_inlink)批准，由国家科委与技术监督局共同提出，国家技术监督局于1992年11月1日正式在北京发布该标准。1993年7月1日正式实施此标准。根据2009修订版，共设5个门类（自然科学类、农业科学类、医药科学类、工程与技术科学类、人文与社会科学类）、58个一级学科。例如，自然科学类下有数学、物理学、地球科学等八个一级学科。
+
+2015年，新增研究生方面“网络空间安全”一级学科。 [2]2021年，新增“交叉学科”门类及“集成电路科学与工程”“国家安全学”等2个一级学科。 [1]
+
+2022年9月13日，[国务院学位委员会](https://baike.baidu.com/item/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AD%A6%E4%BD%8D%E5%A7%94%E5%91%98%E4%BC%9A/4449163?fromModule=lemma_inlink)、[教育部](https://baike.baidu.com/item/%E6%95%99%E8%82%B2%E9%83%A8/239078?fromModule=lemma_inlink)将“[美术与书法](https://baike.baidu.com/item/%E7%BE%8E%E6%9C%AF%E4%B8%8E%E4%B9%A6%E6%B3%95/62029357?fromModule=lemma_inlink)”正式列为一级学科，自2023年下半年启动招生的研究生培养按新版学科专业执行。 [5]
+
 > 🔗 http://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202403/W020240319305498791768.pdf
 > 普通高等学校本科专业目录（2024年）| 中华人民共和国教育部
-
 
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
 
@@ -1071,6 +1090,9 @@ The following outline provides an overview of and topical guide to academic disc
     - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law_2)
     - [Library and museum studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Library_and_museum_studies)
 #### System Science & Systemology 🤔
+> [!links]
+> ↗ [Complex System Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science.md)
+
 > 🔗 https://zh.wikipedia.org/zh-cn/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6
 
 **系统科学**是指从[系统](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F "系统")的角度观察研究客观世界的一门[学科](https://zh.wikipedia.org/wiki/%E5%AD%A6%E7%A7%91 "学科")。“系统”指的是由相互联系、相互作用的要素（或部分）组成的具有一定结构和功能的有机整体；准确来说，“要素”加上“结构”等于“系统”。研究的领域横跨自然科学与社会科学，却除去其中较为狭窄的物理、生物、心理、经济意义，而把研究重心放在探究各个系统的本质规律上。系统科学主要研究系统的要素（或元素）、结构、系统的行为（性质）
@@ -1134,13 +1156,23 @@ https://en.wikipedia.org/wiki/Complex_system
 
 
 ## 🤖 Artificial Intelligence
-> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-> ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 
 ## Sustainable Development of Human Beings
-↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+> [!links]
+> ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+
+
+### Personal Development
+
+
+### Social Development
+
+
+### Civilizational Development
 
 
 

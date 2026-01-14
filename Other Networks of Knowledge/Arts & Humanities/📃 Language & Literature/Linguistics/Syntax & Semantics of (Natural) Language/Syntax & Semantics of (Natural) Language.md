@@ -1,4 +1,4 @@
-# Semantics
+# Syntax & Semantics of (Natural) Language
 
 [TOC]
 
@@ -9,8 +9,10 @@
 ↗ [Algebra](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/Algebra.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
+↗ [Automata Theory and (Formal) Language Theory](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 ↗ [Formal Semantics and Programming Language](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [Semantic Models & Languages](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
+
 ↗ [Semantic Analysis](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 
 
@@ -18,7 +20,11 @@
 
 
 
-## Intro
+## Intro: Syntax
+
+
+
+## Intro: Semantics
 > 🔗 https://en.wikipedia.org/wiki/Semantics
 
 **Semantics** is the study of linguistic [meaning](https://en.wikipedia.org/wiki/Meaning_\(philosophy\) "Meaning (philosophy)"). It examines what meaning is, how words get their meaning, and how the meaning of a complex expression depends on its parts. Part of this process involves the distinction between [sense and reference](https://en.wikipedia.org/wiki/Sense_and_reference "Sense and reference"). Sense is given by the ideas and concepts associated with an expression while reference is the object to which an expression points. Semantics contrasts with [syntax](https://en.wikipedia.org/wiki/Syntax "Syntax"), which studies the rules that dictate how to create [grammatically](https://en.wikipedia.org/wiki/Grammatically "Grammatically") correct sentences, and [pragmatics](https://en.wikipedia.org/wiki/Pragmatics "Pragmatics"), which investigates how people use language in communication. Semantics, together with syntactics and pragmatics, is a part of [semiotics](https://en.wikipedia.org/wiki/Semiotics "Semiotics").

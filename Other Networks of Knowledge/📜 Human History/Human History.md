@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [History of The Universe](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Physical%20Science/History%20of%20The%20Universe.md)
-↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+↗ [History of The Universe](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/History%20of%20The%20Universe.md)
+↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
@@ -280,7 +280,7 @@ Today in history
 
 
 ### The Origin of Life & The Origin of Human Beings
-↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 - Unicellular life
 - Animalia
 - Chordata
@@ -296,7 +296,7 @@ Today in history
 
 
 ### The Evolution of Human Beings / HomoSapiens
-> ↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20&%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
+> ↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Timeline_of_human_evolution
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E6%BC%94%E5%8C%96
@@ -574,15 +574,15 @@ See also
 - ↗ [Vedism (Brahmanism) & Hinduism](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-- ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-- ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-- ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-- ↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
-- ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-- ↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
-- ↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
-- ↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
-- ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+- ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+- ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+- ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+- ↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
+- ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+- ↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
+- ↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
+- ↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+- ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 
 
 ### Contemporary Ethnic Groups
@@ -596,7 +596,7 @@ See also
 > 
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
 #### Han Chinese / 汉
-↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
+↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
 ↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 #### Machu | 满
@@ -633,10 +633,10 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 > 🔗 https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E4%BA%BA
 ##### Telugus
 #### Japanese/Yamato /大和
-↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
+↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
 ↗ [Japan 🇯🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
 #### Koreans
-↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
+↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
 ↗ [Korea 🇰🇵 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
 - ↗ [North Korea 🇰🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
 - ↗ [South Korea 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
@@ -648,24 +648,24 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 #### Jews
 #### Russians
-↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
+↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
 ↗ [Russia 🇷🇺](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
 #### Slovaks
 
 #### Irish
-↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 #### English
-↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 ↗ [United States 🇺🇸](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 ↗ [United Kingdoms 🇬🇧](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
 #### Germans
-↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
+↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
 ↗ [Germany 🇩🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
 #### French
-↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
 ↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Flemings
-↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
+↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
 ↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Italians
 ↗ [Italy 🇮🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
@@ -676,13 +676,13 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Swedes
 ↗ [Sweden 🇸🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
 #### Catalans
-↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
 ↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Valencians
-↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
+↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
 ↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Arabs
-↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 #### Copts
 
 #### Berbers /Amazighs
@@ -690,7 +690,7 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Turks /Turkish
 
 #### Persians
-↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20Second%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
+↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 ↗ [Iran 🇮🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
 #### Luso-Brazilians
 

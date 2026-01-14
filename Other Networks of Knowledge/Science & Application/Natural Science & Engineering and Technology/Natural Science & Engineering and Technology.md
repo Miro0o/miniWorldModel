@@ -1,4 +1,4 @@
-# Natural Science & Engineering & Technology
+# Natural Science & Engineering and Technology
 
 [TOC]
 
@@ -13,7 +13,7 @@
 
 
 ### Other Resources
-[从亚里士多德到牛顿的宇宙 - 合集 | 李永乐](https://youtube.com/playlist?list=PLOrDt87s8A3rnsiIWf3qzQGr75McjYYmm)
+🎬 [从亚里士多德到牛顿的宇宙 - 合集 | 李永乐](https://youtube.com/playlist?list=PLOrDt87s8A3rnsiIWf3qzQGr75McjYYmm)
 
 
 
