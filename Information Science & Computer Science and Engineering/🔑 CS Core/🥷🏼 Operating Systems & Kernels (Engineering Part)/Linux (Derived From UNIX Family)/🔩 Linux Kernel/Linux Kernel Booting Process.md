@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Bootstrap (Boot)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/Computer%20Bootstrap%20(Boot).md)
+↗ [Computer Bootstrapping (Booting)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
 ↗ [🍸 Linux Kernel](🍸%20Linux%20Kernel.md)
 
 

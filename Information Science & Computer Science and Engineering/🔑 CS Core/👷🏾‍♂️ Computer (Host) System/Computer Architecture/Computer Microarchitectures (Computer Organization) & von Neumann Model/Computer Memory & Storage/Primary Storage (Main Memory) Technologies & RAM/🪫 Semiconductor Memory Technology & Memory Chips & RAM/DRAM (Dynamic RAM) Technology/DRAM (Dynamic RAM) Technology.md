@@ -13,6 +13,9 @@ https://youtu.be/7J7X7aZvMXQ?si=nihtTACDaAFqfU14
 How does Computer Memory Work? 💻🛠
 
 
+### Other Resources
+
+
 
 ## Intro: Dynamic RAM Technology
 > 🔗 https://en.wikipedia.org/wiki/Dynamic_random-access_memory
@@ -34,7 +37,7 @@ DRAM had a 47% increase in the price-per-bit in 2017, the largest jump in 30 yea
 
 
 ### 1️⃣ ADRAM (Asynchronous Dynamic RAM)
-The original DRAM, now known by the retronym asynchronous DRAM was the first type of DRAM in use. From its origins in the late 1960s, it was commonplace in computing up until around 1997, when it was mostly replaced by synchronous DRAM. In the present day, manufacture of asynchronous RAM is relatively rare
+The original DRAM, now known by the retronym asynchronous DRAM was the first type of DRAM in use. From its origins in the late 1960s, it was commonplace in computing up until around 1997, when it was mostly replaced by synchronous DRAM. In the present day, manufacture of asynchronous RAM is relatively rare.
 ### 2️⃣ SDRAM (Synchronous Dynamic RAM)
 Synchronous dynamic RAM (SDRAM) significantly revises the asynchronous memory interface, adding a clock (and a clock enable) line. All other signals are received on the rising edge of the clock.
 

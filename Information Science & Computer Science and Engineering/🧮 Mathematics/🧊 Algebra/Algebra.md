@@ -27,6 +27,42 @@
 Algebraic methods were first studied in the [ancient period](https://en.wikipedia.org/wiki/Ancient_period "Ancient period") to solve specific problems in fields like [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"). Subsequent mathematicians examined general techniques to solve equations independent of their specific applications. They described equations and their solutions using words and abbreviations until the 16th and 17th centuries when a rigorous symbolic formalism was developed. In the mid-19th century, the scope of algebra broadened beyond a [theory of equations](https://en.wikipedia.org/wiki/Theory_of_equations "Theory of equations") to cover diverse types of algebraic operations and structures. Algebra is relevant to many branches of mathematics, such as geometry, [topology](https://en.wikipedia.org/wiki/Topology "Topology"), [number theory](https://en.wikipedia.org/wiki/Number_theory "Number theory"), and [calculus](https://en.wikipedia.org/wiki/Calculus "Calculus"), and other fields of inquiry, like [logic](https://en.wikipedia.org/wiki/Logic "Logic") and the [empirical sciences](https://en.wikipedia.org/wiki/Empirical_sciences "Empirical sciences").
 
 
+### Characteristics of Algebra
+> 🎬 [离散数学（全）-北京大学](https://www.bilibili.com/video/BV1BW411n7gw/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d "配课件")
+
+**Highly Abstract and Universal (高度抽象和统一）**
+
+| **学科** | **内容**                          | **时间**   |
+| ------ | ------------------------------- | -------- |
+| 算数     | 算术运算                            | 几千年      |
+| 小代数    | 一次方程、二次方程                       | 1千年      |
+| 大代数    | 高次方程、线性方程组                      | 16-19世纪  |
+| 高等代数   | 线性代数(向量代数、矩阵代数)、多项式代数等,涉及具体代数结构 | 19-20世纪  |
+| 抽象代数   | 代数系统、公理+结构                      | 20世纪20年代 |
+| 泛代数    | 范畴                              | 近几十年     |
+
+
+**Axiomatic System Construction & Structure Analysis (公理化体系的建立和结构分析)**
+公理化体系：欧几里得的平面几何公理；集合论的公理化体系
+结构分析：集合+对应规则+公理 = 结构
+- 序结构
+- 代数结构
+- 拓扑结构
+- 测度结构
+- 上述结构的复合结构（有序距离线形空间）等
+
+
+**Interdiscipline (学科交叉、领域交叉)**
+数学研究领域交叉
+- 泛函分析、解析数论
+- 代数拓扑、代数图论
+确定性与非确定性交叉
+- 随机微分方程
+与其他应用学科交叉
+- 模糊数学
+- 运筹学
+
+
 
 ## Ref
 

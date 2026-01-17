@@ -121,7 +121,7 @@ Software Engineering related tools are found at ↗ [CASE (Computer-Aided Softwa
 
 Security related tools are found at ↗ [Kill Chain & Security Tool Box](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 
-Hardware related tools is available at ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
+Hardware related tools is available at ↗ [Auxiliary Hardware & Peripherals Implementations](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
 
 🥳 Enjoy !!

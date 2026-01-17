@@ -17,7 +17,7 @@
 
 
 
-## AI-Generic 
+## AI-Generic
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 > 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
 > 其实这世界上本没有水会，灌的人多了，也便成了水会。

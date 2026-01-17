@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Entertainments & Media Devices](../../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Input%20&%20Output%20Devices/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
+↗ [Entertainments & Media Devices](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
 
 ↗ [Computer Virtualization](../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 ↗ [Hardware Level Virtualization & Hypervisors](../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hardware%20Level%20Virtualization%20&%20Hypervisors.md)

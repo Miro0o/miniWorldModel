@@ -9,7 +9,7 @@
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [ASM (Assembly Languages)](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
@@ -19,7 +19,7 @@
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Computer Storage & Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-↗ [Computer System Implementations](../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Computer System Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 
@@ -28,10 +28,10 @@
 ↗ [IoT /Embedded System](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 - ↗ [Single-Board Computer (SBC)](../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
-↗ [Hardware & EE Related Theories](../Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
-- ↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-- ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
-- ↗ [Computer System Implementations](../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [EE Related Theories & Hardware Implementation](../EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
+- ↗ [Digital (Logic) Electronics Foundations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+- ↗ [Computer System Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+- ↗ [Auxiliary Hardware & Peripherals Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
 ↗ [Computer Virtualization](../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
@@ -101,16 +101,17 @@ Curious exactly what happens when you run a program on your computer? Read this 
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
+Learning steps in CS:
 1. Pre Computer System..
 	1. 🚪 Introduction to Computer Science
-		1. 🔗 [Intro to Computer Science](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-		2. [Sophomore College The Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
+		1. ↗ [Intro to Computer Science](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+		2. 🔗 [Sophomore College The Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 	2. 🧮 Math
 		1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
 		2. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 	3. 🍎 Physics & ⛏ Electronic Technique Foundations
-		1. ↗ [Classical Electromagnetism](../Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
-		2. ↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+		1. ↗ [Classical Electromagnetism](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
+		2. ↗ [Digital (Logic) Electronics Foundations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 	4. Computer Organization & Architecture
 		1. ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 	5. 🎛️ Operating System
@@ -131,11 +132,67 @@ Curious exactly what happens when you run a program on your computer? Read this 
 ↗ [Computer Architecture /What is A Computer?](Computer%20Architecture/Computer%20Architecture.md#What%20is%20A%20Computer?)
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 
+↗ [Computer Taxonomy & Computer (Hardware) Components](Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+
+
+### Development History of (Von Neumann Based) Computer
+#### Theory Part
+0️⃣ Theory of Computation /Mathematical Model of General Computation and Turing Machine
+↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+> [!quote]
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117145903.png) David Hilbert: 
+> Is there a program which can tell if a theorem is true or false? 🤔
+>
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164423.png) Alonzo Church: Lambda calculus 🤓
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164346.png) Alan Turing: Turing machine 🤓
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117150036.png) Kurt Gödel: General-recursive function 🤓
+#### System Part
+##### Hardware
+1️⃣ Stored-Program Computer and Von Neumann Architecture
+
+> [!quote]
+> ![|50](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+
+↗ [Computer Taxonomy & Computer (Hardware) Components](Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
+
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
+↗ [History of Computer Networking and Communication Evolution](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
+
+![](../../../Assets/Pics/Screenshot%202025-03-22%20at%2020.49.56.png)
+<small>src: New concepts in computer concepts, 21 ed, Module 8: The ICT Industry. Section C</small>
+##### System Software
+↗ [Development(History) of Operating Systems](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
+↗ [Computer Languages & Programming Methodology /History & Generations of (High-Level) Programming Languages](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#History%20&%20Generations%20of%20(High-Level)%20Programming%20Languages)
+
+> [!quote]
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260117151704.png)
+> ↗ [C & CPP](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+> 
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260117151318.png)
+> ↗ [Linux (Derived From UNIX Family)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+> ↗ [🍸 Linux Kernel](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+> ↗ [Open Source (Free Software) Spirits & Software License](../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
+#### Application Part (Algorithms & Application Software)
+The Internet & Web
+↗ [Internet & Entertainment Industry](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
+↗ [Web Development & The Internet](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [Hierarchy of Internet & ISP & IBP](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Hierarchy%20of%20Internet%20&%20ISP%20&%20IBP.md)
+
+Information Systems Development & Information Security
+↗ [History of Information Systems & Security Systems](../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
+
+Computing Methodologies & Artificial Intelligence
+↗ [The Development History of AI](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
+
 
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideology in CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
-↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
+↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
@@ -144,59 +201,12 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 
-## 🗓️ Computer System Development History
-### Computer System Theory Development
-#### 0️⃣ Theory of Computation /Mathematical Model of General Computation and Turing Machine
-↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-
-![|250](../../../Assets/Pics/Pasted%20image%2020241010164346.png)
-![|250](../../../Assets/Pics/Pasted%20image%2020241010164423.png)
-#### 1️⃣ Stored-Program Computer and Von Neumann Architecture
-![|250](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
-
-↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-
-**冯·诺依曼架构（Von Neumann Architecture）** 是冯诺依曼参与第一台电子计算机ENIAC的设计并与团队讨论下一代计算机EDVAC的结构时总结而成的，因此冯诺依曼结构严格来说并不是由冯诺依曼独自完成的，而是他首先发表（因为这事，冯诺依曼与EDVAC团队决裂，当然，这是后话了）。 
-
-冯·诺依曼架构将通用计算机定义为以下 3 个基本原则：
-1. **采用二进制：** 指令和数据均采用二进制格式；
-2. **存储程序：** 一个计算机程序，不可能只有一条指令，而是由成千上万条指令组成的。指令和数据均存储在存储器中，而不是早期的插线板中，计算机按需从存储器中取指令和取数据；
-3. **计算机由 5 个硬件组成：** 运算器、控制器、存储器、输入设备和输出设备。在最开始的计算机中，五个部件是围绕着运算器运转的，这使得存储器和 I/O 设备之间的数据传送也需要经过运算器。 **而现代计算机中，五个部件是围绕着存储器运转的，这使得存储器和 I/O 设备可以直接完成数据传送，而不需要经过 CPU。**
-
-> 更加细致地说冯诺依曼结构
-> 1. 采用存储程序方式，指令和数据不加区别混合存储在同一个存储器中，即指令与数据在内存中主要通过控制器的指针进行操作（例如像X86里的SP,IP等寄存器），且在每个内存段中包含了读写权限等信息。
-> 2. 存储器是按地址访问的线性编址的一维结构，每个单元的位数是固定的。在我们编程时，一般是将内存作为一段一段的使用，而对于计算机而言，其实就是一条直线。
-> 3. 指令由操作码和地址组成。操作码指明本指令的操作类型,地址码指明操作数和地址。操作数本身无数据类型的标志，它的数据类型由操作码确定。
-> 4. 通过执行指令直接发出控制信号控制计算机的操作。指令在存储器中按其执行顺序存放，由指令计数器指明要执行的指令所在的单元地址。指令计数器只有一个，一般按顺序递增，但执行顺序可按运算结果或当时的外界条件而改变。
-> 5. 以运算器为中心，I/O设备与存储器间的数据传送都要经过运算器。
-> 6. 数据以二进制表示，大大提高了存储效率。
-#### 3️⃣ Other Architectures
-↗ [Non-von Neumann Based Microarchitectures](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
-#### 4️⃣ Quantum Computer
-↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
-
-
-### Computer System Hardware Development
-↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
-↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
-↗ [History of Computer Networking and Communication Evolution](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
-
-![](../../../Assets/Pics/Screenshot%202025-03-22%20at%2020.49.56.png)
-<small>src: New concepts in computer concepts, 21 ed, Module 8: The ICT Industry. Section C</small>
-
-
-### Computer System Software Development
-↗ [Development(History) of Operating Systems](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
-↗ [Computer Languages & Programming Methodology /History & Generations of (High-Level) Programming Languages](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#History%20&%20Generations%20of%20(High-Level)%20Programming%20Languages)
-
-
-### Information Systems Development & Information Security
-↗ [History of Information Systems & Security Systems](../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
-
-
-
 ## 🎯 Computer System: Hardware Perspective
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+- ↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+- ↗ [CPU (Central Processing Unit)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 
 
 

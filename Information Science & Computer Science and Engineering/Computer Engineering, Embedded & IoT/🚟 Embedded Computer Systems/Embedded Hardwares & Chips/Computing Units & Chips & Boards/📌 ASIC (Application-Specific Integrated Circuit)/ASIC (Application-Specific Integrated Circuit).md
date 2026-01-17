@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Systems on Chip (SOC)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SoC)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
 
 
 
@@ -34,6 +34,8 @@ As feature sizes have shrunk and chip design tools improved over the years, the 
 
 
 ### FPGA 🆚 ASIC
+#fpga #asic 
+
 > ↗ [FPGA (Field Programmable Gates Arrays)](../Configurable%20Processors%20(PLDs,%20Programmable%20Logic%20Devices)/FPGA%20(Field%20Programmable%20Gates%20Arrays).md)
 
 **Field-programmable gate arrays (FPGA)** are the modern-day technology improvement on breadboards, meaning that they are not made to be application-specific as opposed to ASICs. Programmable logic blocks and programmable interconnects allow the same FPGA to be used in many different applications. For smaller designs or lower production volumes, FPGAs may be more cost-effective than an ASIC design, even in production. The **non-recurring engineering (NRE)** cost of an ASIC can run into the millions of dollars. Therefore, device manufacturers typically prefer FPGAs for prototyping and devices with low production volume and ASICs for very large production volumes where NRE costs can be amortized across many devices.

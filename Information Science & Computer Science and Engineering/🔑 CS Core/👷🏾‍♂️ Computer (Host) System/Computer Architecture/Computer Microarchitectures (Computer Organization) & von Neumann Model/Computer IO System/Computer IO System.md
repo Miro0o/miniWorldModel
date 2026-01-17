@@ -13,7 +13,7 @@
 - ↗ [Computer Firmware System Interfaces](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Firmware%20System%20Interfaces/Computer%20Firmware%20System%20Interfaces.md)
 - ↗ [Computer (IO Devices) Drivers & Programming](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 
-↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
+↗ [Auxiliary Hardware & Peripherals Implementations](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](../Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
@@ -60,7 +60,7 @@ This diversity makes a uniform and consistent approach to I/O, both from the poi
 
 ## I/O and Performance
 ### Amdahl's Law
-> ↗ [Multiprocessor Architectures & Parallel Computing /Amdahl’s Law (Gene Amdahl)](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md#Amdahl’s%20Law%20(Gene%20Amdahl))
+> ↗ [Multiprocessor Architectures & Parallel Computing /Amdahl’s Law (Gene Amdahl)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md#Amdahl’s%20Law%20(Gene%20Amdahl))
 
 In 1967, Gene Amdahl recognized the interrelationship of all components with the overall efficiency of a computer system. He quantified his observations in a formula, which is now known as **Amdahl’s Law**. In essence, Amdahl’s Law states that ==the overall speedup of a computer system depends on both the speedup in a particular component and how much that component is used by the system.== In symbols:
 $$S = \frac{1}{(1-f)+(f/k)}$$

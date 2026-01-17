@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Computer System Implementations](../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Digital (Logic) Electronics Foundations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Computer System Implementations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
 ↗ [Formal Semantics and Programming Language](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
@@ -147,6 +147,7 @@ CEN, Comité Européen de Normalisation
 
 
 ### What is A Computer?
+>[!links]
 >↗ [Computer Engineering, Embedded & IoT](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md) 
 >↗ [Embedded Computer Systems](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 
@@ -160,6 +161,116 @@ CEN, Comité Européen de Normalisation
 计算机的另外一个极端应用就是手机，手机也是计算机的一种。现在的手机里至少有一个CPU，有的甚至有几个。
 
 希望大家建立一个概念，计算机不光是桌面上摆的个人计算机，它可以大到一个厅都放不下，需要专门为它建一个电站来供电，也可以小到揣在我们的兜里，充电两个小时就能用一整天。不管这个计算机的规模有多大，都是计算机体系结构的研究对象。计算机是为了满足人们各种不同的计算需求设计的自动化计算设备。随着人类科技的进步和新需求的提出，最快的计算机会越来越大，最小的计算机会越来越小。
+
+
+### 🤔 Computer Architecture /ISA 🆚 Computer Microarchitecture /Computer Organization
+#computer_architecture #computer_organization #micro_architecture #cpu #soc #ISA 
+
+![](../../../../Assets/Pics/Pasted%20image%2020240222191459.png)
+<small>Image source from "Computer Architecture - A Quantitative Approach 5" by John L. Hennessy, David A. Patterson (《计算机体系结构：量化研究方法 第 5 版》)</small>
+
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+
+The Classic Definition: Architecture vs. Organization
+- **Computer Architecture (The What):** This is the **Programmer's View**.
+    - "Does this computer have a Multiply instruction?"
+    - "How many registers can I use?"
+    - _Analogy:_ The Design of a Car (Steering wheel, pedals, dashboard).
+- **Computer Organization (The How):** This is the **Engineer's View**.
+    - "How do we build the multiplier? Do we use 4-bit adders or 8-bit adders?"
+    - "Do we use a Ring Bus or a Mesh to connect memory?"
+    - _Analogy:_ The Mechanics of a Car (Fuel injection, V8 vs V6 engine, transmission type).
+#### Computer Architecture =? ISA
+##### #1 - Computer Architecture = ISA + Computer Organization ✅
+This is the definition I use in this whole notes. However, sometimes people refer to ISA only when they say "computer architecture".
+##### #2 - Computer Architecture = ISA
+> **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
+
+指令集架构是尝试为程序员提供一个抽象的机器模型， 以及为程序员提供一些机器状态的可视化，如机器是否有存储器、是否有寄存器，同时还定义了一些操作指令以及一些基本的计算指令， 并且定义了指令的操作方式。例如，ADD 指令一个基本的加法指令，它的实际语义定义了如何从一个寄存器中取出数据并与另一个寄存器中的数据相加，最后再保存。
+
+将两个数相加，并保存到另一个寄存器中，这样看起来执行一条加法指令并不是一步完成的，其实指令很多时候都不会是一步完成还会有其他的操作需要处理，例如，IO 中断。那么就需要再指令集架构中定义一个中断的指令和实际语义是什么，或者是如何在 IO 出入一块数据，这些操作又是如何与处理器交互的。因此指令集架构还需要定义 IO 的输入输出如何工作。
+
+有了输入输出，那么还需要考虑每次操作数的大小，每次操作多大的数据呢？以一个字节为单位？两个字节为单位？四个？那么一个字节具体又是多长？所以还需要定义数据的大小和类型。
+
+指令集架构是提供给软件的一个抽象层，或者说是为了软件而提供了一个这样的抽象层（指令集架构），这样的目的是为了让软件不会有太大的改变。 指令集架构为机器的程序运行制定了一套理论基础即机器该依照此清楚自己如何运行程序，而没有明确的规定不同数据结构的大小、哪些东西运行得多快，这些实际性的执行问题都会在 微架构 (Microarchitecture) 中考虑。
+
+在整个计算机体系结构中有这么多分层，我们需要清楚的一点是，设计整个计算机体系架构即设计每一层时都需要做到权衡彼此。因此 指令集架构的设计会影响软件程序和微架构，即需要在同时兼顾上下相互影响的设计实现一个特定的指令集体系架构。
+#### Computer Organization =? Microarchitecture
+> [!links]
+> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
+> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
+
+> **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), is the implementation method of a given ISA. 
+
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+> 
+> "when we say computer organization, do we refer to the microarchitecture of CPU itself? or do we refer to the overall organization of the motherboard? what about those SoCs?"
+
+This is a fantastic question because the term **"Computer Organization"** is a bit of a chameleon. It changes its meaning depending on which decade you are in and how zoomed-in you are.
+
+In strict academic terms (like the famous Patterson & Hennessy textbooks), **Computer Organization** refers to the **operational units and their interconnections**. It is the answer to the question: _"How is the machine physically built to satisfy the instruction set?"_
+
+To answer your question directly: **It refers to BOTH, but the line between them is disappearing.**
+
+Summary
+- **Does it refer to Microarchitecture?** **Yes.** This is the primary modern usage. It's about how the internals of the processor work (Pipeline, Cache, ALU).
+- **Does it refer to the Motherboard?** **Yes, historically.** It includes how the processor connects to memory and peripherals.
+- **SoCs:** They merge the two. An SoC _is_ a motherboard printed onto a single microarchitecture die.
+##### #1 - Computer Organization = Microarchitecture (CPU Core) ✅
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+
+Scope A: The CPU (Microarchitecture) -- **"Organization inside the chip"**
+When you take a university course called "Computer Organization," 90% of the time you are studying the **Microarchitecture** of the CPU.
+- **Why?** Because this is where the complex engineering happens.
+- **What it covers:** Pipelines, Branch Predictors, ALUs, Cache Hierarchy (L1/L2).
+- **Verdict:** Yes, Microarchitecture is the "Organization" of the CPU.
+###### Microarchitecture = CPU?
+microarchitecture can refer to the design of CPU core only, the design of CPU, or the design of any other microprocessor. depends on the context. 
+
+so many mixed usages of these confusing terms!
+
+↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+##### #2 - Computer Organization = Motherboard Organization (CPU + Others)
+> [!links]
+> ↗ [Motherboard & Mainboard](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
+
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+
+Scope B: The System (The Motherboard) -- **"Organization outside the chip"**
+Historically, "Computer Organization" also referred to how the **entire box** was wired together.
+- **The Bus System:** How the CPU talks to the RAM and the Hard Drive.
+- **I/O Controllers:** How the keyboard and mouse send signals to the processor.
+- **Verdict:** This is technically "System Organization," but it falls under the same umbrella.
+##### 3# - Computer Organization = Microarchitecture = Motherboard (SoCs)
+> [!links]
+> ↗ [Systems on Chip (SoC)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
+
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+
+In the old days (1990s-2000s), the "CPU Organization" and the "Motherboard Organization" were two totally different things physically.
+- **CPU:** Intel Pentium.
+- **Motherboard:** Northbridge chip, Southbridge chip, Sound card, Network card.
+
+**In an SoC (like in your phone or an Apple M3 MacBook):** The "Motherboard" has shrunk until it was swallowed by the "CPU."
+- The Memory Controller? **Inside the chip.**
+- The Graphics Card? **Inside the chip.**
+- The Network (Wi-Fi/5G)? **Inside the chip.**
+- The Sound/USB controllers? **Inside the chip.**
+
+**Result:** In the era of SoCs, **Computer Organization** and **Microarchitecture** have effectively become the same thing. The "System" organization is now just the "Chip" organization.
+#### Examples of Microarchitectures & ISA
+因为一般来说指令集架构是固定的，为了达到多种用途或者不同性能的处理器那么将根据一些目标指标来根据指令集架构实现不同的微架构。
+
+例如，Intel 的 X86 就是一个指令集体系架构，在此指令集架构上有许多不同的微体系架构的实现，因此有了高性能处理的服务器版本和专注于特定功能的机器，虽然芯片内部看起来完全不同，但是两个处理器可以执行相同的代码，因为他们使用的是完全一样的指令集架构。
+
+![](../../../../Assets/Pics/Pasted%20image%2020240222192206.png)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1ef072fea0a84b7b8d8b44fb4a80c906.png#pic_center)
 
 
 ### Scope of Computer Architecture
@@ -185,14 +296,22 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 
 再看一个问题：如果在翻页的过程中，发现翻页过程非常卡顿，即该计算机在WPS翻页时性能较低，可能是什么原因呢？首先得看看系统中有没有其他任务在运行，如果有很多任务在运行，这些任务会占用CPU、内存带宽、IO带宽等资源，使得WPS分到的资源不够，造成卡顿。如果系统中没有其他应用与WPS抢资源，还会卡顿，那是什么原因呢？多数人会认为是CPU太慢，需要升级。实际上，在WPS翻页时，CPU干的活不多。一种可能是下一页包含很多图形，尤其是很多矢量图，需要GPU画出来，GPU忙不过来了。另外一种可能是要显示的内容数据量大，要把大量数据从WPS的应用程序空间传给GPU使用的专门空间，内存带宽不足导致不能及时传输。在独立显存的情况下，数据如何从内存传输到显存有两种不同的机制：由CPU从内存读出来再写到显存需要CPU具有专门的IO加速功能，因为显存一般是映射在CPU的IO空间；不通过CPU，通过直接内存访问（Direct Memory Access，简称DMA）的方式直接从内存传输到显存会快得多。
 
-“计算机体系结构”课程是研究怎么造计算机，而不是怎么用计算机。我们不是学习驾驶汽车，而是学习如何造汽车。一个计算机体系结构设计人员就像一个带兵打仗的将领，要学会排兵布阵。要上知天文、下知地理，否则就不会排兵布阵，或者只会纸上谈兵地排兵布阵，只能贻误军国大事。对计算机体系结构设计来说，“排兵布阵”就是体系结构设计，“上知天文”就是了解应用程序、操作系统、编译器的行为特征，“下知地理”就是了解逻辑、电路、工艺的特点。永远不要就体系结构论体系结构，要做到应用、系统、结构、逻辑、电路、器件的融会贯通。就像《论语》中说的“吾道一以贯之”。
+“计算机体系结构”课程是研究怎么造计算机，而不是怎么用计算机。我们不是学习驾驶汽车，而是学习如何造汽车。一个计算机体系结构设计人员就像一个带兵打仗的将领，要学会排兵布阵。要上知天文、下知地理，否则就不会排兵布阵，或者只会纸上谈兵地排兵布阵，只能贻误军国大事。对计算机体系结构设计来说，“排兵布阵”就是体系结构设计，“上知天文”就是了解应用程序、操作系统、编译器的行为特征，“下知地理”就是了解逻辑、电路、工艺的特点。永远不要就体系结构论体系结构，要做到应用、系统、结构、逻辑、电路、器件的融会贯通。就像《论语》中说的“**吾道一以贯之**”。
 #### (General) Computer Architecture Hierarchy
+> [!links]
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md).
+> 
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+> - ↗ [Microprocessor & Microprocessors Unit (MPU)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+> - ↗ [CPU (Central Processing Unit)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+> 
+> ↗ [Non-von Neumann Based Microarchitectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
+
 ![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer Architecture Hierarchy</small>
 
 
 ---
-
 ![](../../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)
 
 **Level 6: The User Level(用户层）**
@@ -237,7 +356,11 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 需要指出的是，在API和ISA之间还有一层应用程序二进制接口（Application Binary Interface，简称ABI）。ABI是应用程序访问计算机硬件及操作系统服务的接口，由计算机的用户态指令和操作系统的系统调用组成。为了实现多进程访问共享资源的安全性，处理器设有“用户态”与“核心态”。用户程序在用户态下执行，操作系统向用户程序提供具有预定功能的系统调用函数来访问只有核心态才能访问的硬件资源。当用户程序调用系统调用函数时，处理器进入核心态执行诸如访问IO设备、修改处理器状态等只有核心态才能执行的指令。处理完系统调用后，处理器返回用户态执行用户代码。相同的应用程序二进制代码可以在相同ABI的不同计算机上运行。
 
 学习计算机体系结构的人一定要把图[1.1](https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#fig:hierarchy1)装在心中。从一般意义上说，计算机体系结构的研究内容包括指令系统结构、硬件系统结构和CPU内部的微结构。但做体系结构设计而上不懂应用和操作系统，下不懂晶体管级行为，就像带兵打仗排兵布阵的人不知天文、不晓地理，是做不好体系结构的。首先，指令系统就是从应用程序算法中抽取出来的“算子”。只有对应用程序有深入的了解，才能决定哪些事情通过指令系统由硬件直接实现，哪些事情通过指令组合由软件实现。其次，硬件系统和CPU的微结构要针对应用程序的行为进行优化。如针对媒体处理等流式应用，需要通过预取提高性能；CPU的高速缓存就是利用了应用程序访存的局部性；CPU的转移猜测算法就是利用了应用程序转移行为的重复性和相关性；CPU的内存带宽设计既要考虑CPU本身的访存需求，也要考虑由显示引起的GPU访问内存的带宽需求。再次，指令系统和CPU微结构的设计要充分考虑操作系统的管理需求。如操作系统通过页表进行虚存管理需要CPU实现TLB（Translation Lookaside Buffer）对页表进行缓存并提供相应的TLB管理指令；CPU实现多组通用寄存器高速切换的机制有利于加速多线程切换；CPU实现多组控制寄存器和系统状态的高速切换机制有利于加速多操作系统切换。最后，计算机中主要的硬件实体如CPU、GPU、南北桥、内存等都是通过晶体管来实现的，只有对晶体管行为有一定的了解才能在结构设计阶段对包括主频、成本、功耗在内的硬件开销进行评估。如高速缓存的容量是制约CPU主频和面积的重要因素，多发射结构的发射电路是制约主频的重要因素，在微结构设计时都是进行权衡取舍的重要内容。
-#### Basic Components & Arch. of A Computer: Von Neumann Model
+##### Turing Machine & Von Neumann Model
+> [!links]
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+
 > 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%84%E6%88%90
 
 我们从小就学习十进制的运算，0、1、2、3、4、5、6、7、8、9十个数字，逢十进一。计算机中使用二进制，只有0和1两个数字，逢二进一。为什么用二进制，不用我们习惯的十进制呢？因为二进制最容易实现。自然界中二值系统非常多，电压的高低、水位的高低、门的开关、电流的有无等等都可以组成二值系统，都可以用来做计算机。二进制最早是由莱布尼茨发明的，冯·诺依曼最早将二进制引入计算机的应用，而且计算机里面的程序和数据都用二进制。从某种意义上说，中国古人的八卦也是一种二进制。
@@ -283,7 +406,12 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 
 大家看看刚才这个过程，比我们大脑运算烦琐多了。我们大脑算三步就算完了，而计算机需要那么多步，又取指令又取数据，挺麻烦的。这就是冯·诺依曼结构的基本思想：数据和程序都在存储器中，CPU从内存中取指令和数据进行运算并把结果也放到内存中。把指令和数据都存在内存中可以让计算机按照事先规定的程序自动地完成运算，是实现图灵机的一种简单方法。冯·诺依曼结构很好地解决了自动化的问题：把程序放在内存里，一条条取进来，自己就做起来了，不用人来干预。如果没有这样一种自动执行的机制，让人去控制计算机做什么运算，拨一下开关算一下，程序没有保存在内存中而是保存在人脑中，就成算盘了。计算机的发展日新月异，但70多年过去了还是使用冯·诺依曼结构。尽管冯·诺依曼结构有很多缺点，例如什么都保存在内存中使访存成为性能瓶颈，但我们还是摆脱不了它。
 
-虽然经过了长期的发展，以存储程序和指令驱动执行为主要特点的冯·诺依曼结构仍是现代计算机的主流结构。笔者面试研究生的时候经常问一个问题：冯·诺依曼结构最核心的思想是什么？结果很多研究生都会答错。有人说是由计算器、运算器、存储器、输入、输出五个部分组成；有人说是程序计数器导致串行执行；等等。实际上，冯·诺依曼结构就是数据和程序都存在存储器中，CPU从内存中取指令和数据进行运算，并且把结果也放在内存中。概括起来就是存储程序和指令驱动执行。
+虽然经过了长期的发展，以存储程序和指令驱动执行为主要特点的冯·诺依曼结构仍是现代计算机的主流结构。笔者面试研究生的时候经常问一个问题：冯·诺依曼结构最核心的思想是什么？结果很多研究生都会答错。有人说是由计算器、运算器、存储器、输入、输出五个部分组成；有人说是程序计数器导致串行执行；等等。==实际上，冯·诺依曼结构就是数据和程序都存在存储器中，CPU从内存中取指令和数据进行运算，并且把结果也放在内存中。概括起来就是存储程序和指令驱动执行。==
+##### Von Neumann Model 🆚 Architecture & Organization 🆚 ISA & Microarchitecture
+#micro_architecture #computer_architecture #computer_organization #ISA 
+
+> [!links]
+> ↗ [Computer Processors & Logic Chips (Theory Part)](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md) "ISA, Microarchitecture, Microprocessor, CPU, and Die/Silicon?"
 #### Microcomputer Principles & Interfaces (微机原理与接口)
 **Microcomputer principles & interfaces** is the knowledge about computer **processors** (mostly CPU, a kind of processor) and how it is operating (instruction execution and data transfer, which involves **bus** and **interfaces**). 
 
@@ -313,7 +441,6 @@ To control computer processors in a programmable way, knowledge about assembly l
 > 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99
 
 计算机体系结构发展很快，但在发展过程中遵循一些基本原则，这些原则包括平衡性、局部性、并行性和虚拟化。
-
 #### Balance
 
 #### Locality
@@ -325,91 +452,13 @@ To control computer processors in a programmable way, knowledge about assembly l
 ↗ [Virtualization Development History & Timeline](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Virtualization%20Development%20History%20&%20Timeline.md)
 
 
-### Computer Architecture/ISA 🆚 Computer Microarchitecture (Computer Organization)
-![](../../../../Assets/Pics/Pasted%20image%2020240222191459.png)
-<small>Image source from "Computer Architecture - A Quantitative Approach 5" by John L. Hennessy, David A. Patterson (《计算机体系结构：量化研究方法 第 5 版》)</small>
-#### Microarchitecture/ Computer Organization
-> Q: What is microarchtecture?
-> A: what microarchitecture and organization is really thinking about here is the tradeoffs as you’re going to implement a fixed instruction set architecture. (computer engineering)
-
-> **Computer organization**, or ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), is the implementation method of a given ISA. 
-
-因为一般来说指令集架构是固定的，为了达到多种用途或者不同性能的处理器那么将根据一些目标指标来根据指令集架构实现不同的微架构。
-
-例如，Intel 的 X86 就是一个指令集体系架构，在此指令集架构上有许多不同的微体系架构的实现，因此有了高性能处理的服务器版本和专注于特定功能的机器，虽然芯片内部看起来完全不同，但是两个处理器可以执行相同的代码，因为他们使用的是完全一样的指令集架构。
-#### ISA/ Computer Architecture
-> Q: What is instruction set architecture (computer architecture)?
-> A: a instruction set architecture, or big A architecture is trying to provide the programmer some abstract machine model. (computer programming & science)
-
-> **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
-
-指令集架构是尝试为程序员提供一个抽象的机器模型， 以及为程序员提供一些机器状态的可视化，如机器是否有存储器、是否有寄存器，同时还定义了一些操作指令以及一些基本的计算指令， 并且定义了指令的操作方式。例如，ADD 指令一个基本的加法指令，它的实际语义定义了如何从一个寄存器中取出数据并与另一个寄存器中的数据相加，最后再保存。
-
-将两个数相加，并保存到另一个寄存器中，这样看起来执行一条加法指令并不是一步完成的，其实指令很多时候都不会是一步完成还会有其他的操作需要处理，例如，IO 中断。那么就需要再指令集架构中定义一个中断的指令和实际语义是什么，或者是如何在 IO 出入一块数据，这些操作又是如何与处理器交互的。因此指令集架构还需要定义 IO 的输入输出如何工作。
-
-有了输入输出，那么还需要考虑每次操作数的大小，每次操作多大的数据呢？以一个字节为单位？两个字节为单位？四个？那么一个字节具体又是多长？所以还需要定义数据的大小和类型。
-
-指令集架构是提供给软件的一个抽象层，或者说是为了软件而提供了一个这样的抽象层（指令集架构），这样的目的是为了让软件不会有太大的改变。 指令集架构为机器的程序运行制定了一套理论基础即机器该依照此清楚自己如何运行程序，而没有明确的规定不同数据结构的大小、哪些东西运行得多快，这些实际性的执行问题都会在 微架构 (Microarchitecture) 中考虑。
-
-在整个计算机体系结构中有这么多分层，我们需要清楚的一点是，设计整个计算机体系架构即设计每一层时都需要做到权衡彼此。因此 指令集架构的设计会影响软件程序和微架构，即需要在同时兼顾上下相互影响的设计实现一个特定的指令集体系架构。
-##### Examples of Microarchitectures & ISA
-![](../../../../Assets/Pics/Pasted%20image%2020240222192206.png)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/1ef072fea0a84b7b8d8b44fb4a80c906.png#pic_center)
-
-
-
-## 📜 ISA
-> 🔗 Check out more at ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md).
-
-
-
-## 🗿 Microarchitecture
-> ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md) for more!
-
-
-### Computer Microarchitecture Models
-Control units can be designed in one of two ways: They can be hardwired or they can be microprogrammed. These implement the ISA from design level to real physical machine. 
-
-> 🔗 Summed at [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-#### 1️⃣ Von Neumann Based 
-
-> 储存-执行模型
-> 指令和数据存一块，同一条总线取
-
-![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
-<small>The Modified von Neumann Architecture</small>
-
-More at ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-#### 2️⃣ Harvard Based
-
-> 🤨 Many modern general-purpose computers use a modified version of the Harvard architecture in which they have **separate pathways for data and instructions but not separate storage**. (指令和数据存一块，但是用单独的总线分别取)
-> 
-> 🧐 Pure Harvard architectures are typically used in **microcontrollers** (an entire computer system on a chip), such as those found in embedded systems, as in appliances, toys, and cars. (指令和数据分开存，分开取)
-
-![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)
-<small>Simplified Harvard Based Architecture Diagram</small>
-
-![](../../../../../Assets/Pics/Pasted%20image%2020230302132205.png)
-<small>Slight Dive into a Harvard Based Architecture Model</samll>
-#### 🙈 More Architecture Models!
-To list a few:
-1. **Neural networks** (using ideas from models of the brain as a computing paradigm) implemented in silicon, cellular automata, cognitive computers (machines that learn by experience rather than through programming, e.g., IBM’s SyNAPSE computer, a machine that models the human brain);
-2. **Quantum computation** (a combination of computing and quantum physics)
-3. **Dataflow computation**;
-4. **Parallel computers**. 
-
-
-### More About Computer Microarchitectures!
-At ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-
-
 
 ## Computing in Future
 ↗ [History of Computing](../../../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 
 ↗ [Computing Methodologies](../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 - ↗ [Artificial Intelligence](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+	- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 - ↗ [Quantum Computing (and Communication)](../../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)

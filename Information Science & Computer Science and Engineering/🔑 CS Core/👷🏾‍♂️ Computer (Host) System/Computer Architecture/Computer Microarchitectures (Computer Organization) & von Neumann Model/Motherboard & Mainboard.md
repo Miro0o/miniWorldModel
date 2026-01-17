@@ -6,10 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Motherboards](../../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Motherboards/Computer%20Motherboards.md)
-
 ↗ [Single-Board Computer (SBC)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
-↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SoC)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
+
+↗ [Devices Schematic Diagram & Teardown](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+
+
+### Other Resources
 
 
 
@@ -21,6 +24,56 @@ A **motherboard** (also called **mainboard**, **main circuit board**, **MB**, **
 **Motherboard means specifically a PCB with expansion capabilities**. As the name suggests, this board is often referred to as the mother of all components attached to it, which often include peripherals, interface cards, and daughterboards: sound cards, video cards, network cards, host bus adapters, TV tuner cards, IEEE 1394 cards, and a variety of other custom components.
 
 Similarly, the term **mainboard** describes a device with a single board and no additional expansions or capability, such as controlling boards in laser printers, television sets, washing machines, mobile phones, and other [embedded systems](https://en.wikipedia.org/wiki/Embedded_system "Embedded system") with limited expansion abilities
+
+![|400](../../../../../Assets/Pics/Pasted%20image%2020260117203140.png)
+<small>Block diagram of an early 2000s motherboard, which supports many on-board peripheral functions as well as several expansion slots <br> <a>https://en.wikipedia.org/wiki/Motherboard</a></small>
+
+
+### Developments of Von Neumann Based Microarchitecture Designs (Motherboard Organization)
+> 🔗 https://foxsen.github.io/archbase/计算机组成原理和结构.html#计算机系统硬件结构发展
+> 目前，主流商用处理器中面向中高端领域的处理器普遍采用两片结构，而面向中低端及嵌入式领域的处理器普遍采用单片结构。SoC单片结构最常见的是在手机等移动设备中。
+#### 1️⃣ CPU-GPU-北桥-南桥四片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145108.png)
+
+#### 2️⃣ CPU-北桥-南桥三片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145124.png)
+
+#### 3️⃣ CPU-弱北桥-南桥三片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145139.png)
+
+#### 4️⃣ CPU-南桥两片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145150.png)
+
+#### 5️⃣ SoC单片结构
+> [!links]
+> ↗ [Systems on Chip (SoC)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
+
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414144958.png)
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
+<small>The scaling in the Apple M series of SoCs<br><a>https://pbs.twimg.com/media/FCBl1gcWEAUOdRw?format=jpg&name=large</a></small>
+
+
+### Bootstrapping
+> [!links]
+> ↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+> ↗ [Computer Bootstrapping (Booting)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Motherboard#Bootstrapping
+
+Modern motherboards contain firmware stored in non-volatile memory such as [ROM](https://en.wikipedia.org/wiki/ROM "ROM"), [EPROM](https://en.wikipedia.org/wiki/EPROM "EPROM"), [EEPROM](https://en.wikipedia.org/wiki/EEPROM "EEPROM"), or [NOR flash](https://en.wikipedia.org/wiki/NOR_flash "NOR flash"), which is responsible for initializing system hardware and loading an [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") from a [boot device](https://en.wikipedia.org/wiki/Boot_device "Boot device"). The terms _booting_ and _bootstrapping_ derive from the metaphor "pulling oneself up by one's bootstraps", reflecting the self-starting nature of the process.
+
+
+
+## Ref
+[现在主板上没有南桥北桥芯片组了？ - 千古八方的文章 - 知乎]: https://zhuanlan.zhihu.com/p/461982828
+
+以常见的家用Intel桌面版的CPU为例，Intel 10th Gen Core（CPU处理器）通过 495系列芯片组和外围低速设备连接。好了，现在处理低速设备的PCH（旧称南桥芯片组）还是有的，不过已经集成到CPU里了，名字改了功能小变化，承担角色没变。见下图：
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240401150756.png)
+<small>上图是10代，下图11代</small>
+
 
 Motherboard
 > Interl, ARM <--> Acorn, [AMD](https://zh.wikipedia.org/wiki/超威半导体) ,[ASUS](https://en.wikipedia.org/wiki/Asus), [GIGABYTE](https://en.wikipedia.org/wiki/Gigabyte_Technology),  
@@ -48,13 +101,3 @@ Motherboard
 			+ address bus
 			+ data bus
 				+ front side bus, (FSB), connecting CPU and northbridge.
-
-
-
-## Ref
-[现在主板上没有南桥北桥芯片组了？ - 千古八方的文章 - 知乎]: https://zhuanlan.zhihu.com/p/461982828
-
-以常见的家用Intel桌面版的CPU为例，Intel 10th Gen Core（CPU处理器）通过 495系列芯片组和外围低速设备连接。好了，现在处理低速设备的PCH（旧称南桥芯片组）还是有的，不过已经集成到CPU里了，名字改了功能小变化，承担角色没变。见下图：
-
-![](../../../../../Assets/Pics/Pasted%20image%2020240401150756.png)
-<small>上图是10代，下图11代</small>

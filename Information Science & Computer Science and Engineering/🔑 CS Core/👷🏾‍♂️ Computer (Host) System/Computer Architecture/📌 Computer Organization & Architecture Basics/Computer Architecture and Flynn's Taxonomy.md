@@ -33,7 +33,7 @@
 
 
 ### Vector Processers
-↗ [Vector Processors](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Vector%20Processors/Vector%20Processors.md)
+↗ [Vector Processors](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Vector%20Processors/Vector%20Processors.md)
 
 Often referred to as supercomputers, vector processors are specialized, heavily pipelined SIMD processors that perform efficient operations on entire vectors and matrices at once. This class of processor is suited for applications that can benefit from a high degree of parallelism, such as weather forecasting, medical diagnosing, and image processing.
 
@@ -57,9 +57,9 @@ Not implemented.
 
 ### Shared Memory Machines (SMM)
 #### 1️⃣ SMP (Shared Memory Multiprocessors /Symmetric Multiprocessing)
-↗ [Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP)/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP).md)
+↗ [Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP)/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP).md)
 #### 2️⃣ NUMA (Non-Uniform Memory Access)
-↗ [NUMA (Non-Uniform Memory Access)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processor/Multiprocessor%20Architectures%20&%20Parallel%20Computing/NUMA%20(Non-Uniform%20Memory%20Access)/NUMA%20(Non-Uniform%20Memory%20Access).md)
+↗ [NUMA (Non-Uniform Memory Access)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/NUMA%20(Non-Uniform%20Memory%20Access)/NUMA%20(Non-Uniform%20Memory%20Access).md)
 
 
 ### Event-Driven Machines

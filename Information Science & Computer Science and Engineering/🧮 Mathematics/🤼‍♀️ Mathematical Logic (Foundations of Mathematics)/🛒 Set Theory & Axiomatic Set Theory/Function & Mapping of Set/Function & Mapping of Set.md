@@ -62,6 +62,12 @@ When the domain of a function $f$ is $A_1 \times ··· \times A_k$ for some set
 > 后文中，我们提到的“函数”如果不强调它的完全性的话，都泛指部分函数。
 
 部分函数在计算机科学中是非常重要的，因为对于每一个 $a \in A$，一个算法可以表示为，计算出集合 $B$ 中与之对应元素的过程。==这个算法可能对于某些 $a \in A$ 不会终止（non-termination），而这种情况是很常见的。==
+#### One-Way Function
+↗ [Cryptography](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
+- ↗ [Message Digest & Hash Function (Integrity)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
+- ↗ [Message Digest (Hash Function) Based Message Authentication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
+
+↗ [Elementary Theory of Numbers](../../../🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 
 
 ### Equation (方程) & Constrains of Function
@@ -157,8 +163,8 @@ fact' = fix $ \fact -> \n -> case n of
 `fix`后面跟的函数没有名字，它是匿名的，但是经过`fix`作用后，可以产生一个递归函数。也就是说，为了实现递归，函数是可以没有名字的。
 ###### Y-Combinator
 > [!links]
-> ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-> ↗ [Combinatory Logic](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Combinatory%20Logic.md)
+> ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+> ↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Combinatory%20Logic.md)
 > ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
 > ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
@@ -239,7 +245,7 @@ fact' = y $ \fact -> \n -> case n of
 ↗ [Constraint-Based Analysis & Control Flow Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis.md)
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-- ↗ [Lie Group](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Lie%20Group/Lie%20Group.md)
+- ↗ [Lie Groups](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/🪖%20Lie%20Groups/Lie%20Groups.md)
 - ↗ [Lie Algebra](../../../🧊%20Algebra/Lie%20Algebra/Lie%20Algebra.md)
 
 ↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
@@ -325,3 +331,4 @@ f n = n + f(n-2)
 
 
 ## Ref
+[18 【“函数”为什么会是“函”？ - 寧世科学辞海 | 小红书 - 你的生活兴趣社区】 😆 5S8BzU9XHLSWs1y 😆 ]: https://www.xiaohongshu.com/discovery/item/6864ee7a000000001c037de0?source=webshare&xhsshare=pc_web&xsec_token=ABHzGdmnpgYvtcNm2A8tGi6K37DylddLz7LmNksWs70Dk=&xsec_source=pc_share

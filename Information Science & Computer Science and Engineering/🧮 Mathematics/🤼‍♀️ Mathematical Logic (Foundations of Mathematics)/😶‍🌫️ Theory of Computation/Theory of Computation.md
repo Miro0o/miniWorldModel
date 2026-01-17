@@ -153,7 +153,7 @@ Automata theory is an excellent place to begin the study of the theory of comput
 
 
 ## Models of Computation
-↗ [Models of Computation & UTM (universal Turing Machine)](Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine)/Models%20of%20Computation%20&%20UTM%20(universal%20Turing%20Machine).md)
+↗ [Models of Computation & Abstract Machines](Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 
 

@@ -66,7 +66,7 @@ Traditional password authentication is static, which is feasible to attack. That
 - Drawback: Vulnerable to online brute-force attacks
 - Possible fix: rate limits
 
-**2FA Example: Security Keys** (↗ [Dongle](../../../../../../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Input%20&%20Output%20Devices/Dongle/Dongle.md))
+**2FA Example: Security Keys** (↗ [Dongle](../../../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Dongle/Dongle.md))
 - Security key: A device designed to defend against phishing
 	- Something the user owns
 - Usage

@@ -16,6 +16,7 @@
 
 
 ## Intro
+Hash function:
 - Map arbitrary-length input to fixed-length output
 - Output is deterministic and unpredictable
 - Security properties

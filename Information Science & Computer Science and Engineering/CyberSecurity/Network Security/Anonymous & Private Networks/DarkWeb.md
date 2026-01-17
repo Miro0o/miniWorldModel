@@ -16,16 +16,16 @@
 ### Other Resources
 http://deepdotweb.com
 
-[Ahmia Search](https://ahmia.fi/)  
-[Dark.Fail](https://dark.fail/)  
-[Dark Web OSINT Attack Surface](https://www.osintdojo.com/diagrams/dwm)  
-[Dark Web Resources by OSINTCombine](https://www.osintcombine.com/post/dark-web-searching)  
-[Dark Web OSINT Youtube Playlist](https://www.youtube.com/watch?v=IOblaXyY2U0&list=PLtoC6Cd29__Xx7nLqnCaTpp7TSm7sprn4)  
-[Recon Search (TOR)](http://reconponydonugup.onion/)  
-[Shodan Darkweb Queries](https://www.youtube.com/watch?v=IOblaXyY2U0)  
-[The Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)  
-[Tor66 (TOR)](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/)  
-[Torch Search (TOR)](http://xmh57jrzrnw6insl.onion/)  
+[Ahmia Search](https://ahmia.fi/) 
+[Dark.Fail](https://dark.fail/)
+[Dark Web OSINT Attack Surface](https://www.osintdojo.com/diagrams/dwm)
+[Dark Web Resources by OSINTCombine](https://www.osintcombine.com/post/dark-web-searching)
+[Dark Web OSINT Youtube Playlist](https://www.youtube.com/watch?v=IOblaXyY2U0&list=PLtoC6Cd29__Xx7nLqnCaTpp7TSm7sprn4)
+[Recon Search (TOR)](http://reconponydonugup.onion/)
+[Shodan Darkweb Queries](https://www.youtube.com/watch?v=IOblaXyY2U0)
+[The Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
+[Tor66 (TOR)](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/)
+[Torch Search (TOR)](http://xmh57jrzrnw6insl.onion/)
 
 [**CrowdStrike Falcon Intelligence Recon EDITOR’S CHOICE**](https://www.comparitech.com/go/crowdstrike-dark-web-monitoring-learn-more-best-dark-web-monitoring-tools/l/list_dd_d__post__240532/u/29a9-9b84-bb14-808b-da9dc2+x+240532++d/) This intelligence feed scans the Dark Web for mentions of your brand and corporate identifiers, such as email addresses on your domain. Available in two plan levels and delivered from a cloud platform. Start a [15-day free trial](https://www.comparitech.com/go/crowdstrike-dark-web-monitoring-free-trial-best-dark-web-monitoring-tools/l/lcta_dd_d__post__240532/u/ec7b-8b6e-9307-a6cd-020eaa+x+240532++d/).
 - **Echosec Beacon** Checks the Dark Web for compromised account credentials, and stolen personal information and financial data.

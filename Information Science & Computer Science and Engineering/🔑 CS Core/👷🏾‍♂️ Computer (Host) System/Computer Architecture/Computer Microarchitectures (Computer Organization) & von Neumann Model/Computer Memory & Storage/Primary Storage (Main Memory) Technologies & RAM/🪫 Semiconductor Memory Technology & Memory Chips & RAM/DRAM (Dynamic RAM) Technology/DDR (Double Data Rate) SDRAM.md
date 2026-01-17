@@ -61,5 +61,29 @@ With data being transferred 64 bits at a time, DDR SDRAM gives a transfer rate (
 
 
 
+## LP (Low-Power) DDR
+### LPDDR vs DDR?
+#lpddr #ddr
+
+> 🔗 Google Search AI
+
+[DDR](https://www.google.com/search?q=DDR&newwindow=1&sca_esv=fef7c50b93d662fb&sxsrf=ANbL-n5sj2A4ypF4DOKlxpuHJq3vKsp1vw%3A1768602963791&ei=U71qafX_L9z_wPAPgIyMwQU&oq=lpddr&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWxwZGRyKgIIATIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUi1CFAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIImAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHB4AIAA&sclient=gws-wiz-serp&ved=2ahUKEwjhtLytkJGSAxXDJhAIHRBTFyIQgK4QegQIARAE) ([Double Data Rate](https://www.google.com/search?q=Double+Data+Rate&newwindow=1&sca_esv=fef7c50b93d662fb&sxsrf=ANbL-n5sj2A4ypF4DOKlxpuHJq3vKsp1vw%3A1768602963791&ei=U71qafX_L9z_wPAPgIyMwQU&oq=lpddr&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWxwZGRyKgIIATIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUi1CFAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIImAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHB4AIAA&sclient=gws-wiz-serp&ved=2ahUKEwjhtLytkJGSAxXDJhAIHRBTFyIQgK4QegQIARAF)) RAM is for high-performance computing (desktops, servers) focusing on raw speed, while [LPDDR](https://www.google.com/search?q=LPDDR&newwindow=1&sca_esv=fef7c50b93d662fb&sxsrf=ANbL-n5sj2A4ypF4DOKlxpuHJq3vKsp1vw%3A1768602963791&ei=U71qafX_L9z_wPAPgIyMwQU&oq=lpddr&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWxwZGRyKgIIATIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUi1CFAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIImAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHB4AIAA&sclient=gws-wiz-serp&ved=2ahUKEwjhtLytkJGSAxXDJhAIHRBTFyIQgK4QegQIARAG) ([Low Power DDR](https://www.google.com/search?q=Low+Power+DDR&newwindow=1&sca_esv=fef7c50b93d662fb&sxsrf=ANbL-n5sj2A4ypF4DOKlxpuHJq3vKsp1vw%3A1768602963791&ei=U71qafX_L9z_wPAPgIyMwQU&oq=lpddr&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWxwZGRyKgIIATIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUi1CFAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIImAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHB4AIAA&sclient=gws-wiz-serp&ved=2ahUKEwjhtLytkJGSAxXDJhAIHRBTFyIQgK4QegQIARAH)) is for mobile devices (phones, tablets, thin laptops) prioritizing power efficiency and battery life, achieved through lower voltage, smaller form factors (often soldered directly), and power-saving states, though modern LPDDR offers high bandwidth, sometimes exceeding basic DDR. The key trade-off is LPDDR's efficiency versus DDR's typical ease of upgrading and potentially higher peak speeds in high-end modules, although LPDDR is catching up.
+
+> 🔗 https://www.reddit.com/r/hardware/comments/r5bqo0/comment/hmm96k6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+There are other major differences than binning.
+
+Most notably, LPDDR SDRAM is designed to be able to scale down the refresh rate of the memory to a very low clock rate when idle, allowing for extremely low power draw while any part of the RAM is not actively being written to or read from (but where the RAM still retains all information, since it is not turned off entirely), while standard DDR SDRAM cannot do this.
+
+This comes with a number of tradeoffs; it requires stricter bin tolerances and is therefore more expensive to do, this type of downclocking doesn't play well with socketed RAM form-factors, so all LPDDR SDRAM must be soldered, and lastly, LPDDR SDRAM designs doesn't seem to scale as well for extremely high-density memory (think 128GB DIMMs for servers and the like).
+
+You can work around these restrictions to some extent. The first can simply be overcome if you're willing to throw money at the problem. The second may not be an issue depending on your target customer or device, especially since you can still offer factory customizability. For the third, it's worth noting that soldered RAM is very space-efficient (this applies for both DDR and LPDDR), so it's actually a viable strategy to just throw more LPDDR SDRAM at the chip if you're willing to make the memory bus wide enough. You'd be paying a premium for both the expensive memory and the expensive memory bus though, so it really only makes sense to do so if you need low idle power draw.
+
+It's also worth noting that LPDDR SDRAM has half the channel bandwidth of DDR SDRAM, but this does not matter much in practice, since all laptop designs that use LPDDR SDRAM feature a memory bus with at least twice as many channels to compensate.
+
+Other than that, there's no performance penalty worth noting for LPDDR RAM. LPDDR RAM has gotten a bad reputation over the last few years especially, since Intel tied LPDDR4 support to a new 10nm memory controller which they weren't able to ship because 10nm was a disaster, and AMD didn't bother supporting LPDDR4 before Zen 2, so the PC laptop market was stuck on using either LPDDR3 or DDR4 for four years after the DDR3 to DDR4 transition.
+
+
+
 ## Ref
 🎬【大型服务器主板32条DDR4内存条12层设计，PCB文件310m大小。一般电脑真跑不动。】 https://www.bilibili.com/video/BV1J1421t73Y/?share_source=copy_web

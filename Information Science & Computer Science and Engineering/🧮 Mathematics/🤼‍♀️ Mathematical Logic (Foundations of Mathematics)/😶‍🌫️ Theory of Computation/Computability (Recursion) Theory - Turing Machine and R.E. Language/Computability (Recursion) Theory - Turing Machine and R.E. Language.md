@@ -28,7 +28,7 @@
 - ↗ [Domain Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Domain%20Theory/Domain%20Theory.md)
 ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Denotational%20Semantics.md)
 
-↗ [Lambda Calculus (λ-Calculus)](../../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
@@ -224,16 +224,7 @@ $$\Phi(x_1, x_2, \cdots, x_n, y) = \psi(x_1, x_2, \cdots, x_n)$$
 
 
 
-## Universal Turing Machine (UTM)
-> 🔗 https://en.wikipedia.org/wiki/Universal_Turing_machine
-
-In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **universal Turing machine** (**UTM**) is a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") capable of computing any computable sequence, as described by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in his seminal paper "On Computable Numbers, with an Application to the [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem "Entscheidungsproblem")". Common sense might say that a universal machine is impossible, but Turing proves that it is possible. He suggested that we may compare a human in the process of computing a real number to a machine that is only capable of a finite number of conditions ⁠$q_{1},q_{2},\dots ,q_{R}$⁠; which will be called "m-configurations". He then described the operation of such machine, as described below, and argued:
-
-> It is my contention that these operations include all those which are used in the computation of a number.
-
-[Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") introduced the idea of such a machine in 1936–1937.
-
-
+## Turing Machine & Recursive Enumerable Language
 ### Decidability
 > [!links]
 > ↗ [Software (Program) Analysis Basics](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
@@ -282,11 +273,12 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 
 ### Computability
 > [!quote]
-> David Hilbert: Is there a program which can tell if a theorem is true or false?
-> 
-> Alonzo Church: Lambda calculus
-> Alan Turing: Turing machine
-> Kurt Gödel: General-recursive function
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117145903.png) David Hilbert: 
+> Is there a program which can tell if a theorem is true or false? 🤔
+>
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164423.png) Alonzo Church: Lambda calculus 🤓
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164346.png) Alan Turing: Turing machine 🤓
+> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117150036.png) Kurt Gödel: General-recursive function 🤓
 
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 
@@ -316,35 +308,13 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 	- ↗ [AI Embodiment & World Model](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
 
 
-### Universal Program & Input Encoding
-> [!TIP]
-> > 🤖 GPT-5
-> 
-> A **universal program** is the programming-language-level version of a **universal Turing machine**—they compute the same class of functions, just described in different frameworks.
->
->--- 
-> **What is a universal program?**
-> 
-> A **universal program** is a program that can **simulate any other program** when given:
-> 1.  a description of that program, and
-> 2. the input for that program.
-> 
-> Formally, if `P` is any program and `x` is its input, a universal program `U` satisfies: `U(P, x) = P(x)`
-> 
-> So instead of hard-coding one task, `U` can _run_ any task, as long as that task is encoded as data.
->
->---
-> **What is a Universal Turing Machine (UTM)?**
-> 
-> A **Universal Turing Machine** is the same concept, but defined in the **Turing machine model of computation**.
-> - A UTM is a Turing machine
-> - It takes as input:
-> 	- an encoding of another Turing machine `M`
-> 	- an input string `w`
-> - It simulates `M` running on `w`
-> 
-> Formally: `UTM(⟨M⟩, w) = M(w)`
+### Turing Machine Equivalents / Turing Complete Models
+↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
+
+
+## Universal Machine /Program
+### Universal Program & Input Encoding
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 
 我们使用现代计算机进行编程的时候，并不是直接把程序的输入传给程序，而是将程序本身以及它的输入，传给计算机，最后由计算机得到计算结果，
@@ -392,6 +362,63 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 [可计算函数](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E5%87%BD%E6%95%B0 "可计算函数")集合的[编号](https://zh.wikipedia.org/wiki/%E7%B7%A8%E8%99%9F_\(%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96\) "編號 (計算理論)")有时叫做哥德尔编号或有效编号。哥德尔编号可以被解释为一个[编程语言](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言")，带有指派哥德尔数到每个可计算函数作为在这种[编程语言](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80 "编程语言")中计算这个函数的值的[程序](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BA%8F "程序")。[Roger 等价定理](https://zh.wikipedia.org/w/index.php?title=Roger_%E7%AD%89%E4%BB%B7%E5%AE%9A%E7%90%86&action=edit&redlink=1 "Roger 等价定理（页面不存在）")特征化了是哥德尔编号的可计算函数集合的编号。
 
 
+### Universal Turing Machine (UTM)
+> [!TIP]
+> > 🤖 GPT-5
+> 
+> A **universal program** is the programming-language-level version of a **universal Turing machine**—they compute the same class of functions, just described in different frameworks.
+>
+>--- 
+> **What is a universal program?**
+> 
+> A **universal program** is a program that can **simulate any other program** when given:
+> 1.  a description of that program, and
+> 2. the input for that program.
+> 
+> Formally, if `P` is any program and `x` is its input, a universal program `U` satisfies: `U(P, x) = P(x)`
+> 
+> So instead of hard-coding one task, `U` can _run_ any task, as long as that task is encoded as data.
+>
+>---
+> **What is a Universal Turing Machine (UTM)?**
+> 
+> A **Universal Turing Machine** is the same concept, but defined in the **Turing machine model of computation**.
+> - A UTM is a Turing machine
+> - It takes as input:
+> 	- an encoding of another Turing machine `M`
+> 	- an input string `w`
+> - It simulates `M` running on `w`
+> 
+> Formally: `UTM(⟨M⟩, w) = M(w)`
+
+> 🔗 https://en.wikipedia.org/wiki/Universal_Turing_machine
+
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **universal Turing machine** (**UTM**) is a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") capable of computing any computable sequence, as described by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in his seminal paper "On Computable Numbers, with an Application to the [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem "Entscheidungsproblem")". Common sense might say that a universal machine is impossible, but Turing proves that it is possible. He suggested that we may compare a human in the process of computing a real number to a machine that is only capable of a finite number of conditions ⁠$q_{1},q_{2},\dots ,q_{R}$⁠; which will be called "m-configurations". He then described the operation of such machine, as described below, and argued:
+
+> It is my contention that these operations include all those which are used in the computation of a number.
+
+[Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") introduced the idea of such a machine in 1936–1937.
+
+
+
+## Computable Functions
+> [!links]
+> ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Computable_function
+
+**Computable functions** are the basic objects of study in [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"). Informally, a [function](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)") is _computable_ if there is an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that computes the value of the function for every value of its argument. Because of the lack of a precise definition of the concept of algorithm, every formal definition of computability must refer to a specific [model of computation](https://en.wikipedia.org/wiki/Model_of_computation "Model of computation").
+
+Many such models of computation have been proposed, the major ones being [Turing machines](https://en.wikipedia.org/wiki/Turing_machine "Turing machine"), [register machines](https://en.wikipedia.org/wiki/Register_machine "Register machine"), [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and [general recursive functions](https://en.wikipedia.org/wiki/General_recursive_function "General recursive function"). Although these four are of a very different nature, they provide exactly the same class of computable functions, and, for every model of computation that has ever been proposed, the computable functions for such a model are computable for the above four models of computation.
+
+The [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis "Church–Turing thesis") is the unprovable assertion that every notion of computability that can be imagined can compute only functions that are computable in the above sense.
+
+Before the precise definition of computable functions, [mathematicians](https://en.wikipedia.org/wiki/Mathematician "Mathematician") often used the informal term _effectively calculable_. This term has since come to be identified with the computable functions. The effective computability of these functions does not imply that they can be _efficiently_ computed (i.e. computed within a reasonable amount of time). In fact, for some effectively calculable functions it can be shown that any algorithm that computes them will be very inefficient in the sense that the running time of the algorithm increases [exponentially](https://en.wikipedia.org/wiki/Exponential_growth "Exponential growth") (or even [superexponentially](https://en.wikipedia.org/wiki/Tetration "Tetration")) with the length of the input. The fields of [feasible computability](https://en.wikipedia.org/wiki/Feasible_computability "Feasible computability") and [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") study functions that can be computed efficiently.
+
+The [Blum axioms](https://en.wikipedia.org/wiki/Blum_axioms "Blum axioms") can be used to define an abstract [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") on the set of computable functions. In computational complexity theory, the problem of computing the value of a function is known as a [function problem](https://en.wikipedia.org/wiki/Function_problem "Function problem"), by contrast to [decision problems](https://en.wikipedia.org/wiki/Decision_problem "Decision problem") whose results are either "yes" or "no".
+
+
 
 ## Ref
 [Computability theory]: https://en.wikipedia.org/wiki/Computability_theory
@@ -410,3 +437,5 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 [👍 如何通俗地解释停机问题（Halting Problem）？ - 张皓的回答 - 知乎]: https://www.zhihu.com/question/20081359/answer/162329455
 [Halting problem | Wikipedia]: https://en.wikipedia.org/wiki/Halting_problem
 [Gödel's incompleteness theorems | wikipedia]: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+
+[Difference Between Turing Machine and Universal Turing Machine | geeksforgeeks]: https://www.geeksforgeeks.org/theory-of-computation/difference-between-turing-machine-and-universal-turing-machine/

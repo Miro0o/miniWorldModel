@@ -164,33 +164,34 @@ Historically, the concept of a proof and its associated [mathematical rigour](h
 
 
 ### Characters of Modern Mathematics
-> 🔗 [离散数学（全）-北京大学](https://www.bilibili.com/video/BV1BW411n7gw/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d "配课件")
-#### Highly Abstract and Universal (高度抽象和统一）
-| **学科** | **内容**                          | **时间**   |
-| ------ | ------------------------------- | -------- |
-| 算数     | 算术运算                            | 几千年      |
-| 小代数    | 一次方程、二次方程                       | 1千年      |
-| 大代数    | 高次方程、线性方程组                      | 16-19世纪  |
-| 高等代数   | 线性代数(向量代数、矩阵代数)、多项式代数等,涉及具体代数结构 | 19-20世纪  |
-| 抽象代数   | 代数系统、公理+结构                      | 20世纪20年代 |
-| 泛代数    | 范畴                              | 近几十年     |
-#### Axiomatic System Construction & Structure Analysis (公理化体系的建立和结构分析)
-公理化体系：欧几里得的平面几何公理；集合论的公理化体系
-结构分析：集合+对应规则+公理 = 结构
-- 序结构
-- 代数结构
-- 拓扑结构
-- 测度结构
-- 上述结构的复合结构（有序距离线形空间）等
-#### Interdiscipline (学科交叉、领域交叉)
-数学研究领域交叉
-- 泛函分析、解析数论
-- 代数拓扑、代数图论
-确定性与非确定性交叉
-- 随机微分方程
-与其他应用学科交叉
-- 模糊数学
-- 运筹学
+> [!links]
+> 🔗 https://mathscitech.org/articles/characteristics-mathematics
+> 
+> The following books and papers are recommended for additional reading on the topics discussed in this article.
+> - An expository survey of elementary mathematics provides an excellent example of the richness and creativity of mathematical ideas, as well as a condensed glimpse into the evolution of mathematical ideas. See [Ebr06](https://mathscitech.org/articles/characteristics-mathematics#Ebrahim/StoryofNumber) and [Ale56](https://mathscitech.org/articles/characteristics-mathematics#Aleksandrov).
+> - An expository look at the questions of axiomatic foundations of mathematics is contained in the short paper [Fef99](https://mathscitech.org/articles/characteristics-mathematics#Fef/NewAxioms).
+> - Lakatos develops a particularly vivid presentation of dialectic in mathematics in his mathematical-literary play _Proofs and Refutations_, [Lak76](https://mathscitech.org/articles/characteristics-mathematics#Lakatos/Proofs).
+> - Lamport and Djikstra inquire into the place and method of proof in mathematics in [Lam95](https://mathscitech.org/articles/characteristics-mathematics#Lamport/Proofs) and [Dij89b](https://mathscitech.org/articles/characteristics-mathematics#EWD/Hygiene).
+> 
+> Other recommended references are:  
+> [Bou](https://mathscitech.org/articles/characteristics-mathematics#Bourbaki/Foundations), [Bri57](https://mathscitech.org/articles/characteristics-mathematics#Brillouin1),[Bri59](https://mathscitech.org/articles/characteristics-mathematics#Brillouin2),[Bri62](https://mathscitech.org/articles/characteristics-mathematics#Brillouin3),[Bul94](https://mathscitech.org/articles/characteristics-mathematics#Bullock),[Bur](https://mathscitech.org/articles/characteristics-mathematics#Burton),[CR41](https://mathscitech.org/articles/characteristics-mathematics#CourantRobbins),[DH81](https://mathscitech.org/articles/characteristics-mathematics#Davis/Hersh),[Dij89a](https://mathscitech.org/articles/characteristics-mathematics#EWD/MathMethod),[Dij](https://mathscitech.org/articles/characteristics-mathematics#EWDMathWriting),[Dij98](https://mathscitech.org/articles/characteristics-mathematics#EWD1277/MathRigor),
+> [Ebr04a](https://mathscitech.org/articles/characteristics-mathematics#Ebrahim/CourseInPhilosMath),[Ebr08](https://mathscitech.org/articles/characteristics-mathematics#Ebrahim/Logic),[Fef](https://mathscitech.org/articles/characteristics-mathematics#Fef/Foundations),[Fef98](https://mathscitech.org/articles/characteristics-mathematics#Fef/IntuitionMonsters),[Fef92b](https://mathscitech.org/articles/characteristics-mathematics#Fef/MathScience),[Fef99](https://mathscitech.org/articles/characteristics-mathematics#Fef/NewAxioms),[Fef92a](https://mathscitech.org/articles/characteristics-mathematics#Fef/WhatRestsOnWhat),[Gal94](https://mathscitech.org/articles/characteristics-mathematics#Gallian/CAA),[GKP](https://mathscitech.org/articles/characteristics-mathematics#GKP/Concrete),
+> [Guged](https://mathscitech.org/articles/characteristics-mathematics#Gugg/DiffGeom),[Gul97](https://mathscitech.org/articles/characteristics-mathematics#Gullberg),[Hal87](https://mathscitech.org/articles/characteristics-mathematics#Halmos),[GKHK75](https://mathscitech.org/articles/characteristics-mathematics#HandbookMathVNR),[Tuc04](https://mathscitech.org/articles/characteristics-mathematics#HandbookCSCRC),[Dor](https://mathscitech.org/articles/characteristics-mathematics#HandbookEECRC),[FD07](https://mathscitech.org/articles/characteristics-mathematics#Jose/Labyr),[Kle86](https://mathscitech.org/articles/characteristics-mathematics#Kleiner/GroupTheory),[Kli](https://mathscitech.org/articles/characteristics-mathematics#Kline),[Pan](https://mathscitech.org/articles/characteristics-mathematics#Pannenoek),[Ped89](https://mathscitech.org/articles/characteristics-mathematics#Pedersen), [Rot97](https://mathscitech.org/articles/characteristics-mathematics#Rota),[Rus](https://mathscitech.org/articles/characteristics-mathematics#Russell/Principia),[Wal06](https://mathscitech.org/articles/characteristics-mathematics#Walicki/Logic),[Wil82](https://mathscitech.org/articles/characteristics-mathematics#Wilf),[Zad75](https://mathscitech.org/articles/characteristics-mathematics#Zadeh1975).
+
+> 🔗 https://mathscitech.org/articles/characteristics-mathematics
+
+In the article [_What is Mathematics?_](https://mathscitech.org/articles/what-is-mathematics), I have posited that Mathematics arises from Man’s attempt to summarize the variety of empirical phenomena that he experiences, and that Mathematics advances through the expansion and generalization of these concepts, and the improvement of these models.
+
+But what are the _characteristics_ of mathematics, especially contemporary mathematics?
+
+I’ll consider five groups of characteristics:
+1. [Applicability and Effectiveness](https://mathscitech.org/articles/characteristics-mathematics#Applicability),
+2. [Abstraction and Generality](https://mathscitech.org/articles/characteristics-mathematics#Abstraction),
+3. [Simplicity](https://mathscitech.org/articles/characteristics-mathematics#Simplicity),
+4. [Logical Derivation, Axiomatic Arrangement](https://mathscitech.org/articles/characteristics-mathematics#Axiomatic),
+5. [Precision, Correctness, Evolution through Dialectic](https://mathscitech.org/articles/characteristics-mathematics#Precision).
+
+Though each of these characteristics presents unique pedagogical challenges and opportunities, here I’ll focus on the characterisics themselves and leave the pedagogical discussion to ([Ebr05d](https://mathscitech.org/articles/characteristics-mathematics#Ebrahim/ThinkingTeaching)). (Pedagogical matters are discussed in the article _[Teaching Mathematics “in Tunic”](https://mathscitech.org/articles/teaching-mathematics-in-tunic)_.)
 
 
 ### Relation Between Math and Science
@@ -237,7 +238,7 @@ After we have defined various objects and notions, we usually make **mathematica
 > [!links]
 > ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 > 
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -358,15 +359,15 @@ fact n = n * fact (n-1)
 - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
-↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 ↗ [Logic And Mechanized (Formal) Reasoning](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
-↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
--  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
 #### Axiomatization of Mathematics & Axiomatic System ⭐
 > [!links]
-> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md) "formalization and formal system"
-> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System)
+> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) "formalization and formal system"
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
 > ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -381,7 +382,7 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 
 [数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
 
-**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Properties%20of%20Logics%20System))
+**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System))
 - 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
 - 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
 	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
@@ -391,8 +392,8 @@ A proof within an axiomatic system is a sequence of deductive steps that establi
 ==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
 ##### The Process of Axiomatization & Formal Language
 > [!links]
-> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
-> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 > ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
@@ -488,7 +489,7 @@ n := '-' | '-' n
 #formal_system #axiomatic_system 
 
 > [!links]
-> ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
 formal system: symbols + deduction rules.
 - only syntax level
@@ -578,11 +579,11 @@ axiomatic system: formal system + mathematical semantics
 
 从运算性质的角度来分析问题，越来越流行了，成为了现代数学不可或缺的一部分，并且，代数学考虑问题的方法，也逐渐影响着其他学科。
 ###### 🤔 Formal Logics: Symbols, Syntax, and Semantics
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
-- ↗ [Classical Logic (Standard Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Classical%20Logic%20(Standard%20Logic).md)
-	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-	- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Classical%20Logic%20(Standard%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+	- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 > 🔗 https://thzt.github.io/2017/09/10/type-4/
 > 🔗 https://thzt.github.io/2017/09/15/hilbert-style-and-gentzen-style-deduction-system/
@@ -600,26 +601,26 @@ axiomatic system: formal system + mathematical semantics
 本文介绍了两种风格的一阶谓词逻辑演算系统，其中$K​_\mathcal{L}$​​是Hilbert-style演绎系统，$N_\mathcal{L}$​​是Gentzen-style自然演绎系统，可以证明它们是等价的。
 ###### 🤔 Simply Typed Lambda Calculus: Syntax and Semantics
 > [!links]
-> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 > ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 简单类型化$λ$演算$λ^→$的语法：(Syntax)
-- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - 🔗 https://thzt.github.io/2017/09/19/type-6/
 
 简单类型化$λ$演算$λ^→$​​的语义：(Semantics)
 - 一般有两种通用的方法，一种是**Henkin模型**，另一种是笛卡尔闭范畴。
-- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
 	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
-	- ↗ [Henkin Model & Henkin Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+	- ↗ [Henkin Model & Henkin Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
 	- ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
 ##### Gödel's Incompleteness Theorems ⭐
-> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md#Gödel's%20Incompleteness%20Theorems%20⭐)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
 
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 
@@ -689,7 +690,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-- ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -702,11 +703,11 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 	- ↗ [Group Theory & Group-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
-	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
-	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
 	- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-- ↗ [Linear Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Module-Like%20Algebraic%20Structure/Linear%20Algebra/Linear%20Algebra.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
 ↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
 - ↗ [Graph Basics](Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 - ↗ [Algebraic Graph Theory](Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)

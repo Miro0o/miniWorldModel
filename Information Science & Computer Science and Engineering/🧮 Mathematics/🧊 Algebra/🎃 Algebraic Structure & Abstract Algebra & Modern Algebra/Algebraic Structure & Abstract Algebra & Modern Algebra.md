@@ -107,8 +107,8 @@ Algebraic structures are so numerous today that this article will inevitably be 
 
 ### Group, Ring, and Field ⭐
 > ↗ [Group Theory & Group-Like Algebraic Structure](Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
-> ↗ [Ring Theory & Ring-Like Algebraic Structure](Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
-> ↗ [Field Theory & Field-like Algebraic Structure](Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+> ↗ [Ring Theory & Ring-Like Algebraic Structure](Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+> ↗ [Field Theory & Field-like Algebraic Structure](Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
 
 ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
 <small>【群环域串讲】 <a>https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a></small>

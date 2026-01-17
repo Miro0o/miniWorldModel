@@ -61,7 +61,7 @@ Other firmware applications include:
 
 
 ## Intro: Booting
-↗ [Computer Bootstrap (Boot)](🌽%20Computer%20Bootstrap%20(Boot)/Computer%20Bootstrap%20(Boot).md)
+↗ [Computer Bootstrapping (Booting)](🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Auxiliary Hardware & Peripherals (IO Devices)](../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
+↗ [Auxiliary Hardware & Peripherals Implementations](../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
 
 

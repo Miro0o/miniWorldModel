@@ -32,6 +32,11 @@ We borrow inspirations from many open resources like [OpenAI CookBook](https://
 [Promptify](https://github.com/promptslab/Promptify)
 
 
+### Papers
+Winning Gold at IMO 2025 with a Model-Agnostic Verification-and-Refinement Pipeline
+https://arxiv.org/abs/2507.15855
+
+
 ### Other Resources
 https://latitude.so/developers
 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools

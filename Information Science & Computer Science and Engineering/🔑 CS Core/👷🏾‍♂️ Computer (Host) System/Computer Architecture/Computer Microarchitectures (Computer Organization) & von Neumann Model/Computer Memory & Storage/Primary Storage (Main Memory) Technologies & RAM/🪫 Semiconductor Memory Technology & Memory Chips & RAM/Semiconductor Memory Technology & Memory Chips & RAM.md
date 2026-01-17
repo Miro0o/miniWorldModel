@@ -9,8 +9,8 @@
 ↗ [Semi-conductor Media (Circuit) Storage & Flash Storage](../../Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage.md)
 ↗ [Semiconductor Memory Technology & Memory Chips & RAM](Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM.md)
 
-↗ [Digital (Logic) Electronics Foundations](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Transistors](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Transistors](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
 
 
 ### Learning Resources
@@ -28,9 +28,9 @@ Most semiconductor memory is organized into **memory cells** each storing one bi
 
 
 ### Transistors & Logic Gates
-↗ [Digital (Logic) Electronics Foundations](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Logic Gate](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Logic%20Gate.md)
-↗ [Transistors](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Logic Gate](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Logic%20Gate.md)
+↗ [Transistors](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
 
 
 ### Memory Cells
@@ -61,7 +61,7 @@ Floating-Gate Memory & Non-Volatile Memory (NVM)
 
 
 ### SRAM (Static RAM)
-↗ [SRAM (Static RAM) Technology](SRAM%20(Static%20RAM)%20Technology.md)
+↗ [SRAM (Static RAM) Technology](SRAM%20(Static%20RAM)%20Technology/SRAM%20(Static%20RAM)%20Technology.md)
 
 
 

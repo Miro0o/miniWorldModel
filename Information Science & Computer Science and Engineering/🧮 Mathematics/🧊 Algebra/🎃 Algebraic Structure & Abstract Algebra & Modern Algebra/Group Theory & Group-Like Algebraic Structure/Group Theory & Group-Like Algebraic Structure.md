@@ -32,7 +32,6 @@ Euler's formula with introductory group theory | 3B1B
 
 
 
-
 ## Ref
 [群论简介]: https://oi-wiki.org/math/group-theory/#商群
 [商群]: https://math.fandom.com/zh/wiki/商群?variant=zh

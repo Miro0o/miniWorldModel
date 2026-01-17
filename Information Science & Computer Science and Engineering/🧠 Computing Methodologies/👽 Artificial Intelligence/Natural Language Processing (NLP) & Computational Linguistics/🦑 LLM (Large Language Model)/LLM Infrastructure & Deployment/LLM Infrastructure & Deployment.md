@@ -49,10 +49,14 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 
 
 ## LLM Desktop Deployment
+↗ [ollama](LLM%20Desktop%20Deployment/ollama.md)
+↗ [GPT4All](LLM%20Desktop%20Deployment/GPT4All.md)
+↗ [LM Studio](LLM%20Desktop%20Deployment/LM%20Studio.md)
+↗ [Jan.AI](LLM%20Desktop%20Deployment/Jan.AI.md)
 
 
 
-## LLM Deployment & Inference Services Providers
+## LLM High-Performance Deployment & Inference Services Providers
 ### LLM High-Performance Inference /Serving Engines
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
 
@@ -105,7 +109,7 @@ While both Ollama and vLLM are tools for LLM inference (running a model), their 
 - [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework.
 
 
-### LLM Inference Services Providers & API
+### LLM Inference Services Providers & API 🤔
 > 🔗 https://github.com/cheahjs/free-llm-api-resources
 
 This lists various services that provide free access or credits towards API-based LLM usage.

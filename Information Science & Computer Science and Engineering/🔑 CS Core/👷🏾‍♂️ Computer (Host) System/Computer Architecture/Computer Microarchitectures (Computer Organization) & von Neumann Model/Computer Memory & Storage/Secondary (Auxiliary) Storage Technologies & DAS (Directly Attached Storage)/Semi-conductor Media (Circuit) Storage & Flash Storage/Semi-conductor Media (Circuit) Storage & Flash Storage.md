@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Semiconductor Memory Technology & Memory Chips & RAM](../../Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/🪫%20Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM/Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM.md)
 
 

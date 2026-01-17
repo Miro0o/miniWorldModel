@@ -6,12 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+
+↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
 
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
-↗ [Storage Chips & Devices](../../../../Hardware%20&%20EE%20Related%20Theories/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
+↗ [Storage Chips & Devices](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
 
 
 ### Learning Resources
@@ -53,7 +55,6 @@ As might be expected, there is a trade-off among the ==three key characteristics
 
 ### Memory Hierarchy
 The way out of the above dilemma is to not rely on a single memory component or technology but to employ a memory hierarchy. A typical hierarchy is illustrated below. As one goes down the hierarchy, the following occur:
-
 1.  Decreasing cost per bit
 2.  Increasing capacity
 3.  Increasing access time
@@ -64,15 +65,32 @@ The way out of the above dilemma is to not rely on a single memory component or 
 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 #### 0️⃣ Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
 #### 1️⃣ Cache Memory (高速缓存/ 主存和CPU之间的缓冲内存)
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
-↗ [CPU Cache](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/CPU%20Cache.md)
+↗ [CPU Cache (L1, L2)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/CPU%20Cache%20(L1,%20L2).md)
+↗ [LLC (Last Level Cache) - L3 (L4)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/Outside%20CPU%20Core%20(Interconnect%20Topology)/LLC%20(Last%20Level%20Cache)%20-%20L3%20(L4).md)
+
+> 🤖 Gemini 3.0 Pro
+> https://gemini.google.com/share/ebedeb833ded
+
+To understand why we have so many different "storage" spots (L1, L2, LLC, RAM), look at the speed difference. This is why the LLC is so critical.
+
+|**Component**|**Location**|**Size**|**Speed (Latency)**|**Analogy**|
+|---|---|---|---|---|
+|**Registers**|Inside Core|Tiny (Bytes)|Instant|The food in your mouth.|
+|**L1 Cache**|Inside Core|Small (KB)|~1 nanosecond|The plate in front of you.|
+|**L2 Cache**|Inside Core|Medium (MB)|~3 nanoseconds|The Fridge in your kitchen.|
+|**LLC (L3)**|**Uncore (Shared)**|**Large (MB)**|**~10-20 nanoseconds**|**The Community Warehouse.**|
+|**RAM**|Motherboard|Huge (GB)|~100 nanoseconds|The Supermarket (The drive takes forever).|
 #### 2️⃣ Main Memory (Primary Memory)（主存）
 ↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ##### 👻 Virtual Memory
-🙈 A hard disk can also be used to provide an extension to main memory known as **virtual memory**, this part is available at ↗ [OS /Memory Virtualization](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md).
+↗ [Virtual Memory (Hardware and Control Structure)](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Virtual Memory (OS Software Level)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+
+A hard disk can also be used to provide an extension to main memory known as swap memory. 
 #### 3️⃣ Auxiliary Memory (Secondary Memory)（辅存，二级存储）
 Data are stored more permanently on external mass storage devices, of which the most common are hard disk and removable media, such as removable disk, tape, and optical storage.
 
@@ -115,7 +133,7 @@ There are three basic forms of locality:
 ## 🪠 Types of Memory & Storage (Engineering Level)
 ### 1️⃣ Volatile Memory (Registers /Cache Memory /Main Memory)
 #### Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
 #### RAM (Random Access Memory)
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 > 

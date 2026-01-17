@@ -109,6 +109,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ## Encoder–Decoder Architecture (seq2seq Transformers)
+> [!quote]
 > 🤖 ChatGPT 4
 > - Keep the **full original structure**: encoder + decoder.
 > - Encoder reads the input → decoder generates the output while attending to encoder states.
@@ -119,6 +120,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ## ⭐ Decoder-Only Transformer (Classical Transformer Architecture)
+> [!quote]
 > 🤖 ChatGPT 4
 > - Use **just the decoder** stack (with a slight tweak: _causal masking_, so a token only sees the left context).
 > - Output: next-token probabilities → autoregressive generation.
@@ -138,6 +140,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ## Encoder-Only Transformer
+> [!quote]
 > 🤖 ChatGPT 4
 > - Use **just the encoder** stack from the original Transformer.
 > - **Output**: a contextual embedding for every token (good for classification, clustering, etc.).

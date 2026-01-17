@@ -13,12 +13,12 @@
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Mathematical Logic Basics (Formal Logic & Its Semantics)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Mathematical%20Logic%20Basics%20(Formal%20Logic%20&%20Its%20Semantics).md)
+- ↗ [Formal System, Formal Logics, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Category Theory (范畴论)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-↗ [Type Theory (类型论)](../📍%20Mathematical%20Logic%20Basics%20(Formal%20Logic)/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
@@ -63,8 +63,53 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 
 ### The Explanation of CHL Correspondence
 > 🔗 https://thzt.github.io/2018/02/23/semantics-10/
+> 本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
+#### Type Theory + Formal Logics: Curry-Howard (CH) Correspondence
+> [!links]
+> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 
-本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
+> 🔗 https://thzt.github.io/2018/02/23/semantics-10/
+
+---
+**Type Theory**
+
+参考《[你好，类型（二）：Lambda calculus](https://thzt.github.io/2017/09/06/type-2/)》，我们来回顾一下简单类型化$λ$演算系统。
+
+
+---
+**Formal Logics**
+
+参考《[你好，类型（四）：Propositional logic](https://thzt.github.io/2017/09/10/type-4/)》，我们构建一个只包含逻辑联接词$∧$和$→$的命题逻辑系统。
+
+
+---
+**Curry-Howard (CH) Correspondence**
+
+我们看到，只要将逻辑系统中的$∧$和$→$，替换成简单类型化λλ演算中的$×$和$→$，那么这两个系统从推导规则上来看是一致的。
+
+逻辑中的命题，对应了简单类型化$λ$演算中的类型，逻辑中命题的证明，对应了简单类型化$λ$演算中的项（的类型断言）。
+  
+命题$A→B$，可以这样理解，如果该命题可证，则存在将$A$的证明转换为$B$的证明的构建过程（construction）。命题$A∧B$，可以这样理解，它是$A$和$B$的证明序对（pair）。
+
+考虑到以上命题逻辑与类型之间的对应关系，我们可以说，[proofs as programs](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)。
+#### CH + Category Theory: Curry-Howard-Lambek (CHL) Correspondence
+> [!links]
+> ↗ [Category Theory (范畴论)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+
+> 🔗 https://thzt.github.io/2018/02/23/semantics-10/
+
+结合《[语言背后的代数学（九）：笛卡尔闭范畴](http://thzt.github.io/2018/02/19/semantics-9/)》，我们给出了简单类型化$λ$演算的范畴论解释。
+
+
+笛卡尔闭范畴作为简单类型化$λ$演算系统的语义模型，范畴中箭头之间约束关系，与类型推导规则是一致的，而根据Curry-Howard correspondence，类型推导规则与命题逻辑又是一致的。
+
+因此，类型理论，逻辑学和范畴论产生了关联，这种三者的对应关系，称为**Curry-Howard-Lambek correspondance**。
+
+
+### Extended Interpretation in Mathematics
 
 ![](../../../../Assets/Pics/Pasted%20image%2020260112182510.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>

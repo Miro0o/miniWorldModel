@@ -14,7 +14,7 @@
 > 
 > 当EFI发展到1.1的时候，英特尔决定把EFI公之于众，于是后续的2.0吸引了众多公司加入，EFI也不再属于英特尔，而是属于了Unified EFI Form的国际组织，EFI在2.0后也遂改称为UEFI，UEFI，其中的EFI和原来是一个意思，U则是Unified（一元化、统一）的缩写，所以UEFI的意思就是“统一的可扩展固件接口”
 > 
-> ↗ [UEFI BIOS](../../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
+> ↗ [UEFI BIOS](../../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
 
 
 ## Ref
