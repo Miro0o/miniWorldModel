@@ -10,10 +10,13 @@
 
 ↗ [Network Layer Devices](0x05%20Network%20Layer/Network%20Layer%20Devices/Network%20Layer%20Devices.md)
 ↗ [Link Layer Network Devices](0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20Network%20Devices.md)
+- ↗ [NIC (Network Adapter)](0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
 ↗ [Physical Layer Network Devices](0x07%20Physical%20Layer/Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)
 
-↗ [Network Chips & Devices](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Network%20Chips%20&%20Devices/Network%20Chips%20&%20Devices.md)
-↗ [NIC (Network Adapter)](0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
+↗ [Network Cards](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Network%20Cards/Network%20Cards.md)
+
+
+### Other Resources
 
 
 

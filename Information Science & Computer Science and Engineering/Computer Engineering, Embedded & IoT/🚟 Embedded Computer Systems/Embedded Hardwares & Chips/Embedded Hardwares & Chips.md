@@ -16,7 +16,7 @@
 - ↗ [Auxiliary Hardware & Peripherals Implementations](../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 - ↗ [Storage Chips & Devices](../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
 
-↗ [Devices Schematic Diagram & Teardown](../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+↗ [Computer Implementations, Teardown & Repairs](../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 
 
 ### Other Resources

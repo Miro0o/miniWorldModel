@@ -15,11 +15,11 @@
 
 ↗ [Physical Layer Network Devices](../../../0x07%20Physical%20Layer/Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)
 
-↗ [Computer IO System](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Computer IO System & Device Management](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
 ↗ [OS IO System](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 ↗ [Computer (IO Devices) Drivers & Programming](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
 
-↗ [Network Chips & Devices](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Network%20Chips%20&%20Devices/Network%20Chips%20&%20Devices.md)
+↗ [Network Cards](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Network%20Cards/Network%20Cards.md)
 
 
 ### Other Resources

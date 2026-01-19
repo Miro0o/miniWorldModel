@@ -11,7 +11,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-↗ [Computer System Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 ↗ [Small Form Factor Computer](../../🧠%20Computing%20Methodologies/Small%20Form%20Factor%20Computer.md)
 
 ↗ [Systems on Chip (SoC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
@@ -22,6 +22,11 @@
 ↗ [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Network%20Devices%20Overview.md)
 
 ↗ [Semiconductor Industry & Companies](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+
+↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
+
+
+### Other Resources
 
 
 
@@ -54,7 +59,7 @@ Most modern desktop personal computer power supplies conform to the ATX specific
 
 ### Ports & Interfaces
 ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
-↗ [Device Controllers & Adapter Cards (Expansion Cards)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Device%20Controllers%20&%20Adapter%20Cards%20(Expansion%20Cards)/Device%20Controllers%20&%20Adapter%20Cards%20(Expansion%20Cards).md)
+↗ [Device Controllers & Adapter Cards (Expansion Cards)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Device%20Controllers%20&%20Adapter%20Cards%20(Expansion%20Cards).md)
 
 
 ### IO Modules

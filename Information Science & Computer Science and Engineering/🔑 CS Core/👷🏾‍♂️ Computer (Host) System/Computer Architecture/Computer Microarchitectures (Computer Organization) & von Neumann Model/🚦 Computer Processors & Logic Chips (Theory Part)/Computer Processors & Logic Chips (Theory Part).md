@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
 
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../../Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
 ↗ [Digital (Logic) Electronics Foundations](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
@@ -62,7 +62,11 @@ Traditional processors are typically based on silicon; however, researchers have
 > - ↗ [Multicore Processor Units](MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multicore%20Processor%20Units/Multicore%20Processor%20Units.md)
 > - ↗ [Multiprocessor Architectures & Parallel Computing](MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 > 
-> ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+> ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+> - ↗ [Intel Chips](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Intel%20Chips.md)
+> - ↗ [AMD Chips](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/AMD%20Chips.md)
+> - ↗ [Nvidia Chips](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
+> - ↗ [国产芯片](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/国产芯片.md)
 
 > 🤖 Gemini 3.0 Pro
 > https://gemini.google.com/share/ebedeb833ded

@@ -7,7 +7,7 @@
 ### Related Topics
 ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
-↗ [Computer System Implementations](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Computer Implementations, Teardown & Repairs](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 
 
 ### Learning Resources

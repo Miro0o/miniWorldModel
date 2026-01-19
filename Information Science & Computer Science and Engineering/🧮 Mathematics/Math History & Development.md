@@ -155,6 +155,7 @@ In the later 19th century, [Georg Cantor](https://en.wikipedia.org/wiki/Georg_C
 
 The 19th century saw the founding of a number of national mathematical societies: the [London Mathematical Society](https://en.wikipedia.org/wiki/London_Mathematical_Society "London Mathematical Society") in 1865,) the [Société mathématique de France](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_math%C3%A9matique_de_France "Société mathématique de France") in 1872, the [Circolo Matematico di Palermo](https://en.wikipedia.org/wiki/Circolo_Matematico_di_Palermo "Circolo Matematico di Palermo") in 1884, the [Edinburgh Mathematical Society](https://en.wikipedia.org/wiki/Edinburgh_Mathematical_Society "Edinburgh Mathematical Society") in 1883,) and the [American Mathematical Society](https://en.wikipedia.org/wiki/American_Mathematical_Society "American Mathematical Society") in 1888. The first international, special-interest society, the [Quaternion Association](https://en.wikipedia.org/wiki/Quaternion_Association "Quaternion Association"), was formed in 1899, in the context of a [vector controversy](https://en.wikipedia.org/wiki/Hyperbolic_quaternion#Historical_review "Hyperbolic quaternion"). In 1897, [Kurt Hensel](https://en.wikipedia.org/wiki/Kurt_Hensel "Kurt Hensel") introduced [p-adic numbers](https://en.wikipedia.org/wiki/P-adic_number "P-adic number").
 ##### Foundational Crisis of Mathematics
+> [!links]
 > ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
@@ -175,7 +176,7 @@ Mathematical logic led to unexpected results, such as [Gödel's incompleteness 
 Simultaneously, the [axiomatic method](https://en.wikipedia.org/wiki/Axiomatic_method "Axiomatic method") became a de facto standard: the proof of a theorem must result from explicit [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") and previously proved theorems by the application of clearly defined inference rules. The axioms need not correspond to some reality. Nevertheless, it is an open philosophical problem to explain why the axiom systems that lead to rich and useful theories are those resulting from abstraction from the physical reality or other mathematical theory.
 
 In summary, the foundational crisis is essentially resolved, and this opens new philosophical problems. In particular, it cannot be proved that the new foundation (ZFC) is not self-contradictory. It is a general consensus that, if this would happen, the problem could be solved by a mild modification of ZFC.
-#### 20th Century
+	#### 20th Century
 
 #### 21st Century
 > 🔗 https://en.wikipedia.org/wiki/History_of_mathematics#21st_century

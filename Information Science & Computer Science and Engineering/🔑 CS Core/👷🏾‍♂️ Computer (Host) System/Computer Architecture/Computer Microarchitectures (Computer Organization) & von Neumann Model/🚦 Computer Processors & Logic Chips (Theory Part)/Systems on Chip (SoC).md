@@ -10,7 +10,7 @@
 ↗ [Embedded Computer Systems](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
 - ↗ [Embedded Hardwares & Chips](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 
-↗ [Devices Schematic Diagram & Teardown](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+↗ [Computer Implementations, Teardown & Repairs](../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 
 
 ### Learning Resources

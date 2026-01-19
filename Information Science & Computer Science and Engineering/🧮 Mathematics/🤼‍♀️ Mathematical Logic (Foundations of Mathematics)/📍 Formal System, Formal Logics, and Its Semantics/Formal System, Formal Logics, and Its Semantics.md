@@ -39,6 +39,9 @@
 
 
 ### Other Resources
+https://web.ntnu.edu.tw/~algo/Logic.html
+「邏輯學」。釐清前因後果，把整件事情想清楚的學問。
+
 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 Logic and ApplicationsJussi Rintanen
 Department of Computer Science

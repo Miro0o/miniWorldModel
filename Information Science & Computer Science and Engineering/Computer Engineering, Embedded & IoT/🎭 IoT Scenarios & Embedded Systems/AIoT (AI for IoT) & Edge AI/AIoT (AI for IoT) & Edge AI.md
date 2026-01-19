@@ -1,4 +1,4 @@
-# AIoT (AI for IoT)
+# AIoT (AI for IoT) & Edge AI
 
 [TOC]
 

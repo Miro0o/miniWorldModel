@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Digital (Logic) Electronics Foundations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Computer System Implementations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Computer Implementations, Teardown & Repairs](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 ↗ [Formal Semantics and Programming Language](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
@@ -228,7 +228,7 @@ When you take a university course called "Computer Organization," 90% of the tim
 - **What it covers:** Pipelines, Branch Predictors, ALUs, Cache Hierarchy (L1/L2).
 - **Verdict:** Yes, Microarchitecture is the "Organization" of the CPU.
 ###### Microarchitecture = CPU?
-microarchitecture can refer to the design of CPU core only, the design of CPU, or the design of any other microprocessor. depends on the context. 
+microarchitecture can refer to the design of CPU core only, the design of CPU, or the design of (the core or entire part of) any other microprocessor. depends on the context. 
 
 so many mixed usages of these confusing terms!
 

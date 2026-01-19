@@ -10,6 +10,13 @@
 ↗ [Vision-Language-Action Model](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20Model/Vision-Language-Action%20Model.md)
 
 
+### Papers
+https://jina.ai/vision-encoder-survey.pdf
+Vision Encoders in Vision-Language Models: A Survey | Han Xiao, Jina AI by Elastic
+
+Vision encoders have remained comparatively small while language models scaled from billions to hundreds of billions of parameters. This survey analyzes vision encoders across 70+ vision-language models from 2023–2025 and finds that training methodology matters more than encoder size: improvements in loss functions, data curation, and feature objectives yield larger gains than scaling by an order of magnitude. Native resolution handling improves document understanding, and multi-encoder fusion captures complementary features no single encoder provides. We organize encoders into contrastive, self-supervised, and LLM-aligned families, providing a taxonomy and practical selection guidance for encoder design and deployment.
+
+
 ### Other Resources
 
 

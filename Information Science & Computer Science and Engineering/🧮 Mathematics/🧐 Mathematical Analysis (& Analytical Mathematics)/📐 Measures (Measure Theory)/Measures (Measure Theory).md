@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Information Theory](../../🥸%20Information%20Theory/Information%20Theory.md)
+
+
+### Other Resources
 
 
 

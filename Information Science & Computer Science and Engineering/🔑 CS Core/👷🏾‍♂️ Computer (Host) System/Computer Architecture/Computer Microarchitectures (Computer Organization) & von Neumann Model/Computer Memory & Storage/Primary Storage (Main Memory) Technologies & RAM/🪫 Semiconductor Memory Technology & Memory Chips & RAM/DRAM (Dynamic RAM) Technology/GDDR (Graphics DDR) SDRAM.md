@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/GDDR_SDRAM

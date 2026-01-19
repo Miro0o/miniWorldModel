@@ -9,7 +9,7 @@
 ↗ [Single-Board Computer (SBC)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 ↗ [Systems on Chip (SoC)](🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
 
-↗ [Devices Schematic Diagram & Teardown](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+↗ [Computer Implementations, Teardown & Repairs](../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 
 
 ### Other Resources

@@ -75,7 +75,16 @@ Similarly:
 - an I/O buffer register (**I/OBR**) is used for the exchange of data between an I/O module and the processor.
 
 
-### CPU Layout
+### CPU Layout & Microarchitecture
+> [!links]
+> ↗ [Computer Architecture](../../../../Computer%20Architecture.md) "microarchitecture =? organization =? CPU =? CPU core"
+> 
+> ↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+> - ↗ [Intel Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Intel%20Chips.md)
+> - ↗ [Nvidia Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
+> - ↗ [AMD Chips](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/AMD%20Chips.md)
+> - ↗ [Apple Chips (M Series & A Series)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Apple%20Chips%20(M%20Series%20&%20A%20Series).md)
+
 > [!TIP]
 > 🔗 [List of Intel processors](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 > 🔗 [List of AMD processors](https://en.wikipedia.org/wiki/List_of_AMD_processors)
@@ -119,6 +128,13 @@ Similarly:
 > ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](Outside%20CPU%20Core%20(Interconnect%20Topology)/MCU%20(Memory%20Controller%20Unit)%20&%20IMC%20(Integrated%20Memory%20Controller).md)
 > ↗ [LLC (Last Level Cache) - L3 (L4)](Outside%20CPU%20Core%20(Interconnect%20Topology)/LLC%20(Last%20Level%20Cache)%20-%20L3%20(L4).md)
 > ↗ [Internal Bus (On-Chip Bus)](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Internal%20Bus%20(On-Chip%20Bus)/Internal%20Bus%20(On-Chip%20Bus).md)
+> 
+> ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
+> - ↗ [NPU (Network Processing Unit)](../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+> - ↗ [Apple Neural Engine](../Accelerators%20(Coprocessors)/Apple%20Neural%20Engine.md)
+>
+> ↗ [GPU (Graphics Processing Unit)](../Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+> ↗ [Systems on Chip (SoC)](../../Systems%20on%20Chip%20(SoC).md)
 
 > 🤖 Gemini 3.0 pro 
 > https://gemini.google.com/share/ebedeb833ded

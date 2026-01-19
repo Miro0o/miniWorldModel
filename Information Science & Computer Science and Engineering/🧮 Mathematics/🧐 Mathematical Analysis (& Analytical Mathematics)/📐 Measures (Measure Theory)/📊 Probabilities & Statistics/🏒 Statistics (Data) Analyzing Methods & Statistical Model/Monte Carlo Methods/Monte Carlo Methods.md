@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Monte Carlo Based RL](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
+↗ [Monte Carlo Based RL](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
 
 
 ### Other Resources

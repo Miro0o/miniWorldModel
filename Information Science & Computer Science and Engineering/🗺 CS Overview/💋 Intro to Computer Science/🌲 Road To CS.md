@@ -596,6 +596,7 @@ ACM CCS 2012
 
 
 ## 🚀 A Serious CS Roadmap
+> [!links]
 > ↗ [Intro to Computer Science /How to learn CS ? (🤔 Questions Leading my CS Study)](Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study)
 
 
@@ -675,21 +676,22 @@ Hence, for people wants to do the real study, they need a way to get around this
 	1. ↗ [Intro to Computer Science](Intro%20to%20Computer%20Science.md)
 	2. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
-	1. This is hard but foundational. Nevertheless, you can learn these knowledge in parallel with other interesting course found in below specific CS fields.
-	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+	1. Courses listed here are hard but foundational. Nevertheless, you can learn these knowledge in parallel with other interesting courses found in below "2️⃣ CS Specific Fields / CS Applications".
+	2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
+		1. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+	3. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+	4. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	5. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 		1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 		2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-	5. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-	6. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-	7. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
-		1. ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+	6. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+	7. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
+> [!links]
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 > ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
@@ -831,6 +833,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 
 
 ## 🎉 More Res
+> [!links]
 > ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 > 

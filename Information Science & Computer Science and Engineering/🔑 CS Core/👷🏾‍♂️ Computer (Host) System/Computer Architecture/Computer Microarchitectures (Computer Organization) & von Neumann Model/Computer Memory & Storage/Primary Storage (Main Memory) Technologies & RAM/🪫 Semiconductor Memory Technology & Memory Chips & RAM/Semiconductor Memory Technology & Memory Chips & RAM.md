@@ -10,7 +10,7 @@
 ↗ [Semiconductor Memory Technology & Memory Chips & RAM](Semiconductor%20Memory%20Technology%20&%20Memory%20Chips%20&%20RAM.md)
 
 ↗ [Digital (Logic) Electronics Foundations](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Transistors](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
+↗ [Transistors & Metal–Oxide Semiconductor (MOS)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors%20&%20Metal–Oxide%20Semiconductor%20(MOS).md)
 
 
 ### Learning Resources
@@ -30,7 +30,7 @@ Most semiconductor memory is organized into **memory cells** each storing one bi
 ### Transistors & Logic Gates
 ↗ [Digital (Logic) Electronics Foundations](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Logic Gate](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Logic%20Gate.md)
-↗ [Transistors](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors.md)
+↗ [Transistors & Metal–Oxide Semiconductor (MOS)](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors%20&%20Metal–Oxide%20Semiconductor%20(MOS).md)
 
 
 ### Memory Cells
@@ -38,7 +38,7 @@ Most semiconductor memory is organized into **memory cells** each storing one bi
 > 
 > Take SSD (VNAND Flash Memory) as an example:
 > ↗ [Semi-conductor Media (Circuit) Storage & Flash Storage /Flash Memory /V-NAND](../../Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage.md#V-NAND)
-> ↗ [SSD (Solid State Disk) /VNAND SSD](../../Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage/SSD%20(Solid%20State%20Disk).md#VNAND%20SSD)
+> ↗ [SSD (Solid State Disk) /VNAND SSD](../../Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Semi-conductor%20Media%20(Circuit)%20Storage%20&%20Flash%20Storage/SSD%20(Solid%20State%20Disk)/SSD%20(Solid%20State%20Disk).md#VNAND%20SSD)
 > 
 > 🎬 https://youtu.be/5Mh3o886qpg?si=eiegmGOZaXpl_04v&t=319
 > single memory cells in VNAND Flash Memory

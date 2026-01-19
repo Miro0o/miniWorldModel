@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Measures (Measure Theory)](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
+- ↗ [Probabilities & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
 
 
 ### Learning Resources
@@ -53,6 +55,18 @@ https://iest2.ie.cuhk.edu.hk/~whyeung/post/draft2.pdf
 Information, Physics, and Computation
 https://web.stanford.edu/~montanar/RESEARCH/book.html
 This is an introduction to a rich and rapidly evolving research field at the interface between statistical physics, theretical computer science, discrete mathematics, and coding information theory. It should be accessible to graduate students and researchers without specific training in any of these three fields.
+
+
+### Other Resource
+📄 https://arxiv.org/pdf/2206.07867
+A visual introduction to information theory 
+Henry Pinkard, and Laura Waller
+University of California, Berkeley, CA, USA
+
+https://web.stanford.edu/~montanar/RESEARCH/BOOK/partA.pdf
+INTRODUCTION TO INFORMATION THEORY
+Andrea Montanari
+Stanford University
 
 
 

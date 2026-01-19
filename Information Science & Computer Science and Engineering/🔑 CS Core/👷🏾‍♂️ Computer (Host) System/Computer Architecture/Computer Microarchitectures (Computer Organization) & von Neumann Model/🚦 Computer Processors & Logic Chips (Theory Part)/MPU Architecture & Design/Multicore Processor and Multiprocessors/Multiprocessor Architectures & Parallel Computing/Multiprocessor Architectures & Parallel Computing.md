@@ -33,7 +33,7 @@ The engineering implementation to parallel computing or parallel processing can 
 
 
 ### Amdahl’s Law (Gene Amdahl)
-> ↗ [Computer IO System](../../../../Computer%20IO%20System/Computer%20IO%20System.md) "Amdahl’s Law (Gene Amdahl)"
+> ↗ [Computer IO System & Device Management](../../../../Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md) "Amdahl’s Law (Gene Amdahl)"
 
 Even parallel computing has its limits, however. As the number of processors increases, so does the overhead of managing how tasks are distributed to those processors.
 
@@ -85,7 +85,7 @@ As an example, consider the case where a part of the system that initially consu
 #### Dataflow Computing
 ↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 #### Neural Network
-↗ [Deep Learning (Neural Networks)](../../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌊%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Neural Networks & Deep Learning Methods](../../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
 ↗ [Neural Networks (In Parallel Computing)](📌%20Parallel%20Computing%20Alternative%20Modelings/Neural%20Networks%20(In%20Parallel%20Computing).md)
 #### Systolic Arrays
 ↗ [Systolic Arrays](📌%20Parallel%20Computing%20Alternative%20Modelings/Systolic%20Arrays.md)

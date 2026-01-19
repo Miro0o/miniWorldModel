@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [IBM mainframe](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20Server%20Hosts/IBM%20mainframe.md)
+↗ [IBM mainframe](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Server%20Hosts/IBM%20mainframe.md)
 
 
 

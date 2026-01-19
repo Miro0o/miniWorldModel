@@ -6,7 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Statistical Learning Theory & ML Types](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/📊%20Statistical%20Learning%20Theory%20&%20ML%20Types/Statistical%20Learning%20Theory%20&%20ML%20Types.md)
+↗ [Information Theory](../../../🥸%20Information%20Theory/Information%20Theory.md)
+
+↗ [Statistical Learning & Machine Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
 ↗ [Data-Oriented & Human-Centered Technologies](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 - ↗ [Data Science](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Science.md)
 - ↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
@@ -183,6 +185,7 @@
 		- 9.4.2 回归显著性检验. . . . . . . . . . . . . . . . . . . . . . 253
 		- 9.4.3 单个系数的显著性检验. . . . . . . . . . . . . . . . . . 254
 		- 9.4.4 残差诊断. . . . . . . . . . . . . . . . . . . . . . . . . 255
+
 
 🎬《概率论与数理统计》教学视频全集（宋浩 https://www.bilibili.com/video/BV1ot411y7mU?p=9&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -372,20 +375,22 @@ The earliest version of this theorem, that the normal distribution may be used a
 
 
 ### Bayesian Statistics
-↗ [Bayesian Statistics](Statistics%20&%20Statistical%20Analysis/🍓%20Bayesian%20Statistics/Bayesian%20Statistics.md)
+> 🤖 Gemini 3.0 
 
+**Bayesian statistics** is a system of data analysis based on the idea that probability represents a "degree of belief" rather than a frequency of occurrence.
 
-### Descriptive Statistics
-↗ [Descriptive Statistics (Analysis)](Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20(Analysis)/Descriptive%20Statistics%20(Analysis).md)
-↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+In simple terms, instead of looking at data in isolation, Bayesian statistics allows you to combine your **prior beliefs** (what you thought before measuring) with **new data** (what you just measured) to update your knowledge.
 
+↗ [Bayesian Statistics & Statistical Analysis](Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 
-### Inferential Statistics
-↗ [Inferential Statistics (Analysis) & Statistical Inference](Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
-↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
-- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
-- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
-- ↗ [Regression (Correlation) Analysis](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
+↗ [Descriptive Statistics (Analysis)](Bayesian%20Statistics%20&%20Statistical%20Analysis/Descriptive%20Statistics%20(Analysis)/Descriptive%20Statistics%20(Analysis).md)
+- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+
+↗ [Inferential Statistics (Analysis) & Statistical Inference](Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
+- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+	- ↗ [Estimation Theory (Parametric Estimation)](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Estimation%20Theory%20(Parametric%20Estimation)/Estimation%20Theory%20(Parametric%20Estimation).md)
+	- ↗ [Statistical Hypothesis (Significance) Test](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/📌%20Statistical%20Hypothesis%20(Significance)%20Test/Statistical%20Hypothesis%20(Significance)%20Test.md)
+	- ↗ [Regression (Correlation) Analysis](🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Regression%20(Correlation)%20Analysis/Regression%20(Correlation)%20Analysis.md)
 
 
 

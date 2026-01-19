@@ -22,7 +22,8 @@
 	- etc.
 
 ↗ [Hardware Acceleration](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Hardware%20Acceleration.md)
-↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
+
+↗ [Computer Processors & Logic Chips (Implementation Part)](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part).md)
 
 ↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20(SoC).md)
 

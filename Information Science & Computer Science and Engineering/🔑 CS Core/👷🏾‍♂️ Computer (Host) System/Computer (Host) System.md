@@ -19,7 +19,7 @@
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Computer Storage & Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
-↗ [Computer System Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 
@@ -30,7 +30,7 @@
 
 ↗ [EE Related Theories & Hardware Implementation](../EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
 - ↗ [Digital (Logic) Electronics Foundations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-- ↗ [Computer System Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+- ↗ [Computer Implementations, Teardown & Repairs](../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
 - ↗ [Auxiliary Hardware & Peripherals Implementations](../EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 
 ↗ [Computer Virtualization](../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
@@ -137,9 +137,14 @@ Learning steps in CS:
 
 ### Development History of (Von Neumann Based) Computer
 #### Theory Part
-0️⃣ Theory of Computation /Mathematical Model of General Computation and Turing Machine
-↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> [!quote]
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260118165831.png)
+> ↗ [Language & Literature](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+> ↗ [Philosophy of Language](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
+> ↗ [Ordinary Language Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ordinary%20Language%20Philosophy.md)
+> 
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260118153519.png)
+> ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
 > [!quote]
 > ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117145903.png) David Hilbert: 
@@ -148,15 +153,16 @@ Learning steps in CS:
 > ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164423.png) Alonzo Church: Lambda calculus 🤓
 > ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164346.png) Alan Turing: Turing machine 🤓
 > ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117150036.png) Kurt Gödel: General-recursive function 🤓
+> 
+> ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+↗ [Math History & Development](../../🧮%20Mathematics/Math%20History%20&%20Development.md)
 #### System Part
 ##### Hardware
-1️⃣ Stored-Program Computer and Von Neumann Architecture
-
 > [!quote]
 > ![|50](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
 > ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-
-↗ [Computer Taxonomy & Computer (Hardware) Components](Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [Microprocessors Unit (MPU) /Evolution of Microprocessor](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md#Evolution%20of%20Microprocessor)
@@ -165,17 +171,18 @@ Learning steps in CS:
 ![](../../../Assets/Pics/Screenshot%202025-03-22%20at%2020.49.56.png)
 <small>src: New concepts in computer concepts, 21 ed, Module 8: The ICT Industry. Section C</small>
 ##### System Software
-↗ [Development(History) of Operating Systems](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
-↗ [Computer Languages & Programming Methodology /History & Generations of (High-Level) Programming Languages](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#History%20&%20Generations%20of%20(High-Level)%20Programming%20Languages)
-
 > [!quote]
-> ![|50](../../../Assets/Pics/Pasted%20image%2020260117151704.png)
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260117151704.png)  ![|74](../../../Assets/Pics/Pasted%20image%2020260118170247.png)
 > ↗ [C & CPP](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 > 
-> ![|50](../../../Assets/Pics/Pasted%20image%2020260117151318.png)
+> ![|64](../../../Assets/Pics/Pasted%20image%2020260118170458.png) ![|50](../../../Assets/Pics/Pasted%20image%2020260117151318.png)
+> ↗ [UNIX Family](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)
 > ↗ [Linux (Derived From UNIX Family)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 > ↗ [🍸 Linux Kernel](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 > ↗ [Open Source (Free Software) Spirits & Software License](../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
+
+↗ [Computer Languages & Programming Methodology /History & Generations of (High-Level) Programming Languages](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#History%20&%20Generations%20of%20(High-Level)%20Programming%20Languages)
+↗ [Development(History) of Operating Systems](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Development(History)%20of%20Operating%20Systems.md)
 #### Application Part (Algorithms & Application Software)
 The Internet & Web
 ↗ [Internet & Entertainment Industry](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
@@ -188,16 +195,22 @@ Information Systems Development & Information Security
 Computing Methodologies & Artificial Intelligence
 ↗ [The Development History of AI](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
 
+etc.
+
 
 ### ⭐ Importance Themes In Computer Systems
-↗ [Importance Themes & Ideology in CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideology%20in%20CS.md)
-#### 👉 Concurrency & Parallelism
-↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
-#### 👉 Abstraction & Encapsulation
-↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
-↗ [IO Generality (via Abstraction)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
-#### 👉 Coupling /Decoupling & Modular Design
+> [!links]
+> ↗ [Importance Themes & Ideology in CS](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideology%20in%20CS.md)
+
+- Recursion & Self-Reference
+	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- Abstraction & Encapsulation
+	- ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+	- ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
+	- ↗ [IO Generality (via Abstraction)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
+- Concurrency & Parallelism
+	- ↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/MPU%20Architecture%20&%20Design/Multicore%20Processor%20and%20Multiprocessors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
+- Coupling /Decoupling & Modular Design
 
 
 

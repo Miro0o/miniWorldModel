@@ -59,7 +59,7 @@ https://wow.groq.com/why-groq/
 #### ChatGPT
 🏠 https://chat.openai.com/chat
 
-↗ [OpenAI /chatGPT](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/OpenAI%20ChatGPT.md)
+↗ [OpenAI /chatGPT](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20ChatGPT.md)
 ↗ [LLM Utilization & Prompt Engineering](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
 #### Claude
 https://www.anthropic.com/app-unavailable-in-region?utm_source=country
