@@ -8,10 +8,10 @@
 ### Related Topics
 ↗ [Information Theory](../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md)
-- ↗ [Probabilistic Models & Stochastic Process](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Bayesian Statistics & Statistical Analysis](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
-	- ↗ [Variational Inference](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
-	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- ↗ [Bayesian Statistics & Statistical Analysis](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+	- ↗ [Variational Inference](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
+	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
 ↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
 
 ↗️ [Neural Networks & Deep Learning Methods](Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
@@ -36,6 +36,8 @@ Python Machine Learning, 3rd Ed. to be published December 12th, 2019
 
 👍 👨‍💻 https://fullstackdeeplearning.com
 News, community, and courses for people building AI-powered products.
+
+[雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
 #### Keras Resources
 - Sequential Model: https://keras.io/models/sequential/
 - Functional API: https://keras.io/models/model/
@@ -341,7 +343,7 @@ Suggested Notation for Machine Learning
 ↗ [Mathematical Modeling & Real World Problem Solving](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
 ↗ [Information Theory](../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Probabilities & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+↗ [Probability Theory & Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 ↗ [Topology](../../../🧮%20Mathematics/Topology/Topology.md)
 
@@ -356,8 +358,8 @@ Suggested Notation for Machine Learning
 ↗ [Statistical Learning & Machine Learning Methods](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
 - ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 - ↗ [Supervised Learning](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/Supervised%20Learning.md)
-	- ↗ [ML Classification Algorithms](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/ML%20Classification%20Algorithms/ML%20Classification%20Algorithms.md)
-	- ↗ [ML Regression Algorithms](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/ML%20Regression%20Algorithms/ML%20Regression%20Algorithms.md)
+	- ↗ [ML Classification Algorithms](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/ML%20Classification%20Algorithms.md)
+	- ↗ [ML Regression Algorithms](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/ML%20Regression%20Algorithms.md)
 - ↗ [Unsupervised Learning](Statistical%20Learning%20&%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
 ↗ [Neural Network Models](Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - ↗ [CNN (Convolutional Neural Network)](Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
@@ -380,6 +382,7 @@ Suggested Notation for Machine Learning
 ↗ [Post-Training & Fine Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
 - ↗ [Instruction Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
 - ↗ [LLM Adaptation & Alignment Tuning](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+#### Model Evaluation & Metrics
 
 
 ### 5️⃣ Model Deployments & Applications

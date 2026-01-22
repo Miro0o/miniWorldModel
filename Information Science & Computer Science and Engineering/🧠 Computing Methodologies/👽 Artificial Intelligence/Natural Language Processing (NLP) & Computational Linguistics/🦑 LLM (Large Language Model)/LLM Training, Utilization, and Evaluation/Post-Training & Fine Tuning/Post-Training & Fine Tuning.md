@@ -132,3 +132,13 @@ After alignment tuning: The model chooses **acceptable answers among many valid 
 
 
 ## Ref
+[Make Post Train Solid Again - ybq的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1995265459285694156 (2026.01)
+LLM 论文千千万，有用的工作却没几篇。这篇文章，我想简单讨论下到底该如何把后训练工作做的 solid。文章并没什么技术细节，大家随便看看。
+- 敲定正确的 Baseline
+- 少用 sense 挑战 math
+- 大小模型的结论谨慎迁移
+- simple yet effective
+	- 过去一年在纯语言模型领域，几乎只有两个工作是得到了业界所有同行的认可：上半年的利用 ORM 提升模型推理能力，下半年的利用 TIS / IcePop 保证训推一致性，都是 simple yet effective 的完美代言。
+	- 这里，我们重点回顾一下训推不一致：2024 年所有同行就都知道 vllm、model.generate、megatron 前向算子，这之间的结果有较大差异；2025 年从 TIS 提出到 ICEpop 的这段时间内，几乎所有同行者都能想到 IcePop 的方案。大家都曾有机会提出这两个算法，但把握住机会的就是那两篇 Notion 分享，行动力强、实验严谨、理论扎实，两个团队配得上大家的赞扬。话说回来，连 TIS 这种 simple 的 idea 都埋没了一年才被广而告之，围绕着 LLM 的 policy gradient 算法必有宝藏等着大家去挖掘。
+	- 从经验上来说，如果某个工作的核心步骤不是两句话能概括出来的，那这个工作似乎离雕花标签也不远了。目前的 LLM，找不到什么 solid 的工作是不 simple 的。
+	

@@ -28,7 +28,7 @@
 ↗ [Computer Bootstrapping (Booting)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
 
 
-### Other Resources`
+### Other Resources
 https://en.wikichip.org/wiki/list_of_microarchitectures#Intel
 list of microarchitectures
 Below is a **list of [microarchitectures](https://en.wikichip.org/wiki/microarchitectures "microarchitectures")** organized by company, alphabetized.
@@ -44,6 +44,11 @@ Below is a **list of [microarchitectures](https://en.wikichip.org/wiki/microar
 - [Qualcomm](https://en.wikichip.org/wiki/list_of_microarchitectures#Qualcomm)
 - [Samsung](https://en.wikichip.org/wiki/list_of_microarchitectures#Samsung)
 - [See also](https://en.wikichip.org/wiki/list_of_microarchitectures#See_also)
+
+
+https://github.com/akhin/microarchitecture-cheatsheet/blob/main/README.md
+Modern CPUs are very complex beasts and there are so much information about them across different departments , therefore they can be overwhelming. Microarchitecture cheat sheet aims to provide an organised collection of overviews about X86 CPUs that developers shall have on their mind when thinking about performance : (Last update date : 02 Jan, 2026)
+![microarchitecture-cheatsheet](../../../../../Assets/Cheat_Sheets/microarchitecture-cheatsheet.pdf)
 
 
 

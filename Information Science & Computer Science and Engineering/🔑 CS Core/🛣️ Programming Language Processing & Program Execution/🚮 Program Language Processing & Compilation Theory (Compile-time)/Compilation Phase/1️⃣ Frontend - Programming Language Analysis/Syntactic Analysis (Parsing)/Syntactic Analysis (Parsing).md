@@ -182,7 +182,7 @@ public class Simple {
 
 We call recursively matching a pattern on a tree structure a fold. Actually, there is whole discipline in math devoted to this problem called Abstract Algebra (↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)). Here they have spend a lot of effort categorizing all kinds of folds (and unfolds). Here we refer to patterns as _Initial Algebras_, and we can see them as the nodes of the tree, where each edge is replaced by a hole. E.g ., the initial algebra of a list of $x$'s $[x]$ is $F[x]a=(x,a)+⊥$. The most common is called a catamorphism: $$𝚌𝚊𝚝𝚊:(F_Xa→a)→X→a$$which says I can reduce any structure $X$, with initial algebra $F_X$, given a function that given the algebra with have computed the value for all of your children, what is the value I should replace you with in your parent.
 #### Tree Traversals & Traversal Order
-> ↗ [Tree Basics](../../../../../../🧮%20Mathematics/Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
+> ↗ [Tree Basics](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Tree%20Basics.md)
 > ↗ [Basic Searching](../../../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Basic%20Searching/Basic%20Searching.md)
 > 
 > 🔗 [Tree traversal - Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal) "An interactive demonstration of different tree traversal methods"

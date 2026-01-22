@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Measures (Measure Theory)](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-- ↗ [Probabilities & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+- ↗ [Probability Theory & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 
 ### Learning Resources
@@ -71,6 +71,9 @@ Stanford University
 
 
 ## Intro
+> [!quote]
+> Information & AI and Machine Learning
+> https://chatgpt.com/share/69712203-8028-800f-8e3f-4d56ba7e49bf
 
 
 

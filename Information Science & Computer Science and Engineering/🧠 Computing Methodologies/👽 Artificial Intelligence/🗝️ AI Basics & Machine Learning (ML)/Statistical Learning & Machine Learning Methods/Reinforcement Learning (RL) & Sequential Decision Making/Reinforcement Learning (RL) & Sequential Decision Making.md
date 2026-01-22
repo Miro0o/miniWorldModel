@@ -8,8 +8,11 @@
 ### Related Topics
 ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
-↗ [Probabilistic Models & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process & Markov Chain (MC)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+
+↗ [Decision Making & Game Theory](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
 
 
 ### Learning Resources
@@ -20,6 +23,7 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 
 👍 👍【【强化学习的数学原理】课程：从零开始到透彻理解（完结）】 https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 教材PDF+PPT+代码网址： 
+- Mathematical Foundations of Reinforcement Learning | Shiyu Zhao
 1. 【Github】：
 	1. https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning
 2. 【百度网盘】：
@@ -29,8 +33,13 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 4. 其中GitHub的材料是最新的，有条件的推荐访问GitHub
 字幕制作者（中文（中国））：[西湖大学WindyLab](https://space.bilibili.com/2044042934)
 
+https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+Reinforcement Learning - An Introduction
+Richard S. Sutton and Andrew G. Barto
+
 
 ### Other Resources
+For a list of real-world applications of RL, see e.g., https://bit.ly/42V7dIJ from Csaba szepesvari (2024), https://bit.ly/3EMMYCW from Vitaly Kurin (2022), and https://github.com/montrealrobotics/DeepRLInTheWorld, which seems to be kept up to date.
 
 
 
@@ -46,15 +55,85 @@ In **reinforcement learning**, the goal is to develop a system (**agent**) that 
 
 **Reinforcement learning** or **RL** is a class of methods for solving various kinds of **sequential decision making** tasks. In such tasks, we want to design an **agent** that interacts with an **external environment**. The agent maintains an internal state $z_t$, which it passes to its **policy $\pi$** to choose an **action** $a_t = \pi(z_t)$. The environment responds by sending back an **observation** $o_{t+1}$, which the agent uses to update its internal state using the **state-update (SU) function** $z_{t+1} = SU (z_t, a_t, o_{t+1})$. See Figure 1.1 for an illustration. 
 
-To simplify things, we often assume that the environment is also a Markovian process, which has internal world state $w_t$, from which the observations $o_t$ are derived. (This is called a POMDP — see Section 1.2.1). We often simplify things even more by assuming that the observation $o_t$ reveals the hidden environment state; in this case, we denote the internal agent state and external environment state by the same letter, namely $s_t = o_t = w_t = z_t$. (This is called an ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md) — see Section 1.2.2). We discuss these assumptions in more detail in Section 1.1.3. 
+To simplify things, we often assume that the environment is also a ↗ [Markov Process & Markov Chain (MC)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md), which has internal world state $w_t$, from which the observations $o_t$ are derived. (This is called a POMDP — see Section 1.2.1). We often simplify things even more by assuming that the observation $o_t$ reveals the hidden environment state; in this case, we denote the internal agent state and external environment state by the same letter, namely $s_t = o_t = w_t = z_t$. (This is called an ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md) — see Section 1.2.2). We discuss these assumptions in more detail in Section 1.1.3. 
 
 RL is more complicated than **supervised learning** (e.g., training a classifier) or **self-supervised learning** (e.g., training a language model), because this framework is very general: there are many assumptions we can make about the environment and its observations $o_t$, and many choices we can make about the form the agent’s internal state $z_t$ and policy $\pi$, as well the ways to update these objects as we see more data. We will study many different combinations in the rest of this document. The right choice ultimately depends on which real-world application you are interested in solving.
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2011.25.44.png)
 
-For a list of real-world applications of RL, see e.g., https://bit.ly/42V7dIJ from Csaba szepesvari (2024), https://bit.ly/3EMMYCW from Vitaly Kurin (2022), and https://github.com/montrealrobotics/DeepRLInTheWorld, which seems to be kept up to date.
+
+### Mathematical Models of The RL Problem
+> [!links]
+> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+> 
+> ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+> ↗ [Markov Process & Markov Chain (MC)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+> - ↗ [Discrete-Time Markov Chains (DTMC)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
+> - ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+> - ↗ [Markov Reward Model (MRM)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Reward%20Model%20(MRM).md)
+>
+> ↗ [Linear Algebra & Module-Like Algebraic Structure](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+> ↗ [Vector & Vector Space](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Vector%20&%20Vector%20Space/Vector%20&%20Vector%20Space.md)
+
+
+
+### Objectives in RL & Recursive Approach
+> [!links]
+> ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md) "least fixed point theorem"
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+#### Bellman Equation
+> [!links]
+> ↗ [Bellman-Ford Algorithm](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Graphs%20(and%20Trees)%20Problems/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
+> ↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Bellman_equation
+
+#### Bellman Optimal Equation (BOE)
+> [!links]
+> ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> fixed point & contraction mapping theorem
+
+
+
+## Reinforcement Learning Algorithms
+### Model-Based RL (MBRL)
+> [!links]
+> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+> 
+> ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+
+
+#### Value Iteration
+
+#### Policy Iteration
+
+#### Truncated Policy Iteration
+
+
+### Model-Free RL
+↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+- ↗ [Monte Carlo Methods](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Monte%20Carlo%20Methods/Monte%20Carlo%20Methods.md)
+↗ [Monte Carlo Based RL](📌%20RL%20Basics%20-%20Markovian%20Based%20RL/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
+#### Non-Incremental RL
+
+#### Incremental RL
+##### Stochastic Approximation (SA)
+
+##### Temporal-Difference Learning
+
+#### Function Representations of Incremental RL
+##### Value Function Approximation
+
+##### Policy Function Approximation (Policy Gradient)
+
+
+### Actor-Critic Methods
 
 
 
 ## Ref
-
+[Make Post Train Solid Again - ybq的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1995265459285694156

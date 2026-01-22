@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Set Theory & Axiomatic Set Theory](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-↗ [Graph Theory](../../Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Theory](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 

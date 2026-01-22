@@ -14,7 +14,7 @@
 ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
-↗ [Algebraic Graph Theory](../../../Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+↗ [Algebraic Graph Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 
 ↗ [Morpheme & Word](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 

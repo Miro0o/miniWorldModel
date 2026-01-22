@@ -8,12 +8,12 @@
 ### Related Topics
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Measures (Measure Theory)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-↗ [Probabilities & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
-- ↗ [Probabilistic Models & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
-	- ↗ [Inferential Statistics (Analysis) & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
-	- ↗ [Variational Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
-	- ↗ [Causal Inference in Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+	- ↗ [Inferential Statistics (Analysis) & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
+	- ↗ [Variational Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
+	- ↗ [Causal Inference in Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
 
 ↗ [Data Mining](../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
@@ -33,6 +33,40 @@
 ([James et al. 2013](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/stat-learn-intro.html#ref-James-StatLearn-R13)): Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani(2013) An Introduction to Statistical Learning: with Applications in R, Springer.
 
 Max Kuhn and Julia Silge(2023), Tidy Modeling with R, [https://www.tmwr.org/](https://www.tmwr.org/)
+
+https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm
+周志华 著. 机器学习, 北京: 清华大学出版社, 2016年1月.
+- [前言 /目录](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/Book2016toc.pdf)
+
+https://github.com/Vay-keen/Machine-learning-learning-notes
+周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+
+https://github.com/datawhalechina/pumpkin-book
+南瓜书（pumpkin-book）
+
+https://www.cis.upenn.edu/~jean/math-deep.pdf
+Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
+Jean Gallier and Jocelyn Quaintance
+Department of Computer and Information Science, University of Pennsylvania
+April 14, 2025
+
+https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/readings/ (2015)
+The class will be split in three main parts:
+1. The Statistical Theory of Machine Learning.
+    - Classification, Regression, Aggregation
+    - Empirical Risk Minimization, Regularization
+    - Suprema of Empirical Processes
+2. Algorithms and Convexity.
+    - Boosting
+    - Kernel Methods
+    - Convex Optimization
+3. Online Learning.
+    - Online Convex Optimization
+    - Partial Information: Bandit Problems
+    - Blackwell’s Approachability
+
+
+### Other Resources
 
 
 

@@ -6,12 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-- ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
 ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 - ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 - ↗ [Modal Logic (模态逻辑)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
@@ -20,21 +14,33 @@
 ↗ [Function & Mapping of Set](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Number Sequence](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
 
-↗ [Probabilistic Models & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process & Markov Chain (MC)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+↗ [Cybernetics & Control Theory](Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+
+↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 ↗ [AI Basics & Machine Learning (ML)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/AI%20Basics%20&%20Machine%20Learning%20(ML).md)
 - ↗ [Statistical Learning & Machine Learning Methods](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
-	- ↗ [Canonical RL Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/⭐️%20Canonical%20RL%20Models/Canonical%20RL%20Models.md)
-- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+- ↗ [Knowledge Representation and Reasoning (KRR)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/Knowledge%20Representation%20and%20Reasoning%20(KRR).md)
+	- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 	- ↗ [LLM Foundation Models List & Evaluation & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
-↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
+↗ [Scientific Computing](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
+- ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 ↗ [Modeling Tools](../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
 
 ↗ [Logical Database Design (Data Modeling)](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 ↗ [UML (Unified Modeling Language)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
 
 ↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+
+↗ [Decision Making & Game Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 
 
 ### Other Resources
@@ -51,7 +57,63 @@ Introduction to Mathematical Modeling
 数学模型（mathematical model）是使用数学来将一个系统简化后予以描述。数学模型广泛应用在自然科学（如物理学、化学、生物学、宇宙学）、工程学科（如计算机科学，人工智能）、以及社会科学（如经济学、心理学、社会学和政治科学）上。科学家和工程师用模型来解释一个系统，研究不同组成部分的影响，以及对行为做出预测。常见的模型包括动态系统、概率模型、微分方程或赛局模型等等。描述不同对象的模型可能有相同的形式，同一个模型也可能包含了不同的抽象结构。
 
 
-### Taxonomy of Mathematical Models
+### Mathematical Modeling Process
+![](../../Assets/Pics/Pasted%20image%2020250905221825.png)
+<small><a>https://m3challenge.siam.org/what-is-math-modeling/</a></small>
+#### Problem Analysis
+> 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
+
+首先必须明白问题的本质，才能将之转换成操作定义和数学符号。根据已知资讯的多寡，模型可以分为三类：
+- 白箱模型：指那些内部规律比较清楚的模型。如力学、热学、电学以及相关的工程技术问题[5]。
+- 灰箱模型：指那些内部规律尚不十分清楚，在建立和改善模型方面都还不同程度地有许多工作要做的问题。如气象学、生态学、经济学等领域的模型[6]。
+- 黑箱模型：指一些其内部规律还很少为人们所知的现象。如生命科学、社会科学等方面的问题。但由于因素众多、关系复杂，也可简化为灰箱模型来研究[7]。
+#### Problem Simplification & Abstraction
+> 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
+
+模型描述的是理想化的情境，如 George E. P. Box 所言：“所有的模型都是错的，但有些很有用”。判断哪些核心部件必须保留、哪些可以简化是建模的重要步骤。如果所有的细节都包含在内，模型和真实世界是一样的，则没有使用模型的意义。
+
+物理中常用的若干简化模型包括无质量的绳子、点粒子、理想气体以及无限深方形阱[8]。用简单方程表示的物理定律有牛顿定律、马克士威方程组和薛定谔方程等[9]。这些定律都是建立在实际情况的数学模型基础上的。许多实际情况是非常复杂的，因此要用电脑进行模拟，计算可行的模型是建立在基本定律或基本定律的近似模型上的。例如，分子可以用薛定谔方程的近似解分子轨道模型进行模拟。在工程中，物理模型通常运用的数学方法如有限元分析[10]。不同数学模型使用不同的几何学，但所使用的不一定是描述宇宙最准确的几何学。欧几里得几何多用在经典物理学中，而狭义相对论和广义相对论都是不使用欧几里得几何的理论[11]。
+
+在数理生物学中，哈温定律描述一个无限大的族群、里面随机交配、没有天择或突变。族群遗传学模型常假设固定的族群大小。计量遗传学模型则假设连续性状。
+#### Mathematical Modeling (Abstraction in Math Language)
+> [!links]
+> ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
+> 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
+
+决定实际问题中的各种因素，转换为[变量](https://zh.wikipedia.org/wiki/%E5%8F%98%E9%87%8F "变量")表示。接著应分析这些变量之间的关系，哪些是相互依存的，哪些是独立的，他们具有什么样的关系，用合理的数学式表示这些关系。根据实际问题选用合适的[数学框架](https://zh.wikipedia.org/w/index.php?title=%E6%95%B0%E5%AD%A6%E6%A1%86%E6%9E%B6&action=edit&redlink=1 "数学框架（页面不存在）")（典型的有优化问题，配置问题等等），并具体的应用问题在这个数学框架下表出，并用合适的[算法](https://zh.wikipedia.org/wiki/%E7%AE%97%E6%B3%95 "算法")求解数学框架下表出的问题。在这个过程中可能用到[计算机模拟](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A8%A1%E6%8B%9F "计算机模拟")和[编程](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B "编程")，常用的数学工具软件包括[MATLAB](https://zh.wikipedia.org/wiki/MATLAB "MATLAB")和[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "Mathematica")。
+#### Experiment, Results Analysis, and Iteration
+> [!links]
+> ↗ [Data Visualization](../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/Data%20Visualization/Data%20Visualization.md)
+> ↗ [Design & Visualization Tools](../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Design%20&%20Visualization%20Tools.md)
+
+> 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
+
+最后使用计算结果解释实际问题，并且分析结果的可靠性。这时常需用到各种[信息可视化](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96 "信息可视化")的技巧。
+
+
+### Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling (MCM /ICM)
+
+
+
+## Mathematical Models & Its Taxonomy
+> [!links]
+> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+>
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+> ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>The process of compilation</small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
+
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B#%E5%88%86%E7%B1%BB
 
 数学模型通常由关系与变量组成。关系可用算符描述，例如代数算符、函数、微分算符等。变量是关注的可量化的系统参数的抽象形式。算符可以与变量相结合发挥作用，也可以不与变量结合。[1] 通常情况下，数学模型可被分为以下几类：
@@ -64,19 +126,54 @@ Introduction to Mathematical Modeling
 - **演绎，归纳与漂移**：演绎模型是建立在理论上的一种逻辑结构。归纳模型由实证研究及演绎模型推广而得。漂移模型则既不依赖于理论，也不依赖于观察，而仅仅是对预期结构的调用。[3] 当数学应用在经济学以外的社会科学时，此类模型一直被批评为毫无根据的模型。科学中在突变理论的应用已被定性为漂移模型。
 
 
-### Mathematical Modeling Process
-![](../../Assets/Pics/Pasted%20image%2020250905221825.png)
-<small><a>https://m3challenge.siam.org/what-is-math-modeling/</a></small>
+### Linear Models & Non-Linear Models
+> [!quote]
+> **线性与非线性**：在数学模型中，如果所有变量表现出线性关系，由此产生的数学模型为线性模型。否则，就为非线性模型。对线性与非线性的定义取决于具体数据，线性相关模型中也可能含有非线性表达式。例如，在一个线性统计模型中，假定参数之间的关系是线性的，但预测变量可能是非线性的。同理，如果一个微分方程定义为线性微分方程，指的是它可以写成线性微分算子的形式，但其中仍可能有非线性的表达式。在数学规划模型中，如果目标函数和约束条件都完全可以由线性方程表示，那么模型为线性模型。如果一个或多个目标函数或约束表示为非线性方程，那么模型是一个非线性模型。 
+> 
+> 即使在相对简单的系统中，非线性也往往与混沌和不可逆性等现象有关。虽然也有例外，非线性系统和模型往往比线性研究起来更加困难。解决非线性问题的一个常见方法是线性化，但在尝试用来研究对非线性依赖性很强的不可逆性等方面时就会出现问题[2]。
+
+↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
 
 
-### Mathematical Models
-> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
-> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-> ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+### Static Models & Dynamic Models
+> [!quote]
+> **静态与动态**：动态模型对系统状态随时间变化情况起作用，而静态（或稳态）模型是在系统保持平稳状态下进行计算的，因而与时间无关。动态模型通常用微分方程描述。
 
-![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
-<small>The process of compilation</small>
+↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
+
+
+### Discrete Models & Continuous Models ✅
+> [!quote]
+> **离散与连续**：离散模型将对象视作离散的，例如分子模型中的微粒，又如概率模型中的状态。而连续模型则由连续的对象所描述，例如管道中流体的速度场，固体中的温度和压力，电场中连续作用于整个模型的点电荷等。
+
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+
+
+### Deterministic Models & Probabilistic (Stochastic) Models ✅
+> [!quote]
+> **确定性与概率性（随机性）**：确定性模型是所有变量集合的状态都能由模型参数和这些变量的先前状态唯一确定的一种模型；因此，在一组给定的初始条件下确定性模型总会表现相同。相反，在随机模型（通常成为“概率模型”）中存在随机性，而且变量状态并不能用唯一值来描述，而用概率分布来描述。
+
+↗ [Probability Theory & Statistics](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+
+🤔 ↗ [Statistics (Data) Analyzing Methods & Statistical Model](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+
+
+### Logics-Based Models & Drift Models
+> [!quote]
+> **演绎，归纳与漂移**：演绎模型是建立在理论上的一种逻辑结构。归纳模型由实证研究及演绎模型推广而得。漂移模型则既不依赖于理论，也不依赖于观察，而仅仅是对预期结构的调用。[3] 当数学应用在经济学以外的社会科学时，此类模型一直被批评为毫无根据的模型。科学中在突变理论的应用已被定性为漂移模型。
+
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Logic And Mechanized (Formal) Reasoning](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
+
+↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+
+
+## Mathematical Models in Application
 
 
 

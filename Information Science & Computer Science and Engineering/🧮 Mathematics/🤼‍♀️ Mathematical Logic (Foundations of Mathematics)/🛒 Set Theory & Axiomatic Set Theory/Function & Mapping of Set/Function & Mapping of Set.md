@@ -76,6 +76,8 @@ When the domain of a function $f$ is $A_1 \times ··· \times A_k$ for some set
 > 
 > ↗ [Operations Research (OR)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 > ↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
+> ↗ [Dynamic Programming (DP)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 > 
 > ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
 
@@ -89,7 +91,7 @@ When the domain of a function $f$ is $A_1 \times ··· \times A_k$ for some set
 - 二阶常微分方程（[贝塞尔方程](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%A1%9E%E5%B0%94%E5%87%BD%E6%95%B0)），$x^2y^{′′}+xy^′+(x^2−α^2)y=0$
 - 在计算机科学中，同样的未知“数”的思想，还出现在了类型推导（例如[unification](https://en.wikipedia.org/wiki/Unification_\(computer_science)）与递归函数的定义中。
 
-以上这些例子，方程是“约束”的一种表现形式。
+==以上这些例子，方程是“约束”的一种表现形式。==
 
 我们回到最简单的阶乘函数`fact`的递归定义式，
 ```haskell
@@ -130,6 +132,10 @@ g f n = case n of
 ```
 
 我们可以得到，`g fact = fact`，因此，`fact`实际上就是函数`g`的不动点。于是，在“方程”中求解`fact`的过程，就转换成了求解函数`g`的不动点的过程了。
+
+
+![|400](../../../../../Assets/Pics/Pasted%20image%2020260121151600.png)
+<small>Fixed point (mathematics) - Wikipedia</small>
 ##### Solving Fixed-point & Fixed-point Combinator (不动点算子/组合子)
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
 
@@ -140,7 +146,7 @@ g f n = case n of
 fix :: (a -> a) -> a  
 fix g = let x = g x in x
 ```
-  
+
 我们试验一下`fix`的强大威力，
 ```haskell
 fact 10  
@@ -236,17 +242,41 @@ fact' = y $ \fact -> \n -> case n of
 
 ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
 ↗ [Lattice (Set Theory)](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
-##### Least Fixed-point Theorem
+##### Fixed-Point Theorems
+> 🤖 Google search AI mode
+> "fixed point theorem and least fixed point theorem"
+
+**Fixed-Point Theorems** guarantee a function has a solution where input equals output (f(x) = x) under certain conditions (like continuity or contraction), with examples being [Brouwer's Theorem](https://www.google.com/search?q=Brouwer%27s+Theorem&newwindow=1&sca_esv=aec86fa18ae2641a&sxsrf=ANbL-n4-QSNgwApjjMsYmJQlVDYBgaOfZA%3A1769004486034&ei=xt1wabvqAcCSwPAPgKKEqA0&oq=fixed+point+theorem+and+least+fixed&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2ZpeGVkIHBvaW50IHRoZW9yZW0gYW5kIGxlYXN0IGZpeGVkKgIIADIFECEYoAEyBRAhGKABMgUQIRigAUi4MVCVBlixKXAEeAGQAQCYAXSgAbYMqgEEMTMuNLgBA8gBAPgBAZgCFaACrw3CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBRAAGIAEwgIFEC4YgATCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBxAhGKABGArCAgUQIRifBZgDAIgGAZAGCpIHBDE2LjWgB_1gsgcEMTIuNbgHmw3CBwgwLjkuMTEuMcgHToAIAA&sclient=gws-wiz-serp&ved=2ahUKEwiIrv-m55ySAxVATVUIHeVkEuQQgK4QegQIARAB) (existence in closed balls) and [Banach's Contraction Principle](https://www.google.com/search?q=Banach%27s+Contraction+Principle&newwindow=1&sca_esv=aec86fa18ae2641a&sxsrf=ANbL-n4-QSNgwApjjMsYmJQlVDYBgaOfZA%3A1769004486034&ei=xt1wabvqAcCSwPAPgKKEqA0&oq=fixed+point+theorem+and+least+fixed&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2ZpeGVkIHBvaW50IHRoZW9yZW0gYW5kIGxlYXN0IGZpeGVkKgIIADIFECEYoAEyBRAhGKABMgUQIRigAUi4MVCVBlixKXAEeAGQAQCYAXSgAbYMqgEEMTMuNLgBA8gBAPgBAZgCFaACrw3CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBRAAGIAEwgIFEC4YgATCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBxAhGKABGArCAgUQIRifBZgDAIgGAZAGCpIHBDE2LjWgB_1gsgcEMTIuNbgHmw3CBwgwLjkuMTEuMcgHToAIAA&sclient=gws-wiz-serp&ved=2ahUKEwiIrv-m55ySAxVATVUIHeVkEuQQgK4QegQIARAC) (unique point found by iteration). The **[Least Fixed Point Theorem](https://www.google.com/search?q=Least+Fixed+Point+Theorem&newwindow=1&sca_esv=aec86fa18ae2641a&sxsrf=ANbL-n4-QSNgwApjjMsYmJQlVDYBgaOfZA%3A1769004486034&ei=xt1wabvqAcCSwPAPgKKEqA0&oq=fixed+point+theorem+and+least+fixed&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2ZpeGVkIHBvaW50IHRoZW9yZW0gYW5kIGxlYXN0IGZpeGVkKgIIADIFECEYoAEyBRAhGKABMgUQIRigAUi4MVCVBlixKXAEeAGQAQCYAXSgAbYMqgEEMTMuNLgBA8gBAPgBAZgCFaACrw3CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBRAAGIAEwgIFEC4YgATCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBxAhGKABGArCAgUQIRifBZgDAIgGAZAGCpIHBDE2LjWgB_1gsgcEMTIuNbgHmw3CBwgwLjkuMTEuMcgHToAIAA&sclient=gws-wiz-serp&ved=2ahUKEwiIrv-m55ySAxVATVUIHeVkEuQQgK4QegQIARAE)** (part of Knaster-Tarski) specifically deals with ordered sets (posets) and monotone functions, guaranteeing the existence of the smallest (least) fixed point in complete lattices, crucial in areas like theoretical computer science for program analysis
+
+
+**General Fixed Point Theorems**
+Fixed point theorems ensure the existence of a fixed point ( 𝑥 such that 𝑓(𝑥)=𝑥 ) under different conditions on the function 𝑓 and the space it operates on. 
+- **Banach Fixed-Point Theorem** (Contraction Mapping Principle): This theorem guarantees the existence and uniqueness of a fixed point for a _contraction mapping_ (a function that brings points closer together) in a complete metric space. It is a constructive theorem, providing a method (fixed-point iteration) to find the point. Applications include proving the existence and uniqueness of solutions to ordinary differential equations.
+- **Brouwer Fixed-Point Theorem:** A result from topology, it states that any continuous function from a closed disk (or, more generally, a compact, convex subset of a Euclidean space) to itself must have at least one fixed point. Unlike the Banach theorem, it only guarantees existence and does not provide a constructive method for finding the point.
+- **Lefschetz Fixed-Point Theorem:** This advanced theorem from algebraic topology gives a way to count the number of fixed points (with multiplicity) based on the function's properties
+
+
+**Least Fixed Point Theorem** 
+The least fixed point theorem, often associated with the **Knaster–Tarski theorem**, operates in the context of order theory, which involves sets with a partial ordering (e.g., subset inclusion). 
+- **Conditions:** It applies to a monotone (order-preserving) function 𝑓 on a complete lattice (a partially ordered set where every subset has a greatest lower bound and a least upper bound).
+- **Result:** The theorem states that the set of fixed points of such a function is itself a complete lattice, and consequently, there is a unique _least fixed point_ (a fixed point that is less than or equal to every other fixed point in the given order) and a greatest fixed point.
+- **Applications:** This theorem is crucial in computer science, particularly in denotational semantics, program analysis, and formal logic, to define the meaning of recursive functions and loops. The least fixed point characterizes the minimal or "most-defined" solution in these contexts.
+###### Fixed Point Iteration and Contraction Mapping Theorem (Banach's Fixed Point Theorem) ⭐
+↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
+↗ [Banach Space](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Banach%20Space/Banach%20Space.md)
+↗ [Numerical Analysis](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
+###### Brouwer's Fixed-Point Theorem
+###### Least Fixed-point Theorem ⭐
 ↗ [Lattice (Set Theory)](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
 
 完全偏序集上的连续函数具有最小不动点，这称之为最小不动点定理
-#### Optimization & Constrains Solving
+#### Equations Solving & Constrains Solving (and Optimization)
 ↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
-↗ [Constraint-Based Analysis & Control Flow Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis.md)
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-- ↗ [Lie Groups](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/🪖%20Lie%20Groups/Lie%20Groups.md)
-- ↗ [Lie Algebra](../../../🧊%20Algebra/Lie%20Algebra/Lie%20Algebra.md)
+↗ [Algebra](../../../🧊%20Algebra/Algebra.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+- ↗ [Lie Groups](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/🪖%20Lie%20Groups/Lie%20Groups.md) & ↗ [Lie Algebra](../../../🧊%20Algebra/Lie%20Algebra/Lie%20Algebra.md)
 
 ↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
@@ -254,6 +284,8 @@ fact' = y $ \fact -> \n -> case n of
 - ↗ [Automated & Generic Theorem Provers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+
+↗ [Constraint-Based Analysis & Control Flow Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis.md)
 
 ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 

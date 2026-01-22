@@ -109,10 +109,12 @@ A formula is _valid_ (a tautology) if it is true for **all** the valuation of th
 #### Satisfiability
 ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
 ##### SAT Problem! (And Model Checking) ⭐
+> [!links]
 > ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 > ↗ [Symbolic Execution & Concolic Execution](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
 > - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 
+> [!TIP]
 > ↗ [Complexity Theory & Computational Complexity](../../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 > ![|400](../../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
 > ↗ [Computationally Hard Problems](../../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
@@ -146,6 +148,7 @@ Arbitrary propositional formulas can be translated into syntactically restricted
 
 
 ### 📌 Sets (and Relations) in the Propositional Logic
+> [!links]
 > ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 > ↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 #### Logic Representation of Sets (and Relations)
@@ -154,11 +157,13 @@ Arbitrary propositional formulas can be translated into syntactically restricted
 
 ==Formulas can be considered as a representation of those sets of valuations that make the formula true.== We can identify a valuation $v : X \to \{0, 1\}$ with a vector of length $|X|$, with each element of the vector corresponding to one of the atomic propositions in $X$.
 
-> Example5.1 
+> [!quote]
+> Example5.1
 > Let $X = \{A, B, C, D\}$. Now a valuation that assigns 1 to $A$ and $C$ and 0 to $B$ and $D$ corresponds to the bit-vector $\overset{ABCD}{1010}$, and the valuation assigning 1 only to $B$ corresponds to the bit-vector $\overset{ABCD}{0100}$. 
 
 Any propositional formula $\phi$ can be understood as a representation of those valuations $v$ such that $v(\phi) = 1$. Since we have identified valuations and bit-vectors, a formula naturally represents a set of bit-vectors.
 
+> [!quote]
 > Example 5.2 
 > Formula $B$ represents all bit-vectors of the form $?1??$, and the formula $A$ represents all bit-vectors $1???$. Formula $B$ therefore represents the set $\{0100, 0101, 0110, 0111, 1100, 1101, 1110, 1111\}$ and formula $A$ represents the set $\{1000, 1001, 1010, 1011, 1100, 1101, 1110, 1111\}$.
 > 
@@ -192,6 +197,7 @@ The first new normal form identified by Darwiche was **Decomposable NNF** [Dar01
 
 
 ### Formulas as a Data Structure
+> [!links]
 > ↗ [Data Structures](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
 > ↗ [Data Structure in Logic Formulas](../🧶%20Data%20Structure%20in%20Logic%20Formulas/Data%20Structure%20in%20Logic%20Formulas.md)
 
@@ -211,11 +217,13 @@ Formulas can be viewed as a data structure for representing sets and relations. 
 
 
 ## Reasoning in Propositional Logic
+> [!links]
 > ↗ [Logic And Mechanized (Formal) Reasoning](../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 > ↗ [Mathematics /Types of Proofs](../../../Mathematics.md#Types%20of%20Proofs)
 
 
 ### Formal Deduction in Logics
+> [!links]
 > ↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
 > ↗ [Gentzen-Style Proofs (Natural Deduction)](../../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 

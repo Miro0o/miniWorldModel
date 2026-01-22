@@ -22,7 +22,7 @@
 ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
 ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
-↗ [Probabilistic Models & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Probabilistic%20Models%20&%20Stochastic%20Process.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
 
 
 ### Other Resources
@@ -42,6 +42,7 @@
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
+
 
 > 🔗 https://en.wikipedia.org/wiki/Model_of_computation
 
@@ -87,6 +88,9 @@ Models differ in their expressive power; for example, each function that can be 
 
 ## (Symbolic) Transition System ⭐
 > [!links]
+> ↗ [Graph Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+> ↗ [Graph Basics](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> 
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 > - programs are transition systems
 > - hardware circuits are transition systems
@@ -95,7 +99,7 @@ Models differ in their expressive power; for example, each function that can be 
 
 > 🔗 https://en.wikipedia.org/wiki/Transition_system
 
-In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **transition system** is a concept used in the study of [computation](https://en.wikipedia.org/wiki/Computation "Computation"). It is used to describe the potential behavior of [discrete systems](https://en.wikipedia.org/wiki/Discrete_system "Discrete system"). It consists of [states](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") and transitions between states, which may be labeled with labels chosen from a set; the same label may appear on more than one transition. If the label set is a [singleton](https://en.wikipedia.org/wiki/Singleton_\(mathematics\) "Singleton (mathematics)"), the system is essentially unlabeled, and a simpler definition that omits the labels is possible.
+In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **transition system** is a concept used in the study of [computation](https://en.wikipedia.org/wiki/Computation "Computation"). ==It is used to describe the potential behavior of [discrete systems](https://en.wikipedia.org/wiki/Discrete_system "Discrete system").== It consists of [states](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") and transitions between states, which may be labeled with labels chosen from a set; the same label may appear on more than one transition. If the label set is a [singleton](https://en.wikipedia.org/wiki/Singleton_\(mathematics\) "Singleton (mathematics)"), the system is essentially unlabeled, and a simpler definition that omits the labels is possible.
 
 Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this article) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
 - The set of states is not necessarily finite, or even countable.
@@ -104,7 +108,8 @@ Transition systems coincide mathematically with [abstract rewriting systems](ht
 
 Transition systems can be represented as **directed graphs**.
 
----
+
+### Syntax (Formal Definition) of Transition System
 **Formal Definition of Transition System**
 
 Formally, a **transition system** is a pair $(S,T)$ where $S$ is a set of states and $T$, the _transition relation_, is a subset of $S\times S$. We say that there is a transition from state $p$ to state $q$ if $(p,q)\in T$, and denote it $p\to q$.
@@ -128,15 +133,11 @@ In [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checkin
 
 **Forward and backwards reachability**
 We sometimes need to talk about how states can reach each other.
-The set of direct successors of a state s is defined as
-𝑃𝑜𝑠𝑡(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠 𝛼→𝑠′}
-Similarly, we can define the direct predecessors of a state s as
-𝑃𝑟𝑒(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠′ 𝛼→𝑠}
+The set of direct successors of a state s is defined as $𝑃𝑜𝑠𝑡(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠 𝛼→𝑠′}$
+Similarly, we can define the direct predecessors of a state s as $𝑃𝑟𝑒(𝑠) = {𝑠 ∣ ∃𝛼. 𝑠′ 𝛼→𝑠}$
 The above definitions can be lifted to sets of states A.
-𝑃𝑜𝑠𝑡(𝐴) =
-. . .
-𝑃𝑟𝑒(𝐴) =
-. . .
+𝑃𝑜𝑠𝑡(𝐴) = . . .
+𝑃𝑟𝑒(𝐴) = . . .
 Successors/predecessors in any number of transitions can be defined likewise.
 On a related note, one is typically interested in the part of a transition system that is
 reachable from the initial state(s).
@@ -144,11 +145,9 @@ reachable from the initial state(s).
 
 **Non-deterministic & Deterministic Transition System**
 A transition system is action-deterministic iff
-(1) There is no more than 1 initial state
-|𝐼| ≤ 1
+(1) There is no more than 1 initial state $|𝐼| ≤ 1$
 (2) For every state s and every action a, there is only one outgoing transition from s
-labelled with a.
-|{𝑠′ ∣ 𝑠 𝑎→𝑠′}| ≤ 1
+labelled with a. $|{𝑠′ ∣ 𝑠 𝑎→𝑠′}| ≤ 1$
 
 
 **Terminal States**
@@ -164,9 +163,7 @@ Terminal states usually represent final states (the system finished doing its jo
 From now on we consider w.l.o.g. transition systems with no terminal states.
 If you have a terminal state, just add a self-loop.
 If you are interested in marking the state as “terminal” and distinguish it from proper self-loops, just add as special label to it.
-
-
-###  Kripke Structure (of Transition System)
+####  Kripke Structure (of Transition System)
 > 🔗 https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
 
 A **Kripke structure** is a variation of the [transition system](https://en.wikipedia.org/wiki/Transition_system "Transition system"), originally proposed by [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke "Saul Kripke"), used in [model checking](https://en.wikipedia.org/wiki/Model_checking "Model checking") to represent the behavior of a system. It consists of a [graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\) "Graph (discrete mathematics)") whose nodes represent the reachable states of the system and whose edges represent state transitions, together with a labelling function which maps each node to a set of properties that hold in the corresponding state. [Temporal logics](https://en.wikipedia.org/wiki/Temporal_logic "Temporal logic") are traditionally interpreted in terms of Kripke structures.
@@ -199,11 +196,26 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.34.43.png)
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
+#### Action Language
+[Action languages](https://en.wikipedia.org/wiki/Action_language "Action language") are extensions of transition systems, adding a set of _fluents_ _F_, a set of values _V_, and a function that maps _F_ × _S_ to _V_.
+#### Automata & State Machine
+↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
+> [!quote]
+> Transition systems coincide mathematically with [abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system") (as explained further in this article) and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph "Directed graph"). They differ from [finite-state automata](https://en.wikipedia.org/wiki/Finite-state_automata "Finite-state automata") in several ways:
+> - The set of states is not necessarily finite, or even countable.
+> - The set of transitions is not necessarily finite, or even countable.
+> - No "start" state or "final" states are given.
+#### Probabilistic Version of Transition Systems
+↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+- ↗ [Discrete-Time Markov Chains (DTMC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
+- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+$$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Probability}{\to} \ Data ()$$
 
 ### Semantics of Transition System
 > [!links]
-> ↗ [Graph Basics](../../../Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [Graph Basics](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 #### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
@@ -325,7 +337,7 @@ In practical computer science, a related concept known as a [virtual machine](h
 
 ### Markov Algorithm
 > [!links]
-> ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+> ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Markov_algorithm
 

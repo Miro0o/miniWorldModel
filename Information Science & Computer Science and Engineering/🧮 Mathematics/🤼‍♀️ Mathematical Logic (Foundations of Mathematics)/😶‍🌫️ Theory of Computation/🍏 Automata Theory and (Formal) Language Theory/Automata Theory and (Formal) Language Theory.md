@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
 ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
@@ -44,7 +46,6 @@ Converting a DFA to a Minimal State DFA
 ↗ [Linguistics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 
 ↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
-
 ↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 
@@ -75,6 +76,7 @@ We can now see if a word $w$ is in a language by generating all possible words
 
 
 ### Formal Language Theory
+> [!links]
 > ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Formal_language
@@ -101,6 +103,7 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 
 
 ### Automata Theory
+> [!links]
 > ↗ [Regular Language (RL) & Finite Automata (FA)](Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Automata_theory
@@ -111,7 +114,9 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 
 ### Chomsky Hierarchy
+> [!links]
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Complexity Theory & Computational Complexity](../Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Chomsky_hierarchy
 

@@ -19,6 +19,7 @@
 
 
 ## Intro
+> [!TIP]
 > Computer Graphics (CG: generating graphics
 > ↗ [Computer Vision (CV)](../👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md): understanding graphics
 

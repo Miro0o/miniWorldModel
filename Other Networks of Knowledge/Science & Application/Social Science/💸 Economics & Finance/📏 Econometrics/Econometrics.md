@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Probabilities & Statistics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
-- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+↗ [Probability Theory & Statistics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+- ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
 
 ↗ [Quantitative Finance & Financial Mathematics](../🏦%20Finance%20&%20Financial%20Management/💸%20Quantitative%20Finance%20&%20Financial%20Mathematics/Quantitative%20Finance%20&%20Financial%20Mathematics.md)
 

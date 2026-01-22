@@ -13,7 +13,7 @@
 ### Routing Algorithms Foundation -- Graph Theory
 Graph, edges, nodes, neighbors, path, least-cost path, shortest path, ...
 
-↗ [Graph Theory](../../../../../../../🧮%20Mathematics/Graph%20Theory/Graph%20Theory.md)
+↗ [Graph Theory](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 
 
 ### Routing Algorithms Taxonomy 

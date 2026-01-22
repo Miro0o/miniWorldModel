@@ -83,7 +83,7 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 实际上，数据流分析可以视作在格上不断迭代应用transfer functions和meet/join操作。<br> <a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
 
 
-### Monotonicity & Least Fixed-point Theorem (of Lattice Function)
+### Least Fixed-point Theorem (of Lattice Function)
 > [!link]
 > ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > 
@@ -95,6 +95,9 @@ Here we only draw the imitate next elements in the order, i.e. connection to the
 
 函数 $f : L \to L$（$L$ 是格）是 **单调的**，当且仅当 $\forall x, y \in L,\; x \preceq y \Rightarrow f(x) \preceq f(y)$
 #### Least Fixed-point Theorem ⭐
+> [!links]
+> ↗ [Function & Mapping of Set](../../../Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md) "fixed point & recursion"
+
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-05/
 
 给定一个完全格 $(L, \preceq)$，如果 $f : L \to L$ 是单调的且 $L$ 是有限的，那么：

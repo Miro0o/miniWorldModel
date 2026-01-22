@@ -33,7 +33,7 @@ More recently, Heng Zhang et al. have demonstrated that all universal (or equall
 
 
 ### Probabilistic Representation
-↗ [Bayesian Networks](Graphical%20Models/Bayesian%20Networks/Bayesian%20Networks.md)
+↗ [Probabilistic Graphical Models & Bayesian Networks](Graphical%20Models/Probabilistic%20Graphical%20Models%20&%20Bayesian%20Networks/Probabilistic%20Graphical%20Models%20&%20Bayesian%20Networks.md)
 ↗ [Neural Networks & Deep Learning Methods](🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
 
 

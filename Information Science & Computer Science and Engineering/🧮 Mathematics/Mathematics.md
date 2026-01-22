@@ -24,6 +24,8 @@
 ↗ [科技创新人才培养](../🗺%20CS%20Overview/Appendix/科技创新人才培养.md)
 ↗ [我们需要怎样的数学教育？](../🗺%20CS%20Overview/Appendix/我们需要怎样的数学教育？.md)
 
+↗ [AI For Math](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4SCI/AI%20For%20Math.md)
+
 
 ### Math Learning Resource
 #### Books & Tutorials
@@ -146,6 +148,27 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 
 - [ ] 博弈论
 - [ ] 信息论
+
+
+### Other Resources
+https://www.math.ucdavis.edu/~bxn/applied_analysis.pdf
+https://www.math.ucdavis.edu/~hunter/book/pdfbook.html
+- [Chapter 1: Metric and Normed Spaces](https://www.math.ucdavis.edu/~hunter/book/ch1.pdf) (1–34)  
+- [Chapter 2: Continuous Functions](https://www.math.ucdavis.edu/~hunter/book/ch2.pdf) (35–60)  
+- [Chapter 3: The Contraction Mapping Theorem](https://www.math.ucdavis.edu/~hunter/book/ch3.pdf) (61–79)  
+- [Chapter 4: Topological Spaces](https://www.math.ucdavis.edu/~hunter/book/ch4.pdf) (81–89)  
+- [Chapter 5: Banach Spaces](https://www.math.ucdavis.edu/~hunter/book/ch5.pdf) (91–123)  
+- [Chapter 6: Hilbert Spaces](https://www.math.ucdavis.edu/~hunter/book/ch6.pdf) (125–147)  
+- [Chapter 7: Fourier Series](https://www.math.ucdavis.edu/~hunter/book/ch7.pdf) (149–186)  
+- [Chapter 8: Bounded Linear Operators on a Hilbert Space](https://www.math.ucdavis.edu/~hunter/book/ch8.pdf) (187–214)  
+- [Chapter 9: The Spectrum of Bounded Linear Operators](https://www.math.ucdavis.edu/~hunter/book/ch9.pdf) (215–243)  
+- [Chapter 10: Linear Differential Operators and Green's Functions](https://www.math.ucdavis.edu/~hunter/book/ch10.pdf) (245–286)  
+- [Chapter 11: Distributions and the Fourier Transform](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf) (287–333)  
+- [Chapter 12: Measure Theory and Function Spaces](https://www.math.ucdavis.edu/~hunter/book/ch12.pdf) (335–377)  
+- [Chapter 13: Differential Calculus and Variational Methods](https://www.math.ucdavis.edu/~hunter/book/ch13.pdf) (379–426)
+Applied Analysis
+John K. Hunter, Bruno Nachtergaele
+UC Davis
 
 
 
@@ -708,9 +731,9 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 	- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 - ↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-↗ [Graph Theory](Graph%20Theory/Graph%20Theory.md)
-- ↗ [Graph Basics](Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-- ↗ [Algebraic Graph Theory](Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+↗ [Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+- ↗ [Graph Basics](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+- ↗ [Algebraic Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Relation & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 	- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
@@ -769,7 +792,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 作为一相对较新的领域，离散数学有许多基本的未解问题。其中最有名的为P/NP问题——千禧年大奖难题之一。一般相信此问题的解答是否定的。
 ###### 👉 Statistics and Other Decision Sciences
-↗ [Probabilities & Statistics](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+↗ [Probability Theory & Statistics](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Statistics_and_other_decision_sciences
 

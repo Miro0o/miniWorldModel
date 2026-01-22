@@ -17,11 +17,12 @@
 
 
 ### Global Model Checking Algorithm
+> [!TIP]
 > Recall: ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 > 
 > 1. The ECTL syntax ("flattened") of CTL:
 > $\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$
-> **NOTE**: we focus on this grammar to reduce the number of algorithms, but dedicated algorithms for all CTL operators can be designed.
+> - **NOTE**: we focus on this grammar to reduce the number of algorithms, but dedicated algorithms for all CTL operators can be designed.
 > 
 > 2. Satisfaction sat & semantics of CTL: 
 > We say that a transition system ($T$) satisfies a formula ($\phi$) if all its initial states ($s\in I$) satisfy the formula:
@@ -29,6 +30,7 @@
 > - or, equivalently:
 > 	- $T\models\phi \iff I\subseteq sat(\phi)$
 > 
+> Hence, we have the framework of model checking algorithms as below:
 > ``` js
 > sat(phi){
 > 	// ...
@@ -85,6 +87,7 @@ $sat(\exists\bigcirc\phi) = sat(EX\phi) = \{s\in S | Post(s) \land sat(\phi) \ne
 
 These cases can be easily implemented with a suitable representation of states and transitions, amenable for set operations (complement, union, etc.)
 
+> [!TIP]
 > NOTE: A popular approach is to use ↗ [BDDs (Binary Decision Diagrams) & ROBDD](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🧶%20Data%20Structure%20in%20Logic%20Formulas/BDDs%20(Binary%20Decision%20Diagrams)%20&%20ROBDD.md) to represent sets of states using boolean formulas (not covered in this course).
 
 Now these are cases we covered so far:
@@ -106,6 +109,7 @@ For the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi
 > [!link]
 > ↗ [Function & Mapping of Set](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > ↗ [Lattice (Set Theory)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 #### EU
 ##### MC Algorithms For EF
 Before we see the algorithm or EU let us first look at the **simplest case** of EF.
@@ -200,7 +204,7 @@ Idea:
 	- In sat(EG…), sat (E…U…) a state can only be once in the worklist W (once removed, it can’t be added)
 
 
-### Examples of Basic MC Algorithms
+### Algorithms Implementation Examples
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.07.png)
 - ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.20.png)
 - Exercise 2 

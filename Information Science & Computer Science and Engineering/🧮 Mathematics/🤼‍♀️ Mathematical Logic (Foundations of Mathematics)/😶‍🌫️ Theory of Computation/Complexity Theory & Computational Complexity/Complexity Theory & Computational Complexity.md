@@ -10,7 +10,7 @@
 ↗ [Chaos Theory](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/🇺🇳%20Chaos%20Theory/Chaos%20Theory.md)
 
 ↗ [Measures (Measure Theory)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/Measures%20(Measure%20Theory).md)
-- ↗ [Probabilities & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probabilities%20&%20Statistics/Probabilities%20&%20Statistics.md)
+- ↗ [Probability Theory & Statistics](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 ↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
@@ -54,15 +54,21 @@ A problem is regarded as inherently difficult if its solution requires significa
 
 Closely related fields in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") are [analysis of algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms "Analysis of algorithms") and [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"). A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, computational complexity theory tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kinds of problems can, in principle, be solved algorithmically.
 #### Computational Problems
+> [!links]
+> ↗ [Computationally Hard Problems](Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 
 ### Machine Models and Complexity Measures
 
 
-### (Computational) Complexity Classes
+### (Computational) Complexity Classes ⭐
+> [!TIP]
 > Recall Chomsky Hierarchy ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> 
 > ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+> 
 > ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+
 
 > 🔗 https://en.wikipedia.org/wiki/Complexity_class#
 
@@ -87,6 +93,7 @@ The following table shows some of the classes of problems that are considered in
 ![](../../../../../Assets/Pics/Screenshot%202025-08-01%20at%2022.39.25.png)
 <small>P vs. NP and the Computational Complexity Zoo | youtube<br><a>https://youtu.be/YX40hbAHx3s?si=T3xOQJse8AgO0WcP</a></small>
 
+> [!TIP]
 > 🔗 https://en.wikipedia.org/wiki/List_of_complexity_classes
 > This is a **list of [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Complexity class")** in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"). For other computational and complexity subjects, see [list of computability and complexity topics](https://en.wikipedia.org/wiki/List_of_computability_and_complexity_topics "List of computability and complexity topics").
 #### Relationship Between Complexity Classes and Chomsky Hierarchy
@@ -127,18 +134,19 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 		- Sorting problem of N numbers
 		- Soduku problem
 		- Hamiltonian path
-- [NPH Problem](https://en.wikipedia.org/wiki/NP-hard):
+- [NPH Problem](https://en.wikipedia.org/wiki/NP-hard): (NP-Hard)
 	- The class of questions that all NP problems can be reduced (in polynomial time) to them. Informally, NP-hard problems are those at least as hard as NP problems. NP-hard problems need not be in NP; i.e., they need not have solutions verifiable in polynomial time.
 	- e.g.
 		- **Traveling Salesperson Problem (TSP)**: can be reduced from the problem of Hamiltonian path
-- NPC Problem:
+- NPC Problem: (NP-Complete)
 	- The class of questions that any other NP problem is reducible to in polynomial time and whose solution is still verifiable in polynomial time, i.e. NPC problems are the intersection of NP and NPH. That is, any NP problem can be transformed into any NP-complete problem. Informally, an NP-complete problem is an NP problem that is at least as "tough" as any other problem in NP.
 		- The first natural problem proven to be NP-complete was the  [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem "Boolean satisfiability problem"), also known as SAT. (↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)) This is the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem "Cook–Levin theorem"), so _any_ instance of _any_ problem in NP can be transformed mechanically into a Boolean satisfiability problem in polynomial time. The Boolean satisfiability problem is one of many NP-complete problems. If any NP-complete problem is in P, then it would follow that P = NP. However, many important problems are NP-complete, and no fast algorithm for any of them is known.
 		- After SAT problem was proved to be NP-complete, [proof by reduction](https://en.wikipedia.org/wiki/Reduction_\(complexity\) "Reduction (complexity)") provided a simpler way to show that many other problems are also NP-complete, including the game Sudoku discussed earlier. In this case, the proof shows that a solution of Sudoku in polynomial time could also be used to complete [Latin squares](https://en.wikipedia.org/wiki/Latin_square "Latin square") in polynomial time. This in turn gives a solution to the problem of partitioning [tri-partite graphs](https://en.wikipedia.org/wiki/Multipartite_graph "Multipartite graph") into triangles, which could then be used to find solutions for the special case of SAT known as 3-SAT, which then provides a solution for general Boolean satisfiability. So a polynomial-time solution to Sudoku leads, by a series of mechanical transformations, to a polynomial time solution of satisfiability, which in turn can be used to solve any other NP-problem in polynomial time. Using transformations like this, a vast class of seemingly unrelated problems are all reducible to one another, and are in a sense "the same problem".
 	- e.g.
 		- **Traveling Salesperson Problem (TSP)**, with the total cost lower than C: this is a NP problem itself, and can be reduced from the problem of Hamiltonian path as well.
 
-> 【【作业】P问题，NP问题，NPH问题，NPC问题介绍】 https://www.bilibili.com/video/BV1pF41127B3/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+> [!quote]
+> 🎬【【作业】P问题，NP问题，NPH问题，NPC问题介绍】 https://www.bilibili.com/video/BV1pF41127B3/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 #### SAT Problem & SMT Problem
 ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
