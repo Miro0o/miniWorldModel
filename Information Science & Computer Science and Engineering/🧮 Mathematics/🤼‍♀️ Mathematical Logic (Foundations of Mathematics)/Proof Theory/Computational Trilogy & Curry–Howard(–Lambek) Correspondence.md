@@ -15,7 +15,7 @@
 ↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Formal System, Formal Logics, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Category Theory (范畴论)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 ↗ [Type Theory (类型论)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
@@ -66,7 +66,7 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 > 本文介绍了Curry-Howard-Lambek correspondance，它将本来毫无关系的三个学科联系在了一起，类型理论与程序和计算相关，逻辑学与证明（论）相关，范畴论与模型（论）和代数学相关。
 #### Type Theory + Formal Logics: Curry-Howard (CH) Correspondence
 > [!links]
-> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+> ↗ [Lambda Calculus (λ-Calculus)](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Formal System, Formal Logics, and Its Semantics](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 > ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 
@@ -106,11 +106,10 @@ It is a generalization of a syntactic [analogy](https://en.wikipedia.org/wiki/A
 
 笛卡尔闭范畴作为简单类型化$λ$演算系统的语义模型，范畴中箭头之间约束关系，与类型推导规则是一致的，而根据Curry-Howard correspondence，类型推导规则与命题逻辑又是一致的。
 
-因此，类型理论，逻辑学和范畴论产生了关联，这种三者的对应关系，称为**Curry-Howard-Lambek correspondance**。
+==因此，类型理论，逻辑学和范畴论产生了关联，这种三者的对应关系，称为**Curry-Howard-Lambek correspondance**。==
 
 
 ### Extended Interpretation in Mathematics
-
 ![](../../../../Assets/Pics/Pasted%20image%2020260112182510.png)
 <small><a>https://seniormars.com/posts/trilogy/</a></small>
 

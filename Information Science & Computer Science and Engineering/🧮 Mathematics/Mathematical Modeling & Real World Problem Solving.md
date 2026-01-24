@@ -9,7 +9,7 @@
 ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 - ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 - ↗ [Modal Logic (模态逻辑)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
-- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Function & Mapping of Set](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Number Sequence](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
@@ -139,8 +139,9 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 > [!quote]
 > **静态与动态**：动态模型对系统状态随时间变化情况起作用，而静态（或稳态）模型是在系统保持平稳状态下进行计算的，因而与时间无关。动态模型通常用微分方程描述。
 
+↗ [Cybernetics & Control Theory](Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
+- ↗ [Differential Equation (DE)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/🤯%20Advanced%20Analysis/Differential%20Equation%20(DE)/Differential%20Equation%20(DE).md)
 
 
 ### Discrete Models & Continuous Models ✅

@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
-↗ [Complex System Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science.md)
+↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
 ↗ [Operations Research (OR)](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 ↗ [Mathematical Optimization (Programming)](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
@@ -22,9 +22,13 @@
 
 
 ## Intro
+![](../../../Assets/Pics/Pasted%20image%2020260123003159.png)
+<small>The Map of Control Theory <br> <a>https://engineeringmedia.com/map-of-control</a></small>
+
+
 > 🔗 https://en.wikipedia.org/wiki/Control_theory
 
-**Control theory** is a field of [control engineering](https://en.wikipedia.org/wiki/Control_engineering "Control engineering") and [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics") that deals with the [control](https://en.wikipedia.org/wiki/Control_system "Control system") of [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system "Dynamical system"). The aim is to develop a model or algorithm governing the application of system inputs to drive the system to a desired state, while minimizing any _delay_, _overshoot_, or _steady-state error_ and ensuring a level of control [stability](https://en.wikipedia.org/wiki/Stability_theory "Stability theory"); often with the aim to achieve a degree of [optimality](https://en.wikipedia.org/wiki/Optimal_control "Optimal control").
+==**Control theory** is a field of [control engineering](https://en.wikipedia.org/wiki/Control_engineering "Control engineering") and [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics") that deals with the [control](https://en.wikipedia.org/wiki/Control_system "Control system") of [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system "Dynamical system").== The aim is to develop a model or algorithm governing the application of system inputs to drive the system to a desired state, while minimizing any _delay_, _overshoot_, or _steady-state error_ and ensuring a level of control [stability](https://en.wikipedia.org/wiki/Stability_theory "Stability theory"); often with the aim to achieve a degree of [optimality](https://en.wikipedia.org/wiki/Optimal_control "Optimal control").
 
 To do this, a **controller** with the requisite corrective behavior is required. This controller monitors the controlled [process variable](https://en.wikipedia.org/wiki/Process_variable "Process variable") (PV), and compares it with the reference or [set point](https://en.wikipedia.org/wiki/Setpoint_\(control_system\) "Setpoint (control system)") (SP). The difference between actual and desired value of the process variable, called the _error_ signal, or SP-PV error, is applied as feedback to generate a control action to bring the controlled process variable to the same value as the set point. Other aspects which are also studied are [controllability](https://en.wikipedia.org/wiki/Controllability "Controllability") and [observability](https://en.wikipedia.org/wiki/Observability "Observability"). Control theory is used in [control system engineering](https://en.wikipedia.org/wiki/Control_system_engineering "Control system engineering") to design automation that have revolutionized manufacturing, aircraft, communications and other industries, and created new fields such as [robotics](https://en.wikipedia.org/wiki/Robotics "Robotics").
 
@@ -115,19 +119,69 @@ Relationship and Overlap
 In essence, cybernetics asks _how_ systems regulate themselves, and control theory provides the mathematical _how-to_ for building those regulator
 
 
-### Main Control Strategies
+### Open-Loop Control (Feedforward) & Closed-Loop Control (Feedback)
+> 🔗 https://en.wikipedia.org/wiki/Control_theory
+> 🔗 https://en.wikipedia.org/wiki/Control_loop#Open-loop_and_closed-loop
+
+Fundamentally, there are two types of control loop: _[open-loop control](https://en.wikipedia.org/wiki/Open-loop_control "Open-loop control")_ (feedforward), and _[closed-loop control](https://en.wikipedia.org/wiki/Closed-loop_control "Closed-loop control")_ (feedback).
+- In open-loop control, the control action from the controller is independent of the "process output" (or "controlled process variable"). A good example of this is a central heating boiler controlled only by a timer, so that heat is applied for a constant time, regardless of the temperature of the building. The control action is the switching on/off of the boiler, but the controlled variable should be the building temperature, but is not because this is open-loop control of the boiler, which does not give closed-loop control of the temperature.
+- In closed loop control, the control action from the controller is dependent on the process output. In the case of the boiler analogy, this would include a thermostat to monitor the building temperature, and thereby feed back a signal to ensure the controller maintains the building at the temperature set on the thermostat. A closed loop controller therefore has a feedback loop which ensures the controller exerts a control action to give a process output the same as the "reference input" or "set point". For this reason, closed loop controllers are also called feedback controllers.
+
+The definition of a closed loop control system according to the [British Standards Institution](https://en.wikipedia.org/wiki/British_Standards_Institution "British Standards Institution") is "a control system possessing monitoring feedback, the deviation signal formed as a result of this feedback being used to control the action of a final control element in such a way as to tend to reduce the deviation to zero."
+
+Likewise; "A _Feedback Control System_ is a system which tends to maintain a prescribed relationship of one system variable to another by comparing functions of these variables and using the difference as a means of control."
+
+
+### Analysis Techniques – Frequency Domain and Time Domain
+> 🔗 https://en.wikipedia.org/wiki/Control_theory#Analysis_techniques_%E2%80%93_frequency_domain_and_time_domain
+
+
+### Classic Control Theory
+> 🔗 https://en.wikipedia.org/wiki/Control_theory#Classical_control_theory
+
+
+### Main Control Strategies ⭐
 > 🔗 https://en.wikipedia.org/wiki/Control_theory
 
 Every control system must guarantee first the stability of the closed-loop behavior. For [linear systems](https://en.wikipedia.org/wiki/Linear_system "Linear system"), this can be obtained by directly placing the poles. Nonlinear control systems use specific theories (normally based on [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov "Aleksandr Lyapunov")'s Theory) to ensure stability without regard to the inner dynamics of the system. The possibility to fulfill different specifications varies from the model considered and the control strategy chosen.
 
 List of the main control techniques
 - [Optimal control](https://en.wikipedia.org/wiki/Optimal_control "Optimal control") is a particular control technique in which the control signal optimizes a certain "cost index": for example, in the case of a satellite, the jet thrusts needed to bring it to desired trajectory that consume the least amount of fuel. Two optimal control design methods have been widely used in industrial applications, as it has been shown they can guarantee closed-loop stability. These are [Model Predictive Control](https://en.wikipedia.org/wiki/Model_Predictive_Control "Model Predictive Control") (MPC) and [linear-quadratic-Gaussian control](https://en.wikipedia.org/wiki/Linear-quadratic-Gaussian_control "Linear-quadratic-Gaussian control") (LQG). The first can more explicitly take into account constraints on the signals in the system, which is an important feature in many industrial processes. However, the "optimal control" structure in MPC is only a means to achieve such a result, as it does not optimize a true performance index of the closed-loop control system. Together with PID controllers, MPC systems are the most widely used control technique in [process control](https://en.wikipedia.org/wiki/Process_control "Process control").
-- [Robust control](https://en.wikipedia.org/wiki/Robust_control "Robust control") deals explicitly with uncertainty in its approach to controller design. Controllers designed using _robust control_ methods tend to be able to cope with small differences between the true system and the nominal model used for design.[[20]](https://en.wikipedia.org/wiki/Control_theory#cite_note-20) The early methods of [Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode "Hendrik Wade Bode") and others were fairly robust; the state-space methods invented in the 1960s and 1970s were sometimes found to lack robustness. Examples of modern robust control techniques include [H-infinity loop-shaping](https://en.wikipedia.org/wiki/H-infinity_loop-shaping "H-infinity loop-shaping") developed by Duncan McFarlane and [Keith Glover](https://en.wikipedia.org/wiki/Keith_Glover "Keith Glover"), [Sliding mode control](https://en.wikipedia.org/wiki/Sliding_mode_control "Sliding mode control") (SMC) developed by [Vadim Utkin](https://en.wikipedia.org/wiki/Vadim_Utkin "Vadim Utkin"), and safe protocols designed for control of large heterogeneous populations of electric loads in Smart Power Grid applications.[[21]](https://en.wikipedia.org/wiki/Control_theory#cite_note-TCL1-21) Robust methods aim to achieve robust performance and/or [stability](https://en.wikipedia.org/wiki/Stability_theory "Stability theory") in the presence of small modeling errors.
+- [Robust control](https://en.wikipedia.org/wiki/Robust_control "Robust control") deals explicitly with uncertainty in its approach to controller design. Controllers designed using _robust control_ methods tend to be able to cope with small differences between the true system and the nominal model used for design. The early methods of [Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode "Hendrik Wade Bode") and others were fairly robust; the state-space methods invented in the 1960s and 1970s were sometimes found to lack robustness. Examples of modern robust control techniques include [H-infinity loop-shaping](https://en.wikipedia.org/wiki/H-infinity_loop-shaping "H-infinity loop-shaping") developed by Duncan McFarlane and [Keith Glover](https://en.wikipedia.org/wiki/Keith_Glover "Keith Glover"), [Sliding mode control](https://en.wikipedia.org/wiki/Sliding_mode_control "Sliding mode control") (SMC) developed by [Vadim Utkin](https://en.wikipedia.org/wiki/Vadim_Utkin "Vadim Utkin"), and safe protocols designed for control of large heterogeneous populations of electric loads in Smart Power Grid applications. Robust methods aim to achieve robust performance and/or [stability](https://en.wikipedia.org/wiki/Stability_theory "Stability theory") in the presence of small modeling errors.
 - [Stochastic control](https://en.wikipedia.org/wiki/Stochastic_control "Stochastic control") deals with control design with uncertainty in the model. In typical stochastic control problems, it is assumed that there exist random noise and disturbances in the model and the controller, and the control design must take into account these random deviations.
 - [Adaptive control](https://en.wikipedia.org/wiki/Adaptive_control "Adaptive control") uses on-line identification of the process parameters, or modification of controller gains, thereby obtaining strong robustness properties. Adaptive controls were applied for the first time in the [aerospace industry](https://en.wikipedia.org/wiki/Aerospace_industry "Aerospace industry") in the 1950s, and have found particular success in that field.
 - A [hierarchical control system](https://en.wikipedia.org/wiki/Hierarchical_control_system "Hierarchical control system") is a type of [control system](https://en.wikipedia.org/wiki/Control_system "Control system") in which a set of devices and governing software is arranged in a [hierarchical](https://en.wikipedia.org/wiki/Hierarchical "Hierarchical") [tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\) "Tree (data structure)"). When the links in the tree are implemented by a [computer network](https://en.wikipedia.org/wiki/Computer_network "Computer network"), then that hierarchical control system is also a form of [networked control system](https://en.wikipedia.org/wiki/Networked_control_system "Networked control system").
 - [Intelligent control](https://en.wikipedia.org/wiki/Intelligent_control "Intelligent control") uses various AI computing approaches like [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_networks "Artificial neural networks"), [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability "Bayesian probability"), [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic "Fuzzy logic"), [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation "Evolutionary computation") and [genetic algorithms](https://en.wikipedia.org/wiki/Genetic_algorithms "Genetic algorithms") or a combination of these methods, such as [neuro-fuzzy](https://en.wikipedia.org/wiki/Neuro-fuzzy "Neuro-fuzzy") algorithms, to control a [dynamic system](https://en.wikipedia.org/wiki/Dynamic_system "Dynamic system").
 - [Self-organized criticality control](https://en.wikipedia.org/wiki/Self-organized_criticality_control "Self-organized criticality control") may be defined as attempts to interfere in the processes by which the [self-organized](https://en.wikipedia.org/wiki/Self-organized "Self-organized") system dissipates energy.
+#### Intelligent Control
+> [!links]
+> ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [Statistical Learning & Machine Learning Methods](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
+> ↗ [Neural Networks & Deep Learning Methods](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Neural Network Models](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+>
+> ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+> 
+> ↗ [Expert System (ES)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Expert%20System%20(ES)/Expert%20System%20(ES).md)
+> 
+> ↗ [Fuzzy Logic](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
+
+**Intelligent control** is a class of [control](https://en.wikipedia.org/wiki/Control_theory "Control theory") techniques that use various [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") computing approaches like [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_networks "Artificial neural networks"), [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability "Bayesian probability"), [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic "Fuzzy logic"), [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning"), [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation "Evolutionary computation") and [genetic algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm "Genetic algorithm").
+Intelligent control can be divided into the following major sub-domains:
+- [Neural network](https://en.wikipedia.org/wiki/Artificial_neural_network "Artificial neural network") control
+- [Machine learning control](https://en.wikipedia.org/wiki/Machine_learning_control "Machine learning control")
+- [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning")
+- [Bayesian](https://en.wikipedia.org/wiki/Bayesian_probability "Bayesian probability") control
+- [Fuzzy control](https://en.wikipedia.org/wiki/Fuzzy_control "Fuzzy control")
+- [Neuro-fuzzy](https://en.wikipedia.org/wiki/Neuro-fuzzy "Neuro-fuzzy") control
+- [Expert Systems](https://en.wikipedia.org/wiki/Expert_System "Expert System")
+- [Genetic control](https://en.wikipedia.org/wiki/Genetic_algorithm "Genetic algorithm")
+
+
+
+## Modeling in Control Theory
+> [!links]
+> ↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
 
 
@@ -143,7 +197,24 @@ List of the main control techniques
 
 于是，控制理论在智能时代的舞台上，逐渐被边缘化。这并不是因为控制理论错了，而是因为它**被困在了自己的数学优雅之中**——它的完美推理与严格证明，反而使它难以伸展到真实而混沌的世界。
 
+
 [控制理论过时了吗？现在开始学自动化/控制理论还有用吗？ | reddit]: https://www.reddit.com/r/ControlTheory/comments/hf6x8k/comment/fvwc0gi/?tl=zh-hans&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 控制方面的一个问题是，它真的深入到很多不同的细分领域。所以，化学工程的控制器和高速机械加工或机器人操纵器的控制器非常不同。后者，也就是我的专长，也需要很好地理解机器人运动学和动力学建模。除此之外，高级机器人控制器通常会使用视觉或其他感官输入，这是一个巨大的领域，通常与机器学习或人工智能交叉。还有遥控设备，它们在通信延迟、力反馈的稳定性等方面有自己的细节。
 
 控制理论本质上是一门应用科学。在我看来，基础知识非常有用，可以给你一个非常强大的工程工具集来分析大量的难题。但是，这些技能不可避免地必须应用于特定的背景下，这需要另一套完整的知识。在我看来，控制理论让你能够进入许多不同的应用领域，并拥有一个非常强大的数学基础。但是，纯粹的控制理论本身很可能不会是你整个职业生涯所做的事情。
+
+
+[控制理论专业书籍清单：入门到进阶 - 半年这么快过去了的文章 - 知乎]: https://zhuanlan.zhihu.com/p/508667233
+入门：本科专业课
+
+**四大数学：** 高数、线代、概率论、复变函数与积分变换
+
+线性代数一定要去看MIT公开课，b站一搜就有，一定要看，要不然会和我一样，学了好几年，连特征根是啥东东都不知道。。。。。。
+
+**四大控制：**[自动控制原理](https://zhida.zhihu.com/search?content_id=201169477&content_type=Article&match_order=1&q=%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86&zhida_source=entity)、[现代控制理论](https://zhida.zhihu.com/search?content_id=201169477&content_type=Article&match_order=1&q=%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA&zhida_source=entity)、[过程控制](https://zhida.zhihu.com/search?content_id=201169477&content_type=Article&match_order=1&q=%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6&zhida_source=entity)、[运动控制](https://zhida.zhihu.com/search?content_id=201169477&content_type=Article&match_order=1&q=%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6&zhida_source=entity)
+
+**自动控制原理：** 主要有胡寿松、黄家英两大版本，胡寿松是一大本书，黄家英是上下两本书，讲的更详细一些，个人感觉比胡寿松的好，但是这两本的稳定性理论部分讲的都不怎么样，可以去看看《应用非线性控制》中的讲解。
+
+自学的话，看书实在是太难以理解了，很多概念讲的一点也不好，教程强烈推荐B站搜卢京潮老师的自控+B站DR_CAN老师-自动控制理论和动态系统建模与分析
+
+[控制理论书单汇总之入门阶段 - 萧然的文章 - 知乎]: https://zhuanlan.zhihu.com/p/14984211834

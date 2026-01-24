@@ -101,6 +101,15 @@ Several devices are available that enable the user to _quick-boot_ into what i
 Upon starting, an IBM-compatible personal computer's x86 CPU, executes in real mode, the instruction located at reset vector (the physical memory address FFFF0h on 16-bit x86 processors[62] and FFFFFFF0h on 32-bit and 64-bit x86 processors[63][64]), usually pointing to the firmware (UEFI or BIOS) entry point inside the ROM. This memory location typically contains a jump instruction that transfers execution to the location of the firmware (UEFI or BIOS) start-up program. This program runs a power-on self-test (POST) to check and initialize required devices such as main memory (DRAM), the PCI bus and the PCI devices (including running embedded option ROMs). One of the most involved steps is setting up DRAM over SPD, further complicated by the fact that at this point memory is very limited.
 
 After initializing required hardware, the firmware (UEFI or BIOS) goes through a pre-configured list of non-volatile storage devices ("boot device sequence") until it finds one that is bootable.
+##### POST (Power-On Self-Test)
+> 🔗 https://en.wikipedia.org/wiki/Power-on_self-test
+
+A power-on self-test (POST) is a process performed by firmware or software routines immediately after a computer or other digital electronic device is powered on.
+
+The results of the POST may be displayed on a panel that is part of the device, output to an external device, or stored for future retrieval by a diagnostic tool. Since a self-test might detect that the system's usual human-readable display is non-functional, an indicator lamp or a speaker may be provided to show error codes as a sequence of flashes or beeps. In addition to running tests, the POST process may also set the initial state of the device from firmware.
+
+In the case of a computer, the POST routines are part of a device's pre-boot sequence; if they complete successfully, the bootstrap loader code is invoked to load an operating system.
+
 #### SoCs and Embedded Systems Booting
 > 🔗 https://en.wikipedia.org/wiki/Motherboard#Bootstrapping
 
@@ -121,16 +130,6 @@ Most DSPs have a serial mode boot and a parallel mode boot, such as the host por
 In the case of DSPs, there is often a second microprocessor or microcontroller present in the system design, and this is responsible for overall system behavior, interrupt handling, dealing with external events, user interface, etc., while the DSP is dedicated to signal processing tasks only. In such systems, the DSP could be booted by another processor which is sometimes referred as the _host processor_ (giving name to a Host Port). Such a processor is also sometimes referred as the _master_, since it usually boots first from its own memories and then controls overall system behavior, including booting of the DSP, and then further controlling the DSP's behavior. The DSP often lacks its own boot memories and relies on the host processor to supply the required code instead. The most notable systems with such a design are cell phones, modems, audio and video players and so on, where a DSP and a CPU/microcontroller coexist.
 
 Many [FPGA](https://en.wikipedia.org/wiki/FPGA "FPGA") chips load their configuration from an external configuration ROM, typically a serial EEPROM, on power-up.
-
-
-### POST (Power-On Self-Test)
-> 🔗 https://en.wikipedia.org/wiki/Power-on_self-test
-
-A power-on self-test (POST) is a process performed by firmware or software routines immediately after a computer or other digital electronic device is powered on.
-
-The results of the POST may be displayed on a panel that is part of the device, output to an external device, or stored for future retrieval by a diagnostic tool. Since a self-test might detect that the system's usual human-readable display is non-functional, an indicator lamp or a speaker may be provided to show error codes as a sequence of flashes or beeps. In addition to running tests, the POST process may also set the initial state of the device from firmware.
-
-In the case of a computer, the POST routines are part of a device's pre-boot sequence; if they complete successfully, the bootstrap loader code is invoked to load an operating system.
 
 
 ### I/O Devices & Drivers Management

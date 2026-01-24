@@ -13,7 +13,8 @@
 ↗ [Logic And Mechanized (Formal) Reasoning](../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-↗ [Type Theory (类型论)](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+↗ [Type Theory (类型论)A](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+
 
 ↗ [Lisp-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
 ↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Expert%20System%20(ES)/Expert%20System%20(ES).md)
@@ -103,7 +104,7 @@ The term _formalism_ is sometimes a rough synonym for _formal system_, but it
 ##### Formal Logics (Mathematical Logics)
 This note.
 ##### Simplified Typed Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Lambda Calculus (λ-Calculus)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 **Syntax** 
 - 🔗 https://thzt.github.io/2017/09/19/type-6/
@@ -112,7 +113,7 @@ This note.
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
 	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
-	- ↗ [Henkin Model & Henkin Semantics](Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
 	- ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
 
@@ -125,17 +126,82 @@ This note.
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 > 本文以一阶逻辑为例，从逻辑学角度给出了语义模型的定义，由此，一阶逻辑系统中的符号串，都有了一个数学对象与之对应，它们是论域，论域集合上的函数和运算。可想而已，这些数学对象是有代数性质的。
-#### 0️⃣ Symbolic Notations
-##### Logic Reasoning & Natural Deduction
-↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 
+> 🤖 GPT-5.0
+> https://chatgpt.com/share/69738171-49e4-800f-9dbf-654b7c9ecaa1
+
+A logic is a **formal system** if it has:
+1. **Syntax** (formulas, symbols, formation rules)
+2. **Proof system** (axioms + inference rules)
+3. **Semantics** (models, interpretations, truth conditions)
+Most non-classical logics have all three:
+- Intuitionistic logic → natural deduction, Kripke models (worlds + accessibility)
+- Modal logic → Hilbert systems, Kripke frames with modalities
+- Fuzzy logic → many-valued semantics (Truth-valued structures)
+- Paraconsistent logic → non-explosive consequence relations
+
+
+Think of logics as living in a **2D space**:
+Axis 1: **Semantics of truth** (how truth behaves)
+- Classical
+- Intuitionistic
+- Fuzzy
+- Modal
+- Paraconsistent
+- Probabilistic
+Axis 2: **Expressive strength** (what kinds of objects your variables can range over.)
+- Propositional logic (zeroth logic)
+	- variables range over propositions
+- First-order logic (FOL)  
+	- variables range over individuals
+- Second-order logic
+	- variables range over predicates/relations
+- Higher-order logic
+	- variables range over functions, relations, predicates, sets, etc.
+These axes are **independent**.
+
+Example combinations:
+- Classical first-order logic (standard mathematics)
+- Intuitionistic higher-order logic (type theory)
+- Fuzzy first-order logic (AI reasoning)
+- Modal higher-order logic (philosophy, metaphysics)
+
+
+Different logics are different answers to different design questions:
+
+| Question                             | Logic dimension                    |
+| ------------------------------------ | ---------------------------------- |
+| What is truth?                       | Classical / Intuitionistic / Fuzzy |
+| What can we quantify over?           | FOL / HOL                          |
+| How do necessity & possibility work? | Modal                              |
+| What if contradictions exist?        | Paraconsistent                     |
+| How much information do we have?     | Epistemic                          |
+
+Each logic chooses **positions** on several dimensions at once.
+
+
+A Unifying View (Category-Theoretic Intuition)
+Modern logic often treats logics as:
+- **Formal systems**
+- **Proof calculi**
+- **Semantic structures**
+Examples:
+- Classical logic ↔ Boolean algebras
+- Intuitionistic logic ↔ Heyting algebras
+- Fuzzy logic ↔ Residuated lattices
+- Modal logic ↔ Kripke frames
+From this view: Logics are **related species in a family**, not members of a single linear hierarchy.
+#### 0️⃣ Symbolic Notations
+##### Proof Systems & Logic Reasoning
+↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 - ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 ##### Zero-Order Language
-**↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)**
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 ##### First-Order Language
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
+---
 **↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
 一阶谓词逻辑是一种一阶语言。
 
@@ -155,11 +221,12 @@ This note.
 
 一阶逻辑中的逻辑符号和非逻辑符号，称为**一阶语言**，记为$\mathbb{L}$。
 
+
 ---
 **Elementary Arithmetics**
 初等算术语言是一个一阶语言，记为$\Pi$。它的常元符号集合为$\{0\}$，函数符号集合为$\{S, +, \cdot\}$，谓词符号集合为$\{\lt\}$。其中，$S$可以表示算术中的后继函数，而二元函数符号 $+$ 和 $\cdot$ 可以分别表示算术中的加法和乘法，谓词符号$\lt$可以描述自然数之间的小于关系。
 ##### Higher-Order Language
-↗ [Higher-Order Logic (HOL)](Higher-Order%20Logic%20(HOL)/Higher-Order%20Logic%20(HOL).md)
+↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
 #### 1️⃣ Syntax & 2️⃣ Semantics
 > [!links]
 > ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
@@ -244,8 +311,15 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 
 ### Classical Logic: Proposition & Predicate
 ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+
+
+### Non-Classical Logics
+↗ [Intuitionistic (Constructive) Logic](Intuitionistic%20(Constructive)%20Logic/Intuitionistic%20(Constructive)%20Logic.md)
+↗ [Modal Logic (模态逻辑)](Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
+↗ [Fuzzy Logic](Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
+↗ [Paraconsistent Logic](Paraconsistent%20Logic/Paraconsistent%20Logic.md)
 
 
 
@@ -305,7 +379,7 @@ However, (in my opinion) this is not necessary. Semantics is just the process th
 ![computing.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
 ![Language_and_Programming_Language_Processing | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
-#### Semantics & Semantic Models 
+#### Semantics & Semantic Models (Structrues)
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
 有了一阶语言之后，我们就可以为符号选择语义了，通常的，语言的语义有两部分组成：
@@ -340,7 +414,7 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 ##### Models & Semantics ⭐
 > [!lnks]
 > ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-> ↗ [Henkin Model & Henkin Semantics](Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
+> ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 > ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
 > ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
@@ -390,7 +464,11 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 > 
 > 哥德尔定理，它指出了形式化方法的局限性，任何包含初等算术$\Pi$的形式理论，都是不完全的，且自身的协调性无法在系统内部被证明。为了理解这句话，文中我们做出了严谨的定义，仔细建立了语法和语义之间的联系。
 > 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
-##### Satisfiability ⭐
+##### Satisfiability & Validity⭐
+> [!links]
+> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Symbolic%20Execution%20&%20Constrain%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+
 Intuitively explanation:
 When mapping two objects, or "assigning semantics", we don't assign an arbitary object to another arbitary object; instead, we assign them under some set of rules. Hence, under these rules, the result of such mapping can be deduced to a decision problem: either the mapping follows the rules (mapping succeeds) or don't (mapping fails). Further, we say A accept B, or A satisfy B, when such mapping succeeds. Accordingly, B is satisfiable, or SAT.
 
@@ -405,14 +483,18 @@ Specifically, we consider the mapping between these two sets of objects: one is 
 * **记号：** 记为 $M \models_{\sigma} A$。
 * **公式集：** 如果有公式集 $\Gamma$，其中的每一个公式关于模型 $(M, \sigma)$ 都是可满足的，我们就称公式集 $\Gamma$ 关于模型 $(M, \sigma)$ 是**可满足的**，记为 $M \models_{\sigma} \Gamma$。
 
+
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+- ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
 ↗ [Computation-Tree Logic (CTL*) Family](Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
 
 
----
-↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
-Alternatively, does a given model $M$ partially satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
-SAT problem: given a property $\Phi$ (a proposition), is there any model that satisfy $\Phi$? $$\exists M, \ M \models \Phi \ ?$$
+> [!TIP]
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) problem: does a given model $M$ satisfy a given property $\Phi$? $$M \models \Phi \ ?$$
+> 
+> Alternatively, does a given model $M$ partially satisfy a given property $\Phi$ ? $$\exists x, y, z. \ M(x,y,z) \models \Phi \ ?$$
+> 
+> SAT problem: given a property $\Phi$ (a proposition), is there any model that satisfy $\Phi$? $$\exists M, \ M \models \Phi \ ?$$
 ###### The Oldest NP-complete Problem: SAT Problem!
 > [!links]
 > ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
@@ -444,6 +526,7 @@ Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first
 
 > [!TIP] 语义关系
 > $\Gamma \models A$ 表示一种语义关系：它指出对任意 $M$ 和 $\sigma$，如果 $\Gamma$ 为真，那么 $A$ 也一定为真。
+##### Compactness and Löwenheim–Skolem
 ##### Tautology (重言式)
 如果公式 $A$ 对于**任意**模型 $(M, \sigma)$ 都是可满足的，即对于任意结构 $M$ 和赋值 $\sigma$，$M \models_{\sigma} A$ 都成立，我们就称 $A$ 是**永真公式**，也称为**重言式**。
 * **记号：** 记为 $\models A$。

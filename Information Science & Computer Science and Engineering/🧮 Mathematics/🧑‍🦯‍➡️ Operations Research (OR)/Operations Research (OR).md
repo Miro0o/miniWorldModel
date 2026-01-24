@@ -12,7 +12,7 @@
 
 ↗ [Cybernetics & Control Theory](../Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
-↗ [Complex System Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science.md)
+↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
 ↗ [Management Science](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Management%20Science/Management%20Science.md)
 ↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)

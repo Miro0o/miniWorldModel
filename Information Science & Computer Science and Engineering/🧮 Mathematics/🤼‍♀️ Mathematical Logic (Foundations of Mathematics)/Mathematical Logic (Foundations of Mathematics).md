@@ -20,7 +20,7 @@
 	- ↗ [Formal Semantics and Programming Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 - ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 	- ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Higher-Order%20Logic%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+	- ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
@@ -134,6 +134,87 @@ During the 19th century, progress was made towards elaborating precise definitio
 The resolution of this crisis involved the rise of a new mathematical discipline called [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") that includes [set theory](https://en.wikipedia.org/wiki/Set_theory "Set theory"), [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory"), [proof theory](https://en.wikipedia.org/wiki/Proof_theory "Proof theory"), [computability](https://en.wikipedia.org/wiki/Computability_theory "Computability theory") and [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), and more recently, parts of [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). Subsequent discoveries in the 20th century then stabilized the foundations of mathematics into a coherent framework valid for all mathematics. This framework is based on a systematic use of [axiomatic method](https://en.wikipedia.org/wiki/Axiomatic_method "Axiomatic method") and on set theory, specifically [Zermelo–Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory "Zermelo–Fraenkel set theory") with the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice "Axiom of choice"). Foundations based on [type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory") have also gained prevalence, being commonly used in computer [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant").
 
 It results from this that the basic mathematical concepts, such as [numbers](https://en.wikipedia.org/wiki/Number "Number"), [points](https://en.wikipedia.org/wiki/Point_\(geometry\) "Point (geometry)"), [lines](https://en.wikipedia.org/wiki/Line_\(geometry\) "Line (geometry)"), and [geometrical spaces](https://en.wikipedia.org/wiki/Geometrical_space "Geometrical space") are not defined as abstractions from reality but from basic properties ([axioms](https://en.wikipedia.org/wiki/Axiom "Axiom")). Their adequation with their physical origins does not belong to mathematics anymore, although their relation with reality is still used for guiding [mathematical intuition](https://en.wikipedia.org/wiki/Mathematical_intuition "Mathematical intuition"): physical reality is still used by mathematicians to choose axioms, find which theorems are interesting to prove, and obtain indications of possible proofs.
+#### Mathematics Logics & Foundations ⭐
+> [!links]
+> ↗ [Set Theory & Axiomatic Set Theory](🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+> ↗ [Type Theory (类型论)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Category Theory (范畴论)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+
+> 🤖 GPT-5.0
+> 🔗 https://chatgpt.com/share/69738171-49e4-800f-9dbf-654b7c9ecaa1
+
+Mathematical logic is not itself a single foundation of mathematics; rather, it is the discipline that develops and studies formal systems capable of serving as foundations, such as set theory, type theory, and categorical frameworks.
+
+```md
+// Final Mental Model (Keep This) 
+
+Mathematics
+│
+├── Mathematical Logic (field)
+│   ├── Logic (languages, proof systems, semantics)
+│   ├── Set Theory (ZFC, ZF, etc.)
+│   ├── Model Theory
+│   ├── Proof Theory
+│   ├── Computability Theory
+│
+├── Foundations (choices)
+│   ├── Set-theoretic
+│   ├── Type-theoretic
+│   ├── Categorical
+│
+└── Mathematical Practice
+
+```
+
+When people say: **“Mathematical logic is the foundation of mathematics”**
+they usually **do not** mean:
+- There exists a single, ultimate theory
+- That theory is provably _the_ foundation
+- All mathematics is derived from it in a uniquely correct way
+Instead, it means something much weaker and more pragmatic:
+- **Mathematical logic studies the formal languages, proof systems, and semantic frameworks in which mathematics can be precisely formulated, analyzed, and justified.**
+So “foundation” here is **methodological**, not metaphysical.
+
+Major foundational frameworks
+- **Set theory** (ZFC, ZF + large cardinals)
+- **Type theory** (Martin-Löf, HoTT)
+- **Category theory** (topos theory)
+- **Higher-order logic**
+Each:
+- Can formalize large parts of mathematics
+- Makes different philosophical commitments
+- Has different strengths
+No single one is provably “the best”.
+
+| Category   | Examples                                                     |
+| ---------- | ------------------------------------------------------------ |
+| Field      | Mathematical logic                                           |
+| Subfields  | Set theory, model theory, proof theory, computability theory |
+| Theories   | ZFC, ZF, NBG, MLTT, HOL                                      |
+| Frameworks | First-order logic, type theory                               |
+
+
+**There is no theorem that proves any system is _the_ foundation of mathematics.**
+Even more strongly:
+- The very notion of “absolute foundation” is **not well-defined**
+- Foundations are **chosen**, not discovered
+- What matters is _relative consistency, interpretability, and usefulness_
+Reasons:
+- Gödel’s incompleteness theorems
+- Independence results (CH, AC)
+- Multiple non-equivalent foundations exist
+- Foundations depend on goals (constructive vs classical)
+So “foundation” is:
+- Historical
+- Pragmatic
+- Philosophical
+Not absolute.
+It supplies:
+- Formal languages
+- Proof systems
+- Semantic frameworks
+- Metatheorems (soundness, completeness, consistency)
+Set theory is **one powerful construction** using this toolkit.
 
 
 ### Logic & Reasoning

@@ -176,7 +176,7 @@ Mathematical logic led to unexpected results, such as [Gödel's incompleteness 
 Simultaneously, the [axiomatic method](https://en.wikipedia.org/wiki/Axiomatic_method "Axiomatic method") became a de facto standard: the proof of a theorem must result from explicit [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") and previously proved theorems by the application of clearly defined inference rules. The axioms need not correspond to some reality. Nevertheless, it is an open philosophical problem to explain why the axiom systems that lead to rich and useful theories are those resulting from abstraction from the physical reality or other mathematical theory.
 
 In summary, the foundational crisis is essentially resolved, and this opens new philosophical problems. In particular, it cannot be proved that the new foundation (ZFC) is not self-contradictory. It is a general consensus that, if this would happen, the problem could be solved by a mild modification of ZFC.
-	#### 20th Century
+#### 20th Century
 
 #### 21st Century
 > 🔗 https://en.wikipedia.org/wiki/History_of_mathematics#21st_century

@@ -37,7 +37,9 @@
 
 
 ## Intro
+> [!links]
 > ↗ [Mathematics /👉 Structure（结构）](../../../Mathematics.md#👉%20Structure（结构）)
+
 > 🔗 https://thzt.github.io/2018/02/09/semantics-7/
 
 范畴论的研究数学结构的形式化方法，它不考虑具体的数学对象，而是考虑数学对象以及它们之间的联系。
@@ -76,6 +78,10 @@ Morphisms are often some sort of [functions](https://en.wikipedia.org/wiki/Func
 <small>Schematic representation of three objects and three morphisms of a category, which form a commutative diagram <a>https://en.wikipedia.org/wiki/Commutative_diagram "Commutative diagram"</a></small>
 
 The second fundamental concept of category theory is the concept of a [functor](https://en.wikipedia.org/wiki/Functor "Functor"), which plays the role of a morphism between two categories C1 and C2: it maps objects of C1 to objects of C2 and morphisms of C1 to morphisms of C2 in such a way that sources are mapped to sources, and targets are mapped to targets (or, in the case of a [contravariant functor](https://en.wikipedia.org/wiki/Contravariant_functor "Contravariant functor"), sources are mapped to targets and _vice-versa_). A third fundamental concept is a [natural transformation](https://en.wikipedia.org/wiki/Natural_transformation "Natural transformation") that may be viewed as a morphism of functors.
+
+> 🔗 https://plato.stanford.edu/archives/win2006/entries/category-theory/
+
+Category theory has come to occupy a central position in contemporary mathematics and theoretical computer science, and is also applied to mathematical physics. Roughly, it is a general mathematical theory of structures and of systems of structures. As category theory is still evolving, its functions are correspondingly developing, expanding and multiplying. At minimum, it is a powerful language, or conceptual framework, allowing us to see the universal components of a family of structures of a given kind, and how structures of different kinds are interrelated. ==Category theory is both an interesting object of philosophical study, and a potentially powerful formal tool for philosophical investigations of concepts such as space, system, and even truth.== It can be applied to the study of logical systems in which case category theory is called "categorical doctrines" at the syntactic, proof-theoretic, and semantic levels. ==Category theory is an alternative to set theory as a foundation for mathematics.== As such, it raises many issues about mathematical ontology and epistemology. Category theory thus affords philosophers and logicians much to use and reflect upon.
 
 
 ### Diagram Representation
