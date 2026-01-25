@@ -21,6 +21,8 @@ https://spinningup.openai.com/en/latest/user/introduction.html
 Welcome to Spinning Up in Deep RL! This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
 👍 Murphy, K. (2025). _Reinforcement Learning: An Overview_ (No. arXiv:2412.05265). arXiv. https://doi.org/10.48550/arXiv.2412.05265
+- In later chapters, we will describe methods for learning the best policy to maximize $V_π(s0) = E [G_0|s_0, π]$.
+- More details on RL can be found in textbooks such as [SB18; KWW22; Pla22; Li23; Sze10], and reviews such as [Aru+17; FL+18; Li18; Wen18a; ID19]. For a more theoretical treatment, see e.g., [Aga+22a; MMT24; FR23]. For details on how RL relates to control theory, see e.g., [Son98; Rec19; Ber19; Mey22]; for connections to operations research, see [Pow22]; for connections to finance, see [RJ22].
 
 👍 👍【【强化学习的数学原理】课程：从零开始到透彻理解（完结）】 https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 教材PDF+PPT+代码网址： 
@@ -63,7 +65,15 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 ![](../../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2011.25.44.png)
 
 
-### Mathematical Models of The RL Problem
+### Reinforcement Learning & Control Theory
+#reinforcement_learning #control_theory
+
+> [!links]
+> [Cybernetics & Control Theory](../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+
+
+
+## Mathematical Models of The RL Problem
 > [!links]
 > ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 > ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
@@ -78,29 +88,35 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 > ↗ [Vector & Vector Space](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Vector%20&%20Vector%20Space/Vector%20&%20Vector%20Space.md)
 
 
-
-### Objectives in RL & Recursive Approach
+### 🎯 Classical Markovian-Based RL
+#### Objectives & Recursive Approach
 > [!links]
 > ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > ↗ [Lattice (Set Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md) "least fixed point theorem"
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-
-#### Bellman Equation
+##### Bellman Equation
 > [!links]
 > ↗ [Bellman-Ford Algorithm](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Graphs%20(and%20Trees)%20Problems/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
 > ↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Bellman_equation
-
-#### Bellman Optimal Equation (BOE)
+##### Bellman Optimal Equation (BOE)
 > [!links]
 > ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > fixed point & contraction mapping theorem
 
 
+### 🎯 Other RL Models & Algorithms
+↗ [Distributional RL](Distributional%20RL/Distributional%20RL.md)
+↗ [Hierarchical RL (HRL)](Hierarchical%20RL%20(HRL)/Hierarchical%20RL%20(HRL).md)
+↗ [Imitation Learning (IL) & Learning from Demonstration (LfD)](Imitation%20Learning%20(IL)%20&%20Learning%20from%20Demonstration%20(LfD)/Imitation%20Learning%20(IL)%20&%20Learning%20from%20Demonstration%20(LfD).md)
+↗ [Intrinsically Motivated RL (Unsupervised RL)](Intrinsically%20Motivated%20RL%20(Unsupervised%20RL)/Intrinsically%20Motivated%20RL%20(Unsupervised%20RL).md)
+↗ [Multi-Agent RL (MARL)](Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
 
-## Reinforcement Learning Algorithms
-### Model-Based RL (MBRL)
+
+
+## Reinforcement Learning Algorithms (for Markovian-Based Model)
+### 🎯 Model-Based RL (MBRL)
 > [!links]
 > ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 > ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
@@ -115,7 +131,7 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 #### Truncated Policy Iteration
 
 
-### Model-Free RL
+### 🎯 Model-Free RL
 ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
 - ↗ [Monte Carlo Methods](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Monte%20Carlo%20Methods/Monte%20Carlo%20Methods.md)
 ↗ [Monte Carlo Based RL](📌%20RL%20Basics%20-%20Markovian%20Based%20RL/Value-Based%20RL/Monte%20Carlo%20Based%20RL.md)
@@ -132,7 +148,7 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 ##### Policy Function Approximation (Policy Gradient)
 
 
-### Actor-Critic Methods
+### 🎯 Actor-Critic Methods
 
 
 
