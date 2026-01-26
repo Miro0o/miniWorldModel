@@ -64,6 +64,19 @@ https://www.cse.cuhk.edu.hk/~wei/
 wei meng
 seclab https://seclab.cse.cuhk.edu.hk/
 
+https://www.cse.cuhk.edu.hk/people/faculty/Lauren-PICK/
+Lauren Pick
+
+https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/
+Eric Chi Lik Lo
+
+https://www.cse.cuhk.edu.hk/people/faculty/Weiyang-Liu/
+Weiyang Liu
+
+https://www.cse.cuhk.edu.hk/people/faculty/shengchao-liu/
+Shengchao LIU
+
+
 
 
 ## Asia - Others

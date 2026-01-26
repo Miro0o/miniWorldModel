@@ -23,7 +23,7 @@ LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
 - ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 - ↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
-↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [LLM & Security](../../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)

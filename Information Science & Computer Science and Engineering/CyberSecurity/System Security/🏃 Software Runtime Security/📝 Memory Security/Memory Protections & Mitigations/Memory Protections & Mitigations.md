@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Win Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
-↗ [Linux Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
+↗ [Win Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/📌%20Win%20Memory%20Protection%20Mechanism/Win%20Memory%20Protection%20Mechanism.md)
+↗ [Linux Memory Protection Mechanism](../../../🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/📌%20Linux%20Memory%20Protection%20Mechanism/Linux%20Memory%20Protection%20Mechanism.md)
 
 ↗ [Computer Languages & Programming Methodology](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-↗ [Operating System Security](../../../🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
+↗ [Operating System Security (& Mobile Security)](../../../🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
 
 
 ### Other Resources

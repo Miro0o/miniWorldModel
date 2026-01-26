@@ -8,6 +8,11 @@
 🏠 https://www.haskell.org
 📁 https://www.haskell.org/documentation/
 
+We recommend joining right now, and don’t be shy to ask for help! Check [https://www.haskell.org/community](https://www.haskell.org/community) for a full list of resources relating to the Haskell community.
+- [Haskell Discourse](https://discourse.haskell.org/)
+- [Haskell subreddit](https://www.reddit.com/r/haskell/)
+- [IRC](https://www.haskell.org/irc/)
+
 
 ### Related Topics
 

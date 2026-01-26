@@ -38,8 +38,8 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
 
-↗ [Linux Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Security.md)
-↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
+↗ [Linux Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Security.md)
+↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
 
 ↗ [Computer Engineering, Embedded & IoT](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 ↗ [Embedded Operating Systems](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)

@@ -161,7 +161,9 @@ https://stanford.edu/~shervine/
 Features in data (数据特征): such **connections** between **informations** that leads to some semantic interpretation. 🤔
 
 
-### Neural Network / Deep Network?
+### Neural Network / Deep (Neural) Network?
+#neural_networks #deep_learning #DNN 
+
 - **Neural Networks**: Slow learning, potentially very powerful, can learn very complex patterns. Can be prone to overfitting due to high density of the parameters.
 - **Deep Networks**: Very large complex (neural) networks, but made up of many often heterogeneous types of networks that try to simplify the inputs, so that we can use a relatively small dense network to perform final decisions.
 

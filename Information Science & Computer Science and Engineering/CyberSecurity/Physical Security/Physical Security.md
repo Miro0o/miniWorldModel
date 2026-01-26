@@ -7,6 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Social Engineering & Physical Security](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+↗ [Hardware Security](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
+
+
+### Other Resources
 
 
 

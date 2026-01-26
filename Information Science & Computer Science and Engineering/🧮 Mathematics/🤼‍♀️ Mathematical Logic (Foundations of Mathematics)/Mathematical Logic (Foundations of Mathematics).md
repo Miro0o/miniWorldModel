@@ -194,7 +194,7 @@ No single one is provably “the best”.
 | Frameworks | First-order logic, type theory                               |
 
 
-**There is no theorem that proves any system is _the_ foundation of mathematics.**
+==There is no theorem that proves any system is _the_ foundation of mathematics.==
 Even more strongly:
 - The very notion of “absolute foundation” is **not well-defined**
 - Foundations are **chosen**, not discovered

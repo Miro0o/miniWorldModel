@@ -11,7 +11,7 @@
 
 ↗ [AI(LLM) x SE](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [AI & Gaming](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
-↗ [AI x Security](../../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI x Security](../../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
 
 
 ### Related Information

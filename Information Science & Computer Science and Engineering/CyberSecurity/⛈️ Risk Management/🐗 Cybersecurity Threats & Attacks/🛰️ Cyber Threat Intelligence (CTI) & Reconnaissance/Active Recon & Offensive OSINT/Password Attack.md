@@ -13,7 +13,7 @@
 - ↗ [Cryptography](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 - ↗ [Message Digest & Hash Function (Integrity)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
 
-↗ [Security Account Manager (SAM)](../../../../System%20Security/🧸%20Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/Security%20Account%20Manager%20(SAM).md)
+↗ [Security Account Manager (SAM)](../../../../System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/Security%20Account%20Manager%20(SAM).md)
 
 
 ### Other Resources

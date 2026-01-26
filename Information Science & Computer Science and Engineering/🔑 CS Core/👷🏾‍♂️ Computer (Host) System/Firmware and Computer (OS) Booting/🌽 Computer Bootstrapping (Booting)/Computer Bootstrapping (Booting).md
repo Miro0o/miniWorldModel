@@ -191,9 +191,9 @@ Large and complex systems may have boot procedures that proceed in multiple phas
 > ↗ [Trusted Computing (TC)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md)
 > - ↗ [TPM & TSS](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
 >
-> ↗ [Operating System Security](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
-> ↗ [SELinux (Security-Enhanced Linux)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/SELinux%20(Security-Enhanced%20Linux)/SELinux%20(Security-Enhanced%20Linux).md)
-> ↗ [SecureBoot](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/SecureBoot.md)
+> ↗ [Operating System Security (& Mobile Security)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
+> ↗ [SELinux (Security-Enhanced Linux)](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/SELinux%20(Security-Enhanced%20Linux)/SELinux%20(Security-Enhanced%20Linux).md)
+> ↗ [SecureBoot](../../../../CyberSecurity/System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🪟%20Windows%20Security/Windows%20Security%20Mechanisms/SecureBoot.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Booting#Security
 

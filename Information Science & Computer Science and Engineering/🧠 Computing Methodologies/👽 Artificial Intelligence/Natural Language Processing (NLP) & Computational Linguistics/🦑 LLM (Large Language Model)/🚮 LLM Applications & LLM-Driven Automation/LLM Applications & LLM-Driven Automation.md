@@ -23,8 +23,8 @@
 ↗ [Web Automation, Testing, and WebDriver](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
-↗ [AI x Security](../../../../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
-↗ [LLM & Security](../../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [AI x Security](../../../../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [LLM & Security](../../../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 - ↗ [LLM & Software Security and Analysis](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 - ↗ [LLM & Fuzzing](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 

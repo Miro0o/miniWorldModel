@@ -16,12 +16,12 @@
 - ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
 - ↗ [Information Assurance (IA)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
 
-↗ [AI x Security](../../🤖%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI x Security](../../🫧%20AI%20x%20Security/AI%20x%20Security.md)
 
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)
 - ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 - ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-- ↗ [Virtualization Security](../../Application%20Security/Virtualization%20Security/Virtualization%20Security.md)
+- ↗ [Virtualization Security](../../System%20Security/Virtualization%20Security/Virtualization%20Security.md)
 
 ↗ [Data Security](../../Data%20Security/Data%20Security.md)
 - ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
@@ -35,7 +35,7 @@
 - ↗ [IoT Security](../../System%20Security/IoT%20Security/IoT%20Security.md)
 - ↗ [Cloud Security](../../System%20Security/Cloud%20Security/Cloud%20Security.md)
 - ↗ [Database System Security](../../System%20Security/Database%20System%20Security/Database%20System%20Security.md)
-- ↗ [Operating System Security](../../System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
+- ↗ [Operating System Security (& Mobile Security)](../../System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
 - ↗ [Software Runtime Security](../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
 
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)

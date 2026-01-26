@@ -15,7 +15,7 @@
 ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 
-### Other Resources
+### Learning Resources
 ↗ [NJU /软件分析](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
 - 《（静态）软件分析》课程网站（含课件、实验作业、实验文档）： https://tai-e.pascal-lab.net/lectures.html 
 - 《（静态）软件分析》实验作业在线评测：https://oj.pascal-lab.net/
@@ -41,23 +41,31 @@ https://courses.compute.dtu.dk/02242
 02242: Program Analysis
 Christian Gram Kalhauge | DTU
 
-|No|Date|Topic|
-|---|---|---|
-|`01`|`2024-09-02`|[Introduction](https://courses.compute.dtu.dk/02242/topics/introduction.html)|
-|`02`|`2024-09-09`|[Syntactic Analysis](https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html)|
-|`03`|`2024-09-16`|[Semantics](https://courses.compute.dtu.dk/02242/topics/semantics.html)|
-|`04`|`2024-09-23`|[Dynamic Analysis](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html)|
-|`05`|`2024-09-30`|[Bounded Static Analysis](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html)|
-|`06`|`2024-10-07`|Recap / Project / QA|
-|--|`2024-10-14`|Autumn holiday|
-|`07`|`2024-10-21`|Self Study // Feedback From Proposals|
-|`08`|`2024-10-28`|[Unbounded Static Analysis](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html)|
-|`09`|`2024-11-04`|[Concolic Execution](https://courses.compute.dtu.dk/02242/topics/concolic-execution.html)|
-|`10`|`2024-11-11`|[How to write a good paper](https://courses.compute.dtu.dk/02242/topics/how-to-write-a-paper.html)|
-|`11`|`2024-11-18`|Self Study // Peer Feedback On Papers|
-|`12`|`2024-11-25`|[Context Sensitive Analysis](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html)|
-|`13`|`2024-12-02`|Q/A & How to-do a good presentation|
-|--|`2024-12-10`|Exam|
+| No   | Date         | Topic                                                                                                     |
+| ---- | ------------ | --------------------------------------------------------------------------------------------------------- |
+| `01` | `2024-09-02` | [Introduction](https://courses.compute.dtu.dk/02242/topics/introduction.html)                             |
+| `02` | `2024-09-09` | [Syntactic Analysis](https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html)                 |
+| `03` | `2024-09-16` | [Semantics](https://courses.compute.dtu.dk/02242/topics/semantics.html)                                   |
+| `04` | `2024-09-23` | [Dynamic Analysis](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html)                     |
+| `05` | `2024-09-30` | [Bounded Static Analysis](https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html)       |
+| `06` | `2024-10-07` | Recap / Project / QA                                                                                      |
+| --   | `2024-10-14` | Autumn holiday                                                                                            |
+| `07` | `2024-10-21` | Self Study // Feedback From Proposals                                                                     |
+| `08` | `2024-10-28` | [Unbounded Static Analysis](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html)   |
+| `09` | `2024-11-04` | [Concolic Execution](https://courses.compute.dtu.dk/02242/topics/concolic-execution.html)                 |
+| `10` | `2024-11-11` | [How to write a good paper](https://courses.compute.dtu.dk/02242/topics/how-to-write-a-paper.html)        |
+| `11` | `2024-11-18` | Self Study // Peer Feedback On Papers                                                                     |
+| `12` | `2024-11-25` | [Context Sensitive Analysis](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html) |
+| `13` | `2024-12-02` | Q/A & How to-do a good presentation                                                                       |
+| --   | `2024-12-10` | Exam                                                                                                      |
+
+📖 Principles of Program Analysis, by Flemming Nielson, Hanne R. Nielson and Chris Hankin. (2005)
+
+📖 Porgram Analysis - An Apitizer (2020)
+Flemming Nielson, Hanne Riis Nielson
+
+
+### Other Resources
 
 
 

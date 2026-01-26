@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Android & AOSP](../../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20&%20AOSP.md)
-↗ [Android Security](../../../../../../Application%20Security/Virtualization%20Security/Android%20Security/Android%20Security.md)
+↗ [Android Security](../../../../../../System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/🤖%20Android%20Security/Android%20Security.md)
 
 
 ### Other Resources

@@ -16,7 +16,7 @@
 
 ↗ [AI(LLM) x SE](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 ↗ [AIoT (AI for IoT) & Edge AI](../../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
-↗ [AI x Security](../../../CyberSecurity/🤖%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI x Security](../../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
 
 
 ### Products /Tools /Projects

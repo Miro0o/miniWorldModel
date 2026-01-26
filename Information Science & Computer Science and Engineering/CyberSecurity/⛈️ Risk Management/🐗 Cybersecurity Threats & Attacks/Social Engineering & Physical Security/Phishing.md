@@ -1,4 +1,4 @@
-# Phish
+# Phishing
 
 [TOC]
 
@@ -7,6 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Gophish](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Social%20Engineering%20Tools/Gophish.md)
+
+
+### Other Resources
 
 
 

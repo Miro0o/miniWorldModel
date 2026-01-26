@@ -17,7 +17,7 @@
 ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 ↗ [Web Security](../Web%20Security.md)
 
-↗ [AI x Security](../../../🤖%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI x Security](../../../🫧%20AI%20x%20Security/AI%20x%20Security.md)
 ↗ [Attack Simulation - Red, Blue, Purple, White](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 
@@ -129,7 +129,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Initial Access (TA0001)
 		- ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 		- ↗ [Physical Security](../../../Physical%20Security/Physical%20Security.md)
-			- ↗ [Embedded Devices & RFID Hacking](../../../Physical%20Security/Embedded%20Devices%20&%20RFID%20Hacking/Embedded%20Devices%20&%20RFID%20Hacking.md)
+			- ↗ [Embedded Devices & RFID Hacking](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Embedded%20Devices%20&%20RFID%20Hacking/Embedded%20Devices%20&%20RFID%20Hacking.md)
 		- ↗ [Wireless & Mobile Network Security](../../../Network%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 			- ↗ [WiFi Attacks & Cracking](../../../Network%20Security/Network%20Threats%20&%20Attacks/Link%20Layer%20&%20Physical%20Layer%20Attacks/WiFi%20Attacks%20&%20Cracking/WiFi%20Attacks%20&%20Cracking.md)
 	- ↗ [Bypassing Security Controls](Delivery%20Phase/Bypassing%20Security%20Controls/Bypassing%20Security%20Controls.md)

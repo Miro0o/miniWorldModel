@@ -15,7 +15,7 @@
 - ↗ [LLM Foundation Models List & Evaluation & Leaderboard](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
 
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-↗ [LLM & Security](../../../../CyberSecurity/🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [LLM & Security](../../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 ↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)

@@ -32,7 +32,7 @@
 ↗ [System Security](../../System%20Security/System%20Security.md)
 - ↗ [Software Runtime Security](../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)
 	- ↗ [Memory Threats & Attacks](../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
-- ↗ [Operating System Security](../../System%20Security/🧸%20Operating%20System%20Security/Operating%20System%20Security.md)
+- ↗ [Operating System Security (& Mobile Security)](../../System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
 - ↗ [Database System Security](../../System%20Security/Database%20System%20Security/Database%20System%20Security.md)
 - etc.
 
