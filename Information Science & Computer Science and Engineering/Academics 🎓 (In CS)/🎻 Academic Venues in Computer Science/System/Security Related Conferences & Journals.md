@@ -273,6 +273,25 @@ https://www.sigsac.org
 ACM Special Interest Group on Security, Audit and Control (**SIGSAC**)
 
 
+### Black Hat
+
+
+### Def Con
+
+
+### Gartner Security & Risk Management Summit
+
+
+### InfoSec Europe
+https://www.infosecurityeurope.com/
+
+
+### OWASP Global AppSec
+
+
+### BSides
+
+
 
 ## Journals
 

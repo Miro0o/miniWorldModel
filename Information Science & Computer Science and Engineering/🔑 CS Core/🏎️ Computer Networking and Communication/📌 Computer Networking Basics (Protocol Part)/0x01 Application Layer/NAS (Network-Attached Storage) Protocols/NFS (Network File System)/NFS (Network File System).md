@@ -9,7 +9,7 @@
 ↗ [File & File System](../../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 ↗ [ONC RPC (Sun RPC)](../../../../Network%20Programming%20&%20RPC/RPC%20Frameworks/ONC%20RPC%20(Sun%20RPC).md)
-↗ [Kerberos](../../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/Kerberos/Kerberos.md)
+↗ [Kerberos](../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/Kerberos/Kerberos.md)
 
 
 

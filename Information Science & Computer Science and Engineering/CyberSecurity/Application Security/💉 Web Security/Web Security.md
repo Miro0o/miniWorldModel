@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-↗ [Network Security](../../Network%20Security/Network%20Security.md)
-↗ [Application Layer Security Protocols](../../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
+↗ [Application Layer Security Protocols](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 ↗ [Network & Web Security Products](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
 
 ↗ [0x01 Application Layer](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)

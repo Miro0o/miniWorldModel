@@ -16,8 +16,8 @@
 ↗ [Multiprotocol Label Switching (MPLS) (Layer 2.5 Protocol)](../0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Multiprotocol%20Label%20Switching%20(MPLS)%20(Layer%202.5%20Protocol).md)
 
 ↗ [Mobile Network Technology & Cellular Network](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network.md)
-↗ [Physical (Link) Layer Security Protocols](../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Physical%20(Link)%20Layer%20Security%20Protocols.md)
-↗ [Wireless & Mobile Network Security](../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
+↗ [Physical (Link) Layer Security Protocols](../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Physical%20(Link)%20Layer%20Security%20Protocols.md)
+↗ [Wireless & Mobile Network Security](../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 
 ↗ [High Performance Network (HPN) & IDC Technologies](../../🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
 

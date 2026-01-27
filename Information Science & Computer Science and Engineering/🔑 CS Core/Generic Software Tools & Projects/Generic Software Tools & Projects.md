@@ -29,7 +29,7 @@
 
 ↗ [Kill Chain & Security Tool Box](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 - ↗ [Kali Tools](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🐉%20Kali%20Linux/🤺%20Kali%20Tools/Kali%20Tools.md)
-↗ [Anonymous Network & Host](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
+↗ [Anonymous Network & Host](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Anonymous%20Network%20&%20Host.md)
 
 ↗ [Data Analysis & Automation](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 

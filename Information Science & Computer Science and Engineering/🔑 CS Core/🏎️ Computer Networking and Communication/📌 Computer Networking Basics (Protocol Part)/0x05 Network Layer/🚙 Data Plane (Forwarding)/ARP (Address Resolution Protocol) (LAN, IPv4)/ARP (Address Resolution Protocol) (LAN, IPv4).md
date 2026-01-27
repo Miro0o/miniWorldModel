@@ -81,7 +81,7 @@ When an ARP inquiry packet is broadcast, the routing table is examined to find
 
 
 ## ARP Spoofing & ARP Cache Poisoning
-> ↗ [Network Monitoring /ARP Spoofing](../../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/Network%20Monitoring.md)
+> ↗ [Network Monitoring /ARP Spoofing](../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/Network%20Monitoring.md)
 
 LANs that use ARP are vulnerable to ARP spoofing, also called _ARP poison routing_ or _ARP cache poisoning_.
 

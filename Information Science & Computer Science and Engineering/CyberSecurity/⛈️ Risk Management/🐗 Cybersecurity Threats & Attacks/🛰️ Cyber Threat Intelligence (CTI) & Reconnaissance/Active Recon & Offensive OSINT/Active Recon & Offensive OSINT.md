@@ -71,7 +71,7 @@ When attempting to minimize detection, some stealth techniques to avoid detectio
 
 
 ### 3️⃣ Using proxies with anonymity networks
-↗ [Anonymous & Private Networks](../../../../Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
+↗ [Anonymous & Private Networks](../../../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 
 

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [IP (Internet Protocol) Attacks](../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/IP%20(Internet%20Protocol)%20Attacks/IP%20(Internet%20Protocol)%20Attacks.md)
-↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🫱🏻‍🫲🏿%20Network%20Layer%20Security%20Protocols/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
+↗ [IP (Internet Protocol) Attacks](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/IP%20(Internet%20Protocol)%20Attacks/IP%20(Internet%20Protocol)%20Attacks.md)
+↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🫱🏻‍🫲🏿%20Network%20Layer%20Security%20Protocols/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
 
 
 

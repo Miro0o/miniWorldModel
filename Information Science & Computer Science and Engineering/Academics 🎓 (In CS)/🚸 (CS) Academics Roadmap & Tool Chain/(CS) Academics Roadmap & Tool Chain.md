@@ -132,14 +132,13 @@ https://csrankings.org/#/index?all&us
 🔍 https://scholar.google.com (谷歌学术)
 🔗 https://gg.xueshu5.com (国内镜像)
 
-
+🔍 👍 https://dblp.org/
+computer science bibliography
 
 https://www.semanticscholar.org/
 Semantic Scholar
 A free, AI-powered research tool for scientific literature
 
-https://dblp.org/
-computer science bibliography
 
 🔍 https://arxiv.org
 > **arXiv** is a free distribution service and an open-access archive for 2,166,249 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.

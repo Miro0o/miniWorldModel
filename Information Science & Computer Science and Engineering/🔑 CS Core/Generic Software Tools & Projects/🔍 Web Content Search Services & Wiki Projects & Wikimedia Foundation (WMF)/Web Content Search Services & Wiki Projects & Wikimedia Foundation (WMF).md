@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Web Browser Implementations](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Web%20Browser%20Implementations.md)
 ↗ [Internet & Entertainment Industry](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
-↗ [Proxy Technology & GFW 🇨🇳](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
+↗ [Proxy Technology & GFW 🇨🇳](../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
 
 ↗ [Awesome NLP & LLM Projects & Services](../🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 
@@ -82,8 +82,8 @@
 
 
 ### 🎯 Dark Web Search & Tor
-↗ [DarkWeb](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
-↗ [Onion Network & Tor Projects](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
+↗ [DarkWeb](../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+↗ [Onion Network & Tor Projects](../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 
 
 ### 🎯 Domain-specific Search Tasks

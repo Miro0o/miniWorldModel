@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [BGP Attacks](../../../../../../../../../CyberSecurity/Network%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/BGP%20Attacks/BGP%20Attacks.md)
+↗ [BGP Attacks](../../../../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/BGP%20Attacks/BGP%20Attacks.md)
 
 
 ### Other Resources

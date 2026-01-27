@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Application Layer Security Protocols](../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+↗ [Application Layer Security Protocols](../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 ↗ [Terminal Emulators](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Terminal%20Emulators.md)
 
 

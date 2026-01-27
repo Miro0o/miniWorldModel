@@ -12,7 +12,7 @@
 ↗ [GraphQL](../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/GraphQL/GraphQL.md)
 
 ↗ [Pentesting](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen↗ testing/Pentesting.md)
-↗ [Network Security](../../../../../CyberSecurity/Network%20Security/Network%20Security.md)
+↗ [Network (& Communication) Security](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 ↗ [CTF /Web](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
 ↗ [Network Traffic Analysis](../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
@@ -51,7 +51,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 <small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
 
 ↗ [HTTP (HyperText Transfer Protocol)](HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
-↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
+↗ [HTTPS (HTTP Security)](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
 
 
 ### Web Browser /Front End

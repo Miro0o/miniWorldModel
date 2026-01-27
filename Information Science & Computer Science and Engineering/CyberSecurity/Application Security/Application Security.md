@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Software Security](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 
-↗ [Network Security /Application Layer Security](../Network%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+↗ [Network Security /Application Layer Security](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 
 ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 

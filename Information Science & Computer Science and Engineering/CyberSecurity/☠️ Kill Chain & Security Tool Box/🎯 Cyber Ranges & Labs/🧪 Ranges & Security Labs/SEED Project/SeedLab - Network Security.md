@@ -35,9 +35,9 @@
 
 
 ## 👉 TCP/IP Attack Lab
-↗ [Transport Layer Attacks](../../../../Network%20Security/Network%20Threats%20&%20Attacks/Transport%20Layer%20Attacks/Transport%20Layer%20Attacks.md)
+↗ [Transport Layer Attacks](../../../../Network%20(&%20Communication)%20Security/Network%20Threats%20&%20Attacks/Transport%20Layer%20Attacks/Transport%20Layer%20Attacks.md)
 ↗ [TCP (Transmission Control Protocol)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/📌%20TCP%20(Transmission%20Control%20Protocol)/TCP%20(Transmission%20Control%20Protocol).md)
-↗ [DOS (Denial-of-Service)](../../../../Network%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/DOS%20(Denial-of-Service)/DOS%20(Denial-of-Service).md)
+↗ [DOS (Denial-of-Service)](../../../../Network%20(&%20Communication)%20Security/Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/DOS%20(Denial-of-Service)/DOS%20(Denial-of-Service).md)
 
 [👍 (SEED-Lab) TCP/IP Attack Lab | CSDN]: https://blog.csdn.net/qq_51927659/article/details/122984225
 

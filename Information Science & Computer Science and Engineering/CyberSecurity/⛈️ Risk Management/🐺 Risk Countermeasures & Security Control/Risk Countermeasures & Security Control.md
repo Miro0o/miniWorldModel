@@ -27,9 +27,9 @@
 - ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
 - ↗ [Content Security](../../Data%20Security/Content%20Security/Content%20Security.md)
 
-↗ [Network Security](../../Network%20Security/Network%20Security.md)
-- ↗ [Anonymous & Private Networks](../../Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
-- ↗ [Wireless & Mobile Network Security](../../Network%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
+↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
+- ↗ [Anonymous & Private Networks](../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
+- ↗ [Wireless & Mobile Network Security](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
 - ↗ [IoT Security](../../System%20Security/IoT%20Security/IoT%20Security.md)

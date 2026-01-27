@@ -26,8 +26,8 @@
 	- ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 - ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
-↗ [Network Security](../../Network%20Security/Network%20Security.md)
-- ↗ [Network Threats & Attacks](../../Network%20Security/Network%20Threats%20&%20Attacks/Network%20Threats%20&%20Attacks.md)
+↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
+- ↗ [Network Threats & Attacks](../../Network%20(&%20Communication)%20Security/Network%20Threats%20&%20Attacks/Network%20Threats%20&%20Attacks.md)
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
 - ↗ [Software Runtime Security](../../System%20Security/🏃%20Software%20Runtime%20Security/Software%20Runtime%20Security.md)

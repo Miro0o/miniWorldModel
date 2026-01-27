@@ -36,6 +36,10 @@
 
 🇨🇳 ↗ [NJU /操作系统](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/操作系统/操作系统.md)
 🇨🇳 ↗ [HIT OS /Operating System](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/HIT%20哈尔滨工业大学/HIT%20OS%20-%20Operating%20System.md)
+
+https://hexhive.epfl.ch/OSTEP-slides/
+Introduction to Operating Systems (CS-323, EPFL)
+This class is a gently introduction into operating systems concepts at EPFL for undergraduate students in their third year. The students come with a light background in C programming from a mandatory class on C concepts and an optional C programming project in their second year. Generally, the C background of the students is rather light and many have not really worked with Linux environments yet.
 #### Books
 ↗ [Computer (Host) System](../Computer%20(Host)%20System.md)
 ↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)

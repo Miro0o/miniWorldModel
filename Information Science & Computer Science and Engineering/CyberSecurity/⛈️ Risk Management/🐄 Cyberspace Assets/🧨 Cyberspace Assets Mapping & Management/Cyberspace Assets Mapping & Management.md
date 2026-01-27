@@ -14,7 +14,7 @@
 
 ↗ [goby](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/goby.md)
 
-↗ [Network Security](../../../Network%20Security/Network%20Security.md)
+↗ [Network (& Communication) Security](../../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 
 
 ### Cyberspace Assets Search Engines

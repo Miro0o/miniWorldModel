@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
-↗ [Network Security](../../CyberSecurity/Network%20Security/Network%20Security.md)
+↗ [Network (& Communication) Security](../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
+↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 
 ### Learning Resources
@@ -93,13 +93,13 @@ More Topics With Fun! 🥳
 - ↗ [Software Defined Network (SDN)](🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
   - Stream Engineering
 - Proxy/ Tor
-	- ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
-	- ↗ [Proxy Technology & GFW 🇨🇳](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
-	- ↗ [DarkWeb](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
-	- ↗ [Onion Network & Tor Projects](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
+	- ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
+	- ↗ [Proxy Technology & GFW 🇨🇳](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
+	- ↗ [DarkWeb](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+	- ↗ [Onion Network & Tor Projects](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 - ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
 - ↗ [NAT (Network Address Translation)](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
-	- ↗ [VPN & NAT Implementations](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
+	- ↗ [VPN & NAT Implementations](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
 - Numerous networking toolsets ...
 - etc..
 

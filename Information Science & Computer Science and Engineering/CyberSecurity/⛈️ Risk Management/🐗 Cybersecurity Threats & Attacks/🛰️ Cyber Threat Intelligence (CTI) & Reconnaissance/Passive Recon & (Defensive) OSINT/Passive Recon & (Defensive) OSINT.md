@@ -112,7 +112,7 @@ List of OSINT Exercises – Challenge Yourself!
 ### 📌 Site-Based OSINT Resoruces
 > 🔗 https://www.osintdojo.com/diagrams/main | OSINT Attack Surface Diagrams
 #### DarkWeb
-> ↗ [DarkWeb](../../../../Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+> ↗ [DarkWeb](../../../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
 
 [Ahmia Search](https://ahmia.fi/)  
 [Dark.Fail](https://dark.fail/)  
@@ -378,7 +378,7 @@ Human Component (Wetware)
 ##### Defensive OSINT
 Defensive OSINT is typically used to see what is already on internet including breached information and see whether that information is valuable during the penetration testing activity. If the goal of penetration testing is to demonstrate the real-world scenario where this data can be handy, the first step is to identify a similar target that has already been breached. The majority of organizations fix only the affected platform or the host, and often they forget about other similar environments. The defensive OSINT is largely divided into three places of search.
 
-- ↗ [DarkWeb](../../../../Network%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
+- ↗ [DarkWeb](../../../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
 - Security breach
 	- A security breach is any incident that results in unauthorized access of data, applications, services, networks, and/or devices by bypassing their underlying security mechanisms. These websites have an archive of breached data.
 	- http://zone-h.com
