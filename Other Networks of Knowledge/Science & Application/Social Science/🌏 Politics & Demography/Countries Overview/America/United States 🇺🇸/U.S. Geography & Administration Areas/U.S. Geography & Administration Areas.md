@@ -10,7 +10,7 @@
 
 
 ## Intro
-![us_regdiv](../../../../../../../../Assets/Illustrations/U.S./us_regdiv.pdf)
+![us_regdiv](../../../../../../../../Assets/Illustrations/US/us_regdiv.pdf)
 
 
 

@@ -140,7 +140,7 @@ However, [demographers](https://en.wikipedia.org/wiki/Demography "Demography")�
 
 ### Northeast
 #### New York City
-![5559914315_02039e9da7_o](../../../../../../../../Assets/Illustrations/U.S./5559914315_02039e9da7_o.png)
+![5559914315_02039e9da7_o](../../../../../../../../Assets/Illustrations/US/5559914315_02039e9da7_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -150,7 +150,7 @@ Data from Census 2010. Base map ©<br>
 <a>https://www.flickr.com/photos/walkingsf/5559914315/</a>
 </small>
 #### Philadelphia
-![5559907949_bd23a1292b_o](../../../../../../../../Assets/Illustrations/U.S./5559907949_bd23a1292b_o.png)
+![5559907949_bd23a1292b_o](../../../../../../../../Assets/Illustrations/US/5559907949_bd23a1292b_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -163,7 +163,7 @@ Data from Census 2010. Base map ©<br>
 
 ### West
 #### Los Angelas
-![5560490330_0667632472_o](../../../../../../../../Assets/Illustrations/U.S./5560490330_0667632472_o.png)
+![5560490330_0667632472_o](../../../../../../../../Assets/Illustrations/US/5560490330_0667632472_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -173,7 +173,7 @@ Data from Census 2010. Base map ©<br>
 <a>https://www.flickr.com/photos/walkingsf/5560490330/in/photostream/</a>
 </small>
 #### San Fransisco
-![5560477152_e124b557c3_o](../../../../../../../../Assets/Illustrations/U.S./5560477152_e124b557c3_o.png)
+![5560477152_e124b557c3_o](../../../../../../../../Assets/Illustrations/US/5560477152_e124b557c3_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -186,7 +186,7 @@ Data from Census 2010. Base map ©<br>
 
 ### South
 #### D.C.
-![5559893527_de12441527_o](../../../../../../../../Assets/Illustrations/U.S./5559893527_de12441527_o.png)
+![5559893527_de12441527_o](../../../../../../../../Assets/Illustrations/US/5559893527_de12441527_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -196,7 +196,7 @@ Data from Census 2010. Base map ©<br>
 <a>https://www.flickr.com/photos/walkingsf/5559914315/</a>
 </small>
 #### Houston
-![5560487046_e3947011cc_o](../../../../../../../../Assets/Illustrations/U.S./5560487046_e3947011cc_o.png)
+![5560487046_e3947011cc_o](../../../../../../../../Assets/Illustrations/US/5560487046_e3947011cc_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
@@ -209,7 +209,7 @@ Data from Census 2010. Base map ©<br>
 
 ### Midwest
 #### Chicago
-![5560488484_aaf5ebb629_o](../../../../../../../../Assets/Illustrations/U.S./5560488484_aaf5ebb629_o.png)
+![5560488484_aaf5ebb629_o](../../../../../../../../Assets/Illustrations/US/5560488484_aaf5ebb629_o.png)
 <small>Maps of racial and ethnic divisions in US cities, inspired by Bill Rankin's map of Chicago  <a>http://www.radicalcartography.net/index.html?chicagodots</a>, updated for Census 2010. <br>
 
 Red is White, Blue is Black, Green is Asian, Orange is Hispanic, Yellow is Other, and each dot is 25 residents. <br>
