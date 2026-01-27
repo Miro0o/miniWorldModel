@@ -54,7 +54,7 @@ So, we recently contributed a human-friendly CLI as a non-core subproject of con
 
 The features and the usage of nerdctl are almost identical as Docker CLI, however, nerdctl also supports several cutting-edge features of containerd that are not present in Docker. Such features include, but not limited to, [lazy-pulling](https://github.com/containerd/nerdctl/blob/master/docs/stargz.md)(stargz) and [running encrypted images](https://github.com/containerd/nerdctl/blob/master/docs/ocicrypt.md) (ocicrypt).
 
-![img](../../../../../../Assets/Pics/1*LR42FXPvmZydGw5o2jRSCw.jpeg)
+![img](../../../../../../Assets/Pics/1LR42FXPvmZydGw5o2jRSCw.jpeg)
 
 
 #### Lima Technological Terms
