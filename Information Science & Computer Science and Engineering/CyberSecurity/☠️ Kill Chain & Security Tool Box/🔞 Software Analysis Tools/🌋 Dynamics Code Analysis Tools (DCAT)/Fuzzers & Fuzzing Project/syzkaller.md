@@ -11,6 +11,10 @@ Initially, syzkaller was developed with Linux kernel fuzzing in mind, but now it
 - [How to install syzkaller](https://github.com/google/syzkaller/blob/master/docs/setup.md)
 - [How to use syzkaller](https://github.com/google/syzkaller/blob/master/docs/usage.md)
 - [How syzkaller works](https://github.com/google/syzkaller/blob/master/docs/internals.md)
+	- Linux-specific syzkaller internals
+	- It's possible to fuzz some external Linux kernel interfaces with syzkaller:
+		- See [this](https://github.com/google/syzkaller/blob/master/docs/linux/external_fuzzing_network.md) for details about the networking stack.
+		- See [this](https://github.com/google/syzkaller/blob/master/docs/linux/external_fuzzing_usb.md) for details about the USB stack.
 - [How to install syzbot](https://github.com/google/syzkaller/blob/master/docs/setup_syzbot.md)
 - [How to contribute to syzkaller](https://github.com/google/syzkaller/blob/master/docs/contributing.md)
 - [How to report Linux kernel bugs](https://github.com/google/syzkaller/blob/master/docs/linux/reporting_kernel_bugs.md)
@@ -26,6 +30,11 @@ Initially, syzkaller was developed with Linux kernel fuzzing in mind, but now it
 
 
 ## Intro
+### Design & Architecture
+> 🔗 https://github.com/google/syzkaller/blob/master/docs/internals.md
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260129194204.png)
+
 
 
 

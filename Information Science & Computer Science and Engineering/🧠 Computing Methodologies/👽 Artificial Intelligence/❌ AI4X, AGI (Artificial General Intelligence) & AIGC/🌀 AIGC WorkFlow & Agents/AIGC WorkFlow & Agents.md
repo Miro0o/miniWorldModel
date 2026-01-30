@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 ↗ [Multimodal AI & MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
-↗ [AI Embodiment & World Model](../🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
+↗ [AI Embodiment & World Model (WM)](../🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ↗ [LLM Applications & LLM-Driven Automation](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 ↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)

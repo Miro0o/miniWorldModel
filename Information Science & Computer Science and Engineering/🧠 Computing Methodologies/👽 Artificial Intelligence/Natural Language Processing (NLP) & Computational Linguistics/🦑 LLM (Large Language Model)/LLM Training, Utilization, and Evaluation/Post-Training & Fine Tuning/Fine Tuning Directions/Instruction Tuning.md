@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Supervised Learning](../../../../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Supervised%20Learning/Supervised%20Learning.md)
+↗ [Supervised Learning](../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Supervised%20Learning/Supervised%20Learning.md)
 ↗ [SFT (Supervised Fine Tuning)](../Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
 
 

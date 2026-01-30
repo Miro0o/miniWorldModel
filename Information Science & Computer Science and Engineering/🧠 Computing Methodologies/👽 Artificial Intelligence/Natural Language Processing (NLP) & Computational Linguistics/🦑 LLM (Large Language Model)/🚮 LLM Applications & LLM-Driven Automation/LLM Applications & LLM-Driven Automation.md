@@ -14,7 +14,7 @@
 ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 - ↗ [AIGC WorkFlow & Agents](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 - ↗ [AI For Science (AI4SCI)](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4SCI/AI%20For%20Science%20(AI4SCI).md)
-- ↗ [AI Embodiment & World Model](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
+- ↗ [AI Embodiment & World Model (WM)](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 - ↗ [AI4EDU](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4EDU.md)
 
 ↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)

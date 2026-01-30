@@ -41,13 +41,14 @@ The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gi
 [TPM 2.0 Library | Trusted Computing Group](https://trustedcomputinggroup.org/resource/tpm-library-specification/)
 
 
+### Other Resources
+
+
 
 ## Intro
-
 ![](../../../../../../../Assets/Pics/tpm2_stack.svg)
 
 <small>TPM2 Software Stack</small>
-
 
 
 
@@ -61,5 +62,3 @@ The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gi
 [How to Emulate a TPM 2.0 Module on LibVirt/QEMU]: https://www.smoothnet.org/qemu-tpm/
 
 [QEMU TPM Device]: https://qemu.readthedocs.io/en/latest/specs/tpm.html
-
-

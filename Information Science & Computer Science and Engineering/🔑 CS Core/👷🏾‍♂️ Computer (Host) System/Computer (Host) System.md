@@ -193,7 +193,7 @@ Information Systems Development & Information Security
 ↗ [History of Information Systems & Security Systems](../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
 Computing Methodologies & Artificial Intelligence
-↗ [The Development History of AI](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
+↗ [The Development History of AI](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
 
 etc.
 

@@ -11,10 +11,18 @@
 
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
-↗ [Statistical Learning & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
-↗ [Neural Networks & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+↗ [Neural Networks & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
 
-↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
+- ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Algebra](../../🧮%20Mathematics/🧊%20Algebra/Algebra.md)
+	- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+- ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+- ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+- ↗ [Decision Making & Game Theory](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+- ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 
 ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 - ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
@@ -54,7 +62,21 @@ Roboflow empowers developers to build their own computer vision applications, no
 https://www.alignmentforum.org/
 
 
-### Others
+### Learning Resources
+PEARSON SERIES IN ARTIFICIAL INTELLIGENCE | Stuart Russell and Peter Norvig, Editors
+- FORSYTH & PONCE 
+	- Computer Vision: A Modern Approach, 2nd ed.
+- GRAHAM ANSI
+	- Common Lisp
+- JURAFSKY & MARTIN
+	- Speech and Language Processing, 2nd ed.
+- NEAPOLITAN 
+	- Learning Bayesian Networks
+- RUSSELL & NORVIG
+	- Artificial Intelligence: A Modern Approach, 4th ed.
+
+
+### Other Resources
 [AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/)
 
 https://www.mit.edu/~amidi/
@@ -66,18 +88,29 @@ https://stanford.edu/~shervine/
 - [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 ![](../../../Assets/Pics/Screenshot%202025-10-05%20at%2023.42.44.png)
 
+https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence
+The following [outline](https://en.wikipedia.org/wiki/Outline_\(list\) "Outline (list)") is provided as an overview of and topical guide to artificial intelligence:
+[Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") (AI) is intelligence exhibited by machines or software. It is also the name of the [scientific field](https://en.wikipedia.org/wiki/Scientific_field "Scientific field") which studies how to create computers and computer software that are capable of intelligent behavior.
+
 
 
 ## Intro
+### What is Intelligence?
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-
-↗ [AI Basics & Machine Learning (ML)](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/AI%20Basics%20&%20Machine%20Learning%20(ML).md)
-↗ [The Development History of AI](🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
-
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+
+
+### What is Artificial Intelligence?
+> [!links]
+> ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
+> ↗ [The Development History of AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+> 
+> ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+> ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20(VLA)%20Model/Vision-Language-Action%20(VLA)%20Model.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 

@@ -255,7 +255,26 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 
 ## 3️⃣ Academic Paper Writing
+> [!links]
 > ↗ [Academic Writing (in English) & Research Paper Writing Skills](Academic%20Writing%20(in%20English)%20&%20Research%20Paper%20Writing%20Skills.md)
+
+
+[CGIE model](https://www2.compute.dtu.dk/~chrg/notes/CGIE.html)
+- **Context:** what is the problem?
+- **Gap:** why does the current techniques not work?
+- **Innovation:** what is your proposed solution?
+- **Evaluation:** when have you solved the problem?
+- **Plan:** what is the plan?
+- **Presentation:** is the proposal formatted correctly and presented nicely?
+
+> [!quote]
+> **Example** (from 🔗 https://courses.compute.dtu.dk/02242/project.html)
+> 
+> Proposed idea: Statically Improved Fuzzing
+> 
+> (<a style="color:blue">Context</a>) Fuzzing is one of the most used analysis techniques in production. But for deep programs it can be hard to direct the fuzzer to all parts of the program. (<a style="color:orange">Gap</a>) Currently, some dynamic techniques, like coverage and in some cases concolic analysis are used to improve the efficiency. But since these techniques are dynamic, they cannot help us with sections we have missed.
+> 
+> (<a style="color:green">Innovation</a>) In this project, we will use static analysis techniques to improve fuzzing coverage. We do this by rating branches which changes to get higher coverage higher. (<a style="color:red">Evaluation</a>) To evaluate our implementation we will show that our hybrid fuzzer explores cases in the JPAMB faster than pure fuzzing.
 
 
 ### Academic Writing Genres
@@ -291,6 +310,7 @@ _OpenRead_ employs cutting-edge AI technology to enhance and revolutionize your
 
 
 ### Reference
+> [!links]
 > ↗ [Bib-Management](Bib-Management/Bib-Management.md)
 
 参考文献（Reference）指对一个信息资源或其中一部分进行准确和详细著录的数据，位于文末或文中的信息源。为便于读者撰写学术作品，小编整理了一些常用的参考文献及论文写作的标准格式，以供参考。
@@ -383,6 +403,7 @@ Call for Paper Lists
 
 
 ### Conferences & Journals /中国大陆学术论文分区
+> [!links]
 > ↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
 > ↗ [Security Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
 

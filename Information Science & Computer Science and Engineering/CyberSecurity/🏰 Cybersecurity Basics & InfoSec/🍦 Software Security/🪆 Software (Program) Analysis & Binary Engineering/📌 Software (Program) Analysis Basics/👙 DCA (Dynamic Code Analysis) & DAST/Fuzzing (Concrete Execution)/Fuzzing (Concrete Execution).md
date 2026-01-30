@@ -9,6 +9,11 @@
 ↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md) 🎓
 ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
 
+↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+
+↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
+↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
+
 
 ### Learning Resources
 #### Online Resources
@@ -82,7 +87,7 @@ https://arxiv.org/abs/2402.00350
 | 10.1145/3649476.3658697          | The Fuzz Odyssey: A Survey on Hardware Fuzzing Frameworks for Hardware Design Verification | Saravanan, Dinakarrao                                    | 2024     | 0         |
 
 
-### Trending Research
+### Researches & Papers
 https://mp.weixin.qq.com/s/DL4pGH-7nPi3eSRD-rlD-w
 大模型与模糊测试进行结合的研究论文汇总｜技术进展
 
@@ -135,6 +140,35 @@ We support the [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [AFL++](http
 Currently, OSS-Fuzz supports C/C++, Rust, Go, Python, Java/JVM, and JavaScript code. Other languages supported by [LLVM](https://llvm.org/) may work too. OSS-Fuzz supports fuzzing x86_64 and i386 builds.
 
 
+### Other Resources
+🤔 https://appsec.guide/
+- The Testing Handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use at [Trail of Bits](https://www.trailofbits.com/).
+TOC
+- [Cryptographic testing](https://appsec.guide/docs/crypto/)
+    - [Wycheproof](https://appsec.guide/docs/crypto/wycheproof/)
+    - [Constant time analysis tooling](https://appsec.guide/docs/crypto/constant_time_tool/)
+    - [Zero-knowledge protocols](https://appsec.guide/docs/crypto/zkdocs/)
+- [Static analysis](https://appsec.guide/docs/static-analysis/)
+    - [CodeQL](https://appsec.guide/docs/static-analysis/codeql/)
+    - [Semgrep](https://appsec.guide/docs/static-analysis/semgrep/)
+- [Web application security](https://appsec.guide/docs/web/)
+    - [Burp Suite Professional](https://appsec.guide/docs/web/burp/)
+- [Fuzzing](https://appsec.guide/docs/fuzzing/)
+	- [C/C++](https://appsec.guide/docs/fuzzing/c-cpp/)
+	- [Rust](https://appsec.guide/docs/fuzzing/rust/)
+    - [Python](https://appsec.guide/docs/fuzzing/python/)
+    - [Ruby](https://appsec.guide/docs/fuzzing/ruby/)
+    - Techniques
+	    - [Writing harnesses](https://appsec.guide/docs/fuzzing/techniques/writing-harnesses/)
+	    - [Fuzzing dictionary](https://appsec.guide/docs/fuzzing/techniques/dictionary/)
+	    - [AddressSanitizer](https://appsec.guide/docs/fuzzing/techniques/asan/)
+	    - [Fuzzing environments](https://appsec.guide/docs/fuzzing/techniques/environments/)
+	    - [FAQ (Fuzzily Asked Questions)](https://appsec.guide/docs/fuzzing/techniques/faq/)
+    - [OSS-Fuzz](https://appsec.guide/docs/fuzzing/oss-fuzz/)
+    - [Snapshot Fuzzing](https://appsec.guide/docs/fuzzing/snapshot-fuzzing/)
+    - [Additional resources](https://appsec.guide/docs/fuzzing/resources/)
+
+
 
 ## Intro: Fuzz & Fuzzing Test
 > 🔗 https://en.wikipedia.org/wiki/Fuzzing
@@ -177,8 +211,8 @@ Fundamentally, fuzzing shifts the focus from functional test cases (i.e., what s
 > https://ieeexplore.ieee.org/document/8863940
 > https://arxiv.org/pdf/1812.00140
 
-Intuitively, fuzzing is the action of running a **Program Under Test (PUT) /System Under Test (SUT)** with “fuzz inputs”. Honoring Miller et al., we consider a fuzz input to be an input that the PUT may not be expecting, i.e., an input that the PUT may process incorrectly and trigger a behavior that was unintended by the PUT developer. To capture this idea, we define the term fuzzing
-as follows.
+Intuitively, fuzzing is the action of running a **Program Under Test (PUT) /System Under Test (SUT)** with “fuzz inputs”. Honoring Miller et al., we consider a fuzz input to be an input that the PUT may not be expecting, i.e., an input that the PUT may process incorrectly and trigger a behavior that was unintended by the PUT developer. To capture this idea, we define the term fuzzing as follows.
+
 
 ==**Definition 1 (Fuzzing)**==
 Fuzzing is the execution of the PUT using input(s) sampled from an input space (the “fuzz input space”) that protrudes the expected input space of the PUT. 
@@ -187,11 +221,14 @@ Three remarks are in order. First, although it may be common to see the fuzz inp
 
 > Fuzz testing is a form of software testing technique that utilizes fuzzing. To differentiate it from others and to honor what we consider to be its most prominent purpose, we deem it to have a specific goal of finding security-related bugs, which include program crashes. In addition, we also define fuzzer and fuzz campaign, both of which are common terms in fuzz testing:
 
+
 ==**Definition 2 (Fuzz Testing)**==
 Fuzz testing is the use of fuzzing to test if a PUT violates a security policy.
 
+
 ==**Definition 3 (Fuzzer)**==
 A fuzzer is a program that performs fuzz testing on a PUT.
+
 
 ==**Definition 4 (Fuzz Campaign)**==
 A fuzz campaign is a specific execution of a fuzzer on a PUT with a specific security
@@ -199,15 +236,61 @@ policy.
 
 The goal of running a PUT through a fuzzing campaign is to find bugs [26] that violate the specified security policy . For example, a security policy employed by early fuzzers tested only whether a generated input—the test case—crashed the PUT. However, fuzz testing can actually be used to test any security policy observable from an execution, i.e., EM-enforceable [183]. The specific mechanism that decides whether an execution violates the security policy is called the bug oracle.
 
-==**Definition 5 (Bug Oracle)**==
+
+==**Definition 5 (Bug Oracle)**== (or **Sanitizers**)
+> [!lnks]
+> ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
+> 
+> ↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
+> **Instrumentation:** The act of instrumenting a program involves adding non-functional changes in order to retrieve data from it or making it more secure/robust.
+
 A bug oracle is a program, perhaps as part of a fuzzer, that determines whether a given execution of the PUT violates a specific security policy. 
 
 We refer to the algorithm implemented by a fuzzer simply as its “fuzz algorithm”. Almost all fuzz algorithms depend on some parameters beyond (the path to) the PUT. Each concrete setting of the parameters is a fuzz configuration:
+
 
 ==**Definition 6 (Fuzz Configuration)**==
 A fuzz configuration of a fuzz algorithm comprises the parameter value(s) that control(s) the fuzz algorithm.
 
 The definition of a fuzz configuration is intended to be broad. Note that the type of values in a fuzz configuration depend on the type of the fuzz algorithm. For example, a fuzz algorithm that sends streams of random bytes to the PUT [152] has a simple configuration space {(PUT)}. On the other hand, sophisticated fuzzers contain algorithms that accept a set of configurations and evolve the set over time—this includes adding and removing configurations. For example, CERT BFF [49] varies both the mutation ratio and the seed over the course of a campaign, and thus its configuration space is {(PUT, s1, r1), (PUT, s2, r2), . . .}. A seed is a (commonly well-structured) input to the PUT, used to generate test cases by modifying it. Fuzzers typically maintain a collection of seeds, and some fuzzers evolve the collection as the fuzz campaign progresses. This collection is called a seed pool. Finally, a fuzzer is able to store some data  within each configuration. For instance, coverage-guided fuzzers may store the attained coverage in each configuration.
+
+> [!quote]
+> https://appsec.guide/docs/fuzzing/
+> - **SUT/target:** The System Under Test (SUT) is the piece of software that is being tested. It can either be a standalone application like a command-line program or a library.
+> - **Fuzzing/Fuzzer:** Fuzz testing, also known as fuzzing, is an automated software testing method that supplies a SUT with invalid, unexpected, or random data as inputs. The program that implements the fuzzing algorithm is called a fuzzer.
+> - **Test case:** A test case is the concrete input that is given to the testing harness. Usually, it is a string or bitstring. A test input can also be encoded in a more complex format like an abstract syntax tree.
+> - **(Testing/fuzzing) harness:** A harness handles the test setup for a given SUT. The harness wraps the software and initializes it such that it is ready for executing test cases. A harness integrates a SUT into a testing environment.
+> - **libFuzzer harness:** A harness that is compatible with the libFuzzer library. The term refers to the `LLVMFuzzerTestOneInput` function.
+> - **Fuzz test:** A fuzz test consists of a fuzzing harness and the SUT. You might refer to a compiled binary that includes the harness and SUT as a fuzz test.
+> - **Fuzzing campaign:** A fuzzing campaign is an execution of the fuzzer. A fuzzing campaign starts when the fuzzer starts testing and stops when the fuzzing procedure is stopped.
+> - **Corpus:** The evolving set of test cases. During a fuzzing campaign, the corpus usually grows as new test cases are discovered.
+> - **Seed Corpus:** Fuzzing campaigns are usually bootstrapped using an initial set of test cases. This set is also called a seed corpus. Each test case of the corpus is called a seed.
+> - **Fuzzing engine/runtime:** The fuzzing engine/runtime is part of the fuzzer that is executed when the fuzzing starts. It orchestrates the fuzzing process.
+> - **Instrumentation:** The act of instrumenting a program involves adding non-functional changes in order to retrieve data from it or making it more secure/robust.
+> - **Code coverage:** A metric to measure the degree to which the source code of a program is executed.
+
+
+==**Fuzz Driver /Fuzz Harness**== (like a wrapper)
+> 🔗 https://srlabs.de/blog/guide-to-writing-fuzzing-harness
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020260128164334.png)
+<small>Fuzzing: automated data mutation to trigger bugs <br> <a>https://srlabs.de/blog/guide-to-writing-fuzzing-harness</a></small>
+
+A fuzzing harness is a program that enables fuzz testing of specific functions. It connects the fuzzer to the software under test (“SUT”). The harness translates test inputs from the fuzzing engine into a format the SUT can understand.
+
+Besides being the interface between the fuzzer and the target, a harness also initializes the target API for testing.
+
+In some cases, for example, when testing command-line applications that read input files, a custom harness isn’t strictly necessary. However, creating one can improve fuzzing speed and coverage even in those cases.
+
+
+==**Fuzzer Runtime and Instrumentation Runtime**==
+ > 🔗 https://appsec.guide/docs/fuzzing/
+
+**Fuzzer runtime:** The fuzzing loop is implemented here. This unit also provides the main function for the fuzzer. The fuzzing runtime parses fuzzing options, executes the harness, collects feedback, and manages the fuzzer state. The runtime is provided by the fuzzing project you use, such as libFuzzer or AFL++. Any runtime that is required for collecting feedback through instrumentations is implemented in the fuzzer runtime.
+
+**Instrumentation runtime:** Instrumentations like [AddressSanitizer](https://appsec.guide/docs/fuzzing/techniques/asan/) or [UndefinedBehaviorSanitizer](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) come with a runtime. A fuzzer must be compatible with the sanitizer for bugs to be detected reliably and feedback implemented efficiently. In memory-safe languages like Go or Rust you are less likely to need sanitizers.
+
+Note, that the two just mentioned sanitizers introduce instrumentation with the goal of finding more bugs. There is also a different class of instrumentations (e.g., [SanitizerCoverage](https://clang.llvm.org/docs/SanitizerCoverage.html)) that provides feedback to the fuzzer during execution. The runtime of the feedback-based instrumentation is usually part of the fuzzer runtime.
 
 
 ### Taxonomy of Fuzzers /Fuzzing Techniques
@@ -239,9 +322,46 @@ Fuzzing is defined by Microsoft as ‘a program analysis technique that looks fo
 | **Disadvantage**         | May miss vulnerabilities & resource-intensive | Limited assessment of penetration resistance | Requires extensive release at cost   |
 
 
+### OSS-Fuzz
+
+
+### Snapshot Fuzzing
+> 🔗 https://appsec.guide/docs/fuzzing/snapshot-fuzzing/
+
+Snapshot fuzzing is the process of taking a snapshot of the target program or OS—of the memory state, register state, or other information needed to resume execution—then continuing execution in an emulated environment, mutating data in memory, and resetting the program back to the original snapshot state when the execution crashes or reaches a specified point.
+
+Snapshot fuzzing has many advantages:
+- Snapshot fuzzing can be fast, as the program does not need to start up on each test run. You can snapshot the program at the desired state (e.g., when a file is loaded) and start testing from there.
+- The process is fully deterministic or has a high level of determinism.
+    - The target always starts with the same state.
+    - The same fuzz input should give the same result.
+    - Testing results in no unreproducible crashes.
+    - Any difference in execution is due to the user input, not some unknown state.
+- No source is needed (but of course, symbols can help).
+- It is easy to track code coverage, detect crashes, and track dirty memory.
+
+It also has some disadvantages:
+- Preparing a snapshot is time-consuming and error-prone.
+    - For example, to target a Windows program, you must set up KDNET, create a VM snapshot, prepare a harness, and take other time-consuming steps.
+- Existing fuzzers have many minor bugs, and you need to have tacit knowledge to make them run under specific circumstances. For example, you must know that to execute a specific target using a specific emulating back end, you have to strip a specific register’s bits; otherwise, you will have errors.
+
+In this Testing Handbook chapter, we will demonstrate snapshot fuzzing on a Windows kernel driver using a fuzzer built with the tool what the fuzz (wtf), a distributed, code-coverage-guided, customizable, cross-platform snapshot-based fuzzer designed for user- and kernel-mode targets. It is mainly implemented for Windows, but there are extensions to support other platforms:
+- [Linux](https://github.com/0vercl0k/wtf/blob/main/linux_mode)
+- [macOS](https://blog.talosintelligence.com/talos-releases-new-macos-fuzzer/)
+
+Other notable snapshot fuzzers include the following:
+- [Snapchange by AWS](https://github.com/awslabs/snapchange)
+- [Nyx](https://github.com/nyx-fuzz)
+
+See [this blog post](https://doar-e.github.io/blog/2021/07/15/building-a-new-snapshot-fuzzer-fuzzing-ida/) for the story behind wtf and its use in fuzzing IDA, and [this blog post series](https://h0mbre.github.io/New_Fuzzer_Project/) on developing a custom snapshot fuzzer.
+
+
 
 ## Fuzzing Algorithm & General Working Procedure
 ### General Fuzzing Procedure
+![](https://appsec.guide/docs/fuzzing/intro.svg)
+<small>The general fuzzing scenario consists of the developer writing a harness for a SUT. After starting a fuzzing campaign, the fuzzer runtime generates random test cases that are sent to the harness. The harness then executes the SUT, which could lead to the discovery of bugs and crashes. Instrumentation runtime and the instrumentation added to the SUT are generally optional, even though most fuzzers instrument the SUT code and add a runtime. <br> <a>https://appsec.guide/docs/fuzzing/</a></small>
+
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.17.58.png)
 <small>如图所示, 模糊测试的一般工作流程可分为5个基本步骤, 即预处理、测试输入生成、测试执行、缺陷检 测和后模糊处理. <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a><br>注：这里“种子插桩”应该是对应 Instrumentation, 个人认为翻译成性能评估更易理解</small>
 
@@ -284,6 +404,18 @@ A user supplies `PREPROCESS` with a set of fuzz configurations as input, and it 
 
 **`CONTINUE` ($\mathbb{C}$) → {$True$, $False$}**
 `CONTINUE` takes a set of fuzz configurations $\mathbb{C}$ as input and outputs a boolean indicating whether a new fuzz iteration should occur. This function is useful to model white-box fuzzers that can terminate when there are no more paths to discover.
+#### Fuzzing Environments
+> 🔗 https://appsec.guide/docs/fuzzing/techniques/environments/
+
+Like any software, the choice of fuzzer will depend on factors such as the operating system, architecture, software versions, and hardware. This section will review factors that influence the choice of the environment used for fuzzing.
+#### Fuzzing Harness /Drivers
+> 🔗 https://appsec.guide/docs/fuzzing/techniques/writing-harnesses/
+> The following section showcases some techniques to successfully write a fuzzing harness—the most important part of any fuzzing setup. If written poorly, critical parts of your application may not be covered.
+
+#### Instrumentation
+> [!links]
+> ↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
+> ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
 
 
 ### Hybrid Fuzzing

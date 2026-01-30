@@ -15,9 +15,9 @@
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
-↗ [Statistical Learning & Machine Learning Methods](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20&%20Machine%20Learning%20Methods.md)
-↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
@@ -31,7 +31,7 @@ LLM & Academics 🧑‍🎓
 
 ↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
-↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
 
 ↗ [Artificial Intelligence Industry and Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 
@@ -270,8 +270,8 @@ Estimating AI productivity gains from Claude conversations
 
 ### LLM Backgrounds
 #### 📜 The Development History of AI, NLP, and LLM
-↗ [The Development History of AI](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/The%20Development%20History%20of%20AI.md)
-↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+↗ [The Development History of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
+↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
@@ -292,13 +292,13 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 > 🔗 https://stanford-cs324.github.io/winter2022/lectures/modeling/#model-architecture
 
 #### LLM Model Architectures
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation
@@ -310,8 +310,8 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Statistical%20Learning%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
 ↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model

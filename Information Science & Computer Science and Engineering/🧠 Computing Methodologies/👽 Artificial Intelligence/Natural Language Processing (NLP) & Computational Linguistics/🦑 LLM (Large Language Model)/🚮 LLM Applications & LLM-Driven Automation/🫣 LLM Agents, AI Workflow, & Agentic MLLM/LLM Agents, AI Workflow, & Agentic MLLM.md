@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [AIGC WorkFlow & Agents](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 ↗ [LLM Utilization & Prompt Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
-↗ [AI Embodiment & World Model](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model/AI%20Embodiment%20&%20World%20Model.md)
+↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ↗ [AI(LLM) x SE](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 ↗ [AI Powered Dev & Vibe Coding](../../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
@@ -35,7 +35,7 @@
 
 ↗ [(CS) Academics Roadmap & Tool Chain](../../../../../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 
-↗ [Knowledge Graph (KG)](../../../../🗝️%20AI%20Basics%20&%20Machine%20Learning%20(ML)/Knowledge%20Representation%20and%20Reasoning%20(Syntax%20Level)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+↗ [Knowledge Graph (KG)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
 
 
 ### Papers

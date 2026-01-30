@@ -29,6 +29,38 @@
 
 【2022最新软件测试自学教程 新手小白30天软件测试入门最强教程】 https://www.bilibili.com/video/BV1NM4y1K73T/?p=33&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+🤔 https://appsec.guide/
+- The Testing Handbook is a resource that guides developers and security professionals in configuring, optimizing, and automating many of the static and dynamic analysis tools we use at [Trail of Bits](https://www.trailofbits.com/).
+- In our day-to-day work, we audit software projects ranging from cloud-native software to embedded devices. We often find issues that should be easy to spot early in development with the correct security tooling, but that make their way across the software lifecycle undetected.
+- We hope to assist development teams across technology stacks in their quest to improve the security posture of their software by providing practical documentation they can apply when performing security analyses of their codebases.
+TOC
+- [Cryptographic testing](https://appsec.guide/docs/crypto/)
+    - [Wycheproof](https://appsec.guide/docs/crypto/wycheproof/)
+    - [Constant time analysis tooling](https://appsec.guide/docs/crypto/constant_time_tool/)
+    - [Zero-knowledge protocols](https://appsec.guide/docs/crypto/zkdocs/)
+- [Static analysis](https://appsec.guide/docs/static-analysis/)
+    - [CodeQL](https://appsec.guide/docs/static-analysis/codeql/)
+    - [Semgrep](https://appsec.guide/docs/static-analysis/semgrep/)
+- [Web application security](https://appsec.guide/docs/web/)
+    - [Burp Suite Professional](https://appsec.guide/docs/web/burp/)
+- [Fuzzing](https://appsec.guide/docs/fuzzing/)
+	- [C/C++](https://appsec.guide/docs/fuzzing/c-cpp/)
+	- [Rust](https://appsec.guide/docs/fuzzing/rust/)
+    - [Python](https://appsec.guide/docs/fuzzing/python/)
+    - [Ruby](https://appsec.guide/docs/fuzzing/ruby/)
+    - Techniques
+	    - [Writing harnesses](https://appsec.guide/docs/fuzzing/techniques/writing-harnesses/)
+	    - [Fuzzing dictionary](https://appsec.guide/docs/fuzzing/techniques/dictionary/)
+	    - [AddressSanitizer](https://appsec.guide/docs/fuzzing/techniques/asan/)
+	    - [Fuzzing environments](https://appsec.guide/docs/fuzzing/techniques/environments/)
+	    - [FAQ (Fuzzily Asked Questions)](https://appsec.guide/docs/fuzzing/techniques/faq/)
+    - [OSS-Fuzz](https://appsec.guide/docs/fuzzing/oss-fuzz/)
+    - [Snapshot Fuzzing](https://appsec.guide/docs/fuzzing/snapshot-fuzzing/)
+    - [Additional resources](https://appsec.guide/docs/fuzzing/resources/)
+
+
+### Other Resources
+
 
 
 ## Intro
