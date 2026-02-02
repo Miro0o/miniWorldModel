@@ -256,10 +256,15 @@ We make this precise with an experiment/security game, the IND-CPA game:
 
 ### 🛡️ Non-Repudiation Primitives (抗抵赖基本手段)
 #### 👉 使用TTP安全令牌的抗抵赖技术
+
 #### 👉 使用安全令牌和防篡改模块的抗抵赖技术
+
 #### 👉 使用数字签名的抗抵赖技术
+
 #### 👉 使用时间戳的抗抵赖技术
+
 #### 👉 使用在线可信第三方的抗抵赖技术
+
 #### 👉 使用公证的抗抵赖技术
 
 

@@ -82,7 +82,7 @@ For other AI programming languages see this [list of programming languages for 
 
 ---
 **Search** 
-- ↗ [Search & Optimization Methods for AI](../../Search%20&%20Optimization%20Methods%20for%20AI/Search%20&%20Optimization%20Methods%20for%20AI.md)
+- ↗ [Search & Optimization Methods in AI](../../Search%20&%20Optimization%20Methods%20in%20AI/Search%20&%20Optimization%20Methods%20in%20AI.md)
 - ↗ [Basic Searching](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Basic%20Searching/Basic%20Searching.md)
 - ↗ [Operations Research (OR)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 	- ↗ [Combinatorial Optimization](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Combinatorial%20Optimization/Combinatorial%20Optimization.md)

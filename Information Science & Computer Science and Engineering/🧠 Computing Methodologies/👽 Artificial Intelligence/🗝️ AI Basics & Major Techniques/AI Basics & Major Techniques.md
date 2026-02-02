@@ -32,6 +32,7 @@
 	- Learning Bayesian Networks
 - RUSSELL & NORVIG
 	- Artificial Intelligence: A Modern Approach, 4th ed.
+	- https://aima.cs.berkeley.edu/translations.html
 
 
 ### Other Resources
@@ -39,6 +40,14 @@
 
 
 ## Intro
+> [!links]
+> ↗ [Artificial Intelligence](../Artificial%20Intelligence.md) "AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐"
+
+![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+
+![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+
+
 ### The Layering Perspective in AI Technologies
 > 🤖 GPT 5.0
 > https://chatgpt.com/share/696e493e-9e7c-800f-930c-a9b4bdce5309

@@ -27,6 +27,7 @@
 
 ### Related Topics
 ↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
 ↗ [Vulnerabilities](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 - ↗ [CWE (Common Weakness Enumeration)](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md)

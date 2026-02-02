@@ -175,15 +175,15 @@ Data Origin Authentication (数据原发鉴别)
 #### 1级鉴别（抗泄露保护）
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
 #### 2级鉴别（抗泄露和对不同验证者重放的保护）
-↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
 #### 3级鉴别（抗泄露和对同一验证者重放的保护）
-↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
 #### 4级鉴别（抗泄露和对相同/不同验证者重放的保护）
-↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 ##### 惟一数机制
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制

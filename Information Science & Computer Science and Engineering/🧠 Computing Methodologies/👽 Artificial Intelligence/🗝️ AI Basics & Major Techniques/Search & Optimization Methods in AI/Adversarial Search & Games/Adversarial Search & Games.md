@@ -1,4 +1,4 @@
-# Key Management Algorithms
+# Adversarial Search & Games
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

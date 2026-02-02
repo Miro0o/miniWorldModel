@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Discrete Logarithm](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Discrete%20Logarithm/Discrete%20Logarithm.md)
+
+
+### Other Resources
 
 
 

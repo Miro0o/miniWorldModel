@@ -76,8 +76,8 @@ Traditional password authentication is static, which is feasible to attack. That
 - Security keys prevent phishing
 	- In a phishing attack, the security key generates a signature with the attacker’s website name, not the legitimate website name
 		- Impervious to relay attacks!
-##### Subverting 2FA : Relay Attacks
-↗ [Cybersecurity Threats & Attacks](../../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+##### Subverting 2FA : Replay Attacks
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
 ##### Subverting 2FA : Social Engineering

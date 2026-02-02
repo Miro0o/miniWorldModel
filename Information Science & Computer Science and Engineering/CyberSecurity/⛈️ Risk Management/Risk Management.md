@@ -9,6 +9,9 @@
 ↗ [Cyberspace Assets Mapping & Management](🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
@@ -49,6 +52,7 @@
 
 
 ### Assets
+> [!links]
 > ↗ [Cyberspace Assets](🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
 > ↗ [Cyberspace Assets Mapping & Management](🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 > ↗ [Cyber Assets Attack Surface Management (CAASM)](🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
@@ -64,7 +68,9 @@
 
 
 ### Threat (Agent)
+> [!links]
 > ↗ [Cybersecurity Threats & Attacks](🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+> ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
 > 威胁（Threat） / 威胁源（Threat Agent）：威胁源是实施威胁的主体，而威胁是一类事件/活动
 
@@ -86,6 +92,7 @@
 
 
 ### Vulnerability
+> [!links]
 > ↗ [Vulnerabilities](🦟%20Vulnerabilities/Vulnerabilities.md)
 > ↗ [Software Vulnerability & Weakness](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 
@@ -104,6 +111,7 @@
 
 
 ### Countermeasure, Safeguard, (Security) Control
+> [!links]
 > ↗ [Risk Countermeasures & Security Control](🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 
 控制措施（Countermeasure, safeguard, (security) control）：根据安全需求部署，用来弥补脆弱性，防范威胁，降低风险的措施。

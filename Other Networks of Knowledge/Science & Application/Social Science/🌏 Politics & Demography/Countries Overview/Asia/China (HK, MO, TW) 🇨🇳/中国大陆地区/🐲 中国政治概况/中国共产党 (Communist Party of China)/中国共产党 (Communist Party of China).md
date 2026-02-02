@@ -683,3 +683,6 @@ https://www.ccdi.gov.cn/
 
 
 ## Ref
+[曾庆红 | wikipedia]: https://zh.wikipedia.org/zh-hans/%E6%9B%BE%E5%BA%86%E7%BA%A2
+[江澤民之死 | wikipedia]: https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%BE%A4%E6%B0%91%E4%B9%8B%E6%AD%BB#
+[李克强 | wikipedia]: https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E5%85%8B%E5%BC%BA#

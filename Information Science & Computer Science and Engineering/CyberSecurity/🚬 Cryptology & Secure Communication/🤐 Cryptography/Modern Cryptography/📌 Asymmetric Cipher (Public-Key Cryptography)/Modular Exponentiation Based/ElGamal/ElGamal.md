@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Diffie-Hellman Based Key Exchange](../../../../../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Exchange%20&%20Agreement%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange/Diffie-Hellman%20Based%20Key%20Exchange.md)
+↗ [Diffie-Hellman Based Key Exchange](../../../../../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Exchange%20&%20Agreement%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
 
 
 

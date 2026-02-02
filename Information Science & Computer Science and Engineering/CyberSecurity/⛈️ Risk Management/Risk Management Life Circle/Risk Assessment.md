@@ -101,6 +101,7 @@ An important aspect of information security and risk management is recognizing t
 可以先分别对资产在以上各方面的重要程度进行评估，然后通过一定的方法进行综合，可得资产的综合价值
 #### 2️⃣ Threats Assessment & Evaluation
 ↗ [Cybersecurity Threats & Attacks](../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
 ![](../../../../Assets/Pics/Screenshot%202025-10-18%20at%2017.29.20.png)
 #### 3️⃣ Vulnerability Assessment & Evaluation

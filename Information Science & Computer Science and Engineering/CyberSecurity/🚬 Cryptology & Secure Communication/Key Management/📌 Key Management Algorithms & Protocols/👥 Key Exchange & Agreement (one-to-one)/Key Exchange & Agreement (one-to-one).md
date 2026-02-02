@@ -9,6 +9,9 @@
 ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 密钥分发和密钥协商过程都是用以在保密通信双方之间建立通信所使用密钥的安全协 议(或机制)。在这种协议(或机制)运行结束时，参与协议运行的双方都将得到相同的密钥，同时，所得到的密钥对于其他任何方都是不可知的，当然，可能参与的可信管理机构(TA，Trust Authority)除外。

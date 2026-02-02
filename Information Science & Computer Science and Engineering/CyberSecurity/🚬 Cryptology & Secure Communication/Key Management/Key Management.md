@@ -13,6 +13,9 @@
 ↗ [Key Management](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Key Management Basics

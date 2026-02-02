@@ -10,16 +10,18 @@
 ↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Security Audit & Security Audit Trail](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
-↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
-↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-- ↗ [Type Theory (类型论)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-- ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Mathematics](../../../../../../🧮%20Mathematics/Mathematics.md)
+- ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+- ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+- ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+	- ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+	- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+	- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+	- ↗ [Type Theory (类型论)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+	- ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+		- ↗ [Lambda Calculus (λ-Calculus)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
@@ -41,6 +43,29 @@
 ↗ [Program Abstraction & Abstract Interpretation](../👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 ↗ [AI For Math](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4SCI/AI%20For%20Math.md)
+
+
+### Other Resources
+👨‍💻 👨‍🏫 https://www.imm.dtu.dk/~samo/
+Sebastian Mödersheim, Associate professor in the [Software Systems Engineering section](https://www.compute.dtu.dk/english/Research/Research-sections/Software-Systems-Engineering) at [DTU Compute](http://compute.dtu.dk/).
+Tools and Sources
+- [noname and α-β privacy](https://www.imm.dtu.dk/~samo/alphabeta/)
+- [PSPSP](https://www.imm.dtu.dk/~samo/pspsp.html)
+- [Compositional Reasoning](https://www.imm.dtu.dk/~samo/composec.html)
+- [Formalizing and Proving a Typing Result for Security Protocols in Isabelle/HOL](https://www.imm.dtu.dk/~samo/typing-soundness)
+- [AIF-Omega (Set-based abstraction)](https://www.imm.dtu.dk/~samo/aifom.html)
+- Open-Source Fixed-Point Model-Checker OFMC
+	- [Latest version 2024](https://www.imm.dtu.dk/~samo/ofmc2024.zip) supporting both AnB and a fragment of ASLan.
+	    - [The OFMC Tutorial](https://www.imm.dtu.dk/~samo/OFMC-tutorial.pdf)
+	    - Release includes source code and executables for windows, mac and linux, so most users will **not** need to compile from source.
+	    - The current source code uses a somewhat experimental parallel library; if compiling from source gives you trouble with that library, replace "Search.hs" by the file "Search-classic.hs" which removes the dependency.
+	- Most relevant papers: [Overview paper](https://www.imm.dtu.dk/~samo/ofmc-fosad.pdf), [Constraint Differentiation](https://www.imm.dtu.dk/~samo/101.pdf), [Algebraic Intruder Deductions](http://www.inf.ethz.ch/personal/basin/pubs/lpar06.pdf), [Secure Pseudonymous Channels](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/51b2264fa24a84f58525753d002be7ff?OpenDocument), [Algebraic Properties in Alice and Bob Notation](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/fc9adee76188a3968525746e001e7a8b?OpenDocument&Highlight=0,moedersheim), [Integrating Automated and Interactive Protocol Verification.](https://www.imm.dtu.dk/~samo/integrating.pdf)  
+- SPS/APS and APCC: Protocols, Typing, and Composition
+	- Tool suite by [Omar Almousa](http://lbtweb.pbworks.com/w/page/67121002/Omar%20Almousa), Sebastian Mödersheim, [Paolo Modesti](http://www.ncl.ac.uk/computing/people/profile/paolo.modesti), and [Luca Viganò](https://www.kcl.ac.uk/nms/depts/informatics/people/atoz/viganol.aspx).
+		- [Security Protocol Specification Language SPS](https://www.imm.dtu.dk/~samo/SPS.pdf): An Alice-and-Bob style language (extends AnB and FutureID's APS) with [formats](https://www.imm.dtu.dk/~samo/fabstract-tr.pdf).
+		- Includes translators to Applied Pi/ProVerif and IF/OFMC
+		- Automatic Protocol Composition Checker APCC: for a given set of protocols check that the sufficient conditions of [[AMMV15]](https://www.imm.dtu.dk/~samo/Geo-comp.pdf) for typing and parallel composition are met. This tool is based on a [master thesis by Ivana Kojovic](https://www.imm.dtu.dk/~samo/APCC-classic.zip).
+		- [Download as zip](https://www.imm.dtu.dk/~samo/SPS.zip).
 
 
 

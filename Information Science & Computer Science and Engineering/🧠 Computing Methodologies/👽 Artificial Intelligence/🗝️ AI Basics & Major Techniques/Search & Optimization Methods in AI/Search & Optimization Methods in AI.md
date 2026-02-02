@@ -1,4 +1,4 @@
-# Search & Optimization Methods for AI
+# Search & Optimization Methods in AI
 
 [TOC]
 

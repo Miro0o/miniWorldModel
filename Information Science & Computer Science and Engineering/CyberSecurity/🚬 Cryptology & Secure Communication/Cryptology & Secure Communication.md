@@ -14,6 +14,8 @@
 ↗ [Elementary Theory of Numbers](../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
 ↗ [Number Theory Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
 
+↗ [AnB (Alice and Bob) Notation & AnBx Langauges](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Langauges.md)
+
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
 ↗ [BlockChain](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/De-Fi%20Technologies/BlockChain.md)
@@ -110,17 +112,51 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 
 
 ### Definition /Primitives in Cryptology
+
+#### Objective & Security Protocol Notation (AnB Notation)
+> [!links]
+> ↗ [AnB (Alice and Bob) Notation & AnBx Langauges](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Langauges.md)
+
 > 🔗 https://textbook.cs161.org/crypto/intro.html
 
-#### Alice, Bob, Eve, and Mallory 
-The most basic problem in cryptography is one of ensuring the security of communications across an insecure medium. Two recurring members of the cast of characters in cryptography are _Alice_ and _Bob_, who wish to communicate securely as though they were in the same room or were provided with a dedicated, untappable line. However, they only have available a telephone line or an Internet connection subject to tapping by an eavesdropping adversary, _Eve_. In some settings, Eve may be replaced by an active adversary _Mallory_, who can tamper with communications in addition to eavesdropping on them.
+The most basic problem in cryptography is one of ensuring the security of communications across an insecure medium. Two recurring members of the cast of characters in cryptography are **Alice** and **Bob**, who wish to communicate securely as though they were in the same room or were provided with a dedicated, untappable line. However, they only have available a telephone line or an Internet connection subject to tapping by an eavesdropping adversary, **Eve**. In some settings, Eve may be replaced by an active adversary **Mallory**, who can tamper with communications in addition to eavesdropping on them.
 
 The goal is to design a scheme for scrambling the messages between Alice and Bob in such a way that Eve has no clue about the contents of their exchange, and Mallory is unable to tamper with the contents of their exchange without being detected. In other words, we wish to simulate the ideal communication channel using only the available insecure channel.
+
+> 🔗 https://en.wikipedia.org/wiki/Security_protocol_notation
+
+In [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"), **security (engineering) protocol notation**, also known as **protocol narrations** and **Alice & Bob notation**, is a way of expressing a [protocol](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol") of correspondence between entities of a dynamic system, such as a [computer network](https://en.wikipedia.org/wiki/Computer_network "Computer network"). In the context of a [formal model](https://en.wikipedia.org/wiki/Formal_model "Formal model"), it allows reasoning about the properties of such a system.
+
+The standard notation consists of a set of principals (traditionally named [Alice, Bob](https://en.wikipedia.org/wiki/Alice_and_Bob "Alice and Bob"), Charlie, and so on) who wish to communicate. They may have access to a server S, shared keys K, timestamps T, and can generate [nonces](https://en.wikipedia.org/wiki/Cryptographic_nonce "Cryptographic nonce") N for authentication purposes.
+
+A simple example might be the following: $A\rightarrow B:\{X\}_{K_{A,B}}$
+
+This states that **A**lice intends a message for **B**ob consisting of a [plaintext](https://en.wikipedia.org/wiki/Plaintext "Plaintext") **X** encrypted under shared key **KA,B**.
+
+Another example might be the following: $B\rightarrow A:\{N_{B}\}_{K_{A}}$
+
+This states that **B**ob intends a message for **A**lice consisting of a [**n**once](https://en.wikipedia.org/wiki/Cryptographic_nonce "Cryptographic nonce") **NB** encrypted using public key of Alice.
+
+A key with two subscripts, **KA,B**, is a [symmetric key](https://en.wikipedia.org/wiki/Symmetric_key "Symmetric key") shared by the two corresponding individuals. A key with one subscript, **KA**, is the public key of the corresponding individual. A private key is represented as the [inverse](https://en.wikipedia.org/wiki/Inverse_function#Notation "Inverse function") of the public key.
+
+The notation specifies only the operation and not its semantics — for instance, private key encryption and signature are represented identically.
+
+We can express more complicated protocols in such a fashion. See [Kerberos](https://en.wikipedia.org/wiki/Kerberos_\(protocol\) "Kerberos (protocol)") as an example. Some sources refer to this notation as _Kerberos Notation_. Some authors consider the notation used by Steiner, Neuman, & Schiller as a notable reference.
+
+Several models exist to reason about security protocols in this way, one of which is [BAN logic](https://en.wikipedia.org/wiki/BAN_logic "BAN logic").
+
+Security protocol notation inspired many of the programming languages used in [choreographic programming](https://en.wikipedia.org/wiki/Choreographic_programming "Choreographic programming").
 #### Keys 
-The most basic building block of any cryptographic system (or _cryptosystem_) is the _key_. The key is a secret value that helps us secure messages. Many cryptographic algorithms and functions require a key as input to lock or unlock some secret value.
+> [!links]
+> ↗ [Key Management](Key%20Management/Key%20Management.md)
+
+> 🔗 https://textbook.cs161.org/crypto/intro.html
+
+The most basic building block of any cryptographic system (or _cryptosystem_) is the ==**key**==. The key is a secret value that helps us secure messages. Many cryptographic algorithms and functions require a key as input to lock or unlock some secret value.
 
 There are two main key models in modern cryptography. In the _symmetric key_ model, Alice and Bob both know the value of a secret key, and must secure their communications using this shared secret value. In the _asymmetric key_ model, each person has a secret key and a corresponding _public key_.
 #### ⭐ CIA Triangle (Objective of Cryptology /Secure Communication)
+> [!links]
 > Refer back to principles of ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives) for more info.
 > ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
 
@@ -200,7 +236,8 @@ Modern cryptography is distinguished by its reliance on mathematics and electron
 
 
 ### Crypto-systems Design and Threat Model
-> ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+> [!links]
+> ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 #### Kerckhoff’s Principle
 > 🔗 https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle#Explanation_of_the_principle
 
@@ -268,8 +305,11 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 ##### Efficiency
 ##### Other Algorithms-specific Features
 ### Cryptosystems Implementation
+> [!links]
+> ↗ [Security Programming & Security Product Development](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
 #### Software Implementation
 #### Hardware Implementation
+
 
 ### Types of Crypto-systems
 #### 1️⃣ Key Specific (根据密码算法所用的密钥数量)
@@ -282,6 +322,11 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 分组密码(Block cipher)
 序列密码(Stream cipher，也称为流密码)
 #### 3️⃣ Reversible Specific (根据是否能进行可逆的加密变换)
+> [!links]
+> ↗ [Function & Mapping of Set](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Message Digest & Hash Function (Integrity)](🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
+> ↗ [Message Digest (Hash Function) Based Message Authentication](🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
+
 单向函数密码体制
 双向变换密码体制
 #### Other cutting-edge Cryptosystems...
