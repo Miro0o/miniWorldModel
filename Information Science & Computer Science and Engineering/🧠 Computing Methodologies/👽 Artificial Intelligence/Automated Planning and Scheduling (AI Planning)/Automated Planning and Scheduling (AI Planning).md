@@ -26,5 +26,11 @@
 In known environments with available models, planning can be done offline. Solutions can be found and evaluated prior to execution. In dynamically unknown environments, the [strategy](https://en.wikipedia.org/wiki/Strategy "Strategy") often needs to be revised online. Models and policies must be adapted. Solutions usually resort to iterative [trial and error](https://en.wikipedia.org/wiki/Trial_and_error "Trial and error") processes commonly seen in [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"). These include [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming "Dynamic programming"), [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning") and [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Combinatorial optimization"). Languages used to describe planning and scheduling are often called [action languages](https://en.wikipedia.org/wiki/Action_language "Action language").
 
 
+### APS in Known Environments (Model-Based)
+
+
+### APS in Unknown Environments (Model-Free)
+
+
 
 ## Ref

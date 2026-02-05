@@ -17,14 +17,14 @@
 - ↗ [AI Embodiment & World Model (WM)](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 - ↗ [AI4EDU](../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4EDU.md)
 
-↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-- ↗ [AI & Gaming](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
+↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+- ↗ [AI & Gaming](../../../../../Software%20Engineering/🤖%20AI4SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 ↗ [Web Automation, Testing, and WebDriver](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
-↗ [AI x Security](../../../../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
-↗ [LLM & Security](../../../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [AI4Security](../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
+↗ [LLM & Security](../../../../../CyberSecurity/🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
 - ↗ [LLM & Software Security and Analysis](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 - ↗ [LLM & Fuzzing](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 
@@ -66,7 +66,7 @@ Latest AI app development platform Build your agents without code and release th
 ## 3️⃣ LLM Automation (Searching + Generation + Others)
 > [!links]
 > ↗ [LLM Agents, AI Workflow, & Agentic MLLM](🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
-> ↗ [AI Powered Dev & Vibe Coding](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
+> ↗ [AI Powered Dev & Vibe Coding](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
 
 https://github.com/web-infra-dev/midscene
 AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.

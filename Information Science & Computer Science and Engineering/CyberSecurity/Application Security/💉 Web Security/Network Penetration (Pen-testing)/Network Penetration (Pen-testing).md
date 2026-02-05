@@ -17,7 +17,7 @@
 ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 ↗ [Web Security](../Web%20Security.md)
 
-↗ [AI x Security](../../../🫧%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI4Security](../../../🫧%20AI4Security/AI4Security.md)
 ↗ [Attack Simulation - Red, Blue, Purple, White](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 
@@ -136,7 +136,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Execution (TA0002)
 - ↗ [Exploit or Compromise Phase](Exploit%20or%20Compromise%20Phase/Exploit%20or%20Compromise%20Phase.md)
 	- Installation
-		- ↗ [Malware (Malicious Code), Analysis, and Detection](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection.md)
+		- ↗ [Malware (Malicious Code), Analysis, and Detection](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection.md)
 	- Credential Access (TA0006)
 		- ↗ [Password Attack](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 			- (↗ [Credentials & Password Related Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md))

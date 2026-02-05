@@ -39,7 +39,7 @@
 ↗ [Web Application Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
 
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-↗ [MLOps](../../🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
+↗ [MLOps](../../🤖%20AI4SE/MLOps/MLOps.md)
 
 
 ### Tools & Projects

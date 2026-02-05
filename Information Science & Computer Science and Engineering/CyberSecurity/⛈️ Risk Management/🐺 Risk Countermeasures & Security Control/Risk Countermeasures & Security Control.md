@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
+↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 ↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
@@ -16,7 +16,7 @@
 - ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
 - ↗ [Information Assurance (IA)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
 
-↗ [AI x Security](../../🫧%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI4Security](../../🫧%20AI4Security/AI4Security.md)
 
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)
 - ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)

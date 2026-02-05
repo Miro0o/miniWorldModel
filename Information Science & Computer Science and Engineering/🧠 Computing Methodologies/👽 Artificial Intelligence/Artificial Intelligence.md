@@ -24,9 +24,9 @@
 - ↗ [Decision Making & Game Theory](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
 - ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 
-↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
+↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
-- ↗ [MLOps](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
+- ↗ [MLOps](../../Software%20Engineering/🤖%20AI4SE/MLOps/MLOps.md)
 
 ↗ [HuggingFace 🤗](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20(Version%20Control%20Management)/Git/👩🏼‍🍳%20Git%20Services%20Providers/HuggingFace%20🤗.md)
 

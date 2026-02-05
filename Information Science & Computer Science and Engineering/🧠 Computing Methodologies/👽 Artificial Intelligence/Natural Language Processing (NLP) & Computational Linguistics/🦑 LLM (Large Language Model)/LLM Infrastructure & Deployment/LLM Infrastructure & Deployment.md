@@ -11,8 +11,8 @@
 - ↗ [Model Monitoring & Observability](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Monitoring%20&%20Observability/Model%20Monitoring%20&%20Observability.md)
 - ↗ [Model Web Demo & Web Deployment](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/Model%20Web%20Demo%20&%20Web%20Deployment/Model%20Web%20Demo%20&%20Web%20Deployment.md)
 
-↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 
 ↗ [AI on Cloud](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
 

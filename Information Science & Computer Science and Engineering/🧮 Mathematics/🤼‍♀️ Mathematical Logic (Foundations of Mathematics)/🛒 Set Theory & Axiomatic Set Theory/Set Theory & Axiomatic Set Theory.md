@@ -52,6 +52,11 @@
 
 
 
+## Zermelo–Fraenkel Set Theory & ZFC
+> 🔗 https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory
+
+
+
 ## Natural Set & Field Construction and Extension
 ↗ [Number Sets & Field Construction (Completion) and Extension](Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
@@ -66,7 +71,7 @@
 ↗ [Relation & Order Theory](👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 - ↗ [Equivalence Relation](👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md)
 - ↗ [Partial Order & Total Order (Linear Order) & Well-Order](👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
-	- ↗ [Lattice (Set Theory)](👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
 
 

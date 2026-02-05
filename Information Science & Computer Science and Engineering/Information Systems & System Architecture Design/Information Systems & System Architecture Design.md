@@ -35,7 +35,7 @@
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)
 
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
-↗ [Software (Program) Analysis & Binary Engineering](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Analysis%20&%20Binary%20Engineering/Software%20(Program)%20Analysis%20&%20Binary%20Engineering.md)
+↗ [Software (Program) Techniques & Binary Engineering](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 
 ↗ [Information Theory](../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Cybersecurity Basics & InfoSec](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)

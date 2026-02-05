@@ -87,11 +87,11 @@ The foundations of first-order logic were developed independently by [Gottlob F
 
 
 ## Reasoning in Predicate Logic
-> ↗ [Logic And Mechanized (Formal) Reasoning](../../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning](../../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning.md)
 
 
 ### Formal Deduction in Logics
-↗ [Logic And Mechanized (Formal) Reasoning /Formalized Deduction](../../../Logic%20And%20Mechanized%20(Formal)%20Reasoning.md#Formalized%20Deduction)
+↗ [Logic And Mechanized (Formal) Reasoning /Formalized Deduction](../../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning.md#Formalized%20Deduction)
 
 
 ### Reasoning Rules in Predicate Logic

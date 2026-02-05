@@ -19,6 +19,9 @@
 
 
 ### Partial Order (偏序)
+> [!links]
+> ↗ [Lattice (Order Theory)](Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+
 #### Partial Order Relation
 ##### Well-Founded Relation (良基关系)
 > [!links]
@@ -104,7 +107,7 @@ Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other 
 连续性 (Continuity)
 - 如果 $f$ 是单调的，且对于任意有向子集 $S \subseteq D$，有：$f(\bigvee S) = \bigvee f(S)$，就称 $f$ 是**连续的**。
 #### Lattice (Poset Structure)
-> ↗ [Lattice (Set Theory)](Lattice%20(Set%20Theory)/Lattice%20(Set%20Theory).md)
+> ↗ [Lattice (Order Theory)](Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.3
 

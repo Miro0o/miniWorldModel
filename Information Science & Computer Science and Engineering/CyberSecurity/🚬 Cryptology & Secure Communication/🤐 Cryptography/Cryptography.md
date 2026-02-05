@@ -17,7 +17,37 @@ Cryptography is a sub-category of Cryptology:
 ↗ [OpenSSL Project](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
 
-### Learning Guides
+### Learning Resources
+https://wqbook.wqxuetang.com/book/3250393
+📖 应用密码学（第3版）
+作者： 刘嘉勇、赵亮、杨进、李莉
+出版社： 清华大学出版社
+出版日期： 2024-02-01
+1. **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
+
+📖 应用密码学：协议、算法与C源程序（原书第2版）
+
+📖 图解密码技术:第3版/ (日)结城浩著
+[图解密码学系列 | 知乎](https://www.zhihu.com/column/c_1417266554786078720)
+[《图解密码技术》学习笔记汇总](https://blog.csdn.net/qq_29864185/article/details/116743551)
+
+👍 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)
+
+🏫 https://textbook.cs161.org/crypto/
+UCB CS 161 Textbook
+- [Introduction to Cryptography](https://textbook.cs161.org/crypto/intro.html)
+- [Symmetric-Key Cryptography](https://textbook.cs161.org/crypto/symmetric.html)
+- [Cryptographic Hashes](https://textbook.cs161.org/crypto/hashes.html)
+- [Message Authentication Codes (MACs)](https://textbook.cs161.org/crypto/macs.html)
+- [Pseudorandom Number Generators](https://textbook.cs161.org/crypto/prng.html)
+- [Diffie-Hellman Key Exchange](https://textbook.cs161.org/crypto/key-exchange.html)
+- [Public-Key Encryption](https://textbook.cs161.org/crypto/public-key.html)
+- [Digital Signatures](https://textbook.cs161.org/crypto/signatures.html)
+- [Certificates](https://textbook.cs161.org/crypto/certificates.html)
+- [Passwords](https://textbook.cs161.org/crypto/passwords.html)
+- [Case Studies](https://textbook.cs161.org/crypto/case-studies.html)
+- [Bitcoin](https://textbook.cs161.org/crypto/bitcoin.html)
+
 [CTF-WiKi CN](https://ctf-wiki.org/crypto/introduction/)
 [CTF-WiKi EN](https://ctf-wiki.mahaloz.re)
 
@@ -26,15 +56,84 @@ Cryptography is a sub-category of Cryptology:
 	- Python Code Vizualization Tool [http://www.pythontutor.com/](http://www.pythontutor.com/visualize.html#mode=edit)
 	- The Mathematics of Encryption [https://bookstore.ams.org/mawrld-29](https://bookstore.ams.org/mawrld-29)
 
-[图解密码学系列 | 知乎](https://www.zhihu.com/column/c_1417266554786078720)
-[《图解密码技术》学习笔记汇总](https://blog.csdn.net/qq_29864185/article/details/116743551)
-
 📖 https://toc.cryptobook.us/
 A Graduate Course in Applied Cryptography
 By   [Dan Boneh](https://crypto.stanford.edu/~dabo)   and   [Victor Shoup](https://shoup.net/)
+Part I: Secret key cryptography
+- 1: Introduction
+- 2: Encryption
+- 3: Stream ciphers
+- 4: Block ciphers
+- 5: Chosen plaintext attacks
+- 6: Message integrity
+- 7: Message integrity from universal hashing
+- 8: Message integrity from collision resistant hashing
+- 9: Authenticated encryption
+Part II: Public key cryptography
+- 10: Public key tools
+- 11: Public key encryption
+- 12: Chosen ciphertext secure public-key encryption
+- 13: Digital signatures
+- 14: Fast signatures from one-way functions
+- 15: Elliptic curve cryptography and pairings
+- 16: Attacks on number theoretic assumptions
+- 17: Post-quantum cryptography from lattices
+Part III: Protocols
+- 18: Protocols for identification and login
+- 19: Identification and signatures from sigma protocols
+- 20: Proving properties in zero-knowledge
+- 21: Authenticated key exchange
+- 22: Threshold cryptography
+- 23: Secure multi-party computation
+Appendices
+- A: Basic number theory
+- B: Basic probability theory
+- C: Basic complexity theory
+- D: Probabilistic algorithms
 
 
-### More Learning Materials
+🇬🇧 [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+🇨🇳 [Python 密码破解指南](https://github.com/apachecn/invent-with-python-zh/tree/master/docs/cracking)
+
+
+### School Projects
+https://github.com/0v3rW4tch/Cryptography-course-design/tree/master
+> CUMT密码学课程设计源代码
+> 
+> 代码可能不是特别完善，还有可能存在其他的没有考虑周全的地方，请多多谅解
+> A5.py ---------------> A5加解密
+> RC4加解密.py-----------------> RC4加解密
+> DES_destruct----------->DES加解密的S盒，P盒等结构
+> DES加解密文件.py ---------->DES核心算法
+> DigitalSignature.py----------->数字签名
+> messageCheck.py --------------->消息认证
+> mymd5 .py     -------------------> Hash算法
+> myRSA.py ------------------------> RSA加解密
+
+https://github.com/wsxk/hust_crypto_design
+> 华中科技大学 19级密码学课程设计
+> 
+> PKCS7
+> RSA 参数计算
+> SPN增强
+> SPN实现
+> CRT
+> 差分分析
+> 彩虹表
+> 模重复平方
+> 线性分析
+
+👍 https://github.com/KangweiiLiu/UCAS_courses
+> 中国科学院大学网安-计算机相关课程资源，高级人工智能，深度学习，应用密码学，机器学习，信息隐藏，信息论与编码，多媒体编码等
+
+https://github.com/szluyu99/Encryption-And-Decryption-By-Yu
+> 自制的密码学综合工具，综合了对称加密算法DES，AES，IDEA，公开加密算法RSA，ECC，散列算法MD5，SHA1，CRC32，以及RSA，DSA，ECDSA数字签名验证。
+
+https://github.com/ThuWangzw/RSA
+> 2020清华大学软件学院应用密码学大作业 --- RSA
+
+
+### Other Resourcess
 - [Khan Academy Open Class](http://open.163.com/special/Khan/moderncryptography.html)
 - [In-depth cryptography - Principles and Applications of Common Encryption Technologies](https://github.com/yuankeyang/python/blob/master/%E3%80%8A%E6%B7%B1%E5%85%A5)
 - [https://cryptopals.com/](https://cryptopals.com/), a bunch of cryptography exercises.
@@ -78,14 +177,26 @@ Other applications include:
 
 
 ## 🐼 History of Cryptography
-> #TODO 
->
-> 记得有个图，，，突然找不到了qwq 对比了历年最安全的加密算法
->
-> 以后补一下
-
+> [!links]
+> ↗ [History of Information Systems & Security Systems](../../History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
 ![](../../../../Assets/Pics/Screenshot%202023-01-22%20at%207.36.34%20PM.png)
+
+> 🔗 https://textbook.cs161.org/crypto/intro.html
+
+The word “cryptography” comes from the Latin roots _crypt_, meaning secret, and _graphia_, meaning writing. So cryptography is quite literally the study of how to write secret messages.
+
+Schemes for sending secret messages go back to antiquity. 2,000 years ago, Julius Caesar employed what’s today referred to as the “Caesar cypher,” which consists of permuting the alphabet by shifting each letter forward by a fixed amount. For example, if Caesar used a shift by 3 then the message “cryptography” would be encoded as “fubswrjudskb”. With the development of the telegraph (electronic communication) during the 1800s, the need for encryption in military and diplomatic communications became particularly important. The codes used during this “pen and ink” period were relatively simple since messages had to be decoded by hand. The codes were also not very secure, by modern standards.
+
+The second phase of cryptography, the “mechanical era,” was the result of a German project to create a mechanical device for encrypting messages in an unbreakable code. The resulting _Enigma_ machine was a remarkable feat of engineering. Even more remarkable was the massive British effort during World War II to break the code. The British success in breaking the Enigma code helped influence the course of the war, shortening it by about a year, according to most experts. There were three important factors in the breaking of the Enigma code. First, the British managed to obtain a replica of a working Enigma machine from Poland, which had cracked a simpler version of the code. Second, the Allies drew upon a great deal of brainpower, first with the Poles, who employed a large contingent of mathematicians to crack the structure, and then from the British, whose project included Alan Turing, one of the founding fathers of computer science. The third factor was the sheer scale of the code-breaking effort. The Germans figured that the Enigma was well-nigh uncrackable, but what they didn’t figure on was the unprecedented level of commitment the British poured into breaking it, once codebreakers made enough initial progress to show the potential for success. At its peak, the British codebreaking organization employed over 10,000 people, a level of effort that vastly exceeded anything the Germans had anticipated. They also developed electromechanical systems that could, in parallel, search an incredible number of possible keys until the right one was found.
+
+Modern cryptography is distinguished by its reliance on mathematics and electronic computers. It has its early roots in the work of Claude Shannon following World War II. The analysis of the _one-time pad_(discussed in the next chapter) is due to Shannon. The early 1970s saw the introduction of a standardized cryptosystem, DES, by the National Institute for Standards in Technology (NIST). DES answered the growing need for digital encryption standards in banking and other businesses. The decade starting in the late 1970s then saw an explosion of work on a computational theory of cryptography.
+
+> 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
+
+密码技术源远流长，其起源可以追溯到几千年前的埃及，巴比伦，古罗马和古希腊。早在 4000 多年以前，古埃及人就在墓志铭中使用过类似于象形文字那样奇妙的符号，这是史载的最早的密码形式。古代密码虽然不是起源于战争，但其发展成果却首先被用于战争。可以说，人类社会自从有了战争，有了保密通信的需求，就有了密码技术的研究和应用。交战双方都为了保护自己的通信安全、窃取对方的情报而研究各种信息加密技术和密码分析技术。
+
+根据不同时期密码技术采用的加密和解密实现手段的不同特点， 密码技术的发展历史大致可以划分为三个时期，即古典密码、近代密码和现代密码时期。
 
 
 ### 1️⃣ Classic Cryptography （古典密码学）
@@ -103,6 +214,8 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 
 > 📄 New Directions in Cryptography, W.Diffie, M.Hellman
 
+> [!links]
+> ↗ [Diffie-Hellman Based Key Exchange](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Exchange%20&%20Agreement%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
 > ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 #### Symmetric Key Cryptography
 It is an encryption system where the sender and receiver of a message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that the sender and receiver have to somehow exchange the key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
@@ -122,7 +235,7 @@ Parity check -> CRC -> MD -> SHA -> MAC
 ##### Digital Signature
 Digital Signature is an implementation of asymmetric cryptography.
 
-🙈 more on [Message Digest](Modern Cryptography/Message Digest/Message Digest.md). 
+🙈 more on ↗ [Message Digest](Modern Cryptography/Message Digest/Message Digest.md). 
 
 
 ### 4️⃣ Quantum Cryptography

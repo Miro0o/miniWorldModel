@@ -17,8 +17,8 @@
 ↗ [LLM Applications & LLM-Driven Automation](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 - ↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 ↗ [Awesome AI (Tools)](🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
-- ↗ [AI(LLM) x SE](../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [AI x Security](../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
+- ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [AI4Security](../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 - ↗ [AIoT (AI for IoT) & Edge AI](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
 
 ↗ [Programming Tool Chain](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)

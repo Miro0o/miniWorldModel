@@ -9,9 +9,14 @@
 ↗ [LLM (Large Language Model)](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [Multimodal AI & MLLM](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 
-↗ [AI(LLM) x SE](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [AI & Gaming](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
-↗ [AI x Security](../../../CyberSecurity/🫧%20AI%20x%20Security/AI%20x%20Security.md)
+↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [AI & Gaming](../../../Software%20Engineering/🤖%20AI4SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
+↗ [AI4Security](../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
+
+↗ [AI4Math](AI4Math/AI4Math.md)
+
+↗ [AI For Science (AI4SCI)](AI4SCI/AI%20For%20Science%20(AI4SCI).md)
+↗ [AI4EDU](AI4EDU.md)
 
 
 ### Related Information

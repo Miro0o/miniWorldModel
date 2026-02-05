@@ -23,11 +23,11 @@ LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
 - ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 - ↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
-↗ [LLM & Security](../../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [LLM & Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
-↗ [AI(LLM) x SE](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
+↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
 ↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)

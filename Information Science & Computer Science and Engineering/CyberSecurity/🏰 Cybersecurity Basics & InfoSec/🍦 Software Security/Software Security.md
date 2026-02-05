@@ -21,8 +21,8 @@
 
 ↗ [Software Engineering](../../../Software%20Engineering/Software%20Engineering.md)
 
-↗ [AI x Security](../../🫧%20AI%20x%20Security/AI%20x%20Security.md)
-↗ [LLM & Security](../../🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [AI4Security](../../🫧%20AI4Security/AI4Security.md)
+↗ [LLM & Security](../../🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 
 ### Papers & Research

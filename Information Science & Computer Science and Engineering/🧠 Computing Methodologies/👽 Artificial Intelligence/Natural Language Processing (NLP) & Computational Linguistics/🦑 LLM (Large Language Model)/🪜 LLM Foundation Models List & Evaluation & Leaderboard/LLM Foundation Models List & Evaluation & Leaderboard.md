@@ -13,8 +13,8 @@
 
 ↗ [Artificial Intelligence Industry and Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 
-↗ [AI(LLM) x SE](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
-- ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
+↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [AI API Call & AI Gateway](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
 
 ### Other Resources
