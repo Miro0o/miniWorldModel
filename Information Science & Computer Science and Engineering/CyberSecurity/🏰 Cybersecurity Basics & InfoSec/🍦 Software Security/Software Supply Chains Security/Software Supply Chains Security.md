@@ -19,7 +19,7 @@
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 - ↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
 
 ↗ [Container Registry & Artifacts Management](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Container%20Registry%20&%20Artifacts%20Management/Container%20Registry%20&%20Artifacts%20Management.md)
@@ -36,7 +36,7 @@
 ## Intro
 ### Software Supply Chains Security 🆚 Software Development Life Circle (SDLC)
 > ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
-> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 > 🔗 [软件供应链安全白皮书 (2021) | 悬镜安全 - 中国信通院](http://mogesec.com/wp-content/uploads/2021/12/软件供应链安全白皮书（2021）.pdf)
 

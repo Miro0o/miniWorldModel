@@ -1,4 +1,4 @@
-# Data Flow Graph (DFG)
+# DFG (Data Flow Graph)
 
 [TOC]
 

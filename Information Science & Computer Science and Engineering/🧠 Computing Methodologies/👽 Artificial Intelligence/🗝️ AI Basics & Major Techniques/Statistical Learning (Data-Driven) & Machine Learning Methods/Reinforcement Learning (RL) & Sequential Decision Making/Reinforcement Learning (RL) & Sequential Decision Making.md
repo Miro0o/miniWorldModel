@@ -17,6 +17,8 @@
 
 
 ### Learning Resources
+🏫 [CS285 Deep Reinforcement Learning](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS285%20Deep%20Reinforcement%20Learning/CS285%20Deep%20Reinforcement%20Learning.md)
+
 https://spinningup.openai.com/en/latest/user/introduction.html
 Welcome to Spinning Up in Deep RL! This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 

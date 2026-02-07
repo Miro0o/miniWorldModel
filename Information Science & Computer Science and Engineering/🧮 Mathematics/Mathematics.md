@@ -912,6 +912,12 @@ Sometimes, a set is endowed with more than one feature simultaneously, which all
 
 [Mappings](https://en.wikipedia.org/wiki/Map_(mathematics)) between sets which preserve structures (i.e., structures in the [domain](https://en.wikipedia.org/wiki/Domain_of_a_function) are mapped to equivalent structures in the [codomain](https://en.wikipedia.org/wiki/Codomain)) are of special interest in many fields of mathematics. Examples are [homomorphisms](https://en.wikipedia.org/wiki/Homomorphism), which preserve algebraic structures; [homeomorphisms](https://en.wikipedia.org/wiki/Homeomorphism), which preserve topological structures; and [diffeomorphisms](https://en.wikipedia.org/wiki/Diffeomorphism), which preserve differential structures.
 
+
+![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
+
 ![Screenshot 2022-11-10 at 11.04.56 PM](../../../Assets/Pics/Screenshot%202022-11-10%20at%2011.04.56%20PM-8092713.png)
 
 
@@ -959,6 +965,13 @@ The following are the headers for Hilbert's 23 problems as they appeared in the 
 
 
 ### The Millennium Prize Problems
+> 🔗 https://en.wikipedia.org/wiki/Millennium_Prize_Problems
+
+The **Millennium Prize Problems** are seven well-known complex mathematical problems selected by the [Clay Mathematics Institute](https://en.wikipedia.org/wiki/Clay_Mathematics_Institute "Clay Mathematics Institute") in 2000. The Clay Institute has pledged to pay one million [US dollars](https://en.wikipedia.org/wiki/United_States_dollar "United States dollar") for the first correct solution to each problem.
+
+The Clay Mathematics Institute officially designated the title **Millennium Problem** for the seven unsolved mathematical problems, the [Birch and Swinnerton-Dyer conjecture](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture "Birch and Swinnerton-Dyer conjecture"), [Hodge conjecture](https://en.wikipedia.org/wiki/Hodge_conjecture "Hodge conjecture"), [Navier–Stokes existence and smoothness](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness "Navier–Stokes existence and smoothness"), [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem "P versus NP problem"), [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis "Riemann hypothesis"), [Yang–Mills existence and mass gap](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap "Yang–Mills existence and mass gap"), and the [Poincaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture "Poincaré conjecture") at the Millennium Meeting held on May 24, 2000. Thus, on the official website of the Clay Mathematics Institute, these seven problems are officially called the **Millennium Problems**.
+
+As of 2026, the only Millennium Prize problem to have been solved is the Poincaré conjecture. The Clay Institute awarded the monetary prize to Russian mathematician [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman "Grigori Perelman") in 2010. However, he declined the award because it was not also offered to [Richard S. Hamilton](https://en.wikipedia.org/wiki/Richard_S._Hamilton "Richard S. Hamilton"), upon whose work Perelman built.
 
 
 

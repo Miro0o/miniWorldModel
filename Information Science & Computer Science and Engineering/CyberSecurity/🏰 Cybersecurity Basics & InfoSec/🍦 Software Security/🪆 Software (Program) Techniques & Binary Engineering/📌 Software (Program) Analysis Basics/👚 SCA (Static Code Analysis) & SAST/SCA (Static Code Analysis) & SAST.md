@@ -232,7 +232,7 @@ Essentially,
 - if we want to make sure that something **never** happens, or if we want to **warn** about an assertion error that *may* happen, we need a **may analysis**. $$ \neg \text{BAE}^n \Leftarrow \neg \text{BAE}_{\text{may}}^n $$
 - If we want to **guarantee** that an assertion error *must* happen on a run, then we need a **must analysis**: $$\text{BAE}_{\text{must}}^n \Rightarrow \text{BAE}^n$$
 #### No-Approximation BSA Analysis
-↗ [Symbolic Execution & Concolic Execution](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 
 ### Bounded Analysis 🆚 Context-Bounded Analysis 🆚 Unbounded Analysis

@@ -367,7 +367,7 @@ Programming language theory (PLT) is a branch of computer science that deals wit
 #### 1️⃣ Declarative Programming Paradigm
 > 💡 [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) is a declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm, it's possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow.
 > 
-> My notes of Reactive Programing Paradigm can be found in ↗ [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Software%20Development%20Pattern/RX%20(ReactiveX)/RX%20(ReactiveX).md)
+> My notes of Reactive Programing Paradigm can be found in ↗ [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/RX%20(ReactiveX)/RX%20(ReactiveX).md)
 
 It is divided as Logic, Functional, Database. In computer science the _declarative programming_ is **a style of building programs that expresses logic of computation without talking about its control flow**. It often considers programs as theories of some logic. It may simplify writing parallel programs. The focus is on what needs to be done rather how it should be done basically emphasize on what code is actually doing. It just declares the result we want rather how it has be produced. This is the only difference between imperative (how to do) and declarative (what to do) programming paradigms. Getting into deeper we would see logic, functional and database.
 ##### 1. Logic Programming Paradigm

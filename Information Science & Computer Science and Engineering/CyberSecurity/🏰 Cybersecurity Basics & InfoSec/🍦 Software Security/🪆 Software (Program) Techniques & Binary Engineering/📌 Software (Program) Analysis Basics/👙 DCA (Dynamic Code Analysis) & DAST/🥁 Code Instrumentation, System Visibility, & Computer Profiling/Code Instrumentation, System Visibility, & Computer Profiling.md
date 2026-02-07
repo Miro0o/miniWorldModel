@@ -22,7 +22,12 @@
 
 ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
 ↗ [Fuzzing (Concrete Execution)](../Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
-↗ [Symbolic Execution & Concolic Execution](../Symbolic%20Execution%20&%20Concolic%20Execution/Symbolic%20Execution%20&%20Concolic%20Execution.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+
+↗ [Program Profiling & Dynamic Instrumentation Tools](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools.md)
+- ↗ [Intel Pin - A Dynamic Binary Instrumentation Tool](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Intel%20Pin%20-%20A%20Dynamic%20Binary%20Instrumentation%20Tool.md)
+- ↗ [QBDI (QuarkslaB Dynamic binary Instrumentation)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/QBDI%20(QuarkslaB%20Dynamic%20binary%20Instrumentation).md)
+- ↗ [Frida](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Dynamic%20Instrumentation%20Tools/Frida.md)
 
 
 ### Other Resources

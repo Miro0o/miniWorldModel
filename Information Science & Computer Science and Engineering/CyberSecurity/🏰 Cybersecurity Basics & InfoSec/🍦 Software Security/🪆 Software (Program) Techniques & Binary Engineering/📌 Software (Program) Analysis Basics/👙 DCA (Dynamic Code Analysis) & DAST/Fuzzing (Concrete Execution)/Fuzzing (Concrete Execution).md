@@ -15,6 +15,7 @@
 ↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
 
 
+
 ### Learning Resources
 #### Online Resources
 🎬【模糊测试Fuzzing入门-AFL(++)-fuzz-哔哩哔哩】 https://b23.tv/WioZP4F
@@ -41,7 +42,40 @@ The Fuzzing Book
 Tools and Techniques for Generating Software Tests
 **by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler**
 - **Welcome to "The Fuzzing Book"!** Software has bugs, and catching bugs can involve lots of effort. This book addresses this problem by _automating_ software testing, specifically by _generating tests automatically_. Recent years have seen the development of novel techniques that lead to dramatic improvements in test generation and software testing. They now are mature enough to be assembled in a book – even with executable code.
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-24%20at%2022.33.04.png)
+- [Sitemap](https://www.fuzzingbook.org/html/00_Table_of_Contents.html)
+	- While the chapters of this book can be read one after the other, there are many possible paths through the book. In this graph, an arrow _A_ → _B_ means that chapter _A_ is a prerequisite for chapter _B_. You can pick arbitrary paths in this graph to get to the topics that interest you most:
+	- ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-24%20at%2022.33.04.png)
+	- Lexical fuzzing
+		- This part introduces test generation at the _lexical_ level, that is, composing sequences of characters.
+		- [Fuzzing: Breaking Things with Random Inputs](https://www.fuzzingbook.org/html/Fuzzer.html) starts with one of the simplest test generation techniques: Fuzzing feeds a _string of random characters_ into a program in the hope to uncover failures.
+		- In [Getting Coverage](https://www.fuzzingbook.org/html/Coverage.html), we measure the effectiveness of these tests by assessing their _code coverage_ – that is, measuring which parts of a program are actually executed during a test run. Measuring such coverage is also crucial for test generators that attempt to cover as much code as possible.
+		- [Mutation-Based Fuzzing](https://www.fuzzingbook.org/html/MutationFuzzer.html) shows how to _mutate_ existing inputs to exercise new behavior. We show how to create such mutations, and how to guide them towards yet uncovered code, applying central concepts from the popular AFL fuzzer.
+		- [Greybox Fuzzing](https://www.fuzzingbook.org/html/GreyboxFuzzer.html) extends the concept of input mutation further, using statistical estimators to guide test generation towards likely bugs.
+		- [Search-Based Fuzzing](https://www.fuzzingbook.org/html/SearchBasedFuzzer.html) takes the concept of guidance further, introducing search-based algorithms to systematically generate test data for a program.
+		- [Mutation Analysis](https://www.fuzzingbook.org/html/MutationAnalysis.html) seeds synthetic defects (mutations) into program code to check whether the tests find them. If the tests do not find mutations, they likely won't find real bugs either.
+	- Syntactic fuzzing
+		- This part introduces test generation at the _syntactical_ level, that is, composing inputs from language structures.
+		- [Grammars](https://www.fuzzingbook.org/html/Grammars.html) provide a _specification_ of legal inputs to a program. Specifying inputs via a grammar allows for very systematic and efficient test generation, in particular for complex input formats.
+		- [Efficient Grammar Fuzzing](https://www.fuzzingbook.org/html/GrammarFuzzer.html) introduces tree-based grammar fuzzing algorithms, which are much faster and allow for much more control over the production of fuzz inputs.
+		- [Grammar Coverage](https://www.fuzzingbook.org/html/GrammarCoverageFuzzer.html) allows systematically covering elements of a grammar such that we maximize variety and do not miss out individual elements.
+		- [Parsing Inputs](https://www.fuzzingbook.org/html/Parser.html) shows how to use grammars to parse and decompose a given set of valid seed inputs into their corresponding derivation trees.
+		- [Probabilistic Grammar Fuzzing](https://www.fuzzingbook.org/html/ProbabilisticGrammarFuzzer.html) gives grammars even more power by assigning _probabilities_ to individual expansions.
+		- [Fuzzing with Generators](https://www.fuzzingbook.org/html/GeneratorGrammarFuzzer.html) shows how to extend grammars with _functions_ – pieces of code that get executed during grammar expansion, and that can generate, check, or change elements produced.
+		- [Greybox Grammar Fuzzing](https://www.fuzzingbook.org/html/GreyboxGrammarFuzzer.html) makes use of the structural representation allows us to mutate, crossover, and recombine their parts in order to generate new valid, slightly changed inputs.
+		- [Reducing Failure-Inducing Inputs](https://www.fuzzingbook.org/html/Reducer.html) presents techniques that _automatically reduce and simplify failure-inducing inputs to a minimum_ in order to ease debugging.
+	- Semantic fuzzing
+		- This part introduces test generation techniques that take the _semantics_ of the input into account, notably the behavior of the program that processes the input.
+		- [Fuzzing with Constraints](https://www.fuzzingbook.org/html/FuzzingWithConstraints.html) adds _semantic constraints_ to grammars. By solving these automatically, we can produce inputs that are syntactically _and_ semantically valid.
+		- [Grammar Mining](https://www.fuzzingbook.org/html/GrammarMiner.html) shows how to extract an input grammar from a program by analyzing how individual parts of the input are processed. The resulting grammars can be directly used for fuzzing.
+		- [Tracking Information Flow](https://www.fuzzingbook.org/html/InformationFlow.html) shows how to track inputs throughout the program, in order to discover information leaks and further improve analysis techniques.
+		- [Concolic Fuzzing](https://www.fuzzingbook.org/html/ConcolicFuzzer.html) analyzes program code to solve _path constraints_ in the program to cover branches and behaviors that are hard to reach.
+		- [Symbolic Fuzzing](https://www.fuzzingbook.org/html/SymbolicFuzzer.html) works like concolic fuzzing, but does not require any executions at all.
+		- [Mining Function Specifications](https://www.fuzzingbook.org/html/DynamicInvariants.html) extracts type information as well as pre- and postconditions from program executions – useful information for program analysis, testing, and verification.
+- You can use this book in four ways:
+	- You can **read chapters in your browser**. Check out the list of chapters in the menu above, or start right away with the [introduction to testing](https://www.fuzzingbook.org/html/Intro_Testing.html) or the [introduction to fuzzing](https://www.fuzzingbook.org/html/Fuzzer.html). All code is available for download.
+	- You can **interact with chapters as Jupyter Notebooks** (beta). This allows you to edit and extend the code, experimenting _live in your browser._ Simply select "Resources → Edit as Notebook" at the top of each chapter. [Try interacting with the introduction to fuzzing.](https://mybinder.org/v2/gh/uds-se/fuzzingbook/HEAD?labpath=docs/notebooks/Fuzzer.ipynb)
+	- You can **use the code in your own projects**. You can download the code as Python programs; simply select "Resources → Download Code" for one chapter or "Resources → All Code" for all chapters. These code files can be executed, yielding (hopefully) the same results as the notebooks. Even easier: [Install the fuzzingbook Python package](https://www.fuzzingbook.org/html/Importing.html).
+	- You can **present chapters as slides**. This allows for presenting the material in lectures. Just select "Resources → View slides" at the top of each chapter. [Try viewing the slides for the introduction to fuzzing.](https://www.fuzzingbook.org/slides/Fuzzer.slides.html)
 #### Survey Papers
 📄 👍 Manes V J M, Han H S, Han C, et al. Fuzzing: Art, Science, and Engineering[J]. arXiv preprint arXiv:1812.00140, 2018.
 https://arxiv.org/pdf/1812.00140.pdf
@@ -164,6 +198,18 @@ TOC
 	    - [AddressSanitizer](https://appsec.guide/docs/fuzzing/techniques/asan/)
 	    - [Fuzzing environments](https://appsec.guide/docs/fuzzing/techniques/environments/)
 	    - [FAQ (Fuzzily Asked Questions)](https://appsec.guide/docs/fuzzing/techniques/faq/)
+		    -  [The fuzzer is showing crashes, but when I run the SUT on the test cases outside of the fuzzer, then no crash is shown. What is happening?](https://appsec.guide/docs/fuzzing/techniques/faq/#the-fuzzer-is-showing-crashes-but-when-i-run-the-sut-on-the-test-cases-outside-of-the-fuzzer-then-no-crash-is-shown-what-is-happening)
+			- [When should I stop fuzzing?](https://appsec.guide/docs/fuzzing/techniques/faq/#when-should-i-stop-fuzzing)
+			- [Should I keep the corpus confidential or make it public?](https://appsec.guide/docs/fuzzing/techniques/faq/#should-i-keep-the-corpus-confidential-or-make-it-public)
+			- [My fuzzer is not finding anything. What are indicators that there is a bug in the fuzzing setup?](https://appsec.guide/docs/fuzzing/techniques/faq/#my-fuzzer-is-not-finding-anything-what-are-indicators-that-there-is-a-bug-in-the-fuzzing-setup)
+			- [My corpus has grown quite large. How do I deal with these thousands of small files?](https://appsec.guide/docs/fuzzing/techniques/faq/#my-corpus-has-grown-quite-large-how-do-i-deal-with-these-thousands-of-small-files)
+			- [My fuzzer found inputs that crash the SUT. However, it is very large and complex. Is there a way to simplify finding the root cause of the crash?](https://appsec.guide/docs/fuzzing/techniques/faq/#my-fuzzer-found-inputs-that-crash-the-sut-however-it-is-very-large-and-complex-is-there-a-way-to-simplify-finding-the-root-cause-of-the-crash)
+			- [How can I collect core dumps from crashes during or after a fuzzing campaign?](https://appsec.guide/docs/fuzzing/techniques/faq/#how-can-i-collect-core-dumps-from-crashes-during-or-after-a-fuzzing-campaign)
+			- [I have a fuzzing setup. How often and where should I run my harness?](https://appsec.guide/docs/fuzzing/techniques/faq/#i-have-a-fuzzing-setup-how-often-and-where-should-i-run-my-harness)
+			- [My fuzzer has found multiple crashes. In fact, I have hundreds of crash files. How can I find the corresponding bugs?](https://appsec.guide/docs/fuzzing/techniques/faq/#my-fuzzer-has-found-multiple-crashes-in-fact-i-have-hundreds-of-crash-files-how-can-i-find-the-corresponding-bugs)
+			- [How do I fuzz my Go, Python, Java, or JavaScript project?](https://appsec.guide/docs/fuzzing/techniques/faq/#how-do-i-fuzz-my-go-python-java-or-javascript-project)
+			- [I’m using Bazel, Buck, or some other build system. How can I integrate fuzzing into my project?](https://appsec.guide/docs/fuzzing/techniques/faq/#im-using-bazel-buck-or-some-other-build-system-how-can-i-integrate-fuzzing-into-my-project)
+			- [My program runs only on Windows. How can I fuzz it?](https://appsec.guide/docs/fuzzing/techniques/faq/#my-program-runs-only-on-windows-how-can-i-fuzz-it)
     - [OSS-Fuzz](https://appsec.guide/docs/fuzzing/oss-fuzz/)
     - [Snapshot Fuzzing](https://appsec.guide/docs/fuzzing/snapshot-fuzzing/)
     - [Additional resources](https://appsec.guide/docs/fuzzing/resources/)
@@ -323,6 +369,35 @@ Fuzzing is defined by Microsoft as ‘a program analysis technique that looks fo
 
 
 ### OSS-Fuzz
+> 🔗 https://google.github.io/oss-fuzz/
+
+[Fuzz testing](https://en.wikipedia.org/wiki/Fuzz_testing) is a well-known technique for uncovering programming errors in software. Many of these detectable errors, like [buffer overflow](https://en.wikipedia.org/wiki/Buffer_overflow), can have serious security implications. Google has found [thousands](https://bugs.chromium.org/p/chromium/issues/list?q=label%3AStability-LibFuzzer%2CStability-AFL%20-status%3ADuplicate%2CWontFix&can=1) of security vulnerabilities and stability bugs by deploying [guided in-process fuzzing of Chrome components](https://security.googleblog.com/2016/08/guided-in-process-fuzzing-of-chrome.html), and we now want to share that service with the open source community.
+
+In cooperation with the [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) and the [OpenSSF](https://www.openssf.org/), OSS-Fuzz aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution. Projects that do not qualify for OSS-Fuzz (e.g. closed source) can run their own instances of [ClusterFuzz](https://github.com/google/clusterfuzz) or [ClusterFuzzLite](https://google.github.io/clusterfuzzlite/).
+
+We support the [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [AFL++](https://github.com/AFLplusplus/AFLplusplus), [Honggfuzz](https://github.com/google/honggfuzz), and [Centipede](https://github.com/google/centipede) fuzzing engines in combination with [Sanitizers](https://github.com/google/sanitizers), as well as [ClusterFuzz](https://github.com/google/clusterfuzz), a distributed fuzzer execution environment and reporting tool.
+
+Currently, OSS-Fuzz supports C/C++, Rust, Go, Python, Java/JVM code, JavaScript and Lua. Other languages supported by [LLVM](https://llvm.org/) may work too. OSS-Fuzz supports fuzzing x86_64 and i386 builds.
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020260206231735.png)
+
+The process works like this:
+1. A maintainer of an open source project (or an outside volunteer) creates one or more [fuzz targets](https://llvm.org/docs/LibFuzzer.html#fuzz-target) and [integrates](https://google.github.io/oss-fuzz/advanced-topics/ideal-integration/) them with the project’s build and test system.
+2. The project is [accepted to OSS-Fuzz](https://google.github.io/oss-fuzz/getting-started/accepting-new-projects/) and the developer commits their build configurations.
+3. The OSS-Fuzz [builder](https://github.com/google/oss-fuzz/tree/master/infra/build) builds the project from the committed configs.
+4. The builder uploads the fuzz targets to the OSS-Fuzz GCS bucket.
+5. [ClusterFuzz](https://google.github.io/oss-fuzz/further-reading/clusterfuzz) downloads the fuzz targets and begins to fuzz the projects.
+6. When Clusterfuzz finds a bug, it reports the issue automatically to the OSS-Fuzz [issue tracker](https://bugs.chromium.org/p/oss-fuzz/issues/list) ([example](https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=9)). ([Why use a different tracker?](https://google.github.io/oss-fuzz/faq/#why-do-you-use-a-different-issue-tracker-for-reporting-bugs-in-oss-projects))
+7. Project owners are CCed on the bug report.
+8. The project developer fixes the bug upstream and credits OSS-Fuzz for the discovery (the commit message should contain the string **‘Credit to OSS-Fuzz’**).
+
+Once the developer fixes the bug, [ClusterFuzz](https://google.github.io/oss-fuzz/further-reading/clusterfuzz) automatically verifies the fix, adds a comment, and closes the issue ([example](https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=53#c3)). After the fix is verified or 90 days after reporting (whichever is earlier), the issue becomes [public](https://google.github.io/oss-fuzz/getting-started/bug-disclosure-guidelines/).
+
+> 🔗 https://appsec.guide/docs/fuzzing/oss-fuzz/
+
+[OSS-Fuzz](https://google.github.io/oss-fuzz/) is an open-source project developed by Google that aims to improve the security and stability of open-source software by providing free distributed infrastructure for continuous fuzz festing. Using a pre-existing framework like OSS-Fuzz has many advantages over manually running harnesses: it streamlines the process and facilitates simpler modifications. Although only select projects are accepted into OSS-Fuzz, because the project’s core is open-source, anyone can host their own instance of OSS-Fuzz and use it for private projects!
+
+This chapter will help project developers understand how to leverage OSS-Fuzz to both fuzz a project on your private instance and delegate the fuzzing computation to Google. Additionally, security researchers will learn how to run a single harness on an existing project, extend a harness, or reproduce an individual crash.
 
 
 ### Snapshot Fuzzing
@@ -411,11 +486,21 @@ Like any software, the choice of fuzzer will depend on factors such as the opera
 #### Fuzzing Harness /Drivers
 > 🔗 https://appsec.guide/docs/fuzzing/techniques/writing-harnesses/
 > The following section showcases some techniques to successfully write a fuzzing harness—the most important part of any fuzzing setup. If written poorly, critical parts of your application may not be covered.
-
 #### Instrumentation
 > [!links]
 > ↗ [Code Instrumentation, System Visibility, & Computer Profiling](../🥁%20Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling/Code%20Instrumentation,%20System%20Visibility,%20&%20Computer%20Profiling.md)
 > ↗ [Code Sanitizer](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Code%20Sanitizer.md)
+#### Fuzzing Corpus & Dictionary
+> 🔗 https://appsec.guide/docs/fuzzing/techniques/dictionary/
+#### Termination Conditions of Fuzzing 🤔
+> 🔗 https://www.fuzzingbook.org/html/WhenToStopFuzzing.html
+> 
+> Lessons Learned[](https://www.fuzzingbook.org/html/WhenToStopFuzzing.html#Lessons-Learned)
+> - One can measure the _progress_ of a fuzzing campaign (as species over time, i.e., S(n)).
+> - One can measure the _effectiveness_ of a fuzzing campaign (as asymptotic total number of species S).
+> - One can estimate the _effectiveness_ of a fuzzing campaign using the Chao1-estimator Ŝ .
+> - One can extrapolate the _progress_ of a fuzzing campaign, Ŝ (n+m∗).
+> - One can estimate the _residual risk_ (i.e., the probability that a bug exists that has not been found) using the Good-Turing estimator GT of the species discovery probability.
 
 
 ### Hybrid Fuzzing
@@ -490,6 +575,9 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ##### Seed + Mutation
 ##### Fuzzing with Historical Bugs
 ##### Complex Input Constraints
+
+
+### Fuzzing by Stages 
 
 
 
@@ -687,3 +775,27 @@ Fuzzing的很重要的一部分就是调试崩溃和修复漏洞。这个和fuzz
 另一个比较难以处理的就是 “Profiling” ，根据维基百科的解释 ，这个词指”动态程序分析的一种形式…根据程序执行收集到的信息调查程序的运行行为，通常用来查找程序中的瓶颈”。最后我用了”剖析”。(Updated: 中文是 “性能分析“。不过我觉得似乎有点容易混淆。)
 
 这两个词很有趣，任何一个程序或者软件项目构建的初期，如果没有考虑 Instrumentation ，在程序或项目交付后，又不能做 Profiling ，那么这个程序或者项目肯定会是灾难。所以，能对 DBA 着重强调一下这一点或许要比看更多的同质化内容更有价值。
+
+[The Art of Fuzzing: Harnessing Libraries for Effective Fuzzing]: https://bushido-sec.com/index.php/2025/01/03/fuzzing-harness-guide/
+Tips and Tricks
+When diving into fuzzing projects, consider these strategies to enhance your approach:
+Leveraging Existing Work
+- **Search for Existing Harnesses:** Google previous researchers’ work to find potential harnesses that you can adapt or learn from.
+- **Explore Project Test Suites:** Many projects implement their own fuzzing tests. Reviewing these can reveal what areas are already covered and where potential gaps lie, giving you a strategic advantage.
+- **Check OSS-Fuzz Coverage:** Examine which parts of the library or functions are covered by OSS-Fuzz. Identifying overlooked areas can lead to interesting discoveries.
+General Tips
+- **Build a Robust Corpus:** A diverse and well-curated input corpus is critical for effective fuzzing.
+- **Optimize Compilation:**
+- Compile a fraction of your builds (e.g., 1/15) with AddressSanitizer (ASan) for better bug detection.
+- Use optimization flags like `-O3` for improved coverage during fuzzing.
+- **Utilize Advanced Tools:** Consider using [Redqueen](https://github.com/AFLplusplus/AFLplusplus/blob/stable/instrumentation/README.cmplog.md) for input-to-state correspondence and deeper insights.
+- **Optimize Your System:** Follow the [AFL++ performance tips](https://aflplus.plus/docs/perf_tips/) to ensure your fuzzing environment is efficient and performant.
+- **Seek Inspiration:** Learn from other resources and articles:
+- [Fuzzing Techniques and Harness Writing](https://appsec.guide/docs/fuzzing/techniques/writing-harnesses/)
+- [Awesome LibFuzzer Harness Collection](https://github.com/Microsvuln/Awesome-Libfuzzer-Harness)
+- You can find more harness I made for this article [here](https://github.com/20urc3/Publications/tree/main/Articles/LIB_HARNESS_GUIDE/harness)
+Going further
+Many researchers are tackling the challenges of harness creation by proposing various approaches to automate this task. You can find inspiration in the following papers:
+- [Automated Fuzzing Harness Generation for Library APIs and Binary Protocol Parsers](https://arxiv.org/abs/2306.15596)
+- [FuzzGen: Automatic Fuzzer Generation](https://www.usenix.org/system/files/sec20fall_ispoglou_prepub.pdf)
+- [Automated Fuzzing Harness Generation for Library APIs and Binary Protocol Parsers](https://www.researchgate.net/publication/371909352_Automated_Fuzzing_Harness_Generation_for_Library_APIs_and_Binary_Protocol_Parsers)

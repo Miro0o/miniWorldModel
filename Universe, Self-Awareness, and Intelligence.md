@@ -129,7 +129,10 @@ From the same principles, I now demonstrate the frame of the System of the World
 
 
 ### 存在与（人/人类社会 的）认识存在
+#### 时间与空间
+
 #### 运动与静止
+> 🔗 https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem
 ##### 相对与绝对
 ↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律

@@ -41,11 +41,15 @@ Errors are typically concentrated in a few software modules – about half of th
 
 ![](../../../../Assets/Pics/Screenshot%202025-08-29%20at%2013.08.12.png)
 
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Engineering/Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 ↗ [SDL (Secure Development Lifecycle)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20(Secure%20Development%20Lifecycle).md)
 
 
 ### Software Verification
+> [!links]
+> ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
+> ↗ [Software (Program) Verification](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
 **Software Verification**: ↗ [Software Quality Assurance (SQA)](../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/Software%20Quality%20Assurance%20(SQA).md)
@@ -89,6 +93,10 @@ Errors are typically concentrated in a few software modules – about half of th
 
 
 ### Hardware Verification
+> [!links]
+> ↗ [Hardware Quality Assurance (HQA)](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Hardware%20Quality%20Assurance%20(HQA)/Hardware%20Quality%20Assurance%20(HQA).md)
+> ↗ [Hardware Verification](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Hardware%20Quality%20Assurance%20(HQA)/Hardware%20Verification/Hardware%20Verification.md)
+
 > 📖 Principles of Model Checking, Christel Baier and Joost-Pieter Katoen
 
 **Hardware verification**: *Emulation*, *simulation*, and *structural analysis* are the major techniques used in hardware verification.

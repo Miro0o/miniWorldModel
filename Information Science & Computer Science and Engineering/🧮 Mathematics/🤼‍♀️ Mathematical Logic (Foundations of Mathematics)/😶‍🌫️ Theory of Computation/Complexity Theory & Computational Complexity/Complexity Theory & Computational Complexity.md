@@ -109,7 +109,7 @@ Complexity classes are about resources (time/space) and efficiency ($O(n^3)$ tim
 
 
 
-## P vs NP Problem
+## P vs NP Problem ⭐
 > 🔗 https://en.wikipedia.org/wiki/P_versus_NP_problem#
 
 The **P versus NP problem** is a major [unsolved problem](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science "List of unsolved problems in computer science") in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). ==Informally, it asks whether every problem whose solution can be quickly verified can also be quickly solved.==
@@ -167,10 +167,43 @@ It is one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wik
 > 🔗 https://en.wikipedia.org/wiki/P_versus_NP_problem#Consequences_of_solution
 
 
-### Similar Problems
+### Similar Problems to PNP Problem
 _[R](https://en.wikipedia.org/wiki/R_\(complexity\) "R (complexity)") vs. [RE](https://en.wikipedia.org/wiki/RE_\(complexity\) "RE (complexity)")_ problem, where R is analog of class P, and RE is analog class NP. These classes are not equal, because undecidable but verifiable problems do exist, for example, [Hilbert's tenth problem](https://en.wikipedia.org/wiki/Hilbert%27s_tenth_problem "Hilbert's tenth problem") which is [RE-complete](https://en.wikipedia.org/wiki/RE_\(complexity\)#RE-complete "RE (complexity)").
 
 A similar problem exists in the theory of [algebraic complexity](https://en.wikipedia.org/wiki/Arithmetic_circuit_complexity#Algebraic_P_and_NP "Arithmetic circuit complexity"): _VP vs. VNP_ problem. Like _P vs. NP_, the answer is currently unknown.
+
+
+### 🤔 My sketchy thoughts about PNP problem
+
+↗ [Neuro-Symbolic AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+
+LLM: probabilistic generator
+formal verification: deterministic filter
+
+compared to traditional approach: traditional algorithms try to find a solid path from initial states to solution. 
+neuro-symbolic AI: LLM + verification = generation + filtering. this approach don't try to find a valid path from scratch. instead, it generates a plausible one, then verifies the correctness.
+
+
+---
+↗ [Software Testing](../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
+
+
+---
+↗ [Education](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
+↗ [中国教育 & 教育部](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国教育%20&%20教育部/中国教育%20&%20教育部.md)
+
+In China, we don't educate /inspire students. we only filter students. meaning, we don't bother finding a better educational system to cultivate a people form ignorance to liberal, instead, we generate lots of people and set a verifier to filter people who are somewhat already "liberal". as for how people grew into that talents, don't care. we let that person him/herself to figure out. 
+
+whoever passed the bar, is a talent. whoever don't pass the bar, is not a talent. the only reason that this strategy works and bring thousands of talents to China, is because we generate enormous amount of students at the beginning.
+
+this is just like in neuro-symbolic AI, the generation + filtering strategy. or diffusion models.
+
+for the administration, this is a very efficient approach. they control the cost to the minimal (only need to verify, not educate, like the NP problem), yet still have all these talents working for the country. 
+
+for individuals, this is a nigthmare. you have to work out the way yourself, no guidance or help from school or authorities. some people are lucky, they met friends along the road or their families provide resources and express way; others are miserable, walking along all the time. 
+
+the worst of all, for individuals, is that the line of cliff is so clear. as long as you pass the filter, you get payback and everything you want; if you failed, however, lose everything. all the works along the road, gone. all the efforts payed, all the sufferings, meaningless. no one would care. and the machine marches on. losers are just like they never even exist, like those failed test cases or wrong answers from LLM. no one even bother to look at them individually. at most, the administrator would look at the statistics, so that to have an idea how many failed, and how many succeeded.
 
 
 

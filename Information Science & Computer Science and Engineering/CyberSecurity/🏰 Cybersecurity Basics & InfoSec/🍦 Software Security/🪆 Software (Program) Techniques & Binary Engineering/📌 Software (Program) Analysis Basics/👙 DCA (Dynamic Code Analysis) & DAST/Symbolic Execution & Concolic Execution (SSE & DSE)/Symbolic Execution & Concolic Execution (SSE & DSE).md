@@ -1,4 +1,4 @@
-# Symbolic Execution & Concolic Execution
+# Symbolic Execution & Concolic Execution (SSE & DSE)
 
 [TOC]
 
@@ -31,6 +31,9 @@
 	- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
 	- ↗ [SymQemu](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/SymQemu.md)
 	- ↗ [KLEE](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/KLEE.md)
+
+↗ [SRE (Software Reverse Engineering)](../../SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
+↗ [Hook Techniques](../../SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Hook%20Techniques.md)
 
 
 ### Other Resources
@@ -182,7 +185,7 @@ print(f"    {'  '.join(columns)}")
 
 
 
-## (Static) Symbolic Execution
+## (Static) Symbolic Execution & SSE
 > 🔗 [Symbolic execution - Wikipedia](https://en.wikipedia.org/wiki/Symbolic_execution)
 > 🔗 [Introducing Symbolic Execution - YouTube](https://www.youtube.com/watch?v=cjNTsCqbf5k)
 > 🔗 [6.858 Fall 2014 Lecture 10: Symbolic execution - YouTube](https://www.youtube.com/watch?v=mffhPgsl8Ws)
@@ -381,7 +384,7 @@ def analyse(pc : PC, inputs : list[tuple[str, JvmType]], max_depth : int):
 ```
 
 
-### Limitations of Symbolic Execution
+### Limitations of Symbolic Execution 🤔
 > 🔗 https://courses.compute.dtu.dk/02242/topics/concolic-execution.html#sec:2.4
 
 One big flaw in symbolic execution is that you have to be able to create a symbolic expression over the entire program. This can be problematic if we use builtin methods like `malloc`, one-way-functions like hashing or string manipulation methods (which are notoriously hard to model in SMT solvers).
@@ -390,7 +393,10 @@ Another big problem is memory aliasing and arrays. Since we can only access the 
 
 
 
-## Concolic Execution (Dynamic Symbolic Execution)
+## Concolic Execution (Dynamic Symbolic Execution) & DSE
+> [!links]
+> ↗ [angr](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/angr.md)
+
 > 🔗 [Godefroid (2005)](https://courses.compute.dtu.dk/02242/topics/concolic-execution.html#ref:godefroid2005dart)
 > 🔗 [Sen (2005)](https://courses.compute.dtu.dk/02242/topics/concolic-execution.html#ref:sen2005cute)
 
@@ -430,6 +436,12 @@ The way to get around this is by doing code instrumentation. Code instrumentatio
 > Currently we do not support any straight forward ways to do bytecode instrumentation in this course.
 > Jvm2json does allow you to create class files from jsonfiles by running it in reverse. The problem is just that we currently does not support computing the type information for changes withing the bytecode of the individual methods.
 > To do concolic execution, you will have to instrument the code to keep track of the symbolic values of the entire memory, essentially keeping a shadow variable for each variable. And then update those accordingly. This is not trivial.
+
+
+### Limitations of Concolic Execution 🤔
+
+#### Dynamic Analysis (e.g. Fuzzing) 🆚 Concolic Execution
+#dynamic_analysis #fuzzing #concolic_exection
 
 
 

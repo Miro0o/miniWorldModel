@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Software Development Pattern](../../../../Software%20Development%20Pattern/Software%20Development%20Pattern.md)
+↗ [Software Development Norms & Patterns](../../../../Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
 ↗ [DS Web Services' Architectures](../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 
 ↗️ [Systems Engineering](../../Architecture Design/Systems Engineering/Systems Engineering.md)

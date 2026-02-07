@@ -31,7 +31,7 @@
 > Informations System;
 > Information System Lifecycle (ISLC), or Softwrae Development Lifecycle (SDLC);
 > 
-> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 As a database system is a fundamental component of the larger organization-wide information system, the **database system development lifecycle** is inherently associated with the **lifecycle of the information system**. The stages of the database system development lifecycle are shown in Figure 10.1. Below the name of each stage is the section in this chapter that describes that stage.
 

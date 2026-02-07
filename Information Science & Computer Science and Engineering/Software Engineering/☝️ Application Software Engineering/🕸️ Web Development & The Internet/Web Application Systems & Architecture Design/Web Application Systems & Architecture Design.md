@@ -19,8 +19,8 @@
 ↗ [CI & CD Workflow](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🔃%20CI%20&%20CD%20Workflow/CI%20&%20CD%20Workflow.md)
 
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-↗ [Software Development Pattern](../../../Software%20Development%20Pattern/Software%20Development%20Pattern.md)
-- ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [Software Development Norms & Patterns](../../../Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
+- ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 ↗ [Galleries & Awesome SE](../../../🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 ↗ [Web Application Galleries](../../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)

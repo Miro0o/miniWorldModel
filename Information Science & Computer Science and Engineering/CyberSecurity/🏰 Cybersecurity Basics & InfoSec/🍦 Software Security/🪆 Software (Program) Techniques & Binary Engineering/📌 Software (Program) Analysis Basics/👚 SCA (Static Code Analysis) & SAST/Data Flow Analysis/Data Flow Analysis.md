@@ -62,7 +62,7 @@ Input and Output States
 
 ### Inter-Procedural Analysis
 ↗ [Interprocedural Analysis](📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
-↗ [Data Flow Graph (DFG)](📲%20Inter-procedural%20Analysis/Data%20Flow%20Graph%20(DFG).md)
+↗ [DFG (Data Flow Graph)](📲%20Inter-procedural%20Analysis/DFG%20(Data%20Flow%20Graph).md)
 
 
 ### Shape Analysis

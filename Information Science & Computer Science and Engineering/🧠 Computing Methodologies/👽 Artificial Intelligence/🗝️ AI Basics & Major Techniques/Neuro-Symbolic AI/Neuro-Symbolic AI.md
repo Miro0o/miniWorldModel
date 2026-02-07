@@ -44,7 +44,9 @@
 In 2025, the adoption of neurosymbolic AI, an approach that integrates neural networks with symbolic reasoning, increased in response to the need to address [hallucination](https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\) "Hallucination (artificial intelligence)") issues in [large language models](https://en.wikipedia.org/wiki/Large_language_model "Large language model"). For example, Amazon implemented Neurosymbolic AI in its Vulcan warehouse robots and Rufus shopping assistant to enhance accuracy and decision-making.
 
 
-### Applications
+### Approaches
+> 🔗 https://en.wikipedia.org/wiki/Neuro-symbolic_AI#Approaches
+
 Approaches for integration are diverse.[16] Henry Kautz's taxonomy of neuro-symbolic architectures[17] follows, along with some examples:
 - Symbolic Neural symbolic is the current approach of many neural models in natural language processing, where words or subword tokens are the ultimate input and output of large language models. Examples include BERT, RoBERTa, and GPT-3.
 - Symbolic[Neural] is exemplified by AlphaGo, where symbolic techniques are used to invoke neural techniques. In this case, the symbolic approach is Monte Carlo tree search and the neural techniques learn how to evaluate game positions.
@@ -54,6 +56,19 @@ Approaches for integration are diverse.[16] Henry Kautz's taxonomy of neuro-symb
 - Neural[Symbolic] according to Kautz, this approach embeds true symbolic reasoning inside a neural network. These are tightly-coupled neural-symbolic systems, in which the logical inference rules are internal to the neural network. This way, the neural network internally computes the inference from the premises and learns to reason based on logical inference systems. Early work on connectionist modal and temporal logics by Garcez, Lamb, and Gabbay [21] is aligned with this approach.
 
 These categories are not exhaustive, as they do not consider multi-agent systems. In 2005, Bader and Hitzler presented a more fine-grained categorization that took into account, e.g., whether the use of symbols included logic and, if so, whether the logic was propositional or first-order logic.[22] The 2005 categorization and Kautz's taxonomy above are compared and contrasted in a 2021 article.[17] Sepp Hochreiter argued that Graph Neural Networks "...are the predominant models of neural-symbolic computing"[23] since "[t]hey describe the properties of molecules, simulate social networks, or predict future states in physical and engineering applications with particle-particle interactions."[24]
+
+
+### Implementations
+> 🔗 https://en.wikipedia.org/wiki/Neuro-symbolic_AI#Implementations
+
+Implementations of neuro-symbolic approaches include:
+- AllegroGraph: an integrated Knowledge Graph based platform for neuro-symbolic application development.[33][34][35]
+- Scallop: a language based on Datalog that supports differentiable logical and relational reasoning. Scallop can be integrated in Python and with a PyTorch learning module.[36]
+- Logic Tensor Networks: encode logical formulas as neural networks and simultaneously learn term encodings, term weights, and formula weights.
+- DeepProbLog: combines neural networks with the probabilistic reasoning of ProbLog.
+- Abductive Learning: integrates machine learning and logical reasoning in a balanced-loop via abductive reasoning, enabling them to work together in a mutually beneficial way.[37]
+- SymbolicAI: a compositional differentiable programming library.
+- Explainable Neural Networks (XNNs): combine neural networks with symbolic hypergraphs and trained using a mixture of backpropagation and symbolic learning called induction.[38]
 
 
 

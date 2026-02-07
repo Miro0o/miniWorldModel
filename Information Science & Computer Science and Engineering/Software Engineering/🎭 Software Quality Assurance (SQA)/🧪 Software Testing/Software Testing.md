@@ -12,6 +12,9 @@
 ↗ [Security Audit & Security Audit Trail](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 - ↗ [Code Review](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SRLC (Software Release Life Circle) & Versioning](../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SRLC%20(Software%20Release%20Life%20Circle)%20&%20Versioning.md)
+
 ↗ [Software Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software (Program) Techniques & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 - ↗ [Software Vulnerability & Weakness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
@@ -61,6 +64,13 @@ TOC
     - [Additional resources](https://appsec.guide/docs/fuzzing/resources/)
 
 
+https://www.fuzzingbook.org/html/Intro_Testing.html
+There is a large number of works on software testing and analysis.
+- An all-new modern, comprehensive, and online textbook on testing is ["Effective Software Testing: A Developer's Guide"](https://www.effective-software-testing.com/) [Maurício Aniche, 2022](https://www.effective-software-testing.com/). Much recommended!
+- For this book, we are also happy to recommend "Software Testing and Analysis" [Pezzè _et al_, 2008](http://ix.cs.uoregon.edu/~michal/book/) as an introduction to the field; its strong technical focus very well fits our methodology.
+- Other important must-reads with a comprehensive approach to software testing, including psychology and organization, include "The Art of Software Testing" [Myers _et al_, 2004](https://dl.acm.org/citation.cfm?id=983238) as well as "Software Testing Techniques" [Beizer _et al_, 1990](https://dl.acm.org/citation.cfm?id=79060).
+
+
 ### Other Resources
 
 
@@ -75,6 +85,12 @@ TOC
 - executing a program or application with the intent of examining behavior
 - reviewing the deployment infrastructure and associated scripts and automation
 - take part in production activities by using monitoring and observability techniques
+
+> [!TIP]
+> 🔗 https://www.fuzzingbook.org/html/Intro_Testing.html
+> **Introduction to Software Testing**
+> 
+> Before we get to the central parts of the book, let us introduce essential concepts of software testing. Why is it necessary to test software at all? How does one test software? How can one tell whether a test has been successful? How does one know if one has tested enough? In this chapter, let us recall the most important concepts, and at the same time get acquainted with Python and interactive notebooks.
 
 
 ### Error, Faults and Failures
@@ -118,7 +134,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 ### 🌊 Testing Process / Testing Model
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 Especially pay attention to V Model & W Model.
 
 

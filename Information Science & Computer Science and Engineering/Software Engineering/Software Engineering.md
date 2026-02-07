@@ -105,7 +105,7 @@ A software process is the set of activities and associated outcome that produce 
 ### Software Process Model
 A software life cycle model (also termed process model) is a pictorial and diagrammatic representation of the software life cycle. A life cycle model represents all the methods required to make a software product transit through its life cycle stages. It also captures the structure in which these methods are to be undertaken.
 
-See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 
 ### Software Management
@@ -115,7 +115,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 
 ### Software Design & Development
-↗️ [Software Development Pattern](Software%20Development%20Pattern/Software%20Development%20Pattern.md)
+↗️ [Software Development Norms & Patterns](Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
 ↗ [Web Application System Architecture Design Pattern](☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
 
 ↗ [Application Software Engineering](☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
