@@ -1,5 +1,9 @@
 # miniWorldModel (beta)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
+
+---
 While learning computer science, I wanted a way to take notes so that my thoughts sorted out. I tried several notebook applications and mind-mapping tools, but they felt weak and restrictive for the kind of structured thinking I needed. Thanks to Obsidian’s powerful customization and linking capabilities, I decided to build my own note system on it. This repository is the result.
 
 The notes are structured as a **giant mind map**. Each `md` file acts as a leaf node, while folders represent parent nodes in the hierarchy. Inside each `md` file, there are many 🔗 [bidirectional internal links](https://help.obsidian.md/links) at the paragraph level, which function like the connections between nodes in a traditional mind map.
@@ -239,3 +243,11 @@ By my intention, a really good visualization would be the combination of the abo
 At the moment miniWorldModel is only in its beta version. I don't expect too much attention in the short future as well, since my studying life is still pretty hectic and I may not have time for all the promotion and stuff. But anyway I made some starts in getting it ready for others to read. Hopefully this note would look nicer in the future.
 
 Again, the notes might contain lots of errors and inaccuracy. Please read it as a friend sharing his study notes to you.
+
+
+
+## License
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
