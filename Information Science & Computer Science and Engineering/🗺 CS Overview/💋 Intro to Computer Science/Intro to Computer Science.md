@@ -503,7 +503,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 			1. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 				1. ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 				2. ↗ [Classical Logic (Standard Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-4. What is computation? What is a program /algorithm? What is a computer (theoretically)?
+4. What is computation? What is a computer (theoretically)? Computer language and program /algorithm?
 	1. ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 		1. ↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 		2. ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
@@ -515,8 +515,9 @@ These questions, from general to specific, track my path in learning CS. The lin
 		2. ↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 	4. ↗ [Proof Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 		1. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
-	5. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
-5. What is a computer and how is it designed & constructed? (4 aspects: hardware, software, policies & protocols, people)
+	5. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+	6. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+5. What is a computer in the sense of its design & construction? (4 aspects: hardware, software, policies & protocols, people/ user)
 	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md) | ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md) |↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	2. What composes a computer? /How computer is designed in terms of hardware?
 		1. ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
@@ -588,7 +589,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		3. ↗ [Web Browser Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 			1. ↗ [Google Chrome & Chromium](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Google%20Chrome%20&%20Chromium.md)
 			2. ↗ [Mozilla Firefox](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Mozilla%20Firefox.md)
-6. How to apply computer into solving real world problems? Below lists (some) CS fields and related topics:
+6. How to apply the power of computer into solving real world problems? Below lists (some) CS fields and related topics:
 	1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 		2. ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 		3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
@@ -628,7 +629,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		5. ↗ [Web 3.0 & Decentralized Finance](../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md) 💸
 		6. ↗ [Quantitative Investment & Computational Finance](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/🤑%20Quantitative%20Investment%20&%20Computational%20Finance/Quantitative%20Investment%20&%20Computational%20Finance.md) 💸
 		7. etc.
-7. ⭐ How to improve our computer /information system? (theory perspective; system perspective; application perspective)
+7. ⭐ How to improve computer /information system? (theory perspective; system perspective; application perspective)
 	1. **Application**: how to use existing computer to solve new problems?
 	2. **Interaction**: how to make interactions with human more smooth?
 	3. **Performance**: how to improve the performance?
