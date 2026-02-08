@@ -130,6 +130,7 @@ AI
 
 
 ## Specific Academical Areas in CS & IT
+> [!links]
 > ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
 > ↗ [🌲 Road To CS /CS & IT in Different Aspects](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#CS%20&%20IT%20in%20Different%20Aspects)
 > ↗ [Intro to Computer Science /The Domain Knowledge of CS](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
