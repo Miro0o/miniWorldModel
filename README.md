@@ -52,8 +52,11 @@ Initially, this note was only ment as a notebook for my undergraduate courses in
 
 Hence, I name this little notebook the miniWorldModel, for it represents my internal thinking of the whole universe. This thinking is what defines I as I, as in the famous saying of René Descartes' "I think, therefore I am", or "🔗 [cogito, ergo sum](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)" in its latin forms. In other words, this note is all my thinking of the universe, ergo my existence in the universe. If you are reading this, you are reading me.
 
-![](../../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2011.25.44.png)
-<small>A diagram illustrates what is world model and what is thought as the meaning of "intelligence". <br> Murphy, K. (2025). Reinforcement Learning: An Overview (No. arXiv:2412.05265). arXiv. <br> <a>https://doi.org/10.48550/arXiv.2412.05265</a></small>
+> [!TIP]
+> About self-awareness and intelligence, i thought about them a lot, as you can see them in my notes of ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). Below is a diagram explaining the relationship of world model and intelligence. (The diagram is not shown on github webpage 😄)
+> 
+> ![](../../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2011.25.44.png)
+> <small>A diagram illustrates what is world model and what is thought as the meaning of "intelligence". <br> Murphy, K. (2025). Reinforcement Learning: An Overview (No. arXiv:2412.05265). arXiv. <br> <a>https://doi.org/10.48550/arXiv.2412.05265</a></small>
 
 This note is not meant for deep in everything, instead it tries to cover as many things as possible, and then, most importantly, framework all these things under one cognitive model, my cognitive model. That being said, the note still has some depth in some areas, as I'm still actively learning in CS.
 
@@ -61,6 +64,9 @@ This repo has been public since I created it 3 years ago. The notes, however, ha
 
 I was born and raised in 🔗 [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang), China. Hence, in this notes there would be some Chinese once in a while. However, the majority of the contents are in English. So it would be accessible to most people in this world as well.
 
+In all, this miniWorldModel is just me organizing the knowledge I learned and thoughts I once had. Although I tried my best to be precise and rigorous, there are inevitably errors and inaccuracies.
+
+Hope my notes would be an inspiration for you.
 
 
 
@@ -138,7 +144,7 @@ This whole notebook is still heavily about computer science.
 ### A Glimpse of the Notebook
 As i repeatedly stress, this entire notebook is structured as a mind map, on top of which are enormous links linking those leaf nodes, like illustrated in the beginning of this file. Although this concept and all the relationships between files are very clear in my head, I find it very hard to present to other people. One big reason is the lack of existing tools /software to visualize the whole notebook. 
 
-Below are the screenshots (you can scroll right) from the native plugin 🔗 [graph view]() of the notebook. This graph view looks pretty cool, but it doesn't show the nodes in the hierarchical way as they are.
+Below are the screenshots (if you are inside obsidian you can scroll right to see more pics, since they are displayed in carousel style) from the native plugin 🔗 [graph view]() of the notebook. This graph view looks pretty cool, but it doesn't show the nodes in the hierarchical way as they are.
 
 <div style="
   display: flex;
