@@ -182,7 +182,44 @@ Below are the screenshots (you can scroll right) from the native plugin 🔗 [gr
 </div>
 
 
-Below 
+Below are screenshots I showing the structure of folders only as a mind map. I asked GPT 5.2 to generate this program for me.
+
+<div style="
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 10px;
+">
+
+  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.50.07.png"
+       style="
+         max-height: 600px;
+         border-radius: 8px;
+         scroll-snap-align: center;
+         flex-shrink: 0;
+       ">
+
+  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.54.54.png"
+       style="
+         max-height: 600px;
+         border-radius: 8px;
+         scroll-snap-align: center;
+         flex-shrink: 0;
+       ">
+
+  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.55.29.png"
+       style="
+         max-height: 600px;
+         border-radius: 8px;
+         scroll-snap-align: center;
+         flex-shrink: 0;
+       ">
+</div>
+
+
+But a really good visualization would be the combination of them two.
+
 
 
 ## The End
