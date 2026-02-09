@@ -22,6 +22,8 @@
 
 ↗ [Cybernetics & Control Theory](Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
+↗ [Cryptographic Protocols Modeling & Models of Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication.md)
+
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
 - ↗ [Markov Process & Markov Chain (MC)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -57,6 +59,21 @@ Introduction to Mathematical Modeling
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
 
 数学模型（mathematical model）是使用数学来将一个系统简化后予以描述。数学模型广泛应用在自然科学（如物理学、化学、生物学、宇宙学）、工程学科（如计算机科学，人工智能）、以及社会科学（如经济学、心理学、社会学和政治科学）上。科学家和工程师用模型来解释一个系统，研究不同组成部分的影响，以及对行为做出预测。常见的模型包括动态系统、概率模型、微分方程或赛局模型等等。描述不同对象的模型可能有相同的形式，同一个模型也可能包含了不同的抽象结构。
+
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_model
+
+A **mathematical model** is an [abstract](https://en.wikipedia.org/wiki/Abstract_and_concrete "Abstract and concrete") description of a concrete [system](https://en.wikipedia.org/wiki/System "System") using [mathematical](https://en.wikipedia.org/wiki/Mathematics "Mathematics") concepts and [language](https://en.wikipedia.org/wiki/Language_of_mathematics "Language of mathematics"). The process of developing a mathematical [model](https://en.wikipedia.org/wiki/Model "Model") is termed _**mathematical modeling**_. Mathematical models are used in many fields, including [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics"), [natural sciences](https://en.wikipedia.org/wiki/Natural_science "Natural science"), [social sciences](https://en.wikipedia.org/wiki/Social_science "Social science") and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering"). In particular, the field of [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research") studies the use of mathematical modelling and related tools to solve problems in business or military operations. A model may help to characterize a system by studying the effects of different components, which may be used to make predictions about behavior or solve specific problems.
+
+
+**Elements of a mathematical model**
+Mathematical models can take many forms, including [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_systems "Dynamical systems"), [statistical models](https://en.wikipedia.org/wiki/Statistical_model "Statistical model"), [differential equations](https://en.wikipedia.org/wiki/Differential_equations "Differential equations"), or [game theoretic models](https://en.wikipedia.org/wiki/Game_theory "Game theory"). These and other types of models can overlap, with a given model involving a variety of abstract structures. In many cases, the quality of a scientific field depends on how well the mathematical models developed on the theoretical side agree with results of repeatable experiments. Lack of agreement between theoretical mathematical models and experimental measurements often leads to important advances as better theories are developed. In the [physical sciences](https://en.wikipedia.org/wiki/Physical_sciences "Physical sciences"), a traditional mathematical model contains most of the following elements:
+1. [Governing equations](https://en.wikipedia.org/wiki/Governing_equation "Governing equation")
+2. Supplementary sub-models
+    1. Defining equations
+    2. [Constitutive equations](https://en.wikipedia.org/wiki/Constitutive_equation "Constitutive equation")
+3. Assumptions and constraints
+    1. [Initial](https://en.wikipedia.org/wiki/Initial_condition "Initial condition") and [boundary conditions](https://en.wikipedia.org/wiki/Boundary_condition "Boundary condition")
+    2. [Classical constraints](https://en.wikipedia.org/wiki/Constraint_\(classical_mechanics\) "Constraint (classical mechanics)") and [kinematic equations](https://en.wikipedia.org/wiki/Kinematics "Kinematics")
 
 
 ### Mathematical Modeling Process

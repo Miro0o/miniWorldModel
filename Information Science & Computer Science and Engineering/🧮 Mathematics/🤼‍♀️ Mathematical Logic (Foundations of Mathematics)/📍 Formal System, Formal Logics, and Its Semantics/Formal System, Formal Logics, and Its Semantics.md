@@ -192,10 +192,6 @@ Examples:
 - Modal logic ↔ Kripke frames
 From this view: Logics are **related species in a family**, not members of a single linear hierarchy.
 #### 0️⃣ Symbolic Notations
-##### Proof Systems & Logic Reasoning
-↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 ##### Zero-Order Language
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 ##### First-Order Language
@@ -268,6 +264,10 @@ From this view: Logics are **related species in a family**, not members of a sin
 > 
 > 哥德尔定理，它指出了形式化方法的局限性，任何包含初等算术$\Pi$的形式理论，都是不完全的，且自身的协调性无法在系统内部被证明。为了理解这句话，文中我们做出了严谨的定义，仔细建立了语法和语义之间的联系。
 > 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
+##### Deductive Reasoning, Logic Inference, & Proof Calculus
+↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
+↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 #### Gödel's Incompleteness Theorems ⭐
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)

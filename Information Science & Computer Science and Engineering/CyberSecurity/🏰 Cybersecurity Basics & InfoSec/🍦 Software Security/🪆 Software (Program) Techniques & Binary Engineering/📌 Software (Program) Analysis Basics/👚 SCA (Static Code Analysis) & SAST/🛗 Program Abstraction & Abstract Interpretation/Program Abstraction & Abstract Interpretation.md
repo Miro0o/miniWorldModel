@@ -10,6 +10,13 @@
 ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 
+### Learning Resources
+https://www.isa-afp.org/browser_info/current/AFP/Worklist_Algorithms/document.pdf
+Worklist Algorithms Simon Wimmer, Peter Lammich
+February 6, 2026
+This entry verifies a number of worklist algorithms for exploring sets of reachable sets of transition systems with subsumption relations. Informally speaking, a node a is subsumed by a node b if everything that is reachable from a is also reachable from b. Starting from a general abstract view of transition systems, we gradually add structure while refining our algorithms to more efficient versions. In the end, we obtain efficient imperative algorithms, which operate on a shared data structure to keep track of explored and yet-to-be-explored states, similar to the algorithms used in timed automata model checking [2, 1]. This entry forms part of the work described in a paper by the author of this entry [4] and a PhD thesis [3].
+
+
 ### Other Resources
 
 
@@ -391,6 +398,7 @@ case jvm.Ifz(condition=con, target=target):
 
 "Unbounded static abstraction" is a concept in program analysis, referring to the challenge of creating a finite, static model of a program that can handle potentially infinite, or "unbounded," data, such as memory from the heap. Unlike static memory, which has a fixed size, heap memory can grow unpredictably, and standard analysis techniques struggle to represent it with a finite abstraction. Static analysis must therefore use approximation techniques (abstraction here) to model this unbounded behavior while remaining sound and terminating.
 #### Fixed-Point Axiom
+↗ [Function & Mapping of Set](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 #### The Widening Operator (The Interval Abstraction as An Example)
 > Please first check below "👉 Interval Abstraction -- Unbounded Analysis"
@@ -434,7 +442,7 @@ Now, when running our analysis, we use the $\nabla$ operator instead of the $\sq
 ##### Proving Widening
 Proving that a widening operator is correct requires some carefulness.  
 We have to prove two properties:
-1. That $\nabla$ increases in size, and  
+1. That $\nabla$ increases in size, and
 2. That we can only apply the $\nabla$ operator a finite number of times before a fixpoint is reached.
 $$
 \begin{aligned} & \forall a, b \in A. \; a \subseteq (a \nabla b) \land b \subseteq (a \nabla b) \\
@@ -444,7 +452,7 @@ $$
 = ((a_0 \nabla a_1) \nabla a_2) \dots \nabla a_{n+1}
 \end{aligned}
 $$
-##### The Worklist Algorithm
+##### The Worklist Algorithm 🤔
 > ([Nielson (2020)](https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#ref:nielson2020program) at page 59)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.4
 
@@ -473,6 +481,8 @@ class StateSet[A]:
 ```
 
 This approach uses significantly less instructions than running all steps every time, and still produce the same results.
+
+> 🔗 https://martinsteffen.github.io/compilerconstruction/worklistalgos/
 ##### The Reverse Post-Order Traversal
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:3.4.1
 

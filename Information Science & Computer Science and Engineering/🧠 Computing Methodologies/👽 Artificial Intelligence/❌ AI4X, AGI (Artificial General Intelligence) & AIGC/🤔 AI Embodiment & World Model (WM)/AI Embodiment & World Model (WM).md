@@ -17,12 +17,22 @@
 
 
 ### List of World Models
+https://www.worldlabs.ai/
+
+https://lumalabs.ai/genie?view=create
+
 https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/
 Genie 3: A new frontier for world models
 Jack Parker-Holder and Shlomi Fruchter
 
 https://arxiv.org/abs/2506.09985
 V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning
+
+https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
+We introduce HunyuanWorld-Voyager, a novel video diffusion framework that generates world-consistent 3D point-cloud sequences from a single image with user-defined camera path. Voyager can generate 3D-consistent scene videos for world exploration following custom camera trajectories. It can also generate aligned depth and RGB video for efficient and direct 3D reconstruction.
+
+
+### Learning Resources
 
 
 ### Other Resources
@@ -47,12 +57,27 @@ Embodied AI（具身智能）入门的路径以及高质量信息的总结, 期�
     - HuggingFace LeRobot (Europe, check the Discord): [website](https://github.com/huggingface/lerobot)
     - K-scale labs (US, check the Discord): [website](https://kscale.dev/)
 
-https://www.worldlabs.ai/
-
-https://lumalabs.ai/genie?view=create
-
-https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
-We introduce HunyuanWorld-Voyager, a novel video diffusion framework that generates world-consistent 3D point-cloud sequences from a single image with user-defined camera path. Voyager can generate 3D-consistent scene videos for world exploration following custom camera trajectories. It can also generate aligned depth and RGB video for efficient and direct 3D reconstruction.
+https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file
+Awesome-World-Model Awesome
+A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
+![](../../../../../Assets/Pics/Pasted%20image%2020260209103323.png)
+- [Roadmap of world models in deep learning era](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#Roadmap-of-world-models-in-deep-learning-era)
+	- ![](../../../../../Assets/Pics/Pasted%20image%2020260209103446.png)
+    - [Model-based RL](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#Model-based-RL)
+    - [Self-supervised learning](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#Self-supervised-learning)
+    - [LLM/MLLM](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#LLMMLLM)
+    - [Interactive 3D environment](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#Interactive-3D-environment)
+- [3 Implicit Representation of the External World](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#3-implicit-representation-of-the-external-world)
+    - [3.1 World Model in Decision Making](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#31-World-Model-in-Decision-Making)
+    - [3.2 World Knowledge Learned by Models](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#32-World-Knowledge-Learned-by-Models)
+- [4 Future Prediction of the Physical World](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#4-future-predictions-of-the-external-world)
+    - [4.1 World Model as Video Generation](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#41-World-Model-as-Video-Generation)
+    - [4.2 World Model as Embodied Environment](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#42-World-Model-as-Embodied-Environment)
+- [5 Applications of World Models](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#5-applications-of-world-models)
+    - [5.1 Game Intelligence](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#51-Game-Intelligence)
+    - [5.2 Embodied Intelligence](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#52-Embodied-Intelligence)
+    - [5.3 Urban Intelligence](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#53-Urban-Intelligence)
+    - [5.4 Societal Intelligence](https://github.com/tsinghua-fib-lab/World-Model?tab=readme-ov-file#54-Societal-Intelligence)
 
 
 
@@ -72,3 +97,11 @@ We introduce HunyuanWorld-Voyager, a novel video diffusion framework that genera
 - Our model's consistency and style adherence now make it possible to build out large worlds by composing individual generations, as shown in the banner video above and the examples at the end of this post.
 
 [Genie 3: A new frontier for world models 5 August 2025 Jack Parker-Holder and Shlomi Fruchter]: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+
+https://worldmodels.github.io/
+World Models --  Can agents learn inside of their own dreams?
+[David Ha](https://twitter.com/hardmaru)[Google Brain](https://g.co/brain)[Tokyo, Japan](https://g.co/brain)
+[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)[NNAISENSE](https://nnaisense.com/)[Swiss AI Lab, IDSIA (USI & SUPSI)](http://www.idsia.ch/)
+March 27, 2018
+[NIPS 2018](https://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution) | [Paper](https://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution) | [YouTube](https://youtu.be/HzA8LRqhujk) | [Talk](https://youtu.be/HzA8LRqhujk) | [PDF](https://arxiv.org/abs/1803.10122)
+- We explore building generative neural network models of popular reinforcement learning environments. Our _world model_ can be trained quickly in an unsupervised manner to learn a compressed spatial and temporal representation of the environment. By using features extracted from the world model as inputs to an agent, we can train a very compact and simple policy that can solve the required task. We can even train our agent entirely inside of its own dream environment generated by its world model, and transfer this policy back into the actual environment.

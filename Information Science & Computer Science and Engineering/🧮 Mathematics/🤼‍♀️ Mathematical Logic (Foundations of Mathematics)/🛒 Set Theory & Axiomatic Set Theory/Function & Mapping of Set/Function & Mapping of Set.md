@@ -27,6 +27,9 @@
 
 
 ### Formal Definition: Functions
+> [!links]
+> ↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
+
 >  📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 
 **Functions** are central to mathematics. ==A function is an object that sets up an *input–output relationship*.== A function takes an input and produces an output. In every function, the same input always produces the same output. If f is a function whose output value is b when the input value is a, we write $$f(a) = b.$$
@@ -262,14 +265,44 @@ The least fixed point theorem, often associated with the **Knaster–Tarski theo
 - **Result:** The theorem states that the set of fixed points of such a function is itself a complete lattice, and consequently, there is a unique _least fixed point_ (a fixed point that is less than or equal to every other fixed point in the given order) and a greatest fixed point.
 - **Applications:** This theorem is crucial in computer science, particularly in denotational semantics, program analysis, and formal logic, to define the meaning of recursive functions and loops. The least fixed point characterizes the minimal or "most-defined" solution in these contexts.
 ###### Fixed Point Iteration and Contraction Mapping Theorem (Banach's Fixed Point Theorem) ⭐
-↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
-↗ [Banach Space](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Banach%20Space/Banach%20Space.md)
-↗ [Numerical Analysis](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
+> [!links]
+> ↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
+> ↗ [Banach Space](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Banach%20Space/Banach%20Space.md)
+> ↗ [Numerical Analysis](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Banach_fixed-point_theorem
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), the **Banach fixed-point theorem** (also known as the **contraction mapping theorem** or **contractive mapping theorem** or **Banach–Caccioppoli theorem**) is an important [tool](https://en.wikipedia.org/wiki/Convergence_proof_techniques#contraction_mapping "Convergence proof techniques") in the theory of [metric spaces](https://en.wikipedia.org/wiki/Metric_space "Metric space"); it guarantees the existence and uniqueness of [fixed points](https://en.wikipedia.org/wiki/Fixed_point_\(mathematics\) "Fixed point (mathematics)") of certain self-maps of metric spaces and provides a constructive method to find those fixed points. It can be understood as an abstract formulation of [Picard's method of successive approximations](https://en.wikipedia.org/wiki/Fixed-point_iteration "Fixed-point iteration"). The theorem is named after [Stefan Banach](https://en.wikipedia.org/wiki/Stefan_Banach "Stefan Banach") (1892–1945) who first stated it in 1922.
+
+---
+_Definition._ Let $(X,d)$ be a [metric space](https://en.wikipedia.org/wiki/Metric_space "Metric space") with metric $d(x,y)$. Then a map $T:X→X$ is called a [contraction mapping](https://en.wikipedia.org/wiki/Contraction_mapping "Contraction mapping") on $X$ if there exists a nonnegative constant $q<1$ such that $$d(T(x),T(y))\leq q\,d(x,y)$$for all $x,y∈X.$
+
+> **Banach fixed-point theorem.** Let $(X,d)$ be a non-empty [complete metric space](https://en.wikipedia.org/wiki/Complete_metric_space "Complete metric space") with a contraction mapping $T:X→X$. Then $T$ admits a unique [fixed point](https://en.wikipedia.org/wiki/Fixed_point_\(mathematics\) "Fixed point (mathematics)") $x^∗∈X$, meaning $T(x^∗)=x^∗$. Furthermore, $x^∗$ can be found as follows: start with an arbitrary element $x_0∈X$ and define $x_n=T(x_{n−1})$ for $n≥1$. Then $\lim _{n\to \infty }x_{n}=x^{*}$.
+
+
+_Remark 1._ The following inequalities are equivalent and describe the [speed of convergence](https://en.wikipedia.org/wiki/Rate_of_convergence "Rate of convergence"):
+$$ {\begin{aligned}d(x^{*},x_{n})&\leq q^{n}d(x^{*},x_{0}),\\[5pt]d(x^{*},x_{n})&\leq {\frac {q^{n}}{1-q}}d(x_{1},x_{0}),\\[5pt]d(x^{*},x_{n+1})&\leq {\frac {q}{1-q}}d(x_{n+1},x_{n}),\\[5pt]d(x^{*},x_{n+1})&\leq q\,d(x^{*},x_{n}).\end{aligned}}$$
+
+The value q![{\displaystyle q}](https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d) is called a _[Lipschitz constant](https://en.wikipedia.org/wiki/Lipschitz_constant "Lipschitz constant")_ for $T$, and a minimal such $q$ is sometimes called "the best Lipschitz constant" of $T$.
+
+
+_Remark 2._ The condition $d(T(x),T(y))<d(x,y)$ for all $x≠y$ is in general not enough to ensure the existence of a fixed point, as is shown by the mapT: $$T:[1,\infty )\to [1,\infty ),\,\,T(x)=x+{\tfrac {1}{x}}\,,$$
+which lacks a fixed point. However, if $X$ is [compact](https://en.wikipedia.org/wiki/Compact_space "Compact space"), then this weaker condition does imply the existence and uniqueness of a fixed point which can be easily found as a minimizer of $d(x,T(x))$: indeed, a minimizer exists by compactness, and must be a fixed point. It then easily follows that the fixed point is the limit of any sequence of iterations of $T$.
+
+
+_Remark 3._ When using the theorem in practice, the most difficult part is typically to define $X$ properly so that $T(X)\subseteq X$.
 ###### Brouwer's Fixed-Point Theorem
+> 🔗 https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem
+
+**Brouwer's fixed-point theorem** is a [fixed-point theorem](https://en.wikipedia.org/wiki/Fixed-point_theorem "Fixed-point theorem") in [topology](https://en.wikipedia.org/wiki/Topology "Topology"), named after [L. E. J. (Bertus) Brouwer](https://en.wikipedia.org/wiki/Luitzen_Egbertus_Jan_Brouwer "Luitzen Egbertus Jan Brouwer"). It states that for any [continuous function](https://en.wikipedia.org/wiki/Continuous_function "Continuous function") $f$ mapping a nonempty [compact](https://en.wikipedia.org/wiki/Compactness "Compactness") [convex set](https://en.wikipedia.org/wiki/Convex_set "Convex set") to itself, there is a point $x_0$ such that $f(x_{0})=x_{0}$. The simplest forms of Brouwer's theorem are for continuous functions $f$ from a closed interval I![{\displaystyle I}](https://wikimedia.org/api/rest_v1/media/math/render/svg/535ea7fc4134a31cbe2251d9d3511374bc41be9f) in the real numbers to itself or from a closed [disk](https://en.wikipedia.org/wiki/Disk_\(mathematics\) "Disk (mathematics)") $D$ to itself. A more general form than the latter is for continuous functions from a nonempty convex compact subset $K$ of [Euclidean space](https://en.wikipedia.org/wiki/Euclidean_space "Euclidean space") to itself.
+
+Among hundreds of [fixed-point theorems](https://en.wikipedia.org/wiki/Fixed-point_theorem "Fixed-point theorem"), Brouwer's is particularly well known, due in part to its use across numerous fields of mathematics. In its original field, this result is one of the key theorems characterizing the topology of Euclidean spaces, along with the [Jordan curve theorem](https://en.wikipedia.org/wiki/Jordan_curve_theorem "Jordan curve theorem"), the [hairy ball theorem](https://en.wikipedia.org/wiki/Hairy_ball_theorem "Hairy ball theorem"), the [invariance of dimension](https://en.wikipedia.org/wiki/Invariance_of_dimension "Invariance of dimension") and the [Borsuk–Ulam theorem](https://en.wikipedia.org/wiki/Borsuk%E2%80%93Ulam_theorem "Borsuk–Ulam theorem"). This gives it a place among the fundamental theorems of topology. The theorem is also used for proving deep results about [differential equations](https://en.wikipedia.org/wiki/Differential_equation "Differential equation") and is covered in most introductory courses on [differential geometry](https://en.wikipedia.org/wiki/Differential_geometry "Differential geometry"). It appears in unlikely fields such as [game theory](https://en.wikipedia.org/wiki/Game_theory "Game theory"). In economics, Brouwer's fixed-point theorem and its extension, the [Kakutani fixed-point theorem](https://en.wikipedia.org/wiki/Kakutani_fixed-point_theorem "Kakutani fixed-point theorem"), play a central role in the [proof of existence](https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model "Arrow–Debreu model") of [general equilibrium](https://en.wikipedia.org/wiki/General_equilibrium "General equilibrium") in market economies as developed in the 1950s by economics Nobel prize winners [Kenneth Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow "Kenneth Arrow") and [Gérard Debreu](https://en.wikipedia.org/wiki/G%C3%A9rard_Debreu "Gérard Debreu").
+
+The theorem was first studied in view of work on differential equations by the French mathematicians around [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9 "Henri Poincaré") and [Charles Émile Picard](https://en.wikipedia.org/wiki/Charles_%C3%89mile_Picard "Charles Émile Picard"). Proving results such as the [Poincaré–Bendixson theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Bendixson_theorem "Poincaré–Bendixson theorem") requires the use of topological methods. This work at the end of the 19th century opened into several successive versions of the theorem. The case of differentiable mappings of the _n_-dimensional closed ball was first proved in 1910 by [Jacques Hadamard](https://en.wikipedia.org/wiki/Jacques_Hadamard "Jacques Hadamard") and the general case for continuous mappings by Brouwer in 1911.
 ###### Least Fixed-point Theorem ⭐
 ↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
-完全偏序集上的连续函数具有最小不动点，这称之为最小不动点定理
+完全偏序集上的连续函数具有最小不动点，这称之为最小不动点定理。
 #### Equations Solving & Constrains Solving (and Optimization)
 ↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
