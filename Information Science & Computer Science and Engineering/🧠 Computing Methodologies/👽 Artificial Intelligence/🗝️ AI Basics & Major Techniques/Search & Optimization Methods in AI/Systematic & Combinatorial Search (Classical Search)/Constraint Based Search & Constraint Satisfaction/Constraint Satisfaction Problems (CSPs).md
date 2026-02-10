@@ -1,4 +1,4 @@
-# Constraint Solver Problems (CSPs) & Constraint Satisfaction
+# Constraint Satisfaction Problems (CSPs)
 
 [TOC]
 

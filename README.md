@@ -153,7 +153,7 @@ That being said, I give a very brief (and sketchy) index to miniWorldModel below
 - ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 - ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
 	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-		- ↗ [🥂 Welcome to CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🥂%20Welcome%20to%20CS.md)
+		- Information Science & Computer Science and Engineering
 			- ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 			- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 				- ↗ [🤔 Questions Leading my CS Study](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study)
@@ -164,7 +164,7 @@ That being said, I give a very brief (and sketchy) index to miniWorldModel below
 
 
 ### A Glimpse of the Notebook
-As i repeatedly stress, this entire notebook is structured as a mind map, on top of which are enormous links connecting those leaf nodes, like illustrated in the beginning of this readme. Although the entire hierarchy and all the relationships between files are clear in my head, I find it very hard to present to others of such structure. One big reason is the lack of existing tools /software to visualize the whole notebook. 
+As I repeatedly stress, this entire notebook is structured as a mind map, on top of which are enormous links connecting those leaf nodes, like illustrated in the beginning of this readme. Although the entire hierarchy and all the relationships between files are clear in my head, I find it very hard to present to others of such structure. One big reason is the lack of existing tools /software to visualize the whole notebook. 
 
 Below are the screenshots (if you are inside obsidian you can scroll right to see more pics, since they are displayed in carousel style) from the native plugin 🔗 [graph view]() of the notebook. This graph view looks pretty cool, but it doesn't show the nodes in the hierarchical way as they are.
 
