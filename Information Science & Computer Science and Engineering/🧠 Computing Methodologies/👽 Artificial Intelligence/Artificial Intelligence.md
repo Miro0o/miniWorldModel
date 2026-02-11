@@ -101,6 +101,13 @@ The following [outline](https://en.wikipedia.org/wiki/Outline_\(list\) "Outline
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+
+（感性，理性）X （思考，行动）
+or（感性，理性）X （认识，实践）
+- 感性思考
+- 理性思考
+- 感性思考指导下的行动
+- 理性思考指导下的行动
 #### Human Intelligence & Self-Awareness: Self vs Non-Self
 
 
@@ -112,6 +119,8 @@ The following [outline](https://en.wikipedia.org/wiki/Outline_\(list\) "Outline
 > ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 > ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 > ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20(VLA)%20Model/Vision-Language-Action%20(VLA)%20Model.md)
+
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
@@ -148,11 +157,35 @@ This chapter defines AI and establishes the cultural background against which it
 - AI has matured considerably compared to its early decades, both theoretically and methodologically. As the problems that AI deals with became more complex, the field moved from Boolean logic to probabilistic reasoning, and from hand-crafted knowledge to machine learning from data. This has led to improvements in the capabilities of real systems and greater integration with other disciplines. 
 - As AI systems find application in the real world, it has become necessary to consider a wide range of risks and ethical consequences.
 - In the longer term, we face the difficult problem of controlling superintelligent AI systems that may evolve in unpredictable ways. Solving this problem seems to necessitate a change in our conception of AI.
-#### Scale of Artificial Intelligence
+#### Foundations of AI
+##### Philosophy
+
+##### Mathematics
+
+##### Linguistics
+
+##### Economics
+
+##### Psychology
+
+##### Neuroscience
+
+##### Control Theory and Cybernetics
+
+##### Computer Science & Engineering
+
+#### Scale of (Artificial) Intelligent Levels
 > [!links]
 > ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
-#### AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+##### Performance Measures
+
+##### Rationality
+
+##### Sensuality
+
+#### 🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
@@ -169,10 +202,17 @@ This chapter has been something of a whirlwind tour of AI, which we have conceiv
 - The agent program implements the agent function. There exists a variety of basic agent program designs reflecting the kind of information made explicit and used in the decision process. The designs vary in efficiency, compactness, and flexibility. The appropriate design of the agent program depends on the nature of the environment.
 - Simple reflex agents respond directly to percepts, whereas model-based reflex agents maintain internal state to track aspects of the world that are not evident in the current percept. Goal-based agents act to achieve their goals, and utility-based agents try to maximize their own expected “happiness.”
 - All agents can improve their performance through learning.
-##### The Nature of Environments
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+
+![](../../../Assets/Pics/Screenshot%202026-02-10%20at%2023.47.11.png)
+
+##### (Task) Environments
 > [!links]
 > ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
 
+###### Specifying (Task) Environments
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 
@@ -182,7 +222,10 @@ In our discussion of the rationality of the simple vacuum-cleaner agent, we had 
 
 ...
 
----
+###### Modeling (Task) Environments & Properties of (Task) Environments ✅
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+
 The range of task environments that might arise in AI is obviously vast. We can, however, identify a fairly small number of dimensions along which task environments can be categorized. These dimensions determine, to a large extent, the appropriate agent design and the applicability of each of the principal families of techniques for agent implementation. First we list the dimensions, then we analyze several task environments to illustrate the ideas. The definitions here are informal; later chapters provide more precise statements and examples of each kind of environment.
 
 
@@ -201,7 +244,7 @@ The agent-design problems in multiagent environments are often quite different f
 
 Most real situations are so complex that it is impossible to keep track of all the unobserved aspects; for practical purposes, they must be treated as nondeterministic. Taxi driving is clearly nondeterministic in this sense, because one can never predict the behavior of traffic exactly; moreover, one’s tires may blow out unexpectedly and one’s engine may seize up without warning. The vacuum world as we described it is deterministic, but variations can include nondeterministic elements such as randomly appearing dirt and an unreliable suction mechanism (Exercise 2.VFIN).
 
-One final note: the word ==**stochastic**== is used by some as a synonym for “**nondeterministic**,” but we make a distinction between the two terms; we say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g., “there’s a 25% chance of rain tomorrow”) and “nondeterministic” if the possibilities are listed without being quantified (e.g., “there’s a chance of rain tomorrow”).
+One final note: the word ==**stochastic**== is used by some as a synonym for “**==nondeterministic==**,” but we make a distinction between the two terms; we say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g., “there’s a 25% chance of rain tomorrow”) and “nondeterministic” if the possibilities are listed without being quantified (e.g., “there’s a chance of rain tomorrow”).
 
 
 ==**Episodic** vs. **sequential**==: In an episodic task environment, the agent’s experience is di- vided into atomic episodes. In each episode the agent receives a percept and then performs a single action. Crucially, the next episode does not depend on the actions taken in previous episodes. Many classification tasks are episodic. For example, an agent that has to spot defective parts on an assembly line bases each decision on the current part, regardless of previous decisions; moreover, the current decision doesn’t affect whether the next part is defective. In sequential environments, on the other hand, the current decision could affect all future decisions.4 Chess and taxi driving are sequential: in both cases, short-term actions can have long-term consequences. Episodic environments are much simpler than sequential environments because the agent does not need to think ahead.
@@ -223,14 +266,13 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 > The hardest case is partially observable, multiagent, nondeterministic, sequential, dynamic, continuous, and unknown. Taxi driving is hard in all these senses, except that the driver’s environment is mostly known. Driving a rented car in a new country with unfamiliar geography, different traffic laws, and nervous passengers is a lot more exciting.
 > 
 > The code repository associated with this book (🔗 [aima.cs.berkeley.edu](https://aima.cs.berkeley.edu/)) includes multiple environment implementations, together with a general-purpose environment simulator for evaluating an agent’s performance. Experiments are often carried out not for a single environment but for many environments drawn from an environment class. For example, to evaluate a taxi driver in simulated traffic, we would want to run many simulations with different traffic, lighting, and weather conditions. We are then interested in the agent’s average performance over the environment class.
-##### The Internal Structure of Agents
+##### The Internal Structure of Agents & Agent Models
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
 > - ↗ [Variables-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
 > - ↗ [Logic-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
 > - ↗ [State-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
-
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -242,12 +284,11 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.25.59.png)
 
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.13.png)
-###### Learning Agents
+###### Learning Agents & Autonomy
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.30.png)
 ###### How the components of agent programs work
-
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.31.10.png)
-#### AI With Self-Awareness: Self vs Non-Self (Broad AI)
+#### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
 
 
 

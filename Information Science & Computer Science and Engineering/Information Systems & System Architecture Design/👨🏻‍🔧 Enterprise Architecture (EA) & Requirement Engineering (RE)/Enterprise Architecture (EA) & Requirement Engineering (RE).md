@@ -99,21 +99,33 @@ Modeling tools:
 
 
 ## Intro
-### Enterprise Architecture (EA)
+
+
+
+## Requirement Engineering (RE)
+### Reasoning & Analysis
+
+
+
+## Enterprise Architecture (EA)
 > 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
 
 Enterprise Architecture (EA) is a discipline which has evolved to structure the business and its alignment with the IT systems. The [Zachman Framework](https://www.visual-paradigm.com/features/zachman-framework-tools/) is an enterprise ontology and is a fundamental structure for Enterprise Architecture which provides a way of viewing an enterprise and its information systems from different perspectives, and showing how the components of the enterprise are related.
 
-"Enterprise Architecture is the process used by a business to make explicit representations of enterprise operations and resources, rather than relying on implicit notions or understanding in individual managers' heads." --- Stan Locke
+> [!quote]
+> "Enterprise Architecture is the process used by a business to make explicit representations of enterprise operations and resources, rather than relying on implicit notions or understanding in individual managers' heads." 
+> 
+> --- Stan Locke
+> 
+> Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a holistic approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes." 
+> 
+> -- Federation of EA Professional Organizations, Common Perspectives on Enterprise Architecture, Architecture and Governance Magazine, Issue 9-4, November 2013 (2013). Retrieved on November 19, 2013
 
 ![](../../../Assets/Pics/Pasted%20image%2020260204085431.png)
 <small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
 
 ![](../../../Assets/Pics/Pasted%20image%2020260204085445.png)
 <small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
-
-
-### Requirement Engineering (RE)
 
 
 

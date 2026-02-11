@@ -46,6 +46,8 @@
 ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 
+↗ [Enterprise Architecture (EA) & Requirement Engineering (RE)](../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE).md)
+
 
 ### Other Resources
 https://m3challenge.siam.org/what-is-math-modeling/
