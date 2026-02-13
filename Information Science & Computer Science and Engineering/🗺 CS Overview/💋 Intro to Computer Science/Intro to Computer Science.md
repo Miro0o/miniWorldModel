@@ -591,7 +591,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 			2. ↗ [Mozilla Firefox](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Mozilla%20Firefox.md)
 6. How to apply the power of computer into solving real world problems? Below lists (some) CS fields and related topics:
 	1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-		2. ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+		2. ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 		3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		4. ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 		5. ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Graph Theory](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 ↗ [Graph Basics](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 

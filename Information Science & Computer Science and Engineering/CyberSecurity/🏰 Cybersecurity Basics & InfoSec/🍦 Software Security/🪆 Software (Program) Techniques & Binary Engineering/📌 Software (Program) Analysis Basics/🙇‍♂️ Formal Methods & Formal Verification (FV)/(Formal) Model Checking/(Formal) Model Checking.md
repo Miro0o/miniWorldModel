@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Complexity Theory & Computational Complexity](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 ↗ [Computationally Hard Problems](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
@@ -238,7 +238,7 @@ Model checking. Model checking originates from the independent work of two pairs
 
 ## 1️⃣ System Modeling
 > [!links]
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Theory of Computation](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 > - ↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 > ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)

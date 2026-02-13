@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Computer (Host) System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 ↗ [Computer Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 

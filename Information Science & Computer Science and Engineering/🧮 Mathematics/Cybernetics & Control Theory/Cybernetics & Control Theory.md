@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Complex System Science & Systems Theory](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
@@ -181,7 +181,7 @@ Intelligent control can be divided into the following major sub-domains:
 
 ## Modeling in Control Theory
 > [!links]
-> ↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
 
 
 

@@ -11,7 +11,7 @@
 
 ↗ [Category Theory (范畴论)](../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
-↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Cryptographic Protocols Modeling & Models of Communication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication.md)
 

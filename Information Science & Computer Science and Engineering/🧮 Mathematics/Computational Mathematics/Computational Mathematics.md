@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
 
 ↗ [Numerical Analysis](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)

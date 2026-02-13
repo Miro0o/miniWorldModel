@@ -156,6 +156,42 @@ Program Understanding
 ↗ [Lattice (Order Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
 
+### Software Analysis Techniques Taxonomy
+![Language_and_Programming_Language_Processing | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+<small>Static Code Analysis</small>
+
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+<small>Dynamic Code Analysis</small>
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020251018223257.png)
+<small>I really like this slide by Julian Cohen's Contemporary Automatic Program Analysis talk (<a>https://www.youtube.com/watch?v=P0nHId1umvY</a>). In a nutshell, people like to divide program analysis into two broad categories of static and dynamic analysis. But there is really a broad spectrum of program analysis techniques that range from static to dynamic and manual to fully automatic. Symbolic execution is an interesting technique that falls somewhere in between static and dynamic analysis and is generally applied as a fully automatic approach. <br>
+<a>https://stackoverflow.com/a/40534830/16542494</a> </small>
+
+
+> 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
+
+- Manual vs Automatic Analysis
+	- The difference between manual and automatic analysis, is whether we have a well-defined procedure for analyzing the code.
+	- In many cases manual inspection is a crucial companion to automatic analysis. If taken to the extreme, we can actually require the user of the tool to prove to us that the code is correct. Now we only have to check the proof, which case we are entering the world of _Program Verification_.
+- Syntactic (↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md), ↗ [Syntactic Analysis (Parsing)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)) vs Semantic Analysis (↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
+	- The difference between a syntactic and a semantic analysis is whether we focus on the **structure** of the program or on the **meaning** of the program.
+	- The structure of the program or syntax is often represented as a tree of nodes as recognized by the parser. In contrast the meaning of the program or semantics is represented as a set of all possible traces of a program. Here trace means a sequence of states and operations possible by the program.
+	- In the realm of program analysis for security, most of the time we are talking about semantic analysis. Analysis below semantic analysis, like syntactic analysis and lexical analysis, are mostly used in ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md). 
+- ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md) 🆚 ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
+	- Finally we can differentiate between dynamic and static analysis. A dynamic analysis interpolates the meaning of the program from a single trace, where a static analysis tries to predict all possible behaviors.
+	- Dynamic analysis are often just executing the programs, and then reporting any behavior it exhibits. An dynamic analysis often have proof of the bad behavior. A dynamic analysis is **sound** if every behavior it finds is a real behavior, and **complete** if can find all behaviors.
+		- Dynamic analysis starts with one single initial state, and explore some states along the path from that initial state (not necessarily all states)
+	- Static analyses in contrast consider the entire programs, and then reports if the program is without bugs or problems. When a good static analysis says your program is good, it probably is, however, when it finds a potential bug, it can often not prove it to you. A static analysis is **sound** if every program it flags do exhibit some behavior, and **complete** if it flags all programs that contain the behavior.
+		- Static analysis starts with ALL initial states (at once), and then explore (hopefully) all states following. However, there is a distinction in how far (the depth) we explore in all following states, which further divides static analysis into bounded static analysis and unbounded static analysis.
+	- It is sometimes a great idea to do a mix of a dynamic and static analysis, in which case we call it a **_hybrid_ analysis**.
+
+
+**Interactive Application Security Testing (IAST)**
+> 🔗 https://en.wikipedia.org/wiki/Interactive_application_security_testing
+
+Interactive application security testing (abbreviated as IAST) is a security testing method that detects software vulnerabilities by interaction with the program coupled with observation and sensors. The tool was launched by several application security companies. It is distinct from static application security testing, which does not interact with the program, and dynamic application security testing, which considers the program as a black box. It may be considered a mix of both
+
+
 ### Evaluation of Program Analysis
 > [!links]
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
@@ -334,42 +370,6 @@ An individual proposition $\Phi$ is either a true positive, true negative, fal
 3. 动态分析辅助的静态分析（[论文链接](https://www.bodden.de/pubs/bss+11taming.pdf)）。这个不必多言，就是从动态分析中获取信息来辅助进行静态分析，它会有动态分析的优点，但是也因此引入了动态分析的缺点。
 
 Java native code难于分析的原因则是跨语言——最终会调用到C语言动态链接库中的代码。当前的一个解决思路是对关键的native code进行手动建模（用Java实现）。这里附上2020年的一个[研究进展](https://yanniss.github.io/native-issta20.pdf)。
-
-
-### Software Analysis Taxonomy
-![Language_and_Programming_Language_Processing | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
-<small>Static Code Analysis</small>
-
-![application_execution_and_computer_data_flow.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
-<small>Dynamic Code Analysis</small>
-
-![](../../../../../../Assets/Pics/Pasted%20image%2020251018223257.png)
-<small>I really like this slide by Julian Cohen's Contemporary Automatic Program Analysis talk (<a>https://www.youtube.com/watch?v=P0nHId1umvY</a>). In a nutshell, people like to divide program analysis into two broad categories of static and dynamic analysis. But there is really a broad spectrum of program analysis techniques that range from static to dynamic and manual to fully automatic. Symbolic execution is an interesting technique that falls somewhere in between static and dynamic analysis and is generally applied as a fully automatic approach. <br>
-<a>https://stackoverflow.com/a/40534830/16542494</a> </small>
-
-
-> 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:2
-
-- Manual vs Automatic Analysis
-	- The difference between manual and automatic analysis, is whether we have a well-defined procedure for analyzing the code.
-	- In many cases manual inspection is a crucial companion to automatic analysis. If taken to the extreme, we can actually require the user of the tool to prove to us that the code is correct. Now we only have to check the proof, which case we are entering the world of _Program Verification_.
-- Syntactic (↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md), ↗ [Syntactic Analysis (Parsing)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)) vs Semantic Analysis (↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
-	- The difference between a syntactic and a semantic analysis is whether we focus on the **structure** of the program or on the **meaning** of the program.
-	- The structure of the program or syntax is often represented as a tree of nodes as recognized by the parser. In contrast the meaning of the program or semantics is represented as a set of all possible traces of a program. Here trace means a sequence of states and operations possible by the program.
-	- In the realm of program analysis for security, most of the time we are talking about semantic analysis. Analysis below semantic analysis, like syntactic analysis and lexical analysis, are mostly used in ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md). 
-- ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md) 🆚 ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
-	- Finally we can differentiate between dynamic and static analysis. A dynamic analysis interpolates the meaning of the program from a single trace, where a static analysis tries to predict all possible behaviors.
-	- Dynamic analysis are often just executing the programs, and then reporting any behavior it exhibits. An dynamic analysis often have proof of the bad behavior. A dynamic analysis is **sound** if every behavior it finds is a real behavior, and **complete** if can find all behaviors.
-		- Dynamic analysis starts with one single initial state, and explore some states along the path from that initial state (not necessarily all states)
-	- Static analyses in contrast consider the entire programs, and then reports if the program is without bugs or problems. When a good static analysis says your program is good, it probably is, however, when it finds a potential bug, it can often not prove it to you. A static analysis is **sound** if every program it flags do exhibit some behavior, and **complete** if it flags all programs that contain the behavior.
-		- Static analysis starts with ALL initial states (at once), and then explore (hopefully) all states following. However, there is a distinction in how far (the depth) we explore in all following states, which further divides static analysis into bounded static analysis and unbounded static analysis.
-	- It is sometimes a great idea to do a mix of a dynamic and static analysis, in which case we call it a **_hybrid_ analysis**.
-
-
-**Interactive Application Security Testing (IAST)**
-> 🔗 https://en.wikipedia.org/wiki/Interactive_application_security_testing
-
-Interactive application security testing (abbreviated as IAST) is a security testing method that detects software vulnerabilities by interaction with the program coupled with observation and sensors. The tool was launched by several application security companies. It is distinct from static application security testing, which does not interact with the program, and dynamic application security testing, which considers the program as a black box. It may be considered a mix of both
 
 
 

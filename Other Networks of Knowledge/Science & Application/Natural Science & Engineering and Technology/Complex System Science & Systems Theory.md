@@ -9,7 +9,7 @@
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 ↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-- ↗ [Mathematical Modeling & Real World Problem Solving](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+- ↗ [Mathematical Modeling & Abstraction](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 - ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 	- ↗ [Dynamical Systems Theory](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Dynamical%20Systems%20Theory/Dynamical%20Systems%20Theory.md)
 - ↗ [Cybernetics & Control Theory](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)

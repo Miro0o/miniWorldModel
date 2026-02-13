@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Decision Theory & Decision Analysis](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Decision%20Theory%20&%20Decision%20Analysis.md)
-↗ [Mathematical Modeling & Real World Problem Solving](../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [Cybernetics & Control Theory](../Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)

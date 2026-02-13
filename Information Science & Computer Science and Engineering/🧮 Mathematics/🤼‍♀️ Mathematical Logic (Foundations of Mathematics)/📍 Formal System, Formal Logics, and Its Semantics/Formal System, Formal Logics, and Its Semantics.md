@@ -30,7 +30,7 @@
 ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
-↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 - ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -540,7 +540,7 @@ Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first
 %% 
 #### (Mathematical Logic) Language and (Computation) Models
 ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)

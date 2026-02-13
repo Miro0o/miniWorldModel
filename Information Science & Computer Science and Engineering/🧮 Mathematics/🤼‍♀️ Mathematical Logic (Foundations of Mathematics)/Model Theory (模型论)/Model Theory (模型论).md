@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Syntax & Semantics of (Natural) Language](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Syntax%20&%20Semantics%20of%20(Natural)%20Language/Syntax%20&%20Semantics%20of%20(Natural)%20Language.md)

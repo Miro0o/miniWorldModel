@@ -147,7 +147,7 @@ Implementation of JIT compilation consists of compiling source code or byte code
 
 
 ### The Science of Building A Compiler
-↗ [Mathematical Modeling & Real World Problem Solving](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Semantic Analysis](Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 
 > 📖 Compilers Principles Techniques and Tools 2nd Edition

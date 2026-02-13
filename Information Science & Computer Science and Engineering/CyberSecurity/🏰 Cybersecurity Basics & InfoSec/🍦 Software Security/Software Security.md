@@ -55,6 +55,9 @@ Topics
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 
+↗ [Software (Program) Techniques & Binary Engineering](🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Software (Program) Analysis Basics](🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+
 
 
 ## Ref

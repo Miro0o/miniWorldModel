@@ -11,7 +11,7 @@
 ↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
-↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 

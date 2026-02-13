@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Mathematical Tools & Scientific Computing](../../🧮%20Mathematics/Computational%20Mathematics/Mathematical%20Tools%20&%20Scientific%20Computing.md)
 
 ↗ [Computational Mathematics](../../🧮%20Mathematics/Computational%20Mathematics/Computational%20Mathematics.md)

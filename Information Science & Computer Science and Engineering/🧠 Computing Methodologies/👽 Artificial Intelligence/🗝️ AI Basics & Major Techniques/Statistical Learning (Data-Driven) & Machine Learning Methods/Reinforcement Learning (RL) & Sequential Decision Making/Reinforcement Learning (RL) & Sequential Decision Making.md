@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Cybernetics & Control Theory](../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
@@ -81,7 +81,7 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 
 ## Mathematical Models of The RL Problem
 > [!links]
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 > 
 > ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
@@ -124,7 +124,7 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 ## Reinforcement Learning Algorithms (for Markovian-Based Model)
 ### 🎯 Model-Based RL (MBRL)
 > [!links]
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 > 
 > ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)

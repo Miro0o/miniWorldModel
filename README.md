@@ -120,14 +120,14 @@ Specifically, under `Res`, `Related Topics` lists internal notes in this noteboo
 
 
 ### Searching Among Files
-The notebook is large. Although it is well-organized as a mind map with all the internal links, it could still be hard to quickly navigate around them. This is why we need to search.
+This notebook is large. Although it is well-organized as a mind map with all the internal links, it could still be hard to quickly navigate around them. This is why we need to search.
 
-During my writing, I mainly use three search methods:
+During my writing, I mainly use three searching methods:
 - file search: in obsidian, `ctl-o` opens the native file search bar.
 - text search: in obsidian, I use a plugin 🔗 [OmniSearch](https://obsidian.md/plugins?search=Omnisearch). This allows user to search at text level in all files.
 - tag search: in my notes, sometimes I will use tags for contents that's a FAQ, or those paragraphs /sub-sections where I compares two concepts. For example, if you are in obsidian, try open the search bar (`cmd-shift-f`) and search `tag: #vim`. Just note that tag search might not give you everything you want to search because I don't write tags everywhere.
 
-There are many other search options natively supported by obsidian.
+In addition to my favorite searching methods, there are many other search options natively supported by obsidian.
 
 
 ### This Notebook and Generative AI
@@ -142,7 +142,7 @@ Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the un
 
 
 ## Sitemap & Entrances to the Note
-Like said earlier, miniWorldModel is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) and begin everything from there: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook as well). 
+Like said earlier, miniWorldModel is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) and begin everything from there: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook). 
 
 That being said, I give a very brief (and sketchy) index to miniWorldModel below. Bare in mind this whole notebook is still heavily about computer science.
 

@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Information Theory](../../../🥸%20Information%20Theory/Information%20Theory.md)
 
-↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [AI Basics & Major Techniques](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)

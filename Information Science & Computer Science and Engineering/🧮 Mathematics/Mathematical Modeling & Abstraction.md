@@ -1,4 +1,4 @@
-# Mathematical Modeling & Real World Problem Solving
+# Mathematical Modeling & Abstraction
 
 [TOC]
 

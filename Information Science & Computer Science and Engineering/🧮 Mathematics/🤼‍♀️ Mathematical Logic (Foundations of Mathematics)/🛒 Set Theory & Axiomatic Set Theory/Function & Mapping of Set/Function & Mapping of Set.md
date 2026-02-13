@@ -304,7 +304,7 @@ The theorem was first studied in view of work on differential equations by the F
 
 完全偏序集上的连续函数具有最小不动点，这称之为最小不动点定理。
 #### Equations Solving & Constrains Solving (and Optimization)
-↗ [Mathematical Modeling & Real World Problem Solving](../../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 ↗ [Algebra](../../../🧊%20Algebra/Algebra.md)

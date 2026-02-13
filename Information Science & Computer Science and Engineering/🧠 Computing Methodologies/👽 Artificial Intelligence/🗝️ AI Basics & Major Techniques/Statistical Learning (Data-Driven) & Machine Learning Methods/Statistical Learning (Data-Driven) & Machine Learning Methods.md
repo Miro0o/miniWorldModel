@@ -229,7 +229,7 @@ Suggested Notation for Machine Learning
 
 
 ### 0️⃣ Problem Formulation 🤔
-↗ [Mathematical Modeling & Real World Problem Solving](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)

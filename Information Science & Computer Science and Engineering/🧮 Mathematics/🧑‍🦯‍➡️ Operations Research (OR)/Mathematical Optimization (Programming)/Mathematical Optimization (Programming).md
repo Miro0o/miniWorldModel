@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Modeling & Real World Problem Solving](../../Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Multi-Criteria Decision Making (MCDM) & Analysis (MCDA)](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Decision%20Theory%20&%20Decision%20Analysis/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision%20Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)

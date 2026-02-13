@@ -777,7 +777,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 应用数学思考将抽象的数学工具运用在解答科学、工商业及其他领域上之现实问题。应用数学中的一重要领域为统计学，它利用概率论为其工具并允许对含有机会成分的现象进行描述、分析与预测。大部分的实验、调查及观察研究需要统计对其数据的分析。（许多的统计学家并不认为他们是数学家，而比较觉得是合作团体的一分子。）数值分析研究有什么计算方法，可以有效地解决那些人力所限而算不出的数学问题；它亦包含了对计算中舍入误差或其他来源的误差之研究。
 
-↗ [Mathematical Modeling & Real World Problem Solving](Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+↗ [Mathematical Modeling & Abstraction](Mathematical%20Modeling%20&%20Abstraction.md)
 
 ###### 👉 Discrete Mathematics & TCS (Theoretical Computer Science)
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)

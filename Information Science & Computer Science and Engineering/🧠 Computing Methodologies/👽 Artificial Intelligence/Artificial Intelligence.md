@@ -15,7 +15,7 @@
 ↗ [Neural Networks & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
 
 ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
-- ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+- ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 - ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Algebra](../../🧮%20Mathematics/🧊%20Algebra/Algebra.md)
 	- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
@@ -188,7 +188,7 @@ This chapter defines AI and establishes the cultural background against which it
 #### 🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -210,7 +210,7 @@ This chapter has been something of a whirlwind tour of AI, which we have conceiv
 
 ##### (Task) Environments
 > [!links]
-> ↗ [Mathematical Modeling & Real World Problem Solving](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Real%20World%20Problem%20Solving.md)
+> ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
 ###### Specifying (Task) Environments
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
