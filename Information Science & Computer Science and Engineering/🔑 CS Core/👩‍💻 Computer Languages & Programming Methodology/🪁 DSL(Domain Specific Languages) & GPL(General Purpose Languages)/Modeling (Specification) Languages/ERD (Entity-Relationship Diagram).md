@@ -5,7 +5,7 @@
 
 
 ## Res
-> ↗ [ER & EER & ERD](../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
+> ↗ [ER & EER & ERD](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
 
 
 ### Tools

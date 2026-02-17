@@ -25,7 +25,7 @@ MDN Web Docs
 
 ↗ [JS Obfuscation](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
 
-↗ [Web Scripting Languages & Server-Side Scripting](../../Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
+↗ [Web Scripting Languages & Server-Side Scripting](../../🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
 
 
 ### JS Standards

@@ -11,7 +11,7 @@
 
 ↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
-↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
+↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
 ↗ [(Object) Serialization & Deserialization](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
 
 ↗ [Appendix / 什么是RPC？](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/RPC%20Services/Appendix.md)
@@ -63,7 +63,7 @@ RPCs are a form of inter-process communication (IPC), in that different processe
 
 
 ### Standard Contact Mechanisms
-To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
+To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
 
 > For more at ↗ [IDL (Interface Description Language)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)/IDL%20(Interface%20Description%20Language).md)
 

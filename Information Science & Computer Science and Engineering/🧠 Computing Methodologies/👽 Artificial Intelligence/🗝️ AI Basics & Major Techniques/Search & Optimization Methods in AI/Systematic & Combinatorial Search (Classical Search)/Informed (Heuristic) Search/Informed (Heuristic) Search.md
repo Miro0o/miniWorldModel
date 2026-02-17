@@ -1,4 +1,4 @@
-# Needham-Schroeder Protocol
+# Informed (Heuristic) Search
 
 [TOC]
 
@@ -17,4 +17,3 @@
 
 
 ## Ref
-

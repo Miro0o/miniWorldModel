@@ -111,7 +111,7 @@ Finally, we have _type 0_ languages, is a set of words which can be recognized
 ## Syntactic Analysis (Pattern Match) In Practice
 ### Type-3 Regular Language: Regular Expression
 > ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
-> ↗ [regex (Regular Expression)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
+> ↗ [regex (Regular Expression)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/syntactic-analysis.html#sec:3.1
 

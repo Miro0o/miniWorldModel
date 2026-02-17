@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [STIX (Structured Threat Information Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/STIX%20(Structured%20Threat%20Information%20Expression).md)
+↗ [STIX (Structured Threat Information Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/STIX%20(Structured%20Threat%20Information%20Expression).md)
 ↗ [TAXII (Trusted Automated Exchange of Intelligence Information)](TAXII%20(Trusted%20Automated%20Exchange%20of%20Intelligence%20Information).md)
 
 ↗ [Social Engineering & Physical Security](../Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)

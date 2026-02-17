@@ -9,7 +9,7 @@
 ↗ [Automata Theory and (Formal) Language Theory](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Regular Language (RL) & Finite Automata (FA)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Regular%20Language%20(RL)%20&%20Finite%20Automata%20(FA).md)
 
-↗ [Files & Texts Filters /Codes Filters /Finders](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
+↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 
 ### Tutorial & Docs
@@ -59,7 +59,7 @@ Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_language
 
 
 ## Implementations and Running Times
-> ↗ [Files & Texts Filters /Codes Filters /Finders](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
+> ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 There are at least three different [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that decide whether and how a given regex matches a string.
 

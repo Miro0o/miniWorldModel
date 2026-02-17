@@ -73,8 +73,9 @@ In state-space search, a state space is formally represented as a [tuple](https
 - $\operatorname {Result} (s,a)$ is the function that returns the state reached performing action $a$ in state $s$;
 - $\operatorname {Cost} (s,a)$ is the cost of performing an action $a$ in state $s$. In many state spaces, $a$ is a constant, but this is not always true.
 ##### Uninformed Search
-
+↗ [Uninformed Search](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Uninformed%20Search/Uninformed%20Search.md)
 ##### Informed Search
+↗ [Informed (Heuristic) Search](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
 #### Local Search
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Search_and_optimization
 
@@ -85,10 +86,12 @@ Gradient descent is a type of local search that optimizes a set of numerical par
 Another type of local search is evolutionary computation, which aims to iteratively improve a set of candidate solutions by "mutating" and "recombining" them, selecting only the fittest to survive each generation.[77]
 
 Distributed search processes can coordinate via swarm intelligence algorithms. Two popular swarm algorithms used in search are particle swarm optimization (inspired by bird flocking) and ant colony optimization (inspired by ant trails).[78]
+#### Sampling-Based and Probabilistic Search
+↗ [Sampling-Based and Probabilistic Search](Sampling-Based%20and%20Probabilistic%20Search/Sampling-Based%20and%20Probabilistic%20Search.md)
 
-> [!links]
-> Other search strategies:
-> ↗ [Sampling-Based and Probabilistic Search](Sampling-Based%20and%20Probabilistic%20Search/Sampling-Based%20and%20Probabilistic%20Search.md)
+
+### Games & Multi-agents Search
+↗ [Games & Search in Multi-Agents Environment](🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 
 
 ### Metahuristics & Huristics

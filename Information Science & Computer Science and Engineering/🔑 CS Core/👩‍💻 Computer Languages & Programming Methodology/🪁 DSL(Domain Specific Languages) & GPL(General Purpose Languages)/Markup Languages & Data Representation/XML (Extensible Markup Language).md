@@ -10,7 +10,7 @@
 
 ↗ [HTML (HyperText Markup Language)](HTML%20(HyperText%20Markup%20Language).md)
 ↗ [IDL (Interface Description Language) & Data Exchange Formats](../IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20&%20Serialization/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
-↗ [(Object) Serialization & Deserialization](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
+↗ [(Object) Serialization & Deserialization](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
 
 
 ### Learning Resources
@@ -35,7 +35,7 @@ There are many languages based on XML, including [XHTML](https://developer.mozil
 
 ### XML & Serialization
 > 🔗 https://en.wikipedia.org/wiki/Serialization
-> ↗ [(Object) Serialization & Deserialization](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
+> ↗ [(Object) Serialization & Deserialization](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/(Object)%20Serialization%20&%20Deserialization/(Object)%20Serialization%20&%20Deserialization.md)
 
 In the late 1990s, a push to provide an alternative to the standard serialization protocols started: [XML](https://en.wikipedia.org/wiki/XML "XML"), an [SGML](https://en.wikipedia.org/wiki/SGML "SGML") subset, was used to produce a human-readable [text-based encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding "Binary-to-text encoding"). Such an encoding can be useful for persistent objects that may be read and understood by humans, or communicated to other systems regardless of programming language. It has the disadvantage of losing the more compact, byte-stream-based encoding, but by this point larger storage and transmission capacities made file size less of a concern than in the early days of computing. In the 2000s, XML was often used for asynchronous transfer of structured data between client and server in [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming) "Ajax (programming)") web applications. XML is an open format, and standardized as a [W3C recommendation](https://www.w3.org/TR/xml11/).
 

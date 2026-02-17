@@ -5,12 +5,11 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [Dot.Net-Based Languages](../../../Compiled%20+%20Interpreted%20Languages/Dot.Net-Based%20Languages/Dot.Net-Based%20Languages.md)
+
+
+### Other Resources
 
 
 
@@ -24,6 +23,7 @@ FCL provides the user interface, data access, database connectivity, cryptograph
 .NET Framework began as proprietary software, although the firm worked to standardize the software stack almost immediately, even before its first release. Despite the standardization efforts, developers, mainly those in the free and open-source software communities, expressed their unease with the selected terms and the prospects of any free and open-source implementation, especially regarding software patents. Since then, Microsoft has changed .NET development to more closely follow a contemporary model of a community-developed software project, including issuing an update to its patent promising to address the concerns.
 
 In April 2019, Microsoft released .NET Framework 4.8, the last major version of the framework as a proprietary offering, followed by .NET Framework 4.8.1 in August 2022. Only monthly security and reliability bug fixes to that version have been released since then. No further changes to that version are planned. The .NET Framework will continue to be included with future releases of Windows and continue to receive security updates, with no plans to remove it as of September 2024
+
 
 ### Common Language Runtime
 > 🔗 https://en.wikipedia.org/wiki/Common_Language_Runtime

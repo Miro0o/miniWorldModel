@@ -1,4 +1,4 @@
-# Needham-Schroeder Protocol
+# Uninformed Search
 
 [TOC]
 
@@ -17,4 +17,3 @@
 
 
 ## Ref
-

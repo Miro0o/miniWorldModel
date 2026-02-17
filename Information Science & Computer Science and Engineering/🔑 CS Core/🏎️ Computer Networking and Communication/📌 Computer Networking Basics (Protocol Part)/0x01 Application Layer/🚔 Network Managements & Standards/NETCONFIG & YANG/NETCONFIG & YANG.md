@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [IP Layer Network Management](../../../0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/IP%20Layer%20Network%20Management.md)
-↗ [YANG (Yet Another Next Generation)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/YANG%20(Yet%20Another%20Next%20Generation).md)
+↗ [YANG (Yet Another Next Generation)](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/YANG%20(Yet%20Another%20Next%20Generation).md)
 
 
 

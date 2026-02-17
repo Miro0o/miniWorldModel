@@ -233,7 +233,7 @@ Web development in future will be driven by advances in browser technology, Web 
 
 ↗ [Web Application System Architecture Design Pattern](Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
 ↗ [Documentation & Static Site Generator (SSG)](🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
-↗ [Web Scripting Languages & Server-Side Scripting](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
+↗ [Web Scripting Languages & Server-Side Scripting](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
 
 ↗ [Database Systems](../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 ↗ [IDC & Data Center Networking](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
