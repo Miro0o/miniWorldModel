@@ -9,7 +9,7 @@
 ↗ [MLLM Evaluation & Benchmarks](../../🐝%20Multimodal%20AI%20&%20MLLM/MLLM%20Evaluation%20&%20Benchmarks.md)
 
 ↗ [Pre-trained NN Weights & NN Models](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/Pre-trained%20NN%20Weights%20&%20NN%20Models/Pre-trained%20NN%20Weights%20&%20NN%20Models.md)
-↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ↗ [Artificial Intelligence Industry and Companies](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
 

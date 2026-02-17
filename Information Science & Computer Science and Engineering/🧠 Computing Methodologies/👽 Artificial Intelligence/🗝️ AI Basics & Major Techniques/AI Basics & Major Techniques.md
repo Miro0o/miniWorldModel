@@ -14,7 +14,7 @@
 	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
 ↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
 
-↗️ [Neural Networks & Deep Learning Methods](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+↗️ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
 
 
@@ -57,10 +57,10 @@ Think in **layers**:
 
 **Layer 1 — Representation / reasoning paradigm** -- Semantic role of memory and reasoning
 It comes from **classical AI / agent models** (often inspired by Russell & Norvig), and it is about **how an agent decides what action to take**, not _how it learns_.
-- ↗ [Reflex-Based Models](Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
-- ↗ [State-Based Models](Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
-- ↗ [Variables-Based Models](Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
-- ↗ [Logic-Based Models](Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
+- ↗ [Reflex-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
+- ↗ [State-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
+- ↗ [Variables-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
+- ↗ [Logic-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
 
 
 **Layer 2 — Model / implementation tools** -- Concrete representation of the mapping. (syntax level)
@@ -76,8 +76,8 @@ Layer 2 includes function representation mechanisms:
 	- Probabilistic programs
 - Parametric / differentiable
 	- Neural networks 🔥
-		- ↗ [Neural Networks & Deep Learning Methods](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
-		- ↗ [Neural Network Models](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+		- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+		- ↗ [Neural Network Models](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 	- Kernel machines
 All of these can be embedded into **any Layer-1 paradigm**.
 
@@ -90,7 +90,7 @@ All of these can be embedded into **any Layer-1 paradigm**.
 	- ↗ [Unsupervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
 	- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 	- (Deep learning = model family, spans all three) 🔥
-		- ↗ [Neural Networks & Deep Learning Methods](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+		- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 - hybrid
 
 ---

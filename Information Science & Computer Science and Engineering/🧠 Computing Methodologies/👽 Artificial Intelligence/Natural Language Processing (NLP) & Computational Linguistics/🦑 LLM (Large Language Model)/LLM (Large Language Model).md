@@ -16,8 +16,8 @@
 ↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 
 ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
-↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+- ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
@@ -285,7 +285,7 @@ Estimating AI productivity gains from Claude conversations
 ### LLM Backgrounds
 #### 📜 The Development History of AI, NLP, and LLM
 ↗ [The Development History of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
-↗ [Neural Networks & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
@@ -306,13 +306,13 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 > 🔗 https://stanford-cs324.github.io/winter2022/lectures/modeling/#model-architecture
 
 #### LLM Model Architectures
-↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
 - Probability
 
-↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
-↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
+↗ [RWKV (Receptance Weighted Key Value)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RWKV%20(Receptance%20Weighted%20Key%20Value)/RWKV%20(Receptance%20Weighted%20Key%20Value).md)
+↗ [Mamba](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/Mamba.md)
 
 
 ### LLM Training, Utilization, and Evaluation

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Windows Dot.Net Framework](../../Windows%20Dot.Net%20Framework/Windows%20Dot.Net%20Framework.md)
+↗ [Windows Dot.Net & Common Language Runtime (CLR)](../../Windows%20Dot.Net%20&%20Common%20Language%20Runtime%20(CLR)/Windows%20Dot.Net%20&%20Common%20Language%20Runtime%20(CLR).md)
 
 
 ### Other Resources

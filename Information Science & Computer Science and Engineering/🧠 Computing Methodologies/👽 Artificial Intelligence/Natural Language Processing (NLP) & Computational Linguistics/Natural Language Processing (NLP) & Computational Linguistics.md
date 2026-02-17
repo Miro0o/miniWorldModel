@@ -20,7 +20,7 @@
 ↗ [Programming Language Processing & Program Execution](../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 
 ↗ [LLM (Large Language Model)](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [Knowledge Graph (KG)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
+↗ [Knowledge Graph (KG)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
 
 
 ### Learning Resources
@@ -355,8 +355,8 @@ If $n$ is too small, then the model will be incapable of capturing long-range 
 As a result, language models were limited to tasks such as speech recognition and machine translation where the acoustic signal or source text provided enough information that only capturing **local dependencies** (and not being able to capture long-range dependencies) wasn’t a huge problem.
 #### Neural Networks
 > [!links]
-> ↗ [Neural Networks & Deep Learning Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
-> ↗ [Neural Network Models](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Neural Network Models](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 
 > 🔗 https://stanford-cs324.github.io/winter2022/lectures/introduction/#neural-language-models
 
@@ -370,7 +370,7 @@ Since 2003, two other key developments in neural language modeling include:
 - **Transformers** are a more recent architecture (developed for machine translation in 2017) that again returned to having fixed context length n, but were much **easier to train** (and exploited the parallelism of GPUs). Also, n could be made “large enough” for many applications (GPT-3 used n=2048).
 #### Large Language Models ⭐
 ↗ [LLM (Large Language Model) /The Technical Evolution of LLM & Future Directions](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#The%20Technical%20Evolution%20of%20LLM%20&%20Future%20Directions)
-↗ [Transformers](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Transformers](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 
 

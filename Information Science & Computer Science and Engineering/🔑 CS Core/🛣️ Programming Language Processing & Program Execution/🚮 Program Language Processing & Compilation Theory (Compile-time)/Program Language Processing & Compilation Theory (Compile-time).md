@@ -35,6 +35,12 @@
 
 【【全集】编译原理-静态程序分析【Static Program Analyses】】 https://www.bilibili.com/video/BV1Eu41167bV/?p=4&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+https://courses.compute.dtu.dk/02247/f26/overview.html
+- DTU 02247 Compiler Construction
+- Here is an overview of what you will learn in this course, which tools will be used, and how you will be assessed. This module discusses, in particular, the [Tools and Programming Languages Used During the Course](https://courses.compute.dtu.dk/02247/f26/overview.html#sec-tools-prog-lang) and the [Assessment: Group Project and Oral Group Examination](https://courses.compute.dtu.dk/02247/f26/overview.html#sec-assessment).
+- Fig. 1 The main dependencies between the modules of this course. **NOTE:** some references and minor dependencies between modules are not shown in this diagram; they may be more or less important depending on the project ideas you will choose to work on.
+	- ![](../../../../Assets/Pics/Pasted%20image%2020260217105727.png)
+
 📖 Compilers: Principles, Techniques, and Tools 
 Alfred V.Aho, Ravi Sethi, Jeffrey D.Ullman 
 

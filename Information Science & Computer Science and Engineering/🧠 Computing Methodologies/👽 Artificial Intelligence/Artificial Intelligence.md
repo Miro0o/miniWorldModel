@@ -12,7 +12,7 @@
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 
 ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
-↗ [Neural Networks & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 
 ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md)
 - ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
@@ -269,10 +269,10 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ##### The Internal Structure of Agents & Agent Models
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-> - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
-> - ↗ [Variables-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
-> - ↗ [Logic-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
-> - ↗ [State-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
+> - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
+> - ↗ [Variables-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
+> - ↗ [Logic-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
+> - ↗ [State-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

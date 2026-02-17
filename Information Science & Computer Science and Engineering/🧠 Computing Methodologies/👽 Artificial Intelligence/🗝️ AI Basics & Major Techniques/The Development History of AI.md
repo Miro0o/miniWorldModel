@@ -341,7 +341,7 @@ Although symbolic [knowledge representation](https://en.wikipedia.org/wiki/Know
 
 
 ## 👉 Big Data, Deep Learning, AGI (2005–2017)
-> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md#The%20Technical%20Evolution%20of%20Neural%20Networks)
+> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md#The%20Technical%20Evolution%20of%20Neural%20Networks)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Big_data,_deep_learning,_AGI_(2005%E2%80%932017)
 
@@ -363,7 +363,7 @@ In a _[Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy! "Jeopardy!")_ exhibi
 
 
 ### Deep Learning - 2012 AlexNet
-> ↗ [Neural Networks & Deep Learning Methods](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Deep_learning
 
@@ -384,10 +384,10 @@ Deep learning was applied to dozens of problems over the next few years (such as
 
 
 ## 👉 From NLP to AGI: Boom of LLM (2017~)
-> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/Neural%20Networks%20&%20Deep%20Learning%20Methods.md#The%20Technical%20Evolution%20of%20Neural%20Networks)
+> ↗ [Deep Learning (Neural Networks) /The Technical Evolution of Neural Networks](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md#The%20Technical%20Evolution%20of%20Neural%20Networks)
 > ↗ [Natural Language Processing (NLP) /📜 A Brief History of The Technical Evolution Of Language Models](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#📜%20A%20Brief%20History%20of%20The%20Technical%20Evolution%20Of%20Language%20Models)
 > ↗ [LLM (Large Language Model) / LLM Milestone Papers](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md#LLM%20Milestone%20Papers)
-> ↗ [Transformers](Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> ↗ [Transformers](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Large_language_models,_AI_boom_(2017%E2%80%93present)
 

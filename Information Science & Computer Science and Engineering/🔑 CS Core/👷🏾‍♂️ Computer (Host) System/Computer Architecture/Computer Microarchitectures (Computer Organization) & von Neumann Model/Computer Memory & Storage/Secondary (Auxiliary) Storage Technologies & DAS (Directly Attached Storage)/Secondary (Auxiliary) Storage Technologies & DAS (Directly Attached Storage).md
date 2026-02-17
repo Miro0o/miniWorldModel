@@ -14,7 +14,7 @@
 
 ↗ [Data Transmission Modes](../../Computer%20IO%20System%20&%20Device%20Management/Data%20Transmission%20Modes.md)
 ↗ [File & File System](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
-↗ [NAS (Network Architecture Searching)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Neural%20Networks%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization/NAS%20(Network%20Architecture%20Searching).md)
+↗ [NAS (Network Architecture Searching)](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization/NAS%20(Network%20Architecture%20Searching).md)
 ↗ [Storage Area Network (SAN)](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
 
 
