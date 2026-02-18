@@ -95,7 +95,7 @@ The following [outline](https://en.wikipedia.org/wiki/Outline_\(list\) "Outline
 
 
 ## Intro
-### What is (Human) Intelligence?
+### What is (Human /Natural) Intelligence?
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
@@ -181,11 +181,13 @@ This chapter defines AI and establishes the cultural background against which it
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 ##### Performance Measures
 
-##### Rationality
+##### Rationality (理性)
 
-##### Sensuality
+##### Sensibility (感性)
 
 #### 🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)
+![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
@@ -207,7 +209,6 @@ This chapter has been something of a whirlwind tour of AI, which we have conceiv
 > RUSSELL & NORVIG
 
 ![](../../../Assets/Pics/Screenshot%202026-02-10%20at%2023.47.11.png)
-
 ##### (Task) Environments
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
@@ -221,8 +222,10 @@ Now that we have a definition of rationality, we are almost ready to think about
 In our discussion of the rationality of the simple vacuum-cleaner agent, we had to specify the performance measure, the environment, and the agent’s actuators and sensors. We group all these under the heading of the task environment. For the acronymically minded, we call this the **==PEAS (Performance, Environment, Actuators, Sensors)==** description. In designing an agent, the first step must always be to specify the task environment as fully as possible.
 
 ...
+###### Modeling (Task) Environments & Properties of (Task) Environments ⭐
+>[!links] 
+> ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
-###### Modeling (Task) Environments & Properties of (Task) Environments ✅
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 
@@ -266,7 +269,7 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 > The hardest case is partially observable, multiagent, nondeterministic, sequential, dynamic, continuous, and unknown. Taxi driving is hard in all these senses, except that the driver’s environment is mostly known. Driving a rented car in a new country with unfamiliar geography, different traffic laws, and nervous passengers is a lot more exciting.
 > 
 > The code repository associated with this book (🔗 [aima.cs.berkeley.edu](https://aima.cs.berkeley.edu/)) includes multiple environment implementations, together with a general-purpose environment simulator for evaluating an agent’s performance. Experiments are often carried out not for a single environment but for many environments drawn from an environment class. For example, to evaluate a taxi driver in simulated traffic, we would want to run many simulations with different traffic, lighting, and weather conditions. We are then interested in the agent’s average performance over the environment class.
-##### The Internal Structure of Agents & Agent Models
+##### Agent Models & The Internal Structure of Agents
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > - ↗ [Reflex-Based Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
@@ -286,8 +289,116 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.13.png)
 ###### Learning Agents & Autonomy
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.30.png)
-###### How the components of agent programs work
+###### How the components of agent programs work ⭐
+> [!links]
+> ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+
+...
+
+It takes about a thousand pages to begin to answer that question properly, but here we want to draw the reader’s attention to some basic distinctions among the various ways that the components can represent the environment that the agent inhabits. Roughly speaking, ==we can place the representations along an axis of increasing complexity and expressive power—**atomic**, **factored**, and **structured**==. To illustrate these ideas, it helps to consider a particular agent component, such as the one that deals with “What my actions do.” This component describes the changes that might occur in the environment as the result of taking an action, and Figure 2.16 provides schematic depictions of how those transitions might be represented.
+
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.31.10.png)
+
+
+> [!quote]
+>**Axis of Agent's Representation of Environment**
+>
+> As we mentioned earlier, the axis along which **atomic**, **factored**, and **structured** representations lie is the axis of increasing ==expressiveness==. Roughly speaking, a mor expressive representation can capture, at least as concisely, everything a less expressive one can capture, plus some more. Often, the more expressive language is much more concise; for example, the rules of chess can be written in a page or two of a structured-representation language such as first-order logic but require thousands of pages when written in a factored-representation language such as propositional logic and around 1038 pages when written in an atomic language such as that of finite-state automata. On the other hand, reasoning and learning become more complex as the expressive power of the representation increases. To gain the benefits of expressive representations while avoiding their drawbacks, intelligent systems for the real world may need to operate at all points along the axis simultaneously.
+> 
+> Another axis for representation involves ==the mapping of concepts to locations in physical memory==, whether in a computer or in a brain. If there is a one-to-one mapping between concepts and memory locations, we call that a **localist representation**. On the other hand if the representation of a concept is spread over many memory locations, and each memory location is employed as part of the representation of multiple different concepts, we call that a **distributed representation**. Distributed representations are more robust against noise and information loss. With a localist representation, the mapping from concept to memory location is arbitrary, and if a transmission error garbles a few bits, we might confuse Truck with the unrelated concept Truce. But with a distributed representation, you can think of each concept representing a point in multidimensional space, and if you garble a few bits you move to a nearby point in that space, which will have similar meaning.
+
+
+**Atomic Representation**
+In an atomic representation ==each state of the world is indivisible==—it has no internal structure. Consider the task of finding a driving route from one end of a country to the other via some sequence of cities (we address this problem in Figure 3.1 on page 82). For the purposes of solving this problem, it may suffice to reduce the state of the world to just the name of the city we are in—a single atom of knowledge, a “black box” whose only discernible property is that of being identical to or different from another black box. 
+
+The standard algorithms underlying search and game-playing (Chapters 3, 4, and 6), hidden Markov models (Chapter 14), and Markov decision processes (Chapter 16) all work with atomic representations.
+
+> [!links]
+> ↗ [Systematic & Combinatorial Search (Classical Search)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> ↗ [Games & Search in Multi-Agents Environment](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+> ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+
+
+**Factored Representation**
+A factored representation splits up each state into ==a fixed set of variables or attributes==, each of which can have a value. Consider a higher-fidelity description for the same driving problem, where we need to be concerned with more than just atomic location in one city or another; we might need to pay attention to how much gas is in the tank, our current GPS coordinates, whether or not the oil warning light is working, how much money we have for tolls, what station is on the radio, and so on. While two different atomic states have nothing in common—they are just different black boxes—two different factored states can share some attributes (such as being at some particular GPS location) and not others (such as having lots of gas or having no gas); this makes it much easier to work out how to turn one state into another. 
+
+Many important areas of AI are based on factored representations, including constraint satisfaction algorithms (Chapter 5), propositional logic (Chapter 7), planning (Chapter 11), Bayesian networks (Chapters 12, 13, 14, 15, and 18), and various machine learning algorithms.
+
+> [!links]
+> ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> - ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
+> - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+>
+>↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+
+> [!TIP]
+> https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
+> **Symbolic Execution & Constraint Solving 🆚 AI Searching**
+> #symbolic_execution #constraint_solving #AI #combinatorial_search 
+>
+> 
+> |Field|What is being searched|
+> |---|---|
+> |Heuristic search|explicit states|
+> |SAT planning|logical encodings of plans|
+> |Symbolic execution|path constraints|
+> |Model checking|reachable state formulas|
+> 
+> The real reason symbolic methods scale is: 
+> > They move complexity from **combinatorial enumeration** into **logical inference**.
+> 
+> Atomic search explores: `branching_factor^depth` states explicitly.
+> SAT planning represents: `branching_factor × depth` variables and constraints.
+> 
+> Key insight:
+> 👉 Logical constraints eliminate impossible combinations _before_ search.
+> The SAT solver prunes entire regions of the state space via:
+> -  unit propagation
+> - clause learning
+> - conflict analysis
+> 
+> This is much stronger than expanding nodes one by one.
+
+
+**Structured Representation**
+For many purposes, we need to ==understand the world as having things in it that are related to each other==, not just variables with values. For example, we might notice that a large truck ahead of us is reversing into the driveway of a dairy farm, but a loose cow is blocking the truck’s path. A factored representation is unlikely to be pre-equipped with the attribute `TruckAheadBackingIntoDairyFarmDrivewayBlockedByLooseCow` with value true or false. Instead, we would need a structured representation, in which objects such as cows and trucks and their various and varying relationships can be described explicitly (see Figure 2.16(c)). 
+
+Structured representations underlie relational databases and first-order logic (Chapters 8, 9, and 10), first-order probability models (Chapter 18), and much of natural language understanding (Chapters 24 and 25). ==In fact, much of what humans express in natural language concerns objects and their relationships.==
+
+> [!links]
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
+> - ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> - ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> 
+> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
+> ↗ [Natural Language Processing (NLP) & Computational Linguistics](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+
+###### Agent Types & AI Task Types
+
+| Agent type            | How it represents the world        | Main technique       |
+| --------------------- | ---------------------------------- | -------------------- |
+| Problem-solving agent | State = black box (“atomic”)       | Search               |
+| Planning agent        | State = factored /structured facts | Planning / reasoning |
+
+Search difficulty is not just about algorithms. It’s about **how much structure you expose to the algorithm**. Same domain:
+`Atomic view  → brute-force search Structured view → reasoning + pruning`
+
+So:
+
+> The difference between problem-solving agents and planning agents is not whether they plan — it’s whether they understand the internal structure of states.
+
+| Representation | Typical algorithms                      |
+| -------------- | --------------------------------------- |
+| Atomic         | A*, BFS, DFS                            |
+| Factored       | Graphplan, SATPlan, heuristic planners  |
+| Structured     | STRIPS, HTN planning, logical inference |
 #### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
 
 

@@ -48,7 +48,7 @@ tbd.
 
 Search and optimization
 AI can solve many problems by intelligently searching through many possible solutions.[69] There are two very different kinds of search used in AI: state space search and local search.
-#### State Space Search /Systematic Combinatorial Search 
+#### State Space Search /Systematic Combinatorial Search
 > [!links]
 > state space search is under ↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
 

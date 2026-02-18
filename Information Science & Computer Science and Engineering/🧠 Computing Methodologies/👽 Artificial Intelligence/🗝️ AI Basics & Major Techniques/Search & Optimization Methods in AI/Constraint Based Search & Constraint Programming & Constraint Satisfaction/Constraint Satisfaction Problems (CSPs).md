@@ -21,7 +21,7 @@
 
 ## Intro
 ### Combinatorial Search 🆚 CSPs 🆚 Assignment Problems
-↗ [Systematic & Combinatorial Search (Classical Search)](../Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+↗ [Systematic & Combinatorial Search (Classical Search)](../Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
 
 
 

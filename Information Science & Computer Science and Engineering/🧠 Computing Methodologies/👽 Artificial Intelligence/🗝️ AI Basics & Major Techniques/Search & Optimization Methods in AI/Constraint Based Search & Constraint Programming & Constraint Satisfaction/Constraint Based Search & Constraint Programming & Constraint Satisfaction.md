@@ -1,4 +1,4 @@
-# Constraint Based Search & Constraint Satisfaction
+# Constraint Based Search & Constraint Programming & Constraint Satisfaction
 
 [TOC]
 

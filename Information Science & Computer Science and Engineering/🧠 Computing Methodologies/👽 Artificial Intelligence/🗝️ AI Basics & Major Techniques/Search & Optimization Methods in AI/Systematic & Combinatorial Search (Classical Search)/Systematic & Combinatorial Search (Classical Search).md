@@ -38,7 +38,7 @@ A study of [computational complexity theory](https://en.wikipedia.org/wiki/Comp
 #combinatorial_search #CSPs #assignment_problems
 
 > [!links]
-> ↗ [Constraint Satisfaction Problems (CSPs)](Constraint%20Based%20Search%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](../Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
 > ↗ [Assignment Problems](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Combinatorial%20Optimization/Assignment%20Problems/Assignment%20Problems.md)
 
 

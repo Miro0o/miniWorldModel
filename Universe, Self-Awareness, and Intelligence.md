@@ -289,6 +289,9 @@ tbd.
 - 所谓的 ”存在的意义“的思考，其实就是这里说的对生命的思考，对自我与宇宙的关系的思考，对时间的思考。这又是一个经常出现在我们日常生活中的一个碎片化的结论，现在我把他拼回这个知识结构体系中。
 ###### 自我意识下的感性与理性 + 个体的思考（认识）与行动（实践）
 
+> [!links]
+> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+
 > [!TIP]
 > 在早期的草稿版本中，我用 “感情与逻辑”来表达这里的 “感性与理性”。但我稍后意识到我的表述可能对其他人来说容易引起歧义，因为这里的 “感情与逻辑” 的逻辑容易令人与 “科学与逻辑” 中的逻辑搞混。“感情与逻辑”中的逻辑，用理性一词更加恰当，于是为了与之相对，我把“感情”的表述也更换为“感性”。“科学与逻辑”中的逻辑，是 “基于演绎推理的逻辑”的简称，这符合逻辑一词在大多数语境下的定义，故直接使用此词。在这样区分之后，文本上我的表述就更加准确。比如，我们就可以说，感性和理性中都可以具有（演绎推理的）逻辑，或科学的论证。
 > 
@@ -297,12 +300,14 @@ tbd.
 > - **搭配**：Reason and Emotion（更侧重理智与情感）
 > - 在哲学或文学语境下，**Sense and Sensibility** 是最确切的对译。
 > 
-> 科学与逻辑，他们都是我们追求“正确”的方法，而理性与感性，是我们思考问题的领域（理性是对非我的思考，感性是对自我的思考）。他们的关系是，我们位于某领域，用某方法进行思考。
+> 科学与逻辑，他们都是我们追求“正确”思考的方法（方法反过来定义了“正确”的内涵），而理性与感性，是我们思考问题的领域（理性是对非我的思考，感性是对自我的思考）。他们的关系是，我们位于某领域，用某方法进行思考（进而得到对宇宙的局部观测）。
 > 你可能会想，难道不也可以说 “感性地理解这个宇宙”这种话吗？这听起来像是 “感性对非我的思考”。这确实是感性对非我的思考，这和“感性”的定义不冲突。感性本身是指，自我对自我的思考。那么，感性地对非我进行思考，就是说自我从对自我的思考出发来思考非我，这是唯心主义；相应地，自我从非我的思考出发（即理性地）来思考非我，这就是唯物主义。
 > 
-> 科学和（基于演绎推理的）逻辑，都是唯物主义的方法论。换句话说，它们都是上述“自我从非我的思考出发来思考非我”的具体思考方法。
+> 科学和（基于演绎推理的）逻辑，都是唯物主义的方法论。换句话说，它们都是上述“自我从非我的思考出发来思考非我”的具体思考方法。它们可以用来对自然或者社会进行解释，进行“观测宇宙与实际宇宙”的逼近并取得很好的效果；但是当我们试图把它们应用到对自我意识本身的解释，这种逼近的程度就大大降低了。比如我想思考，为什么我是一个同性恋？为什么我的精神告诉我我想和同性发生关系？或者，我来到某地，被这里的自然风光深深地震撼，我如何抒发这种情感？这时，科学和逻辑的方法就变得没那么好用了。
 > 
-> 注意，“正确”只是一种描述，一种思想，代表了某种信息的取向，他是人的想法，而并不是一个实际存在的物体。“正确”与否，取决于人如何定义正确。在理性的领域下，或者说在对非我思考的领域下，我们对“正确”的定义就是科学和逻辑的方法论决定的（这又进一步引出了观测宇宙和实际宇宙的不可判定问题）。在感性的领域下，或者说在对自我思考的领域下，我们对“正确”的定义显然发生了变化，因为此时方法论改变了。所以，不论是在理性还是感性的领域下，我们都可以说一个结论是“正确的结论”，但显然我们对”正确“本身的定义是在不断变化的。
+> 思考就是信息流动，就是自我意识的存在。所以一个很自然的追问就是，这种流动的方向是什么？首先，我们先不管这种方向是什么，我们先给他一个名字，叫做“正确”的方向。我们说，我们希望信息向正确的方向流动。或者说，我们追求进行“正确”的思考。在这之后，我们再进一步给正确赋予内涵 -- 定义什么是“正确”。注意，“正确”只是一种描述，一种思想，代表了人对信息流动取向的某种偏好，或者说代表了某种思考倾向，它是人的想法，而并不是一个事实。
+> 
+> “正确”与否，取决于人如何定义正确。在理性的领域下，或者说在对非我思考的领域下，我们对“正确”的定义就是科学和逻辑的方法论决定的（这又进一步引出了观测宇宙和实际宇宙的不可判定问题）。科学方法（猜想+实验验证）得到的结论，就是正确的结论；逻辑推理（公理+推导规则）得到的结论，就是正确的结论。在感性的领域下，或者说在对自我思考的领域下，我们对“正确”的定义显然发生了变化，因为此时方法论改变了。因此，不论是在理性还是感性的领域下，我们都可以说一个结论是“正确的结论”，但显然我们对”正确“本身的定义是在不断变化的。
 
 （感性，理性）X （思考，行动）
 or（感性，理性）X （认识，实践）
@@ -634,6 +639,9 @@ or（感性，理性）X （认识，实践）
 ![Language_and_Programming_Language_Processing | 800](Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Language, Computer Language, and  Programming Language Processing</small>
 ###### 人工智能：现状与未来
+> [!links]
+> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+
 人工智能目前还处于上述所说的计算机智能的范围（狭义的智能）。未来，人工智能的愿景是实现与人类智能水平同等级的类人智能（广义的智能）。从狭义的智能到广义的智能有两个重要的里程碑。第一个就是智能体拥有自我意识，即所谓的“奇点”。这个过程见图 “From CS to AGI: Computing and Intelligence”。第二个就是智能体不再停留在信息层面，智能体拥有与真实物理世界交互的能力，即具身智能。
 
 ![AI-Layer.excalidraw | 800](Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
@@ -644,8 +652,9 @@ or（感性，理性）X （认识，实践）
 
 不过，大语言模型的巨大优势就是，在同等资源下，它极大地提高了对知识图网络的搜索速度、广度、深度（不过结果的”正确性“是基于概率的）。换句话说，一个要被正常人类花费很多精力才能习得的知识，大语言模型在几秒钟就可以返回。从这个实际效率的角度来说，大语言模型看起来 “比人类还要智能”。
 #### 生命 -> 人类智能 -> 类人智能（广义的智能）⭐
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [AI Embodiment & World Model (WM)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+> [!links]
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> ↗ [AI Embodiment & World Model (WM)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>

@@ -1,4 +1,4 @@
-# Probabilistic Graphical Models & Bayesian Networks
+# Probabilistic Graphical Models
 
 [TOC]
 

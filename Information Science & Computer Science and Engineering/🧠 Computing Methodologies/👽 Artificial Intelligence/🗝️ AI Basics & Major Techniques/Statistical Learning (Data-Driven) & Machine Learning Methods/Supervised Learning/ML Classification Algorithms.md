@@ -13,7 +13,7 @@
 
 ↗ [KNN (K-Nearest Neighbors)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Instance-Based%20Systems/KNN%20(K-Nearest%20Neighbors)/KNN%20(K-Nearest%20Neighbors).md)
 
-↗ [Naïve Bayes Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Probabilistic%20Graphical%20Models%20&%20Bayesian%20Networks/Bayesian%20Networks%20(Belief%20Networks)/Naïve%20Bayes%20Models.md)
+↗ [Naïve Bayes Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Probabilistic%20Graphical%20Models/Bayesian%20Networks%20(Belief%20Networks)/Naïve%20Bayes%20Models.md)
 
 
 ### Other Resources
