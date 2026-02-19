@@ -289,9 +289,17 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.13.png)
 ###### Learning Agents & Autonomy
 ![](../../../Assets/Pics/Screenshot%202026-02-01%20at%2023.26.30.png)
-###### How the components of agent programs work ⭐
+###### Agent's Internal Model of the Environment (Explicit + Search & Implicit + Learn) ⭐
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+
+
+---
+1️⃣ **==Explicit, Fixed Modeling of Environment==**
+
+> [!links]
+> ↗ [Search & Optimization Methods in AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Search%20&%20Optimization%20Methods%20in%20AI.md)
+> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -341,6 +349,10 @@ Many important areas of AI are based on factored representations, including cons
 > **Symbolic Execution & Constraint Solving 🆚 AI Searching**
 > #symbolic_execution #constraint_solving #AI #combinatorial_search 
 >
+>👉 Classical search enumerates **states**.  
+>👉 SAT planning and symbolic model checking manipulate **logical formulas describing many states at once**.
+>
+> That’s the “compression”. 
 > 
 > |Field|What is being searched|
 > |---|---|
@@ -380,15 +392,73 @@ Structured representations underlie relational databases and first-order logic (
 > ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
 > ↗ [Natural Language Processing (NLP) & Computational Linguistics](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
+
+---
+2️⃣ **==Implicit, Learnt Modeling of Environment==**
+
+> [!links]
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+
+> 🤖 GPT-5.2
+> https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
+
+LLMs don’t manipulate explicit symbols — they manipulate vectors that _approximate_ symbolic structure. So the spectrum becomes: `Atomic  →  Factored  →  Structured  →  Neural / Distributed`
+
+From a formal methods perspective:
+
+| System      | Representation         | Reasoning type        |
+| ----------- | ---------------------- | --------------------- |
+| A*          | atomic states          | explicit search       |
+| SAT planner | factored logic         | symbolic reasoning    |
+| LLM         | distributed embeddings | statistical inference |
+
+> [!TIP]
+> 🤖 GPT-5.2 
+> Q. why many researchers think LLMs behave like implicit planners in latent space, and how “Tree-of-Thoughts” or “Self-Consistency” basically re-introduce classical search on top of LLMs — which connects directly back to A*, SAT planning, and symbolic execution.
+>
+> A.  This is one of the most interesting ideas in modern AI — and it connects _directly_ to the search/planning concepts you’ve been studying. I’ll explain it in a precise way, not hype 🙂. 
+> We’ll break it into three parts:
+> 1.  **Why people say LLMs are implicit planners**
+> 2. **What “latent space planning” really means**
+> 3. How Tree-of-Thoughts and Self-Consistency literally re-add classical search (A\*, SAT-style ideas, symbolic execution parallels)
 ###### Agent Types & AI Task Types
 
-| Agent type            | How it represents the world        | Main technique       |
-| --------------------- | ---------------------------------- | -------------------- |
-| Problem-solving agent | State = black box (“atomic”)       | Search               |
-| Planning agent        | State = factored /structured facts | Planning / reasoning |
+---
+1️⃣ **==Search-Based AI==**
+
+> [!links]
+> ↗ [Search & Optimization Methods in AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Search%20&%20Optimization%20Methods%20in%20AI.md)
+> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
+
+> 🤖 GPT-5.2
+> https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
+
+#AI_planning #combinatorial_search #optimization
+
+| Agent type            | How it represents the world        | Main technique /Algorithms /Reasoning                  |
+| --------------------- | ---------------------------------- | ------------------------------------------------------ |
+| Problem-solving agent | State = black box (“atomic”)       | search over **states**                                 |
+| Planning agent        | State = factored /structured facts | search over **logical structures / plans** (reasoning) |
+
+🧩 So is planning = search?
+Here’s the subtle truth: 👉 **Planning still uses search internally.**
+But:
+- Problem-solving search = search over **states**
+- Planning search = search over **logical structures / plans**
+So you’re not wrong: planning ⊂ search
+But textbooks separate them because:
+- the **representation** changes
+- the **algorithms** change dramatically
 
 Search difficulty is not just about algorithms. It’s about **how much structure you expose to the algorithm**. Same domain:
-`Atomic view  → brute-force search Structured view → reasoning + pruning`
+`Atomic view  → brute-force search`
+`Structured view → reasoning + pruning`
+
+🎯 One-sentence intuition
+- 👉 **Problem-solving agent:**  “I don’t understand the world — I just search through states.”
+- 👉 **Planning agent:**   “I understand objects and relationships — I reason about actions before searching.”
 
 So:
 
@@ -399,6 +469,33 @@ So:
 | Atomic         | A*, BFS, DFS                            |
 | Factored       | Graphplan, SATPlan, heuristic planners  |
 | Structured     | STRIPS, HTN planning, logical inference |
+
+
+----
+2️⃣ **==Learn-Based AI==**
+
+> [!links]
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+> 🤖 GPT-5.2
+> https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
+
+Here’s a version you can safely use:
+
+|Agent type|Internal representation of the world|Main technique|What search looks like|
+|---|---|---|---|
+|**Problem-solving agent**|Atomic states (opaque nodes)|Graph search (A*, BFS)|Explicit state expansion|
+|**Planning agent**|Factored / structured symbols (variables, predicates)|Logical planning, SAT, reasoning|Symbolic search over constraints|
+|**LLM agent**|Distributed latent representations (embeddings)|Neural generation + learned heuristics|Implicit trajectory; optional external search (ToT, self-consistency)|
+If you want an even cleaner academic phrasing
+
+|Paradigm|Representation|Reasoning style|
+|---|---|---|
+|Classical search|Atomic states|Explicit combinatorial search|
+|Symbolic planning / verification|Factored logical variables|Constraint solving / inference|
+|Neural agents (LLMs)|Distributed latent vectors|Probabilistic sequence prediction|
+
 #### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
 
 

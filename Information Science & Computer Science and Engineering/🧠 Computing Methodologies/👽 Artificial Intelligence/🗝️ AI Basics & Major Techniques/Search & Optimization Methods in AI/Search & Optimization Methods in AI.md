@@ -50,7 +50,7 @@ Search and optimization
 AI can solve many problems by intelligently searching through many possible solutions.[69] There are two very different kinds of search used in AI: state space search and local search.
 #### State Space Search /Systematic Combinatorial Search
 > [!links]
-> state space search is under ↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> ↗ [Systematic & Combinatorial Search (Classical Search)](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Search_and_optimization
 
@@ -80,6 +80,9 @@ In state-space search, a state space is formally represented as a [tuple](https
 ##### Informed Search
 ↗ [Informed (Heuristic) Search](Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
 #### Local Search
+> [!links]
+> ↗ [Local Search](Local%20Search/Local%20Search.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Artificial_intelligence#Search_and_optimization
 
 Local search uses mathematical optimization to find a solution to a problem. It begins with some form of guess and refines it incrementally.[75]
