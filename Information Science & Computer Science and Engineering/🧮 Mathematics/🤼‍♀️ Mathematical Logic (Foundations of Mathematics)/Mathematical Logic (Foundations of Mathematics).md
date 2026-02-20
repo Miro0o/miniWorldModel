@@ -30,7 +30,7 @@
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 - etc.
 
-↗ [Decision Making & Game Theory](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 
 ### Other Resources

@@ -13,7 +13,7 @@
 ↗ [Operations Research (OR)](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 ↗ [Mathematical Optimization (Programming)](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 
-↗ [Decision Making & Game Theory](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 
 

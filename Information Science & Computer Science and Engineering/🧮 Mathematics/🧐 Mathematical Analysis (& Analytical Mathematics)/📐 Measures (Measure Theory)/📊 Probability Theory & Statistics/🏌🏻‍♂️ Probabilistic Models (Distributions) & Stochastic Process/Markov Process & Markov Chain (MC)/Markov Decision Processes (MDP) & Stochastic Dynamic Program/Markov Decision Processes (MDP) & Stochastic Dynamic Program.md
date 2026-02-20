@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Decision Making & Game Theory](../../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 ↗ [Discrete-Time Markov Chains (DTMC)](../Discrete-Time%20Markov%20Chains%20(DTMC)/Discrete-Time%20Markov%20Chains%20(DTMC).md)
 
 ↗ [Probabilistic CTL (PCTL)](../../../../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Probabilistic%20CTL%20(PCTL).md)
@@ -88,7 +88,7 @@ MDPs are 1-player games…we can can have multiple players!
 Turn-based Stochastic Games (TSGs) as one possible extension.
 PRISM Games supports PCTL model checking for TSGs (and more).
 
-↗ [Decision Making & Game Theory](../../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 
 

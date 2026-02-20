@@ -323,7 +323,7 @@ or（感性，理性）X （认识，实践）
 由于误差的永远存在，科学精神激励我们要永远保持怀疑。这份怀疑就是观测宇宙和客观宇宙存在误差的那部分。
 ##### 个体自我意识的组织：群体与社会
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-↗ [Decision Making & Game Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 ###### 社会的形成
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
@@ -743,7 +743,7 @@ or（感性，理性）X （认识，实践）
 > 这里有个疑问，就是在这种所谓的终极的计算机智能下，是否会有这样的情景：计算机智能的个体像人类一样组成社会，进而成为和人类存在完全相同的计算机智能存在？具有相同发展利益的计算机智能如果组成了社会，是否会像人类社会一样，社会内部出现权力分级，进而衍生出一系例其他社会关系？
 >
 >↗ [Agents & Multi-Agent System](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
->↗ [Decision Making & Game Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+>↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 > 
 > 首先，我认为机器人智能的个体相互构成社会是完全有可能的。因为他们具有构成社会的条件 -- 理性（逻辑）和感性（情感）能力。
 > 
@@ -931,7 +931,7 @@ or（感性，理性）X （认识，实践）
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
 #### 群体（社会）发展的路径 /方法
 > [!links]
-> ↗ [Decision Making & Game Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+> ↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 > 
 > ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 > ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)

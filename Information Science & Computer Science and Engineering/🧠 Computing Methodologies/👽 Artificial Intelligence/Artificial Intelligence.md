@@ -21,7 +21,7 @@
 	- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 - ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-- ↗ [Decision Making & Game Theory](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+- ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 - ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
 
 ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
@@ -298,11 +298,12 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 1️⃣ **==Explicit, Fixed Modeling of Environment==**
 
 > [!links]
-> ↗ [Search & Optimization Methods in AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Search%20&%20Optimization%20Methods%20in%20AI.md)
-> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
+> ↗ [Problem Solving & Search-Based Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
+> Chapter 3
 
 ...
 
@@ -325,8 +326,8 @@ In an atomic representation ==each state of the world is indivisible==—it has 
 The standard algorithms underlying search and game-playing (Chapters 3, 4, and 6), hidden Markov models (Chapter 14), and Markov decision processes (Chapter 16) all work with atomic representations.
 
 > [!links]
-> ↗ [Systematic & Combinatorial Search (Classical Search)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
-> ↗ [Games & Search in Multi-Agents Environment](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+> ↗ [Systematic & Combinatorial Search (Classical Search)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+> ↗ [Games & Search in Multi-Agents Environment](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 > ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 
 
@@ -336,13 +337,17 @@ A factored representation splits up each state into ==a fixed set of variables o
 Many important areas of AI are based on factored representations, including constraint satisfaction algorithms (Chapter 5), propositional logic (Chapter 7), planning (Chapter 11), Bayesian networks (Chapters 12, 13, 14, 15, and 18), and various machine learning algorithms.
 
 > [!links]
-> ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+> 
 > ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > - ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 > - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 > - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
->
 >↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+>
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
 
 > [!TIP]
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -389,8 +394,10 @@ Structured representations underlie relational databases and first-order logic (
 > - ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 > - ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
 > 
-> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
 > ↗ [Natural Language Processing (NLP) & Computational Linguistics](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
+> - ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+>
+> ↗ [Computer Vision (CV)](Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
 
 
 ---
@@ -429,8 +436,8 @@ From a formal methods perspective:
 1️⃣ **==Search-Based AI==**
 
 > [!links]
-> ↗ [Search & Optimization Methods in AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/Search%20&%20Optimization%20Methods%20in%20AI/Search%20&%20Optimization%20Methods%20in%20AI.md)
-> ↗ [Automated Planning and Scheduling (AI Planning)](Automated%20Planning%20and%20Scheduling%20(AI%20Planning)/Automated%20Planning%20and%20Scheduling%20(AI%20Planning).md)
+> ↗ [Problem Solving & Search-Based Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
 
 > 🤖 GPT-5.2
 > https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
@@ -490,12 +497,11 @@ Here’s a version you can safely use:
 |**LLM agent**|Distributed latent representations (embeddings)|Neural generation + learned heuristics|Implicit trajectory; optional external search (ToT, self-consistency)|
 If you want an even cleaner academic phrasing
 
-|Paradigm|Representation|Reasoning style|
-|---|---|---|
-|Classical search|Atomic states|Explicit combinatorial search|
-|Symbolic planning / verification|Factored logical variables|Constraint solving / inference|
-|Neural agents (LLMs)|Distributed latent vectors|Probabilistic sequence prediction|
-
+| Paradigm                         | Representation             | Reasoning style                   |
+| -------------------------------- | -------------------------- | --------------------------------- |
+| Classical search                 | Atomic states              | Explicit combinatorial search     |
+| Symbolic planning / verification | Factored logical variables | Constraint solving / inference    |
+| Neural agents (LLMs)             | Distributed latent vectors | Probabilistic sequence prediction |
 #### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
 
 

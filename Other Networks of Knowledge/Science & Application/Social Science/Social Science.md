@@ -11,7 +11,7 @@
 
 ↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 
-↗ [Decision Making & Game Theory](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 
 ### Other Resources

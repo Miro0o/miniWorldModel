@@ -10,7 +10,9 @@
 ↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 ↗ [Combinatory Logic](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
 
-↗ [Decision Making & Game Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Decision%20Making%20&%20Game%20Theory/Decision%20Making%20&%20Game%20Theory.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+
+↗ [Propositional Logic Model Checking & Algorithms](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/Propositional%20Logic%20Model%20Checking%20&%20Algorithms.md)
 
 
 ### Other Resources
@@ -218,7 +220,7 @@ Formulas can be viewed as a data structure for representing sets and relations. 
 
 ## Reasoning in Propositional Logic
 > [!links]
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning.md)
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 > ↗ [Mathematics /Types of Proofs](../../../Mathematics.md#Types%20of%20Proofs)
 
 

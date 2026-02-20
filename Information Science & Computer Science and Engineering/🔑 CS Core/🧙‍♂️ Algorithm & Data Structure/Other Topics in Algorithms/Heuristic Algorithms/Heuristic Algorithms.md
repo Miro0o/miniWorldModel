@@ -7,6 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Metaheuristic & Heuristic](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Metaheuristic%20&%20Heuristic/Metaheuristic%20&%20Heuristic.md)
+↗ [Informed (Heuristic) Search](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
+
+
+### Other Resources
 
 
 
