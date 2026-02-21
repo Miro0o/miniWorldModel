@@ -5,12 +5,17 @@
 
 
 ## Res
-↗ [Data Labeling Tools](../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/📌%20ML%20Toolkits%20&%20Runtimes/Data%20Labeling%20Tools/Data%20Labeling%20Tools.md)
+### Related Topics
+↗ [Data Labeling Tools](../../../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/📌%20ML%20Toolkits%20&%20Runtimes/Data%20Labeling%20Tools/Data%20Labeling%20Tools.md)
+
+
+### Other Resources
 
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%207.46.10%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%207.46.10%20PM.png)
+
 
 
 ## 1️⃣ Semi-Supervised Learning (SSL)
@@ -24,7 +29,7 @@ SSL makes below assumptions on data distribution to use unlabeled data:
 
 
 ### Self-training
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.26.39%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.26.39%20PM.png)
 
 
 
@@ -35,7 +40,7 @@ Amazon Mechanical Turk is a crowdsourcing website for businesses to hire remotel
 
 e.g. ImageNet
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.30.13%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.30.13%20PM.png)
 
 
 ### Challenges
@@ -61,13 +66,13 @@ Trains multiple models and select samples that models disagree with.
 
 
 #### Active Learning + Self Learning
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.48.17%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.48.17%20PM.png)
 
 
 ### Quality control
 【1.4 数据标注【斯坦福21秋季：实用机器学习中文版】】 【精准空降到 25:06】 https://www.bilibili.com/video/BV1HL41147aL/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=1506
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.49.17%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-01-31%20at%204.49.17%20PM.png)
 
 
 

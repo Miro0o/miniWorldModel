@@ -49,11 +49,14 @@
 
 
 ### The Layering Perspective in AI Technologies
+> [!links]
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Artificial Intelligence /Agent Types & AI Task Types](../Artificial%20Intelligence.md#Agent%20Types%20&%20AI%20Task%20Types)
+
 > 🤖 GPT 5.0
 > https://chatgpt.com/share/696e493e-9e7c-800f-930c-a9b4bdce5309
 
 Think in **layers**:
-
 
 **Layer 1 — Representation / reasoning paradigm** -- Semantic role of memory and reasoning
 It comes from **classical AI / agent models** (often inspired by Russell & Norvig), and it is about **how an agent decides what action to take**, not _how it learns_.
@@ -61,7 +64,6 @@ It comes from **classical AI / agent models** (often inspired by Russell & Norvi
 - ↗ [State-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
 - ↗ [Variables-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
 - ↗ [Logic-Based Models](🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
-
 
 **Layer 2 — Model / implementation tools** -- Concrete representation of the mapping. (syntax level)
 Layer 2 includes function representation mechanisms:
@@ -81,16 +83,26 @@ Layer 2 includes function representation mechanisms:
 	- Kernel machines
 All of these can be embedded into **any Layer-1 paradigm**.
 
-
 **Layer 3 — Learning paradigm** -- How the system is obtained
-- hand-coded
-- machine learning 🔥
-	- ↗ [Supervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Supervised%20Learning/Supervised%20Learning.md)
-		- ↗ [Semi-supervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
-	- ↗ [Unsupervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
-	- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-	- (Deep learning = model family, spans all three) 🔥
-		- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+
+> AI methods can often be understood along a spectrum between **search-based reasoning**, which computes actions using an explicit model of the environment, and **learning-based methods**, which adapt internal representations or policies from data; many modern systems combine both by learning models that are later used for search.
+
+- hard-coded (search based)
+	- ↗ [Problem Solving & Search-Based Methods](Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+		- ↗ [Systematic & Combinatorial Search (Classical Search)](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+			- ↗ [Uninformed Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Uninformed%20Search/Uninformed%20Search.md)
+			- ↗ [Informed (Heuristic) Search](Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
+		- ↗ [Local Search](Problem%20Solving%20&%20Search-Based%20Methods/Local%20Search/Local%20Search.md)
+		- ↗ [Sampling-Based and Probabilistic Search](Problem%20Solving%20&%20Search-Based%20Methods/Sampling-Based%20and%20Probabilistic%20Search/Sampling-Based%20and%20Probabilistic%20Search.md)
+		- ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+		- ↗ [Games & Search in Multi-Agents Environment](Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+- machine learning (learn based) 🔥
+	- ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+		- ↗ [Supervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Supervised%20Learning/Supervised%20Learning.md)
+			- ↗ [Semi-supervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
+		- ↗ [Unsupervised Learning](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
+		- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md) 🔥
 - hybrid
 
 ---
@@ -132,7 +144,12 @@ Examples:
 - Programs
 
 Layer 2 is about **form**, not meaning.
-#### Connections of Decision Representation and Machine Learning Paradigm
+#### Connections of Model Representations and Machine Learning Paradigms
+#knowledge_representation #machine_learning #supervised_learning #reinforcement_learning #unsupervised_learning
+
+> 🤖 GPT 5.0
+> https://chatgpt.com/share/696e493e-9e7c-800f-930c-a9b4bdce5309
+
 ==Reflex-based models==
 **Decision form:** percept → action
 
@@ -217,9 +234,14 @@ Example 5: Bayesian network
 
 Example 6: Prolog system
 - Facts + rules + inference
-**Layer 1:** Logic-based  
+**Layer 1:** Logic-based 
 **Layer 2:** Logic program
-#### Connections of Decision Representation and Deep Learning
+#### Connections of Model Representations and Deep Learning
+#knowledge_representation  #deep_learning 
+
+> 🤖 GPT 5.0
+> https://chatgpt.com/share/696e493e-9e7c-800f-930c-a9b4bdce5309
+
 Reflex-based (overlap, not membership)
 - Feedforward NN: input → output
 - Appears stimulus–response

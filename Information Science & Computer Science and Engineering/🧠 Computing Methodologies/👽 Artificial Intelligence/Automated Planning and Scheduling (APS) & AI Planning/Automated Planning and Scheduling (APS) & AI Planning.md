@@ -51,10 +51,18 @@ In this chapter, we described the PDDL representation for both classical and ext
 #### Known /Unknown Environments (Model-Based /Model-Free)
 
 #### Deterministic /Nondeterministic Environments
+In this section we extend planning to handle partially observable, nondeterministic, and unknown environments. The basic concepts mirror those in Chapter 4, but there are differences arising from the use of factored representations rather than atomic representations. This affects the way we represent the agent’s capability for action and observation and the way we represent belief states—the sets of possible physical states the agent might be in—for partially observable environments. We can also take advantage of many of the domain-independent methods given in Section 11.3 for calculating search heuristics.
+
+We will cover sensorless planning (also known as conformant planning) for environments with no observations; contingency planning for partially observable and nondeterministic environments; and online planning and replanning for unknown environments. This will allow us to tackle sizable real-world problems.
 
 
 
 ## 📊 Analysis of Planning Approaches
+Planning combines the two major areas of AI we have covered so far: search and logic. A planner can be seen either as a program that searches for a solution or as one that (constructively) proves the existence of a solution. The cross-fertilization of ideas from the two areas has allowed planners to scale up from toy problems where the number of actions and states was limited to around a dozen, to real-world industrial applications with millions of states and thousands of actions.
+
+Planning is foremost an exercise in controlling combinatorial explosion. If there are $n$ propositions in a domain, then there are $2^n$ states. Against such pessimism, the identification of independent subproblems can be a powerful weapon. In the best case—full decomposability of the problem—we get an exponential speedup. Decomposability is destroyed, however, by negative interactions between actions. SATPLAN can encode logical relations between subproblems. Forward search addresses the problem heuristically by trying to find patterns (subsets of propositions) that cover the independent subproblems. Since this approach is heuristic, it can work even when the subproblems are not completely independent
+
+Unfortunately, we do not yet have a clear understanding of which techniques work best on which kinds of problems. Quite possibly, new techniques will emerge, perhaps providing a synthesis of highly expressive first-order and hierarchical representations with the highly efficient factored and propositional representations that dominate today. We are seeing examples of **portfolio** planning systems, where a collection of algorithms are available to apply to any given problem. This can be done selectively (the system classifies each new problem to choose the best algorithm for it), or in parallel (all the algorithms run concurrently, each on a different CPU), or by interleaving the algorithms according to a schedule.
 
 
 
@@ -79,7 +87,7 @@ An **action schema** represents a family of ground actions. For example, here is
 - Precond: $At(p, from) \land Plane(p) \land Airport(from) \land Airport(to)$  
 - Effect: $\neg At(p, from) \land At(p, to)$
 
-The schema consists of the action name, a list of all the variables used in the schema, a **precondition** and an **effect**. The precondition and the effect are each conjunctions of literals (positive or negated atomic sentences). We can choose constants to instantiate the variables, yielding a ground (variable-free) action:
+The schema consists of the action name, a list of all the variables used in the schema, a **precondition** and an **effect**. The precondition and the effect are each conjunctions of **literals** (positive or negated atomic sentences). We can choose constants to instantiate the variables, yielding a ground (variable-free) action:
 - Action($Fly(P_1, SFO, JFK)$),  
 - Precond: $At(P_1, SFO) \land Plane(P_1) \land Airport(SFO) \land Airport(JFK)$  
 - Effect: $\neg At(P_1, SFO) \land At(P_1, JFK)$
@@ -89,8 +97,11 @@ A ground action $a$ is **applicable** in state $s$ if $s$ entails the preconditi
 The **result** of executing applicable action $a$ in state $s$ is defined as a state $s'$ which is represented by the set of fluents formed by starting with $s$, removing the fluents that appear as negative literals in the action’s effects (what we call the delete list or $DEL(a)$), and adding the fluents that are positive literals in the action’s effects (what we call the add list or $ADD(a)$): $$ RESULT(s, a) = (s - DEL(a)) \cup ADD(a). $$
 For example, with the action $Fly(P_1, SFO, JFK)$, we would remove the fluent $At(P_1, SFO)$ and add the fluent $At(P_1, JFK)$.
 
-A set of action schemas serves as a definition of a planning **domain**. A specific **problem** within the domain is defined with the addition of an initial state and a goal. The **initial state** is a conjunction of ground fluents (introduced with the keyword $Init$ in Figure 11.1). As with all states, the closed-world assumption is used, which means that any atoms that are not mentioned are false. The **goal** (introduced with $Goal$) is just like a precondition: a conjunction of literals (positive or negative) that may contain variables. For example, the goal $$ At(C_1, SFO) \land \neg At(C_2, SFO) \land At(p, SFO) $$
-refers to any state in which cargo $C_1$ is at $SFO$ but $C_2$ is not, and in which there is a plane at $SFO$.
+A set of action schemas serves as a definition of a planning **domain**. A specific **problem** within the domain is defined with the addition of an initial state and a goal. The **initial state** is a conjunction of ground fluents (introduced with the keyword $Init$ in Figure 11.1). As with all states, the closed-world assumption is used, which means that any atoms that are not mentioned are false. The **goal** (introduced with $Goal$) is just like a precondition: a conjunction of literals (positive or negative) that may contain variables. For example, the goal  $At(C_1, SFO) \land \neg At(C_2, SFO) \land At(p, SFO)$ refers to any state in which cargo $C_1$ is at $SFO$ but $C_2$ is not, and in which there is a plane at $SFO$.
+
+
+### Examples of PDDL
+![](../../../../Assets/Pics/Screenshot%202026-02-20%20at%2022.01.58.png)
 
 
 ### Algorithms for Classical Planning
@@ -138,11 +149,21 @@ As we saw in Section 3.6, if we remove the preconditions $Blank(s_2) \land Adjac
 
 
 ## Time, Schedules, and Resources
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 11
+
 Classical planning talks about what to do, in what order, but does not talk about **time**: how long an action takes and when it occurs. For example, in the airport domain we could produce a plan saying what planes go where, carrying what, but could not specify departure and arrival times. This is the subject matter of **scheduling**.
 
 The real world also imposes **resource constraints**: an airline has a limited number of staff, and staff who are on one flight cannot be on another at the same time. This section introduces techniques for planning and scheduling problems with resource constraints.
 
 The approach we take is “plan first, schedule later”: divide the overall problem into a planning phase in which actions are selected, with some ordering constraints, to meet the goals of the problem, and a later scheduling phase, in which temporal information is added to the plan to ensure that it meets resource and deadline constraints. This approach is common in real-world manufacturing and logistical settings, where the planning phase is sometimes automated, and sometimes performed by human experts.
+
+
+### Representing Temporal and Resource Constraints
+
+
+### Solving Scheduling Problems
 
 
 

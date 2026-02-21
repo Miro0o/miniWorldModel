@@ -123,9 +123,42 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 
 
 ## Uncertain Knowledge & Reasoning
+> [!links]
+> ↗ [Probabilistic Methods for Uncertain Reasoning](Probabilistic%20Methods%20for%20Uncertain%20Reasoning.md)
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > IV Uncertain Knowledge and Reasoning
+
+
+### Quantifying Uncertainty
+
+
+### Probabilistic Reasoning
+> [!links]
+> ↗ [Probabilistic Methods for Uncertain Reasoning](Probabilistic%20Methods%20for%20Uncertain%20Reasoning.md)
+
+
+### Decision Making
+
+
+### Probabilistic Programming & PPL
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 18
+
+The spectrum of representations—atomic, factored, and structured—has been a persistent theme in AI. For deterministic models, search algorithms assume only an atomic representation; CSPs and propositional logic provide factored representations; and first-order logic and planning systems take advantage of structured representations. The expressive power afforded by structured representations yields models that are vastly more concise than the equivalent factored or atomic descriptions.
+
+For probabilistic models, Bayesian networks as described in Chapters 13 and 14 are factored representations: the set of random variables is fixed and finite, and each has a fixed range of possible values. This fact limits the applicability of Bayesian networks, because the Bayesian network representation for a complex domain is simply too large. This makes it infeasible to construct such representations by hand and infeasible to learn them from any reasonable amount of data.
+
+The problem of creating an expressive formal language for probabilistic information has taxed some of the greatest minds in history, including Gottfried Leibniz (the co-inventor of calculus), Jacob Bernoulli (discoverer of e, the calculus of variations, and the Law of Large Numbers), Augustus De Morgan, George Boole, Charles Sanders Peirce (one of the principal logicians of the 19th century), John Maynard Keynes (the leading economist of the 20th century), and Rudolf Carnap (one of the greatest analytical philosophers of the 20th century). The problem resisted these and many other efforts until the 1990s.
+
+Thanks in part to the development of Bayesian networks, there are now mathematically elegant and eminently practical formal languages that allow the creation of probabilistic models for very complex domains. **These languages are universal in the same sense that Turing machines are universal**: they can represent any computable probability model, just as Turing machines can represent any computable function. In addition, these languages come with general-purpose inference algorithms, roughly analogous to sound and complete logical inference algorithms such as resolution.
+
+There are two routes to introducing expressive power into probability theory. The first is via **logic**: to devise a language that defines probabilities over first-order possible worlds, rather than the propositional possible worlds of Bayes nets. This route is covered in Sections 18.1 and 18.2, with Section 18.3 covering the specific case of temporal reasoning. The second route is via **traditional programming languages**: we introduce stochastic elements — random choices, for example — into such languages, and view programs as defining probability distributions over their own execution traces. This approach is covered in Section 18.4.
+
+Both routes lead to a **probabilistic programming language (PPL)**. The first route leads to **declarative PPLs**, which bear roughly the same relationship to general PPLs as logic programming (Chapter 9) does to general programming languages.
 
 
 

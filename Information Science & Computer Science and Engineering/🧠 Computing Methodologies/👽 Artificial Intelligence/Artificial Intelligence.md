@@ -292,6 +292,7 @@ As noted on page 57, the performance measure itself may be unknown, either becau
 ###### Agent's Internal Model of the Environment (Explicit + Search & Implicit + Learn) ⭐
 > [!links]
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+> ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 
 
 ---
@@ -431,6 +432,10 @@ From a formal methods perspective:
 > 2. **What “latent space planning” really means**
 > 3. How Tree-of-Thoughts and Self-Consistency literally re-add classical search (A\*, SAT-style ideas, symbolic execution parallels)
 ###### Agent Types & AI Task Types
+> [!links]
+> ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+
 
 ---
 1️⃣ **==Search-Based AI==**
@@ -483,6 +488,8 @@ So:
 
 > [!links]
 > ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> ↗ [Neural Network Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 > ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 > 🤖 GPT-5.2
@@ -502,6 +509,65 @@ If you want an even cleaner academic phrasing
 | Classical search                 | Atomic states              | Explicit combinatorial search     |
 | Symbolic planning / verification | Factored logical variables | Constraint solving / inference    |
 | Neural agents (LLMs)             | Distributed latent vectors | Probabilistic sequence prediction |
+
+---
+> 🤖 GPT-5.2
+> https://chatgpt.com/share/6994e9a5-ffd0-8010-b952-1355963ff237
+
+| Paradigm                        | Environment knowledge | Learning?        | Core idea                                                                  | Typical algorithms                |
+| ------------------------------- | --------------------- | ---------------- | -------------------------------------------------------------------------- | --------------------------------- |
+| **Search / Planning**           | Known model           | ❌ No learning    | Compute a plan using an explicit model before acting                       | A*, STRIPS, SAT planning          |
+| **Online search (unknown env)** | Unknown model         | ❌ or minimal     | Act while discovering environment structure                                | LRTA*, real-time heuristic search |
+| **Learning in online search**   | Unknown initially     | ✅ Partial        | Improve heuristics or models through experience                            | Adaptive A*, heuristic learning   |
+| **Reinforcement Learning (RL)** | Usually unknown       | ✅ Core mechanism | Learn behavior via reward-driven interaction                               | Q-learning, Policy Gradient       |
+| **Machine Learning (general)**  | Not required          | ✅ Core mechanism | Learn predictive patterns from data (not necessarily sequential decisions) | SVM, decision trees, regression   |
+| **Deep Learning**               | Not required          | ✅ Core mechanism | Learn hierarchical representations with neural networks                    | CNNs, Transformers, MLPs          |
+All of these are about an **agent choosing actions over time**.
+The main differences come from two questions:
+- `1) Does the agent know the environment model?` 
+- `2) Does the agent learn from experience?`
+If you organize things along those axes, the relationships become very clear.
+
+Here’s a continuum that many researchers implicitly use:
+```
+Known model
+   ↓
+Search / Planning
+   ↓
+Online Planning (unknown map)
+   ↓
+Learning to Improve Planning
+   ↓
+Model-Based RL
+   ↓
+Model-Free RL
+```
+
+The deeper you go:
+```
+less explicit search
+more statistical learning
+```
+
+👉 Search / Planning / RL are mainly about **sequential decision making**.  
+👉 Machine Learning and Deep Learning are mainly about **function approximation**.
+
+So ML/DL are not just “another row” — they are more like a **horizontal capability** that can appear inside other paradigms.
+
+---
+Even deeper insight (since you’re thinking at research level)
+The real unifying view is not:
+- `search vs learning`
+but:
+- `optimization over different spaces`
+
+| Paradigm     | What is optimized        |
+| ------------ | ------------------------ |
+| Search       | action sequences / plans |
+| Planning     | logical constraints      |
+| RL           | expected reward          |
+| LLM training | prediction loss          |
+Different tools, same underlying idea.
 #### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
 
 

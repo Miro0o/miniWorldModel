@@ -1,4 +1,4 @@
-# Philosophy, Ethics, and Risks
+# Philosophy, Ethics, and Risks of AI
 
 [TOC]
 
