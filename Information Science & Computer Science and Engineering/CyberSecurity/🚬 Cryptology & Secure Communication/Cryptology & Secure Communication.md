@@ -155,8 +155,8 @@ A related property that we may want our cryptosystem to have is **deniability**
 
 ## ✨ Principles of Secure Communication
 > [!links]
-> ↗ [Shannon–Weaver Model](Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication/Information-Theoretic%20Models/Shannon–Weaver%20Model.md)
-> ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
+> ↗ [Shannon–Weaver Model](Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Information-Theoretic%20Models/Shannon–Weaver%20Model.md)
+> ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
 <small>An example: asymmetric secure communication model</small>

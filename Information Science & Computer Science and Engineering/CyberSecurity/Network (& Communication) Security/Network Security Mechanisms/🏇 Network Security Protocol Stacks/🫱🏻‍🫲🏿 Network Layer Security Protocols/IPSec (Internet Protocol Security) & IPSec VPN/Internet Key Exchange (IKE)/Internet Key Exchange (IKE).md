@@ -11,7 +11,7 @@ IKE protocol details - This topic provides an overview of the IKE protocols, IKE
 
 ### Related Topics
 ↗ [Key Management](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Key%20Management.md)
-↗ [Key Exchange & Agreement (one-to-one)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Exchange%20&%20Agreement%20(one-to-one)/Key%20Exchange%20&%20Agreement%20(one-to-one).md)
+↗ [Key Agreement, Transport, and Exchange (one-to-one)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one).md)
 
 
 

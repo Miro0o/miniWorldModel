@@ -6,6 +6,12 @@
 
 ## Res
 ### Related Topics
+↗ [Cryptology & Secure Communication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+↗ [Cryptography](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
+↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+
+↗ [Security Protocols Formal Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+- ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 ### Other Resources
@@ -21,12 +27,11 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 
 
 ## Intro
+### Alice and Bob Notation
 > 🔗 https://en.wikipedia.org/wiki/Alice_and_Bob
 
 **Alice and Bob** are fictional characters commonly used as [placeholders](https://en.wikipedia.org/wiki/Placeholder_name "Placeholder name") in discussions about [cryptographic](https://en.wikipedia.org/wiki/Cryptography "Cryptography") systems and [protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol"), and in other science and engineering literature where there are several participants in a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment "Thought experiment"). The Alice and Bob characters were created by [Ron Rivest](https://en.wikipedia.org/wiki/Ron_Rivest "Ron Rivest"), [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir "Adi Shamir"), and [Leonard Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman "Leonard Adleman") in their 1978 paper "A Method for Obtaining Digital Signatures and Public-key Cryptosystems". Subsequently, they have become common [archetypes](https://en.wikipedia.org/wiki/Archetype "Archetype") in many scientific and engineering fields, such as [quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography "Quantum cryptography"), [game theory](https://en.wikipedia.org/wiki/Game_theory "Game theory") and [physics](https://en.wikipedia.org/wiki/Physics "Physics"). As the use of Alice and Bob became more widespread, additional characters were added, sometimes with particular meanings. These characters do not have to refer to people; they refer to generic agents which might be different computers or even different programs running on a single computer.
-
-
-### Cast of Characters
+#### Cast of Characters
 > 🔗 https://en.wikipedia.org/wiki/Alice_and_Bob#Cast_of_characters
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -57,6 +62,48 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 | _Victor_[19](https://en.wikipedia.org/wiki/Alice_and_Bob#cite_note-Schneier1996-19) or _Vanna_[28](https://en.wikipedia.org/wiki/Alice_and_Bob#cite_note-28)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | _A verifier_, who requires proof from the _prover_.                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | _Walter_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | A _[warden](https://en.wikipedia.org/wiki/Prison_warden "Prison warden")_, who may guard Alice and Bob.                                                                                                                                                                                                                                                                                                                                                                |
 | _Wendy_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | A _[whistleblower](https://en.wikipedia.org/wiki/Whistleblower "Whistleblower")_, who is an insider with privileged access capable of divulging information.                                                                                                                                                                                                                                                                                                           |
+
+
+
+## AnB Language
+> [!links]
+> ↗ [Security Protocols Formal Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+> - ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+> 
+> ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+> 
+> ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md)
+
+
+### AnB Syntax
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 4. 
+
+> [!TIP]
+> - Identifiers that start with uppercase: variables (E.g., A,B,KAB)
+> - Identifiers that start with lowercase: constants and functions (E.g., s,pre,sk)
+> - One should declare a type for all identifiers; OFMC can search for type-flaw attacks when using the option -untyped (in which case all types are ignored).
+> - The (initial) knowledge of agents MUST NOT contain variables of any type other than Agent.
+> 	- For long-term keys, passwords, etc. use functions like sk(A, B).
+> - Each variable that does not occur in the initial knowledge is freshly created during the protocol by the first agent who uses it.
+> 	- In the NSSK example, A creates NA, s creates KAB, B creates NB.
+
+
+### AnB Semantics
+> [!links]
+> ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
+
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 5. From Alice and Bob to Strands – Intuition
+
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 10. The Algebraic AnB Semantics
 
 
 

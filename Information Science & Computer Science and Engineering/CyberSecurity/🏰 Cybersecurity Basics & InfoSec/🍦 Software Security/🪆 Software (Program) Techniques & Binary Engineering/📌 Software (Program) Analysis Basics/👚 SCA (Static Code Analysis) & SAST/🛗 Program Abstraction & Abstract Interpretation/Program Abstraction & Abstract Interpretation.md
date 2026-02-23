@@ -26,7 +26,7 @@ This entry verifies a number of worklist algorithms for exploring sets of reacha
 ↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md) (program semantics, abstraction, and interpretation)
 
-↗ [(Formal) Model Checking](../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 - transition systems
 - semantics of transition systems:
 	- execution and traces
@@ -74,6 +74,7 @@ Abstract interpretation was formalized by the French computer scientist working 
 ## 🎯 Program Analysis Abstraction & Interpretation - In Mathematics
 ### Prerequisite 👨🏼‍🍼
 #### Posets & Lattice
+> [!links]
 > Prerequisite or background knowledge 🤔
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra /Group, Ring, and Field ⭐](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md#Group,%20Ring,%20and%20Field%20⭐)
 > ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
@@ -104,9 +105,10 @@ The reason why they are called latices is that they can be drawn using Hasse dig
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.34.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.53.png)
 #### Galois Connection & Safe-Approximation ⭐
+> [!links]
 > ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-> 
+
 > 🔗 [Galois connection - Wikipedia](https://en.wikipedia.org/wiki/Galois_connection)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.4
@@ -131,6 +133,7 @@ The first two rules give us confidence that whatever abstraction we choose, we *
 
 ==In practice, Galois connections allows us to map our infinite domain of may or must analyses into a more manageable abstract domain, while giving us guarantees that we are still correctly over- or under-estimating (safe-approximation).==
 ##### Adjunction and Testing
+> [!links]
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md) "adjunct functor"
 
@@ -421,6 +424,7 @@ We can see that we can only apply this operator a finite number of times until w
 
 Now, when running our analysis, we use the $\nabla$ operator instead of the $\sqcup$ operator, and we can continue computing until we reach a fixed point.
 
+> [!Definition]
 > Definition 3: K-Interval Abstraction
 > 
 > The interval abstraction $\text{Itval}_K$ is a tuple of two numbers $i, j$,   representing the interval of integers between $[i, j]$, both inclusive,  using a set of known boundaries $K$. $$\begin{aligned} \alpha(S) & = [\min S, \max S]  \\
@@ -504,6 +508,7 @@ The correct order to do this computation is in [reverse post-order](https://en.
 
 
 ### Context Sensitive Analysis & Support For Procedure Calls
+> [!links]
 > ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 > ↗ [Interprocedural Analysis](../Data%20Flow%20Analysis/📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
 > ↗ [Context-Sensitive Pointer Analysis](../Pointer%20Analysis%20&%20Alias%20Analysis/Context-Sensitive%20Pointer%20Analysis.md)
@@ -704,6 +709,7 @@ We can see that there exists a **Galois connection** between our concrete intege
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:dependent-variables
 ##### Inter-Procedure Sign Analysis
 #### 👉 Interval Abstraction (Integer Abstraction) -- Unbounded Analysis
+> [!links]
 > ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md) "Fixed Point"
 ##### Same-Procedure Interval Analysis
 > 🔗 https://courses.compute.dtu.dk/02242/topics/unbounded-static-analysis.html#sec:interval-abstraction
@@ -712,6 +718,7 @@ However, not all abstractions form a lattice of finite height. One example of su
 
 Here we represent a set integers as a interval between two numbers.
 
+> [!Definition]
 > Definition 2: Interval Abstraction
 > 
 > The interval abstraction $\text{Itval}$ is a tuple of two numbers $i, j$,   representing the interval of integers between $[i, j]$, both inclusive. 

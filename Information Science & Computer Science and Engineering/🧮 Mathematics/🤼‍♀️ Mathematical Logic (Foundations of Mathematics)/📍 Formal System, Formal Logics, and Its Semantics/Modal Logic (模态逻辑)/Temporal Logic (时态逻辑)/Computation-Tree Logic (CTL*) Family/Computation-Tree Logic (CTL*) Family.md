@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [Sequential Logic Circuits (时序逻辑电路)](../../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x04%20Sequential%20Logic%20Circuits%20(时序逻辑电路)/Sequential%20Logic%20Circuits%20(时序逻辑电路).md)
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
-↗ [MC Algorithms For CTL*](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
+↗ [MC Algorithms For CTL*](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20CTL*.md)
 
 
 ### Other Resources
@@ -43,7 +43,7 @@ In this logic a **path quantifier** can prefix an assertion composed of arbitrar
 	- For a path $\pi = s_0, s_1, s_2, …$ we define the $(i-1)$-th state by $\pi[i]=s_i$
 	- We can also define the prefix starting at the $(i-1)$-th state $\pi[i...]=s_i, s_{i+1}, ...$
 - We define the ==satisfaction set== of a (LTL, CTL, CTL\*, etc.) formula as the set of states that satisfy the formula $sat(\phi) = \{s ∣ s \models \phi\}$
-	- ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+	- ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 	- We say that a transition system ($T$) satisfies a formula ($\phi$) if all its initial states ($s\in I$) satisfy the formula:
 		- $T\models\phi \iff \forall s\in I. s \models\phi$
 	- or, equivalently:

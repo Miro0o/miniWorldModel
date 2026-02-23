@@ -214,7 +214,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 
 
 ## 🎯 网络空间安全管理(治理)体系
-↗ [Security Laws & Regulations & Standards](👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md) 
+↗ [Security Laws & Regulations & Standards](🗂️%20Protocol%20&%20Policy%20Security/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md) 
  
 管理是信息系统安全的灵魂（**三分技术，七分管理；管理与技术并重**）。信息系统安全的管理体系由法律管理、制度管理和培训管理三个部分组成。
 1. **法律管理**是根据相关的国家法律、法规对信息系统主体及其与外界关联行为的规范和约束。

@@ -13,7 +13,13 @@
 
 ↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-↗ [Cryptographic Protocols Modeling & Models of Communication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication.md)
+↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+
+
+### Learning Resources
+Baader, Franz, and Tobias Nipkow. Term rewriting and all that. Cambridge university press, 1998.
+
+ C. Kirchner and H. Kirchner. Rewriting, Solving, Proving. 1999-2006. Available at https://wiki.bordeaux.inria.fr/Helene-Kirchner/lib/exe/fetch.php?media=wiki:rsp.pdf.
 
 
 ### Other Resources

@@ -13,7 +13,7 @@
 ↗ [Software Testing](../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 - ↗ [Fuzzing (Concrete Execution)](Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 - ↗ [LLM & Fuzzing](../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
-↗ [(Formal) Model Checking](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 ↗ [Debuggers & Disassemblers & Decompilers](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 - ↗ [gdb (GNU DeBugger)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
@@ -67,13 +67,13 @@ It might seem obvious that we can learn about a program by running it, but it is
 
 
 ### Phases of Dynamic Analysis (in Formal Definition)
-> ↗ [(Formal) Model Checking](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> ↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html
 
 Dynamic analysis consists of three phases, [Trace Selection (§1.1)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-selection), [Trace Abstraction and Prediction (§1.3)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction), and [Trace Analysis (§1.2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-analysis).
 #### 1️⃣ Trace Selection
-> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+> ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 
 First, recall the definition of a Transition System from [Transition System and Traces (§2.4)](https://courses.compute.dtu.dk/02242/topics/semantics.html#sec:trace-semantics). A program $P$ can be described as a triplet $⟨𝐒𝐭𝐚𝐭𝐞_P,\delta_P,I_P⟩$, were $\delta_P$ is the transition function and $I_P$ is the set of initial states.
 
@@ -82,7 +82,7 @@ If the program is deterministic, there is only one trace per input state. If the
 
 Selecting the initial state or even executing the program is not trivial in practice (see [Running the Program (§2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:running-the-program)).
 #### 2️⃣ Trace Abstraction and Prediction & Program Properties
-> ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
+> ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
 >↗ [Temporal Logic (时态逻辑)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
 >- ↗  [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
 
@@ -99,7 +99,7 @@ Now that we have a trace, we can make several deductions about behaviors of the 
 Any question we can answer correctly for one trace can be turned into a _may analysis_ for the full program. If we find a trace that ends in a failure, the program might fail. If the we find a trace where opened resource is not closed, we know that program may not close all resources in the program. So, essentially for any property $X$ we can find in one trace, we can build an may analysis which can detect it: $$\exists\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 Actually, if we can increase the precision of the analysis by running the program multiple times. And, in the limit (assuming that we could run all traces) a dynamic analysis precisely captures any property. $$\forall\sigma\in I_p, \tau\in 𝐒𝐞𝐥𝐞𝐜𝐭(P,\sigma).𝚃𝙰_X(\tau)\impliesℒ_X(P)$$
 #### 3️⃣ Trace Analysis
-> ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
+> ↗ [(Formal) Model Checking /3️⃣ Models Analysis & Improvement](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#3️⃣%20Models%20Analysis%20&%20Improvement)
 > ↗ [Runtime Verification](Runtime%20Verification/Runtime%20Verification.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-prediction

@@ -25,7 +25,7 @@
 ↗ [Programming Language Processing & Program Execution](../../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Compilation & Program Loading Tools](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
-↗ [(Formal) Model Checking](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 ↗ [SRE (Software Reverse Engineering)](../SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
 ↗ [IDA Pro](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🩻%20SRE%20&%20Binary%20Analysis/👱🏻‍♀️%20IDA%20Pro/IDA%20Pro.md)

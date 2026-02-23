@@ -250,7 +250,7 @@ Suggested Notation for Machine Learning
 > RUSSELL & NORVIG
 > Chapter 19.9 Developing Machine Learning Systems
 > 
-> In this chapter we have concentrated on explaining the *theory* of machine learning. The *practice* of using machine learning to solve practical problems is a separate discipline. 
+> ==In this chapter we have concentrated on explaining the *theory* of machine learning. The *practice* of using machine learning to solve practical problems is a separate discipline.==
 > 
 > Over the last 50 years, the software industry has evolved a software development methodology that makes it more likely that a (traditional) software project will be a success. But we are still in the early stages of defining a methodology for machine learning projects; the tools and techniques are not as well-developed. Here is a breakdown of typical steps in the process.
 
@@ -371,7 +371,7 @@ So far we have looked at learning methods in which a single hypothesis is used t
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
-> Chapter 19
+> Chapter 19.5
 
 How can we be sure that our learned hypothesis will predict well for previously unseen inputs? That is, how do we know that the hypothesis h is close to the target function $f$ if we don’t know what $f$ is? These questions have been pondered for centuries, by Ockham, Hume, and others. In recent decades, other questions have emerged: how many examples do we need to get a good $h$? What hypothesis space should we use? If the hypothesis space is very complex, can we even find the best $h$, or do we have to settle for a local maximum? How complex should $h$ be? How do we avoid overfitting? This section examines these questions.
 
@@ -420,6 +420,24 @@ The third, which we pursue next, is to focus on learnable subsets of the entire 
 > In which we examine the problem of learning when you know something already.
 
 In all of the approaches to learning described in the previous chapter, the idea is to construct a function that has the input–output behavior observed in the data. In each case, the learning methods can be understood as searching a hypothesis space to find a suitable function, starting from only a very basic assumption about the form of the function, such as “second-degree polynomial” or “decision tree” and perhaps a preference for simpler hypotheses. Doing this amounts to saying that before you can learn something new, you must first forget (almost) everything you know. In this chapter, we study learning methods that can take advantage of **prior knowledge** about the world. In most cases, the prior knowledge is represented as general first-order logical theories; thus for the first time we bring together the work on knowledge representation and learning.
+
+
+### A Logical Formulation of Learning
+
+
+### Knowledge in Learning
+
+
+### Explanation-Based Learning
+
+
+### Learning Using Relevance Information
+
+
+### Inductive Logic Programming (ILP)
+> [!links]
+> ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+> ↗ [Logic Programs & Symbolic Artificial Intelligence](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20Artificial%20Intelligence/Logic%20Programs%20&%20Symbolic%20Artificial%20Intelligence.md)
 
 
 

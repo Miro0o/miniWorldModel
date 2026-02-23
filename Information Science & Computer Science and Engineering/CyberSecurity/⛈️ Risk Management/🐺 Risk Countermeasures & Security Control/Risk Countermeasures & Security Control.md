@@ -10,7 +10,7 @@
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 ↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
-- ↗ [Security Laws & Regulations & Standards](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md)
+- ↗ [Security Laws & Regulations & Standards](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🗂️%20Protocol%20&%20Policy%20Security/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md)
 - ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 	- ↗ [Software Supply Chains Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
 - ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)

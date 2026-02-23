@@ -12,6 +12,11 @@
 ↗ [Risk Countermeasures & Security Control](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 ↗ [Comprehensive Defense Systems & Security Products](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
 
+[Access Control (访问控制)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md) "AAA mechanism"
+
+
+### Other Resources
+
 
 
 ## Intro
@@ -208,7 +213,7 @@ We make this precise with an experiment/security game, the IND-CPA game:
 
 
 
-## 4️⃣ Non-Repudiation
+## 4️⃣ Non-Repudiation (Accountability)
 抗抵赖机制定义：抗抵赖机制旨在生成、收集、维护有关已声明的事件或动作的证据，并使该证据可得并且确认该证据，以此来解决关于此事件或动作发生或未发生而引起的争议。
 
 抗抵赖机制的意义：抗抵赖机制是数据完整性的衍生。数据完整性保证发送方和接收方的网络传送数据不被第三方篡改和替换，但不能保证**双方自身**的欺骗和抵赖。

@@ -151,7 +151,7 @@ https://stanford.edu/~shervine/
 
 
 
-## Intro: Neural Network
+## Intro
 ### Neuron, and The Connection of Information
 ![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
@@ -161,7 +161,23 @@ https://stanford.edu/~shervine/
 Features in data (数据特征): such **connections** between **informations** that leads to some semantic interpretation. 🤔
 
 
-### Neural Network / Deep (Neural) Network?
+### Deep Learning & Artificial Neural Networks
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 22
+
+**Deep learning** is a broad family of techniques for machine learning in which hypotheses take the form of complex algebraic circuits with tunable connection strengths. The word “deep” refers to the fact that the circuits are typically organized into many **layers**, which means that computation paths from inputs to outputs have many steps. Deep learning is currently the most widely used approach for applications such as visual object recognition, machine translation, speech recognition, speech synthesis, and image synthesis; it also plays a significant role in reinforcement learning applications (see Chapter 23).
+
+Deep learning has its origins in early work that tried to model networks of neurons in the brain (McCulloch and Pitts, 1943) with computational circuits. For this reason, the networks trained by deep learning methods are often called **neural networks**, even though the resemblance to real neural cells and structures is superficial.
+
+While the true reasons for the success of deep learning have yet to be fully elucidated, it has self-evident advantages over some of the methods covered in Chapter 19—particularly for high-dimensional data such as images. For example, although methods such as linear and logistic regression can handle a large number of input variables, the computation path from each input to the output is very short: multiplication by a single weight, then adding into the aggregate output. Moreover, the different input variables contribute independently to the output, without interacting with each other (Figure 22.1(a)). This significantly limits the expressive power of such models. They can represent only linear functions and boundaries in the input space, whereas most real-world concepts are far more complex.
+
+![](../../../../../../Assets/Pics/Screenshot%202026-02-21%20at%2021.05.30.png)
+
+Decision lists and decision trees, on the other hand, allow for long computation paths that can depend on many input variables—but only for a relatively small fraction of the possible input vectors (Figure 22.1(b)). If a decision tree has long computation paths for a significant fraction of the possible inputs, it must be exponentially large in the number of input variables. The basic idea of deep learning is to train circuits such that the computation paths are long, allowing all the input variables to interact in complex ways (Figure 22.1(c)). These circuit models turn out to be sufficiently expressive to capture the complexity of real-world data for many important kinds of learning problems.
+
+Section 22.1 describes simple feedforward networks, their components, and the essentials of learning in such networks. Section 22.2 goes into more detail on how deep networks are put together, and Section 22.3 covers a class of networks called convolutional neural networks that are especially important in vision applications. Sections 22.4 and 22.5 go into more detail on algorithms for training networks from data and methods for improving generalization. Section 22.6 covers networks with recurrent structure, which are well suited for sequential data. Section 22.7 describes ways to use deep learning for tasks other than supervised learning. Finally, Section 22.8 surveys the range of applications of deep learning.
+#### Neural Network / Deep (Neural) Network (DNN)?
 #neural_networks #deep_learning #DNN 
 
 - **Neural Networks**: Slow learning, potentially very powerful, can learn very complex patterns. Can be prone to overfitting due to high density of the parameters.
@@ -180,27 +196,30 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 
 
-## Understanding Neural Networks and Deep Learning
-https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
-Neural networks | 3Blue1Brown
-- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
-- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
-- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
-- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
-- [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
-- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
-- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
-- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+## Neural Network Basics
+> [!TIP]
+> https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+> Neural networks | 3Blue1Brown
+> -  [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+> - [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+> - [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+> - [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+> - [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+> - [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
+> - [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
+> - [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
 
-
-### Neural Network Basics
 1. Linear Perceptrons
 	1. XOR Problems
 2. MLP (Multi-Layer Perceptron)
-#### MLP (Multi Layer Perceptrons)
+
+
+### MLP (Multi Layer Perceptrons)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
 <small>fully connected, dense layer</small>
-#### Gradient Descent & Backpropagation
+
+
+### Gradient Descent & Backpropagation
 https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 Neural networks | 3Blue1Brown
 - [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
@@ -213,39 +232,50 @@ This is the most step-by-step spelled-out explanation of backpropagation and tra
 - micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
 - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
-#### Feed-Forward Neural Networks (FFNN)
 
 
-### CNN (Convolution Neural Network)
-↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-- ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)
-- ↗ [YOLO (Ultralytics)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/YOLO%20(Ultralytics)/YOLO%20(Ultralytics).md)
-- etc.
+### Feed-Forward Neural Networks (FFNN)
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 22.1
 
+A feedforward network, as the name suggests, has connections only in one direction—that is, it forms a directed acyclic graph with designated input and output nodes. Each node computes a function of its inputs and passes the result to its successors in the network. Information flows through the network from the input nodes to the output nodes, and there are no loops.
 
-### RNN (Recurrent Neural Network)
-↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-#### LSTM (Long-Short Term Memories)
-↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
+A recurrent network, on the other hand, feeds its intermediate or final outputs back into its own inputs. This means that the signal values within the network form a dynamical system that has internal state or memory. We will consider recurrent networks in Section 22.6.
 
-
-### Transformer & LLM
-↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-- ↗ [OpenAI ChatGPT](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20ChatGPT.md)
-- ↗ [Google Gemini](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
-- ↗ [Anthropic Claude](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
-- ↗ [Meta LLama](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
-- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
-- ↗ [xAI Grok](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
+Boolean circuits, which implement Boolean functions, are an example of feedforward networks. In a Boolean circuit, the inputs are limited to 0 and 1, and each node implements a simple Boolean function of its inputs, producing a 0 or a 1. In neural networks, input values are typically continuous, and nodes take continuous inputs and produce continuous outputs. Some of the inputs to nodes are parameters of the network; the network learns by adjusting the values of these parameters so that the network as a whole fits the training data.
 
 
 
-## Development Circle of Neural Networks
+## Neural Networks Developments
+> [!links]
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+
 ↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+- ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
+	- ↗ [VGGNet](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/VGGNet/VGGNet.md)
+	- ↗ [ResNet (Residual Networks)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/ResNet%20(Residual%20Networks)/ResNet%20(Residual%20Networks).md)
+	- etc.
+- ↗ [RNN (Recurrent Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
+	- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
+	- ↗ [RetNet (Retentive Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RetNet%20(Retentive%20Network)/RetNet%20(Retentive%20Network).md)
+- ↗ [SSM (State-Space Model)](2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/SSM%20(State-Space%20Model).md)
+- ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+	- ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+		- ↗ [OpenAI ChatGPT](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20ChatGPT.md)
+		- ↗ [Google Gemini](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
+		- ↗ [Anthropic Claude](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
+		- ↗ [Meta LLama](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
+		- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+		- ↗ [xAI Grok](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
+- ↗ [GNN (Graph Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
+
 ↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
+
 ↗ [Process Monitoring](4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
+
 ↗ [Deployment & Application](5️⃣%20Deployment%20&%20Application/Deployment%20&%20Application.md)
 
 

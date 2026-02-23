@@ -141,6 +141,7 @@ At its core, AI is the science of making machines **smart**—capable of perfor
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
+> Chapter 1
 
 This chapter defines AI and establishes the cultural background against which it has developed. Some of the important points are as follows:
 - Different people approach AI with different goals in mind. Two important questions to ask are: Are you concerned with thinking, or behavior? Do you want to model humans, or try to achieve the optimal results?
@@ -158,6 +159,9 @@ This chapter defines AI and establishes the cultural background against which it
 - As AI systems find application in the real world, it has become necessary to consider a wide range of risks and ethical consequences.
 - In the longer term, we face the difficult problem of controlling superintelligent AI systems that may evolve in unpredictable ways. Solving this problem seems to necessitate a change in our conception of AI.
 #### Foundations of AI
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 1
 ##### Philosophy
 
 ##### Mathematics
@@ -194,6 +198,7 @@ This chapter defines AI and establishes the cultural background against which it
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
+> Chapter 2
 
 This chapter has been something of a whirlwind tour of AI, which we have conceived of as the science of agent design. The major points to recall are as follows:
 - An agent is something that perceives and acts in an environment. The agent function for an agent specifies the action taken by the agent in response to any percept sequence.
@@ -341,11 +346,11 @@ Many important areas of AI are based on factored representations, including cons
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 > ↗ [Constraint Satisfaction Problems (CSPs)](🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
 > 
-> ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+> ↗ [Constraint Solving & Theorem Proving](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > - ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 > - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 > - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
->↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+>↗ [(Formal) Model Checking](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 >
 > ↗ [Automated Planning and Scheduling (APS) & AI Planning](Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
 > ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
@@ -489,7 +494,9 @@ So:
 > [!links]
 > ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
 > ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-> ↗ [Neural Network Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> - ↗ [Neural Network Models](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+>
 > ↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 > 🤖 GPT-5.2
@@ -569,6 +576,122 @@ but:
 | LLM training | prediction loss          |
 Different tools, same underlying idea.
 #### 🎯 AI With Self-Awareness: Self vs Non-Self (Broad AI)
+
+
+
+## Philosophy, Ethics, and Risks of AI
+> [!links]
+> ↗ [Philosophy, Ethics, and Risks of AI](Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
+> ↗ [Trust-worthy AI & LLM Safety and Security](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 29
+
+> In which we consider the big questions around the meaning of AI, how we can ethically develop and apply it, and how we can keep it safe.
+
+Philosophers have been asking big questions for a long time: How do minds work? Is it possible for machines to act intelligently in the way that people do? Would such machines have real, conscious minds?
+
+To these, we add new ones: What are the ethical implications of intelligent machines in day-to-day use? Should machines be allowed to decide to kill humans? Can algorithms be fair and unbiased? What will humans do if machines can do all kinds of work? And how do we control machines that may become more intelligent than us?
+
+- The Limits of AI
+	- The argument from informality
+	- The argument from disability
+	- The mathematical objection
+	- Measuring AI
+- Can Machines Really Think?
+	- The Chinese room
+	- Consciousness and qualia
+- The Ethics of AI
+	- Lethal autonomous weapons
+	- Surveillance, security, and privacy
+	- Fairness and bias
+	- Trust and transparency
+	- The future of work
+	- Robot rights
+	- AI Safety
+
+This chapter has addressed the following issues:
+- Philosophers use the term weak AI for the hypothesis that machines could possibly behave intelligently, and strong AI for the hypothesis that such machines would count as having actual minds (as opposed to simulated minds).
+- Alan Turing rejected the question “Can machines think?” and replaced it with a behavioral test. He anticipated many objections to the possibility of thinking machines. Few AI researchers pay attention to the Turing test, preferring to concentrate on their systems’ performance on practical tasks, rather than the ability to imitate humans.
+- Consciousness remains a mystery.
+- AI is a powerful technology, and as such it poses potential dangers, through lethal autonomous weapons, security and privacy breaches, unintended side effects, unintentional errors, and malignant misuse. Those who work with AI technology have an ethical imperative to responsibly reduce those dangers.
+- AI systems must be able to demonstrate they are fair, trustworthy, and transparent.
+- There are multiple aspects of fairness, and it is impossible to maximize all of them at once. So a first step is to decide what counts as fair.
+- Automation is already changing the way people work. As a society, we will have to deal with these changes.
+
+
+
+## The Future of AI
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 29
+
+In Chapter 2, we decided to view AI as the task of designing approximately rational agents. A variety of different agent designs were considered, ranging from reflex agents to knowledge-based decision-theoretic agents to deep learning agents using reinforcement learning. There is also variety in the component technologies from which these designs are assembled: logical, probabilistic, or neural reasoning; atomic, factored, or structured representations of states; various learning algorithms from various types of data; sensors and actuators to interact with the world. Finally, we have seen a variety of applications, in medicine, finance, transportation, communication, and other fields. There has been progress on all these fronts, both in our scientific understanding and in our technological capabilities.
+
+Most experts are optimistic about continued progress; as we saw on page 46, the median estimate is for approximately human-level AI across a broad variety of tasks somewhere in the next 50 to 100 years. Within the next decade, AI is predicted to add trillions of dollars to the economy each year. But as we also saw, there are some critics who think general AI is centuries off, and there are numerous ethical concerns about the fairness, equity, and lethality of AI. In this chapter, we ask: where are we headed and what remains to be done? We do that by asking whether we have the right components, architectures, and goals to make AI a successful technology that delivers benefits to the world.
+
+
+### AI Components
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 29.1
+
+#### Sensors and Actuators
+
+#### Representing The State of The World
+
+#### Selecting Actions
+
+#### Deciding What We Want
+
+#### Learning
+
+#### Resources
+
+
+### AI Architectures
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 29.2
+
+It is natural to ask, “Which of the agent architectures in Chapter 2 should an agent use?” The answer is, “All of them!” Reflex responses are needed for situations in which time is of the essence, whereas knowledge-based deliberation allows the agent to plan ahead. Learning is convenient when we have lots of data, and necessary when the environment is changing, or when human designers have insufficient knowledge of the domain.
+
+AI has long had a split between **symbolic systems** (based on logical and probabilistic inference) and **connectionist systems** (based on loss minimization over a large number of uninterpreted parameters). A continuing challenge for AI is to bring these two together, to capture the best of both. Symbolic systems allow us to string together long chains of reasoning and to take advantage of the expressive power of structured representations, while connectionist systems can recognize patterns even in the face of noisy data. One line of research aims to combine probabilistic programming with deep learning, although as yet the various proposals are limited in the extent to which the approaches are truly merged.
+- ↗ [Neuro-Symbolic AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+
+Agents also need ways to *control their own deliberations*. They must be able to use the available time well, and cease deliberating when action is demanded. For example, a taxi-driving agent that sees an accident ahead must decide in a split second whether to brake or swerve. It should also spend that split second thinking about the most important questions, such as whether the lanes to the left and right are clear and whether there is a large truck close behind, rather than worrying about where to pick up the next passenger. These issues are usually studied under the heading of **real-time AI**. As AI systems move into more complex domains, all problems will become real-time, because the agent will never have long enough to solve the decision problem exactly.
+
+Clearly, there is a pressing need for general methods of controlling deliberation, rather than specific recipes for what to think about in each situation. The first useful idea is the **anytime algorithms** (Dean and Boddy, 1988; Horvitz, 1987): an algorithm whose output quality improves gradually over time, so that it has a reasonable decision ready whenever it is interrupted. Examples of anytime algorithms include **iterative deepening** in game-tree search and **MCMC** in Bayesian networks.
+
+The second technique for controlling deliberation is **decision-theoretic metareasoning** (Russell and Wefald, 1989; Horvitz and Breese, 1996; Hay et al., 2012). This method, which was mentioned briefly in Sections 3.6.5 and 6.7, applies the theory of information value (Chapter 15) to the selection of individual computations (Section 3.6.5). The value of a computation depends on both its cost (in terms of delaying action) and its benefits (in terms of improved decision quality).
+
+Metareasoning techniques can be used to design better search algorithms and to guarantee that the algorithms have the anytime property. Monte Carlo tree search is one example: the choice of leaf node at which to begin the next playout is made by an approximately rational metalevel decision derived from bandit theory.
+
+Metareasoning is more expensive than reflex action, of course, but compilation methods can be applied so that the overhead is small compared to the costs of the computations being controlled. Metalevel reinforcement learning may provide another way to acquire effective policies for controlling deliberation: in essence, computations that lead to better decisions are reinforced, while those that turn out to have no effect are penalized. This approach avoids the myopia problems of the simple value-of-information calculation.
+
+Metareasoning is one specific example of a **reflective architecture**—that is, an architecture that enables deliberation about the computational entities and actions occurring within the architecture itself. A theoretical foundation for reflective architectures can be built by defining a joint state space composed from the environment state and the computational state of the agent itself. Decision-making and learning algorithms can be designed that operate over this joint state space and thereby serve to implement and improve the agent’s computational activities. Eventually, we expect task-specific algorithms such as alpha–beta search, regression planning, and variable elimination to disappear from AI systems, to be replaced by general methods that direct the agent’s computations toward the efficient generation of high-quality decisions.
+
+Metareasoning and reflection (and many other efficiency-related architectural and algorithmic devices explored in this book) are necessary because making decisions is hard. Ever since computers were invented, their blinding speed has led people to overestimate their ability to overcome complexity, or, equivalently, to underestimate what complexity really means. The truly gargantuan power of today’s machines tempts one to think that we could bypass all the clever devices and rely more on brute force. So let’s try to counteract this tendency. We begin with what physicists believe to be the speed of the ultimate 1kg computing device: about 1051 operations per second, or a billion trillion trillion times faster than the fastest supercomputer as of 2020 (Lloyd, 2000).1 Then we propose a simple task: enumerating strings of English words, much as Borges proposed in The Library of Babel. Borges stipulated books of 410 pages. Would that be feasible? Not quite. In fact, the computer running for a year could enumerate only the 11-word strings.
+
+Now consider the fact that a detailed plan for a human life consists of (very roughly) twenty trillion potential muscle actuations (Russell, 2019), and you begin to see the scale of the problem. A computer that is a billion trillion trillion times more powerful than the human brain is much further from being rational than a slug is from overtaking the starship Enterprise traveling at warp nine.
+
+With these considerations in mind, it seems that the goal of building rational agents is perhaps a little too ambitious. Rather than aiming for something that cannot possibly exist, we should consider a different normative target—one that necessarily exists. Recall from Chapter 2 the following simple idea:
+
+```
+agent= architecture + program.
+```
+
+Now fix the agent architecture (the underlying machine capabilities, perhaps with a fixed software layer on top) and allow the agent program to vary over all possible programs that the architecture can support. In any given task environment, one of these programs (or an equivalence class of them) delivers the best possible performance—perhaps not close to perfect rationality, but still better than any other agent program. We say that this program satisfies the criterion of bounded optimality. Clearly it exists, and clearly it constitutes a desirable goal. The trick is finding it, or something close to it. 
+
+For some elementary classes of agent programs in simple real-time environments, it is possible to identify bounded-optimal agent programs (Etzioni, 1989; Russell and Subramanian, 1995). The success of Monte Carlo tree search has revived interest in metalevel decision making, and there is reason to hope that bounded optimality within more complex families of agent programs can be achieved by techniques such as metalevel reinforcement learning. It should also be possible to develop a constructive theory of architecture, beginning with theorems on the bounded optimality of suitable methods of combining different bounded-optimal components such as reflex and action–value systems.
+#### Generative AI & AGI
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+- ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
+#### AI Engineering
 
 
 

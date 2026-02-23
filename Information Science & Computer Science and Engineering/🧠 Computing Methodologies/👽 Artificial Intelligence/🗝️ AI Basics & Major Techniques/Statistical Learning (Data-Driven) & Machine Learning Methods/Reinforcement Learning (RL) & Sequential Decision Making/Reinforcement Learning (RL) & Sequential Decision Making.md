@@ -75,7 +75,16 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 #reinforcement_learning #control_theory
 
 > [!links]
-> [Cybernetics & Control Theory](../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+> ↗ [Cybernetics & Control Theory](../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+
+> [!quote]
+> E. D. Sontag. Mathematical Control Theory: Deterministic Finite Dimensional Systems. 2nd. Vol. 6. Texts in Applied Mathematics. Springer, 1998.
+> 
+> B. Recht. “A Tour of Reinforcement Learning: The View from Continuous Control”. In: Annual Review of Control, Robotics, and Autonomous Systems 2 (2019), pp. 253–279. url: http://arxiv.org/abs/1806.09460.
+> 
+> D. Bertsekas. Reinforcement learning and optimal control. Athena Scientific, 2019. url: http://www.mit.edu/~dimitrib/RLbook.html.
+> 
+> S. Meyn. Control Systems and Reinforcement Learning. Cambridge, 2022. url: https://meyn.ece.ufl.edu/2021/08/01/control-systems-and-reinforcement-learning/.
 
 
 

@@ -215,7 +215,7 @@ Classic cryptography, by modern standards, is not strictly cryptography; it is m
 > 📄 New Directions in Cryptography, W.Diffie, M.Hellman
 
 > [!links]
-> ↗ [Diffie-Hellman Based Key Exchange](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Exchange%20&%20Agreement%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
+> ↗ [Diffie-Hellman Based Key Exchange](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Exchange%20Algorithms%20&%20Protocols/Diffie-Hellman%20Based%20Key%20Exchange.md)
 > ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 #### Symmetric Key Cryptography
 It is an encryption system where the sender and receiver of a message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that the sender and receiver have to somehow exchange the key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).

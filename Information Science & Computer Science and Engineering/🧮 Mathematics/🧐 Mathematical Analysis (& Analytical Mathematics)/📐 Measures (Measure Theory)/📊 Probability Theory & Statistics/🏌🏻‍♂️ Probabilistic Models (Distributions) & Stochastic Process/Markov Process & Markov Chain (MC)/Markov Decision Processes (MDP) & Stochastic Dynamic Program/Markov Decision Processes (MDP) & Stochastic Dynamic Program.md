@@ -97,7 +97,7 @@ PRISM Games supports PCTL model checking for TSGs (and more).
 
 
 ### MDP Algorithm Basics
-> ↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
+> ↗ [MC Algorithms For PCTL](../../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/MC%20Algorithms/MC%20Algorithms%20For%20CTL*%20Family/MC%20Algorithms%20For%20PCTL.md)
 
 **Measuring probabilities of paths**
 In an MDP it does not make sense to ask for the probability of arbitrary paths $$Pr_s({π ∈ Paths(s) ∣ π ⊧ ψ})?$$
