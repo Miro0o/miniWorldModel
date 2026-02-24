@@ -49,6 +49,22 @@ HexStrike AI MCP v6.0 features a multi-agent architecture with autonomous AI age
 	- **Real-time Adaptation** - System adapts based on results and discovered vulnerabilities
 	- **Advanced Reporting** - Visual output with vulnerability cards and risk analysis
 
+https://support.claude.com/en/articles/11932705-automated-security-reviews-in-claude-code
+Automated Security Reviews in Claude Code
+https://www.anthropic.com/news/claude-code-security
+Making frontier cybersecurity capabilities available to defenders
+- **Claude Code Security**, a new capability built into Claude Code on the web, is now available in a limited research preview. It scans codebases for security vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix security issues that traditional methods often miss.  
+- Security teams face a common challenge: too many software vulnerabilities and not enough people to address them. Existing analysis tools help, but only to a point, as they usually look for known patterns. Finding the subtle, context-dependent vulnerabilities that are often exploited by attackers requires skilled human researchers, who are dealing with ever-expanding backlogs.
+- AI is beginning to change that calculus. We’ve recently shown that [Claude can detect novel, high-severity vulnerabilities](https://red.anthropic.com/2026/zero-days/). But the same capabilities that help defenders find and fix vulnerabilities could help attackers exploit them.
+- Claude Code Security is intended to put this power squarely in the hands of defenders and protect code against this new category of AI-enabled attack. We’re releasing it as a limited research preview to Enterprise and Team customers, with expedited access for maintainers of open-source repositories, so we can work together to refine its capabilities and ensure it is deployed responsibly.
+
+https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot
+microsoft copilot
+
+
+### Teams & Groups
+https://red.anthropic.com/
+
 
 ### Other Resources
 https://aicyberchallenge.com/
@@ -59,7 +75,6 @@ https://aicyberchallenge.com/
 - [AutoAudit-7B](https://github.com/ddzipp/AutoAudit/blob/main)，此版本为demo版，基于[Alpaca-Lora](https://github.com/tloen/alpaca-lora)训练而来，在网络安全的英文领域回答效果尚佳，但暂时不具备上下文关联的功能，需要用更大参数的模型来解决。
 - AutoAudit-33B，该版本仍然在内部测试和训练过程中，我们会稍晚些时候放出。
 
-microsoft copilot
 
 
 
@@ -77,3 +92,6 @@ LLMs 的兴起也引入了关于它们可信度的担忧。与传统语言模型
 在一篇论文中，来自40个机构的近70位研究者合作提出了 TrustLLM—— 一个统一的框架，用于对 LLM 可信度的全面分析，包括现有工作的全面综述、可信 LLM 的不同维度的原则、一个新的测试基准，以及对主流 LLM 的全面可信度评估。此外，作者开源了用于快速评估 LLMs 的 toolkit，并且维护了一个 leaderboard 来展示 LLMs 的可信赖的表现。
 
 [What is Microsoft Security Copilot?]: https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot
+
+[Claude Code Security 技术原理全拆解，传统安全扫描工具真扛不住了? ｜ 源码七号站]: https://mp.weixin.qq.com/s/Y43YyWMLYnlSbEbBGILvdw
+[Anthropic一篇博客，IBM大跌13%，创25年来最大单日跌幅 | 量子位]: https://mp.weixin.qq.com/s/rbWKuLY5NF7DMM-2binZmg

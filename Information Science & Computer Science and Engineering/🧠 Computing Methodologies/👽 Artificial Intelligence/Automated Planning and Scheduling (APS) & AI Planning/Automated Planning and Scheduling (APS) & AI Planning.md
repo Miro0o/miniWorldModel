@@ -104,7 +104,7 @@ A set of action schemas serves as a definition of a planning **domain**. A speci
 ![](../../../../Assets/Pics/Screenshot%202026-02-20%20at%2022.01.58.png)
 
 
-### Algorithms for Classical Planning
+### Algorithms for Classical Planning 🤔
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 11
@@ -113,6 +113,10 @@ Forward state-space search (progression) for planning
 Backward search (regression search) for planning
 Planning as Boolean satisfiability
 Other classical planning approaches
+- Graphplan (planning graph)
+- Situation calculus
+- CSP & SAT Solving
+- POP (partial order planning)
 
 
 ### Heuristics For Planning

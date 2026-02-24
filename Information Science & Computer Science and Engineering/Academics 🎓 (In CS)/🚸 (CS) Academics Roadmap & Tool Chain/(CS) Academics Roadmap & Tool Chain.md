@@ -80,7 +80,11 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 ## 0️⃣ Before Academic Research..
-### Agentic LLM & AI Work Flow
+### Agentic LLM & AI Work Flow 🤔
+> [!links]
+> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Research.md)
+
+
 42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
 
 
@@ -97,7 +101,8 @@ academic methedology
 
 
 ### 📲 Follow Scholars & Academic Trends & Updates 
-↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+> [!links]
+> ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
 https://www.aminer.cn/
 AI帮你理解科学
@@ -174,7 +179,9 @@ Consensus
 
 
 ### Paper Explore /Analysis /Visualization ⭐
-↗ [Bib-Management](Bib-Management/Bib-Management.md)
+> [!links]
+> ↗ [Bib-Management](Bib-Management/Bib-Management.md)
+> ↗ [AI4Research](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Research.md)
 
 
 🔍 https://keywords.groundedai.company
@@ -224,6 +231,9 @@ Your All-in-One
 AI Research Assistant
 Get research backed answers, find & analyze research papers, streamline literature reviews, manage references, and write documents - faster with one AI powered research platform.
 
+https://paperbanana.studio/
+PaperBanana   Publication-Ready  Academic Illustrations
+Our multi-agent AI framework retrieves references, plans layouts, applies styles, generates visuals, and critiques results — all in one seamless pipeline.
 
 
 ### How to Read Papers ⭐ ⭐
