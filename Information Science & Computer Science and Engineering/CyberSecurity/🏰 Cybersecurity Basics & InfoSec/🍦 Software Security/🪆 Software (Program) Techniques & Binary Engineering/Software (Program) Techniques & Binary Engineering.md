@@ -116,7 +116,8 @@ Just a collection of notes, snippets and other goodies..
 
 
 ## Intro to Software Analysis: Program & Binary Analysis
-> ↗ [Software (Program) Analysis Basics](📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
+> [!Links]
+> ↗ [Program Analysis Basics](📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
 <small>【南京大学《软件分析》课程01（Introduction）】 <a>https://www.bilibili.com/video/BV1b7411K7P4</a></small>
@@ -125,6 +126,9 @@ Just a collection of notes, snippets and other goodies..
 
 
 ### Program Analysis (and Its Automation)
+> [!links]
+> ↗ [Program Analysis Basics](📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Program_analysis
 
 In computer science, program analysis is the process of analyzing the behavior of computer programs regarding a property such as correctness, robustness, safety and liveness. Program analysis focuses on two major areas: **program optimization** and **program correctness**. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
@@ -133,8 +137,6 @@ Program analysis can be performed without executing the program (static program 
 
 ![](../../../../../Assets/Pics/Screenshot%202025-04-14%20at%2020.08.51.png)
 #### Program Analysis Techniques: Taxonomy
-↗ [Software (Program) Analysis Basics](📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md)
-
 ![Language_and_Programming_Language_Processing | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Static Code Analysis</small>
 

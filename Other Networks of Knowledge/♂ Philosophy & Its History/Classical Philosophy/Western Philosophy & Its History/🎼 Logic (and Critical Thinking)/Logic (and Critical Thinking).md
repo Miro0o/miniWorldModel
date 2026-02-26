@@ -203,13 +203,13 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 ### Properties & Evaluation of Logics
 > ↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
-> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 #### Decidability
 > ↗ [Decidability](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
 
 #### Soundness, Truth, and Completeness
 > ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
-> ↗ [Software (Program) Analysis Basics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/Software%20(Program)%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
+> ↗ [Program Analysis Basics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
 
 > 🔗 https://en.wikipedia.org/wiki/Soundness
 

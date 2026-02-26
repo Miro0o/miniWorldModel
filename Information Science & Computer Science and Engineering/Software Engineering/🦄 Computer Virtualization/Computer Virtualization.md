@@ -78,8 +78,8 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 
 ↗ [Bochs IA-32 (x86) PC emulator](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Exclusive/Bochs%20IA-32%20(x86)%20PC%20emulator.md)
 ↗ [QEMU (Quick EMUlator)](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU%20(Quick%20EMUlator)/QEMU%20(Quick%20EMUlator).md)
-↗ [VMware ESXi & VMware vSphere](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor/VMware%20ESXi%20&%20VMware%20vSphere/VMware%20ESXi%20&%20VMware%20vSphere.md)
-↗ [Microsoft Hyper-V](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor/Microsoft%20Hyper-V/Microsoft%20Hyper-V.md)
+↗ [VMware ESXi & VMware vSphere](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor%20(Bare%20Metal)/VMware%20ESXi%20&%20VMware%20vSphere/VMware%20ESXi%20&%20VMware%20vSphere.md)
+↗ [Microsoft Hyper-V](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor%20(Bare%20Metal)/Microsoft%20Hyper-V/Microsoft%20Hyper-V.md)
 
 
 ### Software Abstraction Level

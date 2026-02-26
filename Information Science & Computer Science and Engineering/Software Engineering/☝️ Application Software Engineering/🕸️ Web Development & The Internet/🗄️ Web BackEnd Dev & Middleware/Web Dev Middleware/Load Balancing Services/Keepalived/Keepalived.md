@@ -12,7 +12,7 @@
 
 ### Related Topics
 ↗ [VRRP (Virtual Router Redundancy Protocol)](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/VRRP%20(Virtual%20Router%20Redundancy%20Protocol).md)
-↗ [Nginx](../../🪇%20Reverse%20Proxy%20Servers/Nginx/Nginx.md)
+↗ [Nginx](../../🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers/Nginx/Nginx.md)
 
 
 

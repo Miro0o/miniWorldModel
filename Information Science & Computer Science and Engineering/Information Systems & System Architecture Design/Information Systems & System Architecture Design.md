@@ -28,21 +28,22 @@
 - ↗ [DS Web Services' Architectures](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 - ↗ [Database System Design](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/Database%20System%20Design.md)
 
+↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
+- ↗ [Application Software Engineering](../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
+	- ↗ [Enterprise Level Software Systems](../Software%20Engineering/☝️%20Application%20Software%20Engineering/👑%20Enterprise%20Level%20Software%20Systems/Enterprise%20Level%20Software%20Systems.md)
+- ↗ [System Software Engineering](../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
+↗ [Software (Program) Techniques & Binary Engineering](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+
 ↗ [Web Development & The Internet](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 ↗ [Web Application Systems & Architecture Design](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 
 ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)
 
-↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
-↗ [Software (Program) Techniques & Binary Engineering](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-
 ↗ [Information Theory](../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 ↗ [Cybersecurity Basics & InfoSec](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [History of Information Systems & Security Systems](../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
-
-↗ [Web Development & The Internet](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 ↗ [Macro Economics](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 - ↗ [Tertiary Economical Sector](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Tertiary%20Economical%20Sector.md)

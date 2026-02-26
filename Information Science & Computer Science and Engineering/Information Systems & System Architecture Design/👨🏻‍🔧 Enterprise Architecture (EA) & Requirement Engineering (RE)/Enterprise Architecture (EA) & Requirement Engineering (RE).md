@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+
 ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 ↗ [Modeling Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
@@ -14,6 +16,15 @@
 ↗ [DSL(Domain Specific Languages) & GPL(General Purpose Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages).md)
 - ↗ [ERD (Entity-Relationship Diagram)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
 - ↗ [UML (Unified Modeling Language)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
+
+↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
+- ↗ [Web Development & The Internet](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+	- ↗ [Web Application Systems & Architecture Design](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
+	- ↗ [Web Application System Architecture Design Pattern](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+- ↗ [Desktop & Monolithic Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/Desktop%20&%20Monolithic%20Application%20Development.md)
+- ↗ [Mobile Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Mobile%20Application%20Development/Mobile%20Application%20Development.md)
+
+↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 
 
 ### Learning Resources
@@ -124,10 +135,16 @@ Requirements engineering has been shown to clearly contribute to software projec
 
 ### Goal-oriented Requirements Engineering
 ↗ [Goal-Oriented Requirement Engineering](Goal-Oriented%20Requirement%20Engineering/Goal-Oriented%20Requirement%20Engineering.md)
+↗ [I-Star](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/I-Star.md)
+↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
 
 
 
 ## Enterprise Architecture (EA)
+> [!links]
+> ↗ [Enterprise Architecture Modeling](Enterprise%20Architecture%20Modeling/Enterprise%20Architecture%20Modeling.md)
+> ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
+
 > 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
 
 Enterprise Architecture (EA) is a discipline which has evolved to structure the business and its alignment with the IT systems. The [Zachman Framework](https://www.visual-paradigm.com/features/zachman-framework-tools/) is an enterprise ontology and is a fundamental structure for Enterprise Architecture which provides a way of viewing an enterprise and its information systems from different perspectives, and showing how the components of the enterprise are related.

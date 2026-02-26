@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [P2P Channels](../../../../0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/P2P%20Channels.md)
 
-↗ [Reverse Proxy Servers](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🪇%20Reverse%20Proxy%20Servers/Reverse%20Proxy%20Servers.md)
-- ↗ [frp (A Fast Reverse Proxy)](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🪇%20Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
+↗ [Reverse Proxy Servers & Application Servers](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
+- ↗ [frp (A Fast Reverse Proxy)](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
 
 ↗ [Tunneling & VPN (Virtual Personal Network)](../../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 ↗ [VPN & NAT Implementations](../../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)

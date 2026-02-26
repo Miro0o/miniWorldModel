@@ -37,7 +37,7 @@
 ### Java Web 三大件 😅
 > 🔗 https://www.freebuf.com/articles/web/274466.html
 > 
-> ↗ [Apache Tomcat](../Web%20Dev%20Middleware/Application%20Servers/Apache%20Tomcat/Apache%20Tomcat.md)
+> ↗ [Apache Tomcat](../Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Application%20Servers/Apache%20Tomcat/Apache%20Tomcat.md)
 > 可以对照tomcat架构辅助理解三大件。三大件是java web的通用规范（？）
 
 #### Servlet

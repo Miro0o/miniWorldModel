@@ -336,7 +336,7 @@ Cooperative banking, as discussed here, includes retail banking carried out by c
 ##### Investment Banking
 ↗ [Securities Analysis and Investment](Financial%20Investment/Financial%20Investment%20by%20Investment%20Instruments/Cash%20Instrument/Securities%20Analysis%20and%20Investment/Securities%20Analysis%20and%20Investment.md)
 #### 💸 Payment and Clearing System
-↗ [PCS (Payment and Clearing System)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
+↗ [PCS (Payment and Clearing System)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/Selected%20Information%20Systems/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
 #### Insurance (保险)
 ![](../../../../../Assets/Pics/Screenshot%202025-05-03%20at%2012.45.36.png)
 #### Trust (信托)

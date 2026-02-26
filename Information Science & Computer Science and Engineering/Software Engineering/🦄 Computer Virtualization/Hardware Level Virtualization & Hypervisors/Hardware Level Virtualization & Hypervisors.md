@@ -31,7 +31,7 @@ systems.
 ### 1️⃣ Native Hypervisor
 ![](../../../../../Assets/Pics/Pasted%20image%2020230308103729.png)
 
-↗ [Native Hypervisor](Hypervisors%20Implementation/Native%20Hypervisor/Native%20Hypervisor.md)
+↗ [Native Hypervisor (Bare Metal)](Hypervisors%20Implementation/Native%20Hypervisor%20(Bare%20Metal)/Native%20Hypervisor%20(Bare%20Metal).md)
 
 
 ### 2️⃣ Hosted Hypervisor

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SRE (Software Reverse Engineering)](../📌%20Software%20(Program)%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
+↗ [SRE (Software Reverse Engineering)](../📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
 ↗ [Vulnerabilities](../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 
 

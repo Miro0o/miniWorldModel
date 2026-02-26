@@ -38,6 +38,11 @@ Suvansh Lal, Mohit Jain, Vikrant Chaplot
 Dhirubhai Ambani Institute of Information and Communication Technology
 - To achieve our objective we introduce four well known verification approaches – 1) the **sequential programming** approach; 2 )the **logic programming** approach; 3) the **strand spaces** approach and the 4) **belief based** approach – falling under the broader domains of **model checking** and **logical inference**. Each of the above mention methodologies are applied to formally verify the Needham Schroeder Public Key protocol [3] for Lowe’s attack[4]. In the process of doing so, we compare these approaches for their specification ease, competence in determining complex security flaws; and computational costs. We also make an explicit mention of the advantages and limitations of using these approaches in verifying similar systems.
 
+https://www.ercim.eu/publication/Ercim_News/enw64/armando.html
+AVISPA: Automated Validation of Internet Security Protocols and Applications
+by Alessandro Armando, David Basin, Jorge Cuellar, Michael Rusinowitch and Luca Viganò
+- AVISPA is a push-button tool for the Automated Validation of Internet Security Protocols and Applications. It provides a modular and expressive formal language for specifying protocols and their security properties, and integrates different back-ends that implement a variety of state-of-the-art automatic analysis techniques. Experimental results, carried out on a large library of Internet security protocols, indicate that the AVISPA tool is the state of the art for automatic security protocols. No other tool combines the same scope and robustness with such performance and scalability.
+
 
 
 ## Intro
@@ -730,10 +735,8 @@ A protocol is called ==type-flaw resistant== if the following holds:
 > Given an attack against a type-flaw resistant protocol. Then there is a **well-typed** attack against the protocol, i.e., where the intruder sends **no ill-typed** messages. [Hess & M.], extending [Arapinis & Duflot]
 
 As a consequence, it is sound to restrict the intruder model to well-typed messages for type-flaw resistant protocols.
-
-This often removes a lot of “garbage” from the analysis.
-
-This comes at a low price: clear messages are good engineering practice anyway!
+- This often removes a lot of “garbage” from the analysis.
+- This comes at a low price: clear messages are good engineering practice anyway!
 
 > [!TIP]
 > **Proof idea** (slides protsec4)
@@ -903,8 +906,8 @@ The principle limitation does not mean, however, that one cannot solve practical
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
 > ↗ [Constraint Satisfaction Problems (CSPs)](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
 > 
-> ↗ [SCA (Static Code Analysis) & SAST](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
-> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+> ↗ [SCA (Static Code Analysis) & SAST](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+> ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 > ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 ##### Symbolic Transition Systems
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
@@ -1172,7 +1175,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
 ### 🎯 Unbounded Approaches
 #### Abstract Interpretation (Finding Proofs)
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+> ↗ [Program Abstraction & Abstract Interpretation](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 ##### A Example
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -1180,7 +1183,7 @@ guess good cryptographic keys), but one can do a few things to mitigate the risk
  >Chapter 14.1
 ##### Two Abstractions & Galois-Connection
 > [!links]
-> ↗ [Program Abstraction & Abstract Interpretation /Galois Connection & Safe-Approximation ⭐](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Galois%20Connection%20&%20Safe-Approximation%20⭐)
+> ↗ [Program Abstraction & Abstract Interpretation /Galois Connection & Safe-Approximation ⭐](../../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md#Galois%20Connection%20&%20Safe-Approximation%20⭐)
 > ↗ [Galois Theory](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
 > ↗ [Category Theory (范畴论)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 

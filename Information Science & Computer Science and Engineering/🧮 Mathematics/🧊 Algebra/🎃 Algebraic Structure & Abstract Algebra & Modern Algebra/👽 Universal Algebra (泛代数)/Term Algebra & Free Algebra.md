@@ -23,6 +23,12 @@ Baader, Franz, and Tobias Nipkow. Term rewriting and all that. Cambridge univers
 
 
 ### Other Resources
+https://inst.eecs.berkeley.edu/~cs294-260/sp24/2024-01-22-term-rewriting
+Term Rewriting
+- Monday, January 22, 2024
+- Equational reasoning is a powerful technique in programming languages and many other domains. In essence, you have a set of equations and you are interested in the consequences of these equations. Maybe you want to prove that two expressions are equal, or maybe you want to simplify an expression.
+- Term rewriting is the most common mechanism for equational reasoning; it’s the basis of optimizing compilers, theorem provers, computer algebra systems, and many other systems that need to reason about programs.
+- The purpose of this lecture is to give a (rather quick) introduction to term rewriting, so we can discuss various applications via papers in later discussions.
 
 
 

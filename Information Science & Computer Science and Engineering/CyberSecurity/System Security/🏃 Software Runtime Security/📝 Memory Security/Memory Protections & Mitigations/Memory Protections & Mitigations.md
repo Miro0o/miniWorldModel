@@ -67,7 +67,7 @@ Yet another way to defend your code is to use tools to analyze and patch insecur
 	- Bug-finding tools
 		- Excellent resource, as long as there aren’t too many false alarms
 		- ↗ [Valgrind](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
-		- ↗ [Fuzzing (Concrete Execution)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md), or testing with random inputs, testing corner cases
+		- ↗ [Fuzzing (Concrete Execution)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md), or testing with random inputs, testing corner cases
 	- Code review
 		- Have someone look over your code for memory safety errors. Can be very effective… but also expensive
 	- Vulnerability scanning

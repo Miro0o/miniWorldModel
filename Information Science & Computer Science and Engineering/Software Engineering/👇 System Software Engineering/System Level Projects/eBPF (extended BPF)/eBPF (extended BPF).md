@@ -16,8 +16,8 @@
 
 ↗ [BPF (Berkeley Packet Filter)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Filtering%20Expression/BPF%20(Berkeley%20Packet%20Filter).md)
 
-↗ [Hook Techniques](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Hook%20Techniques.md)
-↗ [Linux Hook](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Software%20(Program)%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Linux%20Hook.md)
+↗ [Hook Techniques](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Hook%20Techniques.md)
+↗ [Linux Hook](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/Hook%20Techniques/Linux%20Hook.md)
 
 
 ### Documentation
