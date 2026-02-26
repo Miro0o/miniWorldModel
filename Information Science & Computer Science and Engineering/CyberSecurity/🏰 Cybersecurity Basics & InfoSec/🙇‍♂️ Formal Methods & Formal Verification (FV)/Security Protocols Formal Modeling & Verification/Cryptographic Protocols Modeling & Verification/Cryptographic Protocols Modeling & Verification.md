@@ -420,7 +420,7 @@ Overview of Problem Areas
 > An attack is a strand space where the following conditions are met:
 > - Messages sent by honest agents are received by `i`
 > - Messages received by honest agents are sent by `i` who can compose the message from the messages he has received so far.
-> 	- In the example: $\{m_1\}⊢m_2$ and $\{\color{blue}m_1, m_3\color{black}\}⊢\color{red}m_4\color{black}$.
+> 	- In the example: $\{m_1\}⊢m_2$ and $\{{\color{blue}m_1, m_3}\}\}⊢\color{red}m_4\color{black}$.
 > - The successful completion violates a goal of the protocol.
 #### Example: Building a Key-Establishment Protocol
 > [!links]
@@ -915,7 +915,7 @@ The principle limitation does not mean, however, that one cannot solve practical
  >Sebastian M ̈odersheim,
  >Chapter 12
 ##### The Lazy Intruder
-Recall the automated ↗ [Dolev–Yao (DY)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md) deduction and attack semantics in strand space: 
+Recall the automated ↗ [Dolev–Yao (DY)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md) deduction and ↗ [attack semantics (of AnB language)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md) in strand space: 
 
 > [!example]
 > ==Attacks in strands semantic== (Dolve-Yao model)
@@ -1026,6 +1026,7 @@ There are several problems in the vanilla DY automation approach:
 	- This chapter (lazy intruder): We will solve this problem with a constraint approach: the lazy intruder.
 	- ![|400](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2018.48.31.png)
 
+![](../../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.42.29.png)
 
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial
@@ -1153,6 +1154,15 @@ Lazy intruder summary:
 > \sigma(M_2) &\vdash \sigma({\color{blue}n18})
 > \end{aligned}
 > $$
+
+> [!Abstract] Theorem (Rusinowitch & Turuani 2001)
+> ↗ [Complexity Theory & Computational Complexity](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> 
+> Protocol insecurity for a bounded number of sessions is NP-complete. 
+> 
+> Proof Sketch.
+> - **In NP**: Guess a symbolic attack trace for the given strands and a sequence of reduction steps for the resulting constraints. Check that this sequence of reduction steps solves the constraint.
+> - **NP-hard**: Polynomial reduction for boolean formulae to security protocols such that formula satisfiable iff protocol has an attack.
 #### Guess Attacks & Mitigations
 > [!links]
 > ↗ [Password Attack](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)

@@ -420,13 +420,13 @@ Conclusion $\mathrm{mortal}(\mathrm{sokrates})$
 - Independent of the precise definitions of **human** and **mortal**.
 - In every *interpretation* that fulfills the premises, also the conclusion is fulfilled.
 - One can regard it as even more basic reasoning steps, e.g. natural deduction: $$
+\frac{
 \frac{\forall X.\ h(X)\Rightarrow m(X)}
 {h(s)\Rightarrow m(s)}
 \;\forall E
-\qquad
-\frac{h(s)\Rightarrow m(s)\qquad h(s)}
+\qquad h(s)}
 {m(s)}
-\;\Rightarrow E
+\;\rightarrow E
 $$
 #### Axiomatization of Mathematics & Axiomatic System ⭐
 > [!links]

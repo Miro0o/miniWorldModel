@@ -769,8 +769,18 @@ or（感性，理性）X （认识，实践）
 	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
 	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 - 人及人类社会发展：涉及人类拥有的所有知识
-	- 矛盾：无限的欲望 🆚（有限的能力 导致的 有限的资源）；资源的开发与分配成为人类社会发展的核心问题。而这又由涉及两个主要问题：权力和科学。
 	- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+	- ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+	- 核心矛盾与动力：欲望与能力（思考与行动）
+		- 无限的欲望 🆚（有限的能力 导致的 有限的资源）
+		- 个人层面：
+			- 资源的分配（社会分配给个人）成为个人发展的核心问题。
+				- 个人本身不创造个人发展所需的直接资源，而是通过参与社会分配来从社会中得到资源。比如赚钱来购买衣食住行。赚钱就是参与社会资源分配的一种行为。
+		- 社会层面：
+			- 资源的开发与分配成为人类社会发展的核心问题
+				- 资源的开发：生产力（科技主导）
+				- 资源的分配：生产关系（权力主导）
 
 本篇文章，及整个笔记中涉及到的发展的话题，都是指人及人类社会的发展，而不谈及物理宇宙的发展：因为后者已经属于某个或某些具体科学的学科范畴。
 #### 人类发展的根本动力：自我意识（欲望）

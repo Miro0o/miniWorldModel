@@ -27,12 +27,13 @@ The **Dolev–Yao model**, named after its authors [Danny Dolev](https://en.w
  >Sebastian M ̈odersheim,
  >Chapter 7.
  
-One of the most cited papers of protocol verification is one by Danny Dolev and Andrew Yao [11] because they suggested a simple but comprehensive intruder model that has become the de-facto standard for modeling an intruder if one does not consider the cryptographic level. The original paper considers only public-key encryption as a cryptographic primitive, but it is common to treat other primitives in the same spirit. Here are the key points:
+One of the most cited papers of protocol verification is one by Danny Dolev and Andrew Yao^[On the Security of Public Key Protocols (IEEE Trans. Inf. Th., 1983)] because they suggested a simple but comprehensive intruder model that has become the de-facto standard for modeling an intruder if one does not consider the cryptographic level. The original paper considers only public-key encryption as a cryptographic primitive, but it is common to treat other primitives in the same spirit. Here are the key points:
 - Every user has a public/private key pair.
 - Every user knows the public key of every other user.
-- The intruder is also a user with his own key pair.
-- The intruder can decrypt only messages that are “meant” for him, i.e., that are encrypted with his public key.
-- The intruder controls the network: he can read messages, block them, divert them to a different recipient, and insert new messages.
+- The Dolev-Yao intruder:
+	- The intruder is also a user with his own key pair.
+	- The intruder can decrypt only messages that are “meant” for him, i.e., that are encrypted with his public key.
+	- The intruder controls the network: he can read messages, block them, divert them to a different recipient, and insert new messages.
 
 It may seem excessive to assume the intruder controls the entire network (e.g., the entire
 Internet and also the Intranet of a company). However, this expresses simply that we do not rely the network to offer any protection, and we should not if a message may travel over any point that could be insecure. We will later see how to integrate a notion of channels on which the intruder has no, or limited, control.
@@ -49,14 +50,31 @@ The insecure network is the classical view of secure communication (shannon-weav
  >Protocol Security Verification Tutorial
  >Sebastian M ̈odersheim,
  >Chapter 7.1
+ 
+==At the core of the Dolev-Yao intruder model is the question of the cryptographic abilities.== While
+Dolev and Yao only consider public-key cryptography, the general idea is that **the intruder “knows” all cryptographic algorithms** – these algorithms should not be considered a secret themselves, but only the secret keys. This is sometimes called Kerckhoff ’s principle. It is particularly important if you have dishonest participants, because they obviously need to know the algorithms. Note that only functions like $\operatorname{inv}(·)$ are exempt from this, because they do not represent a cryptographic operation, but a function in our model that assigns to every public key its corresponding private key.
 
-Another key idea of Dolev-Yao is now: the intruder can use all (public) cryptographic operations – but that is it, there is no other possibility to analyze messages, like cryptanalysis. Thus we model an intruder who has access to a *Crypto API*, i.e., a library of encryption and decryption algorithms, but all he ever does cryptographically are function calls to that library. All the security results we prove in this model thus are against an intruder who is oblivious to cryptography and may no longer hold against an attacker with crypto-analytic abilities.
+Another key idea of Dolev-Yao is now: **the intruder can use all (public) cryptographic operations** – but that is it, there is no other possibility to analyze messages, like cryptanalysis. Thus we model an intruder who has access to a *Crypto API*, i.e., a library of encryption and decryption algorithms, but all he ever does cryptographically are function calls to that library. All the security results we prove in this model thus are against an intruder who is oblivious to cryptography and may no longer hold against an attacker with crypto-analytic abilities.
+
+> [!tip]
+> ==The core of the Dolev-Yao model is a definition what the intruder can do with messages.==
+> - We define a relation $M ⊢m$ ...
+> 	- where $M$ is a set of messages, $m$ is a message 
+> - ... expressing that the intruder can derive $m$, if his knowledge is $M$.
+> 
+> The idea comes from syllogism (Aristotle) and (natural) deduction /deduction reasoning: 
+> - ↗ [Mathematics](../../../../🧮%20Mathematics/Mathematics.md)
+> - ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> - ↗ [Proof Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md), ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> 
+> > [!example]
+> > $$\begin{aligned} M &= \{\, k_1,\; \{\!\mid m_1 \mid\!\}_{k_1},\; m_2,\; \{\!\mid m_3 \mid\!\}_{k_2} \,\} \\[10pt] \text{Then we should have for instance:} \\ &\bullet\; M \vdash m_1 \\ &\bullet\; M \vdash m_2 \\ &\bullet\; M \nvdash m_3 \\ &\bullet\; M \vdash \{\!\mid \langle m_1, m_2 \rangle \mid\!\}_{k_1} \end{aligned} $$
 
 One could of course instead perform “cryptographic security proofs”, i.e., prove that a protocol is secure in an algebra like $\mathcal{C}$ in Example 4. This gets extremely complex as one has to then define bounds on the intruder’s resources, consider probabilities (since the intruder may make guesses) and use assumptions of the hardness of certain mathematical problems like prime factorization. If we think of a developer in industry whose goal is to design complex distributed systems then security against such a full-fledged cryptographic model may be infeasible: we should not require that all developers of systems that use cryptography are also cryptographers themselves.
 
 Our suggestion is to clearly distribute “responsibility” and a reasonable distribution can be: the goal of a crypto API should be, roughly speaking, that the intruder cannot derive any message that he cannot obtain from an API call. This is not trivial to formalize and prove, but there are several results that show the soundness of a Dolev-Yao model with respect to a concrete cryptographic implementation, e.g. [5].
 
-We formalize now the cryptographic abilities of the intruder according in the style of Dolev and Yao for our set of operators from Table 1 (↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md), definition of signature). This is a relation of the form $M \vdash m$ where $M$ is a finite set of messages, called the intruder knowledge, and $m$ is a message that is derivable from that knowledge:
+We formalize now the cryptographic abilities of the intruder according in the style of Dolev and Yao for our set of operators from Table 1 (↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md), definition of signature). This is a relation of the form $M \vdash m$ where $M$ is a finite set of messages, called the **intruder knowledge**, and $m$ is a message that is derivable from that knowledge:
 
 > [!definition]
 > **Definition 8.**  (Dolev-Yao Closure)
@@ -85,6 +103,7 @@ We formalize now the cryptographic abilities of the intruder according in the st
 > **(Axiom)** This rule just says that the intruder can derive any term $m$ that is already in his knowledge $M$.
 > 
 > **(Compose)** This rule says that for any public function symbol $f$ of $n$ arguments he can apply $f$ to any terms $m_1,\ldots,m_n$ that he can already derive.
+> - The compose rule is for all public functions $Σ_p$, including $\{|·|\}·$, $\{·\}·$, $⟨·, ·⟩$
 > 
 > **(Proj$_i$)** If the intruder knows the pair $\langle m_1,m_2\rangle$, then he also knows its components $m_1$ and $m_2$.
 > 
@@ -118,9 +137,15 @@ We formalize now the cryptographic abilities of the intruder according in the st
 > 
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2000.00.37.png)
 
+> [!example]
+> ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.07.50.png)
+
 
 
 ## Automating Dolev-Yao
+> [!links]
+> ↗ [(Formal) Model Checking](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+
 Goal: design (in pseudocode) a decision procedure for Dolev-Yao:
 - Given a finite set M of messages (the intruder knowledge)
 - and given a message m (the goal)
@@ -136,7 +161,40 @@ Let us quickly think about implementing an algorithm that, given $M$ and $m$ as 
 
 The idea is to solve first an easier problem: let $M \vdash_c m$ denote derivations that only use (Axiom) and (Composition), i.e., an intruder who does not analyze any terms. This can be solved by a simple backwards search: if the goal is to derive $t=f(t_1,\ldots,t_n)$, then check if $t$ is contained in $M$, and if not, and if $f\in\Sigma_p$, try to recursively derive every $t_i$. Otherwise the answer is no. This algorithm terminates since in every recursive call, the terms get smaller.
 
+> [!TIP] Rules for $\vdash_c$ (Composition Only)
+> $$\frac{}{\displaystyle M \vdash_c m} \text{ if } m \in M \text{ (Axiom)}$$ $$\frac{\displaystyle M \vdash_c m_1 \quad \dots \quad M \vdash_c m_n}{\displaystyle M \vdash_c f(m_1, \dots, m_n)} \text{ if } f \in \Sigma_p \text{ (Compose)}$$
+
+> [!ABSTRACT] Algorithm
+> Decision procedure for $M \vdash_c m$
+> 
+> 1. Check if $m \in M$; if so return **yes**.
+> 2. Otherwise, let $m = f(t_1, \dots, t_n)$:
+> 	- $\star$ If $f$ is not public return **no**.
+> 	- $\star$ Otherwise recursively check whether: $$M \vdash_c t_1 \text{ and } \dots \text{ and } M \vdash_c t_n$$
+> 
+> Return **yes** if all these return **yes**, and **no** otherwise.
+
+> [!example]
+> 
+> step (1) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.23.45.png)
+> step (2) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.23.31.png)
+> step (3) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.24.00.png)
+> step (4) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.24.09.png)
+
 Next we solve the problem to *analyze* the intruder knowledge: if the intruder knows a message of the form $\{m\}_k$, use the above algorithm for checking $M \vdash_c k$, i.e., whether the key can be obtained by composition steps only. If so, add $m$ to the intruder knowledge $M$. This modification of $M$ does not change the set of terms that the intruder can derive from $M$ via $\vdash$, the intruder is just explicitly remembering what he can derive (in this case using (DecSym)). Repeat this for all of the decomposition rules (DecSym), (DecAsym), (Proj$_i$), and (OpenSig) until no new terms can be obtained. This algorithm terminates because it can only add sub-terms of the original intruder knowledge $M$ (and since $M$ is finite, there are only finitely many subterms).
+
+> [!ABSTRACT] Analysis Steps
+> * If $\{|m|\}_k \in M$ and $M \vdash_c k$ then add $m$ to $M$.
+> * If $\{m\}_k \in M$ and $M \vdash_c \text{inv}(k)$ then add $m$ to $M$.
+> * If $\{m\}_{\text{inv}(k)} \in M$ then add $m$ to $M$.
+> * If $\langle m_1, m_2 \rangle \in M$ then add $m_1$ and $m_2$ to $M$.
+> * Repeat until no new messages can be added.
+
+> [!example]
+> step (1) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.34.43.png)
+> step (2) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.35.02.png)
+> step (3) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.35.12.png)
+> step (4) ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.35.23.png)
 
 > [!example]
 > **Example 8.** *The complete analysis of the intruder knowledge $M$ in Example 7, would add the message $b$ and $\operatorname{exp}(g,y)$.*
@@ -149,15 +207,66 @@ Now that the intruder knowledge is completely analyzed, for any term $m$ to deri
 This algorithm can also be extended to handle many equational theories $E$ (e.g. the exponentiation example), but in general $\approx_E$ is undecidable, and thus, so is $\vdash$.
 
 
-### Finding Attacks
+> [!TIP]
+> To check if a message $m$ can be derived from a set of messages $M$ ($M \vdash m$):
+> - Perform the **Analysis Steps** procedure, augmenting $M$ with all derivable messages.
+> - Now it suffices to check $M \vdash_c m$.
+> 
+> Properties of the algorithm for checking $M \vdash m$:
+> -  **Soundness:** if algorithm says "yes", then $M \vdash m$.
+> - **Completeness:** if $M \vdash m$, then the algorithm says "yes".
+> 	- This is quite tricky to prove. 🤔
+> - **Termination:** the algorithm never runs into an infinite loop.
+> 	- Procedure for $\vdash_c$ terminates since it goes to smaller terms.
+> 	- Analysis terminates because it only adds proper subterms of an existing term. This cannot go on forever, since there are only finitely many subterms.
 
-#### The Completeness Proof
+
+### The Completeness Proof
 Task of the proof: given a Dolev-Yao proof tree for $M ⊢m$, show that the procedure will say “yes”, i.e., the procedure finds this derivation.
 
+> [!EXAMPLE]
+> $M = \{ a, b, i, \text{pk}(a), \text{pk}(b), \text{pk}(i), \text{inv}(\text{pk}(i)), \{\langle na, a \rangle\}_{\text{pk}(i)} \}$
+> 
+> $$
+> \frac{\displaystyle \frac{\frac{}{M \vdash \{\langle na, a \rangle\}_{\text{pk}(i)}} \quad \frac{}{M \vdash \text{inv}(\text{pk}(i))}}{M \vdash \langle na, a \rangle} A \quad \frac{}{M \vdash \text{pk}(b)}}{M \vdash \{\langle na, a \rangle\}_{\text{pk}(b)}} C
+> $$
+ 
+- Argument: the step labeled $A$ would have been found by our analysis procedure, augmenting $M$ with $\langle na, a \rangle$.
+- So we could replace $[A]$ by axiom afterwards.
+- The remainder has only composition steps, and the completeness of $\vdash_c$ is straightforward.
+- However, this works only if the message we analyze is an axiom!
 
-### Proofing No Attacks
+What if the message is composed that we want to analyze?
+
+> [!example] 
+> $$
+> \frac{\displaystyle \frac{\frac{\Pi_1}{M \vdash k} \quad {\color{red}\frac{\Pi_2}{M \vdash m}}}{M \vdash \{\mid m\mid\}_k}\quad \frac{\Pi_3}{M \vdash k}}{\displaystyle {\color{red}M \vdash m}}
+> $$
+> 
+> *for some arbitrary subproofs $\Pi_1, \dots, \Pi_3$.*
+
+- Here the intruder decrypts a term that he has encrypted himself.
+- This can be simplified!
+- It is without loss of generality to forbid the application of analysis to a term that was obtained by composition.
+
+What if the message is itself the result of an analysis?
+
+> [!example]
+> $$
+> \frac{\displaystyle \frac{\frac{}{M \vdash \{\langle m_1, m_2 \rangle\}_{\text{pk}(a)}} \quad \frac{}{M \vdash \text{inv}(\text{pk}(a))}}{M \vdash \langle m_1, m_2 \rangle} A_2}{M \vdash m} A_1
+> $$
+> 
+
+Just always consider the inner-most analysis step first:
+* an analysis step that has no analysis step in the subproofs.
+* then the message being analyzed must be obtained by axiom, because analysis of composition we have already ruled out.
+* thus we can eliminate one by one all analysis steps in the proof until we have a proof with only composition steps, and then completeness follows from $\vdash_c$.
+
+---
 Q. Can we thus prove also statements of the form $M ⊬ m$, that a m cannot be derived from $M$?
-- Example: $M= \{k1, \{|m1|\}_{k1}, m2, \{|m3|\}_{k2} \}⊬m3$
+
+> [!example] 
+> $M= \{k1, \{|m1|\}_{k1}, m2, \{|m3|\}_{k2} \}⊬m3$
 
 A. Yes, due to completeness when our algorithm answers “no”, we know there is no derivation for $m$.
 

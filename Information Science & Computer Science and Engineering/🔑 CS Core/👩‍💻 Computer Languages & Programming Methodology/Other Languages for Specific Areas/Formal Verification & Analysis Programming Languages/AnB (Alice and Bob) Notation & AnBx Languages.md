@@ -117,10 +117,30 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
  >Sebastian M ̈odersheim,
  >Chapter 6.
 
+The syntax of Messages (Msg) in AnB can be described by the following context-free grammar:
+$$
+\begin{aligned}
+\text{Msg} \;::=&\; \text{Constant} \\
+&\mid\; \text{Variable} \\
+&\mid\; \text{Msg} , \text{Msg} & \text{concatenation}\\
+&\mid\; \{\!\mid\; \text{Msg} \;\mid\!\} \; \text{Msg} & \text{symmetric encryption}\\
+&\mid\; \{ \text{Msg} \} \; \text{Msg} & \text{asymmetric encryption}\\
+&\mid\; \text{inv}(\text{Msg}) & \text{inverse}\\
+&\mid\; \text{exp}(\text{Msg}, \text{Msg}) & \text{modular exponentiation}\\
+&\mid\; \text{Function}(\text{Msg}) & \text{user-defined functions}\\
+&\mid\; ( \text{Msg} )
+\end{aligned}
+$$
+
+where **Constant** and **Function** are user-chosen identifiers that start with a lower-case letter, and **Variable** with an upper-case letter.
+
+A distinguished constant is the name of the intruder: `i`.
+
+
 > [!definition]
 > **Signature**
 > 
-> A signature $Σ$ is a set of function symbols.
+> ==A signature $Σ$ is a set of function symbols.==
 > Constants are a special case of functions: they take 0 arguments.
 > 
 > **Table 1:** Standard function symbols for protocol verification.
@@ -128,9 +148,9 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 > | Symbol                            | Arity   | Meaning (informal)                    | Public    |
 > | --------------------------------- | ------- | ------------------------------------- | --------- |
 > | $i$                               | $0$     | name of the intruder                  | yes       |
-> | $\operatorname{inv}(\cdot)$       | $1$     | private key of a given public key     | no        |
+> | $\operatorname{inv}(\cdot)$       | $1$     | private key of a given public key     | ==no==        |
 > | $\{\cdot\}_{\cdot}$               | $2$     | asymmetric encryption                 | yes       |
-> | $\{\cdot\}_{\cdot}$               | $2$     | symmetric encryption                  | yes       |
+> | $\{\mid\cdot\mid\}_{\cdot}$               | $2$     | symmetric encryption                  | yes       |
 > | $\langle \cdot,\cdot \rangle$     | $2$     | pairing/concatenation                 | yes       |
 > | $\operatorname{exp}(\cdot,\cdot)$ | $2$     | exponentiation modulo fixed prime $p$ | yes       |
 > | $a,b,c,\ldots$                    | $0$     | User-defined constants                | User-def. |
@@ -142,8 +162,8 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 > [!definition]
 > **Terms**
 > 
-> Let $V=\{X,Y,Z,\ldots\}$ be a set of variable symbols.  
-> $\mathcal{T}_{\Sigma}(V)$ is the set of *terms* (over $\Sigma$ and $V$), defined as follows:
+> Let $V=\{X,Y,Z,\ldots\}$ be a set of variable symbols.
+> ==$\mathcal{T}_{\Sigma}(V)$ is the set of *terms* (over $\Sigma$ and $V$)==, defined as follows:
 > - All variables of $V$ are terms.
 > - If $f\in\Sigma$ is a function symbol that takes $n$ arguments and if $t_1,\ldots,t_n$ are terms, then also $f(t_1,\ldots,t_n)$ is a term.
 #### Examples of AnB Modeling Protocols
@@ -155,8 +175,6 @@ The backend for this work is the [Tamarin prover](https://infsec.ethz.ch/resear
 ### AnB Semantics
 > [!links]
 > ↗ [Strand Spaces Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Strand%20Spaces%20Model.md)
-> ↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
-> - ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 > 
 > ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition systems"
 
@@ -165,8 +183,11 @@ So far we have covered the syntax of messages:
 
 Now we define the semantics of messages:
 - What does a message actually mean?
-- How can OFMC make a meaningful analysis of a protocol?
+- How can ↗ [OFMC (Open-Source Fixed-Point Model-Checker)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/🤼%20Model%20Checker/OFMC%20(Open-Source%20Fixed-Point%20Model-Checker).md) make a meaningful analysis of a protocol?
 - Like a set of rules of a game.
+#### Intruder Models
+↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+- ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 #### Strands Space Semantics
  >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
  >Protocol Security Verification Tutorial

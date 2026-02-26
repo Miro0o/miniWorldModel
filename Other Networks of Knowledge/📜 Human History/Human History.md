@@ -361,7 +361,10 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 
-## The Rise of Civilization
+## 🦖 The Rise of Civilization 🐒
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
+
 ### Country & State (国与邦)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6
 
@@ -383,10 +386,20 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 在公元751年，中东与东亚的两大帝国首次爆发冲突，当时统治中东的[阿拔斯王朝](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%94%E6%96%AF%E7%8E%8B%E6%9C%9D "阿拔斯王朝")与统治中国的[唐朝](https://zh.wikipedia.org/wiki/%E5%94%90%E6%9C%9D "唐朝")在[怛罗斯](https://zh.wikipedia.org/wiki/%E6%80%9B%E7%BE%85%E6%96%AF%E6%88%B0%E5%BD%B9 "怛罗斯战役")决战，结果唐军战败。而史上以陆地连续性计，最大的帝国[蒙古帝国](https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9C%8B "蒙古帝国")则在公元13世纪出现。此后，大部分居住在东欧、亚洲的人们均隶属于国家统治下，而在[墨西哥](https://zh.wikipedia.org/wiki/%E5%A2%A8%E8%A5%BF%E5%93%A5 "墨西哥")与[西南非](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%97%E9%9D%9E "西南非")亦有着文明国家。[诸国](https://zh.wikipedia.org/wiki/%E8%AB%B8%E5%9C%8B "诸国")不断扩张，并控制着越来越多的土地与人口；最后一块“无主土地”－[南极洲](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E6%B4%B2 "南极洲")亦在公元1878年的[柏林会议](https://zh.wikipedia.org/wiki/1878%E5%B9%B4%E6%9F%8F%E6%9E%97%E6%9C%83%E8%AD%B0 "1878年柏林会议")里被瓜分。
 
+
+### Politics & Demography Aspect
+
+
+### Military Aspect
+> [!links]
+> [Military Science & Technology](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/✡%20Military%20Science%20&%20Technology/Military%20Science%20&%20Technology.md)
+
+
+
+### Economics Aspect
 #### Continental (Agricultural) & Oceanic & Nomadic Civilization
 
-
-### City and Trade (城市与贸易)
+#### City and Trade (城市与贸易)
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#%E6%96%87%E6%98%8E%E7%9A%84%E8%88%88%E8%B5%B7
 
 在农业发展的同时，粮仓产量也大增。因此不从事农耕的人们也可以获得粮食，而城市亦因而出现。城市成为国家的重要地区，而居住在城市里的人们几乎不从事农业生产。城市由附近的[乡郊地区](https://zh.wikipedia.org/wiki/%E9%84%89%E9%83%8A "乡郊")获取食粮，作为回报，则为乡郊地区提供军事力量保卫其财产。
@@ -398,7 +411,11 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 长途贸易路线于公元前三千年首次出现，位于美索不达米亚的苏美尔人与位于印度河谷的[哈拉巴人](https://zh.wikipedia.org/wiki/%E5%93%88%E6%8B%89%E5%B7%B4 "哈拉巴")进行贸易。中国与叙利亚间的[丝绸之路](https://zh.wikipedia.org/wiki/%E7%B5%B2%E7%B6%A2%E4%B9%8B%E8%B7%AF "丝绸之路")约于公元前二千年出现，而位于其间的[中亚](https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9E "中亚")城市与[波斯](https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E5%B8%9D%E5%9C%8B "波斯帝国")则为此交易路线主要中转站。[腓尼基](https://zh.wikipedia.org/wiki/%E8%85%93%E5%B0%BC%E5%9F%BA "腓尼基")与[古希腊](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%87%98 "古希腊")[文明](https://zh.wikipedia.org/wiki/%E6%96%87%E6%98%8E "文明")在公元前一千年至公元前一世纪间于地中海地区形成了贸易帝国。而[阿拉伯](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B8%96%E7%95%8C "阿拉伯世界")人则于首个千年的末期与第二个千年的初期（公元650年至公元1250年）控制了[印度洋](https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%B4%8B "印度洋")、[东亚](https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%9E "东亚")与[撒哈拉沙漠](https://zh.wikipedia.org/wiki/%E6%92%92%E5%93%88%E6%8B%89%E6%B2%99%E6%BC%A0 "撒哈拉沙漠")的贸易路线。在首个千年末期，[阿拉伯人](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA "阿拉伯人")与[犹太人](https://zh.wikipedia.org/wiki/%E7%8A%B9%E5%A4%AA%E4%BA%BA "犹太人")亦控制了地中海地区的贸易。而在第二个千年初期，[意大利人](https://zh.wikipedia.org/wiki/%E7%BE%A9%E5%A4%A7%E5%88%A9%E4%BA%BA "意大利人")取代其位置，控制了地中海地区的贸易。[法兰德斯](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E5%BE%B7%E6%96%AF "法兰德斯")与[德意志](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%BE%B7%E6%84%8F%E5%BF%97 "大德意志")的城市则在第二个千年初成为北欧贸易路线的中心。在任何地区，主要的城市皆位处贸易路线的枢纽地带。
 
 
-### Religion and Philosophy (宗教与哲学)
+### Science & Technology Aspect
+
+
+### Arts & Cultures Aspect
+#### Religion and Philosophy (宗教与哲学)
 > ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#%E6%96%87%E6%98%8E%E7%9A%84%E8%88%88%E8%B5%B7
