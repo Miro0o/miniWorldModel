@@ -42,8 +42,6 @@ https://www.oscca.gov.cn/sca/xxgk/2023-10/07/content_1061109.shtml
 ## Intro
 Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptography) to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called [encryption](https://en.wikipedia.org/wiki/Encryption). ==In a nutshell, cryptography is about communicating securely over insecure communication channels.==
 
-> 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
-
  密码学是一门关于通信安全的学科，主要研究如何保护信息的机密性、完整性和可用性。在密码学中，通常使用加密算法和解密算法来实现对信息的保护。
  
  信息安全是保护计算机系统和网络中的信息免受未经授权的访问、使用、泄露、破坏和干扰的一种技术、政策和管理措施的总称。信息安全包括密码学、网络安全、物理安全、应用程序安全、数据安全等多个方面。
@@ -52,6 +50,7 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 
 密码学是实现信息安全的重要手段之一。通过使用密码学技术，可以保护信息的机密性和完整性，从而防止信息被未经授权的访问、泄露和篡改。常见的密码学技术包括对称加密、非对称加密和哈希函数等。
 
+> 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
 
 经典的密码学主要是关于加密和解密的理论，主要用于通信保密。但今天，密码学已经得到了更加深入广泛的发展，其内容已不再是单一的加解密技术。著名密码学家 S. Vanstone 曾说，密码学（Cryptology）不仅仅是提供信息安全的一些方法，更是一个数学技术的集合。毫无疑问，密码学主要是因为应对信息安全问题而存在的学科。但总的来说，在信息安全的诸多涉及面中，密码学主要为存储和传输中的数字信息提供如下几个方面的安全保护：
 - **机密性**
@@ -65,7 +64,7 @@ Information security uses [cryptography](https://en.wikipedia.org/wiki/Cryptogra
 
 密码学的主要任务是从理论上和实践上阐述和解决这四个问题。它是研究信息的机密性、完整性、真实性和抗抵赖性等信息安全问题的一门学科。
 
-密码学主要包括密码编码学（Cryptography）和密码分析学（Cryptoanalysis）两个分支。密码编码学的主要任务是寻求有效密码算法和协议，以保证信息的机密性或认证性的方法。它主要研究密码算法的构造与设计，也就是密码体制的构造。它是密码理论的基础，也是保密系统设计的基础。密码分析学的主要任务是研究加密信息的破译或认证信息的伪造。它主要是对密码信息的解析方法进行研究。例如，试图通过分析密文获取对方的真正明文。密码分析是检验密码体制安全性最为直接的手段，只有通过实际密码分析考验的密码体制，才是真正可用的。这一点香农在几十年前就已表明：只有密码分析者才能评判密码体制的安全性。因此，密码编码学和密码分析学是密码学的两个方面，两者既相互对立，又互相促进和发展。
+==密码学主要包括密码编码学（Cryptography）和密码分析学（Cryptoanalysis）两个分支==。密码编码学的主要任务是寻求有效密码算法和协议，以保证信息的机密性或认证性的方法。它主要研究密码算法的构造与设计，也就是密码体制的构造。它是密码理论的基础，也是保密系统设计的基础。密码分析学的主要任务是研究加密信息的破译或认证信息的伪造。它主要是对密码信息的解析方法进行研究。例如，试图通过分析密文获取对方的真正明文。密码分析是检验密码体制安全性最为直接的手段，只有通过实际密码分析考验的密码体制，才是真正可用的。这一点香农在几十年前就已表明：只有密码分析者才能评判密码体制的安全性。因此，密码编码学和密码分析学是密码学的两个方面，两者既相互对立，又互相促进和发展。
 
 
 ### Definition /Primitives in Cryptology
@@ -182,8 +181,7 @@ There are two main key models in modern cryptography. In the _symmetric key_ m
 4. 加密算法 E: 一簇由加密密钥控制的、从 M 到 C 的加密变换;
 5. 解密算法 D: 一簇由解密密钥控制的、从 C 到 M 的解密变换。
 
-五元组 $\{ M，C，K，E，D \}$就称为一个密码系统。在密码系统中，对于每一个确定的密钥k，加密
-算法将确定一个具体的加密变换，解密算法将确定一个具体的解密变换，而且解密变换就是加密变换的 逆变换。对于明文空间M中的每一个明文m，加密算法E在加密密钥$k_e$的控制下将明文m加密成密文c; 而解密算法D则在密钥$k_d$的控制下将密文c解密成同一明文m，即: 
+五元组 $\{ M，C，K，E，D \}$就称为一个密码系统。在密码系统中，对于每一个确定的密钥k，加密算法将确定一个具体的加密变换，解密算法将确定一个具体的解密变换，而且解密变换就是加密变换的 逆变换。对于明文空间M中的每一个明文m，加密算法E在加密密钥$k_e$的控制下将明文m加密成密文c; 而解密算法D则在密钥$k_d$的控制下将密文c解密成同一明文m，即: 
 - 对 $m\in M，(k_e，k_d)\in K，$有 $D_{k_d} (E_{k_e}(m))=m$。
 
 
@@ -237,6 +235,7 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 	3. 可以为序列密码、HASH函数等的实现供帮助;
 	4. 算法必须能够用软件和硬件两种方法实现。另外，算法设计相对简单也是一个评估因素。
 ##### Correctness
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 ##### Security ⭐
 > 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
 
@@ -352,7 +351,13 @@ Deniable Encryption
 
 
 
-## 🌅 Secure Communication with CIA Properties
+## 🌅 Secure Communication & Cryptographic Protocols
+> [!links]
+> ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+> ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+
+
+### Secure Communication with CIA Properties
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)
@@ -362,9 +367,18 @@ Deniable Encryption
 ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
 ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 
+↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
 
 
-## Cryptographic Software
+### Security Protocol Verification
+↗ [Security Protocols Formal Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+
+
+
+## Cryptographic Applications
+> Software, Hardware, and protocols.
+
 ![](../../../Assets/Pics/Screenshot%202024-04-26%20at%203.28.56%20PM.png)
 <small>https://en.wikipedia.org/wiki/Encryption_software</small>
 
