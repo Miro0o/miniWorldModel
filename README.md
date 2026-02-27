@@ -79,7 +79,7 @@ I was born and raised in **🔗 [Xinjiang](https://en.wikipedia.org/wiki/Xinjian
 
 In the end, **miniWorldModel** is simply my attempt to organize what I have learned and the thoughts I have had along the way. Although I strive to be precise and rigorous, there are inevitably errors and inaccuracies.
 
-I hope these notes can serve as an inspiration to you.
+To whoever reading this, I hope my notes can serve as an inspiration.
 
 
 
@@ -94,7 +94,7 @@ Another important note: this repository is, at its core, a **personal knowledge 
 
 These notes have been created continuously since my **first semester at university**. As a result, some early notes—especially those I rarely revisit—may be of lower quality.
 
-Final tip (and this is how I read my own notes): always understand the **structure** before diving into the details. When opening a file, first look at its folder hierarchy—its parent folder, sibling folders, and higher-level directories. Similarly, when reading a note, start with its outline and use it as a guide to navigate the content.
+Final tip (and this is how I read my own notes): ==always understand the **structure** before diving into the details==. When opening a file, first look at its folder hierarchy—its parent folder, sibling folders, and higher-level directories. Similarly, when reading a note, start with its outline and use it as a guide to navigate the content.
 
 
 ### Structure of Single Note File
@@ -103,6 +103,7 @@ For those notes in a mature quality, they follow the following template in gener
 ```md
 # Title
 
+
 ## Res
 ### Related Topics
 
@@ -110,6 +111,7 @@ For those notes in a mature quality, they follow the following template in gener
 
 
 ## Intro
+
 
 ## Ref
 ```
@@ -141,26 +143,70 @@ Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the un
 
 
 
-## Sitemap & Entrances to the Note
-Like said earlier, miniWorldModel is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) and begin everything from there: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook). 
+## Sitemap & Entrances to the Notebook
+Like said earlier, miniWorldModel is a well-organized notebook that acts like a giant mind map. Hence, to start reading the notebook one needs simply start with the only root file (the root node of the mind map) as everything unfolds here: ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md). In this root file, I summarize my cognitive model of the universe as a unified framework (thus, the whole structure of this notebook). 
 
-That being said, I give a very brief (and sketchy) index to miniWorldModel below. Bare in mind this whole notebook is still heavily about computer science.
+That being said, I give a very brief (and incomplete) index to miniWorldModel below. You can view them as the entry points to the miniWorldModel. 
+- If you follow my suggestions in previous sections and explore notes hierarchy and links from these entry points, eventually all thinking comes back to the root file, where we discuss Universe, self-awareness, and intelligence, i.e. the being of ourselves.
+
+> [!tip]
+> Bare in mind this whole notebook is still heavily about computer science.
+> 
+> Also, these notes are simply a reflection of my personal thinking all along the time. Many of them are incomplete, and inevitably contain errors and inaccuracy. Please be mercy with me. ✝️
 
 ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md)
 - ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 - ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+	- ↗ [World's Arts & Humanities History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
+	- ↗ [World's Economics History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Economics%20History/World's%20Economics%20History.md)
+	- ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 - ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-- ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
-	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-		- Information Science & Computer Science and Engineering
-			- ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
-			- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-				- ↗ [🤔 Questions Leading my CS Study](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study)
-	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+	- ↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+		- ↗ [Learning English the Right Way](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+			- ↗ [English Grammar](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/English%20Grammar.md)
+			- ↗ [Morpheme & Word](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
+	- ↗ [Music](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/🎶%20Music/Music.md)
 - ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 	- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 		- ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+	- ↗ [Mathematical Analysis (& Analytical Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
+	- ↗ [Algebra](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/Algebra.md)
+		- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+- ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
+	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+		- Information Science & Computer Science and Engineering
+			- Computer Science Overview
+				- ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+				- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+					- ↗ [🤔 Questions Leading my CS Study](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study)
+				- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+			- Computer Science Core Knowledge
+				- ↗ [Computer (Host) System](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+					- ↗ [Computer Architecture](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+					- ↗ [Operating System & OS Kernel (Theory Part)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+				- ↗ [Operating Systems & Kernels (Engineering Part)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+				- ↗ [Computer Languages & Programming Methodology](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+				- ↗ [Algorithm & Data Structure](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+				- ↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+				- ↗ [Computer Networking and Communication](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+				- ↗ [Computer Storage & Database Systems](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+			- Computer Science Specific Directions
+				- ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+				- ↗ [Software Engineering](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/Software%20Engineering.md)
+				- ↗ [CyberSecurity](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/CyberSecurity.md)
+			- Opportunities & Career Development
+				- ↗ [International Master & PhD Programmes](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
+				- ↗ [CS & IT Jobs & Interns Related](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+		- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+			- ↗ [China (HK, MO, TW) 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
+				- ↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+				- ↗ [新中国史（中华人民共和国时期）](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+			- ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+		- ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
+			- ↗ [Finance & Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+		- ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 
 
 ### A Glimpse of the Notebook
