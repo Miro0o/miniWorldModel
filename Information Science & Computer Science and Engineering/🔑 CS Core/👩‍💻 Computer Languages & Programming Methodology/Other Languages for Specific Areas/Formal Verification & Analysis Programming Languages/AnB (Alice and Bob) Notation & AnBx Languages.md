@@ -478,7 +478,7 @@ For a strand of zero steps we write $0$.
 > The graphical notation of strands is straightforward, e.g. the strand $$ \operatorname{Rcv}(X).\operatorname{Snd}(f(X)).\operatorname{Rcv}(Y).\, X \doteq h(Y) $$ would be represented as
 > 
 > ```latex
-> \usepackage{amsmath}
+> % \usepackage{amsmath}
 > 
 > \begin{document}
 > \begin{tikzpicture}[
@@ -517,7 +517,7 @@ For a strand of zero steps we write $0$.
 > \draw[<-, linebase] (E3) -- (\xR,\y3) node[lab] {$Y$};
 > 
 > % Condition box
-> \node[draw, inner sep=6pt, anchor=north] at (\xI,\y3-1.0) {$X \doteq h(Y)$};
+> \node[draw, inner sep=6pt, anchor=north] at (\xI,\y3-1.0) {$X = h(Y)$};
 > 
 > \end{tikzpicture}
 > \end{document}

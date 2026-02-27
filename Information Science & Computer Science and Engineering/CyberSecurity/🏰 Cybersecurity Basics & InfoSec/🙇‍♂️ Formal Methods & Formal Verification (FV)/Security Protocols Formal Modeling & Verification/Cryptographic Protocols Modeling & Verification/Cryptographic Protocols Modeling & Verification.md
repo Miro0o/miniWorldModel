@@ -458,6 +458,7 @@ One of the most cited papers of protocol verification is one by Danny Dolev and 
 
 > [!definition]
 > **Definition 8.**  (Dolev-Yao Closure)
+> (↗ [Closure (CS & PL)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Features%20(?)/Closure%20(CS%20&%20PL).md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md))
 > 
 > *We define $\vdash$ as the least relation that satisfies the following rules:*
 > $$
@@ -530,11 +531,29 @@ We can now put it all together and define a world of honest agents, an intruder,
 > ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 > ↗ [Type Confusion](../../../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Type%20Confusion.md)
 
+> [!ABSTRACT] Summary
+> 
+> For secure implementations:
+> - Use a well-established crypto library
+> - Do not cook up your own stuff (unless you are a cryptographer)
+> - Make sure you understand the requirements and guarantees of the library and its functions, and what they achieve
+> 
+> Mind the things that are not crypto:
+> - Define precise formats
+> - Check they are unambiguous and pairwise disjoint
+> - Write parsers and generators that do not suffer from buffer overflows and the like
+> 
+> Ensure that all subterms of different types are distinguishable
+> - Use the formats for that
+> - Do use crypto on raw data like $\{N\}_{\operatorname{inv}(k)}$.
+> - Verify your abstract design with a tool like OFMC to find logical flaws – in the typed model.
 #### Type Flaw Attack
-> [!example]
+> [!example] A motivating example
+> (we use AnB syntax and its strands semantics)
+> 
 > Consider such a simple protocol, where $KAB$ is a fresh session key that $A$ and $B$ can use thereafter: 
 > 
-> ```latex
+> ```tikz
 > \begin{document}
 > \begin{tikzpicture}[
 > 	font=\Large,
@@ -573,16 +592,237 @@ We can now put it all together and define a world of honest agents, an intruder,
 > \end{document}
 > ```
 > 
+> **Attack:**
+> (we can find this attack using the lazy intruder method! see slides `protsec4`)
+>
+> ```tikz
+> \usepackage{amssymb}
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\d{0.18}
+> \def\yTop{6.8}
+> \def\yMsg{4.6}
+> 
+> \def\xA{0}
+> \def\xI{8}
+> \def\xB{16}
+> 
+> % ===== Title =====
+> % \node[anchor=west] at (-2,8) {\Large Attack:};
+> 
+> % ===== Top explanation boxes =====
+> \node[draw, align=center, minimum width=6cm, minimum height=2cm]
+>   at (\xA,\yTop) {$a$\\wants to talk to $i$};
+> 
+> \node[draw, minimum width=1.5cm, minimum height=2cm]
+>   at (\xI,\yTop) {$i$};
+> 
+> \node[draw, align=center, minimum width=6cm, minimum height=2cm]
+>   at (\xB,\yTop) {$b$\\would talk to any $A$};
+> 
+> % ===== Lifelines =====
+> \draw[linebase] (\xA-\d,\yTop-1.3) -- (\xA-\d,\yMsg);
+> \draw[linebase] (\xA+\d,\yTop-1.3) -- (\xA+\d,\yMsg);
+> 
+> \draw[linebase] (\xI-\d,\yTop-1.3) -- (\xI-\d,\yMsg);
+> \draw[linebase] (\xI+\d,\yTop-1.3) -- (\xI+\d,\yMsg);
+> 
+> \draw[linebase] (\xB-\d,\yTop-1.3) -- (\xB-\d,\yMsg);
+> \draw[linebase] (\xB+\d,\yTop-1.3) -- (\xB+\d,\yMsg);
+> 
+> % ===== Event dots =====
+> \node[dot] (A1) at (\xA,\yMsg) {};
+> \node[dot] (I1) at (\xI,\yMsg) {};
+> \node[dot] (B1) at (\xB,\yMsg) {};
+> 
+> % ===== Messages =====
+> % a -> i
+> \draw[->, linebase] (A1) -- (I1)
+>   node[lab] {$\{\{kai\}_{inv(pk(a))}\}_{pk(\textcolor{red}{i})}$};
+> 
+> % i -> b
+> \draw[->, linebase] (I1) -- (B1)
+>   node[lab] {$\{\{kai\}_{inv(pk(a))}\}_{pk(\textcolor{red}{b})}$};
+> 
+> % ===== Bottom reasoning text =====
+> \node[anchor=west] at (-2,2.5)
+> {$\bullet$ $a$ thinks: $kai$ is a secure session key with $i$ \quad $\checkmark$};
+> 
+> \node[anchor=west] at (-2,1.6)
+> {$\bullet$ $b$ thinks: $kai$ is a secure session key with $a$ \quad \textcolor{red}{$\times$}};
+> 
+> \node[anchor=west] at (-1.6,0.7)
+> {$\star$ the intruder knows $kai$ and $a$ might have never heard of $b$.};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> **Countermeasure:**
+> Include the name of the intended recipient in the signature:
+> 
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\xA{0}
+> \def\xB{14}
+> \def\d{0.18}
+> \def\yTop{3.6}
+> \def\yMsg{2.0}
+> 
+> % ===== Participant boxes =====
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xA,\yTop) {$A$};
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xB,\yTop) {$B$};
+> 
+> % ===== Lifelines (double) =====
+> \draw[linebase] (\xA-\d,\yTop-0.7) -- (\xA-\d,\yMsg);
+> \draw[linebase] (\xA+\d,\yTop-0.7) -- (\xA+\d,\yMsg);
+> 
+> \draw[linebase] (\xB-\d,\yTop-0.7) -- (\xB-\d,\yMsg);
+> \draw[linebase] (\xB+\d,\yTop-0.7) -- (\xB+\d,\yMsg);
+> 
+> % ===== Event dots =====
+> \node[dot] (A1) at (\xA,\yMsg) {};
+> \node[dot] (B1) at (\xB,\yMsg) {};
+> 
+> % ===== Message =====
+> \draw[->, linebase] (A1) -- (B1)
+>   node[lab] {$\{\{\textcolor{blue}{B},KAB\}_{inv(pk(A))}\}_{pk(B)}$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> The attack does not work anymore:
+> 
+> ```tikz
+> \usepackage{amssymb}
+> 
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\d{0.18}
+> \def\yTop{6.8}
+> \def\yMsg{4.6}
+> 
+> \def\xA{0}
+> \def\xI{8}
+> \def\xB{16}
+> 
+> % ===== Top explanation boxes =====
+> \node[draw, align=center, minimum width=6cm, minimum height=2cm]
+>   at (\xA,\yTop) {$a$\\wants to talk to $i$};
+> 
+> \node[draw, minimum width=1.8cm, minimum height=2cm]
+>   at (\xI,\yTop) {$i$};
+> 
+> \node[draw, align=center, minimum width=6cm, minimum height=2cm]
+>   at (\xB,\yTop) {$b$\\would talk to any $A$};
+> 
+> % ===== Lifelines =====
+> \draw[linebase] (\xA-\d,\yTop-1.3) -- (\xA-\d,\yMsg);
+> \draw[linebase] (\xA+\d,\yTop-1.3) -- (\xA+\d,\yMsg);
+> 
+> \draw[linebase] (\xI-\d,\yTop-1.3) -- (\xI-\d,\yMsg);
+> \draw[linebase] (\xI+\d,\yTop-1.3) -- (\xI+\d,\yMsg);
+> 
+> \draw[linebase] (\xB-\d,\yTop-1.3) -- (\xB-\d,\yMsg);
+> \draw[linebase] (\xB+\d,\yTop-1.3) -- (\xB+\d,\yMsg);
+> 
+> % ===== Event dots =====
+> \node[dot] (A1) at (\xA,\yMsg) {};
+> \node[dot] (I1) at (\xI,\yMsg) {};
+> \node[dot] (B1) at (\xB,\yMsg) {};
+> 
+> % ===== Messages =====
+> % a -> i
+> \draw[->, linebase] (A1) -- (I1)
+>   node[lab] {$\{\{\textcolor{blue}{i},kai\}_{inv(pk(a))}\}_{pk(\textcolor{red}{i})}$};
+> 
+> % i -> b (dotted)
+> \draw[densely dotted, ->, linebase] (I1) -- (B1)
+>   node[lab] {$\{\{\textcolor{blue}{i},kai\}_{inv(pk(a))}\}_{pk(\textcolor{red}{b})}$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> Hence: Always be clear what the messages <a style="color:blue">mean</a>!
+> - context (e.g. ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md))
+> - type & formats (e.g. ↗ [Type Confusion](../../../../System%20Security/🏃%20Software%20Runtime%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Stack%20Attack/Type%20Confusion.md))
+> 
+> 🤔 **Further question:**
 > What about first encrypting and then signing?
+> 
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\xA{0}
+> \def\xB{14}
+> \def\d{0.18}
+> \def\yTop{3.6}
+> \def\yMsg{2.0}
+> 
+> % ===== Participant boxes =====
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xA,\yTop) {$A$};
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xB,\yTop) {$B$};
+> 
+> % ===== Lifelines (double) =====
+> \draw[linebase] (\xA-\d,\yTop-0.7) -- (\xA-\d,\yMsg);
+> \draw[linebase] (\xA+\d,\yTop-0.7) -- (\xA+\d,\yMsg);
+> 
+> \draw[linebase] (\xB-\d,\yTop-0.7) -- (\xB-\d,\yMsg);
+> \draw[linebase] (\xB+\d,\yTop-0.7) -- (\xB+\d,\yMsg);
+> 
+> % ===== Event dots =====
+> \node[dot] (A1) at (\xA,\yMsg) {};
+> \node[dot] (B1) at (\xB,\yMsg) {};
+> 
+> % ===== Message =====
+> \draw[->, linebase] (A1) -- (B1)
+>   node[lab] {$\{\{KAB\}_{\textcolor{blue}{pk(B)}}\}_{\textcolor{blue}{inv(pk(A))}}$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
 > Indeed, this also prevents the attack.
 > This violates, however, a common recommendation:
 > - ==Do not design protocols where users must sign encrypted data.==
 > 
 > Why not?
+> (remember: Always be clear what the messages mean!)
 
-![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.24.59.png)
-![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.25.14.png)
-
+Mind the environments /contexts: 
+- ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.24.59.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2022.25.14.png)
 
 > [!example]
 > ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
@@ -645,7 +885,7 @@ flowchart LR
 			- **Disjointness**: No string can be parsed for more than one format.
 
 > [!example]
-> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
+> Formats in ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
 > 
 > Consider again the Otway-Rees protocol – without the cleartext messages for simplicity:
 > ```
@@ -673,7 +913,7 @@ flowchart LR
 > - It would actually still be accepted by the server.
 > - Idea: the intruder cannot really exploit this, because nobody would accidentally read this as an f2 message for instance.
 #### Message Pattern & Type-Flow Resistant Protocol
-We now give a result for protocols that are resistant to type flaws – a notion we need to define.
+We now give a result for protocols that are **resistant to type flaws** – a notion we need to define.
 
 For that, we first define what sub-message patterns are.
 
@@ -689,7 +929,7 @@ For that, we first define what sub-message patterns are.
 > Finally, rename all variables such that every two distinct messages $s,t\in SMP(P)$ have no variables in common.
 
 > [!example]
-> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md) with message formats
+> ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md) with sub-message patterns
 > 
 > Messages of the protocol:
 > ```
@@ -723,7 +963,7 @@ For that, we first define what sub-message patterns are.
 
 A protocol is called ==type-flaw resistant== if the following holds:
 - Take any two elements `s` and `t` of the message patterns that are not variables
-- If `s` and `t` can be unified then s and t have the same type.
+- If `s` and `t` can be unified then `s` and `t` have the same type.
 
 > [!example]
 > ↗ [Otway–Rees Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Otway–Rees%20Protocol.md)
@@ -739,15 +979,147 @@ As a consequence, it is sound to restrict the intruder model to well-typed messa
 - This comes at a low price: clear messages are good engineering practice anyway!
 
 > [!TIP]
-> **Proof idea** (slides protsec4)
+> **Proof idea**
 > 
-> When the lazy intruder analyzes a protocol that is not type flaw-resistant, the following can happen:
-> and the intruder solves this by an Axiom, leading to the ill-typed unifier $KAB = (m, a, b)$.
+> When the lazy intruder analyzes a protocol that is <a style="color:red">not type flaw-resistant</a>, the following can happen:
 > 
-> When the lazy intruder analyzes a protocol that is type flaw-resistant, the unification is not possible when the terms in question have different type – and are not variables.
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
 > 
-> If a term to generate is a variable, e.g.:
-> we are lazy and there is always something well-typed i can use.
+> % ===== Geometry =====
+> \def\xI{0}
+> \def\d{0.18}
+> \def\xR{10}
+> 
+> \def\yTop{6.5}
+> \def\yOne{4.8}
+> \def\yTwo{3.0}
+> \def\yBottom{1.0}
+> 
+> % ===== Participant box =====
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xI,\yTop) {$i$};
+> 
+> % ===== Lifeline (double) =====
+> \draw[linebase] (\xI-\d,\yTop-0.7) -- (\xI-\d,\yBottom);
+> \draw[linebase] (\xI+\d,\yTop-0.7) -- (\xI+\d,\yBottom);
+> 
+> % ===== Event dots =====
+> \node[dot] (E1) at (\xI,\yOne) {};
+> \node[dot] (E2) at (\xI,\yTwo) {};
+> 
+> % ===== Messages =====
+> % Incoming (left arrow)
+> \draw[<-, linebase] (E1) -- (\xR,\yOne)
+>   node[lab] {$\{\langle na,\textcolor{red}{m},a,\textcolor{red}{b}\rangle\}_{sk(a,s)}$};
+> 
+> % Outgoing (right arrow)
+> \draw[->, linebase] (E2) -- (\xR,\yTwo)
+>   node[lab] {$\{\langle na,\textcolor{red}{KAB}\rangle\}_{sk(a,s)}$};
+> 
+> % ===== Ellipsis =====
+> \node at (\xI,\yBottom-0.4) {$\cdots$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> and the intruder solves this by an Axiom, leading to the <a style="color:red">ill-typed</a> unifier $KAB = (m, a, b)$.
+> 
+> When the lazy intruder analyzes a protocol that is <a style="color:blue">type flaw-resistant</a>, 
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\xI{0}
+> \def\d{0.18}
+> \def\xR{10}
+> 
+> \def\yTop{6.5}
+> \def\yOne{4.8}
+> \def\yTwo{3.0}
+> \def\yBottom{1.0}
+> 
+> % ===== Participant box =====
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xI,\yTop) {$i$};
+> 
+> % ===== Lifeline (double) =====
+> \draw[linebase] (\xI-\d,\yTop-0.7) -- (\xI-\d,\yBottom);
+> \draw[linebase] (\xI+\d,\yTop-0.7) -- (\xI+\d,\yBottom);
+> 
+> % ===== Event dots =====
+> \node[dot] (E1) at (\xI,\yOne) {};
+> \node[dot] (E2) at (\xI,\yTwo) {};
+> 
+> % ===== Messages =====
+> % Incoming (left arrow)
+> \draw[<-, linebase] (E1) -- (\xR,\yOne)
+>   node[lab] {$\{\textcolor{blue}{f1}(na,m,a,b)\}_{sk(a,s)}$};
+> 
+> % Outgoing (right arrow)
+> \draw[->, linebase] (E2) -- (\xR,\yTwo)
+>   node[lab] {$\{\textcolor{blue}{f2}(na,KAB)\}_{sk(a,s)}$};
+> 
+> % ===== Ellipsis =====
+> \node at (\xI,\yBottom-0.4) {$\cdots$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> the unification is not possible when the terms in question have different type – and are not variables.
+> 
+> If a term to generate is a <a style="color:blue">variable</a>, e.g.:
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\xI{0}
+> \def\d{0.18}
+> \def\xR{10}
+> 
+> \def\yTop{6.5}
+> \def\yMsg{4.6}
+> \def\yBottom{1.5}
+> 
+> % ===== Participant box =====
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xI,\yTop) {$i$};
+> 
+> % ===== Lifeline (double) =====
+> \draw[linebase] (\xI-\d,\yTop-0.7) -- (\xI-\d,\yBottom);
+> \draw[linebase] (\xI+\d,\yTop-0.7) -- (\xI+\d,\yBottom);
+> 
+> % ===== Event dot =====
+> \node[dot] (E1) at (\xI,\yMsg) {};
+> 
+> % ===== Message =====
+> \draw[->, linebase] (E1) -- (\xR,\yMsg)
+>   node[lab] {\textcolor{green}{\Large KAB}};
+> 
+> % ===== Ellipsis =====
+> \node at (\xI,\yBottom-0.5) {$\cdots$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> we are <a style="color:green">lazy</a> and there is always something <a style="color:blue">well-typed</a> i can use.
 > 
 > Thus, on type-flaw resistant protocols
 > - the lazy intruder never performs an ill-typed substitution
@@ -768,7 +1140,7 @@ As a consequence, it is sound to restrict the intruder model to well-typed messa
  >We now define formally secrecy and authentication goals for protocols. There are of course many other interesting goals, such as sender invariance, anonymity, privacy, non-repudiation, and availability. Some of these we will actually discuss later, but they require additional measures and infrastructure, so for now we only focus on the basic goals.
 #### Secrecy
 > [!example]
-> ```latex
+> ```tikz
 > \begin{document}
 > \begin{tikzpicture}[
 >   font=\Large,
@@ -917,7 +1289,171 @@ The principle limitation does not mean, however, that one cannot solve practical
 ##### The Lazy Intruder
 Recall the automated ↗ [Dolev–Yao (DY)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md) deduction and ↗ [attack semantics (of AnB language)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md) in strand space: 
 
-> [!example]
+> [!Abstract] Review
+> ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
+> 
+> NSPK protocol expressed as in AnB language, message sequence chart, and Role /Strand
+> 
+> ==AnB language:==
+> ```AnB
+> Protocol : NSPK
+> Types : Agent A , B ;
+> 		Number NA , NB ;
+> 		Function pk , h
+> Knowledge : A : B : A , pk ( A ) , inv ( pk ( A )) , B , pk ( B ) , h ;
+> 			B , pk ( B ) , inv ( pk ( B )) , A , pk ( A ) , h
+> Actions :
+> A - > B : { NA , A }( pk ( B ))  # A generates NA
+> B - > A : { NA , NB }( pk ( A )) # B generates NB
+> A - > B : { NB }( pk ( B ))
+> 
+> Goals :
+> h(NA, NB) secret between A , B
+> ```
+> 
+> ==Message sequence chart:==
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> % \tikzset{>=stealth'} % bigger arrowheads
+> % this is not working in obsidian tikz?
+> 
+> % X positions
+> \def\xA{0}
+> \def\xB{10}
+> \def\d{0.18}
+> 
+> % Y positions
+> \def\yTop{6.5}
+> \def\yOne{4.5}
+> \def\yTwo{2.2}
+> \def\yThree{-0.1}
+> 
+> % Participant boxes
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xA,\yTop) {\textit{A}};
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xB,\yTop) {\textit{B}};
+> 
+> % Dots
+> \node[dot] (A1) at (\xA,\yOne) {};
+> \node[dot] (A2) at (\xA,\yTwo) {};
+> \node[dot] (A3) at (\xA,\yThree) {};
+> 
+> \node[dot] (B1) at (\xB,\yOne) {};
+> \node[dot] (B2) at (\xB,\yTwo) {};
+> \node[dot] (B3) at (\xB,\yThree) {};
+> 
+> % Lifelines A
+> \draw[linebase] (\xA-\d,\yTop-0.6) -- (\xA-\d,\yOne);
+> \draw[linebase] (\xA+\d,\yTop-0.6) -- (\xA+\d,\yOne);
+> \draw[linebase] (\xA,\yOne) -- (\xA,\yTwo);
+> \draw[linebase] (\xA-\d,\yTwo) -- (\xA-\d,\yThree);
+> \draw[linebase] (\xA+\d,\yTwo) -- (\xA+\d,\yThree);
+> 
+> % Lifelines B
+> \draw[linebase] (\xB,\yTop-0.6) -- (\xB,\yOne);
+> \draw[linebase] (\xB-\d,\yOne) -- (\xB-\d,\yTwo);
+> \draw[linebase] (\xB+\d,\yOne) -- (\xB+\d,\yTwo);
+> \draw[linebase] (\xB,\yTwo) -- (\xB,\yThree);
+> 
+> % Messages
+> \draw[->, linebase] (A1) -- (B1)
+>   node[lab] {$\{NA,A\}_{pk(B)}$};
+> 
+> \draw[<-, linebase] (A2) -- (B2)
+>   node[lab] {$\{NA,NB\}_{pk(A)}$};
+> 
+> \draw[->, linebase] (A3) -- (B3)
+>   node[lab] {$\{NB\}_{pk(B)}$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> 
+> ==Roles and strands:==
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.4pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=8pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\d{0.18} % separation for double lifelines
+> \def\yTop{6.5}
+> \def\yOne{4.5}
+> \def\yTwo{2.2}
+> \def\yThree{-0.1}
+> 
+> % Left half x positions
+> \def\xAL{0}
+> \def\xBL{8}
+> 
+> % Right half x positions
+> \def\xAR{16}
+> \def\xBR{24}
+> 
+> % ===== LEFT HALF =====
+> % A label box (left)
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xAL,\yTop) {\textit{A}};
+> 
+> % A events (left)
+> \node[dot] (AL1) at (\xAL,\yOne) {};
+> \node[dot] (AL2) at (\xAL,\yTwo) {};
+> \node[dot] (AL3) at (\xAL,\yThree) {};
+> 
+> % A lifelines (left): double, single, double
+> \draw[linebase] (\xAL-\d,\yTop-0.6) -- (\xAL-\d,\yOne);
+> \draw[linebase] (\xAL+\d,\yTop-0.6) -- (\xAL+\d,\yOne);
+> \draw[linebase] (\xAL,\yOne) -- (\xAL,\yTwo);
+> \draw[linebase] (\xAL-\d,\yTwo) -- (\xAL-\d,\yThree);
+> \draw[linebase] (\xAL+\d,\yTwo) -- (\xAL+\d,\yThree);
+> 
+> % Messages (left)
+> \draw[->, linebase] (AL1) -- (\xBL,\yOne)
+>   node[lab] {$\{NA,A\}_{pk(B)}$};
+> \draw[<-, linebase] (AL2) -- (\xBL,\yTwo)
+>   node[lab] {$\{NA,NB\}_{pk(A)}$};
+> \draw[->, linebase] (AL3) -- (\xBL,\yThree)
+>   node[lab] {$\{NB\}_{pk(B)}$};
+> 
+> % ===== RIGHT HALF =====
+> % B label box (right)
+> \node[draw, minimum width=12mm, minimum height=12mm] at (\xBR,\yTop) {\textit{B}};
+> 
+> % B events (right)
+> \node[dot] (BR1) at (\xBR,\yOne) {};
+> \node[dot] (BR2) at (\xBR,\yTwo) {};
+> \node[dot] (BR3) at (\xBR,\yThree) {};
+> 
+> % B lifelines (right): single, double, single
+> \draw[linebase] (\xBR,\yTop-0.6) -- (\xBR,\yOne);
+> \draw[linebase] (\xBR-\d,\yOne) -- (\xBR-\d,\yTwo);
+> \draw[linebase] (\xBR+\d,\yOne) -- (\xBR+\d,\yTwo);
+> \draw[linebase] (\xBR,\yTwo) -- (\xBR,\yThree);
+> 
+> % Messages (right)
+> \draw[->, linebase] (\xAR,\yOne) -- (BR1)
+>   node[lab] {$\{NA,A\}_{pk(B)}$};
+> \draw[<-, linebase] (\xAR,\yTwo) -- (BR2)
+>   node[lab] {$\{NA,NB\}_{pk(A)}$};
+> \draw[->, linebase] (\xAR,\yThree) -- (BR3)
+>   node[lab] {$\{NB\}_{pk(B)}$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+> - For each **Role** of the protocol, a program that sends and receives messages (over possibly insecure network)
+> - **Strand**: concrete execution of a role: all variables (here A, B, NA, NB) instantiated with concrete values
+> 	- or a prefix thereof (an agent might not finish)
+> 
 > ==Attacks in strands semantic== (Dolve-Yao model)
 > 
 > ```tikz
@@ -1058,8 +1594,93 @@ Lazy intruder summary:
 - Solved if all outgoing messages are variables
 	- The intruder can always send something. Be lazy!
 
+Important properties of the lazy intruder:
+- **Termination**: every unification and composition step makes the constraint simpler, this cannot go on forever. The analysis steps can only produce subterms of terms we already have.
+- **Soundness**: the lazy intruder procedure finds only correct solutions (covered by the Dolev-Yao model)
+- **Completeness**: if a constraint has a solution, the lazy intruder will find it:
+	- Consider any solution of a constraint.
+	- Then the constraint is either already simple or one of the lazy intruder steps gets us to a new constraint that still supports that solution
+	- By termination, we eventually arrive at a simple constraint that supports the considered solution.
+
+Finally, one can show that the problem of protocol security with bounded sessions (and nonces) but unbounded messages is co-NP-complete.
+
+> [!link] Theorem (Rusinowitch & Turuani 2001)
+> ↗ [Complexity Theory & Computational Complexity](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> Protocol insecurity for a bounded number of sessions is NP-complete. 
+> 
+> Proof Sketch.
+> - **In NP**: Guess a symbolic attack trace for the given strands and a sequence of reduction steps for the resulting constraints. Check that this sequence of reduction steps solves the constraint.
+> - **NP-hard**: Polynomial reduction for boolean formulae to security protocols such that formula satisfiable iff protocol has an attack.
+###### Solving Constraints
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 13.1
+###### Simple Constraints
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 13.8
+ 
+> [!definition]
+> Definition 28. An intruder constraint is called simple if all outgoing messages are variables.
+
+For instance, the constraint we obtained at the end of the NSPK example is simple since it has no more outgoing messages. Moreover, in the intermediate steps, the strands have a simple prefixlike this one:
+
+> [!example]
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=6pt},
+>   lab/.style={midway, above, inner sep=3pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\xI{0}
+> \def\d{0.18}
+> \def\xL{-9}
+> 
+> \def\yOne{2.4}
+> \def\yTwo{1.2}
+> 
+> % ===== Event dots =====
+> \node[dot] (E1) at (\xI,\yOne) {};
+> \node[dot] (E2) at (\xI,\yTwo) {};
+> 
+> % ===== Lifeline (double, trimmed to dots only) =====
+> \draw[linebase] (\xI-\d,\yOne) -- (\xI-\d,\yTwo);
+> \draw[linebase] (\xI+\d,\yOne) -- (\xI+\d,\yTwo);
+> 
+> % ===== First message (rightwards to i) =====
+> \draw[->, linebase] (\xL,\yOne) -- (E1)
+>   node[lab] {$a,b,i,pk(a),pk(b),pk(i),inv(pk(i)),\{\textcolor{blue}{n17},a\}_{pk(i)},\textcolor{blue}{n17}$};
+> 
+> % ===== Second message (leftwards) =====
+> \draw[<-, linebase] (E2) -- (\xL,\yTwo)
+>   node[lab] {$NA$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+
+This is simple since the only outgoing message N A is a variable. Note that we cannot apply composition or unification steps to such a message – and it would be pointless, because it requires the intruder to only send some message. Since the intruder can always construct some message we have:
+
+> [!lemma]
+> Lemma 2. Every simple constraint has a solution.
+
+Thus, when we arrive at a simple constraint, we have found a solution. If we arrive at a constraint that is not simple and no further intruder rules can be applied, then the constraint is not satisfiable – as the following lazy intruder correctness theorems show.
+###### Composition & Unification
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 13.2, 13.3
+###### Constraint Solving Example ⭐
+
 > [!example]
 > ↗ [Needham–Schroeder Protocol](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Transport%20Algorithms%20&%20Protocols/Needham–Schroeder%20Protocol.md)
+> ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
 > 
 > **Example 21.**  Consider again the constraint in from the NSPK example. Let us label the intruder knowledge at different points $M_0, \ldots, M_2$:
 > 
@@ -1155,14 +1776,17 @@ Lazy intruder summary:
 > \end{aligned}
 > $$
 
-> [!Abstract] Theorem (Rusinowitch & Turuani 2001)
-> ↗ [Complexity Theory & Computational Complexity](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-> 
-> Protocol insecurity for a bounded number of sessions is NP-complete. 
-> 
-> Proof Sketch.
-> - **In NP**: Guess a symbolic attack trace for the given strands and a sequence of reduction steps for the resulting constraints. Check that this sequence of reduction steps solves the constraint.
-> - **NP-hard**: Polynomial reduction for boolean formulae to security protocols such that formula satisfiable iff protocol has an attack.
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 13.6 (slides protsec 3)
+ 
+ We now give the complete example of solving the intruder constraint from Example 21.
+###### The Correctness of Lazy Intruder
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 13.9
 #### Guess Attacks & Mitigations
 > [!links]
 > ↗ [Password Attack](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)

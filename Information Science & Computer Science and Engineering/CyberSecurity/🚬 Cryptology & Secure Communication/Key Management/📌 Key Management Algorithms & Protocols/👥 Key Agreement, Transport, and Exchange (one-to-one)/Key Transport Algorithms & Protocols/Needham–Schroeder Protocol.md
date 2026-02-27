@@ -50,6 +50,25 @@ h(NA, NB) secret between A , B
 
 
 ### Needham-Schroeder-Lowe (1996)
+```AnB
+Protocol : NSL
+
+Types : Agent A , B ;
+		Number NA , NB ;
+		Function pk , h
+
+Knowledge : A : B : A , pk ( A ) , inv ( pk ( A )) , B , pk ( B ) , h ;
+			B , pk ( B ) , inv ( pk ( B )) , A , pk ( A ) , h
+
+Actions :
+A - > B : { NA , A }( pk ( B ))
+B - > A : { NA , NB , B }( pk ( A ))
+# Inserted B ’ s name into the message
+A - > B : { NB }( pk ( B ))
+
+Goals :
+h ( NA , NB ) secret between A , B
+```
 
 
 

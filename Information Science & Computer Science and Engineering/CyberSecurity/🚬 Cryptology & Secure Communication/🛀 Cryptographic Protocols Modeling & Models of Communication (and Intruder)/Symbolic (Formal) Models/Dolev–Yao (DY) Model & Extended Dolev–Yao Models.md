@@ -41,7 +41,7 @@ Internet and also the Intranet of a company). However, this expresses simply tha
 The insecure network is the classical view of secure communication (shannon-weaver model): Alice wants to send to Bob some messages, they are honest people, but between them is a hostile world that tries to read, manipulate, or even forge messages between them. One may think of a spy novel where Alice is a secret agent operating in a foreign country and Bob is the home base of the secret service. Dolev and Yao make an important change to this classical view: that the participants of a protocol are not necessarily honest people (who stick to the rules, in particular the protocol). One may think for instance of an e-Banking protocol where Alice is a customer and Bob is a bank: it should not be a requirement of this protocol that all customers are honest, some clients may be trying to cheat. Maybe even a bank may be dishonest, e.g., due to dishonest employees trying to manipulate transactions. In fact, several of the most surprising attacks involve a dishonest participant (while the protocol is secure when considering only honest agents and the intruder can only control the network) e.g. [18]. Thus, we recommend to consider by default that every role of the protocol may be played by a dishonest agent. In some cases like the keyserver example from before, we see that the protocol is (trivially) broken if the keyserver is dishonest. We have thus explicitly made the keyserver a trusted party by using a constant s that cannot be instantiated by the intruder, while all other roles of the protocol (where we have variables) can be instantiated by the intruder i. ^[One may wonder what happens if there is more than one intruder: in the worst case, they all collaborate, therefore we see that as a special case of one intruder and the dishonest agents are bots under the intruder’s control. It is a bit of a simplification that there is only one dishonest agent called i, but as long as no inequalities on agent names are required, this is sound.]
 
 
-### Intruder Deduction
+### Dolev-Yao Intruder Deduction
 > [!links]
 > ↗ [Mathematics](../../../../🧮%20Mathematics/Mathematics.md)
 > ↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
@@ -141,8 +141,7 @@ We formalize now the cryptographic abilities of the intruder according in the st
 > ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.07.50.png)
 
 
-
-## Automating Dolev-Yao
+### Automating Dolev-Yao Deduction
 > [!links]
 > ↗ [(Formal) Model Checking](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
@@ -219,9 +218,7 @@ This algorithm can also be extended to handle many equational theories $E$ (e.g.
 > - **Termination:** the algorithm never runs into an infinite loop.
 > 	- Procedure for $\vdash_c$ terminates since it goes to smaller terms.
 > 	- Analysis terminates because it only adds proper subterms of an existing term. This cannot go on forever, since there are only finitely many subterms.
-
-
-### The Completeness Proof
+#### The Completeness Proof
 Task of the proof: given a Dolev-Yao proof tree for $M ⊢m$, show that the procedure will say “yes”, i.e., the procedure finds this derivation.
 
 > [!EXAMPLE]
@@ -269,6 +266,10 @@ Q. Can we thus prove also statements of the form $M ⊬ m$, that a m cannot be d
 > $M= \{k1, \{|m1|\}_{k1}, m2, \{|m3|\}_{k2} \}⊬m3$
 
 A. Yes, due to completeness when our algorithm answers “no”, we know there is no derivation for $m$.
+
+
+
+## Extending Dolev–Yao Model
 
 
 
