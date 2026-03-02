@@ -30,7 +30,7 @@ One interesting variant is the SanDisk U3 USB key, or Smart Drive. The U3 keys w
 
 
 #### 👉 The MalDuino – the BadUSB
-↗ [MalDuino](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/BadUSB/MalDuino.md)
+↗ [MalDuino](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/BadUSB/MalDuino.md)
 
 
 

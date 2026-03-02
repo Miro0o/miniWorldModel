@@ -127,7 +127,7 @@ kali下一款ZIP压缩包密码破解工具。
 ### 👉 aircrack-ng
 是一个与801.11标准的无线网络分析有关的安全软件，主要功能：网络侦测，数据包嗅探，WEP和WPA/WPA2-PSK破解，Aircrack-ng可以工作在任何支持监听模式的无线网卡上并嗅探802.11a，802.11b，802.11g的数据。该程序可运行在Linux和Windows上，Linux版本已经被移植到了Zaurus和Maemo平台上
 
-↗ [aircrack-ng Suites](../../Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
+↗ [aircrack-ng Suites](../../🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 
 ### 👉 Cowpatty
 一款知名的WPA-PSK握手包密码破解工具。

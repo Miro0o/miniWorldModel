@@ -22,7 +22,7 @@
 - ↗ [Cryptographic Protocols Modeling & Verification](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 ↗ [Kill Chain & Security Tool Box](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
-- ↗ [Vulnerability Scanners](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
+- ↗ [Software Vulnerability Scanners](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Vulnerability%20Scanners/Software%20Vulnerability%20Scanners.md)
 - ↗ [Pen-testing Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
 - ↗ [Software Analysis Tools](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 	- ↗ [Malware Discovery Tools & Scanners](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malware%20Discovery%20Tools%20&%20Scanners.md)

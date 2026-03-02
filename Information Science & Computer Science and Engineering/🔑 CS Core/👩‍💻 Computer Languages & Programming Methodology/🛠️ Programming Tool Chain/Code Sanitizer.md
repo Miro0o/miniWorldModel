@@ -44,8 +44,8 @@ Additional sanitizer tools (grouped by compilers under -fsanitize or a similar f
 
 
 
-## AddressSanitizer (AS)
-### KernelAddressSanitizer (KAS)
+## AddressSanitizer (ASan)
+### KernelAddressSanitizer (KASan)
 
 
 

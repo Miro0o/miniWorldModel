@@ -39,7 +39,7 @@ Zhang, J., Bu, H., Wen, H., Liu, Y., Fei, H., Xi, R., Li, L., Yang, Y., Zhu, H.,
 - [Darwin-GPT](https://github.com/muellerberndt/darwin-gpt): A minimal self-replicating agent based on GPT-3.5/4, by Bernhard Mueller.
 
 
-### 👨‍🍳 Agentic LLM + Automated Security
+### 👨‍🍳 Agentic LLM / Automated Security
 https://github.com/0x4m4/hexstrike-ai
 HexStrike AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
 - How It Works
@@ -61,6 +61,15 @@ Making frontier cybersecurity capabilities available to defenders
 https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot
 microsoft copilot
 
+https://github.com/ucsb-mlsec/VulnLLM-R/tree/main
+VulnLLM-R: Specialized Reasoning LLM for Vulnerability Detection
+- **Paper:** [arXiv:2512.07533](https://arxiv.org/abs/2512.07533)
+- **Code & Data:** [GitHub](https://github.com/ucsb-mlsec/VulnLLM-R)
+- **Demo:** [Web demo](https://huggingface.co/spaces/UCSB-SURFI/VulnLLM-R)
+	- https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B
+	- https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B/tree/main
+- **Model:** [7B Model](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B)
+
 
 ### Teams & Groups
 https://red.anthropic.com/
@@ -74,7 +83,6 @@ https://aicyberchallenge.com/
 🏠 https://github.com/ddzipp/AutoAudit
 - [AutoAudit-7B](https://github.com/ddzipp/AutoAudit/blob/main)，此版本为demo版，基于[Alpaca-Lora](https://github.com/tloen/alpaca-lora)训练而来，在网络安全的英文领域回答效果尚佳，但暂时不具备上下文关联的功能，需要用更大参数的模型来解决。
 - AutoAudit-33B，该版本仍然在内部测试和训练过程中，我们会稍晚些时候放出。
-
 
 
 

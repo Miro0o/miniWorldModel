@@ -27,7 +27,7 @@
 
 ### Escalating an attack using DNS redirection
 #### 👉 `BetterCap`
-↗ [BetterCap](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/BetterCap/BetterCap.md)
+↗ [BetterCap](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/BetterCap/BetterCap.md)
 ↗ [Social Engineering & Physical Security](Social%20Engineering%20&%20Physical%20Security.md)
 
 

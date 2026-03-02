@@ -20,6 +20,8 @@
 ### Other Resources
 https://deepeval.com/
 
+https://artificialanalysis.ai/trends
+
 
 
 ## A List of Popular Large Language Models

@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Cyberspace Assets Mapping & Management](../../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
-↗ [Service & Application Version Detection](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Service%20&%20Application%20Version%20Detection/Service%20&%20Application%20Version%20Detection.md)
-↗ [Remote OS Detection](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Remote%20OS%20Detection/Remote%20OS%20Detection.md)
+↗ [Service & Application Version Detection](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Service%20&%20Application%20Version%20Detection/Service%20&%20Application%20Version%20Detection.md)
+↗ [Remote OS Detection](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Remote%20OS%20Detection/Remote%20OS%20Detection.md)
 
 ↗ xprobe2.
 
@@ -75,14 +75,14 @@ To prevent this, network administrators should restrict access to services on th
 ### Active Fingerprinting
 Active fingerprinting: The attacker sends normal and malformed packets to the target and records its response pattern, referred to as the fingerprint. By comparing the fingerprint to a local database, the operating system can be determined.
 #### 👉 nmap
-↗ [Nmap (The Scanner)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/Nmap%20Project%20Products/Nmap%20(The%20Scanner).md)
+↗ [Nmap (The Scanner)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/Nmap%20Project%20Products/Nmap%20(The%20Scanner).md)
 #### 👉 xprobe2
 
 
 ### Passive Fingerprinting
 Passive fingerprinting: The attacker sniffs, or records and analyzes the packet stream to determine the characteristics of the packets
 #### 👉 Wireshark(?)
-↗ [Wireshark](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
 
 
 

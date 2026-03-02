@@ -11,7 +11,7 @@
 ↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 ↗ [Malware Discovery Tools & Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malware%20Discovery%20Tools%20&%20Scanners.md)
 ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
-- ↗ [Vulnerability Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
+- ↗ [Software Vulnerability Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Vulnerability%20Scanners/Software%20Vulnerability%20Scanners.md)
 
 ↗ [CLI Package & Software Management](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
 ↗ [Programming Tool Chain](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)

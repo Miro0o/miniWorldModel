@@ -27,10 +27,10 @@
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 - ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
 - ↗ [Active Recon & Offensive OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
-↗ [Reconnaissance & Exploration Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
+↗ [Reconnaissance & Exploration Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
 
 ↗ [Delivery Phase](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Delivery%20Phase/Delivery%20Phase.md)
-↗ [Delivery Tools & Wireless](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/Delivery%20Tools%20&%20Wireless.md)
+↗ [Delivery Tools & Wireless](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Delivery%20Tools%20&%20Wireless.md)
 
 
 ### Other Resources
@@ -61,7 +61,7 @@ In this chapter, we will examine several housekeeping tasks and wireless attacks
 
 
 ### 👉 aircrack-ng
-↗ [aircrack-ng Suites](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
+↗ [aircrack-ng Suites](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 
 
 ### 👉 Kismet

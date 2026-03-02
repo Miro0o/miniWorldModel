@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Host Discovery (Ping Scanning)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
+↗ [Host Discovery (Ping Scanning)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
 
 
 ### IP Information Search Sites
@@ -85,7 +85,7 @@ We will now see traffic on **DNS**, **NBNS**, **BROWSER**, and other protocols t
 
 ## ARP broadcasting
 ### 👉 nmap
-↗ [Nmap (The Scanner)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/Nmap%20Project%20Products/Nmap%20(The%20Scanner).md)
+↗ [Nmap (The Scanner)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/Nmap%20Project%20Products/Nmap%20(The%20Scanner).md)
 
 
 ### 👉 arp-scan
@@ -196,7 +196,7 @@ The first step that attackers would look for is any identified network device on
 
 
 ### 👉 Metasploit
-[Metasploit Framework (MSF)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+[Metasploit Framework (MSF)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
 
 
 

@@ -9,7 +9,7 @@
 ↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
-↗ [Security Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Sec (Security) Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
 
 
 ### Other Resources

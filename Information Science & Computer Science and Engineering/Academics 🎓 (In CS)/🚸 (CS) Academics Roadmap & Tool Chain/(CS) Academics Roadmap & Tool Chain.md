@@ -10,9 +10,6 @@
 
 
 ### Useful Tools
-https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate
-四川大学学位论文LaTeX模版
-
 https://www.aminer.cn/
 AI帮你理解科学
 
@@ -86,6 +83,10 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 
 
 42 【claude 4 ➕ gemini 🟰 科研 的神！！！ - claude万事屋🏠 | 小红书 - 你的生活兴趣社区】 😆 XBYCY0LRmYo56uB 😆 https://www.xiaohongshu.com/discovery/item/686b3506000000001d00d6d4?source=webshare&xhsshare=pc_web&xsec_token=ABCSIYRfKGX0JcortP01nE0WQec9LMm2XIJ_QuT1DDZo4=&xsec_source=pc_share
+
+https://papercopilot.com/
+
+https://cspaper.org/
 
 
 ### Academic Qualities ⭐ ⭐ 
@@ -415,7 +416,7 @@ Call for Paper Lists
 ### Conferences & Journals /中国大陆学术论文分区
 > [!links]
 > ↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
-> ↗ [Security Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Security%20Related%20Conferences%20&%20Journals.md)
+> ↗ [Sec (Security) Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
 
 https://www.myhuiban.com/
 Conference Partner
@@ -440,6 +441,11 @@ OpenReview aims to promote openness in scientific communication, particularly th
 
 https://pubpeer.com
 The **PubPeer** Foundation is a California-registered public-benefit corporation with 501(c)(3) nonprofit status in the United States. The overarching goal of the Foundation is to improve the quality of scientific research by enabling innovative approaches for community interaction. The bylaws of the Foundation establish pubpeer.com as a service run for the benefit of its readers and commenters, who create its content. Our current focus is maintaining and developing the **PubPeer** online platform for post-publication peer review.
+
+
+### Paper Acceptance & Analysis
+https://openaccept.org/
+Tracking Paper Acceptance Rates at CS Conferences
 
 
 

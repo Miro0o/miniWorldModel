@@ -428,7 +428,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 ### Technical Evolution of Specific LLM Model Series
 #### GPT-series Model
-↗ [OpenAI ChatGPT](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20ChatGPT.md)
+↗ [OpenAI GPT & Codex](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT%20&%20Codex.md)
 
 > Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 #### Gemini-series Model

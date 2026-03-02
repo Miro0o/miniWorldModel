@@ -252,7 +252,7 @@ Fundamentally, fuzzing shifts the focus from functional test cases (i.e., what s
 目前，Fuzzing技术已经是软件测试、漏洞挖掘领域的最有效的手段之一。Fuzzing技术特别适合用于发现0 Day漏洞，也是众多黑客或黑帽子发现软件漏洞的首选技术。Fuzzing虽然不能直接达到入侵的效果，但是Fuzzing非常容易找到软件或系统的漏洞，以此为突破口深入分析，就更容易找到入侵路径，这就是黑客喜欢Fuzzing技术的原因。
 
 
-### Terminology ⭐
+### Terminology in Fuzzing ⭐
 > V. J. M. Manès et al., "The Art, Science, and Engineering of Fuzzing: A Survey," in IEEE Transactions on Software Engineering, vol. 47, no. 11, pp. 2312-2331, 1 Nov. 2021, doi: 10.1109/TSE.2019.2946563. (2018)
 > https://ieeexplore.ieee.org/document/8863940
 > https://arxiv.org/pdf/1812.00140
@@ -366,6 +366,41 @@ Fuzzing is defined by Microsoft as ‘a program analysis technique that looks fo
 | **Access & Information** | Zero                                          | Some                                         | Complete                             |
 | **Advantage**            | Realistic start                               | More efficient than BB                       | More comprehensive than GB           |
 | **Disadvantage**         | May miss vulnerabilities & resource-intensive | Limited assessment of penetration resistance | Requires extensive release at cost   |
+#### Snapshot Fuzzing
+> 🔗 https://appsec.guide/docs/fuzzing/snapshot-fuzzing/
+
+Snapshot fuzzing is the process of taking a snapshot of the target program or OS—of the memory state, register state, or other information needed to resume execution—then continuing execution in an emulated environment, mutating data in memory, and resetting the program back to the original snapshot state when the execution crashes or reaches a specified point.
+
+Snapshot fuzzing has many advantages:
+- Snapshot fuzzing can be fast, as the program does not need to start up on each test run. You can snapshot the program at the desired state (e.g., when a file is loaded) and start testing from there.
+- The process is fully deterministic or has a high level of determinism.
+    - The target always starts with the same state.
+    - The same fuzz input should give the same result.
+    - Testing results in no unreproducible crashes.
+    - Any difference in execution is due to the user input, not some unknown state.
+- No source is needed (but of course, symbols can help).
+- It is easy to track code coverage, detect crashes, and track dirty memory.
+
+It also has some disadvantages:
+- Preparing a snapshot is time-consuming and error-prone.
+    - For example, to target a Windows program, you must set up KDNET, create a VM snapshot, prepare a harness, and take other time-consuming steps.
+- Existing fuzzers have many minor bugs, and you need to have tacit knowledge to make them run under specific circumstances. For example, you must know that to execute a specific target using a specific emulating back end, you have to strip a specific register’s bits; otherwise, you will have errors.
+
+In this Testing Handbook chapter, we will demonstrate snapshot fuzzing on a Windows kernel driver using a fuzzer built with the tool what the fuzz (wtf), a distributed, code-coverage-guided, customizable, cross-platform snapshot-based fuzzer designed for user- and kernel-mode targets. It is mainly implemented for Windows, but there are extensions to support other platforms:
+- [Linux](https://github.com/0vercl0k/wtf/blob/main/linux_mode)
+- [macOS](https://blog.talosintelligence.com/talos-releases-new-macos-fuzzer/)
+
+Other notable snapshot fuzzers include the following:
+- [Snapchange by AWS](https://github.com/awslabs/snapchange)
+- [Nyx](https://github.com/nyx-fuzz)
+
+See [this blog post](https://doar-e.github.io/blog/2021/07/15/building-a-new-snapshot-fuzzer-fuzzing-ida/) for the story behind wtf and its use in fuzzing IDA, and [this blog post series](https://h0mbre.github.io/New_Fuzzer_Project/) on developing a custom snapshot fuzzer.
+#### Differential Fuzzing /Differential Testing
+> 🔗 https://en.wikipedia.org/wiki/Differential_testing
+
+**[Differential](https://en.wikipedia.org/wiki/Software_testing "Software testing") testing**, also known as **differential fuzzing**, is a [software testing](https://en.wikipedia.org/wiki/Software_testing "Software testing") technique that detect [bugs](https://en.wikipedia.org/wiki/Software_bugs "Software bugs"), by providing the same input to a series of similar applications (or to different implementations of the same application), and observing differences in their execution. Differential testing complements traditional software testing because it is well-suited to find [semantic](https://en.wikipedia.org/wiki/Semantics_\(computer_science\) "Semantics (computer science)") or [logic bugs](https://en.wikipedia.org/wiki/Logic_error "Logic error") that do not exhibit explicit erroneous behaviors like crashes or assertion failures. Differential testing is also called back-to-back testing.
+
+Differential testing finds semantic bugs by using different implementations of the same functionality as cross-referencing [oracles](https://en.wikipedia.org/wiki/Oracle_machine "Oracle machine"), pinpointing differences in their outputs over the same input: any discrepancy between the program behaviors on the same input is marked as a potential bug.
 
 
 ### OSS-Fuzz
@@ -398,38 +433,6 @@ Once the developer fixes the bug, [ClusterFuzz](https://google.github.io/oss-fu
 [OSS-Fuzz](https://google.github.io/oss-fuzz/) is an open-source project developed by Google that aims to improve the security and stability of open-source software by providing free distributed infrastructure for continuous fuzz festing. Using a pre-existing framework like OSS-Fuzz has many advantages over manually running harnesses: it streamlines the process and facilitates simpler modifications. Although only select projects are accepted into OSS-Fuzz, because the project’s core is open-source, anyone can host their own instance of OSS-Fuzz and use it for private projects!
 
 This chapter will help project developers understand how to leverage OSS-Fuzz to both fuzz a project on your private instance and delegate the fuzzing computation to Google. Additionally, security researchers will learn how to run a single harness on an existing project, extend a harness, or reproduce an individual crash.
-
-
-### Snapshot Fuzzing
-> 🔗 https://appsec.guide/docs/fuzzing/snapshot-fuzzing/
-
-Snapshot fuzzing is the process of taking a snapshot of the target program or OS—of the memory state, register state, or other information needed to resume execution—then continuing execution in an emulated environment, mutating data in memory, and resetting the program back to the original snapshot state when the execution crashes or reaches a specified point.
-
-Snapshot fuzzing has many advantages:
-- Snapshot fuzzing can be fast, as the program does not need to start up on each test run. You can snapshot the program at the desired state (e.g., when a file is loaded) and start testing from there.
-- The process is fully deterministic or has a high level of determinism.
-    - The target always starts with the same state.
-    - The same fuzz input should give the same result.
-    - Testing results in no unreproducible crashes.
-    - Any difference in execution is due to the user input, not some unknown state.
-- No source is needed (but of course, symbols can help).
-- It is easy to track code coverage, detect crashes, and track dirty memory.
-
-It also has some disadvantages:
-- Preparing a snapshot is time-consuming and error-prone.
-    - For example, to target a Windows program, you must set up KDNET, create a VM snapshot, prepare a harness, and take other time-consuming steps.
-- Existing fuzzers have many minor bugs, and you need to have tacit knowledge to make them run under specific circumstances. For example, you must know that to execute a specific target using a specific emulating back end, you have to strip a specific register’s bits; otherwise, you will have errors.
-
-In this Testing Handbook chapter, we will demonstrate snapshot fuzzing on a Windows kernel driver using a fuzzer built with the tool what the fuzz (wtf), a distributed, code-coverage-guided, customizable, cross-platform snapshot-based fuzzer designed for user- and kernel-mode targets. It is mainly implemented for Windows, but there are extensions to support other platforms:
-- [Linux](https://github.com/0vercl0k/wtf/blob/main/linux_mode)
-- [macOS](https://blog.talosintelligence.com/talos-releases-new-macos-fuzzer/)
-
-Other notable snapshot fuzzers include the following:
-- [Snapchange by AWS](https://github.com/awslabs/snapchange)
-- [Nyx](https://github.com/nyx-fuzz)
-
-See [this blog post](https://doar-e.github.io/blog/2021/07/15/building-a-new-snapshot-fuzzer-fuzzing-ida/) for the story behind wtf and its use in fuzzing IDA, and [this blog post series](https://h0mbre.github.io/New_Fuzzer_Project/) on developing a custom snapshot fuzzer.
-
 
 
 ## Fuzzing Algorithm & General Working Procedure

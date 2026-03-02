@@ -61,6 +61,8 @@ Roboflow empowers developers to build their own computer vision applications, no
 
 https://www.alignmentforum.org/
 
+https://artificialanalysis.ai/trends
+
 
 ### Learning Resources
 PEARSON SERIES IN ARTIFICIAL INTELLIGENCE | Stuart Russell and Peter Norvig, Editors
