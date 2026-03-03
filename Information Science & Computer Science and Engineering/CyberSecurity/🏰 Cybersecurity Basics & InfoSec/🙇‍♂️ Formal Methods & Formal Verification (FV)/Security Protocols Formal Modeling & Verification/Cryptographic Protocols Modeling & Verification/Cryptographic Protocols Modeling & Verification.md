@@ -525,6 +525,115 @@ We can now put it all together and define a world of honest agents, an intruder,
  >Chapter 8.2
 
 
+### Modeling Security Goals
+> [!links]
+> ↗ [Cybersecurity Basics & InfoSec](../../../Cybersecurity%20Basics%20&%20InfoSec.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+
+ >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
+ >Protocol Security Verification Tutorial
+ >Sebastian M ̈odersheim,
+ >Chapter 9.
+ >
+ >We now define formally secrecy and authentication goals for protocols. There are of course many other interesting goals, such as sender invariance, anonymity, privacy, non-repudiation, and availability. Some of these we will actually discuss later, but they require additional measures and infrastructure, so for now we only focus on the basic goals.
+#### Secrecy
+> [!example]
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[
+>   font=\Large,
+>   linebase/.style={line width=1.2pt},
+>   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
+>   lab/.style={midway, above, inner sep=2pt}
+> ]
+> 
+> % ===== Geometry =====
+> \def\d{0.18}
+> \def\yTop{6.5}
+> \def\yOne{4.8}
+> \def\yTwo{3.0}
+> \def\yThree{1.2}
+> \def\yBox{-0.6}
+> 
+> % Left half x positions
+> \def\xAL{0}
+> \def\xBL{7.5}
+> 
+> % Right half x positions
+> \def\xAR{13}
+> \def\xBR{20.5}
+> 
+> % ===== LEFT SIDE (A) =====
+> % A label
+> \node[draw, minimum width=9mm, minimum height=9mm] at (\xAL,\yTop) {$A$};
+> 
+> % Lifeline (double)
+> \draw[linebase] (\xAL-\d,\yTop-0.6) -- (\xAL-\d,\yThree-1.2);
+> \draw[linebase] (\xAL+\d,\yTop-0.6) -- (\xAL+\d,\yThree-1.2);
+> 
+> % Dots
+> \node[dot] (AL1) at (\xAL,\yOne) {};
+> \node[dot] (AL2) at (\xAL,\yTwo) {};
+> \node[dot] (AL3) at (\xAL,\yThree) {};
+> 
+> % Messages (LEFT) with coloring
+> \draw[->, linebase] (AL1) -- (\xBL,\yOne)
+>   node[lab] {$\{\textcolor{blue}{NA},A\}_{pk(B)}$};
+> 
+> \draw[<-, linebase] (AL2) -- (\xBL,\yTwo)
+>   node[lab] {$\{\textcolor{blue}{NA},\textcolor{red}{NB}\}_{pk(A)}$};
+> 
+> \draw[->, linebase] (AL3) -- (\xBL,\yThree)
+>   node[lab] {$\{\textcolor{red}{NB}\}_{pk(B)}$};
+> 
+> % Secret box (LEFT)
+> \node[draw, align=center, inner sep=6pt] at (\xAL,\yBox)
+> {$secret(NA,\{A,B\})$\\$secret(NB,\{A,B\})$};
+> 
+> % ===== RIGHT SIDE (B) =====
+> % B label
+> \node[draw, minimum width=9mm, minimum height=9mm] at (\xBR,\yTop) {$B$};
+> 
+> % Lifeline (double)
+> \draw[linebase] (\xBR-\d,\yTop-0.6) -- (\xBR-\d,\yThree-1.2);
+> \draw[linebase] (\xBR+\d,\yTop-0.6) -- (\xBR+\d,\yThree-1.2);
+> 
+> % Dots
+> \node[dot] (BR1) at (\xBR,\yOne) {};
+> \node[dot] (BR2) at (\xBR,\yTwo) {};
+> \node[dot] (BR3) at (\xBR,\yThree) {};
+> 
+> % Messages (RIGHT) with coloring
+> \draw[->, linebase] (\xAR,\yOne) -- (BR1)
+>   node[lab] {$\{\textcolor{red}{NA},A\}_{pk(B)}$};
+> 
+> \draw[<-, linebase] (\xAR,\yTwo) -- (BR2)
+>   node[lab] {$\{\textcolor{red}{NA},\textcolor{blue}{NB}\}_{pk(A)}$};
+> 
+> \draw[->, linebase] (\xAR,\yThree) -- (BR3)
+>   node[lab] {$\{\textcolor{blue}{NB}\}_{pk(B)}$};
+> 
+> % Secret box (RIGHT)
+> \node[draw, align=center, inner sep=6pt] at (\xBR,\yBox)
+> {$secret(NA,\{A,B\})$\\$secret(NB,\{A,B\})$};
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
+
+#### Authentication
+
+#### Sender Invariance
+
+#### Anonymity
+
+#### Privacy
+
+#### Non-Repudiation
+
+#### Availability
+
+
 ### Secure Implementation & Typing 🤔
 > [!links]
 > ↗ [Type Theory (类型论)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
@@ -1127,113 +1236,7 @@ As a consequence, it is sound to restrict the intruder model to well-typed messa
 > - and thus, if there is an attack, then there is a well-typed one.
 
 
-### Modeling Security Goals
-> [!links]
-> ↗ [Cybersecurity Basics & InfoSec](../../../Cybersecurity%20Basics%20&%20InfoSec.md)
-> ↗ [CIA Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
-
- >https://paolo.science/anbxtutorial/tools/OFMC-tutorial.pdf (March 2020)
- >Protocol Security Verification Tutorial
- >Sebastian M ̈odersheim,
- >Chapter 9.
- >
- >We now define formally secrecy and authentication goals for protocols. There are of course many other interesting goals, such as sender invariance, anonymity, privacy, non-repudiation, and availability. Some of these we will actually discuss later, but they require additional measures and infrastructure, so for now we only focus on the basic goals.
-#### Secrecy
-> [!example]
-> ```tikz
-> \begin{document}
-> \begin{tikzpicture}[
->   font=\Large,
->   linebase/.style={line width=1.2pt},
->   dot/.style={circle, fill=black, inner sep=0pt, minimum size=7pt},
->   lab/.style={midway, above, inner sep=2pt}
-> ]
-> 
-> % ===== Geometry =====
-> \def\d{0.18}
-> \def\yTop{6.5}
-> \def\yOne{4.8}
-> \def\yTwo{3.0}
-> \def\yThree{1.2}
-> \def\yBox{-0.6}
-> 
-> % Left half x positions
-> \def\xAL{0}
-> \def\xBL{7.5}
-> 
-> % Right half x positions
-> \def\xAR{13}
-> \def\xBR{20.5}
-> 
-> % ===== LEFT SIDE (A) =====
-> % A label
-> \node[draw, minimum width=9mm, minimum height=9mm] at (\xAL,\yTop) {$A$};
-> 
-> % Lifeline (double)
-> \draw[linebase] (\xAL-\d,\yTop-0.6) -- (\xAL-\d,\yThree-1.2);
-> \draw[linebase] (\xAL+\d,\yTop-0.6) -- (\xAL+\d,\yThree-1.2);
-> 
-> % Dots
-> \node[dot] (AL1) at (\xAL,\yOne) {};
-> \node[dot] (AL2) at (\xAL,\yTwo) {};
-> \node[dot] (AL3) at (\xAL,\yThree) {};
-> 
-> % Messages (LEFT) with coloring
-> \draw[->, linebase] (AL1) -- (\xBL,\yOne)
->   node[lab] {$\{\textcolor{blue}{NA},A\}_{pk(B)}$};
-> 
-> \draw[<-, linebase] (AL2) -- (\xBL,\yTwo)
->   node[lab] {$\{\textcolor{blue}{NA},\textcolor{red}{NB}\}_{pk(A)}$};
-> 
-> \draw[->, linebase] (AL3) -- (\xBL,\yThree)
->   node[lab] {$\{\textcolor{red}{NB}\}_{pk(B)}$};
-> 
-> % Secret box (LEFT)
-> \node[draw, align=center, inner sep=6pt] at (\xAL,\yBox)
-> {$secret(NA,\{A,B\})$\\$secret(NB,\{A,B\})$};
-> 
-> % ===== RIGHT SIDE (B) =====
-> % B label
-> \node[draw, minimum width=9mm, minimum height=9mm] at (\xBR,\yTop) {$B$};
-> 
-> % Lifeline (double)
-> \draw[linebase] (\xBR-\d,\yTop-0.6) -- (\xBR-\d,\yThree-1.2);
-> \draw[linebase] (\xBR+\d,\yTop-0.6) -- (\xBR+\d,\yThree-1.2);
-> 
-> % Dots
-> \node[dot] (BR1) at (\xBR,\yOne) {};
-> \node[dot] (BR2) at (\xBR,\yTwo) {};
-> \node[dot] (BR3) at (\xBR,\yThree) {};
-> 
-> % Messages (RIGHT) with coloring
-> \draw[->, linebase] (\xAR,\yOne) -- (BR1)
->   node[lab] {$\{\textcolor{red}{NA},A\}_{pk(B)}$};
-> 
-> \draw[<-, linebase] (\xAR,\yTwo) -- (BR2)
->   node[lab] {$\{\textcolor{red}{NA},\textcolor{blue}{NB}\}_{pk(A)}$};
-> 
-> \draw[->, linebase] (\xAR,\yThree) -- (BR3)
->   node[lab] {$\{\textcolor{blue}{NB}\}_{pk(B)}$};
-> 
-> % Secret box (RIGHT)
-> \node[draw, align=center, inner sep=6pt] at (\xBR,\yBox)
-> {$secret(NA,\{A,B\})$\\$secret(NB,\{A,B\})$};
-> 
-> \end{tikzpicture}
-> \end{document}
-> ```
-
-#### Authentication
-
-#### Sender Invariance
-
-#### Anonymity
-
-#### Privacy
-
-#### Non-Repudiation
-
-#### Availability
+### Channels, Layering, and Composition
 
 
 

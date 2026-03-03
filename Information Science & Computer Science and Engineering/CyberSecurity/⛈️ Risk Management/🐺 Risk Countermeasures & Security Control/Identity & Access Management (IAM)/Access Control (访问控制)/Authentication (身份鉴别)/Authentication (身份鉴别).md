@@ -7,11 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
-↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
+↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
+↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
-↗ [DBMS Access Control](../../../../../System%20Security/Database%20System%20Security/DBMS%20Access%20Control/DBMS%20Access%20Control.md)
-↗ [SQL & Access Control](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20Data%20Control%20(DCL)/SQL%20&%20Access%20Control/SQL%20&%20Access%20Control.md)
-↗ [File Sharing & Access Control](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Management%20(User%20Level)/File%20Sharing%20&%20Access%20Control/File%20Sharing%20&%20Access%20Control.md)
+↗ [Brocken Authentication](../../../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design%20&%20Failures/Identication%20and%20Authentication%20Failures/Brocken%20Authentication.md)
+
+↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
 
 
 ### Other Resources
@@ -19,8 +20,7 @@
 
 
 ## Intro
-### Authentication Overview
-#### Authentication in General
+### Authentication in General
 > 🔗 https://en.wikipedia.org/wiki/Authentication
 >
 > Conceptions easy to get confused:
@@ -28,7 +28,7 @@
 > authentication, verification, certification,
 
 Authentication is relevant to multiple fields. In 🎨[art](https://en.wikipedia.org/wiki/Art), 🩻[antiques](https://en.wikipedia.org/wiki/Antique), and 🐒[anthropology](https://en.wikipedia.org/wiki/Anthropology), a common problem is verifying that a given artifact was produced by a certain person or in a certain place or period of history. In 🖥️[computer science](https://en.wikipedia.org/wiki/Computer_science), verifying a user's identity is often required to allow access to confidential data or systems.
-#### ⭐ Authentication in CS /Information Systems
+#### Authentication in CS /Information Systems ⭐
 The context here specifically applies to **authentication in Computer Science**, which is also mostly implemented as **access control**.
 
 > 🔗 [Access Control | wikipedia](https://en.wikipedia.org/wiki/Access_control)
@@ -93,10 +93,10 @@ The property that ensures that the identity of a subject or resource is the one 
 ## 🎯 Authentication Factors
 > ⚠ This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
 
-How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**: 
-- something the 1️⃣ user **knows**, 
-- something the 2️⃣ user **has**,
-- something the 3️⃣ user **is**. 
+How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**:
+- something the 1️⃣ user **knows**, (knowledge)
+- something the 2️⃣ user **has**, (possession)
+- something the 3️⃣ user **is**. (inherence)
 
 Each **authentication factor** covers a range of elements used to authenticate or verify a person's identity before being granted access, approving a transaction request, signing a document or other work product, granting authority to others, and establishing a chain of authority.
 

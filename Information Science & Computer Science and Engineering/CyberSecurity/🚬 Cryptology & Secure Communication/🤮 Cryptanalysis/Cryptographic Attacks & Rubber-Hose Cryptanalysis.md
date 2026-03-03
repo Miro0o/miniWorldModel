@@ -23,7 +23,7 @@
 
 ## Cryptographic Attacks
 ### CIA Threats ⭐
-↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
+↗ [Core Cryptographic Properties Threats & Countermeasures](../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 
 ### Replay Attacks

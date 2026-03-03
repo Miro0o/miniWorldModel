@@ -101,16 +101,19 @@ We can express more complicated protocols in such a fashion. See [Kerberos](htt
 Several models exist to reason about security protocols in this way, one of which is [BAN logic](https://en.wikipedia.org/wiki/BAN_logic "BAN logic").
 
 Security protocol notation inspired many of the programming languages used in [choreographic programming](https://en.wikipedia.org/wiki/Choreographic_programming "Choreographic programming").
-#### ⭐ CIA Triangle (Objective of Cryptology /Secure Communication)
+#### Objective of Cryptology /Secure Communication & Cryptographic Properties ⭐ 
 > [!links]
-> Refer back to principles of ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives) for more info.
-> ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
+> ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives) "CIA triangle"
+> 
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Other Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
-
 1. **Confidentiality (机密性)** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
 2. **Data integrity (完整性)** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
 3. **Authentication (真实性)** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
+	1. ↗ [Authentication (身份鉴别)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+	2. ↗ [Message Authentication (报文鉴别，消息鉴别)](🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 4. **Non-repudiation (不可抵赖性)** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
 
 > Other infosec attributes includes:
@@ -118,6 +121,8 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 >  2. Reliability
 >  3. Controllability
 >  4. Accountability
+>  5. forward secrecy
+>  6. malleability
 
 ---
 > 🔗 https://textbook.cs161.org/crypto/intro.html
@@ -357,14 +362,14 @@ Deniable Encryption
 > ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
-### Secure Communication with CIA Properties
+### Secure Communication with Core Cryptographic Properties ⭐
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)
 
 
 ### Threats /Security Mechanisms in Secure Communication
-↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
+↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 
 ↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)

@@ -1,4 +1,4 @@
-# CIA Threats & Countermeasures
+# Core Cryptographic Properties Threats & Countermeasures
 
 [TOC]
 
@@ -6,13 +6,20 @@
 
 ## Res
 ### Related Topics
-↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
-↗ [Cybersecurity Threats & Attacks](Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives) "CIA triangle"
+↗ [Cryptology & Secure Communication](../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+- ↗ [Cryptography](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 
-↗ [Risk Countermeasures & Security Control](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
-↗ [Comprehensive Defense Systems & Security Products](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
+↗ [Data Security](../../../Data%20Security/Data%20Security.md)
 
-[Access Control (访问控制)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md) "AAA mechanism"
+↗ [Risk Countermeasures & Security Control](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+↗ [Comprehensive Defense Systems & Security Products](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
+
+↗ [Access Control (访问控制)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md) "AAA mechanism"
+
+↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+↗ [Security Protocols Formal Modeling & Verification](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+- ↗ [Cryptographic Protocols Modeling & Verification](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 ### Other Resources
@@ -46,7 +53,7 @@ When analyzing the confidentiality of an encryption scheme, there are several po
 Today, we usually insist that our encryption algorithms provide security against **chosen-plaintext/ciphertext attacks**, both because those attacks are practical in some settings, and because it is in fact feasible to provide good security even against this very powerful attack model.
 
 However, for simplicity, this class will focus primarily on security against chosen-plaintext attacks.
-#### IND-CPA Security & Chosen-Plaintext Attack
+#### IND-CPA Security (Baseline Confidentiality) & Chosen-Plaintext Attack
 > 🔗 https://textbook.cs161.org/crypto/symmetric.html#61-ind-cpa-security
 
 A better definition of confidentiality: The cipher-text should not give the attacker any additional information about the plaintext, beyond what the attacker already knew.
@@ -56,25 +63,40 @@ We make this precise with an experiment/security game, the IND-CPA game:
 2. Alice flips a fair coin. If the coin is heads, she encrypts $M_0$. If the coin is tails, she encrypts $M_1$. Formally, Alice chooses a bit $b \in \{0,1\}$ uniformly at random, and then encrypts $Mb$. Alice sends the encrypted message $Enc(K,M_b)$ back to Eve.
 3. Eve is now allowed to ask Alice for encryptions of messages of Eve’s choosing. Eve can send a plaintext message to Alice, and Alice will always send back the encryption of the message with the secret key. Eve is allowed to repeat this as many times as she wants. Intuitively, this step is allowing Eve to perform a chosen-plaintext attack in an attempt to learn something about which message was sent.
 4. After Eve is finished asking for encryptions, she must guess whether the encrypted message from step 2 is the encryption of $M_0$ or $M_1$.
-![](../../../../Assets/Pics/Screenshot%202024-09-17%20at%2011.01.43.png)
+![](../../../../../Assets/Pics/Screenshot%202024-09-17%20at%2011.01.43.png)
+#### IND-CCA Security & Chosen-Ciphertext Attack
+> [!ABSTRACT]
+> IND-CCA >  Non-malleability > IND-CPA
+> IND-CCA is strictly stronger than IND-CPA.
+> 
+> You can think of cryptographic properties in layers:
+> - Layer 1 — Confidentiality  
+> - Layer 2 — Integrity  
+> - Layer 3 — Authenticity  
+> - Layer 4 — Non-malleability  
+> - Layer 5 — Forward secrecy  
+> - Layer 6 — Robustness against active attackers (IND-CCA)
+> 
+> Modern secure encryption (AEAD like AES-GCM) achieves:
+> - Confidentiality  
+> - Integrity
+> - Non-malleability
+> 
+> In one primitive.
+
+#### AEAD (Authenticated Encryption)
 
 
 
-## 2️⃣ Data Integrity (and Authenticity)
-↗ [Authentication (身份鉴别)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Identification (身份证明)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)
-↗ [Data Security](../../Data%20Security/Data%20Security.md)
-
+## 2️⃣ Data Integrity
 > 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
 
-### ⚔️ Data Integrity (Authenticity) Threat Model
+### ⚔️ Data Integrity Threat Model
 #### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
-![](../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
-
-#### Impersonation Attacks
-#### MITM (Man-In-The-Middle) Attacks
-
+![](../../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
+#### INT-CTXT (Integrity of ciphertexts)
+#### EUF-CMA (for signatures)
 
 
 ### 🛡️ Data Integrity Primitives (完整性保护基本手段)
@@ -145,7 +167,7 @@ We make this precise with an experiment/security game, the IND-CPA game:
 - 完整性验证算法的性能
 	- 数据完整性验证包括发送方计算验证码，进行加密，接收方重新计算验证码，进行解密，比较等。
 #### 👉 基于数据校验思想的数据完整性验证机制
-![](../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.50.20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.50.20PM.png)
 能检测出数据发生错误的机制并不一定能对数据完整性检测有效
 - 例如，如果攻击者修改原数据的同时也根据国际标准的CRC多项式重新计算CRC，并且替换原来的CRC，这时候虽然发送的数据和接收的数据已经不一致了，但由于原消息和CRC是匹配的，因此用CRC不能检测出来
 解决方法：对要发送的数据进行加密
@@ -201,15 +223,26 @@ We make this precise with an experiment/security game, the IND-CPA game:
 - 这个机制防止了攻击者替换和篡改信息的攻击，解决了密钥的发布问题，A随机选定一次性对称密钥K1，用完即放弃，防止了重放攻击。
 - 缺点：是需要计算错误检测码，可以简化验证的步骤，不用计算错误检测码，一个最直接的方法是直接用加密方法实现数据完整性验证
 #### 👉 基于错误检测码与对称密钥加密的完整性验证机制
-![](../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.52.52PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.52.52PM.png)
 
 - 这个机制防止了攻击者同时把原信息和错误检测码替换并且保持它们之间的正确匹配关系的攻击，因为密钥只有双方知道，攻击者同时替换后没办法用双方的密钥K再重新加密。
 - 这个机制的前提是需要双方共享对称密钥K，存在密钥的发布问题和缺点。如果改为非对称加密体制的话速度又太慢，因此要将二者结合。
 
 
 
-## 3️⃣ Data Availability
-### ⚔️ Data Availability Threat Model
+## 3️⃣ Data Authentication
+> [!links]
+> ↗ [Identity & Access Management (IAM)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
+> -  ↗ [Access Control (访问控制)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+> 	- ↗ [Authentication (身份鉴别)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+> - ↗ [Identification (身份证明)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)
+
+
+### ⚔️ Data Authenticity Treat Model
+#### EUF-CMA (Existential Unforgeability under Chosen Message Attack)
+
+
+### 🛡️ Data Authenticity Primitives
 
 
 

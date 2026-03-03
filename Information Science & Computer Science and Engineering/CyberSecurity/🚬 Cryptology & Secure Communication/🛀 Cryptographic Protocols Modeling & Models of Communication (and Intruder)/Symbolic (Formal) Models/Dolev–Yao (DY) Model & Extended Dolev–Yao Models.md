@@ -268,8 +268,13 @@ Q. Can we thus prove also statements of the form $M ⊬ m$, that a m cannot be d
 A. Yes, due to completeness when our algorithm answers “no”, we know there is no derivation for $m$.
 
 
+### Analysis of Dolev-Yao Intruder Model
+> 🤖 https://chatgpt.com/share/69a6af9d-125c-8010-bb42-788c68a525ca
+
+
 
 ## Extending Dolev–Yao Model
+### Bounded Dolev-Yao
 
 
 

@@ -44,10 +44,12 @@ A USI's guide on how to use LaTeX
 This is an unofficial reference manual for LaTeX. See below for the [Table of Contents](https://latexref.xyz/#SEC_Overview). If you want a tutorial then please instead visit [`learnlatex.org`](https://www.learnlatex.org/) or [this list](https://ctan.org/topic/tut-latex).
 
 
-### Other Links
+### Related Topics
 ↗ [Tex & LaTex Related Tools](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Related%20Tools/Tex%20&%20LaTex%20Related%20Tools.md)
 ↗ [MathJax](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JS%20Gadgets/MathJax.md)
 
+
+### Other Resources
 https://www.overleaf.com/project
 online LaTex editor
 
@@ -174,6 +176,12 @@ CTEX.org 是一个关于 TeX 的中文网站，CTEX 是中文 TeX (Chinese TeX)�
 - [中文TeX用户论坛](https://github.com/CTeX-org/forum) 代替CTEX论坛
 
 同时也欢迎广大 TeX 网站、组织、用户和我们合作！
+
+
+
+## LaTex & Vim
+https://www.dmsussman.org/resources/vimandlatex/
+https://castel.dev/post/lecture-notes-1/#vim-and-latex
 
 
 

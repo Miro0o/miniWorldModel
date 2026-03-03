@@ -163,16 +163,65 @@ We need **different models for different questions**.
 
 ## Types of Models of Communication & Cryptographic Protocols
 > 🤖 GPT-5.2
-> https://chatgpt.com/share/698a3655-f540-800f-939f-c8ce2c90027f
+> https://chatgpt.com/share/69a6af9d-125c-8010-bb42-788c68a525ca
 
-| Model Type     | Example         | Cryptography Assumption | Attacker                     |
-| -------------- | --------------- | ----------------------- | ---------------------------- |
-| Symbolic       | Dolev–Yao       | Perfect                 | All-powerful (except crypto) |
-| Symbolic       | Strand Spaces   | Perfect                 | Network attacker             |
-| Computational  | Bellare–Rogaway | Real crypto             | PPT                          |
-| Computational  | UC              | Real crypto             | PPT, concurrent              |
-| Hybrid         | Comp. Sound DY  | Real crypto             | PPT                          |
-| Info-theoretic | Shannon         | Perfect secrecy         | Unbounded                    |
+| Model Family         | Example / Framework              | Crypto Assumption       | Attacker Network Power       | Computation Power     | Corruption Model       | Concurrency              | Physical / Leakage | Typical Use                  |
+| -------------------- | -------------------------------- | ----------------------- | ---------------------------- | --------------------- | ---------------------- | ------------------------ | ------------------ | ---------------------------- |
+| **Symbolic**         | **Dolev–Yao model**              | Perfect (black-box)     | Full control                 | Term algebra          | Usually none           | Multi-session (abstract) | None               | Protocol logic flaws         |
+| Symbolic             | Strand Spaces                    | Perfect                 | Message interception         | Symbolic              | None                   | Yes                      | None               | Authentication proofs        |
+| Symbolic (Algebraic) | DY + XOR / DH                    | Idealized but algebraic | Full control                 | Symbolic w/ equations | None                   | Yes                      | None               | Diffie–Hellman modeling      |
+| **Computational**    | Bellare–Rogaway (IND-CPA/CCA)    | Real crypto             | Oracle access                | PPT                   | Static/adaptive        | Usually single-session   | None               | Encryption security          |
+| Computational        | **Universal Composability** (UC) | Real crypto             | Fully adversarial scheduling | PPT                   | Static / adaptive      | Fully concurrent         | None               | Composable protocols         |
+| Hybrid               | Computationally Sound DY         | Real crypto             | Full network                 | PPT                   | Limited                | Multi-session            | None               | Bridging symbolic & real     |
+| Info-theoretic       | Shannon secrecy                  | Perfect secrecy         | Full                         | Unbounded             | None                   | Usually single           | None               | One-time pad theory          |
+| Distributed Systems  | Byzantine model                  | Crypto optional         | Message scheduling           | Unbounded / bounded   | Arbitrary faulty nodes | Yes                      | None               | Consensus                    |
+| MPC                  | Semi-honest                      | Real crypto             | Honest protocol execution    | PPT                   | Passive corruption     | Yes                      | None               | Privacy computation          |
+| MPC                  | Malicious adversary              | Real crypto             | Arbitrary deviation          | PPT                   | Active corruption      | Yes                      | None               | Secure computation           |
+| Leakage Model        | Side-channel model               | Real crypto + leakage   | Physical access              | Varies                | N/A                    | N/A                      | Timing/power/cache | Hardware security            |
+| Fault Model          | Fault injection                  | Real crypto             | Physical tampering           | Varies                | N/A                    | N/A                      | Faults allowed     | Embedded security            |
+| Post-Quantum         | Quantum adversary                | Quantum-resistant       | Oracle access                | Quantum               | Static/adaptive        | Yes                      | None               | PQC security                 |
+| Rational             | Game-theoretic adversary         | Crypto optional         | Strategic deviation          | Utility-maximizing    | Strategic              | Yes                      | None               | Blockchain, mechanism design |
+
+This unified version includes:
+- Crypto abstraction level
+	- Perfect symbolic
+	- Real computational
+	- Ideal functionality (UC)
+	- Information-theoretic
+- Network power
+	- Passive
+	- Full Dolev–Yao
+	- Oracle-based
+- Computation bounds
+	- Symbolic term algebra
+	- PPT
+	- Unbounded
+	- Quantum
+- Corruption type
+	- None
+	- Passive (semi-honest)
+	- Malicious
+	- Adaptive
+	- Byzantine
+- Concurrency model
+	- Single-session
+	- Multi-session
+	- Fully concurrent composability
+- Physical realism
+	- No leakage
+	- Side-channel
+	- Fault injection
+
+How to Read This Big Picture
+Think of adversary models as spanning **three orthogonal axes**:
+- Axis A — Cryptographic Realism
+	- Symbolic → Computational → Info-theoretic
+- Axis B — System Interaction Power
+	- Passive → Active → Fully adaptive + concurrent
+- Axis C — Physical Capabilities
+	- Network-only → Side-channel → Fault → Quantum
+
+Different research communities emphasize different axes.
 
 
 

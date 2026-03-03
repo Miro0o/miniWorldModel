@@ -104,20 +104,20 @@ X.800 divides these services into 5 categories and 14 specific services:
 			1. In a connectionless transfer, provides assurance that the source of received data is as claimed.
 2. **Access control (Availability)** (prevent misuse of resources) (↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 	1. Prevention of the unauthorized use of a resource. (该服务提供保护以对抗开放系统互连可访问资源的非授权使用。)
-3. **Data Confidentiality (Privacy)** ( ↗ [CIA Threats & Countermeasures /1️⃣ Data Confidentiality](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#1️⃣%20Data%20Confidentiality))
+3. **Data Confidentiality (Privacy)** ( ↗ [CIA Threats & Countermeasures /1️⃣ Data Confidentiality](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md#1️⃣%20Data%20Confidentiality))
 	1.  Privacy - Ensuring that no one can read the message except the intended receiver. (该服务对数据提供保护使之不被非授权地泄漏。)
 		1. Connection Confidentiality (连接机密性)
 		2. Connectionless Confidentiality (无连接机密)
 		3. Selective-Field Confidentiality (选择字段机密性)
 		4. Traffic Flow Confidentiality (业务机密性)
-4. **Data Integrity** (has not been altered) (↗ [CIA Threats & Countermeasures /2️⃣ Data Integirty (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)))
+4. **Data Integrity** (has not been altered) (↗ [CIA Threats & Countermeasures /2️⃣ Data Integirty (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)))
 	1. Assuring the receiver that the received message has not been altered in any way from the original. (该服务可以针对有连接或无连接的条件下，对数据进行完整性检验。在连接状态下，当数据遭到任何篡改、插入、删除时还可进行补救或恢复。)
 		1. Connection Integrity with Recovery (可恢复的连接完整性)
 		2. Connection Integrity without Recovery (不可恢复的连接完整性)
 		3. Selective-Field Connection Integrity (选择字段的连接完整性)
 		4. Connectionless Integrity (无连接完整性)
 		5. Selective-Field Connectionless Integrity (选择字段的无连接完整性)
-5. **Non-repudiation** (the order is final) (↗ [CIA Threats & Countermeasures /4️⃣ Non-Repudiation](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#4️⃣%20Non-Repudiation))
+5. **Non-repudiation** (the order is final) (↗ [CIA Threats & Countermeasures /4️⃣ Non-Repudiation](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md#4️⃣%20Non-Repudiation))
 	1. protection against denial by one of the parties in a communication. A mechanism to prove that the sender really sent this message. (对发送者来说，数据发送将被证据保留，并将这一证据提供给接收者，以此证明发送者的发送**行为**。同样，接收者接收数据后将产生交付证据并送回原发送者，接收者不能否认收到过这些**数据**。)
 		1. Non-repudiation, Origin (数据源证明的抗抵赖)
 		2. Non-repudiation, Destination (交付证明的抗抵赖)
@@ -164,7 +164,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.
-	4. **Data Integrity** (↗ [CIA Threats & Countermeasures /2️⃣ Data Integrity (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)) )
+	4. **Data Integrity** (↗ [CIA Threats & Countermeasures /2️⃣ Data Integrity (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
 		2. 数据据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 			1. 通过密码学提供完整性

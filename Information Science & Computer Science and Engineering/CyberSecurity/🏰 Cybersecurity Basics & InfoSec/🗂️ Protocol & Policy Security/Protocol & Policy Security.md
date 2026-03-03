@@ -13,8 +13,11 @@
 ↗ [Security Protocols Formal Modeling & Verification](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
 - ↗ [Cryptographic Protocols Modeling & Verification](../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
+↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+- ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+
 ↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
-↗ [Network Security Protocol Stacks](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
+- ↗ [Network Security Protocol Stacks](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
 
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 ↗ [Security Laws & Regulations & Standards](👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md)

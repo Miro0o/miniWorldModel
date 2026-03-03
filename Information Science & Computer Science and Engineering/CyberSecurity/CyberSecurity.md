@@ -456,9 +456,12 @@ http://www.china-cia.org.cn
 
 
 ### What is Cybersecurity?
-> **网络空间安全**：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。
+> [!ABSTRACT]
+> **网络空间安全 (cybersecurity)**：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。
 > 
-> **信息安全**：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> **信息安全 (information security)**：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> 
+> ↗ [Cryptology & Secure Communication](🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 > 🔗 [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
 
@@ -505,6 +508,7 @@ Security issues sources:
 
 ↗ [Risk Management](⛈️%20Risk%20Management/Risk%20Management.md)
 - ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+	- ↗ [Core Cryptographic Properties Threats & Countermeasures](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 - ↗ [Risk Countermeasures & Security Control](⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 
 

@@ -8,7 +8,7 @@
 ### Related Topics
 🤔 [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
 ↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
-↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
+↗ [Core Cryptographic Properties Threats & Countermeasures](Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Cryptanalysis](../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptanalysis.md)
@@ -69,7 +69,7 @@
 
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
-↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
+↗ [Core Cryptographic Properties Threats & Countermeasures](Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
 - ↗ [Hardware Threats & Attacks](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Hardware%20Threats%20&%20Attacks.md)
