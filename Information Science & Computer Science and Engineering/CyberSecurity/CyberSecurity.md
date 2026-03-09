@@ -78,7 +78,7 @@ Hackers Arise was developed solely to help those who are interested in a career 
 ---
 👻 https://ctf-wiki.org | CTF Wiki.
 
-More at ↗ [CTF & AWD](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
+More at ↗ [CTF & AWD](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/CTF%20&%20AWD.md)
 
 ---
 🖥️ [《计算机网络安全教程》读书笔记](https://bye-lemon.github.io/post/f2f7/)
@@ -335,8 +335,8 @@ https://book.hacktricks.wiki/en/index.html
 
 
 ### Events & Community
-↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)
-- [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
+↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)
+- [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Road%20To%20CTF.md)
 
 ↗ [Sec (Security) Related Conferences & Journals](../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
 
@@ -442,7 +442,7 @@ http://www.china-cia.org.cn
 
 
 ### What is Information (System) Security?
-↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 #### System Reliability (Availability)
@@ -459,11 +459,11 @@ http://www.china-cia.org.cn
 > [!ABSTRACT]
 > **网络空间安全 (cybersecurity)**：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。
 > 
-> **信息安全 (information security)**：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> **信息安全 (information security)**：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 > 
 > ↗ [Cryptology & Secure Communication](🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
-> 🔗 [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
+> 🔗 [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Architectures.md)
 
 ![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 
@@ -498,13 +498,13 @@ Security issues sources:
 
 
 ## Cybersecurity Basics ⭐
-↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
+↗ [Cybersecurity Basics & Information Security (InfoSec)](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
 ↗ [History of Information Systems & Security Systems](History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
 ↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 
-↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
-↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
+↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Information%20Assurance%20(IA).md)
+↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Architectures.md)
 
 ↗ [Risk Management](⛈️%20Risk%20Management/Risk%20Management.md)
 - ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)

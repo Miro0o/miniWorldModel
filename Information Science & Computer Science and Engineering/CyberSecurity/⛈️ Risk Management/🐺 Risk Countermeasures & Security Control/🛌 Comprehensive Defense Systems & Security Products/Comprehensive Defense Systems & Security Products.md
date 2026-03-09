@@ -9,7 +9,7 @@
 ↗ [Software Vulnerability Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Software%20Vulnerability%20Scanners/Software%20Vulnerability%20Scanners.md)
 ↗ [Malware Discovery Tools & Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malware%20Discovery%20Tools%20&%20Scanners.md)
 
-↗ [Security Programming & Security Product Development](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
+↗ [Security Programming & Security Product Development](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Security%20Programming%20&%20Security%20Product%20Development/Security%20Programming%20&%20Security%20Product%20Development.md)
 
 
 ### Other Resources

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Red Team & Blue Team](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/AWD/Red%20Team%20&%20Blue%20Team.md)
+↗ [Red Team & Blue Team](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/AWD/Red%20Team%20&%20Blue%20Team.md)
 ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
 

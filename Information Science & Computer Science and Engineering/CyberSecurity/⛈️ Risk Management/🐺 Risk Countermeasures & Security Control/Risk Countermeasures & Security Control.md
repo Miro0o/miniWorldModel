@@ -6,15 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
+↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Data%20Flow%20Analysis/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
 ↗ [Cryptology & Secure Communication](../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
-↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
-- ↗ [Security Laws & Regulations & Standards](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🗂️%20Protocol%20&%20Policy%20Security/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md)
-- ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-	- ↗ [Software Supply Chains Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
-- ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
-- ↗ [Information Assurance (IA)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
+↗ [Cybersecurity Basics & Information Security (InfoSec)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
+- ↗ [Security Laws & Regulations & Standards](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🗂️%20Protocol%20&%20Policy%20Security/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Security%20Laws%20&%20Regulations%20&%20Standards.md)
+- ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
+	- ↗ [Software Supply Chains Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
+- ↗ [Hardware Security](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🪖%20Hardware%20Security/Hardware%20Security.md)
+- ↗ [Information Assurance (IA)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Information%20Assurance%20(IA).md)
 
 ↗ [AI4Security](../../🫧%20AI4Security/AI4Security.md)
 

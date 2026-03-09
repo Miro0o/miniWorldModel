@@ -298,7 +298,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 
 ### LLM Modeling ⭐
-↗ [LLM Foundation Models List & Evaluation & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
@@ -317,8 +317,8 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 ### LLM Training, Utilization, and Evaluation
 ↗ [LLM Training, Utilization, and Evaluation](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
-- ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/Pre-Training/Pre-Training.md) (In-Weight Learning)
-- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+- ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md) (In-Weight Learning)
+- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 - ↗ [LLM Utilization & Prompt Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md) (In-Context Learning)
 	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/CoT%20(Chain-of-Thought).md)
 	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
@@ -326,7 +326,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 - ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
-↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
+↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model
 
@@ -353,7 +353,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 ## 📜 The Technical Evolution of LLM & Future Directions
-> ↗ [LLM Foundation Models List & Evaluation & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+> ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-15%20at%2010.55.30.png)
 <small>Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. <br> <a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
@@ -428,17 +428,17 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 ### Technical Evolution of Specific LLM Model Series
 #### GPT-series Model
-↗ [OpenAI GPT & Codex](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT%20&%20Codex.md)
+↗ [OpenAI GPT](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
 
 > Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
 #### Gemini-series Model
-↗ [Google Gemini](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
+↗ [Google Gemini](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
 #### LLaMA-series Model
-↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
+↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
 #### Qwen-series (通义千问) Model
-↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen.md)
+↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen.md)
 #### DeepSeek-series Model
-↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
 
 
 

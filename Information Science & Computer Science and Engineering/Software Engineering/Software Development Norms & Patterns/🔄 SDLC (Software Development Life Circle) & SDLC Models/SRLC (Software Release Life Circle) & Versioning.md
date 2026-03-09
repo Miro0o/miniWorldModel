@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [SDLC (Software Development Life Circle) & SDLC Models](SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
-↗ [SDL (Secure Development Lifecycle)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20(Secure%20Development%20Lifecycle).md)
+↗ [SDL (Secure Development Lifecycle)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/SDL%20(Secure%20Development%20Lifecycle).md)
 
 ↗ [Software Testing](../../🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
 

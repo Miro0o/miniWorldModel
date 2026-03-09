@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Social Engineering & Physical Security](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
-↗ [Hardware Security](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🪖%20Hardware%20Security/Hardware%20Security.md)
+↗ [Hardware Security](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🪖%20Hardware%20Security/Hardware%20Security.md)
 
 
 ### Other Resources
@@ -44,7 +44,7 @@
     - 五级（专控保护）（访问验证保护级）
 - 方面：从自主访问控制、强制访问控制、标记、身份鉴别、客体重用、审计、数据完整性、隐蔽信道分析、可信路径、可信恢复十个方面，采取逐级增强的方式提出了计算机信息系统的安全保护技术要求。
 
-↗ [Trusted Computing (TC)](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md)
+↗ [Trusted Computing (TC)](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Other%20Security%20Aspects%20(Other%20Countermeasures)/Trusted%20Computing%20(TC)/Trusted%20Computing%20(TC).md)
 
 
 ![](../../../Assets/Pics/Pasted%20image%2020231008161502.png)

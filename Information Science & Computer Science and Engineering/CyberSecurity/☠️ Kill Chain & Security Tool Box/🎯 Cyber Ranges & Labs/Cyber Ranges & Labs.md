@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
+↗ [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/CTF%20&%20AWD.md)
 
 
 

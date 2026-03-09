@@ -225,7 +225,7 @@ etc.
 
 ## 🎯 Computer System: Software Perspective
 ↗ [System Security](../../CyberSecurity/System%20Security/System%20Security.md)
-↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
+↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
 
 The **collection of software at system software level** runs below application programs and just above the instruction set architecture level. These are the software components, the “machines,” with which your application source code interacts. 
 

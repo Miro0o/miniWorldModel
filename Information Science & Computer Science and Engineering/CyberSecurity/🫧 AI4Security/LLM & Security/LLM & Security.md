@@ -9,6 +9,8 @@
 ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 - ↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
 
+↗ [AI4Code & Coding Agents](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code%20&%20Coding%20Agents/AI4Code%20&%20Coding%20Agents.md)
+
 ↗ [LLM & Software Security and Analysis](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 ↗ [LLM & Fuzzing](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 ↗ [LLM & Supply Chain Security](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
@@ -40,6 +42,7 @@ Zhang, J., Bu, H., Wen, H., Liu, Y., Fei, H., Xi, R., Li, L., Yang, Y., Zhu, H.,
 
 
 ### 👨‍🍳 Agentic LLM / Automated Security
+#### Mature Projects
 https://github.com/0x4m4/hexstrike-ai
 HexStrike AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
 - How It Works
@@ -60,7 +63,7 @@ Making frontier cybersecurity capabilities available to defenders
 
 https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot
 microsoft copilot
-
+#### Papers
 https://github.com/ucsb-mlsec/VulnLLM-R/tree/main
 VulnLLM-R: Specialized Reasoning LLM for Vulnerability Detection
 - **Paper:** [arXiv:2512.07533](https://arxiv.org/abs/2512.07533)
@@ -69,6 +72,10 @@ VulnLLM-R: Specialized Reasoning LLM for Vulnerability Detection
 	- https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B
 	- https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B/tree/main
 - **Model:** [7B Model](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B)
+
+https://arxiv.org/abs/2603.01896
+Agentic Code Reasoning 
+Shubham Ugare, Satish Chandra  Meta, USA
 
 
 ### Teams & Groups
@@ -79,6 +86,13 @@ https://red.anthropic.com/
 https://aicyberchallenge.com/
 - DARPA'S Artificial Intelligence Cyber Challenge (AIxCC), in collaboration with ARPA-H, brings together the foremost experts in AI and cybersecurity to safeguard the software critical to all Americans.
 - AIXCC is excited to have Anthropic, Google, Microsoft, OpenAI, the Linux Foundation, the Open Source Security Foundation, Black Hat USA, and DEF CON as collaborators in this effort.*
+- [Open Source Archive](https://archive.aicyberchallenge.com/)
+	- atlantis
+		- https://team-atlanta.github.io/
+		- https://team-atlanta.github.io/blog/post-afc/
+		- https://github.com/Team-Atlanta/aixcc-afc-atlantis
+		- https://0xdkay.me/posts/team-atlanta-wins-darpa-aixcc/
+		- 
 
 🏠 https://github.com/ddzipp/AutoAudit
 - [AutoAudit-7B](https://github.com/ddzipp/AutoAudit/blob/main)，此版本为demo版，基于[Alpaca-Lora](https://github.com/tloen/alpaca-lora)训练而来，在网络安全的英文领域回答效果尚佳，但暂时不具备上下文关联的功能，需要用更大参数的模型来解决。

@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [CVE (Common Vulnerabilities and Exposures)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/CVE%20(Common%20Vulnerabilities%20and%20Exposures).md)
+↗ [CVE (Common Vulnerabilities and Exposures)](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/CVE%20(Common%20Vulnerabilities%20and%20Exposures).md)
 ↗ [CWE (Common Weakness Enumeration)](../../🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md)
 
 ↗ [MITER Corporation](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/MITER%20Corporation.md)
@@ -20,7 +20,7 @@
 ## Intro
 > 🔗 https://capec.mitre.org/about/new_to_capec.html
 
-First, we should describe what an attack pattern is. A good summary can be found [here](https://capec.mitre.org/about/index.html). CAPEC entries are related to ↗ [CWE (Common Weakness Enumeration)](../../🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md) and ↗ [CVE (Common Vulnerabilities and Exposures)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/CVE%20(Common%20Vulnerabilities%20and%20Exposures).md). 
+First, we should describe what an attack pattern is. A good summary can be found [here](https://capec.mitre.org/about/index.html). CAPEC entries are related to ↗ [CWE (Common Weakness Enumeration)](../../🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md) and ↗ [CVE (Common Vulnerabilities and Exposures)](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/CVE%20(Common%20Vulnerabilities%20and%20Exposures).md). 
 
 The differences between ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md) another related corpus, and CAPEC are discussed [here](https://capec.mitre.org/about/attack_comparison.html).
 

@@ -65,6 +65,14 @@ In this section we extend planning to handle partially observable, nondeterminis
 We will cover sensorless planning (also known as conformant planning) for environments with no observations; contingency planning for partially observable and nondeterministic environments; and online planning and replanning for unknown environments. This will allow us to tackle sizable real-world problems.
 
 
+### Complexity of Planning Problems
+> [!links]
+> ↗ [Complexity Theory & Computational Complexity](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+#### Width of Planning Problems
+> Width and Serialization of Classical Planning Problems
+> Nir Lipovetzky1 and Hector Geffner2
+
+
 
 ## 📊 Analysis of Planning Approaches
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
@@ -138,7 +146,7 @@ Fast Forward is a family of planners, built predominantly on the FF System. FF�
 
 #### Backward Search (Regression Search) for Planning
 
-#### Planning as Boolean satisfiability
+#### Planning as Boolean Satisfiability
 
 #### Partial Order Planning (POP)
 > 🔗 https://en.wikipedia.org/wiki/Partial-order_planning#
@@ -146,6 +154,8 @@ Fast Forward is a family of planners, built predominantly on the FF System. FF�
 **Partial-order planning** is an approach to [automated planning](https://en.wikipedia.org/wiki/Automated_planning "Automated planning") that maintains a partial ordering between actions and only commits ordering between actions when forced to, that is, ordering of actions is partial. Also this planning doesn't specify which action will come out first when two actions are processed. By contrast, _total-order planning_ maintains a total ordering between all actions at every stage of planning. Given a problem in which some sequence of actions is needed to achieve a goal, a _partial-order plan_ specifies all actions that must be taken, but specifies an ordering between actions only where needed.
 
 Consider the following situation: a person must travel from the start to the end of an obstacle course. The course is composed of a bridge, a see-saw, and a swing-set. The bridge must be traversed before the see-saw and swing-set are reachable. Once reachable, the see-saw and swing-set can be traversed in any order, after which the end is reachable. In a partial-order plan, ordering between these obstacles is specified only when needed. The bridge must be traversed first. Second, either the see-saw or swing-set can be traversed. Third, the remaining obstacle can be traversed. Then the end can be traversed. Partial-order planning relies upon the _principle of least commitment_ for its efficiency.
+#### Iterative Width (IW)
+
 #### Other classical planning approaches
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

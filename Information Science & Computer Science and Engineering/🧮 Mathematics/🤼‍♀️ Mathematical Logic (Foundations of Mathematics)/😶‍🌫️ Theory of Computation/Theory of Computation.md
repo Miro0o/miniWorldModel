@@ -153,7 +153,116 @@ Automata theory is an excellent place to begin the study of the theory of comput
 
 
 ## Models of Computation
+↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
+
+
+## Algorithms & Computational Problems
+### Algorithms
+> [!links]
+> ↗ [Algorithm & Data Structure](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+
+### Computational Problems ⭐
+> [!Links]
+> ↗ [Complexity Theory & Computational Complexity](Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> ↗ [Computationally Hard Problems](Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem
+
+In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **problem** is one that asks for a solution in terms of an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm"). For example, the problem of **factoring**
+
+> "Given a positive integer _n_, find a nontrivial prime factor of _n_."
+
+is a computational problem that has a solution, as there are many known [integer factorization](https://en.wikipedia.org/wiki/Integer_factorization "Integer factorization") algorithms. A computational problem can be viewed as a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\) "Set (mathematics)") of _instances_ or _cases_ together with a, possibly empty, set of _solutions_ for every instance/case. The question then is, whether there exists an algorithm that maps instances to solutions. For example, in the [factoring problem](https://en.wikipedia.org/wiki/Factoring_problem "Factoring problem"), the instances are the integers _n_, and solutions are prime numbers _p_ that are the nontrivial prime factors of _n_. An example of a computational problem without a solution is the [Halting problem](https://en.wikipedia.org/wiki/Halting_problem "Halting problem"). Computational problems are one of the main objects of study in theoretical computer science.
+
+One is often interested not only in mere existence of an algorithm, but also how efficient the algorithm can be. The field of [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") addresses such questions by determining the amount of resources ([computational complexity](https://en.wikipedia.org/wiki/Computational_complexity "Computational complexity")) solving a given problem will require, and explain why some problems are [intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability "Computational complexity theory") or [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem "Undecidable problem"). Solvable computational problems belong to [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Complexity class") that define broadly the resources (e.g. time, space/memory, energy, circuit depth) it takes to compute (solve) them with various [abstract machines](https://en.wikipedia.org/wiki/Abstract_machine "Abstract machine"). For example, the complexity classes
+- **[P](https://en.wikipedia.org/wiki/P_\(complexity\) "P (complexity)")**, problems that consume polynomial time for deterministic classical machines
+- **[BPP](https://en.wikipedia.org/wiki/BPP_\(complexity\) "BPP (complexity)")**, problems that consume polynomial time for probabilistic classical machines (e.g. computers with random number generators)
+- **[BQP](https://en.wikipedia.org/wiki/BQP "BQP")**, problems that consume polynomial time for probabilistic quantum machines.
+
+Both instances and solutions are represented by binary [strings](https://en.wikipedia.org/wiki/String_\(computer_science\) "String (computer science)"), namely elements of {0, 1}\*. For example, [natural numbers](https://en.wikipedia.org/wiki/Natural_numbers "Natural numbers") are usually represented as binary strings using [binary encoding](https://en.wikipedia.org/wiki/Binary_number "Binary number"). This is important since the complexity is expressed as a function of the length of the input representation.
+#### Decision Problems
+> [!links]
+> ↗ [Boolean Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> 
+> ↗ [Automata Theory and (Formal) Language Theory](🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Complexity Theory & Computational Complexity](Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> - ↗ [Decidability](Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
+> 
+> ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
+> ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+> 
+> ↗ [Constraint Satisfaction Problems (CSPs)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem#Decision_problem
+
+A [decision problem](https://en.wikipedia.org/wiki/Decision_problem "Decision problem") is a computational problem where the answer for every instance is either yes or no. An example of a decision problem is _[primality testing](https://en.wikipedia.org/wiki/Primality_testing "Primality testing")_:
+
+"Given a positive integer _n_, determine if _n_ is prime."
+
+A decision problem is typically represented as the set of all instances for which the answer is _yes_. For example, primality testing can be represented as the infinite set $$L = \{2, 3, 5, 7, 11, ...\}$$
+> 🔗 https://en.wikipedia.org/wiki/Decision_problem
+
+In [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory") and [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), a **decision problem** is a [computational problem](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") that can be posed as a [yes–no question](https://en.wikipedia.org/wiki/Yes%E2%80%93no_question "Yes–no question") on a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\) "Set (mathematics)") of input values. An example of a decision problem is deciding whether a given natural number is [prime](https://en.wikipedia.org/wiki/Prime_number "Prime number"). Another example is the problem, "given two numbers _x_ and _y_, does _x_ evenly divide _y_?"
+
+A **decision procedure** for a decision problem is an [algorithmic](https://en.wikipedia.org/wiki/Algorithm "Algorithm") method that answers the yes-no question on all inputs, and a decision problem is called **[decidable](https://en.wikipedia.org/wiki/Decidability_\(logic\) "Decidability (logic)")** if there is a decision procedure for it. For example, the decision problem "given two numbers _x_ and _y_, does _x_ evenly divide _y_?" is decidable since there is a decision procedure called [long division](https://en.wikipedia.org/wiki/Long_division "Long division") that gives the steps for determining whether _x_ evenly divides _y_ and the correct answer, _YES_ or _NO_, accordingly. Some of the most important problems in mathematics are **[undecidable](https://en.wikipedia.org/wiki/Undecidable_problem "Undecidable problem")**, e.g. the [halting problem](https://en.wikipedia.org/wiki/Halting_problem "Halting problem").
+
+The field of computational complexity theory categorizes _decidable_ decision problems by how difficult they are to solve. "Difficult", in this sense, is described in terms of the [computational resources](https://en.wikipedia.org/wiki/Computational_resource "Computational resource") needed by the most efficient algorithm for a certain problem. On the other hand, the field of [recursion theory](https://en.wikipedia.org/wiki/Recursion_theory "Recursion theory") categorizes _undecidable_ decision problems by [Turing degree](https://en.wikipedia.org/wiki/Turing_degree "Turing degree"), which is a measure of the noncomputability inherent in any solution.
+##### Formal Definition 
+> ↗ https://en.wikipedia.org/wiki/Decision_problem#Definition
+
+A _decision problem_ is the [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") of all inputs for which the output (the answer to the yes-no question on a given input) is _YES_.
+- These inputs can be natural numbers, but can also be values of some other kind, like binary [strings](https://en.wikipedia.org/wiki/String_\(computer_science\) "String (computer science)") or strings over some other [alphabet](https://en.wikipedia.org/wiki/Alphabet_\(computer_science\) "Alphabet (computer science)").
+- For example, if every input can be encoded by the alphabet $\{0,1\}$, then a decision problem is a subset $L\subseteq \{0,1\}^{*}$.
+- For another example, using an encoding such as [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering "Gödel numbering"), any string can be encoded as a natural number, via which a decision problem can be defined as a subset of the natural numbers. Therefore, the decision procedure of a decision problem is to compute the [characteristic function](https://en.wikipedia.org/wiki/Indicator_function "Indicator function") of a subset of the natural numbers.
+#### Search Problems
+> [!links]
+> ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem#Search_problem
+
+In a [search problem](https://en.wikipedia.org/wiki/Search_problem "Search problem"), the answers can be arbitrary strings. For example, factoring is a search problem where the instances are (string representations of) positive integers and the solutions are (string representations of) collections of primes.
+
+A search problem is represented as a [relation](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") consisting of all the instance-solution pairs, called a _search relation_. For example, factoring can be represented as the relation $$R = \{(4, 2), (6, 2), (6, 3), (8, 2), (9, 3), (10, 2), (10, 5)...\}$$
+which consist of all pairs of numbers (_n_, _p_), where _p_ is a prime factor of _n_.
+#### Counting Problems
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem#Counting_problem
+
+A [counting problem](https://en.wikipedia.org/wiki/Counting_problem_\(complexity\) "Counting problem (complexity)") asks for the number of solutions to a given search problem. For example, a counting problem associated with factoring is
+
+"Given a positive integer _n_, count the number of nontrivial prime factors of _n_."
+
+A counting problem can be represented by a function _f_ from {0, 1}\* to the nonnegative integers. For a search relation _R_, the counting problem associated to _R_ is the function $$f_R(x) = |{y: R(x, y) }|$$
+#### Optimization Problems
+> [!links]
+> ↗ [Mathematical Optimization (Programming)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Multi-Objective Optimization (Pareto Optimization)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/📌%20Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
+> ↗ [Combinatorial Optimization](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+> - ↗ [Assignment Problems](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Combinatorial%20Optimization/Assignment%20Problems/Assignment%20Problems.md)
+> 
+> ↗ [COP (Convex Optimization Programming)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem#Optimization_problem
+
+An [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem "Optimization problem") asks for finding a "best possible" solution among the set of all possible solutions to a search problem. One example is the _maximum independent set_ problem:
+
+"Given a graph _G_, find an independent set of _G_ of maximum size."
+
+Optimization problems are represented by their objective function and their constraints.
+#### Function Problems
+> 🔗 https://en.wikipedia.org/wiki/Computational_problem#Function_problem
+
+In a [function problem](https://en.wikipedia.org/wiki/Function_problem "Function problem") a single output (of a [total function](https://en.wikipedia.org/wiki/Total_function "Total function")) is expected for every input, but the output is more complex than that of a [decision problem](https://en.wikipedia.org/wiki/Decision_problem "Decision problem"), that is, it isn't just "yes" or "no". One of the most famous examples is the _[traveling salesman](https://en.wikipedia.org/wiki/Travelling_salesman_problem "Travelling salesman problem")_ problem:
+
+"Given a list of cities and the distances between each pair of cities, find the shortest possible route that visits each city exactly once and returns to the origin city."
+
+It is an [NP-hard](https://en.wikipedia.org/wiki/NP-hard "NP-hard") problem in [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Combinatorial optimization"), important in [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research") and [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science").
+
+> 🔗 https://en.wikipedia.org/wiki/Function_problem
 
 
 

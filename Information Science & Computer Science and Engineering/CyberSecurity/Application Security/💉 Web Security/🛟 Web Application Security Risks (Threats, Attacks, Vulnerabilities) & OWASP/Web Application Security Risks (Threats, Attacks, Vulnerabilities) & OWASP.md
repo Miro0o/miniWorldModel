@@ -32,7 +32,7 @@
 ↗ [Vulnerabilities](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 - ↗ [CWE (Common Weakness Enumeration)](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/CWE%20(Common%20Weakness%20Enumeration).md)
 - ↗ [Real World Vulnerabilities Analysis](../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/🤥%20Real%20World%20Vulnerabilities%20Analysis/Real%20World%20Vulnerabilities%20Analysis.md)
-↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+↗ [Software Vulnerability & Weakness](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 
 
 

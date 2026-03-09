@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Foundation Models List & Evaluation & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 
 ### Other Resources
@@ -29,7 +29,7 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 
 ## 1️⃣ Pre-Training
-↗ [Pre-Training](Pre-Training/Pre-Training.md)
+↗ [Pre-Training](LLM%20Training/Pre-Training/Pre-Training.md)
 
 
 ### Data Preparation
@@ -76,8 +76,8 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 
 ## 2️⃣ Post-Training & Fine Tuning
-> ↗ [Post-Training & Fine Tuning](Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
-> ↗ [LLM Adaptation & Alignment Tuning](Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+> ↗ [Post-Training & Fine Tuning](LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+> ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 
 > 🔗 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 > (P.S. this article is not very accurate in the generality of the process of training. It just gives a concrete approach (while in fact there are other approaches). However, it is still good for an appetizer of this process.)
@@ -133,7 +133,7 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 ### 🧐 Evaluation Approaches & Benchmarking
-↗ [LLM Foundation Models List & Evaluation & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20&%20Leaderboard.md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 
 
 ### 🤔 Issues & Improvements
