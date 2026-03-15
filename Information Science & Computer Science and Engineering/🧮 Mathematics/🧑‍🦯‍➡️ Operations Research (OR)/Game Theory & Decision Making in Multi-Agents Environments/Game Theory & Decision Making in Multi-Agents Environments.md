@@ -62,7 +62,7 @@ Games can have several features, a few of the most common are listed here.
 - **[Move by nature](https://en.wikipedia.org/wiki/Move_by_nature "Move by nature")**: A game includes a random move by nature.
 
 
-### Cooperative / Non-cooperative
+### Cooperative / Non-cooperative 🤔
 > 🔗 https://en.wikipedia.org/wiki/Game_theory#Cooperative_/_non-cooperative
 
 A game is _cooperative_ if the players are able to form binding commitments externally enforced (e.g. through [contract law](https://en.wikipedia.org/wiki/Contract_law "Contract law")). A game is _non-cooperative_ if players cannot form alliances or if all agreements need to be [self-enforcing](https://en.wikipedia.org/wiki/Self-enforcing_agreement "Self-enforcing agreement") (e.g. through [credible threats](https://en.wikipedia.org/wiki/Credible_threat "Credible threat")).
@@ -107,8 +107,9 @@ Furthermore, _constant-sum games_ correspond to activities like theft and gamb
 
 
 ### Stochastic Games & Markov Games 🤔
+> [!links]
 > ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
-> 
+
 > 🔗 https://en.wikipedia.org/wiki/Game_theory#Stochastic_outcomes_(and_relation_to_other_fields)
 
 Individual decision problems with stochastic outcomes are sometimes considered "one-player games". They may be modeled using similar tools within the related disciplines of [decision theory](https://en.wikipedia.org/wiki/Decision_theory "Decision theory"), [operations research](https://en.wikipedia.org/wiki/Operations_research "Operations research"), and areas of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"), particularly [AI planning](https://en.wikipedia.org/wiki/AI_planning "AI planning") (with uncertainty) and [multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system "Multi-agent system"). Although these fields may have different motivators, the mathematics involved are substantially the same, e.g. using [Markov decision processes](https://en.wikipedia.org/wiki/Markov_decision_process "Markov decision process") (MDP).

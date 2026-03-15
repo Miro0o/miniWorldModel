@@ -16,6 +16,16 @@
 ↗ [PDDL (Planning Domain Definition Language)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/PDDL%20(Planning%20Domain%20Definition%20Language).md)
 
 
+### Papers
+
+
+### Learning Resources
+https://ml.rwth-aachen.de/~hector.geffner/www.dtic.upf.edu/~hgeffner/morgan-book-fragment-2013.pdf
+A Concise Introduction to Models and Methods for Automated Planning (2013)
+Hector Geffner | ICREA and Universitat Pompeu Fabra, Barcelona, Spain
+Blai Bonet | Universidad Simón Bolívar, Caracas, Venezuela
+
+
 ### Other Resources
 https://planning.wiki/
 Planning.Wiki - The AI Planning & PDDL Wiki
@@ -154,9 +164,7 @@ Fast Forward is a family of planners, built predominantly on the FF System. FF�
 **Partial-order planning** is an approach to [automated planning](https://en.wikipedia.org/wiki/Automated_planning "Automated planning") that maintains a partial ordering between actions and only commits ordering between actions when forced to, that is, ordering of actions is partial. Also this planning doesn't specify which action will come out first when two actions are processed. By contrast, _total-order planning_ maintains a total ordering between all actions at every stage of planning. Given a problem in which some sequence of actions is needed to achieve a goal, a _partial-order plan_ specifies all actions that must be taken, but specifies an ordering between actions only where needed.
 
 Consider the following situation: a person must travel from the start to the end of an obstacle course. The course is composed of a bridge, a see-saw, and a swing-set. The bridge must be traversed before the see-saw and swing-set are reachable. Once reachable, the see-saw and swing-set can be traversed in any order, after which the end is reachable. In a partial-order plan, ordering between these obstacles is specified only when needed. The bridge must be traversed first. Second, either the see-saw or swing-set can be traversed. Third, the remaining obstacle can be traversed. Then the end can be traversed. Partial-order planning relies upon the _principle of least commitment_ for its efficiency.
-#### Iterative Width (IW)
-
-#### Other classical planning approaches
+#### Other Classical Planning Approaches
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 11.2.4
@@ -248,14 +256,46 @@ A system that makes use of effective heuristics is FF, or FastForward (Hoffmann,
 
 
 
-## Hierarchical Planning
-### Hierarchical Task Network (HTN) & High-Level Actions (HLAs)
+## Improving Classical Planning Algorithms
+### Hierarchical Planning
+#### Hierarchical Task Network (HTN) & High-Level Actions (HLAs)
+
+#### Searching for Primitive Solutions
+
+#### Searching for Abstract Solutions
 
 
-### Searching for Primitive Solutions
+### Iterative Width (IW)
 
 
-### Searching for Abstract Solutions
+### Planning, Learning, AI, and LLM ⭐
+> [!links]
+> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+> 
+> ↗ [Neuro-Symbolic AI](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
+
+
+
+## Planning and Acting in Nondeterministic Domains
+> [!links]
+> ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 11.5
+
+In this section we extend planning to handle partially observable, nondeterministic, and unknown environments. The basic concepts mirror those in Chapter 4, but there are differences arising from the use of factored representations rather than atomic representations. This affects the way we represent the agent’s capability for action and observation and the way we represent **belief states**—the sets of possible physical states the agent might be in—for partially observable environments. We can also take advantage of many of the domain-independent methods given in Section 11.3 for calculating search heuristics.
+
+We will cover **sensorless planning** (also known as **conformant planning**) for environments with no observations; **contingency planning** for partially observable and nondeterministic environments; and **online planning** and **replanning** for unknown environments. This will allow us to tackle sizable real-world problems.
+
+
+
+## Multi-Agent Planning
+↗ [Games & Search in Multi-Agents Environment](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+
+↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
 
 
@@ -275,15 +315,6 @@ The approach we take is “plan first, schedule later”: divide the overall pro
 
 
 ### Solving Scheduling Problems
-
-
-
-## Planning, Learning, AI, and LLM
-> [!links]
-> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
-> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-> 
-> ↗ [Neuro-Symbolic AI](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 
 
 

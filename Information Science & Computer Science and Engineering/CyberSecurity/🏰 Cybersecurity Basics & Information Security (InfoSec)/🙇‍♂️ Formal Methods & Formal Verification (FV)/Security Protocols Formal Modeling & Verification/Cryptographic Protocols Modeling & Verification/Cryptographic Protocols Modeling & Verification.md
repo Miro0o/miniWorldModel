@@ -719,6 +719,8 @@ We define the intuition of "learning nothing new" using two formulae (in Herbran
 > A model of a formula is an interpretation of all symbols that makes the formula true.
 > 
 > e.g. Formula α≡x[1],x[2],x[3] ∈{0,1}∧x[1] + x[2] + x[3] = 1. What are the models of α?
+> 
+> More: ↗ [(Formal) Model Checking](../../🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 > [!QUOTE] Definition (Model-theoretic Definition of $\alpha$-$\beta$-privacy)
 > Every $\Sigma_0$-model of $\alpha$ can be extended to a $\Sigma$-model of $\beta$.
@@ -1517,6 +1519,15 @@ When the two protocols are **disjoint formats**, the attack is not possible anym
 - Relevant: there are tons of protocols on the Internet
 	- Verifying them all at once is too complex
 	- Every new addition would require verification to start from zero
+
+**Definition (Parallel Composability)**
+- Given type-flaw resistant protocols $P_1$ and $P_2$
+- There is a special set of shared secrets (e.g. $\text{inv}(\text{pk}(a))$). 
+- Some of these secrets are explicitly declassified (e.g. $\text{pk}(a), \text{pk}(i), \text{inv}(\text{pk}(i))$). 
+- Every well-typed message part of $P_1$ and $P_2$ is
+	- either a shared secret (classified or declassified)
+	- or unique to one of the protocols
+- Neither protocol (in isolation) ever leaks a classified secret.
 
 > [!EXAMPLE] Parallel composition
 > 

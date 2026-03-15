@@ -120,7 +120,7 @@ News, community, and courses for people building AI-powered products.
 
 
 
-## Machine Learning (ML)
+## Machine Learning (ML) -- Learning From Examples
 > [!quote]
 > 🤖 GPT-5.0
 > Machine learning can be seen as the problem of building models that optimally compress data while preserving the information needed to make accurate predictions.
@@ -199,7 +199,14 @@ Key idea: Learn hidden structure or representations.
 - Goal: learn a **policy** that maximizes long-term reward
 Key idea: Learn by trial and error through interaction.
 
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md) 🔥
+#### Neural Networks and Deep Learning
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
+	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
+	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+
+Deep learning
 - Not a learning paradigm by itself
 - Refers to **model class + representation learning**
 	- i.e. it's a bundle of both models and learning methods
@@ -210,6 +217,16 @@ Key idea: Learn by trial and error through interaction.
     - Reinforcement learning
 Key idea: Learn representations and decision functions jointly using deep networks.
 
+#### Ensemble Learning
+
+#### Transfer Learning
+
+
+### Learning Models: Parametric & Nonparametric
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 19.7
+
 
 ### Machine Learning Systems
 ![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
@@ -217,12 +234,50 @@ Key idea: Learn representations and decision functions jointly using deep networ
 
 #### Loss Minimization & Loss Function
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
-#### Neural Networks and Deep Learning ⭐
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-- ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-	- ↗ [CNN (Convolutional Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
-	- ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
-	- ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+
+
+### The Theory of Learning ⭐
+> [!links]
+> ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
+> ↗ [Computational Learning Theory](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 19.5
+
+How can we be sure that our learned hypothesis will predict well for previously unseen inputs? That is, how do we know that the hypothesis h is close to the target function $f$ if we don’t know what $f$ is? These questions have been pondered for centuries, by Ockham, Hume, and others. In recent decades, other questions have emerged: how many examples do we need to get a good $h$? What hypothesis space should we use? If the hypothesis space is very complex, can we even find the best $h$, or do we have to settle for a local maximum? How complex should $h$ be? How do we avoid overfitting? This section examines these questions.
+
+We’ll start with the question of how many examples are needed for learning. We saw from the learning curve for decision tree learning on the restaurant problem (Figure 19.7 on page 679) that accuracy improves with more training data. Learning curves are useful, but they are specific to a particular learning algorithm on a particular problem. Are there some more general principles governing the number of examples needed?
+
+Questions like this are addressed by **computational learning theory**, which lies at the intersection of AI, statistics, and theoretical computer science. The underlying principle is that any hypothesis that is seriously wrong will almost certainly be “found out” with high probability after a small number of examples, because it will make an incorrect prediction. Thus, any hypothesis that is consistent with a sufficiently large set of training examples is unlikely to be seriously wrong; that is, it must be **probably approximately correct (PAC)**.
+- ↗ [PAC (Probably Approximately Correct) Learning](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/PAC%20(Probably%20Approximately%20Correct)%20Learning/PAC%20(Probably%20Approximately%20Correct)%20Learning.md)
+
+Any learning algorithm that returns hypotheses that are probably approximately correct is called a **PAC learning** algorithm; we can use this approach to provide bounds on the performance of various learning algorithms.
+
+PAC-learning theorems, like all theorems, are logical consequences of axioms. When a theorem (as opposed to, say, a political pundit) states something about the future based on the past, the axioms have to provide the “juice” to make that connection. For PAC learning, the juice is provided by the stationarity assumption introduced on page 683, which says that future examples are going to be drawn from the same fixed distribution $P(E) = P(X, Y)$ as past examples. (Note that we do not have to know what distribution that is, just that it doesn’t change.) In addition, to keep things simple, we will assume that the true function $f$ is deterministic and is a member of the hypothesis space $\mathcal{H}$ that is being considered.
+
+The simplest PAC theorems deal with Boolean functions, for which the 0/1 loss is appropriate. The **error rate** of a hypothesis $h$, defined informally earlier, is defined formally here as the expected generalization error for examples drawn from the stationary distribution: $$ \operatorname{error}(h) = GenLoss_{L_{0/1}}(h) = \sum_{x,y} L_{0/1}(y, h(x)) P(x,y). $$
+In other words, $\operatorname{error}(h)$ is the probability that $h$ misclassifies a new example. This is the same quantity being measured experimentally by the learning curves shown earlier.
+
+A hypothesis $h$ is called **approximately correct** if $\operatorname{error}(h) \le \epsilon$, where $\epsilon$ is a small constant. We will show that we can find an $N$ such that, after training on $N$ examples, with high probability, all consistent hypotheses will be approximately correct. One can think of an approximately correct hypothesis as being “close” to the true function in hypothesis space: it lies inside what is called the $\epsilon$-ball around the true function $f$. The hypothesis space outside this ball is called $\mathcal{H}_{bad}$.
+
+We can derive a bound on the probability that a “seriously wrong” hypothesis $h_b \in \mathcal{H}_{bad}$ is consistent with the first $N$ examples as follows. We know that $\operatorname{error}(h_b) > \epsilon$. Thus, the probability that it agrees with a given example is at most $1 - \epsilon$. Since the examples are independent, the bound for $N$ examples is: $$ P(h_b \text{ agrees with } N \text{ examples}) \le (1 - \epsilon)^N. $$
+The probability that $\mathcal{H}_{bad}$ contains at least one consistent hypothesis is bounded by the sum of the individual probabilities: $$ P(\mathcal{H}_{bad} \text{ contains a consistent hypothesis}) 
+\le |\mathcal{H}_{bad}| (1 - \epsilon)^N 
+\le |\mathcal{H}| (1 - \epsilon)^N, $$
+where we have used the fact that $\mathcal{H}_{bad}$ is a subset of $\mathcal{H}$ and thus $|\mathcal{H}_{bad}| \le |\mathcal{H}|$. We would like to reduce the probability of this event below some small number $\delta$: $$ P(\mathcal{H}_{bad} \text{ contains a consistent hypothesis}) \le |\mathcal{H}| (1 - \epsilon)^N \le \delta. $$
+Given that $1 - \epsilon \le e^{-\epsilon}$, we can achieve this if we allow the algorithm to see $$ N \ge \frac{1}{\epsilon} \left( \ln \frac{1}{\delta} + \ln |\mathcal{H}| \right) $$
+examples. Thus, with probability at least $1−δ$, after seeing this many examples, the learning algorithm will return a hypothesis that has error at most $ϵ$. In other words, it is probably approximately correct. The number of required examples, as a function of $ϵ$ and $δ$, is called the sample complexity of the learning algorithm.
+
+As we saw earlier, if $\mathcal{H}$ is the set of all Boolean functions on n attributes, then $|\mathcal{H}|= 2^{2^n}$. Thus, the sample complexity of the space grows as $^2n$. Because the number of possible examples is also $2^n$, this suggests that PAC-learning in the class of all Boolean functions requires seeing all, or nearly all, of the possible examples. A moment’s thought reveals the reason for this: $\mathcal{H}$ contains enough hypotheses to classify any given set of examples in all possible ways. In particular, for any set of $N$ examples, the set of hypotheses consistent with those examples contains equal numbers of hypotheses that predict $x_{N+1}$ to be positive and hypotheses that predict $x_{N+1}$ to be negative.
+
+To obtain real generalization to unseen examples, then, it seems we need to restrict the hypothesis space $\mathcal{H}$ in some way; but of course, if we do restrict the space, we might eliminate the true function altogether. There are three ways to escape this dilemma.
+
+The first is to bring prior knowledge to bear on the problem.
+
+The second, which we introduced in Section 19.4.3, is to insist that the algorithm return not just any consistent hypothesis, but preferably a simple one (as is done in decision tree learning). In cases where finding simple consistent hypotheses is tractable, the sample complexity results are generally better than for analyses based only on consistency.
+
+The third, which we pursue next, is to focus on learnable subsets of the entire hypothesis space of Boolean functions. This approach relies on the assumption that the restricted hypothesis space contains a hypothesis $h$ that is close enough to the true function $f$; the benefits are that the restricted hypothesis space allows for effective generalization and is typically easier to search. We now examine one such restricted hypothesis space in more detail.
 
 
 ### Mathematical Notations for Machine Learning (and Deep Learning)
@@ -364,51 +419,6 @@ So far we have looked at learning methods in which a single hypothesis is used t
 
 
 
-## The Theory of Learning
-> [!links]
-> ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
-> ↗ [Computational Learning Theory](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/Computational%20Learning%20Theory.md)
-
-> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
-> RUSSELL & NORVIG
-> Chapter 19.5
-
-How can we be sure that our learned hypothesis will predict well for previously unseen inputs? That is, how do we know that the hypothesis h is close to the target function $f$ if we don’t know what $f$ is? These questions have been pondered for centuries, by Ockham, Hume, and others. In recent decades, other questions have emerged: how many examples do we need to get a good $h$? What hypothesis space should we use? If the hypothesis space is very complex, can we even find the best $h$, or do we have to settle for a local maximum? How complex should $h$ be? How do we avoid overfitting? This section examines these questions.
-
-We’ll start with the question of how many examples are needed for learning. We saw from the learning curve for decision tree learning on the restaurant problem (Figure 19.7 on page 679) that accuracy improves with more training data. Learning curves are useful, but they are specific to a particular learning algorithm on a particular problem. Are there some more general principles governing the number of examples needed?
-
-Questions like this are addressed by **computational learning theory**, which lies at the intersection of AI, statistics, and theoretical computer science. The underlying principle is that any hypothesis that is seriously wrong will almost certainly be “found out” with high probability after a small number of examples, because it will make an incorrect prediction. Thus, any hypothesis that is consistent with a sufficiently large set of training examples is unlikely to be seriously wrong; that is, it must be **probably approximately correct (PAC)**.
-- ↗ [PAC (Probably Approximately Correct) Learning](../🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/Computational%20Learning%20Theory/PAC%20(Probably%20Approximately%20Correct)%20Learning/PAC%20(Probably%20Approximately%20Correct)%20Learning.md)
-
-Any learning algorithm that returns hypotheses that are probably approximately correct is called a **PAC learning** algorithm; we can use this approach to provide bounds on the performance of various learning algorithms.
-
-PAC-learning theorems, like all theorems, are logical consequences of axioms. When a theorem (as opposed to, say, a political pundit) states something about the future based on the past, the axioms have to provide the “juice” to make that connection. For PAC learning, the juice is provided by the stationarity assumption introduced on page 683, which says that future examples are going to be drawn from the same fixed distribution $P(E) = P(X, Y)$ as past examples. (Note that we do not have to know what distribution that is, just that it doesn’t change.) In addition, to keep things simple, we will assume that the true function $f$ is deterministic and is a member of the hypothesis space $\mathcal{H}$ that is being considered.
-
-The simplest PAC theorems deal with Boolean functions, for which the 0/1 loss is appropriate. The **error rate** of a hypothesis $h$, defined informally earlier, is defined formally here as the expected generalization error for examples drawn from the stationary distribution: $$ \operatorname{error}(h) = GenLoss_{L_{0/1}}(h) = \sum_{x,y} L_{0/1}(y, h(x)) P(x,y). $$
-In other words, $\operatorname{error}(h)$ is the probability that $h$ misclassifies a new example. This is the same quantity being measured experimentally by the learning curves shown earlier.
-
-A hypothesis $h$ is called **approximately correct** if $\operatorname{error}(h) \le \epsilon$, where $\epsilon$ is a small constant. We will show that we can find an $N$ such that, after training on $N$ examples, with high probability, all consistent hypotheses will be approximately correct. One can think of an approximately correct hypothesis as being “close” to the true function in hypothesis space: it lies inside what is called the $\epsilon$-ball around the true function $f$. The hypothesis space outside this ball is called $\mathcal{H}_{bad}$.
-
-We can derive a bound on the probability that a “seriously wrong” hypothesis $h_b \in \mathcal{H}_{bad}$ is consistent with the first $N$ examples as follows. We know that $\operatorname{error}(h_b) > \epsilon$. Thus, the probability that it agrees with a given example is at most $1 - \epsilon$. Since the examples are independent, the bound for $N$ examples is: $$ P(h_b \text{ agrees with } N \text{ examples}) \le (1 - \epsilon)^N. $$
-The probability that $\mathcal{H}_{bad}$ contains at least one consistent hypothesis is bounded by the sum of the individual probabilities: $$ P(\mathcal{H}_{bad} \text{ contains a consistent hypothesis}) 
-\le |\mathcal{H}_{bad}| (1 - \epsilon)^N 
-\le |\mathcal{H}| (1 - \epsilon)^N, $$
-where we have used the fact that $\mathcal{H}_{bad}$ is a subset of $\mathcal{H}$ and thus $|\mathcal{H}_{bad}| \le |\mathcal{H}|$. We would like to reduce the probability of this event below some small number $\delta$: $$ P(\mathcal{H}_{bad} \text{ contains a consistent hypothesis}) \le |\mathcal{H}| (1 - \epsilon)^N \le \delta. $$
-Given that $1 - \epsilon \le e^{-\epsilon}$, we can achieve this if we allow the algorithm to see $$ N \ge \frac{1}{\epsilon} \left( \ln \frac{1}{\delta} + \ln |\mathcal{H}| \right) $$
-examples. Thus, with probability at least $1−δ$, after seeing this many examples, the learning algorithm will return a hypothesis that has error at most $ϵ$. In other words, it is probably approximately correct. The number of required examples, as a function of $ϵ$ and $δ$, is called the sample complexity of the learning algorithm.
-
-As we saw earlier, if $\mathcal{H}$ is the set of all Boolean functions on n attributes, then $|\mathcal{H}|= 2^{2^n}$. Thus, the sample complexity of the space grows as $^2n$. Because the number of possible examples is also $2^n$, this suggests that PAC-learning in the class of all Boolean functions requires seeing all, or nearly all, of the possible examples. A moment’s thought reveals the reason for this: $\mathcal{H}$ contains enough hypotheses to classify any given set of examples in all possible ways. In particular, for any set of $N$ examples, the set of hypotheses consistent with those examples contains equal numbers of hypotheses that predict $x_{N+1}$ to be positive and hypotheses that predict $x_{N+1}$ to be negative.
-
-To obtain real generalization to unseen examples, then, it seems we need to restrict the hypothesis space $\mathcal{H}$ in some way; but of course, if we do restrict the space, we might eliminate the true function altogether. There are three ways to escape this dilemma.
-
-The first is to bring prior knowledge to bear on the problem.
-
-The second, which we introduced in Section 19.4.3, is to insist that the algorithm return not just any consistent hypothesis, but preferably a simple one (as is done in decision tree learning). In cases where finding simple consistent hypotheses is tractable, the sample complexity results are generally better than for analyses based only on consistency.
-
-The third, which we pursue next, is to focus on learnable subsets of the entire hypothesis space of Boolean functions. This approach relies on the assumption that the restricted hypothesis space contains a hypothesis $h$ that is close enough to the true function $f$; the benefits are that the restricted hypothesis space allows for effective generalization and is typically easier to search. We now examine one such restricted hypothesis space in more detail.
-
-
-
 ## Knowledge in Learning
 > [!links]
 > ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
@@ -422,7 +432,12 @@ The third, which we pursue next, is to focus on learnable subsets of the entire 
 In all of the approaches to learning described in the previous chapter, the idea is to construct a function that has the input–output behavior observed in the data. In each case, the learning methods can be understood as searching a hypothesis space to find a suitable function, starting from only a very basic assumption about the form of the function, such as “second-degree polynomial” or “decision tree” and perhaps a preference for simpler hypotheses. Doing this amounts to saying that before you can learn something new, you must first forget (almost) everything you know. In this chapter, we study learning methods that can take advantage of **prior knowledge** about the world. In most cases, the prior knowledge is represented as general first-order logical theories; thus for the first time we bring together the work on knowledge representation and learning.
 
 
-### A Logical Formulation of Learning
+### A Logical Formulation of Learning 🤔
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 20.1
+
+Chapter 19 defined pure inductive learning as a process of finding a hypothesis that agrees with the observed examples. Here, we specialize this definition to the case where the hypothesis is represented by a set of logical sentences. Example descriptions and classifications will also be logical sentences, and a new example can be classified by inferring a classification sentence from the hypothesis and the example description. This approach allows for incremental construction of hypotheses, one sentence at a time. It also allows for prior knowledge, because sentences that are already known can assist in the classification of new examples. The logical formulation of learning may seem like a lot of extra work at first, but it turns out to clarify many of the issues in learning. It enables us to go well beyond the simple learning methods of Chapter 19 by using the full power of logical inference in the service of learning.
 
 
 ### Knowledge in Learning
