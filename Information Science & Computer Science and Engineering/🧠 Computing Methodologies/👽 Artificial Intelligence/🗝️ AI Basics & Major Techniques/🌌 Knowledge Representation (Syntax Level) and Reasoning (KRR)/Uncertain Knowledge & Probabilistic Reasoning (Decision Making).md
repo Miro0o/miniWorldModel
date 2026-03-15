@@ -153,5 +153,26 @@ There are two routes to introducing expressive power into probability theory. Th
 Both routes lead to a **probabilistic programming language (PPL)**. The first route leads to **declarative PPLs**, which bear roughly the same relationship to general PPLs as logic programming (Chapter 9) does to general programming languages.
 
 
+### Probabilistic Programming 🆚 Stochastic Programming
+> [!links]
+> ↗ [Stochastic Programming](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Stochastic%20Programming/Stochastic%20Programming.md)
+
+#probabilistic_programming #stochastic_programming
+
+> 🤖 GPT 5.4 Thinking
+
+A clean way to separate them:
+- **Stochastic programming:** “What is the best action under uncertainty?”
+- **Probabilistic programming:** “What probabilistic model explains the data, and what do we infer from it?”
+
+They can interact. For example, you might use probabilistic programming to learn a demand distribution, then use stochastic programming to optimize decisions under that learned uncertainty.
+
+So they are **not the same**:
+- stochastic programming = decision/optimization under uncertainty
+- probabilistic programming = probabilistic modeling and inference
+
+> 🔗 https://cstheory.stackexchange.com/a/53041
+
+
 
 ## Ref

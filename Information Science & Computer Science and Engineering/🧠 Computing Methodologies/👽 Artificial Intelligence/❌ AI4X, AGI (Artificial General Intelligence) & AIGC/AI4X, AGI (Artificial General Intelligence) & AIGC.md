@@ -11,11 +11,12 @@
 
 ↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [AI & Gaming](../../../Software%20Engineering/🤖%20AI4SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
+- ↗ [AI4Code](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 ↗ [AI4Security](../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 
 ↗ [AI4Math](AI4Math/AI4Math.md)
 
-↗ [AI For Science (AI4SCI)](AI4SCI/AI%20For%20Science%20(AI4SCI).md)
+↗ [AI For Science (AI4SCI)](AI%20For%20Science%20(AI4SCI)/AI%20For%20Science%20(AI4SCI).md)
 ↗ [AI4EDU](AI4EDU.md)
 
 

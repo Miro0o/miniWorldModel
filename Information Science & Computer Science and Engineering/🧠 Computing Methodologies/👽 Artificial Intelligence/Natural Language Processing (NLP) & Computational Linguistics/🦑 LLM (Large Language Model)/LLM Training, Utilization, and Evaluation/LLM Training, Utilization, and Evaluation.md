@@ -103,19 +103,19 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 
 ## 3️⃣ Utilization & Prompt Engineering
-↗ [LLM Utilization & Prompt Engineering](LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
+↗ [LLM Utilization & Prompt, Context, and Harness Engineering](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 
 
 ### In-Context Learning (ICL)
-↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Utilization%20&%20Prompt%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
+↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
 
 
 ### Chain-of-Thought (CoT)
-↗ [CoT (Chain-of-Thought)](LLM%20Utilization%20&%20Prompt%20Engineering/CoT%20(Chain-of-Thought).md)
+↗ [CoT (Chain-of-Thought)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20(Chain-of-Thought).md)
 
 
 ### Retrieval Augmented Generation (RAG)
-↗ [RAG (Retrieval Augmented Generation)](LLM%20Utilization%20&%20Prompt%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
+↗ [RAG (Retrieval Augmented Generation)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 
 
 ### Prompt-Based Planning

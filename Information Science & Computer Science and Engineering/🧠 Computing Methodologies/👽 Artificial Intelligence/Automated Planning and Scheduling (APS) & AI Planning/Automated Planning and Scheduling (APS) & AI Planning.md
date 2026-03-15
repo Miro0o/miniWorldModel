@@ -17,6 +17,9 @@
 
 
 ### Papers
+https://arxiv.org/pdf/2505.19683#page=4.25
+Large Language Models for Planning: A Comprehensive and Systematic
+Survey
 
 
 ### Learning Resources

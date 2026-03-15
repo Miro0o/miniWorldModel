@@ -22,7 +22,7 @@
 ↗ [Software Engineering](../../../Software%20Engineering/Software%20Engineering.md)
 
 ↗ [AI4Security](../../🫧%20AI4Security/AI4Security.md)
-↗ [LLM & Security](../../🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [LLM For Security](../../🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
 
 ### Papers & Research

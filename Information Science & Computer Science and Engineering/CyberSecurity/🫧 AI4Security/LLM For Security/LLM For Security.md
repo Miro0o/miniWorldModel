@@ -1,4 +1,4 @@
-# LLM & Security
+# LLM For Security
 
 [TOC]
 
@@ -8,16 +8,28 @@
 ### Related Topics
 ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 - ↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 
-↗ [AI4Code & Coding Agents](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code%20&%20Coding%20Agents/AI4Code%20&%20Coding%20Agents.md)
+↗ [Attack Simulation - Red, Blue, Purple, White](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+
+↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+- ↗ [AI4Code](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
+↗ [AI4Math](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
 
 ↗ [LLM & Software Security and Analysis](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 ↗ [LLM & Fuzzing](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 ↗ [LLM & Supply Chain Security](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
+↗ [Trust-worthy AI & LLM Safety and Security](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
-### Paper Reading List
+
+### Papers
 Zhang, J., Bu, H., Wen, H., Liu, Y., Fei, H., Xi, R., Li, L., Yang, Y., Zhu, H., & Meng, D. (2025). When LLMs meet cybersecurity: A systematic literature review. _Cybersecurity_, _8_(1), 55. [https://doi.org/10.1186/s42400-025-00361-w](https://doi.org/10.1186/s42400-025-00361-w)
+
+https://arxiv.org/pdf/2512.18456
+SoK: Understanding (New) Security Issues Across AI4Code Use Cases
+Qilong Wu∗ Taoran Li* Tianyang Zhou* Varun Chandrasekaran
+University of Illinois Urbana-Champaign
 
 
 ### Awesome Large Language Model Tools for Cybersecurity Research
@@ -63,7 +75,7 @@ Making frontier cybersecurity capabilities available to defenders
 
 https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot
 microsoft copilot
-#### Papers
+#### Ideas
 https://github.com/ucsb-mlsec/VulnLLM-R/tree/main
 VulnLLM-R: Specialized Reasoning LLM for Vulnerability Detection
 - **Paper:** [arXiv:2512.07533](https://arxiv.org/abs/2512.07533)
@@ -101,6 +113,11 @@ https://aicyberchallenge.com/
 
 
 ## Intro
+### LLM For Security 
+
+
+### Security For LLM
+↗ [Trust-worthy AI & LLM Safety and Security](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
 
 

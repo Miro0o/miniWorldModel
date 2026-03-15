@@ -97,6 +97,8 @@ Major Branches of Control Theory
 
 
 ### Cybernetics 🆚 Control Theory
+#cybernetics #control_theory 
+
 > 🤖 Google search AI mode
 
 Cybernetics and control theory are ==deeply intertwined fields studying regulatory systems==, with cybernetics focusing broadly on communication and control in animals/machines (feedback loops, self-regulation) and control theory providing mathematical tools for engineering systems to achieve goals, both examining how systems maintain stability and function, often using concepts like negative feedback. Cybernetics offers a holistic framework, while control theory provides concrete methods for engineering stable, goal-directed behaviors in technologies, influencing AI, robotics, and systems science. 
@@ -202,7 +204,6 @@ Intelligent control can be divided into the following major sub-domains:
 控制方面的一个问题是，它真的深入到很多不同的细分领域。所以，化学工程的控制器和高速机械加工或机器人操纵器的控制器非常不同。后者，也就是我的专长，也需要很好地理解机器人运动学和动力学建模。除此之外，高级机器人控制器通常会使用视觉或其他感官输入，这是一个巨大的领域，通常与机器学习或人工智能交叉。还有遥控设备，它们在通信延迟、力反馈的稳定性等方面有自己的细节。
 
 控制理论本质上是一门应用科学。在我看来，基础知识非常有用，可以给你一个非常强大的工程工具集来分析大量的难题。但是，这些技能不可避免地必须应用于特定的背景下，这需要另一套完整的知识。在我看来，控制理论让你能够进入许多不同的应用领域，并拥有一个非常强大的数学基础。但是，纯粹的控制理论本身很可能不会是你整个职业生涯所做的事情。
-
 
 [控制理论专业书籍清单：入门到进阶 - 半年这么快过去了的文章 - 知乎]: https://zhuanlan.zhihu.com/p/508667233
 入门：本科专业课

@@ -11,6 +11,8 @@
 - ↗ [RLFT (Reinforcement Learning Fine Tuning)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
 - ↗ [RLHF (RL from Human Feedback)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLHF%20(RL%20from%20Human%20Feedback).md)
 
+↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
+
 
 ### Papers
 Xu, F., Hao, Q., Zong, Z., Wang, J., Zhang, Y., Wang, J., ... & Li, Y. (2025). Towards large reasoning models: A survey of reinforced reasoning with large language models. _arXiv preprint arXiv:2501.09686_.
@@ -26,6 +28,11 @@ https: //genai-handbook.github.io
 
 C. Laidlaw, E. Bronstein, T. Guo, D. Feng, L. Berglund, J. Svegliato, S. Russell, and A. Dragan. “AssistanceZero: Scalably Solving Assistance Games”. In: ICML. Apr. 2025.
 https://arxiv.org/abs/2504.07091
+
+https://www.searchyour.ai/archivos/reinforcement-learning-large-language-models-arun-shankar.pdf
+Reinforcement Learning for Large Language Models -- A Complete Guide from Foundations to Frontiers
+Theory, Practice, and Production from the Ground Up
+Arun Shankar Applied AI, Google
 
 
 

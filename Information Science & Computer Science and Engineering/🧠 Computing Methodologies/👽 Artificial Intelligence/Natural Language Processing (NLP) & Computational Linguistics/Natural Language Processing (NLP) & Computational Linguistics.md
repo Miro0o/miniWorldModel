@@ -253,7 +253,7 @@ As we’ll see shortly, conditional generation unlocks the ability for language 
 > [!links]
 > ↗ [Pre-Training](🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
 > ↗ [Post-Training & Fine Tuning](🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
-> ↗ [LLM Utilization & Prompt Engineering](🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt%20Engineering/LLM%20Utilization%20&%20Prompt%20Engineering.md)
+> ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 
 > 🔗 https://stanford-cs324.github.io/winter2022/lectures/capabilities/
 

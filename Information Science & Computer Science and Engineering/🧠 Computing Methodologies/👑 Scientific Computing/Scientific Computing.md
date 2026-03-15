@@ -21,7 +21,7 @@
 
 ↗ [Data Mining](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Mining.md)
 
-↗ [AI For Science (AI4SCI)](../👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4SCI/AI%20For%20Science%20(AI4SCI).md)
+↗ [AI For Science (AI4SCI)](../👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI%20For%20Science%20(AI4SCI)/AI%20For%20Science%20(AI4SCI).md)
 
 
 
