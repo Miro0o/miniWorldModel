@@ -62,6 +62,9 @@ Large Language Model Reasoning Failures
 - Large Language Models (LLMs) have exhibited remarkable reasoning capabilities, achieving impressive results across a wide range of tasks. Despite these advances, significant reasoning failures persist, occurring even in seemingly simple scenarios. To systematically understand and address these shortcomings, we present the first comprehensive survey dedicated to reasoning failures in LLMs. We introduce a novel categorization framework that distinguishes reasoning into embodied and non-embodied types, with the latter further subdivided into informal (intuitive) and formal (logical) reasoning. In parallel, we classify reasoning failures along a complementary axis into three types: fundamental failures intrinsic to LLM architectures that broadly affect downstream tasks; application-specific limitations that manifest in particular domains; and robustness issues characterized by inconsistent performance across minor variations. For each reasoning failure, we provide a clear definition, analyze existing studies, explore root causes, and present mitigation strategies. By unifying fragmented research efforts, our survey provides a structured perspective on systemic weaknesses in LLM reasoning, offering valuable insights and guiding future research towards building stronger, more reliable, and robust reasoning capabilities. We additionally release a comprehensive collection of research works on LLM reasoning failures, as a GitHub repository at [this https URL](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures), to provide an easy entry point to this area.
 
 
+### Projects
+
+
 ### Other Resources
 https://github.com/atfortes/Awesome-LLM-Reasoning
 
@@ -100,6 +103,10 @@ Towards Improving Reasoning & Planning Capabilities of LLMs with Neuro-Symbolic 
 	- [Differential Symbolic Module](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy#differential-symbolic-module)
 	- [Symbolic Feedback](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy#symbolic-feedback)
 7. [Awesome Datasets & Benchmarks](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy#awesome-datasets--benchmarks)
+
+https://github.com/zhaochen0110/Awesome_Think_With_Images?tab=readme-ov-file
+Awesome-Think-With-Images
+![](../../../../../../Assets/Pics/Pasted%20image%2020260316122907.png)
 
 
 
@@ -155,6 +162,10 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 ↗ [Neuro-Symbolic AI](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 
 
+### Multi-Modal Reasoning
+↗ [Multimodal AI & MLLM](../../🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+
+
 
 ## Reasoning Taxonomy
 ### Reasoning Regime
@@ -182,4 +193,5 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 ## Ref
 [69 【一篇文章讲明白 LLM Reasoning - 万有引力Leon | 小红书 - 你的生活兴趣社区】 😆 2mCFcUPDwWm6SdG]: https://www.xiaohongshu.com/discovery/item/69a774ce000000001b01eab4?source=webshare&xhsshare=pc_web&xsec_token=ABCP5APAsftFcniB6Fp3pxbnNwdPOlX4xT85LtCixych0=&xsec_source=pc_share
-	
+
+[Think with image | openai]: https://openai.com/index/thinking-with-images/

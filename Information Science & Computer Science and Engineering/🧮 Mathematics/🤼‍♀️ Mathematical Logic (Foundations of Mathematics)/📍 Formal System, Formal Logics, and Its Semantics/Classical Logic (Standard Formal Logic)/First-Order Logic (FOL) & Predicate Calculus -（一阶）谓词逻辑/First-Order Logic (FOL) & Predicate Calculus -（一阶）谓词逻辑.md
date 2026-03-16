@@ -1,4 +1,4 @@
-# First-Order Logic & Predicate Calculus -（一阶）谓词逻辑
+# First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑
 
 [TOC]
 

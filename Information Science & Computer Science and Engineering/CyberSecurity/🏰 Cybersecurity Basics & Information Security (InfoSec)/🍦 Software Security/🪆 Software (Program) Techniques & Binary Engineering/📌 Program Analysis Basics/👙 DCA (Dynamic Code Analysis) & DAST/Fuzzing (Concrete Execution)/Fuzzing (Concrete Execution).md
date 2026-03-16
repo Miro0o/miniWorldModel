@@ -439,7 +439,7 @@ This chapter will help project developers understand how to leverage OSS-Fuzz to
 
 ## Fuzzing Algorithm & General Working Procedure
 ### General Fuzzing Procedure
-![](https://appsec.guide/docs/fuzzing/intro.svg)
+![|800](https://appsec.guide/docs/fuzzing/intro.svg)
 <small>The general fuzzing scenario consists of the developer writing a harness for a SUT. After starting a fuzzing campaign, the fuzzer runtime generates random test cases that are sent to the harness. The harness then executes the SUT, which could lead to the discovery of bugs and crashes. Instrumentation runtime and the instrumentation added to the SUT are generally optional, even though most fuzzers instrument the SUT code and add a runtime. <br> <a>https://appsec.guide/docs/fuzzing/</a></small>
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.17.58.png)

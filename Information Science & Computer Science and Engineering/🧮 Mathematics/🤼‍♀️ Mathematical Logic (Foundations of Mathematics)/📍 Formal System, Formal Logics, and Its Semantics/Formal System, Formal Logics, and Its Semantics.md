@@ -77,7 +77,7 @@ Nielson, Hanne Riis; Nielson, Flemming (2007). _Semantics with Applications._
 > 
 > ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 > ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-> ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+> ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
@@ -198,7 +198,7 @@ From this view: Logics are **related species in a family**, not members of a sin
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
 ---
-**↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
+**↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)**
 一阶谓词逻辑是一种一阶语言。
 
 一阶谓词逻辑由如下符号构成：
@@ -312,7 +312,7 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 ### Classical Logic: Proposition & Predicate
 ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 - ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-- ↗ [First-Order Logic & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
 
 ### Non-Classical Logics

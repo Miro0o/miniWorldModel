@@ -96,9 +96,23 @@ McKinsey: ["Reimagining life science enterprises with agentic AI"](https://driv
 Open AI: ["GDPval evaluating AI model performance"](https://drive.google.com/file/d/13DVuFCbVtg1QupfpZmjcQ6AamypG935k/view)
 Appel et al. : [Anthropic Economic Index report: Uneven geographic and enterprise AI adoption](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)
 
+https://github.com/snarktank/ralph?tab=readme-ov-file
+Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://ampcode.com/) or [Claude Code](https://docs.anthropic.com/en/docs/claude-code)) repeatedly until all PRD items are complete. Each iteration is a fresh instance with clean context. Memory persists via git history, `progress.txt`, and `prd.json`.
+- Based on [Geoffrey Huntley's Ralph pattern](https://ghuntley.com/ralph/).
+- [Read my in-depth article on how I use Ralph](https://x.com/ryancarson/status/2008548371712135632)
+
 
 
 ## Intro
+### Agents
+↗ [Artificial Intelligence /🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)](../../../../Artificial%20Intelligence.md#🎯%20AI%20Without%20Self-Awareness:%20Agent%20vs%20Environment%20(Narrow%20AI))
+↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+↗ [Agents & Multi-Agent System](../../../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+
+![AI-Layer.excalidraw | 800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
+
+
 ### LLM Agent
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
 <small>https://docs.phidata.com/introduction</small>
@@ -109,7 +123,7 @@ Appel et al. : [Anthropic Economic Index report: Uneven geographic and enterpris
 - **Knowledge:** Provides LLMs with **business context** by storing information in a vector database.
 - **Tools:** Enable LLMs to **take actions** like pulling data from an API, sending emails or querying a database.
 
-![MCP.excalidraw | 800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/MCP.excalidraw.md)
+![|800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/MCP.excalidraw.md)
 
 
 ### Agentic LLM Workflows
@@ -126,3 +140,6 @@ Appel et al. : [Anthropic Economic Index report: Uneven geographic and enterpris
 
 [Accelerating scientific breakthroughs with an AI co-scientist | February 19, 2025, Juraj Gottweis, Google Fellow, and Vivek Natarajan, Research Lead]: https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/
 We introduce AI co-scientist, a multi-agent AI system built with Gemini 2.0 as a virtual scientific collaborator to help scientists generate novel hypotheses and research proposals, and to accelerate the clock speed of scientific and biomedical discoveries.
+
+[ everything is a ralph loop]: https://ghuntley.com/loop/
+By [Geoffrey Huntley](https://ghuntley.com/author/ghuntley/) in [AI](https://ghuntley.com/tag/ai/) — 17 Jan 2026

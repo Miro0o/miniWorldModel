@@ -200,6 +200,9 @@ This chapter defines AI and establishes the cultural background against which it
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+> ↗ [Agents & Multi-Agent System](Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+> ↗ [LLM Agents, AI Workflow, & Agentic MLLM](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+> ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
