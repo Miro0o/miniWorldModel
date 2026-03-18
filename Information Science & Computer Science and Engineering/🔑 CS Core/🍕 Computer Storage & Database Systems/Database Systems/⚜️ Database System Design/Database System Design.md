@@ -10,6 +10,9 @@
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.44.56%20PM.png)

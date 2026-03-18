@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Data Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+
+
+### Other Resources
 
 
 
@@ -41,7 +45,7 @@
 
 
 ### 3️⃣ Physical Database Design
-↗ [Physical Database Design (Software Engineering)](Physical%20Database%20Design%20(Software%20Engineering)/Physical%20Database%20Design%20(Software%20Engineering).md)
+↗ [Physical Database Design (Physical Modeling)](Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
 
 #### DBMS Components
 ![|500](../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%203.32.35%20PM.png)

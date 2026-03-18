@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Information Systems & System Architecture Design](../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-- ↗ [Enterprise Architecture Modeling](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20Modeling/Enterprise%20Architecture%20Modeling.md)
+- ↗ [Enterprise Architecture Modeling (Software Integration)](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
 - ↗ [CPS (Cyber Physical System)](../../../Information%20Systems%20&%20System%20Architecture%20Design/Selected%20Information%20Systems/CPS%20(Cyber%20Physical%20System)/CPS%20(Cyber%20Physical%20System).md)
 - ↗ [GIS (Geographic Information System)](../../../Information%20Systems%20&%20System%20Architecture%20Design/Selected%20Information%20Systems/GIS%20(Geographic%20Information%20System)/GIS%20(Geographic%20Information%20System).md)
 - ↗ [PCS (Payment and Clearing System)](../../../Information%20Systems%20&%20System%20Architecture%20Design/Selected%20Information%20Systems/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)

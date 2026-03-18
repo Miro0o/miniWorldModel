@@ -1,4 +1,4 @@
-# Goal-Oriented Requirement Engineering
+# Requirement Engineering (Business Integration)
 
 [TOC]
 
@@ -14,6 +14,10 @@
 
 ## Intro
 
+
+
+
+## Goal-Oriented Requirement Engineering
 **Motivations**
 - Need to define the context in which an application works
 	- Time

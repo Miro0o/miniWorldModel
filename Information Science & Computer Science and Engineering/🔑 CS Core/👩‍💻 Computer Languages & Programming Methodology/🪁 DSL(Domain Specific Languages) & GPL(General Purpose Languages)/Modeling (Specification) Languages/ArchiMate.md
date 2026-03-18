@@ -10,8 +10,8 @@ Archi User Guide
 
 
 ### Related Topics
-↗ [Enterprise Architecture (EA) & Requirement Engineering (RE)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE).md)
-↗ [Goal-Oriented Requirement Engineering](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Goal-Oriented%20Requirement%20Engineering/Goal-Oriented%20Requirement%20Engineering.md)
+↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 
 ↗ [I-Star](I-Star.md)
 

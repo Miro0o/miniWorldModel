@@ -40,7 +40,7 @@
 * Services to Promote Data Independence
 * Utility Services
 
-==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Transaction%20Management.md)
+==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Transaction%20Management.md)
 
 
 

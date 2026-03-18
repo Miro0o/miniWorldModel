@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Enterprise Architecture (EA) & Requirement Engineering (RE)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE).md)
-↗ [Goal-Oriented Requirement Engineering](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Goal-Oriented%20Requirement%20Engineering/Goal-Oriented%20Requirement%20Engineering.md)
+↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 
 ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 

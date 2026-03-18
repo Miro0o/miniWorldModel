@@ -31,7 +31,7 @@
 
 
 #### 🧑🏿‍🏭 Physical Data Models (Physical Database Design)
-↗ [Physical Database Design (Software Engineering)](../Physical%20Database%20Design%20(Software%20Engineering)/Physical%20Database%20Design%20(Software%20Engineering).md)
+↗ [Physical Database Design (Physical Modeling)](../Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
 
 
 ### 2️⃣ Normalization (For Relational Data Models)

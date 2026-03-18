@@ -1,4 +1,4 @@
-# Enterprise Architecture (EA) & Requirement Engineering (RE)
+# System Modeling & Integration
 
 [TOC]
 
@@ -113,7 +113,7 @@ Modeling tools:
 
 
 
-## Requirement Engineering (RE)
+## Requirement Engineering (RE) - Business Integration
 > 🔗 https://en.wikipedia.org/wiki/Requirements_engineering
 
 In the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model"), **requirements engineering** is presented as the first phase of the software development process. Later development methods, including the [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process "Rational Unified Process") (RUP) for software, assume that requirements engineering continues through a system's lifetime.
@@ -134,7 +134,7 @@ Requirements engineering has been shown to clearly contribute to software projec
 
 
 ### Goal-oriented Requirements Engineering
-↗ [Goal-Oriented Requirement Engineering](Goal-Oriented%20Requirement%20Engineering/Goal-Oriented%20Requirement%20Engineering.md)
+↗ [Requirement Engineering (Business Integration)](Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 ↗ [I-Star](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/I-Star.md)
 ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
 
@@ -142,7 +142,7 @@ Requirements engineering has been shown to clearly contribute to software projec
 
 ## Enterprise Architecture (EA)
 > [!links]
-> ↗ [Enterprise Architecture Modeling](Enterprise%20Architecture%20Modeling/Enterprise%20Architecture%20Modeling.md)
+> ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
 > ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
 
 > 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
@@ -165,6 +165,11 @@ Enterprise Architecture (EA) is a discipline which has evolved to structure the 
 <small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
 
 ![](../../../Assets/Pics/Pasted%20image%2020260218183626.png)
+
+
+
+## Data Integration
+↗ [Data Integration](Data%20Integration/Data%20Integration.md)
 
 
 

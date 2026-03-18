@@ -1,4 +1,4 @@
-# Physical Database Design (Software Engineering)
+# Physical Database Design (Physical Modeling)
 
 [TOC]
 

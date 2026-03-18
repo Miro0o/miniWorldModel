@@ -134,6 +134,11 @@ Solution:
 For a variety of applications, basic prompt engineering of a very large LLM can deliver ‘good enough’ accuracy. It provides an economical adaptation method because it is fast and doesn’t involve large amounts of computing power. The downside is that it’s simply not accurate or robust enough for use cases additional background knowledge is required.
 
 
+### Agent Skills
+↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [AI Agent Assistants (General Purpose) & LLM OS](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+
+
 
 ## Context Engineering
 

@@ -295,6 +295,20 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 
 
+## Artificial Neuron & Neuron Networks 🤔
+> [!links]
+> ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+
+![](../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
+<small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
+
+![](../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
+<small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
+
+
+
 ## Turing Machine Equivalents / Turing Complete Models
 > 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents
 

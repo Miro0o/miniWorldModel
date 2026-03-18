@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Enterprise Architecture (EA) & Requirement Engineering (RE)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE).md)
-↗ [BPMS (Business Process Management Systems)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Goal-Oriented%20Requirement%20Engineering/BPMS%20(Business%20Process%20Management%20Systems).md)
+↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+↗ [BPMS (Business Process Management Systems)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Process%20Modeling%20(Process%20Integration)/Declarative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
 
 
 ### Other Resources
@@ -74,7 +74,7 @@ BPMN models are expressed by simple diagrams constructed from a limited set of g
 
 These four categories enable creation of simple business process diagrams (BPDs). BPDs also permit making new types of flow object or artifact, to make the diagram more understandable.
 
-#### Flow Objects and Connecting Objects
+#### Flow Objects
 > 🔗 https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation#Flow_objects_and_connecting_objects
 
 _**Flow objects**_ are the main describing elements within BPMN, and consist of three core elements: events, activities, and gateways.
@@ -82,9 +82,20 @@ _**Flow objects**_ are the main describing elements within BPMN, and consist of
 	- ![|250](../../../../../Assets/Pics/Pasted%20image%2020260306093443.png)
 - Activities
 	- ![|400](../../../../../Assets/Pics/Pasted%20image%2020260306093511.png)
+	- Task
+		- Atomic Operation Performed Only Once
+	- Cyclical activity
+		- Atomic operation performed repeatedly until a condition is true
+	- Parallel multi-instance activity
+		- Multiple operations of the same type carried out in parallel
+	- Receive /Send Tasks
+		- Allows sending/receiving a message (similar to a Message event)
+	- Sub-process
+		- A non-atomic operation that can also be represented as a process
 - Gateways
 	- ![](../../../../../Assets/Pics/Pasted%20image%2020260306093542.png)
-
+#### Connecting Objects
+> 🔗 https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation#Flow_objects_and_connecting_objects
 
 _Flow objects_ are connected to each other using **Connecting objects**, which are of three types: sequences, messages, and associations.
 - ![|300](../../../../../Assets/Pics/Pasted%20image%2020260306093553.png)
@@ -98,9 +109,22 @@ _Flow objects_ are connected to each other using **Connecting objects**, which
 	- Used to organise and categorise activities within a pool according to function or role, and depicted as a rectangle stretching the width or height of the pool. A lane contains the flow objects, connecting objects and artifacts.
 
 **Artifacts** allow developers to bring some more information into the model/diagram. In this way the model/diagram becomes more readable. There are three pre-defined Artifacts, and they are:
-- Data objects: Data objects show the reader which data is required or produced in an activity.
-- Group: A Group is represented with a rounded-corner rectangle and dashed lines. The group is used to group different activities but does not affect the flow in the diagram.
-- Annotation: An annotation is used to give the reader of the model/diagram an understandable impression.
+- **Data objects**: Data objects show the reader which data is required or produced in an activity.
+	- Shows the physical or virtual objects used by the process
+	- Data collection
+		- Aggregates multiple data objects of the same type
+	- Data state
+		- Specifies the state of a data object
+	- Data association
+		- Links a data object to an activity
+		- Can be input, output, or both
+- **Data store**
+	- Shows where the data reside
+- **Group**: A Group is represented with a rounded-corner rectangle and dashed lines. The group is used to group different activities but does not affect the flow in the diagram.
+	- Groups related process elements
+	- Has no effect on the execution of the process
+- **Annotation**: An annotation is used to give the reader of the model/diagram an understandable impression.
+	- Adds a comment to a linked element
 
 
 ### Types of BPMN Sub-model

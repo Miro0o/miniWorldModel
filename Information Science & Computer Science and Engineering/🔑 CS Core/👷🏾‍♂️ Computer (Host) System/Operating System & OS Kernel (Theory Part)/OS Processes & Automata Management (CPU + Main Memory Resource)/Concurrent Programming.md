@@ -12,7 +12,7 @@
 ↗ [Java Concurrent Programming](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java%20Advanced/Java%20Concurrent%20Programming.md)
 ↗ [Python Concurrent Programming](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/📌%20Python%20Basics/Python%20Concurrent%20Programming.md)
 
-↗ [Physical Database Design (Software Engineering) /Transaction Management /Concurrency Control](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Physical Database Design (Software Engineering) /Transaction Management /Concurrency Control](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
 
 ↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
 ↗ [Parallel Computing & Programming](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)

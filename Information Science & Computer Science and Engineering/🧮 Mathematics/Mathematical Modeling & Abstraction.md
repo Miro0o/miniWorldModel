@@ -14,41 +14,6 @@
 ↗ [Function & Mapping of Set](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 ↗ [Number Sequence](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
 
-↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-- ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
-↗ [Cybernetics & Control Theory](Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-
-↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
-
-↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
-- ↗ [Markov Process & Markov Chain (MC)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
-↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [AI Basics & Major Techniques](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
-- ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
-- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
-	- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-	- ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
-
-↗ [Scientific Computing](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
-- ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
-↗ [Modeling Tools](../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
-
-↗ [Logical Database Design (Data Modeling)](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
-↗ [UML (Unified Modeling Language)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
-
-↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
-
-↗ [Game Theory & Decision Making in Multi-Agents Environments](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
-
-↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-
-↗ [Enterprise Architecture (EA) & Requirement Engineering (RE)](../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE)/Enterprise%20Architecture%20(EA)%20&%20Requirement%20Engineering%20(RE).md)
-
 
 ### Other Resources
 https://m3challenge.siam.org/what-is-math-modeling/
@@ -82,6 +47,10 @@ Mathematical models can take many forms, including [dynamical systems](https://
 ### Mathematical Modeling Process
 ![](../../Assets/Pics/Pasted%20image%2020250905221825.png)
 <small><a>https://m3challenge.siam.org/what-is-math-modeling/</a></small>
+
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_model#Construction
+
+
 #### Problem Analysis
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
 
@@ -113,6 +82,18 @@ Mathematical models can take many forms, including [dynamical systems](https://
 > 🔗 https://zh.wikipedia.org/zh-hans/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B
 
 最后使用计算结果解释实际问题，并且分析结果的可靠性。这时常需用到各种[信息可视化](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96 "信息可视化")的技巧。
+
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_model#Construction
+
+
+### Significance in Natural Science
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_model#Significance_in_the_natural_sciences
+
+Mathematical models are of great importance in the natural sciences, particularly in [physics](https://en.wikipedia.org/wiki/Physics "Physics"). Physical [theories](https://en.wikipedia.org/wiki/Theory "Theory") are almost invariably expressed using mathematical models. Throughout history, more and more accurate mathematical models have been developed. [Newton's laws](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion "Newton's laws of motion") accurately describe many everyday phenomena, but at certain limits [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity "Theory of relativity") and [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics") must be used.
+
+It is common to use idealized models in physics to simplify things. Massless ropes, point particles, [ideal gases](https://en.wikipedia.org/wiki/Ideal_gases "Ideal gases") and the [particle in a box](https://en.wikipedia.org/wiki/Particle_in_a_box "Particle in a box") are among the many simplified models used in physics. The laws of physics are represented with simple equations such as Newton's laws, [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations "Maxwell's equations") and the [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation "Schrödinger equation"). These laws are a basis for making mathematical models of real situations. Many real situations are very complex and thus modeled approximately on a computer, a model that is computationally feasible to compute is made from the basic laws or from approximate models made from the basic laws. For example, molecules can be modeled by [molecular orbital](https://en.wikipedia.org/wiki/Molecular_orbital "Molecular orbital") models that are approximate solutions to the Schrödinger equation. In [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering"), physics models are often made by mathematical methods such as [finite element analysis](https://en.wikipedia.org/wiki/Finite_element_analysis "Finite element analysis").
+
+Different mathematical models use different geometries that are not necessarily accurate descriptions of the geometry of the universe. [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry "Euclidean geometry") is much used in classical physics, while [special relativity](https://en.wikipedia.org/wiki/Special_relativity "Special relativity") and [general relativity](https://en.wikipedia.org/wiki/General_relativity "General relativity") are examples of theories that use [geometries](https://en.wikipedia.org/wiki/Geometry "Geometry") which are not Euclidean.
 
 
 ### Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling (MCM /ICM)
@@ -204,6 +185,48 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 
 
 ## Mathematical Models in Application
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+↗ [Cybernetics & Control Theory](Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+
+↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+
+↗ [Probabilistic Models (Distributions) & Stochastic Process](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+- ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
+
+↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [AI Basics & Major Techniques](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
+- ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+- ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+	- ↗ [Neural Network Models](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+	- ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+↗ [AI Embodiment & World Model (WM)](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+
+↗ [Scientific Computing](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
+- ↗ [Modeling and Simulation](../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
+↗ [Modeling Tools](../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
+
+↗ [DBMS Design](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/DBMS%20Design.md)
+- ↗ [Logical Database Design (Data Modeling)](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+- ↗ [Conceptual Database Design (Conceptual Modeling)](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+- ↗ [Physical Database Design (Physical Modeling)](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [UML (Unified Modeling Language)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
+
+↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
+- ↗ [(Formal) Model Checking /1️⃣ System Modeling](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
+- ↗ [Security Protocols Formal Modeling & Verification](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+
+↗ [Game Theory & Decision Making in Multi-Agents Environments](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+
+↗ [System Modeling & Integration](../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+- ↗ [ArchiMate](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
 
 
 

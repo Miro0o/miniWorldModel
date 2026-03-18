@@ -7,8 +7,12 @@
 ## Res
 ### Related Topics
 ↗ [SE /Design & Modeling & Docs /UML](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
-
 ↗ [SE /Design & Modeling & Docs /ERD](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
+
+↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+
+
+### Other Resources
 
 
 
@@ -43,8 +47,6 @@ A uniquely identifiable association that includes one occurrence from each parti
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.11.55%20PM.png)
 
 Diagrammatic representation of complex relationships
-
-
 #### Recursive Relationship
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.12.22%20PM.png)
 
@@ -62,8 +64,6 @@ Diagrammatic representation of complex relationships
 
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.16.30%20PM.png)
-
-
 #### ⭐️ Attributes on Relationships
 Attributes can also be assigned to relationships. 
 

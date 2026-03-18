@@ -14,6 +14,9 @@
 ↗ [Probability Theory & Statistics](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 
+↗ [PyTorch](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20ML%20Libraries/📌%20PyTorch/PyTorch.md)
+↗ [Tensorflow](../../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/🛫%20Foundation%20Models%20&%20Development%20&%20SDKs/ML%20Programming%20&%20Frameworks/Hybrid%20Languages%20&%20Cross%20Platforms/📌%20Tensorflow/Tensorflow.md)
+
 
 ### Learning Resource
 >  More on machine learning go to ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
@@ -153,6 +156,15 @@ https://stanford.edu/~shervine/
 
 ## Intro
 ### Neuron, and The Connection of Information
+
+↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
+<small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
+<small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
+
 ![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
 ![|600](../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.19.48.png)
@@ -208,6 +220,9 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 > - [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=cLC36CWJiJPKQJgT)
 > - [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=UqpVj1vDxOtWAnlc)
 > - [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
+> 
+> 🔥 👍 https://youtu.be/VMj-3S1tku0?si=Yz0rVYWNIJqP39G1
+> The spelled-out intro to neural networks and backpropagation | Andrej Karpathy
 
 1. Linear Perceptrons
 	1. XOR Problems

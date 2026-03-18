@@ -17,6 +17,7 @@
 
 ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
 ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/🪽%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
 - ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 LLM & Academics 🧑‍🎓
@@ -43,17 +44,7 @@ https://intro-llm.github.io
 大语言模型（Large Language Models，LLM）是一种由包含数百亿以上权重的深度神经网络构建的语言模型，使用自监督学习方法通过大量无标记文本进行训练。自2018年以来，包含Google、OpenAI、Meta、百度、华为等公司和研究机构都纷纷发布了包括BERT， GPT等在内多种模型，并在几乎所有自然语言处理任务中都表现出色。2021年开始大模型呈现爆发式的增长，特别是2022年11月ChatGPT发布后，更是引起了全世界的广泛关注。用户可以使用自然语言与系统交互，从而实现包括问答、分类、摘要、翻译、聊天等从理解到生成的各种任务。大型语言模型展现出了强大的对世界知识掌握和对语言的理解。本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。
 
 ---
-🔥 👍 📄 https://github.com/RUCAIBox/LLMSurvey （大语言模型综述 | 中国人民大学高瓴人工智能学院）
-A collection of papers and resources related to Large Language Models.
-The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223).
-To facilitate the reading of our (English-verison) survey, we also translate a [**Chinese version**](https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/LLM_Survey_Chinese.pdf) for this survey. We will continue to update the Chinese version.
-
----
-🔥 📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
-Papers must know to understand the world of deep learning & AIGC
-
----
-🔥 🪜 https://github.com/Hannibal046/Awesome-LLM/tree/main
+🪜 https://github.com/Hannibal046/Awesome-LLM/tree/main
 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ![|500](../../../../../Assets/Pics/Pasted%20image%2020240512212009.png)
@@ -116,7 +107,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-age
 🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 **On the Biology of a Large Language Model | Anthropic**
 We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.
-#### Tutorials & Books
+#### Tutorials & Books & Courses ⭐
 https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/roadmap/
 近几年大语言模型成为大热的方向，也和笔者博士期间的课题非常相关。这篇路线图旨在分享笔者在熟悉和深入深度生成模型这一领域过程中学习和参考的各类课程资料，方便相关领域的从业者或者对生成模型的底层原理感兴趣的朋友共同学习。由于笔者科研之余时间有限，很多课程的实验并未完成，等后续有时间完成之后会在该目录下一一添加。
 其实，大语言模型只是深度生成模型的一个分支，而其他生成模型例如 VAE，GAN，Diffusion Model，Flow 等等，都还在“生成”这一领域占有重要地位，所谓的 AIGC，就是泛指这一类技术。 推荐学习下列课程：
@@ -124,12 +115,56 @@ https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/roadma
 - [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/schedule.html): MIT 新晋明星教授何恺明亲授，涵盖了各种生成模型的基础理论和相关前沿论文，几次作业都有丰富的脚手架代码，难度不高但能加深理解，能对这个领域有个快速全貌了解。
 - [UCB CS294-158-SP24: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home): 强化学习领域的顶级巨佬 Pieter Abbeel 主讲，相比 MIT 的课程内容更加丰富全面，并且有配套课程视频和 Slides。此外课后作业只有测试代码，需要学生自主编写模型架构定义和训练代码，虽然硬核但很适合有志于炼丹的同学练手。众所周知，深度学习理论实践中存在着很多经验技巧，魔鬼往往存在于细节里。没有什么比自己上手训一个模型更能掌握这些细节了。
 - [CMU 10423: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/schedule.html): CMU 的 GenAI 课程，相比前两门课更侧重于大语言模型一些，其他内容和前两门课重合较多。不过课程作业都挺有意思，推荐闲暇时间练练手。
-
 OpenAI 的 GPT 系列让大语言模型在 Scaling Law 的指引下展现出惊人的效果，在数学和代码领域取得了很大进展。如果你主要关注大语言模型这个方向，那么推荐如下课程：
 - [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/index.html): 正如课程标题写的，在这门课程中你将从头编写大语言模型的所有核心组件，例如 Tokenizer，模型架构，训练优化器，底层算子，训练数据清洗，后训练算法等等。每次作业的 handout 都有四五十页 pdf，相当硬核。如果你想充分吃透大语言模型的所有底层细节，那么非常推荐学习这门课程。
 - [CMU 11868: Large Language Model Systems](https://llmsystem.github.io/llmsystem2025spring/): CMU 的大语言模型系统课程，侧重底层系统优化，例如 GPU 加速，分布式训练和推理，以及各种前沿技术。非常适合从事系统领域的同学对这个方向有个全貌性的了解。课表里还包含了一篇我发表的 PD 分离相关的文章，因此私心推荐一下。课程作业的话会让你先实现一个迷你 Pytorch，然后在上面实现各种大语言模型的系统级优化。
 - [CMU 11667: Large Language Models: Methods and Applications](https://cmu-llms.org/) 和 [CMU 11711: Advanced NLP](https://www.phontron.com/class/anlp-fall2024/): 和前两门课相比，这两门课更偏重上层算法和应用，而且每节课都列举了很多相关阅读材料，适合对大语言模型发展前沿的各个方向都有个粗糙的认识，如果对某个子领域感兴趣的话再寻着参考资料深入学习。
 
+https://github.com/PKU-DAIR/Starter-Guide
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的**核心论文**和**经验分享**，将帮助初学者快速熟悉**数据管理(Data Management, DM)** 和 **人工智能(Artificial Intelligence, AI)** 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
+- AI系统方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md)
+	- [AI基础入门](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md#AI%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
+	- [ML/DL系统框架](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md#ML/DL%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B6)
+	- [分布式训练](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md#%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83)
+	- [LLM推理服务](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md#LLM%E6%8E%A8%E7%90%86%E6%9C%8D%E5%8A%A1)
+	- [Diffusion（文生图、文生视频）推理服务](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/systems/Readme.md#diffusion%E6%96%87%E7%94%9F%E5%9B%BE%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%8E%A8%E7%90%86%E6%9C%8D%E5%8A%A1)
+- AutoML方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/autoML/Readme.md)
+	- [AutoML与超参数优化](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/autoML/Readme.md#AutoML%E4%B8%8E%E8%B6%85%E5%8F%82%E6%95%B0%E4%BC%98%E5%8C%96)
+	- [网络结构搜索(NAS)](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/autoML/Readme.md#%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E6%90%9C%E7%B4%A2\(NAS\))
+	- [模型压缩](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/autoML/Readme.md#%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9)
+	- [大语言模型与AutoML](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/autoML/Readme.md#%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8EAutoML)
+- Database方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/database/Readme.md)
+	- [Classical Database System](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/database/Readme.md#Classical-Database-System)
+	- [AI4DB](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/database/Readme.md#AI4DB)
+	- [Vector database](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/database/Readme.md#Vector-Database)
+- AI Agent方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md)
+	- [综述](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md#Survey)
+	- [Agent规划](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md#Agent-planning)
+	- [数据获取与感知](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md#Data-acquisition-and-perception)
+	- [执行与工具使用](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md#Actions/tool-using)
+	- [Agent Benchmark](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/aiAgents/Readme.md#Agent-benchmark)
+- Data-Centric ML方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md)
+	- [Data Centric ML Basic](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md#Data-Centric-ML-Basic)
+	- [LLM and VLM Basic](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md#LLM-and-VLM-Basic)
+	- [Data Centric LLM and VLM Algorithms](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md#Data-Centric-LLM-and-VLM-Algorithms)
+	- [Data Centric LLM and VLM Systems](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md#Data-Centric-LLM-and-VLM-Systems)
+	- [Data-Centric Domain-Specific LLMs](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/dcml/Readme.md#Data-Centric-Domain-Specific-LLMs)
+- 扩散模型方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/diffusion/Readme.md)
+	- [扩散模型基础](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/diffusion/Readme.md#%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80)
+	- [扩散模型加速](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/diffusion/Readme.md#%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B%E5%8A%A0%E9%80%9F)
+	- [文生图/视频](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/diffusion/Readme.md#%E6%96%87%E7%94%9F%E5%9B%BE/%E8%A7%86%E9%A2%91)
+	- [3D/4D生成](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/diffusion/Readme.md#3D/4D%E7%94%9F%E6%88%90)
+- AI for Science方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/science/Readme.md)
+	- [综述](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/science/Readme.md#Survey)
+	- [蛋白质建模](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/science/Readme.md#Protein)
+	- [小分子建模](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/science/Readme.md#Small-molecule)
+	- [DNA/RNA/Cell](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/science/Readme.md#DNA/RNA/Cell)
+- Graph方向 [🔗](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md)
+	- [GNN基础](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md#GNN%E5%9F%BA%E7%A1%80)
+	- [异构图GNN](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md#%E5%BC%82%E6%9E%84%E5%9B%BEGNN)
+	- [以数据为中心的图学习](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md#%E4%BB%A5%E6%95%B0%E6%8D%AE%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%9B%BE%E5%AD%A6%E4%B9%A0)
+	- [GNN加速](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md#GNN%E5%8A%A0%E9%80%9F)
+	- [GNN与LLM结合](https://github.com/PKU-DAIR/Starter-Guide/blob/main/docs/graphs/Readme.md#GNN%E4%B8%8ELLM%E7%BB%93%E5%90%88)
 
 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-tutorials-and-courses
 **LLM Tutorials and Courses**
@@ -214,7 +249,16 @@ Minaee, S., Mikolov, T., Nikzad, N., Chenaghlu, M., Socher, R., Amatriain, X., &
 A collection of papers and resources related to Large Language Models.
 The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223). 
 - Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). _A Survey of Large Language Models_ (arXiv:2303.18223). arXiv. [https://doi.org/10.48550/arXiv.2303.18223](https://doi.org/10.48550/arXiv.2303.18223)
-#### Other Papers
+#### Other Papers ⭐
+👍 📄 https://github.com/RUCAIBox/LLMSurvey （大语言模型综述 | 中国人民大学高瓴人工智能学院）
+A collection of papers and resources related to Large Language Models.
+The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223).
+To facilitate the reading of our (English-verison) survey, we also translate a [**Chinese version**](https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/LLM_Survey_Chinese.pdf) for this survey. We will continue to update the Chinese version.
+
+📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+Papers must know to understand the world of deep learning & AIGC
+
+
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#other-papers (2025.01)
 
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link:
@@ -298,7 +342,9 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 
 ### LLM Modeling ⭐
-↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+> [!links]
+> ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+> ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
