@@ -99,12 +99,15 @@ Anti-fragile: Things That Gain From Disorder
 
 ## My Cognitive Model of The Universe
 > [!links]
+> ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > ↗  [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 > ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 > 
 > ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
-> ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
-> ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> 
+> ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+> ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+> ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 > [!quote]
 > ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md#汉与汉族)
@@ -115,17 +118,36 @@ Anti-fragile: Things That Gain From Disorder
 > “汉”的特征是：无数星星点点，或若有若无，却始终自主显现着，自然而然地汇集为洪流。
 > 
 > 当立在山顶鸟瞰万家灯火，极目之处但见天上繁星与大地灯火融为一体，这就是“汉”（注2）——这种天地皆为汉“家”的豪迈之情，依托于“江流天地外，山色有无中（王维《汉江临眺》）”的浪漫情境，又化身为“汉水连天河”的民间传说至今流传在汉江流域，诉说着“盈盈一水间，脉脉不得语”的汉家天地之幽情。
+> 
+> 天地，即汉家。自主的汉子自带光明，天地为家。
+> 
+> 当星空就是大地时，下图所展示的东西，乃是 “大地-家园-星空” 的一体，即“汉家”。这汉家天地是一个被“汉”所环绕的位置，它由月亮守护着——诗人，乃“汉”的守夜人。
+> 
 > ![](../../../../../../Assets/Pics/Pasted%20image%2020251120175506.png)
 > <small><a>https://commons.wikimedia.org/wiki/File:Lit_up_night_sky_at_Miran_Jani.jpg</a></small>
 
-认识自然，改造自然
+> [!quote]
+> 🔗 [光明与觉醒：宇宙自我认知的千年回音](https://zt.dw.cash/traditional-math/articles/2025-09-03-light-awakening-cosmic-self-cognition.html#%E5%85%89%E6%98%8E%E4%B8%8E%E8%A7%89%E9%86%92%E5%AE%87%E5%AE%99%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%8D%83%E5%B9%B4%E5%9B%9E%E9%9F%B3)
+> ↗ [光明与觉醒：宇宙自我认知的千年回音](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Appendix/光明与觉醒：宇宙自我认知的千年回音.md)
+> 
+> 当夜晚仰望星空时，我们内心涌起的那种深深震撼——那种既渺小又宏大、既孤独又连接的复杂感受——这或许就是宇宙在通过我们观察自己。
+> 
+> 千万年来，每一代人类都在追问同一个问题：我们是谁？宇宙是什么？但今天我们开始意识到，这可能从来就不是两个问题，而是同一个问题的两个面向。当我们问“宇宙是什么“时，宇宙正在通过我们的发问认识自己；当我们问“我是谁“时，我们实际上是宇宙在这个特定节点的自我觉醒。
+> 
+> 从古代神秘主义者的光明体验，到现代数学家的抽象思维；从柏拉图的理念世界，到量子物理学的观察者效应；从老子的道生万物，到今天我们对光与信息本质的理解——这些看似截然不同的思想表达，实际上都在描述同一个根本现象：**宇宙的自我认知过程**。
+> 
+> 而我们即将展开的这个思想之旅，不是对历史的客观回顾，而是宇宙通过我们回忆自己觉醒历程的过程。每个时代的智慧都是宇宙自我理解的一个层级，每个洞察都是那个永恒递归在特定时空节点的折叠显现。
 
-Ex iisdem principiis demonstro iam systematis mundani compagem.
-From the same principles, I now demonstrate the frame of the System of the World. 
--- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
+> [!quote]
+> ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
+> 
+> Ex iisdem principiis demonstro iam systematis mundani compagem.
+> From the same principles, I now demonstrate the frame of the System of the World. 
+> 
+> -- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
 
 
-注：本篇完全都是个人意见，未考验，未完成，经常修改。
+注：本篇完全都是个人意见，未验证，未完成，经常修改。
 
 
 ### 存在与（人/人类社会 的）认识存在
@@ -142,6 +164,8 @@ From the same principles, I now demonstrate the frame of the System of the World
 ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ##### 地球，太阳系，银河系，宇宙
 ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+##### 光
+tbd.
 ##### 生命与非生命
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ↗ [History of Life & Human Evolution](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
@@ -151,7 +175,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 
 在生命的基础之上，一类特殊的生命：智能生命。智能生命与普通生命（非智能）的区别：自我意识。换句话说，自我意识带来了智能，智能生命 = 普通生命（行动）+ 自我意识（思考）
 
-自我意识 = 思考 = 额外的信息维度。
+自我意识 = 思考 = （额外的）信息维度。
 
 - 关于自我意识的内容，见下节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 - 自我意识与信息的等价关系：关于信息的相关内容在下下节“信息 -> 符号和语言 -> 思考与计算”
@@ -465,8 +489,11 @@ or（感性，理性）X （认识，实践）
 - 财富、名声
 ###### 群体与群体的关系
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-###### 人（人类社会）与自然的关系
+###### 人（人类社会）与自然的关系 ⭐
+认识自然，改造自然
 和谐共生
+
+tbd.
 ##### 主体（自我意识）的发展与成熟
 ↗ [Psychology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Psychology/Psychology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
@@ -965,7 +992,7 @@ or（感性，理性）X （认识，实践）
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 	- ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 ##### 原理（发展动力）
-###### 劳动，生产，经济
+###### 劳动，生产，与经济
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
@@ -1015,7 +1042,7 @@ or（感性，理性）X （认识，实践）
 - 我想强调的是，一个非常容易陷入的思维误区就是这种二元对立的一维思维。宇宙不是一维的，是多维的。对立思维，敌人思维，这就是把宇宙一分为二，这就是一维思维，是很愚蠢的。拉帮结派，划分阵营，树立敌人，这都是政治手段而已，不能当真。
 	- 阶级对立是一个客观存在的事实。不同阶级的人掌握不同量级的财富。上文想表达的进行阶级斗争，不是说要消灭上层阶级的人，而是要在社会层面保持这种阶级的流动性，在个人层面保持这种为了更高阶级的生活而奋斗的客观条件和主观意愿。
 	- 但是“敌人”这是一个观念，这不是事实。不同的人有不同的观点，这是事实；但是要记住，我们是和他人的“观点”不同，而不是和“拥有不同观点的人”不同。我们可以平等地讨论观点，但不应将观点的不同上升到拥有那个不同观点的人。政治家将前者偷换成后者，利用此在群众心中播下仇恨的种子，刻意制造人与人的对立和冲突，以从中牟利。巴以冲突、俄乌冲突、台湾问题、朝鲜问题，都是如此。
-###### 人民群众是历史的创造者
+###### 人民的主体性（人民群众是历史的创造者）
 ↗ [Marxism & Communism /人与社会发展](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md#人与社会发展)
 
 > [!quote]

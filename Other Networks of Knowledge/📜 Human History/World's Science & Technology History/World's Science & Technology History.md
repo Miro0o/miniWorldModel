@@ -191,6 +191,7 @@ The Scientific Revolution was enabled by advances in book production. Before th
 
 In the 20th century, [Alexandre Koyré](https://en.wikipedia.org/wiki/Alexandre_Koyr%C3%A9 "Alexandre Koyré") introduced the term "scientific revolution", centering his analysis on Galileo. The term was popularized by [Herbert Butterfield](https://en.wikipedia.org/wiki/Herbert_Butterfield "Herbert Butterfield") in his _Origins of Modern Science_. [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn "Thomas Kuhn")'s 1962 work _[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions "The Structure of Scientific Revolutions")_ emphasizes that different theoretical frameworks—such as [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein "Albert Einstein")'s [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity "Theory of relativity") and [Newton's theory of gravity](https://en.wikipedia.org/wiki/Newton%27s_theory_of_gravity "Newton's theory of gravity"), which it replaced—cannot be directly compared without meaning loss.
 #### Newton’s _Philosophiae Naturalis Principia Mathematica_
+> [!quote]
 > Ex iisdem principiis demonstro iam systematis mundani compagem
 > From the same principles, I now demonstrate the frame of the System of the World. 
 > Isaac Newton.
