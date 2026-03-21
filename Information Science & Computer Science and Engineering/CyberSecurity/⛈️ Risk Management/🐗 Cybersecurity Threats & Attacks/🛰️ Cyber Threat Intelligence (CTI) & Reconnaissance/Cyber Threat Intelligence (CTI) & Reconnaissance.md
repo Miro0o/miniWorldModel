@@ -20,7 +20,11 @@
 ↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/📌%20Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
 ↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Realtime Information - News, Tracking, Tickets, etc.](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Realtime%20Information%20-%20News,%20Tracking,%20Tickets,%20etc..md)
+
+↗ [Data Breaches in Real World](../../../Data%20Security/Data%20Breaches%20in%20Real%20World.md)
+
 ↗ [Reconnaissance & Exploration Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
 
 ↗ [Web & HTML Scraping](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)

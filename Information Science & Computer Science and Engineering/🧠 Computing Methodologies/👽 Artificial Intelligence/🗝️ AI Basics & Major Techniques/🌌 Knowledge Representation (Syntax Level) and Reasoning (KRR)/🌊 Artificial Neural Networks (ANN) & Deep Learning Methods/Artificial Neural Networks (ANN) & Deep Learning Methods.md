@@ -19,8 +19,39 @@
 
 
 ### Learning Resource
->  More on machine learning go to ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+#### Courses
+🏫 [CS 231n Deep Learning for Computer Vision](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision.md)
+🏫 https://cs230.stanford.edu
 
+[CMU 11-785: Introduction to Deep Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CMU11-785/)
+- CMU 11-785 是一门非常“硬核”的深度学习核心课，整体风格扎实、节奏快、几乎没有“水内容”。课程从神经网络基础出发，逐步覆盖 CNN、RNN、Attention/Transformer、优化与泛化等核心主题，适合想把理论与实践一起打牢的同学。
+- 这门课的学习体验更接近“研究生强度训练”：作业通常不只是套模板跑通，而是要求你理解模型行为、训练细节和实验设计。若你希望建立长期可迁移的深度学习能力（而非只会调几个现成 API），这门课的投入产出比很高。
+
+[MIT 6.7960: Deep Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/MIT6-7960/)
+- MIT 6.7960 的优势在于覆盖面相对更广：除了主流的 LLM/NLP 主线，也会涉及计算机视觉等任务与方法，适合希望建立“多方向通识”的学习者，而不是只押注单一赛道。
+- 课程通常会把理论、模型设计和应用案例结合起来，帮助你理解“同一套深度学习思想”如何在不同任务中落地。对自学者来说，这门课的作业和项目也很适合做进阶练手。
+
+[NYU DLSP21: NYU Deep Learning Spring 2021](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/NYU-DLSP21/)
+- 这门课最具辨识度的亮点是由 Yann LeCun 亲自授课。对很多同学而言，这是极少见的公开系统课程资源：可以完整地听到顶级学者从一线研究者视角讲解深度学习。
+- 课程讲解兼顾理论与直觉，整体偏研究导向，适合已完成入门课后继续提升“问题意识”和“建模品味”。把它作为主线课程之外的高质量补充，会非常有价值。
+
+🏫 [CS224N Natural Language Processing with Deep Learning](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS224N%20Natural%20Language%20Processing%20with%20Deep%20Learning/CS224N%20Natural%20Language%20Processing%20with%20Deep%20Learning.md)
+[CS224n: Natural Language Processing](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS224n/)
+- Stanford 的 NLP 入门课程，由自然语言处理领域的巨佬 Chris Manning 领衔教授。内容覆盖了词向量、RNN、LSTM、Seq2Seq 模型、机器翻译、注意力机制、Transformer 等等 NLP 领域的核心知识点。
+- 5 个编程作业难度循序渐进，分别是词向量、word2vec 算法、Dependency parsing、机器翻译以及 Transformer 的 fine-tune。
+- 最终的大作业是在 Stanford 著名的 SQuAD 数据集上训练 QA 模型，有学生的大作业甚至直接发表了顶会论文。
+
+[CS224w: Machine Learning with Graphs](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS224w/)
+
+[CS285: Deep Reinforcement Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS285/)
+CS285 这一课程现由 Sergey Levine 教授讲授，课程内容覆盖了深度强化学习领域的各方面内容，适合有一定机器学习基础的同学进行学习，具体要求包括了解马尔可夫决策过程（MDP）等。整门课程中含有较多的公式，上课前需要有一定的心理准备。此外，教授会根据每年最新的研究进展更新课程内容以及作业，课程中能感受到教授尝试将深度强化学习领域的所有基础知识以及最近的发展在短短的数节课中进行传达。
+
+https://sites.google.com/view/berkeley-cs294-158-sp24/home
+CS294-158-SP24 Deep Unsupervised Learning  | Spring 2024
+About: This course will cover two areas of deep learning in which labeled data is not required: Deep Generative Models and Self-Supervised Learning.  Recent advances in generative models have made it possible to realistically model high-dimensional raw data such as natural images, audio waveforms and text corpora.  Strides in self-supervised learning have started to close the gap between supervised representation learning and unsupervised representation learning in terms of fine-tuning to unseen tasks.  This course will cover the theoretical foundations of these topics as well as their newly enabled applications.  
+- If you want to peek ahead, this semester's offering will be fairly similar to [the previous offering](https://sites.google.com/view/berkeley-cs294-158-sp20/home).
+- Instructors: [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Wilson Yan](https://wilson1yan.github.io/), [Kevin Frans](https://kvfrans.com/), [Philipp Wu](https://wuphilipp.github.io/)
+#### Others
 动手学深度学习, 李沐
 🏠 https://zh.d2l.ai/index.html (ZH)
 🏠 https://d2l.ai/index.html (EN)
@@ -35,12 +66,6 @@
 https://hrl.boyuai.com/chapter/intro
 本书作者在上海交通大学致远学院和电子信息与电气工程学院为大三本科生开设强化学习课程。目前两个学院的强化学习课程在其培养方案中皆为 2 学分，包含了所有授课和实验的学时。在授课和批改学生的课程作业的过程中，我们发现强化学习对于学生和老师来说都是一个较难科目。对于学生，强化学习的理论部分属于机器学习大科目中进阶部分内容，涉及到的数学内容比一般有监督学习更加复杂，而对这些内容的真正理解离不开编程实验，没有第一手的编程实现和调试经验，很多强化学习的原理就无法真切体会。总得来说，对强化学习技术的扎实掌握离不开动手实践，而市面上目前尚未有较为权威的集强化学习原理和动手实践于一体的书籍。
 基于在强化学习研究和教学中的浅薄经验，我们推出这本《动手学强化学习》，旨在探索一种更好的强化学习的教学方式，为中国强化学习的人才培养贡献一份力量。书中难免有错谬之处，还望广大读者不吝指正，我们感激不尽。
-
-🏫 实用机器学习 [CS 329P Practical Machine Learning](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
-🏫 [CS50's Introduction to AI with Python](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
-🏫 [CS188 Introduction to Artificial Intelligence](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
-🏫 [CS 231n Deep Learning for Computer Vision](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision.md)
-🏫 https://cs230.stanford.edu
 
 📖 花书 
 https://www.deeplearningbook.org 花书官网  
@@ -96,11 +121,6 @@ Hello！这是我的学习笔记，主要是ML、DL、RL、CV、NLP、RS等AI相
 5. [雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
     - **推荐理由**：数学推导比较详细，适合想要深入了解的人。
     - **缺陷**：没图，全是公式。另外目前还没在网上找到电子书，我是买的纸质的。
-
-https://github.com/datawhalechina/leedl-tutorial
-李宏毅老师是台湾大学的教授，其[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)是深度学习领域经典的中文视频之一。李老师幽默风趣的授课风格深受大家喜爱，让晦涩难懂的深度学习理论变得轻松易懂，他会通过很多动漫相关的有趣例子来讲解深度学习理论。李老师的课程内容很全面，覆盖了到深度学习必须掌握的常见理论，能让学生对于深度学习的绝大多数领域都有一定了解，从而可以进一步选择想要深入的方向进行学习，培养深度学习的直觉，对于想入门深度学习又想看中文讲解的同学是非常推荐的。
-
-本教程主要内容源于[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)，并在其基础上进行了一定的原创。比如，为了尽可能地降低阅读门槛，笔者对这门公开课的精华内容进行选取并优化，对所涉及的公式都给出详细的推导过程，对较难理解的知识点进行了重点讲解和强化，以方便读者较为轻松地入门。此外，为了丰富内容，笔者在教程中选取了[《机器学习》（2017年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2017-spring.php) 的部分内容，并补充了不少除这门公开课之外的深度学习相关知识。
 
 
 ### Other Resources
@@ -158,12 +178,6 @@ https://stanford.edu/~shervine/
 ### Neuron, and The Connection of Information
 
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
-
-![](../../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
-<small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
-
-![](../../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
-<small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
 
 ![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
 
@@ -223,30 +237,56 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 > 
 > 🔥 👍 https://youtu.be/VMj-3S1tku0?si=Yz0rVYWNIJqP39G1
 > The spelled-out intro to neural networks and backpropagation | Andrej Karpathy
+> This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school. Links:
+> - micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
+> - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
+> - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 
-1. Linear Perceptrons
-	1. XOR Problems
-2. MLP (Multi-Layer Perceptron)
+![](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
 
 
-### MLP (Multi Layer Perceptrons)
+### Mathematical Modeling of Neuron
+↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
+<small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
+<small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
+#### Activation Function
+
+#### Perceptron
+> 🔗 https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea
+
+A **perceptron** is the earliest form of a neural network unit, introduced by **Frank Rosenblatt** in 1958. It is a **binary classifier** that makes predictions based on a linear combination of input features. The perceptron algorithm was one of the first algorithms used to implement a simple neural network.
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260318161242.png)
+<small><a>https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea</a></small>
+##### MLP (Multi Layer Perceptrons)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
 <small>fully connected, dense layer</small>
 
+![](../../../../../../Assets/Pics/Pasted%20image%2020260318161516.png)
+<small><a>https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea</a></small>
 
-### Gradient Descent & Backpropagation
-https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
-Neural networks | 3Blue1Brown
-- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
-- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
-- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
-- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
 
-🎬 https://youtu.be/VMj-3S1tku0?si=GljktCky9TZOrXMF
-This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school. Links:
-- micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
-- jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
-- my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
+### Back-propagation & Gradient Descent
+> [!TIP]
+> https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
+> Neural networks | 3Blue1Brown
+> -  [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0)
+> - [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=DqZgN_65JZfHX-81)
+> - [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=yYl6Vi6Sb-NxWbh5)
+> - [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=w84SrOkyDnMwKSk7)
+> 
+> 🔥 👍 https://youtu.be/VMj-3S1tku0?si=Yz0rVYWNIJqP39G1
+> The spelled-out intro to neural networks and backpropagation | Andrej Karpathy
+> This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school. Links:
+> - micrograd on github: [https://github.com/karpathy/micrograd](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpTMk9PQTViUGt2RElMcEJNWmRTdkhUNnFRZ3xBQ3Jtc0ttV01BaEUtdW04bHF3UTlXNFQycWFiUUFjWGZ1TDZBWnNCWlA1WHpQckxmWE5rVHRvejNMWnFtd0k1M3JQRTN0RUhJRE5XSkRWeEVxeHNIc1VaTExVaXdxVVVUSUkwZEVJaXB3X3h4b0ZQNUJIR3dTUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fmicrograd&v=VMj-3S1tku0)
+> - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
+> - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
+#### Loss Function
+A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 
 
 ### Feed-Forward Neural Networks (FFNN)

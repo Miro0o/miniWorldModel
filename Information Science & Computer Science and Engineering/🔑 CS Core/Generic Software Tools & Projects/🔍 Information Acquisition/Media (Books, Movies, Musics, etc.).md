@@ -1,4 +1,4 @@
-# Books & Streams & Media
+# Media (Books, Movies, Musics, etc.)
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 
@@ -130,6 +133,7 @@ Free movies /TV
 - https://1337x.to
 - https://torrentz2.nz
 
+爱一帆
 
 
 ### 4k /8k /HDR

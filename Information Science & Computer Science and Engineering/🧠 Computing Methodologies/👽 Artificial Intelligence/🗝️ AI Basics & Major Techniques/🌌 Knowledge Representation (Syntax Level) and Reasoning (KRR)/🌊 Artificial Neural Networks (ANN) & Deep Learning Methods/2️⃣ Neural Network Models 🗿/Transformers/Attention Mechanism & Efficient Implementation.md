@@ -1,4 +1,4 @@
-# (Efficient) Attention Mechanism
+# Attention Mechanism & Efficient Implementation
 
 [TOC]
 
@@ -26,6 +26,10 @@ Ring Attention
 Longformer
 Adaptive Sparse Span
 Mamba
+
+https://arxiv.org/abs/2603.15031
+Attention Residuals
+- [Kimi Team](https://arxiv.org/search/cs?searchtype=author&query=Kimi+Team): [Guangyu Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+G), [Yu Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+Y), [Jianlin Su](https://arxiv.org/search/cs?searchtype=author&query=Su,+J), [Weixin Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu,+W), [Siyuan Pan](https://arxiv.org/search/cs?searchtype=author&query=Pan,+S), [Yaoyu Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+Y), [Yucheng Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+Y), [Guanduo Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+G), [Bohong Yin](https://arxiv.org/search/cs?searchtype=author&query=Yin,+B), [Yutian Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+Y), [Junjie Yan](https://arxiv.org/search/cs?searchtype=author&query=Yan,+J), [Ming Wei](https://arxiv.org/search/cs?searchtype=author&query=Wei,+M), [Y. Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+Y), [Fanqing Meng](https://arxiv.org/search/cs?searchtype=author&query=Meng,+F), [Chao Hong](https://arxiv.org/search/cs?searchtype=author&query=Hong,+C), [Xiaotong Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie,+X), [Shaowei Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+S), [Enzhe Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu,+E), [Yunpeng Tai](https://arxiv.org/search/cs?searchtype=author&query=Tai,+Y), [Yanru Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+Y), [Xin Men](https://arxiv.org/search/cs?searchtype=author&query=Men,+X), [Haiqing Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+H), [Y. Charles](https://arxiv.org/search/cs?searchtype=author&query=Charles,+Y), [Haoyu Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu,+H), [Lin Sui](https://arxiv.org/search/cs?searchtype=author&query=Sui,+L), [Jinguo Zhu](https://arxiv.org/search/cs?searchtype=author&query=Zhu,+J), [Zaida Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou,+Z), [Weiran He](https://arxiv.org/search/cs?searchtype=author&query=He,+W), [Weixiao Huang](https://arxiv.org/search/cs?searchtype=author&query=Huang,+W), [Xinran Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu,+X), [Yuzhi Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+Y), [Guokun Lai](https://arxiv.org/search/cs?searchtype=author&query=Lai,+G), [Yulun Du](https://arxiv.org/search/cs?searchtype=author&query=Du,+Y), [Yuxin Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu,+Y), [Zhilin Yang](https://arxiv.org/search/cs?searchtype=author&query=Yang,+Z), [Xinyu Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou,+X)
 
 
 

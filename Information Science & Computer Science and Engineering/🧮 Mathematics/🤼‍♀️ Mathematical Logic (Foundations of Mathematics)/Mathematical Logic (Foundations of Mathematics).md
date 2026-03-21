@@ -224,6 +224,9 @@ Set theory is **one powerful construction** using this toolkit.
 > 
 > ↗ [Classical Logic (Standard Formal Logic)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 > ↗ [Intuitionistic (Constructive) Logic](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Intuitionistic%20(Constructive)%20Logic/Intuitionistic%20(Constructive)%20Logic.md)
+> 
+> ↗ [Proof Theory](Proof%20Theory/Proof%20Theory.md)
+> ↗ [Gentzen-Style Proofs (Natural Deduction)](Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
 Among various methods of logical reasoning, deductive reasoning is deemed to be the best. Among various methods of deductive reasoning, classical logic (standard formal logic) lays the foundation of all other methods of deductions. 
 

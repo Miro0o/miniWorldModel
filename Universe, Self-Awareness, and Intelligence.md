@@ -134,7 +134,7 @@ From the same principles, I now demonstrate the frame of the System of the World
 #### 运动与静止
 > 🔗 https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem
 ##### 相对与绝对
-↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity.md)
+↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
@@ -1233,7 +1233,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 ↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
 ↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
-↗ [Research & QA & Knowledge Websites](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Research%20&%20QA%20&%20Knowledge%20Websites.md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 ---
 [3 人类全量通识知识图谱发布了一篇小红书笔记，快来看吧！ 😆 7VldGvy5z1g 😆]: http://xhslink.com/n/AFWwh89Aota

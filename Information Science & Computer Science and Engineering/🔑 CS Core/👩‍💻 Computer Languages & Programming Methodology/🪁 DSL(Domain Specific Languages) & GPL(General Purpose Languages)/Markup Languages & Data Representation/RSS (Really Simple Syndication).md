@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Realtime Information - News, Tracking, Tickets, etc.](../../../Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Realtime%20Information%20-%20News,%20Tracking,%20Tickets,%20etc..md)
 
 
 ### Articles

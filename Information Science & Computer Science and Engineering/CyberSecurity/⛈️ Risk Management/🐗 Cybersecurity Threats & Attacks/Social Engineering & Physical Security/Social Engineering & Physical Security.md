@@ -31,6 +31,7 @@ To support SET's social engineering attacks, the following general implementatio
 - Gaining access to the system and network through USB
 
 
+
 ## Methodology & Attack Methods
 ### 1️⃣ Technology-based
 - Email phishing: Attacks that utilize the email medium to harvest information or exploit a known software vulnerability in the victim's system are referred to as email phishing.
@@ -65,12 +66,10 @@ There are two keys to successfully launching a social engineering attack. The fi
 However, the majority of the work effort is focused on the second aspect: crafting the attack to entice the target into opening an executable or clicking on a link.
 
 Several attacks produce modules that require the victim to execute them in order for the attack to succeed. Unfortunately, users are increasingly wary about executing unknown software. However, there are some ways to increase the possibility of successful attack execution, including the following:
-
 - Attack from a system that is known and trusted by the intended victim, or spoof the source of the attack. If the attack appears to originate from the help desk or IT support, and claims to be an urgent software update, it will likely be executed:
 	- Rename the executable to resemble the trusted software, such as Java Update.  
 	- Embed the malicious payload into a benign file, such as a PDF file, using an attack such as Metasploit's adobe_pdf_embedded_exe_nojs attack. Executables can also be bound to Microsoft Office files, MSI install files, or BAT files configured to run silently on the desktop.
 	- Have the user click on a link that downloads the malicious executable. 
-
 - Since the SET uses the attacker's URL as the destination for its attacks, a key success factor is to ensure that the attacker's URL is believable to the victim. There are several techniques to accomplish this, including the following:
 	- Shorten the URL using a service such as `https://goo.gl/` or `https://tinyurl.com`. These shortened URLs are common among social media platforms such as Twitter, and victims rarely use precautions when clicking on such links.  
 	- Enter the link on a social media site such as Facebook or LinkedIn; the site will create its own link to replace yours, with an image of the destination page. Then, remove the link that you entered, leaving behind the new social media link.

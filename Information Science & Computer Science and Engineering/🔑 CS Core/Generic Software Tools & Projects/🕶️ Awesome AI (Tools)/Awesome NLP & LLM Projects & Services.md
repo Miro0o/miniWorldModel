@@ -53,7 +53,7 @@ https://wow.groq.com/why-groq/
 #### Anyscale
 #### Mistral
 ### LLM Search Platforms
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 ### LLM Models
 #### ChatGPT

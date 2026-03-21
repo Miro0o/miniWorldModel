@@ -60,6 +60,91 @@ Steven S.Muchnick
 ![img](../../../../../Assets/Pics/v2-021c8f16065c41abc2229967c3dbf1b2_1440w.webp)
 <small>The process of NLP</small>
 
+> 🔗 https://courses.compute.dtu.dk/02247/f26/overview.html#sec-tools-prog-lang
+
+**What is a Compiler? (compilation)?**
+
+A **compiler** is a translator from code written in a **source language** into code written in a **target language**. Typically, the source language operates at a higher level of abstraction, whereas the target language operates at a lower level of abstraction. For example:
+- compiling C++ code into C code (a common approach of the early C++ compilers);
+- compiling C code into x86 assembly;
+- compiling TypeScript into WebAssembly;
+- compiling Java code into Java Virtual Machine bytecode;
+- compiling F# into .NET Common Language Runtime bytecode;
+- …
+
+When the source and target languages have similar levels of abstraction, we typically use the term **transpiler** instead of compiler.
+
+A compiler typically performs the source-to-target language translation in a series of **phases**: each phase takes as input a representation of the code being compiled, and outputs another representation. This way, an overall complex source-to-target translation is broken down into simpler steps, each one having a distinct purpose.
+
+![](../../../../Assets/Pics/Pasted%20image%2020260320145840.png)
+Let us explore the purpose of the phases in [Fig. 2](https://courses.compute.dtu.dk/02247/f26/overview.html#fig-basic-compiler-phases) with an example. Consider the following simple **source program**:
+
+```java
+println(2 + 3) // Should print a number between 4 and 37
+```
+
+The **lexing** phase (a.k.a. **tokenization**) classifies groups of characters in the source program, by recognising e.g. keywords, parentheses, literal integers, operators. Recognised groups of characters are transformed into **tokens**, and irrelevant information in the source program (e.g. white spaces, comments) can be discarded. For example, a tokenization of the program above may look like:
+
+``` java
+PRINTLN
+LPAREN
+LIT_INT 2
+PLUS
+LIT_INT 3
+RPAREN
+```
+
+The **parsing** phase reads a stream of tokens and applies a series of **grammar rules** to reconstruct the syntactic structure of the source code, creating an **Abstract Syntax Tree (AST)**. An analogy with human languages is: each token represents a valid word in a given language, and the parser checks whether a sequence of words forms a grammatically-valid sentence. For example, the sequence of tokens above forms the following AST, which means: there is a top-level `PrintLn` expression with an `arg`ument sub-expression, which in turn is an `Add`ition having two sub-expressions: an `lhs` (left-hand side) which is an `IntVal`ue 2, and a `rhs` (right-hand side) which is an `IntVal`ue 3.
+
+``` java
+PrintLn
+┗╾arg: Add
+       ┣╾lhs: IntVal 2
+       ┗╾rhs: IntVal 3
+```
+
+The **analysis** phase checks whether a given AST is “correct”, and produces an **intermediate representation (IR)** useful for further compilation. The kind of analysis being performed, and the details of the IR, may vary between compilers. A common scenario is: the analysis is based on **type checking**, and the produced IR may be a **typed AST** similar to the input AST, but augmented with type information. For example, the type-checking of the AST above may produce the following typed AST, which tells us that the top-level `PrintLn` expression has type `unit`, i.e., it returns a value of type `unit`. Instead, the `arg`ument sub-expression is an `Add`ition which has type `int`, i.e. it returns an integer value; moreover, the `lhs` and `rhs` sub-expressions also have type `int`.
+
+```java
+PrintLn; type: unit
+┗╾arg: Add; type: int
+       ┣╾lhs: IntVal 2; type: int
+       ┗╾rhs: IntVal 3; type: int
+```
+
+Finally, the **code generation** phase translates the intermediate representation into a target program. For example, if the compiler produces **assembly code**, then the program generated from the typed AST above may look like:
+
+```asm
+.text:
+    li t0, 2
+    li t1, 3
+    add t0, t0, t1
+    addi sp, sp, -8
+    sw a7, 0(sp)
+    sw a0, 4(sp)
+    mv a0, t0
+    li a7, 1
+    ecall
+    lw a7, 0(sp)
+    lw a0, 4(sp)
+    addi sp, sp, 8
+    li a7, 10
+    ecall
+```
+
+
+### Compilation Systems from Programmers' Perspective (Reasons for Programers to Understand Compilation Systems)
+> Quote from CSAPP
+
+However, there are some important reasons why programmers need to understand how compilation systems work:
+- **Optimizing program performance**. Modern compilers are sophisticated tools that usually produce good code. As programmers, we do not need to know the inner workings of the compiler in order to write efficient code. However, in order to make good coding decisions in our C programs, we do need a basic understanding of machine-level code and how the compiler translates different C statements into machine code.
+	- For example, is a switch statement always more efficient than a sequence of if-else statements? How much overhead is incurred by a function call? Is a while loop more efficient than a for loop? Are pointer references more efficient than array indexes? Why does our loop run so much faster if we sum into a local variable instead of an argument that is passed by reference? How can a function run faster when we simply rearrange the parentheses in an arithmetic expression?
+- **Understanding link-time errors**. In our experience, some of the most perplexing programming errors are related to the operation of the linker, especially when you are trying to build large software systems. 
+	- For example, what does it mean when the linker reports that it cannot resolve a reference? What is the difference between a static variable and a global variable? What happens if you define two global variables in different C files with the same name? What is the difference between a static library and a dynamic library? Why does it matter what order we list libraries on the command line? And scariest of all, why do some linker-related errors not appear until run time? 
+- **Avoiding security holes**. For many years, buffer overflow vulnerabilities have accounted for many of the security holes in network and Internet servers. These vulnerabilities exist because too few programmers understand the need to carefully restrict the quantity and forms of data they accept from untrusted sources. A first step in learning secure programming is to understand the consequences of the way data and control information are stored on the program stack.
+
+![](../../../../Assets/Pics/5110EB1C-061B-4B6C-837B-2D52A41666B7_1_105_c.jpeg)
+
 
 ### Compilation Systems Workflow
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)

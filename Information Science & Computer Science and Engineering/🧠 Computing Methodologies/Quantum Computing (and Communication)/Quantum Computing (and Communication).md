@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Quantum Physics](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Physics/Quantum%20Physics.md)
 ↗ [Quantum Cryptography & Post-Quantum Cryptography (PQ)](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ)/Quantum%20Cryptography%20&%20Post-Quantum%20Cryptography%20(PQ).md)
 
 

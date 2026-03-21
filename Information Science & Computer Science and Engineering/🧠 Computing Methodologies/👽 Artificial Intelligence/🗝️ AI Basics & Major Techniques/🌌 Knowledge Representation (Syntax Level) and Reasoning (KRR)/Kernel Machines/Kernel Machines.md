@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Gaussian Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Stationary%20Processes%20and%20Brownian%20Motion%20(Wiener%20Process)/Gaussian%20Process/Gaussian%20Process.md)
 
 
 ### Other Resources

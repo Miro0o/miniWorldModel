@@ -859,7 +859,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 
 ## 🎉 More Res
 > [!links]
-> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 > 
 > ↗ [My Info Lists](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/My%20Info%20Lists.md)
@@ -876,6 +876,15 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 🏠 https://linux.do
 一个计算机中文社区，内容挺丰富的。
 注册需邀请。
+
+---
+https://www.v2ex.com/
+V2EX is a community of start-ups, designers, developers and creative people.  
+  
+V2EX 是创意工作者们的社区。这里目前汇聚了超过 750,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。  
+  
+希望大家能够多多分享自己正在做的有趣事物、交流想法，在这里找到朋友甚至新的机会。并且，最重要的是，在这一切的过程中，保持对他人的友善。
+
 
 ---
 **launchpad help**

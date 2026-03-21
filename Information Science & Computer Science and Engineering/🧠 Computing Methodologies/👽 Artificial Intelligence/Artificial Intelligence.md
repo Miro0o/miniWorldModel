@@ -77,6 +77,9 @@ PEARSON SERIES IN ARTIFICIAL INTELLIGENCE | Stuart Russell and Peter Norvig, Edi
 - RUSSELL & NORVIG
 	- Artificial Intelligence: A Modern Approach, 4th ed.
 
+🏫 [CS50's Introduction to AI with Python](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md) | Harvard
+🏫 [CS188 Introduction to Artificial Intelligence](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md) | UC Berkeley
+
 
 ### Other Resources
 [AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/)
@@ -100,6 +103,11 @@ The bitter lesson | rich sutton
 
 
 ## Intro
+> [!links]
+> ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+
+
 ### What is (Human /Natural) Intelligence?
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
@@ -189,6 +197,12 @@ This chapter defines AI and establishes the cultural background against which it
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
 ##### Performance Measures
+> [!lnks]
+> ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 1
 
 ##### Rationality (理性)
 
@@ -589,6 +603,8 @@ Different tools, same underlying idea.
 
 ## Philosophy, Ethics, and Risks of AI
 > [!links]
+> ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> 
 > ↗ [Philosophy, Ethics, and Risks of AI](Philosophy,%20Ethics,%20and%20Risks%20of%20AI/Philosophy,%20Ethics,%20and%20Risks%20of%20AI.md)
 > ↗ [Trust-worthy AI & LLM Safety and Security](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 
@@ -650,6 +666,8 @@ Most experts are optimistic about continued progress; as we saw on page 46, the 
 #### Sensors and Actuators
 
 #### Representing The State of The World
+> [!links]
+> ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 #### Selecting Actions
 

@@ -24,6 +24,9 @@
 
 
 ### Learning Resources
+> [!links]
+> ↗ [LLM (Large Language Model)](🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
 Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition. Online manuscript released August 24, 2025. https://web.stanford.edu/~jurafsky/slp3.
 - Second Edition: https://home.cs.colorado.edu/~martin/slp.html
 
@@ -81,10 +84,20 @@ The following texts are useful, but none are required. All of them can be read f
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](http://www.deeplearningbook.org/)
 - Delip Rao and Brian McMahan. [Natural Language Processing with PyTorch](http://library.stanford.edu/sfx?genre=book&atitle=&title=Natural%20language%20processing%20with%20PyTorch%20:%20build%20intelligent%20language%20applications%20using%20deep%20learning%20/&isbn=9781491978207&volume=&issue=&date=20190101&aulast=Rao,%20Delip,,%20author.&spage=&pages=&sid=EBSCO:VLeBooks:edsvle.AH35866319) (requires Stanford login).
 - Lewis Tunstall, Leandro von Werra, and Thomas Wolf. [Natural Language Processing with Transformers](https://transformersbook.com/)
-
 If you have no background in neural networks but would like to take the course anyway, you might well find one of these books helpful to give you more background:
 - Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - Eugene Charniak. [Introduction to Deep Learning](https://mitpress.mit.edu/books/introduction-deep-learning)
+
+[CMU 11-711: Advanced Natural Language Processing (ANLP)](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/CMU11-711/)
+- https://www.phontron.com/class/anlp-fall2024/
+- 该课程为研究生级别的 NLP 入门与进阶课程，覆盖从词表征、序列建模，到注意力机制、Transformer 架构，再到大规模语言模型预训练、指令微调与复杂推理、多模态和安全性等前沿主题。与其他同类课程相比，本课程：
+	- **内容全面且紧跟最新研究**：除经典算法外，深入讲解近年热门的大模型方法（如 LLaMa、GPT-4 等）。
+	- **实践性强**：每次课配套代码演示与在线小测，学期末项目需复现并改进一篇前沿论文。
+	- **互动良好**：Piazza 讨论、Canvas 测验及现场答疑，学习体验沉浸而有节奏。
+- 自学建议：
+	- 提前阅读课前推荐文献，跟着阅读顺序循序渐进。
+	- 准备好 Python 环境并熟悉 PyTorch/Hugging Face，因为大量实战代码示例基于此。
+	- 扎实完成课程作业。
 
 
 ### Other Resources

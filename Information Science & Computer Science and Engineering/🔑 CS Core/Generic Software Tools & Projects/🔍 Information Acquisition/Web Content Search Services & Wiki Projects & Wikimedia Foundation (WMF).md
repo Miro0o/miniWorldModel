@@ -125,22 +125,23 @@ https://www.openk9.io
 
 ## 🤖 LLM-Driven Search
 > ↗ [Awesome NLP & LLM Projects & Services](../🕶️%20Awesome%20AI%20(Tools)/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
-### Perplexity
 
-### devv
+Perplexity
+
+devv
 https://devv.ai/zh
 
-### You
+You
 https://you.com/
 
-### Exa
+Exa
 https://exa.ai/
 
-### Poe
+Poe
 
-### Tavily RAG search
+Tavily RAG search
 
-### ithy
+ithy
 https://ithy.com/
 Get the world's most comprehensive response to any question. _Ithy_ combines multiple AIs into a single in-depth report not attainable from any single AI.
 
@@ -207,7 +208,29 @@ Wikidata also provides support to many other sites and services beyond just Wiki
 🏠 https://wikileaks.org
 
 
+## Pro Q/A
+### 👉 Stack Exchange Network
+🏠 https://en.wikipedia.org/wiki/Stack_Exchange
+
+![|300](../../../../../Assets/Pics/Pasted%20image%2020230313093439.png)
+
+
+
+#### StackOverflow
+![|300](../../../../../Assets/Pics/Pasted%20image%2020230313093619.png)
+
+
+👨 [Joel Spolsky](https://www.joelonsoftware.com) Co-founder of Stackoverflow
+
+
+#### Ask Ubuntu
+
+
 
 ## Ref
-[👍 人肉搜索]: https://zh.wikipedia.org/zh-hans/人肉搜索
-[👍 最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA
+[人肉搜索]: https://zh.wikipedia.org/zh-hans/人肉搜索
+[最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA
+
+[Stack Overflow 成功之道]: https://linux.cn/article-6750-1.html
+[从StackOverflow来的值得回味的编程观点]: https://developer.aliyun.com/article/586037
+[从StackOverflow来的值得回味的编程观点]: https://developer.aliyun.com/article/586037

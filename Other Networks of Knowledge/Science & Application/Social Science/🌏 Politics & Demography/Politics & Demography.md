@@ -12,6 +12,8 @@
 ↗ [Political Philosophy](../../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Political%20Philosophy.md)
 ↗ [Economics & Finance](../💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
+↗ [International Opportunities](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
+
 ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 

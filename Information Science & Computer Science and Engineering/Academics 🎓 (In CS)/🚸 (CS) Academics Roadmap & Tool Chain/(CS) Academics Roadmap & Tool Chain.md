@@ -384,6 +384,19 @@ Grammarly
 
 
 ### Plagiarism Checking ⭐ ⭐
+Turnitin
+
+iThenticate
+
+CrossChec
+
+Copycape
+
+Plagiarisma
+
+Smodin
+
+
 https://www.zerogpt.com/
 ZeroGPT the most Advanced and Reliable Chat GPT, GPT4 & AI Content Detector
 
@@ -446,6 +459,17 @@ The **PubPeer** Foundation is a California-registered public-benefit corporati
 ### Paper Acceptance & Analysis
 https://openaccept.org/
 Tracking Paper Acceptance Rates at CS Conferences
+
+
+
+## Socializing & Connections
+> [!links]
+> ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+> ↗ [Scholars & Groups Lists - Theory](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
+> ↗ [Scholars & Groups Lists - Application](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Application.md)
+> ↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+
+[Research Gate](https://www.researchgate.net)
 
 
 

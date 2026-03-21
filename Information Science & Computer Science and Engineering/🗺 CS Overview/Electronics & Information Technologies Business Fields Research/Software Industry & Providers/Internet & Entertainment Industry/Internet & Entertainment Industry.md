@@ -17,7 +17,7 @@
 ↗ [Japanese Information Technology Industry](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/Japanese%20Information%20Technology%20Industry/Japanese%20Information%20Technology%20Industry.md)
 ↗ [South Korean Information Technology Industry](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/South%20Korean%20Information%20Technology%20Industry/South%20Korean%20Information%20Technology%20Industry.md)
 
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 
 ### Other Resources

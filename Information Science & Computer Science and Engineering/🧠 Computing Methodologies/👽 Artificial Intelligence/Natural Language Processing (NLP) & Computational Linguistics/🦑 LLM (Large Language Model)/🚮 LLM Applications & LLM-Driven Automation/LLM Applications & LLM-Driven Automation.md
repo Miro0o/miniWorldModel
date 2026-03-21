@@ -21,7 +21,7 @@
 - ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI & Gaming](../../../../../Software%20Engineering/🤖%20AI4SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 ↗ [Web Automation, Testing, and WebDriver](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 ↗ [AI4Security](../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 ↗ [LLM For Security](../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
@@ -46,7 +46,7 @@
 
 ## 1️⃣ LLM Indexing / Searching
 ### LLM-Driven Automated Content Searching
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 ↗ [Web Automation, Testing, and WebDriver](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
 ↗ [(CS) Academics Roadmap & Tool Chain](../../../../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
 

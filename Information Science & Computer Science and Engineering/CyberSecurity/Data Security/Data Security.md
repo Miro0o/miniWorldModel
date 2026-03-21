@@ -14,6 +14,9 @@
 ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 关注数据从产生到销毁的全生命周期安全措施。

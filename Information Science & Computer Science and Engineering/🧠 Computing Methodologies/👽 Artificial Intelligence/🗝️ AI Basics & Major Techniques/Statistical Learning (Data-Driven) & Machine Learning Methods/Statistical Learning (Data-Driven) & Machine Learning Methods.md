@@ -21,27 +21,105 @@
 
 
 ### Learning Resources
-🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
-
-📖 https://github.com/rasbt/python-machine-learning-book-3rd-edition
-Python Machine Learning, 3rd Ed. to be published December 12th, 2019
-
-🏫 [CS50's Introduction to AI with Python](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50's%20Introduction%20to%20AI%20with%20Python/CS50's%20Introduction%20to%20AI%20with%20Python.md)
-🏫 [CS188 Introduction to Artificial Intelligence](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS188%20Introduction%20to%20Artificial%20Intelligence/CS188%20Introduction%20to%20Artificial%20Intelligence.md)
-🏫 [CS 231n Deep Learning for Computer Vision](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision/CS%20231n%20Deep%20Learning%20for%20Computer%20Vision.md)
-
+#### Courses 
 🏫 [CS 329P Practical Machine Learning](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20329P%20Practical%20Machine%20Learning/CS%20329P%20Practical%20Machine%20Learning.md)
 - https://c.d2l.ai/stanford-cs329p/syllabus.html
 - 【1.1 课程介绍【斯坦福21秋季：实用机器学习中文版】】 https://www.bilibili.com/video/BV13U4y1N7Uo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🏫 [CS229: Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS229/) : Stanford
+- http://cs229.stanford.edu
+- https://www.bilibili.com/video/BV1JE411w7Ub
+🏫 [CS189: Introduction to Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS189/)
+- 课程网站：[https://www.eecs189.org/](https://www.eecs189.org/)
+- 课程视频：[https://www.youtube.com/playlist?list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X](https://www.youtube.com/playlist?list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X)
+- 课程教材：[https://www.eecs189.org/](https://www.eecs189.org/)
+- 课程作业：[https://www.eecs189.org/](https://www.eecs189.org/)
 
-[雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
+https://github.com/datawhalechina/leedl-tutorial
+李宏毅老师是台湾大学的教授，其[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)是深度学习领域经典的中文视频之一。李老师幽默风趣的授课风格深受大家喜爱，让晦涩难懂的深度学习理论变得轻松易懂，他会通过很多动漫相关的有趣例子来讲解深度学习理论。李老师的课程内容很全面，覆盖了到深度学习必须掌握的常见理论，能让学生对于深度学习的绝大多数领域都有一定了解，从而可以进一步选择想要深入的方向进行学习，培养深度学习的直觉，对于想入门深度学习又想看中文讲解的同学是非常推荐的。
+- 本教程主要内容源于[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)，并在其基础上进行了一定的原创。比如，为了尽可能地降低阅读门槛，笔者对这门公开课的精华内容进行选取并优化，对所涉及的公式都给出详细的推导过程，对较难理解的知识点进行了重点讲解和强化，以方便读者较为轻松地入门。此外，为了丰富内容，笔者在教程中选取了[《机器学习》（2017年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2017-spring.php) 的部分内容，并补充了不少除这门公开课之外的深度学习相关知识。
 
+[Machine Learning Compilation](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/MLC/)
+- 这门课是机器学习编译领域的顶尖学者陈天奇在2022年暑期开设的一门在线课程。其实机器学习编译无论在工业界还是学术界仍然是一个非常前沿且快速更迭的领域，国内外此前还没有为这个方向专门开设的相关课程。因此如果对机器学习编译感兴趣想有个全貌性的感知的话，可以学习一下这门课。
+- 本课程主要以 [Apache TVM](https://tvm.apache.org/) 这一主流的机器学习编译框架为例（陈天奇是这个框架的创始人之一），聚焦于如何将开发模式下（如 Tensorflow, Pytorch, Jax）的各类机器学习模型，通过一套普适的抽象和优化算法，变换为拥有更高性能并且适配各类底层硬件的部署模式。课程讲授的知识点都是相对 High-Level 的宏观概念，同时每节课都会有一个配套的 Jupyter Notebook 来通过具体的代码讲解知识点，因此如果从事 TVM 相关的编程开发的话，这门课有丰富且规范的代码示例以供参考。
+- 所有的课程资源全部开源并且有中文和英文两个版本，B站和油管分别有中文和英文的课程录影。
+- 课程网站：[https://mlc.ai/summer22-zh/](https://mlc.ai/summer22-zh/)
+- 课程视频：[Bilibili](https://www.bilibili.com/video/BV15v4y1g7EU?spm_id_from=333.337.search-card.all.click&vd_source=a4d76d1247665a7e7bec15d15fd12349)
+- 课程笔记：[https://mlc.ai/zh/index.html](https://mlc.ai/zh/index.html)
+- 课程作业：[https://github.com/mlc-ai/notebooks/blob/main/assignment](https://github.com/mlc-ai/notebooks/blob/main/assignment)
+#### Videos
+🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬 [AI 论文精读 -- 李沐](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
 
 🎬【【合集】十分钟 机器学习 系列视频 《统计学习方法》】 https://www.bilibili.com/video/BV1No4y1o7ac/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 课程讲义将陆续在公众号“简博士数据分析吧”更新，欢迎订阅
+#### Books
+📖 https://github.com/rasbt/python-machine-learning-book-3rd-edition
+Python Machine Learning, 3rd Ed. to be published December 12th, 2019
 
 📖 Information Theory, Inference, and Learning Algorithms. David J.C. MacKay
+Preface
+1. Introduction to Information Theory
+2. Probability, Entropy, and Inference
+3. More about Inference
+I Data Compression
+4. The Source Coding Theorem
+5. Symbol Codes
+6. Stream Codes
+7. Codes for Integers
+II Noisy-Channel Coding
+8. Dependent Random Variables
+9. Communication over a Noisy Channel
+10. The Noisy-Channel Coding Theorem
+11. Error-Correcting Codes and Real Channels
+ III Further Topics in Information Theory
+12. Hash Codes: Codes for Efficient Information Retrieval
+13. Binary Codes
+14. Very Good Linear Codes Exist
+15. Further Exercises on Information Theory
+16. Message Passing
+17. Communication over Constrained Noiseless Channels
+18. Crosswords and Codebreaking
+19. Why have Sex? Information Acquisition and Evolution
+IV Probabilities and Inference
+20. An Example Inference Task: Clustering
+21. Exact Inference by Complete Enumeration
+22. Maximum Likelihood and Clustering
+23. Useful Probability Distributions
+24. Exact Marginalization
+25. Exact Marginalization in Trellises
+26. Exact Marginalization in Graphs
+27. Laplace’s Method
+28. Model Comparison and Occam’s Razor
+29. Monte Carlo Methods
+30. Efficient Monte Carlo Methods
+31. Ising Models
+32. Exact Monte Carlo Sampling
+33. Variational Methods
+34. Independent Component Analysis and Latent Variable Modelling
+35. Random Inference Topics
+36. Decision Theory
+37. Bayesian Inference and Sampling Theory
+V Neural networks
+38. Introduction to Neural Networks
+39. The Single Neuron as a Classifier
+40. Capacity of a Single Neuron
+41. Learning as Inference
+42. Hopfield Networks
+43. Boltzmann Machines
+44. Supervised Learning in Multilayer Networks
+45. Gaussian Processes
+46. Deconvolution
+VI Sparse Graph Codes
+47. Low-Density Parity-Check Codes
+48. Convolutional Codes and Turbo Codes
+49. Repeat–Accumulate Codes
+50. Digital Fountain Codes
+VII Appendices
+- A. Notation
+- B. Some Physics
+- C. Some Mathematics 
+- Bibliography
+- Index
 
 📖 统计学习方法, 李航
 - 本书共介绍了10种主要的统计学习⽅法：感知机、k近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与最⼤熵模型、⽀持向量机、提升⽅法、EM算法、隐马尔可夫模型和条件随机场。这10种统计学习⽅法的特点概括总结在表12.1中：
@@ -67,7 +145,9 @@ Jean Gallier and Jocelyn Quaintance
 Department of Computer and Information Science, University of Pennsylvania
 April 14, 2025
 
+[雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
 https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/readings/ (2015)
+Mathematics of machine learning
 The class will be split in three main parts:
 1. The Statistical Theory of Machine Learning.
     - Classification, Regression, Aggregation
@@ -81,6 +161,14 @@ The class will be split in three main parts:
     - Online Convex Optimization
     - Partial Information: Bandit Problems
     - Blackwell’s Approachability
+
+“Probabilistic machine learning”: a book series by Kevin Murphy
+- Book 0: “Machine Learning: A Probabilistic Perspective” (2012)
+	- See [this link](https://probml.github.io/pml-book/book0.html)
+- Book 1: “Probabilistic Machine Learning: An Introduction” (2022)
+	- See [this link](https://probml.github.io/pml-book/book1.html)
+- Book 2: “Probabilistic Machine Learning: Advanced Topics” (2023)
+	- See [this link](https://probml.github.io/pml-book/book2.html)
 #### Keras Resources
 - Sequential Model: https://keras.io/models/sequential/
 - Functional API: https://keras.io/models/model/
@@ -102,12 +190,36 @@ News, community, and courses for people building AI-powered products.
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Machine_learning
+
+**Machine learning** (**ML**) is a [field of study](https://en.wikipedia.org/wiki/Field_of_study "Field of study") in [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") concerned with the development and study of [statistical algorithms](https://en.wikipedia.org/wiki/Computational_statistics "Computational statistics") that can learn from [data](https://en.wikipedia.org/wiki/Data "Data") and [generalize](https://en.wikipedia.org/wiki/Generalize "Generalize") to unseen data, and thus perform [tasks](https://en.wikipedia.org/wiki/Task_\(computing\) "Task (computing)") without explicit programming language [instructions](https://en.wikipedia.org/wiki/Machine_code "Machine code"). Within a subdiscipline of machine learning, advances in the field of [deep learning](https://en.wikipedia.org/wiki/Deep_learning "Deep learning") have allowed [neural networks](https://en.wikipedia.org/wiki/Neural_network_\(machine_learning\) "Neural network (machine learning)"), a class of statistical algorithms, to surpass many previous machine learning approaches in performance.
+
+[Statistics](https://en.wikipedia.org/wiki/Statistics "Statistics") and [mathematical optimisation](https://en.wikipedia.org/wiki/Mathematical_optimisation "Mathematical optimisation") (mathematical programming) methods compose the foundations of machine learning. [Data mining](https://en.wikipedia.org/wiki/Data_mining "Data mining") is a related field of study, focusing on [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis "Exploratory data analysis") (EDA) through [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning "Unsupervised learning").
+
+From a theoretical viewpoint, [probably approximately correct learning](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning "Probably approximately correct learning") provides a mathematical and statistical framework for describing machine learning. Most traditional machine learning and deep learning algorithms can be described as [empirical risk minimisation](https://en.wikipedia.org/wiki/Empirical_risk_minimisation "Empirical risk minimisation") under this framework.
+
 > 🔗 https://en.wikipedia.org/wiki/Statistical_learning_theory
 
 **Statistical learning theory** is a framework for [machine learning](https://en.wikipedia.org/wiki/Machine_learning) drawing from the fields of [statistics](https://en.wikipedia.org/wiki/Statistics) and [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis). Statistical learning theory deals with the [statistical inference](https://en.wikipedia.org/wiki/Statistical_inference) problem of finding a predictive function based on data. Statistical learning theory has led to successful applications in fields such as [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [speech recognition](https://en.wikipedia.org/wiki/Speech_recognition), and [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics).
 
 
-### Machine Learning, Statistical Learning, Neural Network & Deep Learning, and AI?
+### Fundamentals
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
+
+↗ [Probability Theory & Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
+- ↗ [Markov Process & Markov Chain (MC)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
+↗ [Bayesian Statistics & Statistical Analysis](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
+
+↗ [Information Theory](../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+
+↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+#### Machine Learning, Statistical Learning, Neural Network & Deep Learning, and AI?
 #machine_learning #statistical_learning #neural_networks #deep_learning #AI
 
 [统计学和机器学习到底有什么区别？]: https://www.jiqizhixin.com/articles/2019-04-24-16
@@ -117,6 +229,41 @@ News, community, and courses for people building AI-powered products.
 [[Machine Learning VS Statistical Learning vs Statistics]: https://stats.stackexchange.com/questions/442128/machine-learning-vs-statistical-learning-vs-statistics
 
 [MACHINE LEARNING VS. STATISTICS]: https://onlinestats.canr.udel.edu/machine-learning-vs-statistics/
+
+
+### Inference
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
+
+
+### Prediction
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
+
+
+### Generation
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
+
+
+### Discovery
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
+
+
+### Action
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
 
 
 
@@ -136,7 +283,7 @@ An agent is **learning** if it improves its performance after making observation
 Why would we want a machine to learn? Why not just program it the right way to begin with? There are two main reasons. First, the designers cannot anticipate all possible future situations. For example, a robot designed to navigate mazes must learn the layout of each new maze it encounters; a program for predicting stock market prices must learn to adapt when conditions change from boom to bust. Second, sometimes the designers have no idea how to program a solution themselves. Most people are good at recognizing the faces of family members, but they do it subconsciously, so even the best programmers don’t know how to program a computer to accomplish that task, except by using machine learning algorithms.
 
 
-### Forms of Learning
+### Forms of Learning 🤔
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 19
@@ -170,9 +317,9 @@ This chapter concentrates on problems where the input is a **factored representa
 When the output is one of a finite set of values (such as sunny/cloudy/rainy or true/false), the learning problem is called **classification**. When it is a number (such as tomorrow’s temperature, measured either as an integer or a real number), the learning problem has the (admittedly obscure^[A better name would have been function approximation or numeric prediction. But in 1886 Francis Galton wrote an influential article on the concept of regression to the mean (e.g., the children of tall parents are likely to be taller than average, but not as tall as the parents). Galton showed plots with what he called “regression lines,” and readers came to associate the word “regression” with the statistical technique of function approximation rather than with the topic of regression to the mean.]) name **regression**.
 
 There are three types of **feedback** that can accompany the inputs, and that determine the three main types of learning:
-- In **supervised learning** the agent observes input-output pairs and learns a function that maps from input to output. For example, the inputs could be camera images, each one accompanied by an output saying “bus” or “pedestrian,” etc. An output like this is called a label. The agent learns a function that, when given a new image, predicts the appropriate label. In the case of braking actions (component 1 above), an input is the current state (speed and direction of the car, road condition), and an output is the distance it took to stop. In this case a set of output values can be obtained by the agent from its own percepts (after the fact); the environment is the teacher, and the agent learns a function that maps states to stopping distance.
-- In **unsupervised learning** the agent learns patterns in the input without any explicit feedback. The most common unsupervised learning task is clustering: detecting potentially useful clusters of input examples. For example, when shown millions of images taken from the Internet, a computer vision system can identify a large cluster of similar images which an English speaker would call “cats.”
-- In **reinforcement learning** the agent learns from a series of reinforcements: rewards and punishments. For example, at the end of a chess game the agent is told that it has won (a reward) or lost (a punishment). It is up to the agent to decide which of the actions prior to the reinforcement were most responsible for it, and to alter its actions to aim towards more rewards in the future.
+- In ==**supervised learning**== the agent observes input-output pairs and learns a function that maps from input to output. For example, the inputs could be camera images, each one accompanied by an output saying “bus” or “pedestrian,” etc. An output like this is called a label. The agent learns a function that, when given a new image, predicts the appropriate label. In the case of braking actions (component 1 above), an input is the current state (speed and direction of the car, road condition), and an output is the distance it took to stop. In this case a set of output values can be obtained by the agent from its own percepts (after the fact); the environment is the teacher, and the agent learns a function that maps states to stopping distance.
+- In ==**unsupervised learning**== the agent learns patterns in the input without any explicit feedback. The most common unsupervised learning task is clustering: detecting potentially useful clusters of input examples. For example, when shown millions of images taken from the Internet, a computer vision system can identify a large cluster of similar images which an English speaker would call “cats.”
+- In ==**reinforcement learning**== the agent learns from a series of reinforcements: rewards and punishments. For example, at the end of a chess game the agent is told that it has won (a reward) or lost (a punishment). It is up to the agent to decide which of the actions prior to the reinforcement were most responsible for it, and to alter its actions to aim towards more rewards in the future.
 
 ![Screenshot 2023-01-28 at 12.26.51 PM](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.26.51%20PM.png)
 
@@ -198,7 +345,6 @@ Key idea: Learn hidden structure or representations.
 - Feedback: reward signal (often delayed)
 - Goal: learn a **policy** that maximizes long-term reward
 Key idea: Learn by trial and error through interaction.
-
 #### Neural Networks and Deep Learning
 ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 - ↗ [Neural Network Models](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
@@ -216,24 +362,29 @@ Deep learning
     - Unsupervised
     - Reinforcement learning
 Key idea: Learn representations and decision functions jointly using deep networks.
-
 #### Ensemble Learning
+↗ [Ensemble Learning](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Ensemble%20Learning.md)
+#### Learning with Fewer Labeled Examples
+> 🔗 https://probml.github.io/pml-book/toc1.pdf
+> Probabilistic Machine Learning: An Introduction
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, March 2022.
 
-#### Transfer Learning
+↗ [Semi-supervised Learning](Supervised%20Learning/🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
+↗ [Transfer Learning](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training/Transfer%20Learning/Transfer%20Learning.md)
+active learning
+meta-learning
+zero-shot /few-shot learning
 
 
-### Learning Models: Parametric & Nonparametric
+### Learning Models: Parametric & Nonparametric 🤔
+> [!links]
+> ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
+
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 19.7
 
-
-### Machine Learning Systems
-![](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
-#### Activation Function
-
-#### Loss Minimization & Loss Function
-A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 
 
 ### The Theory of Learning ⭐
@@ -339,7 +490,7 @@ Suggested Notation for Machine Learning
 > - ↗ [RNN (Recurrent Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RNN%20(Recurrent%20Neural%20Network).md)
 > 	- ↗ [LSTM (Long-Short Term Memories)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
 > - ↗ [GNN (Graph Neural Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
-> - ↗ [GAN (Generative Adversarial Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/🪽%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
+> - ↗ [GAN (Generative Adversarial Network)](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
 > - ↗ [Transformers](../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
@@ -536,6 +687,18 @@ The preceding section dealt with the fully observable case. Many real-world prob
 ![](../../../../../Assets/Pics/Screenshot%202026-02-21%20at%2020.38.58.png)
 
 Hidden variables are important, but they do complicate the learning problem. In Figure 21.11(a), for example, it is not obvious how to learn the conditional distribution for HeartDisease, given its parents, because we do not know the value of HeartDisease in each case; the same problem arises in learning the distributions for the symptoms. This section describes an algorithm called **expectation–maximization**, or EM, that solves this problem in a very general way. We will show three examples and then provide a general description. The algorithm seems like magic at first, but once the intuition has been developed, one can find applications for EM in a huge range of learning problems.
+
+
+
+## Dimensionality Reduction
+> [!links]
+> ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+> ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Principal%20Component%20Analysis%20(PCA)/Principal%20Component%20Analysis%20(PCA).md)
+
+> 🔗 https://probml.github.io/pml-book/toc1.pdf
+> Probabilistic Machine Learning: An Introduction | 20. Dimensionality Reduction
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, March 2022.
 
 
 

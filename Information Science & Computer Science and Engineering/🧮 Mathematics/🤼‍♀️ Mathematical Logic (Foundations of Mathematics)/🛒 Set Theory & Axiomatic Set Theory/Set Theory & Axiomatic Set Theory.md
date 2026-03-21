@@ -24,7 +24,7 @@
 
 
 
-## Intro
+## Intro: From Naive Set Theory to Axiomatic Set Theory
 ![|600](../../../../Assets/Pics/Screenshot%202025-08-04%20at%2000.05.02.png)
 <small>📖 离散数学，四川大学计算机学院</small>
 

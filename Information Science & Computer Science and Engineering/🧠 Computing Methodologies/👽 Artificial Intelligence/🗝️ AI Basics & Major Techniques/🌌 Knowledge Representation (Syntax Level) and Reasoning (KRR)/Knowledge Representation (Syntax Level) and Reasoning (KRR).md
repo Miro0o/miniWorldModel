@@ -76,7 +76,7 @@ A knowledge-based agent can be built simply by TELLing it what it needs to know.
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
 
-### Decision Making & Planning
+### Actions & Decision Making & Planning
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
@@ -84,6 +84,21 @@ A knowledge-based agent can be built simply by TELLing it what it needs to know.
 - ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 
 ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
+
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+
+
+### Causality 🤔
+> [!links]
+> ↗ [Philosophy & Its History](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> 
+> ↗ [Inferential Statistics (Analysis) & Statistical Inference](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference.md)
+> ↗ [Causal Inference in Statistics](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
+
+> 🔗 https://probml.github.io/pml-book/book2.html
+> Probabilistic Machine Learning: Advanced Topics | 36. Causality
+> by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/).  
+> MIT Press, 2023.
 
 
 
@@ -103,7 +118,7 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 #### Deterministic Representation 
 ↗ [Logic Programs & Symbolic Artificial Intelligence](🦴%20Logic%20Programs%20&%20Symbolic%20Artificial%20Intelligence/Logic%20Programs%20&%20Symbolic%20Artificial%20Intelligence.md)
 
-↗ [Decision Trees (CART)](Decision%20Trees%20(CART)/Decision%20Trees%20(CART).md)
+↗ [Decision Trees (CART)](Trees,%20Forests,%20Bagging,%20and%20Boosting/Decision%20Trees%20(CART)/Decision%20Trees%20(CART).md)
 ↗ [Rule-Based Systems](Rule-Based%20Systems/Rule-Based%20Systems.md)
 
 ↗ [Kernel Machines](Kernel%20Machines/Kernel%20Machines.md)
@@ -145,7 +160,6 @@ Section 10.1 introduces the idea of a general ontology, which organizes everythi
 ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 
 ↗ [AI Embodiment & World Model (WM)](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
-
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

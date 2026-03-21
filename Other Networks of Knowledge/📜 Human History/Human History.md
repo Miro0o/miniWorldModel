@@ -187,6 +187,11 @@ https://westportlibrary.libguides.com/worldhistory
 **GeaCron** Interactive World History Atlas since 3000 BC
 互动世界历史地图集（从公元前3000年开始）
 
+👍 👍 👍 https://chronas.org/
+**Chronas** is a history map application with over 50 million data points which users can curate and contribute to (similar to Wikipedia).
+Before you dive in, make sure to watch the short Tutorial Video in the How To section.
+If you have any inquiries, comments or questions, please use the Contact form.
+
 🤔 https://www.allhistory.com/
 以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容，尤其是历史知识。
 
@@ -588,7 +593,7 @@ See also
 - ↗ [Buddhism (Buddha Dharma)](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 - ↗ [Christianity](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
 - ↗ [Islam](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
-- ↗ [Vedism (Brahmanism) & Hinduism](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
+- ↗ [Vedism (Brahmanism) & Hinduism](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy%20&%20Its%20History/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 - ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)

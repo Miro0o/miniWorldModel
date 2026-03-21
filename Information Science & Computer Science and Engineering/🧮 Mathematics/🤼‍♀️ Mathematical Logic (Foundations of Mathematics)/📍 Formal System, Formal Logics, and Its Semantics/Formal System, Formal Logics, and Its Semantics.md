@@ -98,12 +98,16 @@ The term _formalism_ is sometimes a rough synonym for _formal system_, but it
 #### Formal System vs Axiomatic System?
 ↗ [Mathematics](../../Mathematics.md)
 #### Examples of Formal System
-###### Peano Axiom
+Peano Axiom
 ↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
 - ↗ [Natural Number & Peano Axioms](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-##### Formal Logics (Mathematical Logics)
+
+---
+Formal Logics (Mathematical Logics)
 This note.
-##### Simplified Typed Lambda Calculus
+
+---
+Simplified Typed Lambda Calculus
 ↗ [Lambda Calculus (λ-Calculus)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 **Syntax** 
@@ -116,6 +120,7 @@ This note.
 	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
 	- ↗ [Cartesian Closed Category (CCC)](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+
 
 ### The Process of (Logic) Language Formalization ⭐
 > [!links]
