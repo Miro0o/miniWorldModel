@@ -166,7 +166,7 @@ Anti-fragile: Things That Gain From Disorder
 ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 光
 tbd.
-##### 生命与非生命
+##### 生命
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ↗ [History of Life & Human Evolution](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 ###### 生命感知下的信息与时间
