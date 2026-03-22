@@ -165,6 +165,8 @@ Anti-fragile: Things That Gain From Disorder
 ##### 地球，太阳系，银河系，宇宙
 ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 光
+↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md) "常寂光"
+
 tbd.
 ##### 生命
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
@@ -783,6 +785,8 @@ tbd.
 **狭义的智能**：类似人类的认识能力，不包括对宇宙的实践（改造）能力。人类通过制造机器（计算机）进行自动计算，达到这种狭义的智能能力。
 - 目前计算机只能做到基于逻辑（理性）的认识，并不能做到基于情感（感性）的认识（无法计算人类情感）。目前人工智能领域的研究范畴也属于此狭义的智能。
 - 通过对人工智能技术的进一步研究与发展，远景目标是做到能够让计算机达到情感认识的能力，即所谓的人工智能突破奇点。当一个物体，即具有逻辑（理性）能力，又具有情感（感性）能力，这种物体（我认为）就达到了人类同一级别的智能水平，此时这种物体的智能水平和人类的智能水平的差距就只在于计算速度、知识储备等方面，而不具有可计算能力上的差别了。
+##### 文明
+↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
 
 ### 运动与（人/人类社会 的）发展

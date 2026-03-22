@@ -133,13 +133,13 @@ In addition to my favorite searching methods, there are many other search option
 
 
 ### This Notebook and Generative AI
-When I first started taking these notes, one major motivation was how difficult it was to even find the **right tools and resources** for learning computer science. In the beginning, this notebook functioned largely as a curated list (like an ↗ [🤯 Awesome List](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤯%20Awesome%20List.md)) —collecting useful materials and references for topics I encountered along the way. Today, in the era of ChatGPT, that gap is gone forever.
+When I first started taking these notes, one major motivation was how difficult it was to even find the **right tools and resources** for starting to learn computer science. In the beginning, this notebook functioned largely as a curated list (like an ↗ [🤯 Awesome List](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤯%20Awesome%20List.md)) —collecting useful materials and references for topics I encountered along the way, and organizing them in a connected fashion. Today, in the era of ChatGPT, that gap is gone forever (🔗 [the bitter lesson!](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
 
-This naturally raises a question: **what is the value of a notebook like this now**, when we can simply ask an AI whenever we do not know something? Going further, it may even seem that we are approaching a future where knowing things ourselves is no longer necessary, because AI can handle them for us.
+This naturally raises a question: **what is the value of a notebook like this now**, when we can simply ask an AI whenever we do not know something? Going further, it may even seem that we are approaching a future where knowing things ourselves (into the trivial implementing details) is no longer necessary, because AI can handle them for us.
 
-The answer is the same one hinted at earlier. **miniWorldModel** is not about being deep in every individual topic. Instead, it aims to **unify knowledge—especially undergraduate-level computer science—into a single, integrated framework**. It provides a systematic, high-level view of how everything fits together. For me personally, it is also the primary way I organize my own thinking: not just storing information, but structuring understanding.
+The answer is the same one hinted at earlier. miniWorldModel is not about being deep in every individual topic. Instead, it aims to **unify (my personal) knowledge—especially undergraduate-level computer science—into a single, integrated framework**. It provides a systematic, high-level view of how everything fits together. For me personally, it is also the primary way I organize my own thinking: not just storing information, but structuring understanding.
 
-Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the universe. Asking "what is the meaning of this notebook" is equivalent to "what is the meaning of my existence in this universe". And that is for sure AI cannot replace.
+Lastly, again hinted at earlier, this notebook is me. It's my thoughts of the universe. It's the record of my life. Asking "what is the meaning of this notebook" is equivalent to "what is the meaning of my existence in this universe". And that is for sure AI cannot replace.
 
 
 

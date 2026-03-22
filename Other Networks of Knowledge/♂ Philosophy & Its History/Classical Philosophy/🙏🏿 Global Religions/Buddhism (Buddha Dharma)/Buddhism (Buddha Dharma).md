@@ -241,6 +241,12 @@ wikipedia
 2. [方便有余土](https://zh.wikipedia.org/w/index.php?title=%E6%96%B9%E4%BE%BF%E6%9C%89%E9%A4%98%E5%9C%9F&action=edit&redlink=1 "方便有余土（页面不存在）")：断[见](https://zh.wikipedia.org/wiki/%E8%A6%8B%E6%83%91 "见惑")[思](https://zh.wikipedia.org/wiki/%E6%80%9D%E6%83%91 "思惑")烦恼，证得[空性](https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%80%A7 "空性")，出离三界生死之圣者所生之国土，有声闻、缘觉，亦有菩萨。
 3. [实报庄严土](https://zh.wikipedia.org/w/index.php?title=%E5%AF%A6%E5%A0%B1%E8%8E%8A%E5%9A%B4%E5%9C%9F&action=edit&redlink=1 "实报庄严土（页面不存在）")（实报无障碍土）：证得[空性](https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%80%A7 "空性")、[中道](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%81%93_\(%E4%BD%9B%E6%95%99\) "中道 (佛教)")之圣者所居果报国土，只有菩萨，无声闻、缘觉、凡夫。
 4. [常寂光土](https://zh.wikipedia.org/w/index.php?title=%E5%B8%B8%E5%AF%82%E5%85%89%E5%9C%9F&action=edit&redlink=1 "常寂光土（页面不存在）")：佛陀法身所住国土。
+###### 常寂光
+> 🔗 http://m.fodizi.tw/f05/74540.html
+
+指諸佛如來法身所居之淨土。為天台宗所說四土之一。又作寂光淨土、寂光國、寂光土、寂光。佛所住之世界為真如本性，無生滅變化（常）與煩惱之擾亂（寂），而有智慧之光（光），故稱常寂光土。此土乃佛自證最極秘藏之土，以法身、解脫、般若為其體，具足圓滿「常、樂、我、淨」等四德。觀普賢菩薩行法經（大九·三九二下）：「釋迦牟尼佛名毗盧遮那遍一切處，其佛住處名常寂光；常波羅蜜所攝成處，我波羅蜜所安立處，淨波羅蜜滅有相處，樂波羅蜜不住身心相處。」
+
+又此土有分證、究竟之別，分上、中、下三品。依維摩經略疏卷一之說，妙覺法身所居之土為上品寂光土，等覺之一生所居之土為中品寂光土，圓教初住以上所居之土為下品寂光土。北宋僧四明知禮更以實報、寂光二土配當始覺與本覺，而提倡「寂光有相」之說，北宋僧淨覺則倡導「寂光無相」說。［梁譯攝大乘論卷十五、觀無量壽佛經疏卷上、法華經文句卷九之上、觀無量壽佛經疏妙宗鈔卷一］（參閱「化土」1322） p4528
 ##### The Origin of The World (lokadhatu)
 > 🔗 https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99#%E8%B5%B7%E6%BA%90
 

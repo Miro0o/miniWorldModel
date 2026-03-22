@@ -145,6 +145,8 @@ For a variety of applications, basic prompt engineering of a very large LLM can 
 
 
 ## Harness Engineering
+> [!links]
+> ↗ [Cybernetics & Control Theory](../../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
 
 
