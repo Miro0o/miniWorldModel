@@ -9,7 +9,7 @@
 ↗ [Script & Add-ons Management](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
 ↗ [Shell & Script Programming](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
 
-↗ [Web & HTML Scraping](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
+↗ [Web (HTML) Scraping & Anti-Bot](../../../🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Other%20Web%20Related%20Technologies/Web%20(HTML)%20Scraping%20&%20Anti-Bot/Web%20(HTML)%20Scraping%20&%20Anti-Bot.md)
 
 
 ### Other Resources

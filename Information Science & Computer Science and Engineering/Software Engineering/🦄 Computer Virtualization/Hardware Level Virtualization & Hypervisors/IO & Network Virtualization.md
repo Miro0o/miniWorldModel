@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Network Virtualization (NV)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
-- ↗ [NFV (Network Function Virtualization)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
+↗ [Network Virtualization (NV)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+- ↗ [NFV (Network Function Virtualization)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
 
 ↗ [Linux Network Virtualization](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network%20Virtualization/Linux%20Network%20Virtualization.md)
 

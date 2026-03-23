@@ -304,7 +304,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 
 ## Neural Networks Developments
 > [!links]
-> ↗ [Statistical Learning (Data-Driven) & Machine Learning Methods](../../Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods.md)
+> ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
 
 ↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [0x01 Application Layer](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
+↗ [0x01 Application Layer](../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
 ↗ [Web Security](../../../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 
 ↗ [AKD via Public Key Certificates](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/🚛%20Key%20Distribution%20(one-to-many)/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/AKD%20via%20Public%20Key%20Certificates.md)

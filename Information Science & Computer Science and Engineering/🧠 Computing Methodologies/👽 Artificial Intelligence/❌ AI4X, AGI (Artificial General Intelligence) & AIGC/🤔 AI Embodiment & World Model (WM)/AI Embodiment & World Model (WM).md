@@ -13,7 +13,7 @@
 ↗ [Multimodal AI & MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 - ↗ [Image, Video, Vision Models, & VLM (Vision Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Image,%20Video,%20Vision%20Models,%20&%20VLM%20(Vision%20Language%20Model)/Image,%20Video,%20Vision%20Models,%20&%20VLM%20(Vision%20Language%20Model).md)
 
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 
 
 ### List of World Models

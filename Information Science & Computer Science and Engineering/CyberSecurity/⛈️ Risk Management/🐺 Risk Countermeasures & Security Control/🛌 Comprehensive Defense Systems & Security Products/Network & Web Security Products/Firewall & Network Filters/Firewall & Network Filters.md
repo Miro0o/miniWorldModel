@@ -14,7 +14,7 @@
 - netfilters
 - iptables
 - etc.
-↗ [Packet Analyzing & Sniffing & Spoofing](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
+↗ [Packet Analyzing & Sniffing & Spoofing](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 
 ↗ [Internet Censorship & GFW (Great FireWall)](../../../../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Internet%20Censorship%20&%20GFW%20(Great%20FireWall).md)
 ↗ [OpenWRT](../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/OpenWRT/OpenWRT.md)
@@ -213,7 +213,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 
 
 ## Firewall Performance Metrics
-> ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
+> ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
 
 
 ### 1️⃣ Throughput

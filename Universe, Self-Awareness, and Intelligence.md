@@ -11,6 +11,7 @@
 
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 - ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
+
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
@@ -162,12 +163,12 @@ Anti-fragile: Things That Gain From Disorder
 #### 物质与能量
 ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
-##### 地球，太阳系，银河系，宇宙
-↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 光
 ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md) "常寂光"
 
 tbd.
+##### 地球，太阳系，银河系，宇宙
+↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 生命
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ↗ [History of Life & Human Evolution](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
@@ -611,7 +612,7 @@ tbd.
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [Digital (Logic) Electronics Foundations](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
@@ -640,7 +641,7 @@ tbd.
 	- 社会关系的能力，即权力能力
 ###### 信号与信号处理
 ↗ [Information Theory](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
+↗ [Information, Signals, and Communication Technology Intro](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
 ↗ [Signal Processing](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Signal%20Processing/Signal%20Processing.md)
 ↗ [DSP (Digital Signal Processor)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/DSP%20(Digital%20Signal%20Processor)/DSP%20(Digital%20Signal%20Processor).md)
 
@@ -652,7 +653,7 @@ tbd.
 - ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
 ↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
-↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ###### 信息科学和信息处理：计算机与计算机语言
 语言本身只是一套符号系统，可以对信息进行传输和储存，但无法对信息进行计算。
@@ -937,7 +938,7 @@ tbd.
 
 中国和美国两个例子：
 - 中国：一切文化基于人与人之间的不平等。文化权力（等级关系）来源于历史传统形成的文化与思想（“信仰社会 /理性社会”），被事实上的不平等二度加强。
-	- 比如，儒家思想倡导的 三纲五常：君臣、父子、夫妻，实际上都是在说，不同的社会场景下有不同的等级制度；人应该学习这些不同等级制度，在不同场景下时刻注意将自己处于正确的等级，言行举止符合自己的级别。比如说，晚辈要尊敬长辈，下属要尊敬领导，学生要听从老师。这里的“尊敬”，“听从”，就是说行为符合等级（它们就像是数学中的偏序关系）。一般地，我们将行为符合等级称为“美德”。从周朝开始 (?)，我们也有“礼”的概念。礼，就是行为思想符合等级制度的要求（当然，礼在周朝的具体内涵和现代礼的具体内涵是不同的；周朝认为把政治地位高的人君杀了祭天是 “礼”，现代中国认为下属主动向上司敬酒是”礼“），失礼，就是行为思想不符合等级制度的要求，社会就会对这种行为进行惩罚。不论是“美德”还是“礼”，这是从思想上对人的规训，要求人承认社会中的各种等级，并服从这种等级，限制自己的言行举止。从这个角度来看，社会就像一个巨大的RL（↗ [Reinforcement Learning (RL) & Sequential Decision Making](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20Learning%20(Data-Driven)%20&%20Machine%20Learning%20Methods/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)）。
+	- 比如，儒家思想倡导的 三纲五常：君臣、父子、夫妻，实际上都是在说，不同的社会场景下有不同的等级制度；人应该学习这些不同等级制度，在不同场景下时刻注意将自己处于正确的等级，言行举止符合自己的级别。比如说，晚辈要尊敬长辈，下属要尊敬领导，学生要听从老师。这里的“尊敬”，“听从”，就是说行为符合等级（它们就像是数学中的偏序关系）。一般地，我们将行为符合等级称为“美德”。从周朝开始 (?)，我们也有“礼”的概念。礼，就是行为思想符合等级制度的要求（当然，礼在周朝的具体内涵和现代礼的具体内涵是不同的；周朝认为把政治地位高的人君杀了祭天是 “礼”，现代中国认为下属主动向上司敬酒是”礼“），失礼，就是行为思想不符合等级制度的要求，社会就会对这种行为进行惩罚。不论是“美德”还是“礼”，这是从思想上对人的规训，要求人承认社会中的各种等级，并服从这种等级，限制自己的言行举止。从这个角度来看，社会就像一个巨大的RL（↗ [Reinforcement Learning (RL) & Sequential Decision Making](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)）。
 		- 华夏文明：礼仪之大，谓之夏；服章之美，谓之华。从文明的很初期阶段，我们就强调等级制度。这种对等级的强调满足了社会的需求。
 	- 在不同的等级制度中（不同的社会生活场景下），我们对等级的划分和对“言行与等级不符”的容忍度（或者说判定标准）是不同的。比如说，晚辈“不尊敬”长辈，大部分情况是失礼；长辈“不尊敬”晚辈，根据场景可以被分为不失礼（理所当然），小失礼，大失礼等（不同程度的失礼）；下属冲撞领导，大部分情况是失礼，等等。
 		- 要注意，在文化中，我们谈论的并不是“是与不是”的问题，而是“程度与比例”的问题。比如说，晚辈不尊敬长辈，按照中国文化，这在绝大部分情况下是失礼。但这不是说一切晚辈不尊敬长辈的行为都会被中国文化认为是失礼（被认为不是失礼的条件相对苛刻而已）。文化只是一种思考倾向。在与美国的对比中，这种倾向的差异会比现在这个单一的例子更明显。

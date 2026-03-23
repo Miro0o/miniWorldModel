@@ -6,15 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Network Layering Architecture](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Layering%20Architecture.md)
+↗ [Computer Network Layering Architecture](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Layering%20Architecture.md)
 - ![](../../../../../../Assets/Pics/Screenshot%202023-03-27%20at%2010.17.56%20AM.png)
-↗ [0x06 Data Link Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-↗ [0x07 Physical Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
+↗ [0x06 Data Link Layer](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+↗ [0x07 Physical Layer](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
 ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](🛣️%20Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 ↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
 ↗ [Computer IO System & Device Management](../Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
-↗ [Reliable Data Transfer (RDT)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
+↗ [Reliable Data Transfer (RDT)](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 
 ↗ [Motherboard & Mainboard](../Motherboard%20&%20Mainboard.md)
 ↗ [Systems on Chip (SoC)](../🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
@@ -214,12 +214,12 @@ Quite often, devices are divided into master and slave categories; a master devi
 
 **In systems with more than one master device, bus arbitration is required**. Bus arbitration schemes must provide priority to certain master devices and, at the same time, make sure lower-priority devices are not starved out.
 ##### ⭐️ Bus Arbitration Schemes
-> ↗ [Multiple Access Links & Protocols](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
+> ↗ [Multiple Access Links & Protocols](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
 
 1. **Daisychain arbitration**: This scheme uses a “grant bus” control line that is passed down the bus from the highest-priority device to the lowest-priority device. (Fairness is not ensured, and it is possible that low-priority devices are “starved out” and never allowed to use the bus.) This scheme is simple but not fair.
 2. **Centralized parallel arbitration**: Each device has a request control line to the bus and a centralized arbiter that selects who gets the bus. Bottlenecks can result from using this type of arbitration.
 3. **Distributed arbitration using self-selection**: This scheme is similar to centralized arbitration, but instead of a central authority selecting who gets the bus, the devices themselves determine who has the highest priority and who should get the bus.
-4. **Distributed arbitration using collision detection**: Each device is allowed to make a request for the bus. If the bus detects any collisions (multiple simultaneous requests), the device must make another request. (==Ethernet uses this type of arbitration==. ↗ [CSMA with Collision Detection (CSMA-CD)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Random%20Access%20Protocols/Carrier%20Sense%20Multiple%20Access%20(CSMA)/CSMA%20with%20Collision%20Detection%20(CSMA-CD)/CSMA%20with%20Collision%20Detection%20(CSMA-CD).md) )
+4. **Distributed arbitration using collision detection**: Each device is allowed to make a request for the bus. If the bus detects any collisions (multiple simultaneous requests), the device must make another request. (==Ethernet uses this type of arbitration==. ↗ [CSMA with Collision Detection (CSMA-CD)](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Random%20Access%20Protocols/Carrier%20Sense%20Multiple%20Access%20(CSMA)/CSMA%20with%20Collision%20Detection%20(CSMA-CD)/CSMA%20with%20Collision%20Detection%20(CSMA-CD).md) )
 
 
 

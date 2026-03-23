@@ -17,7 +17,7 @@
 - ↗ [The Development History of AI](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 ↗ [History of Information Systems & Security Systems](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
-↗ [History of Computer Networking and Communication Evolution](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
+↗ [History of Computer Networking and Communication Evolution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 ↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
 ↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
@@ -267,7 +267,7 @@ A massive amount of new technologies were developed in the 20th century. Technol
 ↗ [History of Computing](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 
-↗ [Web Development & The Internet](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [The Internet Development (and Web Development)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 
 
 

@@ -27,7 +27,7 @@
 
 ↗ [Reconnaissance & Exploration Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
 
-↗ [Web & HTML Scraping](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
+↗ [Web (HTML) Scraping & Anti-Bot](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Other%20Web%20Related%20Technologies/Web%20(HTML)%20Scraping%20&%20Anti-Bot/Web%20(HTML)%20Scraping%20&%20Anti-Bot.md)
 
 ↗ [News Focus (IT-exclusive)](../../../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 

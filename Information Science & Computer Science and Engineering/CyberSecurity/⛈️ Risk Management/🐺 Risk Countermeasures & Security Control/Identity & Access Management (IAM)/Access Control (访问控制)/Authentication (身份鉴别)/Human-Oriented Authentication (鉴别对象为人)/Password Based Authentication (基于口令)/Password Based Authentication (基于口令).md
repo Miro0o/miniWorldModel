@@ -21,8 +21,8 @@
 
 
 ### 👉 Password Authentication Protocol (PAP)
-> ↗ [PPP (Point-to-Point Protocol)](../../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
-> ↗ [PPP (Point-to-Point Protocol) /⭐ PAP (Password Authentication Protocol)](../../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md#⭐%20PAP%20(Password%20Authentication%20Protocol))
+> ↗ [PPP (Point-to-Point Protocol)](../../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
+> ↗ [PPP (Point-to-Point Protocol) /⭐ PAP (Password Authentication Protocol)](../../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md#⭐%20PAP%20(Password%20Authentication%20Protocol))
 
 > 口令鉴别协议（**password authentication protocol**，**PAP)** 鉴别一般在通信连接建立阶段进行，在数据传输阶段不进行 **PAP**鉴别。
 

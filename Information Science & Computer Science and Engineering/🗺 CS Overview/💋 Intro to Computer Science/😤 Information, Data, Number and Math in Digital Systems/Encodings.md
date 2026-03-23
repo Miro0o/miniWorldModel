@@ -13,7 +13,7 @@
 
 ↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
-↗ [Error Control & EDAC](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
+↗ [Error Control & EDAC](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
 
 ### Other Resources
@@ -99,7 +99,7 @@ Shell在逐行分析内容时，遇到“\n”，认为是一行内容结束。�
 
 
 ### JS Obfuscation
-↗ [JS Obfuscation](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
+↗ [JS Obfuscation](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
 #### JSfuck
 #### Jother
 #### aaencode

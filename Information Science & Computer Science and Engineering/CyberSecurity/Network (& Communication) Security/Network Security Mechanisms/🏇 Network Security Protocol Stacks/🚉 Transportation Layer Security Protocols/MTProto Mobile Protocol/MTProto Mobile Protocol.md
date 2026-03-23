@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Telegram](../../../../../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/🤡%20ALL%20IN%20ONE/Telegram/Telegram.md)
+↗ [Telegram](../../../../../../Software%20Engineering/Galleries%20&%20Awesome%20SE/🤡%20ALL%20IN%20ONE/Telegram/Telegram.md)
 
 
 

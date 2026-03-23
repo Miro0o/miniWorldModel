@@ -9,8 +9,8 @@
 ↗ [Generic Software Tools & Projects](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md)
 
 ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
-- ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/Scientific%20Computing.md)
-- ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/👑%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
+- ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/Scientific%20Computing.md)
+- ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
 
 
 ↗ [R Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/R%20Language/R%20Language.md)

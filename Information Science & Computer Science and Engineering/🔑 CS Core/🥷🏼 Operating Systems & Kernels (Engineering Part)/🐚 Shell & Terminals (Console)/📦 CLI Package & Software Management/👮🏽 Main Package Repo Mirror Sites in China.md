@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [CDN (Contend Delivery Network)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/CDN%20(Contend%20Delivery%20Network).md)
-↗ [CDN Server (CDN Distributed Database)](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/CDN%20Server%20(CDN%20Distributed%20Database)/CDN%20Server%20(CDN%20Distributed%20Database).md)
-↗ [Global CDN Service Providers](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/CDN%20Server%20(CDN%20Distributed%20Database)/Global%20CDN%20Service%20Providers.md)
+↗ [CDN (Contend Delivery Network)](../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/CDN%20(Contend%20Delivery%20Network).md)
+↗ [CDN Server (CDN Distributed Database)](../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/CDN%20Server%20(CDN%20Distributed%20Database)/CDN%20Server%20(CDN%20Distributed%20Database).md)
+↗ [Global CDN Service Providers](../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/CDN%20Server%20(CDN%20Distributed%20Database)/Global%20CDN%20Service%20Providers.md)
 
 
 

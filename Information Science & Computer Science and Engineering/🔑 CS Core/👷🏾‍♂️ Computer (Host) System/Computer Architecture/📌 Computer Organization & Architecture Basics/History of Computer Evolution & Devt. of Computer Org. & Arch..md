@@ -11,7 +11,7 @@
 
 ↗ [Computer (Host) System](../../Computer%20(Host)%20System.md)
 ↗ [History of Computing](../../../../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
-↗ [History of Computer Networking and Communication Evolution](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
+↗ [History of Computer Networking and Communication Evolution](../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 ↗ [History of Information Systems & Security Systems](../../../../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [Computer Languages & Programming Methodology /History & Generations of (High-Level) Programming Languages](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#History%20&%20Generations%20of%20(High-Level)%20Programming%20Languages)
 

@@ -12,7 +12,7 @@
 ↗ [Mermaid](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JS%20Gadgets/Mermaid.md)
 ↗ [MathJax](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JS%20Gadgets/MathJax.md)
 
-↗ [reveal.js](../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
+↗ [reveal.js](../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/reveal.js.md)
 
 
 ### Other Resources

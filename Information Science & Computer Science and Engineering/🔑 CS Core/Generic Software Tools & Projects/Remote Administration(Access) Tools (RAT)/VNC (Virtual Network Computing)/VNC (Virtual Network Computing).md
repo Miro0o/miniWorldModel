@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [RFB (Remote Frame Buffer)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/RFB%20(Remote%20Frame%20Buffer)/RFB%20(Remote%20Frame%20Buffer).md)
+↗ [RFB (Remote Frame Buffer)](../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/RFB%20(Remote%20Frame%20Buffer)/RFB%20(Remote%20Frame%20Buffer).md)
 ↗ [X Window System (X11, X Project)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/📌%20GUI%20Windowing%20Systems%20Standards%20&%20Implementations/X%20Window%20System%20(X11,%20X%20Project)/X%20Window%20System%20(X11,%20X%20Project).md)
 ↗ [X11VNC](X11VNC.md)
 

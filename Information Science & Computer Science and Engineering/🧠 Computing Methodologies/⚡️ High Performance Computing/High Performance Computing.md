@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [High Performance Computer (HPC)](High%20Performance%20Computer%20(HPC).md)
-↗ [IDC & Data Center Networking](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+↗ [IDC & Data Center Networking](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 
 ↗ [Concurrency Control](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [Multiprocessor & Multicore Scheduling](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/Computer%20Resource%20(CPU%20+%20Memory)%20Scheduling/Process%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)

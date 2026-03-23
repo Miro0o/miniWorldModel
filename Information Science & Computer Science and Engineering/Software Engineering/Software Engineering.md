@@ -17,7 +17,7 @@
 ↗ [Java](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 
 🔥 ↗ [Appendix](Appendix.md)
-↗ [Galleries & Awesome SE](🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
+↗ [Galleries & Awesome SE](Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 ↗ [Cracked Software](../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Cracked%20Software.md)
 
 ↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
@@ -52,7 +52,7 @@
 
 ### Program, Software, and Information Systems
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
@@ -116,7 +116,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 ### Software Design & Development
 ↗️ [Software Development Norms & Patterns](Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
-↗ [Web Application System Architecture Design Pattern](☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+↗ [Web Application System Architecture Design Pattern](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
 
 ↗ [Application Software Engineering](☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 ↗ [System Software Engineering](👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
@@ -140,7 +140,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 
 ### Software Maintenance & Operations
-↗ [Web Software Maintenance & Operations Management](☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Software%20Maintenance%20&%20Operations%20Management/Web%20Software%20Maintenance%20&%20Operations%20Management.md)
+↗ [Software Maintenance & Operations Management](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
 
 
 

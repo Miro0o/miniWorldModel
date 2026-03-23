@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [MQTT (Message Queuing Telemetry Transport)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/IoT%20&%20Embedded%20Communication%20Protocols/MQTT%20(Message%20Queuing%20Telemetry%20Transport)/MQTT%20(Message%20Queuing%20Telemetry%20Transport).md)
+↗ [MQTT (Message Queuing Telemetry Transport)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/IoT%20&%20Embedded%20Communication%20Protocols/MQTT%20(Message%20Queuing%20Telemetry%20Transport)/MQTT%20(Message%20Queuing%20Telemetry%20Transport).md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [PPP (Point-to-Point Protocol)](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
+↗ [PPP (Point-to-Point Protocol)](../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
 
 
 

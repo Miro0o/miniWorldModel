@@ -3,6 +3,13 @@
 [TOC]
 
 
+## Res
+### Related Topics
+
+
+### Other Resources
+
+
 
 ## External Dataset
 ### Popular ML datasets
@@ -18,7 +25,6 @@
 
 ### Where to Find Datasets
 - Paperswithcodes Datasets: academic datasets with leaderboard
-
 - Kaggle Datasets: ML datasets uploaded by data scientists
 - Google Dataset search: search datasets in the Web
 - Various toolkits datasets: tensorflow, huggingface
@@ -52,7 +58,8 @@
 
 
 ## Web Scraping
-> via python ↗ [Web & HTML Scraping](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
+> [!links]
+> ↗ [Web (HTML) Scraping & Anti-Bot](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Other%20Web%20Related%20Technologies/Web%20(HTML)%20Scraping%20&%20Anti-Bot/Web%20(HTML)%20Scraping%20&%20Anti-Bot.md)
 
 
 The goal is to extract data from website.
@@ -82,12 +89,9 @@ Many ML datasets are obtained by web scraping
 ↗️ [Web Scraping](../../../../🔑 CS_Core/👩‍💻 Programming Languages/Interpreted Language/Python/Python Application/Web Scraping/Web Scraping.md)
 
 
-
 ### [Common Crawl](https://commoncrawl.org/)
 
 #TODO
-
-
 
 ### ⚖️ Legal Consideration
 - Web scraping isn’t illegal by itself
@@ -96,6 +100,7 @@ Many ML datasets are obtained by web scraping
 - NOT scape copyrighted data(E.g.YouTubevideos,Flickrphotos)
 - Follow the Terms of Service that explicitly prohibits webs craping
 - Consult a lawyer if you are doing it for profit.
+
 
 
 ## Ref

@@ -11,7 +11,7 @@
 ### Related Topics
 ↗ [VMWare](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/VMWare.md)
 
-↗ [VMware vmnet](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/VMware%20vmnet.md)
+↗ [VMware vmnet](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/VMware%20vmnet.md)
 ↗ [VMware ESXi & VMware vSphere](../../Native%20Hypervisor%20(Bare%20Metal)/VMware%20ESXi%20&%20VMware%20vSphere/VMware%20ESXi%20&%20VMware%20vSphere.md)
 ↗ [VMware Server](VMware%20Server.md)
 

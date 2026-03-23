@@ -17,7 +17,7 @@ For more, see [Learn about WSGI](https://wsgi.readthedocs.io/en/latest/learn.ht
 
 
 ### Related Topics
-↗ [CGI (Common Gateway Interface)](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Server%20Side%20API/CGI%20(Common%20Gateway%20Interface).md)
+↗ [CGI (Common Gateway Interface)](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/👬%20APIs%20&%20Interfaces%20in%20Web%20Development/Web%20Server%20Side%20API/CGI%20(Common%20Gateway%20Interface).md)
 
 
 ### Other Materials

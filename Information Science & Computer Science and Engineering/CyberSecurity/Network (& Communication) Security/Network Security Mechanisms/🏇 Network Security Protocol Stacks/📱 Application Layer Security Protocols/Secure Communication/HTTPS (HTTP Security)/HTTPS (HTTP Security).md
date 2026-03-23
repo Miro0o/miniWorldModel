@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-HTTPS = ↗ [HTTP (HyperText Transfer Protocol)](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md) + ↗ [SSL_TLS Protocol](../../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL_TLS%20Protocol.md)
+HTTPS = ↗ [HTTP (HyperText Transfer Protocol)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md) + ↗ [SSL_TLS Protocol](../../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL_TLS%20Protocol.md)
 
 
 

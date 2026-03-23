@@ -5,8 +5,13 @@
 
 
 ## Res
-### Galleries
-↗ [Mobile Application Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Mobile%20Application%20Galleries/Mobile%20Application%20Galleries.md)
+### Related Topics
+↗ [Mobile Application Galleries](../../Galleries%20&%20Awesome%20SE/Mobile%20Application%20Galleries/Mobile%20Application%20Galleries.md)
+
+↗ [The Internet Development (and Web Development)](../🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+
+
+### Other Resources
 
 
 
@@ -17,6 +22,3 @@
 
 
 ## Ref
-
-
-

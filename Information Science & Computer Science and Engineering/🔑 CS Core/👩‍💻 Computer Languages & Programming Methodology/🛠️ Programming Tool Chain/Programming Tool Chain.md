@@ -29,7 +29,7 @@
 
 
 ## Compilers & Program Loaders
-> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 
 ↗ [Compilation & Program Loading Tools](Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 - ↗ [Assemblers](Compilation%20&%20Program%20Loading%20Tools/Assemblers/Assemblers.md)

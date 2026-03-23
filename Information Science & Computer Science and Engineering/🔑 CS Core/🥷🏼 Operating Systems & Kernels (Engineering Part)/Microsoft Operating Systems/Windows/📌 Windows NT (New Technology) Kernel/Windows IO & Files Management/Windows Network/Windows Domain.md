@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Microsoft Active Directory Domain Service (ADDS)](../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS)/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS).md)
+↗ [Microsoft Active Directory Domain Service (ADDS)](../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS)/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS).md)
 
 ↗ [Network Management Basics](../../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 ↗ [SAMBA](../../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/SAMBA.md)
@@ -35,7 +35,7 @@ Computers can connect to a domain via [LAN](https://en.wikipedia.org/wiki/LAN "
 
 
 ### Domain Controller
-> ↗ [Microsoft Active Directory Domain Service (ADDS)](../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS)/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS).md)
+> ↗ [Microsoft Active Directory Domain Service (ADDS)](../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS)/Microsoft%20Active%20Directory%20Domain%20Service%20(ADDS).md)
 > ↗ [SAMBA](../../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/SAMBA.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Windows_domain#Domain_controller

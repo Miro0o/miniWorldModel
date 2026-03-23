@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [Port Scan & Port Discovery](../../../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Network-Based/Port%20Scan%20&%20Port%20Discovery.md)
 
-↗ [0x04 Transport Layer](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/0x04%20Transport%20Layer.md)
-- ↗ [TCP (Transmission Control Protocol)](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/📌%20TCP%20(Transmission%20Control%20Protocol)/TCP%20(Transmission%20Control%20Protocol).md)
-- ↗ [UDP (Use Datagram Protocol)](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/📌%20UDP%20(Use%20Datagram%20Protocol)/UDP%20(Use%20Datagram%20Protocol).md)
+↗ [0x04 Transport Layer](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/0x04%20Transport%20Layer.md)
+- ↗ [TCP (Transmission Control Protocol)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/📌%20TCP%20(Transmission%20Control%20Protocol)/TCP%20(Transmission%20Control%20Protocol).md)
+- ↗ [UDP (Use Datagram Protocol)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x04%20Transport%20Layer/📌%20UDP%20(Use%20Datagram%20Protocol)/UDP%20(Use%20Datagram%20Protocol).md)
 
 
 ### Other Resources

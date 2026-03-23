@@ -144,7 +144,7 @@ exa is unmaintained, use the fork `eza` instead! 2024-01-24 :(
 ## Database Integration
 ### 👉 mycli
 🏠 https://github.com/dbcli/mycli
-↗ [MySQL](../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/🌙%20MySQL/MySQL.md)
+↗ [MySQL](../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/🌙%20MySQL/MySQL.md)
 
 A command line client for MySQL that can do auto-completion and syntax highlighting.
 
@@ -170,7 +170,7 @@ HomePage: [http://mycli.net](http://mycli.net/) Documentation: [http://mycli.
 
 ### 👉 pgcli
 🏠 https://www.pgcli.com/
-↗ [PostgreSQL](../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/Object-Relational%20Database/PostgreSQL/PostgreSQL.md)
+↗ [PostgreSQL](../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/Object-Relational%20Database/PostgreSQL/PostgreSQL.md)
 
 Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
 

@@ -69,11 +69,11 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 
 
 ### 👉 `GitHubpage` | `GithubBook`
-↗ [Github Page & Github Book](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
+↗ [Github Page & Github Book](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
 
 
 ### 👉 `Giscus`
-↗ [giscus](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Commenting/giscus.md)
+↗ [giscus](../../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Commenting/giscus.md)
 
 
 

@@ -9,8 +9,8 @@
 ↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
 ↗ [WireGuard](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 
-↗ [Reverse Proxy Servers & Application Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
-- ↗ [frp (A Fast Reverse Proxy)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
+↗ [Reverse Proxy Servers & Application Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
+- ↗ [frp (A Fast Reverse Proxy)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
 
 
 ### Proxy Software
@@ -169,8 +169,6 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 5. [Mac让Mail(自带邮箱客户端)的gmail走代理及终端走代理](https://www.xiebruce.top/1061.html)
 
 [拆解“翻墙”：50个“翻墙”行政处罚案例之解析]: https://mp.weixin.qq.com/s/4AUBEY39EaIhbxjO94J7Og
-
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaSnMfKUYm4sOz6tmzmupuLMQFxalo6DkfFsqbg1ibgCq7z3tIepetsiaDnuUUunds8fgsb7VoeF20DnpA29sZ1icA/640?wx_fmt=png)
 
 [SwitchyOmega | github]: https://github.com/FelisCatus/SwitchyOmega
-

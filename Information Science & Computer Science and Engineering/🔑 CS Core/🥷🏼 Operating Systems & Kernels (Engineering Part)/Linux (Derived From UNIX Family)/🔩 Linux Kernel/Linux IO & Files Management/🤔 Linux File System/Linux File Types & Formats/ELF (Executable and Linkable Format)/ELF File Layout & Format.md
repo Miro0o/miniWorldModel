@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Compilation & Program Loading Tools](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-↗ [Compilation Phase](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Compilation Phase](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
 ↗ [ELF and ABI Standards](../../../../../Linux%20Referenced%20Specifications/ELF%20and%20ABI%20Standards.md)
 
@@ -89,8 +89,8 @@ ELF loaded in memory:
 
 
 ### ELF File Execution
-↗ [Programming Language Processing & Program Execution](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
-↗ [Program Execution (Runtime)](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+↗ [Programming Language Processing & Program Execution](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
+↗ [Program Execution (Runtime)](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 
 
 
@@ -594,9 +594,9 @@ Division of segments / sections:
 
 
 ## ELF File in Linking & Loading
-> ↗ [Program Linking & Loading (Link-time & Load-time)](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
-> ↗ [ELF File Static Linking](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Static%20Linking%20Procedure/ELF%20File%20Static%20Linking.md)
-> ↗ [ELF File Dynamic Linking & Loading](../../../../../../../🛣️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Dynamic%20Linking%20&%20Loading%20Procedure/ELF%20File%20Dynamic%20Linking%20&%20Loading.md)
+> ↗ [Program Linking & Loading (Link-time & Load-time)](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
+> ↗ [ELF File Static Linking](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Static%20Linking%20Procedure/ELF%20File%20Static%20Linking.md)
+> ↗ [ELF File Dynamic Linking & Loading](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Dynamic%20Linking%20&%20Loading%20Procedure/ELF%20File%20Dynamic%20Linking%20&%20Loading.md)
 
 
 ### Dynamic 

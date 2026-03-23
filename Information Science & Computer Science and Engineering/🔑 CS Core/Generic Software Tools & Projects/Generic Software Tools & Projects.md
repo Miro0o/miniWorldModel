@@ -8,7 +8,7 @@
 ### Other Notes Containing Tools & Productive Software
 ↗ [🤯 Awesome List](../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
 ↗ [📌 Awesome Open Source CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
-↗ [Galleries & Awesome SE](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
+↗ [Galleries & Awesome SE](../../Software%20Engineering/Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 
 ↗ [Shell & Terminals (Console)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 - ↗ [Linux Free Software & FLOSS & FOSS](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)

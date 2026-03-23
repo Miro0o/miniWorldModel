@@ -13,7 +13,7 @@
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 ↗ [Computer Engineering, Embedded & IoT](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-↗ [Computer Networking and Communication](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [Computer Networking and Communication](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [ICT System Reliability (Correctness) & Verification](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 ↗ [Software Engineering](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/Software%20Engineering.md)
 

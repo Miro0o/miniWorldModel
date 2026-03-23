@@ -10,7 +10,7 @@
 
 ↗ [Graph Theory](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 
-↗ [GDBMS (Graph)](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/GDBMS%20(Graph)/GDBMS%20(Graph).md)
+↗ [GDBMS (Graph)](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/GDBMS%20(Graph)/GDBMS%20(Graph).md)
 ↗ [Graph Analysis Platforms](Graph%20Analysis/🚣🏻‍♂️%20Graph%20Analysis%20Platforms/Graph%20Analysis%20Platforms.md)
 ↗ [Graph Computing Engines](Graph%20Analysis/🔥%20Graph%20Computing%20Engines/Graph%20Computing%20Engines.md)
 

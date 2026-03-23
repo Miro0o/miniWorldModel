@@ -13,7 +13,7 @@
 - ↗ [Hardware Level Virtualization & Hypervisors](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hardware%20Level%20Virtualization%20&%20Hypervisors.md)
 
 ↗ [OS Level Virtualization & Containers Technology](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/OS%20Level%20Virtualization%20&%20Containers%20Technology.md)
-↗ [Network Virtualization (NV)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+↗ [Network Virtualization (NV)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
 
 ↗ [Operating System Security (& Mobile Security)](../../System%20Security/🧸%20Operating%20System%20Security%20(&%20Mobile%20Security)/Operating%20System%20Security%20(&%20Mobile%20Security).md)
 

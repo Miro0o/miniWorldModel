@@ -7,15 +7,15 @@
 ## Res
 ### Related Topics
 ↗ [IEEE 802.11 Security Standards & WPA](../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)
-↗ [IEEE 802 Family](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/IEEE%20802%20Family.md)
-- ↗ [LAN, WLAN & WiFi (802.11)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/LAN,%20WLAN%20&%20WiFi%20(802.11).md)
-	- ↗ [Wi-Fi Alliance & WiFi Technology](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/Wi-Fi%20Alliance%20&%20WiFi%20Technology/Wi-Fi%20Alliance%20&%20WiFi%20Technology.md)
-- [Wireless PAN (802.15)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/Wireless%20PAN%20(802.15)/Wireless%20PAN%20(802.15).md)
+↗ [IEEE 802 Family](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/IEEE%20802%20Family.md)
+- ↗ [LAN, WLAN & WiFi (802.11)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/LAN,%20WLAN%20&%20WiFi%20(802.11).md)
+	- ↗ [Wi-Fi Alliance & WiFi Technology](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/LAN,%20WLAN%20&%20WiFi%20(802.11)/Wi-Fi%20Alliance%20&%20WiFi%20Technology/Wi-Fi%20Alliance%20&%20WiFi%20Technology.md)
+- [Wireless PAN (802.15)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📌%20IEEE%20802%20Family/Wireless%20PAN%20(802.15)/Wireless%20PAN%20(802.15).md)
 
 ↗ [WiFi Attacks & Cracking](../../Network%20Threats%20&%20Attacks/Link%20Layer%20&%20Physical%20Layer%20Attacks/WiFi%20Attacks%20&%20Cracking/WiFi%20Attacks%20&%20Cracking.md)
 
-↗ [Wireless & Mobile Network](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20&%20Mobile%20Network.md)
-- ↗ [Wireless Access](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20Access/Wireless%20Access.md)
+↗ [Wireless & Mobile Network](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20&%20Mobile%20Network.md)
+- ↗ [Wireless Access](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Wireless%20Access/Wireless%20Access.md)
 
 ↗ [Physical (Link) Layer Security Protocols](../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Physical%20(Link)%20Layer%20Security%20Protocols.md)
 - ↗ [IEEE 802.11 Security Standards & WPA](../🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.11%20Security%20Standards%20&%20WPA/IEEE%20802.11%20Security%20Standards%20&%20WPA.md)

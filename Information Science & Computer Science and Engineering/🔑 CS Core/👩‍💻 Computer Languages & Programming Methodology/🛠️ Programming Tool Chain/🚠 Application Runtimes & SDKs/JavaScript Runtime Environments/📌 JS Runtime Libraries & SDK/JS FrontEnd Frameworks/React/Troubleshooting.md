@@ -5,7 +5,7 @@
 
 
 ## 👉 `TypeError: results.map is not a function`
-> NOTE: in my case this has something to do with this ↗ [`ER_WRONG_FIELD_WITH_GROUP` | Disable `ONLY_FULL_GROUP_BY`](../../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/🌙%20MySQL/Troubleshooting.md) problem
+> NOTE: in my case this has something to do with this ↗ [`ER_WRONG_FIELD_WITH_GROUP` | Disable `ONLY_FULL_GROUP_BY`](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/🌙%20MySQL/Troubleshooting.md) problem
 
 
 Function `map()` can be used only on **array**. In this situation it looks like `props.results` is not array or has not been set yet (this can happen if you are fetching data with Axios or something like that).

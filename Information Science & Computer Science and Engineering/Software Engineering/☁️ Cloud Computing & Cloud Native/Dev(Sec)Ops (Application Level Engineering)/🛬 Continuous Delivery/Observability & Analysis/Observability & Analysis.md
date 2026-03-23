@@ -8,7 +8,7 @@
 📂 https://landscape.cncf.io/guide#observability-and-analysis
 
 ### Related Topics
-↗ [Web Software Maintenance & Operations Management](../../../../☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Software%20Maintenance%20&%20Operations%20Management/Web%20Software%20Maintenance%20&%20Operations%20Management.md)
+↗ [Software Maintenance & Operations Management](../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
 
 
 ### Learning Resources
