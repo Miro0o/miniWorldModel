@@ -70,8 +70,8 @@ Input and Output States
 
 
 ### Information Flow Control & Analysis
-↗ [🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security.md)
-↗ [Taint Analysis](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control,%20Analysis,%20and%20Security/Taint%20Analysis.md)
+↗ [🧑🏻‍🦽‍➡️ Information Flow Control (IFC) - Analysis and Security](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control%20(IFC)%20-%20Analysis%20and%20Security/🧑🏻‍🦽‍➡️%20Information%20Flow%20Control%20(IFC)%20-%20Analysis%20and%20Security.md)
+↗ [Taint Analysis](🧑🏻‍🦽‍➡️%20Information%20Flow%20Control%20(IFC)%20-%20Analysis%20and%20Security/Taint%20Analysis.md)
 
 
 

@@ -1,4 +1,4 @@
-# 🧑🏻‍🦽‍➡️ Information Flow Control, Analysis, and Security
+# 🧑🏻‍🦽‍➡️ Information Flow Control (IFC) - Analysis and Security
 
 [TOC]
 
