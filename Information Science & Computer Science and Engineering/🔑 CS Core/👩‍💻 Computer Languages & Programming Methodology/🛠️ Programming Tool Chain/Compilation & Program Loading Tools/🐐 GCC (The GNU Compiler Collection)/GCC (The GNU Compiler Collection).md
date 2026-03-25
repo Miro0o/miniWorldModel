@@ -10,6 +10,12 @@
 GCC, the GNU Compiler Collection is not only GNU C Compiler! 
 
 
+### Related Topics
+
+
+### Other Resources
+
+
 
 ## Intro
 ![img](../../../../../../Assets/Pics/gccegg-65.png)

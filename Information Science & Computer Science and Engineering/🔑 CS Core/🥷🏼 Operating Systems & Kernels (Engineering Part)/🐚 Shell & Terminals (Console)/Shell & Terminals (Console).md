@@ -27,6 +27,7 @@ Record and share your terminal sessions, the simple way.
 
 
 ## Intro
+> [!links]
 > ↗ [FAQ /👉 Terminal(TTY, PTY, etc.) & Consoles](FAQ.md#👉%20Terminal(TTY,%20PTY,%20etc.)%20&%20Consoles)
 
 > 🔗 https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html (This website has been archived under the current directory)
