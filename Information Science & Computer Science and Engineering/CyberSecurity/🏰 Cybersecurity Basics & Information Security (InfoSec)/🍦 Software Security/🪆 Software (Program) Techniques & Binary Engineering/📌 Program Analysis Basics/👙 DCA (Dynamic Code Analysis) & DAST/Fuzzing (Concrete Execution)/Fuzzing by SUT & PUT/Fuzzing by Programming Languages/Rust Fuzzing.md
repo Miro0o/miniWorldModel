@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Rust](../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/⚙️%20Rust/Rust.md)
+↗ [Rust](../../../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/⚙️%20Rust/Rust.md)
 
 
 ### Other Resources

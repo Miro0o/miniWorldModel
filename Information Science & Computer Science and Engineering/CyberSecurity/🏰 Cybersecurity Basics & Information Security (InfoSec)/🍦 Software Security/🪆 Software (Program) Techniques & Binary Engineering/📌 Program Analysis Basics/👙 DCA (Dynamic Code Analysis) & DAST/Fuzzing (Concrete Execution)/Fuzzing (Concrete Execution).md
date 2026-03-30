@@ -508,7 +508,7 @@ Like any software, the choice of fuzzer will depend on factors such as the opera
 > - One can estimate the _residual risk_ (i.e., the probability that a bug exists that has not been found) using the Good-Turing estimator GT of the species discovery probability.
 
 
-### Hybrid Fuzzing
+### Hybrid Fuzzing Procedure
 > 🔗 https://itea.org/journals/volume-45-4/review-of-fuzz-testing-to-find-system-vulnerabilities/
 
 Hybrid fuzzing merges fuzzing, assessed as ‘concrete’ because it is actual test, and ‘symbolic’ execution, which inculcates code-based paths, where the portmanteau of concrete and symbolic is abbreviated to ‘concolic.’ These two types of techniques are complementary and concolic is symbolic with hybrid fuzzing. One of the limits of earlier fuzzing is that the generational or mutation algorithms can constrain solutions to previously detected vulnerabilities, whereas symbolic logic execution combined with fuzzing can force unusual paths to discover additional vulnerabilities. An illustration of hybrid fuzzing is Figure 4 (below).
@@ -529,10 +529,12 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 
 
 ## Fuzzing Scenarios & Fuzzers
-> ↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
+### 📋 Fuzzing by Techniques (List of Fuzzers)
 
-
-### 📋 List of Fuzzers (by Techniques)
+> [!links]
+> ↗ [Dynamics Code Analysis Tools (DCAT)](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Dynamics%20Code%20Analysis%20Tools%20(DCAT).md)
+> - ↗ [AFL-based](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/AFL-based.md)
+> - ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
 #### Genealogy
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2015.52.12.png)
 <small>Genealogy tracing significant fuzzers’ lineage back to Miller et al.’s seminal work. Each node in the same row represents a set of fuzzers appeared in the same year. A solid arrow from X to Y indicates that Y cites, references, or otherwise uses techniques from X. 📗 denotes that a paper describing the work was published.</small>
@@ -557,32 +559,41 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
 <small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+#### Hybrid Fuzzers
+↗ [Symbolic & Concolic Execution Engines](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/Symbolic%20&%20Concolic%20Execution%20Engines.md)
+- ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
+
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 
-### Fuzzer by PUT
+### 👉 Fuzzer by PUT
 
 
-### Fuzzing by Strategies
-#### Testing Mode
-##### White-Box Testing
+### 👉 Fuzzing by Testing Mode
+#### White-Box Testing
 
-##### Black-Box Testing
+#### Black-Box Testing
 
-##### (Directed) Grey-Box Testing
+#### (Directed) Grey-Box Testing
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-16%20at%2021.14.54.png)
 <small>Bao, A., Zhao, W., Wang, Y., Cheng, Y., McCamant, S., & Yew, P.-C. (2025). From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification. _34th USENIX Security Symposium (USENIX Security 25)_, 6977–6997. <a>https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew</a></small>
 
 > Bao, A., Zhao, W., Wang, Y., Cheng, Y., McCamant, S., & Yew, P.-C. (2025). From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification. _34th USENIX Security Symposium (USENIX Security 25)_, 6977–6997. [https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew](https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew)
 > 
 > Effective verification of the true positives from false positives is crucial for improving the usability of static analysis tools and bolstering software security. Directed greybox fuzzing (DGF), based on dynamic execution, can confirm real vulnerabilities and provide proof-of-concept exploits, offering a promising solution. However, existing DGF tools are ineffective in verifying static analysis results because they are unaware of the semantic information about individual alarms and the correlations among multiple alarms. In this paper, we fill this gap and present Lyso, the first multi-target, multi-step guided fuzzer that leverages semantic information (i.e., program flows) and correlations (i.e., shared root causes) derived from static analysis. By concurrently handling multiple alarms and prioritizing seeds that cover these root causes, Lyso efficiently explores multiple alarms. For each alarm, Lyso breaks down the goal of reaching an alarm into a sequence of manageable steps. By progressively following these steps, Lyso refines its search to reach the final step, significantly improving its ability to trigger challenging alarms. We compared Lyso to eight state-of-the-art (directed) fuzzers. Our evaluation demonstrates that Lyso outperforms existing approaches, achieving an average 12.17x speedup while finding the highest absolute number of bugs. Additionally, we applied Lyso to verify static analysis results for real-world programs, and it successfully discovered eighteen new vulnerabilities.
+
+
+### 👉 Fuzzing by Stages (Procedure)
+![|800](https://appsec.guide/docs/fuzzing/intro.svg)
+<small>The general fuzzing scenario consists of the developer writing a harness for a SUT. After starting a fuzzing campaign, the fuzzer runtime generates random test cases that are sent to the harness. The harness then executes the SUT, which could lead to the discovery of bugs and crashes. Instrumentation runtime and the instrumentation added to the SUT are generally optional, even though most fuzzers instrument the SUT code and add a runtime. <br> <a>https://appsec.guide/docs/fuzzing/</a></small>
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.17.58.png)
+<small>如图所示, 模糊测试的一般工作流程可分为5个基本步骤, 即预处理、测试输入生成、测试执行、缺陷检 测和后模糊处理. <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a><br>注：这里“种子插桩”应该是对应 Instrumentation, 个人认为翻译成性能评估更易理解</small>
 #### Test Case Generation
 ##### Directly Generation
 ##### Seed + Mutation
 ##### Fuzzing with Historical Bugs
 ##### Complex Input Constraints
-
-
-### Fuzzing by Stages 
 
 
 

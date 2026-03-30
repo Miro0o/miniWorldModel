@@ -70,5 +70,10 @@ neos， apmonitor， pyomo，jump，
 In the more general approach, an [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem "Optimization problem") consists of [maximizing or minimizing](https://en.wikipedia.org/wiki/Maxima_and_minima "Maxima and minima") a [real function](https://en.wikipedia.org/wiki/Function_of_a_real_variable "Function of a real variable") by systematically choosing [input](https://en.wikipedia.org/wiki/Argument_of_a_function "Argument of a function") values from within an allowed set and computing the [value](https://en.wikipedia.org/wiki/Value_\(mathematics\) "Value (mathematics)") of the function. The generalization of optimization theory and techniques to other formulations constitutes a large area of [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics").
 
 
+### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐
+↗ [Formal Methods & Formal Verification (FV)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md) ✅
+↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+
+
 
 ## Ref

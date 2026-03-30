@@ -25,7 +25,7 @@ The source code of Docs.rs is available on [GitHub](https://github.com/rust-lan
 
 ### Related Topics
 ↗ [Rust Runtime Environments](../../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Rust%20Runtimes%20Environments/Rust%20Runtime%20Environments.md)
-↗ [Rust Fuzzing](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20by%20Programming%20Languages/Rust%20Fuzzing.md)
+↗ [Rust Fuzzing](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Fuzzing%20(Concrete%20Execution)/Fuzzing%20by%20SUT%20&%20PUT/Fuzzing%20by%20Programming%20Languages/Rust%20Fuzzing.md)
 
 
 ### Learning Resources

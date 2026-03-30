@@ -39,7 +39,7 @@ Propositional logic is typically studied with a formal language, in which propos
 <small>《离散数学》四川大学计算机学院</small>
 
 
-### Proposition & Boolean Algebra
+### Proposition & Boolean Algebra ⭐
 ↗ [Boolean Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
 #### Classification of Proposition
 > 🔗 https://baike.baidu.com/item/%E5%91%BD%E9%A1%8C/119969#4

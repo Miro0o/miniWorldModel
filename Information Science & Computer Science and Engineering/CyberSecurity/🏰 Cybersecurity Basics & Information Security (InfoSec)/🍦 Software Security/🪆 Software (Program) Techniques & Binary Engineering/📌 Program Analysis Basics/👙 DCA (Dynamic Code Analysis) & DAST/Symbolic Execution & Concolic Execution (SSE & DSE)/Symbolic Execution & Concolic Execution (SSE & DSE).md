@@ -72,28 +72,23 @@ The most revolutionary technology in the field of program analysis, in my opinio
 
 SMT stands for _satisfiability modulo theories_, and is essentially a solver of mathematical equations. And, since most of program analysis is essentially solving equations, this is a total game changer for our field.
 
-
----
-**SMT Solving Example - Basic Concepts**
-Let us solve the first equation we can: $$\begin{aligned}& ϕ_1=(A∨¬B)∧C \\
-& ϕ_2=(¬A∨B)∧(A∨C)∧(B∨¬C)\end{aligned}$$
-Navigate to [Z3 Playground](https://jfmc.github.io/z3-play) and type the equivalent SMTLIB statment in the textbox:
-
-```txt
-(declare-const a Bool)
-(declare-const b Bool)
-(declare-const c Bool)
-
-(assert (and (or a (not b)) (not c)))
-(assert (and (or (not a) b) (or a c) (or b (not c))))
-
-(check-sat)
-(get-model)
-```
-
-The check that the resulting model makes sense to you.
-
----
+> [!example] **SMT Solving Example - Basic Concepts**
+> Let us solve the first equation we can: $$\begin{aligned}& ϕ_1=(A∨¬B)∧C \\
+> & ϕ_2=(¬A∨B)∧(A∨C)∧(B∨¬C)\end{aligned}$$
+> 
+> Navigate to [Z3 Playground](https://jfmc.github.io/z3-play) and type the equivalent SMTLIB statment in the textbox:
+> 
+> ```txt
+> (declare-const a Bool)
+> (declare-const b Bool)
+> (declare-const c Bool)
+> (assert (and (or a (not b)) (not c)))
+> (assert (and (or (not a) b) (or a c) (or b (not c))))
+> (check-sat)
+> (get-model)
+> ```
+> 
+> Then check that the resulting model makes sense to you.
 
 When using a SMT solver you have to do 3 steps,
 - Encode your problem as a proposition that the SMT solver can check.
@@ -105,83 +100,81 @@ While this seems simple, we often tend to over complicate the problem, making it
 Some of this hazel is solved by libraries, like ↗ [Z3 Theorem Prover](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/Z3%20Theorem%20Prover.md).
 
 
----
-**SMT Solving Example - Programming using Z3**
+> [!example] **SMT Solving Example - Programming using Z3**
+> 
+> N-Queens Problem - Exercise taken from [CSC410](https://www.cs.toronto.edu/~victorn/tutorials/z3/SAT.html)
+> 
+> Your goal is to solve the N-Queens problem. Given an N x N chessboard, place N queens so than none can take each other. There are three rules
+> 1. There must be exactly one queen on each row,
+> 2. There must be exactly one queen on each column, and
+> 3. There can be no more than one queen on each diagonal.
+> 
+> First try to solve the 4-Queens problem, using your bindings to Z3. Some small hints:
+> - Make a boolean for whether or not each square contains a queen: `Qa1`, `Qa2`,...
+> - Write up logical constraints for the rules above using those booleans
+> 
+> ```Python
+> import z3
+> import itertools
+> 
+> 
+> def at_most_one(props):
+>     conditions = []
+>     for p, q in itertools.permutations(props, 2):
+>         conditions.append(z3.Or(z3.Not(p), z3.Not(q)))
+>     return z3.And(*conditions)
+> 
+> 
+> columns = "abcd"
+> rows = "1234"
+> 
+> # Create a boolean for each possible queen location.
+> queen_on_square = [[z3.Bool(f"Q{c}{r}") for c in columns] for r in rows]
+> s = z3.Solver()
+> 
+> # There need to be exactly one queen per row.
+> for ir, r in enumerate(rows):
+>     row = [queen_on_square[ic][ir] for ic, c in enumerate(columns)]
+>     s.add(z3.Or(*row))
+>     s.add(at_most_one(row))
+> 
+> # There can be at most one queen per column.
+> for ic, c in enumerate(columns):
+>     column = [queen_on_square[ic][ir] for ir, r in enumerate(rows)]
+>     s.add(at_most_one(column))
+> 
+> # There can be no more than one queen per diagonal.
+> prim, secd = [[] for r in row * 2], [[] for c in column * 2]
+> for ir, r in enumerate(rows):
+>     for ic, c in enumerate(columns):
+>         # primary diagonals are constant over subtraction
+>         prim[ir - ic].append(queen_on_square[ic][ir])
+>         # secondary diagonals are constant over summation
+>         secd[ir + ic].append(queen_on_square[ic][ir])
+> 
+> for diag in prim + secd:
+>     s.add(at_most_one(diag))
+> 
+> # This is kind of an ugly hack.
+> assert str(s.check()) == "sat"
+> 
+> model = s.model()
+> 
+> for ir, r in reversed(list(enumerate(rows))):
+>     print(f" {r} ", end="")
+>     for ic, c in enumerate(columns):
+>         is_black = (ir + ic) % 2 == 0
+>         if is_black:
+>             print("\033[40m\033[37m ", end="")  # ]]
+>         else:
+>             print("\033[47m\033[30m ", end="")  # ]]
+>         has_queen = bool(model[queen_on_square[ic][ir]])
+>         print("♛" if has_queen else " ", end="")
+>         print(" \033[0m", end="")  # ]
+>     print()
+> print(f"    {'  '.join(columns)}")
+> ```
 
-N-Queens Problem - Exercise taken from [CSC410](https://www.cs.toronto.edu/~victorn/tutorials/z3/SAT.html)
-
-Your goal is to solve the N-Queens problem. Given an N x N chessboard, place N queens so than none can take each other. There are three rules
-1. There must be exactly one queen on each row,
-2. There must be exactly one queen on each column, and
-3. There can be no more than one queen on each diagonal.
-
-First try to solve the 4-Queens problem, using your bindings to Z3. Some small hints:
-- Make a boolean for whether or not each square contains a queen: `Qa1`, `Qa2`,...
-- Write up logical constraints for the rules above using those booleans
-
-```Python
-import z3
-import itertools
-
-
-def at_most_one(props):
-    conditions = []
-    for p, q in itertools.permutations(props, 2):
-        conditions.append(z3.Or(z3.Not(p), z3.Not(q)))
-    return z3.And(*conditions)
-
-
-columns = "abcd"
-rows = "1234"
-
-# Create a boolean for each possible queen location.
-queen_on_square = [[z3.Bool(f"Q{c}{r}") for c in columns] for r in rows]
-s = z3.Solver()
-
-# There need to be exactly one queen per row.
-for ir, r in enumerate(rows):
-    row = [queen_on_square[ic][ir] for ic, c in enumerate(columns)]
-    s.add(z3.Or(*row))
-    s.add(at_most_one(row))
-
-# There can be at most one queen per column.
-for ic, c in enumerate(columns):
-    column = [queen_on_square[ic][ir] for ir, r in enumerate(rows)]
-    s.add(at_most_one(column))
-
-# There can be no more than one queen per diagonal.
-prim, secd = [[] for r in row * 2], [[] for c in column * 2]
-for ir, r in enumerate(rows):
-    for ic, c in enumerate(columns):
-        # primary diagonals are constant over subtraction
-        prim[ir - ic].append(queen_on_square[ic][ir])
-        # secondary diagonals are constant over summation
-        secd[ir + ic].append(queen_on_square[ic][ir])
-
-for diag in prim + secd:
-    s.add(at_most_one(diag))
-
-# This is kind of an ugly hack.
-assert str(s.check()) == "sat"
-
-model = s.model()
-
-for ir, r in reversed(list(enumerate(rows))):
-    print(f" {r} ", end="")
-    for ic, c in enumerate(columns):
-        is_black = (ir + ic) % 2 == 0
-        if is_black:
-            print("\033[40m\033[37m ", end="")  # ]]
-        else:
-            print("\033[47m\033[30m ", end="")  # ]]
-        has_queen = bool(model[queen_on_square[ic][ir]])
-        print("♛" if has_queen else " ", end="")
-        print(" \033[0m", end="")  # ]
-    print()
-print(f"    {'  '.join(columns)}")
-```
-
----
 
 
 ### SSE, SDE 🆚 Fuzzing
@@ -213,27 +206,27 @@ The advent of SMT solvers suddenly made a new kind of analysis possible, called�
 Symbolic execution is a program analysis technique used to **explore multiple execution paths of a program simultaneously**. Unlike normal execution, which runs the program with specific inputs, symbolic execution treats inputs as **symbolic variables** rather than concrete values. This means the execution can represent a wide range of inputs with **symbolic expressions**. Symbolic execution allows, at a time in emulation, to determine for a branch all conditions necessary to take a branch or not. Every variable is represented as a **symbolic value**, and each branch as a **constraint**. ==Thus, symbolic execution allows us to see which conditions allow the program to go from point A to point B by resolving these constraints. ==The **execution paths** are then analyzed by **solving constraint**s generated by these symbolic expressions, allowing the discovery of bugs and vulnerabilities that might be missed in standard testing.
 
 
-**Example**
+> [!Example]
 > 🔗 https://docs.angr.io/en/latest/core-concepts/symbolic.html#example
-
-Consider the following simple program :
-
-``` c
-const char* check_value(int x) {
-    if (x > 10) {
-        return "Greater";
-    } else {
-        return "Lesser or Equal";
-    }
-}
-```
-
-In normal execution, if `x` is set to 5, the program will follow the path where `x <= 10` and return “Lesser or Equal”. In symbolic execution, `x` is treated as a symbolic variable, `X`. The execution engine explores both paths:
-
-> - Path 1: `X > 10` leading to the result “Greater”
-> - Path 2: `X <= 10` leading to the result “Lesser or Equal”
-
-Constraints for both paths are generated and solved to understand all possible behaviors of the program.
+> 
+> Consider the following simple program :
+> 
+> ``` c
+> const char* check_value(int x) {
+>     if (x > 10) {
+>         return "Greater";
+>     } else {
+>         return "Lesser or Equal";
+>     }
+> }
+> ```
+> 
+> In normal execution, if `x` is set to 5, the program will follow the path where `x <= 10` and return “Lesser or Equal”. In symbolic execution, `x` is treated as a symbolic variable, `X`. The execution engine explores both paths:
+> 
+> > - Path 1: `X > 10` leading to the result “Greater”
+> > - Path 2: `X <= 10` leading to the result “Lesser or Equal”
+> 
+> Constraints for both paths are generated and solved to understand all possible behaviors of the program.
 
 In software verification, it helps ensure that the code behaves as expected across all possible inputs and states. For security analysis, symbolic execution can uncover vulnerabilities such as input validation errors, which could be exploited by attackers. Additionally, in automated testing, it aids in generating comprehensive test cases that cover edge cases and rare execution paths, enhancing the robustness and security of software systems. Overall, symbolic execution provides a powerful means to rigorously analyze and improve software and firmware reliability.
 
@@ -411,6 +404,9 @@ Another big problem is memory aliasing and arrays. Since we can only access the 
 
 ## Concolic Execution (Dynamic Symbolic Execution) & DSE
 > [!links]
+> ↗ [Fuzzing (Concrete Execution)](../Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
+> ↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> 
 > ↗ [angr](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/angr.md)
 > ↗ [SymCC](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Symbolic%20&%20Concolic%20Execution%20Engines/SymCC.md)
 
@@ -432,7 +428,6 @@ One solution to the limitation above is to simulate the different builtin method
 To do concolic execution, we first run the program with a random and concrete input. For each concrete value we also keep the symbolic value. Every time we branch on a value, we emit the symbolic value as path constraint if the concrete value was true, else we emit the negated symbolic value.
 
 When we are done we have a list of path constraints which we can use to generate new concrete inputs, that we can run the program with. We can see a single concolic run as a function from a program and a concrete input to a list of path constraints. $$concolic(P,i)=ψ_0,ψ_1,…,ψ_n$$
-
 To get a new input, we can simply negate one of the path constraints: $$i'\in𝐬𝐨𝐥𝐯𝐞(ψ_0∧ψ_1∧…∧¬ψ_n)$$
 Interestingly, we actually know that running $conclic(P,i')$ will produce a prefix of the same path constraints $ψ_0,ψ_1,…,¬ψ_n,ψ_{n+1},…,$ but might be extended, by new ones. This means, that if we keep track of which path constraints we have already negated (and have infinite time) we can do a depth first search through all possible paths of the program.
 

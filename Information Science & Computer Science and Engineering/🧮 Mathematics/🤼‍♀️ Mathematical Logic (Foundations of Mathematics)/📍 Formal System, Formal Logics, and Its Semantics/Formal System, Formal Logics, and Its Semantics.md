@@ -12,9 +12,11 @@
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
+↗ [Boolean Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
+↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Type Theory (类型论)A](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-
 
 ↗ [Lisp-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
 ↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20(ES)/Expert%20System%20(ES).md)

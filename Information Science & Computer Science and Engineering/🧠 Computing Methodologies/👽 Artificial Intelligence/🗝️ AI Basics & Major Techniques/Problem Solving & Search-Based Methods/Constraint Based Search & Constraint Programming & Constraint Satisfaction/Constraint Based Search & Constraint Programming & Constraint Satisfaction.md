@@ -32,6 +32,9 @@
 
 
 ## Intro
+### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐
+
+↗ [Formal Methods & Formal Verification (FV)](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 
 
 

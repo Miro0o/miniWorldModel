@@ -15,6 +15,9 @@
 	- ↗ [BTC (Bitcoin)](../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Cryptocurrencies%20&%20Trading/BTC%20(Bitcoin)/BTC%20(Bitcoin).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Definition of Investment
@@ -100,7 +103,7 @@ Investment funds are promoted with a wide range of investment aims either target
 Internationally recognized collective investments
 - [Exchange-traded funds](https://en.wikipedia.org/wiki/Exchange-traded_fund "Exchange-traded fund") (ETFs)—an open-end fund traded by listed shares on major stock exchanges.
 - [Real Estate Investment Trusts](https://en.wikipedia.org/wiki/Real_estate_investment_trust "Real estate investment trust") (REITs)—a close-ended fund that invests in real estate.
-- ↗ [Sovereign Wealth Fund (SWF)](../📢%20Public%20Finance/Sovereign%20Wealth%20Fund%20(SWF).md)
+- ↗ [Sovereign Wealth Fund (SWF)](../📢%20Public%20(Government)%20Finance/Sovereign%20Wealth%20Fund%20(SWF).md)
 
 Country-specific investment funds & collective investments
 - US

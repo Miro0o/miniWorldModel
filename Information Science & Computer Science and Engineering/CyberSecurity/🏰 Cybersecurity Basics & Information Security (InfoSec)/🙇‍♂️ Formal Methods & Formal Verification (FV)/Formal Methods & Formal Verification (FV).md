@@ -109,6 +109,18 @@ The verification of these systems is done by ensuring the existence of a [forma
 ↗ [ICT System Reliability (Correctness) & Verification](../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
 
+### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐
+> [!links]
+> ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
+> ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
+> ↗ [Constraint Satisfaction Problems (CSPs)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Satisfaction%20Problems%20(CSPs).md)
+>
+> ↗ [Mathematical Optimization (Programming)](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Assignment Problems](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Combinatorial%20Optimization/Assignment%20Problems/Assignment%20Problems.md)
+
+#formal_logic #formal_system #formal_methods #symbolic_methods #constraint_solving #combinatorial_search #AI_planning #optimization 
+
+
 
 ## Ref
 [形式化验证方法研究综述 | CSDN]: https://panpan.blog.csdn.net/article/details/133158054?fromshare=blogdetail&sharetype=blogdetail&sharerId=133158054&sharerefer=PC&sharesource=&sharefrom=from_link

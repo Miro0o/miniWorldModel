@@ -157,6 +157,22 @@ Descartes describes the concept of a first principle in the following excerpt fr
 > I should have desired, in the first place, to explain in it what philosophy is, by commencing with the most common matters, as, for example, that the word philosophy signifies the study of wisdom, and that by wisdom is to be understood not merely prudence in the management of affairs, but a perfect knowledge of all that man can know, as well for the conduct of his life as for the preservation of his health and the discovery of all the arts, and that knowledge to subserve these ends must necessarily be deduced from first causes; so that in order to study the acquisition of it (which is properly called [284] philosophizing), we must commence with the investigation of those first causes which are called Principles. Now, these principles must possess two conditions: in the first place, they must be so clear and evident that the human mind, when it attentively considers them, cannot doubt their truth; in the second place, the knowledge of other things must be so dependent on them as that though the principles themselves may indeed be known apart from what depends on them, the latter cannot nevertheless be known apart from the former. It will accordingly be necessary thereafter to endeavor so to deduce from those principles the knowledge of the things that depend on them, as that there may be nothing in the whole series of deductions which is not perfectly manifest.
 
 
+### Uncertain Principles
+> [!links]
+> ↗ [Quantum Mechanics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Uncertainty_principle
+
+The **uncertainty principle**, also known as **Heisenberg's indeterminacy principle**, is a fundamental concept in [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics"). It states that there is a limit to the precision with which certain pairs of physical properties, such as position and [momentum](https://en.wikipedia.org/wiki/Momentum "Momentum"), can be simultaneously known. In other words, the more accurately one property is measured, the less accurately the other property can be known.
+
+More formally, the uncertainty principle is any of a variety of [mathematical inequalities](https://en.wikipedia.org/wiki/Inequality_\(mathematics\) "Inequality (mathematics)") asserting a fundamental limit to the product of the accuracy of certain related pairs of measurements on a quantum system, such as [position](https://en.wikipedia.org/wiki/Position_\(vector\) "Position (vector)"), _x_, and momentum, _p_. Such paired-variables are known as [complementary variables](https://en.wikipedia.org/wiki/Complementarity_\(physics\) "Complementarity (physics)") or [canonically conjugate variables](https://en.wikipedia.org/wiki/Canonical_coordinates "Canonical coordinates").
+
+First introduced in 1927 by German physicist [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg "Werner Heisenberg"), the formal inequality relating the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation "Standard deviation") of position _σx_ and the standard deviation of momentum _σp_ was derived by [Earle Hesse Kennard](https://en.wikipedia.org/wiki/Earle_Hesse_Kennard "Earle Hesse Kennard") later that year and by [Hermann Weyl](https://en.wikipedia.org/wiki/Hermann_Weyl "Hermann Weyl") in 1928: $$ \sigma _{x}\sigma _{p}\geq {\frac {\hbar }{2}}$$
+where $\hbar ={\frac {h}{2\pi }}$ is the [reduced Planck constant](https://en.wikipedia.org/wiki/Reduced_Planck_constant "Reduced Planck constant"). 
+
+The quintessentially quantum mechanical uncertainty principle comes in many forms other than position–momentum. The energy–time relationship is widely used to relate quantum state lifetime to measured energy widths but its formal derivation is fraught with confusing issues about the nature of time. The basic principle has been extended in numerous directions; it must be considered in many kinds of fundamental physical measurements.
+
+
 ### Rationality and Sensibility
 > [!links]
 > ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -252,7 +268,7 @@ Central topics in [Chinese philosophy](https://en.wikipedia.org/wiki/Chinese_ph
 
 ↗ [Physical Science](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physical%20Science.md)
 ↗ [Physics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
-- ↗ [Quantum Physics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Physics/Quantum%20Physics.md)
+- ↗ [Quantum Mechanics](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
 
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)

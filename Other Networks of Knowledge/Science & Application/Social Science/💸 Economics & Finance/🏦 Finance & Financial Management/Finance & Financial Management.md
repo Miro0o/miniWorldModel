@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro: Management
 ↗ [Financial Management (财务管理)](../🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
@@ -213,7 +216,7 @@ Trading of currencies and bonds is largely on a bilateral basis, although some b
 	1. e.g. IBKR
 
 
-### Financial Services (金融服务)
+### Financial Services (金融服务) 🤔
 > 🔗 https://en.wikipedia.org/wiki/Financial_services
 
 Financial services are economic services tied to finance provided by financial institutions. Financial services encompass a broad range of service sector activities, especially as concerns financial management and consumer finance.
@@ -229,7 +232,6 @@ Financial products include [insurance](https://en.wikipedia.org/wiki/Insurance 
 > 🔗 https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99
 
 金融业的起源能够追溯到文明的起源，相关的考古学证据能够追溯到公元前3000年左右。银行业起源于巴比伦帝国，当时的人们把榖物等贵重物品存放在宫殿及神庙等安全场所内。世界最早的金融业的雏形出现在中国，纸币等信用票券在唐代飞钱是迄今为止已知最早纸币的概念。宋朝时期之前中国出现了具有高利贷性质及无利息存款业务的钱庄与票号，第一家具有近代特征的银行是上海中国通商银行，1897年（光绪二十三年）成立。在汉语“银行”一词当中，“银”往往代表的就是货币，而“行”则是对大商业机构的称谓。把办理与银钱有关的大金融机构称为银行一词，在中国最早见于太平天国洪仁玕所著的《资政新篇》。一般认为西方最早的银行是意大利1407年在威尼斯成立的银行。其后荷兰在阿姆斯特丹、德国在汉堡、英国在伦敦也相继设立了银行。十八世纪末至十九世纪初，银行得到了普遍发展。
-
 - [银行](https://zh.wikipedia.org/wiki/%E9%93%B6%E8%A1%8C "银行")
 - [证券](https://zh.wikipedia.org/wiki/%E8%AF%81%E5%88%B8 "证券")([券商](https://zh.wikipedia.org/wiki/%E5%88%B8%E5%95%86 "券商"))
 - [保险](https://zh.wikipedia.org/wiki/%E4%BF%9D%E9%99%A9 "保险")
@@ -250,6 +252,10 @@ Financial products include [insurance](https://en.wikipedia.org/wiki/Insurance 
 - [投资](https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84 "投资")
 - [信用评级](https://zh.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7 "信用评级")
 - [首次公开募股](https://zh.wikipedia.org/wiki/%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%8B%9F%E8%82%A1 "首次公开募股")
+#### Investment
+↗ [Financial Investment](Financial%20Investment/Financial%20Investment.md)
+#### Debt
+↗ [Debt](Debt.md)
 
 
 ### Financial Institutions (金融机构)
@@ -279,7 +285,7 @@ Some experts see a trend toward [homogenisation](https://en.wikipedia.org/wiki/
 
 > ↗ [The Federal Reserve System (Fed)](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
 > ↗ [The European Central Bank (ECB)](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
-> ↗ [中国人民银行](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
+> ↗ [中国人民银行](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国人民银行.md)
 > ↗ [Bank of Japan](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
 
 > 🔗 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C
@@ -388,11 +394,13 @@ List of investment banks
 
 
 ### Financial Instrument (金融工具 /投资工具)
+> [!lins]
 > ↗ [Financial Investment](Financial%20Investment/Financial%20Investment.md)
 
 
 
 ## Financial Statement
+> [!lins]
 > ↗ [Accounting & Accountancy](../🩸%20Commerce%20&%20Business/🧾%20Accounting%20&%20Accountancy/Accounting%20&%20Accountancy.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Financial_statement

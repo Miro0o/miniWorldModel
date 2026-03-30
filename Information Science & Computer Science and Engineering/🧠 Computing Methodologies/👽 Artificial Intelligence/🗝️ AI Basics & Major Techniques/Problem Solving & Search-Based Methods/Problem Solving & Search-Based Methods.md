@@ -96,7 +96,7 @@ If you want an even cleaner academic phrasing
 
 
 
-## Search under Fully Known Environments
+## 🎯 Search under Fully Known Environments
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
 > Chapter 3
@@ -277,7 +277,7 @@ Before we get into the design of various search algorithms, we will consider the
 
 
 
-## Search under (Partially) Unknown Environments
+## 🎯 Search under (Partially) Unknown Environments
 
 ### Search Strategies ⭐
 #### Local Search (and Optimization Problems)
@@ -331,7 +331,7 @@ A canonical example of online search is the mapping problem: a robot is placed i
 
 
 
-## Search Under Multi-Agents Environments & Games
+## 🎯 Search Under Multi-Agents Environments & Games
 ↗ [Agents & Multi-Agent System](../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
 ↗ [Games & Search in Multi-Agents Environment](🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 

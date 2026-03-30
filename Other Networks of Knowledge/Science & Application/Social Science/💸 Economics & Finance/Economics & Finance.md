@@ -117,7 +117,7 @@ Historically, openness to free trade substantially increased in some areas from 
 ###### € EUR
 ↗ [The European Central Bank (ECB)](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
 ###### ¥ CNY
-↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国人民银行.md)
+↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国人民银行.md)
 ######  ¥ JPY
 ↗ [Bank of Japan](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
 ###### £ GBP
@@ -141,6 +141,9 @@ Currency composition of forex reserves
 
 
 ### 👉 Assets (资产) & Property (财产)
+ >[!links]
+ >↗ [Debt](🏦%20Finance%20&%20Financial%20Management/Debt.md)
+
 #### Assets (资产)
 > 🔗 https://zh.wikipedia.org/wiki/%E8%B3%87%E7%94%A2
 
@@ -410,9 +413,9 @@ Economic theories divide economic sectors further into [economic industries](ht
 #### Political Economics & Governmental Regulation
 ↗ [Political Economics](Political%20Economics/Political%20Economics.md)
 ##### Public Finance & National Treasury
-↗ [Public Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20Finance/Public%20Finance.md)
+↗ [Public (Government) Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20(Government)%20Finance/Public%20(Government)%20Finance.md)
 
-↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
+↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
 ↗ [Treas.](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
 #### Economic System
 > 🔗 https://en.wikipedia.org/wiki/Economic_system
@@ -541,6 +544,12 @@ Nominal Gross Domestic Product (GDP) and Real GDP both quantify the total value 
 
 Nominal GDP: $$GDP = C+I+G+(X-M)$$
 Real GDP: $$\text{Real GDP}_{\text{in base year dollars}} = \text{Nominal GDP} \cdot \frac{GDPG_\text{base year}}{GDPD_\text{current year}}$$
+> 🔗 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
+
+##### PPP (Purchasing Power Parity)
+> 🔗 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)
+
+##### MER (Market Exchange Rates)
 
 ### Money Supply
 > 🔗 https://en.wikipedia.org/wiki/Money_supply

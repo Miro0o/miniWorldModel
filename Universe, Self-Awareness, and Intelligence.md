@@ -27,18 +27,14 @@
 https://plato.stanford.edu/index.html
 Stanford Encyclopedia of Philosophy
 
-
 https://www.xue8nav.com/
 学吧导航
-
 
 https://zh.wikipedia.org/zh-cn/Portal:%E9%A6%96%E9%A0%81
 ![](Assets/Pics/Screenshot%202025-07-07%20at%2021.29.52.png)
 
-
 https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg
 知识地图：人类全量通识图谱
-
 
 🤔 🤔 🤔 https://zt.dw.cash/
 宇宙统一理论体系 (Unified Theory System)
@@ -50,7 +46,6 @@ https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg
 2. **递归数学结构**：宇宙作为递归希尔伯特空间的自包含构造。
 3. **几何与信息的对偶**：时空几何是底层量子信息纠缠的统计涌现。
 
-
 🤔 🤔 https://omega.dw.cash/index_cn.html
 [The Omega Framework](https://omega.dw.cash/index_cn.html#the-omega-framework)
 _重构实在：从比特到几何，从观察者到宇宙。_
@@ -59,7 +54,6 @@ _重构实在：从比特到几何，从观察者到宇宙。_
 1. **本体论**：如何从纯粹的量子信息（Qubit）中涌现出连续的时空几何？
 2. **动力学**：如果时间不是基本的，那么动力学演化的微观机制是什么？
 3. **认知论**：物理定律中的观察者是外界的旁观者，还是系统内部的数学结构？
-
 
 🤔 🤔 🤔 https://dw.cash/zh-Hans/docs/intro
 万物理论：ψ = ψ(ψ)
@@ -153,15 +147,31 @@ Anti-fragile: Things That Gain From Disorder
 
 ### 存在与（人/人类社会 的）认识存在
 #### 时间与空间
+↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity/Theory%20of%20Relativity.md)
 
+> 🔗 https://en.wikipedia.org/wiki/Spacetime
+> 
+> In [physics](https://en.wikipedia.org/wiki/Physics "Physics"), **spacetime**, also called the **space-time continuum**, is a [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") that fuses the [three dimensions of space](https://en.wikipedia.org/wiki/Three-dimensional_space "Three-dimensional space") and the one dimension of [time](https://en.wikipedia.org/wiki/Time "Time") into a single four-dimensional [continuum](https://en.wikipedia.org/wiki/Continuum_\(measurement\) "Continuum (measurement)"). [Spacetime diagrams](https://en.wikipedia.org/wiki/Spacetime_diagram "Spacetime diagram") are useful in visualizing and understanding [relativistic](https://en.wikipedia.org/wiki/Special_relativity "Special relativity") effects, such as how different observers perceive _where_ and _when_ events occur.
+> 
+> Until the turn of the 20th century, the assumption had been that the three-dimensional geometry of the universe (its description in terms of locations, shapes, distances, and directions) was distinct from time (the measurement of when events occur within the universe). However, [space](https://en.wikipedia.org/wiki/Space "Space") and time took on new meanings with the [Lorentz transformation](https://en.wikipedia.org/wiki/Lorentz_transformation "Lorentz transformation") and [special theory of relativity](https://en.wikipedia.org/wiki/Special_relativity "Special relativity").
+> 
+> In 1908, [Hermann Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski "Hermann Minkowski") presented a [geometric](https://en.wikipedia.org/wiki/Geometry "Geometry") interpretation of special relativity that fused time and the three spatial dimensions into a single four-dimensional continuum now known as [Minkowski space](https://en.wikipedia.org/wiki/Minkowski_space "Minkowski space"). This interpretation proved vital to the [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity "General relativity"), wherein spacetime is curved by [mass and energy](https://en.wikipedia.org/wiki/Stress%E2%80%93energy_tensor "Stress–energy tensor").
 #### 运动与静止
 > 🔗 https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem
+> 
+> In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [physics](https://en.wikipedia.org/wiki/Physics "Physics"), the **Poincaré recurrence theorem** states that certain [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_systems "Dynamical systems") will, after a sufficiently long but finite time, return to a state arbitrarily close to (for continuous state systems), or exactly the same as (for discrete state systems), their initial state.
+> 
+> The **Poincaré recurrence time** is the length of time elapsed until the recurrence. This time may vary greatly depending on the exact initial state and required degree of closeness. The result applies to isolated mechanical systems subject to some constraints, e.g., all particles must be bound to a finite volume. The theorem is commonly discussed in the context of [ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory "Ergodic theory"), [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_systems "Dynamical systems") and [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics "Statistical mechanics"). Systems to which the Poincaré recurrence theorem applies are called [conservative systems](https://en.wikipedia.org/wiki/Conservative_system "Conservative system").
+> 
+> The theorem is named after [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9 "Henri Poincaré"), who discussed it in 1890.  A proof was presented by [Constantin Carathéodory](https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory "Constantin Carathéodory") using [measure theory](https://en.wikipedia.org/wiki/Measure_\(mathematics\) "Measure (mathematics)") in 1919.
 ##### 相对与绝对
 ↗ [Theory of Relativity](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Theory%20of%20Relativity/Theory%20of%20Relativity.md)
 ##### 矛盾的运动规律
 ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 #### 物质与能量
 ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+↗ [Quantum Mechanics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Quantum%20Mechanics/Quantum%20Mechanics.md)
+
 ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 ##### 光
 ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md) "常寂光"
@@ -173,9 +183,10 @@ tbd.
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ↗ [History of Life & Human Evolution](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 ###### 生命感知下的信息与时间
-###### 生命的周期：生与死
-###### 有自我意识的生命：智能
 
+###### 生命的周期：生与死
+
+##### 有自我意识的生命：智能
 在生命的基础之上，一类特殊的生命：智能生命。智能生命与普通生命（非智能）的区别：自我意识。换句话说，自我意识带来了智能，智能生命 = 普通生命（行动）+ 自我意识（思考）
 
 自我意识 = 思考 = （额外的）信息维度。
@@ -188,12 +199,139 @@ tbd.
 本节主要阐明自我意识是如何从生命中发展而来的。
 
 tbd.
+###### 时间如何成为‘我’：结构、体验与意义？（自我与宇宙的关系）⭐
+> 🤖 GPT5.4
+> 
+> “我”是：**一个持续存在的、自我维持的、能建模自身与世界的动态系统**
+> 
+> 它的特征是：
+> - 有身体（物理载体）
+> - 有记忆（时间连续性）
+> - 有目标（行动方向）
+> - 有自我模型（“我是谁”的感觉）
+> - 能做决策
+> 
+> 🌊 一个非常重要的比喻：漩涡（再深入一点）
+> 之前我说过漩涡，这里再升级一下这个比喻。
+> 一个漩涡：
+> - 没有固定“哪一滴水是它”
+> - 但它有边界、有结构、有持续性
+> - 它可以影响周围（因果有效）
+> 
+> 👉 所以： 它不是“虚无”，但也不是“固体块”
+> 
+> “我”就是这种东西，但复杂很多:
+> - 你的身体在换细胞
+> - 神经连接在变化
+> - 思维在流动
+> 
+> 但：
+> 👉 **结构在维持**  
+> 👉 **模式在延续**  
+> 👉 **“我”的连续性被保持**
+> 
+> ==“我”不是一个“东西”，而是一个**过程 + 模式 + 结构的持续性**==
+
+认可GPT这里的结论：我是一个有限持续的（过程+模式+结构）。我就是宇宙现象。就像樱花飘落，月明星稀。
+
+同时，我是一种独特的宇宙现象，是宇宙中发展出能够“体验自身”的结构。这种过程，就是我的思考。
+- 思考的起点，就是我对“我”和“宇宙”之间的关系的思考。而我和宇宙的关系思考的起点，和贯穿之后所有思考的线索，就是对时间的思考。
+- “我”的时间，“他”的时间，“我们”的时间，“宇宙”的时间。
+
+> “我”是一个有限时间内持续的结构，而时间是这个结构得以存在的关键维度。因此，我对时间的思考，本质上是这个结构对自身存在方式的反思。这个结构的“意义”，在这种反思中产生。时间 + 有限性 = 意义的来源
+> 
+> 即，自我是一个时间中的持续结构，而对时间的意识，是这个结构对自身存在条件的显现。时间不是“变量”，而是“存在方式”本身。
+
+我”可以被理解为一个在时间中持续的动态结构，而不是一个独立、固定的本体实体。这个结构之所以能够被体验为“我”，依赖于它对时间的整合能力：通过记忆保留过去，通过感知处理当前，通过预测指向未来。因此，自我并不是存在于时间之中，而是通过时间这一维度得以成立；没有时间的延展性，就不会有自我的连续性。进一步说，自我对时间的意识，本质上是这个结构对其自身存在方式的反映，即它开始意识到自己是一个在变化、在延续、且终将终止的过程。
+
+在此基础上，“时间”本身必须被区分为不同层级。物理时间在理论上更接近一种结构或参数，它构成了过程得以展开的维度，但并不包含“流动”这一性质；物理方程通常是时间对称的，因此不存在一个客观的“现在正在流逝”。时间的方向性来自热力学层面，即熵的增加，使得系统从低熵向高熵演化，从而产生了“过去—未来”的不可逆区分。而我们真正体验到的“时间流动”，则属于心理时间，它来源于认知系统对信息的整合：记忆提供过去，预测指向未来，而感知在两者之间形成一个整合窗口，这个窗口被体验为“现在”。因此，所谓“时间在流动”，并不是物理世界的属性，而是认知系统的一种构造结果。
+
+由此可以得到一个关键区分：物理提供时间的结构，而意识生成时间的体验；“现在”不是宇宙的客观属性，而是系统内部的信息整合形式。在这一框架下，**“我”可以被更精确地描述为一个利用熵梯度维持自身结构、并通过记忆与预测构建心理时间的系统**。换句话说，**自我是物理时间与心理时间的交汇点：它既是一个受物理约束的过程，又是一个生成时间体验的认知结构**。
+
+在这样的理解中，意义不再来自外在赋予，而是从自我对其存在条件的反思中生成。当一个系统不仅能在时间中延续自身，而且能够意识到这种延续的有限性（即其不可避免的终结），它便会开始建模自身与整体结构（宇宙）之间的关系，并对这一关系进行评价。这种“我与宇宙之间意味着什么”的问题，本身就是意义的起点。因此，可以说，意义产生于时间性与有限性的交汇：如果没有时间，就没有变化与延续；如果没有有限性，就没有紧迫性与选择；两者共同构成了意义生成的条件。
+
+综上，自我不是实体而是过程，时间不是流动而是结构与体验的双重构成，而意义则是这一时间化过程对自身存在的反思性结果。更简洁地说：时间在物理上是结构，在意识中是体验，而“我”是连接两者的持续过程；意义，则是在这一过程中，由有限性引发的自我理解。人，在流逝之中成为自己，并在有限之中感到重要。
+
+> [!quote]
+> 春江花月夜
+> 张若虚〔唐代〕
+> 
+> 春江潮水连海平，海上明月共潮生。  
+> 滟滟随波千万里，何处春江无月明。  
+> 江流宛转绕芳甸，月照花林皆似霰。  
+> 空里流霜不觉飞，汀上白沙看不见。  
+> 江天一色无纤尘，皎皎空中孤月轮。  
+> 江畔何人初见月？江月何年初照人？  
+> 人生代代无穷已，江月年年望相似。(望相似 一作：只相似)  
+> 不知江月待何人，但见长江送流水。  
+> 白云一片去悠悠，青枫浦上不胜愁。  
+> 谁家今夜扁舟子？何处相思明月楼？  
+> 可怜楼上月裴回，应照离人妆镜台。(裴回 一作：徘徊)  
+> 玉户帘中卷不去，捣衣砧上拂还来。  
+> 此时相望不相闻，愿逐月华流照君。  
+> 鸿雁长飞光不度，鱼龙潜跃水成文。  
+> 昨夜闲潭梦落花，可怜春半不还家。  
+> 江水流春去欲尽，江潭落月复西斜。  
+> 斜月沉沉藏海雾，碣石潇湘无限路。  
+> 不知乘月几人归，落月摇情满江树。(落月 一作：落花)
+
+> [!quote]
+> GPT-5.4 
+> 
+> 生非有常，方在变中；  
+> 心非有体，念念相续。  
+> 未有定我，唯时所成；  
+> 未有定时，唯心所现。
+> 
+> 前念既往，不可复得；  
+> 后念未至，不可先知。  
+> 所谓“今者”，不过一隙；  
+> 所谓“我者”，不过其流。
+> 
+> 是以知：  
+> 我非居于时中，  
+> 乃以时而为我。
+
+> [!quote]
+> 朝闻道
+> 刘慈欣
+> 
+> 松田诚一问：“那么，你们是从何时起开始注意到人类呢？普朗克时代吗？”
+> 排险者摇摇头。 
+> “那么是牛顿时代？也不是？！不可能远到亚里士多德时代吧？”  
+> “都不是。”排险者说：“宇宙排险系统的运行机制是这样的：它首先通过散布在宇宙中的大量传感器监视已有生命出现的世界，当发现这些世界中出现有能力产生创世能级能量过程的文明时，传感器就发出警报，我这样的排险者在收到警报后将亲临那些世界监视其中的文明，但除非这些文明真要进行创世能级的试验，我们是绝不会对其进行任何干予的。”  
+> 
+> 这时，在排险者的头部左上方出现了一个黑色的正方形，约两米见方，正方形充满了深不见底的漆黑，仿佛现实被挖了一个洞。几秒钟后，那黑色的空间中出现了一个蓝色的地球影像，排险者指着影像说：“这就是放置在你们世界上方的传感器拍下的地球影像” 
+> “这个传感器是在什么时候放置于地球的？”有人问。
+> “按你们的地质学纪年，在古生代未期的石炭纪。”
+> “古炭纪？！”“那就是……三亿年前了！”……人们纷纷惊呼。
+> “这……太早了些吧？”总工程师敬畏地问。
+> “早吗？不，是太晚了，当我们第一次到达石炭纪的地球，看到在广阔的冈瓦纳古陆上，皮肤湿滑的两栖动物在原生松林和沼泽中爬行时，真吓出了一身冷汗。在这之前的相当长的岁月里，这个世界都有可能突然进化出技术文明，所以，传感器应该在古生代开始时的寒武纪或奥陶纪就放置在这里。” 
+> 
+> 地球的影像向前推来，充满了整个正方形，镜头在各大陆间移动，让人想到一双警惕巡视的眼睛。
+> 排险者说：“你们现在看到的影像是在更新世未期拍摄的，距今37万年，对我们来说，几乎是在昨天了。” 
+> 
+> 地球表面的影像停止了移动，那双眼睛的视野固定在非洲大陆上，这个大陆正处于地球黑夜的一侧，看上去是一个由稍亮些的大洋三面围绕的大墨块。显然大陆上的什么东西吸引了这双眼睛的注意，焦距拉长，非洲大陆向前扑来，很快占据了整个画面，仿佛观察者正在飞速冲向地球表面。陆地黑白相间的色彩渐渐在黑暗中显示出来，白色的是第四纪冰期的积雪，黑色部分很模糊，是森林还是布满乱石的平原，只能由人想像了。镜头继续拉近，一个雪原充满了画面，显示图像的正方形现在全变成白色了，是那种夜间雪地的灰白色，带着暗暗的淡蓝。在这雪原上有几个醒目的黑点，很快可以看出那是几个人影，接着可以看出他们的身型都有些驼背，寒冷的夜风吹起他们长长的披肩乱发。图象再次变黑，一个人仰起的面孔充满了画面，在微弱的光线里无法看清这张面孔的细部，只能看出他的眉骨和颧骨很高，嘴唇长而薄。镜头继续拉近这似乎已不可能再近的距离，一双深陷的眼睛充满了画面，黑暗中的瞳仁中有一些银色的光斑，那是映在其中的变形的星空。
+> 
+> 图像定格，一声尖利的鸣叫响起，排险者告诉人们，预警系统报警了。
+> 
+> “为什么？”总工程师不解地问。 
+> “==这个原始人仰望星空的时间超过了预警阀值，已对宇宙表现出了充分的好奇==，到此为止，已在不同的地点观察到了十例这样的超限事件，符合报警条件。”
+> “如果我没记错的话，你前面说过，只有当有能力产生创世能级能量过程的文明出现时，预警系统才会报警。”
+> “你们看到的不正是这样一个文明吗？” 
+> 
+> 人们面面相窥，一片茫然。
+> 
+> 排险者露出那毫无特点的微笑说：“这很难理解吗？==当生命意识到宇宙奥秘的存在时，距它最终解开这个奥秘只有一步之遥了。==”看到人们仍不明白，他接着说：“比如地球生命，用了四十多亿年时间才第一次意识到宇宙奥秘的存在，但那一时刻距你们建成爱因斯坦赤道只有不到四十万年时间，而这一进程最关键的加速期只有不到五百年时间。如果说那个原始人对宇宙的几分钟凝视是看到了一颗宝石，其后你们所谓的整个人类文明，不过是弯腰去拾它罢了。” 
+> 
+> 丁仪若有所悟地点点头：“要说也是这样，那个伟大的望星人！”
+> 
+> 排险者接着说：“以后我就来到了你们的世界，监视着文明的进程，像是守护着一个玩火的孩子，周围被火光照亮的宇宙使这孩子着迷，他不顾一切地把火越燃越烧旺，直到现在，宇宙已有被这火烧毁的危险。”
 ###### 自我意识与物理生命的绑定?
 
 自我意识可否独立于躯体单独存在？这又意味着什么？
 
 tbd.
-
 #### 主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）
 主观与客观
 
@@ -226,7 +364,7 @@ tbd.
 	- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 - 深度学习中的"神经网络"模型：
 	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-- 哲学领域（包括数学领域）的“逻辑”：
+- 哲学领域（包括数学领域）的“逻辑”（或“推理”）：
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
@@ -244,7 +382,6 @@ tbd.
 虽然被用在了不同的语境，且在这些语境下被给予了不同的名称，但所有这些名称实际上描述了同一件事情：信息的运动就是信息的相互联系。自然地，我们用 $A\to B$ 这种形式来描述信息的这种联系或运动。这是因为，运动就是在一个单位时间中由状态A变为状态B。
 
 由于信息就是宇宙在人类（自我意识）中的投影，信息就是人类视角下的宇宙，所以，从这种层面上我们可以说==信息的运动模型，$A\to B$，就是（人类可认知的）宇宙的模型。宇宙中的一切（被人类所认知的）事物都可以用$A\to B$ 的形式来表示==。更进一步，我们给这种变化一个标签C来标识，那么我们就有如下宇宙模型（或称为，人类认知下的宇宙模型 /宇宙的信息模型 /人类认知下的运动模型/运动模型）：$$A\overset{C}{\to}B$$
-
 信息是我们（自我意识，主体，人类）认识宇宙的唯一媒介。我们只可以观测宇宙，但这种观测不是宇宙本身。(观测的宇宙和实际的宇宙的关系是什么？比如，这种观测是否”准确“？稍后会谈到人类的逻辑与科学)
 
 在宇宙的信息模型基础上，我们使用语言将这种信息符号化：（Subject $\overset{\text{predicate verb}}{\to}$ Object）。这样，有了语言（或者说符号系统），我们就可以对信息进行处理，让信息从“静止”到“运动”。
@@ -313,7 +450,7 @@ tbd.
 	- 夜深忽梦少年事，梦啼妆泪红阑干。这就是对时间周期的思考。从对时间的思考出发，又可以看到理性和感性。
 
 在各种周期之中，生命周期又是一个最基本的问题。对生命的思考，就是自我意识对自我与宇宙的关系的最直接的思考。从对自我生命的思考出发，又进一步发展出对社会其他人生命的思考，及自我生命与他人生命之间的关系的思考。
-- 所谓的 ”存在的意义“的思考，其实就是这里说的对生命的思考，对自我与宇宙的关系的思考，对时间的思考。这又是一个经常出现在我们日常生活中的一个碎片化的结论，现在我把他拼回这个知识结构体系中。
+
 ###### 自我意识下的感性与理性 + 个体的思考（认识）与行动（实践）
 
 > [!links]
@@ -352,9 +489,9 @@ or（感性，理性）X （认识，实践）
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 ↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 ###### 社会的形成
-↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+> [!links]
+> ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
----
 社会形成之前的“社会”：生命的繁衍
 
 生命的繁衍靠交配，这是生物学原理决定的。在具有智能的生命中也如此。
@@ -396,13 +533,65 @@ or（感性，理性）X （认识，实践）
 
 > 关于知识的定义和其他相关内容，之后有专门的章节。这里先提前使用一下。
 
-###### 群体/社会 的共同自我意识
-↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+###### 群体/社会 的共同自我意识与自我认同
+> [!links]
+> ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+> ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 
 > 社会存在决定社会意识
 ##### 主体（自我意识）间的交互：社会关系
-↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+> [!links]
+> ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+
+###### 性与爱
+> [!links]
+> ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+
+我认为性与爱是一切社会关系的起点，感情的原型。
+
+> [!quote]
+> 迢迢牵牛星
+> 佚名〔两汉〕
+> 
+> 迢迢牵牛星，皎皎河汉女。
+> 纤纤擢素手，札札弄机杼。
+> 终日不成章，泣涕零如雨。
+> 河汉清且浅，相去复几许。
+> 盈盈一水间，脉脉不得语
+
+> [!quote]
+> 🔗 [人妻约会指南](https://sinyalee.com/%E4%BA%BA%E5%A6%BB%E7%BA%A6%E4%BC%9A%E6%8C%87%E5%8D%97v1.4.pdf)
+>
+>过去 5 年间，我的内心一直充满了巨大的痛苦与仇恨。为什么我们这一代，最优秀、最努力、能力最强的一代中国男人，像犯人一样关在学校里面 20 年甚至更久，然后就结婚，被一个老国女按着头，逼着在 21 年买房，逼着申请 30 年按揭贷款？为什么我们的人生，被安排着从 20 年的监狱生涯释放，进入了 30 年流放北上广深杭的劳改生涯？为什么我们被迫戴上了电子脚镣，每个月时间一到，三十年房贷就自动从我们帐户上扣款？
+>
+>我在全世界出差、旅游的时候，随意走进任何一家商店，都是中国生产的工业制品。我每次去湾区^[正牌（旧金山）湾区 San Francisco Bay Area，不是冒牌（粤港澳大）湾区。]，都能听到在最顶尖 AI 公司工作的白人小哥、ABC、甚至美本留学生跟我哭诉，说你们清华毕业的同事实在是太拼太卷了，他们每天卷不过清华毕业生，甚至好几次有人在我面前直接哭出来。我在南山科学园，我在张江高科想要约朋友出来聚餐，都要等到晚上八点左右。他们坐上我的汽车关门的时候，一边跟我道歉让我久等了，一边跟我说他刚刚请假的时候遇到了什么九九八十一难。晚上八点钟的时候，想和老朋友出去吃点烧烤喝杯啤酒，竟然要跟什么狗屁领导道歉申请批准！
+>
+>然后我们这批小镇做题家，花光所有积蓄，娶了个 30 岁上下的非处国女，然后申请了 30 年房贷，买了一套鸽子笼，把南山科学园旁边的宝安、把张江附近的唐镇、把漕河泾附近的莘庄、把海淀附近的昌平、把李逍遥发誓要走出去的余杭乡下的房价撑到一套 500 万、1000 万、3000 万、6000 万。然后，这个社会的李松坚们，看着自己蹭蹭蹭上升的净资产，觉得自己太伟大，太努力了。觉得我们祖国太伟大了！他们看着账上几百亿的浮盈，“英国算个屁、日本算个屁、就算美国又他妈算个屁！”21 年我作为一个在美国人人尊敬的高级研发工程师回到国内的时候，李松坚仰着鼻孔，指着我的头说，你们这代人，没有受过什么苦，没有在供销社抗过 200 斤大米^[李松坚他爸曾任澄海苏北公社书记，李松坚复读两年还是考不上大学之后，他爸便滥用职权把他安排进供销社 “吃苦”。]，不配跟我平等。“你读到姚班又怎么样，不也是一个打工仔？” 然后一个月给我发 2 万人民币的生活费，觉得自己是一个伟大的父亲，然后叫我去淘宝卖牛肉丸证明自己。转过头就去和那个当过外围女的“教授鸡”许洁^[许洁靠做鸡，现在成为了上海音乐学院的教授。]淫乱去，把张江、漕河泾千千万优秀中国男青年的血汗，变成艺术生妓女手中教授职称，还有几百万美金、几千万美金的奢侈品和豪宅。
+>
+>阿尔法星的自动交易机器人，即使到现在为止，都是我一个人，一行一行代码，写下来的。无数个夜晚，在半夜噩梦惊醒，伤心，痛苦过后，便是刻骨铭心的仇恨。打开电脑、写下一行一行的代码。阿尔法星的名字，既来自于半人马座阿尔法星，也来自于大犬座阿尔法星，也就是战斗之星天狼星。当时怀着复仇与战斗的欲望，写下整个公司的第一段代码：
+>```
+>/*********************
+>- Project: Sirius
+>- Author: Sinya
+>- Date: 2023-02-21
+>*********************/
+>```
+>
+>每次在写自动交易机器人的时候，我的心都痛到滴血。为什么我在写自动交易机器人？我能写自动交易机器人，我也能写自动杀戮机器人。我们年轻中国男性创造了腾讯、阿里、大疆、宁德时代，甚至创造了 Google DeepMind，OpenAI，Anthropic^[这几个公司的大部分基层中坚都是这一代中国汉族男性。]。为什么我们的所有的成果都被李松坚们（老龟男们）和郭菊阳们（鸡们）所占有？为什么我不是在写自动杀戮机器人？为什么我们不是在开发一款 AI 控制，纯电驱动的自动杀戮机器人，把李松坚们、郭菊阳们和他们的贱种二代们剥皮剔肉、敲骨吸髓——反正本来也是我们的血、我们的泪、我们的骨、我们的髓？
+>
+>在深圳全民疯狂炒房的 22 年的一天，在白石洲新塘村一坊的出租屋内，我和郭菊阳事后，在沙发上抱在一起。我起身后，突然有点犯贱，对她说：“好羡慕你有深圳户口哦，可以在深圳买房。”可能是因为郭菊阳和我约会被我注入了逼格，也可能是被我注入了眼界、品味和房地产投资知识。她也不提她卖身赚到的 6000 万的波托菲诺纯水岸的豪宅了。她脸沉了下来，侧着身子，眼里闪过了一丝忧郁和一丝哀怨。她叹了口气，用潮阳话对我说：“新野，迈再债我噢呐。深圳户口做尼有变恰你个美国身份比啦？”^[“新野，别再挖苦我了。深圳户口怎么能跟你的美国身份比？”]
+>
+>那一刻，我感觉躺在我面前的，不再是那个卖身换豪宅的庸俗妇女，更像是 14 年前说着潮阳话对我表白的那个 14 岁的少女菊阳。于是我回到她身上，又抱得更紧了一点，用力亲吻着。
+>
+>我想到了楼下作为潮南司马浦溪美朱媳妇的房东太太，还有马路对面烟茶酒铺的揭阳老板娘，都很自豪她们的深圳豪宅：“我在大冲有房。你们刚来深圳的，可能不知道大冲是哪里。” 在郭菊阳之前，我试过对老板娘的深圳户口和深圳房作出一样的挖苦，她却觉得我在酸，于是化作浅浅的相视一笑（互相嘲笑）。或许，郭菊阳在那一群对我们敲骨吸髓的污浊的炒房客之中，至少还有那么一刻，除了金钱之外，眼里还是向往着理想与爱情的吧。不然为什么会从波托菲诺纯水岸的豪宅走到白石洲的出租屋呢？
+>
+>听说凌菲菲在上海檀宫的价值 5 亿人民币的豪宅里面，跟明园森林都市保安队长做爱的时候，叫床叫得特别大声。是不是她在他的八块腹肌上，看到了她为了金钱放弃的青春呢？她一个 80 年代到上海求学的正经大学生，想到被高中生李松坚糟蹋的日日夜夜，会不会在夜里抱着浅色床单哭泣呢？有一次在深圳打出租车，一个湖南籍司机愤怒的骂说我们湖南女人都被你们广东人糟蹋了。不知道许洁在湖南见她的青梅竹马鱼水之欢的时候，是否会后悔当年离开家乡，来到纸醉金迷的上海滩做鸡呢？
+>
+>我知道很多人，看到本书标题，就会想要把我批判一番。但是没有我们这些少年郎行动起来和人妻约会，这些人妻的人生，未免也太悲哀了一点！如果和人妻约会都违法的话，那么这个已经如此污浊的社会，也未免太绝望了吧！
+>
+>是为本书结语。
+
+%% > 弗洛伊德，波伏娃，福柯%%
 ###### 权力与等级 ⭐
 ↗ [Power and Humanity - The Essence of Human](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Power%20and%20Humanity%20-%20The%20Essence%20of%20Human.md)
 
@@ -446,45 +635,6 @@ or（感性，理性）X （认识，实践）
 在各种权力中，政治权力在现实生活中直接凌驾于其他权力之上，对其他权力有直接决定性；同时经济基础又将决定一切上层建筑，故从人类发展的角度来说经济权力又是从根本上具有决定性的权力。
 
 经济权力的决定性因素，马克思主义指出，是生产力和生产关系。生产力和生产关系进一步导致了阶级的产生，从而更进一步影响整个上层建筑：政治，科技，文化。
-###### 性与爱
-我认为权力关系是一切社会关系的原型，而性与爱是权力关系的起点。
-
-> [!quote]
-> 🔗 [人妻约会指南](https://sinyalee.com/%E4%BA%BA%E5%A6%BB%E7%BA%A6%E4%BC%9A%E6%8C%87%E5%8D%97v1.4.pdf)
->
->过去 5 年间，我的内心一直充满了巨大的痛苦与仇恨。为什么我们这一代，最优秀、最努力、能力最强的一代中国男人，像犯人一样关在学校里面 20 年甚至更久，然后就结婚，被一个老国女按着头，逼着在 21 年买房，逼着申请 30 年按揭贷款？为什么我们的人生，被安排着从 20 年的监狱生涯释放，进入了 30 年流放北上广深杭的劳改生涯？为什么我们被迫戴上了电子脚镣，每个月时间一到，三十年房贷就自动从我们帐户上扣款？
->
->我在全世界出差、旅游的时候，随意走进任何一家商店，都是中国生产的工业制品。我每次去湾区^[正牌（旧金山）湾区 San Francisco Bay Area，不是冒牌（粤港澳大）湾区。]，都能听到在最顶尖 AI 公司工作的白人小哥、ABC、甚至美本留学生跟我哭诉，说你们清华毕业的同事实在是太拼太卷了，他们每天卷不过清华毕业生，甚至好几次有人在我面前直接哭出来。我在南山科学园，我在张江高科想要约朋友出来聚餐，都要等到晚上八点左右。他们坐上我的汽车关门的时候，一边跟我道歉让我久等了，一边跟我说他刚刚请假的时候遇到了什么九九八十一难。晚上八点钟的时候，想和老朋友出去吃点烧烤喝杯啤酒，竟然要跟什么狗屁领导道歉申请批准！
->
->然后我们这批小镇做题家，花光所有积蓄，娶了个 30 岁上下的非处国女，然后申请了 30 年房贷，买了一套鸽子笼，把南山科学园旁边的宝安、把张江附近的唐镇、把漕河泾附近的莘庄、把海淀附近的昌平、把李逍遥发誓要走出去的余杭乡下的房价撑到一套 500 万、1000 万、3000 万、6000 万。然后，这个社会的李松坚们，看着自己蹭蹭蹭上升的净资产，觉得自己太伟大，太努力了。觉得我们祖国太伟大了！他们看着账上几百亿的浮盈，“英国算个屁、日本算个屁、就算美国又他妈算个屁！”21 年我作为一个在美国人人尊敬的高级研发工程师回到国内的时候，李松坚仰着鼻孔，指着我的头说，你们这代人，没有受过什么苦，没有在供销社抗过 200 斤大米^[李松坚他爸曾任澄海苏北公社书记，李松坚复读两年还是考不上大学之后，他爸便滥用职权把他安排进供销社 “吃苦”。]，不配跟我平等。“你读到姚班又怎么样，不也是一个打工仔？” 然后一个月给我发 2 万人民币的生活费，觉得自己是一个伟大的父亲，然后叫我去淘宝卖牛肉丸证明自己。转过头就去和那个当过外围女的“教授鸡”许洁^[许洁靠做鸡，现在成为了上海音乐学院的教授。]淫乱去，把张江、漕河泾千千万优秀中国男青年的血汗，变成艺术生妓女手中教授职称，还有几百万美金、几千万美金的奢侈品和豪宅。
->
->阿尔法星的自动交易机器人，即使到现在为止，都是我一个人，一行一行代码，写下来的。无数个夜晚，在半夜噩梦惊醒，伤心，痛苦过后，便是刻骨铭心的仇恨。打开电脑、写下一行一行的代码。阿尔法星的名字，既来自于半人马座阿尔法星，也来自于大犬座阿尔法星，也就是战斗之星天狼星。当时怀着复仇与战斗的欲望，写下整个公司的第一段代码：
->```
->/*********************
->- Project: Sirius
->- Author: Sinya
->- Date: 2023-02-21
->*********************/
->```
->
->每次在写自动交易机器人的时候，我的心都痛到滴血。为什么我在写自动交易机器人？我能写自动交易机器人，我也能写自动杀戮机器人。我们年轻中国男性创造了腾讯、阿里、大疆、宁德时代，甚至创造了 Google DeepMind，OpenAI，Anthropic^[这几个公司的大部分基层中坚都是这一代中国汉族男性。]。为什么我们的所有的成果都被李松坚们（老龟男们）和郭菊阳们（鸡们）所占有？为什么我不是在写自动杀戮机器人？为什么我们不是在开发一款 AI 控制，纯电驱动的自动杀戮机器人，把李松坚们、郭菊阳们和他们的贱种二代们剥皮剔肉、敲骨吸髓——反正本来也是我们的血、我们的泪、我们的骨、我们的髓？
->
->在深圳全民疯狂炒房的 22 年的一天，在白石洲新塘村一坊的出租屋内，我和郭菊阳事后，在沙发上抱在一起。我起身后，突然有点犯贱，对她说：“好羡慕你有深圳户口哦，可以在深圳买房。”可能是因为郭菊阳和我约会被我注入了逼格，也可能是被我注入了眼界、品味和房地产投资知识。她也不提她卖身赚到的 6000 万的波托菲诺纯水岸的豪宅了。她脸沉了下来，侧着身子，眼里闪过了一丝忧郁和一丝哀怨。她叹了口气，用潮阳话对我说：“新野，迈再债我噢呐。深圳户口做尼有变恰你个美国身份比啦？”^[“新野，别再挖苦我了。深圳户口怎么能跟你的美国身份比？”]
->
->那一刻，我感觉躺在我面前的，不再是那个卖身换豪宅的庸俗妇女，更像是 14 年前说着潮阳话对我表白的那个 14 岁的少女菊阳。于是我回到她身上，又抱得更紧了一点，用力亲吻着。
->
->我想到了楼下作为潮南司马浦溪美朱媳妇的房东太太，还有马路对面烟茶酒铺的揭阳老板娘，都很自豪她们的深圳豪宅：“我在大冲有房。你们刚来深圳的，可能不知道大冲是哪里。” 在郭菊阳之前，我试过对老板娘的深圳户口和深圳房作出一样的挖苦，她却觉得我在酸，于是化作浅浅的相视一笑（互相嘲笑）。或许，郭菊阳在那一群对我们敲骨吸髓的污浊的炒房客之中，至少还有那么一刻，除了金钱之外，眼里还是向往着理想与爱情的吧。不然为什么会从波托菲诺纯水岸的豪宅走到白石洲的出租屋呢？
->
->听说凌菲菲在上海檀宫的价值 5 亿人民币的豪宅里面，跟明园森林都市保安队长做爱的时候，叫床叫得特别大声。是不是她在他的八块腹肌上，看到了她为了金钱放弃的青春呢？她一个 80 年代到上海求学的正经大学生，想到被高中生李松坚糟蹋的日日夜夜，会不会在夜里抱着浅色床单哭泣呢？有一次在深圳打出租车，一个湖南籍司机愤怒的骂说我们湖南女人都被你们广东人糟蹋了。不知道许洁在湖南见她的青梅竹马鱼水之欢的时候，是否会后悔当年离开家乡，来到纸醉金迷的上海滩做鸡呢？
->
->我知道很多人，看到本书标题，就会想要把我批判一番。但是没有我们这些少年郎行动起来和人妻约会，这些人妻的人生，未免也太悲哀了一点！如果和人妻约会都违法的话，那么这个已经如此污浊的社会，也未免太绝望了吧！
->
->是为本书结语。
-
-%% > 弗洛伊德，波伏娃，福柯%%
-
-###### 自我意识与自我的关系（自我对自己在社会、宇宙中的思考）
-下文“主体（自我意识）的发展与成熟”
 ###### 个体与个体的关系
 - 亲密关系
 ###### 个体与群体的关系
@@ -497,7 +647,7 @@ or（感性，理性）X （认识，实践）
 和谐共生
 
 tbd.
-##### 主体（自我意识）的发展与成熟
+##### 自我意识与自我的关系（自我思考的发展与成熟）
 ↗ [Psychology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Psychology/Psychology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 - ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
@@ -509,8 +659,9 @@ tbd.
 - 在若干阶段中进行：童年，少年，青年，中年，老年
 ###### 与生俱来的天性
 自我意识对自我的思考（对自我进行思考而获得的自我意识）
-- 贪婪
-- 自私
+- 自私（自我，生存）
+- 好奇（我与宇宙的关系）
+- 繁衍
 ###### 社会能力及习得
 自我意识对非我（社会与自然）的思考（对非我进行思考而获得的自我意识）
 - 社会能力
@@ -607,7 +758,7 @@ tbd.
 艺术：对文化进行提炼，进行的文化实践活动。
 ##### 信息的运动：思考与自我意识
 参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
-##### 信息运动的自动化：计算机智能（狭义的智能）
+##### 信息运动的自动化：计算机智能（狭义的智能）👈
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
@@ -681,7 +832,7 @@ tbd.
 目前的大语言模型没有类似人类的推理能力。它展现的类似推理能力的表现，实际上可看作是对其知识图网络路径的概率展示。（是吗？这是一个未定论的问题）大语言模型的“推理能力”和人类的推理能力的根本不同在于，人类的推理是对其知识图网络的路径的确定展示，而大语言模型是概率展示。这意味着，对人来说，同一个逻辑，在任何时候都是成立的，而大语言模型有概率会不成立。
 
 不过，大语言模型的巨大优势就是，在同等资源下，它极大地提高了对知识图网络的搜索速度、广度、深度（不过结果的”正确性“是基于概率的）。换句话说，一个要被正常人类花费很多精力才能习得的知识，大语言模型在几秒钟就可以返回。从这个实际效率的角度来说，大语言模型看起来 “比人类还要智能”。
-#### 生命 -> 人类智能 -> 类人智能（广义的智能）⭐
+#### 生命 -> 人类智能 -> 类人智能（广义的智能）👈
 > [!links]
 > ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 > ↗ [AI Embodiment & World Model (WM)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
@@ -786,8 +937,17 @@ tbd.
 **狭义的智能**：类似人类的认识能力，不包括对宇宙的实践（改造）能力。人类通过制造机器（计算机）进行自动计算，达到这种狭义的智能能力。
 - 目前计算机只能做到基于逻辑（理性）的认识，并不能做到基于情感（感性）的认识（无法计算人类情感）。目前人工智能领域的研究范畴也属于此狭义的智能。
 - 通过对人工智能技术的进一步研究与发展，远景目标是做到能够让计算机达到情感认识的能力，即所谓的人工智能突破奇点。当一个物体，即具有逻辑（理性）能力，又具有情感（感性）能力，这种物体（我认为）就达到了人类同一级别的智能水平，此时这种物体的智能水平和人类的智能水平的差距就只在于计算速度、知识储备等方面，而不具有可计算能力上的差别了。
-##### 文明
+##### 文明与智能
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+
+> [!quote]
+> 贺新郎·读史
+> 毛泽东
+> 
+> 人猿相揖别。只几个石头磨过，小儿时节。铜铁炉中翻火焰，为问何时猜得？不过几千寒热。人世难逢开口笑，上疆场彼此弯弓月。流遍了，郊原血。
+> 
+> 一篇读罢头飞雪，但记得斑斑点点，几行陈迹。五帝三皇神圣事，骗了无涯过客。有多少风流人物？盗跖庄蹻流誉后，更陈王奋起挥黄钺。歌未竟，东方白。
 
 
 ### 运动与（人/人类社会 的）发展
@@ -912,7 +1072,6 @@ tbd.
 自由还是约束？
 绝对的自由就是不自由。
 
-
 ######  个体经济权力：阶级与阶级跨越
 人类的社会关系即权力关系。这种权力关系中，最重要的是经济关系。当我们谈论阶级，我们实际上在谈论经济的权力关系。而经济关系具有两个关键因素：生产力和生产关系。生产力和生产关系进一步导致了阶级的产生，并进一步影响整个上层建筑。
 
@@ -971,7 +1130,7 @@ tbd.
 > 在过去物质不丰富的年代，人虽然是法律上的自由人，但是时间都用来获取谋生的基本物质了，想象苏格拉底那样生活和思考完全是奢望。因此，通识教育便无从谈起，甚至也没有必要。但是今天，中国人已经从法律上的自由人变成了经济上的自由人，接下来应该变成精神上的自由人，此时通识教育就显得特别有必要了。
 > 
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
-#### 群体（社会）发展的路径 /方法
+#### 群体（社会）发展的路径 /方法 ⭐
 > [!links]
 > ↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 > 
@@ -998,9 +1157,21 @@ tbd.
 	- ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 ##### 原理（发展动力）
 ###### 劳动，生产，与经济
-↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
-↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
-↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
+> [!links]
+> ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
+> ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
+> ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
+> 
+> ↗ [中国经济发展](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+> - ↗ [中国经济发展史](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/中国经济发展史.md)
+> 
+> ↗ [U.S. Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+> - ↗ [U.S. Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+> 
+> ↗ [Japanese Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/Japanese%20Economics.md)
+> - ↗ [Japan Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japan%20Economics%20&%20Finance%20History/Japan%20Economics%20&%20Finance%20History.md)
+> 
+> ↗ [EU Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/EU%20Economics.md)
 
 > [!quote]
 > 历史唯物主义认为：==生产力和生产关系之间的矛盾，经济基础和上层建筑之间的矛盾，这是人类社会的基本矛盾==。这两对矛盾存在于一切社会形态之中，贯穿于每一个社会形态的始终，决定着其他各种社会矛盾，==是推动社会发展的基本动力，决定着社会历史的一般进程。==
@@ -1052,6 +1223,20 @@ tbd.
 
 > [!quote]
 > 中共文献认为，“人民群众是历史的创造者”是[历史唯物主义](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89 "历史唯物主义")的基本原理之一。人民群众指的是推动历史发展的人的总和，在阶级社会中，所有促进社会发展的阶级、阶层和社会集团都是人民群众。尽管在不同的[国家](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6 "国家")、不同的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")时期，人民群众的构成成分不同，但主体一直是从事物质资料生产的劳动群众。“人民群众是历史的创造者”这一句话的含义是：在一切参与了历史发展的人当中，对历史起到决定性作用的是人民群众。
+
+> [!quote]
+> 《沁园春·雪》
+> 毛泽东
+> 
+> 北国风光，千里冰封，万里雪飘。
+> 望长城内外，惟余莽莽；大河上下，顿失滔滔。(余 通：馀)
+> 山舞银蛇，原驰蜡象，欲与天公试比高。(原驰 一作：原驱)
+> 须晴日，看红装素裹，分外妖娆。
+> 
+> 江山如此多娇，引无数英雄竞折腰。
+> 惜秦皇汉武，略输文采；唐宗宋祖，稍逊风骚。
+> 一代天骄，成吉思汗，只识弯弓射大雕。
+> 俱往矣，数风流人物，还看今朝。
 ##### 资源获取与使用 - 线索1：国家治理
 ###### 教育，人才，科技，创新与改革 ⏫
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)

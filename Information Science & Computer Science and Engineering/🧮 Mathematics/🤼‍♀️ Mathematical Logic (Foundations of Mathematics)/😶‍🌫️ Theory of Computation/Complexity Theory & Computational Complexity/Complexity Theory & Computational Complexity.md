@@ -197,7 +197,7 @@ neuro-symbolic AI: LLM + verification = generation + filtering. this approach do
 ---
 ↗ [Education](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [中国教育与培训业](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/🧑🏽‍🏫%20中国教育与培训业/中国教育与培训业.md)
-↗ [中国教育 & 教育部](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府/中国中央人民政府（国务院）/中国教育%20&%20教育部/中国教育%20&%20教育部.md)
+↗ [中国教育 & 教育部](../../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国教育%20&%20教育部/中国教育%20&%20教育部.md)
 
 In China, we don't educate /inspire students. we only filter students. meaning, we don't bother finding a better educational system to cultivate a people form ignorance to liberal, instead, we generate lots of people and set a verifier to filter people who are somewhat already "liberal". as for how people grew into that talents, don't care. we let that person him/herself to figure out. 
 
