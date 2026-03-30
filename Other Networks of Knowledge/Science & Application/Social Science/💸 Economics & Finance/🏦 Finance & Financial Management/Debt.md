@@ -75,5 +75,10 @@ Municipal bonds (or muni bonds) are typical debt obligations, for which the cond
 > 🔗 https://en.wikipedia.org/wiki/Debt#Debt_markets
 
 
+### List of Debt
+https://en.wikipedia.org/wiki/List_of_countries_by_household_debt
+ - The following lists sort countries by stock of loans and debt issued by households as a percentage of [GDP](https://en.wikipedia.org/wiki/GDP "GDP") according to data by the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund "International Monetary Fund") and [Institute of International Finance](https://en.wikipedia.org/wiki/Institute_of_International_Finance "Institute of International Finance").
+
+
 
 ## Ref
