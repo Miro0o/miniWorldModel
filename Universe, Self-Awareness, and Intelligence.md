@@ -1290,8 +1290,7 @@ tbd.
 
 ↗ [U.S. Political Parties & Ideologies](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Political%20Parties%20&%20Ideologies/U.S.%20Political%20Parties%20&%20Ideologies.md)
 
-
-> [!TIP]
+> [!quote]
 > 🎬 https://youtu.be/nVR9TKd1vcQ?si=aN-DhiJ5qUrR3XQR
 > 李世默讲透中共成功秘诀！西方多党制根本玩不过共产党！
 > 早在2016年，风险投资人李世默就在香港的一场演讲中，提出了一个独创性的观点：当西方因民主、法治等因素陷入“政治衰败”时，中国共产党的核心竞争力恰恰是改革。 他用投资人的视角，剖析了中共独特的“先有党，再有国”结构，并总结出“贤能、实验、创业”三种高效的治理模式。重温这场经典演讲，可以帮助我们更深刻地理解，为何中国模式能在21世纪的全球改革竞赛中脱颖而出。
