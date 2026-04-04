@@ -328,8 +328,11 @@ If you're interested in the field of LLM, you may find the above list of milesto
 The Origin of ChatGPT | Art of the Problem
 I follow the 35 year journey that led to the explosion of Large Language Models. From Jordan's pioneering work in 1986 to today's GPT-4, this documentary traces how AI learned to talk. Featuring insights from AI pioneers including Chomsky, Hofstadter, Hinton, and LeCun, exploring the revolutionary concepts that made ChatGPT possible: transformer architecture, attention mechanism, next-token prediction, and emergent capabilities. Next video following open ai's o1 model My script, references & visualizations here: https://docs.google.com/document/d/1s7FNPoKPW9y3EhvzNgexJaEG2pP4Fx_rmI4askoKZPA/edit?usp=sharing
 
-🎬 (1hr Talk) Intro to Large Language Models | Andrej Karpathy
 https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
+🎬 (1hr Talk) Intro to Large Language Models | Andrej Karpathy
+
+https://youtu.be/7xTGNNLPyMI?si=SPgX7IzfCtJy9GeO
+Deep Dive into LLMs like ChatGPT
 
 👍 https://huggingface.co/spaces/Eliahu/Model-Atlas
 
@@ -371,7 +374,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ##### How Emergent Abilities Relate to Scaling Laws
 
 
-### LLM Modeling ⭐
+### LLM Modeling & Architecture ⭐
 > [!links]
 > ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
 > ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)

@@ -6,7 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 ↗ [LLM (Large Language Model)](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
 
 ### Learning Resources
@@ -55,7 +58,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 
 
 ### Attention
-↗ [Attention Mechanism & Efficient Implementation](Attention%20Mechanism%20&%20Efficient%20Implementation.md)
+↗ [Attention in Transformer & Efficient Implementation](Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
@@ -153,7 +156,7 @@ Full encoder–decoder Transformer
 > - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf). _Colin Raffel, Noam M. Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, W. Li, Peter J. Liu_. J. Mach. Learn. Res. 2019. Introduces **T5** from Google.
 
 
-### 2️⃣ Decoder-Only Transformer ⭐
+### 2️⃣ Decoder-Only Transformer & LLM ⭐
 > [!LINKS]
 > ↗ [LLM Training, Utilization, and Evaluation](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 > 
@@ -196,7 +199,6 @@ Full encoder–decoder Transformer
 > - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768.pdf). _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_. 2020. Introduces **Linformers**.
 > - [Rethinking Attention with Performers](https://arxiv.org/pdf/2009.14794.pdf). _K. Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamás Sarlós, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy J. Colwell, Adrian Weller_. ICLR 2020. Introduces **Performers**.
 > - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf). _Yi Tay, M. Dehghani, Dara Bahri, Donald Metzler_. 2020.
-> 
 
 >🤖 https://chatgpt.com/share/69d11f8b-ec20-8397-aa1c-40a5e50d5d61
 
@@ -269,8 +271,16 @@ tokens
 ```
 
 That high-level structure is still very close to GPT. What changed is the **inside of the block**: better normalization, better positional encoding, more inference-efficient attention, and sometimes MoE sparsity.
+#### 📌 LLM Architecture Gallery
+https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+The Big LLM Architecture Comparison: 
+From DeepSeek V3 to GLM-5: A Look At Modern LLM Architecture Design
+
+https://sebastianraschka.com/llm-architecture-gallery/
+- This page collects architecture figures and fact sheets from [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison), [From GPT-2 to gpt-oss](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the), [From DeepSeek V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek), and [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight), plus selected release posts or technical reports when a new architecture has not been covered in one of those articles yet. It focuses on the architecture panels only. Click a figure to enlarge it and use the model title to jump to the corresponding article section.
+- ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
 #### Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
-↗ [MoE (Mixture of Experts) Architecture](Dense%20Decoder/MoE%20(Mixture%20of%20Experts)%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
+↗ [MoE (Mixture of Experts) Architecture](Sparse%20&%20Dense%20Decoder%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
 
 #### Residual Connections
 ↗ [Residual Connections](Residual%20Connections.md)
@@ -278,7 +288,7 @@ That high-level structure is still very close to GPT. What changed is the **insi
 #### Normalizations
 
 #### Attention Redesign
-↗ [Attention Mechanism & Efficient Implementation](Attention%20Mechanism%20&%20Efficient%20Implementation.md)
+↗ [Attention in Transformer & Efficient Implementation](Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
 
 #### Retrieve-Based Model
 ↗ [Retrieve-Based Architecture](Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)

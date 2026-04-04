@@ -1,4 +1,4 @@
-# Attention Mechanism & Efficient Implementation
+# Attention in Transformer & Efficient Implementation
 
 [TOC]
 
@@ -37,6 +37,18 @@ Attention Residuals
 
 
 ### Other Resources
+https://youtu.be/4Bdc55j80l8?si=RlQTHWKJEfuNsqe7
+Illustrated Guide to Transformers Neural Network: A step by step explanation
+The AI Hacker
+
+https://youtu.be/KJtZARuO3JY?si=wiF4ZkEs_b1qC8y_
+Visualizing transformers and attention | Talk for TNG Big Tech Day '24
+[Grant Sanderson](https://www.youtube.com/@GrantSanderson)
+
+https://youtu.be/bQ5BoolX9Ag?si=rLHV7OLFC8IUyk3F
+Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+https://youtu.be/zxQyTK8quyY?si=vvSM36i8tdvo_6z_
+Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!
 
 
 
@@ -67,21 +79,30 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 
 
 ### Standard Scaled Dot-Product Attention
+> 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Standard_scaled_dot-product_attention
+
+> 🔗 https://en.wikipedia.org/wiki/Transformer_(deep_learning)#Scaled_dot-product_attention
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404213907.png)
 
 
-### Masked Attention
+#### Masked Attention
+> 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Masked_attention
 
 
-### Multi-Head Attention (MHA)
-
-
-### Bahdanau (Additive) Attention
-
-
-### Luong Attention (general)
+#### Multi-Head Attention (MHA)
+> 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Multi-head_attention
 
 
 ### Self-Attention & Cross-Attention
+
+
+### Bahdanau (Additive) Attention
+> 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Bahdanau_(additive)_attention
+
+
+### Luong Attention (general)
+> 🔗 https://en.wikipedia.org/wiki/Attention_(machine_learning)#Luong_attention_(general)
 
 
 

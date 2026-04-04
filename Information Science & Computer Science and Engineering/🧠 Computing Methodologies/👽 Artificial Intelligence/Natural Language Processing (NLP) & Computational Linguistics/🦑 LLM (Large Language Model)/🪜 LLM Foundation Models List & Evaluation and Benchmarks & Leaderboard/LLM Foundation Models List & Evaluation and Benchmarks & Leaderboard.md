@@ -202,7 +202,7 @@ OpenBMB
 - [CPM-Bee-1|2|5|10B](https://huggingface.co/collections/openbmb/cpm-bee-65d491cc84fc93350d789361)
 
 RWKV Foundation
-- [RWKV-v4|5|6](https://huggingface.co/RWKV)minicpm-2b-65d48bf958302b9fd25b698f)
+- [RWKV-v4|5|6](https://huggingface.co/RWKV) minicpm-2b-65d48bf958302b9fd25b698f)
 
 ElutherAI
 - [Pythia-1|1.4|2.8|6.9|12B](https://github.com/EleutherAI/pythia)

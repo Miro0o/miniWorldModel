@@ -63,6 +63,8 @@ https://www.alignmentforum.org/
 
 https://artificialanalysis.ai/trends
 
+https://magazine.sebastianraschka.com/
+
 
 ### Learning Resources
 PEARSON SERIES IN ARTIFICIAL INTELLIGENCE | Stuart Russell and Peter Norvig, Editors
