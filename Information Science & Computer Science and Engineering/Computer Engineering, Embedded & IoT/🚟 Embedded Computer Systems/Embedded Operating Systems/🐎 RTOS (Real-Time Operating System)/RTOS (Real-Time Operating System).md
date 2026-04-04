@@ -5,7 +5,11 @@
 
 
 ## Res
+### Related Topics
 ↗ [Real-Time Scheduling](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/Real-Time%20Scheduling/Real-Time%20Scheduling.md)
+
+
+### Other Resource
 
 
 
@@ -26,4 +30,3 @@ Wireless networks, which combine the compactness of embedded systems with issues
 
 
 ## Ref
-

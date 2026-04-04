@@ -222,7 +222,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 
 
-## Neural Network Basics
+## Neural Network (NN) Basics
 > [!TIP]
 > https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 > Neural networks | 3Blue1Brown
@@ -245,7 +245,8 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ![](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
 
 
-### Mathematical Modeling of Neuron
+### 🎯 NN Modeling: Neuron and Neural Network
+#### Mathematical Modeling of Neuron
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
@@ -253,7 +254,10 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
 <small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
-#### Activation Function
+##### Linear Function
+
+##### Activation Function
+↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions)/Activation%20Functions%20(Transfer%20Functions).md)
 
 #### Perceptron
 > 🔗 https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea
@@ -268,9 +272,24 @@ A **perceptron** is the earliest form of a neural network unit, introduced by�
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260318161516.png)
 <small><a>https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea</a></small>
+#### Feed-Forward Neural Networks (FFNN)
+> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
+> RUSSELL & NORVIG
+> Chapter 22.1
+
+A feedforward network, as the name suggests, has connections only in one direction—that is, it forms a directed acyclic graph with designated input and output nodes. Each node computes a function of its inputs and passes the result to its successors in the network. Information flows through the network from the input nodes to the output nodes, and there are no loops.
+
+A recurrent network, on the other hand, feeds its intermediate or final outputs back into its own inputs. This means that the signal values within the network form a dynamical system that has internal state or memory. We will consider recurrent networks in Section 22.6.
+
+Boolean circuits, which implement Boolean functions, are an example of feedforward networks. In a Boolean circuit, the inputs are limited to 0 and 1, and each node implements a simple Boolean function of its inputs, producing a 0 or a 1. In neural networks, input values are typically continuous, and nodes take continuous inputs and produce continuous outputs. Some of the inputs to nodes are parameters of the network; the network learns by adjusting the values of these parameters so that the network as a whole fits the training data.
 
 
-### Back-propagation & Gradient Descent
+### 🎯 NN Training: Gradient Descent & Back-propagation
+> [!links]
+> ↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
+> ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
+> ↗ [Model Validation](3️⃣%20Model%20Training/Model%20Validation/Model%20Validation.md)
+
 > [!TIP]
 > https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 > Neural networks | 3Blue1Brown
@@ -286,27 +305,36 @@ A **perceptron** is the earliest form of a neural network unit, introduced by�
 > - jupyter notebooks I built in this video: [https://github.com/karpathy/nn-zero-t...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFxeGdRcGVWdXhjLV9RbHQyZm94djdLYm4tUXxBQ3Jtc0tuS1JKOFBIcTRadWtVY1BBZFUtY3d6U09iZ29FcjR4R2c2MzgtSlRjZWlnOEkxUFUtVUlZaTNXSkFRUXJSaXBxNkVER3NSbTMzbG9iQnBuckl5WWNWU1hOUTdwSGtuNmNLbUhUNWg1c1dWanpCYkZNUQ&q=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fnn-zero-to-hero%2Ftree%2Fmaster%2Flectures%2Fmicrograd&v=VMj-3S1tku0)
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
+> [!links]
+> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions/Loss%20Functions.md)
+
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
+#### Gradient Descent & Optimization
+> [!links]
+> ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+> 
+> ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
+> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers/Optimizers.md)
 
+> 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 
-### Feed-Forward Neural Networks (FFNN)
-> 📖 Artificial Intelligence: A Modern Approach, 4th ed.
-> RUSSELL & NORVIG
-> Chapter 22.1
+**Gradient descent** is a method for unconstrained [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization "Mathematical optimization"). It is a [first-order](https://en.wikipedia.org/wiki/Category:First_order_methods "Category:First order methods") [iterative](https://en.wikipedia.org/wiki/Iterative_algorithm "Iterative algorithm") [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for minimizing a [differentiable](https://en.wikipedia.org/wiki/Differentiable_function "Differentiable function") [multivariate function](https://en.wikipedia.org/wiki/Multivariate_function "Multivariate function").
 
-A feedforward network, as the name suggests, has connections only in one direction—that is, it forms a directed acyclic graph with designated input and output nodes. Each node computes a function of its inputs and passes the result to its successors in the network. Information flows through the network from the input nodes to the output nodes, and there are no loops.
+The idea is to take repeated steps in the opposite direction of the [gradient](https://en.wikipedia.org/wiki/Gradient "Gradient") (or approximate gradient) of the function at the current point, because this is the direction of steepest descent. Conversely, stepping in the direction of the gradient will lead to a trajectory that maximizes that function; the procedure is then known as _gradient ascent_. It is particularly useful in [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning") and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") for minimizing the cost or loss function.[[1]](https://en.wikipedia.org/wiki/Gradient_descent#cite_note-auto-1) Gradient descent should not be confused with [local search](https://en.wikipedia.org/wiki/Local_search_\(optimization\) "Local search (optimization)") algorithms, although both are [iterative methods](https://en.wikipedia.org/wiki/Iterative_method "Iterative method") for [optimization](https://en.wikipedia.org/wiki/Global_optimization "Global optimization").
 
-A recurrent network, on the other hand, feeds its intermediate or final outputs back into its own inputs. This means that the signal values within the network form a dynamical system that has internal state or memory. We will consider recurrent networks in Section 22.6.
+Gradient descent is generally attributed to [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy "Augustin-Louis Cauchy"), who first suggested it in 1847. [Jacques Hadamard](https://en.wikipedia.org/wiki/Jacques_Hadamard "Jacques Hadamard") independently proposed a similar method in 1907. Its convergence properties for non-linear optimization problems were first studied by [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry "Haskell Curry") in 1944, with the method becoming increasingly well-studied and used in the following decades.
 
-Boolean circuits, which implement Boolean functions, are an example of feedforward networks. In a Boolean circuit, the inputs are limited to 0 and 1, and each node implements a simple Boolean function of its inputs, producing a 0 or a 1. In neural networks, input values are typically continuous, and nodes take continuous inputs and produce continuous outputs. Some of the inputs to nodes are parameters of the network; the network learns by adjusting the values of these parameters so that the network as a whole fits the training data.
+A simple extension of gradient descent, [stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent "Stochastic gradient descent"), serves as the most basic algorithm used for training most [deep networks](https://en.wikipedia.org/wiki/Deep_neural_network "Deep neural network") today.
 
 
 
 ## Neural Networks Developments
 > [!links]
 > ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+>
 
 ↗ [Dataset Preparation](1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [LLM Training Datasets](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
 
 ↗ [Neural Network Models](2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
 - ↗ [CNN (Convolutional Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
@@ -317,7 +345,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 	- ↗ [LSTM (Long-Short Term Memories)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/LSTM%20(Long-Short%20Term%20Memories)/LSTM%20(Long-Short%20Term%20Memories).md)
 	- ↗ [RetNet (Retentive Network)](2️⃣%20Neural%20Network%20Models%20🗿/RNN%20(Recurrent%20Neural%20Network)/RetNet%20(Retentive%20Network)/RetNet%20(Retentive%20Network).md)
 - ↗ [SSM (State-Space Model)](2️⃣%20Neural%20Network%20Models%20🗿/SSM%20(State-Space%20Model)/SSM%20(State-Space%20Model).md)
-- ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+- ↗ [Transformers](2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md) 🤔
 	- ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 		- ↗ [OpenAI GPT](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/OpenAI%20GPT.md)
 		- ↗ [Google Gemini](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
@@ -326,8 +354,16 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 		- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
 		- ↗ [xAI Grok](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
 - ↗ [GNN (Graph Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
+↗ [Generative Models](../🪽%20Generative%20Models/Generative%20Models.md)
 
 ↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
+- ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md) 🤔
+- ↗ [ML Training Management & Visualization](3️⃣%20Model%20Training/ML%20Training%20Management%20&%20Visualization/ML%20Training%20Management%20&%20Visualization.md)
+- ↗ [Model Validation](3️⃣%20Model%20Training/Model%20Validation/Model%20Validation.md)
+- ↗ [Models Combination](3️⃣%20Model%20Training/Models%20Combination/Models%20Combination.md)
+↗ [LLM Training, Utilization, and Evaluation](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
+- ↗ [Post-Training & Fine Tuning](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+- ↗ [Pre-Training](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)
 
 ↗ [Process Monitoring](4️⃣%20Process%20Monitoring/Process%20Monitoring.md)
 

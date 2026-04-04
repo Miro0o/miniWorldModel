@@ -6,10 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Database System Web Services' Architectures](../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
-↗ [Internet (Web) Application Systems & Architecture Design](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
-↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [DS Services Architectures](../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+
 ↗ [The Internet Development (and Web Development)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+
+↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
 ### Learning Resources

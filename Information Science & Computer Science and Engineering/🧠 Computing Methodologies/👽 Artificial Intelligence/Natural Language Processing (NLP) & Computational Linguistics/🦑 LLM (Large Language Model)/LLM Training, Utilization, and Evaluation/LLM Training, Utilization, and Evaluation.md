@@ -7,6 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+
+↗ [Running ML on GPU](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Running%20ML%20on%20GPU.md)
 
 
 ### Other Resources
@@ -23,8 +26,52 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 
 ## Intro
-↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> [!links]
+> ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+> ↗ [Model Tuning & Hyperparameter Optimization](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
+> ↗ [Transformers](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+
+
+### Common LLM Hyperparameters Summery
+> 🤖 GPT-5
+> https://chatgpt.com/share/69cc36d7-c9ec-832b-876d-1f0749d09017
+
+| **Category**             | **Component**                | **Key Parameters**           | **Algorithms / Design Choices**                            | **Modern Usage Examples**                       |
+| ------------------------ | ---------------------------- | ---------------------------- | ---------------------------------------------------------- | ----------------------------------------------- |
+| 🧱 **Architecture**      | Residual Connections         | Residual scaling, placement  | Standard residual, **Pre-LN vs Post-LN**, scaled residuals | GPT-5 → Pre-LN (very likely), LLaMA → Pre-LN    |
+|                          | Normalization                | ε, placement                 | LayerNorm, **RMSNorm**                                     | DeepSeek → RMSNorm                              |
+|                          | Attention Mechanism          | \#heads, head dim, scaling   | Multi-head, **GQA**, MQA, FlashAttention                   | Gemini → GQA-style                              |
+|                          | Feedforward Layer            | Hidden size, expansion ratio | ReLU, GELU, **SwiGLU**                                     | LLaMA → SwiGLU                                  |
+|                          | Positional Encoding          | Max context, embedding type  | Sinusoidal, **RoPE**, ALiBi                                | GPT-4 → RoPE (likely), DeepSeek → RoPE variants |
+|                          | Model Size                   | \#layers, hidden dim, params | Dense vs **MoE**                                           | DeepSeek → MoE                                  |
+|                          | Vocabulary                   | Vocab size, tokenizer        | BPE, SentencePiece, Unigram                                | Claude                                          |
+|                          | Embeddings                   | Dim, tying                   | Input/output tying, scaling                                | Standard across all models                      |
+|                          | Dropout (Architecture-level) | Dropout rate                 | Dropout, attention dropout                                 | Less used in modern large models                |
+|                          |                              |                              |                                                            |                                                 |
+| ⚙️ **Optimization**      | Optimizer                    | LR, β₁, β₂, ε                | **AdamW**, Adafactor, Lion                                 | GPT-5 (likely AdamW)                            |
+|                          | LR Schedule                  | Warmup, decay                | **Cosine decay**, linear                                   | All frontier models                             |
+|                          | Gradient Clipping            | Norm threshold               | Global norm clipping                                       | Standard                                        |
+|                          | Weight Decay                 | λ                            | Decoupled weight decay                                     | Standard                                        |
+|                          |                              |                              |                                                            |                                                 |
+| 📦 **Training Dynamics** | Batch Size                   | Tokens/step                  | Large batch + accumulation                                 | Gemini                                          |
+|                          | Sequence Length              | Context window               | 4K → 1M tokens scaling                                     | GPT-5                                           |
+|                          | Loss Function                | Loss type                    | Cross-entropy                                              | Universal                                       |
+|                          | Label Smoothing              | ε                            | Smoothed CE                                                | Occasionally used                               |
+|                          | Curriculum                   | Data ordering                | Curriculum learning                                        | Increasingly used                               |
+|                          |                              |                              |                                                            |                                                 |
+| ⚡ **Numerics**           | Precision                    | FP32/16/BF16/FP8             | **BF16**, FP8 emerging                                     | DeepSeek                                        |
+|                          | Loss Scaling                 | Scale factor                 | Dynamic scaling                                            | FP16 setups                                     |
+|                          | Stability Tricks             | Init scaling                 | μP, scaled init                                            | Frontier training                               |
+|                          | Label Smoothing              | ε                            | Smoothed CE                                                | Occasionally used                               |
+|                          | Curriculum                   | Data ordering                | Curriculum learning                                        | Increasingly used                               |
+|                          |                              |                              |                                                            |                                                 |
+| 🧠 **Memory & Scaling**  | Parallelism                  | GPU count, sharding          | Data / tensor / pipeline                                   | All frontier models                             |
+|                          | Memory Optimization          | Sharding level               | ZeRO, FSDP, checkpointing                                  | DeepSpeed                                       |
+|                          | Throughput                   | Tokens/sec                   | Kernel fusion, FlashAttention                              | Universal                                       |
+|                          |                              |                              |                                                            |                                                 |
+| 🎯 **Alignment**         | Fine-tuning                  | Reward model, KL             | RLHF, **DPO**, RLAIF                                       | Claude                                          |
+|                          | Sampling Strategy            | Temperature, top-k/p         | Nucleus sampling                                           | All LLMs                                        |
+|                          | Safety Training              | Constraints                  | Constitutional AI                                          | Claude                                          |
 
 
 
@@ -34,6 +81,7 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 ### Data Preparation
 ↗ [Dataset Preparation](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/1️⃣%20Datasets%20Preparation/Dataset%20Preparation.md)
+↗ [LLM Training Datasets](LLM%20Training/LLM%20Training%20Datasets/LLM%20Training%20Datasets.md)
 
 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-data (2025.01)
 - [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
@@ -51,8 +99,9 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 #### Long Context Modeling
 
 
-### Model Training
+### Model (Pre) Training
 ↗ [Model Training](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/3️⃣%20Model%20Training/Model%20Training.md)
+↗ [Pre-Training](LLM%20Training/Pre-Training/Pre-Training.md)
 #### LLM Training Frameworks
 > 🔗 https://github.com/Hannibal046/Awesome-LLM/tree/main?tab=readme-ov-file#llm-training-frameworks (2025.01)
 
@@ -76,6 +125,7 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 
 ## 2️⃣ Post-Training & Fine Tuning
+> [!links]
 > ↗ [Post-Training & Fine Tuning](LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
 > ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 
@@ -104,21 +154,9 @@ Such alignment, which is accomplished via the three-step framework with SFT and 
 
 ## 3️⃣ Utilization & Prompt Engineering
 ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
-
-
-### In-Context Learning (ICL)
-↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
-
-
-### Chain-of-Thought (CoT)
-↗ [CoT (Chain-of-Thought)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20(Chain-of-Thought).md)
-
-
-### Retrieval Augmented Generation (RAG)
-↗ [RAG (Retrieval Augmented Generation)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
-
-
-### Prompt-Based Planning
+- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
+- ↗ [CoT (Chain-of-Thought)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20(Chain-of-Thought).md)
+- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 
 
 

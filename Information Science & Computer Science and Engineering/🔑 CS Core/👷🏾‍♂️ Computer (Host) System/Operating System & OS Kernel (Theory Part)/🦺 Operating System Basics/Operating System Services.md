@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Overview
 As we have mentioned, the operating system is an important interface to the underlying hardware, both for users and for application programs. In addition to its role as an interface, it has three principal tasks. Process management is perhaps the most interesting of these three. The other two are system resource management and protection of those resources from errant processes.
@@ -15,6 +18,15 @@ As we have mentioned, the operating system is an important interface to the unde
 
 
 ## 🥺 The Operating System as an Interface (User Perspective)
+
+> [!Links]
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> 
+> ↗ [Computer Interfaces & Hardware Drivers](../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
+> ↗ [ABI (Application Binary Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/ABI%20(Application%20Binary%20Interface).md)
+> ↗ [API (Application Program Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/API%20(Application%20Program%20Interface).md)
+
+
 ### 1️⃣ User Interface
 #### CLI
 #### GUI
@@ -36,14 +48,29 @@ As we have mentioned, the operating system is an important interface to the unde
 #### Accounting
 
 
-### Three Key Interfaces in a Typical Computer System
-#### ISA
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+### 🧠 Abstractions Provided by an Operating System (From User Perspective)
+> The operating system has two primary purposes: (1) to protect the hardware from misuse by runaway applications and (2) to provide applications with simple and uniform mechanisms for manipulating complicated and often wildly different low-level hardware devices. (CSAPP)
 
-#### ABI
-↗ [ABI (Application Binary Interface)](../../Computer%20Interfaces%20&%20Hardware%20Drivers/ABI%20(Application%20Binary%20Interface).md)
+The operating system achieves both goals via the fundamental abstractions shown in figure below: processes, virtual memory, and files. As this figure suggests
+- files are abstractions for I/O devices, 
+- virtual memory is an abstraction for both the main memory and disk I/O devices, and 
+- processes are abstractions for the processor, main memory, and I/O devices.
 
-#### API
+![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%209.33.22PM.png)
+#### 1️⃣ Processes
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+#### 2️⃣ Virtual Memory Space
+↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+↗ [Address Space & Memory Layout](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+#### 3️⃣ Files
+↗ [Network Sockets](../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
+↗ [File & File System](../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+
+↗ [IO Generality (via Abstraction)](../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
+#### 4️⃣ Virtual Machine
+The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
+
+↗ [Computer Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
 
 

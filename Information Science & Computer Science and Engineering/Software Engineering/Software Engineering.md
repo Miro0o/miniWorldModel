@@ -116,7 +116,7 @@ See more on ↗️ [SDLC (Software Development Life Circle) & SDLC Models](Softw
 
 ### Software Design & Development
 ↗️ [Software Development Norms & Patterns](Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
-↗ [Web Application System Architecture Design Pattern](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+↗ [Web Application Design Patterns](☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 
 ↗ [Application Software Engineering](☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 ↗ [System Software Engineering](👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)

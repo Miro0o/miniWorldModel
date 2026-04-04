@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Networking and Communication](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
 
 ### Other Resources

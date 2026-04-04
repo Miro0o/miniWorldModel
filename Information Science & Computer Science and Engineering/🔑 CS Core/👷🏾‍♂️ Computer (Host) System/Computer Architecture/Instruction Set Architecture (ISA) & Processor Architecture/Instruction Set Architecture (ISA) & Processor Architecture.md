@@ -31,11 +31,18 @@ AMD Documentation Center
 ## Overview
 > [!links]
 > 👉 quick look at [👧🏽 MARIE](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/👧🏽%20MARIE.md) for gists of ISA
+> 
 > ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
+> 
+> ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 The **Instruction Set Architecture (ISA)** of a machine is a critical abstraction layer in computer architecture that specifies the instructions that the computer can perform and the format for each instruction, along with the associated rules for how those instructions interact with the processor’s state (registers, memory, etc.). The ISA is essentially an interface between the software and the hardware. Some ISAs include hundreds of instructions.
 
 The ISA serves as the boundary between software (such as operating systems and applications) and hardware (the physical CPU and memory). Programmers and compilers write code that adheres to the ISA, which ensures that the code can be executed on any hardware that implements that ISA.
+
+ISA can be seen as the programmer-visible model of the computer (which is turing-complete), while the internal implementation differs with actual hardware implementation -- CPU and microarchitecture.
+- ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+- ↗ [Models of Computation & Abstract Machines](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>

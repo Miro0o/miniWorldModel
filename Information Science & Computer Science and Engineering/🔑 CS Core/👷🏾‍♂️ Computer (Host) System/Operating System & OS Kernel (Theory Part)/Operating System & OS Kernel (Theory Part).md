@@ -139,8 +139,10 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 ## Intro
-> 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+> [!links]
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> 
+> 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 ### 🤔 RTFM /RTFSC

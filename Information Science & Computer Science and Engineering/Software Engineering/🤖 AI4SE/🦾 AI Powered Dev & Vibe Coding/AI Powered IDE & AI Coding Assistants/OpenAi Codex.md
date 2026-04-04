@@ -10,6 +10,8 @@
 
 
 ### Other Resources
+https://github.com/Yeachan-Heo/oh-my-codex
+OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 
 

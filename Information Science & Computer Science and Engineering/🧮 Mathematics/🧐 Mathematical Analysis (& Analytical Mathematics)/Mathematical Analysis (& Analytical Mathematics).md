@@ -254,7 +254,7 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 #### 4️⃣ Derivative｜Differential Calculus (导数，微分)
 ↗ [Differential Calculus & Derivative of Function](Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 ↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
-#### 5️⃣ Mean Value Theorem (Lagrange Theorem)
+##### 5️⃣ Mean Value Theorem (Lagrange Theorem)
 ↗ [Mean Value Theorems](Differential%20Calculus%20&%20Derivative%20of%20Function/Mean%20Value%20Theorems.md)
 #### 6️⃣ Derivative Equation (DE, 微分方程)
 ↗ [Derivative Equation (DE)](Differential%20Calculus%20&%20Derivative%20of%20Function/Derivative%20Equation%20(DE).md)
@@ -271,23 +271,23 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 ↗ [Series (级数)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md)
 #### 1️⃣1️⃣ Function Series and Power Series (函数项级数，幂级数 - 泰勒级数)
 ↗ [Power Series](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Power%20Series.md)
-#### 1️⃣6️⃣ Fouriers Seires & Fouriers Transformation (三角级数 - 傅立叶级数)
+#### 1️⃣7️⃣ Fouriers Seires & Fouriers Transformation (三角级数 - 傅立叶级数)
 ↗ [Fouriers Seires & Fouriers Transformation (FT)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Fouriers%20Seires%20&%20Fouriers%20Transformation%20(FT).md)
 
 
-### 1️⃣1️⃣ (欧氏空间上的连续和极限)
+### 1️⃣2️⃣  (欧氏空间上的连续和极限)
 ↗ [Euclidean (Elementary) Geometry](../Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
 
 
-### ⭐ 1️⃣2️⃣ Multivariable Differential Calculus (多元微分学)
+### ⭐ 1️⃣3️⃣ Multivariable Differential Calculus (多元微分学)
 (偏导数，全微分)
 
 
-### ⭐ 1️⃣3️⃣ Multivariable Integral Calculus (多元积分学 /重积分)
+### ⭐ 1️⃣4️⃣ Multivariable Integral Calculus (多元积分学 /重积分)
 
-#### 1️⃣4️⃣ (曲线积分，曲面积分，场论)
+#### 1️⃣5️⃣ (曲线积分，曲面积分，场论)
 
-#### 1️⃣5️⃣ (含参变量积分，欧拉积分)
+#### 1️⃣6️⃣ (含参变量积分，欧拉积分)
 
 
 

@@ -27,7 +27,7 @@
 - ↗ [Ruby Web](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Language%20&%20Ecosystems/Ruby%20Web.md)
 
 ↗ [JavaScript Browser End Libraries](../🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JavaScript%20Browser%20End%20Libraries.md)
-↗ [Monolithic Arch & SPA (Single Page Application)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Monolithic%20Arch%20&%20SPA%20(Single%20Page%20Application).md)
+↗ [Monolithic Arch & SPA (Single Page Application)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/Monolithic%20Arch%20&%20SPA%20(Single%20Page%20Application).md)
 
 
 

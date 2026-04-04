@@ -154,7 +154,7 @@ jsnice
 
 
 ## WebAssembly
- ↗️ [WASM (WebAssembly)](../🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+ ↗️ [WASM (WebAssembly)](../../Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 
 
 

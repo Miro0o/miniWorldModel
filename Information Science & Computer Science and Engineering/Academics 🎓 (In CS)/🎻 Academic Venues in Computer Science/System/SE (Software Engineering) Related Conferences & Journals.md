@@ -6,6 +6,11 @@
 
 ## Res
 ### Related Topics
+↗ [Software Engineering](../../../Software%20Engineering/Software%20Engineering.md)
+↗ [Software Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
+
+
+### Other Resources
 
 
 

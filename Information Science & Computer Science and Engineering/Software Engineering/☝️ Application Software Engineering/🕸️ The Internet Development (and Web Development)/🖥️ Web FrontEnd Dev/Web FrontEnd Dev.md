@@ -17,6 +17,8 @@
 ↗ [JavaScript Browser End Libraries](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20Browser%20End%20Libraries/JavaScript%20Browser%20End%20Libraries.md)
 ↗ [JS FrontEnd Frameworks](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
 
+↗ [WASM (WebAssembly)](../Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+
 
 ### Web Front-end Templates
 ↗ [CSS & HTML UI Design & Frameworks](💅🏻%20CSS%20&%20HTML%20UI%20Design%20&%20Frameworks/CSS%20&%20HTML%20UI%20Design%20&%20Frameworks.md)

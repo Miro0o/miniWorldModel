@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [High Performance Computing](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 
 
 ### Other Resources

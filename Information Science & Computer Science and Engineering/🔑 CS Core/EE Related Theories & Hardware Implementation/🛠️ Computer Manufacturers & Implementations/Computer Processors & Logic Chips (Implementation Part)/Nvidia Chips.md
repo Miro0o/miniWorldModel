@@ -6,12 +6,102 @@
 
 ## Res
 ### Related Topics
+↗ [GPU (Graphics Processing Unit)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
+↗ [Compute Unified Device Architecture & CUDA Programming](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Graphics%20Devices%20Drivers/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+
+
+### Other Resources
 
 
 
 ## Intro
+
+
+
+## Nvidia GPU Microarchitectures
+> [!TIP]
+> 🔗 https://en.wikipedia.org/wiki/List_of_eponyms_of_Nvidia_GPU_microarchitectures
+> This is a **list of eponyms of Nvidia GPU microarchitectures**. The [eponym](https://en.wikipedia.org/wiki/Eponym "Eponym") in this case is the person after whom an architecture is named. Listed are the person, their portrait, their profession or areas of expertise, their birth year, their death year, their country of origin, the microarchitecture named after them, and the year of release of the GPU architecture.
+> 
 > 🔗 https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#
 > List of Nvidia graphics processing units
+> - Desktop GPUs
+> 	- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.29.42.png)
+> - Mobile GPUs
+> - Workstation GPUs
+> - Data Center GPUs
+> 	- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.27.31.png)
+> - Console/handheld GPUs
+
+
+### Volta
+
+
+### Turing
+
+
+### Ampere
+
+
+### Hopper
+> 🔗 https://en.wikipedia.org/wiki/Hopper_(microarchitecture)
+
+**Hopper** is a [graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit "Graphics processing unit") (GPU) [microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture "Microarchitecture") developed by [Nvidia](https://en.wikipedia.org/wiki/Nvidia "Nvidia"). It is designed for datacenters and is used alongside the [Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace_\(microarchitecture\) "Ada Lovelace (microarchitecture)") microarchitecture.
+
+Named for computer scientist and [United States Navy](https://en.wikipedia.org/wiki/United_States_Navy "United States Navy") [rear admiral](https://en.wikipedia.org/wiki/Rear_admiral "Rear admiral") [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper "Grace Hopper"), the Hopper architecture was leaked in November 2019 and officially revealed in March 2022. It improves upon its predecessors, the [Turing](https://en.wikipedia.org/wiki/Turing_\(microarchitecture\) "Turing (microarchitecture)") and [Ampere](https://en.wikipedia.org/wiki/Ampere_\(microarchitecture\) "Ampere (microarchitecture)") microarchitectures, featuring a new [streaming multiprocessor](https://en.wikipedia.org/wiki/Streaming_Multiprocessor "Streaming Multiprocessor"), a faster memory subsystem, and a [transformer](https://en.wikipedia.org/wiki/Transformer_\(deep_learning_architecture\) "Transformer (deep learning architecture)") acceleration engine.
+
+
+### Ada Lovelace
+> 🔗 https://en.wikipedia.org/wiki/Ada_Lovelace_(microarchitecture)
+
+Ada Lovelace, also referred to simply as Lovelace,[1] is a graphics processing unit (GPU) microarchitecture developed by Nvidia as the successor to the Ampere architecture, officially announced on September 20, 2022. It is named after the 19th century English mathematician Ada Lovelace,[2] one of the first computer programmers. Nvidia announced the architecture along with the GeForce RTX 40 series consumer GPUs[3] and the RTX 6000 Ada Generation workstation graphics card.[4] The Lovelace architecture is fabricated on TSMC's custom 4N process which offers increased efficiency over the previous Samsung 8 nm and TSMC N7 processes used by Nvidia for its previous-generation Ampere architecture.[5]
+
+The Ada Lovelace architecture follows on from the Ampere architecture that was released in 2020. The Ada Lovelace architecture was announced by Nvidia CEO [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang "Jensen Huang") during a GTC 2022 keynote on September 20, 2022, with the architecture powering Nvidia's GPUs for gaming, workstations and datacenters.
+
+
+### Blackwell
+> 🏠 https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/
+> 📄 https://resources.nvidia.com/en-us-blackwell-architecture
+
+> 🔗 https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)
+
+**Blackwell** is a [graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit "Graphics processing unit") (GPU) [microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture "Microarchitecture") developed by [Nvidia](https://en.wikipedia.org/wiki/Nvidia "Nvidia") as the successor to the [Hopper](https://en.wikipedia.org/wiki/Hopper_\(microarchitecture\) "Hopper (microarchitecture)") and [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace_\(microarchitecture\) "Ada Lovelace (microarchitecture)") microarchitectures.
+
+Named after statistician and mathematician [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell "David Blackwell"), the name of the Blackwell architecture was leaked in 2022 with the B40 and B100 accelerators being confirmed in October 2023 with an official Nvidia [roadmap](https://en.wikipedia.org/wiki/Technology_roadmap "Technology roadmap") shown during an investors presentation. It was officially announced at Nvidia's GTC 2024 keynote on March 18, 2024.
+
+
+
+## Nvidia GPU Models
+### Consumer GPUs
+#### Desktop GPUs
+##### GeForce RTX 30 Series
+##### GeForce RTX 40 Series
+##### GeForce RTX 50 Series
+##### DGX Spark
+#### Mobile GPUs
+
+
+### Workstation GPUs
+#### RTX Ada Generation
+
+#### RTX PRO Blackwell series
+
+
+### SoC GPUs
+#### Tegra GPU
+
+
+### Data Center GPUs
+#### A2 /A10 /A16 /A30 /A40 /A100
+
+#### H100 /H200 /H800
+
+#### L40 /L4
+
+#### B100 /B200 /B300
+
+
+### Console/handheld GPUs
 
 
 

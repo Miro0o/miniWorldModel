@@ -10,7 +10,7 @@
 ↗ [Transistors & Metal–Oxide Semiconductor (MOS)](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x01%20Logic%20Gate/Transistors%20&%20Metal–Oxide%20Semiconductor%20(MOS).md)
 
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
-- ↗ [Computer Processors & Logic Chips (Theory Part)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md)
+- ↗ [Computer Processors & Logic Chips (Theory Part)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part).md) ✅
 	- ↗ [Microprocessor & Microprocessors Unit (MPU)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
 	- ↗ [CPU (Central Processing Unit)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 	- ↗ [GPU (Graphics Processing Unit)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
@@ -33,6 +33,9 @@
 ↗ [Systems on Chip (SoC)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/Systems%20on%20Chip%20(SoC).md)
 
 ↗ [Digital (Logic) Electronics Foundations](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md) 🤔🤔🤔
+
+
+### Other Resources
 
 
 

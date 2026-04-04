@@ -12,6 +12,9 @@
 ↗ [Privilege Level & Protection Ring](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
 
+### Other Resources
+
+
 
 ## Overview
 ### What is Interrupt? Hardware Interrupt & Software Interrupt

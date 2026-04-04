@@ -11,8 +11,8 @@
 ↗ [Mobile Network Technology & Cellular Network](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network.md)
 
 ↗ [Network Application Communication Architectures](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
-↗ [Internet (Web) Application Systems & Architecture Design](Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
-↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
 ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 - ↗ [LLM Infrastructure & Deployment](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
@@ -142,8 +142,10 @@ For larger organizations and businesses, Web development teams can consist of hu
 
 
 ### Modern Web Application Architecture
-↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
-↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
+> [!links]
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+> ↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
 
 ![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Web/web_and_Internet_arch.excalidraw.md)
 <small>Web & Internet: The Architecture</small>
@@ -160,9 +162,10 @@ For larger organizations and businesses, Web development teams can consist of hu
 	- ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 
 
-### 📜 History of Internet & Web (From Web 1.0 to Web 3.0)
-↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
-↗ [History of Computer Networking and Communication Evolution](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
+### 📜 History of Internet & Web (Web 1.0, Web 2.0, Web 3.0)
+> [!links]
+> ↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
+> ↗ [History of Computer Networking and Communication Evolution](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 > 🔗 [深入浅出计算机网络 - 1.2 因特网概述](https://www.bilibili.com/video/BV14B4y1z7Rc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 
@@ -213,26 +216,31 @@ Web development in future will be driven by advances in browser technology, Web 
 
 
 
-## The Working Mechanism of Internet ⭐
-### 🤔 Overview: What Happens When Sending An Internet Request
+## The Working Mechanism of The Internet ⭐
+### Overview: What Happens When Sending An Internet Request
 
 
-### Client Side
+### Network Aspects & ISP Services
+↗ [Computer Networking and Communication](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [0x01 Application Layer](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
+- ↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
+- ↗ [CDN (Contend Delivery Network)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/CDN%20(Contend%20Delivery%20Network).md)
+- ↗ [DNS (Domain Name Systems)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Name%20Service%20Discovery/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
+- ↗ [DHCP (Dynamic Host Configuration Protocol)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Address%20Selection/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
+
+
+### Application Aspects
+> [!links]
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+#### Client Side & Frontend
 ↗ [Web Browser Development](../Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 ↗ [Web FrontEnd Dev](🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-
-
-### ISP Services
-↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
-↗ [CDN (Contend Delivery Network)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/CDN%20(Contend%20Delivery%20Network).md)
-↗ [DNS (Domain Name Systems)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Name%20Service%20Discovery/DNS%20(Domain%20Name%20Systems)/DNS%20(Domain%20Name%20Systems).md)
-↗ [DHCP (Dynamic Host Configuration Protocol)](../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/🏘️%20Local%20Configuration%20&%20Discovery/Address%20Selection/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
-
-
-### Server Side
+#### Server Side: Middleware & Backend
 ↗ [Web BackEnd Dev & Middleware](🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 
-↗ [Web Application System Architecture Design Pattern](Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+↗ [Web Application Design Patterns](Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 ↗ [Documentation & Static Site Generator (SSG)](🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
 ↗ [Web Scripting Languages & Server-Side Scripting](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Web%20Scripting%20Languages%20&%20Server-Side%20Scripting.md)
 

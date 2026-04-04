@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Architecture](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 
 ### Other Resources

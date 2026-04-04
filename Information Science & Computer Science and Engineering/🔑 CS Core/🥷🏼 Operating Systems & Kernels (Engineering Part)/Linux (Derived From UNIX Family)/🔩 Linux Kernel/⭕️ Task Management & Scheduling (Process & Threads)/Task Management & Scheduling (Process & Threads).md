@@ -10,6 +10,12 @@
 ↗ [Linux Namespace](../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
 ↗ [LXC (Linux Containers)](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Implementations/LXC%20(Linux%20Containers)/LXC%20(Linux%20Containers).md)
 
+↗ [OS Scheduling & Resource Management](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
+
+
+### Other Resources
+
+
 
 ## Intro: Tasks & Linux Process /Threads
 > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html

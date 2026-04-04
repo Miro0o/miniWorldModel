@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Computer (Host) System](../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+↗ [Computer Engineering, Embedded & IoT](../../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 
 
 ### Other Resources

@@ -14,6 +14,7 @@
 ↗ [GPU (Graphics Processing Unit)](../../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Accelerators%20(Coprocessors)/GPU%20(Graphics%20Processing%20Unit)/GPU%20(Graphics%20Processing%20Unit).md)
 ↗ [GPU Virtualization](../../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware%20Virtualization/GPU%20Virtualization.md)
 ↗ [Nvidia](../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Nvidia.md)
+↗ [Nvidia Chips](../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/Nvidia%20Chips.md)
 
 ↗ [Parallel Computing & Programming](../../../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Parallel%20Computing%20&%20Programming/Parallel%20Computing%20&%20Programming.md)
 ↗ [Parallel Programming Libraries & SDK](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/👯‍♀️%20Parallel%20Programming%20Libraries%20&%20SDK/Parallel%20Programming%20Libraries%20&%20SDK.md)
@@ -26,6 +27,10 @@ https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%
 这里重新写了一篇。同时，也作为CUDA和并行编程的开篇。
 源代码：
 - [https://github.com/JasonkayZK/high-performance-computing-learn/blob/main/cuda/1_introduction_to_parallel_programming_and_cuda.ipynb](https://github.com/JasonkayZK/high-performance-computing-learn/blob/main/cuda/1_introduction_to_parallel_programming_and_cuda.ipynb)
+
+【CUDA 编程入门】 https://www.bilibili.com/video/BV1vJ411D73S/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+CUDA编程入门极简教程 - 小小将的文章 - 知乎 https://zhuanlan.zhihu.com/p/34587739
 
 👍 https://modal.com/gpu-glossary/readme
 - We wrote this glossary to solve a problem we ran into working with GPUs here at [Modal](https://modal.com/) : the documentation is fragmented, making it difficult to connect concepts at different levels of the stack, like [Streaming Multiprocessor Architecture](https://modal.com/gpu-glossary/device-hardware/streaming-multiprocessor-architecture) , [Compute Capability](https://modal.com/gpu-glossary/device-software/compute-capability) , and [nvcc compiler flags](https://modal.com/gpu-glossary/host-software) .
@@ -113,14 +118,9 @@ https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%
 		- [Register Pressure](https://modal.com/gpu-glossary/perf/register-pressure)
 
 
+### Other Resources
+ > 🔗 https://developer.nvidia.com/blog/even-easier-introduction-cuda/
 
-## Intro
-
-
-
-## Ref
-[CUDA | wikipedia]: https://en.wikipedia.org/wiki/CUDA
-[An Even Easier Introduction to CUDA (Updated) | Nvidia]: https://developer.nvidia.com/blog/even-easier-introduction-cuda/
 There is a whole series of older introductory posts that you can continue with:
 - [How to Implement Performance Metrics in CUDA C++](https://developer.nvidia.com/blog/how-implement-performance-metrics-cuda-cc/)
 - [How to Query Device Properties and Handle Errors in CUDA C++](https://developer.nvidia.com/blog/how-query-device-properties-and-handle-errors-cuda-cc/)
@@ -141,5 +141,21 @@ If you enjoyed this post and want to learn more, the [NVIDIA DLI](https://nvidi
 - For those of you just starting out, see [Getting Started with Accelerated Computing in Modern CUDA C++](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-04+V1), which provides dedicated GPU resources, a more sophisticated programming environment, use of the [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) visual profiler, dozens of interactive exercises, detailed presentations, over 8 hours of material, and the ability to earn a DLI Certificate of Competency.
 - For Python programmers, see [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about).
 - For more intermediate and advanced CUDA programming materials, see the _Accelerated Computing_ section of the NVIDIA DLI [self-paced catalog](https://learn.nvidia.com/en-us/training/self-paced-courses).
+
+
+
+## Intro
+> 🔗 https://en.wikipedia.org/wiki/CUDA
+
+**CUDA** (**Compute Unified Device Architecture**) is a proprietary [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing "Parallel computing") platform and [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface") (API) that allows software to use certain types of [graphics processing units](https://en.wikipedia.org/wiki/Graphics_processing_units "Graphics processing units") (GPUs) for accelerated general-purpose processing, significantly broadening their utility in scientific and [high-performance computing](https://en.wikipedia.org/wiki/High-performance_computing "High-performance computing"). CUDA was created by [Nvidia](https://en.wikipedia.org/wiki/Nvidia "Nvidia") starting in 2004 and was officially released in 2007. When it was first introduced, the name was an acronym for _Compute Unified Device Architecture_, but Nvidia later [dropped](https://en.wikipedia.org/wiki/Orphan_initialism "Orphan initialism") the common use of the acronym and now rarely expands it.
+
+CUDA is both a software layer that manages data, giving direct access to the GPU and [CPU](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") as necessary, and a library of APIs that enable parallel computation for various needs. In addition to [drivers](https://en.wikipedia.org/wiki/Driver_\(computer\) "Driver (computer)") and runtime kernels, the CUDA platform includes compilers, libraries and developer tools to help programmers accelerate their applications.
+
+CUDA is written in the [C](https://en.wikipedia.org/wiki/C_\(programming_language\) "C (programming language)") programming language but is designed to work with a wide array of other [programming languages](https://en.wikipedia.org/wiki/Programming_language "Programming language") including [C++](https://en.wikipedia.org/wiki/C%2B%2B "C++"), [Fortran](https://en.wikipedia.org/wiki/Fortran "Fortran"), [Python](https://en.wikipedia.org/wiki/Python_\(programming_language\) "Python (programming language)") and [Julia](https://en.wikipedia.org/wiki/Julia_\(programming_language\) "Julia (programming language)"). This accessibility makes it easier for specialists in [parallel programming](https://en.wikipedia.org/wiki/Parallel_programming "Parallel programming") to use GPU resources, in contrast to prior APIs like [Direct3D](https://en.wikipedia.org/wiki/Direct3D "Direct3D") and [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL"), which require advanced skills in graphics programming. CUDA-powered GPUs also support programming frameworks such as [OpenMP](https://en.wikipedia.org/wiki/OpenMP "OpenMP"), [OpenACC](https://en.wikipedia.org/wiki/OpenACC "OpenACC") and [OpenCL](https://en.wikipedia.org/wiki/OpenCL "OpenCL").
+
+
+
+## Ref
+[An Even Easier Introduction to CUDA (Updated) | Nvidia]: https://developer.nvidia.com/blog/even-easier-introduction-cuda/
 
 [GPU与CUDA]: https://qiankunli.github.io/2025/03/22/cuda.html

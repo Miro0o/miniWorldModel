@@ -17,6 +17,9 @@
 
 
 ## Human-Computer Interaction (HCI)
+> [!links]
+> ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
+
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 > 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
 > 其实这世界上本没有水会，灌的人多了，也便成了水会。
@@ -57,6 +60,14 @@ CHI 一般读作 kai 。[信息来源](https://chi2023.acm.org/)
 
 
 ## Robotics
+> [!links]
+> ↗ [AI + Robotics & Robot Learning](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/AI%20+%20Robotics%20&%20Robot%20Learning.md)
+> ↗ [Robots Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Robots%20Development/Robots%20Development.md)
+
+> [!TIP]
+> https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/conf.html
+> Awesome Robotics Conferences List
+
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 > 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
 > 其实这世界上本没有水会，灌的人多了，也便成了水会。

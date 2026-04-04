@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [WASM (WebAssembly)](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+↗ [WASM (WebAssembly)](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 ↗ [[sqli]]
 
 

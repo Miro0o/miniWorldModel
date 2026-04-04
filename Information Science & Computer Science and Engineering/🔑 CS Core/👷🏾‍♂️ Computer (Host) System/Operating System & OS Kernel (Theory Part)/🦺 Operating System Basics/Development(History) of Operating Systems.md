@@ -49,52 +49,52 @@ Terminals were connected to systems that allowed access by multiple concurrent u
 
 In a time-sharing system, the CPU switches between user sessions very quickly, giving each user a small slice of processor time. This procedure of switching between processes is called **context switching**. The operating system performs these context switches quickly, in essence giving the user a personal virtual machine.
 ##### Time-sharing OS 🆚 Multiprogramming
+#time_sharing_OS #multiprogramming
 
-| S.No. | TIME SHARING                                                                                                                                                                          | MULTIPROGRAMMING                                                                                                                              |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01.   | Time Sharing is the logical extension of multiprogramming, in this time sharing Operating system many users/processes are allocated with computer resources in respective time slots. | Multiprogramming operating system allows to execute multiple processes by monitoring their process states and switching in between processes. |
-| 02.   | Processors time is shared with multiple users that’s why it is called as time sharing operating system.                                                                               | Processor and memory underutilization problem is resolved and multiple programs runs on CPU that’s why it is called multiprogramming.         |
-| 03.   | In this process, two or more users can use a processor in their terminal.                                                                                                             | In this, the process can be executed by a single processor.                                                                                   |
-| 04.   | Time sharing OS has fixed time slice.                                                                                                                                                 | Multi-programming OS has no fixed time slice.                                                                                                 |
-| 05.   | In time sharing OS system, execution power is taken off before finishing of execution.                                                                                                | In multi-programming OS system before finishing a task the execution power is not taken off.                                                  |
-| 06.   | Here the system works for the same or less time on each processes.                                                                                                                    | Here the system does not take same time to work on different processes.                                                                       |
-| 07.   | In time sharing OS system depends on time to switch between different processes.                                                                                                      | In Multiprogramming OS, system depends on devices to switch between tasks such I/O interrupts etc.                                            |
-| 08.   | System model of time sharing system is multiple programs and multiple users.                                                                                                          | System model of multiprogramming system is multiple programs.                                                                                 |
-| 09.   | Time sharing system minimizes response time.                                                                                                                                          | Multiprogramming system maximizes processor use.                                                                                              |
-| 10.   | Example: Windows NT.                                                                                                                                                                  | Example: Mac OS.                                                                                                                              |
-|       |                                                                                                                                                                                       |                                                                                                                                               |
-
+| S.No. | MULTIPROGRAMMING                                                                                                                              | TIME SHARING                                                                                                                                                                          |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01.   | Multiprogramming operating system allows to execute multiple processes by monitoring their process states and switching in between processes. | Time Sharing is the logical extension of multiprogramming, in this time sharing Operating system many users/processes are allocated with computer resources in respective time slots. |
+| 02.   | Processor and memory underutilization problem is resolved and multiple programs runs on CPU that’s why it is called multiprogramming.         | Processors time is shared with multiple users that’s why it is called as time sharing operating system.                                                                               |
+| 03.   | In this, the process can be executed by a single processor.                                                                                   | In this process, two or more users can use a processor in their terminal.                                                                                                             |
+| 04.   | Multi-programming OS has no fixed time slice.                                                                                                 | Time sharing OS has fixed time slice.                                                                                                                                                 |
+| 05.   | In multi-programming OS system before finishing a task the execution power is not taken off.                                                  | In time sharing OS system, execution power is taken off before finishing of execution.                                                                                                |
+| 06.   | Here the system does not take same time to work on different processes.                                                                       | Here the system works for the same or less time on each processes.                                                                                                                    |
+| 07.   | In Multiprogramming OS, system depends on devices to switch between tasks such I/O interrupts etc.                                            | In time sharing OS system depends on time to switch between different processes.                                                                                                      |
+| 08.   | System model of multiprogramming system is multiple programs.                                                                                 | System model of time sharing system is multiple programs and multiple users.                                                                                                          |
+| 09.   | Multiprogramming system maximizes processor use.                                                                                              | Time sharing system minimizes response time.                                                                                                                                          |
+| 10.   | Example: Mac OS.                                                                                                                              | Example: Windows NT.                                                                                                                                                                  |
+|       |                                                                                                                                               |                                                                                                                                                                                       |
 
 
 ### 🎏 Multi-processor Operating Systems
+> [!links]
+> ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+> ↗ [OS Scheduling & Resource Management](../OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
+
 For the most part, operating systems for multiprocessors need not differ significantly from those for uniprocessor systems. **Scheduling** is one of the main differences, however, because multiple CPUs must be kept busy. If scheduling is not done properly, the inherent advantages of the multiprocessor parallelism are not fully realized. In particular, if the operating system does not provide the proper tools to exploit parallelism, performance will suffer.
 
 Typically, in a multiprocessing environment, the CPUs cooperate with each other to solve problems, working in parallel to achieve a common goal. 
 - Coordination of processor activities requires that they have some means of communicating with one another. 
 - System synchronization requirements determine whether the processors are designed using tightly coupled or loosely coupled communication methods.
-#### Loosely Coupled Multiprocessors (Distributed Systems)
+#### Loosely Coupled Multiprocessors (Distributed Systems) 
+> [!links]
+> ↗ [Distributed Operating System](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
+
 **Loosely coupled multiprocessors** have a **physically distributed memory** and are also known as **distributed systems**. 
 
 Distributed systems can be viewed in two different ways. 
 
 A distributed collection of workstations on a LAN, each with its own operating system, is typically referred to as a **networked system**. These systems were motivated by a need for multiple computers to share resources. 
 - A **networked operating system** includes the necessary **provisions**, such as remote command execution, remote file access, and remote login, to attach machines to the network. User processes also have the ability to communicate over the network with processes on other machines. 
-
 - **Networked file systems** are one of the most important applications of networked systems. These allow multiple machines to share one logical file system, although the machines are located in different geographical locations and may have different architectures and unrelated operating systems. Synchronization among these systems is an important issue, but communication is even more important, because this communication may occur over large networked distances. 
 
 ==Although networked systems may be distributed over geographical areas, they are not considered true distributed systems.==
 #### Tightly Coupled Multiprocessors
-Tightly coupled multiprocessors share a single centralized memory, which requires an operating system to synchronize processes carefully to ensure protection. This type of coupling is typically used for multiprocessor systems consisting of 16 or fewer processors. Symmetric multiprocessors (SMPs) are a popular form of tightly coupled architecture. These systems have multiple processors that share memory and I/O devices. All processors perform the same functions, with the processing
-
-load being distributed among all of them.
+Tightly coupled multiprocessors share a single centralized memory, which requires an operating system to synchronize processes carefully to ensure protection. This type of coupling is typically used for multiprocessor systems consisting of 16 or fewer processors. **Symmetric multiprocessors (SMPs)** are a popular form of tightly coupled architecture. These systems have multiple processors that share memory and I/O devices. All processors perform the same functions, with the processing load being distributed among all of them.
 
 
 ### Real-time Operating Systems
 ↗ [RTOS (Real-Time Operating System)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/🐎%20RTOS%20(Real-Time%20Operating%20System)/RTOS%20(Real-Time%20Operating%20System).md)
-
-
-### Distributed Operating Systems
-↗ [Distributed Operating System](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
 
 
 ### Personal Computers & OS
@@ -106,7 +106,6 @@ load being distributed among all of them.
 
 ## ⭐️ Major Achievements
 [DENN80a] proposes that there have been four major theoretical advances in the development of operating systems:
-
 - Processes
 - Memory management
 - Information protection and security

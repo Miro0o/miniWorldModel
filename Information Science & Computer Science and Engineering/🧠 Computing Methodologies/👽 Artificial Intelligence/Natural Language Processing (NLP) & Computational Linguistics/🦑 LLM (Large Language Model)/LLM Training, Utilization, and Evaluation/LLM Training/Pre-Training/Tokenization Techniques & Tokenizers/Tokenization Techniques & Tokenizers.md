@@ -15,6 +15,7 @@
 
 
 ## Intro
+> 🔗 https://stanford-cs324.github.io/winter2022/lectures/modeling/#model-architecture
 
 
 

@@ -15,23 +15,24 @@
 
 ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 - ↗ [Classical Logic (Standard Formal Logic)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-- ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Higher-Order Languages & Logics (HOL)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+	- ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
 ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
 
-↗ [Higher-Order Languages & Logics (HOL)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
-
+↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 ↗ [AI Basics & Major Techniques](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 - ↗ [Reflex-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
 - ↗ [Logic-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Logic-Based%20Models.md)
 - ↗ [State-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/State-Based%20Models.md)
 - ↗ [Variables-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Variables-Based%20Models.md)
-↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 
 ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
 
@@ -50,18 +51,50 @@
 > ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 > ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> 
+> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 
+> 🔗 https://en.wikipedia.org/wiki/Abstract_machine
+
+In computer science, an abstract machine is a theoretical model that allows for a detailed and precise analysis of how a computer system functions.[1] It is similar to a mathematical function in that it receives inputs and produces outputs based on predefined rules. Abstract machines vary from literal machines in that they are expected to perform correctly and independently of hardware.[2] Abstract machines are "machines" because they allow step-by-step execution of programs; they are "abstract" because they ignore many aspects of actual (hardware) machines.[3] A typical abstract machine consists of a definition in terms of input, output, and the set of allowable operations used to turn the former into the latter. They can be used for purely theoretical reasons as well as models for real-world computer systems.[2] In the theory of computation, abstract machines are often used in thought experiments regarding computability or to analyse the complexity of algorithms.[3] This use of abstract machines is fundamental to the field of computational complexity theory, such as with finite state machines, Mealy machines, push-down automata, and Turing machines.
 
 > 🔗 https://en.wikipedia.org/wiki/Model_of_computation
 
 In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.
 
 
-### Sequential Models
-Sequential models include:
+### Taxonomy of Computational Models
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+
+| Execution Style | Level                          | Model                               | Dominant Storage / Interaction Style       | Main Purpose / Intuition                                  |
+| --------------- | ------------------------------ | ----------------------------------- | ------------------------------------------ | --------------------------------------------------------- |
+| **Sequential**  | **Theory**                     | **Turing machine**                  | **Tape**                                   | Minimal universal model of algorithmic computation        |
+| **Sequential**  | **Theory**                     | Recursive functions                 | Symbolic term/function definition          | Formalizing computability mathematically                  |
+| **Sequential**  | **Theory / Language**          | **Lambda calculus**                 | Variable binding + substitution            | Functional computation, semantics of programs             |
+| **Sequential**  | **Machine**                    | **Register machine / RAM model**    | **Registers + random-access memory**       | Best abstraction of ordinary imperative computation       |
+| **Sequential**  | **Machine**                    | **Stack machine**                   | **Operand stack**                          | Compact execution model for expression evaluation and VMs |
+| **Sequential**  | **Machine**                    | Load-store machine                  | Registers + memory via explicit load/store | Clean ISA-style machine model, common in RISC             |
+| **Sequential**  | **Machine / Language runtime** | JVM / Wasm-style abstract machine   | Mostly **stack-oriented** execution        | Portable intermediate execution layer                     |
+| **Sequential**  | **Language**                   | Finite automaton                    | Current state + input stream               | Recognition of regular patterns                           |
+| **Sequential**  | **Language**                   | Pushdown automaton                  | **Stack + state**                          | Recognition of nested/context-free structure              |
+| **Sequential**  | **Systems**                    | Single-thread process model         | State + memory + control flow              | Ordinary program execution                                |
+| **Concurrent**  | **Theory**                     | Nondeterministic transition systems | Global state graph                         | Formalizing multiple possible next steps                  |
+| **Concurrent**  | **Theory / Systems**           | **Petri nets**                      | **Tokens + places + transitions**          | Concurrency, causality, synchronization                   |
+| **Concurrent**  | **Theory / Language**          | **CSP**                             | Event synchronization / channels           | Processes interacting through synchronized communication  |
+| **Concurrent**  | **Theory / Language**          | **CCS**                             | Action-based communication                 | Algebra of communicating processes                        |
+| **Concurrent**  | **Theory / Language**          | **π-calculus**                      | **Channels as values**, message-passing    | Mobile communication topology, dynamic process structure  |
+| **Concurrent**  | **Language / Systems**         | **Actor model**                     | **Actors + mailboxes + async messages**    | Distributed/concurrent computation without shared state   |
+| **Concurrent**  | **Machine / Systems**          | Thread/shared-memory model          | **Registers + shared memory + locks**      | Multithreaded programming on modern machines              |
+| **Concurrent**  | **Machine / Systems**          | Multi-core execution model          | Per-core state + shared memory             | Real parallel execution on CPUs                           |
+| **Concurrent**  | **Systems**                    | Distributed state machines          | Local state + network messages             | Protocols, services, replicated systems                   |
+| **Concurrent**  | **Systems**                    | Async event-loop model              | Task queue + callbacks/messages            | GUIs, JavaScript runtimes, servers                        |
+#### By Computation Style
+> 🔗 https://en.wikipedia.org/wiki/Model_of_computation
+
+**Sequential Models**
 - [Finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine")
 - Post machines ([Post–Turing machines](https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine "Post–Turing machine") and [tag machines](https://en.wikipedia.org/wiki/Tag_system "Tag system")).
 - [Pushdown automata](https://en.wikipedia.org/wiki/Pushdown_automata "Pushdown automata")
@@ -71,17 +104,13 @@ Sequential models include:
 - [Decision tree model](https://en.wikipedia.org/wiki/Decision_tree_model "Decision tree model")
 - [External memory model](https://en.wikipedia.org/wiki/External_memory_model "External memory model")
 
-
-### Functional Models
-Functional models include:
+**Functional Models**
 - [Abstract rewriting systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system "Abstract rewriting system")
 - [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic "Combinatory logic")
 - [General recursive functions](https://en.wikipedia.org/wiki/General_recursive_function "General recursive function")
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus")
 
-
-### Concurrent Models
-Concurrent models include:
+**Concurrent Models**
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model "Actor model")
 - [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton "Cellular automaton")
 - [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets "Interaction nets")
@@ -94,6 +123,91 @@ Concurrent models include:
 Some of these models have both [deterministic](https://en.wikipedia.org/wiki/Deterministic_model#In_computer_science "Deterministic model") and [nondeterministic](https://en.wikipedia.org/wiki/Nondeterministic_model_of_computation "Nondeterministic model of computation") variants. Nondeterministic models correspond to limits of certain sequences of finite computers, but do not correspond to any subset of finite computers;[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_] they are used in the study of [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity "Computational complexity") of algorithms.
 
 Models differ in their expressive power; for example, each function that can be computed by a _finite-state machine_ can also be computed by a _Turing machine_, but not vice versa.
+#### By Storage /Communication Style
+> [!links]
+> ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+> ↗ [IPC (Inter Process Communication)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+> ↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
+> 
+> ↗ [OS Scheduling & Resource Management](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
+
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+
+Sometimes the cleanest way to understand the space is by **how computation is stored or communicated**.
+
+**Tape-based models**
+These are mostly foundational and sequential.
+
+|Model|Execution Style|Level|Why it matters|
+|---|---|---|---|
+|Turing machine|Sequential|Theory|Canonical model of computability|
+|Multi-tape Turing machine|Sequential|Theory|More convenient TM variant|
+|Quantum Turing machine|Usually sequential in formal structure|Theory|Quantum analogue of TM|
+
+Tape is conceptually powerful because it gives unbounded symbolic workspace, but it is not how real computers are architected.
+
+
+**Stack-based models**
+These are common in parsing, VMs, and formal language theory.
+
+|Model|Execution Style|Level|Why it matters|
+|---|---|---|---|
+|Stack machine|Sequential|Machine|Simple execution model for expressions|
+|Pushdown automaton|Sequential|Language theory|Models nested structure like parentheses|
+|JVM abstract execution|Mostly sequential|Runtime / machine|Bytecode uses operand stack heavily|
+|Wasm abstract execution|Mostly sequential|Runtime / machine|Stack-oriented value flow|
+
+A stack is good when intermediate results are naturally nested or last-in-first-out.
+
+
+**Register-based models**
+These are closest to real hardware and algorithm analysis.
+
+|Model|Execution Style|Level|Why it matters|
+|---|---|---|---|
+|Register machine|Sequential|Theory / machine|Arithmetic computation with named storage|
+|RAM / word-RAM model|Sequential|Algorithm analysis|Good model of ordinary computer algorithms|
+|Load-store ISA model|Sequential|Machine|Captures RISC-style architectures|
+|x86-like register-memory ISA|Sequential core, concurrent system use|Machine|Realistic CPU-level programming model|
+
+Registers make data flow explicit and map well to actual processors.
+
+
+**Message-passing models**
+These dominate concurrency and distributed systems.
+
+|Model|Execution Style|Level|Why it matters|
+|---|---|---|---|
+|CSP|Concurrent|Theory / language|Synchronizing processes|
+|CCS|Concurrent|Theory / language|Algebraic concurrency reasoning|
+|π-calculus|Concurrent|Theory / language|Dynamic channels and topology|
+|Actor model|Concurrent|Language / systems|Async computation without shared memory|
+|Distributed systems model|Concurrent|Systems|Real network services and protocols|
+
+Message-passing is powerful because it models interaction directly instead of encoding everything as shared memory.
+
+
+**Shared-state / graph-transition models**
+These are common in OS, verification, and concurrency theory.
+
+| Model                              | Execution Style          | Level            | Why it matters                         |
+| ---------------------------------- | ------------------------ | ---------------- | -------------------------------------- |
+| Finite-state transition system     | Sequential or concurrent | Theory / systems | Generic state evolution model          |
+| Nondeterministic transition system | Concurrent flavor        | Theory           | Many possible executions               |
+| Petri net                          | Concurrent               | Theory / systems | Captures causality and synchronization |
+| Thread/shared-memory model         | Concurrent               | Systems          | Captures locks, races, scheduling      |
+#### By Computer Hierarchy
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+
+| |**Theory**|**Machine**|**Language / Semantics**|**Systems / Interaction**|
+|---|---|---|---|---|
+|**Sequential + tape**|Turing machine|—|—|—|
+|**Sequential + stack**|—|Stack machine|Pushdown automaton, VM semantics|Single-thread call stack|
+|**Sequential + register/memory**|Register machine, RAM model|Load-store machine, x86-style ISA|Imperative operational semantics|Single-process execution|
+|**Sequential + symbolic substitution**|Recursive functions|—|Lambda calculus|—|
+|**Concurrent + shared state**|Nondeterministic systems|Multi-core shared-memory abstraction|Concurrent operational semantics|Threads, locks, schedulers|
+|**Concurrent + message passing**|CSP, CCS, π-calculus|Communicating processes|Actor semantics|Distributed systems, services|
+|**Concurrent + token/flow**|Petri nets|Dataflow-like execution ideas|—|Workflow, synchronization models|
 
 
 
@@ -209,7 +323,7 @@ The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions t
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
 #### Action Language
 [Action languages](https://en.wikipedia.org/wiki/Action_language "Action language") are extensions of transition systems, adding a set of _fluents_ _F_, a set of values _V_, and a function that maps _F_ × _S_ to _V_.
-#### Automata & State Machine
+#### Automata & State Machine 🤔
 ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 > [!quote]
@@ -295,7 +409,7 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 
 
-## Artificial Neuron & Neuron Networks 🤔
+## Artificial Neuron & Neuron Networks
 > [!links]
 > ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 > ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
@@ -310,10 +424,76 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 
 ## Turing Machine Equivalents / Turing Complete Models
+> [!links]
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents
+
+A [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") is a hypothetical computing device, first conceived by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in 1936. Turing machines manipulate symbols on a potentially infinite strip of tape according to a finite table of rules, and they provide the theoretical underpinnings for the notion of a computer algorithm.
+
+While none of the following models have been shown to have more power than the single-tape, one-way infinite, multi-symbol Turing-machine model, their authors defined and used them to investigate questions and solve problems more easily than they could have if they had stayed with Turing's _a_-machine model.
+
+> [!TIP]
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+> 
+> Very foundational
+> - Turing machine
+> - lambda calculus
+> - recursive functions
+> These answer: **what is computation?**
+> 
+> More machine-like
+> - register machines
+> - RAM model
+> - stack machines
+> These answer: **how can we organize execution?**
+> 
+> Special-purpose
+> - finite automata
+> - pushdown automata
+> - Petri nets
+> - circuits
+> - quantum circuits
+> These answer: **what structure best captures this specific kind of task?**
+> 
 
 
 ### Turing Machine Variants
+#### Single-tape TM
+
+#### Multi-tape TM
+
+#### Multi-track TM
+
+#### Non-deterministic TM
+
+#### Two-way infinite tape vs one-way infinite tape
+
+#### Read-only input tape + work tapes
+Useful in complexity theory.
+#### Universal Turing machine
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+#### Enumerator, oracle TM, probabilistic TM, alternating TM...
+
+
+### Lambda Calculus
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+
+
+### General Recursive Function
+> [!links]
+> ↗ [Natural Number & Peano Axioms](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+> ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+> 🔗 https://en.wikipedia.org/wiki/General_recursive_function
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **general recursive function**, **partial recursive function**, or **μ-recursive function** is a [partial function](https://en.wikipedia.org/wiki/Partial_function "Partial function") from [natural numbers](https://en.wikipedia.org/wiki/Natural_number "Natural number") to natural numbers that is "computable" in an intuitive sense – as well as in a [formal one](https://en.wikipedia.org/wiki/Computable_function "Computable function"). If the function is [total](https://en.wikipedia.org/wiki/Total_function "Total function"), it is also called a **total recursive function** (sometimes shortened to **recursive function**). In [computability theory](https://en.wikipedia.org/wiki/Computability_theory_\(computation\) "Computability theory (computation)"), it is shown that the μ-recursive functions are precisely the functions that can be computed by [Turing machines](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") (this is one of the theorems that supports the [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis "Church–Turing thesis")). The μ-recursive functions are closely related to [primitive recursive functions](https://en.wikipedia.org/wiki/Primitive_recursive_function "Primitive recursive function"), and their inductive definition (below) builds upon that of the primitive recursive functions. However, not every total recursive function is a primitive recursive function—the most famous example is the [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function "Ackermann function").
+
+Other equivalent classes of functions are the functions of [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and the functions that can be computed by [Markov algorithms](https://en.wikipedia.org/wiki/Markov_algorithm "Markov algorithm").
+
+The subset of all _total_ recursive functions with values in {0,1} is known in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") as the [complexity class R](https://en.wikipedia.org/wiki/R_\(complexity\) "R (complexity)").
 
 
 ### Register Machine
@@ -345,9 +525,9 @@ There are at least four sub-classes found in the [literature](https://en.wikipe
 
 Any properly defined register machine model is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness"). Computational speed is very dependent on the model specifics.
 
-In practical computer science, a related concept known as a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") is occasionally employed to reduce reliance on underlying machine architectures. These [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") are also utilized in educational settings. In textbooks, the term "register machine" is sometimes used interchangeably to describe a virtual machine.[[1]](https://en.wikipedia.org/wiki/Register_machine#cite_note-Abelson-Sussman_1996-1)
+In practical computer science, a related concept known as a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") is occasionally employed to reduce reliance on underlying machine architectures. These [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") are also utilized in educational settings. In textbooks, the term "register machine" is sometimes used interchangeably to describe a virtual machine.
 
-#### Counter Machines
+#### Counter Machines /Minsky Machine
 
 #### Pointer Machines
 
@@ -356,11 +536,26 @@ In practical computer science, a related concept known as a [virtual machine](h
 #### Random-Access Stored-Program Machine (RASP)
 
 
-### Lambda Calculus
-↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+### Stack-Based Machine
 
 
-### Markov Algorithm
+### Dataflow Machine
+
+
+### Rewriting Systems
+> 🔗 https://en.wikipedia.org/wiki/Rewriting
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics), [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), **rewriting** covers a wide range of methods of replacing subterms of a [formula](https://en.wikipedia.org/wiki/Well-formed_formula "Well-formed formula") with other terms. Such methods may be achieved by **rewriting systems** (also known as **rewrite systems**, **rewrite engines**, or **reduction systems**). In their most basic form, they consist of a set of objects, plus [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") on how to transform those objects.
+
+Rewriting can be [non-deterministic](https://en.wikipedia.org/wiki/Nondeterministic_algorithm "Nondeterministic algorithm"). One rule to rewrite a term could be applied in many different ways to that term, or more than one rule could be applicable. Rewriting systems then do not provide an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for changing one term to another, but a set of possible rule applications. When combined with an appropriate algorithm, however, rewrite systems can be viewed as [computer programs](https://en.wikipedia.org/wiki/Computer_program "Computer program"), and several [theorem provers](https://en.wikipedia.org/wiki/Automated_theorem_proving "Automated theorem proving") and [declarative programming languages](https://en.wikipedia.org/wiki/Declarative_programming_language "Declarative programming language") are based on term rewriting.
+#### Abstract Rewriting Systems (ARS)
+
+#### Term Rewriting System
+
+#### String Rewriting System
+> 🔗 https://en.wikipedia.org/wiki/Semi-Thue_system
+
+##### Markov Algorithm
 > [!links]
 > ↗ [Markov Process & Markov Chain (MC)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Process%20&%20Markov%20Chain%20(MC).md)
 
@@ -369,21 +564,160 @@ In practical computer science, a related concept known as a [virtual machine](h
 In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **Markov algorithm** is a [string rewriting system](https://en.wikipedia.org/wiki/String_rewriting_system "String rewriting system") that uses [grammar](https://en.wikipedia.org/wiki/Formal_grammar "Formal grammar")-like rules to operate on [strings](https://en.wikipedia.org/wiki/String_\(computer_science\) "String (computer science)") of symbols. Markov algorithms have been shown to be [Turing-complete](https://en.wikipedia.org/wiki/Turing-complete "Turing-complete"), which means that they are suitable as a general model of [computation](https://en.wikipedia.org/wiki/Computation "Computation") and can represent any [mathematical expression](https://en.wikipedia.org/wiki/Mathematical_expression "Mathematical expression") from its simple notation. Markov algorithms are named after the Soviet mathematician [Andrey Markov, Jr.](https://en.wikipedia.org/wiki/Andrey_Markov_Jr. "Andrey Markov Jr.")
 
 [Refal](https://en.wikipedia.org/wiki/Refal "Refal") is a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") based on Markov algorithms.
+#### Trace Rewriting System
+> 🔗 https://en.wikipedia.org/wiki/Rewriting#Trace_rewriting_systems
+
+[Trace theory](https://en.wikipedia.org/wiki/Trace_theory "Trace theory") provides a means for discussing multiprocessing in more formal terms, such as via the [trace monoid](https://en.wikipedia.org/wiki/Trace_monoid "Trace monoid") and the [history monoid](https://en.wikipedia.org/wiki/History_monoid "History monoid"). Rewriting can be performed in trace systems as well.
 
 
-### General Recursive Function
+### Automaton /Automata
 > [!links]
-> ↗ [Natural Number & Peano Axioms](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-> ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
-> 🔗 https://en.wikipedia.org/wiki/General_recursive_function
+#### Queue Automaton (Pull-Up Automaton)
 
-In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **general recursive function**, **partial recursive function**, or **μ-recursive function** is a [partial function](https://en.wikipedia.org/wiki/Partial_function "Partial function") from [natural numbers](https://en.wikipedia.org/wiki/Natural_number "Natural number") to natural numbers that is "computable" in an intuitive sense – as well as in a [formal one](https://en.wikipedia.org/wiki/Computable_function "Computable function"). If the function is [total](https://en.wikipedia.org/wiki/Total_function "Total function"), it is also called a **total recursive function** (sometimes shortened to **recursive function**). In [computability theory](https://en.wikipedia.org/wiki/Computability_theory_\(computation\) "Computability theory (computation)"), it is shown that the μ-recursive functions are precisely the functions that can be computed by [Turing machines](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") (this is one of the theorems that supports the [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis "Church–Turing thesis")). The μ-recursive functions are closely related to [primitive recursive functions](https://en.wikipedia.org/wiki/Primitive_recursive_function "Primitive recursive function"), and their inductive definition (below) builds upon that of the primitive recursive functions. However, not every total recursive function is a primitive recursive function—the most famous example is the [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function "Ackermann function").
+#### Cellular Automaton (CA)
 
-Other equivalent classes of functions are the functions of [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and the functions that can be computed by [Markov algorithms](https://en.wikipedia.org/wiki/Markov_algorithm "Markov algorithm").
 
-The subset of all _total_ recursive functions with values in {0,1} is known in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") as the [complexity class R](https://en.wikipedia.org/wiki/R_\(complexity\) "R (complexity)").
+### Combinatory Logic
+↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
+
+
+### Process Calculi
+
+
+### Actor Model
+
+
+### Petri Nets
+
+
+
+## Computational Models For Modern Computer ⭐
+> [!links]
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> ↗ [ISA Instruction Basics](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
+
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+
+When we ask what computational model modern computers use, the short answer is that modern computers are **not literally Turing machines**. A Turing machine is an extremely important foundational model for computation theory, but it is not the best direct description of how real computers are organized. ==Modern computers are much closer to a combination of **stored-program architecture**, **register-machine style computation**, and **random-access memory (RAM)**, all layered under many levels of abstraction.==
+
+The closest classical abstract model for an ordinary modern computer is usually a **register machine** or a **RAM machine**, not a Turing machine. This is because real computers have a finite but directly addressable memory, a collection of registers, arithmetic and logic units, and instructions that explicitly manipulate registers and memory. They also support branching, control flow, and procedure calls. All of this looks much more like a machine executing instructions such as “load a value from memory into a register,” “add two register values,” “store the result back to memory,” or “jump if a condition holds.”
+
+By contrast, a **Turing machine** works with an infinite tape, a read-write head, and a very small set of primitive operations such as reading one tape cell, writing one symbol, and moving left or right. That model is intentionally minimal and idealized. It is extremely useful for reasoning about the nature and limits of computation, but it is not structurally similar to the machines we actually build and use today.
+
+So it is helpful to distinguish three levels. The **Turing machine** is the foundational theoretical model used to define computability and undecidability. The **RAM or register machine** is a more realistic abstract model for describing the style of computation used by ordinary computers. Then, beneath that, actual CPUs implement specific **instruction set architectures** such as **x86, ARM, or RISC-V**, which are concrete engineering realizations with detailed rules about registers, memory, instructions, and control flow.
+
+In this sense, modern computers are best understood as **register- and memory-based stored-program machines**, rather than as literal Turing machines. We still study Turing machines because they capture the deepest theoretical question — what can be computed at all — while RAM and register-machine models better capture how practical computers actually perform computation.
+
+| Layer                                         | Dominant Model                                            | Why This Model Fits                                                      |
+| --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Theory of computability**                   | Turing machine                                            | Best for defining computability in the deepest sense                     |
+| **Algorithmic abstraction**                   | RAM / word-RAM                                            | Best simple abstraction of ordinary imperative computation               |
+| **Hardware**                                  | Circuits, FSMs, synchronous logic                         | Hardware is built from gates, registers, clocks, and control logic       |
+| **Instruction set / CPU programming model** ⭐ | Register-memory or load-store machine                     | Real CPUs expose registers, memory addresses, instructions, and branches |
+| **Language semantics**                        | Lambda calculus, operational semantics, abstract machines | Good for defining what programs mean                                     |
+| **Compiler front-end**                        | Finite automata + pushdown automata                       | Ideal for tokenizing and parsing                                         |
+| **OS / systems**                              | Process/thread and state-transition models                | OS behavior is about concurrent stateful components                      |
+| **VM / managed runtime**                      | Stack machine or managed VM model                         | Portable execution across machines                                       |
+
+| Layer / Task in a Modern Computer          | Main Computational Model(s)                                                                           | What the Model Captures                                                      | Typical Examples / Notes                                                            |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Foundational theory of computation**     | **Turing machine**, recursive functions                                                               | What is computable at all; decidability and undecidability                   | Used for computability theory, halting problem, limits of algorithms                |
+| **Algorithm analysis**                     | **RAM model**, **word-RAM**, register machine                                                         | Approximation of ordinary sequential computation with random-access memory   | Common in algorithms and complexity analysis                                        |
+| **Hardware / digital circuits**            | **Boolean circuits**, **finite-state machines**, synchronous logic models                             | Gate-level logic, sequential circuits, control units                         | Much closer to real hardware design than Turing machines                            |
+| **Machine / ISA level** ⭐                  | **Register-memory machine**, **load-store machine**, sometimes stack-machine VM at higher abstraction | How actual instructions manipulate registers, memory, control flow           | x86 is register-memory; ARM/RISC-V are closer to load-store                         |
+| **Programming language semantics**         | **Lambda calculus**, operational semantics, abstract machines                                         | Meaning of programs, function application, evaluation rules                  | Especially important for functional languages, type theory, proof assistants        |
+| **Compilers / formal languages**           | **Finite automata**, **pushdown automata**                                                            | Lexing, parsing, syntax recognition                                          | Finite automata for regular languages; pushdown automata for context-free languages |
+| **Operating systems / systems**            | **State-transition systems**, process/thread models                                                   | Processes, scheduling, interrupts, files, virtual memory, device interaction | Better for describing system behavior than bare Turing machines                     |
+| **Virtual machines / portable runtimes**   | **Stack machine**, register VM, managed runtime models                                                | Portable execution layer above hardware                                      | JVM and Wasm are stack-oriented; CLR/JVM add richer runtime services                |
+| **Concurrency / distributed systems**      | **Process calculi**, **actor model**, **Petri nets**, transition systems                              | Communication, synchronization, nondeterminism, distributed behavior         | Used for protocols, message passing, concurrent reasoning                           |
+| **Probabilistic / stochastic computation** | **Probabilistic Turing machines**, **MDPs**, stochastic processes                                     | Randomized algorithms, uncertainty, decision making                          | Used in complexity theory, RL, ML, verification                                     |
+| **Quantum computation**                    | **Quantum circuit model**, quantum Turing machine                                                     | Superposition, interference, quantum algorithms                              | Used for quantum computing theory and algorithm design                              |
+| **Dataflow / stream processing**           | **Dataflow graphs**, stream models                                                                    | Computation as flow of values through dependent operators                    | Useful in parallel execution, reactive systems, streaming engines                   |
+
+
+### x86 ISA & Programmer-Visible Model of x86 Machine
+> [!links]
+> ↗ [x86 Architecture Family (80x86, 8086 family)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
+
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+
+> [!TIP]
+> Is x86 really a “computational model”?
+> 
+> Here we should separate two levels:
+> - Abstract machine model
+> 	- If you are doing theory, you might model ordinary machines as a **RAM/register machine**.
+> - Concrete ISA
+> 	- x86 is an **instruction set architecture**, not just an abstract model. It specifies:
+> 		- registers
+> 		- memory model pieces
+> 		- instruction formats
+> 		- addressing modes
+> 		- privilege/system behavior
+> 		- exceptions
+> 		- flags
+> 		- calling-related instructions
+> 		- vector extensions, etc.
+>
+> So x86 is more specific than a bare computational model. It is a real architectural contract between software and processor implementations.
+
+> [!TIP]
+> Modern x86 CPUs do **not necessarily execute internally in the same style as the visible ISA**. Intel processors may decode complex x86 instructions into internal micro-operations; Intel’s optimization materials and manuals discuss the architecture/implementation separation.
+> 
+> So there are two different questions:
+> - **Programmer-visible model of x86**: register-machine with memory operands, flags, stack, control flow
+> - **Internal implementation**: highly optimized out-of-order microarchitectures, often using internal representations quite unlike the original x86 syntax
+
+At a programmer-visible level, x86 gives you several major pieces:
+
+**Registers**
+Intel documents general-purpose registers in 64-bit mode such as:
+- `RAX`, `RBX`, `RCX`, `RDX`
+- `RSP`, `RBP`
+- `RSI`, `RDI`
+- `R8`–`R15`
+These are explicitly named storage locations used by instructions.
+
+
+**Addressable memory**
+x86 exposes a byte-addressable memory space. Instructions can refer to memory operands through effective addresses built from components like:
+- base register
+- index register
+- scale
+- displacement
+This is one of the most characteristic x86 features: rich addressing modes.
+
+A typical conceptual address form is: address = base + index * scale + displacement
+That is the classic x86 effective-address style described in Intel’s architecture manuals.
+
+
+**Flags / condition codes**
+x86 also has status flags in `RFLAGS` / `EFLAGS`, such as zero, carry, sign, overflow, etc., which many arithmetic and branch instructions read or update. Intel’s architecture manuals document these flag semantics as part of the programming model.
+So unlike a pure mathematical register machine, x86 has an important **implicit state component** through flags.
+
+
+**Stack discipline**
+x86 also has a hardware/software-visible stack convention centered around `RSP`, with instructions like `push`, `pop`, `call`, and `ret`. So even though x86 is not a pure stack machine, it contains a strong stack-oriented submodel for procedure calls and local storage.
+
+
+**Control flow**
+There is a program counter/instruction pointer (`RIP` in 64-bit mode), along with jumps, calls, returns, and conditional branches. Intel documents `RIP` and the control-transfer instructions in the SDM.
+
+
+==So the visible x86 model is roughly:==
+- named registers
+- addressable memory
+- flags
+- instruction pointer
+- stack pointer
+- instructions that may use both registers and memory operands
+
+
+### Arm ISA & Programmer-Visible Model of Arm Machine
+> [!links]
+> ↗ [ARM Architecture Family](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Architecture%20Family.md)
 
 
 

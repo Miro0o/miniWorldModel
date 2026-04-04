@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Graphics (CG)](../../../🧠%20Computing%20Methodologies/Computer%20Graphics%20(CG)/Computer%20Graphics%20(CG).md)
 
 
 ### Other Resources

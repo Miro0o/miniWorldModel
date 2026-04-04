@@ -22,7 +22,7 @@
 ↗ [Cultures & Entertainment Industry](../../Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
 - ↗ [U.S. Cultures & Entertainment Industry](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
 - ↗ [EU Cultures & Entertainment Industry](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/📌%20EU%20Tertiary%20Economical%20Sector/EU%20Cultures%20&%20Entertainment%20Industry/EU%20Cultures%20&%20Entertainment%20Industry.md)
-- ↗ [中国大文娱](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国大文娱/中国大文娱.md)
+- ↗ [中国大文娱](../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国大消费/中国大文娱/中国大文娱.md)
 
 ↗ [Economics & Finance](../../Economics%20&%20Finance.md)
 - ↗ [Finance & Financial Management](../../🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)

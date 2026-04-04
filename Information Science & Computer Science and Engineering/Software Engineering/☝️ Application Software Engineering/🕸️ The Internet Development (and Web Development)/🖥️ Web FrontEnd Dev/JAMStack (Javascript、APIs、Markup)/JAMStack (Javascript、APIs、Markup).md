@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Documentation & Static Site Generator (SSG)](../Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
-↗ [Headless CMS](../../Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems/Content%20Management%20System%20(CMS)/Headless%20CMS/Headless%20CMS.md)
+↗ [Headless CMS](../../../../Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Content%20Management%20System%20(CMS)/Headless%20CMS/Headless%20CMS.md)
 
 
 

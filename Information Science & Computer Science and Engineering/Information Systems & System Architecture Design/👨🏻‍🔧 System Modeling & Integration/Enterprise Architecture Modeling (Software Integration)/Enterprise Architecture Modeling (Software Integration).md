@@ -10,9 +10,8 @@
 
 ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
 
-↗ [Internet (Web) Application Systems & Architecture Design](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
-- ↗ [Web Application System Architecture Design Pattern](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
-↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
 
 
 ### Other Resources
@@ -34,12 +33,11 @@
 	- Where are the application components deployed
 
 
-### Web Applications System Architecture
+### Web Applications System Architecture ⭐
 > [!links]
-> ↗ [Internet (Web) Application Systems & Architecture Design](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
-> ↗ [Web Application System Architecture Design Pattern](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
 >
-> ↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 #### Monolithic (One-Tier) Applications
 A single application component responsible for everything
 - Presentation, business logic and data components all running on the same node
@@ -54,7 +52,6 @@ Application components running on two node types:
 - Distributed application: business logic split between client and server nodes
 - Distributed data: data access split between client and server nodes (e.g., for offline usage)
 - Distributed application and data: both business logic and data split between client and server nodes
-
 
 Application components running on two node types:
 
@@ -72,7 +69,6 @@ Application components running on two node types:
 
 > [!example]
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.14.31.png)
-
 #### Three-Tier Applications
 Application components running on three node types:
 - Usually, one-to-one mapping between node types and layers:
@@ -174,10 +170,10 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 
 ### Web Application Systems
 > [!links]
-> ↗ [Internet (Web) Application Systems & Architecture Design](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
-> ↗ [Web Application System Architecture Design Pattern](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/Web%20Application%20System%20Architecture%20Design%20Pattern.md)
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [Web Application Design Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 >
-> ↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
+> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
 #### Web Application Server
 > [!links]
 > ↗ [Reverse Proxy Servers & Application Servers](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)

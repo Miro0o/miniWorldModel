@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 
 
 ### Other Resources

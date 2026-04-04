@@ -9,12 +9,12 @@
 ↗ [Security Industry & Companies](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 ↗ [Security Related Conferences & Events](../../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Related%20Conferences%20&%20Events.md)
 
-↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
+↗ [CyberSecurity](../../../CyberSecurity/CyberSecurity.md)
 
 ↗ [Research Topics in Cybersecurity](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
 ↗ [Scholars & Groups Lists - System (and Security)](../../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
-↗ [Academic Networks & Nepotism](../../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
 
+↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
 
 ### DeadLines
 [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)

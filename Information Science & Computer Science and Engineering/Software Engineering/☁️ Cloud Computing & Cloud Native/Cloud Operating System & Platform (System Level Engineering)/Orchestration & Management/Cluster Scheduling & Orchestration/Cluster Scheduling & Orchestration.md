@@ -7,7 +7,16 @@
 ## Res
 📂 https://landscape.cncf.io/guide#orchestration-management--scheduling-orchestration
 
+### Related Topics
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Scheduling & Resource Management](../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
+
+↗ [Scheduler & Service Discovery](../../../../☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Scheduler%20&%20Service%20Discovery/Scheduler%20&%20Service%20Discovery.md)
+
 ↗ [CloudFoundry](../../../🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/PaaS%20(Platform%20as%20a%20Service)/CloudFoundry.md)
+
+
+### Other Resources
 
 
 

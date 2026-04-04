@@ -15,8 +15,8 @@
 ↗ [Distributed Computing & Systems](../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
 
-↗ [DS Web Services' Architectures](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
-↗ [Internet (Web) Application Systems & Architecture Design](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design/Internet%20(Web)%20Application%20Systems%20&%20Architecture%20Design.md)
+↗ [DS Services Architectures](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
@@ -187,6 +187,8 @@ This is the definition I use in this whole notes. However, sometimes people refe
 ##### #2 - Computer Architecture = ISA
 > **Computer architecture**, or ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md), is the designed set of rules of how a CPU /machine can be manipulated, it's the computer from a programmer's (mostly low level) perspective.
 
+> 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA
+
 指令集架构是尝试为程序员提供一个抽象的机器模型， 以及为程序员提供一些机器状态的可视化，如机器是否有存储器、是否有寄存器，同时还定义了一些操作指令以及一些基本的计算指令， 并且定义了指令的操作方式。例如，ADD 指令一个基本的加法指令，它的实际语义定义了如何从一个寄存器中取出数据并与另一个寄存器中的数据相加，最后再保存。
 
 将两个数相加，并保存到另一个寄存器中，这样看起来执行一条加法指令并不是一步完成的，其实指令很多时候都不会是一步完成还会有其他的操作需要处理，例如，IO 中断。那么就需要再指令集架构中定义一个中断的指令和实际语义是什么，或者是如何在 IO 出入一块数据，这些操作又是如何与处理器交互的。因此指令集架构还需要定义 IO 的输入输出如何工作。
@@ -264,6 +266,8 @@ In the old days (1990s-2000s), the "CPU Organization" and the "Motherboard Organ
 
 **Result:** In the era of SoCs, **Computer Organization** and **Microarchitecture** have effectively become the same thing. The "System" organization is now just the "Chip" organization.
 #### Examples of Microarchitectures & ISA
+> 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA
+
 因为一般来说指令集架构是固定的，为了达到多种用途或者不同性能的处理器那么将根据一些目标指标来根据指令集架构实现不同的微架构。
 
 例如，Intel 的 X86 就是一个指令集体系架构，在此指令集架构上有许多不同的微体系架构的实现，因此有了高性能处理的服务器版本和专注于特定功能的机器，虽然芯片内部看起来完全不同，但是两个处理器可以执行相同的代码，因为他们使用的是完全一样的指令集架构。

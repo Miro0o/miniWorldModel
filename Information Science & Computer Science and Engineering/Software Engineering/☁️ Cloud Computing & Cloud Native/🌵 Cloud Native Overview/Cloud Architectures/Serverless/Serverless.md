@@ -5,12 +5,30 @@
 
 
 ## Res
+🏠 
+🚧 
+📂 https://www.serverless.com/framework/docs/getting-started/
+
+
+### Related Topics
+
+
+
+### Other Resources
+
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Serverless_computing
+
+**Serverless computing** is "a cloud service category where the customer can use different cloud capability types without the customer having to provision, deploy and manage either hardware or software resources, other than providing customer application code or providing customer data. Serverless computing represents a form of virtualized computing." according to [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization "International Organization for Standardization")/IEC 22123-2. Serverless computing is a broad ecosystem that includes the cloud provider, [Function as a Service](https://en.wikipedia.org/wiki/Function_as_a_service "Function as a service") (FaaS), managed services, tools, frameworks, engineers, stakeholders, and other interconnected elements, according to Sheen Brisals.
+
 
 
 ## Ref
+[What is Serverless? -- IBM]: https://www.ibm.com/cloud/learn/serverless
+[what is Serverless -- cloudflare.com]: https://www.cloudflare.com/learning/serverless/what-is-serverless/
+
 [是微服务架构不香还是云不香？| Coolshell]: https://coolshell.cn/articles/22422.html#comments
 
 这两天技术圈里热议的一件事就是Amazon的流媒体平台Prime Video在2023年3月22日发布了一篇技术博客《[规模化Prime Video的音视频监控服务，成本降低90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90 "Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%")》，副标题：“**从分布式微服务架构到单体应用程序的转变有助于实现更高的规模、弹性和降低成本**”，有人把这篇文章在五一期间转到了[reddit](https://www.reddit.com/r/programming/comments/137alxn/prime_video_switched_from_serverless_to_ec2_and/) 和 [hacker news](https://news.ycombinator.com/item?id=35811741) 上，在Reddit上热议。这种话题与业内推崇的微服务架构形成了鲜明的对比。从“微服务架构”转“单体架构”，还是Amazon干的，这个话题足够劲爆。然后DHH在刚[喷完Typescript](https://twitter.com/dhh/status/1655076668787097607)后继续发文《[即便是亚马逊也无法理解Servless或微服务](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)》，继续抨击微服务架构，于是，瞬间引爆技术圈，登上技术圈热搜。

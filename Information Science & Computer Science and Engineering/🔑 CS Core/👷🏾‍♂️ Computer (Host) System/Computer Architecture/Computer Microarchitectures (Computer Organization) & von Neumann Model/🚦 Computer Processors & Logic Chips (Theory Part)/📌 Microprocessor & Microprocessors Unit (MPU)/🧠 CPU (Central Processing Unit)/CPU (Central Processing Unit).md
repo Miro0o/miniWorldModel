@@ -20,6 +20,8 @@
 
 ↗ [Semiconductor Industry & Companies](../../../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/🏖️%20Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
+↗ [国产芯片](../../../../../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Processors%20&%20Logic%20Chips%20(Implementation%20Part)/国产芯片.md)
+
 
 ### Learning Resources
 🔥 https://eater.net
@@ -44,7 +46,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 
-## Overview
+## Intro
 The central processing unit (CPU), or simply processor, is the engine that interprets (or executes) instructions stored in main memory. At its core is a word-size storage device (or register) called the program counter (PC). At any point in time, the PC points at (contains the address of) some machine-language instruction in main memory.2
 
 From the time that power is applied to the system until the time that the power is shut off, a processor repeatedly executes the instruction pointed at by the program counter and updates the program counter to point to the next instruction. A processor appears to operate according to a very simple instruction execution model, defined by its instruction set architecture. In this model, instructions execute in strict sequence, and executing a single instruction involves performing a series of steps. The processor reads the instruction from memory pointed at by the program counter (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction, which may or may not be contiguous in memory to the instruction that was just executed.
@@ -75,7 +77,7 @@ Similarly:
 - an I/O buffer register (**I/OBR**) is used for the exchange of data between an I/O module and the processor.
 
 
-### CPU Layout & Microarchitecture
+### CPU Layout & Microarchitecture ⭐
 > [!links]
 > ↗ [Computer Architecture](../../../../Computer%20Architecture.md) "microarchitecture =? organization =? CPU =? CPU core"
 > 
@@ -123,7 +125,7 @@ Similarly:
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117001248.png)
 <small>Intel Raptor Cove CPU core microarchitecture <br> <a>https://en.wikipedia.org/wiki/Golden_Cove#Raptor_Cove</a></small>
-#### CPU Infrastructure
+#### CPU Infrastructure (Uncore / Data Fabric)
 > [!links]
 > ↗ [MCU (Memory Controller Unit) & IMC (Integrated Memory Controller)](Outside%20CPU%20Core%20(Interconnect%20Topology)/MCU%20(Memory%20Controller%20Unit)%20&%20IMC%20(Integrated%20Memory%20Controller).md)
 > ↗ [LLC (Last Level Cache) - L3 (L4)](Outside%20CPU%20Core%20(Interconnect%20Topology)/LLC%20(Last%20Level%20Cache)%20-%20L3%20(L4).md)
@@ -230,7 +232,7 @@ or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20
 
 
 
-## 🎯 Performance Metrics & Specs
+## 🎯 Performance Metrics & Specifications
 ### Clock 
 >⚠ 
 >Generally, when we mention the clock, we are referring to the **system clock** or the **master clock** that regulates the CPU and other components.

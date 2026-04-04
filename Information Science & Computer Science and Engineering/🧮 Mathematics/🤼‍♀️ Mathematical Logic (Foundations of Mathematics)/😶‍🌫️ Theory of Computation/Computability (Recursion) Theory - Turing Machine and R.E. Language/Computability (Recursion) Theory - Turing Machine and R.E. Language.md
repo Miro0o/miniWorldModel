@@ -315,6 +315,11 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 
 
 ## Universal Machine /Program
+A TM that can simulate other Turing machines when given their description as input.
+
+This is one of the deepest ideas in computer science: **programs themselves can be encoded as data**.
+
+
 ### Universal Program & Input Encoding
 > 🔗 https://thzt.github.io/2017/03/10/recursive-function-6/
 

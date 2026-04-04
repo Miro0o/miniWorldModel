@@ -43,7 +43,6 @@ In 2021, the sales of semiconductors reached a record $555.9 billion, up 26.2 pe
 
 
 
-
 ## Ref
 [半导体行业有哪些大公司？ - 行行查的回答 - 知乎]: https://www.zhihu.com/question/28723402/answer/2351657753
 [半导体行业有哪些大公司？ - 黑暗森林-张斌的回答 - 知乎]: https://www.zhihu.com/question/28723402/answer/2849594162

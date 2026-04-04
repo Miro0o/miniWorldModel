@@ -338,7 +338,7 @@ Estimating AI productivity gains from Claude conversations
 
 
 
-## Intro: LLM Principles & Utilization
+## Intro
 [Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
 
 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
@@ -360,6 +360,8 @@ Estimating AI productivity gains from Claude conversations
 ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
+↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+
 ![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
 Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
@@ -376,10 +378,7 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 
 ![](../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
 <small><a>https://poloclub.github.io/transformer-explainer/</a></small>
-#### Tokenization & Embedding
-> 🔗 https://stanford-cs324.github.io/winter2022/lectures/modeling/#model-architecture
 
-#### LLM Model Architectures
 ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
 - Tokenization
 - Attention
@@ -392,15 +391,21 @@ https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
 ### LLM Training, Utilization, and Evaluation
 ↗ [LLM Training, Utilization, and Evaluation](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 - ↗ [Pre-Training](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md) (In-Weight Learning)
-- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+	- ↗ [Tokenization Techniques & Tokenizers](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Tokenization%20Techniques%20&%20Tokenizers/Tokenization%20Techniques%20&%20Tokenizers.md)
+- ↗ [Post-Training & Fine Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
+	- ↗ [Instruction Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/Instruction%20Tuning.md)
+		- ↗ [SFT (Supervised Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
+	- ↗ [LLM Adaptation & Alignment Tuning](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
+		- ↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
+	- ↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+		- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
 - ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md) (In-Context Learning)
 	- ↗ [CoT (Chain-of-Thought)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/CoT%20(Chain-of-Thought).md)
 	- ↗ [RAG (Retrieval Augmented Generation)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/RAG%20(Retrieval%20Augmented%20Generation).md)
 	- ↗ [Context Engineering & ICL (In-Context Learning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
 #### LLM Reasoning & Large Reasoning Models (LRM) 🤔
-↗ [Reinforcement Learning (RL) & Sequential Decision Making](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
-- ↗ [LLM and RL](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
-↗ [RLFT (Reinforcement Learning Fine Tuning)](LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
+> [!links]
+> ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Reasoning_model
 
