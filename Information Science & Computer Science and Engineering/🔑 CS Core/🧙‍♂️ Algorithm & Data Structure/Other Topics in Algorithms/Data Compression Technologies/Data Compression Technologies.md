@@ -16,6 +16,9 @@
 - ↗ [MJPEG (Motion-JPEG)](Media%20Formats%20&%20Standards%20&%20Codec%20(Coder-Decoder)/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Data_compression

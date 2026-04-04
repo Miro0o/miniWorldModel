@@ -693,6 +693,7 @@ Hidden variables are important, but they do complicate the learning problem. In 
 ## Dimensionality Reduction
 > [!links]
 > ↗ [Statistics (Data) Analyzing Methods & Statistical Model](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model.md)
+> ↗ [Dimensionality Reduction (Data Compression)](Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
 > ↗ [Principal Component Analysis (PCA)](../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏒%20Statistics%20(Data)%20Analyzing%20Methods%20&%20Statistical%20Model/Principal%20Component%20Analysis%20(PCA)/Principal%20Component%20Analysis%20(PCA).md)
 
 > 🔗 https://probml.github.io/pml-book/toc1.pdf

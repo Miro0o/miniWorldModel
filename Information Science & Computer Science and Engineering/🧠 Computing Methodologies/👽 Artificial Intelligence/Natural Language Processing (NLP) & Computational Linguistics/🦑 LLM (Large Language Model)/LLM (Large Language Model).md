@@ -516,9 +516,9 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 #### LLaMA-series Model
 ↗ [Meta LLama](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
 #### Qwen-series Model
-↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen.md)
+↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
 #### DeepSeek-series Model
-↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
+↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek/DeepSeek.md)
 
 
 

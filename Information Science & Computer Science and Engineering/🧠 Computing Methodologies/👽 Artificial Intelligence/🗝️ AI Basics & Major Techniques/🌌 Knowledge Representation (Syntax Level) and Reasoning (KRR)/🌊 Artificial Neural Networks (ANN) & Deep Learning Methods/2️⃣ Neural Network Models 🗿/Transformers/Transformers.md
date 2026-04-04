@@ -54,7 +54,7 @@ The modern version of the transformer was proposed in the 2017 paper "Attention 
 #### Position Encoding
 
 
-### Attention (Scaled Dot-Product Attention)
+### Attention
 ↗ [Attention Mechanism & Efficient Implementation](Attention%20Mechanism%20&%20Efficient%20Implementation.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.14.39.png)
@@ -147,14 +147,21 @@ Full encoder–decoder Transformer
 > - Use case: machine translation, summarization, text-to-text tasks.
 > - **Key trait**: input processed fully, output generated step by step.
 
-Encoder-decoder architectures:
-- [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf). _M. Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer_. ACL 2019. Introduces **BART** from Facebook.
-- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf). _Colin Raffel, Noam M. Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, W. Li, Peter J. Liu_. J. Mach. Learn. Res. 2019. Introduces **T5** from Google.
+> [!Papers]
+> Encoder-decoder architectures:
+> - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf). _M. Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer_. ACL 2019. Introduces **BART** from Facebook.
+> - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf). _Colin Raffel, Noam M. Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, W. Li, Peter J. Liu_. J. Mach. Learn. Res. 2019. Introduces **T5** from Google.
 
 
 ### 2️⃣ Decoder-Only Transformer ⭐
 > [!LINKS]
 > ↗ [LLM Training, Utilization, and Evaluation](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
+> 
+> ↗ [DeepSeek](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek/DeepSeek.md)
+> ↗ [Alibaba Qwen](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
+> ↗ [Zhipu GLM](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Zhipu%20GLM/Zhipu%20GLM.md)
+> ↗ [MiniMax](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/MiniMax.md)
+> ↗ [Moonshot Kimi](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Moonshot%20Kimi/Moonshot%20Kimi.md)
 
 > [!quote]
 > 🤖 ChatGPT 4
@@ -170,24 +177,28 @@ Encoder-decoder architectures:
 > - Training objective: just next-token prediction (no special masking schemes like BERT).
 > - Decoder-only models can also do “understanding” tasks by framing them as generation (e.g., “Classify this text: …”).
 
-Decoder-only architectures:
-- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). _Alec Radford, Jeff Wu, R. Child, D. Luan, Dario Amodei, Ilya Sutskever_. 2019. Introduces **GPT-2** from OpenAI.
-- [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf). _Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, J. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, T. Henighan, R. Child, A. Ramesh, Daniel M. Ziegler, Jeff Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei_. NeurIPS 2020. Introduces **GPT-3** from OpenAI.
-- [Scaling Language Models: Methods, Analysis&Insights from Training Gopher](https://arxiv.org/pdf/2112.11446.pdf). _Jack W. Rae, Sebastian Borgeaud, Trevor Cai, Katie Millican, Jordan Hoffmann, Francis Song, J. Aslanides, Sarah Henderson, Roman Ring, Susannah Young, Eliza Rutherford, Tom Hennigan, Jacob Menick, Albin Cassirer, Richard Powell, G. V. D. Driessche, Lisa Anne Hendricks, Maribeth Rauh, Po-Sen Huang, Amelia Glaese, Johannes Welbl, Sumanth Dathathri, Saffron Huang, Jonathan Uesato, John F. J. Mellor, I. Higgins, Antonia Creswell, Nathan McAleese, Amy Wu, Erich Elsen, Siddhant M. Jayakumar, Elena Buchatskaya, D. Budden, Esme Sutherland, K. Simonyan, Michela Paganini, L. Sifre, Lena Martens, Xiang Lorraine Li, A. Kuncoro, Aida Nematzadeh, E. Gribovskaya, Domenic Donato, Angeliki Lazaridou, A. Mensch, J. Lespiau, Maria Tsimpoukelli, N. Grigorev, Doug Fritz, Thibault Sottiaux, Mantas Pajarskas, Tobias Pohlen, Zhitao Gong, Daniel Toyama, Cyprien de Masson d’Autume, Yujia Li, Tayfun Terzi, Vladimir Mikulik, I. Babuschkin, Aidan Clark, Diego de Las Casas, Aurelia Guy, Chris Jones, James Bradbury, Matthew Johnson, Blake A. Hechtman, Laura Weidinger, Iason Gabriel, William S. Isaac, Edward Lockhart, Simon Osindero, Laura Rimell, Chris Dyer, Oriol Vinyals, Kareem W. Ayoub, Jeff Stanway, L. Bennett, D. Hassabis, K. Kavukcuoglu, Geoffrey Irving_. 2021. Introduces **Gopher** from DeepMind.
-- [Jurassic-1: Technical details and evaluation](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf). _Opher Lieber, Or Sharir, Barak Lenz, Yoav Shoham_. 2021. Introduces **Jurassic** from AI21 Labs.
+> [!Papers]
+> Decoder-only architectures:
+> - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). _Alec Radford, Jeff Wu, R. Child, D. Luan, Dario Amodei, Ilya Sutskever_. 2019. Introduces **GPT-2** from OpenAI.
+> - [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf). _Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, J. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, T. Henighan, R. Child, A. Ramesh, Daniel M. Ziegler, Jeff Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei_. NeurIPS 2020. Introduces **GPT-3** from OpenAI.
+> - [Scaling Language Models: Methods, Analysis&Insights from Training Gopher](https://arxiv.org/pdf/2112.11446.pdf). _Jack W. Rae, Sebastian Borgeaud, Trevor Cai, Katie Millican, Jordan Hoffmann, Francis Song, J. Aslanides, Sarah Henderson, Roman Ring, Susannah Young, Eliza Rutherford, Tom Hennigan, Jacob Menick, Albin Cassirer, Richard Powell, G. V. D. Driessche, Lisa Anne Hendricks, Maribeth Rauh, Po-Sen Huang, Amelia Glaese, Johannes Welbl, Sumanth Dathathri, Saffron Huang, Jonathan Uesato, John F. J. Mellor, I. Higgins, Antonia Creswell, Nathan McAleese, Amy Wu, Erich Elsen, Siddhant M. Jayakumar, Elena Buchatskaya, D. Budden, Esme Sutherland, K. Simonyan, Michela Paganini, L. Sifre, Lena Martens, Xiang Lorraine Li, A. Kuncoro, Aida Nematzadeh, E. Gribovskaya, Domenic Donato, Angeliki Lazaridou, A. Mensch, J. Lespiau, Maria Tsimpoukelli, N. Grigorev, Doug Fritz, Thibault Sottiaux, Mantas Pajarskas, Tobias Pohlen, Zhitao Gong, Daniel Toyama, Cyprien de Masson d’Autume, Yujia Li, Tayfun Terzi, Vladimir Mikulik, I. Babuschkin, Aidan Clark, Diego de Las Casas, Aurelia Guy, Chris Jones, James Bradbury, Matthew Johnson, Blake A. Hechtman, Laura Weidinger, Iason Gabriel, William S. Isaac, Edward Lockhart, Simon Osindero, Laura Rimell, Chris Dyer, Oriol Vinyals, Kareem W. Ayoub, Jeff Stanway, L. Bennett, D. Hassabis, K. Kavukcuoglu, Geoffrey Irving_. 2021. Introduces **Gopher** from DeepMind.
+> - [Jurassic-1: Technical details and evaluation](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf). _Opher Lieber, Or Sharir, Barak Lenz, Yoav Shoham_. 2021. Introduces **Jurassic** from AI21 Labs.
+> 
+> Modeling:
+> - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Introduces GPT-2.
+> - [Attention is All you Need](https://arxiv.org/pdf/1706.03762.pdf). _Ashish Vaswani, Noam M. Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin_. NIPS 2017.
+> - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+> - [CS224N slides on RNNs](http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture06-fancy-rnn.pdf)
+> - [CS224N slides on Transformers](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf)
+> - [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/pdf/2108.12409.pdf). _Ofir Press, Noah A. Smith, M. Lewis_. 2021. Introduces **Alibi embeddings**.
+> - [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). _Zihang Dai, Zhilin Yang, Yiming Yang, J. Carbonell, Quoc V. Le, R. Salakhutdinov_. ACL 2019. Introduces recurrence on Transformers, relative position encoding scheme.
+> - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf). _R. Child, Scott Gray, Alec Radford, Ilya Sutskever_. 2019. Introduces **Sparse Transformers**.
+> - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768.pdf). _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_. 2020. Introduces **Linformers**.
+> - [Rethinking Attention with Performers](https://arxiv.org/pdf/2009.14794.pdf). _K. Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamás Sarlós, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy J. Colwell, Adrian Weller_. ICLR 2020. Introduces **Performers**.
+> - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf). _Yi Tay, M. Dehghani, Dara Bahri, Donald Metzler_. 2020.
+> 
 
-Modeling:
-- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Introduces GPT-2.
-- [Attention is All you Need](https://arxiv.org/pdf/1706.03762.pdf). _Ashish Vaswani, Noam M. Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin_. NIPS 2017.
-- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [CS224N slides on RNNs](http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture06-fancy-rnn.pdf)
-- [CS224N slides on Transformers](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf)
-- [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/pdf/2108.12409.pdf). _Ofir Press, Noah A. Smith, M. Lewis_. 2021. Introduces **Alibi embeddings**.
-- [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). _Zihang Dai, Zhilin Yang, Yiming Yang, J. Carbonell, Quoc V. Le, R. Salakhutdinov_. ACL 2019. Introduces recurrence on Transformers, relative position encoding scheme.
-- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf). _R. Child, Scott Gray, Alec Radford, Ilya Sutskever_. 2019. Introduces **Sparse Transformers**.
-- [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768.pdf). _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_. 2020. Introduces **Linformers**.
-- [Rethinking Attention with Performers](https://arxiv.org/pdf/2009.14794.pdf). _K. Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamás Sarlós, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy J. Colwell, Adrian Weller_. ICLR 2020. Introduces **Performers**.
-- [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf). _Yi Tay, M. Dehghani, Dara Bahri, Donald Metzler_. 2020.
+>🤖 https://chatgpt.com/share/69d11f8b-ec20-8397-aa1c-40a5e50d5d61
 
 ```markdown
 Decoder-only Transformer line
@@ -226,14 +237,49 @@ GPT-1 (2018)
             ├─ MQA / GQA
             ├─ MLA (DeepSeek)
             └─ Lightning Attention + hybrid softmax (MiniMax)
-```
-#### Dense Decoder
 
-#### Sparse Decoder & MoE (Mixture of Experts)
-↗ [MoE (Mixture of Experts) Architecture](MoE%20(Mixture%20of%20Experts)%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
-#### Long-Context
+2018  GPT-1        decoder-only autoregressive LM becomes the main branch
+2019  GPT-2        same branch proves surprisingly general
+2020  GPT-3        scale + in-context learning become central
+2022  Chinchilla   training recipe becomes more data/compute-optimal
+2019  MQA          inference cost becomes a first-class design target
+2021  RoPE         positional encoding modernizes
+2023  GQA          mainstream compromise for fast serving
+2023  Llama-style  RMSNorm + SwiGLU + RoPE + GQA becomes the standard open recipe
+2024  DeepSeek-V2  MoE + MLA = more aggressive efficiency redesign
+2024  Gemini 1.5   dense/Flash and sparse-MoE/Pro split
+2024  MiniMax-01   hybrid lightning+softmax attention for long context
+2025  Llama 4      major Meta shift from dense to MoE
+2025  GPT-oss      OpenAI publicly shows its current open MoE descendant
+2025  GLM-4.5      recent GLM line clearly on MoE branch
+2025+ Qwen2.5-1M   mainstream dense recipe extended to million-token contexts
+```
+
+A modern decoder-only Transformer can be read as this pipeline:
+
+```
+tokens  
+→ token embeddings  
+→ repeated Transformer blocks  
+   [RMSNorm → causal self-attention → residual  
+    RMSNorm → MLP (or MoE FFN) → residual]  
+→ final normalization  
+→ output projection to vocabulary logits  
+→ next-token prediction
+```
+
+That high-level structure is still very close to GPT. What changed is the **inside of the block**: better normalization, better positional encoding, more inference-efficient attention, and sometimes MoE sparsity.
+#### Dense Decoder vs Sparse Decoder & MoE (Mixture of Experts)
+↗ [MoE (Mixture of Experts) Architecture](Dense%20Decoder/MoE%20(Mixture%20of%20Experts)%20Architecture/MoE%20(Mixture%20of%20Experts)%20Architecture.md)
+
+#### Residual Connections
+↗ [Residual Connections](Residual%20Connections.md)
+
+#### Normalizations
+
 #### Attention Redesign
-##### Linear/Kernelized Attention Variants
+↗ [Attention Mechanism & Efficient Implementation](Attention%20Mechanism%20&%20Efficient%20Implementation.md)
+
 #### Retrieve-Based Model
 ↗ [Retrieve-Based Architecture](Retrieve-Based%20Architecture/Retrieve-Based%20Architecture.md)
 
@@ -247,17 +293,19 @@ GPT-1 (2018)
 > - **Use case**: understanding tasks (e.g., “Is this sentence positive or negative?”).
 > - **Key trait**: bidirectional (looks at left + right context together).
 
-Encoder-only architectures:
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). _Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. NAACL 2019. Introduces **BERT** from Google.
-- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf). _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, M. Lewis, Luke Zettlemoyer, Veselin Stoyanov_. 2019. Introduces **RoBERTa** from Facebook.
+> [!Papers]
+> Encoder-only architectures:
+> - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). _Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. NAACL 2019. Introduces **BERT** from Google.
+> - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf). _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, M. Lewis, Luke Zettlemoyer, Veselin Stoyanov_. 2019. Introduces **RoBERTa** from Facebook.
 
 
 ### Tokenization
-Tokenization:
-- [Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/pdf/2112.10508.pdf). _Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan_. 2021. Comprehensive survey of tokenization.
-- [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). _Rico Sennrich, B. Haddow, Alexandra Birch_. ACL 2015. Introduces **byte pair encoding** into NLP. Used by GPT-2, GPT-3.
-- [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf). _Yonghui Wu, M. Schuster, Z. Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, M. Krikun, Yuan Cao, Qin Gao, Klaus Macherey, J. Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Lukasz Kaiser, Stephan Gouws, Y. Kato, Taku Kudo, H. Kazawa, K. Stevens, George Kurian, Nishant Patil, W. Wang, C. Young, Jason R. Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, G. Corrado, Macduff Hughes, J. Dean_. 2016. Introduces **WordPiece**. Used by BERT.
-- [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf). _Taku Kudo, John Richardson_. EMNLP 2018. Introduces **SentencePiece**.
+> [!Papers]
+> Tokenization:
+> - [Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://arxiv.org/pdf/2112.10508.pdf). _Sabrina J. Mielke, Zaid Alyafeai, Elizabeth Salesky, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan_. 2021. Comprehensive survey of tokenization.
+> - [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). _Rico Sennrich, B. Haddow, Alexandra Birch_. ACL 2015. Introduces **byte pair encoding** into NLP. Used by GPT-2, GPT-3.
+> - [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf). _Yonghui Wu, M. Schuster, Z. Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, M. Krikun, Yuan Cao, Qin Gao, Klaus Macherey, J. Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Lukasz Kaiser, Stephan Gouws, Y. Kato, Taku Kudo, H. Kazawa, K. Stevens, George Kurian, Nishant Patil, W. Wang, C. Young, Jason R. Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, G. Corrado, Macduff Hughes, J. Dean_. 2016. Introduces **WordPiece**. Used by BERT.
+> - [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf). _Taku Kudo, John Richardson_. EMNLP 2018. Introduces **SentencePiece**.
 
 
 
