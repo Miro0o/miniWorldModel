@@ -6,8 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [DS Services Architectures](../DS%20Services%20Architectures.md)
+↗ [Database Applications (DBAP) & Services](../Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+- ↗ [Data Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+↗ [Enterprise Architecture Modeling (Software Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
 
 
 ### Other Resources
@@ -22,13 +26,38 @@
 
 
 ### The Information Systems Lifecycle
-#TODO 
+> [!links]
+> ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 > **Information System**: The resources that enable the collection, management, control, and dissemination of information throughout an organization.
 
 
+### Case Tools in Database Design
+↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
+
+Support provided by CASE(计算机辅助软件工程) tools include:
+- data dictionary to store information about database system’s data;
+- design tools to support data analysis;
+- tools to permit development of corporate data model, and conceptual and logical data models;
+- tools to enable prototyping of applications.
+
+Provide following benefits: 
+* Standards;
+* Integration(集成化);  
+* Support for standard methods;
+* Consistency(一致性);  
+* Automation.
+
+![](../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.51.09%20PM.png)
+
+
 
 ## 🔄 Database System Development Lifecycle, DSDLC
+> [!links]
+> ↗ [Database Design](📌%20Database%20Design/Database%20Design.md)
+> 
+> ↗ [Database Application (DBAP) Design](Database%20Application%20(DBAP)%20Design/Database%20Application%20(DBAP)%20Design.md)
+> ↗ [Database Applications (DBAP) & Services](../Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 > 🔗 
 > Informations System;
@@ -53,41 +82,30 @@ For small database systems, with a small number of users, the lifecycle need not
 <small>Database System Development Life Cycle #2</small>
 
 
-
-### DBMS Design
-Conceptual Desigb | Logical Design | Physical Design
-
-↗ [DBMS Design](📌%20DBMS%20Design/DBMS%20Design.md)
+### 1️⃣ Database Meta Design
+↗ [Database System Meta Design](Database%20System%20Meta%20Design/Database%20System%20Meta%20Design.md)
 
 
-### DBMS Application Design
-↗ [DBMS Application Design](Database%20Application%20Design/DBMS%20Application%20Design.md)
-↗ [DS Services Architectures](../DS%20Services%20Architectures.md)
+### 2️⃣ Database Design & Three Schema Model
+↗ [Database Design](📌%20Database%20Design/Database%20Design.md)
+- ↗ [Conceptual Database Design (Conceptual Modeling)](📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+- ↗ [Logical Database Design (Data Modeling)](📌%20Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+- ↗ [Physical Database Design (Physical Modeling)](📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+	- ↗ [DBMS (DataBase Management System) Implementations](../Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+
+↗ [Data Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020260318145616.png)
+<small><a>https://medium.com/@lasyachowdary1703/day-9-intro-to-conceptual-logical-physical-data-models-mapping-ideas-to-reality-cb02608b18b3</a></small>
 
 
-
-## Case Tools in Database Design
-↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
-
-Support provided by CASE(计算机辅助软件工程) tools include:
-- data dictionary to store information about database system’s data;
-- design tools to support data analysis;
-- tools to permit development of corporate data model, and conceptual and logical data models;
-- tools to enable prototyping of applications.
-
-Provide following benefits: 
-* Standards;
-* Integration(集成化);  
-* Support for standard methods;
-* Consistency(一致性);  
-* Automation.
-
-![](../../../../../Assets/Pics/Screenshot%202023-04-22%20at%203.51.09%20PM.png)
+### 3️⃣ Database Application Design
+↗ [Database Application (DBAP) Design](Database%20Application%20(DBAP)%20Design/Database%20Application%20(DBAP)%20Design.md)
+↗ [Database Applications (DBAP) & Services](../Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 
 
 ## ✅ Case Study: Oracle Architecture
-#TODO 
 
 
 

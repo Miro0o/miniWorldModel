@@ -9,6 +9,8 @@
 ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 
 
+### Other Resources
+
 
 ## Intro
 **Database Secrity**: The mechanisms that protect the database against intentional or accidental threats.

@@ -1,4 +1,4 @@
-# Database System
+# Database Systems
 
 [TOC]
 
@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Information Systems & System Architecture Design](../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+↗ [Enterprise Architecture Modeling (Software Integration)](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+↗ [Data Integration](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+
 ↗ [Database System Security](../../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
 ↗ [Database Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
 
@@ -81,6 +85,16 @@ Distributed Database Systems
 Database System Security Management
 ↗ [Database System Security](../../../CyberSecurity/System%20Security/Database%20System%20Security/Database%20System%20Security.md)
 
+Professional, Legal, and Ethical Issues in Data Management
+
+Risk Management & Data Recovery
+↗ [Database Recovery](⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
+
+↗ [Risk Management](../../../CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
+
+↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
+- ↗ [Data Protection & Security](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Protection%20&%20Security.md)
+- ↗ [Data Disaster Recovery](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Disaster%20Recovery/Data%20Disaster%20Recovery.md)
 
 
 

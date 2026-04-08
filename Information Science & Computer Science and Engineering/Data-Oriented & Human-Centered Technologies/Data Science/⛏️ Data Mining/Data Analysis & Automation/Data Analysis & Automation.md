@@ -13,6 +13,9 @@
 ↗ [Distributed Storaging](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Storaging/Distributed%20Storaging.md)
 ↗ [Distributed File System (Network File Systems)](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
 
+↗ [Physical Database Design (Physical Modeling)](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [Data Warehouse & Beyonds](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
+
 
 ### Learning Resources
 https://mp.weixin.qq.com/mp/homepage?__biz=Mzg2MzU2MDYzOA==&hid=10&sn=28d47b7b040188dff0410bc9a2bcfd00&scene=1&devicetype=iMac+MacBookPro16%2C2+OSX+OSX+14.5+build(23F79)&version=13080710&lang=en&nettype=WIFI&ascene=0&fontScale=100&uin=&key=

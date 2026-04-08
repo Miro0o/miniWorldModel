@@ -438,6 +438,12 @@ Conference Partner
 https://www.openresearch.org/wiki/Main_Page
 OpenResearch aims at making the **descriptive metadata on conferences and other formats of scientific events** permanently accessible in a high quality through automated processes and scientific data curating. OpenResearch as a sustainable service addresses researchers who search for and publish information on scientific events, as well as universities, information infrastructure institutions, specialised societies, publishers and funding agencies.
 
+https://github.com/hitfyd/ShowJCR
+期刊分区查询小工具，包括新锐期刊分区表（2026）、中科院分区表升级版（2025）及国际期刊预警名单（2025、2024、2023、2021、2020）、JCR（2024、2023）、CCF推荐国际会议和期刊目录（2026）、计算领域高质量科技期刊分级目录（2025）。
+
+https://ewl.fenqubiao.com/#/
+中科院国际期刊预警名单
+
 
 ### Paper Review & Revise
 https://openreview.net
@@ -497,3 +503,6 @@ Tracking Paper Acceptance Rates at CS Conferences
 [读博这半年]: https://blog.wohin.me/posts/phd-0_5/
 - 2019年我刚毕业的时候，绿盟的江苏分公司和南京研究所都还没有成立，我在绿盟南京办事处和其他部门的同事一起工作。星云的主要成员分布在北京、西安两地。一次，刘博从北京来南京出差，回京前找我聊天，让我多读一读公司各种产品的白皮书。一开始我并不理解，认为自己做的是“云安全”，其次是“研究”，读白皮书什么的，没有必要。直到后来我陆续把各种产品的白皮书都读了一遍，挨个梳理了它们的功能、原理、架构设计，才体会到这样做的好处。作为一个全品类安全公司，绿盟的产品白皮书确实蕴含了大量信息，这些信息能够帮助一个初出茅庐的年轻人对一个行业建立起初步认识。
 - 后来，做云安全产品研究时，我也会去找业界其他公司的白皮书读一读。这些都是公开可得的资料，也许还会有一些夸大的成分，但是不影响基本的判断——功能的基本原理、产品的架构设计，结合自己的已有知识，大体是能够推断出来的。这与博士生读论文很像——论文也时常会有overclaimed的成分，但不影响整体的合理性。
+
+[如何看待中科院文献情报中心不再更新与发布期刊分区表的声明？新锐分区彻底野鸡了吗？ - Yawgmoth的回答 - 知乎]: https://www.zhihu.com/question/2021006668335432042/answer/2021134250687169690
+说好听点，中科院分区是中国尝试在期刊界发生的一个常识。说难听了，肯定是某一任领导的胡搞。JCR的1区要的是前25%，中科院1区是5%。如果只是这样其实没毛病。我认为问题出现在有一年变成了进阶版本，说什么纳入了很多参考因素，又不公布算法。开始出现大量乱排的现象。说实在的，从那之后，每年都出奇葩问题。第一个提出搞分区的领导估计早离开了。现在名声臭了的分区对于新任领导也是负担了。所以就切割了。

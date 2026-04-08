@@ -6,9 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [DBMS Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/DBMS%20Design.md)
-- ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-- ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
+↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
+- ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+- ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+
+↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 
 ### Other Resources
@@ -22,11 +25,11 @@
 > Lenzerini, Maurizio. "Data integration: A theoretical perspective." _Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems_. 2002
 
 
-### Three Schema Model: DBMS Design & Data Management and Modeling
+### Three Schema Model: Data Management and Modeling
 > [!links]
-> ↗ [DBMS Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/DBMS%20Design.md)
-> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+> ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 
 #DBMS #data_modeling
 
@@ -46,16 +49,13 @@ In academic usage and when describing DBMS architectures however, the Logical le
 
 When you come across any of these terms you really need to seek clarification on what is being described unless the context makes it obvious.
 
-For a discussion of these differences, check out Data Modelling Essentials by Simsion and Witt for example.
+For a discussion of these differences, check out Data Modeling Essentials by Simsion and Witt for example.
 
-
-
-### A Introducing Example
-A university wants to make publicly accessible from its website both information on its departments, employees, and rooms, and on its courses and planned lectures. However, no unified data source exists. Information on departments, employees and rooms is stored in an XML database, which is used by a .NET application to support the HR department. Instead, information on courses and lectures is stored in a relational database, which is used by a Java application to support the study administration. Neither the applications expose any API, nor their source code is available.
-
-![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2014.44.12.png)
-
-![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2014.44.36.png)
+> [!Example] A Introducing Example
+> A university wants to make publicly accessible from its website both information on its departments, employees, and rooms, and on its courses and planned lectures. However, no unified data source exists. Information on departments, employees and rooms is stored in an XML database, which is used by a .NET application to support the HR department. Instead, information on courses and lectures is stored in a relational database, which is used by a Java application to support the study administration. Neither the applications expose any API, nor their source code is available.
+> 
+> ![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2014.44.12.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2014.44.36.png)
 
 **Key Idea**
 - The ideal data source should have a uniform **Global Conceptual Schema (GCS)**
@@ -74,9 +74,9 @@ A university wants to make publicly accessible from its website both information
 - **Physical Integration**
 	- The GCS is a physical datastore
 	- Data are periodically copied from each data source into the target datastore
-	- ETL: data is read from source, transformed, and loaded to target
-	- ELT: data is read from source, loaded to target (unchanged), and then transformed
-	- not for real-time!
+	- ETL: data is **E**xtract from source, **T**ransformed, and **L**oaded to target
+	- ELT: data is **E**xtract from source, **L**oaded to target (unchanged), and then **T**ransformed
+	- ==not for real-time!==
 - **Logical Integration**
 	- The GCS is a projection over each data source LCS
 	- Data are kept in the originating data sources in the same source format
@@ -87,11 +87,11 @@ A university wants to make publicly accessible from its website both information
 
 ## Logical Integration
 > [!links]
-> ↗ [ER & EER & ERD](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
-> ↗ [ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
+> ↗ [ER & EER & ERD](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
+> ↗ [ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
 > 
-> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
-> ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
+> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
+> ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
 
 
 **Logical Integration**
@@ -137,6 +137,17 @@ A university wants to make publicly accessible from its website both information
 	- Intermediate schemas are used to create a global conceptual schema
 
 
+### LCS Identification
+- typically performed by reverse-engineering the physical data source to a conceptual
+model (e.g., ER diagrams)
+- Can be (partially) automated or entirely manual
+- Conceptual models are not tied to a specific technology (e.g., relational vs document-based
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.49.40.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.50.10.png)
+
+
 ### Schema Translation
 
 
@@ -144,21 +155,24 @@ A university wants to make publicly accessible from its website both information
 - Schema matching
 	- Finding the correspondences between multiple schemas
 - Schema integration
-	- Creation of the GCS (or mediated schema) using thecorrespondencesn
+	- Creation of the GCS (or mediated schema) using the correspondences
 - Schema mapping
 	- How to map data from local databases to the GCS
 Important: sometimes the GCS is defined first and schema matching and schema mapping is done against this target GCS
-#### Schema Matching
+#### 1️⃣ Schema Matching
 ![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.23.02.png)
 <small><a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
 
-For each concept in a conceptual model, it identifies the corresponding element(s) in the other models:
-- For GAV, we consider all LCSs
-- For LAV, we also consider the GCS
-	- A concept may exist in all models, some models, or only one model
-	-  A concept may be represented using multiple model elements (e.g., two entities and a relation)
-	- Can be (partially) automated or entirely manual
-#### Schema Integration
+- For each concept in a conceptual model, it identifies the corresponding element(s) in the other models:
+	- For GAV, we consider all LCSs
+	- For LAV, we also consider the GCS
+- A concept may exist in all models, some models, or only one model
+-  A concept may be represented using multiple model elements (e.g., two entities and a relation)
+- Can be (partially) automated or entirely manual
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.50.52.png)
+#### 2️⃣ Schema Integration
 ![|500](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.23.28.png)
 <small><a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
 
@@ -167,10 +181,14 @@ Based on the schema matching results, the GCS is synthesized
 Integration can be binary or n-ary
 - Binary: schemas are compared pairwise
 - N-ary: more that 2 schemas are compared at once
-#### Schema Mapping
+
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.51.26.png)
+#### 3️⃣ Schema Mapping
 > [!links]
-> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
-> ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
+> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
+> ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
 
 Identifies how data from LCS can be mapped to GCS
 - Schema matching has NOT specified how to transform the whole data source
@@ -182,11 +200,33 @@ Mappings will be used to rewrite queries over the GCS
 
 ![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.34.39.png)
 <small>MDB Query ProcessingArchitecture <br> <a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
+
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.03.23.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.03.12.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.04.49.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.57.47.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.56.53.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.58.49.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.57.09.png)
+> 
+> (XML to SQL mediator (skipped))
 ##### Direct Mapping
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.00.28.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.00.50.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.01.16.png)
+> 
+![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.05.48.png)
+![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.06.00.png)
+![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.06.09.png)
 
 
 
 ## Physical Integration
+> [!links]
+> ↗ [Data Warehouse & Beyonds](Data%20Warehouse%20&%20Beyonds.md)
 
 
 

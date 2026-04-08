@@ -8,10 +8,10 @@
 ### Related Topics
 ↗ [Models of Computation & Abstract Machines](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
-↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
+↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
 
 ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
-↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 
 ### Other Resources
@@ -19,6 +19,30 @@
 
 
 ## Intro
+> [!links]
+> ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+
+> 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
+
+==Enterprise Architecture (EA) is a discipline which has evolved to structure the business and its alignment with the IT systems.== The [Zachman Framework](https://www.visual-paradigm.com/features/zachman-framework-tools/) is an enterprise ontology and is a fundamental structure for Enterprise Architecture which provides a way of viewing an enterprise and its information systems from different perspectives, and showing how the components of the enterprise are related.
+
+> [!quote]
+> "Enterprise Architecture is the process used by a business to make explicit representations of enterprise operations and resources, rather than relying on implicit notions or understanding in individual managers' heads." 
+> 
+> --- Stan Locke
+> 
+> Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a holistic approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes." 
+> 
+> -- Federation of EA Professional Organizations, Common Perspectives on Enterprise Architecture, Architecture and Governance Magazine, Issue 9-4, November 2013 (2013). Retrieved on November 19, 2013
+
+![](../../../../Assets/Pics/Pasted%20image%2020260204085431.png)
+<small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020260204085445.png)
+<small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
+
+![](../../../../Assets/Pics/Pasted%20image%2020260218183626.png)
 
 
 
@@ -35,7 +59,7 @@
 
 ### Web Applications System Architecture ⭐
 > [!links]
-> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+> ↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 >
 > ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 #### Monolithic (One-Tier) Applications
@@ -43,7 +67,7 @@ A single application component responsible for everything
 - Presentation, business logic and data components all running on the same node
 
 > [!example]
-> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
 > 
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.12.04.png)
 #### Client-Server (Two-Tier) Applications
@@ -173,7 +197,7 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 > ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 > ↗ [Web Application Design Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
 >
-> ↗ [DS Services Architectures](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+> ↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 #### Web Application Server
 > [!links]
 > ↗ [Reverse Proxy Servers & Application Servers](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
@@ -239,7 +263,7 @@ Extend e-mail services with calendars, forms and documents
 ### DBMS
 > [!links]
 > ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
-> ↗ [DBMS (DataBase Management System) Implementations](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+> ↗ [DBMS (DataBase Management System) Implementations](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
 
 - Database Management Systems
 - Allow to access and manipulate data in a database
@@ -318,3 +342,4 @@ Extend e-mail services with calendars, forms and documents
 
 
 ## Ref
+[The Zachman Framework Evolution]: https://zachman-feac.com/the-zachman-framework-evolution

@@ -233,9 +233,18 @@ https://youtu.be/1il-s4mgNdI?si=DxlD_98ITLZsnCIw
 What does it mean for computers to understand language? | LM1
 vcubingx
 
-https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
-Let's build GPT: from scratch, in code, spelled out.
-Andrej Karpathy
+👍 👍 👍Andrej Karpathy
+🎬 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
+- https://youtu.be/VMj-3S1tku0?si=TDg1gcB9wF5OF3VK
+	- The spelled-out intro to neural networks and backpropagation: building micrograd
+- https://youtu.be/PaCmpygFfXo?si=Z845OJ-7Xo25WUeF
+	- The spelled-out intro to language modeling: building makemore
+- https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
+	- Let's build GPT: from scratch, in code, spelled out.
+- https://youtu.be/zduSFxRajkE?si=CjiI41S49hiXhUPs
+	- Let's build the GPT Tokenizer
+- https://youtu.be/l8pRSuU81PU?si=3E5YttKgEyNX5-Dg
+	- Let's reproduce GPT-2 (124M)
 
 https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
 Neural networks | 3Blue1Brown
@@ -328,12 +337,6 @@ If you're interested in the field of LLM, you may find the above list of milesto
 The Origin of ChatGPT | Art of the Problem
 I follow the 35 year journey that led to the explosion of Large Language Models. From Jordan's pioneering work in 1986 to today's GPT-4, this documentary traces how AI learned to talk. Featuring insights from AI pioneers including Chomsky, Hofstadter, Hinton, and LeCun, exploring the revolutionary concepts that made ChatGPT possible: transformer architecture, attention mechanism, next-token prediction, and emergent capabilities. Next video following open ai's o1 model My script, references & visualizations here: https://docs.google.com/document/d/1s7FNPoKPW9y3EhvzNgexJaEG2pP4Fx_rmI4askoKZPA/edit?usp=sharing
 
-https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
-🎬 (1hr Talk) Intro to Large Language Models | Andrej Karpathy
-
-https://youtu.be/7xTGNNLPyMI?si=SPgX7IzfCtJy9GeO
-Deep Dive into LLMs like ChatGPT
-
 👍 https://huggingface.co/spaces/Eliahu/Model-Atlas
 
 https://www.anthropic.com/research/estimating-productivity-gains
@@ -342,15 +345,22 @@ Estimating AI productivity gains from Claude conversations
 
 
 ## Intro
-[Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
-
-📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
-- [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
-- [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
-- [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 
-- [Next token prediction](https://cameronrwolfe.substack.com/i/136638774/understanding-next-token-prediction): this [self-supervised](https://cameronrwolfe.substack.com/i/76273144/self-supervised-learning) training objective underlies nearly all LLM functionality and is used by SFT!
-- [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
-- [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
+> [!Abstract]
+> 🎬 [Large Language Models explained briefly | 3Blue1Brown](https://youtu.be/LPZh9BOjkQs?si=7CRyWTVnx3BIGQGy)
+>
+> Andrey Karpathy
+> 🎬 [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=PHwYoqfJP0tVnE0E)
+> 🎬 [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=TwO0XF5CHDYl4YVi)
+> 🎬 [How I use LLMs](https://youtu.be/EWvNQjAaOHw?si=jNhtE2VdBpMnTfOM)
+> 🎬 👍 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
+> 
+> 📎 https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
+> - [Transformer Architecture](https://cameronrwolfe.substack.com/i/136366740/the-transformer-from-top-to-bottom): Nearly all modern language models—_and many other deep learning models_—are based upon this architecture.
+> - [Decoder-only Transformers](https://twitter.com/cwolferesearch/status/1640446111348555776?s=20) : This is the specific variant of the transformer architecture that is used by most generative LLMs.
+> - [Brief History of LLMs](https://twitter.com/cwolferesearch/status/1639378997627826176?s=20): LLMs have gone through several phases from the creation of [GPT](https://cameronrwolfe.substack.com/i/85568430/improving-language-understanding-by-generative-pre-training-gpt)  to the release of ChatGPT. 
+> - [Next token prediction](https://cameronrwolfe.substack.com/i/136638774/understanding-next-token-prediction): this [self-supervised](https://cameronrwolfe.substack.com/i/76273144/self-supervised-learning) training objective underlies nearly all LLM functionality and is used by SFT!
+> - [Language Model Pretraining](https://cameronrwolfe.substack.com/i/136638774/language-model-pretraining): language models are pretrained over a massive, unlabeled textual corpus. 
+> - [Language Model Inference](https://cameronrwolfe.substack.com/i/136638774/autoregressive-inference-process): language models can be used to generate coherent sequences of text via autoregressive next token prediction.
 
 ↗ [Natural Language Processing (NLP) /Intro](../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Intro)
 

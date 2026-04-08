@@ -14,8 +14,8 @@
 ↗ [Modeling Tools](../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Modeling%20Tools/Modeling%20Tools.md)
 
 ↗ [DSL(Domain Specific Languages) & GPL(General Purpose Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages).md)
-- ↗ [ERD (Entity-Relationship Diagram)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
-- ↗ [UML (Unified Modeling Language)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/UML%20(Unified%20Modeling%20Language).md)
+- ↗ [ERD (Entity-Relationship Diagram)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
+- ↗ [UML (Unified Modeling Language)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/UML%20(Unified%20Modeling%20Language).md)
 
 ↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 - ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
@@ -110,68 +110,17 @@ Modeling tools:
 
 
 ## Intro
+Business Integration
+- ↗ [Requirement Engineering (Business Integration)](Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+Software integration
+- ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+Process integration
+- ↗ [Declarative Process Modeling](Process%20Modeling%20(Process%20Integration)/Declarative%20Process%20Modeling/Declarative%20Process%20Modeling.md)
+- ↗ [Imperative Process Modeling](Process%20Modeling%20(Process%20Integration)/Imperative%20Process%20Modeling/Imperative%20Process%20Modeling.md)
 
-
-
-## Requirement Engineering (RE) - Business Integration
-> 🔗 https://en.wikipedia.org/wiki/Requirements_engineering
-
-In the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model"), **requirements engineering** is presented as the first phase of the software development process. Later development methods, including the [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process "Rational Unified Process") (RUP) for software, assume that requirements engineering continues through a system's lifetime.
-
-[Requirements management](https://en.wikipedia.org/wiki/Requirements_management "Requirements management"), which is a sub-function of Systems Engineering practices, is also indexed in the [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering "International Council on Systems Engineering") (INCOSE) manuals.
-
-The activities involved in requirements engineering vary widely, depending on the type of system being developed and the organization's specific practice(s) involved. These may include:
-1. [Requirements inception](https://en.wikipedia.org/wiki/Requirements_inception "Requirements inception") or [requirements elicitation](https://en.wikipedia.org/wiki/Requirements_elicitation "Requirements elicitation") – Developers and stakeholders meet; the latter are inquired concerning their needs and wants regarding the software product.
-2. [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis "Requirements analysis") and negotiation – Requirements are identified (including new ones if the development is iterative), and conflicts with stakeholders are solved. Both written and graphical tools (the latter commonly used in the design phase, but some find them helpful at this stage, too) are successfully used as aids. Examples of written analysis tools: [use cases](https://en.wikipedia.org/wiki/Use_case "Use case") and [user stories](https://en.wikipedia.org/wiki/User_story "User story"). Examples of graphical tools: [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language "Unified Modeling Language") (UML) and [Lifecycle Modeling Language](https://en.wikipedia.org/wiki/Lifecycle_Modeling_Language "Lifecycle Modeling Language") (LML).
-3. [System modeling](https://en.wikipedia.org/wiki/System_modeling "System modeling") – Some engineering fields (or specific situations) require the product to be completely designed and modeled before its construction or fabrication starts. Therefore, the design phase must be performed in advance. For instance, blueprints for a building must be elaborated before any contract can be approved and signed. Many fields might derive models of the system with the [LML](https://en.wikipedia.org/wiki/Lifecycle_Modeling_Language "Lifecycle Modeling Language"), whereas others, might use [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language "Unified Modeling Language"). Note: In many fields, such as software engineering, most modeling activities are classified as design activities and not as requirement engineering activities.
-4. [Requirements specification](https://en.wikipedia.org/wiki/Requirements_specification "Requirements specification") – Requirements are documented in a formal artifact called a Requirements Specification (RS), which will become official only after validation. A RS can contain both written and graphical (models) information if necessary. Example: [Software requirements specification](https://en.wikipedia.org/wiki/Software_requirements_specification "Software requirements specification") (SRS).
-5. [Requirements validation](https://en.wikipedia.org/w/index.php?title=Requirements_validation&action=edit&redlink=1 "Requirements validation (page does not exist)") – Checking that the documented requirements and models are consistent and meet the stakeholder's needs. Only if the final draft passes the validation process, the RS becomes official.
-6. [Requirements management](https://en.wikipedia.org/wiki/Requirements_management "Requirements management") – Managing all the activities related to the requirements since inception, supervising as the system is developed, and even until after it is put into use (e. g., changes, extensions, etc.)
-
-These are sometimes presented as chronological stages although, in practice, there is considerable interleaving of these activities.
-
-Requirements engineering has been shown to clearly contribute to software project successes
-
-
-### Goal-oriented Requirements Engineering
-↗ [Requirement Engineering (Business Integration)](Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
-↗ [I-Star](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/I-Star.md)
-↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
-
-
-
-## Enterprise Architecture (EA)
-> [!links]
-> ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
-> ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/ArchiMate.md)
-
-> 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
-
-Enterprise Architecture (EA) is a discipline which has evolved to structure the business and its alignment with the IT systems. The [Zachman Framework](https://www.visual-paradigm.com/features/zachman-framework-tools/) is an enterprise ontology and is a fundamental structure for Enterprise Architecture which provides a way of viewing an enterprise and its information systems from different perspectives, and showing how the components of the enterprise are related.
-
-> [!quote]
-> "Enterprise Architecture is the process used by a business to make explicit representations of enterprise operations and resources, rather than relying on implicit notions or understanding in individual managers' heads." 
-> 
-> --- Stan Locke
-> 
-> Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a holistic approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes." 
-> 
-> -- Federation of EA Professional Organizations, Common Perspectives on Enterprise Architecture, Architecture and Governance Magazine, Issue 9-4, November 2013 (2013). Retrieved on November 19, 2013
-
-![](../../../Assets/Pics/Pasted%20image%2020260204085431.png)
-<small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
-
-![](../../../Assets/Pics/Pasted%20image%2020260204085445.png)
-<small><a>https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/</a></small>
-
-![](../../../Assets/Pics/Pasted%20image%2020260218183626.png)
-
-
-
-## Data Integration
 ↗ [Data Integration](Data%20Integration/Data%20Integration.md)
+- ↗ [Data Warehouse & Beyonds](Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
 
 
 
 ## Ref
-[The Zachman Framework Evolution]: https://zachman-feac.com/the-zachman-framework-evolution

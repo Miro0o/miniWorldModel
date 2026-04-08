@@ -19,7 +19,7 @@
 
 ↗ [Graph Mining](../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Graph%20Mining/Graph%20Mining.md)
 ↗ [GNN (Graph Neural Network)](../../🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
-↗ [GDBMS (Graph)](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/GDBMS%20(Graph)/GDBMS%20(Graph).md)
+↗ [GDBMS (Graph)](../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/GDBMS%20(Graph)/GDBMS%20(Graph).md)
 
 
 ### Other Resources

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Database Systems](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
-↗ [Data Management Issues](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Data%20Management%20Issues.md)
+↗ [Database Applications (DBAP) & Services](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 ↗ [Data Security](../CyberSecurity/Data%20Security/Data%20Security.md)
 
 ↗ [The Internet Development (and Web Development)](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)

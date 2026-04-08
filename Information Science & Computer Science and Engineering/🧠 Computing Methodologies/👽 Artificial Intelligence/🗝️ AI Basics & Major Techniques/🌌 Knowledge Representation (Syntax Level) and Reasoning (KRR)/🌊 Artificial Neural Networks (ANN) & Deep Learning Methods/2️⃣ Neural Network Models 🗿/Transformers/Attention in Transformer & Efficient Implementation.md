@@ -37,17 +37,17 @@ Attention Residuals
 
 
 ### Other Resources
-https://youtu.be/4Bdc55j80l8?si=RlQTHWKJEfuNsqe7
+🎬 https://youtu.be/4Bdc55j80l8?si=RlQTHWKJEfuNsqe7
 Illustrated Guide to Transformers Neural Network: A step by step explanation
 The AI Hacker
 
-https://youtu.be/KJtZARuO3JY?si=wiF4ZkEs_b1qC8y_
+🎬 https://youtu.be/KJtZARuO3JY?si=wiF4ZkEs_b1qC8y_
 Visualizing transformers and attention | Talk for TNG Big Tech Day '24
 [Grant Sanderson](https://www.youtube.com/@GrantSanderson)
 
-https://youtu.be/bQ5BoolX9Ag?si=rLHV7OLFC8IUyk3F
+🎬 https://youtu.be/bQ5BoolX9Ag?si=rLHV7OLFC8IUyk3F
 Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
-https://youtu.be/zxQyTK8quyY?si=vvSM36i8tdvo_6z_
+🎬 https://youtu.be/zxQyTK8quyY?si=vvSM36i8tdvo_6z_
 Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!
 
 

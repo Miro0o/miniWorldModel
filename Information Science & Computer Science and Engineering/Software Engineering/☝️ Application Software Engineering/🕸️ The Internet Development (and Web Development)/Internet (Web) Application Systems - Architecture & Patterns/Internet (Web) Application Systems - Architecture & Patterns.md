@@ -40,7 +40,7 @@ https://gitlib.com/architecture/
 ## Intro
 ### Web Application Systems: Architecture
 > [!links]
-> ↗ [DS Services Architectures](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Services%20Architectures.md)
+> ↗ [Database Applications (DBAP) & Services](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 > ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
 
 > 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)

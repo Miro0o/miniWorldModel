@@ -25,7 +25,7 @@
 	1. Object-Relational  
 	2. Object-Oriented
 
-↗ [Development of Database System](Development%20of%20Database%20System.md)
+↗ [Development History of Database System](Development%20History%20of%20Database%20System.md)
 
 
 ### ✨ Functions & Objectives of a Database Systems /DBMS
@@ -40,7 +40,7 @@
 * Services to Promote Data Independence
 * Utility Services
 
-==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Transaction%20Management.md)
+==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Transaction%20Management.md)
 
 
 
