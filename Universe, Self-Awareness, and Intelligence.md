@@ -962,7 +962,7 @@ tbd.
 **狭义的智能**：类似人类的认识能力，不包括对宇宙的实践（改造）能力。人类通过制造机器（计算机）进行自动计算，达到这种狭义的智能能力。
 - 目前计算机只能做到基于逻辑（理性）的认识，并不能做到基于情感（感性）的认识（无法计算人类情感）。目前人工智能领域的研究范畴也属于此狭义的智能。
 - 通过对人工智能技术的进一步研究与发展，远景目标是做到能够让计算机达到情感认识的能力，即所谓的人工智能突破奇点。当一个物体，即具有逻辑（理性）能力，又具有情感（感性）能力，这种物体（我认为）就达到了人类同一级别的智能水平，此时这种物体的智能水平和人类的智能水平的差距就只在于计算速度、知识储备等方面，而不具有可计算能力上的差别了。
-##### 文明与智能
+##### 时间，文明，与智能
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 ↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
@@ -1057,7 +1057,7 @@ tbd.
 - 因此，人类用有限的资源去按序满足无限的欲望。这种对欲望的排序，就构成了资源的使用的问题。
 	- 个体对自己的欲望排序，构成这个个体对资源的使用方式；
 	- 一个社会中大多数人认同的欲望排序，构成这个社会的资源使用的方式。
-#### 个体发展的路径 /方法
+#### 人类个体发展的路径 /方法
 对个人来说，可直接利用的资源是无限的。因此，对个人来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
 - 资源获取的发展问题实际上是争夺资源在社会中的分配（资源所属）
 	- 资源无限：一个个体无法拥有所有资源，但无限追求拥有所有的资源；
@@ -1065,6 +1065,8 @@ tbd.
 - 资源使用：个人如何使用资源，就是这个人存在的样貌；
 	- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 ##### 原理：个人与时代
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=115820118153763&bvid=BV1N8vDBBE7Q&cid=35259679304&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;" </iframe>
+
 人是生活在时代中的。时代就是，个人发展所处的社会范围的总和，这种社会范围包括了时间范围、空间范围、社会中人的活动范围，等等。个人发展以时代为前提，个人发展的本质就是社会关系与个人欲望的平衡，即（社会中的）权力关系与欲望的平衡。
 - 这同时指出，个人的发展，或者说所谓的“人存在的意义”或所谓“幸福的生活”，取决于个人欲望（所想）和个人的社会关系（实际）。换句话说，“人存在的意义”就是按照自己的想法活着。如果能够按照自己的想法活着，我们就认为达到了这种所想和实际的平衡，就是“幸福的生活”。否则不平衡的话，人就缺少这种“幸福感”。
 - 人的奋斗可以把社会关系提高到欲望所需的水平，人的自洽机制又会把欲望降低到社会关系所支持的水平。
@@ -1146,7 +1148,8 @@ tbd.
 ###### 上层精神欲望：学习与教育
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
-↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 
 > [!quote]
 >  
@@ -1155,7 +1158,7 @@ tbd.
 > 在过去物质不丰富的年代，人虽然是法律上的自由人，但是时间都用来获取谋生的基本物质了，想象苏格拉底那样生活和思考完全是奢望。因此，通识教育便无从谈起，甚至也没有必要。但是今天，中国人已经从法律上的自由人变成了经济上的自由人，接下来应该变成精神上的自由人，此时通识教育就显得特别有必要了。
 > 
 > 当然，有人会问，你刚才提到的自由人应有的知识，能帮我多挣钱吗？能让我在单位提升两级吗？或许不能，或者说不能直接实现你的需求，因为它们和挣钱的技能无关。但是，==如果你把自己当作这个世界的主人，要享受这个世界，就如同当年古希腊的自由民享受自由一样，就需要有主人的学识。人要想成为社会的精英，首先要在精神上成为精英，这样才能以精英的方式思考，以主人的态度做事，才能超出常人。==
-#### 群体（社会）发展的路径 /方法 ⭐
+#### 人类群体（社会）发展的路径 /方法 ⭐
 > [!links]
 > ↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 > 

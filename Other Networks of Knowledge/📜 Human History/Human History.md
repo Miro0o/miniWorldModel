@@ -226,6 +226,22 @@ Today in history
 <small>Adam's Synchronological Chart or Map of History. Hardcover – August 15, 2007 by Sebastian Adams (Author) <a>https://a.co/d/f1X7bxq</a></small>
 
 
+### Calendaring Systems
+> 🔗 https://en.wikipedia.org/wiki/List_of_calendars
+
+Historical [calendars](https://en.wikipedia.org/wiki/Calendar "Calendar") are often grouped into larger categories by [cultural sphere](https://en.wikipedia.org/wiki/Cultural_sphere "Cultural sphere") or historical period; these are the [Ancient Egyptian calendars](https://en.wikipedia.org/wiki/Egyptian_calendar "Egyptian calendar"), [Babylonian calendars](https://en.wikipedia.org/wiki/Babylonian_calendar "Babylonian calendar") (Ancient Mesopotamia), [Indian calendars](https://en.wikipedia.org/wiki/Hindu_calendar "Hindu calendar") (Hindu and Buddhist traditions of the Indian subcontinent), [Chinese calendars](https://en.wikipedia.org/wiki/Chinese_calendar "Chinese calendar") and [Mesoamerican calendars](https://en.wikipedia.org/wiki/Mesoamerican_calendar "Mesoamerican calendar"). In [Classical Antiquity](https://en.wikipedia.org/wiki/Classical_Antiquity "Classical Antiquity"), the [Hellenic calendars](https://en.wikipedia.org/wiki/Hellenic_calendars "Hellenic calendars") inspired the [Roman calendar](https://en.wikipedia.org/wiki/Roman_calendar "Roman calendar"), including the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar "Julian calendar") introduced in 45 BC.
+
+Calendars may also be categorised by their primary units (the astronomic bodies that define them): [solar calendars](https://en.wikipedia.org/wiki/Solar_calendar "Solar calendar") are governed by the revolution of [Earth](https://en.wikipedia.org/wiki/Earth "Earth") around the [Sun](https://en.wikipedia.org/wiki/Sun "Sun") (making a [solar year](https://en.wikipedia.org/wiki/Solar_year "Solar year")), [lunar calendars](https://en.wikipedia.org/wiki/Lunar_calendar "Lunar calendar") are governed by revolution of the [Moon](https://en.wikipedia.org/wiki/Moon "Moon") around the Earth (making a [lunar month](https://en.wikipedia.org/wiki/Lunar_month "Lunar month")) and [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar "Lunisolar calendar") are determined by an algorithmic combination of both. A [day](https://en.wikipedia.org/wiki/Day "Day") in all three types is determined by duration of the rotation of the Earth around its own axis.
+
+A year in most solar calendars begins at or near a solstice or an equinox. Because a solar year lasts for a little less than 365⁠1/4⁠ days, a solar calendar year lasts 365 days in [common years](https://en.wikipedia.org/wiki/Common_year "Common year") and the fractional days are aggregated to have intermittent [leap years](https://en.wikipedia.org/wiki/Leap_year "Leap year") of 366 days. This type of calendar has twelve months of 28 to 31 days. The best known solar calendar is the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar "Gregorian calendar"), introduced in 1582 as a refinement of the (solar) Julian calendar, is the _de facto_ global [civil calendar](https://en.wikipedia.org/wiki/Civil_calendar "Civil calendar") today.
+
+A month in a lunar calendar begins either at the first crescent visible crescent of a [new moon](https://en.wikipedia.org/wiki/New_moon "New moon") or at the moment of maximum [full moon](https://en.wikipedia.org/wiki/Full_moon "Full moon"). A [lunation](https://en.wikipedia.org/wiki/Lunation "Lunation") (time between repeats of the same [lunar phase](https://en.wikipedia.org/wiki/Lunar_phase "Lunar phase")) lasts a little over 28⁠1/2⁠ days, so in this case a [lunar month](https://en.wikipedia.org/wiki/Lunar_month "Lunar month") lasts 28 or 29 days. A [lunar year](https://en.wikipedia.org/wiki/Lunar_year "Lunar year") consists of twelve lunar months, lasts about 354 days, and is independent of the solar cycle and thus migrates with respect to the seasons. The [lunar new year](https://en.wikipedia.org/wiki/Lunar_new_year "Lunar new year")'s day is twelve lunar months after the preceding one. The best known lunar calendar is the [Islamic calendar](https://en.wikipedia.org/wiki/Islamic_calendar "Islamic calendar") (or "Lunar Hijri calendar").
+
+Months in a Lunisolar calendar also align with repeated phases of the moon but are designed so as not too drift too far away from the rhythm of the seasons. The accumulated 11-day differences are aggregated into a 13th or [leap month](https://en.wikipedia.org/wiki/Leap_month "Leap month"), to bring it back into synchronicity with the solar cycle. The [lunisolar new year](https://en.wikipedia.org/wiki/Lunisolar_New_Year "Lunisolar New Year")'s day is culturally determined. Various lunisolar calendars are used traditionally in Eastern, South-eastern and Southern Asia.
+
+All of these calendars may also use [weeks](https://en.wikipedia.org/wiki/Week "Week"), which is a culturally determined number of days shorter than a month and possibly related to the length of moon phases.
+
+
 
 ## 0️⃣ Pre-History
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%89%8D%E6%99%82%E4%BB%A3
@@ -301,6 +317,7 @@ Today in history
 
 
 ### The Evolution of Human Beings / HomoSapiens
+> [!links]
 > ↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Timeline_of_human_evolution
@@ -421,6 +438,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 ### Arts & Cultures Aspect
 #### Religion and Philosophy (宗教与哲学)
+> [!links]
 > ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#%E6%96%87%E6%98%8E%E7%9A%84%E8%88%88%E8%B5%B7
@@ -430,6 +448,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 ## Major Global Ethnic Groups & Their Cultures
+> [!links]
 > ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
 > ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
@@ -608,6 +627,7 @@ See also
 
 
 ### Contemporary Ethnic Groups
+> [!links]
 > ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 🔗 https://en.wikipedia.org/wiki/Language_family  ![Primary_Human_Languages_Improved_Version](../../../../Assets/Pics/Primary_Human_Languages_Improved_Version.png)
 > <small>2005 map of the contemporary distribution of the world's primary language families</small>
@@ -762,6 +782,9 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ## 5️⃣ Post Cold-War and $21^{th}$ Century: De-globalization
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114907706039734&bvid=BV1KgbyzxEF2&cid=31251235834&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"</iframe>
+
+
 ### U.S. Supremacy & Americanization ⭐
 ↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
 
