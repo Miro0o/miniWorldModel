@@ -452,18 +452,19 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 ↗ [🌲 Road To CS /2️⃣ CS Specific Fields / CS Applications](🌲%20Road%20To%20CS.md#2️⃣%20CS%20Specific%20Fields%20/%20CS%20Applications)
 
 ![](../../../Assets/Pics/photo_2022-12-26_15-51-17.jpg)
-#### 🤔 Questions Leading my CS Study
+#### 🤔 Questions Leading my CS Study ⭐
 > [!links]
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 > ↗ [Importance Themes & Ideology in CS](Importance%20Themes%20&%20Ideology%20in%20CS.md)
 
+
 These questions, from general to specific, track my path in learning CS. The links given are not exhaustive, as there are too many directions to extend from (the ones i list here are only for inspirations). However, in my best efforts, the questions themselves are trying to cover all aspects in CS, threading them into a main logic from philosophy, theory, system, to application.
 
-**Philosophical Part**
-1. What is the Universe?
-	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
-	2. What is the life?（什么是生命？）
-	3. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））
+
+**Philosophy Part**
+1. What is the Universe? | ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+	1. What is the life?（什么是生命？）
+	2. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））
 		1. Difference between human and other life objects? Self-consciousness.
 		2. Human intelligence?
 			1. Intelligence: computation (of information) + engineering
@@ -472,66 +473,96 @@ These questions, from general to specific, track my path in learning CS. The lin
 		3. Artificial intelligence? (as in a narrower definition)
 			1. computation (of information)
 		4. Human-like intelligence? (or AI in its broader def?)
-			1. artificial intelligence + engineering (Embodied AI)
-	4. What is knowledge? What is the science?
+			1. artificial intelligence + real-world engineering /physics (Embodied AI)
+	3. What is knowledge?
 		1. Knowledge is connected data /information. (so what is data /information?)
-		2. Arts and Humanity 🆚 Natural Science ?
-		3. Sentiments 🆚 Logics?
-		4. (What is academic research?)
+		2. Knowledge can be categorized by different norms:
+			1. By the subject of knowledge:
+				1. Arts and Humanity 🆚 Natural Science and engineering?
+			2. By the originality of knowledge:
+				1. Sentiments 🆚 Logics?
+			3. By the acquisition of knowledge:
+				1. Scientific knowledge (Science)
+				2. Empirical knowledge (Empiricism)
+				3. Deductive knowledge (Deductive reasoning)
+				4. Religious knowledge (Religions & Experiences)
+				5. ...
+		3. Knowledge and "truth"?
+			1. Scientific spirit and scientific (academic) research ?
+		4. Knowledge and education?
+			1. University & 🔗 [大学](https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E5%AD%B8)
+			2. PhD (🔗 [Doctor of Philosophy](https://en.wikipedia.org/wiki/Doctor_of_Philosophy))
 ----
 
-**Computer Science Part
+**Computer Science /Information Science Part
 (Mathematical) Theory -> Computer System Design -> Applications of Computer**
 
-2. What is data /information?
-	1. ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-3. What is language? and its importance for data /information?
+2. ==\[THEORY\]== What is data /information?
+	1. ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+	2. ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+	3. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+3. ==\[THEORY\]== What is language? and its importance for data /information?
 	1. (↗ [Language & Literature](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md))
-	2. (↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md))
-	3. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "axiomatization & formalization"
+	2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "axiomatization & formalization"
 		1. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 			1. ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 			2. ↗ [Set Theory & Axiomatic Set Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+				1. ↗ [Relation & Order Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
 		2. ↗ [Algebra](../../🧮%20Mathematics/🧊%20Algebra/Algebra.md)
 			1. ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+				1. ↗ [Linear Algebra & Module-Like Algebraic Structure](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+				2. ↗ [Lattice (Group Theory) & Lattice-Like Algebraic Structure](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure.md)
+					1. ↗ [Boolean Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
 			2. ↗ [Category Theory (范畴论)](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 		3. ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-	4. Reasoning /Logic via language?
+			1. ↗ [Differential Calculus & Derivative of Function](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+			2. ↗ [Definite Integral](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Integral%20of%20Function/Definite%20Integral.md)
+			3. ↗ [Indefinite Integral](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Integral%20of%20Function/Indefinite%20Integral.md)
+	3. Reasoning via language? Logic?
 		1. ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 		2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "types of proof"
-			1. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+			1. ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+			2. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 				1. ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-				2. ↗ [Classical Logic (Standard Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-4. What is computation? What is a computer (theoretically)? Computer language and program /algorithm?
-	1. ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-		1. ↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-		2. ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-		3. ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-		4. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-	2. ↗ [Model Theory (模型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-	3. ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-		1. ↗ [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-		2. ↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-	4. ↗ [Proof Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-		1. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
-	5. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-	6. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
-5. What is a computer in the sense of its design & construction? (4 aspects: hardware, software, policies & protocols, people/ user)
-	1. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md) | ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md) |↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-	2. What composes a computer? /How computer is designed in terms of hardware?
+					1. ↗ [Classical Logic (Standard Formal Logic)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+				2. ↗ [Proof Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+	4. (↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md))
+4. ==\[THEORY\]== What is computation? What is a computer (theoretically)? Computer language and program /algorithm?
+	1. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+		1. ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+			1. ↗ [Models of Computation & Abstract Machines](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) ⭐
+			2. ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+			3. ↗ [Complexity Theory & Computational Complexity](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+			4. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+		2. ↗ [Model Theory (模型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+		3. ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+			1. ↗ [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+			2. ↗ [Type Theory (类型论)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+		4. ↗ [Proof Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+			1. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+		5. ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
+		1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+		2. ↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+		3. ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+	4. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+5. ==\[SYSTEM\]== What is a computer /information system (again?)  --> 4 aspects: hardware, software, policies & protocols, people/ user
+	1. What composes a computer? /How computer is designed and constructed in terms of hardware?
 		1. ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
 			1. ↗ [Classical Electromagnetism](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
 			2. ↗ [Digital (Logic) Electronics Foundations](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 			3. ↗ [Auxiliary Hardware & Peripherals Implementations](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Auxiliary%20Hardware%20&%20Peripherals%20Implementations.md)
 			4. ↗ [Computer Implementations, Teardown & Repairs](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
-		2. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
-			1. ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-			2. ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+		2. ↗ [Computer (Host) System](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
+			1. ↗ [Computer Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+				1. ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
+				2. ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 		3. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
-	3. What is a program (again?) and how does it work?
-		1. ↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-		2. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+	2. Program as computation (again)?
+		1. ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+		2. ↗ [The Essence of Computing - Programs & The Semantics of Programs](../The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 		3. Why and how do we program? /How are programming languages designed?
 			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 				1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -540,6 +571,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 				3. ↗ [ASM (Assembly Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 			3. Using programming languages to solve problems:
 				1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+					1. ↗ [Classic Algorithms by Problems & Contexts](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Classic%20Algorithms%20by%20Problems%20&%20Contexts.md)
 				2. ↗ [C & CPP](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 				3. ↗ [Java](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 					1. ↗ [JVM Instrument Set & Java Bytecode](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
@@ -548,25 +580,26 @@ These questions, from general to specific, track my path in learning CS. The lin
 				5. ↗ [ECMAScript-Based Languages & JavaScript](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md)
 				6. ↗ [Golang](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Golang/Golang.md)
 				7. ↗ [Rust](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/⚙️%20Rust/Rust.md)
-		4. What happened when a program is running? /How is software programmed, compiled, and run?
+		4. How is software programmed, compiled, and executed?
 			1. ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 				1. ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 				2. ↗ [Program Linking & Loading (Link-time & Load-time)](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
 				3. ↗ [Program Execution (Runtime)](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
+					1. ↗ [Procedure (Function) Call & Runtime Memory Layout](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 				4. 怎么构造一个最小的 helloworld程序？ --- jyy
 				5. Where is the first instruction of a C/Python/Java/Go/etc. program?
 			2. ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
 				1. ↗ [Program Analysis Basics](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 				2. ↗ [SRE (Software Reverse Engineering)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
 			3. etc.
-	4. What happened during computer booting? /How does computer start running?
+	3. What happens during computer booting? /How does computer start running?
 		1. ↗ [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 		2. ↗ [Computer Bootstrapping (Booting)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrapping%20(Booting)/Computer%20Bootstrapping%20(Booting).md)
-	5. What happened after computer booting? /How computer is designed in terms of software?
+	4. What happens after computer booting? /How computer is designed and constructed in terms of software?
 		1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 		2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 			1. ↗ [Programming Tool Chain](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
-		3. How does OS work?
+		3. How does computer operating system work?
 			1. ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 			2. ↗ [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 				1. ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
@@ -574,29 +607,44 @@ These questions, from general to specific, track my path in learning CS. The lin
 				3. ↗ [OS Scheduling & Resource Management](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
 			3. ↗ [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 				1. ↗ [Shell & Terminals (Console)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
-		4. How do applications work? how to design application software with good quality?
+					1. ↗ [CLI Package & Software Management](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
+				2. ↗ [Linux (Derived From UNIX Family)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+					1. ↗ [🍸 Linux Kernel](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+				3. ↗ [Windows](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
+		4. How do computer applications work? how to design application software with good quality?
 			1. ↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 				1. ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 					1. ↗ [Web BackEnd Dev & Middleware](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 					2. ↗ [Web FrontEnd Dev](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 				2. ↗ [CLI Software Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/CLI%20Software%20Development/CLI%20Software%20Development.md)
 				3. ↗ [Desktop & Monolithic Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/Desktop%20&%20Monolithic%20Application%20Development.md)
+					1. ↗ [Web Browser Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 				4. ↗ [Mobile Application Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Mobile%20Application%20Development/Mobile%20Application%20Development.md)
 			2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-	6. What happened when a network request is sent and a response is received? /How does computer network(or the Internet) work?
+		5. What about other system level applications /software?
+			1. ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
+			2. ↗ [Computer IO System & Device Management](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
+			3. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+				1. ↗ [Database Systems](../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
+			4. ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+	5. What happened when a network request is sent and a response is received? /How does computer network(or the Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-		2. ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-		3. ↗ [Web Browser Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
+		2. ↗ [Computer Interfaces & Hardware Drivers](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
+			1. ↗ [Computer (IO Devices) Drivers & Programming](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
+		3. ↗ [Computer IO System & Device Management](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System%20&%20Device%20Management/Computer%20IO%20System%20&%20Device%20Management.md)
+		4. ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+		5. ↗ [Web Browser Development](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 			1. ↗ [Google Chrome & Chromium](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Google%20Chrome%20&%20Chromium.md)
 			2. ↗ [Mozilla Firefox](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/📌%20Web%20Browser%20Implementations/Mozilla%20Firefox.md)
-6. How to apply the power of computer into solving real world problems? Below lists (some) CS fields and related topics:
+6. ==\[APPLICATION\]== How to apply the power of computer into solving real world problems? Below lists (some) CS fields and related topics:
 	1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 		2. ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-		3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-		4. ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-		5. ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-		6. etc.
-	2. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+		3. ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
+		4. ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
+		5. etc.
+	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+		1. etc.
+	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md) 🔥
 			1. ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md) 🤔
 			2. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
@@ -608,20 +656,23 @@ These questions, from general to specific, track my path in learning CS. The lin
 		2. ↗ [Scientific Computing](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/Scientific%20Computing.md)
 		3. ↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 		4. etc.
-	3. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
+	4. ↗ [Computer Engineering, Embedded & IoT](../../Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 		1. ↗ [AIoT (AI for IoT) & Edge AI](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
 		2. ↗ [Embedded Control System (Software)](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/Embedded%20Control%20System%20(Software)/Embedded%20Control%20System%20(Software).md)
 		3. ↗ [Robots Development](../../Computer%20Engineering,%20Embedded%20&%20IoT/Robots%20Development/Robots%20Development.md) 🔥
 		4. ↗ [Autonomous Driving](../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/Autonomous%20Driving/Autonomous%20Driving.md)
 		5. etc.
-	4. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+	5. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
 		1. ↗ [Application Software Engineering](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md) 🔥
+			1. ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 		2. ↗ [System Software Engineering](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 		3. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 		4. ↗ [Computer Virtualization](../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 		5. etc.
-	5. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-	6. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
+	6. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+		1. ↗ [System Modeling & Integration](../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+		2. etc.
+	7. ↗ [Data-Oriented & Human-Centered Technologies](../../Data-Oriented%20&%20Human-Centered%20Technologies/Data-Oriented%20&%20Human-Centered%20Technologies.md)
 		1. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
 		2. ↗ [Human-Data Connectivity](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Data%20Connectivity/Human-Data%20Connectivity.md)
 		3. ↗ [Human-Computer Interaction](../../Data-Oriented%20&%20Human-Centered%20Technologies/Human-Centered%20Computing/Human-Computer%20Interaction.md)
@@ -630,9 +681,8 @@ These questions, from general to specific, track my path in learning CS. The lin
 		6. ↗ [Quantitative Investment & Computational Finance](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/🤑%20Quantitative%20Investment%20&%20Computational%20Finance/Quantitative%20Investment%20&%20Computational%20Finance.md) 💸
 		7. etc.
 7. ⭐ How to improve computer /information system? (theory perspective; system perspective; application perspective)
-	1. **Application**: how to use existing computer to solve new problems?
-	2. **Interaction**: how to make interactions with human more smooth?
-	3. **Performance**: how to improve the performance?
+	1. **Computation**: better computation paradigm?
+	2. **Performance**: better system performance?
 		1. Scalability
 		2. Resources consumption
 			1. manufacture cost
@@ -642,27 +692,35 @@ These questions, from general to specific, track my path in learning CS. The lin
 		4. Thorough put /concurrency
 		5. Correctness
 		6. Safety
-	4. **Development**: how to speed up / simplify the process of development (under same performance)?
-	5. **Maintenance**: how to maintain the system for desired time?
+	3. **Application**: how to use existing computer to solve new problems?
+	4. **Interaction**: how to make interactions with human more smooth?
+	5. **Development**: how to speed up / simplify the process of development (under same performance)?
+	6. **Maintenance**: how to maintain the system for desired time?
 		1. Duration
 		2. Cost
 		3. Performance: how to maximally reduce the decrease of performance over time?
-	6. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) (note that the security issue is a special topic because it spans all aspects that related to information and information system, unlike other CS-subfields that specialize on just one certain area.)
+	7. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md) (note that the security issue is a special topic because it spans all aspects that related to information system and information processing, unlike other CS disciplines that might just specialize on one certain area.)
 		1. ↗ [Risk Management](../../CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
 			1. ↗ [Cybersecurity Threats & Attacks](../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 		2. ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
 		3. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 			1. ↗ [Cryptography](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 		4. Security aspects \#1:
-			1. ↗ [Social Engineering & Physical Security](../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
-			2. ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md) ✅
-			3. ↗ [Hardware Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🪖%20Hardware%20Security/Hardware%20Security.md)
+			1. ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md) 🤡
+				1. ↗ [Software (Program) Techniques & Binary Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+					1. ↗ [Program Analysis Basics](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+			2. ↗ [Hardware Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🪖%20Hardware%20Security/Hardware%20Security.md)
+			3. ↗ [Protocol & Policy Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
+			4. ↗ [Social Engineering & Physical Security](../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+			5. ↗ [Formal Methods & Formal Verification (FV)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
 		5. Security aspects \#2:
 			1. ↗ [Data Security](../../CyberSecurity/Data%20Security/Data%20Security.md)
 			2. ↗ [Application Security](../../CyberSecurity/Application%20Security/Application%20Security.md)
+				1. ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md) 🤔
 			3. ↗ [Network (& Communication) Security](../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 			4. ↗ [System Security](../../CyberSecurity/System%20Security/System%20Security.md)
 			5. ↗ [Physical Security](../../CyberSecurity/Physical%20Security/Physical%20Security.md)
+				1. ↗ [Social Engineering & Physical Security](../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 		6. etc.
 
 
