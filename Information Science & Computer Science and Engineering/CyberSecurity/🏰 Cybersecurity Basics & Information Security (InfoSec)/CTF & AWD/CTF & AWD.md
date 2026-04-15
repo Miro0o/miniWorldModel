@@ -34,6 +34,9 @@ https://github.com/AabyssZG/AWD-Guide
 📄 https://ctf.probius.xyz
 一本开源免费、新手友好的「 夺旗赛 | CTF(Capture The Flag) 」入门教程
 
+https://firmianay.gitbook.io/ctf-all-in-one
+ctf竞赛权威指南
+
 
 ### Tools
 http://www.hiencode.com
@@ -94,6 +97,9 @@ Practice CTF List / Permanent CTF List
 - [http://ringzer0team.com/](http://ringzer0team.com/)
 
 https://ctf.hacker101.com/auth/login
+
+
+### Other Resources
 
 
 

@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Lattice (Group Theory) & Lattice-Like Algebraic Structure](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure.md)
+↗ [Universal Algebra (泛代数)](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+- ↗ [Lattice (Group Theory) & Lattice-Like Algebraic Structure](../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure.md)
 
 ↗ [Combinatorics (Combinatorial Mathematics)](../../../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
 
@@ -40,11 +40,11 @@ https://thzt.github.io/2017/02/24/recursive-function-1/
 
 ### Formal Definition of Lattice
 **Partial Order & Partially Ordered Sets (Posets)**
-(skipped. See ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md))
+(skipped. See ↗ [Partial Order & Order Theory](../Partial%20Order%20&%20Order%20Theory.md))
 
 
 **Upper Bounds and Lower Bounds of a poset**
-(skipped. See ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md))
+(skipped. See ↗ [Partial Order & Order Theory](../Partial%20Order%20&%20Order%20Theory.md))
 
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.3
@@ -59,6 +59,16 @@ Furthermore, this implies that there exist a least bound $\bot=\lceil\rceil L$�
 & a \lceil\rceil\bot = \bot
 \end{aligned}$$
 The reason why they are called latices is that they can be drawn using Hasse Diagram which gives these nice structures, which looks like a wooden lattice.
+
+> 🔗 https://en.wikipedia.org/wiki/Join_and_meet
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), specifically [order theory](https://en.wikipedia.org/wiki/Order_theory "Order theory"), the **join** of a [subset](https://en.wikipedia.org/wiki/Subset "Subset") $S$ of a [partially ordered set](https://en.wikipedia.org/wiki/Partially_ordered_set "Partially ordered set") $P$ is the [supremum](https://en.wikipedia.org/wiki/Supremum "Supremum") (least upper bound) of $S$, denoted $\bigvee S$, and similarly, the **meet** of S![{\displaystyle S}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2) is the [infimum](https://en.wikipedia.org/wiki/Infimum "Infimum") (greatest lower bound), denoted $\bigwedge S$. In general, the join and meet of a subset of a partially ordered set need not exist. Join and meet are [dual](https://en.wikipedia.org/wiki/Duality_\(order_theory\) "Duality (order theory)") to one another with respect to order inversion.
+
+A partially ordered set in which all pairs have a join is a [join-semilattice](https://en.wikipedia.org/wiki/Join-semilattice "Join-semilattice"). Dually, a partially ordered set in which all pairs have a meet is a [meet-semilattice](https://en.wikipedia.org/wiki/Meet-semilattice "Meet-semilattice"). A partially ordered set that is both a join-semilattice and a meet-semilattice is a [lattice](https://en.wikipedia.org/wiki/Lattice_\(order\) "Lattice (order)"). A lattice in which every subset, not just every pair, possesses a meet and a join is a [complete lattice](https://en.wikipedia.org/wiki/Complete_lattice "Complete lattice"). It is also possible to define a [partial lattice](https://en.wikipedia.org/wiki/Partial_lattice "Partial lattice"), in which not all pairs have a meet or join but the operations (when defined) satisfy certain axioms.
+
+The join/meet of a subset of a [totally ordered set](https://en.wikipedia.org/wiki/Total_order "Total order") is simply the maximal/minimal element of that subset, if such an element exists.
+
+If a subset $S$ of a partially ordered set $P$ is also an (upward) [directed set](https://en.wikipedia.org/wiki/Directed_set "Directed set"), then its join (if it exists) is called a _directed join_ or _directed supremum_. Dually, if $S$ is a downward directed set, then its meet (if it exists) is a _directed meet_ or _directed infimum_.
 #### Hasse Diagrams
 > 🔗 [Hasse diagram - Wikipedia](https://en.wikipedia.org/wiki/Hasse_diagram)
 

@@ -152,7 +152,7 @@ Arbitrary propositional formulas can be translated into syntactically restricted
 ### 📌 Sets (and Relations) in the Propositional Logic
 > [!links]
 > ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-> ↗ [Relation & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+> ↗ [Relation & Relation Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 #### Logic Representation of Sets (and Relations)
 > 📖 https://users.aalto.fi/~rintanj1/notes-logic.pdf
 > Logic and Applications Jussi Rintanen, Department of Computer Science, Aalto University

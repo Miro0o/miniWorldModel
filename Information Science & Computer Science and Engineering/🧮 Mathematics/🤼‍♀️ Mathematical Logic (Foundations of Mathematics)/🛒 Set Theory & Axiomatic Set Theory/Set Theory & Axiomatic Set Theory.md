@@ -48,7 +48,7 @@
 ### Partition of Set (集合的划分)
 
 
-### Set Operation
+### Set Operations
 
 
 
@@ -69,10 +69,10 @@
 
 
 ## Ordered Set & Relation
-↗ [Relation & Order Theory](👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
-- ↗ [Equivalence Relation](👬%20Relation%20&%20Order%20Theory/Equivalence%20Relation.md)
-- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
-	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Relation & Relation Theory](👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+- ↗ [Equivalence Relation](👬%20Relation%20&%20Relation%20Theory/Equivalence%20Relation.md)
+- ↗ [Partial Order & Order Theory](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+	- ↗ [Lattice (Order Theory)](👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
 
 

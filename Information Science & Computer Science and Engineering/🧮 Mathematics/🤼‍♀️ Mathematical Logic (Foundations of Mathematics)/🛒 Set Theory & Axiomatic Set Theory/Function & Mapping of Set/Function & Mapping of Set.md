@@ -241,10 +241,10 @@ fact' = y $ \fact -> \n -> case n of
 那么，什么样的 $g$ 才能保证这个集合具有最小上界呢？**序理论**指出，完全偏序集上的序保持自映射具有最小不动点。
 
 为此，我们需要先认识什么是偏序集，什么是连续函数。==使用完全偏序集上的连续函数解释程序中函数的方式，称为 **[域论模型](https://zh.wikipedia.org/wiki/%E5%9F%9F%E7%90%86%E8%AE%BA)** (Domain Theory Model)。
-- ↗ [Domain Theory](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Domain%20Theory/Domain%20Theory.md)==
+- ↗ [Domain Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Domain%20Theory/Domain%20Theory.md)==
 
-↗ [Partial Order & Total Order (Linear Order) & Well-Order](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
-↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Partial Order & Order Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 ##### Fixed-Point Theorems
 > 🤖 Google search AI mode
 > "fixed point theorem and least fixed point theorem"
@@ -300,7 +300,7 @@ Among hundreds of [fixed-point theorems](https://en.wikipedia.org/wiki/Fixed-po
 
 The theorem was first studied in view of work on differential equations by the French mathematicians around [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9 "Henri Poincaré") and [Charles Émile Picard](https://en.wikipedia.org/wiki/Charles_%C3%89mile_Picard "Charles Émile Picard"). Proving results such as the [Poincaré–Bendixson theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Bendixson_theorem "Poincaré–Bendixson theorem") requires the use of topological methods. This work at the end of the 19th century opened into several successive versions of the theorem. The case of differentiable mappings of the _n_-dimensional closed ball was first proved in 1910 by [Jacques Hadamard](https://en.wikipedia.org/wiki/Jacques_Hadamard "Jacques Hadamard") and the general case for continuous mappings by Brouwer in 1911.
 ###### Least Fixed-point Theorem ⭐
-↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+↗ [Lattice (Order Theory)](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
 
 完全偏序集上的连续函数具有最小不动点，这称之为最小不动点定理。
 #### Equations Solving & Constrains Solving (and Optimization)
@@ -382,7 +382,7 @@ f n = n + f(n-2)
 
 
 ### Limits, Continuity & Continuous Function
-↗ [Partial Order & Total Order (Linear Order) & Well-Order](../👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+↗ [Partial Order & Order Theory](../👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 ↗ [Limits & Continuity of Functions](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Limits%20&%20Continuity%20of%20Functions.md)
 
 

@@ -51,8 +51,8 @@
 	- ↗ [Group Theory & Group-Like Algebraic Structure](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
 - ↗ [Topology](../../../Topology/Topology.md)
 	- ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
-- ↗ [Relation & Order Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
-	- ↗ [Partial Order & Total Order (Linear Order) & Well-Order](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Order%20Theory/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order/Partial%20Order%20&%20Total%20Order%20(Linear%20Order)%20&%20Well-Order.md)
+- ↗ [Relation & Relation Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+	- ↗ [Partial Order & Order Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 
 我们又重新回顾了完全偏序这一概念，实际上，任意一个CPO（完全偏序），都构成了一个范畴，而所有的群，也构成了一个范畴。==群范畴的对象是集合，而CPO（完全偏序）范畴的对象不一定是集合。== 这对摆脱集合论来理解范畴是很关键的。
 

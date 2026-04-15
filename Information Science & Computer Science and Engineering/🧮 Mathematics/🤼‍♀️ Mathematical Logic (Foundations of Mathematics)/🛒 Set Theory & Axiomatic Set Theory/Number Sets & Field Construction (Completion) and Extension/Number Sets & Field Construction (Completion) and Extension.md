@@ -47,7 +47,7 @@ Similar examples can be given for almost every algebraic structures, with, somet
 #### Examples
 ##### Binary Relation
 > [!links]
-> ↗ [Relation & Order Theory](../👬%20Relation%20&%20Order%20Theory/Relation%20&%20Order%20Theory.md)
+> ↗ [Relation & Relation Theory](../👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Closure_(mathematics)#Binary_relations
 ##### Other Examples

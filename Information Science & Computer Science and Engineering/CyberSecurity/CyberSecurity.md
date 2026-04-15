@@ -244,8 +244,13 @@ We are a community of developers, technologists and evangelists improving the se
 
 OWASP Projects are a collection of related tasks that have a defined roadmap and team members. Our projects are open source and are built by our community of volunteers - people just like you! OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has over 100 active projects, and new project applications are submitted every week.
 
+---
+https://firmianay.gitbook.io/ctf-all-in-one
+ctf竞赛权威指南
+
 
 ### Info & Res & News
+> [!Links]
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 ---

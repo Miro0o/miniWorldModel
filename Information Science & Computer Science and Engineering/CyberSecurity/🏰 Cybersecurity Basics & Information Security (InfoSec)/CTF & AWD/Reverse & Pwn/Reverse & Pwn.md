@@ -10,24 +10,30 @@
 ↗  [SRE (Software Reverse Engineering)](../../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
 
 
+### Other Resources
+
+
 
 ## Intro
-
-
-
-## 🤿 RE
+### 🤿 RE
 Reverse Engineering in a CTF is typically the process of taking a compiled (machine code, bytecode) program and converting it back into a more human readable format.
 
 Very often the goal of a reverse engineering challenge is to understand the functionality of a given program such that you can identify deeper issues.
 
 
+> 🔗 https://wiki.bi0s.in/reversing/roadmap/
 
-## 💭 Pwn
+![](../../../../../Assets/Pics/Pasted%20image%2020260414212925.png)
+
+
+### 💭 Pwn
+> 🔗 https://wiki.bi0s.in/pwning/roadmap/
+
+![](../../../../../Assets/Pics/Pasted%20image%2020260414212831.png)
 
 
 
 ## Ref
-
 [Mac 环境下 PWN入门系列（一）]:https://www.anquanke.com/post/id/187922#h3-5
 
 [浅析虚拟机逃逸漏洞]:https://www.freebuf.com/column/197651.html
