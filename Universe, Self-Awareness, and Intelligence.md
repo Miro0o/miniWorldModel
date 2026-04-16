@@ -83,6 +83,11 @@ Anti-fragile: Things That Gain From Disorder
 《[协同学](https://link.zhihu.com/?target=http%3A//baike.baidu.com/view/25414.htm)导论》
 《高等协同学》
 
+The Library of Babel
+
+alien interview
+spencer lawrence
+
 
 ### Other Resources
 
@@ -983,12 +988,14 @@ tbd.
 世界的存在：（世界的发展与联系）
 - 物理宇宙的发展：自然科学
 	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-	- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
-	- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+		- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+		- ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 - 人及人类社会发展：涉及人类拥有的所有知识
-	- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+	- ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 	- ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+		- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 	- 核心矛盾与动力：欲望与能力（思考与行动）
 		- 无限的欲望 🆚（有限的能力 导致的 有限的资源）
 		- 个人层面：
@@ -1308,7 +1315,6 @@ tbd.
 
 关于"自由"
 tbd.
-
 ##### 资源获取与使用 - 线索2：（逆）全球化与国家竞争 ⏩ ⏫
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
@@ -1319,6 +1325,42 @@ tbd.
 ##### 资源获取与使用 - 线索3：可持续发展 ⏩ ⏫
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 ↗ [Global Political Landscape](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+
+
+### 人类之外：还有谁？
+> [!Abstract]
+> https://www.aaro.mil/
+> 
+> https://en.wikipedia.org/wiki/Extraterrestrial_intelligence
+> 
+> https://youtu.be/N9qZFD1NkhI?si=Nm4p77f3p8PR6fcD
+
+> [!quote]
+> ↗ [Fermi Paradox](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Fermi%20Paradox.md)
+> 
+> 🔗 https://en.wikipedia.org/wiki/Fermi_paradox
+> 
+> The **Fermi paradox** is the discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence.
+> 
+> In simple terms, the Fermi paradox asks why, given the vast number of stars and potentially habitable planets in our observable universe, there is no clear evidence of extraterrestrial civilizations.
+> 
+> The paradox is named after physicist Enrico Fermi, who informally posed the question—remembered by Emil Konopinski as "==But where is everybody==?"—during a 1950 conversation at Los Alamos with colleagues Konopinski, Edward Teller, and Herbert York. The paradox first appeared in print in a 1963 paper by Carl Sagan and the paradox has since been fully characterized by scientists. Early formulations of the paradox have also been identified in writings by Bernard Le Bovier de Fontenelle (1686) and Jules Verne (1865), and by Soviet rocket scientist Konstantin Tsiolkovsky (1933).
+> 
+> There have been many attempts to resolve the Fermi paradox, such as suggesting that intelligent extraterrestrial beings are extremely rare, that the lifetime of such civilizations is short, or that they exist but (for various reasons) humans see no evidence.
+>
+> **Chain of Reasoning**
+>  
+> Some of the facts and hypotheses that together serve to highlight the apparent contradiction:
+> - There are billions of stars in the Milky Way similar to the Sun.[6][7]
+> - With high probability, some of these stars have Earth-like planets orbiting in the habitable zone.[8]
+> - Many of these stars, and hence their planets, are much older than the Sun.[9][10] If Earth-like planets are typical, some may have developed intelligent life long ago.
+> - Some of these civilizations may have developed interstellar travel, a step that humans are investigating.[11]
+> - Even at the slow pace of envisioned interstellar travel, the Milky Way galaxy could be completely traversed in a few million years.[12]
+> - Since many of the Sun-like stars are billions of years older than the Sun, the Earth should have already been visited by extraterrestrial civilizations, or at least their probes.[13]
+> - However, there is no convincing evidence that this has happened.[12]
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/x896_J1k8rM?si=tvka0jzsAtYgpKy7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

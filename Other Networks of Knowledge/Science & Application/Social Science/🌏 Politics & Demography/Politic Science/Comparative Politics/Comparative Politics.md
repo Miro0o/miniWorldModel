@@ -1,4 +1,4 @@
-# International Relations
+# Comparative Politics
 
 [TOC]
 

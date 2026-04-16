@@ -37,6 +37,90 @@
 
 
 ### Learning Resources
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+
+[世界各民族语言信息 / Languages of the World](http://www.bengu.cn/homepage/languages.htm#languages_of_the_world)
+[双语言词典 / Bilingual Dictionaries](http://www.bengu.cn/homepage/languages.htm#bilingual_dictionary)
+[多语言词典 / Multilingual Dictionaries](http://www.bengu.cn/homepage/languages.htm#multilingual_dictionary)
+[各种语言的冠词 / Articles in Languages](http://www.bengu.cn/homepage/library/articles.htm)
+[哥特体字母表 / Gothic Type](http://www.bengu.cn/photo/Gothic.gif)
+[威妥玛拼音和汉语拼音对照表 / Chinese Pinyin and Wade-Giles Romanization](http://www.bengu.cn/homepage/library/chineseromanization.htm)
+[希腊字母表及其罗马化 / Greek Alphabet and Its Romanization](http://www.bengu.cn/homepage/library/greekromanization.htm)
+[基里尔字母表及其罗马化 / Cyrillic Alphabet and Its Romanization](http://www.bengu.cn/homepage/library/russianromanization.htm)
+[专业词典 / Special Dictionaries](http://www.bengu.cn/homepage/languages.htm#special)
+[百科全书 / Encyclopedias](http://www.bengu.cn/homepage/languages.htm#encyclopedias)
+[各国语言样例 / Examples of Languages](http://www.bengu.cn/homepage/happynewyear.htm)
+#### 世界各民族语言信息 / Languages of the World
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+
+- [Ethnologue / 民族语言网](http://www.ethnologue.com/)
+- [WorldLanguage / 世界的语言](http://www.worldlanguage.com/)
+#### 双语言词典 / Bilingual Dictionaries
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+
+- [**Acronym** Finder / 缩略语词典](http://www.acronymfinder.com/)
+- [**Albanian**-English and English-Albanian Dictionary / 阿尔巴尼亚语词典](http://www.argjiro.net/fjalor/)
+- **[Arabic](http://arabicdictionaries.com/)** [Multidisciplinary Dictionary / 阿拉伯语词典](http://arabicdictionaries.com/)
+- [**Basque** Public Term Bank / 巴斯克语词典](http://www1.euskadi.net/euskalterm/indicei_i.htm)
+- [**China** Language / 中国语言文字网](http://www.china-language.gov.cn/)
+- [**Czech**-English, English-Czech Dictionary / 捷克语](http://www.slovnik.cz/bin/ecd)
+- [**Danish**-English Dictionary / 丹麦语](http://users.cybercity.dk/~nmb3879/dictionary/danishdic.html)
+- [Online **Dutch**-English Dictionary / 荷兰语](http://lookwayup.com/free/DutchEnglishDictionary.htm)
+- [**Esperanto**-English Dictionary / 世界语](http://esperanto-panorama.net/vortaro/eoen.htm)
+- [English-**Finnish**-English Online Dictionary / 芬兰语](http://efe.scape.net/)
+- [Frdic / 法语助手在线词典](http://www.frdic.com/dicmain.aspx)
+- [**German**-English Dictionary / 德语](http://dict.tu-chemnitz.de/)
+- [**Greek**-English Dictionary / 希腊语](http://www.kypros.org/cgi-bin/lexicon/)
+- [**Hausa**-English-German Dictionary / 豪萨语](http://www.univie.ac.at/afrikanistik/oracle/KofarHausa.html)
+- [**Hungarian**-English, English-Hungarian Dictionary / 匈牙利语](http://dict.sztaki.hu/english-hungarian)
+- [**Indonesian**-English-Dutch-French Dictionary / 印度尼西亚语](http://www.kamus.web.id/)
+- [**Italian** Dictionaries / 意大利语](http://www.traduzioni-inglese.it/italian-english.html)
+- [**Japanese**-Chinese/Korean/English Dictionary / テキスト翻訳](http://www.j-server.com/lang-t/ja/index.htm)
+- [**Language** Tips / 英语新词](http://language.chinadaily.com.cn/)
+- [**Latin**-English Dictionary / 拉丁语词典](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
+- [Lingua-China / 汉英词典](http://www.bodytuneup.net/linguachina/preface.htm)
+- [**Malay**-English Dictionary / 马来语](http://dictionary.bhanot.net/)
+- [**Norwegian**-American Dictionary / 挪威语](http://home.online.no/~otjoerge/files/word.htm)
+- [**Polish**-English-Polish Translator and Online Dictionary / 波兰语翻译家和联机词典](http://www.poltran.com/)
+- [**Portuguese**-English Dictionary / 葡萄牙语](http://lookwayup.com/free/PortugueseEnglishDictionary.htm)
+- [**Romanian**-English, English Romanian Dictionary / 罗马尼亚语](http://www.castingsnet.com/dictionaries/)
+- [**Serbo-Croatian** English Dictionary / 塞尔维亚-克罗地亚语](http://www2.get-together.net:8080/dicti/dic.frTrans?lang_from_=sh&lang_to_=en)
+- [**Slovak**-English Dictionary / 斯洛伐克语](http://www.dcsoft.sk/qdictsearch/)
+- [**Spanish**-English-French-Catalan Dictionary / 西班牙语词典](http://www.diccionarios.com/)
+- [**Swahili**-English Dictionary / 斯瓦希里语](http://www.yale.edu/swahili/)
+- [**Swedish**-English Dictionary / 瑞典语词典](http://www-lexikon.nada.kth.se/skolverket/swe-eng.shtml)
+- [**TechWeb**: The Business Technology Network / 技术百科](http://www.techweb.com/encyclopedia/)
+- [**Turkish**-English Dictionary / 土耳其语词典](http://www.hazar.com/)
+- [**Vietnamese**-English-French-German Online Dictionary / 越南语-英语-法语-德语词典](http://www.saigon.com/~vietdict/) 
+- [Voice of English Directory of Online Dictionaries / 英语之声网络词典指南](http://www.4english.cn/websites/dictionary.htm)
+- [Voice of English Technological Vocabulary / 英语之声技术词典](http://www.4english.cn/vocabu/glossary_eng_A.html)
+- [Merriam-**Webster** Online / 韦伯斯特词典](http://www.webster.com/)
+#### 多语言词典 / Multilingual Dictionaries
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+
+- [AllWords.com / 多语言词典](http://www.allwords.com/) (Dutch, English, French, German, Italian, Spanish)
+- [Dictionary.com / 词典在线](http://www.dictionary.com/)
+- [Ectaco Online Dictionary / Ectaco 联机词典](http://www.ectaco.com/online/) (Albanian, Arabic, Bulgarian, Czech, Dutch, Estonian, French, German, Greek, Hungarian, Italian, Korean, Latvian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Turkish, Yiddish)
+- [Eurodicaution (European Terminology Database) / 欧洲术语数据库](http://europa.eu.int/eurodicautom/) (Danish, Dutch, English, Finnish, French, German, Greek, Italian, Latin, Portuguese, Spanish, Swedish)
+- [Foreignword.com (Afrikaans, ...)](http://www.foreignword.com/)
+- [Free Dictionaries / 免费词典](http://www.freedict.com/) (Afrikaans, Danish, Dutch, Finnish, French, Hungarian, Indonesian, Italian, Japanese, Latin, Norwegian, Portuguese, Russian, Spanish, Swahili, Swedish)
+- [Langtolang English, French, Russian, Italian, German, Turkish, Spanish Dictionary / 英、法、俄、意、德、土、西词典](http://www.langtolang.com/)
+- [online-dictionary.biz / 联机词典](http://www.online-dictionary.biz/) (French German Spanish Italian Russian Chinese Japanese / 法-德-西-意-俄-汉-日)
+- [Online Language Dictionaries and Translators / 各种语言的词典](http://www.word2word.com/dice.html) (Geordie, Georgian, Afrikaans, German, Breton, Czech, Dutch, English, Hugarian, Latin, Italian, Malay, Indonesian, Serbian, Thai, etc.)
+- [Online Multi-Language Dictionary (Turkish) / 多语言词典（土耳其）](http://www.hazar.com/)
+- [WordReference.com (German, Spanish, French and Italian) / 词汇参考](http://www.wordreference.com/)
+- [Yahoo Languages / 雅虎语言](http://dir.yahoo.com/Reference/Dictionaries/Language/)
+#### **专业词典 /** Special Dictionaries
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+
+- [A Dictionary of Chinese Buddhist Terms / 中国佛教术语词典](http://www.hm.tyg.jp/~acmuller/soothill/soothill-hodous.html)
+- [Glossary for Library Catalogers / 英-汉图书馆编目员词汇](http://www.bengu.cn/homepage/library/glossary_cat.htm)
+- [Multilingual Glossary for Library Catalogers / 多文种编目员用词汇](http://www.bengu.cn/homepage/library/glossary_ime_icc.htm)
+- [Chinese Etymology / 汉字字源](http://www.chineseetymology.org/)
+#### **百科全书 / Encyclopedias**
+> 🔗 http://www.bengu.cn/homepage/languages.htm
+- [Encyclopædia Britannica _/_ 不列颠（大英）百科全书](http://www.britannica.com/)
+- [Columbia Encyclopedia / 哥伦比亚百科全书](http://www.bartleby.com/65/)
 
 
 ### Other Resources

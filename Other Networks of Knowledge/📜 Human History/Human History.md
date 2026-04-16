@@ -202,6 +202,8 @@ Today in history
 
 👍 https://pastvu.com/
 
+https://www.sechistorical.org/
+
 
 
 ## Intro
@@ -778,19 +780,36 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 
 ## 4️⃣ 1945 ~ 1991: The Globe Under Cold War
-
-
-
-## 5️⃣ Post Cold-War and $21^{th}$ Century: De-globalization
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114907706039734&bvid=BV1KgbyzxEF2&cid=31251235834&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"</iframe>
-
-
-### U.S. Supremacy & Americanization ⭐
+### U.S.: Modernization and Americanization ⭐
 ↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [U.S. Economics & Finance History](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+
+↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=89227574&bvid=BV1X7411J7vN&cid=152401861&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"></iframe>
+<small>video source: <a>https://youtu.be/elHK6hlnuc0?si=qZUtyQKalSi4QABm</a></small>
 
 
-### Emerging Powers & De-globalization
+### CCCP: Союз Советских Социалистических Республик
+↗ [Soviet Union (USSR, CCCP)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
+↗ [КПСС (Коммунистическая партия Советского Союза)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
+
+↗ [Marxism–Leninism](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
+
+↗ [中国共产党 (Communist Party of China)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+
+↗ [Workers' Party of Korea (조선로동당)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
+- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rHomETco0MI?si=0zr6YMF7YmORboMp&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Emerging Powers & Global Village
 ↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [World's Economics History](World's%20Economics%20History/World's%20Economics%20History.md)
 
 
 ### The Revolution of Information Technology
@@ -803,15 +822,25 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 
-### $21^{th}$ Century: New Challenges & Opportunities
+
+## 5️⃣ Post Cold-War and $21^{th}$ Century: The New Millennium
+> [!Abstract]
+> Welcome to the new millennium.
+> 新的千年开始了。
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114907706039734&bvid=BV1KgbyzxEF2&cid=31251235834&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"</iframe>
+
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
-#### UN Agenda 21 & SDG (Sustainable Development Goal)
+
+
+### UN Agenda 21 & SDG (Sustainable Development Goal)
 https://sdgs.un.org/
 
 > https://en.wikipedia.org/wiki/Agenda_21
 > Agenda 21 is a non-binding action plan of the United Nations with regard to sustainable development. It is a product of the Earth Summit (UN Conference on Environment and Development) held in Rio de Janeiro, Brazil, in 1992. It is an action agenda for the UN, other multilateral organizations, and individual governments around the world that can be executed at local, national, and global levels. One major objective of the Agenda 21 initiative is that every local government should draw its own local Agenda 21. Its aim initially was to achieve global sustainable development by 2000, with the "21" in Agenda 21 referring to the original target of the 21st century
-#### Global Challenges Faced by the World
 
+
+### Global Challenges Faced by the World
 ↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
 
 > 🔗 http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
@@ -832,6 +861,27 @@ https://sdgs.un.org/
 - 移民(難民)潮問題
 - 衞生問題
 - 貧困問題
+
+
+### The Reviving of China ⭐
+![](../../Assets/Pics/Pasted%20image%2020260416135414.png)
+<small>The global contribution to world's GDP by major economies (1-2008) Source: MADDISON A. 2007, Contours of the World Economy I-2030AD, Oxford University Press
+</small>
+
+↗ [World's Economics History](World's%20Economics%20History/World's%20Economics%20History.md)
+
+↗ [中国经济发展](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [新中国时期经济发展史](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uuAxxnz5eng?si=lmtzH2Nz3gCNIrqw&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### U.S. Supremacy, Region Conflicts, and De-globalization
+
+
+### The Revolution of Artificial Intelligence & LLM
+↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [LLM (Large Language Model)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

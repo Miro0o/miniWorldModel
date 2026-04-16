@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Astrobiology](../../Life%20Science/Astrobiology/Astrobiology.md)
+↗ [Extraterrestrial Life & Extraterrestrial Intelligence (ETI)](../../../../Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI).md)
 
 
 ### Other Resources

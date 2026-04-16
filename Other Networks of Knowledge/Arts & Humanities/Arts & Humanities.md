@@ -23,19 +23,17 @@ We were a pioneer in the podcasting business as the home of [Stuff You Should K
 
 
 ## Intro
-### Who Are We? Human
+### What Are We? Human
+> [!links]
 > ↗ [Human History](../📜%20Human%20History/Human%20History.md)
 > ↗ [Philosophy & Its History](../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-
 
 ![](../../Assets/Pics/Pasted%20image%2020251213011802.png)
 <small>Anterior view of human female and male, with labels <br><a>https://commons.wikimedia.org/wiki/File:Anterior_view_of_human_female_and_male,_with_labels.jpg</a></small>
 
-
 ![](../../Assets/Pics/Pasted%20image%2020251213013557.png)
 ![](../../Assets/Pics/Pasted%20image%2020251213013419.png)
 <small>An Artist Finds True Skin Colors in a Diverse Palette<br><a>https://www.nationalgeographic.com/magazine/article/race-pantone-color-angelica-dass-portrait-photography</a></small>
-
 
 ![](../../Assets/Pics/Pasted%20image%2020251213012511.png)
 <small>The Concept of Human Races: Uses and Problems <br> <a>https://www.modernhumanorigins.com/anth372.html</a></small>
