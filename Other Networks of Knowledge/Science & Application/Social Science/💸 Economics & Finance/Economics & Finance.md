@@ -90,9 +90,9 @@ Historically, openness to free trade substantially increased in some areas from 
 ###### Money as a Product - Finance 
 ↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
 #### Genres of Trades /Exchanges
-##### Goods & Services Transactions
-> money -> goods & services
-##### Financial Investments /Transactions
+##### Products & Services Transactions
+> money -> Products & services
+##### Financial Investments /Transactions ⭐
 > money -> money
 
 ↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
@@ -141,9 +141,6 @@ Currency composition of forex reserves
 
 
 ### 👉 Assets (资产) & Property (财产)
- >[!links]
- >↗ [Debt](🏦%20Finance%20&%20Financial%20Management/Debt.md)
-
 #### Assets (资产)
 > 🔗 https://zh.wikipedia.org/wiki/%E8%B3%87%E7%94%A2
 
@@ -166,13 +163,17 @@ Currency composition of forex reserves
 	- 贷方权益（负债）
 	- 所有者权益
 ##### Asset /Investment Management
+> [!links]
 > ↗ [Financial Investment](🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 > ↗ [Financial Assets (Investment) Management](🏦%20Finance%20&%20Financial%20Management/Financial%20Assets%20(Investment)%20Management/Financial%20Assets%20(Investment)%20Management.md)
 
 
 > 🔗 https://en.wikipedia.org/wiki/Investment_management
 > 🔗 https://en.wikipedia.org/wiki/Asset_management
-
+##### Financial Assets & Debt
+↗ [Finance & Financial Management](🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+↗ [Financial Assets (Investment) Management](🏦%20Finance%20&%20Financial%20Management/Financial%20Assets%20(Investment)%20Management/Financial%20Assets%20(Investment)%20Management.md)
+↗ [Debt](🏦%20Finance%20&%20Financial%20Management/Debt.md)
 #### Property (财产)
 > 🔗 https://baike.eastmoney.com/item/%E8%B4%A2%E4%BA%A7
 
@@ -412,11 +413,16 @@ Economic theories divide economic sectors further into [economic industries](ht
 ### 👉 Governmental Regulation & Economic System (政府调控与经济体制)
 #### Political Economics & Governmental Regulation
 ↗ [Political Economics](Political%20Economics/Political%20Economics.md)
-##### Public Finance & National Treasury
+##### Public Finance & National Treasury ⭐
 ↗ [Public (Government) Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20(Government)%20Finance/Public%20(Government)%20Finance.md)
 
 ↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
 ↗ [Treas.](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
+
+↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [新中国时期经济发展史](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
+
+↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 #### Economic System
 > 🔗 https://en.wikipedia.org/wiki/Economic_system
 

@@ -21,6 +21,10 @@
 
 
 ### Other Resources
+https://academic.oup.com/book/458
+Global Economic History: A Very Short Introduction
+Robert C. Allen
+
 https://weread.qq.com/web/reader/2a332d10726332f72a34943
 置身事内：中国政府与经济发展 | 兰小欢
 - 第八章 总结：政府与经济发展

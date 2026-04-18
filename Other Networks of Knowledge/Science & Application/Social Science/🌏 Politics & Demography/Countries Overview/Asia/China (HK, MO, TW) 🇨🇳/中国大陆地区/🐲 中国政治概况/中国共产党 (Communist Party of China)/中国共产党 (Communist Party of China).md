@@ -394,7 +394,7 @@ https://www.ccdi.gov.cn/
 
 
 
-## 中国共产党内部的权力与斗争
+## 中国共产党内部的权力与斗争 ⭐
 > [!links]
 > ↗ [中国共产党党史](中国共产党党史.md)
 > ↗ [新中国史（中华人民共和国时期）](../../../中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
@@ -407,6 +407,8 @@ https://www.ccdi.gov.cn/
 > ↗ [新世纪以来中国反腐与反间谍情况](../新世纪以来中国反腐与反间谍情况.md)
 > ↗ [中国武装力量](../🔫%20中国武装力量/中国武装力量.md)
 
+
+### 中共派系
 > 🤖 https://chatgpt.com/share/697604b1-6ca4-800f-9d8a-081f58aa67ff
 
 > [!quote]
@@ -679,6 +681,32 @@ https://www.ccdi.gov.cn/
 1️⃣ **军队在中共派系政治中始终处于“制度禁区”，但历史上曾以隐性方式影响精英博弈**  
 2️⃣ **十八大以来，军改与反腐的深层目标是彻底切断军队与非核心政治网络的关联**  
 3️⃣ **当前体制中，军队不再是派系资源，而是反派系化与权力集中化的关键支点**
+
+
+### 中共中央权力家族（太子党，红N代）
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%94%BF%E6%B2%BB%E5%AE%B6%E6%97%8F%E5%88%97%E8%A1%A8
+
+[中华人民共和国](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B "中华人民共和国")成立后，在[中国大陆](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8 "中国大陆")，一般特指[中国共产党](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A "中国共产党")高层官员的子女以及亲属，1970年代一般指[林彪](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%BD%AA "林彪")儿子[林立果](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%AB%8B%E6%9E%9C "林立果")及其[同党](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%BD%AA%E5%8F%8D%E9%9D%A9%E5%91%BD%E9%9B%86%E5%9B%A2 "林彪反革命集团")。[改革开放](https://zh.wikipedia.org/wiki/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE "改革开放")以后，该词指高层领导干部的获得政治、商业利益的子女亲戚，特别是指自中华人民共和国建立至1980年代期间之[中共元老](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E5%85%83%E8%80%81 "中共元老")的子女辈，如
+- 现任[中共中央总书记](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0 "中国共产党中央委员会总书记")、[国家主席](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%BB%E5%B8%AD "中华人民共和国主席")、[中央军委主席](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%9B%E4%BA%8B%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BB%E5%B8%AD "中国共产党中央军事委员会主席")[习近平](https://zh.wikipedia.org/wiki/%E4%B9%A0%E8%BF%91%E5%B9%B3 "习近平")（[习仲勋](https://zh.wikipedia.org/wiki/%E4%B9%A0%E4%BB%B2%E5%8B%8B "习仲勋")之子）
+- 原任[中共中央政治局](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80 "中共中央政治局")委员、[中共重庆市委](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A "中国共产党重庆市委员会")书记[薄熙来](https://zh.wikipedia.org/wiki/%E8%96%84%E7%86%99%E6%9D%A5 "薄熙来")（[薄一波](https://zh.wikipedia.org/wiki/%E8%96%84%E4%B8%80%E6%B3%A2 "薄一波")之子）
+- 原任中共中央政治局委员、[中国社科院](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E7%A7%91%E9%99%A2 "中国社科院")院长[李铁映](https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%93%81%E6%98%A0 "李铁映")（[李维汉](https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%BB%B4%E6%B1%89 "李维汉")之子）
+- 原任中共中央政治局常委、[全国政协主席](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E4%B8%BB%E5%B8%AD "全国政协主席")[俞正声](https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%AD%A3%E5%A3%B0 "俞正声")（[俞启威](https://zh.wikipedia.org/wiki/%E4%BF%9E%E5%90%AF%E5%A8%81 "俞启威")之子）
+- 原任中共中央政治局常委、[中纪委书记](https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0 "中纪委书记")、[国家副主席](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%89%AF%E4%B8%BB%E5%B8%AD "中华人民共和国副主席")[王岐山](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B2%90%E5%B1%B1 "王岐山")（[姚依林](https://zh.wikipedia.org/wiki/%E5%A7%9A%E4%BE%9D%E6%9E%97 "姚依林")之女婿）
+- 原任中共中央政治局常委、[中共中央书记处](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B9%A6%E8%AE%B0%E5%A4%84 "中共中央书记处")书记、[国家副主席](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%89%AF%E4%B8%BB%E5%B8%AD "中华人民共和国副主席")[曾庆红](https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%BA%86%E7%BA%A2 "曾庆红")（[曾山](https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%B1%B1 "曾山")之子
+- 原任[全国政协副主席](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD "全国政协副主席")[叶选平](https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%B9%B3 "叶选平")（[叶剑英](https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%89%91%E8%8B%B1 "叶剑英")之子）
+- 原任全国政协副主席[邓朴方](https://zh.wikipedia.org/wiki/%E9%82%93%E6%9C%B4%E6%96%B9 "邓朴方")（[邓小平](https://zh.wikipedia.org/wiki/%E9%82%93%E5%B0%8F%E5%B9%B3 "邓小平")之子）
+- 原任全国政协副主席[陈元](https://zh.wikipedia.org/wiki/%E9%99%88%E5%85%83 "陈元")（[陈云](https://zh.wikipedia.org/wiki/%E9%99%88%E4%BA%91 "陈云")之子）
+- 原任[交通运输部](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%83%A8 "中华人民共和国交通运输部")部长[李小鹏](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%B0%8F%E9%B9%8F_\(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9\) "李小鹏 (政治人物)")（[李鹏](https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F "李鹏")之子）
+- 现任[民政部](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%94%BF%E9%83%A8 "中华人民共和国民政部")副部长[胡海峰](https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B5%B7%E5%B3%B0 "胡海峰")（[胡锦涛](https://zh.wikipedia.org/wiki/%E8%83%A1%E9%94%A6%E6%B6%9B "胡锦涛")之子）
+- 原任[全国人大常委会副委员长](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%89%AF%E5%A7%94%E5%91%98%E9%95%BF "全国人大常委会副委员长")[布赫](https://zh.wikipedia.org/wiki/%E5%B8%83%E8%B5%AB "布赫")（[乌兰夫](https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%85%B0%E5%A4%AB "乌兰夫")之子）
+- 原任[中信集团](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BF%A1%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8 "中国中信集团公司")董事长[王军](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B_\(%E4%BC%81%E4%B8%9A%E5%AE%B6\) "王军 (企业家)")（[王震](https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%9C%87 "王震")之子）
+- 原任[中国卫星通信集团](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1%E9%9B%86%E5%9B%A2 "中国卫星通信集团")董事长[温云松](https://zh.wikipedia.org/wiki/%E6%B8%A9%E4%BA%91%E6%9D%BE "温云松")（[温家宝](https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%AE%B6%E5%AE%9D "温家宝")之子）
+
+有评论指出，[江泽民](https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91 "江泽民")在1989年6月出任[中国共产党中央委员会总书记](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0 "中国共产党中央委员会总书记")后，中国太子党形成的利益集团在中国不同的领域控制着国家的经济命脉，已经形成瓜分中国之势，中国一旦出现新的有利可图的新领域，这些太子党就会抢先一步、占为己有。这种分赃制度对[中国共产党](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A "中国共产党")的合法性构成根本挑战。同时由于太子党在中国经济上的盘根错节，使得以权谋私的现象难以改变，已经成为中国发展的毒瘤。有研究认为中国的县级政府中普遍有由亲戚子女所构成的政治家族。2002年11月，[曾庆红](https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%BA%86%E7%BA%A2 "曾庆红")在中共十六届一中全会上当选中共中央政治局常委，成为第一个进入中共中央政治局常委会的红二代。此后进入中共中央政治局常委会的红二代还有习近平、[俞正声](https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%AD%A3%E5%A3%B0 "俞正声")和[王岐山](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B2%90%E5%B1%B1 "王岐山")。
+
+> 🔗 https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E5%85%9A_(%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A)#%E7%AE%80%E4%BB%8B
+
+太子党又称红二代（红色代表共产党）、官二代，泛指中国共产党官员的子女，是中国大陆的一个特权阶层。狭义的“太子党”和“红二代”特指早期参加过革命的中共高级领导人的子女及其配偶[2]，这一群体在改革开放后迅速崛起，依靠家族权势和裙带关系掌控国家经济命脉并瓜分国家财富，控制着中国从能源、金融、国家安全到电信和娱乐等诸多领域[3][4]。不少成员还依靠家族政治优势进入了中共权力核心，且利用彼此之间的紧密联系，成为中国大陆的政坛和商界中最为强大的派系之一，积极影响国家的决策和政策制定。现任中共中央总书记习近平能上位担任最高领导人亦得到了这一群体的支持[2]。但在中共十九大后这一群体开始式微[5]，其主要成员被习近平逐渐排除权力核心，曾经被“红二代”掌控的要职，被习近平用“同自己共事过的平民出身的官员”取代[2]。至中共二十大和中国人大第十四届全国代表大会后，“红二代”已基本被习近平排除出中国的最高决策层和省部级领导层[6]。而随着李尚福、张又侠等“红二代”出身的军官接连被调查，中国军队领导层中的“红二代”也被全部清除。“红二代”这个曾经强大的派系已经被习近平彻底边缘化[6]。英国伦敦国王学院刘氏中国研究院主任、中国研究教授克里·布朗（Kerry Brown）认为：“习近平希望消除党内派系，团结一致，改变人们对共产党的看法。[6]”
 
 
 

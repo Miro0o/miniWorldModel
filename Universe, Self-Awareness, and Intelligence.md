@@ -183,8 +183,10 @@ spencer lawrence
 ##### 光
 ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md) "常寂光"
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lFiOZqyymUY?si=q1lvitMKvfVIN4yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 tbd.
-##### 地球，太阳系，银河系，宇宙
+##### 地球，太阳系，银河系
 ↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
 ##### 生命
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
@@ -1071,7 +1073,7 @@ tbd.
 	- 发展方式：权力斗争。
 - 资源使用：个人如何使用资源，就是这个人存在的样貌；
 	- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
-##### 原理：个人与时代
+##### 原理：个人与时代 ⭐
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=115820118153763&bvid=BV1N8vDBBE7Q&cid=35259679304&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;" </iframe>
 
 人是生活在时代中的。时代就是，个人发展所处的社会范围的总和，这种社会范围包括了时间范围、空间范围、社会中人的活动范围，等等。个人发展以时代为前提，个人发展的本质就是社会关系与个人欲望的平衡，即（社会中的）权力关系与欲望的平衡。
