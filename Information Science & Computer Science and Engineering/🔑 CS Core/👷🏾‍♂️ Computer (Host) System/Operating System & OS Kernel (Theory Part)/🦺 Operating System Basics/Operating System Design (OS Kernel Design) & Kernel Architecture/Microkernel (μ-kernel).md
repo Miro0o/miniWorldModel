@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Serverless](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Architectures/Serverless/Serverless.md)
+↗ [Serverless](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Serverless/Serverless.md)
 
 
 ### Learning Resources

@@ -111,12 +111,13 @@ Modeling tools:
 
 ## Intro
 Business Integration
-- ↗ [Requirement Engineering (Business Integration)](Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+- ↗ [Requirement Engineering (Business Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 Software integration
 - ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
 Process integration
-- ↗ [Declarative Process Modeling](Process%20Modeling%20(Process%20Integration)/Declarative%20Process%20Modeling/Declarative%20Process%20Modeling.md)
-- ↗ [Imperative Process Modeling](Process%20Modeling%20(Process%20Integration)/Imperative%20Process%20Modeling/Imperative%20Process%20Modeling.md)
+- ↗ [Process Modeling (Business Process Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Process%20Modeling%20(Business%20Process%20Integration).md)
+
+![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
 
 ↗ [Data Integration](Data%20Integration/Data%20Integration.md)
 - ↗ [Data Warehouse & Beyonds](Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)

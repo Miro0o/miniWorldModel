@@ -14,9 +14,9 @@
 ### Related Topics
 ↗ [DNSSEC (Domain Name System Security Extensions)](../../../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/DNSSEC%20(Domain%20Name%20System%20Security%20Extensions)/DNSSEC%20(Domain%20Name%20System%20Security%20Extensions).md)
 
-↗ [Database System /Directory Services /DNS Servers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
+↗ [Database System /Directory Services /DNS Servers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
 ↗ [DNS & Domain Reconnaissance](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Network-Based/DNS%20&%20Domain%20Reconnaissance.md)
-↗ [🌏 Global DNS Service Providers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
+↗ [🌏 Global DNS Service Providers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 
@@ -47,13 +47,13 @@ A set of IP address is provided to one canonical name which prevents the load to
 
 
 ### Global DNS Servers /Domain Name Providers
-↗ [🌏 Global DNS Service Providers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
+↗ [🌏 Global DNS Service Providers](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/🌏%20Global%20DNS%20Service%20Providers.md)
 ↗ [Domain Name Providers](Domain%20Name%20Providers.md)
 
 
 
 ## 🎒 DNS Servers Architecture Design
-↗ [DNS Server (DNS Distributed Database)](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
+↗ [DNS Server (DNS Distributed Database)](../../../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/DNS%20Server%20(DNS%20Distributed%20Database)/DNS%20Server%20(DNS%20Distributed%20Database).md)
 
 
 

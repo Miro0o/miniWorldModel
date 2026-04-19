@@ -28,8 +28,11 @@
 Popek & Goldberg, 1974
 
 
+### Other Resources
 
-## Overview
+
+
+## Intro
 ![](../../../../Assets/Pics/Screenshot%202024-04-01%20at%203.15.48%20PM.png)
 <small>https://en.wikipedia.org/wiki/Virtualization#External_links</small>
 
@@ -47,7 +50,6 @@ Popek & Goldberg, 1974
 
 ### Virtualization & Emulation
 #virtualization #emulation
-
 
 
 ### Virtualization History

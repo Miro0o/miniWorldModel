@@ -6,7 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Physical Database Design (Physical Modeling)](../../⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [Database System Design](../../Database%20System%20Design/Database%20System%20Design.md)
+↗ [Physical Database Design (Physical Modeling)](../../Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
 
 ↗ [File Systems Implementations](../../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 

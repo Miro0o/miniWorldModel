@@ -14,9 +14,9 @@
 
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 - ↗ [System Modeling & Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-- ↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+- ↗ [Requirement Engineering (Business Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 
-↗ [Cloud Architectures](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Architectures/Cloud%20Architectures.md)
+↗ [Cloud System Software Architectures](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
 
 ↗ [Software Development Norms & Patterns](../../../Software%20Development%20Norms%20&%20Patterns/Software%20Development%20Norms%20&%20Patterns.md)
 - ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
@@ -40,8 +40,10 @@ https://gitlib.com/architecture/
 ## Intro
 ### Web Application Systems: Architecture
 > [!links]
-> ↗ [Database Applications (DBAP) & Services](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+> ↗ [Database Applications (DBAP) & Services](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 > ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> 
+> ↗ [Cloud System Software Architectures](../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
 
 > 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)
 > 🤖 https://chatgpt.com/share/69d01ba6-13ac-8395-9bf4-888b62d5dadd
@@ -76,13 +78,12 @@ These answer: **how one application is internally divided into major responsibil
 ### Web Application Systems: Pattens & Model
 > [!links]
 > ↗ [Web Application Design Patterns](Web%20Application%20Design%20Patterns.md)
-
-> 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)
-> 🤖 https://chatgpt.com/share/69d01ba6-13ac-8395-9bf4-888b62d5dadd
-
 #### Web Application Execution & Deployment
 > [!Links]
 > ↗ [Web Application Execution & Deployment Patterns](Web%20Application%20Execution%20&%20Deployment%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns.md)
+
+> 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)
+> 🤖 https://chatgpt.com/share/69d01ba6-13ac-8395-9bf4-888b62d5dadd
 
 1. Execution and hosting models
 These answer: **where and how code runs**.
@@ -120,6 +121,9 @@ These answer: **how deployable units are packaged and operated**.
 |Later|**Kubernetes**|Container orchestration platform|Cluster-managed workload|Run and coordinate many containers/services at scale|Operations substrate for cloud-native systems|
 |Later|**Platform engineering**|Internal platform discipline|Internal developer platform|Reduce cognitive and operational burden for teams|Organizational response to microservice/cloud complexity|
 #### Web Application Interacton & Presentation
+> 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)
+> 🤖 https://chatgpt.com/share/69d01ba6-13ac-8395-9bf4-888b62d5dadd
+
 5. Presentation and UI architecture patterns
 These answer: **how the application-facing layer is organized**.
 
@@ -133,6 +137,9 @@ These answer: **how the application-facing layer is organized**.
 |Later / parallel|**Component-based UI architecture**|UI built from reusable components|Component|Organize the app around composable UI units with local state and explicit interfaces|Dominant in modern frontend practice|
 |Later / parallel|**Flux / unidirectional data-flow architecture**|State-driven UI architecture|Store, actions, reducers/state transitions|Make UI updates predictable through one-way data flow|Common in larger frontend state management systems|
 #### Domain Patterns & Wiring
+> 🤖 https://claude.ai/share/771a33a8-e95c-408a-bfc3-9893ef731b6a (private)
+> 🤖 https://chatgpt.com/share/69d01ba6-13ac-8395-9bf4-888b62d5dadd
+
 5. Domain and business modeling
 These answer: **how the problem domain is conceptualized and bounded**.
 

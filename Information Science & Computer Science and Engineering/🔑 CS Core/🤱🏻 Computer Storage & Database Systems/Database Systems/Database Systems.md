@@ -70,11 +70,170 @@ https://www.infoq.cn/theme/46
 [JStarCraft based search engine with recommandation system](https://github.com/HongZhaoHua/jstarcraft-example)
 
 
+### Other Resources
+
+
 
 ## Intro
-Begins with ↗ [Database System Basics](📌%20Database%20System%20Basics/Database%20System%20Basics.md)
+### History of Database Systems /DBMS
+1. Manual Management
+2. File-Based Systems
+	1. ↗ [File & File System](../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+3. First-generation Database Systems
+	1. Hierarchical and Network  
+4. Second generation Database Systems
+	1. Relational
+5. Third generation Database Systems
+	1. Object-Relational  
+	2. Object-Oriented
 
-![](../../../../Assets/Pics/Pasted%20image%2020240228232648.png)
+↗ [Development History of Database System](Development%20History%20of%20Database%20System.md)
+
+
+### ✨ Functions & Objectives of a Database Systems /DBMS
+* Data Storage, Retrieval and Update
+* User-Accessible Catalog 
+* ==Transaction Support==
+* ==Concurrency Control Services==
+* ==Recovery Services==
+* Authorization Services  
+* Support for Data Communication  
+* Integrity Services  
+* Services to Promote Data Independence
+* Utility Services
+
+==marked== part is discussed at ↗ [Transaction Management](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Transaction%20Management.md)
+
+
+### DS Pros & Cons
+
+
+### OLTP (Online Transaction Processing) vs OLAP (Online Analytical Processing)
+#OLTP #OLAP
+
+> [!links]
+> ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
+> ↗ [Data Warehouse & Beyonds](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
+
+Traditional databases (OLTP):
+- Mostly updates
+- Many small transactions
+- MB to GB of data
+- Current data only
+- Raw data
+- Normalized data model
+- Thousands of users
+
+Data Warehouses (OLAP):
+- Mostly reads
+- Few complex queries
+- GB to TB of data
+- Current and historical data
+- Aggregated data
+- Denormalized data model
+- Hundreds of users
+
+
+
+## Database System in a Nutshell
+![](../../../../../Assets/Pics/Pasted%20image%2020240228232633.png)
+
+
+### Database System Concepts & Overview
+数据集中
+数据与程序分离（数据独立性）
+数据逻辑相关（实体，属性，联系）
+
+
+### Database System Environment ⭐
+
+![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.44.56%20PM.png)
+
+#### View - Schema - Model
+View: A view is essentially some subset of the database (tables)
+Schema: A schema is a unique structured view 👆🏻
+Model: A model is the schema of a set of schemas 👆🏻
+#### ANSI-SPARC Three-Level Architecture
+> [!links]
+> ↗ [Data Integration](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+
+![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.34.58%20PM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.38.41%20PM.png)
+##### 1️⃣ Internal Level
+Internal Level
+- Physical representation of the database on the computer
+- Describes how the data is stored in the database
+
+1. Storage space allocation for data and indexes
+2. Record description for storage (with stored sizes for data items)  
+3. Record placement(安放)  
+4. Data compression(压缩) and encryption techniques
+##### C-I Mapping
+Conceptual Schema-Internal Schema Mapping
+##### 2️⃣ Conceptual Level
+Conceptual Level
+- Community view of the database  
+- Describes what data is stored in database and relationships among the data
+
+1. All entities, their attributes and their relationships
+2. The constraints on the data  
+3. Semantic information about the data  
+4. Security and integrity information
+##### E-C Mapping
+External Schema-Conceptual Schema Mapping
+##### 3️⃣ External Level
+External Level
+- Users’ view of the database
+- Describes that part of database that is relevant to a particular user
+
+The view is the ‘real world’ represented in a form that is familiar for users
+##### Three-Level Arch Objective: Data Independence
+#TODO 
+Logical Data independence
+Physical Data independence
+#### Roles in Database Environment
+##### Data Admin & Database Admin
+DA
+DBA
+##### Database Designer
+Conceptual Design
+Physical Design
+##### Application Developer
+##### End User
+
+
+
+
+
+### 1️⃣ DBMS (DataBase Management System)
+> [!links]
+> ↗ [DBMS (DataBase Management System) Implementations](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+
+![](../../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
+<small>DBMS's Hierarchical Architecture (SQL & Relational datamodel as an example)</small>
+
+#### Database
+##### Table
+
+#### System Catalog
+The system catalog **consists of tables and views that describe the structure of the database**. Sometimes called the data dictionary, these table objects contain everything that the database knows about itself. Each system catalog table contains information about specific elements in the database.
+
+
+### 2️⃣ Database Application/ Clients
+> [!links]
+> ↗ [Database Applications (DBAP) & Services](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+
+
+
+## 🖼️ Database System Design
+↗ [Database System Design](Database%20System%20Design/Database%20System%20Design.md)
+- ↗ [Database System Meta Design](Database%20System%20Design/Database%20System%20Meta%20Design/Database%20System%20Meta%20Design.md)
+- ↗ [Database Design](Database%20System%20Design/Database%20Design/Database%20Design.md)
+	- ↗ [Conceptual Database Design (Conceptual Modeling)](Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+	- ↗ [Logical Database Design (Data Modeling)](Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+	- ↗ [Physical Database Design (Physical Modeling)](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+- ↗ [Database Application (DBAP) Design](Database%20System%20Design/Database%20Application%20(DBAP)%20Design/Database%20Application%20(DBAP)%20Design.md)
 
 
 
@@ -88,7 +247,7 @@ Database System Security Management
 Professional, Legal, and Ethical Issues in Data Management
 
 Risk Management & Data Recovery
-↗ [Database Recovery](⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
+↗ [Database Recovery](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
 
 ↗ [Risk Management](../../../CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
 

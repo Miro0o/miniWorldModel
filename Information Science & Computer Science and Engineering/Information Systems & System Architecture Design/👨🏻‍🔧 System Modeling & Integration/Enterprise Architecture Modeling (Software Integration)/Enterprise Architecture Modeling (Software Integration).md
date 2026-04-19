@@ -11,7 +11,7 @@
 ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
 
 ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
-↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 
 ### Other Resources
@@ -20,8 +20,7 @@
 
 ## Intro
 > [!links]
-> ↗ [Enterprise Architecture Modeling (Software Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
-> ↗ [ArchiMate](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
 
 > 🔗 https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-zachman-framework/
 
@@ -46,8 +45,28 @@
 
 
 
-## Deployment Patterns
-**Logical vs Physical layers (tiers)**
+## Enterprise Architecture Modeling 🤔
+strategy models /motivation
+- ↗ [Requirement Engineering (Business Integration)](Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+	- ↗ [I-Star](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/I-Star.md)
+	- ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+	- KAOS
+	- EEML
+Architecture models /Business + Application + Technology
+- ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+Design /Implementation models
+- ↗ [Process Modeling (Business Process Integration)](Process%20Modeling%20(Business%20Process%20Integration)/Process%20Modeling%20(Business%20Process%20Integration).md)
+	- ↗ [BPMN (Business Process Model and Notation)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/BPMN%20(Business%20Process%20Model%20and%20Notation).md)
+	- DCR models
+
+![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
+
+![](../../../../Assets/Pics/Screenshot%202026-02-18%20at%2020.37.30.png)
+
+
+
+## Enterprise Software Deployment Patterns
+**Logical vs Physical layers (tiers)** (on the Zachman framework)
 - NOT to be confused with Archimate layers!
 - Logical layers: separate application components with specific functions
 	- Presentation: handling the visualization and interaction with end users
@@ -59,9 +78,12 @@
 
 ### Web Applications System Architecture ⭐
 > [!links]
-> ↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+> ↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 >
 > ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [Web Application Execution & Deployment Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns.md)
+> 
+> ↗ [Cloud System Software Architectures](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
 #### Monolithic (One-Tier) Applications
 A single application component responsible for everything
 - Presentation, business logic and data components all running on the same node
@@ -84,6 +106,8 @@ Application components running on two node types:
 - Data access in a separate node (server)
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.13.20.png)
 
 
@@ -92,6 +116,8 @@ Application components running on two node types:
 - Presentation in a separate node (client)
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.14.31.png)
 #### Three-Tier Applications
 Application components running on three node types:
@@ -101,10 +127,12 @@ Application components running on three node types:
 	- One node for data access components
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.19.00.png)
 
 
-### Virtualization Software Architecture
+### Virtualized Computing & Physical Virtualization Models
 > [!links]
 > ↗ [Computer Virtualization](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
@@ -120,6 +148,8 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 		- Vmware Workstation, Virtualbox, QEMU
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > **Bare metal virtualization**:
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.22.07.png)
 > 
@@ -127,11 +157,13 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.22.46.png)
 
 
-### Cloud Computing Architecture
+### Cloud Computing & Cloud Service Models
 > [!links]
 > ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-> ↗ [Cloud Architectures](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Architectures/Cloud%20Architectures.md)
+> ↗ [Cloud System Software Architectures](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
+> 
 > ↗ [Cloud Computing Security Architecture](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Computing%20Security%20Architecture.md)
+> 
 > ↗ [Cloud Service (Delivery) Models](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/Cloud%20Service%20(Delivery)%20Models.md)
 
 > [!quote]
@@ -146,6 +178,8 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 - Measured service: usage of resources monitored and available to all parties
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > Cloud computing:  service models
 > 
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.24.46.png)
@@ -156,10 +190,11 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 > [!links]
 > ↗ [Application Software Engineering](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 > - ↗ [Enterprise Level Software Systems](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/👑%20Enterprise%20Level%20Software%20Systems/Enterprise%20Level%20Software%20Systems.md)
+> - ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> 	- ↗ [Web Application Execution & Deployment Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns/Web%20Application%20Execution%20&%20Deployment%20Patterns.md)
 >
 > ↗ [System Software Engineering](../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 > 
-> ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
 ### File Servers
@@ -174,6 +209,8 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 	- E.g., Amazon S3 and EBS
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.27.10.png)
 
 
@@ -189,20 +226,32 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 	- FreeRADIUS for RADIUS
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![ |400](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.27.26.png)
 
 
-### Web Application Systems
-> [!links]
-> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
-> ↗ [Web Application Design Patterns](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Web%20Application%20Design%20Patterns.md)
->
-> ↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
-#### Web Application Server
+### Web Proxy Server
+Serve static and dynamic web content through the HTTP(S) protocol
+Can proxy request to other servers or to business logic (e.g. application servers)
+Examples:
+- Apache Tomcat
+- Nginx
+- Microsoft Internet Information Services (embedded into Windows)
+Can also be embedded into other applications
+
+> [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+> 
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.06.47.png)
+
+### Web Application Server
 > [!links]
 > ↗ [Reverse Proxy Servers & Application Servers](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > 
 > **Jakarta EE application servers**
 > - Run Java applications conforming to Jakarta EE specifications
@@ -216,7 +265,9 @@ Abstracts the physical resources of a computer (CPU, RAM, disks, network) making
 > 	- Eclipse Glassfish
 > 
 > ![|400](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2020.00.19.png)
-#### Message Queuing Services
+
+
+### Message Queuing Services
 > [!links]
 > ↗ [Messaging Services](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Messaging%20Services/Messaging%20Services.md)
 > ↗ [Message Queue](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Messaging%20Services/Message%20Queue/Message%20Queue.md)
@@ -230,8 +281,12 @@ Allow applications to communicate with each other by exchanging messages
 	- RabbitMQ
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.45.23.png)
-#### Email Servers
+
+
+### Email Servers
 - Handle e-mail messages
 - Roles:
 	- MTA: sends and forwards messages MDA: receives and stores messages in a mailbox
@@ -244,8 +299,12 @@ Allow applications to communicate with each other by exchanging messages
 	- Cyrus IMAP
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.52.06.png)
-#### Groupware Servers
+
+
+### Groupware Servers
 Extend e-mail services with calendars, forms and documents
 - Features accessible through web-based interfaces, proprietary protocols or APIs
 - Examples:
@@ -257,6 +316,8 @@ Extend e-mail services with calendars, forms and documents
 	- Zimbra
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.51.47.png)
 
 
@@ -277,6 +338,8 @@ Extend e-mail services with calendars, forms and documents
 - May use SQL or custom query languages and APIs
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![|400](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.28.02.png)
 
 
@@ -290,6 +353,8 @@ Extend e-mail services with calendars, forms and documents
 > ↗ [Enterprise Requirements Planning (ERP)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/👑%20Enterprise%20Level%20Software%20Systems/Enterprise%20Requirements%20Planning%20(ERP)/Enterprise%20Requirements%20Planning%20(ERP).md)
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.51.01.png)
 
 
@@ -298,6 +363,8 @@ Extend e-mail services with calendars, forms and documents
 > ↗ [Customer Relationship Management (CRM)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/👑%20Enterprise%20Level%20Software%20Systems/Customer%20Relationship%20Management%20(CRM)/Customer%20Relationship%20Management%20(CRM).md)
 
 > [!example]
+> ↗ [ArchiMate](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ArchiMate.md)
+>
 > ![|400](../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.50.36.png)
 
 

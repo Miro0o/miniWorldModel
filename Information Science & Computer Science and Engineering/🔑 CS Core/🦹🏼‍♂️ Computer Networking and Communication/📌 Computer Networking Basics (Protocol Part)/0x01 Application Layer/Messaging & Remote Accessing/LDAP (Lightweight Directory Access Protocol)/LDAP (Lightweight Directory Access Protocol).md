@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Directory Services](../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/Directory%20Services.md)
+↗ [Directory Services](../../../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/Directory%20Services.md)
 ↗ [Identity & Access Management (IAM)](../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 
 

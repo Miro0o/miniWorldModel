@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Mini-Program Dev (小程序开发)](../../Mini-Program%20Dev%20(小程序开发)/Mini-Program%20Dev%20(小程序开发).md)
 
-↗ [Cloud Architectures](../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Architectures/Cloud%20Architectures.md)
-↗ [Serverless](../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20Architectures/Serverless/Serverless.md)
+↗ [Cloud System Software Architectures](../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Cloud%20System%20Software%20Architectures.md)
+↗ [Serverless](../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Serverless/Serverless.md)
 
 ↗ [JAMStack (Javascript、APIs、Markup)](../🖥️%20Web%20FrontEnd%20Dev/JAMStack%20(Javascript、APIs、Markup)/JAMStack%20(Javascript、APIs、Markup).md)
 

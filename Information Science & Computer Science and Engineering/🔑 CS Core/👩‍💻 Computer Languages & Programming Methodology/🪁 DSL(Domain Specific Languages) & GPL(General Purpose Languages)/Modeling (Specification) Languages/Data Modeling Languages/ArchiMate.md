@@ -11,7 +11,7 @@ Archi User Guide
 
 ### Related Topics
 ↗ [System Modeling & Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-↗ [Requirement Engineering (Business Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+↗ [Requirement Engineering (Business Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 
 ↗ [I-Star](I-Star.md)
 
@@ -49,6 +49,13 @@ ArchiMate distinguishes itself from other languages such as [Unified Modeling L
 Also, UML and BPMN are meant for a specific use and they are quite heavy – containing about 150 (UML) and 250 (BPMN) modeling concepts whereas ArchiMate works with just about 50 (in version 2.0). The goal of ArchiMate is to be ”as small as possible”, not to cover every edge scenario imaginable. To be easy to learn and apply, ArchiMate was intentionally restricted “to the concepts that suffice for modeling the proverbial 80% of practical cases".
 
 ![](../../../../../../Assets/Pics/Screenshot%202026-02-18%20at%2020.37.30.png)
+
+Aspects:
+- ![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.54.53.png)
+Aspects-layers matrix:
+- ![](../../../../../../Assets/Pics/Screenshot%202026-02-18%20at%2020.37.02.png)
+
+![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
 
 
 ### ArchiMate Language
@@ -89,7 +96,40 @@ The meaning of the ArchiMate connectors is as follows:
 - **Access** – labelled as “accesses” above. Use Access to show read, write, read/write, or access of information. Access can be used in the Business, Application, and Technology layers.
 - **Influences** – labelled as “influences” above. Use Influences typically in the Motivation layer to show where one Assessment may influence another or where an Assessment influences or rolls up into a Driver. e.g. the Assessment of “The warehouse is inefficient” may influence another Assessment of “customers are slow to receive their orders”. Assessments used in this way are a way of analysing root cause analysis, or “The Five Why’s”.
 - **Triggering** – labelled as “triggers” above. Use Triggers to show a sequence of events, typically between processes or functions, or from an event (business, application, or technology) that triggers a function in those layers. For example, the “Create Order” function triggers the “Raise Invoice” function.
-#### The Rule of Three (Active -> Behavior -> Passive)
+##### Nesting
+> [!example]
+> ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2016.04.25.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2016.04.43.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2016.05.17.png)
+##### Composite Elements
+###### Grouping
+- Aggregate elements together
+- Aggregate elements of the same (external) organization
+- We group external organizations, while we usually not group the target organization for clarity
+
+> [!example]
+> Cloud computing:  service models
+> 
+> ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.24.46.png)
+###### Location
+
+###### Derived Relationships
+Relational strength:  (from weakest to strongest)
+- Access (weakest)
+- Serving
+- Realization
+- Assignment
+- Aggregation
+- Composition (strongest)
+Association relation: generic relation
+
+> [!example]
+> ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2014.41.08.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2014.41.42.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.05.51.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.06.18.png)
+
+#### The Rule of Three (Active -> Behavior -> Passive) ⭐
 > 🔗 https://architectureinmotion.com.au/archimate-design-cheat-sheet/
 
 One of the patterns in using ArchiMate is “==something or someone (actor) does something (verb) to something (subject/noun)==”
@@ -152,29 +192,6 @@ Application to technology alignment:
 > 🔗 https://en.wikipedia.org/wiki/ArchiMate#Full_framework
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260218202513.png)
-#### Composite Elements
-##### Grouping
-- Aggregate elements together
-- Aggregate elements of the same (external) organization
-- We group external organizations, while we usually not group the target organization for clarity
-
-> [!example]
-> Cloud computing:  service models
-> 
-> ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.24.46.png)
-##### Derived Relationships
-Relational strength:  (from weakest to strongest)
-- Access (weakest)
-- Serving
-- Realization
-- Assignment
-- Aggregation
-- Composition (strongest)
-
-Association relation: generic relation
-![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.05.51.png)
-![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.06.18.png)
-##### Location
 
 
 ### Pros & Cons of ArchiMate

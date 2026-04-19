@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
-↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Database%20Design.md)
+↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
 
 ↗ [Data Analysis & Automation](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Data%20Science/⛏️%20Data%20Mining/Data%20Analysis%20&%20Automation/Data%20Analysis%20&%20Automation.md)
 
@@ -18,8 +18,8 @@
 
 ## Intro
 > [!Links]
-> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
-> ↗ [Business Intelligence (BI)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Business%20Intelligence%20(BI)/Business%20Intelligence%20(BI).md)
+> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+> ↗ [Business Intelligence (BI)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Business%20Intelligence%20(BI)/Business%20Intelligence%20(BI).md)
 
 > [!Quote]
 > “A Data Warehouse is a subject-oriented, integrated, time-varying, non-volatile collection of data that is used primarily in organizational decision making”
@@ -53,6 +53,9 @@ The two main workflows for building a data warehouse system are [extract, trans
 
 
 ### Data Warehouse Architecture /Environment
+> [!links]
+> ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse
 
 The environment for data warehouses and marts includes the following:
@@ -102,7 +105,7 @@ For example, if there are three BTSs in a city, then the facts above can be aggr
 - `avg_tch_req_success_city = (tch_req_success_bts1 + tch_req_success_bts2 + tch_req_success_bts3) / 3`
 
 
-### Dimensional & Normalized Approaches for Storing Data
+### Approaches for Storing Data
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse#Dimensional_versus_normalized_approach_for_storage_of_data
 
 The two most important approaches to store data in a warehouse are dimensional and normalized. The dimensional approach uses a [star schema](https://en.wikipedia.org/wiki/Star_schema "Star schema") as proposed by [Ralph Kimball](https://en.wikipedia.org/wiki/Ralph_Kimball "Ralph Kimball"). The normalized approach, also called the [third normal form](https://en.wikipedia.org/wiki/Third_normal_form "Third normal form") (3NF) is an entity-relational normalized model proposed by Bill Inmon.
@@ -119,73 +122,64 @@ The main disadvantages of the dimensional approach are:
 1. It is complicated to maintain the integrity of facts and dimensions, loading the data warehouse with data from different operational systems
 2. It is difficult to modify the warehouse structure if the organization changes the way it does business.
 ##### Dimensional Model
-Data represented in an n-dimensional space, named data cube
-- The dimensions of the cube are the perspectives used to analyze the data
-	- Each dimension has a hierarchy
-- The cells in the cube, named facts, represent concepts relevant for the analysis
-- Facts have one or more properties, named measures.
+Data represented in an **n-dimensional space**, named **data cube**
+- The **dimensions** of the cube are the perspectives used to analyze the data
+	- Each dimension has a **hierarchy**
+- The cells in the cube, named **facts**, represent concepts relevant for the analysis
+- Facts have one or more properties, named **measures**.
 	- They are aggregated and filtered depending on the level in the dimension hierarchy being set
 
-![](../../../../Assets/Pics/Pasted%20image%2020260408200529.png)
-<small>Figure from Vaisman and Zimányi - Data Warehouse Systems Design and Implementation</small>
+> [!Example]
+> ![](../../../../Assets/Pics/Pasted%20image%2020260408200529.png)
+> <small>Figure from Vaisman and Zimányi - Data Warehouse Systems Design and Implementation</small>
 
 Dimension hierarchies
-• Define maps between lower-level to
-upper-level concepts in a dimension
-– The level in the hierarchy determines
-the level of aggregation of a fact w.r.t.
-that dimension
-• The highest-level concept is ALL
-– I.e., all facts will be grouped together
-• The lowest-level concept determines the
-finest granularity of the fact
+- Define maps between lower-level to upper-level concepts in a dimension
+	- The level in the hierarchy determines the level of aggregation of a fact w.r.t. that dimension
+- The highest-level concept is ALL
+	- I.e., all facts will be grouped together
+- The lowest-level concept determines the finest granularity of the fact
 
 ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2020.06.28.png)
 <small>Figure from Vaisman and Zimányi - Data Warehouse Systems Design and Implementation</small>
 
 Measures
-• For a measure to be valid, it must be possible to aggregate it along multiple dimension
-hierarchies and at different levels
-• For each measure, an aggregation function must be defined
-• The function must take into account the type of measure:
-– Additive: can be aggregated by summing on ALL dimensions
-• E.g., number of products being sold
-– Semi-additive: can be aggregated by summing on SOME dimensions
-• E.g., inventory quantities cannot be summed over time
-– Nonadditive: CANNOT be aggregated by summing
-• E.g., exchange rates, cost per uni
+- For a measure to be valid, it must be possible to aggregate it along multiple dimension hierarchies and at different levels
+- For each measure, an aggregation function must be defined
+- The function must take into account the type of measure:
+	- Additive: can be aggregated by summing on ALL dimensions
+		- E.g., number of products being sold
+	- Semi-additive: can be aggregated by summing on SOME dimensions
+		- E.g., inventory quantities cannot be summed over time
+	- Nonadditive: CANNOT be aggregated by summing
+		- E.g., exchange rates, cost per uni
 ##### OLAP Operations
-Roll-up: aggregates measures by moving
-up one or more levels in a dimension
-hierarchy
-– E.g., aggregate sales by country, rather
-than by city
-
-Drill-down: refines measures by moving
-down one or more levels in a dimension
-hierarchy
-– E.g., aggregate sales by month, rather
-than by quarter
-– It is the opposite of roll-up
-– The level must exist in the dimension
-hierarchy
+**Roll-up**: aggregates measures by moving up one or more levels in a dimension hierarchy
+- E.g., aggregate sales by country, rather than by city
+- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2019.44.05.png)
 
 
-Pivot: rotates the axes of the cube to
-provide a different representation
-– E.g., switch time with customer,
-customer with product
+**Drill-down**: refines measures by moving down one or more levels in a dimension hierarchy
+-  E.g., aggregate sales by month, rather than by quarter 
+- It is the opposite of roll-up
+- The level must exist in the dimension hierarchy
+- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2019.44.51.png)
 
-Slice: removes a dimension from the
-cube by selecting a specific value for that
-dimension
-– E.g., show only sales in Paris
+**Pivot**: rotates the axes of the cube to provide a different representation
+- E.g., switch time with customer, customer with product
+- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.46.12.png)
 
-Dice: keeps only cells satisfying a
-Boolean expression
-– E.g., show only sales greater than 1
+**Slice**: removes a dimension from the cube by selecting a specific value for that dimension
+- E.g., show only sales in Paris
+- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.47.02.png)
 
-#### Normalized Approach
+**Dice**: keeps only cells satisfying a Boolean expression
+- E.g., show only sales greater than 1
+- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.47.34.png)
+#### Normalized Approach (3NF)
+> [!Links]
+> ↗ [Normalization](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse#Normalized_approach
 
 In the normalized approach, the data in the warehouse are stored following, to a degree, [database normalization](https://en.wikipedia.org/wiki/Database_normalization "Database normalization") rules. Normalized relational database tables are grouped into _subject areas_ (for example, customers, products and finance). When used in large enterprises, the result is dozens of tables linked by a web of joins.(Kimball, Ralph 2008).
@@ -200,11 +194,14 @@ In _Information-Driven Business_, [Robert Hillard](https://en.wikipedia.org/w/
 
 ## Data Warehouse Design
 > [!links]
-> ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
+> ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Database%20Design.md)
 > ↗ [Data Integration](Data%20Integration.md) "three schema design"
 
 
 ### Conceptual Design
+> [!links]
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+
 Conceptual modeling
 - A data warehouse is obtained by integrating and materializing several data sources
 - We know how to integrate data sources by building a GCS
@@ -213,8 +210,23 @@ Conceptual modeling
 	- First, by creating an **attribute tree** from an **ER diagram**
 	- Then, by converting the attribute tree into a **fact schema**
 
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.49.21.png)
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.25.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.38.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.56.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.06.17.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.06.32.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.06.43.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.07.35.png)
+
 
 ### Logical Design
+> [!links]
+> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+
 Logical models
 - ROLAP: relies on a relational database
 	- Easier interoperability
@@ -233,95 +245,69 @@ Starting from the fact schema, we can derive a star or snowflake schema:
 	- Bridge table may need an attribute to specify the **weight** of each edge to the cumulative relationship
 
 > [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.09.38.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.10.06.png)
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2020.14.46.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.10.40.png)
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2020.15.00.png)
+
 #### Star Schema
 Star schema
-• A table DTi for each dimension i
-– The primary key of DTi is an artificial ID
-– DTi also has as many attributes as the
-concepts in the dimension hierarchy
-– DTi is de-normalized for query
-efficiency
-• A table FT for the fact
-– The primary key of FT is the union of
-the primary keys of all dimension tables
-DTi
-– FT also has as many attributes as the
-measures for the fac
+- A table DTi for each dimension i
+	- The primary key of DTi is an artificial ID
+	- DTi also has as many attributes as the concepts in the dimension hierarchy
+	- DTi is de-normalized for query efficiency
+- A table FT for the fact
+	- The primary key of FT is the union of the primary keys of all dimension tables DTi
+	- FT also has as many attributes as the measures for the fac
 #### Snowflake Schema
 Snowflake schema
-• Less de-normalized than star schema
-• One or more tables per dimension i:
-– Secondary dimension table SDTi:
-higher-level concepts in the dimension
-hierarchy
-– Primary dimension table PDTi: lower-
-level concepts in the dimension
-hierarchy
-• Also contains a reference to the
-primary key of SDTi
-• A table FT for the fact
-– The primary key of FT is the union of
-the primary keys of all primary
-dimension tables PDTi
-– FT also has as many attributes as the
-measures for the fact
+- Less de-normalized than star schema
+- One or more tables per dimension i:
+	- Secondary dimension table SDTi: higher-level concepts in the dimension hierarchy
+	- Primary dimension table PDTi: lower-level concepts in the dimension hierarchy
+		- Also contains a reference to the primary key of SDTi
+- A table FT for the fact
+	- The primary key of FT is the union of the primary keys of all primary dimension tables PDTi
+	- FT also has as many attributes as the measures for the fact
 
 
 ### Physical Design
+> [!links]
+> ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
+
 Physical models
-• Row-oriented: data are stored by row
-(tuple)
-– Typically used by relational databases
-– To perform aggregations, one has to
-fetch whole tuples including all their
-attributes
-– Limited horizontal scalability
-• Column-oriented: data are stored by
-column
-– To perform aggregation, one has to
-fetch only the required columns
-– Allow to partition tables per column,
-thus fetching only the attributes that are
-needed
-– Fully vertical scalability
+- Row-oriented: data are stored by row (tuple)
+	- Typically used by relational databases
+	- To perform aggregations, one has to fetch whole tuples including all their attributes
+	- Limited horizontal scalability
+- Column-oriented: data are stored by column
+	- To perform aggregation, one has to fetch only the required columns
+	- Allow to partition tables per column, thus fetching only the attributes that are needed
+	- Fully vertical scalability
+- ![|400](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.17.16.png)
 
 Pre-aggregation
-• Aggregation is the main operation in data
-warehousing, but also one of the most
-expensive
-• Idea: instead of computing aggregations
-on-the-fly, do the computation when data
-are loaded into the data warehouse
-– Analytical query processing is faster
-– Space requirements are higher
-– When new data are introduced,
-aggregations have to be re-computed
-– When a relational model is used, it
-makes dimension tables to become
-sparse (many NULL values)
+- Aggregation is the main operation in data warehousing, but also one of the most expensive
+- Idea: instead of computing aggregations on-the-fly, do the computation when data are loaded into the data warehouse
+	- Analytical query processing is faster
+	- Space requirements are higher
+	- When new data are introduced, aggregations have to be re-computed
+	- When a relational model is used, it makes dimension tables to become sparse (many NULL values)
+- ![|400](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.16.47.png)
 
 
 
 ## 🤔 Beyond Data Warehouse
 ### Data Lakes
 Data Lakes
-• Introduced to address limitations of
-traditional data warehouses:
-– Complex ETL procedures to generate
-data that may rarely or never be
-needed
-– Data infrequently updated
-• Key idea: store data inside input data
-sources as-is, and then transform them
-on-demand by analytical queries
-– Simplified data ingestion, making it
-easier to more frequently update data
-– Very complex analytical queries
-– Risk of collecting unneeded
-information, or to lose track of how they
-are structured (data swamp
+- Introduced to address limitations of traditional data warehouses:
+	- Complex ETL procedures to generate data that may rarely or never be needed
+	- Data infrequently updated
+- Key idea: store data inside input data sources as-is, and then transform them on-demand by analytical queries
+	- Simplified data ingestion, making it easier to more frequently update data
+	- Very complex analytical queries
+	- Risk of collecting unneeded information, or to lose track of how they are structured (data swamp)
 
 > 🔗 https://en.wikipedia.org/wiki/Data_lake
 
@@ -332,18 +318,12 @@ A **data lake** is a system or [repository of data](https://en.wikipedia.org/
 
 ### Data Lakehouses
 Data Lakehouses
-• Take the best from data warehouses and
-data lakes:
-– Data are ingested as-is
-– Data are then periodically processed to
-make them conform to
-multidimensional model
-– Instead of ETL, ELT: Extract, Load,
-Transform
-– It is possible to run simple analytical
-queries, using OLAP operators
-– Space requirements higher than data
-warehouses and data lakes
+- Take the best from data warehouses and data lakes:
+	- Data are ingested as-is
+	- Data are then periodically processed to make them conform to multidimensional model
+	- Instead of ETL, ELT: Extract, Load, Transform
+	- It is possible to run simple analytical queries, using OLAP operators
+	- Space requirements higher than data warehouses and data lakes
 
 ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2020.20.38.png)
 

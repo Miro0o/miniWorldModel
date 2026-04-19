@@ -25,17 +25,16 @@
 - ↗ [Datacenter](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
 
 ↗ [Database Systems](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
-- ↗ [Database Applications (DBAP) & Services](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
-- ↗ [Database System Design](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/Database%20System%20Design.md)
+- ↗ [Database Applications (DBAP) & Services](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+- ↗ [Database System Design](../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20System%20Design.md)
 
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 - ↗ [Application Software Engineering](../Software%20Engineering/☝️%20Application%20Software%20Engineering/Application%20Software%20Engineering.md)
 	- ↗ [Enterprise Level Software Systems](../Software%20Engineering/☝️%20Application%20Software%20Engineering/👑%20Enterprise%20Level%20Software%20Systems/Enterprise%20Level%20Software%20Systems.md)
+	- ↗ [The Internet Development (and Web Development)](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+		- ↗ [Internet (Web) Application Systems - Architecture & Patterns](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 - ↗ [System Software Engineering](../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Software%20Engineering.md)
 ↗ [Software (Program) Techniques & Binary Engineering](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
-
-↗ [The Internet Development (and Web Development)](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
-↗ [Internet (Web) Application Systems - Architecture & Patterns](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 
 ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)
@@ -61,6 +60,9 @@ https://gitlib.com/architecture/
 
 https://www.designsystemhunt.com
 Your ultimate destination for exploring and discovering the best design systems - a curated collection to inspire your creativity
+
+
+### Other Resources
 
 
 

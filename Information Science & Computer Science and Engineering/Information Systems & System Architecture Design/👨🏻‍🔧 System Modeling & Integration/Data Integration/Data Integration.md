@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
-↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
-- ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-- ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+- ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Database%20Design.md)
+	- ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+	- ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 
-↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
+↗ [Database Applications (DBAP) & Services](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Database%20Applications%20(DBAP)%20&%20Services.md)
 
 
 ### Other Resources
@@ -25,11 +25,13 @@
 > Lenzerini, Maurizio. "Data integration: A theoretical perspective." _Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems_. 2002
 
 
-### Three Schema Model: Data Management and Modeling
+### Three Schema Model: Data Management and Modeling ⭐
 > [!links]
-> ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Database%20Design.md)
-> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
+> ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
+> 
+> ↗ [Database Design](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Database%20Design.md)
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+> ↗ [Logical Database Design (Data Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Logical%20Database%20Design%20(Data%20Modeling).md)
 
 #DBMS #data_modeling
 
@@ -60,7 +62,7 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 **Key Idea**
 - The ideal data source should have a uniform **Global Conceptual Schema (GCS)**
 - Each data source has its own **Local Conceptual Schema (LCS)**
-- We need a way to merge different LCSs into a single GCS
+- We need a way to ==merge different LCSs into a single GCS==
 
 **Challenges**
 - Syntactical:
@@ -77,22 +79,21 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 	- ETL: data is **E**xtract from source, **T**ransformed, and **L**oaded to target
 	- ELT: data is **E**xtract from source, **L**oaded to target (unchanged), and then **T**ransformed
 	- ==not for real-time!==
+	- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2019.01.04.png)
 - **Logical Integration**
 	- The GCS is a projection over each data source LCS
 	- Data are kept in the originating data sources in the same source format
 	- Queries are rewritten on-the-fly to match each LCS
 	- Query results are transformed on-the-fly to match the GCS
+	- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2019.01.28.png)
 
 
 
-## Logical Integration
+## Conceptual Model (Schema) - Logical Integration
 > [!links]
-> ↗ [ER & EER & ERD](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+> ↗ [ER & EER & ERD](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
 > ↗ [ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
-> 
-> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
-> ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
-
 
 **Logical Integration**
 - The GCS is a projection over each data source LCS
@@ -103,23 +104,24 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 ![|500](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.17.29.png)
 <small><a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
 
-**Logical Integration – Global-as-View**
+
+**Logical Integration – Global-as-View (GaV)**
 - GCS is defined as a view on all LCSs
 - Steps:
-	1. Identify LCS for each data source
-	2. Synthesize GCS from all LCSs
-	3. Define mappings from GCS to LCS
+	1. <a style="color:green">Identify LCS for each data source</a>
+	2. <a style="color:orange">Synthesize GCS from all LCSs</a>
+	3. <a style="color:blue">Define mappings from GCS to LCS</a>
 - Advantages:
 	- Rewriting queries and merging results is straightforward
 - Disadvantages:
 	- If new data sources need to be integrated, GCS may have to be changed
 
-**Logical Integration – Local-as-View**
+**Logical Integration – Local-as-View (LaV)**
 - Each LCS is defined as a view over the GCS
 - Steps:
-	1. Define GCS beforehand
-	2. Identify LCS for each data source
-	3. Define mappings from GCS to LCS
+	1. <a style="color:orange">Define GCS beforehand</a>
+	2. <a style="color:green">Identify LCS for each data source</a>
+	3. <a style="color:blue">Define mappings from GCS to LCS</a>
 - Advantages:
 	- GCS does not have to be changed when new data sources need to be integrated
 - Disadvantages:
@@ -141,17 +143,17 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 - typically performed by reverse-engineering the physical data source to a conceptual
 model (e.g., ER diagrams)
 - Can be (partially) automated or entirely manual
-- Conceptual models are not tied to a specific technology (e.g., relational vs document-based
+- Conceptual models are not tied to a specific technology (e.g., relational vs document-based)
 
 > [!Example]
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.49.40.png)
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.50.10.png)
 
 
-### Schema Translation
+### (Global -> Local) Schema Translation
 
 
-### Schema Generation
+### (Local -> Global) Schema Generation
 - Schema matching
 	- Finding the correspondences between multiple schemas
 - Schema integration
@@ -182,12 +184,11 @@ Integration can be binary or n-ary
 - Binary: schemas are compared pairwise
 - N-ary: more that 2 schemas are compared at once
 
-
 > [!Example]
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.51.26.png)
 #### 3️⃣ Schema Mapping
 > [!links]
-> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
+> ↗ [Query Processing](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Query%20Processing/Query%20Processing.md)
 > ↗ [Database Query Engines](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Query%20Engines/Database%20Query%20Engines.md)
 
 Identifies how data from LCS can be mapped to GCS
@@ -200,7 +201,6 @@ Mappings will be used to rewrite queries over the GCS
 
 ![](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.34.39.png)
 <small>MDB Query ProcessingArchitecture <br> <a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
-
 
 > [!Example]
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2017.03.23.png)
@@ -224,8 +224,10 @@ Mappings will be used to rewrite queries over the GCS
 
 
 
-## Physical Integration
+## Conceptual Model (Schema) - Physical Integration
 > [!links]
+> ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+> 
 > ↗ [Data Warehouse & Beyonds](Data%20Warehouse%20&%20Beyonds.md)
 
 

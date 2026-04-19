@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [System Modeling & Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-↗ [BPMS (Business Process Management Systems)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Process%20Modeling%20(Process%20Integration)/Declarative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
+↗ [BPMS (Business Process Management Systems)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Declarative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
 
 
 ### Other Resources
@@ -58,6 +58,8 @@ BPMN is constrained to support only the concepts of modeling applicable to busin
 - Data models
 
 In addition, while BPMN shows the flow of data (messages), and the association of data artifacts to activities, it is not a [data flow diagram](https://en.wikipedia.org/wiki/Data_flow_diagram "Data flow diagram").
+
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2016.09.37.png)
 
 
 ### Elements & Connections

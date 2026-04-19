@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [System Modeling & Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-↗ [Requirement Engineering (Business Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
+↗ [Requirement Engineering (Business Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Requirement%20Engineering%20(Business%20Integration)/Requirement%20Engineering%20(Business%20Integration).md)
 
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 
@@ -48,14 +48,18 @@ Fabiano Dalpiaz, Xavier Franch, and Jennifer Horkoff
 #### Associating intentional elements to participants
 ![](../../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2019.00.34.png)
 #### Refining Goals
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.52.07.png)
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.52.21.png)
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.52.33.png)
 #### Refining Tasks
 ![](../../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2019.01.27.png)
 #### Resources For Task Execution
-
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.53.48.png)
 #### Contribution Links
 ![](../../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2019.02.30.png)
 
 #### Qualification
+![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.54.06.png)
 
 
 ### Social Dependencies
@@ -63,6 +67,7 @@ Represent social relationships
 - Depender: an actor that depends for something (the dependum) to be provided
 - DependerElement: an intentional element within the depender’s boundary where the dependency starts from, which explains why the dependency exists
 - Dependum: an intentional element that is the object of the dependency
+	- ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2015.55.10.png)
 - Dependee: the actor that should provide the dependum
 - **DependeeElement**: the intentional element that explains how the dependee intends to provide the dependum
 
@@ -83,6 +88,18 @@ By doing so, it is possible to identify their effect on the model
 
 ![|200](../../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2019.07.33.png)
 #### Forward Analysis
+- For goal/task decomposition and inclusive goal realization, the minimum value of all the child nodes is taken.
+-  For goal/task specialization and exclusive goal realization, the maximum value of all the child nodes is taken.
+- For contribution links, the value of the goal is propagated to the quality depending on the link type:
+	- Make links propagate the value as-is 
+	- Help links propagate the value as _partial_
+	- Hurt links invert and propagate the value as _partial_
+	- Break links invert the value
+- When different contribution links affect the same quality, we may also get:
+	- Conflict: contributions contradict each other.
+- For social dependencies:
+	- The value of the DependeeElement is propagated to the Dependum
+	- The value of the Dependum is propagated to the DependerElement
 
 
 
