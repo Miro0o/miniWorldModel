@@ -67,12 +67,12 @@ Input and Output States
 
 
 ### Shape Analysis
-↗ [Shape Analysis](Shape%20Analysis/Shape%20Analysis.md)
+↗ [Shape Analysis](../Memory%20&%20Heap%20Analysis/Shape%20Analysis/Shape%20Analysis.md)
 
 
 ### Information Flow Control & Analysis
-↗ [Information Flow & Information Flow Control (IFC)](🧑🏻‍🦽‍➡️%20Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
-↗ [Taint Analysis](🧑🏻‍🦽‍➡️%20Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Taint%20Analysis.md)
+↗ [Information Flow & Information Flow Control (IFC)](../Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
+↗ [Taint Analysis](Taint%20Analysis/Taint%20Analysis.md)
 
 
 

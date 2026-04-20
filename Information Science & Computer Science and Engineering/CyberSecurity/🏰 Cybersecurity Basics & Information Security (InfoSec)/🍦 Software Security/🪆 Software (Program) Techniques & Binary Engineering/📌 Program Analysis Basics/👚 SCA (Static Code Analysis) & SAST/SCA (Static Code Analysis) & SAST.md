@@ -8,12 +8,6 @@
 ### Related Topics
 ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 - ↗ [Compilation Phase](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
-	- ↗ [Lexical Analysis (Scanning)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Lexical%20Analysis%20(Scanning)/Lexical%20Analysis%20(Scanning).md)
-	- ↗ [Syntactic Analysis (Parsing)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
-	- ↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-	- ↗ [IR (Intermediate Representation) & IR Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/2️⃣%20IR%20(Intermediate%20Representation)%20&%20IR%20Generation/IR%20(Intermediate%20Representation)%20&%20IR%20Generation.md)
-	- ↗ [Code Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Generation/Code%20Generation.md)
-	- ↗ [Code Optimization](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20Optimization.md)
 ↗ [Compilation & Program Loading Tools](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 ↗ [Debuggers & Disassemblers & Decompilers](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 
@@ -129,15 +123,17 @@ Finally, we have type 0 languages, is a set of words which can be recognized by 
 
 
 ### Levels of Static Code Analysis by Language Processing Procedure and Levels of Syntax
-↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) "Chomsky hierarchy" 
-
-↗ [Instruction Levels In Computer - ISA and Beyond](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond.md)
-↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
-- ↗ [Compilation Phase](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
-	- ↗ [Lexical Analysis (Scanning)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Lexical%20Analysis%20(Scanning)/Lexical%20Analysis%20(Scanning).md)
-	- ↗ [Syntactic Analysis (Parsing)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md) 🤔
-	- ↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
-	- ↗ [IR (Intermediate Representation) & IR Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/2️⃣%20IR%20(Intermediate%20Representation)%20&%20IR%20Generation/IR%20(Intermediate%20Representation)%20&%20IR%20Generation.md)
+> [!links]
+> ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) "Chomsky hierarchy" 
+> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> ↗ [Instruction Levels In Computer - ISA and Beyond](../../../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond.md)
+> 
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+> - ↗ [Compilation Phase](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+> 	- ↗ [Lexical Analysis (Scanning)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Lexical%20Analysis%20(Scanning)/Lexical%20Analysis%20(Scanning).md)
+> 	- ↗ [Syntactic Analysis (Parsing)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md) 🤔
+> 	- ↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+> 	- ↗ [IR (Intermediate Representation) & IR Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/2️⃣%20IR%20(Intermediate%20Representation)%20&%20IR%20Generation/IR%20(Intermediate%20Representation)%20&%20IR%20Generation.md)
 
 Most of this section of notes, the static code analysis, are semantical analysis, because this is the level that we are talking about security, vulnerability, etc. For lower level analysis, like lexical analysis or syntactic analysis, please refer to them as links given above, as in the compilation theory.
 
@@ -148,12 +144,14 @@ Most of this section of notes, the static code analysis, are semantical analysis
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.22.45.png)
 
 
-### Semantics of Program ⭐
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
-
-↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+### Semantics of Program (Program Interpretation /Representation /Models) ⭐
+> [!links]
+> ↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
+> ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> 
+> ↗ [Formal Semantics and Programming Language](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> 
+> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 
 **Transition System**
@@ -163,7 +161,7 @@ Most of this section of notes, the static code analysis, are semantical analysis
 
 **CFG**
 - ↗ [CFG (Control Flow Graph) & ICFG (Interprocedure CFG)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/CFG%20(Control%20Flow%20Graph)%20&%20ICFG%20(Interprocedure%20CFG).md)
-- ↗ [Constraint-Based Analysis & Control Flow Analysis](Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis/Constraint-Based%20Analysis%20&%20Control%20Flow%20Analysis.md)
+- ↗ [Control Flow Analysis](Control%20Flow%20Analysis/Control%20Flow%20Analysis.md)
 
 **AST & CST**
 - ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
@@ -188,7 +186,99 @@ The essence of static code analysis:  (↗ [Program Abstraction & Abstract Inter
 	- Control flows (branches)
 		- ![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2001.00.14.png)
 
+
 ↗ [Program Abstraction & Abstract Interpretation](🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+
+
+### Static Code Analysis Techniques 🤔
+> [!links]
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+> - ↗ [Compilation Phase](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+> 	- ↗ [Lexical Analysis (Scanning)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Lexical%20Analysis%20(Scanning)/Lexical%20Analysis%20(Scanning).md)
+> 	- ↗ [Syntactic Analysis (Parsing)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
+> 	- ↗ [Semantic Analysis](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+> 	- ↗ [IR (Intermediate Representation) & IR Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/2️⃣%20IR%20(Intermediate%20Representation)%20&%20IR%20Generation/IR%20(Intermediate%20Representation)%20&%20IR%20Generation.md)
+> 	- ↗ [Code Generation](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Generation/Code%20Generation.md)
+> 	- ↗ [Code Optimization](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/3️⃣%20Backend%20-%20Programming%20Language%20Synthesis/Code%20Optimization/Code%20Optimization.md)
+
+> 🤖 GPT-5.3
+> https://chatgpt.com/share/69e5fe13-7d1c-838d-bb77-bc14bf8a09e0
+
+Static program analysis can be structured into:
+1. **Program representations** (e.g., CFG, IR), typically constructed via control flow analysis
+2. **Control flow analysis**, which determines execution paths and builds the CFG
+3. **Data flow analysis**, which propagates values over the CFG  
+	1. including specialized forms such as information flow analysis and taint analysis
+4. **Pointer (alias) analysis**, which resolves memory references and interacts with data flow analysis
+
+A More Complete Static Analysis Map:
+
+```tikz
+\usetikzlibrary{arrows.meta,positioning}
+\begin{document}
+\begin{tikzpicture}[
+    node distance=0.9cm and 1.2cm,
+    >=Latex,
+    box/.style={
+        rounded corners=2.5pt,
+        draw,
+        align=center,
+        minimum width=2.9cm,
+        minimum height=0.82cm,
+        font=\footnotesize,
+        inner sep=3pt
+    },
+    topbox/.style={box, fill=blue!20, draw=blue!50!black},
+    structbox/.style={box, fill=teal!18, draw=teal!50!black},
+    statebox/.style={box, fill=green!18, draw=green!45!black},
+    infobox/.style={box, fill=orange!20, draw=orange!60!black},
+    logicbox/.style={box, fill=red!16, draw=red!55!black},
+    foundbox/.style={box, fill=purple!18, draw=purple!55!black},
+    axisbox/.style={box, fill=gray!18, draw=gray!60!black},
+    line/.style={->, thick, draw=black!70}
+]
+
+% Top
+\node[topbox] (sem) {Program Semantics\\\scriptsize behavior of the program};
+
+% Row 1
+\node[structbox, below left=1.0cm and 1.9cm of sem] (rep) {Program Structure\\\scriptsize AST / IR / SSA};
+\node[structbox, below right=1.0cm and 1.9cm of sem] (cfg) {Control Structure\\\scriptsize CFG / Call Graph / CFA};
+
+% Row 2
+\node[statebox, below left=1.0cm and 1.6cm of cfg] (dfa) {State / Value Analysis\\\scriptsize data flow, constant, range};
+\node[statebox, below right=1.0cm and 1.6cm of cfg] (ptr) {Memory / Heap Analysis\\\scriptsize pointer, alias, shape};
+
+% Center
+\node[structbox, below=1.35cm of cfg] (pdg) {Dependency Layer\\\scriptsize PDG / slicing / dependencies};
+
+% Lower pipeline
+\node[infobox, below=0.95cm of pdg] (info) {Information-Oriented Analysis\\\scriptsize taint, IFC, DFI};
+\node[logicbox, below=0.95cm of info] (logic) {Path \& Logic Analysis\\\scriptsize symbolic execution, SMT, CEGAR};
+\node[foundbox, below=0.95cm of logic] (found) {Foundations \& Solvers\\\scriptsize abstract interpretation, constraints, type systems};
+\node[axisbox, below=0.95cm of found] (axes) {Precision Axes\\\scriptsize flow / context / field / path sensitivity};
+
+% Edges
+\draw[line] (sem) -- (rep);
+\draw[line] (sem) -- (cfg);
+\draw[line] (rep) -- (cfg);
+
+\draw[line] (cfg) -- (dfa);
+\draw[line] (cfg) -- (ptr);
+
+\draw[line] (dfa.south) |- (pdg.west);
+\draw[line] (ptr.south) |- (pdg.east);
+
+\draw[line] (pdg) -- (info);
+\draw[line] (info) -- (logic);
+\draw[line] (logic) -- (found);
+\draw[line] (found) -- (axes);
+
+\draw[line] (dfa) -- (ptr);
+
+\end{tikzpicture}
+\end{document}
+```
 
 
 ### Static Application Security Testing (SAST)
@@ -232,7 +322,7 @@ Essentially,
 - if we want to make sure that something **never** happens, or if we want to **warn** about an assertion error that *may* happen, we need a **may analysis**. $$ \neg \text{BAE}^n \Leftarrow \neg \text{BAE}_{\text{may}}^n $$
 - If we want to **guarantee** that an assertion error *must* happen on a run, then we need a **must analysis**: $$\text{BAE}_{\text{must}}^n \Rightarrow \text{BAE}^n$$
 #### No-Approximation BSA Analysis
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 
 ### Bounded Analysis 🆚 Context-Bounded Analysis 🆚 Unbounded Analysis
@@ -273,13 +363,13 @@ To do this, unbounded analyses rely on **mathematical abstractions**, rather tha
 - **Abstract interpretation** uses _abstract domains_ (like intervals, polyhedra) to summarize infinite behaviors.
 - **Symbolic model checking** uses _induction_ or _fixpoint computation_ to reason about loops and recursion without unrolling them finitely.
 
-|Aspect|**Bounded Analysis**|**Unbounded Analysis**|
-|---|---|---|
-|**Exploration**|Limited by a fixed bound (e.g., N steps, K context switches)|Unlimited — all executions are considered|
-|**Completeness**|Incomplete (may miss bugs beyond the bound)|Complete (can prove correctness for all cases, if it terminates)|
-|**Soundness**|Often sound _within the bound_, but not globally|Aims to be globally sound|
-|**Scalability**|Usually fast (because it explores finitely many states)|Can be expensive or even undecidable|
-|**Example tools**|Bounded model checkers (CBMC, ESBMC), concolic testing|Abstract interpreters, symbolic model checkers (e.g., SPIN, Infer, Astrée)|
+| Aspect            | **Bounded Analysis**                                         | **Unbounded Analysis**                                                     |
+| ----------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| **Exploration**   | Limited by a fixed bound (e.g., N steps, K context switches) | Unlimited — all executions are considered                                  |
+| **Completeness**  | Incomplete (may miss bugs beyond the bound)                  | Complete (can prove correctness for all cases, if it terminates)           |
+| **Soundness**     | Often sound _within the bound_, but not globally             | Aims to be globally sound                                                  |
+| **Scalability**   | Usually fast (because it explores finitely many states)      | Can be expensive or even undecidable                                       |
+| **Example tools** | Bounded model checkers (CBMC, ESBMC), concolic testing       | Abstract interpreters, symbolic model checkers (e.g., SPIN, Infer, Astrée) |
 
 
 

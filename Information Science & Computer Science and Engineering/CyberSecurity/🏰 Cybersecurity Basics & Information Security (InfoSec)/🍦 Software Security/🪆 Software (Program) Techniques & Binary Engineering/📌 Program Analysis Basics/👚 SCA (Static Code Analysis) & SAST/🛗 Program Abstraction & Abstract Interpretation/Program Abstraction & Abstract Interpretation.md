@@ -511,7 +511,7 @@ The correct order to do this computation is in [reverse post-order](https://en.
 > [!links]
 > ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 > ↗ [Interprocedural Analysis](../Data%20Flow%20Analysis/📲%20Inter-procedural%20Analysis/Interprocedural%20Analysis.md)
-> ↗ [Context-Sensitive Pointer Analysis](../Pointer%20Analysis%20&%20Alias%20Analysis/Context-Sensitive%20Pointer%20Analysis.md)
+> ↗ [Context-Sensitive Pointer Analysis](../Memory%20&%20Heap%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis/Context-Sensitive%20Pointer%20Analysis.md)
 
 > 🔗  [Smaragdakis (2014)](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:smaragdakis2014introspective)
 > 🔗 [Might (2010)](https://courses.compute.dtu.dk/02242/topics/context-sensitive-analysis.html#ref:might2010resolving)

@@ -15,6 +15,9 @@
 ↗ [IPS (Intrusion Prevention Systems)](../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/IPS%20(Intrusion%20Prevention%20Systems).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 
@@ -22,4 +25,3 @@
 
 ## Ref
 [What is identity and access management (IAM)?]: https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam
-

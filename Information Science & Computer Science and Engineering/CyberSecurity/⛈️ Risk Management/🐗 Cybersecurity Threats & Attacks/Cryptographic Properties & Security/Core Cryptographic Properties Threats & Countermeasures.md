@@ -96,6 +96,7 @@ We make this precise with an experiment/security game, the IND-CPA game:
 #### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
 ![](../../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
 #### INT-CTXT (Integrity of ciphertexts)
+
 #### EUF-CMA (for signatures)
 
 

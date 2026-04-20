@@ -14,7 +14,7 @@
 ↗ [Program Call Graph Generation](../../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Program%20Profiling%20&%20Dynamic%20Instrumentation%20Tools/Program%20Call%20Graph%20Generation/Program%20Call%20Graph%20Generation.md)
 
 ↗ [Data Flow Analysis](../Data%20Flow%20Analysis.md)
-↗ [Pointer Analysis & Alias Analysis](../../Pointer%20Analysis%20&%20Alias%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis.md)
+↗ [Pointer Analysis & Alias Analysis](../../Memory%20&%20Heap%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis/Pointer%20Analysis%20&%20Alias%20Analysis.md)
 
 
 
