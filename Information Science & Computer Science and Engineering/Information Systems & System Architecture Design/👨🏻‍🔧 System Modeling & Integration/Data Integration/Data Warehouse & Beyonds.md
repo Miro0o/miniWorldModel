@@ -201,6 +201,7 @@ In _Information-Driven Business_, [Robert Hillard](https://en.wikipedia.org/w/
 ### Conceptual Design
 > [!links]
 > ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
+> ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20(Entity-Relationship%20Diagram).md)
 
 Conceptual modeling
 - A data warehouse is obtained by integrating and materializing several data sources

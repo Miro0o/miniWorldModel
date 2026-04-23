@@ -92,8 +92,7 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 ## Conceptual Model (Schema) - Logical Integration
 > [!links]
 > ↗ [Conceptual Database Design (Conceptual Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/Conceptual%20Database%20Design%20(Conceptual%20Modeling).md)
-> ↗ [ER & EER & ERD](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Conceptual%20Database%20Design%20(Conceptual%20Modeling)/ER%20&%20EER%20&%20ERD.md)
-> ↗ [ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
+> ↗ [ER & EER & ERD (Entity-Relationship Diagram)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ER%20&%20EER%20&%20ERD%20(Entity-Relationship%20Diagram).md)
 
 **Logical Integration**
 - The GCS is a projection over each data source LCS
@@ -174,7 +173,7 @@ Important: sometimes the GCS is defined first and schema matching and schema map
 
 > [!Example]
 > ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2016.50.52.png)
-#### 2️⃣ Schema Integration
+#### 2️⃣ Schema Integration (GaV Only)
 ![|500](../../../../Assets/Pics/Screenshot%202026-03-18%20at%2015.23.28.png)
 <small><a>https://cs.uwaterloo.ca/~tozsu/courses/CS742/Course%20Notes/9a-DataIntegration-handout.pdf</a></small>
 

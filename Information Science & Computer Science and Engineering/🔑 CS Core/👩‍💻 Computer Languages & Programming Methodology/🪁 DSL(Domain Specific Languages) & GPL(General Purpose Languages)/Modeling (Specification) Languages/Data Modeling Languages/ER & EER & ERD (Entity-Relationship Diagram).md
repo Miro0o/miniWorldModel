@@ -1,4 +1,4 @@
-# ER & EER & ERD
+# ER & EER & ERD (Entity-Relationship Diagram)
 
 [TOC]
 
@@ -6,8 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [SE /Design & Modeling & Docs /UML](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/UML%20(Unified%20Modeling%20Language).md)
-↗ [SE /Design & Modeling & Docs /ERD](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/ERD%20(Entity-Relationship%20Diagram).md)
+↗ [UML (Unified Modeling Language)](UML%20(Unified%20Modeling%20Language).md)
 
 ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 
@@ -172,5 +171,4 @@ UML represents composition by placing a filled-in diamond shape at one end of th
 
 [数据工程师下午试题3: ER图]: https://www.cnblogs.com/MiQing4in/p/13909043.html
 
-
-
+[ER Diagram Cheat Sheet]: https://www.red-gate.com/blog/er-diagram-cheat-sheet/

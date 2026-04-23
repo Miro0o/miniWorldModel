@@ -26,7 +26,7 @@
 
 
 ## Intro
-![AI-Layer.excalidraw](../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
+![AI-Layer.excalidraw | 800](../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
 
 
 

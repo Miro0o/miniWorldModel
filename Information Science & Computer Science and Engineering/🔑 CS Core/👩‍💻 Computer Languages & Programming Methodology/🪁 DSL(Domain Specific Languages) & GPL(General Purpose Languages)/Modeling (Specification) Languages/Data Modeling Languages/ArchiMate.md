@@ -128,7 +128,6 @@ Association relation: generic relation
 > ![](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2014.41.42.png)
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.05.51.png)
 > ![](../../../../../../Assets/Pics/Screenshot%202026-02-25%20at%2019.06.18.png)
-
 #### The Rule of Three (Active -> Behavior -> Passive) ⭐
 > 🔗 https://architectureinmotion.com.au/archimate-design-cheat-sheet/
 

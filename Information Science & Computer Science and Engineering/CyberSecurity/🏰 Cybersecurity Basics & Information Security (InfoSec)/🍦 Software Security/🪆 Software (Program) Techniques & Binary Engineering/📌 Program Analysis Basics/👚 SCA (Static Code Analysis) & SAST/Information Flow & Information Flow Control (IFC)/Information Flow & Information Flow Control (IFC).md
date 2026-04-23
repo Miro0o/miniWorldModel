@@ -40,6 +40,55 @@
 > - Dennings' approach (lattice)
 > - Volpano's approach (type system)
 > - Myers' approach (lattice)
+> 
+> > 🤖 GPT-5.3
+> > https://chatgpt.com/share/69e740ba-8ff8-838c-bd32-66b1be212bfe
+> 
+> ```tikz
+> \usetikzlibrary{arrows.meta,positioning}
+> \begin{document}
+> \begin{tikzpicture}[
+>     node distance=0.9cm,
+>     >=Latex,
+>     font=\small,
+>     box/.style={
+>         rounded corners=5pt,
+>         draw,
+>         thick,
+>         align=center,
+>         minimum width=8.5cm,
+>         inner sep=6pt
+>     },
+>     sem/.style={box, fill=blue!12, draw=blue!60!black},
+>     prop/.style={box, fill=green!12, draw=green!50!black},
+>     policy/.style={box, fill=orange!18, draw=orange!70!black},
+>     enforce/.style={box, fill=red!10, draw=red!65!black},
+>     lbl/.style={font=\scriptsize\itshape, text=black!70}
+> ]
+> 
+> \node[sem] (sem) {\textbf{Semantic Models}\\
+> Trace semantics $\bullet$ Bisimulation $\bullet$ Knowledge-based models};
+> 
+> \node[prop, below=of sem] (prop) {\textbf{Security Properties}\\
+> Observational equivalence $\bullet$ Noninterference};
+> 
+> \node[policy, below=of prop] (policy) {\textbf{Policy Models / Frameworks}\\
+> Denning's Lattice Model $\bullet$ Myers' Decentralized Label Model (DLM)};
+> 
+> \node[enforce, below=of policy] (enforce) {\textbf{Enforcement Mechanisms}\\
+> Type systems $\bullet$ Static analysis $\bullet$ Runtime enforcement};
+> 
+> \draw[->, thick] (sem) -- node[right, lbl] {define} (prop);
+> \draw[->, thick] (prop) -- node[right, lbl] {structured by} (policy);
+> \draw[->, thick] (policy) -- node[right, lbl] {enforced by} (enforce);
+> 
+> \node[below=0.4cm of enforce, align=center, font=\scriptsize, text=black!75] {
+> Examples: Volpano-Smith-Irvine, Jif, NSU, permissive-upgrade, privatization inference
+> };
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
 
 > 🔗 https://blog.wohin.me/posts/nju-program-analysis-13/
 
@@ -67,6 +116,212 @@ broadcast(l); // l is low security
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)
 
 **Information flow** in an [information theoretical](https://en.wikipedia.org/wiki/Information_theory "Information theory") context is the transfer of information from a [variable](https://en.wikipedia.org/wiki/Random_variable "Random variable") x to a variable y in a given [process](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process"). Not all flows may be desirable; for example, a system should not leak any confidential information (partially or not) to public observers—as it is a violation of privacy on an individual level, or might cause major loss on a corporate level.
+
+> [!TIP]
+> 🤖 GPT-5.3
+> https://chatgpt.com/share/69e740ba-8ff8-838c-bd32-66b1be212bfe
+> 
+> ```tikz
+> \usetikzlibrary{arrows.meta,positioning}
+> \begin{document}
+> \begin{tikzpicture}[
+>     font=\scriptsize,
+>     >=Latex,
+> 
+>     box/.style={
+>         draw,
+>         thick,
+>         rounded corners=4pt,
+>         align=center,
+>         inner sep=4pt
+>     },
+>     main/.style={
+>         box,
+>         minimum width=5.6cm,
+>         minimum height=0.8cm
+>     },
+>     sem/.style={main, fill=blue!10, draw=blue!60!black},
+>     prop/.style={main, fill=green!10, draw=green!50!black},
+>     policy/.style={main, fill=orange!15, draw=orange!70!black},
+>     enforce/.style={main, fill=red!10, draw=red!65!black},
+> 
+>     sub/.style={
+>         draw,
+>         thick,
+>         rounded corners=4pt,
+>         align=left,
+>         inner sep=4pt,
+>         text width=4.1cm
+>     },
+>     semsub/.style={sub, fill=blue!5, draw=blue!40!black},
+>     propsub/.style={sub, fill=green!5, draw=green!35!black},
+>     policysub/.style={sub, fill=orange!8, draw=orange!55!black},
+>     enfsub/.style={sub, fill=red!5, draw=red!45!black},
+> 
+>     lbl/.style={font=\tiny\itshape, text=black!70},
+>     note/.style={font=\tiny, text=black!75, align=center}
+> ]
+> 
+> % =========================================================
+> % Main vertical spine
+> % =========================================================
+> \node[sem] (semantic) at (0,0) {\textbf{Semantic Foundations}};
+> \node[prop] (security) at (0,-6.8) {\textbf{Security Properties}};
+> \node[policy] (policy) at (0,-11.8) {\textbf{Policy Models / Frameworks}};
+> \node[enforce] (enforcement) at (0,-16.9) {\textbf{Enforcement Mechanisms}};
+> 
+> \draw[->, thick] (semantic) -- node[right, lbl] {define} (security);
+> \draw[->, thick] (security) -- node[right, lbl] {structured by} (policy);
+> \draw[->, thick] (policy) -- node[right, lbl] {enforced by} (enforcement);
+> 
+> % =========================================================
+> % Semantic Foundations
+> % =========================================================
+> \node[semsub] (sem_models) at (-2.9,-1.6) {
+> \textbf{Semantic Models}\\
+> -- Trace semantics\\
+> -- Bisimulation\\
+> -- Knowledge-based security
+> };
+> 
+> \node[semsub] (sem_core) at (2.9,-1.6) {
+> \textbf{Core}\\
+> -- Observational equivalence\\
+> -- Noninterference
+> };
+> 
+> \node[semsub] (sem_variants) at (-2.9,-4.0) {
+> \textbf{Variants}\\
+> -- Termination-sensitive /\\
+> \hspace*{1em}insensitive NI\\
+> -- Timing / side-channel NI
+> };
+> 
+> \node[semsub] (sem_relax) at (2.9,-4.0) {
+> \textbf{Relaxations}\\
+> -- Declassification\\
+> -- What / Who / Where / When\\
+> -- Robust declassification
+> };
+> 
+> \node[semsub, text width=8.9cm, align=center] (sem_adv) at (0,-5.7) {
+> \textbf{Advanced}\\
+> -- Hyperproperties
+> };
+> 
+> \draw[dashed, thick, blue!50!black] (semantic.south west) .. controls +(-0.2,-0.5) and +(0,0.35) .. (sem_models.north);
+> \draw[dashed, thick, blue!50!black] (semantic.south east) .. controls +(0.2,-0.5) and +(0,0.35) .. (sem_core.north);
+> \draw[dashed, thick, blue!50!black] (semantic.south west) .. controls +(-0.45,-1.2) and +(0,0.35) .. (sem_variants.north);
+> \draw[dashed, thick, blue!50!black] (semantic.south east) .. controls +(0.45,-1.2) and +(0,0.35) .. (sem_relax.north);
+> \draw[dashed, thick, blue!50!black] (semantic.south) -- (sem_adv.north);
+> 
+> % =========================================================
+> % Security Properties
+> % =========================================================
+> \node[propsub] (sec_obs) at (-2.9,-8.3) {
+> \textbf{Relational basis}\\
+> -- Observational equivalence\\
+> -- indistinguishability
+> };
+> 
+> \node[propsub] (sec_nonint) at (2.9,-8.3) {
+> \textbf{Baseline property}\\
+> -- Noninterference
+> };
+> 
+> \node[propsub, text width=8.9cm, align=center] (sec_decl) at (0,-10.0) {
+> \textbf{Relaxed properties}\\
+> -- Declassification\\
+> -- Robust declassification
+> };
+> 
+> \draw[dashed, thick, green!50!black] (security.south west) .. controls +(-0.2,-0.5) and +(0,0.35) .. (sec_obs.north);
+> \draw[dashed, thick, green!50!black] (security.south east) .. controls +(0.2,-0.5) and +(0,0.35) .. (sec_nonint.north);
+> \draw[dashed, thick, green!50!black] (security.south) -- (sec_decl.north);
+> 
+> % =========================================================
+> % Policy Models
+> % =========================================================
+> \node[policysub] (pol_denning) at (-2.9,-13.3) {
+> \textbf{Denning's Lattice Model}\\
+> -- labels / security classes\\
+> -- partial order / lattice\\
+> -- allowed flows via $L_1 \sqsubseteq L_2$
+> };
+> 
+> \node[policysub] (pol_myers) at (2.9,-13.3) {
+> \textbf{Myers' DLM}\\
+> -- owner / reader policies\\
+> -- decentralized ownership\\
+> -- authority \& declassification
+> };
+> 
+> \draw[dashed, thick, orange!70!black] (policy.south west) .. controls +(-0.2,-0.5) and +(0,0.35) .. (pol_denning.north);
+> \draw[dashed, thick, orange!70!black] (policy.south east) .. controls +(0.2,-0.5) and +(0,0.35) .. (pol_myers.north);
+> 
+> % =========================================================
+> % Enforcement
+> % =========================================================
+> \node[enfsub] (enf_static) at (-2.9,-18.4) {
+> \textbf{Static enforcement}\\
+> -- Volpano--Smith--Irvine\\
+> -- Jif (DLM-based)\\
+> -- program analysis
+> };
+> 
+> \node[enfsub] (enf_dynamic) at (2.9,-18.4) {
+> \textbf{Dynamic enforcement}\\
+> -- Na\"ive approach\\
+> -- NSU\\
+> -- Permissive-upgrade\\
+> -- Privatization inference
+> };
+> 
+> \node[enfsub, text width=8.9cm, align=center] (enf_hybrid) at (0,-20.2) {
+> \textbf{Hybrid / mixed approaches}
+> };
+> 
+> \draw[dashed, thick, red!60!black] (enforcement.south west) .. controls +(-0.2,-0.5) and +(0,0.35) .. (enf_static.north);
+> \draw[dashed, thick, red!60!black] (enforcement.south east) .. controls +(0.2,-0.5) and +(0,0.35) .. (enf_dynamic.north);
+> \draw[dashed, thick, red!60!black] (enforcement.south) -- (enf_hybrid.north);
+> 
+> % =========================================================
+> % Cross-links, kept minimal and outside
+> % =========================================================
+> \draw[->, dashed, thick, gray!70]
+>     (sem_models.west) .. controls +(-1.5,0) and +(-1.5,0) ..
+>     node[left, lbl, pos=0.55] {formalize}
+>     (sec_obs.west);
+> 
+> \draw[->, dashed, thick, gray!70]
+>     (sec_obs.east) .. controls +(1.4,0) and +(-1.4,0) ..
+>     node[above, lbl, pos=0.5] {underlies}
+>     (sec_nonint.west);
+> 
+> \draw[->, dashed, thick, gray!70]
+>     (sem_relax.east) .. controls +(1.5,0) and +(1.5,0) ..
+>     node[right, lbl, pos=0.55] {realized by}
+>     (pol_myers.east);
+> 
+> \draw[->, dashed, thick, gray!70]
+>     (pol_denning.west) .. controls +(-1.5,0) and +(-1.5,0) ..
+>     node[left, lbl, pos=0.55] {encoded by}
+>     (enf_static.west);
+> 
+> % =========================================================
+> % Bottom note
+> % =========================================================
+> \node[note] at (0,-21.6) {
+> \textbf{Reading order:}
+> semantic models define program meaning;
+> security properties define what it means to be secure;
+> policy models structure allowed flows;
+> enforcement mechanisms check them conservatively.
+> };
+> 
+> \end{tikzpicture}
+> \end{document}
+> ```
 
 
 ### Security Properties of Information
@@ -222,14 +477,30 @@ if (secret) {
 
 
 
-## 🎯 Information Flow Policies
+## 🎯 Semantic Foundations /Information Flow Policies
+### Observational Equivalence
+> 🔗 https://en.wikipedia.org/wiki/Observational_equivalence
+
+**Observational equivalence** is the property of two or more underlying entities being indistinguishable on the basis of their [observable](https://en.wikipedia.org/wiki/Observable "Observable") implications. Thus, for example, two [scientific theories](https://en.wikipedia.org/wiki/Scientific_theory "Scientific theory") are observationally equivalent if all of their [empirically](https://en.wikipedia.org/wiki/Empirical "Empirical") [testable](https://en.wikipedia.org/wiki/Testable "Testable") predictions are identical, in which case empirical evidence cannot be used to distinguish which is closer to being correct; indeed, it may be that they are actually two different perspectives on one underlying theory.
+
+In [econometrics](https://en.wikipedia.org/wiki/Econometrics "Econometrics"), two parameter values (or two _structures,_ from among a class of statistical models) are considered observationally equivalent if they both result in the same [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") of observable data.[1](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-palgrave-1)[2](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-nber-2)[3](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-koopmans-3) This term often arises in relation to the [identification problem](https://en.wikipedia.org/wiki/Parameter_identification_problem "Parameter identification problem").
+
+In [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics "Macroeconomics"), it happens when you have multiple structural models, with different interpretation, but indistinguishable empirically. "the mapping between structural parameters and the objective function may not display a unique minimum."[4](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-science_direct-4)
+
+In the [formal semantics of programming languages](https://en.wikipedia.org/wiki/Formal_semantics_of_programming_languages "Formal semantics of programming languages"), two [terms](https://en.wikipedia.org/wiki/Term_\(logic\) "Term (logic)") _M_ and _N_ are observationally equivalent if and only if, in all contexts _C_\[...\] where _C_\[_M_\] is a valid term, it is the case that _C_\[_N_\] is also a valid term with the same value.[5](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-foldoc-5) Thus it is not possible, within the system, to distinguish between the two terms. This definition can be made precise only with respect to a particular calculus, one that comes with its own specific definitions of _term_, _context_, and the _value of a term_. The notion is due to [James H. Morris](https://en.wikipedia.org/wiki/James_H._Morris "James H. Morris"),[6](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-6) who called it "extensional equivalence."
+
+
 ### Noninterference Policy 🤔
 > 🔗 https://en.wikipedia.org/wiki/Non-interference_(security)
 
 Non-interference is a policy that enforces that an attacker should not be able to distinguish two computations from their outputs if they only vary in their secret inputs. However, this policy is too strict to be usable in realistic programs.[4] The classic example is a password checker program that, in order to be useful, needs to disclose some secret information: whether the input password is correct or not (note that the information that an attacker learns in case the program rejects the password is that the attempted password is not the valid one).
+#### Termination-sensitive vs -insensitive Noninterference  
+
+#### Timing / Side-channel Sensitive Noninterference  
 
 
-### Declassification
+### Relaxations of Noninterference
+#### Declassification⭐
 > [!links]
 > ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md) "authentication factors"
 
@@ -240,7 +511,7 @@ As shown previously, ==non-interference policy is too strict for use in most rea
 Robust declassification requires that an active attacker may not manipulate the system in order to learn more secrets than what passive attackers already know.[4]
 
 Information declassification constructs can be classified in four orthogonal dimensions: what information is released, who is authorized to access the information, where the information is released, and when the information is released.[4]
-#### What
+##### What
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
 
 A _what_ declassification policy controls which information (partial or not) may be released to a publicly observable variable.
@@ -252,7 +523,7 @@ var l, h
 if l = 1 then
     l := declassify(h)
 ```
-#### Who
+##### Who
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
 
 A _who_ declassification policy controls which [principals](https://en.wikipedia.org/wiki/Security_principal "Security principal") (i.e., who) can access a given piece of information. This kind of policy has been implemented in the Jif compiler.[9](https://en.wikipedia.org/wiki/Information_flow_\(information_theory\)#cite_note-9)
@@ -265,7 +536,7 @@ var b                                 (* {Bob} *)
 if ab = 1 then
     ab := declassify(b, {Alice, Bob}) (* {Alice, Bob} *)
 ```
-#### Where
+##### Where
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
 
 A _where_ declassification policy regulates where the information can be released, for example, by controlling in which lines of the [source code](https://en.wikipedia.org/wiki/Source_code "Source code") information can be released.
@@ -277,28 +548,55 @@ var l, h
 flow H ≺ L in
     l := h
 ```
-#### When
+##### When
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification
 
 A _when_ declassification policy regulates when the information can be released. Policies of this kind can be used to verify programs that implement, for example, controlled release of secret information after payment, or encrypted secrets which should not be released in a certain time given polynomial computational power.
-#### Declassification Approaches for Implicit Flows
-> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
-
-An implicit flow occurs when code whose conditional execution is based on private information updates a public variable. This is especially problematic when multiple executions are considered since an attacker could leverage the public variable to infer private information by observing how its value changes over time or with the input.
+#### Robust Declassification
 
 
-The naïve approach
-> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+### Semantic Models 🤔
+↗ [Mathematical Modeling & Abstraction](../../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
+↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
-The naïve approach consists on enforcing the confidentiality property on all variables whose value is affected by other variables. This method leads to partially leaked information due to on some instances of the application a variable is Low and in others High.
+↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
-Other approaches
-- see below "IFC enforcement machanisms"
+- Trace semantics  
+- Bisimulation  
+- Knowledge-based security (attacker knowledge)  
+- etc.
+
+
+### Advance
+#### Hyperproperties (Clarkson & Schneider)
 
 
 
-## 🎯 Information Flow Policy Models /Security Policy Framework
-###  Denning's Approach & Lattice Model
+## 🎯 IFC Policy Models /Security Policy Framework (Semantic)
+> [!TIP]
+> 
+> | Term                 | Meaning                                                                                                |
+> | -------------------- | ------------------------------------------------------------------------------------------------------ |
+> | **Policy model**     | (the idea) The abstract definition of allowed flows |
+> | **Policy framework** | (the idea + mathematical machinery) The model **+ its formal structure + sometimes its usage context** |
+> 
+> > [!Example] Example: Denning
+> > 
+> > As a _policy model_
+> > > “Information may flow only if labels respect ≤”
+> > 
+> > As a _policy framework_
+> > - Labels
+> > - Lattice
+> > - Join / meet operations
+> > - Flow constraints
+> > 
+> > 👉 Same thing, just different emphasis.
+
+
+### Denning's Approach & Lattice Model
 > 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
 #### High /Low Security Analysis
 
@@ -307,7 +605,7 @@ Other approaches
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.25.27.png)
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.26.37.png)
 
-#### Formalized Security Policy Framework ⭐
+#### Denning's Approach Formalized in Lattice ⭐
 > [!links]
 > ↗ [Partial Order & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 > ↗ [Lattice (Order Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
@@ -318,7 +616,7 @@ Other approaches
 > - ↗ [LBAC (Lattice-Based Access Control)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/LBAC%20(Lattice-Based%20Access%20Control)/LBAC%20(Lattice-Based%20Access%20Control).md)
 
 > [!Example] Confidentiality and Integrity in One Go?
-> (Coming from examples in "Volpano-Smith-Irvine")
+> (Continuing from examples in "Volpano-Smith-Irvine")
 > 
 > ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
 > 
@@ -360,8 +658,8 @@ In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
 ##### Combining Security Policy Frameworks - Product Construction
 
 > [!Example]
-> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
-##### Non-Interference
+> ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
+##### ✅ Non-Interference
 > [!TIP] Theorem (Non-Interference for an arbitrary Security Policy Framework)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:
 > 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
@@ -441,7 +739,7 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
 2. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
 
 > [!example] Hospital Domain Example
-> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
+> ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
 #### Security Lattice
 
 #### Ordering
@@ -450,7 +748,7 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
 
 #### The Act as Relation
 
-#### Declassification
+#### ✅ Declassification
 > [!Example] 
 > 
 > ```
@@ -474,7 +772,7 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
 
 
 
-## 🎯 IFC Enforcement Mechanisms
+## 🎯 IFC Enforcement Mechanisms (Syntactic / Operational)
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Information_flow_control
 
 A mechanism for _information flow control_ is one that enforces information flow policies. Several methods to enforce information flow policies have been proposed. Run-time mechanisms that tag data with information flow labels have been employed at the [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") level and at the [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") level. Static program analyses have also been developed that ensure information flows within programs are in accordance with policies.
@@ -560,7 +858,7 @@ We simplify the paper a bit:
 
 ###### Semantics
 
-###### Non-Interference
+###### ✅ Non-Interference
 
 > [!TIP] Theorem (Non-Interference instantiated for $L \sqsubseteq H$-security)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:
@@ -598,7 +896,7 @@ We simplify the paper a bit:
 > 
 > Question: How can we become more general?
 > Answer: Security Policy Frameworks for Mandatory Access Control.
-##### Jif (DLM-based)
+##### Jif (DLM-based Type System)
 > 📄 Myers, Andrew C., and Barbara Liskov. "A decentralized model for information flow control." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 129-142.
 #### Analysis-Based IFC (Program Analysis Techniques)
 ↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
@@ -607,7 +905,18 @@ We simplify the paper a bit:
 
 
 ### Dynamic Enforcement
-#### No Sensitive Upgrade
+#### Declassification Approaches for Implicit Flows
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+An implicit flow occurs when code whose conditional execution is based on private information updates a public variable. This is especially problematic when multiple executions are considered since an attacker could leverage the public variable to infer private information by observing how its value changes over time or with the input.
+##### The naïve approach
+> 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
+
+The naïve approach consists on enforcing the confidentiality property on all variables whose value is affected by other variables. This method leads to partially leaked information due to on some instances of the application a variable is Low and in others High.
+
+Other approaches
+- see below "IFC enforcement machanisms"
+##### No Sensitive Upgrade (NSU)
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
 
 "No sensitive upgrade" halts the program whenever a High variable affects the value of a Low variable. Since it simply looks for expressions where an [information leakage](https://en.wikipedia.org/wiki/Information_leakage "Information leakage") might happen, without looking at the context, it may halt a program that, despite having potential information leakage, never actually leaks information.
@@ -622,11 +931,11 @@ return true
 ```
 
 In this case the program would be halted since—syntactically speaking—it uses the value of a High variable to change a Low variable, despite the program never leaking information.
-#### Permissive Upgrade
+##### Permissive Upgrade (PU)
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
 
 Permissive-upgrade introduces an extra security class P which will identify information leaking variables. When a High variable affects the value of a Low variable, the latter is labeled P. If a P labeled variable affects a Low variable the program would be halted. To prevent the halting the Low and P variables should be converted to High using a privatization function to ensure no information leakage can occur. On subsequent instances the program will run without interruption.
-#### Privatization Inference
+##### Privatization Inference
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
 
 Privatization inference extends permissive upgrade to automatically apply the privatization function to any variable that might leak information. This method should be used during testing where it will convert most variables. Once the program moves into production the permissive-upgrade should be used to halt the program in case of an information leakage and the privatization functions can be updated to prevent subsequent leaks.
