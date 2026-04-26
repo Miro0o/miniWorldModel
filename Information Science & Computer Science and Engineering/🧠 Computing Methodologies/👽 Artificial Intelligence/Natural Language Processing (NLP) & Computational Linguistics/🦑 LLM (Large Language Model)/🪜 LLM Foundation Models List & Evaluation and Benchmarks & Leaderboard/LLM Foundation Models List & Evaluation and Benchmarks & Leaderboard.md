@@ -263,7 +263,7 @@ Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI c
 https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
 Open LLM Leaderboard
 
-https://artificialanalysis.ai/leaderboards/models
+👍 https://artificialanalysis.ai/leaderboards/models
 Comparison and ranking the performance of over 30 AI models (LLMs) across key metrics including quality, price, performance and speed (output speed - tokens per second & latency - TTFT), context window & others. For more details including relating to our methodology, see our [FAQs.](https://artificialanalysis.ai/faq)
 
 https://tatsu-lab.github.io/alpaca_eval/

@@ -37,7 +37,7 @@
 
 ## 👉 LLM (Large Language Model) Explainability
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [LLM Explainability](🥺%20LLM%20Explainability/LLM%20Explainability.md)
+↗ [(M)LLM Explainability](🥺%20(M)LLM%20Explainability/(M)LLM%20Explainability.md)
 
 
 

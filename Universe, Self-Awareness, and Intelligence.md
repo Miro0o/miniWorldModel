@@ -1330,6 +1330,9 @@ tbd.
 
 
 ### 人类之外：还有谁？
+> [!links]
+> ↗ [Extraterrestrial Life & Extraterrestrial Intelligence (ETI)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI).md)
+
 > [!Abstract]
 > https://www.aaro.mil/
 > 
@@ -1651,3 +1654,5 @@ https://en.wikipedia.org/wiki/Complex_system
 [52 【兴趣爱好分类 - 一心一怿 | 小红书 - 你的生活兴趣社区】 😆 jChby4UxkWyXUhz 😆]: https://www.xiaohongshu.com/discovery/item/6821fdd2000000002202ef1f?source=webshare&xhsshare=pc_web&xsec_token=AB4PQh59PvaYOc8Khi7DYLwTd-p5ehjvHZpuGUVovOU5w=&xsec_source=pc_share
 
 [19 【因为一篇帖子了解了“逻辑建构者” - 古典猫 | 小红书 - 你的生活兴趣社区】 😆 DSJLZsce8GSAdb8 😆]: https://www.xiaohongshu.com/discovery/item/680dd242000000001200ce78?source=webshare&xhsshare=pc_web&xsec_token=ABgpo-EqKhYvSF4qXBaO2kp1GAlzXauqcbBAWTPmU2Mc4=&xsec_source=pc_share
+
+[黄晓丹：《与诗人一起梦游》第一讲《屈原：时间的焦虑》]: https://www.douban.com/note/775468012/?_i=72087134QqulwK

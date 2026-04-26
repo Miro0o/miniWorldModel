@@ -13,6 +13,13 @@
 ↗ [AI4Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
 
 
+### Papers
+https://arxiv.org/abs/2603.01896
+Agentic Code Reasoning 
+Shubham Ugare, Satish Chandra 
+Meta, USA
+
+
 ### Other Resources
 https://github.com/weitianxin/Awesome-Agentic-Reasoning
 - **[01/21/26]** 🚀 We have released a comprehensive survey on _**Agentic Reasoning for Large Language Models**_! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
@@ -51,11 +58,6 @@ https://github.com/weitianxin/Awesome-Agentic-Reasoning
 	        - [Medical and Clinical Agents](https://github.com/weitianxin/Awesome-Agentic-Reasoning?tab=readme-ov-file#medical-and-clinical-agents)
 	        - [Web Agents](https://github.com/weitianxin/Awesome-Agentic-Reasoning?tab=readme-ov-file#web-agents)
 	        - [General Tool-Use Agents](https://github.com/weitianxin/Awesome-Agentic-Reasoning?tab=readme-ov-file#general-tool-use-agents)
-
-https://arxiv.org/abs/2603.01896
-Agentic Code Reasoning 
-Shubham Ugare, Satish Chandra 
-Meta, USA
 
 
 

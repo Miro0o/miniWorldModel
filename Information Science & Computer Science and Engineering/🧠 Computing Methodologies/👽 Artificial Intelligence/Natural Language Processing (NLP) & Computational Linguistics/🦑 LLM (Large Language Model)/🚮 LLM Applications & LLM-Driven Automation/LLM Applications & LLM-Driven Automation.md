@@ -65,7 +65,7 @@ Latest AI app development platform Build your agents without code and release th
 
 ## 3️⃣ LLM Automation (Searching + Generation + Others)
 > [!links]
-> ↗ [LLM Agents, AI Workflow, & Agentic MLLM](🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+> ↗ [Agentic LLMs & AI Workflow](🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 > ↗ [AI Powered Dev & Vibe Coding](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
 
 https://github.com/web-infra-dev/midscene

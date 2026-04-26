@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [Agentic LLMs & AI Workflow](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 ↗ [AIGC WorkFlow & Agents](../🌀%20AIGC%20WorkFlow%20&%20Agents/AIGC%20WorkFlow%20&%20Agents.md)
 
 ↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
@@ -30,6 +30,12 @@ V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Plan
 
 https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
 We introduce HunyuanWorld-Voyager, a novel video diffusion framework that generates world-consistent 3D point-cloud sequences from a single image with user-defined camera path. Voyager can generate 3D-consistent scene videos for world exploration following custom camera trajectories. It can also generate aligned depth and RGB video for efficient and direct 3D reconstruction.
+
+https://le-wm.github.io/
+https://arxiv.org/pdf/2603.19312v1
+LeWorldModel: Stable End-to-End JEPA from Pixels
+- [Lucas Maes*](https://x.com/lucasmaes_)1, [Quentin Le Lidec*](https://quentinll.github.io/)2, [Damien Scieur](https://mila.quebec/en/directory/damien-scieur)1,3, [Yann LeCun](http://yann.lecun.com/)2, [Randall Balestriero](https://randallbalestriero.github.io/)4,
+- Joint Embedding Predictive Architectures (JEPAs) offer a compelling framework for learning world models in compact latent spaces, yet existing methods remain fragile, relying on complex multi-term losses, exponential moving averages, pretrained encoders, or auxiliary supervision to avoid representation collapse. In this work, we introduce LeWorldModel (LeWM), the first JEPA that trains stably end-to-end from raw pixels using only two loss terms: a next-embedding prediction loss and a regularizer enforcing Gaussian-distributed latent embeddings. This reduces tunable loss hyperparameters from six to one compared to the only existing end-to-end alternative. With 15M parameters trainable on a single GPU in a few hours, LeWM plans up to 48× faster than foundation-model-based world models while remaining competitive across diverse 2D and 3D control tasks. Beyond control, we show that LeWM’s latent space encodes meaningful physical structure through probing of physical quantities. Surprise evaluation confirms that the model reliably detects physically implausible events.
 
 
 ### Learning Resources

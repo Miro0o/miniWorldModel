@@ -22,10 +22,14 @@
 ↗ [Software Engineering](../../../Software%20Engineering/Software%20Engineering.md)
 
 ↗ [AI4Security](../../🫧%20AI4Security/AI4Security.md)
-↗ [LLM For Security](../../🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
+- ↗ [LLM For Security](../../🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
+- ↗ [Traditional ML & DL for Security](../../🫧%20AI4Security/Traditional%20ML%20&%20DL%20for%20Security/Traditional%20ML%20&%20DL%20for%20Security.md)
 
 
 ### Papers & Research
+https://langsec.org/
+LANGSEC: Language-theoretic Security
+"The View from the Tower of Babel"
 
 
 ### Learning Resources

@@ -29,3 +29,4 @@ Key Features
 
 ## Ref
 [vLLM: Easily Deploying & Serving LLM]: https://youtu.be/q5IF2PHA5SA
+[读完nanovllm，离vLLM还远吗?]: http://xhslink.com/o/5LVulTlGpuo 

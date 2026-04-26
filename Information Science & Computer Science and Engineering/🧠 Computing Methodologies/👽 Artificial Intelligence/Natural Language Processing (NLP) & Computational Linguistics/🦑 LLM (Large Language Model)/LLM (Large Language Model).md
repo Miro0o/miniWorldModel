@@ -331,8 +331,25 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 - [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) - This paper list focuses on the theoretical or empirical analysis of language models, e.g., the learning dynamics, expressive capacity, interpretability, generalization, and other interesting topics.
 
+https://www.percepta.ai/blog/can-llms-be-computers
+Can LLMs Be Computers?
+Executing programs inside transformers with exponentially faster inference
+- Language models can solve tough math problems at research grade but struggle on simple computational tasks that involve reasoning over many steps and long context. Even multiplying two numbers or solving small Sudokus is nearly impossible unless they rely on external tools.
+- But what does it take for an LLM itself to be as reliable and efficient as a computer?
+- We answer this by literally building a computer inside a transformer. We turn arbitrary C code into tokens that the model itself can execute reliably for millions of steps in seconds.
+- Here is how it works when solving an optimization problem that proceeds in many steps, namely min-cost perfect matching1 via the Hungarian algorithm.
+
+https://arxiv.org/pdf/2604.06425
+https://arxiv.org/abs/2604.06425
+Neural Computers
+We propose a new frontier: Neural Computers (NCs) that unify computation, memory, and I/O of traditional computers in a learned runtime state. Our long-term goal is the Completely Neural Computer (CNC): the mature, general-purpose realization of this emerging machine form, with stable execution, explicit reprogramming, and durable capability reuse. As an initial step, we study whether elementary NC primitives can be learned solely from collected I/O traces, without instrumented program state. Concretely, we instantiate NCs as video models that roll out screen frames from instructions, pixels, and user actions (when available) in CLI and GUI settings. We show that NCs can acquire elementary interface primitives, especially I/O alignment and short-horizon control, while routine reuse, controlled updates, and symbolic stability remain challenging. We outline a roadmap toward CNCs, to establish a new computing paradigm beyond today’s agents and conventional computers.
+
 
 ### Other Resources
+https://hai.stanford.edu/ai-index
+AI Index
+The mission of the AI Index is to provide unbiased, rigorously vetted, and globally sourced data for policymakers, researchers, journalists, executives, and the general public to develop a deeper understanding of the complex field of AI. To achieve this, we track, collate, distill, and visualize data relating to artificial intelligence.
+
 🎬 https://youtu.be/OFS90-FX6pg?si=hlsJj4DUWzGrZ_V-
 The Origin of ChatGPT | Art of the Problem
 I follow the 35 year journey that led to the explosion of Large Language Models. From Jordan's pioneering work in 1986 to today's GPT-4, this documentary traces how AI learned to talk. Featuring insights from AI pioneers including Chomsky, Hofstadter, Hinton, and LeCun, exploring the revolutionary concepts that made ChatGPT possible: transformer architecture, attention mechanism, next-token prediction, and emergent capabilities. Next video following open ai's o1 model My script, references & visualizations here: https://docs.google.com/document/d/1s7FNPoKPW9y3EhvzNgexJaEG2pP4Fx_rmI4askoKZPA/edit?usp=sharing
@@ -436,11 +453,13 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 ### LLM Applications & LLM-Driven Automation
 ↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
-#### Agentic LLM and LLM OS
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
-↗ [AI Agent Assistants (General Purpose) & LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
-#### Artificial General Intelligence?
-↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+
+Agentic LLM and LLM OS
+- ↗ [Agentic LLMs & AI Workflow](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+- ↗ [AI Agent Assistants (General Purpose) & LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+
+Artificial General Intelligence?
+- ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
 
 
@@ -535,6 +554,15 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 
+## LLM Limitations & Horizon Outlook
+- [x] Multi-modal ability in one model
+- [ ] LLM don't have inherent memory system. It can be stateful at present only because we keep feeding previous chat history in each chat round.
+- [ ] LLM cannot learn during inference. it has to be "pre-trained" first, then "post-trained", then put into application (inference). This is chained with previous "no memory" issue. Because LLM cannot remember previous mistakes /experiences, and thus cannot internalize those information into its own knowledge for future use.
+- [ ] LLM don't have sentimental mechanism. Of course it can simulate and "react" in different sentiments, but it does not actually "feel".
+- [ ] LLM is prompt-driven. It do not have self-awareness.
+
+
+
 ## Ref
 [什么是LLM大语言模型？Large Language Model，从量变到质变 - 艾凡AFan的文章 - 知乎]: https://zhuanlan.zhihu.com/p/622518771
 
@@ -571,3 +599,5 @@ Gruber & Tal: [The Market Opportunity Navigator](https://wheretoplay.co/the-nav
 [(1hr Talk) Intro to Large Language Models | Andrej Karpathy]: https://youtu.be/zjkBMFhNj_g?si=G546Rtz9r9hc233z
 
 [🤔 大语言模型的成功否定了乔姆斯基的普遍语法]: http://xhslink.com/o/5hvBkMxyUli
+
+[Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast]: https://youtu.be/vif8NQcjVf0?si=BSZQsouaan-kVLr4

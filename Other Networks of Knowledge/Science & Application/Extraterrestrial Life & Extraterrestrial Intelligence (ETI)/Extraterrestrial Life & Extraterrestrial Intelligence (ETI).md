@@ -24,6 +24,9 @@
 - [Sentiocentrism](https://en.wikipedia.org/wiki/Sentiocentrism "Sentiocentrism")
 - _[Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](https://en.wikipedia.org/wiki/Extraterrestrial:_The_First_Sign_of_Intelligent_Life_Beyond_Earth "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")_, 2021 popular science book by [Avi Loeb](https://en.wikipedia.org/wiki/Avi_Loeb "Avi Loeb")
 
+🎬 https://youtube.com/playlist?list=PLob1mZcVWOaiVxrCiEyYXcAbmx7UY8ggW&si=07hHNA8gpQIr-jrW
+Ancient Aliens: Official Series Playlist | History
+
 
 
 ## Intro

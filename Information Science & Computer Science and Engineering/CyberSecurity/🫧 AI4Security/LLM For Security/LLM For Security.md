@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [LLM (Large Language Model)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-- ↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+- ↗ [Agentic LLMs & AI Workflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 
 ↗ [Attack Simulation - Red, Blue, Purple, White](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
@@ -21,6 +21,8 @@
 ↗ [LLM & Supply Chain Security](../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
 ↗ [Trust-worthy AI & LLM Safety and Security](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
+
+↗ [Anthropic Claude](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
 
 
 ### Papers
@@ -134,3 +136,13 @@ LLMs 的兴起也引入了关于它们可信度的担忧。与传统语言模型
 
 [Claude Code Security 技术原理全拆解，传统安全扫描工具真扛不住了? ｜ 源码七号站]: https://mp.weixin.qq.com/s/Y43YyWMLYnlSbEbBGILvdw
 [Anthropic一篇博客，IBM大跌13%，创25年来最大单日跌幅 | 量子位]: https://mp.weixin.qq.com/s/rbWKuLY5NF7DMM-2binZmg
+
+[登顶顶会 ｜ BlockSec 与浙江大学联合论文入选 FSE 2026：AI 审计，离真实安全研究更近了一步]: https://mp.weixin.qq.com/s/KdFjZQjYQ4SshJGBF58Mwg
+BlockSec 与浙江大学联合完成的研究论文 **《Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model》** 已被软件工程顶级会议 FSE 2026 收录。
+
+[ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation]: https://arxiv.org/abs/2603.09358
+- [Wenhao Yan](https://arxiv.org/search/cs?searchtype=author&query=Yan,+W), [Ning An](https://arxiv.org/search/cs?searchtype=author&query=An,+N), [Linxu Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+L), [Bingsheng Bi](https://arxiv.org/search/cs?searchtype=author&query=Bi,+B), [Bo Jiang](https://arxiv.org/search/cs?searchtype=author&query=Jiang,+B), [Zhigang Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu,+Z), [Baoxu Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+B), [Junrong Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+J), [Cong Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong,+C)
+- Advanced Persistent Threats (APTs) pose critical challenges to modern cybersecurity due to their multi-stage and stealthy nature. While provenance-based detection approaches show promise in capturing causal attack semantics, current threat provenance practices face two paradoxical issues: (1) expert skepticism, where human analysts doubt the capability of traditional detection models to identify complex attacks; and (2) expert dependence, as analysts cannot manually process large-scale raw logs to detect threats without these models. Consequently, collaboration between humans and traditional models remains the prevailing paradigm. However, this renders investigation quality contingent upon human expertise and frequently results in alert fatigue. To address these challenges, we present ProvAgent, a framework that evolves the threat provenance paradigm from human-model collaboration to a novel collaboration between multi-agent systems and traditional models. ProvAgent leverages the speed and cost-efficiency of traditional models for initial anomaly screening over large-scale logs. By enforcing fine-grained identity-behavior consistency via graph contrastive learning, it profiles entities based on specific attributes to generate high-fidelity alerts. With these alerts serving as investigation entry points, ProvAgent achieves in-depth autonomous investigation through a hypothesis-verification multi-agent framework. Evaluations with real-world datasets demonstrate that ProvAgent outperforms six state-of-the-art (SOTA) baselines in anomaly detection. Through automated investigation, ProvAgent reconstructs near-complete attack processes at a minimum cost of $0.06 per day.
+
+[Assessing Claude Mythos Preview’s cybersecurity capabilities]: https://red.anthropic.com/2026/mythos-preview/ "April 7, 2026"
+[Evaluating and mitigating the growing risk of LLM-discovered 0-days]: https://red.anthropic.com/2026/zero-days/ "February 5, 2026"

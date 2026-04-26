@@ -16,6 +16,8 @@
 
 
 ### Other Resources
+https://polymarket.com/
+**Polymarket** is an American [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency "Cryptocurrency")-based [prediction market](https://en.wikipedia.org/wiki/Prediction_market "Prediction market") which offers a platform where individuals can place [bets](https://en.wikipedia.org/wiki/Bets "Bets") on future outcomes, including sports matches, [economic indicators](https://en.wikipedia.org/wiki/Economic_indicator "Economic indicator"), weather patterns, awards, political and legislative outcomes, and military conflicts. Participants can deposit [USDC](https://en.wikipedia.org/wiki/USD_Coin "USD Coin") [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency "Cryptocurrency") through the [Polygon blockchain network](https://en.wikipedia.org/wiki/Polygon_\(blockchain\) "Polygon (blockchain)") and trade shares that represent the likelihood of specific future outcomes. The company is headquartered in New York City, and the platform was launched in 2020.
 
 
 

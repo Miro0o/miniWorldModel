@@ -863,7 +863,7 @@ https://sdgs.un.org/
 - 貧困問題
 
 
-### The Reviving of China ⭐
+### The Reviving of China: 中华民族 ⭐
 ![](../../Assets/Pics/Pasted%20image%2020260416135414.png)
 <small>The global contribution to world's GDP by major economies (1-2008) Source: MADDISON A. 2007, Contours of the World Economy I-2030AD, Oxford University Press
 </small>

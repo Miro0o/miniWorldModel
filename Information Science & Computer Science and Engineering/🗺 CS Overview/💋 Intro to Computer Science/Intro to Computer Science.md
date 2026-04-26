@@ -518,7 +518,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 			1. ↗ [Differential Calculus & Derivative of Function](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 			2. ↗ [Definite Integral](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Integral%20of%20Function/Definite%20Integral.md)
 			3. ↗ [Indefinite Integral](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Integral%20of%20Function/Indefinite%20Integral.md)
-	3. Reasoning via language? Logic?
+	3. Reasoning via language & Logic
 		1. ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 		2. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "types of proof"
 			1. ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)

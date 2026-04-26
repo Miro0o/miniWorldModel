@@ -23,6 +23,8 @@ Vision encoders have remained comparatively small while language models scaled f
 
 
 ### Other Resources
+https://github.com/freestylefly/awesome-gpt-image-2
+Prompt as Code | GPT-Image2 工业级提示词引擎与模板库
 
 
 

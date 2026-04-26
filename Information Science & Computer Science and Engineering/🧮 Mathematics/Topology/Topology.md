@@ -8,6 +8,19 @@
 ### Related Topics
 
 
+### Learning Resources
+https://friedl.app.uni-regensburg.de/topologynotes.html
+Topology lecture notes:
+- The complete [Full topology lectures notes (4785 pages)](https://friedl.app.uni-regensburg.de/papers/1t-total-public-october-7-2024.pdf)
+- Lecture notes for für [Algebraic topology I-III (1277 pages)](https://friedl.app.uni-regensburg.de/papers/1t-total--algebraic-topology-3.5.-final-v2.pdf)
+- Lecture notes for für [Knot theory (248 pages)](https://friedl.app.uni-regensburg.de/papers/2024_knot-theory-final.pdf)
+
+![](../../../Assets/Pics/Screenshot%202026-04-26%20at%2014.53.41.png)
+
+
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://thzt.github.io/2018/02/09/semantics-7/

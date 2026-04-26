@@ -34,5 +34,12 @@ $$P(\theta | \text{Data}) \propto P(\text{Data} | \theta) \times P(\theta)$$
 - **Posterior $P(\theta | \text{Data})$:** Your new belief after factoring in the data.
 
 
+### Bayes' Theorem
+> 🔗 https://en.wikipedia.org/wiki/Bayesian_statistics#Bayes'_theorem
+
+
+### Bayesian Methods
+
+
 
 ## Ref

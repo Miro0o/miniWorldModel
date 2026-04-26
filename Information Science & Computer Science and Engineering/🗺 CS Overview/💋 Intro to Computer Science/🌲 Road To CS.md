@@ -1377,6 +1377,11 @@ Sinya Lee   李新野
 Welcome to my homepage. I am the founder and CEO of [Alpha Star Research Company](https://alpha-star-research.com/), an AI-powered quantitative proprietary trading firm based in New York City.
 - https://pincong.rocks/question/32017
 
+---
+https://scf.so/
+Chaofan Shou
+I am a software engineer building high-performance SVM blockchain at [Solayer](https://solayer.org/). I joined Solayer through its acquisition of [Fuzzland](https://fuzz.land/), the Web3 security and HFT company I co‑founded and served as CTO. Fuzzland has helped rescue $30M+ from hackers and is currently protecting/managing over $5B in assets. Previously, I was a founding engineer at [Veridise](https://veridise.com/), leading development of automated testing tools for smart contracts and blockchains, and before that I was a security engineer at Salesforce, working on SAST solutions, internal network‑scanning services, and data pipelines. Earlier in my career, I pursued a Ph.D. at UC Berkeley in the [Sky Computing Lab](https://sky.cs.berkeley.edu/), advised by [Prof. Koushik Sen](https://people.eecs.berkeley.edu/~ksen/), but I dropped out :p. My interests include program analysis, security, and distributed systems.
+
 
 ### Campus Lifes
 ↗ [（大陆高校）大学生活质量指北](../Appendix/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)

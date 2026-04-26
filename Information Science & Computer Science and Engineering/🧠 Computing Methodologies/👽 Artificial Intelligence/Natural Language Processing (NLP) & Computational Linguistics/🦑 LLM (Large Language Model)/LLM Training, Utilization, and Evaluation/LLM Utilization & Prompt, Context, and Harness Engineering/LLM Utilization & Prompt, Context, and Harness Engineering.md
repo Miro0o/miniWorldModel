@@ -7,9 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [LLM Applications & LLM-Driven Automation](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
+↗ [Agentic LLMs & AI Workflow](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 
-↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
 
@@ -54,6 +54,9 @@ https://latitude.so/developers
 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 System Prompts and Models of AI Tools
 
+https://x.com/zodchiii/status/2034924354337714642?s=20
+Top 50 Claude Skills & GitHub  Repos for AI — The Only List You  Need.
+
 
 
 ## Intro
@@ -61,7 +64,7 @@ System Prompts and Models of AI Tools
 
 
 ### Model Reasoning
-↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
 ↗ [AI4Math](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
@@ -134,20 +137,69 @@ Solution:
 For a variety of applications, basic prompt engineering of a very large LLM can deliver ‘good enough’ accuracy. It provides an economical adaptation method because it is fast and doesn’t involve large amounts of computing power. The downside is that it’s simply not accurate or robust enough for use cases additional background knowledge is required.
 
 
-### Agent Skills
-↗ [LLM Agents, AI Workflow, & Agentic MLLM](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM.md)
-↗ [AI Agent Assistants (General Purpose) & LLM OS](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20LLM%20Agents,%20AI%20Workflow,%20&%20Agentic%20MLLM/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+### Agentic Techniques
+> [!links]
+> ↗ [Agentic LLMs & AI Workflow](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+> - ↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+> - ↗ [MCP (Model Context Protocol)](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/MCP%20(Model%20Context%20Protocol)/MCP%20(Model%20Context%20Protocol).md)
+> 
+> ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
+> ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+#### Agent Skills
+> [!Abstract]
+> Anthropic: "[Introducing Agent Skills](https://www.anthropic.com/news/skills)"
+> - Claude can now use _Skills_ to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.
+> - Claude will only access a skill when it's relevant to the task at hand. When used, skills make Claude better at specialized tasks like working with Excel or following your organization's brand guidelines.
+> 
+> Anthropic: ["Equipping agents for the world with Agent Skills"](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+
+> [!Abstract] Skills Collections
+> 
+> https://github.com/ljagiello/ctf-skills
+> Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
+
+> 🔗 https://agentskills.io/home
+
+Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently.
+```
+my-skill/
+├── SKILL.md          # Required: instructions + metadata
+├── scripts/          # Optional: executable code
+├── references/       # Optional: documentation
+└── assets/           # Optional: templates, resources
+```
+
+Why Agent Skills?
+Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledge and company-, team-, and user-specific context they can load on demand. Agents with access to a set of skills can extend their capabilities based on the task they’re working on.**For skill authors**: Build capabilities once and deploy them across multiple agent products.**For compatible agents**: Support for skills lets end users give agents new capabilities out of the box.**For teams and enterprises**: Capture organizational knowledge in portable, version-controlled packages.
+
+What can Agent Skills enable?
+- **Domain expertise**: Package specialized knowledge into reusable instructions, from legal review processes to data analysis pipelines.
+- **New capabilities**: Give agents new capabilities (e.g. creating presentations, building MCP servers, analyzing datasets).
+- **Repeatable workflows**: Turn multi-step tasks into consistent and auditable workflows.
+- **Interoperability**: Reuse the same skill across different skills-compatible agent products.
 
 
 
 ## Context Engineering
+> [!Abstract]
+> https://arxiv.org/abs/2507.13334
+> A Survey of Context Engineering for Large Language Models
+> - [Lingrui Mei](https://arxiv.org/search/cs?searchtype=author&query=Mei,+L), [Jiayu Yao](https://arxiv.org/search/cs?searchtype=author&query=Yao,+J), [Yuyao Ge](https://arxiv.org/search/cs?searchtype=author&query=Ge,+Y), [Yiwei Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang,+Y), [Baolong Bi](https://arxiv.org/search/cs?searchtype=author&query=Bi,+B), [Yujun Cai](https://arxiv.org/search/cs?searchtype=author&query=Cai,+Y), [Jiazhi Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+J), [Mingyu Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+M), [Zhong-Zhi Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+Z), [Duzhen Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+D), [Chenlin Zhou](https://arxiv.org/search/cs?searchtype=author&query=Zhou,+C), [Jiayi Mao](https://arxiv.org/search/cs?searchtype=author&query=Mao,+J), [Tianze Xia](https://arxiv.org/search/cs?searchtype=author&query=Xia,+T), [Jiafeng Guo](https://arxiv.org/search/cs?searchtype=author&query=Guo,+J), [Shenghua Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+S)
 
 
 
-## Harness Engineering
+## (LLM Agent) Harness Engineering
+> [!Abstract]
+> https://www.anthropic.com/engineering/harness-design-long-running-apps
+> Harness design for long-running application development (Published Mar 24, 2026)
+> Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.
+> 
+> https://openai.com/index/harness-engineering/
+> Harness engineering: leveraging Codex in an agent-first world By Ryan Lopopolo, Member of the Technical Staff (February 11, 2026)
+> **Our most difficult challenges now center on designing environments, feedback loops, and control systems** that help agents accomplish our goal: build and maintain complex, reliable software at scale.
+
 > [!links]
 > ↗ [Cybernetics & Control Theory](../../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-
 
 
 ## Ref
@@ -168,3 +220,10 @@ The OpenAI team says: “Our most difficult challenges now center on designing e
 [Harness Engineering Is Cybernetics ]: https://x.com/odysseus0z/status/2030416758138634583?s=20
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020260315193222.png)
 The generation-verification asymmetry — the intuition behind [P vs NP](https://en.wikipedia.org/wiki/P_versus_NP_problem) ,[demonstrated empirically for LLMs](https://arxiv.org/abs/2110.14168) by Cobbe et al. — points to where this goes. Generating a correct solution is harder than verifying one. You don't need to out-implement the machine. You need to out-evaluate it: specify what "correct" looks like, recognize when the output misses, judge whether the direction is right.
+
+[Your harness, your memory]: https://x.com/hwchase17/status/2042978500567609738?s=20
+The “best” way to build agentic systems has changed dramatically over the past three years. When ChatGPT came out, all you could do were simple RAG chains ([LangChain](https://github.com/langchain-ai/langchain)). Then the models got a little better, and could create more complex flows ([LangGraph](https://github.com/langchain-ai/langgraph)). Then they got a lot better, and that gave rise to a new type of scaffolding - [agent harnesses](https://blog.langchain.com/the-anatomy-of-an-agent-harness/). Examples of agent harnesses include [Claude Code](https://code.claude.com/docs/en/overview), [Deep Agents](https://github.com/langchain-ai/deepagents), [Pi](https://github.com/badlogic/pi-mono) (powers [OpenClaw](https://docs.openclaw.ai/) ), [OpenCode](https://opencode.ai/), [Codex](https://openai.com/codex/), [Letta Code](https://www.letta.com/blog/letta-code), and many more.
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020260425205813.png)
+
+[Using Git with coding agents]: https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/

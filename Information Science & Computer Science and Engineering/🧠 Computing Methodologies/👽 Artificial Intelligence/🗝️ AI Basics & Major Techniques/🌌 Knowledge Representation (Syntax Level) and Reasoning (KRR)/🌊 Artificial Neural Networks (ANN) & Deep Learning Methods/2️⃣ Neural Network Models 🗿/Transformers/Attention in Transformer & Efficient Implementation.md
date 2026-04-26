@@ -13,6 +13,8 @@
 ↗ [MiniMax](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/MiniMax.md)
 ↗ [StepFun](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Other%20Models/StepFun.md)
 
+↗ [LLM Infrastructure & Deployment](../../../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
+
 
 ### Papers
 https://attention-survey.github.io/
@@ -49,6 +51,10 @@ Visualizing transformers and attention | Talk for TNG Big Tech Day '24
 Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
 🎬 https://youtu.be/zxQyTK8quyY?si=vvSM36i8tdvo_6z_
 Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!
+
+👍 https://magazine.sebastianraschka.com/p/visual-attention-variants
+A Visual Guide to Attention Variants in Modern LLMs
+From MHA and GQA to MLA, sparse attention, and hybrid architectures
 
 
 
@@ -123,3 +129,4 @@ Inspired by ideas about [attention in humans](https://en.wikipedia.org/wiki/Att
 
 
 ## Ref
+[必看！Sebastian Raschka新博客盘点了所有主要注意力机制]: https://mp.weixin.qq.com/s/xm0EXBmn8QbyzBt3X4GY7A

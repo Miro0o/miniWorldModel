@@ -1,4 +1,4 @@
-# LLM Agents, AI Workflow, & Agentic MLLM
+# Agentic LLMs & AI Workflow
 
 [TOC]
 
@@ -126,38 +126,12 @@ Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://am
 ![|800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/MCP.excalidraw.md)
 
 
-### Agentic LLM Workflows
+### LLM Agent Utilization & Workflows
+↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
+↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 
-
-
-## Agent Skills
-> [!Links]
-> ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
-
-> 🔗 https://agentskills.io/home
-
-Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently.
-```
-my-skill/
-├── SKILL.md          # Required: instructions + metadata
-├── scripts/          # Optional: executable code
-├── references/       # Optional: documentation
-└── assets/           # Optional: templates, resources
-```
-
-Why Agent Skills?
-Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledge and company-, team-, and user-specific context they can load on demand. Agents with access to a set of skills can extend their capabilities based on the task they’re working on.**For skill authors**: Build capabilities once and deploy them across multiple agent products.**For compatible agents**: Support for skills lets end users give agents new capabilities out of the box.**For teams and enterprises**: Capture organizational knowledge in portable, version-controlled packages.
-
-What can Agent Skills enable?
-- **Domain expertise**: Package specialized knowledge into reusable instructions, from legal review processes to data analysis pipelines.
-- **New capabilities**: Give agents new capabilities (e.g. creating presentations, building MCP servers, analyzing datasets).
-- **Repeatable workflows**: Turn multi-step tasks into consistent and auditable workflows.
-- **Interoperability**: Reuse the same skill across different skills-compatible agent products.
-
-
-### Skills Collections
-https://github.com/ljagiello/ctf-skills
-Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
+↗ [AI Agent Assistants (General Purpose) & LLM OS](AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+↗ [LLM Agentic Reasoning](📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 
 
 

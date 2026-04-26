@@ -11,6 +11,12 @@
 	- ↗ [Agentic AI Workflow Dev](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI API Call & AI Gateway](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20API%20Call%20&%20AI%20Gateway.md)
 
+↗ [OpenAI Codex](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/OpenAI%20Codex.md)
+↗ [Claude Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Claude%20Code.md)
+↗ [Kimi Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Kimi%20Code.md)
+↗ [OpenCode](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/OpenCode.md)
+↗ [Github Copilot](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20IDE%20&%20AI%20Coding%20Assistants/Github%20Copilot.md)
+
 
 ### Other Resources
 https://github.com/gnekt/My-Brain-Is-Full-Crew
@@ -38,4 +44,3 @@ Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiet
 Qwen模型+最全阿里生态强强联手，AI终于不只会聊天，也开始有模有样地替人上手做任务了。
 
 （ps：新功能现在已全面开放测试，大家可以直接搓搓搓！！）
-

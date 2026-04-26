@@ -61,6 +61,7 @@ Markov chains have many applications as [statistical models](https://en.wikiped
 ↗ [Continuous-Time Markov Chains (CTMC)](Continuous-Time%20Markov%20Chains%20(CTMC)/Continuous-Time%20Markov%20Chains%20(CTMC).md)
 
 
+> [!links`]
 > ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 > 🔗 https://www.modestchecker.net/
 

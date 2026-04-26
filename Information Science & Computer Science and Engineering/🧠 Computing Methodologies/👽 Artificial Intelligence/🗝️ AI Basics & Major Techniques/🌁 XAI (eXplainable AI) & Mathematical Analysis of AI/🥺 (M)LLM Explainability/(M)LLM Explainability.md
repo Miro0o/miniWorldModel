@@ -1,4 +1,4 @@
-# LLM Explainability
+# (M)LLM Explainability
 
 [TOC]
 
@@ -9,10 +9,26 @@
 ↗ [Logic (and Critical Thinking)](../../../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
+↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [Multimodal AI & MLLM](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+
+↗ [Generative Models](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20Generative%20Models/Generative%20Models.md)
+
+↗ [Transformers](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+↗ [Attention in Transformer & Efficient Implementation](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Attention%20in%20Transformer%20&%20Efficient%20Implementation.md)
+
+
+### Papers
+https://arxiv.org/abs/2603.21687
+MIRAGE: The Illusion of Visual Understanding
+[Mohammad Asadi](https://arxiv.org/search/cs?searchtype=author&query=Asadi,+M), [Jack W. O'Sullivan](https://arxiv.org/search/cs?searchtype=author&query=O%27Sullivan,+J+W), [Fang Cao](https://arxiv.org/search/cs?searchtype=author&query=Cao,+F), [Tahoura Nedaee](https://arxiv.org/search/cs?searchtype=author&query=Nedaee,+T), [Kamyar Rajabalifardi](https://arxiv.org/search/cs?searchtype=author&query=Rajabalifardi,+K), [Fei-Fei Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+F), [Ehsan Adeli](https://arxiv.org/search/cs?searchtype=author&query=Adeli,+E), [Euan Ashley](https://arxiv.org/search/cs?searchtype=author&query=Ashley,+E)
+- Multimodal AI systems have achieved remarkable performance across a broad range of real-world tasks, yet the mechanisms underlying visual-language reasoning remain surprisingly poorly understood. We report three findings that challenge prevailing assumptions about how these systems process and integrate visual information. First, Frontier models readily generate detailed image descriptions and elaborate reasoning traces, including pathology-biased clinical findings, for images never provided; we term this phenomenon mirage reasoning. Second, without any image input, models also attain strikingly high scores across general and medical multimodal benchmarks, bringing into question their utility and design. In the most extreme case, our model achieved the top rank on a standard chest X-ray question-answering benchmark without access to any images. Third, when models were explicitly instructed to guess answers without image access, rather than being implicitly prompted to assume images were present, performance declined markedly. Explicit guessing appears to engage a more conservative response regime, in contrast to the mirage regime in which models behave as though images have been provided. These findings expose fundamental vulnerabilities in how visual-language models reason and are evaluated, pointing to an urgent need for private benchmarks that eliminate textual cues enabling non-visual inference, particularly in medical contexts where miscalibrated AI carries the greatest consequence. We introduce B-Clean as a principled solution for fair, vision-grounded evaluation of multimodal AI systems.
+
 
 ### Other Resources
+#### Anthropic’sInterpretability Research
 👍 https://transformer-circuits.pub/
-Anthropic’sInterpretability Research
+Anthropic’s Interpretability Research
 A surprising fact about modern large language models is that nobody really knows how they work internally. The Interpretability team strives to change that — to understand these models to better plan for a future of safe AI.
 
 🤔 https://transformer-circuits.pub/2025/attribution-graphs/biology.html
@@ -38,6 +54,10 @@ A surprising fact about modern large language models is that nobody really knows
 https://transformer-circuits.pub/2025/attribution-graphs/methods.html
 **Circuit Tracing: Revealing Computational Graphs in Language Models | Anthropic**
 - We introduce a method to uncover mechanisms underlying behaviors of language models. We produce graph descriptions of the model’s computation on prompts of interest by tracing individual computational steps in a “replacement model”. This replacement model substitutes a more interpretable component (here, a “cross-layer transcoder”) for parts of the underlying model (here, the multi-layer perceptrons) that it is trained to approximate. We develop a suite of visualization and validation tools we use to investigate these “attribution graphs” supporting simple behaviors of an 18-layer language model, and lay the groundwork for a [companion paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) applying these methods to a frontier model, Claude 3.5 Haiku.
+
+https://transformer-circuits.pub/2026/emotions/index.html
+Emotion Concepts and their Function in a Large Language Model
+- Large language models (LLMs) sometimes appear to exhibit emotional reactions. We investigate why this is the case in Claude Sonnet 4.5 and explore implications for alignment-relevant behavior. We find internal representations of emotion concepts, which encode the broad concept of a particular emotion and generalize across contexts and behaviors it might be linked to. These representations track the operative emotion concept at a given token position in a conversation, activating in accordance with that emotion’s relevance to processing the present context and predicting upcoming text. Our key finding is that these representations causally influence the LLM’s outputs, including Claude’s preferences and its rate of exhibiting misaligned behaviors such as reward hacking, blackmail, and sycophancy. We refer to this phenomenon as the LLM exhibiting functional emotions: patterns of expression and behavior modeled after humans under the influence of an emotion, which are mediated by underlying abstract representations of emotion concepts. Functional emotions may work quite differently from human emotions, and do not imply that LLMs have any subjective experience of emotions, but appear to be important for understanding the model’s behavior.
 
 
 
@@ -80,3 +100,5 @@ Other innovations in this area include **Retrieval-Augmented Generation (RAG)** 
 ## Ref
 [LLM与可解释性 - 金琴的文章 - 知乎]: https://zhuanlan.zhihu.com/p/701346692
 [Understanding Reasoning LLMs]: https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
+
+[斯坦福李飞飞团队实锤：GPT-5、Gemini、Claude根本没在「看图」！拔掉图片照样拿80%高分，30亿小模型吊打所有视觉大模型]: https://mp.weixin.qq.com/s/yoOoNDC0DiJ0SgPdTr9n0Q
