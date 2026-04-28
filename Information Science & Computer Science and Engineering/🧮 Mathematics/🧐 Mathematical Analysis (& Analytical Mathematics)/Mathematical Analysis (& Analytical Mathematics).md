@@ -270,9 +270,9 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 ### 🔟 Series & Infinite Series (数项级数与无穷级数)
 ↗ [Series (级数)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Series%20(级数).md)
 #### 1️⃣1️⃣ Function Series and Power Series (函数项级数，幂级数 - 泰勒级数)
-↗ [Power Series](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Power%20Series.md)
+↗ [Taylor Series & Taylor Expansion](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Power%20Series/Taylor%20Series%20&%20Taylor%20Expansion.md)
 #### 1️⃣7️⃣ Fouriers Seires & Fouriers Transformation (三角级数 - 傅立叶级数)
-↗ [Fouriers Seires & Fouriers Transformation (FT)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Fouriers%20Seires%20&%20Fouriers%20Transformation%20(FT).md)
+↗ [Fouriers Seires & Fouriers Transformation (FT)](Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Series%20(级数)/Trigonometric%20Series/Fouriers%20Seires%20&%20Fouriers%20Transformation%20(FT).md)
 
 
 ### 1️⃣2️⃣  (欧氏空间上的连续和极限)

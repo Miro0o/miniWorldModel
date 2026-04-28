@@ -227,6 +227,7 @@ Algorithm Basics
 ↗ [Other Topics in Algorithms](Other%20Topics%20in%20Algorithms/Other%20Topics%20in%20Algorithms.md)
 - ↗ [Data Compression Technologies](Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
 - ↗ [Heuristic Algorithms](Other%20Topics%20in%20Algorithms/Heuristic%20Algorithms/Heuristic%20Algorithms.md)
+- ↗ [Resource Management - Scheduling & Orchestration](Other%20Topics%20in%20Algorithms/Resource%20Management%20-%20Scheduling%20&%20Orchestration/Resource%20Management%20-%20Scheduling%20&%20Orchestration.md)
 
 
 

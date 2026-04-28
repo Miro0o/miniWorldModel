@@ -10,7 +10,6 @@
 
 
 ## Intro
-
 > 🔗 https://cp-algorithms.com/num_methods/simpson-integration.html
 > Integration by Simpson's formula
 

@@ -490,7 +490,7 @@ In [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics "Macroeconomic
 In the [formal semantics of programming languages](https://en.wikipedia.org/wiki/Formal_semantics_of_programming_languages "Formal semantics of programming languages"), two [terms](https://en.wikipedia.org/wiki/Term_\(logic\) "Term (logic)") _M_ and _N_ are observationally equivalent if and only if, in all contexts _C_\[...\] where _C_\[_M_\] is a valid term, it is the case that _C_\[_N_\] is also a valid term with the same value.[5](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-foldoc-5) Thus it is not possible, within the system, to distinguish between the two terms. This definition can be made precise only with respect to a particular calculus, one that comes with its own specific definitions of _term_, _context_, and the _value of a term_. The notion is due to [James H. Morris](https://en.wikipedia.org/wiki/James_H._Morris "James H. Morris"),[6](https://en.wikipedia.org/wiki/Observational_equivalence#cite_note-6) who called it "extensional equivalence."
 
 
-### Noninterference Policy 🤔
+### 1️⃣ Noninterference Policy
 > 🔗 https://en.wikipedia.org/wiki/Non-interference_(security)
 
 Non-interference is a policy that enforces that an attacker should not be able to distinguish two computations from their outputs if they only vary in their secret inputs. However, this policy is too strict to be usable in realistic programs.[4] The classic example is a password checker program that, in order to be useful, needs to disclose some secret information: whether the input password is correct or not (note that the information that an attacker learns in case the program rejects the password is that the attempted password is not the valid one).
@@ -499,7 +499,7 @@ Non-interference is a policy that enforces that an attacker should not be able t
 #### Timing / Side-channel Sensitive Noninterference  
 
 
-### Relaxations of Noninterference
+### 2️⃣ Relaxations of Noninterference
 #### Declassification⭐
 > [!links]
 > ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md) "authentication factors"
@@ -569,7 +569,7 @@ A _when_ declassification policy regulates when the information can be release
 - etc.
 
 
-### Advance
+### 3️⃣ Advance
 #### Hyperproperties (Clarkson & Schneider)
 
 
@@ -676,7 +676,7 @@ In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
 ### Decentralized Label Model (DLM) ⭐
 > 📄 Myers, Andrew C., and Barbara Liskov. "A decentralized model for information flow control." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 129-142.
 
-> [!Example] Introducing
+> [!Example] Introducing Example
 > What label should match have?
 > 
 > ```
@@ -733,12 +733,12 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
     - A set of **owners**: participants or roles who own the respective data
     - An owner can say who can **read** the data.
     - You can only read data if **all** owners have allowed it.
-- Defining $⊑, ⊔, ⊓$.
+2. Defining $⊑, ⊔, ⊓$.
 	- Except for declassification this is standard information flow å la Denning from the last lecture.
-1. **Declassify** limited: an owner can only relax **their own constraint**.
-2. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
+3. **Declassify** limited: an owner can only relax **their own constraint**.
+4. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
 
-> [!example] Hospital Domain Example
+> [!example] Hospital Domain With DLM
 > ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
 #### Security Lattice
 
@@ -901,7 +901,7 @@ We simplify the paper a bit:
 #### Analysis-Based IFC (Program Analysis Techniques)
 ↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 ↗ [Data Flow Analysis](../Data%20Flow%20Analysis/Data%20Flow%20Analysis.md)
-↗ [Taint Analysis](../Data%20Flow%20Analysis/Taint%20Analysis/Taint%20Analysis.md)
+↗ [Taint Analysis](Taint%20Analysis/Taint%20Analysis.md)
 
 
 ### Dynamic Enforcement
