@@ -10,6 +10,9 @@ The notes are organized as a single, large mind map: folders represent higher-le
 
 This repository does not claim to describe the universe as it objectively is. Instead, it reflects how I currently understand it. In that sense, **miniWorldModel** is a snapshot of my internal world model—an evolving representation of reality shaped by learning, reflection, and revision.
 
+> [!caution]
+> Commercial use is strictly prohibited. Redistribution must include attribution and the same license.
+ 
 
 
 ## Motivation & Introduction
@@ -150,6 +153,7 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 - If you follow my suggestions in previous sections and explore notes hierarchy and links from these entry points, eventually all thinking comes back to the root file, where we discuss Universe, self-awareness, and intelligence, i.e. the being of ourselves.
 
 > [!Abstract] Notes
+> 
 > The whole notebook is still heavily about computer science.
 > 
 > The index to this notebook below is very incomplete. Feel free to explore the actual folders & files hierarchy for the full view this notebook tries to present.
@@ -238,6 +242,7 @@ Ideally, an effective visualization would combine two approaches: bidirectional 
 Below are examples of these two styles presented separately. The screenshots were taken in January 2026.
 
 > [!TIP]
+> 
 > The examples are presented in a carousel style. For Obsidian to render them correctly, please use CSS snippet:
 > - `Settings → Appearance → CSS snippets`
 > - Create a file `carousel.css` : (if you use other names you need to change the HTML code below as well)
@@ -280,9 +285,9 @@ The screenshots below illustrate the folder structure represented as a mind map 
 
 
 ## The End
-At the moment miniWorldModel is only in its beta version. I do not expect too much attention in the short future as well, since my studying life is still pretty hectic and I may not have time for all the promotion and stuff. The note is still primarily for my personal use. Those being said, I am glad that I finally made some starts in getting it ready for others to read. Hopefully this note would look nicer in the future.
+At the moment, _miniWorldModel_ is still in its beta stage. I don’t expect it to receive much attention in the near future, as my life is busy and it leaves little time for promotion or outreach. For now, these notes are primarily intended for my own use. That said, I’m glad to have taken the first steps toward making them accessible to others, and I hope they will continue to improve in clarity and presentation over time.
 
-Although I tried my best to be precise and objective, the notes might contain errors and inaccuracy. Please do not treat my notes and opinions as the guidance, instead just assistant information. Always use your own judgement to make decisions.
+While I’ve made every effort to ensure accuracy and objectivity, these notes may still contain errors or inaccuracies. They should not be treated as authoritative guidance, but rather as supplementary reference material. I encourage you to apply your own judgment when interpreting or using any of the information presented here.
 
 
 
