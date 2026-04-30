@@ -149,24 +149,28 @@ Like said earlier, miniWorldModel is a well-organized notebook that acts like a 
 That being said, I give a very brief (and incomplete) index to miniWorldModel below. You can view them as the entry points to the miniWorldModel. 
 - If you follow my suggestions in previous sections and explore notes hierarchy and links from these entry points, eventually all thinking comes back to the root file, where we discuss Universe, self-awareness, and intelligence, i.e. the being of ourselves.
 
-> [!tip]
-> Bare in mind this whole notebook is still heavily about computer science.
+> [!Abstract] Notes
+> The whole notebook is still heavily about computer science.
 > 
-> Also, these notes are simply a reflection of my personal thinking all along the time. Many of them are incomplete, and inevitably contain errors and inaccuracy. Please be mercy with me. ✝️
+> The index to this notebook below is very incomplete. Feel free to explore the actual folders & files hierarchy for the full view this notebook tries to present.
+> 
+> The notebook are simply a reflection of my personal thinking along my studying. Many notes are incomplete, and inevitably contain errors and inaccuracy. Please be mercy with me. ✝️
 
 ↗ [Universe, Self-Awareness, and Intelligence](Universe,%20Self-Awareness,%20and%20Intelligence.md)
 - ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 - ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 	- ↗ [World's Arts & Humanities History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
+		- ↗ [Western Art History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/European%20(Western)%20Arts%20&%20Humanity%20History/Western%20Art%20History.md)
 	- ↗ [World's Economics History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Economics%20History/World's%20Economics%20History.md)
 	- ↗ [World's Science & Technology History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/World's%20Science%20&%20Technology%20History/World's%20Science%20&%20Technology%20History.md)
 - ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 	- ↗ [Language & Literature](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-		- ↗ [Learning English the Right Way](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+		- ↗ [Learning English the Right Way](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md) ==(‼️)==
 			- ↗ [English Grammar](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/English%20Grammar.md)
 			- ↗ [Morpheme & Word](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 	- ↗ [Music](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/🎶%20Music/Music.md)
+	- ↗ [Visual Arts](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Visual%20Arts/Visual%20Arts.md)
 - ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 	- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 		- ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
@@ -175,11 +179,12 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 		- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
 	- ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
-		- Information Science & Computer Science and Engineering
+		- ↗ [Physics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Physics/Physics.md)
+		- Information Science & Computer Science and Engineering (The main body of this notebook)
 			- Computer Science Overview
 				- ↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 				- ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-					- ↗ [🤔 Questions Leading my CS Study](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study) ==(!!!!‼️)==
+					- ↗ [🤔 Questions Leading my CS Study ⭐](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#🤔%20Questions%20Leading%20my%20CS%20Study%20⭐) ==(‼️)==
 				- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 			- Computer Science Core Knowledge
 				- ↗ [Computer (Host) System](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
@@ -193,8 +198,15 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 				- ↗ [Computer Storage & Database Systems](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 			- Computer Science Specific Directions
 				- ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+					- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
+					- ↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 				- ↗ [Software Engineering](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/Software%20Engineering.md)
+					- ↗ [Computer Virtualization](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
+					- ↗ [The Internet Development (and Web Development)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 				- ↗ [CyberSecurity](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/CyberSecurity.md)
+					- ↗ [Risk Management](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
+					- ↗ [Cybersecurity Basics & Information Security (InfoSec)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
+					- ↗ [Cryptology & Secure Communication](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 			- Opportunities & Career Development
 				- ↗ [International Master & PhD Programmes](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 				- ↗ [CS & IT Jobs & Interns Related](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
@@ -202,102 +214,75 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 		- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
 			- ↗ [China (HK, MO, TW) 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 				- ↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-				- ↗ [新中国史（中华人民共和国时期）](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+					- ↗ [新中国史（中华人民共和国时期）](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+					- ↗ [中国经济发展史](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/中国经济发展史.md)
+				- ↗ [中国社会建设与人口治理](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/中国社会建设与人口治理/中国社会建设与人口治理.md)
+				- ↗ [中国经济发展](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 			- ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+				- ↗ [U.S. Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+				- ↗ [U.S. Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 		- ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 			- ↗ [Finance & Financial Management](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Finance%20&%20Financial%20Management.md)
+				- ↗ [Financial Investment](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 		- ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+			- ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+	- ↗ [Extraterrestrial Life & Extraterrestrial Intelligence (ETI)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI).md)
+		- ↗ [Fermi Paradox](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Fermi%20Paradox.md)
 
 
 ### A Glimpse of the Notebook
-As I repeatedly stress, this entire notebook is structured as a mind map, on top of which are enormous links connecting those leaf nodes, like illustrated in the beginning of this readme. Although the entire hierarchy and all the relationships between files are clear in my head, I find it very hard to present to others of such structure. One big reason is the lack of existing tools /software to visualize the whole notebook. 
+As I’ve emphasized throughout, this notebook is structured as a mind map, with extensive links connecting its leaf nodes -- much like the illustration shown at the beginning of this README. While the overall hierarchy and relationships between files are clear to me, I find it challenging to convey this structure to others. A major reason for this difficulty is the lack of existing tools or software capable of visualizing the notebook in its entirety.
 
-Below are the screenshots (if you are inside obsidian you can scroll right to see more pics, since they are displayed in carousel style) from the native plugin 🔗 [graph view]() of the notebook. This graph view looks pretty cool, but it doesn't show the nodes in the hierarchical way as they are.
+Ideally, an effective visualization would combine two approaches: bidirectional linking + hierarchical structure. Unfortunately, I have not yet found a tool that successfully integrates both. Given the rapid advancement of AI, I may consider developing such a tool myself in the future.
 
-<div style="
-  display: flex;
-  gap: 16px;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  padding: 10px;
-">
+Below are examples of these two styles presented separately. The screenshots were taken in January 2026.
 
-  <img src="Assets/Pics/Screenshot%202026-02-06%20at%2002.04.14.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
+> [!TIP]
+> The examples are presented in a carousel style. For Obsidian to render them correctly, please use CSS snippet:
+> - `Settings → Appearance → CSS snippets`
+> - Create a file `carousel.css` : (if you use other names you need to change the HTML code below as well)
+> ```css
+> .carousel {
+> 	display: flex;
+> 	gap: 16px;
+> 	overflow-x: auto;
+> 	scroll-snap-type: x mandatory;
+> 	padding: 10px;
+> }
+> .carousel img {
+> 	max-height: 600px;
+> 	border-radius: 8px;
+> 	scroll-snap-align: center;
+> 	flex-shrink: 0;
+> }
+> ```
+> - Enable the snippet in Obsidian
 
-  <img src="Assets/Pics/Screenshot%202026-02-06%20at%2002.04.41.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
+1️⃣ Bidirectional linking. 
+The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. If you are viewing this within Obsidian, you can scroll horizontally to see additional images displayed in a carousel. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure.
 
-  <img src="Assets/Pics/Screenshot%202026-02-06%20at%2002.04.57.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
-   
-  <img src="Assets/Pics/Screenshot%202026-02-06%20at%2002.05.20.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
+<div class="carousel">  
+<img src="Assets/Pics/Screenshot 2026-02-06 at 02.04.14.png">  
+<img src="Assets/Pics/Screenshot 2026-02-06 at 02.04.41.png">  
+<img src="Assets/Pics/Screenshot 2026-02-06 at 02.04.57.png">  
+<img src="Assets/Pics/Screenshot 2026-02-06 at 02.05.20.png">  
 </div>
 
-Below are screenshots showing the structure of folders as a mind map (no files, just folders). It was generated from GPT-generated program.
+2️⃣ Mind-map like note hierarchy. 
+The screenshots below illustrate the folder structure represented as a mind map (showing folders only, without individual files). This visualization was generated using a GPT-based program. While it effectively captures the hierarchical organization, it lacks the ability to represent the rich, bidirectional links between notes.
 
-<div style="
-  display: flex;
-  gap: 16px;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  padding: 10px;
-">
-
-  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.50.07.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
-
-  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.54.54.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
-
-  <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.55.29.png"
-       style="
-         max-height: 600px;
-         border-radius: 8px;
-         scroll-snap-align: center;
-         flex-shrink: 0;
-       ">
+<div class="carousel">  
+<img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.50.07.png">  
+<img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.54.54.png">  
+<img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.55.29.png"> 
 </div>
-
-By my intention, a really good visualization would be the combination of the above two: hierarchy + linking. Unfortunately, right now I cannot show this to you directly.
 
 
 
 ## The End
-At the moment miniWorldModel is only in its beta version. I don't expect too much attention in the short future as well, since my studying life is still pretty hectic and I may not have time for all the promotion and stuff. But anyway I made some starts in getting it ready for others to read. Hopefully this note would look nicer in the future.
+At the moment miniWorldModel is only in its beta version. I do not expect too much attention in the short future as well, since my studying life is still pretty hectic and I may not have time for all the promotion and stuff. The note is still primarily for my personal use. Those being said, I am glad that I finally made some starts in getting it ready for others to read. Hopefully this note would look nicer in the future.
 
-Again, the notes might contain lots of errors and inaccuracy. Please read it as a friend sharing his study notes to you.
+Although I tried my best to be precise and objective, the notes might contain errors and inaccuracy. Please do not treat my notes and opinions as the guidance, instead just assistant information. Always use your own judgement to make decisions.
 
 
 

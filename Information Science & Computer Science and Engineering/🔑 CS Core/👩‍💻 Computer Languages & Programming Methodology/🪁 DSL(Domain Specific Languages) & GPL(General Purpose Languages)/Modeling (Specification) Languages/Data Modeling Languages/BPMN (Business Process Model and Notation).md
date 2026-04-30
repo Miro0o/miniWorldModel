@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [System Modeling & Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-↗ [BPMS (Business Process Management Systems)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Declarative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
+↗ [BPMS (Business Process Management Systems)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Imperative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
 
 
 ### Other Resources
