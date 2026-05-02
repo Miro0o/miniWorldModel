@@ -604,7 +604,6 @@ A _when_ declassification policy regulates when the information can be release
 > 
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.25.27.png)
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.26.37.png)
-
 #### Denning's Approach Formalized in Lattice ⭐
 > [!links]
 > ↗ [Partial Order & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)

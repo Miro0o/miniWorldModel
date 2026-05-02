@@ -196,8 +196,9 @@ In the 20th century, [Alexandre Koyré](https://en.wikipedia.org/wiki/Alexandre
 > From the same principles, I now demonstrate the frame of the System of the World. 
 > Isaac Newton.
 
-> 🔗 https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica
+> 🔗 https://www.marxists.org/reference/subject/philosophy/works/en/newton.htm
 
+> 🔗 https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica
 
 > 🔗 https://plato.stanford.edu/entries/newton-principia/
 > - [1. Overview: The Importance of the Work](https://plato.stanford.edu/entries/newton-principia/#OveImpWor)
