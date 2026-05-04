@@ -14,7 +14,7 @@
 ↗ [Natural Science & Engineering and Technology](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Economics & Finance](../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 
-↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
+↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md)
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
@@ -258,6 +258,10 @@ After we have defined various objects and notions, we usually make **mathematica
 ==A **theorem** is a mathematical statement proved true.== Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
 #### Proofing, Reasoning, and Computing
 > [!links]
+> ↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
+> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+> 
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 > ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 ##### Finding Proofs

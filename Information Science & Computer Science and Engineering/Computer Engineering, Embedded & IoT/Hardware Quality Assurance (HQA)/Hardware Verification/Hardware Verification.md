@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Formal Methods & Formal Verification (FV)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
-↗ [Software (Program) Verification](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md)
+↗ [Software (Program) Verification](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
 
 
 ### Other Resources

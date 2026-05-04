@@ -9,6 +9,9 @@
 ↗ [Elliptic Geometry (Riemannian)](../../../../../../🧮%20Mathematics/Geometry/Non-Euclidean%20Geometry/Elliptic%20Geometry%20(Riemannian)/Elliptic%20Geometry%20(Riemannian).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 Elliptic-curve cryptography (ECC) is an approach to public-key cryptography based on the algebraic structure of elliptic curves over finite fields. ECC allows smaller keys to provide equivalent security, compared to crypto-systems based on modular exponentiation in Galois fields, such as the RSA crypto-system and ElGamal crypto-system.

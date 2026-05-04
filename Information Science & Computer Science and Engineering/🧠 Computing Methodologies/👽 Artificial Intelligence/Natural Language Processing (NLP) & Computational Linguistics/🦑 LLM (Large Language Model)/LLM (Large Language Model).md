@@ -18,8 +18,8 @@
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
 ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 - ↗ [Transformers](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
-↗ [Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20Generative%20Models/Generative%20Models.md)
-- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
+↗ [(Deep) Generative Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md) 🤔
+- ↗ [Autoregressive (AR) Models](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/Autoregressive%20(AR)%20Models/Autoregressive%20(AR)%20Models.md)
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)

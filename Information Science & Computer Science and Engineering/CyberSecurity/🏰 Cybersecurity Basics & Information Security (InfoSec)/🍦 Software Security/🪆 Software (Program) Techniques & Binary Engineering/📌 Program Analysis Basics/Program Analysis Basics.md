@@ -16,8 +16,8 @@
 ↗ [Compilation & Program Loading Tools](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [Constraint Solving & Theorem Proving](../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-- ↗ [(Formal) Model Checking](../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+- ↗ [Constraint Solving & Theorem Proving](../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+- ↗ [(Formal) Model Checking](../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 ↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 
@@ -168,7 +168,7 @@ Program Understanding
 
 ### Program Analysis Techniques Taxonomy
 > [!links]
-> ↗ [Formal Methods & Formal Verification (FV)](../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
+> ↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md)
 > ↗ [SCA (Static Code Analysis) & SAST](👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
 > ↗ [DCA (Dynamic Code Analysis) & DAST](👙%20DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST/DCA%20(Dynamic%20Code%20Analysis)%20&%20DAST.md)
 

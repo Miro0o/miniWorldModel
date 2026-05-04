@@ -11,6 +11,10 @@
 
 ↗ [Type Theory (类型论)](../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
+↗ [Automated & Generic Theorem Provers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+- ↗ [CryptHOL](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Isabelle%20&%20Isar%20Language/CryptHOL.md)
+↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
+
 
 ### Other Resources
 
@@ -74,7 +78,7 @@ They connect to logic through:
 - Truth semantics emerge **only after interpretation**
 
 
-### Higher-Order Logics
+### Higher-Order Logics (HOL)
 > 🤖 GPT-5.0
 > https://chatgpt.com/share/69738170-978c-800f-967d-a269d0df7e65
 

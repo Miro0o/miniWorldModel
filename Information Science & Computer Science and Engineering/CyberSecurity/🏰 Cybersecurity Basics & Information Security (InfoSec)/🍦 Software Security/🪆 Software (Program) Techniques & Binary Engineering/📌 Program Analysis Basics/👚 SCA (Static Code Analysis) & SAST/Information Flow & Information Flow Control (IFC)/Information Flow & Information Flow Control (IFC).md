@@ -12,6 +12,8 @@
 
 ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
+↗ [Cryptographic Verification](../../../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/Cryptographic%20Verification.md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
@@ -561,7 +563,7 @@ A _when_ declassification policy regulates when the information can be release
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
 ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
-↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 - Trace semantics  
 - Bisimulation  

@@ -47,7 +47,7 @@
 
 
 ### GANs
-↗ [GAN (Generative Adversarial Network)](../../../🪽%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
+↗ [GAN (Generative Adversarial Network)](../../../🪽%20(Deep)%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
 
 
 ### Simulation

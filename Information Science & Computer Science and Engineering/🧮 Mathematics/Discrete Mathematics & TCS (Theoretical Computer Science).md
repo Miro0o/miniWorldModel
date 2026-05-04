@@ -29,7 +29,7 @@
 
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
-↗ [Formal Methods & Formal Verification (FV)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Formal%20Methods%20&%20Formal%20Verification%20(FV).md)
+↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md)
 
 
 ### TCS Learning Resources

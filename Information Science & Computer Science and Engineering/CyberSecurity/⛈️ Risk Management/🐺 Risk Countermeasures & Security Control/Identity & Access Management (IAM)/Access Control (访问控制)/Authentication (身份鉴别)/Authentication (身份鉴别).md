@@ -91,10 +91,12 @@ The property that ensures that the identity of a subject or resource is the one 
 
 
 ## 🎯 Authentication Factors
-> ⚠ This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
+> [!Warning]
+> This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
 
 How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**:
 - something the 1️⃣ user **knows**, (knowledge)
+	- ↗ [Cryptographic Key Based Authentication (基于密码学原理)](Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
 - something the 2️⃣ user **has**, (possession)
 - something the 3️⃣ user **is**. (inherence)
 
@@ -248,9 +250,9 @@ Data Origin Authentication (数据原发鉴别)
 ↗ [Password Based Authentication (基于口令)](Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
 ↗ [Address Based Authentication](Human-Oriented%20Authentication%20(鉴别对象为人)/Address%20Based%20Authentication.md)
 #### Cryptography-based Authentication
-↗ [Key Based Authentication](Human-Oriented%20Authentication%20(鉴别对象为人)/Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
+↗ [Cryptographic Key Based Authentication (基于密码学原理)](Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
 #### Zero-Knowledge-Proof (ZKP)
-↗ [Zero-Knowledge Proof (ZKP)](Human-Oriented%20Authentication%20(鉴别对象为人)/Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 

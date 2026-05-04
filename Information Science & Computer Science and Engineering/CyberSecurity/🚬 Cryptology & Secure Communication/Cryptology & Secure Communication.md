@@ -41,6 +41,17 @@ Provably Secure Communication Software
 - Our paper, [Project Everest: Perspectives from Developing Industrial-grade High-assurance Software](https://project-everest.github.io/assets/everest-perspectives-2025.pdf) provides a detailed overview of our work. The picture below (from the paper) is a summary of the software developed by Project Everest, with arrows indicating dependences among components:
 	- ![|400](../../../Assets/Pics/Pasted%20image%2020260427161356.png)
 
+https://asecuritysite.com/
+This site was created as there is a real lack of engaging content within the theoretical and practical applications of cryptography on the Internet, especially in covering complex principles in an easy-to-access way. It aims to engage users within the opportunities that cryptography provides in building a more trustworthy and resilient digital world. The site thus contains a wide range of material related to cryptography, security, digital forensics, networking, and many other things.
+- When Bob Met Alice blog pages [here](https://asecuritysite.com/home/blog) or [here](https://medium.com/asecuritysite-when-bob-met-alice). Currently this site is provided free of charge and advert free, and if you want to support its upkeep and the related videos and articles, please consider subscribing to the Asecuritysite.com blog [here](https://billatnapier.medium.com/membership)
+- YouTube channel: [here](https://www.youtube.com/billbuchanan).
+- A Security Podcast on Apple [here](https://podcasts.apple.com/us/podcast/a-security-podcast/id1617044319)
+- A Security Podcast on Spotify [here](https://open.spotify.com/show/3SX5sY2PqQowc3aA6xGoVO).
+- A Security Podcast on Audible [here](https://www.audible.co.uk/pd/B0CBL1F7DP?action_code=ASSGB149080119000H&share_location=pdp).
+- Twitter. If you want to follow Bill on Twitter, you can add [here](https://twitter.com/billatnapier), or follow Asecuritysite [here](https://twitter.com/ASecuritysite)
+
+Note: if there's any cryptography method that we have missed, please contact us (support@asecuritysite.com). If you are looking for a keyword, try here:
+
 
 
 ## Intro
@@ -261,7 +272,7 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 	3. 可以为序列密码、HASH函数等的实现供帮助;
 	4. 算法必须能够用软件和硬件两种方法实现。另外，算法设计相对简单也是一个评估因素。
 ##### Correctness
-↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 ##### Security ⭐
 > 📖 **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
 
@@ -382,7 +393,7 @@ Deniable Encryption
 ## 🌅 Secure Communication & Cryptographic Protocols
 > [!links]
 > ↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
-> ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+> ↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 ### Secure Communication with Core Cryptographic Properties ⭐
@@ -399,8 +410,8 @@ Deniable Encryption
 
 
 ### Security Protocol Verification
-↗ [Security Protocols Formal Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
-↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20&%20Formal%20Verification%20(FV)/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+↗ [Security Protocols Formal Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Security%20Protocols%20Formal%20Modeling%20&%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Security%20Protocols%20Formal%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
 
 
 

@@ -10,6 +10,9 @@
 ↗ [Web Authentication Technologies & Frameworks](../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ### 保证消息实时性
@@ -36,7 +39,7 @@ Traditional password authentication is static, which is feasible to attack. That
 
 
 ### 👉 Cryptographic Key /Token Based (基于密钥/令牌)
-↗ [Key Based Authentication](Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
+↗ [Cryptographic Key Based Authentication (基于密码学原理)](🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
 #### 👉 Anonymous Authentication
 #### 👉 Group Key Agreement
 
@@ -46,7 +49,7 @@ Traditional password authentication is static, which is feasible to attack. That
 
 
 ### 👉 Zero-Knowledge Proof (ZKP)
-↗ [Zero-Knowledge Proof (ZKP)](Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 

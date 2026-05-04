@@ -356,7 +356,7 @@ A simple extension of gradient descent, [stochastic gradient descent](https://e
 		- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek/DeepSeek.md)
 		- ↗ [xAI Grok](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
 - ↗ [GNN (Graph Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
-↗ [Generative Models](../🪽%20Generative%20Models/Generative%20Models.md)
+↗ [(Deep) Generative Models](../🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
 
 ↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
 - ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md) 🤔
