@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 ↗ [Homomorphic Encryption (HE)](../🤐%20Cryptography/Modern%20Cryptography/Homomorphic%20Encryption%20(HE)/Homomorphic%20Encryption%20(HE).md)
 ↗ [Key Management Algorithms](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Key%20Management%20Algorithms.md)
 - [Shamir Threshold Scheme](../Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Shamir%20Threshold%20Scheme.md)

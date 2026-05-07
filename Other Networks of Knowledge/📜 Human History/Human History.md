@@ -863,6 +863,9 @@ https://sdgs.un.org/
 - 貧困問題
 
 
+### U.S. Supremacy, Region Conflicts, and De-globalization
+
+
 ### The Reviving of China: 中华民族 ⭐
 ![](../../Assets/Pics/Pasted%20image%2020260416135414.png)
 <small>The global contribution to world's GDP by major economies (1-2008) Source: MADDISON A. 2007, Contours of the World Economy I-2030AD, Oxford University Press
@@ -874,9 +877,6 @@ https://sdgs.un.org/
 ↗ [新中国时期经济发展史](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uuAxxnz5eng?si=lmtzH2Nz3gCNIrqw&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-### U.S. Supremacy, Region Conflicts, and De-globalization
 
 
 ### The Revolution of Artificial Intelligence & LLM

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Realtime Information - News, Tracking, Tickets, etc.](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Realtime%20Information%20-%20News,%20Tracking,%20Tickets,%20etc..md)
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 
 ### Other Resources

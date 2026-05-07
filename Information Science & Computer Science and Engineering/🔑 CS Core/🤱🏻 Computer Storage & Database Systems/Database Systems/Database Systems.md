@@ -249,7 +249,7 @@ Professional, Legal, and Ethical Issues in Data Management
 Risk Management & Data Recovery
 ↗ [Database Recovery](Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Database%20Recovery/Database%20Recovery.md)
 
-↗ [Risk Management](../../../CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
+↗ [Risk Management (In Cyberspace)](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
 
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
 - ↗ [Data Protection & Security](../../../CyberSecurity/Data%20Security/Data%20Protection%20&%20Security/Data%20Protection%20&%20Security.md)

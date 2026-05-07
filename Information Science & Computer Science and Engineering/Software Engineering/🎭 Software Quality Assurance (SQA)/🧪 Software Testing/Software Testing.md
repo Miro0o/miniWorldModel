@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [ICT System Reliability (Correctness) & Verification](../../../CyberSecurity/⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+↗ [ICT System Reliability (Correctness) & Verification](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
-↗ [Formal Methods and Formal Verification (FV) & Reasoning Systems](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems.md)
-↗ [Security Audit & Security Audit Trail](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
-- ↗ [Code Review](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+↗ [Security Audit & Security Audit Trail](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+- ↗ [Code Review](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
 ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 ↗ [SRLC (Software Release Life Circle) & Versioning](../../Software%20Development%20Norms%20&%20Patterns/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SRLC%20(Software%20Release%20Life%20Circle)%20&%20Versioning.md)
@@ -96,7 +96,7 @@ There is a large number of works on software testing and analysis.
 ### Error, Faults and Failures
 #error #faults #failures #bug 
 
-↗ [Vulnerabilities /Vulnerabilities 🆚 Bugs (Incorrectness) 🆚 Feature ?](../../../CyberSecurity/⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md#Vulnerabilities%20🆚%20Bugs%20(Incorrectness)%20🆚%20Feature%20?)
+↗ [Vulnerabilities /Vulnerabilities 🆚 Bugs (Incorrectness) 🆚 Feature ?](../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🦟%20Vulnerabilities/Vulnerabilities.md#Vulnerabilities%20🆚%20Bugs%20(Incorrectness)%20🆚%20Feature%20?)
 
 Software faults occur through the following process: A programmer makes an [error](https://en.wikipedia.org/wiki/Human_error) (mistake), which results in a [fault](https://en.wikipedia.org/wiki/Fault_(technology)) (defect, bug) in the software source code. If this fault is executed, in certain situations the system will produce wrong results, causing a [failure](https://en.wikipedia.org/wiki/Failure).
 - Not all faults will necessarily result in failures. For example, faults in the [dead code](https://en.wikipedia.org/wiki/Dead_code) will never result in failures. 

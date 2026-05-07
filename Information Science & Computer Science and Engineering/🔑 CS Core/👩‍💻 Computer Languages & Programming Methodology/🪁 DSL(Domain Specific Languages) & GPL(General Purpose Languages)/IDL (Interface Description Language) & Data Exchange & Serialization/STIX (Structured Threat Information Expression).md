@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 
 ### Learning Resources

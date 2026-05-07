@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Cryptology & Secure Communication](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
-↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
+↗ [Risk Management (In Cyberspace)](../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
 ↗ [Software Security](🍦%20Software%20Security/Software%20Security.md)
 
 ↗ [Cyber Ranges & Labs](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
@@ -19,6 +19,10 @@
 
 
 ## Intro: Information Security
+> [!links]
+> ↗ [Risk Management (In Cyberspace)](../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
+> ↗ [Risk Countermeasures & Security Control](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+
 ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 <small>Computer Security & Risk Management</small>
 
@@ -65,9 +69,9 @@ To standardize this discipline, academics and professionals collaborate to offer
 ## 🛡️ InfoSec Objectives
 
 > [!links]
-> ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-> - ↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
-> - ↗ [Other Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+> - ↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> - ↗ [Other Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 > 
 > ↗ [Cryptology & Secure Communication](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
@@ -95,7 +99,7 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 ### CIA Triad
 > [!links]
-> ↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 <small>The CIA Triad. The triad seems to have first been mentioned in a NIST <a>https://en.wikipedia.org/wiki/NIST</a> publication in 1977</small>
@@ -129,9 +133,9 @@ More broadly, integrity is an information security principle that involves human
 ##### Consistency
 #### 🎯 Availability
 > [!links]
-> ↗ [ICT System Reliability (Correctness) & Verification](../⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+> ↗ [ICT System Reliability (Correctness) & Verification](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 > 
-> ↗ [Authentication (身份鉴别)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+> ↗ [Authentication (身份鉴别)](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 > ↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Information_security#Availability
@@ -143,7 +147,7 @@ In the realm of information security, availability can often be viewed as one of
 
 ### Other Security Models & Attributes
 > [!links]
-> ↗ [Other Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Other Cryptographic Properties Threats & Countermeasures](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
 
 > 🔗 https://textbook.cs161.org/crypto/intro.html
 
@@ -196,7 +200,7 @@ A related property that we may want our cryptosystem to have is _deniability_. 
 ## 📄 Security & Compliance (Standards)「合规」
 ↗ [Institutes & Organizations in IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20IT.md)
 ↗ [Laws & Regulations in Electronic & Information Fields](../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields.md)
-↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
+↗ [Risk Management (In Cyberspace)](../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
 
 Security vs. Compliance
 - **Compliance** = meet ISO requirements, pass audits, gain certification.
@@ -240,12 +244,12 @@ TBD..
 
 
 ## Information Assurance
-↗ [Information Assurance (IA)](Information%20Assurance%20(IA).md)
+↗ [Information Assurance (IA)](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Information%20Assurance%20(IA).md)
 
 
 
 ## Cybersecurity Threats & Attacks
-↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 
 
 

@@ -14,7 +14,7 @@
 
 ↗ [Computer Engineering, Embedded & IoT](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Computer%20Engineering,%20Embedded%20&%20IoT/Computer%20Engineering,%20Embedded%20&%20IoT.md)
 ↗ [Computer Networking and Communication](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [ICT System Reliability (Correctness) & Verification](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+↗ [ICT System Reliability (Correctness) & Verification](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 ↗ [Software Engineering](../../../../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/Software%20Engineering.md)
 
 ↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)

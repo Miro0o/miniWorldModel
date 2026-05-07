@@ -10,9 +10,9 @@
 
 
 ### Related Topics
-↗ [Cyberspace Assets](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
-↗ [Attack Surface Management (ASM)](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
-↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyberspace Assets](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
+↗ [Attack Surface Management (ASM)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
+↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
 

@@ -16,7 +16,7 @@ Cryptography is a sub-category of Cryptology:
 ↗ [Decentralized Fiance & Cryptocurrency](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
 ↗ [OpenSSL Project](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
-↗ [Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/Cryptographic%20Verification.md)
+↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
 
 
 ### Learning Resources

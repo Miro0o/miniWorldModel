@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [ShellShock(CVE-2014-6271)](../../../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/🤥%20Real%20World%20Vulnerabilities%20Analysis/Software%20Vulnerabilities/Web%20&%20APP%20Vulnerabilities/ShellShock(CVE-2014-6271).md)
+↗ [ShellShock(CVE-2014-6271)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🦟%20Vulnerabilities/🤥%20Real%20World%20Vulnerabilities%20Analysis/Software%20Vulnerabilities/Web%20&%20APP%20Vulnerabilities/ShellShock(CVE-2014-6271).md)
 
 
 

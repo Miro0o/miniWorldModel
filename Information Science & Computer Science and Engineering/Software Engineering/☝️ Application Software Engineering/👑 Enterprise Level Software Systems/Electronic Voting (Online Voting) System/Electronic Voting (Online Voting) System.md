@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Authentication (身份鉴别)](../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Cryptographic Key Based Authentication (基于密码学原理)](../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
-↗ [Zero-Knowledge Proof (ZKP)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Methods%20and%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems/Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
+↗ [Authentication (身份鉴别)](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Cryptographic Key Based Authentication (基于密码学原理)](../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
+↗ [Zero-Knowledge Proof (ZKP)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 ### Other Resources

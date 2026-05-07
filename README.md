@@ -216,7 +216,7 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 					- ↗ [Computer Virtualization](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 					- ↗ [The Internet Development (and Web Development)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 				- ↗ [CyberSecurity](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/CyberSecurity.md)
-					- ↗ [Risk Management](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management/Risk%20Management.md)
+					- ↗ [Risk Management (In Cyberspace)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
 					- ↗ [Cybersecurity Basics & Information Security (InfoSec)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
 					- ↗ [Cryptology & Secure Communication](Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 			- Opportunities & Career Development

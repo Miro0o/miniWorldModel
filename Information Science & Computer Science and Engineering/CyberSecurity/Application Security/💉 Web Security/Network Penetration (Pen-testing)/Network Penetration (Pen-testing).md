@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+↗ [Risk Assessment](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
 
 ↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 - ↗ [Pen-testing Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
 
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
-- ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
-- ↗ [Active Recon & Offensive OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
-↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+- ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
+- ↗ [Active Recon & Offensive OSINT](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
+↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 ↗ [Web Security](../Web%20Security.md)
 
 ↗ [AI4Security](../../../🫧%20AI4Security/AI4Security.md)
-↗ [Attack Simulation - Red, Blue, Purple, White](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+↗ [Attack Simulation - Red, Blue, Purple, White](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 
 ### Learning Resource
@@ -58,7 +58,7 @@ This book is primarily developed for viewing on Gitbook. If you wish to fork thi
 ### Contents /Objective of Penetration Test (And Other Security Exercise)
 ![](../../../../../Assets/Pics/Pasted%20image%2020251001215700.png)
 
-> ↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+> ↗ [Risk Assessment](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
 
 > 📖 Mastering Kali Linux for Advanced Penetration Testing
 
@@ -93,12 +93,12 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 
 
 ### 0️⃣ Threat Modeling & Risk Assessment
-↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-↗ [Threat Models & Threat Modeling](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/Threat%20Models%20&%20Threat%20Modeling.md)
-- ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
-- ↗ [CAPEC (Common Attack Pattern Enumerations and Classifications)](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/CAPEC%20(Common%20Attack%20Pattern%20Enumerations%20and%20Classifications).md)
+↗ [Cybersecurity Threats & Attacks](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+↗ [Threat Models & Threat Modeling](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/Threat%20Models%20&%20Threat%20Modeling.md)
+- ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+- ↗ [CAPEC (Common Attack Pattern Enumerations and Classifications)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/CAPEC%20(Common%20Attack%20Pattern%20Enumerations%20and%20Classifications).md)
 
-↗ [Risk Assessment](../../../⛈️%20Risk%20Management/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
+↗ [Risk Assessment](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20Life%20Circle/Risk%20Assessment.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
 <small><a>https://attack.mitre.org/matrices/enterprise/</a></small>
@@ -111,23 +111,23 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 
 ### Penetration Phases & Tactics
 > 📖 Mastering-Linux-Advanced-Penetration-Testing
-> ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+> ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 
 - Explore & Reconnaissance
 	- Reconnaissance (TA0043)
-		- ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
-			- ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
-			- ↗ [Active Recon & Offensive OSINT](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
+		- ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+			- ↗ [Passive Recon & (Defensive) OSINT](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Passive%20Recon%20&%20(Defensive)%20OSINT/Passive%20Recon%20&%20(Defensive)%20OSINT.md)
+			- ↗ [Active Recon & Offensive OSINT](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
 	- Resource Development (TA0042)
 	- Discovery (TA0007)
 	- Attack Surface & Vulnerability Assessment
-		- ↗ [Attack Surface Management (ASM)](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
+		- ↗ [Attack Surface Management (ASM)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 		- ↗ [Vulnerability Discovery & Scanning（漏洞检测 & 扫描）](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Phases/Vulnerability%20Discovery%20&%20Scanning（漏洞检测%20&%20扫描）.md)
 - ↗ [Delivery Phase](Delivery%20Phase/Delivery%20Phase.md)
 	- Weaponization
 		- ↗ [Kill Chain & Security Tool Box](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Kill%20Chain%20&%20Security%20Tool%20Box.md)
 	- Initial Access (TA0001)
-		- ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+		- ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 		- ↗ [Physical Security](../../../Physical%20Security/Physical%20Security.md)
 			- ↗ [Embedded Devices & RFID Hacking](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🪖%20Hardware%20Security/Hardware%20Threats%20&%20Attacks/Embedded%20Devices%20&%20RFID%20Hacking/Embedded%20Devices%20&%20RFID%20Hacking.md)
 		- ↗ [Wireless & Mobile Network Security](../../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
@@ -138,7 +138,7 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Installation
 		- ↗ [Malware (Malicious Code), Analysis, and Detection](../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection/Malware%20(Malicious%20Code),%20Analysis,%20and%20Detection.md)
 	- Credential Access (TA0006)
-		- ↗ [Password Attack](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
+		- ↗ [Password Attack](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 			- (↗ [Credentials & Password Related Tools](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md))
 - Achieve Phase
 	- ↗ [Persistence](Achieve%20Phase/Persistence/Persistence.md) (TA0003)
@@ -149,10 +149,10 @@ In 2009, Mike Cloppert of Lockheed Martin CERT introduced the concept that is no
 	- Collection (TA0009)
 	- ↗ [Exfiltration](Achieve%20Phase/Exfiltration/Exfiltration.md) (TA0010)
 - Impact (TA0040)
-	- ↗ [Risk Management](../../../⛈️%20Risk%20Management/Risk%20Management.md)
-		- ↗ [Risk Countermeasures & Security Control](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
-		- ↗ [Forensics & Traceability Analysis](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Forensics%20&%20Traceability%20Analysis.md)
-		- ↗ [Disaster & Incidence Response (IR)](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20&%20Incidence%20Response%20(IR).md)
+	- ↗ [Risk Management (In Cyberspace)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
+		- ↗ [Risk Countermeasures & Security Control](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+		- ↗ [Forensics & Traceability Analysis](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Forensics%20&%20Traceability%20Analysis.md)
+		- ↗ [Disaster & Incidence Response (IR)](../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20&%20Incidence%20Response%20(IR).md)
 
 
 

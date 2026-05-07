@@ -9,7 +9,7 @@
 ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
 - ↗ [(M)LLM Explainability](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/🥺%20(M)LLM%20Explainability/(M)LLM%20Explainability.md)
 
-↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
+↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
 
 ↗ [AI4Security](../../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 ↗ [LLM For Security](../../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Firewall & Network Filters](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
-↗ [DPI (Deep Package Inspection)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
+↗ [Firewall & Network Filters](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
+↗ [DPI (Deep Package Inspection)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
 
 ↗ [Content Security](../../Data%20Security/Content%20Security/Content%20Security.md)
 
@@ -56,7 +56,7 @@ The BBS is an inclusive and multilingual forum for public discussion about Inter
 
 
 ### The Great Firewall
-↗ [DPI (Deep Package Inspection)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
+↗ [DPI (Deep Package Inspection)](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
 
 
 

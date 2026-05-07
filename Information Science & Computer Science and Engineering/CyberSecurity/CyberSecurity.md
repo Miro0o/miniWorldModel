@@ -251,7 +251,7 @@ ctf竞赛权威指南
 
 ### Info & Res & News
 > [!Links]
-> ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+> ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 ---
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
@@ -451,7 +451,7 @@ http://www.china-cia.org.cn
 
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 #### System Reliability (Availability)
-↗ [ICT System Reliability (Correctness) & Verification](⛈️%20Risk%20Management/🦟%20Vulnerabilities/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
+↗ [ICT System Reliability (Correctness) & Verification](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
 
 ### What is Cyberspace?
@@ -508,13 +508,13 @@ Security issues sources:
 
 ↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 
-↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Information%20Assurance%20(IA).md)
+↗ [Information Assurance (IA)](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Information%20Assurance%20(IA).md)
 ↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Architectures.md)
 
-↗ [Risk Management](⛈️%20Risk%20Management/Risk%20Management.md)
-- ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-	- ↗ [Core Cryptographic Properties Threats & Countermeasures](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
-- ↗ [Risk Countermeasures & Security Control](⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+↗ [Risk Management (In Cyberspace)](⛈️%20Risk%20Management%20(In%20Cyberspace)/Risk%20Management%20(In%20Cyberspace).md)
+- ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+	- ↗ [Core Cryptographic Properties Threats & Countermeasures](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+- ↗ [Risk Countermeasures & Security Control](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 
 
 
