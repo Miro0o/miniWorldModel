@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Linguistics Knowledge Explorer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Lora:ital,wght@1,400;1,500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
+<style>
+ :root {
+   --bg: #F5F3EE;
+   --board: #ECEAE4;
+   --text: #1A1A1A;
+   --text-2: #3D3D3D;
+   --text-3: #666;
+   --text-4: #999;
+   --border: #DDD9D2;
+   --empty-bg: #E6E3DD;
+   --serif: 'Instrument Serif', Georgia, serif;
+   --scholar: 'Lora', Georgia, serif;
+   --sans: 'Outfit', system-ui, sans-serif;
+ }
+ * { margin: 0; padding: 0; box-sizing: border-box; }
+ body {
+   font-family: var(--sans);
+   background: var(--bg);
+   color: var(--text);
+   -webkit-font-smoothing: antialiased;
+ }
+ #root { min-height: 100vh; }
+
+ /* ── Cell interactions ── */
+ .cell {
+   transition: transform 0.25s cubic-bezier(.4,0,.2,1),
+               box-shadow 0.25s cubic-bezier(.4,0,.2,1),
+               filter 0.25s ease;
+ }
+ .cell.filled:hover {
+   transform: translateY(-4px) scale(1.01);
+   box-shadow: 0 12px 32px rgba(0,0,0,0.10), 0 2px 6px rgba(0,0,0,0.06) !important;
+   filter: saturate(1.2);
+   z-index: 10;
+ }
+ .cell.filled:active {
+   transform: translateY(-1px) scale(1.0);
+   transition-duration: 0.08s;
+ }
+ .cell.selected {
+   box-shadow: 0 0 0 2.5px var(--ring), 0 12px 32px rgba(0,0,0,0.10) !important;
+   transform: translateY(-2px);
+   z-index: 11;
+ }
+
+ /* ── Axis pills ── */
+ .pill {
+   transition: all 0.2s ease;
+   border: 1.5px solid var(--border);
+   outline: none;
+   font-family: var(--sans);
+ }
+ .pill:not(:disabled):not(.on):hover {
+   background: var(--text) !important;
+   color: #fff !important;
+   border-color: var(--text) !important;
+ }
+ .pill.on {
+   background: var(--text) !important;
+   color: #fff !important;
+   border-color: var(--text) !important;
+ }
+
+ /* ── Swap ── */
+ .swap {
+   transition: all 0.3s cubic-bezier(.4,0,.2,1);
+   border: 1.5px solid var(--border);
+   outline: none;
+ }
+ .swap:hover {
+   background: var(--text) !important;
+   color: #fff !important;
+   border-color: var(--text) !important;
+   transform: rotate(180deg);
+ }
+
+ /* ── Stagger reveal ── */
+ @keyframes pop {
+   from { opacity: 0; transform: translateY(10px) scale(0.97); }
+   to { opacity: 1; transform: translateY(0) scale(1); }
+ }
+
+ /* ── Scrollbar ── */
+ .scroll::-webkit-scrollbar { height: 5px; }
+ .scroll::-webkit-scrollbar-track { background: transparent; }
+ .scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+
+const { useState, useCallback } = React;
+
+/* ── helper: hex → rgba ── */
+const rgba = (hex, a) => {
+ const r = parseInt(hex.slice(1,3),16);
+ const g = parseInt(hex.slice(3,5),16);
+ const b = parseInt(hex.slice(5,7),16);
+ return `rgba(${r},${g},${b},${a})`;
+};
+
+// ═══════════════════════════════════════════════════
+// DATA
+// ═══════════════════════════════════════════════════
+
+const DIMENSIONS = {
+ level: {
+   label: "Micro-Level",
+   labelZh: "微观层级",
+   items: [
+     { id: "phonetics", name: "Phonetics", zh: "语音学", abbr: "Pht" },
+     { id: "phonology", name: "Phonology", zh: "音系学", abbr: "Phl" },
+     { id: "morphology", name: "Morphology", zh: "形态学", abbr: "Mor" },
+     { id: "syntax", name: "Syntax", zh: "句法学", abbr: "Syn" },
+     { id: "semantics", name: "Semantics", zh: "语义学", abbr: "Sem" },
+     { id: "pragmatics", name: "Pragmatics", zh: "语用学", abbr: "Pra" },
+   ]
+ },
+ interface: {
+   label: "Interface Discipline",
+   labelZh: "交叉学科",
+   items: [
+     { id: "psycho", name: "Psycholing.", zh: "心理语言学", abbr: "Psy", color: "#C0392B" },
+     { id: "neuro", name: "Neuroling.", zh: "神经语言学", abbr: "Neu", color: "#8E44AD" },
+     { id: "socio", name: "Socioling.", zh: "社会语言学", abbr: "Soc", color: "#2471A3" },
+     { id: "historical", name: "Historical", zh: "历史语言学", abbr: "His", color: "#B7950B" },
+     { id: "computational", name: "Computational", zh: "计算语言学", abbr: "Com", color: "#1E8449" },
+     { id: "applied", name: "Applied / SLA", zh: "应用/二语习得", abbr: "SLA", color: "#CA6F1E" },
+     { id: "typology", name: "Typology", zh: "类型学", abbr: "Typ", color: "#6D4C41" },
+   ]
+ },
+ theory: {
+   label: "Theoretical Framework",
+   labelZh: "理论框架",
+   items: [
+     { id: "generative", name: "Generative / Formal", zh: "生成/形式", abbr: "Gen", color: "#1A5276" },
+     { id: "functional", name: "Functional / Social", zh: "功能/社会", abbr: "Fun", color: "#1E8449" },
+     { id: "cognitive", name: "Cognitive / Usage", zh: "认知/用法", abbr: "Cog", color: "#B7950B" },
+   ]
+ },
+ applied: {
+   label: "Applied Context",
+   labelZh: "应用语境",
+   items: [
+     { id: "sla_ctx", name: "SLA", zh: "二语习得", abbr: "SLA", color: "#CA6F1E" },
+     { id: "clinical", name: "Clinical", zh: "临床/病理", abbr: "Cln", color: "#C0392B" },
+     { id: "forensic", name: "Forensic", zh: "法语言学", abbr: "For", color: "#566573" },
+     { id: "educational", name: "Educational", zh: "教育语言学", abbr: "Edu", color: "#1A5276" },
+     { id: "corpus", name: "Corpus", zh: "语料库语言学", abbr: "Cor", color: "#1E8449" },
+     { id: "translation", name: "Translation", zh: "翻译学", abbr: "Trs", color: "#8E44AD" },
+   ]
+ }
+};
+
+const CELLS = {
+ "phonetics+psycho": { title: "Speech Perception", desc: "Categorical perception; Motor Theory of speech", fig: "Liberman" },
+ "phonetics+neuro": { title: "Auditory Neuroscience", desc: "Dual Stream Model (ventral/dorsal pathways)", fig: "Hickok & Poeppel" },
+ "phonetics+socio": { title: "Sociophonetics", desc: "Social stratification of phonetic variables", fig: "Labov" },
+ "phonetics+historical": { title: "Sound Change", desc: "Grimm's Law; Neogrammarian regularity", fig: "Grimm · Verner" },
+ "phonetics+computational": { title: "Speech Technology", desc: "ASR, TTS; neural speech models", fig: "Jelinek · Hinton" },
+ "phonetics+applied": { title: "L2 Speech", desc: "Speech Learning Model; foreign accent", fig: "Flege · Best" },
+ "phonology+psycho": { title: "Phonological Processing", desc: "Phonological awareness & working memory loop · Reading (Dual Route) / Sign Perception", fig: "Baddeley · Coltheart · Emmorey" },
+ "phonology+neuro": { title: "Neural Phonology", desc: "MMN as window into phonological representations · VWFA (Visual Word Form Area) / Sign Aphasia", fig: "Näätänen · Dehaene · Poizner" },
+ "phonology+socio": { title: "Socio-Phonology", desc: "Variable rules; t/d deletion patterns · Black ASL / Sign Variation", fig: "Labov · Guy · Ceil Lucas" },
+ "phonology+historical": { title: "Historical Phonology", desc: "Great Vowel Shift; chain shifts; mergers & splits", fig: "Osthoff & Brugmann" },
+ "phonology+computational": { title: "Computational Phonology", desc: "Finite-state models; computational OT", fig: "Kaplan & Kay" },
+ "phonology+applied": { title: "L2 Phonology", desc: "Markedness Differential Hypothesis; L1 transfer", fig: "Eckman · Major" },
+ "morphology+psycho": { title: "Morphological Processing", desc: "Decomposition vs. whole-word; past tense debate", fig: "Pinker vs. Rumelhart" },
+ "morphology+neuro": { title: "Morphological Neuroling.", desc: "Declarative/Procedural model; LAN responses", fig: "Ullman" },
+ "morphology+socio": { title: "Morphological Variation", desc: "Social conditioning of 3sg -s, possessive -s", fig: "Tagliamonte" },
+ "morphology+historical": { title: "Historical Morphology", desc: "Analogical leveling; grammaticalization", fig: "Kuryłowicz" },
+ "morphology+computational": { title: "Computational Morphology", desc: "FST analyzers; subword tokenization (BPE)", fig: "Beesley & Karttunen" },
+ "morphology+applied": { title: "L2 Morphology", desc: "Natural order; Processability Theory; bottleneck", fig: "Pienemann · Slabakova" },
+ "syntax+psycho": { title: "Sentence Processing", desc: "Garden Path; Minimal Attachment; Late Closure", fig: "Frazier · Fodor" },
+ "syntax+neuro": { title: "Syntactic Neuroling.", desc: "Broca's area; agrammatism; P600 ERP", fig: "Grodzinsky · Friederici" },
+ "syntax+socio": { title: "Socio-Syntax", desc: "AAVE copula deletion; quotative 'be like'", fig: "Rickford · Wolfram" },
+ "syntax+historical": { title: "Historical Syntax", desc: "SOV→SVO change; reanalysis; grammaticalization", fig: "Lightfoot" },
+ "syntax+computational": { title: "Syntactic Parsing", desc: "Dependency/constituency parsing; UD treebanks", fig: "Nivre · Manning" },
+ "syntax+applied": { title: "L2 Syntax", desc: "UG access debate; Feature Reassembly", fig: "White · Schwartz" },
+ "semantics+psycho": { title: "Lexical Access", desc: "Spreading activation; semantic priming", fig: "Collins & Loftus" },
+ "semantics+neuro": { title: "Semantic Neuroling.", desc: "N400 ERP; semantic integration difficulty", fig: "Kutas & Hillyard" },
+ "semantics+socio": { title: "Lexical Variation", desc: "Indexicality; social meaning of word choice", fig: "Eckert · Silverstein" },
+ "semantics+historical": { title: "Historical Semantics", desc: "Metaphor, metonymy, narrowing, broadening", fig: "Traugott · Blank" },
+ "semantics+computational": { title: "Computational Semantics", desc: "Word embeddings; BERT; formal semantic parsing", fig: "Mikolov · Devlin" },
+ "semantics+applied": { title: "L2 Lexical Semantics", desc: "Conceptual transfer; cross-linguistic influence", fig: "Jarvis · Pavlenko" },
+ "pragmatics+psycho": { title: "Discourse Processing", desc: "Real-time pragmatic inference; Relevance Theory", fig: "Sperber & Wilson" },
+ "pragmatics+neuro": { title: "Pragmatic Neuroling.", desc: "Right hemisphere; ToM; figurative language", fig: "Brownell · Happé" },
+ "pragmatics+socio": { title: "Discourse Analysis", desc: "Conversation Analysis; CDA; code-switching; politeness; face negotiation", fig: "Gumperz · Brown & Levinson · Sacks · Fairclough" },
+ "pragmatics+historical": { title: "Historical Pragmatics", desc: "Discourse markers; (inter)subjectification", fig: "Jucker · Traugott" },
+ "pragmatics+computational": { title: "Dialogue Systems", desc: "Dialogue state tracking; coreference; LLM pragmatics", fig: "Jurafsky · Traum" },
+ "pragmatics+applied": { title: "Interlanguage Pragmatics", desc: "L2 speech acts; pragmatic transfer", fig: "Kasper & Blum-Kulka" },
+ "phonetics+typology": { title: "Phonetic Inventories", desc: "Vowel/Consonant dispersion (UPSID); Tone systems", fig: "Maddieson · Ladefoged" },
+ "phonology+typology": { title: "Phonological Systems", desc: "Syllable structure (CV vs. CCCV); Stress placement rules", fig: "Hyman · Gordon" },
+ "morphology+typology": { title: "Morphological Types", desc: "Index of Synthesis (Analytic/Synthetic) & Fusion", fig: "Comrie · Haspelmath · Bickel" },
+ "syntax+typology": { title: "Word Order & Alignment", desc: "Greenberg's Universals; Ergativity; Head-marking", fig: "Greenberg · Dryer · Nichols" },
+ "semantics+typology": { title: "Semantic Typology", desc: "Lexicalization patterns (Motion); Color; Categorization", fig: "Talmy · Berlin & Kay · Majid" },
+ "pragmatics+typology": { title: "Pragmatic Typology", desc: "Politeness systems; Topic/Focus marking strategies", fig: "Brown & Levinson · Huang" },
+ "phonetics+generative": { title: "Acoustic Phonetics (SPE)", desc: "Distinctive features; binary specifications · Articulatory Phonetics (Sign)", fig: "Chomsky & Halle · Liddell & Johnson" },
+ "phonetics+functional": { title: "Sociophonetics", desc: "Sound as social index; identity construction", fig: "Labov" },
+ "phonetics+cognitive": { title: "Cognitive Phonetics", desc: "Exemplar models; frequency effects on production", fig: "Bybee · Johnson" },
+ "phonology+generative": { title: "Generative Phonology / OT", desc: "UR→SR rules; Optimality Theory constraints · Sign Parameters (Handshape) / Cherology", fig: "Chomsky & Halle · Prince & Smolensky · Stokoe" },
+ "phonology+functional": { title: "Functional Phonology", desc: "Phonology as shaped by communicative function", fig: "Boersma" },
+ "phonology+cognitive": { title: "Cognitive Phonology", desc: "Usage-based; prototype categories for phonemes", fig: "Bybee · Nathan" },
+ "morphology+generative": { title: "Distributed Morphology", desc: "Late insertion; morphology in syntax (no lexicon)", fig: "Halle & Marantz" },
+ "morphology+functional": { title: "Natural Morphology", desc: "Morphology shaped by function and iconicity", fig: "Dressler" },
+ "morphology+cognitive": { title: "Construction Morphology", desc: "Schemas and constructional inheritance", fig: "Booij" },
+ "syntax+generative": { title: "Minimalism / GB / UG", desc: "Merge, Move, phases; autonomous syntax module", fig: "Chomsky" },
+ "syntax+functional": { title: "Systemic Functional Grammar", desc: "Grammar as meaning-making resource; transitivity", fig: "Halliday" },
+ "syntax+cognitive": { title: "Construction Grammar", desc: "No lexicon/syntax divide; form-meaning pairings", fig: "Goldberg · Fillmore" },
+ "semantics+generative": { title: "Formal Semantics", desc: "Model-theoretic; truth conditions; lambda calculus", fig: "Montague" },
+ "semantics+functional": { title: "Discourse Semantics", desc: "Meaning in context; cohesion; text linguistics", fig: "Halliday & Hasan" },
+ "semantics+cognitive": { title: "Cognitive Semantics", desc: "Prototypes, frames, image schemas, CMT", fig: "Lakoff · Talmy · Fillmore" },
+ "pragmatics+generative": { title: "Formal Pragmatics", desc: "Scalar implicature; game-theoretic pragmatics", fig: "Grice · Chierchia" },
+ "pragmatics+functional": { title: "Interactional Pragmatics", desc: "Speech acts; politeness; conversation analysis · Stylistics & Register", fig: "Austin · Searle · Sacks · Leech · Jakobson" },
+ "pragmatics+cognitive": { title: "Cognitive Pragmatics", desc: "Relevance Theory; conceptual blending in discourse", fig: "Sperber & Wilson · Fauconnier" },
+ "generative+typology": { title: "Principles & Parameters", desc: "Parameter setting (e.g., Pro-drop); Macro-parameters · Exolinguistics / SETI", fig: "Chomsky · Baker" },
+ "functional+typology": { title: "Greenbergian Typology", desc: "Implicational universals; Economy & Iconicity explanations", fig: "Greenberg · Croft · Givón" },
+ "cognitive+typology": { title: "Semantic Maps", desc: "Conceptual spaces; Grammaticalization paths", fig: "Haspelmath · Croft" },
+ "psycho+generative": { title: "Generative Psycholing.", desc: "Modular parsing; UG-driven acquisition (LAD)", fig: "Fodor · Chomsky" },
+ "psycho+functional": { title: "Functional Psycholing.", desc: "Competition Model; usage-based L1 acquisition", fig: "MacWhinney · Tomasello" },
+ "psycho+cognitive": { title: "Cognitive Psycholing.", desc: "Embodied cognition; simulation semantics", fig: "Barsalou · Glenberg" },
+ "neuro+generative": { title: "Formal Neuroling.", desc: "Neural localization of syntax; Grodzinsky's program", fig: "Grodzinsky · Friederici" },
+ "neuro+functional": { title: "Functional Neuroling.", desc: "Neural plasticity; discourse-level brain processes", fig: "Kemmerer" },
+ "neuro+cognitive": { title: "Cognitive Neuroling.", desc: "Embodied neural semantics; mirror neurons & language", fig: "Pulvermüller" },
+ "socio+generative": { title: "Formal Variationism", desc: "Variable rules; parametric variation across dialects", fig: "Labov · Kroch" },
+ "socio+functional": { title: "Functional Socioling.", desc: "Language as social practice; indexical fields", fig: "Eckert · Silverstein" },
+ "socio+cognitive": { title: "Cognitive Socioling.", desc: "Cognitive bases of variation; salience & entrenchment", fig: "Schmid · Geeraerts" },
+ "historical+generative": { title: "Formal Diachrony", desc: "Parameter resetting; cue-based acquisition of change · Biolinguistics / Evolution of UG", fig: "Lightfoot · Roberts · Berwick & Chomsky · Hauser" },
+ "historical+functional": { title: "Grammaticalization", desc: "Functional pathways of change; unidirectionality", fig: "Hopper · Heine" },
+ "historical+cognitive": { title: "Cognitive Diachrony", desc: "Metaphor-driven semantic change; constructionalization", fig: "Traugott · Geeraerts" },
+ "computational+generative": { title: "Formal Computation", desc: "Chomsky hierarchy; formal language theory; automata", fig: "Chomsky · Joshi" },
+ "computational+functional": { title: "NLP & Discourse", desc: "Sentiment analysis; text classification; RST parsing", fig: "Manning · Jurafsky" },
+ "computational+cognitive": { title: "Cognitive Computation", desc: "Distributional semantics as cognitive model; surprisal", fig: "Erk · Levy" },
+ "applied+generative": { title: "Generative SLA", desc: "Full Transfer/Full Access; UG in L2 acquisition", fig: "Schwartz & Sprouse · White" },
+ "applied+functional": { title: "Functional SLA", desc: "Task-based teaching; Systemic Functional approaches", fig: "Ellis · Byrnes" },
+ "applied+cognitive": { title: "Cognitive SLA", desc: "Usage-based L2 learning; conceptual transfer; CMT in SLA", fig: "N. Ellis · Littlemore" },
+ "phonetics+sla_ctx": { title: "L2 Speech", desc: "Foreign accent; SLM; intelligibility research", fig: "Flege · Munro" },
+ "phonetics+clinical": { title: "Clinical Phonetics", desc: "Speech disorders; apraxia; dysarthria assessment", fig: "Ball & Müller" },
+ "phonetics+forensic": { title: "Forensic Phonetics", desc: "Speaker identification; voice lineups", fig: "Hollien · French" },
+ "phonetics+educational": { title: "Pronunciation & Literacy", desc: "Suprasegmentals; intelligibility-based instruction & Literacy Instruction", fig: "Celce-Murcia" },
+ "phonetics+corpus": { title: "Corpus Phonetics", desc: "Large-scale acoustic analysis; forced alignment", fig: "Liberman (Mark)" },
+ "syntax+sla_ctx": { title: "L2 Syntax", desc: "Interlanguage grammars; processability", fig: "Pienemann · White" },
+ "syntax+clinical": { title: "Clinical Syntax", desc: "SLI; agrammatic aphasia assessment", fig: "Leonard · Grodzinsky" },
+ "syntax+forensic": { title: "Forensic Syntax", desc: "Authorship attribution via syntactic patterns", fig: "Coulthard" },
+ "syntax+educational": { title: "Grammar Pedagogy", desc: "Focus on Form; explicit vs. implicit instruction", fig: "Long · R. Ellis" },
+ "syntax+corpus": { title: "Corpus Syntax", desc: "Treebanks; parsed corpora; syntactic frequency", fig: "Biber · Hunston" },
+ "semantics+sla_ctx": { title: "L2 Semantics", desc: "Conceptual transfer; cross-linguistic influence", fig: "Jarvis · Pavlenko" },
+ "semantics+clinical": { title: "Clinical Semantics", desc: "Anomia; semantic dementia; word-finding difficulty", fig: "Patterson" },
+ "semantics+forensic": { title: "Forensic Semantics", desc: "Meaning disputes in legal interpretation", fig: "Solan · Tiersma" },
+ "semantics+educational": { title: "Vocabulary Teaching", desc: "Word knowledge depth; collocation instruction", fig: "Nation · Schmitt" },
+ "semantics+corpus": { title: "Corpus Semantics", desc: "Collocations; semantic prosody; distributional analysis", fig: "Sinclair · Stubbs" },
+ "pragmatics+sla_ctx": { title: "Interlanguage Pragmatics", desc: "L2 speech act production; pragmatic transfer", fig: "Kasper & Blum-Kulka" },
+ "pragmatics+clinical": { title: "Clinical Pragmatics", desc: "Pragmatic impairment in ASD and RHD", fig: "Cummings" },
+ "pragmatics+forensic": { title: "Forensic Pragmatics", desc: "Courtroom discourse; coercion in interrogation", fig: "Shuy" },
+ "pragmatics+educational": { title: "Pragmatics Instruction", desc: "Teaching speech acts and discourse competence", fig: "Ishihara · Cohen" },
+ "pragmatics+corpus": { title: "Corpus Pragmatics", desc: "Pragmatic annotation; speech acts in corpora", fig: "Aijmer · Rühlemann" },
+ "morphology+sla_ctx": { title: "L2 Morphology", desc: "Morpheme acquisition order; bottleneck hypothesis", fig: "Slabakova" },
+ "morphology+clinical": { title: "Clinical Morphology", desc: "Inflectional deficits in SLI and aphasia", fig: "Leonard" },
+ "morphology+forensic": { title: "Forensic Morphology", desc: "Authorship: morphological patterns as fingerprint", fig: "Coulthard & Johnson" },
+ "morphology+educational": { title: "Morphology Pedagogy", desc: "Word formation instruction; morphological awareness", fig: "Bauer · Nation" },
+ "morphology+corpus": { title: "Corpus Morphology", desc: "Productivity measures; hapax legomena analysis", fig: "Baayen" },
+ "phonology+sla_ctx": { title: "L2 Phonology", desc: "Interlanguage phonology; markedness transfer", fig: "Eckman" },
+ "phonology+clinical": { title: "Clinical Phonology", desc: "Phonological disorders; process analysis", fig: "Stampe · Grunwell" },
+ "phonology+forensic": { title: "Forensic Phonology", desc: "Accent analysis in forensic speaker profiling", fig: "French & Harrison" },
+ "phonology+educational": { title: "Phonological Awareness", desc: "Teaching phonemic awareness for literacy", fig: "Goswami" },
+ "phonology+corpus": { title: "Corpus Phonology", desc: "Phonotactic probability from large corpora", fig: "Vitevitch" },
+ "phonetics+translation": { title: "Dubbing & Subtitling", desc: "Audiovisual translation; Lip-sync constraints", fig: "Díaz Cintas" },
+ "phonology+translation": { title: "Transliteration & Rhythm", desc: "Phonological adaptation across scripts; Poetic rhythm reconstruction", fig: "Holmes" },
+ "morphology+translation": { title: "Term Formation & Calque", desc: "Loan translation; neologism creation in technical domains", fig: "Cabré" },
+ "syntax+translation": { title: "Transposition & Structure", desc: "Cross-linguistic structural divergence; category shifts", fig: "Vinay & Darbelnet" },
+ "semantics+translation": { title: "Equivalence & Semantic Field", desc: "Dynamic/formal equivalence; semantic field mapping", fig: "Nida · Baker" },
+ "pragmatics+translation": { title: "Skopos & Explicitation", desc: "Skopos Theory; cultural explicitation strategies", fig: "Vermeer · Hatim" },
+ "psycho+sla_ctx": { title: "SLA Psycholing.", desc: "Processing instruction; input processing model", fig: "VanPatten" },
+ "psycho+clinical": { title: "Clinical Psycholing.", desc: "Language processing deficits; assessment tools", fig: "Caplan" },
+ "psycho+corpus": { title: "Corpus Psycholing.", desc: "Frequency effects; surprisal from corpus stats", fig: "Levy · Hale" },
+ "neuro+sla_ctx": { title: "SLA Neuroling.", desc: "Critical period; L2 neural representation", fig: "Ullman" },
+ "neuro+clinical": { title: "Clinical Neuroling.", desc: "Aphasia; acquired language disorders; recovery", fig: "Hillis" },
+ "socio+sla_ctx": { title: "SLA Socioling.", desc: "Identity & investment in L2 learning", fig: "Norton" },
+ "socio+educational": { title: "Educational Socioling.", desc: "Language policy; medium of instruction debates", fig: "Spolsky" },
+ "psycho+forensic": { title: "Deception & Confessions", desc: "Deception detection; false confessions; psycholinguistic evidence", fig: "Vrij · Kassin" },
+ "psycho+educational": { title: "Educational Psycholing.", desc: "Reading acquisition; cognitive processes in language instruction", fig: "Segalowitz · Kintsch" },
+ "neuro+forensic": { title: "Forensic Neuroling.", desc: "Brain-based deception detection (fMRI/ERP); neurolinguistic evidence", fig: "Langleben" },
+ "neuro+educational": { title: "Educational Neuroling.", desc: "Neuroscience of language learning; brain-based pedagogy", fig: "Ullman · Paradis" },
+ "neuro+corpus": { title: "Corpus Neuroling.", desc: "Corpus-derived predictors in ERP/fMRI; frequency norms in brain research", fig: "Frank · Demberg" },
+ "socio+forensic": { title: "Forensic Socioling.", desc: "Linguistic profiling; dialect identification in legal contexts", fig: "Rickford · Labov" },
+ "socio+clinical": { title: "Clinical Socioling.", desc: "Social impact of communication disorders; stigma & identity", fig: "Simmons-Mackie" },
+ "socio+corpus": { title: "Corpus Socioling.", desc: "Corpus approaches to variation; large-scale sociolinguistic analysis", fig: "Tagliamonte · Baker" },
+ "computational+sla_ctx": { title: "NLP for SLA", desc: "Learner corpus NLP; automated proficiency assessment; error detection", fig: "Granger · Meurers" },
+ "computational+clinical": { title: "Clinical NLP", desc: "Automated speech assessment; NLP for dementia detection", fig: "Fraser · Rudzicz" },
+ "computational+forensic": { title: "Authorship Attribution", desc: "Computational authorship identification; forensic text analysis", fig: "Koppel · Juola" },
+ "computational+corpus": { title: "Corpus NLP", desc: "Annotation tools; POS tagging; parsing pipelines", fig: "Manning · Bird" },
+ "computational+educational": { title: "CALL / EdTech", desc: "Computer-assisted language learning; NLP for education", fig: "Chapelle" },
+ "historical+educational": { title: "History of Language Teaching", desc: "Pedagogy traditions; evolution of language teaching methods", fig: "Howatt · Kelly" },
+ "historical+corpus": { title: "Historical Corpus Ling.", desc: "Diachronic corpora; Helsinki Corpus tradition", fig: "Rissanen" },
+ "psycho+translation": { title: "Translation Process", desc: "Cognitive effort; eye-tracking; think-aloud protocols in translation", fig: "Krings · Tirkkonen-Condit" },
+ "neuro+translation": { title: "Neuroscience of Translation", desc: "Bilingual brain during translation; interpreting neural correlates", fig: "Hervais-Adelman · Price" },
+ "socio+translation": { title: "Sociology of Translation", desc: "Translation norms; power & ideology; translator habitus", fig: "Toury · Lefevere" },
+ "historical+translation": { title: "History of Translation", desc: "Translation traditions across eras; cultural transfer", fig: "Bassnett · Munday" },
+ "computational+translation": { title: "Machine Translation", desc: "Statistical MT; neural MT (seq2seq, Transformer); post-editing", fig: "Koehn · Bahdanau · Vaswani" },
+ "applied+sla_ctx": { title: "SLA Research Methods", desc: "Research design in SLA; mixed methods; classroom-based research", fig: "Dörnyei · Mackey" },
+ "applied+clinical": { title: "Clinical Applied Ling.", desc: "Speech-language pathology practice; clinical intervention design", fig: "Crystal · Perkins" },
+ "applied+forensic": { title: "Forensic Applied Ling.", desc: "Expert witness linguistics; language as evidence in court", fig: "Coulthard · Shuy" },
+ "applied+educational": { title: "Language Teaching Method.", desc: "Curriculum & syllabus design; TBLT; communicative approaches", fig: "Richards · Long" },
+ "applied+corpus": { title: "Applied Corpus Ling.", desc: "Learner corpora; data-driven learning; corpus in pedagogy", fig: "Granger · Johns" },
+ "applied+translation": { title: "Pedagogical Translation", desc: "L1 use in language teaching; translation as learning tool", fig: "Cook · Malmkjær" },
+ "typology+sla_ctx": { title: "Typological Primacy", desc: "Markedness Differential Hypothesis; L1-L2 distance", fig: "Eckman · Ringbom" },
+ "typology+clinical": { title: "Cross-ling. Aphasia", desc: "How language type affects symptom manifestation", fig: "Bates · Menn" },
+ "typology+forensic": { title: "L1 Identification", desc: "Identifying native language from L2 writing patterns", fig: "Grant" },
+ "typology+educational": { title: "Contrastive Analysis", desc: "Predicting learner difficulty via typological distance", fig: "Lado · Odlin" },
+ "typology+corpus": { title: "Quantitative Typology", desc: "Massive parallel corpora; Probabilistic universals", fig: "Bickel · Levshina" },
+ "typology+translation": { title: "Translation Universals", desc: "Universals of translation; typological distance & translatability", fig: "Toury · Baker" },
+ "generative+sla_ctx": { title: "Generative SLA", desc: "UG access; Full Transfer / Full Access", fig: "Schwartz & Sprouse" },
+ "generative+clinical": { title: "Generative Clinical", desc: "Tree Pruning; representational deficit theories", fig: "Friedmann · Grodzinsky" },
+ "generative+educational": { title: "Formal Grammar Teaching", desc: "Rule-based syllabi; explicit grammar instruction", fig: "DeKeyser" },
+ "functional+sla_ctx": { title: "Functional SLA", desc: "Task-based language teaching; genre pedagogy", fig: "R. Ellis · Byrnes" },
+ "functional+clinical": { title: "Functional Assessment", desc: "Functional communication measures; ICF framework", fig: "WHO · ASHA" },
+ "functional+educational": { title: "Genre-Based Pedagogy", desc: "SFL-informed writing instruction; literacy cycles", fig: "Martin · Rose" },
+ "functional+forensic": { title: "Forensic Discourse Analysis", desc: "CDA in legal discourse; courtroom genre analysis", fig: "Fairclough · Cotterill" },
+ "functional+corpus": { title: "Corpus & SFL", desc: "Register analysis; multi-dimensional analysis", fig: "Biber · Halliday" },
+ "cognitive+sla_ctx": { title: "Cognitive SLA", desc: "Usage-based L2 learning; conceptual transfer; CMT", fig: "N. Ellis · Littlemore" },
+ "cognitive+clinical": { title: "Cognitive Clinical", desc: "Metaphor in therapy; embodied rehabilitation", fig: "Gibbs · Bowdle" },
+ "cognitive+educational": { title: "Cognitive Pedagogy", desc: "Cognitive Grammar in teaching; Applied CL", fig: "Langacker · Tyler" },
+ "cognitive+forensic": { title: "Cognitive Forensic Ling.", desc: "Framing in legal language; cognitive approaches to legal interpretation", fig: "Solan" },
+ "cognitive+corpus": { title: "Cognitive Corpus Ling.", desc: "Collostructional analysis; usage-based quantification", fig: "Stefanowitsch · Gries" },
+ "generative+corpus": { title: "Corpus & Formal Theory", desc: "Zipf's Law; frequency effects; formal corpus methods", fig: "G.K. Zipf" },
+ "generative+forensic": { title: "Formal Forensic Ling.", desc: "Formal syntactic analysis in authorship disputes; structural fingerprinting", fig: "Chaski" },
+ "generative+translation": { title: "Formal Translation Theory", desc: "Contrastive analysis; structural correspondence; translation shifts", fig: "Catford" },
+ "functional+translation": { title: "Functional Translation", desc: "Text-type approach; Skopos theory; SFL-based translation quality", fig: "Reiss · Nord · House" },
+ "cognitive+translation": { title: "Cognitive Translation", desc: "Translation as cognitive process; embodied simulation; metaphor transfer", fig: "Halverson · Muñoz Martín" },
+};
+
+// ═══════════════════════════════════════════════════
+// COMPONENTS
+// ═══════════════════════════════════════════════════
+
+const PersonIcon = ({ color }) => (
+ <svg width="11" height="13" viewBox="0 0 11 13" fill="none" style={{ flexShrink: 0, marginRight: 5, marginTop: 1 }}>
+   <circle cx="5.5" cy="3.2" r="2.6" fill={color} />
+   <path d="M0.7 13C0.7 9.8 2.6 7.5 5.5 7.5C8.4 7.5 10.3 9.8 10.3 13" fill={color} />
+ </svg>
+);
+
+function App() {
+ const [xAxis, setXAxis] = useState("level");
+ const [yAxis, setYAxis] = useState("interface");
+ const [selectedCell, setSelectedCell] = useState(null);
+ const [tick, setTick] = useState(0);
+
+ const xDim = DIMENSIONS[xAxis];
+ const yDim = DIMENSIONS[yAxis];
+
+ const getCell = useCallback((xId, yId) => {
+   return CELLS[`${xId}+${yId}`] || CELLS[`${yId}+${xId}`] || null;
+ }, []);
+
+ const sw = (axis, v) => {
+   if (axis === 'x') { if (v === yAxis) setYAxis(xAxis); setXAxis(v); }
+   else { if (v === xAxis) setXAxis(yAxis); setYAxis(v); }
+   setSelectedCell(null);
+   setTick(t => t + 1);
+ };
+
+ const total = xDim.items.length * yDim.items.length;
+ const filled = xDim.items.reduce((a, xi) =>
+   a + yDim.items.filter(yi => getCell(xi.id, yi.id)).length, 0);
+
+ return (
+   <div style={{ padding: '44px 28px 36px', maxWidth: 1520, margin: '0 auto' }}>
+
+     {/* ─── Header ─── */}
+     <header style={{ textAlign: 'center', marginBottom: 32 }}>
+       <h1 style={{
+         fontFamily: 'var(--serif)', fontWeight: 400,
+         fontSize: '2.6em', color: 'var(--text)', lineHeight: 1.1,
+       }}>
+         Linguistics Knowledge Explorer
+       </h1>
+       <div style={{ width: 36, height: 2, background: '#333', margin: '12px auto', borderRadius: 1 }} />
+       <p style={{ color: 'var(--text-3)', fontSize: '0.84em', letterSpacing: 0.5 }}>
+         4 Dimensions &middot; {total} Intersections &middot; {filled} Populated ({Math.round(filled/total*100)}%)
+       </p>
+     </header>
+
+     {/* ─── Axis Selectors ─── */}
+     <div style={{
+       display: 'flex', gap: 12, justifyContent: 'center',
+       marginBottom: 28, flexWrap: 'wrap', alignItems: 'center',
+     }}>
+       <Sel label="Columns" value={xAxis} other={yAxis} onChange={v => sw('x',v)} />
+       <button className="swap" onClick={() => { const t=xAxis; setXAxis(yAxis); setYAxis(t); setSelectedCell(null); setTick(k=>k+1); }}
+         style={{ background:'#fff', borderRadius:'50%', width:34, height:34, display:'flex', alignItems:'center', justifyContent:'center', cursor:'pointer', fontSize:'0.9em', color:'var(--text-3)' }}
+       >⇄</button>
+       <Sel label="Rows" value={yAxis} other={xAxis} onChange={v => sw('y',v)} />
+     </div>
+
+     {/* ─── Matrix ─── */}
+     <div className="scroll" style={{ overflowX: 'auto', paddingBottom: 20 }}>
+       <div key={tick} style={{
+         display: 'grid',
+         gridTemplateColumns: `110px repeat(${xDim.items.length}, minmax(155px, 1fr))`,
+         gridTemplateRows: `56px repeat(${yDim.items.length}, auto)`,
+         gap: 6,
+         minWidth: xDim.items.length * 165 + 110,
+         padding: '16px 12px 12px',
+         background: 'var(--board)',
+         borderRadius: 16,
+       }}>
+
+         {/* Corner */}
+         <div style={{
+           display: 'flex', alignItems: 'flex-end', justifyContent: 'flex-end',
+           paddingRight: 10, paddingBottom: 6,
+           fontSize: '0.6em', color: 'var(--text-3)', lineHeight: 1.4,
+           textAlign: 'right', fontWeight: 500,
+         }}>
+           <span>
+             {yDim.label} ↓<br/>
+             {xDim.label} →
+           </span>
+         </div>
+
+         {/* Column headers */}
+         {xDim.items.map(item => (
+           <div key={item.id} style={{
+             display: 'flex', flexDirection: 'column', alignItems: 'center',
+             justifyContent: 'center', textAlign: 'center', gap: 1,
+           }}>
+             <span style={{
+               fontSize: '0.72em', fontWeight: 700,
+               textTransform: 'uppercase', letterSpacing: 1,
+               color: item.color || 'var(--text)',
+             }}>{item.name}</span>
+             <span style={{
+               fontSize: '0.6em', fontWeight: 500,
+               color: 'var(--text-3)',
+             }}>{item.zh}</span>
+           </div>
+         ))}
+
+         {/* Rows */}
+         {yDim.items.map((yItem, ri) => (
+           <React.Fragment key={yItem.id}>
+             {/* Row header */}
+             <div style={{
+               display: 'flex', alignItems: 'center', justifyContent: 'flex-end',
+               paddingRight: 12, textAlign: 'right', lineHeight: 1.35,
+             }}>
+               <span>
+                 <span style={{
+                   display:'inline-block', width: 4, height: 4, borderRadius: 1,
+                   background: yItem.color || '#999', marginRight: 6, verticalAlign: 'middle',
+                 }}/>
+                 <span style={{
+                   fontSize: '0.66em', fontWeight: 700,
+                   color: yItem.color || 'var(--text)',
+                 }}>{yItem.name}</span>
+                 <br/>
+                 <span style={{
+                   fontSize: '0.56em', fontWeight: 500,
+                   color: 'var(--text-3)', marginLeft: 10,
+                 }}>{yItem.zh}</span>
+               </span>
+             </div>
+
+             {/* Cells */}
+             {xDim.items.map((xItem, ci) => {
+               const cell = getCell(xItem.id, yItem.id);
+               const key = `${xItem.id}+${yItem.id}`;
+               const sel = selectedCell === key;
+               const accent = yItem.color || xItem.color || '#666';
+               const delay = (ri * xDim.items.length + ci) * 10;
+
+               if (!cell) return (
+                 <div key={key} className="cell" style={{
+                   background: 'var(--empty-bg)', borderRadius: 10,
+                   minHeight: 100, display: 'flex', alignItems: 'center',
+                   justifyContent: 'center', opacity: 0.55,
+                   animation: 'pop 0.3s ease both',
+                   animationDelay: `${delay}ms`,
+                 }}>
+                   <div style={{ width: 4, height: 4, borderRadius: '50%', background: 'var(--border)' }} />
+                 </div>
+               );
+
+               return (
+                 <div key={key}
+                   className={`cell filled ${sel ? 'selected' : ''}`}
+                   onClick={() => setSelectedCell(sel ? null : key)}
+                   style={{
+                     '--ring': accent,
+                     background: rgba(accent, 0.08),
+                     borderRadius: 12,
+                     padding: '14px 14px 12px',
+                     minHeight: 118,
+                     position: 'relative',
+                     cursor: 'pointer',
+                     display: 'flex', flexDirection: 'column',
+                     boxShadow: sel ? undefined : `0 1px 4px ${rgba(accent, 0.08)}`,
+                     animation: 'pop 0.3s ease both',
+                     animationDelay: `${delay}ms`,
+                   }}
+                 >
+                   {/* Title with dot */}
+                   <div style={{ display: 'flex', alignItems: 'flex-start', gap: 7, marginBottom: 8 }}>
+                     <span style={{
+                       display: 'inline-block', width: 6, height: 6, borderRadius: '50%',
+                       background: accent, flexShrink: 0, marginTop: 4,
+                     }} />
+                     <span style={{
+                       fontSize: '0.82em', fontWeight: 700, lineHeight: 1.3,
+                       color: 'var(--text)',
+                     }}>{cell.title}</span>
+                   </div>
+
+                   {/* Description */}
+                   <div style={{
+                     fontSize: '0.7em', lineHeight: 1.6,
+                     color: 'var(--text-2)', fontWeight: 400,
+                     flex: 1,
+                   }}>{cell.desc}</div>
+
+                   {/* Scholars */}
+                   {cell.fig && (
+                     <div style={{
+                       marginTop: 10, paddingTop: 8,
+                       borderTop: `1px solid ${rgba(accent, 0.15)}`,
+                       display: 'flex', alignItems: 'flex-start',
+                       fontSize: '0.64em', color: accent,
+                       lineHeight: 1.4,
+                     }}>
+                       <PersonIcon color={accent} />
+                       <span style={{
+                         fontFamily: 'var(--scholar)', fontStyle: 'italic',
+                         fontWeight: 500,
+                       }}>{cell.fig}</span>
+                     </div>
+                   )}
+                 </div>
+               );
+             })}
+           </React.Fragment>
+         ))}
+       </div>
+     </div>
+
+     {/* ─── Footer ─── */}
+     <footer style={{
+       maxWidth: 700, margin: '20px auto 0', paddingTop: 18,
+       borderTop: '1px solid var(--border)',
+       textAlign: 'center', lineHeight: 1.8,
+     }}>
+       <div style={{ fontFamily: 'var(--serif)', fontStyle: 'italic', fontSize: '1.05em', color: 'var(--text-2)' }}>
+         Four Dimensions of Linguistic Knowledge
+       </div>
+       <div style={{ fontSize: '0.74em', color: 'var(--text-3)', letterSpacing: 0.3 }}>
+         Micro-Level &middot; Interface Discipline &middot; Theoretical Framework &middot; Applied Context
+       </div>
+       <div style={{ fontSize: '0.68em', color: 'var(--text-4)' }}>
+         C(4,2) = 6 unique views &mdash; switch axes above to explore
+       </div>
+       <div style={{ fontSize: '0.62em', color: 'var(--text-4)', marginTop: 12 }}>
+         &copy; {new Date().getFullYear()} Tip &middot; All rights reserved
+       </div>
+     </footer>
+   </div>
+ );
+}
+
+function Sel({ label, value, other, onChange }) {
+ return (
+   <div style={{
+     background: '#fff', borderRadius: 12,
+     padding: '10px 14px', border: '1px solid var(--border)',
+     minWidth: 190,
+   }}>
+     <div style={{
+       fontSize: '0.58em', fontWeight: 700, color: 'var(--text-3)',
+       marginBottom: 7, textTransform: 'uppercase', letterSpacing: 2,
+     }}>{label}</div>
+     <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
+       {Object.entries(DIMENSIONS).map(([k, d]) => {
+         const on = value === k;
+         const off = k === other;
+         return (
+           <button key={k} className={`pill ${on ? 'on' : ''}`}
+             onClick={() => onChange(k)} disabled={off}
+             style={{
+               padding: '4px 10px', borderRadius: 999,
+               background: on ? 'var(--text)' : 'transparent',
+               color: on ? '#fff' : off ? 'var(--text-4)' : 'var(--text-2)',
+               fontSize: '0.7em', fontWeight: 600,
+               cursor: off ? 'default' : 'pointer',
+               opacity: off ? 0.3 : 1,
+             }}
+           >{d.labelZh}</button>
+         );
+       })}
+     </div>
+   </div>
+ );
+}
+
+ReactDOM.render(<App />, document.getElementById('root'));
+</script>
+</body>
+</html>

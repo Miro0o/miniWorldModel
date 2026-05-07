@@ -372,7 +372,7 @@ else publik_L = 0;
 
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Explicit_flows_and_side_channels
 
-nformation flows can be divided in two major categories. The simplest one is explicit flow, where some secret is explicitly leaked to a publicly observable variable. In the following example, the secret in the variable _h_ flows into the publicly observable variable _l_.
+Information flows can be divided in two major categories. The simplest one is explicit flow, where some secret is explicitly leaked to a publicly observable variable. In the following example, the secret in the variable _h_ flows into the publicly observable variable _l_.
 ```
 var l, h
 l := h
@@ -480,6 +480,12 @@ if (secret) {
 
 
 ## 🎯 Semantic Foundations /Information Flow Policies
+> [!links]
+> ↗ [Cybersecurity Basics & Information Security (InfoSec)](../../../../../Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Other Cryptographic Properties Threats & Countermeasures](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+
+
 ### Observational Equivalence
 > 🔗 https://en.wikipedia.org/wiki/Observational_equivalence
 
@@ -598,15 +604,31 @@ A _when_ declassification policy regulates when the information can be release
 > > 👉 Same thing, just different emphasis.
 
 
-### Denning's Approach & Lattice Model
+### Denning's Approach (High & Low Label) & Lattice Model 
 > 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
-#### High /Low Security Analysis
+#### Basic Idea
+There is a set $S$ of **security labels**
+- e.g.: $S = \{\text{Low}, \text{High}\}$
+The labels are **ordered** $(\sqsubseteq)$
+- e.g.: $\text{Low} \sqsubseteq \text{High}$ i.e. Low is smaller than High
+A **security policy** assigns a security label to each variable
+- e.g.: the variable $x$ is High, the variable $y$ is Low, ...
+We have **two operations** $(\sqcup, \sqcap)$ for **combining labels**
+- $\sqcup$ the **supremum** (aka **smallest upper bound** aka **join**)
+	- e.g.: $\text{Low} \sqcup \text{High} = \text{High}$ (the maximum)
+- $\sqcap$ the **infimum** (aka **greatest lower bound** aka **meet**)
+	- e.g.: $\text{Low} \sqcap \text{High} = \text{Low}$ (the minimum)
+
+We write
+- $x \rightsquigarrow y$ whenever there is a flow of information from $x$ to $y$
+- $\underline{x}$ for the security label of $x$ e.g. $\underline{x} = \text{High}$
+
+We can enforce this idea via language-based enforcement. (see below)
 
 > [!Example]
 > 
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.25.27.png)
-> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.26.37.png)
-#### Denning's Approach Formalized in Lattice ⭐
+#### Lattice Formalization ⭐
 > [!links]
 > ↗ [Partial Order & Order Theory](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 > ↗ [Lattice (Order Theory)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
@@ -651,16 +673,31 @@ In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
 > [!Example]
 > ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.59.20.png)
 ##### Typical Security Policy Frameworks - Components
+Start with
+- A finite and non-empty set $C$ of **security categories**.
+
+Security labels can be all subsets of $C$:
+- $(\mathrm{PowerSet}(C), \supseteq, \cap, \cup)$ for **confidentiality policies**.
+- $(\mathrm{PowerSet}(C), \subseteq, \cup, \cap)$ for **integrity policies**.
+
+A security label $s \in \mathrm{PowerSet}(C)$ is called a **component**.
+
+Recall $\mathrm{PowerSet}(C) = \{\, C_0 \mid C_0 \subseteq C \,\},$ i.e., the set of subsets of $C$.
 
 > [!Example]
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.03.38.png)
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.04.06.png)
-
 ##### Combining Security Policy Frameworks - Product Construction
+Whenever $(S_1, \sqsubseteq_1, \sqcup_1, \sqcap_1)$ and $(S_2, \sqsubseteq_2, \sqcup_2, \sqcap_2)$ are two security frameworks, we can construct the framework $(S, \sqsubseteq, \sqcup, \sqcap)$ where
+- $S = S_1 \times S_2$
+- for $(s_{11}, s_{12}), (s_{21}, s_{22}) \in S$:
+	- $(s_{11}, s_{12}) \sqsubseteq (s_{21}, s_{22}) \iff s_{11} \sqsubseteq_1 s_{21} \land s_{12} \sqsubseteq_2 s_{22}$
+- for $(s_{11}, s_{12}), (s_{21}, s_{22}) \in S$:
+	- $(s_{11}, s_{12}) \sqcup (s_{21}, s_{22}) = (s_{11} \sqcup_1 s_{21},\, s_{12} \sqcup_2 s_{22})$ and $(s_{11}, s_{12}) \sqcap (s_{21}, s_{22}) = (s_{11} \sqcap_1 s_{21},\, s_{12} \sqcap_2 s_{22})$
 
 > [!Example]
 > ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
-##### ✅ Non-Interference
+#### ✅ Non-Interference
 > [!TIP] Theorem (Non-Interference for an arbitrary Security Policy Framework)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:
 > 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
@@ -702,7 +739,7 @@ In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
 > - Result of an election: the votes are secret/private, but the result is public.
 > - Medical database: the medical records are secret, but they may be released to a researcher after personal information is removed.
 > - Electronic Auction: the max bids of customers is secret at first, but then during bidding they are partially revealed.
-> We thus want a mechanism to explicitly declassify information in a fine-grained way.
+> We thus want a mechanism to explicitly **declassify** information in a **fine-grained** way.
 > 
 > ---
 > Classical information flow gives you a strong guarantee:
@@ -724,7 +761,7 @@ In a security framework $(S, \sqsubseteq, \sqcup, \sqcap)$
 > Consider a large organization like a hospital:
 > - Even though the hospital itself is honest, it may run some systems that are not secure.
 > - Systems that are designed by honest people could have bugs.
-> - When declassifying information, you may not want to give permission to use the data arbitrarily.
+> - When declassifying information, you may not want to give permission to use the data **arbitrarily**.
 > 	- There may be a usage policy about using the declassified data, and compliance may be required by law, e.g. GDPR.
 > 	- Similarly, release of data may be subject to usage policy by a contract, e.g., the researchers must make a contract with the hospital to get access to patient data.
 > - How to formally specify such policies and automatically prove compliance?
@@ -735,20 +772,103 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
     - An owner can say who can **read** the data.
     - You can only read data if **all** owners have allowed it.
 2. Defining $⊑, ⊔, ⊓$.
-	- Except for declassification this is standard information flow å la Denning from the last lecture.
+	- Except for declassification this is standard information flow à la (in the manner of) Dennings' approach.
 3. **Declassify** limited: an owner can only relax **their own constraint**.
 4. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
 
 > [!example] Hospital Domain With DLM
 > ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
+
+Overview
+1. **Security lattice**:
+	1. A set of **owners**: participants or roles who own the respective data
+	2. An owner can say who can **read** the data.
+	3. You can only read data if **all** owners have allowed it
+2. Defining $\sqsubseteq$, $\sqcup$, $\sqcap$.
+	1. Except for declassification this is standard information flow à la (in the manner of) Dennings' approach.
+3. **Declassify**: an owner can relax their own constraint.
+4. Programs can act **on behalf** of an owner and thus declassify.
 #### Security Lattice
+We have the security framework $(P \hookrightarrow \mathrm{PowerSet}(P), \sqsubseteq, \sqcup, \sqcap)$ where
+- $P \hookrightarrow \mathrm{PowerSet}(P)$ is the set of all **partial mappings** from $P$ to $\mathrm{PowerSet}(P)$. 
+	- $\begin{aligned} s_1 &= \{A : \{A,B\}\} \\ s_2 &= \{B : \{A\}\} \\ s_3 &= \{B : \{A\}, A : \{\}\} \end{aligned}$
+- For a label $s$ we define $\mathrm{Owners}(s) = \mathrm{Domain}(s)$
+- For a security label $s$ and principal $p$ define
+	- $\mathrm{Readers}(s,p)= \begin{cases} s(p) & \text{if } p \in \mathrm{Owners}(s) \\ P & \text{if } p \notin \mathrm{Owners}(s) \end{cases}$
+		- $Readers(s_1,A) = \{A,B\}$
+		- $Readers(s_2,B) = \{A\}$
+		- $Readers(s_3,B) = \{A\}$
+		- $Readers(s_3,A) = \{ \}$
+		- $Readers(s_3, C) = P$ (everybody)
+- Alternative notation (bit easier to read): 
+	- $\{(A : A,C),(B : B,C)\}$ for $\{A : \{A,C\}, B : \{B,C\}\}$
+#### Ordering & Declassification Rule
+##### Confidentiality
+**Ordering**
+For two security labels $s_1,s_2$ we have
+- $s_1 \sqsubseteq s_2$ iff 
+	- $\mathrm{Owners}(s_1) \subseteq \mathrm{Owners}(s_2)$ and
+	- $\mathrm{Readers}(s_1,o) \supseteq \mathrm{Readers}(s_2,o) \quad \text{for every } o \in \mathrm{Owners}(s_1)$
+- $s_1 \sqcup s_2$ such that
+	- $\mathrm{Owners}(s_1 \sqcup s_2) = \mathrm{Owners}(s_1)\cup\mathrm{Owners}(s_2)$
+	- $\mathrm{Readers}(s_1 \sqcup s_2,o) = \mathrm{Readers}(s_1,o) \cap \mathrm{Readers}(s_2,o)$ for every $o \in \mathrm{Owners}(s_1 \sqcup s_2)$
+- $s_1 \sqcap s_2$ such that
+	- $\mathrm{Owners}(s_1 \sqcap s_2) = \mathrm{Owners}(s_1)\cap\mathrm{Owners}(s_2)$
+	- $\mathrm{Readers}(s_1 \sqcap s_2,o) = \mathrm{Readers}(s_1,o) \cup \mathrm{Readers}(s_2,o)$ for every owner $o \in \mathrm{Owners}(s_1 \sqcap s_2)$
 
-#### Ordering
+Examples
+- $\{(A : A,B)\} \sqsubseteq \{(A : A),(B : A,B)\}$
+- $\{(A : A,B),(C : A,C)\} \sqcup \{(A : A,C),(B : A,B)\} = \{(A : A),(B : A,B),(C : A,C)\}$
+- Write $\{\bot\}$ for the bottom element ($\sqcap$ of all labels), which is: no owners, everybody can read!
 
-#### Declassification Rule
 
+---
+**Label Interpretation**
+
+Useful definition that gives an intuitive explanation to our labels:
+
+In the case of data with a **confidentiality** label $s$ $$\mathrm{EffectiveReaders}(s) = \bigcap_{o \in \mathrm{Owners}(s)}
+\mathrm{Readers}(s,o)$$
+Only principals in the effective readers set can read the data.
+
+Example: $\mathrm{EffectiveReaders}(\{(B : A,B),(A : A)\}) = \{A\}$
+Special case: for the bottom element $\{\bot\}$ (no owners), everybody $(P)$ is allowed to read: $$\mathrm{EffectiveReaders}(\{\bot\}) = P$$
+
+---
+**Declassification**
+An owner $o$ can declassify their data **only** in the following ways:
+- add readers for owner $o$
+- or remove the owner $o$
+
+> [!Example]
+> $L_1 = \{(A : A,B),(B : B,C,D),(C : A,B,C)\}$ 
+> Effective readers: $\{B\}$
+> Owner $A$ can
+> - Add readers, e.g., $L_2 = \{(A : A,B,C,D),(B : B,C,D),(C : A,B,C)\}$
+> 	- This makes $C$ an effective reader, but not $D$ because $C$ does not support that.
+> - Remove itself as owner: $L_3 = \{(B : B,C,D),(C : A,B,C)\}$, thus making $C$ an effective reader by removing the $A$'s constraint that only $A$ and $B$ can read.
+> 	- Removing yourself is equivalent to adding everybody as a reader.
+##### Integrity
+Like the other information flow approaches, also Myers’ can be used for integrity with the following security labels:
+- Instead of Readers we have Writers
+- $s_1 \sqsubseteq s_2$ iff
+	- $\mathrm{Owners}(s_1) \supseteq \mathrm{Owners}(s_2)$ and
+	- $\forall o \in \mathrm{Owners}(s_2): \mathrm{Writers}(s_1,o) \subseteq \mathrm{Writers}(s_2,o)$
+- $s_1 \sqcup s_2$ such that
+	- $\mathrm{Owners}(s_1 \sqcup s_2) = \mathrm{Owners}(s_1)\cap\mathrm{Owners}(s_2)$
+	- $\mathrm{Writers}(s_1 \sqcup s_2) = \mathrm{Writers}(s_1,o) \cup \mathrm{Writers}(s_2,o)$
+- $s_1 \sqcap s_2$ such that
+	- $\mathrm{Owners}(s_1 \sqcap s_2) = \mathrm{Owners}(s_1)\cup\mathrm{Owners}(s_2)$
+	- $\mathrm{Writers}(s_1 \sqcap s_2) = \mathrm{Writers}(s_1,o) \cap \mathrm{Writers}(s_2,o)$
 #### The Act as Relation
-
+Declassification is only allowed to an entity who has the right to declassify.
+- We can define for each process that it can act on behalf of principals, e.g., “process $X$ can act on behalf of hospital and patient $P$”
+- Think of this as a form of delegation, e.g., a patient gives the hospital the authority to use some data for some purposes.
+- By default, all processes run without any authority.
+- The special construct $\texttt{if\_acts\_for}(X,Y)\ \texttt{then}\ Z$
+	- checks if the current process $X$ is allowed to assume authority $Y$ 
+	- and if so, executes command $Z$ with that authority.
+- Declassification can only happen in the $Z$ block of an $\texttt{if\_acts\_for}$.
 #### ✅ Declassification
 > [!Example] 
 > 
@@ -771,6 +891,27 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
 > - chkr: special authority that owns the password database.
 > - The check pw tries to assume the chkr authority, and, if successful, declassifies match.
 
+> [!Abstract] Why not...
+> Observation
+> - The effective readers are the ones allowed to read
+>   by every owner.
+> - If $s_1 \sqsubseteq s_2$ then always
+> 	- $\mathrm{EffectiveReaders}(s_1) \supseteq \mathrm{EffectiveReaders}(s_2)$
+> 	- so information can only legally flow from an $s_1$-variable into an $s_2$-variable, if $s_2$ is at least as restrictive on the $\mathrm{EffectiveReaders}$.
+> 
+> > [!Question]
+> > So why not simplify the labels to just the effective readers, i.e., a single set of participants who are allowed to read?
+> > 🤔
+> > Imagine the following scenario:
+> > - A hospital has some data that can only be read by the hospital. (Not directly patient data,
+> >   but maybe derived from it)
+> > - Some patients have agreed that their data can be used in medical studies (after some anonymization), others have not.
+> > - Can the data be declassified for medical studies?
+> 
+> Because of declassification:
+> - The labels keep track of who has a say on the data.
+> - This avoids that we forget somebody’s confidentiality rights to data when declassifying.
+
 
 
 ## 🎯 IFC Enforcement Mechanisms (Syntactic / Operational)
@@ -784,6 +925,120 @@ A prominent way to enforce information flow policies in a program is through a 
 
 
 ### Static Enforcement
+#### Language-Based IFC
+> [!links]
+> ↗ [Context-Free Languages (CFL) & Push-Down Automata (PDA)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Free%20Languages%20(CFL)%20&%20Push-Down%20Automata%20(PDA).md)
+
+A **language-based approach**:
+- We define the syntax of a small programming language using a context-free grammar.
+- For each grammar rule, we specify an information flow rule, i.e., what information flows this construct can induce.
+
+Now information flow can be checked statically as part of an interpreter or compiler for the programming language:
+1. Parse a given input program, obtaining an abstract syntax tree.
+2. Optionally do type checking and the like.
+3. Traverse the tree and apply the corresponding information flow rules at every node to obtain the information flows.
+4. For every information flow $x \rightsquigarrow y$ check that the security labels allow this flow: $\underline{x} \sqsubseteq \underline{y}$
+5. If none of these checks failed, we know that in no execution of the program any illegal information flows can occur and we can safely run it or produce output code.
+
+> [!Example]
+> 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
+> 
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.25.27.png)
+##### Denning & Denning
+> 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
+
+> [!Example]
+> ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.26.37.png)
+
+
+---
+**Rules for Declarations**
+Grammar
+- $D ::= T\ C\ \text{var}$
+- $T ::= \textbf{integer} \mid \textbf{integer file} \mid \ldots$
+- $C ::= \text{Low} \mid \text{High}$
+
+
+Rules
+
+| $D$                | security class of var        |
+| ------------------ | ---------------------------- |
+| $T\ C\ \text{var}$ | $\underline{\text{var}} = C$ |
+
+The rules generate the security classes for our variables, files, ...
+
+---
+**Rules for Expressions**
+Grammar
+- $E ::= \text{var} \mid n \mid E_1\ op_a\ E_2$
+  where var is for variable names, $n$ for integer constants, and
+  $op_a ::= + \mid - \mid * \mid \ldots$
+- $B ::= \text{true} \mid \text{false} \mid E_1\ op_r\ E_2 \mid B_1\ op_b\ B_2$
+  $op_r ::= > \mid < \mid = \mid \ldots \quad \text{and} \quad op_b ::= \land \mid \lor \mid \ldots$
+
+
+Rules
+
+| $E$ | security class of $E$ |
+|---|---|
+| $\text{var}$ | $\underline{E} = \underline{\text{var}}$ |
+| $n$ | $\underline{E} = \text{Low}$ |
+| $E_1\ op_a\ E_2$ | $\underline{E} = \underline{E_1} \sqcup \underline{E_2}$ |
+
+| $B$ | security class of $B$ |
+|---|---|
+| $\text{true}$ | $\underline{B} = \text{Low}$ |
+| $\text{false}$ | $\underline{B} = \text{Low}$ |
+| $E_1\ op_r\ E_2$ | $\underline{B} = \underline{E_1} \sqcup \underline{E_2}$ |
+| $B_1\ op_b\ B_2$ | $\underline{B} = \underline{B_1} \sqcup \underline{B_2}$ |
+
+The rules generate the security classes of arithmetic and boolean expressions.
+
+---
+**Rules for Statements**
+Grammar $$ \begin{aligned}
+S ::= {} & \text{var} := E \\
+\mid {} & \textbf{input}\ \text{var}_1\ \textbf{from}\ \text{var}_2 \\
+\mid {} & \textbf{output}\ E\ \textbf{to}\ \text{var} \\
+\mid {} & \textbf{if}\ B\ \textbf{then}\ S_1\ \textbf{else}\ S_2 \\
+\mid {} & \textbf{while}\ B\ \textbf{do}\ S_0 \\
+\mid {} & S_1 ; S_2
+\end{aligned} $$
+Rules
+
+| $S$                                                         | security class of $S$                                    | constraint                                                      |
+| ----------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- |
+| $\text{var} := E$                                           | $\underline{S} = \underline{\text{var}}$                 | $\underline{E} \sqsubseteq \underline{\text{var}}$              |
+| $\textbf{input}\ \text{var}_1\ \textbf{from}\ \text{var}_2$ | $\underline{S} = \underline{\text{var}_1}$               | $\underline{\text{var}_2} \sqsubseteq \underline{\text{var}_1}$ |
+| $\textbf{output}\ E\ \textbf{to}\ \text{var}$               | $\underline{S} = \underline{\text{var}}$                 | $\underline{E} \sqsubseteq \underline{\text{var}}$              |
+| $\textbf{if}\ B\ \textbf{then}\ S_1\ \textbf{else}\ S_2$    | $\underline{S} = \underline{S_1} \sqcap \underline{S_2}$ | $\underline{B} \sqsubseteq \underline{S}$                       |
+| $\textbf{while}\ B\ \textbf{do}\ S_0$                       | $\underline{S} = \underline{S_0}$                        | $\underline{B} \sqsubseteq \underline{S}$                       |
+| $S_1 ; S_2$                                                 | $\underline{S} = \underline{S_1} \sqcap \underline{S_2}$ |                                                                 |
+
+The rules generate the security class of a statement and impose information flow constraints.
+
+---
+**Rules for arrays and procedures**
+Grammar
+$$
+\begin{aligned}
+D ::= {} & \ldots \mid \textbf{integer array}\ C\ A[n] \mid \ldots \\
+         & \ldots \mid \textbf{proc}\ p(\textbf{in}\ T_1\ C_1\ \text{var}_{in},
+         \textbf{out}\ T_2\ C_2\ \text{var}_{out})\ \textbf{is}\ S_{body} \\
+E ::= {} & \ldots \mid A[E_1] \\
+S ::= {} & \ldots \mid A[E_1] := E_2 \mid \textbf{call}\ p(E,\text{var})
+\end{aligned}
+$$
+
+
+Rules
+
+| $S$                              | security class of $S$           | constraint                                                                                                                     |
+| -------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| $A[E_1] := E_2$                  | $\underline{S} = \underline{A}$ | $\underline{E_1} \sqcup \underline{E_2} \sqsubseteq \underline{A}$                                                             |
+| $\textbf{call}\ p(E,\text{var})$ | $\underline{S} = \underline{p}$ | $\underline{E} \sqsubseteq \underline{\text{var}_{in}}$ <br> $\underline{\text{var}_{out}} \sqsubseteq \underline{\text{var}}$ |
+
+where $p$ was declared with as input $\text{var}_{in}$ and output $\text{var}_{out}$.
 #### Type-System-Based IFC
 > [!links]
 > ↗ [Type Theory (类型论)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
@@ -845,7 +1100,7 @@ Note that the rule $[C7]$ is a subsumption rule, which means that any command th
 Essentially the same approach as Denning and Denning:
 - . . . but represented as a **type system**
 	- Security classes like Low and High are considered as types
-	- The ordering of security classes ⊑is considered as a **subtype relation**
+	- The ordering of security classes $⊑$ is considered as a **subtype relation**
 	- Information Flow Analysis is described as a set of **type-inference rules**
 - They give a natural semantics for the programming language.
 - Type system and semantics allows for proving a precise statement about the security of programs that fulfill the information flow policy: a **Non-Interference Result**.
