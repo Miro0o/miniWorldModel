@@ -237,6 +237,11 @@ https://github.com/wzchen/probability_cheatsheet
 
 
 ## Intro
+
+![probability](../../../../../Assets/Cheat_Sheets/probability.pdf)
+
+
+
 ### Probability 🆚 Statistics?
 #probability #statistics
 

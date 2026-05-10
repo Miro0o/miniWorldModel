@@ -131,6 +131,9 @@ https://github.com/myangeline/python/tree/master
 > 记录一些常用的和自己在学习过程中用到的一些第三方库的使用 python is interesting...
 
 
+### Other Resources
+
+
 
 ## Intro
 ![|150](../../../../../Assets/Pics/Pasted%20image%2020250915232030.png)
@@ -148,6 +151,19 @@ This document gives coding conventions for the Python code comprising the standa
 This style guide evolves over time as additional conventions are identified and past conventions are rendered obsolete by changes in the language itself.
 
 Many projects have their own coding style guidelines. In the event of any conflicts, such project-specific guides take precedence for that project.
+
+
+
+## Python CheatSheet
+![](../../../../../Assets/Cheat_Sheets/PythonForDataScience.pdf)
+
+
+![](../../../../../Assets/Cheat_Sheets/Importing_Data_Python_Cheat_Sheet.pdf)
+
+![](../../../../../Assets/Cheat_Sheets/beginners_python_cheat_sheet_pcc_all.pdf)
+
+![](../../../../../Assets/Cheat_Sheets/davechild_python.pdf)
+![](../../../../../Assets/Cheat_Sheets/mementopython3-english.pdf)
 
 
 

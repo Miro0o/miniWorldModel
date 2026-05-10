@@ -291,6 +291,10 @@ The screenshots below illustrate the folder structure represented as a mind map 
 </div>
 
 
+### The Hidden Files
+Some files are not uploaded to public, but mostly just because of personal privacy. If you see them in the notes, I am very sorry.
+
+
 
 ## The End
 At the moment, _miniWorldModel_ is still in its beta stage. I don’t expect it to receive much attention in the near future, as my life is busy and it leaves little time for promotion or outreach. For now, these notes are primarily intended for my own use. That said, I’m glad to have taken the first steps toward making them accessible to others, and I hope they will continue to improve in clarity and presentation over time.

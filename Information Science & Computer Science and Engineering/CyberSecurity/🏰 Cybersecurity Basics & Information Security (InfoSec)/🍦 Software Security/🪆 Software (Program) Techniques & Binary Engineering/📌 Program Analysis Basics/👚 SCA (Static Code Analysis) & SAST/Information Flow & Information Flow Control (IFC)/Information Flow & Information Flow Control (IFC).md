@@ -499,6 +499,9 @@ In the [formal semantics of programming languages](https://en.wikipedia.org/wik
 
 
 ### 1️⃣ Noninterference Policy
+> [!links]
+> ↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Non-interference_(security)
 
 Non-interference is a policy that enforces that an attacker should not be able to distinguish two computations from their outputs if they only vary in their secret inputs. However, this policy is too strict to be usable in realistic programs.[4] The classic example is a password checker program that, in order to be useful, needs to disclose some secret information: whether the input password is correct or not (note that the information that an attacker learns in case the program rejects the password is that the attempted password is not the valid one).
@@ -508,7 +511,7 @@ Non-interference is a policy that enforces that an attacker should not be able t
 
 
 ### 2️⃣ Relaxations of Noninterference
-#### Declassification⭐
+#### Information Declassification ⭐
 > [!links]
 > ↗ [Authentication (身份鉴别)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md) "authentication factors"
 
@@ -648,7 +651,7 @@ We can enforce this idea via language-based enforcement. (see below)
 
 A **security policy framework** is a 4-tuple $(S, \sqsubseteq, \sqcup, \sqcap)$ where
 * $S$ is a **finite** and **non-empty** set of **security labels**.
-* $\sqsubseteq: S \times S$ is a **binary relation**
+* $\sqsubseteq: S \times S$ is a **binary relation** (partial order)
 	* (a) $\sqsubseteq$ is **reflexive** : for all $s \in S : s \sqsubseteq s$
 	* (b) $\sqsubseteq$ is **transitive**: for all $s_1, s_2, s_3 \in S :$ 
 		* $s_1 \sqsubseteq s_2 \land s_2 \sqsubseteq s_3 \implies s_1 \sqsubseteq s_3$
@@ -698,6 +701,9 @@ Whenever $(S_1, \sqsubseteq_1, \sqcup_1, \sqcap_1)$ and $(S_2, \sqsubseteq_2, \s
 > [!Example]
 > ![|300](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.51.55.png)
 #### ✅ Non-Interference
+> [!links]
+> ↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+
 > [!TIP] Theorem (Non-Interference for an arbitrary Security Policy Framework)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:
 > 	* $\gamma \vdash c : \tau \quad \text{(for any type } \tau, \text{ does not matter)}$
@@ -711,7 +717,7 @@ Whenever $(S_1, \sqsubseteq_1, \sqcup_1, \sqcap_1)$ and $(S_2, \sqsubseteq_2, \s
 > 	* $\mu_1'(x) = \mu_2'(x) \text{ for every } x \text{ with } \gamma(x) \sqsubseteq \tau_0$
 
 
-### Decentralized Label Model (DLM) ⭐
+### Myers' Approach & Decentralized Label Model (DLM) ⭐
 > 📄 Myers, Andrew C., and Barbara Liskov. "A decentralized model for information flow control." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 129-142.
 
 > [!Example] Introducing Example
@@ -893,8 +899,7 @@ Declassification is only allowed to an entity who has the right to declassify.
 
 > [!Abstract] Why not...
 > Observation
-> - The effective readers are the ones allowed to read
->   by every owner.
+> - The effective readers are the ones allowed to read by every owner.
 > - If $s_1 \sqsubseteq s_2$ then always
 > 	- $\mathrm{EffectiveReaders}(s_1) \supseteq \mathrm{EffectiveReaders}(s_2)$
 > 	- so information can only legally flow from an $s_1$-variable into an $s_2$-variable, if $s_2$ is at least as restrictive on the $\mathrm{EffectiveReaders}$.
@@ -903,8 +908,7 @@ Declassification is only allowed to an entity who has the right to declassify.
 > > So why not simplify the labels to just the effective readers, i.e., a single set of participants who are allowed to read?
 > > 🤔
 > > Imagine the following scenario:
-> > - A hospital has some data that can only be read by the hospital. (Not directly patient data,
-> >   but maybe derived from it)
+> > - A hospital has some data that can only be read by the hospital. (Not directly patient data, but maybe derived from it)
 > > - Some patients have agreed that their data can be used in medical studies (after some anonymization), others have not.
 > > - Can the data be declassified for medical studies?
 > 
@@ -1033,6 +1037,15 @@ $$
 
 Rules
 
+| $D$                                                                                                                            | Security Class                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| $\textbf{integer}\ C\ A[n]$                                                                                                    | $\underline{A} = C$                                                                                                       |
+| $\textbf{proc}\ p(\ \textbf{in}\ T_1\ C_1\ \text{var}_{in},\ \textbf{out}\ T_2\ C_2\ \text{var}_{out})\ \textbf{is}\ S_{body}$ | $\underline{p} = \underline{S_{body}}$ <br> $\underline{\text{var}_{in}} = C_1$ <br> $\underline{\text{var}_{out}} = C_2$ |
+
+| $E$      | Security Class                                         |
+| -------- | ------------------------------------------------------ |
+| $A[E_1]$ | $\underline{E} = \underline{A} \sqcup \underline{E_1}$ |
+
 | $S$                              | security class of $S$           | constraint                                                                                                                     |
 | -------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | $A[E_1] := E_2$                  | $\underline{S} = \underline{A}$ | $\underline{E_1} \sqcup \underline{E_2} \sqsubseteq \underline{A}$                                                             |
@@ -1111,10 +1124,18 @@ We simplify the paper a bit:
 - We directly work with the syntax-directed form and do not need to distinguish the syntactic roles of variables, expressions and commands in the type system (i.e., we do not have var τ etc.)
 
 ###### Syntax
+Expressions e ::= x |n |e + e′ |...|e = e′ |...
+
+Commands c ::= x := e |c; c′ |if e then c else c′ |while e do c
+
+where x is for identifiers (for variables) and n is for constants.
+
 
 ###### Semantics
 
 ###### ✅ Non-Interference
+> [!links]
+> ↗ [Program Abstraction & Abstract Interpretation](../🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 > [!TIP] Theorem (Non-Interference instantiated for $L \sqsubseteq H$-security)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:
@@ -1129,6 +1150,19 @@ We simplify the paper a bit:
 > 	* $\mu_1'(x) = \mu_2'(x) \text{ for every } x \text{ with } \gamma(x) = L$
 > 
 > ![|500](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2023.15.35.png)
+
+**Relation to Secrecy and Privacy**
+Note that ==we do not assume that the values in the high variables are strong secrets.== They may contain...
+- personal information like name, age, CPR, medical data...
+- a guessable password
+- a credit card number and expiration information
+- a vote
+Information Flow/Noninterference guarantees that the intruder does not learn anything about it as long as he can only read low variables.
+- It is thus...
+- ... not like secrecy in OFMC
+- ... a bit like guessable secrecy in OFMC
+- ... close to α-β-privacy! 
+	- ↗ [Cryptographic Protocols Modeling & Verification /α-β Privacy](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md#α-β%20Privacy)
 
 > [!TIP] Theorem (Non-Interference instantiated for $T \sqsubseteq U$)
 > * Suppose a program $c$ satisfies information flow policy $\gamma$:

@@ -21,6 +21,10 @@ http://regexvisualizer.apphb.com/
 Regular expression visualizer
 
 
+### Other Resources
+![python-regular-expressions-cheat-sheet](../../../../../Assets/Cheat_Sheets/python-regular-expressions-cheat-sheet.pdf)
+
+
 
 ## Intro
 A **regular expression**(shortened as **regex** or **regexp**; sometimes referred to as **rational expression**) is a sequence of characters that specifies a [match pattern](https://en.wikipedia.org/wiki/Pattern_matching "Pattern matching") in text. Usually such patterns are used by [string-searching algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm "String-searching algorithm") for "find" or "find and replace" operations on strings, or for [input validation](https://en.wikipedia.org/wiki/Data_validation "Data validation"). 
