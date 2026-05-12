@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Multi-Agent RL (MARL)](../../../../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
 
 
 ### Learning Resources & Papers

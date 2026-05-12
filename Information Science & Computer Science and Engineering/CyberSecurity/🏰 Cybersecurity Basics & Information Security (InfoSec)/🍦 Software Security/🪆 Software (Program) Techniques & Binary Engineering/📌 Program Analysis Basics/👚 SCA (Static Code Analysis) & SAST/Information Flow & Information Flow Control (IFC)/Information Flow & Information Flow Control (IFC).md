@@ -783,7 +783,7 @@ Andrew C. Myers and Barbara Liskov: _A Decentralized Model for Information Flow 
 4. Programs can act **on behalf** of an owner and thus declassify, but this forces programmer to make every declassification explicit, so one does not accidentally **forget** about the rights of some owner.
 
 > [!example] Hospital Domain With DLM
-> ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-04-20%20at%2022.37.23.png)
+> ![|400](../../../../../../../../Assets/Pics/Screenshot%202026-05-11%20at%2014.34.23.png)
 
 Overview
 1. **Security lattice**:
