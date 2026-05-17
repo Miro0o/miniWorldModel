@@ -51,6 +51,9 @@ Richard S. Sutton and Andrew G. Barto
 ### Other Resources
 For a list of real-world applications of RL, see e.g., https://bit.ly/42V7dIJ from Csaba szepesvari (2024), https://bit.ly/3EMMYCW from Vitaly Kurin (2022), and https://github.com/montrealrobotics/DeepRLInTheWorld, which seems to be kept up to date.
 
+https://walkinglabs.github.io/hands-on-modern-rl/preface/intro
+Hands-on Modern RL
+
 
 
 ## Intro
