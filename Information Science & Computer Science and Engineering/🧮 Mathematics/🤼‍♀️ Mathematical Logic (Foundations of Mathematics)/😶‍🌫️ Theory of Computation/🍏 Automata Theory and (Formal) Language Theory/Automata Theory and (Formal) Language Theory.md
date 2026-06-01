@@ -42,6 +42,8 @@ Converting a DFA to a Minimal State DFA
 
 ![Language_and_Programming_Language_Processing | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 
+![](../../../../../Assets/Pics/Screenshot%202026-05-17%20at%2021.04.43.png)
+
 ↗ [Language & Literature](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 ↗ [Linguistics](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 

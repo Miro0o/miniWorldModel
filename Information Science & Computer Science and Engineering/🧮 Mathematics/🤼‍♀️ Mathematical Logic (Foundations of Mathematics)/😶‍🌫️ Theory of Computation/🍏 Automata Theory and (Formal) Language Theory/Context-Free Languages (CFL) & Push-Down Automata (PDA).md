@@ -10,6 +10,10 @@
 
 
 ## Intro
+
+
+
+## Context Free Language & Grammar
 > 🔗 https://en.wikipedia.org/wiki/Context-free_grammar
 
 In [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") theory, a **context-free grammar** (**CFG**) is a [formal grammar](https://en.wikipedia.org/wiki/Formal_grammar "Formal grammar") whose [production rules](https://en.wikipedia.org/wiki/Production_\(computer_science\) "Production (computer science)") can be applied to a [nonterminal symbol](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols "Terminal and nonterminal symbols") regardless of its context. In particular, in a context-free grammar, each production rule is of the form $$A → α$$
@@ -23,6 +27,40 @@ replaces $\langle {\text{Stmt}}\rangle$ with $\langle {\text{Id}}\rangle =\lan
 Context-free grammars arise in [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics") where they are used to describe the structure of sentences and words in a [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), and they were invented by the linguist [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky "Noam Chomsky") for this purpose. By contrast, in [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), as the use of recursively defined concepts increased, they were used more and more. In an early application, grammars are used to describe the structure of [programming languages](https://en.wikipedia.org/wiki/Programming_language "Programming language"). In a newer application, they are used in an essential part of the [Extensible Markup Language](https://en.wikipedia.org/wiki/Extensible_Markup_Language "Extensible Markup Language") (XML) called the [document type definition](https://en.wikipedia.org/wiki/Document_type_definition "Document type definition").
 
 In linguistics, some authors use the term [phrase structure grammar](https://en.wikipedia.org/wiki/Phrase_structure_grammar "Phrase structure grammar") to refer to context-free grammars, whereby phrase-structure grammars are distinct from [dependency grammars](https://en.wikipedia.org/wiki/Dependency_grammar "Dependency grammar"). In computer science, a popular notation for context-free grammars is [Backus–Naur form](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form "Backus–Naur form"), or BNF.
+
+
+### Formal Definition
+> 🔗 https://en.wikipedia.org/wiki/Context-free_grammar#Formal_definitions
+
+
+### Pumping Lemma
+> 🔗 https://en.wikipedia.org/wiki/Pumping_lemma_for_context-free_languages
+
+
+### Regular Grammar
+> 🔗 https://en.wikipedia.org/wiki/Context-free_grammar#Regular_grammars
+
+
+### Decidable Problems
+> 🔗 https://en.wikipedia.org/wiki/Context-free_grammar#Decidable_problems
+
+
+### Undecidable Problems
+> 🔗 https://en.wikipedia.org/wiki/Context-free_grammar#Undecidable_problems
+
+
+
+## Push-Down Automata (PDA)
+> [!links]
+> ↗ [Bag, Queue, Stack](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Bag,%20Queue,%20Stack.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Pushdown_automaton
+
+In the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), a branch of [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **pushdown automaton** (**PDA**) is a type of [automaton](https://en.wikipedia.org/wiki/Automata_theory "Automata theory") that employs a [stack](https://en.wikipedia.org/wiki/Stack_\(data_structure\) "Stack (data structure)").
+
+Pushdown automata are used in theories about what can be computed by machines. They are more capable than [finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine") but less capable than [Turing machines](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") (see [below](https://en.wikipedia.org/wiki/Pushdown_automaton#Turing_machines)). [Deterministic pushdown automata](https://en.wikipedia.org/wiki/Deterministic_pushdown_automata "Deterministic pushdown automata") can recognize all [deterministic context-free languages](https://en.wikipedia.org/wiki/Deterministic_context-free_language "Deterministic context-free language") while nondeterministic ones can recognize all [context-free languages](https://en.wikipedia.org/wiki/Context-free_language "Context-free language"), with the former often used in [parser](https://en.wikipedia.org/wiki/Parser "Parser") design.
+
+The term "pushdown" refers to the fact that the [stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\) "Stack (abstract data type)") can be regarded as being "pushed down" like a tray dispenser at a cafeteria, since the operations never work on elements other than the top element. A **stack automaton**, by contrast, does allow access to and operations on deeper elements. Stack automata can recognize a strictly larger set of languages than pushdown automata. A [nested stack automaton](https://en.wikipedia.org/wiki/Nested_stack_automaton "Nested stack automaton") allows full access, and also allows stacked values to be entire sub-stacks rather than just single finite symbols.
 
 
 

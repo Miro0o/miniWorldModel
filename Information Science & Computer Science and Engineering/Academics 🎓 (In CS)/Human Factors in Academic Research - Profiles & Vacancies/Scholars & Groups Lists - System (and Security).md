@@ -57,7 +57,12 @@ https://www.cse.cuhk.edu.hk/
 
 https://shao-hua-li.github.io/home
 https://www.cse.cuhk.edu.hk/people/faculty/shaohuali/
+https://github.com/cuhk-s3
 shaohua li
+- [Agentic Harness for Real-World Compilers](https://arxiv.org/pdf/2603.20075)
+- [Broken Promise: Differential Analysis of Functional Discrepancies Between WebAssembly and Native Binaries]()
+- [Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models]()
+- [WBSan: Webassembly Bug Detection for Sanitization and Binary-Only Fuzzing]()
 
 https://www.cse.cuhk.edu.hk/people/faculty/wei-meng/
 https://www.cse.cuhk.edu.hk/~wei/

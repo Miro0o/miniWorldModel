@@ -10,6 +10,10 @@
 ↗ [BPMS (Business Process Management Systems)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Imperative%20Process%20Modeling/BPMS%20(Business%20Process%20Management%20Systems).md)
 
 
+### Cheat Sheet
+![](../../../../../../Assets/Pics/Pasted%20image%2020260601094543.png)
+
+
 ### Other Resources
 
 
