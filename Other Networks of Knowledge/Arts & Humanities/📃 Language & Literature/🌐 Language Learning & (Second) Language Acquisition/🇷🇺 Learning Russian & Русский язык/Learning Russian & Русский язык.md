@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Russia 🇷🇺](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md)
+↗ [Russia 🇷🇺](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md)
 
 
 ### Other Resources

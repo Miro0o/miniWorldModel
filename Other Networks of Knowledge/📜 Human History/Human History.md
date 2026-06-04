@@ -11,15 +11,15 @@
 ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 ↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-↗ [U.S. History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [U.S. History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
 ↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
-↗ [Russia History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
-↗ [Japanese History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
-↗ [Korean History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
-↗ [Iran History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
+↗ [Russia History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/Russia%20History%20Overview.md)
+↗ [Japanese History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japanese%20History%20Overview.md)
+↗ [Korean History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/📜%20Korean%20History%20Overview/Korean%20History%20Overview.md)
+↗ [Iran History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
 
-↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
 ↗ [Europa Universalis](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
 
 
@@ -207,6 +207,16 @@ https://www.sechistorical.org/
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Human_history
+
+**Human history**, or **world history**, is the record of [humankind](https://en.wikipedia.org/wiki/Human "Human") from [prehistory](https://en.wikipedia.org/wiki/Prehistory "Prehistory") to the [present](https://en.wikipedia.org/wiki/Present "Present"). [Modern humans](https://en.wikipedia.org/wiki/Early_modern_human "Early modern human") evolved in [Africa](https://en.wikipedia.org/wiki/Africa "Africa") around 300,000 years ago and initially lived as [hunter-gatherers](https://en.wikipedia.org/wiki/Hunter-gatherer "Hunter-gatherer"). They [migrated out of Africa](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa "Early expansions of hominins out of Africa") during the [Last Ice Age](https://en.wikipedia.org/wiki/Last_Ice_Age "Last Ice Age"), spreading to every continent except [Antarctica](https://en.wikipedia.org/wiki/Antarctica "Antarctica") by its end, 12,000 years ago. Soon afterwards, the [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution "Neolithic Revolution") in [West Asia](https://en.wikipedia.org/wiki/West_Asia "West Asia") included the first systematic [husbandry](https://en.wikipedia.org/wiki/Agriculture "Agriculture") of plants and animals, and saw many humans transition from [nomadic](https://en.wikipedia.org/wiki/Nomad "Nomad") lives to [sedentary](https://en.wikipedia.org/wiki/Sedentism "Sedentism") existences as farmers in [permanent settlements](https://en.wikipedia.org/wiki/Civilization "Civilization"). The growing complexity of human societies necessitated systems of [accounting](https://en.wikipedia.org/wiki/Accounting "Accounting") and [writing](https://en.wikipedia.org/wiki/Writing "Writing").
+
+[Early civilizations then emerged](https://en.wikipedia.org/wiki/Cradle_of_civilization "Cradle of civilization") in [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia "Mesopotamia"), [Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt "Ancient Egypt"), [Peru](https://en.wikipedia.org/wiki/Caral%E2%80%93Supe_civilization "Caral–Supe civilization"), the [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley "Indus Valley"), and [China](https://en.wikipedia.org/wiki/History_of_China "History of China"), marking the beginning of the [ancient period](https://en.wikipedia.org/wiki/Ancient_period "Ancient period") in the 4th millennium BCE. These civilizations enabled the establishment of regional empires and provided fertile ground for transformative philosophical and religious ideas. [Hinduism](https://en.wikipedia.org/wiki/Hinduism "Hinduism") originated during the late [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age "Bronze Age") and was followed by the many seminal belief systems of the [Axial Age](https://en.wikipedia.org/wiki/Axial_Age "Axial Age"): [Buddhism](https://en.wikipedia.org/wiki/Buddhism "Buddhism"), [Confucianism](https://en.wikipedia.org/wiki/Confucianism "Confucianism"), [Greek philosophy](https://en.wikipedia.org/wiki/Greek_philosophy "Greek philosophy"), [Jainism](https://en.wikipedia.org/wiki/Jainism "Jainism"), [Judaism](https://en.wikipedia.org/wiki/Judaism "Judaism"), [Taoism](https://en.wikipedia.org/wiki/Taoism "Taoism"), and [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism "Zoroastrianism"). [Christianity](https://en.wikipedia.org/wiki/Christianity "Christianity") began later as an offshoot of Judaism. The subsequent [post-classical period](https://en.wikipedia.org/wiki/Post-classical_history "Post-classical history"), from about 500 to 1500 CE, included the rise of [Islam](https://en.wikipedia.org/wiki/Islam "Islam") and the flourishing of China under the [Tang](https://en.wikipedia.org/wiki/Tang_dynasty "Tang dynasty") and [Song](https://en.wikipedia.org/wiki/Song_dynasty "Song dynasty") dynasties while civilization expanded to new parts of the world and trade between societies increased. Major empires rose and fell, such as the [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire "Byzantine Empire"), the Islamic [caliphates](https://en.wikipedia.org/wiki/Caliphate "Caliphate"), and the [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire "Mongol Empire"). This period's invention of [gunpowder](https://en.wikipedia.org/wiki/Gunpowder "Gunpowder") and the [printing press](https://en.wikipedia.org/wiki/Printing_press "Printing press") greatly affected later history.
+
+During the [early modern period](https://en.wikipedia.org/wiki/Early_modern_period "Early modern period"), from approximately 1500 to 1800 CE, [European powers explored](https://en.wikipedia.org/wiki/Age_of_Discovery "Age of Discovery") and [colonized](https://en.wikipedia.org/wiki/Colonized "Colonized") regions worldwide, intensifying cultural and economic exchange. This era's intellectual, cultural, and technological changes in Europe included the [Renaissance](https://en.wikipedia.org/wiki/Renaissance "Renaissance"), [Reformation](https://en.wikipedia.org/wiki/Reformation "Reformation"), [Scientific Revolution](https://en.wikipedia.org/wiki/Scientific_Revolution "Scientific Revolution"), and [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment "Age of Enlightenment"). By the 18th century, the accumulation of knowledge and technology had reached a [critical mass](https://en.wikipedia.org/wiki/Critical_mass_\(sociodynamics\) "Critical mass (sociodynamics)") that brought about the [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution "Industrial Revolution"), underpinning the [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence "Great Divergence"), and began the [modern period](https://en.wikipedia.org/wiki/Modern_period "Modern period") starting around 1800 CE. The rapid growth in productive power further increased [international trade](https://en.wikipedia.org/wiki/International_trade "International trade") and [colonization](https://en.wikipedia.org/wiki/Colonization "Colonization"), linking the different civilizations in the process of [globalization](https://en.wikipedia.org/wiki/Globalization "Globalization") and cementing European dominance throughout the 19th century. Over the last 250 years, which included two devastating [world wars](https://en.wikipedia.org/wiki/World_war "World war"), there has been a great acceleration in many spheres, including [human population](https://en.wikipedia.org/wiki/Population_growth "Population growth"), agriculture, industry, commerce, scientific knowledge, technology, communications, military capabilities, and [environmental degradation](https://en.wikipedia.org/wiki/Environmental_degradation "Environmental degradation").
+
+The study of human history relies on insights from academic disciplines such as [history](https://en.wikipedia.org/wiki/History "History"), [archaeology](https://en.wikipedia.org/wiki/Archaeology "Archaeology"), [anthropology](https://en.wikipedia.org/wiki/Anthropology "Anthropology"), [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), and [genetics](https://en.wikipedia.org/wiki/Genetics "Genetics"). To provide an accessible overview, researchers divide human history by a variety of periodizations.
+
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#
 
 **人类历史**，即[人类](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB "人类")产生与发展的[历史](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2 "历史")。现代人类大约在30万年前于[非洲](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%B4%B2 "非洲")自[原始人类](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%A7%8B%E4%BA%BA%E9%A1%9E "原始人类")演化而来，最初以[狩猎采集](https://zh.wikipedia.org/wiki/%E7%8B%A9%E7%8D%B5%E6%8E%A1%E9%9B%86 "狩猎采集")为生。[末次冰期](https://zh.wikipedia.org/wiki/%E6%9C%AB%E6%AC%A1%E5%86%B0%E6%9C%9F "末次冰期")后，[人类走出非洲](https://zh.wikipedia.org/wiki/%E6%97%A9%E6%9C%9F%E4%BA%BA%E9%A1%9E%E8%B5%B0%E5%87%BA%E9%9D%9E%E6%B4%B2 "早期人类走出非洲")，至1.2万年前，[冰期](https://zh.wikipedia.org/wiki/%E5%86%B0%E6%9C%9F "冰期")结束，人类已经扩散到了除[南极洲](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%9E%81%E6%B4%B2 "南极洲")以外的地球各[洲](https://zh.wikipedia.org/wiki/%E6%B4%B2 "洲")。不久后，[西亚](https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BA%9A "西亚")爆发[新石器革命](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%9F%B3%E5%99%A8%E9%9D%A9%E5%91%BD "新石器革命")，人类开始系统性地[驯化](https://zh.wikipedia.org/wiki/%E9%A9%AF%E5%8C%96 "驯化")动植物，许多人群的[生活方式](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F "生活方式")由[游居](https://zh.wikipedia.org/wiki/%E9%81%8A%E5%B1%85%E6%96%87%E5%8C%96 "游居文化")转变为[定居](https://zh.wikipedia.org/wiki/%E5%AE%9A%E5%B1%85%E6%96%87%E5%8C%96 "定居文化")，[农业](https://zh.wikipedia.org/wiki/%E5%86%9C%E4%B8%9A "农业")也随之诞生。而后，[人类社会](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A "人类社会")日渐复杂，[劳动分工](https://zh.wikipedia.org/wiki/%E5%8B%9E%E5%8B%95%E5%88%86%E5%B7%A5 "劳动分工")和[文字系统](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E7%B3%BB%E7%B5%B1 "文字系统")应运而生。
@@ -380,7 +390,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 - In [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia "Scandinavia") and other parts of [northern Europe](https://en.wikipedia.org/wiki/Northern_Europe "Northern Europe") that the Romans did not reach, the Iron Age continues until the start of the [Viking Age](https://en.wikipedia.org/wiki/Viking_Age "Viking Age") in about 800 AD.
 - In [China](https://en.wikipedia.org/wiki/China "China"), the "Iron Age" ends with the start of the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty "Qin dynasty") and the beginning of the [Imperial Era](https://en.wikipedia.org/wiki/Imperial_China "Imperial China").
 
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ##### Copper Age*
 
 
@@ -641,14 +651,14 @@ See also
 > By the nature of the concept, ethnic groups tend to be divided into subgroups, may themselves be or not be identified as independent ethnic groups depending on the source consulted.
 #### Han Chinese / 汉
 ↗ [Chinese Language & 中文](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇨🇳%20Chinese%20Language%20&%20中文/Chinese%20Language%20&%20中文.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 #### Uyghurs /Uighurs /Uygurs /Uigurs /维吾尔
 #### Machu | 满
 ####  Zang /Tibetan | 藏
 #### Moghols | 蒙
-↗ [Mongolia 🇲🇳](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
-- ↗ [元](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
+↗ [Mongolia 🇲🇳](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Mongolia%20🇲🇳.md)
+↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+- ↗ [元](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/封建时期历史/元明清/元.md)
 #### Madhya Deśa「摩陀耶提舍, 中天竺」 (Hindustani)
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E4%BA%BA
 
@@ -678,14 +688,14 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ##### Telugus
 #### Japanese/Yamato /大和
 ↗ [Learning Japanese & 日本語](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇯🇵%20Learning%20Japanese%20&%20日本語/Learning%20Japanese%20&%20日本語.md)
-↗ [Japan 🇯🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
+↗ [Japan 🇯🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japan%20🇯🇵.md)
 #### Koreans
 ↗ [Learning Korean & 한국어](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇰🇵%20🇰🇷%20Learning%20Korean%20&%20한국어/Learning%20Korean%20&%20한국어.md)
-↗ [Korea 🇰🇵 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
-- ↗ [North Korea 🇰🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
-- ↗ [South Korea 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
+↗ [Korea 🇰🇵 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
+- ↗ [North Korea 🇰🇵](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
+- ↗ [South Korea 🇰🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
 #### Thais
-↗ [Thailand 🇹🇭](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
+↗ [Thailand 🇹🇭](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Thailand%20🇹🇭.md)
 #### Greeks
 
 #### Romas
@@ -693,38 +703,38 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 #### Jews
 #### Russians
 ↗ [Learning Russian & Русский язык](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇷🇺%20Learning%20Russian%20&%20Русский%20язык/Learning%20Russian%20&%20Русский%20язык.md)
-↗ [Russia 🇷🇺](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
+↗ [Russia 🇷🇺](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russia%20🇷🇺.md) 
 #### Slovaks
 
 #### Irish
 ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
 #### English
 ↗ [Learning English the Right Way](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
-↗ [United States 🇺🇸](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
-↗ [United Kingdoms 🇬🇧](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
+↗ [United States 🇺🇸](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [United Kingdoms 🇬🇧](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/United%20Kingdoms%20🇬🇧.md)
 #### Germans
 ↗ [Learning Germany & Deutsch](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇩🇪%20Learning%20Germany%20&%20Deutsch/Learning%20Germany%20&%20Deutsch.md)
-↗ [Germany 🇩🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
+↗ [Germany 🇩🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Germany%20🇩🇪/Germany%20🇩🇪.md)
 #### French
 ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
+↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Flemings
 ↗ [Learning French & Français](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇫🇷%20Learning%20French%20&%20Français/Learning%20French%20&%20Français.md)
-↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
+↗ [France 🇫🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 #### Italians
-↗ [Italy 🇮🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
+↗ [Italy 🇮🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Italy%20🇮🇹/Italy%20🇮🇹.md)
 #### Dutch
-↗ [Netherland 🇳🇱](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Netherland%20🇳🇱.md)
+↗ [Netherland 🇳🇱](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Netherland%20🇳🇱.md)
 #### Danes
-↗ [Denmark 🇩🇰](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Denmark%20🇩🇰.md)
+↗ [Denmark 🇩🇰](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Denmark%20🇩🇰.md)
 #### Swedes
-↗ [Sweden 🇸🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
+↗ [Sweden 🇸🇪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Nordic%20Five%20🇩🇰%20🇸🇪%20🇳🇴%20🇫🇮%20🇮🇸/Sweden%20🇸🇪.md)
 #### Catalans
 ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Valencians
 ↗ [Learning Spanish & Español](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇪🇸%20Learning%20Spanish%20&%20Español/Learning%20Spanish%20&%20Español.md)
-↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
+↗ [Spain 🇪🇸 & Portugal 🇵🇹](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/Spain%20🇪🇸%20&%20Portugal%20🇵🇹/Spain%20🇪🇸%20&%20Portugal%20🇵🇹.md)
 #### Arabs
 ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
 #### Copts
@@ -735,80 +745,160 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 
 #### Persians
 ↗ [Arabic Languages & اللغة العربية](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇮🇷%20🇸🇦%20🇪🇬%20Arabic%20Languages%20&%20اللغة%20العربية/Arabic%20Languages%20&%20اللغة%20العربية.md)
-↗ [Iran 🇮🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
+↗ [Iran 🇮🇷](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/Iran%20🇮🇷.md)
 #### Luso-Brazilians
 
 
 
 ## 1️⃣ Word's Ancient History
-### Tigris–Euphrates River System & Mesopotamia Civilization
+> 🔗 https://en.wikipedia.org/wiki/List_of_time_periods
+
+> 🔗 https://en.wikipedia.org/wiki/Cradle_of_civilization
+
+A cradle of civilization is a location and a culture where civilization was developed independently of other civilizations in other locations. A civilization is any complex society characterized by the development of the state, social stratification, urbanization, and symbolic systems of communication beyond signed or spoken languages (namely, writing systems and graphic arts).[1][2][3][4][5]
+
+Scholars generally acknowledge six cradles of civilization: Mesopotamia, Ancient Egypt, Ancient India and Ancient China are believed to be the earliest in Afro-Eurasia,[6][7] while the Caral–Supe civilization of coastal Peru and the Olmec civilization of Mexico are believed to be the earliest in the Americas. All of the cradles of civilization depended upon agriculture for sustenance (except possibly Caral–Supe which may have depended initially on marine resources). All depended upon farmers producing an agricultural surplus to support the centralized government, political leaders, religious leaders, and public works of the urban centers of the early civilizations.
+
+
+### 👉 Tigris–Euphrates River System & Mesopotamia
+![](../../Assets/Pics/Pasted%20image%2020260604001900.png)
+
 > 🔗 https://en.wikipedia.org/wiki/Mesopotamia
 
 
-### The Nile River Delta & Egypt Civilization
+### 👉 The Nile River Delta & Ancient Egypt
+![](../../Assets/Pics/Pasted%20image%2020260604002037.png)
+<small><a>https://en.wikipedia.org/wiki/Giza_pyramid_complex#/media/File:Pyramids_of_the_Giza_Necropolis.jpg</a></small>
+
 > 🔗 https://en.wikipedia.org/wiki/Ancient_Egypt
 
 
-### The Yellow River and The Changjiang (Yangtze) River & Chinese Civilization
-↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+### 👉 Indus Valley and Ganges Basins & Indus Civilization
+> [!links]
+> ↗ [Indian History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
 
-
-### Indus Valley and Ganges Basins & Indian Civilization
+> 🔗 https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
 > 🔗 https://en.wikipedia.org/wiki/History_of_India
-> ↗ [Indian History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/India%20🇮🇳/📜%20Indian%20History%20Overview/Indian%20History%20Overview.md)
 
 
-### Aegean Sea and Crete Island & Minoan Civilization
+### 👉 The Yellow River and The Changjiang (Yangtze) River & Chinese Civilization
+> [!links]
+> ↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+
+![](../../Assets/Pics/Pasted%20image%2020260604011546.png)
+<small><a>https://www.archaeology.wiki/blog/2022/03/31/the-terracotta-army-the-clay-army-with-the-greek-signature/</a></small>
 
 
-### Ancient America - Caral Civilization
+### Andean Coast & Caral–Supe Civilization
+> 🔗 https://en.wikipedia.org/wiki/Caral%E2%80%93Supe_civilization
 
 
-### Ancient Sub-Sahara Africa
+### Mesoamerica & Olmec Civilization
+> 🔗 https://en.wikipedia.org/wiki/Mesoamerica
+> 🔗 https://en.wikipedia.org/wiki/Olmecs
 
 
-### Ancient Oceania
+### Aegean Sea & Aegean Civilization
+> [!Links]
+> ↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
 
-
-
-## 2️⃣ 1492 ~ 1776: Globalization and Colonization
-
-
-
-## 3️⃣ 1776 ～ 1945: Imperialism & Defiance
+![](../../Assets/Pics/Pasted%20image%2020260604011407.png)
 
 
 
-## 4️⃣ 1945 ~ 1991: The Globe Under Cold War
-### U.S.: Modernization = Americanization ⭐
-↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
-↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
-↗ [U.S. Economics & Finance History](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+## World in Fog of War
+↗ [History of E.Asia & N.Asia](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏮%20History%20of%20E.Asia%20&%20N.Asia/History%20of%20E.Asia%20&%20N.Asia.md)
+↗ [History of W.Asia & M.Asia](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/⚜️%20History%20of%20W.Asia%20&%20M.Asia/History%20of%20W.Asia%20&%20M.Asia.md)
+↗ [History of S.Asia](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🪷%20History%20of%20S.Asia/History%20of%20S.Asia.md)
 
-↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
+↗ [History of Europe](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🏰%20History%20of%20Europe/History%20of%20Europe.md)
+
+↗ [History of N.Africa and Mid-Western Asia](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🐪%20History%20of%20N.Africa%20and%20Mid-Western%20Asia/History%20of%20N.Africa%20and%20Mid-Western%20Asia.md)
+↗ [History of Sub-Saharan Africa](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🪘%20History%20of%20Sub-Saharan%20Africa/History%20of%20Sub-Saharan%20Africa.md)
+
+↗ [History of America](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🦬%20History%20of%20America/History%20of%20America.md)
+
+↗ [History of Oceania](🐎%20⚓️%20🌾%20World's%20History%20-%20Dynasties%20and%20Ages/🥥%20History%20of%20Oceania/History%20of%20Oceania.md)
+
+
+
+## 2️⃣ Early Modern: Globalization and Colonization (1492 ~ 1776)
+![](../../Assets/Pics/Pasted%20image%2020260604000650.png)
+<small>Landing of Columbus, oil on canvas by John Vanderlyn, 1846; in the U.S. Capitol, Washington, D.C.</small>
+
+
+### European Renaissance
+>[!links]
+>↗ [European (Western) Arts & Humanity History](World's%20Arts%20&%20Humanities%20History/European%20(Western)%20Arts%20&%20Humanity%20History/European%20(Western)%20Arts%20&%20Humanity%20History.md)
+>↗ [Western Art History](World's%20Arts%20&%20Humanities%20History/European%20(Western)%20Arts%20&%20Humanity%20History/Western%20Art%20History.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Renaissance
+
+
+### Age of Enlightenment 
+> 🔗 https://en.wikipedia.org/wiki/Age_of_Enlightenment
+
+
+
+## 3️⃣ Modern: Imperialism & Defiance (1776 ～ 1945)
+![](../../Assets/Pics/Pasted%20image%2020260604001318.png)
+<small>Trumbull's Declaration of Independence</small>
+
+
+### Age of Revolution
+> 🔗 https://en.wikipedia.org/wiki/Age_of_Revolution
+
+
+### The First World War (WW I)
+
+
+### The Second World War (WW II)
+> 🔗 https://en.wikipedia.org/wiki/World_War_II
+
+
+
+## 4️⃣ Contemporary: Cold War & Post Cold War (1945 ~ 2001)
+> 🔗 https://en.wikipedia.org/wiki/Contemporary_history
+
+**Contemporary history**, in English-language [historiography](https://en.wikipedia.org/wiki/Historiography "Historiography"), is a subset of [modern history](https://en.wikipedia.org/wiki/Modern_history "Modern history") that describes the [historical period](https://en.wikipedia.org/wiki/Historical_period "Historical period") from about 1945 to the present.[[1]](https://en.wikipedia.org/wiki/Contemporary_history#cite_note-1) In the social sciences, contemporary history is also continuous with, and related to, the rise of [postmodernity](https://en.wikipedia.org/wiki/Postmodernity "Postmodernity").
+
+Contemporary history is [politically](https://en.wikipedia.org/wiki/Political_history "Political history") dominated by the [Cold War](https://en.wikipedia.org/wiki/Cold_War "Cold War") (1947–1991) between the [Western Bloc](https://en.wikipedia.org/wiki/Western_Bloc "Western Bloc"), led by the United States, and the [Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc "Eastern Bloc"), led by the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union "Soviet Union"). The confrontation spurred fears of a [nuclear war](https://en.wikipedia.org/wiki/Nuclear_warfare "Nuclear warfare"). An all-out "hot" war was avoided, but both sides intervened in the internal politics of smaller nations in their bid for global influence and via [proxy wars](https://en.wikipedia.org/wiki/Proxy_war "Proxy war"). The Cold War ultimately ended with the [Revolutions of 1989](https://en.wikipedia.org/wiki/Revolutions_of_1989 "Revolutions of 1989") and the [dissolution of the Soviet Union](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union "Dissolution of the Soviet Union") in 1991. The latter stages and aftermath of the Cold War enabled the [democratization](https://en.wikipedia.org/wiki/Democratization "Democratization") of much of Europe, Africa, and Latin America. [Decolonization](https://en.wikipedia.org/wiki/Decolonization "Decolonization") was another important trend in Southeast Asia, the Middle East, and Africa as new states gained independence from European [colonial empires](https://en.wikipedia.org/wiki/Colonial_empire "Colonial empire") during the period from 1945–1975. The Middle East also saw a [conflict involving the new state of Israel](https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict "Arab–Israeli conflict"), the rise of [petroleum politics](https://en.wikipedia.org/wiki/Petroleum_politics "Petroleum politics"), the continuing prominence but later decline of [Arab nationalism](https://en.wikipedia.org/wiki/Arab_nationalism "Arab nationalism"), and the growth of [Islamism](https://en.wikipedia.org/wiki/Islamism "Islamism"). The first supranational organizations of government, such as the United Nations and European Union, emerged during the period after 1945.
+
+[Countercultures](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s "Counterculture of the 1960s") rose and the [sexual revolution](https://en.wikipedia.org/wiki/Sexual_revolution "Sexual revolution") transformed [social](https://en.wikipedia.org/wiki/Social_history "Social history") relations in western countries between the 1960s and 1980s, as seen in the [protests of 1968](https://en.wikipedia.org/wiki/Protests_of_1968 "Protests of 1968"). Living standards rose sharply across the [developed world](https://en.wikipedia.org/wiki/Developed_country "Developed country") because of the [post-war economic boom](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion "Post–World War II economic expansion"). Japan and [West Germany](https://en.wikipedia.org/wiki/West_Germany "West Germany") both emerged as exceptionally strong economies. The [culture of the United States](https://en.wikipedia.org/wiki/Culture_of_the_United_States "Culture of the United States") spread widely, with American television and movies spreading across the world. Some Western countries began a slow process of [deindustrializing](https://en.wikipedia.org/wiki/Deindustrialization "Deindustrialization") in the 1970s; [globalization](https://en.wikipedia.org/wiki/Globalization "Globalization") led to the emergence of new financial and industrial centers in Asia. The [Japanese economic miracle](https://en.wikipedia.org/wiki/Japanese_economic_miracle "Japanese economic miracle") was later followed by the [Four Asian Tigers](https://en.wikipedia.org/wiki/Four_Asian_Tigers "Four Asian Tigers") of Hong Kong, Singapore, [South Korea](https://en.wikipedia.org/wiki/South_Korea "South Korea") and [Taiwan](https://en.wikipedia.org/wiki/Taiwan "Taiwan"). China launched major economic reforms termed the [reform and opening up](https://en.wikipedia.org/wiki/Reform_and_opening_up "Reform and opening up") from 1978 onward, becoming a major exporter of consumer goods around the world.
+
+[Science](https://en.wikipedia.org/wiki/History_of_science "History of science") made new advances after 1945, which included [spaceflight](https://en.wikipedia.org/wiki/History_of_spaceflight "History of spaceflight"), [nuclear technology](https://en.wikipedia.org/wiki/Nuclear_technology "Nuclear technology"), [lasers](https://en.wikipedia.org/wiki/Laser "Laser"), [semiconductors](https://en.wikipedia.org/wiki/Semiconductor "Semiconductor"), [molecular biology](https://en.wikipedia.org/wiki/Molecular_biology "Molecular biology"), [genetics](https://en.wikipedia.org/wiki/Genetics "Genetics"), [particle physics](https://en.wikipedia.org/wiki/Particle_physics "Particle physics"), and the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model "Standard Model") of [quantum field theory](https://en.wikipedia.org/wiki/History_of_quantum_field_theory "History of quantum field theory"). The first commercial computers were created, followed by the Internet, beginning the [Information Age](https://en.wikipedia.org/wiki/Information_Age "Information Age").
+
+
+### U.S.A.: Modernization & Americanization ⭐
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
+
+↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [U.S. Economics & Finance History](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+
+↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=89227574&bvid=BV1X7411J7vN&cid=152401861&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"></iframe>
 <small>video source: <a>https://youtu.be/elHK6hlnuc0?si=qZUtyQKalSi4QABm</a></small>
 
 
 ### CCCP: Союз Советских Социалистических Республик
-↗ [Soviet Union (USSR, CCCP)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
-↗ [КПСС (Коммунистическая партия Советского Союза)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
+↗ [Soviet Union (USSR, CCCP)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Soviet%20Union%20(USSR,%20CCCP).md)
+↗ [КПСС (Коммунистическая партия Советского Союза)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/КПСС%20(Коммунистическая%20партия%20Советского%20Союза).md)
 
-↗ [Marxism–Leninism](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
+↗ [Marxism–Leninism](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/📜%20Russia%20History%20Overview/📜%20History%20of%20Russia%20-%20Dynasties%20and%20Ages/Soviet%20Union%20(USSR,%20CCCP)/Marxism–Leninism.md)
 
-↗ [中国共产党 (Communist Party of China)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
-- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党 (Communist Party of China)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+- ↗ [中国共产党思想体系](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
-↗ [Workers' Party of Korea (조선로동당)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
-- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
+↗ [Workers' Party of Korea (조선로동당)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Workers'%20Party%20of%20Korea%20(조선로동당).md)
+- ↗ [Kimilsungism-Kimjongilism (김일성-김정일주의) & Juche Sasang (주체사상)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/Workers'%20Party%20of%20Korea%20(조선로동당)/Kimilsungism-Kimjongilism%20(김일성-김정일주의)%20&%20Juche%20Sasang%20(주체사상).md)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rHomETco0MI?si=0zr6YMF7YmORboMp&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Emerging Powers & Global Village
-↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 ↗ [World's Economics History](World's%20Economics%20History/World's%20Economics%20History.md)
 
 
@@ -816,21 +906,28 @@ Hindustani人或Hindoostani人這個詞在英屬印度和20世紀印度經常用
 ↗ [Information Technology Industry](../Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/🛸%20Information%20Technology%20Industry/Information%20Technology%20Industry.md)
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
-↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
-↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
+↗ [U.S. Information Technology Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Information%20Technology%20Industry/U.S.%20Information%20Technology%20Industry.md)
+↗ [中国电子信息产业 (信息传输、软件和信息技术服务业)](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国电子信息产业%20(信息传输、软件和信息技术服务业)/中国电子信息产业%20(信息传输、软件和信息技术服务业).md)
 
 ↗ [Intro to Computer Science](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 
 
-## 5️⃣ Post Cold-War and $21^{th}$ Century: The New Millennium 🎉
+## 5️⃣ 2001: The New Millennium 🎉
 > [!Abstract]
 > Welcome to the new millennium.
+> 
 > 新的千年开始了。
+> 2001.09.27. 我出生了。
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114907706039734&bvid=BV1KgbyzxEF2&cid=31251235834&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"</iframe>
 
 ![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
+
+### U.S. Supremacy, Region Conflicts, and De-globalization
+![](../../Assets/Pics/Pasted%20image%2020260604161703.png)
+<small><a>https://en.wikipedia.org/wiki/September_11_attacks</a></small>
 
 
 ### UN Agenda 21 & SDG (Sustainable Development Goal)
@@ -841,7 +938,7 @@ https://sdgs.un.org/
 
 
 ### Global Challenges Faced by the World
-↗ [Global Political Landscape](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [Politics & Human (Sustainable) Development](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
 > 🔗 http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/2015-09/27/c_128271386.htm
 > 當今世界面臨的主要全球性問題 | 2015-09-27 07:50:06 來源：瞭望 - 新华社
@@ -863,25 +960,34 @@ https://sdgs.un.org/
 - 貧困問題
 
 
-### U.S. Supremacy, Region Conflicts, and De-globalization
+### The Reviving of China: 中华复兴 ⭐
+> [!Links]
+> ↗ [新中国史（中华人民共和国时期）](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+> 
+> ↗ [中国经济发展](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+> ↗ [新中国时期经济发展史](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
 
-
-### The Reviving of China: 中华民族 ⭐
 ![](../../Assets/Pics/Pasted%20image%2020260416135414.png)
 <small>The global contribution to world's GDP by major economies (1-2008) Source: MADDISON A. 2007, Contours of the World Economy I-2030AD, Oxford University Press
 </small>
 
-↗ [World's Economics History](World's%20Economics%20History/World's%20Economics%20History.md)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rs_gqkZR-4k?si=ImbXMOUfhbGHFSzL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-↗ [中国经济发展](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
-↗ [新中国时期经济发展史](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/y4FMQEu2o38?si=JFHzglZG5aXP2P6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![](https://www.youtube.com/watch?v=bufV3EgyPGU)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uuAxxnz5eng?si=lmtzH2Nz3gCNIrqw&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/N439YvAf83o?si=MVJ9Ay60a9keALyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### The Revolution of Artificial Intelligence & LLM
 ↗ [Artificial Intelligence](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [LLM (Large Language Model)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM Foundation Models List & Evaluation and Benchmarks & Leaderboard](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard.md)
+
+https://artificialanalysis.ai/trends
 
 
 

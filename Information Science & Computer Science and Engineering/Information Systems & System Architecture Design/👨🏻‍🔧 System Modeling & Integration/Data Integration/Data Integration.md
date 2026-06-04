@@ -53,6 +53,8 @@ When you come across any of these terms you really need to seek clarification on
 
 For a discussion of these differences, check out Data Modeling Essentials by Simsion and Witt for example.
 
+
+### Data Integration
 > [!Example] A Introducing Example
 > A university wants to make publicly accessible from its website both information on its departments, employees, and rooms, and on its courses and planned lectures. However, no unified data source exists. Information on departments, employees and rooms is stored in an XML database, which is used by a .NET application to support the HR department. Instead, information on courses and lectures is stored in a relational database, which is used by a Java application to support the study administration. Neither the applications expose any API, nor their source code is available.
 > 
@@ -76,8 +78,8 @@ For a discussion of these differences, check out Data Modeling Essentials by Sim
 - **Physical Integration**
 	- The GCS is a physical datastore
 	- Data are periodically copied from each data source into the target datastore
-	- ETL: data is **E**xtract from source, **T**ransformed, and **L**oaded to target
-	- ELT: data is **E**xtract from source, **L**oaded to target (unchanged), and then **T**ransformed
+	- **ETL**: data is **E**xtract from source, **T**ransformed, and **L**oaded to target
+	- **ELT**: data is **E**xtract from source, **L**oaded to target (unchanged), and then **T**ransformed
 	- ==not for real-time!==
 	- ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2019.01.04.png)
 - **Logical Integration**

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [France 🇫🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
+↗ [France 🇫🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/🌍%20EU%20Contries/France%20🇫🇷/France%20🇫🇷.md)
 
 
 ### Learning Resources

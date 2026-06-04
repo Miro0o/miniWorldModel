@@ -9,9 +9,9 @@
 ↗ [Philosophy of Arts (Aesthetics)](../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
 ↗ [World's Arts & Humanities History](../📜%20Human%20History/World's%20Arts%20&%20Humanities%20History/World's%20Arts%20&%20Humanities%20History.md)
 
-↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
-↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [U.S. Cultures](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Cultures/U.S.%20Cultures.md)
+↗ [U.S. Economics](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
 
 
 ### Learning Resources

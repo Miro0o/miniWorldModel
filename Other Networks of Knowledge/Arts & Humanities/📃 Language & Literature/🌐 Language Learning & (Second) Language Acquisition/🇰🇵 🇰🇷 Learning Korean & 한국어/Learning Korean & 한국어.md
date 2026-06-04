@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Korea 🇰🇵 🇰🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
-- ↗ [South Korea 🇰🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
-- ↗ [North Korea 🇰🇵](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
+↗ [Korea 🇰🇵 🇰🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korea%20🇰🇵%20🇰🇷.md)
+- ↗ [South Korea 🇰🇷](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/South%20Korea%20🇰🇷.md)
+- ↗ [North Korea 🇰🇵](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/North%20Korea%20🇰🇵.md)
 
 
 ### Learning Resoruces

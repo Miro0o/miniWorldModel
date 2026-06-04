@@ -19,8 +19,8 @@
 ↗ [History of Information Systems & Security Systems](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
-↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
+↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [U.S. Science & Technology History](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Science%20&%20Technology%20History/U.S.%20Science%20&%20Technology%20History.md)
 
 
 ### Other Resources
@@ -134,7 +134,7 @@ Natural philosophy was transformed by the Scientific Revolution that transpired 
 
 
 ### China & East Asia
-↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
+↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
 
 
 ### Pre-Columbian Mesoamerica

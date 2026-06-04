@@ -21,7 +21,7 @@
 ↗ [News Focus (Non-IT)](../../../../Assets/World%20Chronology/News%20Focus%20(Non-IT)/News%20Focus%20(Non-IT).md)
 ↗ [News Focus (IT-exclusive)](../../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
-↗ [China (HK, MO, TW) 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
+↗ [China (HK, MO, TW) 🇨🇳](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 ↗ [International Opportunities](../../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/International%20Opportunities.md)
 
 

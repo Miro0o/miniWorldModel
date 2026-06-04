@@ -18,6 +18,7 @@
 
 ## Intro
 > [!Links]
+> ↗ [Database Systems](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 > ↗ [Physical Database Design (Physical Modeling)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Physical%20Database%20Design%20(Physical%20Modeling).md)
 > ↗ [Business Intelligence (BI)](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Business%20Intelligence%20(BI)/Business%20Intelligence%20(BI).md)
 
@@ -26,7 +27,7 @@
 > 
 > Bill Inmon, Building the Data Warehouse, 1996
 
-Traditional databases (OLTP):
+Traditional databases (**OLTP**):
 - Mostly updates
 - Many small transactions
 - MB to GB of data
@@ -35,7 +36,7 @@ Traditional databases (OLTP):
 - Normalized data model
 - Thousands of users
 
-Data Warehouses (OLAP):
+Data Warehouses (**OLAP**):
 - Mostly reads
 - Few complex queries
 - GB to TB of data
@@ -109,7 +110,7 @@ For example, if there are three BTSs in a city, then the facts above can be aggr
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse#Dimensional_versus_normalized_approach_for_storage_of_data
 
 The two most important approaches to store data in a warehouse are dimensional and normalized. The dimensional approach uses a [star schema](https://en.wikipedia.org/wiki/Star_schema "Star schema") as proposed by [Ralph Kimball](https://en.wikipedia.org/wiki/Ralph_Kimball "Ralph Kimball"). The normalized approach, also called the [third normal form](https://en.wikipedia.org/wiki/Third_normal_form "Third normal form") (3NF) is an entity-relational normalized model proposed by Bill Inmon.
-#### Dimensional Approach (Data Cube)
+#### 1️⃣ Dimensional Approach (Data Cube)
 > 🔗 https://en.wikipedia.org/wiki/Data_warehouse#Dimensional_approach
 
 In a [dimensional approach](https://en.wikipedia.org/wiki/Star_schema "Star schema"), [transaction data](https://en.wikipedia.org/wiki/Transaction_data "Transaction data") is partitioned into "facts", which are usually numeric transaction data, and "[dimensions](https://en.wikipedia.org/wiki/Dimension_\(data_warehouse\) "Dimension (data warehouse)")", which are the reference information that gives context to the facts. For example, a sales transaction can be broken up into facts such as the number of products ordered and the total price paid for the products, and into dimensions such as order date, customer name, product number, order ship-to and bill-to locations, and salesperson responsible for receiving the order.
@@ -139,14 +140,29 @@ Dimension hierarchies
 - The highest-level concept is ALL
 	- I.e., all facts will be grouped together
 - The lowest-level concept determines the finest granularity of the fact
+- Shared hierarchy
+	- A **fully-shared hierarchy** means that two dimensions share the _entire_ hierarchy, from top to bottom.
+		- Example:
+			- Suppose you have two dimensions: 
+				- Store location: `Country → Region → City → Store`
+				- Warehouse location: `Country → Region → City → Warehouse`
+			- If both use the same `Country → Region → City` hierarchy, and the hierarchy is treated as the same structure, then that part is fully shared.
+	- A **partially-shared hierarchy** means only some levels are shared, while other levels differ.
+		- Example:
+			- Product sold hierarchy: `Department → Category → Product`
+			- Product supplier hierarchy: `Department → SupplierGroup → Supplier`
+			- Here, both hierarchies share `Department`, but after that they split. One goes into `Category → Product`, while the other goes into `SupplierGroup → Supplier`. So only part of the hierarchy is shared.
 
 ![](../../../../Assets/Pics/Screenshot%202026-04-08%20at%2020.06.28.png)
 <small>Figure from Vaisman and Zimányi - Data Warehouse Systems Design and Implementation</small>
 
+> [!Example] Example of a shared hierarchy
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.21.37.png)
+
 Measures
 - For a measure to be valid, it must be possible to aggregate it along multiple dimension hierarchies and at different levels
 - For each measure, an aggregation function must be defined
-- The function must take into account the type of measure:
+- The function must take into account the **type of measure**:
 	- Additive: can be aggregated by summing on ALL dimensions
 		- E.g., number of products being sold
 	- Semi-additive: can be aggregated by summing on SOME dimensions
@@ -176,7 +192,7 @@ Measures
 **Dice**: keeps only cells satisfying a Boolean expression
 - E.g., show only sales greater than 1
 - ![|200](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.47.34.png)
-#### Normalized Approach (3NF)
+#### 2️⃣ Normalized Approach (3NF)
 > [!Links]
 > ↗ [Normalization](../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
 
@@ -211,10 +227,11 @@ Conceptual modeling
 	- First, by creating an **attribute tree** from an **ER diagram**
 	- Then, by converting the attribute tree into a **fact schema**
 
-> [!Example]
+> [!Example] From ERD to Fact Schema: 
+> Final fact schema: 
 > ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.49.21.png)
-
-> [!Example]
+> 
+> Deriving process: ERD -> Attribute tree -> fact schema
 > ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.25.png)
 > ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.38.png)
 > ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2021.05.56.png)
@@ -237,12 +254,12 @@ Logical models
 	- OLAP operations can be natively performed with simple queries
 	- Tied to a specific vendor implementation
 - HOLAP: combines ROLAP features with MOLAP
-	- E.g., uses ad-hoc data structure for pre-computing aggregations, while keeping non-aggregated data in a relational databas
+	- E.g., uses ad-hoc data structure for pre-computing aggregations, while keeping non-aggregated data in a relational database
 
 Starting from the fact schema, we can derive a star or snowflake schema:
 - In case of fully-shared hierarchies, dimension tables are not duplicated
 - In case only part of the hierarchy is shared, the shared part can be either replicated or moved to a secondary dimension table
-- In case of **multiple edges** (i.e., many-to-many relations), then a **bridge table** needs to be introduced in the dimension tables
+- ==In case of **multiple edges** (i.e., many-to-many relations)==, then a **bridge table** needs to be introduced in the dimension tables
 	- Bridge table may need an attribute to specify the **weight** of each edge to the cumulative relationship
 
 > [!Example]
@@ -261,6 +278,14 @@ Star schema
 - A table FT for the fact
 	- The primary key of FT is the union of the primary keys of all dimension tables DTi
 	- FT also has as many attributes as the measures for the fac
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.49.21.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2012.12.39.png)
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.21.37.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.23.48.png)
 #### Snowflake Schema
 Snowflake schema
 - Less de-normalized than star schema
@@ -271,6 +296,14 @@ Snowflake schema
 - A table FT for the fact
 	- The primary key of FT is the union of the primary keys of all primary dimension tables PDTi
 	- FT also has as many attributes as the measures for the fact
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2020.49.21.png)
+> ![|500](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2012.12.51.png)
+
+> [!Example]
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.21.37.png)
+> ![](../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.24.14.png)
 
 
 ### Physical Design

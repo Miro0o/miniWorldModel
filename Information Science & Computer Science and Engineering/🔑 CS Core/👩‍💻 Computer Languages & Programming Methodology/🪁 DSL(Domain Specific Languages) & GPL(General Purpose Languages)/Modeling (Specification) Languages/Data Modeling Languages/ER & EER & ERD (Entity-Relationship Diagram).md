@@ -12,6 +12,9 @@
 
 
 ### Other Resources
+https://www.red-gate.com/blog/chen-erd-notation/
+Chen Notation
+Continuing our trip through different ERD notations, let's review the Chen ERD notation. Peter Chen, who developed entity-relationship modeling and published his work in 1976, was one of the pioneers of using the entity relationship concepts in software and information system modeling and design. The Chen ERD notation is still used and is considered to present a more detailed way of representing entities and relationships.
 
 
 

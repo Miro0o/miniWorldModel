@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [World's Economics History](../../../📜%20Human%20History/World's%20Economics%20History/World's%20Economics%20History.md)
 
-↗ [Politics & Demography](../🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Politics & Human (Sustainable) Development](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [Comprehensive IT Service Providers](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20IT%20Service%20Providers/Comprehensive%20IT%20Service%20Providers.md)
@@ -16,8 +16,8 @@
 ↗ [PCS (Payment and Clearing System)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Information%20Systems%20&%20System%20Architecture%20Design/Selected%20Information%20Systems/PCS%20(Payment%20and%20Clearing%20System)/PCS%20(Payment%20and%20Clearing%20System).md)
 ↗ [Third-Party Payment Industry](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Third-Party%20Payment%20Industry/Third-Party%20Payment%20Industry.md)
 
-↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [U.S. Economics](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+↗ [中国经济发展](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 
 ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
@@ -103,7 +103,7 @@ Historically, openness to free trade substantially increased in some areas from 
 ##### Fiat Money
 ↗ [History of Global Monetary System & Financial System](../../../📜%20Human%20History/World's%20Economics%20History/History%20of%20Global%20Monetary%20System%20&%20Financial%20System.md)
 
-↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
+↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
 
 > 🔗 https://m.thepaper.cn/baijiahao_7672151
 
@@ -113,13 +113,13 @@ Historically, openness to free trade substantially increased in some areas from 
 
 在第一次世界大战之前，是以【金本位制】为主的国际货币体系，各国的经济往来及国际资本的流动管制很少；两次世界大战之间，随着政治经济环境的改变，各国开始了严格的资本管制，努力想恢复“金本位制”下的货币的稳定性，形成了【新金本位制】；二战以后，为了适应新形势下的世界经济和贸易环境，以美英两国为首的各国，确立并接受了美元与黄金挂钩，各国货币与美元挂钩的新型的国际货币体系【布雷顿森林体系】，并逐步放松了资本管制；但随着20世纪70年代，美国关闭黄金窗口，布雷顿森林体系崩溃，固定汇率转向浮动汇率，国际资本的流动进一步加大。
 ###### $ USD
-↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
+↗ [The Federal Reserve System (Fed)](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
 ###### € EUR
-↗ [The European Central Bank (ECB)](../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
+↗ [The European Central Bank (ECB)](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/💶%20EU%20Politics%20&%20Administration/The%20European%20Central%20Bank%20(ECB).md)
 ###### ¥ CNY
-↗ [中国人民银行](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国人民银行.md)
+↗ [中国人民银行](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国人民银行.md)
 ######  ¥ JPY
-↗ [Bank of Japan](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
+↗ [Bank of Japan](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Politics%20&%20Parties/Japanese%20Government/Bank%20of%20Japan.md)
 ###### £ GBP
 ###### $ CAD
 ##### Cryptocurrency
@@ -416,13 +416,13 @@ Economic theories divide economic sectors further into [economic industries](ht
 ##### Public Finance & National Treasury ⭐
 ↗ [Public (Government) Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20(Government)%20Finance/Public%20(Government)%20Finance.md)
 
-↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
-↗ [Treas.](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
+↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
+↗ [Treas.](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
 
-↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
-↗ [新中国时期经济发展史](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
+↗ [中国经济发展](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [新中国时期经济发展史](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)
 
-↗ [U.S. Economics](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+↗ [U.S. Economics](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 #### Economic System
 > 🔗 https://en.wikipedia.org/wiki/Economic_system
 
@@ -537,7 +537,7 @@ In practice, "mixed economy" generally refers to market economies with substanti
     - [State capitalism](https://en.wikipedia.org/wiki/State_capitalism "State capitalism") (Government-dominated capitalist economy)
     - [Socialist Market Economy](https://en.wikipedia.org/wiki/Socialist_market_economy "Socialist market economy") (Mixed socialist)
 ###### 中国特色社会主义市场经济体制
-↗ [中国经济发展](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+↗ [中国经济发展](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 
 
 

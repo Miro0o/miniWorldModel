@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [中国名胜古迹与世界遗产](../../../../../Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/中国地理与区划/中国名胜古迹与世界遗产.md)
+↗ [中国名胜古迹与世界遗产](../../../../../Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/中国地理与区划/中国名胜古迹与世界遗产.md)
 
 
 ### Other Resources

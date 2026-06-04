@@ -514,7 +514,7 @@ Buddhism evolved into a variety of traditions and practices, represented by [Th
 #### Tibetan Buddhism | བོད་བརྒྱུད་ནང་བསྟན།（藏传佛教，喇嘛教，密宗）
 > [!links]
 > ↗ [Buddhism in China](../../Chinese%20Philosophy%20&%20Its%20History/Buddhism%20in%20China.md)
-> ↗ [西藏地区历史](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
+> ↗ [西藏地区历史](../../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 
 ### Theravāda Buddhism（南传佛教：上座部佛教）

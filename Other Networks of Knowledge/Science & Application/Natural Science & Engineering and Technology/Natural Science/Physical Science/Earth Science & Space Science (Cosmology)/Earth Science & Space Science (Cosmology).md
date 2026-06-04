@@ -11,6 +11,9 @@
 
 
 ### Other Resources
+https://earthengine.google.com/
+A planetary-scale platform for Earth science data & analysis
+
 https://geology.com
 online map
 

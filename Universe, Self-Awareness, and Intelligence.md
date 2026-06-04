@@ -110,7 +110,7 @@ spencer lawrence
 > ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 
 > [!quote]
-> ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md#汉与汉族)
+> ↗ [China 🇨🇳 /汉与汉族](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md#汉与汉族)
 > 
 > 维天有汉，鉴亦有光
 > ——把天系住并连起来的，是那些仿佛可以抓起来的点点繁星，在天河最遥远偏僻的位置，也到处是那些自主呈现着的仿佛可以抓起来的微光。
@@ -673,7 +673,7 @@ or（感性，理性）X （认识，实践）
 - 身份认同
 - 财富、名声
 ###### 群体与群体的关系
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 ###### 人（人类社会）与自然的关系 ⭐
 认识自然，改造自然
 和谐共生
@@ -749,8 +749,8 @@ tbd.
 
 信息可以不只具有基于文本的模态，可以具有多种模态。一般来说，我们考虑的是那些在人类生物能力范围内的模态，比如最常见的视觉，听觉，触觉，等。文本是人类视觉能力下的信息表达模态。基于视觉的模态也是最广泛的信息模态的选择。
 ##### 信息的组织：知识 ⭐
-↗ [China (HK, MO, TW) 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
-↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
+↗ [China (HK, MO, TW) 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
+↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 ↗ [Knowledge Graph (KG)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Knowledge%20Graph%20(KG)/Knowledge%20Graph%20(KG).md)
@@ -971,7 +971,7 @@ tbd.
 - 通过对人工智能技术的进一步研究与发展，远景目标是做到能够让计算机达到情感认识的能力，即所谓的人工智能突破奇点。当一个物体，即具有逻辑（理性）能力，又具有情感（感性）能力，这种物体（我认为）就达到了人类同一级别的智能水平，此时这种物体的智能水平和人类的智能水平的差距就只在于计算速度、知识储备等方面，而不具有可计算能力上的差别了。
 ##### 时间，文明，与智能
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
-↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
+↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
 > [!quote]
 > 贺新郎·读史
@@ -997,7 +997,7 @@ tbd.
 	- ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 	- ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 	- ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-		- ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+		- ↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 	- 核心矛盾与动力：欲望与能力（思考与行动）
 		- 无限的欲望 🆚（有限的能力 导致的 有限的资源）
 		- 个人层面：
@@ -1172,7 +1172,7 @@ tbd.
 > ↗ [Game Theory & Decision Making in Multi-Agents Environments](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 > 
 > ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-> ↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+> ↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 > - ↗ [Marxism & Communism](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 对群体来说，宇宙中可直接利用的资源是有限的，因此，对群体来说要如何解决资源获取的发展问题和资源使用的发展问题呢？
@@ -1199,16 +1199,16 @@ tbd.
 > ↗ [Economics & Finance /Production and Capital/ Cap (生产与资本)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md#Production%20and%20Capital/%20Cap%20(生产与资本))
 > ↗ [Macro Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/Macro%20Economics.md)
 > 
-> ↗ [中国经济发展](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
-> - ↗ [中国经济发展史](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/中国经济发展史.md)
+> ↗ [中国经济发展](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+> - ↗ [中国经济发展史](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/中国经济发展史.md)
 > 
-> ↗ [U.S. Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-> - ↗ [U.S. Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
+> ↗ [U.S. Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+> - ↗ [U.S. Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20Economics%20&%20Finance%20History/U.S.%20Economics%20&%20Finance%20History.md)
 > 
-> ↗ [Japanese Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/Japanese%20Economics.md)
-> - ↗ [Japan Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japan%20Economics%20&%20Finance%20History/Japan%20Economics%20&%20Finance%20History.md)
+> ↗ [Japanese Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/Japanese%20Economics.md)
+> - ↗ [Japan Economics & Finance History](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/📜%20Japanese%20History%20Overview/Japan%20Economics%20&%20Finance%20History/Japan%20Economics%20&%20Finance%20History.md)
 > 
-> ↗ [EU Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/EU%20Economics.md)
+> ↗ [EU Economics](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/EU%20Economics.md)
 
 > [!quote]
 > 历史唯物主义认为：==生产力和生产关系之间的矛盾，经济基础和上层建筑之间的矛盾，这是人类社会的基本矛盾==。这两对矛盾存在于一切社会形态之中，贯穿于每一个社会形态的始终，决定着其他各种社会矛盾，==是推动社会发展的基本动力，决定着社会历史的一般进程。==
@@ -1243,7 +1243,7 @@ tbd.
 	- 马克思指出这一发展路径的最基本方法是阶级斗争，且阶级斗争的最终结果是无产阶级专政。但是，正如我之前阐述的我关于权力的观点，我认为阶级是无法消灭的。因为权力是人类社会一切关系的原型，人类社会不可能没有权力关系而仍维持为一个社会。换句话说，正因为有了权力关系，人类社会才得以存在，故这种权力关系是无法被消除的。
 	- 因此，只要人类社会存在，权力关系就会存在，经济权力关系就会存在，故一定有有产者和无产者，不可能是无产阶级专政的。
 	- 因此，马克思主义所声称的共产主义是绝对无法在全人类范围内达到的：第一，资源相对于人类的贪婪永远有限，第二，人类社会关系的本质就是权力关系。不过，在局部的范围内，在特定的历史时间段内，可以存在这样的社会，比如某时期北欧的丹麦，挪威，等等，我认为是达到了马克思所宣称的共产主义的样貌（虽然这些国家自己从未如此宣称）。
-	- 因此，马克思主义宣扬的阶级斗争方法论，及这种  资本主义 -> 社会主义 -> 共产主义 的发展路径，这些部分的实际可行性和正确性都是存疑的。事实上在中国的发展经验中对这些问题我们的主要领导人已经通过实际行动做出了回答（↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)）。但是，同时也要注意，中国共产党作为执政党，不可避免地要做出维护自身统治的行动和发言（每个执政党的第一要务如此），对于其思想体系中的这些部分要加以甄别。不过单纯从发展角度来说，我认为其的确有许多值得学习研究的地方。新中国以来，尤其是改革开放以来，的发展经验，是人类在探索自身发展道路过程中绚丽的风景。
+	- 因此，马克思主义宣扬的阶级斗争方法论，及这种  资本主义 -> 社会主义 -> 共产主义 的发展路径，这些部分的实际可行性和正确性都是存疑的。事实上在中国的发展经验中对这些问题我们的主要领导人已经通过实际行动做出了回答（↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)）。但是，同时也要注意，中国共产党作为执政党，不可避免地要做出维护自身统治的行动和发言（每个执政党的第一要务如此），对于其思想体系中的这些部分要加以甄别。不过单纯从发展角度来说，我认为其的确有许多值得学习研究的地方。新中国以来，尤其是改革开放以来，的发展经验，是人类在探索自身发展道路过程中绚丽的风景。
 	- 虽然我认为共产主义的最终目标 -- 人民物质极大丰富，人民按需劳动 -- 无法实现，我仍认同我国当下的政治体制的优越性，认同其大部分发展思想。
 		- 基本政治制度：中国共产党领导的多党合作和政治协商制度
 		- 基本经济制度：社会主义市场经济体制
@@ -1286,7 +1286,7 @@ tbd.
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 ↗ [Financial Management (财务管理)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
 
-↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
+↗ [中国共产党思想体系](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党思想体系/中国共产党思想体系.md)
 
 科技是第一生产力、人才是第一资源、创新是第一动力
 - 新华社北京10月16日电 习近平在二十大报告中强调，必须坚持科技是第一生产力、人才是第一资源、创新是第一动力，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，开辟发展新领域新赛道，不断塑造发展新动能新优势。（[习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力｜中国政府网](https://www.gov.cn/xinwen/2022-10/16/content_5718815.htm)）
@@ -1297,10 +1297,10 @@ tbd.
 - 改革是思想的解放。回望每一次改革开放的突破，都有思想的解放、思想的引领在。“坚持解放思想、实事求是、与时俱进、求真务实”，写在进一步全面深化改革的指导思想里。思想主动是最大的历史主动。
 - 改革是对利益的调整。改革总是要触动利益的。固化的利益，常成为改革最具体的阻力。改到深处，必须看清各种利益固化的症结所在。改到深处，就是要在调整深层次利益格局上，再啃下一些硬骨头。
 ###### ”民主，自由，平等，人权“
-↗ [中国共产党 (Communist Party of China)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
+↗ [中国共产党 (Communist Party of China)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国共产党%20(Communist%20Party%20of%20China)/中国共产党%20(Communist%20Party%20of%20China).md)
 - 社会主义核心价值观：**富强、民主、文明、和谐**（国家层面），**自由、平等、公正、法治**（社会层面），**爱国、敬业、诚信、友善**（公民个人层面）
 
-↗ [U.S. Political Parties & Ideologies](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Political%20Parties%20&%20Ideologies/U.S.%20Political%20Parties%20&%20Ideologies.md)
+↗ [U.S. Political Parties & Ideologies](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Political%20Parties%20&%20Ideologies/U.S.%20Political%20Parties%20&%20Ideologies.md)
 
 > [!quote]
 > 🎬 https://youtu.be/nVR9TKd1vcQ?si=aN-DhiJ5qUrR3XQR
@@ -1319,14 +1319,13 @@ tbd.
 tbd.
 ##### 资源获取与使用 - 线索2：（逆）全球化与国家竞争 ⏩ ⏫
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
-- ↗ [Global Political Landscape](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 ↗ [Economics & Finance](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Economics%20&%20Finance.md)
 ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ##### 资源获取与使用 - 线索3：可持续发展 ⏩ ⏫
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
-↗ [Global Political Landscape](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Global%20Political%20Landscape.md)
+↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
 
 ### 人类之外：还有谁？
@@ -1370,16 +1369,21 @@ tbd.
 
 
 ## 👼🏻 Human Intelligence (Natural Intelligence) & Human Society
-### Overview: Self-awareness & Two Essential Human Abilities
+![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+
+
+### Self-Awareness
+Two Essential Human Abilities
 自私和贪婪
 
 
-### Overview: Human Society & Human History
-↗ [Politics & Demography](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Politics%20&%20Demography.md)
+### Human Society & Human History
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
+↗ [Politics & Human (Sustainable) Development](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
 
 
-### Human Knowledges & Academic Discipline 🎓
+### Human Knowledge
+#### Academic Disciplines 🎓
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB
 
 《中华人民共和国学科分类》指以国家标准为形式发布的学科分类方式及名称提法，主要有以下三种：
@@ -1477,7 +1481,22 @@ The following outline provides an overview of and topical guide to academic disc
     - [Journalism, media studies and communication](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Journalism,_media_studies_and_communication)
     - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law_2)
     - [Library and museum studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Library_and_museum_studies)
-#### System Science & Systemology 🤔
+#### Knowledge Acquisition
+##### Philosophy 🆚 Logic & Reasoning
+> [!Links]
+> ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> ↗ [Global Religions](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+> 
+> ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> 
+> ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+##### Empirical Study 🆚 Science
+> [!links]
+> ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
+> ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
+
+##### System Science & Systemology 🤔
 > [!links]
 > ↗ [Complex System Science & Systems Theory](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
@@ -1517,9 +1536,15 @@ https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Complex_system
 
 [论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
-#### Knowledge Management & Explore
+#### Academic Research, Knowledge, and Education
+↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
+![](Assets/Pics/Pasted%20image%2020260604165742.png)
+<small><a>https://en.wikipedia.org/wiki/The_School_of_Athens</a></small>
+#### Knowledge Management & Explore
 ↗ [LLM Applications & LLM-Driven Automation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 ↗ [Knowledge Management & Computational Notebook](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/Knowledge%20Management%20&%20Computational%20Notebook/Knowledge%20Management%20&%20Computational%20Notebook.md)
@@ -1542,10 +1567,17 @@ https://en.wikipedia.org/wiki/Complex_system
 	- 自此，见自己见天地见众生的五大板块便初具雏形，下面是详细地图，每一个小标题同时是链接，点击进入相关文章。
 
 
+### Human Physical Function
+↗ [Fitness & Sports](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Fitness%20&%20Sports/Fitness%20&%20Sports.md)
+↗ [Personal Health & Fitness](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Fitness%20&%20Sports/Personal%20Health%20&%20Fitness.md)
+
+↗ [Health Sciences and Medicine](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Health%20Sciences%20and%20Medicine.md)
+
+
 
 ## 🤖 Artificial Intelligence
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [j jLLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

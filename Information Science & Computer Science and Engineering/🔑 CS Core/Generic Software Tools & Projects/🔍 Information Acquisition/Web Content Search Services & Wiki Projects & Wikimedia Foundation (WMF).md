@@ -26,7 +26,7 @@
 - ↗ [Database Engines & Search Engines](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Engines%20&%20Search%20Engines.md)
 - ↗ [Embedding Database](../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/📲%20Embedding%20Database/Embedding%20Database.md)
 
-↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
+↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
 
 ↗ [My Info Lists](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/My%20Info%20Lists.md)
 

@@ -12,9 +12,9 @@
 ↗ [Laws & Regulations in Electronic & Information Fields](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields.md)
 ↗ [Global Religions](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
-↗ [中国法律](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国法律/中国法律.md)
-↗ [U.S. Law System](../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Law%20System/U.S.%20Law%20System.md)
-↗ [North Korean Law System](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/North%20Korean%20Law%20System/North%20Korean%20Law%20System.md)
+↗ [中国法律](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国法律/中国法律.md)
+↗ [U.S. Law System](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Law%20System/U.S.%20Law%20System.md)
+↗ [North Korean Law System](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/North%20Korean%20Law%20System/North%20Korean%20Law%20System.md)
 
 
 
@@ -171,8 +171,8 @@ Religious law is explicitly based on religious precepts. Examples include the Je
 
 A number of countries are sharia jurisdictions. [Israeli law](https://en.wikipedia.org/wiki/Israeli_law "Israeli law") allows [litigants](https://en.wikipedia.org/wiki/Litigant "Litigant") to use religious laws only if they choose. Canon law is only in use by members of the [Catholic Church](https://en.wikipedia.org/wiki/Canon_law_\(Catholic_Church\) "Canon law (Catholic Church)"), the [Eastern Orthodox Church](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church "Eastern Orthodox Church") and the [Anglican Communion](https://en.wikipedia.org/wiki/Anglican_Communion "Anglican Communion").
 ##### Socialist law
-> ↗ [中国法律](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国法律/中国法律.md) 🤔
-> ↗ [North Korean Law System](../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/North%20Korean%20Law%20System/North%20Korean%20Law%20System.md) 🤔
+> ↗ [中国法律](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国法律/中国法律.md) 🤔
+> ↗ [North Korean Law System](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Politics%20&%20Parties/North%20Korean%20Politics%20&%20Parties/North%20Korean%20Law%20System/North%20Korean%20Law%20System.md) 🤔
 > 
 > 🔗 https://en.wikipedia.org/wiki/Law#Socialist_law
 

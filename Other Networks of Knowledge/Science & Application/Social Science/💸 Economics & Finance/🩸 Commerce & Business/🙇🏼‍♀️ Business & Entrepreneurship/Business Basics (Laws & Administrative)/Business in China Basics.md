@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [China (HK, MO, TW) 🇨🇳](../../../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
+↗ [China (HK, MO, TW) 🇨🇳](../../../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 
 
 ### Learning Resources

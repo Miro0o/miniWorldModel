@@ -100,20 +100,25 @@ AI
 
 
 ## 📈 Bibliometrics
-![how_research_is_done.excalidraw|1000](../../Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
-
+> [!Links]
 > ↗ [Bib-Management](🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/Bib-Management/Bib-Management.md)
+
+![how_research_is_done.excalidraw|1000](../../Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
 
 > 🔗 https://sustech.libguides.com/c.php?g=934045
 
 文献计量学提供一种评价科研文献学术影响力的定量分析方法，可以与定性评价方法如同行评审一起使用，以提供学术影响力证明。计量指标可在论文、期刊、学者层面评价科研文献的影响力，帮助研究人员在申请工作、晋升或研究经费时提供其科研表现的证明。常用的计量指标包括被引频次、学科规范化的引文影响力、期刊影响因子、h指数等。
 ### 文献计量学与科研影响力
 
+
 ### 期刊评价与投稿
+
 
 ### 科研评价与分析平台
 
+
 ### 论文收录引用检索证明
+
 
 ### \* Bibliometrics Related Indexes 🙈
 #### World University Ranking

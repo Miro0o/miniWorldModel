@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
-↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
+↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 
 
@@ -59,7 +59,7 @@
 
 
 ## Tibetan Buddhism | བོད་བརྒྱུད་ནང་བསྟན།（藏传佛教）
-> ↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
+> ↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 
 

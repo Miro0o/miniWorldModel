@@ -6,19 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [中国经济发展](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
-- ↗ [中国财政 & 财政部](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
+↗ [中国经济发展](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
+- ↗ [中国财政 & 财政部](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
 
-↗ [U.S. Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
-- ↗ [Treas.](../../🌏%20Politics%20&%20Demography/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
+↗ [U.S. Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
+- ↗ [Treas.](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas./Treas..md)
 
-↗ [EU Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/EU%20Economics.md)
+↗ [EU Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/European%20Union%20🇪🇺/EU%20Social%20Development%20Overview/EU%20Economics/EU%20Economics.md)
 
-↗ [Indian Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/India%20🇮🇳/India%20Social%20Development%20Overviews/Indian%20Economics/Indian%20Economics.md)
-↗ [Japanese Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/Japanese%20Economics.md)
-↗ [South Korean Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/South%20Korean%20Economics.md)
-↗ [U.K. Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/U.K.%20Social%20Development%20Overviews/U.K.%20Economics/U.K.%20Economics.md)
-↗ [Russian Economics](../../🌏%20Politics%20&%20Demography/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/Russian%20Economics.md)
+↗ [Indian Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/India%20🇮🇳/India%20Social%20Development%20Overviews/Indian%20Economics/Indian%20Economics.md)
+↗ [Japanese Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/Japanese%20Economics.md)
+↗ [South Korean Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/South%20Korean%20Economics.md)
+↗ [U.K. Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/United%20Kingdoms%20🇬🇧/U.K.%20Social%20Development%20Overviews/U.K.%20Economics/U.K.%20Economics.md)
+↗ [Russian Economics](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Europe/Russia%20🇷🇺/Russian%20Social%20Development%20Overviews/Russian%20Economics/Russian%20Economics.md)
 
 
 ↗ [Financial Management (财务管理)](../🩸%20Commerce%20&%20Business/Financial%20Management%20(财务管理)/Financial%20Management%20(财务管理).md)
@@ -53,7 +53,18 @@
 
 
 
-## World's Economics: An Overview
+## World Economics: An Overview
+> [!links]
+> ↗ [Politics & Human (Sustainable) Development](../../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Politics%20&%20Human%20(Sustainable)%20Development.md)
+
+
+### Primary Sector
+
+
+### Secondary Sector
+
+
+### Tertiary Sector
 
 
 

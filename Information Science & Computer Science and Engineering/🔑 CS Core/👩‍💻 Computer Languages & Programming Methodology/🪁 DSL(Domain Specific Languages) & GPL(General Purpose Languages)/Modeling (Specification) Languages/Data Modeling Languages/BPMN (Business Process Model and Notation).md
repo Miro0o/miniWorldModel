@@ -83,22 +83,79 @@ These four categories enable creation of simple business process diagrams (BPDs)
 > 🔗 https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation#Flow_objects_and_connecting_objects
 
 _**Flow objects**_ are the main describing elements within BPMN, and consist of three core elements: events, activities, and gateways.
-- Events
+
+**Events**
+- ![](../../../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.00.58.png)
+- Basic events
 	- ![|250](../../../../../../Assets/Pics/Pasted%20image%2020260306093443.png)
-- Activities
-	- ![|400](../../../../../../Assets/Pics/Pasted%20image%2020260306093511.png)
-	- Task
-		- Atomic Operation Performed Only Once
-	- Cyclical activity
-		- Atomic operation performed repeatedly until a condition is true
-	- Parallel multi-instance activity
-		- Multiple operations of the same type carried out in parallel
-	- Receive /Send Tasks
-		- Allows sending/receiving a message (similar to a Message event)
-	- Sub-process
-		- A non-atomic operation that can also be represented as a process
-- Gateways
-	- ![](../../../../../../Assets/Pics/Pasted%20image%2020260306093542.png)
+	- Start Event
+		- There must always be at least one
+		- Indicates the start of the process
+		- Cannot have incoming control flows
+	- End Event
+		- There must always be at least one
+		- Indicates the end of the process
+		- Cannot have outgoing control flows
+	- Intermediate event
+		- Indicates the occurrence of an event during the execution of the process
+		- Can be applied to an activity or to a control flow
+- Catch events
+	- ![](../../../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.00.34.png)
+
+
+---
+**Activities**
+- ![|400](../../../../../../Assets/Pics/Pasted%20image%2020260306093511.png)
+	- It represents a unit of work to be done
+	- It can be atomic (task) or indicate a subprocess
+- Task
+	- Atomic Operation Performed Only Once
+- Cyclical activity
+	- Atomic operation performed repeatedly until a condition is true
+- Parallel multi-instance activity
+	- Multiple operations of the same type carried out in parallel
+- Receive /Send Tasks
+	- Allows sending/receiving a message (similar to a Message event)
+- Sub-process
+	- A non-atomic operation that can also be represented as a process
+
+---
+**Gateways**
+- ![](../../../../../../Assets/Pics/Pasted%20image%2020260306093542.png)
+- Parallel gateway (AND)
+	- In split mode, all branches will be taken
+	- In merge mode, all branches being merged must complete
+- Exclusive gateway (XOR)
+	- In split mode, only one branch will be taken
+	- In merge mode, only one branch being merged must complete
+- Inclusive gateway (OR)
+	- In split mode, at least one branch will be taken
+	- In merge mode, all **active** branches being merged must complete
+- Event-based Exclusive gateway (XOR)
+	- We’ll discuss this later when we talk about the events
+
+![](../../../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.07.37.png)
+
+- Gateway modes
+	- Gateway in Split Mode
+		- Splits the execution flow into multiple branches
+		- The condition for a branch to be taken is specified on the flow
+		- The default flow (if any) is marked with a dash
+	- Gateway in Merge Mode
+		- Merges multiple execution flows
+	- Gateway in Hybrid Mode (deprecated)
+		- Merges multiple execution flows and immediately splits them again
+		- Ambiguous, use a gateway in merge mode followed by a gateway in split mode instead
+	- ![|300](../../../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.04.26.png)
+
+
+**Event-based Exclusive Gateway**
+- Similar behavior to the Exclusive gateway
+- The active branch is determined by the event
+- If more than one event occurs, only the one that happened first is considered
+![|300](../../../../../../Assets/Pics/Screenshot%202026-06-01%20at%2013.09.01.png)
+
+
 #### Connecting Objects
 > 🔗 https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation#Flow_objects_and_connecting_objects
 
