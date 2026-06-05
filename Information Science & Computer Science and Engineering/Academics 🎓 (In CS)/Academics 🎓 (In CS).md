@@ -58,7 +58,7 @@ https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https:/
 > 原仓库和作者都被删除了。本地的备份还在。
 
 大家好，我是来自M78星云的SBC。我将为你们讲述在我的世界中有关于我的故事，希望你们能够持续关注并真正学习到我想要教给你们的学术技巧，让新的学术思维传承下去。如果这与你们的世界有任何雷同之处，纯属巧合。我相信在任何一个世界当中，每个人都有属于自己的底色：清者自清，浊者自浊。
-  
+
 我，SBC，博士，华清大学“水木学者”，国家级人才计划青年拔尖人才（**29岁获得，中国历史上最年轻**），于华清大学电机工程与应用电子技术系获得学士和博士学位。主要研究方向为电力电子混杂系统动力学表征、多尺度建模仿真及其工业软件。详细介绍可以在[此处](https://web.archive.org/web/20240709103549/http://www.eiri.tsinghua.edu.cn/yjry/All/e0b2e2d285e246bd9f56f047be9af30d.htm)找到。视频介绍可以在[这里](https://vimeo.com/946340773?share=copy)找到，本教程的电子版pdf可通过[https://github.com/ShiArthur03](https://github.com/ShiArthur03) 找到。
 
 🎬 https://space.bilibili.com/1010101551?spm_id_from=333.337.0.0

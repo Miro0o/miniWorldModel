@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Supply Chain Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
+↗ [LLM & Supply Chain Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
 ↗ [Techniques - Vulnerability Disclosure & Discovery](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Mangement%20Techniques/Techniques%20-%20Vulnerability%20Disclosure%20&%20Discovery.md)
 ↗ [Malware Discovery Tools & Scanners](../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/Malware%20Discovery%20Tools%20&%20Scanners.md)

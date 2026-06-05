@@ -25,8 +25,8 @@
 
 ↗ [AI4Security](../../../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 ↗ [LLM For Security](../../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
-- ↗ [LLM & Software Security and Analysis](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
-- ↗ [LLM & Fuzzing](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
+- ↗ [LLM & Software Security and Analysis](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
+- ↗ [LLM & Fuzzing](../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 
 ↗ [AIoT (AI for IoT) & Edge AI](../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI/AIoT%20(AI%20for%20IoT)%20&%20Edge%20AI.md)
 

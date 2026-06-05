@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md) 🎓
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md) 🎓
 ↗ [OSS-Fuzz](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/🌋%20Dynamics%20Code%20Analysis%20Tools%20(DCAT)/Fuzzers%20&%20Fuzzing%20Project/OSS-Fuzz.md)
 
 ↗ [Software Testing](../../../../../../../Software%20Engineering/🎭%20Software%20Quality%20Assurance%20(SQA)/🧪%20Software%20Testing/Software%20Testing.md)
@@ -520,7 +520,7 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 
 
 ### LLM-based Fuzzing Procedure
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
 <small>LLM驱动缺陷检测的一般流程 <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
@@ -545,7 +545,7 @@ From the presentation Senator and Allen [4], a fuzzing engine known as ‘Drille
 
 
 #### 3️⃣ 🔥 LLM Based Fuzzers
-↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
+↗ [LLM & Fuzzing](../../../../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
 <small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).

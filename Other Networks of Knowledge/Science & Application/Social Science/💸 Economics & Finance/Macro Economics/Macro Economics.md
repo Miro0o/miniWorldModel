@@ -25,6 +25,59 @@
 ↗ [Financial Investment](../🏦%20Finance%20&%20Financial%20Management/Financial%20Investment/Financial%20Investment.md)
 
 
+### Global Outlook Reports
+These tell you where the world economy is heading: growth, inflation, unemployment, trade, debt, risks.
+
+| Source                                   | What to use it for                                                              | Frequency                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------ |
+| **IMF World Economic Outlook**           | Global GDP, inflation, unemployment, current account, fiscal balance by country | Twice a year, with updates     |
+| **World Bank Global Economic Prospects** | Global growth, emerging markets, development risks                              | Twice a year                   |
+| **OECD Economic Outlook**                | Advanced economies, policy risks, inflation, labor markets                      | Twice a year + interim updates |
+| **BIS Quarterly Review**                 | Financial markets, banking, credit, dollar funding, systemic risks              | Quarterly                      |
+
+
+### Central Banks' Reports
+Central banks are some of the best macro analysts because they explain inflation, growth, credit, and policy decisions.
+
+|Region|Source|
+|---|---|
+|US|Federal Reserve: FOMC statements, projections, Beige Book|
+|Euro area|European Central Bank Economic Bulletin|
+|UK|Bank of England Monetary Policy Report|
+|Japan|Bank of Japan Outlook Report|
+|China|People’s Bank of China reports and NBS data|
+|Global|BIS, IMF, World Bank|
+
+
+### Company and Private-Sector Reports
+Company reports help you understand the “real economy,” but they are not enough by themselves. Look at:
+
+| Source type                                                           | What it tells you                                |
+| --------------------------------------------------------------------- | ------------------------------------------------ |
+| **Bank research**: JPMorgan, Goldman Sachs, Morgan Stanley, Citi, UBS | Market views, rates, FX, recession risks         |
+| **Asset managers**: BlackRock, Vanguard, PIMCO, Amundi                | Long-term capital market assumptions             |
+| **Consulting firms**: McKinsey, BCG, Deloitte                         | Sector trends, supply chains, corporate behavior |
+| **Earnings calls**                                                    | Demand, pricing power, margins, capex            |
+| **Shipping/logistics firms**                                          | Trade bottlenecks, freight rates                 |
+| **Semiconductor firms**                                               | Tech cycle and AI investment cycle               |
+| **Energy companies**                                                  | Oil/gas demand, capex, geopolitical exposure     |
+
+
+### Market-based Dashboards
+Markets are not always “right,” but they show what investors are pricing in.
+
+Useful sites:
+
+|Website|Use|
+|---|---|
+|**Trading Economics**|Quick country dashboards: GDP, CPI, rates, debt, trade|
+|**Investing.com**|Economic calendar, central bank meetings, market data|
+|**MarketWatch / Bloomberg / Reuters**|News and market reaction|
+|**Yahoo Finance / Google Finance**|Equities, bonds, FX, commodities|
+|**FRED**|Clean historical charts|
+|**Our World in Data**|Long-term structural data|
+
+
 ### Other Resources
 【【麻省理工】发展经济学：宏观经济学（中英双语 · 建议收藏）】 https://www.bilibili.com/video/BV12q4y1B7wm/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -50,6 +103,32 @@
 ![seriesm_4rev4e](../../../../../Assets/Official%20&%20Formal%20Docs/seriesm_4rev4e.pdf)
 <small><a>https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a> | EN 🇬🇧 <br>
 <a>https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev_4.pdf</a> | CN 🇨🇳</small>
+
+
+### Macro Indicators
+For each major economy — US, China, euro area, Japan, India, UK, and emerging markets — watch these:
+
+|Area|Indicators to follow|
+|---|---|
+|**Growth**|Real GDP growth, industrial production, retail sales, PMIs|
+|**Inflation**|CPI, core CPI, PCE inflation, wage growth|
+|**Labor market**|Unemployment, job creation, participation rate, wages|
+|**Monetary policy**|Central bank rates, bond yields, yield curves|
+|**Fiscal policy**|Government debt, deficit, spending plans|
+|**External sector**|Trade balance, current account, FX reserves|
+|**Financial conditions**|Credit spreads, equity markets, dollar index, liquidity|
+|**Commodities**|Oil, gas, metals, food prices|
+
+Follow trade, energy, and commodities separately. These often explain macro turning points.
+
+| Topic                  | Best sources                                     |
+| ---------------------- | ------------------------------------------------ |
+| **Global trade**       | WTO, UNCTAD, CPB World Trade Monitor             |
+| **Oil and energy**     | IEA Oil Market Report, EIA, OPEC                 |
+| **Food prices**        | FAO Food Price Index                             |
+| **Metals/commodities** | World Bank Commodity Markets, IMF commodity data |
+
+The WTO’s **Global Trade Outlook and Statistics** gives forecasts for world trade, with breakdowns by region and sector. The IEA’s **Oil Market Report** is useful for energy-driven macro shocks; its May 2026 report discusses changes in world oil demand and the impact of higher prices and weaker economic conditions.
 
 
 

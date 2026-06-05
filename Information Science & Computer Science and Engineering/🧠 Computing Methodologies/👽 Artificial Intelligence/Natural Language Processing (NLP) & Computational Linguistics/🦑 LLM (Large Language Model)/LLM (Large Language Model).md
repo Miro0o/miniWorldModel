@@ -23,8 +23,8 @@
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
-- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
-- ↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
+- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
+- ↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
 ↗ [LLM For Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
