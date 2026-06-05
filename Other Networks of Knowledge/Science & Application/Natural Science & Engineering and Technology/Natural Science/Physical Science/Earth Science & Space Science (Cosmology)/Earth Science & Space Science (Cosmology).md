@@ -11,6 +11,7 @@
 
 
 ### Other Resources
+https://earth.google.com/web/
 https://earthengine.google.com/
 A planetary-scale platform for Earth science data & analysis
 
