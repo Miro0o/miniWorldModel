@@ -1493,6 +1493,7 @@ The following outline provides an overview of and topical guide to academic disc
 > ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 ##### Empirical Study 🆚 Science
 > [!links]
+> ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
 > ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 > ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 
@@ -1538,6 +1539,9 @@ https://en.wikipedia.org/wiki/Complex_system
 [论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
 #### Academic Research, Knowledge, and Education
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
 
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
