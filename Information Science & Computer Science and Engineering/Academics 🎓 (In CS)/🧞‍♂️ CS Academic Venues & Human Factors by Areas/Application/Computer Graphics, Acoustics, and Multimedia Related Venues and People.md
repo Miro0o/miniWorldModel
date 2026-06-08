@@ -1,4 +1,4 @@
-# Computer Graphics, Acoustics, and Multimedia Related Conferences & Journals
+# Computer Graphics, Acoustics, and Multimedia Related Venues and People
 
 [TOC]
 

@@ -1,4 +1,4 @@
-# TCS (Theoretical Computer Science) Related Conferences & Journals
+# TCS (Theoretical Computer Science) Related Venues and People
 
 [TOC]
 

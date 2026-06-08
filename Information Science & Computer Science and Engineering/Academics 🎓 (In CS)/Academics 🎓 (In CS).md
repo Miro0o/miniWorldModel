@@ -95,7 +95,7 @@ AI
 
 
 ## Academic Publications & Venues
-↗ [Academic Venues in Computer Science](🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+↗ [CS Academic Venues & Human Factors by Areas](🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
 
 
 

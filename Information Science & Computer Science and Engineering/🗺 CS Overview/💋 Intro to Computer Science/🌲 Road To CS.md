@@ -166,7 +166,7 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 > [!links]
 > ↗ [Intro to Computer Science /The Domain Knowledge of CS](Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+> ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012
@@ -720,7 +720,7 @@ Hence, for people wants to do the real study, they need a way to get around this
 > [!links]
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+> ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -850,8 +850,8 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [Academic Venues in Computer Science](../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
-- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+- ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
 ↗ [Electronics & Information Technologies Business Fields Research](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -1184,7 +1184,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Scholars & Groups Lists - System (and Security)](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+> ↗ [Scholars & Groups Lists - System (and Security)](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)

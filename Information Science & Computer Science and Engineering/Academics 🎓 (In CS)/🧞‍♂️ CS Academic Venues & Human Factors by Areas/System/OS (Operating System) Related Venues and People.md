@@ -1,4 +1,4 @@
-# OS (Operating System) Related Conferences & Journals
+# OS (Operating System) Related Venues and People
 
 [TOC]
 

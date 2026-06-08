@@ -103,7 +103,7 @@ academic methedology
 
 ### 📲 Follow Scholars & Academic Trends & Updates 
 > [!links]
-> ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+> ↗ [Academic Networks & Nepotism](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
 https://www.aminer.cn/
 AI帮你理解科学
@@ -415,7 +415,7 @@ https://www.cnkivip.net/
 
 ## 4️⃣ Submission & Review & Revise
 ### Call for Papers
-↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+↗ [CS Academic Venues & Human Factors by Areas](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
 
 
 🔗 https://people.engr.tamu.edu/guofei/links.htm
@@ -428,8 +428,8 @@ Call for Paper Lists
 
 ### Conferences & Journals /中国大陆学术论文分区
 > [!links]
-> ↗ [Academic Venues in Computer Science](../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
-> ↗ [Sec (Security) Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
+> ↗ [CS Academic Venues & Human Factors by Areas](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+> ↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 
 https://www.myhuiban.com/
 Conference Partner
@@ -470,10 +470,10 @@ Tracking Paper Acceptance Rates at CS Conferences
 
 ## Socializing & Connections
 > [!links]
-> ↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
-> ↗ [Scholars & Groups Lists - Theory](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
-> ↗ [Scholars & Groups Lists - Application](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Application.md)
-> ↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+> ↗ [Academic Networks & Nepotism](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
+> ↗ [Scholars & Groups Lists - Theory](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
+> ↗ [Scholars & Groups Lists - Application](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Application.md)
+> ↗ [Scholars & Groups Lists - System (and Security)](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 
 [Research Gate](https://www.researchgate.net)
 

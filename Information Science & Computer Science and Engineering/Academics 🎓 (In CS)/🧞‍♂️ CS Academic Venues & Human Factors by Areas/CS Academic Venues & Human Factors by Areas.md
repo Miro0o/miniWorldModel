@@ -1,4 +1,4 @@
-# Academic Venues in Computer Science
+# CS Academic Venues & Human Factors by Areas
 
 [TOC]
 
@@ -13,10 +13,10 @@
 
 ↗ [(CS) Master & PhD Guide - Preparation & Application](../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
-↗ [Academic Networks & Nepotism](../../../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
-↗ [Scholars & Groups Lists - Application](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Application.md)
-↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
-↗ [Scholars & Groups Lists - Theory](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
+↗ [Academic Networks & Nepotism](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
+↗ [Scholars & Groups Lists - Application](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Application.md)
+↗ [Scholars & Groups Lists - System (and Security)](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+↗ [Scholars & Groups Lists - Theory](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20Theory.md)
 
 
 ### Academic Presses

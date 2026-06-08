@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Scholars & Groups Lists - System (and Security)](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
-↗ [Academic Networks & Nepotism](../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+↗ [Scholars & Groups Lists - System (and Security)](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+↗ [Academic Networks & Nepotism](../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
-↗ [Sec (Security) Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
+↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 
 
 ### Other Resources

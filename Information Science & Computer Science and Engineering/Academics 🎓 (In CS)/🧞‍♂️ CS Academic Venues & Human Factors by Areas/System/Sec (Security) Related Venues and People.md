@@ -1,4 +1,4 @@
-# Sec (Security) Related Conferences & Journals
+# Sec (Security) Related Venues and People
 
 [TOC]
 
@@ -10,17 +10,23 @@
 ↗ [Security Related Conferences & Events](../../../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Related%20Conferences%20&%20Events.md)
 
 ↗ [CyberSecurity](../../../CyberSecurity/CyberSecurity.md)
+↗ [CTF & AWD](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/CTF%20&%20AWD.md)
 
 ↗ [Research Topics in Cybersecurity](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
-↗ [Scholars & Groups Lists - System (and Security)](../../Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
+↗ [Scholars & Groups Lists - System (and Security)](../../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 
 ↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
 
+
 ### DeadLines
-[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
+https://sec-deadlines.github.io
+Security and Privacy Conference Deadlines
 
 
 ### Other Resources
+⛳️ https://ctftime.org/
+There are a lot of Capture The Flag (CTF) competitions in our days, some of them have excelent tasks, but in most cases they're forgotten just after the CTF finished. We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team [rating](https://ctftime.org/rating-formula/), per-team statistics etc.
+
 👍 [Computer Security Conference Ranking and Statistic | Guofei Gu](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
 - Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
 - Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
@@ -294,6 +300,12 @@ https://www.infosecurityeurope.com/
 
 
 ## Journals
+
+
+
+## Humans
+> [!links]
+> ↗ [Human-Factor](../../🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM-Software-Security-Research-Dossier-2026/Human-Factor.md)
 
 
 

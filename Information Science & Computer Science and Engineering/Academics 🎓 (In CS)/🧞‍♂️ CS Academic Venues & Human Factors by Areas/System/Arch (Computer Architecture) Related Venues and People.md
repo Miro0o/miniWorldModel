@@ -1,4 +1,4 @@
-# Arch (Computer Architecture) Related Conferences & Journals
+# Arch (Computer Architecture) Related Venues and People
 
 [TOC]
 

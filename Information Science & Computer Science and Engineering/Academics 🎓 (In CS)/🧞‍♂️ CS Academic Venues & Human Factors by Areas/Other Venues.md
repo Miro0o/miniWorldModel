@@ -1,4 +1,4 @@
-# Other Conferences & Journals
+# Other Venues
 
 [TOC]
 

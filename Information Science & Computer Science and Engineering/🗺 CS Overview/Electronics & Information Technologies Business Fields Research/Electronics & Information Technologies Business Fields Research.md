@@ -14,7 +14,7 @@
 ↗ [The Internet Development (and Web Development)](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 ↗ [IT Entrepreneurship - Internet, Social Media, and AI](../../../Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/🩸%20Commerce%20&%20Business/🙇🏼‍♀️%20Business%20&%20Entrepreneurship/IT%20Entrepreneurship%20-%20Internet,%20Social%20Media,%20and%20AI.md)
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/Human%20Factors%20in%20Academic%20Research%20-%20Profiles%20&%20Vacancies/Academic%20Networks%20&%20Nepotism.md)
+- ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 

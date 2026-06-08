@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Artificial Intelligence Related Conferences & Journals](../🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+↗ [Artificial Intelligence Related Venues and People](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 
 
 

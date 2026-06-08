@@ -1,4 +1,4 @@
-# PL (Program Languages) Related Conferences & Journals
+# PL (Program Languages) Related Venues and People
 
 [TOC]
 

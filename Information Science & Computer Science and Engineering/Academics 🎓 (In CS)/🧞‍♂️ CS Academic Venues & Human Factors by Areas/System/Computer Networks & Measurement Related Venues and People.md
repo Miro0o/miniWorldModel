@@ -1,4 +1,4 @@
-# Computer Networks & Measurement Related Conferences & Journals
+# Computer Networks & Measurement Related Venues and People
 
 [TOC]
 

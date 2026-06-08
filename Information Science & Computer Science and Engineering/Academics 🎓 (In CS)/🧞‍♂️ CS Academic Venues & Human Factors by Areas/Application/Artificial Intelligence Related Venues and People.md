@@ -1,4 +1,4 @@
-# Artificial Intelligence Related Conferences & Journals
+# Artificial Intelligence Related Venues and People
 
 [TOC]
 

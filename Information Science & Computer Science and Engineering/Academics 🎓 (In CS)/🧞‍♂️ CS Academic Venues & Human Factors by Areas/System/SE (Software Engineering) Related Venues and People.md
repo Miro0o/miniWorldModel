@@ -1,4 +1,4 @@
-# SE (Software Engineering) Related Conferences & Journals
+# SE (Software Engineering) Related Venues and People
 
 [TOC]
 

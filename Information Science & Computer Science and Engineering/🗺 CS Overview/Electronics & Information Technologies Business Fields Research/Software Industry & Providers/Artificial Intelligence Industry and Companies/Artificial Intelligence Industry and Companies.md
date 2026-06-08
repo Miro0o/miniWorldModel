@@ -17,7 +17,7 @@
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [LLM For Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
-↗ [Artificial Intelligence Related Conferences & Journals](../../../../Academics%20🎓%20(In%20CS)/🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 ↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
 
 

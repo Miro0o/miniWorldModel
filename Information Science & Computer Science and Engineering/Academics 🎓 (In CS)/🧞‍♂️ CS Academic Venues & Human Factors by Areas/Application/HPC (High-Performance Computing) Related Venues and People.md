@@ -1,4 +1,4 @@
-# HPC (High-Performance Computing) Related Conferences & Journals
+# HPC (High-Performance Computing) Related Venues and People
 
 [TOC]
 

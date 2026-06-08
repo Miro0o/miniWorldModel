@@ -1,4 +1,4 @@
-# Crypto (Cryptology) Related Conferences & Journals
+# Crypto (Cryptology) Related Venues and People
 
 [TOC]
 

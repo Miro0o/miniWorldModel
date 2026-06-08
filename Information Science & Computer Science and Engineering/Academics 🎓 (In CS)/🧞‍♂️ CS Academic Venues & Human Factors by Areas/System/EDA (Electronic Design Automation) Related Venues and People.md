@@ -1,4 +1,4 @@
-# EDA (Electronic Design Automation) Related Conferences & Journals
+# EDA (Electronic Design Automation) Related Venues and People
 
 [TOC]
 
