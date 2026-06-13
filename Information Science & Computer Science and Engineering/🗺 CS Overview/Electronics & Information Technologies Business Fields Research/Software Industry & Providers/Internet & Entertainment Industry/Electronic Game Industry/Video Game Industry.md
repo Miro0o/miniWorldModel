@@ -84,27 +84,27 @@ In general, spending on gaming tends to increase with increase in nominal GDP. H
 > 🔗 https://en.wikipedia.org/wiki/List_of_largest_video_game_employers
 > List of largest video game employers
 
-|Rank|Publisher|Country|Employees|Ref|
-|---|---|---|---|---|
-|1.|[Microsoft Gaming](https://en.wikipedia.org/wiki/Microsoft_Gaming "Microsoft Gaming")|United States|20,100|[[1]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-1)|
-|2.|[Ubisoft](https://en.wikipedia.org/wiki/Ubisoft "Ubisoft")|France|19,011|[[2]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-2)|
-|3.|[Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts "Electronic Arts")|United States|13,700|[[3]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-3)|
-|4.|[Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment "Sony Interactive Entertainment")|United States, Japan|12,700|[[4]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-4)|
-|5.|[Take-Two Interactive](https://en.wikipedia.org/wiki/Take-Two_Interactive "Take-Two Interactive")|United States|11,580|[[5]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-5)|
-|6.|[Keywords Studios](https://en.wikipedia.org/wiki/Keywords_Studios "Keywords Studios")|Ireland|11,141|[[6]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-6)|
-|7.|[Embracer Group](https://en.wikipedia.org/wiki/Embracer_Group "Embracer Group")|Sweden|10,450|[[7]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-7)|
-|8.|[Nintendo](https://en.wikipedia.org/wiki/Nintendo "Nintendo")|Japan|7,317|[[8]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-8)|
-|9.|[Nexon](https://en.wikipedia.org/wiki/Nexon "Nexon")|South Korea, Japan|7,067|[[9]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-9)|
-|10.|[NetEase Games](https://en.wikipedia.org/wiki/NetEase "NetEase")|China|6,500|[[10]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-10)|
-|11.|[MiHoYo](https://en.wikipedia.org/wiki/MiHoYo "MiHoYo")|China|6,000|[[11]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-11)|
-|12.|[Square Enix](https://en.wikipedia.org/wiki/Square_Enix "Square Enix")|Japan|4,712|[[12]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-12)|
-|13.|[Perfect World](https://en.wikipedia.org/wiki/Perfect_World_\(company\) "Perfect World (company)")|China|4,500|[[13]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-13)|
-|14.|[Epic Games](https://en.wikipedia.org/wiki/Epic_Games "Epic Games")|United States|4,000|[[14]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-14)|
-|15.|[NCSoft](https://en.wikipedia.org/wiki/NCSoft "NCSoft")|South Korea|3,900|[[15]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-15)|
-|16.|[Playtika](https://en.wikipedia.org/wiki/Playtika "Playtika")|Israel|3,800|[[16]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-16)|
-|17.|[Gameloft](https://en.wikipedia.org/wiki/Gameloft "Gameloft")|France|3,600|[[17]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-17)|
-|18.|[Virtuos](https://en.wikipedia.org/wiki/Virtuos "Virtuos")|Singapore|3,500|[[18]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-18)|
-|19.|[Sega](https://en.wikipedia.org/wiki/Sega "Sega")|Japan|3,459|[[19]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-19)|
+| Rank | Publisher                                                                                                                       | Country              | Employees | Ref                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | --------------------------------------------------------------------------------------- |
+| 1.   | [Microsoft Gaming](https://en.wikipedia.org/wiki/Microsoft_Gaming "Microsoft Gaming")                                           | United States        | 20,100    | [[1]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-1)   |
+| 2.   | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft "Ubisoft")                                                                      | France               | 19,011    | [[2]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-2)   |
+| 3.   | [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts "Electronic Arts")                                              | United States        | 13,700    | [[3]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-3)   |
+| 4.   | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment "Sony Interactive Entertainment") | United States, Japan | 12,700    | [[4]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-4)   |
+| 5.   | [Take-Two Interactive](https://en.wikipedia.org/wiki/Take-Two_Interactive "Take-Two Interactive")                               | United States        | 11,580    | [[5]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-5)   |
+| 6.   | [Keywords Studios](https://en.wikipedia.org/wiki/Keywords_Studios "Keywords Studios")                                           | Ireland              | 11,141    | [[6]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-6)   |
+| 7.   | [Embracer Group](https://en.wikipedia.org/wiki/Embracer_Group "Embracer Group")                                                 | Sweden               | 10,450    | [[7]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-7)   |
+| 8.   | [Nintendo](https://en.wikipedia.org/wiki/Nintendo "Nintendo")                                                                   | Japan                | 7,317     | [[8]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-8)   |
+| 9.   | [Nexon](https://en.wikipedia.org/wiki/Nexon "Nexon")                                                                            | South Korea, Japan   | 7,067     | [[9]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-9)   |
+| 10.  | [NetEase Games](https://en.wikipedia.org/wiki/NetEase "NetEase")                                                                | China                | 6,500     | [[10]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-10) |
+| 11.  | [MiHoYo](https://en.wikipedia.org/wiki/MiHoYo "MiHoYo")                                                                         | China                | 6,000     | [[11]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-11) |
+| 12.  | [Square Enix](https://en.wikipedia.org/wiki/Square_Enix "Square Enix")                                                          | Japan                | 4,712     | [[12]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-12) |
+| 13.  | [Perfect World](https://en.wikipedia.org/wiki/Perfect_World_\(company\) "Perfect World (company)")                              | China                | 4,500     | [[13]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-13) |
+| 14.  | [Epic Games](https://en.wikipedia.org/wiki/Epic_Games "Epic Games")                                                             | United States        | 4,000     | [[14]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-14) |
+| 15.  | [NCSoft](https://en.wikipedia.org/wiki/NCSoft "NCSoft")                                                                         | South Korea          | 3,900     | [[15]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-15) |
+| 16.  | [Playtika](https://en.wikipedia.org/wiki/Playtika "Playtika")                                                                   | Israel               | 3,800     | [[16]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-16) |
+| 17.  | [Gameloft](https://en.wikipedia.org/wiki/Gameloft "Gameloft")                                                                   | France               | 3,600     | [[17]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-17) |
+| 18.  | [Virtuos](https://en.wikipedia.org/wiki/Virtuos "Virtuos")                                                                      | Singapore            | 3,500     | [[18]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-18) |
+| 19.  | [Sega](https://en.wikipedia.org/wiki/Sega "Sega")                                                                               | Japan                | 3,459     | [[19]](https://en.wikipedia.org/wiki/List_of_largest_video_game_employers#cite_note-19) |
 
 [Development](https://en.wikipedia.org/wiki/Video_game_development "Video game development")
 - [Producer](https://en.wikipedia.org/wiki/Video_game_producer "Video game producer")

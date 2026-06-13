@@ -535,7 +535,6 @@ Artificial General Intelligence?
 | 2024-12 |       Qwen2.5        |       Alibaba        | [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)                                                                                                                                                       |
 | 2024-12 |     DeepSeek-V3      |       DeepSeek       | [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1)                                                                                                                                                 |
 | 2025-01 |     DeepSeek-R1      |       DeepSeek       | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)                                                                                             |
-|         |                      |                      |                                                                                                                                                                                                                    |
 
 
 ### Technical Evolution of Specific LLM Model Series
