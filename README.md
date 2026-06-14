@@ -3,10 +3,10 @@
 
 > [!quote]
 > Ex iisdem principiis demonstro iam systematis mundani compagem.
-> Philosophiae Naturalis Principia Mathematica
+> *Philosophiae Naturalis Principia Mathematica*
 > 
 > From the same principles, I now demonstrate the frame of the System of the World. 
-> Mathematical Principles of Natural Philosophy
+> *Mathematical Principles of Natural Philosophy*
 > 
 > Isaac Newton
 
