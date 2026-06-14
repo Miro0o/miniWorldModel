@@ -269,7 +269,7 @@ TOC
 [📖 Discrete Mathematics]:"Kenneth.H.Rosen"
 [💬 Discrete Mathematics and Functional Programming]:http://cs.wheaton.edu/%7Etvandrun/dmfp/
 
-↗ [MIT -- 6.042J: Mathematics for Computer Science.md](../../../🏠 Assets/MIT/6.042J: Mathematics for Computer Science/6.042J: Mathematics for Computer Science.md) 
+↗ [MIT -- 6.042J - Mathematics for Computer Science.md](../%F0%9F%97%BA%20CS%20Overview/%F0%9F%92%8B%20Intro%20to%20Computer%20Science/%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB%20Courses%20of%20Universities/MIT/6.042J%20Mathematics%20for%20Computer%20Science/6.042J%20-%20Mathematics%20for%20Computer%20Science.md) 
 
 
 

@@ -26,7 +26,7 @@
 
 
 ### Courses & Books
-🏫 [Stanford /CS143: Compilers](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
+🏫 [Stanford /CS143 - Compilers](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143%20-%20Compilers.md)
 
 🏫 [NJU / 软件分析](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/软件分析/软件分析.md)
 🏫 [UNDT /编译原理](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UNDT%20国防科技大学/编译原理/编译原理.md)

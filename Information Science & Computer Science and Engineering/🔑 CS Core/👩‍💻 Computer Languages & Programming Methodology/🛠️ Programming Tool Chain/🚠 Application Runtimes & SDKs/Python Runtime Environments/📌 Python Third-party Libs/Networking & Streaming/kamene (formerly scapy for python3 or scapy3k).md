@@ -1,4 +1,4 @@
-# kamene (formerly "scapy for python3" or scapy3k)
+# kamene (formerly scapy for python3 or scapy3k)
 
 [TOC]
 

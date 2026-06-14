@@ -1,4 +1,4 @@
-# Stanford CS143: Compilers
+# Stanford CS143 - Compilers
 
 ## 课程简介
 

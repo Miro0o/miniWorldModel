@@ -110,7 +110,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 #### 凸优化
 
-[Standford EE364A: Convex Optimization](https://csdiy.wiki/数学进阶/convex/)
+[Standford EE364A - Convex Optimization](https://csdiy.wiki/数学进阶/convex/)
 
 #### 信息论
 
@@ -246,9 +246,9 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 > 没有什么能比自己写个 TCP/IP 协议栈更能加深对计算机网络的理解了。
 
-大名鼎鼎的 [Stanford CS144: Computer Network](https://csdiy.wiki/计算机网络/CS144/)，8 个 Project 带你实现整个 TCP/IP 协议栈。
+大名鼎鼎的 [Stanford CS144 - Computer Network](https://csdiy.wiki/计算机网络/CS144/)，8 个 Project 带你实现整个 TCP/IP 协议栈。
 
-如果你只是想在理论上对计算机网络有所了解，那么推荐计网著名教材《自顶向下方法》的配套学习资源 [Computer Networking: A Top-Down Approach](https://csdiy.wiki/计算机网络/topdown/)。
+如果你只是想在理论上对计算机网络有所了解，那么推荐计网著名教材《自顶向下方法》的配套学习资源 [Computer Networking - A Top-Down Approach](https://csdiy.wiki/计算机网络/topdown/)。
 
 ### 数据库系统
 
@@ -262,7 +262,7 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 
 > 没有什么能比自己写个编译器更能加深对编译器的理解了。
 
-[Stanford CS143: Compilers](https://csdiy.wiki/编译原理/CS143/) 带你手写编译器。
+[Stanford CS143 - Compilers](https://csdiy.wiki/编译原理/CS143/) 带你手写编译器。
 
 ### Web开发
 

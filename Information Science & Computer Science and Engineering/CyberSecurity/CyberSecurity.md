@@ -24,7 +24,7 @@
 🎬【麻省理工学院 - MIT - 网络安全（我愿称之为网络安全教程天花板）】 https://www.bilibili.com/video/BV1HJ4m1w7fB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 MIT - Computer System Security
 
-🏫 [MIT - 6.857: Computer and Network Security](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.857%20Computer%20and%20Network%20Security/6.857:%20Computer%20and%20Network%20Security.md)
+🏫 [MIT - 6.857 - Computer and Network Security](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.857%20Computer%20and%20Network%20Security/6.857%20-%20Computer%20and%20Network%20Security.md)
 🏫 [UCB - CS161 Computer Security](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
 
 👍 [sectools.org](https://sectools.org)

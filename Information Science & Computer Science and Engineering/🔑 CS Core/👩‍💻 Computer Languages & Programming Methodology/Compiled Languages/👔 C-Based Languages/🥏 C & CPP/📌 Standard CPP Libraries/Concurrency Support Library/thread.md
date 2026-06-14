@@ -1,4 +1,4 @@
-# `<thread>`
+# `thread`
 
 [TOC]
 

@@ -1,4 +1,4 @@
-# `<mutex>`
+# `mutex`
 
 [TOC]
 

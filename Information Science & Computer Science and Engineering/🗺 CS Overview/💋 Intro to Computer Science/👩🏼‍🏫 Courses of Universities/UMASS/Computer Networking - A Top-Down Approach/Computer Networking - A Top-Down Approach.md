@@ -1,4 +1,4 @@
-# Computer Networking: A Top-Down Approach
+# Computer Networking - A Top-Down Approach
 
 [TOC]
 
@@ -8,7 +8,7 @@
 
 The first solid step begins with : 
 
-🎉 [Computer Networking: A Top-Down Approach
+🎉 [Computer Networking - A Top-Down Approach
 8th edition](https://gaia.cs.umass.edu/kurose_ross/index.php). Along with the 📚textbooks, 📽PPTs, 🎬Videos and 🥽Labs!! 
 
 🥳 AMAZING!

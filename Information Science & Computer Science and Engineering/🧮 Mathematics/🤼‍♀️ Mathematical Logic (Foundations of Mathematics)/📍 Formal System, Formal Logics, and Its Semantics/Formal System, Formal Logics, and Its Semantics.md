@@ -496,7 +496,7 @@ Specifically, we consider the mapping between these two sets of objects: one is 
 
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 - ![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.38.08.png)
-↗ [Computation-Tree Logic (CTL*) Family](Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTL*)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md)
+↗ [Computation-Tree Logic (CTLstar) Family](Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTLstar)%20Family/Computation-Tree%20Logic%20(CTLstar)%20Family.md)
 
 
 > [!TIP]

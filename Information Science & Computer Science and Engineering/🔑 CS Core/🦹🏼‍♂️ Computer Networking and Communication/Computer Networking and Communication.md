@@ -15,11 +15,11 @@
 
 ### Learning Resources
 #### Courses
-🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
-- 🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking:%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
+🎉 [Computer Networking - A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
+- 🏫 [UMASS /Computer Networking - A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking%20-%20A%20Top-Down%20Approach/Computer%20Networking%20-%20A%20Top-Down%20Approach.md)
 - 📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
-🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking: A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
+🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking - A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
 - 🏫 [USTC /计算机网络](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/USTC%20中国科学技术大学/计算机网络/计算机网络.md)
 	- 🎬 https://www.bilibili.com/video/BV1JV411t7ow/
 	- 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
@@ -32,7 +32,7 @@ https://github.com/Miro0o/Computer-Network-A-Top-Down-Approach
 [Solutions Manual for Computer Networking A Top Down Approach](https://www.studocu.com/en-us/document/prairie-view-am-university/computer-networks/solutions-manual-for-computer-networking-a-top-down-approach/25116860)
 
 ---
-🏫 [Stanford /CS144: Computer Network](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20144%20Computer%20Network/CS144:%20Computer%20Network.md)
+🏫 [Stanford /CS144 - Computer Network](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20144%20Computer%20Network/CS144%20-%20Computer%20Network.md)
 #### 👩‍🔬 Labs
 ↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 

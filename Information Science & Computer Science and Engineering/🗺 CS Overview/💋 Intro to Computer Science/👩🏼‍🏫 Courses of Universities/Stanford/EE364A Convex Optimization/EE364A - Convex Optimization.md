@@ -1,4 +1,4 @@
-# EE364A: Convex Optimization
+# EE364A - Convex Optimization
 
 [TOC]
 

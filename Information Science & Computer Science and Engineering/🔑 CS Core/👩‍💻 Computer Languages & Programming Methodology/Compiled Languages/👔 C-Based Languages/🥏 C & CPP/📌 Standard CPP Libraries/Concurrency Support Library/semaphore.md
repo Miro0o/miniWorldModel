@@ -1,4 +1,4 @@
-# `<semaphore>`
+# `semaphore`
 
 [TOC]
 
