@@ -1,0 +1,65 @@
+name: Sync Windows-compatible branch
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-windows-compatible
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main tools
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+          fetch-depth: 0
+
+      - name: Fetch generated branch in main checkout
+        working-directory: main
+        run: git fetch origin windows-compatible-paths:refs/remotes/origin/windows-compatible-paths
+
+      - name: Checkout Windows-compatible branch
+        uses: actions/checkout@v4
+        with:
+          ref: windows-compatible-paths
+          path: windows-compatible
+          fetch-depth: 0
+
+      - name: Configure Git author
+        working-directory: windows-compatible
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync changed files from main
+        run: >
+          python3 main/scripts/windows_compat.py
+          --config main/.github/windows-path-map.json
+          sync
+          --source main
+          --target windows-compatible
+
+      - name: Commit generated changes
+        working-directory: windows-compatible
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No Windows-compatible branch changes to commit."
+            exit 0
+          fi
+          main_sha="$(git -C ../main rev-parse --short HEAD)"
+          git commit -m "Sync Windows-compatible branch from main ${main_sha}"
+
+      - name: Push generated branch
+        working-directory: windows-compatible
+        run: git push origin HEAD:windows-compatible-paths
