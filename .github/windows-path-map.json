@@ -1,0 +1,27 @@
+{
+  "branch": "windows-compatible-paths",
+  "state_file": ".github/windows-sync-state.json",
+  "component_replacements": {
+    "APM -> ACPI": "APM (to ACPI)",
+    "B+Trees&Buffer Mng&Relational Algebra&Sorting:Hashing": "B+Trees&Buffer Mng&Relational Algebra&Sorting -Hashing",
+    "Computation-Tree Logic (CTL*) Family": "Computation-Tree Logic (CTLstar) Family",
+    "Computer Networking: A Top-Down Approach": "Computer Networking - A Top-Down Approach",
+    "MC Algorithms For CTLstar Family": "MC Algorithms For CTLstar Family",
+    "Programming Language Features (?)": "Programming Language Features",
+    "Treas.": "Treas"
+  },
+  "name_replacements": {
+    "1. What is an Operating System.pptx": "1. What is an Operating System.pptx",
+    "6.042J - Mathematics for Computer Science.md": "6.042J - Mathematics for Computer Science.md",
+    "6.080 - Great Ideas in Theoretical CS.md": "6.080 - Great Ideas in Theoretical CS.md",
+    "6.857 - Computer and Network Security.md": "6.857 - Computer and Network Security.md",
+    "CS143 - Compilers.md": "CS143 - Compilers.md",
+    "CS144 - Computer Network.md": "CS144 - Computer Network.md",
+    "EE364A - Convex Optimization.md": "EE364A - Convex Optimization.md",
+    "MC Algorithms For CTLstar.md": "MC Algorithms For CTLstar.md",
+    "MMC (Microsoft Management Console).md": "MMC (Microsoft Management Console).md",
+    "Shadowsocks 的前世今生 - Shadowsocks.webarchive": "Shadowsocks 的前世今生 - Shadowsocks.webarchive",
+    "Shadowsocks 简介 - Shadowsocks.webarchive": "Shadowsocks 简介 - Shadowsocks.webarchive",
+    "kamene (formerly \"scapy for python3\" or scapy3k).md": "kamene (formerly scapy for python3 or scapy3k).md"
+  }
+}
