@@ -305,6 +305,20 @@ tbd.
 > 乃以时而为我。
 
 > [!quote]
+> 水调歌头·明月几时有
+> 水调歌头·中秋 / 水调歌头·丙辰中秋
+> 苏轼〔宋代〕
+> 
+> 丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。
+> 
+> 明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。(何似 一作：何时；又恐 一作：惟 / 唯恐)  
+> 
+> 转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。(长向 一作：偏向)
+> 
+> ---
+> 🎵 [王菲 - 但願人長久](https://youtu.be/75yyU_L2UHg?si=MZlu1I0sWYztp_Vs)
+
+> [!quote]
 > 朝闻道
 > 刘慈欣
 > 
@@ -980,6 +994,8 @@ tbd.
 > 人猿相揖别。只几个石头磨过，小儿时节。铜铁炉中翻火焰，为问何时猜得？不过几千寒热。人世难逢开口笑，上疆场彼此弯弓月。流遍了，郊原血。
 > 
 > 一篇读罢头飞雪，但记得斑斑点点，几行陈迹。五帝三皇神圣事，骗了无涯过客。有多少风流人物？盗跖庄蹻流誉后，更陈王奋起挥黄钺。歌未竟，东方白。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/avjdKTqiVvQ?si=HlNJXJh80hg7LLNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### 运动与（人/人类社会 的）发展

@@ -242,16 +242,17 @@ That being said, I give a very brief (and incomplete) index to miniWorldModel be
 		- ↗ [Fermi Paradox](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Fermi%20Paradox.md)
 
 
-### A Glimpse of the Notebook
-As I’ve emphasized throughout, this notebook is structured as a mind map, with extensive links connecting its leaf nodes -- much like the illustration shown at the beginning of this README. While the overall hierarchy and relationships between files are clear to me, I find it challenging to convey this structure to others. A major reason for this difficulty is the lack of existing tools or software capable of visualizing the notebook in its entirety.
+### A Glimpse of the Notebook & miniWorldMap ⭐
+As I’ve emphasized throughout, this notebook is structured as a mind map, with extensive links connecting its leaf nodes -- much like the illustration shown at the beginning of this README. 
+The combination of such bidirectional linking + hierarchical structure is the core idea of the knowledge base. However, currently there is no such visualization tool available on the public to present a view like that. Therefore, I made one my own (with codex): `miniWorldMap` (==url needed==). Please download it from obsidian community plugin market to view the overall knowledge base. 
 
-Ideally, an effective visualization would combine two approaches: bidirectional linking + hierarchical structure. Unfortunately, I have not yet found a tool that successfully integrates both. Given the rapid advancement of AI, I may consider developing such a tool myself in the future.
-
-Below are examples of these two styles presented separately. The screenshots were taken in January 2026.
+Below I will introduce the idea of the structure of the knowledge base, by first showing two existing views in separate, then the view combining them, which is supported in `miniWorldMap`.
 
 > [!TIP]
 > 
-> The examples are presented in a carousel style. For Obsidian to render them correctly, please use CSS snippet:
+> The examples below are presented in a carousel style. If you are viewing this within Obsidian, you can scroll horizontally to see additional images displayed in a carousel. 
+> 
+> For Obsidian to render them correctly, please use CSS snippet:
 > - `Settings → Appearance → CSS snippets`
 > - Create a file `carousel.css` : (if you use other names you need to change the HTML code below as well)
 > ```css
@@ -272,7 +273,7 @@ Below are examples of these two styles presented separately. The screenshots wer
 > - Enable the snippet in Obsidian
 
 1️⃣ Bidirectional linking. 
-The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. If you are viewing this within Obsidian, you can scroll horizontally to see additional images displayed in a carousel. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure.
+The screenshots below are from Obsidian’s native 🔗 [Graph View](https://obsidian.md/help/plugins/graph) plugin. While the graph view is visually appealing, it does not represent nodes in a hierarchical structure.
 
 <div class="carousel">  
 <img src="Assets/Pics/Screenshot 2026-02-06 at 02.04.14.png">  
@@ -289,6 +290,25 @@ The screenshots below illustrate the folder structure represented as a mind map 
 <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.54.54.png">  
 <img src="Assets/Pics/Screenshot%202026-02-08%20at%2001.55.29.png"> 
 </div>
+
+3️⃣ `miniWorldMap`: combining bi-directional links and mind-map hierarchy ⭐
+
+<div class="carousel">  
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.34.32.png">  
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.26.png">  
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.36.11.png"> 
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.35.50.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.37.08.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.14.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.41.38.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.48.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.39.14.png">
+<img src="Assets/Pics/Screenshot%202026-06-13%20at%2023.43.36.png">
+</div>
+
+Key design idea:
+1. Use concentric rings to represent the mind-map hierarchy: inner rings are the parent nodes, while the outer rings are the child nodes. Nodes are connected by the "hierarchy links". User can change the root node (the center of the map) to any folder, so to gain a sub mind-map for that topic.
+2. Use hovering to highlight hierarchy links or note internal /external links. This allows a quick view of node ancestors /siblings /successors, or connected topics.
 
 
 ### The Hidden Files
