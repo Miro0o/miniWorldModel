@@ -43,7 +43,7 @@ jobs:
 
       - name: Sync changed files from main
         run: >
-          python3 main/scripts/windows_compat.py
+          python3 main/Assets/Scripts/windows_compat.py
           --config main/.github/windows-path-map.json
           sync
           --source main
