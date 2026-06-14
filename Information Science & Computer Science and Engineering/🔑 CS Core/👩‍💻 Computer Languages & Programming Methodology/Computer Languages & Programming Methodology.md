@@ -118,7 +118,7 @@ Unlike linguistics, semiotics also studies non-linguistic sign systems. Semiotic
 ↗ [Formal System, Formal Logics, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
 
-###  1️⃣ Computer Languages
+### 1️⃣ Computer Languages
 > 🔗 https://en.wikipedia.org/wiki/Computer_language
 
 A **computer language** is a [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") used to communicate with a [computer](https://en.wikipedia.org/wiki/Computer "Computer"). Types of computer languages include:

@@ -460,7 +460,7 @@ One of the most cited papers of protocol verification is one by Danny Dolev and 
 
 > [!definition]
 > **Definition 8.**  (Dolev-Yao Closure)
-> (↗ [Closure (CS & PL)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Features%20(?)/Closure%20(CS%20&%20PL).md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md))
+> (↗ [Closure (CS & PL)](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Features/Closure%20(CS%20&%20PL).md), ↗ [Number Sets & Field Construction (Completion) and Extension](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md))
 > 
 > *We define $\vdash$ as the least relation that satisfies the following rules:*
 > $$
