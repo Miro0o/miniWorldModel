@@ -15,6 +15,8 @@
 ↗ [Julia](../../../../Compiled%20Languages/Julia/Julia.md)
 ↗ [R Language](../../../R%20Language/R%20Language.md)
 
+↗ [Markdown](../../../../🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages%20&%20Data%20Representation/Markdown.md)
+
 
 ### Other Resources
 
