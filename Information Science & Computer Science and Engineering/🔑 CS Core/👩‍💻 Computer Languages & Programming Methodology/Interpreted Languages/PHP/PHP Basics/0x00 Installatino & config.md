@@ -17,7 +17,7 @@
 
 
 
-i use [homebrew](../../../Software/CLI/homebrew.md) to install `php@8.0`. 
+i use ↗ [🍻 homebrew](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/macOS%20Package%20Management/homebrew/🍻%20homebrew.md) to install `php@8.0`. 
 
 First, search php in brew mirro site. 
 ``` shell

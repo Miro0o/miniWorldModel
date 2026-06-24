@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Universe, Self-Awareness, and Intelligence](../../../../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
+
 ↗ [Astrobiology](../../Life%20Science/Astrobiology/Astrobiology.md)
 ↗ [Extraterrestrial Life & Extraterrestrial Intelligence (ETI)](../../../../Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI)/Extraterrestrial%20Life%20&%20Extraterrestrial%20Intelligence%20(ETI).md)
 
@@ -28,6 +30,13 @@ Our German and Norwegian sites, [timeanddate.de](https://www.timeanddate.de/) 
 
 https://app.keeptrack.space
 _Free, open-source tool for exploring space in 3D_. Simulate satellite launches, visualize breakups, and explore a detailed library of 30000+ objects.
+
+https://science.nasa.gov/
+NASA Science
+NASA Science seeks to discover the secrets of the universe, search for life elsewhere, and protect and improve life on Earth and in space.
+- https://science.nasa.gov/eyes/
+- NASA's Eyes
+- Experience Earth, our solar system, nearby asteroids, the universe, and the spacecraft exploring them with immersive real-time 3D web-based apps. Start exploring your solar system now!
 
 
 

@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
+↗ [Earth Science & Space Science (Cosmology)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/Earth%20Science%20&%20Space%20Science%20(Cosmology)/Earth%20Science%20&%20Space%20Science%20(Cosmology).md)
+
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 - ↗ [The General Principle of Marxism (in China)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/The%20General%20Principle%20of%20Marxism%20(in%20China).md)
 
@@ -24,6 +28,25 @@
 
 
 ### Online Resources
+https://science.nasa.gov/
+NASA Science
+NASA Science seeks to discover the secrets of the universe, search for life elsewhere, and protect and improve life on Earth and in space.
+- [Home](https://science.nasa.gov/)
+- [Missions](https://science.nasa.gov/nasa-missions/)
+- [Humans in Space](https://science.nasa.gov/humans-in-space/)
+- [Earth](https://science.nasa.gov/earth/)
+- [The Solar System](https://science.nasa.gov/solar-system/)
+- [The Universe](https://science.nasa.gov/universe/)
+- [Science](https://science.nasa.gov/)
+- [Aeronautics](https://science.nasa.gov/aeronautics/)
+- [Technology](https://science.nasa.gov/technology/k k)
+- [Learning Resources](https://science.nasa.gov/learning-resources/)
+- [About NASA](https://science.nasa.gov/about/)
+
+- https://science.nasa.gov/eyes/
+- NASA's Eyes
+- Experience Earth, our solar system, nearby asteroids, the universe, and the spacecraft exploring them with immersive real-time 3D web-based apps. Start exploring your solar system now!
+
 https://plato.stanford.edu/index.html
 Stanford Encyclopedia of Philosophy
 
@@ -146,6 +169,10 @@ spencer lawrence
 > 
 > -- Philosophiae Naturalis Principia Mathematica, Isaac Newton.
 
+> [!quote]
+> 🔗 https://science.nasa.gov/exoplanets/what-is-the-universe/
+> 
+> The universe is everything. It includes all of space, and all the matter and energy that space contains. It even includes time itself and, of course, it includes you.
 
 注：本篇完全都是个人意见，未验证，未完成，经常修改。
 又注：写下这些文字的目的是为了自己梳理自己的想法，以便继续思考。我在文中使用判定的语气，如“A是B”，实际上的意思是“我认为/我猜测/我提出：A是B”，并不是真的给事情下结论。

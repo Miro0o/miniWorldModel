@@ -239,8 +239,6 @@ Many recent satellite image-based sources identify China's Pearl River Delta (an
 
 
 ## International Organizations & Forums & Groupings
-> [!Links]
-> ↗ [International Organization & Allies](International%20Organization%20&%20Allies.md)
 
 > [!Abstract] International Organizations Index
 > https://uia.org/
