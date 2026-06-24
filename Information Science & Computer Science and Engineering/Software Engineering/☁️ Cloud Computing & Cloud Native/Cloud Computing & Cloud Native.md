@@ -154,9 +154,9 @@ Cloud Stack
 
 [KVM](https://www.linux-kvm.org/page/Main_Page)
 
-[Serverless](Serverless/Intro.md) 
+↗ [Serverless](🌵%20Cloud%20Native%20Overview/Cloud%20System%20Software%20Architectures/Serverless/Serverless.md)
 
-[DevOps](DevOps/Orientation.md) 
+↗ [Dev(Sec)Ops (Application Level Engineering)](Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 Agile Dev
 

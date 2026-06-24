@@ -21,8 +21,8 @@ Apple Game Wiki
 #### 1️⃣ Installing Windows via Dual-Boot or Virtualization
 Preferred Options: 
 
-↗ [Parallel Desktop](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
-↗ [VMware Fusion](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
+↗ [Parallel Desktop](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
+↗ [VMware Workstation (Pro)](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation%20(Pro).md)
 
 Obselet solusions: virtualBox, Boot Camp, and Windows 365
 - Oracle’s free **VirtualBox** is another option for running a virtual Windows system, but you’ll need patience and expertise to get it working; stay away from this method if the prospect of partitioning your hard drive or system RAM sounds daunting. Apps won’t run as quickly or as smoothly as they do with commercial solutions, and you still need to purchase a Windows license to use with VirtualBox.
@@ -34,7 +34,7 @@ Obselet solusions: virtualBox, Boot Camp, and Windows 365
 Are you kidding me ? Minecraft is nice on mac though. 
 #### 3️⃣ Get PC Games Running Under Interpreters
 ##### Wine Project
-↗ [Wine Project (Linux Subsystem for Windows)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project%20(Linux%20Subsystem%20for%20Windows)/Wine%20Project%20(Linux%20Subsystem%20for%20Windows).md)
+↗ [Wine Project (Linux Subsystem for Windows)](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/🍷%20Wine%20Project%20(Linux%20Subsystem%20for%20Windows)/Wine%20Project%20(Linux%20Subsystem%20for%20Windows).md)
 ##### Proton
 https://www.protondb.com
 #### 4️⃣ Go Retro with Emulators

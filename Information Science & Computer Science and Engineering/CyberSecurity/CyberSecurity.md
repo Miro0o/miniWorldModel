@@ -257,7 +257,7 @@ ctf竞赛权威指南
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 
 计算机安全学术知名公众号：
-- 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [[官网]](https://gossip.team/)
+- 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [官网](https://gossip.team/)
     - [G.O.S.S.I.P 圣诞特别篇 2023-12-25 安全研究人员的天梯排行榜](https://mp.weixin.qq.com/s/FPWnVv6zUQ7uk6C6iiyTDw)
     - [G.O.S.S.I.P 2024 新年祝福](https://mp.weixin.qq.com/s/F2nHOZcsREihJK1TqRaI5w)
 - 网安国际 (由清华大学段海新教授、复旦大学杨珉教授、蚂蚁韦韬博士、华为万涛博士等共同发起) [官网](https://www.inforsec.org/)
