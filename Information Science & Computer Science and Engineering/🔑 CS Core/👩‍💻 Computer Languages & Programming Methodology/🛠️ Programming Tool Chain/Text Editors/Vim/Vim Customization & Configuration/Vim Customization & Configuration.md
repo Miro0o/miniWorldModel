@@ -71,8 +71,8 @@ The main reason for the existence of this project is that the original Solarized
 
 ### Tutorials
 1️⃣ A go-to solusion for vim customization: [Configure iTerm2 and Vim like a Pro](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
-- [Iterm2](../../Shell/iterm2.md) 
-- [oh-my-zsh](../../Shell/zsh.md) 
+- ↗ [iTerm2](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iTerm2.md)
+- ↗ [oh-my-zsh](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md)
 - Powerlevel10k (The coolest theme for Zsh)
 - Vim Airline (Vim status bar)
 - NERDTree (A file system tree for Vim)
