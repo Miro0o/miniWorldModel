@@ -174,6 +174,11 @@ spencer lawrence
 > 
 > The universe is everything. It includes all of space, and all the matter and energy that space contains. It even includes time itself and, of course, it includes you.
 
+
+下面的草图大致展示了本篇的概念地图：
+
+![universe_outline.excalidraw | 800](Assets/Illustrations/Philosophy/universe_outline.excalidraw.md)
+
 注：本篇完全都是个人意见，未验证，未完成，经常修改。
 又注：写下这些文字的目的是为了自己梳理自己的想法，以便继续思考。我在文中使用判定的语气，如“A是B”，实际上的意思是“我认为/我猜测/我提出：A是B”，并不是真的给事情下结论。
 再注：在和G老师对话中可以窥见很多想法在不同哲学理论中的原型。我没学过他们（很长一段时间内也不大可能学），所以要对我的这些想法进行验证很困难。进行系统学习之后再思考一定是更加轻松的，但是我目前还没有这个条件，所以只是记录一下个人的主观猜测和灵光一闪的想法。希望在日后的不断学习中思考可以不断深刻、进步。加油。
@@ -219,10 +224,14 @@ tbd.
 ↗ [Life Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/Life%20Science.md)
 ↗ [History of Life & Human Evolution](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
 ###### 生命感知下的信息与时间
+信息：生命对宇宙的感知
+时间：生命对自我的感知
+- 没有自我意识，就没有时间概念
 
 ###### 生命的周期：生与死
+没有生命，就没有生与死
 
-##### 有自我意识的生命：智能
+##### 有自我意识的生命：（人类）智能
 在生命的基础之上，一类特殊的生命：智能生命。智能生命与普通生命（非智能）的区别：自我意识。换句话说，自我意识带来了智能，智能生命 = 普通生命（行动）+ 自我意识（思考）
 
 自我意识 = 思考 = （额外的）信息维度。
@@ -380,6 +389,12 @@ tbd.
 > 丁仪若有所悟地点点头：“要说也是这样，那个伟大的望星人！”
 > 
 > 排险者接着说：“以后我就来到了你们的世界，监视着文明的进程，像是守护着一个玩火的孩子，周围被火光照亮的宇宙使这孩子着迷，他不顾一切地把火越燃越烧旺，直到现在，宇宙已有被这火烧毁的危险。”
+
+> [!quote]
+> 街灯的光穿窗而入，屋子里显出微明，我大略一看，熟识的墙壁，壁端的棱线，熟识的书堆，堆边的未订的画集，外面的进行着的夜，无穷的远方，无数的人们，都和我有关。
+> 
+> “这也是生活”
+> 鲁迅
 ###### 自我意识与物理生命的绑定?
 
 自我意识可否独立于躯体单独存在？这又意味着什么？
@@ -444,7 +459,7 @@ tbd.
 
 下图是对此的一些举例，请注意不同举例中 “->” 所对应的特定语境下的名称：
 
-![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 在上面的举例中，第一个例子比较特殊：在集合论中，数学家用一个有序数对(A, B)来同义地表达 $A \to B$。因为 $A \to B$ 实际上可以被理解为元素A和元素B的次序关系（A,B）。对于$A\overset{C}{\to}B$，也可以使用一个序列$ACB$来表示。这些表示方法是等价的。有序数对的表示当然更简洁优雅；不过$A \overset{C}{\to} B$的形式显然更容易直接兼容到任何一个其他领域。
 
@@ -601,7 +616,7 @@ or（感性，理性）X （认识，实践）
 
 上述几个方面的知识构成了所有人类知识的画像，如下：
 
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
 > 关于知识的定义和其他相关内容，之后有专门的章节。这里先提前使用一下。
@@ -758,6 +773,9 @@ tbd.
 - 语言 /符号系统 /信号系统
 - 多模态系统
 - 其他媒介 /信道？
+##### 信息：生命对宇宙的感知
+##### 信息的运动：思考与自我意识
+参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 ##### 信息在物理世界的投射与模态
 前文提到，信息就是人的自我意识，是人的思维。没有自我意识，就没有思维，就没有信息。因此，信息本是抽象的，主观的，只存在于人的脑海中。但是，信息可以通过映射的方式来与物理世界进行对应，这样信息，或人的思维，就可以以客观的形式存在于物理世界。人将自己的思维向物理世界投射，再将物理世界的投射在脑中重现思维，这个过程就是信息的编码与解码。
 
@@ -800,13 +818,13 @@ tbd.
 
 参见上节“ 主体视角下的宇宙：物质，能量，信息 ⭐”
 
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
 ![](Assets/Pics/Screenshot%202025-08-24%20at%2014.36.01.png)
 <small><a>https://m71glec170.feishu.cn/wiki/wikcnCZNlPt7SDsjDJSBFVjdmPg</a></small>
 
-![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](Assets/Illustrations/Philosophy/computing.excalidraw.md)
 ###### 知识的分类
 - 基于感性的知识 vs 基于理性的知识
 	- 艺术文化知识 vs 科学技术知识（包括自然科学和社会科学）
@@ -829,8 +847,6 @@ tbd.
 ###### 感性的思考与实践：文化与艺术
 文化：一切与人有关的信息/知识/思想。
 艺术：对文化进行提炼，进行的文化实践活动。
-##### 信息的运动：思考与自我意识
-参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 ##### 信息运动的自动化：计算机智能（狭义的智能）👈
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
@@ -839,7 +855,7 @@ tbd.
 ↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
 
 要对信息的运动进行自动化，首先要对信息进行符号化，即将其从抽象概念投射到现实世界中可以设计机器进行自动化的模态。计算机科学中，这种符号化就是计算机语言，或者说编程语言。（编程语言是计算机语言的子集，在计算机运算的过程中需要不止编程语言一种符号系统。但是编程语言是最重要、计算机运算唯一不可或缺的语言）在有了编程语言（程序设计语言）之后，编程语言构成的程序的执行，即计算，就是信息的自动化运动。
@@ -910,7 +926,7 @@ tbd.
 > ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 > ↗ [AI Embodiment & World Model (WM)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
 
 下面这一段是对整个“存在与（人/人类社会 的）认识存在” 一章做总结。
@@ -1010,7 +1026,7 @@ tbd.
 **狭义的智能**：类似人类的认识能力，不包括对宇宙的实践（改造）能力。人类通过制造机器（计算机）进行自动计算，达到这种狭义的智能能力。
 - 目前计算机只能做到基于逻辑（理性）的认识，并不能做到基于情感（感性）的认识（无法计算人类情感）。目前人工智能领域的研究范畴也属于此狭义的智能。
 - 通过对人工智能技术的进一步研究与发展，远景目标是做到能够让计算机达到情感认识的能力，即所谓的人工智能突破奇点。当一个物体，即具有逻辑（理性）能力，又具有情感（感性）能力，这种物体（我认为）就达到了人类同一级别的智能水平，此时这种物体的智能水平和人类的智能水平的差距就只在于计算速度、知识储备等方面，而不具有可计算能力上的差别了。
-##### 时间，文明，与智能
+##### 时间，文明，与智能：过去，现在，未来
 ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 ↗ [中华文明历史概况](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 
@@ -1026,7 +1042,7 @@ tbd.
 
 
 ### 运动与（人/人类社会 的）发展
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 
 > 马克思主义唯物辩证法试图回答的问题是“世界的存在状态问题”。在这个问题上，唯物辩证法认为==世界存在的基本特征有两个==：一个是世界是普遍联系的，另一个是世界是永恒发展的。
 
@@ -1197,7 +1213,7 @@ tbd.
 ###### 上层物质欲望/ 基础精神欲望 -- 享乐
 ↗ [Cultures & Entertainment Industry](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
 ↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
-###### 上层精神欲望：学习与教育
+###### 上层精神欲望：知识
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
@@ -1412,7 +1428,7 @@ tbd.
 
 
 ## 👼🏻 Human Intelligence (Natural Intelligence) & Human Society
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 
 
 ### Self-Awareness
@@ -1580,7 +1596,7 @@ https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Complex_system
 
 [论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
-#### Academic Research, Knowledge, and Education
+#### Academic Research, Knowledge, and Education ⭐
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
 ↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)

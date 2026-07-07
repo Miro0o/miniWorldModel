@@ -43,7 +43,7 @@
 > [!links]
 > ↗ [Artificial Intelligence](../Artificial%20Intelligence.md) "AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐"
 
-![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 

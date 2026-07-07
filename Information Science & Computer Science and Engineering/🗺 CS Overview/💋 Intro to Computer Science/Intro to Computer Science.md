@@ -76,10 +76,10 @@ TL;DR
 	- The ultimate goal of computer science is to reach to the extreme of computational power, i.e. the ability like human intelligence or beyond that in regard of the computation of information.
 	- Strong computational power don't make human-like intelligence, the combination of computational power and engineering ability makes human-like intelligence, or even human ourselves. However, a more widely-accepted version of such intelligence, artificial intelligence, aims to only reach the maximal power of computational ability, ignoring the engineering part. 
 
-![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
-![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
@@ -100,7 +100,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
 #### A Deeper Thinking of Computation
-![computing.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
@@ -462,9 +462,9 @@ These questions, from general to specific, track my path in learning CS. The lin
 
 
 **Philosophy Part**
-1. What is the Universe? | ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md) ![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+1. What is the Universe? | ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md) ![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 	1. What is the life?（什么是生命？）
-	2. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+	2. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 		1. Difference between human and other life objects? Self-consciousness.
 		2. Human intelligence?
 			1. Intelligence: computation (of information) + engineering
@@ -549,7 +549,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 		2. ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 		3. ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-		4. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+		4. ![computing.excalidraw](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 5. ==\[SYSTEM\]== What is a computer /information system (again?)  --> 4 aspects: hardware, software, policies & protocols, people/ user ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 	1. What composes a computer? /How computer is designed and constructed in terms of hardware?
 		1. ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)

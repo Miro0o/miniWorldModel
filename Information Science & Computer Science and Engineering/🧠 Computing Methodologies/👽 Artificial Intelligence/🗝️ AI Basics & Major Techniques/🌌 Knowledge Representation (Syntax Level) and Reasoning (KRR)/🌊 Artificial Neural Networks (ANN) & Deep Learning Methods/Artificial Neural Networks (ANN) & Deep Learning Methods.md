@@ -181,7 +181,7 @@ https://stanford.edu/~shervine/
 
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
 
-![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 ![|600](../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.19.48.png)
 <small><a>https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0</a></small>

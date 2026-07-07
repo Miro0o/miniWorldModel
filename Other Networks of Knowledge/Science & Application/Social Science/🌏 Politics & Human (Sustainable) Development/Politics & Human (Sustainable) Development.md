@@ -55,7 +55,7 @@ https://www.numbeo.com/
 
 
 ## Intro
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](../../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 
 
 ### Human History

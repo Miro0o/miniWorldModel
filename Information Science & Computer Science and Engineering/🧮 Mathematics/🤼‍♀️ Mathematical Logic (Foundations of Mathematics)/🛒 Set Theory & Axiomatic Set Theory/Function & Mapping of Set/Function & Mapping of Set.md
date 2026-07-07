@@ -23,7 +23,7 @@
 
 
 ## Intro
-![computing.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 
 ### Formal Definition: Functions

@@ -118,9 +118,9 @@ The bitter lesson | rich sutton
 ### What is (Human /Natural) Intelligence?
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
-![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 （感性，理性）X （思考，行动）
 or（感性，理性）X （认识，实践）
@@ -140,7 +140,7 @@ or（感性，理性）X （认识，实践）
 > ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 > ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20(VLA)%20Model/Vision-Language-Action%20(VLA)%20Model.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
@@ -202,7 +202,7 @@ This chapter defines AI and establishes the cultural background against which it
 > [!links]
 > ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 ##### Performance Measures
 > [!lnks]
 > ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
@@ -654,7 +654,7 @@ This chapter has addressed the following issues:
 
 
 ## The Future of AI
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

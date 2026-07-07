@@ -6,30 +6,58 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy of Science](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
-↗ [Philosophy of Arts (Aesthetics)](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
+↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+- ↗ [Philosophy of Science](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/Philosophy%20of%20Science/Philosophy%20of%20Science.md)
+- ↗ [Philosophy of Arts (Aesthetics)](../../♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/💟%20Philosophy%20of%20Arts%20(Aesthetics)/Philosophy%20of%20Arts%20(Aesthetics).md)
+- ↗ [Marxism & Communism](../../♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Political%20Philosophy/Marxism%20&%20Communism/Marxism%20&%20Communism.md)
 
 ↗ [Mathematics](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 
 ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
 
 
-### Other Resources
+### Learning Resources /Reading Lists
 https://github.com/hoochanlon/hamulete
 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
 [✨](https://1login.to/) [pdf24.org](https://tools.pdf24.org/) [广西壮族自治区图书馆](http://www.gxlib.org.cn/) [浙江图书馆](https://www.zjlib.cn/) [香港大学图书库](http://hub.hku.hk/)
-
 [🔖](https://www.gsxt.gov.cn/index.html) [中国哲学社会科学文献中心](https://www.ncpssd.org/) [新加坡论文库](https://libguides.nus.edu.sg/chineseeresources/theses) [台湾博硕论文系统](https://ndltd.ncl.edu.tw/)
-
 ✏️ [华东理工大学学报( 社会科学版)](http://hdlgdxxbskb.cn/) [中国人民大学复印周刊](http://rdbk1.ynlib.cn:6251/) [毛选第五册](https://www.marxists.org/chinese/maozedong/index.htm#5)
-
 日语文库：[東洋経済](https://toyokeizai.net/articles/-/648098?page=3) [埼玉県立図書館](https://www.lib.pref.saitama.jp/reference/hint/cat/link-site.html) [つながるひろがる](https://tsunagarujp.bunka.go.jp/read-write) [rieti.go.jp](https://www.rieti.go.jp/users/china-tr/jp/ssqs/220202ssqs.html)
+
 
 https://www.marxists.org
 marxists
 https://www.marxists.org/chinese/index.html
 中文马克思主义文库
+- [马克思](https://www.marxists.org/chinese/marx/index.htm "马克思 Karl Marx")  [恩格斯](https://www.marxists.org/chinese/engels/index.htm "恩格斯 Engels")  [列宁](https://www.marxists.org/chinese/lenin/index.htm "列宁 Lenin") 　[罗莎·卢森堡](https://www.marxists.org/chinese/rosa-luxemburg/index.htm "罗莎·卢森堡 Rosa Luxemburg") 　[托洛茨基](https://www.marxists.org/chinese/trotsky/index.htm "托洛茨基 Trotsky")  [陈独秀](https://www.marxists.org/chinese/chenduxiu/index.htm "陈独秀 Chen Du Xiu")  
+- [第一国际](https://www.marxists.org/chinese/first-international/index.htm)  [第二国际](https://www.marxists.org/chinese/second-international/index.htm)  [第三国际](https://www.marxists.org/chinese/communist-international/index.htm)  [第四国际](https://www.marxists.org/chinese/fourth-international/index.htm)
+- [李大钊](https://www.marxists.org/chinese/lidazhao/index.htm)  [邓中夏](https://www.marxists.org/chinese/dengzhongxia/index.htm)  [彭述之](https://www.marxists.org/chinese/pengshuzhi/index.htm)  [陈碧兰](https://www.marxists.org/chinese/chenbilan/index.htm)  [郑超麟](https://www.marxists.org/chinese/zhengchaolin/index.htm)  [王凡西](https://www.marxists.org/chinese/wangfanxi/index.htm)  [楼国华](https://www.marxists.org/chinese/louguohua/index.htm)  [陈其昌](https://www.marxists.org/chinese/chenqichang/index.htm)  [尹宽](https://www.marxists.org/chinese/yinkuan/index.htm)  [王独清](https://www.marxists.org/chinese/wangduqing/index.htm)  [刘仁静](https://www.marxists.org/chinese/liurenjing/index.htm)  [蔡振德](https://www.marxists.org/chinese/caizhende/index.htm)  [李季](https://www.marxists.org/chinese/liji/index.htm)  [吴季严](https://www.marxists.org/chinese/wujiyan/index.htm)
+- [毛泽东](https://www.marxists.org/chinese/maozedong/index.htm)  [林 彪](https://www.marxists.org/chinese/linbiao/index.htm)  [周恩来](https://www.marxists.org/chinese/zhouenlai/index.htm)  [刘少奇](https://www.marxists.org/chinese/liushaoqi/index.htm)  [恽代英](https://www.marxists.org/chinese/yundaiying/index.htm)  [罗亦农](https://www.marxists.org/chinese/luoyinong/index.htm)  [瞿秋白](https://www.marxists.org/chinese/quqiubai/index.htm)  [罗章龙](https://www.marxists.org/chinese/luozhanglong/index.htm)  [向警予](https://www.marxists.org/chinese/xiangjingyu/index.htm)  [蔡和森](https://www.marxists.org/chinese/caihesen/index.htm)  [赵世炎](https://www.marxists.org/chinese/zhaoshiyan/index.htm)  [张国焘](https://www.marxists.org/chinese/zhangguotao/index.htm)  [王明](https://www.marxists.org/chinese/wangming/index.htm)  [江亢虎](https://www.marxists.org/chinese/jiangkanghu/index.htm)  [李立三](https://www.marxists.org/chinese/lilisan/index.htm)
+- [周仁生](https://www.marxists.org/chinese/zhourensheng/index.htm)  [姜君羊](https://www.marxists.org/chinese/jiangjunyang/index.htm)  [刘平梅](https://www.marxists.org/chinese/liupingmei/index.htm)  [谢山](https://www.marxists.org/chinese/xieshan/index.htm)  [熊安东](https://www.marxists.org/chinese/xiongandong/index.htm)  [赵芳举](https://www.marxists.org/chinese/zhaofangju/index.htm)
+- [蒲鲁东](https://www.marxists.org/chinese/proudon/index.htm)  [巴枯宁](https://www.marxists.org/chinese/bakunin/index.htm)  [克鲁泡特金](https://www.marxists.org/chinese/kropotkin/index.htm)  [马赫诺](https://www.marxists.org/chinese/makhno/index.htm)  [爱玛·戈德曼](https://www.marxists.org/chinese/emma-goldman/index.htm)  [刘师复](https://www.marxists.org/chinese/liushifu/index.htm)  [巴金](https://www.marxists.org/chinese/bajin/index.htm)  [大卫·格雷伯](https://www.marxists.org/chinese/david-graeber/index.htm)
+- [温斯坦莱](https://www.marxists.org/chinese/winstanley/index.htm)  [马布利](https://www.marxists.org/chinese/mably/index.htm)  [闵采尔](https://www.marxists.org/chinese/thomas-munzer/index.htm)  [布朗基](https://www.marxists.org/chinese/blanqui/index.htm)  [拉法格](https://www.marxists.org/chinese/lafargue/index.htm)  [饶勒斯](https://www.marxists.org/chinese/jaures/index.htm)  [拉萨尔](https://www.marxists.org/chinese/lassalle/index.htm)  [威廉·李卜克内西](https://www.marxists.org/chinese/liebknecht-w/index.htm)  [倍倍尔](https://www.marxists.org/chinese/beble/index.htm)  [卡尔·李卜克内西](https://www.marxists.org/chinese/liebknecht-k/index.htm)  [梅林](https://www.marxists.org/chinese/mehring/index.htm)  [考茨基](https://www.marxists.org/chinese/kautsky/index.htm)  [伯恩斯坦](https://www.marxists.org/chinese/bernstein/index.htm)  [奥托·鲍威尔](https://www.marxists.org/chinese/otto-bauer/index.htm)  [帕尔乌斯](https://www.marxists.org/chinese/helphand-parvus/index.htm)  [约瑟夫·狄慈根](https://www.marxists.org/chinese/josef-dietzgen/index.htm)
+- [普列汉诺夫](https://www.marxists.org/chinese/plekhanov/index.htm)  [巴布石金](https://www.marxists.org/chinese/babushkin/index.htm)  [柯伦泰](https://www.marxists.org/chinese/kollontai/index.htm)  [克鲁普斯卡娅](https://www.marxists.org/chinese/krupskaya/index.htm)  [布哈林](https://www.marxists.org/chinese/bukharin/index.htm)  [普列奥布拉任斯基](https://www.marxists.org/chinese/preobrazhensky/index.htm)  [阿克雪里罗得](https://www.marxists.org/chinese/axelrod/index.htm)  [拉柯夫斯基](https://www.marxists.org/chinese/rakovsky/index.htm)  [卢那察尔斯基](https://www.marxists.org/chinese/lunacharsky/index.htm)  [施略普尼科夫](https://www.marxists.org/chinese/shliapnikov/index.htm)  [季诺维也夫](https://www.marxists.org/chinese/zinoviev/index.htm)  [加米涅夫](https://www.marxists.org/chinese/kamenev/index.htm)  [波格丹诺夫](https://www.marxists.org/chinese/bogdanov/index.htm)  [梁赞诺夫](https://www.marxists.org/chinese/riazanov/index.htm)  [沃兹涅先斯基](https://www.marxists.org/chinese/voznesensky/index.htm)  [伏龙芝](https://www.marxists.org/chinese/frunze/index.htm)  [斯大林](https://www.marxists.org/chinese/stalin/index.htm)  [沃罗夫斯基](https://www.marxists.org/chinese/vorovsky/index.htm)
+- [拉狄克](https://www.marxists.org/chinese/radek/index.htm)  [葛兰西](https://www.marxists.org/chinese/gramsci/index.htm)  [卢卡奇](https://www.marxists.org/chinese/georg-lukacs/index.htm)  [蔡特金](https://www.marxists.org/chinese/clara-zetkin/index.htm)  [保尔·列维](https://www.marxists.org/chinese/paul-levi/index.htm)  [潘涅库克](https://www.marxists.org/chinese/pannekoek/index.htm)  [科尔施](https://www.marxists.org/chinese/korsch-karl/index.htm)  [库恩·贝拉](https://www.marxists.org/chinese/kun-bela/index.htm)  [台尔曼](https://www.marxists.org/chinese/thalmann/index.htm)  [罗易](https://www.marxists.org/chinese/roy/index.htm)  [马林](https://www.marxists.org/chinese/sneevliet/index.htm)  [约翰·里德](https://www.marxists.org/chinese/john-reed/index.htm)  [马里亚特吉](https://www.marxists.org/chinese/mariategui/index.htm)  [幸德秋水](https://www.marxists.org/chinese/kotoku-shusui/index.htm)  [片山潜](https://www.marxists.org/chinese/sen-katayama/index.htm)  [安德烈乌·宁](https://www.marxists.org/chinese/nin/index.htm)  [毛林](https://www.marxists.org/chinese/maurin/index.htm)  [霍查](https://www.marxists.org/chinese/hoxha/index.htm)  [铁托](https://www.marxists.org/chinese/tito/index.htm)
+- [坎农](https://www.marxists.org/chinese/cannon/index.htm)  [弗朗克](https://www.marxists.org/chinese/frank/index.htm)  [韩生](https://www.marxists.org/chinese/joseph-hansen/index.htm)  [迈坦](https://www.marxists.org/chinese/maitan/index.htm)  [诺瓦克](https://www.marxists.org/chinese/novack/index.htm)  [曼德尔](https://www.marxists.org/chinese/ernest-mandel/index.htm)  [多伊彻](https://www.marxists.org/chinese/isaac-deutcher/index.htm)  [伊罗生](https://www.marxists.org/chinese/harold-r-isaacs/index.htm)  [李福仁](https://www.marxists.org/chinese/frank-glass/index.htm)  [勃鲁埃](https://www.marxists.org/chinese/broue/index.htm)  [罗高文](https://www.marxists.org/chinese/rogovin/index.htm)  [本赛德](https://www.marxists.org/chinese/daniel-bensaid/index.htm)  [克里斯·哈曼](https://www.marxists.org/chinese/chris-harman/index.htm)  [克里夫](https://www.marxists.org/chinese/cliff/index.htm)  [泰德·格兰特](https://www.marxists.org/chinese/ted-grant/index.htm)  [罗斯多尔斯基](https://www.marxists.org/chinese/rosdolsky/index.htm)  [多布](https://www.marxists.org/chinese/dobb/index.htm)  [格瓦拉](https://www.marxists.org/chinese/guevara/index.htm)  [卡斯特罗](https://www.marxists.org/chinese/castro/index.htm)
+- [福斯特](https://www.marxists.org/chinese/foster/index.htm)  [斯威齐](https://www.marxists.org/chinese/sweezy/index.htm)  [哈里·马格多夫](https://www.marxists.org/chinese/harry-magdoff/index.htm)  [弗洛姆](https://www.marxists.org/chinese/fromm/index.htm)  [本雅明](https://www.marxists.org/chinese/walter-benjamin/index.htm)  [布雷弗曼](https://www.marxists.org/chinese/braverman/index.htm)  [拉斯基](https://www.marxists.org/chinese/laski/index.htm)  [密利本德](https://www.marxists.org/chinese/miliband/index.htm)  [霍布斯鲍姆](https://www.marxists.org/chinese/hobsbawm/index.htm)  [汤普森](https://www.marxists.org/chinese/thompson/index.htm)  [威廉斯](https://www.marxists.org/chinese/raymond-williams/index.htm)  [艾伦·伍德](https://www.marxists.org/chinese/ellen-wood/index.htm)  [埃里克·赖特](https://www.marxists.org/chinese/erik-wright/index.htm)  [萨米尔·阿明](https://www.marxists.org/chinese/samir-amin/index.htm)  [杜波依斯](https://www.marxists.org/chinese/du-bois/index.htm)
+ - [杜娜叶夫斯卡娅](https://www.marxists.org/chinese/dunayevskaya/index.htm)  [萨特](https://www.marxists.org/chinese/sartre/index.htm)  [阿多诺](https://www.marxists.org/chinese/adorno/index.htm)  [马尔库塞](https://www.marxists.org/chinese/marcuse/index.htm)  [阿尔都塞](https://www.marxists.org/chinese/althusser/index.htm)  [爱德华·卡德尔](https://www.marxists.org/chinese/kardelj-edvard/index.htm)  [米·马尔科维奇](https://www.marxists.org/chinese/markovic/index.htm)  [弗兰尼茨基](https://www.marxists.org/chinese/vranicki/index.htm)  [亚当·沙夫](https://www.marxists.org/chinese/adam-schaff/index.htm)  [加约·彼得洛维奇](https://www.marxists.org/chinese/petrovic/index.htm)  [塔马什](https://www.marxists.org/chinese/tamas/index.htm)  [贝尔·胡克斯](https://www.marxists.org/chinese/bell-hooks/index.htm)
+- [《马克思恩格斯全集》](https://www.marxists.org/chinese/marx-engels/index.htm)  [《马克思恩格斯文集（十卷）》](https://www.marxists.org/chinese/marx-engels2/index.htm)  [《列宁全集》](https://www.marxists.org/chinese/lenin-cworks/index.htm)  [《国际共产主义运动历史文献》](https://www.marxists.org/chinese/history-of-communism/index.htm)
+参考图书：
+- [左翼文化](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm)　
+	- [人物](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#1)
+	- [历史](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#2)
+	- [经济](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#3)
+	- [性别](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#4)
+	- [生态](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#5)
+	- [宗教](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#6)
+	- [理论](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#7)
+	- [新左派](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#8)
+	- [文化](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#9)
+	- [文艺](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm#10)
+- [工人小说](https://www.marxists.org/chinese/reference-books/novel.htm)　
+- [阶级斗争文献](https://www.marxists.org/chinese/reference-books/index-class-struggling.htm)　
+- [图片馆](https://www.marxists.org/chinese/albums/index.htm)
+
 
 🤔 https://gist.github.com/luw2007/5044268#file-ikandou_books_orderby_download-txt
 ikandou 目前下载次数排名
@@ -136,6 +164,9 @@ ikandou 目前下载次数排名
 | 6154 上下班路上能做的95件事/文汇译丛                             |
 | 6106 黑客反汇编揭秘                                       |
 | 5957 美国种族简史                                        |
+
+
+### Other Resources
 
 
 

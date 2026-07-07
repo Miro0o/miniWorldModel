@@ -39,7 +39,7 @@
 ## Intro
 ### Related Concepts Review
 #### Information, Language, and Computation
-![ | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 ↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 

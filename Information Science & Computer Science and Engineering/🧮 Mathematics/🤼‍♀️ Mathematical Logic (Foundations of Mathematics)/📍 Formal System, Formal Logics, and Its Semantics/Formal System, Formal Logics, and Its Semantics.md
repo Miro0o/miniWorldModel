@@ -380,10 +380,10 @@ Semantics is the mapping between A and B. Usually, this involves the mapping bet
 
 However, (in my opinion) this is not necessary. Semantics is just the process that we draw this mapping relation between anything in the Universe.
 
-![Human_and_knowledge.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![Human_and_knowledge.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
-![computing.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 ![Language_and_Programming_Language_Processing | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 #### Semantics & Semantic Models (Structrues)
