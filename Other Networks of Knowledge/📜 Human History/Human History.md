@@ -20,9 +20,9 @@
 ↗ [Iran History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
 
 ↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
-↗ [Europa Universalis](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
 
-↗ [Europa Universalis](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
 
 
 ### Books & Courses

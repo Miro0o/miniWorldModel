@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Apple Operating Systems](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/Apple%20Operating%20Systems.md)
-↗ [Games on Posix Systems](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Games%20on%20Posix%20Systems.md)
+↗ [Games on Posix Systems](../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Games%20on%20Posix%20Systems.md)
 
 📄 https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit
 

@@ -1,4 +1,4 @@
-# Games
+# Electronic Games
 
 [TOC]
 
@@ -57,11 +57,16 @@ Map Genie: `Interactive Game Maps
 
 
 ## Intro
-↗ [Console Games & Video Games](Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games%20&%20Video%20Games.md)
-↗ [CLI Games](Games%20Library/CLI%20Games.md)
-↗ [Mobile Games](Games%20Library/Mobile%20Games.md)
-↗ [Retro Games](Games%20Library/Retro%20Games.md)
-↗ [Web Games](Games%20Library/Web%20Games.md)
+> [!links]
+> ↗ [Home Video Games & Console Games](Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Home%20Video%20Games%20&%20Console%20Games.md)
+> ↗ [CLI Games](Games%20Library/CLI%20Games.md)
+> ↗ [Mobile Games](Games%20Library/Mobile%20Games.md)
+> ↗ [Retro Games](Games%20Library/Retro%20Games.md)
+> ↗ [Web Games](Games%20Library/Web%20Games.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Electronic_game#Home_video_games
+
+An **electronic game** is a [game](https://en.wikipedia.org/wiki/Game "Game") that uses [electronics](https://en.wikipedia.org/wiki/Electronics "Electronics") to create an interactive system with which a player can play. [Video games](https://en.wikipedia.org/wiki/Video_game "Video game") are the most common form today, and for this reason the two terms are often used interchangeably. There are other common forms of electronic games, including [handheld electronic games](https://en.wikipedia.org/wiki/Handheld_electronic_games "Handheld electronic games"), standalone [arcade game](https://en.wikipedia.org/wiki/Arcade_game "Arcade game") systems (e.g. [pinball](https://en.wikipedia.org/wiki/Pinball "Pinball"), [slot machines](https://en.wikipedia.org/wiki/Slot_machines "Slot machines")), and exclusively non-visual products (e.g. [audio games](https://en.wikipedia.org/wiki/Audio_games "Audio games")).
 
 
 

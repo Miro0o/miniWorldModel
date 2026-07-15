@@ -14,6 +14,9 @@ Apple Game Wiki
 ↗ [GPTK (Game Porting Toolkit)](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/GPTK%20(Game%20Porting%20Toolkit)/GPTK%20(Game%20Porting%20Toolkit).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 
@@ -38,7 +41,7 @@ Are you kidding me ? Minecraft is nice on mac though.
 ##### Proton
 https://www.protondb.com
 #### 4️⃣ Go Retro with Emulators
-↗ [Console Games & Video Games](Console%20Games%20&%20Video%20Games/Console%20Games%20&%20Video%20Games.md)
+↗ [Home Video Games & Console Games](Home%20Video%20Games%20&%20Console%20Games/Home%20Video%20Games%20&%20Console%20Games.md)
 #### 5️⃣ Stream Games From the Cloud
 ↗ [Cloud Gaming](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Cloud%20Gaming/Cloud%20Gaming.md)
 
@@ -78,5 +81,4 @@ Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalypt
 
 ## Ref
 [Get the Best of Both Worlds: How to Run Windows Apps on Your Mac]: https://www.pcmag.com/how-to/how-to-run-windows-apps-on-your-mac
-
 

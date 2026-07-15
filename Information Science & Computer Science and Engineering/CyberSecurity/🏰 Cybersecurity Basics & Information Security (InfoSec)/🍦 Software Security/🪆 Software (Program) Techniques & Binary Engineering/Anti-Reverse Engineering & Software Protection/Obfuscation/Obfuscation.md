@@ -10,6 +10,9 @@
 ↗ [JS Obfuscation](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 
