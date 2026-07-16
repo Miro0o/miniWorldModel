@@ -17,8 +17,7 @@
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [LLM For Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
-↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
-↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
+↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 
 
 ### Other Resources

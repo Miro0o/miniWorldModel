@@ -17,7 +17,7 @@
 
 
 
-## AI-Generic
+## AI-Generic (and LLM) ⭐
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 > 其实这世界上本没有顶会，大佬多了，也便成了顶会。  
 > 其实这世界上本没有水会，灌的人多了，也便成了水会。
@@ -79,6 +79,15 @@ TNNLS、TCYB 常被称为「关系刊」。
 - 量子位
 
 
+### ICLR
+
+
+### ICML
+
+
+### NeurIPS
+
+
 
 ## Natural Language Processing (NLP)
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
@@ -111,6 +120,12 @@ Natural Language Processing, NLP
 
 建议将 token 翻译为「词元」，将 tokenization 翻译为「词元化」，将 tokenizer 翻译为「词元分析器」或「分词器」。[信息来源](https://www.zhihu.com/question/39279003/answer/1953411079)
 
+### ACL
+
+### EMNLP
+
+### NAACL
+
 
 
 ## Computer Vision (CV)
@@ -133,6 +148,12 @@ Computer Vision, CV
 
 一般认为 CVPR、ICCV、ECCV 为 CV 三大顶会。
 
+### CVPR
+
+### ICCV
+
+### ECCV
+
 
 
 ## Data Mining
@@ -142,12 +163,14 @@ Computer Vision, CV
 
 Data Mining
 
-|类别|层次|简称|全称|IF|出版社|周期|[CCF类别](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/)|
-|---|---|---|---|---|---|---|---|
-|会议|1.3|[KDD  <br>(SIGKDD)](https://www.myhuiban.com/conference/136)|[ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://kdd.org/conferences)||ACM|年|数据库-A|
-|会议|2|[ICDM](https://www.myhuiban.com/conference/142)|[IEEE International Conference on Data Mining](https://icdm22.cse.usf.edu/)||IEEE|年|数据库-B|
-|会议|2|[SDM](https://www.myhuiban.com/conference/146)|[SIAM International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm23)||SIAM|年|数据库-B|
+| 类别  | 层次  | 简称                                                           | 全称                                                                                                        | IF  | 出版社  | 周期  | [CCF类别](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/) |
+| --- | --- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | --- | ---- | --- | ---------------------------------------------------------- |
+| 会议  | 1.3 | [KDD  <br>(SIGKDD)](https://www.myhuiban.com/conference/136) | [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://kdd.org/conferences) |     | ACM  | 年   | 数据库-A                                                      |
+| 会议  | 2   | [ICDM](https://www.myhuiban.com/conference/142)              | [IEEE International Conference on Data Mining](https://icdm22.cse.usf.edu/)                               |     | IEEE | 年   | 数据库-B                                                      |
+| 会议  | 2   | [SDM](https://www.myhuiban.com/conference/146)               | [SIAM International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm23)      |     | SIAM | 年   | 数据库-B                                                      |
 
 
 
 ## Ref
+Deep Think with Confidence
+[Yichao Fu](https://viol2000.github.io/)2†, [Xuewei Wang](https://scholar.google.com/citations?user=E_0IDdMAAAAJ&hl=en)1, [Yuandong Tian](https://yuandong-tian.com/)1, [Jiawei Zhao](https://jiaweizhao.com/)1†

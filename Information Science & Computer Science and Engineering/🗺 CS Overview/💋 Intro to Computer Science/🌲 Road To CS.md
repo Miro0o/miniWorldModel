@@ -166,7 +166,7 @@ There are multiple aspects & paths to learn or to get to know the enormous conte
 > [!links]
 > ↗ [Intro to Computer Science /The Domain Knowledge of CS](Intro%20to%20Computer%20Science.md#The%20Domain%20Knowledge%20of%20CS)
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 https://www.acm.org/publications/class-2012
@@ -720,7 +720,7 @@ Hence, for people wants to do the real study, they need a way to get around this
 > [!links]
 > ↗ [Intro to Computer Science /ACM CCS (Classification of All CS Subjects)](Intro%20to%20Computer%20Science.md#ACM%20CCS%20(Classification%20of%20All%20CS%20Subjects))
 > ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-> ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -850,7 +850,7 @@ Disciplines /Areas in CS are divided into 3 levels: industry, school, and academ
 - ↗ [Summer Camp & Exchange Programs](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
-- ↗ [CS Academic Venues & Human Factors by Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+- ↗ [Research Frontiers, Venues, and Humans by CS Areas](../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 - ↗ [Academic Networks & Nepotism](../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Academic%20Networks%20&%20Nepotism.md)
 
 ↗ [CS & IT Jobs & Interns Related](../🤲🏼%20Opportunities%20&%20Career%20Development/CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)

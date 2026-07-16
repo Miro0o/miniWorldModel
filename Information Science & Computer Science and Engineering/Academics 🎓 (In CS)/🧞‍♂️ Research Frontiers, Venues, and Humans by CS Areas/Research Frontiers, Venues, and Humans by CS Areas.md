@@ -1,4 +1,4 @@
-# CS Academic Venues & Human Factors by Areas
+# Research Frontiers, Venues, and Humans by CS Areas
 
 [TOC]
 

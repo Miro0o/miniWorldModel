@@ -12,10 +12,11 @@
 ↗ [CyberSecurity](../../../CyberSecurity/CyberSecurity.md)
 ↗ [CTF & AWD](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/CTF%20&%20AWD.md)
 
-↗ [Research Topics in Cybersecurity](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
 ↗ [Scholars & Groups Lists - System (and Security)](../../🗒️%20My%20Academic%20Projects%20Workspace/👀%20Human%20Factors%20in%20CS%20Academics%20-%20My%20Watch%20List/Scholars%20&%20Groups%20Lists%20-%20System%20(and%20Security).md)
 
 ↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
+
+↗ [Human-Factor](../../🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM-Software-Security-Research-Dossier-2026/Human-Factor.md)
 
 
 ### DeadLines
@@ -24,6 +25,10 @@ Security and Privacy Conference Deadlines
 
 
 ### Other Resources
+http://www2.imm.dtu.dk/courses/02234/
+02234 - Research Topics in Cybersecurity - Autumn 2025
+The objective of the course is to provide knowledge of selected advanced research topics in cybersecurity, and to give participants practice at investigating topics in the literature and producing written and oral presentations which distill the essential features of a topic on the basis of a literature study.
+
 ⛳️ https://ctftime.org/
 There are a lot of Capture The Flag (CTF) competitions in our days, some of them have excelent tasks, but in most cases they're forgotten just after the CTF finished. We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team [rating](https://ctftime.org/rating-formula/), per-team statistics etc.
 
@@ -300,12 +305,10 @@ https://www.infosecurityeurope.com/
 
 
 ## Journals
+### TIFS
 
 
-
-## Humans
-> [!links]
-> ↗ [Human-Factor](../../🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM-Software-Security-Research-Dossier-2026/Human-Factor.md)
+### TDSC
 
 
 
