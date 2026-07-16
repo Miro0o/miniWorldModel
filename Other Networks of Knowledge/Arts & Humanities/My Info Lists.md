@@ -107,25 +107,25 @@ https://github.com/holyshell/Books
 - [ ] Nightcrawling — Leila Mottley
 - [ ] The Catcher in the Rye — J. D. Salinger
 - [ ] Stories of Your Life and Others — Ted Chiang
-- [ ] The Adventures of Tom Sawyer — Mark Twain
-- [x] The Great Gatsby — F. Scott Fitzgerald
+- [x] The Adventures of Tom Sawyer — Mark Twain
+- [x] The Great Gatsby — F. Scott Fitzgerald ⭐
 - [x] When Breath Becomes Air — Paul Kalanithi
 - [ ] A Manual for Cleaning Women — Lucia Berlin
 #### United Kingdom（英国）
-- [x] 1984 — George Orwell（2 copies／两个版本）
-- [ ] Animal Farm — George Orwell
-- [ ] Harry Potter, Books 1–7 — J. K. Rowling
+- [x] 1984 — George Orwell（2 copies／两个版本）⭐
+- [x] Animal Farm — George Orwell
+- [x] Harry Potter, Books 1–7 — J. K. Rowling
 - [x] Lost Horizon — James Hilton
 - [ ] Paradise Lost — John Milton
 - [ ] Sons and Lovers — D. H. Lawrence
-- [ ] The Hitchhiker's Guide to the Galaxy — Douglas Adams
+- [x] The Hitchhiker's Guide to the Galaxy — Douglas Adams ⭐
 - [x] The Hobbit — J. R. R. Tolkien
 - [ ] [The Lord of the Rings](https://www.readfever.com/collection/lord-of-rings-ebook) — J. R. R. Tolkien
 - [ ] Brave New World — Aldous Huxley
 #### Ireland（爱尔兰）
 - [ ] Conversations with Friends — Sally Rooney
 #### France（法国）
-- [ ] The Little Prince — Antoine de Saint-Exupéry
+- [x] The Little Prince — Antoine de Saint-Exupéry ⭐
 - [ ] The Plague — Albert Camus
 #### China（中国）
 - [ ] [女人的胜利](https://weread.qq.com/web/reader/50132dc0813ab937dg0158cfka87322c014a87ff679a21ea) — 余华
@@ -143,11 +143,11 @@ https://github.com/holyshell/Books
 - [ ] 西方哲学史 — Frank Thilly
 - [x] Introduction to Literature — Lumen Learning and Ivy Tech Community College
 #### China（中国）
-- [ ] 乡土中国 — 费孝通
-- [ ] 中国哲学简史 — 冯友兰
+- [x] 乡土中国 — 费孝通
+- [x] 中国哲学简史 — 冯友兰
 - [ ] 任尔东西南北风：许渊冲中外经典译著前言后语集锦 — 许渊冲
-- [ ] 沉默的大多数 — 王小波
-- [ ] 西方哲学史 — 张志伟
+- [x] 沉默的大多数 — 王小波
+- [x] 西方哲学史 — 张志伟
 - [ ] 西方哲学史 — 邓晓芒、赵林
 #### France（法国）
 - [ ] The Second Sex — Simone de Beauvoir
@@ -160,7 +160,7 @@ https://github.com/holyshell/Books
 - [ ] 爱欲与文明 — Herbert Marcuse
 #### Israel（以色列）
 - [ ] Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
-- [ ] 人类简史 — Yuval Noah Harari
+- [x] 人类简史 — Yuval Noah Harari
 #### United Kingdom（英国）
 - [ ] On Liberty — John Stuart Mill
 #### Country Unspecified（国家未注明）
@@ -168,8 +168,8 @@ https://github.com/holyshell/Books
 ### Economics, Politics & History
 #### United States（美国）
 - [ ] The Clash of Civilizations and the Remaking of World Order — Samuel P. Huntington
-- [ ] Deng Xiaoping and the Transformation of China /《邓小平时代》— Ezra F. Vogel
-- [ ] The Man Who Changed China /《他改变了中国》— Robert Lawrence Kuhn
+- [x] Deng Xiaoping and the Transformation of China /《邓小平时代》— Ezra F. Vogel
+- [x] The Man Who Changed China /《他改变了中国》— Robert Lawrence Kuhn
 - [ ] Macroeconomics — N. Gregory Mankiw
 - [ ] Principles of Economics — N. Gregory Mankiw
 - [ ] Networks, Crowds, and Markets: Solutions — David Easley and Jon Kleinberg
@@ -179,8 +179,8 @@ https://github.com/holyshell/Books
 #### China（中国）
 - [ ] 中华人民共和国建国史研究
 - [ ] 全球化与国家竞争：新兴七国比较研究 — 温铁军
-- [ ] 八次危机：中国的真实经验 — 温铁军
-- [ ] 置身事内：中国政府与经济发展 — 兰小欢
+- [x] 八次危机：中国的真实经验 — 温铁军
+- [x] 置身事内：中国政府与经济发展 — 兰小欢
 #### United Kingdom（英国）
 - [ ] Global Economic History /《全球经济史》— Robert C. Allen
 #### France（法国）
