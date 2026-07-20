@@ -219,88 +219,347 @@ IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM 
 
 
 ## Conferences
-International Conference on Information Security and Cryptology (ICISC)
 
-Annual Computer Security Applications Conference (ACSAC)
-
-European Symposium on Research in Computer Security (ESORICS)
-
-International Workshop on Security and Privacy Engineering (IWSE)
-
-ACM Workshop on Artificial Intelligence and Security (AISec)
-
-Workshop on the Economics of Information Security (WEIS)
-
+> [!tip] How to read this section
+> The first four venues below are commonly treated as the "top four" systems-security conferences. The paper counts are **main research-track papers**, unless stated otherwise. "Submitted" is not perfectly comparable across venues: some chairs exclude desk rejects, withdrawals, or incomplete submissions, while others report every completed submission. USENIX also carries some major-revision papers into the following year's program. The summaries therefore keep each conference's own denominator and explain exceptions.
+>
+> These conferences usually do **not** choose one single best paper: IEEE S&P, USENIX Security, and CCS normally name several *Distinguished Papers*, while NDSS uses either *Distinguished Paper* or *Best Paper* depending on the year. The linked award pages contain the complete winner lists; the titles below are representative frontier signals rather than an exhaustive bibliography.
+>
+> **Format at a glance**
+>
+> | Venue | Main papers | Posters | Workshops and other formats |
+> |---|---|---|---|
+> | **IEEE S&P (Oakland)** | In 2023–2025, accepted papers were presented as oral talks in parallel technical sessions. In 2026, **every accepted paper instead received a short talk plus a poster**. | A separately reviewed poster track exists; in 2026 the main papers also had mandatory posters. | Short-talk sessions (through 2025), panels/keynotes, and a dedicated workshop day after the symposium. |
+> | **NDSS** | Oral presentations in parallel technical sessions. In 2026, presentation was optional: 265 papers were accepted but 194 appeared in the scheduled presentation program. | Separate poster abstracts and a poster session, with poster awards. | A substantial set of co-located workshops/symposia, generally before and/or after the main symposium. |
+> | **USENIX Security** | Parallel technical talks. In 2025, papers were assigned either a **12-minute long talk or a 3-minute short talk**; all award papers received long talks, and remaining long slots were randomized. | Poster/lightning-talk sessions and BoFs; the 2026 CFP also asks accepted-paper authors to present posters alongside their conference presentations. | Keynotes, invited talks, panels, BoFs, and co-located events such as SOUPS/VehicleSec rather than a single uniform workshop track. |
+> | **ACM CCS** | Oral presentations in several parallel paper sessions. | A separate poster session, including a poster competition/awards in recent years. | Workshops and tutorials around the main conference; recent editions also include demos and a doctoral symposium. |
+>
+> **Suggested first pass:** read the award pages before the complete proceedings. Group winners into recurring themes—microarchitectural/GPU attacks, secure and privacy-preserving ML, software supply-chain security, fuzzing/program analysis, usable security, cryptographic protocols, network measurement, and decentralized systems—then choose one survey/SoK paper and two award papers from each recurring theme. Statistics show scale and selectivity; awards and session groupings better reveal what the community considered especially new or important that year.
 
 ### IEEE Symposium on Security and Privacy (S&P)
-https://sp2026.ieee-security.org/
-https://sp2025.ieee-security.org/
-https://sp2024.ieee-security.org/index.html
-https://sp2023.ieee-security.org
-IEEE Symposium on Security and Privacy (**S&P**)
+
+🏠 [Series home](https://www.ieee-security.org/TC/SP-Index.html) · also called **Oakland**
+
+#### 2026
+
+- **Conference:** [47th IEEE S&P, May 18–21, San Francisco](https://sp2026.ieee-security.org/)
+- **Submissions → accepted:** **1,995 → 253 (12.7%)** in the 2026 cycles. The conference list contains **254 papers** because it also includes one paper carried from S&P 2025; see the official [opening slides](https://sp2026.ieee-security.org/downloads/opening_slides.pdf) and [accepted-paper list](https://sp2026.ieee-security.org/accepted-papers.html).
+- **Award:** **14 Distinguished Paper Awards** ([complete official list](https://sp2026.ieee-security.org/awards_papers.html)). Representative signals: *Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization*; *Your Compiler is Backdooring Your Model*; *LLMs in the SOC*; and *Auditing Apple's DifferentialPrivacy.framework*.
+- **Format:** a major change from earlier editions—**all accepted papers had a short talk and a poster** ([policy](https://www.ieee-security.org/TC/SP2026/cfpapers.html)); there was also a separately reviewed [poster track](https://sp2026.ieee-security.org/cfposters.html) and [seven accepted workshop proposals](https://workshops.sp2026.ieee-security.org/).
+
+#### 2025
+
+- **Conference:** [46th IEEE S&P, May 12–15, San Francisco](https://sp2025.ieee-security.org/)
+- **Submissions → accepted:** **1,740 → 257 (14.8%)** ([statistics](https://csconfstats.xoveexu.com/conferences/ieee-s-p/); secondary compilation, cross-checkable against the official [accepted-paper list](https://sp2025.ieee-security.org/accepted-papers.html)).
+- **Award:** **13 Distinguished Paper Awards** ([complete official list](https://sp2025.ieee-security.org/awards.html)). Representative signals: *Breaking the Barrier: Post-Barrier Spectre Attacks*; *Unveiling Security Vulnerabilities in Git Large File Storage Protocol*; *SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations*; and *DataSentinel*.
+- **Format:** oral research-paper sessions, separate [short talks](https://sp2025.ieee-security.org/shorttalks.html) and [posters](https://sp2025.ieee-security.org/posters.html), followed by the [workshop day](https://sp2025.ieee-security.org/workshops.html) on May 15.
+
+#### 2024
+
+- **Conference:** [45th IEEE S&P, May 20–23, San Francisco](https://sp2024.ieee-security.org/)
+- **Submissions → accepted:** **1,466 → 261 (17.8%)** ([statistics](https://csconfstats.xoveexu.com/conferences/ieee-s-p/); secondary compilation, with papers on the official [accepted-paper list](https://sp2024.ieee-security.org/accepted-papers.html)).
+- **Award:** **9 Distinguished Paper Awards** ([complete official list](https://sp2024.ieee-security.org/awards.html)). Representative signals: *BENZENE: A Practical Root Cause Analysis System with an Under-Constrained State Mutation*; *SoK: Prudent Evaluation Practices for Fuzzing*; and *From Chatbots to Phishbots?*.
+- **Format:** parallel oral paper sessions plus separate [short talks](https://sp2024.ieee-security.org/program-shorttalks.html), [posters](https://sp2024.ieee-security.org/posters.html), and a [workshop day](https://sp2024.ieee-security.org/workshops.html).
+
+#### 2023
+
+- **Conference:** [44th IEEE S&P, May 22–25, San Francisco](https://sp2023.ieee-security.org/)
+- **Submissions → accepted:** **1,147 → 199 (17.3%)** ([statistics](https://csconfstats.xoveexu.com/conferences/ieee-s-p/2023/); secondary compilation, with papers on the official [accepted-paper list](https://sp2023.ieee-security.org/program-papers.html)).
+- **Award:** **12 Distinguished Paper Awards** ([complete official list](https://sp2023.ieee-security.org/program-awards.html)). Representative signals: *The Leaky Web*; *Characterizing Everyday Misuse of Smart Home Devices*; *Not Yet Another Digital ID: Privacy-preserving Humanitarian Aid Distribution*; and *Typing High-Speed Cryptography against Spectre v1*.
+- **Format:** parallel oral paper sessions, separate [short talks](https://sp2023.ieee-security.org/program-shorttalks.html) and [posters](https://sp2023.ieee-security.org/program-posters.html), and [co-located workshops](https://sp2023.ieee-security.org/workshops.html).
 
 
 ### Network and Distributed System Security (NDSS) Symposium
-🏠 https://www.ndss-symposium.org
 
-NDSS Symposium 2025 Program
-https://www.ndss-symposium.org/ndss-program/symposium-2025/
+🏠 [Series home](https://www.ndss-symposium.org/)
+
+#### 2026
+
+- **Conference:** [NDSS 2026, February 23–27, San Diego](https://www.ndss-symposium.org/ndss2026/)
+- **Submissions → accepted:** **1,481 papers entered review → 265 accepted (17.89%)**; the denominator excludes out-of-scope/non-compliant submissions. Of the accepted papers, 142 passed through major revision ([official proceedings front matter](https://www.ndss-symposium.org/wp-content/uploads/NDSS2026_Proceedings_Front_Matter.pdf)).
+- **Accepted vs. presented:** the official [accepted-paper page](https://www.ndss-symposium.org/ndss2026/accepted-papers/) reports 113 summer-cycle plus 152 fall-cycle acceptances, but only **194 papers** in the scheduled presentation program because presentation was optional.
+- **Award:** **10 Best Paper Awards** ([complete official list on the conference home page](https://www.ndss-symposium.org/ndss2026/)). Representative signals: *Peering Inside the Black-Box*; *LOKI*; *Fuzzilicon*; *Phishing in Wonderland*; and *Small Cell, Big Risk*.
+- **Format:** parallel oral paper sessions, a poster session/awards, and **10 co-located workshops**; see the [detailed program](https://www.ndss-symposium.org/ndss2026/program/).
+
+#### 2025
+
+- **Conference:** [NDSS 2025, February 24–28, San Diego](https://www.ndss-symposium.org/ndss2025/)
+- **Submissions → accepted:** **1,311 → 211 (16.1%)** ([official chairs' retrospective](https://www.ndss-symposium.org/ndss-2025/ndss25-insights-managing-higher-submissions-new-research-focus/) and [proceedings front matter](https://www.ndss-symposium.org/wp-content/uploads/NDSS2025_Proceedings_Front_Matter.pdf)).
+- **Award:** **7 Distinguished Paper Awards** ([complete official list](https://www.ndss-symposium.org/ndss2025/)). Representative signals: *ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters*; *SafeSplit*; *Provably Unlearnable Data Examples*; and *VoiceRadar*.
+- **Format:** oral paper sessions, posters, keynotes/panels, and co-located workshops; see the [full program](https://www.ndss-symposium.org/ndss-program/symposium-2025/).
+
+#### 2024
+
+- **Conference:** [NDSS 2024, February 26–March 1, San Diego](https://www.ndss-symposium.org/ndss2024/)
+- **Submissions → accepted:** **682 complete/reviewable submissions → 140 (20.5%)**, excluding 13 desk rejects. Some public summaries report 694 "received"; use 682 when reproducing the official review-pool acceptance rate ([official proceedings front matter](https://www.ndss-symposium.org/wp-content/uploads/2024/09/NDSS2024_Proceedings_Front_Matter.pdf)).
+- **Award:** **4 Distinguished Paper Awards** ([complete official list](https://www.ndss-symposium.org/ndss2024/)): *Like, Comment, Get Scammed*; *UntrustIDE*; *Eavesdropping on Controller Acoustic Emanation*; and *LMSanitator*.
+- **Format:** parallel oral sessions, a poster session, and co-located workshops/symposia; see the [program](https://www.ndss-symposium.org/ndss2024/program/).
+
+#### 2023
+
+- **Conference:** [NDSS 2023, February 27–March 3, San Diego and online](https://www.ndss-symposium.org/ndss2023/)
+- **Submissions → accepted:** **574 complete/reviewable submissions → 94 (16.4%)**, excluding policy violations and incomplete submissions ([official proceedings front matter](https://www.ndss-symposium.org/wp-content/uploads/2023/08/NDSS2023_Proceedings_Front_Matter.pdf)).
+- **Award:** **2 Distinguished Paper Awards** ([official list](https://www.ndss-symposium.org/ndss2023/)): *Your Router Is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels* and *DARWIN: Survival of the Fittest Fuzzing Mutators*.
+- **Format:** a hybrid edition with oral paper sessions, a poster session, and co-located workshops; see the [program](https://www.ndss-symposium.org/ndss2023/program/).
 
 
 ### USENIX Security Symposium
-🏠 https://www.usenix.org
-The **USENIX Association** is a 501(c)(3) nonprofit organization, dedicated to supporting the advanced computing systems communities and furthering the reach of innovative research. We are known for organizing conferences and publishing research, but our greatest strength lies in building communities in computing systems. We represent the interests of our communities in a variety of ways, including our professional affiliation with the Computing Research Association.
 
-35th USENIX Security Symposium
-https://www.usenix.org/conf%C3%A9rence/usenixsecurity26
+🏠 [Series home](https://www.usenix.org/conferences/byname/108)
 
-34th USENIX Security Symposium
-https://www.usenix.org/conf%c3%a9rence/usenixsecurity25
-- [USENIX Security '25 Technical Sessions](https://www.usenix.org/conf%C3%A9rence/usenixsecurity25/technical-sessions)
+#### 2026
 
-33rd USENIX Security Symposium
-https://www.usenix.org/conf%c3%a9rence/usenixsecurity24
+- **Conference:** [35th USENIX Security, August 12–14, Baltimore](https://www.usenix.org/conference/usenixsecurity26)
+- **Submissions → accepted:** **final statistics not yet published as of 2026-07-17**. Both submission-cycle decisions are complete, but the chairs' message/proceedings front matter normally supplies the auditable denominator and has not yet appeared. Use the [technical-session program](https://www.usenix.org/conference/usenixsecurity26/technical-sessions) for the currently scheduled papers.
+- **Award:** **pending**; Distinguished Paper Awards are scheduled to be announced during the opening remarks on August 12.
+- **Format:** parallel technical talks. The [poster CFP](https://www.usenix.org/conference/usenixsecurity26/call-for-posters) says accepted-paper authors are asked to present a poster alongside their conference presentation; a separate poster session also accepts unpublished, early-stage, or already-published work.
 
-32nd USENIX Security Symposium
-https://www.usenix.org/conf%C3%A9rence/usenixsecurity23
-- **Full Proceedings PDFs** 
-	- [USENIX Security '23 Full Proceedings (PDF, 858.4 MB)](https://www.usenix.org/sites/default/files/sec23_full_proceedings.pdf)
-	- [USENIX Security '23 Proceedings Interior (PDF, 855.7 MB, best for mobile devices)](https://www.usenix.org/sites/default/files/sec23_full_proceedings_interior.pdf)  
-	- [USENIX Security '23 Errata Slip #1 (PDF)](https://www.usenix.org/system/files/sec23_errata_ye.pdf)  
-	- [USENIX Security '23 Errata Slip #2 (PDF)](https://www.usenix.org/system/files/sec23_errata_ashiq.pdf)  
-	- [USENIX Security '23 Errata Slip #3 (PDF)](https://www.usenix.org/system/files/sec23_errata_fleischer.pdf)  
-	- [USENIX Security '23 Full Artifact Appendices Proceedings (PDF, 18.93 MB)](https://www.usenix.org/sites/default/files/sec23_full_artifact_proceedings.pdf)  
-	- [USENIX Security '23 Artifact Appendices Proceedings Interior (PDF, 18.81 MB, best for mobile devices)](https://www.usenix.org/sites/default/files/sec23_artifact_proceedings_interior.pdf)
+#### 2025
+
+- **Conference:** [34th USENIX Security, August 13–15, Seattle](https://www.usenix.org/conference/usenixsecurity25)
+- **Submissions → accepted:** **2,385 → 407 (17.1%)** in the 2025 cycles. The final program contained **439 papers** because it also included 32 major-revision papers initially submitted to USENIX Security 2024 ([official chairs' message](https://www.usenix.org/sites/default/files/sec25_message.pdf)).
+- **Award:** **8 Distinguished Paper Awards**, plus 25 honorable mentions ([complete awards in the official technical program](https://www.usenix.org/conference/usenixsecurity25/technical-sessions)). Representative signals: *Characterizing and Detecting Propaganda-Spreading Accounts on Telegram*; *Branch Privilege Injection*; *We Have a Package for You!*; and *Fuzzing the PHP Interpreter via Dataflow Fusion*.
+- **Format:** the first long/short assignment model: **147 papers had 12-minute long talks**, while the rest had 3-minute talks. All award papers received long talks; remaining long slots were randomized. The program also included posters, lightning talks, and BoFs.
+
+#### 2024
+
+- **Conference:** [33rd USENIX Security, August 14–16, Philadelphia](https://www.usenix.org/conference/usenixsecurity24)
+- **Submissions → accepted:** **2,176 valid 2024 submissions → 382 (17.6%)**. The program/proceedings contained **417 papers** after adding 35 major-revision papers carried from the 2023 cycles; 100 administrative rejects are outside the 2,176 denominator ([official chairs' message](https://www.usenix.org/sites/default/files/sec24_message.pdf)).
+- **Award:** **18 Distinguished Paper Awards** ([complete awards in the official technical program](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)). Representative signals: *InSpectre Gadget*; *HYPERPILL*; *Terrapin Attack*; *Adversarial Illusions in Multi-Modal Embeddings*; and the Internet Defense Prize winner *Learning with Semantics*.
+- **Format:** standard parallel oral technical sessions, plus posters, lightning talks, BoFs, keynotes, and invited talks.
+
+#### 2023
+
+- **Conference:** [32nd USENIX Security, August 9–11, Anaheim](https://www.usenix.org/conference/usenixsecurity23)
+- **Submissions → accepted:** **1,444 valid/reviewed submissions → 422 (29.2%)**. The denominator excludes six post-assignment withdrawals and 83 administrative rejects; about 75% of accepted papers underwent major revision ([official chairs' message](https://www.usenix.org/sites/default/files/sec23_message.pdf)).
+- **Award:** **16 Distinguished Paper Awards** ([complete awards in the official technical program](https://www.usenix.org/conference/usenixsecurity23/technical-sessions)). Representative signals: *Fuzztruction*; *Glaze: Protecting Artists from Style Mimicry*; *A Two-Decade Retrospective Analysis of a University's Vulnerability Disclosure Program*; and *Remote Direct Memory Introspection*.
+- **Format:** standard parallel oral technical sessions, plus a poster session, lightning talks, BoFs, keynotes, and invited talks.
+- **Proceedings:** [full proceedings PDF](https://www.usenix.org/sites/default/files/sec23_full_proceedings.pdf) · [mobile-friendly interior](https://www.usenix.org/sites/default/files/sec23_full_proceedings_interior.pdf) · [artifact appendices](https://www.usenix.org/sites/default/files/sec23_full_artifact_proceedings.pdf)
 
 
 ### ACM Conference on Computer and Communications Security (CCS)
 
+🏠 [Series home and history](https://sigsac.org/ccs.html)
+
+#### 2026
+
+- **Conference:** [33rd ACM CCS, November 15–19, The Hague](https://www.sigsac.org/ccs/CCS2026/)
+- **Submissions → accepted:** **final two-cycle statistics are pending**. Cycle A received 1,206 completed submissions; 225 were desk-rejected and 981 entered the final decision pool. It reported **191 acceptance outcomes** (19.5% of the decision pool, or 15.8% of all submitted papers), but minor-revision/shepherding outcomes can still change and Cycle B is not included ([official between-cycle transparency report](https://github.com/ACM-CCS-2026/Transparency-Report)).
+- **Award:** **pending**; the conference has not yet taken place.
+- **Format:** planned multi-track oral paper sessions plus posters, demos, workshops, tutorials, and a doctoral symposium. See the [conference site](https://www.sigsac.org/ccs/CCS2026/) as the program is published.
+
+#### 2025
+
+- **Conference:** [32nd ACM CCS, October 13–17, Taipei](https://www.sigsac.org/ccs/CCS2025/)
+- **Submissions → accepted:** **2,278 reported total submissions → 316 (13.9%)** ([contemporary award report](https://spies.engr.tamu.edu/2025/10/20/tamu-spies-lab-wins-ccs-2025-distinguished-paper-award/)). A secondary statistics compilation instead lists 2,186 reviewed papers (14.5%); because no public chairs' report reconciles the two denominators, use **2,278** for "received" and record the discrepancy rather than silently mixing the rates.
+- **Award:** **30 Distinguished Paper Awards** ([complete official list](https://www.sigsac.org/ccs/CCS2025/awards/)). Representative signals: *Split Unlearning*; *BadAML*; *Don't Look Up: There are Sensitive Internal Links in the Cleartext Communications of GEO Satellites*; *WireTap*; and *Adversarial Observations in Weather Forecasting*.
+- **Format:** multi-track oral paper sessions plus posters, workshops, tutorials, demos, a doctoral symposium, and artifact evaluation; see the detailed [conference schedule](https://www.sigsac.org/ccs/CCS2025/schedule/) and [schedule overview](https://www.sigsac.org/ccs/CCS2025/overview/).
+
+#### 2024
+
+- **Conference:** [31st ACM CCS, October 14–18, Salt Lake City](https://www.sigsac.org/ccs/CCS2024/)
+- **Submissions → accepted:** **1,964 → 331 (16.9%)** ([reported statistics](https://computing.engineering.uconn.edu/2024/10/21/prof-yuan-hong-and-his-co-authors-to-receive-ccs-2024-distinguished-paper-award/); verify papers in the official program).
+- **Award:** **6 Distinguished Paper Awards** ([complete official list](https://www.sigsac.org/ccs/CCS2024/program/awards.html)). The winners cover password masking, deceptive consent interfaces, misinformation diffusion, private federated learning, and other usable/privacy-security problems.
+- **Format:** multi-track oral sessions, posters, workshops, tutorials, demos, and a doctoral symposium; see the [program outline](https://www.sigsac.org/ccs/CCS2024/assets/appendix/program-outline-0915.pdf).
+
+#### 2023
+
+- **Conference:** [30th ACM CCS, November 26–30, Copenhagen](https://www.sigsac.org/ccs/CCS2023/)
+- **Submissions → accepted:** **1,222 → 235 (19.2%)** ([statistics](https://csconfstats.xoveexu.com/conferences/ccs/2023/); secondary compilation).
+- **Award:** **17 Distinguished Paper Awards** ([complete official list](https://sigsac.org/ccs/CCS_awards/ccs-bestpaper.html)). Representative signals: *Large Language Models for Code: Security Hardening and Adversarial Testing*; *Alert Alchemy*; *Silence is not Golden: Disrupting the Load-time Signal of SGX Enclaves*; and *Uncle Maker: (Time)Stamping Out The Competition in Ethereum*.
+- **Format:** multi-track oral paper sessions, posters, workshops, tutorials, demos, and a doctoral symposium; see the [official program](https://www.sigsac.org/ccs/CCS2023/assets/files/program.pdf).
 
 ### RSA Conference
 
+> [!note] Industry-event statistics
+> RSAC and the industry/community events that follow are **not archival research-paper conferences**. They select talk, training, panel, demo, or workshop proposals rather than a single proceedings paper track, and they do not publish a comparable paper-acceptance rate or academic best-paper award. The useful frontier signal is their session taxonomy, keynotes, practitioner briefings, tools/demos, and competitions. “Not applicable” below is intentional, not missing research.
+
+🏠 [RSAC series home](https://www.rsaconference.com/)
+
+#### 2026
+
+- **Event:** [RSAC 2026, March 23–26, San Francisco](https://www.rsaconference.com/usa26)
+- **Papers / award:** not applicable; the program is selected from speaker submissions and invited content. Innovation Sandbox and related contests recognize products/people, not best research papers.
+- **Format:** keynotes, track talks, panels, seminars, Learning Labs, Early Stage Expo/Innovation Sandbox, sponsor sessions, and expo.
+
+#### 2025
+
+- **Event:** [RSAC 2025, April 28–May 1, San Francisco](https://www.rsaconference.com/usa25)
+- **Papers / award:** not applicable; speaker-proposal selection, with no archival main proceedings.
+- **Format:** keynotes, track sessions/panels, seminars and Learning Labs, Innovation Sandbox, startup programming, and expo.
+
+#### 2024
+
+- **Event:** [RSAC 2024, May 6–9, San Francisco](https://www.rsaconference.com/usa24)
+- **Papers / award:** not applicable; speaker-proposal selection, with no archival main proceedings.
+- **Format:** keynotes, track sessions/panels, seminars and Learning Labs, Innovation Sandbox, startup programming, and expo.
+
+#### 2023
+
+- **Event:** [RSAC 2023, April 24–27, San Francisco](https://www.rsaconference.com/usa23)
+- **Papers / award:** not applicable; speaker-proposal selection, with no archival main proceedings.
+- **Format:** keynotes, track sessions/panels, seminars, Innovation Sandbox, startup programming, and expo.
 
 ### SIGSAC
-https://www.sigsac.org
-ACM Special Interest Group on Security, Audit and Control (**SIGSAC**)
 
+🏠 [ACM SIGSAC](https://www.sigsac.org/) is the **Special Interest Group on Security, Audit and Control**, not a conference. It sponsors or co-sponsors CCS, WiSec, CODASPY, ASIA CCS, and workshops such as AISec, and administers community and test-of-time awards. Therefore a 2023–2026 conference submission/acceptance table is not applicable; follow the [SIGSAC conference list](https://www.sigsac.org/conferences.html) and each sponsored venue's own statistics.
 
 ### Black Hat
 
+🏠 [Black Hat events](https://www.blackhat.com/)
+
+#### 2026
+
+- **Event:** [Black Hat USA 2026, August 1–6, Las Vegas](https://www.blackhat.com/us-26/)
+- **Papers / award:** not applicable; Briefings, Arsenal tools, trainings, and summit proposals are selected through separate CFPs.
+- **Format:** multi-day hands-on Trainings, Briefings talks, Arsenal live tool demos, Summits, Business Hall, and community events.
+
+#### 2025
+
+- **Event:** [Black Hat USA 2025, August 2–7, Las Vegas](https://www.blackhat.com/us-25/)
+- **Papers / award:** not applicable; no archival main paper track or best-paper award.
+- **Format:** Trainings, Briefings, Arsenal, Summits, Business Hall, and community programming.
+
+#### 2024
+
+- **Event:** [Black Hat USA 2024, August 3–8, Las Vegas](https://www.blackhat.com/us-24/)
+- **Papers / award:** not applicable; no archival main paper track or best-paper award.
+- **Format:** Trainings, Briefings, Arsenal, Summits, Business Hall, and community programming.
+
+#### 2023
+
+- **Event:** [Black Hat USA 2023, August 5–10, Las Vegas](https://www.blackhat.com/us-23/)
+- **Papers / award:** not applicable; no archival main paper track or best-paper award.
+- **Format:** Trainings, Briefings, Arsenal, Summits, Business Hall, and community programming.
 
 ### Def Con
 
+🏠 [DEF CON home](https://defcon.org/)
+
+#### 2026
+
+- **Event:** [DEF CON 34, August 6–9, Las Vegas](https://defcon.org/html/defcon-34/dc-34-index.html)
+- **Papers / award:** not applicable; talk/workshop/village submissions and contest qualification replace a proceedings paper track.
+- **Format:** talks, villages, hands-on workshops, demos, Capture the Flag and many other contests, parties, and community meetups.
+
+#### 2025
+
+- **Event:** [DEF CON 33, August 7–10, Las Vegas](https://defcon.org/html/defcon-33/dc-33-index.html)
+- **Papers / award:** not applicable; no archival main paper count or best-paper award.
+- **Format:** talks, villages, workshops, demos, CTF/contests, and community events.
+
+#### 2024
+
+- **Event:** [DEF CON 32, August 8–11, Las Vegas](https://defcon.org/html/defcon-32/dc-32-index.html)
+- **Papers / award:** not applicable; no archival main paper count or best-paper award.
+- **Format:** talks, villages, workshops, demos, CTF/contests, and community events.
+
+#### 2023
+
+- **Event:** [DEF CON 31, August 10–13, Las Vegas](https://defcon.org/html/defcon-31/dc-31-index.html)
+- **Papers / award:** not applicable; no archival main paper count or best-paper award.
+- **Format:** talks, villages, workshops, demos, CTF/contests, and community events.
 
 ### Gartner Security & Risk Management Summit
 
+🏠 [Series page](https://www.gartner.com/en/conferences/na/security-risk-management-us)
+
+- **2026:** June 1–3, National Harbor; Gartner maintains the current [official summit portal](https://www.gartner.com/en/conferences/na/security-risk-management-us).
+- **2025:** June 9–11, National Harbor; the live portal has superseded the archived year page.
+- **2024:** June 3–5, National Harbor; the live portal has superseded the archived year page.
+- **2023:** June 5–7, National Harbor; the live portal has superseded the archived year page.
+- **Papers / award / format (all years):** not a proceedings venue. Analyst keynotes and research presentations, roundtables, workshops, one-to-one meetings, case studies, vendor sessions, and an exhibit area; no research-paper acceptance count or best-paper award.
 
 ### InfoSec Europe
-https://www.infosecurityeurope.com/
 
+🏠 [Infosecurity Europe](https://www.infosecurityeurope.com/)
+
+- **2026:** [June 2–4, ExCeL London](https://www.infosecurityeurope.com/); the official site rolls forward to the current edition.
+- **2025:** June 3–5, ExCeL London; archived agenda pages are not kept as a stable proceedings site.
+- **2024:** June 4–6, ExCeL London; archived agenda pages are not kept as a stable proceedings site.
+- **2023:** June 20–22, ExCeL London; archived agenda pages are not kept as a stable proceedings site.
+- **Papers / award / format (all years):** not a paper conference. Keynotes, strategy/technology talks, roundtables, demos, startup zone, exhibitor sessions, and expo; no main-paper acceptance count or academic best-paper award.
 
 ### OWASP Global AppSec
 
+🏠 [OWASP events calendar](https://owasp.org/events/) · [Global AppSec home](https://owasp.org/www-event-global-appsec/)
+
+- **2026:** multiple regional Global AppSec events rather than one world edition; use the live official calendar for the current city/date pages.
+- **2025:** multiple Global AppSec events in North America and Europe, each with its own program.
+- **2024:** multiple Global AppSec events in North America and Europe, each with its own program.
+- **2023:** multiple Global AppSec events, including Dublin and Washington, DC.
+- **Papers / award / format (all years):** practitioner CFPs rather than archival paper review. Training days, keynotes, track talks, panels, project/community sessions, capture-the-flag or hands-on activities, and sponsor expo; no comparable paper acceptance count or best-paper award.
 
 ### BSides
+
+🏠 [Security BSides event directory](https://securitybsides.com/w/page/12194156/FrontPage)
+
+- **2023–2026:** BSides is a **decentralized family of independently organized local events**, not one annual conference. Use the directory/calendar to select a city and then its local year page.
+- **Papers / award / format:** local CFPs select talks, workshops, villages, and panels; some events add CTFs, lock-picking, hiring, or community tracks. There is no global submission denominator, proceedings, or best-paper award to aggregate.
+
+### Other Conferences
+
+> [!tip] Reading the smaller academic venues and workshops
+> Unlike the industry events above, these venues review research papers, but several do not publish a public chairs' report with submission totals. When no auditable denominator is available, the entry links the official accepted-paper/program page and says so explicitly. Workshop acceptance rates also reflect a narrower topic and much smaller pool, so they should not be compared mechanically with the top-four rates.
+
+#### ICISC — International Conference on Information Security and Cryptology
+
+🏠 [Series home and archive](https://www.icisc.org/static/pastconferences)
+
+- **2026:** [ICISC 2026, Seoul](https://www.icisc.org/); final submissions, acceptances, and awards are pending. Format: invited talks and oral refereed-paper sessions; accepted papers are published in Springer LNCS.
+- **2025:** [ICISC 2025, November 19–21, Seoul](https://www.icisc.org/static/pastconferences); the official archive links its program/proceedings, but no public submission denominator or best-paper list was located.
+- **2024:** [ICISC 2024, November 20–22, Seoul](https://www.icisc.org/static/pastconferences); oral LNCS paper sessions and invited talks; no public denominator located.
+- **2023:** [ICISC 2023, November 29–December 1, Seoul](https://www.icisc.org/static/pastconferences); oral LNCS paper sessions and invited talks; no public denominator located.
+
+#### ACSAC — Annual Computer Security Applications Conference
+
+🏠 [Series home](https://www.acsac.org/)
+
+- **2026:** [ACSAC 2026](https://www.acsac.org/2026/); review/program statistics and Distinguished Paper Awards are pending. Format: oral technical papers, case studies, posters/WIP, workshops, artifacts, and practitioner sessions.
+- **2025:** [ACSAC 2025](https://www.acsac.org/2025/) reported **about 410 → 84 (20.5%)** in its [official welcome/awards slides](https://www.acsac.org/2025/files/web/acsac25-welcome-awards.pdf); the slides also give the Distinguished Paper winners. Format: oral papers, case studies, posters, workshops, and artifact awards.
+- **2024:** [ACSAC 2024](https://www.acsac.org/2024/) publishes its accepted-paper and award program but no stable public submission denominator. Format: oral technical/R+R papers, posters/WIP, case studies, workshops, and artifacts.
+- **2023:** [ACSAC 2023](https://www.acsac.org/2023/) publishes its accepted-paper and award program but no stable public submission denominator. Format: oral technical papers, posters/WIP, case studies, workshops, and artifacts.
+
+#### ESORICS — European Symposium on Research in Computer Security
+
+🏠 [Series information](https://esorics.org/)
+
+- **2026:** [ESORICS 2026](https://esorics2026.org/); final program statistics and awards were pending on 2026-07-17.
+- **2025:** [ESORICS 2025](https://esorics2025.org/); see the official program for accepted papers and awards; no auditable public submission denominator was located.
+- **2024:** [ESORICS 2024](https://esorics2024.org/); see the official program for accepted papers and awards; no auditable public submission denominator was located.
+- **2023:** [ESORICS 2023](https://esorics2023.org/); see the official program for accepted papers and awards; no auditable public submission denominator was located.
+- **Format (all years):** oral Springer LNCS research-paper sessions, keynotes, co-located workshops, poster/doctoral or early-career activities, and artifact-related initiatives depending on the edition.
+
+#### IWSEC / IWPE (clarifying the original “IWSE” label)
+
+> [!warning] Name ambiguity
+> No stable series named exactly “International Workshop on Security and Privacy Engineering (IWSE)” was found. The likely intended venues are **IWSEC** (International Workshop on Security) or **IWPE** (International Workshop on Privacy Engineering). They are different workshops; the entries below follow IWSEC. If IWPE was intended, use its [official archive](https://www.iwpe.info/) instead.
+
+- **2026:** [IWSEC 2026](https://www.iwsec.org/2026/); final program and awards pending.
+- **2025:** [IWSEC 2025](https://www.iwsec.org/2025/); official program lists the accepted LNCS papers; no stable public submission denominator located.
+- **2024:** [IWSEC 2024, September 17–19, Kyoto](https://www.iwsec.org/2024/index.html); official program/Best Paper information on the year site; no stable denominator located.
+- **2023:** [IWSEC 2023](https://www.iwsec.org/2023/); official program lists accepted LNCS papers and awards; no stable denominator located.
+- **Format:** invited talks and oral research-paper sessions, with posters or short presentations depending on the year; Springer LNCS proceedings.
+
+#### AISec — ACM Workshop on Artificial Intelligence and Security
+
+🏠 [Series home](https://aisec.cc/)
+
+- **2026:** the AISec 2026 year program was not yet published as of 2026-07-17; it is normally co-located with ACM CCS. Submission count, award, and final format pending.
+- **2025:** [AISec 2025, October 17, Taipei](https://aisec.cc/2025/index.html); the official page lists accepted papers and the Best Paper Award, but not a submission denominator.
+- **2024:** [AISec 2024](https://aisec.cc/2024/); the official page lists the program/award; no public denominator located.
+- **2023:** [AISec 2023, November 30, Copenhagen](https://aisec.cc/2023/); the official page lists the accepted program and Best Paper Award; no public denominator located.
+- **Format:** a one-day workshop with oral full/short paper presentations, keynote(s), discussion, and sometimes posters; proceedings are published through ACM and the workshop is co-located with CCS.
+
+#### WEIS — Workshop on the Economics of Information Security
+
+🏠 [Series archive](https://econinfosec.org/)
+
+- **2026:** [WEIS 2026, June 2–3, Berkeley](https://weis2026.econinfosec.org/); the [official program](https://weis2026.econinfosec.org/program/) lists selected papers. No refereed proceedings or best-paper award is promised by the CFP.
+- **2025:** [WEIS 2025](https://weis2025.econinfosec.org/); official program lists accepted presentations; no comparable public denominator or formal proceedings.
+- **2024:** [WEIS 2024](https://weis2024.econinfosec.org/); official program lists accepted presentations; no comparable public denominator or formal proceedings.
+- **2023:** [WEIS 2023](https://weis2023.econinfosec.org/); official program lists accepted presentations; no comparable public denominator or formal proceedings.
+- **Format:** interdisciplinary oral paper sessions and keynotes/panels spanning economics, policy, law, business, social science, privacy, and computer security; papers are shared online but the workshop does not produce a refereed proceedings volume.
 
 
 

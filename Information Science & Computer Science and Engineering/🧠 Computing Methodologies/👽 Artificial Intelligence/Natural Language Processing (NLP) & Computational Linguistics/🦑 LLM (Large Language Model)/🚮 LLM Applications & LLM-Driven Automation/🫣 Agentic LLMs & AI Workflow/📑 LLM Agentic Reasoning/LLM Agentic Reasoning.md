@@ -16,7 +16,7 @@
 ### Papers
 https://arxiv.org/abs/2603.01896
 Agentic Code Reasoning 
-Shubham Ugare, Satish Chandra 
+Shubham Ugare, Satish Chandra
 Meta, USA
 
 

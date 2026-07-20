@@ -22,7 +22,7 @@ https://clash-verge-rev.github.io/friendship.html
 - [参考文档](https://clash-verge-rev.github.io/friendship.html#_3)
 
 
-### Proxy Services
+### Proxy Services 🤔
 [墙知乎](https://wallzhihu.com)
 
 🔗 https://www.duyaoss.com
@@ -41,22 +41,28 @@ duyaoss机场测速
 3. [搬瓦工自建](https://v2ray-x.com/banwagon-v2ray/)
 
 https://cloudfisher.net/web/#/login?code=Hyr6jJMH
-
 https://leiting.uniss.me/invite/vSfhpG0G
-
 https://miru.cloud/auth/register
 
 https://cloud.bigmess.org/user#/plan
-
 美国住宅IP代理可以使用：[https://oxylabs.io/](https://oxylabs.io/)，按流量计费，$15/G，按需使用，建议使用switchOmega浏览器插件设置只对openai.com域名走代理，跑不了多少流量。
-
 住宅IP的vps可以使用：[https://www.soladrive.com/support/aff.php?aff=146](https://www.soladrive.com/support/aff.php?aff=146)，进入网站后选择Residential IP VPS即可，$25每月，流量2T/月，适合于平时除了用chatGPT还顺便用来解锁netflix看看视频的。
+
+https://user.665353.xyz/#/plan
+狗狗加速
+
+https://github.com/hwanz/SSR-V2ray-Trojan
+2026 翻墙机场推荐（持续更新）
+
+https://free-5620788.webadorsite.com/
+https://github.com/DiningFactory/panda-vpn-pro
+低价机场推荐
+😊 **温馨提示**：**虽然全文篇幅略长**，**但依然建议完整阅读**，不要直接“跳”到机场列表中。因为我希望各位在此不仅仅只是收获到好用的机场，还能收获一些有助于你在翻墙之路走得更长远的知识。如果实在懒得看完也请至少记住一句话：**任何机场都有跑路的可能性**，**善待自己的每一分钱**，**永远不要年付**！
 
 
 ### Other Resources
 🚧 https://github.com/hoochanlon/fq-book
 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
-
 
 🚧 https://github.com/vpncn/vpncn.github.io
 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
@@ -87,6 +93,11 @@ https://cloud.bigmess.org/user#/plan
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Proxy_server
+
+In [computer networking](https://en.wikipedia.org/wiki/Computer_network "Computer network"), a **proxy server** is an [intermediary](https://en.wikipedia.org/wiki/Intermediary "Intermediary") [server application](https://en.wikipedia.org/wiki/Server_application "Server application") between a [client](https://en.wikipedia.org/wiki/Client_\(computing\) "Client (computing)") requesting a [resource](https://en.wikipedia.org/wiki/Web_resource "Web resource") and the server then providing that resource.
+
+Instead of connecting directly to a server that can fulfil a request for a resource, such as a file or [web page](https://en.wikipedia.org/wiki/Web_page "Web page"), the client directs the request to the proxy server, which evaluates the request and performs the required network transactions. This serves as a method to control the complexity of the request or provide additional benefits such as [load balancing](https://en.wikipedia.org/wiki/Load_balancing_\(computing\) "Load balancing (computing)"), [privacy](https://en.wikipedia.org/wiki/Internet_privacy "Internet privacy") or security. Proxies were devised to add structure and [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_\(networking\) "Encapsulation (networking)") to [distributed systems](https://en.wikipedia.org/wiki/Distributed_computing "Distributed computing").
 
 
 
@@ -135,6 +146,19 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 
 
 ### Development of Proxy Software & Protocols
+
+> 🔗 https://free-5620788.webadorsite.com/
+
+| 操作系统           | 代理软件                                                                                                                                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows        | Clash for Windows，Clash Verge，Clash Verge Rev，Clash Nyanpasu，FlClash，V2ranN，Nekoray，sing-box，Hiddify，Qv2ray，Clash Party，Karing，Fly Clash，Clash Mi，GUI For SingBox，Sparkle，AnyPortal，Pandora Box，Throne，Pantheon，vproxy，Bettbox                    |
+| Mac            | Clash for Windows，ClashX，ClashX Pro，Clash Verge，Clash Verge Rev，Clash Nyanpasu，FlClash，V2rayN，sing-box，Stash，Surge，Quantumult X，Hiddify，Qv2ray，Streisand，Clash Party，Karing，Clash Mi，Sparkle，ClashMac，AnyPortal，Pandora Box，LanceX，vproxy，Bettbox |
+| Linux          | Clash for Windows，Clash Verge，Clash Verge Rev，Clash Nyanpasu，FlClash，V2rayN，Nekoray，sing-box，Hiddify，Qv2ray，Dae，Daed，Clash Party，GUI For SingBox，Sparkle，AnyPortal，Pantheon，Bettbox                                                               |
+| Android        | Clash for Android，Clash Meta for Android，FlClash，Surfboard，SagerNet，V2rayNG，NekoBox，sing-box，Matsuri，Hiddify，Karing，Fly Clash，Clash Mi，AnyPortal，vproxy，V2Box，Bettbox                                                                             |
+| iOS            | Shadowrocket，One Click，sing-box，Surge，Quantumult，Quantumult X，Loon，Hiddify，Egern，Potatso Lite，Choc，Foxray，Streisand，Karing，Clash Mi，LanceX，HAPP，OneXray，vproxy，V2Box                                                                              |
+| HarmonyOS NEXT | ClashBox                                                                                                                                                                                                                                          |
+| OpenWrt        | OpenClash，SSRPlus，Passwall，Passwall2，Openwrt-Nikki，fancyss，Momo                                                                                                                                                                                   |
+
 #### 1️⃣ clowwindy & SS
 [Solzhenitsyn: 'Spiritual Death Has... Touched Us All](https://www.washingtonpost.com/wp-dyn/content/article/2008/08/04/AR2008080401822_pf.html)
 
