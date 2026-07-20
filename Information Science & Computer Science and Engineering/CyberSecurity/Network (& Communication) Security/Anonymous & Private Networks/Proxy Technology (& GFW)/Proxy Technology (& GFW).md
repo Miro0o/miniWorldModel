@@ -1,4 +1,4 @@
-# Proxy Technology & GFW 🇨🇳
+# Proxy Technology (& GFW)
 
 [TOC]
 
@@ -158,6 +158,22 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 | iOS            | Shadowrocket，One Click，sing-box，Surge，Quantumult，Quantumult X，Loon，Hiddify，Egern，Potatso Lite，Choc，Foxray，Streisand，Karing，Clash Mi，LanceX，HAPP，OneXray，vproxy，V2Box                                                                              |
 | HarmonyOS NEXT | ClashBox                                                                                                                                                                                                                                          |
 | OpenWrt        | OpenClash，SSRPlus，Passwall，Passwall2，Openwrt-Nikki，fancyss，Momo                                                                                                                                                                                   |
+
+> 🔗 https://sunsetbrowser.app/blog/china-gfw-update-2026-q2
+
+實測給你看，以下是各主流翻牆協議在 2026 Q2 的生存狀態：
+
+| 協議              | 狀態       | 說明                |
+| --------------- | -------- | ----------------- |
+| PPTP            | ✗ 完全陣亡   | 早就不行了，別想了         |
+| L2TP/IPSec      | ✗ 幾乎全滅   | 特徵太明顯             |
+| 純 OpenVPN       | ✗ 容易被封   | UDP 模式尤其脆弱        |
+| WireGuard       | ✗ 容易被封   | 協議特徵明顯，無法偽裝       |
+| Shadowsocks（原版） | ✗ 已被研究透徹 | GFW 可精確識別         |
+| V2Ray (VMess)   | △ 中等風險   | 必須搭配 TLS + CDN 偽裝 |
+| Trojan          | ✓ 相對安全   | 偽裝為正常 HTTPS 流量    |
+| VLESS + Reality | ✓ 目前最安全  | 極強偽裝能力            |
+| Hysteria2       | △ 有風險    | 速度快，但 QUIC 審查是隱患  |
 
 #### 1️⃣ clowwindy & SS
 [Solzhenitsyn: 'Spiritual Death Has... Touched Us All](https://www.washingtonpost.com/wp-dyn/content/article/2008/08/04/AR2008080401822_pf.html)

@@ -13,16 +13,24 @@
 
 
 ### Communities & Forums
-🔗 https://en.wikipedia.org/wiki/Great_Firewall
-
 https://github.com/net4people/bbs
 The BBS is an inclusive and multilingual forum for public discussion about Internet censorship circumvention. It is a place for **developers and researchers** to discuss and share information, techniques, and research. Feel free to write in your own language; we will translate. To start a discussion topic, [open a new issue](https://github.com/net4people/bbs/issues/new).
-
 本BBS是一个包容的多语种论坛，用于公开讨论规避互联网审查的话题。欢迎各位**开发者和研究人员**讨论和分享有关互联网封锁的信息、技术及研究。欢迎你使用自己的语言，我们会翻译的。要发起一个讨论话题，请[创建一个新的issue](https://github.com/net4people/bbs/issues/new)。
 
+https://gfw.report/zh/
+Great Firewall Report
+Know the enemy and know yourself. 知彼知己.
 
 
-## GFW (Great FireWall)
+### Other Resources
+
+
+
+## Intro: GFW (Great FireWall)
+> 🔗 https://en.wikipedia.org/wiki/Great_Firewall
+> 🔗 https://zh.wikipedia.org/zh-hans/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
+
+
 ### 一切的开始
 
 > 原文地址: 🔗 https://shadowsockshelp.github.io/Shadowsocks/whats-shadowsocks.html
@@ -88,3 +96,29 @@ tbd..
 
 下一步，我们将调查GFW是否真的使用了客户端发出的TLS指纹来识别这些协议。与此同时，如果您有任何翻墙服务器被封锁，或者有任何可以证实或反驳我们的推测的例子，我们都欢迎您或公开地或私下地与我们分享。因为这会帮助我们快速定位许多问题的根源。我们私下的联系方式可见[GFW Report](https://gfw.report/)的页脚。
 
+[Leak of Geedge Networks internal documents (100,000+ from Jira, Confluence, GitLab)]: https://github.com/net4people/bbs/issues/519
+[积至公司与MESA实验室：防火长城史上最大规模文件外泄分析]: https://gfw.report/blog/geedge_and_mesa_leak/zh/#1-%E5%BC%95%E8%A8%80
+
+[2026 Q2 中國翻牆現況更新：GFW 又升級了，哪些工具還能用？]: https://sunsetbrowser.app/blog/china-gfw-update-2026-q2#2025
+回顧 2025：那些改變遊戲規則的事件
+要理解 2026 的現況，得先回頭看 2025 年發生的幾件大事。
+
+GFW 史上最大源碼洩漏（2025 年 9 月）
+這件事我稱它為「翻牆圈的震撼彈」。超過 **500GB** 的 GFW 源代碼、工作日誌和內部通信記錄被洩漏，來源是積至（海南）信息技術有限公司和中科院信工所的 MESA 實驗室——而積至的首席科學家，正是「防火牆之父」方濱興。
+洩漏內容揭示了幾個關鍵事實：
+- 員工持續對常見翻牆工具進行逆向工程
+- **至少 9 個商業 VPN 已被「解決」**（具體名單未完全公開）
+- 提供多種識別和過濾翻牆流量的方式
+- 積至還在「一帶一路」框架下向緬甸、巴基斯坦等國輸出審查技術
+老實說，看到這份洩漏資料，你就會明白為什麼這麼多 VPN 突然不能用了——人家早就把你研究透了。
+
+
+「牆中牆」被揭露（2025 年 5 月）
+除了國家級的 GFW，研究者發現**河南省還部署了省級封鎖系統**，封鎖域名超過 420 萬個，是國家級 GFW 的 5 倍。而且至少福建、湖北、江蘇等省也有類似系統，已經存在 5-6 年了。
+翻譯成白話：你以為翻過一道牆就好了？不，裡面還有好幾道。
+
+
+TCP 443 端口無條件封禁測試（2025 年 8 月）
+GFW 曾在 8 月 20 日凌晨對所有 TCP 443 端口連線注入偽造封包，導致所有 HTTPS 連線中斷約 74 分鐘。雖然時間不長，但這被分析為一次**測試性封鎖**。意思是：如果他們想，隨時可以把整個加密網路都關掉。
+
+[🤔 中國防火牆2026黑科技曝光：AI抓翻牆準確率94%，省級獨立部署天狗系統，商業VPN全軍覆沒！唯一破局方案Reality協議詳解，100萬自建節點如何讓GFW陷入政治困境]: https://youtu.be/C0WQ5I9YOYQ?si=psculDMsmMGsuDeV

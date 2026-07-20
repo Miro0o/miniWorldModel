@@ -1,4 +1,4 @@
-# VLESS & VMESS
+# VLESS + Reality (2023)
 
 [TOC]
 
@@ -8,7 +8,7 @@
 ### Related Topics
 
 
-### Other Resoruces
+### Other Resources
 
 
 
