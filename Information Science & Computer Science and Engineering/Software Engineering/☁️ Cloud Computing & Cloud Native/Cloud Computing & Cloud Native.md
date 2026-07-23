@@ -103,7 +103,24 @@ Open Infrastructure Summit
 Start form ↗ [Cloud Computing](🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Cloud%20Computing/Cloud%20Computing.md)
 
 
-### Difference Between Cloud, Distributed Systems, and Parallel Computing
+### Cloud Computing and VPS (Virtual Personal Server)
+#cloud #VPS 
+
+ >[!links]
+ >↗ [VPS (Virtual Private Server)](VPS%20(Virtual%20Private%20Server).md)
+
+> 🤖 Google AI Search result
+
+A VPS is essentially a dedicated slice of a single physical server, while cloud computing uses a vast, interconnected network of servers to offer dynamic scaling and redundancy. In many cases, a VPS is a specific service hosted within a broader cloud infrastructure.
+
+The differences come down to how resources are managed and scaled:
+- Virtual Private Server (VPS): A traditional VPS pulls resources from one specific physical machine. If you need more RAM or CPU power, you are limited by the capacity of that single piece of hardware. As noted by Google Cloud, "A VPS is a virtual machine that provides virtualized server resources on a physical server that is shared with other users".
+- Cloud Computing: Cloud infrastructure pools resources across a network of physical servers. As explained by SiteGround, "Cloud Hosting uses a network of servers to provide scalable, highly reliable performance with real-time resource adjustments". If hardware fails in the cloud, your virtual machine automatically boots up on a different, healthy server in the network.
+
+Many modern providers offer "Cloud VPS" solutions, which blend the easy, fixed-price setup of a VPS with the backend fault-tolerance of the cloud.
+
+
+### Difference /Relations Between Cloud, Distributed Systems, and Parallel Computing
 #cloud #distributed #parallel_computing
 
 > 分布式是云计算的底层技术，云计算是分布式的上层服务！

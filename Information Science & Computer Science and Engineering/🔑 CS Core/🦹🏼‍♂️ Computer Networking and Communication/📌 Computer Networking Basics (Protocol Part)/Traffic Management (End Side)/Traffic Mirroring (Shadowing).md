@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 Traffic mirroring, also called shadowing, is a powerful concept that allows feature teams to bring changes to production with as little risk as possible. Mirroring sends a copy of live traffic to a mirrored service. The mirrored traffic happens out of band of the critical request path for the primary service.
@@ -86,6 +89,17 @@ VLAN镜像是指将指定VLAN内所有活动接口的报文镜像到观察端口
 MAC镜像是指将VLAN内匹配指定源或者目的MAC地址的报文镜像到观察端口。MAC地址镜像提供了一种更加精确的镜像方式，用户可以对网络中特定设备的报文进行监控。
 
 目前，华为S系列盒式交换机在应用MAC镜像时，仅支持将VLAN内活动接口入方向匹配指定源或者目的MAC地址的报文镜像到观察端口。
+
+
+
+## Network Tap
+> 🔗 https://en.wikipedia.org/wiki/Network_tap
+
+A **network tap** is a system that monitors events on a local network. A tap is typically a dedicated hardware device that provides a way to access the data flowing across a [computer network](https://en.wikipedia.org/wiki/Computer_network "Computer network").
+
+The network tap has (at least) three ports: an _A port_, a _B port_, and a _monitor_ port. A tap inserted between A and B passes all traffic (send and receive data streams) through unimpeded in real time, but also copies that same data to its monitor port, enabling a third party to listen.
+
+Network taps are commonly used for [network intrusion detection systems](https://en.wikipedia.org/wiki/Network_intrusion_detection_system "Network intrusion detection system"), [VoIP recording](https://en.wikipedia.org/wiki/VoIP_recording "VoIP recording"), network probes, [RMON](https://en.wikipedia.org/wiki/RMON "RMON") probes, [packet sniffers](https://en.wikipedia.org/wiki/Packet_sniffer "Packet sniffer"), and other monitoring and collection devices and software that require access to a [network segment](https://en.wikipedia.org/wiki/Network_segment "Network segment"). Taps are used in security applications because they are non-obtrusive, are not detectable on the network (having no physical or [logical address](https://en.wikipedia.org/wiki/Logical_address "Logical address")), can deal with [full-duplex](https://en.wikipedia.org/wiki/Full-duplex "Full-duplex") and non-shared networks, and will usually _pass through_ or _bypass_ traffic even if the tap stops working or loses power.
 
 
 

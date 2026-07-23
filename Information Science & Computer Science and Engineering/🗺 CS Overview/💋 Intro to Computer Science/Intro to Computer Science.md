@@ -727,7 +727,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		5. Security aspects \#2:
 			1. ↗ [Data Security](../../CyberSecurity/Data%20Security/Data%20Security.md)
 				1. ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../CyberSecurity/Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
-				2. ↗ [Content Security](../../CyberSecurity/Data%20Security/Content%20Security/Content%20Security.md)
+				2. ↗ [🤔 Content Security & Public Opinion Control 🤔](../../CyberSecurity/Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 			2. ↗ [Application Security](../../CyberSecurity/Application%20Security/Application%20Security.md)
 				1. ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md) 🤔
 			3. ↗ [Network (& Communication) Security](../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)

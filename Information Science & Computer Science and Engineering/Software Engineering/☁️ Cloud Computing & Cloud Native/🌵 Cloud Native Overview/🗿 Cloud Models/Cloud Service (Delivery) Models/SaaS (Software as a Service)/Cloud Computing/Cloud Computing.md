@@ -11,14 +11,17 @@
 
 🌟 Highly recommended as an intro material.
 
+
 ### Related Topics
 ↗ [AI on Cloud](../../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20on%20Cloud/AI%20on%20Cloud.md)
+
+
+### Other Resources
 
 
 
 ## Intro
 ### What is Cloud Computing?
-
 > 🔗 https://aws.amazon.com/what-is-cloud-computing/
 
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as **computing power**, **storage**, **networking**, and **databases**, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
@@ -33,7 +36,6 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 
 ### Adcantages of Cloud Computing
-
 > 🔗 [Six advantages of cloud computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-02-02%20at%202.38.59%20PM.png)

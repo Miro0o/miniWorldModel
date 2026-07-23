@@ -6,6 +6,12 @@
 
 ## Res
 ### Related Topics
+↗ [Traffic Management (End Side)](../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Traffic%20Management%20(End%20Side)/Traffic%20Management%20(End%20Side).md)
+↗ [Traffic Mirroring (Shadowing)](../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Traffic%20Management%20(End%20Side)/Traffic%20Mirroring%20(Shadowing).md)
+
+↗ [Network Traffic Analysis](../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Forensics/Network%20Traffic%20Analysis.md)
+
+↗ [Information Flow & Information Flow Control (IFC)](../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC)/Information%20Flow%20&%20Information%20Flow%20Control%20(IFC).md)
 
 
 ### Other Resources

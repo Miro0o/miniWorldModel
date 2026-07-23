@@ -25,7 +25,7 @@
 
 ↗ [Data Security](../../Data%20Security/Data%20Security.md)
 - ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
-- ↗ [Content Security](../../Data%20Security/Content%20Security/Content%20Security.md)
+- ↗ [🤔 Content Security & Public Opinion Control 🤔](../../Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 
 ↗ [Network (& Communication) Security](../../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 - ↗ [Anonymous & Private Networks](../../Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
@@ -40,14 +40,14 @@
 
 ↗ [Physical Security](../../Physical%20Security/Physical%20Security.md)
 
-↗ [Culture Security](../../Culture%20Security.md)
-
 
 ### Other Resources
 
 
 
 ## Intro
+![risk_management_and_software_security.excalidraw | 1000](../../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>cyber security and risk management</small>
 
 
 

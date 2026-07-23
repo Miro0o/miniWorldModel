@@ -8,6 +8,12 @@
 🚧 https://github.com/evilsocket/opensnitch
 
 
+### Related Topics
+
+
+### Other Resources
+
+
 
 ## Intro
 OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
