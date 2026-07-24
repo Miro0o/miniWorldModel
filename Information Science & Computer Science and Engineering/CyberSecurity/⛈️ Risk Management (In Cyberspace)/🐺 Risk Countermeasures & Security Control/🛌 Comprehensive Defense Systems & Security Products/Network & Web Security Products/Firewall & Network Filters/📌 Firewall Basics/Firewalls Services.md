@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 防火墙需具备五个基本功能/服务：
@@ -98,7 +101,7 @@
 #### Two-host Recovery (双机热备)
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.25.50AM.png)
 #### Load-Balancing
-↗ [Load Balancing Services](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Load%20Balancing%20Services/Load%20Balancing%20Services.md)
+↗ [Reverse Proxy & Load Balancing & Application Servers](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers/Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers.md)
 
 负载均衡算法：
 - 轮流

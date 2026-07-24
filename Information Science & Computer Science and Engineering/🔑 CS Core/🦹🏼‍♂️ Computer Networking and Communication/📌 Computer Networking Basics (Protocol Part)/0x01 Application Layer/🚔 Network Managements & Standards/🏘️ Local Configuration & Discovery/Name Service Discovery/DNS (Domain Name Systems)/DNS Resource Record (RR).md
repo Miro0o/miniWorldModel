@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 Every domain, whether it is a Top Level Domain, or an Authoritative server, or simply a single host have a set of **resource records** associated with it in the DNS distributed database. **These RR provide the mapping of hostname to IP address.** The RR is stored in binary format for internal use, but when a RR is transmitted in cyberspace it is text format.

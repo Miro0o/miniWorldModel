@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [stunnel](../../../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/stunnel.md)
+↗ [stunnel](../../../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Free%20Software/stunnel.md)
 
 
 ### Some SSL & TLS Projects

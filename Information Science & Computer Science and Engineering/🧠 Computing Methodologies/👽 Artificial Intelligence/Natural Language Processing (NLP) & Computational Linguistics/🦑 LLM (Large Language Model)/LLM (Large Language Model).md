@@ -275,6 +275,14 @@ Jason Liu
 Dave Ebbelaar
 #### Blogs & Communities
 https://www.alignmentforum.org/
+
+https://faichou.com/posts/a-transformer-walkthrough/
+From Embedding to Attention: A Transformer Walkthrough
+February 11, 2026 / 28 min read
+
+https://faichou.com/posts/llm-cache/
+LLM 缓存机制：从计费到原理
+February 5, 2026 / 15 min read
 #### Projects & Libraries
 https://github.com/karpathy/nanogpt
 The simplest, fastest repository for training/finetuning medium-sized GPTs. It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. Still under active development, but currently the file `train.py` reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: `train.py` is a ~300-line boilerplate training loop and `model.py` a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI. That's it.
@@ -463,7 +471,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 ### LLM Infrastructure & Deployment
-↗ [LLM Infrastructure & Deployment](LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
+↗ [LLM Infrastructure (Deployment & Inference)](LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 

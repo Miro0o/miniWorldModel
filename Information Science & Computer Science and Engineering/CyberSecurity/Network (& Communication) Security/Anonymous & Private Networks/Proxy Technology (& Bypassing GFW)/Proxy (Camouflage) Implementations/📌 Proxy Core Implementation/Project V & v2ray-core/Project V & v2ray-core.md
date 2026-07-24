@@ -6,14 +6,18 @@
 
 ## Res
 🏠 https://www.v2ray.com/en/index.html
+🚧 https://github.com/v2fly/v2ray-core
 
-🇨🇳 [官方手册](https://www.v2fly.org)
-🇺🇸 [Official mannul](https://www.v2fly.org/en_US/#who-will-lead-the-development-of-project-v)
+📁 [官方手册](https://www.v2fly.org) 🇨🇳 
+📂 [Official mannul](https://www.v2fly.org/en_US/#who-will-lead-the-development-of-project-v) 🇺🇸
 
-🌏 [Project GitHub URL](https://github.com/v2fly/v2ray-core)
+📂 [新 V2Ray 白话文指南](https://guide.v2fly.org/)
 
 
 ### Related Topics
+
+
+### Other Resources
 
 
 

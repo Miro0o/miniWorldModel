@@ -12,6 +12,9 @@
 ↗ [Web 3.0 & Decentralized Finance](../../../../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Web%203.0%20&%20Decentralized%20Finance.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 

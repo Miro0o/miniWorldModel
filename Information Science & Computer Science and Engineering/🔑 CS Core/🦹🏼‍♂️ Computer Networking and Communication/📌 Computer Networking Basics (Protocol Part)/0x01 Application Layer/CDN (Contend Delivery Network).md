@@ -9,6 +9,9 @@
 ↗ [CDN Server (CDN Distributed Database)](../../../🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/Database%20Applications%20(DBAP)%20&%20Services/Directory%20Services/CDN%20Server%20(CDN%20Distributed%20Database)/CDN%20Server%20(CDN%20Distributed%20Database).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Content_delivery_network#

@@ -12,7 +12,7 @@
 ### Related Topics
 ↗ [Linux Network](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
 ↗ [Linux TUN (network TUNnel)](../Virtual%20Network%20Layer/Linux%20TUN%20(network%20TUNnel).md)
-↗ [VPN & NAT Implementations](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
+↗ [VPN & NAT Traversal Implementations](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Traversal%20Implementations.md)
 
 
 

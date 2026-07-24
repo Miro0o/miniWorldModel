@@ -14,7 +14,7 @@
 
 ↗ [Data Compression Technologies](../../../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
 
-↗ [WebRTC](../../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/WebRTC/WebRTC.md)
+↗ [WebRTC (Web Real-Time Communication)](../../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/WebRTC%20(Web%20Real-Time%20Communication)/WebRTC%20(Web%20Real-Time%20Communication).md)
 
 
 

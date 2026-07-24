@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [HTTP Connection Management](../../0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
 
 
 ### Learning Resources

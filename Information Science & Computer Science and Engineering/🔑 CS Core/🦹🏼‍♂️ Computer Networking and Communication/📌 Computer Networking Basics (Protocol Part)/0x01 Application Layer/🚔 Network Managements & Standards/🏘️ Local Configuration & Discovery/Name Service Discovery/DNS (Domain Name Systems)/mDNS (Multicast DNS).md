@@ -9,6 +9,9 @@
 ↗ [Zeroconf (Zero-Configuration Networking)](../../../../../../../../Computer%20Engineering,%20Embedded%20&%20IoT/🎭%20IoT%20Scenarios%20&%20Embedded%20Systems/Home%20Automation/Zeroconf%20(Zero-Configuration%20Networking).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Multicast_DNS

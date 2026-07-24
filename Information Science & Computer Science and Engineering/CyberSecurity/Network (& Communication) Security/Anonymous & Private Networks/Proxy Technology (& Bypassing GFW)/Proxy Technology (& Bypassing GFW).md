@@ -7,22 +7,30 @@
 ## Res
 ### Related Topics
 ↗ [Tunneling & VPN (Virtual Personal Network)](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
-- ↗ [Tunneling & Firewall Evasion](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20Firewall%20Evasion.md)
-- ↗ [VPN & NAT Implementations](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
-	- ↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
-	- ↗ [WireGuard](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
+- ↗ [VPN & NAT Traversal Implementations](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Traversal%20Implementations.md)
+	- ↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
+	- ↗ [WireGuard](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 ↗ [VPS (Virtual Private Server)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/VPS%20(Virtual%20Private%20Server).md)
 
-↗ [Reverse Proxy Servers & Application Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers%20&%20Application%20Servers.md)
-- ↗ [frp (A Fast Reverse Proxy)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20Servers%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
+↗ [Reverse Proxy & Load Balancing & Application Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers/Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers.md)
+- ↗ [frp (A Fast Reverse Proxy)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
 
 ↗ [Network Management Basics](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
-↗ [iptables](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
+↗ [The netfilter.org Project (Netfilter)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/The%20netfilter.org%20Project%20(Netfilter).md)
+- ↗ [iptables](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
+- ↗ [nftables](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/nftables.md)
 
-↗ [SOCKS (Socket Secure) Protocol](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SOCKS%20(Socket%20Secure)%20Protocol.md)
+↗ [Transportation (& Session) Layer Security Protocols](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/Transportation%20(&%20Session)%20Layer%20Security%20Protocols.md)
+- ↗ [SOCKS (Socket Secure) Protocol](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SOCKS%20(Socket%20Secure)%20Protocol.md)
+- ↗ [MTProto Mobile Protocol](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/MTProto%20Mobile%20Protocol/MTProto%20Mobile%20Protocol.md)
 
 
 ### Proxy Services 🤔
+https://mtpro.xyz/
+Telegram Proxy
+Free Proxy List For Telegram
+
+
 [墙知乎](https://wallzhihu.com)
 
 🔗 https://www.duyaoss.com
@@ -60,7 +68,35 @@ https://github.com/DiningFactory/panda-vpn-pro
 😊 **温馨提示**：**虽然全文篇幅略长**，**但依然建议完整阅读**，不要直接“跳”到机场列表中。因为我希望各位在此不仅仅只是收获到好用的机场，还能收获一些有助于你在翻墙之路走得更长远的知识。如果实在懒得看完也请至少记住一句话：**任何机场都有跑路的可能性**，**善待自己的每一分钱**，**永远不要年付**！
 
 
-### Other Resources
+### Learning Resources
+https://guide.v2fly.org/
+V2Ray 配置指南
+
+
+https://xtls.github.io/document/
+Project X document
+入门技巧
+- [回落 (fallbacks) 功能简析](https://xtls.github.io/document/level-1/fallbacks-lv1.html)
+- [路由 (routing) 功能简析（上）](https://xtls.github.io/document/level-1/routing-lv1-part1.html)
+- [路由 (routing) 功能简析（下）](https://xtls.github.io/document/level-1/routing-lv1-part2.html)
+- [Xray 的工作模式](https://xtls.github.io/document/level-1/work.html)
+- [SNI 回落](https://xtls.github.io/document/level-1/fallbacks-with-sni.html)
+- [用 DNS 实现精准境内外分流](https://xtls.github.io/document/level-1/routing-with-dns.html)
+进阶技巧
+- [透明代理入门](https://xtls.github.io/document/level-2/transparent_proxy/transparent_proxy.html)
+- [TProxy 透明代理](https://xtls.github.io/document/level-2/tproxy.html)
+- [TProxy 透明代理（ipv4 and ipv6）](https://xtls.github.io/document/level-2/tproxy_ipv4_and_ipv6.html)
+- [GID 透明代理](https://xtls.github.io/document/level-2/iptables_gid.html)
+- [Nginx 或 Haproxy 搭建 TLS 隧道隐藏指纹](https://xtls.github.io/document/level-2/nginx_or_haproxy_tls_tunnel.html)
+- [出站流量重定向](https://xtls.github.io/document/level-2/redirect.html)
+- [通过 Cloudflare Warp 增强代理安全性](https://xtls.github.io/document/level-2/warp.html)
+- [流量统计](https://xtls.github.io/document/level-2/traffic_stats.html)
+- [VLESS 反向代理](https://xtls.github.io/document/level-2/vless_reverse.html)
+
+https://wiki.metacubex.one/en/
+mihomo documentation
+
+
 🚧 https://github.com/hoochanlon/fq-book
 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 
@@ -89,6 +125,9 @@ https://github.com/DiningFactory/panda-vpn-pro
 8. [读者使用问题讨论](https://github.com/vpncn/vpncn.github.io#%E8%AF%BB%E8%80%85%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA)
 9. [不要入坑的VPN](https://github.com/vpncn/vpncn.github.io#%E4%B8%8D%E8%A6%81%E5%85%A5%E5%9D%91%E7%9A%84vpn)
 10. [其他VPN避坑提示](https://github.com/vpncn/vpncn.github.io#%E5%85%B6%E4%BB%96vpn%E9%81%BF%E5%9D%91%E6%8F%90%E7%A4%BA)
+
+
+### Other Resources
 
 
 
@@ -152,11 +191,11 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 ## Development of Proxy Software & Protocols
 ### Proxy Protocols
 > [!links]
-> ↗ [ShadowSocks (2012)](📌%20Proxy%20(Camouflage)%20Protocols/ShadowSocks%20(2012).md)
-> ↗ [SSR (ShadowSocksR)](📌%20Proxy%20(Camouflage)%20Protocols/SSR%20(ShadowSocksR).md)
+> ↗ [clowwindy & Shadowsocks (SS) (2012)](📌%20Proxy%20(Camouflage)%20Protocols/clowwindy%20&%20Shadowsocks%20(SS)%20(2012).md)
+> ↗ [breakwa11 & ShadowsocksR (SSR) (2014)](📌%20Proxy%20(Camouflage)%20Protocols/breakwa11%20&%20ShadowsocksR%20(SSR)%20(2014).md)
 > ↗ [V2Ray & VMess (2016)](📌%20Proxy%20(Camouflage)%20Protocols/V2Ray%20&%20VMess%20(2016).md)
-> ↗ [Trojan (2019)](📌%20Proxy%20(Camouflage)%20Protocols/Trojan%20(2019).md)
-> ↗ [Xray & VLESS and Its Enhanced Stack (2022 ~)](📌%20Proxy%20(Camouflage)%20Protocols/Xray%20&%20VLESS%20and%20Its%20Enhanced%20Stack%20(2022%20~).md)
+> ↗ [GreaterFire & Trojan (2019)](📌%20Proxy%20(Camouflage)%20Protocols/GreaterFire%20&%20Trojan%20(2019).md)
+> ↗ [Xray & VLESS, Reality, xSTL, xHTTP, etc. (2020 ~)](📌%20Proxy%20(Camouflage)%20Protocols/Xray%20&%20VLESS,%20Reality,%20xSTL,%20xHTTP,%20etc.%20(2020%20~).md)
 
 > 🔗 https://sunsetbrowser.app/blog/china-gfw-update-2026-q2
 
@@ -173,6 +212,55 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 | Trojan          | ✓ 相對安全   | 偽裝為正常 HTTPS 流量    |
 | VLESS + Reality | ✓ 目前最安全  | 極強偽裝能力            |
 | Hysteria2       | △ 有風險    | 速度快，但 QUIC 審查是隱患  |
+
+> 🤖 Google AI Search result. 2026.07
+
+The evolution of anti-censorship protocols used to bypass the Great Firewall (GFW) is a multi-decade cat-and-mouse game. As the GFW shifted from simple IP blocking to Deep Packet Inspection (DPI), active probing, and AI-driven machine learning, protocols evolved from **basic encryption** to **TLS mimicry** and **UDP/QUIC congestion hacking**. [1](https://arxiv.org/html/2503.02018v1), [2](https://instatunnel.my/blog/bypassing-the-great-firewall-the-rise-of-steganographic-tunneling), [3](https://riskybiznews.substack.com/p/risky-biz-news-china-blocks-several), [4](https://www.cics.umass.edu/news/houmansadr-lab-wins-trifecta-awards), [5](https://tegant.com/articles/what-is-the-great-firewall-of-china/)
+
+---
+Phase 1: The "Look Like Nothing" Era (2012 – 2017)
+
+Early protocols relied on encrypting data into completely random-looking bytes. The strategy was to ensure that a censor looking at the packet could not find a distinct signature or pattern. [1](https://dl.acm.org/doi/10.5555/3620237.3620386)
+- **2012: Shadowsocks (SS)**
+    - **Concept**: Created by _clowwindy_, it used a lightweight SOCKS5 proxy design with symmetric stream ciphers to turn readable web requests into completely randomized encrypted data streams.
+    - **GFW Counter**: The GFW began deploying **Active Probing**. It would record suspected random traffic and replay modified versions of those packets to the server. If the server responded, the GFW confirmed it was a proxy and blocked the IP. [1](https://gfw.report/publications/imc20/en/), [2](https://www.youtube.com/watch?v=Xh4QszDqkOc&t=45), [3](https://github.com/danoctavian/awesome-anti-censorship), [4](https://gfw.report/publications/usenixsecurity23/en/), [5](https://dti.domaintools.com/research/inside-the-great-firewall-part-3-geopolitical-and-societal-ramifications)
+- **2014: ShadowsocksR (SSR)**
+    - **Concept**: Forked by _breakwa11_, it added "obfuscation" plugins (obfs) over Shadowsocks to dress the random data up as legitimate HTTP web traffic or TLS handshakes. [1](https://arxiv.org/html/2503.02018v1), [2](https://www.facebook.com/groups/openclawgroup/posts/1886096952096870/)
+- **2015: VMess (V2Ray / Project V)**
+    - **Concept**: Introduced a complex, feature-rich protocol utilizing a mathematical command structure with timestamp validation to defeat the active replay attacks targeting older Shadowsocks setups. [1](https://arxiv.org/html/2503.02018v1)
+- **2017: Shadowsocks AEAD**
+    - **Concept**: The core Shadowsocks team adapted by integrating **Authenticated Encryption with Associated Data (AEAD)** ciphers. This added cryptographic verification to every packet, ensuring the server immediately dropped GFW active probes rather than replying to them. [1](https://github.com/net4people/bbs/issues/58), [2](https://gfw.report/publications/usenixsecurity23/en/), [3](https://speedify.com/enterprise/encryption/)
+
+---
+Phase 2: The "Look Like Everyone Else" Era (2017 – 2022)
+
+By late 2019, the GFW deployed machine learning models to detect **high-entropy (completely random) data streams**. The "look like nothing" approach failed because purely random data became an obvious signature itself. Netizens pivoted to hiding within real **TLS/HTTPS** traffic—the lifeblood of modern internet commerce. [1](https://gfw.report/publications/usenixsecurity23/en/), [2](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf), [3](https://dl.acm.org/doi/10.5555/3620237.3620386), [4](https://instatunnel.my/blog/bypassing-the-great-firewall-the-rise-of-steganographic-tunneling), [5](https://www.reddit.com/r/dumbclub/comments/s63uq4/difference_between_vless_vmess_and_trojan_in_the/)
+- **2017: Trojan**
+    - **Concept**: Designed by _GreaterFire_, it completely abandoned custom encryption layouts. Instead, it ran an authentic HTTPS web server (like Nginx) and hid proxy commands seamlessly inside normal TLS handshakes. [1](https://www.facebook.com/groups/openclawgroup/posts/1886096952096870/), [2](https://lantern.io/en/beta-circumvention)
+- **2020: VLESS (V2Ray / Xray)**
+    - **Concept**: A highly streamlined, lightweight, and stateless successor to VMess. It stripped away internal encryption overhead, relying entirely on the underlying outer TLS layer to protect the data. [1](https://tegant.com/articles/what-is-v-2-ray/), [2](https://medium.com/@onlyapps/vless-vpn-protocol-what-it-is-and-its-development-history-c06ec2f75a5e), [3](https://octohide.com/support/blog/Unlock-the-Web-with-VLESS-Fast-Private-and-Unblockable), [4](https://kolpolok.com/v2ray-vpn-protocol/), [5](https://lantern.io/en/beta-circumvention)
+- **2020: NaïveProxy**
+    - **Concept**: Rather than trying to mimic a browser, NaïveProxy used the **literal Chromium network stack** to forward data. It produced a flawless, un-fingerprintable TLS signature because it used the exact same code engine as the Google Chrome browser. [1](https://riskybiznews.substack.com/p/risky-biz-news-china-blocks-several), [2](https://instatunnel.my/blog/bypassing-the-great-firewall-the-rise-of-steganographic-tunneling), [3](https://www.facebook.com/groups/openclawgroup/posts/1886096952096870/), [4](https://www.top10vpn.com/guides/vpn-obfuscation/), [5](https://www.top10vpn.com/guides/vpn-obfuscation/)
+
+---
+Phase 3: The TLS Crackdown & Reality (2022 – 2023)
+
+In **October 2022**, the GFW engineered a massive upgrade capable of fingerprinting and actively blocking common open-source TLS configurations (like standard Xray/Trojan nodes running over port 443). Developers had to eliminate customized certificates entirely. [1](https://gfw.report/blog/modified_shadowsocks/en/), [2](https://riskybiznews.substack.com/p/risky-biz-news-china-blocks-several)
+- **2022: Shadowsocks 2022**
+    - **Concept**: A complete modernization of the original protocol. It enforced strict session IDs, specific packet lengths, and fixed header configurations using advanced cryptography (`BLAKE3`) to withstand the GFW's newer, highly sensitive active probing algorithms. [1](https://truenetlab.com/en/blog/shadowsocks-and-xray-when-vpn-gets-blocked/), [2](https://dl.acm.org/doi/10.1145/3419394.3423644)
+- **2023: VLESS + REALITY**
+    - **Concept**: Developed within the **Xray-core** ecosystem, REALITY eliminated the need to purchase or configure a self-signed domain certificate. Instead, your proxy server literally **borrows the TLS certificate** of a major public website (e.g., Apple, Microsoft, Yahoo). To the GFW, your proxy connection looks visually and cryptographically identical to hitting an official global tech infrastructure endpoint. [1](https://instatunnel.my/blog/bypassing-the-great-firewall-the-rise-of-steganographic-tunneling), [2](https://curlydenis.medium.com/vless-vs-shadowsocks-3c6a61b8366b), [3](https://www.sniki.dev/posts/vless-vpn-gcp-setup/), [4](https://medium.com/@nikitagroshin/the-ghost-in-the-machine-setting-up-a-vless-reality-vpn-for-perfect-stealth-00802a2f9561)
+
+---
+Phase 4: The UDP, QUIC, and Congestion Era (2023 – Present)
+
+While TLS camouflage successfully achieved invisibility, its underlying TCP architecture suffered from high latency and severe throttling over poorly optimized international transit lines. Modern circumvention has shifted heavily toward UDP-based protocols. [1](https://github.com/net4people/bbs/issues/499), [2](https://gfw.report/publications/usenixsecurity25/en/)
+- **2023: TUIC & Juicity**
+    - **Concept**: Built directly on top of **QUIC (HTTP/3)**. They combine strict TLS 1.3 standard obfuscation with UDP multiplexing. This allows web traffic to recover instantly from data packet loss without locking up the entire connection. [1](https://github.com/topics/tuic?l=go), [2](https://github.com/net4people/bbs/issues/499), [3](https://am-srivas.medium.com/quic-transport-4c454badf6b0), [4](https://www.gocodeo.com/post/understanding-quic-protocol-the-future-of-internet-transport)
+- **2024: Hysteria 2**
+    - **Concept**: A specialized proxy built on a heavily customized version of the QUIC protocol. Instead of traditional congestion control (which slows your internet down when the GFW drops packets intentionally), Hysteria 2 uses a **brute-force linear speed algorithm**. It violently floods data through the network to maintain high-speed throughput even over severely throttled or degraded lines. [1](https://github.com/topics/tuic?l=go), [2](https://instatunnel.my/blog/bypassing-the-great-firewall-the-rise-of-steganographic-tunneling), [3](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-738488.html), [4](https://www.simplilearn.com/tutorials/cryptography-tutorial/ddos-attack)
+- **2025–2026: Steganographic & Multi-CDN Tunnels**
+    - **Concept**: Current cutting-edge defense relies on **Steganography** (hiding encrypted data bits deep inside legitimate media streams like live WebRTC video calls or audio packets) alongside routing through domestic CDN edges to disguise remote cloud data centers entirely.
 
 
 ### Proxy Software
@@ -269,3 +357,14 @@ Below are a partial list of GUI /CLI proxy tools based on the above proxy core p
 [SwitchyOmega | github]: https://github.com/FelisCatus/SwitchyOmega
 
 [🤔 中國防火牆2026黑科技曝光：AI抓翻牆準確率94%，省級獨立部署天狗系統，商業VPN全軍覆沒！唯一破局方案Reality協議詳解，100萬自建節點如何讓GFW陷入政治困境]: https://youtu.be/C0WQ5I9YOYQ?si=psculDMsmMGsuDeV
+
+[👍 Compare AnyTLS, Reality and ShadowTLS | Faichou's Blog]: https://faichou.com/posts/compare-anytls-reality-and-shadowtls/
+下面我探究了四款常用协议，有的是在 tls 握手之后进行通信，靠 tls 的加密进行传输，有的是完全重写了 tls 握手，伪装成 tls。当然也有一些协议比如 mtproto 和 snell，大概都是这样的实现方式，这里我就不做过多对比了。
+
+需要理解这些项目的实现，需要你有以下基础知识：
+1. tcp/ip 的分层结构
+2. tls 的数据结构，握手过程
+3. 密钥交换机制（如 DHE 或 ECDHE）
+4. tls1.3 Forward Secrecy 向前保密性，即使服务器私钥泄露也无法解析请求
+
+这些协议的重点内容是服务器的实现，所以下面是以服务器端视角出发。

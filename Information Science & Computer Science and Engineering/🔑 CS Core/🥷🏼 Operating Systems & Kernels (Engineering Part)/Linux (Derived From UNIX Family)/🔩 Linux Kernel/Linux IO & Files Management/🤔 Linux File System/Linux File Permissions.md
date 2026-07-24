@@ -10,6 +10,9 @@
 ↗ [Text & File & Dir Management Basics](../../../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
 
 
+### Other Resources
+
+
 
 ## Intro
 ![](../../../../../../../../../Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg)

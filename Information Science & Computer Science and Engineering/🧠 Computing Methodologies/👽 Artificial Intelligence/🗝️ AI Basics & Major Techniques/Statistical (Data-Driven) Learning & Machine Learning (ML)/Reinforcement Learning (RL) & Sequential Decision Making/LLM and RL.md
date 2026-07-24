@@ -40,9 +40,10 @@ Arun Shankar Applied AI, Google
 
 
 
-## RL for LLM: RL Fine Tuning (RLFT)
+## RL for LLM:  RLFT (RL Fine Tuning)
+> [!links]
 > ↗ [RLFT (Reinforcement Learning Fine Tuning)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
-> 
+
 > 📄 Murphy, K. (2025). _Reinforcement Learning: An Overview_ (No. arXiv:2412.05265). arXiv. https://doi.org/10.48550/arXiv.2412.05265
 
 LLMs are usually trained with behavior cloning, i.e., MLE on a fixed dataset, such as a large text corpus scraped from the web. This is called pre-training. We can then improve their performance using various post-training methods, which are designed to improve their capabilities and alignment with human preferences (see e.g., [Zen+25]), as opposed to just being generative models of the data seen on the web. A simple way to perform post-training is to use instruction fine tuning, also called supervised fine-tuning (or SFT), in which we collect human demonstrations of (prompt, response) pairs, and fine-tune the model on them. However, it is very difficult to collect sufficient quantities of such data. An alternative to demonstrating good behaviors is to use RL to train the model using a suitable reward function. (We discuss where these reward functions come from in Section 6.1.2.) This is called reinforcement learning fine-tuning or RLFT. 

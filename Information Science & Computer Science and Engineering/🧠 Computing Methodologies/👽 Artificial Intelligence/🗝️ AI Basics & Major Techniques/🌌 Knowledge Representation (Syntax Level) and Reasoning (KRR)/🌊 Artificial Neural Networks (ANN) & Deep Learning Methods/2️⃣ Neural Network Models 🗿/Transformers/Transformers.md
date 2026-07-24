@@ -36,6 +36,9 @@ CS324 - Large Language Model | Stanford
 
 
 ### Other Resources
+https://faichou.com/posts/a-transformer-walkthrough/
+From Embedding to Attention: A Transformer Walkthrough
+February 11, 2026 / 28 min read
 
 
 

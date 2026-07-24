@@ -5,26 +5,20 @@
 
 
 ## Res
-### ⚧️ NAT /NAPT
-🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
+### Related Topics
+↗ [SE /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
-Network Address Translation ↗ [NAT (Network Address Translation)](NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
-NAPT, Network Address and Port Translation is at ↗ [NAPT (Network Address & Port Translation)](NAT%20(Network%20Address%20Translation)/NAPT%20(Network%20Address%20&%20Port%20Translation).md)
-
-
-### Security Services
-#### 👻 VPN
-🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
-
-#### ⛑️ Firewalls /IDS
 ↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
 ↗ [Network Security /Firewall](../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
 
+↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
 
-### Performance Enhancement
-↗ [SE /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+
+### Learning Resources
+🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
+
+
+### Other Resources
 
 
 
@@ -66,7 +60,6 @@ Today’s middleboxes clearly violate this separation: a NAT box, sitting betwee
 
 - While there are those who have considered such middleboxes as a bit of an archi- tectural abomination [Garfinkel 2003], 
 - others have adopted the philosophy that such middleboxes “exist for important and permanent reasons”—that they fill an important need—and that we’ll have more, not fewer, middleboxes in the future [Walfish 2004]. 
-
 
 
 

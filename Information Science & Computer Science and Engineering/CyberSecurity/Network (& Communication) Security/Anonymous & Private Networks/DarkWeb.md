@@ -60,6 +60,7 @@ Always exercise extreme caution when using publicly posted onion URLs. If you ca
 
 
 ### Dark web & Tor
+> [!links]
 > ↗ [Onion Network & Tor Projects](👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 
 For many, Tor is synonymous with the [dark web](https://www.avast.com/c-dark-web) — the unindexed part of the internet that’s only accessible with certain browsers. The connection between Tor and the dark web started with the [Silk Road, the first dark web market](https://www.avast.com/c-silk-road-dark-web-market) where customers could buy drugs and other illegal goods. When in operation, the notorious online marketplace could only be accessed through Tor.

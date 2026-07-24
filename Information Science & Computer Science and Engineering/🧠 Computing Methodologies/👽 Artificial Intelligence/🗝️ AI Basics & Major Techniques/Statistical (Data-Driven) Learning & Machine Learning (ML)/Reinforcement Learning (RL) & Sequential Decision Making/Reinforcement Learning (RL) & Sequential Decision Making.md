@@ -31,6 +31,7 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 - In later chapters, we will describe methods for learning the best policy to maximize $V_π(s0) = E [G_0|s_0, π]$.
 - More details on RL can be found in textbooks such as [SB18; KWW22; Pla22; Li23; Sze10], and reviews such as [Aru+17; FL+18; Li18; Wen18a; ID19]. For a more theoretical treatment, see e.g., [Aga+22a; MMT24; FR23]. For details on how RL relates to control theory, see e.g., [Son98; Rec19; Ber19; Mey22]; for connections to operations research, see [Pow22]; for connections to finance, see [RJ22].
 
+
 👍 👍【【强化学习的数学原理】课程：从零开始到透彻理解（完结）】 https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 教材PDF+PPT+代码网址： 
 - Mathematical Foundations of Reinforcement Learning | Shiyu Zhao
@@ -41,20 +42,23 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 3. 【Onedrive】：
 	1. https://westlakeu-my.sharepoint.com/:f:/g/personal/lyujialing_westlake_edu_cn/EgN1-0jOU61BnaTkG7zJ9nsBUdjKEi6hNrdT5n8mp-qn3g?e=3MbtmD 
 4. 其中GitHub的材料是最新的，有条件的推荐访问GitHub
-字幕制作者（中文（中国））：[西湖大学WindyLab](https://space.bilibili.com/2044042934)
+字幕制作者（中文（中国））：
+- [西湖大学WindyLab](https://space.bilibili.com/2044042934)
+课程 /书籍地图：
+- ![](../../../../../../Assets/Pics/Pasted%20image%2020260724173045.png)
+
 
 https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 Reinforcement Learning - An Introduction
 Richard S. Sutton and Andrew G. Barto
 
 
-### Other Resources
 For a list of real-world applications of RL, see e.g., https://bit.ly/42V7dIJ from Csaba szepesvari (2024), https://bit.ly/3EMMYCW from Vitaly Kurin (2022), and https://github.com/montrealrobotics/DeepRLInTheWorld, which seems to be kept up to date.
 
 https://walkinglabs.github.io/hands-on-modern-rl/preface/intro
 Hands-on Modern RL
 全书大致可分为四个部分，在下图的核心脉络中用不同的颜色呈现：
-- ![Mermaid diagram | 600](https://walkinglabs.github.io/hands-on-modern-rl/optimized/mermaid/preface/intro-03.svg)
+- ![](../../../../../../Assets/Pics/Pasted%20image%2020260724172548.png)
 - 上图是全书算法的主线。**第一部分**（灰色）带你快速上手，在 CartPole 和 DPO 上获得第一手感受。**第二部分**（蓝色）构建核心理论：左侧蓝色分支是 Value-Based——先估计每个动作能得多少分，再选得分最高的；右侧橙色分支是 Policy-Based——跳过打分，直接学习在什么状态下该做什么动作。两条路线在 Actor-Critic 处合流，由此长出 PPO。**第三部分**（绿色）进入大模型时代：PPO 正是后续所有大模型对齐与智能体算法的骨架，由此延伸出 RLHF、DPO、GRPO 和 Agentic RL。**第四部分**（紫色）展望前沿，探索多模态 RL 与具身智能。
 - 以下是各章内容的详细介绍。
 	- **第一部分包括快速入门。**
@@ -73,6 +77,9 @@ Hands-on Modern RL
 	- **第四部分将 RL 拓展到视觉、物理世界与前沿方向。**
 		- **第 11 章**把 RL 从纯文本推进到视觉-语言模型（VLM），分析多模态 RL 中视觉幻觉、奖励归因等独特问题，并介绍 Open-R1 等前沿框架在视觉推理与生成上的探索。
 		- **第 12 章**展望强化学习的未来趋势。不仅探讨从离散动作到连续动作控制，以及 Sim-to-Real 域随机化等**具身智能**的核心挑战，还覆盖了 Model-Based RL、自我博弈（Self-Play）、LLM 多智能体协作与离线 RL（Offline RL）等将彻底改变智能系统形态的前沿方向。
+
+
+### Other Resources
 
 
 

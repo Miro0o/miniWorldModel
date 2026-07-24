@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## HTTP Timeline
 ### Invention of the WWW
@@ -27,6 +30,7 @@
 
 ### HTTP/3.0 - The future
 ↗ [HTTP3](HTTP3.md)
+
 
 
 ## HTTP Connection Management Evolution

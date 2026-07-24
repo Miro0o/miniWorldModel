@@ -29,7 +29,7 @@
 
 
 ### Computer Network and Communication Security
-↗ [Channel Encryption](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Channel%20Encryption/Channel%20Encryption.md)
+↗ [Channel Encryption](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/Channel%20Encryption/Channel%20Encryption.md)
 
 ↗ [Network (& Communication) Security](../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 - ↗ [Network Security Mechanisms](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/Network%20Security%20Mechanisms.md)

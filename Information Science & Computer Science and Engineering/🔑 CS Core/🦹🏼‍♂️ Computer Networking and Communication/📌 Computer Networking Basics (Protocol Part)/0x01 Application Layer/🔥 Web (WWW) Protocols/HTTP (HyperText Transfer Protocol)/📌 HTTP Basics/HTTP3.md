@@ -9,6 +9,9 @@
 ↗ [QUIC (Quick UDP Internet Connection)](../../../../0x04%20Transport%20Layer/QUIC%20(Quick%20UDP%20Internet%20Connection)/QUIC%20(Quick%20UDP%20Internet%20Connection).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🙈 [What is HTTP3](https://en.wikipedia.org/wiki/HTTP/3) ?

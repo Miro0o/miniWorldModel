@@ -13,6 +13,9 @@
 📂 [Filesystem Hierarchy Standard | LSB Workgroup, The Linux Foundation](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 
 
+### Other Resources
+
+
 
 ## Intro
 [Linux](https://en.wikipedia.org/wiki/Linux "Linux") supports numerous file systems, but common choices for the system disk on a block device include the ext* family ([ext2](https://en.wikipedia.org/wiki/Ext2 "Ext2"), [ext3](https://en.wikipedia.org/wiki/Ext3 "Ext3") and [ext4](https://en.wikipedia.org/wiki/Ext4 "Ext4")), [XFS](https://en.wikipedia.org/wiki/XFS "XFS"), [JFS](https://en.wikipedia.org/wiki/JFS_(file_system) "JFS (file system)"), and [btrfs](https://en.wikipedia.org/wiki/Btrfs "Btrfs"). For raw flash without a [flash translation layer](https://en.wikipedia.org/wiki/Flash_translation_layer "Flash translation layer") (FTL) or [Memory Technology Device](https://en.wikipedia.org/wiki/Memory_Technology_Device "Memory Technology Device") (MTD), there are [UBIFS](https://en.wikipedia.org/wiki/UBIFS "UBIFS"), [JFFS2](https://en.wikipedia.org/wiki/JFFS2 "JFFS2") and [YAFFS](https://en.wikipedia.org/wiki/YAFFS "YAFFS"), among others. [SquashFS](https://en.wikipedia.org/wiki/SquashFS "SquashFS") is a common compressed read-only file system.

@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Hysteria2 (Protocol)](../../📌%20Proxy%20(Camouflage)%20Protocols/Hysteria2%20(Protocol).md)
+↗ [Hysteria2 Protocol (2024)](../../📌%20Proxy%20(Camouflage)%20Protocols/Hysteria2%20Protocol%20(2024).md)
 
 
 ### Other Resources

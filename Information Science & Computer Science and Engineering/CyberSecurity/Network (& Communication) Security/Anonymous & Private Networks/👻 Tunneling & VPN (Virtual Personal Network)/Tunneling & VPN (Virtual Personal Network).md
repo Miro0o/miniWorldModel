@@ -9,6 +9,10 @@
 ↗ [Computer Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 ↗ [VPS (Virtual Private Server)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/VPS%20(Virtual%20Private%20Server).md)
 ↗ [VPC (Virtual Private Cloud)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC%20(Virtual%20Private%20Cloud).md)
+↗ [vLAN & VxLAN](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+
+↗ [NAT & NAPT (Network Address & Port Translation)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation).md)
+↗ [NAT Traversal](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20Traversal/NAT%20Traversal.md)
 
 ↗ [Netowork Security /IPsec (Internet Protocol Security)](../../Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🫱🏻‍🫲🏿%20Network%20Layer%20Security%20Protocols/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
 ↗ [Network Virtualization (NV)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
@@ -32,7 +36,9 @@
 8. [👍 tailscale](https://tailscale.com) 
 
 
-### Other Resources
+### Learning Resources
+🔗 【深入浅出计算机网络 - 4.6 虚拟专用网VPN和网络地址转换NAT】 https://www.bilibili.com/video/BV1mV4y1M7Xs/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
+
 🚧 https://github.com/vpncn/vpncn.github.io
 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 
@@ -59,12 +65,44 @@
 9. [不要入坑的VPN](https://github.com/vpncn/vpncn.github.io#%E4%B8%8D%E8%A6%81%E5%85%A5%E5%9D%91%E7%9A%84vpn)
 10. [其他VPN避坑提示](https://github.com/vpncn/vpncn.github.io#%E5%85%B6%E4%BB%96vpn%E9%81%BF%E5%9D%91%E6%8F%90%E7%A4%BA)
 
+
+### Other Resources
 🏠 https://github.com/jpillora/chisel
 Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. Single executable including both client and server. Written in Go (golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network.
 
 
 
-## VPN Intro
+## Intro
+### Tunneling
+> [!links]
+> ↗ [Tunneling Protocols & Technologies](📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Tunneling_protocol
+
+In [computer networks](https://en.wikipedia.org/wiki/Computer_network "Computer network"), a **tunneling protocol** is a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol "Communication protocol") that allows for the movement of data from one network to another. They can, for example, allow private communications to be sent across a public network (such as the [Internet](https://en.wikipedia.org/wiki/Internet "Internet")), or for one network protocol to be carried over an incompatible network, through a process called [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_\(networking\) "Encapsulation (networking)").
+
+Because tunneling involves repackaging the traffic data into a different form, perhaps with [encryption](https://en.wikipedia.org/wiki/Encryption "Encryption") as standard, it can hide the nature of the traffic that is run through a tunnel.
+
+==Tunneling protocols work by using the data portion of a [packet](https://en.wikipedia.org/wiki/Network_packet "Network packet") (the [payload](https://en.wikipedia.org/wiki/Payload_\(computing\) "Payload (computing)")) to carry the packets that actually provide the service. ==Tunneling uses a layered protocol model such as those of the [OSI](https://en.wikipedia.org/wiki/Open_Systems_Interconnection "Open Systems Interconnection") or [TCP/IP](https://en.wikipedia.org/wiki/TCP/IP "TCP/IP") protocol suite, but usually violates the layering when using the payload to carry a service not normally provided by the network. Typically, the delivery protocol operates at an equal or higher level in the layered model than the payload protocol.
+
+
+**Common tunneling protocols:**
+- [IP in IP](https://en.wikipedia.org/wiki/IP_in_IP "IP in IP") (IP protocol 4): IP in IPv4/IPv6
+- [SIT/IPv6](https://en.wikipedia.org/wiki/6in4 "6in4") (IP protocol 41): IPv6 in IPv4/IPv6
+- [GRE](https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation "Generic Routing Encapsulation") (IP protocol 47): Generic Routing Encapsulation
+- [OpenVPN](https://en.wikipedia.org/wiki/OpenVPN "OpenVPN") (UDP port 1194)
+- [SSTP](https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol "Secure Socket Tunneling Protocol") (TCP port 443): Secure Socket Tunneling Protocol
+- [IPSec](https://en.wikipedia.org/wiki/IPSec "IPSec") (IP protocols 50 and 51): Internet Protocol Security
+- [L2TP](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol "Layer 2 Tunneling Protocol") (UDP port 1701): Layer 2 Tunneling Protocol
+- [L2TPv3](https://en.wikipedia.org/wiki/L2TPv3 "L2TPv3") (IP protocol 115): Layer 2 Tunneling Protocol version 3
+- [VXLAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN "Virtual Extensible LAN") (UDP port 4789): Virtual Extensible Local Area Network
+- [PPTP](https://en.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol "Point-to-Point Tunneling Protocol") (TCP port 1723 for control, [GRE](https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation "Generic Routing Encapsulation") for data): Point-to-Point Tunneling Protocol
+- [PPPoE](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_Ethernet "Point-to-Point Protocol over Ethernet") (EtherType 0x8863 for control, 0x8864 for data): Point-to-Point Protocol over Ethernet
+- [GENEVE](https://en.wikipedia.org/wiki/Generic_Network_Virtualization_Encapsulation "Generic Network Virtualization Encapsulation")
+- [WireGuard](https://en.wikipedia.org/wiki/WireGuard "WireGuard") (UDP dynamic port)
+
+
+### VPN
 在公用网络上建立专用网络，进行安全通讯。在企业网络中有广泛应用。
 **VPN**网关通过对数据包的加密和数据包目标地址的转换实现远程访问
 
@@ -120,7 +158,7 @@ Remote User to VPN 网关
 
 
 ## VPN Implementations
-↗ [VPN & NAT Implementations](VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
+↗ [VPN & NAT Traversal Implementations](VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Traversal%20Implementations.md)
 ↗ [Tunneling Protocols & Technologies](📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
 
 
@@ -148,6 +186,11 @@ Remote User to VPN 网关
 
 ### Relay Attack Protection
 ![](../../../../../Assets/Pics/Screenshot%202023-12-16%20at%204.43.29PM.png)
+
+
+
+## Tunneling & Firewall Evasion
+> Internet security: A Hands-on Approach
 
 
 

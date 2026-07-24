@@ -24,6 +24,9 @@
 【深入浅出计算机网络 - 6.4 域名系统DNS】 https://www.bilibili.com/video/BV1fT411T7NQ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Why DNS Service?

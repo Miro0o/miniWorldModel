@@ -15,6 +15,9 @@
 📄 https://en.wikipedia.org/wiki/DHCP
 
 
+### Other Resources
+
+
 
 ## Intro
 ### Static IP Configuration 🆚 Dynamic IP Configuration (via DHCP)
