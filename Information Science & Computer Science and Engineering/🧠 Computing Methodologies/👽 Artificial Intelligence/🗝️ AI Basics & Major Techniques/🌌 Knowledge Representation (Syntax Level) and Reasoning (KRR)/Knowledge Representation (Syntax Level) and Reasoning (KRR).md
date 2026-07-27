@@ -26,6 +26,9 @@
 
 
 ## Intro
+> [!links]
+> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
 
 **Knowledge representation** (**KR**) aims to model information in a structured manner to formally represent it as [knowledge](https://en.wikipedia.org/wiki/Knowledge "Knowledge") in knowledge-based systems whereas **knowledge representation** **and reasoning** (**KRR**, **KR&R**, or **KR²**) also aims to understand, reason, and interpret knowledge. KRR is widely used in the field of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") (AI) with the goal to represent [information](https://en.wikipedia.org/wiki/Information "Information") about the world in a form that a computer system can use to solve complex tasks, such as [diagnosing a medical condition](https://en.wikipedia.org/wiki/Computer-aided_diagnosis "Computer-aided diagnosis") or [having a natural-language dialog](https://en.wikipedia.org/wiki/Natural_language_user_interface "Natural language user interface"). KR incorporates findings from psychology about how humans solve problems and represent knowledge, in order to design [formalisms](https://en.wikipedia.org/wiki/Formal_system "Formal system") that make complex systems easier to design and build. KRR also incorporates findings from [logic](https://en.wikipedia.org/wiki/Logic "Logic") to automate various kinds of _reasoning_.
@@ -36,6 +39,10 @@ In a broader sense, parameterized models in [machine learning](https://en.wikip
 
 More recently, Heng Zhang et al. have demonstrated that all universal (or equally expressive and natural) knowledge representation formalisms are recursively isomorphic. This finding indicates a theoretical equivalence among mainstream knowledge representation formalisms with respect to their capacity for supporting [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence "Artificial general intelligence") (AGI). They further argue that while diverse technical approaches may draw insights from one another via recursive isomorphisms, the fundamental challenges remain inherently shared.
 
+![](../../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
 ### Knowledge-Based Agents
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.

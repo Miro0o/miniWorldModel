@@ -9,6 +9,9 @@
 ↗ [regex (Regular Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/📌%20regex%20(Regular%20Expression)/regex%20(Regular%20Expression).md)
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Regular_language
@@ -19,6 +22,7 @@ Alternatively, a regular language can be defined as a language recognized by a 
 
 
 ### Formal Definition of Finite Automata
+> [!links]
 > ↗ [(Formal) Model Checking](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md) "Transition System"
 
 > 📖  Introduction to the Theory of Computation | Sipser

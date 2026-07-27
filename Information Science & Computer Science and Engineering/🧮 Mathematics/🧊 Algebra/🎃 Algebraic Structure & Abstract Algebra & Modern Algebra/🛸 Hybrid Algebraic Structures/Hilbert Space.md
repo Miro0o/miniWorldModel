@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Banach Space](../Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Banach%20Space/Banach%20Space.md)
+↗ [Banach Space](Banach%20Space.md)
 ↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
 
 

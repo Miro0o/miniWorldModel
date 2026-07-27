@@ -1,4 +1,4 @@
-# σ-Algebra (Sigma Algebra)
+# σ-Algebra (sigma-Algebra)
 
 [TOC]
 
@@ -14,6 +14,9 @@
 
 
 ## Intro
+> [!links]
+> Not to be confused with  Σ-algebra (Sigma in upper case) in ↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
+
 > 🔗 https://zh.wikipedia.org/zh-cn/%CE%A3-%E4%BB%A3%E6%95%B0
 
 在[数学](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8 "数学")中，某个[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)") **X** 上的 **σ-代数**（英语：σ-algebra）又叫 **σ-域**（英语：σ-field），是 **X** 的某群子集合所构成的特殊[子集族](https://zh.wikipedia.org/wiki/%E5%AD%90%E9%9B%86%E6%97%8F "子集族")。这个子集族对于补集运算和[可数个](https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%95%B8%E9%9B%86 "可数集")[并集运算](https://zh.wikipedia.org/wiki/%E5%B9%B6%E9%9B%86 "并集")具有封闭性（因此对于可数个[交集运算](https://zh.wikipedia.org/wiki/%E4%BA%A4%E9%9B%86 "交集")也是封闭的）。σ-代数在测度论里可以用来定义所谓的“**可测集合**”，是[测度论](https://zh.wikipedia.org/wiki/%E6%B5%8B%E5%BA%A6%E8%AE%BA "测度论")的基础概念之一。

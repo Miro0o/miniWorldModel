@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [σ-Algebra (Sigma Algebra)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+↗ [σ-Algebra (sigma Algebra)](../../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
 
 
 ### Other Resources

@@ -46,6 +46,46 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 - [西湖大学WindyLab](https://space.bilibili.com/2044042934)
 课程 /书籍地图：
 - ![](../../../../../../Assets/Pics/Pasted%20image%2020260724173045.png)
+Third-party code and materials
+- **Code**
+	- _Python:_
+		- [https://github.com/AstonDky/Math_in_RL_Visual](https://github.com/AstonDky/Math_in_RL_Visual) (May 2026, by Keyan Dong)
+		- [https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main](https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main) (Oct 2025, by Rongqi Lu)
+		- [https://github.com/zhoubay/Code-for-Mathematical-Foundations-of-Reinforcement-Learning](https://github.com/zhoubay/Code-for-Mathematical-Foundations-of-Reinforcement-Learning) (Mar 2025, by Xibin ZHOU)
+		- [https://github.com/10-OASIS-01/minrl](https://github.com/10-OASIS-01/minrl) (Feb 2025)
+		- [https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) (by Zehong Cao, Aug 2024)
+		- [https://github.com/ziwenhahaha/Code-of-RL-Beginning](https://github.com/ziwenhahaha/Code-of-RL-Beginning) by RLGamer (Mar 2024)
+		    - Videos for code explanation: [https://www.bilibili.com/video/BV1fW421w7NH](https://www.bilibili.com/video/BV1fW421w7NH)
+		- [https://github.com/jwk1rose/RL_Learning](https://github.com/jwk1rose/RL_Learning) by Wenkang Ji (Feb 2024)
+	- _Matlab:_
+		- [https://github.com/EveryDayIsaSong/MATLAB-Code-for-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/EveryDayIsaSong/MATLAB-Code-for-Mathematical-Foundation-of-Reinforcement-Learning) (by Yucheng Mao, Jan 2026)
+	- _R:_
+		- [https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)
+	- _C++:_
+		- [https://github.com/purundong/test_rl](https://github.com/purundong/test_rl)
+- **Study notes**
+- _English:_
+	- [https://lyk-love.cn/tags/reinforcement-learning/](https://lyk-love.cn/tags/reinforcement-learning/) by a graduate student from UC Davis
+- _Chinese:_
+	- RL knowledge graph: [https://hanfei-hz.github.io/assets/files/rl_explorer.html](https://hanfei-hz.github.io/assets/files/rl_explorer.html) (by Fei Han, May 2026)
+	- [https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main) (Jan 2026)
+	- [https://zhuanlan.zhihu.com/p/692207843](https://zhuanlan.zhihu.com/p/692207843)
+	- [https://blog.csdn.net/qq_64671439/category_12540921.html](https://blog.csdn.net/qq_64671439/category_12540921.html)
+	- [http://t.csdnimg.cn/EH4rj](http://t.csdnimg.cn/EH4rj)
+	- [https://blog.csdn.net/LvGreat/article/details/135454738](https://blog.csdn.net/LvGreat/article/details/135454738)
+	- [https://xinzhe.blog.csdn.net/article/details/129452000](https://xinzhe.blog.csdn.net/article/details/129452000)
+	- [https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502](https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502)
+	- [https://blog.csdn.net/m0_64952374/category_12883361.html](https://blog.csdn.net/m0_64952374/category_12883361.html)
+There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
+- **Chinese PPT**
+	- [https://github.com/manyouma/RobotIntelli_sztu](https://github.com/manyouma/RobotIntelli_sztu) (by Manyou Ma, July 2026)
+- **Chinese videos made based on my course (Bilibili)**
+	- [https://www.bilibili.com/video/BV1DMBYB6Edo](https://www.bilibili.com/video/BV1DMBYB6Edo) （Jan 2026）
+	- [https://www.bilibili.com/video/BV1fW421w7NH](https://www.bilibili.com/video/BV1fW421w7NH)
+	- [https://www.bilibili.com/video/BV1Ne411m7GX](https://www.bilibili.com/video/BV1Ne411m7GX)
+	- [https://www.bilibili.com/video/BV1HX4y1H7uR](https://www.bilibili.com/video/BV1HX4y1H7uR)
+	- [https://www.bilibili.com/video/BV1TgzsYDEnP](https://www.bilibili.com/video/BV1TgzsYDEnP)
+	- [https://www.bilibili.com/video/BV1CQ4y1J7zu](https://www.bilibili.com/video/BV1CQ4y1J7zu)
 
 
 https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
@@ -130,8 +170,8 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 > - ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 > - ↗ [Markov Reward Model (MRM)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Reward%20Model%20(MRM).md)
 >
-> ↗ [Linear Algebra & Module-Like Algebraic Structure](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-> ↗ [Vector & Vector Space](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Vector%20&%20Vector%20Space/Vector%20&%20Vector%20Space.md)
+> ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+> ↗ [Vector & Vector Space (Linear Space)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Vector%20&%20Vector%20Space%20(Linear%20Space).md)
 
 
 ### 🎯 Classical Markovian-Based RL

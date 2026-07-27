@@ -25,7 +25,6 @@
 ![](../../../Assets/Pics/Pasted%20image%2020260123003159.png)
 <small>The Map of Control Theory <br> <a>https://engineeringmedia.com/map-of-control</a></small>
 
-
 > 🔗 https://en.wikipedia.org/wiki/Control_theory
 
 ==**Control theory** is a field of [control engineering](https://en.wikipedia.org/wiki/Control_engineering "Control engineering") and [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics") that deals with the [control](https://en.wikipedia.org/wiki/Control_system "Control system") of [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system "Dynamical system").== The aim is to develop a model or algorithm governing the application of system inputs to drive the system to a desired state, while minimizing any _delay_, _overshoot_, or _steady-state error_ and ensuring a level of control [stability](https://en.wikipedia.org/wiki/Stability_theory "Stability theory"); often with the aim to achieve a degree of [optimality](https://en.wikipedia.org/wiki/Optimal_control "Optimal control").

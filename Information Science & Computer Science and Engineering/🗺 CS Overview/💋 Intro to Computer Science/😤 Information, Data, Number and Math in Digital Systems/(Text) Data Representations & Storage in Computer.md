@@ -18,7 +18,7 @@ And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Comput
 ## (Text) Data Representation in Computer
 ### Number Representation
 Computer is designed to use binary numeral system in its mathematical model and hardware implementation, hence this influences some of its number representations in software designing, and other aspects in CS you might see aw well.
-- ↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
+- ↗ [Boolean Algebra](../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
 - ↗ [Encodings /🧮 Numeral System & Number Encoding](Encodings.md#🧮%20Numeral%20System%20&%20Number%20Encoding)
 
 This binary digits representation of numbers originally stems from information theory, and extends itself through computer /information systems to every scenarios involving the measurements of information, as the advance in human's information industry. 

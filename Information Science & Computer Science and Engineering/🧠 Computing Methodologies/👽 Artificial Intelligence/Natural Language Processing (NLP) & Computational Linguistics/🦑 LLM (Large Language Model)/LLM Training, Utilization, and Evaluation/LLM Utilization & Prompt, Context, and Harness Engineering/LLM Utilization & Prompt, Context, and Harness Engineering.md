@@ -220,148 +220,10 @@ For a variety of applications, basic prompt engineering of a very large LLM can 
 > [!links]
 > ↗ [Agentic LLMs & AI Workflow](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 > - ↗ [LLM Agentic Reasoning](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
-> - ↗ [MCP (Model Context Protocol)](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/MCP%20(Model%20Context%20Protocol)/MCP%20(Model%20Context%20Protocol).md)
+> - ↗ [MCP (Model Context Protocol)](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/LLM%20Agent%20Protocols/MCP%20(Model%20Context%20Protocol).md)
 > 
 > ↗ [Agentic AI Workflow Dev](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-> ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
-#### Agent Skills 🤔
-> [!Abstract]
-> Anthropic: "[Introducing Agent Skills](https://www.anthropic.com/news/skills)"
-> - Claude can now use _Skills_ to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.
-> - Claude will only access a skill when it's relevant to the task at hand. When used, skills make Claude better at specialized tasks like working with Excel or following your organization's brand guidelines.
-> 
-> Anthropic: ["Equipping agents for the world with Agent Skills"](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
-
-> [!Abstract] Skills Collections
-> 
-> https://github.com/ljagiello/ctf-skills
-> Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
-
-> 🔗 https://agentskills.io/home
-
-Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently.
-```
-my-skill/
-├── SKILL.md          # Required: instructions + metadata
-├── scripts/          # Optional: executable code
-├── references/       # Optional: documentation
-└── assets/           # Optional: templates, resources
-```
-
-Why Agent Skills?
-Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledge and company-, team-, and user-specific context they can load on demand. Agents with access to a set of skills can extend their capabilities based on the task they’re working on.**For skill authors**: Build capabilities once and deploy them across multiple agent products.**For compatible agents**: Support for skills lets end users give agents new capabilities out of the box.**For teams and enterprises**: Capture organizational knowledge in portable, version-controlled packages.
-
-What can Agent Skills enable?
-- **Domain expertise**: Package specialized knowledge into reusable instructions, from legal review processes to data analysis pipelines.
-- **New capabilities**: Give agents new capabilities (e.g. creating presentations, building MCP servers, analyzing datasets).
-- **Repeatable workflows**: Turn multi-step tasks into consistent and auditable workflows.
-- **Interoperability**: Reuse the same skill across different skills-compatible agent products.
-##### Lists of Agent Skills 
-https://x.com/zodchiii/status/2034924354337714642?s=20
-Top 50 Claude Skills & GitHub  Repos for AI — The Only List You  Need.
-###### Standards and Official Baselines
-> 🤖 gpt 5.5
-
-| Resource | Type | Why track it |
-|---|---|---|
-| [AgentSkills.io](https://agentskills.io/) and [agentskills GitHub org](https://github.com/agentskills) | Open standard and docs | Canonical `SKILL.md` format, docs, examples, and portability baseline. |
-| [Anthropic Agent Skills docs](https://docs.claude.com/en/docs/claude-code/skills) | Official docs | Claude Code/Claude API skill behavior, discovery paths, invocation, and authoring docs. |
-| [Anthropic engineering: Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) | Official explainer | Good conceptual overview: progressive disclosure, scripts, evaluation, and security. |
-| [anthropics/skills](https://github.com/anthropics/skills) | Official reference catalog | Example skills for documents, creative/design, development, communication, and templates. |
-| [openai/skills](https://github.com/openai/skills) | Official Codex skills catalog | Codex-focused skills catalog with system, curated, and experimental skills. |
-| [MicrosoftDocs/Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) | Official Azure skills catalog | Microsoft/Azure skills generated from Microsoft Learn, with compatibility notes for Claude, Codex, Copilot, Cursor, Gemini, and OpenCode. |
-| [Vercel Labs skills CLI](https://github.com/vercel-labs/skills) | Package manager / installer | `npx skills` installer and multi-agent support for OpenCode, Claude Code, Codex, Cursor, and others. |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Official/domain collection | Vercel-focused and web-development skills; useful examples of skill structure and install docs. |
-| [trailofbits/skills](https://github.com/trailofbits/skills) | Domain marketplace | Security research, vulnerability detection, reverse engineering, static analysis, and audit workflow skills. |
-###### Searchable Directories and Marketplaces
-> 🤖 gpt 5.5
-
-| Resource                                                                         | Type                      | Notes                                                                                                          |
-| -------------------------------------------------------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [skills.sh](https://www.skills.sh/)                                              | Agent skills directory    | Large searchable directory with install/activity signals; docs warn that listed skills still need user review. |
-| [officialskills.sh](https://officialskills.sh/)                                  | Official-team directory   | Maintained by VoltAgent team; focuses on official dev-team skills and avoids AI-generated filler.              |
-| [Awesome Skills](https://www.awesomeskills.dev/)                                 | Searchable directory      | Browse `SKILL.md` files across GitHub for Claude Code, Codex, Cursor, and related agents.                      |
-| [AwesomeSkill.ai](https://awesomeskill.ai/)                                      | Marketplace/directory     | Marketplace-style browser for Claude, Codex, ChatGPT, and coding-agent skills.                                 |
-| [Claude Skills Hub directory](https://claudeskills.info/agent-skills/directory/) | Directory                 | Central index for AI agent skills built on the open `SKILL.md` standard.                                       |
-| [SkillsDirectory.com](https://www.skillsdirectory.com/)                          | Directory                 | Positions itself around secure/verified skills for Claude, coding agents, and AI workflows.                    |
-| [MDSkill](https://mdskill.dev/)                                                  | Directory/CLI             | Search, audit, and install agent skills; includes multi-agent support and security scoring claims.             |
-| [DiscoverAISkills](https://discoveraiskills.com/)                                | Directory                 | AI skills, Claude skills, MCP servers, and agent tools in one place.                                           |
-| [skillsdir.dev](https://skillsdir.dev/)                                          | Directory/package manager | Claude-oriented standardized skill directory and package-manager style site.                                   |
-| [AgentSkillHub](https://www.agentskillhub.io/)                                   | Directory                 | Searchable Claude/agent skills library with verified labels.                                                   |
-| [SkillsGate](https://skillsgate.ai/)                                             | Visual manager            | Desktop/TUI manager powered by skills.sh public skill discovery.                                               |
-| [AgenticSkills](https://agenticskills.io/)                                       | Directory                 | AI agent skills plus MCP server discovery.                                                                     |
-| [SkillsHunt](https://skillshunt.org/)                                            | Directory                 | Searchable skills and MCP discovery, including meta/community collections.                                     |
-| [ReadFa](https://readfa.com/)                                                    | Directory                 | Cross-platform skill discovery with governance and MCP coverage.                                               |
-| [ClawHub](https://clawhub.ai/)                                                   | OpenClaw/skill sharing    | Agent skill sharing and discovery, especially relevant to OpenClaw-style local agents.                         |
-| [SkillNet](https://skillnet.openkg.cn/)                                          | Repository/directory      | Listed by the Awesome-Agent-Skills research hub as a large-scale skill repository/organization platform.       |
-| [SkillHub](https://www.skillhub.club/)                                           | Community hub             | Listed by the Awesome-Agent-Skills research hub as community skill resources.                                  |
-| [SkillsMP](https://skillsmp.com/)                                                | Marketplace               | Listed by the Awesome-Agent-Skills research hub as a marketplace-style skill ecosystem.                        |
-###### GitHub Awesome Lists and Meta-Repositories
-> 🤖 gpt 5.5
-
-| Resource                                                                                              | Focus                              | Notes                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)                   | General agent skills               | Strong first stop. Curates official and community skills from Anthropic, OpenAI, Google, Vercel, Stripe, Cloudflare, Netlify, Trail of Bits, Sentry, Expo, Hugging Face, Figma, Microsoft, and more. |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)               | Claude skills and app integrations | Large curated Claude skills/plugins list; useful when looking for skills that connect to external apps and workflows.                                                                                |
-| [GetBindu/awesome-claude-code-and-skills](https://github.com/GetBindu/awesome-claude-code-and-skills) | Claude Code skills, agents, tools  | Large topical guide covering security, marketing, documentation, Claude Code guides, workflows, and related tooling.                                                                                 |
-| [kodustech/awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills)                   | Software engineering skills        | Curated list for AI coding agents, organized by frontend, backend, DevOps, testing, security, observability, mobile, data science, and related categories.                                           |
-| [JayLZhou/Awesome-Agent-Skills](https://github.com/JayLZhou/Awesome-Agent-Skills)                     | Research hub                       | Paper list, taxonomy, benchmarks, platforms, and ecosystem resources for skill-centric LLM agents.                                                                                                   |
-| [junminhong/awesome-agent-skills](https://github.com/junminhong/awesome-agent-skills)                 | Cross-platform workflows           | Bilingual list covering Codex, Claude Code, Kiro CLI, practical categories, and getting-started material.                                                                                            |
-| [seb1n/awesome-ai-agent-skills](https://github.com/seb1n/awesome-ai-agent-skills)                     | Self-contained skills              | Library of complete, platform-agnostic skills rather than only links to external repos.                                                                                                              |
-| [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills)                                 | Persona/professional prompt packs  | Broad "expert skill" prompt-pack collection for professional roles and workflow methods. Needs quality review before use.                                                                            |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)             | OpenClaw skills                    | Large categorized list filtered from the OpenClaw skills registry. Useful for local-first/plugin-style agents.                                                                                       |
-| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)                   | Claude skills                      | Community curated Claude Skills list.                                                                                                                                                                |
-| [w95/awesome-claude-corporate-skills](https://github.com/w95/awesome-claude-corporate-skills)         | Corporate roles                    | Skills organized by executive leadership, finance, HR, marketing, sales, legal, operations, engineering, product, data, customer success, procurement, and document processing.                      |
-| [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) | Scientific research                | Agent Skills for scientific research plus references to related skill mega-lists.                                                                                                                    |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot)                                   | Copilot ecosystem                  | Adjacent collection of skills, prompts, plugins, cookbooks, custom agents, and Copilot resources.                                                                                                    |
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Subagents, adjacent                | Not strictly skills, but useful when comparing skills vs specialized subagents.                                                                                                                      |
-| [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents)                                 | Agent frameworks, adjacent         | Useful broader list for agent tools/products/frameworks; not specifically a skills directory.                                                                                                        |
-###### Direct Skill Collections Worth Tracking
-> 🤖 gpt 5.5
-
-These are not always "collections of collections", but they are large or high-signal skill libraries:
-
-| Resource | Focus |
-|---|---|
-| [anthropics/skills](https://github.com/anthropics/skills) | Official Claude examples and document skills. |
-| [openai/skills](https://github.com/openai/skills) | Official Codex skills catalog. |
-| [MicrosoftDocs/Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) | Azure and Microsoft Learn skill catalog. |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel/web-development skills. |
-| [trailofbits/skills](https://github.com/trailofbits/skills) | Security analysis, audits, static analysis, reverse engineering, smart contracts. |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Multi-category production-oriented skills across marketing, product, business, compliance, finance, docs, and design. |
-| [agent-skills-hub/agent-skills-hub](https://github.com/agent-skills-hub/agent-skills-hub) | Cross-platform skill hub for OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and others. |
-##### How to Choose a Skill Collection
-> 🤖 gpt 5.5
-
-Prefer in this order:
-1. Official vendor or project-maintainer skills for the tool/API/framework you are using.
-2. Reputable domain experts for high-risk domains, for example security skills from security firms.
-3. Curated lists that link to source repositories and expose maintainers, stars, issues, and install instructions.
-4. Directories with quality/security signals, but still inspect the actual repo.
-5. Bulk-generated skill packs only as inspiration, not as trusted install targets.
-
-Red flags:
-- No visible source repository.
-- Very broad claims like "does everything" without examples or validators.
-- Large scripts with hidden dependencies.
-- Instructions that ask the agent to ignore user/security policies.
-- Network calls to unknown domains.
-- Secret handling without explicit rules.
-- Skills that grant broad tool permissions without need.
-##### Maintenance Queries
-> 🤖 gpt 5.5
-
-Useful searches to refresh this note:
-
-```text
-site:github.com "awesome-agent-skills"
-site:github.com "awesome-claude-skills"
-site:github.com "SKILL.md" "Agent Skills"
-site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
-"Agent Skills directory" "Codex" "Claude Code"
-"skills.sh" "agent skills"
-"Agent Skills" "open standard" "SKILL.md"
-```
+> ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
 
 
 
@@ -374,17 +236,8 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 
 
 ## (LLM Agent) Harness Engineering
-> [!Abstract]
-> https://www.anthropic.com/engineering/harness-design-long-running-apps
-> Harness design for long-running application development (Published Mar 24, 2026)
-> Harness design is key to performance at the frontier of agentic coding. Here's how we pushed Claude further in frontend design and long-running autonomous software engineering.
-> 
-> https://openai.com/index/harness-engineering/
-> Harness engineering: leveraging Codex in an agent-first world By Ryan Lopopolo, Member of the Technical Staff (February 11, 2026)
-> **Our most difficult challenges now center on designing environments, feedback loops, and control systems** that help agents accomplish our goal: build and maintain complex, reliable software at scale.
+↗ [Agentic LLMs & AI Workflow](../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
 
-> [!links]
-> ↗ [Cybernetics & Control Theory](../../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
 
 ## Ref

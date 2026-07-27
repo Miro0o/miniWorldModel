@@ -467,7 +467,7 @@ tbd.
 
 这个公式的深刻性：
 - 知识之间的相通，或者说人类的思维 /（信息）宇宙的相通。这种相通是存在于信息维度中的。
-	- ↗ [Category Theory (范畴论)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+	- ↗ [Category Theory (范畴论)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 - 进一步，当 $B$ 与 $A$ 相等， $A\overset{C}{\to} A$，即出现了自我指代 /递归。
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)

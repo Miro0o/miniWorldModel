@@ -144,7 +144,7 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 > 
 > 即使在相对简单的系统中，非线性也往往与混沌和不可逆性等现象有关。虽然也有例外，非线性系统和模型往往比线性研究起来更加困难。解决非线性问题的一个常见方法是线性化，但在尝试用来研究对非线性依赖性很强的不可逆性等方面时就会出现问题[2]。
 
-↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
 
 
 ### Static Models & Dynamic Models

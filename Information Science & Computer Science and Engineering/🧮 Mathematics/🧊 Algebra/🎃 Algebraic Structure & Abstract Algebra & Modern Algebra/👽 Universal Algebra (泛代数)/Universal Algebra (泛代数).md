@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
@@ -55,7 +58,6 @@ One advantage of this restriction is that the structures studied in universal al
 ### Basic Constructions
 
 
-
 ### Motivation & Applications
 > [!links]
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
@@ -71,12 +73,28 @@ The 1956 paper by Higgins referenced below has been well followed up for its fra
 
 ## Generalization
 > [!links]
-> ↗ [Category Theory (范畴论)](../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 > ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 > operad theory
 > partial algebra
 
 > 🔗 https://en.wikipedia.org/wiki/Universal_algebra#Generalizations
+
+
+
+## Σ-Algebra (Sigma-Algebra) & Signature Structure
+> [!links]
+> ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> 
+> ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+
+> [!links]
+> Not to be confused with ↗ [σ-Algebra (sigma Algebra)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Signature_(logic)
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), a **signature** is a description of the [non-logical symbols](https://en.wikipedia.org/wiki/Non-logical_symbol "Non-logical symbol") of a [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language"). In [universal algebra](https://en.wikipedia.org/wiki/Universal_algebra "Universal algebra"), a signature lists the operations that characterize an [algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure "Algebraic structure"). In [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory"), signatures are used for both purposes. They are rarely made explicit in more philosophical treatments of logic.
 
 
 
