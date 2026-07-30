@@ -81,7 +81,22 @@ https://labs.google.com/mariner/landing
 https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/
 
 
-### Others
+### Learning Resources
+> p.s. 
+> personal opinion: shallow but ok for intro
+
+https://github.com/vasilyevdm/ai-agent-handbook
+Comprehensive guide to AI agent engineering: how 30+ frameworks actually work under the hood. Context rot, compaction, system prompt assembly, SOUL.md, agent loops, memory systems, tool sprawl, MCP, progressive disclosure, multi-agent orchestration, Plan/Act, episodic memory. Code examples throughout. Pick the right stack, avoid the common traps
+
+https://hello-agents.datawhale.cc/#/
+https://github.com/datawhalechina/hello-agents
+📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
+https://github.com/bojieli/ai-agent-book
+深入理解 AI Agent：设计原理与工程实践
+
+
+### Other Resources
 https://academy.langchain.com/courses/deep-research-with-langgraph/
 Project: Deep Research with LangGraph
 Build your own deep research agent to handle research tasks. Learn how to use LangGraph to build a multi-agent system, then use LangSmith to evaluate its performance.
@@ -120,7 +135,7 @@ Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://am
 
 ### LLM Agent
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
-<small>https://docs.phidata.com/introduction</small>
+<small>https://docs.phidata.com/introduction <br> Outdated. To be updated</small>
 
 **Problem:** LLMs have limited context and cannot take actions.  
 **Solution:** Add memory, knowledge and tools.

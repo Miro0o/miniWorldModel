@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Formal System, Formal Logics, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
 
 
 ### Other Resources
