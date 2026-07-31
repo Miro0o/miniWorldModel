@@ -479,7 +479,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 ↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 Agentic LLM and LLM OS
-- ↗ [Agentic LLMs & AI Workflow](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+- ↗ [Agentic LLMs & LLM Agent Harness](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 - ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
 
 Artificial General Intelligence?

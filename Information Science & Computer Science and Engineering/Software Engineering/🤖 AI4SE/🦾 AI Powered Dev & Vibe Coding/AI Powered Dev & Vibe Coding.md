@@ -14,7 +14,9 @@
 - ↗ [openclaw](../AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/openclaw.md)
 - ↗ [Hermes Agent](../AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/Hermes%20Agent.md)
 
-↗ [Agentic LLMs & AI Workflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+↗ [LLM–Software Research Dossier 2026](<../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/LLM-Software-Research-Dossier-2026/LLM-Software-Research-Dossier-2026.md>)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 
 ### Learning Resources

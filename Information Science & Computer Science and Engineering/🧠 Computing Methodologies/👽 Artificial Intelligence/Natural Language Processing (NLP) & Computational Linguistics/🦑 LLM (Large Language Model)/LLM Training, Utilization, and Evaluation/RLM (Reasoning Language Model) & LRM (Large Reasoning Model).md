@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM Agentic Reasoning](../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+↗ [LLM Agentic Reasoning](../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 ↗ [Neuro-Symbolic AI](../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Neuro-Symbolic%20AI/Neuro-Symbolic%20AI.md)
 ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 
@@ -147,7 +147,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 ### Agentic Reasoning
-↗ [LLM Agentic Reasoning](../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+↗ [LLM Agentic Reasoning](../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 
 
 ### Formal, Semi-Formal, and Informal Reasoning

@@ -20,6 +20,7 @@
 ↗ [AI4SE](../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
 - ↗ [AI & Gaming](../../../../../Software%20Engineering/🤖%20AI4SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 ↗ [Web Automation, Testing, and WebDriver](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Automation,%20Testing,%20and%20WebDriver/Web%20Automation,%20Testing,%20and%20WebDriver.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
@@ -65,7 +66,7 @@ Latest AI app development platform Build your agents without code and release th
 
 ## 3️⃣ LLM Automation (Searching + Generation + Others)
 > [!links]
-> ↗ [Agentic LLMs & AI Workflow](🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+> ↗ [Agentic LLMs & LLM Agent Harness](🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 > ↗ [AI Powered Dev & Vibe Coding](../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
 
 https://github.com/web-infra-dev/midscene

@@ -1,4 +1,4 @@
-# Agentic LLMs & AI Workflow
+# Agentic LLMs & LLM Agent Harness
 
 [TOC]
 
@@ -11,6 +11,7 @@
 ↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
@@ -22,7 +23,7 @@
 	- LLM App Dev Platform & AI Workflow
 		- ↗ [Dify.AI](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20Orchestration%20&%20Agents%20Dev%20Platforms/Dify.AI.md)
 		- ↗ [Coze](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20Orchestration%20&%20Agents%20Dev%20Platforms/Coze.md)
-- AI Powered IDE & Vibe Coding
+- AI Coding Assistants & Agents
 	- ↗ [OpenAI Codex](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
 	- ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
 	- ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
@@ -92,8 +93,22 @@ https://hello-agents.datawhale.cc/#/
 https://github.com/datawhalechina/hello-agents
 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
-https://github.com/bojieli/ai-agent-book
+🤔 https://github.com/bojieli/ai-agent-book
 深入理解 AI Agent：设计原理与工程实践
+**Agent = LLM + 上下文 + 工具**——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、**94 个配套实验**全部开源，欢迎亲手把实验跑一遍。
+
+|章|主题|一句话核心|正文|代码|
+|:-:|---|---|:-:|:-:|
+|1|🚀 **Agent 基础知识**|**Agent = LLM + 上下文 + 工具**；Harness 工程才是竞争力|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter1.md)|[4](https://github.com/bojieli/ai-agent-book/blob/main/chapter1/README.md)|
+|2|🎯 **上下文工程**|上下文决定能力上限：KV Cache、提示工程、Agent Skills、上下文压缩|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter2.md)|[9](https://github.com/bojieli/ai-agent-book/blob/main/chapter2/README.md)|
+|3|📚 **用户记忆和知识库**|跨会话记住用户、接入外部知识：用户记忆、RAG、结构化索引、知识图谱|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter3.md)|[13](https://github.com/bojieli/ai-agent-book/blob/main/chapter3/README.md)|
+|4|🛠️ **工具**|工具是 Agent 的双手：MCP 协议、感知/执行/协作三类工具、事件驱动异步 Agent、主动工具发现|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter4.md)|[7](https://github.com/bojieli/ai-agent-book/blob/main/chapter4/README.md)|
+|5|💻 **Coding Agent 与代码生成**|代码是「能创造新工具的工具」，生产级 Coding Agent 全景|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter5.md)|[12](https://github.com/bojieli/ai-agent-book/blob/main/chapter5/README.md)|
+|6|🎯 **Agent 的评估**|把表现变成可比较信号：评估环境、指标、统计显著性、评估驱动选型|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter6.md)|[11](https://github.com/bojieli/ai-agent-book/blob/main/chapter6/README.md)|
+|7|🧠 **模型后训练**|预训练/SFT/RL 三阶段：何时选 SFT、何时选 RL，工具调用内化、样本效率|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter7.md)|[16](https://github.com/bojieli/ai-agent-book/blob/main/chapter7/README.md)|
+|8|🔄 **Agent 的持续进化**|从运行轨迹获得学习信号，更新知识、指令、程序与参数|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter8.md)|[8](https://github.com/bojieli/ai-agent-book/blob/main/chapter8/README.md)|
+|9|🎙️ **多模态与实时交互**|从文本扩展到语音、GUI、物理世界：语音三范式、Computer Use、机器人|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter9.md)|[10](https://github.com/bojieli/ai-agent-book/blob/main/chapter9/README.md)|
+|10|🤝 **多 Agent 协作**|群体智能高于个体：协作框架、上下文共享/隔离、涌现的「Agent 社会」|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter10.md)|[8](https://github.com/bojieli/ai-agent-book/blob/main/chapter10/README.md)|
 
 
 ### Other Resources
@@ -209,7 +224,7 @@ Pi / Claude Code / OpenCode / dcode
 
 
 
-## LLM Agent Harness & Harness Engineering
+## Context Management & Harness Engineering
 > [!links]
 > ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 > 
@@ -235,11 +250,11 @@ Pi / Claude Code / OpenCode / dcode
 ### 👉 Environments
 #### System Prompt
 
-#### Context Construction
+#### Context Construction & KV Cache Friendly Prompt
+> [!lihnks]
+> ↗ [LLM Infrastructure (Deployment & Inference)](../../LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 
-#### Context Compaction
-
-#### Agent Skills 🤔
+#### Dynamic Prompts & Agent Skills
 > [!Abstract]
 > Anthropic: "[Introducing Agent Skills](https://www.anthropic.com/news/skills)"
 > - Claude can now use _Skills_ to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.
@@ -378,6 +393,9 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 "Agent Skills" "open standard" "SKILL.md"
 ```
 
+#### Context Compaction
+
+#### Memory & Knowledge 🤔
 
 #### Tool Calling, API Access, & Plugins
 
@@ -389,6 +407,38 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 #### Subagents
 
 #### Guardrails, Permissions, & Sandboxing
+
+
+
+## Agentic Ability
+### Coding Agents & LLM For Code 🤔
+> [!links]
+> ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
+> ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
+
+
+### Long-Horizon Agentic Ability & LLM Post-Training
+
+
+### Agent Self-Evolving & Continuous Evolving
+
+
+### Multi-Modal & Real-Time Interaction
+> [!links]
+> ↗ [Multimodal AI & MLLM](../../../🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+
+
+
+## Agentic LLM Evaluation
+
+
+
+## Multi-Agents System, Games, and Swarm Intelligence
+> [!Links]
+> ↗ [Agents & Multi-Agent System](../../../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+> 
+> ↗ [Multi-Agent RL (MARL)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
+> ↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 
 
 
