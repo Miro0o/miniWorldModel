@@ -11,7 +11,7 @@
 ↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
-↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
