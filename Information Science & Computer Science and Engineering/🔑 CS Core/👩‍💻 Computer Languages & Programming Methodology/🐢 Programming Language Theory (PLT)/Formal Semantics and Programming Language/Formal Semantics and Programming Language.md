@@ -38,7 +38,10 @@ https://www.zhihu.com/column/c_1463903401565749248
 🏫 [程序设计语言的形式语义 - 南京大学](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/程序设计语言的形式语义/程序设计语言的形式语义.md)
 
 https://homepage.divms.uiowa.edu/~slonnegr/
-📖 Formal Syntax and Semantics of Programming Languages: A Laboratory-Based Approach
+📖 Formal Syntax and Semantics of Programming Languages: A Laboratory-Based Approach 
+[K. Slonneger](https://www.semanticscholar.org/author/K.-Slonneger/1820253), [B. Kurtz](https://www.semanticscholar.org/author/B.-Kurtz/34914882) | Published 1 May 1995
+TLDR 
+- A panorama of techniques in formal syntax, operational semantics and formal semantics of programming languages is presented, accessible to anyone with a basic grounding in discrete mathematics and programming language concepts.
 Chapter 1: Specifying Syntax
 - 1.1 Grammars and BNF
 	- Context-free Grammars
@@ -369,6 +372,7 @@ https://link.springer.com/book/10.1007/978-1-84628-692-6
 
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 #### Formal Semantics (FS)
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic) /Semantic & The Semantics of Mathematical Logics](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Semantic%20&%20The%20Semantics%20of%20Mathematical%20Logics)
 
 > 📖 Nielson, Hanne Riis; Nielson, Flemming (2007). Semantics with Applications.

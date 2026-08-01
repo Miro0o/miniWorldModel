@@ -1,4 +1,4 @@
-# AI For Science (AI4SCI)
+# AI For Science (AI4S)
 
 [TOC]
 

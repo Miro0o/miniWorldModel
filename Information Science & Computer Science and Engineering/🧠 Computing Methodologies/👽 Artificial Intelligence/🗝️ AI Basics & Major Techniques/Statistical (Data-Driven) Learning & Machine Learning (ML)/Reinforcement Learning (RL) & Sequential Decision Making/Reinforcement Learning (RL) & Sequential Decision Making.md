@@ -238,5 +238,9 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 
 
 
+## General RL, AIXI, and Universal AGI
+
+
+
 ## Ref
 [Make Post Train Solid Again - ybq的文章 - 知乎]: https://zhuanlan.zhihu.com/p/1995265459285694156

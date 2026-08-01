@@ -1,4 +1,4 @@
-# RLVR (RL with Verifiable Rewards)
+# RLVR & RLVP (RL with Verifiable Rewards & Path)
 
 [TOC]
 

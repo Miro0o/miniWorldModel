@@ -16,7 +16,7 @@
 
 ↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
 
-↗ [Human-Factor](../../🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM-Software-Security-Research-Dossier-2026/Human-Factor.md)
+↗ [Human-Factor](../../🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/Human-Factor.md)
 
 
 ### DeadLines

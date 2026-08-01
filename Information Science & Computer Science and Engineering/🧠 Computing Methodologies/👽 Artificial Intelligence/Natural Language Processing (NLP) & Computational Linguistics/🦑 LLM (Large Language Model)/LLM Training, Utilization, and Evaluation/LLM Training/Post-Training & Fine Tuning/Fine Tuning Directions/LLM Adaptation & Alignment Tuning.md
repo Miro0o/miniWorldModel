@@ -40,9 +40,9 @@ As we can see, these criteria are quite subjective, and are developed based on h
 ### By Alignment Methods
 #### Reinforcement Learning Based 
 ↗ [RLFT (Reinforcement Learning Fine Tuning)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
-- ↗ [RLVR (RL with Verifiable Rewards)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLVR%20(RL%20with%20Verifiable%20Rewards).md)
-- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLHF%20(RL%20from%20Human%20Feedback).md)
-- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLAIF%20(RL%20from%20AI%20Feedback).md)
+- ↗ [RLVR & RLVP (RL with Verifiable Rewards & Path)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLVR%20&%20RLVP%20(RL%20with%20Verifiable%20Rewards%20&%20Path).md)
+- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
+- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLAIF%20(RL%20from%20AI%20Feedback).md)
 #### Supervised Learning Based
 ↗ [SFT (Supervised Fine Tuning)](../Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
 
@@ -65,7 +65,7 @@ In existing work, there are mainly three kinds of approaches to collecting feedb
 
 In the following, we focus on a well-known technique, reinforcement learning from human feedback (RLHF), which has been widely used in the recent powerful LLMs such as ChatGPT. As discussed below, the alignment criteria introduced in Section 5.2.1 can be fulfilled by learning from human feedback on the responses of LLMs to users’ queries.
 ##### Reinforcement Learning from Human Feedback (RLHF)
-↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLHF%20(RL%20from%20Human%20Feedback).md)
+↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
 
 #### 🎯 Alignment With Non-Human Feedback
 
