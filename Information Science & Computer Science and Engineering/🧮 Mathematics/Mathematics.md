@@ -856,9 +856,9 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 	- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
 - ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
-↗ [Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-- ↗ [Graph Basics](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-- ↗ [Algebraic Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+↗ [Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+- ↗ [Graph Basics](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+- ↗ [Algebraic Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 	- ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
@@ -939,10 +939,10 @@ The field of statistics is a mathematical application that is employed for the c
 
 Computational mathematics is the study of [mathematical problems](https://en.wikipedia.org/wiki/Mathematical_problem "Mathematical problem") that are typically too large for human, numerical capacity. [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis") studies methods for problems in [analysis](https://en.wikipedia.org/wiki/Analysis_\(mathematics\) "Analysis (mathematics)") using [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis "Functional analysis") and [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory "Approximation theory"); numerical analysis broadly includes the study of [approximation](https://en.wikipedia.org/wiki/Approximation "Approximation") and [discretization](https://en.wikipedia.org/wiki/Discretization "Discretization") with special focus on [rounding errors](https://en.wikipedia.org/wiki/Rounding_error "Rounding error"). Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic-[matrix](https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerical linear algebra")-and-[graph theory](https://en.wikipedia.org/wiki/Graph_theory "Graph theory"). Other areas of computational mathematics include [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra "Computer algebra") and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation").
 ###### 👉 Operational Research & Optimization
-↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-- ↗ [Game Theory & Decision Making in Multi-Agents Environments](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
-- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+↗ [Operations Research (OR) & Rational Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Rational%20Decision-Making.md)
+- ↗ [Game Theory & Multi-Agent Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+	- ↗ [Convex Optimization (CO)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
 ###### 👉 etc.
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#

@@ -8,7 +8,6 @@
 ### Related Topics
 
 
-
 ### Commonly Used Datasets for Fine-tuning
 
 
@@ -62,72 +61,16 @@ In real pipelines:
 So the distinction is **conceptual**, not strictly procedural.
 
 
-### Instruction Tuning
+### Fine Tuning Directions /Objectives
 ↗ [Instruction Tuning](Fine%20Tuning%20Directions/Instruction%20Tuning.md)
-
-> 🤖 GPT-5
-
-What it is
-Instruction tuning trains the model on **(instruction → response)** pairs so it learns to _follow user commands_.
-
-Example data:
-```
-Instruction: Summarize the following text in one paragraph. 
-Response: ...
-```
-
-Goal
-Make the model:
-- Understand what the user wants
-- Produce task-appropriate outputs
-- Generalize to _unseen instructions_
-
-What it improves
-- Task following
-- Zero-shot / few-shot performance
-- Helpfulness and usability
-
-Typical datasets
-- Human-written instructions (e.g. early InstructGPT)
-- Synthetic instruction data (self-instruct, Alpaca-style)
-- Task mixtures (QA, summarization, reasoning, coding)
-
-Key property
-After instruction tuning: The model **responds to prompts as commands, not just text continuation**
-
-
-### Alignment Tuning
 ↗ [LLM Adaptation & Alignment Tuning](Fine%20Tuning%20Directions/LLM%20Adaptation%20&%20Alignment%20Tuning.md)
 
-> 🤖 GPT-5
 
-What it is
-Alignment tuning trains the model to:
-- Follow **human preferences**
-- Respect **safety norms**
-- Avoid **harmful, misleading, or unwanted behavior**
-This is less about _task execution_ and more about _behavioral constraints_.
+### Fine Tuning Methods
+↗ [SFT (Supervised Fine Tuning)](Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
 
-Goal
-Make the model:
-- Helpful _and_ safe
-- Honest about uncertainty
-- Polite, non-toxic, non-manipulative
-- Resistant to misuse
-
-What it improves
-- Safety (refusals, moderation)
-- Tone and social behavior
-- Preference alignment (“this answer is better than that one”)
-
-Typical methods
-- **RLHF** (Reinforcement Learning from Human Feedback)
-- **RLAIF** (AI feedback instead of humans)
-- **Preference optimization** (DPO, IPO, KTO, etc.)
-- Constitutional AI
-
-Key property
-After alignment tuning: The model chooses **acceptable answers among many valid ones**
+↗ [RLFT (Reinforcement Learning Fine Tuning)](Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
+↗ [LLM and RL](../../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/LLM%20and%20RL.md)
 
 
 

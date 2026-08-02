@@ -11,7 +11,7 @@
 ↗ [AI Embodiment & World Model (WM)](../../../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
-↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
+↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
 ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
@@ -109,6 +109,77 @@ https://github.com/datawhalechina/hello-agents
 |8|🔄 **Agent 的持续进化**|从运行轨迹获得学习信号，更新知识、指令、程序与参数|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter8.md)|[8](https://github.com/bojieli/ai-agent-book/blob/main/chapter8/README.md)|
 |9|🎙️ **多模态与实时交互**|从文本扩展到语音、GUI、物理世界：语音三范式、Computer Use、机器人|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter9.md)|[10](https://github.com/bojieli/ai-agent-book/blob/main/chapter9/README.md)|
 |10|🤝 **多 Agent 协作**|群体智能高于个体：协作框架、上下文共享/隔离、涌现的「Agent 社会」|[读](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter10.md)|[8](https://github.com/bojieli/ai-agent-book/blob/main/chapter10/README.md)|
+Table of Contents
+Chapter 1  Fundamentals of AI Agents
+  1.1 What Is an AI Agent?
+  1.2 Agent = LLM + Context + Tools
+  1.3 The Evolution from LLM Applications to Agents
+  1.4 Agent Architecture and Core Components
+  1.5 Agent Harness Engineering
+Chapter 2  Context Engineering
+  2.1 The Importance of Context
+  2.2 Context Windows and KV Cache
+  2.3 Prompt Engineering
+  2.4 Agent Skills
+  2.5 Context Compression
+  2.6 Context Management Strategies
+Chapter 3  User Memory and Knowledge Bases
+  3.1 Why Agents Need Memory
+  3.2 User Memory Systems
+  3.3 Retrieval-Augmented Generation (RAG)
+  3.4 Structured Knowledge Indexing
+  3.5 Knowledge Graphs
+  3.6 Building Long-Term Memory for Agents
+Chapter 4  Tools
+  4.1 Tools as the Hands of an Agent
+  4.2 Model Context Protocol (MCP)
+  4.3 Perception Tools
+  4.4 Action Tools
+  4.5 Collaboration Tools
+  4.6 Event-Driven Asynchronous Agents
+  4.7 Autonomous Tool Discovery
+Chapter 5  Coding Agents and Code Generation
+  5.1 Code as a Tool That Creates New Tools
+  5.2 The Rise of Coding Agents
+  5.3 Architecture of Coding Agents
+  5.4 Code Understanding and Generation
+  5.5 Software Engineering Workflows
+  5.6 Building Production-Level Coding Agents
+Chapter 6  Evaluation of AI Agents
+  6.1 Why Agent Evaluation Matters
+  6.2 Evaluation Environments
+  6.3 Evaluation Metrics
+  6.4 Benchmarking Agents
+  6.5 Statistical Significance in Evaluation
+  6.6 Evaluation-Driven Agent Selection
+Chapter 7  Model Post-Training
+  7.1 Pre-Training, Supervised Fine-Tuning, and Reinforcement Learning
+  7.2 When to Use SFT
+  7.3 When to Use Reinforcement Learning
+  7.4 Tool-Use Training
+  7.5 Improving Sample Efficiency
+  7.6 Training Models for Agent Capabilities
+Chapter 8  Continuous Evolution of Agents
+  8.1 Learning from Agent Trajectories
+  8.2 Updating Agent Knowledge
+  8.3 Updating Instructions and Policies
+  8.4 Program Evolution
+  8.5 Parameter Evolution
+  8.6 Self-Improving Agents
+Chapter 9  Multimodal and Real-Time Interaction
+  9.1 Beyond Text-Based Agents
+  9.2 Voice Interaction
+  9.3 Multimodal Understanding
+  9.4 GUI Interaction and Computer Use
+  9.5 Agents in the Physical World
+  9.6 Robotics Applications
+Chapter 10  Multi-Agent Collaboration
+  10.1 Why Multiple Agents?
+  10.2 Multi-Agent Architectures
+  10.3 Agent Communication
+  10.4 Context Sharing and Isolation
+  10.5 Cooperation and Coordination
+  10.6 Emergent Agent Societies
 
 
 ### Other Resources
@@ -143,7 +214,7 @@ Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://am
 ↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
 ↗ [Agents & Multi-Agent System](../../../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
 
-↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw.md)
 
@@ -227,15 +298,6 @@ Pi / Claude Code / OpenCode / dcode
 ## Context Management & Harness Engineering
 > [!links]
 > ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
-> 
-> ↗ [OpenAI Agents SDK](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/OpenAI%20Agents%20SDK.md)
-> ↗ [Claude Agent SDK](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/Claude%20Agent%20SDK.md)
-> 
-> ↗ [OpenAI Codex](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
-> ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
-> ↗ [Pi](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Pi.md)
-> ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
-> ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
 
 > [!Abstract]
 > https://www.anthropic.com/engineering/harness-design-long-running-apps
@@ -415,6 +477,12 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 > [!links]
 > ↗ [AI4SE](../../../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 > ↗ [AI4Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
+> 
+> ↗ [AI Powered Dev & Vibe Coding](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
+> ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
+> ↗ [OpenAI Codex](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
+> ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
+> ↗ [DeepSeek Reasonix](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/DeepSeek%20Reasonix.md)
 
 
 ### Long-Horizon Agentic Ability & LLM Post-Training
@@ -426,6 +494,25 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 ### Multi-Modal & Real-Time Interaction
 > [!links]
 > ↗ [Multimodal AI & MLLM](../../../🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
+
+
+
+## Agent Implementation 🤔
+> [!Links]
+> ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
+> 
+> ↗ [OpenAI Agents SDK](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/OpenAI%20Agents%20SDK.md)
+> ↗ [Claude Agent SDK](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/Claude%20Agent%20SDK.md)
+> 
+> ↗ [OpenAI Codex](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
+> ↗ [Claude Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
+> ↗ [Pi](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Pi.md)
+> ↗ [OpenCode](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
+> ↗ [Kimi Code](../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
+> 
+> ↗ [openclaw](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/openclaw.md)
+> ↗ [Hermes Agent](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/Hermes%20Agent.md)
+> ↗ [nanobot](../../../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/nanobot.md)
 
 
 

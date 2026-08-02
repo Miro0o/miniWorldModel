@@ -44,7 +44,11 @@ https://arxiv.org/abs/2504.07091
 ↗ [Reinforcement Learning (RL) & Sequential Decision Making](Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
 
 
-### RL for LLM Overview
+### RL for LLM Overview 🤔
+> 🤖 GPT-6 sol
+> https://chatgpt.com/share/6a6deb8e-3440-83ed-afd5-5f73c8fca026
+
+![rl_llm_regime_algorithm_map_v4](../../../../../../Assets/Cheat_Sheets/rl_llm_regime_algorithm_map_v4.pdf)
 
 
 ### RL at Different Training Stages of LLM
@@ -87,6 +91,9 @@ RLFT can be preferable to SFT for several reasons. First, it is often the case t
 
 
 ## Foundational RL
+### Q-Learning
+
+
 ### REINFORCE
 ↗ [REINFORCE](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20Algorithms/REINFORCE.md)
 
@@ -101,16 +108,17 @@ RLFT can be preferable to SFT for several reasons. First, it is often the case t
 
 
 ## Evolution of RL For LLM
-### Deepseek & GRPO
+### Representative RL For LLM
+#### DeepSeek & GRPO
 ↗ [GRPO (Group Relative PPO)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20Algorithms/GRPO%20(Group%20Relative%20PPO).md)
 
-### RLOO
+#### RLOO
 
-### KTO
+#### KTO
 
-### IPO
+#### IPO
 
-### ORPO
+#### ORPO
 
 
 ### Self-Play and Iterative Methods
