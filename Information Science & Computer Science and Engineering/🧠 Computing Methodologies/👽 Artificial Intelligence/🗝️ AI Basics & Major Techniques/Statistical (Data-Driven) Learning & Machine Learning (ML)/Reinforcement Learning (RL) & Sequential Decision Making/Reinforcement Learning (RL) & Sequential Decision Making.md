@@ -184,7 +184,7 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 ##### Bellman Equation
 > [!links]
 > ↗ [Bellman-Ford Algorithm](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Graphs%20(and%20Trees)%20Problems/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
-> ↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
+> ↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Bellman_equation
 ##### Bellman Optimal Equation (BOE)

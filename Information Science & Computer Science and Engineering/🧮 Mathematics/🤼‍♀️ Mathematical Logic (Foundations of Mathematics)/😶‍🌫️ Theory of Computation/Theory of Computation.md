@@ -242,7 +242,7 @@ A counting problem can be represented by a function _f_ from {0, 1}\* to the 
 #### Optimization Problems
 > [!links]
 > ↗ [Mathematical Optimization (Programming)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-> ↗ [Multi-Objective Optimization (Pareto Optimization)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
+> ↗ [Multi-Objective Optimization (MOO) (Pareto Optimization)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization).md)
 > ↗ [Combinatorial & Network Optimization](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20&%20Combinatorial%20Optimization/Combinatorial%20&%20Network%20Optimization/Combinatorial%20&%20Network%20Optimization.md)
 > - ↗ [Assignment Problems](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20&%20Combinatorial%20Optimization/Combinatorial%20&%20Network%20Optimization/Assignment%20Problems/Assignment%20Problems.md)
 > 

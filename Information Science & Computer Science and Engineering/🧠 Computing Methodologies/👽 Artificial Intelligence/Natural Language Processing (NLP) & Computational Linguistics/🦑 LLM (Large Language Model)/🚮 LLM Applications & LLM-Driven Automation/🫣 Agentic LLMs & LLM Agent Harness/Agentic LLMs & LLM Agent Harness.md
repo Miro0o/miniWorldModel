@@ -524,8 +524,8 @@ site:github.com "Codex" "Claude Code" "Cursor" "SKILL.md"
 > [!Links]
 > ↗ [Agents & Multi-Agent System](../../../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
 > 
-> ↗ [Multi-Agent RL (MARL)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
 > ↗ [Games & Search in Multi-Agents Environment](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
+> ↗ [Multi-Agent RL (MARL)](../../../../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Multi-Agent%20RL%20(MARL)/Multi-Agent%20RL%20(MARL).md)
 
 
 

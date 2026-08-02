@@ -9,7 +9,7 @@
 ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
 
 ↗ [Mathematical Optimization (Programming)](../../Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-- ↗ [Multi-Objective Optimization (Pareto Optimization)](../../Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
+- ↗ [Multi-Objective Optimization (MOO) (Pareto Optimization)](../../Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization).md)
 
 
 ### Other Resources

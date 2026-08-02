@@ -8,9 +8,8 @@
 ### Related Topics
 ↗ [Multi-Criteria Decision-Making (MCDM) & Analysis (MCDA)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Multi-Criteria%20Decision-Making%20(MCDM)%20&%20Analysis%20(MCDA)/Multi-Criteria%20Decision-Making%20(MCDM)%20&%20Analysis%20(MCDA).md)
 ↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-- ↗ [Convex Optimization (CO)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
-	- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
-- ↗ [Multi-Objective Optimization (Pareto Optimization)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
+- ↗ [Multi-Objective Optimization (MOO) (Pareto Optimization)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization).md)
+- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 
 
 ### Learning Resources
@@ -18,9 +17,11 @@ https://oi-wiki.org/dp/
 本章将介绍介绍动态规划（Dynamic Programming, DP）及其解决的问题、根据其设计的算法及优化。
 
 
+### Other Resources
+
+
 
 ## Intro
-### Quick Introduction to Dynamic Programming (DP)
 > 🔗 https://cp-algorithms.com/dynamic_programming/intro-to-dp.html
 
 ==The essence of dynamic programming is to avoid repeated calculation with **memoization**.== That's read "memoization" (like we are writing in a memo pad) not memorization.
@@ -121,15 +122,6 @@ One of the tricks to getting better at dynamic programming is to study some of t
 | Longest Palindromic Subsequence                 | Finding the Longest Palindromic Subsequence (LPS) of a given string.                                                                                                                                                             |
 | Rod Cutting                                     | Given a rod of length  $n$  units, Given an integer array cuts where cuts[i] denotes a position you should perform a cut at. The cost of one cut is the length of the rod to be cut. What is the minimum total cost of the cuts. |
 | Edit Distance                                   | The edit distance between two strings is the minimum number of operations required to transform one string into the other. Operations are ["Add", "Remove", "Replace"]                                                           |
-
-
-### Academic Background of DP
-#### Multi-Objective Optimization
-↗ [Multi-Objective Optimization (Pareto Optimization)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(Pareto%20Optimization).md)
-#### Convex Optimization Programming (COP) & Dynamic Programming (DP)
-↗ [Mathematical Optimization (Programming)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-- ↗ [Convex Optimization (CO)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
-	- ↗ [Dynamic Programming (DP)](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 
 
 

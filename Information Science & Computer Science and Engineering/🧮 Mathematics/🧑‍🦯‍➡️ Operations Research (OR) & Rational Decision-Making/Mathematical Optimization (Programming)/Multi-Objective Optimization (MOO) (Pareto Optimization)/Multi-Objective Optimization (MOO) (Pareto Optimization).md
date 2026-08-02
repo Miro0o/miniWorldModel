@@ -1,4 +1,4 @@
-# Multi-Objective Optimization (Pareto Optimization)
+# Multi-Objective Optimization (MOO) (Pareto Optimization)
 
 [TOC]
 
