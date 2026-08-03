@@ -259,7 +259,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ##### Linear Function
 
 ##### Activation Function
-↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions)/Activation%20Functions%20(Transfer%20Functions).md)
+↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
 
 #### Perceptron
 > 🔗 https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea
@@ -308,7 +308,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
 > [!links]
-> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions/Loss%20Functions.md)
+> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 #### Gradient Descent & Optimization
@@ -316,7 +316,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > 
 > ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
-> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers/Optimizers.md)
+> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 

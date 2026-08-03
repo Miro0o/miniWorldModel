@@ -16,7 +16,7 @@
 
 ↗ [Cluster Scheduling & Orchestration](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/Cluster%20Scheduling%20&%20Orchestration.md)
 
-↗ [Scheduling & Sequencing](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20&%20Combinatorial%20Optimization/Combinatorial%20&%20Network%20Optimization/Scheduling%20&%20Sequencing/Scheduling%20&%20Sequencing.md)
+↗ [Scheduling & Sequencing](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Scheduling%20&%20Sequencing/Scheduling%20&%20Sequencing.md)
 
 
 ### Learning Resources

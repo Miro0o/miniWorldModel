@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Function & Mapping of Set](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Linear Algebra Problems](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
+↗ [Linear Algebra Problems](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Linear%20Algebra%20Problems/Linear%20Algebra%20Problems.md)
 
 ↗ [Vector & Vector Space (Linear Space)](Vector%20&%20Vector%20Space%20(Linear%20Space)/Vector%20&%20Vector%20Space%20(Linear%20Space).md)
 ↗ [Tensor & Tensor Space](Vector%20&%20Vector%20Space%20(Linear%20Space)/Tensor%20&%20Tensor%20Space/Tensor%20&%20Tensor%20Space.md)

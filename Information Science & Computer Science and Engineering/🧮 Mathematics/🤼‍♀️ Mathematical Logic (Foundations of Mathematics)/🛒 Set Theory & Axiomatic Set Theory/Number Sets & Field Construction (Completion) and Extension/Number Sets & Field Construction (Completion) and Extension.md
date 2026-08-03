@@ -17,7 +17,7 @@
 ## Intro
 ### Closure & Closure Operator
 > [!lnks]
-> ↗ [Closure (CS & PL)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Features/Closure%20(CS%20&%20PL).md)
+> ↗ [Functions & Closures](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Functions%20&%20Closures.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Closure_(mathematics)
 

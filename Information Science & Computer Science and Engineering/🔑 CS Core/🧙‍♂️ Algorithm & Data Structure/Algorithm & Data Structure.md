@@ -18,7 +18,7 @@
 - ↗ [Encodings](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
-- ↗ [Operations Research (OR) & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Rational%20Decision-Making.md)
+- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
 ↗ [Modeling and Simulation](../../🧠%20Computing%20Methodologies/🧬%20Scientific%20Computing/🗿%20Modeling%20and%20Simulation/Modeling%20and%20Simulation.md)
@@ -221,7 +221,7 @@ Algorithm Basics
 
 ↗ [Data Structures](📌%20Algorithms%20Basics%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
 
-↗ [Classic Algorithms by Problems & Contexts](Classic%20Algorithms%20by%20Problems%20&%20Contexts/Classic%20Algorithms%20by%20Problems%20&%20Contexts.md)
+↗ [Algorithms Implementation For Classical Problems](Algorithms%20Implementation%20For%20Classical%20Problems/Algorithms%20Implementation%20For%20Classical%20Problems.md)
 - etc.
 
 ↗ [Other Topics in Algorithms](Other%20Topics%20in%20Algorithms/Other%20Topics%20in%20Algorithms.md)

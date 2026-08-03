@@ -241,12 +241,12 @@ A [counting problem](https://en.wikipedia.org/wiki/Counting_problem_\(complexit
 A counting problem can be represented by a function _f_ from {0, 1}\* to the nonnegative integers. For a search relation _R_, the counting problem associated to _R_ is the function $$f_R(x) = |{y: R(x, y) }|$$
 #### Optimization Problems
 > [!links]
-> ↗ [Mathematical Optimization (Programming)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-> ↗ [Multi-Objective Optimization (MOO) (Pareto Optimization)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization).md)
-> ↗ [Combinatorial & Network Optimization](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20&%20Combinatorial%20Optimization/Combinatorial%20&%20Network%20Optimization/Combinatorial%20&%20Network%20Optimization.md)
-> - ↗ [Assignment Problems](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20&%20Combinatorial%20Optimization/Combinatorial%20&%20Network%20Optimization/Assignment%20Problems/Assignment%20Problems.md)
+> ↗ [Mathematical Optimization (Programming)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Multi-Objective Optimization (MOO) (Pareto Optimization)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization)/Multi-Objective%20Optimization%20(MOO)%20(Pareto%20Optimization).md)
+> ↗ [Combinatorial Optimization](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Combinatorial%20Optimization.md)
+> - ↗ [Matching & Assignment Problems](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Discrete%20Optimization/Combinatorial%20Optimization/Matching%20&%20Assignment%20Problems/Matching%20&%20Assignment%20Problems.md)
 > 
-> ↗ [Convex Optimization (CO)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
+> ↗ [Convex Optimization (CO)](../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Computational_problem#Optimization_problem
 

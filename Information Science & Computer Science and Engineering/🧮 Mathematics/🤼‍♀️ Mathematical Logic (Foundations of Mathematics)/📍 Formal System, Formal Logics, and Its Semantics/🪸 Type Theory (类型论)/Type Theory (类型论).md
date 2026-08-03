@@ -9,9 +9,8 @@
 ↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
-↗ [Type & Formats](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Features/Type%20&%20Formats.md)
+↗ [Type Systems and Static Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/🦖%20Type%20Systems%20and%20Static%20Semantics/Type%20Systems%20and%20Static%20Semantics.md)
 ↗ [Type Analysis](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
-↗ [Type and Effect Systems](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
 
 ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -33,7 +32,25 @@ https://plato.stanford.edu/entries/type-theory/
 - [Other Internet Resources](https://plato.stanford.edu/entries/type-theory/#Oth)
 - [Related Entries](https://plato.stanford.edu/entries/type-theory/#Rel)
 
-👍 https://thzt.github.io/categories/Logic/
+
+👍 https://thzt.github.io/2017/09/05/type-1/
+类型（type），是编程语言中一个经常被人们提及的概念，当我们看待一门编程语言的时候，言必谈之类型系统（type system）。
+
+它到底是显式类型的（explicit typing），还是隐式类型的（implicit typing），是静态类型的（static typing），还是动态类型的（dynamic typing），类型检查（type check）是较强的（stronger），还是较弱的（weaker）。它是否支持高阶类型（high-order type），是否支持递归类型（recusive type），是否支持子类型（subtype），是否支持多态（polymorphism）。等等，都是与类型系统相关的问题。
+然而，我发现理解它们并不容易，我们欠缺最基本的数理逻辑和证明论相关的知识。
+
+类型系统，可以看做是附着在语言语法之上的一套符号证明系统。
+
+> In programming languages, a type system is a set of rules that assigns a property called type to the various constructs of a computer program, such as variables, expressions, functions or modules.
+
+给表达式确定类型的过程，相当于对程序应该具备的属性做形式证明，因此，数理逻辑是我们的朋友。
+
+另一方面，从语义（semantics）角度对类型进行理解，我们会遇到更大的阻碍，因为，这又涉及到了公理集合论和代数学相关的必备知识。
+
+本系列文章，我计划从无类型λ演算开始，逐步介绍简单类型（simply typed）λ演算，介绍递归类型和不动点（fixed point）之间关系，介绍组合子逻辑（combinatory logic）。然后，回归到本原，学习命题逻辑和一阶谓词逻辑相关的内容，建立起逻辑学与类型理论之间的桥梁。
+
+时间允许的话，我们还可以探讨模型论相关的内容，在补充了代数学相关的内容之后，我们就可以讨论CPO，Henkin模型，Kripke模型，以及笛卡儿闭范畴（CCC）了。
+
 - [你好，类型（一）：开篇](https://thzt.github.io/2017/09/05/type-1/)
 - [你好，类型（二）：Lambda calculus](https://thzt.github.io/2017/09/06/type-2/)
 - [你好，类型（三）：Combinatory logic](https://thzt.github.io/2017/09/07/type-3/)
@@ -96,6 +113,9 @@ Table of Contents
 
 
 ## Intro
+> [!links]
+> ↗ [Type Systems and Static Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/🦖%20Type%20Systems%20and%20Static%20Semantics/Type%20Systems%20and%20Static%20Semantics.md)
+
 > 🔗 https://en.wikipedia.org/wiki/Type_theory
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **type theory** is the [formal presentation](https://en.wikipedia.org/wiki/Formal_system "Formal system") of a specific [type system](https://en.wikipedia.org/wiki/Type_system "Type system"). Type theory is the academic study of type systems.
@@ -126,6 +146,17 @@ Most [computerized proof-writing systems](https://en.wikipedia.org/wiki/Proof_a
 The [type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory") was initially created to avoid paradoxes in a variety of formal [logics](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [rewrite systems](https://en.wikipedia.org/wiki/Rewrite_system "Rewrite system"). Later, type theory referred to a class of [formal systems](https://en.wikipedia.org/wiki/Formal_systems "Formal systems"), some of which can serve as alternatives to [naive set theory](https://en.wikipedia.org/wiki/Naive_set_theory "Naive set theory") as a foundation for all mathematics.
 
 It has been tied to formal mathematics since _[Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica "Principia Mathematica")_ to today's [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant").
+
+
+### Mathematical Logic
+> 🔗 https://en.wikipedia.org/wiki/Type_theory#Logic
+
+A type theory is a [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), which is to say it is a collection of [rules of inference](https://en.wikipedia.org/wiki/Rule_of_inference "Rule of inference") that result in [judgments](https://en.wikipedia.org/wiki/Judgment_\(mathematical_logic\) "Judgment (mathematical logic)"). Most logics have judgments asserting "The [proposition](https://en.wikipedia.org/wiki/Proposition "Proposition") $\varphi$ is true", or "The [formula](https://en.wikipedia.org/wiki/Propositional_formula "Propositional formula") $\varphi$ is a [well-formed formula](https://en.wikipedia.org/wiki/Well-formed_formula "Well-formed formula")". A type theory has judgments that define types and assign them to a collection of formal objects, known as terms. A term and its type are often written together as ⁠term: $\mathrm {term} :{\mathsf {type}}$
+#### Terms
+
+#### Judgement
+
+#### Rules of Inference
 
 
 ### Type Systems for Lambda Calculus

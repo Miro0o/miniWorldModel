@@ -75,7 +75,7 @@ Hence, invoking `sat(phi)` will recursively compute the satisfaction sets for al
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.20.40.png)
 
-We can apply **memoisation** (recall ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)) to avoid recomputing twice the same satisfaction sets. How?
+We can apply **memoisation** (recall ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)) to avoid recomputing twice the same satisfaction sets. How?
 - Store results of expensive function calls in a table (hashing)
 - Use the results whenever the call occurs again
 
