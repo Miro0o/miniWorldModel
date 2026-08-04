@@ -14,7 +14,7 @@
 
 
 ## Intro
-> [!links]
+> [!TIP]
 > Not to be confused with  Σ-algebra (Sigma in upper case) in ↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%CE%A3-%E4%BB%A3%E6%95%B0

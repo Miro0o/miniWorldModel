@@ -91,7 +91,7 @@ The 1956 paper by Higgins referenced below has been well followed up for its fra
 > 
 > ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
-> [!links]
+> [!TIP]
 > Not to be confused with ↗ [σ-Algebra (sigma Algebra)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Signature_(logic)
