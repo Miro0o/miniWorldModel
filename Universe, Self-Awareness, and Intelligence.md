@@ -232,18 +232,16 @@ tbd.
 没有生命，就没有生与死
 
 ##### 有自我意识的生命：（人类）智能
-在生命的基础之上，一类特殊的生命：智能生命。智能生命与普通生命（非智能）的区别：自我意识。换句话说，自我意识带来了智能，智能生命 = 普通生命（行动）+ 自我意识（思考）
+在生命的基础之上，一类特殊的生命：智能生命。智能生命与普通生命（非智能）的区别：自我意识。换句话说，自我意识带来了智能，智能生命 = 普通生命（行动）+ 自我意识（思考），自我意识 = 思考 = 信息的运动。
+- 当某个生命拥有了自我意识，这个生命就具备了发展出“智能”的一切条件。这里智能的定义就是，人类智能，即一切人类可以做到、想到的事物的总和。此时，这种自我意识（信息维度）称为主体/主观；一切不属于自我意识的物体（即除去信息维度的宇宙，物质宇宙），包括产生自我意识的这具身体的物理存在，称为客体/客观
 
-自我意识 = 思考 = （额外的）信息维度。
+**本节主要想讨论自我意识是如何从生命中发展而来的。** 关于以自我意识为核心的人类智能本身，由之后两个章节详细讨论：
+1. 主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）
+2. 信息 -> 符号和语言 -> 思考与计算
 
-- 关于自我意识的内容，见下节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
-- 自我意识与信息的等价关系：关于信息的相关内容在下下节“信息 -> 符号和语言 -> 思考与计算”
-- 当某个生命拥有了自我意识，这个生命就具备了发展出“智能”的一切条件。这里智能的定义就是，人类智能，即一切人类可以做到、想到的事物的总和。此时，这种自我意识（信息维度）称为主体/主观；一切不属于自我意识的物体（即除去信息维度的宇宙，物质宇宙），包括产生自我意识的这具身体的物理存在，称为客体/客观。
-	- 关于智能的内容，见下下下节“生命 -> 人类智能 -> 类人智能（广义的智能）”
+最后，“生命 -> 人类智能 -> 类人智能（广义的智能）👈” 总结了人类智能，对比了人类智能和人工智能，并对类人智能的发展进行展望。
 
-本节主要阐明自我意识是如何从生命中发展而来的。
-
-tbd.
+![Human_and_uni.excalidraw | 800](Assets/Illustrations/Philosophy/Human_and_uni.excalidraw.md)
 ###### 时间如何成为‘我’：结构、体验与意义？（自我与宇宙的关系）⭐
 > 🤖 GPT5.4
 > 
@@ -415,7 +413,7 @@ tbd.
 
 注意，在这里，以及整篇文章，的核心观点之一，就是说人与宇宙的对立统一：人就是宇宙的一部分。同时，人又有特殊性：自我意识。自我意识的存在，得出了主体与客体的对立，自我与无我的对立，等等对立。但同时这些对立又是统一在宇宙与我相等这个框架下的。这与马克思主义哲学吻合。
 
-这里引用一个无意中看到的文章：↗ [光明与觉醒：宇宙自我认知的千年回音](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Appendix/光明与觉醒：宇宙自我认知的千年回音.md)。这篇文章结合理性与感性的认知，讨论了自我，自指，自我意识，宇宙等一系列事物的关系。很大程度上我想在我的这篇文章表达的思想也在这位作者的文章中被从另一个角度和例子表达了出来。
+> 这里引用一个无意中看到的文章：↗ [光明与觉醒：宇宙自我认知的千年回音](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Appendix/光明与觉醒：宇宙自我认知的千年回音.md)。这篇文章结合理性与感性，讨论了自我，自指，自我意识，宇宙等一系列事物的关系。值得借鉴。
 ##### 主体视角下的宇宙：物质，能量，信息 ⭐
 给出如下（我认为正确的）结论：
 命题#1：当宇宙中没有主体（即没有自我意识），宇宙由物质（物质的存在）和能量（物质的运动）构成；
@@ -925,6 +923,8 @@ tbd.
 > [!links]
 > ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 > ↗ [AI Embodiment & World Model (WM)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
+
+![Human_and_uni.excalidraw | 800](Assets/Illustrations/Philosophy/Human_and_uni.excalidraw.md)
 
 ![ | 800](Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
