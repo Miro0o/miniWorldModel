@@ -82,7 +82,7 @@ When the domain of a function $f$ is $A_1 \times ··· \times A_k$ for some set
 > ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
 > ↗ [Dynamic Programming (DP)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 > 
-> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
 
@@ -114,7 +114,7 @@ fact n = case n of
 我们发现，`fact`的递归定义和“方程”十分相似，`fact`同时出现在了等式的两边，阶乘函数，就是这个“方程”的“解”。
 #### Fixed-point of Function & Recursion ⭐
 > [!links]
-> ↗ [Fixed-Point Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Fixed-Point%20Semantics.md)
+> ↗ [Fixed-Point Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Fixed-Point%20Semantics.md)
 
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
   
@@ -177,7 +177,7 @@ fact' = fix $ \fact -> \n -> case n of
 > [!links]
 > ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
-> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Haskell/Haskell.md)
 > ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
@@ -347,7 +347,7 @@ f n = n + f(n-2)
 为了描述非终止性，就需要对整数集进行扩充，我们给整数集加上一个特殊元素 “$\perp$”，称为 **bottom**，来表示非终止性，而将 `f :: Int -> Int` 解释为集合 $N \cup \{\perp\}$ 上的一个数学函数。
 
 像这种通过构造表达程序含义的数学对象，来对程序进行分析的方法，来自**指称语义学**。
-- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Denotational%20Semantics.md)
+- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
 
 指称语义中，人们会区分函数的严格性。
 - 一个函数称为严格的 (strict)，如果接受一个非终止的输入表达式，函数的计算仍然不会终止，即：$f(\perp) = \perp$

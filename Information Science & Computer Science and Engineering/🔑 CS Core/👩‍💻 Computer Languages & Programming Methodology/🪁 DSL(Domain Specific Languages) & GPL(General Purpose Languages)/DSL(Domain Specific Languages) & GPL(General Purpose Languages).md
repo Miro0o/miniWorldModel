@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Database Languages](../Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
 

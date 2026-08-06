@@ -21,7 +21,7 @@
 
 ↗ [Algorithm & Data Structure](../🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
+↗ [Database Languages](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Computer%20Engineering,%20Embedded%20&%20IoT/Embedded%20Programming%20&%20Software%20Development/Languages/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
@@ -374,27 +374,27 @@ It is divided as Logic, Functional, Database. In computer science the _declarat
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
 
-↗ [Logic Programming Languages](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Logic Programming Languages](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 - 👉 [Lambda Calculus (λ-Calculus)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-- 👉 [Prolog (Programmation en Logique)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
-- 👉 [Datalog (Data Logic)](Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
+- 👉 [Prolog (Programmation en Logique)](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+- 👉 [Datalog (Data Logic)](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Datalog%20(Data%20Logic)/Datalog%20(Data%20Logic).md)
 ##### 2. Functional Programming
 e.g.
 - 👉 [ECMAScript-Based Languages & JavaScript](Compiled%20Languages/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/ECMAScript-Based%20Languages%20&%20JavaScript.md): developed by Brendan Eich
-- 👉 [Haskell](Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+- 👉 [Haskell](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
 - 👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
 - 👉 **Erlang**: developed by Joe Armstrong, Robert Virding
-- ↗ [Lisp-Based Languages](Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
-	- 👉 [Lisp](Compiled%20Languages/Lisp-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
+- ↗ [LISP-Based Languages](Compiled%20Languages/LISP-Based%20Languages/LISP-Based%20Languages.md)
+	- 👉 [Lisp](Compiled%20Languages/LISP-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
 	- 👉 **ML**: developed by Robin Milner
-	- 👉 [Clojure](Compiled%20Languages/Lisp-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
+	- 👉 [Clojure](Compiled%20Languages/LISP-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
 e.g.
-- ↗ [Database Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Database%20Languages.md)
-	- ↗ [Record-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
-	- ↗ [Object-Based Data Model Languages](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
-	- ↗ [Query Languages (Data Query Languages, DQL)](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
-		- ↗ [SQL (Structured Query Language)](Other%20Languages%20for%20Specific%20Areas/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
+- ↗ [Database Languages](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/Database%20Languages.md)
+	- ↗ [Record-Based Data Model Languages](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+	- ↗ [Object-Based Data Model Languages](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+	- ↗ [Query Languages (Data Query Languages, DQL)](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+		- ↗ [SQL (Structured Query Language)](🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 ```mysql
 CREATE DATABASE databaseAddress;

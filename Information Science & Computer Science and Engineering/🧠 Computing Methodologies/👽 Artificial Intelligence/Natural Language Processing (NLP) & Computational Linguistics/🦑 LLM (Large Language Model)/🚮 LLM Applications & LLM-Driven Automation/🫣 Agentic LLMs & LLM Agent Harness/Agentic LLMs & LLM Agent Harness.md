@@ -81,6 +81,9 @@ https://labs.google.com/mariner/landing
 
 https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/
 
+https://github.com/bytedance/ui-tars-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+
 
 ### Learning Resources
 > p.s. 

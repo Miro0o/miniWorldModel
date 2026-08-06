@@ -178,7 +178,7 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 
 ## Programming Languages & Basic Programming Model
-> ↗ [Formal Semantics and Programming Language](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [Programming Language & Formal Semantics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 > 
 > ↗ [Computer Languages & Programming Methodology /Programming Language Basics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#Programming%20Language%20Basics)

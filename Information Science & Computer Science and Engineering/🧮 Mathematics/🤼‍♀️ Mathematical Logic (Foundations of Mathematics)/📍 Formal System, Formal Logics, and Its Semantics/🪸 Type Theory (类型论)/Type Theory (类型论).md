@@ -9,7 +9,7 @@
 ↗ [Lambda Calculus (λ-Calculus)](../🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
-↗ [Type Systems and Static Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/🦖%20Type%20Systems%20and%20Static%20Semantics/Type%20Systems%20and%20Static%20Semantics.md)
+↗ [PL Static Syntactic Analysis & Type System](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 ↗ [Type Analysis](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 
 ↗ [Category Theory (范畴论)](../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
@@ -114,7 +114,7 @@ Table of Contents
 
 ## Intro
 > [!links]
-> ↗ [Type Systems and Static Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/🦖%20Type%20Systems%20and%20Static%20Semantics/Type%20Systems%20and%20Static%20Semantics.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Type_theory
 

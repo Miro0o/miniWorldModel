@@ -86,31 +86,48 @@ Programming language theory (PLT) is a branch of computer science that deals wit
 > 🔗 https://en.wikipedia.org/wiki/Programming_language_theory
 
 There are several fields of study that either lie within programming language theory, or which have a profound influence on it; many of these have considerable overlap. In addition, PLT makes use of many other branches of mathematics, including computability theory, category theory, and set theory.
-#### Formal Semantics
+
+---
+**Formal Semantics**
 > Main article: 🔗 [Formal semantics of programming languages](https://en.wikipedia.org/wiki/Formal_semantics_of_programming_languages "Formal semantics of programming languages")
 
 Formal semantics is the formal specification of the behaviour of computer programs and programming languages. Three common approaches to describe the semantics or "meaning" of a computer program are denotational semantics, operational semantics and axiomatic semantics.
-#### Type Theory
+
+---
+**Type Theory**
 > Main article: 🔗 [Type theory](https://en.wikipedia.org/wiki/Type_theory "Type theory")
 
 Type theory is the study of type systems; which are "a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute".[4] Many programming languages are distinguished by the characteristics of their type systems.
-#### Program Analysis and Transformation
+
+---
+**Program Analysis and Transformation**
 > Main articles: 🔗 [Program analysis](https://en.wikipedia.org/wiki/Program_analysis "Program analysis") and 🔗 [Program transformation](https://en.wikipedia.org/wiki/Program_transformation "Program transformation")
 
 Program analysis is the general problem of examining a program and determining key characteristics (such as the absence of classes of program errors). Program transformation is the process of transforming a program in one form (language) to another form.
-#### Comparative Programming Language Analysis
+
+---
+**Comparative Programming Language Analysis**
 Comparative programming language analysis seeks to classify programming languages into different types based on their characteristics; broad categories of programming languages are often known as programming paradigms.
-#### Generic and Metaprogramming
+
+---
+**Generic and Metaprogramming**
 Metaprogramming is the generation of higher-order programs which, when executed, produce programs (possibly in a different language, or in a subset of the original language) as a result.
-#### Domain-Specific Languages
+
+---
+**Domain-Specific Languages**
 Domain-specific languages are languages constructed to efficiently solve problems of a particular part of domain.
-#### Compiler Construction
-> Main article: 🔗 [Compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction")
+
+---
+**Compiler Construction**
 > ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 > ↗ [Compilation Phase](../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 
+> Main article: 🔗 [Compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction")
+
 Compiler theory is the theory of writing compilers (or more generally, translators); programs that translate a program written in one language into another form. The actions of a compiler are traditionally broken up into syntax analysis (scanning and parsing), semantic analysis (determining what a program should do), optimization (improving the performance of a program as indicated by some metric; typically execution speed) and code generation (generation and output of an equivalent program in some target language; often the instruction set of a CPU).
-#### Run-time Systems
+
+---
+**Run-time Systems**
 Run-time systems refer to the development of programming language runtime environments and their components, including virtual machines, garbage collection, and foreign function interfaces.
 
 

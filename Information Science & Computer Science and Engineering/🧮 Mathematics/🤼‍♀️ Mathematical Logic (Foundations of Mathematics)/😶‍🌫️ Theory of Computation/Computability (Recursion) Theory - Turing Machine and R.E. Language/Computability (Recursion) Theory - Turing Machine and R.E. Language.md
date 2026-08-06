@@ -26,7 +26,7 @@
 ↗ [Relation & Relation Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 - ↗ [Partial Order & Order Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md) "well-founded relation"
 - ↗ [Domain Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Domain%20Theory/Domain%20Theory.md)
-↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Denotational%20Semantics.md)
+↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
 
 ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
@@ -309,7 +309,51 @@ $H(y_0, y_0)$ 不能为真也不能为假，矛盾。
 	- ↗ [AI Embodiment & World Model (WM)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 
 
-### Turing Machine Equivalents / Turing Complete Models
+### Turing Machine Equivalents / Turing Complete
+> 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents
+
+A [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") is a hypothetical computing device, first conceived by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in 1936. Turing machines manipulate symbols on a potentially infinite strip of tape according to a finite table of rules, and they provide the theoretical underpinnings for the notion of a computer algorithm.
+
+While none of the following models have been shown to have more power than the single-tape, one-way infinite, multi-symbol Turing-machine model, their authors defined and used them to investigate questions and solve problems more easily than they could have if they had stayed with Turing's _a_-machine model.
+
+> [!TIP]
+> 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
+> 
+> Very foundational
+> - Turing machine
+> - lambda calculus
+> - recursive functions
+> These answer: **what is computation?**
+> 
+> More machine-like
+> - register machines
+> - RAM model
+> - stack machines
+> These answer: **how can we organize execution?**
+> 
+> Special-purpose
+> - finite automata
+> - pushdown automata
+> - Petri nets
+> - circuits
+> - quantum circuits
+> These answer: **what structure best captures this specific kind of task?**
+> 
+#### Turing Machine Variants
+##### Single-tape TM
+
+##### Multi-tape TM
+
+##### Multi-track TM
+
+##### Non-deterministic TM
+
+##### Two-way infinite tape vs one-way infinite tape
+
+##### Read-only input tape + work tapes
+Useful in complexity theory.
+##### Enumerator, oracle TM, probabilistic TM, alternating TM...
+#### More Turing Complete Models
 ↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 
