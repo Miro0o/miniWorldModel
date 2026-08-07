@@ -579,7 +579,7 @@ In the study of Computer Science, we learn both those mathematical logics and co
 %%
 
 
-### Properties of Logical Systems (Syntax + Semantics)
+### Properties of Logical Systems (Syntax + Semantics) ⭐
 > [!links]
 > ↗ [Mathematics](../../Mathematics.md)
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)

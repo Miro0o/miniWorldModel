@@ -85,7 +85,7 @@ Tools and Sources
 ## Intro
 > [!links]
 > ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logics, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) ⭐
 > 
 > ↗ [Artificial Intelligence](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 > ↗ [Problem Solving & Search-Based Methods](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -112,6 +112,51 @@ Let us first briefly discuss the role of formal methods. **To put it in a nutshe
 Formal verification can be helpful in proving the correctness of systems such as: [cryptographic protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol"), [combinational circuits](https://en.wikipedia.org/wiki/Combinational_logic "Combinational logic"), [digital circuits](https://en.wikipedia.org/wiki/Digital_circuit "Digital circuit") with internal memory, and software expressed as [source code](https://en.wikipedia.org/wiki/Source_code "Source code") in a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language"). Prominent examples of verified software systems include the [CompCert](https://en.wikipedia.org/wiki/CompCert "CompCert") verified [C](https://en.wikipedia.org/wiki/C_programming_language "C programming language") [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") and the [seL4](https://en.wikipedia.org/wiki/L4_microkernel_family#High_assurance:_seL4 "L4 microkernel family") high-assurance [operating system kernel](https://en.wikipedia.org/wiki/Kernel_\(operating_system\) "Kernel (operating system)").
 
 The verification of these systems is done by ensuring the existence of a [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") of a [mathematical model](https://en.wikipedia.org/wiki/Mathematical_model "Mathematical model") of the system. Examples of mathematical objects used to model systems are: [finite-state machines](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), [labelled transition systems](https://en.wikipedia.org/wiki/Labelled_transition_system "Labelled transition system"), [Horn clauses](https://en.wikipedia.org/wiki/Horn_clause "Horn clause"), [Petri nets](https://en.wikipedia.org/wiki/Petri_net "Petri net"), [vector addition systems](https://en.wikipedia.org/wiki/Vector_addition_system "Vector addition system"), [timed automata](https://en.wikipedia.org/wiki/Timed_automaton "Timed automaton"), [hybrid automata](https://en.wikipedia.org/wiki/Hybrid_automata "Hybrid automata"), [process algebra](https://en.wikipedia.org/wiki/Process_algebra "Process algebra"), formal semantics of programming languages such as [operational semantics](https://en.wikipedia.org/wiki/Operational_semantics "Operational semantics"), [denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics "Denotational semantics"), [axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics "Axiomatic semantics") and [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic "Hoare logic").
+
+> 🤖 GPT 5.6 Sol
+
+Formal methods are mathematically rigorous techniques for the **specification, analysis, and verification** of software and hardware systems. ==Their central idea is to transform questions about the ***semantic behavior*** of a system into precisely defined mathematical objects that can be analyzed through ***syntactical manipulation***, such as symbolic computation or mechanical deduction.==
+
+Let $M$ denote a formal model of a system and let $\varphi$ denote a desired property. Verification can then be formulated as the semantic question
+$$
+M \models \varphi,
+$$
+where $\models$ denotes **semantic satisfaction**: whether the behavior represented by $M$ satisfies the meaning of $\varphi$.
+
+Formal methods represent both $M$ and $\varphi$ using a formal syntax and then apply mathematically justified algorithms or deduction rules. In deductive verification, for example, one may establish
+$$
+\Gamma \vdash \varphi,
+$$
+where $\vdash$ denotes **syntactic derivability**. The relation between syntactic deduction and semantic truth is captured by *soundness*:
+$$
+\Gamma \vdash \varphi
+\quad\Longrightarrow\quad
+\Gamma \models \varphi.
+$$
+
+Thus, the general methodology can be summarized as:
+
+```mermaid
+flowchart LR
+    A[Semantic problem]
+    -->|Formalization| B[Formal model and specification]
+    -->|Mechanical reasoning| C[Proof / analysis]
+    -->|Sound interpretation| D[Semantic guarantee]
+````
+
+Conceptually,
+
+$$  
+\text{semantic problem}  
+\longrightarrow  
+\text{formalization}  
+\longrightarrow  
+\text{syntactic/symbolic reasoning}  
+\longrightarrow  
+\text{semantic conclusion}.  
+$$
+
+Typical techniques include **theorem proving, model checking, SAT/SMT solving, abstract interpretation, and program verification**. Importantly, formal methods establish properties of the _formal model_. Therefore, a mathematically correct proof does not by itself guarantee that the specification faithfully captures the intended real-world behavior.
 
 
 ### Verification System

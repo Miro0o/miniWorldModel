@@ -1,13 +1,10 @@
-# GLM 5
+# GLM
 
 [TOC]
 
 
 
 ## Res
-🏠 https://z.ai/blog/glm-5
-
-
 ### Related Topics
 
 
@@ -16,6 +13,11 @@
 
 
 ## Intro
+
+
+
+## GLM 5
+🏠 https://z.ai/blog/glm-5
 
 
 
