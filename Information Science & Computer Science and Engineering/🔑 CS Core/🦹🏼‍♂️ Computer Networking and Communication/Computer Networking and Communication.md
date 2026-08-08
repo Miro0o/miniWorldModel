@@ -15,11 +15,11 @@
 
 ### Learning Resources
 #### Courses
-🎉 [Computer Networking - A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
-- 🏫 [UMASS /Computer Networking - A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking%20-%20A%20Top-Down%20Approach/Computer%20Networking%20-%20A%20Top-Down%20Approach.md)
+🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
+- 🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking%20-%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
 - 📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
-🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking - A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
+🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking: A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)
 - 🏫 [USTC /计算机网络](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/USTC%20中国科学技术大学/计算机网络/计算机网络.md)
 	- 🎬 https://www.bilibili.com/video/BV1JV411t7ow/
 	- 📄 http://staff.ustc.edu.cn/~qzheng/cn.zip
@@ -94,12 +94,12 @@ More Topics With Fun! 🥳
   - Stream Engineering
 - Proxy/ Tor
 	- ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
-	- ↗ [Proxy Technology & GFW 🇨🇳](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
+	- ↗ [Proxy Technology (& Bypassing GFW)](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20(&%20Bypassing%20GFW)/Proxy%20Technology%20(&%20Bypassing%20GFW).md)
 	- ↗ [DarkWeb](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
 	- ↗ [Onion Network & Tor Projects](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👺%20Anonymous%20Network%20&%20Host/Onion%20Network%20&%20Tor%20Projects.md)
 - ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
-- ↗ [NAT (Network Address Translation)](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
-	- ↗ [VPN & NAT Implementations](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
+- ↗ [NAT & NAPT (Network Address & Port Translation)](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation).md)
+	- ↗ [VPN & NAT Traversal Implementations](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Traversal%20Implementations.md)
 - Numerous networking toolsets ...
 - etc..
 

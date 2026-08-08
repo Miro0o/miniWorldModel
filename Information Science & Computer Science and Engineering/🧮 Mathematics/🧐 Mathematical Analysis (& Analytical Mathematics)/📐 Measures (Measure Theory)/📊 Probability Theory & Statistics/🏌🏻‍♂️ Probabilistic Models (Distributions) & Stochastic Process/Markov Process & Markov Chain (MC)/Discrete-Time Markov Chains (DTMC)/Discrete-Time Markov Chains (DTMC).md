@@ -60,7 +60,7 @@ Two ways to compute $\pi = 𝑙𝑖𝑚𝑖𝑡_{𝑛\to\infty}\theta_n$:
 	2. $\pi = \pi \cdot 𝑃 \Leftrightarrow \pi - \pi \cdot 𝑃 = 0 \Leftrightarrow \pi(I - P) = 0$
 		1. $lim_{n\to\infty}\theta_n =lim_{n\to\infty}(\iota \cdot P^n) = \pi$
 		2. $det(\pi) = det(lim_{n\to\infty}(\iota \cdot P^n)) = 0 \Leftrightarrow lim_{n\to\infty}(det(\iota \cdot P^n))=0$ (?)
-		3. ↗ [Eigenvalues, Eigenvectors, and Invariant Subspaces](../../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces.md)
+		3. ↗ [Eigenvalues, Eigenvectors, and Invariant Subspaces](../../../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/📌%20Linear%20Algebra%20Basics/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces/Eigenvalues,%20Eigenvectors,%20and%20Invariant%20Subspaces.md)
 
 It's not always that the limit $\pi = 𝑙𝑖𝑚𝑖𝑡_{𝑛\to\infty}\theta_n$ is well defined and can be computed as the (unique) stationary distribution $\pi = \pi \cdot 𝑃$:
 There are **cases** where :

@@ -21,8 +21,8 @@
 	- ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 - ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 - ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
-- ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
-- ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
+- ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+- ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 
 ↗ [AI4SE](../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
@@ -118,9 +118,9 @@ The bitter lesson | rich sutton
 ### What is (Human /Natural) Intelligence?
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
-![computing.excalidraw | 800](Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 （感性，理性）X （思考，行动）
 or（感性，理性）X （认识，实践）
@@ -140,7 +140,7 @@ or（感性，理性）X （认识，实践）
 > ↗ [AI Embodiment & World Model (WM)](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20Embodiment%20&%20World%20Model%20(WM).md)
 > ↗ [Vision-Language-Action (VLA) Model](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Robotics%20&%20Robot%20Learning/Vision-Language-Action%20(VLA)%20Model/Vision-Language-Action%20(VLA)%20Model.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
@@ -202,7 +202,7 @@ This chapter defines AI and establishes the cultural background against which it
 > [!links]
 > ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
 
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 ##### Performance Measures
 > [!lnks]
 > ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
@@ -222,8 +222,8 @@ This chapter defines AI and establishes the cultural background against which it
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [Agents & Multi-Agent System](Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
-> ↗ [Agentic LLMs & AI Workflow](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
-> ↗ [Game Theory & Decision Making in Multi-Agents Environments](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+> ↗ [Agentic LLMs & LLM Agent Harness](Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+> ↗ [Game Theory & Multi-Agent Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -654,7 +654,7 @@ This chapter has addressed the following issues:
 
 
 ## The Future of AI
-![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG

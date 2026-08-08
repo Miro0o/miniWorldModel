@@ -20,7 +20,9 @@
 ↗ [Iran History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Iran%20🇮🇷/📜%20Iran%20History%20Overview/Iran%20History%20Overview.md)
 
 ↗ [United States 🇺🇸 /Online Library & Encyclopedia 💪💪](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md#Online%20Library%20&%20Encyclopedia%20💪💪)
-↗ [Europa Universalis](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
+
+↗ [Europa Universalis](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Console%20&%20Computer%20Games/Europa%20Universalis.md)
 
 
 ### Books & Courses
@@ -175,8 +177,6 @@ wikipedia
 
 
 ### Other Resources
-↗ [Europa Universalis](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games/Europa%20Universalis.md)
-
 https://westportlibrary.libguides.com/worldhistory
 1. [The Westport Library](http://westportlibrary.org/)
 2. [The Westport Library Resource Guides](https://westportlibrary.libguides.com/)
@@ -201,6 +201,7 @@ Today in history
 🎬 👍【历时五年，我终于做出了全网最详细の世界历史地图动画，只为向你讲述世界文明的发展轨迹】 https://www.bilibili.com/video/BV1h4jAzJExQ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 👍 https://pastvu.com/
+Retro view of mankind's habitat
 
 https://www.sechistorical.org/
 
@@ -396,7 +397,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 
 
 ## 🦖 The Rise of Civilization 🐒
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 
 
 ### Country & State (国与邦)
@@ -922,7 +923,7 @@ Contemporary history is [politically](https://en.wikipedia.org/wiki/Political_h
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114907706039734&bvid=BV1KgbyzxEF2&cid=31251235834&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:100%;width:100%; aspect-ratio: 16 / 9;"</iframe>
 
-![ | 800](Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 
 
 ### U.S. Supremacy, Region Conflicts, and De-globalization

@@ -12,8 +12,12 @@
 ### Related Topics
 
 
+### Other Resoruces
+[llvm-tutorial - 部分中文翻译教程](https://github.com/hunterzju/llvm-tutorial.)
 
-## 🏙 Overview
+
+
+## Overview
 > [LLVM](https://llvm.org) was initially known as *Low Level Virtual Machine*, but then widely extended its business beyond virtual machine
 > 
 > LLVM is licensed by [**BSD**](https://linux.cn/article-3186-1.html) (*Berkeley Software Distribution*)
@@ -38,11 +42,6 @@ The primary sub-projects of LLVM are:
 10. The **[klee](https://klee.llvm.org/)** project implements a "symbolic virtual machine" which uses a theorem prover to try to evaluate all dynamic paths through a program in an effort to find bugs and to prove properties of functions. A major feature of klee is that it can produce a testcase in the event that it detects a bug.
 11. The **[LLD](https://lld.llvm.org/)** project is a new linker. That is a drop-in replacement for system linkers and runs much faster.
 12. The **[BOLT](https://github.com/llvm/llvm-project/tree/main/bolt)** project is a post-link optimizer. It achieves the improvements by optimizing application's code layout based on execution profile gathered by sampling profiler.
-
-
-
-## Getting start
-[llvm-tutorial - 部分中文翻译教程](https://github.com/hunterzju/llvm-tutorial.)
 
 
 

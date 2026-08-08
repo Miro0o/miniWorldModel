@@ -9,12 +9,13 @@
 Cryptography is a sub-category of Cryptology:
 👉 [Cryptology & Secure Communication](../Cryptology%20&%20Secure%20Communication.md)
 
-↗ [Elementary Theory of Numbers](../../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+↗ [Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/Number%20Theory.md)
+↗ [Elementary Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
 ↗ [Computationally Hard Problems](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 ↗ [Decentralized Fiance & Cryptocurrency](../../../Data-Oriented%20&%20Human-Centered%20Technologies/Web%203.0%20&%20Decentralized%20Finance/Decentralized%20Fiance%20&%20Cryptocurrency/Decentralized%20Fiance%20&%20Cryptocurrency.md)
-↗ [OpenSSL Project](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
+↗ [OpenSSL Project](../../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
 ↗ [Security Protocols & Cryptographic Verification](../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
 
@@ -173,8 +174,8 @@ Other applications include:
 
 
 ### 🧮 Mathematical Foundations of Cryptography: Number Theory
-↗ [Elementary Theory of Numbers](../../../🧮%20Mathematics/🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
+↗ [Elementary Number Theory](../../../🧮%20Mathematics/💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+↗ [Number Theory Problems](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Algebra%20Problems/Number%20Theory%20Problems/Number%20Theory%20Problems.md)
 
 
 

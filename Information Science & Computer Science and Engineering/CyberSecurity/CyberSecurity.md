@@ -7,10 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Security Industry & Companies](../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Industry-Specific%20Companies/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
-↗ [Sec (Security) Related Venues and People](../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
+↗ [Sec (Security) Related Venues and People](../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 ↗ [Security Related Conferences & Events](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/📆%20IT%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Related%20Conferences%20&%20Events.md)
-
-↗ [Research Topics in Cybersecurity](../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
 
 
 ### Learning Resources
@@ -257,7 +255,7 @@ ctf竞赛权威指南
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
 
 计算机安全学术知名公众号：
-- 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [[官网]](https://gossip.team/)
+- 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [官网](https://gossip.team/)
     - [G.O.S.S.I.P 圣诞特别篇 2023-12-25 安全研究人员的天梯排行榜](https://mp.weixin.qq.com/s/FPWnVv6zUQ7uk6C6iiyTDw)
     - [G.O.S.S.I.P 2024 新年祝福](https://mp.weixin.qq.com/s/F2nHOZcsREihJK1TqRaI5w)
 - 网安国际 (由清华大学段海新教授、复旦大学杨珉教授、蚂蚁韦韬博士、华为万涛博士等共同发起) [官网](https://www.inforsec.org/)
@@ -343,7 +341,7 @@ https://book.hacktricks.wiki/en/index.html
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Archive/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Sec (Security) Related Venues and People](../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
+↗ [Sec (Security) Related Venues and People](../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 
 
 ---

@@ -84,6 +84,7 @@ Ancient China produced what has become the oldest extant [culture](https://www.
 
 The Romans and the Greeks knew the country as '**Seres** (赛路斯)', “the land where [silk](https://www.worldhistory.org/Silk/) comes from”. The name 'China' does not appear in print in the west until 1516 CE in Barbosa's journals narrating his travels in the east (though the Europeans had long known of China through trade via the Silk Road). [Marco Polo](https://www.worldhistory.org/Marco_Polo/), the famous explorer who familiarized China to [Europe](https://www.worldhistory.org/europe/) in the 13th century CE, referred to the land as '**Cathay** (契丹)'. In Mandarin Chinese, the country is known as 'Zhongguo' meaning "central state" or "middle [empire](https://www.worldhistory.org/empire/)".
 #### 中国文明与文化的由来
+> [!links]
 > ↗ [中华文明历史概况](中华文明历史概况/中华文明历史概况.md)
 
 > 🔗 https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%A4%8F
@@ -211,7 +212,9 @@ The Romans and the Greeks knew the country as '**Seres** (赛路斯)', “the la
 
 
 ### 中华人民共和国 (People's Republic of China)
+> [!links]
 > ↗ [新中国史（中华人民共和国时期）](中华文明历史概况/📜%20中国历史：朝代与时期/新中国史（中华人民共和国时期）/新中国史（中华人民共和国时期）.md)
+> ↗ [中国政治概况](中国大陆地区/🐲%20中国政治概况/中国政治概况.md)
 
 > 🔗 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
 

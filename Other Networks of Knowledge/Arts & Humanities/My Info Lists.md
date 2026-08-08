@@ -8,7 +8,20 @@
 ### Related Topics
 ↗ [🌲 Road To CS](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 ↗ [Arts & Humanities](Arts%20&%20Humanities.md)
+- ↗ [Language & Literature](📃%20Language%20&%20Literature/Language%20&%20Literature.md)
+- ↗ [Music](🎶%20Music/Music.md)
+- ↗ [Visual Arts](Visual%20Arts/Visual%20Arts.md)
+	- ↗ [Films & TV](Visual%20Arts/Films%20&%20TV/Films%20&%20TV.md)
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+
+↗ [U.S. Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [U.S. Mass Media Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Mass%20Media%20Industry/U.S.%20Mass%20Media%20Industry.md)
+
+↗ [Japanese Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Japan%20🇯🇵/Japanese%20Social%20Development%20Overview/Japanese%20Economics/📌%20Japanese%20Tertiary%20Economical%20Sector/Japanese%20Cultures%20&%20Entertainment%20Industry/Japanese%20Cultures%20&%20Entertainment%20Industry.md)
+↗ [South Korean Cultures & Entertainment Industry](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/Korea%20🇰🇵%20🇰🇷/Korean%20Social%20Development%20Overview/South%20Korean%20Social%20Development%20Overview/South%20Korean%20Economics/📌%20South%20Korean%20Tertiary%20Economical%20Sector/South%20Korean%20Cultures%20&%20Entertainment%20Industry/South%20Korean%20Cultures%20&%20Entertainment%20Industry.md)
+
+↗ [中国文化发展](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国文化发展/中国文化发展.md)
+↗ [中国大文娱](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/📌%20第三产业/中国大消费/中国大文娱/中国大文娱.md)
 
 
 ### Others
@@ -82,78 +95,2469 @@ https://github.com/holyshell/Books
 
 
 
-## Texts Based
+## ✍ Texts Based
+> [!Warning]
+> The list is very in-complete. For complete resources -- especially professional books -- go to the corresponding note of each topic. 
+
+
+### Fiction, Poetry & Literary Memoir
+#### United States（美国）
+- [ ] In Five Years — Rebecca Serle
+- [ ] Foundation — Isaac Asimov
+- [ ] Nightcrawling — Leila Mottley
+- [ ] The Catcher in the Rye — J. D. Salinger
+- [ ] Stories of Your Life and Others — Ted Chiang
+- [x] The Adventures of Tom Sawyer — Mark Twain
+- [x] The Great Gatsby — F. Scott Fitzgerald ⭐
+- [x] When Breath Becomes Air — Paul Kalanithi
+- [ ] A Manual for Cleaning Women — Lucia Berlin
+#### United Kingdom（英国）
+- [x] 1984 — George Orwell（2 copies／两个版本）⭐
+- [x] Animal Farm — George Orwell
+- [x] Harry Potter, Books 1–7 — J. K. Rowling
+- [x] Lost Horizon — James Hilton
+- [ ] Paradise Lost — John Milton
+- [ ] Sons and Lovers — D. H. Lawrence
+- [x] The Hitchhiker's Guide to the Galaxy — Douglas Adams ⭐
+- [x] The Hobbit — J. R. R. Tolkien
+- [ ] [The Lord of the Rings](https://www.readfever.com/collection/lord-of-rings-ebook) — J. R. R. Tolkien
+- [ ] Brave New World — Aldous Huxley
+#### Ireland（爱尔兰）
+- [ ] Conversations with Friends — Sally Rooney
+#### France（法国）
+- [x] The Little Prince — Antoine de Saint-Exupéry ⭐
+- [ ] The Plague — Albert Camus
+#### China（中国）
+- [ ] [女人的胜利](https://weread.qq.com/web/reader/50132dc0813ab937dg0158cfka87322c014a87ff679a21ea) — 余华
+- [ ] 长安十二时辰 — 马伯庸
+#### Online / Country Unspecified（网络作品／国家未注明）
+- [ ] [Sherlock Meet Sherlock](https://archiveofourown.org/works/13802397)
+### Humanities & Social Sciences
+#### United States（美国）
+- [ ] Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter
+- [ ] Justice: What's the Right Thing to Do? — Michael J. Sandel
+- [ ] Quantum Mechanics and Experience — David Z. Albert
+- [x] Rich Dad Poor Dad — Robert Kiyosaki and Sharon Lechter
+- [x] Silent Spring — Rachel Carson
+- [x] 亲密关系 — Rowland S. Miller
+- [ ] 西方哲学史 — Frank Thilly
+- [x] Introduction to Literature — Lumen Learning and Ivy Tech Community College
+#### China（中国）
+- [x] 乡土中国 — 费孝通
+- [x] 中国哲学简史 — 冯友兰
+- [ ] 任尔东西南北风：许渊冲中外经典译著前言后语集锦 — 许渊冲
+- [x] 沉默的大多数 — 王小波
+- [x] 西方哲学史 — 张志伟
+- [ ] 西方哲学史 — 邓晓芒、赵林
+#### France（法国）
+- [ ] The Second Sex — Simone de Beauvoir
+- [ ] The Normal and the Pathological — Georges Canguilhem
+- [ ] 消费社会 — Jean Baudrillard
+#### Germany（德国）
+- [ ] The Loneliness of the Dying — Norbert Elias
+- [ ] 人生的智慧 — Arthur Schopenhauer
+#### Germany / United States（德国／美国）
+- [ ] 爱欲与文明 — Herbert Marcuse
+#### Israel（以色列）
+- [ ] Homo Deus: A Brief History of Tomorrow — Yuval Noah Harari
+- [x] 人类简史 — Yuval Noah Harari
+#### United Kingdom（英国）
+- [ ] On Liberty — John Stuart Mill
+#### Country Unspecified（国家未注明）
 - [x] Introduction to European Culture
-- [x] Introduction to Literature
-- [x] 1984
-- [x] Lost Horizon
-- [x] Rich Dad, Poor Dad
-- [x] Silent Spring
-- [x] The Great Gatsby
-- [x] The Bobbits
-- [x] When Breath Became Air
+### Economics, Politics & History
+#### United States（美国）
+- [ ] The Clash of Civilizations and the Remaking of World Order — Samuel P. Huntington
+- [x] Deng Xiaoping and the Transformation of China /《邓小平时代》— Ezra F. Vogel
+- [x] The Man Who Changed China /《他改变了中国》— Robert Lawrence Kuhn
+- [ ] Macroeconomics — N. Gregory Mankiw
+- [ ] Principles of Economics — N. Gregory Mankiw
+- [ ] Networks, Crowds, and Markets: Solutions — David Easley and Jon Kleinberg
+- [ ] Japanese Candlestick Charting Techniques — Steve Nison
+- [ ] Free to Choose: A Personal Statement — Milton and Rose Friedman
+- [ ] Intermediate Microeconomics: A Modern Approach /《微观经济学：现代观点》— Hal R. Varian（2 editions／两个版本）
+#### China（中国）
+- [ ] 中华人民共和国建国史研究
+- [ ] 全球化与国家竞争：新兴七国比较研究 — 温铁军
+- [x] 八次危机：中国的真实经验 — 温铁军
+- [x] 置身事内：中国政府与经济发展 — 兰小欢
+#### United Kingdom（英国）
+- [ ] Global Economic History /《全球经济史》— Robert C. Allen
+#### France（法国）
+- [ ] The Mediterranean and the Mediterranean World in the Age of Philip II /《菲利普二世时代的地中海和地中海世界》— Fernand Braudel
+#### Russia（俄罗斯）
+- [ ] The State and Revolution — Vladimir Lenin
+- [ ] The State and Revolution: Educational Notes
+#### Austria / United Kingdom（奥地利／英国）
+- [ ] The Road to Serfdom /《通往奴役之路》— F. A. Hayek（English and Chinese editions／英中两个版本）
+#### Singapore（新加坡）
+- [ ] China Reconnects: Joining a Deep-Rooted Past to a New World Order — Wang Gungwu
+### Mathematics, Statistics & Machine Learning
+#### United States（美国）
+- [ ] A First Course in Probability — Sheldon M. Ross
+- [ ] Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning — Jean Gallier and Jocelyn Quaintance
+- [ ] All of Statistics — Larry Wasserman
+- [ ] Discrete Mathematics and Its Applications, 7th ed. — Kenneth H. Rosen
+- [ ] Introduction to Probability and Statistics for Engineers and Scientists — Sheldon M. Ross
+- [ ] Introduction to Probability Models — Sheldon M. Ross
+- [ ] Linear Algebra Done Wrong — Sergei Treil
+- [ ] Linear Algebra Review and Reference
+- [ ] Linear Algebra Done Right, 3rd ed. — Sheldon Axler
+- [ ] Mathematical Reasoning: Writing and Proof — Ted Sundstrom
+- [ ] Machine Learning: A Probabilistic Perspective — Kevin P. Murphy
+- [ ] Number Theory for Mathematical Contests — David A. Santos
+- [ ] Stochastic Processes — Sheldon M. Ross
+- [ ] Probability in Electrical Engineering and Computer Science — Jean Walrand
+- [ ] Concrete Mathematics — Ronald Graham, Donald Knuth, and Oren Patashnik
+- [ ] Introduction to Probability, 2nd ed. /《概率导论》— Dimitri Bertsekas and John Tsitsiklis
+- [ ] Visual Group Theory /《群论可视化方法》— Nathan Carter
+#### United Kingdom（英国）
+- [ ] Information Theory, Inference, and Learning Algorithms — David J. C. MacKay
+- [ ] Linear Analysis: An Introductory Course, 2nd ed. — Béla Bollobás
+#### China（中国）
+- [ ] 统计学习方法 — 李航
+- [ ] Linear Algebra（四川大学高等代数教材）
+- [ ] 近世代数 — 欧阳毅、叶郁
+- [ ] Mathematical Foundations of Reinforcement Learning — Shiyu Zhao
+- [ ] 吴军数学通识讲义 — 吴军
+- [ ] 概率统计理工习题册
+- [ ] 概率统计讲义 — 李东风
+- [ ] 概率论与数理统计（第2版）— 陈鸿建、赵永红、翁洋
+- [ ] 离散数学 — 屈婉玲等
+- [ ] 离散数学 — 左孝凌等
+- [ ] 离散数学正文（四川大学计算机学院）
+- [ ] 线性代数（第2版）— 四川大学数学学院
+#### International（国际）
+- [ ] Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+### Computer Science, Software & Engineering
+#### United States（美国）
+- [ ] Essentials of Computer Organization and Architecture, 4th ed. — Linda Null and Julia Lobur
+- [ ] Essentials of Computer Organization and Architecture, 5th ed. — Linda Null and Julia Lobur
+- [ ] Advanced Linux Programming
+- [ ] Advanced Programming in the UNIX Environment, 3rd ed. — W. Richard Stevens and Stephen A. Rago
+- [ ] Artificial Intelligence: A Modern Approach, 4th ed. — Stuart Russell and Peter Norvig
+- [ ] Cloud Native Go — Matthew A. Titmus
+- [ ] Compilers: Principles, Techniques, and Tools, 1st ed. — Aho, Sethi, and Ullman
+- [ ] Compilers: Principles, Techniques, and Tools, 2nd ed. — Aho, Lam, Sethi, and Ullman
+- [ ] Computer Organization and Architecture, 10th ed. — William Stallings
+- [ ] Computer Organization and Design, 4th ed. — David Patterson and John Hennessy
+- [ ] Computer Organization and Design, 5th ed. — David Patterson and John Hennessy
+- [ ] Computer Organization and Design: ARM Edition — David Patterson and John Hennessy
+- [ ] Computer Organization and Design: RISC-V Edition — David Patterson and John Hennessy
+- [ ] Computer Systems: A Programmer's Perspective — Randal Bryant and David O'Hallaron（EPUB and 3rd-ed. PDF／两个版本）
+- [ ] Computer Networking: A Top-Down Approach, 8th ed. — James Kurose and Keith Ross
+- [ ] CSS: The Definitive Guide
+- [ ] Digital Design and Computer Architecture — Sarah Harris and David Harris
+- [ ] Fundamentals of Software Architecture — Mark Richards and Neal Ford
+- [ ] Introducing Go — Caleb Doxsey
+- [ ] Learning Python — Mark Lutz
+- [ ] Linux Kernel Development, 3rd ed. — Robert Love
+- [ ] Linux System Programming — Robert Love
+- [ ] Operating System Concepts, 9th ed. — Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne
+- [ ] Operating Systems: Internals and Design Principles — William Stallings
+- [ ] Operating Systems: Principles and Practice, Vol. 1: Kernels and Processes — Thomas Anderson and Michael Dahlin
+- [ ] Operating Systems: Principles and Practice, Vol. 2: Concurrency — Thomas Anderson and Michael Dahlin
+- [ ] Operating Systems: Principles and Practice, Vol. 3: Memory Management — Thomas Anderson and Michael Dahlin
+- [ ] Operating Systems: Principles and Practice, Vol. 4: Persistent Storage — Thomas Anderson and Michael Dahlin
+- [ ] Readings in Database Systems
+- [ ] Speech and Language Processing, 3rd ed. — Daniel Jurafsky and James H. Martin
+- [ ] Think Like a Programmer — V. Anton Spraul
+- [ ] UNIX Network Programming, Vol. 1: The Sockets Networking API — W. Richard Stevens（English and Chinese editions／英中两个版本）
+- [ ] UNIX Network Programming, Vol. 2: Interprocess Communications — W. Richard Stevens
+- [ ] Python Crash Course, 2nd ed. — Eric Matthes
+- [ ] Introduction to Algorithms, 3rd ed. — Cormen, Leiserson, Rivest, and Stein
+- [ ] The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd ed. — Donald Knuth
+- [ ] Introduction to Automata Theory, Languages, and Computation, 3rd ed.
+- [ ] Introduction to the Theory of Computation, 3rd ed. — Michael Sipser
+#### China（中国）
+- [ ] LeetCode Cookbook
+- [ ] 大话云计算
+- [ ] 从放弃 C 语言到使用 C++：算法的简明教程
+- [ ] 分布式系统：概念与设计（原书第5版）
+- [ ] 汇编语言（第4版）
+- [ ] 程序员的自我修养：链接、装载与库
+- [ ] 现代操作系统 — 陈海波
+- [ ] 计算机网络：自顶向下方法（第7版）
+- [ ] 《算法基础与在线实践》
+#### United Kingdom（英国）
+- [ ] ARM Cortex-M3 and Cortex-M4: The Definitive Guide — Joseph Yiu
+- [ ] Computer Organization and Architecture: Themes and Variations /《计算机组成原理》— Alan Clements（Chinese edition／中文版）
+- [ ] Database Systems: A Practical Approach to Design, Implementation, and Management, 6th ed. /《数据库系统：设计、实现与管理》— Thomas Connolly and Carolyn Begg（English and Chinese editions／英中两个版本）
+#### United Kingdom / United States（英国／美国）
+- [ ] Cloud Native DevOps with Kubernetes — John Arundel and Justin Domingus
+#### Germany / United Kingdom（德国／英国）
+- [ ] Designing Data-Intensive Applications — Martin Kleppmann
+#### Netherlands（荷兰）
+- [ ] Distributed Systems — Andrew Tanenbaum and Maarten van Steen
+- [ ] Handbook of Theoretical Computer Science, Vol. A — Jan van Leeuwen, ed.
+- [ ] Handbook of Theoretical Computer Science, Vol. B — Jan van Leeuwen, ed.
+- [ ] Structured Computer Organization, 6th ed. — Andrew Tanenbaum
+#### Finland（芬兰）
+- [ ] Competitive Programmer's Handbook — Antti Laaksonen
+#### Sweden（瑞典）
+- [ ] Principles of Algorithmic Problem Solving — Johan Sannemo
+#### Switzerland（瑞士）
+- [ ] Object-Oriented Software Construction — Bertrand Meyer
+#### Germany（德国）
+- [ ] Professional Linux Kernel Architecture /《深入 Linux 内核架构》— Wolfgang Mauerer（English and Chinese editions／英中两个版本）
+- [ ] Python for Finance — Yves Hilpisch
+#### Italy（意大利）
+- [ ] Understanding the Linux Kernel — Daniel Bovet and Marco Cesati
+#### International（国际）
+- [ ] Design Patterns — Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+- [ ] Python Machine Learning, 3rd ed. — Sebastian Raschka and Vahid Mirjalili
+- [ ] Python机器学习（原书第2版）— Sebastian Raschka and Vahid Mirjalili
+### Cybersecurity
+#### United States（美国）
+- [ ] AWS Certified Solutions Architect Official Study Guide
+- [ ] SAA-C02 Study Guide — Michael Gibbs
+- [ ] Learning Kali Linux — Ric Messier
+- [ ] Linux Basics for Hackers
+- [ ] The IDA Pro Book, 2nd ed. /《IDA Pro 权威指南》— Chris Eagle（English and Chinese editions／英中两个版本）
+- [ ] Practical Malware Analysis /《恶意代码分析实战》— Michael Sikorski and Andrew Honig（English and Chinese editions／英中两个版本）
+- [ ] Applied Cryptography — Bruce Schneier
+#### China（中国）
+- [ ] CTF 入门必看文章 — Firmy Yang
+- [ ] CTF 安全竞赛入门
+- [ ] 网安数学基础
+- [ ] 黑客社会工程学攻击 — 范建中
+#### Japan（日本）
+- [ ] 图解密码技术（第3版）— 结城浩
+#### India（印度）
+- [ ] Mastering Kali Linux for Advanced Penetration Testing, 3rd ed. — Vijay Kumar Velu
+#### Russia（俄罗斯）
+- [ ] Reverse Engineering for Beginners — Dennis Yurichev
+### Language, Writing & Academic Study
+#### United States（美国）
+- [ ] The Elements of Style — William Strunk Jr. and E. B. White
+#### China（中国）
+- [ ] GRE 镇考机经词 7.0
+- [ ] 英语词根与单词的说文解字（修订版）— 李平武
+- [ ] 西南联大英文课（英汉双语版）— 陈福田
+#### Netherlands（荷兰）
+- [ ] Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond — Patricia Gosling and Bart Noordam
+### Articles, Reports, Manuals & Course Materials
+#### United States（美国）
+- [ ] AWS Security Best Practices
+- [ ] The Event Mesh: A Primer — RTInsights
+- [ ] Software-Defined Access Solution Design Guide — Cisco
+- [ ] Software Defined Networks — Thomas D. Nadeau and Ken Gray
+- [ ] Social-Engineer Toolkit User Manual
+- [ ] Guide to USACO
+#### China（中国）
+- [ ] 论系统工程 — 钱学森
+#### Japan（日本）
+- [ ] 电子电路基本原理 66 课 — 石井聡（Chinese edition／中文版）
 
-- [x] 亲密关系
-- [ ] [余华 - 女人的胜利](https://weread.qq.com/web/reader/50132dc0813ab937dg0158cfka87322c014a87ff679a21ea)
-- [ ] [Sherlock meet sherlock](https://archiveofourown.org/works/13802397)
-- [ ] [Lord Of Rings](https://www.readfever.com/collection/lord-of-rings-ebook)
+
+
+## 🎬 Videos Based
+### Documentary
+#### United Kingdom（英国）
+- The Blue Planet series — 蓝色星球系列 ⭐
+	- [x] The Blue Planet — 蓝色星球 第一季
+	- [ ] Blue Planet II — 蓝色星球 第二季
+- [ ] The World at War
+- [ ] Life — 生命脉动
+- [x] Clarkson's Farm — 克拉克森农场趣
+- [ ] Frozen Planet — 冰冻星球
+- [ ] Human Planet — Ren Lei Xing Qiu
+- [ ] The Beatles Anthology
+- [ ] The Beatles: Get Back — 披头四：Get Back
+- [ ] Africa — 非洲
+- [ ] Greatest Events of WWII in Colour — 二战大事记（彩色版）
+- [ ] Long Way Round
+- Planet Earth series — 地球脉动系列 ⭐
+	- [x] Planet Earth — 地球脉动
+	- [ ] Planet Earth II — 地球脉动II
+	- [ ] Planet Earth III — 地球脉动III
+#### China（中国）
+- [x] 铁路沿线（2000，杜海滨）⭐
+- [x] 中国市长⭐
+- [x] 舌尖上的中国⭐
+#### France（法国）
+- [ ] Apocalypse: La 2ème guerre mondiale — 二次大战启示录
+#### United States（美国）
+- Cosmos documentary series — 宇宙纪录片系列
+	- [ ] Cosmos — 宇宙：个人游记
+	- [ ] Cosmos: A Spacetime Odyssey — 宇宙大探索
+- [ ] Our Planet — 我们的星球
+- [ ] The Last Dance — 最后一舞
+- [ ] The Vietnam War — 越南战争
+- [ ] The Civil War — 南北战争
+- [ ] Nathan for You — 救援高手
+- [ ] How to with John Wilson — 约翰威尔森：纽约不聚焦
+- [ ] The Jinx: The Life and Deaths of Robert Durst — 黑色豪门疑案
+- [ ] The Rehearsal — 排练人生
+- [ ] Making a Murderer — 谋杀犯的形成
+- [ ] Through the Wormhole
+### News Reports (Ongoing)
+#### United States（美国）
+- CNN 10 — CNN 十分钟新闻
+- NBC（美国全国广播公司）
+	- Meet the Press — 与媒体见面
+	- NBC News NOW — NBC 即时新闻
+	- NBC Nightly News — NBC 晚间新闻
+- NPR（美国全国公共广播电台）
+	- Talk of the Nation — 全民谈话
+### Variety /Reality Shows
+#### United Kingdom（英国）
+- Daniel Sloss — 丹尼尔·斯洛斯
+#### United States（美国）
+- Jimmy O. Yang — 欧阳万成 ⭐
+- Last Week Tonight with John Oliver — 约翰·奥利弗上周今夜秀
+- Ronny Chieng — 钱信伊
+- The Honest Drink — 美籍华人英语访谈秀
+- The Late Show with Stephen Colbert — 斯蒂芬·科尔伯特晚间秀 ⭐
+- The Tonight Show Starring Jimmy Fallon — 吉米·法伦今夜秀
+#### South Korea (韩国) ⭐
+
+#### Japan (日本)
+
+#### China, Mainland (中国大陆)
+
+#### China, Hong Kong (中国香港)
+
+#### China, Taiwan (中国台湾) ⭐
+### TV Shows
+#### United States（美国）⭐
+- Battlestar Galactica television series — 太空堡垒卡拉狄加电视剧系列
+	- [ ] Battlestar Galactica（2003） — 星际大争霸
+	- [ ] Battlestar Galactica（2004） — 星际大争霸
+- Twin Peaks television series — 双峰电视剧系列
+	- [ ] Twin Peaks（1990） — 双峰
+	- [ ] Twin Peaks（2017） — 双峰
+- Dexter television franchise — 嗜血法医电视剧系列
+	- [ ] Dexter — 嗜血法医
+	- [ ] Dexter: Resurrection
+- Yellowstone television universe — 黄石电视剧宇宙
+	- [ ] Yellowstone — 黄石
+	- [ ] 1883
+- Star Wars live-action television series — 星球大战真人电视剧系列
+	- [ ] The Mandalorian — 曼达洛人
+	- [ ] Andor — 安道尔
+- [ ] Chernobyl — 切尔诺贝利
+- [ ] The Wire — 火线
+- [ ] The Sopranos — 黑道家族
+- [ ] The Twilight Zone — 阴阳魔界
+- [ ] The Pitt — 匹兹堡医护前线
+- [ ] Firefly — 宁静号
+- [ ] Seinfeld — 欢乐单身派对
+- [ ] True Detective — 真探
+- [ ] Fargo（2014） — 冰血暴
+- [ ] When They See Us — 别人眼中的我们
+- [ ] It's Always Sunny in Philadelphia — 酒吧五杰
+- [ ] Curb Your Enthusiasm — 人生如戏
+- [ ] Freaks and Geeks — 怪胎与宅男
+- [ ] Chappelle's Show — 搞笑查埔人
+- [ ] Narcos — 毒枭
+- [ ] Ted Lasso — 泰德拉索：错棚教练趣事多
+- [ ] Six Feet Under — 六呎风云
+- [ ] Oz — 监狱风云
+- [ ] The Shield — 光头神探
+- [ ] Star Trek: The Next Generation — 银河飞龙
+- [ ] House — 怪医豪斯
+- [ ] Friday Night Lights — 胜利之光
+- [ ] Arrested Development — 发展受阻
+- [ ] Severance — 人生切割术
+- [ ] The Marvelous Mrs. Maisel — 漫才梅索太太
+- [ ] This Is Us — 这就是我们
+- [ ] The X-Files — X档案
+- [ ] Parks and Recreation — 公园与游憩
+- [ ] Deadwood — 化外国度
+- [ ] Daredevil — 漫威夜魔侠
+- [ ] Lonesome Dove
+- [ ] The Offer — 教父秘辛
+- [ ] Shōgun — 幕府将军
+- [ ] Pose — 艳放80
+- [ ] The Penguin — 企鹅人
+- [ ] Boardwalk Empire — 海滨帝国
+- [ ] Homicide: Life on the Street — 情理法的春天
+- [ ] Dopesick — 成瘾剂量
+- [ ] Mystery Science Theater 3000
+- [ ] Critical Role
+- [ ] Justified — 火线警探
+- [ ] What We Do in the Shadows — 吸血鬼家庭尸篇
+- [ ] The Haunting of Hill House — 鬼入侵
+- [ ] Flight of the Conchords — 痞客二人组
+- [ ] Mr. Robot — 骇客军团
+- [ ] The Queen's Gambit — 后翼弃兵
+- [ ] The Boys — 黑袍纠察队
+- [ ] Sons of Anarchy — 飙风不归路
+- [ ] Whose Line Is It Anyway?
+- [ ] Impractical Jokers
+- [ ] Louie — 路易不容易
+- [ ] The Eric Andre Show
+- [ ] The Expanse — 太空无垠
+- [x] 2 Broke Girls — 破产姐妹
+- [x] Atlanta — 亚特兰大
+- Breaking Bad franchise — 绝命毒师系列
+	- [x] Breaking Bad — 绝命毒师 ⭐
+	- [x] Better Call Saul — 风骚律师 ⭐
+	- [ ] El Camino: A Breaking Bad Movie — 续命之徒：绝命毒师电影
+- Friends franchise — 老友记系列
+	- [x] Friends — 老友记 ⭐
+	- [ ] Joey — 乔伊
+- Gossip Girl series — 绯闻女孩系列
+	- [x] Gossip Girl（2007） — 绯闻女孩（2007）⭐
+	- [ ] Gossip Girl（2021） — 绯闻女孩（2021）
+- [x] Mad Men — 广告狂人 ⭐
+- [x] Shameless — 无耻之徒 ⭐
+- [x] Silicon Valley — 硅谷
+- The Big Bang Theory franchise — 生活大爆炸系列
+	- [x] The Big Bang Theory — 生活大爆炸 ⭐
+	- [ ] Young Sheldon — 小谢尔顿
+	- [ ] Georgie & Mandy's First Marriage — 乔治和曼迪的头婚生活
+- [x] The Newsroom — 新闻编辑室 ⭐
+- [ ] The West Wing — 白宫风云
+- [x] House of Cards — 纸牌屋 ⭐
+- A Song of Ice and Fire television franchise — 冰与火之歌电视剧系列
+	- [ ] Game of Thrones — 权力的游戏
+	- [ ] House of the Dragon — 龙之家族
+	- [ ] A Knight of the Seven Kingdoms — 七王国的骑士
+- [ ] Succession — 继承之战
+- [ ] Mindhunter — 心灵猎人
+- Prison Break series — 越狱系列
+	- [ ] Prison Break — 越狱
+	- [ ] Prison Break: The Final Break — 越狱特别篇：最后一越
+- The Walking Dead television universe — 行尸走肉电视系列
+	- [ ] The Walking Dead — 行尸走肉
+	- [ ] Fear the Walking Dead — 行尸之惧
+	- [ ] The Walking Dead: World Beyond — 行尸走肉：外面的世界
+	- [ ] Tales of the Walking Dead — 行尸传说
+	- [ ] The Walking Dead: Dead City — 行尸走肉：死亡之城
+	- [ ] The Walking Dead: Daryl Dixon — 行尸走肉：达里尔·迪克森
+	- [ ] The Walking Dead: The Ones Who Live — 行尸走肉：存活之人
+- Sex and the City franchise — 欲望都市系列
+	- [ ] Sex and the City — 欲望都市
+	- [ ] Sex and the City — 欲望都市（电影）
+	- [ ] Sex and the City 2 — 欲望都市2
+	- [ ] The Carrie Diaries — 凯莉日记
+	- [ ] And Just Like That... — 就这样…
+- [ ] Lost — 迷失
+- [ ] Desperate Housewives — 绝望主妇
+- Grey's Anatomy franchise — 实习医生格蕾系列
+	- [ ] Grey's Anatomy — 实习医生格蕾
+	- [ ] Private Practice — 私人诊所
+	- [ ] Station 19 — 19号消防局
+- [ ] Westworld — 西部世界
+- [x] Stranger Things — 怪奇物语
+#### United Kingdom（英国）
+- Blackadder television series — 黑爵士电视剧系列
+	- [ ] Blackadder II
+	- [ ] Blackadder the Third
+	- [ ] Blackadder Goes Forth
+- Granada Sherlock Holmes series — 格拉纳达福尔摩斯系列
+	- [ ] The Adventures of Sherlock Holmes
+	- [ ] The Return of Sherlock Holmes
+- Yes Minister television series — 是，大臣电视剧系列
+	- [ ] Yes Minister — 部长大人
+	- [ ] Yes, Prime Minister
+- The Office television franchise — 办公室电视剧系列
+	- [ ] The Office（2001） — The Office
+	- [ ] The Office（2005） — 办公室疯云
+- [ ] Band of Brothers — 兄弟连
+- [ ] Only Fools and Horses — 只有傻瓜和马
+- [ ] Taskmaster
+- [ ] Monty Python's Flying Circus — 蒙提．派森的飞行马戏团
+- [ ] Fawlty Towers — 非常大酒店
+- [ ] Pride and Prejudice — 傲慢与偏见
+- [ ] I, Claudius
+- [x] Black Mirror — 黑镜  ⭐
+- [ ] Rome — 罗马的荣耀
+- [ ] The Grand Tour — 壮游之旅
+- [ ] Downton Abbey — 唐顿庄园
+- [ ] Fleabag — 邋遢女郎
+- [ ] Peep Show
+- [ ] Still Game
+- [ ] Line of Duty — 重任在肩
+- [ ] Top Gear — 顶级跑车秀
+- [ ] The Thick of It — 幕后危机
+- [ ] Father Ted
+- [ ] Poirot — 白罗神探
+- [ ] The Crown — 王冠
+- [ ] It's a Sin
+- [x] Mr. Bean — 憨豆先生  ⭐
+- [ ] QI
+- [ ] Endeavour — 摩斯探长前传
+- [ ] Detectorists
+- [ ] The IT Crowd — IT狂人
+- [ ] I'm Alan Partridge
+- [ ] Coupling
+- [ ] Happy Valley
+- [ ] Derry Girls — 北爱少女
+- [ ] All Creatures Great & Small — 菜鸟兽医日记
+- [ ] Spaced
+- [ ] Mind Your Language
+- [ ] Brass Eye
+- [ ] The Great British Baking Show — 英国烘焙大赛
+- Peaky Blinders franchise — 浴血黑帮系列
+	- [x] Peaky Blinders — 浴血黑帮
+	- [ ] Peaky Blinders: The Immortal Man — 浴血黑帮：不朽之人
+- [x] Sherlock — 神探夏洛克 ⭐
+#### Germany（德国）
+- [ ] Das Boot（1985） — Das Boot
+- [ ] Dark — 暗黑
+#### South Korea（韩国）
+- [ ] Pokssak sogatsuda — 苦尽柑来遇见你
+- [ ] 응답하라 1988 — 请回答1988
+- [ ] 나의 아저씨 — 我的大叔
+- [ ] Sarangeui bulsachak — 爱的迫降
+- [ ] 환혼 — 还魂
+- [ ] Banjjagineun Woteomellon — 闪亮的西瓜
+- 오징어 게임 프랜차이즈 — 鱿鱼游戏系列
+	- [x] 오징어 게임 — 鱿鱼游戏 ⭐
+	- [ ] Squid Game: The Challenge — 鱿鱼游戏：真人挑战赛
+#### China, Mainland（中国大陆）
+- [ ] 双响炮
+- [ ] 倚天屠龙记（版本未注明）
+- [ ] 棋武士
+- [ ] 策马啸西风
+- 铁齿铜牙纪晓岚系列 ⭐
+	- [x] 铁齿铜牙纪晓岚
+	- [x] 铁齿铜牙纪晓岚2
+	- [x] 铁齿铜牙纪晓岚3
+	- [x] 铁齿铜牙纪晓岚4
+- 康熙微服私访记系列
+	- [x] 康熙微服私访记
+	- [ ] 康熙微服私访记2
+	- [ ] 康熙微服私访记3
+	- [ ] 康熙微服私访记4
+	- [ ] 康熙微服私访记5
+- [ ] 五月槐花香
+- 神医喜来乐系列
+	- [x] 神医喜来乐
+	- [ ] 神医喜来乐传奇
+- [ ] 财神到（1999）
+- [ ] 粉红女郎
+- 大宅门系列
+	- [x] 大宅门
+	- [ ] 大宅门2
+	- [ ] 大宅门1912
+- [ ] 满汉全席
+- 还珠格格电视剧系列
+	- [x] 还珠格格
+	- [ ] 还珠格格第二部
+	- [ ] 还珠格格第三部：天上人间
+	- [ ] 新还珠格格
+- [ ] 东北一家人
+- [ ] 翡翠凤凰
+- [ ] 佛跳墙
+- 西游记（1986年电视剧）系列
+	- [x] 西游记（1986年电视剧） ⭐
+	- [ ] 西游记续集
+- 猪八戒电视剧系列
+	- [ ] 春光灿烂猪八戒
+	- [ ] 福星高照猪八戒
+	- [ ] 喜气洋洋猪八戒
+- [x] 水浒传
+- 武林外传系列
+	- [x] 武林外传（电视剧）
+	- [ ] 武林外传（电影）
+- 水月洞天系列
+	- [ ] 水月洞天
+	- [ ] 灵镜传奇
+- [ ] 一脚定江山
+- [ ] 刀锋1937
+- [ ] 天下第一
+- [ ] 情深深雨蒙蒙
+- [ ] 天下第一丑
+- [ ] 上错花轿嫁对郎
+- [x] 妙手神捕俏佳人
+- [ ] 九岁县太爷
+- 李卫当官系列
+	- [ ] 李卫当官
+	- [ ] 李卫当官2
+	- [ ] 李卫当官3：大内低手
+- [ ] 潜伏
+- 马大帅系列
+	- [ ] 马大帅
+	- [ ] 马大帅2
+	- [ ] 马大帅3
+- [ ] 穿越时空的爱恋
+- 我爱我家系列
+	- [ ] 我爱我家
+	- [ ] 圆圆的故事
+- 爱情公寓系列 ⭐
+	- [x] 爱情公寓
+	- [x] 爱情公寓外传
+	- [x] 爱情公寓2
+	- [x] 爱情公寓3
+	- [x] 爱情公寓4
+	- [x] 爱情公寓（电影）
+	- [ ] 爱情公寓5
+- [ ] 连城诀
+- [ ] 绝对计划
+- [ ] 西游记后传
+- 少年包青天系列
+	- [ ] 少年包青天
+	- [ ] 少年包青天Ⅱ
+	- [ ] 少年包青天Ⅲ之天芒传奇
+- 闲人马大姐系列
+	- [ ] 闲人马大姐
+	- [ ] 马大姐外传
+	- [ ] 马大姐新传
+- [ ] 康熙王朝
+- [ ] 少年黄飞鸿
+- [x] 倚天屠龙记（苏有朋版）
+- [ ] 武林外史
+- [ ] 永不磨灭的番号
+- 刘老根系列
+	- [ ] 刘老根
+	- [ ] 刘老根2
+	- [ ] 刘老根3
+	- [ ] 刘老根4
+	- [ ] 刘老根5
+- [x] 隋唐英雄传
+- [ ] 金粉世家
+- [ ] 新鸳鸯蝴蝶梦
+- 大汉天子系列
+	- [ ] 大汉天子
+	- [ ] 大汉天子Ⅱ
+	- [ ] 大汉天子Ⅲ
+- [ ] 吕布与貂蝉
+- [ ] 汉武大帝
+- [ ] 黑洞
+- 激情燃烧的岁月系列
+	- [x] 激情燃烧的岁月
+	- [ ] 激情燃烧的岁月2
+- [ ] 聚宝盆
+- [ ] 乱世英雄吕不韦
+- [ ] 落地，请开手机
+- [x] 三国演义（1994年电视剧）
+- 田教授家系列
+	- [ ] 田教授家的二十八个保姆
+	- [ ] 田教授家的二十八个亲戚
+- 王保长新篇系列
+	- [ ] 王保长新篇
+	- [ ] 王保长新篇Ⅱ死去生来
+- [ ] 我这一辈子
+- [ ] 乌龙闯情关
+- 仙剑奇侠传电视剧系列
+	- [ ] 仙剑奇侠传
+	- [x] 仙剑奇侠传三
+	- [ ] 仙剑云之凡
+	- [ ] 仙剑四
+	- [ ] 祈今朝
+	- [ ] 又见逍遥
+- [ ] 萧十一郎
+- [ ] 雪花女神龙
+- [ ] 御前四宝
+- [x] 宰相刘罗锅
+- [ ] 小人物的故事（具体作品待确认）
+- [ ] 征服
+- [ ] 大明王朝1566
+- 家有儿女系列
+	- [x] 家有儿女
+	- [ ] 家有儿女2
+	- [ ] 家有儿女3
+	- [ ] 家有儿女4
+	- [ ] 家有儿女初长成
+	- [ ] 家有儿女初长成2
+- 快乐星球系列
+	- [x] 快乐星球
+	- [x] 快乐星球2
+	- [ ] 快乐星球3
+	- [ ] 快乐星球4
+	- [ ] 快乐星球5
+	- [ ] 快乐星球之三十六号
+- 魔幻手机系列
+	- [x] 魔幻手机
+	- [ ] 魔幻手机2：傻妞归来
+- 神探狄仁杰系列 ⭐
+	- [x] 神探狄仁杰 
+	- [x] 神探狄仁杰2
+	- [x] 神探狄仁杰3
+- [ ] 火蓝刀锋
+- 火力少年王系列
+	- [x] 火力少年王
+	- [ ] 火力少年王2
+	- [ ] 火力少年王3
+	- [ ] 火力少年王之舞动火力
+	- [ ] 火力少年王之传奇再现
+	- [ ] 火力少年王之传奇再现续集
+	- [ ] 火力少年王之悠风三少年
+- 巴啦啦小魔仙系列
+	- [x] 巴啦啦小魔仙
+	- [ ] 巴啦啦小魔仙之彩虹心石
+	- [ ] 巴啦啦小魔仙之奇迹舞步
+	- [ ] 巴啦啦小魔仙之梦幻旋律
+	- [ ] 巴啦啦小魔仙之音符之谜
+	- [ ] 巴啦啦小魔仙之飞越彩灵堡
+	- [ ] 巴啦啦小魔仙之魔法海萤堡
+	- [ ] 巴啦啦小魔仙之魔法海萤堡Ⅱ
+	- [ ] 巴啦啦小魔仙之魔法星缘堡
+	- [ ] 巴啦啦小魔仙之星缘蝶启
+	- [ ] 巴啦啦小魔仙大电影
+	- [ ] 巴啦啦小魔仙之魔法的考验
+	- [ ] 巴啦啦小魔仙之魔箭公主
+- 铠甲勇士系列
+	- [x] 铠甲勇士
+	- [x] 铠甲勇士刑天 ⭐
+	- [ ] 铠甲勇士拿瓦
+	- [ ] 铠甲勇士捕将
+	- [ ] 铠甲勇士猎铠
+	- [ ] 铠甲勇士星曜诀醒
+	- [ ] 铠甲勇士之帝皇侠
+	- [ ] 铠甲勇士之雅塔莱斯
+	- [ ] 铠甲勇士捕王
+- 疯丫头系列
+	- [ ] 疯丫头
+	- [ ] 疯丫头2
+	- [ ] 疯丫头3
+	- [ ] 疯丫头4
+- [ ] 课间好时光
+- [x] 爆丸小子
+- 快乐酷宝系列
+	- [ ] 快乐酷宝
+	- [ ] 快乐酷宝2
+	- [ ] 快乐酷宝3
+#### Australia / China（澳大利亚／中国）
+- [x] Hoopla Doopla! — 奇妙小镇
+#### China, Hong Kong（中国香港）
+- [x] 功夫足球 ⭐
+- [ ] 鹿鼎记（陈小春版）
+- [ ] 齐天大圣孙悟空
+- [ ] A计划
+- [ ] 小鱼儿与花无缺
+- [x] 天龙八部（黄日华、陈浩民版）⭐
+- [ ] 神雕侠侣（古天乐、李若彤版）
+- [ ] 机灵小不懂
+- [ ] 谈判专家
+- [ ] 伙头智多星
+- [ ] 方谬神探
+- 肥猫寻亲记系列
+	- [ ] 肥猫寻亲记
+	- [ ] 肥猫寻亲记Ⅱ
+- [ ] 金装四大才子
+- [ ] 苗翠花
+- [ ] 上海滩
+- [ ] 鹿鼎记（张卫健版）
+- [ ] 寻秦记
+#### China, Taiwan（中国台湾）
+- 风云电视剧系列
+	- [ ] 风云
+	- [ ] 风云Ⅱ
+- [ ] 小李飞刀
+- [x] 新白娘子传奇
+- [ ] 笑傲江湖（任贤齐版）
+- [ ] 少年张三丰
+- [ ] 绝代双骄
+- 流星花园电视剧系列
+	- [x] 流星花园
+	- [ ] 流星雨
+	- [ ] 流星花园Ⅱ
+- 萌学园系列
+	- [ ] 萌学园之萌骑士传奇
+	- [ ] 萌学园2圣战再起
+	- [ ] 萌学园3魔法号令
+	- [ ] 萌学园4时空战役
+	- [ ] 萌学园5异界对决
+	- [ ] 萌学园六复活之战
+	- [ ] 萌学园：寻找盘古
+#### Singapore（新加坡）
+- [ ] 东游记
+- [ ] 我来也
+#### Japan（日本）
+- [ ] ビーロボカブタック — 铁甲小宝
+- ウルトラシリーズ — 奥特曼系列
+	- [ ] ウルトラQ — 奥特Q
+	- [x] ウルトラマン — 初代奥特曼 ⭐
+	- [x] ウルトラセブン — 赛文奥特曼 ⭐
+	- [x] 帰ってきたウルトラマン — 杰克奥特曼
+	- [ ] ウルトラマンA — 艾斯奥特曼
+	- [x] ウルトラマンタロウ — 泰罗奥特曼
+	- [x] ウルトラマンレオ — 雷欧奥特曼 ⭐
+	- [x] ウルトラマン80 — 艾迪奥特曼
+	- [ ] ウルトラマンG — 葛雷奥特曼
+	- [ ] ウルトラマンパワード — 帕瓦特奥特曼
+	- [x] ウルトラマンティガ — 迪迦奥特曼 ⭐
+	- [ ] ウルトラマンダイナ — 戴拿奥特曼
+	- [ ] ウルトラマンガイア — 盖亚奥特曼
+	- [ ] ウルトラマンネオス — 奈欧斯奥特曼
+	- [ ] ウルトラマンコスモス — 高斯奥特曼
+	- [ ] ウルトラマンネクサス — 奈克瑟斯奥特曼
+	- [ ] ウルトラマンマックス — 麦克斯奥特曼
+	- [ ] ウルトラマンメビウス — 梦比优斯奥特曼
+	- [ ] ウルトラマンギンガ — 银河奥特曼
+	- [ ] ウルトラマンギンガS — 银河奥特曼S
+	- [ ] ウルトラマンX — 艾克斯奥特曼
+	- [ ] ウルトラマンオーブ — 欧布奥特曼
+	- [ ] ウルトラマンジード — 捷德奥特曼
+	- [ ] ウルトラマンR/B — 罗布奥特曼
+	- [ ] ウルトラマンタイガ — 泰迦奥特曼
+	- [ ] ウルトラマンZ — 泽塔奥特曼
+	- [ ] ウルトラマントリガー NEW GENERATION TIGA — 特利迦奥特曼
+	- [ ] ウルトラマンデッカー — 德凯奥特曼
+	- [ ] ウルトラマンブレーザー — 布莱泽奥特曼
+	- [ ] ウルトラマンアーク — 亚刻奥特曼
+	- [ ] ウルトラマンオメガ — 欧米伽奥特曼
+	- [ ] ウルトラマンテオ — 泰欧奥特曼
+#### United Arab Emirates（阿拉伯联合酋长国）
+- [ ] Omar
+#### Australia（澳大利亚）
+- [ ] Mr Inbetween
+#### Canada（加拿大）
+- [ ] The Chosen — 神选之人
+- [ ] Anne with an E — 勇敢的安妮
+- [ ] Heated Rivalry — 巅峰对决
+- [ ] Trailer Park Boys — 拖车公园男孩
+- [ ] Schitt's Creek — 富家穷路
+#### France（法国）
+- [ ] Le bureau des légendes
+#### India（印度）
+- Mahabharat television adaptations — 摩诃婆罗多电视剧版本
+	- [ ] Mahabharat（1988）
+	- [ ] Mahabharat（2013）
+- [ ] Scam 1992: The Harshad Mehta Story
+- [ ] TVF Pitchers
+- [ ] Panchayat
+- [ ] Gullak
+- [ ] Kota Factory — K书工厂
+- [ ] Ramayan
+- [ ] Aspirants
+- [ ] Sarabhai V/S Sarabhai
+- [ ] Sapne vs Everyone
+- [ ] Yeh Meri Family
+- [ ] Rocket Boys
+- [ ] The Family Man — 冲突边缘
+#### Italy（意大利）
+- [ ] Gomorra — 娥摩拉
+- [ ] L'amica geniale
+#### Mexico（墨西哥）
+- [ ] El Chavo del Ocho
+#### Poland（波兰）
+- [ ] Dekalog — 十诫
+#### Serbia（塞尔维亚）
+- [ ] Senke nad Balkanom
+#### Saudi Arabia（沙特阿拉伯）
+- [ ] Tash Ma Tash
+#### Sweden（瑞典）
+- [ ] Bron/Broen — 双城之桥
+#### Türkiye（土耳其）
+- [ ] Gibi
+- [ ] Sahsiyet
+- [ ] Leyla ile Mecnun
+- [ ] Behzat Ç.
+- [ ] Ezel
+### Films
+#### United States（美国）⭐
+- Star Wars original trilogy — 星球大战原创三部曲
+	- [x] Star Wars: Episode IV - A New Hope — 星球大战
+	- [ ] Star Wars: Episode V - The Empire Strikes Back — 星球大战2：帝国反击战
+	- [ ] Star Wars: Episode VI - Return of the Jedi — 星球大战3：绝地归来
+- Kill Bill film series — 杀死比尔电影系列
+	- [x] Kill Bill: Vol. 1 — 杀死比尔
+	- [x] Kill Bill: The Whole Bloody Affair — 杀死比尔：血色全传
+- Avengers film series — 复仇者联盟电影系列
+	- [x] Avengers: Infinity War — 复仇者联盟3：无限战争
+	- [x] Avengers: Endgame — 复仇者联盟4：终局之战
+- Indiana Jones film series — 夺宝奇兵电影系列
+	- [x] Raiders of the Lost Ark — 夺宝奇兵
+	- [ ] Indiana Jones and the Last Crusade — 夺宝奇兵3
+- [ ] GoodFellas — 好家伙
+- [ ] One Flew Over the Cuckoo's Nest — 飞越疯人院
+- [ ] It's a Wonderful Life — 生活多美好
+- [ ] Back to the Future — 回到未来
+- [ ] Gladiator — 角斗士
+- [ ] Psycho — 惊魂记
+- [ ] The Departed — 无间道风云
+- [ ] American History X — 美国X档案
+- [ ] The Usual Suspects — 非常嫌疑犯
+- [ ] Rear Window — 后窗
+- [ ] City Lights — 城市之光
+- [ ] Apocalypse Now — 现代启示录
+- [x] Dune: Part Two — 沙丘Ⅱ
+- [ ] Sunset Boulevard — 日落大道
+- [ ] Witness for the Prosecution — 控方证人
+- [ ] Paths of Glory — 光荣之路
+- [ ] The Great Dictator — 大独裁者
+- [ ] Inglourious Basterds — 无耻混蛋
+- [ ] American Beauty — 美国丽人
+- [ ] Singin' in the Rain — 雨中曲
+- [ ] Joker — 小丑
+- [ ] Requiem for a Dream — 梦之安魂曲
+- [ ] Eternal Sunshine of the Spotless Mind — 暖暖内含光
+- [ ] The Apartment — 桃色公寓
+- [ ] Heat — 盗火线
+- [x] Reservoir Dogs — 落水狗
+- [ ] Double Indemnity — 双重赔偿
+- [ ] North by Northwest — 西北偏北
+- [ ] Vertigo — 迷魂记
+- [ ] Citizen Kane — 公民凯恩
+- [ ] Die Hard — 虎胆龙威
+- [ ] To Kill a Mockingbird — 杀死一只知更鸟
+- [ ] The Sting — 骗中骗
+- [ ] The Wolf of Wall Street — 华尔街之狼
+- [ ] L.A. Confidential — 洛城机密
+- [x] Green Book — 绿皮书
+- [x] Oppenheimer — 奥本海默
+- [ ] Judgment at Nuremberg — 纽伦堡大审判
+- [x] Jurassic Park — 侏罗纪公园
+- [x] Hamilton — 汉密尔顿
+- [ ] Taxi Driver — 出租车司机
+- [ ] Some Like It Hot — 热情似火
+- [ ] There Will Be Blood — 血色将至
+- [ ] The Kid — 寻子遇仙记
+- [ ] All About Eve — 彗星美人
+- [ ] The Sixth Sense — 第六感
+- [ ] Project Hail Mary — 挽救计划
+- [x] Casino — 赌城风云
+- [x] The Thing — 怪形
+- [ ] No Country for Old Men — 老无所依
+- [ ] Prisoners — 囚徒
+- [x] Top Gun: Maverick — 壮志凌云：独行侠
+- [ ] Unforgiven — 不由饶恕
+- [ ] The Treasure of the Sierra Madre — 碧血金沙
+- [ ] The Elephant Man — 象人
+- [ ] The Great Escape — 大逃亡
+- [ ] Dial M for Murder — 电话谋杀案
+- [ ] Chinatown — 唐人街
+- [x] V for Vendetta — V字仇杀队
+- [ ] Ben-Hur — 宾虚
+- [ ] Warrior — 勇士
+- [ ] Hacksaw Ridge — 血战钢锯岭
+- [ ] Million Dollar Baby — 百万美元宝贝
+- [ ] Raging Bull — 愤怒的公牛
+- [ ] Gran Torino — 老爷车
+- [x] Blade Runner — 银翼杀手
+- [ ] Gone Girl — 消失的爱人
+- [ ] Jaws — 大白鲨
+- [ ] Ford v Ferrari — 极速车王
+- [ ] The Gold Rush — 淘金记
+- [ ] Sherlock Jr. — 福尔摩斯二世
+- [ ] The Deer Hunter — 猎鹿人
+- [ ] The General — 将军号
+- [ ] Logan — 金刚狼3：殊死一战
+- [ ] Rocky — 洛奇
+- [ ] Mr. Smith Goes to Washington — 史密斯先生到华盛顿
+- [ ] Spotlight — 聚焦
+- [ ] On the Waterfront — 码头风云
+- [ ] The Best Years of Our Lives — 黄金时代
+- [ ] Hotel Rwanda — 卢旺达饭店
+- [ ] Platoon — 野战排
+- [ ] The Exorcist — 驱魔人
+- [ ] Stand by Me — 伴我同行
+- [ ] The Wizard of Oz — 绿野仙踪
+- [x] The Shawshank Redemption — 肖申克的救赎
+- [x] Forrest Gump — 阿甘正传
+- [x] Schindler's List — 辛德勒的名单
+- [x] Titanic — 泰坦尼克号 ⭐
+- [x] Inception — 盗梦空间
+- The Godfather trilogy — 教父三部曲⭐
+	- [x] The Godfather — 教父
+	- [x] The Godfather Part II — 教父2
+	- [x] The Godfather Part III — 教父3
+- [x] The Truman Show — 楚门的世界
+- [ ] Gone with the Wind — 乱世佳人
+- [x] The Pursuit of Happyness — 当幸福来敲门 ⭐ 
+- [ ] Fight Club — 搏击俱乐部
+- [ ] 12 Angry Men — 十二怒汉
+- [x] Interstellar — 星际穿越
+- [x] Flipped — 怦然心动
+- [x] Life of Pi — 少年派的奇幻漂流
+- [ ] Roman Holiday — 罗马假日
+- [x] Scent of a Woman — 闻香识女人 
+- [x] A Beautiful Mind — 美丽心灵
+- [x] Dead Poets Society — 死亡诗社 ⭐
+- [ ] Once Upon a Time in America — 美国往事
+- [x] Se7en — 七宗罪
+- Mission: Impossible film series — 碟中谍系列 ⭐
+	- [x] Mission: Impossible — 碟中谍
+	- [x] Mission: Impossible 2 — 碟中谍2
+	- [x] Mission: Impossible III — 碟中谍3
+	- [x] Mission: Impossible – Ghost Protocol — 碟中谍4：幽灵协议
+	- [x] Mission: Impossible – Rogue Nation — 碟中谍5：神秘国度
+	- [x] Mission: Impossible – Fallout — 碟中谍6：全面瓦解
+	- [x] Mission: Impossible – Dead Reckoning — 碟中谍7：致命清算
+	- [x] Mission: Impossible – The Final Reckoning — 碟中谍8：最终清算
+- [ ] The Prestige — 致命魔术
+- [x] Edward Scissorhands — 剪刀手爱德华
+- [x] The Sound of Music — 音乐之声
+- [x] Pulp Fiction — 低俗小说 ⭐
+- [x] The Curious Case of Benjamin Button — 本杰明·巴顿奇事
+- The Matrix film series — 黑客帝国系列
+	- [x] The Matrix — 黑客帝国
+	- [ ] The Matrix Reloaded — 黑客帝国2：重装上阵
+	- [ ] The Animatrix — 黑客帝国动画版
+	- [ ] The Matrix Revolutions — 黑客帝国3：矩阵革命
+	- [ ] The Matrix Resurrections — 黑客帝国：矩阵重启
+- Hannibal Lecter film series — 汉尼拔·莱克特电影系列
+	- [ ] Manhunter — 孽欲杀人夜
+	- [x] The Silence of the Lambs — 沉默的羔羊
+	- [ ] Hannibal — 汉尼拔
+	- [ ] Red Dragon — 红龙
+	- [ ] Hannibal Rising — 汉尼拔崛起
+- [x] Saving Private Ryan — 拯救大兵瑞恩
+- The Butterfly Effect film series — 蝴蝶效应系列
+	- [x] The Butterfly Effect — 蝴蝶效应
+	- [ ] The Butterfly Effect 2 — 蝴蝶效应2
+	- [ ] The Butterfly Effect 3: Revelations — 蝴蝶效应3：启示
+- [x] Good Will Hunting — 心灵捕手
+- [ ] Big Fish — 大鱼
+- [x] Shutter Island — 禁闭岛
+- [ ] Identity — 致命ID
+- [x] The Grand Budapest Hotel — 布达佩斯大饭店
+- Pirates of the Caribbean film series — 加勒比海盗系列 ⭐
+	- [x] Pirates of the Caribbean: The Curse of the Black Pearl — 加勒比海盗：黑珍珠号的诅咒
+	- [x] Pirates of the Caribbean: Dead Man's Chest — 加勒比海盗2：聚魂棺
+	- [x] Pirates of the Caribbean: At World's End — 加勒比海盗3：世界的尽头
+	- [x] Pirates of the Caribbean: On Stranger Tides — 加勒比海盗4：惊涛怪浪
+	- [x] Pirates of the Caribbean: Dead Men Tell No Tales — 加勒比海盗5：死无对证
+- [ ] Brokeback Mountain — 断背山
+- Before trilogy — 爱在三部曲
+	- [ ] Before Sunrise — 爱在黎明破晓前
+	- [ ] Before Sunset — 爱在日落黄昏时
+	- [ ] Before Midnight — 爱在午夜降临前
+- [ ] Modern Times — 摩登时代
+- Avatar film series — 阿凡达系列
+	- [x] Avatar — 阿凡达
+	- [x] Avatar: The Way of Water — 阿凡达：水之道
+	- [ ] Avatar: Fire and Ash — 阿凡达：火与烬
+- [ ] Catch Me If You Can — 猫鼠游戏
+- [ ] The Terminal — 幸福终点站
+- Saw film series — 电锯惊魂系列
+	- [ ] Saw — 电锯惊魂
+	- [ ] Saw II — 电锯惊魂2
+	- [ ] Saw III — 电锯惊魂3
+	- [ ] Saw IV — 电锯惊魂4
+	- [ ] Saw V — 电锯惊魂5
+	- [ ] Saw VI — 电锯惊魂6
+	- [ ] Saw 3D — 电锯惊魂7
+	- [ ] Jigsaw — 电锯惊魂8：竖锯
+	- [ ] Spiral: From the Book of Saw — 电锯惊魂9：漩涡
+	- [ ] Saw X — 电锯惊魂10
+- Bourne film series — 谍影重重系列
+	- [ ] The Bourne Identity — 谍影重重
+	- [ ] The Bourne Supremacy — 谍影重重2
+	- [ ] The Bourne Ultimatum — 谍影重重3
+	- [ ] The Bourne Legacy — 谍影重重4
+	- [ ] Jason Bourne — 谍影重重5
+- [ ] Rain Man — 雨人
+- [ ] Legends of the Fall — 燃情岁月
+- [ ] Memento — 记忆碎片
+- [x] A.I. Artificial Intelligence — 人工智能
+- [ ] Whiplash — 爆裂鼓手
+- [x] Django Unchained — 被解救的姜戈
+- [x] The Green Mile — 绿里奇迹
+- [x] The Rock — 勇闯夺命岛
+- [ ] Casablanca — 卡萨布兰卡
+- The Man from Earth film series — 这个男人来自地球系列
+	- [x] The Man from Earth — 这个男人来自地球 ⭐
+	- [ ] The Man from Earth: Holocene — 这个男人来自地球：全新纪
+- Terminator film series — 终结者系列
+	- [x] The Terminator — 终结者
+	- [ ] Terminator 2: Judgment Day — 终结者2：审判日
+	- [ ] Terminator 3: Rise of the Machines — 终结者3：机器的觉醒
+	- [ ] Terminator Salvation — 终结者2018
+	- [ ] Terminator Genisys — 终结者：创世纪
+	- [ ] Terminator: Dark Fate — 终结者：黑暗命运
+- [x] E.T. the Extra-Terrestrial — E.T.外星人
+- [x] Braveheart — 勇敢的心 ⭐
+- [ ] Waterloo Bridge — 魂断蓝桥
+- Transformers live-action film series — 变形金刚真人电影系列 ⭐
+	- [x] Transformers — 变形金刚
+	- [x] Transformers: Revenge of the Fallen — 变形金刚2：卷土重来
+	- [x] Transformers: Dark of the Moon — 变形金刚3：月黑之时
+	- [x] Transformers: Age of Extinction — 变形金刚4：绝迹重生
+	- [x] Transformers: The Last Knight — 变形金刚5：最后的骑士
+	- [ ] Bumblebee — 大黄蜂
+	- [x] Transformers: Rise of the Beasts — 变形金刚：超能勇士崛起
+- Iron Man trilogy — 钢铁侠三部曲 ⭐
+	- [x] Iron Man — 钢铁侠
+	- [x] Iron Man 2 — 钢铁侠2
+	- [x] Iron Man 3 — 钢铁侠3
+- Batman live-action film series — 蝙蝠侠真人电影系列
+	- [ ] Batman（1966） — 蝙蝠侠（1966）
+	- [ ] Batman（1989） — 蝙蝠侠（1989）
+	- [ ] Batman Returns — 蝙蝠侠归来
+	- [ ] Batman Forever — 永远的蝙蝠侠
+	- [ ] Batman & Robin — 蝙蝠侠与罗宾
+	- [ ] Batman Begins — 蝙蝠侠：侠影之谜
+	- [ ] The Dark Knight — 蝙蝠侠：黑暗骑士
+	- [ ] The Dark Knight Rises — 蝙蝠侠：黑暗骑士崛起
+	- [ ] The Batman — 新蝙蝠侠
+- Spider-Man live-action film series — 蜘蛛侠真人电影系列 ⭐
+	- [x] Spider-Man — 蜘蛛侠 
+	- [x] Spider-Man 2 — 蜘蛛侠2
+	- [x] Spider-Man 3 — 蜘蛛侠3
+	- [ ] The Amazing Spider-Man — 超凡蜘蛛侠
+	- [ ] The Amazing Spider-Man 2 — 超凡蜘蛛侠2
+	- [ ] Spider-Man: Homecoming — 蜘蛛侠：英雄归来
+	- [ ] Spider-Man: Far From Home — 蜘蛛侠：英雄远征
+	- [ ] Spider-Man: No Way Home — 蜘蛛侠：英雄无归
+- [x] Scar Face  ⭐
+- [x] Miami Vice
+#### United Kingdom（英国）
+- Alien film series — 异形电影系列
+	- [ ] Alien — 异形
+	- [ ] Aliens — 异形2
+- [ ] The Shining — 闪灵
+- [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb — 奇爱博士
+- [ ] Lawrence of Arabia — 阿拉伯的劳伦斯
+- [ ] Full Metal Jacket — 全金属外壳
+- [ ] I Swear — 出口成脏
+- [ ] A Clockwork Orange — 发条橙
+- [ ] 1917
+- [ ] Snatch — 偷拐抢骗
+- [ ] The Father — 困在时间里的父亲
+- [ ] Monty Python and the Holy Grail — 巨蟒与圣杯
+- [x] Trainspotting — 猜火车
+- [ ] Three Billboards Outside Ebbing, Missouri — 三块广告牌
+- [ ] The Bridge on the River Kwai — 桂河大桥
+- [ ] Barry Lyndon — 巴里·林登
+- [ ] Fargo（1996） — 冰血暴
+- [x] 12 Years a Slave — 为奴十二年
+- [ ] The Third Man — 第三人
+- [ ] The Big Lebowski — 谋杀绿脚趾
+- [ ] Hachi: A Dog's Tale — 忠犬八公的故事
+- [ ] Rush — 极速风流
+- [ ] Lock, Stock and Two Smoking Barrels — 两杆大烟枪
+- Wizarding World film series — 魔法世界电影系列
+	- [ ] Harry Potter and the Philosopher's Stone — 哈利·波特与魔法石
+	- [ ] Harry Potter and the Chamber of Secrets — 哈利·波特与密室
+	- [ ] Harry Potter and the Prisoner of Azkaban — 哈利·波特与阿兹卡班的囚徒
+	- [ ] Harry Potter and the Goblet of Fire — 哈利·波特与火焰杯
+	- [ ] Harry Potter and the Order of the Phoenix — 哈利·波特与凤凰社
+	- [ ] Harry Potter and the Half-Blood Prince — 哈利·波特与混血王子
+	- [ ] Harry Potter and the Deathly Hallows – Part 1 — 哈利·波特与死亡圣器（上）
+	- [ ] Harry Potter and the Deathly Hallows – Part 2 — 哈利·波特与死亡圣器（下）
+	- [ ] Fantastic Beasts and Where to Find Them — 神奇动物在哪里
+	- [ ] Fantastic Beasts: The Crimes of Grindelwald — 神奇动物：格林德沃之罪
+	- [ ] Fantastic Beasts: The Secrets of Dumbledore — 神奇动物：邓布利多之谜
+- [ ] The Boy in the Striped Pyjamas — 穿条纹睡衣的男孩
+- [x] Slumdog Millionaire — 贫民窟的百万富翁
+- [x] The English Patient — 英国病人
+- [x] The Imitation Game — 模仿游戏 ⭐
+- [x] The King's Speech — 国王的演讲
+- Space Odyssey film series — 太空漫游电影系列 
+	- [x] 2001: A Space Odyssey — 2001太空漫游 ⭐
+	- [ ] 2010: The Year We Make Contact — 2010：威震太阳神
+#### France（法国）
+- [ ] The Pianist — 钢琴家
+- [ ] Amadeus — 莫扎特传
+- [ ] Le salaire de la peur — 恐惧的代价
+- [ ] La Haine — 怒火青春
+- [ ] La passion de Jeanne d'Arc — 圣女贞德蒙难记
+- [x] Léon — 这个杀手不太冷 ⭐
+- [x] Les Choristes — 放牛班的春天
+- [ ] Intouchables — 触不可及
+- [ ] Le Fabuleux Destin d'Amélie Poulain — 天使爱美丽
+- [x] La Grande Vadrouille — 虎口脱险
+#### Italy（意大利）
+- Dollars Trilogy — 镖客三部曲
+	- [ ] Per qualche dollaro in più — 黄昏双镖客
+	- [ ] Il buono, il brutto, il cattivo — 黄金三镖客
+- [ ] C'era una volta il West — 西部往事
+- [ ] Ladri di biciclette — 偷自行车的人
+- [x] La meglio gioventù — 灿烂人生
+- [ ] La battaglia di Algeri — 阿尔及尔之战
+- [x] La vita è bella — 美丽人生
+- [x] La leggenda del pianista sull'oceano — 海上钢琴师 ⭐
+- [ ] Nuovo Cinema Paradiso — 天堂电影院
+- [x] Malèna — 西西里的美丽传说
+#### Australia（澳大利亚）
+- Mad Max film series — 疯狂的麦克斯系列
+	- [x] Mad Max — 疯狂的麦克斯
+	- [x] Mad Max 2 — 疯狂的麦克斯2
+	- [x] Mad Max Beyond Thunderdome — 疯狂的麦克斯3
+	- [ ] Mad Max: Fury Road — 疯狂的麦克斯：狂暴之路
+	- [ ] Furiosa: A Mad Max Saga — 疯狂的麦克斯：狂暴女神
+#### Brazil（巴西）
+- [x] Cidade de Deus — 上帝之城 ⭐
+#### Denmark（丹麦）
+- [ ] Jagten — 狩猎
+#### South Korea（韩国）
+- [ ] Gisaengchung — 寄生虫
+- [ ] 올드보이 — 老男孩
+- [ ] Salinui chueok — 杀人回忆
+- [ ] 아가씨 — 小姐
+- [ ] 더 테러 라이브 — 恐怖直播
+#### Sweden（瑞典）
+- [ ] Smultronstället — 野草莓
+- [ ] Det sjunde inseglet — 第七封印
+- [ ] En man som heter Ove — 一个叫欧维的男人决定去死
+#### South Africa（南非）
+- The Gods Must Be Crazy film series — 上帝也疯狂系列
+	- [ ] The Gods Must Be Crazy — 上帝也疯狂
+	- [ ] The Gods Must Be Crazy II — 上帝也疯狂2
+#### International co-production（国际合拍）
+- Middle-earth film series — 中土世界电影系列 ⭐
+	- [x] The Lord of the Rings: The Fellowship of the Ring — 指环王：护戒使者
+	- [x] The Lord of the Rings: The Two Towers — 指环王：双塔奇兵
+	- [x] The Lord of the Rings: The Return of the King — 指环王：王者无敌
+	- [ ] The Hobbit: An Unexpected Journey — 霍比特人：意外之旅
+	- [ ] The Hobbit: The Desolation of Smaug — 霍比特人：史矛革之战
+	- [ ] The Hobbit: The Battle of the Five Armies — 霍比特人：五军之战
+	- [x] The Lord of the Rings: The War of the Rohirrim — 指环王：洛汗之战
+- [ ] The Last Emperor — 末代皇帝
+#### China, Mainland（中国大陆）
+- [ ] 鬼子来了
+- [x] 十面埋伏 ⭐
+- 非诚勿扰系列 ⭐
+	- [x] 非诚勿扰
+	- [x] 非诚勿扰2
+	- [x] 非诚勿扰3
+- [x] 让子弹飞 ⭐
+- [x] 阳光灿烂的日子
+- [ ] 霸王别姬
+- [x] 我不是药神
+- 流浪地球电影系列
+	- [x] 流浪地球 ⭐
+	- [x] 流浪地球2
+- [ ] 少年的你
+- [x] 你好，李焕英
+- [ ] 功夫
+- 唐人街探案电影系列 ⭐
+	- [x] 唐人街探案
+	- [x] 唐人街探案2
+	- [x] 唐人街探案3
+- [ ] 红海行动
+- [ ] 无名之辈
+- [x] 西虹市首富
+- “我和我的”电影系列
+	- [ ] 我和我的祖国
+	- [ ] 我和我的家乡
+- [x] 夏洛特烦恼
+- [ ] 无双
+- [ ] 驴得水
+- [ ] 战狼2
+- [ ] 满江红
+- [x] 飞驰人生
+- [x] 一出好戏
+- [ ] 误杀
+- [ ] 活着
+- [ ] 八佰
+- [x] 疯狂的石头
+- [ ] 美人鱼
+- [ ] 芳华
+- 囧途电影系列 ⭐
+	- [x] 人在囧途
+	- [x] 人再囧途之泰囧
+	- [ ] 囧妈
+- [ ] 老炮儿
+- [ ] 悬崖之上
+- [ ] 送你一朵小红花
+- [ ] 湄公河行动
+- [x] 长津湖
+- [ ] 中国机长
+- [ ] 妖猫传
+- [ ] 无问西东
+- [x] 扬名立万
+- [ ] 羞羞的铁拳
+- [x] 爱情神话 ⭐
+- [ ] 金陵十三钗
+- [x] 邪不压正
+- [ ] 疯狂的外星人
+- [ ] 诛仙1
+- [x] 独行月球
+- [ ] 刺杀小说家
+- [ ] 烈日灼心
+- [ ] 七月与安生
+- [x] 中国合伙人
+- [ ] 西游降魔篇
+- [x] 后会无期
+- [ ] 一代宗师
+- [ ] 寻龙诀
+- [ ] 风声
+- [ ] 失恋33天
+- [ ] 北京遇上西雅图
+- [ ] 乘风破浪
+- [ ] 影
+- [ ] 无名
+- [ ] 拆弹专家2
+- [ ] 半个喜剧
+- [ ] 动物世界
+- [ ] 奇迹·笨小孩
+- [ ] 心花路放
+- [ ] 捉妖记
+- [ ] 无人区
+- [ ] 人生大事
+- [x] 这个杀手不太冷静
+- [ ] 超时空同居
+- [ ] 心迷宫
+- [ ] 隐入尘烟
+- [ ] 天下无贼
+- [ ] 亲爱的
+- [ ] 狗十三
+- [x] 致我们终将逝去的青春
+- [x] 盲井（李杨） ⭐
+- [x] 蓝风筝 ⭐
+#### China, Hong Kong（中国香港） ⭐
+- 大话西游电影系列 ⭐
+	- [x] 大话西游之月光宝盒
+	- [ ] 大话西游之大圣娶亲
+	- [ ] 大话西游3
+- 无间道系列 ⭐
+	- [x] 无间道 
+	- [ ] 无间道II
+	- [ ] 无间道III：终极无间
+- [ ] 重庆森林
+- [ ] 春光乍泄
+- 射雕英雄传电影系列 ⭐
+	- [x] 射雕英雄传
+	- [ ] 射雕英雄传续集
+	- [ ] 射雕英雄传第三集
+- 倩女幽魂电影系列
+	- [x] 倩女幽魂
+	- [ ] 倩女幽魂II：人间道
+	- [ ] 倩女幽魂III：道道道
+- [ ] 岁月神偷
+- [x] 东邪西毒 ⭐
+- 喜剧之王电影系列
+	- [x] 喜剧之王 ⭐
+	- [x] 新喜剧之王
+- [x] 纵横四海
+- 英雄本色电影系列 ⭐
+	- [x] 英雄本色
+	- [x] 英雄本色II
+	- [ ] 英雄本色III夕阳之歌
+- [ ] 花样年华
+- 警察故事系列 ⭐
+	- [x] 警察故事
+	- [x] 警察故事续集
+	- [ ] 警察故事III超级警察
+	- [ ] 警察故事4之简单任务
+	- [ ] 新警察故事
+	- [ ] 警察故事2013
+- 赌圣系列 ⭐
+	- [x] 赌圣
+	- [x] 赌圣2：街头赌圣
+	- [x] 赌圣3：无名小子
+- 古惑仔正传系列 ⭐
+	- [x] 古惑仔之人在江湖
+	- [x] 古惑仔2之猛龙过江
+	- [x] 古惑仔3之只手遮天
+	- [ ] 97古惑仔：战无不胜
+	- [ ] 98古惑仔：龙争虎斗
+	- [ ] 胜者为王
+- 唐伯虎点秋香电影系列 ⭐
+	- [x] 唐伯虎点秋香
+	- [ ] 唐伯虎点秋香2之四大才子
+- [ ] 九品芝麻官 ⭐
+- [ ] 射雕英雄传之东成西就 ⭐
+- [ ] 甜蜜蜜
+- [ ] 青蛇
+- [ ] 阿飞正传
+- [ ] 志明与春娇
+- [ ] 天才与白痴
+- [ ] 暗花
+- [ ] 七十二家房客
+- [ ] 精武英雄
+- [ ] 细路祥
+- [ ] 监狱风云
+- [ ] 棋王
+- [ ] 金枝玉叶
+- [ ] 江山美人
+- [ ] 阿郎的故事
+- [ ] 投名状
+- [ ] 父子
+- [ ] 太阳有耳
+- [ ] 非常侦探
+- [ ] 败家仔
+- [ ] 爱奴
+- [ ] 玉女添丁
+- [ ] 武则天
+- [ ] 蝶影红梨记
+- [ ] 四千金
+- [ ] 天长地久
+- [ ] 误佳期
+- [ ] 红菱血（上集）
+- [x] 食神
+- [x] 赌神
+- [ ] 一个字头的诞生
+- [ ] 五郎八卦棍
+- [ ] 上海之夜
+- [ ] 打擂台
+- [ ] 中秋月
+- [ ] 豪门夜宴
+- [ ] A计划（1983）
+- [ ] 难兄难弟
+- [ ] 可怜天下父母心
+- [ ] 野兽刑警
+- [ ] 新不了情
+- [ ] 人海孤鸿
+- [ ] 紫钗记
+- [ ] 南海十三郎
+- [ ] 跛豪
+- [ ] 暗战
+- [ ] 新龙门客栈
+- [ ] 天水围的日与夜
+- [ ] 笑傲江湖2：东方不败
+- [ ] 珠江泪
+- [ ] 少林三十六房
+- [ ] 父母心
+- [x] 少林足球
+- [ ] 烈火青春
+- [ ] 撞到正
+- [ ] 猛龙过江
+- [ ] 寒夜
+- [ ] 秋天的童话
+- [ ] 危楼春晓
+- [ ] 旺角卡门
+- [ ] 曼波女郎
+- [ ] 92黑玫瑰对黑玫瑰
+- [ ] 第一类型危险
+- [x] 龙虎风云
+- [ ] 榴莲飘飘
+- [ ] 蜀山：新蜀山剑侠
+- [ ] 笼民
+- [ ] 清宫秘史
+- [ ] 父子情
+- [ ] 野玫瑰之恋
+- [ ] 醉拳
+- [ ] 半边人
+- [ ] 省港旗兵
+- [ ] 喋血双雄
+- [ ] 蝶变
+- [ ] 疯劫
+- [ ] 半斤八两
+- [ ] 黄飞鸿
+- [ ] 香港制造
+- [ ] 似水流年
+- [ ] 枪火
+- [ ] 精武门
+- [ ] 投奔怒海
+- [ ] 胭脂扣
+- [ ] 女人，四十
+- [ ] 阮玲玉
+#### China, Taiwan（中国台湾）
+- [ ] 饮食男女
+- [ ] 那些年，我们一起追的女孩
+- [ ] 色，戒
+- [ ] 我的少女时代
+#### Argentina（阿根廷）
+- [ ] El secreto de sus ojos — 谜一样的双眼
+- [ ] Relatos salvajes — 荒蛮故事
+#### Canada（加拿大）
+- [ ] Incendies — 焦土之城
+#### Germany（德国）
+- [ ] Das Leben der Anderen — 窃听风暴
+- [ ] Das Boot（1981） — 从海底出击
+- [ ] M - Eine Stadt sucht einen Mörder — M就是凶手
+- [ ] Metropolis — 大都会
+- [ ] Der Untergang — 帝国的毁灭
+- [ ] Höstsonaten — 秋日奏鸣曲
+#### Ireland（爱尔兰）
+- [ ] In the Name of the Father — 因父之名
+- [ ] Room — 房间
+#### India（印度）
+- [ ] 12th Fail — 12年级的失败
+- [x] 3 Idiots — 三傻大闹宝莱坞
+- [ ] Taare Zameen Par — 地球上的星星
+- [x] Dangal — 摔跤吧！爸爸
+- [ ] Jai Bhim — 杰伊·比姆
+- [ ] Maharaja — 因果报应
+- [ ] Drishyam — 较量
+- [ ] Laapataa Ladies — 迷途新娘
+#### Iran（伊朗）
+- [ ] Jodaeiye Nader az Simin — 一次别离
+- [ ] Bacheha-ye aseman — 小鞋子
+#### Japan（日本）
+- [ ] 七人の侍 — 七武士
+- [ ] 切腹
+- [ ] 天国と地獄 — 天国与地狱
+- [ ] 生きる — 生之欲
+- [ ] 乱
+- [ ] 用心棒
+- [ ] 羅生門 — 罗生门
+- [ ] 東京物語 — 东京物语
+#### Lebanon（黎巴嫩）
+- [ ] Capharnaüm — 何以为家
+#### Mexico（墨西哥）
+- [ ] El laberinto del fauno — 潘神的迷宫
+#### Soviet Union（苏联）
+- [ ] Idi i smotri — 自己去看
+#### Türkiye（土耳其）
+- [ ] Hababam Sinifi: Sinifta Kaldi
+- [ ] Babam ve Oglum — 我的父亲，我的儿子
+### Animation
+#### United States（美国）
+- Spider-Verse film series — 蜘蛛宇宙电影系列
+	- [ ] Spider-Man: Into the Spider-Verse — 蜘蛛侠：平行宇宙
+	- [ ] Spider-Man: Across the Spider-Verse — 蜘蛛侠：纵横宇宙
+- DC Animated Universe television series — DC动画宇宙电视剧系列
+	- [ ] Batman: The Animated Series — 蝙蝠侠
+	- [ ] Justice League — 正义联盟
+	- [ ] Justice League Unlimited — 正义联盟火力全开
+- [ ] Coco — 寻梦环游记
+- [x] Finding Nemo — 海底总动员
+- [ ] Inside Out — 头脑特工队
+- [ ] The Wild Robot — 荒野机器人
+- [ ] Ratatouille — 美食总动员
+- [ ] How to Train Your Dragon — 驯龙高手
+- [x] The Incredibles — 超人总动员
+- [ ] The Iron Giant — 钢铁巨人
+- [ ] Avatar: The Last Airbender — 降世神通
+- [ ] Arcane — 英雄联盟：双城之战
+- [ ] Over the Garden Wall — 谜样森林
+- [ ] X-Men '97 — X战警 '97
+- [ ] Invincible — 无敌少侠
+- [ ] Blue Eye Samurai — 蓝眼武士
+- [ ] The Simpsons — 辛普森一家
+- [ ] Adventure Time — 探险活宝
+- [ ] Primal
+- [ ] Scavengers Reign
+- [ ] Archer — 风流007
+- [ ] The Bugs Bunny Show — Bugs Bunny Show
+- [ ] The Venture Bros.
+- [ ] Regular Show — 天兵公园
+- [ ] Young Justice — 少年正义联盟
+- [ ] Samurai Jack — 杰克武士
+- [ ] Star Wars: Maul - Shadow Lord — 星际大战：暗影之王
+- [ ] The Boondocks
+- Tom and Jerry franchise — 猫和老鼠系列
+	- [ ] Tom and Jerry theatrical shorts — 猫和老鼠院线短片
+	- [ ] The Tom and Jerry Show（1975） — 猫和老鼠秀（1975）
+	- [ ] The Tom and Jerry Comedy Show — 汤姆猫与杰利鼠
+	- [ ] Tom & Jerry Kids — 小小汤姆与杰利
+	- [ ] Tom and Jerry: The Movie — 猫和老鼠大电影
+	- [ ] Tom and Jerry: The Magic Ring — 猫和老鼠：魔戒
+	- [ ] Tom and Jerry: Blast Off to Mars — 猫和老鼠：飞向火星
+	- [ ] Tom and Jerry: The Fast and the Furry — 猫和老鼠：飙风天王
+	- [ ] Tom and Jerry: Shiver Me Whiskers — 猫和老鼠：海盗寻宝
+	- [ ] Tom and Jerry Tales — 猫和老鼠传奇
+	- [ ] Tom and Jerry: A Nutcracker Tale — 猫和老鼠：胡桃夹子的传奇
+	- [ ] Tom and Jerry Meet Sherlock Holmes — 猫和老鼠与福尔摩斯
+	- [ ] Tom and Jerry & The Wizard of Oz — 猫和老鼠：绿野仙踪
+	- [ ] Tom and Jerry: Robin Hood and His Merry Mouse — 猫和老鼠：罗宾汉和他的机灵鼠
+	- [ ] Tom and Jerry's Giant Adventure — 猫和老鼠：巨人大冒险
+	- [ ] The Tom and Jerry Show（2014） — 猫和老鼠秀（2014）
+	- [ ] Tom and Jerry: The Lost Dragon — 猫和老鼠：迷失之龙
+	- [ ] Tom and Jerry: Spy Quest — 猫和老鼠：间谍使命
+	- [ ] Tom and Jerry: Back to Oz — 猫和老鼠：回到奥兹
+	- [ ] Tom and Jerry: Willy Wonka and the Chocolate Factory — 猫和老鼠：查理和巧克力工厂
+	- [ ] Tom & Jerry — 猫和老鼠（2021电影）
+	- [ ] Tom and Jerry in New York — 猫和老鼠在纽约
+	- [ ] Tom and Jerry: Cowboy Up! — 猫和老鼠：西部大冒险
+	- [ ] Tom and Jerry: Snowman's Land — 猫和老鼠：雪人国大冒险
+	- [ ] Tom and Jerry in Singapore — 猫和老鼠在新加坡
+- Ben 10 franchise — 少年骇客系列
+	- [ ] Ben 10 — 少年骇客
+	- [ ] Ben 10: Secret of the Omnitrix — 少年骇客：变身之谜
+	- [ ] Ben 10: Race Against Time — 少年骇客：与时间赛跑
+	- [ ] Ben 10: Alien Force — 少年骇客：外星势力
+	- [ ] Ben 10: Alien Swarm — 少年骇客：异形群体
+	- [ ] Ben 10: Ultimate Alien — 少年骇客：终极异形
+	- [ ] Ben 10: Destroy All Aliens — 少年骇客：歼灭所有外星人
+	- [ ] Ben 10: Omniverse — 少年骇客：全面进化
+	- [ ] Ben 10（2016） — 少年骇客（2016）
+	- [ ] Ben 10 Versus the Universe: The Movie — 少年骇客决战星际恶棍大电影
+- SpongeBob SquarePants franchise — 海绵宝宝系列
+	- [x] SpongeBob SquarePants — 海绵宝宝 ⭐
+	- [ ] The SpongeBob SquarePants Movie — 海绵宝宝历险记
+	- [ ] The SpongeBob Movie: Sponge Out of Water — 海绵宝宝：海陆大出击
+	- [ ] The SpongeBob Movie: Sponge on the Run — 海绵宝宝：营救大冒险
+	- [ ] Kamp Koral: SpongeBob's Under Years — 珊瑚营地
+	- [ ] The Patrick Star Show — 派大星秀
+	- [ ] Saving Bikini Bottom: The Sandy Cheeks Movie — 珊迪大电影：拯救比奇堡
+	- [ ] Plankton: The Movie — 痞老板大电影
+	- [ ] The SpongeBob Movie: Search for SquarePants — 海绵宝宝：深海大冒险
+- [x] BoJack Horseman — 马男波杰克 ⭐
+- Family Guy franchise — 恶搞之家系列 
+	- [x] Family Guy — 恶搞之家 ⭐
+	- [ ] The Cleveland Show — 克利夫兰秀
+- [x] Gravity Falls — 怪诞小镇
+- Rick and Morty franchise — 瑞克和莫蒂系列
+	- [x] Rick and Morty — 瑞克和莫蒂 ⭐
+	- [ ] Rick and Morty: The Anime — 瑞克和莫蒂：日漫版
+- South Park franchise — 南方公园系列
+	- [x] South Park — 南方公园 ⭐
+	- [ ] South Park: Bigger, Longer & Uncut — 南方公园：更大、更长、未删减
+	- [ ] South Park: Imaginationland — 南方公园：幻想大陆
+	- [ ] South Park: Post Covid — 南方公园：后新冠
+	- [ ] South Park: Post Covid: The Return of Covid — 南方公园：后新冠：新冠归来
+	- [ ] South Park the Streaming Wars — 南方公园：流媒体大战
+	- [ ] South Park the Streaming Wars Part 2 — 南方公园：流媒体大战第二部
+	- [ ] South Park: Joining the Panderverse — 南方公园：加入潘德宇宙
+	- [ ] South Park (Not Suitable for Children) — 南方公园：少儿不宜
+	- [ ] South Park: The End of Obesity — 南方公园：肥胖终结
+- The Lion King franchise — 狮子王系列
+	- [x] The Lion King — 狮子王
+	- [ ] The Lion King's Timon & Pumbaa — 彭彭丁满历险记
+	- [ ] The Lion King II: Simba's Pride — 狮子王2：辛巴的荣耀
+	- [ ] The Lion King 1½ — 狮子王1½
+	- [ ] The Lion Guard: Return of the Roar — 狮子护卫队：咆哮归来
+	- [ ] The Lion Guard — 狮子护卫队
+	- [ ] The Lion King（2019） — 狮子王（2019）
+	- [ ] Mufasa: The Lion King — 狮子王：木法沙传奇
+- [ ] WALL·E — 机器人总动员
+- Up franchise — 飞屋环游记系列
+	- [ ] Up — 飞屋环游记
+	- [ ] Dug Days — 小逗的日子
+- Zootopia franchise — 疯狂动物城系列
+	- [x] Zootopia — 疯狂动物城
+	- [ ] Zootopia+ — 疯狂动物城+
+	- [ ] Zootopia 2 — 疯狂动物城2
+- Despicable Me franchise — 神偷奶爸系列
+	- [ ] Despicable Me — 神偷奶爸
+	- [ ] Despicable Me 2 — 神偷奶爸2
+	- [ ] Minions — 小黄人大眼萌
+	- [ ] Despicable Me 3 — 神偷奶爸3
+	- [ ] Minions: The Rise of Gru — 小黄人大眼萌：神偷奶爸前传
+	- [ ] Despicable Me 4 — 神偷奶爸4
+	- [ ] Minions & Monsters — 小黄人与怪兽
+- The Croods franchise — 疯狂原始人系列
+	- [ ] The Croods — 疯狂原始人
+	- [ ] Dawn of the Croods — 疯狂原始人：始祖家族
+	- [ ] The Croods: A New Age — 疯狂原始人2
+	- [ ] The Croods: Family Tree — 疯狂原始人：家谱
+- Monsters, Inc. franchise — 怪兽电力公司系列
+	- [ ] Monsters, Inc. — 怪兽电力公司
+	- [ ] Monsters University — 怪兽大学
+	- [ ] Monsters at Work — 怪兽上班
+- Toy Story franchise — 玩具总动员系列
+	- [ ] Toy Story — 玩具总动员
+	- [ ] Toy Story 2 — 玩具总动员2
+	- [ ] Buzz Lightyear of Star Command: The Adventure Begins — 巴斯光年：星际使命
+	- [ ] Buzz Lightyear of Star Command — 巴斯光年
+	- [ ] Toy Story 3 — 玩具总动员3
+	- [ ] Toy Story of Terror! — 玩具总动员：惊魂夜
+	- [ ] Toy Story That Time Forgot — 玩具总动员：遗忘的时光
+	- [ ] Toy Story 4 — 玩具总动员4
+	- [ ] Forky Asks a Question — 叉叉问了一个问题
+	- [ ] Lightyear — 光年正传
+	- [ ] Toy Story 5 — 玩具总动员5
+- Ice Age franchise — 冰川时代系列
+	- [x] Ice Age — 冰川时代
+	- [ ] Ice Age: The Meltdown — 冰川时代2：融冰之灾
+	- [ ] Ice Age: Dawn of the Dinosaurs — 冰川时代3：恐龙的黎明
+	- [ ] Ice Age: A Mammoth Christmas — 冰川时代：猛犸象的圣诞
+	- [ ] Ice Age: Continental Drift — 冰川时代4：大陆漂移
+	- [ ] Ice Age: Collision Course — 冰川时代5：星际碰撞
+	- [ ] Ice Age: The Great Egg-Scapade — 冰川时代：巨蛋恶作剧
+	- [ ] The Ice Age Adventures of Buck Wild — 冰川时代：巴克大冒险
+	- [ ] Ice Age: Scrat Tales — 冰川时代：斯克特的传说
+- [x] Jackie Chan Adventures — 成龙历险记
+- Garfield screen franchise — 加菲猫影视系列
+	- [x] Garfield and Friends — 加菲猫和他的朋友们
+	- [ ] Garfield: The Movie — 加菲猫
+	- [ ] Garfield: A Tail of Two Kitties — 加菲猫2：双猫记
+	- [ ] Garfield Gets Real — 加菲猫的狂欢节
+	- [ ] Garfield's Fun Fest — 加菲猫的幸福生活
+	- [ ] Garfield's Pet Force — 加菲猫势力
+	- [ ] The Garfield Show — 加菲猫的幸福生活（动画剧集）
+	- [ ] Garfield Originals — 加菲猫原创短片
+	- [ ] The Garfield Movie — 加菲猫家族
+#### Canada（加拿大）
+- Transformers: Beast Era — 变形金刚：野兽时代系列
+	- [ ] Beast Wars: Transformers — 超能勇士
+	- [ ] Beast Machines: Transformers — 猛兽侠
+#### United Kingdom（英国）
+- [ ] Smiling Friends
+- Shaun the Sheep franchise — 小羊肖恩系列
+	- [x] Shaun the Sheep — 小羊肖恩
+	- [ ] Timmy Time — 小羊提米
+	- [ ] Learning Time with Timmy — 小羊提米学习时间
+	- [ ] Shaun the Sheep Movie — 小羊肖恩大电影
+	- [ ] Shaun the Sheep: The Farmer's Llamas — 小羊肖恩：农夫的美洲驼
+	- [ ] A Shaun the Sheep Movie: Farmageddon — 小羊肖恩2：末日农场
+	- [ ] Shaun the Sheep: Adventures from Mossy Bottom — 小羊肖恩：青苔农场的冒险
+	- [ ] Shaun the Sheep: The Flight Before Christmas — 小羊肖恩：圣诞大冒险
+#### France / China（法国／中国）
+- Martin Matin franchise — 马丁的早晨系列
+	- [x] Martin Matin — 马丁的早晨
+	- [ ] 百变马丁
+- [x] Shaolin Wuzang — 中华小子 ⭐
+#### South Korea（韩国）
+- 올림포스 가디언 시리즈 — 奥林匹斯星传系列
+	- [x] 올림포스 가디언 — 奥林匹斯星传
+	- [ ] 올림포스 가디언: 기간테스 대역습 — 奥林匹斯星传：巨人的反击
+#### Italy（意大利）
+- Gormiti animated series — 高米迪动画系列
+	- [ ] Gormiti（2008） — 高米迪（2008）
+	- [ ] Gormiti Nature Unleashed — 高米迪：自然力量
+	- [ ] Gormiti（2018） — 高米迪（2018）
+	- [ ] Gormiti: The New Era — 高米迪：新时代
+#### Japan（日本）⭐
+- [ ] 火垂るの墓 — 萤火虫之墓
+- [ ] 劇場版『チェンソーマン レゼ篇』 — 剧场版『链锯人 蕾洁篇』
+- [ ] 映画 聲の形 — 声之形
+- [ ] Death Note: Desu nôto — 死亡笔记
+- [ ] 葬送のフリーレン — 葬送的芙莉莲
+- [ ] BLEACH 千年血戦篇 — BLEACH死神 千年血战篇
+- [ ] ヴィンランド・サガ — 冰海战记
+- [ ] シュタインズ・ゲート (Shutainzu gēto) — 命运石之门
+- [ ] NARUTO -ナルト- 疾風伝 — 火影忍者疾风传
+- [ ] コードギアス 反逆のルルーシュ — CODE GEASS 反叛的鲁路修
+- [ ] はじめの一歩 — 第一神拳
+- [ ] ハイキュー!! — 排球少年！！
+- [ ] サムライチャンプルー — 混沌武士
+- [ ] モブサイコ100 — 路人超能100
+- [ ] 呪術廻戦 — 咒术回战
+- [ ] タコピーの原罪 — 章鱼哔的原罪
+- [ ] 四月は君の嘘 — 四月是你的谎言
+- [ ] 銀魂 — 银魂
+- [ ] 俺だけレベルアップな件 — 我独自升级
+- ガンダムシリーズ — 高达系列
+	- [x] 機動戦士ガンダム — 机动战士高达 ⭐
+	- [ ] 機動戦士Ζガンダム — 机动战士Z高达
+	- [ ] 機動戦士ガンダムΖΖ — 机动战士高达ZZ
+	- [ ] 機動戦士ガンダム 逆襲のシャア — 机动战士高达：逆袭的夏亚
+	- [ ] 機動戦士ガンダム0080 ポケットの中の戦争 — 机动战士高达0080：口袋里的战争
+	- [ ] 機動戦士ガンダムF91 — 机动战士高达F91
+	- [ ] 機動戦士ガンダム0083 STARDUST MEMORY — 机动战士高达0083：星尘的回忆
+	- [ ] 機動戦士Vガンダム — 机动战士V高达
+	- [ ] 機動武闘伝Gガンダム — 机动武斗传G高达
+	- [ ] 新機動戦記ガンダムW — 新机动战记高达W
+	- [ ] 新機動戦記ガンダムW Endless Waltz — 新机动战记高达W：无尽的华尔兹
+	- [ ] 機動戦士ガンダム 第08MS小隊 — 机动战士高达：第08MS小队
+	- [ ] 機動新世紀ガンダムX — 机动新世纪高达X
+	- [ ] ∀ガンダム — ∀高达
+	- [ ] 機動戦士ガンダムSEED — 机动战士高达SEED
+	- [ ] 機動戦士ガンダムSEED DESTINY — 机动战士高达SEED DESTINY
+	- [ ] 機動戦士ガンダムSEED C.E.73 -STARGAZER- — 机动战士高达SEED C.E.73：观星者
+	- [ ] 機動戦士ガンダムSEED FREEDOM — 机动战士高达SEED FREEDOM
+	- [ ] 機動戦士ガンダム00 — 机动战士高达00
+	- [ ] 劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer- — 剧场版 机动战士高达00：先驱者的觉醒
+	- [ ] 機動戦士ガンダムUC — 机动战士高达UC
+	- [ ] 機動戦士ガンダムAGE — 机动战士高达AGE
+	- [ ] ガンダムビルドファイターズ — 高达创战者
+	- [ ] ガンダムビルドファイターズトライ — 高达创战者TRY
+	- [ ] ガンダムビルドダイバーズ — 高达创形者
+	- [ ] ガンダムビルドダイバーズRe:RISE — 高达创形者 再起
+	- [ ] ガンダムビルドメタバース — 高达创战元宇宙
+	- [ ] ガンダム Gのレコンギスタ — 高达G之复国运动
+	- [ ] 機動戦士ガンダム THE ORIGIN — 机动战士高达 THE ORIGIN
+	- [ ] 機動戦士ガンダム 鉄血のオルフェンズ — 机动战士高达：铁血的奥尔芬斯
+	- [ ] 機動戦士ガンダム サンダーボルト — 机动战士高达：雷霆宙域
+	- [ ] 機動戦士ガンダム Twilight AXIS — 机动战士高达：暮光的阿克西斯
+	- [ ] 機動戦士ガンダムNT — 机动战士高达NT
+	- [ ] 機動戦士ガンダム 閃光のハサウェイ — 机动战士高达：闪光的哈萨维
+	- [ ] 機動戦士ガンダム 閃光のハサウェイ キルケーの魔女 — 机动战士高达：闪光的哈萨维 琪琪的魔女
+	- [ ] 機動戦士ガンダム ククルス・ドアンの島 — 机动战士高达：库库鲁斯·多安的岛
+	- [ ] 機動戦士ガンダム 水星の魔女 — 机动战士高达：水星的魔女
+	- [ ] 機動戦士ガンダム 復讐のレクイエム — 机动战士高达：复仇的镇魂曲
+	- [ ] 機動戦士ガンダム 銀灰の幻影 — 机动战士高达：银灰的幻影
+	- [ ] 機動戦士Gundam GQuuuuuuX — 机动战士高达 GQuuuuuuX
+- [ ] ふしぎの海のナディア — 蓝宝石之谜
+- [ ] Dr.スランプ アラレちゃん — 阿拉蕾
+- スレイヤーズシリーズ — 秀逗魔导士系列
+	- [ ] スレイヤーズ — 秀逗魔导士
+	- [ ] スレイヤーズNEXT — 秀逗魔导士NEXT
+	- [ ] スレイヤーズTRY — 秀逗魔导士TRY
+	- [ ] スレイヤーズREVOLUTION — 秀逗魔导士REVOLUTION
+	- [ ] スレイヤーズEVOLUTION-R — 秀逗魔导士EVOLUTION-R
+- [ ] ロスト・ユニバース — 失落的宇宙
+- 鉄腕アトムシリーズ — 铁臂阿童木系列
+	- [ ] 鉄腕アトム（1963） — 铁臂阿童木（1963）
+	- [ ] 鉄腕アトム（1980） — 铁臂阿童木（1980）
+	- [ ] ASTRO BOY 鉄腕アトム — ASTRO BOY 铁臂阿童木
+- らんま1/2シリーズ — 乱马1/2系列
+	- [ ] らんま1/2（1989） — 乱马1/2（1989）
+	- [ ] らんま1/2 熱闘編 — 乱马1/2：热斗篇
+	- [ ] らんま1/2 中国寝崑崙大決戦！掟やぶりの激闘篇!! — 乱马1/2：中国昆仑大决战！破坏规则的激斗篇!!
+	- [ ] らんま1/2 決戦桃幻郷！花嫁を奪りもどせ!! — 乱马1/2：决战桃源乡！夺回新娘子!!
+	- [ ] らんま1/2 超無差別決戦！乱馬チームVS伝説の鳳凰 — 乱马1/2：超无差别决战！乱马队VS传说的凤凰
+	- [ ] らんま1/2（OVA） — 乱马1/2（OVA）
+	- [ ] らんま1/2（2024） — 乱马1/2（2024）
+	- [ ] らんま1/2 第2期 — 乱马1/2 第二季
+- ロードス島戦記シリーズ — 罗德斯岛战记系列
+	- [ ] ロードス島戦記 — 罗德斯岛战记（OVA）
+	- [ ] ロードス島戦記-英雄騎士伝- — 罗德岛战记：英雄骑士传
+- ベルセルクシリーズ — 剑风传奇系列
+	- [ ] 剣風伝奇ベルセルク — 剑风传奇
+	- [ ] ベルセルク 黄金時代篇I 覇王の卵 — 剑风传奇 黄金时代篇I：霸王之卵
+	- [ ] ベルセルク 黄金時代篇II ドルドレイ攻略 — 剑风传奇 黄金时代篇II：多尔多雷攻略
+	- [ ] ベルセルク 黄金時代篇III 降臨 — 剑风传奇 黄金时代篇III：降临
+	- [ ] ベルセルク — 剑风传奇（2016）
+	- [ ] ベルセルク 黄金時代篇 MEMORIAL EDITION — 剑风传奇 黄金时代篇 纪念版
+- 新世紀GPXサイバーフォーミュラシリーズ — 高智能方程式系列
+	- [ ] 新世紀GPXサイバーフォーミュラ — 高智能方程式
+	- [ ] 新世紀GPXサイバーフォーミュラ11 — 高智能方程式11
+	- [ ] 新世紀GPXサイバーフォーミュラZERO — 高智能方程式ZERO
+	- [ ] 新世紀GPXサイバーフォーミュラSAGA — 高智能方程式SAGA
+	- [ ] 新世紀GPXサイバーフォーミュラSIN — 高智能方程式SIN
+- YAIBAシリーズ — 九龙珠系列
+	- [ ] 剣勇伝説YAIBA — 九龙珠
+	- [ ] 真・侍伝 YAIBA — 真·侍传 YAIBA
+- 宇宙の騎士テッカマンブレードシリーズ — 宇宙骑士系列
+	- [ ] 宇宙の騎士テッカマンブレード — 宇宙骑士
+	- [ ] 宇宙の騎士テッカマンブレードII — 宇宙骑士II
+- [x] 一休さん — 聪明的一休
+- [ ] 怪盗セイント・テール — 怪盗圣少女
+- [ ] タイムボカン — 时间飞船
+- きまぐれオレンジ☆ロードシリーズ — 橙路系列
+	- [ ] きまぐれオレンジ☆ロード — 橙路
+	- [ ] きまぐれオレンジ☆ロード あの日にかえりたい — 橙路：但愿回到过去
+	- [ ] きまぐれオレンジ☆ロード（OVA） — 橙路（OVA）
+	- [ ] 新きまぐれオレンジ☆ロード そして、あの夏のはじまり — 新橙路：那个夏天的开始
+- るろうに剣心シリーズ — 浪客剑心系列
+	- [ ] るろうに剣心 -明治剣客浪漫譚- — 浪客剑心（1996）
+	- [ ] るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌 — 浪客剑心：给维新志士的镇魂歌
+	- [ ] るろうに剣心 -明治剣客浪漫譚- 追憶編 — 浪客剑心：追忆篇
+	- [ ] るろうに剣心 -明治剣客浪漫譚- 星霜編 — 浪客剑心：星霜篇
+	- [ ] るろうに剣心 -明治剣客浪漫譚- 新京都編 — 浪客剑心：新京都篇
+	- [ ] るろうに剣心 -明治剣客浪漫譚-（2023） — 浪客剑心（2023）
+	- [ ] るろうに剣心 -明治剣客浪漫譚- 京都動乱 — 浪客剑心：京都动乱
+- [ ] 花の子ルンルン — 花仙子
+- [ ] 超特急ヒカリアン — 铁胆火车侠
+- [x] 天空の城ラピュタ — 天空之城 ⭐
+- [ ] タッチ — 棒球英豪
+- [ ] 幽☆遊☆白書 — 幽游白书
+- [ ] シティーハンター — 城市猎人
+- [ ] 超時空要塞マクロス 愛・おぼえていますか — 超时空要塞：可曾记得爱
+- [ ] 忍たま乱太郎 — 忍者乱太郎
+- 名探偵コナンシリーズ — 名侦探柯南系列 ⭐
+	- [x] 名探偵コナン — 名侦探柯南（TV动画）
+	- [x] 劇場版 名探偵コナン 時計じかけの摩天楼 — 名侦探柯南：引爆摩天楼
+	- [x] 劇場版 名探偵コナン 14番目の標的 — 名侦探柯南：第十四个目标
+	- [x] 劇場版 名探偵コナン 世紀末の魔術師 — 名侦探柯南：世纪末的魔术师
+	- [ ] 劇場版 名探偵コナン 瞳の中の暗殺者 — 名侦探柯南：瞳孔中的暗杀者
+	- [x] 劇場版 名探偵コナン 天国へのカウントダウン — 名侦探柯南：通往天国的倒计时
+	- [x] 劇場版 名探偵コナン ベイカー街の亡霊 — 名侦探柯南：贝克街的亡灵
+	- [ ] 劇場版 名探偵コナン 迷宮の十字路 — 名侦探柯南：迷宫的十字路
+	- [x] 劇場版 名探偵コナン 銀翼の奇術師 — 名侦探柯南：银翼的魔术师
+	- [ ] 劇場版 名探偵コナン 水平線上の陰謀 — 名侦探柯南：水平线上的阴谋
+	- [ ] 劇場版 名探偵コナン 探偵たちの鎮魂歌 — 名侦探柯南：侦探们的镇魂歌
+	- [ ] 劇場版 名探偵コナン 紺碧の棺 — 名侦探柯南：绀碧之棺
+	- [ ] 劇場版 名探偵コナン 戦慄の楽譜 — 名侦探柯南：战栗的乐谱
+	- [ ] 劇場版 名探偵コナン 漆黒の追跡者 — 名侦探柯南：漆黑的追踪者
+	- [ ] 劇場版 名探偵コナン 天空の難破船 — 名侦探柯南：天空的遇难船
+	- [x] 劇場版 名探偵コナン 沈黙の15分 — 名侦探柯南：沉默的十五分钟
+	- [ ] 劇場版 名探偵コナン 11人目のストライカー — 名侦探柯南：第11名前锋
+	- [ ] 劇場版 名探偵コナン 絶海の探偵 — 名侦探柯南：绝海的侦探
+	- [ ] 劇場版 名探偵コナン 異次元の狙撃手 — 名侦探柯南：异次元的狙击手
+	- [ ] 劇場版 名探偵コナン 業火の向日葵 — 名侦探柯南：业火的向日葵
+	- [ ] 劇場版 名探偵コナン 純黒の悪夢 — 名侦探柯南：纯黑的恶梦
+	- [ ] 劇場版 名探偵コナン から紅の恋歌 — 名侦探柯南：唐红的恋歌
+	- [x] 劇場版 名探偵コナン ゼロの執行人 — 名侦探柯南：零的执行人
+	- [x] 劇場版 名探偵コナン 紺青の拳 — 名侦探柯南：绀青之拳
+	- [x] 劇場版 名探偵コナン 緋色の弾丸 — 名侦探柯南：绯色的子弹
+	- [ ] 劇場版 名探偵コナン ハロウィンの花嫁 — 名侦探柯南：万圣节的新娘
+	- [ ] 劇場版 名探偵コナン 黒鉄の魚影 — 名侦探柯南：黑铁的鱼影
+	- [ ] 劇場版 名探偵コナン 100万ドルの五稜星 — 名侦探柯南：百万美元的五棱星
+	- [ ] 劇場版 名探偵コナン 隻眼の残像 — 名侦探柯南：独眼的残像
+	- [ ] 劇場版 名探偵コナン ハイウェイの堕天使 — 名侦探柯南：高速公路的堕天使
+- [x] ポケットモンスター — 精灵宝可梦
+- [ ] 天空戦記シュラト — 天空战记
+- 爆走兄弟レッツ&ゴー!!シリーズ — 四驱兄弟系列
+	- [x] 爆走兄弟レッツ&ゴー!! — 四驱兄弟
+	- [ ] 爆走兄弟レッツ&ゴー!!WGP — 四驱兄弟WGP
+	- [ ] 爆走兄弟レッツ&ゴー!!MAX — 四驱兄弟MAX
+- [ ] もののけ姫 — 幽灵公主
+- 頭文字Dシリーズ — 头文字D系列
+	- [ ] 頭文字D First Stage — 头文字D第一季
+	- [ ] 頭文字D Second Stage — 头文字D第二季
+	- [ ] 頭文字D Extra Stage インパクトブルーの彼方に… — 头文字D Extra Stage
+	- [ ] 頭文字D Third Stage -INITIAL D THE MOVIE- — 头文字D第三季
+	- [ ] 頭文字D Battle Stage — 头文字D Battle Stage
+	- [ ] 頭文字D Fourth Stage — 头文字D第四季
+	- [ ] 頭文字D Battle Stage 2 — 头文字D Battle Stage 2
+	- [ ] 頭文字D Extra Stage 2 ～旅立ちのグリーン～ — 头文字D Extra Stage 2
+	- [ ] 頭文字D Fifth Stage — 头文字D第五季
+	- [ ] 頭文字D Final Stage — 头文字D最终季
+	- [ ] 新劇場版 頭文字D Legend1 -覚醒- — 新剧场版 头文字D：觉醒
+	- [ ] 新劇場版 頭文字D Legend2 -闘走- — 新剧场版 头文字D：斗走
+	- [ ] 新劇場版 頭文字D Legend3 -夢現- — 新剧场版 头文字D：梦现
+	- [ ] 頭文字D Battle Stage 3 — 头文字D Battle Stage 3
+- カウボーイビバップシリーズ — 星际牛仔系列
+	- [ ] カウボーイビバップ — 星际牛仔
+	- [ ] COWBOY BEBOP 天国の扉 — 星际牛仔：天国之门
+- [ ] serial experiments lain — 玲音
+- [x] クレヨンしんちゃん — 蜡笔小新 ⭐
+- HUNTER×HUNTERシリーズ — 全职猎人系列
+	- [ ] HUNTER×HUNTER（1999） — 全职猎人（1999）
+	- [ ] HUNTER×HUNTER OVA — 全职猎人 OVA
+	- [ ] HUNTER×HUNTER GREED ISLAND — 全职猎人：贪婪之岛
+	- [ ] HUNTER×HUNTER G・I Final — 全职猎人：贪婪之岛 Final
+	- [ ] HUNTER×HUNTER（2011） — 全职猎人（2011）
+	- [ ] 劇場版 HUNTER×HUNTER 緋色の幻影 — 剧场版 全职猎人：绯色的幻影
+	- [ ] 劇場版 HUNTER×HUNTER -The LAST MISSION- — 剧场版 全职猎人：最后的任务
+- 魔神英雄伝ワタルシリーズ — 魔神英雄传系列
+	- [ ] 魔神英雄伝ワタル — 魔神英雄传（神龙斗士）
+	- [ ] 魔神英雄伝ワタル2 — 魔神英雄传2
+	- [ ] 超魔神英雄伝ワタル — 超魔神英雄传
+	- [ ] 魔神英雄伝ワタル 七魂の龍神丸 — 魔神英雄传：七魂的龙神丸
+	- [ ] 魔神創造伝ワタル — 魔神创造传
+- [ ] 鎧伝サムライトルーパー — 魔神坛斗士
+- B'T-Xシリーズ — 钢铁神兵系列
+	- [ ] B'T-X — 钢铁神兵
+	- [ ] B'T-X NEO — 钢铁神兵NEO
+- エヴァンゲリオンシリーズ — 新世纪福音战士系列 ⭐
+	- [x] 新世紀エヴァンゲリオン — 新世纪福音战士
+	- [ ] 新世紀エヴァンゲリオン劇場版 シト新生 — 新世纪福音战士剧场版：死与新生
+	- [ ] 新世紀エヴァンゲリオン劇場版 Air/まごころを、君に — 新世纪福音战士剧场版：Air/真心为你
+	- [ ] ヱヴァンゲリヲン新劇場版：序 — 福音战士新剧场版：序
+	- [ ] ヱヴァンゲリヲン新劇場版：破 — 福音战士新剧场版：破
+	- [ ] ヱヴァンゲリヲン新劇場版：Q — 福音战士新剧场版：Q
+	- [ ] シン・エヴァンゲリオン劇場版𝄇 — 新·福音战士剧场版：终
+- キャッツ・アイシリーズ — 猫眼三姐妹系列
+	- [ ] キャッツ・アイ — 猫眼三姐妹
+	- [ ] キャッツ・アイ 2nd season — 猫眼三姐妹 第二季
+	- [ ] キャッツ♥アイ（2025） — 猫眼三姐妹（2025）
+- [ ] SLAM DUNK — 灌篮高手
+- [ ] 魔女の宅急便 — 魔女宅急便
+- ドラゴンボールシリーズ — 龙珠系列
+	- [x] ドラゴンボール — 龙珠
+	- [ ] ドラゴンボールZ — 龙珠Z
+	- [ ] ドラゴンボールGT — 龙珠GT
+	- [ ] ドラゴンボール改 — 龙珠改
+	- [ ] ドラゴンボール超 — 龙珠超
+	- [ ] スーパードラゴンボールヒーローズ — 超级龙珠英雄
+	- [ ] ドラゴンボールDAIMA — 龙珠大魔
+- [ ] 聖闘士星矢 — 圣斗士星矢
+- 中華一番!シリーズ — 中华小当家系列
+	- [x] 中華一番! — 中华小当家  ⭐
+	- [ ] 真・中華一番! — 厨神小当家
+	- [ ] 真・中華一番! 第二期 — 厨神小当家 第二季
+- [x] デジモンアドベンチャー — 数码宝贝大冒险 ⭐
+- [ ] キャプテン翼 — 足球小将
+- [ ] 魔動王グランゾート — 光能使者
+- [ ] となりのトトロ — 龙猫
+- [ ] 耳をすませば — 侧耳倾听
+- [ ] 北斗の拳 — 北斗神拳
+- [ ] 美少女戦士セーラームーン — 美少女战士
+- [ ] ちびまる子ちゃん — 樱桃小丸子
+- [ ] ONE PIECE — 海贼王
+- カードキャプターさくらシリーズ — 魔卡少女樱系列
+	- [ ] カードキャプターさくら — 魔卡少女樱（百变小樱）
+	- [ ] 劇場版カードキャプターさくら — 剧场版 魔卡少女樱
+	- [ ] 劇場版カードキャプターさくら 封印されたカード — 剧场版 魔卡少女樱：被封印的卡片
+	- [ ] カードキャプターさくら クリアカード編 — 魔卡少女樱：透明牌篇
+- [x] ドラえもん — 哆啦A梦 ⭐
+- [ ] 攻殻機動隊 — 攻壳机动队
+- 王様ランキングシリーズ — 国王排名系列
+	- [x] 王様ランキング — 国王排名
+	- [ ] 王様ランキング 勇気の宝箱 — 国王排名：勇气的宝箱
+- 鋼の錬金術師シリーズ — 钢之炼金术师系列
+	- [x] 鋼の錬金術師 — 钢之炼金术师（2003） ⭐
+	- [ ] 劇場版 鋼の錬金術師 シャンバラを征く者 — 钢之炼金术师：香巴拉的征服者
+	- [ ] 鋼の錬金術師 FULLMETAL ALCHEMIST — 钢之炼金术师 FULLMETAL ALCHEMIST
+	- [ ] 鋼の錬金術師 嘆きの丘の聖なる星 — 钢之炼金术师：叹息之丘的圣星
+- はたらく細胞シリーズ — 工作细胞系列
+	- [ ] はたらく細胞 — 工作细胞
+	- [ ] はたらく細胞!! — 工作细胞 第二季
+	- [ ] はたらく細胞BLACK — 工作细胞BLACK
+- [ ] ワンダーエッグ・プライオリティ — 奇蛋物语
+- 進撃の巨人シリーズ — 进击的巨人系列
+	- [x] 進撃の巨人 — 进击的巨人 ⭐
+	- [ ] 進撃の巨人 Season 2 — 进击的巨人 第二季
+	- [ ] 進撃の巨人 Season 3 — 进击的巨人 第三季
+	- [ ] 進撃の巨人 The Final Season — 进击的巨人 最终季
+	- [ ] 進撃の巨人 The Final Season 完結編 — 进击的巨人 最终季 完结篇
+	- [ ] 劇場版「進撃の巨人」完結編 THE LAST ATTACK — 进击的巨人：最后的进击
+- ジョジョの奇妙な冒険シリーズ — JOJO的奇妙冒险系列
+	- [ ] ジョジョの奇妙な冒険（OVA） — JOJO的奇妙冒险（OVA）
+	- [ ] ジョジョの奇妙な冒険 ファントムブラッド／戦闘潮流 — JOJO的奇妙冒险：幻影之血／战斗潮流
+	- [ ] ジョジョの奇妙な冒険 スターダストクルセイダース — JOJO的奇妙冒险：星尘斗士
+	- [ ] ジョジョの奇妙な冒険 ダイヤモンドは砕けない — JOJO的奇妙冒险：不灭钻石
+	- [ ] ジョジョの奇妙な冒険 黄金の風 — JOJO的奇妙冒险：黄金之风
+	- [ ] ジョジョの奇妙な冒険 ストーンオーシャン — JOJO的奇妙冒险：石之海
+	- [ ] スティール・ボール・ラン ジョジョの奇妙な冒険 — 飙马野郎 JOJO的奇妙冒险
+- [x] 千と千尋の神隠し — 千与千寻 ⭐
+- ワンパンマンシリーズ — 一拳超人系列
+	- [ ] ワンパンマン（第1期） — 一拳超人第一季
+	- [ ] ワンパンマン（第2期） — 一拳超人第二季
+	- [ ] ワンパンマン（第3期） — 一拳超人第三季
+- [x] テニスの王子様 — 网球王子 ⭐
+- 鬼滅の刃シリーズ — 鬼灭之刃系列
+	- [ ] 鬼滅の刃 竈門炭治郎 立志編 — 鬼灭之刃：灶门炭治郎立志篇
+	- [ ] 劇場版 鬼滅の刃 無限列車編 — 剧场版 鬼灭之刃：无限列车篇
+	- [ ] 鬼滅の刃 無限列車編 — 鬼灭之刃：无限列车篇（TV动画）
+	- [ ] 鬼滅の刃 遊郭編 — 鬼灭之刃：游郭篇
+	- [ ] 鬼滅の刃 刀鍛冶の里編 — 鬼灭之刃：锻刀村篇
+	- [ ] 鬼滅の刃 柱稽古編 — 鬼灭之刃：柱训练篇
+	- [ ] 劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来 — 剧场版 鬼灭之刃：无限城篇 第一章 猗窝座再袭
+- [x] 君の名は。 — 你的名字。 ⭐
+- とある科学の超電磁砲シリーズ — 某科学的超电磁炮系列
+	- [ ] とある科学の超電磁砲 — 某科学的超电磁炮
+	- [ ] とある科学の超電磁砲S — 某科学的超电磁炮S
+	- [ ] とある科学の超電磁砲T — 某科学的超电磁炮T
+- [ ] MONSTER — 怪物
+- [ ] 夏目友人帳 — 夏目友人帐
+- [ ] AKIRA — 阿基拉
+- かぐや様は告らせたいシリーズ — 辉夜大小姐想让我告白系列
+	- [ ] かぐや様は告らせたい～天才たちの恋愛頭脳戦～ — 辉夜大小姐想让我告白：天才们的恋爱头脑战
+	- [ ] かぐや様は告らせたい？～天才たちの恋愛頭脳戦～ — 辉夜大小姐想让我告白：天才们的恋爱头脑战 第二季
+	- [ ] かぐや様は告らせたい-ウルトラロマンティック- — 辉夜大小姐想让我告白：超级浪漫
+	- [ ] かぐや様は告らせたい-ファーストキッスは終わらない- — 辉夜大小姐想让我告白：初吻不会结束
+	- [ ] かぐや様は告らせたい 大人への階段 — 辉夜大小姐想让我告白：通往大人的阶梯
+- [ ] 犬夜叉 — 犬夜叉
+- からかい上手の高木さんシリーズ — 擅长捉弄的高木同学系列
+	- [ ] からかい上手の高木さん — 擅长捉弄的高木同学
+	- [ ] からかい上手の高木さん2 — 擅长捉弄的高木同学 第二季
+	- [ ] からかい上手の高木さん3 — 擅长捉弄的高木同学 第三季
+	- [ ] 劇場版 からかい上手の高木さん — 剧场版 擅长捉弄的高木同学
+- [ ] ハウルの動く城 — 哈尔的移动城堡
+- [ ] パプリカ — 红辣椒
+- クラッシュギアシリーズ — 激斗战车系列
+	- [ ] 激闘!クラッシュギアTURBO — 激斗战车
+	- [ ] クラッシュギアNitro — 激斗战车Nitro
+#### China, Hong Kong（中国香港）
+- [ ] 麦兜故事
+#### China, Mainland（中国大陆）
+- [x] 宝莲灯 ⭐
+- [ ] 大闹天宫
+- [ ] 哪吒之魔童降世
+- [ ] 白蛇：缘起
+- [ ] 西游记之大圣归来
+- [ ] 姜子牙
+- [ ] 大鱼海棠
+- [ ] 罗小黑战记
+- 神兵小将系列
+	- [x] 神兵小将
+	- [ ] 神兵小将2
+	- [ ] 神兵小将（电影）
+- 虹猫蓝兔系列
+	- [x] 虹猫蓝兔七侠传
+	- [ ] 虹猫蓝兔阿木星
+	- [ ] 虹猫仗剑走天涯
+	- [ ] 虹猫蓝兔光明剑
+	- [ ] 虹猫蓝兔勇者归来
+	- [ ] 虹猫蓝兔火凤凰
+	- [ ] 虹猫蓝兔海底历险记
+	- [ ] 虹猫蓝兔梦之国历险记
+	- [ ] 虹猫蓝兔奥悠国历险记
+- 超兽武装系列
+	- [x] 超兽武装之仁者无敌
+	- [ ] 超兽武装之勇者无惧
+- 秦时明月动画系列 ⭐
+	- [x] 秦时明月之百步飞剑
+	- [ ] 秦时明月之夜尽天明
+	- [ ] 秦时明月之诸子百家
+	- [ ] 秦时明月之万里长城
+	- [ ] 秦时明月之君临天下
+	- [ ] 秦时明月之沧海横流
+	- [ ] 秦时明月之龙腾万里
+	- [ ] 秦时明月特别篇：空山鸟语
+	- [ ] 秦时明月特别篇：罗生堂下
+	- [ ] 秦时明月特别篇：帝子降兮
+	- [ ] 天行九歌
+- [x] 西游记（1999年动画版）
+- 果宝特攻系列
+	- [x] 果宝特攻
+	- [ ] 果宝特攻2
+	- [ ] 果宝特攻3
+	- [ ] 果宝特攻4之铠之魂
+	- [ ] 果宝特攻之水果大逃亡
+- 电击小子系列
+	- [x] 电击小子
+	- [ ] 电击小子2
+	- [ ] 电击小子3
+- [ ] 晶码战士
+- 洛洛历险记／武战道系列
+	- [x] 百变机兽之洛洛历险记
+	- [ ] 武战道
+- 快乐东西系列
+	- [x] 快乐东西
+	- [ ] 快乐东西2
+	- [ ] 快乐东西3
+	- [ ] 快乐东西4
+- [ ] 弹珠传说
+- [ ] 神魄
+- 星游记系列
+	- [x] 星游记
+	- [ ] 星游记之风暴法米拉
+	- [ ] 星游记之风暴法米拉2
+- 斗龙战士系列
+	- [x] 斗龙战士
+	- [ ] 斗龙战士2：星龙圣域
+	- [ ] 斗龙战士3：龙印之战
+	- [ ] 斗龙战士4：双龙核
+	- [ ] 斗龙战士5
+	- [ ] 斗龙战士6
+	- [ ] 斗龙战士7
+- 超智能足球系列
+	- [x] 超智能足球
+	- [ ] 超智能足球2：世界大赛篇
+- 甜心格格系列
+	- [ ] 甜心格格 第一季
+	- [ ] 甜心格格 第二季
+	- [ ] 甜心格格 第三季
+	- [ ] 甜心格格 第四季
+	- [ ] 甜心格格 第五季
+- 生肖传奇系列
+	- [x] 生肖传奇之十二生肖闯江湖
+	- [ ] 生肖传奇之十二生肖快乐街
+	- [ ] 生肖传奇之十二生肖总动员
+	- [ ] 生肖传奇之十二生肖城市英雄
+- 开心宝贝／开心超人联盟系列
+	- [ ] 开心宝贝
+	- [ ] 开心宝贝之开心超人
+	- [ ] 开心宝贝之开心超人大作战
+	- [ ] 开心宝贝之开心大冒险
+	- [ ] 开心宝贝之开心星星球
+	- [ ] 开心宝贝之古灵星历险记
+	- [ ] 开心宝贝之开心联盟争霸战
+	- [ ] 开心宝贝之奇幻之旅
+	- [ ] 开心超人联盟之超时空保卫战
+	- [ ] 开心超人联盟之英雄归来
+	- [ ] 开心超人联盟之星际危机
+	- [ ] 开心超人联盟之星际联盟
+	- [ ] 开心超人联盟之能源核守护者
+	- [ ] 开心超人联盟之星之力
+	- [ ] 开心超人联盟之机械堡奇遇记
+	- [ ] 开心超人联盟之奇幻谜瑞岛
+	- [ ] 开心超人联盟之异星迷航
+	- [ ] 开心超人联盟之平行时空大冒险
+	- [ ] 开心超人联盟之勇敢之城1：棋兽传奇
+	- [ ] 开心超人联盟之勇敢之城2：超人计划
+	- [ ] 爆笑星星球
+	- [ ] 开心超人联盟之神奇实验室
+	- [ ] 开心超人联盟之谜之城
+	- [x] 开心超人（电影）
+	- [ ] 开心超人2：启源星之战
+	- [ ] 开心超人3：英雄的心
+	- [ ] 开心超人4：时空营救
+	- [ ] 开心超人5：逆世营救
+- [ ] 骑刃王
+- 蓝猫龙骑团系列
+	- [x] 蓝猫龙骑团
+	- [ ] 蓝猫龙骑团之生命之花
+	- [ ] 蓝猫龙骑团之炫迪传奇
+- 侠岚动画系列
+	- [ ] 侠岚：振翼篇
+	- [ ] 侠岚：云见篇
+	- [ ] 侠岚：鸣风篇
+	- [ ] 侠岚：若星篇
+	- [ ] 侠岚：凌霜篇
+	- [ ] 侠岚：决敌篇
+	- [ ] 画江湖之侠岚
+- 雷速登动画系列
+	- [x] 雷速登闪电冲线
+	- [ ] 雷速登闪电冲线2
+	- [x] 雷速登翼飞冲天
+	- [ ] 雷速登翼飞冲天续集
+- [x] 小鲤鱼历险记
+- 快乐星猫系列
+	- [x] 快乐星猫 第一季
+	- [ ] 快乐星猫 第二季
+	- [ ] 快乐星猫 第三季
+	- [ ] 快乐星猫 第四季
+	- [ ] 快乐星猫 第五季
+	- [ ] 快乐星猫 第六季
+	- [ ] 快乐星猫 第七季
+	- [ ] 快乐星猫 第八季
+- 憨八龟的故事系列
+	- [ ] 憨八龟的故事：我来自他星
+	- [ ] 憨八龟的故事：拯救王子
+- 魔角侦探系列
+	- [x] 魔角侦探
+	- [ ] 魔角侦探之大三角计划
+- [x] 三国演义（2009年动画版）
+- 神奇阿呦系列
+	- [ ] 神奇阿呦
+	- [ ] 神奇阿呦之最强流星人
+- [x] 西游记（2010年动画版）
+- 恐龙宝贝系列
+	- [x] 恐龙宝贝之龙神勇士
+	- [ ] 恐龙宝贝之龙神勇士2
+	- [ ] 恐龙宝贝之龙神勇士3
+	- [ ] 恐龙宝贝（电影）
+- [ ] 哪吒传奇
+- 魁拔动画系列 ⭐
+	- [x] 魁拔之十万火急
+	- [ ] 魁拔之大战元泱界
+	- [ ] 魁拔Ⅲ战神崛起
+	- [ ] 魁拔妖侠传
+- 精灵世纪系列
+	- [ ] 精灵世纪
+	- [ ] 精灵世纪Ⅱ
+- 机甲兽神系列
+	- [ ] 机甲兽神
+	- [ ] 机甲兽神之爆裂飞车
+- [ ] 纳米神兵
+- 黑猫警长系列
+	- [x] 黑猫警长
+	- [ ] 新黑猫警长
+	- [ ] 黑猫警长之翡翠之星
+- 喜羊羊与灰太狼系列
+	- [x] 喜羊羊与灰太狼
+	- [ ] 喜羊羊与灰太狼之古古怪界大作战
+	- [ ] 喜羊羊与灰太狼之羊羊运动会
+	- [ ] 喜羊羊与灰太狼之羊羊快乐的一年
+	- [ ] 喜羊羊与灰太狼之奇思妙想喜羊羊
+	- [ ] 喜羊羊与灰太狼之给快乐加油
+	- [ ] 喜羊羊与灰太狼之竞技大联盟
+	- [ ] 喜羊羊与灰太狼之开心日记
+	- [ ] 喜羊羊与灰太狼之开心方程式
+	- [ ] 喜羊羊与灰太狼之懒羊羊当大厨
+	- [ ] 喜羊羊与灰太狼之羊羊小心愿
+	- [ ] 喜羊羊与灰太狼之衣橱大冒险
+	- [ ] 喜羊羊与灰太狼之妈妈乐疯狂
+	- [ ] 喜羊羊与灰太狼之原始世界历险记
+	- [ ] 喜羊羊与灰太狼之嘻哈闯世界
+	- [ ] 喜羊羊与灰太狼之羊羊小侦探
+	- [ ] 喜羊羊与灰太狼之深海历险记
+	- [ ] 喜羊羊与灰太狼之发明大作战
+	- [ ] 喜羊羊与灰太狼之奇幻天空岛
+	- [ ] 喜羊羊与灰太狼之羊村守护者
+	- [ ] 喜羊羊与灰太狼之跨时空救兵
+	- [ ] 喜羊羊与灰太狼之奇趣外星客
+	- [ ] 喜羊羊与灰太狼之异国大营救
+	- [ ] 喜羊羊与灰太狼之筐出胜利
+	- [ ] 喜羊羊与灰太狼之决战次时代
+	- [ ] 喜羊羊与灰太狼之奇妙大营救
+	- [ ] 喜羊羊与灰太狼之勇闯四季城
+	- [ ] 喜羊羊与灰太狼之遨游神秘洋
+	- [ ] 喜羊羊与灰太狼之心世界奇遇
+	- [ ] 喜羊羊与灰太狼之疯狂超能营
+	- [ ] 喜羊羊与灰太狼之奇侠大营救
+	- [ ] 喜羊羊与灰太狼之狂野新宇宙
+	- [ ] 喜羊羊与灰太狼之古古怪界有古怪
+	- [ ] 喜羊羊与灰太狼之破界山海诀
+	- [ ] 喜羊羊与灰太狼之牛气冲天
+	- [ ] 喜羊羊与灰太狼之虎虎生威
+	- [ ] 喜羊羊与灰太狼之兔年顶呱呱
+	- [ ] 喜羊羊与灰太狼之开心闯龙年
+	- [ ] 喜羊羊与灰太狼之喜气羊羊过蛇年
+	- [ ] 喜羊羊与灰太狼之飞马奇遇记
+	- [ ] 喜羊羊与灰太狼之羊年喜羊羊
+	- [ ] 喜羊羊与灰太狼之筐出未来
+	- [ ] 喜羊羊与灰太狼之守护
+	- [ ] 喜羊羊与灰太狼之异国破晓
+	- [ ] 喜羊羊与灰太狼：我爱灰太狼
+	- [ ] 喜羊羊与灰太狼：我爱灰太狼2
+- 猪猪侠系列
+	- [x] 猪猪侠之魔幻猪猡纪
+	- [ ] 猪猪侠之武侠2008
+	- [ ] 猪猪侠勇闯未来之城
+	- [ ] 百变猪猪侠
+	- [ ] 猪猪侠之积木世界的童话故事
+	- [ ] 猪猪侠之幸福救援队
+	- [ ] 猪猪侠之变身小英雄
+	- [ ] 猪猪侠之变身战队
+	- [ ] 猪猪侠之百变联盟
+	- [ ] 猪猪侠之五灵守卫者
+	- [ ] 猪猪侠之光明守卫者
+	- [ ] 猪猪侠之梦想守卫者
+	- [ ] 猪猪侠之超星萌宠
+	- [ ] 猪猪侠之竞球小英雄
+	- [ ] 猪猪侠之竞速小英雄
+	- [ ] 猪猪侠之深海小英雄
+	- [ ] 猪猪侠之超星五灵侠
+	- [ ] 猪猪侠之拼装特工队
+	- [ ] 猪猪侠之环球日记
+	- [ ] 猪猪侠之恐龙日记
+	- [ ] 猪猪侠之大闹皇宫
+	- [ ] 猪猪侠之囧囧危机
+	- [ ] 猪猪侠之勇闯巨人岛
+	- [ ] 猪猪侠之终极决战
+	- [ ] 猪猪侠之英雄猪少年
+	- [ ] 猪猪侠·不可思议的世界
+	- [ ] 猪猪侠大电影·恐龙日记
+	- [ ] 猪猪侠大电影·海洋日记
+	- [ ] 新猪猪侠大电影·超级赛车
+	- [ ] 猪猪侠大电影·星际行动
+	- [ ] 猪猪侠·一只老猪的逆袭
+- [ ] 宇宙星神
+- [x] 神厨小福贵 ⭐
+- 赛尔号动画系列
+	- [x] 赛尔号
+	- [ ] 赛尔号第2季：圣者逆袭
+	- [ ] 赛尔号第3季：光明的救赎
+	- [ ] 赛尔号第4季：战神风云决
+	- [ ] 赛尔号第5季：猎天困兽
+	- [ ] 赛尔号第6季：苍穹烈火
+	- [ ] 赛尔号第7季：宇宙之眼
+	- [ ] 赛尔号第8季：幻梦战记
+	- [ ] 赛尔号第9季：霹雳九重天
+	- [ ] 赛尔号第10季：冰封要塞
+	- [ ] 赛尔号第11季：裂空沧海
+	- [ ] 赛尔号第12季：焰宇战神
+	- [ ] 赛尔号大电影：寻找凤凰神兽
+	- [ ] 赛尔号大电影2：雷伊与迈尔斯
+	- [ ] 赛尔号大电影3：战神联盟
+	- [ ] 赛尔号大电影4：圣魔之战
+	- [ ] 赛尔号大电影5：雷神崛起
+	- [ ] 赛尔号大电影6：圣者无敌
+	- [ ] 赛尔号大电影7：疯狂机器城
+- [ ] 龙凤双娃
+- 大耳朵图图系列
+	- [x] 大耳朵图图
+	- [ ] 大耳朵图图之美食狂想曲
+	- [ ] 大耳朵图图之霸王龙在行动
+- [x] 小牛向前冲
+- 飓风战魂系列
+	- [ ] 战斗王之飓风战魂
+	- [ ] 战斗王之飓风战魂Ⅱ
+	- [ ] 战斗王之飓风战魂Ⅲ
+	- [ ] 飓风战魂之剑旋陀螺
+	- [ ] 飓风战魂5：战斗王训练营
+- [ ] 战龙四驱
+- 熊出没系列
+	- [x] 熊出没
+	- [ ] 熊出没之环球大冒险
+	- [ ] 熊出没之丛林总动员
+	- [ ] 熊出没之春日对对碰
+	- [ ] 熊出没之冬日乐翻天
+	- [ ] 熊出没之夏日连连看
+	- [ ] 熊出没之秋日团团转
+	- [ ] 熊出没之探险日记
+	- [ ] 熊出没之探险日记2
+	- [ ] 熊出没之怪兽计划
+	- [ ] 熊出没之怪兽计划2
+	- [ ] 熊出没之小小世界
+	- [ ] 熊出没之小小世界2
+	- [ ] 熊出没之神奇宝物
+	- [ ] 熊出没之过年
+	- [ ] 熊出没之年货
+	- [ ] 熊出没之夺宝熊兵
+	- [ ] 熊出没之雪岭熊风
+	- [ ] 熊出没之熊心归来
+	- [ ] 熊出没·奇幻空间
+	- [ ] 熊出没·变形记
+	- [ ] 熊出没·原始时代
+	- [ ] 熊出没·狂野大陆
+	- [ ] 熊出没·重返地球
+	- [ ] 熊出没·伴我“熊芯”
+	- [ ] 熊出没·逆转时空
+	- [ ] 熊出没·重启未来
+	- [ ] 熊出没·年年有熊
+	- [ ] 赵琳的探险日记
+	- [ ] 赵琳的探险日记Ⅱ
+- 夺宝幸运星系列
+	- [ ] 夺宝幸运星
+	- [ ] 夺宝幸运星2
+	- [ ] 夺宝幸运星3
+	- [ ] 夺宝幸运星4
+- 神兽金刚系列
+	- [ ] 神兽金刚
+	- [ ] 神兽金刚2：天神地兽
+	- [ ] 神兽金刚3：超变星甲
+	- [ ] 神兽金刚4：邦宝历险记
+	- [ ] 神兽金刚5：超能晶甲
+	- [ ] 神兽金刚6：地球之盾
+	- [ ] 神兽金刚之青龙再现
+- [ ] 幸福小镇
+- 阿U系列
+	- [ ] 阿U
+	- [ ] 阿U之开心童年
+	- [ ] 阿U之爆笑校园
+	- [ ] 阿U之为成长加优
+	- [ ] 阿U之神奇萝卜
+	- [ ] 阿U之神奇萝卜2
+	- [ ] 阿U之神奇萝卜3
+	- [ ] 阿U之兔智来了
+	- [ ] 阿U之兔智来了2
+	- [ ] 阿U之神奇幻镜
+	- [ ] 科普中国之阿U学科学
+	- [ ] 阿U的烦恼
+	- [ ] 阿U的烦恼2
+	- [ ] 阿U之梦想系列
+	- [ ] 阿U的日常
+	- [ ] 阿U学堂之中华诗词篇
+	- [ ] 阿优讲故事：漫说中华密码
+	- [ ] 科学家故事：呦呦有蒿
+	- [ ] 天眼之父南仁东
+- 元气星魂系列
+	- [ ] 元气星魂
+	- [ ] 元气拯救队
+- [ ] 魔弹王
+- 奇奇颗颗系列
+	- [x] 奇奇颗颗历险记
+	- [ ] 奇奇颗颗历险记2
+- [ ] 哈皮父子
+- 小鸡不好惹系列
+	- [x] 小鸡不好惹
+	- [ ] 小鸡不好惹之咸蛋寺
+- 海尔兄弟系列
+	- [x] 海尔兄弟
+	- [ ] 海尔兄弟宇宙大冒险
+- 福五鼠系列
+	- [x] 福五鼠之孙子兵法
+	- [ ] 福五鼠之战国风云
+	- [ ] 福五鼠之三十六计
+	- [ ] 福五鼠之风云再起
+- 莫麟传奇系列
+	- [ ] 莫麟传奇之四大古国
+	- [ ] 莫麟传奇2之远古神兽
+- [ ] 小虎还乡
+- 摩尔庄园动画系列
+	- [x] 摩尔庄园
+	- [ ] 摩尔庄园2
+	- [ ] 摩尔庄园3：魔幻列车大冒险
+	- [ ] 摩尔庄园冰世纪
+	- [ ] 摩尔庄园2海妖宝藏
+- 云彩面包系列
+	- [ ] 云彩面包
+	- [ ] 云彩面包2
+- 饼干警长系列
+	- [ ] 饼干警长
+	- [ ] 饼干警长之乐园计划
+- [ ] 游击神兵
+- 天上掉下个猪八戒系列
+	- [x] 天上掉下个猪八戒
+	- [ ] 天上掉下个猪八戒之福星八戒
+- [x] 宋代足球小将
+- 围棋少年系列
+	- [x] 围棋少年
+	- [ ] 围棋少年2
+	- [ ] 新围棋少年
+- 激战奇轮系列
+	- [ ] 激战奇轮
+	- [ ] 激战奇轮2
+	- [ ] 激战奇轮3
+- 葫芦兄弟系列
+	- [ ] 葫芦兄弟
+	- [x] 葫芦小金刚
+	- [ ] 葫芦兄弟（2008电影）
+- 大头儿子和小头爸爸动画系列
+	- [x] 大头儿子和小头爸爸
+	- [ ] 新大头儿子和小头爸爸
+	- [ ] 新大头儿子和小头爸爸之秘密计划
+	- [ ] 新大头儿子和小头爸爸2一日成才
+	- [ ] 新大头儿子和小头爸爸3俄罗斯奇遇记
+	- [ ] 新大头儿子和小头爸爸4完美爸爸
+	- [ ] 新大头儿子和小头爸爸5我的外星朋友
+	- [ ] 新大头儿子和小头爸爸6迷你大冒险
+- 海宝来了系列
+	- [x] 海宝来了
+	- [ ] 海宝来了第二部
+- [x] 星际精灵蓝多多
+- [ ] 七色战记
+- [x] Q版三国（又名Q版刘关张）
+- 三毛动画系列
+	- [x] 三毛流浪记
+	- [ ] 三毛从军记
+	- [ ] 三毛旅行记
+	- [ ] 三毛奇遇记
+	- [ ] 三毛历险记
+- 公路Q车吧系列
+	- [ ] 公路Q车吧
+	- [ ] 公路Q车吧2
+	- [ ] 公路Q车吧3
+- 数学荒岛历险记系列
+	- [ ] 数学荒岛历险记
+	- [ ] 数学荒岛历险记2
+	- [ ] 数学荒岛历险记3
+- [ ] 锋速战警
+- [x] 阿凡提的故事
+- [ ] 圣石奇兵
+#### Australia（澳大利亚）
+- [ ] Mary and Max — 玛丽和马克思
+- [ ] Bluey — 布鲁伊
+#### Spain（西班牙）
+- [ ] Klaus — 克劳斯：圣诞节的秘密
 
 
 
-## Audios Based
--  **Animation**
-	- [x] Bojack Horseman
-	- [x] Family Guy
-	- [x] Gravity Fall
-	- [x] Rick & Morty
-	- [ ] 
-- **Documentary**
-	- [ ] The Planet Earth
-- **News Report (On Going)**
-	- CNN10
-	- NBC 
-		- Meet The Press
-		- NBC News Now
-		- Nightly News
-	- NPR
-		- Talk of The Nation
-- **Talk Show & Stand-up**
-	- Daniel Sloss
-	- Jimmy O Yan
-	- Last Week Tonight
-	- Runny Chieng
-	- The Honest Drink
-	- The Late Show With Stephen Colbert
-	- The Tonight Show Starring Jimmy Fallon
-- **TV Shows**
-	- [x] 2 Broke Girls
-	- [x] Atlanta
-	- [x] Better Call Soul
-	- [x] Breaking Bad
-	- [x] Friends
-	- [x] Gossip Girls
-	- [x] Mad Man
-	- [x] Peaky Blinder
-	- [x] Shameless
-	- [x] Sherlock
-	- [x] Silicon Valley
-	- [x] The Big Bang Theory
-	- [x] The News Room
-	- [x] The West Wing
-
-
-
-## Videos Based
-- 盲井 - 李扬
-- 蓝风筝
-- 【纪录片】铁路沿线【2000】杜海滨
-
-
-
-## Games
-↗ [Console Games & Video Games](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games%20&%20Video%20Games.md)
+## Others
+- 相声
+	- [ ] 郭德纲于谦
+	- [ ] 岳云鹏孙越
+- Podcast
+	- [ ] The honest drink
+- Music
+	- ↗ [Music](🎶%20Music/Music.md)
+- Games
+	- ↗ [Home Video Games & Console Games](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Home%20Video%20Games%20&%20Console%20Games.md)
+- Sports
+	- ↗ [Fitness & Sports](Fitness%20&%20Sports/Fitness%20&%20Sports.md)
 
 
 
 ## Ref
 [有一种英文书，绝对让你看得停不下来！不能自拔！]: https://posts.careerengine.us/p/59b369f91f12f226157eec1e
+[有什么可推荐的美漫或美漫电影？ - 爱看番的猫的回答 - 知乎]: https://www.zhihu.com/question/515153173/answer/2337678688
+
+[鸿篇巨制——推荐一百部我心中的动漫神作 - 唯我一心的文章 - 知乎]: https://zhuanlan.zhihu.com/p/417601319
+[“视频不到四小时，却承载着我们的整个童年”]: https://www.bilibili.com/video/BV1Jz421h7U5/
+[100首歌，带你回到日漫神曲无敌的年代！(1975~2000)]: https://www.bilibili.com/video/BV1pt421V7s5/
+[旧电视剧主题曲]: https://www.bilibili.com/video/BV19s411o76z/
+
+[Most Popular TV Series Ever (1986–2026) 📈 | 40 Years of Dominance]: https://youtu.be/SA673haOCx4?si=mmthwltoyn225llt
+[Top 250 TV shows]: https://www.imdb.com/chart/toptv/
+[IMDb Top 250 movies]: https://www.imdb.com/chart/top/?ref_=chttvtp_nv_menu
+[国产电影豆瓣评分人数前100]: https://www.douban.com/doulist/46613961/?start=0&sort=seq&playable=0&sub_type=

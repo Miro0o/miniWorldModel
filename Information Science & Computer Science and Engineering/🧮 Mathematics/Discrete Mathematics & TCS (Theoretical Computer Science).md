@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Information Theory](🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Algebra](🧊%20Algebra/Algebra.md)
-↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
+
+↗ [Programming Implementation of Math Problems](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Programming%20Implementation%20of%20Math%20Problems.md)
 
 ↗ [Information, Data, Number and Math in Digital Systems](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 - ↗ [(Text) Data Representations & Storage in Computer](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
@@ -18,14 +18,17 @@
 	↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 	↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-- ↗ [Formal Semantics and Programming Language](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+- ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
-↗ [Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+↗ [Combinatorics (Combinatorial Mathematics)](Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
+- ↗ [Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
 
-↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-- ↗ [Combinatorics (Combinatorial Mathematics)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorics%20(Combinatorial%20Mathematics).md)
-- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Convex Optimization (CO)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
 - etc.
+
+↗ [Number Theory](💯%20Number%20Theory/Number%20Theory.md)
+- ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
 
 ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
@@ -269,7 +272,7 @@ TOC
 [📖 Discrete Mathematics]:"Kenneth.H.Rosen"
 [💬 Discrete Mathematics and Functional Programming]:http://cs.wheaton.edu/%7Etvandrun/dmfp/
 
-↗ [MIT -- 6.042J - Mathematics for Computer Science.md](../%F0%9F%97%BA%20CS%20Overview/%F0%9F%92%8B%20Intro%20to%20Computer%20Science/%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB%20Courses%20of%20Universities/MIT/6.042J%20Mathematics%20for%20Computer%20Science/6.042J%20-%20Mathematics%20for%20Computer%20Science.md) 
+↗ [MIT -- 6.042J - Mathematics for Computer Science.md](../../../🏠 Assets/MIT/6.042J - Mathematics for Computer Science/6.042J - Mathematics for Computer Science.md) 
 
 
 

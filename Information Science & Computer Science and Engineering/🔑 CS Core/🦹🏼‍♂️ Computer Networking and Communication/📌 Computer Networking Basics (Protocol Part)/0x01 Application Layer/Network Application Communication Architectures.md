@@ -18,6 +18,9 @@
 【深入浅出计算机网络 - 6.2 客户/服务器方式和对等方式】 https://www.bilibili.com/video/BV1mV4y1T72M/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+### Other Resources
+
+
 
 ## Intro
 Before diving into software coding, you should have a broad architectural plan for your application. Keep in mind that ==an application’s architecture is distinctly different from the network architecture (e.g., the five-layer Internet architecture discussed in Chapter 1).== 

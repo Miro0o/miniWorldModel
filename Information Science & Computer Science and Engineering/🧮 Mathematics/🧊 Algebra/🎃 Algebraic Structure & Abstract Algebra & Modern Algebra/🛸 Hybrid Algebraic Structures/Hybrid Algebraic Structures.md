@@ -9,7 +9,7 @@
 ↗ [Partial Order & Order Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 ↗ [Topology](../../../Topology/Topology.md)
 
-↗ [Lie Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/🪖%20Lie%20Groups/Lie%20Groups.md)
+↗ [Lie Groups](../Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/🪖%20Lie%20Groups/Lie%20Groups.md)
 
 
 

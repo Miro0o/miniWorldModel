@@ -48,7 +48,7 @@ Taps allow homebrew manage third-party repo on host.
 ## 🍻 `Homebrew` Basic Usages
 ### 🍔 Installation
 1. [installing command line tools on mac](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
-	+ 🤔 [[../../../../../../CyberSecurity/Network (& Communication) Security/Anonymous & Private Networks/Proxy Technology & GFW 🇨🇳/Proxy Technology & GFW 🇨🇳|using proxy]] to download form official web
+	+ 🤔 [[../../../../../../CyberSecurity/Network (& Communication) Security/Anonymous & Private Networks/Proxy Technology (& Bypassing GFW)/Proxy Technology (& Bypassing GFW)|using proxy]] to download form official web
 	
 2.  go to [homebrew](https://docs.brew.sh/Installation), run command code.
 

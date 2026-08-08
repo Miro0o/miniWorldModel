@@ -13,6 +13,9 @@
 ### Related Topics
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://wiki.nftables.org/wiki-nftables/index.php/What_is_nftables%3F

@@ -20,8 +20,8 @@
 
 ↗ [Computer Languages & Programming Methodology](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-- ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
-- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+- ↗ [Logic Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
 - ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
@@ -29,7 +29,15 @@
 
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
 
-↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
+
+↗ [Computing Methodologies](../../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+- ↗ [Distributed Computing & Systems](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+- ↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
+- ↗ [Artificial Intelligence](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+↗ [Universal Algebra (泛代数)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Universal%20Algebra%20(泛代数).md)
 
 
 ### Other Resources
@@ -45,16 +53,21 @@ https://github.com/Jacopo00811/02141_Computer_Science_Modelling
 > ↗ [Mathematical Modeling & Abstraction](../../../Mathematical%20Modeling%20&%20Abstraction.md)
 > ↗ [(Formal) Model Checking /1️⃣ System Modeling](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#1️⃣%20System%20Modeling)
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-> ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+> ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > 
 > ↗ [Proof Theory](../../Proof%20Theory/Proof%20Theory.md)
 > - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 > ↗ [Model Theory (模型论)](../../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 > 
 > ↗ [Automata Theory and (Formal) Language Theory](../🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> 
+> ↗ [Computer (Host) System](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20(Host)%20System.md)
 
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
-<small>The process of compilation</small>
+<small>Language and Computation</small>
+
+![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+<small>Computer System & Computer Science Overview</small>
 
 > 🔗 https://en.wikipedia.org/wiki/Abstract_machine
 
@@ -63,6 +76,12 @@ In computer science, an abstract machine is a theoretical model that allows for 
 > 🔗 https://en.wikipedia.org/wiki/Model_of_computation
 
 In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.
+
+
+### Mathematical Function as Computation 🤔
+↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+↗ [Functional Programming Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 
 ### Taxonomy of Computational Models
@@ -212,8 +231,8 @@ These are common in OS, verification, and concurrency theory.
 
 ## (Symbolic) Transition System ⭐
 > [!links]
-> ↗ [Graph Theory](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-> ↗ [Graph Basics](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [Graph Theory](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+> ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 > 
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 > - programs are transition systems
@@ -340,7 +359,7 @@ $$\text{Data} \ \overset{Statistics}{\to} \ \text{Models (Rules)} \ \overset{Pro
 
 ### Semantics of Transition System
 > [!links]
-> ↗ [Graph Basics](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+> ↗ [Graph Basics](../../../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
 #### Execution & Trace
 **Execution**
 An execution fragment is a sequence of transitions.
@@ -409,10 +428,9 @@ Synchronizations may reduce the size composition but the worstcase is still expo
 
 
 
-## Turing Machine Equivalents / Turing Complete Models
+## Turing Machine Equivalents / Turing Complete Models (Partial)
 > [!links]
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-> ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents
 
@@ -445,29 +463,11 @@ While none of the following models have been shown to have more power than the s
 > 
 
 
-### Turing Machine Variants
-#### Single-tape TM
-
-#### Multi-tape TM
-
-#### Multi-track TM
-
-#### Non-deterministic TM
-
-#### Two-way infinite tape vs one-way infinite tape
-
-#### Read-only input tape + work tapes
-Useful in complexity theory.
-#### Universal Turing machine
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-#### Enumerator, oracle TM, probabilistic TM, alternating TM...
-
-
 ### Lambda Calculus
 ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 
-### General Recursive Function
+### General Recursive (μ-Recursive) Function
 > [!links]
 > ↗ [Natural Number & Peano Axioms](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 > ↗ [Function & Mapping of Set](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
@@ -480,49 +480,6 @@ In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathe
 Other equivalent classes of functions are the functions of [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus "Lambda calculus") and the functions that can be computed by [Markov algorithms](https://en.wikipedia.org/wiki/Markov_algorithm "Markov algorithm").
 
 The subset of all _total_ recursive functions with values in {0,1} is known in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory") as the [complexity class R](https://en.wikipedia.org/wiki/R_\(complexity\) "R (complexity)").
-
-
-### Register Machine
-> [!links]
-> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
-> - ↗ [Register](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
-> 
-> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-> ↗ [ASM (Assembly Languages)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-
-> 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents#Register_machine_models
-
-[Peter van Emde Boas](https://en.wikipedia.org/wiki/Peter_van_Emde_Boas "Peter van Emde Boas") includes all machines of this type in one class, "the register machine". However, historically the literature has also called the most primitive member of this group i.e. "the counter machine" – "the register machine". And the most primitive embodiment of a "counter machine" is sometimes called the "Minsky machine".
-
-> 🔗 https://en.wikipedia.org/wiki/Register_machine
-
-In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **register machine** is a generic class of [abstract machines](https://en.wikipedia.org/wiki/Abstract_machine "Abstract machine"), analogous to a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") and thus [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness"). Unlike a Turing machine that uses a tape and head, a register machine utilizes multiple uniquely addressed registers to store non-negative integers. There are several sub-classes of register machines, including [counter machines](https://en.wikipedia.org/wiki/Counter_machine "Counter machine"), [pointer machines](https://en.wikipedia.org/wiki/Pointer_machine "Pointer machine"), [random-access machines (RAM)](https://en.wikipedia.org/wiki/Random-access_machine "Random-access machine"), and [Random-Access Stored-Program Machine (RASP)](https://en.wikipedia.org/wiki/Random-access_stored-program_machine "Random-access stored-program machine"), each varying in complexity. These machines, particularly in theoretical studies, help in understanding computational processes. The concept of register machines can also be applied to [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") in practical computer science, for educational purposes and reducing dependency on specific hardware architectures.
-
----
-**Overview**
-
-The register machine gets its name from its use of one or more "[registers](https://en.wikipedia.org/wiki/Processor_register "Processor register")". In contrast to the tape and head used by a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine"), the [model](https://en.wikipedia.org/wiki/Model "Model") uses **multiple uniquely addressed registers**, each of which holds a single non-negative [integer](https://en.wikipedia.org/wiki/Integer "Integer").
-
-There are at least four sub-classes found in the [literature](https://en.wikipedia.org/wiki/Literature "Literature"). In ascending order of complexity:
-- [Counter machine](https://en.wikipedia.org/wiki/Counter_machine "Counter machine") – the most primitive and reduced [theoretical](https://en.wikipedia.org/wiki/Theoretical "Theoretical") model of [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware"). This machine lacks indirect addressing, and instructions are in the [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine") in the manner of the [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture "Harvard architecture").
-- [Pointer machine](https://en.wikipedia.org/wiki/Pointer_machine "Pointer machine") – a blend of the counter machine and RAM models which is less common and more abstract than either model. Instructions are in the finite state machine in the manner of Harvard architecture.
-- [Random-access machine](https://en.wikipedia.org/wiki/Random-access_machine "Random-access machine") (RAM) – a counter machine with indirect addressing and, usually, an augmented instruction set. Instructions are in the finite state machine in the manner of the Harvard architecture.
-- [Random-access stored-program machine](https://en.wikipedia.org/wiki/Random-access_stored-program_machine "Random-access stored-program machine") model (RASP) – a RAM with instructions in its registers analogous to the [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine "Universal Turing machine"), making it an example of the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture "Von Neumann architecture"). But unlike a computer, the model is _idealized_ with effectively infinite registers (and if used, effectively infinite special registers such as [accumulators](https://en.wikipedia.org/wiki/Accumulator_\(computing\) "Accumulator (computing)")). As compared to a modern computer, however, the instruction set is still reduced in number and complexity.
-
-Any properly defined register machine model is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness"). Computational speed is very dependent on the model specifics.
-
-In practical computer science, a related concept known as a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") is occasionally employed to reduce reliance on underlying machine architectures. These [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") are also utilized in educational settings. In textbooks, the term "register machine" is sometimes used interchangeably to describe a virtual machine.
-
-#### Counter Machines /Minsky Machine
-
-#### Pointer Machines
-
-#### Random-Access Machines (RAM)
-
-#### Random-Access Stored-Program Machine (RASP)
-
-
-### Stack-Based Machine
 
 
 ### Dataflow Machine
@@ -569,24 +526,13 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 ↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
 
 
-### Process Calculi
 
-
-### Actor Model
-
-
-### Petri Nets
-
-
-
-## Computational Models For Modern Computer ⭐
+## Foundational Models of Modern Computer ⭐
 > [!links]
 > ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-> ↗ [Formal Semantics and Programming Language](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
 > 
 > ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 > ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-> ↗ [ISA Instruction Basics](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
 
 > 🤖 https://chatgpt.com/share/69d04122-f4f4-838a-b6cb-5c2b6ad3f707
 
@@ -627,7 +573,59 @@ In this sense, modern computers are best understood as **register- and memory-ba
 | **Dataflow / stream processing**           | **Dataflow graphs**, stream models                                                                    | Computation as flow of values through dependent operators                    | Useful in parallel execution, reactive systems, streaming engines                   |
 
 
-### x86 ISA & Programmer-Visible Model of x86 Machine
+### Register Machine
+> [!links]
+> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+> - ↗ [Register](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/📌%20Inside%20CPU%20Core%20(Core%20Microarchitecture)/Register.md)
+> 
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> ↗ [ASM (Assembly Languages)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Turing_machine_equivalents#Register_machine_models
+
+[Peter van Emde Boas](https://en.wikipedia.org/wiki/Peter_van_Emde_Boas "Peter van Emde Boas") includes all machines of this type in one class, "the register machine". However, historically the literature has also called the most primitive member of this group i.e. "the counter machine" – "the register machine". And the most primitive embodiment of a "counter machine" is sometimes called the "Minsky machine".
+
+> 🔗 https://en.wikipedia.org/wiki/Register_machine
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"), a **register machine** is a generic class of [abstract machines](https://en.wikipedia.org/wiki/Abstract_machine "Abstract machine"), analogous to a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") and thus [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness"). Unlike a Turing machine that uses a tape and head, a register machine utilizes multiple uniquely addressed registers to store non-negative integers. There are several sub-classes of register machines, including [counter machines](https://en.wikipedia.org/wiki/Counter_machine "Counter machine"), [pointer machines](https://en.wikipedia.org/wiki/Pointer_machine "Pointer machine"), [random-access machines (RAM)](https://en.wikipedia.org/wiki/Random-access_machine "Random-access machine"), and [Random-Access Stored-Program Machine (RASP)](https://en.wikipedia.org/wiki/Random-access_stored-program_machine "Random-access stored-program machine"), each varying in complexity. These machines, particularly in theoretical studies, help in understanding computational processes. The concept of register machines can also be applied to [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") in practical computer science, for educational purposes and reducing dependency on specific hardware architectures.
+
+---
+**Overview**
+
+The register machine gets its name from its use of one or more "[registers](https://en.wikipedia.org/wiki/Processor_register "Processor register")". In contrast to the tape and head used by a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine "Turing machine"), the [model](https://en.wikipedia.org/wiki/Model "Model") uses **multiple uniquely addressed registers**, each of which holds a single non-negative [integer](https://en.wikipedia.org/wiki/Integer "Integer").
+
+There are at least four sub-classes found in the [literature](https://en.wikipedia.org/wiki/Literature "Literature"). In ascending order of complexity:
+- [Counter machine](https://en.wikipedia.org/wiki/Counter_machine "Counter machine") – the most primitive and reduced [theoretical](https://en.wikipedia.org/wiki/Theoretical "Theoretical") model of [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware"). This machine lacks indirect addressing, and instructions are in the [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine") in the manner of the [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture "Harvard architecture").
+- [Pointer machine](https://en.wikipedia.org/wiki/Pointer_machine "Pointer machine") – a blend of the counter machine and RAM models which is less common and more abstract than either model. Instructions are in the finite state machine in the manner of Harvard architecture.
+- [Random-access machine](https://en.wikipedia.org/wiki/Random-access_machine "Random-access machine") (RAM) – a counter machine with indirect addressing and, usually, an augmented instruction set. Instructions are in the finite state machine in the manner of the Harvard architecture.
+- [Random-access stored-program machine](https://en.wikipedia.org/wiki/Random-access_stored-program_machine "Random-access stored-program machine") model (RASP) – a RAM with instructions in its registers analogous to the [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine "Universal Turing machine"), making it an example of the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture "Von Neumann architecture"). But unlike a computer, the model is _idealized_ with effectively infinite registers (and if used, effectively infinite special registers such as [accumulators](https://en.wikipedia.org/wiki/Accumulator_\(computing\) "Accumulator (computing)")). As compared to a modern computer, however, the instruction set is still reduced in number and complexity.
+
+Any properly defined register machine model is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness"). Computational speed is very dependent on the model specifics.
+
+In practical computer science, a related concept known as a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") is occasionally employed to reduce reliance on underlying machine architectures. These [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine") are also utilized in educational settings. In textbooks, the term "register machine" is sometimes used interchangeably to describe a virtual machine.
+
+#### Counter Machines /Minsky Machine
+
+#### Pointer Machines
+
+#### Random-Access Machines (RAM)
+
+#### Random-Access Stored-Program Machine (RASP)
+
+
+### Stack-Based Machine
+
+
+### CPU & ISA Models
+> [!links]
+> ↗ [Computer Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
+> 
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> ↗ [ISA Instruction Basics](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
+> 
+> ↗ [Microprocessor & Microprocessors Unit (MPU)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/Microprocessor%20&%20Microprocessors%20Unit%20(MPU).md)
+> ↗ [CPU (Central Processing Unit)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20(Theory%20Part)/📌%20Microprocessor%20&%20Microprocessors%20Unit%20(MPU)/🧠%20CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+#### x86 ISA & Programmer-Visible Model of x86 Machine
 > [!links]
 > ↗ [x86 Architecture Family (80x86, 8086 family)](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 
@@ -703,15 +701,55 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 - instruction pointer
 - stack pointer
 - instructions that may use both registers and memory operands
-
-
-### Arm ISA & Programmer-Visible Model of Arm Machine
+#### Arm ISA & Programmer-Visible Model of Arm Machine
 > [!links]
 > ↗ [ARM Architecture Family](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/ARM%20Architecture%20Family/ARM%20Architecture%20Family.md)
 
 
+### Formal Semantics of Programming Language
+↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+- ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+	- ↗ [Operational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md)
+	- ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
+	- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
+	- ↗ [Algebraic Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Algebraic%20Semantics/Algebraic%20Semantics.md)
+	- ↗ [Action Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Action%20Semantics/Action%20Semantics.md)
 
-## Models in Artificial Intelligence
+
+
+## Models For Computing Methodologies
+> [!links]
+> ↗ [Computing Methodologies](../../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+> 
+> ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+> ↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
+
+
+### Concurrent Computation Models
+↗ [Concurrent Computing](../../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/Concurrent%20Computing/Concurrent%20Computing.md)
+
+↗ [Programming Language Constructs and Abstraction Mechanisms](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms/Programming%20Language%20Constructs%20and%20Abstraction%20Mechanisms.md)
+"Concurrency and Communication "
+
+↗ [Concurrent Programming](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+↗ [Go Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Golang/📌%20Go%20Advanced/Go%20Concurrent%20Programming.md)
+↗ [Java Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java%20Advanced/Java%20Concurrent%20Programming.md)
+↗ [Python Concurrent Programming](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Interpreted%20Languages/🐍%20Python/📌%20Python%20Basics/Python%20Concurrent%20Programming.md)
+
+↗ [Concurrency Control](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Concurrency Control](../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Design/Database%20Design/Physical%20Database%20Design%20(Physical%20Modeling)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
+
+↗ [Actor Model & Actor Model Theory](Concurrent%20Computation%20Models/Actor%20Model%20&%20Actor%20Model%20Theory.md)
+↗ [Process Calculi (Process Algebras)](Concurrent%20Computation%20Models/Process%20Calculi%20(Process%20Algebras).md)
+
+
+### Distributed Computation Models
+↗ [Distributed Computing & Systems](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+
+↗ [Petri Nets](Distributed%20Computation%20Models/Petri%20Nets.md)
+
+
+### Artificial Intelligence Models
 > [!links]
 > ↗ [AI Basics & Major Techniques](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)
 > - ↗ [Reflex-Based Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌠%20Agent%20Decision%20Models%20(Semantic%20Level)/Reflex-Based%20Models.md)
@@ -728,21 +766,33 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 > 	- ↗ [GAN (Generative Adversarial Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/GAN%20(Generative%20Adversarial%20Network)/GAN%20(Generative%20Adversarial%20Network).md)
 > - ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 > 	- ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
-
-
-### Artificial Neuron & Neuron Networks
+#### Artificial Neuron & Neural Networks 🤔
 > [!links]
-> ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
 > ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
-> 
 > ↗ [Neural Network Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Neural%20Network%20Models.md)
+> - ↗ [CNN (Convolutional Neural Network)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/CNN%20(Convolutional%20Neural%20Network)/CNN%20(Convolutional%20Neural%20Network).md)
 > - ↗ [Transformers](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/2️⃣%20Neural%20Network%20Models%20🗿/Transformers/Transformers.md)
+> 
+> ↗ [(Deep) Generative Models](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020260318160336.png)
 <small><a>https://www.activestate.com/blog/neural-network-showdown-tensorflow-vs-pytorch/</a></small>
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020260317221514.png)
 <small><a>https://towardsdatascience.com/the-concept-of-artificial-neurons-perceptrons-in-neural-networks-fab22249cbfc/</a></small>
+
+
+
+## Models For Communication & Protocols
+↗ [Computer Networking and Communication](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [Computer Network Protocol Suites Standardizations & Administration](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration.md)
+
+↗ [Network Security Protocol Stacks](../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/Network%20Security%20Protocol%20Stacks.md)
+
+↗ [Security Protocols & Cryptographic Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
+↗ [Cryptographic Protocols Modeling & Verification](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification/Cryptographic%20Protocols%20Modeling%20&%20Verification.md)
+
+↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 
 
 

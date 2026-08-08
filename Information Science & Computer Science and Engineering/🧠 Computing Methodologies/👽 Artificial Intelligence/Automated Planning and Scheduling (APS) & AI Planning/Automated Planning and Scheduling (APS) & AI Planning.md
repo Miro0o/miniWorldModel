@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 ↗ [Problem Solving & Search-Based Methods](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
@@ -200,7 +200,7 @@ Partial-order planning is also often used in domains where it is important for h
 > [!links]
 > ↗ [Informed (Heuristic) Search](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Informed%20(Heuristic)%20Search/Informed%20(Heuristic)%20Search.md)
 > ↗ [Heuristic Algorithms](../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Other%20Topics%20in%20Algorithms/Heuristic%20Algorithms/Heuristic%20Algorithms.md)
-> ↗ [Metaheuristic & Heuristic](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Metaheuristic%20&%20Heuristic/Metaheuristic%20&%20Heuristic.md)
+> ↗ [Heuristics & Metaheuristics](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/💡%20Heuristics%20&%20Metaheuristics/Heuristics%20&%20Metaheuristics.md)
 
 > 📖 Artificial Intelligence: A Modern Approach, 4th ed.
 > RUSSELL & NORVIG
@@ -298,7 +298,7 @@ We will cover **sensorless planning** (also known as **conformant planning**) fo
 ↗ [Agents & Multi-Agent System](../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
 
 ↗ [Games & Search in Multi-Agents Environment](../🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 

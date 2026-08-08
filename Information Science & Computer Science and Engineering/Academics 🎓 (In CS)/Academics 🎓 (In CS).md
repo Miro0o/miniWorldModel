@@ -95,7 +95,7 @@ AI
 
 
 ## Academic Publications & Venues
-↗ [CS Academic Venues & Human Factors by Areas](🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+↗ [Research Frontiers, Venues, and Humans by CS Areas](🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 
 

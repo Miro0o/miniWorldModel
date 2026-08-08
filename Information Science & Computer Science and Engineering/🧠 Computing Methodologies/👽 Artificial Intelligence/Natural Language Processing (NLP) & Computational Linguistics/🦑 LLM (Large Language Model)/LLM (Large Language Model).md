@@ -23,16 +23,15 @@
 
 LLM & Academics 🧑‍🎓
 - ↗ [LLM & Federated Learning](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md)
-- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Fuzzing.md)
-- ↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
+- ↗ [LLM & Fuzzing](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Fuzzing.md)
+- ↗ [LLM & Software Engineering and Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
 ↗ [LLM For Security](../../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
 ↗ [AI4SE](../../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [Agentic AI Workflow Dev](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/Agentic%20AI%20Workflow%20Dev.md)
-- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Workflow%20&%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
+- ↗ [LangChain & LangGraph](../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/Agentic%20AI%20Workflow%20Dev/LLM%20Agents%20Dev%20Frameworks/LangChain%20&%20LangGraph.md)
 
-↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
-↗ [Research Topics in LLM](../../../../Academics%20🎓%20(In%20CS)/Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
+↗ [Artificial Intelligence Related Venues and People](../../../../Academics%20🎓%20(In%20CS)/🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 ↗ [XAI (eXplainable AI) & Mathematical Analysis of AI](../../🗝️%20AI%20Basics%20&%20Major%20Techniques/🌁%20XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI/XAI%20(eXplainable%20AI)%20&%20Mathematical%20Analysis%20of%20AI.md)
 
 ↗ [Artificial Intelligence Industry and Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Artificial%20Intelligence%20Industry%20and%20Companies/Artificial%20Intelligence%20Industry%20and%20Companies.md)
@@ -277,6 +276,29 @@ Dave Ebbelaar
 #### Blogs & Communities
 https://www.alignmentforum.org/
 
+https://faichou.com/posts/a-transformer-walkthrough/
+From Embedding to Attention: A Transformer Walkthrough
+February 11, 2026 / 28 min read
+
+https://faichou.com/posts/llm-cache/
+LLM 缓存机制：从计费到原理
+February 5, 2026 / 15 min read
+#### Projects & Libraries
+https://github.com/karpathy/nanogpt
+The simplest, fastest repository for training/finetuning medium-sized GPTs. It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. Still under active development, but currently the file `train.py` reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: `train.py` is a ~300-line boilerplate training loop and `model.py` a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI. That's it.
+
+https://github.com/karpathy/nanochat
+nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI. On a spot instance, the total cost can be closer to ~$15. More generally, nanochat is configured out of the box to train an entire miniseries of compute-optimal models by setting one single complexity dial: `--depth`, the number of layers in the GPT transformer model (GPT-2 capability happens to be approximately depth 26). All other hyperparameters (the width of the transformer, number of heads, learning rate adjustments, training horizons, weight decays, ...) are calculated automatically in an optimal way.
+For questions about the repo, I recommend either using [DeepWiki](https://deepwiki.com/karpathy/nanochat) from Devin/Cognition to ask questions about the repo, or use the [Discussions tab](https://github.com/karpathy/nanochat/discussions), or come by the [#nanochat](https://discord.com/channels/1020383067459821711/1427295580895314031) channel on Discord.
+
+https://github.com/Ashx098/Mini-LLM
+A production-grade implementation of a decoder-only transformer language model, built from scratch with modern best practices. This project demonstrates the complete pipeline from raw text to a functioning LLM capable of text generation.
+- **Google** for [SentencePiece](https://github.com/google/sentencepiece) tokenizer
+- **Hugging Face** for [Transformers](https://github.com/huggingface/transformers) library
+
+https://github.com/WKQ9411/Mini-LLM
+本项目旨在基于较小的算力，复现当前主流开源模型的架构，实现一个 100-200M 参数量版本的迷你模型。项目将数据集、训练流程等基础设施尽可能固定下来，以便在学习新的模型架构时能够快速复现，从而将主要精力聚焦在模型架构的学习和复现上。
+
 
 ### Papers & Researches
 #### LLM Survey Papers
@@ -358,6 +380,8 @@ I follow the 35 year journey that led to the explosion of Large Language Models.
 
 https://www.anthropic.com/research/estimating-productivity-gains
 Estimating AI productivity gains from Claude conversations
+
+
 
 
 
@@ -447,7 +471,7 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 
 
 ### LLM Infrastructure & Deployment
-↗ [LLM Infrastructure & Deployment](LLM%20Infrastructure%20&%20Deployment/LLM%20Infrastructure%20&%20Deployment.md)
+↗ [LLM Infrastructure (Deployment & Inference)](LLM%20Infrastructure%20(Deployment%20&%20Inference)/LLM%20Infrastructure%20(Deployment%20&%20Inference).md)
 ↗ [AI (Data) Infrastructure & Techniques Stack](../../🏗️%20AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack/AI%20(Data)%20Infrastructure%20&%20Techniques%20Stack.md)
 
 
@@ -455,8 +479,8 @@ In operation, reasoning models generate internal chains of intermediate steps, t
 ↗ [LLM Applications & LLM-Driven Automation](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
 
 Agentic LLM and LLM OS
-- ↗ [Agentic LLMs & AI Workflow](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
-- ↗ [AI Agent Assistants (General Purpose) & LLM OS](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
+- ↗ [Agentic LLMs & LLM Agent Harness](🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+- ↗ [AI Agent Assistants (General Purpose) & LLM OS](../../../../Software%20Engineering/🤖%20AI4SE/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS/AI%20Agent%20Assistants%20(General%20Purpose)%20&%20LLM%20OS.md)
 
 Artificial General Intelligence?
 - ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
@@ -549,7 +573,7 @@ Artificial General Intelligence?
 #### Qwen-series Model
 ↗ [Alibaba Qwen](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Alibaba%20Qwen/Alibaba%20Qwen.md)
 #### DeepSeek-series Model
-↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek/DeepSeek.md)
+↗ [DeepSeek](🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
 
 
 

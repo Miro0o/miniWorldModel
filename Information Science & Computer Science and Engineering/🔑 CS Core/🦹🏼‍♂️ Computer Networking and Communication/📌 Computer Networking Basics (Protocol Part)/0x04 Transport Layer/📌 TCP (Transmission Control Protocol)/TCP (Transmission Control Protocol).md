@@ -73,7 +73,7 @@ The maximum amount of data that can be grabbed and placed in a segment is limite
 
 ## 🛸 Evolution of Transport Layer Functionality
 
-🙈 See [QUIC](../../QUIC.md) 
+🙈 See ↗ [QUIC (Quick UDP Internet Connection)](../QUIC%20(Quick%20UDP%20Internet%20Connection)/QUIC%20(Quick%20UDP%20Internet%20Connection).md)
 
 
 

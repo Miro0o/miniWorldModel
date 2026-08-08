@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
-↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
 ### Learning Resources
@@ -23,7 +23,7 @@ This entry verifies a number of worklist algorithms for exploring sets of reacha
 
 ## Intro
 ### Program Semantics & Program Interpretation
-↗ [Formal Semantics and Programming Language](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md) (program semantics, abstraction, and interpretation)
 
 ↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
@@ -76,7 +76,9 @@ Abstract interpretation was formalized by the French computer scientist working 
 #### Posets & Lattice
 > [!links]
 > Prerequisite or background knowledge 🤔
-> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra /Group, Ring, and Field ⭐](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md#Group,%20Ring,%20and%20Field%20⭐)
+> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md) 
+> ↗ [Group Theory & Group-Like Algebraic Structure (群)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
+> ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
 > ![Screenshot 2023-01-05 at 2.42.36 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%202.42.36%20PM.png)
 > <small>【群环域串讲】 <a>https://www.bilibili.com/video/BV1L84y1k7Yc/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a></small>
 
@@ -106,8 +108,8 @@ The reason why they are called latices is that they can be drawn using Hasse dig
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.53.png)
 #### Galois Connection & Safe-Approximation ⭐
 > [!links]
-> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
-> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
+> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 > 🔗 [Galois connection - Wikipedia](https://en.wikipedia.org/wiki/Galois_connection)
 
@@ -135,7 +137,7 @@ The first two rules give us confidence that whatever abstraction we choose, we *
 ##### Adjunction and Testing
 > [!links]
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md) "adjunct functor"
+> ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md) "adjunct functor"
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:3
 

@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Number Sequence](../Number%20Sequence.md)
 
-↗ [Catalan Number](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorial%20Counting%20Methods/Advanced%20Counting%20Number/Catalan%20Number.md)
-↗ [Sterling Number](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/Combinatorial%20Counting%20Methods/Advanced%20Counting%20Number/Sterling%20Number.md)
+↗ [Catalan Number](../../../Combinatorics%20(Combinatorial%20Mathematics)/Enumerative%20Combinatorics/Special%20Counting%20Numbers%20and%20Sequences/Catalan%20Number.md)
+↗ [Stirling Number](../../../Combinatorics%20(Combinatorial%20Mathematics)/Enumerative%20Combinatorics/Special%20Counting%20Numbers%20and%20Sequences/Stirling%20Number.md)
 
 
 ### Other Resources

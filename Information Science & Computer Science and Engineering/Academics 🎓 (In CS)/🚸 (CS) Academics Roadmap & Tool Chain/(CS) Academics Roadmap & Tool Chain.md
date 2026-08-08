@@ -415,7 +415,7 @@ https://www.cnkivip.net/
 
 ## 4️⃣ Submission & Review & Revise
 ### Call for Papers
-↗ [CS Academic Venues & Human Factors by Areas](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
+↗ [Research Frontiers, Venues, and Humans by CS Areas](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 
 🔗 https://people.engr.tamu.edu/guofei/links.htm
@@ -428,8 +428,8 @@ Call for Paper Lists
 
 ### Conferences & Journals /中国大陆学术论文分区
 > [!links]
-> ↗ [CS Academic Venues & Human Factors by Areas](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
-> ↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
+> ↗ [Research Frontiers, Venues, and Humans by CS Areas](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
+> ↗ [Sec (Security) Related Venues and People](../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 
 https://www.myhuiban.com/
 Conference Partner

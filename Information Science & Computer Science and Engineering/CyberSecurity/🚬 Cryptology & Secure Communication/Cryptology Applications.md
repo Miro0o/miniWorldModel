@@ -29,7 +29,7 @@
 
 
 ### Computer Network and Communication Security
-↗ [Channel Encryption](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/Channel%20Encryption/Channel%20Encryption.md)
+↗ [Channel Encryption](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/Channel%20Encryption/Channel%20Encryption.md)
 
 ↗ [Network (& Communication) Security](../Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)
 - ↗ [Network Security Mechanisms](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/Network%20Security%20Mechanisms.md)
@@ -37,7 +37,7 @@
 		- ↗ [Application Layer Security Protocols](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 			- ↗ [Kerberos](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Authentication%20Protocols/Kerberos/Kerberos.md)
 			- ↗ [SSH (Secure SHell)](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/📱%20Application%20Layer%20Security%20Protocols/Secure%20Communication/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
-		- ↗ [Transportation Layer Security Protocols](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20Layer%20Security%20Protocols/Transportation%20Layer%20Security%20Protocols.md)
+		- ↗ [Transportation (& Session) Layer Security Protocols](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/Transportation%20(&%20Session)%20Layer%20Security%20Protocols.md)
 		- ↗ [Network Layer Security Protocols](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🫱🏻‍🫲🏿%20Network%20Layer%20Security%20Protocols/Network%20Layer%20Security%20Protocols.md)
 	- ↗ [Wireless & Mobile Network Security](../Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🛜%20Wireless%20&%20Mobile%20Network%20Security/Wireless%20&%20Mobile%20Network%20Security.md)
 

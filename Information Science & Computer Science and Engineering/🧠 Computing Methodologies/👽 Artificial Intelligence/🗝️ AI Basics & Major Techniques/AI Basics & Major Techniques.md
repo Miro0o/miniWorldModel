@@ -12,7 +12,7 @@
 - ↗ [Bayesian Statistics & Statistical Analysis](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Bayesian%20Statistics%20&%20Statistical%20Analysis.md)
 	- ↗ [Variational Inference](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Variational%20Inference/Variational%20Inference.md)
 	- ↗ [Causal Inference in Statistics](../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Bayesian%20Statistics%20&%20Statistical%20Analysis/Inferential%20Statistics%20(Analysis)%20&%20Statistical%20Inference/Causal%20Inference%20in%20Statistics/Causal%20Inference%20in%20Statistics.md)
-↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 
 ↗️ [Artificial Neural Networks (ANN) & Deep Learning Methods](🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 ↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
@@ -43,7 +43,7 @@
 > [!links]
 > ↗ [Artificial Intelligence](../Artificial%20Intelligence.md) "AI Without Self-Awareness: Agent vs Environment (Narrow AI) ⭐"
 
-![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![CS_and_Intelligence.excalidraw | 800](../../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 

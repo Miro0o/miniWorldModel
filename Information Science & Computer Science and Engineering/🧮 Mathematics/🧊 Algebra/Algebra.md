@@ -8,7 +8,8 @@
 ### Related Topics
 ↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Function & Mapping of Set](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-↗ [Category Theory (范畴论)](🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+
+↗ [Category Theory (范畴论)](../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 
 ### Other Resources
@@ -25,6 +26,24 @@
 [Abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra "Abstract algebra") studies algebraic structures, which consist of a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\) "Set (mathematics)") of [mathematical objects](https://en.wikipedia.org/wiki/Mathematical_objects "Mathematical objects") together with one or several [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)") defined on that set. It is a generalization of elementary and linear algebra since it allows mathematical objects other than numbers and non-arithmetic operations. It distinguishes between different types of algebraic structures, such as [groups](https://en.wikipedia.org/wiki/Group_\(mathematics\) "Group (mathematics)"), [rings](https://en.wikipedia.org/wiki/Ring_\(mathematics\) "Ring (mathematics)"), and [fields](https://en.wikipedia.org/wiki/Field_\(mathematics\) "Field (mathematics)"), based on the number of operations they use and the laws they follow, called [axioms](https://en.wikipedia.org/wiki/Axioms "Axioms"). [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra "Universal algebra") and [category theory](https://en.wikipedia.org/wiki/Category_theory "Category theory") provide general frameworks to investigate abstract patterns that characterize different classes of algebraic structures.
 
 Algebraic methods were first studied in the [ancient period](https://en.wikipedia.org/wiki/Ancient_period "Ancient period") to solve specific problems in fields like [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"). Subsequent mathematicians examined general techniques to solve equations independent of their specific applications. They described equations and their solutions using words and abbreviations until the 16th and 17th centuries when a rigorous symbolic formalism was developed. In the mid-19th century, the scope of algebra broadened beyond a [theory of equations](https://en.wikipedia.org/wiki/Theory_of_equations "Theory of equations") to cover diverse types of algebraic operations and structures. Algebra is relevant to many branches of mathematics, such as geometry, [topology](https://en.wikipedia.org/wiki/Topology "Topology"), [number theory](https://en.wikipedia.org/wiki/Number_theory "Number theory"), and [calculus](https://en.wikipedia.org/wiki/Calculus "Calculus"), and other fields of inquiry, like [logic](https://en.wikipedia.org/wiki/Logic "Logic") and the [empirical sciences](https://en.wikipedia.org/wiki/Empirical_sciences "Empirical sciences").
+
+> [!Quote]
+> 穹苍广而善美兮，何天理之悠悠。
+> 先哲思而念远兮，奚术算之久留。
+> 形与美之交接兮，心与物之融流。
+> 临新纪而展望兮，翼四力以真求。
+> 岂原爆之非妄兮，实万物之始由。
+> 曲率浅而达深兮，时空坦而寡愁。
+> 曲率极而物毁兮，黑洞冥而难求。
+> 相迁变而规物兮，几何雅其远谋。
+> 扬规范之场论兮，拓扑衰而复留。
+> 时空荡而物生兮，新数学其始流。
+> 惟对称之内蕴兮，类不变而久幽。
+> 道深奥而动心兮，惟精析之能图。
+> 质与量之相成兮，匪线化之能筹。
+> 
+> 诗·词 几何颂(二零零二年)
+> 丘成桐
 
 
 ### Characteristics of Algebra

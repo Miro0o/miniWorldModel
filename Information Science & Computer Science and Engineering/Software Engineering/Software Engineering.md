@@ -84,7 +84,7 @@ From computer's perspective:
 <small>Computer System & Computer Science Overview</small>
 
 From society's perspective: (below is not the best illustration. the best illustration should be the overview of economical sectors of human society.)
-![ | 800](../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![ | 800](../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
 

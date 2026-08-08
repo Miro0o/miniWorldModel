@@ -11,7 +11,7 @@
 ↗ [Network Virtualization (NV)](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
 ↗ [AI + Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md)
 
-↗ [Console Games & Video Games](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Console%20Games%20&%20Video%20Games/Console%20Games%20&%20Video%20Games.md)
+↗ [Home Video Games & Console Games](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Home%20Video%20Games%20&%20Console%20Games/Home%20Video%20Games%20&%20Console%20Games.md)
 
 ↗ [Cloud Computing & Cloud Native](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [VMWare](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Producers/VMWare.md)
@@ -56,19 +56,24 @@ Popek & Goldberg, 1974
 ↗ [Virtualization Development History & Timeline](Virtualization%20Development%20History%20&%20Timeline.md)
 
 
-### 🎲 Virtualization by Objects
+
+## 🎲 Virtualization by Objects
 1. Virtual Reality
 	1. As in ↗ [AI /Virtual Reality](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/🤔%20AI%20Embodiment%20&%20World%20Model%20(WM)/AI%20+%20Virtual%20Reality/AI%20+%20Virtual%20Reality.md).
 2. Virtual Machine
 	1. Platform Virtualization
 	2. Application Virtualization(Sandbox)
 	3. Desktop virtualization
+	4. VPS (Virtual Personal Server)
 3. Network Virtualization
-	1. As in ↗ [Computer Network /Network Virtualization](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+	1. ↗ [Computer Network /Network Virtualization](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/Network%20Virtualization%20(NV).md)
+	2. ↗ [Tunneling & VPN (Virtual Personal Network)](../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
+	3. ↗ [vLAN & VxLAN](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 4. Storage Virtualization
 	1. ↗ [Operating System / Memory Management /Memory Virtualization](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 5. Service Virtualization
-	1. As in ↗ [Cloud Computing & Cloud Native](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md).
+	1. ↗ [Cloud Computing & Cloud Native](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+	2. ↗ [VPC (Virtual Private Cloud)](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC%20(Virtual%20Private%20Cloud).md)
 
 
 

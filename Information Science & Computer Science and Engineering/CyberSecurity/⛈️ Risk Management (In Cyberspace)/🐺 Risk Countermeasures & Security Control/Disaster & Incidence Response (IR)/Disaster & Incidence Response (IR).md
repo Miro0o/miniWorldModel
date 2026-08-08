@@ -27,7 +27,6 @@ NIST - The documentation of a predetermined set of instructions or procedures to
 ## Incidence Response /Emergency Response
 > 通常是指一个组织为了应对各种意外事件的发生所做的准备以及在事件发生后所采取的措施。
 
-![](../../../../Assets/Pics/Screenshot%202023-11-01%20at%208.05.10%20PM.png)
 
 ### Why Incidence Response? (应急响应的意义)
 应急响应的意义应该主要包括两个方面：

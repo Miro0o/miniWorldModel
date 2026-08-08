@@ -76,10 +76,10 @@ TL;DR
 	- The ultimate goal of computer science is to reach to the extreme of computational power, i.e. the ability like human intelligence or beyond that in regard of the computation of information.
 	- Strong computational power don't make human-like intelligence, the combination of computational power and engineering ability makes human-like intelligence, or even human ourselves. However, a more widely-accepted version of such intelligence, artificial intelligence, aims to only reach the maximal power of computational ability, ignoring the engineering part. 
 
-![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 <small>The relationship of language, information/data, computation, and automation.</small>
 
-![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 <small>From CS to AGI: Computing and Intelligence</small>
 
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
@@ -100,7 +100,7 @@ Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
 #### A Deeper Thinking of Computation
-![computing.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
@@ -462,9 +462,9 @@ These questions, from general to specific, track my path in learning CS. The lin
 
 
 **Philosophy Part**
-1. What is the Universe? | ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md) ![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Human_and_knowledge.excalidraw.md)
+1. What is the Universe? | ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md) ![Human_and_knowledge.excalidraw | 800](../../../Assets/Illustrations/Philosophy/Human_and_knowledge.excalidraw.md)
 	1. What is the life?（什么是生命？）
-	2. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/CS_and_Intelligence.excalidraw.md)
+	2. What is the intelligence? What is Human Beings? （什么是智能（从低级到高级）？人类就是目前唯一已知的高级智能（？））![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 		1. Difference between human and other life objects? Self-consciousness.
 		2. Human intelligence?
 			1. Intelligence: computation (of information) + engineering
@@ -489,7 +489,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 				5. ...
 		3. Knowledge and "truth"?
 			1. Scientific spirit and scientific (academic) research ?
-		4. Knowledge and education?
+		4. Knowledge , education, and research?
 			1. University & 🔗 [大学](https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E5%AD%B8)
 			2. PhD (🔗 [Doctor of Philosophy](https://en.wikipedia.org/wiki/Doctor_of_Philosophy))
 ----
@@ -510,10 +510,10 @@ These questions, from general to specific, track my path in learning CS. The lin
 				1. ↗ [Relation & Relation Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 		2. ↗ [Algebra](../../🧮%20Mathematics/🧊%20Algebra/Algebra.md)
 			1. ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-				1. ↗ [Linear Algebra & Module-Like Algebraic Structure](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-				2. ↗ [Lattice (Group Theory) & Lattice-Like Algebraic Structure](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure.md)
-					1. ↗ [Boolean Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Lattice%20(Group%20Theory)%20&%20Lattice-Like%20Algebraic%20Structure/Boolean%20Algebra/Boolean%20Algebra.md)
-			2. ↗ [Category Theory (范畴论)](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+				1. ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+				2. ↗ [Order Theory & Lattice-Like Algebraic Structure (格)](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格).md)
+					1. ↗ [Boolean Algebra](../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
+			2. ↗ [Category Theory (范畴论)](../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 		3. ↗ [Mathematical Analysis (& Analytical Mathematics)](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 			1. ↗ [Differential Calculus & Derivative of Function](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 			2. ↗ [Definite Integral](../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Integral%20of%20Function/Definite%20Integral.md)
@@ -543,13 +543,13 @@ These questions, from general to specific, track my path in learning CS. The lin
 		6. ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 	2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 		1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-		2. ↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
-		3. ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+		2. ↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+		3. ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 		2. ↗ [Quantum Computing (and Communication)](../../🧠%20Computing%20Methodologies/Quantum%20Computing%20(and%20Communication)/Quantum%20Computing%20(and%20Communication).md)
 		3. ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
-		4. ![computing.excalidraw](../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+		4. ![computing.excalidraw](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 5. ==\[SYSTEM\]== What is a computer /information system (again?)  --> 4 aspects: hardware, software, policies & protocols, people/ user ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 	1. What composes a computer? /How computer is designed and constructed in terms of hardware?
 		1. ↗ [EE Related Theories & Hardware Implementation](../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/EE%20Related%20Theories%20&%20Hardware%20Implementation.md)
@@ -568,12 +568,12 @@ These questions, from general to specific, track my path in learning CS. The lin
 		3. Why and how do we program? /How are programming languages designed?
 			2. ↗ [Computer Languages & Programming Methodology](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 				1. ↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-					1. ↗ [Formal Semantics and Programming Language](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+					1. ↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 				2. ↗ [Programming Tool Chain](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Programming%20Tool%20Chain.md)
 				3. ↗ [ASM (Assembly Languages)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 			3. Using programming languages to solve problems:
 				1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-					1. ↗ [Classic Algorithms by Problems & Contexts](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Classic%20Algorithms%20by%20Problems%20&%20Contexts.md)
+					1. ↗ [Algorithms Implementation For Classical Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Algorithms%20Implementation%20For%20Classical%20Problems.md)
 				2. ↗ [C & CPP](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 				3. ↗ [Java](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
 					1. ↗ [JVM Instrument Set & Java Bytecode](../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
@@ -649,7 +649,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 6. ==\[APPLICATION\]== How to apply the power of computer into solving real world problems? Below lists (some) CS fields and related topics:
 	1. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) & ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 		2. ↗ [Mathematical Modeling & Abstraction](../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
-		3. ↗ [Operations Research (OR)](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
+		3. ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
 		4. ↗ [Cybernetics & Control Theory](../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 		5. etc.
 	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
@@ -727,7 +727,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		5. Security aspects \#2:
 			1. ↗ [Data Security](../../CyberSecurity/Data%20Security/Data%20Security.md)
 				1. ↗ [Data Privacy & PET (Privacy Enhancement Technologies)](../../CyberSecurity/Data%20Security/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies)/Data%20Privacy%20&%20PET%20(Privacy%20Enhancement%20Technologies).md)
-				2. ↗ [Content Security](../../CyberSecurity/Data%20Security/Content%20Security/Content%20Security.md)
+				2. ↗ [🤔 Content Security & Public Opinion Control 🤔](../../CyberSecurity/Data%20Security/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔/🤔%20Content%20Security%20&%20Public%20Opinion%20Control%20🤔.md)
 			2. ↗ [Application Security](../../CyberSecurity/Application%20Security/Application%20Security.md)
 				1. ↗ [Trust-worthy AI & LLM Safety and Security](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md) 🤔
 			3. ↗ [Network (& Communication) Security](../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20(&%20Communication)%20Security.md)

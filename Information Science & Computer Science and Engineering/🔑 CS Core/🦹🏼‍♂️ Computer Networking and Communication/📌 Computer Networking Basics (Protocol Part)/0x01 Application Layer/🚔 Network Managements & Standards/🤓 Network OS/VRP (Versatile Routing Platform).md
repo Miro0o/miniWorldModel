@@ -1,4 +1,4 @@
-# Versatile Routing Platform
+# VRP (Versatile Routing Platform)
 
 [TOC]
 
@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+
+
+### Other Resources
 
 
 

@@ -10,7 +10,7 @@
 ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 ↗ [Information Theory](../../../../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-↗ [Linear Algebra & Module-Like Algebraic Structure](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
 ↗ [Probability Theory & Statistics](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 
@@ -181,7 +181,7 @@ https://stanford.edu/~shervine/
 
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "Artificial Neuron & Neuron Networks"
 
-![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 ![|600](../../../../../../Assets/Pics/Screenshot%202025-09-04%20at%2020.19.48.png)
 <small><a>https://youtu.be/aircAruvnKk?si=RiyEviyfGbC8YwS0</a></small>
@@ -259,7 +259,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ##### Linear Function
 
 ##### Activation Function
-↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions)/Activation%20Functions%20(Transfer%20Functions).md)
+↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
 
 #### Perceptron
 > 🔗 https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea
@@ -308,7 +308,7 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
 > [!links]
-> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions/Loss%20Functions.md)
+> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 #### Gradient Descent & Optimization
@@ -316,7 +316,7 @@ A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > 
 > ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
-> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers/Optimizers.md)
+> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 
@@ -353,7 +353,7 @@ A simple extension of gradient descent, [stochastic gradient descent](https://e
 		- ↗ [Google Gemini](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Google%20Gemini.md)
 		- ↗ [Anthropic Claude](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Anthropic%20Claude.md)
 		- ↗ [Meta LLama](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/Meta%20LLama.md)
-		- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek/DeepSeek.md)
+		- ↗ [DeepSeek](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/DeepSeek.md)
 		- ↗ [xAI Grok](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🪜%20LLM%20Foundation%20Models%20List%20&%20Evaluation%20and%20Benchmarks%20&%20Leaderboard/Main%20Stream%20General%20Models/xAI%20Grok.md)
 - ↗ [GNN (Graph Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
 ↗ [(Deep) Generative Models](../🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)

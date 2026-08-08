@@ -6,7 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [UPnP IGD (Internet Gateway Device Control Protocol)](../../../../../0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20Traversal/UPnP%20IGD%20(Internet%20Gateway%20Device%20Control%20Protocol).md)
+↗ [UPnP IGD (Internet Gateway Device Control Protocol)](../../../../../0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20Traversal/UPnP%20IGD%20(Internet%20Gateway%20Device%20Control%20Protocol).md)
+
+
+### Other Resources
 
 
 

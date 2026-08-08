@@ -19,7 +19,7 @@
 ↗ [U.S. Economics](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 ↗ [中国经济发展](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 
-↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 
 
 ### Learning Resources
@@ -417,7 +417,7 @@ Economic theories divide economic sectors further into [economic industries](ht
 ↗ [Public (Government) Finance](🏦%20Finance%20&%20Financial%20Management/📢%20Public%20(Government)%20Finance/Public%20(Government)%20Finance.md)
 
 ↗ [中国财政 & 财政部](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🐲%20中国政治概况/中国政府与行政管理/中国中央人民政府（国务院）/中国财政%20&%20财政部/中国财政%20&%20财政部.md)
-↗ [Treas.](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas/Treas.md)
+↗ [Treas.](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/U.S.%20Executive%20Branch/Treas/Treas..md)
 
 ↗ [中国经济发展](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中国大陆地区/🚀%20中国发展力量概况/中国经济发展/中国经济发展.md)
 ↗ [新中国时期经济发展史](../🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国经济发展史/新中国时期经济发展史/新中国时期经济发展史.md)

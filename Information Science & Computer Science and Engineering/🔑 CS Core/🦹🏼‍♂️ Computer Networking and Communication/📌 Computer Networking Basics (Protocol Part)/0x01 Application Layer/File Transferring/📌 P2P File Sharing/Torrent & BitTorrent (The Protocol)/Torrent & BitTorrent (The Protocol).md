@@ -14,6 +14,9 @@ https://1337x.to
 https://torrentz2.nz
 
 
+### Other Resources
+
+
 
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/BitTorrent

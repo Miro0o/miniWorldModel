@@ -118,7 +118,7 @@ Other Server Implementations
 
 
 ### 👉 `tailscale`
-↗ [tailscale](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Commercial%20Products/tailscale.md)
+↗ [tailscale](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Commercial%20Products/tailscale.md)
 
 
 

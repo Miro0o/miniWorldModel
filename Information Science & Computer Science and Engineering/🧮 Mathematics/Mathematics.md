@@ -16,8 +16,8 @@
 
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
 ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
+- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
 ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
@@ -280,11 +280,11 @@ After we have defined various objects and notions, we usually make **mathematica
 >↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 >- ↗ [Automated & Generic Theorem Provers](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 >
->↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
->- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+>↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
+>- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 >
->↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
->- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+>↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+>- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
 
 > 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 ##### Proof by Construction (构造法)
@@ -695,7 +695,7 @@ Three prominent features of mathematics in 1950 were:
 > ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 > ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-> ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+> ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 简单类型化$λ$演算$λ^→$的语法：(Syntax)
 - ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
@@ -706,10 +706,10 @@ Three prominent features of mathematics in 1950 were:
 - ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 - Henkin semantics & Henkin model
-	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+	- ↗ [σ-Algebra (sigma Algebra)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
 	- ↗ [Henkin Model & Henkin Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
-	- ↗ [Cartesian Closed Category (CCC)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+	- ↗ [Cartesian Closed Category (CCC)](🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
 #### Discussion of Axiomatic Systems
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Discussion_of_axiomatic_systems
 
@@ -806,7 +806,7 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 - ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
@@ -837,8 +837,8 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-- ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
+- ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E6%95%B8%E5%AD%B8%E7%9A%84%E5%90%84%E9%A0%98%E5%9F%9F
 
@@ -850,15 +850,15 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 
 ↗ [Algebra](🧊%20Algebra/Algebra.md)
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-	- ↗ [Group Theory & Group-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure.md)
-	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
-	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
-	- ↗ [Category Theory (范畴论)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-- ↗ [Elementary Theory of Numbers](🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-↗ [Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
-- ↗ [Graph Basics](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
-- ↗ [Algebraic Graph Theory](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
+	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
+	- ↗ [Ring Theory & Ring-Like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure.md)
+	- ↗ [Field Theory & Field-like Algebraic Structure](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure.md)
+	- ↗ [Category Theory (范畴论)](🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+- ↗ [Elementary Number Theory](💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+↗ [Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Graph%20Theory.md)
+- ↗ [Graph Basics](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/📌%20Graph%20Theory%20Basics/Graph%20Basics.md)
+- ↗ [Algebraic Graph Theory](Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
 	- ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
@@ -939,11 +939,12 @@ The field of statistics is a mathematical application that is employed for the c
 
 Computational mathematics is the study of [mathematical problems](https://en.wikipedia.org/wiki/Mathematical_problem "Mathematical problem") that are typically too large for human, numerical capacity. [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis") studies methods for problems in [analysis](https://en.wikipedia.org/wiki/Analysis_\(mathematics\) "Analysis (mathematics)") using [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis "Functional analysis") and [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory "Approximation theory"); numerical analysis broadly includes the study of [approximation](https://en.wikipedia.org/wiki/Approximation "Approximation") and [discretization](https://en.wikipedia.org/wiki/Discretization "Discretization") with special focus on [rounding errors](https://en.wikipedia.org/wiki/Rounding_error "Rounding error"). Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic-[matrix](https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerical linear algebra")-and-[graph theory](https://en.wikipedia.org/wiki/Graph_theory "Graph theory"). Other areas of computational mathematics include [computer algebra](https://en.wikipedia.org/wiki/Computer_algebra "Computer algebra") and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation").
 ###### 👉 Operational Research & Optimization
-↗ [Operations Research (OR)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-- ↗ [Game Theory & Decision Making in Multi-Agents Environments](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
-- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-	- ↗ [COP (Convex Optimization Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/COP%20(Convex%20Optimization%20Programming).md)
+↗ [Operations Research (OR) & Optimization & Rational Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+- ↗ [Game Theory & Multi-Agent Decision-Making](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
+- ↗ [Mathematical Optimization (Programming)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+	- ↗ [Convex Optimization (CO)](🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Continuous%20Optimization/Convex%20Optimization%20(CO)/Convex%20Optimization%20(CO).md)
 ###### 👉 etc.
+whaaaaaat.
 #### Mathematics Subject Classification (MSC)
 > 🔗 https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#
 

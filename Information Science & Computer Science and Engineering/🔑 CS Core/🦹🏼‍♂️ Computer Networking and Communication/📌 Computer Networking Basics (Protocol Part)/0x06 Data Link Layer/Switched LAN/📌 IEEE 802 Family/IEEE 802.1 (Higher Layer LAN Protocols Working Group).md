@@ -10,7 +10,7 @@ The IEEE 802.1 Working Group is chartered to concern itself with and develop sta
 
 
 ### Related Topics
-↗ [IEEE 802.1x](../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
+↗ [IEEE 802.1x](../../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Network%20Security%20Mechanisms/🏇%20Network%20Security%20Protocol%20Stacks/🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
 ↗ [IEEE 802.1Q](../vLAN%20&%20VxLAN/📌%20IEEE%20802.1Q/IEEE%20802.1Q.md)
 
 

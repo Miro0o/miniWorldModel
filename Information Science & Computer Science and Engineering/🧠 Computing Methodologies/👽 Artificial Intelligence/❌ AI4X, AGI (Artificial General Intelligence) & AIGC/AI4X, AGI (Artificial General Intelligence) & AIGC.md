@@ -16,7 +16,7 @@
 
 ↗ [AI4Math](AI4Math/AI4Math.md)
 
-↗ [AI For Science (AI4SCI)](AI%20For%20Science%20(AI4SCI)/AI%20For%20Science%20(AI4SCI).md)
+↗ [AI For Science (AI4S)](AI%20For%20Science%20(AI4S)/AI%20For%20Science%20(AI4S).md)
 ↗ [AI4EDU](AI4EDU.md)
 
 

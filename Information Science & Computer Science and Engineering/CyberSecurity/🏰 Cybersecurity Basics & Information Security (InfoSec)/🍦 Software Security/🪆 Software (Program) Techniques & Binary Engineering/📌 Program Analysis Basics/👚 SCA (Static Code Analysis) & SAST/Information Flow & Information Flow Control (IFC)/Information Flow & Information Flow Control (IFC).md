@@ -17,6 +17,8 @@
 
 ↗ [Access Control (访问控制)](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
+↗ [Network Traffic Analysis](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
+
 
 ### Other Resources
 [南大软分课程笔记｜13 静态分析在安全领域的应用](https://blog.wohin.me/posts/nju-program-analysis-13/)
@@ -571,7 +573,7 @@ A _when_ declassification policy regulates when the information can be release
 ↗ [Models of Computation & Abstract Machines](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 
-↗ [Cryptographic Protocols Modeling & Models of Communication (and Intruder)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder)/Cryptographic%20Protocols%20Modeling%20&%20Models%20of%20Communication%20(and%20Intruder).md)
+↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 ↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 - Trace semantics  
@@ -608,6 +610,10 @@ A _when_ declassification policy regulates when the information can be release
 
 
 ### Denning's Approach (High & Low Label) & Lattice Model 
+> [!links]
+> ↗ [Lattice (Order Theory)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
+> ↗ [Lattice Model](../../../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/MAC%20(Mandatory%20Access%20Control)/MAC%20Hybrid%20Policy%20Models/Lattice%20Model.md)
+
 > 📄 Denning, Dorothy E., and Peter J. Denning. "Certification of programs for secure information flow." _Communications of the ACM_ 20.7 (1977): 504-513.
 #### Basic Idea
 There is a set $S$ of **security labels**
@@ -1056,7 +1062,7 @@ where $p$ was declared with as input $\text{var}_{in}$ and output $\text{var}_{o
 > [!links]
 > ↗ [Type Theory (类型论)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 > ↗ [Type Analysis](../../../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
-> ↗ [Type and Effect Systems](../🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Security_type_system
 
@@ -1199,7 +1205,7 @@ Information Flow/Noninterference guarantees that the intruder does not learn any
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
 
 An implicit flow occurs when code whose conditional execution is based on private information updates a public variable. This is especially problematic when multiple executions are considered since an attacker could leverage the public variable to infer private information by observing how its value changes over time or with the input.
-##### The naïve approach
+##### The Naïve Approach
 > 🔗 https://en.wikipedia.org/wiki/Information_flow_(information_theory)#Declassification_approaches_for_implicit_flows
 
 The naïve approach consists on enforcing the confidentiality property on all variables whose value is affected by other variables. This method leads to partially leaked information due to on some instances of the application a variable is Low and in others High.

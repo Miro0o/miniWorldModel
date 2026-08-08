@@ -5,10 +5,14 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
+
 
 
 ## Intro
-
 > 🔗 https://en.wikipedia.org/wiki/Risk_management_information_systems
 
 A **risk management information system** (RMIS) is an information system that assists in consolidating property values, claims, policy, and exposure information and providing tracking and management reporting capabilities to enable the user to monitor and control the overall cost of [risk management](https://en.wikipedia.org/wiki/Risk_management).
@@ -21,4 +25,3 @@ The management of risk data and information is key to the success of any risk ma
 
 
 ## Ref
-

@@ -19,6 +19,37 @@ In essence, instruction tuning is the approach to fine-tuning pre-trained LLMs o
 A recent survey [331] presents a systematic overview of the research on instruction tuning. In comparison to that, we mainly focus on the effect of instruction tuning on LLMs and provide detailed guidelines or strategies for instance collection and tuning. In addition, we also discuss the use of instruction tuning for satisfying the real needs of users, which has been widely applied in existing LLMs, e.g., InstructGPT [66] and GPT-4 [46].
 
 
+> 🤖 GPT-5
+
+What it is
+Instruction tuning trains the model on **(instruction → response)** pairs so it learns to _follow user commands_.
+
+Example data:
+```
+Instruction: Summarize the following text in one paragraph. 
+Response: ...
+```
+
+Goal
+Make the model:
+- Understand what the user wants
+- Produce task-appropriate outputs
+- Generalize to _unseen instructions_
+
+What it improves
+- Task following
+- Zero-shot / few-shot performance
+- Helpfulness and usability
+
+Typical datasets
+- Human-written instructions (e.g. early InstructGPT)
+- Synthetic instruction data (self-instruct, Alpaca-style)
+- Task mixtures (QA, summarization, reasoning, coding)
+
+Key property
+After instruction tuning: The model **responds to prompts as commands, not just text continuation**
+
+
 
 ## Formatted Instance Construction
 

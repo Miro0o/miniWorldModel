@@ -11,14 +11,14 @@
 - ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 - ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-↗ [Logic Programming Languages](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+↗ [Logic Programming Languages](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 - ↗ [Lambda Calculus (λ-Calculus)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Linguistics](../../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
 ↗ [Philosophy of Language](../../../Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 
 ↗ [RLM (Reasoning Language Model) & LRM (Large Reasoning Model)](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/RLM%20(Reasoning%20Language%20Model)%20&%20LRM%20(Large%20Reasoning%20Model).md)
-↗ [LLM Agentic Reasoning](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+↗ [LLM Agentic Reasoning](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 
 
 ### Learning Resources
@@ -207,12 +207,13 @@ There are many reasons for studying formal logic. One is that formal logic helps
 
 
 ### Properties & Evaluation of Logics
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic) / Properties of Logics System](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
 > ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 #### Decidability
-> ↗ [Decidability](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
-
+↗ [Decidability](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
 #### Soundness, Truth, and Completeness
+> [!links]
 > ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
 > ↗ [Program Analysis Basics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
 

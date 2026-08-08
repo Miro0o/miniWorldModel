@@ -23,7 +23,7 @@
 
 
 ## Intro
-![computing.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Science%20Philosophy/computing.excalidraw.md)
+![computing.excalidraw | 800](../../../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
 
 
 ### Formal Definition: Functions
@@ -70,19 +70,19 @@ When the domain of a function $f$ is $A_1 \times ··· \times A_k$ for some set
 - ↗ [Message Digest & Hash Function (Integrity)](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
 - ↗ [Message Digest (Hash Function) Based Message Authentication](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
-↗ [Elementary Theory of Numbers](../../../🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
+↗ [Elementary Number Theory](../../../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
 
 
 ### Equation (方程) & Constrains of Function
 > [!link]
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 > 
-> ↗ [Operations Research (OR)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Operations%20Research%20(OR).md)
-> ↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
-> ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
-> ↗ [Dynamic Programming (DP)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
+> ↗ [Operations Research (OR) & Optimization & Rational Decision-Making](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making.md)
+> ↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+> ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
+> ↗ [Dynamic Programming (DP)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
 > 
-> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
 
@@ -113,6 +113,9 @@ fact n = case n of
 
 我们发现，`fact`的递归定义和“方程”十分相似，`fact`同时出现在了等式的两边，阶乘函数，就是这个“方程”的“解”。
 #### Fixed-point of Function & Recursion ⭐
+> [!links]
+> ↗ [Fixed-Point Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Fixed-Point%20Semantics.md)
+
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
   
 在中学数学中，我们已经学过不动点了，只是当时印象不是那么深刻。
@@ -174,7 +177,7 @@ fact' = fix $ \fact -> \n -> case n of
 > [!links]
 > ↗ [Lambda Calculus (λ-Calculus)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 > ↗ [Combinatory Logic](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Combinatory%20Logic.md)
-> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Haskell/Haskell.md)
+> ↗ [Haskell](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Haskell/Haskell.md)
 > ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 > 🔗 https://thzt.github.io/2017/03/14/recursive-function-7/
@@ -267,7 +270,7 @@ The least fixed point theorem, often associated with the **Knaster–Tarski theo
 ###### Fixed Point Iteration and Contraction Mapping Theorem (Banach's Fixed Point Theorem) ⭐
 > [!links]
 > ↗ [Metric Spaces](../../../Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
-> ↗ [Banach Space](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Banach%20Space/Banach%20Space.md)
+> ↗ [Banach Space](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🛸%20Hybrid%20Algebraic%20Structures/Banach%20Space.md)
 > ↗ [Numerical Analysis](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Numerical%20Analysis/Numerical%20Analysis.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Banach_fixed-point_theorem
@@ -308,10 +311,10 @@ The theorem was first studied in view of work on differential equations by the F
 
 ↗ [Mathematical Analysis (& Analytical Mathematics)](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
 ↗ [Algebra](../../../🧊%20Algebra/Algebra.md)
-- ↗ [Linear Algebra & Module-Like Algebraic Structure](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-- ↗ [Lie Groups](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure/🪖%20Lie%20Groups/Lie%20Groups.md) & ↗ [Lie Algebra](../../../🧊%20Algebra/Lie%20Algebra/Lie%20Algebra.md)
+- ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+- ↗ [Lie Groups](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/🪖%20Lie%20Groups/Lie%20Groups.md) & ↗ [Lie Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Algebra-Like%20Structure%20&%20F-Algebra%20(Algebra%20Over%20A%20Field)/Non-Associative%20F-Algebra/Lie%20Algebra/Lie%20Algebra.md)
 
-↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
+↗ [Mathematical Optimization (Programming)](../../../🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 ↗ [Constraint Solving & Theorem Proving](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 - ↗ [Automated & Generic Theorem Provers](../../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
@@ -344,7 +347,7 @@ f n = n + f(n-2)
 为了描述非终止性，就需要对整数集进行扩充，我们给整数集加上一个特殊元素 “$\perp$”，称为 **bottom**，来表示非终止性，而将 `f :: Int -> Int` 解释为集合 $N \cup \{\perp\}$ 上的一个数学函数。
 
 像这种通过构造表达程序含义的数学对象，来对程序进行分析的方法，来自**指称语义学**。
-- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Denotational%20Semantics/Denotational%20Semantics.md)
+- ↗ [Denotational Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
 
 指称语义中，人们会区分函数的严格性。
 - 一个函数称为严格的 (strict)，如果接受一个非终止的输入表达式，函数的计算仍然不会终止，即：$f(\perp) = \perp$
@@ -375,8 +378,8 @@ f n = n + f(n-2)
 
 
 ### Arithmetic Function (数论函数)
-↗ [Elementary Theory of Numbers](../../../🧊%20Algebra/Elementary%20Theory%20of%20Numbers/Elementary%20Theory%20of%20Numbers.md)
-↗ [Number-Theoretic Function (Arithmetic Function)](../../../🧊%20Algebra/Elementary%20Theory%20of%20Numbers/0x02%20Number-Theoretic%20Function%20(Arithmetic%20Function)/Number-Theoretic%20Function%20(Arithmetic%20Function).md)
+↗ [Elementary Number Theory](../../../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/Elementary%20Number%20Theory.md)
+↗ [Number-Theoretic Function (Arithmetic Function)](../../../💯%20Number%20Theory/📌%20Elementary%20Number%20Theory/0x02%20Number-Theoretic%20Function%20(Arithmetic%20Function)/Number-Theoretic%20Function%20(Arithmetic%20Function).md)
 
 > 🔗 https://thzt.github.io/2017/03/09/recursive-function-5/
 

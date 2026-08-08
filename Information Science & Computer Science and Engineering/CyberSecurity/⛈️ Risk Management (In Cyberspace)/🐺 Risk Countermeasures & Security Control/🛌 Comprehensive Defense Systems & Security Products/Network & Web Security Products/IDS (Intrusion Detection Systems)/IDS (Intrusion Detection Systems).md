@@ -8,7 +8,7 @@
 【深入浅出计算机网络 - 7.8 防火墙访问控制与入侵检测系统】 https://www.bilibili.com/video/BV1Gr4y1u7oe/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ### Related Topics
-↗ [DPI (Deep Package Inspection)](../Firewall%20&%20Network%20Filters/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
+↗ [DPI (Deep Package Inspection)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/DPI%20(Deep%20Package%20Inspection)/DPI%20(Deep%20Package%20Inspection).md)
 
 
 

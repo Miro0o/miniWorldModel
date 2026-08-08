@@ -11,6 +11,10 @@ QUIC belongs to  [The Chromium Projects](https://www.chromium.org/)
 
 
 ### Related Topics
+↗ [HTTP3](../../0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP3.md)
+
+
+### Other Resources
 
 
 

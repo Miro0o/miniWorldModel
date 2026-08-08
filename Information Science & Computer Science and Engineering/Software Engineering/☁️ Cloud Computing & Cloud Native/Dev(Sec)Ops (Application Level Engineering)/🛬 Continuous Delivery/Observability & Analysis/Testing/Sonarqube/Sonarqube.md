@@ -48,7 +48,7 @@ skip.
 2. Database (choose one of the three)
    1. [PostgreSQL](http://www.postgresql.org/)
 
-      1. Set configuration. See specifics on  [PostgreSQL](../PostgreSQL/Intro.md) 
+      1. Set configuration. See specifics on ↗ [PostgreSQL](../../../../../../../🔑%20CS%20Core/🤱🏻%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/Object-Relational%20Database/PostgreSQL/PostgreSQL.md)
    2. [Microsoft SQL Server](http://www.microsoft.com/sqlserver/)
    3. [Oracle](http://www.oracle.com/database/)
 

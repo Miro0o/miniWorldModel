@@ -11,7 +11,8 @@
 ↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Cybernetics & Control Theory](../../../../../🧮%20Mathematics/Cybernetics%20&%20Control%20Theory/Cybernetics%20&%20Control%20Theory.md)
 
-↗ [Game Theory & Decision Making in Multi-Agents Environments](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments/Game%20Theory%20&%20Decision%20Making%20in%20Multi-Agents%20Environments.md)
+↗ [Sequential Decision-Making](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Sequential%20Decision-Making/Sequential%20Decision-Making.md)
+↗ [Game Theory & Multi-Agent Decision-Making](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 ↗ [Uncertain Knowledge & Probabilistic Reasoning (Decision Making)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Uncertain%20Knowledge%20&%20Probabilistic%20Reasoning%20(Decision%20Making).md)
 
 ↗ [Probabilistic Models (Distributions) & Stochastic Process](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process.md)
@@ -31,6 +32,7 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 - In later chapters, we will describe methods for learning the best policy to maximize $V_π(s0) = E [G_0|s_0, π]$.
 - More details on RL can be found in textbooks such as [SB18; KWW22; Pla22; Li23; Sze10], and reviews such as [Aru+17; FL+18; Li18; Wen18a; ID19]. For a more theoretical treatment, see e.g., [Aga+22a; MMT24; FR23]. For details on how RL relates to control theory, see e.g., [Son98; Rec19; Ber19; Mey22]; for connections to operations research, see [Pow22]; for connections to finance, see [RJ22].
 
+
 👍 👍【【强化学习的数学原理】课程：从零开始到透彻理解（完结）】 https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 教材PDF+PPT+代码网址： 
 - Mathematical Foundations of Reinforcement Learning | Shiyu Zhao
@@ -41,20 +43,63 @@ Welcome to Spinning Up in Deep RL! This is an educational resource produced by O
 3. 【Onedrive】：
 	1. https://westlakeu-my.sharepoint.com/:f:/g/personal/lyujialing_westlake_edu_cn/EgN1-0jOU61BnaTkG7zJ9nsBUdjKEi6hNrdT5n8mp-qn3g?e=3MbtmD 
 4. 其中GitHub的材料是最新的，有条件的推荐访问GitHub
-字幕制作者（中文（中国））：[西湖大学WindyLab](https://space.bilibili.com/2044042934)
+字幕制作者（中文（中国））：
+- [西湖大学WindyLab](https://space.bilibili.com/2044042934)
+课程 /书籍地图：
+- ![](../../../../../../Assets/Pics/Pasted%20image%2020260724173045.png)
+Third-party code and materials
+- **Code**
+	- _Python:_
+		- [https://github.com/AstonDky/Math_in_RL_Visual](https://github.com/AstonDky/Math_in_RL_Visual) (May 2026, by Keyan Dong)
+		- [https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main](https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main) (Oct 2025, by Rongqi Lu)
+		- [https://github.com/zhoubay/Code-for-Mathematical-Foundations-of-Reinforcement-Learning](https://github.com/zhoubay/Code-for-Mathematical-Foundations-of-Reinforcement-Learning) (Mar 2025, by Xibin ZHOU)
+		- [https://github.com/10-OASIS-01/minrl](https://github.com/10-OASIS-01/minrl) (Feb 2025)
+		- [https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) (by Zehong Cao, Aug 2024)
+		- [https://github.com/ziwenhahaha/Code-of-RL-Beginning](https://github.com/ziwenhahaha/Code-of-RL-Beginning) by RLGamer (Mar 2024)
+		    - Videos for code explanation: [https://www.bilibili.com/video/BV1fW421w7NH](https://www.bilibili.com/video/BV1fW421w7NH)
+		- [https://github.com/jwk1rose/RL_Learning](https://github.com/jwk1rose/RL_Learning) by Wenkang Ji (Feb 2024)
+	- _Matlab:_
+		- [https://github.com/EveryDayIsaSong/MATLAB-Code-for-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/EveryDayIsaSong/MATLAB-Code-for-Mathematical-Foundation-of-Reinforcement-Learning) (by Yucheng Mao, Jan 2026)
+	- _R:_
+		- [https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning](https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning)
+	- _C++:_
+		- [https://github.com/purundong/test_rl](https://github.com/purundong/test_rl)
+- **Study notes**
+- _English:_
+	- [https://lyk-love.cn/tags/reinforcement-learning/](https://lyk-love.cn/tags/reinforcement-learning/) by a graduate student from UC Davis
+- _Chinese:_
+	- RL knowledge graph: [https://hanfei-hz.github.io/assets/files/rl_explorer.html](https://hanfei-hz.github.io/assets/files/rl_explorer.html) (by Fei Han, May 2026)
+	- [https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main](https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main) (Jan 2026)
+	- [https://zhuanlan.zhihu.com/p/692207843](https://zhuanlan.zhihu.com/p/692207843)
+	- [https://blog.csdn.net/qq_64671439/category_12540921.html](https://blog.csdn.net/qq_64671439/category_12540921.html)
+	- [http://t.csdnimg.cn/EH4rj](http://t.csdnimg.cn/EH4rj)
+	- [https://blog.csdn.net/LvGreat/article/details/135454738](https://blog.csdn.net/LvGreat/article/details/135454738)
+	- [https://xinzhe.blog.csdn.net/article/details/129452000](https://xinzhe.blog.csdn.net/article/details/129452000)
+	- [https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502](https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502)
+	- [https://blog.csdn.net/m0_64952374/category_12883361.html](https://blog.csdn.net/m0_64952374/category_12883361.html)
+There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
+- **Chinese PPT**
+	- [https://github.com/manyouma/RobotIntelli_sztu](https://github.com/manyouma/RobotIntelli_sztu) (by Manyou Ma, July 2026)
+- **Chinese videos made based on my course (Bilibili)**
+	- [https://www.bilibili.com/video/BV1DMBYB6Edo](https://www.bilibili.com/video/BV1DMBYB6Edo) （Jan 2026）
+	- [https://www.bilibili.com/video/BV1fW421w7NH](https://www.bilibili.com/video/BV1fW421w7NH)
+	- [https://www.bilibili.com/video/BV1Ne411m7GX](https://www.bilibili.com/video/BV1Ne411m7GX)
+	- [https://www.bilibili.com/video/BV1HX4y1H7uR](https://www.bilibili.com/video/BV1HX4y1H7uR)
+	- [https://www.bilibili.com/video/BV1TgzsYDEnP](https://www.bilibili.com/video/BV1TgzsYDEnP)
+	- [https://www.bilibili.com/video/BV1CQ4y1J7zu](https://www.bilibili.com/video/BV1CQ4y1J7zu)
+
 
 https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 Reinforcement Learning - An Introduction
 Richard S. Sutton and Andrew G. Barto
 
 
-### Other Resources
 For a list of real-world applications of RL, see e.g., https://bit.ly/42V7dIJ from Csaba szepesvari (2024), https://bit.ly/3EMMYCW from Vitaly Kurin (2022), and https://github.com/montrealrobotics/DeepRLInTheWorld, which seems to be kept up to date.
 
 https://walkinglabs.github.io/hands-on-modern-rl/preface/intro
 Hands-on Modern RL
 全书大致可分为四个部分，在下图的核心脉络中用不同的颜色呈现：
-- ![Mermaid diagram | 600](https://walkinglabs.github.io/hands-on-modern-rl/optimized/mermaid/preface/intro-03.svg)
+- ![](../../../../../../Assets/Pics/Pasted%20image%2020260724172548.png)
 - 上图是全书算法的主线。**第一部分**（灰色）带你快速上手，在 CartPole 和 DPO 上获得第一手感受。**第二部分**（蓝色）构建核心理论：左侧蓝色分支是 Value-Based——先估计每个动作能得多少分，再选得分最高的；右侧橙色分支是 Policy-Based——跳过打分，直接学习在什么状态下该做什么动作。两条路线在 Actor-Critic 处合流，由此长出 PPO。**第三部分**（绿色）进入大模型时代：PPO 正是后续所有大模型对齐与智能体算法的骨架，由此延伸出 RLHF、DPO、GRPO 和 Agentic RL。**第四部分**（紫色）展望前沿，探索多模态 RL 与具身智能。
 - 以下是各章内容的详细介绍。
 	- **第一部分包括快速入门。**
@@ -73,6 +118,9 @@ Hands-on Modern RL
 	- **第四部分将 RL 拓展到视觉、物理世界与前沿方向。**
 		- **第 11 章**把 RL 从纯文本推进到视觉-语言模型（VLM），分析多模态 RL 中视觉幻觉、奖励归因等独特问题，并介绍 Open-R1 等前沿框架在视觉推理与生成上的探索。
 		- **第 12 章**展望强化学习的未来趋势。不仅探讨从离散动作到连续动作控制，以及 Sim-to-Real 域随机化等**具身智能**的核心挑战，还覆盖了 Model-Based RL、自我博弈（Self-Play）、LLM 多智能体协作与离线 RL（Offline RL）等将彻底改变智能系统形态的前沿方向。
+
+
+### Other Resources
 
 
 
@@ -123,8 +171,8 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 > - ↗ [Markov Decision Processes (MDP) & Stochastic Dynamic Program](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program/Markov%20Decision%20Processes%20(MDP)%20&%20Stochastic%20Dynamic%20Program.md)
 > - ↗ [Markov Reward Model (MRM)](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/🏌🏻‍♂️%20Probabilistic%20Models%20(Distributions)%20&%20Stochastic%20Process/Markov%20Process%20&%20Markov%20Chain%20(MC)/Markov%20Reward%20Model%20(MRM).md)
 >
-> ↗ [Linear Algebra & Module-Like Algebraic Structure](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure.md)
-> ↗ [Vector & Vector Space](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure/Vector%20&%20Vector%20Space/Vector%20&%20Vector%20Space.md)
+> ↗ [Linear Algebra & Module-Like Algebraic Structure (模)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模).md)
+> ↗ [Vector & Vector Space (Linear Space)](../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Linear%20Algebra%20&%20Module-Like%20Algebraic%20Structure%20(模)/Vector%20&%20Vector%20Space%20(Linear%20Space)/Vector%20&%20Vector%20Space%20(Linear%20Space).md)
 
 
 ### 🎯 Classical Markovian-Based RL
@@ -133,16 +181,12 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 > ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > ↗ [Lattice (Order Theory)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md) "least fixed point theorem"
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-##### Bellman Equation
-> [!links]
-> ↗ [Bellman-Ford Algorithm](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/🦜%20Programming%20Implementation%20of%20Math%20Problems/Graphs%20(and%20Trees)%20Problems/Shortest%20Path%20Problem/Single-Source%20Shortest%20Path%20(SSSP)/Bellman-Ford%20Algorithm.md)
-> ↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)/Mathematical%20Optimization%20(Programming)/COP%20(Convex%20Optimization%20Programming)/Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
+##### Bellman Equation (BE) & Bellman Optimal Equation (BOE)
+↗ [Dynamic Programming (DP)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Dynamic%20Programming%20(DP).md)
+↗ [Bellman Principle of Optimality & Bellman (Optimal) Equations (BOE)](../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/📝%20Dynamic%20Programming%20(DP)/Bellman%20Principle%20of%20Optimality%20&%20Bellman%20(Optimal)%20Equations%20(BOE).md)
 
-> 🔗 https://en.wikipedia.org/wiki/Bellman_equation
-##### Bellman Optimal Equation (BOE)
-> [!links]
-> ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
-> fixed point & contraction mapping theorem
+ ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+ fixed point & contraction mapping theorem
 
 
 ### 🎯 Other RL Models & Algorithms
@@ -188,6 +232,10 @@ RL is more complicated than **supervised learning** (e.g., training a classifier
 
 
 ### 🎯 Actor-Critic Methods
+
+
+
+## General RL, AIXI, and Universal AGI
 
 
 

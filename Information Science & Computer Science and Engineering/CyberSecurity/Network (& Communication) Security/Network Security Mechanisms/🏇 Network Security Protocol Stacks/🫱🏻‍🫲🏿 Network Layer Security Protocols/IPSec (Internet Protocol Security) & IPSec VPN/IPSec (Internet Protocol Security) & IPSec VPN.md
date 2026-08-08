@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Internet Protocols (IP)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/Internet%20Protocols%20(IP)/Internet%20Protocols%20(IP).md)
-↗ [MACsec (Media Access Control Security)](../../🔌%20Physical%20(Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
+↗ [MACsec (Media Access Control Security)](../../🔌%20Physical%20(&%20Link)%20Layer%20Security%20Protocols/📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/MACsec%20(Media%20Access%20Control%20Security)/MACsec%20(Media%20Access%20Control%20Security).md)
 ↗ [IP (Internet Protocol) Attacks](../../../../Network%20Threats%20&%20Attacks/Network%20Layer%20Attacks/IP%20(Internet%20Protocol)%20Attacks/IP%20(Internet%20Protocol)%20Attacks.md)
 
 ↗ [Tunneling & VPN (Virtual Personal Network)](../../../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/Tunneling%20&%20VPN%20(Virtual%20Personal%20Network).md)
@@ -22,7 +22,7 @@
 
 
 ## Intro
-> 💡 IPsec is mostly replaced by [TLS (Transport Layer Security) Protocols](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/📌%20TLS%20(Transport%20Layer%20Security)%20Protocols/TLS%20(Transport%20Layer%20Security)%20Protocols.md) 
+> 💡 IPsec is mostly replaced by [TLS (Transport Layer Security) Protocols](../../🚉%20Transportation%20(&%20Session)%20Layer%20Security%20Protocols/SSL_TLS%20Protocol/📌%20TLS%20(Transport%20Layer%20Security)%20Protocols/TLS%20(Transport%20Layer%20Security)%20Protocols.md) 
 ### IPsec Overview
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.36.50%20PM.png)
 

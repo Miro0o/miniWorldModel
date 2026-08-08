@@ -15,6 +15,9 @@
 
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
+↗ [Documentation & Static Site Generator (SSG)](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Documentation%20&%20Static%20Site%20Generator%20(SSG).md)
+↗ [MkDocs](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/MkDocs.md)
+
 
 ### Other Resources
 https://gist.github.com

@@ -21,6 +21,37 @@
 LLMs have shown remarkable capabilities in a wide range of NLP tasks [55, 56, 67, 90]. However, these models may sometimes exhibit unintended behaviors, e.g., fabricating false information, pursuing inaccurate objectives, and producing harmful, misleading, and biased expressions [66, 364]. For LLMs, the language modeling objective pre-trains the model parameters by word prediction while lacking the consideration of human values or preferences. To avert these unexpected behaviors, human alignment has been proposed to make LLMs act in line with human expectations [66, 365]. However, unlike the original pre-training and adaptation tuning (e.g., instruction tuning), such an alignment requires considering very different criteria (e.g., helpfulness, honesty, and harmlessness).  ==It has been shown that alignment might harm the general abilities of LLMs to some extent, which is called alignment tax in related literature [366].  ==
 
 
+> 🤖 GPT-5
+
+What it is
+Alignment tuning trains the model to:
+- Follow **human preferences**
+- Respect **safety norms**
+- Avoid **harmful, misleading, or unwanted behavior**
+This is less about _task execution_ and more about _behavioral constraints_.
+
+Goal
+Make the model:
+- Helpful _and_ safe
+- Honest about uncertainty
+- Polite, non-toxic, non-manipulative
+- Resistant to misuse
+
+What it improves
+- Safety (refusals, moderation)
+- Tone and social behavior
+- Preference alignment (“this answer is better than that one”)
+
+Typical methods
+- **RLHF** (Reinforcement Learning from Human Feedback)
+- **RLAIF** (AI feedback instead of humans)
+- **Preference optimization** (DPO, IPO, KTO, etc.)
+- Constitutional AI
+
+Key property
+After alignment tuning: The model chooses **acceptable answers among many valid ones**
+
+
 ### Alignment Criteria
 > ↗ [Trust-worthy AI & LLM Safety and Security](../../../../🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security/Trust-worthy%20AI%20&%20LLM%20Safety%20and%20Security.md)
 > ↗ [Attack Simulation - Red, Blue, Purple, White](../../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White/Attack%20Simulation%20-%20Red,%20Blue,%20Purple,%20White.md)
@@ -40,9 +71,9 @@ As we can see, these criteria are quite subjective, and are developed based on h
 ### By Alignment Methods
 #### Reinforcement Learning Based 
 ↗ [RLFT (Reinforcement Learning Fine Tuning)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning).md)
-- ↗ [RLVR (RL with Verifiable Rewards)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLVR%20(RL%20with%20Verifiable%20Rewards).md)
-- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLHF%20(RL%20from%20Human%20Feedback).md)
-- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLAIF%20(RL%20from%20AI%20Feedback).md)
+- ↗ [RLVR & RLVP (RL with Verifiable Rewards & Path)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLVR%20&%20RLVP%20(RL%20with%20Verifiable%20Rewards%20&%20Path).md)
+- ↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
+- ↗ [RLAIF (RL from AI Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLAIF%20(RL%20from%20AI%20Feedback).md)
 #### Supervised Learning Based
 ↗ [SFT (Supervised Fine Tuning)](../Fine%20Tuning%20Methods/SFT%20(Supervised%20Fine%20Tuning)/SFT%20(Supervised%20Fine%20Tuning).md)
 
@@ -65,7 +96,7 @@ In existing work, there are mainly three kinds of approaches to collecting feedb
 
 In the following, we focus on a well-known technique, reinforcement learning from human feedback (RLHF), which has been widely used in the recent powerful LLMs such as ChatGPT. As discussed below, the alignment criteria introduced in Section 5.2.1 can be fulfilled by learning from human feedback on the responses of LLMs to users’ queries.
 ##### Reinforcement Learning from Human Feedback (RLHF)
-↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20for%20RLFT/RLHF%20(RL%20from%20Human%20Feedback).md)
+↗ [RLHF (RL from Human Feedback)](../Fine%20Tuning%20Methods/RLFT%20(Reinforcement%20Learning%20Fine%20Tuning)/Reward%20Models%20&%20Regimes/RLHF%20(RL%20from%20Human%20Feedback).md)
 
 #### 🎯 Alignment With Non-Human Feedback
 

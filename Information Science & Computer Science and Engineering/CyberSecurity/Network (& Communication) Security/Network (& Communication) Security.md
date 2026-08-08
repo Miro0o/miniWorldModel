@@ -7,23 +7,25 @@
 ## Res
 ### Related Topics
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+- ↗ [Network Programming & RPC](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+- ↗ [Packet Analyzing & Sniffing & Spoofing](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
+↗ [Packet Analyzing & Sniffing & Spoofing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools.md)
 
 ↗ [Software Security](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Security.md)
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Protocol & Policy Security](../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
+
+↗ [Network Management Basics](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 ↗ [Network & Web Security Products](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
 
 ↗ [Network Traffic Analysis](../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 ↗ [Pen-testing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Pen-testing%20Tools.md)
+- ↗ [The Nmap Project](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/The%20Nmap%20Project.md)
+- ↗ [Metasploit Framework (MSF)](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+- ↗ [aircrack-ng Suites](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 
-↗ [Packet Analyzing & Sniffing & Spoofing](../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
-↗ [Packet Analyzing & Sniffing & Spoofing Tools](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools.md)
-
-↗ [The Nmap Project](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/The%20Nmap%20Project/The%20Nmap%20Project.md)
-↗ [Metasploit Framework (MSF)](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Exploitation%20&%20Compromise%20Tools/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
-↗ [aircrack-ng Suites](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Delivery%20Tools%20&%20Wireless/Wi-Fi%20Cracking/aircrack-ng%20Suites.md)
 ↗ [hashcat](../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Login%20Cracker%20&%20Password%20Cracker/hashcat.md)
 
 

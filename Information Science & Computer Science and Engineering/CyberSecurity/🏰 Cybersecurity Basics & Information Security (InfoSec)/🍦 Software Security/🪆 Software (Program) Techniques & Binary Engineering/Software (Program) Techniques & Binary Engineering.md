@@ -46,7 +46,7 @@
 
 ↗ [Reverse & Pwn](../../CTF%20&%20AWD/Reverse%20&%20Pwn/Reverse%20&%20Pwn.md)
 
-↗ [LLM & Software Security and Analysis](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Security%20and%20Analysis/LLM%20&%20Software%20Security%20and%20Analysis.md)
+↗ [LLM & Software Engineering and Security](../../../../Academics%20🎓%20(In%20CS)/🗒️%20My%20Academic%20Projects%20Workspace/📌%20LLM%20&%20Software%20Engineering%20and%20Security/LLM%20&%20Software%20Engineering%20and%20Security.md)
 
 
 ### Learning Resources

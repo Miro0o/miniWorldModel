@@ -16,7 +16,7 @@
 >
 > Registry and VM Harbor are conterparts. 
 >
-> Also check out [dockerhub](www.hub.docker.com) 🐳.
+> Also check out [dockerhub](https://www.hub.docker.com) 🐳.
 
 Harbor is an **open source registry** that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. Harbor, a **CNCF Graduated project,** delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
 
@@ -46,9 +46,9 @@ Harbor is an **open source registry** that secures artifacts with policies and r
 >
 > Here since i use `lima` as my docker server (working in a vhost way), i can simply use the lima instance as the host for Harbor. The problem is how to set the network where the physical host and virtual hosts works like a LAN.
 >
-> Inspired by tips from official throubleshootings page, i use `vde` and `vde_vmnet` to allow outside guest visit. See specifics of [The machanism of vde working.](../Docker/Lima.md) 
+> Inspired by tips from official throubleshootings page, i use `vde` and `vde_vmnet` to allow outside guest visit. See specifics of ↗ [Lima (The machanism of vde working.)](../../../../🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/Containers%20Runtime%20VMM%20Solutions/Lima/Lima.md)
 >
-> 👀 See Troubleshootings in [Lima](../Docker/Lima.md) for further info. 
+> 👀 See Troubleshootings in ↗ [Lima](../../../../🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/Containers%20Runtime%20VMM%20Solutions/Lima/Lima.md) for further info. 
 
 2. Modify http port number. (Optional)
 

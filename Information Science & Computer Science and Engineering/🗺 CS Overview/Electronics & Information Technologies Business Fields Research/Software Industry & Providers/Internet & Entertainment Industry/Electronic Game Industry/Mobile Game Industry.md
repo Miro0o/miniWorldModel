@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Mobile Game Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Mobile%20Application%20Development/Mobile%20Game%20Development/Mobile%20Game%20Development.md)
-↗ [Mobile Games](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Games/Games%20Library/Mobile%20Games.md)
+↗ [Mobile Games](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕹️%20Electronic%20Games/Games%20Library/Mobile%20Games.md)
 
 
 

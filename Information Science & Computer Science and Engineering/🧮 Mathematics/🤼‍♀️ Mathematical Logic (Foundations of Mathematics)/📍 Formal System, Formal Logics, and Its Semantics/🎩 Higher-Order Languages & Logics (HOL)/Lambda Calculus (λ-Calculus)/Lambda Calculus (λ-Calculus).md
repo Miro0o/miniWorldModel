@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Type and Effect Systems](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
+↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 ↗ [Type Analysis](../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Type%20Analysis/Type%20Analysis.md)
 ↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 
-↗ [Functional Models & Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Database%20Languages/Object-Based%20Data%20Model%20Languages/Functional%20Models%20&%20Languages/Functional%20Models%20&%20Languages.md)
-↗ [Functional Programming Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
+↗ [Functional Models & Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Functional%20Models%20&%20Languages/Functional%20Models%20&%20Languages.md)
+↗ [Functional Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
 ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 
@@ -20,8 +20,8 @@
 - Recurrence Relation (递推关系) & Recursion (递归)
 - Generating Function (生成函数 /母函数)
 
-↗ [Formal Verification & Analysis Programming Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
-- ↗ [LEAN](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20for%20Specific%20Areas/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+↗ [Formal Verification & Analysis Programming Languages](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
+- ↗ [LEAN](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
 
 
 ### Learning Resources
@@ -170,7 +170,7 @@ Lambda Diagrams are a graphical notation for closed lambda terms, in which abstr
 ## Typed Lambda Calculus
 > [!links]
 > ↗ [Type Theory (类型论)](../../🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [Type and Effect Systems](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🦖%20Type%20and%20Effect%20Systems/Type%20and%20Effect%20Systems.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 
 ### Simply Typed Lambda Calculus
@@ -184,8 +184,8 @@ Lambda Diagrams are a graphical notation for closed lambda terms, in which abstr
 > 	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
 > 	- ↗ [Henkin Model & Henkin Semantics](Henkin%20Model%20&%20Henkin%20Semantics.md)
 > - Cartesian closed category
-> 	- ↗ [Category Theory (范畴论)](../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
-> 	- ↗ [Cartesian Closed Category (CCC)](../../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+> 	- ↗ [Category Theory (范畴论)](../../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
+> 	- ↗ [Cartesian Closed Category (CCC)](../../../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus
 

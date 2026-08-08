@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Digital (Logic) Electronics Foundations](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Computer Implementations, Teardown & Repairs](../../EE%20Related%20Theories%20&%20Hardware%20Implementation/🛠️%20Computer%20Manufacturers%20&%20Implementations/Computer%20Implementations,%20Teardown%20&%20Repairs.md)
-↗ [Formal Semantics and Programming Language](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Formal%20Semantics%20and%20Programming%20Language/Formal%20Semantics%20and%20Programming%20Language.md)
+↗ [Programming Language & Formal Semantics](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
@@ -135,6 +135,11 @@ CEN, Comité Européen de Normalisation
 
 ### Other Resources
 🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+https://www.xiaohongshu.com/discovery/item/6a2802110000000006032793
+《计算机体系结构「森林导览」》
+体例是一圈一圈往外走的「年轮地图」： 📍 最内圈——通用处理器（ISA、微架构、Cache、多核、GPU），每层讲它碰到了什么墙 📍 第二圈——专用化浪潮（DSA、脉动阵列、LLM 推理优化、可重构计算） 📍 第三圈——打破存储墙和互连墙（近存计算、CXL 内存解耦、Chiplet、DPU） 📍 横切层——安全、可靠性、能效 📍 最外圈——远景（神经形态、量子、光子计算）
+![计算机体系结构-森林导览](../../../../Assets/Cheat_Sheets/计算机体系结构-森林导览.pdf)
 
 
 

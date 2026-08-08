@@ -1,6 +1,6 @@
 # Maven
 
->  [Maven](../../../../Software/CLI/Dev_/DevTools/Maven.md) 
+>  ↗ [Maven](../../../../🛠️%20Programming%20Tool%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Java%20Managers/Project%20Managers/Maven/Maven.md)
 
 
 

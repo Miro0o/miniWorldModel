@@ -21,7 +21,7 @@
 
 ### Global Model Checking Algorithm
 > [!TIP]
-> Recall: ↗ [Computation-Tree Logic (CTLstar) Family](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTLstar)%20Family/Computation-Tree%20Logic%20(CTLstar)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTLstar)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+> Recall: ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTLstar)%20Family/Computation-Tree%20Logic%20(CTL*)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20(CTLstar)%20Family/Branching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 > 
 > 1. The ECTL syntax ("flattened") of CTL:
 > $\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$
@@ -75,7 +75,7 @@ Hence, invoking `sat(phi)` will recursively compute the satisfaction sets for al
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.20.40.png)
 
-We can apply **memoisation** (recall ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Classic%20Algorithms%20by%20Problems%20&%20Contexts/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)) to avoid recomputing twice the same satisfaction sets. How?
+We can apply **memoisation** (recall ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)) to avoid recomputing twice the same satisfaction sets. How?
 - Store results of expensive function calls in a table (hashing)
 - Use the results whenever the call occurs again
 
