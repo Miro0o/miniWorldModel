@@ -1,0 +1,17 @@
+*.DS_Store
+*.git
+*.gitattributes
+*.gitignore
+*.obsidian
+*.obsidian.vimrc
+copilot/*
+Assets/*
+!Assets/Scripts/
+!Assets/Scripts/**
+!Assets/Pics
+!Assets/Cheat_Sheets
+!Assets/Codes_Samples
+!Assets/Illustrations
+# Information*Science*&*Computer*Science/.obsidian
+# Assets/Illustrations/U.S./NMAH-ET2014-41022.jpg
+/Information Science & Computer Science and Engineering/🗺 CS Overview/🤲🏼 Opportunities & Career Development/
