@@ -210,6 +210,171 @@ IEEE 和 ACM 期刊中最「顶级」的一般是 Transactions，简写为 Trans
 
 
 
+## Open Research Problems, Calls, and Researcher-Wanted Posts
+
+Last systematic check: **2026-08-08**. This is a topic-discovery watchlist, not a generic funding/job list. Every project retained below passed this test: **the linked post itself states concrete research questions/topics, or it links an accessible topic brief that does**. A vacancy saying only “PhD/postdoc in AI/security” and a grant asking applicants to invent any topic are deliberately excluded. Closed calls remain because their briefs are unusually good records of what a company, lab, or public agency actually wants studied.
+
+Status labels:
+
+- `OPEN`: accepting submissions/applications on the checked date.
+- `ROLLING` / `OPEN UNTIL FILLED`: no fixed closing date, or applications reviewed continuously.
+- `UPCOMING`: officially announced but not yet open on the checked date.
+- `RECURRING`: a durable portal or regularly repeated programme worth monitoring.
+- `RECENT / CLOSED`: the deadline passed, but the page contains a valuable, recent research agenda or detailed topic bank.
+- `TOPIC MAP` / `TOPIC EXAMPLE`: not necessarily a funding call; useful evidence of problems an institution explicitly wants researchers to pursue.
+- `RESEARCHER-WANTED`: a lab or named PI explicitly advertising researchers, students, or project contributors.
+- `SOCIAL POST`: a post by the named researcher/institution that states the project topic; an official project/vacancy page is included where one could be verified.
+
+
+### 🇨🇳 China / Mainland China
+The [CCF Industry–Academia Cooperation Fund news feed](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/) is the best discovery index, but the links below go to individual calls with posted topics rather than stopping at that funding page.
+- **Tencent + CCF** — [`RECENT / CLOSED` 2026 CCF–Tencent Rhino-Bird Fund](https://ur.tencent.com/article/1527), the official readable counterpart to the [WizSci project page](https://www.wizsci.com/project/detail/1782): 43 topics across LLMs, multimodal models, autonomous/multi-agent systems, trusted-data construction, and a database special track.
+- **Tencent Foundation Platform Technology** — [`RECENT / CLOSED` 2026 Rhino-Bird special research plan](https://ur.tencent.com/article/1521): 13 industry problems in LLM safety/alignment, code intelligence, and high-performance infrastructure.
+- **Tencent AI Lab + CAAI** — [`RECENT / CLOSED` 2026 AI Lab Rhino-Bird plan](https://ur.tencent.com/article/1519): model generation, understanding, agents, and an open-topic track; [selected-project/topic summary](https://ur.tencent.com/article/1524).
+- **Tencent Open Source** — [`RECENT / CLOSED` 2026 Rhino-Bird open-source programme](https://ur.tencent.com/article/1529): 14 real projects across AI models/frameworks, frontend, database, compiler, OS, networks, and security; [project portal](https://opensource.tencent.com/summer-of-code).
+- **Ant Group + CCF** — [`RECENT / CLOSED` 2026 CCF–Ant Research Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/my/2026-03-31/870286.shtml): 44 unusually detailed topics in agents, LLMs/knowledge graphs, multimodality, DevOps/SRE agents, inference acceleration, AI security, cybersecurity/privacy, HPC, and hardware–software co-design.
+- **Taotian Group (Alibaba) + CCF** — [`RECENT / CLOSED` Agentic AI Technology-Bag Fund, round 3](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/almm/2026-03-26/866308.shtml): ten topics spanning agentic e-commerce algorithms, foundation models, and agent engineering.
+- **1688 (Alibaba) + CCF** — [`RECENT / CLOSED` 2026 Yuanbao Cooperation Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/1688/2026-06-22/905374.shtml): 13 topics combining domain LLM fine-tuning, unified multimodal modelling, multi-agent collaboration, and supply-chain problems.
+- **DiDi + CCF** — [`RECENT / CLOSED` 2026 Gaia Scholar Research Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/dd/2026-03-30/869376.shtml): 27 real-world topics in LLMs/agents, multimodal models, ML/operations research, autonomous driving, offensive/defensive security, and job-profile modelling.
+- **Dameng Database + CCF** — [`RECENT / CLOSED` 2026 CCF–Dameng Research Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/dmsj/2026-06-04/900763.shtml): AI-for-databases and databases-for-AI, including learned query optimization, ontology evolution, hybrid vector/scalar engines, and in-database lightweight LLM inference.
+- **Kuaishou + CCF** — [`RECENT / CLOSED` 2025 LLM Explorer Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/ks/2025-11-03/850773.shtml): 18 topics on efficient LLM training/inference, multimodal audio/video generation, agentic RL/dialogue, recommendation/advertising, Data Agents, and mobile diffusion-video processing.
+- **NetEase ThunderFire/Fuxi + CCF** — [`RECENT / CLOSED` 2025 joint fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/wy/2025-04-11/841153.shtml): 27 project/business topics in LLMs, human–computer collaboration, RL, embodied/swarm AI, graphics/rendering, and performance engineering.
+- **Baidu + CCF** — [`RECENT / CLOSED` 2024 Pinecone Fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/bd/2024-07-11/827833.shtml): eight explicit directions in LLMs/agents, multimodal AIGC, CV, AI for scientific computing, inference/deployment, framework foundations, and industrial datasets.
+- **Huawei + CCF** — [`RECENT / CLOSED` 2025 system-software fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-04-30/841808.shtml): OSes, virtualization, compilers/PL, distributed/parallel software, trustworthy systems, and HarmonyOS.
+- **Huawei + CCF** — [`RECENT / CLOSED` 2025 database fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-03-22/839989.shtml): task orchestration, incremental views, ML data formats, query routing, NPU scheduling, multimodal retrieval, and structured/unstructured knowledge mining.
+- **Huawei + CCF** — [`RECENT / CLOSED` 2025 software-engineering second round](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-08-08/847320.shtml): nine industrial problems including long-context Android-to-Harmony migration and agents for mobile-app functional correctness.
+- **Huawei + CCF** — [`RECENT / CLOSED` 2025 trustworthy-computing fund](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-09-05/848369.shtml): 14 topics across confidential computing, interconnect/SoC/side-channel/PQC security, LLM asset/content safety, and agent security.
+- **Huawei + CCF** — [`RECENT / CLOSED` theoretical CS and computational economics](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-27/845971.shtml): combinatorial/continuous optimisation, solvers, coding theory, algorithmic game theory, mechanism/market design, and computational economics.
+- **Huawei Cloud Reliability Lab** — [`ROLLING / TOPIC MAP` academic cooperation](https://www.huaweicloud.com/lab/reliability/cooperation.html): AI reliability, grey-failure management, intelligent hardware-fault management, silent data corruption, formal verification, and reliability assessment.
+- **Huawei Cloud Security & Privacy Engineering Lab** — [`TOPIC MAP / RESEARCHER-WANTED` research directions](https://www.huaweicloud.com/lab/security/research.html) and [cooperation/recruitment topics](https://www.huaweicloud.com/lab/security/career.html): security LLMs, AI-system attacks/defences, LLM firewalls, sensitive-data classification, multimodal content safety, prompt attacks, malware analysis, and penetration-testing retrieval.
+- **National Natural Science Foundation of China (NSFC)** — [`2026 TOPIC GUIDE` programme guide](https://www.nsfc.gov.cn/english/site_1/pdf/NationalNaturalScienceFundGuidetoPrograms2026.pdf): named priorities include software theory, AI safety/security/governance, intelligent systems, and AI for science; use the detailed discipline codes rather than treating this as an unrestricted grant.
+#### 🇭🇰 Hong Kong SAR
+- **Hong Kong Polytechnic University, Johan F. Hoorn** — [`SOCIAL POST / RESEARCHER-WANTED` distributed software, edge computing, robots and agentic AI](https://www.linkedin.com/posts/man-of-insight_28-april-2026-we-are-hiring-we-offer-a-activity-7454866923516747776-ME1P); the [official project page](https://www.polyu.edu.hk/sd/research/research-centres-and-labs/research-lab-for-advanced-social-robotics) gives five concrete tasks: delay/scalability/privacy-aware architecture, local-topic monitoring, logic/norm-guided LLMs, personalised dialogue, and community evaluation.
+#### Taiwan
+- **MediaTek Advanced Research Center (MARC)** — [`RECENT / CLOSED` 2025 Call for Research: Research Needs](https://iais.nycu.edu.tw/en/Files/2025_MARC_Research_Needs.pdf): a 57-page industry problem book, not a generic award page. Especially relevant sections cover AI-driven attack-path prediction, AI fuzzing, LLM change-request analysis, edge GenAI/agents/compilers, AI-agent communication protocols, PQC, confidential computing, and virtualization safety.
+
+
+### 🇺🇸 United States
+- **OpenAI** — [`ROLLING` Cybersecurity Grant Program](https://openai.com/index/openai-cybersecurity-grant-program/): practical defensive-AI projects, secure-by-design software, threat modelling/intelligence, memory-safe language migration, and large-scale cyber-defence deployment; applications are evaluated continuously.
+- **Amazon / AWS** — [`RECENT / CLOSED` AI for Information Security](https://www.amazon.science/research-awards/call-for-proposals/ai-for-information-security-call-for-proposals-spring-2026): trustworthy agentic SOCs, agent access governance, anomaly detection/incident response, agent/tool-chain attacks, vulnerability remediation, foundation-model privacy, malware, secure code generation, and cloud compliance.
+- **Amazon / AWS** — [`RECENT / CLOSED` Amazon 2030 CFP](https://www.amazon.science/research-awards/call-for-proposals/amazon-2030-call-for-proposals-spring-2026): hard problems where system scale matters across AI for science, distributed/cloud systems, robotics, privacy/security, hardware, sustainability, and health.
+- **Amazon / AWS** — [`RECENT / CLOSED` Build on Trainium: Accelerating Post-Training](https://www.amazon.science/research-awards/call-for-proposals/build-on-trainium-accelerating-post-training-call-for-proposals-spring-2026): post-training algorithms, ML libraries, kernels, optimization, and large-scale distributed systems.
+- **Microsoft Research** — [`RECURRING` academic programmes](https://www.microsoft.com/en-us/research/academic-programs/); [`RECENT / CLOSED` 2026 AI and the New Future of Work CFP](https://www.microsoft.com/en-us/research/academic-program/ai-and-the-new-future-of-work-cfp-spring-2026/) asks how teams with AI can outperform individuals and how collaboration arenas/world models should be built.
+- **Microsoft Research** — [`OLDER TOPIC BANK` Security AI RFP](https://www.microsoft.com/en-us/research/academic-program/microsoft-security-ai-rfp/): graph-, content-, and economics-based phishing detection plus fairness/privacy questions; retained because the research questions are explicit and still useful.
+- **Google Research** — [`RECURRING` programmes and events hub](https://research.google/programs-and-events/) and [`RECENT / CLOSED` 2026 PhD Fellowship topic list](https://research.google/programs-and-events/phd-fellowship/): explicit agendas for HCI/human–AI collaboration, NLP/agents, privacy/safety/security, software engineering/PL, systems/networking/cloud, architecture, and ML foundations.
+- **Google Research** — [`RECURRING` Academic Research Awards](https://research.google/programs-and-events/google-academic-research-awards/): global faculty RFPs; the displayed 2026 cycle focuses on early fault-tolerant quantum algorithms/applications.
+- **Google Trust, Safety, Security & Privacy Research** — [`RECENT / CLOSED` research-award topic bank](https://research.google/programs-and-events/trust-safety-security-and-privacy-research/): scams/fraud, at-risk groups, digital/AI literacy, phishing/malware, software vulnerabilities and supply chains, usable security, cryptography/privacy, synthetic media, and regulation.
+- **Samsung Research America** — [`RECENT / CLOSED` 2026 START programme](https://sra.samsung.com/collaboration/start/apply/): detailed briefs on physical AI/robotics, multimodal long-horizon reasoning agents, agentic-AI security, and other emerging technologies.
+- **U.S. National Science Foundation (NSF)** — [`RECURRING` Secure and Trustworthy Cyberspace (SaTC 2.0)](https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace/nsf24-504/solicitation): a comprehensive public research agenda spanning software security, usable security/privacy, networks, hardware, cryptography, cyber-physical systems, and socio-technical security.
+- **U.S. National Science Foundation (NSF)** — [`RECURRING` CyberAICorps Scholarship for Service](https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service): AI/cybersecurity education innovation and workforce research; late proposals can roll into the following fiscal-year review.
+- **NSF** — [`OPEN` PESOSE 2026](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation): governance and distributed development of open-source software/hardware/models/data platforms, plus supply-chain, insider, safety, security, and privacy risks; deadline **2026-09-01**, recurring annually thereafter.
+- **DARPA Small Business Programs** — [`OPEN` 2026 SBIR/STTR topic list](https://www.darpa.mil/work-with-us/communities/small-business/sbir-sttr-topics): current topics include multilingual/multimodal temporal-knowledge-graph forecasting and [FALCON](https://www.darpa.mil/work-with-us/opportunities/dpa26bz04-dv016), which combines structured-data ML with LLMs for interactive large-scale analysis (deadline 2026-08-19).
+- **DARPA** — [`TOPIC MAP` AI Forward](https://www.darpa.mil/research/programs/ai-forward): foundational theory, predictable AI engineering, and trustworthy human–AI teaming; [`TOPIC MAP` CASTLE](https://www.darpa.mil/research/programs/cyber-agents-for-security-testing-and-learning-environments) focuses on repeatable environments and trained defensive cyber agents.
+- **Florida State University + ReliaQuest** — [`RECENT / CLOSED` 2026 Innovation Challenge RFP](https://www.research.fsu.edu/research-offices/rd/internal-funding/reliaquest-innovation-challenge-fund/): exactly three corporate problems—tracking AI degradation and recommending corrections, scalable data-sensitivity classification, and federated search/correlation across disparate knowledge graphs.
+- **Stanford CIFE** — [`RECENT / CLOSED` 2026 seed call](https://cife.stanford.edu/2026-call-seed-research-proposals): trustworthy/scalable project data, AI-assisted decisions, human–machine workflows, and how architecture/engineering/construction organisations should adapt to AI.
+- **Michigan Technological University, Jie Wu** — [`RESEARCHER-WANTED` Fall 2026 funded PhD brief](https://www.mtu.edu/cs/graduate/advising/phd-ai-softwareengineering-jiewu.pdf): trustworthy AI-powered software, LLM/agentic flows for code, SE for AI/ML production, and AI4Code in engineering/science/education.
+
+
+### 🇸🇬 Singapore
+- **AI Singapore / National Research Foundation / NUS** — [`RECENT / CLOSED` National AI Student Challenge 2026](https://naisc.aisingapore.org/): industry-owned problem statements in multimodal security advising, multi-agent anomaly/failure prediction, and other applied AI tracks.
+- **AI Singapore** — [`RECENT / CLOSED` PhD Fellowship, August 2026 intake, summarized by NTU](https://www.ntu.edu.sg/graduate-college/student-life/postgraduate-professional-development/fellowships): trustworthy/explainable AI, privacy-aware AI, resource-efficient AI, collaborative AI, and continual learning.
+- **CyberSG R&D Programme Office / NTU** — [`RECURRING` Themed and Emerging Area Grants](https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/themed-and-emerging-area-grants): vulnerabilities and robustness of AI, network defence/forensics, privacy-preserving ML, autonomous-system security testing, and secure hardware.
+- **National University of Singapore, Trevor Carlson / Computer Architecture Lab** — [`ROLLING / RESEARCHER-WANTED` open positions](https://www.comp.nus.edu.sg/~tcarlson/join-us/): green/high-performance AI accelerators and secure architectures; PhD, postdoc, researcher, and internship routes.
+- **Nanyang Technological University, Luke Ong** — [`OPEN UNTIL FILLED / RESEARCHER-WANTED` PhD scholarships](https://www3.ntu.edu.sg/home/luke.ong/Vacancies/phd-rsss.html): probabilistic programming, AI safety, statistical ML, safe RL, dynamical-system verification, and mechanistic interpretability.
+- **Nanyang Technological University, Rui Tan** — [`RESEARCHER-WANTED` robust edge/vehicle AI positions](https://personal.ntu.edu.sg/tanrui/robustAI.html) and [`TOPIC MAP` current PhD topics](https://personal.ntu.edu.sg/tanrui/): certifiable/verifiable edge AI, secure sensing/control loops, and LLMs for data centres.
+- **NTU College of Computing and Data Science** — [`RECURRING` searchable final-year research-project records](https://wis.ntu.edu.sg/webexe/owa/FYP_SCE_STUDENT.show_project?p_proj_id=100281&p_school=SCE): supervisor-authored problem statements; example: adversarial attacks against deep-learning models.
+
+
+### 🇰🇷 South Korea
+- **Samsung Advanced Institute of Technology (SAIT)** — [`OPEN` 2026 Global Research Outreach](https://semiconductor.samsung.com/sait/event/global-research-outreach/): global university proposals, six themes including Scientific AI and long-horizon scientific reasoning; deadline **2026-08-23**.
+- **Samsung Research America** — [`RECENT / CLOSED` START programme](https://sra.samsung.com/collaboration/start/apply/): although operated in the U.S., it is a useful Samsung-specific topic source for robotics/physical AI, reasoning agents, and agentic-AI security.
+- **National Research Foundation of Korea (NRF)** — [`RECURRING / TOPIC-DEMAND POSTS` Planning Maru](https://plan.nrf.re.kr/site/kor/html/sub01/0102.html): individual posts request future R&D subjects before formal RFPs; open the attached 기획보고서/제안서 and keep only records containing a stated 기술수요 or 연구주제.
+
+
+### 🇩🇪 Germany
+- **German Research Foundation (DFG)** — [`RECENT / CLOSED` 2026 “Methods in Artificial Intelligence” Emmy Noether group call](https://www.dfg.de/en/news/news-topics/announcements-proposals/2026/ifr-26-24): method development, foundations, analysis, and evaluation across ML, optimisation, reasoning, algorithms, data mining, knowledge representation, formal foundations, and statistical learning. Drafts were due 2026-06-10; monitor the [`RECURRING` AI funding initiative hub](https://www.dfg.de/en/research-funding/funding-initiative/ai-initiative) for successor calls.
+- **DFG / University of Tübingen** — [`RECENT / CLOSED` LaSTing](https://www.dfg.de/en/service/press/press-releases/2025/press-release-no-7): “Robust Assessment & Safe Applicability of Language Modeling,” a focused map for evaluation, robustness, and safe deployment of language models.
+- **DFG** — [`RECENT / CLOSED` New Data Spaces for the Social Sciences](https://www.dfg.de/en/news/news-topics/announcements-proposals/2026/ifr-26-17): ML/AI for multimodal data acquisition and integration, bias/validity, privacy/ethics, and secure reusable infrastructures.
+- **DFG / Humboldt University of Berlin** — [`RECENT / CLOSED` Rethinking Disinformation (Re:DIS)](https://www.dfg.de/en/news/news-topics/announcements-proposals/2025/ifr-25-45): interdisciplinary problems in automatic detection, platforms, human belief/behaviour, law, and societal effects.
+- **University of Mannheim, Pooja Rani** — [`SOCIAL POST / RECENTLY CLOSED` PhD and postdoc projects](https://www.linkedin.com/posts/pooja-ruhal_hiring-phd-postdoc-activity-7453026299750793216-WIdY): AI/ML for sustainable software engineering, green software, and large-scale/HPC performance optimisation.
+
+
+### 🇨🇭 Switzerland
+- **EPFL Swiss AI Initiative + Data Science & AI Lab (Robert West) + MLO Lab (Martin Jaggi)** — [`RESEARCHER-WANTED` safety pretraining for open frontier models](https://dlab.epfl.ch/2026-07-06-safety-pretraining-engineer-positions/): three research-engineer posts on alignment, synthetic data, evaluation/red-teaming, and the open Apertus LLM stack.
+- **ETH Zurich, Security, Privacy & Society group** — [`OPEN / RESEARCHER-WANTED` positions](https://spg.ethz.ch/group/open-positions.html): human–AI collaboration, inferential privacy, phishing, usable authentication, and human-centred security/privacy.
+- **ETH Zurich, Zurich Information Security Center (ZISC)** — [`ROLLING / RESEARCHER-WANTED` PhD positions](https://zisc.ethz.ch/open-positions/positions-for-phd-students/): foundations of security, formal methods, wireless/security architectures, Internet security, privacy, and cryptography; the posting explicitly names the areas rather than merely advertising admission.
+
+
+### 🇬🇧 United Kingdom
+- **Alan Turing Institute, Defence & National Security** — [`OPEN` Knowledge Graphs, second call](https://www.turing.ac.uk/work-turing/call-proposals-2026-knowledge-graphs-2nd-call): systematic sensemaking, HCI for knowledge graphs, multi-perspective summarisation, and agentic-AI integration; deadline **2026-08-11**.
+- **Alan Turing Institute, Defence & National Security** — [`RECENT / CLOSED` Laboratory for AI Security Research call](https://www.turing.ac.uk/work-turing/defence-and-national-security-laboratory-ai-security-research-call-research-services): novel AI-security ideas and real-world testing with government agencies.
+- **UKRI / EPSRC** — [`OPEN` Future Computing Paradigms Network Plus](https://www.ukri.org/opportunity/future-computing-paradigms-network-plus/): novel architectures/hardware, software and programming models for heterogeneous compute, sustainability/resilience, international benchmarking, horizon scanning, and national research-priority formation; deadline **2026-10-13**.
+- **UK National Cyber Security Centre (NCSC)** — [`TOPIC MAP` Cyber Shield](https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence): a current public agenda for sovereign, national-scale agentic cyber defence.
+- **CRANE / UK cyber-security research network** — [`RECENT / CLOSED` 2026 “Securing Trust, Autonomy, and Resilience” call](https://www.crane.ac.uk/crane/wp-content/uploads/2026/06/Call-for-Proposals.pdf): provenance and AI integrity/supply chains, secure cyber-physical autonomy, and secure/transparent human–AI decision workflows that resist automation bias.
+- **Heriot-Watt University, Mathematical and Computer Sciences** — [`RECURRING / PROJECT-WANTED` student-project system](https://projects.hw.ac.uk/Proposals/Index): supervisor-authored briefs; current examples include verification/certification of code-LLMs and general LLM systems against AI-safety/security standards.
+- **University of Cambridge, Ceren Kocaoğullar** — [`RESEARCHER/STUDENT-WANTED` agentic-AI and LLM-security project ideas](https://www.cl.cam.ac.uk/~ck596/): the named researcher explicitly invites Part II/III and MPhil students to the linked project ideas.
+- **UCL, Fabio Pierazzi** — [`SOCIAL POST / RECENTLY CLOSED` funded PhD](https://www.linkedin.com/posts/fpierazzi_i-have-a-competitive-fully-funded-4-year-activity-7441553624775745536-zbxP): explainable, knowledge-driven AI/ML for systems security, including agentic-AI security, adversarial ML, and human-centred security tools.
+
+
+### 🇪🇺 European Union / Cross-European
+- **European Commission / Horizon Europe** — [`OPEN` secure software and hardware development/assessment](https://www.horizon-europe.gouv.fr/approaches-and-tools-security-software-and-hardware-development-and-assessment-41766): secure supply chains and roots of trust, trusted chips, security-by-design, formal verification, and AI-driven security testing; deadline **2026-09-15**.
+- **European Commission** — [`OPEN` EU digital call digest](https://interoperable-europe.ec.europa.eu/eu-digital-funding-opportunities): the individual entries expose SecureAI topics (AI security/privacy/robustness), cybersecurity-service deployment, and human-centred public-sector AI; follow the topic link, not merely the portal search.
+
+
+### 🇨🇦 Canada
+- **Mitacs + Department of National Defence** — [`OPEN` Accelerate Defence and Security Call](https://innovation.mitacs.ca/en/mitacs-accelerate-defence-and-security-call): academia–industry projects in digital systems (AI, quantum, cyber), human decision support, sensors, simulation, autonomous systems, aerospace, and Arctic sovereignty; deadline **2026-08-17**.
+- **CIFAR** — [`RECENT / CLOSED` AI Safety Solution Networks](https://cifar.ca/wp-content/uploads/2025/03/solution-networks-in-ai-safety-en-250304.pdf): advanced-AI risk management/mitigation, responsible deployment, policy, capacity, and locally grounded datasets.
+- **ÉTS Montréal, Ghizlane El Boussaidi** — [`SOCIAL POST / RESEARCHER-WANTED` funded PhD topics](https://www.linkedin.com/posts/ghizlane-el-boussaidi-4171a94_phdposition-requirementsengineering-llm-activity-7350918996612849666-heND): requirements engineering with LLMs for specification, validation, safety, and certification of safety-critical systems.
+
+
+### 🇫🇷 France
+- **French National Research Agency (ANR)** — [`2026 TOPIC GUIDE` Generic Call work programme](https://anr.fr/fileadmin/aap/2026/anr-aapg-2026-en.pdf): the ICT axes explicitly request programming-language foundations, requirements/design/production, software safety/security/trust, eco-software, compilation/optimisation, and embedded-AI models.
+- **ANR + NSERC/SSHRC/CIHR + IVADO** — [`RECENT / CLOSED` Canada–France AI call](https://www.nserc-crsng.gc.ca/Media-Media/NewsDetail-DetailNouvelles_eng.asp?ID=1510): generative AI and the security/safety of embedded AI; a useful bilateral topic model likely to recur in related forms.
+- **EURECOM + Huawei** — [`RESEARCHER-WANTED` funded PhD](https://www.eurecom.edu/en/job/distributed-computation-communication-computation-learning-over-networks): fundamental limits of distributed computation and communication–computation–learning trade-offs for edge/cloud systems, LLMs, federated learning, and connected robotics.
+
+
+### 🇯🇵 Japan
+- **Japan Science and Technology Agency (JST)** — [`RECURRING` Strategic Basic Research application page](https://www.jst.go.jp/kisoken/en/application/index.html): annual CREST, PRESTO, ACT-X, and international joint calls, with proposal documents and research-area descriptions.
+- **JST** — [`RECENT / CLOSED` 2026 Strategic Basic Research call document](https://www.jst.go.jp/kisoken/cronos/dl/2026/yoko01-05-en.pdf): detailed research areas and programme expectations; useful for anticipating the next annual call.
+
+
+### 🇦🇺 Australia
+- **ARC** — [`TOPIC EXAMPLE` privacy-preserving secure AI inference](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE260100019): model/data extraction risks, output privacy, secure inference, and deployable mitigations; posted by ARC for RMIT’s Xiaoning Liu.
+- **ARC** — [`TOPIC EXAMPLE` AI-system security testing and monitoring](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP250200702): academia–industry work on pre-deployment testing, misuse/attack monitoring, privacy compliance, and trustworthy AI; posted by ARC for UTS and Content Security.
+- **RMIT University, Maggie/Xiaoning Liu** — [`SOCIAL POST / RESEARCHER-WANTED` 2026–2027 PhD topics](https://www.linkedin.com/posts/maggie-liu-79777316a_xiaoning-maggie-liu-activity-7464850275263221761-otmw): secure LLM training/inference, privacy-preserving RAG and agents, privacy in multi-agent collaboration, and privacy-preserving ML; identity/research area verified on her [RMIT profile](https://www.rmit.edu.au/profiles/l/xiaoning-liu).
+- **RMIT University** — [`RECENT / CLOSED` human-centric secure-SE PhD](https://www.rmit.edu.au/scholarships/research/phd-scholarship-for-human-centric-software-engineering): how users’ mental models affect requirements engineering, design, development, and adoption of security controls.
+- **RMIT University** — [`RECENT / CLOSED` human-centric cybersecurity PhD](https://www.rmit.edu.au/scholarships/research/phd-in-human-centric-cyber-security-for-the-project-investigating-designing): inclusive, intelligent cybersecurity-literacy tools.
+- **Monash University, Ting Zhang** — [`SOCIAL POST / TOPIC BANK; CURRENTLY NO OPENING` AI for software security](https://www.linkedin.com/posts/happygirlzt_aiforsoftwaresecurity-llmforcode-softwareengineering-activity-7427168368543145985-cvB8): LLM-agent vulnerability triage/pentesting, vulnerability repair, secure-code benchmarks, defect localisation, LLM judges for SE, and academia–industry gaps. The post’s 2026-03-07 update says positions are no longer open; retained only for its concrete agenda.
+
+
+### 🇩🇰 Denmark
+- **University of Copenhagen, Isabelle Augenstein and Pepa Atanasova** — [`RECENT / CLOSED` LLM-factuality postdoc](https://jobportal.ku.dk/alle-opslag/?show=160569): a mechanistic framework for LLM susceptibility to false information, new mechanistic-interpretability methods, security mitigations, and evaluation protocols.
+- **Aalborg University NLP, Johannes Bjerva** — [`SOCIAL POST / RECENTLY CLOSED` PhD/postdoc cohort](https://www.linkedin.com/posts/khawarislam_four-postdoc-positions-in-natural-language-activity-7426589804290572288-m0o4): LLM security/backdoors/adversarial robustness, memorisation/privacy, multilingual factuality/safety, linguistic interpretability, and cross-cultural evaluation.
+
+
+### 🇫🇮 Finland
+- **University of Helsinki, Mika Mäntylä** — [`SOCIAL POST / RESEARCHER-WANTED` Monitoring-Assured LLMs for Testing and Chaos Engineering](https://www.linkedin.com/posts/mika-m%C3%A4ntyl%C3%A4-a3862_phd-and-post-doctoral-candidates-pool-monitoring-assured-activity-7473013397790367746-fkI5): feedback loops in which logs, metrics, and traces guide LLMs to generate trustworthy WebAPI tests and chaos experiments; the post advertises a 48-month PhD and 30-month postdoc candidate pool.
+
+
+### 🇸🇪 Sweden
+- **Linköping University, Khac-Hoang Ngo / Erik G. Larsson** — [`RECENT / CLOSED` PhD in information-theoretic memory poisoning](https://liu.se/en/work-at-liu/vacancies/29341): how much poisoned information manipulates an agent, fundamental detection limits, and secure agent memory update/retrieval/communication, with proof-of-concept attacks and defences.
+- **University of Gothenburg, Sven Peldszus** — [`SOCIAL POST / RECENTLY CLOSED` secure-software PhD](https://www.linkedin.com/posts/sven-peldszus_doctoral-student-in-software-engineering-activity-7437168161164234753-3uEK): capturing security knowledge through the development lifecycle and connecting security requirements to static/dynamic analysis.
+
+
+### 🇪🇪 Estonia
+- **University of Tartu, Dietmar Pfahl and Kristiina Rähkema** — [`SOCIAL POST / EXPRESSION OF INTEREST` fix-centric software security](https://www.linkedin.com/posts/dietmarp_phd-position-in-secure-software-development-activity-7443682618660790272-1HPc): explain, test, and generalise vulnerability remediation by treating fixes as knowledge for affected-version detection, patch validation, and recurring-weakness discovery.
+
+
+### Fast Monitoring Routine
+1. Check the `OPEN` entries weekly until their deadlines pass.
+2. Check CCF fund news, Amazon Research Awards, Samsung GRO/START, Alan Turing calls, DARPA/NSF opportunities, Horizon topic pages, JST applications, and NRF Planning Maru monthly—but add an item here only after opening its topic brief.
+3. Preserve closed calls: their detailed briefs are direct evidence of industrial/government research demand and often predict the next cycle.
+4. Search social networks as a separate channel: `site:x.com/*/status`, `site:linkedin.com/posts`, and `site:bsky.app/profile` plus `hiring`, `PhD`, `postdoc`, `research assistant`, and the technical area. Search engines currently index LinkedIn research posts much better than X, so absence from this list is not evidence that no X post exists.
+5. For Chinese/Korean/Japanese sources also use `课题`, `科研基金`, `开放申报`, `技术需求`, `研究课题`, `연구과제`, `기술수요`, `공모`, `研究領域`, and `公募`. For each social hit, verify the poster against an institutional profile and prefer an official vacancy/project link.
+6. Reject any result that contains only a broad lab interest or generic funding eligibility. Before contacting anyone, re-check the date/status, eligibility/location, IP/publication terms, data access, and that the named person is the actual PI/contact.
+
+
+
 ## Ref
 [# 阿里云PolarDB论文斩获ICDE 2024工业赛道「最佳论文奖」]: https://mp.weixin.qq.com/s/KgOehlGdoniQQI7fqUyBmQ
 
