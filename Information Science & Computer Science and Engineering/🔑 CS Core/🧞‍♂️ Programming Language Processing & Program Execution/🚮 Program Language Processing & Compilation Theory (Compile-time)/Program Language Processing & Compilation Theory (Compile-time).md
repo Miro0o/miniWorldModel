@@ -24,6 +24,10 @@
 
 ↗ [Instruction Levels In Computer - ISA and Beyond](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond/Instruction%20Levels%20In%20Computer%20-%20ISA%20and%20Beyond.md)
 
+↗ [Application Runtimes & SDKs](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
+- ↗ [Java Virtual Machine (JVM)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
+- ↗ [JS Engines (JS Compilation)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/JS%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
+
 
 ### Courses & Books
 🏫 [Stanford /CS143 - Compilers](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143%20-%20Compilers.md)
@@ -51,8 +55,11 @@ Andrew W.Appel, Jens Palsberg
 Steven S.Muchnick
 
 
+### Other Resources
 
-## Overview
+
+
+## Intro
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 
@@ -178,6 +185,12 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 ### Compilation Types & Strategies
+> [!TIP]
+> There is a difference between compilation, linking, and loading. 
+> That means, static /dynamic complication doesn't necessarily indicate static /dynamic linking!
+> 
+> ↗ [Program Linking & Loading (Link-time & Load-time)](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time).md)
+
 > 🔗 https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
 
 系统环境指的什么？GNU的构建工具链中使用CPU指令集架构、厂商、系统内核的三元组合来指示系统环境，很多构建工具的名称都带上了这个系统环境前缀，比如`x86_64-pc-cygwin-gcc`、`x86_64-unknown-cygwin-pkg-config`等。
@@ -193,27 +206,31 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 4. **Interpreter-Based Compiler (Transpiler)**: 
 	2. Converts code from one high-level language to another.
 
-- [Ahead-of-time](https://en.wikipedia.org/wiki/Ahead-of-time_compilation "Ahead-of-time compilation") (AOT)
-- [Just-in-time](https://en.wikipedia.org/wiki/Just-in-time_compilation "Just-in-time compilation") (JIT)
-- [Tracing just-in-time](https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation "Tracing just-in-time compilation")
 - [Compile and go system](https://en.wikipedia.org/wiki/Compile_and_go_system "Compile and go system")
 - [Precompilation](https://en.wikipedia.org/wiki/Precompilation "Precompilation")
-- [Transcompilation](https://en.wikipedia.org/wiki/Source-to-source_compiler "Source-to-source compiler")
-- [Recompilation](https://en.wikipedia.org/wiki/Dynamic_recompilation "Dynamic recompilation")
-#### Static Compilation
+#### Static Compilation (AOT, Ahead-of-Time)
+> 📎 [Ahead-of-time](https://en.wikipedia.org/wiki/Ahead-of-time_compilation "Ahead-of-time compilation") (AOT)
 > 🔗 https://en.wikipedia.org/wiki/Static_compilation
 
-#### Dynamic Compilation
+A **static library** or **statically linked library** contains [functions](https://en.wikipedia.org/wiki/Function_\(computer_science\) "Function (computer science)") and data that can be included in a consuming [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") at [build-time](https://en.wikipedia.org/wiki/Software_build "Software build") such that the library does not need to be accessible in a separate file at run-time. If all libraries are statically linked, then the resulting executable will be [stand-alone](https://en.wikipedia.org/wiki/Standalone_program "Standalone program"), a.k.a. a [static build](https://en.wikipedia.org/wiki/Static_build "Static build").
 
-#### JIT Compilation
-> ↗ [Java Virtual Machine (JVM)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
+Static libraries are collections of [object files](https://en.wikipedia.org/wiki/Object_file "Object file"), usually augmented with a [symbol table](https://en.wikipedia.org/wiki/Symbol_table "Symbol table") that accelerates the search for the needed file(s). On most systems ([Unix-like](https://en.wikipedia.org/wiki/Unix-like "Unix-like") systems and [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows")) this comes in the form of [_ar_](https://en.wikipedia.org/wiki/Ar_\(Unix\) "Ar (Unix)") [archive files](https://en.wikipedia.org/wiki/Archive_file "Archive file"), though on some systems such as [z/OS](https://en.wikipedia.org/wiki/Z/OS "Z/OS") and [OpenVMS](https://en.wikipedia.org/wiki/OpenVMS "OpenVMS") a different format is used. A static library is either merged with other static libraries and [object files](https://en.wikipedia.org/wiki/Object_file "Object file") at build-time to form a single [executable](https://en.wikipedia.org/wiki/Executable "Executable") or loaded at [run-time](https://en.wikipedia.org/wiki/Run_time_\(program_lifecycle_phase\) "Run time (program lifecycle phase)") into the [address space](https://en.wikipedia.org/wiki/Address_space "Address space") of their corresponding executable at a [static memory offset](https://en.wikipedia.org/wiki/Static_memory_allocation "Static memory allocation") determined at compile-time/link-time.
+#### Dynamic Compilation
+> 📎 https://en.wikipedia.org/wiki/Dynamic_compilation
+
+**Dynamic compilation** is a process used by some [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") implementations to gain performance during program execution. Although the technique originated in [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk "Smalltalk"), the best-known language that uses this technique is [Java](https://en.wikipedia.org/wiki/Java_\(programming_language\) "Java (programming language)"). Since the [machine code](https://en.wikipedia.org/wiki/Machine_code "Machine code") emitted by a dynamic compiler is constructed and optimized at program runtime, the use of dynamic compilation enables optimizations for efficiency not available to statically-compiled programs (i.e. those compiled by a so-called "batch compiler", as written below) except through [code duplication](https://en.wikipedia.org/wiki/Duplicate_code "Duplicate code") or [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming "Metaprogramming").
+
+[Runtime environments](https://en.wikipedia.org/wiki/Runtime_environment "Runtime environment") using dynamic compilation typically have programs run slowly for the first few minutes, and then after that, most of the compilation and recompilation is done and it runs quickly. Due to this initial performance lag, dynamic compilation is undesirable in certain cases. In most implementations of dynamic compilation, some optimizations that could be done at the initial [compile time](https://en.wikipedia.org/wiki/Compile_time "Compile time") are delayed until further compilation at [run-time](https://en.wikipedia.org/wiki/Run_time_\(program_lifecycle_phase\) "Run time (program lifecycle phase)"), causing further unnecessary slowdowns. [Just-in-time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation "Just-in-time compilation") is a form of dynamic compilation.
+##### JIT Compilation (Just-in-Time)
+> [!links]
+> ↗ [Java Virtual Machine (JVM)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
 > 🔗 https://en.wikipedia.org/wiki/Just-in-time_compilation
 
 In computing, **just-in-time (JIT)** compilation (also **dynamic translation** or **run-time compilations**) is compilation (of computer code) during execution of a program (at run time) rather than before execution. This may consist of source code translation but is more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation or recompilation would outweigh the overhead of compiling that code.
 
 JIT compilation is a combination of the two traditional approaches to translation to machine code—**ahead-of-time compilation (AOT)**, and **interpretation**—and combines some advantages and drawbacks of both. Roughly, JIT compilation combines the speed of compiled code with the flexibility of interpretation, with the overhead of an interpreter and the additional overhead of compiling and linking (not just interpreting). JIT compilation is a form of dynamic compilation, and allows adaptive optimization such as dynamic recompilation and microarchitecture-specific speedups. Interpretation and JIT compilation are particularly suited for dynamic programming languages, as the runtime system can handle late-bound data types and enforce security guarantees.
-##### JIT Design
+###### JIT Design
 In a bytecode-compiled system, source code is translated to an intermediate representation known as bytecode. Bytecode is not the machine code for any particular computer, and may be portable among computer architectures. The bytecode may then be interpreted by, or run on a virtual machine. The JIT compiler reads the bytecodes in many sections (or in full, rarely) and compiles them dynamically into machine code so the program can run faster. This can be done per-file, per-function or even on any arbitrary code fragment; the code can be compiled when it is about to be executed (hence the name "just-in-time"), and then cached and reused later without needing to be recompiled.
 
 By contrast, a traditional **interpreted virtual machine** will simply interpret the bytecode, generally with much lower performance. Some **interpreters** even interpret source code, without the step of first compiling to bytecode, with even worse performance. **Statically-compiled code** or **native code** is compiled prior to deployment. A **dynamic compilation environment** is one in which the compiler can be used during execution. A common goal of using JIT techniques is to reach or surpass the performance of static compilation, while maintaining the advantages of bytecode interpretation: Much of the "heavy lifting" of parsing the original source code and performing basic optimization is often handled at compile time, prior to deployment: compilation from bytecode to machine code is much faster than compiling from source. The deployed bytecode is portable, unlike native code. Since the runtime has control over the compilation, like interpreted bytecode, it can run in a secure sandbox. Compilers from bytecode to machine code are easier to write, because the portable bytecode compiler has already done much of the work.
@@ -225,7 +242,7 @@ JIT code generally offers far better performance than interpreters. In addition,
 4. Although this is possible with statically compiled garbage collected languages, a bytecode system can more easily rearrange executed code for better cache utilization.
 
 Because a JIT must render and execute a native binary image at runtime, true machine-code JITs necessitate platforms that allow for data to be executed at runtime, making using such JITs on a [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture)-based machine impossible; the same can be said for certain operating systems and virtual machines as well. However, a special type of "JIT" may potentially not target the physical machine's CPU architecture, but rather an optimized VM bytecode where limitations on raw machine code prevail, especially where that bytecode's VM eventually leverages a JIT to native code.
-##### Security
+###### Security
 JIT compilation fundamentally uses executable data, and thus poses security challenges and possible exploits.
 
 Implementation of JIT compilation consists of compiling source code or byte code to machine code and executing it. This is generally done directly in memory: the JIT compiler outputs the machine code directly into memory and immediately executes it, rather than outputting it to disk and then invoking the code as a separate program, as in usual ahead of time compilation. In modern architectures this runs into a problem due to [executable space protection](https://en.wikipedia.org/wiki/Executable_space_protection "Executable space protection"): arbitrary memory cannot be executed, as otherwise there is a potential security hole. Thus memory must be marked as executable; for security reasons this should be done _after_ the code has been written to memory, and marked read-only, as writable/executable memory is a security hole (see [W^X](https://en.wikipedia.org/wiki/W%5EX "W^X")). 
@@ -233,8 +250,27 @@ Implementation of JIT compilation consists of compiling source code or byte code
  >For instance Firefox's JIT compiler for Javascript introduced this protection in a release version with Firefox 
 
 [JIT spraying](https://en.wikipedia.org/wiki/JIT_spraying "JIT spraying") is a class of [computer security exploits](https://en.wikipedia.org/wiki/Computer_security_exploit "Computer security exploit") that use JIT compilation for [heap spraying](https://en.wikipedia.org/wiki/Heap_spraying "Heap spraying"): the resulting memory is then executable, which allows an exploit if execution can be moved into the heap.
-##### Tracing JIT Compilation
+###### Methods JIT 🆚 Tracing JIT Compilation
+#JIT #compilation
+
 > 🔗 https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
+##### Dynamic Recompilation & Adaptive Optimization
+> 🔗 https://en.wikipedia.org/wiki/Dynamic_recompilation
+
+##### Dynamic Binary Translation
+↗ [Rosetta](../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Rosetta.md)
+#### Source-to-Source (S2S) Compiler & Transcompilation
+> 🔗 https://en.wikipedia.org/wiki/Source-to-source_compiler
+
+A **source-to-source translator**, **source-to-source compiler** (**S2S compiler**), **transcompiler**, or **transpiler** is a type of [translator](https://en.wikipedia.org/wiki/Translator_\(computing\) "Translator (computing)") that takes the [source code](https://en.wikipedia.org/wiki/Source_code "Source code") of a program written in a [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") as its input and produces an equivalent source code in the same or a different programming language, usually as an [intermediate representation](https://en.wikipedia.org/wiki/Intermediate_representation "Intermediate representation"). A source-to-source translator converts between programming languages that operate at approximately the same level of [abstraction](https://en.wikipedia.org/wiki/Abstraction_\(computer_science\) "Abstraction (computer science)"), while a traditional [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") translates from a [higher level language](https://en.wikipedia.org/wiki/High-level_programming_language "High-level programming language") to a [lower level language](https://en.wikipedia.org/wiki/Low-level_programming_language "Low-level programming language"). For example, a source-to-source translator may perform a translation of a program from [Python](https://en.wikipedia.org/wiki/Python_\(programming_language\) "Python (programming language)") to [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JavaScript"), while a traditional compiler translates from a language like [C](https://en.wikipedia.org/wiki/C_\(programming_language\) "C (programming language)") to [assembly](https://en.wikipedia.org/wiki/Assembly_language "Assembly language") or [Java](https://en.wikipedia.org/wiki/Java_\(programming_language\) "Java (programming language)") to [bytecode](https://en.wikipedia.org/wiki/Java_bytecode "Java bytecode"). An [automatic parallelizing](https://en.wikipedia.org/wiki/Automatic_parallelizing "Automatic parallelizing") compiler will frequently take in a high level language program as an input and then transform the code and annotate it with parallel code annotations (e.g., [OpenMP](https://en.wikipedia.org/wiki/OpenMP "OpenMP")) or language constructs (e.g. [Fortran](https://en.wikipedia.org/wiki/Fortran "Fortran")'s `forall` statements).
+
+Another purpose of source-to-source-compiling is translating legacy code to use the next version of the underlying programming language or an application programming interface ([API](https://en.wikipedia.org/wiki/API "API")) that breaks backward compatibility. It will perform automatic [code refactoring](https://en.wikipedia.org/wiki/Code_refactoring "Code refactoring") which is useful when the programs to refactor are outside the control of the original implementer (for example, converting programs from Python 2 to Python 3, or converting programs from an old API to the new API) or when the size of the program makes it impractical or time-consuming to refactor it by hand.
+
+Transcompilers may either keep translated code structure as close to the source code as possible to ease development and [debugging](https://en.wikipedia.org/wiki/Debugging "Debugging") of the original source code or may change the structure of the original code so much that the translated code does not look like the source code.[[6]](https://en.wikipedia.org/wiki/Source-to-source_compiler#cite_note-Fowler_2013-6) There are also debugging utilities that map the transcompiled source code back to the original code; for example, the [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JavaScript") Source Map standard allows mapping of the JavaScript code executed by a [web browser](https://en.wikipedia.org/wiki/Web_browser "Web browser") back to the original source when the JavaScript code was, for example, minified or produced by a transcompiled-to-JavaScript language.
+
+Examples include [Closure Compiler](https://en.wikipedia.org/wiki/Closure_Compiler "Closure Compiler"), [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript "CoffeeScript"), [Dart](https://en.wikipedia.org/wiki/Dart_\(programming_language\) "Dart (programming language)"), [Haxe](https://en.wikipedia.org/wiki/Haxe "Haxe"), [Opal](https://en.wikipedia.org/wiki/Opal_\(Ruby\)?action=edit&redlink=1 "Opal (Ruby) (page does not exist)"), [TypeScript](https://en.wikipedia.org/wiki/TypeScript "TypeScript") and [Emscripten](https://en.wikipedia.org/wiki/Emscripten "Emscripten").
+#### Interpretation
+↗ [Interpretation & REPL](Interpretation%20&%20REPL.md)
 
 
 ### The Science of Building A Compiler

@@ -15,6 +15,12 @@
 ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
 
+### Learning Resources
+Model Theory
+3rd Edition, Volume 73 - June 12, 1990
+Authors: C.C. Chang, H.J. Keisler
+
+
 ### Other Resources
 
 

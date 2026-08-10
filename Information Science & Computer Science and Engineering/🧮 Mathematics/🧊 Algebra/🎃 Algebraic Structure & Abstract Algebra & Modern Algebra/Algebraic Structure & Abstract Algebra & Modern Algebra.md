@@ -15,6 +15,9 @@
 
 
 ### Learning Resources
+Lectures in Abstract Algebra
+Nathan Jacobson
+
 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🎬【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=41&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

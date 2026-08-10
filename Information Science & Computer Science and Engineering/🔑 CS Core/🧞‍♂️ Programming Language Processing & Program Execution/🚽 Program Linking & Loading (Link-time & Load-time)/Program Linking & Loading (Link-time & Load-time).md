@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [C-Based Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
-- ↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [C-Based Languages](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/C-Based%20Languages.md)
+- ↗ [C & CPP](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
 ↗ [Compilation & Program Loading Tools](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
 - ↗ [Program Linkers & Loaders](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/Compilation%20&%20Program%20Loading%20Tools/Program%20Linkers%20&%20Loaders/Program%20Linkers%20&%20Loaders.md)
@@ -137,16 +137,20 @@ int execve(const char *filename, char *const argv[], char *const envp[]);
 
 
 ### Linking & Loading Types
-1. **Static Linking**
+> [!TIP]
+> There is a difference between compilation, linking, and loading. 
+> That means, static /dynamic complication doesn't necessarily indicate static /dynamic linking!
+> 
+> ↗ [Program Language Processing & Compilation Theory (Compile-time)](../🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
+#### Static Linking
 ↗ [ELF File Static Linking](Program%20Static%20Linking%20Procedure/ELF%20File%20Static%20Linking.md)
 ↗ [PE File Static Linking](Program%20Static%20Linking%20Procedure/PE%20File%20Static%20Linking.md)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250329182959.png)
 <small><a>https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779</a></small>
-
-2. **Dynamic Linking & Loading**
-	- Load Time Dynamic Linking
-	- Run Time Dynamic Linking
+#### Dynamic Linking & Loading
+- Load Time Dynamic Linking
+- Run Time Dynamic Linking
 
 ↗ [ELF File Dynamic Linking & Loading](Program%20Dynamic%20Linking%20&%20Loading%20Procedure/ELF%20File%20Dynamic%20Linking%20&%20Loading.md)
 ↗ [PE File Dynamic Linking & Loading](Program%20Dynamic%20Linking%20&%20Loading%20Procedure/PE%20File%20Dynamic%20Linking%20&%20Loading.md)s

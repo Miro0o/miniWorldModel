@@ -385,7 +385,7 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 
 ## 🚂 Rust in the Kernel
 > 🔗 https://www.kernel.org/doc/html/next/rust/index.html
-> ↗ [Rust](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/⚙️%20Rust/Rust.md)
+> ↗ [Rust](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚙️%20Rust/Rust.md)
 
 To start using Rust in the kernel, please read the [Quick Start](https://www.kernel.org/doc/html/next/rust/quick-start.html)guide.
 

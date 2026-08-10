@@ -1,4 +1,4 @@
-# Tencent Codebuddy
+# Tencent CodeBuddy
 
 [TOC]
 

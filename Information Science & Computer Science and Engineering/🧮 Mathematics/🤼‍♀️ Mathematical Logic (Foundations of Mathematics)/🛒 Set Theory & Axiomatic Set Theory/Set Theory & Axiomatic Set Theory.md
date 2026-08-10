@@ -22,6 +22,11 @@
 ↗ [Category Theory (范畴论)](../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 
+### Learning Resources
+Set Theory: An Introduction to Independence Proofs
+Kenneth Kunen
+
+
 ### Other Resources
 
 

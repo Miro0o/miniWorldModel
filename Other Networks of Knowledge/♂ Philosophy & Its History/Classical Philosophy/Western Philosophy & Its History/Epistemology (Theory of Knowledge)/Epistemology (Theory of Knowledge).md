@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Epistemic (Modal) Logic](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Epistemic%20(Modal)%20Logic/Epistemic%20(Modal)%20Logic.md)
+
+
+### Other Resources
 
 
 

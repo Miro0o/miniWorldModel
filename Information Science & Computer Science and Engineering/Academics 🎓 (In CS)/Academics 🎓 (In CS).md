@@ -94,7 +94,7 @@ AI
 
 
 
-## Academic Publications & Venues
+## Research Publications & Venues
 ↗ [Research Frontiers, Venues, and Humans by CS Areas](🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas.md)
 
 
@@ -581,6 +581,12 @@ ACM CCS 2012
 	- Professional topics
 	- Computing / technology policy
 	- User characteristics
+
+
+
+## Research Opportunities
+↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 
 
 

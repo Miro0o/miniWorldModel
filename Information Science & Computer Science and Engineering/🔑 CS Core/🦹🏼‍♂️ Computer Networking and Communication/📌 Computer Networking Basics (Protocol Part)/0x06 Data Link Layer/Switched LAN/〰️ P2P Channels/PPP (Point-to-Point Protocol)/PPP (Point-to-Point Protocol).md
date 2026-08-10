@@ -43,8 +43,8 @@ Two derivatives of PPP, **[Point-to-Point Protocol over Ethernet](https://en.wik
 
 ### ⭐ PAP (Password Authentication Protocol)
 #### PAP Communication Process
-↗ [Password Based Authentication (基于口令) /Password Authentication Protocol (PAP)](../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Password%20Authentication%20Protocol%20(PAP))
-↗ [Password Based Authentication (基于口令) /Enhanced PAP](../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Enhanced%20PAP)
+↗ [Password Based Authentication (基于口令) /Password Authentication Protocol (PAP)](../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Password%20Authentication%20Protocol%20(PAP))
+↗ [Password Based Authentication (基于口令) /Enhanced PAP](../../../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#👉%20Enhanced%20PAP)
 #### PAP Frame Format
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%209.04.24PM.png)
 

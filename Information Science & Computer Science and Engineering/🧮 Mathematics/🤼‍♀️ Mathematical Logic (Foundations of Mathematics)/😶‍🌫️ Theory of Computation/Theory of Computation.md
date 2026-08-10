@@ -15,6 +15,8 @@
 
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 
+↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
+
 
 ### Learning Resources
 🎬【【北京大学】理论计算机科学基础（全70讲）】 https://www.bilibili.com/video/BV1m4411p7nS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -81,6 +83,9 @@ https://zemdalk.github.io/archive.html?tag=理论计算机科学基础
 - 03月28日[理论计算机科学基础（3）——图灵机](https://zemdalk.github.io/2022/03/28/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-3.html)
 - 03月14日[理论计算机科学基础（2）——上下文无关文法](https://zemdalk.github.io/2022/03/14/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-2.html)
 - 02月22日[理论计算机科学基础（1）——绪论、正则语言](https://zemdalk.github.io/2022/02/22/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-1.html)
+
+
+### Other Resources
 
 
 
@@ -155,6 +160,8 @@ Automata theory is an excellent place to begin the study of the theory of comput
 ## Models of Computation
 ↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
 ↗ [Models of Computation & Abstract Machines](Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
+↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 
 

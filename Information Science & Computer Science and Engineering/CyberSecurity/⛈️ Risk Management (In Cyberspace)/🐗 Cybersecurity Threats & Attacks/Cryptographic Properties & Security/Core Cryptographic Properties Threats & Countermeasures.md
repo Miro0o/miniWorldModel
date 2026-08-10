@@ -95,9 +95,9 @@ We make this precise with an experiment/security game, the IND-CPA game:
 ### ⚔️ Data Integrity Threat Model
 #### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
 ![](../../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
-#### INT-CTXT (Integrity of ciphertexts)
+#### INT-CTXT (Integrity of Cipher Texts)
 
-#### EUF-CMA (for signatures)
+#### EUF-CMA (for Signatures)
 
 
 ### 🛡️ Data Integrity Primitives (完整性保护基本手段)

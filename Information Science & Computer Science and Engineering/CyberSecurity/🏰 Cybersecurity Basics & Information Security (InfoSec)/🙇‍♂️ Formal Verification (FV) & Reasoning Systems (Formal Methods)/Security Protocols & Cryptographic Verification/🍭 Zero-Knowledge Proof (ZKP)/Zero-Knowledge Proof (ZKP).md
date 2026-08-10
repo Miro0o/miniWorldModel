@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Cryptographic Key Based Authentication (基于密码学原理)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
+↗ [Cryptographic Authentication (基于密码学原理)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
 
 ↗ [Secure Multi-Party Computation (SMPC)](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Secure%20Multi-Party%20Computation%20(SMPC)/Secure%20Multi-Party%20Computation%20(SMPC).md)
 ↗ [Schnorr’s Identification Protocol & Scheme](Interactive%20ZK%20Proofs/Sigma%20Protocols%20(Commit–Challenge–Response)/Schnorr’s%20Identification%20Protocol%20&%20Scheme.md)
