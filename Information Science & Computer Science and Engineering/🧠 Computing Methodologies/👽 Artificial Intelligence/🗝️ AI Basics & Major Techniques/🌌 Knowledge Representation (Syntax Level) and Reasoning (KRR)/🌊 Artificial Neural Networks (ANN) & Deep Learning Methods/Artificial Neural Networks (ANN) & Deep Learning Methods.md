@@ -103,6 +103,19 @@ Neural networks | 3Blue1Brown
 	- 【【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】-哔哩哔哩】 https://b23.tv/f0udg4P
 - [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=jJPuNPfLV6AtWNJa)
 
+👍 👍 👍Andrej Karpathy
+🎬 [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zfnvhJmbQC26LAwN)
+- https://youtu.be/VMj-3S1tku0?si=TDg1gcB9wF5OF3VK
+	- The spelled-out intro to neural networks and backpropagation: building micrograd
+- https://youtu.be/PaCmpygFfXo?si=Z845OJ-7Xo25WUeF
+	- The spelled-out intro to language modeling: building makemore
+- https://youtu.be/kCc8FmEb1nY?si=Dhj1moY2pHkyiCiT
+	- Let's build GPT: from scratch, in code, spelled out.
+- https://youtu.be/zduSFxRajkE?si=CjiI41S49hiXhUPs
+	- Let's build the GPT Tokenizer
+- https://youtu.be/l8pRSuU81PU?si=3E5YttKgEyNX5-Dg
+	- Let's reproduce GPT-2 (124M)
+
 Michael Nielsen
 Neural Networks and Deep Learning
 
@@ -259,7 +272,7 @@ Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., 
 ##### Linear Function
 
 ##### Activation Function
-↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
+↗ [Activation Functions (Transfer Functions)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Activation%20Functions%20(Transfer%20Functions).md)
 
 #### Perceptron
 > 🔗 https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea
@@ -288,9 +301,9 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 
 ### 🎯 NN Training: Gradient Descent & Back-propagation
 > [!links]
-> ↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
-> ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
-> ↗ [Model Validation](3️⃣%20Model%20Training/Model%20Validation/Model%20Validation.md)
+> ↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
+> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
+> ↗ [Model Validation](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation/Model%20Validation.md)
 
 > [!TIP]
 > https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AUDMGwyz7-yL33Xd
@@ -308,15 +321,15 @@ Boolean circuits, which implement Boolean functions, are an example of feedforwa
 > - my website: [https://karpathy.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9pTktUTXpQLU45U3AzbkZZdUlXUTdZZzdwQXxBQ3Jtc0ttQlU0QmJ3S05XNmJJYWFoa0ZNQmhQMnJUdGhlWG9RcDgtYzR4MUE2amhLLVBRQ2lzTTMyZUxtWG90bTU4a1pPWW9CaGY2dldoRXNweS1Qb3FFMzRsVDZYSVEyV0JoZVJfcE02N2pWVGJIVWVSdDlkNA&q=https%3A%2F%2Fkarpathy.ai%2F&v=VMj-3S1tku0)
 #### Loss Function
 > [!links]
-> ↗ [Loss Functions](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions.md)
+> ↗ [Loss Functions](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Loss%20Functions.md)
 
 A loss function $Loss(x,y,w)$ quantifies how unhappy we are with the weights $w$ of the model in the prediction task of output $y$ from input $x$. It is a quantity we want to minimize during the training process.
 #### Gradient Descent & Optimization
 > [!links]
 > ↗ [Differential Calculus & Derivative of Function](../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 > 
-> ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md)
-> ↗ [Optimizers](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers.md)
+> ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md)
+> ↗ [Optimizers](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Optimizers.md)
 
 > 🔗 https://en.wikipedia.org/wiki/Gradient_descent
 
@@ -358,11 +371,11 @@ A simple extension of gradient descent, [stochastic gradient descent](https://e
 - ↗ [GNN (Graph Neural Network)](2️⃣%20Neural%20Network%20Models%20🗿/GNN%20(Graph%20Neural%20Network)/GNN%20(Graph%20Neural%20Network).md)
 ↗ [(Deep) Generative Models](../🪽%20(Deep)%20Generative%20Models/(Deep)%20Generative%20Models.md)
 
-↗ [Model Training](3️⃣%20Model%20Training/Model%20Training.md)
-- ↗ [Model Tuning & Hyperparameter Optimization](3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization.md) 🤔
-- ↗ [ML Training Management & Visualization](3️⃣%20Model%20Training/ML%20Training%20Management%20&%20Visualization/ML%20Training%20Management%20&%20Visualization.md)
-- ↗ [Model Validation](3️⃣%20Model%20Training/Model%20Validation/Model%20Validation.md)
-- ↗ [Models Combination](3️⃣%20Model%20Training/Models%20Combination/Models%20Combination.md)
+↗ [Model Training (Classical ML & NN)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Training%20(Classical%20ML%20&%20NN).md)
+- ↗ [Model Tuning & Hyperparameter Optimization (HPO)](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO)/Model%20Tuning%20&%20Hyperparameter%20Optimization%20(HPO).md) 🤔
+- ↗ [ML Training Management & Visualization](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/ML%20Training%20Management%20&%20Visualization/ML%20Training%20Management%20&%20Visualization.md)
+- ↗ [Model Validation](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Model%20Validation/Model%20Validation.md)
+- ↗ [Models Combination](3️⃣%20Model%20Training%20(Classical%20ML%20&%20NN)/Models%20Combination/Models%20Combination.md)
 ↗ [LLM Training, Utilization, and Evaluation](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training,%20Utilization,%20and%20Evaluation.md)
 - ↗ [Post-Training & Fine Tuning](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Post-Training%20&%20Fine%20Tuning/Post-Training%20&%20Fine%20Tuning.md)
 - ↗ [Pre-Training](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Training/Pre-Training/Pre-Training.md)

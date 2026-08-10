@@ -17,7 +17,7 @@
 
 ↗ [Agentic LLMs & LLM Agent Harness](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 ↗ [AI Powered Dev & Vibe Coding](../../../🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Powered%20Dev%20&%20Vibe%20Coding.md)
-- ↗ [Cursor](../../../🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Cursor.md)
+- ↗ [Cursor](../../../🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20IDE/Cursor.md)
 - ↗ [Claude Code](../../../🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
 
 

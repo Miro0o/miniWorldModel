@@ -19,6 +19,8 @@
 ↗ [Academics 🎓 (In CS)](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 ↗ [(CS) Master & PhD Guide - Preparation & Application](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 
+↗ [Learning English the Right Way](../../../Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/Learning%20English%20the%20Right%20Way.md)
+
 
 ### Other Resources
 
@@ -41,13 +43,87 @@ In [prehistory](https://en.wikipedia.org/wiki/Prehistory "Prehistory"), educati
 ### Education: Knowledge + Practice
 ↗ [Universe, Self-Awareness, and Intelligence](../../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 ↗ [Information Theory](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
-#### AI + Education
-↗ [AI4EDU](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4EDU.md)
 
 AI is the powerful knowledge engine for education
+↗ [AI4EDU](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4EDU.md)
 
 
 ### Education: Specialized Edu + Liberal Edu
+↗ [Liberal Education (博雅教育)](Liberal%20Education%20(博雅教育).md)
+
+
+
+## Education Systems Around The Globe
+### Kindergarten
+
+
+### Primary School
+
+
+### Middle School
+
+
+### University & Research Institution
+#### Undergraduate Education
+
+#### Post-Graduate Education
+↗ [(CS) Master & PhD Guide - Preparation & Application](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
+↗ [International Master & PhD Programmes](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
+
+
+
+## How to Study?
+> [!links]
+> ↗ [🌲 Road To CS](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+
+> [!quote]
+> “老僧三十年前未参禅时，见山是山，见水是水。及至后来，亲见知识，有个入处，见山不是山，见水不是水。而今得个休歇处，依前见山只是山，见水只是水。”
+> 
+> 宋代 禅宗《五灯会元》（《指月录》）
+> 吉州 青原惟信禅师
+
+
+### For Baby
+
+
+### For Kids
+
+
+### For Youth
+
+
+### For Adults
+#### The Knowledge Game and the Resource Game of Studying ⭐
+> 🤖 GPT5.6 Sol
+
+In any field of study or research, resources are limited: time, funding, institutional support, recognition, and opportunities. Therefore, anyone who wants to continue along a research path must not only pursue knowledge but also find ways to secure the resources needed to sustain that pursuit.
+
+This creates two interconnected games.
+
+The first is the **knowledge game**: studying in a genuine way means engaging deeply with questions, building understanding, developing methods, and contributing new insights. The goal is the advancement of knowledge itself.
+
+The second is the **resource game**: researchers must present their work in ways that attract funding, approval, reputation, and institutional support. Sometimes this involves emphasizing certain topics, adopting fashionable language, or producing outputs that satisfy external expectations. These activities may not directly advance knowledge but can provide the resources needed to continue doing research.
+
+==The tension arises when the resource game begins to replace the knowledge game.== At that point, studying becomes a performance — an imitation of research designed primarily to obtain rewards rather than to discover or understand something new.
+
+However, the boundary is not always clear. What appears to be "fake study" may sometimes be a necessary strategy for sustaining "real study." The challenge is maintaining a balance: using the resource game as a means to support the knowledge game, rather than allowing it to become the ultimate purpose.
+#### The Knowledge Game
+↗ [杨振宁谈我国新时期的人才培养 - 1986](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Appendix/杨振宁谈我国新时期的人才培养%20-%201986.pdf)
+
+杨振宁在人才培养方面所重视的另一个重点是帮助中国学生包括在国外的留学生寻找正确的学习途径 , 学而能够成才。
+1. 选择正确的方向
+2. 知识和能力的关系
+3. 兴趣问题
+4. 博和专
+5. 学习方法
+	1. 对中国生读书比较 “ 死 ” 的特点 , 杨振宁提出了以下几种学习方法。
+		1. 第一 , 尽量多 读参考书, 博览群书 , 扩大知识面 。 他指出 , 只要 时 间和 能力 允 许 , 一 般 来 说 , 读书越多肯定对学习越有好处。有些事物和学问并非一开始就被人们懂得和理 解的, 但是只要持之以恒, 知识丰富了, 终能发现其奥秘 。
+		2. 第二 , 不要死钻牛角尖 。 他说 , 对于一个课题 , 如果经过长时间的钻研仍然解答不了 , 不 妨暂时搁 一下 , 换一个新的题目。经过一段时间, 有了新的启发 , 原来解答不了的难题便 可能迎刃而解 。 
+		3. 第三 , 采用 “ 渗透性 ” 方法。他说, 有两 种对 应 的学 习 方 法 , 一 种 叫做 “ 渗透法 ” , 另一 种 叫做 “ 按 部 就 班” 。 知 识 是 互相 渗透 和 扩展 的, 知 识 的积 累更 是 如 此。 知 识往 往在 你 不知 不 觉 、 似懂 非懂 中 积累 和 丰 富起 来 。 不 要 害怕打 破 那种 “ 按部 就班 ” 的 常 规 。
+		4. 第 四 , 推 演 法和 归纳 法结 合, 更 注 重归纳 法 。 他在西南 联大 读 书时 , 学 习 方法 主 要是 推 演 法 , 是 从 数 学 推 演 到 物理 的方法 , 到美 国 芝 加哥大学 以 后, 他跟导 师泰 勒学 习 , 使 用 的 是 倒 过来 的方 法 , 从 物理 现象 引导 出 数 学 的表 示方法 。 他 认为两 个 地方 的教育 都对他 以 后 的工 作有决 定 性 的 作用 。 但是 , 尽 管推演 法的学 习 使他打 下 了 做 学间 的扎实 基础 , 他 却更看 重 归纳 法 的 学 习 。 他说 , 归纳法 的 起点是 物理 现象 , 从 这个 方 向出发 , 不 易陷入 形式化 的泥 坑 。 对 于 今天 中国 物理 学教 学 体 制的 更改 , 他 感 到很 高兴, 指 出 多 增加一 些不 绝对 严 密的 、 注 重 归 纳法 的课 , 对 于学 习 会 有很 多好 处。
+	2. 以上 四 点学 习 方 法 , 是 杨 振 宁针对 中 国的特 殊情 况 提 出 来 , 切 中时弊 , 读 了 令人产 生 切 肤 之 感 。 特 别是 “ 渗透 ” 一 法 , 更 值 得 习 惯 于 “ 按部就 斑 ” 的我 国 教育 者 和受 教育 者 斟酌 采 纳 
+6. 合作与交流
+#### The Resource Game
 
 
 

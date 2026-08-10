@@ -56,7 +56,7 @@ The Model Context Protocol includes the following projects:
 ![MCP.excalidraw | 800](../../../../../../../../Assets/Illustrations/AI%20&%20LLM/MCP.excalidraw.md)
 #### MCP Hosts (LLM Applications)
 ↗ [Claude Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
-↗ [Cursor](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Cursor.md)
+↗ [Cursor](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20IDE/Cursor.md)
 ↗ [Github Copilot](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Github%20Copilot.md)
 #### MCP Servers
 > 🔗 https://modelcontextprotocol.io/docs/learn/server-concepts

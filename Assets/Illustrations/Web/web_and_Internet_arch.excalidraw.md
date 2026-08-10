@@ -270,7 +270,7 @@ Controllers ^yCDvXZuJ
 ## Element Links
 ZQhrgo7G: [[../Computer System/computer_architecture_and_computer_science.excalidraw]]
 
-v7gVtCuJ: [[../../../Information Science & Computer Science and Engineering/🗺 CS Overview/The Essence of Computing - Programs & The Semantics of Programs]]
+v7gVtCuJ: [[../../../Information Science & Computer Science and Engineering/🗺 CS Overview/Computation as Programs - Computer Program Semantics & Models]]
 
 ## Embedded Files
 fcca2e13ded5def87ccbbf29f32033f2642b71ac: [[../../Pics/Pasted Image 20240303133723_903.png]]

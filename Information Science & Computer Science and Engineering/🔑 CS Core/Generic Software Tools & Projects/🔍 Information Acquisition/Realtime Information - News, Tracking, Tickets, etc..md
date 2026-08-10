@@ -16,7 +16,7 @@
 
 ↗ [DarkWeb](../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/DarkWeb.md)
 
-↗ [RSS (Really Simple Syndication)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20Languages%20&%20Data%20Representation/RSS%20(Really%20Simple%20Syndication).md)
+↗ [RSS (Really Simple Syndication)](../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Markup%20Languages%20&%20Data%20Representation/RSS%20(Really%20Simple%20Syndication).md)
 
 ↗ [News Focus (Non-IT)](../../../../Assets/World%20Chronology/News%20Focus%20(Non-IT)/News%20Focus%20(Non-IT).md)
 ↗ [News Focus (IT-exclusive)](../../../../Assets/World%20Chronology/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)

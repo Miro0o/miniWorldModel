@@ -427,7 +427,7 @@ tbd.
 - 信息科学领域中的“计算”：
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-	- ↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+	- ↗ [Computation as Programs - Computer Program Semantics & Models](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 - 深度学习中的"神经网络"模型：
 	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
 - 哲学领域（包括数学领域）的“逻辑”（或“推理”）：
@@ -571,10 +571,10 @@ or（感性，理性）X （认识，实践）
 > 这些路径并不完全处于同一层面，也不必彼此排斥。它们共同参与了人类“观测宇宙”的构造：科学更侧重事实结构的校正，哲学更侧重概念边界的澄清，宗教更侧重终极意义的安顿，而文学与艺术则使宇宙成为可感、可居、可承受的世界。由于观测宇宙与实际客观宇宙是否完全重合始终不可终判，人类只能通过这些路径不断修正和逼近真实，而不能宣称自己已经最终占有真实。
 
 其中，科学的特殊性不在于它宣布自己掌握终极真理，而在于它以系统化的怀疑、可重复的检验和持续性的修正机制，使观测宇宙尽可能与外部世界保持更高程度的一致。正因为误差、局限与不可终判性始终存在，科学精神才不是终结怀疑，而是要求人永远保留怀疑，并在怀疑中不断推进认识。
-##### 个体自我意识的组织：群体与社会
+##### 个体自我意识的组织：社会自我意识
 ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
 ↗ [Game Theory & Multi-Agent Decision-Making](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
-###### 社会的形成
+###### 从群体到社会
 > [!links]
 > ↗ [Human History](Other%20Networks%20of%20Knowledge/📜%20Human%20History/Human%20History.md)
 
@@ -733,12 +733,12 @@ or（感性，理性）X （认识，实践）
 和谐共生
 
 tbd.
-##### 自我意识与自我的关系（自我思考的发展与成熟）
+##### 自我意识与自我的关系（主体性的发展与成熟）
 ↗ [Psychology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Psychology/Psychology.md)
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 - ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
-自我意识的发展与成熟
+自我意识/主体性的发展与成熟
 - 在两个维度中进行：知识（思），实践（做）--->「世界观与方法论」
 - 在三个场景中进行：自我，社会（家庭，社区，聚落/农村/城市，国家，民族），自然
 	- 一个人（自我），一群人（他我），没有人（无我）
@@ -848,7 +848,7 @@ tbd.
 ##### 信息运动的自动化：计算机智能（狭义的智能）👈
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [The Essence of Computing - Programs & The Semantics of Programs](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Computation as Programs - Computer Program Semantics & Models](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 ↗ [Digital (Logic) Electronics Foundations](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Programming Language Theory (PLT)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -1213,7 +1213,7 @@ tbd.
 ###### 上层物质欲望/ 基础精神欲望 -- 享乐
 ↗ [Cultures & Entertainment Industry](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/💸%20Economics%20&%20Finance/Macro%20Economics/☝️%20Economical%20Sectors%20in%20Human%20Society/📌%20Tertiary%20Economical%20Sector/Cultures%20&%20Entertainment%20Industry/Cultures%20&%20Entertainment%20Industry.md)
 ↗ [Internet & Entertainment Industry](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
-###### 上层精神欲望：知识
+###### 上层精神欲望：学习与知识
 ↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
 
@@ -1442,6 +1442,10 @@ Two Essential Human Abilities
 
 
 ### Human Knowledge
+#### About the "Truth" and Pursuit-of-Truth
+![Human_and_uni.excalidraw | 800](Assets/Illustrations/Philosophy/Human_and_uni.excalidraw.md)
+
+
 #### Academic Disciplines 🎓
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB
 
@@ -1540,8 +1544,13 @@ The following outline provides an overview of and topical guide to academic disc
     - [Journalism, media studies and communication](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Journalism,_media_studies_and_communication)
     - [Law](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Law_2)
     - [Library and museum studies](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines#Library_and_museum_studies)
-#### Knowledge Acquisition
-##### Philosophy 🆚 Logic & Reasoning
+#### Academic Research & Creation of Knowledge
+↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
+
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
+##### Approaches of "Pursuit-of-Truth"
+###### Philosophy 🆚 Logic & Reasoning
 > [!Links]
 > ↗ [Philosophy & Its History](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > ↗ [Global Religions](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
@@ -1550,13 +1559,12 @@ The following outline provides an overview of and topical guide to academic disc
 > 
 > ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 > ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-##### Empirical Study 🆚 Science
+###### Empirical Study 🆚 Science
 > [!links]
 > ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
 > ↗ [Natural Science & Engineering and Technology](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 > ↗ [Social Science](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Social%20Science.md)
-
-##### System Science & Systemology 🤔
+###### System Science & Systemology 🤔
 > [!links]
 > ↗ [Complex System Science & Systems Theory](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Complex%20System%20Science%20&%20Systems%20Theory.md)
 
@@ -1596,14 +1604,22 @@ https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Complex_system
 
 [论系统工程 - 钱学森](https://github.com/holyshell/Books/blob/master/%5B%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%5D(%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88).%E9%92%B1%E5%AD%A6%E6%A3%AE.pdf)
-#### Academic Research, Knowledge, and Education ⭐
+##### From Research to Knowledge
 ↗ [Academics 🎓 (In CS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 
-↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
-↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
-
-↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+![how_research_is_done.excalidraw|1000](/Assets/Illustrations/Academics/how_research_is_done.excalidraw.md)
+#### Knowledge Learning & Education ⭐
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md) "How to learn knowledge?"
 ↗ [Liberal Education (博雅教育)](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Liberal%20Education%20(博雅教育).md)
+
+↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+↗ [🌲 Road To CS](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
+
+> [!quote]
+> “老僧三十年前未参禅时，见山是山，见水是水。及至后来，亲见知识，有个入处，见山不是山，见水不是水。而今得个休歇处，依前见山只是山，见水只是水。”
+> 
+> 宋代 禅宗《五灯会元》（《指月录》）
+> 吉州 青原惟信禅师
 
 ![](Assets/Pics/Pasted%20image%2020260604165742.png)
 <small><a>https://en.wikipedia.org/wiki/The_School_of_Athens</a></small>

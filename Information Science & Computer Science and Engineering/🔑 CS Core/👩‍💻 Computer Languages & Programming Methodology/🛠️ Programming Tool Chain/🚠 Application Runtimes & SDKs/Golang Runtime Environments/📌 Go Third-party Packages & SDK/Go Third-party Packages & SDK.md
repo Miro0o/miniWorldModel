@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Go Standard Library](../../../../Compiled%20Languages/Golang/Go%20Standard%20Library/Go%20Standard%20Library.md)
+↗ [Go Standard Library](../../../../GPL(General%20Purpose%20Languages)/Golang/Go%20Standard%20Library/Go%20Standard%20Library.md)
 
 
 ### Other Resources

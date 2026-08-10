@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
-↗ [ASM (Assembly Languages)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-- ↗ [8086 ASM (16 bit)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
+↗ [ASM (Assembly Languages)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ASM%20(Assembly%20Languages).md)
+- ↗ [8086 ASM (16 bit)](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
 
 ↗ [Memory Access & Addressing](../../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
@@ -18,7 +18,7 @@
 ## Intro
 > The concept of register is shared both in real CPU design and ISA design. Usually as a software engineer (in general those who don't involve in CPU design) when referring to register we actually concerns only registers implemented in a given ISA, e.g. registers used by x86_64 or 8086. This is because in facts different CPU implementing the same ISA has different sets of registers physically for purposes like performance improvements. These variations in physical CPU design are usually invisible to upper users like software engineer. 
 > 
-> More info is available here ↗ [ASM /FAQ /👉 How many registers actually are there in a x64 CPU?](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/FAQ.md#👉%20How%20many%20registers%20actually%20are%20there%20in%20a%20x64%20CPU?)
+> More info is available here ↗ [ASM /FAQ /👉 How many registers actually are there in a x64 CPU?](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/FAQ.md#👉%20How%20many%20registers%20actually%20are%20there%20in%20a%20x64%20CPU?)
 
 D flip-flops can be used to implement registers. One D flip-flop is equivalent to a 1-bit register, so a collection of D flip-flops is necessary to store multi-bit values. For example, to build a 16-bit register, we need to connect 16 D flip-flops together. These collections of flip-flops must be clocked to work in unison. At each pulse of the clock, input enters the register and cannot be changed (and thus is stored) until the clock pulses again.
 
@@ -37,7 +37,7 @@ When a [computer program](https://en.wikipedia.org/wiki/Computer_program "Compu
 🔗 https://en.wikipedia.org/wiki/Processor_register#Examples
 
 ![](../../../../../../../../../Assets/Pics/x86%20registers%20map.png)
-↗ [8086 ASM /🫙 Registers](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#🫙%20Registers)
+↗ [8086 ASM /🫙 Registers](../../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#🫙%20Registers)
 
 
 ### Word /Word Length & Register (字长和寄存器)

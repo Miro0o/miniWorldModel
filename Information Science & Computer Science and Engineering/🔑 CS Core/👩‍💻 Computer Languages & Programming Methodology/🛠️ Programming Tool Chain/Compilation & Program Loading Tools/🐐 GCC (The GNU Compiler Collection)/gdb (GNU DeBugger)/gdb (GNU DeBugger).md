@@ -10,9 +10,9 @@
 
 
 ### Related Topics
-↗ [C & CPP](../../../../Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-↗ [Golang](../../../../Compiled%20Languages/Golang/Golang.md)
-↗ [Rust](../../../../Compiled%20Languages/⚙️%20Rust/Rust.md)
+↗ [C & CPP](../../../../GPL(General%20Purpose%20Languages)/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Golang](../../../../GPL(General%20Purpose%20Languages)/Golang/Golang.md)
+↗ [Rust](../../../../GPL(General%20Purpose%20Languages)/⚙️%20Rust/Rust.md)
 
 
 ### Learning Resources

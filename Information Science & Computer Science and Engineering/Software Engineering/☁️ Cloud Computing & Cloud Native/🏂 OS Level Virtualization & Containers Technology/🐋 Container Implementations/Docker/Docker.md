@@ -52,7 +52,7 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 > **The underlying technology**
 > 
-> ↗ [Golang](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Compiled%20Languages/Golang/Golang.md)
+> ↗ [Golang](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Golang/Golang.md)
 > ↗ [Linux Namespace](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
 > ↗ [Linux cgroup (control group)](../../../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
 > 

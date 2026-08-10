@@ -1,0 +1,29 @@
+# Functional Programming Languages
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [Lambda Calculus (λ-Calculus)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+
+↗ [FRP (Functional Reactive Programming)](../../../../Software%20Engineering/Software%20Development%20Norms%20&%20Patterns/RX%20(ReactiveX)/FRP%20(Functional%20Reactive%20Programming)/FRP%20(Functional%20Reactive%20Programming).md)
+
+
+### Other Resources
+
+
+
+## Intro
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), **functional programming** is a [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm") where programs are constructed by [applying](https://en.wikipedia.org/wiki/Function_application "Function application") and [composing functions](https://en.wikipedia.org/wiki/Function_composition_\(computer_science\) "Function composition (computer science)"). It is a [declarative programming](https://en.wikipedia.org/wiki/Declarative_programming "Declarative programming") paradigm in which function definitions are [trees](https://en.wikipedia.org/wiki/Tree_\(data_structure\) "Tree (data structure)") of [expressions](https://en.wikipedia.org/wiki/Expression_\(computer_science\) "Expression (computer science)") that map [values](https://en.wikipedia.org/wiki/Value_\(computer_science\) "Value (computer science)") to other values, rather than a sequence of [imperative](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming") [statements](https://en.wikipedia.org/wiki/Statement_\(computer_science\) "Statement (computer science)") which update the [running state](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") of the program.
+
+In functional programming, functions are treated as [first-class entities](https://en.wikipedia.org/wiki/First-class_object "First-class object"), meaning that they can be bound to names (including local [identifiers](https://en.wikipedia.org/wiki/Identifier_\(computer_languages\) "Identifier (computer languages)")), passed as [arguments](https://en.wikipedia.org/wiki/Parameter_\(computer_programming\) "Parameter (computer programming)"), and [returned](https://en.wikipedia.org/wiki/Return_value "Return value") from other functions, just as any other [data type](https://en.wikipedia.org/wiki/Data_type "Data type") can. This allows programs to be written in a [declarative](https://en.wikipedia.org/wiki/Declarative_programming "Declarative programming") and [composable](https://en.wikipedia.org/wiki/Composability "Composability") style, where small functions are combined in a [modular](https://en.wikipedia.org/wiki/Modular_programming "Modular programming") manner.
+
+Functional programming is sometimes treated as synonymous with [purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming "Purely functional programming"), a subset of functional programming that treats all functions as [deterministic](https://en.wikipedia.org/wiki/Deterministic_system "Deterministic system") mathematical [functions](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)"), or [pure functions](https://en.wikipedia.org/wiki/Pure_function "Pure function"). When a pure function is called with some given arguments, it will always return the same result, and cannot be affected by any mutable [state](https://en.wikipedia.org/wiki/State_\(computer_science\) "State (computer science)") or other [side effects](https://en.wikipedia.org/wiki/Side_effect_\(computer_science\) "Side effect (computer science)"). This is in contrast with impure [procedures](https://en.wikipedia.org/wiki/Procedure_\(computer_science\) "Procedure (computer science)"), common in [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming"), which can have side effects (such as modifying the program's state or taking input from a user). Proponents of purely functional programming claim that by restricting side effects, programs can have fewer [bugs](https://en.wikipedia.org/wiki/Software_bug "Software bug"), be easier to [debug](https://en.wikipedia.org/wiki/Debugging "Debugging") and [test](https://en.wikipedia.org/wiki/Software_testing "Software testing"), and be more suited to [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification").
+
+Functional programming has its roots in academia, evolving from the lambda calculus, a formal system of computation based only on functions. Functional programming has historically been less popular than imperative programming, but many functional languages are seeing use today in industry and education, including Common Lisp, Scheme,[3][4][5][6] Clojure, Wolfram Language,[7][8] Racket,[9] Erlang,[10][11][12] Elixir,[13] OCaml,[14][15] Haskell,[16][17] and F#.[18][19] Lean is a functional programming language commonly used for verifying mathematical theorems.[20] Functional programming is also key to some languages that have found success in specific domains, like JavaScript in the Web,[21] R in statistics,[22][23] J, K and Q in financial analysis, and XQuery/XSLT for XML.[24][25] Domain-specific declarative languages like SQL and Lex/Yacc use some elements of functional programming, such as not allowing mutable values.[26] In addition, many other programming languages support programming in a functional style or have implemented features from functional programming, such as D[27] (since 2007 with the release of D2), C++ (since C++11), C#,[28] Kotlin,[29] Perl,[30] PHP,[31] Python,[32] Go,[33] Rust,[34] Raku,[35] Scala,[36] and Java (since Java 8).[37]
+
+
+
+## Ref

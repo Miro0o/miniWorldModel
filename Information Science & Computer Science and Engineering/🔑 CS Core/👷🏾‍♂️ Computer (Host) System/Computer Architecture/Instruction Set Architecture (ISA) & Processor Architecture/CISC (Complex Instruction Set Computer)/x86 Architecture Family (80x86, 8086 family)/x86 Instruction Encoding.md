@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 
 
 ### Reference Documents for x86-64 Instruction Encoding
@@ -42,7 +42,7 @@ In general, the features of the modern x86 instruction set are:
 
 
 ### x86 ASM Syntax: AT&T-Flavor and Intel-Flavor
-↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 
 
 ### x86 ISA Instruction Format

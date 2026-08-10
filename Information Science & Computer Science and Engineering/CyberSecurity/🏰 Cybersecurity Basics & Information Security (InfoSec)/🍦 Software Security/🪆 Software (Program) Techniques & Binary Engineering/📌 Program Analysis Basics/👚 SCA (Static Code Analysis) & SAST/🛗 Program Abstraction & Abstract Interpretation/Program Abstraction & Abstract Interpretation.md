@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 ↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
@@ -24,7 +24,7 @@ This entry verifies a number of worklist algorithms for exploring sets of reacha
 ## Intro
 ### Program Semantics & Program Interpretation
 ↗ [Programming Language & Formal Semantics](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md) (program semantics, abstraction, and interpretation)
+↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md) (program semantics, abstraction, and interpretation)
 
 ↗ [(Formal) Model Checking](../../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 - transition systems
@@ -108,7 +108,7 @@ The reason why they are called latices is that they can be drawn using Hasse dig
 ![](../../../../../../../../Assets/Pics/Screenshot%202025-11-12%20at%2000.24.53.png)
 #### Galois Connection & Safe-Approximation ⭐
 > [!links]
-> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
+> ↗ [Galois Theory](../../../../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Ring%20Theory%20&%20Ring-Like%20Algebraic%20Structure/Field%20Theory%20&%20Field-like%20Algebraic%20Structure/Galois%20Theory.md)
 > ↗ [Category Theory (范畴论)](../../../../../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 > 🔗 [Galois connection - Wikipedia](https://en.wikipedia.org/wiki/Galois_connection)
@@ -159,7 +159,7 @@ parse(pretty(parse(s))) == parse(s)
 > 🔗 https://courses.compute.dtu.dk/02242/topics/bounded-static-analysis.html#sec:2.5Abstract 
 > Operations in the Sign Domain. See below "👉 The Sign Analysis"
 
-Finally, we have reached the fun part. Before, we only defined how objects (operated by operators) in a program can be mapped from concrete domain to abstract domain. **However, remember a program consist of both objects and operations: $P(obj, opr)$. Or, equivalently, each state $S$ of a program $P$ consists of variables and operations, $S(var, opr)$ .** (The state machine semantics of program, ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md))
+Finally, we have reached the fun part. Before, we only defined how objects (operated by operators) in a program can be mapped from concrete domain to abstract domain. **However, remember a program consist of both objects and operations: $P(obj, opr)$. Or, equivalently, each state $S$ of a program $P$ consists of variables and operations, $S(var, opr)$ .** (The state machine semantics of program, ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md))
 
 We can now define **operations in the abstract domain** that mimic the operations in the concrete domain. Because our concrete domain is the set of integers, we can define $+_{2^{i32}}$ as the operation over the product: $$ A +_{2^{i32}} B = \{\, a + b \mid a \in A, b \in B \,\} $$
 For example: $$ \{1, 3\} +_{2^{i32}} \{0, 10\} = \{1, 3, 11, 13\} $$
@@ -255,7 +255,7 @@ Which means that if $\text{err}(\text{‘assertion error’}) \notin \text{BSA}_
 
 In this abstraction, we want to take advantage of executing the same instruction in states with the same program counter.
 
-Let's focus on a JVM **without a method stack (call stack, i.e. no function calls)**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../../../../../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)). 
+Let's focus on a JVM **without a method stack (call stack, i.e. no function calls)**, which means that every state is abstracted as a triple $\langle \sigma, \lambda, \iota \rangle$, where $\sigma$ stands for registers, $\lambda$ stands for memory, and $\iota$ stands for the PC (program counter) of current state (recall the state machine semantics of a program in ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)). 
 
 We can abstract this by collecting the states per $\iota$. Let $\mathbf{P_c} = \iota \rightarrow 2^{\text{State}}$ be a mapping from program counters to the program state space. $\mathbf{P_c}$ is a lattice with partial order $\sqsubseteq_{\mathbf{P_c}}$ where one mapping is less than ($\sqsubseteq_{\mathbf{P_c}}$) another if all states are smaller than the other, and $\bigsqcup_{\mathbf{P_c}}$ is pointwise set union ($\cup$) of states. Then we have our Galois connection between the original program and per-instruction abstraction:
 $$(2^{\text{State}}, \subseteq) \leftrightarrow^{\alpha}_{\gamma} (\mathbf{P_c}, \sqsubseteq_{\mathbf{P_c}})$$

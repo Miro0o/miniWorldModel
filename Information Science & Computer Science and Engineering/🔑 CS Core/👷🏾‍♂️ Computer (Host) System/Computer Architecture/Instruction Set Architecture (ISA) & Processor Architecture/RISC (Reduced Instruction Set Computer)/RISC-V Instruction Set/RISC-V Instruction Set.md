@@ -16,7 +16,7 @@ This document contains a brief listing of instructions and pseudocode for the RI
 
 
 ### Related Topics
-↗ [RISC-V ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/RISC-V%20ISA%20Based%20ASM/RISC-V%20ISA%20Based%20ASM.md)
+↗ [RISC-V ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/RISC-V%20ISA%20Based%20ASM/RISC-V%20ISA%20Based%20ASM.md)
 
 
 

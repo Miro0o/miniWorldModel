@@ -27,6 +27,8 @@ Another subfield of unsupervised learning is **dimensionality reduction**. Often
 
 Sometimes, dimensionality reduction can also be useful for visualizing data;
 
+↗ [Dimensionality Reduction (Data Compression)](Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
+
 
 
 ## Ref

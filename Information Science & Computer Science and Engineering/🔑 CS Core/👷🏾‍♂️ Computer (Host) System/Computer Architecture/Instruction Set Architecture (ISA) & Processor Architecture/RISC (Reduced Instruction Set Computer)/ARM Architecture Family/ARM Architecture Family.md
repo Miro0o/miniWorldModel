@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [ARM ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/ASM%20(Assembly%20Languages)/ARM%20ISA%20Based%20ASM/ARM%20ISA%20Based%20ASM.md)
+↗ [ARM ISA Based ASM](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/ARM%20ISA%20Based%20ASM/ARM%20ISA%20Based%20ASM.md)
 ↗ [ARM Architecture Family](ARM%20Architecture%20Family.md)
 
 

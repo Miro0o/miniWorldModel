@@ -333,7 +333,7 @@ Information Theory ^hHO0EOjY
 ## Element Links
 beoV83HH: [[../Web/web_and_Internet_arch.excalidraw]]
 
-NPaW7lPF: [[../../../Information Science & Computer Science and Engineering/🗺 CS Overview/The Essence of Computing - Programs & The Semantics of Programs]]
+NPaW7lPF: [[../../../Information Science & Computer Science and Engineering/🗺 CS Overview/Computation as Programs - Computer Program Semantics & Models]]
 
 zO6sFaOt: [[../Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model]]
 

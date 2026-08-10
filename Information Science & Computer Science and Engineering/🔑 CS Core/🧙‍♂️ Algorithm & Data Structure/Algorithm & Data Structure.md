@@ -151,7 +151,7 @@ https://web.ntnu.edu.tw/~algo/
 ## Intro
 > [!links]
 > ↗ [Computer Languages & Programming Methodology](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
-> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 ![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
@@ -179,7 +179,7 @@ The word _[algorism](https://en.wikipedia.org/wiki/Algorism "Algorism")_ in En
 
 ## Programming Languages & Basic Programming Model
 > ↗ [Programming Language & Formal Semantics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
-> ↗ [The Essence of Computing - Programs & The Semantics of Programs](../../🗺%20CS%20Overview/The%20Essence%20of%20Computing%20-%20Programs%20&%20The%20Semantics%20of%20Programs.md)
+> ↗ [Computation as Programs - Computer Program Semantics & Models](../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 > 
 > ↗ [Computer Languages & Programming Methodology /Programming Language Basics](../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md#Programming%20Language%20Basics)
 

@@ -7,8 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+
 ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
+
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
+↗ [SSO (Single Sign-On)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/SSO%20(Single%20Sign-On)/SSO%20(Single%20Sign-On).md)
 
 ↗ [Brocken Authentication](../../../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Insecure%20Design%20&%20Failures/Identication%20and%20Authentication%20Failures/Brocken%20Authentication.md)
 
@@ -16,6 +19,8 @@
 
 
 ### Other Resources
+https://github.com/a466350665/smart-sso
+springboot SSO 单点登录，OAuth2实现，支持App登录，支持分布式
 
 
 
@@ -91,12 +96,12 @@ The property that ensures that the identity of a subject or resource is the one 
 
 
 ## 🎯 Authentication Factors
-> [!Warning]
+> [!TIP]
 > This entry applies to authentication in general terms, including **product authentication** and **art authentication** and also, **digital authentication**. 
 
 How someone may be authenticated fall into three categories, based on what is known as the **factors of authentication**:
 - something the 1️⃣ user **knows**, (knowledge)
-	- ↗ [Cryptographic Key Based Authentication (基于密码学原理)](Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
+	- ↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
 - something the 2️⃣ user **has**, (possession)
 - something the 3️⃣ user **is**. (inherence)
 
@@ -117,30 +122,60 @@ As the weakest level of authentication, only a single component from one of the 
 
 Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
 #### 2FA (2-Factors-Authentication)
+**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/JWT%20(Json%20Web%20Token).md))
+- Authentication token: A device that generates secure second-factor codes
+	- Something the user owns
+	- Examples: RSA SecurID and Google Authenticator
+- Usage
+	- The token and the server share a common secret key k
+	- When the user wants to log in, the token generates a code HMAC(k, time)
+		- The time is often truncated to the nearest 30 seconds for usability
+		- The code is often truncated to 6 digits for usability
+	- The user submits the code to the website
+	- The website uses its secret key to regenerate the code and compare
+- Drawback: Vulnerable to relay attacks
+- Drawback: Vulnerable to online brute-force attacks
+- Possible fix: rate limits
+
+**2FA Example: Security Keys** (↗ [Dongle](../../../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Dongle/Dongle.md))
+- Security key: A device designed to defend against phishing
+	- Something the user owns
+- Usage
+	- When the user signs up for a website, the security key generates a new public/private key pair and gives the public key to the website
+	- When the user wants to log in, the server sends a nonce to the security key
+	- The security key signs the nonce and website name (from the browser) and gives the signature to the server
+- Security keys prevent phishing
+	- In a phishing attack, the security key generates a signature with the attacker’s website name, not the legitimate website name
+		- Impervious to relay attacks!
+##### Subverting 2FA : Replay Attacks
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
+
+![](../../../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
+##### Subverting 2FA : Social Engineering
+↗ [Social Engineering & Physical Security](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
 
 
 ## 🎯 Authentication Taxonomy
 ### Authentication Taxonomy Overview
 广义上来说，鉴别广泛应用在不限于网络空间安全领域的各个领域，比如艺术品真赝的鉴别，字迹的鉴别，等等。从这个广义的角度来说，按照鉴别对象分类标准分类，鉴别可以分为如下结构：
-1. 基于客观存在物的鉴别
-	1. 面对人的鉴别（身份鉴别，网安讨论的范围）
-		1. 基于密码学原理 (基于你所知道的)
-			1. 基于对称密码算法（不同于对称鉴别）
-			2. 基于公钥密码算法
-			3. 基于密码校验函数算法
-		2. 基于非密码学原理
-			1.  基于你所知道的（**What you know** ）
-				1. 知识、口令、密码
-			2. 基于你所拥有的（**What you have** ）
-				1. 身份证、信用卡、钥匙、智能卡、令牌等
-			3. 基于你的个人特征（**What you are**）
-				1. 指纹，笔迹，声音，手型，脸型，视网膜，虹膜
-		3. ZKP（不依赖于上述任何一种identity）
+1. 基于鉴别对象
+	1. 面对人的鉴别
 	2. 面对机器的鉴别
 	3. 面对物品的鉴别
-2. 基于主观存在物的鉴别
-	1. tbd..
+2. 基于鉴别方法
+	1. 基于密码学原理 (基于你所知道的)
+		1. 基于对称密码算法（不同于对称鉴别）
+		2. 基于公钥密码算法
+		3. 基于密码校验函数算法
+	2. 基于非密码学原理
+		1.  基于你所知道的（**What you know** ）
+			1. 知识、口令、密码
+		2. 基于你所拥有的（**What you have** ）
+			1. 身份证、信用卡、钥匙、智能卡、令牌等
+		3. 基于你的个人特征（**What you are**）
+			1. 指纹，笔迹，声音，手型，脸型，视网膜，虹膜
+	3. ZKP（不依赖于上述任何一种identity）
 
 ---
 身份鉴别可以是**单向**的也可以是**双向**的。
@@ -192,7 +227,7 @@ Data Origin Authentication (数据原发鉴别)
 ##### 惟一数机制
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
-↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
+↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
@@ -222,18 +257,50 @@ Data Origin Authentication (数据原发鉴别)
 
 ### 3️⃣ 按鉴别对象分类
 #### 🎯 Object-based Authentication (Peer Entity Authentication, 对等实体鉴别)
-##### 🤦🏻‍♀️ Human-Oriented Authentication
-↗ [Human-Oriented Authentication (鉴别对象为人)](Human-Oriented%20Authentication%20(鉴别对象为人)/Human-Oriented%20Authentication%20(鉴别对象为人).md)
-##### 📻 Machine-oriented Authentication
-↗ [Machine-Oriented Authentication (鉴别对象为机器)](Machine-Oriented%20Authentication%20(鉴别对象为机器)/Machine-Oriented%20Authentication%20(鉴别对象为机器).md)
-##### ✏️ Thing-oriented Authentication
-> 这里的“物”与前面的“机”从物理实体上看没有本质区别，但对“物“的认证更需要强调轻量级属性。在物联网环境中，“物”意味着终端感知节点或RFID标签，这些“物”的资源有限，因此，不能使用传统的针对“机”的认证方法。
->
-> 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
+对等实体鉴别
+- **定义**：确认连接中对方实体的真实身份。
+- **特点**：用于通信双方建立连接或通信过程中，证明对方确实是声称的那个活动实体（如用户、终端、服务器）。
+- **目的**：防止假冒和重放攻击，确保通信一方正在和正确的对象交流。
+- **常见技术**：基于密码学的挑战-应答协议、数字签名、Kerberos协议等。
 
-↗ [Thing-Oriented Authentication (鉴别对象为物)](Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
+
+对等实体鉴别按照鉴别对象分类：
+1. 人（Human/User Authentication）
+- **定义**：对人类用户（自然人）的身份进行鉴别。
+- **核心特点**：高度依赖交互、记忆力或生物特征，存在忘记密码、凭证被盗等风险。
+- **常见凭证**：
+    - 口令/密码（知识）
+    - 短信验证码/动态令牌（拥有）
+    - 指纹/人脸/虹膜（生物特征）
+- **代表技术**：多因素身份验证（MFA）、单点登录（SSO）、FIDO（快连）标准。
+
+2. 机（Machine/Device Authentication）
+- **定义**：对标准的计算设备（如服务器、PC、虚拟机、容器或手机终端）的身份进行鉴别。
+- **核心特点**：具备较强的计算和存储能力，可以运行复杂的加密算法，鉴别过程通常是自动化的。
+- **常见凭证**：
+    - MAC地址 / IP地址（较弱，易伪造）
+    - 数字证书（X.509格式，最常用）
+    - 机器指纹（基于硬件序列号、系统配置等生成的哈希）
+- **代表技术**：TLS双向认证、设备指纹技术、安全外壳协议（SSH）密钥对验证。
+
+3. 物（Thing/Object Authentication）
+- **定义**：对物联网终端、传感器、RFID标签、摄像头、无人机等轻量级物件的身份进行鉴别。
+- **核心特点**：通常属于**受限设备（Constrained Devices）**，计算能力弱、内存小、功耗低，无法运行复杂的公钥密码学。
+	- 考虑到资源有限的“物”通常所传递的数据量也很有限，因此，对物的认证其实是对数据来源的认证，即一个数据无论经过多少转发，其原始来源应该可以得到鉴别。
+- **常见凭证**：
+    - RFID / NFC 唯一标识符
+    - 轻量级共享密钥
+    - 物理不可克隆函数（PUF，硬件级特征）
+- **代表技术**：轻量级认证协议（如基于ACE-OAuth的IoT鉴别）、对称加密挑战应答、固件签名验证。
 #### 🎯 Message Authentication (Data Origin Authentication, 数据原发鉴别)
-↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+> [!links]
+> ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+
+数据源发鉴别
+- **定义**：确认接收到的特定数据单元确实来自所声称的发送源。
+- **特点**：不关心发送者当前是否在线，只关心某条具体的数据、消息或文件是不是由该源头最初发出的。
+- **目的**：提供数据的来源证明，防止数据来源被伪造，通常与数据完整性验证结合在一起。
+- **常见技术**：带密钥的hash函数（HMAC）、附加了发送方数字签名的报文等。
 
 
 ### 4️⃣ 按鉴别技术分类
@@ -245,28 +312,29 @@ Data Origin Authentication (数据原发鉴别)
 - 基于生物特征的身份鉴别
 - 基于个人令牌的身份鉴别
 
-↗ [Biometrics Authentication](Human-Oriented%20Authentication%20(鉴别对象为人)/Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication.md)
-↗ [Identity Token Based Authentication (基于实物凭证)](Human-Oriented%20Authentication%20(鉴别对象为人)/Identity%20Token%20Based%20Authentication%20(基于实物凭证)/Identity%20Token%20Based%20Authentication%20(基于实物凭证).md)
-↗ [Password Based Authentication (基于口令)](Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
-↗ [Address Based Authentication](Human-Oriented%20Authentication%20(鉴别对象为人)/Address%20Based%20Authentication.md)
+↗ [Biometrics Authentication (基于生物特征信息)](Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication%20(基于生物特征信息).md)
+↗ [Physical Evidence-Based Authentication (基于实物凭证)](Physical%20Evidence-Based%20Authentication%20(基于实物凭证)/Physical%20Evidence-Based%20Authentication%20(基于实物凭证).md)
+↗ [Password Based Authentication (基于口令)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
+↗ [Address Based Authentication](Address%20Based%20Authentication.md)
 #### Cryptography-based Authentication
-↗ [Cryptographic Key Based Authentication (基于密码学原理)](Human-Oriented%20Authentication%20(鉴别对象为人)/🎫%20Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理)/Cryptographic%20Key%20Based%20Authentication%20(基于密码学原理).md)
+↗ [Cryptographic Authentication (基于密码学原理)](🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
 #### Zero-Knowledge-Proof (ZKP)
 ↗ [Zero-Knowledge Proof (ZKP)](../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/🍭%20Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 
 ## Authentication Applications
-↗ [Secure Communication & Cryptosystems /🌅 Secure Communication with CIA Properties](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#🌅%20Secure%20Communication%20with%20CIA%20Properties)
+> [!links]
+> ↗ [Cryptology & Secure Communication](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md) "🌅 Secure Communication & Cryptographic Protocols"
 
 
 ### Network-Based Authentication
 ↗ [Web Access Control](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Access%20Control.md)
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 - ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
-	- ↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/JWT%20(Json%20Web%20Token).md)
-	- ↗ [x-auth-token](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/x-auth-token.md)
-	- ↗ [SAML (Security Assertion Markup Language)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/SAML%20(Security%20Assertion%20Markup%20Language).md)
+	- ↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20(Json%20Web%20Token).md)
+	- ↗ [x-auth-token](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/x-auth-token.md)
+	- ↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
 - ↗ [HTTP Authentication](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Authentication.md)
 - ↗ [HTTP Access Control (CORS)](../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Advanced%20Controls/HTTP%20Access%20Control%20(CORS).md)
 
@@ -294,20 +362,27 @@ Data Origin Authentication (数据原发鉴别)
 
 
 ## 🩸🗡️ Threats To Authentication Systems
+> [!links]
+> ↗ [Cybersecurity Threats & Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+> ↗ [Core Cryptographic Properties Threats & Countermeasures](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Core%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+> ↗ [Other Cryptographic Properties Threats & Countermeasures](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cryptographic%20Properties%20&%20Security/Other%20Cryptographic%20Properties%20Threats%20&%20Countermeasures.md)
+
 鉴别交换协议的核心问题有两个:
 - 保密性
 	- 为了防止伪装和防止暴露会话密钥，基本鉴别与会话密码信息必须以保密形式通信。这就要求预先存在保密或公开密钥供实现加密使用。
 - 时效性
 	- 涉及防止消息重放攻击。
 
+保证消息实时性
+1、时间戳:A接受一个新消息仅当该消息包含一个时间戳，该时间戳在A看来，是足够接近A所知道的当前 时间;这种方法要求不同参与者之间的时钟需要同步。
+
+> 局限性： 由于变化的和不可预见的网络延迟的本性，不能期望分布式时钟保持精确的同步。因此，任何基于时间戳的过程必须采用时间窗的方式来处理:一方面时间窗应足够大以包容网络延迟， 另一方面时间窗应足够小以最大限度地减小遭受攻击 的机会。安全的时间服务器用以实现时钟同步可能是 最好的方法。
+
+2、质询/响应方式(Challenge/Response):A期望从B 获得一个新消息，首先发给B一个随机质询值 (Challenge)，并要求后续从B收到的消息(Response) 包含正确的这个质询值(或其函数)。
+
+>局限性： 不适应非连接性的应用，因为它要求在传输开始之前先有握手的额外销，这就抵消了无连接通信的主要特点。
+
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
-
-### Relay Attacks
-↗ [Cybersecurity Threats & Attacks /4️⃣%20Relay%20Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
-
-
-### Impersonation Attacks
-↗ [Cybersecurity Threats & Attacks /5️⃣ Impersonation Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#5️⃣%20Impersonation%20Attacks)
 
 
 

@@ -10,18 +10,15 @@
 ↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
 
+### Other Resources
+
 
 ## Intro
 > 🔗 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9B%E6%95%99
 
-**中国佛教**是指在[中国](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B "中国")传承和发展的[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")，迄今已有2000余年历史。佛教传入中国最早具体是哪年尚无定论，一般认为公元前后两汉之际，比较著名的是汉明帝时期（公元64年）在河南洛阳建立[白马寺](https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A9%AC%E5%AF%BA "白马寺")，最早佛经之一[《四十二章经》](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0%E7%B6%93 "四十二章经")就是那时翻译的。现代中国佛教主要有[汉传佛教](https://zh.wikipedia.org/wiki/%E6%B1%89%E4%BC%A0%E4%BD%9B%E6%95%99 "汉传佛教")、[藏传佛教](https://zh.wikipedia.org/wiki/%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99 "藏传佛教")和[南传佛教](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BC%A0%E4%BD%9B%E6%95%99 "南传佛教")三大派别。中国佛教是一个地理位置上和行政区域上的概念，而不是一个佛教宗派。
+**中国佛教**是指在[中国](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B "中国")传承和发展的[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")，迄今已有2000余年历史。佛教传入中国最早具体是哪年尚无定论，一般认为公元前后两汉之际，比较著名的是汉明帝时期（公元64年）在河南洛阳建立[白马寺](https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A9%AC%E5%AF%BA "白马寺")，最早佛经之一[《四十二章经》](https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0%E7%B6%93 "四十二章经")就是那时翻译的。现代中国佛教主要有[汉传佛教](https://zh.wikipedia.org/wiki/%E6%B1%89%E4%BC%A0%E4%BD%9B%E6%95%99 "汉传佛教")、[藏传佛教](https://zh.wikipedia.org/wiki/%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99 "藏传佛教")和[南传佛教](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BC%A0%E4%BD%9B%E6%95%99 "南传佛教")三大派别。==中国佛教是一个地理位置上和行政区域上的概念，而不是一个佛教宗派。==
 
 [佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")产生于公元前6-5世纪的[古代印度](https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E5%8E%86%E5%8F%B2 "印度历史")，由[释迦牟尼悉达多·乔达摩](https://zh.wikipedia.org/wiki/%E9%87%8A%E8%BF%A6%E7%89%9F%E5%B0%BC "释迦牟尼")创立。后来佛教传遍[印度次大陆](https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%AC%A1%E5%A4%A7%E9%99%B8 "印度次大陆")，更传播到其他大陆。印度佛教随着时代变化，佛教徒对教义理解开示不一。
-
-
-
-## Chinese Buddhism（汉传佛教）
-![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E6%95%99%E6%B4%BE%E5%88%AB#%E4%B8%AD%E5%9C%8B%E4%BD%9B%E6%95%99%E5%AE%97%E6%B4%BE
 
@@ -58,12 +55,60 @@
 
 
 
+## Chinese Buddhism（汉传佛教）
+![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
+
+
+### 天台宗
+> 📎 [天台宗](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8F%B0%E5%AE%97 "天台宗")
+
+
+### 法相宗（唯识宗、慈恩宗）
+> 📎 [法相宗](https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9B%B8%E5%AE%97 "法相宗")（唯识宗、慈恩宗）
+#### 三自性
+> 📎 https://zh.wikipedia.org/zh-cn/%E4%B8%89%E8%87%AA%E6%80%A7
+
+**三自性**（[梵语](https://zh.wikipedia.org/wiki/%E6%A2%B5%E8%AA%9E "梵语")：tri-svabhāva），又称**三自相**（[梵语](https://zh.wikipedia.org/wiki/%E6%A2%B5%E8%AA%9E "梵语")：tri-svalakṣaṇa），也就是[遍计所执性](https://zh.wikipedia.org/w/index.php?title=%E9%81%8D%E8%A8%88%E6%89%80%E5%9F%B7%E6%80%A7&action=edit&redlink=1 "遍计所执性（页面不存在）")、[依他起性](https://zh.wikipedia.org/wiki/%E4%BE%9D%E4%BB%96%E8%B5%B7%E6%80%A7 "依他起性")、[圆成实性](https://zh.wikipedia.org/wiki/%E5%9C%93%E6%88%90%E5%AF%A6%E6%80%A7 "圆成实性")，简称为遍依圆或三性。是[唯识宗](https://zh.wikipedia.org/wiki/%E5%94%AF%E8%AF%86%E5%AE%97 "唯识宗")的主要理论法义，唯识宗的主体思想即是唯识无境，三界万法皆由有情各自本具之第八识[阿赖耶识](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%B3%B4%E8%80%B6%E8%AD%98 "阿赖耶识")(又名一切种子识)所变现，世尊在许多经典中都说有三性。
+
+三自性系指一切有情生命中的三种重要法性，此三性必须依第八识阿赖耶识为前提才能存在。遍计所执性为因执著而产生的幻象，[部派佛教](https://zh.wikipedia.org/wiki/%E9%83%A8%E6%B4%BE%E4%BD%9B%E6%95%99 "部派佛教")对此因而不论。依他起性为自条件构成的现象，[瑜伽行派](https://zh.wikipedia.org/wiki/%E7%91%9C%E4%BC%BD%E8%A1%8C%E6%B4%BE "瑜伽行派")着重的空观。圆成实性为绝对的真实，[中观学派](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A7%80%E5%AD%B8%E6%B4%BE "中观学派")对此高度理论化。三者的比喻为看见月亮，认为上面有嫦娥或是嫦娥的图案（遍计所执性）、月亮是由太阳的反射才发光（依他起性）、月亮原本就是圆的（圆成实性）。
+
+《大乘入楞伽》：“无明爱及业。诸心依彼生。以是我了知。为依他起性。妄分别有物。迷惑心所行。此分别都无。迷妄计为有。心为诸缘缚。生起于众生。诸缘若远离。我说无所见。已离于众缘。自相所分别。身中不复起。我为无所行。众生心所起。能取及所取。所见皆无相。愚夫妄分别。显示阿赖耶。殊胜之藏识。离于能所取。我说为真如。” 三自性是唯识论中最重要的理论之一，唯识宗把宇宙万法分为三种性质，唐代[义净](https://zh.wikipedia.org/wiki/%E7%BE%A9%E6%B7%A8 "义净")三藏撰有《南海寄归内法传》，即称“相宗以三性为宗”。《楞伽经》中说：“五法三自性，以及八识聚，二种无我义，涵盖诸大乘。”
+
+
+### 华严宗
+> 📎 [华严宗](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%A5%E5%AE%97 "华严宗")
+
+
+### 净土宗
+> 📎 [净土宗](https://zh.wikipedia.org/wiki/%E6%B7%A8%E5%9C%9F%E5%AE%97_\(%E4%B8%AD%E5%9C%8B\) "净土宗 (中国)")
+
+
+### 律宗
+> 📎 [律宗](https://zh.wikipedia.org/wiki/%E5%BE%8B%E5%AE%97 "律宗")
+
+
+### 禅宗（达摩宗、佛心宗）
+> 📎 [禅宗](https://zh.wikipedia.org/wiki/%E7%A6%85%E5%AE%97 "禅宗")
+
+**禅宗**为[大乘佛教](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%95%99 "大乘佛教")流传于[东亚](https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%9E "东亚")的一支[佛教宗派](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99%E5%AE%97%E6%B4%BE "佛教宗派")，由南[天竺](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%AB%BA "天竺")禅师[菩提达摩](https://zh.wikipedia.org/wiki/%E8%8F%A9%E6%8F%90%E9%81%94%E6%91%A9 "菩提达摩")（一作**达磨**）传至[中国](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B "中国")。禅宗原本是指以“[坐禅](https://zh.wikipedia.org/wiki/%E5%9D%90%E7%A6%AA "坐禅")”为中心的修行集团，后来专指达摩一系的禅修集团)。达摩的禅宗经[牛头法融](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A0%AD%E6%B3%95%E8%9E%8D "牛头法融")、[黄梅弘忍](https://zh.wikipedia.org/wiki/%E5%BC%98%E5%BF%8D "弘忍")的发展，大成于六祖[曹溪惠能](https://zh.wikipedia.org/wiki/%E6%83%A0%E8%83%BD "惠能")，成为一支具有独特精神意趣的宗派，又称**达摩宗**、**佛心宗**。[宋朝](https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%9C%9D "宋朝")以后，禅宗以自家为“宗门”，余宗称“教门”。宗门一词出自禅林，据《[楞伽经](https://zh.wikipedia.org/wiki/%E6%A5%9E%E4%BC%BD%E7%B6%93 "楞伽经")》所说“佛语心为宗，无门为法门”，自称为“宗门”。
+
+在中国历史，禅宗发展可分成四个时期，由菩提达摩至中国开始，至惠能大宏禅宗为止，此为禅宗的开始，可称为早期禅宗。由六祖惠能门下，[洪州](https://zh.wikipedia.org/wiki/%E6%B4%AA%E5%B7%9E%E5%AE%97 "洪州宗")、[石头](https://zh.wikipedia.org/wiki/%E7%9F%B3%E9%A0%AD%E5%AE%97 "石头宗")二宗，发展为五宗七派（[临济宗](https://zh.wikipedia.org/wiki/%E8%87%A8%E6%BF%9F%E5%AE%97 "临济宗")[黄龙派](https://zh.wikipedia.org/wiki/%E9%BB%83%E9%BE%8D%E6%B4%BE "黄龙派")和[杨岐派](https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B2%90%E6%B4%BE "杨岐派")、[法眼宗](https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9C%BC%E5%AE%97 "法眼宗")、[曹洞宗](https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97 "曹洞宗")、[云门宗](https://zh.wikipedia.org/wiki/%E4%BA%91%E9%97%A8%E5%AE%97 "云门宗")、[沩仰宗](https://zh.wikipedia.org/wiki/%E6%B2%A9%E4%BB%B0%E5%AE%97 "沩仰宗")），此为禅宗的发展期，时间约当晚唐至[南宋](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%AE%8B "南宋")初。自南宋初年[临济宗](https://zh.wikipedia.org/wiki/%E8%87%A8%E6%BF%9F%E5%AE%97 "临济宗")[大慧宗杲](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%85%A7%E5%AE%97%E6%9D%B2 "大慧宗杲")起而倡“[话头禅](https://zh.wikipedia.org/wiki/%E8%A9%B1%E9%A0%AD%E7%A6%AA "话头禅")”，[曹洞宗](https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97 "曹洞宗")[宏智正觉](https://zh.wikipedia.org/wiki/%E5%AE%8F%E6%99%BA%E6%AD%A3%E8%A6%BA "宏智正觉")倡导“[默照禅](https://zh.wikipedia.org/wiki/%E9%BB%98%E7%85%A7%E7%A6%AA "默照禅")”，至于[明朝](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D "明朝")中晚期，此为禅宗的成熟期，又可称为中期禅宗。至于明朝中叶[净土宗](https://zh.wikipedia.org/wiki/%E6%B7%A8%E5%9C%9F%E5%AE%97_\(%E4%B8%AD%E5%9C%8B\) "净土宗 (中国)")兴起，此时佛教的特色为禅净合一，与儒、释、道[三教合一](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%95%99%E5%90%88%E4%B8%80 "三教合一")，禅净合一的影响，使得当时的僧人唯以[参话头](https://zh.wikipedia.org/wiki/%E5%8F%83%E8%A9%B1%E9%A0%AD "参话头")、[念弥陀](https://zh.wikipedia.org/wiki/%E5%8D%97%E7%84%A1%E9%98%BF%E5%BD%8C%E9%99%80%E4%BD%9B "南无阿弥陀佛")为主，禅宗逐渐失去创新的生命力，为禅宗的衰落期，又称为晚期禅宗，始于晚明至[清朝](https://zh.wikipedia.org/wiki/%E6%B8%85%E6%9C%9D "清朝")结束为止。清末民初之际，有鉴于[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")的衰微，[虚云](https://zh.wikipedia.org/wiki/%E8%99%9B%E9%9B%B2 "虚云")大师起而中兴禅宗，为近代禅宗中兴之祖。
+
+禅宗最盛行的流播地区主要为中国[江南](https://zh.wikipedia.org/wiki/%E6%B1%9F%E5%8D%97 "江南")以南，集中于[两湖](https://zh.wikipedia.org/wiki/%E5%85%A9%E6%B9%96 "两湖")、[两江](https://zh.wikipedia.org/wiki/%E5%85%A9%E6%B1%9F "两江")、[广东](https://zh.wikipedia.org/wiki/%E5%BB%A3%E6%9D%B1 "广东")、[福建](https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA "福建")一带。禅宗在中国[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")各宗派中流传时间最长，影响甚广，至今仍延绵不绝，在[中国哲学](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6 "中国哲学")思想及[艺术](https://zh.wikipedia.org/wiki/%E8%89%BA%E6%9C%AF "艺术")思想上有着重要的影响。自唐代创立后流传于[中国大陆](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8 "中国大陆")、[台湾](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3 "台湾")、[日本](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC "日本")、[朝鲜半岛](https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6 "朝鲜半岛")、[越南](https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97 "越南")等[汉字文化圈](https://zh.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88 "汉字文化圈")地区，至今不衰，[二次世界大战](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0 "二次世界大战")后，日本[铃木大拙](https://zh.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%A4%A7%E6%8B%99 "铃木大拙")至[美国](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B "美国")弘法，禅宗在欧美颇受欢迎，因而将禅宗的影响力推至世界各地。禅宗祖庭为嵩山[少林寺](https://zh.wikipedia.org/wiki/%E5%B0%91%E6%9E%97%E5%AF%BA "少林寺")、黄梅[东山寺](https://zh.wikipedia.org/wiki/%E4%BA%94%E7%A5%96%E5%AF%BA "五祖寺")、曹溪[南华寺](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%8D%8E%E5%AF%BA "南华寺")。
+
+
+
 ## Tibetan Buddhism | བོད་བརྒྱུད་ནང་བསྟན།（藏传佛教）
+> [!links]
 > ↗ [西藏地区历史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/🐟%20中国地区史/📌%20特别地区历史/西藏地区历史/西藏地区历史.md)
 
+[密宗](https://zh.wikipedia.org/wiki/%E5%AF%86%E5%AE%97 "密宗")
 
 
-## Theravāda Buddhism（南传佛教：上座部佛教）
+
+## Theravāda Buddhism in China（南传佛教：上座部佛教）
+> [!links]
+> ↗ [Buddhism (Buddha Dharma)](../🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 
 
 
