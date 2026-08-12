@@ -138,7 +138,7 @@ The [General Problem Solver](https://en.wikipedia.org/wiki/General_Problem_Solv
 
 ---
 **Agents & multi-agent system**
-- ↗ [Agents & Multi-Agent System](../../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+- ↗ [Agents & Multi-Agent System (MAS)](../../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
 
 [Agents](https://en.wikipedia.org/wiki/Software_agent) are autonomous systems embedded in an environment they perceive and act upon in some sense. Russell and Norvig's standard textbook on artificial intelligence is organized to reflect agent architectures of increasing sophistication. The sophistication of agents varies from simple reactive agents, to those with a model of the world and [automated planning](https://en.wikipedia.org/wiki/Automated_planning "Automated planning") capabilities, possibly a [BDI agent](https://en.wikipedia.org/wiki/Belief%E2%80%93desire%E2%80%93intention_software_model "Belief–desire–intention software model"), i.e., one with beliefs, desires, and intentions – or alternatively a [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning") model learned over time to choose actions – up to a combination of alternative architectures, such as a neuro-symbolic architecture that includes deep learning for perception.
 

@@ -105,7 +105,20 @@ The goal of this project is to translate the wonderful resource [http://e-maxx.
 The Art of Computer Programming (TAOCP) | by Donald E. Knuth.
 https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books?tab=readme-ov-file
 "Everyday life is like programming, I guess. If you love something you can put beauty into it." ― Donald E. Knuth
-https://a.co/d/eXI2bWd
+Volume 1
+- Fundamental Algorithms, Third Edition (Reading, Massachusetts: Addison-Wesley, 1997), xx+650pp. ISBN 0-201-89683-4  
+- Volume 1 Fascicle 1, MMIX: A RISC Computer for the New Millennium (2005), v+134pp. ISBN 0-201-85392-2
+Volume 2
+- Seminumerical Algorithms, Third Edition (Reading, Massachusetts: Addison-Wesley, 1997), xiv+762pp.   ISBN 0-201-89684-2
+Volume 3
+- Sorting and Searching, Second Edition (Reading, Massachusetts: Addison-Wesley, 1998), xiv+780pp.+foldout.   ISBN 0-201-89685-0
+Volume 4A
+- Combinatorial Algorithms, Part 1 (Upper Saddle River, New Jersey: Addison-Wesley, 2011), xvi+883pp.  ISBN 0-201-03804-8
+Volume 4B
+- Combinatorial Algorithms, Part 2 (Upper Saddle River, New Jersey: Addison-Wesley, 2023), xviii+714pp.  ISBN 0-201-03806-4
+Volume 5
+- Syntactic Algorithms, in preparation.
+
 
 📖 https://a.co/d/ggJCFpW
 Introduction to Algorithms, fourth edition 4th Edition

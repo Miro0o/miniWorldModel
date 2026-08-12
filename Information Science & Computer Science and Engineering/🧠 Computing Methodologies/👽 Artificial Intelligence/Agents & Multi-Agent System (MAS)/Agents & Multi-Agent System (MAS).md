@@ -1,4 +1,4 @@
-# Agents & Multi-Agent System
+# Agents & Multi-Agent System (MAS)
 
 [TOC]
 
@@ -27,6 +27,8 @@
 
 
 ### Other Resources
+https://matraix.ai/research/persona-8b.html
+Simulating the World with 8.3 Billion Personas
 
 
 

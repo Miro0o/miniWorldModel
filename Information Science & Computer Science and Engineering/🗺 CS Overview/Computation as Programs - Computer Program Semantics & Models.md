@@ -35,6 +35,10 @@
 ### Other Resources
 🔥 🎬【操作系统上的程序 (什么是程序和编译器) [南京大学2022操作系统-P2]】 https://www.bilibili.com/video/BV12L4y1379V/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+🏫 [CS61A Structure and Interpretation of Computer Programs](💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+📖 [Structure and Interpretation of Computer Programs (SICP)](https://web.mit.edu/6.001/6.037/sicp.pdf) 
+Harold Abelson and Gerald Jay Sussman with Julie Sussman
+
 
 
 ## Intro
@@ -108,7 +112,7 @@
 ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 
 
-### Programming Language Semantics 🆚 Program Semantics
+### Semantics: Programming Language, Program, and Program Execution
 ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
@@ -121,8 +125,10 @@
 	- execution and traces
 	- computational tree
 
+↗ [(Formal) Model Checking](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
-### (Program) Translation, Interpretation, and Abstraction
+
+### (Program) Translation, Interpretation, and Abstraction 🤔
 > [!links]
 > ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 > 
@@ -136,13 +142,13 @@ To translate a program, we yield a target program in another language of the sou
 - syntax: involved, must change
 - semantics: involved, must not change
 
-To interpret a program, we assign a (new) semantics to the source program (without changing the original semantics, i.e. no information added or lost). A semantics usually refers to any structure /model accepted by the interpreter or the human, that explains the semantics /meaning itself. Usually, we don't use a language to represent the semantics (since we are assigning /explaining the semantics here, we only want a structure or model that carries semantics only. However, we still can use a language as a semantics, and to interpret a program with another language. Though this would involve syntax.) A formal semantics means a mathematical structure /model that is a formal system.
+To interpret a program, we assign a (new) semantics to the source program (without changing the original semantics, i.e. no information added or lost). A semantics usually refers to any structure /model accepted by the interpreter or the human, that explains the semantics /meaning itself. Usually, we don't use a language to represent the semantics, instead we use a structure or a model itself (since we are assigning /explaining the semantics here, we only want a structure or model that carries semantics only. However, we still can use a language as a semantics, and to interpret a program with another language. Though this would involve syntax.) A formal semantics means a mathematical structure /model that is a formal system.
 - ↗ [Models of Computation & Abstract Machines](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 - ↗ [Programming Language & Formal Semantics](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 - syntax: not involved
 - semantics: involved, must not change
-To interpret a program, in a narrower sense, one might think of the action of an "interpreter" (which is a program itself) on a program, like a python interpreter: to translate the language (instructions) of a source program into target language in-the-fly, one instruction by one instruction. This is, by our definition above, still essentially program translation.
-(However, one might still say that to interpret a program in the action of an interpreter program, depending on how you want to define them 😃)
+To interpret a program, in a narrower sense, one might think of the action of an "interpreter" (which is a program itself) on a program, like a python interpreter: to translate the language (instructions) of a source program into target language in-the-fly, one instruction by one instruction. This is, by our definition above, still essentially program translation, not program interpretation.
+(However this is a little controversial (?). One might still say that to interpret a program in the action of an interpreter program. I think it depends on how you want to define them 😃)
 
 To abstract a program (program abstraction), we assign an abstract semantics (abstract domain) to the source program (concrete domain). Compared with the concrete domain (the original program), the abstract semantics loses information, but we aim to preserve the order within each domain, i.e. the Galois connection. 
 - ↗ [Program Abstraction & Abstract Interpretation](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)

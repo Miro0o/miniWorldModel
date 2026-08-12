@@ -584,7 +584,31 @@ ACM CCS 2012
 
 
 
-## Research Opportunities
+## CS History: People & Institutions
+> [!links]
+> ↗ [History of Computing](../🧠%20Computing%20Methodologies/History%20of%20Computing.md)
+> ↗ [History of Information Systems & Security Systems](../CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
+
+> [!Links]
+> 🔗 [ACM Prize in Computing](https://en.wikipedia.org/wiki/ACM_Prize_in_Computing "ACM Prize in Computing")
+> 🔗 [IEEE John von Neumann Medal](https://en.wikipedia.org/wiki/IEEE_John_von_Neumann_Medal "IEEE John von Neumann Medal")
+> 🔗 [List of computer science awards](https://en.wikipedia.org/wiki/List_of_computer_science_awards "List of computer science awards")
+> 🔗 [List of computer-related awards](https://en.wikipedia.org/wiki/List_of_computer-related_awards "List of computer-related awards")
+
+> 🔗 [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science "List of pioneers in computer science")
+
+
+### Turing Award
+> 🔗 https://en.wikipedia.org/wiki/Turing_Award
+
+The ACM A. M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) for contributions of lasting and major technical importance to computer science. It is generally recognized as the highest distinction in the field of computer science and is often referred to as the "Nobel Prize of Computing".[2][3][4][5][6] As of 2026, 81 people have been awarded the prize, with the most recent recipients being Charles H. Bennett and Gilles Brassard, who won in 2025.
+
+The award is named after Alan Turing, also referred as "Father of Computer Science", who was a British mathematician and reader in mathematics at the University of Manchester. Turing is often credited as being the founder of theoretical computer science and artificial intelligence,[7] and a key contributor to the Allied cryptanalysis of the Enigma cipher during World War II.[8] From 2007 to 2013, the award was accompanied by a prize of US$250,000, with financial support provided by Intel and Google.[2][9] Since 2014, the award has been accompanied by a prize of US$1 million, with financial support provided by Google.[1][10]
+
+The first recipient, in 1966, was Alan Perlis. The youngest recipient was Donald Knuth, who won in 1974 at the age of 36,[11] while the oldest recipient was Alfred Aho, who won in 2020 at the age of 79.[12] Three women have been awarded the prize: Frances Allen (in 2006),[13] Barbara Liskov (in 2008),[14] and Shafi Goldwasser (in 2012).[15]
+
+
+### Become a Researcher and Join The CS History!
 ↗ [(CS) Master & PhD Guide - Preparation & Application](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 ↗ [International Master & PhD Programmes](../🗺%20CS%20Overview/🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/International%20Master%20&%20PhD%20Programmes.md)
 

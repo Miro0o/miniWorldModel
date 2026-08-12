@@ -6,6 +6,10 @@
 
 ## Res
 ### Related Topics
+↗ [Bayesian Networks (Belief Networks)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Graphical%20Models/Probabilistic%20Graphical%20Models/Bayesian%20Networks%20(Belief%20Networks)/Bayesian%20Networks%20(Belief%20Networks).md)
+
+↗ [Artificial Intelligence](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
 
 
 ### Other Resources
