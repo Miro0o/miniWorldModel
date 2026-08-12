@@ -130,7 +130,7 @@ In this chapter, we address the computational issues involved in making decision
 > - ↗ [Cooperative Games](../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Cooperative%20Games/Cooperative%20Games.md)
 > 
 > ↗ [Games & Search in Multi-Agents Environment](../Problem%20Solving%20&%20Search-Based%20Methods/🎳%20Games%20&%20Search%20in%20Multi-Agents%20Environment/Games%20&%20Search%20in%20Multi-Agents%20Environment.md)
-> ↗ [Agents & Multi-Agent System](../../Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+> ↗ [Agents & Multi-Agent System (MAS)](../../Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
 > 
 > ↗ [Automated Planning and Scheduling (APS) & AI Planning](../../Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning/Automated%20Planning%20and%20Scheduling%20(APS)%20&%20AI%20Planning.md)
 

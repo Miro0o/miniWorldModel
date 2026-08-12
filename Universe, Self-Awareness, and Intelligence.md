@@ -679,7 +679,6 @@ or（感性，理性）X （认识，实践）
 
 %% > 弗洛伊德，波伏娃，福柯%%
 ###### 权力与等级 ⭐
-↗ [Power and Humanity - The Essence of Human](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Power%20and%20Humanity%20-%20The%20Essence%20of%20Human.md)
 
 社会关系就是人与人的权力等级。而社会关系又围绕社会发展的核心问题进行展开。也就是说，社会发展是人类存在的核心问题，围绕这个核心问题，我们又以权力关系为出发点发展出了一整套社会关系来组织社会解决这个核心问题。
 - 所以，讨论社会问题，要结合社会关系（社会存在）和社会发展两个角度。
@@ -1012,7 +1011,7 @@ tbd.
 
 > 这里有个疑问，就是在这种所谓的终极的计算机智能下，是否会有这样的情景：计算机智能的个体像人类一样组成社会，进而成为和人类存在完全相同的计算机智能存在？具有相同发展利益的计算机智能如果组成了社会，是否会像人类社会一样，社会内部出现权力分级，进而衍生出一系例其他社会关系？
 >
->↗ [Agents & Multi-Agent System](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System/Agents%20&%20Multi-Agent%20System.md)
+>↗ [Agents & Multi-Agent System (MAS)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
 >↗ [Game Theory & Multi-Agent Decision-Making](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/👩🏻‍⚖️%20Rational%20Decision-Making%20Problems%20&%20Theory/Game%20Theory%20&%20Multi-Agent%20Decision-Making/Game%20Theory%20&%20Multi-Agent%20Decision-Making.md)
 > 
 > 首先，我认为机器人智能的个体相互构成社会是完全有可能的。因为他们具有构成社会的条件 -- 理性（逻辑）和感性（情感）能力。

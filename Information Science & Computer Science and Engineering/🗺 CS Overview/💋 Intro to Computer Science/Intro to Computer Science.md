@@ -22,8 +22,9 @@
 
 
 ### Courses
-UC Berkeley CS61
+UC Berkeley CS61 ⭐
 - ↗ [CS61A Structure and Interpretation of Computer Programs](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+	- 📖 [Structure and Interpretation of Computer Programs (SICP)](https://web.mit.edu/6.001/6.037/sicp.pdf) Harold Abelson and Gerald Jay Sussman with Julie Sussman
 - ↗ [CS61B Data Structures](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
 - ↗ [CS61C Great Ideas in Computer Architecture](👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 
@@ -35,11 +36,6 @@ CMU Intro to Computer Science
 
 ↗ [NJU/计算机系统基础](👩🏼‍🏫%20Courses%20of%20Universities/NJU%20南京大学/计算机系统基础/计算机系统基础.md)
 ↗ [Harvard/CS50x](👩🏼‍🏫%20Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
-
-🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
-
-https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id_from=333.788.0.0
-合集·直观理解计算机技术
 
 
 ### Other Resources
@@ -57,6 +53,11 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 - Databases
 - Programming
 - Coding with Python
+
+🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
+
+https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id_from=333.788.0.0
+合集·直观理解计算机技术
 
 
 
@@ -759,8 +760,6 @@ These questions, from general to specific, track my path in learning CS. The lin
 ↗ [Academics 🎓 (In CS)](../../Academics%20🎓%20(In%20CS)/Academics%20🎓%20(In%20CS).md)
 ↗ [(CS) Master & PhD Guide - Preparation & Application](../🤲🏼%20Opportunities%20&%20Career%20Development/International%20Opportunities/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application/(CS)%20Master%20&%20PhD%20Guide%20-%20Preparation%20&%20Application.md)
 ↗ [(CS) Academics Roadmap & Tool Chain](../../Academics%20🎓%20(In%20CS)/🚸%20(CS)%20Academics%20Roadmap%20&%20Tool%20Chain/(CS)%20Academics%20Roadmap%20&%20Tool%20Chain.md)
-##### Government & Management & Consultation
-🤔
 #### Explore other parts of the Universe!
 ↗ [Universe, Self-Awareness, and Intelligence](../../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 - ↗ [Philosophy & Its History](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
