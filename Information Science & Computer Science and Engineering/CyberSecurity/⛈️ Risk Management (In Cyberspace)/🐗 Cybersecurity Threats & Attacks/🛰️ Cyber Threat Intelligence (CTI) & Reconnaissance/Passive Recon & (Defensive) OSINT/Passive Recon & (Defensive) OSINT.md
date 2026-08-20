@@ -10,8 +10,8 @@
 
 ↗ [Reconnaissance & Exploration Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/Reconnaissance%20&%20Exploration%20Tools.md)
 - ↗ [OSINT & Passive Recon Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSINT%20&%20Passive%20Recon%20Tools.md)
-	- ↗ [OSRFramework](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSRFramework.md)
-	- ↗ [Meltego](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Meltego.md)
+	- ↗ [OSRFramework](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/OSRFramework.md)
+	- ↗ [Meltego](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🍆%20Pen-testing%20Tools/Reconnaissance%20&%20Exploration%20Tools/📌%20OSINT%20&%20Passive%20Recon%20Tools/Meltego.md)
 	- etc.
 
 ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🔍%20Information%20Acquisition/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
@@ -394,6 +394,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 
 ## 1️⃣ Physical Level OSINT
+> [!links]
 > ↗ [Cyber Assets Attack Surface Management (CAASM)](../../../🐄%20Cyberspace%20Assets/🚀%20Attack%20Surface%20Management%20(ASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM)/Cyber%20Assets%20Attack%20Surface%20Management%20(CAASM).md)
 > ↗ [Cyberspace Assets Mapping & Management](../../../🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 > 
@@ -431,6 +432,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 
 ## 2️⃣ Logical Level OSINT
+> [!linlks]
 > ↗ [Active Recon & Offensive OSINT](../Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
 
 
@@ -461,6 +463,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 
 ## 3️⃣ Human Level OSINT
+> [!links]
 > ↗ [Active Recon & Offensive OSINT](../Active%20Recon%20&%20Offensive%20OSINT/Active%20Recon%20&%20Offensive%20OSINT.md)
 > ↗ [System User Enumeration](../Active%20Recon%20&%20Offensive%20OSINT/Host-Based/System%20User%20Enumeration.md)
 > ↗ [Password Management](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Password%20Management.md)
@@ -549,6 +552,7 @@ Information about the people and their roles in an organization
 
 
 ### User Profiling
+> [!links]
 > ↗ [Credentials & Password Related Tools](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/Credentials%20&%20Password%20Related%20Tools.md)
 > ↗ [Password Attack](../Active%20Recon%20&%20Offensive%20OSINT/Password%20Attack.md)
 
@@ -565,7 +569,7 @@ Using theHarvester is relatively simple, as there are only a few command switche
 - -f: This option is used to save the final results to an HTML and an XML file. If this option is omitted, the results will be displayed on the screen, and not saved.
 #### Creating custom wordlists for cracking passwords
 ##### 👉 CUPP
-↗ [CUPP (Common User Password Profiler)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
+↗ [CUPP (Common User Password Profiler)](../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
 ##### twofi
 🔗 https://github.com/digininja/twofi/tree/master
 

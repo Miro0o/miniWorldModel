@@ -6,7 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Awesome SE](Awesome%20SE.md)
 ↗ [Awesome Architect](Awesome%20Architect.md)
 ↗ [Awesome AI (Tools)](../../🔑%20CS%20Core/Generic%20Software%20Tools%20&%20Projects/🕶️%20Awesome%20AI%20(Tools)/Awesome%20AI%20(Tools).md)
 

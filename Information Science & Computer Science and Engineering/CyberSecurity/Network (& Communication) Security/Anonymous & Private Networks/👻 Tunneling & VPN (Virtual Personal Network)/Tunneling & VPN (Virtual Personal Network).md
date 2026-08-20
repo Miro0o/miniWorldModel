@@ -10,6 +10,7 @@
 ↗ [VPS (Virtual Private Server)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/VPS%20(Virtual%20Private%20Server).md)
 ↗ [VPC (Virtual Private Cloud)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC%20(Virtual%20Private%20Cloud).md)
 ↗ [vLAN & VxLAN](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [Virtual NIC (vNIC)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Physical%20Layer/Virtual%20NIC%20(vNIC)/Virtual%20NIC%20(vNIC).md)
 
 ↗ [NAT & NAPT (Network Address & Port Translation)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation).md)
 ↗ [NAT Traversal](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20&%20NAPT%20(Network%20Address%20&%20Port%20Translation)/NAT%20Traversal/NAT%20Traversal.md)
