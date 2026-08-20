@@ -11,6 +11,7 @@
 	- ↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
 	- ↗ [WireGuard](../👻%20Tunneling%20&%20VPN%20(Virtual%20Personal%20Network)/VPN%20&%20NAT%20Traversal%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 ↗ [VPS (Virtual Private Server)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/VPS%20(Virtual%20Private%20Server).md)
+↗ [Virtual NIC (vNIC)](../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/Network%20Virtualization%20(NV)/📌%20NV%20Implementations/Virtual%20Physical%20Layer/Virtual%20NIC%20(vNIC)/Virtual%20NIC%20(vNIC).md)
 
 ↗ [Reverse Proxy & Load Balancing & Application Servers](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers/Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers.md)
 - ↗ [frp (A Fast Reverse Proxy)](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/🐈%20Reverse%20Proxy%20&%20Load%20Balancing%20&%20Application%20Servers/Reverse%20Proxy%20Servers/frp%20(A%20Fast%20Reverse%20Proxy).md)
@@ -71,7 +72,6 @@ https://github.com/DiningFactory/panda-vpn-pro
 ### Learning Resources
 https://guide.v2fly.org/
 V2Ray 配置指南
-
 
 https://xtls.github.io/document/
 Project X document

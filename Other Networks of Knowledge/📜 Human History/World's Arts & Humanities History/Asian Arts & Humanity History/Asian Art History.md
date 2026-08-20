@@ -27,17 +27,19 @@
 
 
 
-## Buddhist Art
+## Buddhist Arts
 ↗ [Buddhism (Buddha Dharma)](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
+↗ [Buddhism Arts](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20Arts/Buddhism%20Arts.md)
 
 
 
-## Islamic Art
+## Islamic Arts
 ↗ [Islam](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
+↗ [Islamic Arts](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islamic%20Arts/Islamic%20Arts.md)
 
 
 
-## Chinese Art
+## Chinese Arts
 > [!links]
 > ↗ [中国美术史](../../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国人文艺术史/中国美术史.md)
 > ↗ [Buddhism in China](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Chinese%20Philosophy%20&%20Its%20History/Buddhism%20in%20China.md)
@@ -53,20 +55,25 @@
 中国艺术作品多见于宫廷和学院，其影响遍及整个东亚地区，包括[朝鲜](https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE_\(%E5%9C%B0%E5%8D%80\) "朝鲜 (地区)")、[越南](https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97 "越南")、[新加坡](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1 "新加坡")、[马来西亚](https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A "马来西亚")和[印度尼西亚](https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A "印度尼西亚")。十六世纪，[法国](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9C%8B "法国")等西欧各国涌见[中国热](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%83%AD "中国热")，对中国的许多方面均十分追捧，中国的工艺品尤其是[瓷器与陶器](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%93%B7%E5%99%A8%E8%88%87%E9%99%B6%E5%99%A8 "中国瓷器与陶器")在西欧各国相当受欢迎，这时的中国艺术对欧洲的艺术发展有着显著的影响。
 
 
-### Sino-Tibetan Art
+### Sino-Tibetan Arts
 
 
 
-## Japanese Art
+## Japanese Arts
 
 
 
-## Indian Art
+## Indian Arts
 
 
 
-## Arabic Art
+## Arabic Arts
+
+
+
+## South-East Asian Arts
 
 
 
 ## Ref
+[東南亞藝術的崛起]: https://www.isart.tw/zh-tw/article.php?act=view&id=72

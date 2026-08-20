@@ -35,7 +35,7 @@ qemu-img convert xxx.iso xxx.qcow2
 ```
 
 3.**Create VM**
-> ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](../../../📍%20Native%20Hypervisor/KVM/KVM.md) 
+> ⚠️ Note here `accel=hvf` is declared for macOS, while most Linux use `KVM` as an accelerator.  [Check out more about KVM here](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor%20(Bare%20Metal)/Link%20KVM%20(Kernel-based%20Virtual%20Machine)/Link%20KVM%20(Kernel-based%20Virtual%20Machine).md)
 
 ```shell
 # config may differ from variant os

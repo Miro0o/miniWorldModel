@@ -171,6 +171,9 @@ Applied Analysis
 John K. Hunter, Bruno Nachtergaele
 UC Davis
 
+https://github.com/DxAThing/Gaokao-Math-Problems-Compilation
+中国高考数学题库 PDF ｜ 1952 ～ 2026
+
 
 
 ## Intro: Mathematics
