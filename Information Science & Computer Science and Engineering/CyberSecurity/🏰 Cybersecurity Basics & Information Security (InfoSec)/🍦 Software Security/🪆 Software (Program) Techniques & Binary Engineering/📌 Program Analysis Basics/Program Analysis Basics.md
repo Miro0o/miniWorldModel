@@ -92,7 +92,7 @@ Flemming Nielson, Hanne Riis Nielson
 ### Program and Program Analysis
 > [!links]
 > ↗ [Math History & Development /Foundational Crisis of Mathematics](../../../../../🧮%20Mathematics/Math%20History%20&%20Development.md#Foundational%20Crisis%20of%20Mathematics)
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > 
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
@@ -155,7 +155,7 @@ Program Understanding
 
 
 ### Program's (Formal) Semantics
-↗ [Formal System, Formal Logics, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ↗ [Programming Language & Formal Semantics](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 ↗ [Computation as Programs - Computer Program Semantics & Models](../../../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
@@ -210,7 +210,7 @@ Interactive application security testing (abbreviated as IAST) is a security tes
 ### Evaluation of Program Analysis
 > [!links]
 > ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
-> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
 #### (Un)Decidability of Program Analysis
 > [!links]
 > ↗ [Function & Mapping of Set](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
@@ -291,13 +291,13 @@ However, all hope is not lost! Although it's mathematically impossible to make a
 #### Soundness, Truth, and Completeness
 > [!links]
 > ↗  [Logic (and Critical Thinking)](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
-> ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
+> ↗  [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/introduction.html##sec:1.6
 
 In most cases, you either care that something _may_ happen, or that it _must_ happen. In the program from before, we can quite easily say that it **may** fire the nukes. If we do not want the nukes from not being fired, we can flag this as a bug. However, we might also build a missile luncher, in which case the nukes **must** be fired when press the red button.
 
-These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
+These kinds of analyses allows us to error one of the sides. Here we steal some nomenclature from ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md). In logic **_soundness_** means that every provable statement is true, and **_completeness_** means that every true statement is provable.
 
 > [!DEF]
 > **Definition 3**: Soundness

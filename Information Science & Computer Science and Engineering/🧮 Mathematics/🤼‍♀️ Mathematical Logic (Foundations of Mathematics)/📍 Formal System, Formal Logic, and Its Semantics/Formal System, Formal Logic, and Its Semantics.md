@@ -1,4 +1,4 @@
-# Formal System, Formal Logics, and Its Semantics
+# Formal System, Formal Logic, and Its Semantics
 
 [TOC]
 
@@ -8,14 +8,16 @@
 ### Related Topics
 ↗ [Philosophy of Language](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
+↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 
 ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Logic Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
-↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-- ↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
 
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 ↗ [Type Theory (类型论)](🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
@@ -23,8 +25,8 @@
 ↗ [LISP-Based Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/LISP-Based%20Languages/LISP-Based%20Languages.md)
 ↗ [Expert System (ES)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20(ES)/Expert%20System%20(ES).md)
 
-↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
@@ -84,26 +86,276 @@ Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
 
-### Formal Systems
-> 公理 + 推导规则 -> 形式系统
-
+### Formal System
 > 🔗 https://en.wikipedia.org/wiki/Formal_system
 
-A **formal system** (or **deductive system**) is an [abstract structure](https://en.wikipedia.org/wiki/Abstract_structure "Abstract structure") and [formalization](https://en.wikipedia.org/wiki/Formalism_\(philosophy_of_mathematics\) "Formalism (philosophy of mathematics)") of an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system") used for [deducing](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), using [rules of inference](https://en.wikipedia.org/wiki/Rule_of_inference "Rule of inference"), [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") from [axioms](https://en.wikipedia.org/wiki/Axioms "Axioms").
+A **formal system** (or **deductive system**) is an [abstract structure](https://en.wikipedia.org/wiki/Abstract_structure "Abstract structure") and [formalization](https://en.wikipedia.org/wiki/Formalism_\(philosophy_of_mathematics\) "Formalism (philosophy of mathematics)") of an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system") (not really?) used for [deducing](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), using [rules of inference](https://en.wikipedia.org/wiki/Rule_of_inference "Rule of inference"), [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") from [axioms](https://en.wikipedia.org/wiki/Axioms "Axioms").
 
 In 1921, [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert") proposed to use formal systems as the foundation of knowledge in [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"). However, in 1931 [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel") proved that any [consistent](https://en.wikipedia.org/wiki/Consistency "Consistency") formal system sufficiently powerful to express basic arithmetic cannot prove its own [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)"). This effectively showed that [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") was impossible as stated.
 
 The term _formalism_ is sometimes a rough synonym for _formal system_, but it also refers to a given style of [notation](https://en.wikipedia.org/wiki/Notation "Notation"), for example, [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac "Paul Dirac")'s [bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation "Bra–ket notation").
-#### Formal System vs Axiomatic System?
-↗ [Mathematics](../../Mathematics.md)
+#### Formal System vs Axiomatic System ⭐
+> [!links]
+> ↗ [Mathematics](../../Mathematics.md)
+
+A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
+- Formal language = Alphabets + Formal syntax
+
+A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
+- Formal system = 
+	- Formal language + (Formal) Proof system, or
+	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
+- Syntactic entailment:
+	- $\Gamma \vdash \varphi$
+	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+**Axiomatic system** =
+- Same as formal system, but not necessarily formal language based.
+- Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+
+A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
+- $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
+- Semantic entailment:
+	- $\Gamma \models \varphi$
+	- $\Gamma$ semantically entail $\varphi$: **every interpretation/model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+
+To conclude:
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{positioning,arrows.meta}
+
+\begin{document}
+\begin{tikzpicture}[
+    >=Stealth,
+    every node/.style={
+        align=center
+    },
+    title/.style={
+        font=\bfseries
+    },
+    arrow/.style={
+        ->,
+        thick
+    }
+]
+
+% Titles
+\node[title] (axiomatic-title) at (0,2.5)
+    {Axiomatic System};
+
+\node[title] (formal-title) at (5,2.5)
+    {Formal System};
+
+% Main concepts
+\node (language) at (0,1.2)
+    {Language};
+
+\node (formal-language) at (5,1.2)
+    {Formal Language};
+
+\node (proof-system) at (0,-0.5)
+    {Proof System};
+
+\node (formal-proof) at (5,-0.5)
+    {Formal Proof System};
+
+\node (semantics) at (9,-0.5)
+    {Semantics};
+
+% Consequence notation
+\node (syntactic) at (5,-2)
+    {$\Gamma \vdash \varphi$};
+
+\node (semantic) at (9,-2)
+    {$\Gamma \models \varphi$};
+
+% Formalization arrows
+\draw[arrow]
+    (language) --
+    node[above, font=\scriptsize] {formalization}
+    (formal-language);
+
+\draw[arrow]
+    (proof-system) --
+    node[above, font=\scriptsize] {formalization}
+    (formal-proof);
+
+% Axiomatic system
+\draw[arrow]
+    (language) -- (proof-system);
+
+% Formal language branches
+\draw[arrow]
+    (formal-language) -- (formal-proof);
+
+\draw[arrow]
+    (formal-language) -- (semantics);
+
+% Syntactic / semantic consequence
+\draw[arrow]
+    (formal-proof) -- (syntactic);
+
+\draw[arrow]
+    (semantics) -- (semantic);
+
+\end{tikzpicture}
+\end{document}
+```
+
+> [!TIP]
+> The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
+> We list the truth value of these logic connectives to make things clearer:
+> 
+> $A\to B$ : (implication)
+> - if $A=1, B=0$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
+>
+> $A\implies B$ : (entailment)
+> - if $A\neq B$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
+> 
+> $A\vdash B$ (syntactic entailment)
+> - `A ⊢ B` does **not** have a truth value.  The symbol `⊢` is **not** a connective inside the logic (like ∧, ∨, →). It is a **meta-logical** symbol meaning: “B is derivable from A in some proof system.”
+> - This is a _relation between sentences and proofs_, not a proposition that can be true or false _inside_ the logic.
+> - You _can_ say informally that `A ⊢ B` is _true_ if there exists a syntactic proof of B from A, and _false_ if not—but that is a statement **outside** the logic, in the meta-theory.
+> 
+> $A\models B$ (semantic entailment)
+> - Same as `A ⊢ B`, it is **not a formula of the object language**.  It is a **meta-logical statement** about semantics, meaning "In every valuation (or model) where A is true, B is also true."
+> - Can it be “true” or “false”? 
+> 	- Yes—but only as a **meta-theoretical fact**, not as a truth value inside the logic.
+> 	- `A ⊨ B` is _true_ (in the meta-theory) if every model that satisfies A also satisfies B.
+> 	- It is _false_ if there exists at least one model where A is true and B is false.
+
+---
+> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+
+我们以一个称之为“pq”的系统为例。（出自《[哥德尔、艾舍尔、巴赫——集异璧之大成](https://book.douban.com/subject/1291204/)》）
+
+
+
+1️⃣ ==公理化步骤== /形式语言的构造 /语法层面
+**第一步**， 我们要有一些符号。
+例如：“pq系统”只有三个符号，`p`，`q`，`-`。
+
+**第二步**，我们要说明什么样的符号串是合法的，即指定一套语法。
+例如，我们规定“pq系统”中合法的符号串，形如`xqypz`，其中，`x`，`y`，`z`仅由一串短杠组成。
+```
+term := n 'q' n 'p' n  
+n := '-' | '-' n
+```
+
+因此，`--q-p-`，`---q--p-`都是合法的符号串。
+
+
+**第三步，** 我们要指定公理和推导规则，其中公理是推导的出发点，由公理推导得出的符号串称为定理。
+（1）“pq”系统的公理如下: 只要`x`仅由一串短杠组成，那么`x-qxp-`就是一条公理。
+（2）“pq”系统的推导规则是这样的:
+- 假设`x`，`y`和`z`都代表只包含短杠的特定的符号串，并且假设`xqypz`是一条已知的公理/定理，那么`x-qypz-`就是一条定理。
+- 即它们满足$\frac{xqypz}{x−qypz−}​$​​，表示如果$xqypz$是定理，则$x−qypz−$也是定理。
+
+例子：
+- 根据公理的定义，我们知道`--q-p-`是一条公理，
+- 又根据这条公理和推导规则，我们得到了`---q-p--`是一条定理。
+
+
+**小结：**
+以上三步我们通过公理化的方式构建了一个形式系统（公理系统），它由符号，语法，公理，推导规则组成，我们可以用公理和旧定理生成新定理，不断演算。
+
+在其他系统中，公理和定理的个数可能是有限的，而“pq”系统则是无限的。
+
+
+
+2️⃣  ==形式语言的解释（interpretation）== /语义层面
+我们说以上“pq系统”定义了一个形式语言，这里的“语言”是一种数学上的定义，指的是字符串的集合。“pq”系统的形式语言，就是系统中公理和定理的集合。
+
+考察一个形式语言，通常我们要研究它的两个方面，
+其一，形式语言的语法，指的是字符串的构成方式，
+其二，形式语言的语义，指的是每个字符串的含义。
+
+我想大家都已经读过《[计算机程序的构造与解释](https://book.douban.com/subject/1148282/)》了吧，所谓构造，指的就是语法，而解释指的就是语义。
+
+那我们来看一看“pq系统”的形式语言该怎样解释吧。
+
+我们可以选择这样的解释方式，例如，我们可以将`q`解释为“等于”，而将`p`解释为“加”，将短杠解释为数字。于是，`---q-p--`就可以被解释为“3等于1加2”了。
+
+值得注意的是，合理的解释并不一定是唯一的，例如，我们将`q`解释为“减”，将`p`解释为“等于”，也是可以的。
+
+考虑语义问题的时候，我们应该总是先想想，当前在对什么系统进行解释。
+例如，对“pq”系统，我们再引入一条新的公理，
+
+**新公理：** 只要`x`仅由一串短杠组成，那么`xqxp-`也是一条公理。
+
+现在来看，引入的新公理对“pq系统”产生了什么影响。
+首先，`-q-p-`在新系统中是一条公理，而在老系统中不是。
+其次，根据推导规则，`--q-p--`是新系统中的一条定理，而在老系统中也不是。
+
+考虑到我们之前对符号串的解释，我们发现，如果仍然沿用老系统对符号串的解释，`--q-p--`应该被解释为“2等于1加2”，这显然是不正确的。
+
+==因此，在系统发生变化的时候，旧的解释可能就行不通了，我们要对系统选择一个新的解释。== 例如，我们只需要将`q`解释为“小于或等于”就行了。然而，现在看来这种顺利成章的事情，却困扰了数学家们很多年。
+
+> 这是整个19世纪数学的最深刻的教训之一。
+
+> [!Example]
+> Euclidean Geometry (欧氏几何) vs Non-euclidean Geometry
+> ↗ [Geometry](Geometry/Geometry.md)
+> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+> 
+> > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+> 
+> 欧氏几何是第一个提出的公理系统。
+> 
+> 大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
+> 
+> > 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
+> 
+> 1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
+> 
+> 但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
+> 
+> 现在看来，这样理解当然是有问题的，因为，==它混淆了公理系统中的结论，和对这些结论的解释。== 就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
+> 
+> 关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
 #### Examples of Formal System
-Peano Axiom
-↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-- ↗ [Natural Number & Peano Axioms](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+Set Theory, Natural Number (As a Language), and Peano Axioms
+↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+
+> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
+
+**自然数语言与皮亚诺公理系统**
+
+从读小学的时候开始，我们就认识了自然数，我们可以从零开始计数，每个数字比它前面的多一，0 1 2 3 4 5 6 ⋯ 这些数字可以用来表示物品的个数。
+
+它们是如此的贴近生活，如此自然，以致我们一直以来，就把两个不同的**概念混淆**在了一起。
+一个概念是自然数的语法构造，属于编码问题，(syntax)
+另一个概念则是对这种语法构造的解释，属于语义问题。(semantics)
+
+为了看清这一点，我们使用公理化方式定义一个**自然数形式系统**。这个自然数形式系统就是皮亚诺系统。
+
+![](../../../../Assets/Pics/Pasted%20image%2020260111221646.png)
+
+在了解皮亚诺系统之前，我们首先要问自己这些问题：
+
+（1）这个形式系统包含了哪些符号呢？
+它只包含`0~9`，这个十个字符。
+
+（2）哪些符号串是合法的？
+一位符号串，或者不是`0`开头的多位符号串，都是合法的。所有这些合法的符号串，构成了一个集合，称为该形式系统的“**语言**”。
+
+（3）哪些符号串被认为是公理或定理，定理之间的推导规则是什么？
+对于自然数形式系统来说，符号串`0`可以看做公理，后继函数可以看做推导规则。
+
+（4）这些符号串的含义是什么？
+简单起见，我们可以直接指定符号串的含义为它所对应的那个自然数。
+例如，`3`是一个符号串，我们指定它对应33这个自然数。
+其中`3`是语法符号，33是数学对象。
 
 ---
 Formal Logics (Mathematical Logics)
 This note.
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+- ↗ [Second-Order Predicate Logic (二阶谓词逻辑)](Classical%20Logic%20(Standard%20Formal%20Logic)/Second-Order%20Predicate%20Logic%20(二阶谓词逻辑).md)
+- ↗ [Higher-Order Languages & Logics (HOL)](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Higher-Order%20Languages%20&%20Logics%20(HOL).md)
+- etc.
 
 ---
 Simplified Typed Lambda Calculus
@@ -119,12 +371,51 @@ Simplified Typed Lambda Calculus
 	- ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 - Cartesian closed category
 	- ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
+#### Algebra & Arithmetic Systems
+> [!links]
+> ↗ [Algebra](🧊%20Algebra/Algebra.md)
+> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
+> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
+
+在读小学的时候，数学课只有一门，主要学有理数的四则运算，而到了初中，数学就变成了两门，分为代数课与几何课，代数课主要讲方程和函数，几何课主要讲平面几何。
+
+平面几何是很直观的，也很容易和其他数学划清界线，因此，初中生们对“什么是几何”都没有太多疑惑。但是至于“**什么是代数**”，就比较费解了，这个问题也困扰了我很久。
+
+到大学，我们又学了线性代数，这种困扰日益加深，因为居然出现了一种“线性的”“代数”，却没有人事先告诉我们到底什么是“代数”。
+
+后来我们学了抽象代数，这个问题才得以解决，我找到了一个令自己满意的答案。
+
+为了说明“什么是代数”，最简单的办法就是下定义。
+- 设集合$M$上定义了一组运算，$a_1, a_2, ⋯ ,a_n$
+- 运算结果仍是$M$中的元素，则称$M$相对于这$n$个运算，构成了一个**代数**。
+
+> [!TIP]
+> 一般来说，代数问题的特点，是对一类问题，利用统一的运算性质，求出所有可能的解答。
+
+==因此，代数学就是研究**运算系统性质**的学问。==
+而Peano系统，是最简单的运算系统之一，又称为[一阶算术系统](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86)。自然数就是这个系统中的运算对象。(因此，小学数学也称为“算术”。)
+
+我们的整体思路是，首先用公理化的方式建立一个形式系统，然后为这个形式系统选择一种数学解释作为它的语义，这样就**建立了符号和数学对象之间的对应关系**。一般的，这些数学对象需要具有不同的运算性质，有不同的结构，因此构成了不同的代数。
+
+随着代数学的发展，人们发明了许多运算系统，例如，整数的加减法，有理数的四则运算，实数的根式或指数运算，等等。它们都有现实的对应物，仿佛数学的研究对象就是现实世界一样。
+
+然而，实际上并非如此。
+
+例如，复数$1+2i$，它是没有现实对应的，但是我们仍然可以对复数进行运算。一个n次方程可能在实数范围内无解，但必定会存在n个复数解。
+
+引入了复数之后，我们也才能体会到欧拉公式之美，$$e^{iπ}+1=0$$
+另一方面，代数学的研究重点也发生了改变，一开始人们研究的是单个的，独立的，具体的运算系统，但是后来人们逐渐发现，很多运算系统有相同的运算性质，可以**抽象**出来进行讨论。
+
+例如，计算机系统中的无符号数，连同加法运算，构成了一个阿贝尔群。而阿贝尔群中的加法，满足交换律和结合律，因此，编译器就可以采用任意的顺序进行计算，不影响最终结果。
+
+从运算性质的角度来分析问题，越来越流行了，成为了现代数学不可或缺的一部分，并且，代数学考虑问题的方法，也逐渐影响着其他学科。
 
 
-### The Process of (Logic) Language Formalization ⭐
+### Formal (Logic) Language
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
-> ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
@@ -231,7 +522,7 @@ From this view: Logics are **related species in a family**, not members of a sin
 > [!links]
 > ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > - ↗ [Linguistics](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Linguistics.md)
-> ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 > ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
@@ -268,18 +559,104 @@ From this view: Logics are **related species in a family**, not members of a sin
 > 
 > 哥德尔定理，它指出了形式化方法的局限性，任何包含初等算术$\Pi$的形式理论，都是不完全的，且自身的协调性无法在系统内部被证明。为了理解这句话，文中我们做出了严谨的定义，仔细建立了语法和语义之间的联系。
 > 实际上，语法（符号）层面的推导，属于公式的证明，而语义（模型）层面的推导，属于逻辑结论的推理。证明和推理之间的关系由系统的可靠性和完全性给出。
-##### Deductive Reasoning, Logic Inference, & Proof Calculus
-↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-#### Gödel's Incompleteness Theorems ⭐
+
+
+### Properties of Formal /Logic Systems (Syntax + Semantics) ⭐
+> [!links]
+> ↗ [Mathematics](../../Mathematics.md)
+> ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
+> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+
+> 🔗 https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/
+
+![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+<small>A Map of Mathematical Structures for AI <br>
+Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
+Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
+
+Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
+
+==We care primarily about three properties: soundness, completeness, and decidability. ==
+- Soundness relates to whether a statement shown to be true by the proof procedure via a syntactic proof is indeed true in the semantics of the logic.
+- Completeness relates to whether every statement that is true in the semantics of the logic has a syntactic proof in the proof procedure. 
+- Lastly, decidability relates to whether the proof procedure can effectively decide whether an arbitrary given statement is true or false. 
+
+**Propositional logic is sound, complete and decidable. First-order logic is sound, complete but not decidable. Higher-order logic (which includes second-order logic) with standard semantics is sound but incomplete, as shown by Gödel’s Incompleteness Theorem.** In practice, one can achieve completeness for higher-order logic by adopting the Henkin semantics, in which case one can show that higher-order logic is effectively equivalent to (many-sorted) first-order logic. (More technically, the domain of a type a -> b in a model in standard semantics consists of all functions from the domain of a to the domain of b, whereas a general model in the Henkin semantics only need to contain a non-empty subset of functions from the domain of a to the domain of b. By focussing on general models with elements that are nameable explicitly in the syntax of higher-order logic, Henkin was able to show that every consistent theory has a general model, which then opens the door to proving the contra-positive of the Completeness Theorem for higher-order logic; see [SV] for a clear and succinct description.) In the context of knowledge representation and reasoning for AI, the Henkin semantics is appropriate for higher-order logic, in which case we get the best of both worlds: an expressive language similar to informal mathematics for representing and reasoning about the world, while retaining the underlying soundness and completeness of first-order logic. (Decidability is not achievable for all but the simplest logics.)
+
+↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+#### Coherence /Consistence
+
+#### Decidability
+↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+- ↗ [Decidability](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
+↗ [Complexity Theory & Computational Complexity](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+↗ [Program Analysis Basics](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+#### Soundness & Completeness
+> [!links]
+> ↗ [Logic (and Critical Thinking) /Soundness, Truth, and Completeness](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
+> ↗ [Software Analysis Basics /Soundness, Truth, and Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+把公理系统的语法和语义联合起来，我们还可以定义出以下这些系统性质。
+- 如果序贯$Γ⊢Λ$可证，那么$Γ⊨Λ$成立，就说系统是**可靠的**。
+- 如果$Γ⊨A$成立，那么$Γ⊢A$可证，就说系统是**完全的**。
+
+---
+**Definition**: Soundness
+In a sound system, we can only prove true things.
+- if we can prove $\phi$ given $\Sigma$
+	- i.e. $(\Sigma \vdash \phi)$ 
+- then $\phi$ is **true** given $\Sigma$
+	- i.e. $(\Sigma \models \phi)$
+- i.e. $\Sigma \vdash \phi \implies \Sigma \models \phi$
+
+ **Definition 4**: Completeness
+ In a complete system, we can prove all true things. 
+- if $\phi$ is **true** given $\Sigma$
+	- $(\Sigma \models \phi)$
+- then $\phi$ is provable given $\Sigma$
+	- $(\Sigma \vdash \phi)$
+- i.e. $\Sigma \models \phi \implies \Sigma \vdash \phi$
+
+![](../../../../Assets/Pics/Pasted%20image%2020250908234809.png)
+##### Soundness
+> 🔗 https://en.wikipedia.org/wiki/Soundness
+
+In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), a [logical system](https://en.wikipedia.org/wiki/Logical_system "Logical system") has the soundness property if every [formula](https://en.wikipedia.org/wiki/Formula_\(mathematical_logic\) "Formula (mathematical logic)") that can be proved in the system is logically valid with respect to the [semantics](https://en.wikipedia.org/wiki/Formal_semantics_\(logic\) "Formal semantics (logic)") of the system. In most cases, this comes down to its rules having the property of _preserving [truth](https://en.wikipedia.org/wiki/Truth "Truth")_. The [converse](https://en.wikipedia.org/wiki/Converse_\(logic\)#Categorical_converse "Converse (logic)") of soundness is known as [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)").
+
+A logical system with [syntactic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Syntactic_consequence "Logical consequence") $\vdash$ and [semantic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Semantic_consequence "Logical consequence") $\models$ is **sound** if for any [sequence](https://en.wikipedia.org/wiki/Sequence "Sequence") $A_1, A_2, ..., A_n$ of [sentences](https://en.wikipedia.org/wiki/Sentence_\(mathematical_logic\) "Sentence (mathematical logic)") in its language, if $A_1, A_2, ..., A_n \vdash C$, then $A_1, A_2, ..., A_n \models C$. In other words, a system is sound when all of its [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") are [validities](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)").
+
+Soundness is among the most fundamental properties of mathematical logic. The soundness property provides the initial reason for counting a logical system as desirable. The [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property means that every validity (truth) is provable. Together they imply that all and only validities are provable.
+
+Most proofs of soundness are trivial. For example, in an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), proof of soundness amounts to verifying the validity of the axioms and that the rules of inference preserve validity (or the weaker property, truth). If the system allows [Hilbert-style deduction](https://en.wikipedia.org/wiki/Hilbert-style_deductive_system "Hilbert-style deductive system"), it requires only verifying the validity of the axioms and one rule of inference, namely [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens "Modus ponens") (and sometimes substitution).
+
+Soundness properties come in two main varieties: weak and strong soundness, of which the former is a restricted form of the latter.
+###### Weak Soundness
+Weak soundness of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system") is the property that any sentence that is provable in that deductive system is also true on all interpretations or structures of the semantic theory for the language upon which that theory is based. In symbols, where $S$ is the deductive system, $L$ the language together with its semantic theory, and _P_ a sentence of _L_: if $\vdash_S P$, then also $\models_L P$.
+###### Strong Soundness
+Strong soundness of a deductive system is the property that any sentence $P$ of the language upon which the deductive system is based that is derivable from a set $\Gamma$ of sentences of that language is also a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence "Logical consequence") of that set, in the sense that any model that makes all members of $\Gamma$ true will also make $P$ true. In symbols, where $\Gamma$ is a set of sentences of $L$: if $\Gamma \vdash_S P$, then also $\Gamma \models_L P$. Notice that in the statement of strong soundness, when $\Gamma$ is empty, we have the statement of weak soundness.
+###### Arithmetic Soundness
+If $T$ is a theory whose objects of discourse can be interpreted as [natural numbers](https://en.wikipedia.org/wiki/Natural_numbers "Natural numbers"), we say $T$ is **_arithmetically sound_** if all theorems of $T$ are actually true about the standard mathematical integers. For further information, see [ω-consistent theory](https://en.wikipedia.org/wiki/%CE%A9-consistent_theory "Ω-consistent theory").
+###### Relation to Completeness
+The converse of the soundness property is the semantic [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property. A deductive system with a semantic theory is strongly complete if every sentence $P$ that is a [semantic consequence](https://en.wikipedia.org/wiki/Semantic_consequence "Semantic consequence") of a set of sentences $\Gamma$ can be derived in the [deduction system](https://en.wikipedia.org/wiki/Deduction_system "Deduction system") from that set. In symbols: whenever $\Gamma \models P$, then also $\Gamma \vdash P$. Completeness of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic") was first [explicitly established](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem "Gödel's completeness theorem") by [Gödel](https://en.wikipedia.org/wiki/G%C3%B6del "Gödel"), though some of the main results were contained in earlier work of [Skolem](https://en.wikipedia.org/wiki/Skolem "Skolem").
+
+Informally, a soundness theorem for a deductive system expresses that all provable sentences are true. Completeness states that all true sentences are provable.
+
+[Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorem "Gödel's incompleteness theorem") shows that for languages sufficient for doing a certain amount of arithmetic, there can be no consistent and effective deductive system that is complete with respect to the intended interpretation of the symbolism of that language. Thus, not all sound deductive systems are complete in this special sense of completeness, in which the class of models (up to [isomorphism](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism")) is restricted to the intended one. The original completeness proof applies to _all_ classical models, not some special proper subclass of intended ones.
+##### Soundy & Soundiness
+↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
+##### Gödel's Incompleteness Theorems ⭐
+> [!TIP]
+> Incompleteness and Incoherence are Unprovable
+ 
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
-> ↗ [Set Theory & Axiomatic Set Theory](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-> - ↗ [Number Sets & Field Construction (Completion) and Extension](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-> - ↗ [Natural Number & Peano Axioms](../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+> ↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
+> - ↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
+> - ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
 > 
-> ↗ [Church–Turing Thesis (Computability Thesis)](../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
+> ↗ [Church–Turing Thesis (Computability Thesis)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Church–Turing%20Thesis%20(Computability%20Thesis).md)
 
 > 🔗 https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
 
@@ -313,32 +690,47 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 > 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
 
 
-### Classical Logic: Proposition & Predicate
+### Logic Language Systems
+Classical Logic: Proposition & Predicate
 ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 - ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 - ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 
-
-### Non-Classical Logics
+Non-Classical Logics
 ↗ [Intuitionistic (Constructive) Logic](Intuitionistic%20(Constructive)%20Logic/Intuitionistic%20(Constructive)%20Logic.md)
 ↗ [Modal Logic (模态逻辑)](Modal%20Logic%20(模态逻辑)/Modal%20Logic%20(模态逻辑).md)
 ↗ [Fuzzy Logic](Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
 ↗ [Paraconsistent Logic](Paraconsistent%20Logic/Paraconsistent%20Logic.md)
 
 
+---
+> 🔗 https://thzt.github.io/2017/09/10/type-4/
+> 🔗 https://thzt.github.io/2017/09/15/hilbert-style-and-gentzen-style-deduction-system/
+
+本文介绍了命题逻辑，以及与之相关的两个形式系统P和N，和$λ_β$​​，$CL_w$​​一样，我们采用了公理化的方式构建它们，这样得到的形式系统，只是符号演算，还没有被赋予特定的语义，下文我们开始介绍一阶谓词逻辑。
+
+> 🔗 https://thzt.github.io/2017/09/16/type-5/
+
+从形式系统的角度来看，一阶谓词逻辑，只是比命题逻辑多添加了一些公理，或者多添加了一些推导规则，然而，这样的举动，却会让形式系统截然不同。
+
+欧几里得第五公设，是一个公理，无法由前四个公设推导证明，在原来的欧氏几何中去掉它，然后添加上不同的第五公设，就变成了不同的几何，黎曼几何与闵可夫斯基几何。
+
+因此，不同的公理和推导规则，构成了不同的形式系统，哪怕是有很小的变化。本文我们来扩充前一篇中提到的，命题逻辑形式系统P，以及，命题逻辑的自然演绎系统N。
+
+本文介绍了两种风格的一阶谓词逻辑演算系统，其中$K​_\mathcal{L}$​​是Hilbert-style演绎系统，$N_\mathcal{L}$​​是Gentzen-style自然演绎系统，可以证明它们是等价的。
+
+
 
 ## Formal Syntax: Grammatical Category & Logic Formula
-↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](../Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
 
-↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-
-↗ [Mathematical Logic (Foundations of Mathematics)](../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 - ↗ [Classical Logic (Standard Formal Logic)](Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-↗ [Computer Languages & Programming Methodology](../../Computer%20Languages%20&%20Programming%20Methodology.md)
+↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 
-
+↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 
 
@@ -356,15 +748,16 @@ Employing a [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagon
 
 
 
-## Models & The Semantics of Mathematical Logics
+## Formal Semantics & Models
 > [!links]
 > ↗ [Syntax & Semantics of (Natural) Language](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Linguistics/Syntax%20&%20Semantics%20of%20(Natural)%20Language/Syntax%20&%20Semantics%20of%20(Natural)%20Language.md)
 > 
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
+> 
 > ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 > ↗ [Computation as Programs - Computer Program Semantics & Models](../../../🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
-> ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-> ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-> ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 > 
 > ↗ [Semantic Analysis](../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 > ↗ [Semantic Models & Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Database%20Languages/Object-Based%20Data%20Model%20Languages/Semantic%20Models%20&%20Languages/Semantic%20Models%20&%20Languages.md)
@@ -417,10 +810,10 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 有了赋值运算之后，公式中的变元就固定下来了，我们就可以谈论在某一指定赋值运算下公式的语义了。
 ##### Models & Semantics ⭐
 > [!lnks]
-> ↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 > ↗ [Henkin Model & Henkin Semantics](🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 > ↗ [Cartesian Closed Category (CCC)](../../🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
-> ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 
@@ -508,9 +901,9 @@ Specifically, we consider the mapping between these two sets of objects: one is 
 > ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 > - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 > 
-> ↗ [Complexity Theory & Computational Complexity](../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
+> ↗ [Complexity Theory & Computational Complexity](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 > ![|400](../../../../Assets/Pics/Pasted%20image%2020250801223400.png)
-> ↗ [Computationally Hard Problems](../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
+> ↗ [Computationally Hard Problems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Algorithm%20Complexity/Computationally%20Hard%20Problems.md)
 
 > 📄 [Cook71] S. A. Cook. The complexity of theorem proving procedures. In Proceedings of the Third Annual ACM Symposium on the Theory of Computing, pages 151–158, 1971
 
@@ -548,11 +941,11 @@ Further, a SAT solver (zero-th order logic) can be extend to a SMT solver (first
 #### (Mathematical Logic) Language and (Computation) Models
 ↗ [Language & Literature](../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 ↗ [Mathematical Modeling & Abstraction](../../Mathematical%20Modeling%20&%20Abstraction.md)
-↗ [Model Theory (模型论)](../Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 
-↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-- ↗ [Models of Computation & Abstract Machines](../😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-- ↗ [Automata Theory and (Formal) Language Theory](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+- ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Computer Languages & Programming Methodology](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Computer%20Languages%20&%20Programming%20Methodology.md)
 - ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
@@ -564,7 +957,7 @@ In computer science, however, there are some certain languages (in the form of m
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
-For example, a high-level programming language, say ↗ [Java](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md), have semantics to some sort of computational model, at a horizontal level, say a ↗ [Linear-Bounded Automaton (LBA)](../😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md). Also, a high-level programming language can have semantics to a low-level language as well, at a vertical level, say ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md).
+For example, a high-level programming language, say ↗ [Java](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md), have semantics to some sort of computational model, at a horizontal level, say a ↗ [Linear-Bounded Automaton (LBA)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Context-Sensitive%20Languages%20(CSL)%20&%20Linear-Bounded%20Automata%20(LBA).md). Also, a high-level programming language can have semantics to a low-level language as well, at a vertical level, say ↗ [Operational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Operational%20Semantics/Operational%20Semantics.md).
 
 Likewise, a low-level mathematical logic can also have semantics to another low-level mathematical logic, or to a high-level programming language, or some sort of computational model as well! 
 
@@ -576,118 +969,17 @@ In the study of Computer Science, we learn both those mathematical logics and co
 %%
 
 
-### Properties of Logical Systems (Syntax + Semantics) ⭐
-> [!links]
-> ↗ [Mathematics](../../Mathematics.md)
-> ↗ [Logic (and Critical Thinking) /Properties & Evaluation of Logics](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Properties%20&%20Evaluation%20of%20Logics)
-> ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 
-> 🔗 https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/
+## Proof, Reason, and Computation
+↗ [Mathematics](../../Mathematics.md) "Proof, Reason, and Computation"
 
-![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
-<small>A Map of Mathematical Structures for AI <br>
-Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
-Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
+↗ [Proof Theory](../Proof%20Theory/Proof%20Theory.md)
 
-Essentially all the systems have a syntax, a semantics in the styles of Tarski or Kripke, and a Hilbert-style proof procedure (↗ [Hilbert-Style Deduction Systems](../Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)). The expressiveness of the different systems are tightly connected. **The progression from propositional logic (Boolean algebra) to first-order logic (predicate calculus), second-order logic (Natural numbers) and ultimately higher-order logic (Type theory) is a well-studied area, albeit one with many intricacies.** 
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
-==We care primarily about three properties: soundness, completeness, and decidability. ==
-- Soundness relates to whether a statement shown to be true by the proof procedure via a syntactic proof is indeed true in the semantics of the logic.
-- Completeness relates to whether every statement that is true in the semantics of the logic has a syntactic proof in the proof procedure. 
-- Lastly, decidability relates to whether the proof procedure can effectively decide whether an arbitrary given statement is true or false. 
+↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
-**Propositional logic is sound, complete and decidable. First-order logic is sound, complete but not decidable. Higher-order logic (which includes second-order logic) with standard semantics is sound but incomplete, as shown by Gödel’s Incompleteness Theorem.** In practice, one can achieve completeness for higher-order logic by adopting the Henkin semantics, in which case one can show that higher-order logic is effectively equivalent to (many-sorted) first-order logic. (More technically, the domain of a type a -> b in a model in standard semantics consists of all functions from the domain of a to the domain of b, whereas a general model in the Henkin semantics only need to contain a non-empty subset of functions from the domain of a to the domain of b. By focussing on general models with elements that are nameable explicitly in the syntax of higher-order logic, Henkin was able to show that every consistent theory has a general model, which then opens the door to proving the contra-positive of the Completeness Theorem for higher-order logic; see [SV] for a clear and succinct description.) In the context of knowledge representation and reasoning for AI, the Henkin semantics is appropriate for higher-order logic, in which case we get the best of both worlds: an expressive language similar to informal mathematics for representing and reasoning about the world, while retaining the underlying soundness and completeness of first-order logic. (Decidability is not achievable for all but the simplest logics.)
-
-↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-#### Decidability
-↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-- ↗ [Decidability](../😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Decidability.md)
-↗ [Complexity Theory & Computational Complexity](../😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-↗ [Program Analysis Basics](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
-#### Soundness & Completeness
-> [!links]
-> ↗ [Logic (and Critical Thinking) /Soundness, Truth, and Completeness](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Soundness,%20Truth,%20and%20Completeness)
-> ↗ [Software Analysis Basics /Soundness, Truth, and Completeness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Soundness,%20Truth,%20and%20Completeness)
-
-> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
-
-把公理系统的语法和语义联合起来，我们还可以定义出以下这些系统性质。
-- 如果序贯$Γ⊢Λ$可证，那么$Γ⊨Λ$成立，就说系统是**可靠的**。
-- 如果$Γ⊨A$成立，那么$Γ⊢A$可证，就说系统是**完全的**。
-
----
-**Definition**: Soundness
-In a sound system, we can only prove true things.
-- if we can prove $\Phi$ given $\Sigma$
-	- i.e. $(\Sigma \vdash \Phi)$ 
-- then $\Phi$ is **true** given $\Sigma$
-	- i.e. $(\Sigma \models Φ)$
-- i.e. $\Sigma \vdash \Phi \implies \Sigma \models \Phi$
-
- **Definition 4**: Completeness
- In a complete system, we can prove all true things. 
-- if $\Phi$ is **true** given $\Sigma$
-	- $(\Sigma \models \Phi)$
-- then $\Phi$ is provable given $\Sigma$
-	- $(\Sigma \vdash \Phi)$
-- i.e. $\Sigma \models \Phi \implies \Sigma \vdash \Phi$
-
-> [!TIP]
-> The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
-> We list the truth value of these logic connectives to make things clearer:
-> 
-> $A\to B$ : (implication)
-> - if $A=1, B=0$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
->
-> $A\implies B$ : (entailment)
-> - if $A\neq B$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
-> 
-> $A\vdash B$ (syntactic entailment)
-> - `A ⊢ B` does **not** have a truth value.  The symbol `⊢` is **not** a connective inside the logic (like ∧, ∨, →). It is a **meta-logical** symbol meaning: “B is derivable from A in some proof system.”
-> - This is a _relation between sentences and proofs_, not a proposition that can be true or false _inside_ the logic.
-> - You _can_ say informally that `A ⊢ B` is _true_ if there exists a syntactic proof of B from A, and _false_ if not—but that is a statement **outside** the logic, in the meta-theory.
-> 
-> $A\models B$ (semantic entailment)
-> - Same as `A ⊢ B`, it is **not a formula of the object language**.  It is a **meta-logical statement** about semantics, meaning "In every valuation (or model) where A is true, B is also true."
-> - Can it be “true” or “false”? 
-> 	- Yes—but only as a **meta-theoretical fact**, not as a truth value inside the logic.
-> 	- `A ⊨ B` is _true_ (in the meta-theory) if every model that satisfies A also satisfies B.
-> 	- It is _false_ if there exists at least one model where A is true and B is false.
-
-
-![](../../../../Assets/Pics/Pasted%20image%2020250908234809.png)
-##### Soundness
-> 🔗 https://en.wikipedia.org/wiki/Soundness
-
-In [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), a [logical system](https://en.wikipedia.org/wiki/Logical_system "Logical system") has the soundness property if every [formula](https://en.wikipedia.org/wiki/Formula_\(mathematical_logic\) "Formula (mathematical logic)") that can be proved in the system is logically valid with respect to the [semantics](https://en.wikipedia.org/wiki/Formal_semantics_\(logic\) "Formal semantics (logic)") of the system. In most cases, this comes down to its rules having the property of _preserving [truth](https://en.wikipedia.org/wiki/Truth "Truth")_. The [converse](https://en.wikipedia.org/wiki/Converse_\(logic\)#Categorical_converse "Converse (logic)") of soundness is known as [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)").
-
-A logical system with [syntactic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Syntactic_consequence "Logical consequence") $\vdash$ and [semantic entailment](https://en.wikipedia.org/wiki/Logical_consequence#Semantic_consequence "Logical consequence") $\models$ is **sound** if for any [sequence](https://en.wikipedia.org/wiki/Sequence "Sequence") $A_1, A_2, ..., A_n$ of [sentences](https://en.wikipedia.org/wiki/Sentence_\(mathematical_logic\) "Sentence (mathematical logic)") in its language, if $A_1, A_2, ..., A_n \vdash C$, then $A_1, A_2, ..., A_n \models C$. In other words, a system is sound when all of its [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem") are [validities](https://en.wikipedia.org/wiki/Validity_\(logic\) "Validity (logic)").
-
-Soundness is among the most fundamental properties of mathematical logic. The soundness property provides the initial reason for counting a logical system as desirable. The [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property means that every validity (truth) is provable. Together they imply that all and only validities are provable.
-
-Most proofs of soundness are trivial. For example, in an [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), proof of soundness amounts to verifying the validity of the axioms and that the rules of inference preserve validity (or the weaker property, truth). If the system allows [Hilbert-style deduction](https://en.wikipedia.org/wiki/Hilbert-style_deductive_system "Hilbert-style deductive system"), it requires only verifying the validity of the axioms and one rule of inference, namely [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens "Modus ponens") (and sometimes substitution).
-
-Soundness properties come in two main varieties: weak and strong soundness, of which the former is a restricted form of the latter.
-###### Weak Soundness
-Weak soundness of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system") is the property that any sentence that is provable in that deductive system is also true on all interpretations or structures of the semantic theory for the language upon which that theory is based. In symbols, where $S$ is the deductive system, $L$ the language together with its semantic theory, and _P_ a sentence of _L_: if $\vdash_S P$, then also $\models_L P$.
-###### Strong Soundness
-Strong soundness of a deductive system is the property that any sentence $P$ of the language upon which the deductive system is based that is derivable from a set $\Gamma$ of sentences of that language is also a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence "Logical consequence") of that set, in the sense that any model that makes all members of $\Gamma$ true will also make $P$ true. In symbols, where $\Gamma$ is a set of sentences of $L$: if $\Gamma \vdash_S P$, then also $\Gamma \models_L P$. Notice that in the statement of strong soundness, when $\Gamma$ is empty, we have the statement of weak soundness.
-###### Arithmetic Soundness
-If $T$ is a theory whose objects of discourse can be interpreted as [natural numbers](https://en.wikipedia.org/wiki/Natural_numbers "Natural numbers"), we say $T$ is **_arithmetically sound_** if all theorems of $T$ are actually true about the standard mathematical integers. For further information, see [ω-consistent theory](https://en.wikipedia.org/wiki/%CE%A9-consistent_theory "Ω-consistent theory").
-###### Relation to Completeness
-The converse of the soundness property is the semantic [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") property. A deductive system with a semantic theory is strongly complete if every sentence $P$ that is a [semantic consequence](https://en.wikipedia.org/wiki/Semantic_consequence "Semantic consequence") of a set of sentences $\Gamma$ can be derived in the [deduction system](https://en.wikipedia.org/wiki/Deduction_system "Deduction system") from that set. In symbols: whenever $\Gamma \models P$, then also $\Gamma \vdash P$. Completeness of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic") was first [explicitly established](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem "Gödel's completeness theorem") by [Gödel](https://en.wikipedia.org/wiki/G%C3%B6del "Gödel"), though some of the main results were contained in earlier work of [Skolem](https://en.wikipedia.org/wiki/Skolem "Skolem").
-
-Informally, a soundness theorem for a deductive system expresses that all provable sentences are true. Completeness states that all true sentences are provable.
-
-[Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorem "Gödel's incompleteness theorem") shows that for languages sufficient for doing a certain amount of arithmetic, there can be no consistent and effective deductive system that is complete with respect to the intended interpretation of the symbolism of that language. Thus, not all sound deductive systems are complete in this special sense of completeness, in which the class of models (up to [isomorphism](https://en.wikipedia.org/wiki/Isomorphism "Isomorphism")) is restricted to the intended one. The original completeness proof applies to _all_ classical models, not some special proper subclass of intended ones.
-##### Soundy & Soundiness
-↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
-#### Incompleteness and Incoherence are Unprovable
-Gödel's Incompleteness Theorems
-
-
-
-## Formal Logics & Reasoning and Theorem Proving
 ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
 - ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 
@@ -695,8 +987,6 @@ Gödel's Incompleteness Theorems
 - ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
-
-↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 - ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)

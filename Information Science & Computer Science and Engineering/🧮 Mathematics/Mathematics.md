@@ -229,559 +229,6 @@ Mathematics is used in most [sciences](https://en.wikipedia.org/wiki/Science "S
 There is still a [philosophical](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics") debate whether mathematics is a science. However, in practice, mathematicians are typically grouped with scientists, and mathematics shares much in common with the physical sciences. Like them, it is [falsifiable](https://en.wikipedia.org/wiki/Falsifiable "Falsifiable"), which means in mathematics that, if a result or a theory is wrong, this can be proved by providing a [counterexample](https://en.wikipedia.org/wiki/Counterexample "Counterexample"). Similarly as in science, [theories](https://en.wikipedia.org/wiki/Mathematical_theory "Mathematical theory") and results (theorems) are often obtained from [experimentation](https://en.wikipedia.org/wiki/Experimentation "Experimentation"). In mathematics, the experimentation may consist of computation on selected examples or of the study of figures or other representations of mathematical objects (often mind representations without physical support). For example, when asked how he came about his theorems, Gauss once replied "durch planmässiges Tattonieren" (through systematic experimentation). However, some authors emphasize that mathematics differs from the modern notion of science by not _relying_ on empirical evidence
 
 
-### Notes, Languages, Rigor, and Axioms
-> 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E7%AC%A6%E8%99%9F%E3%80%81%E8%AA%9E%E8%A8%80%E8%88%87%E7%B2%BE%E7%A1%AE%E6%80%A7
-
-我们现今所使用的大部分数学符号在16世纪后才被发明出来的。在此之前，数学以文字的形式书写出来，这种形式会限制了数学的发展。现今的符号使得数学对于专家而言更容易掌握，但初学者却常对此望而却步。它被极度的压缩：少量的符号包含着大量的讯息。如同音乐符号一般，现今的数学符号有明确的语法，并且有效地对讯息作编码，这是其他书写方式难以做到的。符号化和形式化使得数学迅速发展，并帮助各个科学领域建立基础支撑理论。
-
-数学语言亦对初学者而言感到困难。如“或”和“只”这些字有着比日常用语更精确的意思。亦困恼著初学者的，如“[开放](https://zh.wikipedia.org/wiki/%E5%BC%80%E9%9B%86 "开集")”和“[域](https://zh.wikipedia.org/wiki/%E5%9F%9F_\(%E6%95%B8%E5%AD%B8\) "域 (数学)")”等字在数学里有着特别的意思。[数学术语](https://zh.wikipedia.org/w/index.php?title=%E6%95%B8%E5%AD%B8%E8%A1%93%E8%AA%9E&action=edit&redlink=1 "数学术语（页面不存在）")亦包括如“[同胚](https://zh.wikipedia.org/wiki/%E5%90%8C%E8%83%9A "同胚")”及“[可积性](https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E7%A9%8D%E6%80%A7&action=edit&redlink=1 "可积性（页面不存在）")”等专有名词。但使用这些特别符号和专有术语是有其原因的：数学需要比日常用语更多的精确性。数学家将此对语言及逻辑精确性的要求称为“严谨”。但在现实应用中，舍弃一些严谨性往往会得到更好的结果。
-
-[严谨](https://zh.wikipedia.org/wiki/%E4%B8%A5%E8%B0%A8_\(%E6%95%B0%E5%AD%A6\) "严谨 (数学)")是[数学证明](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E "数学证明")中很重要且基本的一部分。数学家希望他们的定理以系统化的推理依著公理被推论下去。这是为了避免依著不可靠的直观而推出错误的“[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")”，而这情形在历史上曾出现过许多的例子。在数学中被期许的严谨程度因着时间而不同：希腊人期许著仔细的论证，但在[牛顿](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF "艾萨克·牛顿")的时代，所使用的方法则较不严谨。牛顿为了解决问题所做的定义，到了十九世纪才重新以小心的分析及正式的证明来处理。今日，数学家们则持续地在争论[电脑协助证明](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E5%8D%94%E5%8A%A9%E8%AD%89%E6%98%8E "电脑协助证明")的严谨度。当大量的计算难以被验证时，其证明亦很难说是足够地严谨。
-
-[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")在传统的思想中是“不证自明的真理”，但这种想法是有问题的。在形式上，公理只是一串符号，其只对可以由[公理系统](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")导出的公式之内容有意义。[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")即是想将所有的数学放在坚固的公理基础上，但依据[哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86 "哥德尔不完备定理")，每一[相容](https://zh.wikipedia.org/wiki/%E4%B8%80%E8%87%B4%E6%80%A7_\(%E9%82%8F%E8%BC%AF\) "一致性 (逻辑)")且能蕴涵[皮亚诺公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9E%E8%AB%BE%E5%85%AC%E7%90%86 "皮亚诺公理")的公理系统必含有一不可决定的公式；因而所有数学的最终[公理化](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")是不可能的。尽管如此，数学常常被想像成只是某种公理化的[集合论](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AE%BA "集合论")，在此意义下，所有数学叙述或证明都可以写成集合论的公式。
-#### Mathematical Notations
-> 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
-
-Mathematical notation is widely used in science and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") for representing complex [concepts](https://en.wikipedia.org/wiki/Concept "Concept") and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)") in a concise, unambiguous, and accurate way. This notation consists of [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") used for representing [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)"), unspecified numbers, [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") and any other mathematical objects, and then assembling them into [expressions](https://en.wikipedia.org/wiki/Expression_\(mathematics\) "Expression (mathematics)") and formulas. More precisely, numbers and other mathematical objects are represented by symbols called variables, which are generally [Latin](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") or [Greek](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") letters, and often include [subscripts](https://en.wikipedia.org/wiki/Subscript "Subscript"). Operation and relations are generally represented by specific [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") or [glyphs](https://en.wikipedia.org/wiki/Glyph "Glyph"), such as + ([plus](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")), × ([multiplication](https://en.wikipedia.org/wiki/Multiplication_sign "Multiplication sign")), ∫([integral](https://en.wikipedia.org/wiki/Integral_sign "Integral sign")), = ([equal](https://en.wikipedia.org/wiki/Equals_sign "Equals sign")), and < ([less than](https://en.wikipedia.org/wiki/Less-than_sign "Less-than sign")). All these symbols are generally grouped according to specific rules to form expressions and formulas. Normally, expressions and formulas do not appear alone, but are included in sentences of the current language, where expressions play the role of [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase") and formulas play the role of [clauses](https://en.wikipedia.org/wiki/Clause "Clause").
-#### Mathematical Terminology
-> 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
-
-Mathematics has developed a rich terminology covering a broad range of fields that study the properties of various abstract, idealized objects and how they interact. It is based on rigorous [definitions](https://en.wikipedia.org/wiki/Technical_definition "Technical definition") that provide a standard foundation for communication. An axiom or [postulate](https://en.wikipedia.org/wiki/Postulate "Postulate") is a mathematical statement that is taken to be true without need of proof. If a mathematical statement has yet to be proven (or disproven), it is termed a [conjecture](https://en.wikipedia.org/wiki/Conjecture "Conjecture"). Through a series of rigorous arguments employing [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), a statement that is [proven](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") to be true becomes a theorem. A specialized theorem that is mainly used to prove another theorem is called a [lemma](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)"). A proven instance that forms part of a more general finding is termed a [corollary](https://en.wikipedia.org/wiki/Corollary "Corollary").
-##### Definitions, Theorems, and Proofs
-> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
-
-Theorems and proofs are the heart and soul of mathematics and definitions are its spirit. These three entities are central to every mathematical subject.
-
-==**Definitions** describe the objects and notions that we use.== A definition may be simple, as in the definition of set given earlier in this chapter, or complex as in the definition of security in a cryptographic system. Precision is essential to any mathematical definition. When defining some object, we must make clear what constitutes that object and what does not.
-
-After we have defined various objects and notions, we usually make **mathematical statements** about them. Typically, ==a (mathematical) statement expresses that some object has a certain property.== The statement may or may not be true; but like a definition, it must be precise. No ambiguity about its meaning is allowed.
-
-==A **proof** is a convincing logical argument that a statement is true.== In mathematics, an argument must be airtight; that is, convincing in an absolute sense. In everyday life or in the law, the standard of proof is lower. A murder trial demands proof “beyond any reasonable doubt.” The weight of evidence may compel the jury to accept the innocence or guilt of the suspect. However, evidence plays no role in a mathematical proof. A mathematician demands proof beyond any doubt.
-
-==A **theorem** is a mathematical statement proved true.== Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
-#### Proofing, Reasoning, and Computing
-> [!links]
-> ↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
-> ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> 
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
-
-##### Finding Proofs
-> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
-#### Types of Proofs ⭐
-> [!links]
-> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-> ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-> 
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-> - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
->
->↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) 
->↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
->- ↗ [Automated & Generic Theorem Provers](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
->
->↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
->- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
->
->↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
->- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
-
-> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
-##### Proof by Construction (构造法)
-
-##### Proof by Contradiction (反证法，归谬法)
-
-##### Proof by Induction (归纳法)
-> 🔗 https://en.wikipedia.org/wiki/Mathematical_induction
-
-**Mathematical induction** is a method for [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") that a statement $P(n)$ is true for every [natural number](https://en.wikipedia.org/wiki/Natural_number "Natural number") $n$, that is, that the infinitely many cases $\displaystyle P(0),P(1),P(2),P(3),\dots$  all hold. This is done by first proving a simple case, then also showing that if we assume the claim is true for a given case, then the next case is also true. Informal metaphors help to explain this technique, such as falling dominoes or climbing a ladder:
-
-> [!quote]
-> Mathematical induction proves that we can climb as high as we like on a ladder, by proving that we can climb onto the bottom rung (the **basis**) and that from each rung we can climb up to the next one (the **step**).
-> — _[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics "Concrete Mathematics")_, page 3 margins.
-
-A **proof by induction** consists of two cases. The first, the **base case**, proves the statement for $n=0$ without assuming any knowledge of other cases. The second case, the **induction step**, proves that _if_ the statement holds for any given case $n=k$, _then_ it must also hold for the next case $n=k+1$. These two steps establish that the statement holds for every natural number $n$. The base case does not necessarily begin with $n=0$, but often with $n=1$, and possibly with any fixed natural number $n=N$, establishing the truth of the statement for all natural numbers $n≥N$.
-
-The method can be extended to prove statements about more general [well-founded](https://en.wikipedia.org/wiki/Well-founded "Well-founded") structures, such as [trees](https://en.wikipedia.org/wiki/Tree_\(set_theory\) "Tree (set theory)"); this generalization, known as [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction"), is used in [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). Mathematical induction in this extended sense is closely related to [recursion](https://en.wikipedia.org/wiki/Recursion "Recursion"). Mathematical induction is an [inference rule](https://en.wikipedia.org/wiki/Inference_rule "Inference rule") used in [formal proofs](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"), and is the foundation of most [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") proofs for computer programs.
-
-==Despite its name, mathematical induction differs fundamentally from [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") as [used in philosophy](https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction")==, in which the examination of many cases results in a probable conclusion. The mathematical method examines infinitely many cases to prove a general statement, but it does so by a finite chain of [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") involving the [variable](https://en.wikipedia.org/wiki/Variable_\(mathematics\) "Variable (mathematics)") $n$, which can take infinitely many values. The result is a rigorous proof of the statement, not an assertion of its probability.
-###### 📌 Well-Founded Induction
-> [!links]
-> ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-> - ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
-> 
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-
-> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
-
-归纳法有各种各样的形式，自然数归纳法只是其中的一种应用，在数理逻辑和形式语言理论中，用的最多的是结构归纳法，在树形结构上进行归纳，后续文章中我们会提到。
-
-**人们总结了各种归纳法的共性，提出了良基关系（well-founded relation）的概念，于是，自然数归纳法和结构归纳法都变成了在良基关系上通用归纳法的具体应用了**。
-
-良基归纳法：
-- 设 $\prec$ 为集合 $A$ 上的良基二元关系，并且设 $P$ 为关于 $A$ 中元素的某个命题。
-- 如果 $P(b)$ 对于所有的 $b \prec a$ 成立，就必然有 $P(a)$ 成立，那么 $P(a)$ 就对所有的 $a \in A$ 成立。
-
-我们看到 $<$ 确实是自然数集上的良基关系，因此自然数归纳法只是良基归纳法的一种特例。现在我们有了足够的能力来证明自然数归纳法的正确性了，只要我们证明了良基归纳法是正确的。
-
-还是用反证法，我们期望证明：
-- 前提：如果 $P(b)$ 对于所有的 $b \prec a$ 成立，必然有 $P(a)$ 成立；
-- 结论：那么对于所有的 $a \in A, P(a)$ 都成立。
-如若不然，假设存在 $x \in A$，使得 $P(x)$ 不成立，则集合 $B = \{a \in A \mid \neg P(a)\}$ 非空。因此根据良基关系的等价定义，集合 $B$ 必有最小元 $m \in B \subseteq A$，而且 $\neg P(m)$ 成立。
-
-则根据前提的逆否命题，一定存在 $b \prec m$，使得 $\neg P(b)$ 成立。所以，我们有 $b \in B$，且 $b \prec m$，与 $m$ 是 $B$ 的最小元矛盾。
-
-证毕。
-
-由此，我们证明了良基归纳法的正确性。理解良基关系和偏序关系，是理解递归和不动点算子的第一步。
-
-不知道是否很明显了，递归的步骤和归纳的步骤，简直是太像了，这一定不是偶然。在[The Little Prover](https://book.douban.com/subject/26429992/)一书中，为了证明递归函数是否全函数（total function），作者使用了测度（measure）的概念，这实际上定义了参数集上的一个良基关系。
-###### Natural Number Induction
-> [!links]
-> ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-
-> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
-
-自然数归纳法，是一种数学证明方法，通常被用于证明某个给定命题在整个（或者局部）自然数范围内成立。它可以用一个有限的方式写出一个无限的证明。
-
-后续文章中我们会看到，这种用有限表示无限的方法，其实是有局限性的，并不能用来解决所有的问题，它能处理的只是无限中的一个子集罢了。
-
-自然数归纳法，我们可以描述如下：
-为证明对每一个自然数n，命题P(n)为真，只需要证明两件事，
-（1）对于自然数1，命题P(1)为真
-（2）如果对于自然数m，命题P(m)为真，那么对于自然数m+1，命题P(m+1)也为真
-
-其中，第(1)条称为起始条件，第(2)条称为递推条件，或者称为归纳步骤。
-第(2)条中，为了证明P(m+1)而假设的P(m)，称为归纳假设。
-
-这似乎是很显然的事情，我们可以在一张无限长的纸带开头写上初始条件P(1)，接着根据递推条件，由P(1)我们可以证明P(2)成立，重复这种思想，我们可以由P(2)证明P(3)成立，如此不断的进行下去，最终，对于每个自然数n，我们都能证明P(n)成立。
-
-但是，这样并不算是一个有效的证明。要证明自然数归纳法的正确性，我们还需要补充一些集合论方面的知识：↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-
----
-然而，在此之前，我们还是先来看自然数归纳法的一个例子吧。
-
-在之前的讨论中，我们定义了递归函数 `fact`。我们先找到了“递推式”，再找到了“终止条件”，然后写出了`fact`的定义：
-```haskell
-fact :: Int -> Int  
-fact 1 = 1  
-fact n = n * fact (n-1)
-```
-
-证明其正确性（即证明 `fact` 等于阶乘函数 $f(n) = n!$）是必不可少的步骤。我们可以使用**自然数归纳法**来完成这一证明。
-
-
-**使用自然数归纳法证明 `fact`**
-假设命题 $P(n)$ 为：`fact n` 的值为 $n!$。
-1. **基础步骤**：对于自然数 1，命题 $P(1)$ 成立，因为 `fact 1` 的值为 $1! = 1$。
-2. **归纳步骤**：假设对于自然数 $m$，命题 $P(m)$ 成立，即 `fact m` 的值为 $m!$。
-    - 那么，我们可以得到 `fact (m+1) = (m+1) * fact m`。
-    - 其值为 $(m+1) * m! = (m+1)!$，因此命题对 $m+1$ 也成立。
-
-所以，对于任意自然数 ($n \geqslant 1$)，`fact n` 的值就是 $n!$。至此，我们证明了 `fact` 就是阶乘函数 $f(n) = n!$。
-
-
-**自然数归纳法的等价形式**
-自然数归纳法还有另一种等价形式：如果要证明 $P(n)$ 对每一个自然数 $n$ 为真，只要证明对于任意自然数 $m$，如果当 $i < m$ 时 $P(i)$ 为真，那么 $P(m)$ 也为真。
-###### Structure Induction
-##### Proof by Deduction (演绎法) & Deductive Reasoning ⭐
-↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-
-↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
-- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
-
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
-- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-###### Syllogism and Natural Deduction
-> [!links]
-> ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
-> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
-
-**Idea: Syllogism**
-
-**Trivial example from Aristoteles:**
-
-Premise 1 All humans are mortal  
-Premise 2 Sokrates is a human  
-———————————————  
-Conclusion Sokrates is mortal
-
-**Things to note:**
-- Independent of the precise definitions of **human** and **mortal**.
-- Rather, human and mortal are characterized by the premises.
-- Really logical: if you accept the premises, you cannot really reject the conclusion.
-- Aristoteles regarded syllogisms as the most primitive building blocks of logical reasoning. (How to “prove” those?)
-
-
-**Modern View**
-
-Premise 1 $\forall X.\ \mathrm{human}(X) \Rightarrow \mathrm{mortal}(X)$
-Premise 2 $\mathrm{human}(\mathrm{sokrates})$ 
-———————————————
-Conclusion $\mathrm{mortal}(\mathrm{sokrates})$
-
-**Things to note:**
-- Independent of the precise definitions of **human** and **mortal**.
-- In every *interpretation* that fulfills the premises, also the conclusion is fulfilled.
-- One can regard it as even more basic reasoning steps, e.g. natural deduction: $$
-\frac{
-\frac{\forall X.\ h(X)\Rightarrow m(X)}
-{h(s)\Rightarrow m(s)}
-\;\forall E
-\qquad h(s)}
-{m(s)}
-\;\rightarrow E
-$$
-#### Axiomatization of Mathematics & Axiomatic System ⭐
-> [!links]
-> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) "formalization and formal system"
-> ↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System)
-> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
-
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
-
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), an **axiomatic system** or **axiom system** is a standard type of ==deductive logical structure==, used also in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). It consists of a set of formal statements known as [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") that are used for the [logical deduction](https://en.wikipedia.org/wiki/Logical_deduction "Logical deduction") of other statements. In mathematics these logical consequences of the axioms may be known as [lemmas](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)") or [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem"). ==A [mathematical theory](https://en.wikipedia.org/wiki/Theory_\(mathematical_logic\) "Theory (mathematical logic)") is an expression used to refer to an axiomatic system and all its derived theorems.==
-
-A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), which is normal in books and technical papers, the [nouns](https://en.wikipedia.org/wiki/Noun "Noun") are intended as [placeholder words](https://en.wikipedia.org/wiki/Placeholder_word "Placeholder word"). The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"). **In a fully formal setting, a logical system such as [predicate calculus](https://en.wikipedia.org/wiki/Predicate_calculus "Predicate calculus") must be used in the proofs.** The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
-
-> 🔗 https://zh.wikipedia.org/zh-hans/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F
-
-[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
-
-**公理系统的性质** (↗ [Mathematical Logic Basics (Formal Logic) /Properties of Logics System](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Properties%20of%20Logics%20System))
-- 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
-- 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
-	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
-- 若一个公理系统中，每个命题及其否定命题中至少有一方可被证明，则称该公理系统为**完备** 。（Completeness）
-- (Soundness)
-
-==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
-##### The Process of Axiomatization & Formal Language
-> [!links]
-> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-> ↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-
-> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
-
-我们以一个称之为“pq”的系统为例。（出自《[哥德尔、艾舍尔、巴赫——集异璧之大成](https://book.douban.com/subject/1291204/)》）
-
-
----
-==公理化步骤== /形式语言的构造 /语法层面
-
-**第一步**， 我们要有一些符号。
-例如：“pq系统”只有三个符号，`p`，`q`，`-`。
-  
-
-**第二步**，我们要说明什么样的符号串是合法的，即指定一套语法。
-例如，我们规定“pq系统”中合法的符号串，形如`xqypz`，其中，`x`，`y`，`z`仅由一串短杠组成。
-```
-term := n 'q' n 'p' n  
-n := '-' | '-' n
-```
-
-因此，`--q-p-`，`---q--p-`都是合法的符号串。
-
-
-**第三步，** 我们要指定公理和推导规则，其中公理是推导的出发点，由公理推导得出的符号串称为定理。
-（1）“pq”系统的公理如下: 只要`x`仅由一串短杠组成，那么`x-qxp-`就是一条公理。
-（2）“pq”系统的推导规则是这样的:
-- 假设`x`，`y`和`z`都代表只包含短杠的特定的符号串，并且假设`xqypz`是一条已知的公理/定理，那么`x-qypz-`就是一条定理。
-- 即它们满足$\frac{xqypz}{x−qypz−}​$​​，表示如果$xqypz$是定理，则$x−qypz−$也是定理。
-
-例子：
-- 根据公理的定义，我们知道`--q-p-`是一条公理，
-- 又根据这条公理和推导规则，我们得到了`---q-p--`是一条定理。
-
-
-**小结：**
-以上三步我们通过公理化的方式构建了一个形式系统，它由符号，语法，公理，推导规则组成，我们可以用公理和旧定理生成新定理，不断演算。
-
-在其他系统中，公理和定理的个数可能是有限的，而“pq”系统则是无限的。
-
-
----
-==形式语言的解释（interpretation）== /语义层面
-
-我们说以上“pq系统”定义了一个形式语言，这里的“语言”是一种数学上的定义，指的是字符串的集合。“pq”系统的形式语言，就是系统中公理和定理的集合。
-
-考察一个形式语言，通常我们要研究它的两个方面，
-其一，形式语言的语法，指的是字符串的构成方式，
-其二，形式语言的语义，指的是每个字符串的含义。
-
-我想大家都已经读过《[计算机程序的构造与解释](https://book.douban.com/subject/1148282/)》了吧，所谓构造，指的就是语法，而解释指的就是语义。
-
-那我们来看一看“pq系统”的形式语言该怎样解释吧。
-
-我们可以选择这样的解释方式，例如，我们可以将`q`解释为“等于”，而将`p`解释为“加”，将短杠解释为数字。于是，`---q-p--`就可以被解释为“3等于1加2”了。
-
-值得注意的是，合理的解释并不一定是唯一的，例如，我们将`q`解释为“减”，将`p`解释为“等于”，也是可以的。
-
-考虑语义问题的时候，我们应该总是先想想，当前在对什么系统进行解释。
-例如，对“pq”系统，我们再引入一条新的公理，
-
-**新公理：** 只要`x`仅由一串短杠组成，那么`xqxp-`也是一条公理。
-
-现在来看，引入的新公理对“pq系统”产生了什么影响。
-首先，`-q-p-`在新系统中是一条公理，而在老系统中不是。
-其次，根据推导规则，`--q-p--`是新系统中的一条定理，而在老系统中也不是。
-
-考虑到我们之前对符号串的解释，我们发现，如果仍然沿用老系统对符号串的解释，`--q-p--`应该被解释为“2等于1加2”，这显然是不正确的。
-
-==因此，在系统发生变化的时候，旧的解释可能就行不通了，我们要对系统选择一个新的解释。== 例如，我们只需要将`q`解释为“小于或等于”就行了。然而，现在看来这种顺利成章的事情，却困扰了数学家们很多年。
-
-> 这是整个19世纪数学的最深刻的教训之一。
-
-> [!Example]
-> Euclidean Geometry (欧氏几何) vs Non-euclidean Geometry
-> ↗ [Geometry](Geometry/Geometry.md)
-> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
-> 
-> > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
-> 
-> 欧氏几何是第一个提出的公理系统。
-> 
-> 大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
-> 
-> > 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
-> 
-> 1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
-> 
-> 但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
-> 
-> 现在看来，这样理解当然是有问题的，因为，==它混淆了公理系统中的结论，和对这些结论的解释。== 就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
-> 
-> 关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
-##### Formal System 🆚 Axiomatic System?
-#formal_system #axiomatic_system 
-
-> [!links]
-> ↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-
-formal system: symbols + deduction rules.
-- only syntax level
-
-axiomatic system: formal system + mathematical semantics
-- syntax + semantics
-
-###### What about formal languages? formal logics and programming languages?
-#formal_language #formal_logic #programming_languages
-
-> [!links]
-> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-##### The Axiomatic Method in Mathematics
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#The_axiomatic_method_in_mathematics
-
-The reduction of a body of propositions to a particular collection of axioms underlies [mathematical research](https://en.wikipedia.org/wiki/Mathematical_research "Mathematical research"). This dependence was very prominent, and contentious, in the mathematics of the first half of the twentieth century, a period to which some major landmarks of the axiomatic method belong. The [probability axioms](https://en.wikipedia.org/wiki/Probability_axioms "Probability axioms") of [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov "Andrey Kolmogorov"), from 1933, are a salient example. The approach was sometimes attacked as "formalism", because it cut away parts of the working intuitions of mathematicians, and those applying mathematics. In historical context, this alleged formalism is now discussed as [deductivism](https://en.wikipedia.org/wiki/Deductivism "Deductivism"), still a widespread philosophical approach to mathematics.
-###### Timeline of axiomatic systems to 1900
-###### Situation at the beginning of the 20th century
-###### Timeline of axiomatic systems from 1901
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Timeline_of_axiomatic_systems_from_1901
-###### Situation at mid-20th century
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Situation_at_mid-20th_century
-
-Three prominent features of mathematics in 1950 were:
-- The continuing publication in France by the [Bourbaki group](https://en.wikipedia.org/wiki/Bourbaki_group "Bourbaki group") of the book series _[Éléments de mathématique](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de mathématique")_. It aimed at an encyclopedic treatment of foundational concepts.
-- A dynamic situation in the foundations of [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry "Algebraic geometry"), following the publication of _[Foundations of Algebraic Geometry](https://en.wikipedia.org/wiki/Foundations_of_Algebraic_Geometry "Foundations of Algebraic Geometry")_ by [André Weil](https://en.wikipedia.org/wiki/Andr%C3%A9_Weil "André Weil").
-- [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory "Quantum field theory") (QFT), which lacked a satisfactory axiomatic foundation.
-##### Foundations of Mathematics (Logics)
-↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-###### Set Theory, Natural Number (As a Language), and Peano Axioms
-↗ [Set Theory & Axiomatic Set Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-↗ [Number Sets & Field Construction (Completion) and Extension](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension.md)
-- ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
-
-> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
-
-**自然数语言与皮亚诺公理系统**
-
-从读小学的时候开始，我们就认识了自然数，我们可以从零开始计数，每个数字比它前面的多一，0 1 2 3 4 5 6 ⋯ 这些数字可以用来表示物品的个数。
-
-它们是如此的贴近生活，如此自然，以致我们一直以来，就把两个不同的**概念混淆**在了一起。
-一个概念是自然数的语法构造，属于编码问题，(syntax)
-另一个概念则是对这种语法构造的解释，属于语义问题。(semantics)
-
-为了看清这一点，我们使用公理化方式定义一个**自然数形式系统**。这个自然数形式系统就是皮亚诺系统。
-
-![](../../Assets/Pics/Pasted%20image%2020260111221646.png)
-
-在了解皮亚诺系统之前，我们首先要问自己这些问题：
-
-（1）这个形式系统包含了哪些符号呢？
-它只包含`0~9`，这个十个字符。
-
-（2）哪些符号串是合法的？
-一位符号串，或者不是`0`开头的多位符号串，都是合法的。所有这些合法的符号串，构成了一个集合，称为该形式系统的“**语言**”。
-
-（3）哪些符号串被认为是公理或定理，定理之间的推导规则是什么？
-对于自然数形式系统来说，符号串`0`可以看做公理，后继函数可以看做推导规则。
-
-（4）这些符号串的含义是什么？
-简单起见，我们可以直接指定符号串的含义为它所对应的那个自然数。
-例如，`3`是一个符号串，我们指定它对应33这个自然数。
-其中`3`是语法符号，33是数学对象。
-###### Algebra & Arithmetic Systems
-> [!links]
-> ↗ [Algebra](🧊%20Algebra/Algebra.md)
-> ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
-
-> 🔗 https://thzt.github.io/2018/01/20/semantics-2/
-
-在读小学的时候，数学课只有一门，主要学有理数的四则运算，而到了初中，数学就变成了两门，分为代数课与几何课，代数课主要讲方程和函数，几何课主要讲平面几何。
-
-平面几何是很直观的，也很容易和其他数学划清界线，因此，初中生们对“什么是几何”都没有太多疑惑。但是至于“**什么是代数**”，就比较费解了，这个问题也困扰了我很久。
-
-到大学，我们又学了线性代数，这种困扰日益加深，因为居然出现了一种“线性的”“代数”，却没有人事先告诉我们到底什么是“代数”。
-
-后来我们学了抽象代数，这个问题才得以解决，我找到了一个令自己满意的答案。
-
-为了说明“什么是代数”，最简单的办法就是下定义。
-- 设集合$M$上定义了一组运算，$a_1, a_2, ⋯ ,a_n$
-- 运算结果仍是$M$中的元素，则称$M$相对于这$n$个运算，构成了一个**代数**。
-
-> [!TIP]
-> 一般来说，代数问题的特点，是对一类问题，利用统一的运算性质，求出所有可能的解答。
-
-==因此，代数学就是研究**运算系统性质**的学问。==
-而Peano系统，是最简单的运算系统之一，又称为[一阶算术系统](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86)。自然数就是这个系统中的运算对象。(因此，小学数学也称为“算术”。)
-
-我们的整体思路是，首先用公理化的方式建立一个形式系统，然后为这个形式系统选择一种数学解释作为它的语义，这样就**建立了符号和数学对象之间的对应关系**。一般的，这些数学对象需要具有不同的运算性质，有不同的结构，因此构成了不同的代数。
-
-随着代数学的发展，人们发明了许多运算系统，例如，整数的加减法，有理数的四则运算，实数的根式或指数运算，等等。它们都有现实的对应物，仿佛数学的研究对象就是现实世界一样。
-
-然而，实际上并非如此。
-
-例如，复数$1+2i$，它是没有现实对应的，但是我们仍然可以对复数进行运算。一个n次方程可能在实数范围内无解，但必定会存在n个复数解。
-
-引入了复数之后，我们也才能体会到欧拉公式之美，$$e^{iπ}+1=0$$
-另一方面，代数学的研究重点也发生了改变，一开始人们研究的是单个的，独立的，具体的运算系统，但是后来人们逐渐发现，很多运算系统有相同的运算性质，可以**抽象**出来进行讨论。
-
-例如，计算机系统中的无符号数，连同加法运算，构成了一个阿贝尔群。而阿贝尔群中的加法，满足交换律和结合律，因此，编译器就可以采用任意的顺序进行计算，不影响最终结果。
-
-从运算性质的角度来分析问题，越来越流行了，成为了现代数学不可或缺的一部分，并且，代数学考虑问题的方法，也逐渐影响着其他学科。
-###### 🤔 Formal Logics: Symbols, Syntax, and Semantics
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
-↗ [Formal System, Formal Logics, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-	- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
-
-
-> 🔗 https://thzt.github.io/2017/09/10/type-4/
-> 🔗 https://thzt.github.io/2017/09/15/hilbert-style-and-gentzen-style-deduction-system/
-
-本文介绍了命题逻辑，以及与之相关的两个形式系统P和N，和$λ_β$​​，$CL_w$​​一样，我们采用了公理化的方式构建它们，这样得到的形式系统，只是符号演算，还没有被赋予特定的语义，下文我们开始介绍一阶谓词逻辑。
-
-> 🔗 https://thzt.github.io/2017/09/16/type-5/
-
-从形式系统的角度来看，一阶谓词逻辑，只是比命题逻辑多添加了一些公理，或者多添加了一些推导规则，然而，这样的举动，却会让形式系统截然不同。
-
-欧几里得第五公设，是一个公理，无法由前四个公设推导证明，在原来的欧氏几何中去掉它，然后添加上不同的第五公设，就变成了不同的几何，黎曼几何与闵可夫斯基几何。
-
-因此，不同的公理和推导规则，构成了不同的形式系统，哪怕是有很小的变化。本文我们来扩充前一篇中提到的，命题逻辑形式系统P，以及，命题逻辑的自然演绎系统N。
-
-本文介绍了两种风格的一阶谓词逻辑演算系统，其中$K​_\mathcal{L}$​​是Hilbert-style演绎系统，$N_\mathcal{L}$​​是Gentzen-style自然演绎系统，可以证明它们是等价的。
-###### 🤔 Simply Typed Lambda Calculus: Syntax and Semantics
-> [!links]
-> ↗ [Type Theory (类型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-> ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-> ↗ [Functional Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
-
-简单类型化$λ$演算$λ^→$的语法：(Syntax)
-- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-- 🔗 https://thzt.github.io/2017/09/19/type-6/
-
-简单类型化$λ$演算$λ^→$​​的语义：(Semantics)
-- 一般有两种通用的方法，一种是**Henkin模型**，另一种是笛卡尔闭范畴。
-- ↗ [Lambda Calculus (λ-Calculus)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
-- 🔗 https://thzt.github.io/2018/02/03/semantics-5/
-- Henkin semantics & Henkin model
-	- ↗ [σ-Algebra (sigma Algebra)](🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(sigma%20Algebra)/σ-Algebra%20(sigma%20Algebra).md)
-	- ↗ [Henkin Model & Henkin Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
-- Cartesian closed category
-	- ↗ [Cartesian Closed Category (CCC)](🩻%20Category%20Theory%20(范畴论)/Cartesian%20Closed%20Category%20(CCC).md)
-#### Discussion of Axiomatic Systems
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Discussion_of_axiomatic_systems
-
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **axiomatization** is the process of taking a body of knowledge and working backwards towards its axioms. It is the formulation of a system of statements (i.e. [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom")) that relate a number of primitive terms — in order that a [consistent](https://en.wikipedia.org/wiki/Consistency_proof "Consistency proof") body of [propositions](https://en.wikipedia.org/wiki/Boolean-valued_function "Boolean-valued function") may be derived [deductively](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") from these statements. Thereafter, the [proof](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") of any proposition should be, in principle, traceable back to these axioms. Axiomatization typically involves choices, and once a theory is axiomatic, it may be possible to change the set of axioms without affecting the mathematical results implied.
-##### Axioms, Postulates (Proposition), and First Principle 
-> [!link]
-> ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-> 
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Axioms_and_postulates
-
-In [Ancient Greek logic](https://en.wikipedia.org/wiki/Ancient_Greek_logic "Ancient Greek logic"), a contrast between axioms and [postulates](https://en.wikipedia.org/wiki/Postulate "Postulate") was recognised ("postulate" being, however, an English term taken from [medieval Latin](https://en.wikipedia.org/wiki/Medieval_Latin "Medieval Latin")). It reflected, without being applied consistently, axioms as speaking about [primitive notions](https://en.wikipedia.org/wiki/Primitive_notion "Primitive notion") in a way that should be [common ground](https://en.wikipedia.org/wiki/Common_ground_\(linguistics\) "Common ground (linguistics)"); and postulates as "requests" or "demands", for the purposes of [argument](https://en.wikipedia.org/wiki/Argument "Argument"). [Aristotle](https://en.wikipedia.org/wiki/Aristotle "Aristotle")'s view was [minimalist](https://en.wiktionary.org/wiki/minimalist "wikt:minimalist") about postulates.
-
-From the time of Boole's work in the 1840s, in the [algebra of logic](https://en.wikipedia.org/wiki/Algebra_of_logic "Algebra of logic") tradition, logic itself was developed from "postulates" alone. The minimalist view was taken, by the end of the 19th century, to imply research on independence of axioms. [Mathematical elegance](https://en.wikipedia.org/wiki/Mathematical_elegance "Mathematical elegance") was also a consideration. [Friedrich Schur](https://en.wikipedia.org/wiki/Friedrich_Schur "Friedrich Schur") criticised the lack of independence of Hilbert's axioms for geometry given in _Grundlagen der Geometrie_.
-###### Postulational Analysis
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Timeline_of_postulational_analysis
-
-**Postulational analysis**, according to [Susan Stebbing](https://en.wikipedia.org/wiki/Susan_Stebbing "Susan Stebbing"), is what is used "in the construction of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system")".[[56]](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-56) It is a term applied to the correcting or adjusting of axiomatic systems. Axioms may be added to, or removed from, the system; they may be strengthened or weakened. It is also possible to change the logical calculus used for deduction.
-
-| Date                                                                                                                                                                                    | Author                                                                                                                         | Work                                                                                                             | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Fourth century BCE](https://en.wikipedia.org/wiki/Fourth_century_BCE "Fourth century BCE") to [third century BCE](https://en.wikipedia.org/wiki/Third_century_BCE "Third century BCE") | [Euclid](https://en.wikipedia.org/wiki/Euclid "Euclid") of [Alexandria](https://en.wikipedia.org/wiki/Alexandria "Alexandria") | _[The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements "Euclid's Elements")_                          | The Greek term used by Euclid was αἰτήματα (aitēmata).[53](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-Smith-53) Its standard English translation is "postulate".[57](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-57)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 1882                                                                                                                                                                                    | [Moritz Pasch](https://en.wikipedia.org/wiki/Moritz_Pasch "Moritz Pasch")                                                      | [Pasch's axiom](https://en.wikipedia.org/wiki/Pasch%27s_axiom "Pasch's axiom")                                   | Pasch introduced an axiom of [plane geometry](https://en.wikipedia.org/wiki/Plane_geometry "Plane geometry") not proved by Euclid, but used by him tacitly.[58](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-58) It was not a consequence of Euclid's axioms, i.e. was [independent](https://en.wikipedia.org/wiki/Independence_\(mathematical_logic\) "Independence (mathematical logic)") of Euclid's system.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| fl. 1890 – 1930                                                                                                                                                                         | American school                                                                                                                | postulate theory                                                                                                 | Abrams wrote "Mathematics in the United States began to develop along the lines of inward-looking scrutiny and theoretical rigor that had already been developing in places like France and Germany since the early nineteenth century." "Postulate theory" was a major part in this distinctive trend in American [pure mathematics](https://en.wikipedia.org/wiki/Pure_mathematics "Pure mathematics").[59](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-59) Scanlan points to the school's "standards for axiomatizations of mathematical theories", and work on "[metatheoretic](https://en.wikipedia.org/wiki/Metatheoretic "Metatheoretic") properties such as [independence](https://en.wikipedia.org/wiki/Independence_\(mathematical_logic\) "Independence (mathematical logic)"), [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)"), and [consistency](https://en.wikipedia.org/wiki/Consistency "Consistency")". [E. V. Huntington](https://en.wikipedia.org/wiki/E._V._Huntington "E. V. Huntington") and [Oswald Veblen](https://en.wikipedia.org/wiki/Oswald_Veblen "Oswald Veblen") were representative figures of the school. With [E. H. Moore](https://en.wikipedia.org/wiki/E._H._Moore "E. H. Moore") and [Robert Lee Moore](https://en.wikipedia.org/wiki/Robert_Lee_Moore "Robert Lee Moore"), they contributed significantly to the international drive for axiomatic mathematics.[60](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-60)[61](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-61) |
-| 1904                                                                                                                                                                                    | Oswald Veblen                                                                                                                  | [categorical theory](https://en.wikipedia.org/wiki/Categorical_theory "Categorical theory")                      | Veblen called a theory categorical if it has essentially just one model.[62](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-62)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 1910                                                                                                                                                                                    | [Axel Thue](https://en.wikipedia.org/wiki/Axel_Thue "Axel Thue")                                                               | _Die Lösung eines Spezialfalles eines generellen logischen Problems_                                             | Introduced the [word problem](https://en.wikipedia.org/wiki/Word_problem_\(mathematics\) "Word problem (mathematics)") for an [equational theory](https://en.wikipedia.org/wiki/Equational_theory "Equational theory"), an aspect of universal algebra.[63](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-63)[64](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-64)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 1915                                                                                                                                                                                    | [Leopold Löwenheim](https://en.wikipedia.org/wiki/Leopold_L%C3%B6wenheim "Leopold Löwenheim")                                  | _Über Möglichkeiten im Relativkalkül_                                                                            | First form of what is now known as the [Löwenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim-Skolem_theorem "Löwenheim-Skolem theorem"), a major step in isolating the role in foundational work of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic"). His work was clarified and strengthened by [Thoralf Skolem](https://en.wikipedia.org/wiki/Thoralf_Skolem "Thoralf Skolem") in the 1920s.[65](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-65)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 1926                                                                                                                                                                                    | [Adolf Lindenbaum](https://en.wikipedia.org/wiki/Adolf_Lindenbaum "Adolf Lindenbaum")                                          | [Lindenbaum-Tarski algebra](https://en.wikipedia.org/wiki/Lindenbaum-Tarski_algebra "Lindenbaum-Tarski algebra") | Lindenbaum's work led to [algebraic logic](https://en.wikipedia.org/wiki/Algebraic_logic "Algebraic logic").[66](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-66)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 1933                                                                                                                                                                                    | [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski "Alfred Tarski")                                                   | [truth definition](https://en.wikipedia.org/wiki/Truth_definition "Truth definition")                            | Tarski's approach, with a clear distinction between an "object language" and the [metalanguage](https://en.wikipedia.org/wiki/Metalanguage "Metalanguage") used to describe it, led to [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory") based on truth definition via [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction") over terms in first-order logic.[67](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-67)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 1935                                                                                                                                                                                    | [Garrett Birkhoff](https://en.wikipedia.org/wiki/Garrett_Birkhoff "Garrett Birkhoff")                                          | [HSP theorem](https://en.wikipedia.org/wiki/HSP_theorem "HSP theorem")                                           | Birkhoff refounded [universal algebra](https://en.wikipedia.org/wiki/Universal_algebra "Universal algebra"), consciously taking the title of Whitehead's book of a generation earlier, around the concept of "variety of algebra". With the older examples such as Boolean algebra and [quaternions](https://en.wikipedia.org/wiki/Quaternions "Quaternions"), motivations were the [free algebras](https://en.wikipedia.org/wiki/Free_algebra "Free algebra"), and application from [order theory](https://en.wikipedia.org/wiki/Order_theory "Order theory"), such as the [modular lattice](https://en.wikipedia.org/wiki/Modular_lattice "Modular lattice") exploited by [Øystein Ore](https://en.wikipedia.org/wiki/%C3%98ystein_Ore "Øystein Ore") in the context of Noether's school of abstract algebra.[68](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-68)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 1950s                                                                                                                                                                                   | Tarski school at Berkeley                                                                                                      | classical model theory                                                                                           | Largely developed by students of Tarski at [University of California, Berkeley](https://en.wikipedia.org/wiki/University_of_California,_Berkeley "University of California, Berkeley") from 1942, [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory") capitalised on earlier work to produce a principled semantics for axiomatic systems within [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic").[69](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-69)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 2024                                                                                                                                                                                    | [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao "Terence Tao")                                                         | Equational Theories Project[70](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-70)                     | A project to have a complete calibration of theories in [equational logic](https://en.wikipedia.org/wiki/Equational_logic "Equational logic") for a [magma](https://en.wikipedia.org/wiki/Magma_\(algebra\) "Magma (algebra)"), where the binary operation is used at most four times. A [partial order](https://en.wikipedia.org/wiki/Partial_order "Partial order") on the theories makes _T_≤_U_ when _T_ implies all the theorems implied by _U_. The purpose of the project was to determine all the cases of ≤, so that an accurate [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram "Hasse diagram") of the partial order can be drawn. [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant") software was used in some cases. The project was completed in April 2025.[71](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-##### Properties
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Properties
-
-Four important properties of an axiom system are consistency, relative consistency, completeness and independence. An axiomatic system is said to be consistent if it lacks contradiction. That is, it is impossible to derive both a statement and its negation from the system's axioms.[72] Consistency is a key requirement for most axiomatic systems, as the presence of contradiction would allow any statement to be proven (principle of explosion). Relative consistency comes into play when we can not prove the consistency of an axiom system. However, in some cases we can show that an axiom system A is consistent if another axiom set B is consistent.[72]
-
-In an axiomatic system, an axiom is called independent if it cannot be proven or disproven from other axioms in the system. A system is called independent if each of its underlying axioms is independent.[72] Unlike consistency, in many cases independence is not a necessary requirement for a functioning axiomatic system — though it is usually sought after to minimize the number of axioms in the system.
-
-An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms, i.e. every statement can be proven true or false by using the axioms.[72][73] However, note that in some cases it may be undecidable if a statement can be proven or not.
-##### Axioms and Models
-> [!links]
-> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
-> ↗ [Mathematical Modeling & Abstraction](Mathematical%20Modeling%20&%20Abstraction.md)
-> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-
-A model for an axiomatic system is a formal structure, which assigns meaning for the undefined terms presented in the system, in a manner that is correct with the relations defined in the system. If an axiom system has a model, the axioms are said to have been satisfied.[74] The existence of a model which satisfies an axiom system, proves the consistency of the system.[75]
-
-Models can also be used to show the independence of an axiom in the system. By constructing a model for a subsystem (without a specific axiom) shows that the omitted axiom is independent if its correctness does not necessarily follow from the subsystem.[74]
-
-Two models are said to be isomorphic if a one-to-one correspondence can be found between their elements, in a manner that preserves their relationship.[76] An axiomatic system for which every model is isomorphic to another is called categorical or categorial. However, this term should not be confused with the topic of category theory. The property of categoriality (categoricity) ensures the completeness of a system, however the converse is not true: Completeness does not ensure the categoriality (categoricity) of a system, since two models can differ in properties that cannot be expressed by the semantics of the system.
-##### Incompleteness & Gödel's Incompleteness Theorems ⭐
-> [!links]
-> ↗ [Mathematical Logic Basics (Formal Logic) /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
-
-> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Incompleteness
-
-If the formal system is not [complete](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") not every proof can be traced back to the axioms of the system it belongs. For example, a number-theoretic statement might be expressible in the language of arithmetic (i.e. the language of the Peano axioms) and a proof might be given that appeals to [topology](https://en.wikipedia.org/wiki/Topology "Topology") or [complex analysis](https://en.wikipedia.org/wiki/Complex_analysis "Complex analysis"). It might not be immediately clear whether another proof can be found that derives itself solely from the Peano axioms.
-
-> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
-
-是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
-- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
-- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
-
-> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
-
-
 ### Overview of Modern Mathematics Fields
 #### Areas of Mathematics: Brief Version
 > 🔗 https://en.wikipedia.org/wiki/Mathematics#Areas_of_mathematics
@@ -1050,9 +497,460 @@ Generally speaking, each arrow involves the addition of some new symbols and the
 ![Screenshot 2022-11-10 at 11.04.56 PM](../../../Assets/Pics/Screenshot%202022-11-10%20at%2011.04.56%20PM-8092713.png)
 
 
-
-## History and Development of Math
+### History and Development of Math
 ↗ [Math History & Development](Math%20History%20&%20Development.md)
+
+
+
+## Notes, Languages, Axioms, and Rigor
+> 🔗 https://zh.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6#%E7%AC%A6%E8%99%9F%E3%80%81%E8%AA%9E%E8%A8%80%E8%88%87%E7%B2%BE%E7%A1%AE%E6%80%A7
+
+我们现今所使用的大部分数学符号在16世纪后才被发明出来的。在此之前，数学以文字的形式书写出来，这种形式会限制了数学的发展。现今的符号使得数学对于专家而言更容易掌握，但初学者却常对此望而却步。它被极度的压缩：少量的符号包含着大量的讯息。如同音乐符号一般，现今的数学符号有明确的语法，并且有效地对讯息作编码，这是其他书写方式难以做到的。符号化和形式化使得数学迅速发展，并帮助各个科学领域建立基础支撑理论。
+
+数学语言亦对初学者而言感到困难。如“或”和“只”这些字有着比日常用语更精确的意思。亦困恼著初学者的，如“[开放](https://zh.wikipedia.org/wiki/%E5%BC%80%E9%9B%86 "开集")”和“[域](https://zh.wikipedia.org/wiki/%E5%9F%9F_\(%E6%95%B8%E5%AD%B8\) "域 (数学)")”等字在数学里有着特别的意思。[数学术语](https://zh.wikipedia.org/w/index.php?title=%E6%95%B8%E5%AD%B8%E8%A1%93%E8%AA%9E&action=edit&redlink=1 "数学术语（页面不存在）")亦包括如“[同胚](https://zh.wikipedia.org/wiki/%E5%90%8C%E8%83%9A "同胚")”及“[可积性](https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E7%A9%8D%E6%80%A7&action=edit&redlink=1 "可积性（页面不存在）")”等专有名词。但使用这些特别符号和专有术语是有其原因的：数学需要比日常用语更多的精确性。数学家将此对语言及逻辑精确性的要求称为“严谨”。但在现实应用中，舍弃一些严谨性往往会得到更好的结果。
+
+[严谨](https://zh.wikipedia.org/wiki/%E4%B8%A5%E8%B0%A8_\(%E6%95%B0%E5%AD%A6\) "严谨 (数学)")是[数学证明](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E "数学证明")中很重要且基本的一部分。数学家希望他们的定理以系统化的推理依著公理被推论下去。这是为了避免依著不可靠的直观而推出错误的“[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")”，而这情形在历史上曾出现过许多的例子。在数学中被期许的严谨程度因着时间而不同：希腊人期许著仔细的论证，但在[牛顿](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF "艾萨克·牛顿")的时代，所使用的方法则较不严谨。牛顿为了解决问题所做的定义，到了十九世纪才重新以小心的分析及正式的证明来处理。今日，数学家们则持续地在争论[电脑协助证明](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E5%8D%94%E5%8A%A9%E8%AD%89%E6%98%8E "电脑协助证明")的严谨度。当大量的计算难以被验证时，其证明亦很难说是足够地严谨。
+
+[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")在传统的思想中是“不证自明的真理”，但这种想法是有问题的。在形式上，公理只是一串符号，其只对可以由[公理系统](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")导出的公式之内容有意义。[希尔伯特计划](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E8%AE%A1%E5%88%92 "希尔伯特计划")即是想将所有的数学放在坚固的公理基础上，但依据[哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86 "哥德尔不完备定理")，每一[相容](https://zh.wikipedia.org/wiki/%E4%B8%80%E8%87%B4%E6%80%A7_\(%E9%82%8F%E8%BC%AF\) "一致性 (逻辑)")且能蕴涵[皮亚诺公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9E%E8%AB%BE%E5%85%AC%E7%90%86 "皮亚诺公理")的公理系统必含有一不可决定的公式；因而所有数学的最终[公理化](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F "公理系统")是不可能的。尽管如此，数学常常被想像成只是某种公理化的[集合论](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AE%BA "集合论")，在此意义下，所有数学叙述或证明都可以写成集合论的公式。
+
+
+### Mathematical Notations & Terminology
+> 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
+
+Mathematical notation is widely used in science and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") for representing complex [concepts](https://en.wikipedia.org/wiki/Concept "Concept") and [properties](https://en.wikipedia.org/wiki/Property_\(philosophy\) "Property (philosophy)") in a concise, unambiguous, and accurate way. This notation consists of [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") used for representing [operations](https://en.wikipedia.org/wiki/Operation_\(mathematics\) "Operation (mathematics)"), unspecified numbers, [relations](https://en.wikipedia.org/wiki/Relation_\(mathematics\) "Relation (mathematics)") and any other mathematical objects, and then assembling them into [expressions](https://en.wikipedia.org/wiki/Expression_\(mathematics\) "Expression (mathematics)") and formulas. More precisely, numbers and other mathematical objects are represented by symbols called variables, which are generally [Latin](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") or [Greek](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") letters, and often include [subscripts](https://en.wikipedia.org/wiki/Subscript "Subscript"). Operation and relations are generally represented by specific [symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols "Glossary of mathematical symbols") or [glyphs](https://en.wikipedia.org/wiki/Glyph "Glyph"), such as + ([plus](https://en.wikipedia.org/wiki/Plus_sign "Plus sign")), × ([multiplication](https://en.wikipedia.org/wiki/Multiplication_sign "Multiplication sign")), ∫([integral](https://en.wikipedia.org/wiki/Integral_sign "Integral sign")), = ([equal](https://en.wikipedia.org/wiki/Equals_sign "Equals sign")), and < ([less than](https://en.wikipedia.org/wiki/Less-than_sign "Less-than sign")). All these symbols are generally grouped according to specific rules to form expressions and formulas. Normally, expressions and formulas do not appear alone, but are included in sentences of the current language, where expressions play the role of [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase") and formulas play the role of [clauses](https://en.wikipedia.org/wiki/Clause "Clause").
+
+> 🔗 https://en.wikipedia.org/wiki/Mathematics#Symbolic_notation_and_terminology
+
+Mathematics has developed a rich terminology covering a broad range of fields that study the properties of various abstract, idealized objects and how they interact. It is based on rigorous [definitions](https://en.wikipedia.org/wiki/Technical_definition "Technical definition") that provide a standard foundation for communication. An axiom or [postulate](https://en.wikipedia.org/wiki/Postulate "Postulate") is a mathematical statement that is taken to be true without need of proof. If a mathematical statement has yet to be proven (or disproven), it is termed a [conjecture](https://en.wikipedia.org/wiki/Conjecture "Conjecture"). Through a series of rigorous arguments employing [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning"), a statement that is [proven](https://en.wikipedia.org/wiki/Formal_proof "Formal proof") to be true becomes a theorem. A specialized theorem that is mainly used to prove another theorem is called a [lemma](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)"). A proven instance that forms part of a more general finding is termed a [corollary](https://en.wikipedia.org/wiki/Corollary "Corollary").
+#### Definitions, Theorems, and Proofs
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
+
+Theorems and proofs are the heart and soul of mathematics and definitions are its spirit. These three entities are central to every mathematical subject.
+
+==**Definitions** describe the objects and notions that we use.== A definition may be simple, as in the definition of set given earlier in this chapter, or complex as in the definition of security in a cryptographic system. Precision is essential to any mathematical definition. When defining some object, we must make clear what constitutes that object and what does not.
+
+After we have defined various objects and notions, we usually make **mathematical statements** about them. Typically, ==a (mathematical) statement expresses that some object has a certain property.== The statement may or may not be true; but like a definition, it must be precise. No ambiguity about its meaning is allowed.
+
+==A **proof** is a convincing logical argument that a statement is true.== In mathematics, an argument must be airtight; that is, convincing in an absolute sense. In everyday life or in the law, the standard of proof is lower. A murder trial demands proof “beyond any reasonable doubt.” The weight of evidence may compel the jury to accept the innocence or guilt of the suspect. However, evidence plays no role in a mathematical proof. A mathematician demands proof beyond any doubt.
+
+==A **theorem** is a mathematical statement proved true.== Generally we reserve the use of that word for statements of special interest. Occasionally we prove statements that are interesting only because they assist in the proof of another, more significant statement. Such statements are called **lemmas**. Occasionally a theorem or its proof may allow us to conclude easily that other, related statements are true. These statements are called **corollaries** of the theorem.
+
+
+### Axiomatization of Mathematics & Axiomatic System ⭐
+> [!links]
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "formalization and formal system"
+> 
+> ↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") and [logic](https://en.wikipedia.org/wiki/Logic "Logic"), an **axiomatic system** or **axiom system** is a standard type of ==deductive logical structure==, used also in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science"). It consists of a set of formal statements known as [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom") that are used for the [logical deduction](https://en.wikipedia.org/wiki/Logical_deduction "Logical deduction") of other statements. In mathematics these logical consequences of the axioms may be known as [lemmas](https://en.wikipedia.org/wiki/Lemma_\(mathematics\) "Lemma (mathematics)") or [theorems](https://en.wikipedia.org/wiki/Theorem "Theorem"). ==A [mathematical theory](https://en.wikipedia.org/wiki/Theory_\(mathematical_logic\) "Theory (mathematical logic)") is an expression used to refer to an axiomatic system and all its derived theorems.==
+
+A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in [natural language](https://en.wikipedia.org/wiki/Natural_language "Natural language"), which is normal in books and technical papers, the [nouns](https://en.wikipedia.org/wiki/Noun "Noun") are intended as [placeholder words](https://en.wikipedia.org/wiki/Placeholder_word "Placeholder word"). The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards [formal proof](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"). **In a fully formal setting, a logical system such as [predicate calculus](https://en.wikipedia.org/wiki/Predicate_calculus "Predicate calculus") must be used in the proofs.** The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
+
+> 🔗 https://zh.wikipedia.org/zh-hans/%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F
+
+[数学](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6 "数学")上，一个**公理系统**（英语：axiomatic system，或称**公理化系统**，**公理体系**，**公理化体系**）是一个[公理](https://zh.wikipedia.org/wiki/%E5%85%AC%E7%90%86 "公理")的[集合](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_\(%E6%95%B0%E5%AD%A6\) "集合 (数学)")，从中一些或全部公理可以一并用来逻辑地导出[定理](https://zh.wikipedia.org/wiki/%E5%AE%9A%E7%90%86 "定理")。==一个[数学理论](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA "数学理论")由一个公理系统和所有它导出的定理组成。一个完整描述出来的公理系统是[形式系统](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F "形式系统")的一个特例==；但是通常完全形式化的努力仅带来在确定性上递减的收益，并让人更加难以阅读。所以，**公理系统的讨论通常只是半形式化的。一个形式化理论通常表示一个公理系统，例如在[模型论](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9E%8B%E8%AE%BA "模型论")中表述的那样。一个形式化证明是一个证明在形式化系统中的表述。**
+
+**公理系统的性质** (↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+- 一个公理系统称为[**自洽**](https://zh.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%AE%B9%E6%80%A7 "形式系统相容性")（或称**相容**、**一致**、**协调**），如果它没有**矛盾**，也就是说没有从公理同时导出一个命题及其否定的能力。(Consistance)
+- 在一个公理系统中，一个公理被称为**独立**的，若它不是一个从系统的其它公理可以导出的定理。一个系统称为**独立**的，若它的每个公理都是独立的。(Independance)
+	- 虽然独立性不是一个系统的必要需求，自洽性却是必要的。
+- 若一个公理系统中，每个命题及其否定命题中至少有一方可被证明，则称该公理系统为**完备** 。（Completeness）
+- (Soundness)
+
+==很显然公理化方法在数学之外是有局限性的。例如，在[政治哲学](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6 "政治哲学")中，导致不可接受的结论的公理很可能被彻底拒绝；所以没有人真的认同上面的第一个版本。==
+#### Axiomatic System vs Formal System ⭐
+> [!links]
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+> ↗ [Programming Language Theory (PLT)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+
+#axiomatic_system #formal_system #formal_language #formal_logic #formal_semantics
+
+A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
+- Formal language = Alphabets + Formal syntax
+
+A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
+- Formal system = 
+	- Formal language + (Formal) Proof system, or
+	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
+- Syntactic entailment:
+	- $\Gamma \vdash \varphi$
+	- $\Gamma$ syntactically entail $\varphi$: there exists a formal proof of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+**Axiomatic system** =
+- Same as formal system, but not necessarily formal language based.
+- Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+
+A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
+- $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
+- Semantic entailment:
+	- $\Gamma \models \varphi$
+	- $\Gamma$ semantically entail $\varphi$: every interpretation/model that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+
+
+To conclude:
+![](../../Assets/Pics/axiomatic_formal_semantics_theme_adaptive.svg)
+
+---
+> 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+
+我们以一个称之为“pq”的系统为例。（出自《[哥德尔、艾舍尔、巴赫——集异璧之大成](https://book.douban.com/subject/1291204/)》）
+
+
+
+1️⃣ ==公理化步骤== /形式语言的构造 /语法层面
+**第一步**， 我们要有一些符号。
+例如：“pq系统”只有三个符号，`p`，`q`，`-`。
+
+**第二步**，我们要说明什么样的符号串是合法的，即指定一套语法。
+例如，我们规定“pq系统”中合法的符号串，形如`xqypz`，其中，`x`，`y`，`z`仅由一串短杠组成。
+```
+term := n 'q' n 'p' n  
+n := '-' | '-' n
+```
+
+因此，`--q-p-`，`---q--p-`都是合法的符号串。
+
+
+**第三步，** 我们要指定公理和推导规则，其中公理是推导的出发点，由公理推导得出的符号串称为定理。
+（1）“pq”系统的公理如下: 只要`x`仅由一串短杠组成，那么`x-qxp-`就是一条公理。
+（2）“pq”系统的推导规则是这样的:
+- 假设`x`，`y`和`z`都代表只包含短杠的特定的符号串，并且假设`xqypz`是一条已知的公理/定理，那么`x-qypz-`就是一条定理。
+- 即它们满足$\frac{xqypz}{x−qypz−}​$​​，表示如果$xqypz$是定理，则$x−qypz−$也是定理。
+
+例子：
+- 根据公理的定义，我们知道`--q-p-`是一条公理，
+- 又根据这条公理和推导规则，我们得到了`---q-p--`是一条定理。
+
+
+**小结：**
+以上三步我们通过公理化的方式构建了一个形式系统（公理系统），它由符号，语法，公理，推导规则组成，我们可以用公理和旧定理生成新定理，不断演算。
+
+在其他系统中，公理和定理的个数可能是有限的，而“pq”系统则是无限的。
+
+
+
+2️⃣  ==形式语言的解释（interpretation）== /语义层面
+我们说以上“pq系统”定义了一个形式语言，这里的“语言”是一种数学上的定义，指的是字符串的集合。“pq”系统的形式语言，就是系统中公理和定理的集合。
+
+考察一个形式语言，通常我们要研究它的两个方面，
+其一，形式语言的语法，指的是字符串的构成方式，
+其二，形式语言的语义，指的是每个字符串的含义。
+
+我想大家都已经读过《[计算机程序的构造与解释](https://book.douban.com/subject/1148282/)》了吧，所谓构造，指的就是语法，而解释指的就是语义。
+
+那我们来看一看“pq系统”的形式语言该怎样解释吧。
+
+我们可以选择这样的解释方式，例如，我们可以将`q`解释为“等于”，而将`p`解释为“加”，将短杠解释为数字。于是，`---q-p--`就可以被解释为“3等于1加2”了。
+
+值得注意的是，合理的解释并不一定是唯一的，例如，我们将`q`解释为“减”，将`p`解释为“等于”，也是可以的。
+
+考虑语义问题的时候，我们应该总是先想想，当前在对什么系统进行解释。
+例如，对“pq”系统，我们再引入一条新的公理，
+
+**新公理：** 只要`x`仅由一串短杠组成，那么`xqxp-`也是一条公理。
+
+现在来看，引入的新公理对“pq系统”产生了什么影响。
+首先，`-q-p-`在新系统中是一条公理，而在老系统中不是。
+其次，根据推导规则，`--q-p--`是新系统中的一条定理，而在老系统中也不是。
+
+考虑到我们之前对符号串的解释，我们发现，如果仍然沿用老系统对符号串的解释，`--q-p--`应该被解释为“2等于1加2”，这显然是不正确的。
+
+==因此，在系统发生变化的时候，旧的解释可能就行不通了，我们要对系统选择一个新的解释。== 例如，我们只需要将`q`解释为“小于或等于”就行了。然而，现在看来这种顺利成章的事情，却困扰了数学家们很多年。
+
+> 这是整个19世纪数学的最深刻的教训之一。
+
+> [!Example]
+> Euclidean Geometry (欧氏几何) vs Non-euclidean Geometry
+> ↗ [Geometry](Geometry/Geometry.md)
+> ↗ [Euclidean (Elementary) Geometry](Geometry/Euclidean%20(Elementary)%20Geometry/Euclidean%20(Elementary)%20Geometry.md)
+> 
+> > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
+> 
+> 欧氏几何是第一个提出的公理系统。
+> 
+> 大家应该都听说过欧几里得[第五公设](https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A1%8C%E5%85%AC%E8%A8%AD)的故事，欧几里得采用了公理化的方式构建了几何学，其中第五公设又称平行公设，它既不能被其他公设证明，也不能证否，两千年来，在第五公设问题上，耗费了无数年轻数学家的生命和心血。
+> 
+> > 如果两条直线与第三条直线相交时，在第三条直线的某一侧三条线所夹的内角之和小于两个直角的和，则那两条直线沿着这一侧延伸足够长之后必然相交
+> 
+> 1820年左右，俄国喀山大学教授[罗巴切夫斯基](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%BD%97%E5%B7%B4%E5%88%87%E5%A4%AB%E6%96%AF%E5%9F%BA)提出了一个与第五公设相矛盾的命题，然后与欧几里得的前四个公设结合成一个公理系统，展开一系列的推理。他认为如果这个系统在推理中出现矛盾，就等于证明了第五公设，此即数学中的反证法。
+> 
+> 但是，在他极为细致深入的推理过程中，得出了一个又一个在直觉上匪夷所思，但在逻辑上毫无矛盾的命题。这在当时是一件很难理解的事情，因为人们一致认为，欧几里得几何是物质空间中图形性质的正确理想化。正确的几何结论不应该与我们的直观感受不符。
+> 
+> 现在看来，这样理解当然是有问题的，因为，==它混淆了公理系统中的结论，和对这些结论的解释。== 就好像上文中我们为“pq”系统增加了新公理一样，新定理仍然是正确推导的产物，只是不能沿用旧方式进行解释了。
+> 
+> 关于欧几里得第五公设，最终人们得到了三种常用的几何学，称为欧几里得几何，罗巴切夫斯基几何，以及黎曼几何。这些公理系统，对研究不同的数学对象起到了关键作用。
+##### Formal System & Mathematical Logic
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+#### The Axiomatic Method in Mathematics
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#The_axiomatic_method_in_mathematics
+
+The reduction of a body of propositions to a particular collection of axioms underlies [mathematical research](https://en.wikipedia.org/wiki/Mathematical_research "Mathematical research"). This dependence was very prominent, and contentious, in the mathematics of the first half of the twentieth century, a period to which some major landmarks of the axiomatic method belong. The [probability axioms](https://en.wikipedia.org/wiki/Probability_axioms "Probability axioms") of [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov "Andrey Kolmogorov"), from 1933, are a salient example. The approach was sometimes attacked as "formalism", because it cut away parts of the working intuitions of mathematicians, and those applying mathematics. In historical context, this alleged formalism is now discussed as [deductivism](https://en.wikipedia.org/wiki/Deductivism "Deductivism"), still a widespread philosophical approach to mathematics.
+- Timeline of axiomatic systems to 1900
+- Situation at the beginning of the 20th century
+- Timeline of axiomatic systems from 1901
+	- 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Timeline_of_axiomatic_systems_from_1901
+- Situation at mid-20th century
+	- 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Situation_at_mid-20th_century
+	- Three prominent features of mathematics in 1950 were:
+		- The continuing publication in France by the [Bourbaki group](https://en.wikipedia.org/wiki/Bourbaki_group "Bourbaki group") of the book series _[Éléments de mathématique](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique "Éléments de mathématique")_. It aimed at an encyclopedic treatment of foundational concepts.
+		- A dynamic situation in the foundations of [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry "Algebraic geometry"), following the publication of _[Foundations of Algebraic Geometry](https://en.wikipedia.org/wiki/Foundations_of_Algebraic_Geometry "Foundations of Algebraic Geometry")_ by [André Weil](https://en.wikipedia.org/wiki/Andr%C3%A9_Weil "André Weil").
+		- [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory "Quantum field theory") (QFT), which lacked a satisfactory axiomatic foundation.
+#### Discussion of Axiomatic Systems
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Discussion_of_axiomatic_systems
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **axiomatization** is the process of taking a body of knowledge and working backwards towards its axioms. It is the formulation of a system of statements (i.e. [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom")) that relate a number of primitive terms — in order that a [consistent](https://en.wikipedia.org/wiki/Consistency_proof "Consistency proof") body of [propositions](https://en.wikipedia.org/wiki/Boolean-valued_function "Boolean-valued function") may be derived [deductively](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") from these statements. Thereafter, the [proof](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") of any proposition should be, in principle, traceable back to these axioms. Axiomatization typically involves choices, and once a theory is axiomatic, it may be possible to change the set of axioms without affecting the mathematical results implied.
+##### Axioms, Postulates (Proposition), and First Principle 
+> [!link]
+> ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> 
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Axioms_and_postulates
+
+In [Ancient Greek logic](https://en.wikipedia.org/wiki/Ancient_Greek_logic "Ancient Greek logic"), a contrast between axioms and [postulates](https://en.wikipedia.org/wiki/Postulate "Postulate") was recognised ("postulate" being, however, an English term taken from [medieval Latin](https://en.wikipedia.org/wiki/Medieval_Latin "Medieval Latin")). It reflected, without being applied consistently, axioms as speaking about [primitive notions](https://en.wikipedia.org/wiki/Primitive_notion "Primitive notion") in a way that should be [common ground](https://en.wikipedia.org/wiki/Common_ground_\(linguistics\) "Common ground (linguistics)"); and postulates as "requests" or "demands", for the purposes of [argument](https://en.wikipedia.org/wiki/Argument "Argument"). [Aristotle](https://en.wikipedia.org/wiki/Aristotle "Aristotle")'s view was [minimalist](https://en.wiktionary.org/wiki/minimalist "wikt:minimalist") about postulates.
+
+From the time of Boole's work in the 1840s, in the [algebra of logic](https://en.wikipedia.org/wiki/Algebra_of_logic "Algebra of logic") tradition, logic itself was developed from "postulates" alone. The minimalist view was taken, by the end of the 19th century, to imply research on independence of axioms. [Mathematical elegance](https://en.wikipedia.org/wiki/Mathematical_elegance "Mathematical elegance") was also a consideration. [Friedrich Schur](https://en.wikipedia.org/wiki/Friedrich_Schur "Friedrich Schur") criticised the lack of independence of Hilbert's axioms for geometry given in _Grundlagen der Geometrie_.
+###### Postulational Analysis
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Timeline_of_postulational_analysis
+
+**Postulational analysis**, according to [Susan Stebbing](https://en.wikipedia.org/wiki/Susan_Stebbing "Susan Stebbing"), is what is used "in the construction of a [deductive system](https://en.wikipedia.org/wiki/Deductive_system "Deductive system")".[[56]](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-56) It is a term applied to the correcting or adjusting of axiomatic systems. Axioms may be added to, or removed from, the system; they may be strengthened or weakened. It is also possible to change the logical calculus used for deduction.
+
+| Date                                                                                                                                                                                    | Author                                                                                                                         | Work                                                                                                             | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Fourth century BCE](https://en.wikipedia.org/wiki/Fourth_century_BCE "Fourth century BCE") to [third century BCE](https://en.wikipedia.org/wiki/Third_century_BCE "Third century BCE") | [Euclid](https://en.wikipedia.org/wiki/Euclid "Euclid") of [Alexandria](https://en.wikipedia.org/wiki/Alexandria "Alexandria") | _[The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements "Euclid's Elements")_                          | The Greek term used by Euclid was αἰτήματα (aitēmata).[53](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-Smith-53) Its standard English translation is "postulate".[57](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-57)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 1882                                                                                                                                                                                    | [Moritz Pasch](https://en.wikipedia.org/wiki/Moritz_Pasch "Moritz Pasch")                                                      | [Pasch's axiom](https://en.wikipedia.org/wiki/Pasch%27s_axiom "Pasch's axiom")                                   | Pasch introduced an axiom of [plane geometry](https://en.wikipedia.org/wiki/Plane_geometry "Plane geometry") not proved by Euclid, but used by him tacitly.[58](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-58) It was not a consequence of Euclid's axioms, i.e. was [independent](https://en.wikipedia.org/wiki/Independence_\(mathematical_logic\) "Independence (mathematical logic)") of Euclid's system.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| fl. 1890 – 1930                                                                                                                                                                         | American school                                                                                                                | postulate theory                                                                                                 | Abrams wrote "Mathematics in the United States began to develop along the lines of inward-looking scrutiny and theoretical rigor that had already been developing in places like France and Germany since the early nineteenth century." "Postulate theory" was a major part in this distinctive trend in American [pure mathematics](https://en.wikipedia.org/wiki/Pure_mathematics "Pure mathematics").[59](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-59) Scanlan points to the school's "standards for axiomatizations of mathematical theories", and work on "[metatheoretic](https://en.wikipedia.org/wiki/Metatheoretic "Metatheoretic") properties such as [independence](https://en.wikipedia.org/wiki/Independence_\(mathematical_logic\) "Independence (mathematical logic)"), [completeness](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)"), and [consistency](https://en.wikipedia.org/wiki/Consistency "Consistency")". [E. V. Huntington](https://en.wikipedia.org/wiki/E._V._Huntington "E. V. Huntington") and [Oswald Veblen](https://en.wikipedia.org/wiki/Oswald_Veblen "Oswald Veblen") were representative figures of the school. With [E. H. Moore](https://en.wikipedia.org/wiki/E._H._Moore "E. H. Moore") and [Robert Lee Moore](https://en.wikipedia.org/wiki/Robert_Lee_Moore "Robert Lee Moore"), they contributed significantly to the international drive for axiomatic mathematics.[60](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-60)[61](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-61) |
+| 1904                                                                                                                                                                                    | Oswald Veblen                                                                                                                  | [categorical theory](https://en.wikipedia.org/wiki/Categorical_theory "Categorical theory")                      | Veblen called a theory categorical if it has essentially just one model.[62](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-62)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1910                                                                                                                                                                                    | [Axel Thue](https://en.wikipedia.org/wiki/Axel_Thue "Axel Thue")                                                               | _Die Lösung eines Spezialfalles eines generellen logischen Problems_                                             | Introduced the [word problem](https://en.wikipedia.org/wiki/Word_problem_\(mathematics\) "Word problem (mathematics)") for an [equational theory](https://en.wikipedia.org/wiki/Equational_theory "Equational theory"), an aspect of universal algebra.[63](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-63)[64](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-64)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1915                                                                                                                                                                                    | [Leopold Löwenheim](https://en.wikipedia.org/wiki/Leopold_L%C3%B6wenheim "Leopold Löwenheim")                                  | _Über Möglichkeiten im Relativkalkül_                                                                            | First form of what is now known as the [Löwenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim-Skolem_theorem "Löwenheim-Skolem theorem"), a major step in isolating the role in foundational work of [first-order logic](https://en.wikipedia.org/wiki/First-order_logic "First-order logic"). His work was clarified and strengthened by [Thoralf Skolem](https://en.wikipedia.org/wiki/Thoralf_Skolem "Thoralf Skolem") in the 1920s.[65](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-65)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1926                                                                                                                                                                                    | [Adolf Lindenbaum](https://en.wikipedia.org/wiki/Adolf_Lindenbaum "Adolf Lindenbaum")                                          | [Lindenbaum-Tarski algebra](https://en.wikipedia.org/wiki/Lindenbaum-Tarski_algebra "Lindenbaum-Tarski algebra") | Lindenbaum's work led to [algebraic logic](https://en.wikipedia.org/wiki/Algebraic_logic "Algebraic logic").[66](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-66)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 1933                                                                                                                                                                                    | [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski "Alfred Tarski")                                                   | [truth definition](https://en.wikipedia.org/wiki/Truth_definition "Truth definition")                            | Tarski's approach, with a clear distinction between an "object language" and the [metalanguage](https://en.wikipedia.org/wiki/Metalanguage "Metalanguage") used to describe it, led to [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory") based on truth definition via [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction") over terms in first-order logic.[67](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-67)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 1935                                                                                                                                                                                    | [Garrett Birkhoff](https://en.wikipedia.org/wiki/Garrett_Birkhoff "Garrett Birkhoff")                                          | [HSP theorem](https://en.wikipedia.org/wiki/HSP_theorem "HSP theorem")                                           | Birkhoff refounded [universal algebra](https://en.wikipedia.org/wiki/Universal_algebra "Universal algebra"), consciously taking the title of Whitehead's book of a generation earlier, around the concept of "variety of algebra". With the older examples such as Boolean algebra and [quaternions](https://en.wikipedia.org/wiki/Quaternions "Quaternions"), motivations were the [free algebras](https://en.wikipedia.org/wiki/Free_algebra "Free algebra"), and application from [order theory](https://en.wikipedia.org/wiki/Order_theory "Order theory"), such as the [modular lattice](https://en.wikipedia.org/wiki/Modular_lattice "Modular lattice") exploited by [Øystein Ore](https://en.wikipedia.org/wiki/%C3%98ystein_Ore "Øystein Ore") in the context of Noether's school of abstract algebra.[68](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-68)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 1950s                                                                                                                                                                                   | Tarski school at Berkeley                                                                                                      | classical model theory                                                                                           | Largely developed by students of Tarski at [University of California, Berkeley](https://en.wikipedia.org/wiki/University_of_California,_Berkeley "University of California, Berkeley") from 1942, [model theory](https://en.wikipedia.org/wiki/Model_theory "Model theory") capitalised on earlier work to produce a principled semantics for axiomatic systems within [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic").[69](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-69)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 2024                                                                                                                                                                                    | [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao "Terence Tao")                                                         | Equational Theories Project[70](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-70)                     | A project to have a complete calibration of theories in [equational logic](https://en.wikipedia.org/wiki/Equational_logic "Equational logic") for a [magma](https://en.wikipedia.org/wiki/Magma_\(algebra\) "Magma (algebra)"), where the binary operation is used at most four times. A [partial order](https://en.wikipedia.org/wiki/Partial_order "Partial order") on the theories makes _T_≤_U_ when _T_ implies all the theorems implied by _U_. The purpose of the project was to determine all the cases of ≤, so that an accurate [Hasse diagram](https://en.wikipedia.org/wiki/Hasse_diagram "Hasse diagram") of the partial order can be drawn. [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant "Proof assistant") software was used in some cases. The project was completed in April 2025.[71](https://en.wikipedia.org/wiki/Axiomatic_system#cite_note-71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+##### Properties of (Formal) Axiomatic System
+> [!links]
+> ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Properties
+
+Four important properties of an axiom system are consistency, relative consistency, completeness and independence. An axiomatic system is said to be consistent if it lacks contradiction. That is, it is impossible to derive both a statement and its negation from the system's axioms.[72] Consistency is a key requirement for most axiomatic systems, as the presence of contradiction would allow any statement to be proven (principle of explosion). Relative consistency comes into play when we can not prove the consistency of an axiom system. However, in some cases we can show that an axiom system A is consistent if another axiom set B is consistent.[72]
+
+In an axiomatic system, an axiom is called independent if it cannot be proven or disproven from other axioms in the system. A system is called independent if each of its underlying axioms is independent.[72] Unlike consistency, in many cases independence is not a necessary requirement for a functioning axiomatic system — though it is usually sought after to minimize the number of axioms in the system.
+
+An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms, i.e. every statement can be proven true or false by using the axioms.[72][73] However, note that in some cases it may be undecidable if a statement can be proven or not.
+###### Incompleteness & Gödel's Incompleteness Theorems ⭐
+> [!links]
+> ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
+
+> 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Incompleteness
+
+If the formal system is not [complete](https://en.wikipedia.org/wiki/Completeness_\(logic\) "Completeness (logic)") not every proof can be traced back to the axioms of the system it belongs. For example, a number-theoretic statement might be expressible in the language of arithmetic (i.e. the language of the Peano axioms) and a proof might be given that appeals to [topology](https://en.wikipedia.org/wiki/Topology "Topology") or [complex analysis](https://en.wikipedia.org/wiki/Complex_analysis "Complex analysis"). It might not be immediately clear whether another proof can be found that derives itself solely from the Peano axioms.
+
+> 🔗 https://thzt.github.io/2018/01/30/semantics-4/
+
+是不是任意一个公理系统都是可靠且完全的呢？可惜并不是如此。[哥德尔](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94)在1931年给出了两个定理，终结了人们的幻想，分别称为哥德尔不完全性定理，和哥德尔协调性定理。他指出，
+- 如果$\Gamma$是一个有穷，并包含初等算术$\Pi$的形式理论，那么$\Gamma$是一个不完全的形式理论。
+- 如果形式理论Γ包含初等算术$\Pi$，那么$\Pi$的协调性不能在$\Gamma$中被证明。
+
+> 所以，在软件开发过程中，检查一个软件系统是否符合设计要求，所使用的方法就是对它进行测试，在这个软件系统之外进行证明。
+##### Axioms and Models
+> [!links]
+> ↗ [Model Theory (模型论)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
+> ↗ [Mathematical Modeling & Abstraction](Mathematical%20Modeling%20&%20Abstraction.md)
+> ↗ [Models of Computation & Abstract Machines](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
+
+A model for an axiomatic system is a formal structure, which assigns meaning for the undefined terms presented in the system, in a manner that is correct with the relations defined in the system. If an axiom system has a model, the axioms are said to have been satisfied.[74] The existence of a model which satisfies an axiom system, proves the consistency of the system.[75]
+
+Models can also be used to show the independence of an axiom in the system. By constructing a model for a subsystem (without a specific axiom) shows that the omitted axiom is independent if its correctness does not necessarily follow from the subsystem.[74]
+
+Two models are said to be isomorphic if a one-to-one correspondence can be found between their elements, in a manner that preserves their relationship.[76] An axiomatic system for which every model is isomorphic to another is called categorical or categorial. However, this term should not be confused with the topic of category theory. The property of categoriality (categoricity) ensures the completeness of a system, however the converse is not true: Completeness does not ensure the categoriality (categoricity) of a system, since two models can differ in properties that cannot be expressed by the semantics of the system.
+
+
+### Proof, Reason, and Computation
+#### Finding Proofs & Types of Proofs ⭐
+> [!links]
+> ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
+> ↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+> 
+> ↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+> - ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+> - ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+
+> 📖  Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
+##### Proof by Construction (构造法)
+
+##### Proof by Contradiction (反证法，归谬法)
+
+##### Proof by Induction (归纳法)
+> 🔗 https://en.wikipedia.org/wiki/Mathematical_induction
+
+**Mathematical induction** is a method for [proving](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") that a statement $P(n)$ is true for every [natural number](https://en.wikipedia.org/wiki/Natural_number "Natural number") $n$, that is, that the infinitely many cases $\displaystyle P(0),P(1),P(2),P(3),\dots$  all hold. This is done by first proving a simple case, then also showing that if we assume the claim is true for a given case, then the next case is also true. Informal metaphors help to explain this technique, such as falling dominoes or climbing a ladder:
+
+> [!quote]
+> Mathematical induction proves that we can climb as high as we like on a ladder, by proving that we can climb onto the bottom rung (the **basis**) and that from each rung we can climb up to the next one (the **step**).
+> — _[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics "Concrete Mathematics")_, page 3 margins.
+
+A **proof by induction** consists of two cases. The first, the **base case**, proves the statement for $n=0$ without assuming any knowledge of other cases. The second case, the **induction step**, proves that _if_ the statement holds for any given case $n=k$, _then_ it must also hold for the next case $n=k+1$. These two steps establish that the statement holds for every natural number $n$. The base case does not necessarily begin with $n=0$, but often with $n=1$, and possibly with any fixed natural number $n=N$, establishing the truth of the statement for all natural numbers $n≥N$.
+
+The method can be extended to prove statements about more general [well-founded](https://en.wikipedia.org/wiki/Well-founded "Well-founded") structures, such as [trees](https://en.wikipedia.org/wiki/Tree_\(set_theory\) "Tree (set theory)"); this generalization, known as [structural induction](https://en.wikipedia.org/wiki/Structural_induction "Structural induction"), is used in [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). Mathematical induction in this extended sense is closely related to [recursion](https://en.wikipedia.org/wiki/Recursion "Recursion"). Mathematical induction is an [inference rule](https://en.wikipedia.org/wiki/Inference_rule "Inference rule") used in [formal proofs](https://en.wikipedia.org/wiki/Formal_proof "Formal proof"), and is the foundation of most [correctness](https://en.wikipedia.org/wiki/Correctness_\(computer_science\) "Correctness (computer science)") proofs for computer programs.
+
+==Despite its name, mathematical induction differs fundamentally from [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning") as [used in philosophy](https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction")==, in which the examination of many cases results in a probable conclusion. The mathematical method examines infinitely many cases to prove a general statement, but it does so by a finite chain of [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") involving the [variable](https://en.wikipedia.org/wiki/Variable_\(mathematics\) "Variable (mathematics)") $n$, which can take infinitely many values. The result is a rigorous proof of the statement, not an assertion of its probability.
+###### 📌 Well-Founded Induction
+> [!links]
+> ↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+> - ↗ [Partial Order & Order Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+> 
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
+
+归纳法有各种各样的形式，自然数归纳法只是其中的一种应用，在数理逻辑和形式语言理论中，用的最多的是结构归纳法，在树形结构上进行归纳，后续文章中我们会提到。
+
+**人们总结了各种归纳法的共性，提出了良基关系（well-founded relation）的概念，于是，自然数归纳法和结构归纳法都变成了在良基关系上通用归纳法的具体应用了**。
+
+良基归纳法：
+- 设 $\prec$ 为集合 $A$ 上的良基二元关系，并且设 $P$ 为关于 $A$ 中元素的某个命题。
+- 如果 $P(b)$ 对于所有的 $b \prec a$ 成立，就必然有 $P(a)$ 成立，那么 $P(a)$ 就对所有的 $a \in A$ 成立。
+
+我们看到 $<$ 确实是自然数集上的良基关系，因此自然数归纳法只是良基归纳法的一种特例。现在我们有了足够的能力来证明自然数归纳法的正确性了，只要我们证明了良基归纳法是正确的。
+
+还是用反证法，我们期望证明：
+- 前提：如果 $P(b)$ 对于所有的 $b \prec a$ 成立，必然有 $P(a)$ 成立；
+- 结论：那么对于所有的 $a \in A, P(a)$ 都成立。
+如若不然，假设存在 $x \in A$，使得 $P(x)$ 不成立，则集合 $B = \{a \in A \mid \neg P(a)\}$ 非空。因此根据良基关系的等价定义，集合 $B$ 必有最小元 $m \in B \subseteq A$，而且 $\neg P(m)$ 成立。
+
+则根据前提的逆否命题，一定存在 $b \prec m$，使得 $\neg P(b)$ 成立。所以，我们有 $b \in B$，且 $b \prec m$，与 $m$ 是 $B$ 的最小元矛盾。
+
+证毕。
+
+由此，我们证明了良基归纳法的正确性。理解良基关系和偏序关系，是理解递归和不动点算子的第一步。
+
+不知道是否很明显了，递归的步骤和归纳的步骤，简直是太像了，这一定不是偶然。在[The Little Prover](https://book.douban.com/subject/26429992/)一书中，为了证明递归函数是否全函数（total function），作者使用了测度（measure）的概念，这实际上定义了参数集上的一个良基关系。
+###### Natural Number Induction
+> [!links]
+> ↗ [Natural Number & Peano Axioms](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Number%20Sets%20&%20Field%20Construction%20(Completion)%20and%20Extension/Natural%20Number%20&%20Peano%20Axioms.md)
+
+> 🔗 https://thzt.github.io/2017/03/03/recursive-function-3/
+
+自然数归纳法，是一种数学证明方法，通常被用于证明某个给定命题在整个（或者局部）自然数范围内成立。它可以用一个有限的方式写出一个无限的证明。
+
+后续文章中我们会看到，这种用有限表示无限的方法，其实是有局限性的，并不能用来解决所有的问题，它能处理的只是无限中的一个子集罢了。
+
+自然数归纳法，我们可以描述如下：
+为证明对每一个自然数n，命题P(n)为真，只需要证明两件事，
+（1）对于自然数1，命题P(1)为真
+（2）如果对于自然数m，命题P(m)为真，那么对于自然数m+1，命题P(m+1)也为真
+
+其中，第(1)条称为起始条件，第(2)条称为递推条件，或者称为归纳步骤。
+第(2)条中，为了证明P(m+1)而假设的P(m)，称为归纳假设。
+
+这似乎是很显然的事情，我们可以在一张无限长的纸带开头写上初始条件P(1)，接着根据递推条件，由P(1)我们可以证明P(2)成立，重复这种思想，我们可以由P(2)证明P(3)成立，如此不断的进行下去，最终，对于每个自然数n，我们都能证明P(n)成立。
+
+但是，这样并不算是一个有效的证明。要证明自然数归纳法的正确性，我们还需要补充一些集合论方面的知识：↗ [Relation & Relation Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+
+---
+然而，在此之前，我们还是先来看自然数归纳法的一个例子吧。
+
+在之前的讨论中，我们定义了递归函数 `fact`。我们先找到了“递推式”，再找到了“终止条件”，然后写出了`fact`的定义：
+```haskell
+fact :: Int -> Int  
+fact 1 = 1  
+fact n = n * fact (n-1)
+```
+
+证明其正确性（即证明 `fact` 等于阶乘函数 $f(n) = n!$）是必不可少的步骤。我们可以使用**自然数归纳法**来完成这一证明。
+
+
+**使用自然数归纳法证明 `fact`**
+假设命题 $P(n)$ 为：`fact n` 的值为 $n!$。
+1. **基础步骤**：对于自然数 1，命题 $P(1)$ 成立，因为 `fact 1` 的值为 $1! = 1$。
+2. **归纳步骤**：假设对于自然数 $m$，命题 $P(m)$ 成立，即 `fact m` 的值为 $m!$。
+    - 那么，我们可以得到 `fact (m+1) = (m+1) * fact m`。
+    - 其值为 $(m+1) * m! = (m+1)!$，因此命题对 $m+1$ 也成立。
+
+所以，对于任意自然数 ($n \geqslant 1$)，`fact n` 的值就是 $n!$。至此，我们证明了 `fact` 就是阶乘函数 $f(n) = n!$。
+
+
+**自然数归纳法的等价形式**
+自然数归纳法还有另一种等价形式：如果要证明 $P(n)$ 对每一个自然数 $n$ 为真，只要证明对于任意自然数 $m$，如果当 $i < m$ 时 $P(i)$ 为真，那么 $P(m)$ 也为真。
+###### Structure Induction
+##### Proof by Deduction (演绎法) & Deductive Reasoning ⭐
+↗ [Logic (and Critical Thinking)](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+
+↗ [Proof Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
+- ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
+- ↗ [Hilbert-Style Deduction Systems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Hilbert-Style%20Deduction%20Systems.md)
+
+↗ [Mathematical Logic (Foundations of Mathematics)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+	- ↗ [Classical Logic (Standard Formal Logic)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
+		-  ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+		- ↗ [(First-Order) Predicate Logic -（一阶）谓词逻辑 /Reasoning in Predicate Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md#Reasoning%20in%20Predicate%20Logic)
+- ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
+###### Syllogism and Natural Deduction
+> [!links]
+> ↗ [Gentzen-Style Proofs (Natural Deduction)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md) ✅
+> ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Reasoning in Propositional Logic](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Reasoning%20in%20Propositional%20Logic)
+
+**Idea: Syllogism**
+
+**Trivial example from Aristoteles:**
+
+Premise 1 All humans are mortal  
+Premise 2 Sokrates is a human  
+———————————————  
+Conclusion Sokrates is mortal
+
+**Things to note:**
+- Independent of the precise definitions of **human** and **mortal**.
+- Rather, human and mortal are characterized by the premises.
+- Really logical: if you accept the premises, you cannot really reject the conclusion.
+- Aristoteles regarded syllogisms as the most primitive building blocks of logical reasoning. (How to “prove” those?)
+
+
+**Modern View**
+
+Premise 1 $\forall X.\ \mathrm{human}(X) \Rightarrow \mathrm{mortal}(X)$
+Premise 2 $\mathrm{human}(\mathrm{sokrates})$ 
+———————————————
+Conclusion $\mathrm{mortal}(\mathrm{sokrates})$
+
+**Things to note:**
+- Independent of the precise definitions of **human** and **mortal**.
+- In every *interpretation* that fulfills the premises, also the conclusion is fulfilled.
+- One can regard it as even more basic reasoning steps, e.g. natural deduction: $$
+\frac{
+\frac{\forall X.\ h(X)\Rightarrow m(X)}
+{h(s)\Rightarrow m(s)}
+\;\forall E
+\qquad h(s)}
+{m(s)}
+\;\rightarrow E
+$$
+#### Proof /Reason via Logic & Formal Methods
+↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) "Logic: Formal Methods, Proof, and Reasoning 🤔"
+
+
+Automated Reasoning & Proof Assistance
+↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md) 
+↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
+- ↗ [Automated & Generic Theorem Provers](../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
+
+↗ [Formal Verification & Analysis Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md) 
+- ↗ [LEAN](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
+
+↗ [Logic Programming Languages](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
+- ↗ [Prolog (Programmation en Logique)](../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Prolog%20(Programmation%20en%20Logique)/Prolog%20(Programmation%20en%20Logique).md)
+#### Proof as Program & Computation
+↗ [Theory of Computation](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 
 

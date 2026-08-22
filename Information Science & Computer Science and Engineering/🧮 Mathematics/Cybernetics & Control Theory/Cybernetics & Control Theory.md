@@ -167,7 +167,7 @@ List of the main control techniques
 > 
 > ↗ [Expert System (ES)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Expert%20System%20(ES)/Expert%20System%20(ES).md)
 > 
-> ↗ [Fuzzy Logic](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
+> ↗ [Fuzzy Logic](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Many-Valued%20Logic/Fuzzy%20Logic/Fuzzy%20Logic.md)
 
 **Intelligent control** is a class of [control](https://en.wikipedia.org/wiki/Control_theory "Control theory") techniques that use various [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") computing approaches like [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_networks "Artificial neural networks"), [Bayesian probability](https://en.wikipedia.org/wiki/Bayesian_probability "Bayesian probability"), [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic "Fuzzy logic"), [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning "Reinforcement learning"), [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation "Evolutionary computation") and [genetic algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm "Genetic algorithm").
 Intelligent control can be divided into the following major sub-domains:

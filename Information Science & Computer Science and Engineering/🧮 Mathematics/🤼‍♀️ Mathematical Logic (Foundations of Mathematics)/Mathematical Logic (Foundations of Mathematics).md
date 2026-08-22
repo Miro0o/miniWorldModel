@@ -21,7 +21,7 @@
 	- ↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 - ↗ [Logic Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 	- ↗ [Haskell](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+	- ↗ [Lambda Calculus (λ-Calculus)](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 
 ↗ [Programming Language Processing & Program Execution](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
 ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
@@ -95,7 +95,7 @@ https://planet.haskell.org/
 ## Intro
 > [!lnks]
 > ↗ [Logic (and Critical Thinking)](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 > [!info]
 > 95 【数理逻辑：数学与哲学之间 - 言吾言 | 小红书 - 你的生活兴趣社区】 😆 1WewHxWSL9UDlvy 😆 https://www.xiaohongshu.com/discovery/item/6a699fb9000000001d00f756?source=webshare&xhsshare=pc_web&xsec_token=CBgErnyhnwc4UjZBlWvf2SpkngoqNjtk9p7_N_YSQv2iM=&xsec_source=pc_share
@@ -113,8 +113,8 @@ https://planet.haskell.org/
 Since its inception, mathematical logic has both contributed to and been motivated by the study of foundations of mathematics. This study began in the late 19th century with the development of [axiomatic](https://en.wikipedia.org/wiki/Axiom "Axiom") frameworks for [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"), [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic"), and [analysis](https://en.wikipedia.org/wiki/Mathematical_analysis "Mathematical analysis"). In the early 20th century it was shaped by [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert "David Hilbert")'s [program](https://en.wikipedia.org/wiki/Hilbert%27s_program "Hilbert's program") to prove the consistency of foundational theories. Results of [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del "Kurt Gödel"), [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen "Gerhard Gentzen"), and others provided partial resolution to the program, and clarified the issues involved in proving consistency. Work in set theory showed that almost all ordinary mathematics can be formalized in terms of sets, although there are some theorems that cannot be proven in common axiom systems for set theory. Contemporary work in the foundations of mathematics often focuses on establishing which parts of mathematics can be formalized in particular formal systems (as in [reverse mathematics](https://en.wikipedia.org/wiki/Reverse_mathematics "Reverse mathematics")) rather than trying to find theories in which all of mathematics can be developed.
 
 
-↗ [Formal System, Formal Logics, and Its Semantics](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+↗ [Formal System, Formal Logic, and Its Semantics](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 - ↗ [Boolean Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
 
 ↗ [Set Theory & Axiomatic Set Theory](🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
@@ -147,7 +147,7 @@ It results from this that the basic mathematical concepts, such as [numbers](ht
 #### Mathematics Logic & Foundations ⭐
 > [!links]
 > ↗ [Set Theory & Axiomatic Set Theory](🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-> ↗ [Type Theory (类型论)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+> ↗ [Type Theory (类型论)](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 > ↗ [Category Theory (范畴论)](../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 
 > 🤖 GPT-5.0
@@ -227,18 +227,21 @@ It supplies:
 Set theory is **one powerful construction** using this toolkit.
 
 
-### Logic & Reasoning
-> [!links]
-> ↗ [Logic (and Critical Thinking) / Logical Reasoning](../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Logical%20Reasoning)
-> ↗ [Formal System, Formal Logics, and Its Semantics](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-> 
-> ↗ [Classical Logic (Standard Formal Logic)](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
-> ↗ [Intuitionistic (Constructive) Logic](📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Intuitionistic%20(Constructive)%20Logic/Intuitionistic%20(Constructive)%20Logic.md)
-> 
-> ↗ [Proof Theory](Proof%20Theory/Proof%20Theory.md)
-> ↗ [Gentzen-Style Proofs (Natural Deduction)](Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+### Formal Language, Formal System, and Formal Logic & Proof, Reason, and Computation
+↗ [Automata Theory and (Formal) Language Theory](😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+
+↗ [Formal System, Formal Logic, and Its Semantics](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+↗ [Classical Logic (Standard Formal Logic)](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Classical%20Logic%20(Standard%20Formal%20Logic).md)
 
 Among various methods of logical reasoning, deductive reasoning is deemed to be the best. Among various methods of deductive reasoning, classical logic (standard formal logic) lays the foundation of all other methods of deductions. 
+
+
+
+## Determinism vs Non-determinism
+> [!Links]
+> ↗ [Probability Theory & Statistics](../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/📊%20Probability%20Theory%20&%20Statistics/Probability%20Theory%20&%20Statistics.md)
+> 
+> ↗ [Formal System, Formal Logic, and Its Semantics](📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 
 

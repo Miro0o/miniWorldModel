@@ -108,14 +108,14 @@ An _interpretation_ is an [assignment](https://en.wikipedia.org/wiki/Valuatio
 
 
 ### Semantics & Formal Semantics
-↗ [Mathematical Logic Basics (Formal Logic)](../Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) "Semantic & The Semantics of Mathematical Logics"
+↗ [Mathematical Logic Basics (Formal Logic)](../Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) "Semantic & The Semantics of Mathematical Logics"
 
 ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
 
 ## Formal Syntax Basics: Grammatical Category & Logic Formula
-> ↗ [Formal System, Formal Logics, and Its Semantics](../Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > ↗ [Syntactic Analysis (Parsing)](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/Syntactic%20Analysis%20(Parsing).md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/

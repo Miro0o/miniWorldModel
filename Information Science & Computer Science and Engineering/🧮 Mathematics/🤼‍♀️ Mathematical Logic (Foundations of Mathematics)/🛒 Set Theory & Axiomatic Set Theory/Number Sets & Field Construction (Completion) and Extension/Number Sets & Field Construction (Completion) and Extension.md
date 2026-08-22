@@ -67,7 +67,7 @@ Similar examples can be given for almost every algebraic structures, with, somet
 
 ## Natural Number Set & Peano Axioms
 > [!links]
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) Gödel's Incompleteness Theorems
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) Gödel's Incompleteness Theorems
 
 ↗ [Natural Number & Peano Axioms](Natural%20Number%20&%20Peano%20Axioms.md)
 
@@ -78,7 +78,7 @@ Similar examples can be given for almost every algebraic structures, with, somet
 
 ## Field Extension From Natural Number
 > [!links]
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
 ![Screenshot 2025-10-07 at 18.56.35](../../../../../Assets/Pics/Screenshot%202025-10-07%20at%2018.56.35.png)
