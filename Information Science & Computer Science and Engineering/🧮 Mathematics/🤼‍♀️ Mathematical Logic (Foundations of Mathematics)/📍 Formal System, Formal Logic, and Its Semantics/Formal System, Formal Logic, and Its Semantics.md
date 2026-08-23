@@ -29,6 +29,7 @@
 - ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
 ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 - ↗ [Axiomatic Semantics (Hoare-Style Logic)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Axiomatic%20Semantics%20(Hoare-Style%20Logic)/Axiomatic%20Semantics%20(Hoare-Style%20Logic).md)
 - ↗ [Denotational Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Denotational%20Semantics/Denotational%20Semantics.md)
@@ -108,6 +109,7 @@ A **formal system** goes one step further. It uses a formal language and adds ru
 - Syntactic entailment:
 	- $\Gamma \vdash \varphi$
 	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+	- It is about what we can proof, given starting statement and inference rules.
 **Axiomatic system** =
 - Same as formal system, but not necessarily formal language based.
 - Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
@@ -116,90 +118,150 @@ A **(formal) semantics** is a structure /interpretation assigned to (formal) lan
 - $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
 - Semantic entailment:
 	- $\Gamma \models \varphi$
-	- $\Gamma$ semantically entail $\varphi$: **every interpretation/model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+	- It is about what we define as truth.
 
-To conclude:
+This naturally introduces: (see "properties of formal /logic system")
+- soundness: what we can syntactically proof are all semantically true;
+	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
+- completeness: what are semantically true can all be syntactically proofed.
+	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
+
+To conclude: 
+
 ```tikz
 \usepackage{amsmath,amssymb}
-\usetikzlibrary{positioning,arrows.meta}
-
+\usetikzlibrary{calc}
 \begin{document}
 \begin{tikzpicture}[
-    >=Stealth,
-    every node/.style={
-        align=center
-    },
-    title/.style={
-        font=\bfseries
-    },
-    arrow/.style={
-        ->,
-        thick
-    }
+  scale=0.90, transform shape,
+  font=\small,
+  mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                  minimum width=4.25cm, minimum height=6.55cm, align=center},
+  consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                      minimum width=3.10cm, minimum height=1.25cm, align=center},
+  logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                   minimum height=1.05cm, align=center},
+  arr/.style={->, >=stealth, line width=.6pt},
+  relation/.style={->, >=stealth, line width=.55pt},
+  linklabel/.style={font=\scriptsize, inner sep=0pt},
+  smallnote/.style={font=\scriptsize, align=center}
 ]
 
+% =========================
+% Added logic layer (outside the original four-box structure)
+% =========================
+\node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+  {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+
+\node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+  {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+
+\draw[arr] (ordinarylogic.east) -- (formallogic.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+
+% =========================
+% Original four-column structure — preserved
+% =========================
+\node[mainbox] (ordinary) at (0,0) {};
+\node[mainbox] (axiomatic) at (4.75,0) {};
+\node[mainbox] (formal) at (9.50,0) {};
+\node[mainbox] (semantic) at (14.25,0) {};
+
 % Titles
-\node[title] (axiomatic-title) at (0,2.5)
-    {Axiomatic System};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+  {Ordinary\\mathematical\\activity};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+  {Axiomatic\\presentation};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+  {Formal system};
+\node[font=\bfseries, align=center] at (9.50,2.12)
+  {syntactic side};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+  {Model-theoretic\\semantics};
 
-\node[title] (formal-title) at (5,2.5)
-    {Formal System};
+% Top row content
+\node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+  {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+\node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+  {Specified language\\and primitive notions};
+\node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+  {Formal language $\mathcal L$};
+\node[align=center, text width=3.55cm] (models) at (14.25,.75)
+  {Structures /\\interpretations};
 
-% Main concepts
-\node (language) at (0,1.2)
-    {Language};
+% Bottom row content
+\node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+  {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+\node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+  {Axioms and accepted\\proof methods};
+\node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+  {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+\node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+  {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
 
-\node (formal-language) at (5,1.2)
-    {Formal Language};
+% Original vertical arrows
+\draw[arr] (mathlang.south) -- (reason.north);
+\draw[arr] (specified.south) -- (axioms.north);
+\draw[arr] (flang.south) -- (calculus.north);
+\draw[arr] (models.south) -- (sat.north);
 
-\node (proof-system) at (0,-0.5)
-    {Proof System};
+% Original horizontal arrows and labels — restored exactly
+\draw[arr] (mathlang.east) -- (specified.west)
+  node[midway,above=2.2pt,linklabel] {systematize};
+\draw[arr] (reason.east) -- (axioms.west)
+  node[midway,above=2.2pt,linklabel] {axiomatize};
+\draw[arr] (specified.east) -- (flang.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (axioms.east) -- (calculus.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (flang.east) -- (models.west)
+  node[midway,above=2.2pt,linklabel] {interpret};
 
-\node (formal-proof) at (5,-0.5)
-    {Formal Proof System};
+% =========================
+% Added relation of logic layer to original diagram
+% =========================
+% Ordinary logic informs ordinary mathematical reasoning.
+\draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+  node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
 
-\node (semantics) at (9,-0.5)
-    {Semantics};
+% Formal logic spans the proof-theoretic and semantic sides.
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+\draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+\node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+  {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+\draw[relation] (formallogic.south) -- (11.875,3.82);
 
-% Consequence notation
-\node (syntactic) at (5,-2)
-    {$\Gamma \vdash \varphi$};
+% =========================
+% Original consequence boxes
+% =========================
+\node[consequence] (syncon) at (9.50,-4.33)
+  {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+\node[consequence] (semcon) at (14.25,-4.33)
+  {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+\draw[arr] (formal.south) -- (syncon.north);
+\draw[arr] (semantic.south) -- (semcon.north);
 
-\node (semantic) at (9,-2)
-    {$\Gamma \models \varphi$};
+% =========================
+% Added soundness / completeness bridges
+% Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+% =========================
+\draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+  {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
 
-% Formalization arrows
-\draw[arrow]
-    (language) --
-    node[above, font=\scriptsize] {formalization}
-    (formal-language);
+\draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+  {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
 
-\draw[arrow]
-    (proof-system) --
-    node[above, font=\scriptsize] {formalization}
-    (formal-proof);
-
-% Axiomatic system
-\draw[arrow]
-    (language) -- (proof-system);
-
-% Formal language branches
-\draw[arrow]
-    (formal-language) -- (formal-proof);
-
-\draw[arrow]
-    (formal-language) -- (semantics);
-
-% Syntactic / semantic consequence
-\draw[arrow]
-    (formal-proof) -- (syntactic);
-
-\draw[arrow]
-    (semantics) -- (semantic);
+\node[smallnote] at (11.875,-6.96)
+  {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
 
 \end{tikzpicture}
 \end{document}
 ```
+Also in ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 > [!TIP]
 > The notations here $\implies$, $\vdash$, $\models$ can be confusing! 
@@ -210,13 +272,17 @@ To conclude:
 >
 > $A\implies B$ : (entailment)
 > - if $A\neq B$ then $(A\to B=0)$, otherwise $(A\to B)$ is always 1.
+> - It is a logical consequence relationship between $A$ and $B$. 
+> - Two kinds of logical consequence: syntactic consequence /entailment & semantic consequence /entailment
 > 
 > $A\vdash B$ (syntactic entailment)
+> - It is about what we can proof, given a starting statement and inference rule.
 > - `A ⊢ B` does **not** have a truth value.  The symbol `⊢` is **not** a connective inside the logic (like ∧, ∨, →). It is a **meta-logical** symbol meaning: “B is derivable from A in some proof system.”
 > - This is a _relation between sentences and proofs_, not a proposition that can be true or false _inside_ the logic.
 > - You _can_ say informally that `A ⊢ B` is _true_ if there exists a syntactic proof of B from A, and _false_ if not—but that is a statement **outside** the logic, in the meta-theory.
 > 
 > $A\models B$ (semantic entailment)
+> - It is about what we define as truth.
 > - Same as `A ⊢ B`, it is **not a formula of the object language**.  It is a **meta-logical statement** about semantics, meaning "In every valuation (or model) where A is true, B is also true."
 > - Can it be “true” or “false”? 
 > 	- Yes—but only as a **meta-theoretical fact**, not as a truth value inside the logic.
@@ -417,6 +483,10 @@ Simplified Typed Lambda Calculus
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
 > ↗ [Automata Theory and (Formal) Language Theory](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Formal Syntax & Metasyntax (and Metalanguage)](📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+> 
+> ↗ [Programming Language Theory (PLT)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
+> ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
+> ↗ [PL Static Syntactic Analysis & Type System](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Analysis%20&%20Systems/🦖%20PL%20Static%20Syntactic%20Analysis%20&%20Type%20System/PL%20Static%20Syntactic%20Analysis%20&%20Type%20System.md)
 
 > 🔗 https://thzt.github.io/2018/01/27/semantics-3/
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
@@ -487,6 +557,8 @@ Examples:
 - Modal logic ↔ Kripke frames
 From this view: Logics are **related species in a family**, not members of a single linear hierarchy.
 #### 0️⃣ Symbolic Notations
+
+In logic, the **order** of a system refers to the kinds of entities that its variables can quantify over. **Zeroth-order logic**, or propositional logic, has no quantification over objects and deals only with whole propositions. **First-order logic** allows quantification over individual objects, while **second-order logic** also allows quantification over properties, sets, or relations of those objects. Higher-order logics extend this idea further by allowing quantification over increasingly higher-level entities. Thus, “order” describes the **level of entities that can be quantified over**, not the number of arguments a predicate has.
 ##### Zero-Order Language
 ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 ##### First-Order Language
@@ -648,7 +720,7 @@ Informally, a soundness theorem for a deductive system expresses that all provab
 ↗ [Software Analysis Basics /Evaluation of Program Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md#Evaluation%20of%20Program%20Analysis)
 ##### Gödel's Incompleteness Theorems ⭐
 > [!TIP]
-> Incompleteness and Incoherence are Unprovable
+> Applies for formal axiomatic system.
  
 > [!links]
 > ↗ [Mathematics / Axiomatization of Mathematics & Axiomatic System ⭐](../../Mathematics.md#Axiomatization%20of%20Mathematics%20&%20Axiomatic%20System%20⭐)
@@ -869,10 +941,12 @@ $$\sigma(x) = a, \text{ 其中 } x \in V, a \in \mathbb{M} \text{}$$
 > ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
 > ↗ [(Formal) Model Checking](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 
-Intuitively explanation:
-When mapping two objects, or "assigning semantics", we don't assign an arbitary object to another arbitary object; instead, we assign them under some set of rules. Hence, under these rules, the result of such mapping can be deduced to a decision problem: either the mapping follows the rules (mapping succeeds) or don't (mapping fails). Further, we say A accept B, or A satisfy B, when such mapping succeeds. Accordingly, B is satisfiable, or SAT.
-
-Specifically, we consider the mapping between these two sets of objects: one is called (computational) model, one is called properties (on the model). A model is usually a mathematical structure, while a property is usually a mathematical statement (formula in logics). 
+> [!TIP]
+> Intuitively explanation:
+> 
+> When mapping two objects, or "assigning semantics", we don't assign an arbitrary object to another arbitrary object; instead, we assign them under some set of rules. Hence, under these rules, the result of such mapping can be deduced to a decision problem: either the mapping follows the rules (mapping succeeds) or don't (mapping fails). Further, we say A accept B, or A satisfy B, when such mapping succeeds. Accordingly, B is satisfiable, or SAT.
+> 
+> Specifically, we consider the mapping between these two sets of objects: one is called (computational) model, one is called properties (of the model). A model is usually a mathematical structure, while a property is usually a mathematical statement (formula in logics) about that structure.
 
 > 🔗 https://thzt.github.io/2018/01/30/semantics-4/
 
@@ -978,22 +1052,20 @@ In the study of Computer Science, we learn both those mathematical logics and co
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 
 ↗ [Theory of Computation](../😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md) ⭐
 
-↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md)
+↗ [Formal Verification (FV) & Reasoning Systems (Formal Methods)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods).md) ⭐
 - ↗ [Constraint Solving & Theorem Proving](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🎮%20Constraint%20Solving%20&%20Theorem%20Proving/Constraint%20Solving%20&%20Theorem%20Proving.md)
-
 ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 - ↗ [Automated & Generic Theorem Provers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../CyberSecurity/☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
+↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 - ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 
 ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)
-
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
 
 

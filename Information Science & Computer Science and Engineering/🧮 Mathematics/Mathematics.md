@@ -579,7 +579,8 @@ A **formal system** goes one step further. It uses a formal language and adds ru
 	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
 - Syntactic entailment:
 	- $\Gamma \vdash \varphi$
-	- $\Gamma$ syntactically entail $\varphi$: there exists a formal proof of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+	- It is about what we can proof, given starting statement and inference rules.
 **Axiomatic system** =
 - Same as formal system, but not necessarily formal language based.
 - Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
@@ -588,11 +589,150 @@ A **(formal) semantics** is a structure /interpretation assigned to (formal) lan
 - $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
 - Semantic entailment:
 	- $\Gamma \models \varphi$
-	- $\Gamma$ semantically entail $\varphi$: every interpretation/model that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+	- It is about what we define as truth.
 
+This naturally introduces: (see "properties of (formal) axiomatic system" or ↗ [Formal System, Formal Logic, and Its Semantics](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md))
+- soundness: what we can syntactically proof are all semantically true;
+	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
+- completeness: what are semantically true can all be syntactically proofed.
+	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
 
 To conclude:
-![](../../Assets/Pics/axiomatic_formal_semantics_theme_adaptive.svg)
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{calc}
+\begin{document}
+\begin{tikzpicture}[
+  scale=0.90, transform shape,
+  font=\small,
+  mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                  minimum width=4.25cm, minimum height=6.55cm, align=center},
+  consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                      minimum width=3.10cm, minimum height=1.25cm, align=center},
+  logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                   minimum height=1.05cm, align=center},
+  arr/.style={->, >=stealth, line width=.6pt},
+  relation/.style={->, >=stealth, line width=.55pt},
+  linklabel/.style={font=\scriptsize, inner sep=0pt},
+  smallnote/.style={font=\scriptsize, align=center}
+]
+
+% =========================
+% Added logic layer (outside the original four-box structure)
+% =========================
+\node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+  {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+
+\node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+  {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+
+\draw[arr] (ordinarylogic.east) -- (formallogic.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+
+% =========================
+% Original four-column structure — preserved
+% =========================
+\node[mainbox] (ordinary) at (0,0) {};
+\node[mainbox] (axiomatic) at (4.75,0) {};
+\node[mainbox] (formal) at (9.50,0) {};
+\node[mainbox] (semantic) at (14.25,0) {};
+
+% Titles
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+  {Ordinary\\mathematical\\activity};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+  {Axiomatic\\presentation};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+  {Formal system};
+\node[font=\bfseries, align=center] at (9.50,2.12)
+  {syntactic side};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+  {Model-theoretic\\semantics};
+
+% Top row content
+\node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+  {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+\node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+  {Specified language\\and primitive notions};
+\node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+  {Formal language $\mathcal L$};
+\node[align=center, text width=3.55cm] (models) at (14.25,.75)
+  {Structures /\\interpretations};
+
+% Bottom row content
+\node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+  {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+\node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+  {Axioms and accepted\\proof methods};
+\node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+  {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+\node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+  {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+
+% Original vertical arrows
+\draw[arr] (mathlang.south) -- (reason.north);
+\draw[arr] (specified.south) -- (axioms.north);
+\draw[arr] (flang.south) -- (calculus.north);
+\draw[arr] (models.south) -- (sat.north);
+
+% Original horizontal arrows and labels — restored exactly
+\draw[arr] (mathlang.east) -- (specified.west)
+  node[midway,above=2.2pt,linklabel] {systematize};
+\draw[arr] (reason.east) -- (axioms.west)
+  node[midway,above=2.2pt,linklabel] {axiomatize};
+\draw[arr] (specified.east) -- (flang.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (axioms.east) -- (calculus.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (flang.east) -- (models.west)
+  node[midway,above=2.2pt,linklabel] {interpret};
+
+% =========================
+% Added relation of logic layer to original diagram
+% =========================
+% Ordinary logic informs ordinary mathematical reasoning.
+\draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+  node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+
+% Formal logic spans the proof-theoretic and semantic sides.
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+\draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+\node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+  {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+\draw[relation] (formallogic.south) -- (11.875,3.82);
+
+% =========================
+% Original consequence boxes
+% =========================
+\node[consequence] (syncon) at (9.50,-4.33)
+  {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+\node[consequence] (semcon) at (14.25,-4.33)
+  {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+\draw[arr] (formal.south) -- (syncon.north);
+\draw[arr] (semantic.south) -- (semcon.north);
+
+% =========================
+% Added soundness / completeness bridges
+% Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+% =========================
+\draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+  {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+
+\draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+  {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+
+\node[smallnote] at (11.875,-6.96)
+  {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+
+\end{tikzpicture}
+\end{document}
+```
+
 
 ---
 > 🔗 https://thzt.github.io/2018/01/14/semantics-1/
@@ -704,7 +844,7 @@ The reduction of a body of propositions to a particular collection of axioms und
 > 🔗 https://en.wikipedia.org/wiki/Axiomatic_system#Discussion_of_axiomatic_systems
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), **axiomatization** is the process of taking a body of knowledge and working backwards towards its axioms. It is the formulation of a system of statements (i.e. [axioms](https://en.wikipedia.org/wiki/Axiom "Axiom")) that relate a number of primitive terms — in order that a [consistent](https://en.wikipedia.org/wiki/Consistency_proof "Consistency proof") body of [propositions](https://en.wikipedia.org/wiki/Boolean-valued_function "Boolean-valued function") may be derived [deductively](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning") from these statements. Thereafter, the [proof](https://en.wikipedia.org/wiki/Mathematical_proof "Mathematical proof") of any proposition should be, in principle, traceable back to these axioms. Axiomatization typically involves choices, and once a theory is axiomatic, it may be possible to change the set of axioms without affecting the mathematical results implied.
-##### Axioms, Postulates (Proposition), and First Principle 
+##### Axioms, Postulates (Proposition), and First Principle
 > [!link]
 > ↗ [Philosophy & Its History](../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 > 
@@ -745,6 +885,9 @@ In an axiomatic system, an axiom is called independent if it cannot be proven or
 
 An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms, i.e. every statement can be proven true or false by using the axioms.[72][73] However, note that in some cases it may be undecidable if a statement can be proven or not.
 ###### Incompleteness & Gödel's Incompleteness Theorems ⭐
+> [!TIP]
+> Applies for formal axiomatic system.
+
 > [!links]
 > ↗ [Formal System /Gödel's Incompleteness Theorems](🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Gödel's%20Incompleteness%20Theorems%20⭐)
 
