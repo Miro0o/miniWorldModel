@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-↗ [Formal System, Formal Logics, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 
 ### Other Resources
@@ -87,7 +87,7 @@ The 1956 paper by Higgins referenced below has been well followed up for its fra
 ## Σ-Algebra (Sigma-Algebra) & Signature Structure
 > [!links]
 > ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > 
 > ↗ [Model Theory (模型论)](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Model%20Theory%20(模型论)/Model%20Theory%20(模型论).md)
 

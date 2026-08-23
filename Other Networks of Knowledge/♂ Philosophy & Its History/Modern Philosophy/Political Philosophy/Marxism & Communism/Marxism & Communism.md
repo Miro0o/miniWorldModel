@@ -48,7 +48,7 @@ http://45.32.41.3/
 - **马克思主义的基本观点**，是关于自然、社会和人类思维发展一般规律的科学认识，是对资本主义社会和社会主义社会发展规律的科学认识，是对人类思想成果和社会实践经验的科学总结。这些基本观点主要包括：关于世界统一于物质、物质决定意识的观点，关于事物矛盾运动规律的观点，关于实践和认识辩证关系的观点，关于社会存在决定社会意识的观点，关于人与自然和谐共生的观点，关于人类社会基本矛盾运动规律的观点，关于人的自由而全面发展的观点，关于世界历史的观点，关于阶级和阶级斗争的观点，关于人民群众创造历史的观点，关于劳动价值论的观点，关于剩余价值和资本主义生产方式本质的观点，关于资本主义政治制度和意识形态本质的观点，关于垄断资本主义的观点，关于社会主义必然代替资本主义的观点，关于社会主义革命和无产专政的观点，关于无产阶级政党建设的观点，关于社会主义社会本质特征和建设规律的观点，关于共产主义社会基本特征和共产主义远大理想的观点，等等。
 - **马克思主义的基本方法**，是建立在辩证唯物主义和历史唯物主义世界阶级观和方法论基础上，指导我们正确认识世界和改造世界的思想方法和工作方法，==主要包括实事求是的方法、辩证分析的方法、社会基本矛盾和主要矛盾分析的方法、历史分析的方法、阶级分析的方法、群众路线的方法等==。
 	- ↗ [Logic (and Critical Thinking) /Methodologies in Logic](../../../Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md#Methodologies%20in%20Logic)
-	- ↗ [Mathematics /Types of Proofs](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md#Types%20of%20Proofs)
+	- ↗ [Mathematics](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md) "types of proofs"
 
 马克思主义具有鲜明的科学性、人民性、实践性、发展性，这些特征体现了马克思主义的本质和使命，也展现出马克思主义的理论形象。
 

@@ -10,15 +10,15 @@
 - ↗ [Mathematical Modeling & Abstraction](../../../../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 - ↗ [Discrete Mathematics & TCS (Theoretical Computer Science)](../../../../../../🧮%20Mathematics/Discrete%20Mathematics%20&%20TCS%20(Theoretical%20Computer%20Science).md)
 - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-	- ↗ [Formal System, Formal Logics, and Its Semantics](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
-	- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
+	- ↗ [Formal System, Formal Logic, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+	- ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+	- ↗ [First-Order Logic (FOL) & Predicate Calculus -（一阶）谓词逻辑](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑/First-Order%20Logic%20(FOL)%20&%20Predicate%20Calculus%20-（一阶）谓词逻辑.md)
 - ↗ [Theory of Computation](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 	- ↗ [Automata Theory and (Formal) Language Theory](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 	- ↗ [Complexity Theory & Computational Complexity](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
-	- ↗ [Type Theory (类型论)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+	- ↗ [Type Theory (类型论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 	- ↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) ⭐
-		- ↗ [Lambda Calculus (λ-Calculus)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+		- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - ↗ [Proof Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 
 ↗ [Problem Solving & Search-Based Methods](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -30,15 +30,20 @@
 ↗ [Programming Language Theory (PLT)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
 - ↗ [Programming Language & Formal Semantics](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 ↗ [Symbolic and Algebraic Manipulation](../../../../../../🧠%20Computing%20Methodologies/Symbolic%20and%20Algebraic%20Manipulation/Symbolic%20and%20Algebraic%20Manipulation.md)
-↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
 
-↗ [Static Code Analysis Tools (SCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 - ↗ [Automated & Generic Theorem Provers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Automated%20&%20Generic%20Theorem%20Provers.md)
 	- ↗ [Isabelle & Isar Language](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Isabelle%20&%20Isar%20Language/Isabelle%20&%20Isar%20Language.md)
 - ↗ [SAT (Boolean Satisfiability Problem) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers/SAT%20(Boolean%20Satisfiability%20Problem)%20Solvers.md)
 - ↗ [SMT (Satisfiability Modulo Theory) Solvers](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers/SMT%20(Satisfiability%20Modulo%20Theory)%20Solvers.md)
 - etc.
+
+↗ [Software (Program) Techniques & Binary Engineering](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/Software%20(Program)%20Techniques%20&%20Binary%20Engineering.md)
+↗ [Program Analysis Basics](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
+- ↗ [SCA (Static Code Analysis) & SAST](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/SCA%20(Static%20Code%20Analysis)%20&%20SAST.md)
+	- ↗ [Program Abstraction & Abstract Interpretation](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
+- ↗ [Symbolic Execution & Concolic Execution (SSE & DSE)](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/🎡%20Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE)/Symbolic%20Execution%20&%20Concolic%20Execution%20(SSE%20&%20DSE).md)
+↗ [Static Code Analysis Tools (SCAT)](../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Code%20Analysis%20Tools%20(SCAT)/Static%20Code%20Analysis%20Tools%20(SCAT).md)
 
 ↗ [Formal Verification & Analysis Programming Languages](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/Formal%20Verification%20&%20Analysis%20Programming%20Languages.md)
 - ↗ [LEAN](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/LEAN.md)
@@ -48,8 +53,6 @@
 - ↗ [Haskell](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Haskell/Haskell.md)
 
 ↗ [Julia](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/Julia/Julia.md)
-
-↗ [Program Abstraction & Abstract Interpretation](../🍦%20Software%20Security/🪆%20Software%20(Program)%20Techniques%20&%20Binary%20Engineering/📌%20Program%20Analysis%20Basics/👚%20SCA%20(Static%20Code%20Analysis)%20&%20SAST/🛗%20Program%20Abstraction%20&%20Abstract%20Interpretation/Program%20Abstraction%20&%20Abstract%20Interpretation.md)
 
 ↗ [AI4Math](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4Math/AI4Math.md)
 
@@ -85,7 +88,7 @@ Tools and Sources
 ## Intro
 > [!links]
 > ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md) ⭐
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md) ⭐
 > 
 > ↗ [Artificial Intelligence](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 > ↗ [Problem Solving & Search-Based Methods](../../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
@@ -282,6 +285,8 @@ Properties
 > ↗ [ICT System Reliability (Correctness) & Verification](../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 > ↗ [Hardware (Digital Circuits) Verification](Hardware%20(Digital%20Circuits)%20Verification/Hardware%20(Digital%20Circuits)%20Verification.md)
 > ↗ [Software (Program) Verification](Software%20(Program)%20Verification/Software%20(Program)%20Verification.md)
+> 
+> ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 
 > [!Abstract]
 > > [!question]
@@ -303,22 +308,182 @@ Properties
 > - Hardware design
 
 
-### Logic: Formal Methods, Proof, and Reasoning 🤔
+### Formal System and Formal Logic
 > [!links]
 > ↗ [Logic (and Critical Thinking)](../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > 
 > ↗ [Mathematics](../../../🧮%20Mathematics/Mathematics.md) "Proofing, Reasoning, and Computing"
 > - ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> - ↗ [Proof Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
-> - ↗ [Formal System, Formal Logics, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> - ↗ [Formal System, Formal Logic, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 > - ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
-> 
-> ↗ [Formal Verifications & Constraint Solvers (Proof Assistants)](../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants).md)
 > 
 > ↗ [Logic Programs & Symbolic AI](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🦴%20Logic%20Programs%20&%20Symbolic%20AI/Logic%20Programs%20&%20Symbolic%20AI.md)
 
+A **formal language** is a precisely defined collection of **symbols** and **rules (grammar /syntax)** for combining those symbols into valid **expressions**.
+- Formal language = Alphabets + Formal syntax
 
-### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization ⭐
+A **formal system** goes one step further. It uses a formal language and adds rules (deductive reasoning) that allow us to **derive one expression from other expressions**.
+- Formal system = 
+	- Formal language + (Formal) Proof system, or
+	- Formal language + Starting statements /formula (expressed in defined formal language) + Deductive rules (Formal rules)
+- Syntactic entailment:
+	- $\Gamma \vdash \varphi$
+	- $\Gamma$ syntactically entail $\varphi$: there **exists a formal proof** of $\varphi$ from $Γ$ , or, by applying deduction rules mechanically, we can infer $\varphi$ given $\Gamma$.
+	- It is about what we can proof, given starting statement and inference rules.
+**Axiomatic system** =
+- Same as formal system, but not necessarily formal language based.
+- Language + Axioms (as starting statements) + Deductive rules (Theorems can be deductive rules)
+
+A **(formal) semantics** is a structure /interpretation assigned to (formal) language.
+- $\text{Formal Language} \xrightarrow{interpretation} \text{​Meaning / Truth}$ 
+- Semantic entailment:
+	- $\Gamma \models \varphi$
+	- $\Gamma$ semantically entail $\varphi$: **every interpretation /evaluation /model** that makes all formulas in $\Gamma$ true also makes $\varphi$ true.
+	- It is about what we define as truth.
+
+This naturally introduces: (see "properties of formal /logic system")
+- soundness: what we can syntactically proof are all semantically true;
+	- $\Gamma \vdash \varphi \implies \Gamma \models \varphi$
+- completeness: what are semantically true can all be syntactically proofed.
+	- $\Gamma \models \varphi \implies \Gamma \vdash \varphi$
+
+To conclude:
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{calc}
+\begin{document}
+\begin{tikzpicture}[
+  scale=0.90, transform shape,
+  font=\small,
+  mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                  minimum width=4.25cm, minimum height=6.55cm, align=center},
+  consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                      minimum width=3.10cm, minimum height=1.25cm, align=center},
+  logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                   minimum height=1.05cm, align=center},
+  arr/.style={->, >=stealth, line width=.6pt},
+  relation/.style={->, >=stealth, line width=.55pt},
+  linklabel/.style={font=\scriptsize, inner sep=0pt},
+  smallnote/.style={font=\scriptsize, align=center}
+]
+
+% =========================
+% Added logic layer (outside the original four-box structure)
+% =========================
+\node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+  {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+
+\node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+  {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+
+\draw[arr] (ordinarylogic.east) -- (formallogic.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+
+% =========================
+% Original four-column structure — preserved
+% =========================
+\node[mainbox] (ordinary) at (0,0) {};
+\node[mainbox] (axiomatic) at (4.75,0) {};
+\node[mainbox] (formal) at (9.50,0) {};
+\node[mainbox] (semantic) at (14.25,0) {};
+
+% Titles
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+  {Ordinary\\mathematical\\activity};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+  {Axiomatic\\presentation};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+  {Formal system};
+\node[font=\bfseries, align=center] at (9.50,2.12)
+  {syntactic side};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+  {Model-theoretic\\semantics};
+
+% Top row content
+\node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+  {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+\node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+  {Specified language\\and primitive notions};
+\node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+  {Formal language $\mathcal L$};
+\node[align=center, text width=3.55cm] (models) at (14.25,.75)
+  {Structures /\\interpretations};
+
+% Bottom row content
+\node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+  {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+\node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+  {Axioms and accepted\\proof methods};
+\node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+  {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+\node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+  {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+
+% Original vertical arrows
+\draw[arr] (mathlang.south) -- (reason.north);
+\draw[arr] (specified.south) -- (axioms.north);
+\draw[arr] (flang.south) -- (calculus.north);
+\draw[arr] (models.south) -- (sat.north);
+
+% Original horizontal arrows and labels — restored exactly
+\draw[arr] (mathlang.east) -- (specified.west)
+  node[midway,above=2.2pt,linklabel] {systematize};
+\draw[arr] (reason.east) -- (axioms.west)
+  node[midway,above=2.2pt,linklabel] {axiomatize};
+\draw[arr] (specified.east) -- (flang.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (axioms.east) -- (calculus.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (flang.east) -- (models.west)
+  node[midway,above=2.2pt,linklabel] {interpret};
+
+% =========================
+% Added relation of logic layer to original diagram
+% =========================
+% Ordinary logic informs ordinary mathematical reasoning.
+\draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+  node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+
+% Formal logic spans the proof-theoretic and semantic sides.
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+\draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+\node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+  {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+\draw[relation] (formallogic.south) -- (11.875,3.82);
+
+% =========================
+% Original consequence boxes
+% =========================
+\node[consequence] (syncon) at (9.50,-4.33)
+  {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+\node[consequence] (semcon) at (14.25,-4.33)
+  {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+\draw[arr] (formal.south) -- (syncon.north);
+\draw[arr] (semantic.south) -- (semcon.north);
+
+% =========================
+% Added soundness / completeness bridges
+% Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+% =========================
+\draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+  {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+
+\draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+  {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+
+\node[smallnote] at (11.875,-6.96)
+  {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+
+\end{tikzpicture}
+\end{document}
+```
+
+
+### Formal Methods, Symbolic Methods, Constraint Solving, Search & AI Planning, and Mathematical Optimization
 > [!links]
 > ↗ [Problem Solving & Search-Based Methods](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Problem%20Solving%20&%20Search-Based%20Methods.md)
 > ↗ [Constraint Based Search & Constraint Programming & Constraint Satisfaction](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction/Constraint%20Based%20Search%20&%20Constraint%20Programming%20&%20Constraint%20Satisfaction.md)

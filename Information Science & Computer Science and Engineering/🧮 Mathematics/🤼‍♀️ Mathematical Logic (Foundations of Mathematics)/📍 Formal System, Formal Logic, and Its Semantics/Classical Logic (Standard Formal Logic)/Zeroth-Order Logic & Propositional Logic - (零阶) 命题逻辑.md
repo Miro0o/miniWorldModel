@@ -79,7 +79,7 @@ The minimalistic BNF grammar for propositional logic: $$\phi :: = true ∣ p ∣
 #### Normal Form & Logic Data Structure
 See below "Representing in Propositional Logic"
 #### Implication & Entailment of Propositional Logic ⭐
-> ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
+> ↗ [Mathematical Logic Basics (Formal Logic) /Soundness & Completeness](../Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md#Soundness%20&%20Completeness)
 
 ![Screenshot 2023-01-02 at 5.59.42 PM](../../../../../Assets/Pics/Screenshot%202023-01-02%20at%205.59.42%20PM.png)
 <small>《离散数学》四川大学计算机学院</small>

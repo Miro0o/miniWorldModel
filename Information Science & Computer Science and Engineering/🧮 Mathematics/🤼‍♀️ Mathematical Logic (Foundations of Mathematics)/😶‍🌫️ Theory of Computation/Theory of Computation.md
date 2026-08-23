@@ -193,7 +193,7 @@ Both instances and solutions are represented by binary [strings](https://en.wik
 #### Decision Problems
 > [!links]
 > ↗ [Boolean Algebra](../../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Order%20Theory%20&%20Lattice-Like%20Algebraic%20Structure%20(格)/Boolean%20Algebra/Boolean%20Algebra.md)
-> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
+> ↗ [Zeroth-Order Logic & Propositional Logic - (零阶) 命题逻辑](../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md)
 > 
 > ↗ [Automata Theory and (Formal) Language Theory](🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 > ↗ [Complexity Theory & Computational Complexity](Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)

@@ -83,8 +83,8 @@ If the program is deterministic, there is only one trace per input state. If the
 Selecting the initial state or even executing the program is not trivial in practice (see [Running the Program (§2)](https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:running-the-program)).
 #### 2️⃣ Trace Abstraction and Prediction & Program Properties
 > ↗ [(Formal) Model Checking /2️⃣ Properties and Property Specialization](../../../../🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md#2️⃣%20Properties%20and%20Property%20Specialization)
->↗ [Temporal Logic (时态逻辑)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
->- ↗  [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FComputation-Tree%20Logic%20(CTL*)%20Family.md)
+>↗ [Temporal Logic (时态逻辑)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Temporal%20Logic%20(时态逻辑).md)
+>- ↗  [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FComputation-Tree%20Logic%20(CTL*)%20Family.md)
 
 > 🔗 https://courses.compute.dtu.dk/02242/topics/dynamic-analysis.html#sec:trace-analysis
 

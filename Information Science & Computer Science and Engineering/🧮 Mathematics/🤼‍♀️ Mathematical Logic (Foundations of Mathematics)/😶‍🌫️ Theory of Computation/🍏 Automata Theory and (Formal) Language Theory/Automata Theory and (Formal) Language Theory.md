@@ -9,7 +9,8 @@
 ↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 
 ↗ [Set Theory & Axiomatic Set Theory](../../🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
-↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+- ↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 - ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
 ↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
@@ -17,6 +18,9 @@
 
 ↗ [Sequential Logic Circuits (时序逻辑电路)](../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x04%20Sequential%20Logic%20Circuits%20(时序逻辑电路)/Sequential%20Logic%20Circuits%20(时序逻辑电路).md)
 ↗ [Combinational Logic Circuits (组合逻辑电路)](../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x02%20Combinational%20Logic%20Circuits%20(组合逻辑电路)/Combinational%20Logic%20Circuits%20(组合逻辑电路).md)
+
+
+### Learning Resources
 
 
 ### Other Resources
@@ -92,15 +96,16 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 - In [logic](https://en.wikipedia.org/wiki/Logic "Logic") and the [foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics "Foundations of mathematics"), formal languages are used to represent the syntax of [axiomatic systems](https://en.wikipedia.org/wiki/Axiomatic_system "Axiomatic system"), and [mathematical formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics) "Formalism (philosophy of mathematics)") is the philosophy that all of mathematics can be reduced to the syntactic manipulation of formal languages in this way.
 - Formal language theory sprang out of linguistics, as a way of understanding the syntactic regularities of [natural languages](https://en.wikipedia.org/wiki/Natural_language "Natural language"). The field of formal language theory studies primarily the purely [syntactical](https://en.wikipedia.org/wiki/Syntax "Syntax") aspects of such languages — that is, their internal structural patterns. 
 #### Formal Language, Formal System, and Axiomatic System
-↗ [Mathematics](../../../Mathematics.md)
-↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+↗ [Mathematics](../../../Mathematics.md) "axiomatic system"
+↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 #### Formal Logic & Automated Reasoning
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ↗ [Mechanized (Formal) Reasoning & Automated Reasoning (Inference)](../../Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference)/Mechanized%20(Formal)%20Reasoning%20&%20Automated%20Reasoning%20(Inference).md)
 #### Formal Syntax
-↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
+↗ [Formal Syntax & Metasyntax (and Metalanguage)](../../📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/📌%20Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage)/Formal%20Syntax%20&%20Metasyntax%20(and%20Metalanguage).md)
 #### Formal Semantics
+↗ [Models of Computation & Abstract Machines](../Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
 ↗ [Programming Language & Formal Semantics](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 

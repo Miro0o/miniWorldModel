@@ -426,7 +426,7 @@ tbd.
 更具体地，普遍联系指出了信息的运动就是信息间的相互联系。在不同的语境下，人们通常对信息的运动（或信息间的相互联系，它们是同义词）按照特征进行分类，并给予不同的名称：
 - 信息科学领域中的“计算”：
 	- ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+	- ↗ [Lambda Calculus (λ-Calculus)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 	- ↗ [Computation as Programs - Computer Program Semantics & Models](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Computation%20as%20Programs%20-%20Computer%20Program%20Semantics%20&%20Models.md)
 - 深度学习中的"神经网络"模型：
 	- ↗ [Artificial Neural Networks (ANN) & Deep Learning Methods](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/🌊%20Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods/Artificial%20Neural%20Networks%20(ANN)%20&%20Deep%20Learning%20Methods.md)
@@ -434,7 +434,7 @@ tbd.
 	- ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 	- ↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
 		- ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-		- ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+		- ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 - 佛教思想中的“缘起”：
 	- ↗ [Buddhism (Buddha Dharma)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
 	- https://zh.wikipedia.org/zh-cn/%E7%B7%A3%E8%B5%B7%E5%81%88
@@ -516,8 +516,13 @@ tbd.
 	- 夜深忽梦少年事，梦啼妆泪红阑干。这就是对时间周期的思考。从对时间的思考出发，又可以看到理性和感性。
 
 在各种周期之中，生命周期又是一个最基本的问题。对生命的思考，就是自我意识对自我与宇宙的关系的最直接的思考。从对自我生命的思考出发，又进一步发展出对社会其他人生命的思考，及自我生命与他人生命之间的关系的思考。
+###### 自我意识的确定性和不确定性
+↗ [Mathematics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Mathematics.md)
+↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+- ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
-###### 自我意识下的感性与理性 + 个体的思考（认识）与行动（实践）
+↗ [Arts & Humanities](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/Arts%20&%20Humanities.md)
+###### 自我意识的感性与理性 + 个体的思考（认识）与行动（实践）
 
 > [!links]
 > ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -546,7 +551,6 @@ or（感性，理性）X （认识，实践）
 - 感性思考指导下的行动
 - 理性思考指导下的行动
 ###### （信息宇宙 = 观测宇宙 = 自我意识）vs 实际客观宇宙：不可判定性 ⭐
-
 自我意识产生了思考，产生了信息，也自然产生了对实际客观宇宙的投射，即 自我意识对实际客观宇宙的认识（构建世界模型）。对于这种认识（观测宇宙）和实际客观宇宙之间的关系，我的观点如下：
 - 这种自我意识对实际客观宇宙的认识，即人类所理解的宇宙的样貌（观测宇宙/世界模型），与实际的客观宇宙是否相等？这实际是一个不可判定的问题。我们只能提出一些方法去近似地让观测宇宙向实际宇宙逼近，但是我们永远无法确定二者是否重合。
 
@@ -771,8 +775,6 @@ tbd.
 - 多模态系统
 - 其他媒介 /信道？
 ##### 信息：生命对宇宙的感知
-##### 信息的运动：思考与自我意识
-参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 ##### 信息在物理世界的投射与模态
 前文提到，信息就是人的自我意识，是人的思维。没有自我意识，就没有思维，就没有信息。因此，信息本是抽象的，主观的，只存在于人的脑海中。但是，信息可以通过映射的方式来与物理世界进行对应，这样信息，或人的思维，就可以以客观的形式存在于物理世界。人将自己的思维向物理世界投射，再将物理世界的投射在脑中重现思维，这个过程就是信息的编码与解码。
 
@@ -804,6 +806,8 @@ tbd.
 ↗ [Multimodal AI & MLLM](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)
 
 信息可以不只具有基于文本的模态，可以具有多种模态。一般来说，我们考虑的是那些在人类生物能力范围内的模态，比如最常见的视觉，听觉，触觉，等。文本是人类视觉能力下的信息表达模态。基于视觉的模态也是最广泛的信息模态的选择。
+##### 信息的运动：思考与自我意识
+参考上节“主体（自我意识本身）与客体（被自我意识反映出的宇宙中的非自我）”
 ##### 信息的组织：知识 ⭐
 ↗ [China (HK, MO, TW) 🇨🇳](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/China%20(HK,%20MO,%20TW)%20🇨🇳.md)
 ↗ [United States 🇺🇸](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
@@ -844,6 +848,18 @@ tbd.
 ###### 感性的思考与实践：文化与艺术
 文化：一切与人有关的信息/知识/思想。
 艺术：对文化进行提炼，进行的文化实践活动。
+##### 思考，知识，与学习
+↗ [Language Learning & (Second) Language Acquisition](Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/Language%20Learning%20&%20(Second)%20Language%20Acquisition.md)
+↗ [Education](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Social%20Science/Education/Education.md)
+
+↗ [Statistical (Data-Driven) Learning & Machine Learning (ML)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML).md)
+↗ [Reinforcement Learning (RL) & Sequential Decision Making](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Statistical%20(Data-Driven)%20Learning%20&%20Machine%20Learning%20(ML)/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making/Reinforcement%20Learning%20(RL)%20&%20Sequential%20Decision%20Making.md)
+
+↗ [Neuroscience](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Neuroscience/Neuroscience.md)
+
+
+人是如何学习的？这个过程是怎样的？
+
 ##### 信息运动的自动化：计算机智能（狭义的智能）👈
 ↗ [Intro to Computer Science](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 ↗ [Theory of Computation](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
@@ -887,7 +903,7 @@ tbd.
 ↗ [Philosophy of Language](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md)
 ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 ↗ [Natural Language Processing (NLP) & Computational Linguistics /Language, Thought, and Understanding](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md#Language,%20Thought,%20and%20Understanding)
 ↗ [Programming Language Processing & Program Execution](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/Programming%20Language%20Processing%20&%20Program%20Execution.md)
@@ -1557,7 +1573,7 @@ The following outline provides an overview of and topical guide to academic disc
 > ↗ [Logic (and Critical Thinking)](Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
 > 
 > ↗ [Mathematical Logic (Foundations of Mathematics)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-> ↗ [Formal System, Formal Logics, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
+> ↗ [Formal System, Formal Logic, and Its Semantics](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ###### Empirical Study 🆚 Science
 > [!links]
 > ↗ [Science & Application](Other%20Networks%20of%20Knowledge/Science%20&%20Application/Science%20&%20Application.md)
@@ -1655,7 +1671,7 @@ https://en.wikipedia.org/wiki/Complex_system
 
 ## 🤖 Artificial Intelligence
 ↗ [Artificial Intelligence](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [j jLLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

@@ -12,7 +12,7 @@
 
 ## Intro
 ### Syntax of CTL
-↗ [Computation-Tree Logic (CTL*) /Syntax & Notation of CLT*](Computation-Tree%20Logic%20(CTLstar)%20Family.md#Syntax%20&%20Notation%20of%20CTL*)
+↗ [Computation-Tree Logic (CTL*) /Syntax & Notation of CLT*](Computation-Tree%20Logic%20(CTL*)%20Family.md#Syntax%20&%20Notation%20of%20CTL*)
 
 > ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Propositional Formula & Syntax](../../../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Propositional%20Formula%20&%20Syntax)
 > ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2013.23.22.png)
@@ -62,7 +62,7 @@ We have the dual situation with formulas of the form $∀ψ$
 
 ![](../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2019.54.20.png)
 
-> Please see example 3 in [Computation-Tree Logic (CTLstar) Family /Expressive Power of CTL, LTL, and CTL*](Computation-Tree%20Logic%20(CTLstar)%20Family.md#Expressive%20Power%20of%20CTL,%20LTL,%20and%20CTL*)
+> Please see example 3 in [Computation-Tree Logic (CTL*) Family /Expressive Power of CTL, LTL, and CTL*](Computation-Tree%20Logic%20(CTL*)%20Family.md#Expressive%20Power%20of%20CTL,%20LTL,%20and%20CTL*)
 #### Semantic Equivalences & Equations of CTL Formula ⭐
 > 🔗 https://en.wikipedia.org/wiki/Computation_tree_logic#Semantic_equivalences
 
@@ -144,7 +144,7 @@ There exist complete axiomatisations.
 
 
 ### Expressiveness of CTL
-↗ [Computation-Tree Logic (CTLstar) Family](Computation-Tree%20Logic%20(CTLstar)%20Family.md)
+↗ [Computation-Tree Logic (CTL*) Family](Computation-Tree%20Logic%20(CTL*)%20Family.md)
 
 
 

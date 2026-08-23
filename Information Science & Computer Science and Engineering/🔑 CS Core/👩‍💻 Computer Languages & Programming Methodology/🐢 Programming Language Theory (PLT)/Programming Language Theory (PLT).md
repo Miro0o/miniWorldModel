@@ -9,14 +9,14 @@
 ↗ [Mathematical Modeling & Abstraction](../../../🧮%20Mathematics/Mathematical%20Modeling%20&%20Abstraction.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
-- ↗ [Formal System, Formal Logics, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics.md)
-	- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
+- ↗ [Formal System, Formal Logic, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+	- ↗ [Lambda Calculus (λ-Calculus)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Lambda%20Calculus%20(λ-Calculus).md)
 - ↗ [Set Theory & Axiomatic Set Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 - ↗ [Category Theory (范畴论)](../../../🧮%20Mathematics/🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)
 - ↗ [Theory of Computation](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 	- ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 	- ↗ [Models of Computation & Abstract Machines](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md)
-	- ↗ [Type Theory (类型论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logics,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
+	- ↗ [Type Theory (类型论)](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
 - ↗ [Proof Theory](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Theory.md)
 	- ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
 
@@ -74,6 +74,143 @@ Object-oriented Software Construction 2 ed
 
 
 ## Intro
+> [!links]
+> ↗ [Formal System, Formal Logic, and Its Semantics](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
+> ↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+
+```tikz
+\usepackage{amsmath,amssymb}
+\usetikzlibrary{calc}
+\begin{document}
+\begin{tikzpicture}[
+  scale=0.90, transform shape,
+  font=\small,
+  mainbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                  minimum width=4.25cm, minimum height=6.55cm, align=center},
+  consequence/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                      minimum width=3.10cm, minimum height=1.25cm, align=center},
+  logicbox/.style={draw=gray!65, rounded corners=2pt, line width=.45pt,
+                   minimum height=1.05cm, align=center},
+  arr/.style={->, >=stealth, line width=.6pt},
+  relation/.style={->, >=stealth, line width=.55pt},
+  linklabel/.style={font=\scriptsize, inner sep=0pt},
+  smallnote/.style={font=\scriptsize, align=center}
+]
+
+% =========================
+% Added logic layer (outside the original four-box structure)
+% =========================
+\node[logicbox, minimum width=4.25cm] (ordinarylogic) at (0,4.95)
+  {\textbf{Ordinary logic}\\[-1pt]{\scriptsize informal / natural-language reasoning}};
+
+\node[logicbox, minimum width=8.95cm] (formallogic) at (11.875,4.95)
+  {\textbf{Formal logic}\\[-1pt]{\scriptsize formal study of inference and logical consequence}};
+
+\draw[arr] (ordinarylogic.east) -- (formallogic.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+
+% =========================
+% Original four-column structure — preserved
+% =========================
+\node[mainbox] (ordinary) at (0,0) {};
+\node[mainbox] (axiomatic) at (4.75,0) {};
+\node[mainbox] (formal) at (9.50,0) {};
+\node[mainbox] (semantic) at (14.25,0) {};
+
+% Titles
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (0,2.45)
+  {Ordinary\\mathematical\\activity};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (4.75,2.45)
+  {Axiomatic\\presentation};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (9.50,2.55)
+  {Formal system};
+\node[font=\bfseries, align=center] at (9.50,2.12)
+  {syntactic side};
+\node[font=\bfseries\large, align=center, text width=3.7cm] at (14.25,2.45)
+  {Model-theoretic\\semantics};
+
+% Top row content
+\node[align=center, text width=3.55cm] (mathlang) at (0,.75)
+  {Mathematical\\language\\[-1pt]{\scriptsize natural / semi-formal}};
+\node[align=center, text width=3.55cm] (specified) at (4.75,.75)
+  {Specified language\\and primitive notions};
+\node[align=center, text width=3.55cm] (flang) at (9.50,.75)
+  {Formal language $\mathcal L$};
+\node[align=center, text width=3.55cm] (models) at (14.25,.75)
+  {Structures /\\interpretations};
+
+% Bottom row content
+\node[align=center, text width=3.55cm] (reason) at (0,-1.55)
+  {Reasoning and proof\\[-1pt]{\scriptsize ordinary practice}};
+\node[align=center, text width=3.55cm] (axioms) at (4.75,-1.55)
+  {Axioms and accepted\\proof methods};
+\node[align=center, text width=3.55cm] (calculus) at (9.50,-1.55)
+  {Formal calculus $S$\\[-1pt]{\scriptsize axioms $+$ inference rules}};
+\node[align=center, text width=3.55cm] (sat) at (14.25,-1.55)
+  {Satisfaction relation\\[-1pt]$\mathcal M \models \varphi$};
+
+% Original vertical arrows
+\draw[arr] (mathlang.south) -- (reason.north);
+\draw[arr] (specified.south) -- (axioms.north);
+\draw[arr] (flang.south) -- (calculus.north);
+\draw[arr] (models.south) -- (sat.north);
+
+% Original horizontal arrows and labels — restored exactly
+\draw[arr] (mathlang.east) -- (specified.west)
+  node[midway,above=2.2pt,linklabel] {systematize};
+\draw[arr] (reason.east) -- (axioms.west)
+  node[midway,above=2.2pt,linklabel] {axiomatize};
+\draw[arr] (specified.east) -- (flang.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (axioms.east) -- (calculus.west)
+  node[midway,above=2.2pt,linklabel] {formalize};
+\draw[arr] (flang.east) -- (models.west)
+  node[midway,above=2.2pt,linklabel] {interpret};
+
+% =========================
+% Added relation of logic layer to original diagram
+% =========================
+% Ordinary logic informs ordinary mathematical reasoning.
+\draw[relation,dashed] (ordinarylogic.south) -- ($(ordinary.north)+(0,0.02)$)
+  node[midway,font=\scriptsize,align=center,text width=2.25cm] {used in mathematical reasoning};
+
+% Formal logic spans the proof-theoretic and semantic sides.
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (16.49,3.62);
+\draw[gray!70, line width=.55pt] (7.26,3.62) -- (7.26,3.45);
+\draw[gray!70, line width=.55pt] (16.49,3.62) -- (16.49,3.45);
+\node[smallnote, fill=white, inner sep=1pt] at (11.875,3.62)
+  {proof-theoretic / syntactic side \quad + \quad model-theoretic / semantic side};
+\draw[relation] (formallogic.south) -- (11.875,3.82);
+
+% =========================
+% Original consequence boxes
+% =========================
+\node[consequence] (syncon) at (9.50,-4.33)
+  {$\Gamma \vdash_{S} \varphi$\\[-1pt]{\scriptsize syntactic consequence}};
+\node[consequence] (semcon) at (14.25,-4.33)
+  {$\Gamma \models \varphi$\\[-1pt]{\scriptsize semantic consequence}};
+\draw[arr] (formal.south) -- (syncon.north);
+\draw[arr] (semantic.south) -- (semcon.north);
+
+% =========================
+% Added soundness / completeness bridges
+% Restored to the earlier lower-bridge layout; formulas sit with the arrows.
+% =========================
+\draw[arr] (syncon.south) -- (9.50,-5.60) -- (14.25,-5.60) -- (semcon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-5.60)
+  {soundness: $\Gamma\vdash_S\varphi \Rightarrow \Gamma\models\varphi$};
+
+\draw[arr] (semcon.south) -- (14.25,-6.36) -- (9.50,-6.36) -- (syncon.south);
+\node[font=\scriptsize,above=2.2pt] at (11.875,-6.36)
+  {completeness: $\Gamma\models\varphi \Rightarrow \Gamma\vdash_S\varphi$};
+
+\node[smallnote] at (11.875,-6.96)
+  {if both hold: $\Gamma\vdash_S\varphi \iff \Gamma\models\varphi$};
+
+\end{tikzpicture}
+\end{document}
+```
+
 > 🔗 https://en.wikipedia.org/wiki/Programming_language_theory
 
 Programming language theory (PLT) is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of formal languages known as programming languages. Programming language theory is closely related to other fields including mathematics, software engineering, and linguistics.
