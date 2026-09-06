@@ -35,7 +35,7 @@ Cygwin就是在Windows中增加了一个中间层——兼容POSIX的模拟层�
 - cygwin1.dll，作为实现POSIX系统调用的模拟层，可原生运行在Windows中；
 - 在cygwin1.dll之上构建的大量函数库、应用程序，如`libc`、`zlib`、`bash`、`gcc`、`vim`、`awk`、`sed`、`git`等等，与UNIX/Linux几乎等同*。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%207.39.11PM.png)
+![](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%207.39.11PM.png)
 <small>Cygwin环境层次简要示意图</small>
 
 Cygwin API首先尽可能地遵从[Single Unix Specification V3（2004版）](http://pubs.opengroup.org/onlinepubs/009695399/nfindex.html)，这个标准内容同时也是POSIX.1和IEEE Std 1003.1的标准内容，由Open Group和IEEE共同制定，最新已更新到V4（2018版），其次再尽可能地遵从Linux最佳实践。Cygwin API中还有些是Cygwin独有的，在POSIX中并未涉及。
@@ -75,7 +75,7 @@ Cygwin可资利用的是已经移植的大量GNU、UNIX、Linux软件和兼容PO
 ### 🤔 Cygwin 🆚 Other Related Windows Projects
 #### Projects Run Alike Cygwin
 > [!links]
-> ↗ [MSYS & MSYS2](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md) "comparison"
+> ↗ [MSYS & MSYS2](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20%28Engineering%20Part%29/🐚%20Shell%20&%20Terminals%20%28Console%29/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md) "comparison"
 > ↗ [MinGW & MinGW-w64](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🛠️%20Programming%20Tool%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 
 > 🔗 https://silaoa.github.io/2019/2019-02-26-Cygwin系列（三）：盘点与Cygwin相似和相反的项目.html

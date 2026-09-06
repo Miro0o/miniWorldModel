@@ -60,7 +60,7 @@ x86的某些特权指令在失败时并不返回错误，因此，其错误将�
 #### ISA/CPU Privilege Design
 ↗ [Privilege Level & Protection Ring](../../../../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
 <small>Protection ring on an x86 CPU. Usually ring 0 is kernel space, ring 3 is user space.</small>
 
 

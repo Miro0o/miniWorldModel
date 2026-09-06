@@ -20,7 +20,7 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
 <small>CSAPP</small>
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
 

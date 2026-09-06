@@ -71,7 +71,7 @@
 
 
 ### 👉 [fzf](https://github.com/junegunn/fzf#usage)
-![|400](../../../../../../../Assets/Pics/fzf.png)
+![|400](../../../../../../Assets/Pics/fzf.png)
 
 fzf is a general-purpose command-line fuzzy finder.
 

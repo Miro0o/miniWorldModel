@@ -12,7 +12,7 @@
 
 
 ## Intro
-![Screenshot 2022-12-09 at 12.02.15 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-09%20at%2012.02.15%20PM.png)
+![Screenshot 2022-12-09 at 12.02.15 PM](../../../../../../../Assets/Pics/Screenshot%202022-12-09%20at%2012.02.15%20PM.png)
 - Has a simple curl/browser/editor interface.
 - Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
 - Provides access to the best community driven cheat sheets repositories in the world, on par with StackOverflow.
@@ -22,11 +22,11 @@
 - Can be used directly from code editors, without opening a browser and not switching your mental context.
 - Supports a special stealth mode where it can be used fully invisibly without ever touching a key and making sounds.
 
-![img](../../../../../../../../../Assets/Pics/68747470733a2f2f63686561742e73682f66696c65732f64656d6f2d6375726c2e676966.gif)
+![img](../../../../../../../Assets/Pics/68747470733a2f2f63686561742e73682f66696c65732f64656d6f2d6375726c2e676966.gif)
 
 
 ### Cheat.sh Sources
-![cheat.sh cheat sheets repositories](../../../../../../../../../Assets/Pics/687474703a2f2f63686561742e73682f66696c65732f737461742d323031372d30362d30352e706e67.png)
+![cheat.sh cheat sheets repositories](../../../../../../../Assets/Pics/687474703a2f2f63686561742e73682f66696c65732f737461742d323031372d30362d30352e706e67.png)
 
 
 | Cheat sheets            | Repository                                                   | C/U*                                                         | Stars                                                        | Creation Date |

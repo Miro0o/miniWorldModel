@@ -12,7 +12,7 @@
 
 
 ## Unix Conventional Directory Layout
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230316140056.png)
 
 **Directories or Files and their description**
 - **/ :** The slash / character alone denotes the root of the filesystem tree.

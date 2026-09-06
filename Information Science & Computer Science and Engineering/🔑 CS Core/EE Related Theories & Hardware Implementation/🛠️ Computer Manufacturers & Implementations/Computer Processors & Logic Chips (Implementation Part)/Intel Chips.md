@@ -125,7 +125,7 @@ Intel's E-cores (Efficient cores) and P-cores (Performance cores) are ==two dif
 ### Golden Cove (P-cores) /Gracemont (E-cores)
 > 🔗 https://en.wikipedia.org/wiki/Golden_Cove#Raptor_Cove
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117001248.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260117001248.png)
 <small>Intel Golden Cove CPU core microarchitecture <br> <a>https://en.wikipedia.org/wiki/Golden_Cove#Raptor_Cove</a></small>
 #### Core i3 /i5 /i7 /i9 (12th Gen) -- Alder Lake
 > 🔗 https://en.wikipedia.org/wiki/Alder_Lake
@@ -137,8 +137,8 @@ Intel's E-cores (Efficient cores) and P-cores (Performance cores) are ==two dif
 ### Raptor Cove
 #### Core i3 /i5 /i7 /i9 (13th and 14th Gen) -- Raptor Lake
 ##### Core i9 13900k
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117002800.png)
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117002004.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260117002800.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260117002004.png)
 <small>Die shots of the intel core i9 13900k <br> Image credit: Fritzchen Fritz <br> <a>https://www.pcgamer.com/oh-sorry-i-was-busy-admiring-these-gorgeous-die-shots-of-the-intel-core-i9-13900k/</a></small>
 
 

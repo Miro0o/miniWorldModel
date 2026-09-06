@@ -15,7 +15,7 @@
 
 ## Intro
 ### SR Specifics
-![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%209.41.13%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-19%20at%209.41.13%20AM.png)
 
 > 采用 N 个比特为数据分组编号。(不是上图中的发送窗口N ！)
 > 
@@ -29,7 +29,7 @@
 
 
 ### SR Overview
-![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%209.26.21%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-06-16%20at%209.26.21%20PM.png)
 
 
 
@@ -39,20 +39,20 @@
 
 
 ## N-sized Window & Maximal $2^N-1$ Data Group
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.48.29%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.48.29%20AM.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.49.49%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.49.49%20AM.png)
 
 
 
 ## Summary
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.45.04%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.45.04%20AM.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.31.45%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.31.45%20PM.png)
 
 
 ### SR Problem
-![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.30.11%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-19%20at%2012.30.11%20PM.png)
 
 
 

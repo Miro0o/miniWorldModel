@@ -5,7 +5,7 @@
 
 
 ## Res
-![|200](../../../../../../../../Assets/Pics/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png)
+![|200](../../../../../../../Assets/Pics/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png)
 <p align="center" dir="auto">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>

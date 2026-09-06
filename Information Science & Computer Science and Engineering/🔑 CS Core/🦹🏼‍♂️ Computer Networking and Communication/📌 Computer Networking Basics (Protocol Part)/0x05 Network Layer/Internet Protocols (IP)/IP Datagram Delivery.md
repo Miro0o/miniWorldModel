@@ -12,11 +12,11 @@
 ## Intro
 > To better forward & route packages, ↗ [ICMP (Internet Control Message Protocol)](../🎮%20Control%20Plane%20(Routing%20&%20Managements)/IP%20Layer%20Network%20Management/ICMP%20(Internet%20Control%20Message%20Protocol)/ICMP%20(Internet%20Control%20Message%20Protocol).md) was invented to improve the performance of ip package delivering
 
-![Screenshot 2022-11-26 at 3.55.37 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.37%20PM.png)
+![Screenshot 2022-11-26 at 3.55.37 PM](../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.37%20PM.png)
 
 
 ### Determine IP Datagram Destination is Internal or External
-![Screenshot 2022-11-26 at 3.55.01 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.01%20PM.png)
+![Screenshot 2022-11-26 at 3.55.01 PM](../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%203.55.01%20PM.png)
 
 By comparing network number of source IP & destination IP, router knows where to forward datagram.
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Logic (and Critical Thinking)](../../../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20(and%20Critical%20Thinking)/Logic%20(and%20Critical%20Thinking).md)
+↗ [Logic (and Critical Thinking)](../../../../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Western%20Philosophy%20&%20Its%20History/🎼%20Logic%20%28and%20Critical%20Thinking%29/Logic%20%28and%20Critical%20Thinking%29.md)
 ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 ↗ [LLM (Large Language Model)](../../../Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
@@ -45,10 +45,10 @@ A surprising fact about modern large language models is that nobody really knows
 	- [An Analysis of a Jailbreak.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-jailbreak) We investigate an attack which works by first tricking the model into starting to give dangerous instructions “without realizing it,” after which it continues to do so due to pressure to adhere to syntactic and grammatical rules.
 	- [Chain-of-thought Faithfulness.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-cot) We explore the faithfulness of chain-of-thought reasoning to the model’s actual mechanisms. We are able to distinguish between cases where the model genuinely performs the steps it says it is performing, cases where it makes up its reasoning without regard for truth, and cases where it works backwards from a human-provided clue so that its “reasoning” will end up at the human-suggested answer.
 	- [A Model with a Hidden Goal.](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-misaligned) We also apply our method to a variant of the model that has been finetuned to pursue a secret goal: exploiting “bugs” in its training process. While the model avoids revealing its goal when asked, our method identifies mechanisms involved in pursuing the goal. Interestingly, these mechanisms are embedded within the model’s representation of its “Assistant” persona.
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.32.17.png)
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.37.17.png)
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.40.26.png)
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2022.00.57.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.32.17.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.37.17.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2021.40.26.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-09-19%20at%2022.00.57.png)
 	- The graph indicates that the replacement model does in fact perform “multi-hop reasoning” – that is, its decision to say Austin hinges on a chain of several intermediate computational steps (Dallas → Texas, and Texas + capital → Austin). We stress that this graph simplifies the true mechanisms considerably, and encourage the reader to interact with the [more comprehensive visualization](https://transformer-circuits.pub/2025/attribution-graphs/static_js/attribution_graphs/index.html?slug=capital-state-dallas) to appreciate the underlying complexity.
 
 https://transformer-circuits.pub/2025/attribution-graphs/methods.html

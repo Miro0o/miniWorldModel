@@ -65,7 +65,7 @@ Markov chains have many applications as [statistical models](https://en.wikiped
 > ↗ [(Formal) Model Checking](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/🧳%20(Formal)%20Model%20Checking/(Formal)%20Model%20Checking.md)
 > 🔗 https://www.modestchecker.net/
 
-![|350](../../../../../../../../Assets/Pics/Pasted%20image%2020251024212947.png)
+![|350](../../../../../../../Assets/Pics/Pasted%20image%2020251024212947.png)
 
 The **Modest Toolset** supports the modelling and analysis of hybrid, real-time, distributed and stochastic systems. A modular framework centered around the stochastic hybrid automata formalism [HHHK13](https://www.modestchecker.net/Publications/?HHHK13) and supporting the [JANI specification](http://www.jani-spec.org/), it provides a variety of input languages and analysis backends.
 

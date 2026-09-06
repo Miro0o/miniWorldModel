@@ -257,7 +257,7 @@ A test run is a collection of test cases or test suites that the user is executi
 	- A test case consists of two parts: a test input to exercise the program under test and a test oracle to check the correctness of the test execution. A test oracle is often in the form of executable assertions such as in the JUnit testing framework. Manually generated test cases are valuable in exposing program faults in the current program version or regression faults in future program versions.
 - Tu D, Chen R, Du Z, et al. A Method of Log File Analysis for Test Oracle[C]// International Conference on Scalable Computing and Communications; Eighth International Conference on Embedded Computing, 2009. Scalcom-Embeddedcom. IEEE, 2009:351-354.
 - What is a test oracle, and what is it used for? https://stackoverflow.com/questions/23522166/what-is-a-test-oracle-and-what-is-it-used-for
-	- ![](../../../../../../../Assets/Pics/Pasted%20image%2020250407144452.png)
+	- ![](../../../../Assets/Pics/Pasted%20image%2020250407144452.png)
 -  A Course in Black Box Software Testing-Examples of Test Oracles.  http://www.testingeducation.org/k04/OracleExamples.htm
 	- An oracle is a mechanism for determining whether the program has passed or failed a test.
 	- A complete oracle would have three capabilities and would carry them out perfectly:

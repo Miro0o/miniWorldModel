@@ -272,7 +272,7 @@ TOC
 [📖 Discrete Mathematics]:"Kenneth.H.Rosen"
 [💬 Discrete Mathematics and Functional Programming]:http://cs.wheaton.edu/%7Etvandrun/dmfp/
 
-↗ [MIT -- 6.042J - Mathematics for Computer Science.md](../../../🏠 Assets/MIT/6.042J - Mathematics for Computer Science/6.042J - Mathematics for Computer Science.md) 
+↗ [MIT -- 6.042J - Mathematics for Computer Science.md](../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/MIT/6.042J%20Mathematics%20for%20Computer%20Science/6.042J%20-%20Mathematics%20for%20Computer%20Science.md) 
 
 
 
@@ -311,9 +311,9 @@ Discrete mathematics includes:
 - [Discrete optimization](https://en.wikipedia.org/wiki/Discrete_optimization "Discrete optimization"), including [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Combinatorial optimization"), [integer programming](https://en.wikipedia.org/wiki/Integer_programming "Integer programming"), [constraint programming](https://en.wikipedia.org/wiki/Constraint_programming "Constraint programming")
 
 
-![](../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.38.49%20PM.png)
+![](../../Assets/Pics/Screenshot%202023-01-05%20at%205.38.49%20PM.png)
 
-![](../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.39.04%20PM.png)
+![](../../Assets/Pics/Screenshot%202023-01-05%20at%205.39.04%20PM.png)
 
 
 

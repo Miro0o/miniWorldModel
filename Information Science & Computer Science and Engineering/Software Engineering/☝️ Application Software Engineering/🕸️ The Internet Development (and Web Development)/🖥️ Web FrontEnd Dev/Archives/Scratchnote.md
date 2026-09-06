@@ -12,7 +12,7 @@
 
 # 🏛 Web-Dev structure:
 
-###### ![Screen Shot 2022-05-31 at 9.21.33 AM](../../../Assets/Pics/Screen Shot 2022-05-31 at 9.21.33 AM.png)
+###### ![Screen Shot 2022-05-31 at 9.21.33 AM](../../../../../../Assets/Pics/Screen%20Shot%202022-05-31%20at%209.21.33%20AM.png)
 
 
 # 🙋 FAQ

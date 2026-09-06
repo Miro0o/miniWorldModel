@@ -9,7 +9,7 @@
 ↗ [Authentication (身份鉴别)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 ↗ [Cryptographic Authentication (基于密码学原理)](../../../../⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/🎫%20Cryptographic%20Authentication%20(基于密码学原理)/Cryptographic%20Authentication%20(基于密码学原理).md)
 
-↗ [Secure Multi-Party Computation (SMPC)](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Secure%20Multi-Party%20Computation%20(SMPC)/Secure%20Multi-Party%20Computation%20(SMPC).md)
+↗ [Secure Multi-Party Computation (SMPC)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Secure%20Multi-Party%20Computation%20%28SMPC%29/Secure%20Multi-Party%20Computation%20%28SMPC%29.md)
 ↗ [Schnorr’s Identification Protocol & Scheme](Interactive%20ZK%20Proofs/Sigma%20Protocols%20(Commit–Challenge–Response)/Schnorr’s%20Identification%20Protocol%20&%20Scheme.md)
 
 
@@ -55,11 +55,11 @@ Zero-knowledge proofs can be interactive, meaning that the prover and verifier e
 #### Where's Wally
 
 #### Cave Problem (The Ali Baba Cave)
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.00.07%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.00.07%20PM.png)
 #### External Observation
 
 #### Number Theory Problem
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
 
 
 ### Formal Definition

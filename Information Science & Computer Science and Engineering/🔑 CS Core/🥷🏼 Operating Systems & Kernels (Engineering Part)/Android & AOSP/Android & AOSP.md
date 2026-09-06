@@ -37,7 +37,7 @@ Android is an open source software stack created for a wide array of devices wit
 
 Android is designed so that there's no central point of failure, where one industry player restricts or controls the innovations of another. The result is a full, production-quality consumer product with source code open for customization and porting.
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230930214954.png)
+![](../../../../Assets/Pics/Pasted%20image%2020230930214954.png)
 
 
 

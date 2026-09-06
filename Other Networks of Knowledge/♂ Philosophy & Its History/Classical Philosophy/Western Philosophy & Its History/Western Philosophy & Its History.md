@@ -26,7 +26,7 @@ Western philosophy refers to the philosophical thought, traditions and works of 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2
 
 
-![](../../../../../Assets/Pics/Pasted%20image%2020251205163351.png)
+![](../../../../Assets/Pics/Pasted%20image%2020251205163351.png)
 <small><a>https://superscholar.org/history-of-philosophy/</a></small>
 
 

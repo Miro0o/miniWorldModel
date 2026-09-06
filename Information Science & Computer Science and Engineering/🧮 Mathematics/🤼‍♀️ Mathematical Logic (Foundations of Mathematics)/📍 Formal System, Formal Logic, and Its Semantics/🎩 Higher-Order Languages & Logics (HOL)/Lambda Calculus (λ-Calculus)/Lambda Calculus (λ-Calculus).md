@@ -181,7 +181,7 @@ Lambda Diagrams are a graphical notation for closed lambda terms, in which abstr
 > **Semantics**
 > - 🔗 https://thzt.github.io/2018/02/03/semantics-5/
 > - Henkin semantics & Henkin model
-> 	- ↗ [σ-Algebra (Sigma Algebra)](../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/📐%20Measures%20(Measure%20Theory)/σ-Algebra%20(Sigma%20Algebra)/σ-Algebra%20(Sigma%20Algebra).md)
+> 	- ↗ [σ-Algebra (Sigma Algebra)](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/📐%20Measures%20%28Measure%20Theory%29/σ-Algebra%20%28Sigma%20Algebra%29/σ-Algebra%20%28Sigma%20Algebra%29.md)
 > 	- ↗ [Henkin Model & Henkin Semantics](Henkin%20Model%20&%20Henkin%20Semantics.md)
 > - Cartesian closed category
 > 	- ↗ [Category Theory (范畴论)](../../../../🩻%20Category%20Theory%20(范畴论)/Category%20Theory%20(范畴论).md)

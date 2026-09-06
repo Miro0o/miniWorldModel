@@ -94,7 +94,7 @@ For small database systems, with a small number of users, the lifecycle need not
 
 ↗ [Data Integration](../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020260318145616.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260318145616.png)
 <small><a>https://medium.com/@lasyachowdary1703/day-9-intro-to-conceptual-logical-physical-data-models-mapping-ideas-to-reality-cb02608b18b3</a></small>
 
 

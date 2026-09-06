@@ -16,7 +16,7 @@
 ### Learning Resources
 #### Courses
 🎉 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) from UMASS. Along with the 📚textbooks, 📽PPTs, 🎬Videos, and 🥽Labs!! 
-- 🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking%20-%20A%20Top-Down%20Approach/Computer%20Networking:%20A%20Top-Down%20Approach.md)
+- 🏫 [UMASS /Computer Networking: A Top-Down Approach](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UMASS/Computer%20Networking%20-%20A%20Top-Down%20Approach/Computer%20Networking%20-%20A%20Top-Down%20Approach.md)
 - 📖 [Computer Networking: a Top-Down Approach, 8th Edition | Pearson](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
 🇨🇳 ALSO 「中文版本」: [**USTC** Computer Networking: A Top-Down Approach](http://staff.ustc.edu.cn/~qzheng/teaching.html)

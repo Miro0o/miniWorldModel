@@ -26,11 +26,11 @@
 > 🔗 https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#
 > List of Nvidia graphics processing units
 > - Desktop GPUs
-> 	- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.29.42.png)
+> 	- ![](../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.29.42.png)
 > - Mobile GPUs
 > - Workstation GPUs
 > - Data Center GPUs
-> 	- ![](../../../../../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.27.31.png)
+> 	- ![](../../../../../Assets/Pics/Screenshot%202026-04-01%20at%2014.27.31.png)
 > - Console/handheld GPUs
 
 

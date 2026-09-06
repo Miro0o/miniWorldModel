@@ -25,17 +25,17 @@ systems.
 
 ## Hypervisor Architectures
 > 🔗 According to [Formal requirements for virtualizable third generation architectures](http://doi.acm.org/10.1145/361011.361073) (1974), Hypervisors (VMMs) are divided into two categories: **native** and **hosted**.
-> ![](../../../../../Assets/Pics/Pasted%20image%2020230308103644.png)
+> ![](../../../../Assets/Pics/Pasted%20image%2020230308103644.png)
 
 
 ### 1️⃣ Native Hypervisor
-![](../../../../../Assets/Pics/Pasted%20image%2020230308103729.png)
+![](../../../../Assets/Pics/Pasted%20image%2020230308103729.png)
 
 ↗ [Native Hypervisor (Bare Metal)](Hypervisors%20Implementation/Native%20Hypervisor%20(Bare%20Metal)/Native%20Hypervisor%20(Bare%20Metal).md)
 
 
 ### 2️⃣ Hosted Hypervisor
-![](../../../../../Assets/Pics/Pasted%20image%2020230308103806.png)
+![](../../../../Assets/Pics/Pasted%20image%2020230308103806.png)
 
 ↗ [Hosted Hypervisor](Hypervisors%20Implementation/Hosted%20Hypervisor/Hosted%20Hypervisor.md)
 

@@ -8,14 +8,14 @@
 ### Related Topics
 ↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 
-↗ [CPU (Central Processing Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](../../../👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/Computer%20Microarchitectures%20%28Computer%20Organization%29%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips%20%28Theory%20Part%29/📌%20Microprocessor%20&%20Microprocessors%20Unit%20%28MPU%29/🧠%20CPU%20%28Central%20Processing%20Unit%29/CPU%20%28Central%20Processing%20Unit%29.md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [Address Space & Memory Layout](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
 
 
 ## Overview
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
 
 ### Memory Access Implementations
 ↗ [8086 ASM (16 bit)](../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
@@ -26,7 +26,7 @@
 
 
 ### Memory Cards /Chips
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
 #TODO 
 
 
@@ -39,7 +39,7 @@
 
 ## 📬 Addressing
 ### Intro: Address Space
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
 
 ↗ [Address Space & Memory Layout](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
@@ -102,7 +102,7 @@ Indirect addressing is a powerful addressing mode that provides an exceptional l
 
 These two addressing modes are quite useful for accessing array elements as well as characters in strings. In fact, most assembly languages provide special index registers that are implied in many string operations. Depending on the instruction-set design, general-purpose registers may also be used in this mode.
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.36.43%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.36.43%20PM.png)
 ##### 👉 Stack Addressing 
 If stack addressing mode is used, the operand is assumed to be on the stack.
 #### 💦 Variations on Above Schemes
@@ -125,7 +125,7 @@ Self-relative addressing computes the address of the operand as an offset from t
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)
 source: ↗ [Virtual Paging](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Paging.md)
 
 

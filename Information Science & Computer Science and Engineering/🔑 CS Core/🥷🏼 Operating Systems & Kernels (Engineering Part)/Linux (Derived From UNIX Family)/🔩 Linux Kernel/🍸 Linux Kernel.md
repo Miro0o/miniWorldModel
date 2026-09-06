@@ -154,12 +154,12 @@ linux内核技术
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.46.53%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.46.53%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux_kernel</small>
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.49.06%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.49.06%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux_kernel#Further_reading</small>
 
 
@@ -213,7 +213,7 @@ Note that bug fixes are accepted even outside merge window in the maintainer's t
 ### Linux Kernel Components Overview
 ![WechatIMG484](../../../../../Assets/Pics/WechatIMG484.jpg)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
 
 Briefly, the principal kernel components are the following:
 - **Signals**: The kernel uses signals to call into a process. For example, signals are used to notify a process of certain faults, such as division by zero. 
@@ -238,17 +238,17 @@ Briefly, the principal kernel components are the following:
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#Architecture_and_features
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240531205806.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240531205806.png)
 <small>Linux Kernel Architecture. src: <a>https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html</a></small>
 
 
 ### Linux Kernel Source Code Layout
 > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
 
 These are the top level of the Linux source code folders:
 - arch - contains architecture specific code; each architecture is implemented in a specific sub-folder (e.g. arm, arm64, x86)
@@ -296,7 +296,7 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 ↗ [Linux File System](Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20System.md)
 ↗ [Linux Directory System & FHS](Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20Directory%20System%20&%20FHS.md)
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020231019195646.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020231019195646.png)
 
 
 ### Linux Kernel Subsystems API Manual

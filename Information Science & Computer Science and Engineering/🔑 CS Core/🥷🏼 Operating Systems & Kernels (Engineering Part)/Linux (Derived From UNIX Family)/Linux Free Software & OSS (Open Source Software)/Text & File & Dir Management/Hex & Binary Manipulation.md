@@ -39,7 +39,7 @@ od - dump files in octal and other formats
 🚧 https://github.com/sharkdp/hexyl
 🚧 https://github.com/LonnyGomes/hexcurse
 
-![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
+![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
 
 
 [Top Hex Editors for Linux]: https://www.tecmint.com/best-hex-editors-for-linux/

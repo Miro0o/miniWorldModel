@@ -31,7 +31,7 @@ The DOM represents a document with a logical tree. Each branch of the tree ends 
 
 The principal standardization of the DOM was handled by the World Wide Web Consortium (W3C), which last developed a recommendation in 2004. WHATWG took over the development of the standard, publishing it as a living document. The W3C now publishes stable snapshots of the WHATWG standard.
 
-![|400](../../../../../../Assets/Pics/Pasted%20image%2020250417133514.png)
+![|400](../../../../../Assets/Pics/Pasted%20image%2020250417133514.png)
 
 ----
 > 🔗 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
@@ -55,9 +55,9 @@ The DOM is built using multiple APIs that work together. The core [DOM](https:/
 
 
 ### DOM & JavaScript
-↗ [Web Browser Development](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
+↗ [Web Browser Development](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/🤠%20Web%20Browser%20Development/Web%20Browser%20Development.md)
 
-![parsing-model-overview | 300](../../../../../../Assets/Pics/parsing-model-overview.svg)
+![parsing-model-overview | 300](../../../../../Assets/Pics/parsing-model-overview.svg)
 <small>Overview of the parsing model <a>https://html.spec.whatwg.org/multipage/parsing.html#overview-of-the-parsing-model</a></small>
 
 

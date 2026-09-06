@@ -21,7 +21,7 @@
 ## Intro
 *SAML* is an acronym used to describe the Security Assertion Markup Language (SAML). SAML is an open standard used for authentication. Based upon the Extensible Markup Language (XML) format, web applications use SAML to transfer authentication data between two parties - the identity provider (IdP) and the service provider (SP).
 
-![saml](../../../../../../../../../Assets/Pics/saml.svg)
+![saml](../../../../../Assets/Pics/saml.svg)
 
 <small>An example of SAML in authentication</small>
 

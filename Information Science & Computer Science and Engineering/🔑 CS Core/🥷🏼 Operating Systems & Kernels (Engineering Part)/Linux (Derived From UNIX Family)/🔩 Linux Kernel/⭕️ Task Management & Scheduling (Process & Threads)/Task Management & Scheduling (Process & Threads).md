@@ -62,7 +62,7 @@ As you can see it is a pretty large data structure: almost 8KB in size and 155 f
 ### Overview of Linux Process Resources
 A summary of the resources a process has can be obtain from the `/proc/<pid>` directory, where `<pid> `is the process id for the process we want to look at.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-05-31%20at%2010.20.39%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-05-31%20at%2010.20.39%20PM.png)
 
 
 ### Linux Threads
@@ -76,13 +76,13 @@ A thread is the basic unit that the kernel process scheduler uses to allow appli
 
 The typical thread implementation is one where the threads is implemented as a separate data structure which is then linked to the process data structure. For example, the **Windows kernel** uses such an implementation:
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240601105206.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105206.png)
 
 Linux uses a different implementation for threads. The basic unit is called a task (hence the `struct task_struct`) and it is used for both threads and processes. Instead of embedding resources in the task structure it has pointers to these resources.
 
 Thus, if two threads are the same process will point to the same resource structure instance. If two threads are in different processes they will point to different resource structure instances.
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240601105310.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105310.png)
 
 
 ### \*Namespaces and "containers"
@@ -105,7 +105,7 @@ To achieve this partitioning, the `struct nsproxy` structure is used to group
 ### Context Switch
 The following diagram shows an overview of the Linux kernel context switch process:
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240601111417.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601111417.png)
 
 Note that before a context switch can occur we must do a kernel transition, either with a system call or with an interrupt. At that point the user space registers are saved on the kernel stack. At some point the `schedule()` function will be called which can decide that a context switch must occur from T0 to T1 (e.g. because the current thread is blocking waiting for an I/O operation to complete or because it's allocated time slice has expired).
 
@@ -270,7 +270,7 @@ Kernel threads are used exactly for this and are a special class of tasks that d
 ### Task States
 The following diagram shows to the task (threads) states and the possible transitions between them:
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240601111912.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601111912.png)
 
 
 ### Task Creation & `clone()` System Call
@@ -296,7 +296,7 @@ Accessing the current process is a frequent operation:
 
 In order to support fast access in multi processor configurations a per CPU variable is used to store and retrieve the pointer to the current `struct task_struct`:
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240601111200.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601111200.png)
 
 Previously the following sequence was used as the implementation for the `current` macro:
 ``` c

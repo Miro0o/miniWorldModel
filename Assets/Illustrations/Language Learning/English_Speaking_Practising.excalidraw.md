@@ -25,10 +25,10 @@ What's your opinion on xxx?
 (two sides debate with each other on a topic) ^VFQE1tFs
 
 ## Embedded Files
-3a836d153e36b6b5b135c610836f6ff3fff22028: [[../../../../../../Assets/Pics/Screenshot 2024-10-10 at 00.19.54.png]]
-1ceb1e497de6594831ddc7e8c515ca3979cb86d7: [[../../../../../../Assets/Pics/Screenshot 2024-10-10 at 00.20.17.png]]
-1f009f64d585a647e583b281a21c8da8a5771fc8: [[../../../../../../Assets/Pics/Screenshot 2024-10-10 at 00.21.49.png]]
-c45f3abe75d650dcfdb6207c5e620a43c65f6d88: [[../../../../../../Assets/Pics/Screenshot 2024-10-10 at 00.25.22.png]]
+3a836d153e36b6b5b135c610836f6ff3fff22028: [[../../Pics/Screenshot 2024-10-10 at 00.19.54.png]]
+1ceb1e497de6594831ddc7e8c515ca3979cb86d7: [[../../Pics/Screenshot 2024-10-10 at 00.20.17.png]]
+1f009f64d585a647e583b281a21c8da8a5771fc8: [[../../Pics/Screenshot 2024-10-10 at 00.21.49.png]]
+c45f3abe75d650dcfdb6207c5e620a43c65f6d88: [[../../Pics/Screenshot 2024-10-10 at 00.25.22.png]]
 
 %%
 ## Drawing

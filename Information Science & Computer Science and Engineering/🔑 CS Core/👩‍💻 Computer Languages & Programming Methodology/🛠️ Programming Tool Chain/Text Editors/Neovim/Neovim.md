@@ -4,7 +4,7 @@
 
 
 
-![Neovim](../../../../../../../../Assets/Pics/neovim-logo-300x87.png)
+![Neovim](../../../../../../Assets/Pics/neovim-logo-300x87.png)
 
 
 

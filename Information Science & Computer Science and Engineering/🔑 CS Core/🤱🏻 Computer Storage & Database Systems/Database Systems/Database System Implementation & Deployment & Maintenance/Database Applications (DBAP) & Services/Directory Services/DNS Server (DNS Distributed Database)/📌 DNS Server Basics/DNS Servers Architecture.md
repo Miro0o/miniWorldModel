@@ -22,9 +22,9 @@ As centralized DNS does not scale because of the reasons mentioned above, a need
 
 
 ## Structure of DNS
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.20.26%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.20.26%20AM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.45.56%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%205.45.56%20PM.png)
 
 The structure of DNS is similar to the structure of **Unix file system**. It is a tree-like structure in which the root is known as the **Root DNS sever**. Each node in the tree is associated with a resource record which holds the information associated with it, and can have any number of branches. 
 

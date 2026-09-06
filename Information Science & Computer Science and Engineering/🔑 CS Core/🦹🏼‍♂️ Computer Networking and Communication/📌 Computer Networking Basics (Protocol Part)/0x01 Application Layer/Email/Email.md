@@ -19,7 +19,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.51.10%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.51.10%20PM.png)
 
 
 ### Common Ports in EMail
@@ -128,7 +128,7 @@ etang.com           pop.etang.com                               smtp.etang.com
 ### SMTP
 ↗ [SMTP](SMTP.md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.56.05%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.56.05%20PM.png)
 
 
 ### IMAP /POP /POP3
@@ -136,24 +136,24 @@ etang.com           pop.etang.com                               smtp.etang.com
 
 ↗ [POP & POP3](POP%20&%20POP3.md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.54.35%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.54.35%20PM.png)
 
 
 ### MIME
 ↗ [MIME (Multipurpose Internet Mail Extensions)](../🚔%20Network%20Managements%20&%20Standards/MIME%20(Multipurpose%20Internet%20Mail%20Extensions).md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.49%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.49%20PM.png)
 
 
 ### HTTP
 ↗ [HTTP (HyperText Transfer Protocol)](../🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.55.13%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.55.13%20PM.png)
 
 
 
 ## Email Message Format
-![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.04%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.53.04%20PM.png)
 
 
 

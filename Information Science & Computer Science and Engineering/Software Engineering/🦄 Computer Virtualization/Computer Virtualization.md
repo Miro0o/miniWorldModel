@@ -33,7 +33,7 @@ Popek & Goldberg, 1974
 
 
 ## Intro
-![](../../../../Assets/Pics/Screenshot%202024-04-01%20at%203.15.48%20PM.png)
+![](../../../Assets/Pics/Screenshot%202024-04-01%20at%203.15.48%20PM.png)
 <small>https://en.wikipedia.org/wiki/Virtualization#External_links</small>
 
 > 📎 https://www.cnblogs.com/bj-mr-li/p/11407927.html
@@ -122,6 +122,6 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 [👍 x86 virtualization | Wikipedia]: https://en.wikipedia.org/wiki/X86_virtualization
 
 [VMWare ESXi简介及运维 | CSDN]: http://t.csdnimg.cn/UBy8f
-![](../../../../Assets/Pics/Pasted%20image%2020240402135030.png)
+![](../../../Assets/Pics/Pasted%20image%2020240402135030.png)
 
 [Virtualization | The linux kernel]: https://linux-kernel-labs.github.io/refs/heads/master/lectures/virt.html#classic-virtualization

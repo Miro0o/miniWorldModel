@@ -41,7 +41,7 @@
 
 
 ## File Allocation Methods
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-01%20at%203.52.51%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-01%20at%203.52.51%20PM.png)
 
 | | Contiguous | Chained | Indexed (block) | Indexed (variable) |
 |---|---|---|---|---|   

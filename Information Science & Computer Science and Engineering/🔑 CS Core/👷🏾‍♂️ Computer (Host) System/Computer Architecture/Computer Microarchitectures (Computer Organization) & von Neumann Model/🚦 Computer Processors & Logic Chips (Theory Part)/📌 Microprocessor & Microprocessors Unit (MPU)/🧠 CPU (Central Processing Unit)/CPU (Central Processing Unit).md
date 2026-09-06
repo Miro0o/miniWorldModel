@@ -61,10 +61,10 @@ The term "**microprocessor**" refers to a single implemented processor and, very
 > ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
 > ↗ [Computer Memory & Storage](../../../Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 <small>Computer Components: Top-Level View</small>
 Figure 1.1 depicts simplified Von Neumann-based computer top-level components. 
 
@@ -91,10 +91,10 @@ Similarly:
 > 🔗 [List of Intel processors](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 > 🔗 [List of AMD processors](https://en.wikipedia.org/wiki/List_of_AMD_processors)
 
-![](../../../../../../../../../Assets/Pics/arch%20(1).jpg)
+![](../../../../../../../../Assets/Pics/arch%20%281%29.jpg)
 <small>Simplified von Neumann CPU Architecture</small>
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
 <small>Early von Neumann model as a SISD architecture</small>
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117002800.png)
@@ -209,7 +209,7 @@ Instead of printing the whole city on one piece of silicon (Monolithic), they st
 
 
 ## Instruction Execution
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
 > Detailed info at ↗ [Instruction Execution](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
@@ -223,9 +223,9 @@ This is decided by the nature of turing machine and von neumann architecture.
 
 
 ### Interrupts
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
 More at ↗ [Processor /Interrupts](../../../../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)

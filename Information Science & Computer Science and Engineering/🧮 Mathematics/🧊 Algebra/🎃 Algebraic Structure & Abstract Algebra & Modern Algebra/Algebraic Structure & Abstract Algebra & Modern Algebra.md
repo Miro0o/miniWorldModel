@@ -44,7 +44,7 @@ https://github.com/jipsen/Algebras-and-Logics/blob/main/files/index.html.md
 > 🎬【抽象代数（近世代数）| 什么是抽象代数？】 https://www.bilibili.com/video/BV13Z4y1n7nY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d 
 > 🎬【群的定义--抽象代数 | 什么是群？】 https://www.bilibili.com/video/BV1ST4y1b7R5/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-![Screenshot 2023-01-05 at 5.47.30 PM](../../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
+![Screenshot 2023-01-05 at 5.47.30 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.47.30%20PM.png)
 <small>The structure of algebra system</small>
 
 > 🔗 https://en.wikipedia.org/wiki/Algebraic_structure
@@ -605,34 +605,34 @@ The collection of all structures of a given type (same operations and same laws)
 ### Definition
 > 💡【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=44&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-![Screenshot 2023-01-05 at 7.14.26 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.14.26%20PM.png)
+![Screenshot 2023-01-05 at 7.14.26 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.14.26%20PM.png)
 
-![Screenshot 2023-01-05 at 7.17.55 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.17.55%20PM.png)
+![Screenshot 2023-01-05 at 7.17.55 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.17.55%20PM.png)
 
 
 ### Classification
-![Screenshot 2023-01-05 at 7.30.10 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.30.10%20PM.png)
+![Screenshot 2023-01-05 at 7.30.10 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.30.10%20PM.png)
 
 
 ### Generation(?)
 > 💡【离散数学（全）-北京大学】 https://www.bilibili.com/video/BV1BW411n7gw/?p=45&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 #### Subalgebra
-![Screenshot 2023-01-05 at 7.30.48 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.30.48%20PM.png)
+![Screenshot 2023-01-05 at 7.30.48 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.30.48%20PM.png)
 #### Direct Product Algebra
-![Screenshot 2023-01-05 at 7.31.00 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.00%20PM.png)
+![Screenshot 2023-01-05 at 7.31.00 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.00%20PM.png)
 ##### Properties
-![Screenshot 2023-01-05 at 7.31.14 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.14%20PM.png)
+![Screenshot 2023-01-05 at 7.31.14 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.31.14%20PM.png)
 #### Congruence & Quotient Algebra
 
 
 ### Relations Between Algebraic Systems
 #### Homomorphism
 >🔗 https://zh.m.wikipedia.org/wiki/同态
-![Screenshot 2023-01-05 at 7.34.47 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.34.47%20PM.png)
+![Screenshot 2023-01-05 at 7.34.47 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.34.47%20PM.png)
 
-![Screenshot 2023-01-05 at 7.43.03 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.43.03%20PM.png)
+![Screenshot 2023-01-05 at 7.43.03 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.43.03%20PM.png)
 
-![Screenshot 2023-01-05 at 7.47.48 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.47.48%20PM.png)
+![Screenshot 2023-01-05 at 7.47.48 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.47.48%20PM.png)
 #### Isomorphism
 
 
@@ -642,22 +642,22 @@ The collection of all structures of a given type (same operations and same laws)
 #### Definition
 
 #### Instance
-<img src="../../../../../../Assets/Pics/Screenshot 2023-01-05 at 5.59.29 PM.png" alt="Screenshot 2023-01-05 at 5.59.29 PM" style="zoom:40%;" />
+<img src="../../../../Assets/Pics/Screenshot%202023-01-05%20at%205.59.29%20PM.png" alt="Screenshot 2023-01-05 at 5.59.29 PM" style="zoom:40%;" />
 #### Notation
 
 
 ### Binary Operation Laws
-![Screenshot 2023-01-05 at 7.33.33 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.33%20PM.png)
+![Screenshot 2023-01-05 at 7.33.33 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.33%20PM.png)
 
-![Screenshot 2023-01-05 at 7.33.42 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.42%20PM.png)
+![Screenshot 2023-01-05 at 7.33.42 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.42%20PM.png)
 
 
 ### 二元运算中的特异元素
-![Screenshot 2023-01-05 at 7.32.59 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.32.59%20PM.png)
+![Screenshot 2023-01-05 at 7.32.59 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.32.59%20PM.png)
 
-![Screenshot 2023-01-05 at 7.33.11 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.11%20PM.png)
+![Screenshot 2023-01-05 at 7.33.11 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%207.33.11%20PM.png)
 
-![Screenshot 2023-01-05 at 6.42.34 PM](../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%206.42.34%20PM.png)
+![Screenshot 2023-01-05 at 6.42.34 PM](../../../../Assets/Pics/Screenshot%202023-01-05%20at%206.42.34%20PM.png)
 
 
 

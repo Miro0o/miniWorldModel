@@ -14,7 +14,7 @@
 
 ## Intro
 
-![@Whonix](../../../../../../../../Assets/Pics/103259105.png)
+![@Whonix](../../../../../../Assets/Pics/103259105.png)
 
 
 > 🔗 https://en.wikipedia.org/wiki/Whonix

@@ -42,7 +42,7 @@ Converting a DFA to a Minimal State DFA
 
 
 ## Intro
-![Automata_Formal_Lan.excalidraw | 900](../../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
+![Automata_Formal_Lan.excalidraw | 900](../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
 
 ![Language_and_Programming_Language_Processing | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 
@@ -129,7 +129,7 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 The Chomsky hierarchy in the fields of [formal language theory](https://en.wikipedia.org/wiki/Formal_language "Formal language"), [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), and [linguistics](https://en.wikipedia.org/wiki/Linguistics "Linguistics"), is a [containment hierarch](https://en.wikipedia.org/wiki/Hierarchy#Containment_hierarchy), is a containment hierarchy of classes of formal grammars. A formal grammar describes how to form strings from a formal language's alphabet that are valid according to the language's syntax. The linguist Noam Chomsky theorized that four different classes of formal grammars existed that could generate increasingly complex languages. Each class can also completely generate the language of all inferior classes (set inclusive).
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
 > Recall Complexity Classes ↗ [Complexity Theory & Computational Complexity](../Complexity%20Theory%20&%20Computational%20Complexity/Complexity%20Theory%20&%20Computational%20Complexity.md)
 > ![|400](../../../../../Assets/Pics/Screenshot%202025-08-01%20at%2021.45.14.png)

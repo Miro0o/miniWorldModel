@@ -243,7 +243,7 @@ WebViews allow an app to display web content without using a traditional web bro
 ![|500](../../../../../Assets/Pics/Pasted%20image%2020250319213925.png)
 <small>Example of an app that uses webviews to recreate a mobile website, swapping the browser UI for native app elements.</small>
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020250319211049.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020250319211049.png)
 <small>Blink render engine and other components of some major web platforms</small>
 
 > 🔗 https://en.wikipedia.org/wiki/WebView

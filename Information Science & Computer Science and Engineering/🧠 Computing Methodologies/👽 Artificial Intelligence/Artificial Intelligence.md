@@ -142,7 +142,7 @@ or（感性，理性）X （认识，实践）
 
 ![CS_and_Intelligence.excalidraw | 800](../../../Assets/Illustrations/Philosophy/CS_and_Intelligence.excalidraw.md)
 
-![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+![AI-Layer.excalidraw | 800](../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
 > 🤖 Gemini-3.0 Pro Preview
 
@@ -216,7 +216,7 @@ This chapter defines AI and establishes the cultural background against which it
 ##### Sensibility (感性)
 
 #### 🎯 AI Without Self-Awareness: Agent vs Environment (Narrow AI)
-![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+![AI-Layer.excalidraw | 800](../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 
 > [!links]
 > ↗ [AI Basics & Major Techniques](🗝️%20AI%20Basics%20&%20Major%20Techniques/AI%20Basics%20&%20Major%20Techniques.md)

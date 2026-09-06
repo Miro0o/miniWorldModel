@@ -12,7 +12,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230308103806.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230308103806.png)
 
 
 

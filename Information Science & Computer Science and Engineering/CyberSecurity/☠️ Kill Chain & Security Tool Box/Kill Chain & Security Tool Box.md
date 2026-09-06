@@ -54,7 +54,7 @@ Please feel free to check out, download, and share some of our free software, se
 
 > 💡 The conception of 'kill chain' was coined against scenarios in ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md). Here in this section of notes i extend it to a broader scope covering all tools used in security activities. 
 
-![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
+![](../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
 <small>Threat Modeling using ATTCK Threat Tactics. <br><a>https://attack.mitre.org/matrices/enterprise/</a></small>
 
 > 📖 Mastering Kali Linux for Advanced Penetration Testing

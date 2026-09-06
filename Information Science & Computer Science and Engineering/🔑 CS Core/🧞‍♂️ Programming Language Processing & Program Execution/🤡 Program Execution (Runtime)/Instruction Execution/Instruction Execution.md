@@ -32,7 +32,7 @@ Instruction Processing Level:
 
 Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Signals
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
 
@@ -79,7 +79,7 @@ Beyond CS!
 
 
 ### Fetch-Decode-Execute Cycle
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
 
 ### Interrupts & System Call
@@ -91,15 +91,15 @@ Beyond CS!
 > 
 > ↗ [System Call Interfaces (SCI)](../../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.10.54%20AM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
 
 
 ## Instruction Execution Process
-![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.46PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.55PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.46PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.55PM.png)
 
 
 

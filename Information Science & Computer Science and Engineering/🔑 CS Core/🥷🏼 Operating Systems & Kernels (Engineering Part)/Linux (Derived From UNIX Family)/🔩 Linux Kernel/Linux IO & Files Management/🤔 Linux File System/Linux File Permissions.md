@@ -15,7 +15,7 @@
 
 
 ## Intro
-![](../../../../../../../../../Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg)
+![](../../../../../../../Assets/Pics/4ED860F7-CEB5-4FB1-AABE-E445EAF75F43.jpeg)
 <small>Special FIle Permissions in Linux: SUID, SGID, and Sticky Bit. Not the head of the image has a typo.</small>
 
 

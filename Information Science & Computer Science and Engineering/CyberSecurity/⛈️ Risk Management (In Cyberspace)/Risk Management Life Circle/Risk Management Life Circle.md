@@ -10,7 +10,7 @@
 
 
 ## Intro
-![|500](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
+![|500](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
 <small>GB/Z 24364</small>
 
 ![|500](../../../../Assets/Pics/risk_management.jpg)
@@ -22,19 +22,19 @@
 ### 1️⃣ Risk Management Initialization (背景建立)
 背景建立是网络空间安全风险管理的第一步骤，确定风险管理的对象和范围，确立实施风险管理的准备，进行相关信息的调查和分析。
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.00PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.00PM.png)
 
 
 ### 2️⃣ Risk Assessment （风险评估）⭐
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.28PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.28PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.11.33AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.11.33AM.png)
 
 ↗ [Risk Assessment](Risk%20Assessment.md)
 
 
 ### 3️⃣ Risk Controls (Security Control)（风险控制/处理）
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.51PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.51PM.png)
 #### Control Levels
 ##### Administrative Control
 Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people.
@@ -91,7 +91,7 @@ Risk mitigation, risk transfer, risk avoidance, risk acceptance
 - 批准：是指机构的决策层依据风险评估和风险处理的结果是否满足信息系统的安全要求，做出是否认可风险管理活动的决定
 - 监督：是指检查机构检查信息系统以及信息安全相关的环境有无变化，监督变化因素是否有可能引入新风险
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.46.57PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.46.57PM.png)
 
 
 
@@ -99,13 +99,13 @@ Risk mitigation, risk transfer, risk avoidance, risk acceptance
 ### 1️⃣ Monitor & Censurship（监控审查）
 监控与审查可以及时发现已经出现或即将出现的变化、偏差和延误等问题，并采取适当的措施进行控制和纠正，从而减少因此造成的损失，保证信息安全风险管理主循环的有效性。
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.47.32PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.47.32PM.png)
 
 
 ### 2️⃣ Communication & Consultation（沟通咨询）
 通过畅通的交流和充分的沟通，保持行动的协调和一致；通过有效的培训和方便的咨询，保证行动者具有足够的知识和技能，就是沟通咨询的意义所在
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.47.58PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.47.58PM.png)
 
 
 

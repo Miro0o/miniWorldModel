@@ -90,7 +90,7 @@ https://zemdalk.github.io/archive.html?tag=理论计算机科学基础
 
 
 ## Intro
-![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
 
 > 🔗 https://en.wikipedia.org/wiki/Theory_of_computation

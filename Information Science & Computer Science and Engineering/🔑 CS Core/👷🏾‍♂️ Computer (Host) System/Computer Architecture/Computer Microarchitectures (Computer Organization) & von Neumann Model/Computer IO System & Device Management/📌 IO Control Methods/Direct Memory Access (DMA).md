@@ -11,7 +11,7 @@
 
 
 ## Intro
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%205.03.11%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%205.03.11%20PM.png)
 
 The DMA function can be either performed by a separate module on the system bus, or it can be incorporated into an I/O module.
 
@@ -25,7 +25,7 @@ The processor is hence involved only at the beginning and end of the transfer.
 
 The DMA module needs to take control of the bus to transfer data to and from memory. Because of this competition for bus usage, there may be times when the processor needs the bus and must wait for the DMA module. Note this is not an interrupt; the processor does not save a context and do something else. Rather, the processor pauses for one **bus cycle** (the time it takes to transfer one word across the bus). The overall effect is to cause the processor to execute more slowly during a DMA transfer when processor access to the bus is required.
 
-![|450](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.39.29%20PM.png)
+![|450](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.39.29%20PM.png)
 
 **Pros**
 
@@ -40,7 +40,7 @@ The DMA technique works as follows. When the processor wishes to read or write a
 
 The processor then continues with other work. It has delegated this I/O operation to the DMA module. The DMA module transfers the entire block of data, one word at a time, directly to or from memory, without going through the processor. When the transfer is complete, the DMA module sends an interrupt signal to the processor. Thus, the processor is involved only at the beginning and end of the transfer (see Figure C.4c).
 
-![|450](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.40.12%20PM.png)
+![|450](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.40.12%20PM.png)
 
 The DMA mechanism can be configured in a variety of ways. Some possibilities are shown in Figure 11.3.
 - In the first example, all modules share the same system bus. The DMA module, acting as a surrogate processor, uses programmed I/O to exchange data between memory and an I/O module through the DMA module. This configuration, while it may be inexpensive, is clearly inefficient: As with processor-controlled programmed I/O, each transfer of a word consumes two bus cycles (transfer request followed by transfer).

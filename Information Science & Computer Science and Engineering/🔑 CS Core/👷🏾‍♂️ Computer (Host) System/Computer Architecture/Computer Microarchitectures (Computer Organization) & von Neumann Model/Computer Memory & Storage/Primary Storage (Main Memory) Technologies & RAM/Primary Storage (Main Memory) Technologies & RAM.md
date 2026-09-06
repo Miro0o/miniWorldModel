@@ -44,12 +44,12 @@ where
 - $Access_C$ = cache access time
 - $Access_{MM}$ = main memory access time.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.58.16%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.14.52%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.58.16%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.14.52%20PM.png)
 
 
 ### Caching and Programs Locality
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.56.09%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.56.09%20PM.png)
 
 
 
@@ -73,8 +73,8 @@ offset field, block field, tag field
 
 ### 1️⃣ Direct Mapping (DM Cache)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.41.24%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.41.44%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.41.24%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%208.41.44%20PM.png)
 
 
 ### 2️⃣ Fully Associative Mapping (FAM Cache，全相联映射的缓存)
@@ -82,9 +82,9 @@ Instead of specifying a unique location for each main memory block (method used 
 
 Using associative mapping, the main memory address is partitioned into two pieces, the tag and the offset.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.25%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.25%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.12%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.14.12%20PM.png)
 
 #### Victim Block & Replacement Policies
 With fully associative mapping, when the cache is full, we need a replacement algorithm to decide which block we wish to throw out of cache (we call this our **victim block**). 
@@ -98,7 +98,7 @@ Because of its speed and complexity, associative cache is very expensive. Althou
 
 The third mapping scheme we introduce is **N-way set-associative cache mapping**, a combination of these two approaches.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.25.55%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%204.25.55%20PM.png)
 
 
 

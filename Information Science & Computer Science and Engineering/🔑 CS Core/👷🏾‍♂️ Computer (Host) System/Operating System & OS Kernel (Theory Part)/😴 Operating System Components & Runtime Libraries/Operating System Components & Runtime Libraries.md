@@ -39,7 +39,7 @@
 
 这些系统有各自的内核，出于系统稳定性考虑是不允许用户程序直接操作内核，同时也将内核开发和应用软件开发隔离开来，系统将必要的函数封装成库供应用软件调用，约定的规范即为应用软件接口(Application Program Interface，API)。  
 
-![|400](../../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%207.26.21PM.png)
+![|400](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%207.26.21PM.png)
 <small>软件系统层级关系简要示意图</small>
 
 API函数库是连接用户软件和系统内核桥梁，或者是“协议”，操作系统厂商写好函数库说明书，应用软件开发者不必关心其内部是如何实现的，用的时候对照着API手册查询就够了；应用软件也可以越过系统函数库通过system call（系统调用）直接调用os内核函数，如图中红色虚线所示，当然这种方式并不被推荐。
@@ -55,7 +55,7 @@ API函数库是连接用户软件和系统内核桥梁，或者是“协议”�
 - [Newlib](https://en.wikipedia.org/wiki/Windows_library_files#MSVCRT.DLL,_MSVCP*.DLL_and_CRTDLL.DLL)，由Cygnus Solution公司开发，Cygwin环境中的libc.a正是此版本，目前广泛用在嵌入式系统中 
 - [dietlibc](https://en.wikipedia.org/wiki/Dietlibc)、[μClibc](https://en.wikipedia.org/wiki/UClibc)等，功能经过适度裁剪的C标准库，主要用在嵌入式系统。
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
 
 

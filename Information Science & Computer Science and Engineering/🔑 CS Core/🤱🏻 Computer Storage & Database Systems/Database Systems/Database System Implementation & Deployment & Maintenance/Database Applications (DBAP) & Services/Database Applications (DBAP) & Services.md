@@ -8,12 +8,12 @@
 ### Related Topics
 ↗ [Database Application (DBAP) Design](../../Database%20System%20Design/Database%20Application%20(DBAP)%20Design/Database%20Application%20(DBAP)%20Design.md)
 
-↗ [System Modeling & Integration](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
-- ↗ [Enterprise Architecture Modeling (Software Integration) /Web Applications System Architecture ⭐](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md#Web%20Applications%20System%20Architecture%20⭐)
-- ↗ [Data Integration](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
+↗ [System Modeling & Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/System%20Modeling%20&%20Integration.md)
+- ↗ [Enterprise Architecture Modeling (Software Integration) /Web Applications System Architecture ⭐](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md#Web%20Applications%20System%20Architecture%20⭐)
+- ↗ [Data Integration](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
 
-↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
-↗ [The Internet Development (and Web Development)](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
+↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+↗ [The Internet Development (and Web Development)](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/The%20Internet%20Development%20%28and%20Web%20Development%29.md)
 
 ↗ [Network Application Communication Architectures](../../../../🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Network%20Application%20Communication%20Architectures.md)
 
@@ -30,13 +30,13 @@
 
 ## Database Web Services Architecture
 > [!links]
-> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 > 
-> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md)
 
 
 ### Mainframe Architecture
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230306154507.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230306154507.png)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -48,7 +48,7 @@
 
 
 ### Desktop Architecture
-![|500](../../../../../../../Assets/Pics/Pasted%20image%2020230306155045.png)
+![|500](../../../../../../Assets/Pics/Pasted%20image%2020230306155045.png)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -58,7 +58,7 @@
 
 
 ### File Server Architecture
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230306155115.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230306155115.png)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -68,9 +68,9 @@
 
 
 ### Client/Server Architecture (Traditional Two-Tier C/S)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230306155216.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230306155216.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.02%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.02%20PM.png)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -81,13 +81,13 @@
 
 ### (Modern) Web Architecture ⭐
 > [!links]
-> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20(Web)%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
+> ↗ [Internet (Web) Application Systems - Architecture & Patterns](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns/Internet%20%28Web%29%20Application%20Systems%20-%20Architecture%20&%20Patterns.md)
 >
-> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Enterprise%20Architecture%20Modeling%20(Software%20Integration).md)
+> ↗ [Enterprise Architecture Modeling (Software Integration)](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29/Enterprise%20Architecture%20Modeling%20%28Software%20Integration%29.md)
 #### Three-Tier C/S
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230306155344.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230306155344.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
 
 | Advantages of Mainframe Architecture                                          | Disadvantages of Mainframe Architecture                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -108,24 +108,24 @@
 > - 负载平衡
 > - 失效备援
 #### N-Tier C/S Architecture
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230306201808.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230306201808.png)
 ##### Middleware
-↗ [Software Engineering /Middleware](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
-↗ [TP Monitor](../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
+↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [TP Monitor](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20%28and%20Web%20Development%29/🧑🏼‍🔧%20Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 
 ### 🎯 Distributed DBMS
-↗ [Architecture Design /Distributed Systems](../../../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+↗ [Architecture Design /Distributed Systems](../../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 
 
 ### 🎯 Cloud Computing
-↗ [Cloud Computing](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Cloud%20Computing/Cloud%20Computing.md)
+↗ [Cloud Computing](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20%28Delivery%29%20Models/SaaS%20%28Software%20as%20a%20Service%29/Cloud%20Computing/Cloud%20Computing.md)
 
 
 
 ## Database Warehouse
 > [!Links]
-> ↗ [Data Warehouse & Beyonds](../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
+> ↗ [Data Warehouse & Beyonds](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)
 
 
 

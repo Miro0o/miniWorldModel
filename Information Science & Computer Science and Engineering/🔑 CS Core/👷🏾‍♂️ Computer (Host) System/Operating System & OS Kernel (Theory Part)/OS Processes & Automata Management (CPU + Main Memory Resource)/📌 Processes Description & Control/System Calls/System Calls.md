@@ -51,14 +51,14 @@ As an application developer, you don’t typically need to think about how exact
 > 
 > 上述描述符合Linux实现的系统调用机制，然而Linux属于宏内核架构；需要注意的是虽然这种架构和相应的系统调用机制是现在的主流，但是这绝不是唯一的架构。比如，上述系统调用的机制并不是微内核架构中的情况。
 
-![protection_ring.excalidraw | 800](../../../../../../../../Assets/Illustrations/Computer%20System/protection_ring.excalidraw.md)
+![protection_ring.excalidraw | 800](../../../../../../../Assets/Illustrations/Computer%20System/protection_ring.excalidraw.md)
 
 
 ### Privilege Levels /Protection Ring
 > ↗ [Privilege Level & Protection Ring](../../../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
 <small>Protection ring of Intel x86 CPU. Usually ring 0 is kernel space, ring 3 is user space.</small>
 
 
@@ -67,7 +67,7 @@ As an application developer, you don’t typically need to think about how exact
 > ↗ [ASM /Interrupts](../../../../../👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/ASM%20(Assembly%20Languages)%20🆘/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 > ↗ [Operating System Kernel (Kernel Mode)](../../../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240217141037.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240217141037.png)
 <small>System calls in different kernel design.</small>
 
 > 可以发现，在用户态和内核态的边界上画着线表示的就是系统调用！也就是说不管是[单内核](https://www.zhihu.com/search?q=%E5%8D%95%E5%86%85%E6%A0%B8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1329177990%7D)还是微内核，运行在用户态的应用程序，想使用某些内核态才能执行的功能，必须要经过系统调用来实现。所以你需要明白：进程从用户态陷入了内核态，这是目的，而使用系统调用，仅仅是达成该目的的手段。因果要理清。 

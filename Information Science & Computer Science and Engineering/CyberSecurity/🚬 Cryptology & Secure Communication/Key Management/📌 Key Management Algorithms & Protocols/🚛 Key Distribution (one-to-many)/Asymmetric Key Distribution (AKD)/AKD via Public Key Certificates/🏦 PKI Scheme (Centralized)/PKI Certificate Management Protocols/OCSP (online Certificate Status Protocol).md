@@ -14,7 +14,7 @@
 
 
 ## Intro
-![](../../../../../../../../../../../Assets/Pics/Pasted%20image%2020230323125000.png)
+![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020230323125000.png)
 
 
 > 🔗 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-ocsp/03eeb01c-d429-4fe2-956e-479baa113f1f

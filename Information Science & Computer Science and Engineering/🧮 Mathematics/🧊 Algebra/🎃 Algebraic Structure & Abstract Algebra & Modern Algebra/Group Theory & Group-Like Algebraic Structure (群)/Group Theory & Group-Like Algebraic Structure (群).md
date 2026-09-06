@@ -28,7 +28,7 @@ Euler's formula with introductory group theory | 3B1B
 ## Intro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Screenshot 2023-01-06 at 6.22.07 PM](../../../../../../Assets/Pics/Screenshot%202023-01-06%20at%206.22.07%20PM.png)
+![Screenshot 2023-01-06 at 6.22.07 PM](../../../../../Assets/Pics/Screenshot%202023-01-06%20at%206.22.07%20PM.png)
 
 
 ### Group, Ring, and Field Intro

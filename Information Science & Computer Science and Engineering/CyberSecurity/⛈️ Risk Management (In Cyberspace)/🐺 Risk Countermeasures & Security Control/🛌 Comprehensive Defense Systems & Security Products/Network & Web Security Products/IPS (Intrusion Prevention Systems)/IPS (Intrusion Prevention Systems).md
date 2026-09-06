@@ -14,8 +14,8 @@
 
 ## Intro
 ### Why IPS? / IPS 🆚 IDS & Firewall
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.38.29AM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.39.07AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.38.29AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.39.07AM.png)
 
 
 ### What is IPS?
@@ -26,15 +26,15 @@ IPS主要功能
 - 向管理控制台发送日志信息；
 - 集成病毒过滤、带宽管理和URL过滤等功能；
 - **IPS是实现风险控制的主要安全设备之一**
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.41.06AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.41.06AM.png)
 #### IDS 🆚 IPS?
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.41.46AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.41.46AM.png)
 <small>IDS与IPS：技术同源</small>
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.42.17AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.42.17AM.png)
 <small>IDS与IPS：服务不同</small>
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.44.27AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.44.27AM.png)
 <small>IDS与IPS：解决的安全问题不同</small>
 
 
@@ -52,9 +52,9 @@ IPS部署模式
 - 混合模式(透明+路由功能)
 	- 顾名思义，这种模式是前两种模式的混合。也就是说某些接口工作 
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.42AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.42AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.52AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-05%20at%209.46.52AM.png)
 
 
 ### IPS Configuration

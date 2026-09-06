@@ -19,7 +19,7 @@ W3C Schools - React Tutorial
 
 
 ## Intro
-![React-icon.svg](../../../../../../../../../../Assets/Pics/120px-React-icon.svg.png)
+![React-icon.svg](../../../../../../../../../Assets/Pics/120px-React-icon.svg.png)
 
 > 🔗 https://en.wikipedia.org/wiki/React_(JavaScript_library)
 

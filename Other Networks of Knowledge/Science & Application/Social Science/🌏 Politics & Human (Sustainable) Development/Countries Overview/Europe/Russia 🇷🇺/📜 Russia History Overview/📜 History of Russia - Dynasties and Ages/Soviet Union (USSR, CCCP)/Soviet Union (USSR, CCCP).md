@@ -12,9 +12,9 @@
 ## Intro
 <div>
 	<center>
-	    <img src="../../../../../../../../../Assets/Pics/Pasted%20image%2020251205203944.png"  width="300">
+	    <img src="../../../../../../../../../../Assets/Pics/Pasted%20image%2020251205203944.png"  width="300">
 	    <br><br><br>
-	    <img src="../../../../../../../../../Assets/Pics/Pasted%20image%2020251205203951.png" widtg="200">
+	    <img src="../../../../../../../../../../Assets/Pics/Pasted%20image%2020251205203951.png" widtg="200">
 	</center>
 </div>
 

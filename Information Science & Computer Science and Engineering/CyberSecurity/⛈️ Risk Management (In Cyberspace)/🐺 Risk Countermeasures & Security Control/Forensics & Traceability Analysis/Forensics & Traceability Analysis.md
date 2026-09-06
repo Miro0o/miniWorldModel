@@ -239,7 +239,7 @@ Inspired by Abstract Digital Forensic Model (Reith, Carr & Gunsch)
 ## Ref
 [安全攻击溯源思路及案例 | cnblog]: https://www.cnblogs.com/xiaozi/p/13817637.html
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020240330193819.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240330193819.png)
 
 [Digital Forensic Report — M57 Jean/ Allison Case — Data Breach of “M57.biz” | medium]: https://hasanka-amarasinghe.medium.com/digital-forensic-report-m57-jean-allison-case-data-breach-of-m57-biz-92396ec3a657
 

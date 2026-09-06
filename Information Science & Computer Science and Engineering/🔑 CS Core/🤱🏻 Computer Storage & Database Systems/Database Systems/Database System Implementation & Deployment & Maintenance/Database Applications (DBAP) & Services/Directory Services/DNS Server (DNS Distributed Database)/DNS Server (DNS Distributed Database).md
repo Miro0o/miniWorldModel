@@ -34,7 +34,7 @@ As centralized DNS does not scale because of the reasons mentioned above, a need
 
 
 ### DNS Caching
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.21.47%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-17%20at%2010.21.47%20AM.png)
 
 ↗ [DNS Caching](📌%20DNS%20Server%20Basics/DNS%20Caching.md)
 

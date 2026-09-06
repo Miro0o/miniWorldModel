@@ -39,7 +39,7 @@ Concurrency arises in three different contexts:
 
 
 ### Key Terms Related to Concurrency
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%2012.46.42%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%2012.46.42%20PM.png)
 
 
 
@@ -70,7 +70,7 @@ A race condition occurs when multiple processes or threads read and write data i
 
 
 ### ⭐️ Process Interaction Relations
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%201.09.44%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%201.09.44%20PM.png)
 
 Conditions will not always be as clear-cut as suggested in figure above. Rather, several processes may exhibit aspects of both competition and cooperation. Nevertheless, it is productive to examine each of the three items in the preceding list separately and determine their implications for the OS.
 #### 1️⃣ Competition for Resources (Unaware)

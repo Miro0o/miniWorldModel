@@ -10,7 +10,7 @@
 
 
 ## Intro: tldr-pages
-![tldr-pages | 400](../../../../../../../../../Assets/Pics/banner.png)
+![tldr-pages | 400](../../../../../../../Assets/Pics/banner.png)
 
 🏠 https://tldr.sh
 
@@ -24,12 +24,12 @@ The tldr pages are a community effort to simplify the beloved [man pages](https:
 
 For more go to :arrow_right: [wiki](https://github.com/tldr-pages/tldr/wiki/tldr-pages-clients)
 
-![tldr screenshot](../../../../../../../../../Assets/Pics/screenshot.png)
+![tldr screenshot](../../../../../../../Assets/Pics/screenshot.png)
 <small>tldr demo</small>
 
 
 ## Intro: teeldear
-![|200](../../../../../../../../../Assets/Pics/Pasted%20image%2020240610152812.png)
+![|200](../../../../../../../Assets/Pics/Pasted%20image%2020240610152812.png)
 
 🏠 https://dbrgn.github.io/tealdeer/
 🚧 https://github.com/dbrgn/tealdeer

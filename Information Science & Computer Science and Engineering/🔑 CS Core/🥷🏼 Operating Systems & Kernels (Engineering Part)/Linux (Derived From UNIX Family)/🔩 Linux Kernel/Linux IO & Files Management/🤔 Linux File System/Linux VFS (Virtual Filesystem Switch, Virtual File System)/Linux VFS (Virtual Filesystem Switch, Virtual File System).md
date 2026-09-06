@@ -28,7 +28,7 @@ The Linux Virtual Filesystem Switch implements common / generic filesystem code 
 - file - describes the properties of an opened file (e.g. file pointer)
 - superblock - describes the properties of a formatted filesystem (e.g. number of blocks, block size, location of root directory on disk, encryption, etc.)
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020240531204951.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240531204951.png)
 
 The Linux VFS also implements a complex caching mechanism which includes the following:
 - the inode cache - caches the file attributes and internal file metadata

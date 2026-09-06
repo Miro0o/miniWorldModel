@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [History of The Universe](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Physical%20Science/History%20of%20The%20Universe.md)
 ↗ [History of Life & Human Evolution](../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science/Life%20Science/History%20of%20Life%20&%20Human%20Evolution.md)
-↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-↗ [Math History & Development](../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
+↗ [Philosophy & Its History](../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+↗ [Math History & Development](../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [中华文明历史概况](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中华文明历史概况.md)
 ↗ [U.S. History Overview](../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/America/United%20States%20🇺🇸/U.S.%20History%20Overview/U.S.%20History%20Overview.md)
@@ -228,14 +228,14 @@ The study of human history relies on insights from academic disciplines such as�
 
 人类历史的研究有赖于[历史学](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%AD%A6 "历史学")、[考古学](https://zh.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6 "考古学")、[人类学](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E5%AD%A6 "人类学")、[语言学](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6 "语言学")和[遗传学](https://zh.wikipedia.org/wiki/%E9%81%97%E4%BC%A0%E5%AD%A6 "遗传学")等诸多学科的成果。为了研究的方便，学者们[将人类历史划分为不同的时期](https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E5%88%86%E6%9C%9F "历史分期")。
 
-![world_history_timeline_the_rise_and_fall_of_nations](../../../../Assets/Cheat_Sheets/world_history_timeline_the_rise_and_fall_of_nations.jpg)
+![world_history_timeline_the_rise_and_fall_of_nations](../../Assets/Cheat_Sheets/world_history_timeline_the_rise_and_fall_of_nations.jpg)
 <small>World history timeline : the rise and fall of nations / Oxford Cartographers ; compiled by Terry Hardaker ; distributed in North America by Map Link <a>https://collections.lib.uwm.edu/digital/collection/agdm/id/11346/</a></small>
 
-![cf5fe1025176af07caa81dc214ba9022](../../../../Assets/Cheat_Sheets/cf5fe1025176af07caa81dc214ba9022.JPG)
+![cf5fe1025176af07caa81dc214ba9022](../../Assets/Cheat_Sheets/cf5fe1025176af07caa81dc214ba9022.JPG)
 <small>世界大帝国时空图 <a>https://mp.weixin.qq.com/s/xvGmBagMkYk9ScVreMX_GA</a></small>
 
 
-![696668707-Adam-s-Chart-Full-HD](../../../../Assets/Cheat_Sheets/696668707-Adam-s-Chart-Full-HD.pdf)
+![696668707-Adam-s-Chart-Full-HD](../../Assets/Cheat_Sheets/696668707-Adam-s-Chart-Full-HD.pdf)
 <small>Adam's Synchronological Chart or Map of History. Hardcover – August 15, 2007 by Sebastian Adams (Author) <a>https://a.co/d/f1X7bxq</a></small>
 
 
@@ -325,7 +325,7 @@ All of these calendars may also use [weeks](https://en.wikipedia.org/wiki/Week 
 - Homo
 - Homo Sapiens
 
-![](../../../../Assets/Pics/Screenshot%202025-05-12%20at%2013.35.23.png)
+![](../../Assets/Pics/Screenshot%202025-05-12%20at%2013.35.23.png)
 <small><a>https://en.wikipedia.org/wiki/Human_evolution#External_links</a></small>
 
 
@@ -452,7 +452,7 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 ### Arts & Cultures Aspect
 #### Religion and Philosophy (宗教与哲学)
 > [!links]
-> ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> ↗ [Philosophy & Its History](../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2#%E6%96%87%E6%98%8E%E7%9A%84%E8%88%88%E8%B5%B7
 
@@ -464,8 +464,8 @@ The date when it is taken to end varies greatly between cultures, and in many pa
 > [!links]
 > ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
 > 
-> ↗ [Philosophy & Its History](../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-> ↗ [Global Religions](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+> ↗ [Philosophy & Its History](../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+> ↗ [Global Religions](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
 
 
 by status:
@@ -621,10 +621,10 @@ See also
 
 
 ### Major Religions & Languages of Different Ethnic Groups
-↗ [Global Religions](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
-- ↗ [Buddhism (Buddha Dharma)](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20(Buddha%20Dharma)/Buddhism%20(Buddha%20Dharma).md)
-- ↗ [Christianity](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
-- ↗ [Islam](../../../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
+↗ [Global Religions](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Global%20Religions.md)
+- ↗ [Buddhism (Buddha Dharma)](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Buddhism%20%28Buddha%20Dharma%29/Buddhism%20%28Buddha%20Dharma%29.md)
+- ↗ [Christianity](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Christianity/Christianity.md)
+- ↗ [Islam](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/🙏🏿%20Global%20Religions/Islam/Islam.md)
 - ↗ [Vedism (Brahmanism) & Hinduism](../♂%20Philosophy%20&%20Its%20History/Classical%20Philosophy/Indian%20Philosophy%20&%20Its%20History/Vedism%20(Brahmanism)%20&%20Hinduism/Vedism%20(Brahmanism)%20&%20Hinduism.md)
 
 ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
@@ -642,7 +642,7 @@ See also
 ### Contemporary Ethnic Groups
 > [!links]
 > ↗ [Language & Literature](../Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md)
-> 🔗 https://en.wikipedia.org/wiki/Language_family  ![Primary_Human_Languages_Improved_Version](../../../../Assets/Pics/Primary_Human_Languages_Improved_Version.png)
+> 🔗 https://en.wikipedia.org/wiki/Language_family  ![Primary_Human_Languages_Improved_Version](../../Assets/Pics/Primary_Human_Languages_Improved_Version.png)
 > <small>2005 map of the contemporary distribution of the world's primary language families</small>
 
 > 🔗 https://en.wikipedia.org/wiki/List_of_contemporary_ethnic_groups (non-exhaustive)

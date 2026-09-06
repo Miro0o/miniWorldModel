@@ -69,7 +69,7 @@ void semSignal(semaphore s){   // Atomic operation !
 
 
 ## Types of Semaphore
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.09.47%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.09.47%20PM.png)
 
 
 1. Integral Semaphore (整型信号量)
@@ -95,7 +95,7 @@ The fairest removal policy is **first-in-first-out (FIFO)**: The process that ha
 ## Semaphore Mechanism
 > For both counting semaphores and binary semaphores, a queue is used to hold processes waiting on the semaphore. The question arises of the order in which processes are removed from such a queue.
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.00.47%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.00.47%20AM.png)
 
 
 ### 🤔 Queue Scheduling (Replacement) Policies
@@ -106,11 +106,11 @@ The fairest removal policy is **first-in-first-out (FIFO)**: The process that ha
 
 
 ## 🔥 Semaphore Solutions
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.14.49%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.14.49%20PM.png)
 
 
 ### 👉 Semaphore for Mutual Exclusion
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.09.44%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.09.44%20AM.png)
 
 
 
@@ -136,7 +136,7 @@ Another alternative is to use one of the **hardware-supported schemes** for mutu
 
 For a single-processor system, it is possible to inhibit interrupts for the duration of a `semWait` or `semSignal` operation, as suggested in Figure 5.17b. Once again, the relatively short duration of these operations means that this approach is reasonable.
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.16.12%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.16.12%20AM.png)
 
 
 

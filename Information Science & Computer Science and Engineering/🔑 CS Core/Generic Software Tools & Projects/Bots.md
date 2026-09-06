@@ -10,7 +10,7 @@ All kinds of Bots here 😘
 
 ## [Mirai](https://mirai.mamoe.net)
 
-![|400](../../../../../Assets/Pics/mirai.png)
+![|400](../../../Assets/Pics/mirai.png)
 
 mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库。
 这个项目的名字来源于 [京都动画](http://www.kyotoanimation.co.jp/)作品[《境界的彼方》](https://zh.moegirl.org.cn/zh-hans/境界的彼方)的[栗山未来(Kuriyama **mirai**)](https://zh.moegirl.org.cn/zh-hans/栗山未来) [CRYPTON](https://www.crypton.co.jp/)以[初音未来](https://www.crypton.co.jp/miku_eng)为代表的创作与活动[(Magical **mirai**)](https://magicalmirai.com/2019/index_en.html)

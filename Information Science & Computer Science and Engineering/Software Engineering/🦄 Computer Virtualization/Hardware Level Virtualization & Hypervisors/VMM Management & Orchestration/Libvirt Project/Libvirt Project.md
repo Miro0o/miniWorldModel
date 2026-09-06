@@ -32,10 +32,10 @@
 ## Intro
 libvirt is an open-source API, daemon and management tool for managing platform virtualization. It can be used to manage KVM, Xen, VMware ESXi, QEMU and other virtualization technologies. These APIs are widely used in the orchestration layer of hypervisors in the development of a cloud-based solution.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230307230135.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230307230135.png)
 <small>Libvirt Project</small>
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230307230407.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230307230407.png)
 <small>Libvirt Project</small>
 
 The libvirt project:
@@ -61,4 +61,4 @@ Various virtualization programs and platforms use libvirt. [Virtual Machine Man
 
 [virt-manager | wikipedia]: https://en.wikipedia.org/wiki/Virt-manager
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)

@@ -27,7 +27,7 @@ Before diving into software coding, you should have a broad architectural plan f
 - From the application developer’s perspective, the **network architecture** is fixed and provides a specific set of services to applications.
 - The **application architecture**, on the other hand, is designed by the application developer and dictates how the application is structured over the various end systems. In choosing the application architecture, an application developer will likely draw on one of the two predominant architectural paradigms used in modern network applications: the **client-server architecture** or the **peer-to-peer (P2P) architecture**.
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.26.37%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-01%20at%205.26.37%20PM.png)
 
 
 

@@ -31,7 +31,7 @@
 
 ### Formal Definition: Sequence & Tuples
 > [!links]
-> ↗ [Number Sequence](../../../🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
+> ↗ [Number Sequence](../../../../🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Number%20Sequence,%20Series,%20and%20Basic%20Properties%20of%20Function/Number%20Sequence.md)
 
  > 📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
  
@@ -59,7 +59,7 @@ Common partially ordered sets are the integers $(ℤ,≤)$ (also in the other 
 #### Poset Visualization & Hasse Diagram
 > 🔗 [Hasse diagram - Wikipedia](https://en.wikipedia.org/wiki/Hasse_diagram)
 - We can draw the diagram of a poset. Below is the so called **Hasse Diagram** of poset $(2^{\text{\{A, B, C\}}}, \subseteq)$:
-- ![|400](../../../../../../../Assets/Pics/Screenshot%202025-10-09%20at%2022.52.59.png)
+- ![|400](../../../../../../Assets/Pics/Screenshot%202025-10-09%20at%2022.52.59.png)
 - <small><a>https://blog.wohin.me/posts/nju-program-analysis-05/</a></small>
 - Here we only draw the imitate next elements in the order, i.e. connection to the immediate adjacent nodes.
 
@@ -182,13 +182,13 @@ An extension of a given partial order to a total order is called a [linear exte
 给定一个偏序集$(P,\preceq)$和它的子集$S（S\subseteq P）$，我们说$u\in P$是$S$的一个**上界**，当且仅当$\forall x\in S, x\preceq u$；类似地，$l\in P$是$S$的一个**下界**，当且仅当$\forall x\in S, l\preceq x$。
 
 若$S$是由下图中绿色部分组成的集合，那么$\{a,b,c\}$就是$S$的上界，$\{ \}$是$S$的下界：
-![|300](../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.15.png)
+![|300](../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.15.png)
 
 在此基础上，我们定义**最小上界（叫做lub或join）**，记为$\lfloor\rfloor S$，对于$S$的每一个上界$u$，有$\lfloor\rfloor S \preceq u \lfloor\rfloor S \preceq u$；类似地，定义最大下界（叫做glb或meet），记为$\lceil\rceil S$，对于$S$的每一个下界$l$，有$l\preceq l\lceil\rceil S\preceq\lceil\rceil S$。
 
 还是以集合为例，若$S$是由下图中绿色部分组成的集合，则$\{a,b,c\}$和$\{a,b\}$都是它的上界，后者还是最小上界；$\{ \}$则是$S$的唯一下界，因此也是最大下界：
 
-![|300](../../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.41.png)
+![|300](../../../../../../Assets/Pics/Screenshot%202025-10-11%20at%2012.51.41.png)
 
 若$S$只包含两个元素$a$和$b$，我们也可以将$\lfloor\rfloor S$写为$a\lfloor\rfloor b$，将$\lceil\rceil S$写为$a\lceil\rceil b$。
 

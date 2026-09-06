@@ -6,17 +6,17 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-↗ [Math History & Development](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
+↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [Science & Application](../../Science%20&%20Application/Science%20&%20Application.md)
 ↗ [Natural Science & Engineering and Technology](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Natural%20Science%20&%20Engineering%20and%20Technology.md)
 ↗ [Social Science](../../Science%20&%20Application/Social%20Science/Social%20Science.md)
 
-↗ [History of Computing](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
+↗ [History of Computing](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
 - ↗ [The Development History of AI](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
-↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
-↗ [History of Information Systems & Security Systems](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+↗ [History of Information Systems & Security Systems](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/CyberSecurity/History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 ↗ [History of Computer Networking and Communication Evolution](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/History%20of%20Computer%20Networking%20and%20Communication%20Evolution.md)
 
 ↗ [中国科学技术史](../../Science%20&%20Application/Social%20Science/🌏%20Politics%20&%20Human%20(Sustainable)%20Development/Countries%20Overview/Asia/China%20(HK,%20MO,%20TW)%20🇨🇳/中华文明历史概况/中国科学技术史/中国科学技术史.md)
@@ -263,10 +263,10 @@ A massive amount of new technologies were developed in the 20th century. Technol
 
 
 ### 👉 Third Industrial Revolution: Information & Digitalization (1947 ~ 2011)
-↗ [Electronics & Information Technologies Business Fields Research](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [Electronics & Information Technologies Business Fields Research](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 - ↗ [Internet & Entertainment Industry](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/Internet%20&%20Entertainment%20Industry/Internet%20&%20Entertainment%20Industry.md)
-↗ [History of Computing](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
-↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
+↗ [History of Computing](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/History%20of%20Computing.md)
+↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🔑%20CS%20Core/👷🏾‍♂️%20Computer%20%28Host%29%20System/Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)
 
 ↗ [The Internet Development (and Web Development)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20The%20Internet%20Development%20(and%20Web%20Development)/The%20Internet%20Development%20(and%20Web%20Development).md)
 
@@ -274,13 +274,13 @@ A massive amount of new technologies were developed in the 20th century. Technol
 
 ## 21st Century
 ### 👉 Fourth Industrial Revolution: Industry 4.0 (2011 ~)
-↗ [Industry 4.0](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
+↗ [Industry 4.0](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Industry%204.0.md)
 #### LLM, AI, and AGI
 ↗ [The Development History of AI](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/The%20Development%20History%20of%20AI.md)
 ↗ [LLM (Large Language Model)](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
-↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md)
+↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC/AI4X,%20AGI%20%28Artificial%20General%20Intelligence%29%20&%20AIGC.md)
 
-![](../../../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
+![](../../../Assets/Pics/Screenshot%202025-09-01%20at%2010.56.49.png)
 <small>
 Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2025). A Survey of Large Language Models (arXiv:2303.18223). arXiv. <br><a>https://doi.org/10.48550/arXiv.2303.18223</a></small>
 

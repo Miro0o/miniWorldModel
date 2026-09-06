@@ -27,9 +27,9 @@ XNU is the hybrid heart (kernel) of macOS consisting of BSD and the Mach microke
 
 XNU kernel is part of the Darwin operating system for use in macOS and iOS operating systems. XNU is an acronym for `X is Not Unix`. XNU is a hybrid kernel combining the **Mach kernel** developed at Carnegie Mellon University with components from FreeBSD and a C++ API for writing drivers called **IOKit**. XNU runs on x86_64 and ARM64 for both single processor and multi-processor configurations.
 
-![[../../../../../../../../Assets/Pics/os X archi.jpeg]]
+![[../../../../../../Assets/Pics/os X archi.jpeg]]
 
-![|600](../../../../../../../../Assets/Pics/Pasted%20image%2020240622022024.png)
+![|600](../../../../../../Assets/Pics/Pasted%20image%2020240622022024.png)
 <small>OS X architecture</small>
 
 
@@ -48,7 +48,7 @@ User space has a few primary ways to communicate with the kernel (hands wave):
 - **User Space → Process → Thread → Interrupt → Trap → Kernel Space**
 - **User Space → Process → Thread → System Call → Trap → Kernel Space**
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021140.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240622021140.png)
 
 
 
@@ -60,7 +60,7 @@ We're including this section as brief overview for legacy data sources reliant o
 | **Apple Silicon Boot**                                                 | **Intel Boot**                                                         |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | https://support.apple.com/guide/security/boot-process-secac71d5623/web | https://support.apple.com/guide/security/boot-process-sec5d0fab7c6/web |
-| ![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021302.png) | ![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021325.png) |
+| ![](../../../../../../Assets/Pics/Pasted%20image%2020240622021302.png) | ![](../../../../../../Assets/Pics/Pasted%20image%2020240622021325.png) |
 
 ### Apple Silicon
 > 🔗 https://support.apple.com/guide/security/boot-modes-sec10869885b/web

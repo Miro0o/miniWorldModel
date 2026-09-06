@@ -9,7 +9,7 @@
 ↗ [Formal System, Formal Logic, and Its Semantics](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 ↗ [Henkin Model & Henkin Semantics](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🎩%20Higher-Order%20Languages%20&%20Logics%20(HOL)/Lambda%20Calculus%20(λ-Calculus)/Henkin%20Model%20&%20Henkin%20Semantics.md)
 
-↗ [Semantic Analysis](../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
+↗ [Semantic Analysis](../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20%28Compile-time%29/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Semantic%20Analysis/Semantic%20Analysis.md)
 ↗ [Programming Language & Formal Semantics](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20&%20Formal%20Semantics/Programming%20Language%20&%20Formal%20Semantics.md)
 
 
@@ -70,7 +70,7 @@ $f : X \times Y \to Z$，是从笛卡尔积 $X \times Y$ 到 $Z$ 的函数，我
 3. 对于任意两个对象 $Y$ 和 $Z$，范畴 $C$ 中存在一个对象 $Z^Y$，以及一个箭头 $e : Z^Y \times Y \to Z$，使得，对于任意的箭头 $f : X \times Y \to Z$，存在唯一的箭头 $g : X \to Z^Y$，有 $f = e \circ (g \times I)$ 恒成立。
 	1. 即，$(e \circ (g \times I))(X \times Y) = e((g \times I)(X \times Y)) = e(Z^Y \times Y) = Z$。其中 $I : Y \to Y$，为对象 $Y$ 的恒等箭头，$Z^Y$ 称为指数对象（exponential object）。
 
-![](../../../../../Assets/Pics/Pasted%20image%2020260112180555.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112180555.png)
 
 
 

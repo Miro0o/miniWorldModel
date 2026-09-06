@@ -19,9 +19,9 @@ All deadlocks involve **conflicting needs for resources** by two or more process
 > As shown, the joint progress diagram can be used to record the execution history of two processes that share resources. In cases where more than two processes may compete for the same resource, a higher-dimensional diagram would be required. The principles concerning fatal regions and deadlock would remain the same.
 
 
-![|300](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.41.10%20AM.png)
+![|300](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.41.10%20AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.38.07%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.38.07%20AM.png)
 
 The figure shows six different execution paths. These can be summarized as follows:
 1. Q acquires B then A, then releases B and A. When P resumes execution, it will be able to acquire both resources.
@@ -36,7 +36,7 @@ The gray-shaded area of Figure 6.2, which can be referred to as a **fatal region
 ---
 Whether or not deadlock occurs depends on both the dynamics of the execution and on the details of the application. For example, suppose P does not need both resources at the same time so the two processes have the following form:
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.41.42%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.41.42%20AM.png)
 
 
 
@@ -63,7 +63,7 @@ Examples of consumable resources are interrupts, signals, messages, and informat
 ### Resource Allocation Graphs
 A useful tool in characterizing the allocation of resources to processes is the resource allocation graph, introduced by Holt [HOLT72].
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.51.44%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.51.44%20AM.png)
 
 
 ### 🍯 The Sufficient Conditions for Deadlock (死锁的充要条件)
@@ -79,7 +79,7 @@ A useful tool in characterizing the allocation of resources to processes is the 
 
 4. **Circular wait (循环等待)**: A closed chain of processes exists, such that each process holds at least one resource needed by the next process in the chain.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.52.58%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.52.58%20AM.png)
 
 
 💡 To clarify this discussion, it is useful to return to the concept of the joint progress diagram. Recall that we defined a **fatal region** as one such that once the processes have progressed into that region, those processes will deadlock.

@@ -124,7 +124,7 @@ LWN.net is a reader-supported news site dedicated to producing the best coverage
 
 
 ## Intro
-![](../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.48.13%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.48.13%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux</small>
 
 
@@ -153,7 +153,7 @@ are welcome, but I won’t promise I’ll implement them :-)
 
 Linus (torvalds@kruuna.helsinki.fi)
 ```
-![](../../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
 As Torvalds indicates, his starting point for creating Linux was Minix, an operating system developed by Andrew S. Tanenbaum for educational purposes.
 
@@ -188,7 +188,7 @@ The Linux loadable modules have two important characteristics:
 
 2. **Stackable modules**: The modules are arranged in a hierarchy. Individual modules serve as libraries when they are referenced by client modules higher up in the hierarchy, and as clients when they reference modules further down.
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.42.29%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.42.29%20PM.png)
 
 
 ### 🔩 Linux Kernel & System Core Libraries
@@ -198,7 +198,7 @@ The Linux loadable modules have two important characteristics:
 
 ↗ [Privilege Level & Protection Ring](../../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
-![](../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel</small>
 
 

@@ -18,7 +18,7 @@
 
 ## Overview
 ### What is Interrupt? Hardware Interrupt & Software Interrupt
-![protection_ring.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/protection_ring.excalidraw.md)
+![protection_ring.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/protection_ring.excalidraw.md)
 
 > 🔗 https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/
 

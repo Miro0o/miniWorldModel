@@ -48,9 +48,9 @@ The property that ensures that the identity of a subject or resource is the one 
 - 鉴别是最重要的安全服务之一。鉴别服务提供了关于某个实体身份的保证。（所有其它的安全服务都依赖于该服务）
 - 鉴别可以对抗假冒攻击的危险
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.30.57%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.30.57%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%204.07.54PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%204.07.54PM.png)
 
 身份鉴别与其它机制的关系
 - 访问控制：作为访问控制服务的一种必要支持，访问控制服务的执行依赖于确知的身份（访问控制服务直接对达到机密性、完整性、可用性及合法使用目标提供支持）；
@@ -91,7 +91,7 @@ The property that ensures that the identity of a subject or resource is the one 
 (3)攻击者，可以窃听和伪装申请者，骗取验证者的信任。
 (4)鉴别系统在必要时会有第三方，即可信赖者( 可信第三方，TP「Trusted Thired Party」)参与仲裁。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
 
 
 
@@ -122,7 +122,7 @@ As the weakest level of authentication, only a single component from one of the 
 
 Multi-factor authentication involves two or more authentication factors (*something you know*, *something you have*, or *something you are*). Two-factor authentication is a special case of multi-factor authentication involving exactly two factors
 #### 2FA (2-Factors-Authentication)
-**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/JWT%20(Json%20Web%20Token).md))
+**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Token%20Based%20Authentication/JWT%20%28Json%20Web%20Token%29.md))
 - Authentication token: A device that generates secure second-factor codes
 	- Something the user owns
 	- Examples: RSA SecurID and Google Authenticator
@@ -137,7 +137,7 @@ Multi-factor authentication involves two or more authentication factors (*someth
 - Drawback: Vulnerable to online brute-force attacks
 - Possible fix: rate limits
 
-**2FA Example: Security Keys** (↗ [Dongle](../../../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Dongle/Dongle.md))
+**2FA Example: Security Keys** (↗ [Dongle](../../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/Auxiliary%20Hardware%20&%20Peripherals%20Implementations/Input%20&%20Output%20Devices/Dongle/Dongle.md))
 - Security key: A device designed to defend against phishing
 	- Something the user owns
 - Usage
@@ -148,9 +148,9 @@ Multi-factor authentication involves two or more authentication factors (*someth
 	- In a phishing attack, the security key generates a signature with the attacker’s website name, not the legitimate website name
 		- Impervious to relay attacks!
 ##### Subverting 2FA : Replay Attacks
-↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
+↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
+![](../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
 ##### Subverting 2FA : Social Engineering
 ↗ [Social Engineering & Physical Security](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
@@ -211,40 +211,40 @@ Data Origin Authentication (数据原发鉴别)
 
 ### 1️⃣ 按保护等级分类
 #### 0级鉴别（无保护）
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.04.51PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.04.51PM.png)
 #### 1级鉴别（抗泄露保护）
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
 #### 2级鉴别（抗泄露和对不同验证者重放的保护）
 ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
 #### 3级鉴别（抗泄露和对同一验证者重放的保护）
 ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
 #### 4级鉴别（抗泄露和对相同/不同验证者重放的保护）
 ↗ [Cryptographic Attacks & Rubber-Hose Cryptanalysis](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤮%20Cryptanalysis/Cryptographic%20Attacks%20&%20Rubber-Hose%20Cryptanalysis.md) "replay attacks"
 ##### 惟一数机制
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
 ↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
 ##### 计算响应机制
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
 
 
 ### 2️⃣ 按机制的配置分类
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.48PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.55PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.04PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.13PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.21PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.29PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.44PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.48PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.55PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.04PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.13PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.21PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.29PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.44PM.png)
 
 #### 涉及可信第三方的模型
 ##### 阶段模型
@@ -382,7 +382,7 @@ Data Origin Authentication (数据原发鉴别)
 
 >局限性： 不适应非连接性的应用，因为它要求在传输开始之前先有握手的额外销，这就抵消了无连接通信的主要特点。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
 
 
 

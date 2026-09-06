@@ -132,7 +132,7 @@ This handbook gives a comprehensive, up-to-date guide to reinforcement learning 
 
 In **reinforcement learning**, the goal is to develop a system (**agent**) that improves its performance based on **interactions with the environment**. Since the information about the current state of the environment typically also includes a so-called **reward signal**, we can think of reinforcement learning as a field related to supervised learning. However, in reinforcement learning, this feedback is not the correct ground truth label or value, but a measure of how well the action was measured by a reward function. Through its interaction with the environment, an agent can then use reinforcement learning to learn a series of actions that maximizes this reward via an exploratory trial-and-error approach or deliberative planning.
 
-![Screenshot 2023-01-28 at 12.39.03 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.39.03%20PM.png)
+![Screenshot 2023-01-28 at 12.39.03 PM](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.39.03%20PM.png)
 
 > 📖 Murphy, K. (2025). _Reinforcement Learning: An Overview_ (No. arXiv:2412.05265). arXiv. https://doi.org/10.48550/arXiv.2412.05265
 

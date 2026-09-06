@@ -4,7 +4,7 @@
 
 
 
-![Logo](../../../../../../../../../Assets/Pics/qemu_128x128.png)
+![Logo](../../../../../../../../Assets/Pics/qemu_128x128.png)
 
 
 
@@ -34,7 +34,7 @@ The QEMU website has a [Documentation page](https://www.qemu.org/documentation/
 
 
 ## Intro
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230307225650.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020230307225650.png)
 <small>QEMU, KVM, Libvirt in Linux</small>
 
 QEMU is a generic and open source machine & userspace emulator and virtualizer.
@@ -63,7 +63,7 @@ QEMU is also capable of providing userspace API virtualization for Linux and BSD
 [What is the difference between qemu and kvm]: https://www.packetcoders.io/what-is-the-difference-between-qemu-and-kvm/
 
 
-![image1](../../../../../../../../../Assets/Pics/image1.png)
+![image1](../../../../../../../../Assets/Pics/image1.png)
 
 [KVM-Qemu-Libvirt三者之间的关系]: https://blog.csdn.net/whatday/article/details/78445932
 
@@ -73,6 +73,6 @@ QEMU is also capable of providing userspace API virtualization for Linux and BSD
 [👍 Getting started with qemu]: https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html
 
 [Qemu 入门指南 ｜ CSDN]: https://blog.csdn.net/fontthrone/article/details/104157859
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020231011103121.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020231011103121.png)
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020231011103113.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020231011103113.png)

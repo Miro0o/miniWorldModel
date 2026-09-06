@@ -21,15 +21,15 @@ MARIE:
 
 
 ### MARIE Arch
-![](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.55.06%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.55.06%20PM.png)
 
 ### MARIE Datapath
-![|400](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.55.19%20PM.png)
+![|400](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.55.19%20PM.png)
 
 ### MARIE ISA
-![](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.06%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.06%20PM.png)
 #### MARIE Instruction Encoding
-![](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.16%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.16%20PM.png)
 
 
 ### MARIE RTN

@@ -79,7 +79,7 @@ A related concept is that of **phrase marker** or **P-marker**, as used in [
 
 ## AST Algorithms
 ### Pointer
-![Screenshot 2023-01-23 at 1.14.03 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.14.03%20AM.png)
+![Screenshot 2023-01-23 at 1.14.03 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.14.03%20AM.png)
 
 一个简单的双指针。
 
@@ -87,19 +87,19 @@ A related concept is that of **phrase marker** or **P-marker**, as used in [
 
 
 ### Recursion
-![Screenshot 2023-01-23 at 1.19.32 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.19.32%20AM.png)
+![Screenshot 2023-01-23 at 1.19.32 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.19.32%20AM.png)
 
-![Screenshot 2023-01-23 at 1.16.57 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.16.57%20AM.png)
+![Screenshot 2023-01-23 at 1.16.57 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.16.57%20AM.png)
 
-![Screenshot 2023-01-23 at 1.15.45 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.15.45%20AM.png)
+![Screenshot 2023-01-23 at 1.15.45 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.15.45%20AM.png)
 
 主要思想就是递归+记忆化。这里JS实现的比较简洁，利用了JS语言的一些特性。
 
 
 ### Stack
-![Screenshot 2023-01-23 at 1.20.05 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.20.05%20AM.png)
+![Screenshot 2023-01-23 at 1.20.05 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.20.05%20AM.png)
 
-![Screenshot 2023-01-23 at 1.20.52 AM](../../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.20.52%20AM.png)
+![Screenshot 2023-01-23 at 1.20.52 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-23%20at%201.20.52%20AM.png)
 
 利用栈的后进先出的特点进行问题的数学建模。
 

@@ -14,7 +14,7 @@
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/X_window_manager
 
-![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020240309162125.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240309162125.png)
 <small>The windowing system based on the X11 protocol keeps display server and window manager as separate components. Image source from wikipedia.</small>
 
 An X window manager is a window manager that runs on top of the X Window System, a windowing system mainly used on Unix-like systems.

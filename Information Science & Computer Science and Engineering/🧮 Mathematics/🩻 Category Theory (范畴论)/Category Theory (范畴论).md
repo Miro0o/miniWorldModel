@@ -9,14 +9,14 @@
 ↗ [Set Theory & Axiomatic Set Theory](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 
-↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
-↗ [Algebraic Topology](../../../Topology/Algebraic%20Topology/Algebraic%20Topology.md)
+↗ [Topology Structure](../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
+↗ [Algebraic Topology](../Topology/Algebraic%20Topology/Algebraic%20Topology.md)
 
 ↗ [Algebraic Graph Theory](../Combinatorics%20(Combinatorial%20Mathematics)/🫆%20Graph%20Theory/Algebraic%20Graph%20Theory/Algebraic%20Graph%20Theory.md)
 
 ↗ [Type Theory (类型论)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/🪸%20Type%20Theory%20(类型论)/Type%20Theory%20(类型论).md)
-↗ [Programming Language Theory (PLT)](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20(PLT)/Programming%20Language%20Theory%20(PLT).md)
-↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard(–Lambek)%20Correspondence.md)
+↗ [Programming Language Theory (PLT)](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/🐢%20Programming%20Language%20Theory%20%28PLT%29/Programming%20Language%20Theory%20%28PLT%29.md)
+↗ [Computational Trilogy & Curry–Howard(–Lambek) Correspondence](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Computational%20Trilogy%20&%20Curry–Howard%28–Lambek%29%20Correspondence.md)
 
 ↗ [Mathematical Logic (Foundations of Mathematics)](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 ↗ [Formal System, Formal Logic, and Its Semantics](../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
@@ -24,7 +24,7 @@
 
 ↗ [Functional Programming Languages](../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL(General%20Purpose%20Languages)/📌%20Functional%20Programming%20Languages/Functional%20Programming%20Languages.md)
 
-↗ [Morpheme & Word](../../../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20(Second)%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
+↗ [Morpheme & Word](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/🌐%20Language%20Learning%20&%20%28Second%29%20Language%20Acquisition/🇬🇧%20🇺🇸%20Learning%20English%20the%20Right%20Way/1️⃣%20English%20Grammar/Morpheme%20&%20Word/Morpheme%20&%20Word.md)
 
 
 ### Learning Resources
@@ -51,7 +51,7 @@ Lecture notes by Jesper Grodal, with contributions by Shachar Carmeli, Simon Gri
 
 ## Intro
 > [!links]
-> ↗ [Mathematics /👉 Structure（结构）](../../../Mathematics.md#👉%20Structure（结构）)
+> ↗ [Mathematics /👉 Structure（结构）](../Mathematics.md#👉%20Structure（结构）)
 
 > 🔗 https://thzt.github.io/2018/02/09/semantics-7/
 
@@ -62,10 +62,10 @@ Lecture notes by Jesper Grodal, with contributions by Shachar Carmeli, Simon Gri
 因此，我们要先理解什么是**数学结构**。后文中，我们会首先介绍最常被提及的群结构，然后再介绍拓扑空间和CPO（完全偏序）。有了这些例子之后，对抽象概念的理解是事半功倍的。
 - ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
 	- ↗ [Group Theory & Group-Like Algebraic Structure (群)](../🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群)/Group%20Theory%20&%20Group-Like%20Algebraic%20Structure%20(群).md)
-- ↗ [Topology](../../../Topology/Topology.md)
-	- ↗ [Topology Structure](../../../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
-- ↗ [Relation & Relation Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
-	- ↗ [Partial Order & Order Theory](../../../🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
+- ↗ [Topology](../Topology/Topology.md)
+	- ↗ [Topology Structure](../Topology/🎃%20Topology%20Structure/Topology%20Structure.md)
+- ↗ [Relation & Relation Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Relation%20&%20Relation%20Theory.md)
+	- ↗ [Partial Order & Order Theory](../🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Partial%20Order%20&%20Order%20Theory.md)
 
 我们又重新回顾了完全偏序这一概念，实际上，任意一个CPO（完全偏序），都构成了一个范畴，而所有的群，也构成了一个范畴。==群范畴的对象是集合，而CPO（完全偏序）范畴的对象不一定是集合。== 这对摆脱集合论来理解范畴是很关键的。
 
@@ -87,7 +87,7 @@ Many areas of [computer science](https://en.wikipedia.org/wiki/Computer_science
 
 Morphisms are often some sort of [functions](https://en.wikipedia.org/wiki/Function_\(mathematics\) "Function (mathematics)"), but this is not always the case. For example, a [monoid](https://en.wikipedia.org/wiki/Monoid "Monoid") may be viewed as a category with a single object, whose morphisms are the elements of the monoid.
 
-![|300](../../../../../Assets/Pics/Pasted%20image%2020251010001911.png)
+![|300](../../../Assets/Pics/Pasted%20image%2020251010001911.png)
 <small>Schematic representation of three objects and three morphisms of a category, which form a commutative diagram <a>https://en.wikipedia.org/wiki/Commutative_diagram "Commutative diagram"</a></small>
 
 ==The second fundamental concept of category theory is the concept of a [functor](https://en.wikipedia.org/wiki/Functor "Functor"), which plays the role of a morphism between two categories C1 and C2==: it maps objects of C1 to objects of C2 and morphisms of C1 to morphisms of C2 in such a way that sources are mapped to sources, and targets are mapped to targets (or, in the case of a [contravariant functor](https://en.wikipedia.org/wiki/Contravariant_functor "Contravariant functor"), sources are mapped to targets and _vice-versa_). 
@@ -111,7 +111,7 @@ Category theory has come to occupy a central position in contemporary mathematic
 2. $\exists e \in M, \forall x \in M, x \cdot e = e \cdot x = x$
 
 这两个条件除了可以用等式来表示，还可以用**图 (diagram)** 来表示：
-![](../../../../../Assets/Pics/Pasted%20image%2020260112172833.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112172833.png)
 
 我们称以上两张图都是**可交换的 (commutative)**，即：沿不同的路径进行运算，只要起点和终点相同，则运算的结果就相同。
 * **结合律的图示含义**：
@@ -127,7 +127,7 @@ Category theory has come to occupy a central position in contemporary mathematic
 
 **图示法的更一般形式**
 在集合论中讨论映射时，一般不写具体元素，还可以表示为：
-![](../../../../../Assets/Pics/Pasted%20image%2020260112173003.png)
+![](../../../Assets/Pics/Pasted%20image%2020260112173003.png)
 
 其中：
 * $\mu: M \times M \to M$ 是乘法运算函数。
@@ -144,7 +144,7 @@ Category theory has come to occupy a central position in contemporary mathematic
 
 范畴是一个数学概念，也可以用图示法来表示。
 
-![|300](../../../../../Assets/Pics/Pasted%20image%2020251011221138.png)
+![|300](../../../Assets/Pics/Pasted%20image%2020251011221138.png)
 
 一个**范畴**Cat由一系列**对象**（object）和**箭头**（arrow）组成。对于每一个箭头f，有两个对象与之关联，称为箭头f的定义域（domain）和值域（codomain）。并且，还要满足以下几条规则，
 1. 对于每一个对象a，存在恒等箭头（identity arrow），i:a→a
@@ -166,7 +166,7 @@ Category theory has come to occupy a central position in contemporary mathematic
 
 函子就是两个范畴之间的箭头。
 
-![|400](../../../../../Assets/Pics/Pasted%20image%2020251011221417.png)
+![|400](../../../Assets/Pics/Pasted%20image%2020251011221417.png)
 
 一个函子$F$是范畴$C$到范畴$D$的箭头：$F: C\to D$。它满足以下条件：
 - $F$把$C$中的对象$\{A, B, C\}$映射到D中的对象$\{F(A), F(B), F(C)\}$
@@ -232,7 +232,7 @@ $$\mu_x : T^2x \to Tx, \quad \forall x \in X$$
 
 
 范畴$X$上的一个**Monad**，指的是三元组$⟨T,η,μ⟩$，它们使下图可交换：
-![](../../../../../Assets/Pics/Pasted%20image%2020251011222544.png)
+![](../../../Assets/Pics/Pasted%20image%2020251011222544.png)
 其中，$T:X\to X$是范畴$X$上的自函子，$η:I_X\to T，μ:T^2→T$是两个自然变换。
 
 值得注意的是，Monad与幺半群的图示法是相似的，只需要将幺半群定义中的$×$，改写成自函子的复合运算，把单位集合$1$，改写成单位自函子即可。
@@ -299,14 +299,14 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), spec
 
 给定两个函子$S,T:A\to B$，其中$A$和$B$是范畴。自然变换的每个分量（components）使下图可交换。
 
-![](../../../../../Assets/Pics/Pasted%20image%2020251011222203.png)
+![](../../../Assets/Pics/Pasted%20image%2020251011222203.png)
 
 其中，$\tau_\alpha$​​是$B$中的箭头，$\tau_\alpha​​:S_a\to T_a$。
 
 
 > 🔗 https://en.wikipedia.org/wiki/Category_theory#Natural_transformations
 
-![|300](../../../../../Assets/Pics/Pasted%20image%2020251010235647.png)
+![|300](../../../Assets/Pics/Pasted%20image%2020251010235647.png)
 <small>The two functors F and G are called naturally isomorphic if there exists a natural transformation from F to G such that ηX is an isomorphism for every object X in C.</small>
 
 

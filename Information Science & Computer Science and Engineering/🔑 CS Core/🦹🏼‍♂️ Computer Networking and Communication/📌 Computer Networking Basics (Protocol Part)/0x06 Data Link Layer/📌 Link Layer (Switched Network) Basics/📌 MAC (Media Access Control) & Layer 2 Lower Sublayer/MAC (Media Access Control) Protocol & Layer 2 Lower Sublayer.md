@@ -10,7 +10,7 @@
 
 
 ## Intro
-![Screenshot 2022-11-20 at 1.00.50 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.00.50%20PM.png)
+![Screenshot 2022-11-20 at 1.00.50 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.00.50%20PM.png)
 
 
 

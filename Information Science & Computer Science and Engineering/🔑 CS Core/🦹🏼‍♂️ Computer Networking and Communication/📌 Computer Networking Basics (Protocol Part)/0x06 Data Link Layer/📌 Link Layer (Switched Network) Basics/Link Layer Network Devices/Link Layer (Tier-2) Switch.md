@@ -88,7 +88,7 @@ As we learned in network layer, routers are **store-and-forward** packet switche
 
 > Recall, however, that we learned in Section 4.4 that modern switches using the “**match plus action**” operation can be used to forward a layer-2 frame based on the frame's destination MAC address, as well as a layer-3 datagram using the datagram's destination IP address. Indeed, we saw that switches using the OpenFlow standard can perform generalized packet forwarding based on any of eleven different frame, datagram, and transport-layer header fields. 
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%203.43.51%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%203.43.51%20PM.png)
 
 
 ### Does 2-Layer Switches Have IP Address?

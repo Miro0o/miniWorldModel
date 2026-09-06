@@ -21,7 +21,7 @@ Shannon and Weaver distinguish three types of problems of communication: technic
 
 The Shannon–Weaver model of communication has been influential in various fields, including [communication theory](https://en.wikipedia.org/wiki/Communication_theory "Communication theory") and [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"). Many later theorists have built their own models on its insights. However, it is often criticized based on the claim that it oversimplifies communication. One common objection is that communication should not be understood as a one-way process but as a dynamic interaction of messages going back and forth between both participants. Another criticism rejects the idea that the message exists prior to the communication and argues instead that the encoding is itself a [creative](https://en.wikipedia.org/wiki/Creativity "Creativity") process that creates the content.
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
 <small>The five essential parts of the Shannon–Weaver model: A source uses a transmitter to translate a message into a signal, which is sent through a channel and translated back by a receiver until it reaches its destination.</small>
 
 

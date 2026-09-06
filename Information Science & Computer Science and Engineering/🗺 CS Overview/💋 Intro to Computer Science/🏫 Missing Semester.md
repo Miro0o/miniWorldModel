@@ -328,7 +328,7 @@ The old way of working required multiple CLI version managers, each with their d
 >
 > **More about git ...**
 >
-> I have doced git topic [here](../🔑 CS_Core/Software/CLI/VersionControl/Git.md).
+> I have doced git topic [here](../../Software%20Engineering/CASE%20%28Computer-Aided%20Software%20Engineering%29%20Tools/Upper%20CASE%20Tools/🐙%20VCM%20%28Version%20Control%20Management%29/Git/Git.md).
 
 
 ### Res

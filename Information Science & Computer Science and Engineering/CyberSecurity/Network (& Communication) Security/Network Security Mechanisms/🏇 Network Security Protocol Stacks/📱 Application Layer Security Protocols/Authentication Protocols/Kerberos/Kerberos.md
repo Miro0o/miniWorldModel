@@ -26,7 +26,7 @@ Rubeus is a C# toolset for raw Kerberos interaction and abuses. It is **heavily
 
 
 ## Intro
-![](../../../../../../../../../../Assets/Pics/kerberos.sml.png)
+![](../../../../../../../../Assets/Pics/kerberos.sml.png)
 
 **Kerberos** ([/ˈkɜːrbərɒs/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English")) is a computer-network authentication protocol that works on the basis of **tickets** to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner. Its designers aimed it primarily at a **client–server** model, and it provides **mutual authentication** — both the user and the server verify each other's identity. Kerberos protocol messages are protected against [eavesdropping](https://en.wikipedia.org/wiki/Computer_insecurity#Eavesdropping "Computer insecurity") and [replay attacks](https://en.wikipedia.org/wiki/Replay_attack "Replay attack").
 
@@ -38,7 +38,7 @@ The protocol was named after the character _[Kerberos](https://en.wikipedia.org
 ### Kerberos Overview
 Kerberos协议的工作过程：Client从KDC获取TGT，Client利用获取的TGT向KDC请求其他Service的Ticket（通过获取的session进行访问）。这个部分简单总结了kerberos协议的认证流程，如下：
 
-![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020231111095817.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020231111095817.png)
 
 ② User向KDC中的AS请求身份验证，AS为user和TGS生成一个session key：SK_TGS，并发送{TGT，SK_TGS} K_USER；其中，{TGT，SK_TGS}K_USER表示使用user的密码加密的packet，包含了TGT和用户与TGS的session key；这个请求验证的过程实际上是使用kinit来完成的，kinit将username传给AS，AS查找username的密码，将TGT和SK_TGS使用用户密码加密后发送给kinit，kinit要求用户输入密码，解密后得到TGT和SK；其中，TGT使用TGS的密码加密，信息内容为{user，address，tgs_name，start_time，lisftime，SK_TGS} K_TGS
 
@@ -69,7 +69,7 @@ Service向用户发送一个包以证明自己的身份，这个包使用SK_Serv
 
 
 ## The Design of Kerberos
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-07%20at%207.44.07%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-07%20at%207.44.07%20PM.png)
 
 
 

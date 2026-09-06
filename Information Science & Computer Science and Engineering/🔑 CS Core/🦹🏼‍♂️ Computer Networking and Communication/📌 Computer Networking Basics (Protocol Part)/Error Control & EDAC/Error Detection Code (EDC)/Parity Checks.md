@@ -14,7 +14,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.31.52%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.31.52%20PM.png)
 
 
 

@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Mathematical%20Analysis%20(&%20Analytical%20Mathematics).md)
-↗ [Differential Calculus & Derivative of Function](../../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20(&%20Analytical%20Mathematics)/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
+↗ [Mathematical Analysis (& Analytical Mathematics)](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29.md)
+↗ [Differential Calculus & Derivative of Function](../../../../../../../🧮%20Mathematics/🧐%20Mathematical%20Analysis%20%28&%20Analytical%20Mathematics%29/Differential%20Calculus%20&%20Derivative%20of%20Function/Differential%20Calculus%20&%20Derivative%20of%20Function.md)
 
 ↗ [Mathematical Optimization (Programming)](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/Mathematical%20Optimization%20(Programming).md)
 - ↗ [First-Order & Gradient Methods](../../../../../../../🧮%20Mathematics/🧑‍🦯‍➡️%20Operations%20Research%20(OR)%20&%20Optimization%20&%20Rational%20Decision-Making/Mathematical%20Optimization%20(Programming)/🦋%20Optimization%20Algorithms%20&%20Computation/Numerical%20Optimization/First-Order%20&%20Gradient%20Methods/First-Order%20&%20Gradient%20Methods.md)
@@ -160,4 +160,4 @@ Notation: $\theta_t$ denotes parameters, $g_t$ a full or stochastic gradient, $\
 
 
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.14.36%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.14.36%20PM.png)

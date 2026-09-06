@@ -2,7 +2,7 @@
 
 > :link:  [Goodbye, Prettify. Hello highlight.js! Swapping out our Syntax Highlighter](https://meta.stackexchange.com/questions/353983/goodbye-prettify-hello-highlight-js-swapping-out-our-syntax-highlighter) 
 
-![Screenshot 2022-12-07 at 2.36.40 PM](../../../../../../Assets/Pics/Screenshot 2022-12-07 at 2.36.40 PM.png)
+![Screenshot 2022-12-07 at 2.36.40 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-07%20at%202.36.40%20PM.png)
 
 Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It can work with pretty much any markup, doesn’t depend on any other frameworks, and has automatic language detection.
 

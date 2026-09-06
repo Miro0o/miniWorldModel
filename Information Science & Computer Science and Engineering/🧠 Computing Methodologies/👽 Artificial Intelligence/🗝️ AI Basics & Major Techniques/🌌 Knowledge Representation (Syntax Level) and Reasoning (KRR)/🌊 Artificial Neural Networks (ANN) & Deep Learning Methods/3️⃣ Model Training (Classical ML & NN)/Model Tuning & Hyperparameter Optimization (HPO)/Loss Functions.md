@@ -217,4 +217,4 @@ Notation: $z$ denotes logits, $p$ a predicted distribution, $y$ a target, $e=y-\
 
 
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.14.21%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.14.21%20PM.png)

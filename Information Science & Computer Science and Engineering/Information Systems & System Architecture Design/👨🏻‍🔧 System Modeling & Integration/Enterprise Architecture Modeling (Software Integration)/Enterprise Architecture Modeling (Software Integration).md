@@ -59,7 +59,7 @@ Design /Implementation models
 	- ↗ [BPMN (Business Process Model and Notation)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Modeling%20(Specification)%20Languages/Data%20Modeling%20Languages/BPMN%20(Business%20Process%20Model%20and%20Notation).md)
 	- DCR models
 
-![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
+![|500](../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
 
 ![](../../../../Assets/Pics/Screenshot%202026-02-18%20at%2020.37.30.png)
 

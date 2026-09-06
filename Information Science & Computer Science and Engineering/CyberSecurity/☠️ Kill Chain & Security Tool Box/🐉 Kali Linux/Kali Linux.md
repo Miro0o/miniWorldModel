@@ -26,7 +26,7 @@
 
 
 ## Intro
-![Cover image for How to Install Kali Linux on VirtualBox: A Step-by-Step Guide](../../../../../../../../Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg)
+![Cover image for How to Install Kali Linux on VirtualBox: A Step-by-Step Guide](../../../../Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg)
 
 Kali Linux (Kali) is the successor to the **BackTrack penetration testing platform** that is generally regarded as the de facto standard package of tools used to facilitate penetration testing to secure data and voice networks. It was developed by **Mati Aharoni** and **Devon Kearns** of Offensive Security.
 

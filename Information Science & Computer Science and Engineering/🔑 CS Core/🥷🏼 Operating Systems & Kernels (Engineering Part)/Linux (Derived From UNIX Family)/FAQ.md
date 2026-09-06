@@ -41,7 +41,7 @@ see [this](https://stackoverflow.com/a/5280925/16542494) answer on stack overflo
 ## 👉 diff between hard link & soft link (symlink, symbolic link)
 #symlink #filesystem #linux #hard_link #soft_link #inode #VFS
 
-![Pictorial representation](../../../../../Assets/Pics/f7Ijz.jpg)
+![Pictorial representation](../../../../Assets/Pics/f7Ijz.jpg)
 <small>This illustration is not acurate though</small>
 
 ### Unix File System

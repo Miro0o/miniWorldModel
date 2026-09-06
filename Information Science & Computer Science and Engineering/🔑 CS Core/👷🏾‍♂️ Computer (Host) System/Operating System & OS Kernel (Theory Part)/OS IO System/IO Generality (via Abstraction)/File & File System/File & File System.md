@@ -17,7 +17,7 @@
 
 
 ## File & File System Overview
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%209.46.00%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%209.46.00%20AM.png)
 <small>More at below "File System Functions & Organization"</small>
 
 
@@ -62,7 +62,7 @@ File system calls in linux :
 
 
 ### ⭐️ File Structure
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%2011.01.40%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-19%20at%2011.01.40%20AM.png)
 #### Field
 A **field** is the basic element of data. An individual field contains a single value, such as an employee’s last name, a date, or the value of a sensor reading. It is characterized by its length and data type (e.g., ASCII string, decimal). Depending on the file design, fields may be fixed length or variable length. In the latter case, the field often consists of two or three subfields: the actual value to be stored, the name of the field, and, in some cases, the length of the field. In other cases of variable-length fields, the length of the field is indicated by the use of special demarcation symbols between fields.
 #### Record
@@ -89,7 +89,7 @@ Users and applications wish to make use of files. Typical operations that must b
 
 ## File System Organization  & Architectures
 ### File System Hierarchy
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%2010.02.12%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%2010.02.12%20AM.png)
 
 - At the lowest level, **device drivers** **communicate directly with peripheral devices or their controllers or channels**. A device driver is responsible for starting I/O operations on a device and processing the completion of an I/O request. For file operations, the typical devices controlled are disk and tape drives (this statement may be oldish). ==Device drivers are usually considered to be part of the operating system==.
 
@@ -103,7 +103,7 @@ Users and applications wish to make use of files. Typical operations that must b
 
 
 ### ⭐️ File System Functions & Organization
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%209.46.00%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%209.46.00%20AM.png)
 
 > Figure 12.2 suggests a division between what might be considered the concerns of the file management system as a separate system utility and the concerns of the operating system, with the point of intersection being record processing. ==This division is arbitrary; various approaches are taken in various systems.==
 

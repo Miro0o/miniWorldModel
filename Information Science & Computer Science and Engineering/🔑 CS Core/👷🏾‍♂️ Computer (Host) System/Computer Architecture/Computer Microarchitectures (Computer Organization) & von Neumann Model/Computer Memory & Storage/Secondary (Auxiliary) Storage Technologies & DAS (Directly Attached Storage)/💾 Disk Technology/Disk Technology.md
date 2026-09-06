@@ -26,12 +26,12 @@
 ## Disk Drives
 ### 1️⃣ Rigid Disk Drives (HDD, Hard Disk Drive)
 #### HDD Structures
-![|400](../../../../../../../../../Assets/Pics/Pasted%20image%2020230619155434.png)
+![|400](../../../../../../../../Assets/Pics/Pasted%20image%2020230619155434.png)
 
 - Disk tracks are numbered from the outside edge, starting with zero
 - Data blocks resides in the secters.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.01.49%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.01.49%20PM.png)
 #### 💨 Performance Metrics
 ##### 1️⃣ Access Time: Seek Time + Rotational Delay
 **Seek time**: the time that it takes for a disk arm to move into position over the desired cylinder

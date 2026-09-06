@@ -48,14 +48,14 @@ The authors report this strategy achieved only slight improvement over LRU. The 
 
 A further refinement addresses this problem: Divide the stack into three sections: new, middle, and old (see Figure 11.9b). As before, reference counts are not incremented on blocks in the new section. However, only blocks in the old section are eligible for replacement. Assuming a sufficiently large middle section, this allows relatively frequently referenced blocks a chance to build up their reference counts before becoming eligible for replacement. Simulation studies by the authors indicate this refined policy is significantly better than simple LRU or LFU.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.46.01%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.46.01%20PM.png)
 
 
 
 ## Performance Considerations
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.38%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.38%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.47%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%203.47.47%20PM.png)
 
 
 

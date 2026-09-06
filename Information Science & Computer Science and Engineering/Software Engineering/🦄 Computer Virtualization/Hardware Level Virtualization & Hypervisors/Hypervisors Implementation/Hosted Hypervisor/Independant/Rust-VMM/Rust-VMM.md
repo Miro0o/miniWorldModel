@@ -2,7 +2,7 @@
 
 [TOC]
 
-![Image result for rust vmm](../../../../../../../../../Assets/Pics/6526ABF1-ECCF-4E3B-90C8-380D781996C0.jpeg)
+![Image result for rust vmm](../../../../../../../../Assets/Pics/6526ABF1-ECCF-4E3B-90C8-380D781996C0.jpeg)
 
 
 

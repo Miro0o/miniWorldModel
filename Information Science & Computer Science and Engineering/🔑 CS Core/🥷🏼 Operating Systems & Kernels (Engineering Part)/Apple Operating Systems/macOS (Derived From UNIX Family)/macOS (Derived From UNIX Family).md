@@ -5,10 +5,10 @@
 
 
 
-![[../../../../../../../Assets/Pics/latest-20221217132855978.png]]
-![[../../../../../../../Assets/Pics/latest.png]]
-![[../../../../../../../Assets/Pics/latest-20221217132659022.png]]
-![[../../../../../../../Assets/Pics/254.png]]
+![[../../../../../Assets/Pics/latest-20221217132855978.png]]
+![[../../../../../Assets/Pics/latest.png]]
+![[../../../../../Assets/Pics/latest-20221217132659022.png]]
+![[../../../../../Assets/Pics/254.png]]
 
 
 
@@ -59,9 +59,9 @@ This is a high level refresher and is **not** exhaustive. macOS is no differen
 
 XNU is the hybrid heart (kernel) of macOS consisting of BSD and the Mach microkernel. A brief overview of each of these components is listed below and shown in the above diagram.
 
-![[../../../../../../../Assets/Pics/os X archi.jpeg]]
+![[../../../../../Assets/Pics/os X archi.jpeg]]
 
-![MacOS_Architecture](../../../../../../../Assets/Pics/MacOS_Architecture.svg)
+![MacOS_Architecture](../../../../../Assets/Pics/MacOS_Architecture.svg)
 
 
 

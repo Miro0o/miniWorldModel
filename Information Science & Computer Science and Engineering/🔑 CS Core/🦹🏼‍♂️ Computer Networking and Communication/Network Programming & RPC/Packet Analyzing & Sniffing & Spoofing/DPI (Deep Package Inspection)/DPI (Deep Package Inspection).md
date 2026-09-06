@@ -13,7 +13,7 @@
 
 ↗ [Network Traffic Analysis](../../../../../CyberSecurity/⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
-↗ [Traffic Mirroring (Shadowing)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Traffic%20Management%20(End%20Side)/Traffic%20Mirroring%20(Shadowing).md)
+↗ [Traffic Mirroring (Shadowing)](../../../📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/Traffic%20Management%20%28End%20Side%29/Traffic%20Mirroring%20%28Shadowing%29.md)
 
 ↗ [Proxy Technology (& Bypassing GFW)](../../../../../CyberSecurity/Network%20(&%20Communication)%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20(&%20Bypassing%20GFW)/Proxy%20Technology%20(&%20Bypassing%20GFW).md)
 

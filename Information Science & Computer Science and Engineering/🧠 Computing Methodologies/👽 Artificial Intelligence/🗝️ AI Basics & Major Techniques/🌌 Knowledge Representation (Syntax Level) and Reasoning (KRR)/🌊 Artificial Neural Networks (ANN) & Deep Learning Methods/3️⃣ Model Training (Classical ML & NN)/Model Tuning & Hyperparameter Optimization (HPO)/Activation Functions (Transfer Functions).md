@@ -148,4 +148,4 @@ Notation: $x$ denotes a scalar preactivation, $\sigma(x)=(1+e^{-x})^{-1}$, $\Phi
 
 
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.13.34%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%205.13.34%20PM.png)

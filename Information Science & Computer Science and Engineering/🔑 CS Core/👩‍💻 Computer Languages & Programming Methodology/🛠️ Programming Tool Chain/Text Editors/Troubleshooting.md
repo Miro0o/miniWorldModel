@@ -196,7 +196,7 @@ Fix:
 
 My color is like this: 
 
-![|450](../../../../../../Assets/Pics/Screenshot%202023-05-09%20at%209.24.33%20AM.png)
+![|450](../../../../../Assets/Pics/Screenshot%202023-05-09%20at%209.24.33%20AM.png)
 
 which is really ugly!
 

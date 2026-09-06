@@ -37,7 +37,7 @@
 > 在密钥分发与密钥协商过程中，经常利用一个**可信管理机构 TA**，它的作用可能包括: 验证用户身份;产生、选择和传送秘密密钥给用户等等。
 
 
-![](../../../../../Assets/Pics/Screenshot%202023-05-24%20at%203.12.31%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-05-24%20at%203.12.31%20PM.png)
 
 
 ### 5️⃣ Key Termination /Deconstruction

@@ -98,7 +98,7 @@ TL;DR
 
 Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
 
-![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
 #### A Deeper Thinking of Computation
 ![computing.excalidraw | 800](../../../Assets/Illustrations/Philosophy/computing.excalidraw.md)
@@ -505,7 +505,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 3. ==\[THEORY\]== What is language? and its importance for data /information?
 	1. (↗ [Language & Literature](../../../Other%20Networks%20of%20Knowledge/Arts%20&%20Humanities/📃%20Language%20&%20Literature/Language%20&%20Literature.md))
 	2. (↗ [Ordinary Language Philosophy](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Modern%20Philosophy/Analytic%20Philosophy/Ordinary%20Language%20Philosophy/Ordinary%20Language%20Philosophy.md), ↗ [Philosophy of Language](../../../Other%20Networks%20of%20Knowledge/♂%20Philosophy%20&%20Its%20History/Contemporary%20Philosophy/👩‍❤️‍💋‍👨%20Philosophy%20of%20Language%20&%20Mathematics/Philosophy%20of%20Language.md))
-	3. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "axiomatization & formalization" ![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)<small><a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures</a></small>
+	3. ↗ [Mathematics](../../🧮%20Mathematics/Mathematics.md) "axiomatization & formalization" ![](../../../Assets/Pics/Pasted%20image%2020251007191312.png)<small><a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures</a></small>
 		1. ↗ [Mathematical Logic (Foundations of Mathematics)](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
 			1. ↗ [Formal System, Formal Logic, and Its Semantics](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 			2. ↗ [Set Theory & Axiomatic Set Theory](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Set%20Theory%20&%20Axiomatic%20Set%20Theory.md)
@@ -659,7 +659,7 @@ These questions, from general to specific, track my path in learning CS. The lin
 		1. etc.
 	3. ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 		1. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md) 🔥
-			1. ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md) 🤔 ![AI-Layer.excalidraw | 800](../../../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
+			1. ↗ [AI4X, AGI (Artificial General Intelligence) & AIGC](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/❌%20AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC/AI4X,%20AGI%20(Artificial%20General%20Intelligence)%20&%20AIGC.md) 🤔 ![AI-Layer.excalidraw | 800](../../../Assets/Illustrations/AI%20&%20LLM/AI-Layer.excalidraw)
 			2. ↗ [Natural Language Processing (NLP) & Computational Linguistics](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics.md)
 				1. ↗ [LLM (Large Language Model)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md) 🔥 🔥
 				2. ↗ [Multimodal AI & MLLM](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🐝%20Multimodal%20AI%20&%20MLLM/Multimodal%20AI%20&%20MLLM.md)

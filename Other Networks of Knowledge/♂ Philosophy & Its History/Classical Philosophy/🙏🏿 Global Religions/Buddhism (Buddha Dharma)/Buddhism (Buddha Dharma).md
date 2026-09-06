@@ -85,7 +85,7 @@ wikipedia
 
 2010年普查显示全世界约有5亿佛教徒。21世纪世界佛教徒的人口分布是：[汉传佛教](https://zh.wikipedia.org/wiki/%E6%BC%A2%E5%82%B3%E4%BD%9B%E6%95%99 "汉传佛教")地区67.3%（3.6亿人），[南传佛教](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99 "南传佛教")地区28%（1.5亿人），[藏传佛教](https://zh.wikipedia.org/wiki/%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99 "藏传佛教")地区3.4%（1800万人信仰），亚洲以外地区1.3%（700万人）。
 
-![](../../../../../../Assets/Pics/Screenshot%202025-07-07%20at%2021.26.39.png)
+![](../../../../../Assets/Pics/Screenshot%202025-07-07%20at%2021.26.39.png)
 <small>https://zh.wikipedia.org/wiki/Portal:%E4%BD%9B%E6%95%99</small>
 
 
@@ -196,7 +196,7 @@ wikipedia
 	- 在[净土宗](https://zh.wikipedia.org/wiki/%E6%B7%A8%E5%9C%9F%E5%AE%97_\(%E4%B8%AD%E5%9C%8B\) "净土宗 (中国)")[昙鸾大师](https://zh.wikipedia.org/w/index.php?title=%E6%9B%87%E9%B8%9E%E5%A4%A7%E5%B8%AB&action=edit&redlink=1 "昙鸾大师（页面不存在）")所著的《略论安乐净土义》中，说明[阿弥陀佛](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BD%8C%E9%99%80%E4%BD%9B "阿弥陀佛")[极乐世界](https://zh.wikipedia.org/wiki/%E6%A5%B5%E6%A8%82%E4%B8%96%E7%95%8C "极乐世界")等[佛国](https://zh.wikipedia.org/wiki/%E4%BD%9B%E5%9C%8B "佛国")[净土](https://zh.wikipedia.org/wiki/%E6%B7%A8%E5%9C%9F "净土")非属三界。
 	- 梵语त्रैलोक्य（_trai-lokya_）还可以翻译为**三[世](https://zh.wikipedia.org/wiki/%E4%B8%96%E9%96%93 "世间")**，指时间界，如过去、现在、未来[纵三世佛](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B8%96%E4%BD%9B "三世佛")（过去佛[燃灯佛](https://zh.wikipedia.org/wiki/%E7%87%83%E7%81%AF%E4%BD%9B "燃灯佛")，现在佛[释迦牟尼佛](https://zh.wikipedia.org/wiki/%E9%87%8A%E8%BF%A6%E7%89%9F%E5%B0%BC%E4%BD%9B "释迦牟尼佛")，未来佛[弥勒佛](https://zh.wikipedia.org/wiki/%E5%BC%A5%E5%8B%92%E4%BD%9B "弥勒佛"))。
 	- 三界分为[六道](https://zh.wikipedia.org/wiki/%E5%85%AD%E9%81%93 "六道")，三界之上六道之外还有[声闻](https://zh.wikipedia.org/wiki/%E5%A3%B0%E9%97%BB "声闻")、[缘觉](https://zh.wikipedia.org/wiki/%E7%B7%A3%E8%A6%BA "缘觉") (辟支)、[菩萨](https://zh.wikipedia.org/wiki/%E8%8F%A9%E8%90%A8 "菩萨")、[佛陀](https://zh.wikipedia.org/wiki/%E4%BD%9B "佛")四圣境，总共[十法界](https://zh.wikipedia.org/wiki/%E5%8D%81%E6%B3%95%E7%95%8C "十法界")。
-	- ![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2012.44.26.png)
+	- ![](../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2012.44.26.png)
 
 - [十法界](https://zh.wikipedia.org/wiki/%E5%8D%81%E6%B3%95%E7%95%8C)
 	- **十界**（[梵语](https://zh.wikipedia.org/wiki/%E6%A2%B5%E8%AA%9E "梵语")：दस धातवः，罗马化：dasa-dhātavaḥ），又名**十法界**，[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")[天台宗](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8F%B0%E5%AE%97 "天台宗")术语，将所有[众生](https://zh.wikipedia.org/wiki/%E6%9C%89%E6%83%85 "有情")分十种[界](https://zh.wikipedia.org/wiki/%E7%95%8C_\(%E4%BD%9B%E6%95%99\) "界 (佛教)")，分别指：[诸佛法界](https://zh.wikipedia.org/wiki/%E4%BD%9B "佛")、[菩提萨埵](https://zh.wikipedia.org/wiki/%E8%8F%A9%E8%96%A9 "菩萨")、[辟支佛](https://zh.wikipedia.org/wiki/%E8%BE%9F%E6%94%AF%E4%BD%9B "辟支佛")、[阿罗汉](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%BE%85%E6%BC%A2 "阿罗汉")、[天道](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%95%8C "天界")、人间、[阿修罗](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BF%AE%E7%BE%85_\(%E4%BD%9B%E6%95%99\) "阿修罗 (佛教)")、旁生、[饿鬼](https://zh.wikipedia.org/wiki/%E9%A4%93%E9%AC%BC "饿鬼")和[地狱法界](https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84_\(%E4%BD%9B%E6%95%99\) "地狱 (佛教)")。前四者称为四圣（四圣地），后面六者称为[六凡](https://zh.wikipedia.org/wiki/%E5%85%AD%E9%81%93 "六道")，合称为**四圣六凡**或**六凡四圣**。
@@ -316,7 +316,7 @@ wikipedia
 
 **佛**（[梵语](https://zh.wikipedia.org/wiki/%E6%A2%B5%E8%AA%9E "梵语")：बुद्ध；[IAST](https://zh.wikipedia.org/wiki/IAST "IAST")：Buddha；[巴利语](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AA%9E "巴利语")：Buddha），又称佛陀，[佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99 "佛教")术语，意译为“[觉](https://zh.wikipedia.org/wiki/%E8%A6%BA_\(%E4%BD%9B%E6%95%99\) "觉 (佛教)")者”，“觉悟者”，“悟道者”，是[福](https://zh.wikipedia.org/wiki/%E5%8A%9F%E5%BE%B7 "功德")[慧](https://zh.wikipedia.org/wiki/%E8%88%AC%E8%8B%A5_\(%E4%BD%9B%E6%95%99\) "般若 (佛教)")两足尊，也就是福德和[智](https://zh.wikipedia.org/wiki/%E6%99%BA_\(%E5%8D%B0%E5%BA%A6%E5%93%B2%E5%AD%A6\) "智 (印度哲学)")慧[修行](https://zh.wikipedia.org/wiki/%E4%BF%AE%E8%A1%8C "修行")圆满者。按照佛教的说法，佛有[十个尊号](https://zh.wikipedia.org/wiki/%E5%A6%82%E4%BE%86%E5%8D%81%E8%99%9F "如来十号")：[如来](https://zh.wikipedia.org/wiki/%E5%A6%82%E4%BE%86 "如来")、[应供](https://zh.wikipedia.org/wiki/%E6%87%89%E4%BE%9B "应供")、[正遍知](https://zh.wikipedia.org/wiki/%E6%AD%A3%E7%AD%89%E6%AD%A3%E8%A6%BA "正等正觉")、[明行足](https://zh.wikipedia.org/wiki/%E5%A6%82%E4%BE%86%E5%8D%81%E8%99%9F "如来十号")、善逝、世间解、无上士、调御丈夫、天人师、佛、世尊（[薄迦梵](https://zh.wikipedia.org/wiki/%E8%96%84%E8%BF%A6%E6%A2%B5 "薄迦梵")），具足[十力](https://zh.wikipedia.org/wiki/%E5%8D%81%E5%8A%9B "十力")和[十八不共法](https://zh.wikipedia.org/wiki/%E5%8D%81%E5%85%AB%E4%B8%8D%E5%85%B1%E6%B3%95 "十八不共法")。狭义来说，佛指历史上的[释迦牟尼](https://zh.wikipedia.org/wiki/%E9%87%8B%E8%BF%A6%E7%89%9F%E5%B0%BC "释迦牟尼")。广义而言，从[苦](https://zh.wikipedia.org/wiki/%E8%8B%A6_\(%E4%BD%9B%E6%95%99\) "苦 (佛教)")和[烦恼](https://zh.wikipedia.org/wiki/%E7%85%A9%E6%83%B1_\(%E4%BD%9B%E6%95%99\) "烦恼 (佛教)")中[解脱](https://zh.wikipedia.org/wiki/%E8%A7%A3%E8%84%AB "解脱")，圆满[菩提](https://zh.wikipedia.org/wiki/%E8%8F%A9%E6%8F%90 "菩提")的觉悟者都可称为佛，如[过去七佛](https://zh.wikipedia.org/wiki/%E9%81%8E%E5%8E%BB%E4%B8%83%E4%BD%9B "过去七佛")和现在的[十方诸佛](https://zh.wikipedia.org/wiki/%E5%8D%81%E6%96%B9%E8%AB%B8%E4%BD%9B "十方诸佛")。
 
-![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2012.30.39.png)
+![](../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2012.30.39.png)
 
 [三世佛](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B8%96%E4%BD%9B "三世佛")
 - “三世诸佛”（梵语：tryadhva-buddhāḥ），是指“过去、现在、未来的佛”（ atīta-anāgata-pratyutpannā buddhāḥ）。
@@ -506,7 +506,7 @@ Buddhism evolved into a variety of traditions and practices, represented by [Th
 > [!links]
 > ↗ [Buddhism in China](../../Chinese%20Philosophy%20&%20Its%20History/Buddhism%20in%20China.md)
 
-![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
+![](../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
 
 > 🔗 https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E6%95%99%E6%B4%BE%E5%88%AB#%E4%B8%AD%E5%9C%8B%E4%BD%9B%E6%95%99%E5%AE%97%E6%B4%BE
 

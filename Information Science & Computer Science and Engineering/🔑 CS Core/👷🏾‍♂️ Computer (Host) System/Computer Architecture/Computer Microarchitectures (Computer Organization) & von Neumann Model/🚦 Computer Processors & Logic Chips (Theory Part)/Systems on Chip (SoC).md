@@ -86,8 +86,8 @@ In summary:
 
 ==目前，主流商用处理器中面向中高端领域的处理器普遍采用两片结构，而面向中低端及嵌入式领域的处理器普遍采用单片结构。SoC单片结构最常见的是在手机等移动设备中。==
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
 <small>The scaling in the Apple M series of SoCs<br><a>https://pbs.twimg.com/media/FCBl1gcWEAUOdRw?format=jpg&name=large</a></small>
 
 

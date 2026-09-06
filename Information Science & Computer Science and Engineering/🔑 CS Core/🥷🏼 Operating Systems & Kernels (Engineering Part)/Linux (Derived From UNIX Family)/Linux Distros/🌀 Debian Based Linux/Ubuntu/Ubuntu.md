@@ -45,7 +45,7 @@ Ubuntu man page repository
 
 Ubuntu is derived from Debian. It means that Ubuntu uses the same APT packaging system as Debian and shares a huge number of packages and libraries from Debian repositories. It utilizes the Debian infrastructure as base.
 
-![debian ubuntu upstream](../../../../../../../../../Assets/Pics/Debian-ubuntu-upstream.png)
+![debian ubuntu upstream](../../../../../../../Assets/Pics/Debian-ubuntu-upstream.png)
 
 That’s what most ‘derived’ distributions do. They use the same package management system and share packages as the base distribution. But they also add some packages and changes of their own. And that is how Ubuntu is different from Debian despite being derived from it.
 

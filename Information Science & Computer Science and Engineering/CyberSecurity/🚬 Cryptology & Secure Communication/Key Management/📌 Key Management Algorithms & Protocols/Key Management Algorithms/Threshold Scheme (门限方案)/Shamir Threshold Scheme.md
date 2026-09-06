@@ -11,7 +11,7 @@
 ### Shamir Threshold Scheme Principles
 Shamir 门限秘密共享方案有两个参数 t 和 n，因此也写作 (t, n) 门限方案。 n 表示秘密分割参与者的数量； t 即门限值，表示至少几个参与者聚到一起才可以恢复秘密信息。
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%208.53.01%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%208.53.01%20AM.png)
 
 
 ### Shamir Threshold Scheme Phases

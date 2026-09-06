@@ -86,12 +86,12 @@ Message queues allow one or more processes to write messages, which will be read
 Linux maintains a list of message queues, the `msgque` vector; each element of which points to a `msqid_ds` data structure that fully describes the message queue. When message queues are created a new `msqid_ds` data structure is allocated from system memory and inserted into the vector.
 
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
 <small>System V IPC Message Queues</small>
 
 
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
 <small>Kernel Message Queue Resources</small>
 
 

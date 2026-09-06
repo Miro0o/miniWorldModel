@@ -12,7 +12,7 @@
 
 
 ## Intro
-![](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.31.06AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.31.06AM.png)
 
 
 

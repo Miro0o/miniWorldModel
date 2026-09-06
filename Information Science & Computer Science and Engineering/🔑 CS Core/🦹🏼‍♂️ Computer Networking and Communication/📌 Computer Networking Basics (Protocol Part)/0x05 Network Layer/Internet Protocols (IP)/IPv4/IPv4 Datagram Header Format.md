@@ -14,7 +14,7 @@
 
 
 ## Overview
-![Screenshot 2022-11-20 at 1.21.45 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.21.45%20PM.png)
+![Screenshot 2022-11-20 at 1.21.45 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.21.45%20PM.png)
 <small>IPv4 Header Format</small>
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-12%20at%2011.02.54%20AM.png)

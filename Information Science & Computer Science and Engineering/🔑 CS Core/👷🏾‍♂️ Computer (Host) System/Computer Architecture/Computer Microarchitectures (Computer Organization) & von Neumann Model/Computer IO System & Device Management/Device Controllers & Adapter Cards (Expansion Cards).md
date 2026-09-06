@@ -33,7 +33,7 @@
 
 A device controller is a system that handles the incoming and outgoing signals of the CPU by acting as a bridge between CPU and the I/O devices. **A device is connected to the computer via a plug and socket, and the socket is connect to a device controller**. Device controllers use binary and digital codes. An IO device contains mechanical and electrical parts. A device controller is the electrical part of the IO device.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240327200246.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240327200246.png)
 <small>图1-7计算机中的总线连接示意图<br><a>https://www.cnblogs.com/deliweier-wangshuping/p/16167870.html</a></small>
 
 ---

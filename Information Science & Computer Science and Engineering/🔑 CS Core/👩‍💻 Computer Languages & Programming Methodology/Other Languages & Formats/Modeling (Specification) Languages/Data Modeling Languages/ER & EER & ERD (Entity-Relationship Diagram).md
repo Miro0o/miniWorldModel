@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [UML (Unified Modeling Language)](UML%20(Unified%20Modeling%20Language).md)
 
-↗ [Models of Computation & Abstract Machines](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
+↗ [Models of Computation & Abstract Machines](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Models%20of%20Computation%20&%20Abstract%20Machines/Models%20of%20Computation%20&%20Abstract%20Machines.md) "transition system"
 
 
 ### Other Resources
@@ -19,7 +19,7 @@ Continuing our trip through different ERD notations, let's review the Chen ERD n
 
 
 ## ER (Entity-Relationship) Basics
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.08.56%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.08.56%20PM.png)
 
 
 ### 1️⃣ Entity Types (实体类型)
@@ -28,7 +28,7 @@ Strong entity type: An entity type that is not existence-dependent on some other
 
 Week entity type: An entity type that is existence-dependent on some other entity type.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.17.44%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.17.44%20PM.png)
 
 
 
@@ -42,15 +42,15 @@ A uniquely identifiable association that includes one occurrence from each parti
 #### Diagrammatic Representation of Relationship Types
 
 #### Degree of Relationship Type
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.10.45%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.10.45%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.10.54%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.10.54%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.11.55%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.11.55%20PM.png)
 
 Diagrammatic representation of complex relationships
 #### Recursive Relationship
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.12.22%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.12.22%20PM.png)
 
 
 ### 3️⃣ Attributes
@@ -65,12 +65,12 @@ Diagrammatic representation of complex relationships
 - **Derived attributes**: An attribute that represents a value that is derivable from the value of a related attribute or set of attributes, not necessarily in the same entity type.
 
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.16.30%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.16.30%20PM.png)
 #### ⭐️ Attributes on Relationships
 Attributes can also be assigned to relationships. 
 
 > For example, consider the relationship Advertises, which associates the Newspaper and PropertyForRent entity types as shown in Figure 12.1. To record the date the property was advertised and the cost, we associate this information with the Advertises relationship as attributes called dateAdvert and cost, rather than with the Newspaper or the PropertyForRent entities.
-> ![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%204.30.57%20PM.png)
+> ![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%204.30.57%20PM.png)
 
 We represent attributes associated with a relationship type using the same symbol as an entity type. However, to distinguish between a relationship with an attribute and an entity, the rectangle representing the attribute(s) is associated with the relationship using a dashed line. 
 
@@ -94,7 +94,7 @@ Multiplicity: The number (or range) of possible occurrences of an entity type th
 ##### Multiplicity for Complex Relationships
 > **Multiplicity (complex relationship)**: The number (or range) of possible occurrences of an entity type in an n-ary relationship when the other (n–1) values are fixed.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.26.09%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.26.09%20PM.png)
 
 
 #### Cardinality and Participation Constraints
@@ -102,9 +102,9 @@ Multiplicity: The number (or range) of possible occurrences of an entity type th
 
 > **Participation**: Determines whether all or only some entity occurrences participate in a relationship.
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%204.42.55%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%204.42.55%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.26.47%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.26.47%20PM.png)
 
 
 
@@ -126,9 +126,9 @@ Multiplicity: The number (or range) of possible occurrences of an entity type th
 
 #### Specialization / Generalization Process
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.36.32%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.36.32%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.35.34%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.35.34%20PM.png)
 
 #### ⭐️ Constraints on Specialization/Generalization
 The disjoint and participation constraints of specialization and generalization are distinct, giving rise to four categories: “mandatory and disjoint,” “optional and disjoint,” “mandatory and non-disjoint,” and “optional and non-disjoint.”
@@ -150,7 +150,7 @@ Aggregation does not change the meaning of navigation across the relationship be
 ---
 An example of an aggregation is the Has relationship, which relates the Branch entity (the “whole”) to the Staff entity (the “part”).
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.38.04%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.38.04%20PM.png)
 
 
 ### 8️⃣ Composition
@@ -163,7 +163,7 @@ There are no examples of composition in Figure 13.8. For the purposes of discuss
 
 UML represents composition by placing a filled-in diamond shape at one end of the relationship line next to the entity that represents the “whole” in the relationship. For example, to represent the Newspaper Displays Advert composition, the filled-in diamond shape is placed next to the Newspaper entity, which is the “whole” in this relationship, as shown in Figure 13.10.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.38.15%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%209.38.15%20PM.png)
 
 
 

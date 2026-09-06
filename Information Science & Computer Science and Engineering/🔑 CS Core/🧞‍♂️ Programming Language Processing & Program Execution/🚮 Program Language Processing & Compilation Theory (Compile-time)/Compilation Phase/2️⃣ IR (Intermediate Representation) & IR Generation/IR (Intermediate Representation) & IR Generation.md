@@ -23,7 +23,7 @@
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 
-![](../../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.22.45.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-09-09%20at%2000.22.45.png)
 
 
 ### Three-Address Code (3AC)

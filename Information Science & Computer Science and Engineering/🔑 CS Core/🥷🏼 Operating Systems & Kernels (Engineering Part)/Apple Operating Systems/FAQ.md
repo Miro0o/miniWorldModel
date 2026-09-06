@@ -116,7 +116,7 @@ https://www.zhihu.com/question/28764379/answer/942954126
 ## 👉👉 How to clear cache on MAC?
 #macos #cache
 
-> ⚠ Use tools like  [CleanMyMacX](../../../🧰 Tools/🚀 Productivity/Storage Manager/CleanMyMacX.md) and [Cleaner One Pro](../../../🧰 Tools/🚀 Productivity/Storage Manager/Cleaner One Pro.md) to automate the process.
+> ⚠ Use tools like  [CleanMyMacX](../../Generic%20Software%20Tools%20&%20Projects/Files%20Management/Storage%20Freeup/CleanMyMacX.md) and [Cleaner One Pro](../../Generic%20Software%20Tools%20&%20Projects/Files%20Management/Storage%20Freeup/Cleaner%20One%20Pro.md) to automate the process.
 
 ### What are the main cache types?
 > 🔗 https://macpaw.com/how-to/clear-cache-on-mac

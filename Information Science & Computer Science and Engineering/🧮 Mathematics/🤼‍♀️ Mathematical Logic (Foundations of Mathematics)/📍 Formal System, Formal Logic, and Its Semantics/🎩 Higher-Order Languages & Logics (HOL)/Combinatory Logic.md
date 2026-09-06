@@ -13,7 +13,7 @@
 
 
 ## Intro
-> Distinguish between combinatory logic (组合子逻辑) and ↗ [Combinational Logic Circuits (组合逻辑电路)](../../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/0x02%20Combinational%20Logic%20Circuits%20(组合逻辑电路)/Combinational%20Logic%20Circuits%20(组合逻辑电路).md). 
+> Distinguish between combinatory logic (组合子逻辑) and ↗ [Combinational Logic Circuits (组合逻辑电路)](../../../../🔑%20CS%20Core/EE%20Related%20Theories%20&%20Hardware%20Implementation/⚡️%20Digital%20%28Logic%29%20Electronics%20Foundations/0x02%20Combinational%20Logic%20Circuits%20%28组合逻辑电路%29/Combinational%20Logic%20Circuits%20%28组合逻辑电路%29.md). 
 
 > 🔗 https://en.wikipedia.org/wiki/Combinatory_logic
 

@@ -49,7 +49,7 @@
 
 
 ### Learning Resources
-🏫 [CS61A Structure and Interpretation of Computer Programs](💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+🏫 [CS61A Structure and Interpretation of Computer Programs](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
 📖 [Structure and Interpretation of Computer Programs (SICP)](https://web.mit.edu/6.001/6.037/sicp.pdf) 
 Harold Abelson and Gerald Jay Sussman with Julie Sussman
 

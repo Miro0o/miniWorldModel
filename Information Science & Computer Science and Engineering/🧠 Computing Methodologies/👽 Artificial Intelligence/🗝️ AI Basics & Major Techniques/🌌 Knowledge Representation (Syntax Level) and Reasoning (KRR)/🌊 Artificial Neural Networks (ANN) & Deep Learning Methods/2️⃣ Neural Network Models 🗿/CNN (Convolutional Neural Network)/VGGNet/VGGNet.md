@@ -12,7 +12,7 @@ VGGNet is a Convolutional Neural Network architecture proposed by Karen Simonyan
 
 
 
-![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020230707085109.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230707085109.png)
 <small>MACROARCHITECTURE OF VGG16</small>
 
 

@@ -50,7 +50,7 @@ As with assemblers, most link editors require two passes to produce a complete l
 
 其中，最常见的库就是**运行时库（Runtime Library）**，它是支持程序运行的基本函数的集合。**库本质上是一组目标文件的包，由一些最常用的代码编译成目标文件后打包而成**。
 
-![600](../../../../../Assets/Pics/Pasted%20image%2020250329153603.png)
+![600](../../../../Assets/Pics/Pasted%20image%2020250329153603.png)
 链接过程主要包含了三个步骤：
 1. **地址与空间分配（Address and Storage Allocation）**
 2. **符号解析（Symbol Resolution）**
@@ -168,6 +168,6 @@ int execve(const char *filename, char *const argv[], char *const envp[]);
 ![](../../../../Assets/Pics/Pasted%20image%2020250304121246.png)
 
 [C/C++ 静态链接库(.a) 与 动态链接库(.so)]: https://www.cnblogs.com/52php/p/5681711.html
-![](../../../../../Assets/Pics/Pasted%20image%2020240617143024.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240617143024.png)
 
 [👍 C语言静态链接库和动态链接库讲解及制作使用]: https://www.cnblogs.com/icefoxhz/p/16668663.html

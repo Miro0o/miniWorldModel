@@ -22,7 +22,7 @@ Table 9.3 presents some summary information about the various scheduling policie
 generally, this quantity must be estimated or supplied by the user.
 For example, the selection function max[w] indicates an FCFS discipline.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-05-18%20at%203.13.48%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-05-18%20at%203.13.48%20PM.png)
 
 
 ### 1️⃣ Decision Modes

@@ -57,7 +57,7 @@ sudo iptables-save > /etc/iptables/rules.v4
 
 
 ### Architecture
-![img](../../../../../../../../../Assets/Pics/021217_0051_6.png)<small>Iptables architecture</small>
+![img](../../../../../../../Assets/Pics/021217_0051_6.png)<small>Iptables architecture</small>
 
 
 

@@ -30,7 +30,7 @@ Computer operating systems provide different levels of access to resources. A pr
 - Rings are arranged in a hierarchy from most privileged (most trusted, usually numbered zero) to least privileged (least trusted, usually with the highest ring number). On most operating systems, Ring 0 is the level with the most privileges and interacts most directly with the physical hardware such as certain CPU functionality (e.g. the control registers) and I/O controllers. 
 - With the increasing prevalence of virtualization, many CPUs have added another level (conceptually ring -1) for the hypervisor.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240217173550.png)
 <small>Protection ring on an x86 CPU. Usually ring 0 is kernel space, ring 3 is user space.</small>
 
 Special mechanisms are provided to allow an outer ring to access an inner ring's resources in a predefined manner, as opposed to allowing arbitrary usage. Correctly gating access between rings can improve security by preventing programs from one ring or privilege level from misusing resources intended for programs in another. For example, spyware running as a user program in Ring 3 should be prevented from turning on a web camera without informing the user, since hardware access should be a Ring 1 function reserved for device drivers. Programs such as web browsers running in higher numbered rings must request access to the network, a resource restricted to a lower numbered ring.

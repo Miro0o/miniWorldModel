@@ -17,7 +17,7 @@
 ↗ [Algebra](../🧊%20Algebra/Algebra.md)
 ↗ [Geometry](../Geometry/Geometry.md)
 
-↗ [Systematic & Combinatorial Search (Classical Search)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search)/Systematic%20&%20Combinatorial%20Search%20(Classical%20Search).md)
+↗ [Systematic & Combinatorial Search (Classical Search)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Major%20Techniques/Problem%20Solving%20&%20Search-Based%20Methods/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29/Systematic%20&%20Combinatorial%20Search%20%28Classical%20Search%29.md)
 ↗ [Combinatorics Problems](../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/🦜%20Programming%20Implementation%20of%20Math%20Problems/Combinatorics%20Problems/Combinatorics%20Problems.md)
 
 
@@ -29,7 +29,7 @@ A deeper guide to combinatorics that is not often offered in school settings. It
 
 
 ## Intro
-![Screenshot 2022-12-25 at 4.12.50 PM](../../../../../Assets/Pics/Screenshot%202022-12-25%20at%204.12.50%20PM.png)
+![Screenshot 2022-12-25 at 4.12.50 PM](../../../Assets/Pics/Screenshot%202022-12-25%20at%204.12.50%20PM.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_combinatorics
 

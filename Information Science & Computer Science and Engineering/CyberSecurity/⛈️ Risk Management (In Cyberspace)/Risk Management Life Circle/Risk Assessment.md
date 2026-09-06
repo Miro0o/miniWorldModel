@@ -37,7 +37,7 @@ An important aspect of information security and risk management is recognizing t
 网络空间安全风险评估就是从风险管理角度，运用科学的方法和手段，系统地分析信息系统所面临的威胁及其存在的脆弱性，评估安全事件一旦发生可能造成的危害程度，提出有针对性的抵御威胁的防护对策和整改措施；为防范和化解网络空间安全风险，将风险控制在可接受的水平，从而为最大限度地保障网络空间安全提供科学依据。
 **（存在风险，但不一定造成损失）**
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.32.25PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.32.25PM.png)
 
 信息系统的安全风险信息是**动态变化**的，只有动态的信息安全评估才能发现和跟踪最新的安全风险。所以信息安全评估是一个**长期持续**的工作，通常应该每隔1-3年就进行一次全面安全风险评估。
 - 风险评估是分析确定风险的过程。
@@ -45,13 +45,13 @@ An important aspect of information security and risk management is recognizing t
 - 风险评估是风险管理的起点和基础环节。
 - 风险管理是在倡导适度安全。风险管理的目的不是消除风险，也无法做到完全消除风险，而是将风险控制在最小的可接受范围内。
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.35.16PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.35.16PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.53.06PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.53.06PM.png)
 
 
 ### Motivations of Risk Assessment
-![](../../../../../Assets/Pics/Pasted%20image%2020251001215700.png)
+![](../../../../Assets/Pics/Pasted%20image%2020251001215700.png)
 #### Compliance (合规)
 **等保测评，安全检查，风险评估**
 - 等保测评、安全检查都是在既定安全基线的基础上开展的符合性测评，其中等保测评是符合国家安全要求的测评，安全检查是符合行业主管安全要求的符合性测评。
@@ -81,7 +81,7 @@ An important aspect of information security and risk management is recognizing t
 
 
 ## Risk Assessment Workflow
-![](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.11.33AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.11.33AM.png)
 
 
 ### 1️⃣ Risk Assessment Setup (风险评估准备)
@@ -151,7 +151,7 @@ Security Control Methods:
 ### 3️⃣ Risk Analysis ⭐ (风险分析)
 ![](../../../../Assets/Pics/Screenshot%202025-10-18%20at%2017.13.51.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%202.00.55PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%202.00.55PM.png)
 #### 🎯 Quantative Risk Analysis (定量分析)
 定量风险分析试图是在风险评估与成本效益分析期间收集的各个组成部分计算客观数字值，定量风险分析更具客观性
 - 例如，用替换成本、生产率损失成本、品牌名誉成本以及其他直接和间接商业价值来估计各项资产的真实价值

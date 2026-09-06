@@ -33,7 +33,7 @@
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Computer_hardware#
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-03-16%20at%206.12.18%20PM.png)
+![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.12.18%20PM.png)
 <small>https://en.wikipedia.org/wiki/Computer_hardware#External_links</small>
 
 

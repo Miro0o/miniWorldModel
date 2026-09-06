@@ -85,9 +85,9 @@ As in ↗ [HTTP Messages Format](📌%20HTTP%20Basics/HTTP%20Messages%20Format.m
 
 
 ## HTTP Flows
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141809.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230319141809.png)
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
 
 More at ↗ [HTTP Messages Format](📌%20HTTP%20Basics/HTTP%20Messages%20Format.md)
 

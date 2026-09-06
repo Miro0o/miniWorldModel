@@ -119,7 +119,7 @@ Just a collection of notes, snippets and other goodies..
 > [!Links]
 > ↗ [Program Analysis Basics](📌%20Program%20Analysis%20Basics/Program%20Analysis%20Basics.md)
 
-![](../../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
+![](../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
 <small>【南京大学《软件分析》课程01（Introduction）】 <a>https://www.bilibili.com/video/BV1b7411K7P4</a></small>
 
 > 🎬 [Math's Fundamental Flaw - Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)
@@ -137,13 +137,13 @@ Program analysis can be performed without executing the program (static program 
 
 ![](../../../../../Assets/Pics/Screenshot%202025-04-14%20at%2020.08.51.png)
 #### Program Analysis Techniques: Taxonomy
-![Language_and_Programming_Language_Processing | 800](../../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+![Language_and_Programming_Language_Processing | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>Static Code Analysis</small>
 
-![application_execution_and_computer_data_flow.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
+![application_execution_and_computer_data_flow.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Dynamic Code Analysis</small>
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020251018223257.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020251018223257.png)
 <small>I really like this slide by Julian Cohen's Contemporary Automatic Program Analysis talk (<a>https://www.youtube.com/watch?v=P0nHId1umvY</a>). In a nutshell, people like to divide program analysis into two broad categories of static and dynamic analysis. But there is really a broad spectrum of program analysis techniques that range from static to dynamic and manual to fully automatic. Symbolic execution is an interesting technique that falls somewhere in between static and dynamic analysis and is generally applied as a fully automatic approach. <br>
 <a>https://stackoverflow.com/a/40534830/16542494</a> </small>
 
@@ -225,7 +225,7 @@ https://zhuanlan.zhihu.com/p/434745218
 
 [通过大语言模型（LLM）识别与修复风险代码 | 字节跳动无恒实验室]: https://www.anquanke.com/post/id/289615
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240324141945.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240324141945.png)
 
 [大模型遇上恶意软件：开启自主威胁时代 | CSDN]: http://t.csdnimg.cn/oI0OY
 

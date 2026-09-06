@@ -31,19 +31,19 @@
 - 好的风险管理过程使组织可以用一种一致的、条理清晰的方式来组织有限的资源并确定优先级，更好地管理风险。而不是将保贵的资源用于解决所有可能的风险。
 - 风险管理是一个持续的PDCA管理过程
 
-![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.17.14PM.png)
+![](../../../Assets/Pics/Screenshot%202023-11-03%20at%201.17.14PM.png)
 
 网络空间安全风险管理的目标：
 进不来，拿不走，改不了，看不懂，跑不了
 
 
 ### PDCA (Plan, Design, 4C, 2A)
-![](../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.16.44PM.png)
+![](../../../Assets/Pics/Screenshot%202023-11-03%20at%201.16.44PM.png)
 
 
 
 ## ⭐ Risk Management Concepts /Glossary
-![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
+![](../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 <small>risk management</small>
 
 ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
@@ -171,7 +171,7 @@
 
 
 ## Risk Management ⭐
-![|500](../../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
+![|500](../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.03.41AM.png)
 <small>GB/Z 24364</small>
 
 ![|500](../../../Assets/Pics/risk_management.jpg)
@@ -182,7 +182,7 @@
 
 
 ## Cybersecurity Risk Management & System Life Circle
-![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.31.06AM.png)
+![](../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.31.06AM.png)
 
 ↗ [Risk Management in System Life Circle](Risk%20Management%20Life%20Circle/Risk%20Management%20in%20System%20Life%20Circle.md)
 

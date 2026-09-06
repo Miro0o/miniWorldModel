@@ -61,4 +61,4 @@ Raw sockets are used in security-related applications like [Nmap](https://en.wik
 
 [👍【网络编程知识】什么是Socket？概念及原理分析]: https://www.cnblogs.com/gmpy/articles/17802712.html
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240423222918.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240423222918.png)

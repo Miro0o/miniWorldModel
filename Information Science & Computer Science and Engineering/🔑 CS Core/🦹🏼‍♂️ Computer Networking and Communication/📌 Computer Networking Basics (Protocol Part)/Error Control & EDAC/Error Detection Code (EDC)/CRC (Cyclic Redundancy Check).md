@@ -36,7 +36,7 @@ $$R(x) = M(x) \times x^n \mod G(x)$$
 
 Polynomial addition modulo 2 is the same as [bitwise XOR](https://en.wikipedia.org/wiki/Exclusive_or#Bitwise_operation). Since XOR is the inverse of itself, polynominal subtraction modulo 2 is the same as bitwise XOR too.
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.43.46%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.43.46%20PM.png)
 <small>【CRC原理和程序实现方法1】 https://www.bilibili.com/video/BV1Jy4y187oG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
 <small>【CRC原理和程序实现方法2】 https://www.bilibili.com/video/BV1VK4y1U7pS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>
 

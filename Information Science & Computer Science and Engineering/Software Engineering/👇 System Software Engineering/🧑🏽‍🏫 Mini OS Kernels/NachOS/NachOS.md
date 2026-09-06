@@ -71,8 +71,8 @@ https://icoty.github.io/categories/操作系统/
 
 
 ## Intro
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.02.00%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.02.00%20PM.png)
 
 
 

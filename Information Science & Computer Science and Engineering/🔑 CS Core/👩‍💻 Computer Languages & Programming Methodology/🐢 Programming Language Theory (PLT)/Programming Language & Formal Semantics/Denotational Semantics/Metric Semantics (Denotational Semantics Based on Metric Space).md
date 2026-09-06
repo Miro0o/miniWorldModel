@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Denotational Semantics](Denotational%20Semantics.md)
 
-↗ [Metric Spaces](../../../../../../🧮%20Mathematics/Topology/Point-set%20(General)%20Topology/Metric%20Spaces.md)
+↗ [Metric Spaces](../../../../../🧮%20Mathematics/Topology/Point-set%20%28General%29%20Topology/Metric%20Spaces.md)
 
 
 ### Other Resources

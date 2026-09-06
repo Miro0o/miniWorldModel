@@ -60,7 +60,7 @@ Current versions of the following operating systems have been certified to confo
 | [AIX](https://en.wikipedia.org/wiki/IBM_AIX)           | [EulerOS](https://en.wikipedia.org/wiki/EulerOS)   | [HP-UX](https://en.wikipedia.org/wiki/HP-UX)     | [INTEGRITY](https://en.wikipedia.org/wiki/Integrity_(operating_system)) | [macOS](https://en.wikipedia.org/wiki/MacOS) (since [10.5 Leopard](https://en.wikipedia.org/wiki/Mac_OS_X_Leopard)) |
 | [OpenServer](https://en.wikipedia.org/wiki/OpenServer) | [UnixWare](https://en.wikipedia.org/wiki/UnixWare) | [VxWorks](https://en.wikipedia.org/wiki/VxWorks) | [z/OS](https://en.wikipedia.org/wiki/Z/OS)                   |                                                              |
 
-![](../../../../../../Assets/Pics/400px-Diagram_of_Mac_OS_X_architecture.svg.png)
+![](../../../../../Assets/Pics/400px-Diagram_of_Mac_OS_X_architecture.svg.png)
 
 <small>OS X Architecture 'Darwin' and POSIX API. See more on <a>https://en.wikipedia.org/wiki/Architecture_of_macOS</a></small>
 #### Formerly POSIX Certified

@@ -1,6 +1,6 @@
 # [emgithub](https://emgithub.com)
 
-![Screenshot 2022-12-07 at 2.41.46 PM](../../../../../../../../../../Assets/Pics/Screenshot%202022-12-07%20at%202.41.46%20PM.png)
+![Screenshot 2022-12-07 at 2.41.46 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-07%20at%202.41.46%20PM.png)
 
 Embed a file from GitHub repository just like [GitHub Gist](https://gist.github.com/).
 

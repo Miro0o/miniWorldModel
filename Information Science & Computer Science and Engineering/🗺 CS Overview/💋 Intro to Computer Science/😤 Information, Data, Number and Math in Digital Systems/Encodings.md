@@ -27,7 +27,7 @@ Encoding, in an universal explanation, is the mapping between two sets.
 In CS, encoding in general maps a set of digits/value/character to another set of digits/value/character. 
 
 In fact, the classic cryptographic methods are all based on encoding methods. That's why encoding is brought up here as a part of the Cryptography.
-↗️ [Classic Cryptography](Classic Cryptography/Classic Cryptography.md).
+↗️ [Classic Cryptography](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Classic%20Cryptography/Classic%20Cryptography.md).
 
 
 ### Encoding 🆚 Encryption & Cryptography 🆚 Hashing

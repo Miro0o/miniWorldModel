@@ -215,7 +215,7 @@ Object-oriented Software Construction 2 ed
 
 Programming language theory (PLT) is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of formal languages known as programming languages. Programming language theory is closely related to other fields including mathematics, software engineering, and linguistics.
 
-![](../../../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
+![](../../../../Assets/Pics/Screenshot%202025-09-06%20at%2000.52.22.png)
 <small>【南京大学《软件分析》课程01（Introduction）】 <a>https://www.bilibili.com/video/BV1b7411K7P4</a></small>
 
 

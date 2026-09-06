@@ -21,7 +21,7 @@ The GNU Core Utilities are the basic file, shell and text manipulation utilities
 
 
 ## Intro
-![coreutils brought to you by the GNU project](../../../../../../../../Assets/Pics/GNU.png)
+![coreutils brought to you by the GNU project](../../../../../../Assets/Pics/GNU.png)
 
 
 ### Helpful background for code reading
@@ -77,7 +77,7 @@ Please note that we do not suggest using test versions of Coreutils for producti
 ## 🗺️ GNU `Coreutils` Overview
 ### Basic Design
 Most CLI utilities look something close to this:
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-10%20at%209.05.07%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-10%20at%209.05.07%20AM.png)
 
 The key ideas:
 - A setup phase for flags, options, localization, etc

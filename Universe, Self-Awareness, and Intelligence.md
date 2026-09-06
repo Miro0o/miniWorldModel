@@ -146,7 +146,7 @@ spencer lawrence
 > 
 > 当星空就是大地时，下图所展示的东西，乃是 “大地-家园-星空” 的一体，即“汉家”。这汉家天地是一个被“汉”所环绕的位置，它由月亮守护着——诗人，乃“汉”的守夜人。
 > 
-> ![](../../../../../../Assets/Pics/Pasted%20image%2020251120175506.png)
+> ![](Assets/Pics/Pasted%20image%2020251120175506.png)
 > <small><a>https://commons.wikimedia.org/wiki/File:Lit_up_night_sky_at_Miran_Jani.jpg</a></small>
 
 > [!quote]

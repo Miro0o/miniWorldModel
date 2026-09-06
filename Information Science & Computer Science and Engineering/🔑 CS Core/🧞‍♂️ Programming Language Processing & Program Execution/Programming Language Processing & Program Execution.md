@@ -73,7 +73,7 @@ hardware perspective:
 
 
 ## Phases in Programming Language Processing
-![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
+![](../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
 <small>src: CSAPP</small>
 
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
@@ -83,7 +83,7 @@ hardware perspective:
 <small>The process of compilation</small>
 
 
-![](../../../../Assets/Pics/5110EB1C-061B-4B6C-837B-2D52A41666B7_1_105_c.jpeg)
+![](../../../Assets/Pics/5110EB1C-061B-4B6C-837B-2D52A41666B7_1_105_c.jpeg)
 
 
 ### 0️⃣ Information, Computation, & Automation
@@ -171,9 +171,9 @@ Summary:
 ↗ [ISA /Instruction Basics](../👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20ISA%20Instruction%20Basics/ISA%20Instruction%20Basics.md)
 ↗ [ISA /Instruction Execution](🤡%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
 

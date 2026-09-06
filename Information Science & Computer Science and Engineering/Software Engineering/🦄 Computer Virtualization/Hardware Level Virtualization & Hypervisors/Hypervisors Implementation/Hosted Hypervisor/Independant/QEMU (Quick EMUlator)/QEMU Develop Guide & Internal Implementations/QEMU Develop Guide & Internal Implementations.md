@@ -29,7 +29,7 @@ QEMU is a large and mature project with a number of complex subsystems that can 
 ### QEMU Source Code Structure
 Qemu 软件虚拟化实现的思路是采用二进制指令翻译技术，主要是提取 guest 代码，然后将其翻译成 TCG 中间代码，最后再将中间代码翻译成 host 指定架构的代码，如 x86 体系就翻译成其支持的代码形式，ARM 架构同理。
 
-![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020231019202638.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020231019202638.png)
 
 所以，从宏观上看，源码结构主要包含以下几个部分：
 
@@ -39,7 +39,7 @@ Qemu 软件虚拟化实现的思路是采用二进制指令翻译技术，主要
 /tcg/arch/tcg-target.c：将 TCG 代码转化生成主机代码。
 /cpu-exec.c：主要寻找下一个二进制翻译代码块，如果没有找到就请求得到下一个代码块，并且操作生成的代码块。
 
-![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020231019202757.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020231019202757.png)
 
 
 

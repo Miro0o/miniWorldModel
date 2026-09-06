@@ -16,23 +16,23 @@
 
 ## Intro
 ### Definition of Bisimulation Relation
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2000.46.01.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2000.46.01.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2000.46.28.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2000.46.28.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Bisimulation
 
 
 ### Bisimulation Equivalence & Bisimilarity
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.00.43.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.00.43.png)
 #### Bisimulation Equivalence and Other Equivalence ...
 ##### 🆚 Trace Equivalence
 - Bisimulation equivalence implies trace equivalence:
-	- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.10.07.png)
+	- ![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.10.07.png)
 - But the converse doesn't hold!
 	- If T and T’ are trace equivalent (i.e. have the same traces) then it is not necessarily the case that T and T’ are bisimulation equivalent.
 ##### 🆚 CTL, CTL\* Equivalence
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.09.37.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.09.37.png)
 
 
 ### Properties of Bisimulation
@@ -56,7 +56,7 @@ In other words, R is an ↗ [Equivalence Relation](../../../../../🧮%20Mathema
 
 
 ## Computing Bisimulation of Single TS and Reducing Systems
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.20.03.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-14%20at%2001.20.03.png)
 
 
 ### Partition Refinement Algorithm
@@ -101,7 +101,7 @@ until fixpoint // break the loop if you reach a fix point
 
 > NOTE: efficient algorithms exist, which follow this idea but are smart in the refinement loop, to avoid duplicate checks.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.43.46.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.43.46.png)
 
 
 ### Bisimulation Quotient (R-Quotient) & Minimization Transition System
@@ -114,17 +114,17 @@ The labelling function $L’$ just takes the label of any state in the equivalen
 Transitions are lifted to equivalence classes $$\frac{s \to s'}{[s]\to'[s]}$$
 The set of initial states is the set of equivalence classes with at least one initial state $$I'
 = \{[s] ∣ s' \in I \text{ and } s' \in [s]\}$$
-![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.44.42.png)
+![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.44.42.png)
 
 
 More examples: 
 - Idea on **partition refinement for bisimilarity checking**:
 	- Consider T1 and T2 as one transition system
 	- Run partition refinement. If there is one isolated block with states from one TS only, then **not bisimilar!**
-- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.40.png)
-- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.49.png)
-- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.59.png)
-- ![](../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.51.10.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.40.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.49.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.50.59.png)
+- ![](../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.51.10.png)
 
 
 

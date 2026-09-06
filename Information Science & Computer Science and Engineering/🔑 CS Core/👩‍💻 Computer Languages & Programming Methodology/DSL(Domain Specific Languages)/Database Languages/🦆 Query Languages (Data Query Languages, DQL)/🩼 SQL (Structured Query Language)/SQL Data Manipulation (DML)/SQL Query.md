@@ -68,7 +68,7 @@ The five basic **search conditions** (or **predicates**, using the ISO terminolo
 
 ##### 1️⃣ Comparison
 **Comparison**: Compare the value of one expression to the value of another expression.
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%2011.21.42%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-14%20at%2011.21.42%20AM.png)
 
 ##### 2️⃣ Range
 **Range**: Test whether the value of an expression falls within a specified range of values.

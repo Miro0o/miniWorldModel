@@ -29,35 +29,35 @@ Every vendor of enterprise-class storage systems offers at least one type of RAI
 > NOTE: Higher RAID levels do not necessarily mean better RAID levels. It all depends upon the needs of the applications that use the disks.
 
 ### RAID Level 0 (RAID-0)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.31.05%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.31.05%20PM.png)
 
 
 ### RAID Level 1 (RAID-1)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.32.22%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.32.22%20PM.png)
 
 
 ### RAID Level 2 (RAID-2)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.33.07%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.33.07%20PM.png)
 
 
 ### RAID Level 3 (RAID-3)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.34.14%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.34.14%20PM.png)
 
 
 ### RAID Level 4 (RAID-4)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.34.56%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.34.56%20PM.png)
 
 
 ### RAID Level 5 (RAID-5)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.07%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.07%20PM.png)
 
 
 ### RAID Level 6 (RAID-6)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.20%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.20%20PM.png)
 
 
 ### RAID DP
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.30%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.35.30%20PM.png)
 
 - ﻿﻿Like RAID 6, RAID DP can tolerate the loss of two disks.
 - ﻿﻿The use of simple parity functions provides RAID DP with better performance than RAID 6.
@@ -92,11 +92,11 @@ We have chosen to retain the **“Berkeley” nomenclature** in this text becaus
 
 
 ## RAID Schemes Summary & Comparison
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%203.10.11%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%203.10.11%20PM.png)
 
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%204.10.40%20PM.png)
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%204.10.51%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%204.10.40%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-16%20at%204.10.51%20PM.png)
 
 
 ## Ref

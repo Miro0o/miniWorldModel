@@ -26,7 +26,7 @@ For most LANs (including Ethernet and 802.11 wireless LANs), the MAC address is 
 > ❗ It’s important to note, however, ==that **link-layer switches** do not have link-layer addresses associated with their interfaces that connect to hosts and routers==. This is because the job of the link-layer switch is to carry datagrams between hosts and routers; a switch does this job transparently, that is, without the host or router having to explicitly address the frame to the intervening switch.
 
 
-![|500](../../../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%2010.09.47%20AM.png)
+![|500](../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%2010.09.47%20AM.png)
 
 
 ### Property of MAC Address
@@ -63,7 +63,7 @@ Students often wonder if ARP is a link-layer protocol or a network-layer protoco
 
 ### 2️⃣ Inter-Subnet Link-Layer Addressing
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%2010.31.51%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-02%20at%2010.31.51%20AM.png)
 
 For host A (111.111.111.111) to communicate to host B (222.222.222.222), A sends its packages to router via link layer routing protocols (ARP, or others), router determines in its network layer which network to forward, and then within that network packages routes via link layer routing protocols (ARP, or others) till it get to the destination. 
 

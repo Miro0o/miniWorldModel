@@ -70,7 +70,7 @@ postscripts:
 4. 保存，重启。
 
 5. 打开mac网络配置可以看到新配置。
-   ![image](../../../../../../Assets/Pics/di6Zv2mw7bgtoNU.png)
+   ![image](../../../../Assets/Pics/di6Zv2mw7bgtoNU.png)
 
 
 
@@ -80,7 +80,7 @@ postscripts:
 Methods \#1: (directly connect to proxy process on the proxy server, simplest)
 	1. make sure your proxy server's firewall policy allows income traffic & outcome traffic for the proxy request
 	2. turn on the clash settings of "Allow connect from lan"
-![](../../../../../Assets/Pics/Screenshot%202023-08-29%20at%203.09.53%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-08-29%20at%203.09.53%20PM.png)
 	1. set your device's proxy destination as your proxy server's destination in the LAN
 
 

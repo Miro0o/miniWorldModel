@@ -65,7 +65,7 @@ K &= s_B^{\,r_A} \pmod p = (\alpha^{r_B} \pmod p)^{r_A} \pmod p \\
 如果攻击者窃听到了信道上的消息 $s_A$ 与 $s_B$，由于 $r_A$ 与 $r_B$ 是用户在通信时才产生的保密参数，这样，如果想获得通信密钥 $K$ 就必须求解离散对数问题，在素数很大时，这在计算上是不可行的。
 
 
-![|400](../../../../../../../../Assets/Pics/Screenshot%202024-10-01%20at%2012.39.20.png)
+![|400](../../../../../../../Assets/Pics/Screenshot%202024-10-01%20at%2012.39.20.png)
 
 
 ### Ephemeral and/or Static Keys &  DHE (Diffie-Hellman Ephemeral)
@@ -81,7 +81,7 @@ K &= s_B^{\,r_A} \pmod p = (\alpha^{r_B} \pmod p)^{r_A} \pmod p \\
 - DHE is an **active protocol**: Alice and Bob need to be online at the same time to exchange keys
 	- What if Bob wants to encrypt something and send it to Alice for her to read later?
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-10-01%20at%2012.45.04.png)
+![](../../../../../../../Assets/Pics/Screenshot%202024-10-01%20at%2012.45.04.png)
 
 > 📖 《应用密码学》
 > **刘嘉勇**，任德斌，方勇，胡勇，应用密码学（第2版）（“十一五”国家级规划教材），清华大学出版社，2014年11月
@@ -90,7 +90,7 @@ K &= s_B^{\,r_A} \pmod p = (\alpha^{r_B} \pmod p)^{r_A} \pmod p \\
 
 密钥协商协议应能同时鉴别参加者的身份，这种协议称为**鉴别密钥协商**。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%208.43.35%20AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%208.43.35%20AM.png)
 
 
 

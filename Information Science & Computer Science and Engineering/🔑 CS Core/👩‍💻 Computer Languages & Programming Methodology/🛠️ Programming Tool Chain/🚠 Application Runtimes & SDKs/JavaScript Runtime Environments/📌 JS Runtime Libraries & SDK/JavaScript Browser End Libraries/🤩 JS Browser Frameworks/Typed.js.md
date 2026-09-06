@@ -14,7 +14,7 @@ Typed.js is a library that types. Enter in any string, and watch it type at the 
 
 
 
-![Screenshot 2022-12-07 at 2.42.41 PM](../../../../../../Assets/Pics/Screenshot 2022-12-07 at 2.42.41 PM.png)
+![Screenshot 2022-12-07 at 2.42.41 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-07%20at%202.42.41%20PM.png)
 
 
 

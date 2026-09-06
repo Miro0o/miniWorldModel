@@ -338,9 +338,9 @@ For convenience, we write $s \xrightarrow[]{\alpha}s'$ instead of $(s,α,s') \in
 
 The labeling function $L$ relates a set $L(s) \in AP^2$ of atomic propositions to any state $s$. $L(s)$ intuitively stands for exactly those atomic propositions $a \in AP$ which are satisfied by state $s$. Given that $Φ$ is a propositional logic formula, then $s$ satisfies the formula $Φ$ if the evaluation induced by $L(s)$ makes the formula Φ true; that is: $s \models \Phi \iff L(s) \models \Phi$.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.33.15.png)
+![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.33.15.png)
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.34.43.png)
+![](../../../../../Assets/Pics/Screenshot%202025-09-23%20at%2018.34.43.png)
 <small><a>https://www.cs.cmu.edu/~emc/15414-f12/lecture/temporal_logics.pdf#page=1.00</a></small>
 #### Action Language
 [Action languages](https://en.wikipedia.org/wiki/Action_language "Action language") are extensions of transition systems, adding a set of _fluents_ _F_, a set of values _V_, and a function that maps _F_ × _S_ to _V_.
@@ -395,7 +395,7 @@ Computation trees can save the day!
 The successor of each state in the computation tree is the immediate successor of the state as it appears in the TS.
 A computation tree is the unfolding of the transition system.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-12-08%20at%2012.19.55.png)
+![](../../../../../Assets/Pics/Screenshot%202025-12-08%20at%2012.19.55.png)
 
 
 ### Composing Transition System
@@ -408,23 +408,23 @@ The transition system of the composition S1⊗S2 of two systems S1, S2 can be ob
 1. Build TS(S1) and TS(S2), then compose
 2. Build the composed TS directly from S1,S2
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.27.55.png)
+![](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.27.55.png)
 
 We will see 2 examples of (1): pure interleaving and action-synchronisation and 1 example of (2): concurrent threads with shared memory
 #### Interleaving & Synchronised Composition
 Interleaving composition of concurrent threads with shared memory: 
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.28.36.png)
-- ![](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.29.13.png)
+- ![](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.28.36.png)
+- ![](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.29.13.png)
 
 Formal semantics of the composition typically specified using operational semantics (common in programming languages).
 
 - Synchronised Composition of Transition Systems
-	- ![](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.29.29.png)
+	- ![](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.29.29.png)
 ##### Examples of TS Composition
-- ![|400](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.30.21.png)
-- ![|400](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.12.png)
-- ![|400](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.31.png)
-- ![|400](../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.44.png)
+- ![|400](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.30.21.png)
+- ![|400](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.12.png)
+- ![|400](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.31.png)
+- ![|400](../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2018.31.44.png)
 #### State Space Explosion
 In general, the size of the interleaving of n transition systems of m states each is $m^n$
 Synchronizations may reduce the size composition but the worstcase is still exponential in the number of components.
@@ -802,7 +802,7 @@ There is a program counter/instruction pointer (`RIP` in 64-bit mode), along wit
 
 https://sebastianraschka.com/llm-architecture-gallery/
 - This page collects architecture figures and fact sheets from [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison), [From GPT-2 to gpt-oss](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the), [From DeepSeek V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek), and [A Dream of Spring for Open-Weight LLMs](https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight), plus selected release posts or technical reports when a new architecture has not been covered in one of those articles yet. It focuses on the architecture panels only. Click a figure to enlarge it and use the model title to jump to the corresponding article section.
-- ![](../../../../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
+- ![](../../../../../Assets/Pics/Pasted%20image%2020260404215455.png)
 
 #### Multi-Agent Systems (MAS)
 ↗ [Agents & Multi-Agent System (MAS)](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Agents%20&%20Multi-Agent%20System%20(MAS)/Agents%20&%20Multi-Agent%20System%20(MAS).md)
@@ -826,7 +826,7 @@ https://sebastianraschka.com/llm-architecture-gallery/
 
 ↗ [Models of Communication & Cryptographic Protocols and Intruders](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders.md)
 - ↗ [Shannon–Weaver Model](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Information-Theoretic%20Models/Shannon–Weaver%20Model.md)
-	- ![](../../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
+	- ![](../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
 	- <small>The five essential parts of the Shannon–Weaver model: A source uses a transmitter to translate a message into a signal, which is sent through a channel and translated back by a receiver until it reaches its destination.</small>
 - ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 

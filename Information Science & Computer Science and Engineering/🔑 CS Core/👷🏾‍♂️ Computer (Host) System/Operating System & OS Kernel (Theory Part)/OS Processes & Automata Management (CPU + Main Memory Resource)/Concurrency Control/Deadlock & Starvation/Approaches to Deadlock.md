@@ -97,7 +97,7 @@ Deadlock avoidance, on the other hand, allows the three necessary conditions but
 
 #### 4️⃣-1️⃣ Process Initiation Denial
 Consider a system of n processes and m different types of resources. Let us define the following vectors and matrices:
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-13%20at%202.57.11%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-13%20at%202.57.11%20PM.png)
 
 The following relationships hold:
 $$1. \ R_j = V_j + \sum{A_{ij}} \ , \ \forall j$$
@@ -124,7 +124,7 @@ $$R_{ij} >= C_{(n+1)j} + \sum C_{ij} \ , \ \forall i,j$$
 > （1）系统在某一时刻的安全状态可能不唯一，但这不影响对系统安全性的判断。  
 > （2）安全状态是非死锁状态，而不安全状态并不一定是死锁状态。即系统处于安全状态一定可以避免死锁，而系统处于不安全状态则仅仅可能进入死锁状态。这里不安全状态是指有死锁路径出现，但是是否走到这条路径上取决于系统的动态选择。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%204.30.54%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%204.30.54%20PM.png)
 
 
 ##### STEP\#2: Decision-making
@@ -141,7 +141,7 @@ Deadlock avoidance has the advantage that it is not necessary to preempt and rol
 Deadlock prevention strategies are very conservative; they solve the problem of deadlock by limiting access to resources and by imposing restrictions on processes.
 
 ##### 🤔 Other Thoughts About Banker's Algorithm
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-20%20at%208.21.04%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-20%20at%208.21.04%20PM.png)
 
 
 

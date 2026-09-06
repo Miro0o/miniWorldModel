@@ -14,7 +14,7 @@ explainshell is **a tool (with a web interface)** capable of parsing man pages, 
 
 
 ## Intro
-![Screenshot 2022-12-10 at 8.15.14 PM](../../../../../../../../../Assets/Pics/Screenshot%202022-12-10%20at%208.15.14%20PM.png)
+![Screenshot 2022-12-10 at 8.15.14 PM](../../../../../../../Assets/Pics/Screenshot%202022-12-10%20at%208.15.14%20PM.png)
 
 ### How?
 explainshell is built from the following components:

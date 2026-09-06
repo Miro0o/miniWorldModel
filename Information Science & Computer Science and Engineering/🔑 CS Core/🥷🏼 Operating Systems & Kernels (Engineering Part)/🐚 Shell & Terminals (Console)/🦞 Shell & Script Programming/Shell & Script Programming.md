@@ -55,7 +55,7 @@ This document is herewith granted to the Public Domain. **No copyright!**
 > Shell 是一门把用户指令翻译成系统调用的编程语言。
 
 
-![|300](../../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
+![|300](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
 <small>终端、Shell、系统内核与用户的关系示意</small>
 
 终端自身并不执行用户输入的命令，它只是负责把输入的内容传送到主机系统，并把主机系统返回的结果呈现给用户。负责解释执行用户输入的命令并返回结果的，正是Shell！它是沟通用户和系统内核的中间桥梁。

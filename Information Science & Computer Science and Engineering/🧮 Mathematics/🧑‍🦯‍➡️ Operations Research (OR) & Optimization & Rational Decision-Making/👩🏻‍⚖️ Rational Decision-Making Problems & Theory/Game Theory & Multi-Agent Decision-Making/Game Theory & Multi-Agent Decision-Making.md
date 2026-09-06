@@ -132,14 +132,14 @@ General models that include all elements of stochastic outcomes, adversaries, an
 ## Ref
 [🎬 为什么国家之间不能好好合作？道理和“石头、剪刀、布”是一样的｜李永乐]: https://youtu.be/pzh-3A2jJ8k
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-02%20at%206.58.54%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-02%20at%206.58.54%20PM.png)
 国际上没有永远的敌人，也没有永远的朋友，有的只是收益矩阵和博弈论而已。
 
 [🎬 美元拍卖陷阱：巨头为什么不惜血本争夺市场？博弈论与纳什均衡（七）｜李永乐]: https://youtu.be/quempJpejvc
-![](../../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.06.28%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.06.28%20PM.png)
 
 [美女与男人的游戏：看似公平的收割方法。博弈论与纳什均衡（六）｜李永乐]: https://youtu.be/xkITc9KWH9I
-![](../../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.08.58%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.08.58%20PM.png)
 
 [田忌赛马：谋略能否弥补实力的差距？博弈论与纳什均衡（五）｜李永乐]: https://youtu.be/ug4gwrtkOF8
-![](../../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.13.15%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-02%20at%207.13.15%20PM.png)

@@ -21,7 +21,7 @@ Giscus is **a comments system powered by [GitHub Discussions](https://docs.githu
 
 - [Open source](https://github.com/giscus/giscus). 🌏
 - No tracking, no ads, always free. 📡 🚫
-- No database needed. All data is stored in GitHub Discussions. <img src="../../../../../Assets/Pics/octocat.png" alt=":octocat:" style="zoom:40%;" />
+- No database needed. All data is stored in GitHub Discussions. <img src="../../../../../../../Assets/Pics/octocat.png" alt=":octocat:" style="zoom:40%;" />
 - Supports [custom themes](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-theme)! 🌗
 - Supports [multiple languages](https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations). 🌐
 - [Extensively configurable](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md). 🔧

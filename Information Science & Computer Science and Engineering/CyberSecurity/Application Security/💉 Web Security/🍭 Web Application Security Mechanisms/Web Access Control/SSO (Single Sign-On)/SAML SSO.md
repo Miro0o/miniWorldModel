@@ -5,14 +5,14 @@
 
 
 ## Res
-↗ [SAML (Security Assertion Markup Language)](../../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Security%20DSL/SAML%20(Security%20Assertion%20Markup%20Language).md)
+↗ [SAML (Security Assertion Markup Language)](../../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL%28Domain%20Specific%20Languages%29/Security%20DSL/SAML%20%28Security%20Assertion%20Markup%20Language%29.md)
 
 
 
 ## Intro
 SAML Single Sign-On is a mechanism that leverages SAML allowing users to log on to multiple web applications after logging into the identity provider. As the user only has to log in once, SAML SSO provides a faster, seamless user experience.
 
-![iam](../../../../../../../../../Assets/Pics/iam.svg)
+![iam](../../../../../../../Assets/Pics/iam.svg)
 
 <small>SAML SSO</small>
 

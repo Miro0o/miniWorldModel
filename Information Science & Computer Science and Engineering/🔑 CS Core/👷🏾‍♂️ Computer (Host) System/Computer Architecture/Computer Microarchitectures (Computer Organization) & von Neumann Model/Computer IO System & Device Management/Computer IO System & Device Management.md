@@ -38,7 +38,7 @@ External devices that engage in I/O with computer systems can be roughly grouped
 2. **Machine readable**: Suitable for communicating with electronic equipment. Examples are disk drives, USB keys, sensors, controllers, and actuators.
 3. **Communication**: Suitable for communicating with remote devices. Examples are digital line drivers and modems.
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%202.56.06%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-05-25%20at%202.56.06%20PM.png)
 
 
 ### I/O Devices Metrics
@@ -82,7 +82,7 @@ We will define input/output as a subsystem of components that moves coded data b
 - **Interfaces** to external components such as keyboards and disks  
 - **Cabling or communications links** between the host system and its peripherals.
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-05-09%20at%202.21.48%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-05-09%20at%202.21.48%20PM.png)
 
 
 ### I/O Protocols

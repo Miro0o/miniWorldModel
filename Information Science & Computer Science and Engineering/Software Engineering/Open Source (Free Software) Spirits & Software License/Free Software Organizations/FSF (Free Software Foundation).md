@@ -77,7 +77,7 @@
 
 
 ## Intro
-![img](../../../../../../../Assets/Pics/logo-new.png)
+![img](../../../../Assets/Pics/logo-new.png)
 
 
 Free software means that the users have the freedom to [**run, edit, contribute to, and share**](https://www.gnu.org/philosophy/free-sw.html) the software. Thus, free software is a matter of liberty, not price. We have been defending the rights of all software users for the past 35 years. Help sustain us for many more; [**become an associate member today.**](https://my.fsf.org/join)

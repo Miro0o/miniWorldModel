@@ -18,15 +18,15 @@
 > 🔗 [深入浅出计算机网络 - 1.3 电路交换、分组交换和报文交换](https://www.bilibili.com/video/BV1LB4y1x7D9/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 
 ### 1️⃣ Circuit Switching (电路交换)
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.16.41%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.16.41%20AM.png)
 
 
 ### 2️⃣ Message Switching (报文交换)
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.16.22%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.16.22%20AM.png)
 
 
 ### 3️⃣ Packet Switching (Store-Forward Switching) (分组交换)
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.13.01%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.13.01%20AM.png)
 #### 3️⃣-1️⃣ Datagram Switching Network
 > Connection-less, UDP
 
@@ -39,7 +39,7 @@
 
 ### Summary
 #### Circuit Switching 🆚 Message Switching 🆚 Packet Switching 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%209.41.57%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-22%20at%209.41.57%20AM.png)
 #### Datagram Switching 🆚 VS Switching
 ##### Datagram Switching Pros & Cons
 **Advantages of Datagram Switching:**

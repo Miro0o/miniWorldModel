@@ -20,7 +20,7 @@
 
 
 ## Intro
-![Image result for groovy](../../../../../../../Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png)
+![Image result for groovy](../../../../../../Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Apache_Groovy
 > Groovy -- A multi-faceted language for the Java platform

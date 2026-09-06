@@ -10,7 +10,7 @@
 
 
 ## Intro
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.32.06%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.32.06%20PM.png)
 
 
 > 🔗 https://en.wikipedia.org/wiki/Access_control#Computer_security

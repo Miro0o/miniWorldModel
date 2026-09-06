@@ -302,4 +302,4 @@ CH correspondence可以看作是[Brouwer–Heyting–Kolmogorov interpretation](
 考虑到以上命题逻辑与类型之间的对应关系，我们可以说，[proofs as programs](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)。
 
 [LEAN4 入门（introduction） - Lin Mulikas的文章 - 知乎]:https://zhuanlan.zhihu.com/p/678954230
-![](../../../../../Assets/Pics/Pasted%20image%2020260109004002.png)
+![](../../../../Assets/Pics/Pasted%20image%2020260109004002.png)

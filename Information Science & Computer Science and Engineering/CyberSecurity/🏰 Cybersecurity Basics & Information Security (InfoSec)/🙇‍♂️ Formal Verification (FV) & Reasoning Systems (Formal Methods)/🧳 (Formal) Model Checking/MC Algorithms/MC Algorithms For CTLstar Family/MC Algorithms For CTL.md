@@ -21,7 +21,7 @@
 
 ### Global Model Checking Algorithm
 > [!TIP]
-> Recall: ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FComputation-Tree%20Logic%20(CTL*)%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FBranching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
+> Recall: ↗ [Computation-Tree Logic (CTL*) Family](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20%28模态逻辑%29/Temporal%20Logic%20%28时态逻辑%29/Computation-Tree%20Logic%20%28CTLstar%29%20Family/Computation-Tree%20Logic%20%28CTLstar%29%20Family.md) & ↗ [Branching Time Logic (Computation-Tree Logic, CTL)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Modal%20Logic%20(模态逻辑)/Temporal%20Logic%20(时态逻辑)/Computation-Tree%20Logic%20%28CTLstar%29%20Family%2FBranching%20Time%20Logic%20(Computation-Tree%20Logic,%20CTL).md)
 > 
 > 1. The ECTL syntax ("flattened") of CTL:
 > $\phi ::= true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ \exists\bigcirc\phi ∣ \exists\Box\phi ∣ \exists\phi_1\cup\phi_2$
@@ -73,7 +73,7 @@ sat(E(phi1 AND phi2)) = ...
 Hence, invoking `sat(phi)` will recursively compute the satisfaction sets for all sub-formulas of `phi`. We can think of satisfaction sets being computed bottom-up on the parse tree of `phi`:
 - ↗ [AST & CST (Abstract & Contrete Syntax Tree)](../../../../../../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/1️⃣%20Frontend%20-%20Programming%20Language%20Analysis/Syntactic%20Analysis%20(Parsing)/AST%20&%20CST%20(Abstract%20&%20Contrete%20Syntax%20Tree).md)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.20.40.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.20.40.png)
 
 We can apply **memoisation** (recall ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)) to avoid recomputing twice the same satisfaction sets. How?
 - Store results of expensive function calls in a table (hashing)
@@ -83,7 +83,7 @@ We will see that for the first several case, implementation of $sat(\phi)$ is ea
 
 
 ### MC Algorithms For Basic Cases
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.31.29.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-13%20at%2023.31.29.png)
 
 Assume function $Post(s) = 2^s$ represent all the immediate successors of state $S$.
 $sat(\exists\bigcirc\phi) = sat(EX\phi) = \{s\in S | Post(s) \land sat(\phi) \neq \emptyset\}$
@@ -110,17 +110,17 @@ For the ECTL $\phi : := true ∣ p ∣ \neg\phi ∣ \phi_1\lor\phi_2 ∣ EX(\phi
 
 ### Fixed-Point Computation for EU and EG
 > [!link]
-> ↗ [Function & Mapping of Set](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
+> ↗ [Function & Mapping of Set](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/Function%20&%20Mapping%20of%20Set/Function%20&%20Mapping%20of%20Set.md)
 > ↗ [Lattice (Order Theory)](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/🛒%20Set%20Theory%20&%20Axiomatic%20Set%20Theory/👬%20Relation%20&%20Relation%20Theory/Partial%20Order%20&%20Order%20Theory/Lattice%20(Order%20Theory)/Lattice%20(Order%20Theory).md)
-> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
+> ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/😶‍🌫️%20Theory%20of%20Computation/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20%28Recursion%29%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
 #### EU
 ##### MC Algorithms For EF
 Before we see the algorithm or EU let us first look at the **simplest case** of EF.
 Remember the expansion law for EF: $∃\Diamond\phi ≡ \exists true\cup\phi$
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.54.29.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.54.29.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.09.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.09.png)
 
 Algorithm for EF:
 ```js
@@ -135,7 +135,7 @@ while W ≠ ∅ do
 return T;
 ```
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.47.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.56.47.png)
 ##### MC Algorithms For EU
 Expansion law for EU $$\exists\phi_1\cup\phi_2 ≡ \phi_2\lor(\phi_1\land\exists\bigcirc\exists\phi_1\cup\phi_2)$$
 Provides a recursive definition of sat: 
@@ -146,10 +146,10 @@ $$\begin{aligned}sat( ∃ϕ1𝖴ϕ2) & ≡ sat(ϕ2 ∨ (ϕ1 ∧ ∃◯ ∃ϕ1�
 & ≡ sat(ϕ2) ∪ {s ∈ sat(ϕ1) ∣ Post(s) ∩ sat( ∃ϕ1𝖴ϕ2) ≠ ∅}
 \end{aligned}$$
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.13.38.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.13.38.png)
 (what if post(s) is always s from sat(phi1), i.e. the path is phi1.... to the infinity? )
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.20.38.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.20.38.png)
 
 Algorithm for EU: 
 ```js
@@ -164,7 +164,7 @@ while W ≠ ∅ do
 return T;
 ```
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.57.32.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-25%20at%2013.57.32.png)
 #### MC Algorithms For EG
 Expansion law for EG: $$∃ □ ϕ ≡ ϕ ∧ ∃◯ ∃ □ ϕ$$
 Provides a recursive definition of sat
@@ -179,9 +179,9 @@ sat( ∃ □ ϕ) & ≡ sat(ϕ ∧ ∃◯ ∃ □ ϕ) \\
 & (\text{sat(phi) is a subset of S)}
 \end{aligned}$$
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.21.42.png)
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.17.png)
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.30.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.21.42.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.17.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.30.png)
 
 Algorithm for EG:
 ```js
@@ -196,7 +196,7 @@ while W ≠ ∅ do
 return T;
 ```
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.51.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-10-23%20at%2015.22.51.png)
 #### Overall Algorithm Complexity
 The overall complexity is linear in the size of the transition system and the formula.
 
@@ -208,15 +208,15 @@ Idea:
 
 
 ### Algorithms Implementation Examples
-![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.07.png)
-- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.20.png)
+![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.07.png)
+- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.20.png)
 - Exercise 2 
-	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.35.png)
-	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.53.png)
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.35.png)
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.19.53.png)
 - Exercise 3
-	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.27.25.png)
-	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.28.57.png)
-	- ![](../../../../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.29.10.png)
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.27.25.png)
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.28.57.png)
+	- ![](../../../../../../../Assets/Pics/Screenshot%202025-12-11%20at%2022.29.10.png)
 
 
 

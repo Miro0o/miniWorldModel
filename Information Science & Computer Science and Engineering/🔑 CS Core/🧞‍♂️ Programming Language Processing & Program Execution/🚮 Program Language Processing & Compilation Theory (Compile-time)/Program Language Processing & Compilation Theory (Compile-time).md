@@ -63,8 +63,8 @@ Steven S.Muchnick
 ![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 
-![img](../../../../../../Assets/Pics/v2-e5db6f0744ca512453bc3e30d5daa8ed_1440w.webp)
-![img](../../../../../Assets/Pics/v2-021c8f16065c41abc2229967c3dbf1b2_1440w.webp)
+![img](../../../../Assets/Pics/v2-e5db6f0744ca512453bc3e30d5daa8ed_1440w.webp)
+![img](../../../../Assets/Pics/v2-021c8f16065c41abc2229967c3dbf1b2_1440w.webp)
 <small>The process of NLP</small>
 
 > 🔗 https://courses.compute.dtu.dk/02247/f26/overview.html#sec-tools-prog-lang
@@ -157,7 +157,7 @@ However, there are some important reasons why programmers need to understand how
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Application Execution and Computer Data Flow</small>
 
-![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-10-13%20at%2012.54.00PM.png)
 <small>CSAPP. An example of C compilation process.</small>
 
 Although the machine we presented is quite different from a real machine, the assembly process we described is not. Virtually every assembler in use today passes twice through the source code. The first pass assembles as much code as it can, while building a symbol table; the second pass completes the binary instructions using address values retrieved from the symbol table built during the first pass.

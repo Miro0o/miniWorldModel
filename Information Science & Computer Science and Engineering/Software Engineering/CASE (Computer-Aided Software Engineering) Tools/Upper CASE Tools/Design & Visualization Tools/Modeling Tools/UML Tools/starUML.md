@@ -12,7 +12,7 @@
 
 
 ## Intro
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-07%20at%2010.53.09%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-07%20at%2010.53.09%20PM.png)
 
 
 StarUML is a sophisticated software modeler aimed to support *agile* and *concise* modeling.

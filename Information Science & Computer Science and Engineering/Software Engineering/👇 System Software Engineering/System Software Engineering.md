@@ -31,10 +31,10 @@
 
 
 ## Intro: System Level Programming Abstraction
-![](../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
 
-![[../../../../../../../Assets/Pics/os X archi.jpeg]]
+![[../../../Assets/Pics/os X archi.jpeg]]
 <small>MacOS Architecture</small>
 
 
@@ -62,11 +62,11 @@
 ##### RAM
 ##### ROM with BIOS
 ##### RAM on the Interface Card
-![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.01%20AM.png)
 
 
 ### Memory Address Space
-![](../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
 
 
 

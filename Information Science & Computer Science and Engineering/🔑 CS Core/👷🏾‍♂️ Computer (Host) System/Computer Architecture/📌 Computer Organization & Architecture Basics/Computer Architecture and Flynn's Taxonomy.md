@@ -10,7 +10,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230304154759.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230304154759.png)
 <small>Flynn's Taxonomy of Computer Architectures</small>
 
 > 🔗 Further reading: 
@@ -20,14 +20,14 @@
 
 
 ## 1️⃣ SISD (Single Instruction, Single Data)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230304155503.png)
 
 > 早期的**冯·诺依曼结构**采用的都是SISD，冯·诺依曼结构也称**存储程序计算机**，它有两个重要特性：1. 指令和数据被存储在内存中；2. 指令被顺序执行，在一个时刻只有一条指令在执行，通过PC（Program Counter）识别当前指令。
 
 
 
 ## 2️⃣ SIMD (Single Instruction, Multiple Data)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230304155409.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230304155409.png)
 
 > SIMD 就是单指令多数据的缩写，将一个指令广播到多个处理器上，但每个处理器都有自己的数据。也就是说同一份控制指令同时运行不同的数据，如上图所示，这样做的好处就是减轻的控制成本。目前，GPUs(Graphics Processor Units)采用的就是SIMD架构。
 
@@ -47,7 +47,7 @@ Not implemented.
 
 
 ## 4️⃣ MIMD (Multiple Instruction, Multiple Data)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230304155426.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230304155426.png)
 
 > MIMD指的是不同时刻不同CPU执行的指令不同，并且数据也不同，如上图所示。目前超级计算机，网络并行计算机集群和“网格”，多处理器SMP计算机，多核PC都属于这一类。而MIMD又可以根据内存结构，可以分为**共享内存和消息驱动**。共享内存就是处理器之间共享内存，通过内存来进行通信，而消息驱动指的是处理器通过消息驱动来进行通信。目前**共享内存有SMP、NUMA两种，消息驱动对应DM**。
 

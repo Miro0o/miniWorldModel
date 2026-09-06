@@ -316,12 +316,12 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 > 
 > ↗ [Non-von Neumann Based Microarchitectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
-![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer Architecture Hierarchy</small>
 
 
 ---
-![](../../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)
 
 **Level 6: The User Level(用户层）**
 - ﻿﻿Program execution and user interface level.
@@ -358,7 +358,7 @@ WPS被唤醒后处在运行状态。发现操作系统传过来的数据是个�
 ---
 > 🔗 https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA
 
-![|400](../../../../../Assets/Pics/Pasted%20image%2020251029105404.png)
+![|400](../../../../Assets/Pics/Pasted%20image%2020251029105404.png)
 
 图[1.1](https://foxsen.github.io/archbase/%E5%BC%95%E8%A8%80.html#fig:hierarchy1)给出了常见通用计算机系统的结构层次图。该图把计算机系统分成应用程序、操作系统、硬件系统、晶体管四个大的层次。注意把这四个层次联系起来的三个界面。第一个界面是应用程序编程接口API（Application Programming Interface），也可以称作“操作系统的指令系统”，介于应用程序和操作系统之间。API是应用程序的高级语言编程接口，在编写程序的源代码时使用。常见的API包括C语言、Fortran语言、Java语言、JavaScript语言接口以及OpenGL图形编程接口等。使用一种API编写的应用程序经重新编译后可以在支持该API的不同计算机上运行。所有应用程序都是通过API编出来的，在IT产业，谁控制了API谁就控制了生态，API做得好，APP（Application）就多。API是建生态的起点。第二个界面是指令系统ISA（Instruction Set Architecture），介于操作系统和硬件系统之间。常见的指令系统包括X86、ARM、MIPS、RISC-V和LoongArch等。指令系统是实现目标码兼容的关键，由于IT产业的主要应用都是通过目标码的形态发布的，因此ISA是软件兼容的关键，是生态建设的终点。指令系统除了实现加减乘除等操作的指令外，还包括系统状态的切换、地址空间的安排、寄存器的设置、中断的传递等运行时环境的内容。第三个界面是工艺模型，介于硬件系统与晶体管之间。工艺模型是芯片生产厂家提供给芯片设计者的界面，除了表达晶体管和连线等基本参数的SPICE（Simulation Program with Integrated Circuit Emphasis）模型外，该工艺所能提供的各种IP也非常重要，如实现PCIE接口的物理层（简称PHY）等。
 

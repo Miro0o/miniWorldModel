@@ -34,7 +34,7 @@ https://www.xjimmy.com/openstack-5min
 
 
 ## Intro
-![|200](../../../../../../../Assets/Pics/Pasted%20image%2020230308140123.png)
+![|200](../../../../../Assets/Pics/Pasted%20image%2020230308140123.png)
 
 OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms.
 Beyond standard infrastructure-as-a-service functionality, additional components provide orchestration, fault management and service management amongst other services to ensure high availability of user applications.
@@ -56,7 +56,7 @@ Beyond standard infrastructure-as-a-service functionality, additional components
 
 
 ## OpenStack Organization &  Architecture
-![](../../../../../../Assets/Pics/Pasted%20image%2020240427154740.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240427154740.png)
 <small>https://www.openstack.org/software/</small>
 
 ↗ [OpenStack Components](OpenStack%20Components/OpenStack%20Components.md)

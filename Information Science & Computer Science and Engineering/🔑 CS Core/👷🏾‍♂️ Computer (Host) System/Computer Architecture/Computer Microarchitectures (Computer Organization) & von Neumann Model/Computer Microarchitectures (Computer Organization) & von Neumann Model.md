@@ -152,10 +152,10 @@ Today’s version of the **stored-program machine architecture (von neumann mode
 > 3. CPU 分支预测
 > 4. 将存储器集成到 CPU 芯片内部，以减少内存访问（SoC 芯片）
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 
 The term "von Neumann architecture" has evolved to refer to any **stored-program computer** in which an **instruction fetch** and a **data operation** cannot occur at the same time (since they share a common bus). This is referred to as the [von Neumann bottleneck](https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck), which often limits the performance of the corresponding system
 
@@ -206,7 +206,7 @@ To list a few:
 
 
 ### Hierarchical Storage 
-![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 <small>Simplified Computer Memory Hierarchy </small>
 
 

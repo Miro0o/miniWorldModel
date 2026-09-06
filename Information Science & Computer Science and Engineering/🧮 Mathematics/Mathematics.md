@@ -245,7 +245,7 @@ At the end of the 19th century, the [foundational crisis in mathematics](https:
 ![](../../Assets/Pics/Screenshot%202025-07-07%20at%2012.41.18.png)
 <small>【这是一份用代码画出的数学的地图【系列预告】】 <a>https://www.bilibili.com/video/BV1ex4y1r7tA/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</a><br>LEAN language, mathlib4 <a>https://github.com/leanprover-community/mathlib4</a></small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+![](../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
@@ -489,12 +489,12 @@ Sometimes, a set is endowed with more than one feature simultaneously, which all
 [Mappings](https://en.wikipedia.org/wiki/Map_(mathematics)) between sets which preserve structures (i.e., structures in the [domain](https://en.wikipedia.org/wiki/Domain_of_a_function) are mapped to equivalent structures in the [codomain](https://en.wikipedia.org/wiki/Codomain)) are of special interest in many fields of mathematics. Examples are [homomorphisms](https://en.wikipedia.org/wiki/Homomorphism), which preserve algebraic structures; [homeomorphisms](https://en.wikipedia.org/wiki/Homeomorphism), which preserve topological structures; and [diffeomorphisms](https://en.wikipedia.org/wiki/Diffeomorphism), which preserve differential structures.
 
 
-![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+![](../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>
 
-![Screenshot 2022-11-10 at 11.04.56 PM](../../../Assets/Pics/Screenshot%202022-11-10%20at%2011.04.56%20PM-8092713.png)
+![Screenshot 2022-11-10 at 11.04.56 PM](../../Assets/Pics/Screenshot%202022-11-10%20at%2011.04.56%20PM-8092713.png)
 
 
 ### History and Development of Math

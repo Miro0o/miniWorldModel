@@ -59,7 +59,7 @@ https://www.numbeo.com/
 
 
 ### Human History
-↗ [Human History](../../../../📜%20Human%20History/Human%20History.md)
+↗ [Human History](../../../📜%20Human%20History/Human%20History.md)
 
 
 ### Human Demography
@@ -163,11 +163,11 @@ Many recent satellite image-based sources identify China's Pearl River Delta (an
 ↗ [United States 🇺🇸](Countries%20Overview/America/United%20States%20🇺🇸/United%20States%20🇺🇸.md)
 
 ↗ [U.S. Military Forces](Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/🔫%20U.S.%20Military%20Forces/U.S.%20Military%20Forces.md)
-- ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020250723012631.png)
+- ![](../../../../Assets/Pics/Pasted%20image%2020250723012631.png)
 
 ↗ [U.S. Economics](Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/U.S.%20Economics.md)
 - ↗ [The Federal Reserve System (Fed)](Countries%20Overview/America/United%20States%20🇺🇸/🦅%20U.S.%20Politics%20&%20Parties/U.S.%20Government/U.S.%20Federal%20Government/The%20Federal%20Reserve%20System%20(Fed).md)
-	- ![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020260104130722.png)
+	- ![](../../../../Assets/Pics/Pasted%20image%2020260104130722.png)
 - ↗ [U.S. Cultures & Entertainment Industry](Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Cultures%20&%20Entertainment%20Industry.md)
 	- ↗ [U.S. Mass Media Industry](Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Cultures%20&%20Entertainment%20Industry/U.S.%20Mass%20Media%20Industry/U.S.%20Mass%20Media%20Industry.md)
 - ↗ [U.S. Finance Industry](Countries%20Overview/America/United%20States%20🇺🇸/🚀%20U.S.%20Social%20Development%20Overviews/U.S.%20Economics/📌%20U.S.%20Tertiary%20Economical%20Sector/U.S.%20Finance%20Industry/U.S.%20Finance%20Industry.md)

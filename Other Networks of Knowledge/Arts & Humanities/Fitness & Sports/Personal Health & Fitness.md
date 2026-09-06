@@ -40,11 +40,11 @@ METs are used to estimate how many calories are burned during many common physic
 ### Musculature Anatomy
 > ↗ [Muscular System](../../Science%20&%20Application/Natural%20Science%20&%20Engineering%20and%20Technology/Applied%20Science/☯️%20Health%20Sciences%20and%20Medicine/Human%20Body%20(Organ)%20System/Muscular%20System/Muscular%20System.md)
 
-![](../../../../Assets/Pics/Pasted%20image%2020250301160954.png)
+![](../../../Assets/Pics/Pasted%20image%2020250301160954.png)
 
 ![pdfcoffee.com_anatomyofexercisepdf-pdf-free](../../../Assets/Cheat_Sheets/pdfcoffee.com_anatomyofexercisepdf-pdf-free.pdf)
 
-![](../../../../Assets/Pics/Pasted%20image%2020250301161808.png)
+![](../../../Assets/Pics/Pasted%20image%2020250301161808.png)
 
 
 ### 🥸 How do people gain or loose fat & muscle?
@@ -68,10 +68,10 @@ METs are used to estimate how many calories are burned during many common physic
 ![](../../../Assets/Pics/Screenshot%202025-07-10%20at%2017.02.59.png)
 - 目标增肌：传统的先力量再有氧 -- 利于肌肉组间恢复，提高力量强度
 - 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.33.23.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.33.23.png)
 <small>84 【减脂成功365天后，他的身体发生了什么变化! - 帅soserious | 小红书 - 你的生活指南】 😆 JQonOYw5VHZfxtO 😆 <a>https://www.xiaohongshu.com/discovery/item/674592760000000002038c5e?source=webshare&xhsshare=pc_web&xsec_token=ABs963PAgX3_x7SxNAQ8aBl0XsneLOv8qn7s-FkL9fIsI=&xsec_source=pc_share</a></small>
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.34.41.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.34.41.png)
 <small>84 【减脂成功365天后，他的身体发生了什么变化! - 帅soserious | 小红书 - 你的生活指南】 😆 JQonOYw5VHZfxtO 😆 <a>https://www.xiaohongshu.com/discovery/item/674592760000000002038c5e?source=webshare&xhsshare=pc_web&xsec_token=ABs963PAgX3_x7SxNAQ8aBl0XsneLOv8qn7s-FkL9fIsI=&xsec_source=pc_share</a></small>
 
 
@@ -115,7 +115,7 @@ METs are used to estimate how many calories are burned during many common physic
 | 拖拽式弯举  | 3 x 15      |
 | 集中式弯举  | 3 x 15      |
 | 身前垂式弯举 | 3 x 15 （每边） |
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.14.21.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.14.21.png)
 #### Triceps
 肱三头肌增大训练
 
@@ -126,14 +126,14 @@ METs are used to estimate how many calories are burned during many common physic
 | 绳索下压     | 3 x 15  |
 | 钻石俯卧撑    | 3 x 15  |
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.20.23.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.20.23.png)
 
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.21.56.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.21.56.png)
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.51.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.51.png)
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.55.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2015.22.55.png)
 #### Forearms
 
 
@@ -190,10 +190,10 @@ METs are used to estimate how many calories are burned during many common physic
 6. 力量训练薄弱肌群
 
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.22.49.png)
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.13.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.22.49.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.13.png)
 
-![](../../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.33.png)
+![](../../../Assets/Pics/Screenshot%202025-03-01%20at%2018.23.33.png)
 
 
 

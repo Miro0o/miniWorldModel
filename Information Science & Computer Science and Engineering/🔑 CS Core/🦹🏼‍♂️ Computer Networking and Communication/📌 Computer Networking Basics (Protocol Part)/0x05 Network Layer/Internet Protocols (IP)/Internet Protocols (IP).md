@@ -21,11 +21,11 @@
 
 
 ### IPv4 Header 🆚 IPv6 Header
-![](../../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
+![](../../../../../../Assets/Pics/technologies_white_paper0900aecd8054d37d-03.jpg)
 <small>IPv4 vs IPv6</small>
 
 
-![IPv6 features](../../../../../../../Assets/Pics/image44.png)
+![IPv6 features](../../../../../../Assets/Pics/image44.png)
 <small>IPv4 vs IPv6</small>
 
 
@@ -33,7 +33,7 @@
 ## IP Address & IP Addressing
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.08.49%20AM.png)
 
-![Screenshot 2022-11-20 at 1.00.50 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.00.50%20PM.png)
+![Screenshot 2022-11-20 at 1.00.50 PM](../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%201.00.50%20PM.png)
 
 
 ### 🎰 Limited IP Address & Addressing

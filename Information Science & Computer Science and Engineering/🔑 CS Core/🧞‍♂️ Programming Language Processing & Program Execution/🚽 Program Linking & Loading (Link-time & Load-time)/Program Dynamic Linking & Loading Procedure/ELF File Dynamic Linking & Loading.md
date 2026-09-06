@@ -161,7 +161,7 @@ The `jmp *0x8049ffc` performs an indirect jmp into the third GOT entry, `GOT[
 
 
 ## Relocation
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020250329183514.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020250329183514.png)
 <small><a>https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779</a></small>
 
 

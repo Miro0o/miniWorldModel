@@ -8,11 +8,11 @@
 ### Related Topics
 ↗ [Cryptology & Secure Communication](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - ↗ [Cryptography](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
-- ↗ [Key Management](../../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
+- ↗ [Key Management](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev%28Sec%29Ops%20%28Application%20Level%20Engineering%29/🛬%20Continuous%20Delivery/Provisioning/Key%20Management/Key%20Management.md)
 	- ↗ [Key Distribution (one-to-many)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/🚛%20Key%20Distribution%20(one-to-many)/Key%20Distribution%20(one-to-many).md)
 	- ↗ [Key Agreement, Transport, and Exchange (one-to-one)](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Algorithms%20&%20Protocols/👥%20Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one)/Key%20Agreement,%20Transport,%20and%20Exchange%20(one-to-one).md)
 
-↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Mathematical%20Logic%20(Foundations%20of%20Mathematics).md)
+↗ [Mathematical Logic (Foundations of Mathematics)](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29.md)
 ↗ [Formal System, Formal Logic, and Its Semantics](../../../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/📍%20Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics/Formal%20System,%20Formal%20Logic,%20and%20Its%20Semantics.md)
 
 ↗ [Security Protocols & Cryptographic Verification](../../../../../../🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🙇‍♂️%20Formal%20Verification%20(FV)%20&%20Reasoning%20Systems%20(Formal%20Methods)/Security%20Protocols%20&%20Cryptographic%20Verification/Security%20Protocols%20&%20Cryptographic%20Verification.md)
@@ -26,9 +26,9 @@
 
 
 ## Intro
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.01.08PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.01.08PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.47PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.47PM.png)
 
 
 ### Proof of Knowledge
@@ -64,17 +64,17 @@ Generally, for certificate-based authentication, the system will generate a digi
 
 
 ### One-direction Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
 
 
 ### Mutual Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.12PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.12PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.19PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.19PM.png)
 
 
 
@@ -98,20 +98,20 @@ Token-based authentication is a process in which users identify with unique toke
 
 ### Authentication Without Trusted Third Party
 #### On-direction Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.36PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.36PM.png)
 
 #### Mutual Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
 
 
 ### Authentication via Trusted Third Party (Mutual Authentication)
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.23PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.23PM.png)
 
 
 
@@ -123,15 +123,15 @@ Token-based authentication is a process in which users identify with unique toke
 
 
 ### One-direction Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
 
 
 ### Mutual Authentication
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.31PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.31PM.png)
 
 
 

@@ -136,7 +136,7 @@ Data Warehouses (OLAP):
 
 
 ## Database System in a Nutshell
-![](../../../../../Assets/Pics/Pasted%20image%2020240228232633.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240228232633.png)
 
 
 ### Database System Concepts & Overview
@@ -147,7 +147,7 @@ Data Warehouses (OLAP):
 
 ### Database System Environment ⭐
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.44.56%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.44.56%20PM.png)
 
 #### View - Schema - Model
 View: A view is essentially some subset of the database (tables)
@@ -157,9 +157,9 @@ Model: A model is the schema of a set of schemas 👆🏻
 > [!links]
 > ↗ [Data Integration](../../../Information%20Systems%20&%20System%20Architecture%20Design/👨🏻‍🔧%20System%20Modeling%20&%20Integration/Data%20Integration/Data%20Integration.md)
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.34.58%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.34.58%20PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.38.41%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%204.38.41%20PM.png)
 ##### 1️⃣ Internal Level
 Internal Level
 - Physical representation of the database on the computer
@@ -210,7 +210,7 @@ Physical Design
 > [!links]
 > ↗ [DBMS (DataBase Management System) Implementations](Database%20System%20Implementation%20&%20Deployment%20&%20Maintenance/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
 
-![](../../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202023-02-27%20at%205.44.00%20PM.png)
 <small>DBMS's Hierarchical Architecture (SQL & Relational datamodel as an example)</small>
 
 #### Database

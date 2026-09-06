@@ -22,7 +22,7 @@ Other useful resources:
 
 
 ## Intro
-![|150](../../../../../../../../../Assets/Pics/scapy_logo.png)
+![|150](../../../../../../../../Assets/Pics/scapy_logo.png)
 
 
 Scapy is a powerful Python-based interactive packet manipulation program and library.

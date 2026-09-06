@@ -26,7 +26,7 @@ ECC is therefore applied
 
 
 ## 🔎 Major Types of ECC
-![Screenshot 2023-01-12 at 4.38.46 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.38.46%20PM.png)
+![Screenshot 2023-01-12 at 4.38.46 PM](../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.38.46%20PM.png)
 
 ### 1️⃣ Block Codes
 > 🔗 [block codes](https://en.wikipedia.org/wiki/Block_code)

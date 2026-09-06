@@ -100,4 +100,4 @@ Modules are very closely related to the [representation theory](https://en.wiki
 27 【向量内积背后竟然藏着宇宙的对称性？ - 漫士沉思录 | 小红书 - 你的生活兴趣社区】 😆 PwTPtgQWyQCsmsW 😆 https://www.xiaohongshu.com/discovery/item/678f2a3200000000180188ca?source=webshare&xhsshare=pc_web&xsec_token=ABaB3PyooAAQEmuaKVKeM8TpKbV22Ush6Eo8SX9b5v0y0=&xsec_source=pc_share
 
 [Linear algebra concept maps]: https://minireference.com/blog/linear-algebra-concept-maps/
-![linear_algebra_page1](../../../../../../Assets/Cheat_Sheets/linear_algebra_page1.pdf)
+![linear_algebra_page1](../../../../../Assets/Cheat_Sheets/linear_algebra_page1.pdf)

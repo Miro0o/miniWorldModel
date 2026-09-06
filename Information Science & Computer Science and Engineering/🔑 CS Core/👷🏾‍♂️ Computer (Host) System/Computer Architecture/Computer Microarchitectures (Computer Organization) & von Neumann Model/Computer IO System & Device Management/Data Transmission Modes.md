@@ -10,7 +10,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%206.27.21%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%206.27.21%20PM.png)
 
 
 ## Parallel Data Transmission

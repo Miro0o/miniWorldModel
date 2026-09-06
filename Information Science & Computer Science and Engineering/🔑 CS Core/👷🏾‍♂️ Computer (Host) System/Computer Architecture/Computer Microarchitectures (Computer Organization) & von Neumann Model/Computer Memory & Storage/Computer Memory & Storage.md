@@ -60,7 +60,7 @@ The way out of the above dilemma is to not rely on a single memory component or 
 3.  Increasing access time
 4.  Decreasing frequency of access to the memory by the processor
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230301122408.png)
 <small>Simplified Computer Memory Hierarchy </small>
 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.

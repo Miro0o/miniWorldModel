@@ -46,7 +46,7 @@ The gitter can also be accessed via IRC [https://irc.gitter.im/](https://irc.gi
 
 
 ## Intro
-![](../../../../../../../../Assets/Pics/tpm2_stack.svg)
+![](../../../../../../../Assets/Pics/tpm2_stack.svg)
 
 <small>TPM2 Software Stack</small>
 

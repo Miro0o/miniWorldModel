@@ -157,9 +157,9 @@ The Wikimedia Foundation was established in 2003 in St. Petersburg, Florida by [
 
 The Foundation has grown rapidly throughout its existence. As of December 31, 2023, it has employed over 700 staff and contractors, with annual revenues of $180.2 million, annual expenses of $169 million, net assets of $255 million and a growing endowment, which surpassed $100 million in June 2021.
 
-![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%201.00.18%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-06-17%20at%201.00.18%20PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%201.00.40%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-06-17%20at%201.00.40%20PM.png)
 
 
 ### 🌸 MediaWiki Software
@@ -212,12 +212,12 @@ Wikidata also provides support to many other sites and services beyond just Wiki
 ### 👉 Stack Exchange Network
 🏠 https://en.wikipedia.org/wiki/Stack_Exchange
 
-![|300](../../../../../Assets/Pics/Pasted%20image%2020230313093439.png)
+![|300](../../../../Assets/Pics/Pasted%20image%2020230313093439.png)
 
 
 
 #### StackOverflow
-![|300](../../../../../Assets/Pics/Pasted%20image%2020230313093619.png)
+![|300](../../../../Assets/Pics/Pasted%20image%2020230313093619.png)
 
 
 👨 [Joel Spolsky](https://www.joelonsoftware.com) Co-founder of Stackoverflow

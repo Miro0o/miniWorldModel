@@ -44,7 +44,7 @@ http://deepdotweb.com
 ## Intro
 The dark web is the encrypted network that exists between Tor servers and their clients, whereas the deep web is simply the content of databases and other web services that for one reason or another cannot be indexed by conventional search engines such as Google.
 
-![tor diagram](../../../../../Assets/Pics/tor-diagram-1024x576.jpg)
+![tor diagram](../../../../Assets/Pics/tor-diagram-1024x576.jpg)
 <small><a>https://www.comparitech.com/blog/vpn-privacy/access-dark-web-safely-vpn/</a></small>
 
 

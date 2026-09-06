@@ -29,18 +29,18 @@ $$x^{2}\equiv q{\pmod  {n}}.$$
 
 Otherwise, *q* is called a **quadratic nonresidue** modulo *n*.
 
-![Screenshot 2023-01-04 at 7.29.54 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.29.54%20PM.png)
+![Screenshot 2023-01-04 at 7.29.54 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.29.54%20PM.png)
 
 
 ### 定理1
-![Screenshot 2023-01-04 at 7.40.31 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.40.31%20PM.png)
+![Screenshot 2023-01-04 at 7.40.31 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.40.31%20PM.png)
 
 
 
 ## Euler's Criterion
-![Screenshot 2023-01-04 at 7.43.28 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.43.28%20PM.png)
+![Screenshot 2023-01-04 at 7.43.28 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%207.43.28%20PM.png)
 
-![Screenshot 2023-01-04 at 9.12.20 PM](../../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%209.12.20%20PM.png)
+![Screenshot 2023-01-04 at 9.12.20 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-04%20at%209.12.20%20PM.png)
 
 
 

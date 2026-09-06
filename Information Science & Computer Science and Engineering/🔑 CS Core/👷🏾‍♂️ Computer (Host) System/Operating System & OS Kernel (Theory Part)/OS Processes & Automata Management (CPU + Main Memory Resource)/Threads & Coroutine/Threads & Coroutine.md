@@ -20,13 +20,13 @@ A thread is the basic unit that the kernel process scheduler uses to allow appli
 
 The typical thread implementation is one where the threads is implemented as a separate data structure which is then linked to the process data structure. For example, the **Windows kernel** uses such an implementation:
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240601105206.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105206.png)
 
 Linux uses a different implementation for threads. The basic unit is called a task (hence the `struct task_struct`) and it is used for both threads and processes. Instead of embedding resources in the task structure it has pointers to these resources.
 
 Thus, if two threads are the same process will point to the same resource structure instance. If two threads are in different processes they will point to different resource structure instances.
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240601105310.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105310.png)
 
 
 
@@ -39,7 +39,7 @@ Thus, if two threads are the same process will point to the same resource struct
 ◇ CPU 调度线程时涉及到线程上下文的保存与恢复，上下文信息存储在系统内核的”**线程控制块(Thread Control Block, TCB)**”中，其中的程序计数器、寄存器状态直接保存值，执行栈则保存的是地址指针。线程执行栈原始内容保存在所属进程的内存空间中。  
 ◇ 线程的五种状态及转换如下图：
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-02-26%20at%2010.50.40AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-26%20at%2010.50.40AM.png)
 
 ◇ **多线程**间的协作涉及到如下性能问题：
 （1）同步锁。

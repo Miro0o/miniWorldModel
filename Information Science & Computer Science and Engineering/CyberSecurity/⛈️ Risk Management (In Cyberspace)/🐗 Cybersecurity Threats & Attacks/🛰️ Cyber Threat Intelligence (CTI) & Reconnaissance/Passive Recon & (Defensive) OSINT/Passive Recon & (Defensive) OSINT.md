@@ -374,7 +374,7 @@ Human Component (Wetware)
 
 
 #### OSINT by Source
-![Screenshot 2023-01-20 at 12.24.08 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-20%20at%2012.24.08%20AM.png)
+![Screenshot 2023-01-20 at 12.24.08 AM](../../../../../../Assets/Pics/Screenshot%202023-01-20%20at%2012.24.08%20AM.png)
 ##### Defensive OSINT
 Defensive OSINT is typically used to see what is already on internet including breached information and see whether that information is valuable during the penetration testing activity. If the goal of penetration testing is to demonstrate the real-world scenario where this data can be handy, the first step is to identify a similar target that has already been breached. The majority of organizations fix only the affected platform or the host, and often they forget about other similar environments. The defensive OSINT is largely divided into three places of search.
 

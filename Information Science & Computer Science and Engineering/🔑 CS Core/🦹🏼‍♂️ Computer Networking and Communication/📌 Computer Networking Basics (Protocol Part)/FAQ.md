@@ -28,8 +28,8 @@
 > - **[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)** (hypertext markup language) is the most common format for publishing web documents.
 
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.41%20AM.png)
-![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.57%20AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.41%20AM.png)
+![](../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.25.57%20AM.png)
 
 
 [World Wide Web]: https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web

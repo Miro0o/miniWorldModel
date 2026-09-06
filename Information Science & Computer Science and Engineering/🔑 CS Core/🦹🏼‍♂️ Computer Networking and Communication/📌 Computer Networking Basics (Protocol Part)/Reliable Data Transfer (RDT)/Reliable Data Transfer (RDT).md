@@ -19,24 +19,24 @@
 ## Intro
 ==RDT exits on every layer of OIS!==
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%208.48.18%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-19%20at%208.48.18%20AM.png)
 
 > In the following, we use the terminology “packet” rather than transport-layer “segment.” Because ==the theory developed in this section applies to computer networks in general and not just to the Internet transport layer,== the generic term “packet” is perhaps more appropriate here.
 
 
-![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.38.13%20PM.png)
-![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.37.12%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.38.13%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-06-16%20at%208.37.12%20PM.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.35.42%20AM.png)
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.37.53%20AM.png)
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.38.22%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.35.42%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.37.53%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%209.38.22%20AM.png)
 
 
 ### FSM (Finite Satate Machine)
-![](../../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.38.37%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202022-11-13%20at%2010.38.37%20AM.png)
 <small>FSM is used for RDT demonstration</small>
 
-![](../../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2011.49.52%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2011.49.52%20AM.png)
 <small>FSM Legends</small>
 
 🙈 See ↗ [Automata Theory and (Formal) Language Theory](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) for detailed FSM info.
@@ -61,7 +61,7 @@ Fundamentally, **three additional protocol capabilities are required in ARQ prot
 
 
 ## Pipelined RDT (Pipelined Error Recovery)
-![](../../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.25.21%20AM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.25.21%20AM.png)
 
 Pipelining has the following consequences for reliable data transfer protocols:
 - The range of **sequence numbers must be increased**, since each in-transit packet (not counting retransmissions) must have a unique sequence number and there may be multiple, in-transit, unacknowledged packets.  

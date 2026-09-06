@@ -29,7 +29,7 @@ Windows Console缺陷之一是无法处理ANSI转义序列，自然而然地有�
 
 `ansicon`十分轻量，软件包压缩后仅100多kB，程序文件就3个：`ANSI32.dll`、`ANSI64.dll`和`ansicon.exe`。`--help`选项输出`ansicon`的用法，如果不加任何选项、参数的话，`ansicon`启动新的解释器实例，默认是`cmd`。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.05.42%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.05.42%20PM.png)
 <small>ansicon用法</small>
 
 `ansicon`用在什么场合呢？用在给基于Windows Console的终端增加ANSI转义序列处理能力，运行POSIX兼容的命令行程序，比如在conhost窗口中运行git for Windows、mingw-gcc等，它被[consolez](https://github.com/cbucher/console)等项目所采用。但受制于`conhost`的终端能力（capability），`ansicon`处理ANSI转义序列也受到较大限制，比如只支持16色等。
@@ -46,7 +46,7 @@ Windows Console缺陷之一是无法处理ANSI转义序列，自然而然地有�
 
 以上虽然是分别在两侧发挥作用，实际是打包在一起的，还有一个winpty.dll，都放在Cygwin或MSYS环境中运行，winpty.exe和winpty-agent.exe之间保持着进程通信。工作流程是这样的，在基于pty的终端（如`Mintty`）中输入形如“winpty <程序名> <参数>”的命令，发起要执行的Windows命令行程序，winpty-agent.exe创建出一个隐藏的conhost窗口、照常执行Windows命令行程序，返回的输出交给winpty.exe处理，再传给终端渲染，两端相互配合。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.07.08%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.07.08%20PM.png)
 <small>winpty示意图</small>
 
 如果还能想起 [Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念](https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin%E7%9F%A5%E8%AF%86%E5%BA%93%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E4%B8%80%E6%96%87%E6%90%9E%E6%B8%85%E6%8E%A7%E5%88%B6%E5%8F%B0%E3%80%81%E7%BB%88%E7%AB%AF%E3%80%81shell%E6%A6%82%E5%BF%B5.html) 中描述的终端上执行远程主机程序的过程，可以发现与上图有着惊人的相似性，**winpty像是客户端（ssh），winpty-agent像是代理程序（ssh server）**，winpty、winpty-agent这一对名字都标识了他们的角色！Unix Adapter（winpty.exe）可以在Cygwin/MSYS中编译、运行，当然也能在UNIX/Linux中编译、运行，winpty项目还提供了开发库和头文件，**若能做出基于winpty的ssh server，那么在UNIX/Linux上远程运行Windows命令行程序就变为可能**！以前在UNIX/Linux主机上远程执行Windows命令行程序是不可行的，个人认为这是winpty项目更大的意义所在。上述在Mintty中运行`winpty ping www.cygwin.com`过程，与`ssh ping www.cygwin.com`何其相似，只不过winpty和ping在同一个Windows主机上。
@@ -64,14 +64,14 @@ ConPTY相当于是微软自家打造的“中间层”。`ConHost`还是那个`C
 - `ConHost`的核心之上，多了一层ConPTY；
 - 更重要的是，ConPTY对外还留了标准输入/输出接口给终端，这个终端不再限死在微软自家的`conhost`，可以是任何第三方软件，这就给了第三方终端开发更大的自由度。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.08.32%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.08.32%20PM.png)
 <small>ConPTY架构 图片源于微软官方博客</small>
 
 那么现有环境下，**命令行程序有Console API和ConPTY API两套可调用**，这和Cygwin环境下同时有Win32 API和POSIX API两套是类似的，旧有的程序继续用老的Console API，新的程序则建议直接上ConPTY API。在历史兼容性方面，旧有的程序不必做任何改变，输出照常传递给`conhost`核心，但经由ConPTY转成包含ANSI转义序列的文本，输出到新终端中，**也就是说基于ConPTY的终端，既能运行POSIX命令行程序，也能运行基于Windows Console的命令行程序**！
 
 `OpenSSH`也移植到了Windows 10中，ssh server可通过ConPTY与Windows命令行程序连接，使得执行远程Windows主机的命令行程序过程更为简洁。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.08.59%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-03-09%20at%203.08.59%20PM.png)
 <small>基于ConPTY的ssh server 图片源于微软官方博客</small>
 
 为了推广ConPTY，微软在WSL、VS、VS Code等产品中积极支持ConPTY，同时也在与第三方合作，如`ConEmu`开发团队。

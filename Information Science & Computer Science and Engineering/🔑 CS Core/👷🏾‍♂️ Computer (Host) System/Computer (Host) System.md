@@ -95,7 +95,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 ## Intro
-![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computer do?</small>
 
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
@@ -147,12 +147,12 @@ Learning steps in CS:
 > ↗ [Information Theory](../../🧮%20Mathematics/🥸%20Information%20Theory/Information%20Theory.md)
 
 > [!quote]
-> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117145903.png) David Hilbert: 
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260117145903.png) David Hilbert: 
 > Is there a program which can tell if a theorem is true or false? 🤔
 >
-> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164423.png) Alonzo Church: Lambda calculus 🤓
-> ![|50](../../../../../Assets/Pics/Pasted%20image%2020241010164346.png) Alan Turing: Turing machine 🤓
-> ![|50](../../../../../Assets/Pics/Pasted%20image%2020260117150036.png) Kurt Gödel: General-recursive function 🤓
+> ![|50](../../../Assets/Pics/Pasted%20image%2020241010164423.png) Alonzo Church: Lambda calculus 🤓
+> ![|50](../../../Assets/Pics/Pasted%20image%2020241010164346.png) Alan Turing: Turing machine 🤓
+> ![|50](../../../Assets/Pics/Pasted%20image%2020260117150036.png) Kurt Gödel: General-recursive function 🤓
 > 
 > ↗ [Theory of Computation](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 > ↗ [Computability (Recursion) Theory - Turing Machine and R.E. Language](../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language/Computability%20(Recursion)%20Theory%20-%20Turing%20Machine%20and%20R.E.%20Language.md)
@@ -161,7 +161,7 @@ Learning steps in CS:
 #### System Part
 ##### Hardware
 > [!quote]
-> ![|50](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
+> ![|50](../../../Assets/Pics/Screenshot%202023-05-08%20at%204.45.36%20PM.png)
 > ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 
 ↗ [History of Computer Evolution & Devt. of Computer Org. & Arch.](Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/History%20of%20Computer%20Evolution%20&%20Devt.%20of%20Computer%20Org.%20&%20Arch..md)

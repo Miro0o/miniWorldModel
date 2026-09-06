@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Philosophy & Its History](../../../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
-↗ [Math History & Development](../../../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
+↗ [Philosophy & Its History](../../♂%20Philosophy%20&%20Its%20History/Philosophy%20&%20Its%20History.md)
+↗ [Math History & Development](../../../Information%20Science%20&%20Computer%20Science%20and%20Engineering/🧮%20Mathematics/Math%20History%20&%20Development.md)
 
 ↗ [Arts & Humanities](../../Arts%20&%20Humanities/Arts%20&%20Humanities.md)
 

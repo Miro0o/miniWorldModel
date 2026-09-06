@@ -26,7 +26,7 @@ The IOP negotiates protocols, issues device commands, translates storage coding 
 The host has only to create the program instructions for the l/O operation and tell the IOP where to find them.
 
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%205.03.47%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%205.03.47%20PM.png)
 
 
 ## Ref

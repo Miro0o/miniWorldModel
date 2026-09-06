@@ -26,7 +26,7 @@ zsh community projects
 
 
 ## Intro
-![|200](../../../../../../../../Assets/Pics/color_vertical_icon.png)
+![|200](../../../../../../Assets/Pics/color_vertical_icon.png)
 
 > 🔗 https://www.zsh.org
 > 🔗 http://refoxteam.com

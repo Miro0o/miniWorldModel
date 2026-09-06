@@ -16,9 +16,9 @@ The SMPP (Short Message Peer-to-Peer) protocol is an open, industry standard pro
 
 It can also be used as an API for use with USSD, CBC and other mobile services.
 
-![img](../../../../../../../Assets/Pics/smpp-protocol-stack.png)
+![img](../../../../../../Assets/Pics/smpp-protocol-stack.png)
 
-![Mobile Terminated (MT) SMS with delivery receipt using SMPP](../../../../../../../Assets/Pics/smpp_diagram.png)
+![Mobile Terminated (MT) SMS with delivery receipt using SMPP](../../../../../../Assets/Pics/smpp_diagram.png)
 
 
 

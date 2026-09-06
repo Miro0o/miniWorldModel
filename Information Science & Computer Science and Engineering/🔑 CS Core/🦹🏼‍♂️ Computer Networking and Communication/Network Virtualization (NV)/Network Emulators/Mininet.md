@@ -25,7 +25,7 @@ In addition to the API documentation (`make doc`), much useful information, incl
 ## Intro
 Mininet creates a **realistic virtual network**, running **real kernel, switch and application code**, on a single machine (VM, cloud or native), in seconds, with a single command:
 
-![img](../../../../../../Assets/Pics/frontpage_diagram.png)
+![img](../../../../../Assets/Pics/frontpage_diagram.png)
 
 Because you can easily [interact with](http://mininet.org/sample-workflow/#interacting-with-a-network) your network using the Mininet [CLI](http://mininet.org/walkthrough/#interact-with-hosts-and-switches) (and [API](http://mininet.org/api/annotated.html)), [customize](http://mininet.org/sample-workflow/#customizing-a-network) it, [share](http://mininet.org/sample-workflow/#sharing-a-network) it with others, or [deploy](http://mininet.org/sample-workflow#running-on-hardware) it on real hardware, Mininet is useful for [development](http://mininet.org/sample-workflow), [teaching](http://mininet.org/teaching), and [research](http://reproducingnetworkresearch.wordpress.com/).
 

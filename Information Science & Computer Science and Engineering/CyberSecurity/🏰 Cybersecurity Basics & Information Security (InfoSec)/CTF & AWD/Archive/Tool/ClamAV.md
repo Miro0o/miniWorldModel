@@ -1,6 +1,6 @@
 # [ClamAV](https://www.clamav.net)
 
-![Maeve, the ClamAV mascot](../../../../Assets/Pics/logo.png)
+![Maeve, the ClamAV mascot](../../../../../../Assets/Pics/logo.png)
 
 ## Guides
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗️ [EE364A - Convex Optimization](../../../../🏠 Assets/Stanford/EE364A - Convex Optimization/EE364A - Convex Optimization.md)
+↗️ [EE364A - Convex Optimization](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/👩🏼‍🏫%20Courses%20of%20Universities/Stanford/EE364A%20Convex%20Optimization/EE364A%20-%20Convex%20Optimization.md)
 
 ↗ [Dynamic Programming (DP) & Multi-Objective Optimization](../../../../../🔑%20CS%20Core/🧙‍♂️%20Algorithm%20&%20Data%20Structure/Algorithms%20Implementation%20For%20Classical%20Problems/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization/Dynamic%20Programming%20(DP)%20&%20Multi-Objective%20Optimization.md)
 

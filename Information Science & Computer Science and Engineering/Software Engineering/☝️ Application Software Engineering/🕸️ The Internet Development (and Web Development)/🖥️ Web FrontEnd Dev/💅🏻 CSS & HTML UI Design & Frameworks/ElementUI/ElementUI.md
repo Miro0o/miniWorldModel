@@ -1,6 +1,6 @@
 # [ElementUI](https://element-plus.org/en-US/)
 
-<img src="../../../../../../Assets/Pics/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png" alt="img" style="zoom:10%;" />
+<img src="../../../../../../../Assets/Pics/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png" alt="img" style="zoom:10%;" />
 
 <p align="center" dir="auto">Element Plus - A Vue.js 3 UI library</p>
 

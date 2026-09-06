@@ -138,13 +138,13 @@ The Smol Training Playbook: The Secrets to Building World-Class LLMs
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020250831143544.png)
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240602204501.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240602204501.png)
 
 The steps outlined above form the standardized training pipeline that is used for most state-of-the-art LLMs (e.g., ChatGPT or LLaMA-2 [3]). SFT and RLHF are computationally cheap compared to pretraining, but they require the curation of a dataset—either of high-quality LLM outputs or human feedback on LLM outputs — which can be difficult and time consuming.
 
 Sometimes we have to do a bit more when applying an LLM to solve a downstream task. In particular, we can further specialize a language model (if needed) either via domain-specific fine-tuning or [in-context learning](https://cameronrwolfe.substack.com/i/123558334/different-types-of-learning); see below. Domain-specific fine-tuning simply trains the model further—_usually via a [language modeling objective](https://cameronrwolfe.substack.com/i/85568430/language-modeling), similarly to pretraining/SFT_—on data that is relevant to the downstream task, while in-context learning adds extra context or examples into the language model’s prompt to be used as context for solving a problem.
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240602204515.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240602204515.png)
 
 **What is alignment?** Finally, there is a term we have used several times in the above discussion that is important to understand: _alignment_. A pretrained language model is usually not useful. If we generate output with this model, the results will probably be repetitive and not very helpful. To create a more useful language model, we have to _align_ this model to the desires of the human user. In other words, instead of generating the most likely textual sequence, our language model learns to generate the textual sequence that is desired by a user.
 

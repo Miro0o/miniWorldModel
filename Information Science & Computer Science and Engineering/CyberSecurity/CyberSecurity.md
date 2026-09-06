@@ -439,23 +439,23 @@ http://www.china-cia.org.cn
 - 网络空间安全的任务就是确保信息功能的正确实现
 
 信息系统工作流程
-![](../../../Assets/Pics/Screenshot%202023-11-01%20at%209.02.11PM.png)
+![](../../Assets/Pics/Screenshot%202023-11-01%20at%209.02.11PM.png)
 #### 4 Layers in Information Systems
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.51.19AM.png)
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.51.19AM.png)
 
 
 ### What is Information (System) Security?
 ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec).md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
-![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+![|400](../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 #### System Reliability (Availability)
 ↗ [ICT System Reliability (Correctness) & Verification](⛈️%20Risk%20Management%20(In%20Cyberspace)/🐺%20Risk%20Countermeasures%20&%20Security%20Control/ICT%20System%20Reliability%20(Correctness)%20&%20Verification.md)
 
 
 ### What is Cyberspace?
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.42.17AM.png)
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.42.17AM.png)
 
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.44.46AM.png)
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.44.46AM.png)
 
 
 ### What is Cybersecurity?
@@ -473,7 +473,7 @@ http://www.china-cia.org.cn
 (4+2+4)
 网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取**法律**、**管理**、**技术**、**自律**等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
 
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.58.11AM.png)
+![](../../Assets/Pics/Screenshot%202023-10-08%20at%208.58.11AM.png)
 
 网络空间安全特征
 - 网络空间安全是系统的安全

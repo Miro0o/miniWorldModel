@@ -32,4 +32,4 @@
 [GPL]: https://zh.wikipedia.org/wiki/GNU通用公共许可证
 
 [Free and Open Source Software | Wikipedia]: https://en.wikipedia.org/wiki/Free_and_open-source_software
-![](../../../../../../Assets/Pics/Screenshot%202024-05-21%20at%205.23.42%20PM.png)
+![](../../../Assets/Pics/Screenshot%202024-05-21%20at%205.23.42%20PM.png)

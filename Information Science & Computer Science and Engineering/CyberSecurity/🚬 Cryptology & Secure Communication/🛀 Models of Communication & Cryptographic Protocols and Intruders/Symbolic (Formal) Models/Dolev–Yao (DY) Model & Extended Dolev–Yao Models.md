@@ -9,7 +9,7 @@
 ↗ [AnB (Alice and Bob) Notation & AnBx Languages](../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/Other%20Languages%20&%20Formats/Formal%20Verification%20&%20Analysis%20Programming%20Languages/AnB%20(Alice%20and%20Bob)%20Notation%20&%20AnBx%20Languages.md)
 ↗ [Term Algebra & Free Σ-algebra](../../../../🧮%20Mathematics/🧊%20Algebra/🎃%20Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/👽%20Universal%20Algebra%20(泛代数)/Σ-algebra%20(Sigma-Algebra)/Term%20Algebra%20&%20Free%20Σ-algebra.md)
 
-↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20(Natural%20Deduction).md)
+↗ [Gentzen-Style Proofs (Natural Deduction)](../../../../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20%28Foundations%20of%20Mathematics%29/Proof%20Theory/Proof%20Calculus/Gentzen-Style%20Proofs%20%28Natural%20Deduction%29.md)
 
 
 ### Other Resources
@@ -126,7 +126,7 @@ We formalize now the cryptographic abilities of the intruder according in the st
 > 
 > We can actually write derivations as a proof tree where the leaves of the tree are (Axiom) steps and the root of the tree is the result we want to prove:
 > 
-> ![](../../../../../../Assets/Pics/Screenshot%202026-02-23%20at%2023.59.10.png)
+> ![](../../../../../Assets/Pics/Screenshot%202026-02-23%20at%2023.59.10.png)
 
 > [!example]
 > **Example 7.** As an example for reasoning with algebraic properties consider again the property $\operatorname{exp}(\operatorname{exp}(B,X),Y) \approx \operatorname{exp}(\operatorname{exp}(B,Y),X)$.
@@ -135,7 +135,7 @@ We formalize now the cryptographic abilities of the intruder according in the st
 > 
 > We show that the intruder can derive from $M$ for instance the message $\{m\}_{\operatorname{exp}(\operatorname{exp}(g,x),y)}$:
 > 
-> ![](../../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2000.00.37.png)
+> ![](../../../../../Assets/Pics/Screenshot%202026-02-24%20at%2000.00.37.png)
 
 > [!example]
 > ![](../../../../../Assets/Pics/Screenshot%202026-02-26%20at%2023.07.50.png)

@@ -21,8 +21,8 @@
 
 
 ### 👉 Password Authentication Protocol (PAP)
-> ↗ [PPP (Point-to-Point Protocol)](../../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md)
-> ↗ [PPP (Point-to-Point Protocol) /⭐ PAP (Password Authentication Protocol)](../../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20(Point-to-Point%20Protocol)/PPP%20(Point-to-Point%20Protocol).md#⭐%20PAP%20(Password%20Authentication%20Protocol))
+> ↗ [PPP (Point-to-Point Protocol)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20%28Point-to-Point%20Protocol%29/PPP%20%28Point-to-Point%20Protocol%29.md)
+> ↗ [PPP (Point-to-Point Protocol) /⭐ PAP (Password Authentication Protocol)](../../../../../../../🔑%20CS%20Core/🦹🏼‍♂️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20%28Protocol%20Part%29/0x06%20Data%20Link%20Layer/Switched%20LAN/〰️%20P2P%20Channels/PPP%20%28Point-to-Point%20Protocol%29/PPP%20%28Point-to-Point%20Protocol%29.md#⭐%20PAP%20(Password%20Authentication%20Protocol))
 
 > 口令鉴别协议（**password authentication protocol**，**PAP)** 鉴别一般在通信连接建立阶段进行，在数据传输阶段不进行 **PAP**鉴别。
 
@@ -36,24 +36,24 @@ PAP 鉴别的优点是:简单有效，实用方便，费用低廉，使用灵活
 
 ### 👉 Enhanced PAP
 #### PAP + Hash (引入单向加密机制)
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.00.39%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.00.39%20PM.png)
 
 由于散列函数具有单向性，即从输入变量值计算出函数值容易，而要从函数值逆向计算 出输入变量的值计算不可行，因此常常通过该类函数对口令进行(单向)加密，验证方只保 存口令加密后的信息。鉴别时将口令加密后的信息进行对比验证。鉴别交互示意如图 8.1 所 示。其中，p’是声称者输入的口令信息，id 是声称者的标识，h 是散列函数。p’经过 h 的计 算得到 q’。q 和 id 是验证者保留的散列之后的口令和对应的声称者标识。声称者输入 p’和 id，经过散列函数 h 计算得到 q’。q’连同声称者标识 id 传给验证者，验证者验证 q’是否与 q 相同。如相同，则鉴别通过;否则，鉴别不通过。
 
 该方案的主要缺陷是:利用已知的散列函数，攻击者很容易构造一张 p 与 q 对应的表(称 为口令字典)，表中的 p 是猜测的口令，尽可能包含各种可能的口令值，q 是 p 的散列值。 然后攻击者通过拦截鉴别信息 q，利用口令字典就能以很高的概率获得声称者的口令，这种攻击方式称为**字典攻击**。
 解决办法：在口令后使用随机串（Salt）
 #### PAP + Hash + Salt（引入加扰机制）
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.00.54%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.00.54%20PM.png)
 
 加盐（ **Salt** ）就是在进行散列运算时，增加**Salt**字符串的输入，通过**Salt**和口令混合加密得出散列值。攻击者在事先进行计算各种长度的字符组成的口令的消息摘要时，由于每个用户的salt不 同，攻击者必须把各种口令和salt进行组合进行散列运算，使得攻击者得到字典的难度增加。
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%209.10.12PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%209.10.12PM.png)
 
 该方案的主要缺陷：只能保护在多台计算机上使用相同口令的同一用户或在同一计算机上使用同一口令的不同用户。本质原因是一个用户在数据库中只能有一个记录，所以不支持对同一用户不同口令的保护。但是不同用户使用同一口令可以保护，因为ID不同，盐不同
 ##### UNIX Crypt (1970s)
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.47.46%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.47.46%20PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.48.18%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.48.18%20PM.png)
 
 
 
@@ -70,9 +70,9 @@ OTP 主要的实现方式有三种:
 - 两端共同使用一个随机序列生成器，在该序列生成器的初态保持同步;
 - 使用时戳，两端维持同步的时钟。
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%209.13.15PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%209.13.15PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.26.15%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.26.15%20PM.png)
 
 OPT 安全性分析：
 - 没有器件而知道口令p，不能导致一个简单的攻击；
@@ -99,9 +99,9 @@ OPT 安全性分析：
 - **A**收到**B**的**response**，希望包含这个随机值
 - 询问/应答方法不适应非连接性的应用，因为它要求在传输开始之前先有握手的额外开销，这就抵消了无连接通信的主要特点。
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%208.35.04PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-08%20at%208.35.04PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.06.52%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-31%20at%204.06.52%20PM.png)
 
 - 在该机制中，产生非重复值的能力完全掌握在验证者手中。因而提供了一种很好的重放 检测能力。
 - 然而，附加的复杂协议意味着这种机制不能与传统的简单口令协议结合使用。
@@ -111,12 +111,12 @@ OPT 安全性分析：
 2. 另一方面，由于是单向鉴别，还存在着验证者的假冒和重放攻击。
 	1. 这可以通过双向鉴别或时间戳来解决。例如，在系统每次输出的密文信息中附加日期与时间信息，鉴别双方都可以根据密文中的日期时间 来判断消息是否是当前的。如果是前面的消息重放，用户则拒绝给出回答。
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.24.57%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.24.57%20PM.png)
 
 
 ### 👉 Time-Synchronization (时间同步)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.23.58%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.23.58%20PM.png)
 
 协议安全性：
 - 攻击者只知道用户的口令而没有用户的 智能卡，则不能通过服务器的鉴别;
@@ -128,8 +128,8 @@ OPT 安全性分析：
 
 
 ### 👉 S/KEY
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.53.29%20PM.png)
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.53.41%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.53.29%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.53.41%20PM.png)
 
 在 S/Key 协议中，用户 U 与鉴别服务器 AS 之间的鉴别交换信息中，没有直接传输口令 的任何信息，而只是口令信息的散列结果。依据散列函数的单向性，攻击者通过拦截通信信 道获取到当前鉴别口令(OTP M-1)，但不能导出下次的鉴别口令(OTP M-2)。甚至攻击者攻破了鉴别服务器，浏览了用户的口令记录，也无法知晓用户的真正口令。S/Key 利用告知服务器 M 次散列结果，并逐次减少散列迭代次数，从而得到 N-1 个可用的鉴别口令序列。而每 一个鉴别口令仅使用一次，即使暴露第 i 次鉴别口令，并不影响后续口令的安全性。S/Key 成功地防范了口令窃听并重放的攻击。
 - 本质上对比的是：$h^M(pw||seed)$攻击者冒充服务器给用户传一个较小的，比如说M=1,那么攻击者就可以拿到$h^1(pw||seed)$,进而可以计算出$h^2(pw||seed)$、$h^3(pw||seed)$ ... 在已知h的情况下，由$h^M(pw||seed)$计算$h^{M+1}(pw||seed)$可行但由$h^{M+1}(pw||seed)$计算$h^M(pw||seed)$不可行，这也是小数攻击能够起作用的原因，本质上也还是有散列函数的单向性决定的
@@ -180,13 +180,13 @@ OPT 安全性分析：
 
 
 ### 危机验证者
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.27PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.27PM.png)
 
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.35PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.35PM.png)
 
 
 ### 重放攻击
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.52PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202024-01-09%20at%2012.53.52PM.png)
 
 
 

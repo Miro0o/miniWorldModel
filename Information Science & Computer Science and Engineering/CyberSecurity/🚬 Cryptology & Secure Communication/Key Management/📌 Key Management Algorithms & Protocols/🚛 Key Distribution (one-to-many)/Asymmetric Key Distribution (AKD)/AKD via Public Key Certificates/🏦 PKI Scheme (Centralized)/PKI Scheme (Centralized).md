@@ -40,7 +40,7 @@
 
 ![What is a PKI or public key infrastructure? | Uanataca](https://web.uanataca.com/uploads/images/l/z/z/l3y-esquema-general.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%204.04.43%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-04-19%20at%204.04.43%20PM.png)
 
 
 

@@ -15,7 +15,7 @@
 ## Intro
 The main goal in supervised learning is to learn a model from **labeled training data** that allows us to make predictions about unseen or future data. Here, the term "supervised" refers to a set of training examples (data inputs) where the desired output signals (labels) are already known. The following figure summarizes a typical supervised learning workflow, where the labeled training data is passed to a machine learning algorithm for fitting a predictive model that can make predictions on new, unlabeled data inputs:
 
-![Screenshot 2023-01-28 at 12.27.24 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.27.24%20PM.png)
+![Screenshot 2023-01-28 at 12.27.24 PM](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.27.24%20PM.png)
 #### ⭐️ Self-Supervised Learning
 > Differ from ↗ [Semi-supervised Learning](🥝%20Semi-supervised%20Learning/Semi-supervised%20Learning.md)
 
@@ -36,11 +36,11 @@ A second type of supervised learning is the prediction of **continuous outcomes*
 
 
 ### Components in Supervised Training
-![Screenshot 2023-01-28 at 8.34.46 PM](../../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.34.46%20PM.png)
+![Screenshot 2023-01-28 at 8.34.46 PM](../../../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.34.46%20PM.png)
 
 
 ### Types of Supervised Models
-![Screenshot 2023-01-29 at 12.51.59 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.51.59%20AM.png)
+![Screenshot 2023-01-29 at 12.51.59 AM](../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.51.59%20AM.png)
 
 ↗ [Knowledge Representation (Syntax Level) and Reasoning (KRR)](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR).md)
 - ↗ [Trees, Forests, Bagging, and Boosting](../../🌌%20Knowledge%20Representation%20(Syntax%20Level)%20and%20Reasoning%20(KRR)/Trees,%20Forests,%20Bagging,%20and%20Boosting/Trees,%20Forests,%20Bagging,%20and%20Boosting.md)

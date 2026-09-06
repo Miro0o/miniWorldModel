@@ -15,7 +15,7 @@
 ## Intro
 > 边界安全/内生安全，安全左移：改变传统的事后检测、修复的思路，试图在软件产品的开发、测试阶段就考虑到可能的安全威胁并作出防范。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.58.45AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.58.45AM.png)
 
 
 ### 🤔 Threats & Intrusion
@@ -23,7 +23,7 @@
 
 
 ### IDS Overview & Concepts
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.59%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.26.59%20PM.png)
 
 > 入侵检测（**Intrusion Detection**）是对入侵行为的发觉。它通过计算机网络或计算机系统的关键点采集信息并进行分析，从中发现网络或系统中是否有违反安全策略的行为和被攻击的迹象。
 > 入侵检测系统（**Intrusion Detection System**，简称**IDS**）是指实现入侵检测功能的软件和硬件的集合。
@@ -81,7 +81,7 @@ IDS 功能
 
 
 ### IDS Development History
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020231201095507.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020231201095507.png)
 
 🔗 https://c4pr1c3.github.io/cuc-ns/chap0x09/main.html#95-实战入侵检测系统
 
@@ -108,7 +108,7 @@ IDS 功能
 - 即使透过防火墙的保护，合法的使用者仍会非法地使用系统，甚至提升自己的权限
 - 仅能拒绝非法的连接請求，但是对于入侵者的攻击行为仍一无所知
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%209.04.01AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%209.04.01AM.png)
 #### IDS Services
 入侵检测可以识别入侵者，识别入侵行为，监视和检测已成功的安全突破，为对抗入侵及时提供重要信息，以阻止事件的发生和事态的扩大，具有如下作用：
 1. 实时检测网络系统的非法行为，持续地监视、分析网络中所有的数据报文，发现并及时处理所捕获的数据报文；
@@ -116,7 +116,7 @@ IDS 功能
 3. 不占用被保护系统的任何资源，作为独立的网络设备，可以做到对黑客透明，本身的安全性较高；
 4. 主机入侵检测系统运行于被保护系统之上，可以直接保护、恢复系统；
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020231201095349.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020231201095349.png)
 <small>入侵检测系统的作用</small>
 
 在安全体系中，入侵检测系统是通过**数据和行为模式**判断其风险水平的典型系统:
@@ -161,7 +161,7 @@ FNR = FN / N
 
 其中，N 是警报总数，FP 是误报事件总数。FN 为漏报事件总数。最理想的入侵检测系统的评估结果是误报率 FPR=0 且漏报率 FNR=0，但实际上误报率和漏报率常常是成反比的。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.36%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.36%20PM.png)
 
 
 ### Issues Faced IDS
@@ -178,7 +178,7 @@ FNR = FN / N
 
 ## IDS Taxonomy
 ### 1️⃣ 检测分析技术方法
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.24%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%204.27.24%20PM.png)
 
 异常检测：通过采集和统计来发现网络或系统中可能出现的异常行为，向管理员提出警告。
 - 知识库为正常流量特征/规律，对不在正常流量知识中的行为报警
@@ -365,7 +365,7 @@ FNR = FN / N
 
 
 ### Denning Model
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.45.38AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.45.38AM.png)
 
 在1984年-1986年，在美国海军空间和海军战争系统司令部的资助下，Dorothy Denning给出了通用入侵检测系统模型。
 - Denning提出了异常活动和计算机不当使用之间的相关性，该模型独立于任何特殊系统、应用环境、系统脆弱性或入侵种类，是一通用的入侵检测框架。能够检测出Hacker入侵、越权操作及其它种类的非正常使用计算机系统的行为。
@@ -377,7 +377,7 @@ FNR = FN / N
 		- 其他
 - **Denning**模型实际上是一个基于规则的模式匹配系统。**该模型的最大缺陷在于未包含已知系统漏洞或攻击方法方面的知识**。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.50.09AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.50.09AM.png)
 
 
 ### IDM
@@ -421,7 +421,7 @@ IDM模型给出了在推断网络中的计算机受攻击时数据的抽象过�
 
 SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同检测，它定义了IDS-MIB，使得原始事件和抽象事件之间关系明确，并且易于扩展这些关系。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.55.44AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2011.55.44AM.png)
 
 
 ### 📐 Common IDS Models
@@ -431,7 +431,7 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 - CIDF讨论关于入侵检测系统协同的问题，主要介绍一种通用入侵说明语言（CISL），即系统事件、分析结果及响应指示的通用表示。把入侵检测系统从逻辑上分为面向任务的组件.
 - CIDF试图规范一种通用的语法格式和编码方式以表示在组件边界传递的数据。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2012.11.49PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%2012.11.49PM.png)
 #### OPSEC (Open Platform for Security)
 
 
@@ -455,7 +455,7 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 - Purdue大学研制了一种被称为AAFID(Autonomous agents for intrusion detection)的IDS模型
 - SRI的EMERALD(Event Monitoring Enabling Response to Anomalous Live Disturbances)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.38.31AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.38.31AM.png)
 <small>A typical deployment mode</small>
 #### IDS Deployment Issues
 部署中需注意的问题
@@ -475,7 +475,7 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 
 
 ### ⭐ Basic IDS Deployment Methods
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.40.00AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.40.00AM.png)
 
 检测器放置于防火墙的DMZ区域（部署一）
 - 可以查看受保护区域主机被攻击状态
@@ -497,13 +497,13 @@ SNMP-IDSM以SNMP为公共语言来实现IDS系统之间的信息交换和协同�
 
 
 ### Real Example: ISS RealSecure
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.09AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.09AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.23AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.23AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.42AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.42AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.56AM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%208.42.56AM.png)
 
 
 

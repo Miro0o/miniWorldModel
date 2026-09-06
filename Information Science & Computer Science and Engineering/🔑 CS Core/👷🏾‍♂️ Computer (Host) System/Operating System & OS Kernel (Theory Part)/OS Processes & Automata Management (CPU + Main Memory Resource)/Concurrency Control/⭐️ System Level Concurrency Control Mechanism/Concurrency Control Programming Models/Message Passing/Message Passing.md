@@ -24,7 +24,7 @@ This is the minimum set of operations needed for processes to engage in message 
 
 
 ## Message Passing Design Issues
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.36.05%20PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%208.36.05%20PM.png)
 
 
 ### Synchronization
@@ -59,7 +59,7 @@ The association of processes to mailboxes can be either **static** or **dynamic*
 
 
 ##### Relationship between Senders & Receivers
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.15.41%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.15.41%20AM.png)
 
 A **one-to-one relationship** allows a private communications link to be set up between two processes. This insulates their interaction from erroneous interference from other processes. 
 
@@ -85,7 +85,7 @@ Figure 5.22 shows a typical message format for operating systems that support va
 
 The header may contain an identification of the source and intended destination of the message, a length field, and a type field to discriminate among various types of messages. There may also be additional control information, such as a **pointer field** so that a linked list of messages can be created; a **sequence number**, to keep track of the number and order of messages passed between source and destination; and a **priority field**.
 
-![|400](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.12.43%20AM.png)
+![|400](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.12.43%20AM.png)
 
 
 ### Queue Discipline
@@ -106,7 +106,7 @@ The simplest queueing discipline is first-in-first-out, but this may not be suff
 
 ### 👉 Message Passing for the Bounded-buffer Producer/Consumer Problem
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.12.28%20AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%2010.12.28%20AM.png)
 
 
 ## Ref

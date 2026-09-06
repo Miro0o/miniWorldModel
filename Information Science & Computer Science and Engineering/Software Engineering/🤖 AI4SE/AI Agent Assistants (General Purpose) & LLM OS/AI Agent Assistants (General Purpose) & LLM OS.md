@@ -9,11 +9,11 @@
 ↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 ↗ [Software for LLM Agent Systems Research Dossier 2026](<../../../Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Engineering and Security/Dossiers/Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md>)
 
-↗ [OpenAI Codex](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
-↗ [Claude Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
-↗ [Kimi Code](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
-↗ [OpenCode](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
-↗ [Github Copilot](../../../../../../../Software%20Engineering/🤖%20AI4SE/🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Github%20Copilot.md)
+↗ [OpenAI Codex](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenAI%20Codex.md)
+↗ [Claude Code](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Claude%20Code.md)
+↗ [Kimi Code](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Kimi%20Code.md)
+↗ [OpenCode](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/OpenCode.md)
+↗ [Github Copilot](../🦾%20AI%20Powered%20Dev%20&%20Vibe%20Coding/AI%20Coding%20Assistant%20&%20Agents/Github%20Copilot.md)
 
 ↗ [Agent Programming Languages & Agent-Oriented Programming (AOP)](../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/DSL(Domain%20Specific%20Languages)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP)/Agent%20Programming%20Languages%20&%20Agent-Oriented%20Programming%20(AOP).md)
 
@@ -30,7 +30,7 @@ Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiet
 
 ## Ref
 [ 🎬 1hr Talk |  Intro to Large Language Models | Andrej Karpathy ]: https://youtu.be/zjkBMFhNj_g?si=oIgx09-7IEIRNgdu
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260207203114.png)
+![](../../../../Assets/Pics/Pasted%20image%2020260207203114.png)
 
 [AI开始“动手”了，全世界第一个带头的是阿里千问]: https://www.qbitai.com/2026/01/369558.html
 不卖关子，这就是**阿里千问App**的新能力，一口气上线400多项新功能，把**淘宝、闪购、支付宝、飞猪**这些阿里自家生态全给安排进来了。

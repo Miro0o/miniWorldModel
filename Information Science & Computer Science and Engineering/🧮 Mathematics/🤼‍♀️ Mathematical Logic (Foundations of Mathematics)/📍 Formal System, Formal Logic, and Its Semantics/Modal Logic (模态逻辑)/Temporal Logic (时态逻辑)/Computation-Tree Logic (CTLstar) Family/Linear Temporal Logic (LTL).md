@@ -16,7 +16,7 @@
 ## Intro
 ### Syntax of LTL
 ↗ [(Zeroth-Order Logic) Propositional Logic - (零阶) 命题逻辑 /Propositional Formula & Syntax](../../../Classical%20Logic%20(Standard%20Formal%20Logic)/Zeroth-Order%20Logic%20&%20Propositional%20Logic%20-%20(零阶)%20命题逻辑.md#Propositional%20Formula%20&%20Syntax)
-↗ [Computation-Tree Logic (CTL*) /Syntax & Notation of CLT*](Computation-Tree%20Logic%20(CTL*)%20Family.md#Syntax%20&%20Notation%20of%20CTL*)
+↗ [Computation-Tree Logic (CTL*) /Syntax & Notation of CLT*](Computation-Tree%20Logic%20%28CTLstar%29%20Family.md#Syntax%20&%20Notation%20of%20CTL*)
 
 > LTL formulas can be seen as CTL* formulas of the form $\forall\psi$ where $\psi$ is a path formula **without path quantifiers**
 

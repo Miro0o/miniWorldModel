@@ -17,7 +17,7 @@
 
 ## Vertex Coloring
 
-![Screenshot 2023-01-03 at 12.36.30 AM](../../../../../../Assets/Pics/Screenshot 2023-01-03 at 12.36.30 AM.png)
+![Screenshot 2023-01-03 at 12.36.30 AM](../../../../../Assets/Pics/Screenshot%202023-01-03%20at%2012.36.30%20AM.png)
 
 
 
@@ -27,15 +27,15 @@
 
 ## Chromatic Polynomial
 
-![Screenshot 2022-12-15 at 4.28.18 PM](../../../../../../Assets/Pics/Screenshot 2022-12-15 at 4.28.18 PM.png)
+![Screenshot 2022-12-15 at 4.28.18 PM](../../../../../Assets/Pics/Screenshot%202022-12-15%20at%204.28.18%20PM.png)
 
-![Screenshot 2022-12-15 at 4.29.15 PM](../../../../../../Assets/Pics/Screenshot 2022-12-15 at 4.29.15 PM.png)
+![Screenshot 2022-12-15 at 4.29.15 PM](../../../../../Assets/Pics/Screenshot%202022-12-15%20at%204.29.15%20PM.png)
 
-![Screenshot 2022-12-16 at 8.38.44 AM](../../../../../../Assets/Pics/Screenshot 2022-12-16 at 8.38.44 AM.png)
+![Screenshot 2022-12-16 at 8.38.44 AM](../../../../../Assets/Pics/Screenshot%202022-12-16%20at%208.38.44%20AM.png)
 
-![Screenshot 2022-12-16 at 8.39.42 AM](../../../../../../Assets/Pics/Screenshot 2022-12-16 at 8.39.42 AM.png)
+![Screenshot 2022-12-16 at 8.39.42 AM](../../../../../Assets/Pics/Screenshot%202022-12-16%20at%208.39.42%20AM.png)
 
-![Screenshot 2022-12-16 at 8.40.44 AM](../../../../../../Assets/Pics/Screenshot 2022-12-16 at 8.40.44 AM.png)
+![Screenshot 2022-12-16 at 8.40.44 AM](../../../../../Assets/Pics/Screenshot%202022-12-16%20at%208.40.44%20AM.png)
 
 
 

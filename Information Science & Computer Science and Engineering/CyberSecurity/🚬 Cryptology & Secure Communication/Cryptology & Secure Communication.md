@@ -202,10 +202,10 @@ There are two main key models in modern cryptography. In the _symmetric key_ m
 > ↗ [Shannon–Weaver Model](🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Information-Theoretic%20Models/Shannon–Weaver%20Model.md)
 > ↗ [Dolev–Yao (DY) Model & Extended Dolev–Yao Models](🛀%20Models%20of%20Communication%20&%20Cryptographic%20Protocols%20and%20Intruders/Symbolic%20(Formal)%20Models/Dolev–Yao%20(DY)%20Model%20&%20Extended%20Dolev–Yao%20Models.md)
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020260209201620.png)
+![](../../../Assets/Pics/Pasted%20image%2020260209201620.png)
 <small>The five essential parts of the Shannon–Weaver model: A source uses a transmitter to translate a message into a signal, which is sent through a channel and translated back by a receiver until it reaches its destination.</small>
 
-![](../../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
 <small>An example: asymmetric secure communication model</small>
 
 
@@ -356,7 +356,7 @@ In general, we will assume that the attacker knows the crypto-system to be crack
 
 使用非对称密码体制实现的保密通信模型如图 1.3 所示。在保密通信前，假定每个用户都有一对用于加密和解密的密钥对，其中每个用户的加密密钥公开发布，使得任何人都很容易地获取；而每个用户的解密密钥则由各个用户自己安全保管，不得泄露。在进行保密通信时，由发送方利用加密算法，根据输入的明文消息 m 和接收方的加密密钥（公开密钥）$k_e$ 生成密文 c，并通过不安全的普通信道（存在密码攻击者）传送到接收方。接收方则可利用解密算法，根据输入的密文 c 和秘密保管的私有密钥（解密密钥）$k_d$ 解密恢复出明文 m。
 
-![](../../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-03-01%20at%208.48.15%20PM.png)
 <small>非对称密码体制(Asymmetric cipher，也称为双钥密码体制、公开密钥密码体制、非对称密钥密码体制)</small>
 
 而攻击者通过截获密文 c，利用加解密算法和接收方的公钥（加密密钥）$k_e$ 或除接收方私有密钥 $k_d$ 之外的其它密钥，想要得出明文 m 或接收方私有密钥（解密密钥）$k_d$ 则是计算不可行的。
@@ -399,9 +399,9 @@ Deniable Encryption
 
 
 ### Secure Communication with Core Cryptographic Properties ⭐
-![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.26%20PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)
+![](../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.09.38%20PM.png)
 
 
 ### Threats /Security Mechanisms in Secure Communication

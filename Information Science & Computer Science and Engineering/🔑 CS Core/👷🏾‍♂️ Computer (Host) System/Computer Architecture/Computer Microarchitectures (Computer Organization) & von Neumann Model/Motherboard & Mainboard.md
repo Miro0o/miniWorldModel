@@ -50,8 +50,8 @@ Similarly, the term **mainboard** describes a device with a single board and n
 
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414144958.png)
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
 <small>The scaling in the Apple M series of SoCs<br><a>https://pbs.twimg.com/media/FCBl1gcWEAUOdRw?format=jpg&name=large</a></small>
 
 

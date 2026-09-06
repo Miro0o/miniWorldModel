@@ -96,8 +96,8 @@ DSPs are widely used in [audio signal processing](https://en.wikipedia.org/wiki
 #### The Mix of Microprocessors and SoCs
 ↗ [Systems on Chip (SoC)](../Systems%20on%20Chip%20(SoC).md)
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020260117003203.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020260117003337.png)
 <small>The scaling in the Apple M series of SoCs<br><a>https://pbs.twimg.com/media/FCBl1gcWEAUOdRw?format=jpg&name=large</a></small>
 
 

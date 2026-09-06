@@ -95,7 +95,7 @@ I found root cause of this problem. It is Dell Display Manager app which I used 
 ## 👉 Suspicious Login items / background itmes
 #macos 
 
-![Screenshot 2023-02-11 at 11.45.26 AM](../../../../../../../Assets/Pics/Screenshot%202023-02-11%20at%2011.45.26%20AM.png)
+![Screenshot 2023-02-11 at 11.45.26 AM](../../../../Assets/Pics/Screenshot%202023-02-11%20at%2011.45.26%20AM.png)
 
 IDK what are these for...
 

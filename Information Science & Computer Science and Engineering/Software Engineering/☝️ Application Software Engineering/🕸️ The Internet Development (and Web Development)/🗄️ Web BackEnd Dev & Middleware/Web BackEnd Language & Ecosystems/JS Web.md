@@ -25,7 +25,7 @@ Nearly all these frameworks provide a ready programming interface, which saves m
 
 
 ### Other Resources
-[Learn basic JS from here](../../../../🔑 CS_Core/👩‍💻 Programming Languages/Compiled Language/NodeJS/JS basics/0x00 Preparation.md) 
+[Learn basic JS from here](../../../../../🔑%20CS%20Core/👩‍💻%20Computer%20Languages%20&%20Programming%20Methodology/GPL%28General%20Purpose%20Languages%29/🐝%20ECMAScript-Based%20Languages%20&%20JavaScript/📌%20JS%20Basic/0x00%20Preparation.md) 
 
 
 

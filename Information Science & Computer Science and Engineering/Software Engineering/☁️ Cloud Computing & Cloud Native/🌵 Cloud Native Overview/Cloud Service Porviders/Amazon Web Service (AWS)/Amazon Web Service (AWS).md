@@ -100,18 +100,18 @@ The AWS General Reference provides information that is useful across Amazon Web 
 
 
 ## Intro
-![](../../../../../../../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
+![](../../../../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
 
 
 
 ## 🔐 Access
 ### AWS Management Console
-![    AWS Management Console icon   ](../../../../../../../../../Assets/Pics/management-console-icon.jpg)
+![    AWS Management Console icon   ](../../../../../../Assets/Pics/management-console-icon.jpg)
 
 Access and manage Amazon Web Services through the [AWS Management Console](https://aws.amazon.com/console/), a simple and intuitive user interface. You can also use the [AWS Management Console Application](https://aws.amazon.com/console/mobile/) to quickly view resources on the go.
 
 ### [AWS Command Line Interface](https://aws.amazon.com/cli/)
-![    The AWS Command Line Interface category icon   ](../../../../../../../../../Assets/Pics/aws-cli-icon.jpg)
+![    The AWS Command Line Interface category icon   ](../../../../../../Assets/Pics/aws-cli-icon.jpg)
 
 The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
 
@@ -124,7 +124,7 @@ sudo installer -pkg AWSCLIV2.pkg -target /
 ```
 
 ### SDKs & API
-![    AWS Tools and SDKs category icon   ](../../../../../../../../../Assets/Pics/sdk-icon.jpg)
+![    AWS Tools and SDKs category icon   ](../../../../../../Assets/Pics/sdk-icon.jpg)
 
 Our [Software Development Kits (SDKs)](https://aws.amazon.com/tools/) simplify using AWS services in your applications with an Application Program Interface (API) tailored to your programming language or platform.
 
@@ -150,12 +150,12 @@ Use Copilot to:
 >
 > 【AWS入门视频】 https://www.bilibili.com/video/BV1NJ411n7LB/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%205.48.26%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%205.48.26%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.47.15%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.47.15%20PM.png)
 <small>【AWS入门视频】 【精准空降到 15:58】 https://www.bilibili.com/video/BV1NJ411n7LB/?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d&t=958</small>
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.52.06%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.52.06%20PM.png)
 
 ### Computing Service
 
@@ -183,7 +183,7 @@ Use Copilot to:
 
 ## [👩🏼‍🏫 AWS Training and Certification](https://aws.amazon.com/training/?ref=docs_gateway/index.html)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.27.30%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.27.30%20PM.png)
 
 
 ## [APN](https://aws.amazon.com/partners/)
@@ -193,7 +193,7 @@ This diverse network features 100,000 partners from more than 150 countries. As 
 
 Together, partners and AWS can provide innovative solutions, solve technical challenges, win deals, and deliver value to our mutual customers.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.44.04%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-02-07%20at%206.44.04%20PM.png)
 
 ## Ref
 

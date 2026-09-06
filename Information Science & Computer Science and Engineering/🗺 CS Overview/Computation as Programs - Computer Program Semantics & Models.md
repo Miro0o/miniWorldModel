@@ -48,11 +48,11 @@ Harold Abelson and Gerald Jay Sussman with Julie Sussman
 <small>The relationship of language, information/data, computation, and automation.</small>
 ↗ [Universe, Self-Awareness, and Intelligence](../../Universe,%20Self-Awareness,%20and%20Intelligence.md)
 
-![Automata_Formal_Lan.excalidraw | 800](../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
+![Automata_Formal_Lan.excalidraw | 800](../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
 <small>Automata and Formal Language</small>
 ↗ [Automata Theory and (Formal) Language Theory](../🧮%20Mathematics/🤼‍♀️%20Mathematical%20Logic%20(Foundations%20of%20Mathematics)/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 
-![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 ↗ [Computer Architecture](../🔑%20CS%20Core/👷🏾‍♂️%20Computer%20(Host)%20System/Computer%20Architecture/Computer%20Architecture.md)
 
@@ -394,10 +394,10 @@ C 程序的状态机模型3 (语义，semantics)
 ↗ [Program Execution (Runtime)](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 ↗ [Procedure (Function) Call & Runtime Memory Layout](../🔑%20CS%20Core/🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🤡%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
+![](../../Assets/Pics/Screenshot%202023-03-02%20at%204.11.10%20PM.png)
 <small>Computer Components: Top-Level View</small>
 
-![|450](../../../../Assets/Pics/Pasted%20image%2020250303220015.png)
+![|450](../../Assets/Pics/Pasted%20image%2020250303220015.png)
 ![application_execution_and_computer_data_flow.excalidraw | 800](../../Assets/Illustrations/Computer%20System/application_execution_and_computer_data_flow.excalidraw.md)
 <small>Dynamic code analysis</small>
 

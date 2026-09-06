@@ -69,7 +69,7 @@ A Stick Figure Guide to the Advanced Encryption Standard (AES)
 
 
 ### ⭐️ Block Cipher Design Models
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.45.37%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.45.37%20PM.png)
 #### 1️⃣ SPN (Substitution & Permutation Network)
 
 #### 2️⃣ Feistel
@@ -80,9 +80,9 @@ A Stick Figure Guide to the Advanced Encryption Standard (AES)
 （4）密钥长度越大，安全性越高
 （5）循环次数越多，安全性越高
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.23%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.37%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.49%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.23%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.37%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.49%20PM.png)
 
 
 ### Block Cipher Implementations
@@ -133,7 +133,7 @@ Comparing Modes of Operation: CBC & CTR
 		- Consider human factors: Systems should be as secure as possible even when implemented incorrectly
 	- IV failures on CTR mode have resulted in multiple real-world security incidents!
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.51.54%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.51.54%20PM.png)
 
 
 ### OTP -> ECB -> CBC
@@ -143,7 +143,7 @@ Comparing Modes of Operation: CBC & CTR
 $Enc(K, M) = C1 || C2 || … || Cm$
 将每块明文加密成相应的密码块，若最后一块不足64bit， 则用一些任意二进制序列填充。这样相同的明文块总被加密成相同的密文块。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.51.09%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.51.09%20PM.png)
 
 特点：
 (1) 一种最简易的工作方式; 由于没有任何形式的反馈，在相同的明文加密后将产生相同的密文。这样 在处理具有固定数据结构的明文数据时容易暴露明文数据的固有格式。
@@ -156,7 +156,7 @@ $Enc(K, M) = C1 || C2 || … || Cm$
 加入反馈机制，当前明文块在加密之前要与前面的密文块进行异或。
 设明文块为 $m_1，m_2，...， m_N$ 产生的密文块为 $c_1，c_2，..., c_N$ 加密密钥为K，初始随机向量为 **IV(Initialization Vector)**，加密算法记为$E_K$，解密算法记为$D_K$。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.06.06%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.06.06%20PM.png)
 
 关于CBC初始向量IV的说明:
 (1) 加密时，用于第一个明文块以产生第一个密文块; 解密时，用于对第一个密文块的解密输出进行异或，以产生第一个明文块;
@@ -171,9 +171,9 @@ $$
 
 若攻击者能够预测性地改变IV的比特，这也可以改变接收方m1的响应比特值。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.50.17%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.50.17%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.35.51%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.35.51%20PM.png)
 ##### Padding
 - What padding scheme should we use?
 	- Padding with 0’s?
@@ -190,7 +190,7 @@ $$
 
 **PKCS\# 7 is not secure!** 
 ##### Blocking Patterns
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.17.35%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.17.35%20PM.png)
 ##### CBC Features
 （1）加入反馈机制, 隐蔽明文的数据模式, 同一明文块会产生不同的密文块;算法不再是一个 “大的单字母替换”
 （2）有误码扩散，同时又有自同步特性; 若Ci在传送过程中出错，则解密时会造成mi和mi+1两个明文块都出错，但后面的密文块仍然能自动正确恢复。人们把这种错误传播形式称为“有限传播”
@@ -204,10 +204,10 @@ $$
 可克服CBC方式的第(3)个问题。
 CFB 模式(Cipher Feedback Mode)引入一个整数参数 s，1<=s<=b 。 需要注意的是，明文不是按 b 进行分组，而是按 s 分组，且明文的长度必须是 s 的倍数。CFB数据是按比分组小得多的单位进行加密的，密文依赖于前面所有的明文。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.19.12%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.19.21%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.19.12%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.19.21%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.39.10%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.39.10%20PM.png)
 
 特点：
 CFB 模式由于采用的是密文反馈，故若某个密文分组在传输中出现一位或多位的错误，将会引起当前分组和后续部分分组的解密错误。因为只有当错误的密文比特从寄存器中移出后，解密才会恢复正常，故一个密文分组的出错会影响后面最多 $\lceil \frac b s \rceil$ 个分组的解密($\lceil X \rceil$ 表大于等于 x 的最小整数)。
@@ -217,9 +217,9 @@ CFB 模式由于采用的是密文反馈，故若某个密文分组在传输中�
 #### 4️⃣ OFB (Output FeedBack)
 在 OFB 模式中，先产生一个密钥流，然后将其与明文相异或。 因此，OFB 模式实际上就是一个同步流密码，通过反复加密一个初始向量 IV 来得到密钥流。这种方法有时也 叫“内部反馈”，因为反馈机制独立于明文和密文而存在的。
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.29.07%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.29.07%20PM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.40.33%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.40.33%20PM.png)
 
 特点：
 (1) 可加密任意长度的数据(即不需要进行分组填充) 
@@ -234,7 +234,7 @@ CFB是以过去的密文块 $C_i-1$ 作为产生下一个子密钥的基础， �
 #### 5️⃣ CTR (Recommend) 👍
 > ↗ [Stream Cipher (Sequence Cipher)](../Stream%20Cipher%20(Sequence%20Cipher)/Stream%20Cipher%20(Sequence%20Cipher).md)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.33.18%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.33.18%20PM.png)
 
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240924124411.png)
@@ -252,11 +252,11 @@ CFB是以过去的密文块 $C_i-1$ 作为产生下一个子密钥的基础， �
 
 ### 6️⃣ CSM (Cipher-text Stealing Mode)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.41.42%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.41.42%20PM.png)
 
 
 ### ❓ Block Cipher Modes: How to choose
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.48.17%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.48.17%20PM.png)
 
 
 

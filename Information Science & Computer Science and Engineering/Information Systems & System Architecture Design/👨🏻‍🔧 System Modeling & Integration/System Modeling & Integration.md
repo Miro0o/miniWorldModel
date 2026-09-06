@@ -117,7 +117,7 @@ Software integration
 Process integration
 - ↗ [Process Modeling (Business Process Integration)](Enterprise%20Architecture%20Modeling%20(Software%20Integration)/Process%20Modeling%20(Business%20Process%20Integration)/Process%20Modeling%20(Business%20Process%20Integration).md)
 
-![|500](../../../../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
+![|500](../../../Assets/Pics/Screenshot%202026-04-19%20at%2010.52.50.png)
 
 ↗ [Data Integration](Data%20Integration/Data%20Integration.md)
 - ↗ [Data Warehouse & Beyonds](Data%20Integration/Data%20Warehouse%20&%20Beyonds.md)

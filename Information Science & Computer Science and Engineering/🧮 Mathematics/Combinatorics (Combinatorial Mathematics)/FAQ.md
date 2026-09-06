@@ -7,7 +7,7 @@
 ## [完美二叉树(perfect)与正则二叉树(strict)的概念](https://blog.csdn.net/Justme0/article/details/8608370)
 “满[二叉树](https://so.csdn.net/so/search?q=二叉树&spm=1001.2101.3001.7020)(full)”的定义在国内和国外完全不同，国内指“完美二叉树(perfect)”，国外指“正则二叉树(strict)”，所以我建议国内外都取消“满二叉树(full)”这个叫法，这样就没有不必要的麻烦了。
 
-![Screenshot 2022-12-14 at 7.08.54 PM](../../../../../../Assets/Pics/Screenshot%202022-12-14%20at%207.08.54%20PM.png)
+![Screenshot 2022-12-14 at 7.08.54 PM](../../../Assets/Pics/Screenshot%202022-12-14%20at%207.08.54%20PM.png)
 
 
 

@@ -21,7 +21,7 @@
 ## Intro
 
 ### Network Stacks & Application Layer
-![](../../../../../../Assets/Pics/Pasted%20image%2020240510144223.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240510144223.png)
 <small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
 
 

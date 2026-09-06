@@ -18,7 +18,7 @@ How does Bluetooth Work?
 
 
 ## Intro
-![](../../../../../../../../../Assets/Pics/220px-BluetoothLogo.svg.png)
+![](../../../../../../../../Assets/Pics/220px-BluetoothLogo.svg.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Bluetooth#
 

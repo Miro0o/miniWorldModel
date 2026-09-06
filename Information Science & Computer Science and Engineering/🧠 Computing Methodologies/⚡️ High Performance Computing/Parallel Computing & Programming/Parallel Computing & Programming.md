@@ -21,7 +21,7 @@
 ### Learning Resources
 👨‍💻 https://hpcwiki.io/parallel-programming/parallel-programming-intro/
 
-![](../../../../../../Assets/Pics/Screenshot%202024-07-26%20at%201.32.38%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-07-26%20at%201.32.38%20PM.png)
 <small>图：40 年来处理器性能进步示意图。1978-2018 年的数据由 Patterson 和 Hennessy（2017）给出，之后几年的数据是综合了 Geekbench5 和其他几个基准测试给出的大致值（具体的细节在这里我们不作过多描述）。2023 年的数据经过估算，将其转化到 4 个核总的的平均表现上得出。</small>
 
 
@@ -29,7 +29,7 @@
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Parallel_computing
 
-![](../../../../../../../Assets/Pics/Screenshot%202024-03-17%20at%204.49.59%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-03-17%20at%204.49.59%20PM.png)
 <small>https://en.wikipedia.org/wiki/Parallel_computing</small>
 
 Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism. Parallelism has long been employed in high-performance computing, but has gained broader interest due to the physical constraints preventing frequency scaling. As power consumption (and consequently heat generation) by computers has become a concern in recent years, parallel computing has become the dominant paradigm in computer architecture, mainly in the form of multi-core processors.

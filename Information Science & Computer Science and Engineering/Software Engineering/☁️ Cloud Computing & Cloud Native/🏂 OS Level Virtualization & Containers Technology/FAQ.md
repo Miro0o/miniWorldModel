@@ -96,7 +96,7 @@ Other answers in the posts list several usages about configurations. Refer to th
 
 
 ## 👉 Docker 🆚 Podman
-![](../../../../../../Assets/Pics/Pasted%20image%2020231002213140.png)
+![](../../../../Assets/Pics/Pasted%20image%2020231002213140.png)
 
 Podman and Docker have their benefits. While Podman scores more in security, Docker takes the lead in the image development department. Hence, you can move back and forth between the two tools for your operation’s requirements. And as both of them are OCI compliant, compatibility isn’t an issue.
 

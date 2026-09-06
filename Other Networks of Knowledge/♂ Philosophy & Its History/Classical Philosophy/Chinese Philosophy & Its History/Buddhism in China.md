@@ -56,7 +56,7 @@
 
 
 ## Chinese Buddhism（汉传佛教）
-![](../../../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
+![](../../../../Assets/Pics/Screenshot%202025-07-10%20at%2013.16.04.png)
 
 
 ### 天台宗

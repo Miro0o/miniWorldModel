@@ -195,11 +195,11 @@ This section provides in-depth guidance and code examples about Windows features
 
 
 ### Windows NT Architecture
-![|600](../../../../../../../../Assets/Pics/Pasted%20image%2020240601141419.png)
+![|600](../../../../../../Assets/Pics/Pasted%20image%2020240601141419.png)
 
 
 ### ⭐️ Windows Components
-![](../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 <small>Windows Internals Architecture</small>
 #### Windows Kernel Mode Components (Managers + Libraries)
 

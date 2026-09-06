@@ -582,7 +582,7 @@ Division of segments / sections:
 
 
 ## ⏬ Compiler Specific Sections/ Segments
-![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%208.24.47PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%208.24.47PM.png)
 
 
 ### .note.GNU-stack

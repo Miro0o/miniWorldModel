@@ -16,7 +16,7 @@
 > To review the other twos, go to ↗ [Mutual Exclusive & Synchronization (互斥与同步)](../Mutual%20Exclusive%20&%20Synchronization%20(互斥与同步).md)
 
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.37.20%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.37.20%20PM.png)
 
 
 

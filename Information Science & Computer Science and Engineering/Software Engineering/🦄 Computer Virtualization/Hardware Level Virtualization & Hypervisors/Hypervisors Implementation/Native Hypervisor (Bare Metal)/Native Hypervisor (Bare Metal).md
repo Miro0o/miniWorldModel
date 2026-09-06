@@ -14,7 +14,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230308103729.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230308103729.png)
 
 #TODO 
 

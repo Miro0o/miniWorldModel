@@ -10,7 +10,7 @@
 
 ### 🚪Intro
 
-![SonarQube Instance Components](../../../../../../../../../Assets/Pics/dev-cycle.png)
+![SonarQube Instance Components](../../../../../../../../Assets/Pics/dev-cycle.png)
 
 
 

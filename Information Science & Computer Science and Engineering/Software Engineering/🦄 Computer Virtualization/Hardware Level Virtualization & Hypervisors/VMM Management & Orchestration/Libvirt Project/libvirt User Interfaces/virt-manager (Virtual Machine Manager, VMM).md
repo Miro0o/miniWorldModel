@@ -14,7 +14,7 @@
 
 > The virt-manager source contains not only virt-manager itself but also a collection of further helpful tools like virt-install, virt-clone and virt-viewer.
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240313214742.png)
 
 Virtual Machine Manager allows users to:
 - create, edit, start and stop VMs

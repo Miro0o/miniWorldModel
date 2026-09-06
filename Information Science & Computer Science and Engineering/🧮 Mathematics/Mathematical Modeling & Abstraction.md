@@ -118,10 +118,10 @@ Different mathematical models use different geometries that are not necessarily 
 >
 >↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md) "The nature of environments" ✅
 
-![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
+![Drawing 2025-09-09 22.37.45.excalidraw | 800](../../Assets/Illustrations/Computer%20Language/Language_and_Programming_Language_Processing.md)
 <small>The process of compilation</small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020251007191312.png)
+![](../../Assets/Pics/Pasted%20image%2020251007191312.png)
 <small>A Map of Mathematical Structures for AI <br>
 Posted on December 30, 2022 (<a>https://mentalmodels4life.net/2022/12/30/a-map-of-mathematical-structures/</a>) by Kee Siong Ng (<a>https://mentalmodels4life.net/author/keesiongng/</a>) <br>
 Generally speaking, each arrow involves the addition of some new symbols and the axioms that provide their definitions and / or properties. Some boxes have multiple incoming arrows; these are systems constructed from the union of multiple sets of new symbols and axioms. Note also that the relationships represented by the arrows are, in general, transitive.</small>

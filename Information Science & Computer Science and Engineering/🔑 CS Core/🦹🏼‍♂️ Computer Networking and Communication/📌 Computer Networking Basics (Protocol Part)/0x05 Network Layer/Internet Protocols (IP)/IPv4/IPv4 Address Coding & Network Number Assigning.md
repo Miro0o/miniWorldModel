@@ -34,8 +34,8 @@ Subnet is device interfaces that can physically reach each other without passing
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%209.32.07%20AM.png)
 
-![Screenshot 2022-11-20 at 12.12.43 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.12.43%20PM.png)
-![Screenshot 2022-11-20 at 12.13.19 PM](../../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.13.19%20PM.png)
+![Screenshot 2022-11-20 at 12.12.43 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.12.43%20PM.png)
+![Screenshot 2022-11-20 at 12.13.19 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.13.19%20PM.png)
 #### 1️⃣ Type A Address
 ![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%209.35.22%20AM.png)
 

@@ -15,7 +15,7 @@
 Exokernel is an operating system kernel developed by the MIT Parallel and Distributed Operating Systems group, and also a class of similar operating systems.
 Operating systems generally present hardware resources to applications through high-level abstractions such as (virtual) file systems. The idea behind exokernels is to force as few abstractions as possible on application developers, enabling them to make as many decisions as possible about hardware abstractions. Exokernels are tiny, since functionality is limited to ensuring protection and multiplexing of resources, which is considerably simpler than conventional microkernels' implementation of message passing and monolithic kernels' implementation of high-level abstractions.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202024-02-20%20at%2010.05.28AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-20%20at%2010.05.28AM.png)
 <small>Graphic overview of Exokernel. Exokernels are much smaller than a normal kernel (monolithic kernel). They give more direct access to the hardware, thus removing most abstractions</small>
 
 The exokernel concept has been around since at least 1994, but as of 2010exokernels are still a research effort and have not been used in any major commercial operating systems.

@@ -13,12 +13,12 @@
 - ﻿﻿Magnetic tape is the oldest and most cost-effective of all mass-storage devices.
 - ﻿﻿First-generation magnetic tapes were made of the same material used by analog tape recorders (模拟磁带录音机）.
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.24.35%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.24.35%20PM.png)
 
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.25.06%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.25.06%20PM.png)
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.25.13%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-24%20at%207.25.13%20PM.png)
 
 
 

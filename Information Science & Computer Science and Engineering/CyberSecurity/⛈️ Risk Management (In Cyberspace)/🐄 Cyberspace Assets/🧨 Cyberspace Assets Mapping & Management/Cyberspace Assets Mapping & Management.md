@@ -71,7 +71,7 @@ Through continuous active detection of global Internet assets, more than 4 billi
 
 
 ### 网络空间测绘系统架构 （Cyberspace Assets Detection System Architecture）
-![](../../../../../../Assets/Pics/Pasted%20image%2020231005164056.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020231005164056.png)
 
 
 ### 1️⃣ Network Assets Detection

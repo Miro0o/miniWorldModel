@@ -117,12 +117,12 @@ These mechanisms affect program control flow by providing orderly transfer of co
 > 🎬 [Function Call in x86 Assembly](https://youtu.be/JmYsn4NNeH4?si=NIjqHXnsZkhcaMCw)
 
 The process virtual memory layout: 
-![|400](../../../../../Assets/Pics/Pasted%20image%2020240902162344.png)
+![|400](../../../../Assets/Pics/Pasted%20image%2020240902162344.png)
 
-![](../../../../../Assets/Pics/Screenshot%202024-09-04%20at%2012.59.03.png)
+![](../../../../Assets/Pics/Screenshot%202024-09-04%20at%2012.59.03.png)
 ##### Stack: Pushing and popping
-![](../../../../../Assets/Pics/Pasted%20image%2020240910095249.png)
-![](../../../../../Assets/Pics/Pasted%20image%2020240910095256.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240910095249.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240910095256.png)
 ##### x86 Function Call
 When a function is called, the stack allocates extra space to store local variables and other information relevant to that function. Recall that the stack grows down, so this extra space will be at lower addresses in memory. Once the function returns, the space on the stack is freed up for future function calls. This section explains the steps of a function call in x86.
 
@@ -137,41 +137,41 @@ When the function returns, we want to restore the old values in the registers so
 There are **11 steps** to calling an x86 function and returning. In this example, `main` is the caller function and `foo` is the callee function. In other words, `main` calls the `foo` function.
 
 Here is the stack before the function is called. `ebp` and `esp` point to the top and bottom of the caller stack frame.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163556.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163556.png)
 
 **1. Push function arguments onto the stack.** RISC-V passes arguments by storing them in registers, but x86 passes arguments by pushing them onto the stack. Note that esp is decremented as we push arguments onto the stack. Arguments are pushed onto the stack in reverse order.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163609.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163609.png)
 
 **2. Push the old `eip` (`rip`) on the stack.** We are about to change the value in the `eip` register, so we need to save its current value on the stack before we overwrite it with a new value. When we push this value on the stack, it is called the `old eip` or the `rip` (return instruction pointer).[6](https://textbook.cs161.org/memory-safety/x86.html#fn:6)
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163631.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163631.png)
 
 **3. Move `eip`.** Now that we’ve saved the old value of `eip`, we can safely change `eip` to point to the instructions for the callee function.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163646.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163646.png)
 
 **4. Push the `old ebp` (`sfp`) on the stack.** We are about to change the value in the `ebp` register, so we need to save its current value on the stack before we overwrite it with a new value. When we push this value on the stack, it is called the `old ebp` or the `sfp` (saved frame pointer). Note that `esp` has been decremented because we pushed a new value on the stack.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163656.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163656.png)
 
 **5. Move `ebp` down.** Now that we’ve saved the old value of `ebp`, we can safely change `ebp` to point to the top of the new stack frame. The top of the new stack frame is where `esp` is currently pointing, since we are about to allocate new space below `esp` for the new stack frame.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163706.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163706.png)
 
 **6. Move esp down.** Now we can allocate new space for the new stack frame by decrementing `esp`. The compiler looks at the complexity of the function to determine how far `esp` should be decremented. For example, a function with only a few local variables doesn’t require too much space on the stack, so `esp` will only be decremented by a few bytes. On the other hand, if a function declares a large array as a local variable, `esp` will need to be decremented by a lot to fit the array on the stack.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163716.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163716.png)
 
 **7. Execute the function.** Local variables and any other necessary data can now be saved in the new stack frame. Additionally, since ebp is always pointing at the top of the stack frame, we can use it as a point of reference to find other variables on the stack. For example, the arguments will be located starting at the address stored in ebp, plus 8.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163725.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163725.png)
 
 **8. Move esp up.** Once the function is ready to return, we increment `esp` to point to the top(bottom?) of the stack frame (`ebp`). This effectively erases the stack frame, since the stack frame is now located below esp. (Anything on the stack below `esp` is undefined.)
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163733.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163733.png)
 
 **9. Restore the old `ebp` (`sfp`)**. The next value on the stack is the `sfp`, the old value of `ebp` `before` we started executing the function. We pop the `sfp` off the stack and store it back into the `ebp` register. This returns `ebp` to its old value before the function was called.
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163742.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163742.png)
 
 **10. Restore the old eip (rip)**. The next value on the stack is the rip, the old value of eip before we started executing the function. We pop the rip off the stack and store it back into the eip register. This returns eip to its old value before the function was called.[7](https://textbook.cs161.org/memory-safety/x86.html#fn:7)
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163750.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163750.png)
 
 **11. Remove arguments from the stack.** Since the function call is over, we don’t need to store the arguments anymore. We can remove them by incrementing `esp` (recall that anything on the stack below `esp` is undefined).
-![](../../../../../Assets/Pics/Pasted%20image%2020240902163801.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240902163801.png)
 
 You might notice that we saved the old values of `eip` and `ebp` during the function call, but not the old value of esp. A nice consequence of this function call design is that `esp` will automatically move to the bottom of the stack as we push values onto the stack and automatically return to its old position as we remove values from the stack. As a result, there is no need to save the old value of `esp` during the function call.
 
@@ -282,7 +282,7 @@ The trade-off between abstraction benefits and runtime costs is evident in the o
 
 合理的构建方法并调用，能大大增加代码的复用性，也能使代码结构更加清晰，接下来我们就来详细的介绍。
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240610235007.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240610235007.png)
 
 [系统调用与过程调用 | CSDN]: https://blog.csdn.net/shuyangxiaogou/article/details/5666098
 1. 调用形式不同
@@ -291,6 +291,6 @@ The trade-off between abstraction benefits and runtime costs is evident in the o
 4. 调用的实现不同
 
 [汇编中的栈帧理解 | CSDN]: http://t.csdnimg.cn/h7dY6
-![](../../../../../../Assets/Pics/Pasted%20image%2020240610215026.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240610215026.png)
 
 ![](../../../../Assets/Pics/Pasted%20image%2020250303220015.png)

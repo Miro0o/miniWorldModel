@@ -12,7 +12,7 @@
 ## Intro
 Travis CI is the most used CI tool with GitHub.com !
 
-![Screen Shot 2022-10-29 at 11.44.02 PM](../../../../../../../Assets/Pics/Screen%20Shot%202022-10-29%20at%2011.44.02%20PM.png)
+![Screen Shot 2022-10-29 at 11.44.02 PM](../../../../../../Assets/Pics/Screen%20Shot%202022-10-29%20at%2011.44.02%20PM.png)
 
 <small>Src: [GitHub welcomes all CI tools! ](https://github.blog/2017-11-07-github-welcomes-all-ci-tools/)</small>
 

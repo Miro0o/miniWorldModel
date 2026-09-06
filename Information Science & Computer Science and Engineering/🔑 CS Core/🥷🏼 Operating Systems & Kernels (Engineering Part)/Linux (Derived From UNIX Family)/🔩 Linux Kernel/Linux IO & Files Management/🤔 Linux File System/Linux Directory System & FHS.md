@@ -16,7 +16,7 @@
 ## Intro
 Figure below gives an overall idea of what the basic file system tree looks like (the image is kindly supplied under a CC By-SA license by Paul Gardner) and [Wikipedia has a break down with a summary of what each directory is used for](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout).
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020231019195646.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020231019195646.png)
 
 
 

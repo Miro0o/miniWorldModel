@@ -299,7 +299,7 @@ But such computations only make sense if our simulated jai-alai world is a model
 ## 🎯 Probability Theory
 ### Probability Theory Basics
 #### Sampling Space & Random Event
-![](../../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
+![](../../../../../Assets/Pics/Screenshot%202025-11-15%20at%2022.46.56.png)
 #### Probability of Random Event
 
 **1. Frequency of Event**

@@ -12,5 +12,5 @@
 
 ## 模是奇素数幂的二次剩余
 
-![Screenshot 2023-01-05 at 12.24.43 AM](../../../../../../../../Assets/Pics/Screenshot 2023-01-05 at 12.24.43 AM.png)
+![Screenshot 2023-01-05 at 12.24.43 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-05%20at%2012.24.43%20AM.png)
 

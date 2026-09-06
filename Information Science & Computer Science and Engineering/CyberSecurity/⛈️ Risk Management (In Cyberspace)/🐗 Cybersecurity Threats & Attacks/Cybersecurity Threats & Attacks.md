@@ -55,7 +55,7 @@
 ↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20Models%20&%20Threat%20Modeling/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
-![](../../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
+![](../../../../Assets/Pics/Screenshot%202025-10-01%20at%2022.23.14.png)
 <small>Threat Modeling using ATTCK Threat Tactics. <br><a>https://attack.mitre.org/matrices/enterprise/</a></small>
 
 

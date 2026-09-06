@@ -24,7 +24,7 @@ To perform computing tasks more efficiently, generally one can invest time and m
 
 Hardware acceleration is advantageous for performance, and practical when the functions are fixed so updates are not as needed as in software solutions. With the advent of reprogrammable logic devices such as FPGAs, the restriction of hardware acceleration to fully fixed algorithms has eased since 2010, allowing hardware acceleration to be applied to problem domains requiring modification to algorithms and processing control flow. The disadvantage however, is that in many open source projects, it requires proprietary libraries that not all vendors are keen to distribute or expose, making it difficult to integrate in such projects.
 
-![](../../../../../Assets/Pics/Screenshot%202024-07-26%20at%201.51.53%20PM.png)
+![](../../../../Assets/Pics/Screenshot%202024-07-26%20at%201.51.53%20PM.png)
 <small>https://en.wikipedia.org/wiki/Hardware_acceleration#External_links</small>
 
 ![](../../../../Assets/Pics/Screenshot%202024-07-26%20at%202.01.12%20PM.png)

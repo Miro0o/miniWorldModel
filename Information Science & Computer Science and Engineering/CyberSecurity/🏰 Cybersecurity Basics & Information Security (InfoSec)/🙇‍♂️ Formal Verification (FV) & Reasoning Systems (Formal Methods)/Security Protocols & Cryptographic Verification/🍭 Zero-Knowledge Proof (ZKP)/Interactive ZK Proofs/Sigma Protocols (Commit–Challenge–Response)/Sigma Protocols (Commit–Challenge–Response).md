@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [ElGamal](../../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Modular%20Exponentiation%20Based/ElGamal/ElGamal.md)
+↗ [ElGamal](../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/📌%20Asymmetric%20Cipher%20%28Public-Key%20Cryptography%29/Modular%20Exponentiation%20Based/ElGamal/ElGamal.md)
 
-↗ [CryptHOL](../../../../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20(Proof%20Assistants)/Automated%20&%20Generic%20Theorem%20Provers/Isabelle%20&%20Isar%20Language/CryptHOL.md)
+↗ [CryptHOL](../../../../../../☠️%20Kill%20Chain%20&%20Security%20Tool%20Box/🔞%20Software%20Analysis%20Tools/♊️%20Formal%20Verifications%20&%20Constraint%20Solvers%20%28Proof%20Assistants%29/Automated%20&%20Generic%20Theorem%20Provers/Isabelle%20&%20Isar%20Language/CryptHOL.md)
 
 
 ### Other Resources

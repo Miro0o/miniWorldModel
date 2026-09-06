@@ -27,7 +27,7 @@ https://www.xiaohongshu.com/user/profile/5f3c0b120000000001002d64
 
 ## Intro
 
-![awesome logo](../../../../Assets/Pics/awesome.png)
+![awesome logo](../../Assets/Pics/awesome.png)
 
 The <span style="color:orange">Awesome list</span> is a list of awesome things curated by the community.
 

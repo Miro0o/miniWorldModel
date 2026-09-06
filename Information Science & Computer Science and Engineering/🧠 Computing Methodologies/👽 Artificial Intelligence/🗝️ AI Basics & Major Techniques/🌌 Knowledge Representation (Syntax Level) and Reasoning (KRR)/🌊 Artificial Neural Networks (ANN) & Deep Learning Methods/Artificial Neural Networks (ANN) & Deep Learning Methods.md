@@ -282,7 +282,7 @@ A **perceptron** is the earliest form of a neural network unit, introduced by�
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260318161242.png)
 <small><a>https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea</a></small>
 ##### MLP (Multi Layer Perceptrons)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-01-29%20at%2012.54.02%20AM.png)
 <small>fully connected, dense layer</small>
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020260318161516.png)

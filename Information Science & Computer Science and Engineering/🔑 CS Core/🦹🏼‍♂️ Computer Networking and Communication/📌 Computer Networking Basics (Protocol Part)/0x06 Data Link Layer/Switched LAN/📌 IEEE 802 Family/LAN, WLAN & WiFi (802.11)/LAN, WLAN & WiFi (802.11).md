@@ -32,5 +32,5 @@ The protocols are typically used in conjunction with [IEEE 802.2](https://en.wi
 ## Ref
 [👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA 
 
-![](../../../../../../../../../Assets/Pics/Pasted%20image%2020240510151123.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240510151123.png)
 

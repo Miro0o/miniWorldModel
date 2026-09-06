@@ -23,7 +23,7 @@
 > 🔗 https://textbook.cs161.org/memory-safety/mitigations.html
 
 > Since most OS kernels are written in C/C++, which relied by all above applications, we cannot really eliminate memory vulnerabilities because eventually all codes are running in c compiled instructions. However, by principle of "defense-in-depth", we can ensure we don't write programs that has memory safety issues using multiple methods, including memory-safety languages, which fundamentally guarantee the we produce memory safety code (which will also eventually implemented in memory-unsafe language, C, but memory-safety languages like java make sue our ultimate memory-unsafe C language version of code is safe 🥺). Except using memory-safety languages, all other means do not eliminate such insecurity, these includes writing memory safety codes by programmer (but they still would make mistakes), using software testing tools (but they don't guarantee 100% coverage), mitigating specific exploits, and so on.
-> ![](../../../../../../../Assets/Pics/Pasted%20image%2020240915011047.png)
+> ![](../../../../../../Assets/Pics/Pasted%20image%2020240915011047.png)
 
 
 ### 1. Memory-Safety Languages (SDK/Library)

@@ -4,7 +4,7 @@
 
 
 
-![mamba header image](../../../../../../../../../../Assets/Pics/mamba_header.png)
+![mamba header image](../../../../../../../../Assets/Pics/mamba_header.png)
 
 
 

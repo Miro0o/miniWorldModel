@@ -32,6 +32,6 @@ HarmonyOS 3 安全技术白皮书
 
 [HAP 是什么 （HarmonyOS鸿蒙开发基础知识） | CSDN]: https://blog.csdn.net/iCloudEnd/article/details/108586724
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240402125029.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240402125029.png)
 
 [HarmonyOS 2.0全解析：这究竟是一个怎么样的系统？ | cnblog]: https://bbs.kanxue.com/thread-267955.htm

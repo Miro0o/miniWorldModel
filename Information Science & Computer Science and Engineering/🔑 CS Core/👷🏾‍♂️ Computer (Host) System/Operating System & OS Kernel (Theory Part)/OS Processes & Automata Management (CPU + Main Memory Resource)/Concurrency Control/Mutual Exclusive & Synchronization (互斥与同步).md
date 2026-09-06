@@ -55,7 +55,7 @@ Any facility or capability that is to provide support for mutual exclusion shoul
 2. A second approach involves the use of special-purpose machine instructions. (**hardware level**)
 3. A third approach is to provide some level of support within the OS or a programming language. (**system software level**)
 #### 👉 Process Self-discretion
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.57.48%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.57.48%20PM.png)
 ##### 1️⃣ Dekker’s Algorithm
 ```c
 bool flag[2];
@@ -152,7 +152,7 @@ void main(){
 }
 ```
 #### 👉 Hardware Level Approaches
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.59.00%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.59.00%20PM.png)
 ##### 1️⃣ Interrupt Disabling (Interrupt Mask)
 In a uniprocessor system, concurrent processes cannot have overlapped execution; they can only be interleaved. Furthermore, a process will continue to run until it invokes an OS service or until it is interrupted. Therefore, to guarantee mutual exclusion, it is sufficient to prevent a process from being interrupted. This capability can be provided in the form of primitives defined by the OS kernel for disabling and enabling interrupts.
 
@@ -183,7 +183,7 @@ if (oldval == testval) *word = newval; return oldval;
 
 }
 ```
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.27.15%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.27.15%20AM.png)
 
 The exchange instruction can be defined as follows:
 ```c
@@ -218,7 +218,7 @@ Because of the drawbacks of both the software and hardware solutions, we need to
 
 ↗ [System Level Concurrency Control Mechanism](⭐️%20System%20Level%20Concurrency%20Control%20Mechanism/System%20Level%20Concurrency%20Control%20Mechanism.md)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%201.50.54%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%201.50.54%20PM.png)
 
 
 

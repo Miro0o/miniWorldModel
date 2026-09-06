@@ -22,7 +22,7 @@ These modules perform many functions, including
 
 > Although one method isn’t necessarily better than another, the manner in which a computer controls its I/O greatly influences overall system design and performance. The objective is to know when the I/O method employed by a particular computer architecture is appropriate to how that system will be used.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.38.09%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-08%20at%201.38.09%20PM.png)
 
 
 

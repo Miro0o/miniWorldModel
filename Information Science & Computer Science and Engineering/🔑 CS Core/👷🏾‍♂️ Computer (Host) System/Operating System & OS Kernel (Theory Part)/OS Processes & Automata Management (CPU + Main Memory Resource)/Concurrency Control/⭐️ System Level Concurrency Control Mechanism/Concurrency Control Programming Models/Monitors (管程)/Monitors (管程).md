@@ -49,7 +49,7 @@ A monitor supports synchronization by the use of **condition variables** that ar
 - `cwait(c)`: Suspend execution of the calling process on condition c. The monitor is now available for use by another process.
 - `csignal(c)`: Resume execution of some process blocked after a `cwait` on the same condition. If there are several such processes, choose one of them; if there is no such process, do nothing.
 
-![|500](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%202.02.38%20PM.png)
+![|500](../../../../../../../../../Assets/Pics/Screenshot%202023-04-06%20at%202.02.38%20PM.png)
 
 
 ### Hoare's Monitor for Bounded-Buffer Producer/Consumer Problem

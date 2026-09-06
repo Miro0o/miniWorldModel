@@ -31,7 +31,7 @@ If you have an improvement for fish, you can submit it via the GitHub page.
 
 
 ## Intro
-![|300](../../../../../../../../Assets/Pics/Terminal_Logo2_CRT_Flat.png)
+![|300](../../../../../../Assets/Pics/Terminal_Logo2_CRT_Flat.png)
 
 fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the famil.
 

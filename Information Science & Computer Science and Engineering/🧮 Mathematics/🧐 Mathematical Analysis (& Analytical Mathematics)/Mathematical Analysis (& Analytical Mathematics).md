@@ -186,7 +186,7 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 				- $x = x(t), y = y(t)$
 				- （例）：级坐标方程表示
 				- （例）：旋轮线（摆线）
-					- ![](../../../../../Assets/Pics/Screenshot-2023-10-05-at-11.20.50-PM.png)
+					- ![](../../../Assets/Pics/Screenshot-2023-10-05-at-11.20.50-PM.png)
 	- 图像法
 	- 表格法
 - （下面的内容逻辑上应该在数列之后）
@@ -298,13 +298,13 @@ These theories are usually studied in the context of [real](https://en.wikipedi
 ε-δ语言，或极限的(ε, δ)定义（(ε, δ)-definition of limit）是一种在数学分析中仅使用（有限多的）实数值来定义极限的方法。
 
 [小朋友逆袭！指导李永乐老师做小学数学题！｜李永乐]: https://youtu.be/4uFp7QDiEiU
-![Screenshot 2023-01-15 at 11.45.03 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.45.03%20PM.png)
+![Screenshot 2023-01-15 at 11.45.03 PM](../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.45.03%20PM.png)
 
 [x的x次方图像长啥样？利用复数拓展乘方，刷新你对数学的认知！｜李永乐]: https://youtu.be/6HYZWVYv0WY
-![Screenshot 2023-01-15 at 11.42.59 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.59%20PM.png)
+![Screenshot 2023-01-15 at 11.42.59 PM](../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.59%20PM.png)
 
-![Screenshot 2023-01-15 at 11.42.11 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.11%20PM.png)
+![Screenshot 2023-01-15 at 11.42.11 PM](../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.42.11%20PM.png)
 
-![Screenshot 2023-01-15 at 11.41.11 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.11%20PM.png)
+![Screenshot 2023-01-15 at 11.41.11 PM](../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.11%20PM.png)
 
-![Screenshot 2023-01-15 at 11.41.32 PM](../../../../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.32%20PM.png)
+![Screenshot 2023-01-15 at 11.41.32 PM](../../../Assets/Pics/Screenshot%202023-01-15%20at%2011.41.32%20PM.png)

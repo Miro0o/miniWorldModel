@@ -28,7 +28,7 @@
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.08.00%20AM.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.06.30%20AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%2011.06.30%20AM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-16%20at%207.33.14%20PM.png)
 

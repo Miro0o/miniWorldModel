@@ -41,7 +41,7 @@ Quick Bench is a micro benchmarking tool intended to quickly and simply compare 
 
 
 ## Intro
-![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
+![](../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
 
 ↗ [Program Language Processing & Compilation Theory (Compile-time)](../../../🧞‍♂️%20Programming%20Language%20Processing%20&%20Program%20Execution/🚮%20Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Processing%20&%20Compilation%20Theory%20(Compile-time).md)
 
